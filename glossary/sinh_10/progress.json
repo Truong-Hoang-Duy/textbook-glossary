@@ -1,0 +1,822 @@
+{
+  "unit": "sinh_10",
+  "books": {
+    "SGK Sinh hoc 10.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        159,
+        160
+      ],
+      "chapters": {
+        "Phần mở đầu": {
+          "lessons": {
+            "Bài 1. Giới thiệu khái quát môn Sinh học": {
+              "status": "done",
+              "pdf_pages": [
+                6,
+                12
+              ],
+              "terms_added": 11
+            },
+            "Bài 2. Phương pháp nghiên cứu và học tập môn Sinh học": {
+              "status": "done",
+              "pdf_pages": [
+                13,
+                18
+              ],
+              "terms_added": 17
+            },
+            "Bài 3. Các cấp độ tổ chức của thế giới sống": {
+              "status": "done",
+              "pdf_pages": [
+                19,
+                23
+              ],
+              "terms_added": 12
+            }
+          }
+        },
+        "Chương 1. Thành phần hoá học của tế bào": {
+          "lessons": {
+            "Bài 4. Các nguyên tố hoá học và nước": {
+              "status": "done",
+              "pdf_pages": [
+                24,
+                28
+              ],
+              "terms_added": 10
+            },
+            "Bài 5. Các phân tử sinh học": {
+              "status": "done",
+              "pdf_pages": [
+                29,
+                41
+              ],
+              "terms_added": 34
+            },
+            "Bài 6. Thực hành: Nhận biết một số phân tử sinh học": {
+              "status": "done",
+              "pdf_pages": [
+                42,
+                44
+              ],
+              "terms_added": 3
+            }
+          }
+        },
+        "Chương 2. Cấu trúc tế bào": {
+          "lessons": {
+            "Bài 7. Tế bào nhân sơ": {
+              "status": "done",
+              "pdf_pages": [
+                45,
+                48
+              ],
+              "terms_added": 10
+            },
+            "Bài 8. Tế bào nhân thực": {
+              "status": "done",
+              "pdf_pages": [
+                49,
+                61
+              ],
+              "terms_added": 24
+            },
+            "Bài 9. Thực hành: Quan sát tế bào": {
+              "status": "done",
+              "pdf_pages": [
+                62,
+                64
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 3. Trao đổi chất qua màng và truyền tin tế bào": {
+          "lessons": {
+            "Bài 10. Trao đổi chất qua màng tế bào": {
+              "status": "done",
+              "pdf_pages": [
+                65,
+                71
+              ],
+              "terms_added": 16
+            },
+            "Bài 11. Thực hành: Thí nghiệm co và phản co nguyên sinh": {
+              "status": "done",
+              "pdf_pages": [
+                72,
+                73
+              ],
+              "terms_added": 0
+            },
+            "Bài 12. Truyền tin tế bào": {
+              "status": "done",
+              "pdf_pages": [
+                74,
+                78
+              ],
+              "terms_added": 6
+            }
+          }
+        },
+        "Chương 4. Chuyển hoá năng lượng trong tế bào": {
+          "lessons": {
+            "Bài 13. Khái quát về chuyển hoá vật chất và năng lượng": {
+              "status": "done",
+              "pdf_pages": [
+                79,
+                85
+              ],
+              "terms_added": 13
+            },
+            "Bài 14. Phân giải và tổng hợp các chất trong tế bào": {
+              "status": "done",
+              "pdf_pages": [
+                86,
+                94
+              ],
+              "terms_added": 17
+            },
+            "Bài 15. Thực hành: Thí nghiệm phân tích ảnh hưởng của một số yếu tố đến hoạt tính của enzyme và kiểm tra hoạt tính của enzyme amylase": {
+              "status": "done",
+              "pdf_pages": [
+                95,
+                97
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 5. Chu kì tế bào và phân bào": {
+          "lessons": {
+            "Bài 16. Chu kì tế bào và nguyên phân": {
+              "status": "done",
+              "pdf_pages": [
+                98,
+                104
+              ],
+              "terms_added": 9
+            },
+            "Bài 17. Giảm phân": {
+              "status": "done",
+              "pdf_pages": [
+                105,
+                108
+              ],
+              "terms_added": 6
+            },
+            "Bài 18. Thực hành: Làm và quan sát tiêu bản quá trình nguyên phân và giảm phân": {
+              "status": "done",
+              "pdf_pages": [
+                109,
+                110
+              ],
+              "terms_added": 0
+            },
+            "Bài 19. Công nghệ tế bào": {
+              "status": "done",
+              "pdf_pages": [
+                111,
+                116
+              ],
+              "terms_added": 10
+            }
+          }
+        },
+        "Chương 6. Sinh học vi sinh vật": {
+          "lessons": {
+            "Bài 20. Sự đa dạng và phương pháp nghiên cứu vi sinh vật": {
+              "status": "done",
+              "pdf_pages": [
+                117,
+                122
+              ],
+              "terms_added": 8
+            },
+            "Bài 21. Trao đổi chất, sinh trưởng và sinh sản ở vi sinh vật": {
+              "status": "done",
+              "pdf_pages": [
+                123,
+                131
+              ],
+              "terms_added": 17
+            },
+            "Bài 22. Vai trò và ứng dụng của vi sinh vật": {
+              "status": "done",
+              "pdf_pages": [
+                132,
+                138
+              ],
+              "terms_added": 6
+            },
+            "Bài 23. Thực hành: Một số phương pháp nghiên cứu vi sinh vật thông dụng, tìm hiểu về các sản phẩm công nghệ vi sinh vật và làm một số sản phẩm lên men từ vi sinh vật": {
+              "status": "done",
+              "pdf_pages": [
+                139,
+                141
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 7. Virus": {
+          "lessons": {
+            "Bài 24. Khái quát về virus": {
+              "status": "done",
+              "pdf_pages": [
+                142,
+                145
+              ],
+              "terms_added": 7
+            },
+            "Bài 25. Một số bệnh do virus và các thành tựu nghiên cứu ứng dụng virus": {
+              "status": "done",
+              "pdf_pages": [
+                146,
+                155
+              ],
+              "terms_added": 9
+            },
+            "Bài 26. Thực hành: Điều tra một số bệnh do virus và tuyên truyền phòng chống bệnh": {
+              "status": "done",
+              "pdf_pages": [
+                156,
+                158
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    },
+    "SCD Sinh hoc 10.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        76,
+        76
+      ],
+      "chapters": {
+        "Chuyên đề 1. Công nghệ tế bào và một số thành tựu": {
+          "lessons": {
+            "Bài 1. Công nghệ tế bào thực vật và thành tựu": {
+              "status": "done",
+              "pdf_pages": [
+                6,
+                11
+              ],
+              "terms_added": 5
+            },
+            "Bài 2. Tế bào gốc và một số thành tựu": {
+              "status": "done",
+              "pdf_pages": [
+                12,
+                15
+              ],
+              "terms_added": 6
+            },
+            "Bài 3. Công nghệ tế bào động vật và thành tựu": {
+              "status": "done",
+              "pdf_pages": [
+                16,
+                24
+              ],
+              "terms_added": 6
+            },
+            "Bài 4. Dự án: Tìm hiểu về một số thành tựu công nghệ tế bào": {
+              "status": "done",
+              "pdf_pages": [
+                25,
+                27
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chuyên đề 2. Công nghệ enzyme và ứng dụng": {
+          "lessons": {
+            "Bài 5. Khái quát về công nghệ enzyme": {
+              "status": "done",
+              "pdf_pages": [
+                28,
+                35
+              ],
+              "terms_added": 6
+            },
+            "Bài 6. Quy trình công nghệ sản xuất enzyme": {
+              "status": "done",
+              "pdf_pages": [
+                36,
+                43
+              ],
+              "terms_added": 8
+            },
+            "Bài 7. Ứng dụng của enzyme": {
+              "status": "done",
+              "pdf_pages": [
+                44,
+                51
+              ],
+              "terms_added": 4
+            },
+            "Bài 8. Dự án: Tìm hiểu về ứng dụng enzyme": {
+              "status": "done",
+              "pdf_pages": [
+                52,
+                56
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chuyên đề 3. Công nghệ vi sinh vật trong xử lí ô nhiễm môi trường": {
+          "lessons": {
+            "Bài 9. Vai trò của vi sinh vật trong xử lí ô nhiễm môi trường": {
+              "status": "done",
+              "pdf_pages": [
+                57,
+                61
+              ],
+              "terms_added": 5
+            },
+            "Bài 10. Vi sinh vật trong phân giải các hợp chất làm ô nhiễm môi trường": {
+              "status": "done",
+              "pdf_pages": [
+                62,
+                65
+              ],
+              "terms_added": 5
+            },
+            "Bài 11. Công nghệ ứng dụng vi sinh vật trong xử lí ô nhiễm môi trường": {
+              "status": "done",
+              "pdf_pages": [
+                66,
+                73
+              ],
+              "terms_added": 5
+            },
+            "Bài 12. Dự án: Điều tra công nghệ ứng dụng vi sinh vật trong xử lí ô nhiễm môi trường tại địa phương": {
+              "status": "done",
+              "pdf_pages": [
+                74,
+                75
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    },
+    "SGV SINH HOC 10.pdf": {
+      "status": "done",
+      "general_pdf_pages": [
+        8,
+        18
+      ],
+      "chapters": {
+        "Phần mở đầu": {
+          "intro_pdf_pages": [
+            19,
+            22
+          ],
+          "lessons": {
+            "Bài 1. Giới thiệu khái quát môn Sinh học": {
+              "status": "done",
+              "pdf_pages": [
+                22,
+                24
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 2. Phương pháp nghiên cứu và học tập môn Sinh học": {
+              "status": "done",
+              "pdf_pages": [
+                24,
+                27
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 3. Các cấp độ tổ chức của thế giới sống": {
+              "status": "done",
+              "pdf_pages": [
+                27,
+                28
+              ],
+              "gv_sources_added": 2
+            }
+          }
+        },
+        "Chương 1. Thành phần hoá học của tế bào": {
+          "intro_pdf_pages": [
+            28,
+            35
+          ],
+          "lessons": {
+            "Bài 4. Các nguyên tố hoá học và nước": {
+              "status": "done",
+              "pdf_pages": [
+                35,
+                38
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 5. Các phân tử sinh học": {
+              "status": "done",
+              "pdf_pages": [
+                38,
+                47
+              ],
+              "gv_sources_added": 1
+            },
+            "Bài 6. Thực hành: Nhận biết một số phân tử sinh học": {
+              "status": "done",
+              "pdf_pages": [
+                47,
+                49
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        },
+        "Chương 2. Cấu trúc tế bào": {
+          "intro_pdf_pages": [
+            49,
+            56
+          ],
+          "lessons": {
+            "Bài 7. Tế bào nhân sơ": {
+              "status": "done",
+              "pdf_pages": [
+                56,
+                59
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 8. Tế bào nhân thực": {
+              "status": "done",
+              "pdf_pages": [
+                59,
+                70
+              ],
+              "gv_sources_added": 1
+            },
+            "Bài 9. Thực hành: Quan sát tế bào": {
+              "status": "done",
+              "pdf_pages": [
+                70,
+                73
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        },
+        "Chương 3. Trao đổi chất qua màng và truyền tin tế bào": {
+          "intro_pdf_pages": [
+            73,
+            80
+          ],
+          "lessons": {
+            "Bài 10. Trao đổi chất qua màng tế bào": {
+              "status": "done",
+              "pdf_pages": [
+                80,
+                86
+              ],
+              "gv_sources_added": 1
+            },
+            "Bài 11. Thực hành: Thí nghiệm co và phản co nguyên sinh": {
+              "status": "done",
+              "pdf_pages": [
+                86,
+                87
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 12. Truyền tin tế bào": {
+              "status": "done",
+              "pdf_pages": [
+                87,
+                89
+              ],
+              "gv_sources_added": 2
+            }
+          }
+        },
+        "Chương 4. Chuyển hoá năng lượng trong tế bào": {
+          "intro_pdf_pages": [
+            89,
+            94
+          ],
+          "lessons": {
+            "Bài 13. Khái quát về chuyển hoá vật chất và năng lượng": {
+              "status": "done",
+              "pdf_pages": [
+                94,
+                99
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 14. Phân giải và tổng hợp các chất trong tế bào": {
+              "status": "done",
+              "pdf_pages": [
+                99,
+                104
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 15. Thực hành: Thí nghiệm phân tích ảnh hưởng của một số yếu tố đến hoạt tính của enzyme và kiểm tra hoạt tính của enzyme amylase": {
+              "status": "done",
+              "pdf_pages": [
+                104,
+                105
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        },
+        "Chương 5. Chu kì tế bào và phân bào": {
+          "intro_pdf_pages": [
+            105,
+            109
+          ],
+          "lessons": {
+            "Bài 16. Chu kì tế bào và nguyên phân": {
+              "status": "done",
+              "pdf_pages": [
+                109,
+                112
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 17. Giảm phân": {
+              "status": "done",
+              "pdf_pages": [
+                112,
+                114
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 18. Thực hành: Làm và quan sát tiêu bản quá trình nguyên phân và giảm phân": {
+              "status": "done",
+              "pdf_pages": [
+                114,
+                115
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 19. Công nghệ tế bào": {
+              "status": "done",
+              "pdf_pages": [
+                115,
+                118
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        },
+        "Chương 6. Sinh học vi sinh vật": {
+          "intro_pdf_pages": [
+            118,
+            127
+          ],
+          "lessons": {
+            "Bài 20. Sự đa dạng và phương pháp nghiên cứu vi sinh vật": {
+              "status": "done",
+              "pdf_pages": [
+                127,
+                130
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 21. Trao đổi chất, sinh trưởng và sinh sản ở vi sinh vật": {
+              "status": "done",
+              "pdf_pages": [
+                130,
+                135
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 22. Vai trò và ứng dụng của vi sinh vật": {
+              "status": "done",
+              "pdf_pages": [
+                135,
+                138
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 23. Thực hành: Một số phương pháp nghiên cứu vi sinh vật thông dụng, tìm hiểu về các sản phẩm công nghệ vi sinh vật và làm một số sản phẩm lên men từ vi sinh vật": {
+              "status": "done",
+              "pdf_pages": [
+                138,
+                140
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        },
+        "Chương 7. Virus": {
+          "intro_pdf_pages": [
+            140,
+            144
+          ],
+          "lessons": {
+            "Bài 24. Khái quát về virus": {
+              "status": "done",
+              "pdf_pages": [
+                144,
+                147
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 25. Một số bệnh do virus và các thành tựu nghiên cứu ứng dụng virus": {
+              "status": "done",
+              "pdf_pages": [
+                147,
+                152
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        }
+      }
+    },
+    "SBT SINH HOC 10.pdf": {
+      "status": "done",
+      "chapters": {
+        "Phần mở đầu": {
+          "pdf_pages": [
+            5,
+            11
+          ],
+          "lessons": {
+            "Bài 1. Giới thiệu khái quát môn Sinh học": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 2. Phương pháp nghiên cứu và học tập môn Sinh học": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 3. Các cấp độ tổ chức của thế giới sống": {
+              "status": "done",
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 1. Thành phần hoá học của tế bào": {
+          "pdf_pages": [
+            12,
+            18
+          ],
+          "lessons": {
+            "Bài 4. Các nguyên tố hoá học và nước": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 5. Các phân tử sinh học": {
+              "status": "done",
+              "terms_added": 1
+            },
+            "Bài 6. Thực hành: Nhận biết một số phân tử sinh học": {
+              "status": "done",
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 2. Cấu trúc tế bào": {
+          "pdf_pages": [
+            19,
+            30
+          ],
+          "lessons": {
+            "Bài 7. Tế bào nhân sơ": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 8. Tế bào nhân thực": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 9. Thực hành: Quan sát tế bào": {
+              "status": "done",
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 3. Trao đổi chất qua màng và truyền tin tế bào": {
+          "pdf_pages": [
+            31,
+            38
+          ],
+          "lessons": {
+            "Bài 10. Trao đổi chất qua màng tế bào": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 11. Thực hành: Thí nghiệm co và phản co nguyên sinh": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 12. Truyền tin tế bào": {
+              "status": "done",
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 4. Chuyển hoá năng lượng trong tế bào": {
+          "pdf_pages": [
+            39,
+            52
+          ],
+          "lessons": {
+            "Bài 13. Khái quát về chuyển hoá vật chất và năng lượng": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 14. Phân giải và tổng hợp các chất trong tế bào": {
+              "status": "done",
+              "terms_added": 2
+            },
+            "Bài 15. Thực hành: Thí nghiệm phân tích ảnh hưởng của một số yếu tố đến hoạt tính của enzyme và kiểm tra hoạt tính của enzyme amylase": {
+              "status": "done",
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 5. Chu kì tế bào và phân bào": {
+          "pdf_pages": [
+            53,
+            62
+          ],
+          "lessons": {
+            "Bài 16. Chu kì tế bào và nguyên phân": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 17. Giảm phân": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 18. Thực hành: Làm và quan sát tiêu bản quá trình nguyên phân và giảm phân": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 19. Công nghệ tế bào": {
+              "status": "done",
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 6. Sinh học vi sinh vật": {
+          "pdf_pages": [
+            63,
+            81
+          ],
+          "lessons": {
+            "Bài 20. Sự đa dạng và phương pháp nghiên cứu vi sinh vật": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 21. Trao đổi chất, sinh trưởng và sinh sản ở vi sinh vật": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 22. Vai trò và ứng dụng của vi sinh vật": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 23. Thực hành: Một số phương pháp nghiên cứu vi sinh vật thông dụng, tìm hiểu về các sản phẩm công nghệ vi sinh vật và làm một số sản phẩm lên men từ vi sinh vật": {
+              "status": "done",
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 7. Virus": {
+          "pdf_pages": [
+            82,
+            92
+          ],
+          "lessons": {
+            "Bài 24. Khái quát về virus": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 25. Một số bệnh do virus và các thành tựu nghiên cứu ứng dụng virus": {
+              "status": "done",
+              "terms_added": 1
+            },
+            "Bài 26. Thực hành: Điều tra một số bệnh do virus và tuyên truyền phòng chống bệnh": {
+              "status": "done",
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    },
+    "Tài liệu bồi dưỡng GV môn Sinh học 10.pdf": {
+      "status": "done",
+      "chapters": {}
+    }
+  },
+  "last_session_note": "2026-10-14: Hoàn thành sinh_10 (299 thuật ngữ: SGK 245, SCD 50, SBT 4). SGV: mục tiêu từng chương + điểm cần lưu ý → DESCRIPTION mục 4–5; nguồn gv cho 7 thuật ngữ. TLBD: nội dung chương trình, khung kế hoạch 70 tiết. validate 0 lỗi, check_sources 299/299 đạt (10 cảnh báo tên). Mẫu 30 mục (query.py --audit): 1 lỗi nhỏ notation hoa-tong-hop đã sửa. Người dùng đã kiểm tra mẫu độc lập: 0 sai; đã xoá sample_audit.md. Không còn việc dở. OCR cache SCD p0076 được tạo lại bằng --psm 6 (bảng thuật ngữ)."
+}

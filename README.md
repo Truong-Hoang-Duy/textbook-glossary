@@ -136,6 +136,7 @@ Trong cùng một bộ, nếu một khái niệm xuất hiện ở nhiều sách
 | Bộ | Trạng thái | Ghi chú |
 |---|---|---|
 | `toan_10` | Đã kiểm tra cuối (197 mục; mẫu 30 mục, 0 sai — 2026-10-14) | Sách dạng ảnh; trang PDF = trang in + 1 |
+| `sinh_10` | Đã kiểm tra cuối (299 mục; mẫu 30 mục, 0 sai sau khi sửa 1 lỗi kí hiệu — 2026-10-14) | Sách dạng ảnh (trừ Tài liệu GV); trang PDF = trang in + 1 |
 
 Trạng thái: chưa bắt đầu / đang trích xuất / đã kiểm tra cuối.
 
