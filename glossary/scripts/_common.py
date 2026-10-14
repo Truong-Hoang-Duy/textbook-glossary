@@ -34,7 +34,7 @@ def classify_book(filename):
     """(book_type, level) suy từ tên file; None nếu không nhận diện được.
 
     SGK -> sgk/co_ban; SBT -> sbt/co_ban; SCD -> scd/chuyen_de;
-    SGV CD -> gv/chuyen_de; SGV -> gv/co_ban; Tài liệu bồi dưỡng GV -> gv/co_ban.
+    SGV CD -> gv/chuyen_de; SGV -> gv/co_ban; Tài liệu bồi dưỡng GV, Slide tập huấn -> gv/co_ban.
     """
     name = unicodedata.normalize("NFC", filename).upper()
     words = name.split()
@@ -43,7 +43,7 @@ def classify_book(filename):
     head = words[0]
     if head == "SGV":
         return ("gv", "chuyen_de") if len(words) > 1 and words[1] == "CD" else ("gv", "co_ban")
-    if name.startswith("TÀI LIỆU BỒI DƯỠNG GV"):
+    if name.startswith("TÀI LIỆU BỒI DƯỠNG GV") or name.startswith("SLIDE TẬP HUẤN"):
         return ("gv", "co_ban")
     return {"SGK": ("sgk", "co_ban"), "SBT": ("sbt", "co_ban"), "SCD": ("scd", "chuyen_de")}.get(head)
 

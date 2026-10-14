@@ -100,6 +100,7 @@ Trong cùng một bộ, nếu một khái niệm xuất hiện ở nhiều sách
 | `SGV CD …` (SGV Chuyên đề, ví dụ `SGV CD TOAN 10.pdf`) | `gv` | `chuyen_de` |
 | `SGV …` (ví dụ `SGV SINH HOC 10.pdf`) | `gv` | `co_ban` |
 | `Tài liệu bồi dưỡng GV …` | `gv` | `co_ban` |
+| `Slide tập huấn …` (slide tập huấn GV, coi như Tài liệu bồi dưỡng GV) | `gv` | `co_ban` |
 
 **Quy tắc đọc SGV / Tài liệu GV:**
 1. Luôn thêm mọi file SGV và Tài liệu GV của bộ vào `books` trong `progress.json`. SGV đi theo bài nên điền chương/bài giống sách học sinh tương ứng: SGV → SGK, SGV CD → SCD. Nhờ vậy tiến độ đọc được theo dõi từng bài. Tài liệu bồi dưỡng GV có thể để `chapters: {}`.
@@ -138,6 +139,7 @@ Trong cùng một bộ, nếu một khái niệm xuất hiện ở nhiều sách
 | `toan_10` | Đã kiểm tra cuối (197 mục; mẫu 30 mục, 0 sai — 2026-10-14) | Sách dạng ảnh; trang PDF = trang in + 1 |
 | `sinh_10` | Đã kiểm tra cuối (299 mục; mẫu 30 mục, 0 sai sau khi sửa 1 lỗi kí hiệu — 2026-10-14) | Sách dạng ảnh (trừ Tài liệu GV); trang PDF = trang in + 1 |
 | `ngu_van_10` | Đã kiểm tra cuối (191 mục; mẫu 30 mục, 0 sai — 2026-10-14; chờ kiểm tra độc lập) | Sách dạng ảnh (trừ Tài liệu GV); trang PDF = trang in + 1; không chia chương: `chapter` = `Tập một`/`Tập hai` hoặc `Chuyên đề N. …`, `lesson` = `Bài N. …`/`Phần N. …` |
+| `tieng_anh_10` | Đã kiểm tra cuối (261 mục; mẫu 30 mục, 0 sai — 2026-10-14; chờ kiểm tra độc lập) | Sách Global Success, dạng ảnh (trừ Slide tập huấn); trang PDF = trang in + 1; `chapter` = `Unit N. …`/`Review N`, `lesson` = `Lesson N. …` hoặc `Glossary`; từ vựng: nghĩa tiếng Việt ở `definition`, loại từ + IPA ở `notation`; cache `.ocr/` dựng bằng `eng+vie` |
 
 Trạng thái: chưa bắt đầu / đang trích xuất / đã kiểm tra cuối.
 
