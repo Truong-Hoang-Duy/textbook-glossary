@@ -1,0 +1,27 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OCR cache (tự sinh trong quá trình OCR sách dạng ảnh)
+.ocr/
+**/.ocr/
+
+# File sao lưu tự động và file tạm
+*.bak
+*.tmp
+*.temp
+
+# File kiểm định mẫu tạm thời (sinh ra ở Giai đoạn 4, xóa sau khi kiểm tra)
+mau_kiem_tra.md
+sample_audit.md
+glossary/**/sample_audit.md
+
+# Sách PDF nguồn (tệp dung lượng lớn và có bản quyền)
+*.pdf
+
+# IDE & Hệ điều hành
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
