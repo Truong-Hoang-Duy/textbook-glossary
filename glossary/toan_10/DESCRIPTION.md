@@ -13,8 +13,10 @@ Nguồn: thư mục `toan_10/`, bộ sách điện tử Kết nối tri thức (
 | SCD Toan 10.pdf | scd | 66 | Chuyên đề 1–3, `level: chuyen_de` | Không (ảnh, OCR) |
 | SBT TOAN 10 TAP 1.pdf | sbt | 130 | Chỉ bổ sung khái niệm SGK không nêu tường minh (Chương I–V) | Không (ảnh, OCR) |
 | Tài liệu bồi dưỡng GV môn Toán 10.pdf | gv | 69 | Mục tiêu, yêu cầu cần đạt, điểm cần lưu ý (mục 4–5) | Có |
+| SGV CD TOAN 10.pdf | gv | 90 | SGV Chuyên đề (`level: chuyen_de`): mục tiêu, điểm cần lưu ý từng bài Chuyên đề 1–3 (mục 4–5); nguồn `gv` phụ cho 10 thuật ngữ chuyên đề | Không (ảnh, OCR) |
 
-- Ở cả bốn sách dạng ảnh: **trang PDF = trang in + 1**.
+- Ở cả năm sách dạng ảnh (gồm SGV CD): **trang PDF = trang in + 1**.
+- Không có SGV cho phần cơ bản (SGK); phần cơ bản chỉ dựa vào Tài liệu bồi dưỡng GV.
 - Không có SBT Tập 2, nên Chương VI–IX không có phần bổ sung từ SBT.
 - Mục lục dùng chung số "Bài 1, 2, …" cho cả SGK và SCD. Khi lọc, kết hợp `--chapter` hoặc `--level`. Ví dụ: `--lesson "Bài 1." --level co_ban` là Bài 1 SGK; `--lesson "Bài 1." --level chuyen_de` là Bài 1 Chuyên đề.
 
@@ -89,9 +91,17 @@ Nguồn: Tài liệu bồi dưỡng GV, mục 1.3, trang PDF 5–10. Trích rút
 - **Chương VII. Phương pháp toạ độ trong mặt phẳng:** Mô tả phương trình tổng quát và phương trình tham số của đường thẳng; lập phương trình khi biết điểm và vectơ pháp tuyến/chỉ phương, hoặc biết hai điểm. Nhận biết vị trí tương đối, tính góc giữa hai đường thẳng, khoảng cách từ điểm đến đường thẳng. Lập phương trình đường tròn và tiếp tuyến tại một điểm. Nhận biết ba đường conic bằng hình học và qua phương trình chính tắc.
 - **Chương VIII. Đại số tổ hợp:** Vận dụng quy tắc cộng, quy tắc nhân và sơ đồ hình cây. Tính số hoán vị, chỉnh hợp, tổ hợp, kể cả bằng máy tính cầm tay. Khai triển (a + b)ⁿ với n = 4 hoặc 5 bằng cách vận dụng tổ hợp.
 - **Chương IX. Tính xác suất theo định nghĩa cổ điển:** Nhận biết phép thử ngẫu nhiên, không gian mẫu, biến cố (là tập con của không gian mẫu), biến cố đối, định nghĩa cổ điển của xác suất, nguyên lí xác suất bé. Tính xác suất bằng phương pháp tổ hợp và sơ đồ hình cây. Tính xác suất của biến cố đối.
-- **Chuyên đề 1:** Nhận biết nghiệm của hệ bậc nhất ba ẩn. Giải bằng phương pháp Gauss và bằng máy tính cầm tay. Vận dụng vào Vật lí, Hoá học, Sinh học, kinh tế.
-- **Chuyên đề 2:** Mô tả các bước và chứng minh bằng phương pháp quy nạp toán học. Khai triển (a + b)ⁿ bằng tổ hợp. Xác định hệ số bằng tam giác Pascal. Xác định hệ số của xᵏ trong khai triển (ax + b)ⁿ.
-- **Chuyên đề 3:** Xác định các yếu tố của conic (đỉnh, tiêu điểm, tiêu cự, độ dài trục, tâm sai, đường chuẩn, bán kính qua tiêu) từ phương trình chính tắc. Nhận biết conic là giao của mặt phẳng với mặt nón. Giải quyết vấn đề thực tiễn.
+**Chuyên đề — mục tiêu từng bài** (nguồn: `SGV CD TOAN 10.pdf`, phần "I. Mục tiêu — Về kiến thức, kĩ năng"; trang PDF ghi trong ngoặc):
+
+- **Chuyên đề 1. Hệ phương trình bậc nhất ba ẩn** (11 tiết):
+  - Bài 1 (5 tiết, tr.18): nhận biết hệ phương trình bậc nhất ba ẩn và nghiệm của nó; giải bằng phương pháp Gauss; tìm nghiệm bằng máy tính cầm tay.
+  - Bài 2 (4 tiết, tr.26): vận dụng hệ bậc nhất ba ẩn vào bài toán vật lí (điện trở, cường độ dòng điện), hoá học (cân bằng phản ứng), sinh học, và bài toán thực tiễn (cân bằng cung – cầu).
+- **Chuyên đề 2. Phương pháp quy nạp toán học. Nhị thức Newton** (10 tiết):
+  - Bài 3 (4 tiết, tr.36): mô tả các bước và chứng minh tính đúng đắn của mệnh đề bằng phương pháp quy nạp; vận dụng vào vấn đề thực tiễn.
+  - Bài 4 (5 tiết, tr.44): xác định hệ số khai triển qua tam giác Pascal; khai triển (a + b)ⁿ bằng tam giác Pascal hoặc công thức số tổ hợp; xác định hệ số của xᵏ trong khai triển (ax + b)ⁿ.
+- **Chuyên đề 3. Ba đường conic và ứng dụng** (11 tiết):
+  - Bài 5 Elip (3 tiết, tr.57), Bài 6 Hypebol (3 tiết, tr.66), Bài 7 Parabol (2 tiết, tr.75): xác định các yếu tố đặc trưng khi biết phương trình chính tắc; giải quyết vấn đề thực tiễn gắn với đường đó.
+  - Bài 8 Sự thống nhất giữa ba đường conic (2 tiết, tr.81): nhận biết đường conic là giao của mặt phẳng với mặt nón; vấn đề thực tiễn gắn với ba đường conic.
 
 **Giới hạn chương trình lớp 10.** Nguồn: Tài liệu GV, trang PDF 11–13 và 37. Agent sinh câu hỏi **không ra câu hỏi** về các nội dung sau:
 - Hàm số chẵn, hàm số lẻ, hàm số tuần hoàn: chưa đưa vào chương trình.
@@ -100,24 +110,37 @@ Nguồn: Tài liệu bồi dưỡng GV, mục 1.3, trang PDF 5–10. Trích rút
 - Bất đẳng thức, bất phương trình và hệ bất phương trình bậc nhất một ẩn, các phép biến đổi tương đương hoặc hệ quả: không yêu cầu.
 - Lượng giác (góc, cung lượng giác, công thức lượng giác): chuyển hết lên lớp 11. Lớp 10 chỉ có giá trị lượng giác của góc từ 0° đến 180°.
 - Nhị thức Newton tổng quát, tam giác Pascal, quy nạp toán học: chỉ có trong Chuyên đề. SGK chỉ có trường hợp n = 4 và n = 5.
+- Chứng minh công thức nhị thức Newton tổng quát bằng quy nạp: SGV CD chỉ áp dụng cho lớp khá, chưa yêu cầu đại trà (SGV CD tr.47).
+- "Các elip (hypebol) có cùng tâm sai đều đồng dạng", "các parabol đồng dạng với nhau": SGV CD ghi GV không cần giải thích cho HS (tr.57, 66, 76) — không ra đề.
 
 ## 5. Sai lầm thường gặp của học sinh
 
-Tài liệu GV không có mục riêng về lỗi sai. Dưới đây là các sai lầm được nêu rõ trong tài liệu:
+Tài liệu GV và SGV CD không có mục riêng về lỗi sai. Dưới đây là các sai lầm, điểm dễ nhầm được nêu rõ trong hai tài liệu (cột Nguồn: TLBD = Tài liệu bồi dưỡng GV; SGV CD = `SGV CD TOAN 10.pdf`; số là trang PDF):
 
-| Chủ đề | Sai lầm | Nguồn (Tài liệu GV) |
+| Chủ đề | Sai lầm / điểm dễ nhầm | Nguồn |
 |---|---|---|
-| Quy tắc cộng (Bài 23) và số phần tử của hợp hai tập hợp (Bài 2) | Áp dụng quy tắc cộng khi hai phương án **không độc lập** (có phần tử chung), ví dụ cộng 160 + 140 học sinh của hai câu lạc bộ mà không trừ 50 học sinh tham gia cả hai. Phải dùng $n(A \cup B) = n(A) + n(B) - n(A \cap B)$. | trang PDF 51 (Ví dụ 3) |
-| Hàm số cho bởi nhiều công thức (Bài 15) | Tính tiền điện 75 kWh theo một công thức duy nhất $y = 1{,}734x$, thay vì dùng đúng công thức của từng khoảng bậc thang. | trang PDF 67 (bài soạn minh hoạ) |
-| Đọc dấu hệ số parabol từ đồ thị (Bài 16) | Học sinh cần dựa vào hướng bề lõm (dấu của a), toạ độ đỉnh và giao điểm với trục tung (c) để xác định dấu của a, b, c. Đây là dạng câu hỏi dễ chọn sai. | trang PDF 51 (Ví dụ 2) |
+| Quy tắc cộng (Bài 23) và số phần tử của hợp hai tập hợp (Bài 2) | Áp dụng quy tắc cộng khi hai phương án **không độc lập** (có phần tử chung), ví dụ cộng 160 + 140 học sinh của hai câu lạc bộ mà không trừ 50 học sinh tham gia cả hai. Phải dùng $n(A \cup B) = n(A) + n(B) - n(A \cap B)$. | TLBD tr.51 (Ví dụ 3) |
+| Hàm số cho bởi nhiều công thức (Bài 15) | Tính tiền điện 75 kWh theo một công thức duy nhất $y = 1{,}734x$, thay vì dùng đúng công thức của từng khoảng bậc thang. | TLBD tr.67 (bài soạn minh hoạ) |
+| Đọc dấu hệ số parabol từ đồ thị (Bài 16) | Học sinh cần dựa vào hướng bề lõm (dấu của a), toạ độ đỉnh và giao điểm với trục tung (c) để xác định dấu của a, b, c. Đây là dạng câu hỏi dễ chọn sai. | TLBD tr.51 (Ví dụ 2) |
+| Hệ bậc nhất ba ẩn (CĐ1 Bài 1) | Nhầm "bậc nhất ba ẩn": mỗi phương trình phải có bậc 1 và số ẩn phải là 3. | SGV CD tr.19 |
+| Giải hệ bằng máy tính cầm tay (CĐ1 Bài 1) | Sai sót khi bấm máy; với hệ có **vô số nghiệm** máy tính không cho tập nghiệm, phải giải bằng tay (phương pháp Gauss). | SGV CD tr.23 |
+| Cân bằng phản ứng hoá học (CĐ1 Bài 2) | Hệ thu được luôn có vô số nghiệm và thường có nhiều ẩn hơn số phương trình; cần chọn một nghiệm nguyên phù hợp. | SGV CD tr.28 |
+| Quy nạp không hoàn toàn (CĐ2 Bài 3) | Kết luận từ vài trường hợp riêng: $p(n) = n^2 + n + 41$ nguyên tố với n = 1, 2, 3, 5… nhưng sai khi n = 41. Kiểm nghiệm nhiều trường hợp không thay cho chứng minh. | SGV CD tr.37 |
+| Các bước quy nạp (CĐ2 Bài 3) | Chỉ kết luận mệnh đề đúng khi **cả hai bước** đều đúng; quên dùng giả thiết quy nạp ở Bước 2; với mệnh đề đúng từ $n \ge p$, Bước 1 phải kiểm tra $n = p$ (không phải n = 1). | SGV CD tr.36–38 |
+| Lập luận quy nạp sai (CĐ2, Bài tập 2.8) | Lập luận sai ở bước khởi đầu: mệnh đề không thể bắt đầu với n = 1 khi nội dung cần ít nhất hai đối tượng. | SGV CD tr.43 |
+| Bán kính qua tiêu của hypebol (CĐ3 Bài 6) | Công thức giống elip nhưng có **dấu giá trị tuyệt đối**; phải chia trường hợp điểm thuộc nhánh trái/phải khi phá trị tuyệt đối. | SGV CD tr.69 |
+| Hình dạng hypebol, parabol (CĐ3 Bài 6–7) | Hypebol có hai nhánh và hai đường tiệm cận (elip không có); parabol chỉ có một nhánh, không bị giới hạn, không có tiệm cận. | SGV CD tr.67, 76 |
+| Bài toán thực tế quỹ đạo (CĐ3 Bài 6) | Quên đổi đơn vị đo theo yêu cầu bài toán khi viết phương trình chính tắc. | SGV CD tr.71 |
+| Phân loại conic theo tâm sai (CĐ3 Bài 8) | Phân biệt theo so sánh e với 1: elip $0 < e < 1$, parabol $e = 1$, hypebol $e > 1$. | SGV CD tr.82 |
 
 ## 6. Hạn chế đã biết và kết quả kiểm tra chất lượng
 
 **Hạn chế đã biết:**
 - Bốn sách nguồn là PDF dạng ảnh. Định nghĩa được đọc trực tiếp từ ảnh trang (khoảng 135 dpi). `check_sources.py` đối chiếu với text OCR (tesseract `vie`), lưu cache ở `.ocr/`. OCR hay sai dấu ("bắt" thay cho "bất", "ân" thay cho "ẩn") và dính chữ ("Tậphợp"); script đã có cơ chế chịu các lỗi này.
 - OCR không đọc được công thức, nên phần LaTeX trong `definition` và toàn bộ `notation` **không được kiểm tra tự động**. Phần này dựa vào kiểm tra mẫu.
-- Tên của các mục `cong_thuc`, `quy_tac`, `ky_hieu`, `tinh_chat` thường do người trích đặt, vì sách không đặt tên. Lần chạy gần nhất có 36 mục bị cảnh báo vì tên không có nguyên văn trong trang; nội dung các mục này vẫn đạt.
+- Tên của các mục `cong_thuc`, `quy_tac`, `ky_hieu`, `tinh_chat` thường do người trích đặt, vì sách không đặt tên. Lần chạy gần nhất có 37 mục bị cảnh báo vì tên không có nguyên văn trong trang; nội dung các mục này vẫn đạt.
 - `toan-10-nhi-thuc-newton` (SGK Bài 25) chỉ gồm công thức nên không có tỉ lệ bigram. Script chỉ kiểm được tên thuật ngữ.
+- SGV CD là PDF dạng ảnh; nguồn `gv` (10 mục) là nguồn phụ, chỉ được kiểm tra sự có mặt của tên thuật ngữ, không kiểm tra tỉ lệ bigram (định nghĩa giữ theo SCD).
 - Có 2 mục mang `notes`: `toan-10-he-thuc-co-ban-luong-giac` và `toan-10-trung-diem-trong-tam-voi-moi-diem-o`. Cả hai là nội dung SGK chỉ nêu ở bài tập hoặc luyện tập; phát biểu tổng quát lấy từ SBT.
 
 **Kiểm tra tự động** (2026-10-14, ngưỡng bigram 0.65, so khớp có dấu):
@@ -125,8 +148,8 @@ Tài liệu GV không có mục riêng về lỗi sai. Dưới đây là các sa
 | Hạng mục | Kết quả |
 |---|---|
 | `validate.py toan_10` | 0 lỗi; 197 thuật ngữ; 174.7 KB |
-| `check_sources.py toan_10` | 197 đạt, 0 gắn cờ, 0 không kiểm tra được, 36 cảnh báo về tên |
-| Mục bị gắn cờ trong quá trình trích (đã xử lý) | 13, đều do tên thuật ngữ do người trích đặt hoặc OCR dính chữ. Đã thêm alias hoặc đổi loại (`--update`). Không mục nào sai nội dung hay sai trang. |
+| `check_sources.py toan_10` | 197 đạt, 0 gắn cờ, 0 không kiểm tra được, 37 cảnh báo về tên (chạy lại sau khi thêm SGV CD) |
+| Mục bị gắn cờ trong quá trình trích (đã xử lý) | 14 (13 khi trích + 1 khi thêm nguồn SGV CD), đều do tên thuật ngữ do người trích đặt hoặc OCR dính chữ. Đã thêm alias hoặc đổi loại (`--update`). Không mục nào sai nội dung hay sai trang. |
 | Mô phỏng độ nhạy trên toàn bộ dữ liệu | Dữ liệu đúng: 0/192 bị gắn cờ. Nguồn lệch 5–9 trang: bắt được 484/512 (95%). Gán định nghĩa của mục khác: bắt được 186/190 (98%). |
 
 **Kiểm tra mẫu độc lập** (Giai đoạn 4, 2026-10-14, người dùng thực hiện ở phiên riêng, đọc ảnh trang nguồn):

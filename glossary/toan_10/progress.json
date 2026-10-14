@@ -486,78 +486,86 @@
       "chapters": {}
     },
     "SGV CD TOAN 10.pdf": {
-      "status": "in_progress",
+      "status": "done",
       "chapters": {
         "Chuyên đề 1. Hệ phương trình bậc nhất ba ẩn": {
           "lessons": {
             "Bài 1. Hệ phương trình bậc nhất ba ẩn": {
-              "status": "pending",
+              "status": "done",
               "pdf_pages": [
                 18,
                 25
-              ]
+              ],
+              "gv_sources_added": 2
             },
             "Bài 2. Ứng dụng của hệ phương trình bậc nhất ba ẩn": {
-              "status": "pending",
+              "status": "done",
               "pdf_pages": [
                 26,
                 30
-              ]
+              ],
+              "gv_sources_added": 0
             }
           }
         },
         "Chuyên đề 2. Phương pháp quy nạp toán học. Nhị thức Newton": {
           "lessons": {
             "Bài 3. Phương pháp quy nạp toán học": {
-              "status": "pending",
+              "status": "done",
               "pdf_pages": [
                 36,
                 43
-              ]
+              ],
+              "gv_sources_added": 1
             },
             "Bài 4. Nhị thức Newton": {
-              "status": "pending",
+              "status": "done",
               "pdf_pages": [
                 44,
                 50
-              ]
+              ],
+              "gv_sources_added": 1
             }
           }
         },
         "Chuyên đề 3. Ba đường conic và ứng dụng": {
           "lessons": {
             "Bài 5. Elip": {
-              "status": "pending",
+              "status": "done",
               "pdf_pages": [
                 57,
                 65
-              ]
+              ],
+              "gv_sources_added": 1
             },
             "Bài 6. Hypebol": {
-              "status": "pending",
+              "status": "done",
               "pdf_pages": [
                 66,
                 74
-              ]
+              ],
+              "gv_sources_added": 2
             },
             "Bài 7. Parabol": {
-              "status": "pending",
+              "status": "done",
               "pdf_pages": [
                 75,
                 80
-              ]
+              ],
+              "gv_sources_added": 1
             },
             "Bài 8. Sự thống nhất giữa ba đường conic": {
-              "status": "pending",
+              "status": "done",
               "pdf_pages": [
                 81,
                 84
-              ]
+              ],
+              "gv_sources_added": 2
             }
           }
         }
       }
     }
   },
-  "last_session_note": "Mở lại toan_10: thêm SGV CD TOAN 10.pdf (gv, chuyen_de; PDF = in + 1). Đang đọc để bổ sung DESCRIPTION 4–5 và nguồn gv cho thuật ngữ chuyên đề."
+  "last_session_note": "Hoàn thành toan_10 (197 thuật ngữ). 2026-10-14: thêm SGV CD TOAN 10.pdf — DESCRIPTION mục 1, 4 (mục tiêu từng bài chuyên đề, giới hạn), 5 (10 sai lầm/điểm dễ nhầm), 6; nguồn gv cho 10 thuật ngữ chuyên đề. validate 0 lỗi, check_sources 197/197. Không còn việc dở. Thiếu SGV phần cơ bản."
 }
