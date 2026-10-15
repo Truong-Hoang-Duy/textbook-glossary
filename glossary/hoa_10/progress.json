@@ -1,0 +1,875 @@
+{
+  "unit": "hoa_10",
+  "books": {
+    "SGK Hoa hoc 10.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        120,
+        120
+      ],
+      "chapters": {
+        "Mở đầu": {
+          "lessons": {
+            "Mở đầu": {
+              "status": "done",
+              "pdf_pages": [
+                7,
+                12
+              ],
+              "terms_added": 4
+            }
+          }
+        },
+        "Chương 1. Cấu tạo nguyên tử": {
+          "lessons": {
+            "Bài 1. Thành phần của nguyên tử": {
+              "status": "done",
+              "pdf_pages": [
+                14,
+                17
+              ],
+              "terms_added": 9
+            },
+            "Bài 2. Nguyên tố hoá học": {
+              "status": "done",
+              "pdf_pages": [
+                18,
+                21
+              ],
+              "terms_added": 8
+            },
+            "Bài 3. Cấu trúc lớp vỏ electron nguyên tử": {
+              "status": "done",
+              "pdf_pages": [
+                22,
+                26
+              ],
+              "terms_added": 13
+            },
+            "Bài 4. Ôn tập chương 1": {
+              "status": "done",
+              "pdf_pages": [
+                27,
+                28
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 2. Bảng tuần hoàn các nguyên tố hoá học và định luật tuần hoàn": {
+          "lessons": {
+            "Bài 5. Cấu tạo của bảng tuần hoàn các nguyên tố hoá học": {
+              "status": "done",
+              "pdf_pages": [
+                31,
+                34
+              ],
+              "terms_added": 8
+            },
+            "Bài 6. Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm": {
+              "status": "done",
+              "pdf_pages": [
+                35,
+                40
+              ],
+              "terms_added": 9
+            },
+            "Bài 7. Xu hướng biến đổi thành phần và một số tính chất của hợp chất trong một chu kì": {
+              "status": "done",
+              "pdf_pages": [
+                41,
+                43
+              ],
+              "terms_added": 2
+            },
+            "Bài 8. Định luật tuần hoàn. Ý nghĩa của bảng tuần hoàn các nguyên tố hoá học": {
+              "status": "done",
+              "pdf_pages": [
+                44,
+                45
+              ],
+              "terms_added": 2
+            },
+            "Bài 9. Ôn tập chương 2": {
+              "status": "done",
+              "pdf_pages": [
+                46,
+                48
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 3. Liên kết hoá học": {
+          "lessons": {
+            "Bài 10. Quy tắc octet": {
+              "status": "done",
+              "pdf_pages": [
+                50,
+                51
+              ],
+              "terms_added": 3
+            },
+            "Bài 11. Liên kết ion": {
+              "status": "done",
+              "pdf_pages": [
+                52,
+                55
+              ],
+              "terms_added": 8
+            },
+            "Bài 12. Liên kết cộng hoá trị": {
+              "status": "done",
+              "pdf_pages": [
+                56,
+                64
+              ],
+              "terms_added": 11
+            },
+            "Bài 13. Liên kết hydrogen và tương tác van der Waals": {
+              "status": "done",
+              "pdf_pages": [
+                65,
+                68
+              ],
+              "terms_added": 6
+            },
+            "Bài 14. Ôn tập chương 3": {
+              "status": "done",
+              "pdf_pages": [
+                69,
+                70
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 4. Phản ứng oxi hoá – khử": {
+          "lessons": {
+            "Bài 15. Phản ứng oxi hoá – khử": {
+              "status": "done",
+              "pdf_pages": [
+                72,
+                78
+              ],
+              "terms_added": 9
+            },
+            "Bài 16. Ôn tập chương 4": {
+              "status": "done",
+              "pdf_pages": [
+                79,
+                80
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 5. Năng lượng hoá học": {
+          "lessons": {
+            "Bài 17. Biến thiên enthalpy trong các phản ứng hoá học": {
+              "status": "done",
+              "pdf_pages": [
+                82,
+                89
+              ],
+              "terms_added": 12
+            },
+            "Bài 18. Ôn tập chương 5": {
+              "status": "done",
+              "pdf_pages": [
+                90,
+                91
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 6. Tốc độ phản ứng": {
+          "lessons": {
+            "Bài 19. Tốc độ phản ứng": {
+              "status": "done",
+              "pdf_pages": [
+                93,
+                101
+              ],
+              "terms_added": 13
+            },
+            "Bài 20. Ôn tập chương 6": {
+              "status": "done",
+              "pdf_pages": [
+                102,
+                103
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 7. Nguyên tố nhóm halogen": {
+          "lessons": {
+            "Bài 21. Nhóm halogen": {
+              "status": "done",
+              "pdf_pages": [
+                105,
+                112
+              ],
+              "terms_added": 11
+            },
+            "Bài 22. Hydrogen halide. Muối halide": {
+              "status": "done",
+              "pdf_pages": [
+                113,
+                117
+              ],
+              "terms_added": 5
+            },
+            "Bài 23. Ôn tập chương 7": {
+              "status": "done",
+              "pdf_pages": [
+                118,
+                119
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    },
+    "SCD Hoa hoc 10.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        76,
+        76
+      ],
+      "chapters": {
+        "Chuyên đề 1. Cơ sở hoá học": {
+          "lessons": {
+            "Bài 1. Liên kết hoá học": {
+              "status": "done",
+              "pdf_pages": [
+                6,
+                13
+              ],
+              "terms_added": 10
+            },
+            "Bài 2. Phản ứng hạt nhân": {
+              "status": "done",
+              "pdf_pages": [
+                14,
+                19
+              ],
+              "terms_added": 14
+            },
+            "Bài 3. Năng lượng hoạt hoá của phản ứng hoá học": {
+              "status": "done",
+              "pdf_pages": [
+                20,
+                24
+              ],
+              "terms_added": 3
+            },
+            "Bài 4. Entropy và biến thiên năng lượng tự do Gibbs": {
+              "status": "done",
+              "pdf_pages": [
+                25,
+                28
+              ],
+              "terms_added": 5
+            }
+          }
+        },
+        "Chuyên đề 2. Hoá học trong việc phòng chống cháy, nổ": {
+          "lessons": {
+            "Bài 5. Sơ lược về phản ứng cháy, nổ": {
+              "status": "done",
+              "pdf_pages": [
+                29,
+                34
+              ],
+              "terms_added": 8
+            },
+            "Bài 6. Điểm chớp cháy. Nhiệt độ ngọn lửa. Nhiệt độ tự bốc cháy": {
+              "status": "done",
+              "pdf_pages": [
+                35,
+                38
+              ],
+              "terms_added": 4
+            },
+            "Bài 7. Hoá học về phản ứng cháy, nổ": {
+              "status": "done",
+              "pdf_pages": [
+                39,
+                43
+              ],
+              "terms_added": 4
+            },
+            "Bài 8. Phòng chống cháy, nổ": {
+              "status": "done",
+              "pdf_pages": [
+                44,
+                51
+              ],
+              "terms_added": 9
+            }
+          }
+        },
+        "Chuyên đề 3. Thực hành hoá học và công nghệ thông tin": {
+          "lessons": {
+            "Bài 9. Thực hành vẽ cấu trúc phân tử": {
+              "status": "done",
+              "pdf_pages": [
+                52,
+                60
+              ],
+              "terms_added": 0
+            },
+            "Bài 10. Thực hành thí nghiệm hoá học ảo": {
+              "status": "done",
+              "pdf_pages": [
+                61,
+                67
+              ],
+              "terms_added": 0
+            },
+            "Bài 11. Thực hành tính tham số cấu trúc và năng lượng": {
+              "status": "done",
+              "pdf_pages": [
+                68,
+                75
+              ],
+              "terms_added": 4
+            }
+          }
+        }
+      }
+    },
+    "SGV HOA HOC 10.pdf": {
+      "status": "done",
+      "general_pdf_pages": [
+        7,
+        13
+      ],
+      "chapters": {
+        "Mở đầu": {
+          "lessons": {
+            "Mở đầu": {
+              "status": "done",
+              "pdf_pages": [
+                14,
+                19
+              ],
+              "gv_sources_added": 1
+            }
+          }
+        },
+        "Chương 1. Cấu tạo nguyên tử": {
+          "lessons": {
+            "Bài 1. Thành phần của nguyên tử": {
+              "status": "done",
+              "pdf_pages": [
+                20,
+                28
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 2. Nguyên tố hoá học": {
+              "status": "done",
+              "pdf_pages": [
+                29,
+                36
+              ],
+              "gv_sources_added": 2
+            },
+            "Bài 3. Cấu trúc lớp vỏ electron nguyên tử": {
+              "status": "done",
+              "pdf_pages": [
+                37,
+                46
+              ],
+              "gv_sources_added": 2
+            },
+            "Bài 4. Ôn tập chương 1": {
+              "status": "done",
+              "pdf_pages": [
+                47,
+                48
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        },
+        "Chương 2. Bảng tuần hoàn các nguyên tố hoá học và định luật tuần hoàn": {
+          "lessons": {
+            "Bài 5. Cấu tạo của bảng tuần hoàn các nguyên tố hoá học": {
+              "status": "done",
+              "pdf_pages": [
+                49,
+                55
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 6. Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm": {
+              "status": "done",
+              "pdf_pages": [
+                56,
+                63
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 7. Xu hướng biến đổi thành phần và một số tính chất của hợp chất trong một chu kì": {
+              "status": "done",
+              "pdf_pages": [
+                64,
+                68
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 8. Định luật tuần hoàn. Ý nghĩa của bảng tuần hoàn các nguyên tố hoá học": {
+              "status": "done",
+              "pdf_pages": [
+                69,
+                72
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 9. Ôn tập chương 2": {
+              "status": "done",
+              "pdf_pages": [
+                73,
+                75
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        },
+        "Chương 3. Liên kết hoá học": {
+          "lessons": {
+            "Bài 10. Quy tắc octet": {
+              "status": "done",
+              "pdf_pages": [
+                76,
+                80
+              ],
+              "gv_sources_added": 1
+            },
+            "Bài 11. Liên kết ion": {
+              "status": "done",
+              "pdf_pages": [
+                81,
+                86
+              ],
+              "gv_sources_added": 3
+            },
+            "Bài 12. Liên kết cộng hoá trị": {
+              "status": "done",
+              "pdf_pages": [
+                87,
+                98
+              ],
+              "gv_sources_added": 2
+            },
+            "Bài 13. Liên kết hydrogen và tương tác van der Waals": {
+              "status": "done",
+              "pdf_pages": [
+                99,
+                107
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 14. Ôn tập chương 3": {
+              "status": "done",
+              "pdf_pages": [
+                108,
+                109
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        },
+        "Chương 4. Phản ứng oxi hoá – khử": {
+          "lessons": {
+            "Bài 15. Phản ứng oxi hoá – khử": {
+              "status": "done",
+              "pdf_pages": [
+                110,
+                116
+              ],
+              "gv_sources_added": 1
+            },
+            "Bài 16. Ôn tập chương 4": {
+              "status": "done",
+              "pdf_pages": [
+                117,
+                118
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        },
+        "Chương 5. Năng lượng hoá học": {
+          "lessons": {
+            "Bài 17. Biến thiên enthalpy trong các phản ứng hoá học": {
+              "status": "done",
+              "pdf_pages": [
+                119,
+                122
+              ],
+              "gv_sources_added": 3
+            },
+            "Bài 18. Ôn tập chương 5": {
+              "status": "done",
+              "pdf_pages": [
+                123,
+                124
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        },
+        "Chương 6. Tốc độ phản ứng": {
+          "lessons": {
+            "Bài 19. Tốc độ phản ứng": {
+              "status": "done",
+              "pdf_pages": [
+                125,
+                134
+              ],
+              "gv_sources_added": 4
+            },
+            "Bài 20. Ôn tập chương 6": {
+              "status": "done",
+              "pdf_pages": [
+                135,
+                136
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        },
+        "Chương 7. Nguyên tố nhóm halogen": {
+          "lessons": {
+            "Bài 21. Nhóm halogen": {
+              "status": "done",
+              "pdf_pages": [
+                137,
+                144
+              ],
+              "gv_sources_added": 2
+            },
+            "Bài 22. Hydrogen halide. Muối halide": {
+              "status": "done",
+              "pdf_pages": [
+                145,
+                151
+              ],
+              "gv_sources_added": 1
+            },
+            "Bài 23. Ôn tập chương 7": {
+              "status": "done",
+              "pdf_pages": [
+                152,
+                152
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        }
+      }
+    },
+    "SGV CD HOA HOC 10.pdf": {
+      "status": "done",
+      "general_pdf_pages": [
+        6,
+        10
+      ],
+      "chapters": {
+        "Chuyên đề 1. Cơ sở hoá học": {
+          "lessons": {
+            "Bài 1. Liên kết hoá học": {
+              "status": "done",
+              "pdf_pages": [
+                11,
+                25
+              ],
+              "gv_sources_added": 2
+            },
+            "Bài 2. Phản ứng hạt nhân": {
+              "status": "done",
+              "pdf_pages": [
+                26,
+                33
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 3. Năng lượng hoạt hoá của phản ứng hoá học": {
+              "status": "done",
+              "pdf_pages": [
+                34,
+                39
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 4. Entropy và biến thiên năng lượng tự do Gibbs": {
+              "status": "done",
+              "pdf_pages": [
+                40,
+                50
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        },
+        "Chuyên đề 2. Hoá học trong việc phòng chống cháy, nổ": {
+          "lessons": {
+            "Bài 5. Sơ lược về phản ứng cháy, nổ": {
+              "status": "done",
+              "pdf_pages": [
+                51,
+                55
+              ],
+              "gv_sources_added": 1
+            },
+            "Bài 6. Điểm chớp cháy. Nhiệt độ ngọn lửa. Nhiệt độ tự bốc cháy": {
+              "status": "done",
+              "pdf_pages": [
+                56,
+                65
+              ],
+              "gv_sources_added": 1
+            },
+            "Bài 7. Hoá học về phản ứng cháy, nổ": {
+              "status": "done",
+              "pdf_pages": [
+                66,
+                72
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 8. Phòng chống cháy, nổ": {
+              "status": "done",
+              "pdf_pages": [
+                73,
+                78
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        },
+        "Chuyên đề 3. Thực hành hoá học và công nghệ thông tin": {
+          "lessons": {
+            "Bài 9. Thực hành vẽ cấu trúc phân tử": {
+              "status": "done",
+              "pdf_pages": [
+                79,
+                84
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 10. Thực hành thí nghiệm hoá học ảo": {
+              "status": "done",
+              "pdf_pages": [
+                85,
+                89
+              ],
+              "gv_sources_added": 0
+            },
+            "Bài 11. Thực hành tính tham số cấu trúc và năng lượng": {
+              "status": "done",
+              "pdf_pages": [
+                90,
+                97
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        }
+      }
+    },
+    "SBT HOA HOC 10.pdf": {
+      "status": "done",
+      "chapters": {
+        "Chương 1. Cấu tạo nguyên tử": {
+          "pdf_pages": [
+            5,
+            13
+          ],
+          "lessons": {
+            "Bài 1. Thành phần của nguyên tử": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 2. Nguyên tố hoá học": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 3. Cấu trúc lớp vỏ electron nguyên tử": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 4. Ôn tập chương 1": {
+              "status": "done",
+              "terms_added": 0
+            }
+          },
+          "answer_pdf_pages": [
+            76,
+            81
+          ]
+        },
+        "Chương 2. Bảng tuần hoàn các nguyên tố hoá học và định luật tuần hoàn": {
+          "pdf_pages": [
+            14,
+            28
+          ],
+          "lessons": {
+            "Bài 5. Cấu tạo của bảng tuần hoàn các nguyên tố hoá học": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 6. Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 7. Xu hướng biến đổi thành phần và một số tính chất của hợp chất trong một chu kì": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 8. Định luật tuần hoàn. Ý nghĩa của bảng tuần hoàn các nguyên tố hoá học": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 9. Ôn tập chương 2": {
+              "status": "done",
+              "terms_added": 0
+            }
+          },
+          "answer_pdf_pages": [
+            82,
+            97
+          ]
+        },
+        "Chương 3. Liên kết hoá học": {
+          "pdf_pages": [
+            29,
+            39
+          ],
+          "lessons": {
+            "Bài 10. Quy tắc octet": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 11. Liên kết ion": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 12. Liên kết cộng hoá trị": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 13. Liên kết hydrogen và tương tác van der Waals": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 14. Ôn tập chương 3": {
+              "status": "done",
+              "terms_added": 0
+            }
+          },
+          "answer_pdf_pages": [
+            98,
+            106
+          ]
+        },
+        "Chương 4. Phản ứng oxi hoá – khử": {
+          "pdf_pages": [
+            40,
+            45
+          ],
+          "lessons": {
+            "Bài 15. Phản ứng oxi hoá – khử": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 16. Ôn tập chương 4": {
+              "status": "done",
+              "terms_added": 0
+            }
+          },
+          "answer_pdf_pages": [
+            107,
+            111
+          ]
+        },
+        "Chương 5. Năng lượng hoá học": {
+          "pdf_pages": [
+            46,
+            53
+          ],
+          "lessons": {
+            "Bài 17. Biến thiên enthalpy trong các phản ứng hoá học": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 18. Ôn tập chương 5": {
+              "status": "done",
+              "terms_added": 0
+            }
+          },
+          "answer_pdf_pages": [
+            112,
+            117
+          ]
+        },
+        "Chương 6. Tốc độ phản ứng": {
+          "pdf_pages": [
+            54,
+            65
+          ],
+          "lessons": {
+            "Bài 19. Tốc độ phản ứng": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 20. Ôn tập chương 6": {
+              "status": "done",
+              "terms_added": 0
+            }
+          },
+          "answer_pdf_pages": [
+            118,
+            124
+          ]
+        },
+        "Chương 7. Nguyên tố nhóm halogen": {
+          "pdf_pages": [
+            66,
+            75
+          ],
+          "lessons": {
+            "Bài 21. Nhóm halogen": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 22. Hydrogen halide. Muối halide": {
+              "status": "done",
+              "terms_added": 0
+            },
+            "Bài 23. Ôn tập chương 7": {
+              "status": "done",
+              "terms_added": 0
+            }
+          },
+          "answer_pdf_pages": [
+            125,
+            128
+          ]
+        }
+      }
+    },
+    "Tài liệu bồi dưỡng GV môn Hóa học 10.pdf": {
+      "status": "done",
+      "chapters": {}
+    }
+  },
+  "last_session_note": "2026-10-15: Hoàn thành hoa_10 (194 thuật ngữ: SGK 133, SCD 61, SBT 0 — SBT chỉ có bài tập và đáp án). SGV/SGV CD/TLBD: mục tiêu từng bài, giới hạn chương trình (bỏ nhóm O–S, cân bằng hoá học sang lớp 11), 13 điểm dễ nhầm → DESCRIPTION mục 4–5; nguồn gv cho 26 thuật ngữ. Cache OCR bổ sung: SGK PDF 95 (hộp bên lề), SGK PDF 120 và SCD PDF 76 (400 dpi). validate 0 lỗi, check_sources 194/194 (24 cảnh báo tên). Mẫu 30 mục (query.py --audit): 0 sai. Còn việc: người dùng kiểm tra độc lập sample_audit.md rồi xoá file."
+}

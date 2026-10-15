@@ -141,6 +141,7 @@ Trong cùng một bộ, nếu một khái niệm xuất hiện ở nhiều sách
 | `ngu_van_10` | Đã kiểm tra cuối (191 mục; mẫu 30 mục, 0 sai — 2026-10-14; chờ kiểm tra độc lập) | Sách dạng ảnh (trừ Tài liệu GV); trang PDF = trang in + 1; không chia chương: `chapter` = `Tập một`/`Tập hai` hoặc `Chuyên đề N. …`, `lesson` = `Bài N. …`/`Phần N. …` |
 | `tieng_anh_10` | Đã kiểm tra cuối (261 mục; mẫu 30 mục, 0 sai — 2026-10-14; chờ kiểm tra độc lập) | Sách Global Success, dạng ảnh (trừ Slide tập huấn); trang PDF = trang in + 1; `chapter` = `Unit N. …`/`Review N`, `lesson` = `Lesson N. …` hoặc `Glossary`; từ vựng: nghĩa tiếng Việt ở `definition`, loại từ + IPA ở `notation`; cache `.ocr/` dựng bằng `eng+vie` |
 | `vat_ly_10` | Đã kiểm tra cuối (241 mục; mẫu 30 mục, 1 sai đã sửa — 2026-10-15) | Sách dạng ảnh (Tài liệu GV có text layer nhưng lỗi font); trang PDF = trang in + 1; SBT chỉ có bài tập (0 mục) |
+| `hoa_10` | Đã kiểm tra cuối (194 mục; mẫu 30 mục, 0 sai — 2026-10-15) | Sách dạng ảnh (trừ Tài liệu GV); trang PDF = trang in + 1; SGK có phần `Mở đầu` không đánh số bài (`chapter` = `lesson` = `Mở đầu`) |
 
 Trạng thái: chưa bắt đầu / đang trích xuất / đã kiểm tra cuối.
 
