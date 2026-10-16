@@ -1,0 +1,619 @@
+{
+  "unit": "lich_su_10",
+  "books": {
+    "SGK Lich su 10.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        144,
+        145
+      ],
+      "chapters": {
+        "Chủ đề 1. Lịch sử và sử học": {
+          "lessons": {
+            "Bài 1. Hiện thực lịch sử và nhận thức lịch sử": {
+              "status": "done",
+              "pdf_pages": [
+                7,
+                15
+              ],
+              "terms_added": 25
+            },
+            "Bài 2. Tri thức lịch sử và cuộc sống": {
+              "status": "done",
+              "pdf_pages": [
+                16,
+                19
+              ],
+              "terms_added": 3
+            }
+          }
+        },
+        "Chủ đề 2. Vai trò của sử học": {
+          "lessons": {
+            "Bài 3. Sử học với các lĩnh vực khoa học": {
+              "status": "done",
+              "pdf_pages": [
+                20,
+                26
+              ],
+              "terms_added": 7
+            },
+            "Bài 4. Sử học với một số lĩnh vực, ngành nghề hiện đại": {
+              "status": "done",
+              "pdf_pages": [
+                27,
+                33
+              ],
+              "terms_added": 14
+            }
+          }
+        },
+        "Chủ đề 3. Một số nền văn minh thế giới thời kì cổ – trung đại": {
+          "lessons": {
+            "Bài 5. Khái niệm văn minh. Một số nền văn minh phương Đông thời kì cổ – trung đại": {
+              "status": "done",
+              "pdf_pages": [
+                34,
+                48
+              ],
+              "terms_added": 23
+            },
+            "Bài 6. Một số nền văn minh phương Tây thời kì cổ – trung đại": {
+              "status": "done",
+              "pdf_pages": [
+                49,
+                58
+              ],
+              "terms_added": 14
+            }
+          }
+        },
+        "Chủ đề 4. Các cuộc cách mạng công nghiệp trong lịch sử thế giới": {
+          "lessons": {
+            "Bài 7. Các cuộc cách mạng công nghiệp thời kì cận đại": {
+              "status": "done",
+              "pdf_pages": [
+                59,
+                68
+              ],
+              "terms_added": 12
+            },
+            "Bài 8. Các cuộc cách mạng công nghiệp thời kì hiện đại": {
+              "status": "done",
+              "pdf_pages": [
+                69,
+                76
+              ],
+              "terms_added": 13
+            }
+          }
+        },
+        "Chủ đề 5. Văn minh Đông Nam Á": {
+          "lessons": {
+            "Bài 9. Cơ sở hình thành văn minh Đông Nam Á thời kì cổ – trung đại": {
+              "status": "done",
+              "pdf_pages": [
+                77,
+                85
+              ],
+              "terms_added": 7
+            },
+            "Bài 10. Hành trình phát triển và thành tựu của văn minh Đông Nam Á thời kì cổ – trung đại": {
+              "status": "done",
+              "pdf_pages": [
+                86,
+                93
+              ],
+              "terms_added": 8
+            }
+          }
+        },
+        "Chủ đề 6. Một số nền văn minh trên đất nước Việt Nam (trước năm 1858)": {
+          "lessons": {
+            "Bài 11. Một số nền văn minh cổ trên đất nước Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                94,
+                108
+              ],
+              "terms_added": 16
+            },
+            "Bài 12. Văn minh Đại Việt": {
+              "status": "done",
+              "pdf_pages": [
+                109,
+                123
+              ],
+              "terms_added": 25
+            }
+          }
+        },
+        "Chủ đề 7. Cộng đồng các dân tộc Việt Nam": {
+          "lessons": {
+            "Bài 13. Đời sống vật chất và tinh thần của cộng đồng các dân tộc Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                124,
+                136
+              ],
+              "terms_added": 11
+            },
+            "Bài 14. Khối đại đoàn kết dân tộc trong lịch sử Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                137,
+                143
+              ],
+              "terms_added": 5
+            }
+          }
+        }
+      }
+    },
+    "SCD Lich su 10.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        63,
+        64
+      ],
+      "chapters": {
+        "Chuyên đề 1. Các lĩnh vực của sử học": {
+          "lessons": {
+            "I. Thông sử và lịch sử theo lĩnh vực": {
+              "status": "done",
+              "pdf_pages": [
+                7,
+                10
+              ],
+              "terms_added": 7
+            },
+            "II. Một số lĩnh vực của lịch sử Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                11,
+                23
+              ],
+              "terms_added": 12
+            }
+          }
+        },
+        "Chuyên đề 2. Bảo tồn và phát huy giá trị di sản văn hoá ở Việt Nam": {
+          "lessons": {
+            "I. Di sản văn hoá": {
+              "status": "done",
+              "pdf_pages": [
+                24,
+                27
+              ],
+              "terms_added": 7
+            },
+            "II. Bảo tồn và phát huy giá trị di sản văn hoá": {
+              "status": "done",
+              "pdf_pages": [
+                28,
+                31
+              ],
+              "terms_added": 6
+            },
+            "III. Một số di sản văn hoá tiêu biểu ở Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                32,
+                45
+              ],
+              "terms_added": 14
+            }
+          }
+        },
+        "Chuyên đề 3. Nhà nước và pháp luật Việt Nam trong lịch sử": {
+          "lessons": {
+            "I. Nhà nước và pháp luật trong lịch sử Việt Nam (trước năm 1858)": {
+              "status": "done",
+              "pdf_pages": [
+                46,
+                51
+              ],
+              "terms_added": 18
+            },
+            "II. Nhà nước Việt Nam từ năm 1945 đến nay": {
+              "status": "done",
+              "pdf_pages": [
+                52,
+                56
+              ],
+              "terms_added": 5
+            },
+            "III. Một số bản Hiến pháp Việt Nam từ năm 1946 đến nay": {
+              "status": "done",
+              "pdf_pages": [
+                57,
+                62
+              ],
+              "terms_added": 8
+            }
+          }
+        }
+      }
+    },
+    "SGV LICH SU 10.pdf": {
+      "status": "done",
+      "note": "Mục tiêu, lưu ý từng bài → DESCRIPTION mục 4–5; nguồn gv cho thuật ngữ được giải thích rõ",
+      "chapters": {
+        "Chủ đề 1. Lịch sử và sử học": {
+          "lessons": {
+            "Bài 1. Hiện thực lịch sử và nhận thức lịch sử": {
+              "status": "done",
+              "pdf_pages": [
+                24,
+                36
+              ],
+              "terms_added": 0
+            },
+            "Bài 2. Tri thức lịch sử và cuộc sống": {
+              "status": "done",
+              "pdf_pages": [
+                37,
+                43
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chủ đề 2. Vai trò của sử học": {
+          "lessons": {
+            "Bài 3. Sử học với các lĩnh vực khoa học": {
+              "status": "done",
+              "pdf_pages": [
+                44,
+                53
+              ],
+              "terms_added": 0
+            },
+            "Bài 4. Sử học với một số lĩnh vực, ngành nghề hiện đại": {
+              "status": "done",
+              "pdf_pages": [
+                54,
+                70
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chủ đề 3. Một số nền văn minh thế giới thời kì cổ – trung đại": {
+          "lessons": {
+            "Bài 5. Khái niệm văn minh. Một số nền văn minh phương Đông thời kì cổ – trung đại": {
+              "status": "done",
+              "pdf_pages": [
+                71,
+                83
+              ],
+              "terms_added": 0
+            },
+            "Bài 6. Một số nền văn minh phương Tây thời kì cổ – trung đại": {
+              "status": "done",
+              "pdf_pages": [
+                84,
+                92
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chủ đề 4. Các cuộc cách mạng công nghiệp trong lịch sử thế giới": {
+          "lessons": {
+            "Bài 7. Các cuộc cách mạng công nghiệp thời kì cận đại": {
+              "status": "done",
+              "pdf_pages": [
+                93,
+                103
+              ],
+              "terms_added": 0
+            },
+            "Bài 8. Các cuộc cách mạng công nghiệp thời kì hiện đại": {
+              "status": "done",
+              "pdf_pages": [
+                104,
+                114
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chủ đề 5. Văn minh Đông Nam Á": {
+          "lessons": {
+            "Bài 9. Cơ sở hình thành văn minh Đông Nam Á thời kì cổ – trung đại": {
+              "status": "done",
+              "pdf_pages": [
+                115,
+                126
+              ],
+              "terms_added": 0
+            },
+            "Bài 10. Hành trình phát triển và thành tựu của văn minh Đông Nam Á thời kì cổ – trung đại": {
+              "status": "done",
+              "pdf_pages": [
+                127,
+                140
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chủ đề 6. Một số nền văn minh trên đất nước Việt Nam (trước năm 1858)": {
+          "lessons": {
+            "Bài 11. Một số nền văn minh cổ trên đất nước Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                141,
+                158
+              ],
+              "terms_added": 0
+            },
+            "Bài 12. Văn minh Đại Việt": {
+              "status": "done",
+              "pdf_pages": [
+                159,
+                176
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chủ đề 7. Cộng đồng các dân tộc Việt Nam": {
+          "lessons": {
+            "Bài 13. Đời sống vật chất và tinh thần của cộng đồng các dân tộc Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                177,
+                192
+              ],
+              "terms_added": 0
+            },
+            "Bài 14. Khối đại đoàn kết dân tộc trong lịch sử Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                193,
+                206
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    },
+    "SGV CD LICH SU 10.pdf": {
+      "status": "done",
+      "note": "Mục tiêu, lưu ý từng chuyên đề → DESCRIPTION mục 4–5",
+      "chapters": {
+        "Chuyên đề 1. Các lĩnh vực của sử học": {
+          "lessons": {
+            "I. Thông sử và lịch sử theo lĩnh vực": {
+              "status": "done",
+              "pdf_pages": [
+                13,
+                19
+              ],
+              "terms_added": 0
+            },
+            "II. Một số lĩnh vực của lịch sử Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                20,
+                30
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chuyên đề 2. Bảo tồn và phát huy giá trị di sản văn hoá ở Việt Nam": {
+          "lessons": {
+            "I. Di sản văn hoá": {
+              "status": "done",
+              "pdf_pages": [
+                31,
+                36
+              ],
+              "terms_added": 0
+            },
+            "II. Bảo tồn và phát huy giá trị di sản văn hoá": {
+              "status": "done",
+              "pdf_pages": [
+                37,
+                41
+              ],
+              "terms_added": 0
+            },
+            "III. Một số di sản văn hoá tiêu biểu ở Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                41,
+                50
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chuyên đề 3. Nhà nước và pháp luật Việt Nam trong lịch sử": {
+          "lessons": {
+            "I. Nhà nước và pháp luật trong lịch sử Việt Nam (trước năm 1858)": {
+              "status": "done",
+              "pdf_pages": [
+                51,
+                59
+              ],
+              "terms_added": 0
+            },
+            "II. Nhà nước Việt Nam từ năm 1945 đến nay": {
+              "status": "done",
+              "pdf_pages": [
+                60,
+                64
+              ],
+              "terms_added": 0
+            },
+            "III. Một số bản Hiến pháp Việt Nam từ năm 1946 đến nay": {
+              "status": "done",
+              "pdf_pages": [
+                65,
+                74
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    },
+    "SBT LICH SU 10.pdf": {
+      "status": "done",
+      "note": "Câu hỏi, bài tập (PDF 6–94) và đáp án (PDF 95–121); 1 khái niệm SGK chưa định nghĩa (bảo vật quốc gia)",
+      "chapters": {
+        "Chủ đề 1. Lịch sử và sử học": {
+          "lessons": {
+            "Bài 1. Hiện thực lịch sử và nhận thức lịch sử": {
+              "status": "done",
+              "pdf_pages": [
+                6,
+                11
+              ],
+              "terms_added": 0
+            },
+            "Bài 2. Tri thức lịch sử và cuộc sống": {
+              "status": "done",
+              "pdf_pages": [
+                12,
+                15
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chủ đề 2. Vai trò của sử học": {
+          "lessons": {
+            "Bài 3. Sử học với các lĩnh vực khoa học": {
+              "status": "done",
+              "pdf_pages": [
+                16,
+                18
+              ],
+              "terms_added": 0
+            },
+            "Bài 4. Sử học với một số lĩnh vực, ngành nghề hiện đại": {
+              "status": "done",
+              "pdf_pages": [
+                19,
+                25
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chủ đề 3. Một số nền văn minh thế giới thời kì cổ – trung đại": {
+          "lessons": {
+            "Bài 5. Khái niệm văn minh. Một số nền văn minh phương Đông thời kì cổ – trung đại": {
+              "status": "done",
+              "pdf_pages": [
+                31,
+                36
+              ],
+              "terms_added": 0
+            },
+            "Bài 6. Một số nền văn minh phương Tây thời kì cổ – trung đại": {
+              "status": "done",
+              "pdf_pages": [
+                37,
+                39
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chủ đề 4. Các cuộc cách mạng công nghiệp trong lịch sử thế giới": {
+          "lessons": {
+            "Bài 7. Các cuộc cách mạng công nghiệp thời kì cận đại": {
+              "status": "done",
+              "pdf_pages": [
+                40,
+                44
+              ],
+              "terms_added": 0
+            },
+            "Bài 8. Các cuộc cách mạng công nghiệp thời kì hiện đại": {
+              "status": "done",
+              "pdf_pages": [
+                45,
+                50
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chủ đề 5. Văn minh Đông Nam Á": {
+          "lessons": {
+            "Bài 9. Cơ sở hình thành văn minh Đông Nam Á thời kì cổ – trung đại": {
+              "status": "done",
+              "pdf_pages": [
+                55,
+                59
+              ],
+              "terms_added": 0
+            },
+            "Bài 10. Hành trình phát triển và thành tựu của văn minh Đông Nam Á thời kì cổ – trung đại": {
+              "status": "done",
+              "pdf_pages": [
+                60,
+                62
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chủ đề 6. Một số nền văn minh trên đất nước Việt Nam (trước năm 1858)": {
+          "lessons": {
+            "Bài 11. Một số nền văn minh cổ trên đất nước Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                63,
+                68
+              ],
+              "terms_added": 0
+            },
+            "Bài 12. Văn minh Đại Việt": {
+              "status": "done",
+              "pdf_pages": [
+                74,
+                80
+              ],
+              "terms_added": 1
+            }
+          }
+        },
+        "Chủ đề 7. Cộng đồng các dân tộc Việt Nam": {
+          "lessons": {
+            "Bài 13. Đời sống vật chất và tinh thần của cộng đồng các dân tộc Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                81,
+                84
+              ],
+              "terms_added": 0
+            },
+            "Bài 14. Khối đại đoàn kết dân tộc trong lịch sử Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                85,
+                89
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    },
+    "Tài liệu bồi dưỡng GV môn Lịch sử 10.pdf": {
+      "status": "done",
+      "note": "Cấu trúc SGK/SCD, điểm mới, kế hoạch dạy chuyên đề → DESCRIPTION mục 4",
+      "chapters": {}
+    }
+  },
+  "last_session_note": "2026-10-16: Hoàn tất Giai đoạn 1–5. 261 mục (SGK 183, SCD 77, SBT 1; 18 mục thêm nguồn gv). validate 0 lỗi; check_sources 261/261 đạt. Mẫu 30 mục (--audit --sample 30, seed 2026): 0 sai. sample_audit.md giữ lại chờ kiểm tra độc lập."
+}
