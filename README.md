@@ -15,25 +15,31 @@ Gốc dự án là thư mục `book/` này:
 ```
 book/                         # GỐC
 ├── README.md, CLAUDE.md
-├── toan_10/                  # NGUỒN PDF của bộ toan_10 — CHỈ ĐỌC, không sửa/đổi tên/xóa
-├── sgk/                      # SGK lớp 10 các môn khác; chuyển sang <unit>/ khi bắt đầu môn đó
+├── sgk/                      # NGUỒN SÁCH PDF THEO KHỐI LỚP (chỉ đọc)
+│   ├── khoi_10/              # Khối 10: toan_10/, hoa_10/, lich_su_10/, sinh_10/, ...
+│   ├── khoi_11/              # Khối 11
+│   └── khoi_12/              # Khối 12
 └── glossary/                 # KẾT QUẢ
     ├── schema.json           # nguồn duy nhất về định dạng
     ├── tessdata/             # dữ liệu OCR tiếng Việt cho tesseract
     ├── scripts/              # add_terms.py, query.py, validate.py, check_sources.py, _common.py
-    └── toan_10/
-        ├── toan_10.json      # dữ liệu: glossary/<unit>/<unit>.json
-        ├── progress.json     # tiến độ + danh sách chương/bài CHUẨN
-        ├── DESCRIPTION.md    # mô tả bộ
-        └── .ocr/             # cache OCR (tự sinh, xóa được)
+    ├── dataset/              # TẬP TRUNG: chứa tất cả file JSON dữ liệu (<unit>.json)
+    ├── khoi_10/              # Khối 10: toan_10/, hoa_10/, lich_su_10/, sinh_10/, ...
+    │   └── toan_10/
+    │       ├── toan_10.json  # dữ liệu: glossary/khoi_<lop>/<unit>/<unit>.json
+    │       ├── progress.json # tiến độ + danh sách chương/bài CHUẨN
+    │       ├── DESCRIPTION.md# mô tả bộ
+    │       └── .ocr/         # cache OCR (tự sinh, xóa được)
+    ├── khoi_11/              # Khối 11
+    └── khoi_12/              # Khối 12
 ```
 
-Mỗi bộ có **một** file JSON. Không chia nhỏ theo chương hay bài. Nguồn của bộ `<unit>` nằm ở `book/<unit>/`.
+Mỗi bộ có **hai** bản lưu JSON: một bản nằm ở `glossary/khoi_<lop>/<unit>/<unit>.json` và một bản tập trung ở `glossary/dataset/<unit>.json` (được tự động đồng bộ khi chạy script). Không chia nhỏ theo chương hay bài. Nguồn của bộ `<unit>` nằm ở `sgk/khoi_<lop>/<unit>/`.
 
 ## 3. Đầu mỗi phiên
 
 1. Xác định bộ đang làm. Hỏi người dùng nếu chưa rõ. **Chỉ làm một bộ mỗi phiên.**
-2. Đọc `glossary/<unit>/progress.json`, rồi `glossary/<unit>/DESCRIPTION.md`.
+2. Đọc `glossary/khoi_<lop>/<unit>/progress.json`, rồi `glossary/khoi_<lop>/<unit>/DESCRIPTION.md`.
 3. Làm tiếp phần đang dở. Không làm lại phần đã `done`.
 4. **Không mở cả file `<unit>.json` để đọc.** Dùng `query.py` để xem dữ liệu.
 5. **Không sửa `<unit>.json` bằng tay.** Chỉ dùng `add_terms.py` (sửa thì thêm `--update`).
@@ -115,21 +121,22 @@ Trong cùng một bộ, nếu một khái niệm xuất hiện ở nhiều sách
 ## 7. Đảm bảo chất lượng
 
 - Sau **mỗi sách**: chạy `validate.py <unit>` và `check_sources.py <unit>`. Xử lý ngay các mục gắn cờ: mở lại đúng trang nguồn dưới dạng ảnh, rồi sửa bằng `add_terms.py --update` hoặc ghi `notes`.
-- `check_sources.py` so khớp **có dấu tiếng Việt** với text trang (text layer hoặc OCR tesseract `vie`, cache ở `glossary/<unit>/.ocr/`). Độ đo chính là tỉ lệ **cặp từ liên tiếp (bigram)**, ngưỡng 0.65 (chọn từ thí điểm: dữ liệu đúng ≥ 0.70, sai trang/bịa phần lớn < 0.5). Tên thuật ngữ được so cả bản bỏ khoảng trắng (chịu lỗi OCR dính chữ). Với `cong_thuc`/`quy_tac`/`ky_hieu`/`tinh_chat`, tên không có nguyên văn trong trang chỉ là cảnh báo. Script chỉ phát hiện định nghĩa bịa hoặc sai trang, không phát hiện sai sót nhỏ trong công thức.
-- File dữ liệu được `add_terms.py` ghi theo dạng mỗi thuật ngữ một dòng.
+- `check_sources.py` so khớp **có dấu tiếng Việt** với text trang (text layer hoặc OCR tesseract `vie`, cache ở `glossary/khoi_<lop>/<unit>/.ocr/`). Độ đo chính là tỉ lệ **cặp từ liên tiếp (bigram)**, ngưỡng 0.65 (chọn từ thí điểm: dữ liệu đúng ≥ 0.70, sai trang/bịa phần lớn < 0.5). Tên thuật ngữ được so cả bản bỏ khoảng trắng (chịu lỗi OCR dính chữ). Với `cong_thuc`/`quy_tac`/`ky_hieu`/`tinh_chat`, tên không có nguyên văn trong trang chỉ là cảnh báo. Script chỉ phát hiện định nghĩa bịa hoặc sai trang, không phát hiện sai sót nhỏ trong công thức.
+- File dữ liệu được `add_terms.py` ghi theo dạng mỗi thuật ngữ một dòng (tự động đồng bộ vào cả thư mục bộ và `glossary/dataset/`; thư mục `dataset/` chỉ lưu file `.json`, không chứa file `.bak`).
 - Khi xong một bộ: **kiểm tra mẫu độc lập ở một phiên mới**. Chạy lệnh kiểm định chuyên dụng để tự động xuất file mẫu:
   `python glossary/scripts/query.py <unit> --audit`
-  Lệnh này tự động chọn đúng 30 mục chuẩn (20 mục ngẫu nhiên seed 2026 + 10 mục công thức/kí hiệu) và xuất ra file `glossary/<unit>/sample_audit.md` chuẩn UTF-8.
+  Lệnh này tự động chọn đúng 30 mục chuẩn (20 mục ngẫu nhiên seed 2026 + 10 mục công thức/kí hiệu) và xuất ra file `glossary/khoi_<lop>/<unit>/sample_audit.md` chuẩn UTF-8.
   Người kiểm tra mở `sample_audit.md` trong VS Code (nhấn `Ctrl + Shift + V` để xem trực quan), đối chiếu trực tiếp với trang nguồn **dưới dạng ảnh** và so với `definition`/`notation`. Nếu tỉ lệ sai > 5% thì DỪNG và báo người dùng. Xong kiểm tra thì xóa file `sample_audit.md`.
 - **Không tự ý đổi schema.** Phải hỏi người dùng trước. Khi được đồng ý: sửa `schema.json`, cập nhật dữ liệu của **tất cả** các bộ trong cùng một lần, rồi chạy `validate.py` (không tham số) đến khi sạch.
 
 ## 8. Thêm bộ mới (ví dụ `toan_11`)
 
-1. Đặt PDF vào `book/toan_11/`.
-2. Tạo `glossary/toan_11/` gồm:
+1. Đặt PDF vào `sgk/khoi_11/toan_11/`.
+2. Tạo `glossary/khoi_11/toan_11/` gồm:
    - `toan_11.json`: `{"meta": {"unit": "toan_11", "subject": "toan", "subject_name": "Toán", "grade": 11, "last_updated": "...", "term_count": 0}, "terms": []}`
    - `progress.json`: điền chương/bài theo mục lục, mỗi bài có `status` và `pdf_pages`. Liệt kê **mọi** PDF của bộ, kể cả SGV và Tài liệu GV (xem mục 5).
    - `DESCRIPTION.md`: dùng khung giống `toan_10`.
+   Đồng thời copy/tạo sẵn một bản `toan_11.json` vào `glossary/dataset/toan_11.json`.
 3. Thêm một dòng vào bảng trạng thái bên dưới. Các script dùng chung, không cần sửa.
 
 ## 9. Trạng thái các bộ
@@ -143,6 +150,9 @@ Trong cùng một bộ, nếu một khái niệm xuất hiện ở nhiều sách
 | `vat_ly_10` | Đã kiểm tra cuối (241 mục; mẫu 30 mục, 1 sai đã sửa — 2026-10-15) | Sách dạng ảnh (Tài liệu GV có text layer nhưng lỗi font); trang PDF = trang in + 1; SBT chỉ có bài tập (0 mục) |
 | `hoa_10` | Đã kiểm tra cuối (194 mục; mẫu 30 mục, 0 sai — 2026-10-15) | Sách dạng ảnh (trừ Tài liệu GV); trang PDF = trang in + 1; SGK có phần `Mở đầu` không đánh số bài (`chapter` = `lesson` = `Mở đầu`) |
 | `tin_hoc_10` | Đã kiểm tra cuối (266 mục; mẫu 30 mục, 2 sai đã sửa — 2026-10-15) | Sách dạng ảnh (trừ Tài liệu GV); trang PDF = trang in + 1; 2 SCD (KHMT: robot; ICT: văn phòng) đều có `Chuyên đề 1–3`, SCD ICT đánh lại `Bài 1` mỗi chuyên đề — lọc kèm `--chapter`; ICT bỏ Bài 3–6, CS bỏ Bài 12–15 |
+| `lich_su_10` | Đã kiểm tra cuối (261 mục; mẫu 30 mục, 0 sai — 2026-10-16; chờ kiểm tra độc lập) | Sách dạng ảnh (trừ Tài liệu GV); trang PDF = trang in + 1; `chapter` = `Chủ đề N. …`/`Chuyên đề N. …`, SCD `lesson` = mục `I.`/`II.`/`III.`; không có công thức/kí hiệu — `--audit` dùng kèm `--sample 30` |
+| `dia_10` | Đã kiểm tra cuối (294 mục; mẫu 30 mục, 1 sai đã sửa — 2026-10-16; chờ kiểm tra độc lập) | Sách dạng ảnh (trừ Tài liệu GV); trang PDF = trang in + 1; `chapter` = `Phần một. …`/`Chương N. …`/`Chuyên đề 10.N. …`, SCD `lesson` = mục `I.`–`IV.`; SBT 0 mục |
+| `am_nhac_10` | Đã kiểm tra cuối (116 mục; mẫu 37 mục, 0 sai — 2026-10-16) | Sách dạng ảnh (trừ Tài liệu GV); trang PDF = trang in + 1; không có SBT; SGK `chapter` = `Chủ đề N. …`/`Phương án lựa chọn A. Hát`/`B. Nhạc cụ`, `lesson` = mạch nội dung (`Lí thuyết âm nhạc`, `Thưởng thức âm nhạc`, …) hoặc `Bài N. …` (A và B đều có Bài 1–… — lọc kèm `--chapter`); không có công thức — `--audit` dùng kèm `--sample 30` |
 
 Trạng thái: chưa bắt đầu / đang trích xuất / đã kiểm tra cuối.
 
