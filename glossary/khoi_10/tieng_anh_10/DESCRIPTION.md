@@ -1,10 +1,10 @@
 # Bộ thuật ngữ `tieng_anh_10` — Tiếng Anh 10 Global Success (Kết nối tri thức với cuộc sống)
 
-Dữ liệu: `glossary/tieng_anh_10/tieng_anh_10.json`, gồm **261 mục** (cập nhật 2026-10-14). Truy vấn bằng `query.py`; không nạp cả file.
+Dữ liệu: `glossary/khoi_10/tieng_anh_10/tieng_anh_10.json` (tập trung: `glossary/dataset/tieng_anh_10.json`), gồm **261 mục** (cập nhật 2026-10-14). Truy vấn bằng `query.py`; không nạp cả file.
 
 ## 1. Phạm vi
 
-Nguồn: thư mục `tieng_anh_10/`, bộ Tiếng Anh 10 Global Success (NXB Giáo dục Việt Nam – Pearson).
+Nguồn: thư mục `sgk/khoi_10/tieng_anh_10/`, bộ Tiếng Anh 10 Global Success (NXB Giáo dục Việt Nam – Pearson).
 
 | File | Loại | Số trang PDF | Vai trò | Text layer |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
 # Bộ thuật ngữ `toan_10` — Toán 10 (Kết nối tri thức với cuộc sống)
 
-Dữ liệu: `glossary/toan_10/toan_10.json`, gồm **197 thuật ngữ** (cập nhật 2026-10-14). Truy vấn bằng `query.py`; không nạp cả file.
+Dữ liệu: `glossary/khoi_10/toan_10/toan_10.json` (tập trung: `glossary/dataset/toan_10.json`), gồm **197 thuật ngữ** (cập nhật 2026-10-14). Truy vấn bằng `query.py`; không nạp cả file.
 
 ## 1. Phạm vi
 
-Nguồn: thư mục `toan_10/`, bộ sách điện tử Kết nối tri thức (vniteach.com).
+Nguồn: thư mục `sgk/khoi_10/toan_10/`, bộ sách điện tử Kết nối tri thức (vniteach.com).
 
 | File | Loại | Số trang PDF | Vai trò | Text layer |
 |---|---|---|---|---|

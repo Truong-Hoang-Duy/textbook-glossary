@@ -12,7 +12,7 @@ import argparse
 import sys
 from datetime import date
 
-from _common import (data_path, load_json, load_schema, load_unit, parse_unit,
+from _common import (data_path, dataset_path, load_json, load_schema, load_unit, parse_unit,
                      progress_lessons, schema_errors, schema_validator, setup_stdout,
                      subject_ids, term_errors, write_json_atomic)
 
@@ -96,6 +96,7 @@ def main():
     write_json_atomic(path, data)
     verb = "Đã sửa" if a.update else "Đã thêm"
     print(f"{verb} {len(batch)} thuật ngữ vào {path.name}. Tổng: {len(merged)}.")
+    print(f"Đã đồng bộ vào dataset/{dataset_path(a.unit).name}.")
 
 
 if __name__ == "__main__":

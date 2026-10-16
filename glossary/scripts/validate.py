@@ -7,9 +7,10 @@ Không tham số: kiểm tra mọi bộ. Mã thoát 1 nếu có lỗi.
 """
 import sys
 
-from _common import (GLOSSARY_DIR, book_dir, classify_book, data_path, list_units, load_json, load_schema,
-                     parse_unit, progress_lessons, progress_path, schema_errors,
-                     schema_validator, setup_stdout, term_errors)
+from _common import (GLOSSARY_DIR, ROOT, book_dir, classify_book, data_path, dataset_path,
+                     list_units, load_json, load_schema, parse_unit, progress_lessons,
+                     progress_path, schema_errors, schema_validator, setup_stdout,
+                     term_errors, unit_dir)
 
 SIZE_WARN = 300 * 1024
 STATUSES = {"pending", "in_progress", "done"}
@@ -35,7 +36,11 @@ def check_progress(unit):
                 errs.append(f"không nhận diện được loại sách theo tên file: {pdf.name}")
     for fname, b in books.items():
         if not (book_dir(unit) / fname).exists():
-            errs.append(f"progress.json: sách không có trong {unit}/: {fname}")
+            try:
+                rel_dir = book_dir(unit).relative_to(GLOSSARY_DIR.parent)
+            except ValueError:
+                rel_dir = unit
+            errs.append(f"progress.json: sách không có trong {rel_dir}/: {fname}")
         if b.get("status") not in STATUSES:
             errs.append(f"progress.json [{fname}]: status không hợp lệ: {b.get('status')!r}")
         for ch, chd in (b.get("chapters") or {}).items():
@@ -53,8 +58,16 @@ def check_unit(unit, schema, all_ids):
     subject, grade = parsed
     path = data_path(unit)
     if not path.exists():
-        return [f"thiếu file dữ liệu {unit}/{unit}.json (tên file phải trùng tên thư mục)"], warns
-    stray = [p.name for p in (GLOSSARY_DIR / unit).glob("*.json")
+        try:
+            rel_p = path.relative_to(ROOT)
+        except ValueError:
+            rel_p = f"{unit}.json"
+        return [f"thiếu file dữ liệu {rel_p} (tên file phải trùng tên thư mục)"], warns
+    if not dataset_path(unit).exists():
+        warns.append(f"chưa có bản sao đồng bộ trong glossary/dataset/{unit}.json")
+    if dataset_path(unit).with_name(f"{unit}.json.bak").exists():
+        errs.append(f"không để file .bak trong glossary/dataset/: {unit}.json.bak")
+    stray = [p.name for p in unit_dir(unit).glob("*.json")
              if p.name not in (f"{unit}.json", "progress.json")]
     if stray:
         warns.append(f"file JSON lạ trong thư mục bộ: {stray}")
@@ -116,7 +129,11 @@ def main():
         if parse_unit(target):
             units = [target] if target in units else []
             if not units:
-                sys.exit(f"LỖI: không có glossary/{target}/")
+                try:
+                    rel_u = unit_dir(target).relative_to(ROOT)
+                except ValueError:
+                    rel_u = target
+                sys.exit(f"LỖI: không có {rel_u}/")
         else:
             units = [u for u in units if parse_unit(u) and parse_unit(u)[0] == target]
             if not units:

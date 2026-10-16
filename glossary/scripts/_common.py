@@ -1,10 +1,11 @@
 """Hàm dùng chung cho các script glossary. Không chạy trực tiếp.
 
 Bố cục (gốc dự án = thư mục chứa glossary/):
-    <goc>/<unit>/*.pdf                     nguồn, chỉ đọc
-    <goc>/glossary/<unit>/<unit>.json       dữ liệu
-    <goc>/glossary/<unit>/progress.json     tiến độ + danh sách chương/bài chuẩn
-    <goc>/glossary/<unit>/.ocr/             cache OCR (tự sinh)
+    <goc>/sgk/khoi_<lop>/<unit>/*.pdf                  nguồn, chỉ đọc
+    <goc>/glossary/khoi_<lop>/<unit>/<unit>.json       dữ liệu bộ
+    <goc>/glossary/khoi_<lop>/<unit>/progress.json     tiến độ + danh sách chương/bài chuẩn
+    <goc>/glossary/khoi_<lop>/<unit>/.ocr/             cache OCR (tự sinh)
+    <goc>/glossary/dataset/<unit>.json                 bản sao tập trung dữ liệu toàn bộ các môn
 """
 import json
 import os
@@ -21,10 +22,12 @@ GLOSSARY_DIR = SCRIPTS_DIR.parent
 ROOT = GLOSSARY_DIR.parent
 SCHEMA_PATH = GLOSSARY_DIR / "schema.json"
 TESSDATA_DIR = GLOSSARY_DIR / "tessdata"
-NON_UNIT_DIRS = {"scripts", "tessdata"}
+DATASET_DIR = GLOSSARY_DIR / "dataset"
+NON_UNIT_DIRS = {"scripts", "tessdata", "dataset"}
 
 UNIT_RE = re.compile(r"^([a-z]+(?:_[a-z]+)*)_([0-9]+)$")
 SUBJECT_RE = re.compile(r"^[a-z]+(?:_[a-z]+)*$")
+KHOI_RE = re.compile(r"^khoi_[0-9]+$")
 
 # Thứ tự ưu tiên khi xung đột định nghĩa: số nhỏ = ưu tiên cao.
 BOOK_PRIORITY = {"sgk": 0, "scd": 1, "gv": 2, "sbt": 3}
@@ -70,28 +73,62 @@ def id_prefix(unit):
 
 
 def unit_dir(unit):
+    parsed = parse_unit(unit)
+    if parsed:
+        _, grade = parsed
+        p = GLOSSARY_DIR / f"khoi_{grade}" / unit
+        if p.exists():
+            return p
+    if (GLOSSARY_DIR / unit).exists():
+        return GLOSSARY_DIR / unit
+    if parsed:
+        _, grade = parsed
+        return GLOSSARY_DIR / f"khoi_{grade}" / unit
     return GLOSSARY_DIR / unit
 
 
 def data_path(unit):
-    return GLOSSARY_DIR / unit / f"{unit}.json"
+    return unit_dir(unit) / f"{unit}.json"
+
+
+def dataset_path(unit):
+    return DATASET_DIR / f"{unit}.json"
 
 
 def progress_path(unit):
-    return GLOSSARY_DIR / unit / "progress.json"
+    return unit_dir(unit) / "progress.json"
 
 
 def book_dir(unit):
+    parsed = parse_unit(unit)
+    if parsed:
+        _, grade = parsed
+        p = ROOT / "sgk" / f"khoi_{grade}" / unit
+        if p.exists():
+            return p
+    if (ROOT / "sgk" / unit).exists():
+        return ROOT / "sgk" / unit
+    if (ROOT / unit).exists():
+        return ROOT / unit
+    if parsed:
+        _, grade = parsed
+        return ROOT / "sgk" / f"khoi_{grade}" / unit
     return ROOT / unit
 
 
 def list_units():
-    """Mọi thư mục con của glossary/ trông như một bộ (trừ scripts, tessdata)."""
-    out = []
+    """Mọi thư mục bộ trong glossary/khoi_<lop>/<unit> (và dự phòng glossary/<unit>)."""
+    out = set()
+    for khoi_dir in sorted(GLOSSARY_DIR.glob("khoi_*")):
+        if khoi_dir.is_dir():
+            for p in sorted(khoi_dir.iterdir()):
+                if p.is_dir() and parse_unit(p.name) and not p.name.startswith("."):
+                    out.add(p.name)
     for p in sorted(GLOSSARY_DIR.iterdir()):
-        if p.is_dir() and p.name not in NON_UNIT_DIRS and not p.name.startswith("."):
-            out.append(p.name)
-    return out
+        if p.is_dir() and p.name not in NON_UNIT_DIRS and not p.name.startswith(".") and not KHOI_RE.match(p.name):
+            if parse_unit(p.name):
+                out.add(p.name)
+    return sorted(out)
 
 
 def load_json(path):
@@ -168,13 +205,20 @@ def dumps_unit(data):
     return f'{{\n  "meta": {meta},\n  "terms": [{body}]\n}}'
 
 
-def write_json_atomic(path, data, backup=True):
+def write_json_atomic(path, data, backup=True, sync_dataset=True):
     """Sao lưu .bak -> ghi file tạm cùng thư mục -> os.replace đè file chính.
 
     Dữ liệu bộ ({meta, terms}) ghi theo dumps_unit; file khác ghi thụt lề 2.
+    Nếu là dữ liệu bộ ({meta, terms}) và sync_dataset=True, tự động đồng bộ sang glossary/dataset/<unit>.json.
     """
     path = Path(path)
-    if backup and path.exists():
+    path.parent.mkdir(parents=True, exist_ok=True)
+    is_dataset = False
+    try:
+        is_dataset = path.resolve().parent == DATASET_DIR.resolve()
+    except Exception:
+        pass
+    if backup and not is_dataset and path.exists():
         shutil.copy2(path, path.with_name(path.name + ".bak"))
     fd, tmp = tempfile.mkstemp(prefix=path.name + ".", suffix=".tmp", dir=path.parent)
     try:
@@ -191,6 +235,16 @@ def write_json_atomic(path, data, backup=True):
         if os.path.exists(tmp):
             os.remove(tmp)
         raise
+
+    if sync_dataset and isinstance(data, dict) and set(data) == {"meta", "terms"}:
+        unit = data.get("meta", {}).get("unit")
+        if unit:
+            d_path = dataset_path(unit)
+            try:
+                if path.resolve() != d_path.resolve():
+                    write_json_atomic(d_path, data, backup=False, sync_dataset=False)
+            except Exception:
+                pass
 
 
 # ---------- Chuẩn hóa văn bản để so khớp ----------
@@ -361,7 +415,11 @@ def term_errors(unit, terms, known_ids, lessons, page_counts):
                 page_counts[f] = pdf_page_count(p) if p.exists() else -1
             n = page_counts[f]
             if n == -1:
-                errs.append(f"{lab} sources.file không có trong {unit}/: {f}")
+                try:
+                    rel_bdir = book_dir(unit).relative_to(ROOT)
+                except ValueError:
+                    rel_bdir = unit
+                errs.append(f"{lab} sources.file không có trong {rel_bdir}/: {f}")
             elif n is not None and isinstance(s.get("pdf_page"), int) and s["pdf_page"] > n:
                 errs.append(f"{lab} pdf_page {s['pdf_page']} vượt số trang ({n}) của {f}")
             cls = classify_book(f)

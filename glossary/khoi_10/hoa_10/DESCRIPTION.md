@@ -1,10 +1,10 @@
 # Bộ thuật ngữ `hoa_10` — Hoá học 10 (Kết nối tri thức với cuộc sống)
 
-Dữ liệu: `glossary/hoa_10/hoa_10.json`, gồm **194 thuật ngữ** (cập nhật 2026-10-15). Truy vấn bằng `query.py`; không nạp cả file.
+Dữ liệu: `glossary/khoi_10/hoa_10/hoa_10.json` (tập trung: `glossary/dataset/hoa_10.json`), gồm **194 thuật ngữ** (cập nhật 2026-10-15). Truy vấn bằng `query.py`; không nạp cả file.
 
 ## 1. Phạm vi
 
-Nguồn: thư mục `hoa_10/`, bộ sách Kết nối tri thức với cuộc sống.
+Nguồn: thư mục `sgk/khoi_10/hoa_10/`, bộ sách Kết nối tri thức với cuộc sống.
 
 | File | Loại | Số trang PDF | Vai trò | Text layer |
 |---|---|---|---|---|

@@ -1,10 +1,10 @@
 # Bộ thuật ngữ `tin_hoc_10` — Tin học 10 (Kết nối tri thức với cuộc sống)
 
-Dữ liệu: `glossary/tin_hoc_10/tin_hoc_10.json`, gồm **266 thuật ngữ** (cập nhật 2026-10-15). Truy vấn bằng `query.py`; không nạp cả file.
+Dữ liệu: `glossary/khoi_10/tin_hoc_10/tin_hoc_10.json` (tập trung: `glossary/dataset/tin_hoc_10.json`), gồm **266 thuật ngữ** (cập nhật 2026-10-15). Truy vấn bằng `query.py`; không nạp cả file.
 
 ## 1. Phạm vi
 
-Nguồn: thư mục `tin_hoc_10/`, bộ sách Kết nối tri thức với cuộc sống.
+Nguồn: thư mục `sgk/khoi_10/tin_hoc_10/`, bộ sách Kết nối tri thức với cuộc sống.
 
 | File | Loại | Số trang PDF | Vai trò | Text layer |
 |---|---|---|---|---|
