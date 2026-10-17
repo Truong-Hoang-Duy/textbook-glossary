@@ -206,6 +206,16 @@ Nguồn: thư mục `sgk/khoi_10/cong_nghe_nong_nghiep_10/`, bộ sách Kết n�
 - **Định nghĩa từ Bảng giải thích thuật ngữ**: 18 thuật ngữ chuyên môn sâu (nông sản hàng hoá, quang chu kì, dung dịch đất, luân canh, xen canh, gối vụ, chất mang, giống cây trồng, giống đối chứng, sạ lúa, công nghệ CAS, công nghệ tế bào, chuyển gene, điện di, VietGAP, ICM, PLU, QR Code) được đối chiếu trực tiếp từ bảng giải thích thuật ngữ cuối sách (SGK tr. 143–144 in; SCD tr. 72 in) kết hợp với các trang thân bài, có ghi rõ giải trình trong trường `notes`.
 - **Quy chuẩn Toán - Hoá - Kĩ thuật**: Toàn bộ các công thức hoá học ($\text{NPK}$, $\text{NO}_3^-$, $\text{NO}_2^-$, $\text{Ca(OH)}_2$, $\text{CO}_2$), đơn vị đo lường ($\text{pH}$, $\text{EC}$, $\text{ppm}$, $\text{mg/kg}$, $\text{lux}$, $^\circ\text{C}$), khoảng giá trị và kích thước đều được bọc trong cú pháp chuẩn LaTeX `$..$`.
 
+**Kiểm tra mẫu độc lập** (Giai đoạn 4, 2026-10-17, người dùng thực hiện ở phiên riêng, đối chiếu ảnh trang PDF nguồn):
+
+| Hạng mục | Kết quả |
+|---|---|
+| Số mục kiểm tra | 23/240 (9,6%): 20 ngẫu nhiên + 3 mục công thức / kí hiệu |
+| Cách chọn | `query.py cong_nghe_nong_nghiep_10 --audit`, danh sách ở `sample_audit.md` |
+| Số mục sai | 0 (tỉ lệ sai 0%, đạt yêu cầu ≤ 5%) |
+| Số mục đã sửa | 0 |
+| Trạng thái nghiệm thu | Người dùng đã kiểm tra đối chiếu trực tiếp với trang PDF nguồn và xác nhận đạt chất lượng tốt. File kiểm định `sample_audit.md` đã được xoá sau khi nghiệm thu theo đúng quy định. |
+
 ## 7. Liên hệ với các lớp khác
 
 - **Liên hệ với Công nghệ cấp THCS (Công nghệ 7 – Trồng trọt)**:

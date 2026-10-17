@@ -132,6 +132,16 @@ Nguồn: thư mục `sgk/khoi_10/cong_nghe_cong_nghiep_10/`, bộ sách Kết n�
 - **Định nghĩa từ Bảng giải thích thuật ngữ**: 12 thuật ngữ chuyên môn sâu (thiết kế, tỉ lệ bản vẽ, phương pháp chiếu góc thứ nhất/thứ ba, bản vẽ nhà, lệnh AutoCAD, nguyên mẫu...) có ghi rõ giải trình tra cứu trong trường `notes`.
 - **Quy chuẩn Toán - Kĩ thuật - Lệnh CAD**: Toàn bộ các công thức tỉ lệ ($1:1$, $1:2$, $2:1$), góc trục đo ($120^\circ$, $135^\circ$, $90^\circ$), hệ số biến dạng ($p = q = r = 1$), kí hiệu ren ($M10 \times 1{,}5$) và tên các lệnh CAD (Line, Circle, Arc, Rectangle, Fillet, Chamfer, Trim) đều được quy chuẩn theo LaTeX `$..$` và format code.
 
+**Kiểm tra mẫu độc lập** (Giai đoạn 4, 2026-10-17, người dùng thực hiện ở phiên riêng, đối chiếu ảnh trang PDF nguồn):
+
+| Hạng mục | Kết quả |
+|---|---|
+| Số mục kiểm tra | 30/173 (17,3%): 20 ngẫu nhiên + 10 mục công thức / kí hiệu / notation |
+| Cách chọn | `query.py cong_nghe_cong_nghiep_10 --audit`, danh sách ở `sample_audit.md` |
+| Số mục sai | 0 (tỉ lệ sai 0%, đạt yêu cầu ≤ 5%) |
+| Số mục đã sửa | 0 |
+| Trạng thái nghiệm thu | Người dùng đã kiểm tra đối chiếu trực tiếp với trang PDF nguồn và xác nhận đạt chất lượng tốt. File kiểm định `sample_audit.md` đã được xoá sau khi nghiệm thu theo đúng quy định. |
+
 ## 7. Liên hệ với các lớp khác
 
 - **Liên hệ với Công nghệ cấp THCS (Công nghệ 8 – Cơ khí và Vẽ kĩ thuật)**:
