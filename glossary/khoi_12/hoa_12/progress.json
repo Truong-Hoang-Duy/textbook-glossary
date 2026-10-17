@@ -1,0 +1,376 @@
+{
+  "unit": "hoa_12",
+  "books": {
+    "SGK HOA HOC 12 - KNTT.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [],
+      "chapters": {
+        "Chương 1. Ester - Lipid": {
+          "lessons": {
+            "Bài 1. Ester - Lipid": {
+              "status": "done",
+              "pdf_pages": [
+                8,
+                15
+              ],
+              "terms_added": 15
+            },
+            "Bài 2. Xà phòng và chất giặt rửa": {
+              "status": "done",
+              "pdf_pages": [
+                16,
+                19
+              ],
+              "terms_added": 5
+            },
+            "Bài 3. Ôn tập chương 1": {
+              "status": "done",
+              "pdf_pages": [
+                20,
+                21
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 2. Carbohydrate": {
+          "lessons": {
+            "Bài 4. Giới thiệu về carbohydrate. Glucose và fructose": {
+              "status": "done",
+              "pdf_pages": [
+                22,
+                26
+              ],
+              "terms_added": 7
+            },
+            "Bài 5. Saccharose và maltose": {
+              "status": "done",
+              "pdf_pages": [
+                27,
+                29
+              ],
+              "terms_added": 2
+            },
+            "Bài 6. Tinh bột và cellulose": {
+              "status": "done",
+              "pdf_pages": [
+                30,
+                34
+              ],
+              "terms_added": 5
+            },
+            "Bài 7. Ôn tập chương 2": {
+              "status": "done",
+              "pdf_pages": [
+                35,
+                36
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 3. Hợp chất chứa nitrogen": {
+          "lessons": {
+            "Bài 8. Amine": {
+              "status": "done",
+              "pdf_pages": [
+                37,
+                42
+              ],
+              "terms_added": 3
+            },
+            "Bài 9. Amino acid và peptide": {
+              "status": "done",
+              "pdf_pages": [
+                43,
+                47
+              ],
+              "terms_added": 6
+            },
+            "Bài 10. Protein và enzyme": {
+              "status": "done",
+              "pdf_pages": [
+                48,
+                50
+              ],
+              "terms_added": 5
+            },
+            "Bài 11. Ôn tập chương 3": {
+              "status": "done",
+              "pdf_pages": [
+                51,
+                52
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 4. Polymer": {
+          "lessons": {
+            "Bài 12. Đại cương về polymer": {
+              "status": "done",
+              "pdf_pages": [
+                53,
+                57
+              ],
+              "terms_added": 6
+            },
+            "Bài 13. Vật liệu polymer": {
+              "status": "done",
+              "pdf_pages": [
+                58,
+                66
+              ],
+              "terms_added": 5
+            },
+            "Bài 14. Ôn tập chương 4": {
+              "status": "done",
+              "pdf_pages": [
+                67,
+                68
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 5. Pin điện và điện phân": {
+          "lessons": {
+            "Bài 15. Thế điện cực và nguồn điện hoá học": {
+              "status": "done",
+              "pdf_pages": [
+                69,
+                79
+              ],
+              "terms_added": 6
+            },
+            "Bài 16. Điện phân": {
+              "status": "done",
+              "pdf_pages": [
+                80,
+                86
+              ],
+              "terms_added": 3
+            },
+            "Bài 17. Ôn tập chương 5": {
+              "status": "done",
+              "pdf_pages": [
+                87,
+                88
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 6. Đại cương về kim loại": {
+          "lessons": {
+            "Bài 18. Cấu tạo và liên kết trong tinh thể kim loại": {
+              "status": "done",
+              "pdf_pages": [
+                89,
+                90
+              ],
+              "terms_added": 1
+            },
+            "Bài 19. Tính chất vật lí và tính chất hoá học của kim loại": {
+              "status": "done",
+              "pdf_pages": [
+                91,
+                95
+              ],
+              "terms_added": 2
+            },
+            "Bài 20. Kim loại trong tự nhiên và phương pháp tách kim loại": {
+              "status": "done",
+              "pdf_pages": [
+                96,
+                100
+              ],
+              "terms_added": 1
+            },
+            "Bài 21. Hợp kim": {
+              "status": "done",
+              "pdf_pages": [
+                101,
+                103
+              ],
+              "terms_added": 1
+            },
+            "Bài 22. Sự ăn mòn kim loại": {
+              "status": "done",
+              "pdf_pages": [
+                104,
+                107
+              ],
+              "terms_added": 4
+            },
+            "Bài 23. Ôn tập chương 6": {
+              "status": "done",
+              "pdf_pages": [
+                108,
+                109
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 7. Nguyên tố nhóm IA và nhóm IIA": {
+          "lessons": {
+            "Bài 24. Nguyên tố nhóm IA": {
+              "status": "done",
+              "pdf_pages": [
+                110,
+                117
+              ],
+              "terms_added": 1
+            },
+            "Bài 25. Nguyên tố nhóm IIA": {
+              "status": "done",
+              "pdf_pages": [
+                118,
+                127
+              ],
+              "terms_added": 6
+            },
+            "Bài 26. Ôn tập chương 7": {
+              "status": "done",
+              "pdf_pages": [
+                128,
+                129
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương 8. Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất": {
+          "lessons": {
+            "Bài 27. Đại cương về kim loại chuyển tiếp dãy thứ nhất": {
+              "status": "done",
+              "pdf_pages": [
+                130,
+                135
+              ],
+              "terms_added": 1
+            },
+            "Bài 28. Sơ lược về phức chất": {
+              "status": "done",
+              "pdf_pages": [
+                136,
+                139
+              ],
+              "terms_added": 3
+            },
+            "Bài 29. Một số tính chất và ứng dụng của phức chất": {
+              "status": "done",
+              "pdf_pages": [
+                140,
+                143
+              ],
+              "terms_added": 1
+            },
+            "Bài 30. Ôn tập chương 8": {
+              "status": "done",
+              "pdf_pages": [
+                144,
+                147
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    },
+    "SCD HOA HOC 12 - KNTT.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        53,
+        54
+      ],
+      "chapters": {
+        "Chuyên đề 1. Cơ chế phản ứng trong hoá học hữu cơ": {
+          "lessons": {
+            "Bài 1. Đại cương về cơ chế phản ứng": {
+              "status": "done",
+              "pdf_pages": [
+                9,
+                12
+              ],
+              "terms_added": 6
+            },
+            "Bài 2. Cơ chế phản ứng thế": {
+              "status": "done",
+              "pdf_pages": [
+                13,
+                15
+              ],
+              "terms_added": 2
+            },
+            "Bài 3. Cơ chế phản ứng cộng": {
+              "status": "done",
+              "pdf_pages": [
+                16,
+                18
+              ],
+              "terms_added": 1
+            }
+          }
+        },
+        "Chuyên đề 2. Trải nghiệm, thực hành hoá học vô cơ": {
+          "lessons": {
+            "Bài 4. Tái chế kim loại": {
+              "status": "done",
+              "pdf_pages": [
+                19,
+                23
+              ],
+              "terms_added": 1
+            },
+            "Bài 5. Công nghiệp silicate": {
+              "status": "done",
+              "pdf_pages": [
+                24,
+                30
+              ],
+              "terms_added": 2
+            },
+            "Bài 6. Xử lí nước sinh hoạt": {
+              "status": "done",
+              "pdf_pages": [
+                31,
+                37
+              ],
+              "terms_added": 1
+            }
+          }
+        },
+        "Chuyên đề 3. Một số vấn đề cơ bản về phức chất": {
+          "lessons": {
+            "Bài 7. Một số vấn đề cơ bản về phức chất": {
+              "status": "done",
+              "pdf_pages": [
+                38,
+                41
+              ],
+              "terms_added": 2
+            },
+            "Bài 8. Liên kết và cấu tạo của phức chất": {
+              "status": "done",
+              "pdf_pages": [
+                42,
+                49
+              ],
+              "terms_added": 1
+            },
+            "Bài 9. Vai trò và ứng dụng của phức chất": {
+              "status": "done",
+              "pdf_pages": [
+                50,
+                52
+              ],
+              "terms_added": 3
+            }
+          }
+        }
+      }
+    }
+  }
+}

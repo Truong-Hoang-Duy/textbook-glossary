@@ -158,6 +158,7 @@ Trong cùng một bộ, nếu một khái niệm xuất hiện ở nhiều sách
 | `sinh_11` | Đã kiểm tra cuối (191 mục; mẫu 24 mục, 0 sai sau khi sửa 4 lỗi LaTeX — 2026-10-17) | Sách dạng ảnh; trang PDF = trang in + 1 |
 | `hoa_11` | Đã kiểm tra cuối (153 mục; mẫu 30 mục, 0 sai — 2026-10-17) | Sách dạng ảnh; trang PDF = trang in + 1 |
 | `sinh_12` | Đã kiểm tra cuối (164 mục; mẫu 27 mục, 0 sai — 2026-10-17) | Sách dạng ảnh; SGK trang PDF = trang in + 2, SCD trang PDF = trang in + 2 (phần lớn) |
+| `hoa_12` | Đã kiểm tra cuối (108 mục; mẫu 30 mục, 0 sai — 2026-10-17) | Sách dạng ảnh; SGK trang PDF = trang in + 2, SCD trang PDF = trang in + 2 |
 
 Trạng thái: chưa bắt đầu / đang trích xuất / đã kiểm tra cuối.
 
