@@ -153,6 +153,8 @@ Trong cùng một bộ, nếu một khái niệm xuất hiện ở nhiều sách
 | `lich_su_10` | Đã kiểm tra cuối (261 mục; mẫu 30 mục, 0 sai — 2026-10-16; chờ kiểm tra độc lập) | Sách dạng ảnh (trừ Tài liệu GV); trang PDF = trang in + 1; `chapter` = `Chủ đề N. …`/`Chuyên đề N. …`, SCD `lesson` = mục `I.`/`II.`/`III.`; không có công thức/kí hiệu — `--audit` dùng kèm `--sample 30` |
 | `dia_10` | Đã kiểm tra cuối (294 mục; mẫu 30 mục, 1 sai đã sửa — 2026-10-16; chờ kiểm tra độc lập) | Sách dạng ảnh (trừ Tài liệu GV); trang PDF = trang in + 1; `chapter` = `Phần một. …`/`Chương N. …`/`Chuyên đề 10.N. …`, SCD `lesson` = mục `I.`–`IV.`; SBT 0 mục |
 | `am_nhac_10` | Đã kiểm tra cuối (116 mục; mẫu 37 mục, 0 sai — 2026-10-16) | Sách dạng ảnh (trừ Tài liệu GV); trang PDF = trang in + 1; không có SBT; SGK `chapter` = `Chủ đề N. …`/`Phương án lựa chọn A. Hát`/`B. Nhạc cụ`, `lesson` = mạch nội dung (`Lí thuyết âm nhạc`, `Thưởng thức âm nhạc`, …) hoặc `Bài N. …` (A và B đều có Bài 1–… — lọc kèm `--chapter`); không có công thức — `--audit` dùng kèm `--sample 30` |
+| `cong_nghe_cong_nghiep_10` | Đã kiểm tra cuối (173 mục; mẫu 30 mục, 0 sai — 2026-10-17) | Sách dạng ảnh (trừ Tài liệu GV); trang PDF = trang in + 1; không có SBT |
+| `cong_nghe_nong_nghiep_10` | Đã kiểm tra cuối (240 mục; mẫu 23 mục, 0 sai — 2026-10-16) | Sách dạng ảnh (trừ Tài liệu GV); SGK trang PDF = trang in + 1, SCD trang PDF = trang in; không có SBT |
 
 Trạng thái: chưa bắt đầu / đang trích xuất / đã kiểm tra cuối.
 
