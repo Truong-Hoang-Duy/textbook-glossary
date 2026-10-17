@@ -157,6 +157,7 @@ Trong cùng một bộ, nếu một khái niệm xuất hiện ở nhiều sách
 | `cong_nghe_nong_nghiep_10` | Đã kiểm tra cuối (240 mục; mẫu 23 mục, 0 sai — 2026-10-16) | Sách dạng ảnh (trừ Tài liệu GV); SGK trang PDF = trang in + 1, SCD trang PDF = trang in; không có SBT |
 | `sinh_11` | Đã kiểm tra cuối (191 mục; mẫu 24 mục, 0 sai sau khi sửa 4 lỗi LaTeX — 2026-10-17) | Sách dạng ảnh; trang PDF = trang in + 1 |
 | `hoa_11` | Đã kiểm tra cuối (153 mục; mẫu 30 mục, 0 sai — 2026-10-17) | Sách dạng ảnh; trang PDF = trang in + 1 |
+| `sinh_12` | Đã kiểm tra cuối (164 mục; mẫu 27 mục, 0 sai — 2026-10-17) | Sách dạng ảnh; SGK trang PDF = trang in + 2, SCD trang PDF = trang in + 2 (phần lớn) |
 
 Trạng thái: chưa bắt đầu / đang trích xuất / đã kiểm tra cuối.
 
