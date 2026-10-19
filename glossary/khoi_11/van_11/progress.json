@@ -1,0 +1,326 @@
+{
+  "unit": "van_11",
+  "books": {
+    "SGK NGU VAN 11 TAP 1 - KNTT.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        160,
+        160
+      ],
+      "term_index_pdf_pages": [
+        159,
+        159
+      ],
+      "chapters": {
+        "Tập một": {
+          "lessons": {
+            "Bài 1. Câu chuyện và điểm nhìn trong truyện kể": {
+              "status": "done",
+              "pdf_pages": [
+                10,
+                54
+              ],
+              "terms_added": 17
+            },
+            "Bài 2. Cấu tứ và hình ảnh trong thơ trữ tình": {
+              "status": "done",
+              "pdf_pages": [
+                55,
+                75
+              ],
+              "terms_added": 10
+            },
+            "Bài 3. Cấu trúc của văn bản nghị luận": {
+              "status": "done",
+              "pdf_pages": [
+                76,
+                101
+              ],
+              "terms_added": 8
+            },
+            "Bài 4. Tự sự trong truyện thơ dân gian và trong thơ trữ tình": {
+              "status": "done",
+              "pdf_pages": [
+                102,
+                125
+              ],
+              "terms_added": 6
+            },
+            "Bài 5. Nhân vật và xung đột trong bi kịch": {
+              "status": "done",
+              "pdf_pages": [
+                126,
+                155
+              ],
+              "terms_added": 9
+            },
+            "Ôn tập học kì I": {
+              "status": "done",
+              "pdf_pages": [
+                156,
+                158
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    },
+    "SGK NGU VAN 11 TAP 2 - KNTT.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        128,
+        128
+      ],
+      "term_index_pdf_pages": [
+        127,
+        127
+      ],
+      "chapters": {
+        "Tập hai": {
+          "lessons": {
+            "Bài 6. Nguyễn Du – “Những điều trông thấy mà đau đớn lòng”": {
+              "status": "done",
+              "pdf_pages": [
+                5,
+                33
+              ],
+              "terms_added": 9
+            },
+            "Bài 7. Ghi chép và tưởng tượng trong kí": {
+              "status": "done",
+              "pdf_pages": [
+                34,
+                64
+              ],
+              "terms_added": 9
+            },
+            "Bài 8. Cấu trúc của văn bản thông tin": {
+              "status": "done",
+              "pdf_pages": [
+                65,
+                93
+              ],
+              "terms_added": 10
+            },
+            "Bài 9. Lựa chọn và hành động": {
+              "status": "done",
+              "pdf_pages": [
+                94,
+                122
+              ],
+              "terms_added": 6
+            },
+            "Ôn tập học kì II": {
+              "status": "done",
+              "pdf_pages": [
+                123,
+                126
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    },
+    "SCD NGU VAN 11 - KNTT.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        88,
+        89
+      ],
+      "term_index_pdf_pages": [
+        87,
+        87
+      ],
+      "chapters": {
+        "Chuyên đề 1. Tập nghiên cứu và viết báo cáo về một vấn đề văn học trung đại Việt Nam": {
+          "lessons": {
+            "Phần 1. Tập nghiên cứu về một vấn đề văn học trung đại Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                5,
+                18
+              ],
+              "terms_added": 14
+            },
+            "Phần 2. Viết báo cáo về một vấn đề văn học trung đại Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                19,
+                35
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chuyên đề 2. Tìm hiểu ngôn ngữ trong đời sống xã hội hiện đại": {
+          "lessons": {
+            "Phần 1. Bản chất xã hội – văn hoá của ngôn ngữ": {
+              "status": "done",
+              "pdf_pages": [
+                36,
+                42
+              ],
+              "terms_added": 3
+            },
+            "Phần 2. Sự phát triển của ngôn ngữ trong đời sống xã hội": {
+              "status": "done",
+              "pdf_pages": [
+                43,
+                50
+              ],
+              "terms_added": 1
+            },
+            "Phần 3. Vận dụng các yếu tố mới của ngôn ngữ trong giao tiếp": {
+              "status": "done",
+              "pdf_pages": [
+                51,
+                58
+              ],
+              "terms_added": 1
+            }
+          }
+        },
+        "Chuyên đề 3. Đọc, viết và giới thiệu về một tác giả văn học": {
+          "lessons": {
+            "Phần 1. Đọc về một tác giả văn học": {
+              "status": "done",
+              "pdf_pages": [
+                59,
+                65
+              ],
+              "terms_added": 1
+            },
+            "Phần 2. Viết về một tác giả văn học": {
+              "status": "done",
+              "pdf_pages": [
+                66,
+                83
+              ],
+              "terms_added": 0
+            },
+            "Phần 3. Thuyết trình về một tác giả văn học": {
+              "status": "done",
+              "pdf_pages": [
+                84,
+                86
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    },
+    "SGV Ngu van 11 Tap 1 KNTT.pdf": {
+      "status": "done",
+      "general_pdf_pages": [
+        6,
+        15
+      ],
+      "chapters": {
+        "Tập một": {
+          "lessons": {
+            "Bài 1. Câu chuyện và điểm nhìn trong truyện kể": {
+              "status": "done",
+              "pdf_pages": [
+                16,
+                33
+              ],
+              "gv_sources_added": 11
+            },
+            "Bài 2. Cấu tứ và hình ảnh trong thơ trữ tình": {
+              "status": "done",
+              "pdf_pages": [
+                34,
+                62
+              ],
+              "gv_sources_added": 5
+            },
+            "Bài 3. Cấu trúc của văn bản nghị luận": {
+              "status": "done",
+              "pdf_pages": [
+                63,
+                83
+              ],
+              "gv_sources_added": 6
+            },
+            "Bài 4. Tự sự trong truyện thơ dân gian và trong thơ trữ tình": {
+              "status": "done",
+              "pdf_pages": [
+                84,
+                106
+              ],
+              "gv_sources_added": 4
+            },
+            "Bài 5. Nhân vật và xung đột trong bi kịch": {
+              "status": "done",
+              "pdf_pages": [
+                107,
+                134
+              ],
+              "gv_sources_added": 5
+            },
+            "Ôn tập học kì I": {
+              "status": "done",
+              "pdf_pages": [
+                135,
+                141
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        }
+      }
+    },
+    "SGV Ngu van 11 Tap 2 KNTT.pdf": {
+      "status": "done",
+      "chapters": {
+        "Tập hai": {
+          "lessons": {
+            "Bài 6. Nguyễn Du – “Những điều trông thấy mà đau đớn lòng”": {
+              "status": "done",
+              "pdf_pages": [
+                6,
+                33
+              ],
+              "gv_sources_added": 5
+            },
+            "Bài 7. Ghi chép và tưởng tượng trong kí": {
+              "status": "done",
+              "pdf_pages": [
+                34,
+                56
+              ],
+              "gv_sources_added": 6
+            },
+            "Bài 8. Cấu trúc của văn bản thông tin": {
+              "status": "done",
+              "pdf_pages": [
+                57,
+                79
+              ],
+              "gv_sources_added": 2
+            },
+            "Bài 9. Lựa chọn và hành động": {
+              "status": "done",
+              "pdf_pages": [
+                80,
+                110
+              ],
+              "gv_sources_added": 4
+            },
+            "Ôn tập học kì II": {
+              "status": "done",
+              "pdf_pages": [
+                111,
+                117
+              ],
+              "gv_sources_added": 0
+            }
+          }
+        }
+      }
+    }
+  }
+}

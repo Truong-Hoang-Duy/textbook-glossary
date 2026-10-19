@@ -159,6 +159,12 @@ Trong cùng một bộ, nếu một khái niệm xuất hiện ở nhiều sách
 | `hoa_11` | Đã kiểm tra cuối (153 mục; mẫu 30 mục, 0 sai — 2026-10-17) | Sách dạng ảnh; trang PDF = trang in + 1 |
 | `sinh_12` | Đã kiểm tra cuối (164 mục; mẫu 27 mục, 0 sai — 2026-10-17) | Sách dạng ảnh; SGK trang PDF = trang in + 2, SCD trang PDF = trang in + 2 (phần lớn) |
 | `hoa_12` | Đã kiểm tra cuối (108 mục; mẫu 30 mục, 0 sai — 2026-10-17) | Sách dạng ảnh; SGK trang PDF = trang in + 2, SCD trang PDF = trang in + 2 |
+| `toan_11` | Đã kiểm tra cuối (177 mục; mẫu 30 mục, 0 sai — 2026-10-19) | Sách dạng ảnh; SGK và SCD trang PDF = trang in + 1; SGV trang PDF = trang in |
+| `van_11` | Đã kiểm tra cuối (104 mục; mẫu 20 mục, 0 sai — 2026-10-19) | Sách dạng ảnh; trang PDF = trang in + 1; không chia chương: `chapter` = `Tập một`/`Tập hai` hoặc `Chuyên đề N. …`, `lesson` = `Bài N. …`/`Phần N. …` |
+| `tin_cs_11` | Đã kiểm tra cuối (101 mục; mẫu 27 mục, 0 sai — 2026-10-19) | Sách dạng ảnh; trang PDF = trang in + 1; SGK Chủ đề 1–6 (Bài 1–31), SCD Chuyên đề 1–3 (Bài 1–16) |
+| `tin_ict_11` | Đã kiểm tra cuối (104 mục; mẫu 25 mục, 0 sai — 2026-10-19) | Sách dạng ảnh; trang PDF = trang in + 1; SGK Chủ đề 1–7 (Bài 1–31), SCD Chuyên đề 1–3 (Bài 1–15) |
+| `lich_su_11` | Đã kiểm tra cuối (116 mục; mẫu 30 mục, 0 sai — 2026-10-19) | Sách dạng ảnh; trang PDF = trang in + 1; SGK Chủ đề 1–6 (Bài 1–13), SCD Chuyên đề 1–3 (Mục I–V); không có công thức/kí hiệu — `--audit` dùng kèm `--sample 30` |
+| `dia_11` | Đã kiểm tra cuối (103 mục; mẫu 30 mục, 0 sai — 2026-10-19) | Sách dạng ảnh; SGK và SCD trang PDF = trang in + 2; SGV trang PDF = trang in + 1; SGK Phần một–hai (Bài 1–31), SCD Chuyên đề 1–3 (Mục I–IV); không có công thức — `--audit` dùng kèm `--sample 30` |
 
 Trạng thái: chưa bắt đầu / đang trích xuất / đã kiểm tra cuối.
 

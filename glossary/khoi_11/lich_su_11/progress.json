@@ -1,0 +1,288 @@
+{
+  "unit": "lich_su_11",
+  "books": {
+    "SGK LICH SU 11 - KNTT.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        92,
+        93,
+        94
+      ],
+      "chapters": {
+        "Chủ đề 1. Cách mạng tư sản và sự phát triển của chủ nghĩa tư bản": {
+          "lessons": {
+            "Bài 1. Một số vấn đề chung về cách mạng tư sản": {
+              "status": "done",
+              "pdf_pages": [
+                7,
+                12
+              ],
+              "terms_added": 7
+            },
+            "Bài 2. Sự xác lập và phát triển của chủ nghĩa tư bản": {
+              "status": "done",
+              "pdf_pages": [
+                13,
+                19
+              ],
+              "terms_added": 7
+            }
+          }
+        },
+        "Chủ đề 2. Chủ nghĩa xã hội từ năm 1917 đến nay": {
+          "lessons": {
+            "Bài 3. Sự hình thành Liên bang Cộng hoà xã hội chủ nghĩa Xô viết": {
+              "status": "done",
+              "pdf_pages": [
+                20,
+                22
+              ],
+              "terms_added": 3
+            },
+            "Bài 4. Sự phát triển của chủ nghĩa xã hội từ sau Chiến tranh thế giới thứ hai đến nay": {
+              "status": "done",
+              "pdf_pages": [
+                23,
+                30
+              ],
+              "terms_added": 7
+            }
+          }
+        },
+        "Chủ đề 3. Quá trình giành độc lập dân tộc của các quốc gia Đông Nam Á": {
+          "lessons": {
+            "Bài 5. Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á": {
+              "status": "done",
+              "pdf_pages": [
+                31,
+                38
+              ],
+              "terms_added": 6
+            },
+            "Bài 6. Hành trình đi đến độc lập dân tộc ở Đông Nam Á": {
+              "status": "done",
+              "pdf_pages": [
+                39,
+                44
+              ],
+              "terms_added": 4
+            }
+          }
+        },
+        "Chủ đề 4. Chiến tranh bảo vệ Tổ quốc và chiến tranh giải phóng dân tộc trong lịch sử Việt Nam (trước Cách mạng tháng Tám năm 1945)": {
+          "lessons": {
+            "Bài 7. Chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                45,
+                51
+              ],
+              "terms_added": 5
+            },
+            "Bài 8. Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III trước Công nguyên đến cuối thế kỉ XIX)": {
+              "status": "done",
+              "pdf_pages": [
+                52,
+                61
+              ],
+              "terms_added": 5
+            }
+          }
+        },
+        "Chủ đề 5. Một số cuộc cải cách lớn trong lịch sử Việt Nam (trước năm 1858)": {
+          "lessons": {
+            "Bài 9. Cuộc cải cách của Hồ Quý Ly và triều Hồ": {
+              "status": "done",
+              "pdf_pages": [
+                62,
+                65
+              ],
+              "terms_added": 3
+            },
+            "Bài 10. Cuộc cải cách của Lê Thánh Tông (thế kỉ XV)": {
+              "status": "done",
+              "pdf_pages": [
+                66,
+                70
+              ],
+              "terms_added": 4
+            },
+            "Bài 11. Cuộc cải cách của Minh Mạng (nửa đầu thế kỉ XIX)": {
+              "status": "done",
+              "pdf_pages": [
+                71,
+                74
+              ],
+              "terms_added": 3
+            }
+          }
+        },
+        "Chủ đề 6. Lịch sử bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông": {
+          "lessons": {
+            "Bài 12. Vị trí và tầm quan trọng của Biển Đông": {
+              "status": "done",
+              "pdf_pages": [
+                75,
+                81
+              ],
+              "terms_added": 4
+            },
+            "Bài 13. Việt Nam và Biển Đông": {
+              "status": "done",
+              "pdf_pages": [
+                82,
+                91
+              ],
+              "terms_added": 6
+            }
+          }
+        }
+      }
+    },
+    "SCD LICH SU 11 - KNTT.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        54,
+        55
+      ],
+      "chapters": {
+        "Chuyên đề 1. Lịch sử nghệ thuật truyền thống Việt Nam": {
+          "lessons": {
+            "I. Nghệ thuật thời Lý, thời Trần": {
+              "status": "done",
+              "pdf_pages": [
+                7,
+                10
+              ],
+              "terms_added": 6
+            },
+            "II. Nghệ thuật thời Lê sơ, thời Mạc": {
+              "status": "done",
+              "pdf_pages": [
+                11,
+                13
+              ],
+              "terms_added": 4
+            },
+            "III. Nghệ thuật thời Lê trung hưng": {
+              "status": "done",
+              "pdf_pages": [
+                14,
+                15
+              ],
+              "terms_added": 5
+            },
+            "IV. Nghệ thuật thời Nguyễn": {
+              "status": "done",
+              "pdf_pages": [
+                16,
+                21
+              ],
+              "terms_added": 4
+            }
+          }
+        },
+        "Chuyên đề 2. Chiến tranh và hoà bình trong thế kỉ XX": {
+          "lessons": {
+            "I. Chiến tranh và hoà bình trong nửa đầu thế kỉ XX": {
+              "status": "done",
+              "pdf_pages": [
+                22,
+                29
+              ],
+              "terms_added": 8
+            },
+            "II. Chiến tranh lạnh (1947 - 1989)": {
+              "status": "done",
+              "pdf_pages": [
+                30,
+                34
+              ],
+              "terms_added": 8
+            },
+            "III. Chiến tranh, xung đột quân sự sau Chiến tranh lạnh": {
+              "status": "done",
+              "pdf_pages": [
+                35,
+                35
+              ],
+              "terms_added": 3
+            },
+            "IV. Cuộc đấu tranh vì hoà bình của nhân dân thế giới trong và sau Chiến tranh lạnh": {
+              "status": "done",
+              "pdf_pages": [
+                36,
+                41
+              ],
+              "terms_added": 3
+            }
+          }
+        },
+        "Chuyên đề 3. Danh nhân trong lịch sử Việt Nam": {
+          "lessons": {
+            "I. Khái quát về danh nhân trong lịch sử dân tộc": {
+              "status": "done",
+              "pdf_pages": [
+                42,
+                42
+              ],
+              "terms_added": 3
+            },
+            "II. Một số nhà chính trị nổi tiếng của Việt Nam thời cổ - trung đại": {
+              "status": "done",
+              "pdf_pages": [
+                43,
+                44
+              ],
+              "terms_added": 2
+            },
+            "III. Một số danh nhân quân sự Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                45,
+                48
+              ],
+              "terms_added": 2
+            },
+            "IV. Một số danh nhân văn hoá Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                49,
+                50
+              ],
+              "terms_added": 2
+            },
+            "V. Một số danh nhân trong lĩnh vực khoa học - công nghệ và giáo dục - đào tạo": {
+              "status": "done",
+              "pdf_pages": [
+                51,
+                53
+              ],
+              "terms_added": 2
+            }
+          }
+        }
+      }
+    },
+    "SGV Lich su 11 KNTT.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [],
+      "chapters": {
+        "Hướng dẫn dạy học các bài học cụ thể": {
+          "lessons": {
+            "Các bài học SGK Lịch sử 11": {
+              "status": "done",
+              "pdf_pages": [
+                25,
+                175
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "last_session_note": "Hoàn thành 116 thuật ngữ: 40 thuật ngữ bảng tra cứu SGK & SCD (2 nguồn: bảng + thân bài) và 76 thuật ngữ trọng tâm bao phủ 100% 13 bài SGK và 13 mục SCD. Validate 0 lỗi, check_sources 116/116 Đạt. Kiểm định độc lập sample_audit 30 mục 0 sai (100% chính xác)."
+}
+

@@ -11,6 +11,7 @@ __pycache__/
 *.bak
 *.tmp
 *.temp
+scratch/
 
 # File kiểm định mẫu tạm thời (sinh ra ở Giai đoạn 4, xóa sau khi kiểm tra)
 mau_kiem_tra.md

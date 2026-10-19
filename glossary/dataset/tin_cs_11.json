@@ -1,0 +1,2853 @@
+{
+  "meta": {
+    "unit": "tin_cs_11",
+    "subject": "tin_cs",
+    "subject_name": "Tin học (Khoa học máy tính)",
+    "grade": 11,
+    "last_updated": "2026-10-19",
+    "term_count": 101
+  },
+  "terms": [
+    {
+      "id": "tin-cs-11-he-dieu-hanh",
+      "term": "hệ điều hành",
+      "aliases": [
+        "HĐH",
+        "operating system"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Phần mềm hệ thống có chức năng quản lí, điều hành, phối hợp hoạt động tất cả phần cứng và phần mềm của hệ thống máy tính. Có vai trò trung gian cung cấp giao diện làm việc cho người dùng để tối ưu hoá hiệu suất sử dụng máy tính.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 1. Hệ điều hành",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-chuc-nang-he-dieu-hanh",
+        "tin-cs-11-giao-dien-do-hoa"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 147,
+          "printed_page": 146
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 6,
+          "printed_page": 5
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-chuc-nang-he-dieu-hanh",
+      "term": "các nhóm chức năng của hệ điều hành",
+      "aliases": [
+        "năm nhóm chức năng",
+        "nhóm chức năng",
+        "chức năng của hệ điều hành"
+      ],
+      "type": "tinh_chat",
+      "definition": "Hệ điều hành của các loại máy tính nói chung có năm nhóm chức năng sau: Quản lí thiết bị (CPU, bộ nhớ hay thiết bị ngoại vi). Quản lí việc lưu trữ dữ liệu (quản lí tệp và thư mục). Tổ chức thực hiện các chương trình, điều phối tài nguyên cho các tiến trình xử lí trên máy tính. Cung cấp môi trường giao tiếp với người sử dụng. Cung cấp một số tiện ích giúp nâng cao hiệu quả sử dụng máy tính.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 1. Hệ điều hành",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-he-dieu-hanh"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 6,
+          "printed_page": 5
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-co-che-plug-and-play",
+      "term": "cơ chế Plug and Play",
+      "aliases": [
+        "cơ chế plug & play",
+        "cắm và chạy"
+      ],
+      "type": "tinh_chat",
+      "definition": "Cơ chế plug & play (“cắm và chạy”, còn được hiểu là “cắm vào là chạy”) là bước phát triển hết sức quan trọng của hệ điều hành máy tính cá nhân. Cơ chế plug & play giúp hệ điều hành nhận biết các thiết bị ngoại vi ngay khi khởi động máy và có thể hỗ trợ cài đặt các chương trình điều khiển một cách tự động.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 1. Hệ điều hành",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-he-dieu-hanh"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 7,
+          "printed_page": 6
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-giao-dien-dong-lenh",
+      "term": "giao diện dòng lệnh",
+      "aliases": [
+        "giao diện lệnh"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Giao diện dòng lệnh là phương thức giao tiếp người dùng phải gõ các lệnh bằng văn bản từ bàn phím. Mặc dù đơn giản, nhưng thiếu tính trực quan, đòi hỏi người dùng phải nhớ cú pháp của từng câu lệnh.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 1. Hệ điều hành",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-giao-dien-do-hoa"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 7,
+          "printed_page": 6
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-giao-dien-do-hoa",
+      "term": "giao diện đồ hoạ",
+      "aliases": [
+        "GUI"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Giao diện giúp người dùng tương tác qua hình ảnh. Một số đối tượng phổ biến của giao diện đồ hoạ là cửa sổ (Window), biểu tượng (icon), thanh cuộn (scroll bar), nút bấm (button), hộp chọn (check box).... Việc tương tác thực hiện nhờ các thiết bị chỉ định vị trí trên màn hình như chuột, bàn cảm ứng,...",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 1. Hệ điều hành",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-giao-dien-dong-lenh"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 147,
+          "printed_page": 146
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 7,
+          "printed_page": 6
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-he-dieu-hanh-da-nhiem",
+      "term": "hệ điều hành đa nhiệm",
+      "aliases": [
+        "đa nhiệm"
+      ],
+      "type": "tinh_chat",
+      "definition": "Khả năng đa nhiệm cho phép chạy đồng thời nhiều chương trình, giúp nâng cao hiệu quả sử dụng máy tính.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 1. Hệ điều hành",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-he-dieu-hanh",
+        "tin-cs-11-he-dieu-hanh-da-nguoi-dung"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 7,
+          "printed_page": 6
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-he-dieu-hanh-da-nguoi-dung",
+      "term": "hệ điều hành đa người dùng",
+      "aliases": [
+        "đa người dùng",
+        "hệ điều hành đa người dùng"
+      ],
+      "type": "tinh_chat",
+      "definition": "Hệ điều hành đa người dùng cho phép nhiều người có thể làm việc đồng thời.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 1. Hệ điều hành",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-he-dieu-hanh",
+        "tin-cs-11-he-dieu-hanh-da-nhiem"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 8,
+          "printed_page": 7
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-thiet-bi-nhung",
+      "term": "thiết bị nhúng",
+      "aliases": [
+        "thiết bị nhúng",
+        "hệ thống nhúng"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Các thiết bị nhúng là các thiết bị có phần mềm được tích hợp vào phần cứng và được thiết kế riêng như ti vi, xe ô tô tự lái.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 1. Hệ điều hành",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-he-dieu-hanh"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 8,
+          "printed_page": 7
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-he-dieu-hanh-thiet-bi-di-dong",
+      "term": "hệ điều hành cho thiết bị di động",
+      "aliases": [
+        "hệ điều hành di động"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hệ điều hành cho thiết bị di động có giao diện thân thiện nhờ nhận dạng hành vi của người dùng thông qua các cảm biến.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 1. Hệ điều hành",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-he-dieu-hanh"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 9,
+          "printed_page": 8
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-moi-quan-he-phan-cung-he-dieu-hanh-phan-mem",
+      "term": "mối quan hệ giữa phần cứng, hệ điều hành và phần mềm ứng dụng",
+      "aliases": [
+        "mối quan hệ giữa phần cứng, phần mềm ứng dụng và hệ điều hành"
+      ],
+      "type": "tinh_chat",
+      "definition": "Phần cứng là thiết bị xử lí thông tin, hệ điều hành là môi trường trung gian giúp phần mềm ứng dụng khai thác phần cứng. Hệ điều hành là môi trường để phần mềm ứng dụng khai thác hiệu quả phần cứng.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 1. Hệ điều hành",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-he-dieu-hanh"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 10,
+          "printed_page": 9
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-phan-mem-thuong-mai",
+      "term": "phần mềm thương mại",
+      "aliases": [
+        "commercial software"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Phần mềm thương mại dùng để bán, người dùng phải mua mới được quyền sử dụng. Hầu hết phần mềm thương mại được bán ở dạng mã máy, gọi là phần mềm nguồn đóng.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 3. Phần mềm nguồn mở và phần mềm chạy trên Internet",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-phan-mem-nguon-dong",
+        "tin-cs-11-phan-mem-nguon-mo"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 18,
+          "printed_page": 17
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-phan-mem-nguon-dong",
+      "term": "phần mềm nguồn đóng",
+      "aliases": [
+        "phần mềm mã nguồn đóng",
+        "closed-source software"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hầu hết phần mềm thương mại được bán ở dạng mã máy, gọi là phần mềm nguồn đóng.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 3. Phần mềm nguồn mở và phần mềm chạy trên Internet",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-phan-mem-thuong-mai",
+        "tin-cs-11-phan-mem-nguon-mo"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 18,
+          "printed_page": 17
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-phan-mem-tu-do",
+      "term": "phần mềm tự do",
+      "aliases": [
+        "free software"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Phần mềm tự do (free software) là phần mềm không chỉ miễn phí mà còn được tự do sử dụng mà không phải xin phép. Phần mềm tự do có thể ở dạng mã máy hoặc mã nguồn.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 3. Phần mềm nguồn mở và phần mềm chạy trên Internet",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-phan-mem-thuong-mai",
+        "tin-cs-11-phan-mem-nguon-mo"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 17,
+          "printed_page": 16
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-phan-mem-nguon-mo",
+      "term": "phần mềm nguồn mở",
+      "aliases": [
+        "open-source software",
+        "phần mềm mã nguồn mở"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Phần mềm nguồn mở là phần mềm được cung cấp cả mã nguồn mà người dùng có quyền sử dụng, thay đổi và phân phối lại theo các “giấy phép” thích hợp.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 3. Phần mềm nguồn mở và phần mềm chạy trên Internet",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-phan-mem-nguon-dong",
+        "tin-cs-11-giay-phep-su-dung-phan-mem"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 17,
+          "printed_page": 16
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 18,
+          "printed_page": 17
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-giay-phep-su-dung-phan-mem",
+      "term": "giấy phép sử dụng phần mềm",
+      "aliases": [
+        "giấy phép phần mềm",
+        "license"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Quy định về những điều kiện cần tuân thủ để được sử dụng phần mềm.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 3. Phần mềm nguồn mở và phần mềm chạy trên Internet",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-giay-phep-nguon-mo-gnu-gpl"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 147,
+          "printed_page": 146
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 17,
+          "printed_page": 16
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-giay-phep-nguon-mo-gnu-gpl",
+      "term": "giấy phép nguồn mở GNU GPL",
+      "aliases": [
+        "giấy phép GNU GPL",
+        "GNU GPL"
+      ],
+      "type": "quy_tac",
+      "definition": "Giấy phép công cộng GNU GPL là giấy phép điển hình đối với phần mềm nguồn mở. Nó đảm bảo quyền tiếp cận của người sử dụng đối với mã nguồn để dùng, thay đổi hoặc phân phối lại; bảo đảm quyền miễn trừ của các tác giả về hậu quả sử dụng phần mềm; bảo đảm quyền đứng tên của các tác giả tham gia phát triển, bảo đảm sự phát triển bền vững của phần mềm nguồn mở bằng cách công bố rõ ràng các thay đổi của các phiên bản và buộc phần phát triển dựa trên phần mềm nguồn mở theo giấy phép GPL cũng phải mở theo GPL.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 3. Phần mềm nguồn mở và phần mềm chạy trên Internet",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-giay-phep-su-dung-phan-mem"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 18,
+          "printed_page": 17
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-phan-mem-chay-tren-internet",
+      "term": "phần mềm chạy trên Internet",
+      "aliases": [],
+      "type": "dinh_nghia",
+      "definition": "Phần mềm chạy trên Internet là phần mềm cho phép sử dụng qua Internet mà không cần phải cài đặt vào máy. Phần mềm chạy trên Internet có thể sử dụng ở bất cứ đâu, bất cứ thiết bị nào, bất cứ thời gian nào, chỉ cần có kết nối Internet.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 3. Phần mềm nguồn mở và phần mềm chạy trên Internet",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-phan-mem-nguon-mo"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 20,
+          "printed_page": 19
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-bang-mach-chinh",
+      "term": "bảng mạch chính",
+      "aliases": [
+        "mainboard",
+        "bo mạch chủ"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Tất cả các thiết bị bên trong thân máy được gắn với một bảng mạch, gọi là bảng mạch chính (mainboard). Các thiết bị bên trong máy tính được gắn trên bảng mạch chính, gồm có bộ xử lí, bộ nhớ trong, bộ nhớ ngoài và có thể gắn thêm các bảng mạch mở rộng.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 4. Bên trong máy tính",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bo-xu-li-trung-tam",
+        "tin-cs-11-bo-nho-trong"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 22,
+          "printed_page": 21
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 24,
+          "printed_page": 23
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-bo-xu-li-trung-tam",
+      "term": "bộ xử lí trung tâm",
+      "aliases": [
+        "CPU",
+        "bộ vi xử lí",
+        "Central Processing Unit"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Bộ xử lí trung tâm (Central Processing Unit - CPU) còn được gọi là bộ xử lí là thành phần quan trọng nhất của máy tính, đảm nhận việc thực hiện các chương trình máy tính. CPU được cấu tạo từ hai bộ phận chính: Bộ số học và logic (Arithmetic & Logic Unit, viết tắt là ALU) và Bộ điều khiển (Control Unit).",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 4. Bên trong máy tính",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bo-so-hoc-va-logic",
+        "tin-cs-11-bo-dieu-khien"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 23,
+          "printed_page": 22
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-bo-so-hoc-va-logic",
+      "term": "bộ số học và logic",
+      "aliases": [
+        "ALU",
+        "Arithmetic & Logic Unit"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Bộ số học và logic (Arithmetic & Logic Unit, viết tắt là ALU): thực hiện tất cả các phép tính số học và logic trong máy tính.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 4. Bên trong máy tính",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bo-xu-li-trung-tam"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 23,
+          "printed_page": 22
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-bo-dieu-khien",
+      "term": "bộ điều khiển",
+      "aliases": [
+        "CU",
+        "Control Unit"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Bộ điều khiển (Control Unit): phối hợp đồng bộ các thiết bị của máy tính, đảm bảo máy tính thực hiện đúng chương trình.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 4. Bên trong máy tính",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bo-xu-li-trung-tam"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 23,
+          "printed_page": 22
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-thanh-ghi",
+      "term": "thanh ghi",
+      "aliases": [
+        "register"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Thanh ghi là vùng nhớ đặc biệt được dùng để lưu trữ tạm thời các lệnh và dữ liệu đang được xử lí cho phép CPU truy cập tới với tốc độ rất nhanh.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 4. Bên trong máy tính",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bo-xu-li-trung-tam",
+        "tin-cs-11-bo-nho-dem"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 23,
+          "printed_page": 22
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-bo-nho-dem",
+      "term": "bộ nhớ đệm",
+      "aliases": [
+        "bộ nhớ truy cập nhanh",
+        "cache"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Bộ nhớ đệm là một bộ nhớ nhỏ chứa dữ liệu được nạp trước từ bộ nhớ trong nhằm giảm thời gian đọc dữ liệu.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 4. Bên trong máy tính",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-thanh-ghi",
+        "tin-cs-11-ram"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 23,
+          "printed_page": 22
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-tan-so-xung-nhip",
+      "term": "tần số đồng hồ xung",
+      "aliases": [
+        "tần số xung nhịp",
+        "xung nhịp của CPU",
+        "tần số xung đồng hồ"
+      ],
+      "type": "dinh_nghia",
+      "definition": "CPU có một đồng hồ xung, tạo ra các xung điện áp gửi đến mọi thành phần của máy để đồng bộ các hoạt động. Mỗi phép tính sẽ được thực hiện trong một số xung đồng hồ. Vì thế người ta thường dùng tần số đồng hồ xung, thường là GHz (1 tỉ xung một giây) để đánh giá tốc độ của CPU.",
+      "notation": "$\\text{GHz} = 10^9\\,\\text{xung/s}$",
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 4. Bên trong máy tính",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bo-xu-li-trung-tam"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 23,
+          "printed_page": 22
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-bo-nho-trong",
+      "term": "bộ nhớ trong",
+      "aliases": [
+        "memory",
+        "bộ nhớ chính"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Bộ nhớ trong là nơi chứa dữ liệu trong khi máy hoạt động còn bộ nhớ ngoài chứa dữ liệu lưu trữ. Tuỳ theo cách sử dụng, bộ nhớ trong (memory) chia thành hai loại RAM (Random Access Memory) và ROM (Read Only Memory).",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 4. Bên trong máy tính",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-ram",
+        "tin-cs-11-rom",
+        "tin-cs-11-bo-nho-ngoai"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 23,
+          "printed_page": 22
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 24,
+          "printed_page": 23
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-ram",
+      "term": "bộ nhớ RAM",
+      "aliases": [
+        "RAM",
+        "Random Access Memory"
+      ],
+      "type": "dinh_nghia",
+      "definition": "RAM là bộ nhớ có thể ghi được, dùng để ghi dữ liệu tạm thời trong khi chạy các chương trình nhưng không giữ được lâu dài (khi tắt máy, dữ liệu trong RAM sẽ bị xoá).",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 4. Bên trong máy tính",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-rom",
+        "tin-cs-11-bo-nho-trong"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 23,
+          "printed_page": 22
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-rom",
+      "term": "bộ nhớ ROM",
+      "aliases": [
+        "ROM",
+        "Read Only Memory"
+      ],
+      "type": "dinh_nghia",
+      "definition": "ROM là bộ nhớ được ghi bằng phương tiện chuyên dùng, các chương trình ứng dụng chỉ có thể đọc mà không thể ghi hay xoá. ROM không cần nguồn nuôi nên có thể lưu dữ liệu và chương trình lâu dài. Nó thường được dùng để lưu các dữ liệu hệ thống cố định và các chương trình kiểm tra hay khởi động máy tính.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 4. Bên trong máy tính",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-ram",
+        "tin-cs-11-bo-nho-trong"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 24,
+          "printed_page": 23
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-bo-nho-ngoai",
+      "term": "bộ nhớ ngoài",
+      "aliases": [],
+      "type": "dinh_nghia",
+      "definition": "Bộ nhớ ngoài dùng để lưu dữ liệu lâu dài, không cần nguồn nuôi, giá thành rẻ hơn RAM và có dung lượng lớn. Bộ nhớ ngoài có thể đặt bên trong hay bên ngoài thân máy, thường là đĩa từ (đĩa cứng, đĩa mềm), đĩa thể rắn (Solid State Disk - SSD) hay đĩa quang...",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 4. Bên trong máy tính",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bo-nho-trong",
+        "tin-cs-11-ram"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 24,
+          "printed_page": 23
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-mach-logic",
+      "term": "mạch logic",
+      "aliases": [
+        "mạch lôgic",
+        "logic gate"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Cách thức xử lí dữ liệu của CPU được dựa trên cơ sở hoạt động của các mạch lôgic. CPU là một mạch điện tử được dùng để biến đổi (xử lí) các dữ liệu nhị phân.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 4. Bên trong máy tính",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bo-so-hoc-va-logic"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 24,
+          "printed_page": 23
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-cong-ket-noi",
+      "term": "cổng kết nối",
+      "aliases": [
+        "cổng kết nối máy tính",
+        "kết nối máy tính"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Máy tính có thể kết nối được với nhiều thiết bị số, trong đó có các thiết bị vào - ra, thường chỉ làm việc được khi kết nối với máy tính.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 5. Kết nối máy tính với các thiết bị số",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-cong-usb",
+        "tin-cs-11-cong-hdmi",
+        "tin-cs-11-cong-vga"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 30,
+          "printed_page": 29
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-cong-vga",
+      "term": "cổng VGA",
+      "aliases": [
+        "VGA"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Cổng VGA không dùng tín hiệu số mà dùng tín hiệu tương tự để truyền hình ảnh đến các thiết bị ra như màn hình hoặc máy chiếu.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 5. Kết nối máy tính với các thiết bị số",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-cong-ket-noi",
+        "tin-cs-11-cong-hdmi"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 31,
+          "printed_page": 30
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-cong-hdmi",
+      "term": "cổng HDMI",
+      "aliases": [
+        "HDMI"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Cổng HDMI truyền tín hiệu số, truyền đồng thời cả âm thanh và hình ảnh với chất lượng cao.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 5. Kết nối máy tính với các thiết bị số",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-cong-ket-noi",
+        "tin-cs-11-cong-vga"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 31,
+          "printed_page": 30
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-cong-usb",
+      "term": "cổng USB",
+      "aliases": [
+        "USB",
+        "Universal Serial Bus"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Các cổng thuộc họ cổng USB (Universal Serial Bus). Đặc điểm chung của phương thức truyền dữ liệu USB là truyền tuần tự, đa năng. Với tốc độ được cải thiện nhanh, USB đã thay thế và giúp loại bỏ nhiều cổng khác được dùng trước đây.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 5. Kết nối máy tính với các thiết bị số",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-cong-ket-noi"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 31,
+          "printed_page": 30
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-ket-noi-khong-day",
+      "term": "kết nối không dây",
+      "aliases": [
+        "kết nối không dây qua Bluetooth",
+        "Bluetooth"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Phương thức kết nối không dây giữa máy tính với các thiết bị số như qua Wi-Fi hoặc Bluetooth. Bluetooth là phương thức kết nối không dây trong khoảng cách gần (dưới 10 m), tại mỗi thời điểm mỗi thiết bị chỉ có thể kết nối qua bluetooth với một thiết bị khác.",
+      "notation": null,
+      "chapter": "Chủ đề 1. Máy tính và xã hội tri thức",
+      "lesson": "Bài 5. Kết nối máy tính với các thiết bị số",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-cong-ket-noi"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 31,
+          "printed_page": 30
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-o-dia-truc-tuyen",
+      "term": "ổ đĩa trực tuyến",
+      "aliases": [
+        "dịch vụ lưu trữ trực tuyến",
+        "lưu trữ đám mây"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Khi đăng kí sử dụng dịch vụ lưu trữ và chia sẻ tệp tin trên Internet (còn gọi là dịch vụ lưu trữ đám mây), người dùng sẽ được cấp một không gian nhớ trực tuyến gọi là “ổ đĩa trực tuyến” để lưu trữ các tệp cũng như thư mục của mình.",
+      "notation": null,
+      "chapter": "Chủ đề 2. Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
+      "lesson": "Bài 6. Lưu trữ và chia sẻ tệp tin trên Internet",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-chia-se-tep-tin"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 33,
+          "printed_page": 32
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 34,
+          "printed_page": 33
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-chia-se-tep-tin",
+      "term": "chia sẻ tệp tin",
+      "aliases": [
+        "chia sẻ thư mục và tệp",
+        "quyền chia sẻ"
+      ],
+      "type": "tinh_chat",
+      "definition": "Một trong những ưu điểm nổi bật của việc lưu trữ thông tin, dữ liệu trực tuyến là cho phép người dùng có thể chia sẻ thư mục, tệp cho những người dùng khác. Khi chia sẻ, chủ sở hữu của thư mục, tệp quyết định một trong ba chế độ chia sẻ (quyền của người được chia sẻ đối với thư mục, tệp đó) như sau: (1) quyền chỉ xem, (2) quyền được nhận xét, tức là được xem và nhận xét, và (3) quyền chỉnh sửa.",
+      "notation": null,
+      "chapter": "Chủ đề 2. Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
+      "lesson": "Bài 6. Lưu trữ và chia sẻ tệp tin trên Internet",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-o-dia-truc-tuyen"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 34,
+          "printed_page": 33
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-ba-nguyen-tac-phong-tranh-lua-dao",
+      "term": "ba nguyên tắc phòng tránh lừa đảo trên không gian số",
+      "aliases": [
+        "3 nguyên tắc",
+        "ba nguyên tắc",
+        "phòng tránh lừa đảo"
+      ],
+      "type": "quy_tac",
+      "definition": "Cần tỉnh táo và bình tĩnh tuân thủ 3 nguyên tắc: Hãy chậm lại, Kiểm tra ngay, Dừng lại, không gửi để nhận biết và phòng tránh lừa đảo trên không gian số.",
+      "notation": null,
+      "chapter": "Chủ đề 3. Đạo đức, pháp luật và văn hoá trong môi trường số",
+      "lesson": "Bài 9. Giao tiếp an toàn trên Internet",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bo-quy-tac-ung-xu-tren-mang-xa-hoi"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 47,
+          "printed_page": 46
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-bo-quy-tac-ung-xu-tren-mang-xa-hoi",
+      "term": "bộ quy tắc ứng xử trên mạng xã hội",
+      "aliases": [
+        "quy tắc ứng xử trong môi trường số"
+      ],
+      "type": "quy_tac",
+      "definition": "Bộ Quy tắc ứng xử trên mạng xã hội được xây dựng trên cơ sở bốn quy tắc chính: Quy tắc tôn trọng, tuân thủ pháp luật; Quy tắc lành mạnh; Quy tắc an toàn, bảo mật thông tin; Quy tắc trách nhiệm.",
+      "notation": null,
+      "chapter": "Chủ đề 3. Đạo đức, pháp luật và văn hoá trong môi trường số",
+      "lesson": "Bài 9. Giao tiếp an toàn trên Internet",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-ba-nguyen-tac-phong-tranh-lua-dao"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 48,
+          "printed_page": 47
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-bai-toan-quan-li",
+      "term": "bài toán quản lí",
+      "aliases": [
+        "quản lí dữ liệu"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hoạt động quản lí dữ liệu từ bảng điểm môn học đến bảng điểm chung được thực hiện với dữ liệu của tất cả các bài toán quản lí và chúng được gọi chung là cập nhật dữ liệu và truy xuất dữ liệu.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 10. Lưu trữ dữ liệu và khai thác thông tin phục vụ quản lí",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-co-so-du-lieu",
+        "tin-cs-11-he-quan-tri-co-so-du-lieu"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 51,
+          "printed_page": 50
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 52,
+          "printed_page": 51
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-co-so-du-lieu",
+      "term": "cơ sở dữ liệu",
+      "aliases": [
+        "CSDL",
+        "database"
+      ],
+      "type": "dinh_nghia",
+      "definition": "CSDL là một tập hợp dữ liệu có liên quan với nhau, được lưu trữ một cách có tổ chức trong hệ thống máy tính.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 11. Cơ sở dữ liệu",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-he-quan-tri-co-so-du-lieu",
+        "tin-cs-11-tinh-cau-truc-csdl",
+        "tin-cs-11-tinh-toan-ven-csdl"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 58,
+          "printed_page": 57
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 147,
+          "printed_page": 146
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-tinh-cau-truc-csdl",
+      "term": "tính cấu trúc của cơ sở dữ liệu",
+      "aliases": [
+        "tính cấu trúc"
+      ],
+      "type": "tinh_chat",
+      "definition": "Dễ hình dung nhất về tính cấu trúc của CSDL khi dữ liệu được lưu trữ dưới dạng bảng gồm các hàng và các cột.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 11. Cơ sở dữ liệu",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-co-so-du-lieu",
+        "tin-cs-11-tinh-toan-ven-csdl"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 57,
+          "printed_page": 56
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-tinh-toan-ven-csdl",
+      "term": "tính toàn vẹn của cơ sở dữ liệu",
+      "aliases": [
+        "tính toàn vẹn"
+      ],
+      "type": "tinh_chat",
+      "definition": "Tính toàn vẹn: Các giá trị dữ liệu lưu trữ phải thoả mãn những ràng buộc cụ thể tuỳ thuộc vào thực tế mà nó phản ánh.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 11. Cơ sở dữ liệu",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-co-so-du-lieu",
+        "tin-cs-11-tinh-nhat-quan-csdl"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 58,
+          "printed_page": 57
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-tinh-nhat-quan-csdl",
+      "term": "tính nhất quán của cơ sở dữ liệu",
+      "aliases": [
+        "tính nhất quán"
+      ],
+      "type": "tinh_chat",
+      "definition": "Khái niệm về tính nhất quán đòi hỏi dữ liệu trong các CSDL được đảm bảo đúng đắn sau các thao tác cập nhật dữ liệu, kể cả khi xảy ra sự cố ngay trong quá trình cập nhật.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 11. Cơ sở dữ liệu",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-co-so-du-lieu",
+        "tin-cs-11-tinh-doc-lap-csdl"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 58,
+          "printed_page": 57
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-tinh-doc-lap-csdl",
+      "term": "tính độc lập của cơ sở dữ liệu",
+      "aliases": [
+        "tính độc lập"
+      ],
+      "type": "tinh_chat",
+      "definition": "Trong phạm vi kiến thức phổ thông, tính độc lập dữ liệu có thể được hiểu là người sử dụng hay phần mềm ứng dụng khai thác CSDL không nhất thiết phải biết được các chi tiết kĩ thuật liên quan đến CSDL.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 11. Cơ sở dữ liệu",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-co-so-du-lieu"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 57,
+          "printed_page": 56
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-he-quan-tri-co-so-du-lieu",
+      "term": "hệ quản trị cơ sở dữ liệu",
+      "aliases": [
+        "hệ QTCSDL",
+        "DBMS",
+        "Database Management System"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hệ QTCSDL là phần mềm cung cấp phương thức để lưu trữ, cập nhật và truy xuất dữ liệu của CSDL, bảo mật và an toàn dữ liệu.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 12. Hệ quản trị cơ sở dữ liệu và hệ cơ sở dữ liệu",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-co-so-du-lieu",
+        "tin-cs-11-he-co-so-du-lieu",
+        "tin-cs-11-nhom-chuc-nang-he-qtcsdl"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 60,
+          "printed_page": 59
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-nhom-chuc-nang-he-qtcsdl",
+      "term": "các nhóm chức năng của hệ quản trị cơ sở dữ liệu",
+      "aliases": [
+        "chức năng của hệ QTCSDL"
+      ],
+      "type": "tinh_chat",
+      "definition": "Hệ QTCSDL có các nhóm chức năng chính: nhóm chức năng định nghĩa dữ liệu; nhóm chức năng cập nhật và truy xuất dữ liệu; nhóm chức năng bảo mật, an toàn CSDL; nhóm chức năng giao diện lập trình ứng dụng.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 12. Hệ quản trị cơ sở dữ liệu và hệ cơ sở dữ liệu",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-he-quan-tri-co-so-du-lieu"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 60,
+          "printed_page": 59
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-he-co-so-du-lieu",
+      "term": "hệ cơ sở dữ liệu",
+      "aliases": [
+        "hệ CSDL"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hệ cơ sở dữ liệu (hệ CSDL) bao gồm ba thành phần: Cơ sở dữ liệu (CSDL), Hệ quản trị CSDL quản trị CSDL đó và các phần mềm ứng dụng khai thác CSDL.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 12. Hệ quản trị cơ sở dữ liệu và hệ cơ sở dữ liệu",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-co-so-du-lieu",
+        "tin-cs-11-he-quan-tri-co-so-du-lieu",
+        "tin-cs-11-he-csdl-tap-trung",
+        "tin-cs-11-he-csdl-phan-tan"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 61,
+          "printed_page": 60
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 62,
+          "printed_page": 61
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-he-csdl-tap-trung",
+      "term": "hệ cơ sở dữ liệu tập trung",
+      "aliases": [
+        "CSDL tập trung",
+        "hệ CSDL tập trung"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hệ cơ sở dữ liệu tập trung là hệ CSDL trong đó toàn bộ dữ liệu được lưu trữ tập trung trên một máy tính (hoặc dàn máy tính), hệ QTCSDL và các phần mềm ứng dụng cũng được cài đặt hoặc truy cập trực tiếp tại máy tính đó.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 12. Hệ quản trị cơ sở dữ liệu và hệ cơ sở dữ liệu",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-he-co-so-du-lieu",
+        "tin-cs-11-he-csdl-phan-tan"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 62,
+          "printed_page": 61
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 63,
+          "printed_page": 62
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-he-csdl-phan-tan",
+      "term": "hệ cơ sở dữ liệu phân tán",
+      "aliases": [
+        "CSDL phân tán",
+        "hệ CSDL phân tán"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hệ cơ sở dữ liệu phân tán là hệ CSDL trong đó dữ liệu được phân tán trên các máy tính (trạm) khác nhau kết nối qua mạng máy tính, nhưng người dùng vẫn truy cập dữ liệu như trên một CSDL thống nhất.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 12. Hệ quản trị cơ sở dữ liệu và hệ cơ sở dữ liệu",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-he-co-so-du-lieu",
+        "tin-cs-11-he-csdl-tap-trung"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 63,
+          "printed_page": 62
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-co-so-du-lieu-quan-he",
+      "term": "cơ sở dữ liệu quan hệ",
+      "aliases": [
+        "CSDL quan hệ",
+        "Relational Database"
+      ],
+      "type": "dinh_nghia",
+      "definition": "CSDL quan hệ là CSDL lưu trữ dữ liệu dưới dạng các bảng có quan hệ với nhau.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 13. Cơ sở dữ liệu quan hệ",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bang-du-lieu-quan-he",
+        "tin-cs-11-ban-ghi",
+        "tin-cs-11-truong-du-lieu",
+        "tin-cs-11-khoa-chinh"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 66,
+          "printed_page": 65
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-bang-du-lieu-quan-he",
+      "term": "bảng trong cơ sở dữ liệu quan hệ",
+      "aliases": [
+        "quan hệ",
+        "bảng",
+        "table",
+        "relation"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Mỗi bảng lưu trữ dữ liệu của các đối tượng có các thuộc tính (được hiểu là các đặc tính xác định đối tượng) giống nhau, mỗi đối tượng một hàng. Dữ liệu của mỗi thuộc tính được ghi trong một cột.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 13. Cơ sở dữ liệu quan hệ",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-co-so-du-lieu-quan-he",
+        "tin-cs-11-ban-ghi",
+        "tin-cs-11-truong-du-lieu"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 66,
+          "printed_page": 65
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-ban-ghi",
+      "term": "bản ghi",
+      "aliases": [
+        "hàng",
+        "bộ",
+        "record",
+        "row",
+        "tuple"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Mỗi hàng của bảng được gọi là một bản ghi (record), là tập hợp các thông tin về một đối tượng cụ thể được quản lí trong bảng.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 13. Cơ sở dữ liệu quan hệ",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bang-du-lieu-quan-he",
+        "tin-cs-11-truong-du-lieu"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 66,
+          "printed_page": 65
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-truong-du-lieu",
+      "term": "trường dữ liệu",
+      "aliases": [
+        "cột",
+        "thuộc tính",
+        "field",
+        "column",
+        "attribute"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Mỗi cột trong bảng được gọi là trường (field) thể hiện thuộc tính của đối tượng được quản lí trong bảng.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 13. Cơ sở dữ liệu quan hệ",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bang-du-lieu-quan-he",
+        "tin-cs-11-ban-ghi"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 66,
+          "printed_page": 65
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-khoa-chinh",
+      "term": "khoá chính",
+      "aliases": [
+        "Primary Key",
+        "PK"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Một bảng có thể có nhiều khoá. Người ta có thể chọn (chỉ định) một khoá trong các khoá đó làm khoá chính của bảng và thường chọn khoá có số trường ít nhất. Khoá chính xác định duy nhất bản ghi nên có vai trò quan trọng trong sắp xếp, truy xuất dữ liệu.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 13. Cơ sở dữ liệu quan hệ",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-co-so-du-lieu-quan-he",
+        "tin-cs-11-khoa-ngoai",
+        "tin-cs-11-lien-ket-bang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 67,
+          "printed_page": 66
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-khoa-ngoai",
+      "term": "khoá ngoài",
+      "aliases": [
+        "Foreign Key",
+        "FK"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Mỗi bảng (A) có thể có trường hay nhóm các trường (k) làm thành khoá chính ở một bảng khác (B). Khi đó k được gọi là khoá ngoài của bảng A. Hai bảng A và B được gọi là có quan hệ với nhau qua khoá ngoài k của bảng A.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 13. Cơ sở dữ liệu quan hệ",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-khoa-chinh",
+        "tin-cs-11-lien-ket-bang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 67,
+          "printed_page": 66
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-lien-ket-bang",
+      "term": "liên kết giữa các bảng",
+      "aliases": [
+        "liên kết bảng"
+      ],
+      "type": "tinh_chat",
+      "definition": "Có thể dùng khoá ngoài của bảng để thực hiện ghép nối dữ liệu hai bảng với nhau. Người ta gọi việc ghép nối như thế là liên kết (join) dữ liệu theo khoá.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 13. Cơ sở dữ liệu quan hệ",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-khoa-chinh",
+        "tin-cs-11-khoa-ngoai"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 67,
+          "printed_page": 66
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-ngon-ngu-truy-van-csdl",
+      "term": "ngôn ngữ truy vấn CSDL",
+      "aliases": [
+        "ngôn ngữ truy vấn",
+        "Query Language"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Ngôn ngữ máy tính dùng để yêu cầu cập nhật, truy xuất dữ liệu,... trong một hệ QTCSDL. Ngôn ngữ truy vấn chuẩn mực và được sử dụng rộng rãi nhất là ngôn ngữ truy vấn có cấu trúc SQL (Structured Query Language).",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 14. SQL - Ngôn ngữ truy vấn có cấu trúc",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-ngon-ngu-sql",
+        "tin-cs-11-cau-lenh-select"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 147,
+          "printed_page": 146
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 70,
+          "printed_page": 69
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-ngon-ngu-sql",
+      "term": "ngôn ngữ SQL",
+      "aliases": [
+        "SQL",
+        "Structured Query Language"
+      ],
+      "type": "dinh_nghia",
+      "definition": "SQL đã trở thành ngôn ngữ truy vấn tiêu chuẩn mà hầu hết các hệ QTCSDL đều sử dụng. Điều đó có nghĩa là chúng ta có thể dùng SQL để thao tác trên hầu hết các hệ QTCSDL phổ biến như Oracle, SQL server, MySQL, PostGreSQL.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 14. SQL - Ngôn ngữ truy vấn có cấu trúc",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-ngon-ngu-truy-van-csdl",
+        "tin-cs-11-cau-lenh-select"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 71,
+          "printed_page": 70
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-cau-lenh-select",
+      "term": "câu lệnh SELECT",
+      "aliases": [
+        "SELECT",
+        "câu lệnh truy vấn SELECT",
+        "truy vấn SELECT"
+      ],
+      "type": "quy_tac",
+      "definition": "SELECT <dữ liệu cần lấy> FROM <tên bảng> ORDER BY <tên trường> sắp xếp các dòng kết quả theo thứ tự chỉ định.",
+      "notation": "$\\text{SELECT } \\dots \\text{ FROM } \\dots \\text{ WHERE } \\dots$",
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 14. SQL - Ngôn ngữ truy vấn có cấu trúc",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-ngon-ngu-sql"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 72,
+          "printed_page": 71
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-bao-mat-he-csdl",
+      "term": "bảo mật hệ cơ sở dữ liệu",
+      "aliases": [
+        "bảo mật CSDL",
+        "bảo mật"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Giữ gìn để thông tin hay dữ liệu không bị truy cập hay sử dụng không được phép",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 15. Bảo mật và an toàn hệ cơ sở dữ liệu",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-an-toan-du-lieu-csdl",
+        "tin-cs-11-co-so-du-lieu"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 147,
+          "printed_page": 146
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 74,
+          "printed_page": 73
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-an-toan-du-lieu-csdl",
+      "term": "an toàn dữ liệu trong cơ sở dữ liệu",
+      "aliases": [
+        "an toàn dữ liệu"
+      ],
+      "type": "dinh_nghia",
+      "definition": "An toàn dữ liệu là việc đảm bảo sao cho dữ liệu trong các hệ thống thông tin chứa trong máy tính không bị truy cập hay sử dụng không được phép, không bị sửa đổi hay bị phá huỷ, không bị mất vì các sự cố bất thường.",
+      "notation": null,
+      "chapter": "Chủ đề 4. Giới thiệu các hệ cơ sở dữ liệu",
+      "lesson": "Bài 15. Bảo mật và an toàn hệ cơ sở dữ liệu",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bao-mat-he-csdl"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 147,
+          "printed_page": 146
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 76,
+          "printed_page": 75
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-quan-tri-co-so-du-lieu",
+      "term": "quản trị cơ sở dữ liệu",
+      "aliases": [
+        "quản trị CSDL"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Quản trị CSDL là hoạt động nhằm đảm bảo cho việc sử dụng CSDL thông suốt và hiệu quả. Quản trị CSDL có các nhiệm vụ chính: cài đặt, cấu hình, cấp quyền, bảo đảm an toàn và bảo mật cho dữ liệu, sao lưu và phục hồi dữ liệu khi có sự cố.",
+      "notation": null,
+      "chapter": "Chủ đề 5. Hướng nghiệp với tin học",
+      "lesson": "Bài 16. Công việc quản trị cơ sở dữ liệu",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-nha-quan-tri-co-so-du-lieu",
+        "tin-cs-11-co-so-du-lieu"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 78,
+          "printed_page": 77
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 79,
+          "printed_page": 78
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-nha-quan-tri-co-so-du-lieu",
+      "term": "nhà quản trị cơ sở dữ liệu",
+      "aliases": [
+        "nhà quản trị CSDL",
+        "người quản trị CSDL",
+        "DBA"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Theo quy định về ngành nghề, người thực thi hoạt động quản trị CSDL được gọi là nhà quản trị CSDL mà trong thực tế thường được gọi đơn giản là người quản trị CSDL.",
+      "notation": null,
+      "chapter": "Chủ đề 5. Hướng nghiệp với tin học",
+      "lesson": "Bài 16. Công việc quản trị cơ sở dữ liệu",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-quan-tri-co-so-du-lieu"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 78,
+          "printed_page": 77
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-mang-mot-chieu",
+      "term": "mảng một chiều",
+      "aliases": [
+        "danh sách một chiều",
+        "1D array"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Trong Tin học, dữ liệu mảng một chiều, thường được gọi là cấu trúc dữ liệu tuyến tính, là cấu trúc dữ liệu bao gồm một dãy các phần tử dữ liệu có cùng kiểu. Trong Python, dữ liệu mảng một chiều có thể được biểu diễn bằng danh sách (list) với các phần tử có cùng kiểu dữ liệu.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 17. Dữ liệu mảng một chiều và hai chiều",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-mang-hai-chieu"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 82,
+          "printed_page": 81
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-mang-hai-chieu",
+      "term": "mảng hai chiều",
+      "aliases": [
+        "ma trận",
+        "bảng",
+        "2D array"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Trong tin học, một cấu trúc dữ liệu hai chiều được hiểu là một bảng hay còn gọi là ma trận, bao gồm các hàng và cột dữ liệu. Bảng có thể có kích thước vuông n x n hoặc kích thước bất kì m x n.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 17. Dữ liệu mảng một chiều và hai chiều",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-mang-mot-chieu"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 84,
+          "printed_page": 83
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-bai-toan-tim-kiem",
+      "term": "bài toán tìm kiếm",
+      "aliases": [
+        "tìm kiếm"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Tìm kiếm là một trong những bài toán quan trọng nhất của Tin học. Việc thiết kế thuật toán tìm kiếm sẽ phụ thuộc vào cấu trúc của miền dữ liệu cần tìm kiếm và tiêu chí cụ thể của bài toán tìm kiếm.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 19. Bài toán tìm kiếm",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-thuat-toan-tim-kiem-tuan-tu",
+        "tin-cs-11-thuat-toan-tim-kiem-nhi-phan"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 90,
+          "printed_page": 89
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-thuat-toan-tim-kiem-tuan-tu",
+      "term": "thuật toán tìm kiếm tuần tự",
+      "aliases": [
+        "tìm kiếm tuần tự",
+        "Linear Search",
+        "Sequential Search"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Thuật toán tìm kiếm tuần tự: Duyệt lần lượt các phần tử của dãy để tìm phần tử bằng giá trị cần tìm. Nếu tìm thấy thì trả về chỉ số của phần tử, nếu không tìm thấy thì trả về giá trị -1. Thuật toán có thể duyệt từ đầu dãy hoặc từ cuối dãy.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 19. Bài toán tìm kiếm",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bai-toan-tim-kiem",
+        "tin-cs-11-thuat-toan-tim-kiem-nhi-phan"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 91,
+          "printed_page": 90
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-thuat-toan-tim-kiem-nhi-phan",
+      "term": "thuật toán tìm kiếm nhị phân",
+      "aliases": [
+        "tìm kiếm nhị phân",
+        "Binary Search"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Thuật toán tìm kiếm nhị phân được áp dụng cho các dãy được sắp xếp theo thứ tự (tăng dần hoặc giảm dần). Tại mỗi bước so sánh phần tử cần tìm với phần tử ở giữa dãy để thu hẹp phạm vi tìm kiếm.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 19. Bài toán tìm kiếm",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bai-toan-tim-kiem",
+        "tin-cs-11-thuat-toan-tim-kiem-tuan-tu"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 94,
+          "printed_page": 93
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-bai-toan-sap-xep",
+      "term": "bài toán sắp xếp",
+      "aliases": [
+        "sắp xếp"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Bài toán sắp xếp cơ bản có dạng: Cho dãy A gồm n phần tử A[0], A[1], ..., A[n-1]. Cần xếp dãy A theo thứ tự tăng dần: A[0] <= A[1] <= ... <= A[n-1].",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 21. Các thuật toán sắp xếp đơn giản",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-thuat-toan-sap-xep-chen",
+        "tin-cs-11-thuat-toan-sap-xep-chon",
+        "tin-cs-11-thuat-toan-sap-xep-noi-bot"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 100,
+          "printed_page": 99
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-thuat-toan-sap-xep-chen",
+      "term": "thuật toán sắp xếp chèn",
+      "aliases": [
+        "sắp xếp chèn",
+        "Insertion Sort"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Ý tưởng của thuật toán sắp xếp chèn là thực hiện vòng lặp duyệt từ phần tử thứ hai đến cuối dãy, tại mỗi bước chèn phần tử hiện tại vào đúng vị trí trong đoạn đầu của dãy đã được sắp xếp trước đó.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 21. Các thuật toán sắp xếp đơn giản",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bai-toan-sap-xep",
+        "tin-cs-11-thuat-toan-sap-xep-chon"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 100,
+          "printed_page": 99
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 101,
+          "printed_page": 100
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-thuat-toan-sap-xep-chon",
+      "term": "thuật toán sắp xếp chọn",
+      "aliases": [
+        "sắp xếp chọn",
+        "Selection Sort"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Ý tưởng của thuật toán sắp xếp chọn là cho chỉ số i chạy từ 0 đến n-2, tại mỗi bước thứ i tìm phần tử nhỏ nhất trong đoạn dãy còn lại từ A[i] đến A[n-1] và đổi chỗ phần tử nhỏ nhất này với A[i].",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 21. Các thuật toán sắp xếp đơn giản",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bai-toan-sap-xep",
+        "tin-cs-11-thuat-toan-sap-xep-chen"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 101,
+          "printed_page": 100
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 102,
+          "printed_page": 101
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-thuat-toan-sap-xep-noi-bot",
+      "term": "thuật toán sắp xếp nổi bọt",
+      "aliases": [
+        "thuật toán sắp xếp nổi bọt",
+        "thuật toán nổi bọt",
+        "sắp xếp nổi bọt",
+        "thuật toán sắp xếp nồi bọt",
+        "thuật toán sắp xếp nỗi bọt",
+        "Bubble Sort"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Ý tưởng của thuật toán nổi bọt là liên tục đổi chỗ hai phần tử cạnh nhau nếu chúng chưa được sắp thứ tự đúng. Sau n - 1 vòng lặp thì dãy được sắp xếp.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 21. Các thuật toán sắp xếp đơn giản",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bai-toan-sap-xep",
+        "tin-cs-11-thuat-toan-sap-xep-chon"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 103,
+          "printed_page": 102
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-kiem-thu-chuong-trinh",
+      "term": "kiểm thử chương trình",
+      "aliases": [
+        "kiểm thử",
+        "software testing"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Một thuật toán nếu được thiết kế đúng thì với mọi bộ dữ liệu đầu vào sẽ nhận được dữ liệu đầu ra đúng. Kiểm thử với các bộ dữ liệu thử giúp phát hiện lỗi của chương trình.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 23. Kiểm thử và đánh giá chương trình",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-bo-du-lieu-kiem-thu"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 107,
+          "printed_page": 106
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-bo-du-lieu-kiem-thu",
+      "term": "bộ dữ liệu kiểm thử",
+      "aliases": [
+        "dữ liệu thử",
+        "test case"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Phương pháp sử dụng các bộ dữ liệu kiểm thử để kiểm tra tính đúng của chương trình. Nếu phát hiện lỗi không chính xác của dữ liệu đầu ra thì kết luận ngay thuật toán và chương trình không đúng.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 23. Kiểm thử và đánh giá chương trình",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-kiem-thu-chuong-trinh"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 107,
+          "printed_page": 106
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-do-phuc-tap-thoi-gian-thuat-toan",
+      "term": "độ phức tạp thời gian của thuật toán",
+      "aliases": [
+        "độ phức tạp thời gian",
+        "time complexity"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Độ phức tạp thời gian thuật toán, trong trường hợp tổng quát, có thể coi là một hàm của kích thước dữ liệu đầu vào n.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 24. Đánh giá độ phức tạp thời gian thuật toán",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-ki-hieu-o-lon",
+        "tin-cs-11-do-phuc-tap-tuyen-tinh",
+        "tin-cs-11-do-phuc-tap-binh-phuong"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 114,
+          "printed_page": 113
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-ki-hieu-o-lon",
+      "term": "kí hiệu O-lớn",
+      "aliases": [
+        "O-lớn",
+        "Big-O",
+        "kí hiệu O lớn"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Kí hiệu dùng để biểu diễn độ phức tạp thời gian của thuật toán theo bậc của dữ liệu.",
+      "notation": "$f(n) = O(g(n))$",
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 24. Đánh giá độ phức tạp thời gian thuật toán",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-do-phuc-tap-thoi-gian-thuat-toan",
+        "tin-cs-11-do-phuc-tap-hang-so",
+        "tin-cs-11-do-phuc-tap-tuyen-tinh"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 147,
+          "printed_page": 146
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 114,
+          "printed_page": 113
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-do-phuc-tap-hang-so",
+      "term": "độ phức tạp thời gian hằng số",
+      "aliases": [
+        "O(1)",
+        "độ phức tạp O(1)"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Kí hiệu O-lớn dùng để đánh giá và phân loại độ phức tạp thời gian của thuật toán khi kích thước đầu vào của bài toán tăng lên vô cùng. Các thuật toán sẽ được đánh giá qua độ phức tạp của một số hàm chuẩn như: O(1) - hằng số.",
+      "notation": "$O(1)$",
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 24. Đánh giá độ phức tạp thời gian thuật toán",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-ki-hieu-o-lon",
+        "tin-cs-11-do-phuc-tap-tuyen-tinh"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 114,
+          "printed_page": 113
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-do-phuc-tap-tuyen-tinh",
+      "term": "độ phức tạp thời gian tuyến tính",
+      "aliases": [
+        "O(n)",
+        "độ phức tạp O(n)"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Chúng ta nói chương trình có độ phức tạp thời gian O(n) - tuyến tính khi thời gian thực thi tỉ lệ thuận với n.",
+      "notation": "$O(n)$",
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 24. Đánh giá độ phức tạp thời gian thuật toán",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-ki-hieu-o-lon",
+        "tin-cs-11-do-phuc-tap-binh-phuong"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 114,
+          "printed_page": 113
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-do-phuc-tap-binh-phuong",
+      "term": "độ phức tạp thời gian bậc hai",
+      "aliases": [
+        "O(n^2)",
+        "bình phương",
+        "độ phức tạp thời gian bình phương"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Kí hiệu O-lớn dùng để đánh giá và phân loại độ phức tạp thời gian của thuật toán khi kích thước đầu vào của bài toán tăng lên vô cùng. Các thuật toán sẽ được đánh giá qua độ phức tạp của một số hàm chuẩn như: O(n2) - bình phương.",
+      "notation": "$O(n^2)$",
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 24. Đánh giá độ phức tạp thời gian thuật toán",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-ki-hieu-o-lon",
+        "tin-cs-11-do-phuc-tap-tuyen-tinh"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 114,
+          "printed_page": 113
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-do-phuc-tap-logarit",
+      "term": "độ phức tạp thời gian lôgarit",
+      "aliases": [
+        "O(logn)",
+        "O(log n)",
+        "logarit",
+        "độ phức tạp logarit",
+        "độ phức tạp thời gian logarit"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Kí hiệu O-lớn dùng để đánh giá và phân loại độ phức tạp thời gian của thuật toán khi kích thước đầu vào của bài toán tăng lên vô cùng. Các thuật toán sẽ được đánh giá qua độ phức tạp của một số hàm chuẩn như: O(logn) - logarit.",
+      "notation": "$O(\\log n)$",
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 24. Đánh giá độ phức tạp thời gian thuật toán",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-ki-hieu-o-lon",
+        "tin-cs-11-thuat-toan-tim-kiem-nhi-phan"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 114,
+          "printed_page": 113
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-quy-tac-tinh-do-phuc-tap-noi-tiep",
+      "term": "quy tắc cộng trong tính độ phức tạp thời gian",
+      "aliases": [
+        "Quy tắc cộng",
+        "quy tắc tính độ phức tạp nối tiếp",
+        "QT1. Quy tắc cộng"
+      ],
+      "type": "quy_tac",
+      "definition": "QT1. Quy tắc cộng: O(f(n) + g(n)) = O(max(f(n), g(n))). Quy tắc này được áp dụng khi tính độ phức tạp thời gian cho hai chương trình được thực hiện nối tiếp nhau.",
+      "notation": "$O(f(n) + g(n)) = O(\\max(f(n), g(n)))$",
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 24. Đánh giá độ phức tạp thời gian thuật toán",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-ki-hieu-o-lon",
+        "tin-cs-11-quy-tac-tinh-do-phuc-tap-vong-lap-long-nhau"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 115,
+          "printed_page": 114
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-quy-tac-tinh-do-phuc-tap-vong-lap-long-nhau",
+      "term": "quy tắc nhân trong tính độ phức tạp thời gian",
+      "aliases": [
+        "Quy tắc nhân",
+        "quy tắc tính độ phức tạp vòng lặp lồng nhau",
+        "QT2. Quy tắc nhân"
+      ],
+      "type": "quy_tac",
+      "definition": "QT2. Quy tắc nhân: Phép nhân với hằng số: O(c.f(n)) = O(f(n)), với c là hằng số bất kì. Phép nhân với hàm số: O(f(n).g(n)) = O(f(n).O(g(n))). Quy tắc này được áp dụng tính độ phức tạp thời gian cho chương trình có hai vòng lặp lồng nhau.",
+      "notation": "$O(f(n) \\times g(n))$",
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 24. Đánh giá độ phức tạp thời gian thuật toán",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-ki-hieu-o-lon",
+        "tin-cs-11-quy-tac-tinh-do-phuc-tap-noi-tiep"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 115,
+          "printed_page": 114
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-phuong-phap-lam-min-dan",
+      "term": "phương pháp làm mịn dần",
+      "aliases": [
+        "làm mịn dần",
+        "stepwise refinement"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Phương pháp làm mịn dần trong thiết kế chương trình là quá trình chi tiết hoá từ ý tưởng của các bước trước thành những hành động cụ thể hơn ở các bước sau. Ở bước cuối cùng, các hành động tương ứng với các câu lệnh của ngôn ngữ lập trình để viết chương trình hoàn chỉnh.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 26. Phương pháp làm mịn dần trong thiết kế chương trình",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-cap-nghich-dao",
+        "tin-cs-11-thiet-ke-chuong-trinh-theo-mo-dun"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 121,
+          "printed_page": 120
+        },
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 72,
+          "printed_page": 71
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-cap-nghich-dao",
+      "term": "cặp nghịch đảo",
+      "aliases": [
+        "nghịch đảo",
+        "cặp phần tử nghịch đảo"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Cho trước dãy số A: $A[0], A[1], \\dots, A[n-1]$. Cặp phần tử $A[i], A[j]$ được gọi là nghịch đảo nếu $i < j$ nhưng $A[i] > A[j]$.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 26. Phương pháp làm mịn dần trong thiết kế chương trình",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-phuong-phap-lam-min-dan"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 121,
+          "printed_page": 120
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-thiet-ke-chuong-trinh-theo-mo-dun",
+      "term": "thiết kế chương trình theo mô đun",
+      "aliases": [
+        "thiết kế mô đun",
+        "modular design"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Phương pháp thiết kế chương trình theo mô đun sẽ tách bài toán lớn thành các bài toán nhỏ hơn, hay thành các mô đun, tương đối độc lập với nhau, mỗi mô đun có thể được chia tiếp thành các mô đun con. Mỗi mô đun có thể là một số hàm hoặc thủ tục độc lập.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 28. Thiết kế chương trình theo mô đun",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-mo-dun-chuong-trinh",
+        "tin-cs-11-phuong-phap-lam-min-dan"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 130,
+          "printed_page": 129
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-mo-dun-chuong-trinh",
+      "term": "mô đun chương trình",
+      "aliases": [
+        "mô đun",
+        "module"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Các hàm được gọi là các mô đun con của chương trình. Mỗi mô đun thường là các chức năng độc lập, riêng biệt theo yêu cầu của chương trình.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 28. Thiết kế chương trình theo mô đun",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-thiet-ke-chuong-trinh-theo-mo-dun"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 130,
+          "printed_page": 129
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-uu-diem-thiet-ke-mo-dun",
+      "term": "ưu điểm của thiết kế chương trình theo mô đun",
+      "aliases": [
+        "ưu điểm của mô đun",
+        "các ưu điểm sau",
+        "ưu điểm thiết kế mô đun"
+      ],
+      "type": "tinh_chat",
+      "definition": "Thiết kế thuật toán và chương trình theo mô đun có các ưu điểm sau: Các mô đun được thiết lập một lần và sử dụng nhiều lần. Dễ dàng bổ sung các mô đun mới.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 28. Thiết kế chương trình theo mô đun",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-thiet-ke-chuong-trinh-theo-mo-dun"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 131,
+          "printed_page": 130
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-thu-vien-chuong-trinh",
+      "term": "thư viện chương trình",
+      "aliases": [
+        "thư viện",
+        "program library"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Thư viện chương trình là tập hợp các hàm được đặt trong các mô đun độc lập để dùng chung cho nhiều chương trình khác nhau. Trong Python, lệnh import có chức năng đưa thư viện vào bộ nhớ.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 30. Thiết lập thư viện cho chương trình",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-mo-dun-chuong-trinh",
+        "tin-cs-11-tu-thiet-lap-thu-vien"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 139,
+          "printed_page": 138
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-tu-thiet-lap-thu-vien",
+      "term": "tự thiết lập thư viện trong Python",
+      "aliases": [
+        "thiết lập thư viện"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Cách thiết lập một thư viện rất đơn giản: Em đưa các hàm chuẩn vào một tệp chương trình và đặt tên của tệp này chính là tên thư viện muốn lưu trữ.",
+      "notation": null,
+      "chapter": "Chủ đề 6. Kĩ thuật lập trình",
+      "lesson": "Bài 30. Thiết lập thư viện cho chương trình",
+      "level": "co_ban",
+      "related_terms": [
+        "tin-cs-11-thu-vien-chuong-trinh"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 139,
+          "printed_page": 138
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-de-quy",
+      "term": "đệ quy",
+      "aliases": [
+        "recursion"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hiện tượng, sự vật có tính chất lặp lại chính nó hoặc được định nghĩa theo chính hiện tượng, sự vật đó. Trong lập trình, đệ quy được thể hiện bằng hàm đệ quy.",
+      "notation": null,
+      "chapter": "Chuyên đề 1. Thực hành thiết kế thuật toán theo kĩ thuật đệ quy",
+      "lesson": "Bài 1. Đệ quy và hàm đệ quy",
+      "level": "chuyen_de",
+      "related_terms": [
+        "tin-cs-11-ham-de-quy",
+        "tin-cs-11-cong-thuc-truy-hoi"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 6,
+          "printed_page": 5
+        },
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 72,
+          "printed_page": 71
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-ham-de-quy",
+      "term": "hàm đệ quy",
+      "aliases": [
+        "recursive function"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hàm hay thủ tục được gọi là đệ quy nếu có lời gọi đến chính mình. Mọi hàm đệ quy phải có phần gọi đệ quy và phần cơ sở. Phần cơ sở sẽ thiết lập các giá trị ban đầu của hàm và có vai trò kiểm soát, kết thúc các lời gọi đệ quy.",
+      "notation": null,
+      "chapter": "Chuyên đề 1. Thực hành thiết kế thuật toán theo kĩ thuật đệ quy",
+      "lesson": "Bài 1. Đệ quy và hàm đệ quy",
+      "level": "chuyen_de",
+      "related_terms": [
+        "tin-cs-11-de-quy"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 11,
+          "printed_page": 10
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-cong-thuc-truy-hoi",
+      "term": "công thức truy hồi",
+      "aliases": [
+        "hệ thức truy hồi",
+        "recurrence relation"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Công thức tính giá trị phần tử của một dãy thông qua các phần tử đứng trước nó.",
+      "notation": null,
+      "chapter": "Chuyên đề 1. Thực hành thiết kế thuật toán theo kĩ thuật đệ quy",
+      "lesson": "Bài 2. Thiết kế thuật toán bằng đệ quy",
+      "level": "chuyen_de",
+      "related_terms": [
+        "tin-cs-11-de-quy"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 72,
+          "printed_page": 71
+        },
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 12,
+          "printed_page": 11
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-bai-toan-thap-ha-noi",
+      "term": "bài toán Tháp Hà Nội",
+      "aliases": [
+        "Tower of Hanoi"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Bài toán Tháp Hà Nội: Cho trước ba cọc 1, 2, 3 và n cái đĩa, kí hiệu từ 1 đến n, được xếp tại cọc 1 theo thứ tự to dần từ trên xuống. Yêu cầu chuyển n đĩa này sang cọc 3 với điều kiện là được dùng cọc 2 làm trung gian, mỗi lần chỉ được phép chuyển 1 đĩa và không cho phép đặt đĩa to chồng lên đĩa nhỏ.",
+      "notation": null,
+      "chapter": "Chuyên đề 1. Thực hành thiết kế thuật toán theo kĩ thuật đệ quy",
+      "lesson": "Bài 4. Bài toán Tháp Hà Nội",
+      "level": "chuyen_de",
+      "related_terms": [
+        "tin-cs-11-de-quy",
+        "tin-cs-11-ham-de-quy"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 20,
+          "printed_page": 19
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-thuat-toan-chia-de-tri",
+      "term": "thuật toán chia để trị",
+      "aliases": [
+        "kĩ thuật chia để trị",
+        "chia để trị",
+        "Divide and Conquer"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Mô hình thiết kế thuật toán để giải một bài toán bằng cách chia bài toán ban đầu thành các bài toán nhỏ hơn thuộc cùng thể loại. Quá trình phân chia này có thể lặp lại nhiều lần, cho đến khi bài toán thu được đủ đơn giản để có thể giải quyết trực tiếp. Sau đó lời giải của các bài toán nhỏ được kết hợp lại để thu được lời giải cho bài toán ban đầu.",
+      "notation": null,
+      "chapter": "Chuyên đề 2. Thực hành thiết kế thuật toán theo kĩ thuật chia để trị",
+      "lesson": "Bài 6. Ý tưởng và kĩ thuật chia để trị",
+      "level": "chuyen_de",
+      "related_terms": [
+        "tin-cs-11-cac-buoc-chia-de-tri",
+        "tin-cs-11-thuat-toan-sap-xep-tron"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 72,
+          "printed_page": 71
+        },
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 29,
+          "printed_page": 28
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-cac-buoc-chia-de-tri",
+      "term": "các bước của kĩ thuật chia để trị",
+      "aliases": [
+        "chia để trị",
+        "kĩ thuật chia để trị",
+        "chia đề trị"
+      ],
+      "type": "tinh_chat",
+      "definition": "Kĩ thuật chia để trị gồm các bước: Chia bài toán ban đầu thành các bài toán nhỏ hơn; Trị (giải quyết) các bài toán nhỏ; Kết hợp lời giải của các bài toán nhỏ để thu được lời giải cho bài toán ban đầu.",
+      "notation": null,
+      "chapter": "Chuyên đề 2. Thực hành thiết kế thuật toán theo kĩ thuật chia để trị",
+      "lesson": "Bài 6. Ý tưởng và kĩ thuật chia để trị",
+      "level": "chuyen_de",
+      "related_terms": [
+        "tin-cs-11-thuat-toan-chia-de-tri"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 29,
+          "printed_page": 28
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-thuat-toan-sap-xep-tron",
+      "term": "thuật toán sắp xếp trộn",
+      "aliases": [
+        "sắp xếp trộn",
+        "Merge Sort"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Ý tưởng của thuật toán sắp xếp trộn được thực hiện qua 3 bước: Chia nhỏ dãy gốc thành các dãy với kích thước nhỏ hơn (bằng 1/2 dãy ban đầu), tiếp tục cho đến khi nhận được các dãy con đã sắp xếp đúng thì tiến hành trộn các dãy này để nhận được kết quả cuối cùng.",
+      "notation": "$O(n \\log n)$",
+      "chapter": "Chuyên đề 2. Thực hành thiết kế thuật toán theo kĩ thuật chia để trị",
+      "lesson": "Bài 9. Sắp xếp trộn",
+      "level": "chuyen_de",
+      "related_terms": [
+        "tin-cs-11-thuat-toan-chia-de-tri",
+        "tin-cs-11-ham-tron-hai-day-da-sap-xep"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 42,
+          "printed_page": 41
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-ham-tron-hai-day-da-sap-xep",
+      "term": "hàm trộn hai dãy đã sắp xếp",
+      "aliases": [
+        "thao tác trộn",
+        "Merge"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Thuật toán trộn hai dãy (merge algorithm): Giả sử cho trước hai dãy đã được sắp thứ tự B và C có số phần tử lần lượt là m, n. Thuật toán merge(B, C) sẽ thực hiện 'trộn' hai dãy trên và đưa kết quả vào dãy A.",
+      "notation": null,
+      "chapter": "Chuyên đề 2. Thực hành thiết kế thuật toán theo kĩ thuật chia để trị",
+      "lesson": "Bài 9. Sắp xếp trộn",
+      "level": "chuyen_de",
+      "related_terms": [
+        "tin-cs-11-thuat-toan-sap-xep-tron"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 42,
+          "printed_page": 41
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-ki-thuat-duyet",
+      "term": "kĩ thuật duyệt",
+      "aliases": [
+        "duyệt toàn bộ",
+        "vét cạn",
+        "Exhaustive Search",
+        "Brute Force"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Phần lớn các bài toán tìm kiếm trong thực tế đều có thể giải quyết bằng cách sử dụng kĩ thuật duyệt. Sau khi xác định được miền tìm kiếm, kĩ thuật duyệt sẽ lần lượt xét các dữ liệu trong miền tìm kiếm để đưa ra được phần tử thoả mãn.",
+      "notation": null,
+      "chapter": "Chuyên đề 3. Thực hành thiết kế thuật toán theo kĩ thuật duyệt",
+      "lesson": "Bài 11. Bài toán tìm kiếm và kĩ thuật duyệt",
+      "level": "chuyen_de",
+      "related_terms": [
+        "tin-cs-11-thuat-toan-quay-lui"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 49,
+          "printed_page": 48
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-thuat-toan-quay-lui",
+      "term": "thuật toán quay lui",
+      "aliases": [
+        "kĩ thuật quay lui",
+        "quay lui",
+        "Backtracking"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Kĩ thuật duyệt một cách có hệ thống trên không gian tìm kiếm, cho phép quay lui để chuyển sang nhánh tìm kiếm khác với mục đích không bỏ sót lời giải. Vì thế kĩ thuật này còn được gọi là quay lui - vét cạn.",
+      "notation": null,
+      "chapter": "Chuyên đề 3. Thực hành thiết kế thuật toán theo kĩ thuật duyệt",
+      "lesson": "Bài 13. Kĩ thuật duyệt quay lui",
+      "level": "chuyen_de",
+      "related_terms": [
+        "tin-cs-11-ki-thuat-duyet",
+        "tin-cs-11-so-do-tong-quat-quay-lui",
+        "tin-cs-11-bai-toan-xep-hau"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 72,
+          "printed_page": 71
+        },
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 57,
+          "printed_page": 56
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-so-do-tong-quat-quay-lui",
+      "term": "mô hình tổng quát của thuật toán duyệt quay lui",
+      "aliases": [
+        "mô hình tổng quát duyệt quay lui",
+        "thuật toán duyệt quay lui",
+        "sơ đồ quay lui"
+      ],
+      "type": "quy_tac",
+      "definition": "Mô hình tổng quát của thuật toán duyệt quay lui cần được thiết kế sao cho có thể dễ dàng cài đặt trên máy tính theo ngôn ngữ lập trình bậc cao bất kì, ví dụ như Python.",
+      "notation": "$\\text{Try}(i)$",
+      "chapter": "Chuyên đề 3. Thực hành thiết kế thuật toán theo kĩ thuật duyệt",
+      "lesson": "Bài 13. Kĩ thuật duyệt quay lui",
+      "level": "chuyen_de",
+      "related_terms": [
+        "tin-cs-11-thuat-toan-quay-lui"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 59,
+          "printed_page": 58
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "tin-cs-11-bai-toan-xep-hau",
+      "term": "bài toán xếp Hậu",
+      "aliases": [
+        "bài toán tám quân Hậu",
+        "N-Queens problem"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Bài toán xếp Hậu là bài toán tìm cách đặt n quân Hậu trên bàn cờ kích thước n x n sao cho không có hai quân Hậu nào khống chế nhau.",
+      "notation": null,
+      "chapter": "Chuyên đề 3. Thực hành thiết kế thuật toán theo kĩ thuật duyệt",
+      "lesson": "Bài 15. Bài toán xếp Hậu",
+      "level": "chuyen_de",
+      "related_terms": [
+        "tin-cs-11-thuat-toan-quay-lui"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TIN HOC 11 CS - KNTT.pdf",
+          "pdf_page": 64,
+          "printed_page": 63
+        }
+      ],
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,4644 @@
+{
+  "meta": {
+    "unit": "toan_11",
+    "subject": "toan",
+    "subject_name": "Toán",
+    "grade": 11,
+    "last_updated": "2026-10-19",
+    "term_count": 177
+  },
+  "terms": [
+    {
+      "id": "toan-11-goc-luong-giac",
+      "term": "Góc lượng giác",
+      "aliases": [
+        "Khái niệm góc lượng giác"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Trong mặt phẳng, cho hai tia $Ou, Ov$. Xét tia $Om$ cùng nằm trong mặt phẳng này. Nếu tia $Om$ quay quanh điểm $O$, theo một chiều nhất định từ $Ou$ đến $Ov$, thì ta nói nó quét một góc lượng giác với tia đầu $Ou$, tia cuối $Ov$ và kí hiệu là $(Ou, Ov)$.",
+      "notation": "(Ou, Ov)",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 1. Giá trị lượng giác của góc lượng giác",
+      "level": "co_ban",
+      "related_terms": [],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 7,
+          "printed_page": 6
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-chieu-quay-cua-goc-luong-giac",
+      "term": "Chiều quay của góc lượng giác",
+      "aliases": [
+        "Chiều quay",
+        "Chiều dương",
+        "Chiều âm"
+      ],
+      "type": "quy_tac",
+      "definition": "Quy ước: Chiều quay ngược với chiều quay của kim đồng hồ là chiều dương, chiều quay cùng chiều kim đồng hồ là chiều âm.",
+      "notation": null,
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 1. Giá trị lượng giác của góc lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-goc-luong-giac"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 7,
+          "printed_page": 6
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-so-do-cua-goc-luong-giac",
+      "term": "Số đo của góc lượng giác",
+      "aliases": [
+        "Số đo góc lượng giác"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Khi tia $Om$ quay góc $\\alpha^\\circ$ thì ta nói góc lượng giác mà tia đó quét nên có số đo $\\alpha^\\circ$. Số đo của góc lượng giác có tia đầu $Ou$, tia cuối $Ov$ được kí hiệu là $\\text{sđ}(Ou, Ov)$. Mỗi góc lượng giác gốc $O$ được xác định bởi tia đầu $Ou$, tia cuối $Ov$ và số đo của nó. Cho hai tia $Ou, Ov$ thì có vô số góc lượng giác tia đầu $Ou$, tia cuối $Ov$; số đo của các góc lượng giác này sai khác nhau một bội nguyên của $360^\\circ$.",
+      "notation": "\\text{sđ}(Ou, Ov)",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 1. Giá trị lượng giác của góc lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-goc-luong-giac"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 7,
+          "printed_page": 6
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-he-thuc-chasles",
+      "term": "Hệ thức Chasles",
+      "aliases": [
+        "Hệ thức Sa-lơ cho góc lượng giác"
+      ],
+      "type": "dinh_ly",
+      "definition": "Với ba tia $Ou, Ov, Ow$ bất kì, ta có: $\\text{sđ}(Ou, Ov) + \\text{sđ}(Ov, Ow) = \\text{sđ}(Ou, Ow) + k360^\\circ$ ($k \\in \\mathbb{Z}$). Từ hệ thức Chasles, với ba tia tuỳ ý $Ox, Ou, Ov$ ta có: $\\text{sđ}(Ou, Ov) = \\text{sđ}(Ox, Ov) - \\text{sđ}(Ox, Ou) + k360^\\circ$ ($k \\in \\mathbb{Z}$).",
+      "notation": "\\text{sđ}(Ou, Ov) + \\text{sđ}(Ov, Ow) = \\text{sđ}(Ou, Ow) + k360^\\circ",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 1. Giá trị lượng giác của góc lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-so-do-cua-goc-luong-giac"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 8,
+          "printed_page": 7
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-radian",
+      "term": "Rađian",
+      "aliases": [
+        "Đơn vị rađian"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Cho đường tròn $(O)$ tâm $O$, bán kính $R$ và một cung $AB$ trên $(O)$. Ta nói cung tròn $AB$ có số đo bằng $1\\text{ rađian}$ nếu độ dài của nó đúng bằng bán kính $R$. Khi đó góc $AOB$ có số đo bằng $1\\text{ rađian}$ và viết $\\widehat{AOB} = 1\\text{ rad}$. Quan hệ giữa độ và rađian: $1^\\circ = \\frac{\\pi}{180}\\text{ rad}$ và $1\\text{ rad} = \\left(\\frac{180}{\\pi}\\right)^\\circ$.",
+      "notation": "\\text{rad}",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 1. Giá trị lượng giác của góc lượng giác",
+      "level": "co_ban",
+      "related_terms": [],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 9,
+          "printed_page": 8
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-cong-thuc-do-dai-cung-tron",
+      "term": "Độ dài cung tròn",
+      "aliases": [
+        "Công thức tính độ dài cung tròn"
+      ],
+      "type": "cong_thuc",
+      "definition": "Một cung của đường tròn bán kính $R$ và có số đo $\\alpha\\text{ rad}$ thì có độ dài $l = R\\alpha$.",
+      "notation": "l = R\\alpha",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 1. Giá trị lượng giác của góc lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-radian"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 10,
+          "printed_page": 9
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-duong-tron-luong-giac",
+      "term": "Đường tròn lượng giác",
+      "aliases": [],
+      "type": "dinh_nghia",
+      "definition": "Đường tròn lượng giác là đường tròn có tâm tại gốc toạ độ, bán kính bằng $1$, được định hướng và lấy điểm $A(1; 0)$ làm điểm gốc của đường tròn. Điểm trên đường tròn lượng giác biểu diễn góc lượng giác có số đo $\\alpha$ (độ hoặc rađian) là điểm $M$ trên đường tròn lượng giác sao cho $\\text{sđ}(OA, OM) = \\alpha$.",
+      "notation": null,
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 1. Giá trị lượng giác của góc lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-goc-luong-giac"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 11,
+          "printed_page": 10
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-gia-tri-luong-giac-cua-goc-luong-giac",
+      "term": "Giá trị lượng giác của góc lượng giác",
+      "aliases": [
+        "Các giá trị lượng giác của góc lượng giác"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Giả sử $M(x; y)$ là điểm trên đường tròn lượng giác, biểu diễn góc lượng giác có số đo $\\alpha$. Hoành độ $x$ của điểm $M$ được gọi là côsin của $\\alpha$, kí hiệu là $\\cos\\alpha = x$. Tung độ $y$ của điểm $M$ được gọi là sin của $\\alpha$, kí hiệu là $\\sin\\alpha = y$. Nếu $\\cos\\alpha \\ne 0$, tỉ số $\\frac{\\sin\\alpha}{\\cos\\alpha} = \\frac{y}{x}$ được gọi là tang của $\\alpha$, kí hiệu là $\\tan\\alpha$. Nếu $\\sin\\alpha \\ne 0$, tỉ số $\\frac{\\cos\\alpha}{\\sin\\alpha} = \\frac{x}{y}$ được gọi là côtang của $\\alpha$, kí hiệu là $\\cot\\alpha$. Các giá trị $\\cos\\alpha, \\sin\\alpha, \\tan\\alpha, \\cot\\alpha$ được gọi là các giá trị lượng giác của $\\alpha$.",
+      "notation": "\\sin\\alpha, \\cos\\alpha, \\tan\\alpha, \\cot\\alpha",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 1. Giá trị lượng giác của góc lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-duong-tron-luong-giac",
+        "toan-10-gia-tri-luong-giac-cua-mot-goc"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 12,
+          "printed_page": 11
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-truc-sin-truc-cosin",
+      "term": "Trục sin và trục côsin",
+      "aliases": [
+        "Trục sin",
+        "Trục côsin"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Trên mặt phẳng toạ độ chứa đường tròn lượng giác, ta gọi trục tung là trục sin, trục hoành là trục côsin.",
+      "notation": null,
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 1. Giá trị lượng giác của góc lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-duong-tron-luong-giac",
+        "toan-11-gia-tri-luong-giac-cua-goc-luong-giac"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 12,
+          "printed_page": 11
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-he-thuc-luong-giac-co-ban",
+      "term": "Hệ thức lượng giác cơ bản",
+      "aliases": [
+        "Các công thức lượng giác cơ bản"
+      ],
+      "type": "cong_thuc",
+      "definition": "Đối với các giá trị lượng giác, ta có các hệ thức cơ bản sau: $\\sin^2\\alpha + \\cos^2\\alpha = 1$; $1 + \\tan^2\\alpha = \\frac{1}{\\cos^2\\alpha}$ ($\\alpha \\ne \\frac{\\pi}{2} + k\\pi, k \\in \\mathbb{Z}$); $1 + \\cot^2\\alpha = \\frac{1}{\\sin^2\\alpha}$ ($\\alpha \\ne k\\pi, k \\in \\mathbb{Z}$); $\\tan\\alpha \\cdot \\cot\\alpha = 1$ ($\\alpha \\ne k\\frac{\\pi}{2}, k \\in \\mathbb{Z}$).",
+      "notation": "\\sin^2\\alpha + \\cos^2\\alpha = 1",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 1. Giá trị lượng giác của góc lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-gia-tri-luong-giac-cua-goc-luong-giac",
+        "toan-10-he-thuc-co-ban-luong-giac"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 15,
+          "printed_page": 14
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-gia-tri-luong-giac-cua-cac-goc-co-lien-quan-dac-biet",
+      "term": "Giá trị lượng giác của các góc có liên quan đặc biệt",
+      "aliases": [
+        "Góc đối nhau, bù nhau, hơn kém pi, phụ nhau"
+      ],
+      "type": "tinh_chat",
+      "definition": "Quan hệ giữa các giá trị lượng giác của các góc có liên quan đặc biệt: góc đối nhau ($\\cos(-\\alpha) = \\cos\\alpha$, $\\sin(-\\alpha) = -\\sin\\alpha$, $\\tan(-\\alpha) = -\\tan\\alpha$, $\\cot(-\\alpha) = -\\cot\\alpha$); góc bù nhau ($\\sin(\\pi - \\alpha) = \\sin\\alpha$, $\\cos(\\pi - \\alpha) = -\\cos\\alpha$, $\\tan(\\pi - \\alpha) = -\\tan\\alpha$, $\\cot(\\pi - \\alpha) = -\\cot\\alpha$); góc hơn kém nhau $\\pi$ ($\\sin(\\pi + \\alpha) = -\\sin\\alpha$, $\\cos(\\pi + \\alpha) = -\\cos\\alpha$, $\\tan(\\pi + \\alpha) = \\tan\\alpha$, $\\cot(\\pi + \\alpha) = \\cot\\alpha$); góc phụ nhau ($\\sin(\\frac{\\pi}{2} - \\alpha) = \\cos\\alpha$, $\\cos(\\frac{\\pi}{2} - \\alpha) = \\sin\\alpha$, $\\tan(\\frac{\\pi}{2} - \\alpha) = \\cot\\alpha$, $\\cot(\\frac{\\pi}{2} - \\alpha) = \\tan\\alpha$).",
+      "notation": null,
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 1. Giá trị lượng giác của góc lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-gia-tri-luong-giac-cua-goc-luong-giac"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 15,
+          "printed_page": 14
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-cong-thuc-cong",
+      "term": "Công thức cộng",
+      "aliases": [
+        "Công thức cộng lượng giác"
+      ],
+      "type": "cong_thuc",
+      "definition": "Công thức cộng: $\\cos(a - b) = \\cos a \\cos b + \\sin a \\sin b$; $\\cos(a + b) = \\cos a \\cos b - \\sin a \\sin b$; $\\sin(a - b) = \\sin a \\cos b - \\cos a \\sin b$; $\\sin(a + b) = \\sin a \\cos b + \\cos a \\sin b$; $\\tan(a - b) = \\frac{\\tan a - \\tan b}{1 + \\tan a \\tan b}$; $\\tan(a + b) = \\frac{\\tan a + \\tan b}{1 - \\tan a \\tan b}$ (giả thiết các biểu thức đều có nghĩa).",
+      "notation": "\\cos(a \\pm b), \\sin(a \\pm b), \\tan(a \\pm b)",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 2. Công thức lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-gia-tri-luong-giac-cua-goc-luong-giac"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 18,
+          "printed_page": 17
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-cong-thuc-nhan-doi",
+      "term": "Công thức nhân đôi",
+      "aliases": [
+        "Công thức góc nhân đôi"
+      ],
+      "type": "cong_thuc",
+      "definition": "Lấy $b = a$ trong các công thức cộng, ta có công thức nhân đôi: $\\sin 2a = 2\\sin a \\cos a$; $\\cos 2a = \\cos^2 a - \\sin^2 a = 2\\cos^2 a - 1 = 1 - 2\\sin^2 a$; $\\tan 2a = \\frac{2\\tan a}{1 - \\tan^2 a}$ (khi các biểu thức đều có nghĩa).",
+      "notation": "\\sin 2a, \\cos 2a, \\tan 2a",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 2. Công thức lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-cong-thuc-cong"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 19,
+          "printed_page": 18
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-cong-thuc-ha-bac",
+      "term": "Công thức hạ bậc",
+      "aliases": [
+        "Công thức hạ bậc lượng giác"
+      ],
+      "type": "cong_thuc",
+      "definition": "Công thức hạ bậc: $\\cos^2 a = \\frac{1 + \\cos 2a}{2}$; $\\sin^2 a = \\frac{1 - \\cos 2a}{2}$.",
+      "notation": "\\cos^2 a = \\frac{1 + \\cos 2a}{2}",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 2. Công thức lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-cong-thuc-nhan-doi"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 20,
+          "printed_page": 19
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-cong-thuc-bien-doi-tich-thanh-tong",
+      "term": "Công thức biến đổi tích thành tổng",
+      "aliases": [
+        "Biến đổi tích thành tổng"
+      ],
+      "type": "cong_thuc",
+      "definition": "Công thức biến đổi tích thành tổng: $\\cos a \\cos b = \\frac{1}{2}[\\cos(a - b) + \\cos(a + b)]$; $\\sin a \\sin b = \\frac{1}{2}[\\cos(a - b) - \\cos(a + b)]$; $\\sin a \\cos b = \\frac{1}{2}[\\sin(a - b) + \\sin(a + b)]$.",
+      "notation": "\\cos a \\cos b, \\sin a \\sin b, \\sin a \\cos b",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 2. Công thức lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-cong-thuc-cong"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 20,
+          "printed_page": 19
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-cong-thuc-bien-doi-tong-thanh-tich",
+      "term": "Công thức biến đổi tổng thành tích",
+      "aliases": [
+        "Biến đổi tổng thành tích"
+      ],
+      "type": "cong_thuc",
+      "definition": "Công thức biến đổi tổng thành tích: $\\cos u + \\cos v = 2\\cos\\frac{u + v}{2} \\cos\\frac{u - v}{2}$; $\\cos u - \\cos v = -2\\sin\\frac{u + v}{2} \\sin\\frac{u - v}{2}$; $\\sin u + \\sin v = 2\\sin\\frac{u + v}{2} \\cos\\frac{u - v}{2}$; $\\sin u - \\sin v = 2\\cos\\frac{u + v}{2} \\sin\\frac{u - v}{2}$.",
+      "notation": "\\cos u \\pm \\cos v, \\sin u \\pm \\sin v",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 2. Công thức lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-cong-thuc-bien-doi-tich-thanh-tong"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 21,
+          "printed_page": 20
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-ham-so-sin",
+      "term": "Hàm số sin",
+      "aliases": [
+        "Hàm số y = sin x"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Quy tắc đặt tương ứng mỗi số thực $x$ với số thực $\\sin x$ được gọi là hàm số sin, kí hiệu là $y = \\sin x$. Tập xác định của hàm số sin là $\\mathbb{R}$.",
+      "notation": "y = \\sin x",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 3. Hàm số lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-gia-tri-luong-giac-cua-goc-luong-giac",
+        "toan-10-ham-so"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 24,
+          "printed_page": 23
+        },
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 27,
+          "printed_page": 26
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-ham-so-cosin",
+      "term": "Hàm số côsin",
+      "aliases": [
+        "Hàm số y = cos x"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Quy tắc đặt tương ứng mỗi số thực $x$ với số thực $\\cos x$ được gọi là hàm số côsin, kí hiệu là $y = \\cos x$. Tập xác định của hàm số côsin là $\\mathbb{R}$, tập giá trị là $[-1; 1]$. Hàm số côsin là hàm số chẵn, tuần hoàn với chu kì $2\\pi$, đồng biến trên mỗi khoảng $(-\\pi + k2\\pi; k2\\pi)$ và nghịch biến trên mỗi khoảng $(k2\\pi; \\pi + k2\\pi)$ ($k \\in \\mathbb{Z}$). Đồ thị là một đường hình sin đối xứng qua trục tung.",
+      "notation": "y = \\cos x",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 3. Hàm số lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-gia-tri-luong-giac-cua-goc-luong-giac",
+        "toan-10-ham-so"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 24,
+          "printed_page": 23
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-ham-so-tang",
+      "term": "Hàm số tang",
+      "aliases": [
+        "Hàm số y = tan x"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hàm số cho bằng công thức $y = \\frac{\\sin x}{\\cos x}$ được gọi là hàm số tang, kí hiệu là $y = \\tan x$. Tập xác định của hàm số tang là $\\mathbb{R} \\setminus \\left\\{\\frac{\\pi}{2} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}$, tập giá trị là $\\mathbb{R}$. Hàm số tang là hàm số lẻ, tuần hoàn với chu kì $\\pi$, đồng biến trên mỗi khoảng $\\left(-\\frac{\\pi}{2} + k\\pi; \\frac{\\pi}{2} + k\\pi\\right)$ ($k \\in \\mathbb{Z}$). Đồ thị đối xứng qua gốc toạ độ.",
+      "notation": "y = \\tan x",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 3. Hàm số lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-gia-tri-luong-giac-cua-goc-luong-giac"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 24,
+          "printed_page": 23
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-ham-so-cotang",
+      "term": "Hàm số côtang",
+      "aliases": [
+        "Hàm số y = cot x"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hàm số cho bằng công thức $y = \\frac{\\cos x}{\\sin x}$ được gọi là hàm số côtang, kí hiệu là $y = \\cot x$. Tập xác định của hàm số côtang là $\\mathbb{R} \\setminus \\{k\\pi \\mid k \\in \\mathbb{Z}\\}$, tập giá trị là $\\mathbb{R}$. Hàm số côtang là hàm số lẻ, tuần hoàn với chu kì $\\pi$, nghịch biến trên mỗi khoảng $(k\\pi; \\pi + k\\pi)$ ($k \\in \\mathbb{Z}$). Đồ thị đối xứng qua gốc toạ độ.",
+      "notation": "y = \\cot x",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 3. Hàm số lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-gia-tri-luong-giac-cua-goc-luong-giac"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 24,
+          "printed_page": 23
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-ham-so-chan-le",
+      "term": "Hàm số chẵn và hàm số lẻ",
+      "aliases": [
+        "Hàm số chẵn",
+        "Hàm số lẻ"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hàm số $y = f(x)$ có tập xác định $D$ được gọi là hàm số chẵn nếu với mọi $x \\in D$ thì $-x \\in D$ và $f(-x) = f(x)$. Hàm số $y = f(x)$ có tập xác định $D$ được gọi là hàm số lẻ nếu với mọi $x \\in D$ thì $-x \\in D$ và $f(-x) = -f(x)$. Đồ thị hàm số chẵn nhận trục tung làm trục đối xứng; đồ thị hàm số lẻ nhận gốc toạ độ làm tâm đối xứng.",
+      "notation": null,
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 3. Hàm số lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-10-ham-so"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 25,
+          "printed_page": 24
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-ham-so-tuan-hoan",
+      "term": "Hàm số tuần hoàn",
+      "aliases": [
+        "Chu kì của hàm số tuần hoàn"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hàm số $y = f(x)$ có tập xác định $D$ được gọi là hàm số tuần hoàn nếu tồn tại số $T \\ne 0$ sao cho với mọi $x \\in D$ ta có $x \\pm T \\in D$ và $f(x + T) = f(x)$. Số $T$ dương nhỏ nhất thoả mãn các điều kiện trên (nếu có) được gọi là chu kì của hàm số tuần hoàn đó. Các hàm số $y = \\sin x$ và $y = \\cos x$ tuần hoàn với chu kì $2\\pi$; các hàm số $y = \\tan x$ và $y = \\cot x$ tuần hoàn với chu kì $\\pi$.",
+      "notation": "T",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 3. Hàm số lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-ham-so-sin",
+        "toan-11-ham-so-cosin"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 25,
+          "printed_page": 24
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-duong-hinh-sin",
+      "term": "Đường hình sin",
+      "aliases": [
+        "Đồ thị hàm số sin"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Đồ thị của các hàm số $y = \\sin x$ và $y = \\cos x$ được gọi là đường hình sin.",
+      "notation": null,
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 3. Hàm số lượng giác",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-ham-so-sin",
+        "toan-11-ham-so-cosin"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 27,
+          "printed_page": 26
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hai-phuong-trinh-tuong-duong",
+      "term": "Hai phương trình tương đương",
+      "aliases": [
+        "Phương trình tương đương"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hai phương trình được gọi là tương đương khi chúng có cùng tập nghiệm. Nếu phương trình $f(x) = 0$ tương đương với phương trình $g(x) = 0$ thì ta viết $f(x) = 0 \\Leftrightarrow g(x) = 0$. Chú ý: Hai phương trình vô nghiệm là tương đương.",
+      "notation": "f(x) = 0 \\Leftrightarrow g(x) = 0",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 4. Phương trình lượng giác cơ bản",
+      "level": "co_ban",
+      "related_terms": [],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 32,
+          "printed_page": 31
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phuong-trinh-sin-x-bang-m",
+      "term": "Phương trình $\\sin x = m$",
+      "aliases": [
+        "Công thức nghiệm phương trình sin x = m"
+      ],
+      "type": "cong_thuc",
+      "definition": "Phương trình $\\sin x = m$ có nghiệm khi và chỉ khi $|m| \\le 1$. Khi $|m| \\le 1$, tồn tại duy nhất $\\alpha \\in \\left[-\\frac{\\pi}{2}; \\frac{\\pi}{2}\\right]$ thoả mãn $\\sin\\alpha = m$. Khi đó: $\\sin x = m \\Leftrightarrow \\sin x = \\sin\\alpha \\Leftrightarrow x = \\alpha + k2\\pi$ hoặc $x = \\pi - \\alpha + k2\\pi$ ($k \\in \\mathbb{Z}$). Nếu $|m| > 1$, phương trình vô nghiệm.",
+      "notation": "\\sin x = m",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 4. Phương trình lượng giác cơ bản",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-ham-so-sin"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 34,
+          "printed_page": 33
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phuong-trinh-cos-x-bang-m",
+      "term": "Phương trình $\\cos x = m$",
+      "aliases": [
+        "Công thức nghiệm phương trình cos x = m"
+      ],
+      "type": "cong_thuc",
+      "definition": "Phương trình $\\cos x = m$ có nghiệm khi và chỉ khi $|m| \\le 1$. Khi $|m| \\le 1$, tồn tại duy nhất $\\alpha \\in [0; \\pi]$ thoả mãn $\\cos\\alpha = m$. Khi đó: $\\cos x = m \\Leftrightarrow \\cos x = \\cos\\alpha \\Leftrightarrow x = \\alpha + k2\\pi$ hoặc $x = -\\alpha + k2\\pi$ ($k \\in \\mathbb{Z}$). Nếu $|m| > 1$, phương trình vô nghiệm.",
+      "notation": "\\cos x = m",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 4. Phương trình lượng giác cơ bản",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-ham-so-cosin"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 36,
+          "printed_page": 35
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phuong-trinh-tan-x-bang-m",
+      "term": "Phương trình $\\tan x = m$",
+      "aliases": [
+        "Công thức nghiệm phương trình tan x = m"
+      ],
+      "type": "cong_thuc",
+      "definition": "Phương trình $\\tan x = m$ có nghiệm với mọi $m$. Với mọi $m \\in \\mathbb{R}$, tồn tại duy nhất $\\alpha \\in \\left(-\\frac{\\pi}{2}; \\frac{\\pi}{2}\\right)$ thoả mãn $\\tan\\alpha = m$. Khi đó: $\\tan x = m \\Leftrightarrow \\tan x = \\tan\\alpha \\Leftrightarrow x = \\alpha + k\\pi$ ($k \\in \\mathbb{Z}$).",
+      "notation": "\\tan x = m",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 4. Phương trình lượng giác cơ bản",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-ham-so-tang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 37,
+          "printed_page": 36
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phuong-trinh-cot-x-bang-m",
+      "term": "Phương trình $\\cot x = m$",
+      "aliases": [
+        "Công thức nghiệm phương trình cot x = m"
+      ],
+      "type": "cong_thuc",
+      "definition": "Phương trình $\\cot x = m$ có nghiệm với mọi $m$. Với mọi $m \\in \\mathbb{R}$, tồn tại duy nhất $\\alpha \\in (0; \\pi)$ thoả mãn $\\cot\\alpha = m$. Khi đó: $\\cot x = m \\Leftrightarrow \\cot x = \\cot\\alpha \\Leftrightarrow x = \\alpha + k\\pi$ ($k \\in \\mathbb{Z}$).",
+      "notation": "\\cot x = m",
+      "chapter": "Chương I. Hàm số lượng giác và phương trình lượng giác",
+      "lesson": "Bài 4. Phương trình lượng giác cơ bản",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-ham-so-cotang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 38,
+          "printed_page": 37
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-day-so-vo-han",
+      "term": "Dãy số vô hạn",
+      "aliases": [
+        "Dãy số"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Mỗi hàm số $u$ xác định trên tập các số nguyên dương $\\mathbb{N}^*$ được gọi là một dãy số vô hạn (gọi tắt là dãy số), kí hiệu là $u = u(n)$. Ta thường viết $u_n$ thay cho $u(n)$ và kí hiệu dãy số $u = u(n)$ bởi $(u_n)$, viết dưới dạng khai triển $u_1, u_2, u_3, \\dots, u_n, \\dots$. Số $u_1$ gọi là số hạng đầu, $u_n$ là số hạng thứ $n$ và gọi là số hạng tổng quát của dãy số.",
+      "notation": "(u_n)",
+      "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+      "lesson": "Bài 5. Dãy số",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-10-ham-so"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 43,
+          "printed_page": 42
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-day-so-khong-doi",
+      "term": "Dãy số không đổi",
+      "aliases": [
+        "Dãy số hằng"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Nếu $u_n = c$ thì $(u_n)$ được gọi là dãy số không đổi.",
+      "notation": null,
+      "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+      "lesson": "Bài 5. Dãy số",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-day-so-vo-han"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 43,
+          "printed_page": 42
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-day-so-huu-han",
+      "term": "Dãy số hữu hạn",
+      "aliases": [],
+      "type": "dinh_nghia",
+      "definition": "Mỗi hàm số $u$ xác định trên tập hợp $M = \\{1, 2, 3, \\dots, m\\}$ ($m \\in \\mathbb{N}^*$) được gọi là một dãy số hữu hạn. Dạng khai triển của dãy số hữu hạn là $u_1, u_2, \\dots, u_m$. Số $u_1$ gọi là số hạng đầu, số $u_m$ gọi là số hạng cuối của dãy số.",
+      "notation": "u_1, u_2, \\dots, u_m",
+      "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+      "lesson": "Bài 5. Dãy số",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-day-so-vo-han"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 44,
+          "printed_page": 43
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-he-thuc-truy-hoi",
+      "term": "Hệ thức truy hồi",
+      "aliases": [
+        "Phương pháp truy hồi cho dãy số"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hệ thức truy hồi là hệ thức biểu thị số hạng của dãy số qua số hạng (hay các số hạng) đứng trước nó. Một dãy số có thể cho bằng phương pháp truy hồi: cho số hạng đầu (hay vài số hạng đầu) và hệ thức truy hồi.",
+      "notation": null,
+      "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+      "lesson": "Bài 5. Dãy số",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-day-so-vo-han"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 45,
+          "printed_page": 44
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-day-so-tang-day-so-giam",
+      "term": "Dãy số tăng và dãy số giảm",
+      "aliases": [
+        "Dãy số tăng",
+        "Dãy số giảm"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Dãy số $(u_n)$ được gọi là dãy số tăng nếu ta có $u_{n+1} > u_n$ với mọi $n \\in \\mathbb{N}^*$. Dãy số $(u_n)$ được gọi là dãy số giảm nếu ta có $u_{n+1} < u_n$ với mọi $n \\in \\mathbb{N}^*$.",
+      "notation": "u_{n+1} > u_n, u_{n+1} < u_n",
+      "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+      "lesson": "Bài 5. Dãy số",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-day-so-vo-han"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 46,
+          "printed_page": 45
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-day-so-bi-chan",
+      "term": "Dãy số bị chặn",
+      "aliases": [
+        "Dãy số bị chặn trên",
+        "Dãy số bị chặn dưới"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Dãy số $(u_n)$ được gọi là bị chặn trên nếu tồn tại một số $M$ sao cho $u_n \\le M$ với mọi $n \\in \\mathbb{N}^*$. Dãy số $(u_n)$ được gọi là bị chặn dưới nếu tồn tại một số $m$ sao cho $u_n \\ge m$ với mọi $n \\in \\mathbb{N}^*$. Dãy số $(u_n)$ được gọi là bị chặn nếu nó vừa bị chặn trên vừa bị chặn dưới, tức là tồn tại các số $m, M$ sao cho $m \\le u_n \\le M$ với mọi $n \\in \\mathbb{N}^*$.",
+      "notation": "m \\le u_n \\le M",
+      "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+      "lesson": "Bài 5. Dãy số",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-day-so-vo-han"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 46,
+          "printed_page": 45
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-cap-so-cong",
+      "term": "Cấp số cộng",
+      "aliases": [],
+      "type": "dinh_nghia",
+      "definition": "Cấp số cộng là một dãy số (hữu hạn hay vô hạn), trong đó kể từ số hạng thứ hai, mỗi số hạng đều bằng số hạng đứng ngay trước nó cộng với một số không đổi $d$. Số $d$ được gọi là công sai của cấp số cộng. Cấp số cộng $(u_n)$ với công sai $d$ được cho bởi hệ thức truy hồi: $u_1 = a; u_n = u_{n-1} + d$ ($n \\ge 2$).",
+      "notation": "u_n = u_{n-1} + d",
+      "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+      "lesson": "Bài 6. Cấp số cộng",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-day-so-vo-han",
+        "toan-11-he-thuc-truy-hoi"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 49,
+          "printed_page": 48
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-cong-sai",
+      "term": "Công sai",
+      "aliases": [
+        "Công sai của cấp số cộng"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Số không đổi $d$ trong định nghĩa cấp số cộng được gọi là công sai của cấp số cộng. Khi $d = 0$, cấp số cộng là một dãy số không đổi.",
+      "notation": "d",
+      "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+      "lesson": "Bài 6. Cấp số cộng",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-cap-so-cong"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 49,
+          "printed_page": 48
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-so-hang-tong-quat-cap-so-cong",
+      "term": "Số hạng tổng quát của cấp số cộng",
+      "aliases": [
+        "Công thức số hạng tổng quát cấp số cộng"
+      ],
+      "type": "cong_thuc",
+      "definition": "Nếu cấp số cộng $(u_n)$ có số hạng đầu $u_1$ và công sai $d$ thì số hạng tổng quát $u_n$ của nó được xác định bởi công thức: $u_n = u_1 + (n - 1)d$ với mọi $n \\ge 2$.",
+      "notation": "u_n = u_1 + (n - 1)d",
+      "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+      "lesson": "Bài 6. Cấp số cộng",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-cap-so-cong",
+        "toan-11-cong-sai"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 50,
+          "printed_page": 49
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tong-n-so-hang-dau-cap-so-cong",
+      "term": "Tổng $n$ số hạng đầu của cấp số cộng",
+      "aliases": [
+        "Tổng n số hạng đầu tiên của cấp số cộng"
+      ],
+      "type": "cong_thuc",
+      "definition": "Cho cấp số cộng $(u_n)$ với công sai $d$. Đặt $S_n = u_1 + u_2 + \\dots + u_n$. Khi đó: $S_n = \\frac{n(u_1 + u_n)}{2} = \\frac{n[2u_1 + (n - 1)d]}{2}$.",
+      "notation": "S_n = \\frac{n(u_1 + u_n)}{2}",
+      "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+      "lesson": "Bài 6. Cấp số cộng",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-cap-so-cong",
+        "toan-11-so-hang-tong-quat-cap-so-cong"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 51,
+          "printed_page": 50
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-cap-so-nhan",
+      "term": "Cấp số nhân",
+      "aliases": [],
+      "type": "dinh_nghia",
+      "definition": "Cấp số nhân là một dãy số (hữu hạn hay vô hạn), trong đó kể từ số hạng thứ hai, mỗi số hạng đều bằng tích của số hạng đứng ngay trước nó với một số không đổi $q$. Số $q$ được gọi là công bội của cấp số nhân. Cấp số nhân $(u_n)$ với công bội $q$ được cho bởi hệ thức truy hồi: $u_1 = a; u_n = u_{n-1} \\cdot q$ ($n \\ge 2$).",
+      "notation": "u_n = u_{n-1} \\cdot q",
+      "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+      "lesson": "Bài 7. Cấp số nhân",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-day-so-vo-han",
+        "toan-11-he-thuc-truy-hoi"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 53,
+          "printed_page": 52
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-cong-boi",
+      "term": "Công bội",
+      "aliases": [
+        "Công bội của cấp số nhân"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Số không đổi $q$ trong định nghĩa cấp số nhân được gọi là công bội của cấp số nhân.",
+      "notation": "q",
+      "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+      "lesson": "Bài 7. Cấp số nhân",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-cap-so-nhan"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 53,
+          "printed_page": 52
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-so-hang-tong-quat-cap-so-nhan",
+      "term": "Số hạng tổng quát của cấp số nhân",
+      "aliases": [
+        "Công thức số hạng tổng quát cấp số nhân"
+      ],
+      "type": "cong_thuc",
+      "definition": "Nếu một cấp số nhân có số hạng đầu $u_1$ và công bội $q$ thì số hạng tổng quát $u_n$ của nó được xác định bởi công thức: $u_n = u_1 \\cdot q^{n-1}$ với mọi $n \\ge 2$.",
+      "notation": "u_n = u_1 \\cdot q^{n-1}",
+      "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+      "lesson": "Bài 7. Cấp số nhân",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-cap-so-nhan",
+        "toan-11-cong-boi"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 54,
+          "printed_page": 53
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tong-n-so-hang-dau-cap-so-nhan",
+      "term": "Tổng $n$ số hạng đầu của cấp số nhân",
+      "aliases": [
+        "Tổng n số hạng đầu tiên của cấp số nhân"
+      ],
+      "type": "cong_thuc",
+      "definition": "Cho cấp số nhân $(u_n)$ với công bội $q \\ne 1$. Đặt $S_n = u_1 + u_2 + \\dots + u_n$. Khi đó: $S_n = \\frac{u_1(1 - q^n)}{1 - q}$. Nếu $q = 1$ thì cấp số nhân là $u_1, u_1, \\dots, u_1, \\dots$ và $S_n = n u_1$.",
+      "notation": "S_n = \\frac{u_1(1 - q^n)}{1 - q}",
+      "chapter": "Chương II. Dãy số. Cấp số cộng và cấp số nhân",
+      "lesson": "Bài 7. Cấp số nhân",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-cap-so-nhan",
+        "toan-11-so-hang-tong-quat-cap-so-nhan"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 55,
+          "printed_page": 54
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-mau-so-lieu-ghep-nhom",
+      "term": "Mẫu số liệu ghép nhóm",
+      "aliases": [
+        "Bảng tần số ghép nhóm"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Mẫu số liệu ghép nhóm là mẫu số liệu cho dưới dạng bảng tần số của các nhóm số liệu. Mỗi nhóm số liệu là tập hợp gồm các giá trị của số liệu được ghép nhóm theo một tiêu chí xác định.",
+      "notation": null,
+      "chapter": "Chương III. Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "lesson": "Bài 8. Mẫu số liệu ghép nhóm",
+      "level": "co_ban",
+      "related_terms": [],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 60,
+          "printed_page": 59
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-do-dai-cua-nhom",
+      "term": "Độ dài của nhóm",
+      "aliases": [
+        "Độ rộng của nhóm"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Độ dài của nhóm $[a; b)$ là $b - a$.",
+      "notation": "b - a",
+      "chapter": "Chương III. Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "lesson": "Bài 8. Mẫu số liệu ghép nhóm",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-mau-so-lieu-ghep-nhom"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 61,
+          "printed_page": 60
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-gia-tri-dai-dien-cua-nhom",
+      "term": "Giá trị đại diện của nhóm",
+      "aliases": [
+        "Giá trị đại diện"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Giá trị đại diện của nhóm là trung bình cộng của giá trị hai đầu mút của nhóm đó.",
+      "notation": "c_i = \\frac{a_i + a_{i+1}}{2}",
+      "chapter": "Chương III. Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "lesson": "Bài 8. Mẫu số liệu ghép nhóm",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-mau-so-lieu-ghep-nhom"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 64,
+          "printed_page": 63
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-so-trung-binh-mau-ghep-nhom",
+      "term": "Số trung bình của mẫu số liệu ghép nhóm",
+      "aliases": [
+        "Số trung bình mẫu ghép nhóm"
+      ],
+      "type": "cong_thuc",
+      "definition": "Số trung bình của mẫu số liệu ghép nhóm xấp xỉ cho số trung bình của mẫu số liệu gốc, được tính theo công thức: $\\bar{x} = \\frac{m_1 c_1 + m_2 c_2 + \\dots + m_k c_k}{n}$, trong đó $n = m_1 + m_2 + \\dots + m_k$ là cỡ mẫu và $c_i$ là giá trị đại diện của nhóm thứ $i$.",
+      "notation": "\\bar{x}",
+      "chapter": "Chương III. Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "lesson": "Bài 9. Các số đặc trưng đo xu thế trung tâm",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-gia-tri-dai-dien-cua-nhom"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 64,
+          "printed_page": 63
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-trung-vi-mau-ghep-nhom",
+      "term": "Trung vị của mẫu số liệu ghép nhóm",
+      "aliases": [
+        "Trung vị mẫu ghép nhóm"
+      ],
+      "type": "cong_thuc",
+      "definition": "Để tính trung vị của mẫu số liệu ghép nhóm, ta làm như sau: Bước 1. Xác định nhóm chứa trung vị, giả sử là nhóm thứ $p$: $[a_p; a_{p+1})$. Bước 2. Trung vị là $M_e = a_p + \\frac{\\frac{n}{2} - (m_1 + \\dots + m_{p-1})}{m_p}(a_{p+1} - a_p)$, trong đó $n$ là cỡ mẫu, $m_p$ là tần số của nhóm $p$ và quy ước $m_0 = 0$.",
+      "notation": "M_e",
+      "chapter": "Chương III. Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "lesson": "Bài 9. Các số đặc trưng đo xu thế trung tâm",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-mau-so-lieu-ghep-nhom"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 65,
+          "printed_page": 64
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tu-phan-vi-mau-ghep-nhom",
+      "term": "Tứ phân vị của mẫu số liệu ghép nhóm",
+      "aliases": [
+        "Tứ phân vị mẫu ghép nhóm"
+      ],
+      "type": "cong_thuc",
+      "definition": "Để tính tứ phân vị thứ nhất $Q_1$ của mẫu số liệu ghép nhóm, trước hết ta xác định nhóm chứa $Q_1$, giả sử là nhóm thứ $p$: $[a_p; a_{p+1})$. Khi đó: $Q_1 = a_p + \\frac{\\frac{n}{4} - (m_1 + \\dots + m_{p-1})}{m_p}(a_{p+1} - a_p)$. Để tính tứ phân vị thứ ba $Q_3$, trước hết ta xác định nhóm chứa $Q_3$, giả sử là nhóm thứ $p$: $[a_p; a_{p+1})$. Khi đó: $Q_3 = a_p + \\frac{\\frac{3n}{4} - (m_1 + \\dots + m_{p-1})}{m_p}(a_{p+1} - a_p)$. Tứ phân vị thứ hai $Q_2$ chính là trung vị $M_e$.",
+      "notation": "Q_1, Q_2, Q_3",
+      "chapter": "Chương III. Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "lesson": "Bài 9. Các số đặc trưng đo xu thế trung tâm",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-trung-vi-mau-ghep-nhom"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 66,
+          "printed_page": 65
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-mot-mau-ghep-nhom",
+      "term": "Mốt của mẫu số liệu ghép nhóm",
+      "aliases": [
+        "Mốt mẫu ghép nhóm"
+      ],
+      "type": "cong_thuc",
+      "definition": "Để tìm mốt của mẫu số liệu ghép nhóm, ta thực hiện theo các bước sau: Bước 1. Xác định nhóm có tần số lớn nhất (gọi là nhóm chứa mốt), giả sử là nhóm $j$: $[a_j; a_{j+1})$. Bước 2. Mốt được xác định là: $M_o = a_j + \\frac{m_j - m_{j-1}}{(m_j - m_{j-1}) + (m_j - m_{j+1})} \\cdot h$, trong đó $m_j$ là tần số của nhóm $j$ (quy ước $m_0 = m_{k+1} = 0$) và $h$ là độ dài của nhóm.",
+      "notation": "M_o",
+      "chapter": "Chương III. Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "lesson": "Bài 9. Các số đặc trưng đo xu thế trung tâm",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-mau-so-lieu-ghep-nhom"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 67,
+          "printed_page": 66
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-mat-phang-trong-khong-gian",
+      "term": "Mặt phẳng trong không gian",
+      "aliases": [
+        "Mặt phẳng",
+        "Khái niệm mặt phẳng"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Mặt phẳng không có bề dày và không có giới hạn. Để biểu diễn mặt phẳng ta thường dùng một hình bình hành và viết tên của mặt phẳng vào một góc của hình. Để kí hiệu mặt phẳng ta dùng chữ cái in hoa hoặc chữ cái Hy Lạp đặt trong dấu ngoặc $( )$. Điểm $A$ thuộc mặt phẳng $(P)$, kí hiệu $A \\in (P)$. Điểm $B$ không thuộc mặt phẳng $(P)$, kí hiệu $B \\notin (P)$.",
+      "notation": "(P), (Q), (\\alpha), (\\beta)",
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 10. Đường thẳng và mặt phẳng trong không gian",
+      "level": "co_ban",
+      "related_terms": [],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 72,
+          "printed_page": 71
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-cac-cach-xac-dinh-mat-phang",
+      "term": "Ba cách xác định mặt phẳng",
+      "aliases": [
+        "Cách xác định một mặt phẳng",
+        "Xác định một mặt phẳng",
+        "Ba cách xác định một mặt phẳng"
+      ],
+      "type": "tinh_chat",
+      "definition": "Một mặt phẳng được hoàn toàn xác định khi biết: 1) Nó đi qua ba điểm không thẳng hàng; 2) Nó đi qua một điểm và chứa một đường thẳng không đi qua điểm đó; 3) Nó chứa hai đường thẳng cắt nhau.",
+      "notation": null,
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 10. Đường thẳng và mặt phẳng trong không gian",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-mat-phang-trong-khong-gian"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 75,
+          "printed_page": 74
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-giao-tuyen-cua-hai-mat-phang",
+      "term": "Giao tuyến của hai mặt phẳng",
+      "aliases": [
+        "Giao tuyến"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Nếu hai mặt phẳng phân biệt có một điểm chung thì chúng có một đường thẳng chung duy nhất chứa tất cả các điểm chung của hai mặt phẳng đó. Đường thẳng chung đó được gọi là giao tuyến của hai mặt phẳng.",
+      "notation": null,
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 10. Đường thẳng và mặt phẳng trong không gian",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-mat-phang-trong-khong-gian"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 74,
+          "printed_page": 73
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hinh-chop",
+      "term": "Hình chóp",
+      "aliases": [
+        "Hình chóp n giác"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Trong mặt phẳng $(\\alpha)$, cho đa giác $A_1A_2\\dots A_n$. Lấy điểm $S$ nằm ngoài $(\\alpha)$. Nối $S$ với các đỉnh $A_1, A_2, \\dots, A_n$ ta được hình chóp $S.A_1A_2\\dots A_n$. Điểm $S$ gọi là đỉnh, đa giác $A_1A_2\\dots A_n$ gọi là mặt đáy, các tam giác $SA_1A_2, SA_2A_3, \\dots, SA_nA_1$ gọi là các mặt bên, các đoạn thẳng $SA_1, SA_2, \\dots, SA_n$ gọi là các cạnh bên, các cạnh của đa giác đáy gọi là các cạnh đáy.",
+      "notation": "S.A_1A_2\\dots A_n",
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 10. Đường thẳng và mặt phẳng trong không gian",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-mat-phang-trong-khong-gian"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 76,
+          "printed_page": 75
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hinh-tu-dien",
+      "term": "Hình tứ diện",
+      "aliases": [
+        "Tứ diện",
+        "Tứ diện đều",
+        "Hình tứ diện đều"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Cho bốn điểm $A, B, C, D$ không đồng phẳng. Hình gồm bốn tam giác $ABC, ACD, ABD$ và $BCD$ được gọi là hình tứ diện và được kí hiệu là $ABCD$. Các điểm $A, B, C, D$ được gọi là các đỉnh của tứ diện, các đoạn thẳng $AB, BC, CD, DA, AC, BD$ được gọi là các cạnh của tứ diện, các tam giác $ABC, ACD, ABD, BCD$ được gọi là các mặt của tứ diện. Hình tứ diện có bốn mặt là các tam giác đều gọi là hình tứ diện đều.",
+      "notation": "ABCD",
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 10. Đường thẳng và mặt phẳng trong không gian",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-hinh-chop"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 77,
+          "printed_page": 76
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-vi-tri-tuong-doi-hai-duong-thang",
+      "term": "Vị trí tương đối của hai đường thẳng",
+      "aliases": [
+        "Hai đường thẳng chéo nhau",
+        "Hai đường thẳng cắt nhau"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Trong không gian, cho hai đường thẳng $a$ và $b$: nếu $a$ và $b$ cùng nằm trong một mặt phẳng thì ta nói $a$ và $b$ đồng phẳng (chúng có thể cắt nhau, song song hoặc trùng nhau); nếu $a$ và $b$ không cùng nằm trong bất kì mặt phẳng nào thì ta nói $a$ và $b$ chéo nhau.",
+      "notation": null,
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 11. Hai đường thẳng song song",
+      "level": "co_ban",
+      "related_terms": [],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 79,
+          "printed_page": 78
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hai-duong-thang-song-song",
+      "term": "Hai đường thẳng song song trong không gian",
+      "aliases": [
+        "Hai đường thẳng song song"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hai đường thẳng gọi là song song nếu chúng cùng nằm trong một mặt phẳng và không có điểm chung.",
+      "notation": "a \\parallel b",
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 11. Hai đường thẳng song song",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-vi-tri-tuong-doi-hai-duong-thang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 79,
+          "printed_page": 78
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tinh-chat-hai-duong-thang-song-song",
+      "term": "Tính chất hai đường thẳng song song",
+      "aliases": [
+        "Tính chất của hai đường thẳng song song",
+        "Hai đường thẳng song song"
+      ],
+      "type": "tinh_chat",
+      "definition": "Trong không gian, qua một điểm không nằm trên đường thẳng cho trước, có một và chỉ một đường thẳng song song với đường thẳng đã cho. Hai đường thẳng phân biệt cùng song song với đường thẳng thứ ba thì song song với nhau.",
+      "notation": null,
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 11. Hai đường thẳng song song",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-hai-duong-thang-song-song"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 81,
+          "printed_page": 80
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dinh-li-ve-giao-tuyen-cua-ba-mat-phang",
+      "term": "Định lí về giao tuyến của ba mặt phẳng",
+      "aliases": [
+        "Định lí về ba đường giao tuyến",
+        "Ba đường giao tuyến",
+        "Định lí giao tuyến của ba mặt phẳng"
+      ],
+      "type": "dinh_ly",
+      "definition": "Nếu ba mặt phẳng đôi một cắt nhau theo ba giao tuyến phân biệt thì ba giao tuyến đó đồng quy hoặc đôi một song song với nhau.",
+      "notation": null,
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 11. Hai đường thẳng song song",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-giao-tuyen-cua-hai-mat-phang",
+        "toan-11-hai-duong-thang-song-song"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 82,
+          "printed_page": 81
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-duong-thang-song-song-mat-phang",
+      "term": "Đường thẳng song song với mặt phẳng",
+      "aliases": [
+        "Đường thẳng song song mặt phẳng"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Đường thẳng $d$ và mặt phẳng $(\\alpha)$ gọi là song song với nhau nếu chúng không có điểm chung, kí hiệu $d \\parallel (\\alpha)$ hay $(\\alpha) \\parallel d$.",
+      "notation": "d \\parallel (\\alpha)",
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 12. Đường thẳng và mặt phẳng song song",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-mat-phang-trong-khong-gian"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 85,
+          "printed_page": 84
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dau-hieu-nhan-biet-duong-thang-song-song-mat-phang",
+      "term": "Dấu hiệu nhận biết đường thẳng song song với mặt phẳng",
+      "aliases": [
+        "Đường thẳng song song với mặt phẳng",
+        "song song với mặt phẳng",
+        "Điều kiện để đường thẳng song song với mặt phẳng"
+      ],
+      "type": "dinh_ly",
+      "definition": "Nếu đường thẳng $a$ không nằm trong mặt phẳng $(P)$ và song song với một đường thẳng $b$ nằm trong $(P)$ thì $a$ song song với $(P)$.",
+      "notation": null,
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 12. Đường thẳng và mặt phẳng song song",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-duong-thang-song-song-mat-phang",
+        "toan-11-hai-duong-thang-song-song"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 86,
+          "printed_page": 85
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tinh-chat-duong-thang-song-song-mat-phang",
+      "term": "Tính chất đường thẳng song song với mặt phẳng",
+      "aliases": [
+        "Tính chất của đường thẳng song song với mặt phẳng",
+        "đường thẳng song song với mặt phẳng"
+      ],
+      "type": "tinh_chat",
+      "definition": "Cho đường thẳng $a$ song song với mặt phẳng $(P)$. Nếu mặt phẳng $(Q)$ chứa $a$ và cắt $(P)$ theo giao tuyến $b$ thì $b$ song song với $a$.",
+      "notation": null,
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 12. Đường thẳng và mặt phẳng song song",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-duong-thang-song-song-mat-phang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 87,
+          "printed_page": 86
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hai-mat-phang-song-song",
+      "term": "Hai mặt phẳng song song",
+      "aliases": [],
+      "type": "dinh_nghia",
+      "definition": "Hai mặt phẳng được gọi là song song với nhau nếu chúng không có điểm chung, kí hiệu $(P) \\parallel (Q)$ hay $(Q) \\parallel (P)$.",
+      "notation": "(P) \\parallel (Q)",
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 13. Hai mặt phẳng song song",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-mat-phang-trong-khong-gian"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 89,
+          "printed_page": 88
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dau-hieu-nhan-biet-hai-mat-phang-song-song",
+      "term": "Dấu hiệu nhận biết hai mặt phẳng song song",
+      "aliases": [
+        "Điều kiện để hai mặt phẳng song song",
+        "Hai mặt phẳng song song",
+        "hai mặt phẳng song song"
+      ],
+      "type": "dinh_ly",
+      "definition": "Nếu mặt phẳng $(\\alpha)$ chứa hai đường thẳng cắt nhau và hai đường thẳng này song song với mặt phẳng $(\\beta)$ thì $(\\alpha)$ và $(\\beta)$ song song với nhau.",
+      "notation": null,
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 13. Hai mặt phẳng song song",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-hai-mat-phang-song-song",
+        "toan-11-duong-thang-song-song-mat-phang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 90,
+          "printed_page": 89
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tinh-chat-hai-mat-phang-song-song",
+      "term": "Tính chất hai mặt phẳng song song",
+      "aliases": [
+        "Tính chất cơ bản về hai mặt phẳng song song",
+        "hai mặt phẳng song song"
+      ],
+      "type": "tinh_chat",
+      "definition": "Cho hai mặt phẳng song song. Nếu một mặt phẳng cắt mặt phẳng này thì cũng cắt mặt phẳng kia và hai giao tuyến song song với nhau. Qua một điểm nằm ngoài một mặt phẳng cho trước có một và chỉ một mặt phẳng song song với mặt phẳng đã cho.",
+      "notation": null,
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 13. Hai mặt phẳng song song",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-hai-mat-phang-song-song"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 91,
+          "printed_page": 90
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dinh-li-thales-trong-khong-gian",
+      "term": "Định lí Thalès trong không gian",
+      "aliases": [
+        "Định lí Ta-lét trong không gian"
+      ],
+      "type": "dinh_ly",
+      "definition": "Ba mặt phẳng đôi một song song chắn trên hai cát tuyến bất kì các đoạn thẳng tương ứng tỉ lệ: $\\frac{A_1B_1}{A_2B_2} = \\frac{B_1C_1}{B_2C_2} = \\frac{A_1C_1}{A_2C_2}$.",
+      "notation": null,
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 13. Hai mặt phẳng song song",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-hai-mat-phang-song-song"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 92,
+          "printed_page": 91
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hinh-lang-tru",
+      "term": "Hình lăng trụ",
+      "aliases": [
+        "Hình lăng trụ n giác"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Cho hai mặt phẳng song song $(\\alpha)$ và $(\\alpha')$. Trên $(\\alpha)$ cho đa giác $A_1A_2\\dots A_n$. Qua các đỉnh vẽ các đường thẳng song song với nhau và cắt $(\\alpha')$ lần lượt tại $A'_1, A'_2, \\dots, A'_n$. Hình gồm hai đa giác đáy $A_1A_2\\dots A_n, A'_1A'_2\\dots A'_n$ và các tứ giác $A_1A_2A'_2A'_1, \\dots, A_nA_1A'_1A'_n$ gọi là hình lăng trụ, kí hiệu $A_1A_2\\dots A_n.A'_1A'_2\\dots A'_n$. Các mặt bên của hình lăng trụ là các hình bình hành.",
+      "notation": "A_1A_2\\dots A_n.A'_1A'_2\\dots A'_n",
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 13. Hai mặt phẳng song song",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-hai-mat-phang-song-song"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 93,
+          "printed_page": 92
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hinh-hop",
+      "term": "Hình hộp",
+      "aliases": [],
+      "type": "dinh_nghia",
+      "definition": "Hình lăng trụ có đáy là hình bình hành được gọi là hình hộp. Hình hộp có 6 mặt đều là các hình bình hành.",
+      "notation": "ABCD.A'B'C'D'",
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 13. Hai mặt phẳng song song",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-hinh-lang-tru"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 94,
+          "printed_page": 93
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phep-chieu-song-song",
+      "term": "Phép chiếu song song",
+      "aliases": [
+        "Phương chiếu",
+        "Mặt phẳng chiếu",
+        "Hình chiếu song song"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Cho mặt phẳng $(P)$ và đường thẳng $\\Delta$ cắt $(P)$. Phép đặt tương ứng mỗi điểm $M$ trong không gian với điểm $M'$ của $(P)$ sao cho $MM'$ song song với $\\Delta$ hoặc trùng với $\\Delta$ được gọi là phép chiếu song song lên mặt phẳng $(P)$ theo phương $\\Delta$. Mặt phẳng $(P)$ gọi là mặt phẳng chiếu, phương của $\\Delta$ gọi là phương chiếu, điểm $M'$ gọi là hình chiếu song song của $M$.",
+      "notation": null,
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 14. Phép chiếu song song",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-mat-phang-trong-khong-gian"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 97,
+          "printed_page": 96
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tinh-chat-phep-chieu-song-song",
+      "term": "Tính chất của phép chiếu song song",
+      "aliases": [],
+      "type": "tinh_chat",
+      "definition": "Phép chiếu song song biến ba điểm thẳng hàng thành ba điểm thẳng hàng và bảo toàn thứ tự giữa chúng; biến đường thẳng thành đường thẳng, tia thành tia, đoạn thẳng thành đoạn thẳng; biến hai đường thẳng song song thành hai đường thẳng song song hoặc trùng nhau; bảo toàn tỉ số độ dài của hai đoạn thẳng cùng nằm trên một đường thẳng hoặc nằm trên hai đường thẳng song song.",
+      "notation": null,
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 14. Phép chiếu song song",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-phep-chieu-song-song"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 97,
+          "printed_page": 96
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hinh-bieu-dien-khong-gian",
+      "term": "Hình biểu diễn của một hình không gian",
+      "aliases": [
+        "Hình biểu diễn"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hình chiếu song song của một hình không gian trên một mặt phẳng hoặc hình đồng dạng với hình chiếu đó được gọi là hình biểu diễn của hình không gian đó.",
+      "notation": null,
+      "chapter": "Chương IV. Quan hệ song song trong không gian",
+      "lesson": "Bài 14. Phép chiếu song song",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-phep-chieu-song-song"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 99,
+          "printed_page": 98
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-day-so-co-gioi-han-0",
+      "term": "Dãy số có giới hạn 0",
+      "aliases": [
+        "Giới hạn 0 của dãy số"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Ta nói dãy số $(u_n)$ có giới hạn là $0$ khi $n$ dần tới vô cực, nếu $|u_n|$ có thể nhỏ hơn một số dương bé tuỳ ý, kể từ một số hạng nào đó trở đi, kí hiệu $\\lim_{n \\to +\\infty} u_n = 0$ hay $\\lim u_n = 0$ hoặc $u_n \\to 0$ khi $n \\to +\\infty$. Một số giới hạn cơ bản: $\\lim \\frac{1}{n^k} = 0$ ($k \\in \\mathbb{N}^*$); $\\lim q^n = 0$ nếu $|q| < 1$.",
+      "notation": "\\lim u_n = 0",
+      "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+      "lesson": "Bài 15. Giới hạn của dãy số",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-day-so-vo-han"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 106,
+          "printed_page": 105
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-day-so-co-gioi-han-huu-han",
+      "term": "Dãy số có giới hạn hữu hạn",
+      "aliases": [
+        "Giới hạn hữu hạn của dãy số"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Ta nói dãy số $(u_n)$ có giới hạn là số thực $a$ khi $n$ dần tới vô cực nếu $\\lim_{n \\to +\\infty} (u_n - a) = 0$, kí hiệu $\\lim_{n \\to +\\infty} u_n = a$ hay $\\lim u_n = a$ hoặc $u_n \\to a$ khi $n \\to +\\infty$. Nếu $u_n = c$ (hằng số) thì $\\lim u_n = c$.",
+      "notation": "\\lim u_n = a",
+      "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+      "lesson": "Bài 15. Giới hạn của dãy số",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-day-so-co-gioi-han-0"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 106,
+          "printed_page": 105
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dinh-li-gioi-han-huu-han-day-so",
+      "term": "Định lí về giới hạn hữu hạn của dãy số",
+      "aliases": [
+        "Phép toán trên giới hạn hữu hạn của dãy số"
+      ],
+      "type": "dinh_ly",
+      "definition": "Nếu $\\lim u_n = a$ và $\\lim v_n = b$ thì: $\\lim (u_n + v_n) = a + b$; $\\lim (u_n - v_n) = a - b$; $\\lim (u_n v_n) = a b$; $\\lim \\frac{u_n}{v_n} = \\frac{a}{b}$ (nếu $b \\ne 0$). Nếu $u_n \\ge 0$ với mọi $n$ thì $a \\ge 0$ và $\\lim \\sqrt{u_n} = \\sqrt{a}$.",
+      "notation": null,
+      "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+      "lesson": "Bài 15. Giới hạn của dãy số",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-day-so-co-gioi-han-huu-han"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 107,
+          "printed_page": 106
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tong-cap-so-nhan-lui-vo-han",
+      "term": "Tổng của cấp số nhân lùi vô hạn",
+      "aliases": [
+        "Cấp số nhân lùi vô hạn"
+      ],
+      "type": "cong_thuc",
+      "definition": "Cấp số nhân vô hạn $(u_n)$ có công bội $q$ thoả mãn $|q| < 1$ được gọi là cấp số nhân lùi vô hạn. Tổng của cấp số nhân lùi vô hạn là: $S = u_1 + u_2 + \\dots + u_n + \\dots = \\frac{u_1}{1 - q}$.",
+      "notation": "S = \\frac{u_1}{1 - q}",
+      "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+      "lesson": "Bài 15. Giới hạn của dãy số",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-cap-so-nhan",
+        "toan-11-day-so-co-gioi-han-huu-han"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 108,
+          "printed_page": 107
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-day-so-co-gioi-han-vo-cuc",
+      "term": "Dãy số có giới hạn vô cực",
+      "aliases": [
+        "Giới hạn vô cực của dãy số"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Ta nói dãy số $(u_n)$ có giới hạn là $+\\infty$ khi $n \\to +\\infty$ nếu $u_n$ có thể lớn hơn một số dương bất kì, kể từ một số hạng nào đó trở đi, kí hiệu $\\lim_{n \\to +\\infty} u_n = +\\infty$ hay $\\lim u_n = +\\infty$. Dãy số $(u_n)$ có giới hạn là $-\\infty$ khi $n \\to +\\infty$ nếu $\\lim (-u_n) = +\\infty$, kí hiệu $\\lim u_n = -\\infty$.",
+      "notation": "\\lim u_n = +\\infty, \\lim u_n = -\\infty",
+      "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+      "lesson": "Bài 15. Giới hạn của dãy số",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-day-so-vo-han"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 109,
+          "printed_page": 108
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-gioi-han-ham-so-tai-mot-diem",
+      "term": "Giới hạn của hàm số tại một điểm",
+      "aliases": [
+        "Giới hạn hữu hạn của hàm số tại một điểm"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Cho khoảng $K$ chứa điểm $x_0$ và hàm số $y = f(x)$ xác định trên $K$ hoặc trên $K \\setminus \\{x_0\\}$. Ta nói hàm số $y = f(x)$ có giới hạn là số $L$ khi $x$ dần tới $x_0$ nếu với dãy số $(x_n)$ bất kì, $x_n \\in K \\setminus \\{x_0\\}$ và $x_n \\to x_0$, ta có $f(x_n) \\to L$. Kí hiệu $\\lim_{x \\to x_0} f(x) = L$ hay $f(x) \\to L$ khi $x \\to x_0$.",
+      "notation": "\\lim_{x \\to x_0} f(x) = L",
+      "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+      "lesson": "Bài 16. Giới hạn của hàm số",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-day-so-co-gioi-han-huu-han"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 112,
+          "printed_page": 111
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dinh-li-gioi-han-huu-han-ham-so",
+      "term": "Định lí về giới hạn hữu hạn của hàm số",
+      "aliases": [
+        "quy tắc tính giới hạn của hàm số tại một điểm",
+        "Quy tắc tính giới hạn của hàm số tại một điểm",
+        "Quy tắc tính giới hạn của hàm số",
+        "giới hạn của hàm số tại một điểm"
+      ],
+      "type": "dinh_ly",
+      "definition": "Tương tự đối với dãy số, ta có các quy tắc tính giới hạn của hàm số tại một điểm như sau: a) Nếu $\\lim_{x \\to x_0} f(x) = L$ và $\\lim_{x \\to x_0} g(x) = M$ thì $\\lim_{x \\to x_0} [f(x) + g(x)] = L + M$; $\\lim_{x \\to x_0} [f(x) - g(x)] = L - M$; $\\lim_{x \\to x_0} [f(x) g(x)] = L M$; $\\lim_{x \\to x_0} \\frac{f(x)}{g(x)} = \\frac{L}{M}$ (nếu $M \\ne 0$). Với $c$ là hằng số, $\\lim_{x \\to x_0} c = c$. b) Nếu $f(x) \\ge 0$ với mọi $x \\in (a; b) \\setminus \\{x_0\\}$ và $\\lim_{x \\to x_0} f(x) = L$ thì $L \\ge 0$ và $\\lim_{x \\to x_0} \\sqrt{f(x)} = \\sqrt{L}$.",
+      "notation": null,
+      "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+      "lesson": "Bài 16. Giới hạn của hàm số",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-gioi-han-ham-so-tai-mot-diem"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 113,
+          "printed_page": 112
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-gioi-han-mot-ben",
+      "term": "Giới hạn một bên",
+      "aliases": [
+        "Giới hạn bên phải",
+        "Giới hạn bên trái"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Cho hàm số $y = f(x)$ xác định trên khoảng $(x_0; b)$. Ta nói hàm số $f(x)$ có giới hạn bên phải là $L$ khi $x \\to x_0^+$, kí hiệu $\\lim_{x \\to x_0^+} f(x) = L$, nếu với mọi dãy số $(x_n)$ thuộc $(x_0; b)$ và $x_n \\to x_0$, ta có $f(x_n) \\to L$. Tương tự, hàm số xác định trên $(a; x_0)$ có giới hạn bên trái là $L$ khi $x \\to x_0^-$, kí hiệu $\\lim_{x \\to x_0^-} f(x) = L$. Ta có: $\\lim_{x \\to x_0} f(x) = L \\Leftrightarrow \\lim_{x \\to x_0^+} f(x) = \\lim_{x \\to x_0^-} f(x) = L$.",
+      "notation": "\\lim_{x \\to x_0^+} f(x), \\lim_{x \\to x_0^-} f(x)",
+      "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+      "lesson": "Bài 16. Giới hạn của hàm số",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-gioi-han-ham-so-tai-mot-diem"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 114,
+          "printed_page": 113
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-gioi-han-ham-so-tai-vo-cuc",
+      "term": "Giới hạn của hàm số tại vô cực",
+      "aliases": [
+        "Giới hạn tại vô cực"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Cho hàm số $y = f(x)$ xác định trên khoảng $(a; +\\infty)$. Ta nói hàm số $y = f(x)$ có giới hạn là số $L$ khi $x \\to +\\infty$ nếu với mọi dãy số $(x_n)$ trong $(a; +\\infty)$ mà $x_n \\to +\\infty$, ta có $f(x_n) \\to L$, kí hiệu $\\lim_{x \\to +\\infty} f(x) = L$. Định nghĩa tương tự cho $x \\to -\\infty$, kí hiệu $\\lim_{x \\to -\\infty} f(x) = L$.",
+      "notation": "\\lim_{x \\to +\\infty} f(x), \\lim_{x \\to -\\infty} f(x)",
+      "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+      "lesson": "Bài 16. Giới hạn của hàm số",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-gioi-han-ham-so-tai-mot-diem"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 115,
+          "printed_page": 114
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-gioi-han-vo-cuc-cua-ham-so-tai-mot-diem",
+      "term": "Giới hạn vô cực của hàm số tại một điểm",
+      "aliases": [
+        "Giới hạn vô cực của hàm số"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Cho hàm số $y = f(x)$ xác định trên khoảng $(a; b) \\setminus \\{x_0\\}$. Ta nói hàm số $f(x)$ có giới hạn là $+\\infty$ khi $x \\to x_0$ nếu với mọi dãy số $(x_n)$ thuộc $(a; b) \\setminus \\{x_0\\}$ mà $x_n \\to x_0$, ta có $f(x_n) \\to +\\infty$, kí hiệu $\\lim_{x \\to x_0} f(x) = +\\infty$. Định nghĩa tương tự cho $\\lim_{x \\to x_0} f(x) = -\\infty$.",
+      "notation": "\\lim_{x \\to x_0} f(x) = \\pm\\infty",
+      "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+      "lesson": "Bài 16. Giới hạn của hàm số",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-gioi-han-ham-so-tai-mot-diem"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 116,
+          "printed_page": 115
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-ham-so-lien-tuc-tai-mot-diem",
+      "term": "Hàm số liên tục tại một điểm",
+      "aliases": [
+        "Hàm số gián đoạn tại một điểm"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Cho hàm số $y = f(x)$ xác định trên khoảng $(a; b)$ chứa điểm $x_0$. Hàm số $f(x)$ được gọi là liên tục tại điểm $x_0$ nếu $\\lim_{x \\to x_0} f(x) = f(x_0)$. Hàm số không liên tục tại điểm $x_0$ được gọi là gián đoạn tại điểm đó.",
+      "notation": "\\lim_{x \\to x_0} f(x) = f(x_0)",
+      "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+      "lesson": "Bài 17. Hàm số liên tục",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-gioi-han-ham-so-tai-mot-diem"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 120,
+          "printed_page": 119
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-ham-so-lien-tuc-tren-mot-khoang",
+      "term": "Hàm số liên tục trên một khoảng",
+      "aliases": [
+        "Hàm số liên tục trên đoạn"
+      ],
+      "type": "dinh_nghia",
+      "definition": "Hàm số $y = f(x)$ được gọi là liên tục trên khoảng $(a; b)$ nếu nó liên tục tại mọi điểm thuộc khoảng đó. Hàm số $y = f(x)$ được gọi là liên tục trên đoạn $[a; b]$ nếu nó liên tục trên khoảng $(a; b)$ và $\\lim_{x \\to a^+} f(x) = f(a)$, $\\lim_{x \\to b^-} f(x) = f(b)$. Đồ thị của hàm số liên tục trên một khoảng là một đường liền nét trên khoảng đó.",
+      "notation": null,
+      "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+      "lesson": "Bài 17. Hàm số liên tục",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-ham-so-lien-tuc-tai-mot-diem"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 121,
+          "printed_page": 120
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tinh-lien-tuc-cua-ham-so-so-cap",
+      "term": "Tính liên tục của các hàm số sơ cấp cơ bản",
+      "aliases": [
+        "Tính liên tục của hàm số sơ cấp"
+      ],
+      "type": "dinh_ly",
+      "definition": "Hàm số đa thức và các hàm số lượng giác $y = \\sin x, y = \\cos x$ liên tục trên $\\mathbb{R}$. Các hàm số phân thức hữu tỉ, hàm số căn thức và các hàm số $y = \\tan x, y = \\cot x$ liên tục trên từng khoảng xác định của chúng. Tổng, hiệu, tích, thương (với mẫu khác 0) của các hàm số liên tục là những hàm số liên tục.",
+      "notation": null,
+      "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+      "lesson": "Bài 17. Hàm số liên tục",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-ham-so-lien-tuc-tren-mot-khoang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 121,
+          "printed_page": 120
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dinh-li-gia-tri-trung-gian",
+      "term": "Định lí giá trị trung gian",
+      "aliases": [
+        "Nhận xét về nghiệm của hàm số liên tục",
+        "liên tục trên đoạn",
+        "Nghiệm của phương trình f(x) = 0 trên đoạn"
+      ],
+      "type": "tinh_chat",
+      "definition": "Nếu hàm số $y = f(x)$ liên tục trên đoạn $[a; b]$ và $f(a) f(b) < 0$ thì tồn tại ít nhất một điểm $c \\in (a; b)$ sao cho $f(c) = 0$.",
+      "notation": null,
+      "chapter": "Chương V. Giới hạn. Hàm số liên tục",
+      "lesson": "Bài 17. Hàm số liên tục",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-ham-so-lien-tuc-tren-mot-khoang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_page": 123,
+          "printed_page": 122
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-luy-thua-voi-so-mu-nguyen",
+      "term": "Lũy thừa với số mũ nguyên",
+      "type": "dinh_nghia",
+      "definition": "Cho số thực $a$ và số nguyên dương $n$. Lũy thừa bậc $n$ của $a$ là tích của $n$ thừa số $a$: $a^n = a \\cdot a \\dots a$. Với $a \\ne 0$, $a^0 = 1$ và $a^{-n} = \\frac{1}{a^n}$. Trong biểu thức $a^m$, $a$ gọi là cơ số, $m$ gọi là số mũ. Luỹ thừa với số mũ nguyên có các tính chất tương tự như luỹ thừa với số mũ nguyên dương.",
+      "notation": "$a^n, a^0, a^{-n}$",
+      "aliases": [
+        "Luỹ thừa với số mũ nguyên",
+        "Lũy thừa nguyên",
+        "Khái niệm luỹ thừa với số mũ nguyên"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 18. Luỹ thừa với số mũ thực",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-can-bac-n",
+        "toan-11-luy-thua-voi-so-mu-huu-ti"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 6,
+          "printed_page": 5
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-can-bac-n",
+      "term": "Căn bậc n",
+      "type": "dinh_nghia",
+      "definition": "Cho số thực $a$ và số nguyên dương $n$ ($n \\ge 2$). Số $b$ được gọi là căn bậc $n$ của số $a$ nếu $b^n = a$. Khi $n$ là số lẻ, mỗi số thực $a$ chỉ có một căn bậc $n$ và kí hiệu là $\\sqrt[n]{a}$. Khi $n$ là số chẵn, số âm không có căn bậc $n$, số 0 có đúng một căn bậc $n$ là 0, mỗi số thực dương $a$ có đúng hai căn bậc $n$ là hai số đối nhau: số dương kí hiệu là $\\sqrt[n]{a}$ và số âm kí hiệu là $-\\sqrt[n]{a}$.",
+      "notation": "$\\sqrt[n]{a}$",
+      "aliases": [
+        "Căn bậc $n$",
+        "Khái niệm căn bậc n",
+        "Căn bậc n của một số"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 18. Luỹ thừa với số mũ thực",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-luy-thua-voi-so-mu-nguyen",
+        "toan-11-luy-thua-voi-so-mu-huu-ti"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 7,
+          "printed_page": 6
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-luy-thua-voi-so-mu-huu-ti",
+      "term": "Lũy thừa với số mũ hữu tỉ",
+      "type": "dinh_nghia",
+      "definition": "Cho số thực dương $a$ và số hữu tỉ $r = \\frac{m}{n}$, trong đó $m \\in \\mathbb{Z}$, $n \\in \\mathbb{N}$, $n \\ge 2$. Luỹ thừa của $a$ với số mũ $r$, kí hiệu là $a^r$, xác định bởi $a^r = a^{\\frac{m}{n}} = \\sqrt[n]{a^m}$. Luỹ thừa với số mũ hữu tỉ của một số thực dương có đầy đủ các tính chất như luỹ thừa với số mũ nguyên.",
+      "notation": "$a^r = a^{\\frac{m}{n}} = \\sqrt[n]{a^m}$",
+      "aliases": [
+        "Luỹ thừa với số mũ hữu tỉ",
+        "Lũy thừa hữu tỉ"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 18. Luỹ thừa với số mũ thực",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-can-bac-n",
+        "toan-11-luy-thua-voi-so-mu-thuc"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 8,
+          "printed_page": 7
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-luy-thua-voi-so-mu-thuc",
+      "term": "Lũy thừa với số mũ thực",
+      "type": "dinh_nghia",
+      "definition": "Cho số dương $a$ và số vô tỉ $\\alpha$. Giả sử $(\\alpha_n)$ là một dãy số hữu tỉ sao cho $\\lim_{n \\to +\\infty} \\alpha_n = \\alpha$. Giới hạn đó gọi là luỹ thừa của $a$ với số mũ $\\alpha$, kí hiệu là $a^\\alpha$. Ta có $\\lim_{n \\to +\\infty} a^{\\alpha_n} = a^\\alpha$.",
+      "notation": "$a^\\alpha = \\lim_{n \\to +\\infty} a^{\\alpha_n}$",
+      "aliases": [
+        "Luỹ thừa với số mũ thực",
+        "Lũy thừa thực"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 18. Luỹ thừa với số mũ thực",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-luy-thua-voi-so-mu-huu-ti",
+        "toan-11-tinh-chat-luy-thua-so-mu-thuc"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 9,
+          "printed_page": 8
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tinh-chat-luy-thua-so-mu-thuc",
+      "term": "Tính chất của lũy thừa với số mũ thực",
+      "type": "tinh_chat",
+      "definition": "Cho $a, b$ là các số thực dương và $\\alpha, \\beta$ là các số thực tuỳ ý. Khi đó: $a^\\alpha \\cdot a^\\beta = a^{\\alpha + \\beta}$; $\\frac{a^\\alpha}{a^\\beta} = a^{\\alpha - \\beta}$; $(a^\\alpha)^\\beta = a^{\\alpha \\beta}$; $(ab)^\\alpha = a^\\alpha b^\\alpha$; $(\\frac{a}{b})^\\alpha = \\frac{a^\\alpha}{b^\\alpha}$. Nếu $a > 1$ thì $a^\\alpha > a^\\beta \\iff \\alpha > \\beta$; nếu $0 < a < 1$ thì $a^\\alpha > a^\\beta \\iff \\alpha < \\beta$.",
+      "notation": "$a^\\alpha a^\\beta = a^{\\alpha+\\beta}, (a^\\alpha)^\\beta = a^{\\alpha\\beta}$",
+      "aliases": [
+        "Tính chất của luỹ thừa",
+        "Luỹ thừa với số mũ thực",
+        "Tính chất của luỹ thừa với số mũ thực"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 18. Luỹ thừa với số mũ thực",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-luy-thua-voi-so-mu-thuc"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 9,
+          "printed_page": 8
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-logarit",
+      "term": "Lôgarit",
+      "type": "dinh_nghia",
+      "definition": "Cho hai số thực dương $a$ và $M$ với $a \\ne 1$. Số $\\alpha$ thoả mãn đẳng thức $a^\\alpha = M$ được gọi là lôgarit cơ số $a$ của $M$ và kí hiệu là $\\log_a M$. Ta có $\\alpha = \\log_a M \\iff a^\\alpha = M$. Không có lôgarit của số âm và số 0. Cơ số của lôgarit phải dương và khác 1.",
+      "notation": "$\\log_a M$",
+      "aliases": [
+        "Khái niệm lôgarit",
+        "Logarit",
+        "Lôgarit cơ số a"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 19. Lôgarit",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-tinh-chat-logarit",
+        "toan-11-quy-tac-tinh-logarit"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 12,
+          "printed_page": 11
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tinh-chat-logarit",
+      "term": "Tính chất của lôgarit",
+      "type": "tinh_chat",
+      "definition": "Từ định nghĩa lôgarit, với số thực $a$ dương khác 1 và các số thực dương $M, \\alpha$, ta có các tính chất sau: $\\log_a 1 = 0$; $\\log_a a = 1$; $\\log_a a^\\alpha = \\alpha$; $a^{\\log_a M} = M$.",
+      "notation": "$\\log_a 1 = 0, \\log_a a = 1, a^{\\log_a M} = M$",
+      "aliases": [
+        "Tính chất lôgarit",
+        "Tính chất cơ bản của lôgarit"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 19. Lôgarit",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-logarit",
+        "toan-11-quy-tac-tinh-logarit"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 12,
+          "printed_page": 11
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-quy-tac-tinh-logarit",
+      "term": "Quy tắc tính lôgarit",
+      "type": "quy_tac",
+      "definition": "Cho $a$ là số thực dương khác 1 và $M, N$ là các số thực dương tuỳ ý, $\\alpha$ là số thực bất kì. Khi đó: $\\log_a (M N) = \\log_a M + \\log_a N$; $\\log_a (\\frac{M}{N}) = \\log_a M - \\log_a N$; $\\log_a (M^\\alpha) = \\alpha \\log_a M$.",
+      "notation": "$\\log_a (MN) = \\log_a M + \\log_a N, \\log_a (M^\\alpha) = \\alpha \\log_a M$",
+      "aliases": [
+        "Các quy tắc tính lôgarit",
+        "Quy tắc tính logarit",
+        "Phép tính lôgarit"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 19. Lôgarit",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-logarit",
+        "toan-11-cong-thuc-doi-co-so-logarit"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 13,
+          "printed_page": 12
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-cong-thuc-doi-co-so-logarit",
+      "term": "Công thức đổi cơ số của lôgarit",
+      "type": "cong_thuc",
+      "definition": "Với các cơ số lôgarit $a$ và $b$ bất kì ($0 < a \\ne 1, 0 < b \\ne 1$) và $M$ là số thực dương tuỳ ý, ta có: $\\log_a M = \\frac{\\log_b M}{\\log_b a}$. Đặc biệt: $\\log_a b = \\frac{1}{\\log_b a}$ (với $b \\ne 1$) và $\\log_{a^\\alpha} M = \\frac{1}{\\alpha} \\log_a M$ (với $\\alpha \\ne 0$).",
+      "notation": "$\\log_a M = \\frac{\\log_b M}{\\log_b a}$",
+      "aliases": [
+        "Đổi cơ số của lôgarit",
+        "Công thức đổi cơ số",
+        "Đổi cơ số"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 19. Lôgarit",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-logarit",
+        "toan-11-quy-tac-tinh-logarit"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 14,
+          "printed_page": 13
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-logarit-thap-phan",
+      "term": "Lôgarit thập phân",
+      "type": "dinh_nghia",
+      "definition": "Lôgarit cơ số 10 của một số dương $M$ gọi là lôgarit thập phân của $M$, kí hiệu là $\\log M$ hoặc $\\lg M$. Lôgarit cơ số 10 đóng vai trò quan trọng trong hệ đếm thập phân.",
+      "notation": "$\\log M, \\lg M$",
+      "aliases": [
+        "Logarit thập phân",
+        "Lôgarit cơ số 10"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 19. Lôgarit",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-logarit",
+        "toan-11-logarit-tu-nhien"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 14,
+          "printed_page": 13
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-logarit-tu-nhien",
+      "term": "Lôgarit tự nhiên",
+      "type": "dinh_nghia",
+      "definition": "Lôgarit cơ số $e$ của một số dương $M$ gọi là lôgarit tự nhiên của $M$, kí hiệu là $\\ln M$ (đọc là lôgarit Nêpe của $M$). Số $e$ là một số vô tỉ có giá trị xấp xỉ $e \\approx 2{,}718281828$.",
+      "notation": "$\\ln M$",
+      "aliases": [
+        "Logarit tự nhiên",
+        "Lôgarit Nêpe",
+        "Lôgarit Neper"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 19. Lôgarit",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-logarit",
+        "toan-11-logarit-thap-phan"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 15,
+          "printed_page": 14
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-ham-so-mu",
+      "term": "Hàm số mũ",
+      "type": "dinh_nghia",
+      "definition": "Cho số thực dương $a$ khác 1. Hàm số $y = a^x$ được gọi là hàm số mũ cơ số $a$. Hàm số mũ có tập xác định là $\\mathbb{R}$ và tập giá trị là $(0; +\\infty)$.",
+      "notation": "$y = a^x$",
+      "aliases": [
+        "Khái niệm hàm số mũ",
+        "Hàm số mũ cơ số a"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 20. Hàm số mũ và hàm số lôgarit",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-tinh-chat-ham-so-mu",
+        "toan-11-ham-so-logarit"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 18,
+          "printed_page": 17
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tinh-chat-ham-so-mu",
+      "term": "Tính chất của hàm số mũ",
+      "type": "tinh_chat",
+      "definition": "Hàm số mũ $y = a^x$ ($a > 0, a \\ne 1$): 1) Có tập xác định là $\\mathbb{R}$ và tập giá trị là $(0; +\\infty)$; 2) Đồng biến trên $\\mathbb{R}$ khi $a > 1$ và nghịch biến trên $\\mathbb{R}$ khi $0 < a < 1$; 3) Liên tục trên $\\mathbb{R}$; 4) Có đồ thị đi qua các điểm $(0; 1)$, $(1; a)$ và luôn nằm phía trên trục hoành, nhận trục hoành làm tiệm cận ngang.",
+      "notation": "$y = a^x$",
+      "aliases": [
+        "Tính chất của hàm số mũ",
+        "đồng biến trên R",
+        "Hàm số mũ"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 20. Hàm số mũ và hàm số lôgarit",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-ham-so-mu"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 19,
+          "printed_page": 18
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-ham-so-logarit",
+      "term": "Hàm số lôgarit",
+      "type": "dinh_nghia",
+      "definition": "Cho số thực dương $a$ khác 1. Hàm số $y = \\log_a x$ được gọi là hàm số lôgarit cơ số $a$. Hàm số lôgarit có tập xác định là $(0; +\\infty)$ và tập giá trị là $\\mathbb{R}$.",
+      "notation": "$y = \\log_a x$",
+      "aliases": [
+        "Khái niệm hàm số lôgarit",
+        "Hàm số logarit",
+        "Hàm số lôgarit cơ số a"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 20. Hàm số mũ và hàm số lôgarit",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-ham-so-mu",
+        "toan-11-tinh-chat-ham-so-logarit"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 20,
+          "printed_page": 19
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tinh-chat-ham-so-logarit",
+      "term": "Tính chất của hàm số lôgarit",
+      "type": "tinh_chat",
+      "definition": "Hàm số lôgarit $y = \\log_a x$ ($a > 0, a \\ne 1$): 1) Có tập xác định là $(0; +\\infty)$ và tập giá trị là $\\mathbb{R}$; 2) Đồng biến trên $(0; +\\infty)$ khi $a > 1$ và nghịch biến trên $(0; +\\infty)$ khi $0 < a < 1$; 3) Liên tục trên $(0; +\\infty)$; 4) Có đồ thị đi qua các điểm $(1; 0)$, $(a; 1)$ và luôn nằm bên phải trục tung, nhận trục tung làm tiệm cận đứng.",
+      "notation": "$y = \\log_a x$",
+      "aliases": [
+        "Tính chất hàm số lôgarit",
+        "Đồ thị và tính chất của hàm số lôgarit"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 20. Hàm số mũ và hàm số lôgarit",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-ham-so-logarit"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 20,
+          "printed_page": 19
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phuong-trinh-mu-co-ban",
+      "term": "Phương trình mũ cơ bản",
+      "type": "dinh_nghia",
+      "definition": "Phương trình mũ cơ bản có dạng $a^x = b$ (với $0 < a \\ne 1$). Nếu $b \\le 0$, phương trình vô nghiệm. Nếu $b > 0$, phương trình có nghiệm duy nhất $x = \\log_a b$.",
+      "notation": "$a^x = b$",
+      "aliases": [
+        "Phương trình mũ",
+        "Nghiệm của phương trình mũ"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 21. Phương trình, bất phương trình mũ và lôgarit",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-phuong-trinh-logarit-co-ban",
+        "toan-11-bat-phuong-trinh-mu-co-ban"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 22,
+          "printed_page": 21
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phuong-trinh-logarit-co-ban",
+      "term": "Phương trình lôgarit cơ bản",
+      "type": "dinh_nghia",
+      "definition": "Phương trình lôgarit cơ bản có dạng $\\log_a x = b$ ($0 < a \\ne 1$). Phương trình lôgarit cơ bản $\\log_a x = b$ luôn có nghiệm duy nhất $x = a^b$.",
+      "notation": "$\\log_a x = b$",
+      "aliases": [
+        "Phương trình lôgarit",
+        "Nghiệm của phương trình lôgarit",
+        "Phương trình logarit cơ bản"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 21. Phương trình, bất phương trình mũ và lôgarit",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-phuong-trinh-mu-co-ban",
+        "toan-11-bat-phuong-trinh-logarit-co-ban"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 23,
+          "printed_page": 22
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-bat-phuong-trinh-mu-co-ban",
+      "term": "Bất phương trình mũ cơ bản",
+      "type": "dinh_nghia",
+      "definition": "Bất phương trình mũ cơ bản có dạng $a^x > b$ (hoặc $a^x \\ge b, a^x < b, a^x \\le b$) với $0 < a \\ne 1$. Nếu $b \\le 0$, tập nghiệm của bất phương trình $a^x > b$ là $\\mathbb{R}$. Nếu $b > 0$: khi $a > 1$, nghiệm là $x > \\log_a b$; khi $0 < a < 1$, nghiệm là $x < \\log_a b$.",
+      "notation": "$a^x > b, a^x < b$",
+      "aliases": [
+        "Bất phương trình mũ",
+        "Nghiệm của bất phương trình mũ"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 21. Phương trình, bất phương trình mũ và lôgarit",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-phuong-trinh-mu-co-ban",
+        "toan-11-bat-phuong-trinh-logarit-co-ban"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 24,
+          "printed_page": 23
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-bat-phuong-trinh-logarit-co-ban",
+      "term": "Bất phương trình lôgarit cơ bản",
+      "type": "dinh_nghia",
+      "definition": "Bất phương trình lôgarit cơ bản có dạng $\\log_a x > b$ (hoặc $\\log_a x \\ge b, \\log_a x < b, \\log_a x \\le b$) với $0 < a \\ne 1$. Điều kiện xác định là $x > 0$. Khi $a > 1$, nghiệm của bất phương trình $\\log_a x > b$ là $x > a^b$; khi $0 < a < 1$, nghiệm là $0 < x < a^b$.",
+      "notation": "$\\log_a x > b, \\log_a x < b$",
+      "aliases": [
+        "Bất phương trình lôgarit",
+        "Nghiệm của bất phương trình lôgarit",
+        "Bất phương trình logarit cơ bản"
+      ],
+      "chapter": "Chương VI. Hàm số mũ và hàm số lôgarit",
+      "lesson": "Bài 21. Phương trình, bất phương trình mũ và lôgarit",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-phuong-trinh-logarit-co-ban",
+        "toan-11-bat-phuong-trinh-mu-co-ban"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 25,
+          "printed_page": 24
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-goc-giua-hai-duong-thang-khong-gian",
+      "term": "Góc giữa hai đường thẳng trong không gian",
+      "type": "dinh_nghia",
+      "definition": "Góc giữa hai đường thẳng $m$ và $n$ trong không gian, kí hiệu $(m, n)$, là góc giữa hai đường thẳng $a$ và $b$ cùng đi qua một điểm và tương ứng song song với $m$ và $n$. Để xác định góc giữa hai đường thẳng chéo nhau $a$ và $b$, ta có thể lấy một điểm $O$ thuộc đường thẳng $a$ và qua đó kẻ đường thẳng $b'$ song song với $b$; khi đó $(a, b) = (a, b')$. Số đo góc giữa hai đường thẳng thoả mãn $0^\\circ \\le (a, b) \\le 90^\\circ$.",
+      "notation": "$(a, b)$",
+      "aliases": [
+        "Góc giữa hai đường thẳng",
+        "Xác định góc giữa hai đường thẳng"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 22. Hai đường thẳng vuông góc",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-hai-duong-thang-vuong-goc"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 30,
+          "printed_page": 29
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hai-duong-thang-vuong-goc",
+      "term": "Hai đường thẳng vuông góc",
+      "type": "dinh_nghia",
+      "definition": "Hai đường thẳng $a, b$ được gọi là vuông góc với nhau, kí hiệu $a \\perp b$, nếu góc giữa chúng bằng $90^\\circ$. Nếu đường thẳng $a$ vuông góc với đường thẳng $b$ thì $a$ vuông góc với mọi đường thẳng song song với $b$.",
+      "notation": "$a \\perp b$",
+      "aliases": [
+        "Hai đường thẳng vuông góc trong không gian",
+        "Đường thẳng vuông góc với đường thẳng"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 22. Hai đường thẳng vuông góc",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-goc-giua-hai-duong-thang-khong-gian",
+        "toan-11-duong-thang-vuong-goc-mat-phang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 31,
+          "printed_page": 30
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-duong-thang-vuong-goc-mat-phang",
+      "term": "Đường thẳng vuông góc với mặt phẳng",
+      "type": "dinh_nghia",
+      "definition": "Đường thẳng $\\Delta$ được gọi là vuông góc với mặt phẳng $(P)$ nếu $\\Delta$ vuông góc với mọi đường thẳng nằm trong $(P)$, kí hiệu $\\Delta \\perp (P)$. Khi $\\Delta$ vuông góc với $(P)$, ta còn nói $(P)$ vuông góc với $\\Delta$ hoặc $\\Delta$ và $(P)$ vuông góc với nhau.",
+      "notation": "$\\Delta \\perp (P)$",
+      "aliases": [
+        "Đường thẳng và mặt phẳng vuông góc",
+        "Đường thẳng vuông góc mặt phẳng"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 23. Đường thẳng vuông góc với mặt phẳng",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-hai-duong-thang-vuong-goc",
+        "toan-11-dieu-kien-duong-thang-vuong-goc-mat-phang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 33,
+          "printed_page": 32
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dieu-kien-duong-thang-vuong-goc-mat-phang",
+      "term": "Điều kiện để đường thẳng vuông góc với mặt phẳng",
+      "type": "dinh_ly",
+      "definition": "Nếu một đường thẳng vuông góc với hai đường thẳng cắt nhau cùng nằm trong một mặt phẳng thì nó vuông góc với mặt phẳng đó.",
+      "notation": "$a \\perp b, a \\perp c \\implies a \\perp (P)$",
+      "aliases": [
+        "Dấu hiệu nhận biết đường thẳng vuông góc với mặt phẳng",
+        "đường thẳng vuông góc với hai đường thẳng cắt nhau"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 23. Đường thẳng vuông góc với mặt phẳng",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-duong-thang-vuong-goc-mat-phang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 34,
+          "printed_page": 33
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-mat-phang-trung-truc",
+      "term": "Mặt phẳng trung trực",
+      "type": "dinh_nghia",
+      "definition": "Mặt phẳng đi qua trung điểm của đoạn thẳng $AB$ và vuông góc với đường thẳng $AB$ được gọi là mặt phẳng trung trực của đoạn thẳng $AB$. Điểm $M$ thuộc mặt phẳng trung trực của đoạn thẳng $AB$ khi và chỉ khi $MA = MB$.",
+      "notation": "$(P) \\perp AB$ tại trung điểm $I$",
+      "aliases": [
+        "Mặt phẳng trung trực của đoạn thẳng"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 23. Đường thẳng vuông góc với mặt phẳng",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-duong-thang-vuong-goc-mat-phang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 35,
+          "printed_page": 34
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-lien-he-giua-quan-he-song-song-va-vuong-goc",
+      "term": "Liên hệ giữa quan hệ song song và quan hệ vuông góc",
+      "type": "tinh_chat",
+      "definition": "Các tính chất cơ bản: 1) Nếu đường thẳng $a$ vuông góc với mặt phẳng $(P)$ thì các đường thẳng song song với $a$ cũng vuông góc với $(P)$; 2) Hai đường thẳng phân biệt cùng vuông góc với một mặt phẳng thì song song với nhau; 3) Nếu đường thẳng $\\Delta$ vuông góc với mặt phẳng $(P)$ thì $\\Delta$ cũng vuông góc với các mặt phẳng song song với $(P)$; 4) Hai mặt phẳng phân biệt cùng vuông góc với một đường thẳng thì song song với nhau.",
+      "notation": "$a \\parallel b, a \\perp (P) \\implies b \\perp (P)$",
+      "aliases": [
+        "Tính chất liên hệ giữa quan hệ song song và quan hệ vuông góc",
+        "Liên hệ giữa quan hệ song song và vuông góc"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 23. Đường thẳng vuông góc với mặt phẳng",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-duong-thang-vuong-goc-mat-phang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 36,
+          "printed_page": 35
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phep-chieu-vuong-goc",
+      "term": "Phép chiếu vuông góc",
+      "type": "dinh_nghia",
+      "definition": "Phép chiếu song song lên mặt phẳng $(P)$ theo phương $\\Delta$ vuông góc với $(P)$ được gọi là phép chiếu vuông góc lên mặt phẳng $(P)$.",
+      "notation": "$A' = \\text{pr}_{(P)}(A)$",
+      "aliases": [
+        "Phép chiếu vuông góc lên mặt phẳng",
+        "Hình chiếu vuông góc",
+        "phép chiếu vuông góc"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 24. Phép chiếu vuông góc. Góc giữa đường thẳng và mặt phẳng",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-dinh-li-ba-duong-vuong-goc",
+        "toan-11-goc-giua-duong-thang-va-mat-phang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 39,
+          "printed_page": 38
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dinh-li-ba-duong-vuong-goc",
+      "term": "Định lí ba đường vuông góc",
+      "type": "dinh_ly",
+      "definition": "Cho đường thẳng $a$ và mặt phẳng $(P)$ không vuông góc với nhau. Khi đó, một đường thẳng $b$ nằm trong mặt phẳng $(P)$ vuông góc với đường thẳng $a$ khi và chỉ khi $b$ vuông góc với hình chiếu vuông góc $a'$ của $a$ trên $(P)$.",
+      "notation": "$b \\perp a \\iff b \\perp a'$",
+      "aliases": [
+        "Định lí ba đường vuông góc",
+        "Định lý ba đường vuông góc",
+        "ba đường vuông góc"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 24. Phép chiếu vuông góc. Góc giữa đường thẳng và mặt phẳng",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-phep-chieu-vuong-goc"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 40,
+          "printed_page": 39
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-goc-giua-duong-thang-va-mat-phang",
+      "term": "Góc giữa đường thẳng và mặt phẳng",
+      "type": "dinh_nghia",
+      "definition": "Nếu đường thẳng $d$ vuông góc với mặt phẳng $(P)$ thì góc giữa $d$ và $(P)$ bằng $90^\\circ$. Nếu đường thẳng $d$ không vuông góc với mặt phẳng $(P)$ thì góc giữa $d$ và $(P)$ là góc giữa đường thẳng $d$ và hình chiếu vuông góc $d'$ của nó trên $(P)$, kí hiệu $(d, (P))$. Ta luôn có $0^\\circ \\le (d, (P)) \\le 90^\\circ$.",
+      "notation": "$(d, (P))$",
+      "aliases": [
+        "Góc của đường thẳng và mặt phẳng",
+        "Xác định góc giữa đường thẳng và mặt phẳng"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 24. Phép chiếu vuông góc. Góc giữa đường thẳng và mặt phẳng",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-phep-chieu-vuong-goc",
+        "toan-11-goc-giua-hai-mat-phang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 41,
+          "printed_page": 40
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-goc-giua-hai-mat-phang",
+      "term": "Góc giữa hai mặt phẳng",
+      "type": "dinh_nghia",
+      "definition": "Cho hai mặt phẳng $(P)$ và $(Q)$. Lấy các đường thẳng $a, b$ tương ứng vuông góc với $(P), (Q)$. Góc giữa hai đường thẳng $a$ và $b$ được gọi là góc giữa hai mặt phẳng $(P)$ và $(Q)$, kí hiệu $((P), (Q))$. Ta luôn có $0^\\circ \\le ((P), (Q)) \\le 90^\\circ$.",
+      "notation": "$((P), (Q))$",
+      "aliases": [
+        "Góc của hai mặt phẳng",
+        "Xác định góc giữa hai mặt phẳng"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 25. Hai mặt phẳng vuông góc",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-hai-mat-phang-vuong-goc",
+        "toan-11-goc-nhi-dien"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 46,
+          "printed_page": 45
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hai-mat-phang-vuong-goc",
+      "term": "Hai mặt phẳng vuông góc",
+      "type": "dinh_nghia",
+      "definition": "Hai mặt phẳng $(P)$ và $(Q)$ được gọi là vuông góc với nhau nếu góc giữa chúng bằng $90^\\circ$, kí hiệu $(P) \\perp (Q)$.",
+      "notation": "$(P) \\perp (Q)$",
+      "aliases": [
+        "Hai mặt phẳng vuông góc với nhau",
+        "Mặt phẳng vuông góc mặt phẳng"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 25. Hai mặt phẳng vuông góc",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-goc-giua-hai-mat-phang",
+        "toan-11-dieu-kien-hai-mat-phang-vuong-goc"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 46,
+          "printed_page": 45
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dieu-kien-hai-mat-phang-vuong-goc",
+      "term": "Điều kiện để hai mặt phẳng vuông góc",
+      "type": "dinh_ly",
+      "definition": "Hai mặt phẳng vuông góc với nhau nếu mặt phẳng này chứa một đường thẳng vuông góc với mặt phẳng kia.",
+      "notation": "$a \\subset (P), a \\perp (Q) \\implies (P) \\perp (Q)$",
+      "aliases": [
+        "Điều kiện hai mặt phẳng vuông góc",
+        "Hai mặt phẳng vuông góc",
+        "hai mặt phẳng vuông góc với nhau"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 25. Hai mặt phẳng vuông góc",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-hai-mat-phang-vuong-goc",
+        "toan-11-tinh-chat-hai-mat-phang-vuong-goc"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 46,
+          "printed_page": 45
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tinh-chat-hai-mat-phang-vuong-goc",
+      "term": "Tính chất hai mặt phẳng vuông góc",
+      "type": "tinh_chat",
+      "definition": "Các tính chất: 1) Nếu hai mặt phẳng vuông góc với nhau thì bất kì đường thẳng nào nằm trong mặt phẳng này và vuông góc với giao tuyến cũng vuông góc với mặt phẳng kia; 2) Nếu hai mặt phẳng cắt nhau và cùng vuông góc với một mặt phẳng thứ ba thì giao tuyến của chúng vuông góc với mặt phẳng thứ ba đó.",
+      "notation": "$(P) \\perp (Q), d \\subset (P), d \\perp a \\implies d \\perp (Q)$",
+      "aliases": [
+        "Tính chất của hai mặt phẳng vuông góc",
+        "hai mặt phẳng vuông góc với nhau"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 25. Hai mặt phẳng vuông góc",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-hai-mat-phang-vuong-goc"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 48,
+          "printed_page": 47
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-goc-nhi-dien",
+      "term": "Góc nhị diện",
+      "type": "dinh_nghia",
+      "definition": "Hình gồm hai nửa mặt phẳng $(P), (Q)$ có chung bờ $a$ được gọi là một góc nhị diện, kí hiệu là $[P, a, Q]$. Đường thẳng $a$ gọi là cạnh của góc nhị diện, hai nửa mặt phẳng $(P), (Q)$ gọi là hai mặt của góc nhị diện đó. Từ một điểm $O$ bất kì thuộc cạnh $a$, vẽ các tia $Ox, Oy$ tương ứng thuộc $(P), (Q)$ và vuông góc với $a$. Góc $\\widehat{xOy}$ được gọi là một góc phẳng của góc nhị diện $[P, a, Q]$. Số đo của góc $\\widehat{xOy}$ không phụ thuộc vào vị trí của $O$ trên $a$, được gọi là số đo của góc nhị diện $[P, a, Q]$.",
+      "notation": "$[P, a, Q]$",
+      "aliases": [
+        "Khái niệm góc nhị diện",
+        "Góc phẳng của góc nhị diện",
+        "Góc phẳng nhị diện"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 25. Hai mặt phẳng vuông góc",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-goc-giua-hai-mat-phang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 49,
+          "printed_page": 48
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hinh-lang-tru-dung",
+      "term": "Hình lăng trụ đứng",
+      "type": "dinh_nghia",
+      "definition": "Hình lăng trụ đứng là hình lăng trụ có các cạnh bên vuông góc với các mặt đáy. Hình lăng trụ đứng có các mặt bên là các hình chữ nhật và các mặt bên vuông góc với các mặt đáy. Độ dài cạnh bên của hình lăng trụ đứng được gọi là chiều cao của hình lăng trụ đứng. Hình lăng trụ đều là hình lăng trụ đứng có đáy là đa giác đều.",
+      "notation": "$ABC.A'B'C'$",
+      "aliases": [
+        "Lăng trụ đứng",
+        "Hình lăng trụ đều",
+        "Khái niệm hình lăng trụ đứng"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 25. Hai mặt phẳng vuông góc",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-hinh-hop-chu-nhat-va-hinh-lap-phuong",
+        "toan-11-the-tich-khoi-lang-tru"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 50,
+          "printed_page": 49
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hinh-hop-chu-nhat-va-hinh-lap-phuong",
+      "term": "Hình hộp chữ nhật và hình lập phương",
+      "type": "dinh_nghia",
+      "definition": "Hình hộp đứng là hình lăng trụ đứng có đáy là hình bình hành. Hình hộp đứng có đáy là hình chữ nhật được gọi là hình hộp chữ nhật. Hình hộp chữ nhật có tất cả các cạnh bằng nhau được gọi là hình lập phương. Hình hộp chữ nhật có 6 mặt đều là các hình chữ nhật.",
+      "notation": "$ABCD.A'B'C'D'$",
+      "aliases": [
+        "Hình hộp chữ nhật",
+        "Hình lập phương",
+        "Hình hộp đứng"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 25. Hai mặt phẳng vuông góc",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-hinh-lang-tru-dung",
+        "toan-11-the-tich-khoi-lang-tru"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 51,
+          "printed_page": 50
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hinh-chop-deu-va-chop-cut-deu",
+      "term": "Hình chóp đều và hình chóp cụt đều",
+      "type": "dinh_nghia",
+      "definition": "Một hình chóp được gọi là hình chóp đều nếu nó có đáy là một đa giác đều và các cạnh bên bằng nhau. Phần của hình chóp đều nằm giữa đáy và một thiết diện song song với đáy cắt tất cả các cạnh bên của hình chóp đều được gọi là hình chóp cụt đều. Hình chóp đều có đường cao nối từ đỉnh đến tâm của đáy.",
+      "notation": "$S.ABC, ABC.A'B'C'$",
+      "aliases": [
+        "Hình chóp đều",
+        "Hình chóp cụt đều",
+        "Chóp đều"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 25. Hai mặt phẳng vuông góc",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-the-tich-khoi-chop"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 52,
+          "printed_page": 51
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-khoang-cach-tu-diem-den-duong-thang",
+      "term": "Khoảng cách từ một điểm đến một đường thẳng",
+      "type": "dinh_nghia",
+      "definition": "Cho điểm $O$ và đường thẳng $a$. Khoảng cách từ điểm $O$ đến đường thẳng $a$, kí hiệu $d(O, a)$, là khoảng cách giữa $O$ và hình chiếu vuông góc $H$ của $O$ trên $a$. Ta có $d(O, a) = OH$.",
+      "notation": "$d(O, a) = OH$",
+      "aliases": [
+        "Khoảng cách từ điểm đến đường thẳng"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 26. Khoảng cách",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-khoang-cach-tu-diem-den-mat-phang"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 55,
+          "printed_page": 54
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-khoang-cach-tu-diem-den-mat-phang",
+      "term": "Khoảng cách từ một điểm đến một mặt phẳng",
+      "type": "dinh_nghia",
+      "definition": "Khoảng cách từ một điểm $M$ đến một mặt phẳng $(P)$, kí hiệu $d(M, (P))$, là khoảng cách giữa $M$ và hình chiếu vuông góc của nó trên $(P)$.",
+      "notation": "$d(O, (P)) = OH$",
+      "aliases": [
+        "Khoảng cách từ một điểm",
+        "Khoảng cách từ điểm đến mặt phẳng",
+        "Khoảng cách từ một điểm đến một mặt phẳng"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 26. Khoảng cách",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-khoang-cach-tu-diem-den-duong-thang",
+        "toan-11-khoang-cach-giua-hai-mat-phang-song-song"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 55,
+          "printed_page": 54
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-khoang-cach-giua-hai-duong-thang-song-song",
+      "term": "Khoảng cách giữa hai đường thẳng song song",
+      "type": "dinh_nghia",
+      "definition": "Cho hai đường thẳng song song $\\Delta$ và $\\Delta'$. Khoảng cách giữa hai đường thẳng $\\Delta$ và $\\Delta'$, kí hiệu $d(\\Delta, \\Delta')$, là khoảng cách từ một điểm bất kì thuộc đường thẳng này đến đường thẳng kia.",
+      "notation": "$d(\\Delta, \\Delta')$",
+      "aliases": [
+        "Khoảng cách hai đường thẳng song song"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 26. Khoảng cách",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-khoang-cach-tu-diem-den-duong-thang",
+        "toan-11-khoang-cach-giua-duong-thang-va-mat-phang-song-song"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 57,
+          "printed_page": 56
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-khoang-cach-giua-duong-thang-va-mat-phang-song-song",
+      "term": "Khoảng cách giữa đường thẳng và mặt phẳng song song",
+      "type": "dinh_nghia",
+      "definition": "Cho đường thẳng $a$ song song với mặt phẳng $(P)$. Khoảng cách giữa đường thẳng $a$ và mặt phẳng $(P)$, kí hiệu $d(a, (P))$, là khoảng cách từ một điểm bất kì thuộc $a$ đến mặt phẳng $(P)$.",
+      "notation": "$d(a, (P))$",
+      "aliases": [
+        "Khoảng cách đường thẳng và mặt phẳng song song"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 26. Khoảng cách",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-khoang-cach-tu-diem-den-mat-phang",
+        "toan-11-khoang-cach-giua-hai-mat-phang-song-song"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 57,
+          "printed_page": 56
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-khoang-cach-giua-hai-mat-phang-song-song",
+      "term": "Khoảng cách giữa hai mặt phẳng song song",
+      "type": "dinh_nghia",
+      "definition": "Cho hai mặt phẳng song song $(P)$ và $(Q)$. Khoảng cách giữa hai mặt phẳng $(P)$ và $(Q)$, kí hiệu $d((P), (Q))$, là khoảng cách từ một điểm bất kì thuộc mặt phẳng này đến mặt phẳng kia.",
+      "notation": "$d((P), (Q))$",
+      "aliases": [
+        "Khoảng cách hai mặt phẳng song song"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 26. Khoảng cách",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-khoang-cach-tu-diem-den-mat-phang",
+        "toan-11-khoang-cach-giua-duong-thang-va-mat-phang-song-song"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 58,
+          "printed_page": 57
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-khoang-cach-giua-hai-duong-thang-cheo-nhau",
+      "term": "Khoảng cách giữa hai đường thẳng chéo nhau",
+      "type": "dinh_nghia",
+      "definition": "Cho hai đường thẳng chéo nhau $a$ và $b$. Đường thẳng $\\Delta$ cắt cả hai đường thẳng $a, b$ và cùng vuông góc với mỗi đường thẳng đó được gọi là đường vuông góc chung của $a$ và $b$. Đoạn thẳng nối hai giao điểm của $\\Delta$ với $a, b$ được gọi là đoạn vuông góc chung của $a$ và $b$. Khoảng cách giữa hai đường thẳng chéo nhau là độ dài đoạn vuông góc chung của hai đường thẳng đó, kí hiệu $d(a, b)$.",
+      "notation": "$d(a, b) = AB$",
+      "aliases": [
+        "Đường vuông góc chung",
+        "Đoạn vuông góc chung",
+        "Khoảng cách hai đường thẳng chéo nhau"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 26. Khoảng cách",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-khoang-cach-giua-hai-duong-thang-song-song"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 59,
+          "printed_page": 58
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-the-tich-khoi-lang-tru",
+      "term": "Thể tích khối lăng trụ",
+      "type": "cong_thuc",
+      "definition": "Thể tích của khối lăng trụ bằng tích của diện tích đáy và chiều cao của nó: $V = S \\cdot h$, trong đó $S$ là diện tích đáy, $h$ là chiều cao của khối lăng trụ. Đặc biệt: Thể tích khối hộp bằng tích của diện tích một mặt và chiều cao của khối hộp ứng với mặt đó; Thể tích của khối hộp chữ nhật bằng tích ba kích thước của nó: $V = a b c$.",
+      "notation": "$V = S \\cdot h, V = a b c$",
+      "aliases": [
+        "Thể tích của khối lăng trụ",
+        "Thể tích khối lăng trụ",
+        "Thể tích khối hộp chữ nhật"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 27. Thể tích",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-hinh-lang-tru-dung",
+        "toan-11-the-tich-khoi-chop"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 63,
+          "printed_page": 62
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-the-tich-khoi-chop",
+      "term": "Thể tích khối chóp",
+      "type": "cong_thuc",
+      "definition": "Thể tích của khối chóp bằng một phần ba tích của diện tích đáy và chiều cao của nó: $V = \\frac{1}{3} S \\cdot h$, trong đó $S$ là diện tích đáy, $h$ là chiều cao của khối chóp. Thể tích khối tứ diện bằng một phần ba tích của chiều cao từ một đỉnh và diện tích mặt đối diện. Thể tích của khối chóp cụt đều có diện tích đáy lớn $S$, diện tích đáy nhỏ $S'$ và chiều cao $h$ là $V = \\frac{1}{3} h (S + \\sqrt{S S'} + S')$.",
+      "notation": "$V = \\frac{1}{3} S h, V = \\frac{1}{3} h (S + \\sqrt{S S'} + S')$",
+      "aliases": [
+        "Thể tích của khối chóp",
+        "Thể tích khối chóp",
+        "Thể tích khối chóp cụt đều"
+      ],
+      "chapter": "Chương VII. Quan hệ vuông góc trong không gian",
+      "lesson": "Bài 27. Thể tích",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-hinh-chop-deu-va-chop-cut-deu",
+        "toan-11-the-tich-khoi-lang-tru"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 64,
+          "printed_page": 63
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-bien-co-hop",
+      "term": "Biến cố hợp",
+      "type": "dinh_nghia",
+      "definition": "Cho $A$ và $B$ là hai biến cố. Biến cố: \"$A$ hoặc $B$ xảy ra\" được gọi là biến cố hợp của $A$ và $B$, kí hiệu là $A \\cup B$. Biến cố hợp của $A$ và $B$ là tập con $A \\cup B$ của không gian mẫu $\\Omega$.",
+      "notation": "$A \\cup B$",
+      "aliases": [
+        "Khái niệm biến cố hợp",
+        "Hợp của hai biến cố"
+      ],
+      "chapter": "Chương VIII. Các quy tắc tính xác suất",
+      "lesson": "Bài 28. Biến cố hợp, biến cố giao, biến cố độc lập",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-bien-co-giao",
+        "toan-11-cong-thuc-cong-xac-suat"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 68,
+          "printed_page": 67
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-bien-co-giao",
+      "term": "Biến cố giao",
+      "type": "dinh_nghia",
+      "definition": "Cho $A$ và $B$ là hai biến cố. Biến cố: \"Cả $A$ và $B$ đều xảy ra\" được gọi là biến cố giao của $A$ và $B$, kí hiệu là $A \\cap B$ hoặc $AB$. Biến cố giao của $A$ và $B$ là tập con $A \\cap B$ của không gian mẫu $\\Omega$.",
+      "notation": "$A \\cap B, AB$",
+      "aliases": [
+        "Khái niệm biến cố giao",
+        "Giao của hai biến cố"
+      ],
+      "chapter": "Chương VIII. Các quy tắc tính xác suất",
+      "lesson": "Bài 28. Biến cố hợp, biến cố giao, biến cố độc lập",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-bien-co-hop",
+        "toan-11-cong-thuc-nhan-xac-suat"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 69,
+          "printed_page": 68
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-bien-co-doc-lap",
+      "term": "Biến cố độc lập",
+      "type": "dinh_nghia",
+      "definition": "Cặp biến cố $A$ và $B$ được gọi là độc lập nếu việc xảy ra hay không xảy ra của biến cố này không ảnh hưởng tới xác suất xảy ra của biến cố kia. Nếu cặp biến cố $A$ và $B$ độc lập thì các cặp biến cố $A$ và $\\overline{B}$, $\\overline{A}$ và $B$, $\\overline{A}$ và $\\overline{B}$ cũng độc lập.",
+      "notation": "$A, B$ độc lập",
+      "aliases": [
+        "Hai biến cố độc lập",
+        "Cặp biến cố độc lập"
+      ],
+      "chapter": "Chương VIII. Các quy tắc tính xác suất",
+      "lesson": "Bài 28. Biến cố hợp, biến cố giao, biến cố độc lập",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-cong-thuc-nhan-xac-suat"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 70,
+          "printed_page": 69
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-bien-co-xung-khac",
+      "term": "Biến cố xung khắc",
+      "type": "dinh_nghia",
+      "definition": "Biến cố $A$ và biến cố $B$ được gọi là xung khắc nếu $A$ và $B$ không đồng thời xảy ra. Hai biến cố $A$ và $B$ xung khắc khi và chỉ khi $A \\cap B = \\emptyset$.",
+      "notation": "$A \\cap B = \\emptyset$",
+      "aliases": [
+        "Hai biến cố xung khắc"
+      ],
+      "chapter": "Chương VIII. Các quy tắc tính xác suất",
+      "lesson": "Bài 29. Công thức cộng xác suất",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-cong-thuc-cong-xac-suat"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 74,
+          "printed_page": 73
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-cong-thuc-cong-xac-suat",
+      "term": "Công thức cộng xác suất",
+      "type": "cong_thuc",
+      "definition": "Với hai biến cố xung khắc: Nếu $A$ và $B$ là hai biến cố xung khắc thì $P(A \\cup B) = P(A) + P(B)$. Với hai biến cố bất kì: Cho hai biến cố $A$ và $B$. Khi đó $P(A \\cup B) = P(A) + P(B) - P(A \\cap B)$.",
+      "notation": "$P(A \\cup B) = P(A) + P(B) - P(A \\cap B)$",
+      "aliases": [
+        "Công thức cộng xác suất cho hai biến cố xung khắc",
+        "Quy tắc cộng xác suất"
+      ],
+      "chapter": "Chương VIII. Các quy tắc tính xác suất",
+      "lesson": "Bài 29. Công thức cộng xác suất",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-bien-co-xung-khac",
+        "toan-11-bien-co-hop"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 74,
+          "printed_page": 73
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-cong-thuc-nhan-xac-suat",
+      "term": "Công thức nhân xác suất",
+      "type": "cong_thuc",
+      "definition": "Nếu hai biến cố $A$ và $B$ độc lập với nhau thì $P(AB) = P(A) \\cdot P(B)$. Công thức này gọi là công thức nhân xác suất cho hai biến cố độc lập. Với hai biến cố $A$ và $B$, nếu $P(AB) \\ne P(A) P(B)$ thì $A$ và $B$ không độc lập.",
+      "notation": "$P(AB) = P(A) \\cdot P(B)$",
+      "aliases": [
+        "Công thức nhân xác suất cho hai biến cố độc lập",
+        "Quy tắc nhân xác suất"
+      ],
+      "chapter": "Chương VIII. Các quy tắc tính xác suất",
+      "lesson": "Bài 30. Công thức nhân xác suất cho hai biến cố độc lập",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-bien-co-doc-lap",
+        "toan-11-bien-co-giao"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 77,
+          "printed_page": 76
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dao-ham-tai-mot-diem",
+      "term": "Đạo hàm tại một điểm",
+      "type": "dinh_nghia",
+      "definition": "Cho hàm số $y = f(x)$ xác định trên khoảng $(a; b)$ và điểm $x_0 \\in (a; b)$. Nếu tồn tại giới hạn hữu hạn $\\lim_{x \\to x_0} \\frac{f(x) - f(x_0)}{x - x_0}$ thì giới hạn đó được gọi là đạo hàm của hàm số $y = f(x)$ tại điểm $x_0$, kí hiệu bởi $f'(x_0)$ (hoặc $y'(x_0)$), tức là $f'(x_0) = \\lim_{x \\to x_0} \\frac{f(x) - f(x_0)}{x - x_0}$.",
+      "notation": "$f'(x_0) = \\lim_{x \\to x_0} \\frac{f(x) - f(x_0)}{x - x_0}$",
+      "aliases": [
+        "Đạo hàm của hàm số tại một điểm",
+        "Khái niệm đạo hàm tại một điểm"
+      ],
+      "chapter": "Chương IX. Đạo hàm",
+      "lesson": "Bài 31. Định nghĩa và ý nghĩa của đạo hàm",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-dao-ham-tren-mot-khoang",
+        "toan-11-y-nghia-hinh-hoc-cua-dao-ham"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 83,
+          "printed_page": 82
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dao-ham-tren-mot-khoang",
+      "term": "Đạo hàm trên một khoảng",
+      "type": "dinh_nghia",
+      "definition": "Hàm số $y = f(x)$ được gọi là có đạo hàm trên khoảng $(a; b)$ nếu nó có đạo hàm $f'(x)$ tại mọi điểm $x$ thuộc khoảng đó. Khi đó hàm số $f': (a; b) \\to \\mathbb{R}$, $x \\mapsto f'(x)$ được gọi là đạo hàm của hàm số $y = f(x)$ trên khoảng $(a; b)$, kí hiệu là $y'$ hay $f'(x)$.",
+      "notation": "$y' = f'(x)$",
+      "aliases": [
+        "Đạo hàm trên khoảng",
+        "Khái niệm đạo hàm trên một khoảng"
+      ],
+      "chapter": "Chương IX. Đạo hàm",
+      "lesson": "Bài 31. Định nghĩa và ý nghĩa của đạo hàm",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-dao-ham-tai-mot-diem"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 84,
+          "printed_page": 83
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-y-nghia-vat-li-cua-dao-ham",
+      "term": "Ý nghĩa vật lí của đạo hàm",
+      "type": "dinh_ly",
+      "definition": "Nếu phương trình chuyển động của vật là $s = f(t)$ thì $v(t) = f'(t)$ là vận tốc tức thời của vật tại thời điểm $t$. Nếu điện lượng truyền trong dây dẫn là $Q = Q(t)$ thì $I(t) = Q'(t)$ là cường độ tức thời của dòng điện tại thời điểm $t$.",
+      "notation": "$v(t) = s'(t), I(t) = Q'(t)$",
+      "aliases": [
+        "Vận tốc tức thời",
+        "Cường độ tức thời của dòng điện",
+        "Ý nghĩa cơ học của đạo hàm"
+      ],
+      "chapter": "Chương IX. Đạo hàm",
+      "lesson": "Bài 31. Định nghĩa và ý nghĩa của đạo hàm",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-dao-ham-tai-mot-diem",
+        "toan-11-y-nghia-co-hoc-cua-dao-ham-cap-hai"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 84,
+          "printed_page": 83
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-y-nghia-hinh-hoc-cua-dao-ham",
+      "term": "Ý nghĩa hình học của đạo hàm",
+      "type": "dinh_ly",
+      "definition": "Đạo hàm của hàm số $y = f(x)$ tại điểm $x_0$ là hệ số góc của tiếp tuyến của đồ thị hàm số đó tại điểm $P(x_0; f(x_0))$. Nếu hàm số $y = f(x)$ có đạo hàm tại điểm $x_0$ thì phương trình tiếp tuyến của đồ thị hàm số tại điểm $P(x_0; f(x_0))$ là: $y - f(x_0) = f'(x_0)(x - x_0)$.",
+      "notation": "$y - f(x_0) = f'(x_0)(x - x_0)$",
+      "aliases": [
+        "Phương trình tiếp tuyến của đồ thị hàm số",
+        "Hệ số góc của tiếp tuyến",
+        "Ý nghĩa hình học"
+      ],
+      "chapter": "Chương IX. Đạo hàm",
+      "lesson": "Bài 31. Định nghĩa và ý nghĩa của đạo hàm",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-dao-ham-tai-mot-diem"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 86,
+          "printed_page": 85
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dao-ham-cua-ham-so-so-cap-co-ban",
+      "term": "Đạo hàm của một số hàm số sơ cấp cơ bản",
+      "type": "cong_thuc",
+      "definition": "Đạo hàm của các hàm số sơ cấp: Với $c$ là hằng số: $(c)' = 0$; $(x^n)' = n x^{n-1}$ ($n \\in \\mathbb{N}^*$); $(\\sqrt{x})' = \\frac{1}{2\\sqrt{x}}$ ($x > 0$); $(\\sin x)' = \\cos x$; $(\\cos x)' = -\\sin x$; $(\\tan x)' = \\frac{1}{\\cos^2 x}$; $(\\cot x)' = -\\frac{1}{\\sin^2 x}$; $(e^x)' = e^x$; $(a^x)' = a^x \\ln a$; $(\\ln x)' = \\frac{1}{x}$; $(\\log_a x)' = \\frac{1}{x \\ln a}$.",
+      "notation": "$(x^n)' = n x^{n-1}, (\\sin x)' = \\cos x, (e^x)' = e^x$",
+      "aliases": [
+        "Đạo hàm của các hàm số sơ cấp",
+        "Đạo hàm hàm số cơ bản",
+        "Bảng đạo hàm cơ bản"
+      ],
+      "chapter": "Chương IX. Đạo hàm",
+      "lesson": "Bài 32. Các quy tắc tính đạo hàm",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-quy-tac-tinh-dao-ham",
+        "toan-11-dao-ham-cua-ham-so-hop"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 89,
+          "printed_page": 88
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-quy-tac-tinh-dao-ham",
+      "term": "Quy tắc tính đạo hàm",
+      "type": "quy_tac",
+      "definition": "Giả sử các hàm số $u = u(x), v = v(x)$ có đạo hàm trên khoảng $(a; b)$. Khi đó: $(u + v)' = u' + v'$; $(u - v)' = u' - v'$; $(u v)' = u' v + u v'$; $(\\frac{u}{v})' = \\frac{u' v - u v'}{v^2}$ (với $v = v(x) \\ne 0$). Với $k$ là một hằng số, ta có $(k u)' = k u'$.",
+      "notation": "$(u+v)' = u'+v', (uv)' = u'v+uv', (\\frac{u}{v})' = \\frac{u'v-uv'}{v^2}$",
+      "aliases": [
+        "Đạo hàm của tổng, hiệu, tích, thương",
+        "Quy tắc đạo hàm tổng hiệu tích thương"
+      ],
+      "chapter": "Chương IX. Đạo hàm",
+      "lesson": "Bài 32. Các quy tắc tính đạo hàm",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-dao-ham-cua-ham-so-so-cap-co-ban",
+        "toan-11-dao-ham-cua-ham-so-hop"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 90,
+          "printed_page": 89
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dao-ham-cua-ham-so-hop",
+      "term": "Đạo hàm của hàm số hợp",
+      "type": "dinh_ly",
+      "definition": "Nếu hàm số $u = g(x)$ có đạo hàm tại $x$ là $u'_x$ và hàm số $y = f(u)$ có đạo hàm tại $u$ là $y'_u$ thì hàm số hợp $y = f(g(x))$ có đạo hàm tại $x$ là: $y'_x = y'_u \\cdot u'_x$.",
+      "notation": "$y'_x = y'_u \\cdot u'_x$",
+      "aliases": [
+        "Đạo hàm hàm số hợp",
+        "Quy tắc đạo hàm của hàm số hợp"
+      ],
+      "chapter": "Chương IX. Đạo hàm",
+      "lesson": "Bài 32. Các quy tắc tính đạo hàm",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-quy-tac-tinh-dao-ham"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 91,
+          "printed_page": 90
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dao-ham-cap-hai",
+      "term": "Đạo hàm cấp hai",
+      "type": "dinh_nghia",
+      "definition": "Giả sử hàm số $y = f(x)$ có đạo hàm tại mỗi điểm $x \\in (a; b)$. Nếu hàm số $y' = f'(x)$ lại có đạo hàm tại $x$ thì ta gọi đạo hàm của $y'$ là đạo hàm cấp hai của hàm số $y = f(x)$ tại $x$, kí hiệu là $y''$ hoặc $f''(x)$.",
+      "notation": "$y'' = (y')', f''(x) = (f'(x))'$",
+      "aliases": [
+        "Khái niệm đạo hàm cấp hai",
+        "Đạo hàm cấp 2"
+      ],
+      "chapter": "Chương IX. Đạo hàm",
+      "lesson": "Bài 33. Đạo hàm cấp hai",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-dao-ham-tai-mot-diem",
+        "toan-11-y-nghia-co-hoc-cua-dao-ham-cap-hai"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 96,
+          "printed_page": 95
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-y-nghia-co-hoc-cua-dao-ham-cap-hai",
+      "term": "Ý nghĩa cơ học của đạo hàm cấp hai",
+      "type": "dinh_ly",
+      "definition": "Một chuyển động có phương trình $s = s(t)$ thì đạo hàm cấp hai (nếu có) của hàm số $s(t)$ là gia tốc tức thời của chuyển động. Ta có: $a(t) = s''(t)$. Gia tốc tức thời tại thời điểm $t_0$ là $a(t_0) = s''(t_0)$.",
+      "notation": "$a(t) = s''(t)$",
+      "aliases": [
+        "Gia tốc tức thời",
+        "Ý nghĩa vật lí của đạo hàm cấp hai",
+        "Ý nghĩa cơ học"
+      ],
+      "chapter": "Chương IX. Đạo hàm",
+      "lesson": "Bài 33. Đạo hàm cấp hai",
+      "level": "co_ban",
+      "related_terms": [
+        "toan-11-dao-ham-cap-hai",
+        "toan-11-y-nghia-vat-li-cua-dao-ham"
+      ],
+      "sources": [
+        {
+          "book_type": "sgk",
+          "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_page": 97,
+          "printed_page": 96
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phep-bien-hinh",
+      "term": "Phép biến hình",
+      "type": "dinh_nghia",
+      "definition": "Phép biến hình trong mặt phẳng là một quy tắc để ứng với mỗi điểm $M$ thuộc mặt phẳng, xác định được một điểm $M'$ duy nhất thuộc mặt phẳng đó. Điểm $M'$ được gọi là ảnh của điểm $M$ qua phép biến hình đó. Nếu kí hiệu một phép biến hình là $f$ và $M'$ là ảnh của điểm $M$ qua $f$, thì ta viết $M' = f(M)$.",
+      "notation": "$M' = f(M)$",
+      "aliases": [
+        "Khái niệm phép biến hình",
+        "Ảnh của một điểm"
+      ],
+      "chapter": "Chuyên đề 1. Phép biến hình trong mặt phẳng",
+      "lesson": "Bài 1. Phép biến hình",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-phep-dong-nhat",
+        "toan-11-phep-tinh-tien"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 7,
+          "printed_page": 6
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phep-dong-nhat",
+      "term": "Phép đồng nhất",
+      "type": "dinh_nghia",
+      "definition": "Phép biến hình biến mỗi điểm $M$ thành chính nó được gọi là phép đồng nhất.",
+      "notation": "$\\text{Id}(M) = M$",
+      "aliases": [
+        "Khái niệm phép đồng nhất"
+      ],
+      "chapter": "Chuyên đề 1. Phép biến hình trong mặt phẳng",
+      "lesson": "Bài 1. Phép biến hình",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-phep-bien-hinh"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 7,
+          "printed_page": 6
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phep-tinh-tien",
+      "term": "Phép tịnh tiến",
+      "type": "dinh_nghia",
+      "definition": "Cho vectơ $\\vec{u}$. Phép biến hình biến mỗi điểm $M$ thành điểm $M'$ sao cho $\\vec{MM'} = \\vec{u}$ gọi là phép tịnh tiến theo vectơ $\\vec{u}$, kí hiệu là $T_{\\vec{u}}$. Vectơ $\\vec{u}$ được gọi là vectơ tịnh tiến. Phép tịnh tiến theo vectơ $\\vec{0}$ là phép đồng nhất.",
+      "notation": "$T_{\\vec{u}}(M) = M' \\iff \\vec{MM'} = \\vec{u}$",
+      "aliases": [
+        "Phép tịnh tiến theo vectơ",
+        "Khái niệm phép tịnh tiến"
+      ],
+      "chapter": "Chuyên đề 1. Phép biến hình trong mặt phẳng",
+      "lesson": "Bài 2. Phép tịnh tiến",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-phep-bien-hinh",
+        "toan-11-tinh-chat-phep-tinh-tien"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 10,
+          "printed_page": 9
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tinh-chat-phep-tinh-tien",
+      "term": "Tính chất phép tịnh tiến",
+      "type": "tinh_chat",
+      "definition": "Nếu phép tịnh tiến theo vectơ $\\vec{u}$ biến hai điểm $M, N$ tương ứng thành hai điểm $M', N'$ thì $\\vec{M'N'} = \\vec{MN}$, từ đó suy ra $M'N' = MN$. Như vậy phép tịnh tiến bảo toàn khoảng cách giữa hai điểm bất kì. Phép tịnh tiến biến đường thẳng thành đường thẳng song song hoặc trùng với nó, biến đoạn thẳng thành đoạn thẳng bằng nó, biến tam giác thành tam giác bằng nó, biến đường tròn thành đường tròn có cùng bán kính.",
+      "notation": "$\\vec{M'N'} = \\vec{MN} \\implies M'N' = MN$",
+      "aliases": [
+        "Tính chất của phép tịnh tiến",
+        "Bảo toàn khoảng cách của phép tịnh tiến"
+      ],
+      "chapter": "Chuyên đề 1. Phép biến hình trong mặt phẳng",
+      "lesson": "Bài 2. Phép tịnh tiến",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-phep-tinh-tien"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 11,
+          "printed_page": 10
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phep-doi-xung-truc",
+      "term": "Phép đối xứng trục",
+      "type": "dinh_nghia",
+      "definition": "Cho đường thẳng $d$. Phép biến hình biến mỗi điểm $M$ thuộc $d$ thành chính nó, biến mỗi điểm $M$ không thuộc $d$ thành điểm $M'$ sao cho $d$ là đường trung trực của đoạn thẳng $MM'$ được gọi là phép đối xứng qua đường thẳng $d$ hay phép đối xứng trục $d$, kí hiệu là $D_d$. Đường thẳng $d$ gọi là trục đối xứng.",
+      "notation": "$D_d(M) = M'$",
+      "aliases": [
+        "Đối xứng trục",
+        "Khái niệm phép đối xứng trục"
+      ],
+      "chapter": "Chuyên đề 1. Phép biến hình trong mặt phẳng",
+      "lesson": "Bài 3. Phép đối xứng trục",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-truc-doi-xung-cua-hinh",
+        "toan-11-phep-doi-xung-tam"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 13,
+          "printed_page": 12
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-truc-doi-xung-cua-hinh",
+      "term": "Trục đối xứng của một hình",
+      "type": "dinh_nghia",
+      "definition": "Hình $\\mathcal{H}$ nhận đường thẳng $d$ là trục đối xứng khi và chỉ khi phép đối xứng trục $D_d$ biến hình $\\mathcal{H}$ thành chính nó.",
+      "notation": "$D_d(\\mathcal{H}) = \\mathcal{H}$",
+      "aliases": [
+        "Trục đối xứng",
+        "Hình có trục đối xứng"
+      ],
+      "chapter": "Chuyên đề 1. Phép biến hình trong mặt phẳng",
+      "lesson": "Bài 3. Phép đối xứng trục",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-phep-doi-xung-truc"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 14,
+          "printed_page": 13
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phep-quay",
+      "term": "Phép quay",
+      "type": "dinh_nghia",
+      "definition": "Cho điểm $O$ và góc lượng giác $\\alpha$. Phép biến hình biến điểm $O$ thành chính nó, biến mỗi điểm $M$ khác $O$ thành điểm $M'$ sao cho $OM' = OM$ và góc lượng giác $(OM, OM') = \\alpha$ được gọi là phép quay tâm $O$ góc quay $\\alpha$, kí hiệu là $Q_{(O, \\alpha)}$. Điểm $O$ gọi là tâm quay, $\\alpha$ gọi là góc quay. Phép quay bảo toàn khoảng cách giữa hai điểm bất kì.",
+      "notation": "$Q_{(O, \\alpha)}$",
+      "aliases": [
+        "Khái niệm phép quay",
+        "Phép quay tâm O"
+      ],
+      "chapter": "Chuyên đề 1. Phép biến hình trong mặt phẳng",
+      "lesson": "Bài 4. Phép quay và phép đối xứng tâm",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-phep-doi-xung-tam",
+        "toan-11-phep-doi-hinh"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 17,
+          "printed_page": 16
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phep-doi-xung-tam",
+      "term": "Phép đối xứng tâm",
+      "type": "dinh_nghia",
+      "definition": "Cho điểm $O$. Phép biến hình biến điểm $O$ thành chính nó, biến mỗi điểm $M$ khác $O$ thành điểm $M'$ sao cho $O$ là trung điểm của đoạn thẳng $MM'$ được gọi là phép đối xứng qua điểm $O$ hay phép đối xứng tâm $O$, kí hiệu là $D_O$. Phép đối xứng tâm $O$ chính là phép quay tâm $O$ góc quay $\\pi$ (hoặc $180^\\circ$).",
+      "notation": "$D_O(M) = M'$",
+      "aliases": [
+        "Đối xứng tâm",
+        "Khái niệm phép đối xứng tâm"
+      ],
+      "chapter": "Chuyên đề 1. Phép biến hình trong mặt phẳng",
+      "lesson": "Bài 4. Phép quay và phép đối xứng tâm",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-phep-quay",
+        "toan-11-tam-doi-xung-cua-hinh"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 19,
+          "printed_page": 18
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tam-doi-xung-cua-hinh",
+      "term": "Tâm đối xứng của một hình",
+      "type": "dinh_nghia",
+      "definition": "Điểm $O$ được gọi là tâm đối xứng của hình $\\mathcal{H}$ nếu phép đối xứng tâm $D_O$ biến hình $\\mathcal{H}$ thành chính nó, tức là $D_O(\\mathcal{H}) = \\mathcal{H}$.",
+      "notation": "$D_O(\\mathcal{H}) = \\mathcal{H}$",
+      "aliases": [
+        "Tâm đối xứng",
+        "Hình có tâm đối xứng"
+      ],
+      "chapter": "Chuyên đề 1. Phép biến hình trong mặt phẳng",
+      "lesson": "Bài 4. Phép quay và phép đối xứng tâm",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-phep-doi-xung-tam"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 20,
+          "printed_page": 19
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phep-doi-hinh",
+      "term": "Phép dời hình",
+      "type": "dinh_nghia",
+      "definition": "Phép biến hình bảo toàn khoảng cách giữa hai điểm bất kì được gọi là phép dời hình. Phép tịnh tiến, phép đối xứng trục, phép quay, phép đối xứng tâm đều là các phép dời hình. Thực hiện liên tiếp hai phép dời hình ta cũng được một phép dời hình.",
+      "notation": "$M'N' = MN$",
+      "aliases": [
+        "Khái niệm phép dời hình",
+        "Phép biến hình bảo toàn khoảng cách"
+      ],
+      "chapter": "Chuyên đề 1. Phép biến hình trong mặt phẳng",
+      "lesson": "Bài 5. Phép dời hình",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-hai-hinh-bang-nhau",
+        "toan-11-phep-dong-dang"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 22,
+          "printed_page": 21
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hai-hinh-bang-nhau",
+      "term": "Hai hình bằng nhau",
+      "type": "dinh_nghia",
+      "definition": "Hai hình $\\mathcal{H}$ và $\\mathcal{H}'$ được gọi là bằng nhau nếu có một phép dời hình biến hình $\\mathcal{H}$ thành hình $\\mathcal{H}'$.",
+      "notation": "$\\mathcal{H} = \\mathcal{H}'$",
+      "aliases": [
+        "Khái niệm hai hình bằng nhau"
+      ],
+      "chapter": "Chuyên đề 1. Phép biến hình trong mặt phẳng",
+      "lesson": "Bài 5. Phép dời hình",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-phep-doi-hinh",
+        "toan-11-hai-hinh-dong-dang"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 22,
+          "printed_page": 21
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phep-vi-tu",
+      "term": "Phép vị tự",
+      "type": "dinh_nghia",
+      "definition": "Cho điểm $O$ và một số thực $k \\ne 0$. Phép biến hình biến mỗi điểm $M$ thành điểm $M'$ sao cho $\\vec{OM'} = k \\vec{OM}$ được gọi là phép vị tự tâm $O$, tỉ số $k$, kí hiệu là $V_{(O, k)}$. Điểm $O$ gọi là tâm vị tự, $k$ gọi là tỉ số vị tự. Phép vị tự $V_{(O, 1)}$ là phép đồng nhất, $V_{(O, -1)}$ là phép đối xứng tâm $O$.",
+      "notation": "$V_{(O, k)}(M) = M' \\iff \\vec{OM'} = k\\vec{OM}$",
+      "aliases": [
+        "Khái niệm phép vị tự",
+        "Phép vị tự tâm O tỉ số k"
+      ],
+      "chapter": "Chuyên đề 1. Phép biến hình trong mặt phẳng",
+      "lesson": "Bài 6. Phép vị tự",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-tinh-chat-phep-vi-tu",
+        "toan-11-phep-dong-dang"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 28,
+          "printed_page": 27
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-tinh-chat-phep-vi-tu",
+      "term": "Tính chất phép vị tự",
+      "type": "tinh_chat",
+      "definition": "Nếu một phép vị tự tâm $O$, tỉ số $k$ biến điểm $M$ thành điểm $M'$, điểm $N$ thành điểm $N'$ thì $\\vec{M'N'} = k \\vec{MN}$ và $M'N' = |k| MN$. Phép vị tự tâm $O$ tỉ số $k$ biến ba điểm thẳng hàng thành ba điểm thẳng hàng và bảo toàn thứ tự giữa các điểm; biến đường thẳng thành đường thẳng song song hoặc trùng với nó; biến tia thành tia; biến đoạn thẳng thành đoạn thẳng mà độ dài được nhân lên với $|k|$; biến tam giác thành tam giác đồng dạng với tỉ số đồng dạng là $|k|$; biến góc thành góc bằng nó; biến đường tròn bán kính $R$ thành đường tròn bán kính $|k| R$.",
+      "notation": "$\\vec{M'N'} = k\\vec{MN}, M'N' = |k|MN$",
+      "aliases": [
+        "Tính chất của phép vị tự"
+      ],
+      "chapter": "Chuyên đề 1. Phép biến hình trong mặt phẳng",
+      "lesson": "Bài 6. Phép vị tự",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-phep-vi-tu"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 28,
+          "printed_page": 27
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phep-dong-dang",
+      "term": "Phép đồng dạng",
+      "type": "dinh_nghia",
+      "definition": "Phép biến hình $f$ được gọi là phép đồng dạng tỉ số $k$ ($k > 0$) nếu với hai điểm $M, N$ bất kì và ảnh $M' = f(M), N' = f(N)$ tương ứng của chúng, ta luôn có $M'N' = k MN$. Phép dời hình là phép đồng dạng tỉ số 1. Phép vị tự tỉ số $k$ là phép đồng dạng tỉ số $|k|$. Thực hiện liên tiếp một phép dời hình và một phép vị tự ta được một phép đồng dạng.",
+      "notation": "$M'N' = kMN$",
+      "aliases": [
+        "Khái niệm phép đồng dạng",
+        "Phép đồng dạng tỉ số k"
+      ],
+      "chapter": "Chuyên đề 1. Phép biến hình trong mặt phẳng",
+      "lesson": "Bài 7. Phép đồng dạng",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-hai-hinh-dong-dang",
+        "toan-11-phep-doi-hinh",
+        "toan-11-phep-vi-tu"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 31,
+          "printed_page": 30
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hai-hinh-dong-dang",
+      "term": "Hai hình đồng dạng",
+      "type": "dinh_nghia",
+      "definition": "Hai hình $\\mathcal{H}$ và $\\mathcal{H}'$ được gọi là đồng dạng nếu có một phép đồng dạng biến hình $\\mathcal{H}$ thành hình $\\mathcal{H}'$.",
+      "notation": "$\\mathcal{H} \\sim \\mathcal{H}'$",
+      "aliases": [
+        "Khái niệm hai hình đồng dạng"
+      ],
+      "chapter": "Chuyên đề 1. Phép biến hình trong mặt phẳng",
+      "lesson": "Bài 7. Phép đồng dạng",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-phep-dong-dang",
+        "toan-11-hai-hinh-bang-nhau"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 32,
+          "printed_page": 31
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-do-thi",
+      "term": "Đồ thị",
+      "type": "dinh_nghia",
+      "definition": "Một đồ thị là một tập hợp hữu hạn các điểm (gọi là các đỉnh của đồ thị) cùng với tập hợp các đoạn đường cong hay thẳng (gọi là cạnh của đồ thị) có đầu mút tại các đỉnh của đồ thị. Ta thường kí hiệu $V(G)$ là tập hợp các đỉnh và $E(G)$ là tập hợp các cạnh của đồ thị $G$, và viết $G = (V, E)$.",
+      "notation": "$G = (V, E)$",
+      "aliases": [
+        "Khái niệm đồ thị",
+        "Đồ thị G = (V, E)"
+      ],
+      "chapter": "Chuyên đề 2. Làm quen với một vài khái niệm của lí thuyết đồ thị",
+      "lesson": "Bài 8. Một số khái niệm cơ bản",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-don-do-thi",
+        "toan-11-bac-cua-dinh"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 36,
+          "printed_page": 35
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-don-do-thi",
+      "term": "Đơn đồ thị",
+      "type": "dinh_nghia",
+      "definition": "Một đồ thị không có khuyên và không có cạnh bội được gọi là một đơn đồ thị. Đơn đồ thị mà giữa hai đỉnh bất kì luôn có một cạnh nối được gọi là đồ thị đầy đủ.",
+      "notation": "$G$ là đơn đồ thị",
+      "aliases": [
+        "Khái niệm đơn đồ thị",
+        "Đồ thị đầy đủ"
+      ],
+      "chapter": "Chuyên đề 2. Làm quen với một vài khái niệm của lí thuyết đồ thị",
+      "lesson": "Bài 8. Một số khái niệm cơ bản",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-do-thi"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 37,
+          "printed_page": 36
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-bac-cua-dinh",
+      "term": "Bậc của đỉnh",
+      "type": "dinh_nghia",
+      "definition": "Bậc của đỉnh $v$ trong đồ thị $G$, kí hiệu là $d(v)$ (hoặc $\\text{deg}(v)$), là số cạnh của đồ thị $G$ nhận $v$ làm đầu mút (mỗi khuyên tính là 2 cạnh nhận $v$ làm đầu mút). Đỉnh có bậc chẵn gọi là đỉnh chẵn, đỉnh có bậc lẻ gọi là đỉnh lẻ. Đỉnh có bậc 0 gọi là đỉnh cô lập, đỉnh có bậc 1 gọi là đỉnh treo.",
+      "notation": "$d(v)$",
+      "aliases": [
+        "Bậc của một đỉnh",
+        "Đỉnh chẵn",
+        "Đỉnh lẻ",
+        "Đỉnh cô lập"
+      ],
+      "chapter": "Chuyên đề 2. Làm quen với một vài khái niệm của lí thuyết đồ thị",
+      "lesson": "Bài 8. Một số khái niệm cơ bản",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-do-thi",
+        "toan-11-dinh-li-bat-tay"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 38,
+          "printed_page": 37
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dinh-li-bat-tay",
+      "term": "Định lí bắt tay",
+      "type": "dinh_ly",
+      "definition": "Trong mọi đồ thị $G$, tổng tất cả các bậc của các đỉnh là một số chẵn và bằng hai lần tổng số các cạnh của $G$: $\\sum_{v \\in V} d(v) = 2 |E|$. Hệ quả: Số đỉnh bậc lẻ của mọi đồ thị là một số chẵn.",
+      "notation": "$\\sum_{v \\in V} d(v) = 2 |E|$",
+      "aliases": [
+        "Định lý bắt tay",
+        "bắt tay"
+      ],
+      "chapter": "Chuyên đề 2. Làm quen với một vài khái niệm của lí thuyết đồ thị",
+      "lesson": "Bài 8. Một số khái niệm cơ bản",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-bac-cua-dinh"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 38,
+          "printed_page": 37
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-duong-di-va-chu-trinh",
+      "term": "Đường đi và chu trình trong đồ thị",
+      "type": "dinh_nghia",
+      "definition": "Một đường đi khép kín (đầu đường trùng với cuối đường) gọi là một chu trình. Một đường đi (chu trình) qua $n$ cạnh gọi là một đường đi (chu trình) có độ dài $n$. Một đường đi (hay chu trình) là sơ cấp nếu nó không đi qua đỉnh nào hai lần trở lên. Một đường đi (chu trình) là đơn giản nếu nó không đi qua cạnh nào hai lần trở lên.",
+      "notation": "$v_0 e_1 v_1 e_2 \\dots e_k v_k$",
+      "aliases": [
+        "Đường đi và chu trình",
+        "Đường đi",
+        "Chu trình",
+        "Đường đi đơn giản",
+        "Chu trình đơn giản"
+      ],
+      "chapter": "Chuyên đề 2. Làm quen với một vài khái niệm của lí thuyết đồ thị",
+      "lesson": "Bài 8. Một số khái niệm cơ bản",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-do-thi",
+        "toan-11-do-thi-lien-thong"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 39,
+          "printed_page": 38
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-do-thi-lien-thong",
+      "term": "Đồ thị liên thông",
+      "type": "dinh_nghia",
+      "definition": "Hai đỉnh của một đồ thị gọi là liên thông nếu có một đường đi nối chúng. Đồ thị $G$ được gọi là liên thông nếu giữa hai đỉnh bất kì của nó luôn có đường đi nối chúng.",
+      "notation": "$G$ liên thông",
+      "aliases": [
+        "Khái niệm đồ thị liên thông",
+        "Hai đỉnh liên thông"
+      ],
+      "chapter": "Chuyên đề 2. Làm quen với một vài khái niệm của lí thuyết đồ thị",
+      "lesson": "Bài 8. Một số khái niệm cơ bản",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-duong-di-va-chu-trinh"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 40,
+          "printed_page": 39
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-chu-trinh-euler",
+      "term": "Chu trình Euler",
+      "type": "dinh_nghia",
+      "definition": "Một chu trình đơn giản chứa mọi cạnh của đồ thị được gọi là một chu trình Euler. Đồ thị có chu trình Euler được gọi là đồ thị Euler.",
+      "notation": "Chu trình Euler",
+      "aliases": [
+        "Đồ thị Euler",
+        "Khái niệm chu trình Euler"
+      ],
+      "chapter": "Chuyên đề 2. Làm quen với một vài khái niệm của lí thuyết đồ thị",
+      "lesson": "Bài 9. Đường đi Euler và đường đi Hamilton",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-duong-di-euler",
+        "toan-11-dinh-li-euler"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 42,
+          "printed_page": 41
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-duong-di-euler",
+      "term": "Đường đi Euler",
+      "type": "dinh_nghia",
+      "definition": "Một đường đi đơn giản chứa mọi cạnh của đồ thị được gọi là một đường đi Euler. Đồ thị có đường đi Euler nhưng không có chu trình Euler gọi là đồ thị nửa Euler.",
+      "notation": "Đường đi Euler",
+      "aliases": [
+        "Đồ thị nửa Euler",
+        "Khái niệm đường đi Euler"
+      ],
+      "chapter": "Chuyên đề 2. Làm quen với một vài khái niệm của lí thuyết đồ thị",
+      "lesson": "Bài 9. Đường đi Euler và đường đi Hamilton",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-chu-trinh-euler",
+        "toan-11-dinh-li-euler"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 42,
+          "printed_page": 41
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-dinh-li-euler",
+      "term": "Định lí Euler",
+      "type": "dinh_ly",
+      "definition": "Một đồ thị liên thông có chu trình Euler khi và chỉ khi mọi đỉnh của nó đều có bậc chẵn. Một đồ thị liên thông có đường đi Euler nhưng không có chu trình Euler khi và chỉ khi nó có đúng hai đỉnh có bậc lẻ.",
+      "notation": "Định lí Euler về đồ thị Euler",
+      "aliases": [
+        "Định lý Euler",
+        "Điều kiện để đồ thị có chu trình Euler"
+      ],
+      "chapter": "Chuyên đề 2. Làm quen với một vài khái niệm của lí thuyết đồ thị",
+      "lesson": "Bài 9. Đường đi Euler và đường đi Hamilton",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-chu-trinh-euler",
+        "toan-11-duong-di-euler"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 43,
+          "printed_page": 42
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-duong-di-va-chu-trinh-hamilton",
+      "term": "Đường đi Hamilton và chu trình Hamilton",
+      "type": "dinh_nghia",
+      "definition": "Một đường đi sơ cấp chứa mọi đỉnh của đồ thị được gọi là đường đi Hamilton. Một chu trình sơ cấp chứa mọi đỉnh của đồ thị được gọi là chu trình Hamilton. Đồ thị có chu trình Hamilton được gọi là đồ thị Hamilton.",
+      "notation": "Chu trình Hamilton",
+      "aliases": [
+        "Đường đi Hamilton",
+        "Chu trình Hamilton",
+        "Đồ thị Hamilton"
+      ],
+      "chapter": "Chuyên đề 2. Làm quen với một vài khái niệm của lí thuyết đồ thị",
+      "lesson": "Bài 9. Đường đi Euler và đường đi Hamilton",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-chu-trinh-euler"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 44,
+          "printed_page": 43
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-do-thi-co-trong-so",
+      "term": "Đồ thị có trọng số",
+      "type": "dinh_nghia",
+      "definition": "Đồ thị có trọng số là một đồ thị liên thông và mỗi cạnh được gắn với một số không âm, gọi là trọng số của cạnh đó.",
+      "notation": "$G = (V, E, W)$",
+      "aliases": [
+        "Khái niệm đồ thị có trọng số",
+        "Trọng số của cạnh"
+      ],
+      "chapter": "Chuyên đề 2. Làm quen với một vài khái niệm của lí thuyết đồ thị",
+      "lesson": "Bài 10. Bài toán tìm đường đi tối ưu trong một vài trường hợp đơn giản",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-bai-toan-tim-duong-di-ngan-nhat",
+        "toan-11-bai-toan-nguoi-dua-thu"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 47,
+          "printed_page": 46
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-bai-toan-tim-duong-di-ngan-nhat",
+      "term": "Bài toán tìm đường đi ngắn nhất",
+      "type": "dinh_nghia",
+      "definition": "Bài toán tìm đường đi từ đỉnh $A$ đến đỉnh $B$ trong một đồ thị có trọng số sao cho tổng các trọng số trên các cạnh của đường đi là nhỏ nhất. Để tìm đường đi ngắn nhất, ta có thể áp dụng thuật toán gán nhãn từng bước từ đỉnh xuất phát.",
+      "notation": "Tìm $\\min \\sum w(e)$",
+      "aliases": [
+        "Bài toán tìm đường đi tối ưu",
+        "Đường đi ngắn nhất"
+      ],
+      "chapter": "Chuyên đề 2. Làm quen với một vài khái niệm của lí thuyết đồ thị",
+      "lesson": "Bài 10. Bài toán tìm đường đi tối ưu trong một vài trường hợp đơn giản",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-do-thi-co-trong-so",
+        "toan-11-bai-toan-nguoi-dua-thu"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 47,
+          "printed_page": 46
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-bai-toan-nguoi-dua-thu",
+      "term": "Bài toán người đưa thư",
+      "type": "dinh_nghia",
+      "definition": "Bài toán tìm chu trình ngắn nhất đi qua tất cả các cạnh của một đồ thị cho trước. Trong trường hợp đồ thị có chu trình Euler thì độ dài quãng đường ngắn nhất chính bằng tổng trọng số của tất cả các cạnh trong đồ thị.",
+      "notation": "Bài toán người đưa thư",
+      "aliases": [
+        "Bài toán người đưa thư Trung Hoa",
+        "Chinese Postman Problem"
+      ],
+      "chapter": "Chuyên đề 2. Làm quen với một vài khái niệm của lí thuyết đồ thị",
+      "lesson": "Bài 10. Bài toán tìm đường đi tối ưu trong một vài trường hợp đơn giản",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-chu-trinh-euler",
+        "toan-11-do-thi-co-trong-so"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 49,
+          "printed_page": 48
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-phuong-phap-chieu-goc-thu-nhat",
+      "term": "Phương pháp chiếu góc thứ nhất",
+      "type": "quy_tac",
+      "definition": "Cho hình $\\mathcal{H}$ trong không gian và ba mặt phẳng $(P_1), (P_2), (P_3)$ đôi một vuông góc với nhau sao cho mặt phẳng $(P_1)$ vuông góc với hướng nhìn từ phía trước của hình $\\mathcal{H}$, mặt phẳng $(P_2)$ vuông góc với hướng nhìn từ phía trên của hình $\\mathcal{H}$ và mặt phẳng $(P_3)$ vuông góc với hướng nhìn từ phía trái của hình $\\mathcal{H}$. Khi đó: Các mặt phẳng $(P_1), (P_2)$ và $(P_3)$ lần lượt được gọi là mặt phẳng hình chiếu đứng, mặt phẳng hình chiếu bằng và mặt phẳng hình chiếu cạnh; Các hình chiếu vuông góc của hình $\\mathcal{H}$ lên các mặt phẳng $(P_1), (P_2), (P_3)$ lần lượt được gọi là hình chiếu đứng, hình chiếu bằng và hình chiếu cạnh của hình $\\mathcal{H}$.",
+      "notation": "Hình chiếu đứng, bằng, cạnh",
+      "aliases": [
+        "Hình chiếu vuông góc",
+        "Hình chiếu đứng",
+        "Hình chiếu bằng",
+        "Hình chiếu cạnh"
+      ],
+      "chapter": "Chuyên đề 3. Một số yếu tố vẽ kĩ thuật",
+      "lesson": "Bài 11. Hình chiếu vuông góc và hình chiếu trục đo",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-hinh-chieu-truc-do"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 56,
+          "printed_page": 55
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hinh-chieu-truc-do",
+      "term": "Hình chiếu trục đo",
+      "type": "dinh_nghia",
+      "definition": "Hình chiếu song song của một hình $\\mathcal{H}$ lên mặt phẳng $(P)$ theo phương $l$ không song song với bề mặt nào của hình $\\mathcal{H}$ được gọi là hình chiếu trục đo của $\\mathcal{H}$.",
+      "notation": "$O'x'y'z'$",
+      "aliases": [
+        "Khái niệm hình chiếu trục đo",
+        "Trục đo"
+      ],
+      "chapter": "Chuyên đề 3. Một số yếu tố vẽ kĩ thuật",
+      "lesson": "Bài 11. Hình chiếu vuông góc và hình chiếu trục đo",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-he-so-bien-dang",
+        "toan-11-hinh-chieu-truc-do-vuong-goc-deu"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 61,
+          "printed_page": 60
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-he-so-bien-dang",
+      "term": "Hệ số biến dạng",
+      "type": "dinh_nghia",
+      "definition": "Tỉ số giữa độ dài hình chiếu của một đoạn thẳng nằm trên trục toạ độ và độ dài của đoạn thẳng đó gọi là hệ số biến dạng: $p = \\frac{O'A'}{OA}$ trên trục $O'x'$, $q = \\frac{O'B'}{OB}$ trên trục $O'y'$, $r = \\frac{O'C'}{OC}$ trên trục $O'z'$.",
+      "notation": "$p, q, r$",
+      "aliases": [
+        "Hệ số biến dạng của trục đo"
+      ],
+      "chapter": "Chuyên đề 3. Một số yếu tố vẽ kĩ thuật",
+      "lesson": "Bài 11. Hình chiếu vuông góc và hình chiếu trục đo",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-hinh-chieu-truc-do",
+        "toan-11-hinh-chieu-truc-do-vuong-goc-deu"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 62,
+          "printed_page": 61
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hinh-chieu-truc-do-vuong-goc-deu",
+      "term": "Hình chiếu trục đo vuông góc đều",
+      "type": "dinh_nghia",
+      "definition": "Hình chiếu trục đo vuông góc đều có phương chiếu vuông góc với mặt phẳng hình chiếu, các góc trục đo bằng nhau: $\\widehat{x'O'y'} = \\widehat{y'O'z'} = \\widehat{z'O'x'} = 120^\\circ$ và các hệ số biến dạng bằng nhau: $p = q = r = 1$ (quy ước).",
+      "notation": "$p = q = r = 1, \\text{góc } 120^\\circ$",
+      "aliases": [
+        "Trục đo vuông góc đều",
+        "Khái niệm hình chiếu trục đo vuông góc đều"
+      ],
+      "chapter": "Chuyên đề 3. Một số yếu tố vẽ kĩ thuật",
+      "lesson": "Bài 11. Hình chiếu vuông góc và hình chiếu trục đo",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-hinh-chieu-truc-do",
+        "toan-11-he-so-bien-dang"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 64,
+          "printed_page": 63
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-ban-ve-ki-thuat",
+      "term": "Bản vẽ kĩ thuật",
+      "type": "dinh_nghia",
+      "definition": "Bản vẽ kĩ thuật của một vật thể là tài liệu mô tả chính xác hình dạng, kết cấu và kích thước của vật thể đó. Bản vẽ kĩ thuật đều có khung bản vẽ, khung tên và luôn được vẽ trên một khổ giấy nhất định.",
+      "notation": "Bản vẽ chi tiết",
+      "aliases": [
+        "Bản vẽ chi tiết",
+        "Khái niệm bản vẽ kĩ thuật"
+      ],
+      "chapter": "Chuyên đề 3. Một số yếu tố vẽ kĩ thuật",
+      "lesson": "Bài 12. Bản vẽ kĩ thuật",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-hinh-cat-va-mat-cat"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 69,
+          "printed_page": 68
+        }
+      ],
+      "notes": null
+    },
+    {
+      "id": "toan-11-hinh-cat-va-mat-cat",
+      "term": "Các loại nét vẽ trong bản vẽ kĩ thuật",
+      "type": "dinh_nghia",
+      "definition": "Trong bản vẽ kĩ thuật, các loại nét vẽ thường dùng gồm: Nét liền đậm thể hiện đường bao thấy, cạnh thấy; Nét liền mảnh thể hiện đường kích thước, đường gióng, đường gạch gạch trên mặt cắt; Nét đứt mảnh thể hiện đường bao khuất, cạnh khuất; Nét chấm gạch mảnh thể hiện đường tâm, đường trục đối xứng; Nét lượn sóng thể hiện đường giới hạn một phần hình cắt.",
+      "notation": "Mặt cắt, hình cắt",
+      "aliases": [
+        "Nét vẽ trong bản vẽ kĩ thuật",
+        "Các loại nét vẽ",
+        "Hình cắt và mặt cắt"
+      ],
+      "chapter": "Chuyên đề 3. Một số yếu tố vẽ kĩ thuật",
+      "lesson": "Bài 12. Bản vẽ kĩ thuật",
+      "level": "chuyen_de",
+      "related_terms": [
+        "toan-11-ban-ve-ki-thuat"
+      ],
+      "sources": [
+        {
+          "book_type": "scd",
+          "file": "SCD TOAN 11 - KNTT.pdf",
+          "pdf_page": 71,
+          "printed_page": 70
+        }
+      ],
+      "notes": null
+    }
+  ]
+}
