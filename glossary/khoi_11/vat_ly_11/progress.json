@@ -1,0 +1,572 @@
+{
+  "unit": "vat_ly_11",
+  "books": {
+    "SGK VAT LI 11 - KNTT.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        116,
+        117
+      ],
+      "chapters": {
+        "Chương I. Dao động": {
+          "lessons": {
+            "Bài 1. Dao động điều hoà": {
+              "status": "done",
+              "pdf_pages": [
+                8,
+                11
+              ],
+              "terms_added": 4
+            },
+            "Bài 2. Mô tả dao động điều hoà": {
+              "status": "done",
+              "pdf_pages": [
+                12,
+                15
+              ],
+              "terms_added": 8
+            },
+            "Bài 3. Vận tốc, gia tốc trong dao động điều hoà": {
+              "status": "done",
+              "pdf_pages": [
+                16,
+                18
+              ],
+              "terms_added": 2
+            },
+            "Bài 4. Bài tập về dao động điều hoà": {
+              "status": "done",
+              "pdf_pages": [
+                19,
+                21
+              ],
+              "terms_added": 1
+            },
+            "Bài 5. Động năng. Thế năng. Sự chuyển hoá năng lượng trong dao động điều hoà": {
+              "status": "done",
+              "pdf_pages": [
+                22,
+                25
+              ],
+              "terms_added": 4
+            },
+            "Bài 6. Dao động tắt dần. Dao động cưỡng bức. Hiện tượng cộng hưởng": {
+              "status": "done",
+              "pdf_pages": [
+                26,
+                29
+              ],
+              "terms_added": 4
+            },
+            "Bài 7. Bài tập về sự chuyển hoá năng lượng trong dao động điều hoà": {
+              "status": "done",
+              "pdf_pages": [
+                30,
+                32
+              ],
+              "terms_added": 0
+            }
+          },
+          "status": "done"
+        },
+        "Chương II. Sóng": {
+          "lessons": {
+            "Bài 8. Mô tả sóng": {
+              "status": "done",
+              "pdf_pages": [
+                34,
+                38
+              ],
+              "terms_added": 5
+            },
+            "Bài 9. Sóng ngang. Sóng dọc. Sự truyền năng lượng của sóng cơ": {
+              "status": "done",
+              "pdf_pages": [
+                39,
+                42
+              ],
+              "terms_added": 3
+            },
+            "Bài 10. Thực hành: Đo tần số của sóng âm": {
+              "status": "done",
+              "pdf_pages": [
+                43,
+                45
+              ],
+              "terms_added": 2
+            },
+            "Bài 11. Sóng điện từ": {
+              "status": "done",
+              "pdf_pages": [
+                46,
+                49
+              ],
+              "terms_added": 7
+            },
+            "Bài 12. Giao thoa sóng": {
+              "status": "done",
+              "pdf_pages": [
+                50,
+                53
+              ],
+              "terms_added": 6
+            },
+            "Bài 13. Sóng dừng": {
+              "status": "done",
+              "pdf_pages": [
+                54,
+                56
+              ],
+              "terms_added": 4
+            },
+            "Bài 14. Bài tập về sóng": {
+              "status": "done",
+              "pdf_pages": [
+                57,
+                59
+              ],
+              "terms_added": 0
+            },
+            "Bài 15. Thực hành: Đo tốc độ truyền âm": {
+              "status": "done",
+              "pdf_pages": [
+                60,
+                61
+              ],
+              "terms_added": 0
+            }
+          },
+          "status": "done"
+        },
+        "Chương III. Điện trường": {
+          "lessons": {
+            "Bài 16. Lực tương tác giữa hai điện tích": {
+              "status": "done",
+              "pdf_pages": [
+                63,
+                66
+              ],
+              "terms_added": 3
+            },
+            "Bài 17. Khái niệm điện trường": {
+              "status": "done",
+              "pdf_pages": [
+                67,
+                72
+              ],
+              "terms_added": 6
+            },
+            "Bài 18. Điện trường đều": {
+              "status": "done",
+              "pdf_pages": [
+                73,
+                77
+              ],
+              "terms_added": 1
+            },
+            "Bài 19. Thế năng điện": {
+              "status": "done",
+              "pdf_pages": [
+                78,
+                80
+              ],
+              "terms_added": 2
+            },
+            "Bài 20. Điện thế": {
+              "status": "done",
+              "pdf_pages": [
+                81,
+                84
+              ],
+              "terms_added": 3
+            },
+            "Bài 21. Tụ điện": {
+              "status": "done",
+              "pdf_pages": [
+                85,
+                91
+              ],
+              "terms_added": 5
+            }
+          },
+          "status": "done"
+        },
+        "Chương IV. Dòng điện. Mạch điện": {
+          "lessons": {
+            "Bài 22. Cường độ dòng điện": {
+              "status": "done",
+              "pdf_pages": [
+                93,
+                96
+              ],
+              "terms_added": 3
+            },
+            "Bài 23. Điện trở. Định luật Ohm": {
+              "status": "done",
+              "pdf_pages": [
+                97,
+                103
+              ],
+              "terms_added": 6
+            },
+            "Bài 24. Nguồn điện": {
+              "status": "done",
+              "pdf_pages": [
+                104,
+                107
+              ],
+              "terms_added": 5
+            },
+            "Bài 25. Năng lượng điện và công suất điện": {
+              "status": "done",
+              "pdf_pages": [
+                108,
+                112
+              ],
+              "terms_added": 4
+            },
+            "Bài 26. Thực hành: Đo suất điện động và điện trở trong của pin điện hoá": {
+              "status": "done",
+              "pdf_pages": [
+                113,
+                115
+              ],
+              "terms_added": 0
+            }
+          },
+          "status": "done"
+        }
+      }
+    },
+    "SCD VAT LI 11 - KNTT.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        60,
+        60
+      ],
+      "chapters": {
+        "Chuyên đề I. Trường hấp dẫn": {
+          "lessons": {
+            "Bài 1. Trường hấp dẫn": {
+              "status": "done",
+              "pdf_pages": [
+                7,
+                15
+              ],
+              "terms_added": 3
+            },
+            "Bài 2. Cường độ trường hấp dẫn": {
+              "status": "done",
+              "pdf_pages": [
+                16,
+                19
+              ],
+              "terms_added": 2
+            },
+            "Bài 3. Thế hấp dẫn và thế năng hấp dẫn": {
+              "status": "done",
+              "pdf_pages": [
+                20,
+                26
+              ],
+              "terms_added": 4
+            }
+          },
+          "status": "done"
+        },
+        "Chuyên đề II. Truyền thông tin bằng sóng vô tuyến": {
+          "lessons": {
+            "Bài 4. Biến điệu": {
+              "status": "done",
+              "pdf_pages": [
+                28,
+                34
+              ],
+              "terms_added": 6
+            },
+            "Bài 5. Tín hiệu tương tự và tín hiệu số": {
+              "status": "done",
+              "pdf_pages": [
+                35,
+                39
+              ],
+              "terms_added": 6
+            },
+            "Bài 6. Suy giảm tín hiệu": {
+              "status": "done",
+              "pdf_pages": [
+                40,
+                43
+              ],
+              "terms_added": 2
+            }
+          },
+          "status": "done"
+        },
+        "Chuyên đề III. Mở đầu điện tử học": {
+          "lessons": {
+            "Bài 7. Cảm biến": {
+              "status": "done",
+              "pdf_pages": [
+                45,
+                49
+              ],
+              "terms_added": 6
+            },
+            "Bài 8. Bộ khuếch đại thuật toán và thiết bị đầu ra": {
+              "status": "done",
+              "pdf_pages": [
+                50,
+                54
+              ],
+              "terms_added": 5
+            },
+            "Bài 9. Mạch điện ứng dụng đơn giản có sử dụng thiết bị đầu ra": {
+              "status": "done",
+              "pdf_pages": [
+                55,
+                59
+              ],
+              "terms_added": 0
+            }
+          },
+          "status": "done"
+        }
+      }
+    },
+    "SGV Vat li 11 KNTT.pdf": {
+      "status": "done",
+      "chapters": {
+        "Chương I. Dao động": {
+          "lessons": {
+            "Bài 1. Dao động điều hoà": {
+              "status": "done",
+              "pdf_pages": [
+                12,
+                16
+              ],
+              "terms_added": 4
+            },
+            "Bài 2. Mô tả dao động điều hoà": {
+              "status": "done",
+              "pdf_pages": [
+                17,
+                18
+              ],
+              "terms_added": 8
+            },
+            "Bài 3. Vận tốc, gia tốc trong dao động điều hoà": {
+              "status": "done",
+              "pdf_pages": [
+                19,
+                21
+              ],
+              "terms_added": 2
+            },
+            "Bài 4. Bài tập về dao động điều hoà": {
+              "status": "done",
+              "pdf_pages": [
+                22,
+                24
+              ],
+              "terms_added": 1
+            },
+            "Bài 5. Động năng. Thế năng. Sự chuyển hoá năng lượng trong dao động điều hoà": {
+              "status": "done",
+              "pdf_pages": [
+                25,
+                28
+              ],
+              "terms_added": 4
+            },
+            "Bài 6. Dao động tắt dần. Dao động cưỡng bức. Hiện tượng cộng hưởng": {
+              "status": "done",
+              "pdf_pages": [
+                29,
+                33
+              ],
+              "terms_added": 4
+            },
+            "Bài 7. Bài tập về sự chuyển hoá năng lượng trong dao động điều hoà": {
+              "status": "done",
+              "pdf_pages": [
+                34,
+                36
+              ],
+              "terms_added": 0
+            }
+          },
+          "status": "done"
+        },
+        "Chương II. Sóng": {
+          "lessons": {
+            "Bài 8. Mô tả sóng": {
+              "status": "done",
+              "pdf_pages": [
+                37,
+                41
+              ],
+              "terms_added": 5
+            },
+            "Bài 9. Sóng ngang. Sóng dọc. Sự truyền năng lượng của sóng cơ": {
+              "status": "done",
+              "pdf_pages": [
+                42,
+                45
+              ],
+              "terms_added": 3
+            },
+            "Bài 10. Thực hành: Đo tần số của sóng âm": {
+              "status": "done",
+              "pdf_pages": [
+                46,
+                48
+              ],
+              "terms_added": 2
+            },
+            "Bài 11. Sóng điện từ": {
+              "status": "done",
+              "pdf_pages": [
+                49,
+                51
+              ],
+              "terms_added": 7
+            },
+            "Bài 12. Giao thoa sóng": {
+              "status": "done",
+              "pdf_pages": [
+                52,
+                56
+              ],
+              "terms_added": 6
+            },
+            "Bài 13. Sóng dừng": {
+              "status": "done",
+              "pdf_pages": [
+                57,
+                60
+              ],
+              "terms_added": 4
+            },
+            "Bài 14. Bài tập về sóng": {
+              "status": "done",
+              "pdf_pages": [
+                61,
+                63
+              ],
+              "terms_added": 0
+            },
+            "Bài 15. Thực hành: Đo tốc độ truyền âm": {
+              "status": "done",
+              "pdf_pages": [
+                64,
+                66
+              ],
+              "terms_added": 0
+            }
+          },
+          "status": "done"
+        },
+        "Chương III. Điện trường": {
+          "lessons": {
+            "Bài 16. Lực tương tác giữa hai điện tích": {
+              "status": "done",
+              "pdf_pages": [
+                67,
+                70
+              ],
+              "terms_added": 3
+            },
+            "Bài 17. Khái niệm điện trường": {
+              "status": "done",
+              "pdf_pages": [
+                71,
+                76
+              ],
+              "terms_added": 6
+            },
+            "Bài 18. Điện trường đều": {
+              "status": "done",
+              "pdf_pages": [
+                77,
+                82
+              ],
+              "terms_added": 1
+            },
+            "Bài 19. Thế năng điện": {
+              "status": "done",
+              "pdf_pages": [
+                83,
+                85
+              ],
+              "terms_added": 2
+            },
+            "Bài 20. Điện thế": {
+              "status": "done",
+              "pdf_pages": [
+                86,
+                90
+              ],
+              "terms_added": 3
+            },
+            "Bài 21. Tụ điện": {
+              "status": "done",
+              "pdf_pages": [
+                91,
+                94
+              ],
+              "terms_added": 5
+            }
+          },
+          "status": "done"
+        },
+        "Chương IV. Dòng điện. Mạch điện": {
+          "lessons": {
+            "Bài 22. Cường độ dòng điện": {
+              "status": "done",
+              "pdf_pages": [
+                95,
+                97
+              ],
+              "terms_added": 3
+            },
+            "Bài 23. Điện trở. Định luật Ohm": {
+              "status": "done",
+              "pdf_pages": [
+                98,
+                102
+              ],
+              "terms_added": 6
+            },
+            "Bài 24. Nguồn điện": {
+              "status": "done",
+              "pdf_pages": [
+                103,
+                105
+              ],
+              "terms_added": 5
+            },
+            "Bài 25. Năng lượng điện và công suất điện": {
+              "status": "done",
+              "pdf_pages": [
+                106,
+                109
+              ],
+              "terms_added": 4
+            },
+            "Bài 26. Thực hành: Đo suất điện động và điện trở trong của pin điện hoá": {
+              "status": "done",
+              "pdf_pages": [
+                110,
+                114
+              ],
+              "terms_added": 0
+            }
+          },
+          "status": "done"
+        }
+      }
+    }
+  },
+  "last_session_note": "Hoàn tất 5 giai đoạn bộ vat_ly_11: 122 thuật ngữ, validate 0 lỗi, check_sources 122/122 đạt 100%, kiểm định mẫu 30 mục đạt 100% (0 lỗi)"
+}

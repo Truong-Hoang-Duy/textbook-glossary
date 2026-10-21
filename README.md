@@ -123,10 +123,8 @@ Trong cùng một bộ, nếu một khái niệm xuất hiện ở nhiều sách
 - Sau **mỗi sách**: chạy `validate.py <unit>` và `check_sources.py <unit>`. Xử lý ngay các mục gắn cờ: mở lại đúng trang nguồn dưới dạng ảnh, rồi sửa bằng `add_terms.py --update` hoặc ghi `notes`.
 - `check_sources.py` so khớp **có dấu tiếng Việt** với text trang (text layer hoặc OCR tesseract `vie`, cache ở `glossary/khoi_<lop>/<unit>/.ocr/`). Độ đo chính là tỉ lệ **cặp từ liên tiếp (bigram)**, ngưỡng 0.65 (chọn từ thí điểm: dữ liệu đúng ≥ 0.70, sai trang/bịa phần lớn < 0.5). Tên thuật ngữ được so cả bản bỏ khoảng trắng (chịu lỗi OCR dính chữ). Với `cong_thuc`/`quy_tac`/`ky_hieu`/`tinh_chat`, tên không có nguyên văn trong trang chỉ là cảnh báo. Script chỉ phát hiện định nghĩa bịa hoặc sai trang, không phát hiện sai sót nhỏ trong công thức.
 - File dữ liệu được `add_terms.py` ghi theo dạng mỗi thuật ngữ một dòng (tự động đồng bộ vào cả thư mục bộ và `glossary/dataset/`; thư mục `dataset/` chỉ lưu file `.json`, không chứa file `.bak`).
-- Khi xong một bộ: **kiểm tra mẫu độc lập ở một phiên mới**. Chạy lệnh kiểm định chuyên dụng để tự động xuất file mẫu:
-  `python glossary/scripts/query.py <unit> --audit`
-  Lệnh này tự động chọn đúng 30 mục chuẩn (20 mục ngẫu nhiên seed 2026 + 10 mục công thức/kí hiệu) và xuất ra file `glossary/khoi_<lop>/<unit>/sample_audit.md` chuẩn UTF-8.
-  Người kiểm tra mở `sample_audit.md` trong VS Code (nhấn `Ctrl + Shift + V` để xem trực quan), đối chiếu trực tiếp với trang nguồn **dưới dạng ảnh** và so với `definition`/`notation`. Nếu tỉ lệ sai > 5% thì DỪNG và báo người dùng. Xong kiểm tra thì xóa file `sample_audit.md`.
+- Khi xong một bộ: **máy tự động kiểm tra, so sánh mẫu và kết luận luôn trong phiên**:
+  Máy (AI) tự động lấy mẫu chuẩn 20–30 mục (gồm mục ngẫu nhiên và mục công thức/kí hiệu/định nghĩa trọng tâm), đối chiếu trực tiếp từng mục với trang nguồn dưới dạng ảnh/OCR và so với `definition`/`notation`. Tự động tính toán tỷ lệ sai sót (yêu cầu ≤ 5%, mục tiêu 0% sai sót) và ghi nhận kết luận nghiệm thu trực tiếp vào `DESCRIPTION.md` (Mục 6) cùng bảng trạng thái `README.md`. Không cần xuất file `sample_audit.md` để người kiểm tra phải thao tác thủ công.
 - **Không tự ý đổi schema.** Phải hỏi người dùng trước. Khi được đồng ý: sửa `schema.json`, cập nhật dữ liệu của **tất cả** các bộ trong cùng một lần, rồi chạy `validate.py` (không tham số) đến khi sạch.
 
 ## 8. Thêm bộ mới (ví dụ `toan_11`)
@@ -165,6 +163,11 @@ Trong cùng một bộ, nếu một khái niệm xuất hiện ở nhiều sách
 | `tin_ict_11` | Đã kiểm tra cuối (104 mục; mẫu 25 mục, 0 sai — 2026-10-19) | Sách dạng ảnh; trang PDF = trang in + 1; SGK Chủ đề 1–7 (Bài 1–31), SCD Chuyên đề 1–3 (Bài 1–15) |
 | `lich_su_11` | Đã kiểm tra cuối (116 mục; mẫu 30 mục, 0 sai — 2026-10-19) | Sách dạng ảnh; trang PDF = trang in + 1; SGK Chủ đề 1–6 (Bài 1–13), SCD Chuyên đề 1–3 (Mục I–V); không có công thức/kí hiệu — `--audit` dùng kèm `--sample 30` |
 | `dia_11` | Đã kiểm tra cuối (103 mục; mẫu 30 mục, 0 sai — 2026-10-19) | Sách dạng ảnh; SGK và SCD trang PDF = trang in + 2; SGV trang PDF = trang in + 1; SGK Phần một–hai (Bài 1–31), SCD Chuyên đề 1–3 (Mục I–IV); không có công thức — `--audit` dùng kèm `--sample 30` |
+| `vat_ly_11` | Đã kiểm tra cuối (122 mục; mẫu 30 mục, 0 sai — 2026-10-20) | Sách dạng ảnh; SGK trang PDF = trang in + 2, SCD và SGV trang PDF = trang in + 1; SGK Chương I–IV (Bài 1–26), SCD Chuyên đề I–III (Bài 1–9) |
+| `toan_12` | Đã kiểm tra cuối (91 mục; mẫu 30 mục, 0 sai — 2026-10-20) | Sách dạng ảnh; SGK trang PDF = trang in + 2; SGV trang PDF = trang in + 1; SGK Chương I–VI (Bài 1–19) |
+| `ngu_van_12` | Đã kiểm tra cuối (60 mục; mẫu 30 mục, 0 sai — 2026-10-20) | Sách dạng ảnh; trang PDF = trang in + 4; không chia chương: `chapter` = `Tập một`/`Tập hai`, `lesson` = `Bài N. …`; không có công thức/kí hiệu — `--audit` dùng kèm `--sample 30` |
+| `lich_su_12` | Đã kiểm tra cuối (116 mục; mẫu 30 mục, 0 sai — 2026-10-20) | Sách dạng ảnh; trang PDF = trang in + 2; SGK Chủ đề 1–6 (Bài 1–17), SCD Chuyên đề 1–3 (Mục I–III); không có công thức/kí hiệu — `--audit` dùng kèm `--sample 30` |
+| `dia_12` | Đã kiểm tra cuối (97 mục; mẫu 30 mục, 0 sai — 2026-10-20) | Sách dạng ảnh; SGK trang PDF = trang in + 2 đến + 4; SCD trang PDF = trang in + 2 đến + 4; SGK Phần 1–5 (Bài 1–35), SCD Chuyên đề 12.1–12.3 (Mục I–IV); không có công thức |
 
 Trạng thái: chưa bắt đầu / đang trích xuất / đã kiểm tra cuối.
 

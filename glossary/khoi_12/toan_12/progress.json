@@ -1,0 +1,430 @@
+{
+  "unit": "toan_12",
+  "books": {
+    "SGK TOAN 12 TAP 1 - KNTT.pdf": {
+      "status": "done",
+      "chapters": {
+        "Chương I. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số": {
+          "lessons": {
+            "Bài 1. Tính đơn điệu và cực trị của hàm số": {
+              "status": "done",
+              "pdf_pages": [
+                7,
+                16
+              ],
+              "terms_added": 9,
+              "done": true
+            },
+            "Bài 2. Giá trị lớn nhất và giá trị nhỏ nhất của hàm số": {
+              "status": "done",
+              "pdf_pages": [
+                17,
+                21
+              ],
+              "terms_added": 3,
+              "done": true
+            },
+            "Bài 3. Đường tiệm cận của đồ thị hàm số": {
+              "status": "done",
+              "pdf_pages": [
+                22,
+                27
+              ],
+              "terms_added": 4,
+              "done": true
+            },
+            "Bài 4. Khảo sát sự biến thiên và vẽ đồ thị của hàm số": {
+              "status": "done",
+              "pdf_pages": [
+                28,
+                34
+              ],
+              "terms_added": 4,
+              "done": true
+            },
+            "Bài 5. Ứng dụng đạo hàm để giải quyết một số vấn đề liên quan đến thực tiễn": {
+              "status": "done",
+              "pdf_pages": [
+                35,
+                43
+              ],
+              "terms_added": 5,
+              "done": true
+            }
+          }
+        },
+        "Chương II. Vectơ và hệ trục toạ độ trong không gian": {
+          "lessons": {
+            "Bài 6. Vectơ trong không gian": {
+              "status": "done",
+              "pdf_pages": [
+                47,
+                61
+              ],
+              "terms_added": 7,
+              "done": true
+            },
+            "Bài 7. Hệ trục toạ độ trong không gian": {
+              "status": "done",
+              "pdf_pages": [
+                62,
+                68
+              ],
+              "terms_added": 5,
+              "done": true
+            },
+            "Bài 8. Biểu thức toạ độ của các phép toán vectơ": {
+              "status": "done",
+              "pdf_pages": [
+                69,
+                74
+              ],
+              "terms_added": 6,
+              "done": true
+            }
+          }
+        },
+        "Chương III. Các số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm": {
+          "lessons": {
+            "Bài 9. Khoảng biến thiên và khoảng tứ phân vị": {
+              "status": "done",
+              "pdf_pages": [
+                78,
+                81
+              ],
+              "terms_added": 5,
+              "done": true
+            },
+            "Bài 10. Phương sai và độ lệch chuẩn": {
+              "status": "done",
+              "pdf_pages": [
+                82,
+                86
+              ],
+              "terms_added": 5,
+              "done": true
+            }
+          }
+        }
+      }
+    },
+    "SGK TOAN 12 TAP 2 - KNTT.pdf": {
+      "status": "done",
+      "chapters": {
+        "Chương IV. Nguyên hàm và tích phân": {
+          "lessons": {
+            "Bài 11. Nguyên hàm": {
+              "status": "done",
+              "pdf_pages": [
+                6,
+                13
+              ],
+              "terms_added": 4,
+              "done": true
+            },
+            "Bài 12. Tích phân": {
+              "status": "done",
+              "pdf_pages": [
+                14,
+                20
+              ],
+              "terms_added": 6,
+              "done": true
+            },
+            "Bài 13. Ứng dụng hình học của tích phân": {
+              "status": "done",
+              "pdf_pages": [
+                21,
+                28
+              ],
+              "terms_added": 4,
+              "done": true
+            }
+          }
+        },
+        "Chương V. Phương pháp toạ độ trong không gian": {
+          "lessons": {
+            "Bài 14. Phương trình mặt phẳng": {
+              "status": "done",
+              "pdf_pages": [
+                31,
+                42
+              ],
+              "terms_added": 8,
+              "done": true
+            },
+            "Bài 15. Phương trình đường thẳng trong không gian": {
+              "status": "done",
+              "pdf_pages": [
+                43,
+                51
+              ],
+              "terms_added": 3,
+              "done": true
+            },
+            "Bài 16. Công thức tính góc trong không gian": {
+              "status": "done",
+              "pdf_pages": [
+                52,
+                55
+              ],
+              "terms_added": 3,
+              "done": true
+            },
+            "Bài 17. Phương trình mặt cầu": {
+              "status": "done",
+              "pdf_pages": [
+                56,
+                62
+              ],
+              "terms_added": 2,
+              "done": true
+            }
+          }
+        },
+        "Chương VI. Xác suất có điều kiện": {
+          "lessons": {
+            "Bài 18. Xác suất có điều kiện": {
+              "status": "done",
+              "pdf_pages": [
+                66,
+                73
+              ],
+              "terms_added": 5,
+              "done": true
+            },
+            "Bài 19. Công thức xác suất toàn phần và công thức Bayes": {
+              "status": "done",
+              "pdf_pages": [
+                74,
+                80
+              ],
+              "terms_added": 3,
+              "done": true
+            }
+          }
+        }
+      }
+    },
+    "SGV TOAN 12 - KNTT.pdf": {
+      "status": "done",
+      "chapters": {
+        "Chương I. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số": {
+          "lessons": {
+            "Bài 1. Tính đơn điệu và cực trị của hàm số": {
+              "status": "done",
+              "pdf_pages": [
+                28,
+                41
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            },
+            "Bài 2. Giá trị lớn nhất và giá trị nhỏ nhất của hàm số": {
+              "status": "done",
+              "pdf_pages": [
+                42,
+                51
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            },
+            "Bài 3. Đường tiệm cận của đồ thị hàm số": {
+              "status": "done",
+              "pdf_pages": [
+                52,
+                57
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            },
+            "Bài 4. Khảo sát sự biến thiên và vẽ đồ thị của hàm số": {
+              "status": "done",
+              "pdf_pages": [
+                58,
+                69
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            },
+            "Bài 5. Ứng dụng đạo hàm để giải quyết một số vấn đề liên quan đến thực tiễn": {
+              "status": "done",
+              "pdf_pages": [
+                70,
+                77
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương II. Vectơ và hệ trục toạ độ trong không gian": {
+          "lessons": {
+            "Bài 6. Vectơ trong không gian": {
+              "status": "done",
+              "pdf_pages": [
+                83,
+                102
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            },
+            "Bài 7. Hệ trục toạ độ trong không gian": {
+              "status": "done",
+              "pdf_pages": [
+                103,
+                111
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            },
+            "Bài 8. Biểu thức toạ độ của các phép toán vectơ": {
+              "status": "done",
+              "pdf_pages": [
+                112,
+                121
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương III. Các số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm": {
+          "lessons": {
+            "Bài 9. Khoảng biến thiên và khoảng tứ phân vị": {
+              "status": "done",
+              "pdf_pages": [
+                123,
+                126
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            },
+            "Bài 10. Phương sai và độ lệch chuẩn": {
+              "status": "done",
+              "pdf_pages": [
+                127,
+                130
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương IV. Nguyên hàm và tích phân": {
+          "lessons": {
+            "Bài 11. Nguyên hàm": {
+              "status": "done",
+              "pdf_pages": [
+                135,
+                144
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            },
+            "Bài 12. Tích phân": {
+              "status": "done",
+              "pdf_pages": [
+                145,
+                156
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            },
+            "Bài 13. Ứng dụng hình học của tích phân": {
+              "status": "done",
+              "pdf_pages": [
+                157,
+                166
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương V. Phương pháp toạ độ trong không gian": {
+          "lessons": {
+            "Bài 14. Phương trình mặt phẳng": {
+              "status": "done",
+              "pdf_pages": [
+                168,
+                179
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            },
+            "Bài 15. Phương trình đường thẳng trong không gian": {
+              "status": "done",
+              "pdf_pages": [
+                180,
+                189
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            },
+            "Bài 16. Công thức tính góc trong không gian": {
+              "status": "done",
+              "pdf_pages": [
+                190,
+                194
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            },
+            "Bài 17. Phương trình mặt cầu": {
+              "status": "done",
+              "pdf_pages": [
+                195,
+                198
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            }
+          }
+        },
+        "Chương VI. Xác suất có điều kiện": {
+          "lessons": {
+            "Bài 18. Xác suất có điều kiện": {
+              "status": "done",
+              "pdf_pages": [
+                206,
+                212
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            },
+            "Bài 19. Công thức xác suất toàn phần và công thức Bayes": {
+              "status": "done",
+              "pdf_pages": [
+                213,
+                221
+              ],
+              "gv_sources_added": 0,
+              "done": true,
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    }
+  },
+  "last_session_note": "Khởi tạo khung bộ toan_12: mục lục 6 chương SGK (19 bài học) và 6 chương SGV."
+}

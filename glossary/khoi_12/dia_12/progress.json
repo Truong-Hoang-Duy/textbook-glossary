@@ -1,0 +1,414 @@
+{
+  "unit": "dia_12",
+  "books": {
+    "SGK ĐỊA LÝ 12-KNTT.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        179
+      ],
+      "chapters": {
+        "Phần 1. Địa lí tự nhiên": {
+          "lessons": {
+            "Bài 1. Vị trí địa lí và phạm vi lãnh thổ": {
+              "status": "done",
+              "pdf_pages": [
+                7,
+                11
+              ],
+              "terms_added": 6
+            },
+            "Bài 2. Thiên nhiên nhiệt đới ẩm gió mùa": {
+              "status": "done",
+              "pdf_pages": [
+                12,
+                18
+              ],
+              "terms_added": 5
+            },
+            "Bài 3. Sự phân hoá đa dạng của thiên nhiên": {
+              "status": "done",
+              "pdf_pages": [
+                19,
+                28
+              ],
+              "terms_added": 5
+            },
+            "Bài 4. Thực hành: Viết báo cáo về sự phân hoá tự nhiên Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                29,
+                29
+              ],
+              "terms_added": 1
+            },
+            "Bài 5. Vấn đề sử dụng hợp lí tài nguyên thiên nhiên và bảo vệ môi trường": {
+              "status": "done",
+              "pdf_pages": [
+                30,
+                33
+              ],
+              "terms_added": 3
+            }
+          }
+        },
+        "Phần 2. Địa lí dân cư": {
+          "lessons": {
+            "Bài 6. Dân số Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                34,
+                38
+              ],
+              "terms_added": 4
+            },
+            "Bài 7. Lao động và việc làm": {
+              "status": "done",
+              "pdf_pages": [
+                39,
+                42
+              ],
+              "terms_added": 3
+            },
+            "Bài 8. Đô thị hoá": {
+              "status": "done",
+              "pdf_pages": [
+                43,
+                45
+              ],
+              "terms_added": 2
+            },
+            "Bài 9. Thực hành: Viết báo cáo về một chủ đề dân cư ở Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                46,
+                46
+              ],
+              "terms_added": 1
+            }
+          }
+        },
+        "Phần 3. Địa lí các ngành kinh tế": {
+          "lessons": {
+            "Bài 10. Chuyển dịch cơ cấu kinh tế": {
+              "status": "done",
+              "pdf_pages": [
+                47,
+                50
+              ],
+              "terms_added": 5
+            },
+            "Bài 11. Vấn đề phát triển ngành nông nghiệp": {
+              "status": "done",
+              "pdf_pages": [
+                51,
+                59
+              ],
+              "terms_added": 2
+            },
+            "Bài 12. Vấn đề phát triển ngành lâm nghiệp và thuỷ sản": {
+              "status": "done",
+              "pdf_pages": [
+                60,
+                64
+              ],
+              "terms_added": 2
+            },
+            "Bài 13. Tổ chức lãnh thổ nông nghiệp": {
+              "status": "done",
+              "pdf_pages": [
+                65,
+                67
+              ],
+              "terms_added": 1
+            },
+            "Bài 14. Thực hành: Tìm hiểu vai trò ngành nông nghiệp, lâm nghiệp và thuỷ sản; vẽ biểu đồ và nhận xét về ngành nông nghiệp, lâm nghiệp và thuỷ sản": {
+              "status": "done",
+              "pdf_pages": [
+                68,
+                68
+              ],
+              "terms_added": 1
+            },
+            "Bài 15. Chuyển dịch cơ cấu ngành công nghiệp": {
+              "status": "done",
+              "pdf_pages": [
+                69,
+                71
+              ],
+              "terms_added": 1
+            },
+            "Bài 16. Một số ngành công nghiệp": {
+              "status": "done",
+              "pdf_pages": [
+                72,
+                79
+              ],
+              "terms_added": 1
+            },
+            "Bài 17. Tổ chức lãnh thổ công nghiệp": {
+              "status": "done",
+              "pdf_pages": [
+                80,
+                82
+              ],
+              "terms_added": 3
+            },
+            "Bài 18. Thực hành: Vẽ biểu đồ, nhận xét và giải thích tình hình phát triển ngành công nghiệp": {
+              "status": "done",
+              "pdf_pages": [
+                83,
+                83
+              ],
+              "terms_added": 1
+            },
+            "Bài 19. Vai trò, các nhân tố ảnh hưởng đến sự phát triển và phân bố các ngành dịch vụ": {
+              "status": "done",
+              "pdf_pages": [
+                84,
+                88
+              ],
+              "terms_added": 2
+            },
+            "Bài 20. Giao thông vận tải và bưu chính viễn thông": {
+              "status": "done",
+              "pdf_pages": [
+                89,
+                93
+              ],
+              "terms_added": 1
+            },
+            "Bài 21. Thương mại và du lịch": {
+              "status": "done",
+              "pdf_pages": [
+                94,
+                97
+              ],
+              "terms_added": 2
+            },
+            "Bài 22. Thực hành: Tìm hiểu sự phát triển một số ngành dịch vụ": {
+              "status": "done",
+              "pdf_pages": [
+                98,
+                98
+              ],
+              "terms_added": 1
+            }
+          }
+        },
+        "Phần 4. Địa lí các vùng kinh tế": {
+          "lessons": {
+            "Bài 23. Khai thác thế mạnh ở Trung du và miền núi Bắc Bộ": {
+              "status": "done",
+              "pdf_pages": [
+                99,
+                106
+              ],
+              "terms_added": 2
+            },
+            "Bài 24. Phát triển kinh tế - xã hội ở Đồng bằng sông Hồng": {
+              "status": "done",
+              "pdf_pages": [
+                107,
+                113
+              ],
+              "terms_added": 2
+            },
+            "Bài 25. Phát triển nông nghiệp, lâm nghiệp và thuỷ sản ở Bắc Trung Bộ": {
+              "status": "done",
+              "pdf_pages": [
+                114,
+                121
+              ],
+              "terms_added": 1
+            },
+            "Bài 26. Phát triển kinh tế biển ở Duyên hải Nam Trung Bộ": {
+              "status": "done",
+              "pdf_pages": [
+                122,
+                128
+              ],
+              "terms_added": 1
+            },
+            "Bài 27. Thực hành: Tìm hiểu và viết báo cáo về ý nghĩa của phát triển kinh tế biển đối với quốc phòng an ninh ở Duyên hải Nam Trung Bộ": {
+              "status": "done",
+              "pdf_pages": [
+                129,
+                129
+              ],
+              "terms_added": 1
+            },
+            "Bài 28. Khai thác thế mạnh để phát triển kinh tế ở Tây Nguyên": {
+              "status": "done",
+              "pdf_pages": [
+                130,
+                138
+              ],
+              "terms_added": 1
+            },
+            "Bài 29. Phát triển kinh tế - xã hội ở Đông Nam Bộ": {
+              "status": "done",
+              "pdf_pages": [
+                139,
+                148
+              ],
+              "terms_added": 1
+            },
+            "Bài 30. Sử dụng hợp lí tự nhiên để phát triển kinh tế ở Đồng bằng sông Cửu Long": {
+              "status": "done",
+              "pdf_pages": [
+                149,
+                157
+              ],
+              "terms_added": 1
+            },
+            "Bài 31. Thực hành: Viết báo cáo về biến đổi khí hậu ở Đồng bằng sông Cửu Long": {
+              "status": "done",
+              "pdf_pages": [
+                158,
+                158
+              ],
+              "terms_added": 1
+            },
+            "Bài 32. Phát triển các vùng kinh tế trọng điểm": {
+              "status": "done",
+              "pdf_pages": [
+                159,
+                168
+              ],
+              "terms_added": 1
+            },
+            "Bài 33. Phát triển kinh tế và đảm bảo quốc phòng an ninh ở Biển Đông và các đảo, quần đảo": {
+              "status": "done",
+              "pdf_pages": [
+                169,
+                175
+              ],
+              "terms_added": 1
+            },
+            "Bài 34. Thực hành: Viết báo cáo tuyên truyền về bảo vệ chủ quyền biển, đảo của Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                176,
+                176
+              ],
+              "terms_added": 1
+            }
+          }
+        },
+        "Phần 5. Địa lí địa phương": {
+          "lessons": {
+            "Bài 35. Thực hành: Tìm hiểu địa lí địa phương": {
+              "status": "done",
+              "pdf_pages": [
+                177,
+                178
+              ],
+              "terms_added": 1
+            }
+          }
+        }
+      }
+    },
+    "SCD DIA LI 12 - KNTT.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        59
+      ],
+      "chapters": {
+        "Chuyên đề 12.1. Thiên tai và biện pháp phòng chống": {
+          "lessons": {
+            "I. Những vấn đề chung về thiên tai": {
+              "status": "done",
+              "pdf_pages": [
+                7,
+                8
+              ],
+              "terms_added": 2
+            },
+            "II. Một số thiên tai thường xảy ra ở Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                9,
+                19
+              ],
+              "terms_added": 10
+            },
+            "III. Thực hành: Tìm hiểu về thiên tai ở Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                20,
+                20
+              ],
+              "terms_added": 1
+            }
+          }
+        },
+        "Chuyên đề 12.2. Phát triển vùng": {
+          "lessons": {
+            "I. Quan niệm, ý nghĩa, cơ sở hình thành vùng": {
+              "status": "done",
+              "pdf_pages": [
+                21,
+                23
+              ],
+              "terms_added": 2
+            },
+            "II. Phân biệt các loại vùng kinh tế": {
+              "status": "done",
+              "pdf_pages": [
+                24,
+                26
+              ],
+              "terms_added": 2
+            },
+            "III. Các loại vùng kinh tế ở Việt Nam": {
+              "status": "done",
+              "pdf_pages": [
+                27,
+                42
+              ],
+              "terms_added": 2
+            },
+            "IV. Thực hành: Tìm hiểu và viết báo cáo về vùng kinh tế ở nước ta": {
+              "status": "done",
+              "pdf_pages": [
+                43,
+                43
+              ],
+              "terms_added": 1
+            }
+          }
+        },
+        "Chuyên đề 12.3. Phát triển làng nghề": {
+          "lessons": {
+            "I. Những vấn đề chung": {
+              "status": "done",
+              "pdf_pages": [
+                44,
+                47
+              ],
+              "terms_added": 5
+            },
+            "II. Phát triển làng nghề và các tác động": {
+              "status": "done",
+              "pdf_pages": [
+                48,
+                56
+              ],
+              "terms_added": 3
+            },
+            "III. Thực hành: Tìm hiểu làng nghề ở địa phương": {
+              "status": "done",
+              "pdf_pages": [
+                57,
+                58
+              ],
+              "terms_added": 1
+            }
+          }
+        }
+      }
+    }
+  },
+  "last_session_note": "Hoàn thành toàn diện 5 giai đoạn cho Địa lí 12 (dia_12) gồm 97 thuật ngữ phủ 45/45 bài học SGK và chuyên đề SCD; kiểm tra tự động validate 0 lỗi, check_sources đạt 100% (97/97, 0 cờ), kiểm định mẫu 30/30 đạt 100% sai số 0.0%."
+}

@@ -1,0 +1,127 @@
+{
+  "unit": "ngu_van_12",
+  "books": {
+    "SGK NGỮ VĂN 12-TẬP 1-KNTT.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        166,
+        167
+      ],
+      "term_index_pdf_pages": [
+        165,
+        165
+      ],
+      "chapters": {
+        "Tập một": {
+          "lessons": {
+            "Bài 1. Khả năng lớn lao của tiểu thuyết": {
+              "status": "done",
+              "pdf_pages": [
+                11,
+                41
+              ],
+              "terms_added": 8
+            },
+            "Bài 2. Những thế giới thơ": {
+              "status": "done",
+              "pdf_pages": [
+                42,
+                64
+              ],
+              "terms_added": 5
+            },
+            "Bài 3. Lập luận trong văn bản nghị luận": {
+              "status": "done",
+              "pdf_pages": [
+                65,
+                94
+              ],
+              "terms_added": 11
+            },
+            "Bài 4. Yếu tố kì ảo trong truyện kể": {
+              "status": "done",
+              "pdf_pages": [
+                95,
+                133
+              ],
+              "terms_added": 4
+            },
+            "Bài 5. Tiếng cười của hài kịch": {
+              "status": "done",
+              "pdf_pages": [
+                134,
+                161
+              ],
+              "terms_added": 7
+            },
+            "Ôn tập học kì I": {
+              "status": "done",
+              "pdf_pages": [
+                162,
+                164
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    },
+    "SGK NGỮ VĂN 12-TẬP 2-KNTT.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        137,
+        138
+      ],
+      "term_index_pdf_pages": [
+        136,
+        136
+      ],
+      "chapters": {
+        "Tập hai": {
+          "lessons": {
+            "Bài 6. Hồ Chí Minh - \"Văn hoá phải soi đường cho quốc dân đi\"": {
+              "status": "done",
+              "pdf_pages": [
+                8,
+                39
+              ],
+              "terms_added": 5
+            },
+            "Bài 7. Sự thật trong tác phẩm kí": {
+              "status": "done",
+              "pdf_pages": [
+                40,
+                65
+              ],
+              "terms_added": 5
+            },
+            "Bài 8. Dữ liệu trong văn bản thông tin": {
+              "status": "done",
+              "pdf_pages": [
+                66,
+                93
+              ],
+              "terms_added": 6
+            },
+            "Bài 9. Văn học và cuộc đời": {
+              "status": "done",
+              "pdf_pages": [
+                94,
+                130
+              ],
+              "terms_added": 9
+            },
+            "Ôn tập học kì II": {
+              "status": "done",
+              "pdf_pages": [
+                131,
+                135
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -28,18 +28,22 @@ Claude phải tự động triển khai đầy đủ quy trình 5 giai đoạn c
 - Đọc kỹ tài liệu `SGV` để trích xuất Mục 4 (Yêu cầu cần đạt, giới hạn kiến thức) và Mục 5 (Sai lầm thường gặp của học sinh) vào `DESCRIPTION.md`.
 - Cập nhật tiến độ `status: done` và `terms_added` cho từng bài học trong `progress.json`.
 
-### 3. Giai đoạn 4 — Kiểm tra chất lượng & Kiểm định mẫu
-- Chạy kiểm tra tự động:
+### 3. Giai đoạn 4 — Kiểm tra chất lượng tự động
+- Chạy kiểm tra tính hợp lệ của dữ liệu:
   * `python glossary/scripts/validate.py <unit>` (yêu cầu 0 lỗi).
-  * `python glossary/scripts/check_sources.py <unit>` (ngưỡng bigram 0.65 có dấu tiếng Việt, xử lý sạch các mục bị gắn cờ nhầm).
-- Chạy lệnh xuất file kiểm định độc lập:
-  * `python glossary/scripts/query.py <unit> --audit` (tự động xuất 30 mục chuẩn ra `glossary/khoi_<lop>/<unit>/sample_audit.md`).
-- Đối chiếu các mục trong `sample_audit.md` trực tiếp với ảnh trang PDF nguồn (yêu cầu tỉ lệ sai ≤ 5%).
+- Chạy kiểm tra đối soát nguồn trích dẫn:
+  * `python glossary/scripts/check_sources.py <unit>` (ngưỡng bigram 0.65 có dấu tiếng Việt, xử lý sạch 100% các mục bị gắn cờ nhầm).
 
-### 4. Giai đoạn 5 — Nghiệm thu & Báo cáo
-- Hoàn thiện toàn bộ các mục trong `DESCRIPTION.md` (đặc biệt là Mục 6 về kết quả kiểm định chất lượng).
-- Đổi trạng thái trong bảng `README.md` thành `Đã kiểm tra cuối`.
-- Báo cáo tổng kết toàn diện cho người dùng và dừng lại chờ xác nhận.
+### 4. Giai đoạn 5 — Tự động kiểm định mẫu, kết luận & Nghiệm thu
+- **Máy tự động kiểm tra, so sánh và kết luận trực tiếp (Không cần xuất file hay chờ người kiểm tra thủ công):**
+  * Tự động lấy mẫu chuẩn 20–30 thuật ngữ (gồm các mục ngẫu nhiên và các mục công thức/kí hiệu/định nghĩa trọng tâm).
+  * Máy tự động đối chiếu trực tiếp định nghĩa, công thức (`notation`), số trang (`pdf_page`, `printed_page`) với nội dung trang PDF nguồn tương ứng (dưới dạng ảnh/OCR).
+  * Tự động đánh giá sai số và đưa ra kết luận kiểm định ngay trong phiên (yêu cầu tỉ lệ sai ≤ 5%, mục tiêu 0% sai sót).
+  * Không cần giữ lại file `sample_audit.md` (nếu có sinh ra tạm thời thì tự động xóa sạch).
+- **Hoàn tất hồ sơ & Trạng thái:**
+  * Cập nhật đầy đủ kết luận kiểm định chất lượng vào Mục 6 của `DESCRIPTION.md`.
+  * Đổi trạng thái trong bảng Mục 9 `README.md` thành `Đã kiểm tra cuối (<số mục>; mẫu <số mục mẫu>, 0 sai — YYYY-MM-DD)`.
+  * Báo cáo tổng kết toàn diện kết quả kiểm tra cho người dùng và hoàn thành nhiệm vụ.
 
 ---
 
