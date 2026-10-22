@@ -21,10 +21,13 @@ Claude phải tự động triển khai đầy đủ quy trình 5 giai đoạn c
 - Thêm một dòng trạng thái mới vào bảng ở Mục 9 `README.md`.
 - Chạy `python glossary/scripts/validate.py <unit>` để đảm bảo khung hợp lệ 100%.
 
+- Nguồn chỉ là sách bộ **Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam)**, áp dụng cho mọi môn. Thiếu sách (ví dụ SGV) thì báo người dùng bổ sung vào `sgk/khoi_<lop>/<unit>/`. Không tự tải, không dùng Chương trình GDPT 2018 hay tài liệu ngoài (README mục 5).
+
 ### 2. Giai đoạn 2 & 3 — Trích xuất thuật ngữ
 - Trích xuất bám sát nguyên văn theo thứ tự ưu tiên: **SGK > SCD > SGV > SBT**.
 - Quy tắc `id`: `{unit với _ đổi thành -}-{slug-khong-dau}` (ví dụ: `sinh-10-te-bao`).
 - Nhập dữ liệu qua file lô tạm bằng `python glossary/scripts/add_terms.py <unit> <lo.json>`.
+- Trích khung "Yêu cầu cần đạt" ở đầu mỗi bài SGK/SCD (nguyên văn; Toán thêm cột "THUẬT NGỮ" vào `key_terms`; môn không có khung trong SGK thì lấy từ SGV với `book_type: "gv"`; Tiếng Anh ghi theo Unit với `lesson: null`) và nhập bằng `python glossary/scripts/add_lessons.py <unit> <lo_yccd.json>` (README mục 4b).
 - Đọc kỹ tài liệu `SGV` để trích xuất Mục 4 (Yêu cầu cần đạt, giới hạn kiến thức) và Mục 5 (Sai lầm thường gặp của học sinh) vào `DESCRIPTION.md`.
 - Cập nhật tiến độ `status: done` và `terms_added` cho từng bài học trong `progress.json`.
 

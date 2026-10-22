@@ -5,7 +5,8 @@
     "subject_name": "Toán",
     "grade": 10,
     "last_updated": "2026-10-14",
-    "term_count": 197
+    "term_count": 197,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "toan-10-menh-de", "term": "Mệnh đề", "aliases": ["mệnh đề lôgic"], "type": "dinh_nghia", "definition": "Những câu khẳng định có tính đúng hoặc sai được gọi là mệnh đề lôgic (gọi tắt là mệnh đề). Những câu không xác định được tính đúng sai không phải là mệnh đề. Mỗi mệnh đề phải hoặc đúng hoặc sai. Một mệnh đề không thể vừa đúng vừa sai.", "notation": "$P, Q, R, \\ldots$", "chapter": "Chương I. Mệnh đề và tập hợp", "lesson": "Bài 1. Mệnh đề", "level": "co_ban", "related_terms": ["toan-10-menh-de-toan-hoc", "toan-10-menh-de-chua-bien", "toan-10-menh-de-phu-dinh"], "sources": [{"book_type": "sgk", "file": "SGK Toan 10 Tap 1.pdf", "pdf_page": 7, "printed_page": 6}], "notes": null},
@@ -205,5 +206,6 @@
     {"id": "toan-10-trung-diem-trong-tam-voi-moi-diem-o", "term": "Trung điểm, trọng tâm (đẳng thức vectơ với điểm O bất kì)", "aliases": [], "type": "tinh_chat", "definition": "M là trung điểm của AB khi và chỉ khi $\\overrightarrow{OA} + \\overrightarrow{OB} = 2\\overrightarrow{OM}, \\forall O$. G là trọng tâm tam giác ABC khi và chỉ khi $\\overrightarrow{OA} + \\overrightarrow{OB} + \\overrightarrow{OC} = 3\\overrightarrow{OG}, \\forall O$.", "notation": "$\\overrightarrow{OA} + \\overrightarrow{OB} = 2\\overrightarrow{OM}$", "chapter": "Chương IV. Vectơ", "lesson": "Bài 9. Tích của một vectơ với một số", "level": "co_ban", "related_terms": ["toan-10-trung-diem-trong-tam-vecto"], "sources": [{"book_type": "sbt", "file": "SBT TOAN 10 TAP 1.pdf", "pdf_page": 53, "printed_page": 52}], "notes": "SGK chỉ nêu ở Luyện tập 2 (trang PDF 58); phát biểu tổng quát lấy từ SBT."},
     {"id": "toan-10-so-dac-trung-do-xu-the-trung-tam", "term": "Các số đặc trưng đo xu thế trung tâm", "aliases": [], "type": "dinh_nghia", "definition": "Các số đặc trưng đo xu thế trung tâm là các số cho ta biết thông tin về vị trí trung tâm của mẫu số liệu.", "notation": null, "chapter": "Chương V. Các số đặc trưng của mẫu số liệu không ghép nhóm", "lesson": "Bài 13. Các số đặc trưng đo xu thế trung tâm", "level": "co_ban", "related_terms": ["toan-10-so-trung-binh", "toan-10-trung-vi", "toan-10-mot"], "sources": [{"book_type": "sbt", "file": "SBT TOAN 10 TAP 1.pdf", "pdf_page": 75, "printed_page": 74}], "notes": null},
     {"id": "toan-10-so-dac-trung-do-do-phan-tan", "term": "Các số đặc trưng đo độ phân tán", "aliases": [], "type": "dinh_nghia", "definition": "Các số đặc trưng đo độ phân tán là các số cho ta biết thông tin về sự biến động mẫu số liệu. Các số này càng lớn thì số liệu biến động càng nhiều hay càng phân tán.", "notation": null, "chapter": "Chương V. Các số đặc trưng của mẫu số liệu không ghép nhóm", "lesson": "Bài 14. Các số đặc trưng đo độ phân tán", "level": "co_ban", "related_terms": ["toan-10-khoang-bien-thien", "toan-10-khoang-tu-phan-vi", "toan-10-phuong-sai", "toan-10-do-lech-chuan"], "sources": [{"book_type": "sbt", "file": "SBT TOAN 10 TAP 1.pdf", "pdf_page": 79, "printed_page": 78}], "notes": null}
-  ]
+  ],
+  "lessons": []
 }

@@ -8,6 +8,9 @@
 <unit> (vd toan_10): chỉ tìm trong bộ đó. <mon> (vd toan): mọi bộ có meta.subject trùng.
 Lọc là tìm chuỗi con, không phân biệt hoa thường. --q tìm trong term, aliases, definition, notation.
 Mặc định in các trường: id, term, definition, notation, sources.
+
+--lessons: in "Yêu cầu cần đạt" (mảng lessons) thay cho thuật ngữ; dùng được kèm --chapter, --lesson,
+--level, --q (tìm trong objectives, key_terms), --has-notes, --count, --format, --out.
 """
 import argparse
 import json
@@ -47,7 +50,12 @@ def main():
     ap.add_argument("--format", choices=["json", "text", "md"], default="json", help="định dạng xuất: json (mặc định), text (dễ đọc) hoặc md (markdown)")
     ap.add_argument("--audit", action="store_true", help="chế độ kiểm tra mẫu Giai đoạn 4: lấy 30 mục chuẩn (20 ngẫu nhiên + 10 công thức) xuất ra sample_audit.md")
     ap.add_argument("--out", help="đường dẫn file xuất (UTF-8)")
+    ap.add_argument("--lessons", action="store_true", help="in yêu cầu cần đạt theo bài thay cho thuật ngữ")
     a = ap.parse_args()
+
+    if a.lessons:
+        query_lessons(a)
+        return
 
     if a.audit:
         units = resolve_target(a.target)
@@ -158,6 +166,68 @@ def main():
             print("Mở file và nhấn Ctrl + Shift + V trong VS Code để xem trực quan.")
     else:
         print(output_content, end="")
+
+
+def query_lessons(a):
+    rows = []
+    for unit in resolve_target(a.target):
+        for e in load_unit(unit).get("lessons") or []:
+            if a.chapter and not contains(e["chapter"], a.chapter):
+                continue
+            if a.lesson and not contains(e["lesson"] or e["chapter"], a.lesson):
+                continue
+            if a.level and norm(e["level"]) != norm(a.level):
+                continue
+            if a.has_notes and not e.get("notes"):
+                continue
+            if a.q and not contains(" ".join([*e["objectives"], *e["key_terms"]]), a.q):
+                continue
+            rows.append({"unit": unit, **e})
+
+    if a.count:
+        print(len(rows))
+        return
+
+    def src_str(e, code="{}"):
+        return "; ".join(
+            f"{code.format(s['file'])} tr.{s['pdf_page']}" + (f" (in: {s['printed_page']})" if s.get("printed_page") else "")
+            for s in e["sources"]
+        )
+
+    if a.format == "json":
+        out = json.dumps(rows, ensure_ascii=False, indent=1) + "\n"
+    else:
+        lines = []
+        for i, e in enumerate(rows, 1):
+            title = f"{e['chapter']} — {e['lesson'] or '(cả chương)'} [{e['level']}]"
+            if a.format == "md":
+                lines.append(f"### {i}. {title}\n")
+                lines.append(f"**{e['label']}**\n")
+                lines += [f"- {o}" for o in e["objectives"]]
+                if e["key_terms"]:
+                    lines.append(f"\n**Thuật ngữ:** {', '.join(e['key_terms'])}")
+                lines.append(f"\n**Nguồn:** {src_str(e, '`{}`')}")
+                if e.get("notes"):
+                    lines.append(f"\n**Ghi chú:** {e['notes']}")
+                lines.append("\n---\n")
+            else:
+                lines.append(f"[{i}] {title}")
+                lines.append(f"    {e['label']}:")
+                lines += [f"      • {o}" for o in e["objectives"]]
+                if e["key_terms"]:
+                    lines.append(f"    Thuật ngữ: {', '.join(e['key_terms'])}")
+                lines.append(f"    Nguồn: {src_str(e)}")
+                if e.get("notes"):
+                    lines.append(f"    Ghi chú: {e['notes']}")
+                lines.append("-" * 70)
+        out = "\n".join(lines) + "\n"
+
+    if a.out:
+        Path(a.out).parent.mkdir(parents=True, exist_ok=True)
+        Path(a.out).write_text(out, encoding="utf-8")
+        print(f"Đã xuất {len(rows)} mục vào: {a.out}")
+    else:
+        print(out, end="")
 
 
 if __name__ == "__main__":

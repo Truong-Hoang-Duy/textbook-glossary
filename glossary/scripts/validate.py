@@ -8,9 +8,9 @@ Không tham số: kiểm tra mọi bộ. Mã thoát 1 nếu có lỗi.
 import sys
 
 from _common import (GLOSSARY_DIR, ROOT, book_dir, classify_book, data_path, dataset_path,
-                     list_units, load_json, load_schema, parse_unit, progress_lessons,
-                     progress_path, schema_errors, schema_validator, setup_stdout,
-                     term_errors, unit_dir)
+                     lesson_errors, list_units, load_json, load_schema, parse_unit,
+                     progress_lessons, progress_path, schema_errors, schema_validator,
+                     setup_stdout, term_errors, unit_dir)
 
 SIZE_WARN = 300 * 1024
 STATUSES = {"pending", "in_progress", "done"}
@@ -89,12 +89,20 @@ def check_unit(unit, schema, all_ids):
     terms = [t for t in data.get("terms") or [] if isinstance(t, dict)]
     if meta.get("term_count") != len(terms):
         errs.append(f"meta.term_count = {meta.get('term_count')}, thực tế {len(terms)}")
+    lessons = [e for e in data.get("lessons") or [] if isinstance(e, dict)]
+    if meta.get("lesson_count") != len(lessons):
+        errs.append(f"meta.lesson_count = {meta.get('lesson_count')}, thực tế {len(lessons)}")
 
-    errs += term_errors(unit, terms, all_ids.get(subject, {}), progress_lessons(unit), {})
+    prog_lessons = progress_lessons(unit)
+    page_counts = {}
+    errs += term_errors(unit, terms, all_ids.get(subject, {}), prog_lessons, page_counts)
+    errs += lesson_errors(unit, lessons, prog_lessons, page_counts)
     errs += check_progress(unit)
+    if dataset_path(unit).exists() and load_json(dataset_path(unit)) != data:
+        warns.append(f"glossary/dataset/{unit}.json khác bản trong thư mục bộ (chưa đồng bộ)")
 
     size = path.stat().st_size
-    info = f"{len(terms)} thuật ngữ, {size / 1024:.1f} KB"
+    info = f"{len(terms)} thuật ngữ, {len(lessons)} bài YCCĐ, {size / 1024:.1f} KB"
     if size > SIZE_WARN:
         warns.append(f"file lớn hơn 300 KB ({size / 1024:.1f} KB)")
     return errs, warns, info

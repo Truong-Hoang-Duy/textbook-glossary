@@ -5,7 +5,8 @@
     "subject_name": "Địa lí",
     "grade": 11,
     "last_updated": "2026-10-19",
-    "term_count": 103
+    "term_count": 103,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "dia-11-bao-ho-thuong-mai", "term": "Bảo hộ thương mại", "aliases": ["Bảo hộ mậu dịch", "Rào cản thương mại"], "type": "dinh_nghia", "level": "co_ban", "chapter": "Phần một. Một số vấn đề về kinh tế - xã hội thế giới", "lesson": "Bài 2. Toàn cầu hoá và khu vực hoá kinh tế", "definition": "việc áp dụng nâng cao một số tiêu chuẩn thuộc các lĩnh vực như chất lượng, vệ sinh, an toàn, lao động, môi trường, xuất xứ,... hay việc áp đặt thuế xuất, nhập khẩu cao đối với một số mặt hàng nhập khẩu nào đó để bảo vệ ngành sản xuất các mặt hàng tương tự (hay dịch vụ) trong một quốc gia nào đó.", "sources": [{"book_type": "sgk", "file": "SGK DIA LI 11 - KNTT.pdf", "pdf_page": 167, "printed_page": 165}, {"book_type": "sgk", "file": "SGK DIA LI 11 - KNTT.pdf", "pdf_page": 14, "printed_page": 12}], "notation": null, "related_terms": [], "notes": null},
@@ -111,5 +112,6 @@
     {"id": "dia-11-in-3d", "term": "Công nghệ in 3D", "aliases": ["In 3D"], "type": "tinh_chat", "level": "chuyen_de", "chapter": "Chuyên đề 3. Cuộc cách mạng công nghiệp lần thứ tư (4.0)", "lesson": "I. Nội dung chủ yếu", "definition": "Trong cuộc cách mạng công nghiệp 4.0, đã có nhiều vật liệu mới, sản phẩm mới và dịch vụ mới có chất lượng và mức giá phù hợp ra đời như: in 3D, thiết bị bay không người lái.", "sources": [{"file": "SCD DIA LI 11 - KNTT.pdf", "pdf_page": 53, "book_type": "scd", "printed_page": 51}], "notation": null, "related_terms": [], "notes": null},
     {"id": "dia-11-kinh-te-tuan-hoan", "term": "Mô hình kinh tế tuần hoàn", "aliases": ["Kinh tế tuần hoàn"], "type": "tinh_chat", "level": "chuyen_de", "chapter": "Chuyên đề 3. Cuộc cách mạng công nghiệp lần thứ tư (4.0)", "lesson": "I. Nội dung chủ yếu", "definition": "Trong cách mạng 4.0, nhiều mô hình kinh tế mới ra đời như mô hình kinh tế chia sẻ, kinh tế tuần hoàn và kinh tế số.", "sources": [{"file": "SCD DIA LI 11 - KNTT.pdf", "pdf_page": 53, "book_type": "scd", "printed_page": 51}], "notation": null, "related_terms": [], "notes": null},
     {"id": "dia-11-xu-huong-cach-mang-4-0", "term": "Xu hướng của cuộc cách mạng công nghiệp 4.0", "aliases": ["Cách mạng công nghiệp 4.0"], "type": "tinh_chat", "level": "chuyen_de", "chapter": "Chuyên đề 3. Cuộc cách mạng công nghiệp lần thứ tư (4.0)", "lesson": "III. Một số xu hướng chính của cuộc cách mạng công nghiệp 4.0", "definition": "Xu hướng và động lực dẫn dắt cuộc cách mạng công nghiệp 4.0 chính là những đột phá khoa học và tiến bộ công nghệ mới đang diễn ra hiện nay. Những đột phá khoa học - công nghệ này có thể được chia thành ba nhóm là vật lí, kĩ thuật số và sinh học có liên quan chặt chẽ với nhau.", "sources": [{"file": "SCD DIA LI 11 - KNTT.pdf", "pdf_page": 57, "book_type": "scd", "printed_page": 55}], "notation": null, "related_terms": [], "notes": null}
-  ]
+  ],
+  "lessons": []
 }

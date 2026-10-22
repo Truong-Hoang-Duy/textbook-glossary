@@ -5,7 +5,8 @@
     "subject_name": "Hoá học",
     "grade": 10,
     "last_updated": "2026-10-15",
-    "term_count": 194
+    "term_count": 194,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "hoa-10-hoa-hoc", "term": "Hoá học", "aliases": [], "type": "dinh_nghia", "definition": "Hoá học nghiên cứu về thành phần, cấu trúc, tính chất, sự biến đổi của các chất và các hiện tượng kèm theo. Đối tượng nghiên cứu của hoá học bao gồm các chất hữu cơ, các chất vô cơ, các loại vật liệu tự nhiên và nhân tạo.", "notation": null, "chapter": "Mở đầu", "lesson": "Mở đầu", "level": "co_ban", "related_terms": ["hoa-10-phuong-phap-mo-hinh", "hoa-10-phuong-phap-thuc-nghiem"], "sources": [{"book_type": "sgk", "file": "SGK Hoa hoc 10.pdf", "pdf_page": 7, "printed_page": 6}, {"book_type": "gv", "file": "SGV HOA HOC 10.pdf", "pdf_page": 14, "printed_page": 13}], "notes": null},
@@ -202,5 +203,6 @@
     {"id": "hoa-10-co-hoc-phan-tu", "term": "Cơ học phân tử", "aliases": [], "type": "dinh_nghia", "definition": "Cơ học phân tử: áp dụng các định luật vật lí cổ điển mô tả chuyển động của hạt nhân các nguyên tử trong phân tử mà không cần xem xét chuyển động và vai trò của các electron. Ví dụ phương pháp MM2,...", "notation": null, "chapter": "Chuyên đề 3. Thực hành hoá học và công nghệ thông tin", "lesson": "Bài 11. Thực hành tính tham số cấu trúc và năng lượng", "level": "chuyen_de", "related_terms": ["hoa-10-hoa-hoc-tinh-toan", "hoa-10-co-hoc-luong-tu"], "sources": [{"book_type": "scd", "file": "SCD Hoa hoc 10.pdf", "pdf_page": 68, "printed_page": 67}], "notes": null},
     {"id": "hoa-10-co-hoc-luong-tu", "term": "Cơ học lượng tử", "aliases": [], "type": "dinh_nghia", "definition": "Cơ học lượng tử: dựa vào phương trình Schrödinger để mô tả phân tử dựa trên sự chuyển động của electron. Ví dụ: phương pháp ab initio, phương pháp phiếm hàm mật độ (DFT), phương pháp bán kinh nghiệm,...", "notation": null, "chapter": "Chuyên đề 3. Thực hành hoá học và công nghệ thông tin", "lesson": "Bài 11. Thực hành tính tham số cấu trúc và năng lượng", "level": "chuyen_de", "related_terms": ["hoa-10-hoa-hoc-tinh-toan", "hoa-10-co-hoc-phan-tu", "hoa-10-phuong-phap-ban-kinh-nghiem"], "sources": [{"book_type": "scd", "file": "SCD Hoa hoc 10.pdf", "pdf_page": 68, "printed_page": 67}], "notes": null},
     {"id": "hoa-10-phuong-phap-ban-kinh-nghiem", "term": "Phương pháp bán kinh nghiệm", "aliases": [], "type": "dinh_nghia", "definition": "Phương pháp bán kinh nghiệm là sự đơn giản hoá của phương pháp ab initio, sử dụng các hiệu chỉnh theo kinh nghiệm. Ví dụ phương pháp AM1 (dùng trong phần mềm MOPAC) để giảm khối lượng tính toán. Quy trình tính toán gồm: tạo file dữ liệu đầu vào, chọn phương pháp tính, thực hiện tính toán, lưu và đọc kết quả.", "notation": null, "chapter": "Chuyên đề 3. Thực hành hoá học và công nghệ thông tin", "lesson": "Bài 11. Thực hành tính tham số cấu trúc và năng lượng", "level": "chuyen_de", "related_terms": ["hoa-10-co-hoc-luong-tu", "hoa-10-hoa-hoc-tinh-toan"], "sources": [{"book_type": "scd", "file": "SCD Hoa hoc 10.pdf", "pdf_page": 68, "printed_page": 67}, {"book_type": "scd", "file": "SCD Hoa hoc 10.pdf", "pdf_page": 69, "printed_page": 68}], "notes": null}
-  ]
+  ],
+  "lessons": []
 }

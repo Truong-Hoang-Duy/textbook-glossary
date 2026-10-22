@@ -22,7 +22,7 @@ book/                         # GỐC
 └── glossary/                 # KẾT QUẢ
     ├── schema.json           # nguồn duy nhất về định dạng
     ├── tessdata/             # dữ liệu OCR tiếng Việt cho tesseract
-    ├── scripts/              # add_terms.py, query.py, validate.py, check_sources.py, _common.py
+    ├── scripts/              # add_terms.py, add_lessons.py, query.py, validate.py, check_sources.py, _common.py
     ├── dataset/              # TẬP TRUNG: chứa tất cả file JSON dữ liệu (<unit>.json)
     ├── khoi_10/              # Khối 10: toan_10/, hoa_10/, lich_su_10/, sinh_10/, ...
     │   └── toan_10/
@@ -41,14 +41,16 @@ Mỗi bộ có **hai** bản lưu JSON: một bản nằm ở `glossary/khoi_<lo
 1. Xác định bộ đang làm. Hỏi người dùng nếu chưa rõ. **Chỉ làm một bộ mỗi phiên.**
 2. Đọc `glossary/khoi_<lop>/<unit>/progress.json`, rồi `glossary/khoi_<lop>/<unit>/DESCRIPTION.md`.
 3. Làm tiếp phần đang dở. Không làm lại phần đã `done`.
-4. **Không mở cả file `<unit>.json` để đọc.** Dùng `query.py` để xem dữ liệu.
-5. **Không sửa `<unit>.json` bằng tay.** Chỉ dùng `add_terms.py` (sửa thì thêm `--update`).
+4. **Không mở cả file `<unit>.json` để đọc.** Dùng `query.py` để xem dữ liệu (`--lessons` cho yêu cầu cần đạt).
+5. **Không sửa `<unit>.json` bằng tay.** Chỉ dùng `add_terms.py` / `add_lessons.py` (sửa thì thêm `--update`).
 6. Cuối phiên: cập nhật `progress.json` (status, `terms_added`, `last_session_note`).
 
 Các lệnh chạy từ thư mục gốc `book/`:
 
 ```
 python glossary/scripts/add_terms.py <unit> <lo.json> [--update]
+python glossary/scripts/add_lessons.py <unit> <lo_yccd.json> [--update]   # yêu cầu cần đạt theo bài (mục 4b)
+python glossary/scripts/query.py <unit|mon> --lessons [--chapter T] [--lesson T] [--level L] [--q T] [--format json|text|md]
 python glossary/scripts/query.py <unit|mon> [--lesson T] [--chapter T] [--type T] [--level L] [--q T] [--id ...] [--has-notes] [--fields a,b|all] [--sample N --seed S] [--count] [--format json|text|md] [--out FILE]
 python glossary/scripts/query.py <unit> --audit [--seed S]   # xuất mẫu kiểm tra Giai đoạn 4 ra glossary/<unit>/sample_audit.md [--format json|text|md] [--audit] [--out file]
 python glossary/scripts/validate.py [<unit>|<mon>]
@@ -59,7 +61,7 @@ File lô (`lo.json`) để ở scratchpad, không để trong `glossary/`.
 
 ## 4. Schema (tóm tắt — chi tiết ở `glossary/schema.json`)
 
-`{ "meta": {unit, subject, subject_name, grade, last_updated, term_count}, "terms": [...] }`
+`{ "meta": {unit, subject, subject_name, grade, last_updated, term_count, lesson_count}, "terms": [...], "lessons": [...] }`
 
 Mỗi thuật ngữ có **đủ** các trường sau. Không thêm trường lạ: `additionalProperties: false`.
 
@@ -75,6 +77,20 @@ Mỗi thuật ngữ có **đủ** các trường sau. Không thêm trường l�
 | `related_terms` | Các `id` đã tồn tại trong toàn môn, kể cả bộ khác |
 | `sources` | Mảng `{book_type: sgk/scd/gv/sbt, file, pdf_page, printed_page}`. **`pdf_page` là số thứ tự trang trong file PDF và phải đúng thật**; `printed_page` là số in trên trang, hoặc `null` |
 | `notes` | Ghi khi **không chắc** (chữ mờ, công thức khó đọc, định nghĩa bị ngắt trang...); nếu chắc thì để `null` |
+
+### 4b. Yêu cầu cần đạt theo bài (`lessons`)
+
+Mỗi phần tử của `lessons` là khung mục tiêu ở đầu một bài. Nhập qua `add_lessons.py`. Khoá duy nhất là `(level, chapter, lesson)`. Mỗi phần tử có **đủ** các trường sau:
+
+| Trường | Quy tắc |
+|---|---|
+| `chapter`, `lesson` | **Đúng chuỗi trong `progress.json`**. `lesson: null` nghĩa là cả chương, dùng cho Tiếng Anh (một mục cho mỗi `Unit N. …`) |
+| `level` | `co_ban` \| `chuyen_de`, khớp nguồn đầu tiên (giống `terms`) |
+| `label` | Tên khung đúng như sách: `Yêu cầu cần đạt`, `Mục tiêu`, `Học xong bài này, em sẽ`, `Kiến thức, kĩ năng`; nguồn SGV ghi theo SGV |
+| `objectives` | Mảng các gạch đầu dòng, **chép nguyên văn**, mỗi ý một phần tử, giữ thứ tự |
+| `key_terms` | Chỉ dùng cho Toán: các mục trong cột "THUẬT NGỮ" đầu bài, nguyên văn. Môn khác để `[]` |
+| `sources` | Như `terms`. SGK/SCD có khung thì nguồn là trang đó. Nhóm không có khung trong SGK (Vật lí, Địa lí, Âm nhạc, Tiếng Anh) lấy từ SGV KNTT, `book_type: "gv"`. Bộ chưa có SGV trong `sgk/` thì chờ người dùng bổ sung (mục 5) |
+| `notes` | Ghi khi không chắc (chữ mờ, khung bị ngắt trang, lấy từ nguồn ngoài SGK...); chắc thì `null` |
 
 **Quy tắc chống bịa:**
 - Chỉ trích những gì sách **nêu rõ** là định nghĩa, khái niệm, định lí, tính chất, công thức, kí hiệu hoặc quy tắc. Không lấy ví dụ, bài tập, lời giải, hoạt động khám phá.
@@ -93,6 +109,11 @@ Thứ tự ưu tiên khi xung đột định nghĩa: **SGK > SCD > Tài liệu G
 | SCD | Khái niệm nâng cao/mở rộng, `level: chuyen_de` |
 | SGV / Tài liệu GV | Bắt buộc đọc. Ghi mục tiêu, yêu cầu cần đạt (DESCRIPTION mục 4) và sai lầm thường gặp của học sinh (mục 5). Bổ sung nguồn `gv` cho thuật ngữ đã có (xem dưới) |
 | SBT | Chỉ bổ sung khái niệm SGK chưa có. Không trích đề bài |
+
+**Chỉ dùng sách bộ Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam).** Quy tắc này áp dụng cho mọi môn, mọi lớp, mọi loại sách (SGK, SCD, SGV, SBT, Tài liệu GV) và mọi phần dữ liệu (`terms`, `lessons`, DESCRIPTION):
+- Sách phải đúng môn, đúng lớp, đúng bộ KNTT. **Không** dùng văn bản Chương trình GDPT 2018 của Bộ GD&ĐT, sách bộ khác (Chân trời sáng tạo, Cánh diều) hay tài liệu tổng hợp trên mạng (VietJack, Loigiaihay, Hoatieu…) làm nguồn.
+- Khi `sgk/khoi_<lop>/<unit>/` thiếu sách cần thiết (ví dụ `dia_12` chưa có SGV), **không tự tải** từ trang chia sẻ không chính thức. Phải báo người dùng. Người dùng lấy file từ nguồn hợp lệ (bản mua, [Hành trang số](https://hanhtrangso.nxbgd.vn/), tài liệu tập huấn được cấp) và đặt vào đúng thư mục, theo quy ước tên file ở bảng dưới (ví dụ `SGV Dia li 12 KNTT.pdf`).
+- Trong lúc chờ sách, phần đó giữ `status: pending` trong `progress.json`. Không lấp chỗ trống bằng nguồn khác, không dựa vào trí nhớ.
 
 Trong cùng một bộ, nếu một khái niệm xuất hiện ở nhiều sách thì **gộp thành một mục**: giữ định nghĩa của sách ưu tiên cao hơn và thêm nguồn vào `sources`.
 
@@ -121,6 +142,7 @@ Trong cùng một bộ, nếu một khái niệm xuất hiện ở nhiều sách
 ## 7. Đảm bảo chất lượng
 
 - Sau **mỗi sách**: chạy `validate.py <unit>` và `check_sources.py <unit>`. Xử lý ngay các mục gắn cờ: mở lại đúng trang nguồn dưới dạng ảnh, rồi sửa bằng `add_terms.py --update` hoặc ghi `notes`.
+- `check_sources.py` cũng đối chiếu `lessons`: gộp mọi `objectives` rồi so bigram với 3 trang quanh nguồn chính (cùng ngưỡng). `key_terms` không thấy trong trang chỉ là cảnh báo.
 - `check_sources.py` so khớp **có dấu tiếng Việt** với text trang (text layer hoặc OCR tesseract `vie`, cache ở `glossary/khoi_<lop>/<unit>/.ocr/`). Độ đo chính là tỉ lệ **cặp từ liên tiếp (bigram)**, ngưỡng 0.65 (chọn từ thí điểm: dữ liệu đúng ≥ 0.70, sai trang/bịa phần lớn < 0.5). Tên thuật ngữ được so cả bản bỏ khoảng trắng (chịu lỗi OCR dính chữ). Với `cong_thuc`/`quy_tac`/`ky_hieu`/`tinh_chat`, tên không có nguyên văn trong trang chỉ là cảnh báo. Script chỉ phát hiện định nghĩa bịa hoặc sai trang, không phát hiện sai sót nhỏ trong công thức.
 - File dữ liệu được `add_terms.py` ghi theo dạng mỗi thuật ngữ một dòng (tự động đồng bộ vào cả thư mục bộ và `glossary/dataset/`; thư mục `dataset/` chỉ lưu file `.json`, không chứa file `.bak`).
 - Khi xong một bộ: **máy tự động kiểm tra, so sánh mẫu và kết luận luôn trong phiên**:
@@ -131,7 +153,7 @@ Trong cùng một bộ, nếu một khái niệm xuất hiện ở nhiều sách
 
 1. Đặt PDF vào `sgk/khoi_11/toan_11/`.
 2. Tạo `glossary/khoi_11/toan_11/` gồm:
-   - `toan_11.json`: `{"meta": {"unit": "toan_11", "subject": "toan", "subject_name": "Toán", "grade": 11, "last_updated": "...", "term_count": 0}, "terms": []}`
+   - `toan_11.json`: `{"meta": {"unit": "toan_11", "subject": "toan", "subject_name": "Toán", "grade": 11, "last_updated": "...", "term_count": 0, "lesson_count": 0}, "terms": [], "lessons": []}`
    - `progress.json`: điền chương/bài theo mục lục, mỗi bài có `status` và `pdf_pages`. Liệt kê **mọi** PDF của bộ, kể cả SGV và Tài liệu GV (xem mục 5).
    - `DESCRIPTION.md`: dùng khung giống `toan_10`.
    Đồng thời copy/tạo sẵn một bản `toan_11.json` vào `glossary/dataset/toan_11.json`.
@@ -176,5 +198,6 @@ Trạng thái: chưa bắt đầu / đang trích xuất / đã kiểm tra cuối
 - Dùng `query.py` lọc theo lớp/bài/chương cần ra đề, ví dụ `query.py toan_10 --lesson "Bài 1." --level co_ban`. **Không nạp cả file.**
   SGK và Chuyên đề đều đánh số "Bài 1, 2, …", nên khi lọc theo bài luôn kèm `--level` hoặc `--chapter`.
 - Định nghĩa dùng trong câu hỏi phải khớp `definition` của **đúng lớp đang ra đề**.
+- Mức độ và phạm vi câu hỏi bám `objectives` của bài: `query.py <unit> --lessons --lesson "Bài 1."`.
 - Dữ liệu đã qua kiểm tra tự động và kiểm tra mẫu, nên không cần rà soát lại từng mục. Khi cần chắc chắn tuyệt đối về công thức hoặc định lí, đối chiếu lại trang nguồn trong `sources`.
 - Mục có `notes` (lọc bằng `--has-notes`) coi là **chưa chắc chắn**, tránh dùng làm đáp án.

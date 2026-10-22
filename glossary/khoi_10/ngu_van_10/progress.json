@@ -522,5 +522,10 @@
       "chapters": {}
     }
   },
-  "last_session_note": "2026-10-14: Hoàn thành ngu_van_10 (191 thuật ngữ: SGK 137, SCD 52, SGV 1, SBT 1). Nguồn chính: Tri thức ngữ văn/Tri thức tổng quát, ô kiến thức Thực hành tiếng Việt, khung Yêu cầu kiểu bài Viết, 3 Bảng giải thích thuật ngữ (phủ đủ 48+26+38 dòng). SGV: yêu cầu cần đạt, số tiết, lưu ý → DESCRIPTION mục 4–5; nguồn gv cho 30 mục. SBT tập 2 không có khái niệm mới. validate 0 lỗi, check_sources 191/191 (12 cảnh báo tên). Mẫu 30 mục: 0 sai nội dung. Cache OCR trang bảng thuật ngữ tạo lại bằng psm 3/6/4 + OCR theo cột. Việc còn lại: người dùng kiểm tra độc lập sample_audit.md rồi xoá file."
+  "last_session_note": "2026-10-14: Hoàn thành ngu_van_10 (191 thuật ngữ: SGK 137, SCD 52, SGV 1, SBT 1). Nguồn chính: Tri thức ngữ văn/Tri thức tổng quát, ô kiến thức Thực hành tiếng Việt, khung Yêu cầu kiểu bài Viết, 3 Bảng giải thích thuật ngữ (phủ đủ 48+26+38 dòng). SGV: yêu cầu cần đạt, số tiết, lưu ý → DESCRIPTION mục 4–5; nguồn gv cho 30 mục. SBT tập 2 không có khái niệm mới. validate 0 lỗi, check_sources 191/191 (12 cảnh báo tên). Mẫu 30 mục: 0 sai nội dung. Cache OCR trang bảng thuật ngữ tạo lại bằng psm 3/6/4 + OCR theo cột. Việc còn lại: người dùng kiểm tra độc lập sample_audit.md rồi xoá file. | 2026-10-21: thêm 16 mục yêu cầu cần đạt (xem yccd). check_sources thuật ngữ: 180/191 đạt; 11 cờ còn lại đều trên trang Bảng giải thích thuật ngữ (Tập 1 tr.163–164, SCD tr.100), đã đối chiếu ảnh: tên có đúng trên trang, cờ do OCR cột hẹp. Cache .ocr các trang bảng dựng lại theo cột.",
+  "yccd": {
+    "status": "done",
+    "lesson_count": 16,
+    "note": "2026-10-21: Trích nguyên văn khung 'Yêu cầu cần đạt' từ ảnh trang đầu bài: SGK 12 mục (Bài 1–9, Ôn tập HK I/II); SCD 3 mục cấp chuyên đề (lesson = null, khung in ở trang đầu Phần 1 nhưng áp dụng cả chuyên đề) + 2 khung 'Yêu cầu' riêng của CĐ1 Phần 2 và CĐ3 Phần 3. CĐ2 Phần 2, CĐ3 Phần 2, CĐ1 Phần 1 không có khung riêng. validate 0 lỗi; check_sources YCCĐ 16/16 đạt."
+  }
 }

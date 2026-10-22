@@ -5,7 +5,8 @@
     "subject_name": "Sinh học",
     "grade": 10,
     "last_updated": "2026-10-14",
-    "term_count": 299
+    "term_count": 299,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "sinh-10-sinh-hoc", "term": "Sinh học", "aliases": [], "type": "dinh_nghia", "definition": "Sinh học là ngành khoa học nghiên cứu về sự sống. Đối tượng của sinh học chính là các sinh vật cùng các cấp độ tổ chức của thế giới sống.", "notation": null, "chapter": "Phần mở đầu", "lesson": "Bài 1. Giới thiệu khái quát môn Sinh học", "level": "co_ban", "related_terms": ["sinh-10-cap-do-to-chuc-song"], "sources": [{"book_type": "sgk", "file": "SGK Sinh hoc 10.pdf", "pdf_page": 6, "printed_page": 5}], "notes": null},
@@ -307,5 +308,6 @@
     {"id": "sinh-10-phosphoryl-hoa-co-chat", "term": "Phosphoryl hoá cơ chất", "aliases": [], "type": "dinh_nghia", "definition": "Kiểu tổng hợp ATP do enzyme chuyển nhóm phosphate từ cơ chất sang ADP (như trong giai đoạn đường phân) được gọi là kiểu phosphoryl hoá cơ chất.", "notation": null, "chapter": "Chương 4. Chuyển hoá năng lượng trong tế bào", "lesson": "Bài 14. Phân giải và tổng hợp các chất trong tế bào", "level": "co_ban", "related_terms": ["sinh-10-duong-phan", "sinh-10-phosphoryl-hoa-oxy-hoa"], "sources": [{"book_type": "sbt", "file": "SBT SINH HOC 10.pdf", "pdf_page": 43, "printed_page": 42}], "notes": null},
     {"id": "sinh-10-phosphoryl-hoa-oxy-hoa", "term": "Tổng hợp ATP kiểu oxy hoá (hoá thẩm)", "aliases": ["hoá thẩm", "tổng hợp ATP kiểu oxy hoá"], "type": "dinh_nghia", "definition": "Hoạt động của chuỗi truyền điện tử đã tạo nên một sự chênh lệch lớn về nồng độ điện hoá giữa hai phía màng trong ti thể tạo nên lực đẩy $H^+$ qua kênh protein ATP – synthase trở lại chất nền ti thể, nhờ đó tạo ra ATP. Sự tạo thành ATP nhờ chuỗi truyền electron được gọi là sự tổng hợp ATP kiểu oxy hoá hay còn gọi là sự hoá thẩm.", "notation": null, "chapter": "Chương 4. Chuyển hoá năng lượng trong tế bào", "lesson": "Bài 14. Phân giải và tổng hợp các chất trong tế bào", "level": "co_ban", "related_terms": ["sinh-10-chuoi-truyen-electron", "sinh-10-phosphoryl-hoa-co-chat"], "sources": [{"book_type": "sbt", "file": "SBT SINH HOC 10.pdf", "pdf_page": 43, "printed_page": 42}], "notes": null},
     {"id": "sinh-10-virus-moi-noi", "term": "Virus mới nổi", "aliases": [], "type": "dinh_nghia", "definition": "Virus mới nổi là những chủng virus hoàn toàn mới lạ đối với vật chủ. Chúng có thể xuất hiện bằng nhiều cách: đột biến làm xuất hiện các chủng virus mới từ những chủng có sẵn; các virus có thể tái tổ hợp vật chất di truyền với nhau làm xuất hiện virus mới; virus bị đột biến có thể chuyển đổi từ vật chủ này sang vật chủ khác.", "notation": null, "chapter": "Chương 7. Virus", "lesson": "Bài 25. Một số bệnh do virus và các thành tựu nghiên cứu ứng dụng virus", "level": "co_ban", "related_terms": ["sinh-10-virus"], "sources": [{"book_type": "sbt", "file": "SBT SINH HOC 10.pdf", "pdf_page": 88, "printed_page": 87}], "notes": null}
-  ]
+  ],
+  "lessons": []
 }

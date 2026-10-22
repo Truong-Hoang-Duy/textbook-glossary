@@ -1,0 +1,40 @@
+======================================================================
+  HƯỚNG DẪN CHẠY VÀ MỞ BOOKFORGE GLOSSARY REVIEW STATION
+======================================================================
+
+1. LỆNH CHẠY SERVER (Chạy trong Terminal / PowerShell):
+----------------------------------------------------------------------
+Từ thư mục gốc (d:\Project\book), copy và dán lệnh sau vào terminal:
+
+cd review-station; python review_station.py --port 8080
+
+(Hoặc chạy 2 bước:
+   cd review-station
+   python review_station.py --port 8080
+)
+
+
+2. CÁCH MỞ TRÊN TRÌNH DUYỆT WEB:
+----------------------------------------------------------------------
+Sau khi server khởi động xong, mở trình duyệt (Chrome, Edge, Firefox, Cốc Cốc...)
+và truy cập một trong hai đường dẫn:
+
+👉 http://localhost:8080
+hoặc
+👉 http://127.0.0.1:8080
+
+⚠️ LƯU Ý:
+- KHÔNG mở địa chỉ "http://0.0.0.0:8080" trên trình duyệt web vì Windows
+  không hỗ trợ định tuyến trực tiếp đến IP 0.0.0.0 (sẽ báo lỗi không kết nối được).
+- Luôn dùng "localhost:8080" hoặc "127.0.0.1:8080".
+
+
+3. THÔNG TIN ĐĂNG NHẬP:
+----------------------------------------------------------------------
+- Mật khẩu mặc định: kntt2026
+
+
+4. CÁCH DỪNG SERVER:
+----------------------------------------------------------------------
+- Nhấp vào cửa sổ Terminal đang chạy và nhấn tổ hợp phím: Ctrl + C
+======================================================================

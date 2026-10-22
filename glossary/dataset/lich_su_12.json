@@ -5,7 +5,8 @@
     "subject_name": "Lịch sử",
     "grade": 12,
     "last_updated": "2026-10-20",
-    "term_count": 116
+    "term_count": 116,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "lich-su-12-trat-tu-the-gioi", "term": "trật tự thế giới", "aliases": [], "type": "dinh_nghia", "definition": "tình trạng quan hệ, tương quan so sánh lực lượng, sức mạnh, quyền lực giữa các quốc gia (“cực”) hay nhóm quốc gia trong giai đoạn lịch sử nhất định nhằm duy trì quan hệ giữa các quốc gia theo những tiêu chuẩn, luật lệ chung.", "notation": null, "chapter": "Chủ đề 1. Thế giới trong và sau Chiến tranh Lạnh", "lesson": "Bài 1. Liên hợp quốc", "level": "co_ban", "related_terms": [], "sources": [{"book_type": "sgk", "file": "SGK LỊCH SỬ 12-KNTT.pdf", "pdf_page": 112, "printed_page": 110}, {"book_type": "sgk", "file": "SGK LỊCH SỬ 12-KNTT.pdf", "pdf_page": 9, "printed_page": 7}], "notes": null},
@@ -124,5 +125,6 @@
     {"id": "lich-su-12-tac-dong-tich-cuc-toan-cau-hoa-viet-nam", "term": "tác động tích cực của toàn cầu hoá đối với Việt Nam", "aliases": ["Tác động tích cực", "toàn cầu hoá"], "type": "tinh_chat", "definition": "Toàn cầu hoá đã tạo điều kiện cho Việt Nam tiếp nhận các thành tựu khoa học công nghệ của thế giới; mang lại nhiều cơ hội để trao đổi, hợp tác và đổi mới; nâng cao chất lượng và năng lực sản xuất.", "notation": null, "chapter": "Chuyên đề 3. Quá trình hội nhập quốc tế của Việt Nam", "lesson": "II. Việt Nam hội nhập khu vực và thế giới", "level": "chuyen_de", "related_terms": ["lich-su-12-tac-dong-tieu-cuc-toan-cau-hoa-viet-nam", "lich-su-12-viet-nam-hoi-nhap-asean"], "sources": [{"book_type": "scd", "file": "SCD LICH SU 12 - KNTT.pdf", "pdf_page": 49, "printed_page": 47}], "notes": null},
     {"id": "lich-su-12-tac-dong-tieu-cuc-toan-cau-hoa-viet-nam", "term": "tác động tiêu cực của toàn cầu hoá đối với Việt Nam", "aliases": ["Tác động tiêu cực", "khoảng cách giàu nghèo"], "type": "tinh_chat", "definition": "Dưới tác động của toàn cầu hoá, thu nhập của các nhóm dân cư đều tăng lên nhưng tốc độ tăng thu nhập của nhóm nghèo luôn thấp hơn nhóm giàu, do vậy, khoảng cách giàu nghèo và bất bình đẳng về thu nhập giữa thành thị và nông thôn ngày càng gia tăng.", "notation": null, "chapter": "Chuyên đề 3. Quá trình hội nhập quốc tế của Việt Nam", "lesson": "II. Việt Nam hội nhập khu vực và thế giới", "level": "chuyen_de", "related_terms": ["lich-su-12-tac-dong-tich-cuc-toan-cau-hoa-viet-nam", "lich-su-12-viet-nam-hoi-nhap-asean"], "sources": [{"book_type": "scd", "file": "SCD LICH SU 12 - KNTT.pdf", "pdf_page": 50, "printed_page": 48}], "notes": null},
     {"id": "lich-su-12-viet-nam-hoi-nhap-asean", "term": "Việt Nam hội nhập khu vực ASEAN", "aliases": ["Việt Nam hội nhập khu vực Đông Nam Á", "ASEAN"], "type": "tinh_chat", "definition": "Về văn hoá, Việt Nam cũng tích cực thúc đẩy giao lưu văn hoá trong ASEAN, tổ chức nhiều sự kiện, lễ hội văn hoá; nỗ lực thúc đẩy sự đa dạng và hiểu biết văn hoá giữa các nước thành viên ASEAN.", "notation": null, "chapter": "Chuyên đề 3. Quá trình hội nhập quốc tế của Việt Nam", "lesson": "II. Việt Nam hội nhập khu vực và thế giới", "level": "chuyen_de", "related_terms": ["lich-su-12-doi-thoai-lien-van-hoa", "lich-su-12-asean"], "sources": [{"book_type": "scd", "file": "SCD LICH SU 12 - KNTT.pdf", "pdf_page": 52, "printed_page": 50}], "notes": null}
-  ]
+  ],
+  "lessons": []
 }

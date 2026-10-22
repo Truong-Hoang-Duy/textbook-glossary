@@ -18,6 +18,9 @@ dữ liệu sai trang/bịa phần lớn < 0.5 → ngưỡng mặc định 0.65.
   để chịu được lỗi OCR dính chữ; dự phòng so không dấu vì OCR hay sai dấu). Với type cong_thuc/quy_tac/ky_hieu/tinh_chat (tên thường do người trích đặt),
   không thấy term chỉ là CẢNH BÁO, không gắn cờ.
 Script chỉ phát hiện định nghĩa bịa hoặc sai trang; sai sót nhỏ trong công thức cần kiểm tra mẫu.
+
+Yêu cầu cần đạt (mảng lessons; bỏ qua khi lọc --id): gộp mọi objectives, so bigram với 3 trang quanh
+nguồn chính, gắn cờ nếu < ngưỡng. key_terms không thấy trong trang chỉ là CẢNH BÁO.
 """
 import argparse
 import sys
@@ -61,11 +64,15 @@ def main():
 
     keep = not a.no_accent
     reader = PageReader(a.unit, allow_ocr=not a.no_ocr)
-    terms = load_unit(a.unit)["terms"]
+    data = load_unit(a.unit)
+    terms = data["terms"]
+    lessons = data.get("lessons") or []
     if a.lesson:
         terms = [t for t in terms if norm(a.lesson) in norm(t["lesson"])]
+        lessons = [e for e in lessons if norm(a.lesson) in norm(e["lesson"] or e["chapter"])]
     if a.id:
         terms = [t for t in terms if t["id"] in a.id]
+        lessons = []
 
     page_cache = {}
 
@@ -77,28 +84,38 @@ def main():
                 (tokens(text, keep, False), tokens(text, False, False)), how)
         return page_cache[key]
 
+    def window(s):
+        """Token 3 trang quanh nguồn (có dấu theo tuỳ chọn, và bản không dấu); None nếu không đọc được trang chính."""
+        main_toks, how = page_tokens(s["file"], s["pdf_page"])
+        if main_toks is None:
+            return None, None, how
+        hay, hay_plain = [], []
+        for p in (s["pdf_page"] - 1, s["pdf_page"], s["pdf_page"] + 1):
+            if p < 1:
+                continue
+            toks, _ = page_tokens(s["file"], p)
+            if toks:
+                hay += toks[0] + [PAGE_SEP]
+                hay_plain += toks[1] + [PAGE_SEP]
+        return hay, hay_plain, how
+
+    def found(name, h, acc):
+        nt = tokens(name, acc)
+        return bool(nt) and (contains_seq(h, nt) or "".join(nt) in "".join(h))
+
+    def by_priority(sources):
+        return sorted(enumerate(sources), key=lambda x: (BOOK_PRIORITY[x[1]["book_type"]], x[0]))
+
     passed, flagged, unverifiable, warned, rows = [], [], [], [], []
     for t in terms:
-        srcs = sorted(enumerate(t["sources"]), key=lambda x: (BOOK_PRIORITY[x[1]["book_type"]], x[0]))
+        srcs = by_priority(t["sources"])
         reasons, unver, warns, details = [], [], [], []
         for rank, (_, s) in enumerate(srcs):
             label = f"{s['file']} tr.{s['pdf_page']}"
-            main_toks, how = page_tokens(s["file"], s["pdf_page"])
-            if main_toks is None:
+            hay, hay_plain, how = window(s)
+            if hay is None:
                 unver.append(f"{label}: {how}")
                 continue
-            hay, hay_plain = [], []
-            for p in (s["pdf_page"] - 1, s["pdf_page"], s["pdf_page"] + 1):
-                if p < 1:
-                    continue
-                toks, _ = page_tokens(s["file"], p)
-                if toks:
-                    hay += toks[0] + [PAGE_SEP]
-                    hay_plain += toks[1] + [PAGE_SEP]
-
-            def found(name, h, acc):
-                nt = tokens(name, acc)
-                return bool(nt) and (contains_seq(h, nt) or "".join(nt) in "".join(h))
 
             names = [t["term"], *t["aliases"]]
             # Tên thuật ngữ: so có dấu, dự phòng không dấu (OCR hay sai dấu: "bắt"/"bất", "ân"/"ẩn").
@@ -158,6 +175,38 @@ def main():
     print(f"\n-- Mục có notes ({len(noted)}):")
     for t in noted:
         print(f"  {t['id']}: {t['notes']}")
+
+    if not lessons:
+        return
+    l_pass, l_flag, l_unver, l_warn = 0, [], [], []
+    for e in lessons:
+        lab = f"{e['chapter']} › {e['lesson'] or '(cả chương)'} [{e['level']}]"
+        _, s = by_priority(e["sources"])[0]
+        src_lab = f"{s['file']} tr.{s['pdf_page']}"
+        hay, hay_plain, how = window(s)
+        if hay is None:
+            l_unver.append(f"{lab}: {src_lab}: {how}")
+            continue
+        obj_bi = [b for o in e["objectives"] for seg in LATEX_INLINE_RE.split(o) for b in bigrams(tokens(seg, keep))]
+        hay_bi = set(bigrams(hay))
+        bi = sum(b in hay_bi for b in obj_bi) / len(obj_bi) if obj_bi else 0.0
+        missing = [k for k in e["key_terms"] if not (found(k, hay, keep) or found(k, hay_plain, False))]
+        if bi < a.threshold:
+            l_flag.append(f"{lab}: {src_lab} bigram {bi:.2f} < {a.threshold}")
+        else:
+            l_pass += 1
+        if missing:
+            l_warn.append(f"{lab}: key_terms không thấy trong 3 trang: {missing}")
+        if a.verbose:
+            print(f"  {lab}: {src_lab} [{how}] bigram {bi:.2f}")
+
+    print(f"\n== Yêu cầu cần đạt: {len(lessons)} mục | Đạt: {l_pass} | Gắn cờ: {len(l_flag)} | "
+          f"Không kiểm tra được: {len(l_unver)} | Cảnh báo key_terms: {len(l_warn)}")
+    for title, items in (("GẮN CỜ", l_flag), ("KHÔNG KIỂM TRA ĐƯỢC", l_unver), ("CẢNH BÁO", l_warn)):
+        if items:
+            print(f"\n-- YCCĐ {title}:")
+            for m in items:
+                print(f"  {m}")
 
 
 if __name__ == "__main__":

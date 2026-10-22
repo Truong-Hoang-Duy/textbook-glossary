@@ -5,7 +5,8 @@
     "subject_name": "Sinh học",
     "grade": 12,
     "last_updated": "2026-10-17",
-    "term_count": 164
+    "term_count": 164,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "sinh-12-chuc-nang-cua-dna", "term": "Chức năng của DNA", "aliases": ["vai trò của DNA"], "type": "tinh_chat", "definition": "DNA có chức năng mang, bảo quản và truyền đạt thông tin di truyền.", "notation": null, "chapter": "Chương I. Di truyền phân tử", "lesson": "Bài 1. DNA và cơ chế tái bản", "level": "co_ban", "related_terms": ["sinh-10-dna"], "sources": [{"book_type": "sgk", "file": "SGK SINH HOC 12 - KNTT.pdf", "pdf_page": 7, "printed_page": 5}], "notes": null},
@@ -172,5 +173,6 @@
     {"id": "sinh-12-he-thong-tu-nhien", "term": "Hệ thống tự nhiên trong sinh thái nhân văn", "aliases": ["hệ thống tự nhiên"], "type": "dinh_nghia", "definition": "Hệ thống tự nhiên bao gồm các sinh vật (thực vật, động vật, vi sinh vật) và môi trường (không khí, đất, nước, các công trình xây dựng).", "notation": null, "chapter": "Chuyên đề 3. Sinh thái nhân văn", "lesson": "Bài 8. Khái niệm và giá trị của sinh thái nhân văn", "level": "chuyen_de", "related_terms": ["sinh-12-sinh-thai-nhan-van"], "sources": [{"book_type": "scd", "file": "SCD SINH HOC 12 - KNTT.pdf", "pdf_page": 62, "printed_page": 58}], "notes": null},
     {"id": "sinh-12-diem-nong-ve-da-dang-sinh-vat", "term": "Điểm nóng về đa dạng sinh vật", "aliases": ["biodiversity hotspot"], "type": "dinh_nghia", "definition": "Điểm nóng về đa dạng sinh vật, những khu vực có diện tích hạn chế, nhưng có tính đa dạng sinh vật cao với số lượng lớn các loài đặc hữu hoặc các loài nguy cấp.", "notation": null, "chapter": "Chuyên đề 3. Sinh thái nhân văn", "lesson": "Bài 9. Giá trị sinh thái nhân văn trong một số lĩnh vực", "level": "chuyen_de", "related_terms": [], "sources": [{"book_type": "scd", "file": "SCD SINH HOC 12 - KNTT.pdf", "pdf_page": 83, "printed_page": 79}], "notes": null},
     {"id": "sinh-12-khi-nha-kinh", "term": "Khí nhà kính", "aliases": ["greenhouse gases"], "type": "dinh_nghia", "definition": "Khí nhà kính, các loại khí hấp thụ và phát ra năng lượng bức xạ ở bước sóng nhiệt hồng ngoại, gây ra hiệu ứng nhà kính, gồm: hơi nước, CO,, CH,, NO,O. các khí CFC....", "notation": null, "chapter": "Chuyên đề 3. Sinh thái nhân văn", "lesson": "Bài 9. Giá trị sinh thái nhân văn trong một số lĩnh vực", "level": "chuyen_de", "related_terms": [], "sources": [{"book_type": "scd", "file": "SCD SINH HOC 12 - KNTT.pdf", "pdf_page": 83, "printed_page": 79}], "notes": null}
-  ]
+  ],
+  "lessons": []
 }

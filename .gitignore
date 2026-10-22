@@ -26,3 +26,13 @@ glossary/**/sample_audit.md
 .idea/
 .DS_Store
 Thumbs.db
+
+# Runtime storage & SQLite databases
+storage/
+*.db
+*.db-shm
+*.db-wal
+
+# Dự án con độc lập (repo riêng)
+review-station/
+

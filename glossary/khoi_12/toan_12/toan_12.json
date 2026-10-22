@@ -5,7 +5,8 @@
     "subject_name": "Toán",
     "grade": 12,
     "last_updated": "2026-10-20",
-    "term_count": 91
+    "term_count": 91,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "toan-12-ham-so-dong-bien-nghich-bien", "term": "Hàm số đồng biến, nghịch biến", "aliases": ["Tính đơn điệu của hàm số", "Hàm số đơn điệu"], "type": "dinh_nghia", "definition": "Hàm số $y = f(x)$ được gọi là đồng biến trên $K$ nếu $\\forall x_1, x_2 \\in K, x_1 < x_2 \\Rightarrow f(x_1) < f(x_2)$. Hàm số $y = f(x)$ được gọi là nghịch biến trên $K$ nếu $\\forall x_1, x_2 \\in K, x_1 < x_2 \\Rightarrow f(x_1) > f(x_2)$. Hàm số đồng biến hay nghịch biến trên $K$ còn được gọi chung là đơn điệu trên $K$.", "notation": null, "chapter": "Chương I. Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số", "lesson": "Bài 1. Tính đơn điệu và cực trị của hàm số", "level": "co_ban", "related_terms": ["toan-10-ham-so-dong-bien-nghich-bien", "toan-11-dao-ham-tren-mot-khoang"], "sources": [{"book_type": "sgk", "file": "SGK TOAN 12 TAP 1 - KNTT.pdf", "pdf_page": 8, "printed_page": 6}], "notes": null},
@@ -99,5 +100,6 @@
     {"id": "toan-12-cong-thuc-xac-suat-toan-phan", "term": "Công thức xác suất toàn phần", "aliases": ["Xác suất toàn phần"], "type": "cong_thuc", "definition": "Cho hai biến cố $A$ và $B$. Khi đó, ta có công thức sau: $P(B) = P(A) \\cdot P(B|A) + P(\\overline{A}) \\cdot P(B|\\overline{A})$. Công thức trên được gọi là công thức xác suất toàn phần.", "notation": "$P(B) = P(A) \\cdot P(B|A) + P(\\overline{A}) \\cdot P(B|\\overline{A})$", "chapter": "Chương VI. Xác suất có điều kiện", "lesson": "Bài 19. Công thức xác suất toàn phần và công thức Bayes", "level": "co_ban", "related_terms": ["toan-12-cong-thuc-nhan-xac-suat"], "sources": [{"book_type": "sgk", "file": "SGK TOAN 12 TAP 2 - KNTT.pdf", "pdf_page": 74, "printed_page": 72}], "notes": null},
     {"id": "toan-12-cong-thuc-bayes", "term": "Công thức Bayes", "aliases": ["Định lí Bayes", "Quy tắc Bayes"], "type": "cong_thuc", "definition": "Cho $A$ và $B$ là hai biến cố, với $P(B) > 0$. Khi đó, ta có công thức sau: $P(A|B) = \\frac{P(A) \\cdot P(B|A)}{P(A) \\cdot P(B|A) + P(\\overline{A}) \\cdot P(B|\\overline{A})}$. Công thức trên có tên là công thức Bayes.", "notation": "$P(A|B) = \\frac{P(A) \\cdot P(B|A)}{P(A) \\cdot P(B|A) + P(\\overline{A}) \\cdot P(B|\\overline{A})}$", "chapter": "Chương VI. Xác suất có điều kiện", "lesson": "Bài 19. Công thức xác suất toàn phần và công thức Bayes", "level": "co_ban", "related_terms": ["toan-12-cong-thuc-xac-suat-toan-phan"], "sources": [{"book_type": "sgk", "file": "SGK TOAN 12 TAP 2 - KNTT.pdf", "pdf_page": 77, "printed_page": 75}, {"book_type": "sgk", "file": "SGK TOAN 12 TAP 2 - KNTT.pdf", "pdf_page": 97, "printed_page": 95}], "notes": null},
     {"id": "toan-12-y-nghia-cong-thuc-bayes", "term": "Ý nghĩa của công thức Bayes", "aliases": ["Cập nhật xác suất Bayes"], "type": "tinh_chat", "definition": "Một nhà nghiên cứu quan tâm đến xác suất xảy ra của biến cố $A$. Khi có thông tin mới rằng biến cố $B$ đã xảy ra, nhà nghiên cứu cập nhật lại hiểu biết của mình về khả năng xảy ra biến cố $A$ bằng cách tính $P(A|B)$, xác suất của $A$ khi biết $B$ đã xảy ra. Công thức Bayes cho ta tính $P(A|B)$.", "notation": null, "chapter": "Chương VI. Xác suất có điều kiện", "lesson": "Bài 19. Công thức xác suất toàn phần và công thức Bayes", "level": "co_ban", "related_terms": ["toan-12-cong-thuc-bayes"], "sources": [{"book_type": "sgk", "file": "SGK TOAN 12 TAP 2 - KNTT.pdf", "pdf_page": 77, "printed_page": 75}], "notes": null}
-  ]
+  ],
+  "lessons": []
 }

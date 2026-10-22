@@ -5,7 +5,8 @@
     "subject_name": "Tiếng Anh",
     "grade": 10,
     "last_updated": "2026-10-14",
-    "term_count": 261
+    "term_count": 261,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "tieng-anh-10-benefit", "term": "benefit", "aliases": [], "type": "dinh_nghia", "definition": "lợi ích", "notation": "(n) /ˈbenɪfɪt/", "chapter": "Unit 1. Family life", "lesson": "Glossary", "level": "co_ban", "related_terms": [], "sources": [{"book_type": "sgk", "file": "SGK Tieng Anh 10 Global Success.pdf", "pdf_page": 125, "printed_page": 124}], "notes": null},
@@ -269,5 +270,6 @@
     {"id": "tieng-anh-10-ecotourism-clil", "term": "ecotourism", "aliases": [], "type": "dinh_nghia", "definition": "Ecotourism provides tourists with opportunities to explore nature, and at the same time helps protect the environment and educates travellers on local environmental issues. It also promotes tourists' respect for local communities.", "notation": null, "chapter": "Unit 10. Ecotourism", "lesson": "Lesson 7. Communication and culture / CLIL", "level": "co_ban", "related_terms": ["tieng-anh-10-ecotourism", "tieng-anh-10-sustainable-tourism", "tieng-anh-10-responsible-tourism"], "sources": [{"book_type": "sgk", "file": "SGK Tieng Anh 10 Global Success.pdf", "pdf_page": 118, "printed_page": 117}], "notes": null},
     {"id": "tieng-anh-10-sustainable-tourism", "term": "sustainable tourism", "aliases": [], "type": "dinh_nghia", "definition": "Sustainable tourism involves not only environmental protection and cultural respect, but also efforts to keep profits local. It often refers to actions of the tourist industry as a whole.", "notation": null, "chapter": "Unit 10. Ecotourism", "lesson": "Lesson 7. Communication and culture / CLIL", "level": "co_ban", "related_terms": ["tieng-anh-10-sustainable", "tieng-anh-10-ecotourism-clil", "tieng-anh-10-responsible-tourism"], "sources": [{"book_type": "sgk", "file": "SGK Tieng Anh 10 Global Success.pdf", "pdf_page": 118, "printed_page": 117}], "notes": null},
     {"id": "tieng-anh-10-responsible-tourism", "term": "responsible tourism", "aliases": [], "type": "dinh_nghia", "definition": "Responsible tourism encourages tourists to be more than visitors. Responsible tourists should not only be aware of their role, but also take part in protecting the environment, culture and improving the profits for local people. Responsible tourism often relates to specific actions of individuals, businesses, and communities.", "notation": null, "chapter": "Unit 10. Ecotourism", "lesson": "Lesson 7. Communication and culture / CLIL", "level": "co_ban", "related_terms": ["tieng-anh-10-responsible", "tieng-anh-10-sustainable-tourism"], "sources": [{"book_type": "sgk", "file": "SGK Tieng Anh 10 Global Success.pdf", "pdf_page": 118, "printed_page": 117}], "notes": null}
-  ]
+  ],
+  "lessons": []
 }

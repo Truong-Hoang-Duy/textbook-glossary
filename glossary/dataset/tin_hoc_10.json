@@ -5,7 +5,8 @@
     "subject_name": "Tin học",
     "grade": 10,
     "last_updated": "2026-10-15",
-    "term_count": 266
+    "term_count": 266,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "tin-hoc-10-tin-hoc", "term": "Tin học", "aliases": [], "type": "dinh_nghia", "definition": "Tin học được định nghĩa là khoa học nghiên cứu các phương pháp và quá trình xử lí thông tin tự động bằng các phương tiện kĩ thuật, chủ yếu bằng máy tính.", "notation": null, "chapter": "Chủ đề 1. Máy tính và xã hội tri thức", "lesson": "Bài 1. Thông tin và xử lí thông tin", "level": "co_ban", "related_terms": ["tin-hoc-10-thong-tin"], "sources": [{"book_type": "sgk", "file": "SGK Tin hoc 10.pdf", "pdf_page": 7, "printed_page": 6}], "notes": null},
@@ -274,5 +275,6 @@
     {"id": "tin-hoc-10-do-hoa-may-tinh", "term": "Đồ hoạ máy tính", "aliases": ["đồ hoạ"], "type": "dinh_nghia", "definition": "Đồ hoạ là hình ảnh hay thiết kế trên một bề mặt để biểu diễn thông tin. Các hình ảnh, đồ hoạ do máy tính tạo ra được gọi là \"đồ hoạ máy tính\". Thiết kế đồ hoạ là một nghề, một nghệ thuật và cũng là một ngành học thiết kế các thông điệp truyền thông bằng hình ảnh.", "notation": null, "chapter": "Chủ đề 6. Hướng nghiệp với tin học", "lesson": "Bài 33. Nghề thiết kế đồ hoạ máy tính", "level": "co_ban", "related_terms": ["tin-hoc-10-thiet-ke-do-hoa", "tin-hoc-10-nguoi-thiet-ke-do-hoa"], "sources": [{"book_type": "sbt", "file": "SBT TIN HOC 10.pdf", "pdf_page": 69, "printed_page": 68}], "notes": null},
     {"id": "tin-hoc-10-do-sau-bit-am-thanh", "term": "Độ sâu bit của âm thanh", "aliases": ["độ sâu bit", "tần số lấy mẫu"], "type": "dinh_nghia", "definition": "Số bit để biểu diễn giá trị của thang lấy mẫu gọi là độ sâu bit (bit depth). Tần số lấy mẫu càng cao, thang lấy mẫu càng chi tiết thì đường bậc thang càng bám sát đường cong tín hiệu và âm khôi phục lại càng trung thực.", "notation": null, "chapter": "Chủ đề 1. Máy tính và xã hội tri thức", "lesson": "Bài 6. Dữ liệu âm thanh và hình ảnh", "level": "co_ban", "related_terms": ["tin-hoc-10-dieu-che-ma-xung", "tin-hoc-10-chu-ki-lay-mau", "tin-hoc-10-do-sau-mau"], "sources": [{"book_type": "sbt", "file": "SBT TIN HOC 10.pdf", "pdf_page": 15, "printed_page": 14}], "notes": null},
     {"id": "tin-hoc-10-tac-pham-phai-sinh", "term": "Tác phẩm phái sinh", "aliases": ["bản phái sinh"], "type": "dinh_nghia", "definition": "Vấn đề quyền tác giả liên quan tới cả các biến thể của tác phẩm (tác phẩm/bản phái sinh), khi từ tác phẩm gốc người ta tạo ra các biến thể, ví dụ một cuốn sách được dịch sang một ngôn ngữ khác hay một phần mềm máy tính được cải biên để dùng trên điện thoại di động. Từ tác phẩm, người ta có thể tạo những bản dẫn xuất, được gọi là tác phẩm phái sinh.", "notation": null, "chapter": "Chủ đề 3. Đạo đức, pháp luật và văn hoá trong môi trường số", "lesson": "Bài 11. Ứng xử trên môi trường số. Nghĩa vụ tôn trọng bản quyền", "level": "co_ban", "related_terms": ["tin-hoc-10-quyen-tac-gia", "tin-hoc-10-quyen-tai-san"], "sources": [{"book_type": "sgk", "file": "SGK Tin hoc 10.pdf", "pdf_page": 60, "printed_page": 59}, {"book_type": "sbt", "file": "SBT TIN HOC 10.pdf", "pdf_page": 25, "printed_page": 24}, {"book_type": "gv", "file": "SGV TIN HOC 10.pdf", "pdf_page": 67, "printed_page": 66}], "notes": null}
-  ]
+  ],
+  "lessons": []
 }

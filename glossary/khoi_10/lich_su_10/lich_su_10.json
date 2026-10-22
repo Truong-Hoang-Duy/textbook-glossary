@@ -5,7 +5,8 @@
     "subject_name": "Lịch sử",
     "grade": 10,
     "last_updated": "2026-10-15",
-    "term_count": 261
+    "term_count": 261,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "lich-su-10-lich-su", "term": "lịch sử", "aliases": ["lịch sử loài người"], "type": "dinh_nghia", "definition": "Lịch sử là những gì đã diễn ra trong quá khứ. Lịch sử loài người là toàn bộ những hoạt động của con người từ khi xuất hiện đến ngày nay, bao gồm cả lịch sử quá trình tương tác của con người với tự nhiên và quá trình con người tương tác với nhau. Lịch sử được hiểu theo hai nghĩa khác nhau: hiện thực lịch sử và nhận thức lịch sử.", "notation": null, "chapter": "Chủ đề 1. Lịch sử và sử học", "lesson": "Bài 1. Hiện thực lịch sử và nhận thức lịch sử", "level": "co_ban", "related_terms": [], "sources": [{"book_type": "sgk", "file": "SGK Lich su 10.pdf", "pdf_page": 8, "printed_page": 7}], "notes": null},
@@ -269,5 +270,6 @@
     {"id": "lich-su-10-dan-chu-truc-tiep", "term": "dân chủ trực tiếp", "aliases": [], "type": "dinh_nghia", "definition": "Các biện pháp, hình thức được Nhà nước thừa nhận, áp dụng để người dân có thể trực tiếp tham gia vào công việc Nhà nước.", "notation": null, "chapter": "Chuyên đề 3. Nhà nước và pháp luật Việt Nam trong lịch sử", "lesson": "III. Một số bản Hiến pháp Việt Nam từ năm 1946 đến nay", "level": "chuyen_de", "related_terms": ["lich-su-10-dan-chu-dai-dien", "lich-su-10-hien-phap-nam-2013"], "sources": [{"book_type": "scd", "file": "SCD Lich su 10.pdf", "pdf_page": 63, "printed_page": 62}, {"book_type": "scd", "file": "SCD Lich su 10.pdf", "pdf_page": 61, "printed_page": 60}], "notes": null},
     {"id": "lich-su-10-dan-chu-dai-dien", "term": "dân chủ đại diện", "aliases": [], "type": "dinh_nghia", "definition": "Các biện pháp, hình thức được Nhà nước thừa nhận, áp dụng để người dân tham gia vào công việc nhà nước; giám sát hoạt động của Nhà nước thông qua cá nhân hoặc cơ quan đại diện như: Quốc hội, Hội đồng nhân dân các cấp,...", "notation": null, "chapter": "Chuyên đề 3. Nhà nước và pháp luật Việt Nam trong lịch sử", "lesson": "III. Một số bản Hiến pháp Việt Nam từ năm 1946 đến nay", "level": "chuyen_de", "related_terms": ["lich-su-10-dan-chu-truc-tiep", "lich-su-10-hien-phap-nam-2013"], "sources": [{"book_type": "scd", "file": "SCD Lich su 10.pdf", "pdf_page": 63, "printed_page": 62}, {"book_type": "scd", "file": "SCD Lich su 10.pdf", "pdf_page": 61, "printed_page": 60}], "notes": null},
     {"id": "lich-su-10-bao-vat-quoc-gia", "term": "bảo vật quốc gia", "aliases": [], "type": "dinh_nghia", "definition": "Bảo vật quốc gia là những hiện vật có giá trị văn hoá, lịch sử to lớn được Chính phủ nước Cộng hoà xã hội chủ nghĩa Việt Nam công nhận.", "notation": null, "chapter": "Chủ đề 6. Một số nền văn minh trên đất nước Việt Nam (trước năm 1858)", "lesson": "Bài 12. Văn minh Đại Việt", "level": "co_ban", "related_terms": ["lich-su-10-di-san-van-hoa-vat-the"], "sources": [{"book_type": "sbt", "file": "SBT LICH SU 10.pdf", "pdf_page": 79, "printed_page": 78}], "notes": null}
-  ]
+  ],
+  "lessons": []
 }

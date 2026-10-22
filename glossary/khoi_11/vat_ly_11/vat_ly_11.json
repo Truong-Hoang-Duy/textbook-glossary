@@ -5,7 +5,8 @@
     "subject_name": "Vật lí",
     "grade": 11,
     "last_updated": "2026-10-20",
-    "term_count": 122
+    "term_count": 122,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "vat-ly-11-dao-dong-co", "term": "Dao động cơ", "aliases": ["Dao động", "Chuyển động dao động"], "type": "dinh_nghia", "definition": "Dao động cơ là chuyển động của một vật qua lại quanh một vị trí cân bằng.", "notation": null, "chapter": "Chương I. Dao động", "lesson": "Bài 1. Dao động điều hoà", "level": "co_ban", "related_terms": ["vat-ly-11-vi-tri-can-bang", "vat-ly-11-dao-dong-dieu-hoa", "vat-ly-11-dao-dong-tat-dan"], "sources": [{"book_type": "sgk", "file": "SGK VAT LI 11 - KNTT.pdf", "pdf_page": 116, "printed_page": 114}, {"book_type": "sgk", "file": "SGK VAT LI 11 - KNTT.pdf", "pdf_page": 8, "printed_page": 6}], "notes": null},
@@ -130,5 +131,6 @@
     {"id": "vat-ly-11-dong-dieu-khien-relay", "term": "Dòng điều khiển relay", "aliases": ["Dòng điều khiển", "Dòng điều khiển của relay"], "type": "dinh_nghia", "definition": "Dòng điện chạy trong nam châm điện của relay gọi là dòng điều khiển relay.", "notation": null, "chapter": "Chuyên đề III. Mở đầu điện tử học", "lesson": "Bài 8. Bộ khuếch đại thuật toán và thiết bị đầu ra", "level": "chuyen_de", "related_terms": ["vat-ly-11-relay-dien-tu", "vat-ly-11-tai"], "sources": [{"book_type": "scd", "file": "SCD VAT LI 11 - KNTT.pdf", "pdf_page": 60, "printed_page": 59}, {"book_type": "scd", "file": "SCD VAT LI 11 - KNTT.pdf", "pdf_page": 51, "printed_page": 50}], "notes": null},
     {"id": "vat-ly-11-tai", "term": "Tải", "aliases": ["Mạch tải", "Tải tiêu thụ điện"], "type": "dinh_nghia", "definition": "Thuật ngữ chỉ mạch tiêu thụ điện gọi là tải.", "notation": null, "chapter": "Chuyên đề III. Mở đầu điện tử học", "lesson": "Bài 8. Bộ khuếch đại thuật toán và thiết bị đầu ra", "level": "chuyen_de", "related_terms": ["vat-ly-11-relay-dien-tu", "vat-ly-11-dong-dieu-khien-relay"], "sources": [{"book_type": "scd", "file": "SCD VAT LI 11 - KNTT.pdf", "pdf_page": 60, "printed_page": 59}, {"book_type": "scd", "file": "SCD VAT LI 11 - KNTT.pdf", "pdf_page": 51, "printed_page": 50}], "notes": "Bảng giải thích thuật ngữ SCD trang in 59 giải thích thuật ngữ Tải; trong thân bài Bài 7-8 dùng cụm từ mạch tải hoặc tải tiêu thụ."},
     {"id": "vat-ly-11-relay-dien-tu", "term": "Relay điện từ", "aliases": ["Rơ le điện từ", "Rơ-le"], "type": "dinh_nghia", "definition": "Relay điện từ là một công tắc đóng, ngắt hoặc chuyển mạch tải điện bằng lực từ.", "notation": null, "chapter": "Chuyên đề III. Mở đầu điện tử học", "lesson": "Bài 8. Bộ khuếch đại thuật toán và thiết bị đầu ra", "level": "chuyen_de", "related_terms": ["vat-ly-11-dong-dieu-khien-relay", "vat-ly-11-tai"], "sources": [{"book_type": "scd", "file": "SCD VAT LI 11 - KNTT.pdf", "pdf_page": 51, "printed_page": 50}], "notes": null}
-  ]
+  ],
+  "lessons": []
 }

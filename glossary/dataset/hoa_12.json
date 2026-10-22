@@ -5,7 +5,8 @@
     "subject_name": "Hoá học",
     "grade": 12,
     "last_updated": "2026-10-17",
-    "term_count": 108
+    "term_count": 108,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "hoa-12-ester", "term": "Ester", "aliases": ["este"], "type": "dinh_nghia", "definition": "Khi thay thế nhóm -OH ở nhóm carboxyl (-COOH) của carboxylic acid bằng nhóm -OR' thì được ester. Trong đó R' là gốc hydrocarbon.", "notation": null, "chapter": "Chương 1. Ester - Lipid", "lesson": "Bài 1. Ester - Lipid", "level": "co_ban", "related_terms": ["hoa-11-carboxylic-acid"], "sources": [{"book_type": "sgk", "file": "SGK HOA HOC 12 - KNTT.pdf", "pdf_page": 8, "printed_page": 6}], "notes": null},
@@ -116,5 +117,6 @@
     {"id": "hoa-12-heme-b", "term": "Heme B", "aliases": ["hemoglobin"], "type": "dinh_nghia", "definition": "Heme B tồn tại trong các vật sống từ vi khuẩn đến con người, là thành phần của hemoglobin, được viết tắt là Hb. Hemoglobin là thành phần cấu tạo nên hồng cầu của máu. Heme B giúp hồng cầu vận chuyển oxygen từ phổi đến các cơ quan và vận chuyển carbon dioxide từ các cơ quan đến phổi để giải phóng ra khỏi cơ thể.", "notation": null, "chapter": "Chuyên đề 3. Một số vấn đề cơ bản về phức chất", "lesson": "Bài 9. Vai trò và ứng dụng của phức chất", "level": "chuyen_de", "related_terms": ["hoa-12-phuc-chat"], "sources": [{"book_type": "scd", "file": "SCD HOA HOC 12 - KNTT.pdf", "pdf_page": 50, "printed_page": 48}], "notes": null},
     {"id": "hoa-12-chlorophyll", "term": "Chlorophyll", "aliases": ["chất diệp lục"], "type": "dinh_nghia", "definition": "Chlorophyll còn gọi là chất diệp lục, thực vật có màu xanh là do có chứa chlorophyll. Chlorophyll đóng vai trò quan trọng trong quá trình hấp thụ $CO_2$ và $H_2O$ dưới tác dụng của năng lượng Mặt Trời, chuyển hoá thành tinh bột và oxygen. Đây là quá trình quang hợp, xảy ra trong lá của cây xanh.", "notation": null, "chapter": "Chuyên đề 3. Một số vấn đề cơ bản về phức chất", "lesson": "Bài 9. Vai trò và ứng dụng của phức chất", "level": "chuyen_de", "related_terms": ["hoa-12-phuc-chat"], "sources": [{"book_type": "scd", "file": "SCD HOA HOC 12 - KNTT.pdf", "pdf_page": 50, "printed_page": 48}], "notes": null},
     {"id": "hoa-12-vitamin-b12", "term": "Vitamin B12", "aliases": ["cobalamin"], "type": "dinh_nghia", "definition": "Vitamin B12 là phức chất của $Co^{3+}$, có vai trò thiết yếu trong việc hình thành tế bào hồng cầu, chuyển hoá tế bào, chức năng thần kinh và sản xuất DNA.", "notation": null, "chapter": "Chuyên đề 3. Một số vấn đề cơ bản về phức chất", "lesson": "Bài 9. Vai trò và ứng dụng của phức chất", "level": "chuyen_de", "related_terms": ["hoa-12-phuc-chat"], "sources": [{"book_type": "scd", "file": "SCD HOA HOC 12 - KNTT.pdf", "pdf_page": 50, "printed_page": 48}], "notes": null}
-  ]
+  ],
+  "lessons": []
 }

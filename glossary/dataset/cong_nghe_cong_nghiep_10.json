@@ -5,7 +5,8 @@
     "subject_name": "Công nghệ (công nghiệp)",
     "grade": 10,
     "last_updated": "2026-10-17",
-    "term_count": 173
+    "term_count": 173,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "cong-nghe-cong-nghiep-10-khoa-hoc", "term": "Khoa học", "aliases": [], "type": "dinh_nghia", "definition": "Khoa học là hệ thống tri thức về mọi quy luật và sự vận động của vật chất, những quy luật của tự nhiên, xã hội, tư duy. Khoa học tự nhiên là một lĩnh vực của khoa học, có mục đích nhận thức, mô tả, giải thích và tiên đoán về các sự vật, hiện tượng và quy luật tự nhiên dựa trên những bằng chứng có được từ quan sát và thực nghiệm.", "notation": null, "chapter": "Chương I. Đại cương về công nghệ", "lesson": "Bài 1. Công nghệ và đời sống", "level": "co_ban", "related_terms": ["cong-nghe-cong-nghiep-10-ki-thuat", "cong-nghe-cong-nghiep-10-cong-nghe", "cong-nghe-cong-nghiep-10-moi-lien-he-khoa-hoc-ki-thuat-cong-nghe"], "sources": [{"book_type": "sgk", "file": "SGK Cong nghe 10 - Thiet ke va cong nghe.pdf", "pdf_page": 8, "printed_page": 7}], "notes": null},
@@ -181,5 +182,6 @@
     {"id": "cong-nghe-cong-nghiep-10-nghe-nghiep", "term": "Nghề nghiệp", "aliases": [], "type": "dinh_nghia", "definition": "Là tập hợp các công việc cụ thể giống nhau về các nhiệm vụ hoặc mức độ tương đồng cao về nhiệm vụ chính.", "notation": null, "chapter": "Chuyên đề 3. Nghề nghiệp STEM", "lesson": "Bài 7. STEM và nghề nghiệp STEM", "level": "chuyen_de", "related_terms": ["cong-nghe-cong-nghiep-10-nghe-nghiep-stem"], "sources": [{"book_type": "scd", "file": "SCD Cong nghe 10 - Thiet ke va cong nghe.pdf", "pdf_page": 60, "printed_page": 59}, {"book_type": "scd", "file": "SCD Cong nghe 10 - Thiet ke va cong nghe.pdf", "pdf_page": 47, "printed_page": 46}], "notes": null},
     {"id": "cong-nghe-cong-nghiep-10-transistor", "term": "Transistor", "aliases": [], "type": "dinh_nghia", "definition": "Linh kiện bán dẫn, thường được sử dụng trong các mạch khuếch đại hoặc khoá đóng/mở cho phép dòng điện đi qua hoặc không đi qua.", "notation": null, "chapter": "Chuyên đề 2. Thiết kế mạch điều khiển cho ngôi nhà thông minh", "lesson": "Bài 5. Công nghệ cảm biến", "level": "chuyen_de", "related_terms": [], "sources": [{"book_type": "scd", "file": "SCD Cong nghe 10 - Thiet ke va cong nghe.pdf", "pdf_page": 60, "printed_page": 59}, {"book_type": "scd", "file": "SCD Cong nghe 10 - Thiet ke va cong nghe.pdf", "pdf_page": 37, "printed_page": 36}], "notes": null},
     {"id": "cong-nghe-cong-nghiep-10-usb", "term": "USB (Universal Serial Bus)", "aliases": ["USB", "Universal Serial Bus"], "type": "dinh_nghia", "definition": "Chuẩn kết nối có dây, truyền dữ liệu nối tiếp, được sử dụng phổ biến cho phép máy tính kết nối với các thiết bị khác (bàn phím, chuột máy tính, điện thoại,...).", "notation": "USB", "chapter": "Chuyên đề 2. Thiết kế mạch điều khiển cho ngôi nhà thông minh", "lesson": "Bài 6. Dự án: Thiết kế hệ thống điều khiển đơn giản cho ngôi nhà thông minh", "level": "chuyen_de", "related_terms": [], "sources": [{"book_type": "scd", "file": "SCD Cong nghe 10 - Thiet ke va cong nghe.pdf", "pdf_page": 60, "printed_page": 59}, {"book_type": "scd", "file": "SCD Cong nghe 10 - Thiet ke va cong nghe.pdf", "pdf_page": 42, "printed_page": 41}], "notes": null}
-  ]
+  ],
+  "lessons": []
 }

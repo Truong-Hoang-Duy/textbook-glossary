@@ -5,7 +5,8 @@
     "subject_name": "Âm nhạc",
     "grade": 10,
     "last_updated": "2026-10-16",
-    "term_count": 116
+    "term_count": 116,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "am-nhac-10-quang-hoa-thanh", "term": "Quãng hoà thanh", "aliases": [], "type": "dinh_nghia", "definition": "Quãng hoà thanh là quãng có hai âm thanh vang lên cùng một lúc. Âm dưới được gọi là âm gốc, âm trên được gọi là âm ngọn.", "notation": null, "chapter": "Chủ đề 1. Giai điệu quê hương", "lesson": "Lí thuyết âm nhạc", "level": "co_ban", "related_terms": ["am-nhac-10-quang-giai-dieu", "am-nhac-10-quang-don", "am-nhac-10-quang-diatonic"], "sources": [{"book_type": "sgk", "file": "SGK Am nhac 10.pdf", "pdf_page": 9, "printed_page": 8}], "notes": null},
@@ -124,5 +125,6 @@
     {"id": "am-nhac-10-chon-tiet-dieu-dem-nhip-4-4", "term": "Chọn tiết điệu đệm cho ca khúc nhịp 4/4", "aliases": [], "type": "quy_tac", "definition": "Những ca khúc, bản nhạc được viết ở nhịp $\\frac{4}{4}$ có nhịp độ chậm và vừa phải, tính chất âm nhạc trữ tình, êm dịu thường gắn với những tiết điệu Ballad, Slow Rock. Ca khúc, bản nhạc có nhịp độ vừa phải, tính chất âm nhạc trang nghiêm, theo nhịp đi có thể chọn đệm bằng tiết điệu March. Những ca khúc, bản nhạc nhịp $\\frac{4}{4}$ có nhịp độ nhanh, tính chất âm nhạc sôi động, linh hoạt thường đệm bằng tiết điệu Disco.", "notation": null, "chapter": "Chuyên đề 3. Phương pháp xác định tiết điệu đệm", "lesson": "Bài 4. Xác định tiết điệu đệm cho ca khúc, bản nhạc nhịp 4/4", "level": "chuyen_de", "related_terms": ["am-nhac-10-tiet-dieu-ballad", "am-nhac-10-tiet-dieu-slow-rock", "am-nhac-10-tiet-dieu-march", "am-nhac-10-tiet-dieu-disco"], "sources": [{"book_type": "scd", "file": "SCD Am nhac 10.pdf", "pdf_page": 49, "printed_page": 48}, {"book_type": "scd", "file": "SCD Am nhac 10.pdf", "pdf_page": 51, "printed_page": 50}], "notes": null},
     {"id": "am-nhac-10-chon-tiet-dieu-dem-nhip-6-8", "term": "Chọn tiết điệu đệm cho ca khúc nhịp 6/8", "aliases": [], "type": "quy_tac", "definition": "Những ca khúc, bản nhạc nhịp $\\frac{6}{8}$ có nhịp độ chậm và vừa phải với tiết tấu uyển chuyển, dàn trải, giai điệu mềm mại trữ tình thường được đệm với tiết điệu Slow Rock. Những ca khúc, bản nhạc nhịp $\\frac{6}{8}$ có tiết tấu và nhịp độ nhanh, tươi vui, sinh động thường được đệm với tiết điệu Waltz.", "notation": null, "chapter": "Chuyên đề 3. Phương pháp xác định tiết điệu đệm", "lesson": "Bài 5. Xác định tiết điệu đệm cho ca khúc, bản nhạc nhịp 6/8", "level": "chuyen_de", "related_terms": ["am-nhac-10-tiet-dieu-slow-rock", "am-nhac-10-tiet-dieu-waltz"], "sources": [{"book_type": "scd", "file": "SCD Am nhac 10.pdf", "pdf_page": 54, "printed_page": 53}], "notes": null},
     {"id": "am-nhac-10-tiet-dieu-waltz-dieu-nhay", "term": "Waltz (điệu nhảy) và tiết tấu của tiết điệu Waltz", "aliases": ["Waltz"], "type": "tinh_chat", "definition": "Waltz là một điệu nhảy nhịp ba ($\\frac{3}{4}$ hoặc $\\frac{3}{8}$) phổ biến ở nhiều nước trên thế giới. Tiết tấu của tiết điệu Waltz uyển chuyển, nhịp nhàng, duyên dáng với tốc độ hơi nhanh.", "notation": null, "chapter": "Chuyên đề 3. Phương pháp xác định tiết điệu đệm", "lesson": "Bài 1. Tiết điệu đệm và những tiết điệu phổ biến", "level": "chuyen_de", "related_terms": ["am-nhac-10-tiet-dieu-waltz", "am-nhac-10-tiet-dieu-boston"], "sources": [{"book_type": "scd", "file": "SCD Am nhac 10.pdf", "pdf_page": 39, "printed_page": 38}], "notes": null}
-  ]
+  ],
+  "lessons": []
 }

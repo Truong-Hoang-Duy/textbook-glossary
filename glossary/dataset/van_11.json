@@ -5,7 +5,8 @@
     "subject_name": "Ngữ văn",
     "grade": 11,
     "last_updated": "2026-10-19",
-    "term_count": 104
+    "term_count": 104,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "van-11-truyen-ngan-hien-dai", "term": "truyện ngắn hiện đại", "aliases": [], "type": "dinh_nghia", "definition": "Thể loại tự sự cỡ nhỏ, ở đó, sự ngắn gọn được nhìn nhận là một đặc trưng nổi bật, phản ánh nét riêng của tư duy thể loại. Truyện ngắn thường chỉ xoay quanh một, hai tình huống diễn ra trong khoảng thời gian, không gian hạn chế; đòi hỏi sự chắt lọc, dồn nén của các chi tiết và việc vận dụng bút pháp chấm phá trong trần thuật.", "notation": null, "chapter": "Tập một", "lesson": "Bài 1. Câu chuyện và điểm nhìn trong truyện kể", "level": "co_ban", "related_terms": ["van-11-cau-chuyen", "van-11-truyen-ke"], "sources": [{"book_type": "sgk", "file": "SGK NGU VAN 11 TAP 1 - KNTT.pdf", "pdf_page": 10, "printed_page": 9}, {"book_type": "gv", "file": "SGV Ngu van 11 Tap 1 KNTT.pdf", "pdf_page": 17, "printed_page": 16}], "notes": null},
@@ -112,5 +113,6 @@
     {"id": "van-11-tieng-long", "term": "tiếng lóng", "aliases": [], "type": "dinh_nghia", "definition": "Từ ngữ hoặc cách nói riêng được sử dụng trong phạm vi hẹp giữa những người thuộc một nhóm hoặc một tầng lớp xã hội nào đó, cốt chỉ để nội bộ hiểu được nhau.", "notation": null, "chapter": "Chuyên đề 2. Tìm hiểu ngôn ngữ trong đời sống xã hội hiện đại", "lesson": "Phần 2. Sự phát triển của ngôn ngữ trong đời sống xã hội", "level": "chuyen_de", "related_terms": ["van-11-chuan-ngon-ngu", "van-11-tinh-huong-giao-tiep"], "sources": [{"book_type": "scd", "file": "SCD NGU VAN 11 - KNTT.pdf", "pdf_page": 89, "printed_page": 88}], "notes": null},
     {"id": "van-11-tinh-huong-giao-tiep", "term": "tình huống giao tiếp", "aliases": [], "type": "dinh_nghia", "definition": "Tập hợp các yếu tố không thuộc hệ thống ngôn ngữ nhưng có vai trò chi phối việc sử dụng ngôn ngữ, gồm: đề tài, quan hệ giữa những người tham gia giao tiếp và kênh giao tiếp.", "notation": null, "chapter": "Chuyên đề 2. Tìm hiểu ngôn ngữ trong đời sống xã hội hiện đại", "lesson": "Phần 3. Vận dụng các yếu tố mới của ngôn ngữ trong giao tiếp", "level": "chuyen_de", "related_terms": ["van-11-tieng-long"], "sources": [{"book_type": "scd", "file": "SCD NGU VAN 11 - KNTT.pdf", "pdf_page": 89, "printed_page": 88}], "notes": null},
     {"id": "van-11-nien-bieu", "term": "niên biểu", "aliases": ["bảng niên biểu"], "type": "dinh_nghia", "definition": "Bảng ghi các mốc thời gian xảy ra những sự kiện liên quan đến đối tượng nghiên cứu.", "notation": null, "chapter": "Chuyên đề 3. Đọc, viết và giới thiệu về một tác giả văn học", "lesson": "Phần 1. Đọc về một tác giả văn học", "level": "chuyen_de", "related_terms": ["van-11-phong-cach-nghe-thuat"], "sources": [{"book_type": "scd", "file": "SCD NGU VAN 11 - KNTT.pdf", "pdf_page": 88, "printed_page": 87}], "notes": null}
-  ]
+  ],
+  "lessons": []
 }

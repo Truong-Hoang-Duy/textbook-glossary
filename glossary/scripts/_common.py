@@ -197,19 +197,52 @@ def progress_lessons(unit):
     return out
 
 
+def progress_order(unit):
+    """{(chapter, lesson): thứ tự} theo progress.json; (chapter, None) = vị trí đầu chương."""
+    p = progress_path(unit)
+    order = {}
+    if not p.exists():
+        return order
+    for book in load_json(p).get("books", {}).values():
+        for ch, chd in (book.get("chapters") or {}).items():
+            order.setdefault((ch, None), len(order))
+            for le in (chd.get("lessons") or {}):
+                order.setdefault((ch, le), len(order))
+    return order
+
+
+def is_unit_data(data):
+    """Dữ liệu bộ: {meta, terms[, lessons]}."""
+    return isinstance(data, dict) and {"meta", "terms"} <= set(data) <= {"meta", "terms", "lessons"}
+
+
+def lesson_key(entry):
+    """Khoá duy nhất của một mục yêu cầu cần đạt: (level, chapter, lesson)."""
+    return (entry.get("level"), entry.get("chapter"), entry.get("lesson"))
+
+
+def lesson_label(entry):
+    return f"[{entry.get('level')} | {entry.get('chapter')} | {entry.get('lesson') or '(cả chương)'}]"
+
+
 def dumps_unit(data):
-    """File dữ liệu bộ: meta thụt lề, mỗi thuật ngữ đúng một dòng (gọn, diff sạch)."""
+    """File dữ liệu bộ: meta thụt lề, mỗi thuật ngữ / mỗi bài đúng một dòng (gọn, diff sạch)."""
+    def rows(items):
+        body = ",\n".join("    " + json.dumps(x, ensure_ascii=False) for x in items)
+        return f"\n{body}\n  " if body else ""
+
     meta = json.dumps(data["meta"], ensure_ascii=False, indent=2).replace("\n", "\n  ")
-    terms = ",\n".join("    " + json.dumps(t, ensure_ascii=False) for t in data["terms"])
-    body = f"\n{terms}\n  " if terms else ""
-    return f'{{\n  "meta": {meta},\n  "terms": [{body}]\n}}'
+    out = f'{{\n  "meta": {meta},\n  "terms": [{rows(data["terms"])}]'
+    if "lessons" in data:
+        out += f',\n  "lessons": [{rows(data["lessons"])}]'
+    return out + "\n}"
 
 
 def write_json_atomic(path, data, backup=True, sync_dataset=True):
     """Sao lưu .bak -> ghi file tạm cùng thư mục -> os.replace đè file chính.
 
-    Dữ liệu bộ ({meta, terms}) ghi theo dumps_unit; file khác ghi thụt lề 2.
-    Nếu là dữ liệu bộ ({meta, terms}) và sync_dataset=True, tự động đồng bộ sang glossary/dataset/<unit>.json.
+    Dữ liệu bộ ({meta, terms, lessons}) ghi theo dumps_unit; file khác ghi thụt lề 2.
+    Nếu là dữ liệu bộ và sync_dataset=True, tự động đồng bộ sang glossary/dataset/<unit>.json.
     """
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -223,7 +256,7 @@ def write_json_atomic(path, data, backup=True, sync_dataset=True):
     fd, tmp = tempfile.mkstemp(prefix=path.name + ".", suffix=".tmp", dir=path.parent)
     try:
         with os.fdopen(fd, "w", encoding="utf-8", newline="\n") as f:
-            if isinstance(data, dict) and set(data) == {"meta", "terms"}:
+            if is_unit_data(data):
                 f.write(dumps_unit(data))
             else:
                 json.dump(data, f, ensure_ascii=False, indent=2)
@@ -236,7 +269,7 @@ def write_json_atomic(path, data, backup=True, sync_dataset=True):
             os.remove(tmp)
         raise
 
-    if sync_dataset and isinstance(data, dict) and set(data) == {"meta", "terms"}:
+    if sync_dataset and is_unit_data(data):
         unit = data.get("meta", {}).get("unit")
         if unit:
             d_path = dataset_path(unit)
@@ -406,29 +439,68 @@ def term_errors(unit, terms, known_ids, lessons, page_counts):
                 errs.append(f"{lab} chapter không có trong progress.json: {ch!r}")
             elif isinstance(le, str) and le not in lessons[ch]:
                 errs.append(f"{lab} lesson không thuộc chương trong progress.json: {le!r}")
-        for s in t.get("sources") or []:
-            if not isinstance(s, dict) or not isinstance(s.get("file"), str):
-                continue
-            f = s["file"]
-            if f not in page_counts:
-                p = book_dir(unit) / f
-                page_counts[f] = pdf_page_count(p) if p.exists() else -1
-            n = page_counts[f]
-            if n == -1:
-                try:
-                    rel_bdir = book_dir(unit).relative_to(ROOT)
-                except ValueError:
-                    rel_bdir = unit
-                errs.append(f"{lab} sources.file không có trong {rel_bdir}/: {f}")
-            elif n is not None and isinstance(s.get("pdf_page"), int) and s["pdf_page"] > n:
-                errs.append(f"{lab} pdf_page {s['pdf_page']} vượt số trang ({n}) của {f}")
-            cls = classify_book(f)
-            if cls and s.get("book_type") != cls[0]:
-                errs.append(f"{lab} book_type '{s.get('book_type')}' không khớp tên file {f} (phải là '{cls[0]}')")
-        # level theo nguồn định nghĩa (nguồn đầu tiên trong sources).
-        srcs = [s for s in t.get("sources") or [] if isinstance(s, dict) and isinstance(s.get("file"), str)]
-        if srcs:
-            cls = classify_book(srcs[0]["file"])
-            if cls and t.get("level") != cls[1]:
-                errs.append(f"{lab} level '{t.get('level')}' không khớp nguồn đầu {srcs[0]['file']} (phải là '{cls[1]}')")
+        errs += source_errors(unit, lab, t, page_counts)
+    return errs
+
+
+def source_errors(unit, lab, entry, page_counts):
+    """Kiểm tra sources của một thuật ngữ / một bài: file có thật, trang trong phạm vi,
+    book_type khớp tên file, level khớp nguồn đầu tiên."""
+    errs = []
+    for s in entry.get("sources") or []:
+        if not isinstance(s, dict) or not isinstance(s.get("file"), str):
+            continue
+        f = s["file"]
+        if f not in page_counts:
+            p = book_dir(unit) / f
+            page_counts[f] = pdf_page_count(p) if p.exists() else -1
+        n = page_counts[f]
+        if n == -1:
+            try:
+                rel_bdir = book_dir(unit).relative_to(ROOT)
+            except ValueError:
+                rel_bdir = unit
+            errs.append(f"{lab} sources.file không có trong {rel_bdir}/: {f}")
+        elif n is not None and isinstance(s.get("pdf_page"), int) and s["pdf_page"] > n:
+            errs.append(f"{lab} pdf_page {s['pdf_page']} vượt số trang ({n}) của {f}")
+        cls = classify_book(f)
+        if cls and s.get("book_type") != cls[0]:
+            errs.append(f"{lab} book_type '{s.get('book_type')}' không khớp tên file {f} (phải là '{cls[0]}')")
+    # level theo nguồn chính (nguồn đầu tiên trong sources).
+    srcs = [s for s in entry.get("sources") or [] if isinstance(s, dict) and isinstance(s.get("file"), str)]
+    if srcs:
+        cls = classify_book(srcs[0]["file"])
+        if cls and entry.get("level") != cls[1]:
+            errs.append(f"{lab} level '{entry.get('level')}' không khớp nguồn đầu {srcs[0]['file']} (phải là '{cls[1]}')")
+    return errs
+
+
+def lesson_errors(unit, entries, lessons, page_counts):
+    """Kiểm tra ngữ nghĩa (ngoài schema) cho mảng lessons (yêu cầu cần đạt) của một bộ.
+
+    lessons: {chapter: set(lesson)} từ progress.json, hoặc None nếu không có.
+    lesson = null nghĩa là cả chương (vd Unit của Tiếng Anh).
+    """
+    errs = []
+    seen = set()
+    for e in entries:
+        if not isinstance(e, dict):
+            continue
+        lab = lesson_label(e)
+        key = lesson_key(e)
+        if key in seen:
+            errs.append(f"{lab} trùng khoá (level, chapter, lesson)")
+        seen.add(key)
+        ch, le = e.get("chapter"), e.get("lesson")
+        if lessons is not None and isinstance(ch, str):
+            if ch not in lessons:
+                errs.append(f"{lab} chapter không có trong progress.json: {ch!r}")
+            elif isinstance(le, str) and le not in lessons[ch]:
+                errs.append(f"{lab} lesson không thuộc chương trong progress.json: {le!r}")
+        objs = e.get("objectives") or []
+        if any(isinstance(o, str) and not o.strip() for o in objs):
+            errs.append(f"{lab} objectives có mục rỗng")
+        if len({o.strip() for o in objs if isinstance(o, str)}) != len(objs):
+            errs.append(f"{lab} objectives có mục lặp")
+        errs += source_errors(unit, lab, e, page_counts)
     return errs

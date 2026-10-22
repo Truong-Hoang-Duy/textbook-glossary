@@ -5,7 +5,8 @@
     "subject_name": "Hoá học",
     "grade": 11,
     "last_updated": "2026-10-17",
-    "term_count": 153
+    "term_count": 153,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "hoa-11-phan-ung-mot-chieu", "term": "Phản ứng một chiều", "aliases": [], "type": "dinh_nghia", "definition": "Phản ứng một chiều là phản ứng chỉ xảy ra theo chiều từ chất đầu tạo thành sản phẩm mà sản phẩm không thể tác dụng với nhau để tạo thành chất đầu. Trong phương trình hoá học của phản ứng một chiều, người ta dùng một mũi tên chỉ chiều phản ứng ($\\rightarrow$).", "notation": "$\\rightarrow$", "chapter": "Chương 1. Cân bằng hoá học", "lesson": "Bài 1. Khái niệm về cân bằng hoá học", "level": "co_ban", "related_terms": ["hoa-11-phan-ung-thuan-nghich"], "sources": [{"book_type": "sgk", "file": "SGK HOA HOC 11 - KNTT.pdf", "pdf_page": 7, "printed_page": 6}, {"book_type": "gv", "file": "SGV Hoa hoc 11 KNTT.pdf", "pdf_page": 12, "printed_page": 11}], "notes": null},
@@ -161,5 +162,6 @@
     {"id": "hoa-11-chi-so-octane", "term": "Chỉ số octane", "aliases": ["chỉ số octane", "octane"], "type": "dinh_nghia", "definition": "đặc trưng cho khả năng chống kích nổ của nhiên liệu xăng.", "notation": "RON", "chapter": "Chuyên đề 3. Dầu mỏ và chế biến dầu mỏ", "lesson": "Bài 8. Chế biến dầu mỏ", "level": "chuyen_de", "related_terms": ["hoa-11-chi-so-cetane"], "sources": [{"book_type": "scd", "file": "SCD HOA HOC 11 - KNTT.pdf", "pdf_page": 57, "printed_page": 56}], "notes": null},
     {"id": "hoa-11-chi-so-cetane", "term": "Chỉ số cetane", "aliases": ["chỉ số cetane", "cetane"], "type": "dinh_nghia", "definition": "đặc trưng cho khả năng tự bốc cháy của nhiên liệu diesel.", "notation": "CN", "chapter": "Chuyên đề 3. Dầu mỏ và chế biến dầu mỏ", "lesson": "Bài 8. Chế biến dầu mỏ", "level": "chuyen_de", "related_terms": ["hoa-11-chi-so-octane"], "sources": [{"book_type": "scd", "file": "SCD HOA HOC 11 - KNTT.pdf", "pdf_page": 57, "printed_page": 56}], "notes": null},
     {"id": "hoa-11-khi-hoa-than", "term": "Khí hoá than", "aliases": ["khí hoá than"], "type": "dinh_nghia", "definition": "nguồn khí thu được chủ yếu là CO, H2 khi cho than tác dụng với oxygen và hơi nước ở nhiệt độ và áp suất cao.", "notation": null, "chapter": "Chuyên đề 3. Dầu mỏ và chế biến dầu mỏ", "lesson": "Bài 9. Ngành sản xuất dầu mỏ trên thế giới và ở Việt Nam", "level": "chuyen_de", "related_terms": ["hoa-11-phan-loai-dau-mo"], "sources": [{"book_type": "scd", "file": "SCD HOA HOC 11 - KNTT.pdf", "pdf_page": 57, "printed_page": 56}], "notes": null}
-  ]
+  ],
+  "lessons": []
 }

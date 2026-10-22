@@ -5,7 +5,8 @@
     "subject_name": "Sinh học",
     "grade": 11,
     "last_updated": "2026-10-17",
-    "term_count": 191
+    "term_count": 191,
+    "lesson_count": 0
   },
   "terms": [
     {"id": "sinh-11-dong-hoa", "term": "Đồng hoá", "aliases": ["Quá trình đồng hoá"], "type": "dinh_nghia", "definition": "Quá trình đồng hoá tổng hợp chất hữu cơ phức tạp từ các chất đơn giản, kèm theo tích luỹ năng lượng trong các liên kết hoá học.", "notation": null, "chapter": "Chương 1. Trao đổi chất và chuyển hoá năng lượng ở sinh vật", "lesson": "Bài 1. Khái quát về trao đổi chất và chuyển hoá năng lượng", "level": "co_ban", "related_terms": [], "sources": [{"book_type": "sgk", "file": "SGK SINH HOC 11 - KNTT.pdf", "pdf_page": 7, "printed_page": 6}], "notes": null},
@@ -199,5 +200,6 @@
     {"id": "sinh-11-ngo-doc-thuc-pham", "term": "Ngộ độc thực phẩm", "aliases": [], "type": "dinh_nghia", "definition": "Theo Luật An toàn thực phẩm năm 2010, ngộ độc thực phẩm là tình trạng bệnh lí do hấp thụ thực phẩm bị ô nhiễm hoặc có chứa chất độc. Các nguyên nhân gây ngộ độc thực phẩm có thể được phân thành bốn nhóm: ngộ độc thực phẩm do nhiễm các vi sinh vật, ngộ độc thực phẩm do nhiễm các chất hoá học, ngộ độc thực phẩm do chất độc tự nhiên có sẵn trong thực phẩm và ngộ độc thực phẩm do thực phẩm bị hư hỏng, biến chất.", "notation": null, "chapter": "Chuyên đề 3. Vệ sinh an toàn thực phẩm", "lesson": "Bài 10. Ngộ độc thực phẩm", "level": "chuyen_de", "related_terms": ["sinh-11-ve-sinh-an-toan-thuc-pham", "sinh-11-o-nhiem-thuc-pham", "sinh-11-thoi-nhiem"], "sources": [{"book_type": "scd", "file": "SCD SINH HOC 11 - KNTT.pdf", "pdf_page": 46, "printed_page": 45}], "notes": null},
     {"id": "sinh-11-thoi-nhiem", "term": "Thôi nhiễm", "aliases": ["Thôi nhiễm hoá chất vào thực phẩm"], "type": "dinh_nghia", "definition": "Thôi nhiễm (hoá chất vào thực phẩm), sự di chuyển của một số hợp chất hoá học có trọng lượng phân tử thấp từ bao bì, dụng cụ chứa đựng vào thực phẩm.", "notation": null, "chapter": "Chuyên đề 3. Vệ sinh an toàn thực phẩm", "lesson": "Bài 10. Ngộ độc thực phẩm", "level": "chuyen_de", "related_terms": ["sinh-11-ngo-doc-thuc-pham"], "sources": [{"book_type": "scd", "file": "SCD SINH HOC 11 - KNTT.pdf", "pdf_page": 61, "printed_page": 60}, {"book_type": "scd", "file": "SCD SINH HOC 11 - KNTT.pdf", "pdf_page": 50, "printed_page": 49}], "notes": null},
     {"id": "sinh-11-thuc-an-duong-pho", "term": "Thức ăn đường phố", "aliases": [], "type": "dinh_nghia", "definition": "Thức ăn đường phố, thực phẩm ăn, uống ngay, được chế biến và bày bán trên đường phố, nơi công cộng hoặc những nơi tương tự.", "notation": null, "chapter": "Chuyên đề 3. Vệ sinh an toàn thực phẩm", "lesson": "Bài 11. Dự án: Điều tra về hiện trạng mất vệ sinh an toàn thực phẩm tại địa phương", "level": "chuyen_de", "related_terms": ["sinh-11-ve-sinh-an-toan-thuc-pham"], "sources": [{"book_type": "scd", "file": "SCD SINH HOC 11 - KNTT.pdf", "pdf_page": 61, "printed_page": 60}, {"book_type": "scd", "file": "SCD SINH HOC 11 - KNTT.pdf", "pdf_page": 57, "printed_page": 56}], "notes": null}
-  ]
+  ],
+  "lessons": []
 }
