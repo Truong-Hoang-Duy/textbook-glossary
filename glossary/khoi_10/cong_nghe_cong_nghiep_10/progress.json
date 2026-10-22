@@ -565,5 +565,10 @@
       "chapters": {}
     }
   },
-  "last_session_note": "2026-10-17: Hoàn tất trích xuất và đối soát 173 thuật ngữ (135 SGK + 38 Chuyên đề học tập). 100% validate và check_sources đạt chuẩn (173/173 đạt, 0 gắn cờ)."
+  "last_session_note": "2026-10-17: Hoàn tất trích xuất và đối soát 173 thuật ngữ (135 SGK + 38 Chuyên đề học tập). 100% validate và check_sources đạt chuẩn (173/173 đạt, 0 gắn cờ). | 2026-10-22: Trích nguyên văn khung 'Sau khi học xong bài này, em sẽ' từ ảnh trang đầu bài: SGK 22 mục (Bài 1–22), SCD 8 mục (Bài 1–8; bài dự án dùng khung 'Sau khi hoàn thành dự án, em sẽ / các em có thể'). Trang khớp pdf_pages. printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 173/173, YCCĐ 30/30.",
+  "yccd": {
+    "status": "done",
+    "lesson_count": 30,
+    "note": "2026-10-22: Trích nguyên văn khung 'Sau khi học xong bài này, em sẽ' từ ảnh trang đầu bài: SGK 22 mục (Bài 1–22), SCD 8 mục (Bài 1–8; bài dự án dùng khung 'Sau khi hoàn thành dự án, em sẽ / các em có thể'). Trang khớp pdf_pages. printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 173/173, YCCĐ 30/30."
+  }
 }

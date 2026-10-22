@@ -423,5 +423,11 @@
         }
       }
     }
-  }
+  },
+  "yccd": {
+    "status": "done",
+    "lesson_count": 45,
+    "note": "2026-10-22: Trích nguyên văn khung 'YÊU CẦU CẦN ĐẠT' từ ảnh trang đầu bài: SGK 35 mục (Bài 1–35), SCD 10 mục (Bài 1–10). 9 bài có trang đầu thật khác pdf_pages[0] trong progress.json (SGK Bài 6→PDF 34, 9→48, 11→56, 17→90, 22→115, 25→140, 33→177, 35→190; SCD Bài 10→78), đã ghi notes. printed_page đọc từ chân trang: SGK lệch +2; SCD lệch +2 (Bài 1–4), +3 (Bài 5–8), +4 (Bài 9–10). validate 0 lỗi; check_sources thuật ngữ 164/164, YCCĐ 45/45. CẦN XEM: pdf_pages trong progress.json của các bài trên có thể lệch 1–5 trang."
+  },
+  "last_session_note": "2026-10-22: Trích nguyên văn khung 'YÊU CẦU CẦN ĐẠT' từ ảnh trang đầu bài: SGK 35 mục (Bài 1–35), SCD 10 mục (Bài 1–10). 9 bài có trang đầu thật khác pdf_pages[0] trong progress.json (SGK Bài 6→PDF 34, 9→48, 11→56, 17→90, 22→115, 25→140, 33→177, 35→190; SCD Bài 10→78), đã ghi notes. printed_page đọc từ chân trang: SGK lệch +2; SCD lệch +2 (Bài 1–4), +3 (Bài 5–8), +4 (Bài 9–10). validate 0 lỗi; check_sources thuật ngữ 164/164, YCCĐ 45/45. CẦN XEM: pdf_pages trong progress.json của các bài trên có thể lệch 1–5 trang."
 }

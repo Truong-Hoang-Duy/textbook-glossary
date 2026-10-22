@@ -1457,5 +1457,10 @@
       "chapters": {}
     }
   },
-  "last_session_note": "2026-10-15: Hoàn thành trích xuất 8 sách (266 mục: SGK 196, SCD KHMT 41, SCD ICT 24, SBT 5; 27 mục có nguồn gv). validate 0 lỗi, check_sources 266 đạt / 0 gắn cờ. DESCRIPTION mục 4–5 viết từ SGV, SGV CD, Tài liệu bồi dưỡng GV. Kiểm tra mẫu 30 mục (seed 2026): 2 sai (6,7% > 5%) -> DỪNG theo README. Đã sửa: range(100, 1) trong lenh-range; 8 nguồn sbt lệch +1 trang; lenh-if \"thẳng lề trái\". VIỆC TIẾP: kiểm tra mẫu lại ở phiên mới (seed 2026 và một seed khác), đạt thì đổi README sang \"Đã kiểm tra cuối\" và xoá sample_audit.md."
+  "last_session_note": "2026-10-15: Hoàn thành trích xuất 8 sách (266 mục: SGK 196, SCD KHMT 41, SCD ICT 24, SBT 5; 27 mục có nguồn gv). validate 0 lỗi, check_sources 266 đạt / 0 gắn cờ. DESCRIPTION mục 4–5 viết từ SGV, SGV CD, Tài liệu bồi dưỡng GV. Kiểm tra mẫu 30 mục (seed 2026): 2 sai (6,7% > 5%) -> DỪNG theo README. Đã sửa: range(100, 1) trong lenh-range; 8 nguồn sbt lệch +1 trang; lenh-if \"thẳng lề trái\". VIỆC TIẾP: kiểm tra mẫu lại ở phiên mới (seed 2026 và một seed khác), đạt thì đổi README sang \"Đã kiểm tra cuối\" và xoá sample_audit.md. | 2026-10-22: Trích nguyên văn khung YCCĐ từ ảnh trang đầu bài: SGK 34 mục ('Sau bài này em sẽ'), SCD KHMT 14 mục ('Học xong bài này em sẽ'; Bài 5 ghi 'Sau bài học này em sẽ'), SCD ICT 15 mục ('Sau bài học này em sẽ'; mỗi chuyên đề đánh lại Bài 1). Trang khớp pdf_pages (SCD ICT CĐ2 Bài 1 và CĐ3 Bài 1: khung nằm thấp dưới banner chuyên đề, OCR bỏ sót nhưng vẫn ở đúng trang 27, 56). printed_page: SGK và 2 SCD đều lệch +1. validate 0 lỗi; check_sources thuật ngữ 266/266, YCCĐ 63/63.",
+  "yccd": {
+    "status": "done",
+    "lesson_count": 63,
+    "note": "2026-10-22: Trích nguyên văn khung YCCĐ từ ảnh trang đầu bài: SGK 34 mục ('Sau bài này em sẽ'), SCD KHMT 14 mục ('Học xong bài này em sẽ'; Bài 5 ghi 'Sau bài học này em sẽ'), SCD ICT 15 mục ('Sau bài học này em sẽ'; mỗi chuyên đề đánh lại Bài 1). Trang khớp pdf_pages (SCD ICT CĐ2 Bài 1 và CĐ3 Bài 1: khung nằm thấp dưới banner chuyên đề, OCR bỏ sót nhưng vẫn ở đúng trang 27, 56). printed_page: SGK và 2 SCD đều lệch +1. validate 0 lỗi; check_sources thuật ngữ 266/266, YCCĐ 63/63."
+  }
 }

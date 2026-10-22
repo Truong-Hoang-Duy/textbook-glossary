@@ -375,5 +375,10 @@
       }
     }
   },
-  "last_session_note": "2026-10-17: Hoàn thành trích xuất 153 thuật ngữ (SGK 6 chương: 130 thuật ngữ, SCD 3 chuyên đề: 23 thuật ngữ). 100% check_sources đạt."
+  "last_session_note": "2026-10-17: Hoàn thành trích xuất 153 thuật ngữ (SGK 6 chương: 130 thuật ngữ, SCD 3 chuyên đề: 23 thuật ngữ). 100% check_sources đạt. | 2026-10-22: Trích nguyên văn khung 'MỤC TIÊU' từ ảnh trang đầu bài: SGK 19 mục (Bài 1–25 trừ 6 bài Ôn tập chương 3, 9, 14, 18, 22, 25 — không có khung), SCD 9 mục (Bài 1–9). Công thức/ion viết LaTeX. printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 153/153, YCCĐ 28/28.",
+  "yccd": {
+    "status": "done",
+    "lesson_count": 28,
+    "note": "2026-10-22: Trích nguyên văn khung 'MỤC TIÊU' từ ảnh trang đầu bài: SGK 19 mục (Bài 1–25 trừ 6 bài Ôn tập chương 3, 9, 14, 18, 22, 25 — không có khung), SCD 9 mục (Bài 1–9). Công thức/ion viết LaTeX. printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 153/153, YCCĐ 28/28."
+  }
 }

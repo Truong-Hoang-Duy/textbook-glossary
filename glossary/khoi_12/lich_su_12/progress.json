@@ -254,5 +254,10 @@
       }
     }
   },
-  "last_session_note": "Hoàn thành trích xuất toàn bộ 116 thuật ngữ cho 17 bài SGK và 8 mục SCD Lịch sử 12, kiểm tra bigram đạt 100% (116/116)."
+  "last_session_note": "Hoàn thành trích xuất toàn bộ 116 thuật ngữ cho 17 bài SGK và 8 mục SCD Lịch sử 12, kiểm tra bigram đạt 100% (116/116). | 2026-10-22: Trích nguyên văn khung 'Học xong bài này, em sẽ' từ ảnh trang đầu bài: SGK 17 mục (Bài 1–17, trang khớp pdf_pages); SCD 3 mục cấp chuyên đề (lesson = null, khung 'Học xong chuyên đề này, em sẽ' ở PDF 8, 25, 39). printed_page: SGK và SCD lệch +2. validate 0 lỗi; check_sources thuật ngữ 116/116, YCCĐ 20/20.",
+  "yccd": {
+    "status": "done",
+    "lesson_count": 20,
+    "note": "2026-10-22: Trích nguyên văn khung 'Học xong bài này, em sẽ' từ ảnh trang đầu bài: SGK 17 mục (Bài 1–17, trang khớp pdf_pages); SCD 3 mục cấp chuyên đề (lesson = null, khung 'Học xong chuyên đề này, em sẽ' ở PDF 8, 25, 39). printed_page: SGK và SCD lệch +2. validate 0 lỗi; check_sources thuật ngữ 116/116, YCCĐ 20/20."
+  }
 }

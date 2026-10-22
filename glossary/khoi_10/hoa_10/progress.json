@@ -871,5 +871,10 @@
       "chapters": {}
     }
   },
-  "last_session_note": "2026-10-15: Hoàn thành hoa_10 (194 thuật ngữ: SGK 133, SCD 61, SBT 0 — SBT chỉ có bài tập và đáp án). SGV/SGV CD/TLBD: mục tiêu từng bài, giới hạn chương trình (bỏ nhóm O–S, cân bằng hoá học sang lớp 11), 13 điểm dễ nhầm → DESCRIPTION mục 4–5; nguồn gv cho 26 thuật ngữ. Cache OCR bổ sung: SGK PDF 95 (hộp bên lề), SGK PDF 120 và SCD PDF 76 (400 dpi). validate 0 lỗi, check_sources 194/194 (24 cảnh báo tên). Mẫu 30 mục (query.py --audit): 0 sai. Còn việc: người dùng kiểm tra độc lập sample_audit.md rồi xoá file."
+  "last_session_note": "2026-10-15: Hoàn thành hoa_10 (194 thuật ngữ: SGK 133, SCD 61, SBT 0 — SBT chỉ có bài tập và đáp án). SGV/SGV CD/TLBD: mục tiêu từng bài, giới hạn chương trình (bỏ nhóm O–S, cân bằng hoá học sang lớp 11), 13 điểm dễ nhầm → DESCRIPTION mục 4–5; nguồn gv cho 26 thuật ngữ. Cache OCR bổ sung: SGK PDF 95 (hộp bên lề), SGK PDF 120 và SCD PDF 76 (400 dpi). validate 0 lỗi, check_sources 194/194 (24 cảnh báo tên). Mẫu 30 mục (query.py --audit): 0 sai. Còn việc: người dùng kiểm tra độc lập sample_audit.md rồi xoá file. | 2026-10-22: Trích nguyên văn khung 'MỤC TIÊU' từ ảnh trang đầu bài: SGK 17 mục (Mở đầu, Bài 1–3, 5–8, 10–13, 15, 17, 19, 21, 22), SCD 11 mục (Bài 1–11). 7 bài Ôn tập chương (Bài 4, 9, 14, 16, 18, 20, 23) không có khung mục tiêu → không có mục. Kí hiệu (sp², σ, π, Δ_rG°, F⁻…, phương trình Arrhenius) viết LaTeX. printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 194/194, YCCĐ 28/28.",
+  "yccd": {
+    "status": "done",
+    "lesson_count": 28,
+    "note": "2026-10-22: Trích nguyên văn khung 'MỤC TIÊU' từ ảnh trang đầu bài: SGK 17 mục (Mở đầu, Bài 1–3, 5–8, 10–13, 15, 17, 19, 21, 22), SCD 11 mục (Bài 1–11). 7 bài Ôn tập chương (Bài 4, 9, 14, 16, 18, 20, 23) không có khung mục tiêu → không có mục. Kí hiệu (sp², σ, π, Δ_rG°, F⁻…, phương trình Arrhenius) viết LaTeX. printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 194/194, YCCĐ 28/28."
+  }
 }

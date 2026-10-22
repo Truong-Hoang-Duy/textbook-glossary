@@ -322,5 +322,11 @@
         }
       }
     }
-  }
+  },
+  "yccd": {
+    "status": "done",
+    "lesson_count": 17,
+    "note": "2026-10-22: Trích nguyên văn khung YCCĐ từ ảnh trang đầu bài: SGK 11 mục (Bài 1–9, Ôn tập HK I/II); SCD 3 mục cấp chuyên đề (lesson = null) + 3 khung 'Yêu cầu' riêng (CĐ1 Phần 2, CĐ3 Phần 2, Phần 3). CĐ2 Phần 2–3 không có khung. validate 0 lỗi; check_sources thuật ngữ 104/104, YCCĐ 17/17."
+  },
+  "last_session_note": "2026-10-22: Trích nguyên văn khung YCCĐ từ ảnh trang đầu bài: SGK 11 mục (Bài 1–9, Ôn tập HK I/II); SCD 3 mục cấp chuyên đề (lesson = null) + 3 khung 'Yêu cầu' riêng (CĐ1 Phần 2, CĐ3 Phần 2, Phần 3). CĐ2 Phần 2–3 không có khung. validate 0 lỗi; check_sources thuật ngữ 104/104, YCCĐ 17/17."
 }

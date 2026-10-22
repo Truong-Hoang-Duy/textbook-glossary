@@ -818,5 +818,10 @@
       "chapters": {}
     }
   },
-  "last_session_note": "2026-10-14: Hoàn thành sinh_10 (299 thuật ngữ: SGK 245, SCD 50, SBT 4). SGV: mục tiêu từng chương + điểm cần lưu ý → DESCRIPTION mục 4–5; nguồn gv cho 7 thuật ngữ. TLBD: nội dung chương trình, khung kế hoạch 70 tiết. validate 0 lỗi, check_sources 299/299 đạt (10 cảnh báo tên). Mẫu 30 mục (query.py --audit): 1 lỗi nhỏ notation hoa-tong-hop đã sửa. Người dùng đã kiểm tra mẫu độc lập: 0 sai; đã xoá sample_audit.md. Không còn việc dở. OCR cache SCD p0076 được tạo lại bằng --psm 6 (bảng thuật ngữ)."
+  "last_session_note": "2026-10-14: Hoàn thành sinh_10 (299 thuật ngữ: SGK 245, SCD 50, SBT 4). SGV: mục tiêu từng chương + điểm cần lưu ý → DESCRIPTION mục 4–5; nguồn gv cho 7 thuật ngữ. TLBD: nội dung chương trình, khung kế hoạch 70 tiết. validate 0 lỗi, check_sources 299/299 đạt (10 cảnh báo tên). Mẫu 30 mục (query.py --audit): 1 lỗi nhỏ notation hoa-tong-hop đã sửa. Người dùng đã kiểm tra mẫu độc lập: 0 sai; đã xoá sample_audit.md. Không còn việc dở. OCR cache SCD p0076 được tạo lại bằng --psm 6 (bảng thuật ngữ). | 2026-10-22: Trích nguyên văn khung 'YÊU CẦU CẦN ĐẠT' từ ảnh trang đầu bài: SGK 26 mục (Bài 1–26; bài thực hành dùng mục 'I. Yêu cầu cần đạt', giữ câu dẫn 'Sau khi học xong…' làm ý đầu), SCD 12 mục (Bài 1–12). printed_page đọc từ chân trang: SGK và SCD đều lệch +1. 2 mục có notes (gộp gạch con: SGK Bài 12, SCD Bài 11). validate 0 lỗi; check_sources thuật ngữ 299/299, YCCĐ 38/38.",
+  "yccd": {
+    "status": "done",
+    "lesson_count": 38,
+    "note": "2026-10-22: Trích nguyên văn khung 'YÊU CẦU CẦN ĐẠT' từ ảnh trang đầu bài: SGK 26 mục (Bài 1–26; bài thực hành dùng mục 'I. Yêu cầu cần đạt', giữ câu dẫn 'Sau khi học xong…' làm ý đầu), SCD 12 mục (Bài 1–12). printed_page đọc từ chân trang: SGK và SCD đều lệch +1. 2 mục có notes (gộp gạch con: SGK Bài 12, SCD Bài 11). validate 0 lỗi; check_sources thuật ngữ 299/299, YCCĐ 38/38."
+  }
 }

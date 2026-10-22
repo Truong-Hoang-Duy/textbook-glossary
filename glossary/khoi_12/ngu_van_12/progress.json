@@ -123,5 +123,11 @@
         }
       }
     }
-  }
+  },
+  "yccd": {
+    "status": "done",
+    "lesson_count": 11,
+    "note": "2026-10-22: Trích nguyên văn khung YCCĐ từ ảnh trang đầu bài: 11 mục SGK (Bài 1–9, Ôn tập HK I/II). Bài 6 khung ở PDF 6 (trước pdf_pages [8,…]). printed_page đọc từ chân trang: lệch không đều (+2 đến +4), không phải +4 cố định. validate 0 lỗi; check_sources thuật ngữ 60/60, YCCĐ 11/11. Đã sửa printed_page của 51/96 nguồn thuật ngữ theo số in ở chân trang (33 trang nguồn; lệch +2/+3/+4)."
+  },
+  "last_session_note": "2026-10-22: Trích nguyên văn khung YCCĐ từ ảnh trang đầu bài: 11 mục SGK (Bài 1–9, Ôn tập HK I/II). Bài 6 khung ở PDF 6 (trước pdf_pages [8,…]). printed_page đọc từ chân trang: lệch không đều (+2 đến +4), không phải +4 cố định. validate 0 lỗi; check_sources thuật ngữ 60/60, YCCĐ 11/11. Đã sửa printed_page của 51/96 nguồn thuật ngữ theo số in ở chân trang (33 trang nguồn; lệch +2/+3/+4)."
 }

@@ -662,5 +662,10 @@
       }
     }
   },
-  "last_session_note": "Giai đoạn 1: Dựng khung bộ mới sinh_11 (SGK, SCD, SGV)"
+  "last_session_note": "Giai đoạn 1: Dựng khung bộ mới sinh_11 (SGK, SCD, SGV) | 2026-10-22: Trích nguyên văn khung 'YÊU CẦU CẦN ĐẠT' từ ảnh trang đầu bài: SGK 29 mục (Bài 1–29), SCD 11 mục (Bài 1–11). Bài 3 (thực hành) đầu bài thật ở PDF 23, không phải 22 như pdf_pages; Bài 1, Bài 22 khung kéo dài quá nửa trang, đã đọc đủ. printed_page đọc từ chân trang: SGK và SCD đều lệch +1. validate 0 lỗi; check_sources thuật ngữ 191/191, YCCĐ 40/40.",
+  "yccd": {
+    "status": "done",
+    "lesson_count": 40,
+    "note": "2026-10-22: Trích nguyên văn khung 'YÊU CẦU CẦN ĐẠT' từ ảnh trang đầu bài: SGK 29 mục (Bài 1–29), SCD 11 mục (Bài 1–11). Bài 3 (thực hành) đầu bài thật ở PDF 23, không phải 22 như pdf_pages; Bài 1, Bài 22 khung kéo dài quá nửa trang, đã đọc đủ. printed_page đọc từ chân trang: SGK và SCD đều lệch +1. validate 0 lỗi; check_sources thuật ngữ 191/191, YCCĐ 40/40."
+  }
 }

@@ -813,5 +813,10 @@
       "chapters": {}
     }
   },
-  "last_session_note": "2026-10-16: Hoàn tất trích xuất 240 thuật ngữ (185 SGK + 55 Chuyên đề học tập). Toàn bộ 5 sách tài liệu nguồn đã được xử lí, 100% validate và check_sources đạt chuẩn (240/240 đạt, 0 gắn cờ)."
+  "last_session_note": "2026-10-16: Hoàn tất trích xuất 240 thuật ngữ (185 SGK + 55 Chuyên đề học tập). Toàn bộ 5 sách tài liệu nguồn đã được xử lí, 100% validate và check_sources đạt chuẩn (240/240 đạt, 0 gắn cờ). | 2026-10-22: Trích nguyên văn khung 'Sau khi học xong bài này, em sẽ' từ ảnh trang đầu bài: SGK 28 mục (Bài 1–28), SCD 15 mục (Bài 1–15). Trang khớp pdf_pages. Bài 23, 24 giữ câu dẫn '...:' làm ý đầu. printed_page đọc từ chân trang: SGK và SCD đều lệch +1 (README ghi SCD = trang in là chưa đúng với phần lớn trang SCD; thuật ngữ cũ: 54 nguồn SCD lệch +1, 8 nguồn ở PDF 72 ghi lệch 0). validate 0 lỗi; check_sources thuật ngữ 240/240, YCCĐ 43/43.",
+  "yccd": {
+    "status": "done",
+    "lesson_count": 43,
+    "note": "2026-10-22: Trích nguyên văn khung 'Sau khi học xong bài này, em sẽ' từ ảnh trang đầu bài: SGK 28 mục (Bài 1–28), SCD 15 mục (Bài 1–15). Trang khớp pdf_pages. Bài 23, 24 giữ câu dẫn '...:' làm ý đầu. printed_page đọc từ chân trang: SGK và SCD đều lệch +1 (README ghi SCD = trang in là chưa đúng với phần lớn trang SCD; thuật ngữ cũ: 54 nguồn SCD lệch +1, 8 nguồn ở PDF 72 ghi lệch 0). validate 0 lỗi; check_sources thuật ngữ 240/240, YCCĐ 43/43."
+  }
 }

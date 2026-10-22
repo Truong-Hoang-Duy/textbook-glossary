@@ -615,5 +615,10 @@
       "chapters": {}
     }
   },
-  "last_session_note": "2026-10-16: Hoàn tất Giai đoạn 1–5. 261 mục (SGK 183, SCD 77, SBT 1; 18 mục thêm nguồn gv). validate 0 lỗi; check_sources 261/261 đạt. Mẫu 30 mục (--audit --sample 30, seed 2026): 0 sai. sample_audit.md giữ lại chờ kiểm tra độc lập."
+  "last_session_note": "2026-10-16: Hoàn tất Giai đoạn 1–5. 261 mục (SGK 183, SCD 77, SBT 1; 18 mục thêm nguồn gv). validate 0 lỗi; check_sources 261/261 đạt. Mẫu 30 mục (--audit --sample 30, seed 2026): 0 sai. sample_audit.md giữ lại chờ kiểm tra độc lập. | 2026-10-22: Trích nguyên văn khung 'Học xong bài này, em sẽ' từ ảnh trang đầu bài: SGK 14 mục (Bài 1–14). SCD có khung 'Học xong chuyên đề này, em sẽ' ở đầu mỗi chuyên đề → 3 mục lesson = null (các mục I/II/III không có khung riêng). printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 261/261, YCCĐ 17/17.",
+  "yccd": {
+    "status": "done",
+    "lesson_count": 17,
+    "note": "2026-10-22: Trích nguyên văn khung 'Học xong bài này, em sẽ' từ ảnh trang đầu bài: SGK 14 mục (Bài 1–14). SCD có khung 'Học xong chuyên đề này, em sẽ' ở đầu mỗi chuyên đề → 3 mục lesson = null (các mục I/II/III không có khung riêng). printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 261/261, YCCĐ 17/17."
+  }
 }
