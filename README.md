@@ -22,7 +22,7 @@ book/                         # GỐC
 └── glossary/                 # KẾT QUẢ
     ├── schema.json           # nguồn duy nhất về định dạng
     ├── tessdata/             # dữ liệu OCR tiếng Việt cho tesseract
-    ├── scripts/              # add_terms.py, add_lessons.py, query.py, validate.py, check_sources.py, _common.py
+    ├── scripts/              # add_terms.py, add_lessons.py, query.py, dict_md.py, serve.py, validate.py, check_sources.py, _common.py
     ├── dataset/              # TẬP TRUNG: chứa tất cả file JSON dữ liệu (<unit>.json)
     ├── khoi_10/              # Khối 10: toan_10/, hoa_10/, lich_su_10/, sinh_10/, ...
     │   └── toan_10/
@@ -52,6 +52,8 @@ python glossary/scripts/add_terms.py <unit> <lo.json> [--update]
 python glossary/scripts/add_lessons.py <unit> <lo_yccd.json> [--update]   # yêu cầu cần đạt theo bài (mục 4b)
 python glossary/scripts/query.py <unit|mon> --lessons [--chapter T] [--lesson T] [--level L] [--q T] [--format json|text|md]
 python glossary/scripts/query.py <unit|mon> [--lesson T] [--chapter T] [--type T] [--level L] [--q T] [--id ...] [--has-notes] [--fields a,b|all] [--sample N --seed S] [--count] [--format json|text|md] [--out FILE]
+python glossary/scripts/query.py <unit> --format dict [--chapter T] [--lesson T] [--level L] --out FILE.md   # từ điển dạng bảng để kiểm tra (yêu cầu cần đạt + bảng thuật ngữ + ghi chú)
+python glossary/scripts/serve.py [--port 8765]   # trang web cục bộ 127.0.0.1: nút Xem / Tải .md từng bộ (lọc chương, cấp độ) và Tải tất cả (.zip)
 python glossary/scripts/query.py <unit> --audit [--seed S]   # xuất mẫu kiểm tra Giai đoạn 4 ra glossary/<unit>/sample_audit.md [--format json|text|md] [--audit] [--out file]
 python glossary/scripts/validate.py [<unit>|<mon>]
 python glossary/scripts/check_sources.py <unit> [--threshold 0.65] [--lesson T] [--id ...] [--no-accent] [--verbose]

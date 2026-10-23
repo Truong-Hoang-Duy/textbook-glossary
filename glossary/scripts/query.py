@@ -11,6 +11,11 @@ Mặc định in các trường: id, term, definition, notation, sources.
 
 --lessons: in "Yêu cầu cần đạt" (mảng lessons) thay cho thuật ngữ; dùng được kèm --chapter, --lesson,
 --level, --q (tìm trong objectives, key_terms), --has-notes, --count, --format, --out.
+
+--format dict: xuất từ điển thuật ngữ dạng bảng Markdown để kiểm tra (chỉ một bộ): frontmatter, quy ước
+(viết tắt suy từ aliases), mỗi bài gồm yêu cầu cần đạt + bảng Thuật ngữ | Tên khác / Tiếng Anh |
+Giải nghĩa | Bối cảnh sử dụng, cuối file là các mục có notes. Bộ lọc --chapter/--lesson/--level áp dụng
+cho cả thuật ngữ và yêu cầu cần đạt.
 """
 import argparse
 import json
@@ -19,7 +24,8 @@ import sys
 import unicodedata
 from pathlib import Path
 
-from _common import load_unit, resolve_target, setup_stdout, unit_dir
+import dict_md
+from _common import load_unit, progress_order, resolve_target, setup_stdout, unit_dir, units_of_subject
 
 DEFAULT_FIELDS = ["id", "term", "definition", "notation", "sources"]
 
@@ -47,7 +53,7 @@ def main():
     ap.add_argument("--sample", type=int, help="chọn ngẫu nhiên N mục từ kết quả")
     ap.add_argument("--seed", type=int)
     ap.add_argument("--count", action="store_true", help="chỉ in số mục khớp")
-    ap.add_argument("--format", choices=["json", "text", "md"], default="json", help="định dạng xuất: json (mặc định), text (dễ đọc) hoặc md (markdown)")
+    ap.add_argument("--format", choices=["json", "text", "md", "dict"], default="json", help="định dạng xuất: json (mặc định), text (dễ đọc), md (markdown) hoặc dict (từ điển dạng bảng để kiểm tra)")
     ap.add_argument("--audit", action="store_true", help="chế độ kiểm tra mẫu Giai đoạn 4: lấy 30 mục chuẩn (20 ngẫu nhiên + 10 công thức) xuất ra sample_audit.md")
     ap.add_argument("--out", help="đường dẫn file xuất (UTF-8)")
     ap.add_argument("--lessons", action="store_true", help="in yêu cầu cần đạt theo bài thay cho thuật ngữ")
@@ -56,6 +62,9 @@ def main():
     if a.lessons:
         query_lessons(a)
         return
+
+    if a.format == "dict" and len(resolve_target(a.target)) != 1:
+        sys.exit("LỖI: --format dict chỉ áp dụng cho một bộ cụ thể (vd: sinh_12)")
 
     if a.audit:
         units = resolve_target(a.target)
@@ -77,26 +86,7 @@ def main():
         if not a.out:
             a.out = str(unit_dir(unit) / "sample_audit.md")
     else:
-        rows = []
-        for unit in resolve_target(a.target):
-            for t in load_unit(unit)["terms"]:
-                if a.lesson and not contains(t["lesson"], a.lesson):
-                    continue
-                if a.chapter and not contains(t["chapter"], a.chapter):
-                    continue
-                if a.type and norm(t["type"]) != norm(a.type):
-                    continue
-                if a.level and norm(t["level"]) != norm(a.level):
-                    continue
-                if a.id and t["id"] not in a.id:
-                    continue
-                if a.has_notes and not t.get("notes"):
-                    continue
-                if a.q:
-                    hay = " ".join([t["term"], *t["aliases"], t["definition"], t.get("notation") or ""])
-                    if not contains(hay, a.q):
-                        continue
-                rows.append(t)
+        rows = filter_terms(resolve_target(a.target), a)
 
         if a.sample is not None and a.sample < len(rows):
             rows = random.Random(a.seed).sample(rows, a.sample)
@@ -124,6 +114,9 @@ def main():
                 lines.append(f"    • Ghi chú:    {t['notes']}")
             lines.append("-" * 70)
         output_content = "\n".join(lines) + "\n"
+
+    elif a.format == "dict":
+        output_content = render_dict(resolve_target(a.target)[0], rows, a)
 
     elif a.format == "md":
         lines = []
@@ -162,10 +155,54 @@ def main():
         out_file.parent.mkdir(parents=True, exist_ok=True)
         out_file.write_text(output_content, encoding="utf-8")
         print(f"Đã xuất {len(rows)} mục vào: {out_file}")
-        if a.format == "md":
+        if a.format in ("md", "dict"):
             print("Mở file và nhấn Ctrl + Shift + V trong VS Code để xem trực quan.")
     else:
         print(output_content, end="")
+
+
+def filter_terms(units, a):
+    rows = []
+    for unit in units:
+        for t in load_unit(unit)["terms"]:
+            if a.lesson and not contains(t["lesson"], a.lesson):
+                continue
+            if a.chapter and not contains(t["chapter"], a.chapter):
+                continue
+            if a.type and norm(t["type"]) != norm(a.type):
+                continue
+            if a.level and norm(t["level"]) != norm(a.level):
+                continue
+            if a.id and t["id"] not in a.id:
+                continue
+            if a.has_notes and not t.get("notes"):
+                continue
+            if a.q:
+                hay = " ".join([t["term"], *t["aliases"], t["definition"], t.get("notation") or ""])
+                if not contains(hay, a.q):
+                    continue
+            rows.append(t)
+    return rows
+
+
+def render_dict(unit, rows, a):
+    data = load_unit(unit)
+    lessons = []
+    for e in data.get("lessons") or []:
+        if a.chapter and not contains(e["chapter"], a.chapter):
+            continue
+        if a.lesson and not contains(e["lesson"] or e["chapter"], a.lesson):
+            continue
+        if a.level and norm(e["level"]) != norm(a.level):
+            continue
+        lessons.append(e)
+    order = progress_order(unit)
+    names = {}
+    for u in units_of_subject(data["meta"]["subject"]):
+        names.update({t["id"]: t["term"] for t in load_unit(u)["terms"]})
+    scope = ", ".join(f"--{k} \"{v}\"" for k, v in (("chapter", a.chapter), ("lesson", a.lesson), ("level", a.level),
+                                                    ("type", a.type), ("q", a.q)) if v)
+    return dict_md.render(unit, data["meta"], rows, lessons, sorted(order, key=order.get), names, scope)
 
 
 def query_lessons(a):
