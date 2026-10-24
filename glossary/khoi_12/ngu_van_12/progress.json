@@ -82,7 +82,7 @@
             "Bài 6. Hồ Chí Minh - \"Văn hoá phải soi đường cho quốc dân đi\"": {
               "status": "done",
               "pdf_pages": [
-                8,
+                6,
                 39
               ],
               "terms_added": 5
@@ -122,12 +122,224 @@
           }
         }
       }
+    },
+    "SCD van 12.pdf": {
+      "status": "done",
+      "glossary_pdf_pages": [
+        86,
+        87
+      ],
+      "term_index_pdf_pages": [
+        85,
+        85
+      ],
+      "note": "3 chuyên đề; trang PDF = trang in + 2 (đọc chân trang); bổ sung 2026-10-24",
+      "chapters": {
+        "Chuyên đề 1. Tập nghiên cứu và viết báo cáo về một vấn đề văn học hiện đại": {
+          "lessons": {
+            "Phần 1. Tìm hiểu một số hướng nghiên cứu văn học hiện đại": {
+              "status": "done",
+              "pdf_pages": [
+                6,
+                28
+              ],
+              "terms_added": 11
+            },
+            "Phần 2. Viết báo cáo nghiên cứu về một vấn đề văn học hiện đại": {
+              "status": "done",
+              "pdf_pages": [
+                29,
+                32
+              ],
+              "terms_added": 0
+            },
+            "Phần 3. Thuyết trình về kết quả của báo cáo nghiên cứu": {
+              "status": "done",
+              "pdf_pages": [
+                33,
+                35
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chuyên đề 2. Tìm hiểu về một tác phẩm nghệ thuật chuyển thể từ văn học": {
+          "lessons": {
+            "Phần 1. Thưởng thức một tác phẩm nghệ thuật được chuyển thể từ văn học": {
+              "status": "done",
+              "pdf_pages": [
+                36,
+                46
+              ],
+              "terms_added": 1
+            },
+            "Phần 2. Viết bài phân tích, giới thiệu và thuyết trình về một tác phẩm nghệ thuật được chuyển thể từ văn học": {
+              "status": "done",
+              "pdf_pages": [
+                47,
+                53
+              ],
+              "terms_added": 0
+            },
+            "Phần 3. Thực hành chuyển thể tác phẩm văn học": {
+              "status": "done",
+              "pdf_pages": [
+                54,
+                57
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chuyên đề 3. Tìm hiểu phong cách sáng tác của một trường phái văn học: cổ điển, hiện thực hoặc lãng mạn": {
+          "lessons": {
+            "Phần 1. Tìm hiểu cách nghiên cứu phong cách sáng tác của một trường phái văn học": {
+              "status": "done",
+              "pdf_pages": [
+                58,
+                71
+              ],
+              "terms_added": 3
+            },
+            "Phần 2. Viết bài giới thiệu về phong cách sáng tác của một trường phái văn học được thể hiện qua những tác phẩm cụ thể": {
+              "status": "done",
+              "pdf_pages": [
+                72,
+                80
+              ],
+              "terms_added": 0
+            },
+            "Phần 3. Thuyết trình về phong cách sáng tác của một trường phái văn học": {
+              "status": "done",
+              "pdf_pages": [
+                81,
+                84
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    },
+    "SGV Ngữ văn 12 - Tập 1.pdf": {
+      "status": "done",
+      "book_type": "gv",
+      "level": "co_ban",
+      "page_offset": "pdf = in + 1",
+      "chapters": {
+        "Tập một": {
+          "lessons": {
+            "Bài 1. Khả năng lớn lao của tiểu thuyết": {
+              "status": "done",
+              "pdf_pages": [
+                17,
+                41
+              ],
+              "terms_added": 0
+            },
+            "Bài 2. Những thế giới thơ": {
+              "status": "done",
+              "pdf_pages": [
+                42,
+                66
+              ],
+              "terms_added": 0
+            },
+            "Bài 3. Lập luận trong văn bản nghị luận": {
+              "status": "done",
+              "pdf_pages": [
+                67,
+                91
+              ],
+              "terms_added": 0
+            },
+            "Bài 4. Yếu tố kì ảo trong truyện kể": {
+              "status": "done",
+              "pdf_pages": [
+                92,
+                112
+              ],
+              "terms_added": 0
+            },
+            "Bài 5. Tiếng cười của hài kịch": {
+              "status": "done",
+              "pdf_pages": [
+                113,
+                136
+              ],
+              "terms_added": 0
+            },
+            "Ôn tập học kì I": {
+              "status": "done",
+              "pdf_pages": [
+                137,
+                146
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      },
+      "note": "Mục lục theo bài; khung 'I. Yêu cầu cần đạt' và 'III. Tổ chức hoạt động dạy học' từng bài (chưa trích sang DESCRIPTION)"
+    },
+    "SGV Ngữ văn 12 - Tập 2.pdf": {
+      "status": "done",
+      "book_type": "gv",
+      "level": "co_ban",
+      "page_offset": "pdf = in + 1",
+      "chapters": {
+        "Tập hai": {
+          "lessons": {
+            "Bài 6. Hồ Chí Minh - \"Văn hoá phải soi đường cho quốc dân đi\"": {
+              "status": "done",
+              "pdf_pages": [
+                6,
+                38
+              ],
+              "terms_added": 0
+            },
+            "Bài 7. Sự thật trong tác phẩm kí": {
+              "status": "done",
+              "pdf_pages": [
+                39,
+                56
+              ],
+              "terms_added": 0
+            },
+            "Bài 8. Dữ liệu trong văn bản thông tin": {
+              "status": "done",
+              "pdf_pages": [
+                57,
+                81
+              ],
+              "terms_added": 0
+            },
+            "Bài 9. Văn học và cuộc đời": {
+              "status": "done",
+              "pdf_pages": [
+                82,
+                105
+              ],
+              "terms_added": 0
+            },
+            "Ôn tập học kì II": {
+              "status": "done",
+              "pdf_pages": [
+                106,
+                114
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      },
+      "note": "Mục lục theo bài; khung 'I. Yêu cầu cần đạt' và 'III. Tổ chức hoạt động dạy học' từng bài (chưa trích sang DESCRIPTION)"
     }
   },
   "yccd": {
     "status": "done",
-    "lesson_count": 11,
-    "note": "2026-10-22: Trích nguyên văn khung YCCĐ từ ảnh trang đầu bài: 11 mục SGK (Bài 1–9, Ôn tập HK I/II). Bài 6 khung ở PDF 6 (trước pdf_pages [8,…]). printed_page đọc từ chân trang: lệch không đều (+2 đến +4), không phải +4 cố định. validate 0 lỗi; check_sources thuật ngữ 60/60, YCCĐ 11/11. Đã sửa printed_page của 51/96 nguồn thuật ngữ theo số in ở chân trang (33 trang nguồn; lệch +2/+3/+4)."
+    "lesson_count": 23,
+    "note": "YCCĐ (cập nhật 2026-10-24): thêm 12 mục lessons chuyen_de từ SCD van 12.pdf (3 chuyên đề lesson null + 9 Phần; label 'Yêu cầu cần đạt' / 'Yêu cầu'). Tổng 23 = 11 SGK + 12 SCD. SGV Ngữ văn 12 Tập 1, Tập 2 mới đăng kí vào books, chưa trích mục 4–5 của DESCRIPTION."
   },
-  "last_session_note": "2026-10-22: Trích nguyên văn khung YCCĐ từ ảnh trang đầu bài: 11 mục SGK (Bài 1–9, Ôn tập HK I/II). Bài 6 khung ở PDF 6 (trước pdf_pages [8,…]). printed_page đọc từ chân trang: lệch không đều (+2 đến +4), không phải +4 cố định. validate 0 lỗi; check_sources thuật ngữ 60/60, YCCĐ 11/11. Đã sửa printed_page của 51/96 nguồn thuật ngữ theo số in ở chân trang (33 trang nguồn; lệch +2/+3/+4)."
+  "last_session_note": "2026-10-22: Trích nguyên văn khung YCCĐ từ ảnh trang đầu bài: 11 mục SGK (Bài 1–9, Ôn tập HK I/II). Bài 6 khung ở PDF 6 (trước pdf_pages [8,…]). printed_page đọc từ chân trang: lệch không đều (+2 đến +4), không phải +4 cố định. validate 0 lỗi; check_sources thuật ngữ 60/60, YCCĐ 11/11. Đã sửa printed_page của 51/96 nguồn thuật ngữ theo số in ở chân trang (33 trang nguồn; lệch +2/+3/+4). | 2026-10-24: sửa pdf_pages Bài 6 từ [8, 39] thành [6, 39] (khung mục tiêu ở PDF 6). | 2026-10-24: người dùng bổ sung SCD van 12.pdf (95 trang, ảnh; trang PDF = trang in + 2), SGV Ngữ văn 12 Tập 1 và Tập 2; thêm 15 thuật ngữ chuyên đề (Bảng giải thích thuật ngữ PDF 86–87), 12 mục lessons chuyen_de (3 chuyên đề lesson null + 9 Phần), đăng kí SGV vào books. | YCCĐ (cập nhật 2026-10-24): thêm 12 mục lessons chuyen_de từ SCD van 12.pdf (3 chuyên đề lesson null + 9 Phần; label 'Yêu cầu cần đạt' / 'Yêu cầu'). Tổng 23 = 11 SGK + 12 SCD. SGV Ngữ văn 12 Tập 1, Tập 2 mới đăng kí vào books, chưa trích mục 4–5 của DESCRIPTION."
 }
