@@ -13,6 +13,7 @@ Nguồn: thư mục `sgk/khoi_11/vat_ly_11/`, bộ sách Kết nối tri thức 
 | `SGK VAT LI 11 - KNTT.pdf` | `sgk` | 119 | Nguồn chính, Chương I–IV (26 bài), `level: co_ban` | Không (ảnh quét, OCR) |
 | `SCD VAT LI 11 - KNTT.pdf` | `scd` | 62 | Chuyên đề I–III (9 bài), `level: chuyen_de` | Không (ảnh quét, OCR) |
 | `SGV Vat li 11 KNTT.pdf` | `gv` | 114 | Mục tiêu từng bài, yêu cầu cần đạt (mục 4), sai lầm sư phạm (mục 5) | Không (ảnh quét, OCR) |
+| `SGV CD VAT LI 11.pdf` | `gv` | 82 | Mục tiêu từng bài của 3 chuyên đề (9 bài), `level: chuyen_de` (mục 4); trang PDF = trang in + 1; bổ sung 2026-10-24 | Không (ảnh quét, OCR) |
 
 ### Quy tắc số trang (Offset kỹ thuật)
 - **SGK:** **`trang PDF = trang in + 2`**
@@ -102,7 +103,9 @@ Nguồn: thư mục `sgk/khoi_11/vat_ly_11/`, bộ sách Kết nối tri thức 
 
 ## 4. Yêu cầu cần đạt & Trọng tâm kiến thức (SGV Vật lí 11)
 
-Nguồn trích xuất: `SGV Vat li 11 KNTT.pdf`, Phần Một (Hướng dẫn chung) và Phần Hai (Mục tiêu từng chương/bài).
+Nguồn trích xuất: `SGV Vat li 11 KNTT.pdf`, Phần Một (Hướng dẫn chung) và Phần Hai (Mục tiêu từng chương/bài); chuyên đề: `SGV CD VAT LI 11.pdf` (Phần Hai, khung "I. Mục tiêu" đầu mỗi bài).
+
+**Dữ liệu `lessons` (2026-10-24):** 35 mục `lessons`, `book_type: gv`, `label: "Mục tiêu"`: 26 mục `co_ban` (SGV Bài 1–26, 12 bài có trang đầu khác `pdf_pages` cũ nên có `notes`) và 9 mục `chuyen_de` (SGV CD Bài 1–9 của Chuyên đề I–III). Truy vấn: `query.py vat_ly_11 --lessons --level chuyen_de`. Tệp `SGK Chuyên đề học tập Vật lí 11pdf.pdf` (33 trang khổ lớn) chưa được đăng kí, chờ xác nhận.
 
 ### Đặc điểm đổi mới Chương trình GDPT 2018 đối với Vật lí 11:
 1. **Thay đổi cấu trúc lớn so với chương trình 2006:**

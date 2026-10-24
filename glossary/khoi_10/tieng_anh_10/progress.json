@@ -1,6 +1,6 @@
 {
   "unit": "tieng_anh_10",
-  "last_session_note": "2026-10-14: Hoàn thành tieng_anh_10 (261 mục: 217 từ vựng Glossary, 34 ngữ pháp/phát âm từ ô Remember!/Tips, 10 định nghĩa tiếng Anh ở Reading/CLIL). SGV: OBJECTIVES từng unit + lưu ý → DESCRIPTION mục 4–5; nguồn gv cho 9 mục, rhythm lấy định nghĩa theo SGV. SBT chỉ có bài tập (0 mục). Slide tập huấn: phân phối tiết, yêu cầu kiến thức. validate 0 lỗi; check_sources 259/261 (2 cờ do lỗi dấu OCR, đã đối chiếu ảnh). Cache .ocr dựng lại bằng eng+vie + OCR theo nửa trang/cột nghĩa. Mẫu 30 mục: 0 sai. Việc còn lại: người dùng kiểm tra độc lập sample_audit.md rồi xoá file.",
+  "last_session_note": "2026-10-14: Hoàn thành tieng_anh_10 (261 mục: 217 từ vựng Glossary, 34 ngữ pháp/phát âm từ ô Remember!/Tips, 10 định nghĩa tiếng Anh ở Reading/CLIL). SGV: OBJECTIVES từng unit + lưu ý → DESCRIPTION mục 4–5; nguồn gv cho 9 mục, rhythm lấy định nghĩa theo SGV. SBT chỉ có bài tập (0 mục). Slide tập huấn: phân phối tiết, yêu cầu kiến thức. validate 0 lỗi; check_sources 259/261 (2 cờ do lỗi dấu OCR, đã đối chiếu ảnh). Cache .ocr dựng lại bằng eng+vie + OCR theo nửa trang/cột nghĩa. Mẫu 30 mục: 0 sai. Việc còn lại: người dùng kiểm tra độc lập sample_audit.md rồi xoá file. | YCCĐ (2026-10-23): 10 mục lessons co_ban từ SGV TIENG ANH 10 Global Success.pdf (book_type gv, label 'OBJECTIVES' — khung 'By the end of this unit, students will be able to' đầu mỗi Unit, chép nguyên văn tiếng Anh), mỗi Unit 1–10 một mục, lesson null; trang PDF = trang in + 1; trang khung = trang mở Unit trong SGV (PDF 8, 29, 48, 71, 90, 115, 135, 154, 179, 199). 4 Review không có khung mục tiêu trong SGV nên không có mục. Slide tập huấn không dùng cho lessons.",
   "books": {
     "SGK Tieng Anh 10 Global Success.pdf": {
       "book_type": "sgk",
@@ -1833,5 +1833,10 @@
       "note": "Slide tập huấn GV (có text layer): chương trình, cấu trúc sách, phân phối tiết, kiểm tra đánh giá",
       "chapters": {}
     }
+  },
+  "yccd": {
+    "status": "done",
+    "lesson_count": 10,
+    "note": "YCCĐ (2026-10-23): 10 mục lessons co_ban từ SGV TIENG ANH 10 Global Success.pdf (book_type gv, label 'OBJECTIVES' — khung 'By the end of this unit, students will be able to' đầu mỗi Unit, chép nguyên văn tiếng Anh), mỗi Unit 1–10 một mục, lesson null; trang PDF = trang in + 1; trang khung = trang mở Unit trong SGV (PDF 8, 29, 48, 71, 90, 115, 135, 154, 179, 199). 4 Review không có khung mục tiêu trong SGV nên không có mục. Slide tập huấn không dùng cho lessons."
   }
 }

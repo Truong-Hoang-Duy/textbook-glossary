@@ -10,6 +10,8 @@ Nguồn: thư mục `sgk/khoi_12/dia_12/`, bộ sách Kết nối tri thức v�
 |---|---|---|---|---|
 | SGK ĐỊA LÝ 12-KNTT.pdf | sgk | 181 | Nguồn chính, Phần 1 đến Phần 5 (Bài 1–35), `level: co_ban` | Không (ảnh, OCR) |
 | SCD DIA LI 12 - KNTT.pdf | scd | 61 | Chuyên đề 12.1 đến 12.3 (10 mục La Mã), `level: chuyen_de` | Không (ảnh, OCR) |
+| SGV Dia li 12 KNTT.pdf | gv | 198 | Yêu cầu cần đạt từng bài (mục 4); mục lục SGV đánh số khác SGK từ Bài 6 (xem dưới); trang PDF = trang in + 1 | Không (ảnh, OCR) |
+| SGV CD DIA LI 12.pdf | gv | 54 | Yêu cầu cần đạt từng chuyên đề (mục 4); trang PDF = trang in + 1; bổ sung 2026-10-24 | Không (ảnh, OCR) |
 
 - **Quy tắc offset số trang:**
   + **SGK (`SGK ĐỊA LÝ 12-KNTT.pdf`):**
@@ -101,7 +103,9 @@ Nguồn: thư mục `sgk/khoi_12/dia_12/`, bộ sách Kết nối tri thức v�
 
 ## 4. Yêu cầu cần đạt theo chương
 
-Theo Chương trình GDPT 2018 môn Địa lí lớp 12:
+**Dữ liệu `lessons` (2026-10-24):** 33 mục: 30 mục `co_ban` từ `SGV Dia li 12 KNTT.pdf` (khung “1. Yêu cầu cần đạt”; khoá theo tên bài SGK, `notes` ghi bài SGV tương ứng; thiếu 5 bài SGK 25, 26, 27, 28, 32 vì SGV không có bài tương ứng) và 3 mục `chuyen_de` từ `SGV CD DIA LI 12.pdf` (`lesson: null`, theo Chuyên đề 12.1/12.2/12.3, PDF tr.20, 30, 43). Phần liệt kê dưới đây là tóm tắt theo chương, cần đối chiếu với `query.py dia_12 --lessons` khi ra đề.
+
+Tóm tắt theo Phần (chỉ để tham khảo nhanh; **nguồn chuẩn là `lessons`**, trích từ khung "Yêu cầu cần đạt" của SGV Địa lí 12 và SGV CD Địa lí 12 KNTT):
 
 - **Phần 1. Địa lí tự nhiên:**
   + Trình bày được vị trí địa lí, phạm vi lãnh thổ và ý nghĩa đối với tự nhiên, kinh tế - xã hội, an ninh quốc phòng; nắm vững ranh giới và quy chế pháp lí các vùng biển Việt Nam (nội thuỷ, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế, thềm lục địa).
@@ -126,13 +130,21 @@ Theo Chương trình GDPT 2018 môn Địa lí lớp 12:
   + Nắm vững lý luận về quy hoạch vùng, các loại vùng kinh tế và liên kết vùng.
   + Hiểu vai trò, thực trạng, thách thức môi trường và định hướng phát triển bền vững của làng nghề truyền thống và cụm công nghiệp làng nghề.
 
-## 5. Sai lầm thường gặp của học sinh
+## 5. Sai lầm thường gặp của học sinh và lưu ý sư phạm
 
-1. **Nhầm lẫn các vùng biển thuộc chủ quyền và quyền chủ quyền:** Nhầm lãnh hải (12 hải lí, thuộc chủ quyền hoàn toàn và tuyệt đối) với vùng đặc quyền kinh tế (200 hải lí tính từ đường cơ sở, quốc gia có quyền chủ quyền về kinh tế nhưng tàu thuyền nước ngoài được tự do hàng hải).
-2. **Nhầm lẫn cơ chế gió mùa mùa đông và gió mùa mùa hạ:** Nhầm nguồn gốc và tính chất của gió mùa Đông Bắc (áp cao Xibia lạnh khô nửa đầu đông, lạnh ẩm nửa sau đông) với gió mùa Tây Nam (áp cao Bắc Ấn Độ Dương đầu mùa gây mưa Nam Bộ - Tây Nguyên và gây phơn Trung Bộ; dải hội tụ và áp cao cận chí tuyến nam bán cầu giữa và cuối mùa).
-3. **Đồng nhất "Kinh tế số" và "Chuyển đổi số":** Chuyển đổi số là quá trình thay đổi toàn diện phương thức làm việc và sản xuất dựa trên công nghệ số; trong khi kinh tế số là nền kinh tế mà trong đó các hoạt động kinh tế vận hành dựa trên công nghệ số và internet.
-4. **Nhầm lẫn giữa "Cơ cấu dân số vàng" và "Già hóa dân số":** Việt Nam đang đồng thời trải qua giai đoạn cơ cấu dân số vàng (tỉ lệ người trong độ tuổi lao động gấp đôi người phụ thuộc) nhưng cũng đồng thời bước vào quá trình già hoá dân số nhanh.
-5. **Nhầm lẫn khái niệm GRDP và GDP:** GDP là tổng sản phẩm quốc nội tính trên phạm vi toàn quốc; GRDP là tổng sản phẩm trên địa bàn cấp tỉnh hoặc vùng kinh tế.
+Đã đối chiếu (2026-10-24) với `SGV Dia li 12 KNTT.pdf` (OCR toàn bộ 198 trang, đọc lại ảnh trang 35) và `SGK ĐỊA LÝ 12-KNTT.pdf`. **SGV Địa lí 12 không có mục riêng về lỗi sai của học sinh.** Năm mục sai lầm viết trước đây (khi chưa có SGV) không có căn cứ nguyên văn trong SGV như đã nêu, nên được thay bằng các điểm phân biệt và lưu ý dưới đây, mỗi điểm kèm trang nguồn. Trang in SGV = trang PDF − 1; SGK tính theo trang PDF.
+
+| Chủ đề | Điểm cần phân biệt / lưu ý | Nguồn |
+|---|---|---|
+| Vùng biển Việt Nam (Bài 1) | Phân biệt **chủ quyền** với **quyền chủ quyền, quyền tài phán**. Ở lãnh hải, Nhà nước thực hiện chủ quyền đầy đủ và toàn vẹn (kể cả vùng trời, đáy biển); tàu thuyền của tất cả các quốc gia được quyền đi qua không gây hại. Ở vùng đặc quyền kinh tế, Nhà nước có quyền chủ quyền về thăm dò, khai thác, quản lí, bảo tồn tài nguyên và quyền tài phán về đảo nhân tạo, nghiên cứu khoa học biển, bảo vệ môi trường biển, đồng thời tôn trọng quyền tự do hàng hải, hàng không của các quốc gia khác. Chiều rộng: lãnh hải 12 hải lí; vùng đặc quyền kinh tế hợp với lãnh hải thành 200 hải lí tính từ đường cơ sở | SGV tr.30–31 (PDF 31–32, trích Luật Biển Việt Nam); SGK PDF 9 |
+| Gió mùa và tín phong (Bài 2) | Cả tín phong và gió mùa mùa đông đều có hướng đông bắc: tín phong hoạt động quanh năm, tính chất khô; gió mùa mùa đông (tháng 11–4) tác động chủ yếu ở miền Bắc, lạnh khô đầu mùa và lạnh ẩm cuối mùa. Gió mùa mùa hạ (tháng 5–10) hướng tây nam, nguồn gốc khác nhau ở đầu mùa và giữa, cuối mùa; đầu mùa hạ gió Tây Nam gây mưa Nam Bộ, Tây Nguyên và hiệu ứng phơn ở Bắc Trung Bộ. Không đồng nhất hai loại gió hướng đông bắc | SGV tr.34 (PDF 35, sơ đồ khí hậu nhiệt đới ẩm gió mùa); SGK PDF 13–14 |
+| Phân hoá thiên nhiên theo đông – tây (Bài 3) | SGV nhận định nội dung này khó và khô khan, GV cần giải thích những điểm khó hiểu (phân hoá do tác động của gió mùa và hướng núi, giữa Đông Bắc với Tây Bắc, giữa Đông và Tây Trường Sơn). Không nên ra câu hỏi chỉ yêu cầu ghi nhớ | SGV tr.39 (PDF 40) |
+| Cơ cấu dân số vàng và già hoá dân số (Bài 6) | Hai hiện tượng **cùng tồn tại**: Việt Nam đang có cơ cấu dân số vàng (nhóm 15–64 tuổi chiếm 67,6% năm 2021) nhưng đã bước vào thời kì già hoá dân số; không xem là loại trừ nhau | SGK PDF 35, 37; SGV tr.53–54 (PDF 54–55), tr.57 (PDF 58) |
+| GRDP và GDP (Bài 24, 29) | GRDP là tổng sản phẩm trên địa bàn tỉnh hoặc vùng; khi nói về vùng, SGV dùng GRDP của vùng (ví dụ cơ cấu GRDP vùng Đồng bằng sông Hồng, dịch vụ 44,7% năm 2024) và so sánh với GDP cả nước (Đông Nam Bộ chiếm hơn 31,5% GDP cả nước năm 2024) | SGK PDF 112, 179; SGV tr.141 (PDF 142), tr.171 (PDF 172) |
+| Kinh tế số và chuyển đổi số (Bài 19–21) | Hai khái niệm khác nhau theo SGK: kinh tế số là nền kinh tế vận hành chủ yếu dựa trên công nghệ số, đặc biệt là giao dịch điện tử qua internet; chuyển đổi số là quá trình thay đổi tổng thể, toàn diện của cá nhân, tổ chức về cách sống, cách làm việc và phương thức sản xuất dựa trên công nghệ số. SGV chỉ dùng hai thuật ngữ này khi nêu hướng phát triển các ngành dịch vụ, không định nghĩa lại | SGK PDF 84, 179; SGV tr.123, 127, 128 (PDF 124, 128, 129) |
+| Sơ đồ tư duy (Bài 2, 24) | Bài 2: GV lưu ý HS nội dung chính thể hiện ở giữa, các nhánh có độ dày khác nhau, dùng từ khoá và màu sắc để tăng tính trực quan. Bài 24: sơ đồ khối có hai nhánh, một nhánh về tự nhiên và một nhánh về kinh tế - xã hội, mỗi nhánh gồm thuận lợi và khó khăn | SGV tr.33 (PDF 34), tr.143 (PDF 144) |
+
+Chuyên đề (SGV CD Địa lí 12): SGV CD chỉ nêu mục tiêu và gợi ý tổ chức dạy học từng chuyên đề, không có mục riêng về lỗi sai; bộ không bổ sung điểm nào ở đây.
 
 ## 6. Kết quả kiểm định mẫu & Nghiệm thu (Giai đoạn 5 tự động)
 

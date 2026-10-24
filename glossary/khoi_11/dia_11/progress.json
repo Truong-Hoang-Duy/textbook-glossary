@@ -620,8 +620,104 @@
           }
         }
       }
+    },
+    "SGV CD DIA LI 11.pdf": {
+      "status": "pending",
+      "glossary_pdf_pages": [],
+      "chapters": {
+        "Chuyên đề 1. Một số vấn đề về khu vực Đông Nam Á": {
+          "lessons": {
+            "I. Uỷ hội sông Mê Công (MRC)": {
+              "status": "pending",
+              "pdf_pages": [
+                19,
+                30
+              ],
+              "terms_added": 0
+            },
+            "II. Hợp tác hoà bình trong khai thác Biển Đông": {
+              "status": "pending",
+              "pdf_pages": [
+                19,
+                30
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chuyên đề 2. Một số vấn đề về du lịch thế giới": {
+          "lessons": {
+            "I. Tài nguyên du lịch thế giới": {
+              "status": "pending",
+              "pdf_pages": [
+                31,
+                40
+              ],
+              "terms_added": 0
+            },
+            "II. Một số loại hình du lịch phổ biến trên thế giới": {
+              "status": "pending",
+              "pdf_pages": [
+                31,
+                40
+              ],
+              "terms_added": 0
+            },
+            "III. Xu hướng phát triển du lịch trên thế giới và định hướng phát triển du lịch ở Việt Nam": {
+              "status": "pending",
+              "pdf_pages": [
+                31,
+                40
+              ],
+              "terms_added": 0
+            },
+            "IV. Định hướng nghề nghiệp": {
+              "status": "pending",
+              "pdf_pages": [
+                31,
+                40
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chuyên đề 3. Cuộc cách mạng công nghiệp lần thứ tư (4.0)": {
+          "lessons": {
+            "I. Nội dung chủ yếu": {
+              "status": "pending",
+              "pdf_pages": [
+                41,
+                54
+              ],
+              "terms_added": 0
+            },
+            "II. Tác động của cách mạng công nghiệp 4.0 đến phát triển kinh tế - xã hội thế giới": {
+              "status": "pending",
+              "pdf_pages": [
+                41,
+                54
+              ],
+              "terms_added": 0
+            },
+            "III. Một số xu hướng chính của cuộc cách mạng công nghiệp 4.0": {
+              "status": "pending",
+              "pdf_pages": [
+                41,
+                54
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      },
+      "note": "SGV Chuyên đề: trang PDF = trang in + 1; mỗi chuyên đề một khung 'I. Mục tiêu – 1. Yêu cầu cần đạt' (lesson null); đăng kí 2026-10-24"
     }
   },
-  "last_session_note": "Khởi tạo khung dữ liệu Địa lí 11 (dia_11), mục lục chi tiết 31 bài SGK, 9 mục SCD, 31 bài SGV.",
-  "last_updated": "2026-10-19"
+  "last_session_note": "Khởi tạo khung dữ liệu Địa lí 11 (dia_11), mục lục chi tiết 31 bài SGK, 9 mục SCD, 31 bài SGV. | YCCĐ (2026-10-23): 31 mục lessons co_ban từ SGV Dia li 11 KNTT.pdf (book_type gv, Bài 1–31; trang PDF = trang in + 1; trang đầu khớp pdf_pages). label 'Mục tiêu – Yêu cầu cần đạt' (khung '1. Yêu cầu cần đạt', bỏ '2. Năng lực', '3. Phẩm chất'); 5 bài thực hành 8, 14, 17, 22, 28 chỉ có khung 'Mục tiêu' (1–2 câu) nên label 'Mục tiêu'. Bài 14, 22, 28 bắt đầu giữa trang. SCD (Chuyên đề 11.1–11.3) chưa có YCCĐ: thư mục không có SGV CD (chờ người dùng bổ sung). | YCCĐ SCD (2026-10-24): thêm 3 mục lessons chuyen_de (lesson null theo Chuyên đề 1/2/3) từ SGV CD DIA LI 11.pdf (gv, label 'Mục tiêu – Yêu cầu cần đạt' = khung '1. Yêu cầu cần đạt', bỏ Năng lực/Phẩm chất; trang PDF = trang in + 1; PDF 19, 31, 41). Tổng 34 = 31 co_ban + 3 chuyen_de.",
+  "last_updated": "2026-10-19",
+  "yccd": {
+    "status": "done",
+    "lesson_count": 34,
+    "note": "YCCĐ SCD (2026-10-24): thêm 3 mục lessons chuyen_de (lesson null theo Chuyên đề 1/2/3) từ SGV CD DIA LI 11.pdf (gv, label 'Mục tiêu – Yêu cầu cần đạt' = khung '1. Yêu cầu cần đạt', bỏ Năng lực/Phẩm chất; trang PDF = trang in + 1; PDF 19, 31, 41). Tổng 34 = 31 co_ban + 3 chuyen_de."
+  }
 }

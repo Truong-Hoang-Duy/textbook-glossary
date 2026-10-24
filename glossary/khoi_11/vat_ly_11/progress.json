@@ -343,15 +343,15 @@
               "status": "done",
               "pdf_pages": [
                 12,
-                16
+                15
               ],
               "terms_added": 4
             },
             "Bài 2. Mô tả dao động điều hoà": {
               "status": "done",
               "pdf_pages": [
-                17,
-                18
+                16,
+                19
               ],
               "terms_added": 8
             },
@@ -359,7 +359,7 @@
               "status": "done",
               "pdf_pages": [
                 19,
-                21
+                22
               ],
               "terms_added": 2
             },
@@ -375,7 +375,7 @@
               "status": "done",
               "pdf_pages": [
                 25,
-                28
+                29
               ],
               "terms_added": 4
             },
@@ -383,7 +383,7 @@
               "status": "done",
               "pdf_pages": [
                 29,
-                33
+                34
               ],
               "terms_added": 4
             },
@@ -391,7 +391,7 @@
               "status": "done",
               "pdf_pages": [
                 34,
-                36
+                37
               ],
               "terms_added": 0
             }
@@ -403,8 +403,8 @@
             "Bài 8. Mô tả sóng": {
               "status": "done",
               "pdf_pages": [
-                37,
-                41
+                38,
+                42
               ],
               "terms_added": 5
             },
@@ -412,47 +412,47 @@
               "status": "done",
               "pdf_pages": [
                 42,
-                45
+                47
               ],
               "terms_added": 3
             },
             "Bài 10. Thực hành: Đo tần số của sóng âm": {
               "status": "done",
               "pdf_pages": [
-                46,
-                48
+                47,
+                50
               ],
               "terms_added": 2
             },
             "Bài 11. Sóng điện từ": {
               "status": "done",
               "pdf_pages": [
-                49,
-                51
+                50,
+                54
               ],
               "terms_added": 7
             },
             "Bài 12. Giao thoa sóng": {
               "status": "done",
               "pdf_pages": [
-                52,
-                56
+                55,
+                58
               ],
               "terms_added": 6
             },
             "Bài 13. Sóng dừng": {
               "status": "done",
               "pdf_pages": [
-                57,
-                60
+                59,
+                62
               ],
               "terms_added": 4
             },
             "Bài 14. Bài tập về sóng": {
               "status": "done",
               "pdf_pages": [
-                61,
-                63
+                62,
+                64
               ],
               "terms_added": 0
             },
@@ -473,23 +473,23 @@
               "status": "done",
               "pdf_pages": [
                 67,
-                70
+                72
               ],
               "terms_added": 3
             },
             "Bài 17. Khái niệm điện trường": {
               "status": "done",
               "pdf_pages": [
-                71,
-                76
+                72,
+                77
               ],
               "terms_added": 6
             },
             "Bài 18. Điện trường đều": {
               "status": "done",
               "pdf_pages": [
-                77,
-                82
+                78,
+                83
               ],
               "terms_added": 1
             },
@@ -497,14 +497,14 @@
               "status": "done",
               "pdf_pages": [
                 83,
-                85
+                87
               ],
               "terms_added": 2
             },
             "Bài 20. Điện thế": {
               "status": "done",
               "pdf_pages": [
-                86,
+                87,
                 90
               ],
               "terms_added": 3
@@ -513,7 +513,7 @@
               "status": "done",
               "pdf_pages": [
                 91,
-                94
+                95
               ],
               "terms_added": 5
             }
@@ -525,15 +525,15 @@
             "Bài 22. Cường độ dòng điện": {
               "status": "done",
               "pdf_pages": [
-                95,
-                97
+                96,
+                98
               ],
               "terms_added": 3
             },
             "Bài 23. Điện trở. Định luật Ohm": {
               "status": "done",
               "pdf_pages": [
-                98,
+                99,
                 102
               ],
               "terms_added": 6
@@ -566,7 +566,103 @@
           "status": "done"
         }
       }
+    },
+    "SGV CD VAT LI 11.pdf": {
+      "status": "pending",
+      "glossary_pdf_pages": [],
+      "chapters": {
+        "Chuyên đề I. Trường hấp dẫn": {
+          "lessons": {
+            "Bài 1. Trường hấp dẫn": {
+              "status": "pending",
+              "pdf_pages": [
+                12,
+                23
+              ],
+              "terms_added": 0
+            },
+            "Bài 2. Cường độ trường hấp dẫn": {
+              "status": "pending",
+              "pdf_pages": [
+                23,
+                32
+              ],
+              "terms_added": 0
+            },
+            "Bài 3. Thế hấp dẫn và thế năng hấp dẫn": {
+              "status": "pending",
+              "pdf_pages": [
+                32,
+                41
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chuyên đề II. Truyền thông tin bằng sóng vô tuyến": {
+          "lessons": {
+            "Bài 4. Biến điệu": {
+              "status": "pending",
+              "pdf_pages": [
+                41,
+                48
+              ],
+              "terms_added": 0
+            },
+            "Bài 5. Tín hiệu tương tự và tín hiệu số": {
+              "status": "pending",
+              "pdf_pages": [
+                48,
+                53
+              ],
+              "terms_added": 0
+            },
+            "Bài 6. Suy giảm tín hiệu": {
+              "status": "pending",
+              "pdf_pages": [
+                53,
+                57
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Chuyên đề III. Mở đầu điện tử học": {
+          "lessons": {
+            "Bài 7. Cảm biến": {
+              "status": "pending",
+              "pdf_pages": [
+                57,
+                65
+              ],
+              "terms_added": 0
+            },
+            "Bài 8. Bộ khuếch đại thuật toán và thiết bị đầu ra": {
+              "status": "pending",
+              "pdf_pages": [
+                65,
+                74
+              ],
+              "terms_added": 0
+            },
+            "Bài 9. Mạch điện ứng dụng đơn giản có sử dụng thiết bị đầu ra": {
+              "status": "pending",
+              "pdf_pages": [
+                74,
+                82
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      },
+      "note": "SGV Chuyên đề: trang PDF = trang in + 1 (mục lục PDF 5); đăng kí 2026-10-24 để trích YCCĐ SCD"
     }
   },
-  "last_session_note": "Hoàn tất 5 giai đoạn bộ vat_ly_11: 122 thuật ngữ, validate 0 lỗi, check_sources 122/122 đạt 100%, kiểm định mẫu 30 mục đạt 100% (0 lỗi)"
+  "last_session_note": "Hoàn tất 5 giai đoạn bộ vat_ly_11: 122 thuật ngữ, validate 0 lỗi, check_sources 122/122 đạt 100%, kiểm định mẫu 30 mục đạt 100% (0 lỗi) | YCCĐ (2026-10-23): 26 mục lessons co_ban từ SGV Vat li 11 KNTT.pdf (book_type gv, label 'Mục tiêu', Bài 1–26; trang PDF = trang in + 1, đã xác nhận chân trang). 12 bài có trang đầu thật khác pdf_pages trong progress (có notes): Bài 2→PDF 16, 8→38, 10→47, 11→50, 12→55, 13→59, 14→62, 17→72, 18→78, 20→87, 22→96, 23→99. SCD (3 chuyên đề) chưa có YCCĐ: thư mục sgk/khoi_11/vat_ly_11/ không có SGV CD (chờ người dùng bổ sung). | 2026-10-24: sửa pdf_pages SGV 21 bài theo vị trí khung Mục tiêu thật (bài SGV bắt đầu giữa trang thì trang đó thuộc cả bài trước). | YCCĐ SCD (2026-10-24): thêm 9 mục lessons chuyen_de từ SGV CD VAT LI 11.pdf (book_type gv, label 'Mục tiêu', Bài 1–9 của Chuyên đề I–III; trang PDF = trang in + 1; trang đầu mỗi bài khớp pdf_pages vừa đăng kí). Bài 5 khung ở PDF 48 (cuối bài trước). Tổng lessons 35 = 26 co_ban + 9 chuyen_de. Tệp 'SGK Chuyên đề học tập Vật lí 11pdf.pdf' (33 trang khổ lớn) chưa đăng kí vào books, chờ người dùng xác nhận.",
+  "yccd": {
+    "status": "done",
+    "lesson_count": 35,
+    "note": "YCCĐ SCD (2026-10-24): thêm 9 mục lessons chuyen_de từ SGV CD VAT LI 11.pdf (book_type gv, label 'Mục tiêu', Bài 1–9 của Chuyên đề I–III; trang PDF = trang in + 1; trang đầu mỗi bài khớp pdf_pages vừa đăng kí). Bài 5 khung ở PDF 48 (cuối bài trước). Tổng lessons 35 = 26 co_ban + 9 chuyen_de. Tệp 'SGK Chuyên đề học tập Vật lí 11pdf.pdf' (33 trang khổ lớn) chưa đăng kí vào books, chờ người dùng xác nhận."
+  }
 }

@@ -1339,5 +1339,10 @@
       "chapters": {}
     }
   },
-  "last_session_note": "2026-10-16: Hoàn tất Giai đoạn 1–5. 294 mục (SGK 248, SCD 45, SGV 1; 16 mục thêm nguồn gv). validate 0 lỗi; check_sources 294/294 đạt. Rà lệch trang ±1: sửa 10 mục (Bài 37, cây công nghiệp). Mẫu 30 mục (--audit, seed 2026): 1 sai trang (WTO) đã sửa. sample_audit.md giữ lại chờ kiểm tra độc lập."
+  "last_session_note": "2026-10-16: Hoàn tất Giai đoạn 1–5. 294 mục (SGK 248, SCD 45, SGV 1; 16 mục thêm nguồn gv). validate 0 lỗi; check_sources 294/294 đạt. Rà lệch trang ±1: sửa 10 mục (Bài 37, cây công nghiệp). Mẫu 30 mục (--audit, seed 2026): 1 sai trang (WTO) đã sửa. sample_audit.md giữ lại chờ kiểm tra độc lập. | YCCĐ (2026-10-23): 43 mục lessons từ SGV (book_type gv, label 'Mục tiêu – Về kiến thức, kĩ năng'): SGV DIA LI 10 → 40 mục co_ban (Bài 1–40, trang đầu khớp pdf_pages; trang PDF = trang in + 1); SGV CD DIA LI 10 → 3 mục chuyen_de, lesson null theo Chuyên đề 10.1/10.2/10.3 (SGV CD chỉ có khung mục tiêu ở đầu mỗi chuyên đề; 10.2 nối PDF 25→26). Không chép phần 'Về năng lực', 'Về phẩm chất'.",
+  "yccd": {
+    "status": "done",
+    "lesson_count": 43,
+    "note": "YCCĐ (2026-10-23): 43 mục lessons từ SGV (book_type gv, label 'Mục tiêu – Về kiến thức, kĩ năng'): SGV DIA LI 10 → 40 mục co_ban (Bài 1–40, trang đầu khớp pdf_pages; trang PDF = trang in + 1); SGV CD DIA LI 10 → 3 mục chuyen_de, lesson null theo Chuyên đề 10.1/10.2/10.3 (SGV CD chỉ có khung mục tiêu ở đầu mỗi chuyên đề; 10.2 nối PDF 25→26). Không chép phần 'Về năng lực', 'Về phẩm chất'."
+  }
 }

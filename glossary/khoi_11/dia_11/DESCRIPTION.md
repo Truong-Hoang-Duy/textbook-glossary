@@ -11,6 +11,7 @@ Nguồn: thư mục `sgk/khoi_11/dia_11/`, bộ sách Kết nối tri thức v�
 | SGK DIA LI 11 - KNTT.pdf | sgk | 171 | Nguồn chính, Phần một (Bài 1–5) + Phần hai (Bài 6–31), `level: co_ban` | Không (ảnh, OCR) |
 | SCD DIA LI 11 - KNTT.pdf | scd | 65 | Chuyên đề 1–3, chia mục La Mã, `level: chuyen_de` | Không (ảnh, OCR) |
 | SGV Dia li 11 KNTT.pdf | gv | 214 | Mục tiêu từng bài, định hướng sư phạm (mục 4–5) | Không (ảnh, OCR) |
+| SGV CD DIA LI 11.pdf | gv | 54 | Yêu cầu cần đạt từng chuyên đề (mục 4); trang PDF = trang in + 1; bổ sung 2026-10-24 | Không (ảnh, OCR) |
 
 - **Quy tắc offset số trang:**
   + **SGK:** **`trang PDF = trang in + 2`** (Ví dụ: Bài 1 trang in 5 tại PDF 7; Bài 2 trang in 9 tại PDF 11; Bảng tra cứu thuật ngữ trang in 165 tại PDF 167).
@@ -94,7 +95,9 @@ Toàn bộ 31 bài học SGK và 9 mục chuyên đề đều có thuật ngữ 
 
 ## 4. Yêu cầu cần đạt theo chương
 
-Nguồn: `SGV Dia li 11 KNTT.pdf` (phần “I. Mục tiêu và nội dung chương trình Địa lí 11”, PDF tr.7–11 và phần hướng dẫn từng bài):
+Nguồn: `SGV Dia li 11 KNTT.pdf` (phần “I. Mục tiêu và nội dung chương trình Địa lí 11”, PDF tr.7–11 và phần hướng dẫn từng bài) và `SGV CD DIA LI 11.pdf` (khung “I. Mục tiêu – 1. Yêu cầu cần đạt” đầu mỗi chuyên đề, PDF tr.19, 31, 41):
+
+**Dữ liệu `lessons` (2026-10-24):** 34 mục: 31 mục `co_ban` (SGV Bài 1–31, `label` “Mục tiêu – Yêu cầu cần đạt”, 5 bài thực hành chỉ có “Mục tiêu”) và 3 mục `chuyen_de` (`lesson: null`, theo Chuyên đề 1/2/3; SGV CD không chia khung theo mục I–IV). Chỉ chép “1. Yêu cầu cần đạt”, bỏ “Năng lực”, “Phẩm chất”.
 
 - **Phần một. Một số vấn đề về kinh tế - xã hội thế giới** (Bài 1–5):
   + Phân biệt được các nhóm nước phát triển và đang phát triển dựa trên chỉ tiêu GNI/người, cơ cấu kinh tế và chỉ số phát triển con người (HDI).

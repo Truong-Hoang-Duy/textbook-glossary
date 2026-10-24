@@ -831,5 +831,10 @@
       "chapters": {}
     }
   },
-  "last_session_note": "2026-10-16: Hoàn tất nghiệm thu cuối. Đã kiểm tra độc lập qua sample_audit.md (37/37 mục, 0 sai); đã xóa sample_audit.md."
+  "last_session_note": "2026-10-16: Hoàn tất nghiệm thu cuối. Đã kiểm tra độc lập qua sample_audit.md (37/37 mục, 0 sai); đã xóa sample_audit.md. | YCCĐ (2026-10-23): 45 mục lessons từ SGV (book_type gv; trang PDF = trang in + 1): SGV AM NHAC 10 → 32 mục co_ban (4 chủ đề × 5 mạch + A Hát 4 bài + B Nhạc cụ 8 bài), SGV CD AM NHAC 10 → 13 mục chuyen_de (Chuyên đề 1–3). label 'Mục tiêu – Kiến thức, Năng lực': chép '1. Kiến thức' + '2. Năng lực' của khung 'I. Mục tiêu' từng bài, bỏ '3. Phẩm chất'; ý nhịp đệm viết $\\frac{a}{b}$. Một số khung nối sang trang sau (có notes + 2 nguồn). Bài B8: SGV lặp ý 'tiểu phẩm âm nhạc Việt Nam' như Bài B7 (chép nguyên văn, có notes). Tài liệu bồi dưỡng GV không dùng cho lessons.",
+  "yccd": {
+    "status": "done",
+    "lesson_count": 45,
+    "note": "YCCĐ (2026-10-23): 45 mục lessons từ SGV (book_type gv; trang PDF = trang in + 1): SGV AM NHAC 10 → 32 mục co_ban (4 chủ đề × 5 mạch + A Hát 4 bài + B Nhạc cụ 8 bài), SGV CD AM NHAC 10 → 13 mục chuyen_de (Chuyên đề 1–3). label 'Mục tiêu – Kiến thức, Năng lực': chép '1. Kiến thức' + '2. Năng lực' của khung 'I. Mục tiêu' từng bài, bỏ '3. Phẩm chất'; ý nhịp đệm viết $\\frac{a}{b}$. Một số khung nối sang trang sau (có notes + 2 nguồn). Bài B8: SGV lặp ý 'tiểu phẩm âm nhạc Việt Nam' như Bài B7 (chép nguyên văn, có notes). Tài liệu bồi dưỡng GV không dùng cho lessons."
+  }
 }
