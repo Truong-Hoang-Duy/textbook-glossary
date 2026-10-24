@@ -1,0 +1,1635 @@
+{
+  "unit": "tieng_anh_12",
+  "last_session_note": "2026-10-23: Hoàn thành tieng_anh_12 (284 mục: 247 từ vựng Glossary PDF 149–157, 36 ngữ pháp/phát âm từ ô Remember! ở Lesson 2 Language, 1 định nghĩa Culture shock ở Lesson 7). Chỉ có SGK trong sgk/khoi_12/tieng_anh_12/ (thiếu SGV, SBT, Slide tập huấn: chờ người dùng bổ sung). Trang PDF = trang in + 2. Cache .ocr dựng bằng eng+vie (cả trang 220 dpi + OCR nửa trang/dải 300–400 dpi cho Glossary và vài bảng). validate 0 lỗi; check_sources 279/284 (5 cờ do OCR: proportion, facial-recognition, 3 mục diphthongs; đã đối chiếu ảnh). Mẫu 30 mục: 0 sai. YCCĐ (lessons) chưa làm, chờ SGV. | 2026-10-24: người dùng bổ sung SGV TIENG ANH 12 Global Success.pdf (282 trang, ảnh); thêm 10 mục lessons (OBJECTIVES từng Unit). Mục 4–5 DESCRIPTION cập nhật.",
+  "books": {
+    "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf": {
+      "book_type": "sgk",
+      "level": "co_ban",
+      "status": "done",
+      "pages": 160,
+      "page_offset": "pdf = in + 2",
+      "glossary_pdf_pages": [
+        149,
+        157
+      ],
+      "chapters": {
+        "Unit 1. Life stories we admire": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                10,
+                11
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                11,
+                13
+              ],
+              "terms_added": 4
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                13,
+                15
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                15,
+                16
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                16,
+                17
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                17,
+                18
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                18,
+                20
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                20,
+                21
+              ],
+              "terms_added": 0
+            },
+            "Glossary": {
+              "status": "done",
+              "pdf_pages": [
+                149,
+                150
+              ],
+              "terms_added": 33
+            }
+          }
+        },
+        "Unit 2. A multicultural world": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                22,
+                23
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                23,
+                25
+              ],
+              "terms_added": 5
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                25,
+                27
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                27,
+                28
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                28,
+                29
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                29,
+                30
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                30,
+                32
+              ],
+              "terms_added": 1
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                32,
+                33
+              ],
+              "terms_added": 0
+            },
+            "Glossary": {
+              "status": "done",
+              "pdf_pages": [
+                150,
+                150
+              ],
+              "terms_added": 28
+            }
+          }
+        },
+        "Unit 3. Green living": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                34,
+                35
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                35,
+                37
+              ],
+              "terms_added": 4
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                37,
+                39
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                39,
+                40
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                40,
+                41
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                41,
+                42
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                42,
+                44
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                44,
+                45
+              ],
+              "terms_added": 0
+            },
+            "Glossary": {
+              "status": "done",
+              "pdf_pages": [
+                151,
+                151
+              ],
+              "terms_added": 22
+            }
+          }
+        },
+        "Review 1": {
+          "lessons": {
+            "Language": {
+              "status": "done",
+              "pdf_pages": [
+                46,
+                47
+              ],
+              "terms_added": 0
+            },
+            "Skills": {
+              "status": "done",
+              "pdf_pages": [
+                48,
+                49
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Unit 4. Urbanisation": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                50,
+                51
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                51,
+                54
+              ],
+              "terms_added": 5
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                54,
+                56
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                56,
+                56
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                56,
+                57
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                57,
+                59
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                59,
+                60
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                60,
+                61
+              ],
+              "terms_added": 0
+            },
+            "Glossary": {
+              "status": "done",
+              "pdf_pages": [
+                151,
+                152
+              ],
+              "terms_added": 16
+            }
+          }
+        },
+        "Unit 5. The world of work": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                62,
+                64
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                64,
+                66
+              ],
+              "terms_added": 4
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                66,
+                68
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                68,
+                69
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                69,
+                70
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                70,
+                71
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                71,
+                72
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                72,
+                73
+              ],
+              "terms_added": 0
+            },
+            "Glossary": {
+              "status": "done",
+              "pdf_pages": [
+                152,
+                153
+              ],
+              "terms_added": 20
+            }
+          }
+        },
+        "Review 2": {
+          "lessons": {
+            "Language": {
+              "status": "done",
+              "pdf_pages": [
+                74,
+                75
+              ],
+              "terms_added": 0
+            },
+            "Skills": {
+              "status": "done",
+              "pdf_pages": [
+                76,
+                77
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Unit 6. Artificial intelligence": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                78,
+                80
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                80,
+                82
+              ],
+              "terms_added": 3
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                82,
+                84
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                84,
+                84
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                84,
+                85
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                85,
+                86
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                86,
+                88
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                88,
+                89
+              ],
+              "terms_added": 0
+            },
+            "Glossary": {
+              "status": "done",
+              "pdf_pages": [
+                153,
+                153
+              ],
+              "terms_added": 23
+            }
+          }
+        },
+        "Unit 7. The world of mass media": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                90,
+                92
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                92,
+                94
+              ],
+              "terms_added": 4
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                94,
+                96
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                96,
+                97
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                97,
+                97
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                97,
+                99
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                99,
+                100
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                100,
+                101
+              ],
+              "terms_added": 0
+            },
+            "Glossary": {
+              "status": "done",
+              "pdf_pages": [
+                154,
+                155
+              ],
+              "terms_added": 30
+            }
+          }
+        },
+        "Unit 8. Wildlife conservation": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                102,
+                104
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                104,
+                106
+              ],
+              "terms_added": 3
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                106,
+                107
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                107,
+                108
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                108,
+                110
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                110,
+                110
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                110,
+                112
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                112,
+                113
+              ],
+              "terms_added": 0
+            },
+            "Glossary": {
+              "status": "done",
+              "pdf_pages": [
+                155,
+                155
+              ],
+              "terms_added": 28
+            }
+          }
+        },
+        "Review 3": {
+          "lessons": {
+            "Language": {
+              "status": "done",
+              "pdf_pages": [
+                114,
+                115
+              ],
+              "terms_added": 0
+            },
+            "Skills": {
+              "status": "done",
+              "pdf_pages": [
+                116,
+                117
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Unit 9. Career paths": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                118,
+                120
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                120,
+                122
+              ],
+              "terms_added": 2
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                122,
+                123
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                123,
+                124
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                124,
+                125
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                125,
+                126
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                126,
+                128
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                128,
+                129
+              ],
+              "terms_added": 0
+            },
+            "Glossary": {
+              "status": "done",
+              "pdf_pages": [
+                156,
+                156
+              ],
+              "terms_added": 23
+            }
+          }
+        },
+        "Unit 10. Lifelong learning": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                130,
+                132
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                132,
+                134
+              ],
+              "terms_added": 2
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                134,
+                136
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                136,
+                137
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                137,
+                138
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                138,
+                138
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                138,
+                140
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                140,
+                141
+              ],
+              "terms_added": 0
+            },
+            "Glossary": {
+              "status": "done",
+              "pdf_pages": [
+                157,
+                157
+              ],
+              "terms_added": 24
+            }
+          }
+        },
+        "Review 4": {
+          "lessons": {
+            "Language": {
+              "status": "done",
+              "pdf_pages": [
+                142,
+                143
+              ],
+              "terms_added": 0
+            },
+            "Skills": {
+              "status": "done",
+              "pdf_pages": [
+                144,
+                145
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      }
+    },
+    "SGV TIENG ANH 12 Global Success.pdf": {
+      "book_type": "gv",
+      "level": "co_ban",
+      "status": "done",
+      "pages": 282,
+      "page_offset": "pdf = in + 1",
+      "glossary_pdf_pages": [],
+      "chapters": {
+        "Unit 1. Life stories we admire": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                9,
+                28
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                9,
+                28
+              ],
+              "terms_added": 0
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                9,
+                28
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                9,
+                28
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                9,
+                28
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                9,
+                28
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                9,
+                28
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                9,
+                28
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Unit 2. A multicultural world": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                29,
+                50
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                29,
+                50
+              ],
+              "terms_added": 0
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                29,
+                50
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                29,
+                50
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                29,
+                50
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                29,
+                50
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                29,
+                50
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                29,
+                50
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Unit 3. Green living": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                51,
+                70
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                51,
+                70
+              ],
+              "terms_added": 0
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                51,
+                70
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                51,
+                70
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                51,
+                70
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                51,
+                70
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                51,
+                70
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                51,
+                70
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Review 1": {
+          "lessons": {
+            "Language": {
+              "status": "done",
+              "pdf_pages": [
+                71,
+                80
+              ],
+              "terms_added": 0
+            },
+            "Skills": {
+              "status": "done",
+              "pdf_pages": [
+                71,
+                80
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Unit 4. Urbanisation": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                81,
+                102
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                81,
+                102
+              ],
+              "terms_added": 0
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                81,
+                102
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                81,
+                102
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                81,
+                102
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                81,
+                102
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                81,
+                102
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                81,
+                102
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Unit 5. The world of work": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                103,
+                122
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                103,
+                122
+              ],
+              "terms_added": 0
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                103,
+                122
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                103,
+                122
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                103,
+                122
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                103,
+                122
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                103,
+                122
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                103,
+                122
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Review 2": {
+          "lessons": {
+            "Language": {
+              "status": "done",
+              "pdf_pages": [
+                123,
+                131
+              ],
+              "terms_added": 0
+            },
+            "Skills": {
+              "status": "done",
+              "pdf_pages": [
+                123,
+                131
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Unit 6. Artificial intelligence": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                132,
+                151
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                132,
+                151
+              ],
+              "terms_added": 0
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                132,
+                151
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                132,
+                151
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                132,
+                151
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                132,
+                151
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                132,
+                151
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                132,
+                151
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Unit 7. The world of mass media": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                152,
+                173
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                152,
+                173
+              ],
+              "terms_added": 0
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                152,
+                173
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                152,
+                173
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                152,
+                173
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                152,
+                173
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                152,
+                173
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                152,
+                173
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Unit 8. Wildlife conservation": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                174,
+                193
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                174,
+                193
+              ],
+              "terms_added": 0
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                174,
+                193
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                174,
+                193
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                174,
+                193
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                174,
+                193
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                174,
+                193
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                174,
+                193
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Review 3": {
+          "lessons": {
+            "Language": {
+              "status": "done",
+              "pdf_pages": [
+                194,
+                202
+              ],
+              "terms_added": 0
+            },
+            "Skills": {
+              "status": "done",
+              "pdf_pages": [
+                194,
+                202
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Unit 9. Career paths": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                203,
+                222
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                203,
+                222
+              ],
+              "terms_added": 0
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                203,
+                222
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                203,
+                222
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                203,
+                222
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                203,
+                222
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                203,
+                222
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                203,
+                222
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Unit 10. Lifelong learning": {
+          "lessons": {
+            "Lesson 1. Getting started": {
+              "status": "done",
+              "pdf_pages": [
+                223,
+                241
+              ],
+              "terms_added": 0
+            },
+            "Lesson 2. Language": {
+              "status": "done",
+              "pdf_pages": [
+                223,
+                241
+              ],
+              "terms_added": 0
+            },
+            "Lesson 3. Reading": {
+              "status": "done",
+              "pdf_pages": [
+                223,
+                241
+              ],
+              "terms_added": 0
+            },
+            "Lesson 4. Speaking": {
+              "status": "done",
+              "pdf_pages": [
+                223,
+                241
+              ],
+              "terms_added": 0
+            },
+            "Lesson 5. Listening": {
+              "status": "done",
+              "pdf_pages": [
+                223,
+                241
+              ],
+              "terms_added": 0
+            },
+            "Lesson 6. Writing": {
+              "status": "done",
+              "pdf_pages": [
+                223,
+                241
+              ],
+              "terms_added": 0
+            },
+            "Lesson 7. Communication and culture / CLIL": {
+              "status": "done",
+              "pdf_pages": [
+                223,
+                241
+              ],
+              "terms_added": 0
+            },
+            "Lesson 8. Looking back and project": {
+              "status": "done",
+              "pdf_pages": [
+                223,
+                241
+              ],
+              "terms_added": 0
+            }
+          }
+        },
+        "Review 4": {
+          "lessons": {
+            "Language": {
+              "status": "done",
+              "pdf_pages": [
+                242,
+                252
+              ],
+              "terms_added": 0
+            },
+            "Skills": {
+              "status": "done",
+              "pdf_pages": [
+                242,
+                252
+              ],
+              "terms_added": 0
+            }
+          }
+        }
+      },
+      "note": "pdf_pages của từng bài = phạm vi cả Unit/Review (chưa chia theo Lesson); Review 4 kết thúc ước lượng (PDF 252); từ PDF ~253 là đáp án (Keys)"
+    }
+  },
+  "yccd": {
+    "status": "done",
+    "lesson_count": 10,
+    "note": "10 mục OBJECTIVES theo Unit từ SGV TIENG ANH 12 Global Success.pdf (gv, lesson null; trang PDF = trang in + 1); 4 Review không có khung mục tiêu."
+  }
+}
