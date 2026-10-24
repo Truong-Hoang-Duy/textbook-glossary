@@ -291,7 +291,7 @@
             "Bài 1. Đại cương về cơ chế phản ứng": {
               "status": "done",
               "pdf_pages": [
-                9,
+                8,
                 12
               ],
               "terms_added": 6
@@ -378,5 +378,5 @@
     "lesson_count": 31,
     "note": "2026-10-22: Trích nguyên văn khung 'MỤC TIÊU' từ ảnh trang đầu bài: SGK 22 mục (Bài 1–30 trừ 8 bài Ôn tập chương 3, 7, 11, 14, 17, 23, 26, 30 — không có khung), SCD 9 mục (Bài 1–9). SCD Bài 1 trang đầu thật là PDF 8 (progress ghi 9), đã ghi notes. Công thức/ion viết LaTeX. printed_page: SGK và SCD lệch +2. validate 0 lỗi; check_sources thuật ngữ 108/108, YCCĐ 31/31."
   },
-  "last_session_note": "2026-10-22: Trích nguyên văn khung 'MỤC TIÊU' từ ảnh trang đầu bài: SGK 22 mục (Bài 1–30 trừ 8 bài Ôn tập chương 3, 7, 11, 14, 17, 23, 26, 30 — không có khung), SCD 9 mục (Bài 1–9). SCD Bài 1 trang đầu thật là PDF 8 (progress ghi 9), đã ghi notes. Công thức/ion viết LaTeX. printed_page: SGK và SCD lệch +2. validate 0 lỗi; check_sources thuật ngữ 108/108, YCCĐ 31/31."
+  "last_session_note": "2026-10-22: Trích nguyên văn khung 'MỤC TIÊU' từ ảnh trang đầu bài: SGK 22 mục (Bài 1–30 trừ 8 bài Ôn tập chương 3, 7, 11, 14, 17, 23, 26, 30 — không có khung), SCD 9 mục (Bài 1–9). SCD Bài 1 trang đầu thật là PDF 8 (progress ghi 9), đã ghi notes. Công thức/ion viết LaTeX. printed_page: SGK và SCD lệch +2. validate 0 lỗi; check_sources thuật ngữ 108/108, YCCĐ 31/31. | 2026-10-24: sửa pdf_pages 1 bài theo trang đầu bài thật (đối chiếu ảnh trang)."
 }

@@ -448,5 +448,11 @@
         }
       }
     }
-  }
+  },
+  "yccd": {
+    "status": "done",
+    "lesson_count": 46,
+    "note": "2026-10-23: Trích nguyên văn khung 'Sau bài học này em sẽ' từ ảnh trang đầu bài: SGK 31 mục (Bài 1–16 là phần chung, nội dung và trang trùng khớp với tin_cs_11 — đã đối chiếu ảnh; Bài 17–31 riêng ICT), SCD 15 mục (Bài 1–15). Trang khớp pdf_pages. printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 104/104, YCCĐ 46/46."
+  },
+  "last_session_note": "2026-10-23: Trích nguyên văn khung 'Sau bài học này em sẽ' từ ảnh trang đầu bài: SGK 31 mục (Bài 1–16 là phần chung, nội dung và trang trùng khớp với tin_cs_11 — đã đối chiếu ảnh; Bài 17–31 riêng ICT), SCD 15 mục (Bài 1–15). Trang khớp pdf_pages. printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 104/104, YCCĐ 46/46."
 }

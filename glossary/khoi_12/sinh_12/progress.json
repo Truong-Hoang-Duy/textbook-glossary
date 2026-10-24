@@ -46,14 +46,14 @@
               "status": "done",
               "pdf_pages": [
                 29,
-                35
+                33
               ],
               "terms_added": 1
             },
             "Bài 6. Thực hành: Tách chiết DNA": {
               "status": "done",
               "pdf_pages": [
-                36,
+                34,
                 37
               ],
               "terms_added": 0
@@ -74,14 +74,14 @@
               "status": "done",
               "pdf_pages": [
                 42,
-                46
+                47
               ],
               "terms_added": 4
             },
             "Bài 9. Mở rộng học thuyết Mendel": {
               "status": "done",
               "pdf_pages": [
-                47,
+                48,
                 51
               ],
               "terms_added": 4
@@ -90,14 +90,14 @@
               "status": "done",
               "pdf_pages": [
                 52,
-                56
+                55
               ],
               "terms_added": 2
             },
             "Bài 11. Liên kết gene và hoán vị gene": {
               "status": "done",
               "pdf_pages": [
-                57,
+                56,
                 61
               ],
               "terms_added": 3
@@ -142,14 +142,14 @@
               "status": "done",
               "pdf_pages": [
                 85,
-                90
+                89
               ],
               "terms_added": 3
             },
             "Bài 17. Thực hành: Thí nghiệm về thường biến ở cây trồng": {
               "status": "done",
               "pdf_pages": [
-                91,
+                90,
                 92
               ],
               "terms_added": 0
@@ -190,14 +190,14 @@
               "status": "done",
               "pdf_pages": [
                 108,
-                115
+                114
               ],
               "terms_added": 8
             },
             "Bài 22. Tiến hoá lớn và quá trình phát sinh chủng loại": {
               "status": "done",
               "pdf_pages": [
-                116,
+                115,
                 123
               ],
               "terms_added": 3
@@ -218,15 +218,15 @@
               "status": "done",
               "pdf_pages": [
                 130,
-                137
+                139
               ],
               "terms_added": 7
             },
             "Bài 25. Thực hành: Xác định khu vực phân bố, kiểu phân bố cá thể và ước tính kích thước, mật độ của quần thể thực vật hoặc động vật ít di chuyển": {
               "status": "done",
               "pdf_pages": [
-                138,
-                140
+                140,
+                142
               ],
               "terms_added": 0
             }
@@ -286,7 +286,7 @@
               "status": "done",
               "pdf_pages": [
                 174,
-                175
+                176
               ],
               "terms_added": 0
             }
@@ -297,7 +297,7 @@
             "Bài 33. Sinh thái học phục hồi và bảo tồn đa dạng sinh học": {
               "status": "done",
               "pdf_pages": [
-                176,
+                177,
                 181
               ],
               "terms_added": 4
@@ -306,14 +306,14 @@
               "status": "done",
               "pdf_pages": [
                 182,
-                187
+                189
               ],
               "terms_added": 2
             },
             "Bài 35. Dự án: Tìm hiểu thực trạng bảo tồn sinh thái tại địa phương và đề xuất giải pháp bảo tồn": {
               "status": "done",
               "pdf_pages": [
-                188,
+                190,
                 194
               ],
               "terms_added": 0
@@ -407,14 +407,14 @@
               "status": "done",
               "pdf_pages": [
                 66,
-                76
+                77
               ],
               "terms_added": 2
             },
             "Bài 10. Dự án: Điều tra, tìm hiểu về một ứng dụng sinh thái nhân văn tại địa phương": {
               "status": "done",
               "pdf_pages": [
-                77,
+                78,
                 82
               ],
               "terms_added": 0
@@ -429,5 +429,5 @@
     "lesson_count": 45,
     "note": "2026-10-22: Trích nguyên văn khung 'YÊU CẦU CẦN ĐẠT' từ ảnh trang đầu bài: SGK 35 mục (Bài 1–35), SCD 10 mục (Bài 1–10). 9 bài có trang đầu thật khác pdf_pages[0] trong progress.json (SGK Bài 6→PDF 34, 9→48, 11→56, 17→90, 22→115, 25→140, 33→177, 35→190; SCD Bài 10→78), đã ghi notes. printed_page đọc từ chân trang: SGK lệch +2; SCD lệch +2 (Bài 1–4), +3 (Bài 5–8), +4 (Bài 9–10). validate 0 lỗi; check_sources thuật ngữ 164/164, YCCĐ 45/45. CẦN XEM: pdf_pages trong progress.json của các bài trên có thể lệch 1–5 trang."
   },
-  "last_session_note": "2026-10-22: Trích nguyên văn khung 'YÊU CẦU CẦN ĐẠT' từ ảnh trang đầu bài: SGK 35 mục (Bài 1–35), SCD 10 mục (Bài 1–10). 9 bài có trang đầu thật khác pdf_pages[0] trong progress.json (SGK Bài 6→PDF 34, 9→48, 11→56, 17→90, 22→115, 25→140, 33→177, 35→190; SCD Bài 10→78), đã ghi notes. printed_page đọc từ chân trang: SGK lệch +2; SCD lệch +2 (Bài 1–4), +3 (Bài 5–8), +4 (Bài 9–10). validate 0 lỗi; check_sources thuật ngữ 164/164, YCCĐ 45/45. CẦN XEM: pdf_pages trong progress.json của các bài trên có thể lệch 1–5 trang."
+  "last_session_note": "2026-10-22: Trích nguyên văn khung 'YÊU CẦU CẦN ĐẠT' từ ảnh trang đầu bài: SGK 35 mục (Bài 1–35), SCD 10 mục (Bài 1–10). 9 bài có trang đầu thật khác pdf_pages[0] trong progress.json (SGK Bài 6→PDF 34, 9→48, 11→56, 17→90, 22→115, 25→140, 33→177, 35→190; SCD Bài 10→78), đã ghi notes. printed_page đọc từ chân trang: SGK lệch +2; SCD lệch +2 (Bài 1–4), +3 (Bài 5–8), +4 (Bài 9–10). validate 0 lỗi; check_sources thuật ngữ 164/164, YCCĐ 45/45. CẦN XEM: pdf_pages trong progress.json của các bài trên có thể lệch 1–5 trang. | 2026-10-24: sửa pdf_pages 18 bài theo trang đầu bài thật (đối chiếu ảnh trang)."
 }

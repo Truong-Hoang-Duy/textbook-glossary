@@ -43,7 +43,7 @@
               "status": "done",
               "pdf_pages": [
                 23,
-                30
+                29
               ],
               "terms_added": 7
             }
@@ -54,16 +54,16 @@
             "Bài 5. Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á": {
               "status": "done",
               "pdf_pages": [
-                31,
-                38
+                30,
+                37
               ],
               "terms_added": 6
             },
             "Bài 6. Hành trình đi đến độc lập dân tộc ở Đông Nam Á": {
               "status": "done",
               "pdf_pages": [
-                39,
-                44
+                38,
+                43
               ],
               "terms_added": 4
             }
@@ -74,16 +74,16 @@
             "Bài 7. Chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam": {
               "status": "done",
               "pdf_pages": [
-                45,
-                51
+                44,
+                50
               ],
               "terms_added": 5
             },
             "Bài 8. Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III trước Công nguyên đến cuối thế kỉ XIX)": {
               "status": "done",
               "pdf_pages": [
-                52,
-                61
+                51,
+                60
               ],
               "terms_added": 5
             }
@@ -94,24 +94,24 @@
             "Bài 9. Cuộc cải cách của Hồ Quý Ly và triều Hồ": {
               "status": "done",
               "pdf_pages": [
-                62,
-                65
+                61,
+                64
               ],
               "terms_added": 3
             },
             "Bài 10. Cuộc cải cách của Lê Thánh Tông (thế kỉ XV)": {
               "status": "done",
               "pdf_pages": [
-                66,
-                70
+                65,
+                69
               ],
               "terms_added": 4
             },
             "Bài 11. Cuộc cải cách của Minh Mạng (nửa đầu thế kỉ XIX)": {
               "status": "done",
               "pdf_pages": [
-                71,
-                74
+                70,
+                73
               ],
               "terms_added": 3
             }
@@ -122,15 +122,15 @@
             "Bài 12. Vị trí và tầm quan trọng của Biển Đông": {
               "status": "done",
               "pdf_pages": [
-                75,
-                81
+                74,
+                80
               ],
               "terms_added": 4
             },
             "Bài 13. Việt Nam và Biển Đông": {
               "status": "done",
               "pdf_pages": [
-                82,
+                81,
                 91
               ],
               "terms_added": 6
@@ -283,7 +283,7 @@
       }
     }
   },
-  "last_session_note": "Hoàn thành 116 thuật ngữ: 40 thuật ngữ bảng tra cứu SGK & SCD (2 nguồn: bảng + thân bài) và 76 thuật ngữ trọng tâm bao phủ 100% 13 bài SGK và 13 mục SCD. Validate 0 lỗi, check_sources 116/116 Đạt. Kiểm định độc lập sample_audit 30 mục 0 sai (100% chính xác). | 2026-10-22: Trích nguyên văn khung 'Học xong bài này, em sẽ' từ ảnh trang đầu bài: SGK 13 mục (Bài 1–13); SCD 3 mục cấp chuyên đề (lesson = null, khung 'Học xong chuyên đề này, em sẽ' chỉ in ở đầu chuyên đề). 9 bài SGK có trang đầu thật lệch 1 so với pdf_pages trong progress.json (Bài 5–13: progress ghi trang sau trang đầu bài), đã ghi notes. printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 116/116, YCCĐ 16/16.",
+  "last_session_note": "Hoàn thành 116 thuật ngữ: 40 thuật ngữ bảng tra cứu SGK & SCD (2 nguồn: bảng + thân bài) và 76 thuật ngữ trọng tâm bao phủ 100% 13 bài SGK và 13 mục SCD. Validate 0 lỗi, check_sources 116/116 Đạt. Kiểm định độc lập sample_audit 30 mục 0 sai (100% chính xác). | 2026-10-22: Trích nguyên văn khung 'Học xong bài này, em sẽ' từ ảnh trang đầu bài: SGK 13 mục (Bài 1–13); SCD 3 mục cấp chuyên đề (lesson = null, khung 'Học xong chuyên đề này, em sẽ' chỉ in ở đầu chuyên đề). 9 bài SGK có trang đầu thật lệch 1 so với pdf_pages trong progress.json (Bài 5–13: progress ghi trang sau trang đầu bài), đã ghi notes. printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 116/116, YCCĐ 16/16. | 2026-10-24: sửa pdf_pages 10 bài theo trang đầu bài thật (đối chiếu ảnh trang).",
   "yccd": {
     "status": "done",
     "lesson_count": 16,

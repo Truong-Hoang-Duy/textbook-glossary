@@ -28,7 +28,7 @@
               "status": "pending",
               "pdf_pages": [
                 23,
-                32
+                31
               ],
               "terms_added": 7,
               "done": true
@@ -36,7 +36,7 @@
             "Bài 4. Phương trình lượng giác cơ bản": {
               "status": "pending",
               "pdf_pages": [
-                33,
+                32,
                 41
               ],
               "terms_added": 5,
@@ -102,7 +102,7 @@
             "Bài 10. Đường thẳng và mặt phẳng trong không gian": {
               "status": "pending",
               "pdf_pages": [
-                72,
+                71,
                 78
               ],
               "terms_added": 5,
@@ -841,5 +841,10 @@
       }
     }
   },
-  "last_session_note": "Khởi tạo bộ toan_11: mục lục 9 chương SGK (33 bài học), 3 Chuyên đề (12 bài học) và toàn bộ 9 chương SGV."
+  "last_session_note": "Khởi tạo bộ toan_11: mục lục 9 chương SGK (33 bài học), 3 Chuyên đề (12 bài học) và toàn bộ 9 chương SGV. | 2026-10-23: Trích nguyên văn khung 'KIẾN THỨC, KĨ NĂNG' (objectives) + cột 'THUẬT NGỮ' (key_terms) từ ảnh: SGK 33 mục (Bài 1–33), SCD 12 mục (Bài 1–12; Bài 12 không có cột thuật ngữ → key_terms []). 2 bài có trang đầu thật khác pdf_pages[0]: Bài 4 → PDF 32 (progress 33), Bài 10 → PDF 71 (progress 72), đã ghi notes. printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 177/177, YCCĐ 45/45; 6 cảnh báo key_terms do cụm xuống dòng trong cột hẹp — đã đối chiếu ảnh, đúng. | 2026-10-24: sửa pdf_pages 3 bài theo trang đầu bài thật (đối chiếu ảnh trang).",
+  "yccd": {
+    "status": "done",
+    "lesson_count": 45,
+    "note": "2026-10-23: Trích nguyên văn khung 'KIẾN THỨC, KĨ NĂNG' (objectives) + cột 'THUẬT NGỮ' (key_terms) từ ảnh: SGK 33 mục (Bài 1–33), SCD 12 mục (Bài 1–12; Bài 12 không có cột thuật ngữ → key_terms []). 2 bài có trang đầu thật khác pdf_pages[0]: Bài 4 → PDF 32 (progress 33), Bài 10 → PDF 71 (progress 72), đã ghi notes. printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 177/177, YCCĐ 45/45; 6 cảnh báo key_terms do cụm xuống dòng trong cột hẹp — đã đối chiếu ảnh, đúng."
+  }
 }

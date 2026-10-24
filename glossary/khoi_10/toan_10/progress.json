@@ -567,5 +567,10 @@
       }
     }
   },
-  "last_session_note": "Hoàn thành toan_10 (197 thuật ngữ). 2026-10-14: thêm SGV CD TOAN 10.pdf — DESCRIPTION mục 1, 4 (mục tiêu từng bài chuyên đề, giới hạn), 5 (10 sai lầm/điểm dễ nhầm), 6; nguồn gv cho 10 thuật ngữ chuyên đề. validate 0 lỗi, check_sources 197/197. Không còn việc dở. Thiếu SGV phần cơ bản."
+  "last_session_note": "Hoàn thành toan_10 (197 thuật ngữ). 2026-10-14: thêm SGV CD TOAN 10.pdf — DESCRIPTION mục 1, 4 (mục tiêu từng bài chuyên đề, giới hạn), 5 (10 sai lầm/điểm dễ nhầm), 6; nguồn gv cho 10 thuật ngữ chuyên đề. validate 0 lỗi, check_sources 197/197. Không còn việc dở. Thiếu SGV phần cơ bản. | 2026-10-23: Trích nguyên văn khung 'KIẾN THỨC, KĨ NĂNG' (objectives) + cột 'THUẬT NGỮ' (key_terms) từ ảnh trang đầu bài: SGK 27 mục (Bài 1–27), SCD 8 mục (Bài 1–8). Bài mở chương có khung ở nửa dưới trang tên chương (đúng pdf_pages). printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 197/197, YCCĐ 35/35; 7 cảnh báo key_terms do OCR cột hẹp — đã đối chiếu ảnh, đúng.",
+  "yccd": {
+    "status": "done",
+    "lesson_count": 35,
+    "note": "2026-10-23: Trích nguyên văn khung 'KIẾN THỨC, KĨ NĂNG' (objectives) + cột 'THUẬT NGỮ' (key_terms) từ ảnh trang đầu bài: SGK 27 mục (Bài 1–27), SCD 8 mục (Bài 1–8). Bài mở chương có khung ở nửa dưới trang tên chương (đúng pdf_pages). printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 197/197, YCCĐ 35/35; 7 cảnh báo key_terms do OCR cột hẹp — đã đối chiếu ảnh, đúng."
+  }
 }

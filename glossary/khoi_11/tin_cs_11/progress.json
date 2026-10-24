@@ -130,14 +130,14 @@
               "status": "done",
               "pdf_pages": [
                 70,
-                74
+                73
               ],
               "terms_added": 3
             },
             "Bài 15. Bảo mật và an toàn hệ cơ sở dữ liệu": {
               "status": "done",
               "pdf_pages": [
-                75,
+                74,
                 77
               ],
               "terms_added": 2
@@ -162,14 +162,14 @@
               "status": "done",
               "pdf_pages": [
                 82,
-                88
+                86
               ],
               "terms_added": 2
             },
             "Bài 18. Thực hành dữ liệu mảng một chiều và hai chiều": {
               "status": "done",
               "pdf_pages": [
-                89,
+                87,
                 89
               ],
               "terms_added": 0
@@ -258,14 +258,14 @@
               "status": "done",
               "pdf_pages": [
                 133,
-                138
+                137
               ],
               "terms_added": 0
             },
             "Bài 30. Thiết lập thư viện cho chương trình": {
               "status": "done",
               "pdf_pages": [
-                139,
+                138,
                 143
               ],
               "terms_added": 2
@@ -452,5 +452,11 @@
         }
       }
     }
-  }
+  },
+  "yccd": {
+    "status": "done",
+    "lesson_count": 47,
+    "note": "2026-10-23: Trích nguyên văn khung YCCĐ từ ảnh trang đầu bài: SGK 31 mục ('Sau bài học này em sẽ'), SCD 16 mục ('Sau bài này em sẽ'). 3 bài SGK có trang đầu thật khác pdf_pages[0] (Bài 15→PDF 74, Bài 18→87, Bài 30→138), đã ghi notes. printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 101/101, YCCĐ 47/47."
+  },
+  "last_session_note": "2026-10-23: Trích nguyên văn khung YCCĐ từ ảnh trang đầu bài: SGK 31 mục ('Sau bài học này em sẽ'), SCD 16 mục ('Sau bài này em sẽ'). 3 bài SGK có trang đầu thật khác pdf_pages[0] (Bài 15→PDF 74, Bài 18→87, Bài 30→138), đã ghi notes. printed_page: SGK và SCD lệch +1. validate 0 lỗi; check_sources thuật ngữ 101/101, YCCĐ 47/47. | 2026-10-24: sửa pdf_pages 6 bài theo trang đầu bài thật (đối chiếu ảnh trang)."
 }
