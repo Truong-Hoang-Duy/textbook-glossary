@@ -44,6 +44,7 @@ Mỗi bộ có **hai** bản lưu JSON: một bản nằm ở `glossary/khoi_<lo
 4. **Không mở cả file `<unit>.json` để đọc.** Dùng `query.py` để xem dữ liệu (`--lessons` cho yêu cầu cần đạt).
 5. **Không sửa `<unit>.json` bằng tay.** Chỉ dùng `add_terms.py` / `add_lessons.py` (sửa thì thêm `--update`).
 6. Cuối phiên: cập nhật `progress.json` (status, `terms_added`, `last_session_note`).
+7. Sách còn thiếu và tiến độ bổ sung được theo dõi ở `MISSING_BOOKS.md` (gốc dự án). Khi người dùng báo đã bổ sung sách, làm theo quy trình trong file đó và đánh dấu từng mục `[~]` → `[x]` trước khi sang giai đoạn kế tiếp.
 
 Các lệnh chạy từ thư mục gốc `book/`:
 
