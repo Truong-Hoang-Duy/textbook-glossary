@@ -16,7 +16,7 @@ scratch/
 # File kiểm định mẫu tạm thời (sinh ra ở Giai đoạn 4, xóa sau khi kiểm tra)
 mau_kiem_tra.md
 sample_audit.md
-glossary/**/sample_audit.md
+textbook/**/sample_audit.md
 
 # Sách PDF nguồn (tệp dung lượng lớn và có bản quyền)
 *.pdf

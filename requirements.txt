@@ -1,0 +1,8 @@
+# Thư viện Python cho textbook/scripts/ (Python 3.12).
+# Cài: python -m pip install -r requirements.txt
+#
+# Ngoài pip, cần cài Tesseract OCR 5.x (bản Windows: Tesseract-OCR tại
+# C:\Program Files\Tesseract-OCR\). Dữ liệu ngôn ngữ vie/eng nằm sẵn trong textbook/tessdata/.
+
+pymupdf==1.28.2      # render trang PDF, cắt hình
+jsonschema==4.24.0   # kiểm tra progress.json và dataset/<unit>.json theo textbook/schema/

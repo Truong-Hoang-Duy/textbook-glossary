@@ -1,52 +1,33 @@
 @README.md
 
-## Lệnh kích hoạt bộ môn mới (New Unit Trigger)
+## Lệnh kích hoạt bộ mới
 
-Khi người dùng ra lệnh:
-👉 **`Bắt đầu làm bộ <unit>`** (hoặc **`Khởi tạo và xử lý bộ <unit>`**, ví dụ: `Bắt đầu làm bộ sinh_10`):
+Khi người dùng nói **`Bắt đầu làm bộ <unit>`** (hoặc `Khởi tạo và xử lý bộ <unit>`), làm lần lượt các giai đoạn dưới đây. Định dạng chi tiết theo [Spec](specs/2026-10-27-textbook-framework-spec.md).
 
-Claude phải tự động triển khai đầy đủ quy trình 5 giai đoạn chuẩn mực giống hệt như đã làm với `toan_10`:
+### Giai đoạn 1: Dựng khung
 
-### 1. Giai đoạn 1 — Dựng khung bộ mới
-- Quét toàn bộ file PDF trong thư mục `sgk/khoi_<lop>/<unit>/`. Phân loại chính xác:
-  * `SGK` (`level: co_ban`)
-  * `SCD` (`level: chuyen_de`)
-  * `SBT` (`book_type: sbt`)
-  * `SGV` hoặc `Tài liệu bồi dưỡng GV` (`book_type: gv`, phân loại `level: co_ban` cho SGK hoặc `chuyen_de` cho SCD).
-- Tạo thư mục `glossary/khoi_<lop>/<unit>/` gồm 3 file:
-  * `<unit>.json`: Khung JSON chuẩn theo `schema.json` (term_count = 0).
-  * `progress.json`: Lập mục lục chi tiết mọi chương/bài từ PDF nguồn, xác định sẵn `pdf_pages: [đầu, cuối]`.
-  * `DESCRIPTION.md`: Khung tài liệu kỹ thuật theo cấu trúc chuẩn của `toan_10`.
-- Đồng thời copy `<unit>.json` vào thư mục tập trung `glossary/dataset/<unit>.json`.
-- Thêm một dòng trạng thái mới vào bảng ở Mục 9 `README.md`.
-- Chạy `python glossary/scripts/validate.py <unit>` để đảm bảo khung hợp lệ 100%.
+- Tìm file `SGK …` trong `sgk/khoi_<lop>/<unit>/` (README mục 5). Hiện chỉ làm SGK, các sách khác bỏ qua. Không có SGK thì báo người dùng. Không tự tải, không dùng nguồn ngoài KNTT.
+- Tạo `textbook/khoi_<lop>/<unit>/`:
+  * `progress.json`: cây mục lục theo đúng kiểu của sách (Phần/Chương/Chủ đề/Unit… → Bài/Lesson), **đọc từ ảnh trang** (tiền tố và tên đúng như in), `pdf_pages` cho từng bài, `status: pending`. Kiểm tra bằng `progress.schema.json`. Điểm đặc thù của sách (mục lục khác trang đầu…) ghi vào `notes`.
+- Chạy `ocr_pages.py <unit>` để có cache OCR.
+- Thêm một dòng vào bảng README mục 9.
 
-- Nguồn chỉ là sách bộ **Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam)**, áp dụng cho mọi môn. Thiếu sách (ví dụ SGV) thì báo người dùng bổ sung vào `sgk/khoi_<lop>/<unit>/`. Không tự tải, không dùng Chương trình GDPT 2018 hay tài liệu ngoài (README mục 5).
+### Giai đoạn 2: Tầng 1 (bài học nguyên văn)
 
-### 2. Giai đoạn 2 & 3 — Trích xuất thuật ngữ
-- Trích xuất bám sát nguyên văn theo thứ tự ưu tiên: **SGK > SCD > SGV > SBT**.
-- Quy tắc `id`: `{unit với _ đổi thành -}-{slug-khong-dau}` (ví dụ: `sinh-10-te-bao`).
-- Nhập dữ liệu qua file lô tạm bằng `python glossary/scripts/add_terms.py <unit> <lo.json>`.
-- Trích khung "Yêu cầu cần đạt" ở đầu mỗi bài SGK/SCD (nguyên văn; Toán thêm cột "THUẬT NGỮ" vào `key_terms`; môn không có khung trong SGK thì lấy từ SGV với `book_type: "gv"`; Tiếng Anh ghi theo Unit với `lesson: null`) và nhập bằng `python glossary/scripts/add_lessons.py <unit> <lo_yccd.json>` (README mục 4b).
-- Đọc kỹ tài liệu `SGV` để trích xuất Mục 4 (Yêu cầu cần đạt, giới hạn kiến thức) và Mục 5 (Sai lầm thường gặp của học sinh) vào `DESCRIPTION.md`.
-- Cập nhật tiến độ `status: done` và `terms_added` cho từng bài học trong `progress.json`.
+- Đọc ảnh từng trang rồi viết file bài `<Mã>-<slug>.md` theo spec mục 4: frontmatter, khung heading, mốc `<!-- pdf:N -->`, in đậm thuật ngữ tại câu định nghĩa, công thức LaTeX.
+- Khai báo hình trong `figures.json` và chạy `crop_figures.py`.
+- Chạy `check_lesson.py` đến khi sạch thì đổi bài sang `status: layer1`.
 
-### 3. Giai đoạn 4 — Kiểm tra chất lượng tự động
-- Chạy kiểm tra tính hợp lệ của dữ liệu:
-  * `python glossary/scripts/validate.py <unit>` (yêu cầu 0 lỗi).
-- Chạy kiểm tra đối soát nguồn trích dẫn:
-  * `python glossary/scripts/check_sources.py <unit>` (ngưỡng bigram 0.65 có dấu tiếng Việt, xử lý sạch 100% các mục bị gắn cờ nhầm).
+### Giai đoạn 3: Tầng 2 (từ điển)
 
-### 4. Giai đoạn 5 — Tự động kiểm định mẫu, kết luận & Nghiệm thu
-- **Máy tự động kiểm tra, so sánh và kết luận trực tiếp (Không cần xuất file hay chờ người kiểm tra thủ công):**
-  * Tự động lấy mẫu chuẩn 20–30 thuật ngữ (gồm các mục ngẫu nhiên và các mục công thức/kí hiệu/định nghĩa trọng tâm).
-  * Máy tự động đối chiếu trực tiếp định nghĩa, công thức (`notation`), số trang (`pdf_page`, `printed_page`) với nội dung trang PDF nguồn tương ứng (dưới dạng ảnh/OCR).
-  * Tự động đánh giá sai số và đưa ra kết luận kiểm định ngay trong phiên (yêu cầu tỉ lệ sai ≤ 5%, mục tiêu 0% sai sót).
-  * Không cần giữ lại file `sample_audit.md` (nếu có sinh ra tạm thời thì tự động xóa sạch).
-- **Hoàn tất hồ sơ & Trạng thái:**
-  * Cập nhật đầy đủ kết luận kiểm định chất lượng vào Mục 6 của `DESCRIPTION.md`.
-  * Đổi trạng thái trong bảng Mục 9 `README.md` thành `Đã kiểm tra cuối (<số mục>; mẫu <số mục mẫu>, 0 sai — YYYY-MM-DD)`.
-  * Báo cáo tổng kết toàn diện kết quả kiểm tra cho người dùng và hoàn thành nhiệm vụ.
+- Viết `Tu-dien-<Mon>-<lop>-<Kind>-N.md` (mỗi nhóm chứa bài một file) theo spec mục 5. Nội dung chỉ lấy từ Tầng 1. Mục Ngoài nguồn không kèm định nghĩa.
+- Chạy `check_dict.py` đến khi sạch.
+
+### Giai đoạn 4: Xuất và nghiệm thu
+
+- Chạy `export_unit.py <unit>` (0 lỗi schema, không trùng `id`).
+- Lấy mẫu 20–30 mục (gồm mục ngẫu nhiên và mục công thức/định nghĩa trọng tâm), đối chiếu với ảnh trang: giải nghĩa, công thức, `pdf_page`, `printed_page`. Yêu cầu tỉ lệ sai ≤ 5%, mục tiêu 0%. Sai thì sửa ở Tầng 1 hoặc Tầng 2 rồi xuất lại. Không giữ file kiểm tra tạm.
+- Ghi kết quả vào `audits` của `progress.json`, đổi trạng thái ở README mục 9 thành `Đã kiểm tra cuối (<số mục>; mẫu <n>, 0 sai — YYYY-MM-DD)`, rồi báo cáo tổng kết cho người dùng.
 
 ---
 
