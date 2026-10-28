@@ -1,0 +1,34 @@
+{
+  "status": "chua_khao_sat",
+  "verified_on": null,
+  "profile": "dia",
+  "subjects": [
+    "dia"
+  ],
+  "section_levels": [
+    {
+      "prefix": "## ",
+      "regex": "^([IVX]+)\\. ",
+      "example": "## I. CHỨC NĂNG CỦA DNA"
+    },
+    {
+      "prefix": "### ",
+      "regex": "^(\\d+)\\. ",
+      "example": "### 1. Khởi đầu sao chép"
+    },
+    {
+      "prefix": "**",
+      "regex": "^([a-z])\\) ",
+      "example": "**a) mRNA**"
+    }
+  ],
+  "formula": "none",
+  "audit_focus": [
+    "mo_ta",
+    "hinh"
+  ],
+  "open_questions": [
+    "SGK không có khung Yêu cầu cần đạt.",
+    "Nhiều bản đồ và bảng số liệu: bảng số liệu chép thành bảng Markdown."
+  ]
+}

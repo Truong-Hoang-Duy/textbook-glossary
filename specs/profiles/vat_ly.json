@@ -1,0 +1,34 @@
+{
+  "status": "chua_khao_sat",
+  "verified_on": null,
+  "profile": "vat_ly",
+  "subjects": [
+    "vat_ly"
+  ],
+  "section_levels": [
+    {
+      "prefix": "## ",
+      "regex": "^([IVX]+)\\. ",
+      "example": "## I. CHỨC NĂNG CỦA DNA"
+    },
+    {
+      "prefix": "### ",
+      "regex": "^(\\d+)\\. ",
+      "example": "### 1. Khởi đầu sao chép"
+    },
+    {
+      "prefix": "**",
+      "regex": "^([a-z])\\) ",
+      "example": "**a) mRNA**"
+    }
+  ],
+  "formula": "latex",
+  "audit_focus": [
+    "cong_thuc",
+    "hinh"
+  ],
+  "open_questions": [
+    "SGK không có khung Yêu cầu cần đạt — objectives để null.",
+    "Đơn vị đo viết trong LaTeX (\\,\\mathrm{m/s}) hay chữ thường?"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "profile": "sinh",
+  "subjects": [
+    "sinh"
+  ],
+  "status": "da_kiem_chung",
+  "verified_on": "sinh_12, 2026-10-27",
+  "template": "_Huong-dan/Từ điển Sinh học {grade}.md",
+  "conventions": [
+    "Tên gene in nghiêng (*lacZ*), protein viết đứng (lacI).",
+    "Viết \"gene\" (không \"gen\").",
+    "Kí hiệu RNA giữ nguyên: mRNA, tRNA, rRNA, miRNA, siRNA.",
+    "Tên Latin in nghiêng (*E. coli*)."
+  ]
+}

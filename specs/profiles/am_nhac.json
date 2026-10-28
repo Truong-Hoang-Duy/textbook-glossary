@@ -1,0 +1,29 @@
+{
+  "status": "chua_khao_sat",
+  "verified_on": null,
+  "profile": "am_nhac",
+  "subjects": [
+    "am_nhac"
+  ],
+  "section_levels": [
+    {
+      "prefix": "## ",
+      "regex": "^(\\d+)\\. ",
+      "example": "## 1. MỆNH ĐỀ"
+    },
+    {
+      "prefix": "**",
+      "regex": "^([a-z])\\) ",
+      "example": "**a) Mệnh đề phủ định**"
+    }
+  ],
+  "formula": "none",
+  "audit_focus": [
+    "mo_ta",
+    "hinh"
+  ],
+  "open_questions": [
+    "Bản nhạc cắt thành hình, không chép kí âm.",
+    "Mạch nội dung không đánh số (kind mach_noi_dung)."
+  ]
+}

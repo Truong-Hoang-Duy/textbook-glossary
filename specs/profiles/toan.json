@@ -1,0 +1,39 @@
+{
+  "status": "chua_khao_sat",
+  "verified_on": null,
+  "profile": "toan",
+  "subjects": [
+    "toan"
+  ],
+  "section_levels": [
+    {
+      "prefix": "## ",
+      "regex": "^(\\d+)\\. ",
+      "example": "## 1. MỆNH ĐỀ"
+    },
+    {
+      "prefix": "**",
+      "regex": "^([a-z])\\) ",
+      "example": "**a) Mệnh đề phủ định**"
+    }
+  ],
+  "definition_boxes": [
+    "Định nghĩa",
+    "Định lí",
+    "Tính chất",
+    "Hệ quả",
+    "Chú ý",
+    "Nhận xét"
+  ],
+  "formula": "latex",
+  "audit_focus": [
+    "cong_thuc",
+    "mo_ta"
+  ],
+  "open_questions": [
+    "Sách dùng \"1.\" ở cấp mục đầu (không có số La Mã) — xác nhận trên PDF.",
+    "Khung kiến thức có in đậm thuật ngữ không, hay chỉ có nhãn khung?",
+    "Cột \"THUẬT NGỮ\" đầu bài chép vào khối 🔤 (key_terms).",
+    "SGK 2 tập: mỗi tập một phần tử trong files, crop --grid cần --file."
+  ]
+}

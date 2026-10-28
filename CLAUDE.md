@@ -6,6 +6,7 @@ Khi người dùng nói **`Bắt đầu làm bộ <unit>`** (hoặc `Khởi tạ
 
 ### Giai đoạn 1: Dựng khung
 
+- Mở hồ sơ môn `specs/profiles/<mon>.json` (spec mục 10). Nếu `status: chua_khao_sat`: khảo sát 1–2 bài đầu trên ảnh PDF, trả lời `open_questions`, sửa hồ sơ, đổi `status: da_kiem_chung`; điểm nào cần người dùng chốt (ví dụ phạm vi chép nguyên văn) thì hỏi trước. Chưa xong bước này thì chưa làm Tầng 1 hàng loạt.
 - Tìm file `SGK …` trong `sgk/khoi_<lop>/<unit>/` (README mục 5). Hiện chỉ làm SGK, các sách khác bỏ qua. Không có SGK thì báo người dùng. Không tự tải, không dùng nguồn ngoài KNTT.
 - Tạo `textbook/khoi_<lop>/<unit>/`:
   * `progress.json`: cây mục lục theo đúng kiểu của sách (Phần/Chương/Chủ đề/Unit… → Bài/Lesson), **đọc từ ảnh trang** (tiền tố và tên đúng như in), `pdf_pages` cho từng bài, `status: pending`. Kiểm tra bằng `progress.schema.json`. Điểm đặc thù của sách (mục lục khác trang đầu…) ghi vào `notes`.
@@ -14,14 +15,15 @@ Khi người dùng nói **`Bắt đầu làm bộ <unit>`** (hoặc `Khởi tạ
 
 ### Giai đoạn 2: Tầng 1 (bài học nguyên văn)
 
-- Đọc ảnh từng trang rồi viết file bài `<Mã>-<slug>.md` theo spec mục 4: frontmatter, khung heading, mốc `<!-- pdf:N -->`, in đậm thuật ngữ tại câu định nghĩa, công thức LaTeX.
-- Khai báo hình trong `figures.json` và chạy `crop_figures.py`.
+- Đọc ảnh từng trang rồi viết file bài `<Mã>-<slug>.md` theo spec mục 4: frontmatter, khung heading, mốc `<!-- pdf:N -->`, in đậm thuật ngữ tại câu định nghĩa, gắn nhãn `<!-- term: … -->` cho đoạn mô tả thuật ngữ không có câu định nghĩa, công thức LaTeX.
+- Đo bbox hình trên lưới (`crop_figures.py --grid`), khai báo trong `figures.json`, chạy `crop_figures.py` đến khi không còn lỗi cạnh khung, rồi xem ảnh kiểm tra trong `cache/figures/`: ảnh phải gồm cả chú thích "Hình …" (bảng: tiêu đề "Bảng …" và khối "Chú thích:"), xem spec 4.4.
 - Chạy `check_lesson.py` đến khi sạch thì đổi bài sang `status: layer1`.
 
 ### Giai đoạn 3: Tầng 2 (từ điển)
 
-- Viết `Tu-dien-<Mon>-<lop>-<Kind>-N.md` (mỗi nhóm chứa bài một file) theo spec mục 5. Nội dung chỉ lấy từ Tầng 1. Mục Ngoài nguồn không kèm định nghĩa.
-- Chạy `check_dict.py` đến khi sạch.
+- Viết `Tu-dien-<Mon>-<lop>-<Kind>-N.md` (mỗi nhóm chứa bài một file) theo spec mục 5. Nội dung chỉ lấy từ Tầng 1: thuật ngữ có định nghĩa, thuật ngữ mô tả (`[mô tả]`), Ngoài nguồn (không kèm định nghĩa).
+- Ghi mọi thuật ngữ đã xét mà không tạo dòng vào mục "Đã xét, không tạo mục" kèm lý do (spec 5.4).
+- Chạy `check_dict.py` và `check_coverage.py` đến khi sạch.
 
 ### Giai đoạn 4: Xuất và nghiệm thu
 

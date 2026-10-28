@@ -84,6 +84,7 @@
       "required": [
         "schema_version",
         "unit",
+        "profile",
         "subject",
         "subject_name",
         "grade",
@@ -92,11 +93,16 @@
       ],
       "properties": {
         "schema_version": {
-          "const": "2.1"
+          "const": "2.3"
         },
         "unit": {
           "type": "string",
           "pattern": "^[a-z]+(_[a-z]+)*_(10|11|12)$"
+        },
+        "profile": {
+          "type": "string",
+          "pattern": "^[a-z_]+$",
+          "description": "Hồ sơ môn dùng khi xuất (specs/profiles/<profile>.json)."
         },
         "subject": {
           "type": "string",
@@ -122,6 +128,7 @@
           "required": [
             "lessons",
             "terms",
+            "terms_described",
             "terms_out_of_source",
             "open_notes"
           ],
@@ -131,6 +138,10 @@
               "minimum": 0
             },
             "terms": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "terms_described": {
               "type": "integer",
               "minimum": 0
             },
@@ -521,6 +532,7 @@
         "term",
         "aliases",
         "english",
+        "notation",
         "meaning",
         "usage_context",
         "scope",
@@ -556,7 +568,15 @@
             "null"
           ],
           "minLength": 1,
-          "description": "Cột Tiếng Anh; null nếu để trống."
+          "description": "Cột 2 khi hồ sơ môn ánh xạ sang english (mặc định: cột Tiếng Anh); null nếu để trống hoặc không dùng."
+        },
+        "notation": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1,
+          "description": "Cột 2 khi hồ sơ môn ánh xạ sang notation (ví dụ Tiếng Anh: loại từ, phiên âm); null nếu không có."
         },
         "meaning": {
           "type": [
@@ -584,9 +604,10 @@
         "source_status": {
           "enum": [
             "in_source",
+            "described",
             "out_of_source"
           ],
-          "description": "out_of_source: dòng \"Ngoài nguồn\"."
+          "description": "in_source: sách có câu định nghĩa (chỗ in đậm ở Tầng 1). described: sách không định nghĩa nhưng có mô tả; giải nghĩa ghép nguyên văn từ các đoạn gắn nhãn <!-- term: … --> ở Tầng 1. out_of_source: dòng \"Ngoài nguồn\"."
         },
         "reference": {
           "type": [
@@ -597,7 +618,7 @@
           "description": "Phần \"Xem: …\" của dòng Ngoài nguồn; null nếu không có."
         },
         "location": {
-          "description": "Chỗ in đậm thuật ngữ ở Tầng 1; null khi out_of_source.",
+          "description": "Chỗ in đậm (in_source) hoặc đoạn gắn nhãn đầu tiên (described) ở Tầng 1; null khi out_of_source.",
           "oneOf": [
             {
               "type": "null"
@@ -620,8 +641,8 @@
                     "string",
                     "null"
                   ],
-                  "pattern": "^[IVX]+(\\.[0-9]+(\\.[a-z])?)?$",
-                  "description": "Mục trong bài, ví dụ I, II.1, III.2.a; null nếu ở ngoài các mục La Mã."
+                  "pattern": "^[0-9A-Za-z]+(\\.[0-9A-Za-z]+)*$",
+                  "description": "Mục trong bài theo cấp mục của hồ sơ môn, nối bằng dấu chấm (I, II.1, III.2.a, 2.b); null nếu ngoài các mục."
                 },
                 "pdf_page": {
                   "type": "integer",
@@ -653,11 +674,21 @@
           "if": {
             "properties": {
               "source_status": {
-                "const": "in_source"
+                "const": "out_of_source"
               }
             }
           },
           "then": {
+            "properties": {
+              "meaning": {
+                "type": "null"
+              },
+              "location": {
+                "type": "null"
+              }
+            }
+          },
+          "else": {
             "properties": {
               "meaning": {
                 "type": "string"
@@ -666,16 +697,6 @@
                 "type": "object"
               },
               "reference": {
-                "type": "null"
-              }
-            }
-          },
-          "else": {
-            "properties": {
-              "meaning": {
-                "type": "null"
-              },
-              "location": {
                 "type": "null"
               }
             }

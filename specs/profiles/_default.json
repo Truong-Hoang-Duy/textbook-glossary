@@ -1,0 +1,50 @@
+{
+  "profile": "_default",
+  "subjects": [],
+  "status": "da_kiem_chung",
+  "verified_on": "sinh_12, 2026-10-27",
+  "ocr_lang": "vie",
+  "section_levels": [
+    {
+      "prefix": "## ",
+      "regex": "^([IVX]+)\\. ",
+      "example": "## I. CHỨC NĂNG CỦA DNA"
+    },
+    {
+      "prefix": "### ",
+      "regex": "^(\\d+)\\. ",
+      "example": "### 1. Khởi đầu sao chép"
+    },
+    {
+      "prefix": "**",
+      "regex": "^([a-z])\\) ",
+      "example": "**a) mRNA**"
+    }
+  ],
+  "extra_headings": [],
+  "definition_boxes": [],
+  "dictionary_columns": {
+    "headers": [
+      "Thuật ngữ",
+      "Tiếng Anh",
+      "Giải nghĩa",
+      "Bối cảnh sử dụng"
+    ],
+    "keys": [
+      "term",
+      "english",
+      "meaning",
+      "usage_context"
+    ]
+  },
+  "formula": "latex",
+  "code_blocks": false,
+  "verbatim_scope": "toan_bai",
+  "template": null,
+  "audit_focus": [
+    "mo_ta",
+    "hinh"
+  ],
+  "conventions": [],
+  "open_questions": []
+}

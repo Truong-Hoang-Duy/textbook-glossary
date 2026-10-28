@@ -22,12 +22,14 @@ Từ hai tầng này, script xuất ra JSON theo schema riêng của dự án đ
 ```
 textbook/                          # GỐC DỰ ÁN (repo)
 ├── README.md, CLAUDE.md
-├── specs/                         # spec định dạng (chuẩn duy nhất)
+├── specs/                         # spec lõi (chuẩn duy nhất) + profiles/<mon>.json (hồ sơ từng môn)
 ├── plans/                         # plan thí điểm theo bộ
 ├── sgk/khoi_<lop>/<unit>/SGK*.pdf # NGUỒN: hiện chỉ SGK (chỉ đọc, không đưa vào git)
 ├── _SGK-Nguyen-ban/, _Huong-dan/  # mẫu tham chiếu do người dùng làm tay (repo riêng)
+├── cache/ocr/<unit>/<pdf>/pNNNN.txt # cache OCR: chữ thô từng trang, chỉ để máy kiểm tra Tầng 1 (tự sinh, không đưa vào git)
+├── cache/figures/<unit>/           # lưới đo bbox và ảnh kiểm tra khung cắt hình (tự sinh)
 └── textbook/                      # KẾT QUẢ
-    ├── schema/                    # unit.schema.json (JSON xuất), progress.schema.json (mục lục)
+    ├── schema/                    # unit.schema.json (JSON xuất), progress.schema.json (mục lục), profile.schema.json (hồ sơ môn)
     ├── tessdata/                  # dữ liệu OCR tesseract (vie, eng)
     ├── scripts/                   # công cụ (spec mục 9)
     ├── dataset/<unit>.json        # JSON xuất tự động, KHÔNG sửa tay
@@ -35,8 +37,7 @@ textbook/                          # GỐC DỰ ÁN (repo)
         ├── progress.json          # hồ sơ duy nhất của bộ: cây mục lục, dải trang, tiến độ, ghi chú, kết quả kiểm tra
         ├── Tu-dien-<Mon>-<lop>-<Kind>-N.md          # Tầng 2 (mỗi Chương/Chủ đề/Unit… một file)
         ├── <Kind>-NN-…/[<Kind>-NN-…/]<Mã>-….md      # Tầng 1, thư mục theo cây mục lục
-        │   ├── img/  +  figures.json
-        └── .ocr/<tên pdf>/pNNNN.txt                  # cache OCR (tự sinh, không đưa vào git)
+        └── … /img/  +  figures.json                 # hình cắt từ trang sách
 ```
 
 ## 3. Đầu mỗi phiên
@@ -51,7 +52,7 @@ textbook/                          # GỐC DỰ ÁN (repo)
 
 - **Nguồn là ảnh trang.** Sách KNTT là sách quét, không có text layer. Render trang bằng PyMuPDF (130–150 dpi để đọc, 300 dpi để cắt hình). OCR chỉ dùng để tham khảo và chạy kiểm tra tự động; khi OCR và ảnh khác nhau thì **ảnh là chuẩn**.
 - Tầng 1 chép **đúng câu chữ sách**: không sửa chính tả, không diễn giải, không thêm ý.
-- Tầng 2 chỉ lấy những gì sách **nêu rõ** là định nghĩa, khái niệm, định lí, tính chất, công thức, kí hiệu hoặc quy tắc. Không lấy định nghĩa từ ví dụ, bài tập hay hoạt động.
+- Tầng 2 lấy những gì sách **nêu rõ** là định nghĩa, khái niệm, định lí, tính chất, công thức, kí hiệu hoặc quy tắc (`in_source`), và thuật ngữ sách **có mô tả nhưng không định nghĩa** (`described`, ghi `[mô tả]`, giải nghĩa ghép nguyên văn câu mô tả). Không lấy từ ví dụ, bài tập hay hoạt động; thuật ngữ không có trong SGK thì không đưa vào.
 - Thuật ngữ có dùng trong bài nhưng sách không định nghĩa thì đánh dấu **"Ngoài nguồn"**, và **không viết định nghĩa** (theo mẫu ở spec mục 5.2).
 - Không dựa vào trí nhớ. Chỗ nào không chắc thì ghi vào "Ghi chú nguồn cần kiểm tra", không đoán.
 - Repo được phép đẩy lên remote công khai (quyết định 2026-10-27), kể cả Tầng 1 và `img/`. Mỗi file Tầng 1 phải ghi nguồn sách trong frontmatter.
@@ -75,6 +76,7 @@ Các cổng phải qua theo thứ tự (chi tiết ở spec mục 7):
 
 1. `check_lesson.py`: Tầng 1 đúng khung, đúng mốc trang, khớp OCR trang (bigram có dấu ≥ 0.65).
 2. `check_dict.py`: Tầng 2 khớp Tầng 1; mục Ngoài nguồn không có định nghĩa; mọi ghi chú đều có trạng thái.
+   `check_coverage.py` (2b): mọi ứng viên thuật ngữ (in đậm, nhãn mô tả, "được gọi là", từ điển mẫu) đều có dòng trong bảng hoặc trong mục "Đã xét, không tạo mục".
 3. `export_unit.py`: JSON hợp lệ theo `unit.schema.json`.
 4. **Kiểm tra mẫu**: Claude tự lấy 20–30 mục (gồm mục ngẫu nhiên và mục công thức/định nghĩa trọng tâm), đối chiếu với ảnh trang, yêu cầu tỉ lệ sai ≤ 5% (mục tiêu 0%), ghi kết quả vào `audits` của `progress.json`.
 Trước cổng 1, `progress.json` phải hợp lệ theo `progress.schema.json` (cổng 0).
@@ -88,10 +90,12 @@ Cài môi trường khi đổi máy: `python -m pip install -r requirements.txt`
 Chạy từ gốc dự án. Các script đang được viết theo plan thí điểm Sinh 12; chưa viết xong thì chưa có.
 
 ```
-python textbook/scripts/ocr_pages.py <unit> [--file F] [--pages a-b]        # render + OCR, ghi cache .ocr/
-python textbook/scripts/crop_figures.py <unit> <thư mục nhóm>                # cắt hình theo figures.json
+python textbook/scripts/ocr_pages.py <unit> [--file F] [--pages a-b]        # render + OCR, ghi cache/ocr/<unit>/
+python textbook/scripts/crop_figures.py <unit> --grid <trang>...              # vẽ lưới 10 pt để đo bbox hình
+python textbook/scripts/crop_figures.py <unit> <thư mục nhóm>                # cắt hình theo figures.json, kiểm tra cạnh khung
 python textbook/scripts/check_lesson.py <unit> [--lesson T]                  # cổng 1
 python textbook/scripts/check_dict.py <unit> [--file Tu-dien-….md]           # cổng 2
+python textbook/scripts/check_coverage.py <unit> [--file Tu-dien-….md]       # cổng 2b (độ phủ)
 python textbook/scripts/export_unit.py <unit>                                # cổng 3 → textbook/dataset/<unit>.json
 ```
 
@@ -99,7 +103,7 @@ python textbook/scripts/export_unit.py <unit>                                # c
 
 | Bộ | Trạng thái | Ghi chú |
 |---|---|---|
-| `sinh_12` | Thí điểm: đang dựng khung | Có SGK (sách ảnh, trang PDF = trang in + 2). Có sẵn mẫu Tầng 1 Bài 1–18 trong `_SGK-Nguyen-ban` và mẫu từ điển Bài 1–18 trong `_Huong-dan`. Plan: [plans/2026-10-26-bio12-extraction-plan.md](plans/2026-10-26-bio12-extraction-plan.md) |
+| `sinh_12` | Hoàn thành 100% (43 bài Tầng 1 verified; 8 từ điển Tầng 2 với 294 thuật ngữ: 139 định nghĩa, 133 mô tả, 22 Ngoài nguồn, 28 ghi chú nguồn đóng, 100% độ phủ; dataset/sinh_12.json đạt chuẩn; kiểm tra mẫu cuối 0% lỗi — 2026-10-28) | SGK sách ảnh, trang PDF = trang in + 2. Đầy đủ 3 Phần, 8 chương, 35 bài học, 8 sơ đồ tóm tắt kiến thức chương và bảng tra cứu thuật ngữ cuối sách. Toàn bộ hình vẽ được trích xuất sạch biên (0 edge ink). Plan: [plans/2026-10-26-bio12-extraction-plan.md](plans/2026-10-26-bio12-extraction-plan.md) |
 
 Các bộ khác chưa bắt đầu.
 

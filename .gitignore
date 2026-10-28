@@ -3,9 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# OCR cache (tự sinh trong quá trình OCR sách dạng ảnh)
-.ocr/
-**/.ocr/
+# Cache OCR (tự sinh, chỉ để kiểm tra tự động; xóa được, chạy lại ocr_pages.py để tạo lại)
+cache/
 
 # File sao lưu tự động và file tạm
 *.bak
@@ -19,6 +18,7 @@ sample_audit.md
 textbook/**/sample_audit.md
 
 # Sách PDF nguồn (tệp dung lượng lớn và có bản quyền)
+sgk/
 *.pdf
 
 # IDE & Hệ điều hành

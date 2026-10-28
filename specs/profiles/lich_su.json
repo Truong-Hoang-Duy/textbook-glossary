@@ -1,0 +1,28 @@
+{
+  "status": "chua_khao_sat",
+  "verified_on": null,
+  "profile": "lich_su",
+  "subjects": [
+    "lich_su"
+  ],
+  "section_levels": [
+    {
+      "prefix": "## ",
+      "regex": "^(\\d+)\\. ",
+      "example": "## 1. MỆNH ĐỀ"
+    },
+    {
+      "prefix": "**",
+      "regex": "^([a-z])\\) ",
+      "example": "**a) Mệnh đề phủ định**"
+    }
+  ],
+  "formula": "none",
+  "audit_focus": [
+    "mo_ta"
+  ],
+  "open_questions": [
+    "Xác nhận cách đánh số mục trên PDF.",
+    "Bảng tra cứu khái niệm, thuật ngữ cuối sách là nguồn định nghĩa chính (spec 5.7)."
+  ]
+}

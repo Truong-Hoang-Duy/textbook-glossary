@@ -1,0 +1,34 @@
+{
+  "status": "chua_khao_sat",
+  "verified_on": null,
+  "profile": "ngu_van",
+  "subjects": [
+    "ngu_van",
+    "van"
+  ],
+  "section_levels": [
+    {
+      "prefix": "## ",
+      "regex": "^(\\d+)\\. ",
+      "example": "## 1. MỆNH ĐỀ"
+    },
+    {
+      "prefix": "**",
+      "regex": "^([a-z])\\) ",
+      "example": "**a) Mệnh đề phủ định**"
+    }
+  ],
+  "formula": "none",
+  "verbatim_scope": "cho_quyet_dinh",
+  "extra_headings": [
+    "^(Đọc|Viết|Nói và nghe|Tri thức Ngữ văn|Thực hành tiếng Việt|Củng cố, mở rộng|Thực hành đọc)\\b",
+    "^Văn bản \\d+"
+  ],
+  "audit_focus": [
+    "mo_ta"
+  ],
+  "open_questions": [
+    "CẦN NGƯỜI DÙNG CHỐT: chép nguyên văn toàn bộ văn bản đọc, hay chỉ phần Tri thức Ngữ văn và lí thuyết (văn bản đọc ghi tên, tác giả, trang)?",
+    "Không chia chương: nhóm là Tập một/Tập hai."
+  ]
+}

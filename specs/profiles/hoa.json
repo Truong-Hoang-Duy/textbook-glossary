@@ -1,0 +1,37 @@
+{
+  "status": "chua_khao_sat",
+  "verified_on": null,
+  "profile": "hoa",
+  "subjects": [
+    "hoa"
+  ],
+  "section_levels": [
+    {
+      "prefix": "## ",
+      "regex": "^([IVX]+)\\. ",
+      "example": "## I. CHỨC NĂNG CỦA DNA"
+    },
+    {
+      "prefix": "### ",
+      "regex": "^(\\d+)\\. ",
+      "example": "### 1. Khởi đầu sao chép"
+    },
+    {
+      "prefix": "**",
+      "regex": "^([a-z])\\) ",
+      "example": "**a) mRNA**"
+    }
+  ],
+  "formula": "latex_mhchem",
+  "audit_focus": [
+    "cong_thuc",
+    "mo_ta"
+  ],
+  "conventions": [
+    "Công thức và phương trình hoá học viết bằng \\ce{…} (mhchem)."
+  ],
+  "open_questions": [
+    "Chọn \\ce{} hay LaTeX thường: phụ thuộc nơi hiển thị có hỗ trợ mhchem không.",
+    "Bài mở đầu không đánh số (Mở đầu) ở Hoá 10."
+  ]
+}

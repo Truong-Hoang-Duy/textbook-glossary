@@ -1,0 +1,31 @@
+{
+  "status": "chua_khao_sat",
+  "verified_on": null,
+  "profile": "tin_hoc",
+  "subjects": [
+    "tin_hoc",
+    "tin_cs",
+    "tin_ict"
+  ],
+  "section_levels": [
+    {
+      "prefix": "## ",
+      "regex": "^(\\d+)\\. ",
+      "example": "## 1. MỆNH ĐỀ"
+    },
+    {
+      "prefix": "**",
+      "regex": "^([a-z])\\) ",
+      "example": "**a) Mệnh đề phủ định**"
+    }
+  ],
+  "formula": "latex",
+  "code_blocks": true,
+  "audit_focus": [
+    "mo_ta",
+    "hinh"
+  ],
+  "open_questions": [
+    "Mã lệnh chép trong khối ``` ``` kèm tên ngôn ngữ; xác nhận cách sách trình bày mã."
+  ]
+}

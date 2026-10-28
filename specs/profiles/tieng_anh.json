@@ -1,0 +1,41 @@
+{
+  "status": "chua_khao_sat",
+  "verified_on": null,
+  "profile": "tieng_anh",
+  "subjects": [
+    "tieng_anh"
+  ],
+  "ocr_lang": "eng+vie",
+  "section_levels": [
+    {
+      "prefix": "### ",
+      "regex": "^(\\d+)\\b",
+      "example": "### 1 Listen and read."
+    }
+  ],
+  "extra_headings": [
+    "^(GETTING STARTED|LANGUAGE|READING|SPEAKING|LISTENING|WRITING|COMMUNICATION AND CULTURE|LOOKING BACK|PROJECT|Pronunciation|Vocabulary|Grammar)\\b"
+  ],
+  "dictionary_columns": {
+    "headers": [
+      "Từ vựng",
+      "Loại từ, phiên âm",
+      "Nghĩa tiếng Việt",
+      "Bối cảnh sử dụng"
+    ],
+    "keys": [
+      "term",
+      "notation",
+      "meaning",
+      "usage_context"
+    ]
+  },
+  "formula": "none",
+  "audit_focus": [
+    "mo_ta"
+  ],
+  "open_questions": [
+    "Nguồn chính của từ vựng là Glossary cuối sách (spec 5.7); xác nhận cấu trúc Glossary.",
+    "SGK không có khung Yêu cầu cần đạt."
+  ]
+}

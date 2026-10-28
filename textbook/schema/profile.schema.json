@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "textbook/schema/profile.schema.json",
+  "title": "Hồ sơ môn: các điểm riêng của từng môn mà spec lõi để mở",
+  "description": "Mỗi file specs/profiles/<mon>.json. Script đọc hồ sơ theo progress.json → subject. Khoá nào bỏ trống thì lấy từ _default.json.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["profile", "subjects", "status", "verified_on"],
+  "properties": {
+    "profile": { "type": "string", "pattern": "^[a-z_]+$" },
+    "subjects": {
+      "description": "Các mã môn (phần trước số lớp của tên bộ) dùng hồ sơ này, ví dụ [\"ngu_van\", \"van\"].",
+      "type": "array", "items": { "type": "string", "pattern": "^[a-z]+(_[a-z]+)*$" }
+    },
+    "status": {
+      "description": "da_kiem_chung: đã chạy trọn quy trình trên PDF thật. chua_khao_sat: dựng theo mục lục và cấu trúc chung, phải khảo sát 1–2 bài đầu trên PDF rồi sửa trước khi làm hàng loạt.",
+      "enum": ["da_kiem_chung", "chua_khao_sat"]
+    },
+    "verified_on": { "type": ["string", "null"], "description": "Bộ và ngày kiểm chứng, ví dụ \"sinh_12, 2026-10-27\"." },
+    "ocr_lang": { "type": "string", "pattern": "^[a-z]{3}(\\+[a-z]{3})*$" },
+    "section_levels": {
+      "description": "Các cấp mục đánh số trong bài, từ ngoài vào trong. 'prefix' là đầu dòng Markdown (\"## \", \"### \", \"**\"); 'regex' áp lên phần sau prefix và có đúng 1 nhóm bắt số mục.",
+      "type": "array", "minItems": 1, "maxItems": 4,
+      "items": {
+        "type": "object", "additionalProperties": false, "required": ["prefix", "regex", "example"],
+        "properties": {
+          "prefix": { "enum": ["## ", "### ", "#### ", "**"] },
+          "regex": { "type": "string" },
+          "example": { "type": "string" }
+        }
+      }
+    },
+    "extra_headings": {
+      "description": "Regex các heading ## hoặc ### khác được phép (ngoài hộp emoji và các cấp mục), ví dụ \"Đọc\", \"Vocabulary\".",
+      "type": "array", "items": { "type": "string" }
+    },
+    "definition_boxes": {
+      "description": "Nhãn khung kiến thức của sách (\"Định nghĩa\", \"Định lí\"…). Tầng 1 chép khung thành trích dẫn \"> **<nhãn>.** …\" và in đậm thuật ngữ bên trong.",
+      "type": "array", "items": { "type": "string" }
+    },
+    "dictionary_columns": {
+      "description": "Tiêu đề 4 cột bảng từ điển và khoá JSON tương ứng của từng cột.",
+      "type": "object", "additionalProperties": false, "required": ["headers", "keys"],
+      "properties": {
+        "headers": { "type": "array", "minItems": 4, "maxItems": 4, "items": { "type": "string" } },
+        "keys": {
+          "type": "array", "minItems": 4, "maxItems": 4,
+          "prefixItems": [{ "const": "term" }, { "enum": ["english", "notation"] }, { "const": "meaning" }, { "const": "usage_context" }]
+        }
+      }
+    },
+    "formula": { "enum": ["none", "latex", "latex_mhchem"], "description": "Quy ước viết công thức ở Tầng 1 và Tầng 2." },
+    "code_blocks": { "type": "boolean", "description": "Sách có mã lệnh: chép trong khối ``` ```, không đem so OCR." },
+    "verbatim_scope": {
+      "description": "Phạm vi chép nguyên văn ở Tầng 1. toan_bai: chép cả bài. ly_thuyet: chép phần lí thuyết/tri thức, văn bản đọc chỉ ghi tên, tác giả, trang. cho_quyet_dinh: người dùng chưa chốt, chưa được làm Tầng 1.",
+      "enum": ["toan_bai", "ly_thuyet", "cho_quyet_dinh"]
+    },
+    "template": { "type": ["string", "null"], "description": "Từ điển mẫu cho cổng 2b, dạng đường dẫn có {grade}, ví dụ \"_Huong-dan/Từ điển Sinh học {grade}.md\"; null nếu không có." },
+    "audit_focus": {
+      "description": "Nhóm bắt buộc có trong mẫu cổng 4: cong_thuc (≥ 1/3 mẫu là mục có công thức, đối chiếu từng kí tự), mo_ta (có mục described), hinh (có mục đặt cạnh hình).",
+      "type": "array", "items": { "enum": ["cong_thuc", "mo_ta", "hinh"] }
+    },
+    "conventions": { "type": "array", "items": { "type": "string" }, "description": "Quy ước viết riêng của môn (chép vào 'Quy ước sử dụng' của từ điển)." },
+    "open_questions": { "type": "array", "items": { "type": "string" }, "description": "Điểm cần khảo sát hoặc cần người dùng chốt." }
+  }
+}

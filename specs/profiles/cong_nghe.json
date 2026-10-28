@@ -1,0 +1,38 @@
+{
+  "status": "chua_khao_sat",
+  "verified_on": null,
+  "profile": "cong_nghe",
+  "subjects": [
+    "cong_nghe_cong_nghiep",
+    "cong_nghe_nong_nghiep",
+    "cong_nghe_co_khi",
+    "cong_nghe_chan_nuoi",
+    "cong_nghe_dien_dien_tu",
+    "cong_nghe_lam_nghiep_thuy_san"
+  ],
+  "section_levels": [
+    {
+      "prefix": "## ",
+      "regex": "^([IVX]+)\\. ",
+      "example": "## I. CHỨC NĂNG CỦA DNA"
+    },
+    {
+      "prefix": "### ",
+      "regex": "^(\\d+)\\. ",
+      "example": "### 1. Khởi đầu sao chép"
+    },
+    {
+      "prefix": "**",
+      "regex": "^([a-z])\\) ",
+      "example": "**a) mRNA**"
+    }
+  ],
+  "formula": "latex",
+  "audit_focus": [
+    "mo_ta",
+    "hinh"
+  ],
+  "open_questions": [
+    "Xác nhận cách đánh số mục trên PDF."
+  ]
+}

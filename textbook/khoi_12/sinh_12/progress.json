@@ -1,0 +1,972 @@
+{
+  "unit": "sinh_12",
+  "subject": "sinh",
+  "subject_name": "Sinh học",
+  "grade": 12,
+  "files": [
+    {
+      "file": "SGK SINH HOC 12 - KNTT.pdf",
+      "volume": null,
+      "page_count": 199,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+      "pdf_pages": [
+        6,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "p04",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần bốn",
+      "number": 4,
+      "title": "Di truyền học",
+      "dir": "Phan-04-Di-truyen-hoc",
+      "children": [
+        {
+          "id": "c01",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 1",
+          "number": 1,
+          "title": "Di truyền phân tử",
+          "dir": "Chuong-01-Di-truyen-phan-tu",
+          "children": [
+            {
+              "id": "b01",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 1",
+              "number": 1,
+              "title": "DNA và cơ chế tái bản DNA",
+              "lesson_type": "ly_thuyet",
+              "file": "B01-DNA-va-co-che-tai-ban-DNA.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                7,
+                10
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b02",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 2",
+              "number": 2,
+              "title": "Gene, quá trình truyền đạt thông tin di truyền và hệ gene",
+              "lesson_type": "ly_thuyet",
+              "file": "B02-Gene-qua-trinh-truyen-dat-thong-tin-di-truyen-va.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                11,
+                19
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b03",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 3",
+              "number": 3,
+              "title": "Điều hoà biểu hiện gene",
+              "lesson_type": "ly_thuyet",
+              "file": "B03-Dieu-hoa-bieu-hien-gene.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                20,
+                24
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b04",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 4",
+              "number": 4,
+              "title": "Đột biến gene",
+              "lesson_type": "ly_thuyet",
+              "file": "B04-Dot-bien-gene.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                25,
+                28
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b05",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 5",
+              "number": 5,
+              "title": "Công nghệ gene",
+              "lesson_type": "ly_thuyet",
+              "file": "B05-Cong-nghe-gene.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                29,
+                33
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b06",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 6",
+              "number": 6,
+              "title": "Thực hành: Tách chiết DNA",
+              "lesson_type": "thuc_hanh",
+              "file": "B06-Thuc-hanh-Tach-chiet-DNA.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                34,
+                36
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c01",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 1",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-1.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                37,
+                37
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "c02",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 2",
+          "number": 2,
+          "title": "Di truyền nhiễm sắc thể",
+          "dir": "Chuong-02-Di-truyen-nhiem-sac-the",
+          "children": [
+            {
+              "id": "b07",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 7",
+              "number": 7,
+              "title": "Cấu trúc và chức năng của nhiễm sắc thể",
+              "lesson_type": "ly_thuyet",
+              "file": "B07-Cau-truc-va-chuc-nang-cua-nhiem-sac-the.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                38,
+                41
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b08",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 8",
+              "number": 8,
+              "title": "Học thuyết di truyền Mendel",
+              "lesson_type": "ly_thuyet",
+              "file": "B08-Hoc-thuyet-di-truyen-Mendel.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                42,
+                47
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b09",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 9",
+              "number": 9,
+              "title": "Mở rộng học thuyết Mendel",
+              "lesson_type": "ly_thuyet",
+              "file": "B09-Mo-rong-hoc-thuyet-Mendel.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                48,
+                51
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b10",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 10",
+              "number": 10,
+              "title": "Di truyền giới tính và di truyền liên kết với giới tính",
+              "lesson_type": "ly_thuyet",
+              "file": "B10-Di-truyen-gioi-tinh-va-di-truyen-lien-ket-voi-gioi.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                52,
+                55
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b11",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 11",
+              "number": 11,
+              "title": "Liên kết gene và hoán vị gene",
+              "lesson_type": "ly_thuyet",
+              "file": "B11-Lien-ket-gene-va-hoan-vi-gene.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                56,
+                61
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b12",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 12",
+              "number": 12,
+              "title": "Đột biến nhiễm sắc thể",
+              "lesson_type": "ly_thuyet",
+              "file": "B12-Dot-bien-nhiem-sac-the.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                62,
+                69
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b13",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 13",
+              "number": 13,
+              "title": "Di truyền học người và di truyền y học",
+              "lesson_type": "ly_thuyet",
+              "file": "B13-Di-truyen-hoc-nguoi-va-di-truyen-y-hoc.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                70,
+                76
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b14",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 14",
+              "number": 14,
+              "title": "Thực hành: Quan sát một số dạng đột biến nhiễm sắc thể",
+              "lesson_type": "thuc_hanh",
+              "file": "B14-Thuc-hanh-Quan-sat-mot-so-dang-dot-bien-nhiem-sac.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                77,
+                78
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c02",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 2",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-2.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                79,
+                79
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "c03",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 3",
+          "number": 3,
+          "title": "Mở rộng học thuyết di truyền nhiễm sắc thể",
+          "dir": "Chuong-03-Mo-rong-hoc-thuyet-di-truyen-nhiem-sac-the",
+          "children": [
+            {
+              "id": "b15",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 15",
+              "number": 15,
+              "title": "Di truyền gene ngoài nhân",
+              "lesson_type": "ly_thuyet",
+              "file": "B15-Di-truyen-gene-ngoai-nhan.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                80,
+                84
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b16",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 16",
+              "number": 16,
+              "title": "Tương tác giữa kiểu gene với môi trường và thành tựu chọn giống",
+              "lesson_type": "ly_thuyet",
+              "file": "B16-Tuong-tac-giua-kieu-gene-voi-moi-truong-va-thanh.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                85,
+                89
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b17",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 17",
+              "number": 17,
+              "title": "Thực hành: Thí nghiệm về thường biến ở cây trồng",
+              "lesson_type": "thuc_hanh",
+              "file": "B17-Thuc-hanh-Thi-nghiem-ve-thuong-bien-o-cay-trong.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                90,
+                91
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c03",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 3",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-3.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                92,
+                92
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "c04",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 4",
+          "number": 4,
+          "title": "Di truyền quần thể",
+          "dir": "Chuong-04-Di-truyen-quan-the",
+          "children": [
+            {
+              "id": "b18",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 18",
+              "number": 18,
+              "title": "Di truyền học quần thể",
+              "lesson_type": "ly_thuyet",
+              "file": "B18-Di-truyen-hoc-quan-the.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                93,
+                97
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c04",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 4",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-4.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                98,
+                98
+              ],
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần năm",
+      "number": 5,
+      "title": "Tiến hoá",
+      "dir": "Phan-05-Tien-hoa",
+      "children": [
+        {
+          "id": "c05",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 5",
+          "number": 5,
+          "title": "Bằng chứng và các học thuyết tiến hoá",
+          "dir": "Chuong-05-Bang-chung-va-cac-hoc-thuyet-tien-hoa",
+          "children": [
+            {
+              "id": "b19",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 19",
+              "number": 19,
+              "title": "Các bằng chứng tiến hoá",
+              "lesson_type": "ly_thuyet",
+              "file": "B19-Cac-bang-chung-tien-hoa.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                99,
+                102
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b20",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 20",
+              "number": 20,
+              "title": "Quan niệm của Darwin về chọn lọc tự nhiên và hình thành loài",
+              "lesson_type": "ly_thuyet",
+              "file": "B20-Quan-niem-cua-Darwin-ve-chon-loc-tu-nhien-va-hinh.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                103,
+                107
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b21",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 21",
+              "number": 21,
+              "title": "Học thuyết tiến hoá tổng hợp hiện đại",
+              "lesson_type": "ly_thuyet",
+              "file": "B21-Hoc-thuyet-tien-hoa-tong-hop-hien-dai.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                108,
+                114
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b22",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 22",
+              "number": 22,
+              "title": "Tiến hoá lớn và quá trình phát sinh chủng loại",
+              "lesson_type": "ly_thuyet",
+              "file": "B22-Tien-hoa-lon-va-qua-trinh-phat-sinh-chung-loai.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                115,
+                122
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c05",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 5",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-5.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                123,
+                123
+              ],
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần sáu",
+      "number": 6,
+      "title": "Sinh thái học và môi trường",
+      "dir": "Phan-06-Sinh-thai-hoc-va-moi-truong",
+      "children": [
+        {
+          "id": "c06",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 6",
+          "number": 6,
+          "title": "Môi trường và sinh thái học quần thể",
+          "dir": "Chuong-06-Moi-truong-va-sinh-thai-hoc-quan-the",
+          "children": [
+            {
+              "id": "b23",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 23",
+              "number": 23,
+              "title": "Môi trường và các nhân tố sinh thái",
+              "lesson_type": "ly_thuyet",
+              "file": "B23-Moi-truong-va-cac-nhan-to-sinh-thai.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                124,
+                129
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b24",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 24",
+              "number": 24,
+              "title": "Sinh thái học quần thể",
+              "lesson_type": "ly_thuyet",
+              "file": "B24-Sinh-thai-hoc-quan-the.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                130,
+                139
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b25",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 25",
+              "number": 25,
+              "title": "Thực hành: Xác định một số đặc trưng của quần thể",
+              "lesson_type": "thuc_hanh",
+              "file": "B25-Thuc-hanh-Xac-dinh-mot-so-dac-trung-cua-quan-the.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                140,
+                141
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c06",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 6",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-6.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                142,
+                142
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "c07",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 7",
+          "number": 7,
+          "title": "Sinh thái học quần xã",
+          "dir": "Chuong-07-Sinh-thai-hoc-quan-xa",
+          "children": [
+            {
+              "id": "b26",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 26",
+              "number": 26,
+              "title": "Quần xã sinh vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B26-Quan-xa-sinh-vat.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                143,
+                151
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b27",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 27",
+              "number": 27,
+              "title": "Thực hành: Tìm hiểu một số đặc trưng cơ bản của quần xã trong tự nhiên",
+              "lesson_type": "thuc_hanh",
+              "file": "B27-Thuc-hanh-Tim-hieu-mot-so-dac-trung-co-ban-cua.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                152,
+                153
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b28",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 28",
+              "number": 28,
+              "title": "Hệ sinh thái",
+              "lesson_type": "ly_thuyet",
+              "file": "B28-He-sinh-thai.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                154,
+                156
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b29",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 29",
+              "number": 29,
+              "title": "Trao đổi vật chất và chuyển hoá năng lượng trong hệ sinh thái",
+              "lesson_type": "ly_thuyet",
+              "file": "B29-Trao-doi-vat-chat-va-chuyen-hoa-nang-luong-trong.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                157,
+                162
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b30",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 30",
+              "number": 30,
+              "title": "Diễn thế sinh thái",
+              "lesson_type": "ly_thuyet",
+              "file": "B30-Dien-the-sinh-thai.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                163,
+                166
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b31",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 31",
+              "number": 31,
+              "title": "Sinh quyển, khu sinh học và chu trình sinh – địa – hoá",
+              "lesson_type": "ly_thuyet",
+              "file": "B31-Sinh-quyen-khu-sinh-hoc-va-chu-trinh-sinh-dia-hoa.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                167,
+                173
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b32",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 32",
+              "number": 32,
+              "title": "Thực hành: Thiết kế một hệ sinh thái nhân tạo",
+              "lesson_type": "thuc_hanh",
+              "file": "B32-Thuc-hanh-Thiet-ke-mot-he-sinh-thai-nhan-tao.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                174,
+                175
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c07",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 7",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-7.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                176,
+                176
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "c08",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 8",
+          "number": 8,
+          "title": "Sinh thái học phục hồi, bảo tồn và phát triển bền vững",
+          "dir": "Chuong-08-Sinh-thai-hoc-phuc-hoi-bao-ton-va-phat-trien-ben",
+          "children": [
+            {
+              "id": "b33",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 33",
+              "number": 33,
+              "title": "Sinh thái học phục hồi và bảo tồn đa dạng sinh vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B33-Sinh-thai-hoc-phuc-hoi-va-bao-ton-da-dang-sinh-vat.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                177,
+                181
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b34",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 34",
+              "number": 34,
+              "title": "Phát triển bền vững",
+              "lesson_type": "ly_thuyet",
+              "file": "B34-Phat-trien-ben-vung.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                182,
+                189
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b35",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 35",
+              "number": 35,
+              "title": "Dự án: Tìm hiểu thực trạng bảo tồn và phục hồi hệ sinh thái tại địa phương, đề xuất giải pháp bảo tồn",
+              "lesson_type": "du_an",
+              "file": "B35-Du-an-Tim-hieu-thuc-trang-bao-ton-va-phuc-hoi-he.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                190,
+                194
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c08",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 8",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-8.md",
+              "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+              "pdf_pages": [
+                195,
+                195
+              ],
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "giai-thich-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Giải thích một số thuật ngữ trong sách",
+      "file": "Giai-thich-mot-so-thuat-ngu-trong-sach.md",
+      "source_file": "SGK SINH HOC 12 - KNTT.pdf",
+      "pdf_pages": [
+        196,
+        197
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "Tên lấy theo trang mở đầu (in hoa), viết lại chữ thường theo cách viết hoa của mục lục; tên riêng giữ hoa (Mendel, Darwin, DNA).",
+    "Mục lục ghi số chương La Mã (Chương I–VIII); trang mở đầu ghi số Ả Rập (Chương 1–8) — theo trang mở đầu.",
+    "Mục lục ghi Bài 6 ở trang in 34; thực tế Bài 6 bắt đầu ở trang in 32 (PDF 34).",
+    "Tên trong mục lục khác trang mở đầu: Bài 5 \"Công nghệ di truyền\" → \"Công nghệ gene\"; Bài 8 \"Học thuyết di truyền của Mendel\" → \"Học thuyết di truyền Mendel\"; Bài 18 \"Di truyền quần thể\" → \"Di truyền học quần thể\"; Bài 25 \"Thực hành: Xác định khu vực phân bố, kiểu phân bố cá thể và ước tính kích thước, mật độ của quần thể thực vật hoặc động vật ít di chuyển\" → \"Thực hành: Xác định một số đặc trưng của quần thể\"; Bài 30 \"Diễn thế\" → \"Diễn thế sinh thái\"; Bài 33 \"… bảo tồn đa dạng\" → \"… bảo tồn đa dạng sinh vật\"; Bài 35 \"Dự án: Tìm hiểu thực trạng bảo tồn sinh thái tại địa phương và đề xuất giải pháp bảo tồn\" → \"Dự án: Tìm hiểu thực trạng bảo tồn và phục hồi hệ sinh thái tại địa phương, đề xuất giải pháp bảo tồn\".",
+    "Cuối mỗi chương có một trang \"Sơ đồ tóm tắt kiến thức chương N\" (PDF 37, 79, 92, 98, 123, 142, 176, 195) không có trong mục lục; ghi thành nút kind so_do_tom_tat.",
+    "Trang cuối sách: mục lục ghi \"Một số thuật ngữ sử dụng trong sách\" (trang in 194); trang thật ghi \"Giải thích một số thuật ngữ trong sách\" (PDF 196–197).",
+    "Bài 31: dấu gạch trong \"sinh – địa – hoá\" là gạch dài có cách hai bên, đọc ở 45–70 dpi; cần xác nhận lại khi làm Tầng 1.",
+    "Độ lệch trang +2 thống nhất từ PDF 4 (trang in 2) đến PDF 197 (trang in 195). PDF 1–3 và 198–199 là bìa, trang thẩm định, trang xuất bản — không đưa vào toc.",
+    "Chương 1 có 35 thuật ngữ described (nhãn <!-- term --> ở Tầng 1). Các thuật ngữ đã xét mà không tạo mục (helicase, primase, ligase, allolactose…) ghi kèm lý do trong mục \"Đã xét, không tạo mục\" của từ điển. Sách in \"β–galatosidase\": Tầng 1 giữ nguyên, từ điển viết đúng."
+  ],
+  "audits": [
+    {
+      "date": "2026-10-27",
+      "scope": [
+        "c01"
+      ],
+      "terms": 51,
+      "sample": 25,
+      "errors": 1,
+      "fixed": 1,
+      "note": "Mẫu 25/51 thuật ngữ có nguồn (20 ngẫu nhiên seed 12 + 5 trọng tâm: mã di truyền, NTBS, bộ ba kết thúc, Okazaki, đột biến điểm), đối chiếu giải nghĩa, trang PDF, trang in, mục với ảnh trang. 1 sai: 'Mạch liên tục' gán chiều 5'→3' riêng cho mạch liên tục, đã sửa theo nguyên văn. Lỗi công cụ phát hiện khi kiểm tra: export_unit.py ghi section null cho thuật ngữ sau hộp ❓ giữa mục (5/25 mục mẫu), đã sửa trước khi chốt. 8 mục Ngoài nguồn không lấy mẫu (không có định nghĩa)."
+    },
+    {
+      "date": "2026-10-27",
+      "scope": [
+        "c01"
+      ],
+      "terms": 28,
+      "sample": 12,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm tra bổ sung sau phương án A: 28 mục mới (26 described + 2 in_source từ tiêu đề in đậm Bài 4), mẫu 12 (8 ngẫu nhiên seed 12 + 4 trọng tâm: DNA polymerase, RNA polymerase, bộ ba mở đầu, tính thoái hoá), đối chiếu ảnh trang: 0 sai. Tổng Chương 1: 87 mục (51 in_source + 2 mới, 26 described, 8 Ngoài nguồn)."
+    },
+    {
+      "date": "2026-10-27",
+      "scope": [
+        "c01"
+      ],
+      "terms": 10,
+      "sample": 10,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm tra sau phương án A (tiêu chí khách quan + cổng độ phủ): 10 dòng mới (miRNA, siRNA, thuyết operon, β-galactosidase, permease, transacetylase, proto-oncogene, methyl hoá, dung dịch tẩy rửa) kiểm tra toàn bộ với ảnh PDF 19–24, 34: 0 sai. Sửa ghi chú sai trước đó: miRNA/siRNA CÓ trong SGK (Bài 2, Em có biết). Từ điển 96 mục; cổng 2b: 128/128 ứng viên đã xử lý."
+    },
+    {
+      "date": "2026-10-27",
+      "scope": [
+        "c02",
+        "c03",
+        "c04"
+      ],
+      "terms": 96,
+      "sample": 25,
+      "errors": 3,
+      "fixed": 3,
+      "note": "Đợt 2, lượt 1: mẫu 25/96 mục có nguồn (20 ngẫu nhiên seed 12 + 5 trọng tâm: định luật Hardy – Weinberg, quy luật phân li, tần số hoán vị gene, mức phản ứng, thể ba), đối chiếu ảnh trang PDF 38–95. 3 sai, đã sửa: (1) Bài 8 Tầng 1 chép sai câu 'Quy luật này phát biểu như sau' (pdf:46); (2) Phép lai kinh tế và (3) Quần thể giao phối gần: giải nghĩa rút gọn, bỏ cụm 'cũng có thể'/ngoặc của sách. 12% > 5% nên quét toàn bộ giải nghĩa Chương 2–4 bằng so khớp chuỗi con với Tầng 1: thêm 4 dòng rút gọn (trội không hoàn toàn, kiểu bố mẹ, tương tác giữa kiểu gene và môi trường, ưu thế lai) — đã sửa về nguyên văn."
+    },
+    {
+      "date": "2026-10-27",
+      "scope": [
+        "c02",
+        "c03",
+        "c04"
+      ],
+      "terms": 96,
+      "sample": 22,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Đợt 2, lượt 2 sau khi sửa: mẫu 22 (seed 34; 15 mục mới + 7 mục trùng lượt 1 kiểm lại sau sửa), đối chiếu ảnh PDF 38–196: 0 sai. Ghi chú nguồn Chương 2 (6 ghi chú, đều đóng) đã đối chiếu ảnh pdf:46, 63, 65, 70. Lỗi công cụ phát hiện khi xuất: export_unit.py tạo id trùng cho thuật ngữ Ngoài nguồn lặp ở từ 3 từ điển, đã sửa (hậu tố mã nhóm)."
+    },
+    {
+      "date": "2026-10-28",
+      "scope": [
+        "c05",
+        "c06",
+        "c07",
+        "c08"
+      ],
+      "terms": 88,
+      "sample": 25,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Đợt 3 (Chương 5–8): mẫu 25/88 mục có nguồn (20 ngẫu nhiên seed 56 + 5 trọng tâm: Cytochrome C, Chọn lọc tự nhiên, Quần thể sinh vật, Diễn thế sinh thái, Loài nguy cấp, quý, hiếm), đối chiếu giải nghĩa, trang PDF, trang in, mục với ảnh trang SGK: 0 sai. Toàn bộ 8 từ điển Chương 1–8 đạt Cổng 2 và Cổng 2b (23/23 mục tra cứu cuối sách được bao phủ). Cổng 3 xuất dataset/sinh_12.json đạt chuẩn schema. Đổi toàn bộ các bài của Chương 5–8 sang verified."
+    }
+  ],
+  "last_session_note": "2026-10-28: Hoàn thành 100% bộ sách Sinh học 12 (Chương 1–8, Bài 1–35, 8 sơ đồ tóm tắt và bảng giải thích thuật ngữ cuối sách). Đạt Cổng 0, Cổng 1, Cổng 2 & 2b (8 từ điển Tầng 2, 294 thuật ngữ), Cổng 3 (dataset/sinh_12.json hợp lệ schema). Kiểm tra mẫu Đợt 3 đạt 0 lỗi (0%). Tất cả 43 bài đạt trạng thái verified."
+}
