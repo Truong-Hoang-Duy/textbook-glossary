@@ -514,7 +514,7 @@
             110,
             117
           ],
-          "status": "pending"
+          "status": "layer2"
         },
         {
           "id": "b25",
@@ -530,7 +530,7 @@
             118,
             127
           ],
-          "status": "pending"
+          "status": "layer2"
         },
         {
           "id": "b26",
@@ -546,7 +546,7 @@
             128,
             129
           ],
-          "status": "pending"
+          "status": "layer2"
         }
       ]
     },
@@ -650,5 +650,5 @@
     "Từ Chương 5, sau cổng 1 chạy thêm phép rà từng từ có dấu so với OCR (script tạm ngoài repo) để bắt lỗi chép mà phép so bigram không bắt được (đã phát hiện và sửa \"đồng vai trò\" → \"đóng vai trò\" ở Bài 16); đã rà lại Chương 1–4, không thấy lỗi chép."
   ],
   "audits": [],
-  "last_session_note": "2026-10-29: Hoàn thành Chương 6 (Bài 18–23, PDF 89–109) Tầng 1 và Tầng 2 (layer2). Khai báo 11 hình minh hoạ sạch biên (crop_figures exit 0). Cổng 1 (check_lesson.py) ĐẠT 0 lỗi trên cả 6 bài; đã rà soát chính tả từng từ có dấu so với OCR. Viết Tu-dien-Hoa-hoc-12-Chuong-6.md gồm 25 thuật ngữ (6 mô tả, 3 ngoài nguồn, 0 ghi chú mở). Cổng 2 (check_dict.py) và cổng 2b (check_coverage.py) ĐẠT 0 lỗi, 0 cờ, 0 ứng viên chưa xử lý. Tạm thời chưa commit theo yêu cầu người dùng."
+  "last_session_note": "2026-10-29: Hoàn thành Chương 7 (Bài 24–26, PDF 110–129) Tầng 1 và Tầng 2 (layer2). Khai báo 7 hình minh hoạ sạch biên 0 ink (crop_figures exit 0). Cổng 1 (check_lesson.py) ĐẠT 0 lỗi trên cả 3 bài (b24, b25, b26); rà soát chính tả từng từ có dấu so với OCR. Viết Tu-dien-Hoa-hoc-12-Chuong-7.md gồm 18 thuật ngữ (11 mô tả, 0 ngoài nguồn, 0 ghi chú mở). Cổng 2 (check_dict.py) và cổng 2b (check_coverage.py) ĐẠT 0 lỗi, 0 cờ, 0 ứng viên chưa xử lý."
 }
