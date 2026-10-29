@@ -1,0 +1,13 @@
+{
+  "H12-hoa-b18-01": { "pdf_page": 90, "bbox": [380, 318, 556, 464] },
+  "H12-hoa-b19-01": { "pdf_page": 91, "bbox": [90, 585, 472, 714] },
+  "H12-hoa-b19-02": { "pdf_page": 92, "bbox": [302, 110, 540, 248] },
+  "H12-hoa-b20-01": { "pdf_page": 96, "bbox": [150, 488, 440, 595] },
+  "H12-hoa-b20-02": { "pdf_page": 98, "bbox": [375, 460, 530, 610] },
+  "H12-hoa-b21-01": { "pdf_page": 102, "bbox": [164, 614, 441, 770] },
+  "H12-hoa-b22-01": { "pdf_page": 104, "bbox": [120, 463, 470, 612] },
+  "H12-hoa-b22-02": { "pdf_page": 105, "bbox": [348, 138, 520, 308], "allow_edge_ink": true, "edge_ink_note": "Hình 22.2 gồm ống nghiệm (bên phải) và dòng chú thích 'Hình 22.2. Thí nghiệm...' dài sang trái; cạnh trái khung chạm chữ phần Tiến hành phía trên" },
+  "H12-hoa-b22-03": { "pdf_page": 105, "bbox": [145, 442, 435, 574] },
+  "H12-hoa-b22-04": { "pdf_page": 106, "bbox": [360, 640, 520, 776] },
+  "H12-hoa-b22-05": { "pdf_page": 107, "bbox": [90, 174, 516, 385] }
+}
