@@ -80,7 +80,7 @@
             8,
             15
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b02",
@@ -96,7 +96,7 @@
             16,
             19
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b03",
@@ -112,7 +112,7 @@
             20,
             21
           ],
-          "status": "layer2"
+          "status": "verified"
         }
       ]
     },
@@ -139,7 +139,7 @@
             22,
             26
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b05",
@@ -155,7 +155,7 @@
             27,
             29
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b06",
@@ -171,7 +171,7 @@
             30,
             34
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b07",
@@ -187,7 +187,7 @@
             35,
             36
           ],
-          "status": "layer2"
+          "status": "verified"
         }
       ]
     },
@@ -214,7 +214,7 @@
             37,
             42
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b09",
@@ -230,7 +230,7 @@
             43,
             47
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b10",
@@ -246,7 +246,7 @@
             48,
             50
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b11",
@@ -262,7 +262,7 @@
             51,
             52
           ],
-          "status": "layer2"
+          "status": "verified"
         }
       ]
     },
@@ -289,7 +289,7 @@
             53,
             57
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b13",
@@ -305,7 +305,7 @@
             58,
             66
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b14",
@@ -321,7 +321,7 @@
             67,
             68
           ],
-          "status": "layer2"
+          "status": "verified"
         }
       ]
     },
@@ -348,7 +348,7 @@
             69,
             79
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b16",
@@ -364,7 +364,7 @@
             80,
             86
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b17",
@@ -380,7 +380,7 @@
             87,
             88
           ],
-          "status": "layer2"
+          "status": "verified"
         }
       ]
     },
@@ -407,7 +407,7 @@
             89,
             90
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b19",
@@ -423,7 +423,7 @@
             91,
             95
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b20",
@@ -439,7 +439,7 @@
             96,
             100
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b21",
@@ -455,7 +455,7 @@
             101,
             103
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b22",
@@ -471,7 +471,7 @@
             104,
             107
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b23",
@@ -487,7 +487,7 @@
             108,
             109
           ],
-          "status": "layer2"
+          "status": "verified"
         }
       ]
     },
@@ -514,7 +514,7 @@
             110,
             117
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b25",
@@ -530,7 +530,7 @@
             118,
             127
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b26",
@@ -546,7 +546,7 @@
             128,
             129
           ],
-          "status": "layer2"
+          "status": "verified"
         }
       ]
     },
@@ -573,7 +573,7 @@
             130,
             135
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b28",
@@ -589,7 +589,7 @@
             136,
             139
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b29",
@@ -605,7 +605,7 @@
             140,
             143
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b30",
@@ -621,7 +621,7 @@
             144,
             145
           ],
-          "status": "layer2"
+          "status": "verified"
         }
       ]
     }
@@ -649,6 +649,25 @@
     "Sơ đồ điện phân dạng đường kẻ (Dung dịch … / Anode (+) … / Cathode (–) …) chép thành dòng chữ theo thứ tự đọc; phương trình có hệ số 1/2 viết $\\ce{1/2O2}$.",
     "Từ Chương 5, sau cổng 1 chạy thêm phép rà từng từ có dấu so với OCR (script tạm ngoài repo) để bắt lỗi chép mà phép so bigram không bắt được (đã phát hiện và sửa \"đồng vai trò\" → \"đóng vai trò\" ở Bài 16); đã rà lại Chương 1–4, không thấy lỗi chép."
   ],
-  "audits": [],
-  "last_session_note": "2026-10-29: Hoàn thành Chương 8 (Bài 27–30, PDF 130–145) Tầng 1 và Tầng 2 (layer2). Khai báo 5 hình minh hoạ sạch biên 0 ink (crop_figures exit 0). Cổng 1 (check_lesson.py) ĐẠT 0 lỗi trên cả 4 bài (b27, b28, b29, b30); rà soát chính tả từng từ có dấu so với OCR. Viết Tu-dien-Hoa-hoc-12-Chuong-8.md gồm 14 thuật ngữ (8 mô tả, 0 ngoài nguồn, 0 ghi chú mở). Cổng 2 (check_dict.py) và cổng 2b (check_coverage.py) ĐẠT 0 lỗi, 0 cờ, 0 ứng viên chưa xử lý."
+  "audits": [
+    {
+      "date": "2026-10-29",
+      "scope": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "c07",
+        "c08"
+      ],
+      "terms": 213,
+      "sample": 25,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Cổng 4: Mẫu kiểm tra 25/188 mục có nguồn (in_source + described) lấy ngẫu nhiên có kiểm soát theo audit_focus (10 cong_thuc có \\ce{...}, 8 mo_ta, 7 hinh minh hoạ/thí nghiệm), phủ đều 8 chương. Đối chiếu định nghĩa, công thức hoá học từng kí tự, số trang PDF, trang in và số mục với ảnh SGK gốc: 0 sai (tỉ lệ lỗi 0%). Cổng 3 export_unit.py xuất dataset/hoa_12.json đạt chuẩn unit.schema.json với 213 thuật ngữ (65 mô tả, 25 ngoài nguồn, 0 ghi chú mở). Đổi toàn bộ 30 bài học của bộ môn Hoá 12 sang trạng thái verified."
+    }
+  ],
+  "last_session_note": "2026-10-29: Hoàn thành toàn bộ SGK Hoá học 12 (KNTT) gồm 8 chương (30 bài học). Xuất thành công textbook/dataset/hoa_12.json qua Cổng 3 (213 thuật ngữ, 65 mô tả, 25 ngoài nguồn, 0 ghi chú mở). Cổng 4 kiểm toán mẫu 25 thuật ngữ đại diện đạt 0 lỗi (0%). Đã chuyển toàn bộ 30 bài học sang trạng thái verified."
 }
