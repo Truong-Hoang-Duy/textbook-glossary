@@ -80,7 +80,7 @@
             8,
             15
           ],
-          "status": "pending"
+          "status": "layer2"
         },
         {
           "id": "b02",
@@ -96,7 +96,7 @@
             16,
             19
           ],
-          "status": "pending"
+          "status": "layer2"
         },
         {
           "id": "b03",
@@ -112,7 +112,7 @@
             20,
             21
           ],
-          "status": "pending"
+          "status": "layer2"
         }
       ]
     },
@@ -139,7 +139,7 @@
             22,
             26
           ],
-          "status": "pending"
+          "status": "layer2"
         },
         {
           "id": "b05",
@@ -155,7 +155,7 @@
             27,
             29
           ],
-          "status": "pending"
+          "status": "layer2"
         },
         {
           "id": "b06",
@@ -171,7 +171,7 @@
             30,
             34
           ],
-          "status": "pending"
+          "status": "layer2"
         },
         {
           "id": "b07",
@@ -187,7 +187,7 @@
             35,
             36
           ],
-          "status": "pending"
+          "status": "layer2"
         }
       ]
     },
@@ -214,7 +214,7 @@
             37,
             42
           ],
-          "status": "pending"
+          "status": "layer2"
         },
         {
           "id": "b09",
@@ -230,7 +230,7 @@
             43,
             47
           ],
-          "status": "pending"
+          "status": "layer2"
         },
         {
           "id": "b10",
@@ -246,7 +246,7 @@
             48,
             50
           ],
-          "status": "pending"
+          "status": "layer2"
         },
         {
           "id": "b11",
@@ -262,7 +262,7 @@
             51,
             52
           ],
-          "status": "pending"
+          "status": "layer2"
         }
       ]
     },
@@ -289,7 +289,7 @@
             53,
             57
           ],
-          "status": "pending"
+          "status": "layer2"
         },
         {
           "id": "b13",
@@ -305,7 +305,7 @@
             58,
             66
           ],
-          "status": "pending"
+          "status": "layer2"
         },
         {
           "id": "b14",
@@ -321,7 +321,7 @@
             67,
             68
           ],
-          "status": "pending"
+          "status": "layer2"
         }
       ]
     },
@@ -348,7 +348,7 @@
             69,
             79
           ],
-          "status": "pending"
+          "status": "layer2"
         },
         {
           "id": "b16",
@@ -364,7 +364,7 @@
             80,
             86
           ],
-          "status": "pending"
+          "status": "layer2"
         },
         {
           "id": "b17",
@@ -380,7 +380,7 @@
             87,
             88
           ],
-          "status": "pending"
+          "status": "layer2"
         }
       ]
     },
@@ -635,8 +635,20 @@
     "Ánh xạ khung của sách sang Tầng 1: khung \"MỤC TIÊU\" → \"## 🎯 Mục tiêu\"; khung câu hỏi gợi mở đầu bài (biểu tượng ? cam) → \"## 🔴 Mở đầu\"; \"EM ĐÃ HỌC\" → \"## 📌 Em đã học\"; \"EM CÓ THỂ\" → \"## ✏️ Em có thể\".",
     "Hộp nằm giữa một mục (Hoạt động nghiên cứu — bàn tay, Hoạt động thí nghiệm — bình thí nghiệm, Câu hỏi và bài tập — dấu ? xanh, EM CÓ BIẾT) chép thành trích dẫn \"> \", dòng đầu mở bằng biểu tượng (\"> ✋ \", \"> 🧪 \", \"> ❓ \", \"> 💡 EM CÓ BIẾT\"), tên hộp không in đậm. Không dùng heading cho các hộp này vì nội dung mục vẫn tiếp tục sau hộp (heading hộp làm mất section của đoạn phía sau khi xuất JSON).",
     "Sách in thuật ngữ được định nghĩa bằng chữ nghiêng (\"Lipid là…\", \"Chất béo là…\"), không in đậm: Tầng 1 viết ***thuật ngữ*** (đậm + nghiêng) tại câu định nghĩa để giữ chữ nghiêng của sách và đánh dấu thuật ngữ theo spec 4.3.",
-    "Công thức dạng dòng (CH3COOC2H5, phương trình có điều kiện trên mũi tên) viết $\\ce{…}$ theo hồ sơ hoa. Công thức cấu tạo vẽ hai chiều (liên kết dọc, vòng benzene, sơ đồ tô màu như R–C(=O)–O–R') không chép được thành dòng: cắt thành hình (kể cả khi sách không đánh số hình) và ghi rõ trong bảng 📷."
+    "Công thức viết $\\ce{…}$ theo hồ sơ hoa. Công thức cấu tạo thu gọn in hai chiều nhưng viết được thành dòng (R–C(=O)–O–R', phương trình thuỷ phân, ester hoá) chép bằng \\ce với nhóm (=O); tên chất in dưới công thức viết bằng \\underset{\\text{…}}. Chỉ cắt thành hình khi không viết được thành dòng: vòng benzene, mạch zigzag, công thức dọc (chất béo), sơ đồ tô màu; hình không số ghi \\\"(sách không đánh số, không có chú thích)\\\" trong bảng 📷. Nhãn chữ của sơ đồ vẫn chép thành dòng dưới ảnh.",
+    "Từ điển (quyết định của người dùng, 2026-10-29): cột 2 giữ \"Tiếng Anh\" (khoá english) theo _default, không thêm dictionary_columns vào hồ sơ hoa. Công thức của chất ghi ở cột 1 thành tên phụ trong ngoặc (ví dụ: Ethyl acetate ($\\ce{CH3COOC2H5}$)) hoặc giữ nguyên văn trong câu giải nghĩa ở cột 3.",
+    "Phương trình đứng riêng một dòng viết trong một cặp $…$ (không dùng $$…$$), vì bộ tách token của check_lesson.py chỉ bỏ qua LaTeX dạng $…$.",
+    "Bài Ôn tập: sơ đồ \"Hệ thống hoá kiến thức\" cắt nguyên trang thành một hình, các nhánh chép thành danh sách lồng nhau dưới ảnh. Nhãn câu \"Câu N.\" ở mục Luyện tập (sách in đậm màu xanh) chép không in đậm, để check_coverage.py không coi là ứng viên thuật ngữ.",
+    "Lỗi in Bài 3 (PDF 20, sơ đồ hệ thống hoá): phản ứng thuỷ phân ester trong môi trường acid in sản phẩm là \"RCOOR + R'OH\" (đúng ra RCOOH); Tầng 1 giữ nguyên như in, có ghi chú trong bài. Tầng 2 không lấy công thức từ chỗ này.",
+    "Từ Chương 2, sách tô màu xanh (không in nghiêng) thuật ngữ tại câu định nghĩa (Monosaccharide, Disaccharide, Polysaccharide); Tầng 1 in đậm như các thuật ngữ khác. Câu định nghĩa không được sách làm nổi bật (Carbohydrate là…, Tinh bột là…, Cellulose là…) vẫn in đậm theo spec 4.3.",
+    "Hình nằm sát chữ đoạn văn: H12-hoa-b04-02 (fructose, PDF 23) lấy kèm chữ \"vòng.\" vì nhãn OH của hình nằm ngang hàng với dòng chữ; H12-hoa-b06-03 (cellulose, PDF 31) cạnh trái cắt qua 1 điểm nét đứt mở đầu mạch — người dùng chọn (2026-10-29) khai báo \"allow_edge_ink\" + \"edge_ink_note\" trong figures.json, crop_figures.py chỉ cảnh báo (spec 4.4).",
+    "Sơ đồ có nhãn chữ in sát dòng văn bản (H12-hoa-b08-03, b08-04, b09-03, b10-01): khung lấy kèm trọn dòng chữ liền kề thay vì cắt ngang chữ; đã ghi trong bảng 📷 của bài. Bảng 9.1 và bảng hệ thống hoá Bài 11 chép thành bảng Markdown (đối chiếu từng ô ở 170 dpi), không cắt hình.",
+    "check_dict.split_term chỉ tách tên phụ khi có dấu cách trước \"(\" (sửa 2026-10-29), để tên có ngoặc liền chữ như \"Keo dán poly(urea-formaldehyde)\" không bị tách; đã kiểm tra sinh_12 xuất ra giống hệt trước khi sửa.",
+    "Bài 13 (PDF 61, Hình 13.2): nhãn ba ô sơ đồ phân loại tơ (TƠ TỰ NHIÊN, TƠ TỔNG HỢP, TƠ BÁN TỔNG HỢP) là câu sách nêu khái niệm từng loại; Tầng 1 in đậm nhãn trong danh sách chép dưới ảnh. Nhãn mục a)/b)/c) của sách (Tơ tự nhiên…, Cao su buna…) là tiêu đề in đậm.",
+    "Chương 5: ba hình khai báo allow_edge_ink vì không có khung chữ nhật sạch (H12-hoa-b15-01 ảnh sát chữ khung Mở đầu; b15-03 dây điện cực chạm dòng chữ phía trên; b15-09 gồm Hình 15.6 và 15.7 xếp sát nhau, cắt chung một ảnh). Bảng 15.1 vừa cắt hình vừa chép bảng Markdown (đối chiếu từng giá trị ở 150 dpi); hai nhãn chữ dọc trên hai cột mũi tên chép thành một dòng dưới bảng.",
+    "Sơ đồ điện phân dạng đường kẻ (Dung dịch … / Anode (+) … / Cathode (–) …) chép thành dòng chữ theo thứ tự đọc; phương trình có hệ số 1/2 viết $\\ce{1/2O2}$.",
+    "Từ Chương 5, sau cổng 1 chạy thêm phép rà từng từ có dấu so với OCR (script tạm ngoài repo) để bắt lỗi chép mà phép so bigram không bắt được (đã phát hiện và sửa \"đồng vai trò\" → \"đóng vai trò\" ở Bài 16); đã rà lại Chương 1–4, không thấy lỗi chép."
   ],
   "audits": [],
-  "last_session_note": "2026-10-29: xong Giai đoạn 1 (hồ sơ hoa đã kiểm chứng trên Bài 1–2, progress.json, cache OCR 147 trang). Tiếp theo: Giai đoạn 2, Tầng 1 từ Bài 1."
+  "last_session_note": "2026-10-29 (kết thúc phiên, đã commit): Chương 1–5 (Bài 1–17) xong Tầng 1 + Tầng 2 (layer2); 5 từ điển, 156 thuật ngữ; cổng 1, 2, 2b sạch; crop_figures.py exit 0 cho cả 5 chương. Tiếp theo: Chương 6 (Bài 18–23, PDF 89–109), làm theo đúng các quy ước trong notes (hộp chép thành trích dẫn \"> ✋/🧪/❓/💡\", thuật ngữ sách in nghiêng/tô màu tại câu định nghĩa viết in đậm, công thức $\\ce{…}$ trong một cặp $…$, allow_edge_ink chỉ khi không có khung sạch). Sau cổng 1 nên rà từng từ có dấu so với OCR để bắt lỗi chép (cổng 1 không bắt được lỗi một chữ). Chưa làm cổng 3 (export_unit.py) và cổng 4 cho hoa_12."
 }

@@ -1,0 +1,18 @@
+{
+  "H12-hoa-b04-01": { "pdf_page": 23, "bbox": [105, 421, 537, 548] },
+  "H12-hoa-b04-02": { "pdf_page": 23, "bbox": [113, 596, 529, 724] },
+  "H12-hoa-b04-03": { "pdf_page": 24, "bbox": [404, 86, 504, 166] },
+  "H12-hoa-b04-04": { "pdf_page": 25, "bbox": [138, 568, 492, 667] },
+  "H12-hoa-b04-05": { "pdf_page": 26, "bbox": [64, 282, 534, 328] },
+  "H12-hoa-b05-01": { "pdf_page": 27, "bbox": [174, 396, 421, 496] },
+  "H12-hoa-b05-02": { "pdf_page": 27, "bbox": [66, 543, 518, 652] },
+  "H12-hoa-b05-03": { "pdf_page": 28, "bbox": [388, 623, 532, 745] },
+  "H12-hoa-b05-04": { "pdf_page": 29, "bbox": [145, 169, 440, 343] },
+  "H12-hoa-b06-01": { "pdf_page": 30, "bbox": [115, 498, 482, 582] },
+  "H12-hoa-b06-02": { "pdf_page": 30, "bbox": [228, 590, 543, 766] },
+  "H12-hoa-b06-03": { "pdf_page": 31, "bbox": [269, 40, 567, 186], "allow_edge_ink": true, "edge_ink_note": "Đoạn văn căn đều bên trái chạy sát hình; cạnh trái cắt qua 1 điểm của nét đứt mở đầu mạch, mở rộng khung sẽ dính chữ đoạn văn (quyết định người dùng 2026-10-29)" },
+  "H12-hoa-b06-04": { "pdf_page": 32, "bbox": [393, 61, 532, 133] },
+  "H12-hoa-b06-05": { "pdf_page": 33, "bbox": [384, 580, 532, 717] },
+  "H12-hoa-b06-06": { "pdf_page": 34, "bbox": [397, 268, 530, 373] },
+  "H12-hoa-b07-01": { "pdf_page": 35, "bbox": [55, 174, 551, 775] }
+}

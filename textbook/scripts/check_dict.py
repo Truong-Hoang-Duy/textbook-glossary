@@ -39,8 +39,12 @@ def norm(text):
 
 
 def split_term(cell):
-    """'Điểm khởi đầu sao chép (Ori)' -> ('Điểm khởi đầu sao chép', ['Ori'])."""
-    m = re.fullmatch(r"(.+?)\s*\((.+)\)", cell.strip())
+    """'Điểm khởi đầu sao chép (Ori)' -> ('Điểm khởi đầu sao chép', ['Ori']).
+
+    Tên phụ phải cách tên chính bằng dấu cách, để tên có ngoặc liền chữ như 'Keo dán poly(urea-formaldehyde)'
+    không bị tách.
+    """
+    m = re.fullmatch(r"(.+?)\s+\((.+)\)", cell.strip())
     if not m:
         return cell.strip(), []
     return m.group(1).strip(), [a.strip() for a in re.split(r"[;,]", m.group(2)) if a.strip()]

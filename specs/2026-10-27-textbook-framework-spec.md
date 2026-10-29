@@ -221,7 +221,7 @@ Trang in xoay ngang (sơ đồ tóm tắt cuối chương): khai báo `"rotate":
 - Trong bài vẫn chép chú thích thành chữ ngay dưới ảnh (để tìm kiếm và kiểm tra OCR), dù ảnh đã có chú thích.
 - **Cách đo và kiểm tra** (bắt buộc theo thứ tự):
   1. `crop_figures.py <unit> --grid <trang>` vẽ lưới 10 pt ở 100 dpi vào `cache/figures/<unit>/grid_pNNN.png`. Đọc bbox trên lưới này, không ước lượng trên ảnh độ phân giải thấp.
-  2. `crop_figures.py <unit> <thư mục nhóm>` cắt với khung = bbox + lề 4 pt và kiểm tra **cả bốn cạnh khung phải nằm trên nền trắng**. Cạnh nào đi qua nét vẽ (hình bị cắt mất, hoặc khung chạm chú thích/chữ bên cạnh) thì script báo lỗi; sửa bbox rồi chạy lại đến khi hết lỗi.
+  2. `crop_figures.py <unit> <thư mục nhóm>` cắt với khung = bbox + lề 4 pt và kiểm tra **cả bốn cạnh khung phải nằm trên nền trắng**. Cạnh nào đi qua nét vẽ (hình bị cắt mất, hoặc khung chạm chú thích/chữ bên cạnh) thì script báo lỗi; sửa bbox rồi chạy lại đến khi hết lỗi. Ngoại lệ duy nhất: khi không có khung chữ nhật nào vừa đủ hình mà không dính chữ đoạn văn bên cạnh (chữ chạy sát hình), thêm vào hình đó `"allow_edge_ink": true` kèm `"edge_ink_note": "<lý do>"`; script chỉ in cảnh báo. Ghi lý do cả trong cột Vị trí của bảng 📷.
   3. Xem ảnh kiểm tra `cache/figures/<unit>/<mã>.png` (toàn trang, khung đỏ) **ở độ phân giải đủ đọc nhãn**, không chỉ xem ảnh đã cắt thu nhỏ. Kiểm tra hai điều: không mất nét hay nhãn nào ở mép, và **chú thích (hoặc tiêu đề bảng) nằm trọn trong khung**.
 - Không lấy hình từ nguồn khác (kể cả `_SGK-Nguyen-ban`): hình phải cắt từ đúng file PDF trong `sgk/`, vì bản khác có thể khác nhãn và chú thích.
 - Tên file hình: `H<lop>-<mon>-<id bài>-<stt>.png`, ví dụ `H12-sinh-b01-01.png`, `H12-tieng_anh-u01-l1-01.png`.

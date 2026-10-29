@@ -6,6 +6,8 @@
 <thư mục nhóm> tính từ thư mục bộ, ví dụ Phan-04-Di-truyen-hoc/Chuong-01-Di-truyen-phan-tu.
 figures.json: { "<mã hình>": {"pdf_page": N, "bbox": [x0, y0, x1, y1]} }, đơn vị point của PDF.
 Khoá tuỳ chọn "rotate": 90 | 180 | 270 xoay ảnh cắt theo chiều kim đồng hồ (trang in xoay ngang).
+Khoá tuỳ chọn "allow_edge_ink": true kèm "edge_ink_note": "<lý do>" (bắt buộc): chấp nhận cạnh khung cắt qua nét vẽ,
+chỉ in cảnh báo. Chỉ dùng khi không có khung chữ nhật nào vừa đủ hình mà không dính chữ đoạn văn bên cạnh.
 
 Quy trình:
   1. --grid: vẽ lưới 10 pt lên trang (100 dpi) ở cache/figures/<unit>/grid_pNNN.png để đo bbox.
@@ -149,7 +151,14 @@ def main():
         pix = page.get_pixmap(matrix=mat, clip=box)
         pix.save(folder / "img" / f"{fig_id}.png")
         save_check(page, box, check_dir / f"{fig_id}.png")
-        if bad:
+        if bad and spec.get("allow_edge_ink"):
+            if not str(spec.get("edge_ink_note", "")).strip():
+                errors += 1
+                print(f"lỗi: {fig_id}: có allow_edge_ink nhưng thiếu edge_ink_note (ghi lý do)")
+            else:
+                print(f"cảnh báo: {fig_id}: trang {spec['pdf_page']}, cạnh khung cắt qua nét vẽ: {', '.join(bad)}"
+                      f" — chấp nhận theo allow_edge_ink: {spec['edge_ink_note']}")
+        elif bad:
             errors += 1
             print(f"lỗi: {fig_id}: trang {spec['pdf_page']}, cạnh khung cắt qua nét vẽ: {', '.join(bad)} — sửa bbox")
         else:

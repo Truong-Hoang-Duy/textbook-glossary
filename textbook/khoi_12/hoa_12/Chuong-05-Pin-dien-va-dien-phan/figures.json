@@ -1,0 +1,20 @@
+{
+  "H12-hoa-b15-01": { "pdf_page": 69, "bbox": [372, 436, 530, 532], "allow_edge_ink": true, "edge_ink_note": "Ảnh nằm sát lề phải đoạn văn trong khung Mở đầu, không có cột trắng giữa chữ và ảnh; cạnh trái chạm vài điểm của chữ cuối dòng" },
+  "H12-hoa-b15-02": { "pdf_page": 69, "bbox": [385, 587, 523, 762] },
+  "H12-hoa-b15-03": { "pdf_page": 71, "bbox": [119, 167, 493, 298], "allow_edge_ink": true, "edge_ink_note": "Dây dẫn của hai điện cực kéo dài lên sát dòng chữ phía trên; cạnh trên cắt qua 2 điểm của dây dẫn" },
+  "H12-hoa-b15-04": { "pdf_page": 71, "bbox": [357, 327, 523, 476] },
+  "H12-hoa-b15-05": { "pdf_page": 72, "bbox": [64, 64, 536, 734] },
+  "H12-hoa-b15-06": { "pdf_page": 73, "bbox": [388, 313, 523, 435] },
+  "H12-hoa-b15-07": { "pdf_page": 73, "bbox": [78, 642, 529, 731] },
+  "H12-hoa-b15-08": { "pdf_page": 74, "bbox": [78, 493, 520, 542] },
+  "H12-hoa-b15-09": { "pdf_page": 75, "bbox": [338, 186, 530, 508], "allow_edge_ink": true, "edge_ink_note": "Hình 15.6 và 15.7 xếp sát nhau (cắt chung một ảnh) và nằm cạnh phương trình, câu chữ của hộp hoạt động; nhãn Dung dịch ZnSO4 của Hình 15.7 lấn sang trái ngang hàng chữ phía trên nên không có cạnh trái sạch" },
+  "H12-hoa-b15-10": { "pdf_page": 75, "bbox": [249, 537, 518, 757] },
+  "H12-hoa-b15-11": { "pdf_page": 76, "bbox": [68, 535, 527, 760] },
+  "H12-hoa-b15-12": { "pdf_page": 77, "bbox": [310, 77, 526, 272] },
+  "H12-hoa-b15-13": { "pdf_page": 77, "bbox": [75, 470, 501, 640] },
+  "H12-hoa-b16-01": { "pdf_page": 80, "bbox": [410, 396, 518, 581] },
+  "H12-hoa-b16-02": { "pdf_page": 82, "bbox": [196, 264, 399, 471] },
+  "H12-hoa-b16-03": { "pdf_page": 83, "bbox": [388, 180, 529, 396] },
+  "H12-hoa-b16-04": { "pdf_page": 84, "bbox": [78, 642, 485, 767] },
+  "H12-hoa-b16-05": { "pdf_page": 85, "bbox": [385, 542, 529, 737] }
+}
