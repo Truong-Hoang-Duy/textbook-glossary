@@ -104,6 +104,7 @@ python textbook/scripts/export_unit.py <unit>                                # c
 | Bộ | Trạng thái | Ghi chú |
 |---|---|---|
 | `sinh_12` | Hoàn thành 100% (43 bài Tầng 1 verified; 8 từ điển Tầng 2 với 294 thuật ngữ: 139 định nghĩa, 133 mô tả, 22 Ngoài nguồn, 28 ghi chú nguồn đóng, 100% độ phủ; dataset/sinh_12.json đạt chuẩn; kiểm tra mẫu cuối 0% lỗi — 2026-10-28) | SGK sách ảnh, trang PDF = trang in + 2. Đầy đủ 3 Phần, 8 chương, 35 bài học, 8 sơ đồ tóm tắt kiến thức chương và bảng tra cứu thuật ngữ cuối sách. Toàn bộ hình vẽ được trích xuất sạch biên (0 edge ink). Plan: [plans/2026-10-26-bio12-extraction-plan.md](plans/2026-10-26-bio12-extraction-plan.md) |
+| `hoa_12` | Đang dựng khung: xong Giai đoạn 1 (hồ sơ `hoa` đã kiểm chứng, `progress.json` 8 chương / 30 bài pending, cache OCR 147 trang — 2026-10-29) | SGK sách ảnh, trang PDF = trang in + 2. Chương → Bài, mỗi chương kết thúc bằng bài Ôn tập có số; không có bảng tra cứu thuật ngữ. Công thức hoá học viết `$\ce{…}$`; ánh xạ hộp và quy ước riêng ghi trong `notes` của `progress.json` |
 
 Các bộ khác chưa bắt đầu.
 

@@ -1,6 +1,6 @@
 {
-  "status": "chua_khao_sat",
-  "verified_on": null,
+  "status": "da_kiem_chung",
+  "verified_on": "hoa_12, 2026-10-29",
   "profile": "hoa",
   "subjects": [
     "hoa"
@@ -9,29 +9,29 @@
     {
       "prefix": "## ",
       "regex": "^([IVX]+)\\. ",
-      "example": "## I. CHỨC NĂNG CỦA DNA"
+      "example": "## I. ESTER"
     },
     {
       "prefix": "### ",
       "regex": "^(\\d+)\\. ",
-      "example": "### 1. Khởi đầu sao chép"
+      "example": "### 1. Khái niệm"
     },
     {
       "prefix": "**",
       "regex": "^([a-z])\\) ",
-      "example": "**a) mRNA**"
+      "example": "**a) Phản ứng thuỷ phân ester trong môi trường acid**"
     }
   ],
   "formula": "latex_mhchem",
   "audit_focus": [
     "cong_thuc",
-    "mo_ta"
+    "mo_ta",
+    "hinh"
   ],
   "conventions": [
-    "Công thức và phương trình hoá học viết bằng \\ce{…} (mhchem)."
+    "Công thức và phương trình hoá học viết bằng $\\ce{…}$ (mhchem), ví dụ $\\ce{CH3COOC2H5}$, $\\ce{CH3COOCH3 + NaOH ->[t^o] CH3COONa + CH3OH}$; chữ trong điều kiện phản ứng viết \\text{…}: $\\ce{<=>[H2SO4 \\text{đặc}, t^o]}$.",
+    "Biểu thức toán, đại lượng và kí hiệu không phải công thức hoá học viết LaTeX thường ($R^1$, $t^o$, $E^o$).",
+    "Tên chất giữ đúng danh pháp in trong sách (ethyl acetate, carboxylic acid, sodium)."
   ],
-  "open_questions": [
-    "Chọn \\ce{} hay LaTeX thường: phụ thuộc nơi hiển thị có hỗ trợ mhchem không.",
-    "Bài mở đầu không đánh số (Mở đầu) ở Hoá 10."
-  ]
+  "open_questions": []
 }

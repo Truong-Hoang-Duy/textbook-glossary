@@ -415,5 +415,5 @@ Mỗi môn một file `specs/profiles/<mon>.json`, kiểm tra bằng `textbook/s
 2. Đổi `status: da_kiem_chung`, ghi `verified_on`, xoá các `open_questions` đã trả lời. Câu nào cần người dùng chốt thì hỏi trước khi làm tiếp.
 3. Chỉ sau bước 2 mới làm Tầng 1 hàng loạt.
 
-Hồ sơ hiện có (2026-10-27): `sinh` đã kiểm chứng; `toan`, `vat_ly`, `hoa`, `lich_su`, `dia`, `tin_hoc`, `ngu_van`, `tieng_anh`, `am_nhac`, `cong_nghe` là khung **chưa khảo sát** (dựng theo mục lục 28 bộ cũ và cấu trúc chung của sách KNTT, chưa có PDF để kiểm chứng). Môn khác (GD KT&PL, GDQP&AN, HĐTN-HN…) dùng `_default` cho đến khi có hồ sơ riêng.
+Hồ sơ hiện có (2026-10-29): `sinh` (sinh_12) và `hoa` (hoa_12) đã kiểm chứng; `toan`, `vat_ly`, `lich_su`, `dia`, `tin_hoc`, `ngu_van`, `tieng_anh`, `am_nhac`, `cong_nghe` là khung **chưa khảo sát** (dựng theo mục lục 28 bộ cũ và cấu trúc chung của sách KNTT, chưa có PDF để kiểm chứng). Môn khác (GD KT&PL, GDQP&AN, HĐTN-HN…) dùng `_default` cho đến khi có hồ sơ riêng.
 

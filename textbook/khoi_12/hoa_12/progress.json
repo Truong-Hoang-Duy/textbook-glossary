@@ -1,0 +1,642 @@
+{
+  "unit": "hoa_12",
+  "subject": "hoa",
+  "subject_name": "Hoá học",
+  "grade": 12,
+  "files": [
+    {
+      "file": "SGK HOA HOC 12 - KNTT.pdf",
+      "volume": null,
+      "page_count": 147,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+      "pdf_pages": [
+        6,
+        7
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c01",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 1",
+      "number": 1,
+      "title": "Ester – Lipid",
+      "dir": "Chuong-01-Ester-Lipid",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Ester – Lipid",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Ester-Lipid.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            8,
+            15
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Xà phòng và chất giặt rửa",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Xa-phong-va-chat-giat-rua.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            16,
+            19
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Ôn tập chương 1",
+          "lesson_type": "on_tap",
+          "file": "B03-On-tap-chuong-1.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            20,
+            21
+          ],
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "c02",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 2",
+      "number": 2,
+      "title": "Carbohydrate",
+      "dir": "Chuong-02-Carbohydrate",
+      "children": [
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Giới thiệu về carbohydrate. Glucose và fructose",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Gioi-thieu-ve-carbohydrate-Glucose-va-fructose.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            22,
+            26
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Saccharose và maltose",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Saccharose-va-maltose.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            27,
+            29
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Tinh bột và cellulose",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Tinh-bot-va-cellulose.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            30,
+            34
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Ôn tập chương 2",
+          "lesson_type": "on_tap",
+          "file": "B07-On-tap-chuong-2.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            35,
+            36
+          ],
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "c03",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 3",
+      "number": 3,
+      "title": "Hợp chất chứa nitrogen",
+      "dir": "Chuong-03-Hop-chat-chua-nitrogen",
+      "children": [
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Amine",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Amine.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            37,
+            42
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Amino acid và peptide",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Amino-acid-va-peptide.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            43,
+            47
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Protein và enzyme",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Protein-va-enzyme.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            48,
+            50
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Ôn tập chương 3",
+          "lesson_type": "on_tap",
+          "file": "B11-On-tap-chuong-3.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            51,
+            52
+          ],
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "c04",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 4",
+      "number": 4,
+      "title": "Polymer",
+      "dir": "Chuong-04-Polymer",
+      "children": [
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Đại cương về polymer",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Dai-cuong-ve-polymer.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            53,
+            57
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Vật liệu polymer",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Vat-lieu-polymer.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            58,
+            66
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Ôn tập chương 4",
+          "lesson_type": "on_tap",
+          "file": "B14-On-tap-chuong-4.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            67,
+            68
+          ],
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "c05",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 5",
+      "number": 5,
+      "title": "Pin điện và điện phân",
+      "dir": "Chuong-05-Pin-dien-va-dien-phan",
+      "children": [
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Thế điện cực và nguồn điện hoá học",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-The-dien-cuc-va-nguon-dien-hoa-hoc.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            69,
+            79
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Điện phân",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Dien-phan.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            80,
+            86
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Ôn tập chương 5",
+          "lesson_type": "on_tap",
+          "file": "B17-On-tap-chuong-5.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            87,
+            88
+          ],
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "c06",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 6",
+      "number": 6,
+      "title": "Đại cương về kim loại",
+      "dir": "Chuong-06-Dai-cuong-ve-kim-loai",
+      "children": [
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Cấu tạo và liên kết trong tinh thể kim loại",
+          "lesson_type": "ly_thuyet",
+          "file": "B18-Cau-tao-va-lien-ket-trong-tinh-the-kim-loai.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            89,
+            90
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Tính chất vật lí và tính chất hoá học của kim loại",
+          "lesson_type": "ly_thuyet",
+          "file": "B19-Tinh-chat-vat-li-va-tinh-chat-hoa-hoc-cua-kim-loai.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            91,
+            95
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Kim loại trong tự nhiên và phương pháp tách kim loại",
+          "lesson_type": "ly_thuyet",
+          "file": "B20-Kim-loai-trong-tu-nhien-va-phuong-phap-tach-kim.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            96,
+            100
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Hợp kim",
+          "lesson_type": "ly_thuyet",
+          "file": "B21-Hop-kim.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            101,
+            103
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Sự ăn mòn kim loại",
+          "lesson_type": "ly_thuyet",
+          "file": "B22-Su-an-mon-kim-loai.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            104,
+            107
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Ôn tập chương 6",
+          "lesson_type": "on_tap",
+          "file": "B23-On-tap-chuong-6.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            108,
+            109
+          ],
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "c07",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 7",
+      "number": 7,
+      "title": "Nguyên tố nhóm IA và nhóm IIA",
+      "dir": "Chuong-07-Nguyen-to-nhom-IA-va-nhom-IIA",
+      "children": [
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 24",
+          "number": 24,
+          "title": "Nguyên tố nhóm IA",
+          "lesson_type": "ly_thuyet",
+          "file": "B24-Nguyen-to-nhom-IA.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            110,
+            117
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Nguyên tố nhóm IIA",
+          "lesson_type": "ly_thuyet",
+          "file": "B25-Nguyen-to-nhom-IIA.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            118,
+            127
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b26",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 26",
+          "number": 26,
+          "title": "Ôn tập chương 7",
+          "lesson_type": "on_tap",
+          "file": "B26-On-tap-chuong-7.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            128,
+            129
+          ],
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "c08",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 8",
+      "number": 8,
+      "title": "Sơ lược về dãy kim loại chuyển tiếp thứ nhất và phức chất",
+      "dir": "Chuong-08-So-luoc-ve-day-kim-loai-chuyen-tiep-thu-nhat-va",
+      "children": [
+        {
+          "id": "b27",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 27",
+          "number": 27,
+          "title": "Đại cương về kim loại chuyển tiếp dãy thứ nhất",
+          "lesson_type": "ly_thuyet",
+          "file": "B27-Dai-cuong-ve-kim-loai-chuyen-tiep-day-thu-nhat.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            130,
+            135
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b28",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 28",
+          "number": 28,
+          "title": "Sơ lược về phức chất",
+          "lesson_type": "ly_thuyet",
+          "file": "B28-So-luoc-ve-phuc-chat.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            136,
+            139
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b29",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 29",
+          "number": 29,
+          "title": "Một số tính chất và ứng dụng của phức chất",
+          "lesson_type": "ly_thuyet",
+          "file": "B29-Mot-so-tinh-chat-va-ung-dung-cua-phuc-chat.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            140,
+            143
+          ],
+          "status": "pending"
+        },
+        {
+          "id": "b30",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 30",
+          "number": 30,
+          "title": "Ôn tập chương 8",
+          "lesson_type": "on_tap",
+          "file": "B30-On-tap-chuong-8.md",
+          "source_file": "SGK HOA HOC 12 - KNTT.pdf",
+          "pdf_pages": [
+            144,
+            145
+          ],
+          "status": "pending"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Trang PDF = trang in + 2 ở mọi bài (đã đối chiếu trang mở đầu của cả 30 bài). Mỗi bài bắt đầu ở đầu một trang mới; không có trang mở đầu chương riêng (băng tên chương in chung trang đầu bài đầu chương).",
+    "Mục lục in tên chương bằng chữ hoa (\"Chương 1. ESTER – LIPID\"); tên chương trong toc viết lại chữ thường theo cách viết của tên bài, kí hiệu giữ nguyên (IA, IIA).",
+    "Bài 4: trang mở đầu in tên thành hai dòng \"GIỚI THIỆU VỀ CARBOHYDRATE / GLUCOSE VÀ FRUCTOSE\" không có dấu chấm; mục lục ghi \"Giới thiệu về carbohydrate. Glucose và fructose\" — giữ dấu chấm theo mục lục để tách hai cụm.",
+    "Sách không có bảng tra cứu thuật ngữ cuối sách và không có bài thực hành riêng. Bài Ôn tập chương có số (Bài 3, 7, 11, 14, 17, 23, 26, 30) là kind bai, lesson_type on_tap, gồm \"I. HỆ THỐNG HOÁ KIẾN THỨC\" và \"II. LUYỆN TẬP\".",
+    "Trang PDF 1–3 (bìa, trang tên sách), 146 (trang thông tin xuất bản, có dòng chữ của nhóm chia sẻ bản quét, không phải nội dung sách) và 147 (bìa sau) không đưa vào toc.",
+    "Ánh xạ khung của sách sang Tầng 1: khung \"MỤC TIÊU\" → \"## 🎯 Mục tiêu\"; khung câu hỏi gợi mở đầu bài (biểu tượng ? cam) → \"## 🔴 Mở đầu\"; \"EM ĐÃ HỌC\" → \"## 📌 Em đã học\"; \"EM CÓ THỂ\" → \"## ✏️ Em có thể\".",
+    "Hộp nằm giữa một mục (Hoạt động nghiên cứu — bàn tay, Hoạt động thí nghiệm — bình thí nghiệm, Câu hỏi và bài tập — dấu ? xanh, EM CÓ BIẾT) chép thành trích dẫn \"> \", dòng đầu mở bằng biểu tượng (\"> ✋ \", \"> 🧪 \", \"> ❓ \", \"> 💡 EM CÓ BIẾT\"), tên hộp không in đậm. Không dùng heading cho các hộp này vì nội dung mục vẫn tiếp tục sau hộp (heading hộp làm mất section của đoạn phía sau khi xuất JSON).",
+    "Sách in thuật ngữ được định nghĩa bằng chữ nghiêng (\"Lipid là…\", \"Chất béo là…\"), không in đậm: Tầng 1 viết ***thuật ngữ*** (đậm + nghiêng) tại câu định nghĩa để giữ chữ nghiêng của sách và đánh dấu thuật ngữ theo spec 4.3.",
+    "Công thức dạng dòng (CH3COOC2H5, phương trình có điều kiện trên mũi tên) viết $\\ce{…}$ theo hồ sơ hoa. Công thức cấu tạo vẽ hai chiều (liên kết dọc, vòng benzene, sơ đồ tô màu như R–C(=O)–O–R') không chép được thành dòng: cắt thành hình (kể cả khi sách không đánh số hình) và ghi rõ trong bảng 📷."
+  ],
+  "audits": [],
+  "last_session_note": "2026-10-29: xong Giai đoạn 1 (hồ sơ hoa đã kiểm chứng trên Bài 1–2, progress.json, cache OCR 147 trang). Tiếp theo: Giai đoạn 2, Tầng 1 từ Bài 1."
+}
