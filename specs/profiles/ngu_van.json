@@ -1,6 +1,6 @@
 {
-  "status": "chua_khao_sat",
-  "verified_on": null,
+  "status": "da_kiem_chung",
+  "verified_on": "ngu_van_12, 2026-10-30",
   "profile": "ngu_van",
   "subjects": [
     "ngu_van",
@@ -9,26 +9,34 @@
   "section_levels": [
     {
       "prefix": "## ",
+      "regex": "^([IVX]+)\\. ",
+      "example": "## I. HỆ THỐNG HOÁ KIẾN THỨC ĐÃ HỌC"
+    },
+    {
+      "prefix": "### ",
       "regex": "^(\\d+)\\. ",
-      "example": "## 1. MỆNH ĐỀ"
+      "example": "### 1. Quan điểm sáng tác"
     },
     {
       "prefix": "**",
-      "regex": "^([a-z])\\) ",
-      "example": "**a) Mệnh đề phủ định**"
+      "regex": "^([a-z])[.)] ",
+      "example": "**a. Văn chính luận**"
     }
   ],
   "formula": "none",
-  "verbatim_scope": "cho_quyet_dinh",
+  "verbatim_scope": "toan_bai",
   "extra_headings": [
-    "^(Đọc|Viết|Nói và nghe|Tri thức Ngữ văn|Thực hành tiếng Việt|Củng cố, mở rộng|Thực hành đọc)\\b",
-    "^Văn bản \\d+"
+    "^(ĐỌC|Đọc|VIẾT|Viết|NÓI VÀ NGHE|Nói và nghe|TRI THỨC NGỮ VĂN|Tri thức Ngữ văn|Thực hành tiếng Việt|CỦNG CỐ, MỞ RỘNG|Củng cố, mở rộng|THỰC HÀNH ĐỌC|Thực hành đọc|Thực hành viết|Bài viết tham khảo|Kết nối đọc – viết)\\b",
+    "^(VĂN BẢN|Văn bản) \\d+"
   ],
   "audit_focus": [
-    "mo_ta"
+    "mo_ta",
+    "hinh"
   ],
-  "open_questions": [
-    "CẦN NGƯỜI DÙNG CHỐT: chép nguyên văn toàn bộ văn bản đọc, hay chỉ phần Tri thức Ngữ văn và lí thuyết (văn bản đọc ghi tên, tác giả, trang)?",
-    "Không chia chương: nhóm là Tập một/Tập hai."
-  ]
+  "conventions": [
+    "Tên riêng người và địa danh nước ngoài giữ nguyên cách phiên âm có gạch nối kèm nguyên ngữ trong ngoặc như sách in ở Tầng 1 (ví dụ: S. Đích-ken (Ch. Dickens), H. đờ Ban-dắc (H. de Balzac), L. Tôn-xtôi (L. Tolstoy), Ph. Đốt-xtôi-ép-xki (F. Dostoyevsky), Ni-cô-lai Gô-gôn (Nikolai Gogol), Cờ-lốt Lê-vi–Xtơ-rốt (Claude Lévi–Strauss), Ơ-nít Hê-minh-uê (Ernest Hemingway),...); ở Tầng 2 đối chiếu theo Bảng tra cứu tên riêng nước ngoài cuối mỗi tập.",
+    "Thuật ngữ lý luận văn học, thể loại văn học, tiếng Việt, kiểu bài viết và hoạt động nói – nghe chuẩn hoá theo phần Tri thức ngữ văn đầu mỗi bài và Bảng giải thích một số thuật ngữ cuối mỗi tập.",
+    "Các cước chú giải thích từ ngữ, điển cố, nhân vật, xuất xứ ở chân trang văn bản đọc được chép đầy đủ theo đúng số thứ tự cước chú của trang sách."
+  ],
+  "open_questions": []
 }

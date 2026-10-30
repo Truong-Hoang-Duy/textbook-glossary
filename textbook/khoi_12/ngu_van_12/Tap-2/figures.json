@@ -1,0 +1,56 @@
+{
+  "H12-ngu_van-b06-01": {
+    "pdf_page": 8,
+    "bbox": [387, 349, 522, 554]
+  },
+  "H12-ngu_van-b06-02": {
+    "pdf_page": 15,
+    "bbox": [367, 181, 525, 422]
+  },
+  "H12-ngu_van-b06-03": {
+    "pdf_page": 18,
+    "bbox": [52, 369, 529, 732],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Khung sơ đồ nền màu kem tràn sát viền trái và viền phải của khung văn bản đọc"
+  },
+  "H12-ngu_van-b06-04": {
+    "pdf_page": 20,
+    "bbox": [410, 425, 525, 647]
+  },
+  "H12-ngu_van-b07-01": {
+    "pdf_page": 46,
+    "bbox": [408, 407, 534, 594]
+  },
+  "H12-ngu_van-b07-02": {
+    "pdf_page": 51,
+    "bbox": [402, 364, 531, 564]
+  },
+  "H12-ngu_van-b08-01": {
+    "pdf_page": 71,
+    "bbox": [362, 57, 534, 203]
+  },
+  "H12-ngu_van-b08-02": {
+    "pdf_page": 72,
+    "bbox": [90, 526, 386, 779]
+  },
+  "H12-ngu_van-b08-03": {
+    "pdf_page": 75,
+    "bbox": [58, 272, 496, 576]
+  },
+  "H12-ngu_van-b09-01": {
+    "pdf_page": 98,
+    "bbox": [433, 57, 550, 242]
+  },
+  "H12-ngu_van-b09-02": {
+    "pdf_page": 104,
+    "bbox": [406, 335, 534, 512]
+  },
+  "H12-ngu_van-b09-03": {
+    "pdf_page": 116,
+    "bbox": [408, 615, 534, 809]
+  },
+  "H12-ngu_van-on-tap-hk2-01": {
+    "pdf_page": 132,
+    "bbox": [45, 92, 535, 355]
+  }
+}

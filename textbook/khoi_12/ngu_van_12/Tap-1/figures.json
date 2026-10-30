@@ -1,0 +1,58 @@
+{
+  "H12-ngu_van-b01-01": {
+    "pdf_page": 19,
+    "bbox": [445, 421, 550, 588]
+  },
+  "H12-ngu_van-b01-02": {
+    "pdf_page": 26,
+    "bbox": [360, 322, 530, 463]
+  },
+  "H12-ngu_van-b02-01": {
+    "pdf_page": 44,
+    "bbox": [448, 321, 522, 670]
+  },
+  "H12-ngu_van-b02-02": {
+    "pdf_page": 48,
+    "bbox": [437, 461, 533, 638]
+  },
+  "H12-ngu_van-b02-03": {
+    "pdf_page": 52,
+    "bbox": [436, 57, 539, 218]
+  },
+  "H12-ngu_van-b03-01": {
+    "pdf_page": 70,
+    "bbox": [434, 57, 549, 256]
+  },
+  "H12-ngu_van-b03-02": {
+    "pdf_page": 74,
+    "bbox": [440, 270, 550, 445]
+  },
+  "H12-ngu_van-b03-03": {
+    "pdf_page": 80,
+    "bbox": [375, 57, 550, 202]
+  },
+  "H12-ngu_van-b04-01": {
+    "pdf_page": 108,
+    "bbox": [432, 569, 551, 738],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chữ đầu dòng chú thích 'Truyền kì tân phả, bản AB. 48' nhô sang trái quá mép phải đoạn văn phía trên"
+  },
+  "H12-ngu_van-b04-02": {
+    "pdf_page": 117,
+    "bbox": [429, 57, 550, 269]
+  },
+  "H12-ngu_van-b05-01": {
+    "pdf_page": 142,
+    "bbox": [395, 431, 535, 657]
+  },
+  "H12-ngu_van-b05-02": {
+    "pdf_page": 149,
+    "bbox": [433, 57, 550, 266]
+  },
+  "H12-ngu_van-b05-03": {
+    "pdf_page": 153,
+    "bbox": [144, 64, 474, 261],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chữ cuối dòng chú thích 'Bảo tàng Mỹ thuật Việt Nam' nằm thẳng dưới hộp chỉ dẫn đọc bên phải tranh"
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "unit": "ngu_van_12",
+  "subject": "ngu_van",
+  "subject_name": "Ngữ văn",
+  "grade": 12,
+  "files": [
+    {
+      "file": "SGK NGỮ VĂN 12-TẬP 1-KNTT.pdf",
+      "volume": 1,
+      "page_count": 174,
+      "printed_offset": 2
+    },
+    {
+      "file": "SGK NGỮ VĂN 12-TẬP 2-KNTT.pdf",
+      "volume": 2,
+      "page_count": 145,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK NGỮ VĂN 12-TẬP 1-KNTT.pdf",
+      "pdf_pages": [
+        4,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-1",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK NGỮ VĂN 12-TẬP 1-KNTT.pdf",
+      "pdf_pages": [
+        6,
+        7
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK NGỮ VĂN 12-TẬP 1-KNTT.pdf",
+      "pdf_pages": [
+        8,
+        10
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "t01",
+      "role": "group",
+      "kind": "tap",
+      "label": null,
+      "number": 1,
+      "title": "Tập một",
+      "dir": "Tap-1",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Khả năng lớn lao của tiểu thuyết",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Kha-nang-lon-lao-cua-tieu-thuyet.md",
+          "source_file": "SGK NGỮ VĂN 12-TẬP 1-KNTT.pdf",
+          "pdf_pages": [
+            11,
+            41
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Những thế giới thơ",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Nhung-the-gioi-tho.md",
+          "source_file": "SGK NGỮ VĂN 12-TẬP 1-KNTT.pdf",
+          "pdf_pages": [
+            42,
+            64
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Lập luận trong văn bản nghị luận",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Lap-luan-trong-van-ban-nghi-luan.md",
+          "source_file": "SGK NGỮ VĂN 12-TẬP 1-KNTT.pdf",
+          "pdf_pages": [
+            65,
+            94
+          ],
+          "printed_offset": 3,
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Yếu tố kì ảo trong truyện kể",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Yeu-to-ki-ao-trong-truyen-ke.md",
+          "source_file": "SGK NGỮ VĂN 12-TẬP 1-KNTT.pdf",
+          "pdf_pages": [
+            95,
+            133
+          ],
+          "printed_offset": 3,
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Tiếng cười của hài kịch",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Tieng-cuoi-cua-hai-kich.md",
+          "source_file": "SGK NGỮ VĂN 12-TẬP 1-KNTT.pdf",
+          "pdf_pages": [
+            134,
+            161
+          ],
+          "printed_offset": 4,
+          "status": "verified"
+        },
+        {
+          "id": "on-tap-hk1",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Ôn tập học kì I",
+          "lesson_type": "on_tap",
+          "file": "On-tap-hoc-ki-I.md",
+          "source_file": "SGK NGỮ VĂN 12-TẬP 1-KNTT.pdf",
+          "pdf_pages": [
+            162,
+            164
+          ],
+          "printed_offset": 4,
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu thuật ngữ (Tập một)",
+      "file": "Bang-tra-cuu-thuat-ngu-Tap-1.md",
+      "source_file": "SGK NGỮ VĂN 12-TẬP 1-KNTT.pdf",
+      "pdf_pages": [
+        165,
+        165
+      ],
+      "printed_offset": 4,
+      "status": "verified"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích một số thuật ngữ (Tập một)",
+      "file": "Bang-giai-thich-mot-so-thuat-ngu-Tap-1.md",
+      "source_file": "SGK NGỮ VĂN 12-TẬP 1-KNTT.pdf",
+      "pdf_pages": [
+        166,
+        167
+      ],
+      "printed_offset": 4,
+      "status": "verified"
+    },
+    {
+      "id": "bang-tra-cuu-han-viet-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu một số yếu tố Hán Việt (Tập một)",
+      "file": null,
+      "source_file": "SGK NGỮ VĂN 12-TẬP 1-KNTT.pdf",
+      "pdf_pages": [
+        168,
+        169
+      ],
+      "printed_offset": 4,
+      "status": "skip"
+    },
+    {
+      "id": "bang-tra-cuu-ten-rieng-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu tên riêng nước ngoài (Tập một)",
+      "file": null,
+      "source_file": "SGK NGỮ VĂN 12-TẬP 1-KNTT.pdf",
+      "pdf_pages": [
+        170,
+        171
+      ],
+      "printed_offset": 4,
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-2",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục (Tập hai)",
+      "file": null,
+      "source_file": "SGK NGỮ VĂN 12-TẬP 2-KNTT.pdf",
+      "pdf_pages": [
+        4,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "t02",
+      "role": "group",
+      "kind": "tap",
+      "label": null,
+      "number": 2,
+      "title": "Tập hai",
+      "dir": "Tap-2",
+      "children": [
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Hồ Chí Minh – “Văn hoá phải soi đường cho quốc dân đi”",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Ho-Chi-Minh-Van-hoa-phai-soi-duong-cho-quoc-dan-di.md",
+          "source_file": "SGK NGỮ VĂN 12-TẬP 2-KNTT.pdf",
+          "pdf_pages": [
+            6,
+            39
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Sự thật trong tác phẩm kí",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Su-that-trong-tac-pham-ki.md",
+          "source_file": "SGK NGỮ VĂN 12-TẬP 2-KNTT.pdf",
+          "pdf_pages": [
+            40,
+            65
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Dữ liệu trong văn bản thông tin",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Du-lieu-trong-van-ban-thong-tin.md",
+          "source_file": "SGK NGỮ VĂN 12-TẬP 2-KNTT.pdf",
+          "pdf_pages": [
+            66,
+            93
+          ],
+          "printed_offset": 3,
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Văn học và cuộc đời",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Van-hoc-va-cuoc-doi.md",
+          "source_file": "SGK NGỮ VĂN 12-TẬP 2-KNTT.pdf",
+          "pdf_pages": [
+            94,
+            130
+          ],
+          "printed_offset": 3,
+          "status": "verified"
+        },
+        {
+          "id": "on-tap-hk2",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Ôn tập học kì II",
+          "lesson_type": "on_tap",
+          "file": "On-tap-hoc-ki-II.md",
+          "source_file": "SGK NGỮ VĂN 12-TẬP 2-KNTT.pdf",
+          "pdf_pages": [
+            131,
+            135
+          ],
+          "printed_offset": 4,
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu thuật ngữ (Tập hai)",
+      "file": "Bang-tra-cuu-thuat-ngu-Tap-2.md",
+      "source_file": "SGK NGỮ VĂN 12-TẬP 2-KNTT.pdf",
+      "pdf_pages": [
+        136,
+        136
+      ],
+      "printed_offset": 4,
+      "status": "verified"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích một số thuật ngữ (Tập hai)",
+      "file": "Bang-giai-thich-mot-so-thuat-ngu-Tap-2.md",
+      "source_file": "SGK NGỮ VĂN 12-TẬP 2-KNTT.pdf",
+      "pdf_pages": [
+        137,
+        138
+      ],
+      "printed_offset": 4,
+      "status": "verified"
+    },
+    {
+      "id": "bang-tra-cuu-han-viet-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu một số yếu tố Hán Việt (Tập hai)",
+      "file": null,
+      "source_file": "SGK NGỮ VĂN 12-TẬP 2-KNTT.pdf",
+      "pdf_pages": [
+        139,
+        140
+      ],
+      "printed_offset": 4,
+      "status": "skip"
+    },
+    {
+      "id": "bang-tra-cuu-ten-rieng-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu tên riêng nước ngoài (Tập hai)",
+      "file": null,
+      "source_file": "SGK NGỮ VĂN 12-TẬP 2-KNTT.pdf",
+      "pdf_pages": [
+        141,
+        143
+      ],
+      "printed_offset": 4,
+      "status": "skip"
+    }
+  ],
+  "notes": [
+    "SGK Ngữ văn 12 gồm 2 tập: Tập một (174 trang PDF, gồm Bài 1–5 và Ôn tập học kì I) và Tập hai (145 trang PDF, gồm Bài 6–9 và Ôn tập học kì II). Cuối mỗi tập có 4 bảng tra cứu: Bảng tra cứu thuật ngữ, Bảng giải thích một số thuật ngữ, Bảng tra cứu một số yếu tố Hán Việt và Bảng tra cứu tên riêng nước ngoài.",
+    "Trong Lời nói đầu (Tập một, trang in 2), Bài 4 được nhắc là \"Yếu tố kì ảo của truyện kể\", nhưng trong Mục lục (trang in 5) và trang mở đầu bài học (trang in 92, PDF 95) đều in là \"Yếu tố kì ảo trong truyện kể\" — thống nhất theo trang mở đầu bài học.",
+    "Cả hai file PDF quét đều bị chèn 2 trang ảnh cá nhân của người tạo bản quét (không phải trang sách): ở Tập một là PDF 53 (xen giữa trang in 50 = PDF 52 và trang in 51 = PDF 54, trong Bài 2) và PDF 103 (xen giữa trang in 99 = PDF 102 và trang in 100 = PDF 104, trong Bài 4); ở Tập hai là PDF 52 (xen giữa trang in 49 = PDF 51 và trang in 50 = PDF 53, trong Bài 7) và PDF 103 (xen giữa trang in 99 = PDF 102 và trang in 100 = PDF 104, trong Bài 9). Do đó độ lệch trang (printed_offset) bằng 2 ở đầu mỗi tập (Bài 1–2 ở Tập một, Bài 6–7 ở Tập hai), bằng 3 ở Bài 3–4 (Tập một) và Bài 8–9 (Tập hai), và bằng 4 ở Bài 5, Ôn tập học kì I/II cùng các Bảng tra cứu cuối mỗi tập. Các mốc <!-- pdf:53 -->, <!-- pdf:103 --> (Tập một) và <!-- pdf:52 -->, <!-- pdf:103 --> (Tập hai) được đặt trống trong bài tương ứng để đảm bảo dải mốc trang liên tục.",
+    "Một số trang PDF (như PDF 103, 172 ở Tập một; PDF 81, 144 ở Tập hai) có dòng chữ viết tay ở mép trên của người chia sẻ bản quét (\"Đoàn văn Doanh - THPT Nam Trực - Nam Định\"), không phải nội dung SGK nên không chép vào Tầng 1.",
+    "Mỗi bài học (Bài 1–9) đều mở đầu bằng khung \"Yêu cầu cần đạt\" (ánh xạ thành \"## 🎯 Yêu cầu cần đạt\"), tiếp theo là các mạch hoạt động lớn không đánh số (\"## ĐỌC\", \"### Tri thức Ngữ văn\", \"### Văn bản 1...\", \"### Thực hành tiếng Việt...\", \"## VIẾT\", \"## NÓI VÀ NGHE\", \"## CỦNG CỐ, MỞ RỘNG\", \"## THỰC HÀNH ĐỌC\"). Trong Bài 6 (Văn bản 1: Tác gia Hồ Chí Minh; mục Viết) và các bài Ôn tập học kì I, II có chia cấp mục đánh số La Mã (## I. ...), số Ả Rập (### 1. ...) và chữ cái thường (**a. ...**). Các thẻ chỉ dẫn đọc ở cột bên phải văn bản đọc và bài viết tham khảo được chép thành khối trích dẫn (\"> 💡 [Chỉ dẫn đọc] ...\") ngay sau đoạn tương ứng."
+  ],
+  "audits": [
+    {
+      "date": "2026-10-30",
+      "scope": [
+        "t01",
+        "t02",
+        "bang-tra-cuu-thuat-ngu-tap-1",
+        "bang-giai-thich-thuat-ngu-tap-1",
+        "bang-tra-cuu-thuat-ngu-tap-2",
+        "bang-giai-thich-thuat-ngu-tap-2"
+      ],
+      "terms": 92,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán mẫu phân tầng 30 mục (15 thuật ngữ in_source, 8 thuật ngữ described, 7 hình/bảng/sơ đồ) đối chiếu trực tiếp với ảnh trang gốc Tập 1 và Tập 2: khớp 100% nội dung giải nghĩa, số trang PDF/trang in và chú thích hình; đã chuẩn hoá loại bỏ toàn bộ alias tự lặp và câu định nghĩa trùng lặp."
+    }
+  ],
+  "last_session_note": "Hoàn thành toàn bộ Cổng 0–4 cho ngu_van_12 (15 bài/bảng Tầng 1, 26 hình, 2 từ điển Tầng 2 với 92 thuật ngữ: 61 in_source, 8 described, 23 out_of_source; 0 alias tự lặp, 0 định nghĩa trùng lặp; xuất dataset/ngu_van_12.json và kiểm toán mẫu 30 mục đạt 0 lỗi)."
+}
