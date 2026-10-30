@@ -1,0 +1,472 @@
+{
+  "unit": "tieng_anh_12",
+  "subject": "tieng_anh",
+  "subject_name": "Tiếng Anh",
+  "grade": 12,
+  "files": [
+    {
+      "file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+      "volume": null,
+      "page_count": 160,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "contents",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Contents",
+      "file": null,
+      "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "book-map",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Book Map",
+      "file": null,
+      "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+      "pdf_pages": [
+        6,
+        9
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "unit-01",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 1",
+      "number": 1,
+      "title": "Life stories we admire",
+      "dir": "Unit-01-Life-stories-we-admire",
+      "children": [
+        {
+          "id": "u01",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 1",
+          "number": 1,
+          "title": "Life stories we admire",
+          "lesson_type": "ly_thuyet",
+          "file": "U01-Life-stories-we-admire.md",
+          "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+          "pdf_pages": [
+            10,
+            21
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-02",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 2",
+      "number": 2,
+      "title": "A multicultural world",
+      "dir": "Unit-02-A-multicultural-world",
+      "children": [
+        {
+          "id": "u02",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 2",
+          "number": 2,
+          "title": "A multicultural world",
+          "lesson_type": "ly_thuyet",
+          "file": "U02-A-multicultural-world.md",
+          "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+          "pdf_pages": [
+            22,
+            33
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-03",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 3",
+      "number": 3,
+      "title": "Green living",
+      "dir": "Unit-03-Green-living",
+      "children": [
+        {
+          "id": "u03",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 3",
+          "number": 3,
+          "title": "Green living",
+          "lesson_type": "ly_thuyet",
+          "file": "U03-Green-living.md",
+          "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+          "pdf_pages": [
+            34,
+            45
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r01",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 1,
+          "title": "Review 1",
+          "lesson_type": "on_tap",
+          "file": "R01-Review-1.md",
+          "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+          "pdf_pages": [
+            46,
+            49
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-04",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 4",
+      "number": 4,
+      "title": "Urbanisation",
+      "dir": "Unit-04-Urbanisation",
+      "children": [
+        {
+          "id": "u04",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 4",
+          "number": 4,
+          "title": "Urbanisation",
+          "lesson_type": "ly_thuyet",
+          "file": "U04-Urbanisation.md",
+          "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+          "pdf_pages": [
+            50,
+            61
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-05",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 5",
+      "number": 5,
+      "title": "The world of work",
+      "dir": "Unit-05-The-world-of-work",
+      "children": [
+        {
+          "id": "u05",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 5",
+          "number": 5,
+          "title": "The world of work",
+          "lesson_type": "ly_thuyet",
+          "file": "U05-The-world-of-work.md",
+          "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+          "pdf_pages": [
+            62,
+            73
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r02",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 2,
+          "title": "Review 2",
+          "lesson_type": "on_tap",
+          "file": "R02-Review-2.md",
+          "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+          "pdf_pages": [
+            74,
+            77
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-06",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 6",
+      "number": 6,
+      "title": "Artificial Intelligence",
+      "dir": "Unit-06-Artificial-Intelligence",
+      "children": [
+        {
+          "id": "u06",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 6",
+          "number": 6,
+          "title": "Artificial Intelligence",
+          "lesson_type": "ly_thuyet",
+          "file": "U06-Artificial-Intelligence.md",
+          "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+          "pdf_pages": [
+            78,
+            89
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-07",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 7",
+      "number": 7,
+      "title": "The world of mass media",
+      "dir": "Unit-07-The-world-of-mass-media",
+      "children": [
+        {
+          "id": "u07",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 7",
+          "number": 7,
+          "title": "The world of mass media",
+          "lesson_type": "ly_thuyet",
+          "file": "U07-The-world-of-mass-media.md",
+          "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+          "pdf_pages": [
+            90,
+            101
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-08",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 8",
+      "number": 8,
+      "title": "Wildlife conservation",
+      "dir": "Unit-08-Wildlife-conservation",
+      "children": [
+        {
+          "id": "u08",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 8",
+          "number": 8,
+          "title": "Wildlife conservation",
+          "lesson_type": "ly_thuyet",
+          "file": "U08-Wildlife-conservation.md",
+          "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+          "pdf_pages": [
+            102,
+            113
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r03",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 3,
+          "title": "Review 3",
+          "lesson_type": "on_tap",
+          "file": "R03-Review-3.md",
+          "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+          "pdf_pages": [
+            114,
+            117
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-09",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 9",
+      "number": 9,
+      "title": "Career paths",
+      "dir": "Unit-09-Career-paths",
+      "children": [
+        {
+          "id": "u09",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 9",
+          "number": 9,
+          "title": "Career paths",
+          "lesson_type": "ly_thuyet",
+          "file": "U09-Career-paths.md",
+          "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+          "pdf_pages": [
+            118,
+            129
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-10",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 10",
+      "number": 10,
+      "title": "Lifelong learning",
+      "dir": "Unit-10-Lifelong-learning",
+      "children": [
+        {
+          "id": "u10",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 10",
+          "number": 10,
+          "title": "Lifelong learning",
+          "lesson_type": "ly_thuyet",
+          "file": "U10-Lifelong-learning.md",
+          "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+          "pdf_pages": [
+            130,
+            141
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r04",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 4,
+          "title": "Review 4",
+          "lesson_type": "on_tap",
+          "file": "R04-Review-4.md",
+          "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+          "pdf_pages": [
+            142,
+            145
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "appendix-1",
+      "role": "back_matter",
+      "kind": "phu_luc",
+      "label": null,
+      "number": 1,
+      "title": "Appendix 1: Useful communication strategies and language for classroom conversations and discussions",
+      "file": null,
+      "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+      "pdf_pages": [
+        146,
+        146
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "appendix-2",
+      "role": "back_matter",
+      "kind": "phu_luc",
+      "label": null,
+      "number": 2,
+      "title": "Appendix 2: Exam strategies",
+      "file": null,
+      "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+      "pdf_pages": [
+        147,
+        148
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "glossary",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Glossary",
+      "file": "Glossary.md",
+      "source_file": "SGK TIẾNG ANH 12- GLOBAL SUCCEESS.pdf",
+      "pdf_pages": [
+        149,
+        157
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Tiếng Anh 12 – Global Success (160 trang PDF) có độ lệch trang (printed_offset) bằng 2 xuyên suốt toàn bộ nội dung sách (trang in = trang PDF − 2): từ trang Contents (trang in 2, PDF 4) đến cuối phần Glossary (trang in 155, PDF 157). Trang PDF 1–3 là bìa và trang tên sách; trang PDF 158 là trang thông tin xuất bản (trang in 156); trang PDF 159 là ảnh cá nhân của người tạo bản quét (không phải trang sách); trang PDF 160 là bìa sau.",
+    "Một số trang PDF (như PDF 143 thuộc Review 4 và PDF 158 trang thông tin xuất bản) có dòng chữ ký của người chia sẻ bản quét (\"Đoàn văn Doanh - THPT Nam Trực - Nam Định\" và \"Group: TÀI LIỆU VẬT LÝ CT GDPT 2018\"), không phải nội dung SGK nên không chép vào Tầng 1.",
+    "Tại bảng Book Map (trang in 6, PDF 8), dòng REVIEW 4 in nhầm dải trang là \"Pages 138-141\" (trùng với 2 trang cuối của Unit 10), trong khi ở bảng Contents (trang in 2, PDF 4) và trên trang sách thực tế thì Review 4 nằm ở trang in 140–143 (PDF 142–145).",
+    "Trong bảng Contents (trang in 2, PDF 4) và Book Map (trang in 4, 6), tên tất cả các Unit đều in hoa toàn bộ; ở trang mở đầu từng Unit, Unit 1–5 và Unit 7–10 viết hoa chữ cái đầu câu và danh từ riêng (\"Life stories we admire\", \"A multicultural world\",...), riêng Unit 6 (trang in 76, PDF 78) viết hoa cả hai từ \"Artificial Intelligence\" — chép đúng theo trang mở đầu từng Unit.",
+    "Khác với SGK Tiếng Anh cấp THCS chia thành Lesson 1–7, SGK Tiếng Anh 12 chia mỗi Unit (12 trang) thành 8 mục đánh số La Mã (I. GETTING STARTED, II. LANGUAGE, III. READING, IV. SPEAKING, V. LISTENING, VI. WRITING, VII. COMMUNICATION AND CULTURE / CLIL, VIII. LOOKING BACK) cùng mục PROJECT và bảng tự đánh giá \"Now I can ...\" ở cuối Unit (nhiều mục nằm chung trên một trang PDF). Vì vậy mỗi Unit (u01–u10) và mỗi bài Review (r01–r04) được tổ chức thành một file bài học Tầng 1 hoàn chỉnh; 4 bài Review (Review 1–4) được gộp vào nhóm Unit đứng ngay trước (Unit 3, 5, 8, 10) theo đúng spec mục 5.",
+    "SGK không có khung \"Yêu cầu cần đạt\" (bỏ khối 🎯, objectives = null); mở đầu mỗi Unit có hộp tổng quan \"This unit includes:\" và cuối mỗi Unit có bảng tự đánh giá \"Now I can ...\". Các hộp ghi nhớ ngữ pháp và mẹo làm bài (Remember!, Useful expressions, Tip) được chép thành khối trích dẫn hoặc bảng nguyên văn trong mục tương ứng.",
+    "Phần Glossary cuối sách (trang in 147–155, PDF 149–157) chia theo từng Unit (Unit 1 – Unit 10), gồm 3 cột: từ vựng kèm từ loại viết tắt (adj, adv, n, np, v), phiên âm IPA và nghĩa tiếng Việt. Toàn bộ mục từ trong Glossary được chép vào Tầng 1 (Glossary.md) và chuẩn hoá sang 10 từ điển Tầng 2 (Tu-dien-Tieng-Anh-12-Unit-1.md đến Unit-10.md)."
+  ],
+  "audits": [
+    {
+      "date": "2026-10-30",
+      "scope": [
+        "unit-01",
+        "unit-02",
+        "unit-03",
+        "unit-04",
+        "unit-05",
+        "unit-06",
+        "unit-07",
+        "unit-08",
+        "unit-09",
+        "unit-10"
+      ],
+      "terms": 289,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ 10 Unit, 4 Review và Glossary (289 thuật ngữ, 42 hình minh hoạ): lấy mẫu 30 mục (10 mục [mô tả] như impressive achievement, cross-cultural styles, vending machine, cost of living, hands-on, commercial, keep one's mind sharp, self-motivated learning...; 10 hình minh hoạ H12-tieng_anh-u01-03, u02-01, u03-01, u04-08, u05-02, u06-04, u07-02, u08-02, u09-01, u10-02; và 10 mục từ in_source từ Glossary và bài học trên 10 Unit). Đã tinh chỉnh khung cắt H12-tieng_anh-u09-01 (x0=367) sạch biên tuyệt đối; toàn bộ 30 mục mẫu khớp 100% với ảnh trang PDF gốc (0% lỗi)."
+    }
+  ],
+  "last_session_note": "Hoàn thành toàn bộ tieng_anh_12 từ Cổng 0 đến Cổng 4 (10 Unit, 4 Review, Glossary, 42 hình minh hoạ, 10 từ điển với 289 thuật ngữ, 4 ghi chú nguồn đóng); xuất dataset textbook/dataset/tieng_anh_12.json đạt chuẩn."
+}

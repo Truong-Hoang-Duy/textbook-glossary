@@ -119,6 +119,7 @@ def main():
     offsets = {f["file"]: f["printed_offset"] for f in progress["files"]}
     paths = lesson_paths(a.unit, progress["toc"])
     errors, bold_loc, tag_loc = [], {}, {}
+    group_bold_loc, group_tag_loc = {}, {}
 
     def build(node, parents):
         out = {k: node[k] for k in ("id", "role", "kind", "label", "number", "title")}
@@ -138,9 +139,13 @@ def main():
                 objectives, key_terms, figures, bolds, tags = lesson_extras(node, path, offset, a.unit, matchers)
                 for k, v in tags.items():
                     tag_loc.setdefault(k, v)
+                    for p in parents:
+                        group_tag_loc.setdefault(p["id"], {}).setdefault(k, v)
                 figures = [dict(f, file="/".join([p["dir"] for p in parents] + [f["file"]])) for f in figures]
                 for k, v in bolds.items():
                     bold_loc.setdefault(k, v)
+                    for p in parents:
+                        group_bold_loc.setdefault(p["id"], {}).setdefault(k, v)
             out.update({"objectives": objectives, "key_terms": key_terms, "figures": figures})
         elif node["role"] == "back_matter" and node.get("file"):
             # bảng thuật ngữ cuối sách: nguồn định nghĩa dự phòng (spec 5.7)
@@ -201,8 +206,11 @@ def main():
                     ref = out.group(2).strip()
                     rec["reference"] = None if ref == "chưa xác định" else ref
                 else:
+                    g_where = (group_tag_loc if desc else group_bold_loc).get(group["id"], {})
                     where = tag_loc if desc else bold_loc
-                    loc = next((where[k] for k in [norm(term)] + [norm(x) for x in aliases] if k in where), None)
+                    loc = next((g_where[k] for k in [norm(term)] + [norm(x) for x in aliases] if k in g_where), None)
+                    if loc is None:
+                        loc = next((where[k] for k in [norm(term)] + [norm(x) for x in aliases] if k in where), None)
                     if loc is None:
                         errors.append(f"{dpath.name}: '{term}' không có " + ("nhãn mô tả" if desc else "chỗ in đậm") + " ở Tầng 1")
                     rec["location"] = loc
@@ -223,8 +231,8 @@ def main():
                 d = re.search(r" \((\d{4}-\d{2}-\d{2})\)$", resolution)
                 resolved_on = d.group(1) if d else None
                 resolution = resolution[:d.start()] if d else resolution
-            lm = re.match(r"(Bài \d+)", where)
-            sm = re.search(r"mục ([IVX]+(?:\.\d+(?:\.[a-z])?)?)", where)
+            lm = re.match(r"((?:Bài|Unit|Lesson|Review) \d+)", where)
+            sm = re.search(r"mục ([IVX0-9]+(?:\.[0-9A-Za-z]+)*)", where)
             pm = re.search(r"pdf:(\d+)", where)
             tids = [t["id"] for t in dict_terms if term_name.strip() not in ("—", "") and
                     norm(t["term"]) == norm(split_term(term_name)[0])]

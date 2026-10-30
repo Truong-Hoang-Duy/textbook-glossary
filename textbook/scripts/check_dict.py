@@ -93,7 +93,8 @@ def header_of(profile):
 
 def check_dict(unit, path, progress, threshold, verbose):
     errors, flags = [], []
-    HEADER = header_of(load_profile(unit))
+    profile = load_profile(unit)
+    HEADER = header_of(profile)
     fm, body = split_frontmatter(path.read_text(encoding="utf-8"))
     if fm is None:
         return ["thiếu frontmatter"], [], None, None
@@ -133,7 +134,8 @@ def check_dict(unit, path, progress, threshold, verbose):
     for need in ("Quy ước sử dụng", "Ghi chú nguồn cần kiểm tra"):
         if need not in sections:
             errors.append(f"thiếu mục '## {need}'")
-    want = {f"{n['label']}: {n['title']}" if n.get("label") else n["title"]: n for n in lessons if n["kind"] == "bai"}
+    want = {f"{n['label']}: {n['title']}" if n.get("label") else n["title"]: n
+            for n in lessons if n["kind"] in ("bai", "unit", "lesson")}
     allowed = set(want) | {"Quy ước sử dụng", "Thuật ngữ dùng chung", "Đã xét, không tạo mục", "Ghi chú nguồn cần kiểm tra"}
     for name in sections:
         if name not in allowed:
@@ -184,11 +186,16 @@ def check_dict(unit, path, progress, threshold, verbose):
                                   + (" (có nhãn mô tả: thêm tiền tố [mô tả] ở cột Bối cảnh)" if tagged else ""))
                     continue
                 refs = [p for _, p in hits]
-            bg = bigrams(tokens(meaning))
-            if len(bg) < 2:
+            toks = tokens(meaning)
+            bg = bigrams(toks)
+            min_bg = 0 if profile["profile"] == "tieng_anh" else 2
+            if not toks or len(bg) < min_bg:
                 errors.append(f"[{name}] {term}: Giải nghĩa quá ngắn")
                 continue
-            ratio = max(sum(b in set(bigrams(tokens(p))) for b in bg) / len(bg) for p in refs)
+            if bg:
+                ratio = max(sum(b in set(bigrams(tokens(p))) for b in bg) / len(bg) for p in refs)
+            else:
+                ratio = max(float(toks[0] in set(tokens(p))) for p in refs)
             if verbose:
                 print(f"    {ratio:.2f} {term} ({(hits or tagged)[0][0]})")
             if ratio < threshold:

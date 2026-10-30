@@ -1,0 +1,12 @@
+{
+  "H12-tieng_anh-u05-01": {
+    "pdf_page": 66,
+    "bbox": [52, 152, 554, 800]
+  },
+  "H12-tieng_anh-u05-02": {
+    "pdf_page": 70,
+    "bbox": [38, 164, 572, 635],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Icon kính lúp góc trên phải cao ngang dòng đề bài bên trái và cạnh dưới khung thư nền màu xanh chạm trực tiếp nhãn Tips"
+  }
+}

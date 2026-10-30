@@ -1,0 +1,16 @@
+{
+  "H12-tieng_anh-u09-01": {
+    "pdf_page": 122,
+    "bbox": [367, 126, 575, 275],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên phải của khung ảnh nghiêng đè lên nền hộp văn bản màu xanh nhạt"
+  },
+  "H12-tieng_anh-u09-02": {
+    "pdf_page": 123,
+    "bbox": [326, 180, 552, 327]
+  },
+  "H12-tieng_anh-u09-03": {
+    "pdf_page": 126,
+    "bbox": [58, 636, 286, 802]
+  }
+}

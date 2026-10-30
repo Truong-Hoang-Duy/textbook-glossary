@@ -1,0 +1,16 @@
+{
+  "H12-tieng_anh-u10-01": {
+    "pdf_page": 136,
+    "bbox": [135, 165, 465, 330],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh dưới của ảnh chân dung Marie Curie đặt nghiêng đè lên thanh tiêu đề màu xanh Student A's card"
+  },
+  "H12-tieng_anh-u10-02": {
+    "pdf_page": 139,
+    "bbox": [68, 632, 555, 728]
+  },
+  "H12-tieng_anh-u10-03": {
+    "pdf_page": 141,
+    "bbox": [82, 290, 535, 543]
+  }
+}

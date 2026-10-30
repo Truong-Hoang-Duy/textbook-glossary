@@ -1,6 +1,6 @@
 {
-  "status": "chua_khao_sat",
-  "verified_on": null,
+  "status": "da_kiem_chung",
+  "verified_on": "tieng_anh_12, 2026-10-30",
   "profile": "tieng_anh",
   "subjects": [
     "tieng_anh"
@@ -8,13 +8,18 @@
   "ocr_lang": "eng+vie",
   "section_levels": [
     {
+      "prefix": "## ",
+      "regex": "^([IVX]+)\\.?\\s+",
+      "example": "## I. GETTING STARTED"
+    },
+    {
       "prefix": "### ",
-      "regex": "^(\\d+)\\b",
-      "example": "### 1 Listen and read."
+      "regex": "^(\\d+)\\.?\\s+",
+      "example": "### 1. Listen and read."
     }
   ],
   "extra_headings": [
-    "^(GETTING STARTED|LANGUAGE|READING|SPEAKING|LISTENING|WRITING|COMMUNICATION AND CULTURE|LOOKING BACK|PROJECT|Pronunciation|Vocabulary|Grammar)\\b"
+    "^(GETTING STARTED|LANGUAGE|READING|SPEAKING|LISTENING|WRITING|COMMUNICATION AND CULTURE|SKILLS|LOOKING BACK|PROJECT|Pronunciation|Vocabulary|Grammar|Everyday English|Culture(\\s*/\\s*CLIL)?|CLIL|Listening|Speaking|Reading|Writing|This unit includes|Now I can|Abbreviations|Unit \\d+)\\b"
   ],
   "dictionary_columns": {
     "headers": [
@@ -31,11 +36,16 @@
     ]
   },
   "formula": "none",
+  "verbatim_scope": "toan_bai",
   "audit_focus": [
-    "mo_ta"
+    "mo_ta",
+    "hinh"
   ],
-  "open_questions": [
-    "Nguồn chính của từ vựng là Glossary cuối sách (spec 5.7); xác nhận cấu trúc Glossary.",
-    "SGK không có khung Yêu cầu cần đạt."
-  ]
+  "conventions": [
+    "Từ vựng đưa vào từ điển chuẩn hoá theo bảng Glossary cuối sách (trang in 147–155, PDF 149–157) kết hợp với các mục Vocabulary, Getting Started và Reading trong từng Unit.",
+    "Cột 'Loại từ, phiên âm' ghi từ loại viết tắt trong ngoặc đơn (n, v, adj, adv, np) kèm phiên âm quốc tế IPA trong dấu gạch chéo /.../ đúng như bảng Glossary cuối sách; các cụm động từ (phrasal verbs), cụm từ cố định và thành ngữ (idioms) giữ nguyên không ghi nhãn từ loại như SGK.",
+    "Cột 'Nghĩa tiếng Việt' bám sát nghĩa tiếng Việt tại bảng Glossary cuối sách và giải nghĩa tại phần Vocabulary/Reading trong bài học.",
+    "Chính tả tiếng Anh giữ nguyên chuẩn Anh – Anh (British English) theo SGK (ví dụ: urbanisation, globalisation, speciality, personalised, analyse, programme, centre, honour, practice (n) / practise (v)...)."
+  ],
+  "open_questions": []
 }
