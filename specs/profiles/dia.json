@@ -1,6 +1,6 @@
 {
-  "status": "chua_khao_sat",
-  "verified_on": null,
+  "status": "da_kiem_chung",
+  "verified_on": "dia_12, 2026-10-30",
   "profile": "dia",
   "subjects": [
     "dia"
@@ -9,17 +9,17 @@
     {
       "prefix": "## ",
       "regex": "^([IVX]+)\\. ",
-      "example": "## I. CHỨC NĂNG CỦA DNA"
+      "example": "## I. VỊ TRÍ ĐỊA LÍ, PHẠM VI LÃNH THỔ"
     },
     {
       "prefix": "### ",
       "regex": "^(\\d+)\\. ",
-      "example": "### 1. Khởi đầu sao chép"
+      "example": "### 1. Vị trí địa lí"
     },
     {
       "prefix": "**",
       "regex": "^([a-z])\\) ",
-      "example": "**a) mRNA**"
+      "example": "**a) Thế mạnh**"
     }
   ],
   "formula": "none",
@@ -27,8 +27,10 @@
     "mo_ta",
     "hinh"
   ],
-  "open_questions": [
-    "SGK không có khung Yêu cầu cần đạt.",
-    "Nhiều bản đồ và bảng số liệu: bảng số liệu chép thành bảng Markdown."
-  ]
+  "conventions": [
+    "Địa danh nước ngoài và tên khoáng sản phiên âm giữ dấu gạch nối như sách in ở Tầng 1 (Cam-pu-chia, Ma-lai-xi-a, Xi-bia, bô-xít, a-pa-tít, các-xtơ); ở Tầng 2 có thể kèm nguyên ngữ theo Bảng phiên âm cuối sách.",
+    "Chữ viết tắt trên bản đồ và trong bài giữ nguyên theo quy ước của sách: BĐ. (Bán đảo), QĐ. (Quần đảo), S. (Sông), TP. (Thành phố), GDP, GRDP, FDI, ASEAN, WTO, EU, UNESCO.",
+    "Đơn vị đo lường giữ nguyên cách viết trong sách: km², °C, mm, ha, hải lí, ‰."
+  ],
+  "open_questions": []
 }

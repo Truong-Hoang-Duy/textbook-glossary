@@ -1,0 +1,760 @@
+{
+  "unit": "dia_12",
+  "subject": "dia",
+  "subject_name": "Địa lí",
+  "grade": 12,
+  "files": [
+    {
+      "file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+      "volume": null,
+      "page_count": 181,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+      "pdf_pages": [
+        6,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "p01",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần 1",
+      "number": 1,
+      "title": "Địa lí tự nhiên",
+      "dir": "Phan-01-Dia-li-tu-nhien",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Vị trí địa lí và phạm vi lãnh thổ",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Vi-tri-dia-li-va-pham-vi-lanh-tho.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            7,
+            11
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Thiên nhiên nhiệt đới ẩm gió mùa",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Thien-nhien-nhiet-doi-am-gio-mua.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            12,
+            18
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Sự phân hoá đa dạng của thiên nhiên",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Su-phan-hoa-da-dang-cua-thien-nhien.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            19,
+            28
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Thực hành: Viết báo cáo về sự phân hoá tự nhiên Việt Nam",
+          "lesson_type": "thuc_hanh",
+          "file": "B04-Thuc-hanh-Viet-bao-cao-ve-su-phan-hoa-tu-nhien.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            29,
+            29
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Vấn đề sử dụng hợp lí tài nguyên thiên nhiên và bảo vệ môi trường",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Van-de-su-dung-hop-li-tai-nguyen-thien-nhien-va.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            30,
+            33
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần 2",
+      "number": 2,
+      "title": "Địa lí dân cư",
+      "dir": "Phan-02-Dia-li-dan-cu",
+      "children": [
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Dân số Việt Nam",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Dan-so-Viet-Nam.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            34,
+            38
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Lao động và việc làm",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Lao-dong-va-viec-lam.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            39,
+            42
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Đô thị hoá",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Do-thi-hoa.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            43,
+            45
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Thực hành: Viết báo cáo về một chủ đề dân cư ở Việt Nam",
+          "lesson_type": "thuc_hanh",
+          "file": "B09-Thuc-hanh-Viet-bao-cao-ve-mot-chu-de-dan-cu-o-Viet.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            46,
+            46
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần 3",
+      "number": 3,
+      "title": "Địa lí các ngành kinh tế",
+      "dir": "Phan-03-Dia-li-cac-nganh-kinh-te",
+      "children": [
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Chuyển dịch cơ cấu kinh tế",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Chuyen-dich-co-cau-kinh-te.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            47,
+            50
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Vấn đề phát triển ngành nông nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Van-de-phat-trien-nganh-nong-nghiep.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            51,
+            59
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Vấn đề phát triển ngành lâm nghiệp và ngành thuỷ sản",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Van-de-phat-trien-nganh-lam-nghiep-va-nganh-thuy.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            60,
+            64
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Tổ chức lãnh thổ nông nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-To-chuc-lanh-tho-nong-nghiep.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            65,
+            67
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Thực hành: Tìm hiểu vai trò ngành nông nghiệp, lâm nghiệp và thuỷ sản; vẽ biểu đồ và nhận xét về ngành nông nghiệp, lâm nghiệp và thuỷ sản",
+          "lesson_type": "thuc_hanh",
+          "file": "B14-Thuc-hanh-Tim-hieu-vai-tro-nganh-nong-nghiep-lam.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            68,
+            68
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Chuyển dịch cơ cấu ngành công nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Chuyen-dich-co-cau-nganh-cong-nghiep.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            69,
+            71
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Một số ngành công nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Mot-so-nganh-cong-nghiep.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            72,
+            79
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Tổ chức lãnh thổ công nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-To-chuc-lanh-tho-cong-nghiep.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            80,
+            82
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        },
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Thực hành: Vẽ biểu đồ, nhận xét và giải thích tình hình phát triển ngành công nghiệp",
+          "lesson_type": "thuc_hanh",
+          "file": "B18-Thuc-hanh-Ve-bieu-do-nhan-xet-va-giai-thich-tinh.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            83,
+            83
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        },
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Vai trò, các nhân tố ảnh hưởng đến sự phát triển và phân bố các ngành dịch vụ",
+          "lesson_type": "ly_thuyet",
+          "file": "B19-Vai-tro-cac-nhan-to-anh-huong-den-su-phat-trien-va.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            84,
+            86
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Giao thông vận tải và bưu chính viễn thông",
+          "lesson_type": "ly_thuyet",
+          "file": "B20-Giao-thong-van-tai-va-buu-chinh-vien-thong.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            87,
+            91
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        },
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Thương mại và du lịch",
+          "lesson_type": "ly_thuyet",
+          "file": "B21-Thuong-mai-va-du-lich.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            92,
+            97
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        },
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Thực hành: Tìm hiểu sự phát triển một số ngành dịch vụ",
+          "lesson_type": "thuc_hanh",
+          "file": "B22-Thuc-hanh-Tim-hieu-su-phat-trien-mot-so-nganh-dich.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            98,
+            98
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần 4",
+      "number": 4,
+      "title": "Địa lí các vùng kinh tế",
+      "dir": "Phan-04-Dia-li-cac-vung-kinh-te",
+      "children": [
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Khai thác thế mạnh ở Trung du và miền núi Bắc Bộ",
+          "lesson_type": "ly_thuyet",
+          "file": "B23-Khai-thac-the-manh-o-Trung-du-va-mien-nui-Bac-Bo.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            99,
+            106
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        },
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 24",
+          "number": 24,
+          "title": "Phát triển kinh tế – xã hội ở Đồng bằng sông Hồng",
+          "lesson_type": "ly_thuyet",
+          "file": "B24-Phat-trien-kinh-te-xa-hoi-o-Dong-bang-song-Hong.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            107,
+            113
+          ],
+          "status": "verified",
+          "printed_offset": 4
+        },
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Phát triển nông nghiệp, lâm nghiệp và thuỷ sản ở Bắc Trung Bộ",
+          "lesson_type": "ly_thuyet",
+          "file": "B25-Phat-trien-nong-nghiep-lam-nghiep-va-thuy-san-o.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            114,
+            121
+          ],
+          "status": "verified",
+          "printed_offset": 4
+        },
+        {
+          "id": "b26",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 26",
+          "number": 26,
+          "title": "Phát triển kinh tế biển ở Duyên hải Nam Trung Bộ",
+          "lesson_type": "ly_thuyet",
+          "file": "B26-Phat-trien-kinh-te-bien-o-Duyen-hai-Nam-Trung-Bo.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            122,
+            128
+          ],
+          "status": "verified",
+          "printed_offset": 4
+        },
+        {
+          "id": "b27",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 27",
+          "number": 27,
+          "title": "Thực hành: Tìm hiểu và viết báo cáo về ý nghĩa của phát triển kinh tế biển đối với quốc phòng an ninh ở Duyên hải Nam Trung Bộ",
+          "lesson_type": "thuc_hanh",
+          "file": "B27-Thuc-hanh-Tim-hieu-va-viet-bao-cao-ve-y-nghia-cua.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            129,
+            129
+          ],
+          "status": "verified",
+          "printed_offset": 4
+        },
+        {
+          "id": "b28",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 28",
+          "number": 28,
+          "title": "Khai thác thế mạnh để phát triển kinh tế ở Tây Nguyên",
+          "lesson_type": "ly_thuyet",
+          "file": "B28-Khai-thac-the-manh-de-phat-trien-kinh-te-o-Tay.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            130,
+            138
+          ],
+          "status": "verified",
+          "printed_offset": 4
+        },
+        {
+          "id": "b29",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 29",
+          "number": 29,
+          "title": "Phát triển kinh tế – xã hội ở Đông Nam Bộ",
+          "lesson_type": "ly_thuyet",
+          "file": "B29-Phat-trien-kinh-te-xa-hoi-o-Dong-Nam-Bo.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            139,
+            148
+          ],
+          "status": "verified",
+          "printed_offset": 4
+        },
+        {
+          "id": "b30",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 30",
+          "number": 30,
+          "title": "Sử dụng hợp lí tự nhiên để phát triển kinh tế ở Đồng bằng sông Cửu Long",
+          "lesson_type": "ly_thuyet",
+          "file": "B30-Su-dung-hop-li-tu-nhien-de-phat-trien-kinh-te-o.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            149,
+            157
+          ],
+          "status": "verified",
+          "printed_offset": 4
+        },
+        {
+          "id": "b31",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 31",
+          "number": 31,
+          "title": "Thực hành: Viết báo cáo về biến đổi khí hậu ở Đồng bằng sông Cửu Long",
+          "lesson_type": "thuc_hanh",
+          "file": "B31-Thuc-hanh-Viet-bao-cao-ve-bien-doi-khi-hau-o-Dong.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            158,
+            158
+          ],
+          "status": "verified",
+          "printed_offset": 4
+        },
+        {
+          "id": "b32",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 32",
+          "number": 32,
+          "title": "Phát triển các vùng kinh tế trọng điểm",
+          "lesson_type": "ly_thuyet",
+          "file": "B32-Phat-trien-cac-vung-kinh-te-trong-diem.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            159,
+            168
+          ],
+          "status": "verified",
+          "printed_offset": 4
+        },
+        {
+          "id": "b33",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 33",
+          "number": 33,
+          "title": "Phát triển kinh tế và đảm bảo quốc phòng an ninh ở Biển Đông và các đảo, quần đảo",
+          "lesson_type": "ly_thuyet",
+          "file": "B33-Phat-trien-kinh-te-va-dam-bao-quoc-phong-an-ninh-o.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            169,
+            175
+          ],
+          "status": "verified",
+          "printed_offset": 4
+        },
+        {
+          "id": "b34",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 34",
+          "number": 34,
+          "title": "Thực hành: Viết báo cáo tuyên truyền về bảo vệ chủ quyền biển, đảo của Việt Nam",
+          "lesson_type": "thuc_hanh",
+          "file": "B34-Thuc-hanh-Viet-bao-cao-tuyen-truyen-ve-bao-ve-chu.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            176,
+            176
+          ],
+          "status": "verified",
+          "printed_offset": 4
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần 5",
+      "number": 5,
+      "title": "Địa lí địa phương",
+      "dir": "Phan-05-Dia-li-dia-phuong",
+      "children": [
+        {
+          "id": "b35",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 35",
+          "number": 35,
+          "title": "Thực hành: Tìm hiểu địa lí địa phương",
+          "lesson_type": "thuc_hanh",
+          "file": "B35-Thuc-hanh-Tim-hieu-dia-li-dia-phuong.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            177,
+            178
+          ],
+          "status": "verified",
+          "printed_offset": 4
+        }
+      ]
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ",
+      "file": "Bang-giai-thich-thuat-ngu.md",
+      "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+      "pdf_pages": [
+        179,
+        179
+      ],
+      "printed_offset": 4,
+      "status": "verified"
+    },
+    {
+      "id": "bang-phien-am",
+      "role": "back_matter",
+      "kind": "bang_phien_am",
+      "label": null,
+      "number": null,
+      "title": "Bảng phiên âm",
+      "file": null,
+      "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+      "pdf_pages": [
+        179,
+        179
+      ],
+      "printed_offset": 4,
+      "status": "skip"
+    }
+  ],
+  "notes": [
+    "Cấu trúc sách chia thành 5 Phần (Phần 1–5) chứa trực tiếp 35 Bài (Bài 1–35, không chia Chương), kèm Bảng giải thích thuật ngữ và Bảng phiên âm ở cuối sách (trang in 175, PDF 179).",
+    "Tên tất cả các Phần và Bài trong Mục lục khớp hoàn toàn với trang mở đầu của từng bài trên ảnh PDF.",
+    "File PDF quét có chèn thêm 2 trang ảnh cá nhân của người tạo bản quét (không phải trang sách): PDF 52 (xen giữa trang in 49 = PDF 51 và trang in 50 = PDF 53, trong Bài 11) và PDF 103 (xen giữa trang in 99 = PDF 102 và trang in 100 = PDF 104, trong Bài 23). Do đó độ lệch trang (printed_offset) bằng 2 từ PDF 4–51 (Bài 1–10), bằng 3 từ PDF 53–102 (Bài 11–23), và bằng 4 từ PDF 104–179 (Bài 24–35 và Bảng giải thích thuật ngữ). Trong Bài 11 và Bài 23, mốc <!-- pdf:52 --> và <!-- pdf:103 --> được đặt trống để đảm bảo dải mốc trang liên tục.",
+    "Một số trang PDF (như PDF 83, 179, 180) có dòng chữ viết tay ở mép trên của người chia sẻ bản quét (\"Đoàn văn Doanh - THPT Nam Trực - Nam Định\"), không phải nội dung SGK nên không chép vào Tầng 1.",
+    "SGK Địa lí 12 không có khung Yêu cầu cần đạt ở đầu bài (objectives = null). Khung mở đầu bài (biểu tượng nút nguồn màu cam) ánh xạ thành \"## 🔴 Mở đầu\"; hộp \"EM CÓ BIẾT?\" và câu hỏi giữa bài (biểu tượng ? xanh) chép thành trích dẫn \"> 💡 EM CÓ BIẾT?\" và \"> ❓ ...\" để không làm đứt mạch section của đoạn văn phía sau; khối Luyện tập và Vận dụng cuối bài ánh xạ thành \"## ✏️ Luyện tập và vận dụng\".",
+    "Các bài Thực hành (Bài 4, 9, 14, 18, 22, 27, 31, 34, 35) đánh số mục trực tiếp bằng chữ số Ả Rập (1., 2., 3.) không có mục La Mã bao ngoài, ánh xạ thành \"### 1. ...\"."
+  ],
+  "audits": [
+    {
+      "date": "2026-10-30",
+      "scope": [
+        "p01",
+        "p02",
+        "p03",
+        "p04",
+        "p05",
+        "bang-giai-thich-thuat-ngu"
+      ],
+      "terms": 131,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm tra mẫu phân tầng 30 mục (9 thuật ngữ in_source, 11 thuật ngữ mô tả, 10 hình/bản đồ/biểu đồ) đối chiếu trực tiếp với ảnh trang PDF gốc: 0 lỗi (0,0% <= 5%). Tất cả 52 hình đạt 0 lỗi mực sát mép."
+    }
+  ],
+  "last_session_note": "Hoàn tất toàn bộ dia_12 (35 bài + Bảng giải thích thuật ngữ, 52 hình, 5 từ điển, 131 thuật ngữ), vượt qua Cổng 0, 1, 2, 2b, 3, 4 và xuất dataset/dia_12.json."
+}

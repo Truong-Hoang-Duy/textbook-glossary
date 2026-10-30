@@ -1,0 +1,4094 @@
+{
+  "meta": {
+    "schema_version": "2.3",
+    "unit": "dia_12",
+    "subject": "dia",
+    "profile": "dia",
+    "subject_name": "Địa lí",
+    "grade": 12,
+    "generated_at": "2026-10-30",
+    "counts": {
+      "lessons": 35,
+      "terms": 131,
+      "terms_described": 122,
+      "terms_out_of_source": 0,
+      "open_notes": 0
+    }
+  },
+  "source": {
+    "book_type": "sgk",
+    "series": "Kết nối tri thức với cuộc sống",
+    "publisher": "NXB Giáo dục Việt Nam",
+    "files": [
+      {
+        "file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+        "volume": null,
+        "page_count": 181,
+        "printed_offset": 2
+      }
+    ]
+  },
+  "toc": [
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "printed_pages": [
+        2,
+        2
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "printed_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+      "pdf_pages": [
+        6,
+        6
+      ],
+      "printed_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "p01",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần 1",
+      "number": 1,
+      "title": "Địa lí tự nhiên",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Vị trí địa lí và phạm vi lãnh thổ",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-01-Dia-li-tu-nhien/B01-Vi-tri-dia-li-va-pham-vi-lanh-tho.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            7,
+            11
+          ],
+          "printed_pages": [
+            5,
+            9
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b01-01",
+              "file": "Phan-01-Dia-li-tu-nhien/img/H12-dia-b01-01.png",
+              "caption": "Hình 1.1. Bản đồ hành chính Việt Nam năm 2021",
+              "pdf_page": 8
+            },
+            {
+              "id": "H12-dia-b01-02",
+              "file": "Phan-01-Dia-li-tu-nhien/img/H12-dia-b01-02.png",
+              "caption": "Hình 1.2. Sơ đồ mặt cắt khái quát các vùng biển Việt Nam (theo Luật Biển Việt Nam 2012)",
+              "pdf_page": 9
+            }
+          ]
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Thiên nhiên nhiệt đới ẩm gió mùa",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-01-Dia-li-tu-nhien/B02-Thien-nhien-nhiet-doi-am-gio-mua.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            12,
+            18
+          ],
+          "printed_pages": [
+            10,
+            16
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b02-01",
+              "file": "Phan-01-Dia-li-tu-nhien/img/H12-dia-b02-01.png",
+              "caption": "Hình 2.1. Gió mùa mùa đông ở Đông Nam Á",
+              "pdf_page": 13
+            },
+            {
+              "id": "H12-dia-b02-02",
+              "file": "Phan-01-Dia-li-tu-nhien/img/H12-dia-b02-02.png",
+              "caption": "Hình 2.2. Gió mùa mùa hạ ở Đông Nam Á",
+              "pdf_page": 14
+            },
+            {
+              "id": "H12-dia-b02-03",
+              "file": "Phan-01-Dia-li-tu-nhien/img/H12-dia-b02-03.png",
+              "caption": "Hình 2.3. Bản đồ khí hậu Việt Nam",
+              "pdf_page": 15
+            },
+            {
+              "id": "H12-dia-b02-04",
+              "file": "Phan-01-Dia-li-tu-nhien/img/H12-dia-b02-04.png",
+              "caption": "Hình 2.4. Địa hình các-xtơ ở Quảng Bình",
+              "pdf_page": 16
+            }
+          ]
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Sự phân hoá đa dạng của thiên nhiên",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-01-Dia-li-tu-nhien/B03-Su-phan-hoa-da-dang-cua-thien-nhien.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            19,
+            28
+          ],
+          "printed_pages": [
+            17,
+            26
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b03-01",
+              "file": "Phan-01-Dia-li-tu-nhien/img/H12-dia-b03-01.png",
+              "caption": "Hình 3.1. Bản đồ địa lí tự nhiên Việt Nam",
+              "pdf_page": 20
+            },
+            {
+              "id": "H12-dia-b03-02",
+              "file": "Phan-01-Dia-li-tu-nhien/img/H12-dia-b03-02.png",
+              "caption": "Hình 3.2. Bản đồ tự nhiên miền Bắc và Đông Bắc Bắc Bộ",
+              "pdf_page": 23
+            },
+            {
+              "id": "H12-dia-b03-03",
+              "file": "Phan-01-Dia-li-tu-nhien/img/H12-dia-b03-03.png",
+              "caption": "Hình 3.3. Bản đồ tự nhiên miền Tây Bắc và Bắc Trung Bộ",
+              "pdf_page": 25
+            },
+            {
+              "id": "H12-dia-b03-04",
+              "file": "Phan-01-Dia-li-tu-nhien/img/H12-dia-b03-04.png",
+              "caption": "Hình 3.4. Bản đồ tự nhiên miền Nam Trung Bộ và Nam Bộ",
+              "pdf_page": 27
+            }
+          ]
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Thực hành: Viết báo cáo về sự phân hoá tự nhiên Việt Nam",
+          "lesson_type": "thuc_hanh",
+          "file": "Phan-01-Dia-li-tu-nhien/B04-Thuc-hanh-Viet-bao-cao-ve-su-phan-hoa-tu-nhien.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            29,
+            29
+          ],
+          "printed_pages": [
+            27,
+            27
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Vấn đề sử dụng hợp lí tài nguyên thiên nhiên và bảo vệ môi trường",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-01-Dia-li-tu-nhien/B05-Van-de-su-dung-hop-li-tai-nguyen-thien-nhien-va.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            30,
+            33
+          ],
+          "printed_pages": [
+            28,
+            31
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": []
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần 2",
+      "number": 2,
+      "title": "Địa lí dân cư",
+      "children": [
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Dân số Việt Nam",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-02-Dia-li-dan-cu/B06-Dan-so-Viet-Nam.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            34,
+            38
+          ],
+          "printed_pages": [
+            32,
+            36
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b06-01",
+              "file": "Phan-02-Dia-li-dan-cu/img/H12-dia-b06-01.png",
+              "caption": "Hình 6.1. Số dân và tỉ lệ tăng dân số của nước ta giai đoạn 1979 – 2021",
+              "pdf_page": 34
+            },
+            {
+              "id": "H12-dia-b06-02",
+              "file": "Phan-02-Dia-li-dan-cu/img/H12-dia-b06-02.png",
+              "caption": "Hình 6.2. Tháp dân số Việt Nam năm 1979 và năm 2021",
+              "pdf_page": 35
+            },
+            {
+              "id": "H12-dia-b06-03",
+              "file": "Phan-02-Dia-li-dan-cu/img/H12-dia-b06-03.png",
+              "caption": "Hình 6.3. Bản đồ phân bố dân cư Việt Nam năm 2021",
+              "pdf_page": 36
+            }
+          ]
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Lao động và việc làm",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-02-Dia-li-dan-cu/B07-Lao-dong-va-viec-lam.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            39,
+            42
+          ],
+          "printed_pages": [
+            37,
+            40
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b07-01",
+              "file": "Phan-02-Dia-li-dan-cu/img/H12-dia-b07-01.png",
+              "caption": "Hình 7.1. Lực lượng lao động từ 15 tuổi trở lên của nước ta giai đoạn 2000 – 2021",
+              "pdf_page": 39
+            },
+            {
+              "id": "H12-dia-b07-02",
+              "file": "Phan-02-Dia-li-dan-cu/img/H12-dia-b07-02.png",
+              "caption": "Hình 7.2. Cơ cấu lao động có việc làm phân theo thành phần kinh tế của nước ta năm 2010 và năm 2021 (%)",
+              "pdf_page": 40
+            }
+          ]
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Đô thị hoá",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-02-Dia-li-dan-cu/B08-Do-thi-hoa.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            43,
+            45
+          ],
+          "printed_pages": [
+            41,
+            43
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Thực hành: Viết báo cáo về một chủ đề dân cư ở Việt Nam",
+          "lesson_type": "thuc_hanh",
+          "file": "Phan-02-Dia-li-dan-cu/B09-Thuc-hanh-Viet-bao-cao-ve-mot-chu-de-dan-cu-o-Viet.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            46,
+            46
+          ],
+          "printed_pages": [
+            44,
+            44
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": []
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần 3",
+      "number": 3,
+      "title": "Địa lí các ngành kinh tế",
+      "children": [
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Chuyển dịch cơ cấu kinh tế",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-03-Dia-li-cac-nganh-kinh-te/B10-Chuyen-dich-co-cau-kinh-te.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            47,
+            50
+          ],
+          "printed_pages": [
+            45,
+            48
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b10-01",
+              "file": "Phan-03-Dia-li-cac-nganh-kinh-te/img/H12-dia-b10-01.png",
+              "caption": "Hình 10. Cơ cấu GDP ở nước ta giai đoạn 2010 – 2021",
+              "pdf_page": 48
+            }
+          ]
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Vấn đề phát triển ngành nông nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-03-Dia-li-cac-nganh-kinh-te/B11-Van-de-phat-trien-nganh-nong-nghiep.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            51,
+            59
+          ],
+          "printed_pages": [
+            48,
+            56
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b11-01",
+              "file": "Phan-03-Dia-li-cac-nganh-kinh-te/img/H12-dia-b11-01.png",
+              "caption": "Hình 11.1. Diện tích gieo trồng và sản lượng lúa của nước ta giai đoạn 2005 – 2021",
+              "pdf_page": 55
+            },
+            {
+              "id": "H12-dia-b11-02",
+              "file": "Phan-03-Dia-li-cac-nganh-kinh-te/img/H12-dia-b11-02.png",
+              "caption": "Hình 11.2. Bản đồ nông nghiệp Việt Nam năm 2021",
+              "pdf_page": 56
+            }
+          ]
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Vấn đề phát triển ngành lâm nghiệp và ngành thuỷ sản",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-03-Dia-li-cac-nganh-kinh-te/B12-Van-de-phat-trien-nganh-lam-nghiep-va-nganh-thuy.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            60,
+            64
+          ],
+          "printed_pages": [
+            57,
+            61
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Tổ chức lãnh thổ nông nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-03-Dia-li-cac-nganh-kinh-te/B13-To-chuc-lanh-tho-nong-nghiep.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            65,
+            67
+          ],
+          "printed_pages": [
+            62,
+            64
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Thực hành: Tìm hiểu vai trò ngành nông nghiệp, lâm nghiệp và thuỷ sản; vẽ biểu đồ và nhận xét về ngành nông nghiệp, lâm nghiệp và thuỷ sản",
+          "lesson_type": "thuc_hanh",
+          "file": "Phan-03-Dia-li-cac-nganh-kinh-te/B14-Thuc-hanh-Tim-hieu-vai-tro-nganh-nong-nghiep-lam.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            68,
+            68
+          ],
+          "printed_pages": [
+            65,
+            65
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Chuyển dịch cơ cấu ngành công nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-03-Dia-li-cac-nganh-kinh-te/B15-Chuyen-dich-co-cau-nganh-cong-nghiep.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            69,
+            71
+          ],
+          "printed_pages": [
+            66,
+            68
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b15-01",
+              "file": "Phan-03-Dia-li-cac-nganh-kinh-te/img/H12-dia-b15-01.png",
+              "caption": "Hình 15. Cơ cấu giá trị sản xuất công nghiệp phân theo thành phần kinh tế ở nước ta năm 2010 và năm 2021 (%)",
+              "pdf_page": 70
+            }
+          ]
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Một số ngành công nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-03-Dia-li-cac-nganh-kinh-te/B16-Mot-so-nganh-cong-nghiep.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            72,
+            79
+          ],
+          "printed_pages": [
+            69,
+            76
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b16-01",
+              "file": "Phan-03-Dia-li-cac-nganh-kinh-te/img/H12-dia-b16-01.png",
+              "caption": "Hình 16.1. Bản đồ phân bố một số ngành công nghiệp Việt Nam năm 2021",
+              "pdf_page": 73
+            },
+            {
+              "id": "H12-dia-b16-02",
+              "file": "Phan-03-Dia-li-cac-nganh-kinh-te/img/H12-dia-b16-02.png",
+              "caption": "Hình 16.2. Sản lượng dầu thô và khí tự nhiên khai thác trong nước giai đoạn 2000 – 2021",
+              "pdf_page": 74
+            },
+            {
+              "id": "H12-dia-b16-03",
+              "file": "Phan-03-Dia-li-cac-nganh-kinh-te/img/H12-dia-b16-03.png",
+              "caption": "Hình 16.3. Sản lượng và cơ cấu nguồn điện sản xuất của nước ta năm 2010 và năm 2021 (%)",
+              "pdf_page": 75
+            },
+            {
+              "id": "H12-dia-b16-04",
+              "file": "Phan-03-Dia-li-cac-nganh-kinh-te/img/H12-dia-b16-04.png",
+              "caption": "Hình 16.4. Sản lượng một số sản phẩm của ngành công nghiệp sản xuất giày, dép của nước ta giai đoạn 2000 – 2021",
+              "pdf_page": 79
+            }
+          ]
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Tổ chức lãnh thổ công nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-03-Dia-li-cac-nganh-kinh-te/B17-To-chuc-lanh-tho-cong-nghiep.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            80,
+            82
+          ],
+          "printed_pages": [
+            77,
+            79
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Thực hành: Vẽ biểu đồ, nhận xét và giải thích tình hình phát triển ngành công nghiệp",
+          "lesson_type": "thuc_hanh",
+          "file": "Phan-03-Dia-li-cac-nganh-kinh-te/B18-Thuc-hanh-Ve-bieu-do-nhan-xet-va-giai-thich-tinh.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            83,
+            83
+          ],
+          "printed_pages": [
+            80,
+            80
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Vai trò, các nhân tố ảnh hưởng đến sự phát triển và phân bố các ngành dịch vụ",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-03-Dia-li-cac-nganh-kinh-te/B19-Vai-tro-cac-nhan-to-anh-huong-den-su-phat-trien-va.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            84,
+            86
+          ],
+          "printed_pages": [
+            81,
+            83
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Giao thông vận tải và bưu chính viễn thông",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-03-Dia-li-cac-nganh-kinh-te/B20-Giao-thong-van-tai-va-buu-chinh-vien-thong.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            87,
+            91
+          ],
+          "printed_pages": [
+            84,
+            88
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b20-01",
+              "file": "Phan-03-Dia-li-cac-nganh-kinh-te/img/H12-dia-b20-01.png",
+              "caption": "Hình 20. Bản đồ mạng lưới giao thông Việt Nam năm 2021",
+              "pdf_page": 89
+            }
+          ]
+        },
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Thương mại và du lịch",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-03-Dia-li-cac-nganh-kinh-te/B21-Thuong-mai-va-du-lich.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            92,
+            97
+          ],
+          "printed_pages": [
+            89,
+            94
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b21-01",
+              "file": "Phan-03-Dia-li-cac-nganh-kinh-te/img/H12-dia-b21-01.png",
+              "caption": "Hình 21.1. Tổng mức bán lẻ hàng hoá và doanh thu dịch vụ tiêu dùng theo giá thực tế của nước ta giai đoạn 2005 – 2021",
+              "pdf_page": 92
+            },
+            {
+              "id": "H12-dia-b21-02",
+              "file": "Phan-03-Dia-li-cac-nganh-kinh-te/img/H12-dia-b21-02.png",
+              "caption": "Hình 21.2. Bản đồ du lịch Việt Nam năm 2021",
+              "pdf_page": 96
+            }
+          ]
+        },
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Thực hành: Tìm hiểu sự phát triển một số ngành dịch vụ",
+          "lesson_type": "thuc_hanh",
+          "file": "Phan-03-Dia-li-cac-nganh-kinh-te/B22-Thuc-hanh-Tim-hieu-su-phat-trien-mot-so-nganh-dich.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            98,
+            98
+          ],
+          "printed_pages": [
+            95,
+            95
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": []
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần 4",
+      "number": 4,
+      "title": "Địa lí các vùng kinh tế",
+      "children": [
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Khai thác thế mạnh ở Trung du và miền núi Bắc Bộ",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-04-Dia-li-cac-vung-kinh-te/B23-Khai-thac-the-manh-o-Trung-du-va-mien-nui-Bac-Bo.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            99,
+            106
+          ],
+          "printed_pages": [
+            96,
+            103
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b23-01",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b23-01.png",
+              "caption": "Hình 23.1. Bản đồ tự nhiên vùng Trung du và miền núi Bắc Bộ",
+              "pdf_page": 100
+            },
+            {
+              "id": "H12-dia-b23-02",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b23-02.png",
+              "caption": "Hình 23.2. Bản đồ khai thác một số thế mạnh chủ yếu của vùng Trung du và miền núi Bắc Bộ năm 2021",
+              "pdf_page": 101
+            },
+            {
+              "id": "H12-dia-b23-03",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b23-03.png",
+              "caption": "Hình 23.3. Diện tích cây công nghiệp lâu năm vùng Trung du và miền núi Bắc Bộ, Tây Nguyên và Đông Nam Bộ giai đoạn 2010 – 2021",
+              "pdf_page": 104
+            }
+          ]
+        },
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 24",
+          "number": 24,
+          "title": "Phát triển kinh tế – xã hội ở Đồng bằng sông Hồng",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-04-Dia-li-cac-vung-kinh-te/B24-Phat-trien-kinh-te-xa-hoi-o-Dong-bang-song-Hong.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            107,
+            113
+          ],
+          "printed_pages": [
+            103,
+            109
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b24-01",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b24-01.png",
+              "caption": "Hình 24.1. Bản đồ tự nhiên vùng Đồng bằng sông Hồng",
+              "pdf_page": 109
+            },
+            {
+              "id": "H12-dia-b24-02",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b24-02.png",
+              "caption": "Hình 24.2. Bản đồ kinh tế vùng Đồng bằng sông Hồng năm 2021",
+              "pdf_page": 111
+            }
+          ]
+        },
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Phát triển nông nghiệp, lâm nghiệp và thuỷ sản ở Bắc Trung Bộ",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-04-Dia-li-cac-vung-kinh-te/B25-Phat-trien-nong-nghiep-lam-nghiep-va-thuy-san-o.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            114,
+            121
+          ],
+          "printed_pages": [
+            110,
+            117
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b25-01",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b25-01.png",
+              "caption": "Hình 25.1. Bản đồ tự nhiên Bắc Trung Bộ",
+              "pdf_page": 116
+            },
+            {
+              "id": "H12-dia-b25-02",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b25-02.png",
+              "caption": "Hình 25.2. Bản đồ nông nghiệp, lâm nghiệp và thuỷ sản Bắc Trung Bộ năm 2021",
+              "pdf_page": 118
+            },
+            {
+              "id": "H12-dia-b25-03",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b25-03.png",
+              "caption": "Hình 25.3. Diện tích rừng và sản lượng gỗ khai thác của Bắc Trung Bộ giai đoạn 2010 – 2021",
+              "pdf_page": 120
+            },
+            {
+              "id": "H12-dia-b25-04",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b25-04.png",
+              "caption": "Hình 25.4. Một phần Vườn quốc gia Bạch Mã",
+              "pdf_page": 120
+            }
+          ]
+        },
+        {
+          "id": "b26",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 26",
+          "number": 26,
+          "title": "Phát triển kinh tế biển ở Duyên hải Nam Trung Bộ",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-04-Dia-li-cac-vung-kinh-te/B26-Phat-trien-kinh-te-bien-o-Duyen-hai-Nam-Trung-Bo.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            122,
+            128
+          ],
+          "printed_pages": [
+            118,
+            124
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b26-01",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b26-01.png",
+              "caption": "Hình 26.1. Bản đồ tự nhiên Duyên hải Nam Trung Bộ",
+              "pdf_page": 123
+            },
+            {
+              "id": "H12-dia-b26-02",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b26-02.png",
+              "caption": "Hình 26.2. Bản đồ các ngành kinh tế biển ở Duyên hải Nam Trung Bộ năm 2021",
+              "pdf_page": 126
+            }
+          ]
+        },
+        {
+          "id": "b27",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 27",
+          "number": 27,
+          "title": "Thực hành: Tìm hiểu và viết báo cáo về ý nghĩa của phát triển kinh tế biển đối với quốc phòng an ninh ở Duyên hải Nam Trung Bộ",
+          "lesson_type": "thuc_hanh",
+          "file": "Phan-04-Dia-li-cac-vung-kinh-te/B27-Thuc-hanh-Tim-hieu-va-viet-bao-cao-ve-y-nghia-cua.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            129,
+            129
+          ],
+          "printed_pages": [
+            125,
+            125
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b28",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 28",
+          "number": 28,
+          "title": "Khai thác thế mạnh để phát triển kinh tế ở Tây Nguyên",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-04-Dia-li-cac-vung-kinh-te/B28-Khai-thac-the-manh-de-phat-trien-kinh-te-o-Tay.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            130,
+            138
+          ],
+          "printed_pages": [
+            126,
+            134
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b28-01",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b28-01.png",
+              "caption": "Hình 28.1. Bản đồ tự nhiên vùng Tây Nguyên",
+              "pdf_page": 131
+            },
+            {
+              "id": "H12-dia-b28-02",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b28-02.png",
+              "caption": "Hình 28.2. Bản đồ một số ngành kinh tế thế mạnh ở Tây Nguyên năm 2021",
+              "pdf_page": 133
+            },
+            {
+              "id": "H12-dia-b28-03",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b28-03.png",
+              "caption": "Hình 28.3. Diện tích một số loại cây công nghiệp lâu năm vùng Tây Nguyên giai đoạn 2010 – 2021",
+              "pdf_page": 134
+            },
+            {
+              "id": "H12-dia-b28-04",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b28-04.png",
+              "caption": "Hình 28.4. Một phần cao nguyên Lang Biang, Lâm Đồng",
+              "pdf_page": 137
+            }
+          ]
+        },
+        {
+          "id": "b29",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 29",
+          "number": 29,
+          "title": "Phát triển kinh tế – xã hội ở Đông Nam Bộ",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-04-Dia-li-cac-vung-kinh-te/B29-Phat-trien-kinh-te-xa-hoi-o-Dong-Nam-Bo.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            139,
+            148
+          ],
+          "printed_pages": [
+            135,
+            144
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b29-01",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b29-01.png",
+              "caption": "Hình 29.1. Bản đồ tự nhiên vùng Đông Nam Bộ",
+              "pdf_page": 140
+            },
+            {
+              "id": "H12-dia-b29-02",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b29-02.png",
+              "caption": "Hình 29.2. Bản đồ kinh tế vùng Đông Nam Bộ năm 2021",
+              "pdf_page": 144
+            },
+            {
+              "id": "H12-dia-b29-03",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b29-03.png",
+              "caption": "Hình 29.3. Sản lượng thuỷ sản vùng Đông Nam Bộ giai đoạn 2010 – 2021",
+              "pdf_page": 147
+            }
+          ]
+        },
+        {
+          "id": "b30",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 30",
+          "number": 30,
+          "title": "Sử dụng hợp lí tự nhiên để phát triển kinh tế ở Đồng bằng sông Cửu Long",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-04-Dia-li-cac-vung-kinh-te/B30-Su-dung-hop-li-tu-nhien-de-phat-trien-kinh-te-o.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            149,
+            157
+          ],
+          "printed_pages": [
+            145,
+            153
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b30-01",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b30-01.png",
+              "caption": "Hình 30.1. Bản đồ tự nhiên vùng Đồng bằng sông Cửu Long",
+              "pdf_page": 150
+            },
+            {
+              "id": "H12-dia-b30-02",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b30-02.png",
+              "caption": "Hình 30.2. Bản đồ sản xuất lương thực, thực phẩm và du lịch vùng Đồng bằng sông Cửu Long năm 2021",
+              "pdf_page": 154
+            },
+            {
+              "id": "H12-dia-b30-03",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b30-03.png",
+              "caption": "Hình 30.3. Sản lượng thuỷ sản của vùng Đồng bằng sông Cửu Long giai đoạn 2010 – 2021",
+              "pdf_page": 155
+            }
+          ]
+        },
+        {
+          "id": "b31",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 31",
+          "number": 31,
+          "title": "Thực hành: Viết báo cáo về biến đổi khí hậu ở Đồng bằng sông Cửu Long",
+          "lesson_type": "thuc_hanh",
+          "file": "Phan-04-Dia-li-cac-vung-kinh-te/B31-Thuc-hanh-Viet-bao-cao-ve-bien-doi-khi-hau-o-Dong.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            158,
+            158
+          ],
+          "printed_pages": [
+            154,
+            154
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b32",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 32",
+          "number": 32,
+          "title": "Phát triển các vùng kinh tế trọng điểm",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-04-Dia-li-cac-vung-kinh-te/B32-Phat-trien-cac-vung-kinh-te-trong-diem.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            159,
+            168
+          ],
+          "printed_pages": [
+            155,
+            164
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b32-01",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b32-01.png",
+              "caption": "Hình 32.1. Bản đồ kinh tế Vùng kinh tế trọng điểm Bắc Bộ năm 2021",
+              "pdf_page": 161
+            },
+            {
+              "id": "H12-dia-b32-02",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b32-02.png",
+              "caption": "Hình 32.2. Bản đồ kinh tế Vùng kinh tế trọng điểm miền Trung năm 2021",
+              "pdf_page": 163
+            },
+            {
+              "id": "H12-dia-b32-03",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b32-03.png",
+              "caption": "Hình 32.3. Bản đồ kinh tế Vùng kinh tế trọng điểm phía Nam năm 2021",
+              "pdf_page": 165
+            },
+            {
+              "id": "H12-dia-b32-04",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b32-04.png",
+              "caption": "Hình 32.4. Bản đồ kinh tế Vùng kinh tế trọng điểm vùng Đồng bằng sông Cửu Long năm 2021",
+              "pdf_page": 167
+            }
+          ]
+        },
+        {
+          "id": "b33",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 33",
+          "number": 33,
+          "title": "Phát triển kinh tế và đảm bảo quốc phòng an ninh ở Biển Đông và các đảo, quần đảo",
+          "lesson_type": "ly_thuyet",
+          "file": "Phan-04-Dia-li-cac-vung-kinh-te/B33-Phat-trien-kinh-te-va-dam-bao-quoc-phong-an-ninh-o.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            169,
+            175
+          ],
+          "printed_pages": [
+            165,
+            171
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H12-dia-b33-01",
+              "file": "Phan-04-Dia-li-cac-vung-kinh-te/img/H12-dia-b33-01.png",
+              "caption": "Hình 33. Bản đồ kinh tế biển, đảo Việt Nam năm 2021",
+              "pdf_page": 172
+            }
+          ]
+        },
+        {
+          "id": "b34",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 34",
+          "number": 34,
+          "title": "Thực hành: Viết báo cáo tuyên truyền về bảo vệ chủ quyền biển, đảo của Việt Nam",
+          "lesson_type": "thuc_hanh",
+          "file": "Phan-04-Dia-li-cac-vung-kinh-te/B34-Thuc-hanh-Viet-bao-cao-tuyen-truyen-ve-bao-ve-chu.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            176,
+            176
+          ],
+          "printed_pages": [
+            172,
+            172
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": []
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần 5",
+      "number": 5,
+      "title": "Địa lí địa phương",
+      "children": [
+        {
+          "id": "b35",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 35",
+          "number": 35,
+          "title": "Thực hành: Tìm hiểu địa lí địa phương",
+          "lesson_type": "thuc_hanh",
+          "file": "Phan-05-Dia-li-dia-phuong/B35-Thuc-hanh-Tim-hieu-dia-li-dia-phuong.md",
+          "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+          "pdf_pages": [
+            177,
+            178
+          ],
+          "printed_pages": [
+            173,
+            174
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": []
+        }
+      ]
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ",
+      "file": "Bang-giai-thich-thuat-ngu.md",
+      "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+      "pdf_pages": [
+        179,
+        179
+      ],
+      "printed_pages": [
+        175,
+        175
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-phien-am",
+      "role": "back_matter",
+      "kind": "bang_phien_am",
+      "label": null,
+      "number": null,
+      "title": "Bảng phiên âm",
+      "file": null,
+      "source_file": "SGK ĐỊA LÝ 12-KNTT.pdf",
+      "pdf_pages": [
+        179,
+        179
+      ],
+      "printed_pages": [
+        175,
+        175
+      ],
+      "status": "skip"
+    }
+  ],
+  "dictionaries": [
+    {
+      "file": "Tu-dien-Dia-li-12-Phan-1.md",
+      "name": "tu-dien-dia-li-12-phan-1",
+      "title": "TỪ ĐIỂN THUẬT NGỮ ĐỊA LÍ 12 — PHẦN 1: ĐỊA LÍ TỰ NHIÊN",
+      "group_id": "p01",
+      "lesson_ids": [
+        "b01",
+        "b02",
+        "b03",
+        "b04",
+        "b05"
+      ],
+      "conventions": [
+        "Thuật ngữ được trình bày theo từng bài học của Phần 1. Địa lí tự nhiên (Bài 1–5), bám sát nguyên văn SGK Địa lí 12 (Kết nối tri thức với cuộc sống).",
+        "Cột **Bối cảnh sử dụng** ghi tiền tố `[mô tả]` đối với các thuật ngữ được SGK diễn giải trong đoạn văn nhưng không in đậm thành mục định nghĩa riêng.",
+        "Địa danh nước ngoài và tên khoáng sản phiên âm giữ nguyên cách viết trong sách; tên tiếng Anh đối chiếu ở cột **Tiếng Anh**."
+      ],
+      "status": "verified",
+      "created": "2026-10-30",
+      "updated": "2026-10-30"
+    },
+    {
+      "file": "Tu-dien-Dia-li-12-Phan-2.md",
+      "name": "tu-dien-dia-li-12-phan-2",
+      "title": "TỪ ĐIỂN THUẬT NGỮ ĐỊA LÍ 12 — PHẦN 2: ĐỊA LÍ DÂN CƯ",
+      "group_id": "p02",
+      "lesson_ids": [
+        "b06",
+        "b07",
+        "b08",
+        "b09"
+      ],
+      "conventions": [
+        "**Phạm vi**: Phần 2 (Địa lí dân cư), gồm các bài từ Bài 6 đến Bài 9 thuộc SGK Địa lí 12 — Kết nối tri thức với cuộc sống.",
+        "**Cấu trúc bảng**: 4 cột chuẩn (`Thuật ngữ`, `Tiếng Anh`, `Giải nghĩa`, `Bối cảnh sử dụng`).",
+        "**Thuật ngữ mô tả (`[mô tả]`)**: Các khái niệm, đặc điểm và quá trình địa lí dân cư được SGK trình bày trong thân bài (không in đậm thành mục định nghĩa riêng) được gắn nhãn `<!-- term: ... -->` ở Tầng 1 và đánh dấu tiền tố `[mô tả] ` ở cột `Bối cảnh sử dụng`."
+      ],
+      "status": "verified",
+      "created": "2026-10-30",
+      "updated": "2026-10-30"
+    },
+    {
+      "file": "Tu-dien-Dia-li-12-Phan-3.md",
+      "name": "tu-dien-dia-li-12-phan-3",
+      "title": "TỪ ĐIỂN THUẬT NGỮ ĐỊA LÍ 12 — PHẦN 3: ĐỊA LÍ CÁC NGÀNH KINH TẾ",
+      "group_id": "p03",
+      "lesson_ids": [
+        "b10",
+        "b11",
+        "b12",
+        "b13",
+        "b14",
+        "b15",
+        "b16",
+        "b17",
+        "b18",
+        "b19",
+        "b20",
+        "b21",
+        "b22"
+      ],
+      "conventions": [
+        "**Nguồn dữ liệu**: Trích xuất và chuẩn hoá từ Tầng 1 của Phần 3 (*Địa lí các ngành kinh tế*, Bài 10–22, trang in 45–95, PDF 47–98) và *Bảng giải thích thuật ngữ* cuối sách (trang in 175, PDF 179) thuộc SGK Địa lí 12 — bộ *Kết nối tri thức với cuộc sống*.",
+        "**Thuật ngữ có định nghĩa trong nguồn (`in_source`)**: Gồm các thuật ngữ được định nghĩa trực tiếp tại *Bảng giải thích thuật ngữ* cuối sách hoặc có tiêu đề mục con in đậm (`**a) ...**`) ở Tầng 1; cột *Giải nghĩa* bám sát nguyên văn định nghĩa/nội dung trong SGK, cột *Bối cảnh sử dụng* không gắn tiền tố `[mô tả] `.",
+        "**Thuật ngữ mô tả (`described`)**: Các thuật ngữ không in đậm trực tiếp trong câu ở SGK nhưng có đoạn văn giải thích rõ nội dung được gắn nhãn `<!-- term: ... -->` tại Tầng 1; cột *Bối cảnh sử dụng* bắt đầu bằng tiền tố `[mô tả] `.",
+        "**Tên tiếng Anh**: Đối chiếu theo thuật ngữ chuẩn quốc tế trong địa lí kinh tế và hệ thống ngành kinh tế."
+      ],
+      "status": "verified",
+      "created": "2026-10-30",
+      "updated": "2026-10-30"
+    },
+    {
+      "file": "Tu-dien-Dia-li-12-Phan-4.md",
+      "name": "tu-dien-dia-li-12-phan-4",
+      "title": "TỪ ĐIỂN THUẬT NGỮ ĐỊA LÍ 12 — PHẦN 4: ĐỊA LÍ CÁC VÙNG KINH TẾ",
+      "group_id": "p04",
+      "lesson_ids": [
+        "b23",
+        "b24",
+        "b25",
+        "b26",
+        "b27",
+        "b28",
+        "b29",
+        "b30",
+        "b31",
+        "b32",
+        "b33",
+        "b34"
+      ],
+      "conventions": [
+        "**Nguồn dữ liệu**: Trích xuất và chuẩn hoá từ Tầng 1 của Phần 4 (*Địa lí các vùng kinh tế*, Bài 23–34, trang in 96–172, PDF 100–176) và *Bảng giải thích thuật ngữ* cuối sách (trang in 175, PDF 179) thuộc SGK Địa lí 12 — bộ *Kết nối tri thức với cuộc sống*.",
+        "**Thuật ngữ có định nghĩa trong nguồn (`in_source`)**: Gồm các thuật ngữ được định nghĩa trực tiếp và in đậm tại *Bảng giải thích thuật ngữ* cuối sách; cột *Giải nghĩa* chép nguyên văn định nghĩa trong SGK, cột *Bối cảnh sử dụng* không gắn tiền tố `[mô tả] `.",
+        "**Thuật ngữ mô tả (`described`)**: Các thuật ngữ không in đậm trực tiếp trong câu ở SGK nhưng có đoạn văn giải thích rõ nội dung được gắn nhãn `<!-- term: ... -->` tại Tầng 1; cột *Bối cảnh sử dụng* bắt đầu bằng tiền tố `[mô tả] `.",
+        "**Tên tiếng Anh**: Đối chiếu theo thuật ngữ chuẩn quốc tế trong địa lí kinh tế – xã hội và quy hoạch vùng."
+      ],
+      "status": "verified",
+      "created": "2026-10-30",
+      "updated": "2026-10-30"
+    },
+    {
+      "file": "Tu-dien-Dia-li-12-Phan-5.md",
+      "name": "tu-dien-dia-li-12-phan-5",
+      "title": "TỪ ĐIỂN THUẬT NGỮ ĐỊA LÍ 12 — PHẦN 5: ĐỊA LÍ ĐỊA PHƯƠNG",
+      "group_id": "p05",
+      "lesson_ids": [
+        "b35"
+      ],
+      "conventions": [
+        "Thuật ngữ được trình bày theo bài học của Phần 5. Địa lí địa phương (Bài 35), bám sát nguyên văn SGK Địa lí 12 (Kết nối tri thức với cuộc sống).",
+        "Cột **Bối cảnh sử dụng** ghi tiền tố `[mô tả]` đối với các thuật ngữ được SGK diễn giải trong đoạn văn nhưng không in đậm thành mục định nghĩa riêng."
+      ],
+      "status": "verified",
+      "created": "2026-10-30",
+      "updated": "2026-10-30"
+    }
+  ],
+  "terms": [
+    {
+      "id": "dia-12-diem-cuc-tren-dat-lien-cua-viet-nam",
+      "term": "Điểm cực trên đất liền của Việt Nam",
+      "aliases": [],
+      "english": "Mainland extreme points of Vietnam",
+      "notation": null,
+      "meaning": "Phần đất liền, phạm vi lãnh thổ Việt Nam được xác định bởi các điểm cực: điểm cực Bắc ở khoảng vĩ độ 23°23'B tại xã Lũng Cú, huyện Đồng Văn, tỉnh Hà Giang; điểm cực Nam ở khoảng vĩ độ 8°34'B tại xã Đất Mũi, huyện Ngọc Hiển, tỉnh Cà Mau; điểm cực Tây ở khoảng kinh độ 102°09'Đ tại xã Sín Thầu, huyện Mường Nhé, tỉnh Điện Biên; điểm cực Đông ở khoảng kinh độ 109°28'Đ tại xã Vạn Thạnh, huyện Vạn Ninh, tỉnh Khánh Hoà.",
+      "usage_context": "Bài 1, mục I.1 — xác định toạ độ địa lí và phạm vi lãnh thổ trên đất liền của Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "I.1",
+        "pdf_page": 7,
+        "printed_page": 5
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-lanh-tho-viet-nam",
+      "term": "Lãnh thổ Việt Nam",
+      "aliases": [],
+      "english": "Territory of Vietnam",
+      "notation": null,
+      "meaning": "Lãnh thổ Việt Nam là một khối thống nhất và toàn vẹn bao gồm vùng đất, vùng biển và vùng trời.",
+      "usage_context": "Bài 1, mục I.2 — khái quát cấu trúc phạm vi lãnh thổ quốc gia.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "I.2",
+        "pdf_page": 9,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vung-dat-viet-nam",
+      "term": "Vùng đất Việt Nam",
+      "aliases": [
+        "Vùng đất"
+      ],
+      "english": "Land territory of Vietnam",
+      "notation": null,
+      "meaning": "Vùng đất là toàn bộ phần đất liền được xác định trong phạm vi đường biên giới của nước ta với các nước láng giềng và phần đất nổi của hàng nghìn hòn đảo trên Biển Đông, với tổng diện tích các đơn vị hành chính hơn 331 nghìn km².",
+      "usage_context": "Bài 1, mục I.2 — trình bày bộ phận vùng đất trong phạm vi lãnh thổ Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "I.2",
+        "pdf_page": 9,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vung-bien-viet-nam",
+      "term": "Vùng biển Việt Nam",
+      "aliases": [],
+      "english": "Maritime territory of Vietnam",
+      "notation": null,
+      "meaning": "Vùng biển Việt Nam có diện tích khoảng 1 triệu km², tiếp giáp với vùng biển của các nước Trung Quốc, Phi-líp-pin, Ma-lai-xi-a, Bru-nây, In-đô-nê-xi-a, Xin-ga-po, Cam-pu-chia và Thái Lan; bao gồm: nội thuỷ, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa.",
+      "usage_context": "Bài 1, mục I.2 — trình bày quy mô và các bộ phận cấu thành vùng biển Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "I.2",
+        "pdf_page": 9,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-noi-thuy",
+      "term": "Nội thuỷ",
+      "aliases": [],
+      "english": "Internal waters",
+      "notation": null,
+      "meaning": "Nội thuỷ là vùng nước tiếp giáp với bờ biển, ở phía trong đường cơ sở và là bộ phận lãnh thổ của Việt Nam.",
+      "usage_context": "Bài 1, mục I.2 — xác định phạm vi và quy chế pháp lí của nội thuỷ theo Luật Biển Việt Nam 2012.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "I.2",
+        "pdf_page": 9,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-lanh-hai",
+      "term": "Lãnh hải",
+      "aliases": [],
+      "english": "Territorial sea",
+      "notation": null,
+      "meaning": "Lãnh hải là vùng biển có chiều rộng 12 hải lí tính từ đường cơ sở ra phía biển. Ranh giới ngoài của lãnh hải là biên giới quốc gia trên biển của Việt Nam.",
+      "usage_context": "Bài 1, mục I.2 — xác định chiều rộng lãnh hải và biên giới quốc gia trên biển.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "I.2",
+        "pdf_page": 9,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vung-tiep-giap-lanh-hai",
+      "term": "Vùng tiếp giáp lãnh hải",
+      "aliases": [],
+      "english": "Contiguous zone",
+      "notation": null,
+      "meaning": "Vùng tiếp giáp lãnh hải là vùng biển tiếp liền và nằm ngoài lãnh hải Việt Nam, có chiều rộng 12 hải lí tính từ ranh giới ngoài của lãnh hải.",
+      "usage_context": "Bài 1, mục I.2 — xác định phạm vi vùng tiếp giáp lãnh hải Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "I.2",
+        "pdf_page": 9,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vung-dac-quyen-kinh-te",
+      "term": "Vùng đặc quyền kinh tế",
+      "aliases": [],
+      "english": "Exclusive economic zone (EEZ)",
+      "notation": null,
+      "meaning": "Vùng đặc quyền kinh tế là vùng biển tiếp liền và nằm ngoài lãnh hải Việt Nam, hợp với lãnh hải thành một vùng biển có chiều rộng 200 hải lí tính từ đường cơ sở.",
+      "usage_context": "Bài 1, mục I.2 — xác định phạm vi vùng đặc quyền kinh tế của Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "I.2",
+        "pdf_page": 9,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-them-luc-dia",
+      "term": "Thềm lục địa",
+      "aliases": [],
+      "english": "Continental shelf",
+      "notation": null,
+      "meaning": "Thềm lục địa là vùng đáy biển và lòng đất dưới đáy biển, tiếp liền và nằm ngoài lãnh hải Việt Nam, trên toàn bộ phần kéo dài tự nhiên của lãnh thổ đất liền, các đảo và quần đảo của Việt Nam cho đến mép ngoài của rìa lục địa.",
+      "usage_context": "Bài 1, mục I.2 — xác định phạm vi thềm lục địa Việt Nam theo Luật Biển Việt Nam 2012.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "I.2",
+        "pdf_page": 10,
+        "printed_page": 8
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vung-troi-viet-nam",
+      "term": "Vùng trời Việt Nam",
+      "aliases": [
+        "Vùng trời"
+      ],
+      "english": "Airspace of Vietnam",
+      "notation": null,
+      "meaning": "Vùng trời Việt Nam là khoảng không gian bao trùm lên lãnh thổ nước ta, trên đất liền được xác định bằng các đường biên giới; trên biển là ranh giới phía ngoài của lãnh hải và không gian của các đảo.",
+      "usage_context": "Bài 1, mục I.2 — xác định ranh giới vùng trời quốc gia trên đất liền và trên biển.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "I.2",
+        "pdf_page": 10,
+        "printed_page": 8
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-khi-hau-nhiet-doi-am-gio-mua",
+      "term": "Khí hậu nhiệt đới ẩm gió mùa",
+      "aliases": [],
+      "english": "Tropical humid monsoon climate",
+      "notation": null,
+      "meaning": "Toàn bộ lãnh thổ nước ta nhận được lượng bức xạ mặt trời lớn, cán cân bức xạ quanh năm dương; nhiệt độ trung bình năm trên cả nước đều trên 20°C (trừ vùng núi cao), tổng số giờ nắng năm dao động từ 1 400 – 3 000 giờ tuỳ từng nơi; lượng mưa trung bình năm từ 1 500 – 2 000 mm, độ ẩm tương đối của không khí trung bình hằng năm từ 80 – 85%, cân bằng ẩm luôn dương.",
+      "usage_context": "Bài 2, mục I.1 — trình bày các biểu hiện nhiệt, ẩm của khí hậu nhiệt đới ẩm gió mùa ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "I.1",
+        "pdf_page": 12,
+        "printed_page": 10
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-tin-phong-ban-cau-bac",
+      "term": "Tín phong bán cầu Bắc",
+      "aliases": [],
+      "english": "Northern Hemisphere trade winds",
+      "notation": null,
+      "meaning": "Do nằm trong khu vực nội chí tuyến bán cầu Bắc nên Việt Nam có Tín phong hoạt động quanh năm; từ Đà Nẵng (16°B) trở vào, Tín phong bán cầu Bắc chiếm ưu thế vào mùa đông, gây mưa cho khu vực ven biển Trung Bộ và là nguyên nhân tạo nên mùa khô ở Tây Nguyên và Nam Bộ.",
+      "usage_context": "Bài 2, mục I.1 — giải thích hoạt động của Tín phong bán cầu Bắc và hệ quả phân mùa mưa – khô.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "I.1",
+        "pdf_page": 13,
+        "printed_page": 11
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-gio-mua-dong-bac",
+      "term": "Gió mùa Đông Bắc",
+      "aliases": [],
+      "english": "Northeast monsoon",
+      "notation": null,
+      "meaning": "Miền Bắc nước ta chịu tác động của khối khí lạnh từ áp cao Xi-bia di chuyển theo hướng đông bắc nên thường gọi là gió mùa Đông Bắc; nửa đầu mùa đông tạo nên một mùa đông lạnh với thời tiết lạnh khô cho miền Bắc, nửa sau mùa đông gây nên thời tiết lạnh ẩm, có mưa phùn ở vùng ven biển và đồng bằng sông Hồng.",
+      "usage_context": "Bài 2, mục I.1 — trình bày nguồn gốc, hướng và tính chất thời tiết của gió mùa đông ở miền Bắc.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "I.1",
+        "pdf_page": 13,
+        "printed_page": 11
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-gio-mua-tay-nam",
+      "term": "Gió mùa Tây Nam",
+      "aliases": [],
+      "english": "Southwest monsoon",
+      "notation": null,
+      "meaning": "Đầu mùa hạ, khối khí nhiệt đới ẩm từ Bắc Ấn Độ Dương qua vịnh Ben-gan di chuyển theo hướng tây nam vào nước ta, gây mưa lớn cho Nam Bộ và Tây Nguyên; vào giữa và cuối mùa hạ, gió mùa Tây Nam xuất phát từ áp cao cận chí tuyến bán cầu Nam hoạt động mạnh, gây ra mưa lớn và kéo dài cho các vùng đón gió ở Nam Bộ và Tây Nguyên.",
+      "usage_context": "Bài 2, mục I.1 — trình bày nguồn gốc và tác động gây mưa của gió mùa hạ ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "I.1",
+        "pdf_page": 14,
+        "printed_page": 12
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-gio-tay-kho-nong",
+      "term": "Gió Tây khô nóng",
+      "aliases": [
+        "gió phơn Tây Nam",
+        "gió Lào",
+        "gió Tây khô nóng hoặc gió Lào"
+      ],
+      "english": "Dry hot westerly wind (Foehn wind)",
+      "notation": null,
+      "meaning": "Khi vượt qua dãy Trường Sơn và các dãy núi chạy dọc biên giới Việt – Lào, tràn xuống đồng bằng ven biển Trung Bộ và phần phía nam vùng Tây Bắc, khối khí này trở nên khô nóng (gió phơn Tây Nam hay còn gọi là gió Tây khô nóng hoặc gió Lào).",
+      "usage_context": "Bài 2, mục I.1 — giải thích sự hình thành thời tiết khô nóng đầu mùa hạ ở ven biển Trung Bộ và nam Tây Bắc.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "I.1",
+        "pdf_page": 14,
+        "printed_page": 12
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-dia-hinh-cac-xto",
+      "term": "Địa hình các-xtơ",
+      "aliases": [
+        "các-xtơ"
+      ],
+      "english": "Karst topography",
+      "notation": null,
+      "meaning": "Do đặc điểm nóng ẩm của khí hậu nhiệt đới, các quá trình phong hoá diễn ra mạnh mẽ làm cho bề mặt địa hình bị thay đổi; ở một số khu vực đá vôi hình thành địa hình các-xtơ với các dạng hang động, thung khô và các cánh đồng các-xtơ như ở Quảng Bình, Hà Giang, Ninh Bình.",
+      "usage_context": "Bài 2, mục I.2 — trình bày biểu hiện phong hoá nhiệt đới ẩm trên địa hình đá vôi ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "I.2",
+        "pdf_page": 16,
+        "printed_page": 14
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-qua-trinh-feralit",
+      "term": "Quá trình feralit",
+      "aliases": [],
+      "english": "Ferrallitization process",
+      "notation": null,
+      "meaning": "Trong vùng khí hậu nhiệt đới ẩm, quá trình hình thành đất đặc trưng là quá trình feralit; điều kiện nhiệt, ẩm cao làm cho các quá trình phong hoá diễn ra mạnh mẽ, tạo ra một lớp đất dày, mưa nhiều làm rửa trôi các chất badơ dễ tan làm đất chua và tích tụ ôxit sắt và ôxit nhôm.",
+      "usage_context": "Bài 2, mục I.4 — giải thích cơ chế hình thành đất đặc trưng vùng nhiệt đới ẩm ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "I.4",
+        "pdf_page": 17,
+        "printed_page": 15
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-dat-feralit-do-vang",
+      "term": "Đất feralit đỏ vàng",
+      "aliases": [],
+      "english": "Red-yellow ferrallitic soil",
+      "notation": null,
+      "meaning": "Mưa nhiều làm rửa trôi các chất badơ dễ tan (Ca²⁺, Mg²⁺, Na⁺, K⁺) làm đất chua và tích tụ ôxit sắt (Fe₂O₃) và ôxit nhôm (Al₂O₃), tạo ra màu đỏ vàng nên loại đất này được gọi là đất feralit đỏ vàng.",
+      "usage_context": "Bài 2, mục I.4 — trình bày đặc điểm tính chất và màu sắc của loại đất chính ở vùng đồi núi nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "I.4",
+        "pdf_page": 17,
+        "printed_page": 15
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-phan-lanh-tho-phia-bac",
+      "term": "Phần lãnh thổ phía Bắc",
+      "aliases": [],
+      "english": "Northern territorial part of Vietnam",
+      "notation": null,
+      "meaning": "Khí hậu đặc trưng là khí hậu nhiệt đới ẩm gió mùa có một mùa đông lạnh, nhiệt độ trung bình năm trên 20°C, do ảnh hưởng của gió mùa Đông Bắc nên có một mùa đông lạnh với 2 – 3 tháng nhiệt độ trung bình dưới 18°C; cảnh quan thiên nhiên tiêu biểu là đới rừng nhiệt đới gió mùa.",
+      "usage_context": "Bài 3, mục I.1 — phân tích đặc điểm khí hậu và cảnh quan phần lãnh thổ phía Bắc tới dãy núi Bạch Mã.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "I.1",
+        "pdf_page": 19,
+        "printed_page": 17
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-phan-lanh-tho-phia-nam",
+      "term": "Phần lãnh thổ phía Nam",
+      "aliases": [],
+      "english": "Southern territorial part of Vietnam",
+      "notation": null,
+      "meaning": "Khí hậu mang sắc thái của khí hậu cận xích đạo gió mùa, có nền nhiệt độ cao, trung bình năm trên 25°C, biên độ nhiệt độ không quá 4 – 5°C, khí hậu phân thành hai mùa mưa và khô; cảnh quan thiên nhiên tiêu biểu là đới rừng cận xích đạo gió mùa.",
+      "usage_context": "Bài 3, mục I.1 — phân tích đặc điểm khí hậu và cảnh quan phần lãnh thổ từ dãy núi Bạch Mã trở vào phía Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "I.1",
+        "pdf_page": 19,
+        "printed_page": 17
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-dai-nhiet-doi-gio-mua",
+      "term": "Đai nhiệt đới gió mùa",
+      "aliases": [],
+      "english": "Tropical monsoon altitudinal belt",
+      "notation": null,
+      "meaning": "Ở miền Bắc, đai nhiệt đới gió mùa có độ cao trung bình từ khoảng 600 – 700 m trở xuống, ở miền Nam từ khoảng 900 – 1 000 m trở xuống; khí hậu nhiệt đới gió mùa biểu hiện rõ với tổng nhiệt độ hoạt động trung bình năm trên 7 500°C, mùa hạ nóng; đất có hai nhóm chính là nhóm đất phù sa ở vùng đồng bằng và nhóm đất feralit ở vùng đồi núi thấp.",
+      "usage_context": "Bài 3, mục I.3 — trình bày độ cao, khí hậu, đất và sinh vật của đai thấp nhất trong sự phân hoá theo độ cao.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "I.3",
+        "pdf_page": 21,
+        "printed_page": 19
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-dai-can-nhiet-doi-gio-mua-tren-nui",
+      "term": "Đai cận nhiệt đới gió mùa trên núi",
+      "aliases": [],
+      "english": "Subtropical monsoon montane belt",
+      "notation": null,
+      "meaning": "Ở miền Bắc, đai cận nhiệt đới gió mùa trên núi bắt đầu từ độ cao khoảng 600 – 700 m đến 2 600 m, ở miền Nam từ khoảng 900 – 1 000 m đến 2 600 m; khí hậu mát mẻ, tổng nhiệt độ dao động từ 4 500°C đến 7 500°C, mùa hè mát (nhiệt độ trung bình tháng dưới 25°C), mưa nhiều, độ ẩm cao; hình thành các loại đất feralit mùn và đất xám mùn trên núi.",
+      "usage_context": "Bài 3, mục I.3 — trình bày đặc điểm tự nhiên của đai cận nhiệt đới gió mùa trên núi ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "I.3",
+        "pdf_page": 22,
+        "printed_page": 20
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-dai-on-doi-gio-mua-tren-nui",
+      "term": "Đai ôn đới gió mùa trên núi",
+      "aliases": [],
+      "english": "Temperate monsoon montane belt",
+      "notation": null,
+      "meaning": "Đai ôn đới gió mùa trên núi có độ cao từ 2 600 m trở lên (có ở dãy Hoàng Liên Sơn); khí hậu mang tính chất ôn đới, tổng nhiệt độ hoạt động dưới 4 500°C, quanh năm nhiệt độ dưới 15°C, mùa đông nhiệt độ xuống dưới 5°C; đất chủ yếu là đất mùn núi cao, thực vật ôn đới chiếm ưu thế như đỗ quyên, lãnh sam, thiết sam.",
+      "usage_context": "Bài 3, mục I.3 — trình bày đặc điểm tự nhiên của đai cao nhất ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "I.3",
+        "pdf_page": 22,
+        "printed_page": 20
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-mien-bac-va-dong-bac-bac-bo",
+      "term": "Miền Bắc và Đông Bắc Bắc Bộ",
+      "aliases": [],
+      "english": "North and Northeast Tonkin natural region",
+      "notation": null,
+      "meaning": "Bao gồm vùng đồi núi Đông Bắc và đồng bằng sông Hồng cùng vùng biển đảo phía đông, ranh giới phía tây – tây nam dọc theo bờ phải của sông Hồng và rìa phía tây, tây nam đồng bằng sông Hồng; đồi núi thấp chiếm ưu thế, hướng của các dãy núi theo hướng vòng cung; chịu ảnh hưởng trực tiếp và sâu sắc của gió mùa Đông Bắc tạo nên một mùa đông lạnh điển hình nhất nước ta.",
+      "usage_context": "Bài 3, mục II.1 — trình bày phạm vi và đặc điểm tự nhiên nổi bật của miền Bắc và Đông Bắc Bắc Bộ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "II.1",
+        "pdf_page": 22,
+        "printed_page": 20
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-mien-tay-bac-va-bac-trung-bo",
+      "term": "Miền Tây Bắc và Bắc Trung Bộ",
+      "aliases": [],
+      "english": "Northwest and North Central Coast natural region",
+      "notation": null,
+      "meaning": "Gồm khu vực Tây Bắc và Bắc Trung Bộ và vùng biển duyên hải Bắc Trung Bộ từ Thanh Hoá đến Thừa Thiên Huế, ranh giới từ bờ phải sông Hồng tới dãy núi Bạch Mã; địa hình núi cao và núi trung bình chiếm ưu thế, bị chia cắt mạnh và hiểm trở nhất nước ta, các dãy núi xen kẽ các thung lũng theo hướng tây bắc – đông nam; ảnh hưởng của gió mùa Đông Bắc giảm sút.",
+      "usage_context": "Bài 3, mục II.2 — trình bày phạm vi và đặc điểm tự nhiên nổi bật của miền Tây Bắc và Bắc Trung Bộ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "II.2",
+        "pdf_page": 24,
+        "printed_page": 22
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-mien-nam-trung-bo-va-nam-bo",
+      "term": "Miền Nam Trung Bộ và Nam Bộ",
+      "aliases": [],
+      "english": "South Central Coast and Southern natural region",
+      "notation": null,
+      "meaning": "Gồm khu vực Nam Trung Bộ và Nam Bộ cùng vùng biển rộng lớn với nhiều đảo, quần đảo, ranh giới của miền từ dãy núi Bạch Mã trở vào nam; địa hình gồm các dãy núi, các cao nguyên badan xếp tầng, đồng bằng châu thổ rộng lớn và đồng bằng nhỏ hẹp ven biển; có khí hậu cận xích đạo gió mùa với nền nhiệt độ cao quanh năm, hai mùa mưa và khô rõ rệt.",
+      "usage_context": "Bài 3, mục II.3 — trình bày phạm vi và đặc điểm tự nhiên nổi bật của miền Nam Trung Bộ và Nam Bộ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "II.3",
+        "pdf_page": 26,
+        "printed_page": 24
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-thoai-hoa-dat",
+      "term": "Thoái hoá đất",
+      "aliases": [],
+      "english": "Land degradation",
+      "notation": null,
+      "meaning": "Diện tích đất canh tác ở nước ta đang bị thoái hoá ở nhiều nơi, biểu hiện cụ thể như suy giảm độ phì, xói mòn, khô hạn, kết von, nhiễm mặn, nhiễm phèn, sạt lở và bị ô nhiễm; nguyên nhân do tác động của sản xuất và sinh hoạt cùng thiên tai và biến đổi khí hậu.",
+      "usage_context": "Bài 5, mục I.1 — trình bày biểu hiện và nguyên nhân suy giảm tài nguyên đất ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "I.1",
+        "pdf_page": 30,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-suy-giam-tai-nguyen-sinh-vat",
+      "term": "Suy giảm tài nguyên sinh vật",
+      "aliases": [],
+      "english": "Biological resource depletion",
+      "notation": null,
+      "meaning": "Sự suy giảm tài nguyên sinh vật ở nước ta được thể hiện rõ qua sự suy giảm tài nguyên rừng và suy giảm đa dạng sinh học; số lượng cá thể các loài thực vật, động vật hoang dã bị suy giảm nghiêm trọng, một số loài thực vật và động vật có nguy cơ tuyệt chủng, làm suy giảm nguồn gen di truyền.",
+      "usage_context": "Bài 5, mục I.2 — trình bày hiện trạng suy giảm diện tích rừng và đa dạng sinh học ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "I.2",
+        "pdf_page": 31,
+        "printed_page": 29
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-suy-giam-tai-nguyen-nuoc",
+      "term": "Suy giảm tài nguyên nước",
+      "aliases": [],
+      "english": "Water resource depletion",
+      "notation": null,
+      "meaning": "Nguồn nước mặt (sông, hồ) ở nhiều nơi đang bị suy giảm và ô nhiễm, nguồn nước ngầm ở một số khu vực hạ thấp đáng kể, xảy ra tình trạng thiếu nước ngọt cho sinh hoạt và sản xuất vào mùa khô do tác động của biến đổi khí hậu, khai thác quá mức, nước thải và phá rừng đầu nguồn.",
+      "usage_context": "Bài 5, mục I.3 — trình bày hiện trạng và nguyên nhân suy giảm tài nguyên nước ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "I.3",
+        "pdf_page": 32,
+        "printed_page": 30
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-o-nhiem-moi-truong",
+      "term": "Ô nhiễm môi trường",
+      "aliases": [],
+      "english": "Environmental pollution",
+      "notation": null,
+      "meaning": "Tình trạng ô nhiễm môi trường ở nước ta đang là vấn đề cấp bách, mức độ ô nhiễm ở một số khu vực ngày càng gia tăng, đáng chú ý nhất là ô nhiễm môi trường không khí (đặc biệt là ô nhiễm bụi mịn tại một số thành phố lớn, khu công nghiệp) và ô nhiễm môi trường nước (ở một số đoạn sông, nước ngầm, nước biển).",
+      "usage_context": "Bài 5, mục II.1 — phân tích hiện trạng và nguyên nhân ô nhiễm không khí, nước và đất ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "II.1",
+        "pdf_page": 32,
+        "printed_page": 30
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-quy-mo-va-gia-tang-dan-so-viet-nam",
+      "term": "Quy mô và gia tăng dân số Việt Nam",
+      "aliases": [],
+      "english": "Vietnam's population size and growth",
+      "notation": null,
+      "meaning": "Năm 2021, Việt Nam có 98,5 triệu người, đứng thứ 3 trong khu vực Đông Nam Á, thứ 8 ở châu Á và thứ 15 trên thế giới; quy mô dân số nước ta lớn, tiếp tục tăng lên nhưng có xu hướng tăng chậm lại, tỉ lệ tăng dân số giảm dần.",
+      "usage_context": "Bài 6, mục I.1 — trình bày quy mô và gia tăng dân số của nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "I.1",
+        "pdf_page": 34,
+        "printed_page": 32
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-co-cau-dan-so-theo-gioi-tinh",
+      "term": "Cơ cấu dân số theo giới tính",
+      "aliases": [],
+      "english": "Population structure by sex",
+      "notation": null,
+      "meaning": "Cơ cấu dân số theo giới tính của Việt Nam khá cân bằng; năm 2021, tỉ lệ nam, nữ trong tổng dân số là 49,84% và 50,16% (hay cứ 100 nữ, tương ứng trung bình có 99,4 nam).",
+      "usage_context": "Bài 6, mục I.2 — trình bày đặc điểm cơ cấu dân số theo giới tính ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "I.2",
+        "pdf_page": 34,
+        "printed_page": 32
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-mat-can-bang-gioi-tinh-khi-sinh",
+      "term": "Mất cân bằng giới tính khi sinh",
+      "aliases": [],
+      "english": "Sex ratio imbalance at birth",
+      "notation": null,
+      "meaning": "Hiện nay nước ta có tình trạng mất cân bằng giới tính khi sinh; trong số trẻ được sinh ra năm 2021, cứ 100 bé gái, tương ứng bình quân có 112 bé trai.",
+      "usage_context": "Bài 6, mục I.2 — nêu tình trạng mất cân bằng giới tính khi sinh ở nước ta hiện nay.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "I.2",
+        "pdf_page": 35,
+        "printed_page": 33
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-co-cau-dan-so-theo-tuoi",
+      "term": "Cơ cấu dân số theo tuổi",
+      "aliases": [],
+      "english": "Population structure by age",
+      "notation": null,
+      "meaning": "Do mức sinh giảm, tuổi thọ tăng nên cơ cấu dân số theo tuổi của nước ta biến đổi nhanh theo hướng giảm tỉ lệ nhóm trẻ em, tăng tỉ lệ nhóm cao tuổi; Việt Nam đang có cơ cấu dân số vàng nhưng cũng đã bước vào thời kì già hoá dân số.",
+      "usage_context": "Bài 6, mục I.2 — trình bày sự biến đổi cơ cấu dân số theo tuổi của Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "I.2",
+        "pdf_page": 35,
+        "printed_page": 33
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-co-cau-dan-so-theo-dan-toc",
+      "term": "Cơ cấu dân số theo dân tộc",
+      "aliases": [],
+      "english": "Population structure by ethnicity",
+      "notation": null,
+      "meaning": "Nước ta có 54 dân tộc anh em, trong đó dân tộc Kinh chiếm khoảng 85% tổng số dân, các dân tộc thiểu số chiếm gần 15%; các dân tộc sinh sống đan xen nhau khá phổ biến trên các vùng miền của Tổ quốc.",
+      "usage_context": "Bài 6, mục I.2 — trình bày cơ cấu dân số theo dân tộc ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "I.2",
+        "pdf_page": 35,
+        "printed_page": 33
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-co-cau-dan-so-theo-trinh-do-hoc-van",
+      "term": "Cơ cấu dân số theo trình độ học vấn",
+      "aliases": [],
+      "english": "Population structure by educational attainment",
+      "notation": null,
+      "meaning": "Trình độ học vấn của người dân Việt Nam được nâng cao dần; năm 2021, tỉ lệ dân số từ 15 tuổi trở lên biết chữ đạt 95,7%, số năm đi học trung bình của dân số từ 25 tuổi trở lên là 9,1 năm, tuy nhiên có sự khác biệt đáng kể giữa thành thị với nông thôn và giữa các vùng.",
+      "usage_context": "Bài 6, mục I.2 — trình bày cơ cấu dân số theo trình độ học vấn của người dân Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "I.2",
+        "pdf_page": 35,
+        "printed_page": 33
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-phan-bo-dan-cu-viet-nam",
+      "term": "Phân bố dân cư Việt Nam",
+      "aliases": [],
+      "english": "Population distribution in Vietnam",
+      "notation": null,
+      "meaning": "Năm 2021, mật độ dân số nước ta là 297 người/km², cao gấp 5 lần mức trung bình thế giới và có sự chênh lệch giữa các vùng; dân cư nước ta chủ yếu sinh sống ở nông thôn (tỉ lệ dân nông thôn là 62,9%, tỉ lệ dân thành thị là 37,1% tổng số dân).",
+      "usage_context": "Bài 6, mục I.3 — trình bày đặc điểm phân bố dân cư của nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "I.3",
+        "pdf_page": 35,
+        "printed_page": 33
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-muc-sinh-thay-the",
+      "term": "Mức sinh thay thế",
+      "aliases": [],
+      "english": "Replacement fertility level",
+      "notation": null,
+      "meaning": "Mức sinh bình quân 2,1 con/một phụ nữ trong độ tuổi sinh đẻ; chiến lược dân số ở nước ta hiện nay có mục tiêu duy trì vững chắc mức sinh thay thế, giảm chênh lệch mức sinh giữa các vùng, đối tượng.",
+      "usage_context": "Bài 6, mục III.1 — nêu mục tiêu duy trì mức sinh thay thế trong chiến lược dân số của Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "III.1",
+        "pdf_page": 37,
+        "printed_page": 35
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-chien-luoc-dan-so-cua-viet-nam",
+      "term": "Chiến lược dân số của Việt Nam",
+      "aliases": [],
+      "english": "Vietnam's population strategy",
+      "notation": null,
+      "meaning": "Nước ta đã ban hành các chiến lược dân số thích hợp với từng thời kì (đến năm 2000, giai đoạn 2001 – 2010, giai đoạn 2011 – 2020, đến năm 2030), góp phần giảm sinh, nâng cao chất lượng dân số, phát huy tối đa lợi thế cơ cấu dân số vàng, phát triển kinh tế, xã hội, bảo vệ tài nguyên, môi trường.",
+      "usage_context": "Bài 6, mục III.1 — trình bày mục tiêu và các giai đoạn chiến lược dân số của Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "III.1",
+        "pdf_page": 37,
+        "printed_page": 35
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-luc-luong-lao-dong",
+      "term": "Lực lượng lao động",
+      "aliases": [
+        "dân số hoạt động kinh tế"
+      ],
+      "english": "Labor force (economically active population)",
+      "notation": null,
+      "meaning": "Năm 2021, lực lượng lao động (dân số hoạt động kinh tế) của nước ta là 50,6 triệu người, chiếm 51,3% tổng số dân; mỗi năm, nguồn lao động nước ta tăng thêm khoảng 1 triệu người (Bộ Luật Lao động năm 2019 của Việt Nam quy định độ tuổi lao động tối thiểu của người lao động là đủ 15 tuổi).",
+      "usage_context": "Bài 7, mục I.1 — trình bày số lượng lực lượng lao động của nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "I.1",
+        "pdf_page": 39,
+        "printed_page": 37
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-chat-luong-lao-dong-viet-nam",
+      "term": "Chất lượng lao động Việt Nam",
+      "aliases": [],
+      "english": "Labor quality in Vietnam",
+      "notation": null,
+      "meaning": "Lao động nước ta cần cù, sáng tạo, có nhiều kinh nghiệm sản xuất; chất lượng lao động ngày càng được nâng lên nhờ những thành tựu phát triển kinh tế, y tế, văn hoá, giáo dục – đào tạo (năm 2021, tỉ lệ lao động được đào tạo từ sơ cấp trở lên ở nước ta đạt 26,2%), tuy nhiên còn hạn chế về thể lực, trình độ chuyên môn kĩ thuật và tác phong lao động công nghiệp.",
+      "usage_context": "Bài 7, mục I.2 — trình bày đặc điểm chất lượng lao động của nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "I.2",
+        "pdf_page": 39,
+        "printed_page": 37
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-phan-bo-lao-dong-viet-nam",
+      "term": "Phân bố lao động Việt Nam",
+      "aliases": [],
+      "english": "Labor distribution in Vietnam",
+      "notation": null,
+      "meaning": "Năm 2021, lao động ở nông thôn nước ta là hơn 32 triệu người, lao động ở thành thị là hơn 18 triệu người; Đồng bằng sông Hồng có số lượng lao động lớn nhất cả nước (chiếm 22,5% tổng số lao động cả nước năm 2021), tiếp theo là vùng Bắc Trung Bộ và Duyên hải miền Trung (20,7%), Đông Nam Bộ (19,6%).",
+      "usage_context": "Bài 7, mục I.3 — trình bày sự phân bố lao động ở nông thôn, thành thị và các vùng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "I.3",
+        "pdf_page": 40,
+        "printed_page": 38
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-co-cau-lao-dong-theo-nganh-kinh-te",
+      "term": "Cơ cấu lao động theo ngành kinh tế",
+      "aliases": [],
+      "english": "Labor structure by economic sector",
+      "notation": null,
+      "meaning": "Theo ngành kinh tế, cơ cấu lao động nước ta có sự chuyển dịch phù hợp với đường lối phát triển kinh tế – xã hội đất nước theo hướng công nghiệp hoá, hiện đại hoá: giảm tỉ lệ lao động trong khu vực nông nghiệp, lâm nghiệp và thuỷ sản; tăng tỉ lệ lao động trong khu vực công nghiệp và xây dựng, dịch vụ.",
+      "usage_context": "Bài 7, mục II.1 — phân tích xu hướng chuyển dịch cơ cấu lao động theo ngành kinh tế.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "II.1",
+        "pdf_page": 40,
+        "printed_page": 38
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-co-cau-lao-dong-theo-thanh-phan-kinh-te",
+      "term": "Cơ cấu lao động theo thành phần kinh tế",
+      "aliases": [],
+      "english": "Labor structure by economic ownership sector",
+      "notation": null,
+      "meaning": "Cơ cấu lao động theo thành phần kinh tế có sự thay đổi theo hướng giảm tỉ lệ lao động khu vực kinh tế Nhà nước, tăng tỉ lệ lao động khu vực có vốn đầu tư nước ngoài.",
+      "usage_context": "Bài 7, mục II.2 — phân tích sự thay đổi cơ cấu lao động theo thành phần kinh tế.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "II.2",
+        "pdf_page": 40,
+        "printed_page": 38
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-co-cau-lao-dong-theo-thanh-thi-va-nong-thon",
+      "term": "Cơ cấu lao động theo thành thị và nông thôn",
+      "aliases": [],
+      "english": "Urban and rural labor structure",
+      "notation": null,
+      "meaning": "Bước sang thế kỉ XXI, đô thị hoá khá nhanh, tỉ trọng lực lượng lao động khu vực nông thôn giảm mạnh; tỉ lệ lao động đã qua đào tạo ở nông thôn thường thấp hơn ở thành thị (năm 2021, tỉ lệ lao động đã qua đào tạo ở nông thôn là 17,5% và ở thành thị là 41,1%).",
+      "usage_context": "Bài 7, mục II.3 — phân tích tình hình sử dụng lao động theo thành thị và nông thôn.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "II.3",
+        "pdf_page": 41,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-van-de-viec-lam-o-viet-nam",
+      "term": "Vấn đề việc làm ở Việt Nam",
+      "aliases": [],
+      "english": "Employment issues in Vietnam",
+      "notation": null,
+      "meaning": "Hầu hết lao động nước ta có việc làm, tỉ lệ thất nghiệp và tỉ lệ thiếu việc làm khá thấp (khu vực thành thị thường có tỉ lệ thất nghiệp cao hơn khu vực nông thôn); tuy nhiên việc làm vẫn là một vấn đề kinh tế – xã hội lớn ở nước ta hiện nay do các việc làm giản đơn còn phổ biến, năng suất thấp, thu nhập không cao.",
+      "usage_context": "Bài 7, mục III.1 — phân tích thực trạng vấn đề việc làm ở nước ta hiện nay.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "III.1",
+        "pdf_page": 41,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-do-thi-hoa-o-viet-nam",
+      "term": "Đô thị hoá ở Việt Nam",
+      "aliases": [],
+      "english": "Urbanization in Vietnam",
+      "notation": null,
+      "meaning": "Đô thị hoá gắn với công nghiệp hoá, hiện đại hoá (năm 2021, tỉ lệ dân thành thị của nước ta là 37,1%, xuất hiện ngày càng nhiều đô thị hiện đại, đô thị thông minh); mạng lưới đô thị ngày càng mở rộng và thay đổi chức năng (tổng số đô thị nước ta năm 2021 là 749 đô thị, là trung tâm kinh tế, văn hoá, đổi mới sáng tạo).",
+      "usage_context": "Bài 8, mục I — trình bày các đặc điểm đô thị hoá ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "I",
+        "pdf_page": 43,
+        "printed_page": 41
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-mang-luoi-do-thi-viet-nam",
+      "term": "Mạng lưới đô thị Việt Nam",
+      "aliases": [],
+      "english": "Urban network of Vietnam",
+      "notation": null,
+      "meaning": "Mạng lưới đô thị Việt Nam bao gồm thành phố trực thuộc Trung ương (đơn vị hành chính cấp tỉnh); thành phố trực thuộc tỉnh, thành phố trực thuộc thành phố và thị xã (đơn vị hành chính cấp huyện); thị trấn (đơn vị hành chính cấp xã); bước sang thế kỉ XXI, tổng số đô thị tăng khá nhanh, trong đó số lượng thành phố tăng nhanh nhất.",
+      "usage_context": "Bài 8, mục II — trình bày cấu trúc và sự phát triển mạng lưới đô thị Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "II",
+        "pdf_page": 44,
+        "printed_page": 42
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-phan-loai-do-thi-viet-nam",
+      "term": "Phân loại đô thị Việt Nam",
+      "aliases": [],
+      "english": "Urban classification in Vietnam",
+      "notation": null,
+      "meaning": "Dựa trên các tiêu chí về vị trí, chức năng, vai trò, quy mô và mật độ dân số, tỉ lệ lao động phi nông nghiệp, trình độ phát triển cơ sở hạ tầng và kiến trúc, cảnh quan, đô thị nước ta được phân thành 6 loại: Loại đặc biệt, loại I, loại II, loại III, loại IV và loại V (Hà Nội và Thành phố Hồ Chí Minh là hai đô thị đặc biệt của Việt Nam).",
+      "usage_context": "Bài 8, mục II — trình bày các tiêu chí phân loại và cấp quản lí đô thị ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "II",
+        "pdf_page": 44,
+        "printed_page": 42
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-anh-huong-tich-cuc-cua-do-thi-hoa",
+      "term": "Ảnh hưởng tích cực của đô thị hoá",
+      "aliases": [],
+      "english": "Positive impacts of urbanization",
+      "notation": null,
+      "meaning": "Đô thị hoá kéo theo sự dịch chuyển lao động nông nghiệp sang lao động công nghiệp và dịch vụ có năng suất cao hơn; là động lực phát triển kinh tế của cả nước và các địa phương (năm 2021, đô thị đóng góp tới 70% GDP); tăng cường cơ sở hạ tầng kĩ thuật, xã hội và góp phần phát triển, chuyển dịch cơ cấu kinh tế, lan toả lối sống thành thị vào nông thôn.",
+      "usage_context": "Bài 8, mục III.1 — phân tích các ảnh hưởng tích cực của đô thị hoá đến phát triển kinh tế – xã hội.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "III.1",
+        "pdf_page": 45,
+        "printed_page": 43
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-tac-dong-tieu-cuc-cua-do-thi-hoa",
+      "term": "Tác động tiêu cực của đô thị hoá",
+      "aliases": [],
+      "english": "Negative impacts of urbanization",
+      "notation": null,
+      "meaning": "Đô thị hoá diễn ra tự phát, không theo quy hoạch gây sức ép việc làm, quá tải về cơ sở hạ tầng, cơ sở vật chất kĩ thuật, nảy sinh các vấn đề an ninh xã hội và ô nhiễm môi trường.",
+      "usage_context": "Bài 8, mục III.2 — phân tích tác động tiêu cực khi đô thị hoá diễn ra tự phát, không theo quy hoạch.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "III.2",
+        "pdf_page": 45,
+        "printed_page": 43
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-chuoi-gia-tri-toan-cau",
+      "term": "Chuỗi giá trị toàn cầu",
+      "aliases": [],
+      "english": "Global value chain",
+      "notation": null,
+      "meaning": "Toàn bộ quá trình sản xuất hàng hoá được thực hiện ở bất cứ nơi nào mà kĩ năng và nguyên liệu cần thiết để sản xuất đều có sẵn tại mức giá cạnh tranh cũng như đảm bảo chất lượng sản phẩm.",
+      "usage_context": "Bảng giải thích thuật ngữ (trang 175) và các bài thuộc Phần 3 (Bài 10, 11, 15, 16, 21).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-giai-thich-thuat-ngu",
+        "section": null,
+        "pdf_page": 179,
+        "printed_page": 175
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-chuyen-doi-so",
+      "term": "Chuyển đổi số",
+      "aliases": [],
+      "english": "Digital transformation",
+      "notation": null,
+      "meaning": "Quá trình thay đổi tổng thể và toàn diện của cá nhân, tổ chức về cách sống, cách làm việc và phương thức sản xuất dựa trên các công nghệ số.",
+      "usage_context": "Bảng giải thích thuật ngữ (trang 175) và các bài thuộc Phần 3 (Bài 10, 19, 20, 21).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-giai-thich-thuat-ngu",
+        "section": null,
+        "pdf_page": 179,
+        "printed_page": 175
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-kinh-te-so",
+      "term": "Kinh tế số",
+      "aliases": [],
+      "english": "Digital economy",
+      "notation": null,
+      "meaning": "Nền kinh tế vận hành chủ yếu dựa trên công nghệ số, đặc biệt là các giao dịch điện tử tiến hành thông qua internet. Kinh tế số bao gồm tất cả các lĩnh vực và nền kinh tế mà công nghệ số được áp dụng.",
+      "usage_context": "Bảng giải thích thuật ngữ (trang 175) và các bài thuộc Phần 3 (Bài 19, 20).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-giai-thich-thuat-ngu",
+        "section": null,
+        "pdf_page": 179,
+        "printed_page": 175
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-logistics",
+      "term": "Logistics",
+      "aliases": [],
+      "english": "Logistics",
+      "notation": null,
+      "meaning": "Dịch vụ cung cấp, vận chuyển hàng hoá tối ưu nhất từ nơi sản xuất đến tay người tiêu dùng.",
+      "usage_context": "Bảng giải thích thuật ngữ (trang 175) và các bài thuộc Phần 3 (Bài 10, 19, 20).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-giai-thich-thuat-ngu",
+        "section": null,
+        "pdf_page": 179,
+        "printed_page": 175
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-chuyen-dich-co-cau-kinh-te-theo-huong-cong-nghiep-hoa-hien-dai-hoa",
+      "term": "Chuyển dịch cơ cấu kinh tế theo hướng công nghiệp hoá, hiện đại hoá",
+      "aliases": [],
+      "english": "Economic restructuring towards industrialization and modernization",
+      "notation": null,
+      "meaning": "Quá trình chuyển đổi toàn diện nền kinh tế và đời sống xã hội, dựa chủ yếu vào sự phát triển của công nghiệp và dịch vụ trên nền tảng áp dụng khoa học – công nghệ, đổi mới sáng tạo, phù hợp với quá trình hội nhập và phát triển bền vững của đất nước.",
+      "usage_context": "Bài 10, Mục II.1 (trang 45): khái niệm và định hướng chuyển dịch cơ cấu kinh tế chung của Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "II.1",
+        "pdf_page": 47,
+        "printed_page": 45
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-chuyen-dich-co-cau-kinh-te-theo-nganh",
+      "term": "Chuyển dịch cơ cấu kinh tế theo ngành",
+      "aliases": [],
+      "english": "Sectoral economic restructuring",
+      "notation": null,
+      "meaning": "Cơ cấu kinh tế theo ngành có sự chuyển dịch theo hướng: giảm tỉ trọng nhóm ngành nông nghiệp, lâm nghiệp và thuỷ sản; tăng tỉ trọng nhóm ngành công nghiệp và xây dựng, dịch vụ; trong mỗi nhóm ngành đang chuyển dịch cơ cấu theo hướng tăng tỉ trọng các ngành có hiệu quả kinh tế và hàm lượng khoa học – công nghệ cao, giảm tỉ trọng của các ngành có hiệu quả kinh tế thấp, sử dụng nhiều tài nguyên và lao động.",
+      "usage_context": "Bài 10, Mục II.2.a (trang 46–47): xu hướng chuyển dịch cơ cấu GDP và nội bộ các nhóm ngành kinh tế ở nước ta.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "II.2.a",
+        "pdf_page": 48,
+        "printed_page": 46
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-chuyen-dich-co-cau-kinh-te-theo-thanh-phan-kinh-te",
+      "term": "Chuyển dịch cơ cấu kinh tế theo thành phần kinh tế",
+      "aliases": [
+        "Chuyển dịch theo thành phần kinh tế"
+      ],
+      "english": "Economic restructuring by ownership sector",
+      "notation": null,
+      "meaning": "Cơ cấu kinh tế theo thành phần kinh tế của nước ta có sự chuyển dịch theo hướng giảm tỉ trọng của kinh tế Nhà nước, tăng tỉ trọng của kinh tế ngoài Nhà nước và khu vực có vốn đầu tư nước ngoài; là kết quả của đường lối phát triển nền kinh tế nhiều thành phần, tăng cường mở cửa, hội nhập với nền kinh tế của thế giới, áp dụng cơ chế thị trường theo định hướng xã hội chủ nghĩa.",
+      "usage_context": "Bài 10, Mục II.2.b (trang 47–48): xu hướng chuyển dịch và vai trò của các thành phần kinh tế ở nước ta.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "II.2.b",
+        "pdf_page": 49,
+        "printed_page": 47
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-chuyen-dich-co-cau-kinh-te-theo-lanh-tho",
+      "term": "Chuyển dịch cơ cấu kinh tế theo lãnh thổ",
+      "aliases": [],
+      "english": "Territorial economic restructuring",
+      "notation": null,
+      "meaning": "Cơ cấu kinh tế theo lãnh thổ chuyển dịch đồng thời với sự chuyển dịch cơ cấu ngành và cơ cấu theo thành phần kinh tế; trên phạm vi cả nước đã hình thành 6 vùng kinh tế – xã hội cùng các khu kinh tế, khu kinh tế ven biển, khu kinh tế cửa khẩu, hành lang kinh tế, hướng đến mục tiêu khai thác tốt hơn lợi thế của các lãnh thổ khác nhau.",
+      "usage_context": "Bài 10, Mục II.2.c (trang 48): sự hình thành các vùng kinh tế – xã hội và tổ chức lãnh thổ các ngành kinh tế.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "II.2.c",
+        "pdf_page": 50,
+        "printed_page": 48
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-chuyen-dich-co-cau-nong-nghiep",
+      "term": "Chuyển dịch cơ cấu nông nghiệp",
+      "aliases": [],
+      "english": "Agricultural restructuring",
+      "notation": null,
+      "meaning": "Cơ cấu nông nghiệp đang có sự chuyển dịch theo hướng giảm tỉ trọng ngành trồng trọt, tăng tỉ trọng ngành chăn nuôi và dịch vụ nông nghiệp; nông nghiệp nước ta đang phát triển mạnh theo hướng sản xuất hàng hoá tập trung, quy mô lớn, hướng tới nông nghiệp thông minh, nông nghiệp bền vững, tham gia ngày càng sâu vào chuỗi giá trị toàn cầu.",
+      "usage_context": "Bài 11, Mục II (trang 50–51): xu hướng chuyển dịch cơ cấu giá trị sản xuất và phương thức sản xuất nông nghiệp ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "II",
+        "pdf_page": 53,
+        "printed_page": 50
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-nganh-trong-trot-o-viet-nam",
+      "term": "Ngành trồng trọt ở Việt Nam",
+      "aliases": [],
+      "english": "Crop production in Vietnam",
+      "notation": null,
+      "meaning": "Trồng trọt là ngành chiếm tỉ trọng lớn trong cơ cấu giá trị sản xuất nông nghiệp ở nước ta, đang ứng dụng khoa học – công nghệ vào sản xuất như cơ giới hoá, tự động hoá, các mô hình canh tác mới; cơ cấu cây trồng nước ta đa dạng, bao gồm: cây lương thực, cây công nghiệp, cây ăn quả, cây thực phẩm và các cây trồng khác.",
+      "usage_context": "Bài 11, Mục III.1 (trang 51–54): vị trí, cơ cấu cây trồng và hiện trạng phát triển, phân bố ngành trồng trọt.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "III.1",
+        "pdf_page": 54,
+        "printed_page": 51
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-nganh-chan-nuoi-o-viet-nam",
+      "term": "Ngành chăn nuôi ở Việt Nam",
+      "aliases": [],
+      "english": "Livestock production in Vietnam",
+      "notation": null,
+      "meaning": "Giá trị sản xuất và tỉ trọng chăn nuôi trong cơ cấu giá trị sản xuất của ngành nông nghiệp ngày càng tăng; kĩ thuật và công nghệ tiên tiến được áp dụng vào các mô hình trang trại, phát triển phương thức chăn nuôi theo hướng hữu cơ, xây dựng vùng nuôi an toàn để kiểm soát dịch bệnh, chế biến sâu, gắn với phát triển thị trường sản phẩm chăn nuôi công nghiệp.",
+      "usage_context": "Bài 11, Mục III.2 (trang 55–56): hiện trạng phát triển và phân bố chăn nuôi lợn, gia cầm, trâu, bò ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "III.2",
+        "pdf_page": 58,
+        "printed_page": 55
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-nong-nghiep-xanh",
+      "term": "Nông nghiệp xanh",
+      "aliases": [
+        "Nông nghiệp hữu cơ"
+      ],
+      "english": "Green agriculture; Organic agriculture",
+      "notation": null,
+      "meaning": "Phát triển nông nghiệp hiệu quả, bền vững, tích hợp đa giá trị theo hướng nâng cao năng lực cạnh tranh; sản xuất gắn với bảo quản sau thu hoạch, đẩy mạnh công nghiệp chế biến và phát triển thị trường nông sản cả trong và ngoài nước; bảo đảm an toàn thực phẩm, an ninh lương thực quốc gia, bảo vệ môi trường sinh thái, thích ứng với biến đổi khí hậu; khuyến khích phát triển nông nghiệp xanh, nông nghiệp hữu cơ.",
+      "usage_context": "Bài 11, Mục IV (trang 56): định hướng phát triển nông nghiệp bền vững, nông nghiệp xanh, nông nghiệp hữu cơ ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "IV",
+        "pdf_page": 59,
+        "printed_page": 56
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-khai-thac-che-bien-lam-san",
+      "term": "Khai thác, chế biến lâm sản",
+      "aliases": [],
+      "english": "Forestry exploitation and processing",
+      "notation": null,
+      "meaning": "Sản lượng khai thác gỗ rừng trồng tăng, khai thác rừng tự nhiên được quản lí chặt chẽ theo hướng bền vững; các sản phẩm chế biến gỗ quan trọng nhất là gỗ tròn, gỗ xẻ, ván sàn, đồ gỗ, gỗ lạng, gỗ giấy và gỗ dán, vùng có sản lượng gỗ khai thác nhiều nhất là Bắc Trung Bộ và Duyên hải miền Trung, tiếp đến là Trung du và miền núi Bắc Bộ.",
+      "usage_context": "Bài 12, Mục I.2 (trang 58–59): hiện trạng khai thác, chế biến gỗ và lâm sản ngoài gỗ ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "I.2",
+        "pdf_page": 61,
+        "printed_page": 58
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-trong-rung-khoanh-nuoi-va-bao-ve-rung",
+      "term": "Trồng rừng, khoanh nuôi và bảo vệ rừng",
+      "aliases": [
+        "Lâm sinh"
+      ],
+      "english": "Silviculture; Afforestation, forest regeneration and protection",
+      "notation": null,
+      "meaning": "Hoạt động trồng rừng được quan tâm đẩy mạnh, diện tích rừng trồng mới tập trung ngày càng tăng (chủ yếu là rừng làm nguyên liệu giấy, rừng gỗ trụ mỏ, rừng thông nhựa, rừng phòng hộ); công tác khoanh nuôi và bảo vệ rừng đã góp phần bảo vệ, phát triển và sử dụng hiệu quả, bền vững diện tích rừng hiện có, bước đầu đáp ứng các yêu cầu về giảm nhẹ thiên tai, bảo vệ môi trường sinh thái, ứng phó với biến đổi khí hậu.",
+      "usage_context": "Bài 12, Mục I.2 (trang 59): hoạt động lâm sinh trong ngành lâm nghiệp Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "I.2",
+        "pdf_page": 62,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-ngu-truong-trong-diem-cua-viet-nam",
+      "term": "Ngư trường trọng điểm của Việt Nam",
+      "aliases": [],
+      "english": "Key fishing grounds of Vietnam",
+      "notation": null,
+      "meaning": "Vùng biển nước ta có nguồn lợi hải sản phong phú, tổng trữ lượng hải sản khoảng 4 triệu tấn, cho phép khai thác bền vững khoảng 1,5 triệu tấn mỗi năm; có 4 ngư trường trọng điểm đã được xác định là ngư trường Hải Phòng – Quảng Ninh, ngư trường quần đảo Hoàng Sa – quần đảo Trường Sa, ngư trường Ninh Thuận – Bình Thuận – Bà Rịa – Vũng Tàu và ngư trường Cà Mau – Kiên Giang.",
+      "usage_context": "Bài 12, Mục II.1.a (trang 60): thế mạnh nguồn lợi hải sản và 4 ngư trường trọng điểm của nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "II.1.a",
+        "pdf_page": 63,
+        "printed_page": 60
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-khai-thac-thuy-san",
+      "term": "Khai thác thuỷ sản",
+      "aliases": [],
+      "english": "Fishery capture",
+      "notation": null,
+      "meaning": "Hoạt động khai thác xa bờ được đẩy mạnh, việc kiểm soát vùng đánh bắt và truy xuất nguồn gốc đánh bắt ngày càng được chú trọng; vùng có sản lượng thuỷ sản khai thác lớn nhất là Bắc Trung Bộ và Duyên hải miền Trung, tiếp đến là vùng Đồng bằng sông Cửu Long.",
+      "usage_context": "Bài 12, Mục II.2 (trang 61): hiện trạng phát triển và phân bố hoạt động khai thác thuỷ sản ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "II.2",
+        "pdf_page": 64,
+        "printed_page": 61
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-nuoi-trong-thuy-san",
+      "term": "Nuôi trồng thuỷ sản",
+      "aliases": [],
+      "english": "Aquaculture",
+      "notation": null,
+      "meaning": "Hoạt động nuôi trồng thuỷ sản phát triển với tốc độ nhanh và có sản lượng luôn cao hơn sản lượng khai thác; được phát triển theo hình thức trang trại công nghệ cao, nuôi hữu cơ, đa dạng hoá đối tượng nuôi trồng, đáp ứng yêu cầu về an toàn thực phẩm, truy xuất nguồn gốc và các tiêu chuẩn quốc tế.",
+      "usage_context": "Bài 12, Mục II.2 (trang 61): hiện trạng phát triển và phân bố hoạt động nuôi trồng thuỷ sản ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "II.2",
+        "pdf_page": 64,
+        "printed_page": 61
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-trang-trai",
+      "term": "Trang trại",
+      "aliases": [],
+      "english": "Farm",
+      "notation": null,
+      "meaning": "Một hình thức tổ chức sản xuất trong nông nghiệp (bao gồm cả nông nghiệp, lâm nghiệp và thuỷ sản) mà tư liệu sản xuất thuộc quyền sở hữu (trừ đất đai) hoặc quyền sử dụng của một người chủ độc lập. Sản xuất được tiến hành với quy mô ruộng đất và các yếu tố sản xuất tập trung đủ lớn, cùng phương thức tổ chức quản lí sản xuất tiến bộ và trình độ kĩ thuật cao, hoạt động tự chủ để sản xuất ra các loại sản phẩm hàng hoá phù hợp với yêu cầu của thị trường.",
+      "usage_context": "Bài 13, Mục I (trang 62–63): khái niệm, vai trò và hiện trạng phát triển trang trại ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "I",
+        "pdf_page": 65,
+        "printed_page": 62
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vung-chuyen-canh",
+      "term": "Vùng chuyên canh",
+      "aliases": [
+        "Vùng sản xuất nông nghiệp trọng điểm"
+      ],
+      "english": "Specialized farming region; Key agricultural production region",
+      "notation": null,
+      "meaning": "Vùng chuyên canh hay vùng sản xuất nông nghiệp trọng điểm là vùng tập trung phát triển một hoặc vài loại cây trồng, vật nuôi phù hợp với điều kiện sinh thái nông nghiệp (đất, khí hậu,...), điều kiện kinh tế – xã hội nhằm tạo ra khối lượng hàng hoá lớn, gắn với công nghiệp chế biến, đáp ứng nhu cầu của thị trường, mang lại hiệu quả cao.",
+      "usage_context": "Bài 13, Mục II (trang 63): khái niệm, ý nghĩa và phân bố các vùng chuyên canh ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "II",
+        "pdf_page": 66,
+        "printed_page": 63
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vung-nong-nghiep",
+      "term": "Vùng nông nghiệp",
+      "aliases": [
+        "Vùng sinh thái nông nghiệp"
+      ],
+      "english": "Agricultural region; Agro-ecological region",
+      "notation": null,
+      "meaning": "Vùng có sự tương đồng về điều kiện sinh thái nông nghiệp, điều kiện kinh tế – xã hội, trình độ thâm canh, chuyên môn hoá trong sản xuất. Đây là hình thức tổ chức lãnh thổ nông nghiệp cao nhất, có phạm vi rộng lớn, dựa trên các đặc điểm tự nhiên, kinh tế, kĩ thuật cũng như các thế mạnh khác nhau giữa các vùng lãnh thổ của nước ta.",
+      "usage_context": "Bài 13, Mục III (trang 63–64): khái niệm và đặc điểm 7 vùng nông nghiệp ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "III",
+        "pdf_page": 66,
+        "printed_page": 63
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-chuyen-dich-co-cau-cong-nghiep-theo-nganh",
+      "term": "Chuyển dịch cơ cấu công nghiệp theo ngành",
+      "aliases": [],
+      "english": "Industrial restructuring by sector",
+      "notation": null,
+      "meaning": "Cơ cấu ngành công nghiệp nước ta hiện nay tương đối đa dạng, có sự chuyển dịch theo hướng giảm tỉ trọng nhóm ngành khai khoáng, tăng tỉ trọng của nhóm ngành chế biến, chế tạo; trong nội bộ nhóm ngành có sự chuyển dịch từ các ngành và công nghệ sản xuất sử dụng nhiều lao động sang các ngành công nghiệp công nghệ cao và từ các công đoạn có giá trị gia tăng thấp sang các công đoạn có giá trị gia tăng cao trong chuỗi giá trị toàn cầu.",
+      "usage_context": "Bài 15, Mục I (trang 66–67): xu hướng và nguyên nhân chuyển dịch cơ cấu công nghiệp theo ngành ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "I",
+        "pdf_page": 69,
+        "printed_page": 66
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-cong-nghiep-ho-tro",
+      "term": "Công nghiệp hỗ trợ",
+      "aliases": [],
+      "english": "Supporting industries",
+      "notation": null,
+      "meaning": "Công nghiệp hỗ trợ như sản xuất nguyên liệu, vật liệu, linh kiện và phụ tùng hình thành và phát triển góp phần nâng cao tỉ lệ nội địa hoá trong các ngành công nghiệp, gắn với sự chuyển dịch từ các công đoạn có giá trị gia tăng thấp sang các công đoạn có giá trị gia tăng cao trong chuỗi giá trị toàn cầu.",
+      "usage_context": "Bài 15, Mục I (trang 66–67): vai trò của công nghiệp hỗ trợ trong chuyển dịch cơ cấu công nghiệp theo ngành.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "I",
+        "pdf_page": 69,
+        "printed_page": 66
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-chuyen-dich-co-cau-cong-nghiep-theo-thanh-phan-kinh-te",
+      "term": "Chuyển dịch cơ cấu công nghiệp theo thành phần kinh tế",
+      "aliases": [],
+      "english": "Industrial restructuring by ownership sector",
+      "notation": null,
+      "meaning": "Cơ cấu công nghiệp theo thành phần kinh tế chuyển dịch theo hướng giảm tỉ trọng khu vực kinh tế Nhà nước, tăng tỉ trọng khu vực kinh tế ngoài Nhà nước, đặc biệt là khu vực có vốn đầu tư nước ngoài; phù hợp với chính sách phát triển kinh tế mở, kinh tế thị trường theo định hướng xã hội chủ nghĩa.",
+      "usage_context": "Bài 15, Mục II (trang 67): xu hướng và nguyên nhân chuyển dịch cơ cấu công nghiệp theo thành phần kinh tế.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "II",
+        "pdf_page": 70,
+        "printed_page": 67
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-chuyen-dich-co-cau-cong-nghiep-theo-lanh-tho",
+      "term": "Chuyển dịch cơ cấu công nghiệp theo lãnh thổ",
+      "aliases": [],
+      "english": "Territorial industrial restructuring",
+      "notation": null,
+      "meaning": "Cơ cấu công nghiệp theo lãnh thổ ở nước ta có sự chuyển dịch, thể hiện rõ ở sự thay đổi giá trị sản xuất công nghiệp giữa các vùng, sự hình thành và phát triển các hình thức tổ chức lãnh thổ công nghiệp mới và có hiệu quả hơn như khu công nghiệp, khu chế xuất, khu công nghệ cao.",
+      "usage_context": "Bài 15, Mục III (trang 67–68): biểu hiện và định hướng phân bố không gian công nghiệp ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "III",
+        "pdf_page": 70,
+        "printed_page": 67
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-cong-nghiep-khai-thac-than",
+      "term": "Công nghiệp khai thác than",
+      "aliases": [],
+      "english": "Coal mining industry",
+      "notation": null,
+      "meaning": "Nước ta có lịch sử khai thác than từ đầu thế kỉ XIX, ngày nay ngành than đã được đầu tư, áp dụng công nghệ mới tiên tiến, hiện đại, cơ giới hoá, tự động hoá đồng bộ; than được khai thác tập trung chủ yếu ở Quảng Ninh và các tỉnh như Lạng Sơn, Thái Nguyên, Bắc Giang, chủ yếu phục vụ công nghiệp nhiệt điện và xuất khẩu.",
+      "usage_context": "Bài 16, Mục I.1 (trang 69): đặc điểm phát triển và phân bố ngành công nghiệp khai thác than ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "I.1",
+        "pdf_page": 72,
+        "printed_page": 69
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-cong-nghiep-khai-thac-dau-mo-khi-tu-nhien",
+      "term": "Công nghiệp khai thác dầu mỏ, khí tự nhiên",
+      "aliases": [
+        "Công nghiệp dầu khí"
+      ],
+      "english": "Oil and natural gas extraction industry; Petroleum industry",
+      "notation": null,
+      "meaning": "Nhiều công nghệ mới, tiên tiến trong khai thác dầu khí đã được áp dụng như công nghệ khai thác dầu trong đá móng, công nghệ làm lạnh sâu dòng khí nguyên liệu, công nghệ nén khí thiên nhiên; dầu thô được khai thác chủ yếu ở thềm lục địa phía nam với các mỏ Rồng, Bạch Hổ, Rạng Đông, Hồng Ngọc, khí tự nhiên được khai thác chủ yếu ở các bể Cửu Long, Nam Côn Sơn, Thổ Chu – Malay – Thổ Chu.",
+      "usage_context": "Bài 16, Mục I.2 (trang 71): đặc điểm phát triển và phân bố ngành công nghiệp khai thác dầu, khí ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "I.2",
+        "pdf_page": 74,
+        "printed_page": 71
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-cong-nghiep-san-xuat-dien",
+      "term": "Công nghiệp sản xuất điện",
+      "aliases": [],
+      "english": "Electricity production industry; Power industry",
+      "notation": null,
+      "meaning": "Ngành công nghiệp sản xuất điện ở nước ta được hình thành và bắt đầu phát triển từ lâu, hiện nay có sự tăng trưởng nhanh chóng để đáp ứng nhu cầu điện năng cho đất nước; cơ cấu nguồn điện ở nước ta gồm: thuỷ điện, nhiệt điện (than, khí, dầu), điện mặt trời, điện gió và nguồn khác.",
+      "usage_context": "Bài 16, Mục II (trang 71–72): cơ cấu nguồn điện, tình hình phát triển và phân bố ngành sản xuất điện ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "II",
+        "pdf_page": 74,
+        "printed_page": 71
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-cong-nghiep-san-xuat-san-pham-dien-tu-may-vi-tinh",
+      "term": "Công nghiệp sản xuất sản phẩm điện tử, máy vi tính",
+      "aliases": [],
+      "english": "Manufacture of computer, electronic and optical products",
+      "notation": null,
+      "meaning": "Ngành xuất hiện muộn hơn so với các ngành công nghiệp khác, cơ cấu của ngành rất đa dạng gồm sản xuất linh kiện điện tử, sản xuất máy vi tính, điện thoại di động, thiết bị điện dân dụng; được phát triển và phân bố ở các địa phương có nhiều lợi thế về nguồn lao động, cơ sở hạ tầng và thu hút đầu tư nước ngoài như Hà Nội, Bắc Ninh, Hải Phòng, Thái Nguyên, Bắc Giang, Thành phố Hồ Chí Minh, Đồng Nai, Bình Dương.",
+      "usage_context": "Bài 16, Mục III (trang 73): đặc điểm phát triển và phân bố ngành sản xuất sản phẩm điện tử, máy vi tính.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "III",
+        "pdf_page": 76,
+        "printed_page": 73
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-cong-nghiep-san-xuat-che-bien-thuc-pham",
+      "term": "Công nghiệp sản xuất, chế biến thực phẩm",
+      "aliases": [],
+      "english": "Food production and processing industry",
+      "notation": null,
+      "meaning": "Ngành được phát triển từ lâu đời dựa vào nguồn nguyên liệu dồi dào, đáp ứng nhu cầu trong nước và xuất khẩu; phân bố rộng khắp cả nước dựa trên cơ sở nguồn nguyên liệu tại chỗ, các trung tâm công nghiệp chế biến thực phẩm lớn ở nước ta là Thành phố Hồ Chí Minh, Hà Nội, Bình Dương, Đồng Nai, Hải Phòng, Đà Nẵng, Cần Thơ.",
+      "usage_context": "Bài 16, Mục IV (trang 73–74): đặc điểm phát triển và phân bố ngành công nghiệp sản xuất, chế biến thực phẩm.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "IV",
+        "pdf_page": 76,
+        "printed_page": 73
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-cong-nghiep-det-san-xuat-trang-phuc-va-san-xuat-giay-dep",
+      "term": "Công nghiệp dệt, sản xuất trang phục và sản xuất giày, dép",
+      "aliases": [],
+      "english": "Textiles, apparel and footwear manufacturing industries",
+      "notation": null,
+      "meaning": "Ngành công nghiệp dệt, sản xuất trang phục và công nghiệp sản xuất giày, dép là những ngành công nghiệp quan trọng và mặt hàng xuất khẩu chủ lực của đất nước với các sản phẩm chính là sợi, vải, quần áo, giày, dép; phát triển mạnh ở Hà Nội, Hải Phòng và các tỉnh phía Nam như Thành phố Hồ Chí Minh, Bình Dương, Đồng Nai, Bà Rịa – Vũng Tàu.",
+      "usage_context": "Bài 16, Mục VI và Mục VII (trang 75–76): đặc điểm phát triển và phân bố ngành dệt, may và da giày ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "VI",
+        "pdf_page": 78,
+        "printed_page": 75
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-khu-cong-nghiep",
+      "term": "Khu công nghiệp",
+      "aliases": [],
+      "english": "Industrial park; Industrial zone",
+      "notation": null,
+      "meaning": "Khu vực có ranh giới địa lí xác định, chuyên thực hiện sản xuất hàng công nghiệp hay những dịch vụ hỗ trợ cho sản xuất công nghiệp. Khu công nghiệp gồm nhiều loại hình khác nhau, bao gồm: khu chế xuất, khu công nghiệp hỗ trợ, khu công nghiệp sinh thái.",
+      "usage_context": "Bài 17, Mục I (trang 77): khái niệm, vai trò, hiện trạng phát triển và phân bố khu công nghiệp ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b17",
+        "section": "I",
+        "pdf_page": 80,
+        "printed_page": 77
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-khu-cong-nghe-cao",
+      "term": "Khu công nghệ cao",
+      "aliases": [],
+      "english": "High-tech park",
+      "notation": null,
+      "meaning": "Nơi tập trung, liên kết hoạt động nghiên cứu và phát triển, ứng dụng công nghệ cao; ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao; đào tạo nhân lực công nghệ cao; sản xuất và kinh doanh sản phẩm công nghệ cao, cung ứng dịch vụ công nghệ cao.",
+      "usage_context": "Bài 17, Mục II (trang 78–79): khái niệm, vai trò và các khu công nghệ cao ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b17",
+        "section": "II",
+        "pdf_page": 81,
+        "printed_page": 78
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-trung-tam-cong-nghiep",
+      "term": "Trung tâm công nghiệp",
+      "aliases": [],
+      "english": "Industrial center",
+      "notation": null,
+      "meaning": "Khu vực tập trung công nghiệp, thường gắn liền với các đô thị lớn và vừa. Mỗi trung tâm công nghiệp có thể gồm một số khu công nghiệp, với những xí nghiệp hạt nhân có sức thu hút các lãnh thổ lân cận.",
+      "usage_context": "Bài 17, Mục III (trang 79): khái niệm và phân bố các trung tâm công nghiệp lớn ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b17",
+        "section": "III",
+        "pdf_page": 82,
+        "printed_page": 79
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vai-tro-cua-cac-nganh-dich-vu",
+      "term": "Vai trò của các ngành dịch vụ",
+      "aliases": [],
+      "english": "Role of the service sector",
+      "notation": null,
+      "meaning": "Các ngành dịch vụ chiếm tỉ trọng cao trong GDP (41,2% năm 2021), góp phần thực hiện công nghiệp hoá, hiện đại hoá đất nước; nâng cao trình độ sản xuất trong nước, tăng cường hội nhập với thế giới, nâng cao hiệu quả các ngành sản xuất hàng hoá, khả năng kết nối của các ngành, các vùng kinh tế và tạo điều kiện để nước ta chủ động hội nhập với thế giới.",
+      "usage_context": "Bài 19, Mục I (trang 81): vai trò của các ngành dịch vụ đối với phát triển kinh tế, xã hội và bảo vệ môi trường ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b19",
+        "section": "I",
+        "pdf_page": 84,
+        "printed_page": 81
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-cac-nhan-to-kinh-te-xa-hoi-anh-huong-den-nganh-dich-vu",
+      "term": "Các nhân tố kinh tế – xã hội ảnh hưởng đến ngành dịch vụ",
+      "aliases": [],
+      "english": "Socio-economic factors affecting the service sector",
+      "notation": null,
+      "meaning": "Sự phát triển và phân bố các ngành sản xuất vật chất như nông nghiệp, công nghiệp ảnh hưởng quyết định đến tốc độ tăng trưởng, nâng cao trình độ và mở rộng quy mô ngành dịch vụ ở nước ta; dân cư, nguồn lao động, thị trường, cơ sở vật chất – kĩ thuật, khoa học – công nghệ và hệ thống chính sách là động lực phát triển, nâng cao chất lượng và hội nhập quốc tế của các ngành dịch vụ.",
+      "usage_context": "Bài 19, Mục II.1–5 (trang 81–83): tác động của nhóm nhân tố kinh tế – xã hội tới sự phát triển và phân bố ngành dịch vụ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b19",
+        "section": "II.1",
+        "pdf_page": 84,
+        "printed_page": 81
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vi-tri-dia-li-va-dieu-kien-tu-nhien-doi-voi-nganh-dich-vu",
+      "term": "Vị trí địa lí và điều kiện tự nhiên đối với ngành dịch vụ",
+      "aliases": [],
+      "english": "Geographical location and natural conditions for the service sector",
+      "notation": null,
+      "meaning": "Việt Nam nằm trong khu vực kinh tế phát triển năng động châu Á – Thái Bình Dương, trên các tuyến thương mại, vận tải lớn của châu Á, là cầu nối giữa Đông Nam Á lục địa và Đông Nam Á hải đảo nên thuận lợi mở rộng thị trường xuất nhập khẩu, liên kết xây dựng các tuyến du lịch, cung ứng dịch vụ logistics; địa hình, khí hậu và mạng lưới sông, hồ ảnh hưởng đến phát triển mạng lưới đường giao thông và du lịch.",
+      "usage_context": "Bài 19, Mục II.6 (trang 83): ảnh hưởng của vị trí địa lí, điều kiện tự nhiên và tài nguyên thiên nhiên đến ngành dịch vụ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b19",
+        "section": "II.6",
+        "pdf_page": 86,
+        "printed_page": 83
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-mang-luoi-giao-thong-van-tai-viet-nam",
+      "term": "Mạng lưới giao thông vận tải Việt Nam",
+      "aliases": [],
+      "english": "Transport network of Vietnam",
+      "notation": null,
+      "meaning": "Nước ta có đầy đủ các loại hình giao thông vận tải: đường ô tô, đường sắt, đường sông, đường biển, đường hàng không và đường ống. Mạng lưới giao thông vận tải phân bố rộng khắp và kết nối với một số tuyến đường quốc tế, các đầu mối giao thông lớn như Hà Nội, Đà Nẵng, Thành phố Hồ Chí Minh trở thành cửa ngõ quốc tế.",
+      "usage_context": "Bài 20, Mục I (trang 84–87): đặc điểm phát triển và phân bố các loại hình giao thông vận tải ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b20",
+        "section": "I",
+        "pdf_page": 87,
+        "printed_page": 84
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-duong-o-to-va-duong-sat-o-viet-nam",
+      "term": "Đường ô tô và đường sắt ở Việt Nam",
+      "aliases": [],
+      "english": "Road and railway transport in Vietnam",
+      "notation": null,
+      "meaning": "Đường ô tô là loại hình giao thông quan trọng nhất ở nước ta, khối lượng hàng hoá vận chuyển bằng đường ô tô cao nhất trong cơ cấu vận tải với các tuyến đường bắc – nam là trục giao thông quan trọng nhất như quốc lộ 1, đường Hồ Chí Minh và đường cao tốc Bắc – Nam; tuyến đường sắt dài và quan trọng nhất ở nước ta là tuyến Bắc – Nam (Thống Nhất), chạy gần như song song với quốc lộ 1.",
+      "usage_context": "Bài 20, Mục I.1 và Mục I.2 (trang 84–85): đặc điểm phát triển và các tuyến đường ô tô, đường sắt chính của nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b20",
+        "section": "I.1",
+        "pdf_page": 87,
+        "printed_page": 84
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-duong-bien-va-duong-hang-khong-o-viet-nam",
+      "term": "Đường biển và đường hàng không ở Việt Nam",
+      "aliases": [],
+      "english": "Maritime and air transport in Vietnam",
+      "notation": null,
+      "meaning": "Hệ thống cảng biển nước ta là cửa ngõ giao thương hàng hoá xuất, nhập khẩu với hai cảng loại đặc biệt là Hải Phòng và Bà Rịa – Vũng Tàu; các cảng hàng không Nội Bài, Đà Nẵng và Tân Sơn Nhất là cửa ngõ quốc tế và đầu mối vận tải hàng không lớn của nước ta.",
+      "usage_context": "Bài 20, Mục I.4 và Mục I.5 (trang 85, 87): sự phát triển và phân bố vận tải đường biển, đường hàng không ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b20",
+        "section": "I.4",
+        "pdf_page": 88,
+        "printed_page": 85
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-buu-chinh",
+      "term": "Bưu chính",
+      "aliases": [],
+      "english": "Postal services",
+      "notation": null,
+      "meaning": "Dịch vụ bưu chính đa dạng, phát triển theo hướng hiện đại và nâng cao hiệu quả kinh tế; các dịch vụ truyền thống như chuyển, nhận thư, bưu kiện từng bước chuyển sang dịch vụ số, phát triển theo hướng hiện đại hoá cơ sở hạ tầng thông tin và truyền thông, cung cấp dịch vụ bưu chính số.",
+      "usage_context": "Bài 20, Mục II.1 (trang 87–88): tình hình phát triển và phân bố hoạt động bưu chính ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b20",
+        "section": "II.1",
+        "pdf_page": 90,
+        "printed_page": 87
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vien-thong",
+      "term": "Viễn thông",
+      "aliases": [],
+      "english": "Telecommunications",
+      "notation": null,
+      "meaning": "Các dịch vụ viễn thông ngày càng đa dạng bao gồm dịch vụ điện thoại, internet, dịch vụ mạng và các dịch vụ khai thác công nghệ; mạng lưới viễn thông được mở rộng và phát triển nhanh, hạ tầng viễn thông được triển khai đến mọi vùng miền và kết nối với toàn thế giới qua hệ thống băng thông quốc tế, vệ tinh viễn thông và tuyến cáp quang biển quốc tế.",
+      "usage_context": "Bài 20, Mục II.2 (trang 88): sự phát triển và phân bố mạng lưới viễn thông ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b20",
+        "section": "II.2",
+        "pdf_page": 91,
+        "printed_page": 88
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-noi-thuong",
+      "term": "Nội thương",
+      "aliases": [],
+      "english": "Domestic trade",
+      "notation": null,
+      "meaning": "Thương mại trong nước phát triển với đa dạng các loại hình: chợ truyền thống, chợ đầu mối, cửa hàng tiện ích, siêu thị, trung tâm thương mại và thương mại điện tử; buôn bán trong nước sôi động nhất ở những vùng kinh tế phát triển như Đông Nam Bộ và Đồng bằng sông Hồng, Hà Nội và Thành phố Hồ Chí Minh là hai trung tâm buôn bán trong nước lớn nhất.",
+      "usage_context": "Bài 21, Mục I.1 (trang 89–90): sự phát triển và phân bố hoạt động nội thương ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b21",
+        "section": "I.1",
+        "pdf_page": 92,
+        "printed_page": 89
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-ngoai-thuong",
+      "term": "Ngoại thương",
+      "aliases": [],
+      "english": "Foreign trade; International trade",
+      "notation": null,
+      "meaning": "Trị giá xuất khẩu, nhập khẩu hàng hoá tăng nhanh, cán cân thương mại có xu hướng cân bằng hơn; cơ cấu hàng hoá xuất khẩu chuyển dịch tích cực, tỉ trọng nhóm hàng sơ chế, nguyên liệu thô giảm, tỉ trọng nhóm hàng chế biến tăng, tạo điều kiện để hàng hoá Việt Nam tham gia sâu hơn vào chuỗi sản xuất và cung ứng toàn cầu.",
+      "usage_context": "Bài 21, Mục I.2 (trang 90): sự phát triển hoạt động xuất khẩu, nhập khẩu hàng hoá ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b21",
+        "section": "I.2",
+        "pdf_page": 93,
+        "printed_page": 90
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-phan-hoa-lanh-tho-du-lich-viet-nam",
+      "term": "Phân hoá lãnh thổ du lịch Việt Nam",
+      "aliases": [],
+      "english": "Territorial differentiation of tourism in Vietnam",
+      "notation": null,
+      "meaning": "Tổ chức lãnh thổ du lịch nước ta gồm 7 vùng du lịch, các khu du lịch quốc gia, điểm du lịch quốc gia, đô thị du lịch; các trung tâm du lịch lớn của cả nước là Hà Nội, Huế, Đà Nẵng và Thành phố Hồ Chí Minh.",
+      "usage_context": "Bài 21, Mục II.2 (trang 91–93): tổ chức không gian du lịch và 7 vùng du lịch đặc trưng của nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b21",
+        "section": "II.2",
+        "pdf_page": 94,
+        "printed_page": 91
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-du-lich-ben-vung",
+      "term": "Du lịch bền vững",
+      "aliases": [],
+      "english": "Sustainable tourism",
+      "notation": null,
+      "meaning": "Phát triển du lịch bền vững nhằm đáp ứng các yêu cầu về phát triển kinh tế – xã hội và bảo vệ môi trường, đảm bảo hài hoà lợi ích của các bên tham gia và không làm tổn hại đến nhu cầu du lịch trong tương lai.",
+      "usage_context": "Bài 21, Mục II.3 (trang 94): khái niệm và mối quan hệ giữa du lịch và sự phát triển bền vững ở nước ta.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b21",
+        "section": "II.3",
+        "pdf_page": 97,
+        "printed_page": 94
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-grdp",
+      "term": "GRDP",
+      "aliases": [],
+      "english": "Gross Regional Domestic Product",
+      "notation": null,
+      "meaning": "Tổng sản phẩm trên địa bàn tỉnh hoặc vùng. GRDP phản ánh giá trị mới tăng thêm của hàng hoá và dịch vụ được tạo ra trên địa bàn tỉnh hoặc vùng trong một thời gian nhất định.",
+      "usage_context": "Bảng giải thích thuật ngữ (trang 175) và các bài thuộc Phần 4 (Bài 23–32).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-giai-thich-thuat-ngu",
+        "section": null,
+        "pdf_page": 179,
+        "printed_page": 175
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vung-kinh-te",
+      "term": "Vùng kinh tế",
+      "aliases": [],
+      "english": "Economic region",
+      "notation": null,
+      "meaning": "Một bộ phận của lãnh thổ quốc gia, gồm một số tỉnh, thành phố trực thuộc Trung ương có các hoạt động kinh tế – xã hội tương đối độc lập, thực hiện phân công lao động xã hội của cả nước.",
+      "usage_context": "Bảng giải thích thuật ngữ (trang 175) và các bài thuộc Phần 4 (Bài 23–32).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-giai-thich-thuat-ngu",
+        "section": null,
+        "pdf_page": 179,
+        "printed_page": 175
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-trung-du-va-mien-nui-bac-bo",
+      "term": "Trung du và miền núi Bắc Bộ",
+      "aliases": [],
+      "english": "Northern Midlands and Mountains",
+      "notation": null,
+      "meaning": "Vùng Trung du và miền núi Bắc Bộ bao gồm 14 tỉnh: Lai Châu, Điện Biên, Sơn La, Hoà Bình; Lào Cai, Yên Bái, Phú Thọ, Hà Giang, Tuyên Quang, Cao Bằng, Lạng Sơn, Bắc Kạn, Thái Nguyên, Bắc Giang với diện tích năm 2021 là 95,2 nghìn km²; vùng tiếp giáp với hai nước láng giềng là Trung Quốc, Lào, giáp vùng Đồng bằng sông Hồng, vùng Bắc Trung Bộ và Duyên hải miền Trung.",
+      "usage_context": "Bài 23, Mục I.1 (trang 96): vị trí địa lí và phạm vi lãnh thổ vùng Trung du và miền núi Bắc Bộ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b23",
+        "section": "I.1",
+        "pdf_page": 99,
+        "printed_page": 96
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-dan-so-vung-trung-du-va-mien-nui-bac-bo",
+      "term": "Dân số vùng Trung du và miền núi Bắc Bộ",
+      "aliases": [],
+      "english": "Population of the Northern Midlands and Mountains",
+      "notation": null,
+      "meaning": "Năm 2021, số dân trong vùng là 12,9 triệu người, tỉ lệ tăng dân số tự nhiên là 1,05%, cao hơn so với mức trung bình chung của cả nước (0,93%); mật độ dân số trung bình là 136 người/km², thấp hơn so với trung bình của cả nước (297 người/km²), dân cư chủ yếu sinh sống ở nông thôn và có nhiều dân tộc sinh sống như Kinh, Thái, Mường, HMông, Tày, Nùng, Dao.",
+      "usage_context": "Bài 23, Mục I.2 (trang 96): đặc điểm quy mô, gia tăng, phân bố và thành phần dân tộc của vùng Trung du và miền núi Bắc Bộ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b23",
+        "section": "I.2",
+        "pdf_page": 99,
+        "printed_page": 96
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-khai-thac-va-che-bien-khoang-san-o-trung-du-va-mien-nui-bac-bo",
+      "term": "Khai thác và chế biến khoáng sản ở Trung du và miền núi Bắc Bộ",
+      "aliases": [],
+      "english": "Mineral mining and processing in the Northern Midlands and Mountains",
+      "notation": null,
+      "meaning": "Trung du và miền núi Bắc Bộ giàu tài nguyên khoáng sản nhất nước ta với một số loại khoáng sản chủ yếu được khai thác trong vùng như than (Thái Nguyên, Lạng Sơn), a-pa-tít (Lào Cai), đá vôi (Hoà Bình, Hà Giang), nước khoáng (Phú Thọ, Yên Bái, Hoà Bình); khoáng sản được khai thác là nguyên liệu cho công nghiệp sản xuất điện và các ngành công nghiệp khác với các sản phẩm chế biến khoáng sản nổi bật là xi măng, phân bón.",
+      "usage_context": "Bài 23, Mục II.1 (trang 97–98): thế mạnh và hiện trạng khai thác, chế biến khoáng sản của vùng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b23",
+        "section": "II.1.a",
+        "pdf_page": 100,
+        "printed_page": 97
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-thuy-dien-o-trung-du-va-mien-nui-bac-bo",
+      "term": "Thuỷ điện ở Trung du và miền núi Bắc Bộ",
+      "aliases": [],
+      "english": "Hydropower in the Northern Midlands and Mountains",
+      "notation": null,
+      "meaning": "Trung du và miền núi Bắc Bộ có tiềm năng thuỷ điện lớn nhất nước ta, riêng hệ thống sông Hồng chiếm trên 30% trữ lượng thuỷ năng của cả nước (11 triệu kW), trong đó sông Đà gần 6 triệu kW; trên sông Đà, ba nhà máy thuỷ điện lớn nhất cả nước đã được xây dựng là nhà máy thuỷ điện Lai Châu (1 200 MW), Sơn La (2 400 MW) và Hoà Bình (1 920 MW).",
+      "usage_context": "Bài 23, Mục II.2 (trang 99): tiềm năng và hiện trạng phát triển thuỷ điện ở Trung du và miền núi Bắc Bộ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b23",
+        "section": "II.2.a",
+        "pdf_page": 102,
+        "printed_page": 99
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-cay-cong-nghiep-va-rau-qua-can-nhiet-on-doi-o-trung-du-va-mien-nui-bac-bo",
+      "term": "Cây công nghiệp và rau quả cận nhiệt, ôn đới ở Trung du và miền núi Bắc Bộ",
+      "aliases": [],
+      "english": "Subtropical and temperate industrial crops, vegetables and fruits in the Northern Midlands and Mountains",
+      "notation": null,
+      "meaning": "Địa hình cao nguyên và các khu vực đồi núi thấp có đất feralit chiếm diện tích lớn cùng khí hậu nhiệt đới ẩm gió mùa có mùa đông lạnh, phân hoá theo độ cao thuận lợi cho trồng cây công nghiệp, cây ăn quả và các loại rau nhiệt đới, cận nhiệt, ôn đới; Trung du và miền núi Bắc Bộ là vùng chuyên canh cây công nghiệp lớn thứ ba cả nước với chè là cây công nghiệp quan trọng số một của vùng.",
+      "usage_context": "Bài 23, Mục II.3 (trang 99–100): thế mạnh và hiện trạng phát triển cây công nghiệp, cây ăn quả và rau cận nhiệt, ôn đới.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b23",
+        "section": "II.3.a",
+        "pdf_page": 102,
+        "printed_page": 99
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-dong-bang-song-hong",
+      "term": "Đồng bằng sông Hồng",
+      "aliases": [],
+      "english": "Red River Delta",
+      "notation": null,
+      "meaning": "Đồng bằng sông Hồng bao gồm 2 thành phố trực thuộc Trung ương là Hà Nội, Hải Phòng và 9 tỉnh: Hải Dương, Hà Nam, Nam Định, Thái Bình, Hưng Yên, Ninh Bình, Vĩnh Phúc, Bắc Ninh và Quảng Ninh với diện tích 21,3 nghìn km² (năm 2021); vùng có số dân đông nhất cả nước (23,2 triệu người) và mật độ dân số cao nhất cả nước (1 091 người/km² năm 2021).",
+      "usage_context": "Bài 24, Mục I (trang 104–105): phạm vi lãnh thổ và đặc điểm dân số vùng Đồng bằng sông Hồng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b24",
+        "section": "I.1",
+        "pdf_page": 107,
+        "printed_page": 103
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vung-dong-luc-phia-bac",
+      "term": "Vùng động lực phía bắc",
+      "aliases": [],
+      "english": "Northern dynamic zone",
+      "notation": null,
+      "meaning": "Đồng bằng sông Hồng có vùng động lực phía bắc với tam giác là Hà Nội – Hải Phòng – Quảng Ninh, có sức thu hút nguồn vốn đầu tư trong và ngoài nước lớn, là điều kiện thuận lợi thúc đẩy kinh tế của vùng phát triển nhanh.",
+      "usage_context": "Bài 24, Mục II.2.b (trang 107): thế mạnh về thu hút vốn đầu tư của vùng Đồng bằng sông Hồng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b24",
+        "section": "II.2.a",
+        "pdf_page": 110,
+        "printed_page": 106
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-cong-nghiep-o-dong-bang-song-hong",
+      "term": "Công nghiệp ở Đồng bằng sông Hồng",
+      "aliases": [],
+      "english": "Industry in the Red River Delta",
+      "notation": null,
+      "meaning": "Công nghiệp của Đồng bằng sông Hồng phát triển sớm, giá trị sản xuất công nghiệp cao và tăng nhanh, chiếm trên 37% giá trị sản xuất công nghiệp của cả nước (năm 2021) và có mức độ tập trung công nghiệp cao nhất cả nước; một số ngành công nghiệp nổi bật là sản xuất sản phẩm điện tử, máy vi tính, sản xuất ô tô và xe có động cơ khác, sản xuất, chế biến thực phẩm, dệt, sản xuất trang phục, nhiệt điện và khai thác than.",
+      "usage_context": "Bài 24, Mục III.1 (trang 108–110): hiện trạng phát triển và phân bố ngành công nghiệp ở Đồng bằng sông Hồng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b24",
+        "section": "III.1",
+        "pdf_page": 110,
+        "printed_page": 106
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-dich-vu-o-dong-bang-song-hong",
+      "term": "Dịch vụ ở Đồng bằng sông Hồng",
+      "aliases": [],
+      "english": "Services in the Red River Delta",
+      "notation": null,
+      "meaning": "Đồng bằng sông Hồng có ngành dịch vụ phát triển mạnh, đóng góp 42,1% vào GRDP của vùng (năm 2021); cơ cấu ngành đa dạng và đang phát triển theo hướng hiện đại, hội nhập với các ngành dịch vụ nổi bật là giao thông vận tải, thương mại, du lịch, tài chính ngân hàng, bưu chính viễn thông.",
+      "usage_context": "Bài 24, Mục III.2 (trang 110–112): tình hình phát triển các ngành dịch vụ ở Đồng bằng sông Hồng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b24",
+        "section": "III.2",
+        "pdf_page": 112,
+        "printed_page": 108
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-bac-trung-bo",
+      "term": "Bắc Trung Bộ",
+      "aliases": [],
+      "english": "North Central Coast",
+      "notation": null,
+      "meaning": "Bắc Trung Bộ bao gồm 6 tỉnh là Thanh Hoá, Nghệ An, Hà Tĩnh, Quảng Bình, Quảng Trị, Thừa Thiên Huế, lãnh thổ kéo dài theo chiều bắc nam với diện tích 51,2 nghìn km²; giáp vùng Trung du và miền núi Bắc Bộ, vùng Đồng bằng sông Hồng, Duyên hải Nam Trung Bộ và nước láng giềng Lào, phía đông có vùng biển rộng lớn.",
+      "usage_context": "Bài 25, Mục I.1 (trang 114): vị trí địa lí và phạm vi lãnh thổ vùng Bắc Trung Bộ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b25",
+        "section": "I.1",
+        "pdf_page": 114,
+        "printed_page": 110
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-co-cau-kinh-te-lam-nghiep-nong-nghiep-va-thuy-san-o-bac-trung-bo",
+      "term": "Cơ cấu kinh tế lâm nghiệp, nông nghiệp và thuỷ sản ở Bắc Trung Bộ",
+      "aliases": [],
+      "english": "Forestry, agriculture and fishery economic structure in the North Central Coast",
+      "notation": null,
+      "meaning": "Lãnh thổ Bắc Trung Bộ kéo dài từ bắc xuống nam và hẹp ngang theo chiều đông tây; từ tây sang đông có 3 dạng địa hình khá phổ biến là đồi núi ở phía tây, đồng bằng chuyển tiếp, biển, thềm lục địa và các đảo ở phía đông, tạo thuận lợi để Bắc Trung Bộ hình thành cơ cấu kinh tế lâm nghiệp, nông nghiệp và thuỷ sản.",
+      "usage_context": "Bài 25, Mục II.1.a (trang 115): vai trò của sự phân hoá địa hình từ tây sang đông đối với cơ cấu kinh tế nông nghiệp, lâm nghiệp, thuỷ sản của vùng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b25",
+        "section": "II.1.a",
+        "pdf_page": 115,
+        "printed_page": 111
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-khu-lam-nghiep-ung-dung-cong-nghe-cao-o-bac-trung-bo",
+      "term": "Khu lâm nghiệp ứng dụng công nghệ cao ở Bắc Trung Bộ",
+      "aliases": [],
+      "english": "High-tech forestry zone in the North Central Coast",
+      "notation": null,
+      "meaning": "Bắc Trung Bộ đã ứng dụng khoa học – công nghệ vào tất cả các hoạt động của ngành lâm nghiệp, đặc biệt đã thành lập khu lâm nghiệp ứng dụng công nghệ cao (ở tỉnh Nghệ An) với các chức năng sản xuất giống cây lâm nghiệp, chế biến gỗ và lâm sản theo mô hình chuỗi sản xuất khép kín.",
+      "usage_context": "Bài 25, Mục II.2.b (trang 118): điểm nổi bật trong phát triển lâm nghiệp ứng dụng công nghệ cao ở Bắc Trung Bộ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b25",
+        "section": "III.2",
+        "pdf_page": 119,
+        "printed_page": 115
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-duyen-hai-nam-trung-bo",
+      "term": "Duyên hải Nam Trung Bộ",
+      "aliases": [],
+      "english": "South Central Coast",
+      "notation": null,
+      "meaning": "Duyên hải Nam Trung Bộ bao gồm 8 tỉnh, thành phố là Đà Nẵng, Quảng Nam, Quảng Ngãi, Bình Định, Phú Yên, Khánh Hoà, Ninh Thuận, Bình Thuận với diện tích hơn 44 nghìn km²; phía đông có vùng biển rộng lớn với nhiều đảo và quần đảo có ý nghĩa quan trọng về kinh tế và quốc phòng an ninh như quần đảo Hoàng Sa (Đà Nẵng), quần đảo Trường Sa (Khánh Hoà), đảo Lý Sơn (Quảng Ngãi), đảo Phú Quý (Bình Thuận).",
+      "usage_context": "Bài 26, Mục I.1 (trang 120): vị trí địa lí và phạm vi lãnh thổ vùng Duyên hải Nam Trung Bộ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b26",
+        "section": "I.1",
+        "pdf_page": 122,
+        "printed_page": 118
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-kinh-te-bien-o-duyen-hai-nam-trung-bo",
+      "term": "Kinh tế biển ở Duyên hải Nam Trung Bộ",
+      "aliases": [],
+      "english": "Marine economy in the South Central Coast",
+      "notation": null,
+      "meaning": "Tài nguyên biển là nguồn lực vô cùng quan trọng tạo động lực cho các ngành kinh tế biển ở Duyên hải Nam Trung Bộ phát triển mạnh theo hướng phát triển tổng hợp kết hợp với bảo đảm quốc phòng an ninh trên biển, nhất là các ngành du lịch và dịch vụ biển, kinh tế hàng hải, khai thác dầu khí và khoáng sản biển, nuôi trồng và khai thác hải sản, công nghiệp ven biển, năng lượng tái tạo.",
+      "usage_context": "Bài 26, Mục II.2 và Mục III (trang 122–125): tình hình và hướng phát triển tổng hợp các ngành kinh tế biển ở Duyên hải Nam Trung Bộ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b26",
+        "section": "II.1.a",
+        "pdf_page": 124,
+        "printed_page": 120
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-khu-kinh-te-dung-quat",
+      "term": "Khu kinh tế Dung Quất",
+      "aliases": [],
+      "english": "Dung Quat Economic Zone",
+      "notation": null,
+      "meaning": "Duyên hải Nam Trung Bộ đã xây dựng nhà máy lọc dầu đầu tiên ở nước ta là nhà máy lọc dầu Dung Quất ở Quảng Ngãi với công suất 6,5 triệu tấn/năm, đáp ứng 30% nhu cầu xăng, dầu của cả nước, đồng thời định hướng mở rộng và xây dựng trung tâm lọc, hoá dầu và năng lượng quốc gia tại khu kinh tế Dung Quất.",
+      "usage_context": "Bài 26, Mục II.2.d và Mục III (trang 125): vai trò của nhà máy lọc dầu và khu kinh tế Dung Quất trong phát triển công nghiệp lọc, hoá dầu và năng lượng quốc gia.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b26",
+        "section": "III.4",
+        "pdf_page": 127,
+        "printed_page": 123
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-tay-nguyen",
+      "term": "Tây Nguyên",
+      "aliases": [],
+      "english": "Central Highlands",
+      "notation": null,
+      "meaning": "Tây Nguyên gồm 5 tỉnh là Kon Tum, Gia Lai, Đắk Lắk, Đắk Nông và Lâm Đồng với diện tích năm 2021 là 54,5 nghìn km²; vùng giáp với hai nước láng giềng là Lào và Cam-pu-chia, giáp với các vùng Đông Nam Bộ, Bắc Trung Bộ và Duyên hải miền Trung, có vị trí đặc biệt quan trọng về quốc phòng an ninh, phát triển kinh tế, giao thương trong nước và thế giới.",
+      "usage_context": "Bài 28, Mục I.1 (trang 127): vị trí địa lí và phạm vi lãnh thổ vùng Tây Nguyên.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b28",
+        "section": "I.1",
+        "pdf_page": 130,
+        "printed_page": 126
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-cao-nguyen-xep-tang",
+      "term": "Cao nguyên xếp tầng",
+      "aliases": [],
+      "english": "Tiered plateaus",
+      "notation": null,
+      "meaning": "Tây Nguyên có địa hình chủ yếu là các cao nguyên xếp tầng với độ cao khác nhau như các cao nguyên Kon Tum, Pleiku, Đắk Lắk, Lâm Viên, Mơ Nông, Di Linh; bề mặt địa hình tương đối bằng phẳng cùng diện tích đất badan lớn, thuận lợi cho quy hoạch vùng chuyên canh cây công nghiệp quy mô lớn có mức độ tập trung cao.",
+      "usage_context": "Bài 28, Mục II.1.a (trang 128): đặc điểm địa hình và đất tạo thế mạnh phát triển cây công nghiệp lâu năm ở Tây Nguyên.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b28",
+        "section": "II.1.a",
+        "pdf_page": 130,
+        "printed_page": 126
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-chuyen-canh-cay-cong-nghiep-lau-nam-o-tay-nguyen",
+      "term": "Chuyên canh cây công nghiệp lâu năm ở Tây Nguyên",
+      "aliases": [],
+      "english": "Perennial industrial crop specialization in the Central Highlands",
+      "notation": null,
+      "meaning": "Tây Nguyên là vùng chuyên canh cây công nghiệp lâu năm lớn của nước ta, năm 2021 diện tích cây công nghiệp của vùng là 981,2 nghìn ha, chiếm 44,5% diện tích cây công nghiệp lâu năm của cả nước với các cây chính là cà phê, chè, cao su, hồ tiêu, điều, mắc ca, ca cao; trong đó cà phê là cây công nghiệp quan trọng số một ở Tây Nguyên, chiếm khoảng 90% diện tích và 94% sản lượng cà phê của cả nước.",
+      "usage_context": "Bài 28, Mục II.1.b (trang 129–130): hiện trạng phát triển và phân bố vùng chuyên canh cây công nghiệp lâu năm ở Tây Nguyên.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b28",
+        "section": "II.1.b",
+        "pdf_page": 132,
+        "printed_page": 128
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-khai-thac-bo-xit-o-tay-nguyen",
+      "term": "Khai thác bô-xít ở Tây Nguyên",
+      "aliases": [],
+      "english": "Bauxite mining in the Central Highlands",
+      "notation": null,
+      "meaning": "Tây Nguyên có trữ lượng bô-xít lớn nhất cả nước (khoảng 8,2 tỉ tấn), chiếm gần 90% trữ lượng cả nước, phân bố chủ yếu ở Lâm Đồng, Đắk Nông; quặng bô-xít được khai thác để chế biến thành a-lu-min, nguyên liệu chính để sản xuất bột nhôm tại hai cơ sở chế biến Tân Rai (Lâm Đồng) và Nhân Cơ (Đắk Nông).",
+      "usage_context": "Bài 28, Mục II.3 (trang 132): tiềm năng và hoạt động khai thác, chế biến quặng bô-xít ở Tây Nguyên.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b28",
+        "section": "II.4",
+        "pdf_page": 136,
+        "printed_page": 132
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-dong-nam-bo",
+      "term": "Đông Nam Bộ",
+      "aliases": [],
+      "english": "Southeast Region",
+      "notation": null,
+      "meaning": "Đông Nam Bộ bao gồm Thành phố Hồ Chí Minh và 5 tỉnh: Bình Dương, Bình Phước, Tây Ninh, Đồng Nai và Bà Rịa – Vũng Tàu với diện tích năm 2021 là 23,6 nghìn km²; vùng tiếp giáp với nước láng giềng Cam-pu-chia, giáp vùng Đồng bằng sông Cửu Long, vùng Tây Nguyên, vùng Bắc Trung Bộ và Duyên hải miền Trung, nằm trong Vùng kinh tế trọng điểm phía Nam và có Thành phố Hồ Chí Minh là cực tăng trưởng, trung tâm kinh tế và đầu mối giao thông lớn bậc nhất cả nước.",
+      "usage_context": "Bài 29, Mục I.1 (trang 135): vị trí địa lí và phạm vi lãnh thổ vùng Đông Nam Bộ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b29",
+        "section": "I.1",
+        "pdf_page": 139,
+        "printed_page": 135
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-khai-thac-va-che-bien-dau-khi-o-dong-nam-bo",
+      "term": "Khai thác và chế biến dầu, khí ở Đông Nam Bộ",
+      "aliases": [],
+      "english": "Oil and gas extraction and processing in the Southeast Region",
+      "notation": null,
+      "meaning": "Tài nguyên khoáng sản nổi bật và có giá trị nhất của vùng là dầu mỏ và khí tự nhiên ở thềm lục địa thuộc các bể trầm tích Cửu Long, Nam Côn Sơn; công nghiệp khai thác và chế biến dầu, khí là ngành công nghiệp mũi nhọn của vùng và giữ vai trò quan trọng đối với cả nước, cung cấp nhiên liệu cho các nhà máy lọc dầu, các nhà máy nhiệt điện lớn trong vùng, sản xuất phân đạm và xuất khẩu.",
+      "usage_context": "Bài 29, Mục II.1.a và Mục III.1.b (trang 136, 138): thế mạnh tài nguyên và tình hình phát triển công nghiệp khai thác, chế biến dầu, khí ở Đông Nam Bộ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b29",
+        "section": "II.1.a",
+        "pdf_page": 141,
+        "printed_page": 137
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-chuyen-canh-cay-cong-nghiep-o-dong-nam-bo",
+      "term": "Chuyên canh cây công nghiệp ở Đông Nam Bộ",
+      "aliases": [],
+      "english": "Industrial crop specialization in the Southeast Region",
+      "notation": null,
+      "meaning": "Đông Nam Bộ là vùng chuyên canh cây công nghiệp hàng đầu của cả nước, có mức độ tập trung hoá sản xuất và trình độ thâm canh cao với tổng diện tích cây công nghiệp lâu năm năm 2021 hơn 800 nghìn ha (chiếm khoảng 36% cả nước); các cây công nghiệp lâu năm chủ yếu của vùng là cao su (đứng đầu cả nước), điều (đứng đầu cả nước) và hồ tiêu, trồng tập trung ở Bình Phước, Tây Ninh, Bình Dương, Đồng Nai.",
+      "usage_context": "Bài 29, Mục III.3.a (trang 141–142): hiện trạng phát triển và phân bố cây công nghiệp lâu năm và hàng năm ở Đông Nam Bộ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b29",
+        "section": "III.3",
+        "pdf_page": 146,
+        "printed_page": 142
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-dong-bang-song-cuu-long",
+      "term": "Đồng bằng sông Cửu Long",
+      "aliases": [],
+      "english": "Mekong River Delta",
+      "notation": null,
+      "meaning": "Vùng Đồng bằng sông Cửu Long có diện tích 40,9 nghìn km², bao gồm thành phố Cần Thơ và 12 tỉnh: Long An, Vĩnh Long, Tiền Giang, Bến Tre, Hậu Giang, Sóc Trăng, Trà Vinh, Bạc Liêu, Đồng Tháp, An Giang, Kiên Giang, Cà Mau; là đồng bằng châu thổ lớn nhất nước ta, vùng đất cuối cùng về phía nam của Việt Nam, có vùng biển rộng lớn bao quanh ba phía, giáp vùng Đông Nam Bộ và nước láng giềng Cam-pu-chia.",
+      "usage_context": "Bài 30, Mục I.1 và Mục II.1.a (trang 145): vị trí địa lí, phạm vi lãnh thổ và đặc điểm địa hình vùng Đồng bằng sông Cửu Long.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b30",
+        "section": "I.1",
+        "pdf_page": 149,
+        "printed_page": 145
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-ba-loai-dat-chinh-o-dong-bang-song-cuu-long",
+      "term": "Ba loại đất chính ở Đồng bằng sông Cửu Long",
+      "aliases": [],
+      "english": "Three main soil groups in the Mekong River Delta",
+      "notation": null,
+      "meaning": "Đồng bằng sông Cửu Long có ba loại đất chính: đất phù sa sông có diện tích khoảng hơn 1 triệu ha, phân bố dọc sông Tiền, sông Hậu, là loại đất tốt, màu mỡ, thích hợp trồng lúa và các loại cây trồng khác; đất phèn có hơn 1,6 triệu ha, tập trung ở Đồng Tháp Mười, Tứ giác Long Xuyên, bán đảo Cà Mau, có thể cải tạo để trồng lúa, cây ăn quả; đất mặn gần 1 triệu ha ở khu vực ven biển, phù hợp cho phát triển rừng ngập mặn, nuôi trồng thuỷ sản.",
+      "usage_context": "Bài 30, Mục II.1.a (trang 145–146): đặc điểm phân bố và giá trị sử dụng của ba nhóm đất chính ở Đồng bằng sông Cửu Long.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b30",
+        "section": "II.1.a",
+        "pdf_page": 149,
+        "printed_page": 145
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-san-xuat-luong-thuc-va-thuc-pham-o-dong-bang-song-cuu-long",
+      "term": "Sản xuất lương thực và thực phẩm ở Đồng bằng sông Cửu Long",
+      "aliases": [],
+      "english": "Food and foodstuff production in the Mekong River Delta",
+      "notation": null,
+      "meaning": "Đồng bằng sông Cửu Long là vùng trọng điểm sản xuất lương thực, thực phẩm lớn nhất cả nước; năm 2021 vùng chiếm khoảng 50% diện tích gieo trồng và sản lượng lương thực có hạt, hơn 90% sản lượng gạo xuất khẩu của cả nước, đồng thời là vùng trọng điểm số một về thuỷ sản (chiếm trên 50% sản lượng thuỷ sản cả nước) và là vùng sản xuất cây ăn quả lớn nhất cả nước.",
+      "usage_context": "Bài 30, Mục III.1 (trang 148–151): vai trò và tình hình phát triển sản xuất lương thực, thực phẩm ở Đồng bằng sông Cửu Long.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b30",
+        "section": "II.2.a",
+        "pdf_page": 152,
+        "printed_page": 148
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vung-kinh-te-trong-diem",
+      "term": "Vùng kinh tế trọng điểm",
+      "aliases": [],
+      "english": "Key economic region",
+      "notation": null,
+      "meaning": "Vùng kinh tế trọng điểm là một bộ phận của lãnh thổ quốc gia, hội tụ các điều kiện và yếu tố phát triển thuận lợi, có tiềm lực kinh tế lớn, giữ vai trò động lực, đầu tàu thúc đẩy sự phát triển chung của cả nước; được ưu tiên đầu tư về vốn, khoa học – công nghệ, cơ sở hạ tầng và có đóng góp lớn cho quốc gia về GDP, tăng trưởng kinh tế, cơ cấu và chuyển dịch cơ cấu kinh tế, trị giá xuất khẩu.",
+      "usage_context": "Bài 32, Mục I (trang 156): khái niệm và các đặc điểm chủ yếu của vùng kinh tế trọng điểm ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b32",
+        "section": "I",
+        "pdf_page": 159,
+        "printed_page": 155
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vung-kinh-te-trong-diem-bac-bo",
+      "term": "Vùng kinh tế trọng điểm Bắc Bộ",
+      "aliases": [],
+      "english": "Northern Key Economic Region",
+      "notation": null,
+      "meaning": "Vùng kinh tế trọng điểm Bắc Bộ được thành lập năm 1997, mở rộng năm 2004, gồm 7 tỉnh, thành phố là Hà Nội, Hải Phòng, Quảng Ninh, Hưng Yên, Hải Dương, Vĩnh Phúc và Bắc Ninh với diện tích hơn 15 nghìn km², số dân 17,6 triệu người (năm 2021); là cửa ngõ ra biển của các tỉnh phía Bắc, có quy mô GRDP và tỉ lệ đóng góp vào GDP cả nước chỉ đứng sau Vùng kinh tế trọng điểm phía Nam.",
+      "usage_context": "Bài 32, Mục II.1 (trang 157–158): quá trình hình thành, nguồn lực và thực trạng phát triển Vùng kinh tế trọng điểm Bắc Bộ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b32",
+        "section": "II.1.a",
+        "pdf_page": 159,
+        "printed_page": 155
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vung-kinh-te-trong-diem-mien-trung",
+      "term": "Vùng kinh tế trọng điểm miền Trung",
+      "aliases": [],
+      "english": "Central Key Economic Region",
+      "notation": null,
+      "meaning": "Vùng kinh tế trọng điểm miền Trung được thành lập năm 1997, bổ sung năm 2004, gồm 5 tỉnh, thành phố là Đà Nẵng, Thừa Thiên Huế, Quảng Nam, Quảng Ngãi và Bình Định với diện tích khoảng 28 nghìn km², số dân 6,6 triệu người (năm 2021); nằm ở vị trí chiến lược về giao lưu kinh tế Bắc – Nam và Đông – Tây, nổi bật với các ngành kinh tế biển và công nghiệp sản xuất ô tô, lọc hoá dầu, năng lượng tái tạo.",
+      "usage_context": "Bài 32, Mục II.2 (trang 159–160): quá trình hình thành, nguồn lực và thực trạng phát triển Vùng kinh tế trọng điểm miền Trung.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b32",
+        "section": "II.2.a",
+        "pdf_page": 162,
+        "printed_page": 158
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vung-kinh-te-trong-diem-phia-nam",
+      "term": "Vùng kinh tế trọng điểm phía Nam",
+      "aliases": [],
+      "english": "Southern Key Economic Region",
+      "notation": null,
+      "meaning": "Vùng kinh tế trọng điểm phía Nam được thành lập năm 1998, mở rộng năm 2003 và 2009, gồm 8 tỉnh, thành phố là Thành phố Hồ Chí Minh, Đồng Nai, Bình Dương, Bà Rịa – Vũng Tàu, Tây Ninh, Bình Phước, Long An và Tiền Giang với diện tích hơn 30 nghìn km², số dân 21,8 triệu người (năm 2021); là vùng phát triển kinh tế hàng đầu của cả nước, có GRDP đứng đầu 4 vùng kinh tế trọng điểm.",
+      "usage_context": "Bài 32, Mục II.3 (trang 161–162): quá trình hình thành, nguồn lực và thực trạng phát triển Vùng kinh tế trọng điểm phía Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b32",
+        "section": "II.3.a",
+        "pdf_page": 164,
+        "printed_page": 160
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-vung-kinh-te-trong-diem-vung-dong-bang-song-cuu-long",
+      "term": "Vùng kinh tế trọng điểm vùng Đồng bằng sông Cửu Long",
+      "aliases": [],
+      "english": "Mekong Delta Key Economic Region",
+      "notation": null,
+      "meaning": "Vùng kinh tế trọng điểm vùng Đồng bằng sông Cửu Long được thành lập năm 2009, bao gồm thành phố Cần Thơ và 3 tỉnh An Giang, Kiên Giang, Cà Mau với diện tích hơn 16 nghìn km², số dân 6,1 triệu người (năm 2021); tập trung vào lĩnh vực nông nghiệp công nghệ cao, công nghiệp chế biến lương thực, thực phẩm, cơ khí, hoá chất phục vụ nông nghiệp và phát triển kinh tế biển.",
+      "usage_context": "Bài 32, Mục II.4 (trang 163–164): quá trình hình thành, nguồn lực và định hướng phát triển Vùng kinh tế trọng điểm vùng Đồng bằng sông Cửu Long.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b32",
+        "section": "II.4.a",
+        "pdf_page": 166,
+        "printed_page": 162
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-bien-dong",
+      "term": "Biển Đông",
+      "aliases": [],
+      "english": "Bien Dong (East Sea / South China Sea)",
+      "notation": null,
+      "meaning": "Biển Đông nằm ở phía tây Thái Bình Dương, trải dài từ khoảng vĩ độ 3°N đến 26°B và từ khoảng kinh độ 100°Đ đến 121°Đ với diện tích 3,44 triệu km², lớn thứ hai ở Thái Bình Dương và thứ ba trên thế giới; có hai vịnh biển lớn là vịnh Bắc Bộ và vịnh Thái Lan, khí hậu mang tính chất nhiệt đới gió mùa, giàu tài nguyên khoáng sản, sinh vật, du lịch.",
+      "usage_context": "Bài 33, Mục I.1 (trang 166): vị trí, phạm vi và đặc điểm tự nhiên, tài nguyên của Biển Đông.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b33",
+        "section": "I.1",
+        "pdf_page": 169,
+        "printed_page": 165
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-he-thong-dao-va-quan-dao-cua-viet-nam",
+      "term": "Hệ thống đảo và quần đảo của Việt Nam",
+      "aliases": [],
+      "english": "Island and archipelago system of Vietnam",
+      "notation": null,
+      "meaning": "Vùng biển nước ta có diện tích rộng trên 1 triệu km², có hàng nghìn đảo và quần đảo, trong đó có hai quần đảo Hoàng Sa (thành phố Đà Nẵng) và Trường Sa (tỉnh Khánh Hoà); tính đến năm 2022, Việt Nam có 1 thành phố đảo trực thuộc tỉnh là Phú Quốc (Kiên Giang) và 11 huyện đảo là Cô Tô, Vân Đồn, Bạch Long Vĩ, Cát Hải, Cồn Cỏ, Hoàng Sa, Lý Sơn, Trường Sa, Phú Quý, Côn Đảo và Kiên Hải.",
+      "usage_context": "Bài 33, Mục I.2 (trang 166–167): quy mô vùng biển và hệ thống các đảo, quần đảo, thành phố đảo, huyện đảo của Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b33",
+        "section": "I.2",
+        "pdf_page": 169,
+        "printed_page": 165
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "dia-12-phat-trien-tong-hop-cac-nganh-kinh-te-bien",
+      "term": "Phát triển tổng hợp các ngành kinh tế biển",
+      "aliases": [],
+      "english": "Integrated marine economic development",
+      "notation": null,
+      "meaning": "Phát triển tổng hợp các ngành kinh tế biển là khai thác các nguồn tài nguyên biển, phát triển đồng thời nhiều ngành kinh tế có liên quan với nhau, mang lại hiệu quả kinh tế cao hơn, thúc đẩy nhau cùng phát triển, không cản trở hoặc gây thiệt hại kinh tế cho các ngành kinh tế còn lại; vừa đem lại hiệu quả kinh tế, vừa góp phần bảo vệ tài nguyên, môi trường và khẳng định chủ quyền quốc gia.",
+      "usage_context": "Bài 33, Mục II (trang 168): khái niệm và ý nghĩa của phát triển tổng hợp các ngành kinh tế biển ở Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b33",
+        "section": "III",
+        "pdf_page": 171,
+        "printed_page": 167
+      },
+      "dictionary": "Tu-dien-Dia-li-12-Phan-4.md",
+      "note_ids": []
+    }
+  ],
+  "source_notes": [
+    {
+      "id": "tu-dien-dia-li-12-phan-1#1",
+      "dictionary": "Tu-dien-Dia-li-12-Phan-1.md",
+      "number": 1,
+      "status": "closed",
+      "lesson_id": "b03",
+      "section": "II",
+      "pdf_page": 24,
+      "term_ids": [],
+      "issue": "Hộp EM CÓ BIẾT? trang in 22 (pdf:24) sách in \"ở bước ta\" thay vì \"ở nước ta\"",
+      "resolution": "Giữ nguyên văn theo sách tại Tầng 1",
+      "resolved_on": "2026-10-30"
+    }
+  ]
+}
