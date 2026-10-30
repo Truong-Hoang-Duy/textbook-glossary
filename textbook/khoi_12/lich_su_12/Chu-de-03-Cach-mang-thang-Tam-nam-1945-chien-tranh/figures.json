@@ -1,0 +1,100 @@
+{
+  "H12-lich_su-b06-01": {
+    "pdf_page": 33,
+    "bbox": [95, 425, 498, 654]
+  },
+  "H12-lich_su-b06-02": {
+    "pdf_page": 34,
+    "bbox": [267, 398, 529, 635]
+  },
+  "H12-lich_su-b06-03": {
+    "pdf_page": 35,
+    "bbox": [230, 147, 530, 378]
+  },
+  "H12-lich_su-b06-04": {
+    "pdf_page": 35,
+    "bbox": [230, 389, 530, 620]
+  },
+  "H12-lich_su-b07-01": {
+    "pdf_page": 39,
+    "bbox": [100, 305, 500, 584]
+  },
+  "H12-lich_su-b07-02": {
+    "pdf_page": 40,
+    "bbox": [250, 563, 530, 768]
+  },
+  "H12-lich_su-b07-03": {
+    "pdf_page": 43,
+    "bbox": [60, 63, 312, 285]
+  },
+  "H12-lich_su-b07-04": {
+    "pdf_page": 43,
+    "bbox": [4, 558, 270, 785],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh Hình 4 tràn sát mép trái trang sách"
+  },
+  "H12-lich_su-b07-05": {
+    "pdf_page": 44,
+    "bbox": [132, 115, 458, 534]
+  },
+  "H12-lich_su-b07-06": {
+    "pdf_page": 44,
+    "bbox": [60, 538, 529, 728]
+  },
+  "H12-lich_su-b07-07": {
+    "pdf_page": 45,
+    "bbox": [266, 440, 529, 632]
+  },
+  "H12-lich_su-b08-01": {
+    "pdf_page": 47,
+    "bbox": [375, 326, 518, 540]
+  },
+  "H12-lich_su-b08-02": {
+    "pdf_page": 48,
+    "bbox": [298, 591, 530, 780]
+  },
+  "H12-lich_su-b08-03": {
+    "pdf_page": 50,
+    "bbox": [238, 66, 530, 255]
+  },
+  "H12-lich_su-b08-04": {
+    "pdf_page": 51,
+    "bbox": [280, 62, 529, 276]
+  },
+  "H12-lich_su-b08-05": {
+    "pdf_page": 52,
+    "bbox": [60, 400, 304, 575]
+  },
+  "H12-lich_su-b08-06": {
+    "pdf_page": 53,
+    "bbox": [272, 212, 530, 366]
+  },
+  "H12-lich_su-b08-07": {
+    "pdf_page": 53,
+    "bbox": [4, 610, 278, 786]
+  },
+  "H12-lich_su-b09-01": {
+    "pdf_page": 56,
+    "bbox": [260, 412, 522, 626]
+  },
+  "H12-lich_su-b09-02": {
+    "pdf_page": 57,
+    "bbox": [218, 62, 529, 318]
+  },
+  "H12-lich_su-b09-03": {
+    "pdf_page": 58,
+    "bbox": [238, 62, 530, 276]
+  },
+  "H12-lich_su-b09-04": {
+    "pdf_page": 58,
+    "bbox": [58, 528, 536, 760]
+  },
+  "H12-lich_su-b09-05": {
+    "pdf_page": 59,
+    "bbox": [60, 136, 332, 335]
+  },
+  "H12-lich_su-b09-06": {
+    "pdf_page": 60,
+    "bbox": [118, 212, 470, 446]
+  }
+}

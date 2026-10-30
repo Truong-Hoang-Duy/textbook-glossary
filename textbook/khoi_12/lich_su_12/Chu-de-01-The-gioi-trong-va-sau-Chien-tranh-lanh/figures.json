@@ -1,0 +1,62 @@
+{
+  "H12-lich_su-b01-01": {
+    "pdf_page": 8,
+    "bbox": [5, 580, 560, 815],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh nền tràn lề toàn bộ nửa dưới trang mở đầu Chủ đề 1 và nằm dưới khung Mở đầu"
+  },
+  "H12-lich_su-b01-02": {
+    "pdf_page": 9,
+    "bbox": [58, 598, 527, 780]
+  },
+  "H12-lich_su-b01-03": {
+    "pdf_page": 10,
+    "bbox": [62, 90, 530, 329]
+  },
+  "H12-lich_su-b01-04": {
+    "pdf_page": 10,
+    "bbox": [355, 428, 523, 656]
+  },
+  "H12-lich_su-b01-05": {
+    "pdf_page": 11,
+    "bbox": [62, 68, 525, 300]
+  },
+  "H12-lich_su-b01-06": {
+    "pdf_page": 11,
+    "bbox": [325, 606, 530, 772]
+  },
+  "H12-lich_su-b01-07": {
+    "pdf_page": 12,
+    "bbox": [224, 550, 520, 725]
+  },
+  "H12-lich_su-b01-08": {
+    "pdf_page": 13,
+    "bbox": [58, 102, 528, 368]
+  },
+  "H12-lich_su-b01-09": {
+    "pdf_page": 13,
+    "bbox": [242, 535, 529, 755],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chữ đầu dòng chú thích Hình 9 thẳng hàng dọc với viền phải khung Tư liệu 4 bên trái"
+  },
+  "H12-lich_su-b02-01": {
+    "pdf_page": 15,
+    "bbox": [110, 280, 502, 542]
+  },
+  "H12-lich_su-b02-02": {
+    "pdf_page": 16,
+    "bbox": [58, 65, 308, 438]
+  },
+  "H12-lich_su-b02-03": {
+    "pdf_page": 18,
+    "bbox": [100, 60, 495, 293]
+  },
+  "H12-lich_su-b03-01": {
+    "pdf_page": 20,
+    "bbox": [248, 290, 527, 515]
+  },
+  "H12-lich_su-b03-02": {
+    "pdf_page": 22,
+    "bbox": [58, 4, 314, 186]
+  }
+}

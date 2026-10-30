@@ -1,0 +1,457 @@
+{
+  "unit": "lich_su_12",
+  "subject": "lich_su",
+  "subject_name": "Lịch sử",
+  "grade": 12,
+  "files": [
+    {
+      "file": "SGK LỊCH SỬ 12-KNTT.pdf",
+      "volume": null,
+      "page_count": 115,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+      "pdf_pages": [
+        6,
+        7
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "cd01",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 1",
+      "number": 1,
+      "title": "Thế giới trong và sau Chiến tranh lạnh",
+      "dir": "Chu-de-01-The-gioi-trong-va-sau-Chien-tranh-lanh",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Liên hợp quốc",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Lien-hop-quoc.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            8,
+            14
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Trật tự thế giới trong Chiến tranh lạnh",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Trat-tu-the-gioi-trong-Chien-tranh-lanh.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            15,
+            19
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Trật tự thế giới sau Chiến tranh lạnh",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Trat-tu-the-gioi-sau-Chien-tranh-lanh.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            20,
+            22
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd02",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 2",
+      "number": 2,
+      "title": "ASEAN: Những chặng đường lịch sử",
+      "dir": "Chu-de-02-ASEAN-Nhung-chang-duong-lich-su",
+      "children": [
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Sự ra đời và phát triển của Hiệp hội các quốc gia Đông Nam Á (ASEAN)",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Su-ra-doi-va-phat-trien-cua-Hiep-hoi-cac-quoc-gia.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            23,
+            26
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Cộng đồng ASEAN: Từ ý tưởng đến hiện thực",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Cong-dong-ASEAN-Tu-y-tuong-den-hien-thuc.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            27,
+            32
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd03",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 3",
+      "number": 3,
+      "title": "Cách mạng tháng Tám năm 1945, chiến tranh giải phóng dân tộc và chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam (từ tháng 8 năm 1945 đến nay)",
+      "dir": "Chu-de-03-Cach-mang-thang-Tam-nam-1945-chien-tranh",
+      "children": [
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Cách mạng tháng Tám năm 1945",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Cach-mang-thang-Tam-nam-1945.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            33,
+            38
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Cuộc kháng chiến chống thực dân Pháp (1945 – 1954)",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Cuoc-khang-chien-chong-thuc-dan-Phap-1945-1954.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            39,
+            46
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Cuộc kháng chiến chống Mỹ, cứu nước (1954 – 1975)",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Cuoc-khang-chien-chong-My-cuu-nuoc-1954-1975.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            47,
+            55
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Cuộc đấu tranh bảo vệ Tổ quốc từ sau tháng 4 – 1975 đến nay. Một số bài học lịch sử của các cuộc kháng chiến bảo vệ Tổ quốc từ năm 1945 đến nay",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Cuoc-dau-tranh-bao-ve-To-quoc-tu-sau-thang-4-1975.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            56,
+            62
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd04",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 4",
+      "number": 4,
+      "title": "Công cuộc Đổi mới ở Việt Nam từ năm 1986 đến nay",
+      "dir": "Chu-de-04-Cong-cuoc-Doi-moi-o-Viet-Nam-tu-nam-1986",
+      "children": [
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Khái quát về công cuộc Đổi mới từ năm 1986 đến nay",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Khai-quat-ve-cong-cuoc-Doi-moi-tu-nam-1986-den-nay.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            63,
+            66
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Thành tựu cơ bản và bài học của công cuộc Đổi mới ở Việt Nam từ năm 1986 đến nay",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Thanh-tuu-co-ban-va-bai-hoc-cua-cong-cuoc-Doi-moi.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            67,
+            74
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd05",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 5",
+      "number": 5,
+      "title": "Lịch sử đối ngoại của Việt Nam thời cận – hiện đại",
+      "dir": "Chu-de-05-Lich-su-doi-ngoai-cua-Viet-Nam-thoi-can",
+      "children": [
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Hoạt động đối ngoại của Việt Nam trong đấu tranh giành độc lập dân tộc (từ đầu thế kỉ XX đến Cách mạng tháng Tám năm 1945)",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Hoat-dong-doi-ngoai-cua-Viet-Nam-trong-dau-tranh.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            75,
+            78
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Hoạt động đối ngoại của Việt Nam trong kháng chiến chống Pháp (1945 – 1954) và kháng chiến chống Mỹ (1954 – 1975)",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Hoat-dong-doi-ngoai-cua-Viet-Nam-trong-khang-chien.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            79,
+            83
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Hoạt động đối ngoại của Việt Nam từ năm 1975 đến nay",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-Hoat-dong-doi-ngoai-cua-Viet-Nam-tu-nam-1975-den.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            84,
+            89
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd06",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 6",
+      "number": 6,
+      "title": "Hồ Chí Minh trong lịch sử Việt Nam",
+      "dir": "Chu-de-06-Ho-Chi-Minh-trong-lich-su-Viet-Nam",
+      "children": [
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Khái quát cuộc đời và sự nghiệp của Hồ Chí Minh",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Khai-quat-cuoc-doi-va-su-nghiep-cua-Ho-Chi-Minh.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            90,
+            95
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Hồ Chí Minh – Anh hùng giải phóng dân tộc",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Ho-Chi-Minh-Anh-hung-giai-phong-dan-toc.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            96,
+            106
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Dấu ấn Hồ Chí Minh trong lòng nhân dân thế giới và Việt Nam",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Dau-an-Ho-Chi-Minh-trong-long-nhan-dan-the-gioi-va.md",
+          "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+          "pdf_pages": [
+            107,
+            111
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu khái niệm, thuật ngữ",
+      "file": "Bang-tra-cuu.md",
+      "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+      "pdf_pages": [
+        112,
+        112
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-phien-am",
+      "role": "back_matter",
+      "kind": "bang_phien_am",
+      "label": null,
+      "number": null,
+      "title": "Bảng phiên âm",
+      "file": null,
+      "source_file": "SGK LỊCH SỬ 12-KNTT.pdf",
+      "pdf_pages": [
+        113,
+        113
+      ],
+      "status": "skip"
+    }
+  ],
+  "notes": [
+    "Cấu trúc sách chia thành 6 Chủ đề (Chủ đề 1–6) chứa trực tiếp 17 Bài học (Bài 1–17), kèm Bảng tra cứu khái niệm, thuật ngữ (trang in 110, PDF 112) và Bảng phiên âm (trang in 111, PDF 113) ở cuối sách.",
+    "Độ lệch trang (printed_offset) bằng 2 xuyên suốt toàn bộ file PDF (trang in = trang PDF − 2). Trang PDF 1–3 là bìa và trang tên sách; trang PDF 114–115 là trang thông tin xuất bản và bìa sau.",
+    "Tên tất cả các Chủ đề và Bài trong Mục lục khớp hoàn toàn với trang mở đầu của từng bài trên ảnh PDF.",
+    "Mỗi bài học đều có khung yêu cầu cần đạt ở đầu bài với nhãn \"Học xong bài này, em sẽ:\" (ánh xạ thành \"## 🎯 Học xong bài này, em sẽ:\"), tiếp theo là phần mở đầu bài học (biểu tượng nút play màu hồng, ánh xạ thành \"## 🔴 Mở đầu\").",
+    "Hệ thống mục trong bài chia thành 2 cấp đánh số: cấp 1 đánh số Ả Rập trong hình thoi xanh (1, 2, 3, 4) ánh xạ thành \"## 1. ...\"; cấp 2 đánh chữ cái thường kèm dấu ngoặc đơn (a), b), c), d)) ánh xạ thành \"### a) ...\". Một số mục không chia a), b) mà dùng dấu chấm tròn đầu dòng in nghiêng (• ...) giữ nguyên trong thân mục.",
+    "Các khung \"TƯ LIỆU\", hộp \"EM CÓ BIẾT ?\", hộp \"Kết nối với văn học\" / \"Kết nối với địa lí\" / \"Kết nối với ngày nay\" và câu hỏi giữa bài (biểu tượng ? hồng) được chép thành khối trích dẫn (\"> **TƯ LIỆU ...**\", \"> 💡 EM CÓ BIẾT ?\", \"> 💡 Kết nối ...\", \"> ❓ ...\") để giữ liền mạch section của mục đang xét; khối \"LUYỆN TẬP VÀ VẬN DỤNG\" cuối bài ánh xạ thành \"## ✏️ Luyện tập và vận dụng\"."
+  ],
+  "audits": [
+    {
+      "date": "2026-10-30",
+      "scope": [
+        "cd01",
+        "cd02",
+        "cd03",
+        "cd04",
+        "cd05",
+        "cd06",
+        "bang-tra-cuu"
+      ],
+      "terms": 176,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm tra mẫu phân tầng 30 mục (gồm thuật ngữ in_source từ Bảng tra cứu, thuật ngữ mô tả trải đều 6 Chủ đề và hình minh hoạ) đối chiếu trực tiếp với ảnh trang PDF gốc: 0 lỗi (0,0% <= 5%). Toàn bộ 98 hình trong 17 bài học đạt 0 lỗi mực sát mép."
+    }
+  ],
+  "last_session_note": "Hoàn tất toàn bộ lich_su_12 (17 bài + Bảng tra cứu khái niệm, thuật ngữ, 98 hình, 6 từ điển, 176 thuật ngữ), vượt qua Cổng 0, 1, 2, 2b, 3, 4 và xuất dataset/lich_su_12.json."
+}

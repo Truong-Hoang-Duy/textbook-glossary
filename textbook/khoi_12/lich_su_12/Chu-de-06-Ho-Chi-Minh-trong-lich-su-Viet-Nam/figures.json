@@ -1,0 +1,100 @@
+{
+  "H12-lich_su-b15-01": {
+    "pdf_page": 90,
+    "bbox": [136, 382, 440, 602]
+  },
+  "H12-lich_su-b15-02": {
+    "pdf_page": 92,
+    "bbox": [246, 62, 535, 244]
+  },
+  "H12-lich_su-b15-03": {
+    "pdf_page": 92,
+    "bbox": [228, 252, 392, 424]
+  },
+  "H12-lich_su-b15-04": {
+    "pdf_page": 92,
+    "bbox": [400, 252, 532, 424]
+  },
+  "H12-lich_su-b15-05": {
+    "pdf_page": 92,
+    "bbox": [110, 428, 478, 707]
+  },
+  "H12-lich_su-b15-06": {
+    "pdf_page": 93,
+    "bbox": [58, 432, 358, 652]
+  },
+  "H12-lich_su-b16-01": {
+    "pdf_page": 97,
+    "bbox": [58, 58, 534, 398]
+  },
+  "H12-lich_su-b16-02": {
+    "pdf_page": 97,
+    "bbox": [276, 442, 534, 646]
+  },
+  "H12-lich_su-b16-03": {
+    "pdf_page": 99,
+    "bbox": [396, 314, 530, 538]
+  },
+  "H12-lich_su-b16-04": {
+    "pdf_page": 102,
+    "bbox": [58, 298, 534, 498]
+  },
+  "H12-lich_su-b16-05": {
+    "pdf_page": 103,
+    "bbox": [230, 376, 534, 582]
+  },
+  "H12-lich_su-b16-06": {
+    "pdf_page": 104,
+    "bbox": [58, 196, 534, 412]
+  },
+  "H12-lich_su-b16-07": {
+    "pdf_page": 104,
+    "bbox": [58, 420, 312, 616]
+  },
+  "H12-lich_su-b16-08": {
+    "pdf_page": 104,
+    "bbox": [320, 420, 534, 616]
+  },
+  "H12-lich_su-b16-09": {
+    "pdf_page": 105,
+    "bbox": [104, 384, 490, 628]
+  },
+  "H12-lich_su-b16-10": {
+    "pdf_page": 106,
+    "bbox": [120, 62, 474, 295]
+  },
+  "H12-lich_su-b17-01": {
+    "pdf_page": 107,
+    "bbox": [320, 312, 520, 594]
+  },
+  "H12-lich_su-b17-02": {
+    "pdf_page": 108,
+    "bbox": [130, 438, 486, 687]
+  },
+  "H12-lich_su-b17-03": {
+    "pdf_page": 109,
+    "bbox": [58, 62, 248, 218]
+  },
+  "H12-lich_su-b17-04": {
+    "pdf_page": 109,
+    "bbox": [268, 62, 534, 218]
+  },
+  "H12-lich_su-b17-05": {
+    "pdf_page": 109,
+    "bbox": [386, 226, 534, 420]
+  },
+  "H12-lich_su-b17-06": {
+    "pdf_page": 109,
+    "bbox": [323, 636, 532, 771],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chữ đầu dòng chú thích Hình 6 sát viền phải khung Em có biết bên trái"
+  },
+  "H12-lich_su-b17-07": {
+    "pdf_page": 110,
+    "bbox": [58, 187, 374, 374]
+  },
+  "H12-lich_su-b17-08": {
+    "pdf_page": 110,
+    "bbox": [64, 536, 296, 767]
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "status": "chua_khao_sat",
-  "verified_on": null,
+  "status": "da_kiem_chung",
+  "verified_on": "lich_su_12, 2026-10-30",
   "profile": "lich_su",
   "subjects": [
     "lich_su"
@@ -9,20 +9,23 @@
     {
       "prefix": "## ",
       "regex": "^(\\d+)\\. ",
-      "example": "## 1. MỆNH ĐỀ"
+      "example": "## 1. Một số vấn đề cơ bản về Liên hợp quốc"
     },
     {
-      "prefix": "**",
+      "prefix": "### ",
       "regex": "^([a-z])\\) ",
-      "example": "**a) Mệnh đề phủ định**"
+      "example": "### a) Bối cảnh lịch sử và quá trình hình thành"
     }
   ],
   "formula": "none",
   "audit_focus": [
-    "mo_ta"
+    "mo_ta",
+    "hinh"
   ],
-  "open_questions": [
-    "Xác nhận cách đánh số mục trên PDF.",
-    "Bảng tra cứu khái niệm, thuật ngữ cuối sách là nguồn định nghĩa chính (spec 5.7)."
-  ]
+  "conventions": [
+    "Tên riêng người và địa danh nước ngoài giữ nguyên cách phiên âm có gạch nối như sách in ở Tầng 1 (I-an-ta, Tê-hê-ran, Xan Phran-xi-xcô, Niu Oóc, En Xan-va-đo, Goa-tê-ma-la, Mô-dăm-bích, Kô-phi An-nan, Y-ê-men, Công-gô, Giơ-ne-vơ, Pa-ri,...); ở Tầng 2 có thể đối chiếu nguyên ngữ theo Bảng phiên âm cuối sách (trang in 111).",
+    "Mốc thời gian (ngày – tháng – năm hoặc giai đoạn năm) giữ nguyên cách trình bày của sách (ví dụ: 1 – 1 – 1942, 1945 – 1954, thế kỉ XX).",
+    "Chữ viết tắt các tổ chức, điều ước, khái niệm quốc tế giữ nguyên như sách: Liên hợp quốc (UN), ASEAN, EU, NATO, SEATO, CENTO, SEV, UNCTAD, UNESCO, G7, G20, ASEM, WTO, FDI, GDP."
+  ],
+  "open_questions": []
 }
