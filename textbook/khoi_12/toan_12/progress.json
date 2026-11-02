@@ -1,0 +1,745 @@
+{
+  "unit": "toan_12",
+  "subject": "toan",
+  "subject_name": "Toán",
+  "grade": 12,
+  "files": [
+    {
+      "file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+      "volume": 1,
+      "page_count": 104,
+      "printed_offset": 2
+    },
+    {
+      "file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+      "volume": 2,
+      "page_count": 99,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan-tap-1",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-1",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        6,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c01",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương I",
+      "number": 1,
+      "title": "Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số",
+      "dir": "Chuong-01-Ung-dung-dao-ham-de-khao-sat-va-ve-do-thi",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Tính đơn điệu và cực trị của hàm số",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Tinh-don-dieu-va-cuc-tri-cua-ham-so.md",
+          "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            7,
+            16
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Giá trị lớn nhất và giá trị nhỏ nhất của hàm số",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Gia-tri-lon-nhat-va-gia-tri-nho-nhat-cua-ham-so.md",
+          "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            17,
+            21
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Đường tiệm cận của đồ thị hàm số",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Duong-tiem-can-cua-do-thi-ham-so.md",
+          "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            22,
+            27
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Khảo sát sự biến thiên và vẽ đồ thị của hàm số",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Khao-sat-su-bien-thien-va-ve-do-thi-cua-ham-so.md",
+          "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            28,
+            34
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Ứng dụng đạo hàm để giải quyết một số vấn đề liên quan đến thực tiễn",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Ung-dung-dao-ham-de-giai-quyet-mot-so-van-de.md",
+          "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            35,
+            43
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương I",
+          "lesson_type": "on_tap",
+          "file": "BT-C01-Bai-tap-cuoi-chuong-I.md",
+          "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            44,
+            46
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c02",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương II",
+      "number": 2,
+      "title": "Vectơ và hệ trục toạ độ trong không gian",
+      "dir": "Chuong-02-Vecto-va-he-truc-toa-do-trong-khong-gian",
+      "children": [
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Vectơ trong không gian",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Vecto-trong-khong-gian.md",
+          "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            47,
+            61
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Hệ trục toạ độ trong không gian",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-He-truc-toa-do-trong-khong-gian.md",
+          "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            62,
+            68
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Biểu thức toạ độ của các phép toán vectơ",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Bieu-thuc-toa-do-cua-cac-phep-toan-vecto.md",
+          "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            69,
+            74
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c02",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương II",
+          "lesson_type": "on_tap",
+          "file": "BT-C02-Bai-tap-cuoi-chuong-II.md",
+          "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            75,
+            76
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c03",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương III",
+      "number": 3,
+      "title": "Các số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm",
+      "dir": "Chuong-03-Cac-so-dac-trung-do-muc-do-phan-tan-cua",
+      "children": [
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Khoảng biến thiên và khoảng tứ phân vị",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Khoang-bien-thien-va-khoang-tu-phan-vi.md",
+          "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            77,
+            81
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Phương sai và độ lệch chuẩn",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Phuong-sai-va-do-lech-chuan.md",
+          "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            82,
+            86
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c03",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương III",
+          "lesson_type": "on_tap",
+          "file": "BT-C03-Bai-tap-cuoi-chuong-III.md",
+          "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            87,
+            88
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-01",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Khảo sát và vẽ đồ thị hàm số với phần mềm GeoGebra",
+          "lesson_type": "thuc_hanh",
+          "file": "HD01-Khao-sat-va-ve-do-thi-ham-so-voi-phan-mem-GeoGebra.md",
+          "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            89,
+            93
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-02",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Vẽ vectơ tổng của ba vectơ trong không gian bằng phần mềm GeoGebra",
+          "lesson_type": "thuc_hanh",
+          "file": "HD02-Ve-vecto-tong-cua-ba-vecto-trong-khong-gian.md",
+          "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            94,
+            95
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-03",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Độ dài gang tay (gang tay của bạn dài bao nhiêu?)",
+          "lesson_type": "thuc_hanh",
+          "file": "HD03-Do-dai-gang-tay.md",
+          "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            96,
+            100
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-tu-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu từ ngữ (Tập một)",
+      "file": null,
+      "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        101,
+        101
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ (Tập một)",
+      "file": "Bang-giai-thich-thuat-ngu-Tap-1.md",
+      "source_file": "SGK TOAN 12 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        102,
+        102
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "huong-dan-tap-2",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách (Tập hai)",
+      "file": null,
+      "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-2",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục (Tập hai)",
+      "file": null,
+      "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c04",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương IV",
+      "number": 4,
+      "title": "Nguyên hàm và tích phân",
+      "dir": "Chuong-04-Nguyen-ham-va-tich-phan",
+      "children": [
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Nguyên hàm",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Nguyen-ham.md",
+          "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            6,
+            13
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Tích phân",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Tich-phan.md",
+          "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            14,
+            20
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Ứng dụng hình học của tích phân",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Ung-dung-hinh-hoc-cua-tich-phan.md",
+          "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            21,
+            28
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c04",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương IV",
+          "lesson_type": "on_tap",
+          "file": "BT-C04-Bai-tap-cuoi-chuong-IV.md",
+          "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            29,
+            30
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c05",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương V",
+      "number": 5,
+      "title": "Phương pháp toạ độ trong không gian",
+      "dir": "Chuong-05-Phuong-phap-toa-do-trong-khong-gian",
+      "children": [
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Phương trình mặt phẳng",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-Phuong-trinh-mat-phang.md",
+          "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            31,
+            42
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Phương trình đường thẳng trong không gian",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Phuong-trinh-duong-thang-trong-khong-gian.md",
+          "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            43,
+            51
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Công thức tính góc trong không gian",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Cong-thuc-tinh-goc-trong-khong-gian.md",
+          "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            52,
+            55
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Phương trình mặt cầu",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Phuong-trinh-mat-cau.md",
+          "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            56,
+            62
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c05",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương V",
+          "lesson_type": "on_tap",
+          "file": "BT-C05-Bai-tap-cuoi-chuong-V.md",
+          "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            63,
+            65
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c06",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VI",
+      "number": 6,
+      "title": "Xác suất có điều kiện",
+      "dir": "Chuong-06-Xac-suat-co-dieu-kien",
+      "children": [
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Xác suất có điều kiện",
+          "lesson_type": "ly_thuyet",
+          "file": "B18-Xac-suat-co-dieu-kien.md",
+          "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            66,
+            73
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Công thức xác suất toàn phần và công thức Bayes",
+          "lesson_type": "ly_thuyet",
+          "file": "B19-Cong-thuc-xac-suat-toan-phan-va-cong-thuc-Bayes.md",
+          "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            74,
+            80
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c06",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương VI",
+          "lesson_type": "on_tap",
+          "file": "BT-C06-Bai-tap-cuoi-chuong-VI.md",
+          "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            81,
+            82
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-04",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Tính nguyên hàm và tích phân với phần mềm GeoGebra. Tính gần đúng tích phân bằng phương pháp hình thang",
+          "lesson_type": "thuc_hanh",
+          "file": "HD04-Tinh-nguyen-ham-va-tich-phan-voi-phan-mem-GeoGebra.md",
+          "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            83,
+            86
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-05",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Vẽ đồ hoạ 3D với phần mềm GeoGebra",
+          "lesson_type": "thuc_hanh",
+          "file": "HD05-Ve-do-hoa-3D-voi-phan-mem-GeoGebra.md",
+          "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            87,
+            91
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "on-tap-cuoi-nam",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập ôn tập cuối năm",
+          "lesson_type": "on_tap",
+          "file": "On-tap-cuoi-nam.md",
+          "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            92,
+            95
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-tu-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu từ ngữ (Tập hai)",
+      "file": null,
+      "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+      "pdf_pages": [
+        96,
+        96
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ (Tập hai)",
+      "file": "Bang-giai-thich-thuat-ngu-Tap-2.md",
+      "source_file": "SGK TOAN 12 TAP 2 - KNTT.pdf",
+      "pdf_pages": [
+        97,
+        97
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Toán 12 – Kết nối tri thức với cuộc sống gồm 2 tập: Tập một (104 trang PDF, Chương I–III, Bài 1–10, 3 chủ đề Hoạt động thực hành trải nghiệm và các bảng tra cứu/giải thích thuật ngữ) và Tập hai (99 trang PDF, Chương IV–VI, Bài 11–19, 2 chủ đề Hoạt động thực hành trải nghiệm, Bài tập ôn tập cuối năm và các bảng tra cứu/giải thích thuật ngữ). Độ lệch trang (printed_offset) bằng 2 xuyên suốt cả 2 tập (trang PDF = trang in + 2).",
+    "Tên chương in trên sách dùng số La Mã (Chương I đến Chương VI), tên bài đánh số liên tục xuyên suốt 2 tập (Bài 1 đến Bài 19). Băng tiêu đề chương in chung ở đầu trang đầu tiên của bài mở đầu mỗi chương (PDF 7, 47, 77 ở Tập 1; PDF 6, 31, 66 ở Tập 2).",
+    "Đầu mỗi bài học có khung hai cột: cột trái \"THUẬT NGỮ\" được bóc tách vào khối \"## 🔤 Thuật ngữ\", cột phải \"KIẾN THỨC, KĨ NĂNG\" được bóc tách vào khối \"## 🎯 Mục tiêu\" (riêng Bài 8 chỉ có cột \"KIẾN THỨC, KĨ NĂNG\"; các bài Hoạt động thực hành trải nghiệm có khung \"MỤC TIÊU\" đầu bài).",
+    "Cấp mục trong bài học chia thành mục lớn đánh số Ả Rập (\"## 1. ...\", \"## 2. ...\") và tiểu mục đánh chữ cái thường (\"**a) ...**\", \"**b) ...**\"). Các khung kiến thức (Định nghĩa, Định lí, Tính chất, Hệ quả, Chú ý, Nhận xét) chép thành khối trích dẫn nguyên văn và in đậm thuật ngữ tại câu định nghĩa.",
+    "Các bài tập cuối chương (Chương I–VI), 5 chủ đề Hoạt động thực hành trải nghiệm (3 chủ đề cuối Tập 1, 2 chủ đề cuối Tập 2) và Bài tập ôn tập cuối năm được gộp vào nhóm Chương tương ứng theo đúng thứ tự trang sách (spec mục 5)."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-02",
+      "scope": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06"
+      ],
+      "terms": 150,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Mẫu phân tầng 30/150 thuật ngữ có nguồn (seed 12: 12 mục described + 18 mục in_source, trọng tâm công thức LaTeX cong_thuc và mô tả mo_ta theo hồ sơ môn toan.json) trải đều cả 6 chương (Tập 1 và Tập 2), đối chiếu trực tiếp Giải nghĩa, Ký hiệu/Công thức LaTeX, trang PDF, trang in, mục với ảnh trang gốc (Tập 1 PDF 8, 9, 11, 35, 36, 40, 56, 62, 65, 69, 78, 79; Tập 2 PDF 10, 16, 18, 23, 26, 34, 38, 39, 48, 52, 67, 77): 0 lỗi (0%). 20 mục Ngoài nguồn đúng mẫu quy định. Toàn bộ 32/32 mục ở Bảng giải thích thuật ngữ Tập 1 và Tập 2 được bao phủ 100%."
+    }
+  ],
+  "last_session_note": "2026-11-02: Hoàn thành 100% bộ sách Toán 12 Tập 1 và Tập 2 (Chương I–VI, Bài 1–19, 6 bài tập cuối chương, 5 hoạt động thực hành trải nghiệm, bài tập ôn tập cuối năm và 2 bảng giải thích thuật ngữ). Đạt Cổng 0, Cổng 1 (33 file, 215 hình minh hoạ), Cổng 2 & 2b (6 từ điển Tầng 2, 170 thuật ngữ: 110 in_source, 40 described, 20 out_of_source; 100% độ phủ ứng viên và 32/32 mục bảng tra cứu cuối sách), Cổng 3 (dataset/toan_12.json hợp lệ schema) và Cổng 4 (kiểm toán mẫu phân tầng 30/150 mục đạt 0% lỗi). Tất cả 33 bài đạt trạng thái verified."
+}

@@ -1,6 +1,6 @@
 {
-  "status": "chua_khao_sat",
-  "verified_on": null,
+  "status": "da_kiem_chung",
+  "verified_on": "toan_12, 2026-11-02",
   "profile": "toan",
   "subjects": [
     "toan"
@@ -9,13 +9,16 @@
     {
       "prefix": "## ",
       "regex": "^(\\d+)\\. ",
-      "example": "## 1. MỆNH ĐỀ"
+      "example": "## 1. TÍNH ĐƠN ĐIỆU CỦA HÀM SỐ"
     },
     {
       "prefix": "**",
       "regex": "^([a-z])\\) ",
-      "example": "**a) Mệnh đề phủ định**"
+      "example": "**a) Khái niệm tính đơn điệu của hàm số**"
     }
+  ],
+  "extra_headings": [
+    "^(BÀI TẬP|A\\s*[–-]\\s*TRẮC NGHIỆM|B\\s*[–-]\\s*TỰ LUẬN)$"
   ],
   "definition_boxes": [
     "Định nghĩa",
@@ -30,10 +33,10 @@
     "cong_thuc",
     "mo_ta"
   ],
-  "open_questions": [
-    "Sách dùng \"1.\" ở cấp mục đầu (không có số La Mã) — xác nhận trên PDF.",
-    "Khung kiến thức có in đậm thuật ngữ không, hay chỉ có nhãn khung?",
-    "Cột \"THUẬT NGỮ\" đầu bài chép vào khối 🔤 (key_terms).",
-    "SGK 2 tập: mỗi tập một phần tử trong files, crop --grid cần --file."
-  ]
+  "conventions": [
+    "Mọi công thức toán học, phương trình, bất phương trình, giới hạn, đạo hàm, nguyên hàm, tích phân, toạ độ, vectơ và xác suất viết bằng LaTeX trong cặp dấu $...$.",
+    "Kí hiệu tập hợp số ($\\mathbb{R}$, $\\mathbb{Z}$, $\\mathbb{N}$), vectơ ($\\vec{u}$, $\\overrightarrow{AB}$), tích phân ($\\int_a^b f(x)\\,dx$), giới hạn ($\\lim_{x \\to x_0}$), xác suất có điều kiện ($P(A \\mid B)$), biến cố đối ($\\overline{A}$) viết chuẩn LaTeX theo đúng kí hiệu in trong SGK.",
+    "Số thập phân giữ nguyên dấu phẩy như SGK (ví dụ: $0,5$; $1,96$). Dấu chấm phẩy dùng để ngăn cách các toạ độ điểm/vectơ hoặc hai đầu mút khoảng/đoạn, ví dụ: $M(x_0; y_0; z_0)$, $(a; b)$, $[a; b]$."
+  ],
+  "open_questions": []
 }
