@@ -1,0 +1,788 @@
+{
+  "unit": "dia_10",
+  "subject": "dia",
+  "subject_name": "Địa lí",
+  "grade": 10,
+  "files": [
+    {
+      "file": "SGK Dia li 10.pdf",
+      "volume": null,
+      "page_count": 118,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Dia li 10.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Dia li 10.pdf",
+      "pdf_pages": [
+        4,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "cau-truc-bai-hoc",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Cấu trúc bài học",
+      "file": null,
+      "source_file": "SGK Dia li 10.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "p01",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần một",
+      "number": 1,
+      "title": "Một số vấn đề chung",
+      "dir": "Phan-01-Mot-so-van-de-chung",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Môn Địa lí với định hướng nghề nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-01-Mon-Dia-li-voi-dinh-huong-nghe-nghiep.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            6,
+            7
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần hai",
+      "number": 2,
+      "title": "Địa lí tự nhiên",
+      "dir": "Phan-02-Dia-li-tu-nhien",
+      "children": [
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Một số phương pháp biểu hiện các đối tượng địa lí trên bản đồ",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-02-Mot-so-phuong-phap-bieu-hien-cac-doi-tuong-dia-li-tren.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            8,
+            12
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Sử dụng bản đồ trong học tập và đời sống, một số ứng dụng của GPS và bản đồ số trong đời sống",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-03-Su-dung-ban-do-trong-hoc-tap-va-doi-song-mot-so-ung.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            13,
+            15
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Sự hình thành Trái Đất, vỏ Trái Đất và vật liệu cấu tạo vỏ Trái Đất",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-04-Su-hinh-thanh-Trai-Dat-vo-Trai-Dat-va-vat-lieu-cau-tao.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            16,
+            17
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Hệ quả địa lí các chuyển động của Trái Đất",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-05-He-qua-dia-li-cac-chuyen-dong-cua-Trai-Dat.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            18,
+            21
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Thạch quyển, thuyết kiến tạo mảng",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-06-Thach-quyen-thuyet-kien-tao-mang.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            22,
+            24
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Nội lực và ngoại lực",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-07-Noi-luc-va-ngoai-luc.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            25,
+            27
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Thực hành: Sự phân bố các vành đai động đất, núi lửa",
+          "lesson_type": "thuc_hanh",
+          "file": "Bai-08-Thuc-hanh-Su-phan-bo-cac-vanh-dai-dong-dat-nui-lua.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            28,
+            28
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Khí quyển, các yếu tố khí hậu",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-09-Khi-quyen-cac-yeu-to-khi-hau.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            29,
+            35
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Thực hành: Đọc bản đồ các đới và các kiểu khí hậu trên Trái Đất, phân tích biểu đồ một số kiểu khí hậu",
+          "lesson_type": "thuc_hanh",
+          "file": "Bai-10-Thuc-hanh-Doc-ban-do-cac-doi-va-cac-kieu-khi-hau-tren.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            36,
+            37
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Thuỷ quyển, nước trên lục địa",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-11-Thuy-quyen-nuoc-tren-luc-dia.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            38,
+            41
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Nước biển và đại dương",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-12-Nuoc-bien-va-dai-duong.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            42,
+            45
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Thực hành: Phân tích chế độ nước của sông Hồng",
+          "lesson_type": "thuc_hanh",
+          "file": "Bai-13-Thuc-hanh-Phan-tich-che-do-nuoc-cua-song-Hong.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            45,
+            45
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Đất trên Trái Đất",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-14-Dat-tren-Trai-Dat.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            46,
+            47
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Sinh quyển",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-15-Sinh-quyen.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            48,
+            49
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Thực hành: Tìm hiểu sự phân bố đất và sinh vật trên Trái Đất",
+          "lesson_type": "thuc_hanh",
+          "file": "Bai-16-Thuc-hanh-Tim-hieu-su-phan-bo-dat-va-sinh-vat-tren-Trai.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            50,
+            51
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Vỏ địa lí, quy luật thống nhất và hoàn chỉnh của vỏ địa lí",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-17-Vo-dia-li-quy-luat-thong-nhat-va-hoan-chinh-cua-vo-dia.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            52,
+            53
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Quy luật địa đới và quy luật phi địa đới",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-18-Quy-luat-dia-doi-va-quy-luat-phi-dia-doi.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            54,
+            55
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần ba",
+      "number": 3,
+      "title": "Địa lí kinh tế – xã hội",
+      "dir": "Phan-03-Dia-li-kinh-te-xa-hoi",
+      "children": [
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Quy mô dân số, gia tăng dân số và cơ cấu dân số thế giới",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-19-Quy-mo-dan-so-gia-tang-dan-so-va-co-cau-dan-so-the-gioi.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            56,
+            60
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Phân bố dân cư và đô thị hoá trên thế giới",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-20-Phan-bo-dan-cu-va-do-thi-hoa-tren-the-gioi.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            61,
+            63
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Các nguồn lực phát triển kinh tế",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-21-Cac-nguon-luc-phat-trien-kinh-te.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            64,
+            65
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Cơ cấu kinh tế, tổng sản phẩm trong nước và tổng thu nhập quốc gia",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-22-Co-cau-kinh-te-tong-san-pham-trong-nuoc-va-tong-thu.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            66,
+            67
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Vai trò, đặc điểm, các nhân tố ảnh hưởng tới phát triển và phân bố nông nghiệp, lâm nghiệp, thuỷ sản",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-23-Vai-tro-dac-diem-cac-nhan-to-anh-huong-toi-phat-trien.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            68,
+            69
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 24",
+          "number": 24,
+          "title": "Địa lí ngành nông nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-24-Dia-li-nganh-nong-nghiep.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            70,
+            73
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Địa lí ngành lâm nghiệp và ngành thuỷ sản",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-25-Dia-li-nganh-lam-nghiep-va-nganh-thuy-san.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            74,
+            76
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b26",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 26",
+          "number": 26,
+          "title": "Tổ chức lãnh thổ nông nghiệp, một số vấn đề phát triển nông nghiệp hiện đại trên thế giới và định hướng phát triển nông nghiệp trong tương lai",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-26-To-chuc-lanh-tho-nong-nghiep-mot-so-van-de-phat-trien.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            77,
+            79
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b27",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 27",
+          "number": 27,
+          "title": "Thực hành: Vẽ và nhận xét biểu đồ về sản lượng lương thực của thế giới",
+          "lesson_type": "thuc_hanh",
+          "file": "Bai-27-Thuc-hanh-Ve-va-nhan-xet-bieu-do-ve-san-luong-luong.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            79,
+            79
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b28",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 28",
+          "number": 28,
+          "title": "Vai trò, đặc điểm, cơ cấu ngành công nghiệp, các nhân tố ảnh hưởng tới sự phát triển và phân bố công nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-28-Vai-tro-dac-diem-co-cau-nganh-cong-nghiep-cac-nhan-to.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            80,
+            81
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b29",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 29",
+          "number": 29,
+          "title": "Địa lí một số ngành công nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-29-Dia-li-mot-so-nganh-cong-nghiep.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            82,
+            86
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b30",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 30",
+          "number": 30,
+          "title": "Tổ chức lãnh thổ công nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-30-To-chuc-lanh-tho-cong-nghiep.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            87,
+            88
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b31",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 31",
+          "number": 31,
+          "title": "Tác động của công nghiệp đối với môi trường, phát triển năng lượng tái tạo, định hướng phát triển công nghiệp trong tương lai",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-31-Tac-dong-cua-cong-nghiep-doi-voi-moi-truong-phat-trien.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            89,
+            90
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b32",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 32",
+          "number": 32,
+          "title": "Thực hành: Viết báo cáo tìm hiểu một vấn đề về công nghiệp",
+          "lesson_type": "thuc_hanh",
+          "file": "Bai-32-Thuc-hanh-Viet-bao-cao-tim-hieu-mot-van-de-ve-cong.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            91,
+            91
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b33",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 33",
+          "number": 33,
+          "title": "Cơ cấu, vai trò, đặc điểm, các nhân tố ảnh hưởng đến sự phát triển và phân bố dịch vụ",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-33-Co-cau-vai-tro-dac-diem-cac-nhan-to-anh-huong-den-su.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            92,
+            93
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b34",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 34",
+          "number": 34,
+          "title": "Địa lí ngành giao thông vận tải",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-34-Dia-li-nganh-giao-thong-van-tai.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            94,
+            98
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b35",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 35",
+          "number": 35,
+          "title": "Địa lí ngành bưu chính viễn thông",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-35-Dia-li-nganh-buu-chinh-vien-thong.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            99,
+            101
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b36",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 36",
+          "number": 36,
+          "title": "Địa lí ngành du lịch",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-36-Dia-li-nganh-du-lich.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            102,
+            103
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b37",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 37",
+          "number": 37,
+          "title": "Địa lí ngành thương mại và ngành tài chính ngân hàng",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-37-Dia-li-nganh-thuong-mai-va-nganh-tai-chinh-ngan-hang.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            104,
+            107
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b38",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 38",
+          "number": 38,
+          "title": "Thực hành: Viết báo cáo tìm hiểu về một ngành dịch vụ",
+          "lesson_type": "thuc_hanh",
+          "file": "Bai-38-Thuc-hanh-Viet-bao-cao-tim-hieu-ve-mot-nganh-dich-vu.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            108,
+            108
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b39",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 39",
+          "number": 39,
+          "title": "Môi trường và tài nguyên thiên nhiên",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-39-Moi-truong-va-tai-nguyen-thien-nhien.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            109,
+            111
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b40",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 40",
+          "number": 40,
+          "title": "Phát triển bền vững và tăng trưởng xanh",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-40-Phat-trien-ben-vung-va-tang-truong-xanh.md",
+          "source_file": "SGK Dia li 10.pdf",
+          "pdf_pages": [
+            112,
+            113
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu thuật ngữ",
+      "file": "Bang-tra-cuu-thuat-ngu.md",
+      "source_file": "SGK Dia li 10.pdf",
+      "pdf_pages": [
+        114,
+        114
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-phien-am",
+      "role": "back_matter",
+      "kind": "bang_phien_am",
+      "label": null,
+      "number": null,
+      "title": "Bảng phiên âm",
+      "file": "Bang-phien-am.md",
+      "source_file": "SGK Dia li 10.pdf",
+      "pdf_pages": [
+        115,
+        116
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "Sách giáo khoa Địa lí 10 (Kết nối tri thức với cuộc sống) gồm 3 Phần lớn, 13 Chương và 40 Bài học (Bài 1–40), kèm Bảng tra cứu thuật ngữ (trang in 113, PDF 114) và Bảng phiên âm (trang in 114–115, PDF 115–116). Độ lệch trang printed_offset = 1 xuyên suốt toàn bộ sách (trang PDF = trang in + 1).",
+    "Để đồng bộ cấu trúc 3 thư mục Phần (Phan-01-Mot-so-van-de-chung, Phan-02-Dia-li-tu-nhien, Phan-03-Dia-li-kinh-te-xa-hoi) và 3 từ điển chuyên đề theo Phần (Tu-dien-Dia-li-10-Phan-1..3.md), cây toc đặt 3 nút group cấp Phần chứa trực tiếp các bài học: Phần một (Bài 1), Phần hai (Chương 1–7: Bài 2–18), Phần ba (Chương 8–13: Bài 19–40). Lưu ý trong sách in, Chương 1 (Sử dụng bản đồ, Bài 2–3, trang in 7–14) đặt trước trang tiêu đề Phần hai (trang in 15), nhưng thuộc khối kiến thức bản đồ và địa lí tự nhiên đại cương của Phần 2.",
+    "Trên trang mở đầu Bài 26 (trang in 76, PDF 77), tiêu đề in là 'Tổ chức lãnh thổ nông nghiệp, một số vấn đề phát triển nông nghiệp hiện đại trên thế giới và định hướng phát triển nông nghiệp trong tương lai', khớp với Mục lục (trang in 3, PDF 4). Bài 12 kết thúc ở nửa trên trang in 44 (PDF 45) và Bài 13 (Thực hành) bắt đầu ở nửa dưới cùng trang in 44 (PDF 45); Bài 26 kết thúc ở nửa trên trang in 78 (PDF 79) và Bài 27 (Thực hành) bắt đầu ở nửa dưới cùng trang in 78 (PDF 79).",
+    "SGK Địa lí 10 không có khung Yêu cầu cần đạt ở đầu bài (objectives = null). Mở đầu bài dùng biểu tượng nút nguồn màu đỏ cam ánh xạ thành '## 🔴 Mở đầu'; các mục lớn đánh số 1., 2. ánh xạ thành '## 1. ...' (riêng Bài 37 chia 2 mục lớn '## I. THƯƠNG MẠI' và '## II. TÀI CHÍNH NGÂN HÀNG', tiểu mục '### 1. ...' và '**a) ...**'); hộp 'Em có biết?' và câu hỏi giữa bài chép thành khối trích dẫn '> 💡 Em có biết?' và '> ❓ ...'; cuối bài là '## ✏️ Luyện tập' và '## 🚀 Vận dụng' (hoặc '## ✏️ Luyện tập và vận dụng')."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-02",
+      "scope": [
+        "p01",
+        "p02",
+        "p03",
+        "bang-tra-cuu-thuat-ngu",
+        "bang-phien-am"
+      ],
+      "terms": 284,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm tra mẫu phân tầng 30 mục (6 thuật ngữ in_source từ Bảng tra cứu thuật ngữ, 14 thuật ngữ mô tả ở 3 Phần, 10 bản đồ/lược đồ/sơ đồ/bảng số liệu) đối chiếu trực tiếp với ảnh trang PDF gốc: 0 lỗi (0,0% <= 5%). Tất cả 68 hình đạt 0 lỗi cắt qua nét vẽ."
+    }
+  ],
+  "last_session_note": "Hoàn tất toàn bộ dia_10 (40 bài + Bảng tra cứu thuật ngữ + Bảng phiên âm, 68 hình, 3 từ điển, 284 thuật ngữ), vượt qua Cổng 0, 1, 2, 2b, 3, 4 và xuất dataset/dia_10.json."
+}

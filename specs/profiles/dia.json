@@ -1,6 +1,6 @@
 {
   "status": "da_kiem_chung",
-  "verified_on": "dia_12, 2026-10-30",
+  "verified_on": "dia_12, 2026-10-30; dia_10, 2026-11-02",
   "profile": "dia",
   "subjects": [
     "dia"
@@ -8,19 +8,23 @@
   "section_levels": [
     {
       "prefix": "## ",
-      "regex": "^([IVX]+)\\. ",
+      "regex": "^([IVX]+|\\d+)\\. ",
       "example": "## I. VỊ TRÍ ĐỊA LÍ, PHẠM VI LÃNH THỔ"
     },
     {
       "prefix": "### ",
-      "regex": "^(\\d+)\\. ",
-      "example": "### 1. Vị trí địa lí"
+      "regex": "^([a-z]|\\d+)[.)] ",
+      "example": "### a) Đặc điểm"
     },
     {
       "prefix": "**",
-      "regex": "^([a-z])\\) ",
+      "regex": "^([a-z]|\\d+)\\) ",
       "example": "**a) Thế mạnh**"
     }
+  ],
+  "extra_headings": [
+    "^🚀\\s*Vận dụng.*",
+    "^Vận dụng.*"
   ],
   "formula": "none",
   "audit_focus": [
