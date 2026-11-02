@@ -1,0 +1,542 @@
+{
+  "unit": "vat_ly_12",
+  "subject": "vat_ly",
+  "subject_name": "Vật lí",
+  "grade": 12,
+  "files": [
+    {
+      "file": "SGK VAT LI 12 - KNTT.pdf",
+      "volume": null,
+      "page_count": 127,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK VAT LI 12 - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK VAT LI 12 - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK VAT LI 12 - KNTT.pdf",
+      "pdf_pages": [
+        6,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c01",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương I",
+      "number": 1,
+      "title": "Vật lí nhiệt",
+      "dir": "Chuong-01-Vat-li-nhiet",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Cấu trúc của chất. Sự chuyển thể",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Cau-truc-cua-chat-Su-chuyen-the.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            8,
+            11
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Nội năng. Định luật I của nhiệt động lực học",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Noi-nang-Dinh-luat-I-cua-nhiet-dong-luc-hoc.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            12,
+            16
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Nhiệt độ. Thang nhiệt độ – nhiệt kế",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Nhiet-do-Thang-nhiet-do-nhiet-ke.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            17,
+            21
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Nhiệt dung riêng",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Nhiet-dung-rieng.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            22,
+            25
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Nhiệt nóng chảy riêng",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Nhiet-nong-chay-rieng.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            26,
+            28
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Nhiệt hoá hơi riêng",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Nhiet-hoa-hoi-rieng.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            29,
+            31
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Bài tập về vật lí nhiệt",
+          "lesson_type": "on_tap",
+          "file": "B07-Bai-tap-ve-vat-li-nhiet.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            32,
+            34
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c02",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương II",
+      "number": 2,
+      "title": "Khí lí tưởng",
+      "dir": "Chuong-02-Khi-li-tuong",
+      "children": [
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Mô hình động học phân tử chất khí",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Mo-hinh-dong-hoc-phan-tu-chat-khi.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            36,
+            38
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Định luật Boyle",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Dinh-luat-Boyle.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            39,
+            42
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Định luật Charles",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Dinh-luat-Charles.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            43,
+            46
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Phương trình trạng thái của khí lí tưởng",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Phuong-trinh-trang-thai-cua-khi-li-tuong.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            47,
+            49
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Áp suất khí theo mô hình động học phân tử. Quan hệ giữa động năng phân tử và nhiệt độ",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Ap-suat-khi-theo-mo-hinh-dong-hoc-phan-tu-Quan-he-giua-dong-nang-phan-tu-va-nhiet-do.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            50,
+            53
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Bài tập về khí lí tưởng",
+          "lesson_type": "on_tap",
+          "file": "B13-Bai-tap-ve-khi-li-tuong.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            54,
+            56
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c03",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương III",
+      "number": 3,
+      "title": "Từ trường",
+      "dir": "Chuong-03-Tu-truong",
+      "children": [
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Từ trường",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-Tu-truong.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            58,
+            62
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Lực từ tác dụng lên dây dẫn mang dòng điện. Cảm ứng từ",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Luc-tu-tac-dung-len-day-dan-mang-dong-dien-Cam-ung-tu.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            63,
+            67
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Từ thông. Hiện tượng cảm ứng điện từ",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Tu-thong-Hien-tuong-cam-ung-dien-tu.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            68,
+            73
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Máy phát điện xoay chiều",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-May-phat-dien-xoay-chieu.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            74,
+            79
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Ứng dụng hiện tượng cảm ứng điện từ",
+          "lesson_type": "ly_thuyet",
+          "file": "B18-Ung-dung-hien-tuong-cam-ung-dien-tu.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            80,
+            83
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Điện từ trường. Mô hình sóng điện từ",
+          "lesson_type": "ly_thuyet",
+          "file": "B19-Dien-tu-truong-Mo-hinh-song-dien-tu.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            84,
+            87
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Bài tập về từ trường",
+          "lesson_type": "on_tap",
+          "file": "B20-Bai-tap-ve-tu-truong.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            88,
+            91
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c04",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương IV",
+      "number": 4,
+      "title": "Vật lí hạt nhân",
+      "dir": "Chuong-04-Vat-li-hat-nhan",
+      "children": [
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Cấu trúc hạt nhân",
+          "lesson_type": "ly_thuyet",
+          "file": "B21-Cau-truc-hat-nhan.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            93,
+            97
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Phản ứng hạt nhân và năng lượng liên kết",
+          "lesson_type": "ly_thuyet",
+          "file": "B22-Phan-ung-hat-nhan-va-nang-luong-lien-ket.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            98,
+            105
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Hiện tượng phóng xạ",
+          "lesson_type": "ly_thuyet",
+          "file": "B23-Hien-tuong-phong-xa.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            106,
+            115
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 24",
+          "number": 24,
+          "title": "Công nghiệp hạt nhân",
+          "lesson_type": "ly_thuyet",
+          "file": "B24-Cong-nghiep-hat-nhan.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            116,
+            120
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Bài tập về vật lí hạt nhân",
+          "lesson_type": "on_tap",
+          "file": "B25-Bai-tap-ve-vat-li-hat-nhan.md",
+          "source_file": "SGK VAT LI 12 - KNTT.pdf",
+          "pdf_pages": [
+            121,
+            124
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Giải thích một số thuật ngữ dùng trong sách",
+      "file": "Giai-thich-mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK VAT LI 12 - KNTT.pdf",
+      "pdf_pages": [
+        125,
+        125
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Vật lí 12 – Kết nối tri thức với cuộc sống (127 trang PDF, printed_offset = 2 xuyên suốt: trang PDF = trang in + 2). Cấu trúc gồm 4 Chương (Chương I–IV), 25 Bài học (Bài 1–25, trong đó Bài 7, 13, 20, 25 là bài tập cuối chương) và bảng 'Giải thích một số thuật ngữ dùng trong sách' ở trang in 123 (PDF 125).",
+    "Mỗi chương có 1 trang bìa mở đầu chương riêng biệt: Chương I ở trang in 5 (PDF 7), Chương II ở trang in 33 (PDF 35), Chương III ở trang in 55 (PDF 57), Chương IV ở trang in 90 (PDF 92). Lưu ý trên bìa mở đầu Chương IV ghi 'CHƯƠNG IV – VẬT LÍ HẠT NHÂN VÀ PHÓNG XẠ', trong khi Mục lục ghi 'Chương IV. VẬT LÍ HẠT NHÂN'.",
+    "SGK không có khung Yêu cầu cần đạt ở đầu bài — bài học mở đầu trực tiếp bằng hộp câu hỏi/tình huống khởi động (## 🔴 Mở đầu), phân cấp mục ## I., ### 1., **a)**, kết bài bằng ## 📌 Em đã học và ## ✏️ Em có thể."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-02",
+      "scope": [
+        "c01",
+        "c02",
+        "c03",
+        "c04"
+      ],
+      "terms": 197,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Mẫu phân tầng 30 mục (seed 12: 12 mục công thức định luật/phương trình hạt nhân cong_thuc, 12 mục định nghĩa/mô tả nhiệt động lực học – khí lí tưởng – từ trường – hạt nhân, và 6 hình ảnh thí nghiệm/đồ thị hinh theo hồ sơ môn vat_ly.json) trải đều cả 4 Chương, đối chiếu trực tiếp Giải nghĩa, Công thức LaTeX, trang PDF, trang in, mục và khung cắt hình với ảnh trang SGK gốc (PDF 8, 12, 14, 21, 39, 46, 52, 53, 60, 71, 74, 76, 80, 93, 95, 99, 102, 106, 108, 109, 111, 114, 116): 0 lỗi (0%). 21 mục Ngoài nguồn đúng mẫu quy định. Toàn bộ 12/12 mục ở Bảng giải thích một số thuật ngữ dùng trong sách (PDF 125) được bao phủ 100%."
+    }
+  ],
+  "last_session_note": "2026-11-02: Hoàn thành 100% bộ sách Vật lí 12 (Chương I–IV, Bài 1–25 và Bảng giải thích một số thuật ngữ dùng trong sách). Đạt Cổng 0, Cổng 1 (26 file, 137 hình minh hoạ), Cổng 2 & 2b (4 từ điển Tầng 2, 218 thuật ngữ: 164 in_source, 33 described, 21 out_of_source; 100% độ phủ ứng viên và 12/12 mục bảng tra cứu cuối sách), Cổng 3 (dataset/vat_ly_12.json hợp lệ schema) và Cổng 4 (kiểm toán mẫu phân tầng 30 mục đạt 0% lỗi). Tất cả 25 bài học và bảng thuật ngữ đạt trạng thái verified."
+}
