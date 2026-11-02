@@ -113,7 +113,7 @@ def check_dict(unit, path, progress, threshold, verbose):
     if fm.get("trang_thai") not in ("draft", "verified"):
         errors.append("'trang_thai' phải là draft hoặc verified")
 
-    lessons = [n for n in group["children"] if n["role"] == "lesson"]
+    lessons = [n for n, _ in iter_nodes(group["children"]) if n["role"] == "lesson"]
     files = lesson_paths(unit, progress["toc"])
     lesson_files = [(n["id"], files[n["id"]][1]) for n in lessons if n["id"] in files and files[n["id"]][1].exists()]
     missing = [n["id"] for n in lessons if (n["id"], files.get(n["id"], (None, None))[1]) not in lesson_files]

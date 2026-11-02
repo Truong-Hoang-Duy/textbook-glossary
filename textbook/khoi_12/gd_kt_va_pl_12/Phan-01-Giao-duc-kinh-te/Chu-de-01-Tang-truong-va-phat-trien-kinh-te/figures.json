@@ -1,0 +1,16 @@
+{
+  "H12-gd_kt_va_pl-b01-01": {
+    "pdf_page": 8,
+    "bbox": [275, 565, 545, 740]
+  },
+  "H12-gd_kt_va_pl-b01-02": {
+    "pdf_page": 9,
+    "bbox": [275, 535, 545, 720],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Biểu đồ 2 có phần chú thích bên dưới trải dài sang trái dưới đoạn văn bản chính; cạnh trái khung cắt qua phần đầu dòng chú thích để tránh dính đoạn văn."
+  },
+  "H12-gd_kt_va_pl-b01-03": {
+    "pdf_page": 13,
+    "bbox": [75, 420, 530, 585]
+  }
+}

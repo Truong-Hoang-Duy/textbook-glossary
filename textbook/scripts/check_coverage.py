@@ -105,7 +105,7 @@ def main():
     for dpath in ([base / a.file] if a.file else sorted(base.glob("Tu-dien-*.md"))):
         fm, body = split_frontmatter(dpath.read_text(encoding="utf-8"))
         group = next(n for n, _ in iter_nodes(progress["toc"]) if n["role"] == "group" and display_title(n) == fm["chuong"])
-        lessons = [n for n in group["children"] if n["role"] == "lesson"]
+        lessons = [n for n, _ in iter_nodes(group["children"]) if n["role"] == "lesson"]
         lesson_files = [(n["id"], paths[n["id"]][1]) for n in lessons if n["id"] in paths and paths[n["id"]][1].exists()]
         labels = {n["label"] for n in lessons if n.get("label")} | {"Thuật ngữ dùng chung"}
 

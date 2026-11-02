@@ -182,7 +182,7 @@ def main():
                 sections[cur].append(line)
         dictionaries.append({
             "file": dpath.name, "name": fm["name"], "title": title, "group_id": group["id"],
-            "lesson_ids": [c["id"] for c in group["children"] if c["role"] == "lesson"],
+            "lesson_ids": [c["id"] for c, _ in iter_nodes(group.get("children", [])) if c["role"] == "lesson"],
             "conventions": [l.strip()[2:] for l in sections.get("Quy ước sử dụng", []) if l.strip().startswith("- ")],
             "status": fm["trang_thai"], "created": str(fm["ngay_tao"]), "updated": str(fm["ngay_cap_nhat"])})
 

@@ -1,0 +1,37 @@
+{
+  "status": "da_kiem_chung",
+  "verified_on": "gd_kt_va_pl_12, 2026-11-02",
+  "profile": "gd_kt_va_pl",
+  "subjects": [
+    "gd_kt_va_pl"
+  ],
+  "section_levels": [
+    {
+      "prefix": "## ",
+      "regex": "^(\\d+)\\. ",
+      "example": "## 1. TĂNG TRƯỞNG KINH TẾ"
+    },
+    {
+      "prefix": "### ",
+      "regex": "^([a-z])\\) ",
+      "example": "### a) Tăng trưởng kinh tế và các chỉ tiêu tăng trưởng kinh tế"
+    }
+  ],
+  "extra_headings": [
+    "^🚀\\s*Vận dụng.*",
+    "^Vận dụng.*"
+  ],
+  "formula": "latex",
+  "audit_focus": [
+    "mo_ta",
+    "hinh"
+  ],
+  "conventions": [
+    "Tên điều luật, văn bản quy phạm pháp luật (Hiến pháp năm 2013, Luật Doanh nghiệp, Luật Hôn nhân và gia đình, Bộ luật Dân sự,...) và các điều ước quốc tế, tổ chức quốc tế (WTO, ASEAN, UN,...) viết đúng chuẩn chính tả và trích dẫn theo SGK.",
+    "Các chỉ tiêu kinh tế vĩ mô (GDP, GNI, HDI, CPI,...) và công thức tính toán kinh tế được trình bày bằng LaTeX trong cặp $...$.",
+    "Ở Tầng 1, các hộp Thông tin, Trường hợp, Tình huống và câu hỏi thảo luận được trình bày trong khối trích dẫn `> `, thuật ngữ định nghĩa được in đậm, và các khái niệm mô tả được gắn nhãn `<!-- term: ... -->`.",
+    "Ở Tầng 2, các từ viết tắt của tổ chức hoặc thuật ngữ kinh tế - pháp luật (WTO, FTA, APEC, GDP,...) có thể ghi dạng viết tắt hoặc tên tiếng Anh ở cột 2."
+  ],
+  "open_questions": []
+}
+

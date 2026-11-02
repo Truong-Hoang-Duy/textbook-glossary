@@ -1,0 +1,2933 @@
+{
+  "meta": {
+    "schema_version": "2.3",
+    "unit": "gd_kt_va_pl_12",
+    "subject": "gd_kt_va_pl",
+    "profile": "gd_kt_va_pl",
+    "subject_name": "Giáo dục Kinh tế và Pháp luật",
+    "grade": 12,
+    "generated_at": "2026-11-02",
+    "counts": {
+      "lessons": 16,
+      "terms": 112,
+      "terms_described": 27,
+      "terms_out_of_source": 12,
+      "open_notes": 0
+    }
+  },
+  "source": {
+    "book_type": "sgk",
+    "series": "Kết nối tri thức với cuộc sống",
+    "publisher": "NXB Giáo dục Việt Nam",
+    "files": [
+      {
+        "file": "SGK GD KT&PL 12 - KNTT.pdf",
+        "volume": null,
+        "page_count": 142,
+        "printed_offset": 2
+      }
+    ]
+  },
+  "toc": [
+    {
+      "id": "p01",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần một",
+      "number": 1,
+      "title": "Giáo dục kinh tế",
+      "children": [
+        {
+          "id": "cd01",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 1",
+          "number": 1,
+          "title": "Tăng trưởng và phát triển kinh tế",
+          "children": [
+            {
+              "id": "b01",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 1",
+              "number": 1,
+              "title": "Tăng trưởng và phát triển kinh tế",
+              "lesson_type": "ly_thuyet",
+              "file": "Phan-01-Giao-duc-kinh-te/Chu-de-01-Tang-truong-va-phat-trien-kinh-te/B01-Tang-truong-va-phat-trien-kinh-te.md",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                8,
+                19
+              ],
+              "printed_pages": [
+                6,
+                17
+              ],
+              "status": "verified",
+              "objectives": {
+                "label": "Yêu cầu cần đạt",
+                "items": [
+                  "– Phân biệt được tăng trưởng và phát triển kinh tế.",
+                  "– Nêu được các chỉ tiêu của tăng trưởng và phát triển kinh tế.",
+                  "– Giải thích được vai trò của tăng trưởng và phát triển kinh tế.",
+                  "– Nhận biết được mối quan hệ giữa tăng trưởng kinh tế với sự phát triển bền vững.",
+                  "– Tham gia các hoạt động góp phần thúc đẩy sự tăng trưởng và phát triển kinh tế.",
+                  "– Ủng hộ những hành vi, việc làm góp phần thúc đẩy tăng trưởng, phát triển kinh tế; phê phán, đấu tranh với những hành vi, việc làm cản trở sự tăng trưởng, phát triển kinh tế."
+                ],
+                "pdf_page": 8
+              },
+              "key_terms": [],
+              "figures": [
+                {
+                  "id": "H12-gd_kt_va_pl-b01-01",
+                  "file": "Phan-01-Giao-duc-kinh-te/Chu-de-01-Tang-truong-va-phat-trien-kinh-te/img/H12-gd_kt_va_pl-b01-01.png",
+                  "caption": "Biểu đồ 1. Tỉ lệ hộ nghèo ở Việt Nam giai đoạn 2016 – 2020",
+                  "pdf_page": 8
+                },
+                {
+                  "id": "H12-gd_kt_va_pl-b01-02",
+                  "file": "Phan-01-Giao-duc-kinh-te/Chu-de-01-Tang-truong-va-phat-trien-kinh-te/img/H12-gd_kt_va_pl-b01-02.png",
+                  "caption": "Biểu đồ 2. Tăng trưởng GDP của Việt Nam giai đoạn 2020 – 2022",
+                  "pdf_page": 9
+                },
+                {
+                  "id": "H12-gd_kt_va_pl-b01-03",
+                  "file": "Phan-01-Giao-duc-kinh-te/Chu-de-01-Tang-truong-va-phat-trien-kinh-te/img/H12-gd_kt_va_pl-b01-03.png",
+                  "caption": "Biểu đồ 3. Cơ cấu ngành kinh tế của Việt Nam năm 2018, 2022",
+                  "pdf_page": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cd02",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 2",
+          "number": 2,
+          "title": "Hội nhập kinh tế quốc tế",
+          "children": [
+            {
+              "id": "b02",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 2",
+              "number": 2,
+              "title": "Hội nhập kinh tế quốc tế",
+              "lesson_type": "ly_thuyet",
+              "file": "Phan-01-Giao-duc-kinh-te/Chu-de-02-Hoi-nhap-kinh-te-quoc-te/B02-Hoi-nhap-kinh-te-quoc-te.md",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                20,
+                28
+              ],
+              "printed_pages": [
+                18,
+                26
+              ],
+              "status": "verified",
+              "objectives": {
+                "label": "Yêu cầu cần đạt",
+                "items": [
+                  "– Nêu được khái niệm hội nhập kinh tế quốc tế.",
+                  "– Giải thích được hội nhập kinh tế quốc tế là cần thiết đối với mọi quốc gia.",
+                  "– Liệt kê được các hình thức hội nhập kinh tế quốc tế.",
+                  "– Xác định được trách nhiệm của bản thân trong hội nhập kinh tế quốc tế.",
+                  "– Ủng hộ những hành vi chấp hành và phê phán những hành vi không chấp hành chủ trương, chính sách hội nhập kinh tế quốc tế của Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam."
+                ],
+                "pdf_page": 20
+              },
+              "key_terms": [],
+              "figures": [
+                {
+                  "id": "H12-gd_kt_va_pl-b02-01",
+                  "file": "Phan-01-Giao-duc-kinh-te/Chu-de-02-Hoi-nhap-kinh-te-quoc-te/img/H12-gd_kt_va_pl-b02-01.png",
+                  "caption": "Biểu đồ 1. Mức độ đóng góp của khu vực FDI vào GDP",
+                  "pdf_page": 22
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cd03",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 3",
+          "number": 3,
+          "title": "Bảo hiểm và an sinh xã hội",
+          "children": [
+            {
+              "id": "b03",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 3",
+              "number": 3,
+              "title": "Bảo hiểm",
+              "lesson_type": "ly_thuyet",
+              "file": "Phan-01-Giao-duc-kinh-te/Chu-de-03-Bao-hiem-va-an-sinh-xa-hoi/B03-Bao-hiem.md",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                29,
+                34
+              ],
+              "printed_pages": [
+                27,
+                32
+              ],
+              "status": "verified",
+              "objectives": {
+                "label": "Yêu cầu cần đạt",
+                "items": [
+                  "– Nêu được khái niệm và vai trò của bảo hiểm.",
+                  "– Giải thích được sự cần thiết của bảo hiểm.",
+                  "– Liệt kê được một số loại hình bảo hiểm.",
+                  "– Thực hiện được trách nhiệm của công dân về bảo hiểm bằng những việc làm cụ thể và phù hợp."
+                ],
+                "pdf_page": 29
+              },
+              "key_terms": [],
+              "figures": []
+            },
+            {
+              "id": "b04",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 4",
+              "number": 4,
+              "title": "An sinh xã hội",
+              "lesson_type": "ly_thuyet",
+              "file": "Phan-01-Giao-duc-kinh-te/Chu-de-03-Bao-hiem-va-an-sinh-xa-hoi/B04-An-sinh-xa-hoi.md",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                35,
+                40
+              ],
+              "printed_pages": [
+                33,
+                38
+              ],
+              "status": "verified",
+              "objectives": {
+                "label": "Yêu cầu cần đạt",
+                "items": [
+                  "Nêu được khái niệm và vai trò của an sinh xã hội.",
+                  "Giải thích được sự cần thiết của an sinh xã hội.",
+                  "Gọi tên được một số chính sách an sinh xã hội cơ bản.",
+                  "Thực hiện được trách nhiệm của công dân về an sinh xã hội bằng những việc làm cụ thể và phù hợp."
+                ],
+                "pdf_page": 35
+              },
+              "key_terms": [],
+              "figures": []
+            }
+          ]
+        },
+        {
+          "id": "cd04",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 4",
+          "number": 4,
+          "title": "Lập kế hoạch kinh doanh",
+          "children": [
+            {
+              "id": "b05",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 5",
+              "number": 5,
+              "title": "Lập kế hoạch kinh doanh",
+              "lesson_type": "ly_thuyet",
+              "file": "Phan-01-Giao-duc-kinh-te/Chu-de-04-Lap-ke-hoach-kinh-doanh/B05-Lap-ke-hoach-kinh-doanh.md",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                41,
+                47
+              ],
+              "printed_pages": [
+                39,
+                45
+              ],
+              "status": "verified",
+              "objectives": {
+                "label": "Yêu cầu cần đạt",
+                "items": [
+                  "Nêu được nội dung cơ bản của kế hoạch kinh doanh.",
+                  "Giải thích được sự cần thiết phải lập kế hoạch kinh doanh.",
+                  "Diễn giải được các bước lập kế hoạch kinh doanh.",
+                  "Lập được kế hoạch kinh doanh và mô tả được kế hoạch kinh doanh của bản thân dưới hình thức bài tập thực hành."
+                ],
+                "pdf_page": 41
+              },
+              "key_terms": [],
+              "figures": []
+            }
+          ]
+        },
+        {
+          "id": "cd05",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 5",
+          "number": 5,
+          "title": "Trách nhiệm xã hội của doanh nghiệp",
+          "children": [
+            {
+              "id": "b06",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 6",
+              "number": 6,
+              "title": "Trách nhiệm xã hội của doanh nghiệp",
+              "lesson_type": "ly_thuyet",
+              "file": "Phan-01-Giao-duc-kinh-te/Chu-de-05-Trach-nhiem-xa-hoi-cua-doanh-nghiep/B06-Trach-nhiem-xa-hoi-cua-doanh-nghiep.md",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                48,
+                53
+              ],
+              "printed_pages": [
+                46,
+                51
+              ],
+              "status": "verified",
+              "objectives": {
+                "label": "Yêu cầu cần đạt",
+                "items": [
+                  "Nêu được khái niệm trách nhiệm xã hội của doanh nghiệp.",
+                  "Liệt kê được các hình thức thực hiện trách nhiệm xã hội của doanh nghiệp.",
+                  "Trình bày được ý nghĩa của việc thực hiện trách nhiệm xã hội của doanh nghiệp.",
+                  "Xác định được trách nhiệm của công dân khi tham gia điều hành doanh nghiệp.",
+                  "Phê phán những biểu hiện thiếu trách nhiệm đối với xã hội của một số doanh nghiệp."
+                ],
+                "pdf_page": 48
+              },
+              "key_terms": [],
+              "figures": []
+            }
+          ]
+        },
+        {
+          "id": "cd06",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 6",
+          "number": 6,
+          "title": "Quản lí thu, chi trong gia đình",
+          "children": [
+            {
+              "id": "b07",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 7",
+              "number": 7,
+              "title": "Quản lí thu, chi trong gia đình",
+              "lesson_type": "ly_thuyet",
+              "file": "Phan-01-Giao-duc-kinh-te/Chu-de-06-Quan-li-thu-chi-trong-gia-dinh/B07-Quan-li-thu-chi-trong-gia-dinh.md",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                54,
+                59
+              ],
+              "printed_pages": [
+                52,
+                57
+              ],
+              "status": "verified",
+              "objectives": {
+                "label": "Yêu cầu cần đạt",
+                "items": [
+                  "Nêu được thế nào là quản lí thu, chi trong gia đình.",
+                  "Giải thích được sự cần thiết phải quản lí thu, chi trong gia đình.",
+                  "Đánh giá được thói quen chi tiêu và các mục tiêu tài chính của gia đình.",
+                  "Tham gia lập kế hoạch và thực hiện kế hoạch thu, chi hợp lí trong gia đình."
+                ],
+                "pdf_page": 54
+              },
+              "key_terms": [],
+              "figures": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần hai",
+      "number": 2,
+      "title": "Giáo dục pháp luật",
+      "children": [
+        {
+          "id": "cd07",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 7",
+          "number": 7,
+          "title": "Một số quyền và nghĩa vụ của công dân về kinh tế",
+          "children": [
+            {
+              "id": "b08",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 8",
+              "number": 8,
+              "title": "Quyền và nghĩa vụ của công dân về kinh doanh và nộp thuế",
+              "lesson_type": "ly_thuyet",
+              "file": "Phan-02-Giao-duc-phap-luat/Chu-de-07-Mot-so-quyen-va-nghia-vu-cua-cong-dan-ve-kinh-te/B08-Quyen-va-nghia-vu-cua-cong-dan-ve-kinh-doanh-va-nop-thue.md",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                61,
+                68
+              ],
+              "printed_pages": [
+                59,
+                66
+              ],
+              "status": "verified",
+              "objectives": {
+                "label": "Yêu cầu cần đạt",
+                "items": [
+                  "Nêu được các quy định cơ bản của pháp luật về quyền và nghĩa vụ của công dân về kinh doanh và nộp thuế.",
+                  "Tự giác thực hiện các quy định của pháp luật về quyền và nghĩa vụ của công dân về kinh doanh và nộp thuế bằng những hành vi phù hợp.",
+                  "Phân tích, đánh giá được các hành vi vi phạm đơn giản thường gặp về quyền và nghĩa vụ của công dân về kinh doanh và nộp thuế; nhận biết được tác hại, hậu quả của hành vi vi phạm quyền và nghĩa vụ của công dân về kinh doanh và nộp thuế."
+                ],
+                "pdf_page": 61
+              },
+              "key_terms": [],
+              "figures": []
+            },
+            {
+              "id": "b09",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 9",
+              "number": 9,
+              "title": "Quyền và nghĩa vụ của công dân về sở hữu tài sản và tôn trọng tài sản của người khác",
+              "lesson_type": "ly_thuyet",
+              "file": "Phan-02-Giao-duc-phap-luat/Chu-de-07-Mot-so-quyen-va-nghia-vu-cua-cong-dan-ve-kinh-te/B09-Quyen-va-nghia-vu-cua-cong-dan-ve-so-huu-tai-san-va-ton-trong-tai-san-cua-nguoi-khac.md",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                69,
+                75
+              ],
+              "printed_pages": [
+                67,
+                73
+              ],
+              "status": "verified",
+              "objectives": {
+                "label": "Yêu cầu cần đạt",
+                "items": [
+                  "Nêu được các quy định cơ bản của pháp luật về quyền và nghĩa vụ của công dân về sở hữu tài sản và tôn trọng tài sản của người khác.",
+                  "Tự giác thực hiện các quy định của pháp luật về quyền và nghĩa vụ của công dân về sở hữu tài sản và tôn trọng tài sản của người khác bằng những hành vi phù hợp.",
+                  "Phân tích, đánh giá được các hành vi vi phạm đơn giản thường gặp về quyền và nghĩa vụ của công dân về sở hữu tài sản và tôn trọng tài sản của người khác; nhận biết được tác hại, hậu quả của hành vi vi phạm quyền và nghĩa vụ của công dân về sở hữu tài sản và tôn trọng tài sản của người khác."
+                ],
+                "pdf_page": 69
+              },
+              "key_terms": [],
+              "figures": []
+            }
+          ]
+        },
+        {
+          "id": "cd08",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 8",
+          "number": 8,
+          "title": "Quyền và nghĩa vụ của công dân về văn hoá, xã hội",
+          "children": [
+            {
+              "id": "b10",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 10",
+              "number": 10,
+              "title": "Quyền và nghĩa vụ của công dân trong hôn nhân và gia đình",
+              "lesson_type": "ly_thuyet",
+              "file": "Phan-02-Giao-duc-phap-luat/Chu-de-08-Quyen-va-nghia-vu-cua-cong-dan-ve-van-hoa-xa-hoi/B10-Quyen-va-nghia-vu-cua-cong-dan-trong-hon-nhan-va-gia-dinh.md",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                76,
+                85
+              ],
+              "printed_pages": [
+                74,
+                83
+              ],
+              "status": "verified",
+              "objectives": {
+                "label": "Yêu cầu cần đạt",
+                "items": [
+                  "Nêu được một số quy định cơ bản của pháp luật về quyền và nghĩa vụ của công dân trong hôn nhân và gia đình.",
+                  "Tự giác thực hiện các quy định của pháp luật về quyền và nghĩa vụ cơ bản của công dân trong hôn nhân và gia đình bằng những hành vi phù hợp.",
+                  "Phân tích, đánh giá được các hành vi vi phạm quyền và nghĩa vụ của công dân trong hôn nhân và gia đình trong một số tình huống đơn giản thường gặp; nhận biết được tác hại, hậu quả của hành vi vi phạm quyền và nghĩa vụ công dân trong hôn nhân và gia đình."
+                ],
+                "pdf_page": 76
+              },
+              "key_terms": [],
+              "figures": []
+            },
+            {
+              "id": "b11",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 11",
+              "number": 11,
+              "title": "Quyền và nghĩa vụ của công dân trong học tập",
+              "lesson_type": "ly_thuyet",
+              "file": "Phan-02-Giao-duc-phap-luat/Chu-de-08-Quyen-va-nghia-vu-cua-cong-dan-ve-van-hoa-xa-hoi/B11-Quyen-va-nghia-vu-cua-cong-dan-trong-hoc-tap.md",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                86,
+                90
+              ],
+              "printed_pages": [
+                84,
+                88
+              ],
+              "status": "verified",
+              "objectives": {
+                "label": "Yêu cầu cần đạt",
+                "items": [
+                  "– Nêu được một số quy định cơ bản của pháp luật về quyền và nghĩa vụ của công dân trong học tập.",
+                  "– Tự giác thực hiện các quy định của pháp luật về quyền và nghĩa vụ cơ bản của công dân trong học tập.",
+                  "– Phân tích, đánh giá được các hành vi vi phạm quyền và nghĩa vụ của công dân trong học tập trong một số tình huống đơn giản thường gặp; nhận biết được tác hại, hậu quả của hành vi vi phạm quyền và nghĩa vụ công dân trong học tập."
+                ],
+                "pdf_page": 86
+              },
+              "key_terms": [],
+              "figures": []
+            },
+            {
+              "id": "b12",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 12",
+              "number": 12,
+              "title": "Quyền và nghĩa vụ của công dân trong bảo vệ, chăm sóc sức khoẻ và bảo đảm an sinh xã hội",
+              "lesson_type": "ly_thuyet",
+              "file": "Phan-02-Giao-duc-phap-luat/Chu-de-08-Quyen-va-nghia-vu-cua-cong-dan-ve-van-hoa-xa-hoi/B12-Quyen-va-nghia-vu-cua-cong-dan-trong-bao-ve-cham-soc-suc-khoe-va-bao-dam-an-sinh-xa-hoi.md",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                91,
+                97
+              ],
+              "printed_pages": [
+                90,
+                96
+              ],
+              "status": "verified",
+              "objectives": {
+                "label": "Yêu cầu cần đạt",
+                "items": [
+                  "– Nêu được một số quy định cơ bản của pháp luật về quyền và nghĩa vụ của công dân trong bảo vệ, chăm sóc sức khoẻ; bảo đảm an sinh xã hội.",
+                  "– Tự giác thực hiện các quy định của pháp luật về quyền và nghĩa vụ cơ bản của công dân trong bảo vệ, chăm sóc sức khoẻ; bảo đảm an sinh xã hội bằng những hành vi phù hợp.",
+                  "– Phân tích, đánh giá được các hành vi vi phạm quyền và nghĩa vụ của công dân trong bảo vệ, chăm sóc sức khoẻ; bảo đảm an sinh xã hội trong một số tình huống đơn giản thường gặp; nhận biết được tác hại, hậu quả của hành vi vi phạm quyền và nghĩa vụ công dân trong bảo vệ, chăm sóc sức khoẻ; bảo đảm an sinh xã hội."
+                ],
+                "pdf_page": 91
+              },
+              "key_terms": [],
+              "figures": []
+            },
+            {
+              "id": "b13",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 13",
+              "number": 13,
+              "title": "Quyền và nghĩa vụ của công dân trong bảo vệ di sản văn hoá, môi trường và tài nguyên thiên nhiên",
+              "lesson_type": "ly_thuyet",
+              "file": "Phan-02-Giao-duc-phap-luat/Chu-de-08-Quyen-va-nghia-vu-cua-cong-dan-ve-van-hoa-xa-hoi/B13-Quyen-va-nghia-vu-cua-cong-dan-trong-bao-ve-di-san-van-hoa-moi-truong-va-tai-nguyen-thien-nhien.md",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                98,
+                103
+              ],
+              "printed_pages": [
+                97,
+                102
+              ],
+              "status": "verified",
+              "objectives": {
+                "label": "Yêu cầu cần đạt",
+                "items": [
+                  "– Nêu được một số quy định cơ bản của pháp luật về quyền và nghĩa vụ của công dân trong bảo vệ di sản văn hoá, môi trường và tài nguyên thiên nhiên.",
+                  "– Tự giác thực hiện các quy định của pháp luật về quyền và nghĩa vụ cơ bản của công dân trong bảo vệ di sản văn hoá, môi trường và tài nguyên thiên nhiên bằng những hành vi phù hợp.",
+                  "– Phân tích, đánh giá được các hành vi vi phạm quyền và nghĩa vụ của công dân trong bảo vệ di sản văn hoá, môi trường và tài nguyên thiên nhiên trong một số tình huống đơn giản thường gặp; nhận biết được tác hại, hậu quả của hành vi vi phạm quyền và nghĩa vụ công dân trong bảo vệ di sản văn hoá, môi trường và tài nguyên thiên nhiên."
+                ],
+                "pdf_page": 98
+              },
+              "key_terms": [],
+              "figures": []
+            }
+          ]
+        },
+        {
+          "id": "cd09",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 9",
+          "number": 9,
+          "title": "Một số vấn đề cơ bản của luật quốc tế",
+          "children": [
+            {
+              "id": "b14",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 14",
+              "number": 14,
+              "title": "Một số vấn đề chung về pháp luật quốc tế",
+              "lesson_type": "ly_thuyet",
+              "file": "Phan-02-Giao-duc-phap-luat/Chu-de-09-Mot-so-van-de-co-ban-cua-luat-quoc-te/B14-Mot-so-van-de-chung-ve-phap-luat-quoc-te.md",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                104,
+                111
+              ],
+              "printed_pages": [
+                103,
+                110
+              ],
+              "status": "verified",
+              "objectives": {
+                "label": "Yêu cầu cần đạt",
+                "items": [
+                  "– Nêu được khái niệm, vai trò, các nguyên tắc cơ bản của pháp luật quốc tế; mối quan hệ giữa pháp luật quốc tế và luật quốc gia.",
+                  "– Phân tích, đánh giá được một số hành vi vi phạm pháp luật Việt Nam và pháp luật quốc tế đơn giản."
+                ],
+                "pdf_page": 104
+              },
+              "key_terms": [],
+              "figures": []
+            },
+            {
+              "id": "b15",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 15",
+              "number": 15,
+              "title": "Công pháp quốc tế về dân cư, lãnh thổ và chủ quyền quốc gia",
+              "lesson_type": "ly_thuyet",
+              "file": "Phan-02-Giao-duc-phap-luat/Chu-de-09-Mot-so-van-de-co-ban-cua-luat-quoc-te/B15-Cong-phap-quoc-te-ve-dan-cu-lanh-tho-va-chu-quyen-quoc-gia.md",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                112,
+                125
+              ],
+              "printed_pages": [
+                111,
+                124
+              ],
+              "status": "verified",
+              "objectives": {
+                "label": "Yêu cầu cần đạt",
+                "items": [
+                  "– Nhận biết được nội dung cơ bản của công pháp quốc tế về dân cư, lãnh thổ và biên giới quốc gia, các vùng biển thuộc chủ quyền và quyền chủ quyền của quốc gia.",
+                  "– Phân tích, đánh giá được một số hành vi vi phạm pháp luật Việt Nam và pháp luật quốc tế đơn giản."
+                ],
+                "pdf_page": 112
+              },
+              "key_terms": [],
+              "figures": []
+            },
+            {
+              "id": "b16",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 16",
+              "number": 16,
+              "title": "Nguyên tắc cơ bản của Tổ chức Thương mại thế giới và hợp đồng thương mại quốc tế",
+              "lesson_type": "ly_thuyet",
+              "file": "Phan-02-Giao-duc-phap-luat/Chu-de-09-Mot-so-van-de-co-ban-cua-luat-quoc-te/B16-Nguyen-tac-co-ban-cua-to-chuc-thuong-mai-the-gioi-va-hop-dong-thuong-mai-quoc-te.md",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                126,
+                137
+              ],
+              "printed_pages": [
+                125,
+                136
+              ],
+              "status": "verified",
+              "objectives": {
+                "label": "Yêu cầu cần đạt",
+                "items": [
+                  "– Nhận biết được nội dung cơ bản của Công pháp quốc tế về nguyên tắc cơ bản của Tổ chức Thương mại Thế giới và hợp đồng thương mại quốc tế.",
+                  "– Phân tích, đánh giá được một số hành vi vi phạm pháp luật Việt Nam và pháp luật quốc tế đơn giản liên quan đến các nguyên tắc cơ bản của Tổ chức Thương mại Thế giới và hợp đồng thương mại quốc tế."
+                ],
+                "pdf_page": 126
+              },
+              "key_terms": [],
+              "figures": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bang-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Một số thuật ngữ dùng trong sách",
+      "file": "Mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+      "pdf_pages": [
+        138,
+        140
+      ],
+      "printed_pages": [
+        137,
+        139
+      ],
+      "status": "verified"
+    }
+  ],
+  "dictionaries": [
+    {
+      "file": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "name": "tu-dien-gd-kt-va-pl-12-phan-1",
+      "title": "TỪ ĐIỂN THUẬT NGỮ GIÁO DỤC KINH TẾ VÀ PHÁP LUẬT 12 — PHẦN MỘT: GIÁO DỤC KINH TẾ",
+      "group_id": "p01",
+      "lesson_ids": [
+        "b01",
+        "b02",
+        "b03",
+        "b04",
+        "b05",
+        "b06",
+        "b07"
+      ],
+      "conventions": [],
+      "status": "verified",
+      "created": "2026-11-02",
+      "updated": "2026-11-02"
+    },
+    {
+      "file": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "name": "tu-dien-gd-kt-va-pl-12-phan-2",
+      "title": "TỪ ĐIỂN THUẬT NGỮ GIÁO DỤC KINH TẾ VÀ PHÁP LUẬT 12 — PHẦN HAI: GIÁO DỤC PHÁP LUẬT",
+      "group_id": "p02",
+      "lesson_ids": [
+        "b08",
+        "b09",
+        "b10",
+        "b11",
+        "b12",
+        "b13",
+        "b14",
+        "b15",
+        "b16"
+      ],
+      "conventions": [],
+      "status": "verified",
+      "created": "2026-11-02",
+      "updated": "2026-11-02"
+    }
+  ],
+  "terms": [
+    {
+      "id": "gd-kt-va-pl-12-co-cau-kinh-te",
+      "term": "Cơ cấu kinh tế",
+      "aliases": [],
+      "english": "Economic structure",
+      "notation": null,
+      "meaning": "Cơ cấu kinh tế: là mối quan hệ tỉ lệ giữa các ngành, các vùng và các thành phần kinh tế; đó cũng là tổng thể cơ cấu các ngành, cơ cấu các vùng và cơ cấu các thành phần kinh tế. <!-- ocr-ok: đối chiếu ảnh trang PDF 138 khớp nguyên văn bảng thuật ngữ SGK -->",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 137).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 138,
+        "printed_page": 137
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-fta",
+      "term": "FTA",
+      "aliases": [],
+      "english": "Free Trade Area",
+      "notation": null,
+      "meaning": "FTA: là từ viết tắt của cụm từ Free Trade Area, dịch ra có nghĩa là Hiệp định thương mại tự do. Đây là một hình thức liên kết quốc tế giữa các quốc gia và nhờ các hiệp định này mà các rào cản về thuế quan và phi thuế quan sẽ được giảm hoặc xoá bỏ. Nhờ có các hiệp định thương mại tự do mà các quốc gia trên thế giới có thể từng bước hình thành một thị trường buôn bán thống nhất về hàng hoá và dịch vụ.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 137).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 138,
+        "printed_page": 137
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-hop-dong-bao-hiem",
+      "term": "Hợp đồng bảo hiểm",
+      "aliases": [],
+      "english": "Insurance contract",
+      "notation": null,
+      "meaning": "Hợp đồng bảo hiểm: là sự thoả thuận giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm, theo đó bên mua bảo hiểm phải đóng phí bảo hiểm, doanh nghiệp bảo hiểm phải chi trả bảo hiểm hoặc bồi thường khi xảy ra sự kiện bảo hiểm theo thoả thuận trong hợp đồng.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 137).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 138,
+        "printed_page": 137
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-nguoi-duoc-bao-hiem",
+      "term": "Người được bảo hiểm",
+      "aliases": [],
+      "english": "Insured",
+      "notation": null,
+      "meaning": "Người được bảo hiểm: là tổ chức, cá nhân có tài sản, trách nhiệm dân sự, tính mạng, sức khoẻ, nghĩa vụ hoặc lợi ích kinh tế được bảo hiểm theo hợp đồng bảo hiểm.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 137).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 138,
+        "printed_page": 137
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-nguoi-thu-huong",
+      "term": "Người thụ hưởng",
+      "aliases": [],
+      "english": "Beneficiary",
+      "notation": null,
+      "meaning": "Người thụ hưởng: là tổ chức, cá nhân được bên mua bảo hiểm hoặc người được bảo hiểm chỉ định để hưởng quyền lợi bảo hiểm theo thoả thuận trong hợp đồng bảo hiểm.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 137).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 138,
+        "printed_page": 137
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-phi-bao-hiem",
+      "term": "Phí bảo hiểm",
+      "aliases": [],
+      "english": "Insurance premium",
+      "notation": null,
+      "meaning": "Phí bảo hiểm: là khoản tiền bên mua bảo hiểm phải đóng cho tổ chức bảo hiểm theo quy định của pháp luật hoặc do các bên thoả thuận trong hợp đồng bảo hiểm.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 137).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 138,
+        "printed_page": 137
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-su-kien-bao-hiem",
+      "term": "Sự kiện bảo hiểm",
+      "aliases": [],
+      "english": "Insured event",
+      "notation": null,
+      "meaning": "Sự kiện bảo hiểm: là sự kiện khách quan do các bên thoả thuận hoặc pháp luật quy định mà khi sự kiện đó xảy ra thì tổ chức bảo hiểm phải bồi thường, trả tiền bảo hiểm theo thoả thuận trong hợp đồng bảo hiểm.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 137).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 138,
+        "printed_page": 137
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-to-chuc-bao-hiem",
+      "term": "Tổ chức bảo hiểm",
+      "aliases": [
+        "bên cung cấp dịch vụ bảo hiểm"
+      ],
+      "english": "Insurer",
+      "notation": null,
+      "meaning": "Tổ chức bảo hiểm (bên cung cấp dịch vụ bảo hiểm): là doanh nghiệp được thành lập, tổ chức, hoạt động theo quy định của Luật Kinh doanh bảo hiểm và các quy định khác để kinh doanh bảo hiểm, tái bảo hiểm.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 137).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 138,
+        "printed_page": 137
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-tang-truong-kinh-te",
+      "term": "Tăng trưởng kinh tế",
+      "aliases": [],
+      "english": "Economic growth",
+      "notation": null,
+      "meaning": "Tăng trưởng kinh tế là sự tăng lên về thu nhập hay tổng giá trị hàng hoá và dịch vụ mà nền kinh tế tạo ra trong một thời kì nhất định.",
+      "usage_context": "Chỉ tiêu kinh tế vĩ mô cơ bản.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1.a",
+        "pdf_page": 9,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-tong-san-pham-quoc-noi",
+      "term": "Tổng sản phẩm quốc nội",
+      "aliases": [
+        "GDP"
+      ],
+      "english": "Gross Domestic Product",
+      "notation": null,
+      "meaning": "Tổng sản phẩm quốc nội (GDP):",
+      "usage_context": "Thước đo sản lượng quốc gia theo giá thị trường.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1.a",
+        "pdf_page": 9,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-tong-thu-nhap-quoc-dan",
+      "term": "Tổng thu nhập quốc dân",
+      "aliases": [
+        "GNI"
+      ],
+      "english": "Gross National Income",
+      "notation": null,
+      "meaning": "Tổng thu nhập quốc dân (GNI):",
+      "usage_context": "Thước đo tổng thu nhập của công dân và doanh nghiệp một nước.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1.a",
+        "pdf_page": 10,
+        "printed_page": 8
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-tong-san-pham-quoc-noi-binh-quan-dau-nguoi",
+      "term": "Tổng sản phẩm quốc nội bình quân đầu người",
+      "aliases": [
+        "GDP/người"
+      ],
+      "english": "GDP per capita",
+      "notation": null,
+      "meaning": "<!-- term: Tổng sản phẩm quốc nội bình quân đầu người --> Tổng sản phẩm quốc nội bình quân đầu người (GDP/người):",
+      "usage_context": "Thước đo mức sống tương đối của người dân một quốc gia.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1.a",
+        "pdf_page": 10,
+        "printed_page": 8
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-tong-thu-nhap-quoc-dan-binh-quan-dau-nguoi",
+      "term": "Tổng thu nhập quốc dân bình quân đầu người",
+      "aliases": [
+        "GNI/người"
+      ],
+      "english": "GNI per capita",
+      "notation": null,
+      "meaning": "<!-- term: Tổng thu nhập quốc dân bình quân đầu người --> Tổng thu nhập quốc dân bình quân đầu người (GNI/người):",
+      "usage_context": "Thước đo trung bình mức thu nhập một người dân thu được trong năm.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1.a",
+        "pdf_page": 11,
+        "printed_page": 9
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-phat-trien-kinh-te",
+      "term": "Phát triển kinh tế",
+      "aliases": [],
+      "english": "Economic development",
+      "notation": null,
+      "meaning": "Phát triển kinh tế là sự lớn lên về quy mô cùng với những thay đổi về cấu trúc nền kinh tế, mang lại những chuyển biến tích cực về xã hội.",
+      "usage_context": "Sự tăng trưởng kèm biến đổi cơ cấu kinh tế - xã hội tiến bộ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "2.a",
+        "pdf_page": 13,
+        "printed_page": 11
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-phat-trien-ben-vung",
+      "term": "Phát triển bền vững",
+      "aliases": [],
+      "english": "Sustainable development",
+      "notation": null,
+      "meaning": "Phát triển bền vững là quá trình phát triển có sự kết hợp hợp lí, hài hoà giữa ba mặt: phát triển kinh tế, phát triển xã hội và bảo vệ môi trường.",
+      "usage_context": "Kết hợp hài hoà giữa kinh tế, xã hội và bảo vệ môi trường.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "3",
+        "pdf_page": 18,
+        "printed_page": 16
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-toc-do-tang-truong-kinh-te",
+      "term": "Tốc độ tăng trưởng kinh tế",
+      "aliases": [],
+      "english": "Economic growth rate",
+      "notation": null,
+      "meaning": "Tốc độ tăng trưởng kinh tế được tính bằng tỉ lệ phần trăm thay đổi của GDP từ thời kì này sang thời kì khác. Lưu ý: Do có sự biến động của giá cả (lạm phát) nên khi so sánh cần tính GDP của năm hiện tại theo giá của năm gốc cần so sánh.",
+      "usage_context": "Tỉ lệ phần trăm thay đổi của GDP qua các thời kì.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1.a",
+        "pdf_page": 9,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-chi-so-phat-trien-con-nguoi",
+      "term": "Chỉ số phát triển con người",
+      "aliases": [
+        "HDI"
+      ],
+      "english": "Human Development Index",
+      "notation": null,
+      "meaning": "Chỉ số phát triển con người (HDI) là thước đo tổng hợp phản ánh sự phát triển của con người trên các tiêu chí:",
+      "usage_context": "Thước đo tổng hợp về sức khoẻ, giáo dục và thu nhập.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "2.a",
+        "pdf_page": 13,
+        "printed_page": 11
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-he-so-gini",
+      "term": "Hệ số Gini",
+      "aliases": [],
+      "english": "Gini coefficient",
+      "notation": null,
+      "meaning": "Hệ số bất bình đẳng trong phân phối thu nhập (hệ số Gini) là chỉ tiêu phản ánh tình trạng bất bình đẳng trong phân phối thu nhập của các tầng lớp dân cư. Hệ số này nhận giá trị từ 0 đến 1 trong đó 0 là bình đẳng tuyệt đối, 1 là bất bình đẳng tuyệt đối. Hệ số Gini càng cao thì mức bất bình đẳng trong phân phối thu nhập càng lớn.",
+      "usage_context": "Chỉ tiêu phản ánh mức độ bất bình đẳng trong phân phối thu nhập.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "2.a",
+        "pdf_page": 14,
+        "printed_page": 12
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-ti-le-ho-ngheo-da-chieu",
+      "term": "Tỉ lệ hộ nghèo đa chiều",
+      "aliases": [],
+      "english": "Multidimensional poverty rate",
+      "notation": null,
+      "meaning": "Tỉ lệ hộ nghèo đa chiều: tính bằng tỉ lệ hộ nghèo trong tình trạng con người không được đáp ứng ở mức tối thiểu các nhu cầu cơ bản trong cuộc sống.",
+      "usage_context": "Chỉ tiêu phản ánh sự thiếu hụt các dịch vụ xã hội cơ bản.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "2.a",
+        "pdf_page": 14,
+        "printed_page": 12
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-hoi-nhap-kinh-te-quoc-te",
+      "term": "Hội nhập kinh tế quốc tế",
+      "aliases": [],
+      "english": "International economic integration",
+      "notation": null,
+      "meaning": "Hội nhập kinh tế quốc tế là quá trình một quốc gia thực hiện gắn kết nền kinh tế của mình với nền kinh tế các quốc gia khác trong khu vực và trên thế giới dựa trên sự chia sẻ lợi ích, đồng thời tuân thủ các chuẩn mực quốc tế chung.",
+      "usage_context": "Quá trình gắn kết kinh tế quốc gia với thế giới.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "1",
+        "pdf_page": 22,
+        "printed_page": 20
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-hoi-nhap-kinh-te-song-phuong",
+      "term": "Hội nhập kinh tế song phương",
+      "aliases": [],
+      "english": "Bilateral economic integration",
+      "notation": null,
+      "meaning": "Thông tin 1 > CÁC CẤP ĐỘ HỘI NHẬP KINH TẾ QUỐC TẾ > <!-- term: Hội nhập kinh tế song phương --> Hội nhập kinh tế song phương > Là sự liên kết, hợp tác giữa hai quốc gia dựa trên nguyên tắc bình đẳng, cùng có lợi, tôn trọng độc lập và chủ quyền của nhau nhằm thiết lập và phát triển quan hệ giữa hai bên, góp phần thúc đẩy thương mại, liên kết đầu tư, đem lại lợi ích cho người dân, doanh nghiệp hai nước. > Hình thức này được thực hiện thông qua các hiệp định thương mại tự do, đầu tư trực tiếp nước ngoài,... > Do chỉ là quan hệ giữa hai nước nên dễ đạt được những thoả thuận và nghĩa vụ, ưu đãi phù hợp, chỉ áp dụng cho hai quốc gia kí kết. > Với định hướng: \"Đẩy mạnh và làm sâu sắc hơn quan hệ hợp tác song phương với các đối tác, đặc biệt là các đối tác chiến lược, đối tác toàn diện và đối tác quan trọng khác\", Việt Nam đã mở rộng quan hệ hợp tác song phương với hơn 170 quốc gia trên thế giới, kí kết trên 90 Hiệp định thương mại song phương, xây dựng và nâng cấp quan hệ đối tác chiến lược, đối tác chiến lược toàn diện với 17 nước, giúp bảo đảm, củng cố môi trường hoà bình, ổn định, tranh thủ lợi thế của các đối tác để bảo vệ, phát triển đất nước nhanh và bền vững. > <!-- term: Hội nhập kinh tế khu vực --> Hội nhập kinh tế khu vực > Là quá trình liên kết, hợp tác giữa các quốc gia trong một khu vực trên cơ sở tương đồng về địa lí, văn hoá, xã hội hoặc có chung mục tiêu, lợi ích phát triển thông qua các tổ chức kinh tế khu vực, các Diễn đàn hợp tác kinh tế khu vực, Hiệp định đối tác kinh tế... > Hình thức này giúp quốc gia hợp tác kinh tế sâu rộng và toàn diện với các nước trong khu vực và thế giới, mở rộng thị trường, thu hút vốn đầu tư nước ngoài nhiều hơn, phát triển xuất khẩu, du lịch,... tạo môi trường hoà bình, ổn định, hữu nghị, hợp tác toàn diện trong khu vực và thế giới. > Việt Nam đã chủ động tham gia các hình thức hội nhập kinh tế khu vực như: Cộng đồng kinh tế ASEAN (AEC), Diễn đàn hợp tác kinh tế châu Á – Thái Bình Dương (APEC), Hiệp định đối tác toàn diện và tiến bộ xuyên Thái Bình Dương (CPTPP), Hiệp định thương mại tự do Việt Nam – Liên minh châu Âu,.... giúp Việt Nam đẩy mạnh xuất khẩu, được tham gia chuỗi cung ứng khu vực và toàn cầu nên có điều kiện nâng cao trình độ phát triển của nền kinh tế, tăng năng suất lao động, có cơ hội hoàn thiện thể chế theo hướng tiếp cận các chuẩn mực của các nước tiên tiến, hoàn thiện môi trường kinh doanh, từ đó thúc đẩy đầu tư trong nước và nước ngoài phát triển, tạo thêm nhiều cơ hội việc làm và nâng cao thu nhập cho người lao động.",
+      "usage_context": "Hợp tác kinh tế giữa hai quốc gia độc lập.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2",
+        "pdf_page": 23,
+        "printed_page": 21
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-hoi-nhap-kinh-te-khu-vuc",
+      "term": "Hội nhập kinh tế khu vực",
+      "aliases": [],
+      "english": "Regional economic integration",
+      "notation": null,
+      "meaning": "Thông tin 1 > CÁC CẤP ĐỘ HỘI NHẬP KINH TẾ QUỐC TẾ > <!-- term: Hội nhập kinh tế song phương --> Hội nhập kinh tế song phương > Là sự liên kết, hợp tác giữa hai quốc gia dựa trên nguyên tắc bình đẳng, cùng có lợi, tôn trọng độc lập và chủ quyền của nhau nhằm thiết lập và phát triển quan hệ giữa hai bên, góp phần thúc đẩy thương mại, liên kết đầu tư, đem lại lợi ích cho người dân, doanh nghiệp hai nước. > Hình thức này được thực hiện thông qua các hiệp định thương mại tự do, đầu tư trực tiếp nước ngoài,... > Do chỉ là quan hệ giữa hai nước nên dễ đạt được những thoả thuận và nghĩa vụ, ưu đãi phù hợp, chỉ áp dụng cho hai quốc gia kí kết. > Với định hướng: \"Đẩy mạnh và làm sâu sắc hơn quan hệ hợp tác song phương với các đối tác, đặc biệt là các đối tác chiến lược, đối tác toàn diện và đối tác quan trọng khác\", Việt Nam đã mở rộng quan hệ hợp tác song phương với hơn 170 quốc gia trên thế giới, kí kết trên 90 Hiệp định thương mại song phương, xây dựng và nâng cấp quan hệ đối tác chiến lược, đối tác chiến lược toàn diện với 17 nước, giúp bảo đảm, củng cố môi trường hoà bình, ổn định, tranh thủ lợi thế của các đối tác để bảo vệ, phát triển đất nước nhanh và bền vững. > <!-- term: Hội nhập kinh tế khu vực --> Hội nhập kinh tế khu vực > Là quá trình liên kết, hợp tác giữa các quốc gia trong một khu vực trên cơ sở tương đồng về địa lí, văn hoá, xã hội hoặc có chung mục tiêu, lợi ích phát triển thông qua các tổ chức kinh tế khu vực, các Diễn đàn hợp tác kinh tế khu vực, Hiệp định đối tác kinh tế... > Hình thức này giúp quốc gia hợp tác kinh tế sâu rộng và toàn diện với các nước trong khu vực và thế giới, mở rộng thị trường, thu hút vốn đầu tư nước ngoài nhiều hơn, phát triển xuất khẩu, du lịch,... tạo môi trường hoà bình, ổn định, hữu nghị, hợp tác toàn diện trong khu vực và thế giới. > Việt Nam đã chủ động tham gia các hình thức hội nhập kinh tế khu vực như: Cộng đồng kinh tế ASEAN (AEC), Diễn đàn hợp tác kinh tế châu Á – Thái Bình Dương (APEC), Hiệp định đối tác toàn diện và tiến bộ xuyên Thái Bình Dương (CPTPP), Hiệp định thương mại tự do Việt Nam – Liên minh châu Âu,.... giúp Việt Nam đẩy mạnh xuất khẩu, được tham gia chuỗi cung ứng khu vực và toàn cầu nên có điều kiện nâng cao trình độ phát triển của nền kinh tế, tăng năng suất lao động, có cơ hội hoàn thiện thể chế theo hướng tiếp cận các chuẩn mực của các nước tiên tiến, hoàn thiện môi trường kinh doanh, từ đó thúc đẩy đầu tư trong nước và nước ngoài phát triển, tạo thêm nhiều cơ hội việc làm và nâng cao thu nhập cho người lao động.",
+      "usage_context": "Hợp tác kinh tế giữa các quốc gia trong cùng một khu vực địa lí.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2",
+        "pdf_page": 23,
+        "printed_page": 21
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-hoi-nhap-kinh-te-toan-cau",
+      "term": "Hội nhập kinh tế toàn cầu",
+      "aliases": [],
+      "english": "Global economic integration",
+      "notation": null,
+      "meaning": "<!-- term: Hội nhập kinh tế toàn cầu --> Hội nhập kinh tế toàn cầu > Là quá trình liên kết, gắn kết giữa các quốc gia, vùng lãnh thổ với nhau thông qua việc tham gia các tổ chức kinh tế toàn cầu. > Đây là hình thức hội nhập sâu rộng nhất của nền kinh tế quốc gia với nền kinh tế thế giới tạo thêm nhiều cơ hội để hợp tác với nhiều quốc gia, tổ chức, khu vực trên toàn thế giới, mở rộng quan hệ thương mại ra thị trường toàn cầu,.... > Việt Nam đã tích cực, chủ động tham gia các tổ chức kinh tế toàn cầu như Liên hợp quốc, Tổ chức Thương mại Thế giới (WTO), Quỹ tiền tệ Quốc tế... > Tổ chức Thương mại Thế giới (WTO) là tổ chức thương mại toàn cầu, ngày càng có nhiều thành viên tham gia. Tính đến năm 2020, WTO có 164 quốc gia thành viên trên tổng số 195 quốc gia và vùng lãnh thổ trên thế giới (Việt Nam trở thành thành viên chính thức thứ 150 của WTO năm 2007). > Sau 15 năm gia nhập WTO, Việt Nam đã đạt được những bước tiến dài trên con đường hội nhập, quy mô kinh tế của Việt Nam không ngừng tăng lên. Năm 2006, quy mô kinh tế Việt Nam đạt 66,3 tỉ USD, đến năm 2021 đạt 366,1 tỉ USD, đứng thứ 41 trên thế giới, thứ 5 trong khu vực Đông Nam Á. Tổng kim ngạch xuất nhập khẩu của Việt Nam tăng từ 84,7 tỉ USD năm 2006 lên gần 669 tỉ USD năm 2021. Vốn đầu tư nước ngoài đăng kí tăng gần 4 lần, số vốn giải ngân tăng gần 5 lần. Việt Nam lọt vào nhóm 20 nền kinh tế hàng đầu thế giới về thương mại quốc tế, nằm trong nhóm 20 quốc gia thu hút đầu tư nước ngoài nhiều nhất thế giới. > Nhờ hội nhập kinh tế toàn cầu mà môi trường pháp lí của Việt Nam được hoàn thiện theo hướng tiếp cận các chuẩn mực quốc tế, từng bước nâng cao trình độ quản trị nhà nước, nâng cao hiệu lực, hiệu quả quản lí của Nhà nước; nâng cao năng lực cạnh tranh quốc gia, của doanh nghiệp và sản phẩm; thúc đẩy các mối quan hệ đa dạng hoá, hạn chế rủi ro trước các cú sốc bên ngoài; mở rộng cơ hội thị trường cho hàng hoá Việt Nam thâm nhập vào các thị trường lớn trên thế giới... <!-- ocr-ok: đối chiếu ảnh trang PDF 24 viền khung làm OCR nhận dính kí tự rác -->",
+      "usage_context": "Quá trình liên kết sâu rộng giữa các quốc gia trên phạm vi toàn thế giới.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2",
+        "pdf_page": 24,
+        "printed_page": 22
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-thuong-mai-quoc-te",
+      "term": "Thương mại quốc tế",
+      "aliases": [],
+      "english": "International trade",
+      "notation": null,
+      "meaning": "Thông tin 2 > CÁC HOẠT ĐỘNG KINH TẾ ĐỐI NGOẠI > <!-- term: Thương mại quốc tế --> Thương mại quốc tế > Là những hoạt động trao đổi hàng hoá, dịch vụ giữa các quốc gia thông qua xuất, nhập khẩu, thương mại quốc tế kích thích tiêu dùng, mở rộng sản xuất, chuyển giao công nghệ và đầu tư giữa các quốc gia, nhờ đó, tạo tiền đề cho tăng trưởng và phát triển kinh tế. Sự tăng trưởng kim ngạch xuất khẩu thể hiện kết quả hội nhập của mỗi quốc gia. > Theo Tổng cục Thống kê, năm 2022 kim ngạch xuất khẩu hàng hoá của Việt Nam đạt 371,3 tỉ USD, tăng 10,5% so với năm trước. Kim ngạch nhập khẩu hàng hoá năm 2022 sơ bộ đạt 358,9 tỉ USD, tăng 7,8% so với năm trước. Đặc biệt, đây là năm thứ 7 liên tiếp nước ta có cán cân thương mại đạt mức xuất siêu trên 10 tỉ USD. > <!-- term: Đầu tư quốc tế --> Đầu tư quốc tế > Là quá trình di chuyển vốn từ quốc gia này đến quốc gia khác nhằm đem lại lợi ích cho các bên tham gia, đầu tư quốc tế giúp tăng cường nguồn vốn, góp phần chuyển dịch cơ cấu kinh tế theo hướng hiện đại, tạo thêm việc làm, phát triển chất lượng nguồn nhân lực, tiếp thu khoa học công nghệ hiện đại, kinh nghiệm quản lí tiên tiến, thúc đẩy tăng trưởng kinh tế,... cho nước tiếp nhận đầu tư như Việt Nam. > Theo Tổng cục Thống kê, vốn đầu tư trực tiếp nước ngoài (FDI) vào nước ta thực hiện năm 2022 đạt gần 22,4 tỉ USD, tăng 13,5% so với năm trước. Tổng vốn đầu tư ra nước ngoài (vốn cấp mới và tăng thêm của các dự án được cấp giấy phép từ các năm trước) đạt 599,3 triệu USD. > Vốn vay ưu đãi và vốn viện trợ không hoàn lại (vốn ODA) cho Việt Nam từ các quốc gia và tổ chức quốc tế,... là nguồn lực tài chính quan trọng góp phần thúc đẩy phát triển kinh tế – xã hội nước ta. Đặc biệt, nguồn vốn ODA đã hỗ trợ Việt Nam đạt được nhiều kết quả trong công cuộc xoá đói giảm nghèo. > <!-- term: Dịch vụ thu ngoại tệ --> Dịch vụ thu ngoại tệ > Dịch vụ thu ngoại tệ bao gồm các dịch vụ quốc tế như du lịch, giao thông vận tải, thông tin liên lạc, bảo hiểm, xuất nhập khẩu lao động, thanh toán và tín dụng,... có vai trò tạo nguồn thu ngoại tệ giúp cải thiện cán cân thanh toán quốc tế. Một số hoạt động còn góp phần tạo việc làm, tăng thu nhập, thúc đẩy tăng trưởng kinh tế như du lịch, thông tin liên lạc... > Theo Bộ Văn hoá, Thể thao và Du lịch, năm 2022, khách quốc tế đến Việt Nam đạt 3,66 triệu lượt người, gấp 23,3 lần so với năm 2021. Tổng thu từ khách du lịch ước đạt 495.000 tỉ đồng. > Theo Bộ Lao động – Thương binh và Xã hội, tính đến cuối năm 2022, có hơn 600.000 người Việt Nam đi làm việc có thời hạn ở nước ngoài. Người lao động Việt Nam ở nước ngoài đang làm việc tại 40 quốc gia và vùng lãnh thổ, với thu nhập ổn định, gửi về nước lượng kiều hối lớn hơn 3 tỉ USD/năm. > *(Theo Cổng thông tin Bộ Văn hoá, Thể thao và Du lịch ngày 11-8-2023 và Tạp chí Kinh tế Việt Nam ngày 20 – 8 – 2022)*",
+      "usage_context": "Hoạt động trao đổi hàng hoá và dịch vụ giữa các quốc gia.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2",
+        "pdf_page": 25,
+        "printed_page": 23
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-dau-tu-quoc-te",
+      "term": "Đầu tư quốc tế",
+      "aliases": [],
+      "english": "International investment",
+      "notation": null,
+      "meaning": "Thông tin 2 > CÁC HOẠT ĐỘNG KINH TẾ ĐỐI NGOẠI > <!-- term: Thương mại quốc tế --> Thương mại quốc tế > Là những hoạt động trao đổi hàng hoá, dịch vụ giữa các quốc gia thông qua xuất, nhập khẩu, thương mại quốc tế kích thích tiêu dùng, mở rộng sản xuất, chuyển giao công nghệ và đầu tư giữa các quốc gia, nhờ đó, tạo tiền đề cho tăng trưởng và phát triển kinh tế. Sự tăng trưởng kim ngạch xuất khẩu thể hiện kết quả hội nhập của mỗi quốc gia. > Theo Tổng cục Thống kê, năm 2022 kim ngạch xuất khẩu hàng hoá của Việt Nam đạt 371,3 tỉ USD, tăng 10,5% so với năm trước. Kim ngạch nhập khẩu hàng hoá năm 2022 sơ bộ đạt 358,9 tỉ USD, tăng 7,8% so với năm trước. Đặc biệt, đây là năm thứ 7 liên tiếp nước ta có cán cân thương mại đạt mức xuất siêu trên 10 tỉ USD. > <!-- term: Đầu tư quốc tế --> Đầu tư quốc tế > Là quá trình di chuyển vốn từ quốc gia này đến quốc gia khác nhằm đem lại lợi ích cho các bên tham gia, đầu tư quốc tế giúp tăng cường nguồn vốn, góp phần chuyển dịch cơ cấu kinh tế theo hướng hiện đại, tạo thêm việc làm, phát triển chất lượng nguồn nhân lực, tiếp thu khoa học công nghệ hiện đại, kinh nghiệm quản lí tiên tiến, thúc đẩy tăng trưởng kinh tế,... cho nước tiếp nhận đầu tư như Việt Nam. > Theo Tổng cục Thống kê, vốn đầu tư trực tiếp nước ngoài (FDI) vào nước ta thực hiện năm 2022 đạt gần 22,4 tỉ USD, tăng 13,5% so với năm trước. Tổng vốn đầu tư ra nước ngoài (vốn cấp mới và tăng thêm của các dự án được cấp giấy phép từ các năm trước) đạt 599,3 triệu USD. > Vốn vay ưu đãi và vốn viện trợ không hoàn lại (vốn ODA) cho Việt Nam từ các quốc gia và tổ chức quốc tế,... là nguồn lực tài chính quan trọng góp phần thúc đẩy phát triển kinh tế – xã hội nước ta. Đặc biệt, nguồn vốn ODA đã hỗ trợ Việt Nam đạt được nhiều kết quả trong công cuộc xoá đói giảm nghèo. > <!-- term: Dịch vụ thu ngoại tệ --> Dịch vụ thu ngoại tệ > Dịch vụ thu ngoại tệ bao gồm các dịch vụ quốc tế như du lịch, giao thông vận tải, thông tin liên lạc, bảo hiểm, xuất nhập khẩu lao động, thanh toán và tín dụng,... có vai trò tạo nguồn thu ngoại tệ giúp cải thiện cán cân thanh toán quốc tế. Một số hoạt động còn góp phần tạo việc làm, tăng thu nhập, thúc đẩy tăng trưởng kinh tế như du lịch, thông tin liên lạc... > Theo Bộ Văn hoá, Thể thao và Du lịch, năm 2022, khách quốc tế đến Việt Nam đạt 3,66 triệu lượt người, gấp 23,3 lần so với năm 2021. Tổng thu từ khách du lịch ước đạt 495.000 tỉ đồng. > Theo Bộ Lao động – Thương binh và Xã hội, tính đến cuối năm 2022, có hơn 600.000 người Việt Nam đi làm việc có thời hạn ở nước ngoài. Người lao động Việt Nam ở nước ngoài đang làm việc tại 40 quốc gia và vùng lãnh thổ, với thu nhập ổn định, gửi về nước lượng kiều hối lớn hơn 3 tỉ USD/năm. > *(Theo Cổng thông tin Bộ Văn hoá, Thể thao và Du lịch ngày 11-8-2023 và Tạp chí Kinh tế Việt Nam ngày 20 – 8 – 2022)*",
+      "usage_context": "Hoạt động di chuyển dòng vốn xuyên biên giới quốc gia.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2",
+        "pdf_page": 25,
+        "printed_page": 23
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-dich-vu-thu-ngoai-te",
+      "term": "Dịch vụ thu ngoại tệ",
+      "aliases": [],
+      "english": "Foreign exchange earning services",
+      "notation": null,
+      "meaning": "Thông tin 2 > CÁC HOẠT ĐỘNG KINH TẾ ĐỐI NGOẠI > <!-- term: Thương mại quốc tế --> Thương mại quốc tế > Là những hoạt động trao đổi hàng hoá, dịch vụ giữa các quốc gia thông qua xuất, nhập khẩu, thương mại quốc tế kích thích tiêu dùng, mở rộng sản xuất, chuyển giao công nghệ và đầu tư giữa các quốc gia, nhờ đó, tạo tiền đề cho tăng trưởng và phát triển kinh tế. Sự tăng trưởng kim ngạch xuất khẩu thể hiện kết quả hội nhập của mỗi quốc gia. > Theo Tổng cục Thống kê, năm 2022 kim ngạch xuất khẩu hàng hoá của Việt Nam đạt 371,3 tỉ USD, tăng 10,5% so với năm trước. Kim ngạch nhập khẩu hàng hoá năm 2022 sơ bộ đạt 358,9 tỉ USD, tăng 7,8% so với năm trước. Đặc biệt, đây là năm thứ 7 liên tiếp nước ta có cán cân thương mại đạt mức xuất siêu trên 10 tỉ USD. > <!-- term: Đầu tư quốc tế --> Đầu tư quốc tế > Là quá trình di chuyển vốn từ quốc gia này đến quốc gia khác nhằm đem lại lợi ích cho các bên tham gia, đầu tư quốc tế giúp tăng cường nguồn vốn, góp phần chuyển dịch cơ cấu kinh tế theo hướng hiện đại, tạo thêm việc làm, phát triển chất lượng nguồn nhân lực, tiếp thu khoa học công nghệ hiện đại, kinh nghiệm quản lí tiên tiến, thúc đẩy tăng trưởng kinh tế,... cho nước tiếp nhận đầu tư như Việt Nam. > Theo Tổng cục Thống kê, vốn đầu tư trực tiếp nước ngoài (FDI) vào nước ta thực hiện năm 2022 đạt gần 22,4 tỉ USD, tăng 13,5% so với năm trước. Tổng vốn đầu tư ra nước ngoài (vốn cấp mới và tăng thêm của các dự án được cấp giấy phép từ các năm trước) đạt 599,3 triệu USD. > Vốn vay ưu đãi và vốn viện trợ không hoàn lại (vốn ODA) cho Việt Nam từ các quốc gia và tổ chức quốc tế,... là nguồn lực tài chính quan trọng góp phần thúc đẩy phát triển kinh tế – xã hội nước ta. Đặc biệt, nguồn vốn ODA đã hỗ trợ Việt Nam đạt được nhiều kết quả trong công cuộc xoá đói giảm nghèo. > <!-- term: Dịch vụ thu ngoại tệ --> Dịch vụ thu ngoại tệ > Dịch vụ thu ngoại tệ bao gồm các dịch vụ quốc tế như du lịch, giao thông vận tải, thông tin liên lạc, bảo hiểm, xuất nhập khẩu lao động, thanh toán và tín dụng,... có vai trò tạo nguồn thu ngoại tệ giúp cải thiện cán cân thanh toán quốc tế. Một số hoạt động còn góp phần tạo việc làm, tăng thu nhập, thúc đẩy tăng trưởng kinh tế như du lịch, thông tin liên lạc... > Theo Bộ Văn hoá, Thể thao và Du lịch, năm 2022, khách quốc tế đến Việt Nam đạt 3,66 triệu lượt người, gấp 23,3 lần so với năm 2021. Tổng thu từ khách du lịch ước đạt 495.000 tỉ đồng. > Theo Bộ Lao động – Thương binh và Xã hội, tính đến cuối năm 2022, có hơn 600.000 người Việt Nam đi làm việc có thời hạn ở nước ngoài. Người lao động Việt Nam ở nước ngoài đang làm việc tại 40 quốc gia và vùng lãnh thổ, với thu nhập ổn định, gửi về nước lượng kiều hối lớn hơn 3 tỉ USD/năm. > *(Theo Cổng thông tin Bộ Văn hoá, Thể thao và Du lịch ngày 11-8-2023 và Tạp chí Kinh tế Việt Nam ngày 20 – 8 – 2022)*",
+      "usage_context": "Hoạt động cung ứng dịch vụ quốc tế nhằm mang lại nguồn ngoại tệ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2",
+        "pdf_page": 25,
+        "printed_page": 23
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-hiep-dinh-doi-tac-kinh-te-toan-dien-khu-vuc",
+      "term": "Hiệp định Đối tác Kinh tế toàn diện khu vực",
+      "aliases": [
+        "RCEP"
+      ],
+      "english": "Regional Comprehensive Economic Partnership",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Khung khổ hợp tác thương mại tự do thế hệ mới khu vực châu Á - Thái Bình Dương.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Hiệp định RCEP kí kết ngày 15/11/2020 giữa 10 nước ASEAN và 5 nước đối tác.",
+      "location": null,
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-cong-dong-kinh-te-asean",
+      "term": "Cộng đồng Kinh tế ASEAN",
+      "aliases": [
+        "AEC"
+      ],
+      "english": "ASEAN Economic Community",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Khối liên kết kinh tế khu vực Đông Nam Á.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Trụ cột kinh tế của Hiệp hội các quốc gia Đông Nam Á thành lập năm 2015.",
+      "location": null,
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bao-hiem",
+      "term": "Bảo hiểm",
+      "aliases": [],
+      "english": "Insurance",
+      "notation": null,
+      "meaning": "Bảo hiểm là hoạt động chuyển giao rủi ro giữa các bên tham gia bảo hiểm và các tổ chức bảo hiểm; trong đó bên tham gia bảo hiểm nộp một khoản phí cho tổ chức bảo hiểm để lập quỹ dự trữ và được cam kết khi gặp rủi ro hay sự kiện bảo hiểm xảy ra sẽ được tổ chức bảo hiểm dùng quỹ này bồi thường, trợ cấp hoặc chi trả trong phạm vi bảo hiểm. Xã hội càng phát triển, nhu cầu được bảo hiểm ngày càng tăng nên cũng xuất hiện nhiều loại hình bảo hiểm khác nhau:",
+      "usage_context": "Biện pháp bảo vệ tài chính trước rủi ro.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 29,
+        "printed_page": 27
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bao-hiem-xa-hoi",
+      "term": "Bảo hiểm xã hội",
+      "aliases": [],
+      "english": "Social insurance",
+      "notation": null,
+      "meaning": "Bảo hiểm xã hội là sự bảo đảm thay thế hoặc bù đắp một phần thu nhập của người lao động khi họ bị giảm hoặc mất thu nhập do ốm, đau, thai sản, tai nạn lao động, bệnh nghề nghiệp, hết tuổi lao động trên cơ sở đóng vào quỹ bảo hiểm xã hội. (Khoản 1, Điều 3, Luật Bảo hiểm xã hội năm 2014).",
+      "usage_context": "Trụ cột chính sách bảo đảm an sinh cho người lao động.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bao-hiem-y-te",
+      "term": "Bảo hiểm y tế",
+      "aliases": [],
+      "english": "Health insurance",
+      "notation": null,
+      "meaning": "Bảo hiểm y tế là loại hình bảo hiểm thuộc lĩnh vực chăm sóc sức khoẻ cộng đồng do Nhà nước thực hiện; theo đó, người tham gia bảo hiểm sẽ được chi trả một phần hoặc toàn bộ chi phí thăm khám, điều trị, phục hồi sức khoẻ nếu không may xảy ra tai nạn hoặc bệnh tật.",
+      "usage_context": "Cơ chế chia sẻ tài chính khám chữa bệnh cộng đồng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bao-hiem-that-nghiep",
+      "term": "Bảo hiểm thất nghiệp",
+      "aliases": [],
+      "english": "Unemployment insurance",
+      "notation": null,
+      "meaning": "Bảo hiểm thất nghiệp là sự bảo đảm được bù đắp một phần thu nhập, hỗ trợ học nghề, duy trì và tìm kiếm việc làm cho người lao động khi bị mất việc làm trên cơ sở đóng góp vào quỹ bảo hiểm thất nghiệp.",
+      "usage_context": "Hỗ trợ bù đắp thu nhập khi người lao động bị mất việc.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bao-hiem-thuong-mai",
+      "term": "Bảo hiểm thương mại",
+      "aliases": [],
+      "english": "Commercial insurance",
+      "notation": null,
+      "meaning": "Bảo hiểm thương mại là hoạt động của tổ chức bảo hiểm chấp nhận rủi ro của người được bảo hiểm trên cơ sở bên mua bảo hiểm đóng phí bảo hiểm để tổ chức bảo hiểm bồi thường, trả tiền bảo hiểm khi xảy ra sự kiện bảo hiểm theo thoả thuận trong hợp đồng bảo hiểm đã được hai bên kí kết.",
+      "usage_context": "Hoạt động kinh doanh bảo hiểm vì mục tiêu lợi nhuận.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bao-hiem-xa-hoi-bat-buoc",
+      "term": "Bảo hiểm xã hội bắt buộc",
+      "aliases": [],
+      "english": "Compulsory social insurance",
+      "notation": null,
+      "meaning": "Bảo hiểm xã hội bắt buộc là loại hình bảo hiểm xã hội do Nhà nước tổ chức mà người lao động và người sử dụng lao động phải tham gia. (Khoản 2, Điều 3, Luật Bảo hiểm xã hội năm 2014).",
+      "usage_context": "Hình thức BHXH Nhà nước yêu cầu người lao động và người sử dụng lao động tham gia.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bao-hiem-xa-hoi-tu-nguyen",
+      "term": "Bảo hiểm xã hội tự nguyện",
+      "aliases": [],
+      "english": "Voluntary social insurance",
+      "notation": null,
+      "meaning": "Bảo hiểm xã hội tự nguyện là loại hình bảo hiểm xã hội do Nhà nước tổ chức mà người tham gia được lựa chọn mức đóng, phương thức đóng phù hợp với thu nhập của mình và Nhà nước có chính sách hỗ trợ tiền đóng bảo hiểm xã hội để người tham gia hưởng chế độ hưu trí và tử tuất. (Khoản 3, Điều 3, Luật Bảo hiểm xã hội năm 2014).",
+      "usage_context": "Hình thức BHXH do người tham gia tự lựa chọn mức đóng và phương thức đóng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bao-hiem-y-te-bat-buoc",
+      "term": "Bảo hiểm y tế bắt buộc",
+      "aliases": [],
+      "english": "Compulsory health insurance",
+      "notation": null,
+      "meaning": "Bảo hiểm y tế bắt buộc là hình thức bảo hiểm bắt buộc được áp dụng đối với các đối tượng theo quy định của Luật Bảo hiểm y tế để chăm sóc sức khoẻ, không vì mục đích lợi nhuận, do Nhà nước tổ chức thực hiện.",
+      "usage_context": "Hình thức BHYT theo luật định đối với mọi công dân.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bao-hiem-y-te-tu-nguyen",
+      "term": "Bảo hiểm y tế tự nguyện",
+      "aliases": [],
+      "english": "Voluntary health insurance",
+      "notation": null,
+      "meaning": "Bảo hiểm y tế tự nguyện là hình thức bảo hiểm do các công ty bảo hiểm cung cấp, áp dụng đối với những người không thuộc đối tượng tham gia bảo hiểm y tế bắt buộc.",
+      "usage_context": "Hình thức BHYT do doanh nghiệp bảo hiểm cung cấp theo nhu cầu cá nhân.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bao-hiem-tai-san",
+      "term": "Bảo hiểm tài sản",
+      "aliases": [],
+      "english": "Property insurance",
+      "notation": null,
+      "meaning": "Bảo hiểm tài sản là hình thức bảo hiểm mà đối tượng của nó là tài sản nhằm bồi thường thiệt hại cho người được bảo hiểm khi xảy ra rủi ro gây tổn thất cho tài sản như mất cắp, cháy nổ, đâm va, hỏng hóc do thiên tai,...",
+      "usage_context": "Đối tượng bảo hiểm là tài sản và các lợi ích liên quan.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bao-hiem-con-nguoi",
+      "term": "Bảo hiểm con người",
+      "aliases": [],
+      "english": "Personal insurance",
+      "notation": null,
+      "meaning": "Bảo hiểm con người là hình thức bảo hiểm mà đối tượng bảo hiểm là sức khoẻ, thân thể và tính mạng của con người như ốm đau, bệnh tật, tai nạn, thương tật, bệnh hiểm nghèo,...",
+      "usage_context": "Đối tượng bảo hiểm là tính mạng, sức khoẻ và tuổi thọ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bao-hiem-trach-nhiem-dan-su",
+      "term": "Bảo hiểm trách nhiệm dân sự",
+      "aliases": [],
+      "english": "Civil liability insurance",
+      "notation": null,
+      "meaning": "Bảo hiểm trách nhiệm dân sự là trách nhiệm hay nghĩa vụ bồi thường. Thông thường, bảo hiểm trách nhiệm dân sự được thực hiện dưới hình thức bắt buộc như bảo hiểm xe cơ giới, bảo hiểm thân tàu, bảo hiểm hàng hoá, bảo hiểm hàng không, bảo hiểm cháy nổ, bảo hiểm nông nghiệp,...",
+      "usage_context": "Đối tượng là trách nhiệm bồi thường thiệt hại cho bên thứ ba.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-an-sinh-xa-hoi",
+      "term": "An sinh xã hội",
+      "aliases": [],
+      "english": "Social security",
+      "notation": null,
+      "meaning": "<!-- term: An sinh xã hội --> An sinh xã hội là hệ thống các chính sách, chương trình của Nhà nước và các lực lượng xã hội nhằm hạn chế, phòng ngừa và khắc phục rủi ro cho các thành viên trong cộng đồng trong trường hợp bị mất hoặc giảm thu nhập hay khi gặp phải những rủi ro xã hội khác.",
+      "usage_context": "Hệ thống chính sách bảo vệ cuộc sống của người dân.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "1",
+        "pdf_page": 36,
+        "printed_page": 34
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-chinh-sach-ho-tro-viec-lam-thu-nhap-va-giam-ngheo",
+      "term": "Chính sách hỗ trợ việc làm, thu nhập và giảm nghèo",
+      "aliases": [],
+      "english": "Employment and poverty reduction policy",
+      "notation": null,
+      "meaning": "<!-- term: Chính sách hỗ trợ việc làm, thu nhập và giảm nghèo --> - Chính sách hỗ trợ việc làm, thu nhập và giảm nghèo: Hỗ trợ người lao động nâng cao cơ hội tìm việc làm, tham gia thị trường lao động để có thu nhập, từng bước bảo đảm thu nhập tối thiểu cho người dân; đặc biệt là người nghèo, thanh niên, lao động nông thôn và các nhóm lao động dễ bị tổn thương khác cải thiện cuộc sống, góp phần chuyển đổi cơ cấu việc làm, giảm tỉ lệ thất nghiệp, xoá đói, giảm nghèo và ổn định xã hội.",
+      "usage_context": "Nhóm chính sách an sinh phòng ngừa rủi ro cho người lao động.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "1",
+        "pdf_page": 36,
+        "printed_page": 34
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-chinh-sach-ve-bao-hiem",
+      "term": "Chính sách về bảo hiểm",
+      "aliases": [],
+      "english": "Insurance policy",
+      "notation": null,
+      "meaning": "<!-- term: Chính sách về bảo hiểm --> - Chính sách về bảo hiểm: Hỗ trợ người dân phòng ngừa, giảm thiểu rủi ro khi bị giảm hoặc mất thu nhập do ốm đau, thai sản, tai nạn lao động, mất sức lao động, hết tuổi lao động. Gồm một số chính sách về: bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp,...",
+      "usage_context": "Nhóm chính sách an sinh chia sẻ và giảm thiểu rủi ro.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "1",
+        "pdf_page": 36,
+        "printed_page": 34
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-chinh-sach-tro-giup-xa-hoi",
+      "term": "Chính sách trợ giúp xã hội",
+      "aliases": [],
+      "english": "Social assistance policy",
+      "notation": null,
+      "meaning": "<!-- term: Chính sách trợ giúp xã hội --> - Chính sách trợ giúp xã hội: Bảo vệ phổ cập đối với mọi thành viên trong xã hội trên cơ sở sự tương trợ cộng đồng, chia sẻ rủi ro. Nó bao gồm: các chính sách trợ giúp xã hội thường xuyên tại cộng đồng cho những người có hoàn cảnh đặc biệt khó khăn (người cao tuổi, người khuyết tật nặng, trẻ mồ côi,...) và trợ cấp xã hội đột xuất cho người dân khi gặp phải những rủi ro, khó khăn bất ngờ như thiên tai, hoả hoạn, dịch bệnh,... giúp họ ổn định cuộc sống.",
+      "usage_context": "Nhóm chính sách an sinh khắc phục rủi ro cho đối tượng yếu thế.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "1",
+        "pdf_page": 36,
+        "printed_page": 34
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-chinh-sach-bao-dam-cac-dich-vu-xa-hoi-co-ban",
+      "term": "Chính sách bảo đảm các dịch vụ xã hội cơ bản",
+      "aliases": [],
+      "english": "Basic social services policy",
+      "notation": null,
+      "meaning": "<!-- term: Chính sách bảo đảm các dịch vụ xã hội cơ bản --> - Chính sách bảo đảm các dịch vụ xã hội cơ bản: Hỗ trợ người dân tiếp cận các dịch vụ xã hội cơ bản ở mức tối thiểu như các chính sách về giáo dục, y tế, nhà ở, nước sạch, thông tin,... đặc biệt là người nghèo, người có hoàn cảnh khó khăn và đồng bào dân tộc thiểu số.",
+      "usage_context": "Nhóm chính sách bảo đảm người dân tiếp cận y tế, giáo dục, nhà ở, nước sạch.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "1",
+        "pdf_page": 36,
+        "printed_page": 34
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-ke-hoach-kinh-doanh",
+      "term": "Kế hoạch kinh doanh",
+      "aliases": [],
+      "english": "Business plan",
+      "notation": null,
+      "meaning": "<!-- term: Kế hoạch kinh doanh --> Kế hoạch kinh doanh là một bản trình bày ý tưởng kinh doanh và cách thức hiện thực hoá ý tưởng đó của người kinh doanh. Kế hoạch kinh doanh bao gồm: định hướng tương lai, mục tiêu và chiến lược phát triển kinh doanh trong một khoảng thời gian nhất định giúp chủ thể kinh doanh xác định được những nhiệm vụ cụ thể cùng những khó khăn, thách thức để chủ động tìm ra phương cách vượt qua, đảm bảo thực hiện thành công những mục tiêu đã đặt ra.",
+      "usage_context": "Bản mô tả chi tiết mục tiêu, chiến lược và cách thức vận hành kinh doanh.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "1",
+        "pdf_page": 41,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-ke-hoach-hoat-dong-kinh-doanh",
+      "term": "Kế hoạch hoạt động kinh doanh",
+      "aliases": [],
+      "english": "Operational business plan",
+      "notation": null,
+      "meaning": "Kế hoạch hoạt động kinh doanh: > Phần này mô tả chi tiết về các hoạt động của doanh nghiệp để triển khai thực hiện ý tưởng kinh doanh, bao gồm các kế hoạch cụ thể: > *Kế hoạch tổ chức sản xuất:* Giới thiệu địa điểm, mặt bằng sản xuất; kĩ thuật, công nghệ sẽ sử dụng trong sản xuất, đặc biệt là những công nghệ kĩ thuật sản xuất nổi trội có tính cạnh tranh; loại hình sản xuất với khối lượng sản phẩm lớn, vừa, nhỏ hay đơn chiếc, cùng với phương pháp tổ chức sản xuất gắn với loại hình sản xuất dây chuyền hay nhóm, đơn chiếc. > *Kế hoạch tiếp thị, bán hàng:* Trình bày dự kiến các giải pháp thích hợp về quảng cáo, khuyến mại, giá cả, cách thức xúc tiến, truyền thông, phân phối sản phẩm,... giúp chủ thể có thể kiểm soát và quản trị hoạt động của mình và tác động tích cực đến quyết định mua của khách hàng mục tiêu. > *Kế hoạch phát triển doanh nghiệp:* Trình bày những dự kiến sẽ phát triển sản phẩm, dịch vụ này của doanh nghiệp trong tương lai gắn với những mốc thời gian cụ thể, nhất định. > *Kế hoạch nhân sự:* Giới thiệu ngắn gọn cơ cấu tổ chức, mô tả phương thức vận hành của tổ chức, mối quan hệ giữa các bộ phận, cá nhân trong bộ máy quản trị, thể hiện việc chủ thể có đủ khả năng về nhân sự để triển khai thành công hoạt động kinh doanh. > *Phân tích rủi ro và các biện pháp xử lí:* Chỉ ra những rủi ro có khả năng xảy ra trong quá trình kinh doanh, có thể là những rủi ro về chính trị, kinh tế, công nghệ,... và dự kiến các biện pháp xử lí. > *Kế hoạch tài chính:* Cung cấp các thông tin thể hiện khả năng tài chính của chủ thể kinh doanh đảm bảo tính khả thi của việc thực hiện hoạt động kinh doanh như: vốn, đầu tư, tài sản, doanh thu, chi phí, lợi nhuận,...",
+      "usage_context": "Kế hoạch triển khai chi tiết các khâu sản xuất và dịch vụ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "1",
+        "pdf_page": 43,
+        "printed_page": 41
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-tom-tat-ke-hoach-kinh-doanh",
+      "term": "Tóm tắt kế hoạch kinh doanh",
+      "aliases": [],
+      "english": "Executive summary",
+      "notation": null,
+      "meaning": "Thông tin > Nội dung cơ bản của kế hoạch kinh doanh: > Tóm tắt kế hoạch kinh doanh: > Tóm tắt kế hoạch kinh doanh là một bức thông điệp về sản phẩm hay dịch vụ mà chủ thể kinh doanh chuẩn bị cung cấp, đưa ra những thông tin quan trọng nhất, giới thiệu khái quát về ý tưởng, mục tiêu và điều kiện kinh doanh giúp cho các chủ thể kinh tế có cái nhìn tổng quan, chính xác về hoạt động kinh doanh. > Phần này được trình bày ngắn gọn, khái quát, bao gồm những thông tin cơ bản sau: > *Tên kế hoạch kinh doanh.* > *Ý tưởng kinh doanh:* Giới thiệu nét nổi bật của ý tưởng kinh doanh như có tính mới, tính sáng tạo, nổi trội,... đảm bảo đem lại kết quả khả quan cho hoạt động kinh doanh. > *Mục tiêu kinh doanh:* Thể hiện khái quát mong muốn của chủ thể kinh doanh trong hoạt động kinh doanh này. Đó có thể là mục tiêu vì lợi nhuận, mục tiêu đứng vững, thâm nhập vào một thị trường cụ thể, tham gia vào chuỗi giá trị hay mục tiêu bảo vệ môi trường, vì lợi ích cộng đồng,... > *Chiến lược kinh doanh:* Giới thiệu rõ hoạt động kinh doanh này hướng đến phục vụ thị trường nào, cùng với những kế hoạch cho những hoạt động bên trong doanh nghiệp như kế hoạch sản xuất, kế hoạch tiếp thị, bán hàng, kế hoạch nhân sự, kế hoạch tài chính,... để thực hiện mục tiêu kinh doanh. > Ví dụ: Chiến lược kinh doanh của chủ thể kinh doanh A là phục vụ cho thị trường toàn quốc. Nhưng bản kế hoạch kinh doanh cho phân khúc thị trường là tỉnh H thì phải thể hiện rõ đặc điểm của thị trường địa phương này cùng những kế hoạch về nhân sự, kế hoạch sản xuất,... phù hợp để thực hiện mục tiêu kinh doanh đã đề ra đối với phân khúc thị trường này. > *Các điều kiện thực hiện ý tưởng kinh doanh:* Nhận diện rõ được đối thủ cạnh tranh, điểm mạnh, điểm yếu của cá nhân, tổ chức kinh doanh so với đối thủ cạnh tranh, từ đó đánh giá khái quát những thuận lợi, khó khăn khi triển khai hoạt động kinh doanh này. > Ví dụ: So với đối thủ cạnh tranh, chủ thể kinh doanh có thế mạnh vì có nguồn cung ứng nguyên liệu chất lượng cao với giá ưu đãi hay có một cải tiến mới về công nghệ giúp tạo ra sản phẩm hàng hoá, dịch vụ có khả năng cạnh tranh với các đối thủ trên thị trường,... nhưng cũng có điểm yếu là hạn chế về vốn, khó tìm được địa điểm kinh doanh thuận lợi,... > *Cơ hội, rủi ro:* Chỉ ra hoạt động kinh doanh này đang tận dụng được cơ hội nào (như một chính sách ưu đãi về thuế đối với mặt hàng kinh doanh, chính sách hỗ trợ về vốn và đào tạo lao động cho lĩnh vực kinh doanh,...) đồng thời thể hiện rõ việc đã xác định được rủi ro có thể xảy ra trong hoạt động kinh doanh này và đã có biện pháp giải quyết hay ngăn ngừa.",
+      "usage_context": "Bản khái quát ngắn gọn các điểm mấu chốt của dự án kinh doanh.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "1",
+        "pdf_page": 42,
+        "printed_page": 40
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-trach-nhiem-xa-hoi-cua-doanh-nghiep",
+      "term": "Trách nhiệm xã hội của doanh nghiệp",
+      "aliases": [],
+      "english": "Corporate Social Responsibility (CSR)",
+      "notation": null,
+      "meaning": "<!-- term: Trách nhiệm xã hội của doanh nghiệp --> Trách nhiệm xã hội của doanh nghiệp là toàn bộ trách nhiệm bắt buộc và tự nguyện mà doanh nghiệp thực hiện đối với xã hội bằng những chính sách và việc làm cụ thể, mang lại những ảnh hưởng tích cực đến xã hội, cộng đồng, đóng góp cho việc thực hiện các mục tiêu xã hội và sự phát triển bền vững quốc gia.",
+      "usage_context": "Nghĩa vụ và cam kết của doanh nghiệp đóng góp cho sự phát triển bền vững.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1",
+        "pdf_page": 50,
+        "printed_page": 48
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-trach-nhiem-kinh-te",
+      "term": "Trách nhiệm kinh tế",
+      "aliases": [],
+      "english": "Economic responsibility",
+      "notation": null,
+      "meaning": "<!-- term: Trách nhiệm kinh tế --> - Trách nhiệm kinh tế: tiết kiệm chi phí, đạt doanh thu, lợi nhuận cao, đảm bảo việc làm cho người lao động, cung ứng nhiều sản phẩm chất lượng, an toàn cho khách hàng,...",
+      "usage_context": "Trách nhiệm sản xuất hàng hoá, dịch vụ có chất lượng và tạo lợi nhuận chính đáng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1",
+        "pdf_page": 49,
+        "printed_page": 47
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-trach-nhiem-phap-li",
+      "term": "Trách nhiệm pháp lí",
+      "aliases": [],
+      "english": "Legal responsibility",
+      "notation": null,
+      "meaning": "<!-- term: Trách nhiệm pháp lí --> - Trách nhiệm pháp lí: tuân thủ pháp luật kinh doanh; thực hiện nghiêm nghĩa vụ nộp thuế;...",
+      "usage_context": "Trách nhiệm tuân thủ đầy đủ Hiến pháp và pháp luật trong hoạt động kinh doanh.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1",
+        "pdf_page": 49,
+        "printed_page": 47
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-trach-nhiem-dao-duc",
+      "term": "Trách nhiệm đạo đức",
+      "aliases": [],
+      "english": "Ethical responsibility",
+      "notation": null,
+      "meaning": "<!-- term: Trách nhiệm đạo đức --> - Trách nhiệm đạo đức: thực hiện tốt đạo đức kinh doanh; làm điều đúng, chính đáng, công bằng; tránh gây hại cho con người, xã hội và môi trường,...",
+      "usage_context": "Trách nhiệm thực hiện chuẩn mực đạo đức kinh doanh vượt lên trên quy định pháp luật.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1",
+        "pdf_page": 49,
+        "printed_page": 47
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-trach-nhiem-nhan-van",
+      "term": "Trách nhiệm nhân văn",
+      "aliases": [],
+      "english": "Philanthropic responsibility",
+      "notation": null,
+      "meaning": "<!-- term: Trách nhiệm nhân văn --> - Trách nhiệm nhân văn: tham gia các hoạt động cộng đồng, thiện nguyện, nhân đạo, đóng góp các nguồn lực cho cộng đồng,...",
+      "usage_context": "Trách nhiệm tự nguyện đóng góp từ thiện, hỗ trợ cộng đồng và an sinh xã hội.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1",
+        "pdf_page": 49,
+        "printed_page": 47
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-quan-li-thu-chi-trong-gia-dinh",
+      "term": "Quản lí thu, chi trong gia đình",
+      "aliases": [],
+      "english": "Family income and expenditure management",
+      "notation": null,
+      "meaning": "<!-- term: Quản lí thu, chi trong gia đình --> Quản lí thu, chi trong gia đình là việc quản lí các khoản thu nhập, chi tiêu nhằm đáp ứng nhu cầu vật chất, tinh thần cho các thành viên trong gia đình và phù hợp với thu nhập của gia đình.",
+      "usage_context": "Quá trình lập kế hoạch và kiểm soát thu nhập, chi tiêu nhằm ổn định tài chính gia đình.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "1",
+        "pdf_page": 55,
+        "printed_page": 53
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-thu-nhap-chu-dong",
+      "term": "Thu nhập chủ động",
+      "aliases": [],
+      "english": "Active income",
+      "notation": null,
+      "meaning": "Thông tin > 1. Thảo luận để xác định mục tiêu tài chính trong gia đình > Mục tiêu tài chính trong gia đình là các mục tiêu giúp xác định ngân sách để gia đình thực hiện những dự định cụ thể trong một khoảng thời gian nhất định. > Ví dụ: Gia đình đặt mục tiêu sẽ mua nhà trong 5 năm thì cần phải có ngân sách là bao nhiêu? Từ đó, lên kế hoạch để đạt được số tiền mong muốn để thực hiện được mục tiêu đó. > Căn cứ vào thời gian thực hiện, có các mục tiêu tài chính sau: > *Mục tiêu tài chính ngắn hạn:* Là những mục tiêu có thể đạt được trong khoảng thời gian từ 6 tháng đến 1 năm. Ví dụ: Mục tiêu mua sắm thêm vật dụng mới cho gia đình như ti vi, tủ lạnh, máy giặt,... hay tổ chức một kì nghỉ gia đình. > *Mục tiêu tài chính trung hạn:* Là những mục tiêu cần một khoảng thời gian từ 2 – 5 năm mới có thể đạt được. Ví dụ: Mục tiêu thanh toán một khoản tiết kiệm để trả trước cho việc mua xe, chuẩn bị kinh phí để sinh con,... > *Mục tiêu tài chính dài hạn:* Là những mục tiêu phải mất thời gian dài từ 5 năm trở lên mới đạt được. Ví dụ: Kinh phí cho việc du học đại học ở nước ngoài, chuẩn bị xây nhà, mua một chiếc xe ô tô mới,... > Đặt mục tiêu tài chính rõ ràng là bước đầu lên kế hoạch những gì gia đình muốn đạt được trong tương lai, có thể liên quan đến tiết kiệm, chi tiêu, kiếm tiền hoặc đầu tư. > Việc xác định mục tiêu tài chính gia đình cần tiến hành như sau: > Liệt kê tất cả những mục tiêu tài chính ngắn hạn, trung hạn, dài hạn. > Xác định mức độ ưu tiên thực hiện các mục tiêu và thời hạn hoàn thành mục tiêu tài chính của gia đình, trong đó cần ưu tiên cho các mục tiêu cấp bách, cơ bản, thiết yếu, phù hợp với nguồn thu của gia đình. > *Lưu ý:* Khi xác định mục tiêu cần đảm bảo tiêu chí cụ thể, đo lường được, có tính khả thi và giới hạn thời gian hoàn thành. Việc xác định mục tiêu cần có sự bàn bạc, thống nhất, đồng thuận giữa các thành viên trong gia đình để cùng nhau thực hiện mục tiêu. > 2. Xác định các nguồn thu nhập trong gia đình > <!-- term: Thu nhập thụ động --> Thu nhập thụ động: Là các khoản thu nhập nhận được mà không cần phải sử dụng sức lao động của chính mình như: thu nhập từ tài sản được thừa kế, tài sản sở hữu trí tuệ, lãi suất từ tiền gửi ngân hàng, cho thuê nhà, trúng thưởng,... > <!-- term: Thu nhập chủ động --> Thu nhập chủ động: Là các khoản thu nhập nhận được từ hao phí sức lao động để tạo ra giá trị sản phẩm hoặc dịch vụ như: tiền lương, tiền thưởng, lợi nhuận từ hoạt động sản xuất kinh doanh,... > Xác định các nguồn thu nhập giúp mỗi gia đình biết được tình hình tài chính hiện tại và có cơ sở để xây dựng kế hoạch thu, chi gia đình. > *Lưu ý:* Cần duy trì thu nhập gia đình ổn định, kiểm tra và xem xét ngân sách gia đình thường xuyên để cân đối thu – chi.",
+      "usage_context": "Khoản thu nhập kiếm được từ thời gian và công sức trực tiếp lao động.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "2",
+        "pdf_page": 56,
+        "printed_page": 54
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-thu-nhap-thu-dong",
+      "term": "Thu nhập thụ động",
+      "aliases": [],
+      "english": "Passive income",
+      "notation": null,
+      "meaning": "Thông tin > 1. Thảo luận để xác định mục tiêu tài chính trong gia đình > Mục tiêu tài chính trong gia đình là các mục tiêu giúp xác định ngân sách để gia đình thực hiện những dự định cụ thể trong một khoảng thời gian nhất định. > Ví dụ: Gia đình đặt mục tiêu sẽ mua nhà trong 5 năm thì cần phải có ngân sách là bao nhiêu? Từ đó, lên kế hoạch để đạt được số tiền mong muốn để thực hiện được mục tiêu đó. > Căn cứ vào thời gian thực hiện, có các mục tiêu tài chính sau: > *Mục tiêu tài chính ngắn hạn:* Là những mục tiêu có thể đạt được trong khoảng thời gian từ 6 tháng đến 1 năm. Ví dụ: Mục tiêu mua sắm thêm vật dụng mới cho gia đình như ti vi, tủ lạnh, máy giặt,... hay tổ chức một kì nghỉ gia đình. > *Mục tiêu tài chính trung hạn:* Là những mục tiêu cần một khoảng thời gian từ 2 – 5 năm mới có thể đạt được. Ví dụ: Mục tiêu thanh toán một khoản tiết kiệm để trả trước cho việc mua xe, chuẩn bị kinh phí để sinh con,... > *Mục tiêu tài chính dài hạn:* Là những mục tiêu phải mất thời gian dài từ 5 năm trở lên mới đạt được. Ví dụ: Kinh phí cho việc du học đại học ở nước ngoài, chuẩn bị xây nhà, mua một chiếc xe ô tô mới,... > Đặt mục tiêu tài chính rõ ràng là bước đầu lên kế hoạch những gì gia đình muốn đạt được trong tương lai, có thể liên quan đến tiết kiệm, chi tiêu, kiếm tiền hoặc đầu tư. > Việc xác định mục tiêu tài chính gia đình cần tiến hành như sau: > Liệt kê tất cả những mục tiêu tài chính ngắn hạn, trung hạn, dài hạn. > Xác định mức độ ưu tiên thực hiện các mục tiêu và thời hạn hoàn thành mục tiêu tài chính của gia đình, trong đó cần ưu tiên cho các mục tiêu cấp bách, cơ bản, thiết yếu, phù hợp với nguồn thu của gia đình. > *Lưu ý:* Khi xác định mục tiêu cần đảm bảo tiêu chí cụ thể, đo lường được, có tính khả thi và giới hạn thời gian hoàn thành. Việc xác định mục tiêu cần có sự bàn bạc, thống nhất, đồng thuận giữa các thành viên trong gia đình để cùng nhau thực hiện mục tiêu. > 2. Xác định các nguồn thu nhập trong gia đình > <!-- term: Thu nhập thụ động --> Thu nhập thụ động: Là các khoản thu nhập nhận được mà không cần phải sử dụng sức lao động của chính mình như: thu nhập từ tài sản được thừa kế, tài sản sở hữu trí tuệ, lãi suất từ tiền gửi ngân hàng, cho thuê nhà, trúng thưởng,... > <!-- term: Thu nhập chủ động --> Thu nhập chủ động: Là các khoản thu nhập nhận được từ hao phí sức lao động để tạo ra giá trị sản phẩm hoặc dịch vụ như: tiền lương, tiền thưởng, lợi nhuận từ hoạt động sản xuất kinh doanh,... > Xác định các nguồn thu nhập giúp mỗi gia đình biết được tình hình tài chính hiện tại và có cơ sở để xây dựng kế hoạch thu, chi gia đình. > *Lưu ý:* Cần duy trì thu nhập gia đình ổn định, kiểm tra và xem xét ngân sách gia đình thường xuyên để cân đối thu – chi.",
+      "usage_context": "Khoản thu nhập nhận được từ tài sản đầu tư mà không cần trực tiếp lao động thường xuyên.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "2",
+        "pdf_page": 56,
+        "printed_page": 54
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-chi-thiet-yeu",
+      "term": "Chi thiết yếu",
+      "aliases": [],
+      "english": "Essential expenses",
+      "notation": null,
+      "meaning": "3. Thống nhất các khoản chi thiết yếu và không thiết yếu trong gia đình > Việc chi tiêu trong mỗi gia đình rất đa dạng, đáp ứng nhu cầu của cả gia đình cũng như nhu cầu của mỗi thành viên, đòi hỏi phải có sự bàn bạc thống nhất để phân loại các khoản chi thiết yếu và các khoản chi không thiết yếu,... Đây là căn cứ để lên kế hoạch chi tiêu. > <!-- term: Chi thiết yếu --> Chi thiết yếu: Là những khoản bắt buộc phải chi tiêu hằng tháng phục vụ các nhu cầu về ăn, mặc, ở, đi lại, sinh hoạt, học hành,... bảo đảm nhu cầu vật chất của các thành viên trong gia đình. > <!-- term: Chi không thiết yếu --> Chi không thiết yếu: Là các khoản chi phục vụ cho các mối quan hệ xã hội và mua sắm xa xỉ. > *Lưu ý:* Đảm bảo nguyên tắc ưu tiên cho những yêu cầu thiết yếu, cân nhắc những khoản chi không thiết yếu để cân đối thu – chi và thực hiện mục tiêu tiết kiệm. > 4. Thống nhất tỉ lệ phân chia các khoản chi thiết yếu, không thiết yếu và tiết kiệm trong gia đình > Trên cơ sở theo dõi mức chi tiêu của gia đình, căn cứ vào nguồn thu, mục tiêu tài chính và danh mục các khoản chi thiết yếu và không thiết yếu của gia đình để xác định tỉ lệ phân chia các khoản chi cho phù hợp với đặc điểm của gia đình. > Dựa trên tỉ lệ đó, phân bổ số tiền cụ thể cho từng khoản chi. > Ví dụ: Chi thiết yếu (nhà ở, ăn uống, sức khoẻ, giáo dục,...): 50%. > Chi không thiết yếu (giải trí, mua sắm,...): 20%. > Mục tiêu tài chính (tiết kiệm, đầu tư, dự phòng): 30%. > Trong quá trình thực hiện, nếu thấy không hợp lí có thể điều chỉnh tỉ lệ cho phù hợp hơn. > *Lưu ý:* Tỉ lệ phân chia tuỳ vào đặc điểm của mỗi gia đình và có thể điều chỉnh trong từng thời điểm nhất định. > 5. Thực hiện các khoản thu, chi theo kế hoạch > Sau khi lập được kế hoạch chi tiêu trong gia đình, cần thực hiện nghiêm túc bản kế hoạch đó. Trước hết, cần ghi chép đầy đủ các khoản chi tiêu trong gia đình, đối chiếu với định mức trong kế hoạch để cân đối và quyết tâm thực hiện mục tiêu. Điều quan trọng là phải kiểm soát được việc chi tiêu, tránh các khoản chi tiêu không hợp lí, thực hiện thói quen tiêu dùng thông minh để đạt được các mục tiêu tài chính. Nếu có những lí do đột xuất khiến việc chi tiêu trong gia đình quá mức quy định thì cần có ngay biện pháp điều chỉnh bằng cách cắt giảm những khoản chi không cần thiết để bù lại. > *Lưu ý:* Trong trường hợp có những biến động làm cho thu nhập của gia đình giảm xuống (như có thành viên bị mất việc, hoạt động kinh doanh thua lỗ,...) cần điều chỉnh ngay kế hoạch chi tiêu sao cho tiết kiệm, phù hợp với mức thu nhập mới,...",
+      "usage_context": "Các khoản chi tiêu bắt buộc để duy trì sinh hoạt cơ bản hằng ngày.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "2",
+        "pdf_page": 57,
+        "printed_page": 55
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-chi-khong-thiet-yeu",
+      "term": "Chi không thiết yếu",
+      "aliases": [],
+      "english": "Non-essential expenses",
+      "notation": null,
+      "meaning": "3. Thống nhất các khoản chi thiết yếu và không thiết yếu trong gia đình > Việc chi tiêu trong mỗi gia đình rất đa dạng, đáp ứng nhu cầu của cả gia đình cũng như nhu cầu của mỗi thành viên, đòi hỏi phải có sự bàn bạc thống nhất để phân loại các khoản chi thiết yếu và các khoản chi không thiết yếu,... Đây là căn cứ để lên kế hoạch chi tiêu. > <!-- term: Chi thiết yếu --> Chi thiết yếu: Là những khoản bắt buộc phải chi tiêu hằng tháng phục vụ các nhu cầu về ăn, mặc, ở, đi lại, sinh hoạt, học hành,... bảo đảm nhu cầu vật chất của các thành viên trong gia đình. > <!-- term: Chi không thiết yếu --> Chi không thiết yếu: Là các khoản chi phục vụ cho các mối quan hệ xã hội và mua sắm xa xỉ. > *Lưu ý:* Đảm bảo nguyên tắc ưu tiên cho những yêu cầu thiết yếu, cân nhắc những khoản chi không thiết yếu để cân đối thu – chi và thực hiện mục tiêu tiết kiệm. > 4. Thống nhất tỉ lệ phân chia các khoản chi thiết yếu, không thiết yếu và tiết kiệm trong gia đình > Trên cơ sở theo dõi mức chi tiêu của gia đình, căn cứ vào nguồn thu, mục tiêu tài chính và danh mục các khoản chi thiết yếu và không thiết yếu của gia đình để xác định tỉ lệ phân chia các khoản chi cho phù hợp với đặc điểm của gia đình. > Dựa trên tỉ lệ đó, phân bổ số tiền cụ thể cho từng khoản chi. > Ví dụ: Chi thiết yếu (nhà ở, ăn uống, sức khoẻ, giáo dục,...): 50%. > Chi không thiết yếu (giải trí, mua sắm,...): 20%. > Mục tiêu tài chính (tiết kiệm, đầu tư, dự phòng): 30%. > Trong quá trình thực hiện, nếu thấy không hợp lí có thể điều chỉnh tỉ lệ cho phù hợp hơn. > *Lưu ý:* Tỉ lệ phân chia tuỳ vào đặc điểm của mỗi gia đình và có thể điều chỉnh trong từng thời điểm nhất định. > 5. Thực hiện các khoản thu, chi theo kế hoạch > Sau khi lập được kế hoạch chi tiêu trong gia đình, cần thực hiện nghiêm túc bản kế hoạch đó. Trước hết, cần ghi chép đầy đủ các khoản chi tiêu trong gia đình, đối chiếu với định mức trong kế hoạch để cân đối và quyết tâm thực hiện mục tiêu. Điều quan trọng là phải kiểm soát được việc chi tiêu, tránh các khoản chi tiêu không hợp lí, thực hiện thói quen tiêu dùng thông minh để đạt được các mục tiêu tài chính. Nếu có những lí do đột xuất khiến việc chi tiêu trong gia đình quá mức quy định thì cần có ngay biện pháp điều chỉnh bằng cách cắt giảm những khoản chi không cần thiết để bù lại. > *Lưu ý:* Trong trường hợp có những biến động làm cho thu nhập của gia đình giảm xuống (như có thành viên bị mất việc, hoạt động kinh doanh thua lỗ,...) cần điều chỉnh ngay kế hoạch chi tiêu sao cho tiết kiệm, phù hợp với mức thu nhập mới,...",
+      "usage_context": "Các khoản chi tiêu linh hoạt theo sở thích, có thể cắt giảm khi cần thiết.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "2",
+        "pdf_page": 57,
+        "printed_page": 55
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-ban-pha-gia",
+      "term": "Bán phá giá",
+      "aliases": [],
+      "english": "Dumping",
+      "notation": null,
+      "meaning": "Bán phá giá: một khái niệm cơ bản của thương mại quốc tế, được hiểu là việc bán sản phẩm ra nước ngoài với giá thấp hơn giá thông thường của nó, mà trong hầu hết các trường hợp là giá tại thị trường nội địa của nhà xuất khẩu.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 138).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 139,
+        "printed_page": 138
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-co-vat",
+      "term": "Cổ vật",
+      "aliases": [],
+      "english": "Antiquity",
+      "notation": null,
+      "meaning": "Cổ vật: là hiện vật được lưu truyền lại, có giá trị tiêu biểu về lịch sử, văn hoá, khoa học, có từ một trăm năm tuổi trở lên.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 138).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 139,
+        "printed_page": 138
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-ho-so-thue",
+      "term": "Hồ sơ thuế",
+      "aliases": [],
+      "english": "Tax file",
+      "notation": null,
+      "meaning": "Hồ sơ thuế: là hồ sơ đăng kí thuế, khai thuế, hoàn thuế, miễn thuế, giảm thuế, miễn tiền chậm nộp, không tính tiền chậm nộp, gia hạn nộp thuế, nộp dần tiền thuế nợ, không thu thuế; hồ sơ hải quan; hồ sơ khoanh tiền thuế nợ; hồ sơ xoá nợ tiền thuế, tiền chậm nộp, tiền phạt.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 138).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 139,
+        "printed_page": 138
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-ma-so-thue",
+      "term": "Mã số thuế",
+      "aliases": [],
+      "english": "Tax identification number",
+      "notation": null,
+      "meaning": "Mã số thuế: là một dãy số gồm 10 chữ số hoặc 13 chữ số và kí tự khác do cơ quan thuế cấp cho người nộp thuế dùng để quản lí thuế.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 138).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 139,
+        "printed_page": 138
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-mua-sam-chinh-phu",
+      "term": "Mua sắm Chính phủ",
+      "aliases": [],
+      "english": "Government procurement",
+      "notation": null,
+      "meaning": "Mua sắm Chính phủ: là việc chi tiêu cho hàng hoá và dịch vụ của Chính phủ một quốc gia. Khoản mua sắm Chính phủ được xác định bằng tổng chi tiêu Chính phủ trừ đi các khoản thanh toán chuyển khoản và trả lãi nợ.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 138).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 139,
+        "printed_page": 138
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-su-co-moi-truong",
+      "term": "Sự cố môi trường",
+      "aliases": [],
+      "english": "Environmental incident",
+      "notation": null,
+      "meaning": "Sự cố môi trường: là sự cố xảy ra trong quá trình hoạt động của con người hoặc do biến đổi bất thường của tự nhiên, gây ô nhiễm, suy thoái môi trường nghiêm trọng.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 138).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 139,
+        "printed_page": 138
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-thue-quan",
+      "term": "Thuế quan",
+      "aliases": [],
+      "english": "Tariff",
+      "notation": null,
+      "meaning": "Thuế quan: là thuế do hải quan của một quốc gia thu đối với hàng hoá xuất khẩu hoặc nhập khẩu khi vận chuyển qua cửa khẩu của quốc gia đó.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 138).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 139,
+        "printed_page": 138
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-tap-quan-thuong-mai-quoc-te",
+      "term": "Tập quán thương mại quốc tế",
+      "aliases": [],
+      "english": "International commercial practice",
+      "notation": null,
+      "meaning": "Tập quán thương mại quốc tế: là những quy tắc, khuôn mẫu xử sự được hình thành trong hoạt động thương mại quốc tế có tính chất lặp đi, lặp lại trong một thời gian dài thành thói quen, được áp dụng một cách thường xuyên trong hoạt động thương mại quốc tế. Tập quán thương mại quốc tế thường có ba nhóm: các tập quán có tính chất nguyên tắc; các tập quán chung và các tập quán khu vực.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 138).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 139,
+        "printed_page": 138
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-wto",
+      "term": "WTO",
+      "aliases": [],
+      "english": "World Trade Organization",
+      "notation": null,
+      "meaning": "WTO: là Tổ chức Thương mại Thế giới được thành lập và hoạt động từ 01 – 01 – 1995 với mục tiêu thiết lập và duy trì một nền thương mại toàn cầu tự do, thuận lợi và minh bạch. WTO kế thừa và phát triển các quy định và thực tiễn thực thi Hiệp định chung về Thương mại và Thuế quan – GATT 1947 (chỉ giới hạn ở thương mại hàng hoá) và là kết quả trực tiếp của Vòng đàm phán Uruguay (bao trùm các lĩnh vực thương mại hàng hoá, dịch vụ, sở hữu trí tuệ và đầu tư). Nhiệm vụ của WTO gồm: Thúc đẩy việc thực hiện các Hiệp định và cam kết đã đạt được trong khuôn khổ WTO (và cả những cam kết trong tương lai, nếu có); Tạo diễn đàn để các thành viên tiếp tục đàm phán, kí kết những Hiệp định, cam kết mới về tự do hoá và tạo điều kiện thuận lợi cho thương mại; Giải quyết các tranh chấp thương mại phát sinh giữa các thành viên WTO; Rà soát định kì các chính sách thương mại của các thành viên.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 139).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 140,
+        "printed_page": 139
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-quyen-binh-dang-trong-kinh-doanh",
+      "term": "Quyền bình đẳng trong kinh doanh",
+      "aliases": [],
+      "english": "Equality in business",
+      "notation": null,
+      "meaning": "Công dân có quyền bình đẳng trong kinh doanh có nghĩa là mọi công dân đều bình đẳng trước pháp luật, không phân biệt về giới tính, tôn giáo, tín ngưỡng, dân tộc, trình độ,... đều có quyền kinh doanh những ngành nghề mà pháp luật không cấm. Nếu có đủ điều kiện theo quy định của pháp luật đều có thể thành lập doanh nghiệp tư nhân, công ty cổ phần, công ty trách nhiệm hữu hạn,... Mọi loại hình doanh nghiệp thuộc các thành phần kinh tế khác nhau đều được bình đẳng trong việc khuyến khích phát triển lâu dài, hợp tác và cạnh tranh lành mạnh, đều là bộ phận cấu thành quan trọng của nền kinh tế quốc gia. Mọi doanh nghiệp đều bình đẳng về quyền chủ động mở rộng quy mô và ngành, nghề kinh doanh; chủ động tìm kiếm thị trường, khách hàng và kí kết hợp đồng; tự do liên doanh với các cá nhân, tổ chức kinh tế trong và ngoài nước theo quy định của pháp luật; tự chủ kinh doanh để nâng cao hiệu quả và khả năng cạnh tranh. Đồng thời, mọi doanh nghiệp đều bình đẳng về nghĩa vụ trong quá trình hoạt động kinh doanh như: kinh doanh đúng ngành, nghề ghi trong giấy phép kinh doanh và những ngành, nghề mà pháp luật không cấm; nộp thuế đầy đủ theo quy định của pháp luật; bảo vệ môi trường và tài nguyên thiên nhiên; bảo vệ quyền lợi người tiêu dùng; tuân thủ các quy định của pháp luật về lao động...",
+      "usage_context": "Quyền cơ bản của công dân trong hoạt động kinh tế.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "1",
+        "pdf_page": 62,
+        "printed_page": 60
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-nghia-vu-nop-thue",
+      "term": "Nghĩa vụ nộp thuế",
+      "aliases": [],
+      "english": "Tax obligation",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Nghĩa vụ cơ bản của mọi tổ chức, cá nhân có hoạt động sản xuất kinh doanh và phát sinh thu nhập.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Điều 47 Hiến pháp năm 2013 và Luật Quản lí thuế năm 2019.",
+      "location": null,
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-quyen-so-huu-tai-san",
+      "term": "Quyền sở hữu tài sản",
+      "aliases": [],
+      "english": "Property ownership right",
+      "notation": null,
+      "meaning": "Mọi người có quyền sở hữu tài sản. Quyền sở hữu tài sản bao gồm quyền chiếm hữu, quyền sử dụng và quyền định đoạt tài sản theo quy định của pháp luật.",
+      "usage_context": "Quyền dân sự cơ bản của công dân đối với tài sản hợp pháp.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "1",
+        "pdf_page": 72,
+        "printed_page": 70
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-quyen-chiem-huu",
+      "term": "Quyền chiếm hữu",
+      "aliases": [],
+      "english": "Right of possession",
+      "notation": null,
+      "meaning": "Quyền chiếm hữu là quyền của chủ thể tự mình nắm giữ, quản lí, chi phối trực tiếp tài sản.",
+      "usage_context": "Quyền nắm giữ, chi phối tài sản theo quy định của pháp luật.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "1",
+        "pdf_page": 72,
+        "printed_page": 70
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-quyen-su-dung",
+      "term": "Quyền sử dụng",
+      "aliases": [],
+      "english": "Right of use",
+      "notation": null,
+      "meaning": "Quyền sử dụng là quyền khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản.",
+      "usage_context": "Quyền khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "1",
+        "pdf_page": 72,
+        "printed_page": 70
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-quyen-dinh-doat",
+      "term": "Quyền định đoạt",
+      "aliases": [],
+      "english": "Right of disposition",
+      "notation": null,
+      "meaning": "Quyền định đoạt là quyền chuyển giao quyền sở hữu tài sản cho người khác, từ bỏ quyền sở hữu, tiêu dùng hoặc tiêu huỷ tài sản.",
+      "usage_context": "Quyền chuyển giao quyền sở hữu tài sản, từ bỏ hoặc tiêu huỷ tài sản.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "1",
+        "pdf_page": 72,
+        "printed_page": 70
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-quyen-va-nghia-vu-nhan-than-giua-vo-va-chong",
+      "term": "Quyền và nghĩa vụ nhân thân giữa vợ và chồng",
+      "aliases": [],
+      "english": "Personal rights and obligations between spouses",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Quyền bình đẳng, thương yêu, tôn trọng và giúp đỡ nhau giữa vợ và chồng.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Chương III Luật Hôn nhân và Gia đình năm 2014.",
+      "location": null,
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-quyen-va-nghia-vu-tai-san-giua-vo-va-chong",
+      "term": "Quyền và nghĩa vụ tài sản giữa vợ và chồng",
+      "aliases": [],
+      "english": "Property rights and obligations between spouses",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Chế độ tài sản chung và tài sản riêng giữa vợ và chồng trong thời kì hôn nhân.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Chương III Luật Hôn nhân và Gia đình năm 2014.",
+      "location": null,
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-quyen-hoc-tap-cua-cong-dan",
+      "term": "Quyền học tập của công dân",
+      "aliases": [],
+      "english": "Right to education",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Quyền học không hạn chế, học thường xuyên, học suốt đời của công dân.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Điều 39 Hiến pháp năm 2013 và Luật Giáo dục năm 2019.",
+      "location": null,
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-nghia-vu-hoc-tap-cua-cong-dan",
+      "term": "Nghĩa vụ học tập của công dân",
+      "aliases": [],
+      "english": "Duty of learning",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Nghĩa vụ học tập để phổ cập giáo dục và hoàn thành giáo dục bắt buộc.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Điều 39 Hiến pháp năm 2013 và Điều 14 Luật Giáo dục năm 2019.",
+      "location": null,
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-quyen-duoc-bao-ve-cham-soc-suc-khoe",
+      "term": "Quyền được bảo vệ, chăm sóc sức khoẻ",
+      "aliases": [],
+      "english": "Right to health protection and care",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Quyền cơ bản của công dân được chăm sóc y tế và bảo vệ sức khoẻ thể chất, tinh thần.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Điều 38 Hiến pháp năm 2013 và Luật Khám bệnh, chữa bệnh năm 2023.",
+      "location": null,
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-quyen-duoc-bao-dam-an-sinh-xa-hoi",
+      "term": "Quyền được bảo đảm an sinh xã hội",
+      "aliases": [],
+      "english": "Right to social security",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Quyền được hưởng các chế độ bảo hiểm, trợ giúp xã hội khi gặp rủi ro, giảm thu nhập.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Điều 34 Hiến pháp năm 2013 và các luật an sinh chuyên ngành.",
+      "location": null,
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-di-san-van-hoa",
+      "term": "Di sản văn hoá",
+      "aliases": [],
+      "english": "Cultural heritage",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Sản phẩm tinh thần, vật chất có giá trị lịch sử, văn hoá, khoa học được lưu truyền.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Luật Di sản văn hoá năm 2001 (sửa đổi năm 2009).",
+      "location": null,
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-moi-truong",
+      "term": "Môi trường",
+      "aliases": [],
+      "english": "Environment",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Hệ thống các yếu tố vật chất tự nhiên và nhân tạo có tác động đối với sự tồn tại của con người và sinh vật.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Luật Bảo vệ môi trường năm 2020.",
+      "location": null,
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-phap-luat-quoc-te",
+      "term": "Pháp luật quốc tế",
+      "aliases": [],
+      "english": "International law",
+      "notation": null,
+      "meaning": "Pháp luật quốc tế là hệ thống các nguyên tắc và quy phạm pháp luật được các quốc gia và chủ thể khác của luật quốc tế thoả thuận xây dựng nên trên cơ sở sự bình đẳng và tự nguyện để điều chỉnh những quan hệ phát sinh giữa các quốc gia và các chủ thể đó trong mọi lĩnh vực của đời sống quốc tế.",
+      "usage_context": "Hệ thống các nguyên tắc và quy phạm pháp luật điều chỉnh quan hệ giữa các chủ thể quốc tế.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b14",
+        "section": "1",
+        "pdf_page": 106,
+        "printed_page": 105
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-to-chuc-quoc-te-lien-chinh-phu",
+      "term": "Tổ chức quốc tế liên chính phủ",
+      "aliases": [],
+      "english": "Intergovernmental organization",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Tổ chức do các quốc gia có chủ quyền thoả thuận thành lập trên cơ sở điều ước quốc tế.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Hiến chương Liên hợp quốc và các điều ước quốc tế đa phương.",
+      "location": null,
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-dan-cu-cua-quoc-gia",
+      "term": "Dân cư của quốc gia",
+      "aliases": [],
+      "english": "Population of a state",
+      "notation": null,
+      "meaning": "Dân cư cùng với lãnh thổ và nhà nước là những bộ phận cơ bản cấu thành nên quốc gia. Dân cư của quốc gia là tổng hợp những người cư trú và sinh sống trên lãnh thổ quốc gia, cùng chịu sự quản lí của nhà nước, sự tác động điều chỉnh của pháp luật quốc gia và bao gồm ba bộ phận là công dân (người mang quốc tịch của quốc gia), công dân nước ngoài (người mang quốc tịch của quốc gia khác) và người không quốc tịch (người không mang quốc tịch của quốc gia nào).",
+      "usage_context": "Tập hợp những cá nhân sinh sống trên lãnh thổ quốc gia và chịu quyền tài phán của quốc gia đó.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "1.a",
+        "pdf_page": 112,
+        "printed_page": 111
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bao-ho-cong-dan",
+      "term": "Bảo hộ công dân",
+      "aliases": [],
+      "english": "Consular and diplomatic protection",
+      "notation": null,
+      "meaning": "Bảo hộ công dân là hoạt động của các cơ quan nhà nước có thẩm quyền bảo vệ quyền và lợi ích của công dân nước mình ở nước ngoài cũng như đại diện cho Nhà nước thực hiện sự giúp đỡ về mọi mặt cho công dân của nước mình đang ở nước ngoài. Vấn đề bảo hộ công dân được quy định trong Công ước Viên về quan hệ ngoại giao năm 1961 và Công ước Viên về quan hệ lãnh sự năm 1963 với ý nghĩa coi đó là một trong những chức năng của cơ quan đại diện ngoại giao và lãnh sự. Cụ thể: cơ quan đại diện ngoại giao và lãnh sự của quốc gia ở nước ngoài có chức năng bảo vệ các quyền và lợi ích hợp pháp của công dân nước mình tại nước ngoài, giúp đỡ công dân bao gồm cả cá nhân và pháp nhân của nước mình ở nước ngoài",
+      "usage_context": "Hoạt động của quốc gia nhằm bảo vệ quyền và lợi ích hợp pháp của công dân ở nước ngoài.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "1.b",
+        "pdf_page": 116,
+        "printed_page": 115
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-cu-tru-chinh-tri",
+      "term": "Cư trú chính trị",
+      "aliases": [],
+      "english": "Political asylum",
+      "notation": null,
+      "meaning": "Cư trú chính trị là việc một quốc gia cho phép những người nước ngoài đang bị truy nã do những hoạt động và quan điểm về chính trị, khoa học và tôn giáo,... được quyền nhập cảnh và cư trú trên lãnh thổ của nước mình. Việc cư trú chính trị đã được ghi nhận trong một số văn kiện pháp lí quốc tế ví dụ như Tuyên bố của Liên hợp quốc về quyền cư trú chính trị năm 1967.",
+      "usage_context": "Biện pháp bảo vệ của quốc gia dành cho người nước ngoài bị truy bức vì lí do chính trị.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "1.b",
+        "pdf_page": 115,
+        "printed_page": 114
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-lanh-tho-quoc-gia",
+      "term": "Lãnh thổ quốc gia",
+      "aliases": [],
+      "english": "National territory",
+      "notation": null,
+      "meaning": "Lãnh thổ quốc gia là các bộ phận lãnh thổ thuộc chủ quyền hoàn toàn, tuyệt đối hay riêng biệt của một quốc gia, tại đó quốc gia duy trì quyền lực nhà nước đối với cộng đồng dân cư của nó.",
+      "usage_context": "Không gian địa lí thuộc chủ quyền hoàn toàn và tuyệt đối của một quốc gia.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "2",
+        "pdf_page": 120,
+        "printed_page": 119
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-vung-noi-thuy",
+      "term": "Vùng nội thuỷ",
+      "aliases": [],
+      "english": "Internal waters",
+      "notation": null,
+      "meaning": "Vùng nội thuỷ: Là các vùng nước ở phía bên trong đường cơ sở dùng để tính chiều rộng lãnh hải và các vùng nước có các đường hàng hải quốc tế đi qua mà vốn trước đó chưa được coi là nội thuỷ nhưng do việc vạch đường cơ sở thẳng, vùng này đã bị gộp vào nội thuỷ (khoản 1 Điều 8 Công ước của Liên hợp quốc về Luật Biển năm 1982).",
+      "usage_context": "Vùng nước nằm phía trong của đường cơ sở dùng để tính chiều rộng lãnh hải.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "3.a",
+        "pdf_page": 120,
+        "printed_page": 119
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-vung-lanh-hai",
+      "term": "Vùng lãnh hải",
+      "aliases": [],
+      "english": "Territorial sea",
+      "notation": null,
+      "meaning": "Vùng lãnh hải: Là vùng biển nằm giữa vùng nước nội thuỷ và các vùng biển thuộc quyền chủ quyền của quốc gia. Mọi quốc gia đều có quyền ấn định chiều rộng lãnh hải của mình; chiều rộng này không vượt quá 12 hải lí kể từ đường cơ sở được vạch ra theo đúng Công ước (Điều 3 Công ước của Liên hợp quốc về Luật Biển năm 1982).",
+      "usage_context": "Vùng biển nằm ngoài và tiếp liền với vùng nội thuỷ, có chiều rộng 12 hải lí tính từ đường cơ sở.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "3.a",
+        "pdf_page": 120,
+        "printed_page": 119
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-vung-tiep-giap-lanh-hai",
+      "term": "Vùng tiếp giáp lãnh hải",
+      "aliases": [],
+      "english": "Contiguous zone",
+      "notation": null,
+      "meaning": "Vùng tiếp giáp lãnh hải: Là vùng biển tiếp liền phía ngoài lãnh hải có chiều rộng mười hai hải lí (khoản 2 Điều 4 Luật Biên giới quốc gia số 26/VBHN–VPQH năm 2020).",
+      "usage_context": "Vùng biển tiếp liền và nằm ngoài lãnh hải, có chiều rộng 12 hải lí tính từ ranh giới ngoài lãnh hải.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "3.b",
+        "pdf_page": 122,
+        "printed_page": 121
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-vung-dac-quyen-kinh-te",
+      "term": "Vùng đặc quyền kinh tế",
+      "aliases": [],
+      "english": "Exclusive Economic Zone (EEZ)",
+      "notation": null,
+      "meaning": "Vùng đặc quyền kinh tế: Là vùng biển tiếp liền phía ngoài lãnh hải và hợp với lãnh hải thành một vùng biển rộng hai trăm hải lí tính từ đường cơ sở (khoản 3 Điều 4 Luật Biên giới quốc gia số 26/VBHN–VPQH năm 2020).",
+      "usage_context": "Vùng biển nằm ngoài và tiếp liền với lãnh hải, hợp với lãnh hải thành một vùng biển rộng 200 hải lí tính từ đường cơ sở.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "3.b",
+        "pdf_page": 122,
+        "printed_page": 121
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-vung-them-luc-dia",
+      "term": "Vùng thềm lục địa",
+      "aliases": [],
+      "english": "Continental shelf",
+      "notation": null,
+      "meaning": "Vùng thềm lục địa: Là vùng đáy biển và lòng đất dưới đáy biển, tiếp liền và nằm ngoài lãnh hải của quốc gia đó, trên toàn bộ phần kéo dài tự nhiên của lãnh thổ đất liền, các đảo và quần đảo của quốc gia đó cho đến mép ngoài của rìa lục địa, hoặc đến cách đường cơ sở dùng để tính chiều rộng lãnh hải 200 hải lí, khi bờ ngoài của rìa lục địa của quốc gia đó ở khoảng cách gần hơn. Trong trường hợp mép ngoài của rìa lục địa này vượt quá 200 hải lí tính từ đường cơ sở thì thềm lục địa nơi đó được kéo dài không quá 350 hải lí tính từ đường cơ sở hoặc không quá 100 hải lí tính từ đường đẳng sâu 2.500 mét (Điều 76 Công ước quốc tế về Luật Biển năm 1982).",
+      "usage_context": "Đáy biển và lòng đất dưới đáy biển kéo dài tự nhiên của lãnh thổ đất liền đến mép ngoài của rìa lục địa.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "3.b",
+        "pdf_page": 122,
+        "printed_page": 121
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-di-qua-khong-gay-hai",
+      "term": "Đi qua không gây hại",
+      "aliases": [],
+      "english": "Innocent passage",
+      "notation": null,
+      "meaning": "💡 EM CÓ BIẾT? > Đi qua không gây hại tức là tàu thuyền nước ngoài đi ngang qua vùng nước lãnh hải của quốc gia ven biển (có thể đi vào hoặc không đi vào vùng nội thuỷ) phải đi liên tục, không dừng lại và không làm phương hại đến hoà bình, trật tự hay an ninh của quốc gia ven biển. Việc đi qua của một tàu thuyền nước ngoài bị coi như phương hại đến hoà bình, trật tự hay an ninh của quốc gia ven biển, nếu như ở trong lãnh hải, tàu thuyền này tiến hành một trong các hoạt động như: đe doạ hoặc dùng vũ lực chống lại chính quyền, toàn vẹn lãnh thổ hoặc độc lập chính trị của quốc gia ven biển...; đánh bắt hải sản;...",
+      "usage_context": "Quyền của tàu thuyền nước ngoài đi qua lãnh hải của quốc gia ven biển không làm phương hại đến hoà bình, trật tự và an ninh.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "3.a",
+        "pdf_page": 121,
+        "printed_page": 120
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bien-gioi-quoc-gia",
+      "term": "Biên giới quốc gia",
+      "aliases": [],
+      "english": "National border",
+      "notation": null,
+      "meaning": "Biên giới quốc gia là ranh giới phân định lãnh thổ của quốc gia này với lãnh thổ của quốc gia khác hoặc với các vùng mà quốc gia có quyền chủ quyền trên biển.",
+      "usage_context": "Đường và mặt thẳng đứng xác định giới hạn lãnh thổ của quốc gia.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "2",
+        "pdf_page": 120,
+        "printed_page": 119
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bien-gioi-quoc-gia-tren-bo",
+      "term": "Biên giới quốc gia trên bộ",
+      "aliases": [],
+      "english": "Land border",
+      "notation": null,
+      "meaning": "Biên giới quốc gia trên bộ: là đường biên giới được xác định trên đất liền, trên đảo, trên sông, hồ, kênh, biển nội địa,... Theo quy định của pháp luật nước ta thì biên giới quốc gia trên đất liền được hoạch định và đánh dấu trên thực địa bằng hệ thống mốc quốc giới (khoản 2 Điều 5 Luật Biên giới quốc gia số: 26/VBHN-VPQH năm 2020).",
+      "usage_context": "Đường biên giới phân định lãnh thổ đất liền giữa các quốc gia tiếp giáp nhau.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "2",
+        "pdf_page": 119,
+        "printed_page": 118
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bien-gioi-quoc-gia-tren-bien",
+      "term": "Biên giới quốc gia trên biển",
+      "aliases": [],
+      "english": "Maritime border",
+      "notation": null,
+      "meaning": "Biên giới quốc gia trên biển: là ranh giới phía ngoài lãnh hải của đất liền, lãnh hải của đảo, lãnh hải của quần đảo của quốc gia, được hoạch định và đánh dấu bằng các toạ độ trên hải đồ được xác định theo Công ước của Liên hợp quốc về Luật Biển năm 1982 và các điều ước quốc tế giữa các quốc gia hữu quan (khoản 3 Điều 5 Luật Biên giới quốc gia số: 26/VBHN-VPQH năm 2020).",
+      "usage_context": "Ranh giới phía ngoài của lãnh hải hoặc ranh giới phân định vùng biển giữa các quốc gia.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "2",
+        "pdf_page": 119,
+        "printed_page": 118
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bien-gioi-quoc-gia-tren-khong",
+      "term": "Biên giới quốc gia trên không",
+      "aliases": [],
+      "english": "Airspace border",
+      "notation": null,
+      "meaning": "Biên giới quốc gia trên không: là mặt thẳng đứng từ biên giới quốc gia trên đất liền và biên giới quốc gia trên biển lên vùng trời (khoản 5 Điều 5 Luật Biên giới quốc gia số: 26/VBHN-VPQH năm 2020).",
+      "usage_context": "Mặt thẳng đứng từ biên giới trên bộ và trên biển lên không gian xác định chủ quyền vùng trời.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "2",
+        "pdf_page": 119,
+        "printed_page": 118
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-bien-gioi-quoc-gia-trong-long-dat",
+      "term": "Biên giới quốc gia trong lòng đất",
+      "aliases": [],
+      "english": "Underground border",
+      "notation": null,
+      "meaning": "Biên giới quốc gia trong lòng đất: là mặt thẳng đứng từ biên giới quốc gia trên đất liền và biên giới quốc gia trên biển xuống lòng đất (khoản 4 Điều 5 Luật Biên giới quốc gia số: 26/VBHN-VPQH năm 2020).",
+      "usage_context": "Mặt thẳng đứng từ biên giới trên bộ và trên biển xuống lòng đất đến tâm Trái Đất.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "2",
+        "pdf_page": 119,
+        "printed_page": 118
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-lanh-tho-quoc-te",
+      "term": "Lãnh thổ quốc tế",
+      "aliases": [],
+      "english": "International territory",
+      "notation": null,
+      "meaning": "💡 EM CÓ BIẾT? > LÃNH THỔ THEO QUY CHẾ PHÁP LÍ > Lãnh thổ quốc gia: là các bộ phận lãnh thổ thuộc chủ quyền hoàn toàn, tuyệt đối hay riêng biệt của một quốc gia, tại đó quốc gia duy trì quyền lực nhà nước đối với một cộng đồng dân cư nhất định. > Lãnh thổ quốc tế: là những bộ phận lãnh thổ được sử dụng chung cho cả cộng đồng quốc tế như biển quốc tế, vùng trời trên vùng đặc quyền kinh tế, vùng trời quốc tế, vùng đáy biển quốc tế, khoảng không vũ trụ (kể cả Mặt Trăng và các hành tinh) và châu Nam cực. Các quốc gia đều có quyền bình đẳng về sử dụng lãnh thổ này vào mục đích hoà bình và phát triển. > Lãnh thổ có quy chế hỗn hợp: là loại lãnh thổ mà tại đó các quốc gia không có chủ quyền riêng biệt nhưng có các quyền chủ quyền giống như với vùng đặc quyền kinh tế và thềm lục địa của mình. > Lãnh thổ quốc gia sử dụng quốc tế: là những bộ phận của lãnh thổ quốc gia nhưng do đặc thù về vị trí địa lí, chính",
+      "usage_context": "Không gian địa lí không thuộc chủ quyền của bất kì quốc gia nào.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "2",
+        "pdf_page": 117,
+        "printed_page": 116
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-lanh-tho-co-quy-che-hon-hop",
+      "term": "Lãnh thổ có quy chế hỗn hợp",
+      "aliases": [],
+      "english": "Mixed-regime territory",
+      "notation": null,
+      "meaning": "💡 EM CÓ BIẾT? > LÃNH THỔ THEO QUY CHẾ PHÁP LÍ > Lãnh thổ quốc gia: là các bộ phận lãnh thổ thuộc chủ quyền hoàn toàn, tuyệt đối hay riêng biệt của một quốc gia, tại đó quốc gia duy trì quyền lực nhà nước đối với một cộng đồng dân cư nhất định. > Lãnh thổ quốc tế: là những bộ phận lãnh thổ được sử dụng chung cho cả cộng đồng quốc tế như biển quốc tế, vùng trời trên vùng đặc quyền kinh tế, vùng trời quốc tế, vùng đáy biển quốc tế, khoảng không vũ trụ (kể cả Mặt Trăng và các hành tinh) và châu Nam cực. Các quốc gia đều có quyền bình đẳng về sử dụng lãnh thổ này vào mục đích hoà bình và phát triển. > Lãnh thổ có quy chế hỗn hợp: là loại lãnh thổ mà tại đó các quốc gia không có chủ quyền riêng biệt nhưng có các quyền chủ quyền giống như với vùng đặc quyền kinh tế và thềm lục địa của mình. > Lãnh thổ quốc gia sử dụng quốc tế: là những bộ phận của lãnh thổ quốc gia nhưng do đặc thù về vị trí địa lí, chính",
+      "usage_context": "Vùng lãnh thổ vừa thuộc chủ quyền quốc gia vừa có các quyền tự do quốc tế nhất định.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "2",
+        "pdf_page": 117,
+        "printed_page": 116
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-lanh-tho-quoc-gia-su-dung-quoc-te",
+      "term": "Lãnh thổ quốc gia sử dụng quốc tế",
+      "aliases": [],
+      "english": "International-use national territory",
+      "notation": null,
+      "meaning": "💡 EM CÓ BIẾT? > LÃNH THỔ THEO QUY CHẾ PHÁP LÍ > Lãnh thổ quốc gia: là các bộ phận lãnh thổ thuộc chủ quyền hoàn toàn, tuyệt đối hay riêng biệt của một quốc gia, tại đó quốc gia duy trì quyền lực nhà nước đối với một cộng đồng dân cư nhất định. > Lãnh thổ quốc tế: là những bộ phận lãnh thổ được sử dụng chung cho cả cộng đồng quốc tế như biển quốc tế, vùng trời trên vùng đặc quyền kinh tế, vùng trời quốc tế, vùng đáy biển quốc tế, khoảng không vũ trụ (kể cả Mặt Trăng và các hành tinh) và châu Nam cực. Các quốc gia đều có quyền bình đẳng về sử dụng lãnh thổ này vào mục đích hoà bình và phát triển. > Lãnh thổ có quy chế hỗn hợp: là loại lãnh thổ mà tại đó các quốc gia không có chủ quyền riêng biệt nhưng có các quyền chủ quyền giống như với vùng đặc quyền kinh tế và thềm lục địa của mình. > Lãnh thổ quốc gia sử dụng quốc tế: là những bộ phận của lãnh thổ quốc gia nhưng do đặc thù về vị trí địa lí, chính",
+      "usage_context": "Vùng lãnh thổ thuộc chủ quyền quốc gia nhưng được mở cho cộng đồng quốc tế sử dụng theo điều ước.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "2",
+        "pdf_page": 117,
+        "printed_page": 116
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-che-do-dai-ngo-quoc-gia",
+      "term": "Chế độ đãi ngộ quốc gia",
+      "aliases": [],
+      "english": "National treatment",
+      "notation": null,
+      "meaning": "Chế độ đãi ngộ quốc gia: thường được áp dụng cho những người nước ngoài cư trú và sinh sống trên lãnh thổ của mình khi họ có thời hạn lưu trú tương đối ổn định và lâu dài. Theo chế độ này, nước sở tại cho phép người nước ngoài cư trú và sinh sống ở nước mình được hưởng những quyền chính trị, dân sự, kinh tế, văn hoá cơ bản như công dân của nước sở tại, trừ một số quyền liên quan đến lợi ích và an ninh quốc gia của nước sở tại. Chế độ này thường được ghi nhận và thể hiện cụ thể trong pháp luật của mỗi nước.",
+      "usage_context": "Chế độ dành cho người nước ngoài các quyền và nghĩa vụ tương đương công dân sở tại.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "1.a",
+        "pdf_page": 113,
+        "printed_page": 112
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-che-do-dai-ngo-toi-hue-quoc",
+      "term": "Chế độ đãi ngộ tối huệ quốc",
+      "aliases": [],
+      "english": "Most-Favoured-Nation treatment",
+      "notation": null,
+      "meaning": "Chế độ đãi ngộ tối huệ quốc: là chế độ được áp dụng cho những doanh nhân nước ngoài cư trú và sinh sống trên lãnh thổ của mình khi họ sản xuất và kinh doanh trong lĩnh vực xuất nhập khẩu hàng hoá. Theo chế độ này, các công dân và pháp nhân nước ngoài ở nước sở tại được hưởng các quyền lợi và ưu đãi về các loại thuế quan và phí đánh vào hoặc có liên quan đến hàng hoá nhập khẩu hay xuất khẩu,",
+      "usage_context": "Chế độ dành cho người nước ngoài những quyền lợi không kém hơn quyền lợi dành cho công dân nước thứ ba.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "1.a",
+        "pdf_page": 113,
+        "printed_page": 112
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-che-do-dai-ngo-dac-biet",
+      "term": "Chế độ đãi ngộ đặc biệt",
+      "aliases": [],
+      "english": "Special treatment",
+      "notation": null,
+      "meaning": "Chế độ đãi ngộ đặc biệt dành cho người nước ngoài: là chế độ đãi ngộ mà nước sở tại dành cho những nhân viên ngoại giao và lãnh sự của nước khác được cử đến công tác ở nước mình, theo đó, những người này được hưởng các quyền ưu đãi đặc biệt mà chính công dân của nước sở tại cũng không được hưởng, đồng thời, họ cũng không phải chịu trách nhiệm pháp lí mà công dân nước sở tại phải chịu trong những trường hợp tương tự. Chế độ này được quy định tại các Công ước quốc tế về quan hệ ngoại giao và lãnh sự.",
+      "usage_context": "Chế độ dành cho người nước ngoài những ưu đãi đặc biệt hơn so với công dân sở tại hoặc nước thứ ba.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "1.a",
+        "pdf_page": 114,
+        "printed_page": 113
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-hop-dong-thuong-mai-quoc-te",
+      "term": "Hợp đồng thương mại quốc tế",
+      "aliases": [],
+      "english": "International commercial contract",
+      "notation": null,
+      "meaning": "Hợp đồng thương mại quốc tế là sự thoả thuận giữa các bên, trong đó có ít nhất một bên phải là thương nhân, quốc gia hoặc các tổ chức kinh tế; đối tượng của hợp đồng phải là động sản (có thể di chuyển được qua biên giới các nước); có trụ sở thương mại tại các quốc gia khác nhau nhằm xác lập, thay đổi, chấm dứt các quyền và nghĩa vụ liên quan đến các lĩnh vực của thương mại quốc tế.",
+      "usage_context": "Sự thoả thuận giữa các bên có trụ sở thương mại ở các quốc gia khác nhau.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "2",
+        "pdf_page": 131,
+        "printed_page": 130
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-quy-che-doi-xu-toi-hue-quoc",
+      "term": "Quy chế đối xử tối huệ quốc",
+      "aliases": [],
+      "english": "Most-Favoured-Nation (MFN) principle",
+      "notation": null,
+      "meaning": "Quy chế đối xử tối huệ quốc (đối xử bình đẳng với các nước khác): Các nước thành viên WTO không được phân biệt đối xử với các đối tác thương mại của mình, nghĩa là nếu một nước thành viên trao cho một nước thành viên khác một đặc quyền thương mại nào đó (đối với hàng hoá nhập khẩu, xuất khẩu; việc xác lập, bảo hộ và thực thi các quyền sở hữu trí tuệ và mọi lợi ích có được từ các quyền đó của tổ chức, cá nhân của các nước thành viên) thì cũng phải đối xử tương tự như vậy với tất cả các thành viên còn lại của WTO ngay lập tức và không điều kiện (trừ những trường hợp được miễn).",
+      "usage_context": "Nguyên tắc đối xử bình đẳng giữa các thành viên WTO trong quan hệ thương mại.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "1.a",
+        "pdf_page": 127,
+        "printed_page": 126
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-che-do-doi-xu-quoc-gia",
+      "term": "Chế độ đối xử quốc gia",
+      "aliases": [],
+      "english": "National Treatment (NT) principle",
+      "notation": null,
+      "meaning": "Chế độ đối xử quốc gia (đối xử bình đẳng giữa sản phẩm nước ngoài với sản phẩm trong nước): Nước thành viên sẽ dành cho sản phẩm tương tự, dịch vụ tương tự, nhà cung cấp tương tự của các nước thành viên khác của WTO những ưu đãi không kém hơn so với ưu đãi mà nước đó đang và sẽ dành cho sản phẩm, dịch vụ, nhà cung cấp của nước mình (quy định trên chỉ áp dụng khi một sản phẩm, dịch vụ hay một yếu tố sở hữu trí tuệ đã gia nhập vào thị trường nội địa).",
+      "usage_context": "Nguyên tắc đối xử bình đẳng giữa hàng hoá nhập khẩu và hàng hoá nội địa tương tự.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "1.a",
+        "pdf_page": 127,
+        "printed_page": 126
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-nguyen-tac-mo-cua-thi-truong",
+      "term": "Nguyên tắc mở cửa thị trường",
+      "aliases": [],
+      "english": "Market access principle",
+      "notation": null,
+      "meaning": "Nguyên tắc mở cửa thị trường quy định các nước thành viên WTO phải cam kết xoá bỏ các rào cản trong thương mại quốc tế như: cấm áp dụng biện pháp hạn chế về số lượng; giảm và tiến tới xoá bỏ hàng rào thuế quan; xoá bỏ hàng rào phi thuế quan. Các nước chỉ có thể hạn chế sản phẩm của các nước khác thông qua thuế quan hoặc các khoản thu khác mà không được cấm hay hạn chế (trừ những trường hợp thật cần thiết và mang tính chất tạm thời) việc xuất hay nhập khẩu các sản phẩm của nước mình hay của các nước khác thuộc WTO.",
+      "usage_context": "Nguyên tắc cam kết dỡ bỏ rào cản thuế quan và phi thuế quan nhằm tạo thuận lợi cho thương mại.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "1.b",
+        "pdf_page": 128,
+        "printed_page": 127
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-nguyen-tac-thuong-mai-cong-bang",
+      "term": "Nguyên tắc thương mại công bằng",
+      "aliases": [],
+      "english": "Fair competition principle",
+      "notation": null,
+      "meaning": "Nguyên tắc thương mại công bằng là thương mại quốc tế được tiến hành trong điều kiện cạnh tranh bình đẳng như nhau giữa các thành viên của WTO, hạn chế những biện pháp thương mại không lành mạnh như bán phá giá (bán với giá thấp hơn giá thành sản phẩm), trợ cấp của Chính phủ dành cho hàng xuất khẩu,... nhằm mục đích chiếm thị phần.",
+      "usage_context": "Nguyên tắc thúc đẩy cạnh tranh lành mạnh, chống bán phá giá và trợ cấp không công bằng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "1.c",
+        "pdf_page": 129,
+        "printed_page": 128
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-nguyen-tac-minh-bach",
+      "term": "Nguyên tắc minh bạch",
+      "aliases": [],
+      "english": "Transparency principle",
+      "notation": null,
+      "meaning": "Nguyên tắc minh bạch quy định để tránh sự tuỳ tiện và có thể dự đoán được trước đòi hỏi các nước thành viên phải thông báo, trả lời những thông tin cần thiết về mọi biện pháp có liên quan hoặc tác động đến việc thi hành các hiệp định thương mại quốc tế cho các nước khác và cho các cơ quan giám sát việc thực hiện các hiệp định thương mại đa phương của WTO.",
+      "usage_context": "Nguyên tắc công khai, minh bạch các chính sách, quy định thương mại của quốc gia thành viên.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "1.d",
+        "pdf_page": 129,
+        "printed_page": 128
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-nguyen-tac-tu-do-hop-dong",
+      "term": "Nguyên tắc tự do hợp đồng",
+      "aliases": [],
+      "english": "Freedom of contract principle",
+      "notation": null,
+      "meaning": "Nguyên tắc tự do hợp đồng được thể hiện ở việc các bên tham gia giao kết hợp đồng thương mại được tự do giao kết hợp đồng (các bên hoàn toàn tự nguyện, không bên nào được thực hiện hành vi áp đặt, cưỡng ép, đe doạ, ngăn cản bên nào trong việc giao kết hợp đồng), được quyền tự do lựa chọn đối tác, tự do thiết lập các điều khoản của hợp đồng và thoả thuận nội dung của hợp đồng, hình thức của hợp đồng (trừ những trường hợp mà pháp luật quốc gia hoặc pháp luật quốc tế có quy định về hình thức hợp đồng), tự do chọn luật điều chỉnh, cơ quan giải quyết tranh chấp.",
+      "usage_context": "Quyền tự do giao kết, lựa chọn đối tác và nội dung hợp đồng phù hợp pháp luật.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "2.a",
+        "pdf_page": 132,
+        "printed_page": 131
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "gd-kt-va-pl-12-nguyen-tac-thien-chi-va-trung-thuc",
+      "term": "Nguyên tắc thiện chí và trung thực",
+      "aliases": [],
+      "english": "Good faith and fair dealing principle",
+      "notation": null,
+      "meaning": "Nguyên tắc thiện chí và trung thực trong đó quy định: Các bên khi tham gia vào quan hệ hợp đồng thương mại ở tất cả các giai đoạn (xác lập, thực hiện, chấm dứt quyền, nghĩa vụ của mình) đều phải hoạt động với tinh thần thiện chí và trung thực, không bên nào được lừa dối bên nào.",
+      "usage_context": "Nguyên tắc bắt buộc các bên hành xử trung thực, tôn trọng lợi ích hợp pháp của nhau trong quá trình thực hiện hợp đồng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "2.b",
+        "pdf_page": 133,
+        "printed_page": 132
+      },
+      "dictionary": "Tu-dien-GD-KT-va-PL-12-Phan-2.md",
+      "note_ids": []
+    }
+  ],
+  "source_notes": []
+}

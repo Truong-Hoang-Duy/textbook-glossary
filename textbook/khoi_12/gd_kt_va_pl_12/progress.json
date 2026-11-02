@@ -1,0 +1,434 @@
+{
+  "unit": "gd_kt_va_pl_12",
+  "subject": "gd_kt_va_pl",
+  "subject_name": "Giáo dục Kinh tế và Pháp luật",
+  "grade": 12,
+  "files": [
+    {
+      "file": "SGK GD KT&PL 12 - KNTT.pdf",
+      "volume": null,
+      "page_count": 142,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "p01",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần một",
+      "number": 1,
+      "title": "Giáo dục kinh tế",
+      "dir": "Phan-01-Giao-duc-kinh-te",
+      "children": [
+        {
+          "id": "cd01",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 1",
+          "number": 1,
+          "title": "Tăng trưởng và phát triển kinh tế",
+          "dir": "Chu-de-01-Tang-truong-va-phat-trien-kinh-te",
+          "children": [
+            {
+              "id": "b01",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 1",
+              "number": 1,
+              "title": "Tăng trưởng và phát triển kinh tế",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                8,
+                19
+              ],
+              "file": "B01-Tang-truong-va-phat-trien-kinh-te.md",
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd02",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 2",
+          "number": 2,
+          "title": "Hội nhập kinh tế quốc tế",
+          "dir": "Chu-de-02-Hoi-nhap-kinh-te-quoc-te",
+          "children": [
+            {
+              "id": "b02",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 2",
+              "number": 2,
+              "title": "Hội nhập kinh tế quốc tế",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                20,
+                28
+              ],
+              "file": "B02-Hoi-nhap-kinh-te-quoc-te.md",
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd03",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 3",
+          "number": 3,
+          "title": "Bảo hiểm và an sinh xã hội",
+          "dir": "Chu-de-03-Bao-hiem-va-an-sinh-xa-hoi",
+          "children": [
+            {
+              "id": "b03",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 3",
+              "number": 3,
+              "title": "Bảo hiểm",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                29,
+                34
+              ],
+              "file": "B03-Bao-hiem.md",
+              "status": "verified"
+            },
+            {
+              "id": "b04",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 4",
+              "number": 4,
+              "title": "An sinh xã hội",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                35,
+                40
+              ],
+              "file": "B04-An-sinh-xa-hoi.md",
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd04",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 4",
+          "number": 4,
+          "title": "Lập kế hoạch kinh doanh",
+          "dir": "Chu-de-04-Lap-ke-hoach-kinh-doanh",
+          "children": [
+            {
+              "id": "b05",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 5",
+              "number": 5,
+              "title": "Lập kế hoạch kinh doanh",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                41,
+                47
+              ],
+              "file": "B05-Lap-ke-hoach-kinh-doanh.md",
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd05",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 5",
+          "number": 5,
+          "title": "Trách nhiệm xã hội của doanh nghiệp",
+          "dir": "Chu-de-05-Trach-nhiem-xa-hoi-cua-doanh-nghiep",
+          "children": [
+            {
+              "id": "b06",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 6",
+              "number": 6,
+              "title": "Trách nhiệm xã hội của doanh nghiệp",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                48,
+                53
+              ],
+              "file": "B06-Trach-nhiem-xa-hoi-cua-doanh-nghiep.md",
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd06",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 6",
+          "number": 6,
+          "title": "Quản lí thu, chi trong gia đình",
+          "dir": "Chu-de-06-Quan-li-thu-chi-trong-gia-dinh",
+          "children": [
+            {
+              "id": "b07",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 7",
+              "number": 7,
+              "title": "Quản lí thu, chi trong gia đình",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                54,
+                59
+              ],
+              "file": "B07-Quan-li-thu-chi-trong-gia-dinh.md",
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần hai",
+      "number": 2,
+      "title": "Giáo dục pháp luật",
+      "dir": "Phan-02-Giao-duc-phap-luat",
+      "children": [
+        {
+          "id": "cd07",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 7",
+          "number": 7,
+          "title": "Một số quyền và nghĩa vụ của công dân về kinh tế",
+          "dir": "Chu-de-07-Mot-so-quyen-va-nghia-vu-cua-cong-dan-ve-kinh-te",
+          "children": [
+            {
+              "id": "b08",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 8",
+              "number": 8,
+              "title": "Quyền và nghĩa vụ của công dân về kinh doanh và nộp thuế",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                61,
+                68
+              ],
+              "file": "B08-Quyen-va-nghia-vu-cua-cong-dan-ve-kinh-doanh-va-nop-thue.md",
+              "status": "verified"
+            },
+            {
+              "id": "b09",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 9",
+              "number": 9,
+              "title": "Quyền và nghĩa vụ của công dân về sở hữu tài sản và tôn trọng tài sản của người khác",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                69,
+                75
+              ],
+              "file": "B09-Quyen-va-nghia-vu-cua-cong-dan-ve-so-huu-tai-san-va-ton-trong-tai-san-cua-nguoi-khac.md",
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd08",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 8",
+          "number": 8,
+          "title": "Quyền và nghĩa vụ của công dân về văn hoá, xã hội",
+          "dir": "Chu-de-08-Quyen-va-nghia-vu-cua-cong-dan-ve-van-hoa-xa-hoi",
+          "children": [
+            {
+              "id": "b10",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 10",
+              "number": 10,
+              "title": "Quyền và nghĩa vụ của công dân trong hôn nhân và gia đình",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                76,
+                85
+              ],
+              "file": "B10-Quyen-va-nghia-vu-cua-cong-dan-trong-hon-nhan-va-gia-dinh.md",
+              "status": "verified"
+            },
+            {
+              "id": "b11",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 11",
+              "number": 11,
+              "title": "Quyền và nghĩa vụ của công dân trong học tập",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                86,
+                90
+              ],
+              "file": "B11-Quyen-va-nghia-vu-cua-cong-dan-trong-hoc-tap.md",
+              "status": "verified"
+            },
+            {
+              "id": "b12",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 12",
+              "number": 12,
+              "title": "Quyền và nghĩa vụ của công dân trong bảo vệ, chăm sóc sức khoẻ và bảo đảm an sinh xã hội",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                91,
+                97
+              ],
+              "printed_offset": 1,
+              "file": "B12-Quyen-va-nghia-vu-cua-cong-dan-trong-bao-ve-cham-soc-suc-khoe-va-bao-dam-an-sinh-xa-hoi.md",
+              "status": "verified"
+            },
+            {
+              "id": "b13",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 13",
+              "number": 13,
+              "title": "Quyền và nghĩa vụ của công dân trong bảo vệ di sản văn hoá, môi trường và tài nguyên thiên nhiên",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                98,
+                103
+              ],
+              "printed_offset": 1,
+              "file": "B13-Quyen-va-nghia-vu-cua-cong-dan-trong-bao-ve-di-san-van-hoa-moi-truong-va-tai-nguyen-thien-nhien.md",
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd09",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 9",
+          "number": 9,
+          "title": "Một số vấn đề cơ bản của luật quốc tế",
+          "dir": "Chu-de-09-Mot-so-van-de-co-ban-cua-luat-quoc-te",
+          "children": [
+            {
+              "id": "b14",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 14",
+              "number": 14,
+              "title": "Một số vấn đề chung về pháp luật quốc tế",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                104,
+                111
+              ],
+              "printed_offset": 1,
+              "file": "B14-Mot-so-van-de-chung-ve-phap-luat-quoc-te.md",
+              "status": "verified"
+            },
+            {
+              "id": "b15",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 15",
+              "number": 15,
+              "title": "Công pháp quốc tế về dân cư, lãnh thổ và chủ quyền quốc gia",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                112,
+                125
+              ],
+              "printed_offset": 1,
+              "file": "B15-Cong-phap-quoc-te-ve-dan-cu-lanh-tho-va-chu-quyen-quoc-gia.md",
+              "status": "verified"
+            },
+            {
+              "id": "b16",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 16",
+              "number": 16,
+              "title": "Nguyên tắc cơ bản của Tổ chức Thương mại thế giới và hợp đồng thương mại quốc tế",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+              "pdf_pages": [
+                126,
+                137
+              ],
+              "printed_offset": 1,
+              "file": "B16-Nguyen-tac-co-ban-cua-to-chuc-thuong-mai-the-gioi-va-hop-dong-thuong-mai-quoc-te.md",
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bang-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Một số thuật ngữ dùng trong sách",
+      "source_file": "SGK GD KT&PL 12 - KNTT.pdf",
+      "pdf_pages": [
+        138,
+        140
+      ],
+      "printed_offset": 1,
+      "file": "Mot-so-thuat-ngu-dung-trong-sach.md",
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "Sách gồm 2 phần lớn: Phần một: Giáo dục kinh tế (Chủ đề 1-6, Bài 1-7) và Phần hai: Giáo dục pháp luật (Chủ đề 7-9, Bài 8-16).",
+    "Trang in 85 bị nhà xuất bản nhảy số trong khâu in ấn (PDF 86 đánh số 84, PDF 87 đánh số 86), do đó độ lệch printed_offset chuyển từ 2 sang 1 kể từ trang PDF 87 (Bài 12 trở đi có offset = 1; Bài 11 trang đầu PDF 86 có offset = 2).",
+    "Bảng 'Một số thuật ngữ dùng trong sách' ở trang PDF 138-140 gồm 17 thuật ngữ chia theo 2 phần: Phần một (8 thuật ngữ) và Phần hai (9 thuật ngữ tính cả WTO)."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-02",
+      "scope": [
+        "p01",
+        "p02"
+      ],
+      "terms": 112,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Mẫu phân tầng 30/112 thuật ngữ (seed 12: 12 mục pháp luật, 10 mục chỉ tiêu kinh tế, 4 mục bảng thuật ngữ và ngoài nguồn, 4 hình minh hoạ biểu đồ/sơ đồ) trải đều cả Phần một và Phần hai, đối chiếu trực tiếp Định nghĩa, Giải nghĩa, Căn cứ pháp lí, trang PDF, trang in, mục với ảnh trang SGK gốc: 0 lỗi (0%). 12 mục Ngoài nguồn có căn cứ văn bản quy phạm pháp luật xác thực. 17/17 mục ở Bảng Một số thuật ngữ dùng trong sách cuối sách được bao phủ 100%."
+    }
+  ],
+  "last_session_note": "2026-11-02: Hoàn thành 100% môn Giáo dục Kinh tế và Pháp luật 12 (Phần một & Phần hai, Chủ đề 1–9, Bài 1–16, Bảng một số thuật ngữ dùng trong sách). Đạt Cổng 0, Cổng 1 (17 file, 4 hình minh hoạ), Cổng 2 & 2b (2 từ điển Tầng 2, 112 thuật ngữ: 73 in_source, 27 described, 12 out_of_source; 100% độ phủ ứng viên và 17/17 mục bảng thuật ngữ), Cổng 3 (dataset/gd_kt_va_pl_12.json hợp lệ schema) và Cổng 4 (kiểm toán mẫu phân tầng 30 mục đạt 0% lỗi). Toàn bộ 16 bài học và bảng thuật ngữ đạt trạng thái verified."
+}
