@@ -1,0 +1,22 @@
+{
+  "H12-tin_hoc_khmt-b01-01": {
+    "pdf_page": 7,
+    "bbox": [316, 458, 529, 618]
+  },
+  "H12-tin_hoc_khmt-b01-02": {
+    "pdf_page": 9,
+    "bbox": [412, 527, 542, 630]
+  },
+  "H12-tin_hoc_khmt-b01-03": {
+    "pdf_page": 10,
+    "bbox": [312, 340, 517, 549]
+  },
+  "H12-tin_hoc_khmt-b02-01": {
+    "pdf_page": 12,
+    "bbox": [261, 197, 535, 372]
+  },
+  "H12-tin_hoc_khmt-b02-02": {
+    "pdf_page": 14,
+    "bbox": [58, 197, 530, 488]
+  }
+}

@@ -1,23 +1,28 @@
 {
-  "status": "chua_khao_sat",
-  "verified_on": null,
+  "status": "da_kiem_chung",
+  "verified_on": "tin_hoc_khmt_12, 2026-11-02",
   "profile": "tin_hoc",
   "subjects": [
     "tin_hoc",
     "tin_cs",
-    "tin_ict"
+    "tin_ict",
+    "tin_hoc_khmt"
   ],
   "section_levels": [
     {
       "prefix": "## ",
       "regex": "^(\\d+)\\. ",
-      "example": "## 1. MỆNH ĐỀ"
+      "example": "## 1. KHÁI NIỆM VỀ AI"
     },
     {
-      "prefix": "**",
+      "prefix": "### ",
       "regex": "^([a-z])\\) ",
-      "example": "**a) Mệnh đề phủ định**"
+      "example": "### a) Thẻ đánh dấu HTML"
     }
+  ],
+  "extra_headings": [
+    "^🚀\\s*Vận dụng.*",
+    "^Vận dụng.*"
   ],
   "formula": "latex",
   "code_blocks": true,
@@ -25,7 +30,11 @@
     "mo_ta",
     "hinh"
   ],
-  "open_questions": [
-    "Mã lệnh chép trong khối ``` ``` kèm tên ngôn ngữ; xác nhận cách sách trình bày mã."
-  ]
+  "conventions": [
+    "Mở đầu bài học bằng khối ## 🎯 Sau bài học này em sẽ: và ## 🔴 Khởi động, phân cấp mục lớn ## 1. ... và tiểu mục ### a) ..., kết bài bằng ## ✏️ Luyện tập và ## 🚀 Vận dụng.",
+    "Các hộp Hoạt động, hộp Kiến thức trọng tâm (khung viền nét đứt màu cam) và Câu hỏi củng cố chép thành khối trích dẫn > .",
+    "Mã nguồn HTML và CSS chép nguyên văn trong khối code chuẩn (```html, ```css); các thẻ HTML nhắc trong dòng văn bản bọc bằng cặp dấu backtick (`<p>`, `<h1>`) để tránh bị hiểu nhầm là thẻ HTML của Markdown.",
+    "Thuật ngữ được in đậm (**...**) tại câu định nghĩa (ưu tiên trong hộp Kiến thức trọng tâm hoặc câu định nghĩa trực tiếp) và gắn nhãn <!-- term: ... --> ngay sau đoạn mô tả khái niệm công nghệ, giao thức mạng, học máy, khoa học dữ liệu."
+  ],
+  "open_questions": []
 }
