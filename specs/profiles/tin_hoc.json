@@ -1,17 +1,18 @@
 {
   "status": "da_kiem_chung",
-  "verified_on": "tin_hoc_khmt_12, 2026-11-02",
+  "verified_on": "tin_hoc_khmt_12, tin_hoc_thud_12, 2026-11-02",
   "profile": "tin_hoc",
   "subjects": [
     "tin_hoc",
     "tin_cs",
     "tin_ict",
-    "tin_hoc_khmt"
+    "tin_hoc_khmt",
+    "tin_hoc_thud"
   ],
   "section_levels": [
     {
       "prefix": "## ",
-      "regex": "^(\\d+)\\. ",
+      "regex": "^(?:Nhiệm vụ\\s+)?(\\d+)[.:] ",
       "example": "## 1. KHÁI NIỆM VỀ AI"
     },
     {
@@ -22,7 +23,8 @@
   ],
   "extra_headings": [
     "^🚀\\s*Vận dụng.*",
-    "^Vận dụng.*"
+    "^Vận dụng.*",
+    "^KHÁI QUÁT NHIỆM VỤ.*"
   ],
   "formula": "latex",
   "code_blocks": true,

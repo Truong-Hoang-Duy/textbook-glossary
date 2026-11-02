@@ -1,0 +1,622 @@
+{
+  "unit": "tin_hoc_thud_12",
+  "subject": "tin_hoc_thud",
+  "subject_name": "Tin học – Định hướng Tin học ứng dụng",
+  "grade": 12,
+  "files": [
+    {
+      "file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+      "volume": null,
+      "page_count": 160,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+      "pdf_pages": [
+        6,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "cd01",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 1",
+      "number": 1,
+      "title": "Máy tính và xã hội tri thức",
+      "dir": "Chu-de-01-May-tinh-va-xa-hoi-tri-thuc",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Làm quen với Trí tuệ nhân tạo",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Lam-quen-voi-Tri-tue-nhan-tao.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            7,
+            10
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Trí tuệ nhân tạo trong khoa học và đời sống",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Tri-tue-nhan-tao-trong-khoa-hoc-va-doi-song.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            11,
+            15
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd02",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 2",
+      "number": 2,
+      "title": "Mạng máy tính và Internet",
+      "dir": "Chu-de-02-Mang-may-tinh-va-Internet",
+      "children": [
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Một số thiết bị mạng thông dụng",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Mot-so-thiet-bi-mang-thong-dung.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            16,
+            22
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Giao thức mạng",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Giao-thuc-mang.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            23,
+            27
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Thực hành chia sẻ tài nguyên trên mạng",
+          "lesson_type": "thuc_hanh",
+          "file": "B05-Thuc-hanh-chia-se-tai-nguyen-tren-mang.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            28,
+            35
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd03",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 3",
+      "number": 3,
+      "title": "Đạo đức, pháp luật và văn hoá trong môi trường số",
+      "dir": "Chu-de-03-Dao-duc-phap-luat-va-van-hoa-trong-moi-truong-so",
+      "children": [
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Giao tiếp và ứng xử trong không gian mạng",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Giao-tiep-va-ung-xu-trong-khong-gian-mang.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            36,
+            40
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd04",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 4",
+      "number": 4,
+      "title": "Giải quyết vấn đề với sự trợ giúp của máy tính",
+      "dir": "Chu-de-04-Giai-quyet-van-de-voi-su-tro-giup-cua-may-tinh",
+      "children": [
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "HTML và cấu trúc trang web",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-HTML-va-cau-truc-trang-web.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            41,
+            47
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Định dạng văn bản",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Dinh-dang-van-ban.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            48,
+            53
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Tạo danh sách, bảng",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Tao-danh-sach-bang.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            54,
+            58
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Tạo liên kết",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Tao-lien-ket.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            59,
+            63
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Chèn tệp tin đa phương tiện và khung nội tuyến vào trang web",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Chen-tep-tin-da-phuong-tien-va-khung-noi-tuyen-vao-trang-web.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            64,
+            68
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Tạo biểu mẫu",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Tao-bieu-mau.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            69,
+            72
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Khái niệm, vai trò của CSS",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Khai-niem-vai-tro-cua-CSS.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            73,
+            77
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Định dạng văn bản bằng CSS",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-Dinh-dang-van-ban-bang-CSS.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            78,
+            84
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Tạo màu cho chữ và nền",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Tao-mau-cho-chu-va-nen.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            85,
+            90
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Định dạng khung",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Dinh-dang-khung.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            91,
+            97
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Các mức ưu tiên của bộ chọn",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Cac-muc-uu-tien-cua-bo-chon.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            98,
+            103
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Thực hành tổng hợp thiết kế trang web",
+          "lesson_type": "thuc_hanh",
+          "file": "B18-Thuc-hanh-tong-hop-thiet-ke-trang-web.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            104,
+            107
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd05",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 5",
+      "number": 5,
+      "title": "Hướng nghiệp với Tin học",
+      "dir": "Chu-de-05-Huong-nghiep-voi-Tin-hoc",
+      "children": [
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Dịch vụ sửa chữa và bảo trì máy tính",
+          "lesson_type": "ly_thuyet",
+          "file": "B19-Dich-vu-sua-chua-va-bao-tri-may-tinh.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            108,
+            111
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Nhóm nghề quản trị thuộc ngành Công nghệ thông tin",
+          "lesson_type": "ly_thuyet",
+          "file": "B20-Nhom-nghe-quan-tri-thuoc-nganh-Cong-nghe-thong-tin.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            112,
+            114
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Hội thảo hướng nghiệp",
+          "lesson_type": "thuc_hanh",
+          "file": "B21-Hoi-thao-huong-nghiep.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            115,
+            119
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd06",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 6",
+      "number": 6,
+      "title": "Máy tính và xã hội tri thức",
+      "dir": "Chu-de-06-May-tinh-va-xa-hoi-tri-thuc",
+      "children": [
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Thực hành kết nối các thiết bị số",
+          "lesson_type": "thuc_hanh",
+          "file": "B22-Thuc-hanh-ket-noi-cac-thiet-bi-so.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            120,
+            127
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd07",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 7",
+      "number": 7,
+      "title": "Ứng dụng tin học",
+      "dir": "Chu-de-07-Ung-dung-tin-hoc",
+      "children": [
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Chuẩn bị xây dựng trang web",
+          "lesson_type": "ly_thuyet",
+          "file": "B23-Chuan-bi-xay-dung-trang-web.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            128,
+            135
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "number": 24,
+          "label": "Bài 24",
+          "title": "Xây dựng phần đầu trang web",
+          "lesson_type": "thuc_hanh",
+          "file": "B24-Xay-dung-phan-dau-trang-web.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            136,
+            140
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Xây dựng phần thân và chân trang web",
+          "lesson_type": "thuc_hanh",
+          "file": "B25-Xay-dung-phan-than-va-chan-trang-web.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            141,
+            145
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b26",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 26",
+          "number": 26,
+          "title": "Liên kết và thanh điều hướng",
+          "lesson_type": "thuc_hanh",
+          "file": "B26-Lien-ket-va-thanh-dieu-huong.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            146,
+            148
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b27",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 27",
+          "number": 27,
+          "title": "Biểu mẫu trên trang web",
+          "lesson_type": "thuc_hanh",
+          "file": "B27-Bieu-mau-tren-trang-web.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            149,
+            152
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b28",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 28",
+          "number": 28,
+          "title": "Thực hành tổng hợp",
+          "lesson_type": "thuc_hanh",
+          "file": "B28-Thuc-hanh-tong-hop.md",
+          "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+          "pdf_pages": [
+            153,
+            157
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ",
+      "file": "Bang-giai-thich-thuat-ngu.md",
+      "source_file": "SGK TIN HỌC 12 ICT - KNTT.pdf",
+      "pdf_pages": [
+        158,
+        158
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [],
+  "audits": [
+    {
+      "date": "2026-11-02",
+      "scope": [
+        "cd01",
+        "cd02",
+        "cd03",
+        "cd04",
+        "cd05",
+        "cd06",
+        "cd07"
+      ],
+      "terms": 277,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán mẫu phân tầng 30 mục trên toàn bộ 7 Chủ đề (AI, thiết bị/giao thức mạng, đạo đức số, cú pháp HTML/CSS, hướng nghiệp CNTT, thực hành kết nối thiết bị số/nhà thông minh Smart Home/IoT và thiết kế website bằng Google Sites/Google Forms) cùng các hình cắt đối chiếu trực tiếp với ảnh trang SGK gốc: khớp 100%, 0 lỗi (0%)."
+    }
+  ],
+  "last_session_note": "Hoàn thành toàn bộ từ Cổng 0 đến Cổng 4 cho môn Tin học 12 – Định hướng Tin học ứng dụng (28 bài học, 167 hình minh hoạ, 7 từ điển chủ đề với 277 thuật ngữ, tích hợp 11/11 mục bảng thuật ngữ cuối sách, kiểm toán 30 mẫu đạt 0 lỗi)."
+}
