@@ -1,0 +1,4652 @@
+{
+  "meta": {
+    "schema_version": "2.3",
+    "unit": "hoa_10",
+    "subject": "hoa",
+    "profile": "hoa",
+    "subject_name": "Hoá học",
+    "grade": 10,
+    "generated_at": "2026-11-03",
+    "counts": {
+      "lessons": 24,
+      "terms": 151,
+      "terms_described": 17,
+      "terms_out_of_source": 20,
+      "open_notes": 0
+    }
+  },
+  "source": {
+    "book_type": "sgk",
+    "series": "Kết nối tri thức với cuộc sống",
+    "publisher": "NXB Giáo dục Việt Nam",
+    "files": [
+      {
+        "file": "SGK Hoa hoc 10.pdf",
+        "volume": null,
+        "page_count": 122,
+        "printed_offset": 1
+      }
+    ]
+  },
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Hoa hoc 10.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "printed_pages": [
+        2,
+        2
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Hoa hoc 10.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "printed_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Hoa hoc 10.pdf",
+      "pdf_pages": [
+        5,
+        6
+      ],
+      "printed_pages": [
+        4,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c01",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 1",
+      "number": 1,
+      "title": "Cấu tạo nguyên tử",
+      "children": [
+        {
+          "id": "b00",
+          "role": "lesson",
+          "kind": "bai",
+          "label": null,
+          "number": null,
+          "title": "Mở đầu",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-01-Cau-tao-nguyen-tu/B00-Mo-dau.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            7,
+            12
+          ],
+          "printed_pages": [
+            6,
+            11
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Nêu được đối tượng nghiên cứu của hoá học.",
+              "Trình bày được phương pháp học tập và nghiên cứu hoá học.",
+              "Nêu được vai trò của hoá học đối với đời sống, sản xuất,..."
+            ],
+            "pdf_page": 7
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b00-01",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b00-01.png",
+              "caption": "Hình 1. Liên hệ giữa hoá học và các ngành khoa học tự nhiên khác",
+              "pdf_page": 7
+            },
+            {
+              "id": "H10-hoa-b00-02",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b00-02.png",
+              "caption": "Hình 2. Một số chuyên ngành trong hoá học",
+              "pdf_page": 7
+            },
+            {
+              "id": "H10-hoa-b00-03",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b00-03.png",
+              "caption": "Hình 3. Phân bón hoá học làm tăng năng suất cây trồng",
+              "pdf_page": 8
+            },
+            {
+              "id": "H10-hoa-b00-04",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b00-04.png",
+              "caption": "Hình 4. Thuốc - sản phẩm của ngành hoá dược",
+              "pdf_page": 9
+            },
+            {
+              "id": "H10-hoa-b00-05",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b00-05.png",
+              "caption": "Hình 5. Nhà hoá học môi trường đang lấy mẫu nghiên cứu",
+              "pdf_page": 9
+            },
+            {
+              "id": "H10-hoa-b00-06",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b00-06.png",
+              "caption": "Hình 6. Phòng thí nghiệm hoá học",
+              "pdf_page": 10
+            },
+            {
+              "id": "H10-hoa-b00-07",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b00-07.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 11
+            }
+          ]
+        },
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Thành phần của nguyên tử",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-01-Cau-tao-nguyen-tu/B01-Thanh-phan-cua-nguyen-tu.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            14,
+            17
+          ],
+          "printed_pages": [
+            13,
+            16
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Trình bày được thành phần của nguyên tử (nguyên tử vô cùng nhỏ; nguyên tử gồm 2 phần: hạt nhân và lớp vỏ nguyên tử; hạt nhân tạo nên bởi các hạt proton (p), neutron (n); lớp vỏ tạo nên bởi các electron (e); điện tích, khối lượng mỗi loại hạt).",
+              "So sánh được khối lượng của electron với proton và neutron, kích thước của hạt nhân với kích thước nguyên tử."
+            ],
+            "pdf_page": 14
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b01-01",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b01-01.png",
+              "caption": "Hình 1.1. Thí nghiệm phát hiện hạt electron",
+              "pdf_page": 14
+            },
+            {
+              "id": "H10-hoa-b01-02",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b01-02.png",
+              "caption": "Hình 1.2. Thí nghiệm phát hiện hạt nhân nguyên tử",
+              "pdf_page": 14
+            },
+            {
+              "id": "H10-hoa-b01-03",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b01-03.png",
+              "caption": "Hình 1.3. Mô phỏng kết quả thí nghiệm bắn phá lá vàng",
+              "pdf_page": 15
+            }
+          ]
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Nguyên tố hoá học",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-01-Cau-tao-nguyen-tu/B02-Nguyen-to-hoa-hoc.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            18,
+            21
+          ],
+          "printed_pages": [
+            17,
+            20
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Trình bày được khái niệm về nguyên tố hoá học, số hiệu nguyên tử và kí hiệu nguyên tử.",
+              "Phát biểu được khái niệm đồng vị, nguyên tử khối.",
+              "Tính được nguyên tử khối trung bình (theo amu) dựa vào khối lượng nguyên tử và phần trăm số nguyên tử của các đồng vị theo phổ khối lượng được cung cấp."
+            ],
+            "pdf_page": 18
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b02-01",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b02-01.png",
+              "caption": "Hình 2.1. Kí hiệu nguyên tử",
+              "pdf_page": 18
+            },
+            {
+              "id": "H10-hoa-b02-02",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b02-02.png",
+              "caption": "Hình 2.2. Mô hình cấu tạo nguyên tử các đồng vị của nguyên tố hydrogen",
+              "pdf_page": 19
+            },
+            {
+              "id": "H10-hoa-b02-03",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b02-03.png",
+              "caption": "Hình 2.3. Phổ khối lượng của chlorine",
+              "pdf_page": 20
+            },
+            {
+              "id": "H10-hoa-b02-04",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b02-04.png",
+              "caption": "Hình 2.4. Phổ khối lượng của neon",
+              "pdf_page": 21
+            }
+          ]
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Cấu trúc lớp vỏ electron nguyên tử",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-01-Cau-tao-nguyen-tu/B03-Cau-truc-lop-vo-electron-nguyen-tu.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            22,
+            26
+          ],
+          "printed_pages": [
+            21,
+            25
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Trình bày và so sánh được mô hình của Rutherford – Bohr với mô hình hiện đại mô tả sự chuyển động của electron trong nguyên tử.",
+              "Nêu được khái niệm về orbital nguyên tử (AO), mô tả được hình dạng của AO (s, p), số lượng electron trong 1 AO.",
+              "Trình bày được khái niệm lớp, phân lớp electron và mối quan hệ về số lượng phân lớp trong một lớp. Liên hệ được về số lượng AO trong một phân lớp, trong một lớp.",
+              "Viết được cấu hình electron nguyên tử theo lớp, phân lớp electron và theo ô orbital khi biết số hiệu nguyên tử $Z$ của 20 nguyên tố đầu tiên trong bảng tuần hoàn.",
+              "Dựa vào đặc điểm cấu hình electron lớp ngoài cùng của nguyên tử dự đoán được tính chất hoá học cơ bản (kim loại hay phi kim) của nguyên tố tương ứng."
+            ],
+            "pdf_page": 22
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b03-01",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b03-01.png",
+              "caption": "Hình 3.1. Mô hình hành tinh nguyên tử của E.Rutherford (Rơ-dơ-pho), N. Bohr (Bo) và A. Sommerfeld (Zom-mơ-phen)",
+              "pdf_page": 22
+            },
+            {
+              "id": "H10-hoa-b03-02",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b03-02.png",
+              "caption": "Hình 3.2. Mô hình đám mây electron của nguyên tử hydrogen",
+              "pdf_page": 22
+            },
+            {
+              "id": "H10-hoa-b03-03",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b03-03.png",
+              "caption": "Hình 3.3. Hình dạng orbital s và p",
+              "pdf_page": 23
+            },
+            {
+              "id": "H10-hoa-b03-04",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b03-04.png",
+              "caption": "Hình 3.4. Cấu hình electron nguyên tử hydrogen",
+              "pdf_page": 24
+            },
+            {
+              "id": "H10-hoa-b03-05",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b03-05.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 25
+            }
+          ]
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Ôn tập chương 1",
+          "lesson_type": "on_tap",
+          "file": "Chuong-01-Cau-tao-nguyen-tu/B04-On-tap-chuong-1.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            27,
+            28
+          ],
+          "printed_pages": [
+            26,
+            27
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b04-01",
+              "file": "Chuong-01-Cau-tao-nguyen-tu/img/H10-hoa-b04-01.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c02",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 2",
+      "number": 2,
+      "title": "Bảng tuần hoàn các nguyên tố hoá học và định luật tuần hoàn",
+      "children": [
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Cấu tạo của bảng tuần hoàn các nguyên tố hoá học",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/B05-Cau-tao-cua-bang-tuan-hoan-cac-nguyen-to-hoa-hoc.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            30,
+            34
+          ],
+          "printed_pages": [
+            29,
+            33
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Nêu được lịch sử phát minh định luật tuần hoàn và bảng tuần hoàn các nguyên tố hoá học.",
+              "Mô tả được cấu tạo của bảng tuần hoàn các nguyên tố hoá học và nêu được các khái niệm liên quan (ô, chu kì, nhóm).",
+              "Nêu được nguyên tắc sắp xếp của bảng tuần hoàn các nguyên tố hoá học (dựa theo cấu hình electron).",
+              "Phân loại được nguyên tố (dựa theo cấu hình electron: nguyên tố s, p, d, f; dựa theo tính chất hoá học: kim loại, phi kim, khí hiếm)."
+            ],
+            "pdf_page": 31
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b05-01",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b05-01.png",
+              "caption": "BẢNG TUẦN HOÀN CÁC NGUYÊN TỐ HOÁ HỌC(*) — (*) Nguồn: IUPAC. Atomic weights of the elements 2019.",
+              "pdf_page": 30
+            },
+            {
+              "id": "H10-hoa-b05-02",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b05-02.png",
+              "caption": "Hình 5.1. Bảng tuần hoàn của D. I. Mendeleev năm 1869",
+              "pdf_page": 31
+            },
+            {
+              "id": "H10-hoa-b05-03",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b05-03.png",
+              "caption": "Hình 5.2. Một ô nguyên tố",
+              "pdf_page": 32
+            }
+          ]
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/B06-Xu-huong-bien-doi-mot-so-tinh-chat-cua-nguyen-tu-cac-nguyen-to-trong-mot-chu-ki-va-trong-mot-nhom.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            35,
+            40
+          ],
+          "printed_pages": [
+            34,
+            39
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Giải thích được xu hướng biến đổi bán kính nguyên tử trong một chu kì, trong một nhóm (nhóm A) (dựa theo lực hút tĩnh điện của hạt nhân với electron ngoài cùng và dựa theo số lớp electron tăng trong một nhóm theo chiều từ trên xuống dưới).",
+              "Nhận xét và giải thích được xu hướng biến đổi độ âm điện và tính kim loại, phi kim của nguyên tử các nguyên tố trong một chu kì, trong một nhóm (nhóm A)."
+            ],
+            "pdf_page": 35
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b06-01",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b06-01.png",
+              "caption": "Hình 6.1. Sự giảm bán kính nguyên tử của các nguyên tố trong chu kì 3",
+              "pdf_page": 36
+            },
+            {
+              "id": "H10-hoa-b06-02",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b06-02.png",
+              "caption": "Hình 6.2. Giá trị bán kính nguyên tử (pm)(*) — (*) Nguồn: Martin S. Silberberg. (2007). Principles of GENERAL CHEMISTRY. McGraw-Hill.",
+              "pdf_page": 36
+            },
+            {
+              "id": "H10-hoa-b06-03",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b06-03.png",
+              "caption": "Hình 6.3. Sự biến đổi năng lượng ion hoá thứ nhất của các nguyên tố chu kì 1, 2 và 3",
+              "pdf_page": 37
+            },
+            {
+              "id": "H10-hoa-b06-04",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b06-04.png",
+              "caption": "Hình 6.4. Sự biến đổi độ âm điện theo chu kì và nhóm",
+              "pdf_page": 38
+            },
+            {
+              "id": "H10-hoa-b06-05",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b06-05.png",
+              "caption": "Hình 6.5. Phản ứng của nước chlorine với dung dịch potassium iodide",
+              "pdf_page": 39
+            },
+            {
+              "id": "H10-hoa-b06-06",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b06-06.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 40
+            },
+            {
+              "id": "H10-hoa-b06-07",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b06-07.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 40
+            }
+          ]
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Xu hướng biến đổi thành phần và một số tính chất của hợp chất trong một chu kì",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/B07-Xu-huong-bien-doi-thanh-phan-va-mot-so-tinh-chat-cua-hop-chat-trong-mot-chu-ki.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            41,
+            43
+          ],
+          "printed_pages": [
+            40,
+            42
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Nhận xét được xu hướng biến đổi thành phần và tính acid – base của các oxide và các hydroxide theo chu kì. Viết được phương trình hoá học minh hoạ."
+            ],
+            "pdf_page": 41
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b07-01",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b07-01.png",
+              "caption": "Bảng 7.2. Tính acid – base của oxide và hydroxide ứng với hoá trị cao nhất của các nguyên tố chu kì 3",
+              "pdf_page": 42
+            }
+          ]
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Định luật tuần hoàn. Ý nghĩa của bảng tuần hoàn các nguyên tố hoá học",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/B08-Dinh-luat-tuan-hoan-Y-nghia-cua-bang-tuan-hoan-cac-nguyen-to-hoa-hoc.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            44,
+            45
+          ],
+          "printed_pages": [
+            43,
+            44
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Phát biểu được định luật tuần hoàn.",
+              "Trình bày được ý nghĩa của bảng tuần hoàn các nguyên tố hoá học: Mối liên hệ giữa vị trí (trong bảng tuần hoàn các nguyên tố hoá học) với tính chất và ngược lại."
+            ],
+            "pdf_page": 44
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b08-01",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b08-01.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 44
+            },
+            {
+              "id": "H10-hoa-b08-02",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b08-02.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 45
+            }
+          ]
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Ôn tập chương 2",
+          "lesson_type": "on_tap",
+          "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/B09-On-tap-chuong-2.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            46,
+            48
+          ],
+          "printed_pages": [
+            45,
+            47
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b09-01",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b09-01.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 46
+            },
+            {
+              "id": "H10-hoa-b09-02",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b09-02.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 46
+            },
+            {
+              "id": "H10-hoa-b09-03",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b09-03.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 47
+            },
+            {
+              "id": "H10-hoa-b09-04",
+              "file": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va/img/H10-hoa-b09-04.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c03",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 3",
+      "number": 3,
+      "title": "Liên kết hoá học",
+      "children": [
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Quy tắc octet",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-03-Lien-ket-hoa-hoc/B10-Quy-tac-octet.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            50,
+            51
+          ],
+          "printed_pages": [
+            49,
+            50
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Trình bày và vận dụng được quy tắc octet trong quá trình hình thành liên kết hoá học cho các nguyên tố nhóm A."
+            ],
+            "pdf_page": 50
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b10-01",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b10-01.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 51
+            }
+          ]
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Liên kết ion",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-03-Lien-ket-hoa-hoc/B11-Lien-ket-ion.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            52,
+            55
+          ],
+          "printed_pages": [
+            51,
+            54
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Trình bày được khái niệm và sự hình thành liên kết ion (nêu một số ví dụ điển hình tuân theo quy tắc octet).",
+              "Nêu được cấu tạo tinh thể $\\ce{NaCl}$. Giải thích được vì sao các hợp chất ion thường ở trạng thái rắn trong điều kiện thường (dạng tinh thể ion).",
+              "Lắp được mô hình tinh thể $\\ce{NaCl}$ (theo mô hình có sẵn)."
+            ],
+            "pdf_page": 52
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b11-01",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b11-01.png",
+              "caption": "Sự tạo thành ion dương (cation); Sự tạo thành ion âm (anion)",
+              "pdf_page": 52
+            },
+            {
+              "id": "H10-hoa-b11-02",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b11-02.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 53
+            },
+            {
+              "id": "H10-hoa-b11-03",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b11-03.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 53
+            },
+            {
+              "id": "H10-hoa-b11-04",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b11-04.png",
+              "caption": "Hình 11.1. Sự sắp xếp của các ion trong tinh thể sodium chloride: a) Mô hình đặc; b) Mô hình rỗng",
+              "pdf_page": 54
+            },
+            {
+              "id": "H10-hoa-b11-05",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b11-05.png",
+              "caption": "Hình 11.2. Potassium hydroxide là hợp chất ion được dùng làm chất dẫn điện trong pin alkaline (pin kiềm)",
+              "pdf_page": 55
+            },
+            {
+              "id": "H10-hoa-b11-06",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b11-06.png",
+              "caption": "Hình 11.3. Dụng cụ thử tính dẫn điện",
+              "pdf_page": 55
+            }
+          ]
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Liên kết cộng hoá trị",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-03-Lien-ket-hoa-hoc/B12-Lien-ket-cong-hoa-tri.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            56,
+            64
+          ],
+          "printed_pages": [
+            55,
+            63
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Trình bày được khái niệm và lấy được ví dụ về liên kết cộng hoá trị (liên kết đơn, đôi, ba) khi áp dụng quy tắc octet.",
+              "Viết được công thức Lewis của một số chất đơn giản.",
+              "Trình bày được khái niệm về liên kết cho – nhận.",
+              "Phân biệt được các loại liên kết (liên kết cộng hoá trị không phân cực, phân cực, liên kết ion) dựa theo độ âm điện.",
+              "Giải thích được sự hình thành liên kết $\\sigma$ và liên kết $\\pi$ qua sự xen phủ AO.",
+              "Trình bày được khái niệm năng lượng liên kết (cộng hoá trị).",
+              "Lắp ráp được mô hình một số phân tử có liên kết cộng hoá trị."
+            ],
+            "pdf_page": 56
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b12-01",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b12-01.png",
+              "caption": "Hình 12.1. Sơ đồ mô tả sự dùng chung cặp electron giữa hai nguyên tử chlorine, tạo thành phân tử chlorine",
+              "pdf_page": 57
+            },
+            {
+              "id": "H10-hoa-b12-02",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b12-02.png",
+              "caption": "Hình 12.2. Sơ đồ sự tạo thành phân tử chlorine",
+              "pdf_page": 57
+            },
+            {
+              "id": "H10-hoa-b12-03",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b12-03.png",
+              "caption": "Hình 12.3. Sơ đồ sự tạo thành phân tử hydrogen chloride",
+              "pdf_page": 57
+            },
+            {
+              "id": "H10-hoa-b12-04",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b12-04.png",
+              "caption": "Hình 12.4. Sơ đồ sự tạo thành ion $\\ce{NH4+}$",
+              "pdf_page": 57
+            },
+            {
+              "id": "H10-hoa-b12-05",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b12-05.png",
+              "caption": "Hình 12.5. Sơ đồ sự tạo thành phân tử oxygen",
+              "pdf_page": 58
+            },
+            {
+              "id": "H10-hoa-b12-06",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b12-06.png",
+              "caption": "Hình 12.6. Sơ đồ sự tạo thành phân tử carbon dioxide",
+              "pdf_page": 58
+            },
+            {
+              "id": "H10-hoa-b12-07",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b12-07.png",
+              "caption": "Hình 12.7. Sơ đồ sự tạo thành phân tử nitrogen",
+              "pdf_page": 58
+            },
+            {
+              "id": "H10-hoa-b12-08",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b12-08.png",
+              "caption": "Hình 12.8. Mô hình một số phân tử có liên kết cộng hoá trị",
+              "pdf_page": 59
+            },
+            {
+              "id": "H10-hoa-b12-09",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b12-09.png",
+              "caption": "Hình 12.9. Sơ đồ xen phủ orbital s và s, tạo liên kết $\\sigma$",
+              "pdf_page": 61
+            },
+            {
+              "id": "H10-hoa-b12-10",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b12-10.png",
+              "caption": "Hình 12.10. Sơ đồ xen phủ orbital s và p, tạo liên kết $\\sigma$",
+              "pdf_page": 61
+            },
+            {
+              "id": "H10-hoa-b12-11",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b12-11.png",
+              "caption": "Hình 12.11. Sơ đồ xen phủ orbital p và p, tạo liên kết $\\sigma$",
+              "pdf_page": 62
+            },
+            {
+              "id": "H10-hoa-b12-12",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b12-12.png",
+              "caption": "Hình 12.12. Sơ đồ xen phủ orbital p và p, tạo liên kết $\\pi$",
+              "pdf_page": 62
+            },
+            {
+              "id": "H10-hoa-b12-13",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b12-13.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 64
+            }
+          ]
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Liên kết hydrogen và tương tác van der Waals",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-03-Lien-ket-hoa-hoc/B13-Lien-ket-hydrogen-va-tuong-tac-van-der-Waals.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            65,
+            68
+          ],
+          "printed_pages": [
+            64,
+            67
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Trình bày được khái niệm liên kết hydrogen. Vận dụng để giải thích sự xuất hiện liên kết hydrogen (với nguyên tố có độ âm điện lớn: $\\ce{N}$, $\\ce{O}$, $\\ce{F}$).",
+              "Nêu được vai trò, ảnh hưởng của liên kết hydrogen tới tính chất vật lí của nước.",
+              "Nêu được khái niệm về tương tác van der Waals và ảnh hưởng của tương tác này tới nhiệt độ nóng chảy, nhiệt độ sôi của các chất."
+            ],
+            "pdf_page": 65
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b13-01",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b13-01.png",
+              "caption": "Hình 13.1. Liên kết hydrogen giữa hai phân tử ammonia",
+              "pdf_page": 65
+            },
+            {
+              "id": "H10-hoa-b13-02",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b13-02.png",
+              "caption": "Hình 13.2. Hai kiểu tạo thành liên kết hydrogen: a) Liên kết giữa các phân tử cùng loại; b) Liên kết giữa các phân tử khác loại",
+              "pdf_page": 66
+            },
+            {
+              "id": "H10-hoa-b13-03",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b13-03.png",
+              "caption": "Hình 13.3. Mô hình cấu trúc nước đá",
+              "pdf_page": 66
+            },
+            {
+              "id": "H10-hoa-b13-04",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b13-04.png",
+              "caption": "Hình 13.4. Mô tả sự tạo thành tương tác van der Waals",
+              "pdf_page": 67
+            },
+            {
+              "id": "H10-hoa-b13-05",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b13-05.png",
+              "caption": "Hình 13.5. Tương tác van der Waals giữa các phân tử pentane và neopentane",
+              "pdf_page": 68
+            }
+          ]
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Ôn tập chương 3",
+          "lesson_type": "on_tap",
+          "file": "Chuong-03-Lien-ket-hoa-hoc/B14-On-tap-chuong-3.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            69,
+            70
+          ],
+          "printed_pages": [
+            68,
+            69
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b14-01",
+              "file": "Chuong-03-Lien-ket-hoa-hoc/img/H10-hoa-b14-01.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c04",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 4",
+      "number": 4,
+      "title": "Phản ứng oxi hoá – khử",
+      "children": [
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Phản ứng oxi hoá – khử",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-04-Phan-ung-oxi-hoa-khu/B15-Phan-ung-oxi-hoa-khu.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            72,
+            78
+          ],
+          "printed_pages": [
+            71,
+            77
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Nêu được khái niệm và xác định được số oxi hoá của nguyên tử các nguyên tố trong hợp chất.",
+              "Nêu được khái niệm và ý nghĩa của phản ứng oxi hoá – khử.",
+              "Lập được phương trình hoá học của phản ứng oxi hoá – khử bằng phương pháp thăng bằng electron.",
+              "Mô tả được một số phản ứng oxi hoá – khử quan trọng trong cuộc sống."
+            ],
+            "pdf_page": 72
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b15-01",
+              "file": "Chuong-04-Phan-ung-oxi-hoa-khu/img/H10-hoa-b15-01.png",
+              "caption": "Hình 15.1. Sơ đồ cấu tạo đèn xì oxygen – acetylene",
+              "pdf_page": 77
+            }
+          ]
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Ôn tập chương 4",
+          "lesson_type": "on_tap",
+          "file": "Chuong-04-Phan-ung-oxi-hoa-khu/B16-On-tap-chuong-4.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            79,
+            80
+          ],
+          "printed_pages": [
+            78,
+            79
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b16-01",
+              "file": "Chuong-04-Phan-ung-oxi-hoa-khu/img/H10-hoa-b16-01.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c05",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 5",
+      "number": 5,
+      "title": "Năng lượng hoá học",
+      "children": [
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Biến thiên enthalpy trong các phản ứng hoá học",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-05-Nang-luong-hoa-hoc/B17-Bien-thien-enthalpy-trong-cac-phan-ung-hoa-hoc.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            82,
+            89
+          ],
+          "printed_pages": [
+            81,
+            88
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Trình bày được khái niệm phản ứng toả nhiệt, thu nhiệt; điều kiện chuẩn; nhiệt tạo thành và biến thiên enthalpy (nhiệt phản ứng) của phản ứng.",
+              "Nêu được ý nghĩa của dấu và giá trị của biến thiên enthalpy chuẩn.",
+              "Tính được biến thiên enthalpy chuẩn của một số phản ứng theo năng lượng liên kết, nhiệt tạo thành."
+            ],
+            "pdf_page": 82
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b17-01",
+              "file": "Chuong-05-Nang-luong-hoa-hoc/img/H10-hoa-b17-01.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 82
+            },
+            {
+              "id": "H10-hoa-b17-02",
+              "file": "Chuong-05-Nang-luong-hoa-hoc/img/H10-hoa-b17-02.png",
+              "caption": "Hình 17.1. Theo dõi sự thay đổi nhiệt độ của phản ứng trung hoà",
+              "pdf_page": 83
+            },
+            {
+              "id": "H10-hoa-b17-03",
+              "file": "Chuong-05-Nang-luong-hoa-hoc/img/H10-hoa-b17-03.png",
+              "caption": "(sách không đánh số, không có chú thích)",
+              "pdf_page": 85
+            },
+            {
+              "id": "H10-hoa-b17-04",
+              "file": "Chuong-05-Nang-luong-hoa-hoc/img/H10-hoa-b17-04.png",
+              "caption": "Hình 17.2. Một mô hình nhiệt lượng kế",
+              "pdf_page": 88
+            }
+          ]
+        },
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Ôn tập chương 5",
+          "lesson_type": "on_tap",
+          "file": "Chuong-05-Nang-luong-hoa-hoc/B18-On-tap-chuong-5.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            90,
+            91
+          ],
+          "printed_pages": [
+            89,
+            90
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": []
+        }
+      ]
+    },
+    {
+      "id": "c06",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 6",
+      "number": 6,
+      "title": "Tốc độ phản ứng",
+      "children": [
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Tốc độ phản ứng",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-06-Toc-do-phan-ung/B19-Toc-do-phan-ung.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            93,
+            101
+          ],
+          "printed_pages": [
+            92,
+            100
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Trình bày được khái niệm tốc độ phản ứng hoá học và cách tính tốc độ trung bình của phản ứng.",
+              "Viết được biểu thức tốc độ phản ứng theo hằng số tốc độ phản ứng và nồng độ (còn gọi là định luật tác dụng khối lượng, chỉ đúng cho phản ứng đơn giản nên không tuỳ ý áp dụng cho mọi phản ứng). Từ đó nêu được ý nghĩa hằng số tốc độ phản ứng.",
+              "Thực hiện được một số thí nghiệm nghiên cứu và giải thích được các yếu tố ảnh hưởng tới tốc độ phản ứng (nồng độ, nhiệt độ, áp suất, diện tích bề mặt, chất xúc tác).",
+              "Nêu được ý nghĩa của hệ số nhiệt độ Van't Hoff.",
+              "Vận dụng được kiến thức tốc độ phản ứng hoá học vào việc giải thích một số vấn đề trong cuộc sống và sản xuất."
+            ],
+            "pdf_page": 93
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b19-01",
+              "file": "Chuong-06-Toc-do-phan-ung/img/H10-hoa-b19-01.png",
+              "caption": "Hình 19.1. Sự thay đổi lượng chất theo thời gian",
+              "pdf_page": 93
+            },
+            {
+              "id": "H10-hoa-b19-02",
+              "file": "Chuong-06-Toc-do-phan-ung/img/H10-hoa-b19-02.png",
+              "caption": "Hình 19.2. Phản ứng xảy ra nhanh: a) Than cháy; Phản ứng xảy ra chậm: b) Sắt bị gỉ, c) Tinh bột lên men rượu",
+              "pdf_page": 93
+            },
+            {
+              "id": "H10-hoa-b19-03",
+              "file": "Chuong-06-Toc-do-phan-ung/img/H10-hoa-b19-03.png",
+              "caption": "*(không có chú thích)*",
+              "pdf_page": 94
+            },
+            {
+              "id": "H10-hoa-b19-04",
+              "file": "Chuong-06-Toc-do-phan-ung/img/H10-hoa-b19-04.png",
+              "caption": "Hình 19.3. Thí nghiệm nghiên cứu ảnh hưởng của nồng độ đến tốc độ phản ứng",
+              "pdf_page": 96
+            },
+            {
+              "id": "H10-hoa-b19-05",
+              "file": "Chuong-06-Toc-do-phan-ung/img/H10-hoa-b19-05.png",
+              "caption": "Hình 19.4. Mối liên hệ giữa tăng áp suất và tăng nồng độ",
+              "pdf_page": 97
+            },
+            {
+              "id": "H10-hoa-b19-06",
+              "file": "Chuong-06-Toc-do-phan-ung/img/H10-hoa-b19-06.png",
+              "caption": "*(không có chú thích)*",
+              "pdf_page": 99
+            },
+            {
+              "id": "H10-hoa-b19-07",
+              "file": "Chuong-06-Toc-do-phan-ung/img/H10-hoa-b19-07.png",
+              "caption": "Hình 19.5. Năng lượng hoạt hoá của phản ứng khi không có xúc tác là A và khi có xúc tác với năng lượng hoạt hoá là B, C của các giai đoạn",
+              "pdf_page": 100
+            },
+            {
+              "id": "H10-hoa-b19-08",
+              "file": "Chuong-06-Toc-do-phan-ung/img/H10-hoa-b19-08.png",
+              "caption": "Hình 19.6. Tiến trình của phản ứng phân huỷ $\\ce{H2O2}$",
+              "pdf_page": 100
+            },
+            {
+              "id": "H10-hoa-b19-09",
+              "file": "Chuong-06-Toc-do-phan-ung/img/H10-hoa-b19-09.png",
+              "caption": "Hình 19.7. Một số ứng dụng thay đổi tốc độ phản ứng",
+              "pdf_page": 101
+            }
+          ]
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Ôn tập chương 6",
+          "lesson_type": "on_tap",
+          "file": "Chuong-06-Toc-do-phan-ung/B20-On-tap-chuong-6.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            102,
+            103
+          ],
+          "printed_pages": [
+            101,
+            102
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b20-01",
+              "file": "Chuong-06-Toc-do-phan-ung/img/H10-hoa-b20-01.png",
+              "caption": "*(không có chú thích)*",
+              "pdf_page": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c07",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 7",
+      "number": 7,
+      "title": "Nguyên tố nhóm halogen",
+      "children": [
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Nhóm halogen",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-07-Nguyen-to-nhom-halogen/B21-Nhom-halogen.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            105,
+            112
+          ],
+          "printed_pages": [
+            104,
+            111
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Nêu được trạng thái tự nhiên của các nguyên tố halogen.",
+              "Mô tả được trạng thái, màu sắc, nhiệt độ nóng chảy, nhiệt độ sôi của các đơn chất halogen.",
+              "Giải thích được sự biến đổi nhiệt độ nóng chảy, nhiệt độ sôi của các đơn chất halogen dựa vào tương tác van der Waals.",
+              "Trình bày được xu hướng các halogen nhận thêm 1 electron (từ kim loại) hoặc dùng chung electron (với phi kim) để tạo hợp chất ion hoặc hợp chất cộng hoá trị dựa theo cấu hình electron.",
+              "Giải thích được xu hướng phản ứng của các đơn chất halogen với hydrogen.",
+              "Viết được phương trình hoá học của phản ứng tự oxi hoá – khử của chlorine.",
+              "Thực hiện được (hoặc quan sát video) một số thí nghiệm chứng minh tính oxi hoá mạnh của các halogen và so sánh tính oxi hoá của các halogen trong nhóm VIIA."
+            ],
+            "pdf_page": 105
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b21-01",
+              "file": "Chuong-07-Nguyen-to-nhom-halogen/img/H10-hoa-b21-01.png",
+              "caption": "Hình 21.1. Rong biển chứa nguyên tố iodine",
+              "pdf_page": 105
+            },
+            {
+              "id": "H10-hoa-b21-02",
+              "file": "Chuong-07-Nguyen-to-nhom-halogen/img/H10-hoa-b21-02.png",
+              "caption": "Hình 21.2. Đá muối Himalaya",
+              "pdf_page": 106
+            },
+            {
+              "id": "H10-hoa-b21-03",
+              "file": "Chuong-07-Nguyen-to-nhom-halogen/img/H10-hoa-b21-03.png",
+              "caption": "Hình 21.3. Thiết bị chụp PET-CT",
+              "pdf_page": 107
+            },
+            {
+              "id": "H10-hoa-b21-04",
+              "file": "Chuong-07-Nguyen-to-nhom-halogen/img/H10-hoa-b21-04.png",
+              "caption": "Hình 21.4. Sự thăng hoa của iodine",
+              "pdf_page": 108
+            },
+            {
+              "id": "H10-hoa-b21-05",
+              "file": "Chuong-07-Nguyen-to-nhom-halogen/img/H10-hoa-b21-05.png",
+              "caption": "Hình 21.5. Chlorine tác dụng với dây sắt (iron) ở nhiệt độ cao",
+              "pdf_page": 109
+            },
+            {
+              "id": "H10-hoa-b21-06",
+              "file": "Chuong-07-Nguyen-to-nhom-halogen/img/H10-hoa-b21-06.png",
+              "caption": "Hình 21.6. Tính tẩy màu của khí chlorine ẩm",
+              "pdf_page": 110
+            },
+            {
+              "id": "H10-hoa-b21-07",
+              "file": "Chuong-07-Nguyen-to-nhom-halogen/img/H10-hoa-b21-07.png",
+              "caption": "Hình 21.7. Phản ứng thế của một số muối halide",
+              "pdf_page": 111
+            }
+          ]
+        },
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Hydrogen halide. Muối halide",
+          "lesson_type": "ly_thuyet",
+          "file": "Chuong-07-Nguyen-to-nhom-halogen/B22-Hydrogen-halide-Muoi-halide.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            113,
+            117
+          ],
+          "printed_pages": [
+            112,
+            116
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu",
+            "items": [
+              "Nhận xét và giải thích được xu hướng biến đổi nhiệt độ sôi của các hydrogen halide từ $\\ce{HCl}$ tới $\\ce{HI}$. Giải thích được sự bất thường về nhiệt độ sôi của $\\ce{HF}$ so với các $\\ce{HX}$ khác.",
+              "Trình bày được xu hướng biến đổi tính acid của dãy hydrohalic acid.",
+              "Thực hiện được thí nghiệm phân biệt các ion $\\ce{F-}$, $\\ce{Cl-}$, $\\ce{Br-}$, $\\ce{I-}$.",
+              "Trình bày được tính khử của các ion halide ($\\ce{Cl-}$, $\\ce{Br-}$, $\\ce{I-}$) thông qua phản ứng với chất oxi hoá là sulfuric acid đặc.",
+              "Nêu được ứng dụng của một số hydrogen halide."
+            ],
+            "pdf_page": 113
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b22-01",
+              "file": "Chuong-07-Nguyen-to-nhom-halogen/img/H10-hoa-b22-01.png",
+              "caption": "*(không có chú thích)*",
+              "pdf_page": 113
+            }
+          ]
+        },
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Ôn tập chương 7",
+          "lesson_type": "on_tap",
+          "file": "Chuong-07-Nguyen-to-nhom-halogen/B23-On-tap-chuong-7.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            118,
+            119
+          ],
+          "printed_pages": [
+            117,
+            118
+          ],
+          "status": "verified",
+          "objectives": null,
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H10-hoa-b23-01",
+              "file": "Chuong-07-Nguyen-to-nhom-halogen/img/H10-hoa-b23-01.png",
+              "caption": "*(không có chú thích)*",
+              "pdf_page": 118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Giải thích một số thuật ngữ dùng trong sách",
+      "file": "Giai-thich-mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK Hoa hoc 10.pdf",
+      "pdf_pages": [
+        120,
+        120
+      ],
+      "printed_pages": [
+        119,
+        119
+      ],
+      "status": "verified"
+    }
+  ],
+  "dictionaries": [
+    {
+      "file": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "name": "tu-dien-hoa-hoc-10-chuong-1",
+      "title": "Từ điển thuật ngữ Hoá học 10 — Chương 1. Cấu tạo nguyên tử (Mở đầu, Bài 1–4)",
+      "group_id": "c01",
+      "lesson_ids": [
+        "b00",
+        "b01",
+        "b02",
+        "b03",
+        "b04"
+      ],
+      "conventions": [
+        "Dùng đúng thuật ngữ ở cột \"Thuật ngữ\", không thay bằng từ đồng nghĩa.",
+        "Dòng có \"[mô tả]\" ở cột Bối cảnh: sách không có câu định nghĩa, giải nghĩa ghép từ các câu mô tả trong bài. Khi ra câu hỏi, không hỏi \"định nghĩa\" của các thuật ngữ này.",
+        "Cột \"Tiếng Anh\" dùng để đối chiếu tài liệu quốc tế, sách không ghi; không đưa vào học liệu cho học sinh trừ khi cần.",
+        "Công thức và kí hiệu nguyên tử viết bằng $\\ce{…}$ (mhchem), ví dụ $\\ce{^{39}_{19}K}$, $\\ce{^4_2He}$, $\\ce{YO4^3-}$.",
+        "Biểu thức toán, đại lượng, cấu hình electron và kí hiệu không phải công thức hoá học viết LaTeX thường ($Z$, $A$, $\\overline{A}$, $\\text{1s}^2\\text{2s}^2\\text{2p}^6$).",
+        "Tên nguyên tố và đơn chất giữ đúng danh pháp in trong sách (hydrogen, helium, nitrogen, oxygen, sodium, potassium, aluminium, copper,...)."
+      ],
+      "status": "verified",
+      "created": "2026-11-03",
+      "updated": "2026-11-03"
+    },
+    {
+      "file": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "name": "tu-dien-hoa-hoc-10-chuong-2",
+      "title": "Từ điển thuật ngữ Hoá học 10 — Chương 2. Bảng tuần hoàn các nguyên tố hoá học và định luật tuần hoàn (Bài 5–9)",
+      "group_id": "c02",
+      "lesson_ids": [
+        "b05",
+        "b06",
+        "b07",
+        "b08",
+        "b09"
+      ],
+      "conventions": [
+        "Dùng đúng thuật ngữ ở cột \"Thuật ngữ\", không thay bằng từ đồng nghĩa.",
+        "Dòng có \"[mô tả]\" ở cột Bối cảnh: sách không có câu định nghĩa, giải nghĩa ghép từ các câu mô tả trong bài. Khi ra câu hỏi, không hỏi \"định nghĩa\" của các thuật ngữ này.",
+        "Cột \"Tiếng Anh\" dùng để đối chiếu tài liệu quốc tế, sách không ghi; không đưa vào học liệu cho học sinh trừ khi cần.",
+        "Công thức và phương trình hoá học viết bằng $\\ce{…}$ (mhchem), ví dụ $\\ce{1s^2 2s^2 2p^6 3s^1}$, $\\ce{Na2O}$, $\\ce{H2SO4}$, $\\ce{X(g) -> X^+(g) + e}$.",
+        "Biểu thức toán, đại lượng và kí hiệu không phải công thức hoá học viết LaTeX thường ($Z$, $I_1$, $\\chi$).",
+        "Tên nguyên tố và hợp chất giữ đúng danh pháp in trong sách (aluminium, sodium, magnesium, potassium, phosphorus, sulfur, chlorine, iodine, gallium, germanium, selenium, oxide, hydroxide, acidic oxide, basic oxide).",
+        "Kí hiệu hoặc tên gọi phụ của thuật ngữ ghi trong ngoặc ở cột \"Thuật ngữ\" (tên phụ) hoặc nằm nguyên văn trong câu ở cột \"Giải nghĩa\"."
+      ],
+      "status": "verified",
+      "created": "2026-11-03",
+      "updated": "2026-11-03"
+    },
+    {
+      "file": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "name": "tu-dien-hoa-hoc-10-chuong-3",
+      "title": "Từ điển thuật ngữ Hoá học 10 — Chương 3. Liên kết hoá học (Bài 10–14)",
+      "group_id": "c03",
+      "lesson_ids": [
+        "b10",
+        "b11",
+        "b12",
+        "b13",
+        "b14"
+      ],
+      "conventions": [
+        "Dùng đúng thuật ngữ ở cột \"Thuật ngữ\", không thay bằng từ đồng nghĩa.",
+        "Dòng có \"[mô tả]\" ở cột Bối cảnh: sách không có câu định nghĩa, giải nghĩa ghép từ các câu mô tả trong bài. Khi ra câu hỏi, không hỏi \"định nghĩa\" của các thuật ngữ này.",
+        "Cột \"Tiếng Anh\" dùng để đối chiếu tài liệu quốc tế, sách không ghi; không đưa vào học liệu cho học sinh trừ khi cần.",
+        "Công thức và phương trình hoá học viết bằng $\\ce{…}$ (mhchem), ví dụ $\\ce{NaCl}$, $\\ce{HCl(g) -> H(g) + Cl(g)}$.",
+        "Biểu thức toán, đại lượng và kí hiệu không phải công thức hoá học viết LaTeX thường ($\\Delta \\chi$, $E_b$, $\\sigma$, $\\pi$, $\\delta^+$, $\\delta^-$).",
+        "Tên chất giữ đúng danh pháp in trong sách (sodium, chlorine, hydrogen, oxygen, nitrogen, phosphorus, ammonia, methane, ethene, ethyne, pentane, neopentane).",
+        "Công thức hoặc tên gọi tắt của thuật ngữ ghi trong ngoặc ở cột \"Thuật ngữ\" (tên phụ) hoặc nằm nguyên văn trong câu ở cột \"Giải nghĩa\"."
+      ],
+      "status": "verified",
+      "created": "2026-11-03",
+      "updated": "2026-11-03"
+    },
+    {
+      "file": "Tu-dien-Hoa-hoc-10-Chuong-4.md",
+      "name": "tu-dien-hoa-hoc-10-chuong-4",
+      "title": "Từ điển thuật ngữ Hoá học 10 — Chương 4. Phản ứng oxi hoá – khử (Bài 15–16)",
+      "group_id": "c04",
+      "lesson_ids": [
+        "b15",
+        "b16"
+      ],
+      "conventions": [
+        "Dùng đúng thuật ngữ ở cột \"Thuật ngữ\", không thay bằng từ đồng nghĩa.",
+        "Dòng có \"[mô tả]\" ở cột Bối cảnh: sách không có câu định nghĩa, giải nghĩa ghép từ các câu mô tả trong bài. Khi ra câu hỏi, không hỏi \"định nghĩa\" của các thuật ngữ này.",
+        "Cột \"Tiếng Anh\" dùng để đối chiếu tài liệu quốc tế, sách không ghi; không đưa vào học liệu cho học sinh trừ khi cần.",
+        "Công thức hoá học và phương trình phản ứng viết bằng $\\ce{…}$ (mhchem), kèm số oxi hoá phía trên nguyên tố bằng `\\overset{...}{\\ce{...}}`.",
+        "Tên nguyên tố, đơn chất và hợp chất giữ đúng danh pháp in trong sách (hydrogen, oxygen, nitrogen, carbon, iron, aluminium, sulfuric acid, nitric acid, copper(II) sulfate,...)."
+      ],
+      "status": "verified",
+      "created": "2026-11-03",
+      "updated": "2026-11-03"
+    },
+    {
+      "file": "Tu-dien-Hoa-hoc-10-Chuong-5.md",
+      "name": "tu-dien-hoa-hoc-10-chuong-5",
+      "title": "Từ điển thuật ngữ Hoá học 10 — Chương 5. Năng lượng hoá học (Bài 17–18)",
+      "group_id": "c05",
+      "lesson_ids": [
+        "b17",
+        "b18"
+      ],
+      "conventions": [
+        "Dùng đúng thuật ngữ ở cột \"Thuật ngữ\", không thay bằng từ đồng nghĩa.",
+        "Dòng có \"[mô tả]\" ở cột Bối cảnh: sách không có câu định nghĩa, giải nghĩa ghép từ các câu mô tả trong bài. Khi ra câu hỏi, không hỏi \"định nghĩa\" của các thuật ngữ này.",
+        "Cột \"Tiếng Anh\" dùng để đối chiếu tài liệu quốc tế, sách không ghi; không đưa vào học liệu cho học sinh trừ khi cần.",
+        "Công thức hoá học và phương trình phản ứng kèm trạng thái vật lí $(s), (l), (g), (aq)$ viết bằng $\\ce{…}$ (mhchem).",
+        "Đại lượng nhiệt hoá học viết LaTeX chuẩn: $\\Delta_r H$, $\\Delta_r H^0_{298}$, $\\Delta_f H$, $\\Delta_f H^0_{298}$, $E_b$."
+      ],
+      "status": "verified",
+      "created": "2026-11-03",
+      "updated": "2026-11-03"
+    },
+    {
+      "file": "Tu-dien-Hoa-hoc-10-Chuong-6.md",
+      "name": "tu-dien-hoa-hoc-10-chuong-6",
+      "title": "Từ điển thuật ngữ Hoá học 10 — Chương 6. Tốc độ phản ứng (Bài 19–20)",
+      "group_id": "c06",
+      "lesson_ids": [
+        "b19",
+        "b20"
+      ],
+      "conventions": [
+        "Dùng đúng thuật ngữ ở cột \"Thuật ngữ\", không thay bằng từ đồng nghĩa.",
+        "Dòng có \"[mô tả]\" ở cột Bối cảnh: sách không có câu định nghĩa, giải nghĩa ghép từ các câu mô tả trong bài. Khi ra câu hỏi, không hỏi \"định nghĩa\" của các thuật ngữ này.",
+        "Cột \"Tiếng Anh\" dùng để đối chiếu tài liệu quốc tế, sách không ghi; không đưa vào học liệu cho học sinh trừ khi cần.",
+        "Công thức hoá học và phương trình phản ứng viết bằng $\\ce{…}$ (mhchem).",
+        "Đại lượng tốc độ phản ứng, hằng số tốc độ, nồng độ, hệ số nhiệt độ viết LaTeX chuẩn: $v_{tb}$, $v$, $k$, $C_A$, $\\Delta C$, $\\Delta t$, $\\gamma$."
+      ],
+      "status": "verified",
+      "created": "2026-11-03",
+      "updated": "2026-11-03"
+    },
+    {
+      "file": "Tu-dien-Hoa-hoc-10-Chuong-7.md",
+      "name": "tu-dien-hoa-hoc-10-chuong-7",
+      "title": "Từ điển thuật ngữ Hoá học 10 — Chương 7. Nguyên tố nhóm halogen (Bài 21–23)",
+      "group_id": "c07",
+      "lesson_ids": [
+        "b21",
+        "b22",
+        "b23"
+      ],
+      "conventions": [
+        "Dùng đúng thuật ngữ ở cột \"Thuật ngữ\", không thay bằng từ đồng nghĩa.",
+        "Dòng có \"[mô tả]\" ở cột Bối cảnh: sách không có câu định nghĩa, giải nghĩa ghép từ các câu mô tả trong bài. Khi ra câu hỏi, không hỏi \"định nghĩa\" của các thuật ngữ này.",
+        "Cột \"Tiếng Anh\" dùng để đối chiếu tài liệu quốc tế, sách không ghi; không đưa vào học liệu cho học sinh trừ khi cần.",
+        "Công thức hoá học và phương trình phản ứng viết bằng $\\ce{…}$ (mhchem), ví dụ $\\ce{F2}$, $\\ce{Cl2}$, $\\ce{Br2}$, $\\ce{I2}$, $\\ce{HX}$, $\\ce{NaClO}$, $\\ce{KClO3}$.",
+        "Tên nguyên tố, đơn chất và hợp chất giữ đúng danh pháp in trong sách (fluorine, chlorine, bromine, iodine, astatine, tennessine, hydrogen halide, hydrohalic acid, muối halide, sodium hypochlorite, potassium chlorate,...)."
+      ],
+      "status": "verified",
+      "created": "2026-11-03",
+      "updated": "2026-11-03"
+    }
+  ],
+  "terms": [
+    {
+      "id": "hoa-10-chat-huu-co",
+      "term": "Chất hữu cơ",
+      "aliases": [],
+      "english": "organic substance",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Thuộc đối tượng nghiên cứu của hoá học (Mở đầu mục I, câu hỏi 2); đối tượng của chuyên ngành hoá học hữu cơ.",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-chat-vo-co",
+      "term": "Chất vô cơ",
+      "aliases": [],
+      "english": "inorganic substance",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Thuộc đối tượng nghiên cứu của hoá học (Mở đầu mục I, câu hỏi 2); đối tượng của chuyên ngành hoá học vô cơ.",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lien-ket-hoa-hoc",
+      "term": "Liên kết hoá học",
+      "aliases": [],
+      "english": "chemical bond",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Khái niệm ban đầu đã học ở cấp Trung học cơ sở và được nghiên cứu bằng phương pháp mô hình (Mở đầu mục I, mục III.4, III.5).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 10, Bài 11, Bài 12",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-bang-tuan-hoan-cac-nguyen-to-hoa-hoc",
+      "term": "Bảng tuần hoàn các nguyên tố hoá học",
+      "aliases": [
+        "bảng tuần hoàn"
+      ],
+      "english": "periodic table of elements",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Sử dụng phương pháp mô hình để nghiên cứu bảng tuần hoàn (Mở đầu mục III.4); các đồng vị có cùng vị trí trong bảng tuần hoàn (Bài 2 mục III); cấu hình electron của 20 nguyên tố đầu tiên trong bảng tuần hoàn (Bài 3 mục III.1, Bảng 3.1).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 5 mục I, pdf:30",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-doi-tuong-nghien-cuu-cua-hoa-hoc",
+      "term": "Đối tượng nghiên cứu của hoá học",
+      "aliases": [],
+      "english": "subject of chemistry",
+      "notation": null,
+      "meaning": "Đối tượng nghiên cứu của hoá học bao gồm các chất hữu cơ, các chất vô cơ, các loại vật liệu tự nhiên và nhân tạo.",
+      "usage_context": "Mở đầu mục I. Hoá học nghiên cứu về thành phần, cấu trúc, tính chất, sự biến đổi của các chất và các hiện tượng kèm theo; liên hệ chặt chẽ với vật lí, sinh học và địa chất (Hình 1).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b00",
+        "section": "I",
+        "pdf_page": 7,
+        "printed_page": 6
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-hoa-hoc-phong-xa",
+      "term": "Hoá học phóng xạ",
+      "aliases": [],
+      "english": "radiochemistry",
+      "notation": null,
+      "meaning": "Hoá học phóng xạ nghiên cứu và sử dụng sự phân rã hạt nhân cho các quá trình hoá lí, sinh hoá,...",
+      "usage_context": "Mở đầu mục II.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b00",
+        "section": "II",
+        "pdf_page": 9,
+        "printed_page": 8
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-phuong-phap-mo-hinh",
+      "term": "Phương pháp mô hình",
+      "aliases": [],
+      "english": "modelling method",
+      "notation": null,
+      "meaning": "Phương pháp mô hình được sử dụng để mô tả, mô phỏng cấu tạo của các hạt quá nhỏ không quan sát được bằng mắt thường như phân tử, nguyên tử và các hạt nhỏ hơn. Từ đó suy ra cấu tạo các vật thể thật trong cuộc sống.",
+      "usage_context": "Mở đầu mục III.4; sử dụng phổ biến trong ba chương đầu tiên về nguyên tử, phân tử, liên kết hoá học và bảng tuần hoàn; vận dụng để mô tả cấu tạo nguyên tử (Bài 1 mục Em có thể).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b00",
+        "section": "III",
+        "pdf_page": 12,
+        "printed_page": 11
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-mo-hinh-hanh-tinh-nguyen-tu",
+      "term": "Mô hình hành tinh nguyên tử",
+      "aliases": [],
+      "english": "planetary model of the atom",
+      "notation": null,
+      "meaning": "Từ thực nghiệm bắn phá lá vàng bằng tia $\\alpha$, Rutherford phát hiện ra cấu tạo rỗng của nguyên tử, phát hiện ra lõi nguyên tử là hạt nhân có khối lượng xấp xỉ khối lượng nguyên tử. Rutherford đề xuất mô hình hành tinh nguyên tử, coi các electron quay xung quanh hạt nhân như các hành tinh quay xung quanh Mặt Trời.",
+      "usage_context": "Mở đầu mục III.4; trình bày và so sánh với mô hình hiện đại trong Bài 3 mục I (Hình 3.1).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b00",
+        "section": "III",
+        "pdf_page": 12,
+        "printed_page": 11
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-phuong-phap-thuc-nghiem",
+      "term": "Phương pháp thực nghiệm",
+      "aliases": [],
+      "english": "experimental method",
+      "notation": null,
+      "meaning": "Phương pháp thực nghiệm đóng vai trò cốt lõi của nghiên cứu hoá học. Các giả thuyết và mô hình hoá đều phải được kiểm chứng bằng thực nghiệm và từ thực nghiệm người ta có thể mô hình hoá thành quy luật.",
+      "usage_context": "Mở đầu mục III.5; sử dụng xuyên suốt Chương trình Giáo dục phổ thông môn Hoá học.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b00",
+        "section": "III",
+        "pdf_page": 12,
+        "printed_page": 11
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-hat-nhan",
+      "term": "Hạt nhân",
+      "aliases": [
+        "hạt nhân nguyên tử"
+      ],
+      "english": "atomic nucleus",
+      "notation": null,
+      "meaning": "Hạt nhân: ở tâm của nguyên tử, chứa các proton mang điện tích dương và các neutron không mang điện (trừ trường hợp $\\ce{^1_1H}$).",
+      "usage_context": "Bài 1 mục I (Hình 1.2); đường kính khoảng $10^{-2}\\text{ pm}$, nhỏ hơn nhiều so với kích thước nguyên tử và tập trung hầu hết khối lượng nguyên tử (Bài 1 mục I, II.1).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "I",
+        "pdf_page": 15,
+        "printed_page": 14
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-vo-nguyen-tu",
+      "term": "Vỏ nguyên tử",
+      "aliases": [
+        "lớp vỏ nguyên tử"
+      ],
+      "english": "atomic shell; electron shell",
+      "notation": null,
+      "meaning": "Vỏ nguyên tử: chứa các electron mang điện tích âm, chuyển động rất nhanh xung quanh hạt nhân.",
+      "usage_context": "Bài 1 mục I; cấu trúc lớp vỏ electron nguyên tử được xét ở Bài 3.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "I",
+        "pdf_page": 15,
+        "printed_page": 14
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-electron",
+      "term": "Electron",
+      "aliases": [
+        "hạt electron",
+        "e"
+      ],
+      "english": "electron",
+      "notation": null,
+      "meaning": "Năm 1897, J. J. Thomson (Tôm-xơn, người Anh) thực hiện thí nghiệm phóng điện qua không khí loãng đã phát hiện ra chùm tia phát ra từ cực âm và bị hút lệch về phía cực dương của điện trường, chứng tỏ chúng mang điện tích âm (xem Hình 1.1). Đó chính là chùm các hạt electron. Electron là một thành phần của nguyên tử.",
+      "usage_context": "Bài 1 mục I (Hình 1.1), Bảng 1.1: kí hiệu e, khối lượng $9,109 \\cdot 10^{-31}\\text{ kg}$ ($\\dfrac{1}{1837} \\approx 0,00055\\text{ amu}$), điện tích $-1,602 \\cdot 10^{-19}\\text{ C}$ (điện tích tương đối $-1$).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "I",
+        "pdf_page": 14,
+        "printed_page": 13
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-proton",
+      "term": "Proton",
+      "aliases": [
+        "hạt proton",
+        "p"
+      ],
+      "english": "proton",
+      "notation": null,
+      "meaning": "Năm 1918, E. Rutherford và các cộng sự khi dùng hạt $\\alpha$ bắn phá nitrogen đã phát hiện ra hạt proton.",
+      "usage_context": "Bài 1 mục I, Bảng 1.1: kí hiệu p, nằm trong hạt nhân, khối lượng $1,673 \\cdot 10^{-27}\\text{ kg}$ ($\\approx 1\\text{ amu}$), điện tích $+1,602 \\cdot 10^{-19}\\text{ C}$ (điện tích tương đối $+1$). Trong nguyên tử, số proton bằng số electron.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "I",
+        "pdf_page": 14,
+        "printed_page": 13
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-neutron",
+      "term": "Neutron",
+      "aliases": [
+        "hạt neutron",
+        "n"
+      ],
+      "english": "neutron",
+      "notation": null,
+      "meaning": "Năm 1932, J. Chadwick (Chat-uých, người Anh), cộng sự của Rutherford, đã phát hiện ra hạt neutron khi bắn phá beryllium bằng các hạt $\\alpha$.",
+      "usage_context": "Bài 1 mục I, Bảng 1.1: kí hiệu n, nằm trong hạt nhân (trừ $\\ce{^1_1H}$), khối lượng $1,675 \\cdot 10^{-27}\\text{ kg}$ ($\\approx 1\\text{ amu}$), điện tích $0\\text{ C}$ (không mang điện).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "I",
+        "pdf_page": 14,
+        "printed_page": 13
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-kich-thuoc-cua-nguyen-tu",
+      "term": "Kích thước của nguyên tử",
+      "aliases": [],
+      "english": "atomic size",
+      "notation": null,
+      "meaning": "Kích thước của nguyên tử là khoảng không gian tạo bởi sự chuyển động của các electron. Các nguyên tử khác nhau có số electron khác nhau nên có kích thước khác nhau. Nếu coi nguyên tử như một khối cầu thì đường kính của nó chỉ khoảng $10^{-10}\\text{ m}$.",
+      "usage_context": "Bài 1 mục II.1; thường biểu diễn bằng đơn vị picomet ($\\text{pm}$, $1\\text{ pm} = 10^{-12}\\text{ m}$) hay Ångström ($\\text{Å}$, $1\\text{ Å} = 10^{-10}\\text{ m}$). Nguyên tử hydrogen có bán kính khoảng $53\\text{ pm}$.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "II.1",
+        "pdf_page": 16,
+        "printed_page": 15
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-khoi-luong-nguyen-tu",
+      "term": "Khối lượng nguyên tử",
+      "aliases": [],
+      "english": "atomic mass",
+      "notation": null,
+      "meaning": "Khối lượng nguyên tử bằng tổng khối lượng các hạt proton, neutron và electron có trong nguyên tử.",
+      "usage_context": "Bài 1 mục II.2; tập trung hầu hết ở hạt nhân và được biểu thị theo đơn vị khối lượng nguyên tử ($\\text{amu}$).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "II.2",
+        "pdf_page": 16,
+        "printed_page": 15
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-don-vi-khoi-luong-nguyen-tu",
+      "term": "Đơn vị khối lượng nguyên tử",
+      "aliases": [
+        "amu",
+        "1 amu"
+      ],
+      "english": "atomic mass unit (amu)",
+      "notation": null,
+      "meaning": "Có thể biểu thị khối lượng nguyên tử theo đơn vị khối lượng nguyên tử, kí hiệu amu.",
+      "usage_context": "Bài 1 mục II.2 và hộp Em có biết: $1\\text{ amu}$ được định nghĩa bằng $\\dfrac{1}{12}$ khối lượng 1 nguyên tử carbon-12 ($1\\text{ amu} = \\dfrac{19,926 \\cdot 10^{-27}\\text{ kg}}{12} = 1,661 \\cdot 10^{-27}\\text{ kg}$).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "II.2",
+        "pdf_page": 16,
+        "printed_page": 15
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-so-don-vi-dien-tich-hat-nhan",
+      "term": "Số đơn vị điện tích hạt nhân",
+      "aliases": [
+        "$Z$"
+      ],
+      "english": "nuclear charge number",
+      "notation": null,
+      "meaning": "Số proton trong hạt nhân nguyên tử bằng số đơn vị điện tích hạt nhân, kí hiệu là $Z$.",
+      "usage_context": "Bài 1 mục III. Ví dụ: hạt nhân nguyên tử Na có 11 proton nên $Z = 11$. Còn được gọi là số hiệu nguyên tử (Bài 2 mục II).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "III",
+        "pdf_page": 17,
+        "printed_page": 16
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-so-khoi",
+      "term": "Số khối",
+      "aliases": [
+        "số nucleon",
+        "$A$"
+      ],
+      "english": "mass number (nucleon number)",
+      "notation": null,
+      "meaning": "Tổng số proton và tổng số neutron (kí hiệu là $N$) trong hạt nhân của một nguyên tử được gọi là số khối (hay số nucleon), kí hiệu là $A$. $A = Z + N$.",
+      "usage_context": "Bài 1 mục III; chỉ số đặt ở phía trên bên trái kí hiệu nguyên tố trong kí hiệu nguyên tử $\\ce{^A_ZX}$ (Bài 2 mục II); nguyên tử khối có thể coi xấp xỉ số khối (Bài 2 mục IV.1).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "III",
+        "pdf_page": 17,
+        "printed_page": 16
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nguyen-to-hoa-hoc",
+      "term": "Nguyên tố hoá học",
+      "aliases": [],
+      "english": "chemical element",
+      "notation": null,
+      "meaning": "Nguyên tố hoá học là tập hợp các nguyên tử có cùng số đơn vị điện tích hạt nhân. Trong nguyên tử, số đơn vị điện tích hạt nhân bằng số electron ở vỏ nguyên tử. Các electron trong nguyên tử quyết định tính chất hoá học của nguyên tử, nên các nguyên tử của cùng một nguyên tố hoá học có tính chất hoá học giống nhau.",
+      "usage_context": "Bài 2 mục I. Ví dụ: tất cả nguyên tử có $Z = 6$ đều thuộc nguyên tố carbon. Đến năm 2016 đã biết 118 nguyên tố hoá học.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "I",
+        "pdf_page": 18,
+        "printed_page": 17
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-so-hieu-nguyen-tu",
+      "term": "Số hiệu nguyên tử",
+      "aliases": [
+        "$Z$"
+      ],
+      "english": "atomic number",
+      "notation": null,
+      "meaning": "Số đơn vị điện tích hạt nhân nguyên tử của một nguyên tố hoá học (còn được gọi là số hiệu nguyên tử ($Z$) của nguyên tố đó) và số khối ($A$) là những đặc trưng cơ bản của một nguyên tử.",
+      "usage_context": "Bài 2 mục II; đặt ở phía dưới bên trái kí hiệu nguyên tố trong kí hiệu nguyên tử $\\ce{^A_ZX}$ (Hình 2.1).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "II",
+        "pdf_page": 18,
+        "printed_page": 17
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-ki-hieu-nguyen-tu",
+      "term": "Kí hiệu nguyên tử",
+      "aliases": [
+        "$\\ce{^A_ZX}$"
+      ],
+      "english": "atomic symbol; nuclide symbol",
+      "notation": null,
+      "meaning": "Khi viết kí hiệu nguyên tử, đặt hai chỉ số đặc trưng ở bên trái kí hiệu nguyên tố, trong đó số hiệu nguyên tử $Z$ ở phía dưới và số khối $A$ ở phía trên.",
+      "usage_context": "Bài 2 mục II, Hình 2.1. Ví dụ: $\\ce{^4_2He}$ cho biết $Z = 2$ (2 proton, 2 electron) và $A = 4$ (số neutron $= 4 - 2 = 2$).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "II",
+        "pdf_page": 19,
+        "printed_page": 18
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-dong-vi",
+      "term": "Đồng vị",
+      "aliases": [],
+      "english": "isotope",
+      "notation": null,
+      "meaning": "Một số nguyên tử có cùng số đơn vị điện tích hạt nhân (có cùng số proton) nhưng có số neutron khác nhau. Những nguyên tử như thế gọi là các đồng vị (cùng vị trí trong bảng tuần hoàn các nguyên tố hoá học) của một nguyên tố hoá học.",
+      "usage_context": "Bài 2 mục III. Ví dụ: ba đồng vị của hydrogen là Protium ($\\ce{^1_1H}$), Deuterium ($\\ce{^2_1H}$), Tritium ($\\ce{^3_1H}$) (Hình 2.2); các đồng vị khác nhau về khối lượng hạt nhân và một số tính chất vật lí.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "III",
+        "pdf_page": 19,
+        "printed_page": 18
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-dong-vi-ben",
+      "term": "Đồng vị bền",
+      "aliases": [],
+      "english": "stable isotope",
+      "notation": null,
+      "meaning": "Ngoài các đồng vị bền, các nguyên tố hoá học còn có một số đồng vị không bền. Các đồng vị không bền được gọi là đồng vị phóng xạ.",
+      "usage_context": "Bài 2 mục III. Ví dụ: chlorine trong tự nhiên có hai đồng vị bền là $\\ce{^{35}_{17}Cl}$ và $\\ce{^{37}_{17}Cl}$ (Bài 2 mục IV.2).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "III",
+        "pdf_page": 19,
+        "printed_page": 18
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-dong-vi-phong-xa",
+      "term": "Đồng vị phóng xạ",
+      "aliases": [],
+      "english": "radioactive isotope; radioisotope",
+      "notation": null,
+      "meaning": "Ngoài các đồng vị bền, các nguyên tố hoá học còn có một số đồng vị không bền. Các đồng vị không bền được gọi là đồng vị phóng xạ. Dạng nguyên tử không bền của một nguyên tố hoá học mà hạt nhân có thể biến đổi thành hạt nhân khác và phát ra tia phóng xạ.",
+      "usage_context": "Bài 2 mục III và Bảng giải thích thuật ngữ cuối sách (pdf:120); sử dụng trong y học, nông nghiệp, nghiên cứu khoa học.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "III",
+        "pdf_page": 19,
+        "printed_page": 18
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nguyen-tu-khoi",
+      "term": "Nguyên tử khối",
+      "aliases": [],
+      "english": "relative atomic mass",
+      "notation": null,
+      "meaning": "Nguyên tử khối là khối lượng tương đối của nguyên tử. Nguyên tử khối của một nguyên tử cho biết khối lượng của nguyên tử đó nặng gấp bao nhiêu lần đơn vị khối lượng nguyên tử. Do khối lượng proton và neutron đều xấp xỉ $1,0\\text{ amu}$, còn khối lượng electron nhỏ hơn rất nhiều ($0,00055\\text{ amu}$), nên có thể coi nguyên tử khối xấp xỉ số khối.",
+      "usage_context": "Bài 2 mục IV.1. Ví dụ: nguyên tử potassium có 19 proton và 20 neutron nên nguyên tử khối xấp xỉ $A = 19 + 20 = 39$.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "IV.1",
+        "pdf_page": 20,
+        "printed_page": 19
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nguyen-tu-khoi-trung-binh",
+      "term": "Nguyên tử khối trung bình",
+      "aliases": [
+        "$\\overline{A}$"
+      ],
+      "english": "average atomic mass",
+      "notation": null,
+      "meaning": "Hầu hết các nguyên tố trong tự nhiên là hỗn hợp của nhiều đồng vị, mỗi đồng vị có tỉ lệ phần trăm số nguyên tử xác định. Nguyên tử khối của một nguyên tố là nguyên tử khối trung bình (kí hiệu là $\\overline{A}$) của hỗn hợp các đồng vị của nguyên tố đó.",
+      "usage_context": "Bài 2 mục IV.2. Công thức: $\\overline{A} = \\dfrac{(X \\cdot a) + (Y \\cdot b) + \\dots}{100}$. Ví dụ: $\\overline{A}_{\\text{Cl}} = \\dfrac{(75,77 \\cdot 35) + (24,23 \\cdot 37)}{100} = 35,48$.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "IV.2",
+        "pdf_page": 20,
+        "printed_page": 19
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-pho-khoi-luong",
+      "term": "Phổ khối lượng",
+      "aliases": [
+        "phổ khối"
+      ],
+      "english": "mass spectrum; mass spectrometry",
+      "notation": null,
+      "meaning": "Phương pháp ion hoá chất và sử dụng mối quan hệ giữa số ion với tỉ lệ khối lượng/điện tích của ion nhằm xác định khối lượng nguyên tử hoặc phân tử của chất.",
+      "usage_context": "Bảng giải thích thuật ngữ cuối sách (pdf:120); dùng để xác định tỉ lệ % số nguyên tử các đồng vị của nguyên tố trong tự nhiên như chlorine (Hình 2.3) và neon (Hình 2.4) (Bài 2 mục IV.2).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "IV.2",
+        "pdf_page": 20,
+        "printed_page": 19
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-dam-may-electron",
+      "term": "Đám mây electron",
+      "aliases": [],
+      "english": "electron cloud",
+      "notation": null,
+      "meaning": "Tuy nhiên, người ta có thể xác định được vùng không gian xung quanh hạt nhân mà ở đó xác suất có mặt (xác suất tìm thấy) electron là lớn nhất (khoảng 90%). Vùng không gian xung quanh hạt nhân tìm thấy electron có thể hình dung như một đám mây electron, được gọi là orbital nguyên tử (Hình 3.2).",
+      "usage_context": "Bài 3 mục I, Hình 3.2 (mô hình đám mây electron của nguyên tử hydrogen).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "I",
+        "pdf_page": 22,
+        "printed_page": 21
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-orbital-nguyen-tu",
+      "term": "Orbital nguyên tử",
+      "aliases": [
+        "AO",
+        "Atomic Orbital"
+      ],
+      "english": "atomic orbital (AO)",
+      "notation": null,
+      "meaning": "Tuy nhiên, người ta có thể xác định được vùng không gian xung quanh hạt nhân mà ở đó xác suất có mặt (xác suất tìm thấy) electron là lớn nhất (khoảng 90%). Vùng không gian xung quanh hạt nhân tìm thấy electron có thể hình dung như một đám mây electron, được gọi là orbital nguyên tử (Hình 3.2). Orbital nguyên tử được kí hiệu là AO (Atomic Orbital).",
+      "usage_context": "Bài 3 mục I; phân loại thành orbital s, orbital p, orbital d và orbital f dựa trên hình dạng và sự định hướng trong không gian (Bài 3 mục I.1).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "I",
+        "pdf_page": 22,
+        "printed_page": 21
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-orbital-s",
+      "term": "Orbital s",
+      "aliases": [
+        "AO s"
+      ],
+      "english": "s orbital",
+      "notation": null,
+      "meaning": "Dựa trên sự khác nhau về hình dạng, sự định hướng của orbital trong nguyên tử để phân loại orbital thành orbital s, orbital p, orbital d và orbital f. Các orbital s có dạng hình cầu và orbital p có dạng hình số 8 nổi (Hình 3.3).",
+      "usage_context": "Bài 3 mục I.1, Hình 3.3; phân lớp s có 1 AO s (Bài 3 mục II.3).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "I.1",
+        "pdf_page": 23,
+        "printed_page": 22
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-orbital-p",
+      "term": "Orbital p",
+      "aliases": [
+        "AO p"
+      ],
+      "english": "p orbital",
+      "notation": null,
+      "meaning": "Dựa trên sự khác nhau về hình dạng, sự định hướng của orbital trong nguyên tử để phân loại orbital thành orbital s, orbital p, orbital d và orbital f. Các orbital s có dạng hình cầu và orbital p có dạng hình số 8 nổi (Hình 3.3).",
+      "usage_context": "Bài 3 mục I.1, Hình 3.3; phân lớp p có 3 AO $\\text{p}_x, \\text{p}_y, \\text{p}_z$ định hướng theo các trục $x, y, z$ (Bài 3 mục II.3).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "I.1",
+        "pdf_page": 23,
+        "printed_page": 22
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-o-orbital",
+      "term": "Ô orbital",
+      "aliases": [],
+      "english": "orbital box",
+      "notation": null,
+      "meaning": "Một AO được biểu diễn bằng một ô vuông, gọi là ô orbital $\\square$.",
+      "usage_context": "Bài 3 mục I.2; dùng để biểu diễn cấu hình electron theo ô orbital (Bài 3 mục III.2).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "I.2",
+        "pdf_page": 23,
+        "printed_page": 22
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nguyen-li-pauli",
+      "term": "Nguyên lí Pauli",
+      "aliases": [
+        "nguyên lí loại trừ Pauli"
+      ],
+      "english": "Pauli exclusion principle",
+      "notation": null,
+      "meaning": "Trong 1 orbital chỉ chứa tối đa 2 electron có chiều tự quay ngược nhau (nguyên lí loại trừ Pauli (Pau-li)). Trong một ô orbital có tối đa 2 electron, ngược nhau về chiều tự quay.",
+      "usage_context": "Bài 3 mục I.2, mục III.2 và Bảng giải thích thuật ngữ cuối sách (pdf:120); nếu orbital có 1 electron thì biểu diễn bằng $\\boxed{\\uparrow}$, có 2 electron thì biểu diễn bằng $\\boxed{\\uparrow\\downarrow}$.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "I.2",
+        "pdf_page": 23,
+        "printed_page": 22
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lop-electron",
+      "term": "Lớp electron",
+      "aliases": [],
+      "english": "electron shell",
+      "notation": null,
+      "meaning": "Lớp electron: chứa các electron có mức năng lượng gần bằng nhau.",
+      "usage_context": "Bài 3 mục II.1 và mục Em đã học; đánh số thứ tự từ trong ra ngoài bằng $n = 1, 2, 3, \\dots, 7$ với tên gọi K, L, M, N, O, P, Q; lớp thứ $n$ có $n^2$ AO ($n \\le 4$).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": null,
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-phan-lop-electron",
+      "term": "Phân lớp electron",
+      "aliases": [],
+      "english": "electron subshell",
+      "notation": null,
+      "meaning": "Phân lớp electron: chứa các electron có mức năng lượng bằng nhau.",
+      "usage_context": "Bài 3 mục II.2 và mục Em đã học; kí hiệu bằng các chữ cái viết thường s, p, d, f; lớp thứ $n$ có $n$ phân lớp ($n \\le 4$); số AO trong các phân lớp: s (1), p (3), d (5), f (7).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": null,
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lop-electron-bao-hoa",
+      "term": "Lớp electron bão hoà",
+      "aliases": [],
+      "english": "saturated electron shell; closed shell",
+      "notation": null,
+      "meaning": "Lớp electron có số electron tối đa gọi là lớp electron bão hoà.",
+      "usage_context": "Bài 3 mục II.3 (câu hỏi 5).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "II.3",
+        "pdf_page": 24,
+        "printed_page": 23
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-cau-hinh-electron-cua-nguyen-tu",
+      "term": "Cấu hình electron của nguyên tử",
+      "aliases": [],
+      "english": "electron configuration",
+      "notation": null,
+      "meaning": "Cấu hình electron của nguyên tử biểu diễn sự phân bố electron trên các phân lớp thuộc các lớp khác nhau.",
+      "usage_context": "Bài 3 mục III, Hình 3.4, Bảng 3.1; cho biết số lớp electron, thứ tự phân lớp electron và số electron trong mỗi lớp và mỗi phân lớp.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "III",
+        "pdf_page": 24,
+        "printed_page": 23
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nguyen-li-vung-ben",
+      "term": "Nguyên lí vững bền",
+      "aliases": [],
+      "english": "Aufbau principle",
+      "notation": null,
+      "meaning": "Các electron trong nguyên tử ở trạng thái cơ bản lần lượt chiếm các orbital có mức năng lượng từ thấp đến cao: 1s 2s 2p 3s 3p 4s ... (nguyên lí vững bền). Ở trạng thái cơ bản, trong nguyên tử các electron chiếm lần lượt những orbital có mức năng lượng từ thấp đến cao.",
+      "usage_context": "Bài 3 mục III, mục III.1 và Bảng giải thích thuật ngữ cuối sách (pdf:120).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "III",
+        "pdf_page": 24,
+        "printed_page": 23
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-quy-tac-hund",
+      "term": "Quy tắc Hund",
+      "aliases": [],
+      "english": "Hund's rule",
+      "notation": null,
+      "meaning": "Trong cùng một phân lớp, các electron sẽ phân bố trên các orbital sao cho số electron độc thân là tối đa và các electron này có chiều tự quay giống nhau (quy tắc Hund (Hun)).",
+      "usage_context": "Bài 3 mục III, mục III.2 và Bảng giải thích thuật ngữ cuối sách (pdf:120).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "III",
+        "pdf_page": 24,
+        "printed_page": 23
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nguyen-to-s",
+      "term": "Nguyên tố s",
+      "aliases": [
+        "nguyên tố p"
+      ],
+      "english": "s-block element (p-block element)",
+      "notation": null,
+      "meaning": "Electron cuối cùng điền vào phân lớp p nên oxygen là nguyên tố p. Electron cuối cùng điền vào phân lớp s nên potassium là nguyên tố s.",
+      "usage_context": "Bài 3 mục III.1; phân loại nguyên tố dựa trên phân lớp mà electron cuối cùng điền vào theo nguyên lí vững bền.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "III.1",
+        "pdf_page": 25,
+        "printed_page": 24
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-electron-lop-ngoai-cung",
+      "term": "Electron lớp ngoài cùng",
+      "aliases": [],
+      "english": "outermost electrons; valence shell electrons",
+      "notation": null,
+      "meaning": "Các electron lớp ngoài cùng quyết định tính chất hoá học cơ bản của nguyên tố (kim loại, phi kim, khí hiếm).",
+      "usage_context": "Bài 3 mục III.3.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "III.3",
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-khi-hiem",
+      "term": "Khí hiếm",
+      "aliases": [],
+      "english": "noble gas",
+      "notation": null,
+      "meaning": "Các nguyên tử có 8 electron lớp ngoài cùng đều rất bền vững, chúng hầu như không tham gia vào các phản ứng hoá học, đó là các nguyên tử khí hiếm (riêng He có số electron lớp ngoài cùng là 2).",
+      "usage_context": "Bài 3 mục III.3. Ví dụ: He ($Z = 2$), Ne ($Z = 10$), Ar ($Z = 18$).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "III.3",
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-kim-loai",
+      "term": "Kim loại",
+      "aliases": [],
+      "english": "metal",
+      "notation": null,
+      "meaning": "Các nguyên tố mà nguyên tử có 1, 2, 3 electron ở lớp ngoài cùng là kim loại (trừ H, He, B).",
+      "usage_context": "Bài 3 mục III.3; nguyên tử có 4 electron ở lớp ngoài cùng có thể là kim loại hoặc phi kim.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "III.3",
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-phi-kim",
+      "term": "Phi kim",
+      "aliases": [],
+      "english": "non-metal",
+      "notation": null,
+      "meaning": "Các nguyên tố mà nguyên tử có 5, 6, 7 electron ở lớp ngoài cùng thường là phi kim.",
+      "usage_context": "Bài 3 mục III.3; nguyên tử có 4 electron ở lớp ngoài cùng có thể là kim loại hoặc phi kim.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "III.3",
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-dien-tich-hat-nhan",
+      "term": "Điện tích hạt nhân",
+      "aliases": [],
+      "english": "nuclear charge",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Cơ sở sắp xếp 118 nguyên tố trong bảng tuần hoàn hiện đại và xét xu hướng biến đổi tuần hoàn tính chất nguyên tử, đơn chất, hợp chất theo chu kì và nhóm (Bài 5–8).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 1 mục II.2, pdf:16",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-so-hieu-nguyen-tu-c02",
+      "term": "Số hiệu nguyên tử",
+      "aliases": [
+        "$Z$"
+      ],
+      "english": "atomic number ($Z$)",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Số thứ tự của ô nguyên tố bằng số hiệu nguyên tử của nguyên tố đó (Bài 5 mục III.1, Hình 5.2); dùng để suy ra số proton, số electron và viết cấu hình electron (Bài 8 mục II).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 2 mục I, pdf:18",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nguyen-tu-khoi-trung-binh-c02",
+      "term": "Nguyên tử khối trung bình",
+      "aliases": [],
+      "english": "average atomic mass",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Một trong các thông tin quan trọng ghi trong ô nguyên tố của bảng tuần hoàn, ví dụ aluminium có nguyên tử khối trung bình là 26,982 (Bài 5 mục III.1, Hình 5.2).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 2 mục III.2, pdf:19",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-cau-hinh-electron",
+      "term": "Cấu hình electron",
+      "aliases": [],
+      "english": "electron configuration",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Cơ sở phân loại các nguyên tố s, p, d, f và xác định nhóm nguyên tố (Bài 5 mục III.3, III.4); sự biến đổi tuần hoàn cấu hình electron lớp ngoài cùng là nguyên nhân của sự biến đổi tuần hoàn tính chất các nguyên tố (Bài 6 mục I; Bài 8 mục II).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 3 mục III.2, pdf:25",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lop-electron-c02",
+      "term": "Lớp electron",
+      "aliases": [],
+      "english": "electron shell",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Các nguyên tố có cùng số lớp electron trong nguyên tử được xếp thành một hàng (chu kì); số thứ tự của chu kì bằng số lớp electron (Bài 5 mục II, III.2).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 3 mục II.1, pdf:23",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-phan-lop-electron-c02",
+      "term": "Phân lớp electron",
+      "aliases": [],
+      "english": "electron subshell",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Cơ sở phân loại các nguyên tố s, p, d, f dựa vào phân lớp mà electron cuối cùng được điền vào (Bài 5 mục III.4.a).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 3 mục II.2, pdf:23",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nguyen-tac-sap-xep-cac-nguyen-to-trong-bang-tuan-hoan",
+      "term": "Nguyên tắc sắp xếp các nguyên tố trong bảng tuần hoàn",
+      "aliases": [],
+      "english": "principles of arranging elements in the periodic table",
+      "notation": null,
+      "meaning": "Bảng tuần hoàn chứa 118 nguyên tố hoá học được sắp xếp theo các nguyên tắc sau: Các nguyên tố được sắp xếp theo chiều tăng dần điện tích hạt nhân nguyên tử; các nguyên tố có cùng số lớp electron trong nguyên tử được xếp thành một hàng; các nguyên tố có cùng số electron hoá trị trong nguyên tử được xếp thành một cột.",
+      "usage_context": "Bài 5 mục II. Khi sắp xếp như vậy, sự tuần hoàn tính chất của các đơn chất và hợp chất được thể hiện qua chu kì (hàng) và nhóm (cột).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "II",
+        "pdf_page": 32,
+        "printed_page": 31
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-electron-hoa-tri",
+      "term": "Electron hoá trị",
+      "aliases": [],
+      "english": "valence electron",
+      "notation": null,
+      "meaning": "Electron hoá trị là các electron có khả năng tham gia tạo thành liên kết hoá học, chúng thường nằm ở lớp electron ngoài cùng và phân lớp sát lớp ngoài cùng.",
+      "usage_context": "Bài 5 mục II (hộp Em có biết), mục III.3. Nguyên tử các nguyên tố trong cùng một nhóm A có số electron hoá trị bằng nhau và bằng số thứ tự của nhóm (trừ He).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "II",
+        "pdf_page": 32,
+        "printed_page": 31
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-o-nguyen-to",
+      "term": "Ô nguyên tố",
+      "aliases": [],
+      "english": "element box (periodic table cell)",
+      "notation": null,
+      "meaning": "Trong bảng tuần hoàn, mỗi nguyên tố được xếp vào một ô, gọi là ô nguyên tố. Số thứ tự của ô là số hiệu nguyên tử của nguyên tố đó. Mỗi ô nguyên tố có các thông tin quan trọng nhất về nguyên tố hoá học như số hiệu nguyên tử, kí hiệu nguyên tố, tên nguyên tố, nguyên tử khối trung bình,...",
+      "usage_context": "Bài 5 mục III.1 (Hình 5.2: ô nguyên tố aluminium ở ô 13).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "III.1",
+        "pdf_page": 32,
+        "printed_page": 31
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-chu-ki",
+      "term": "Chu kì",
+      "aliases": [],
+      "english": "period",
+      "notation": null,
+      "meaning": "Chu kì là dãy các nguyên tố mà nguyên tử của chúng có cùng số lớp electron, được xếp theo chiều điện tích hạt nhân tăng dần.",
+      "usage_context": "Bài 5 mục III.2. Bảng tuần hoàn hiện nay có 7 chu kì; số thứ tự của chu kì bằng số lớp electron của nguyên tử các nguyên tố trong chu kì. Chu kì 1 có 2 nguyên tố, chu kì 2 và 3 mỗi chu kì có 8 nguyên tố, chu kì 4 và 5 mỗi chu kì có 18 nguyên tố, chu kì 6 và 7 mỗi chu kì có 32 nguyên tố.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "III.2",
+        "pdf_page": 33,
+        "printed_page": 32
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nhom-nguyen-to",
+      "term": "Nhóm nguyên tố",
+      "aliases": [
+        "nhóm"
+      ],
+      "english": "group",
+      "notation": null,
+      "meaning": "Nhóm nguyên tố gồm các nguyên tố mà nguyên tử của chúng có cấu hình electron tương tự nhau, do đó có tính chất hoá học gần giống nhau và được xếp thành một cột.",
+      "usage_context": "Bài 5 mục III.3. Bảng tuần hoàn hiện nay có 18 cột, chia thành 8 nhóm A (IA đến VIIIA) và 8 nhóm B (IB đến VIIIB); mỗi nhóm là một cột, riêng nhóm VIIIB gồm 3 cột. Ví dụ: nhóm kim loại kiềm – nhóm IA, nhóm halogen – nhóm VIIA.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "III.3",
+        "pdf_page": 33,
+        "printed_page": 32
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-cac-nguyen-to-s-p-d-f",
+      "term": "Các nguyên tố s, p, d, f",
+      "aliases": [
+        "nguyên tố s",
+        "p",
+        "d",
+        "f"
+      ],
+      "english": "s-, p-, d-, f-block elements",
+      "notation": null,
+      "meaning": "Các nguyên tố s, p, d, f là những nguyên tố mà nguyên tử có electron cuối cùng được điền vào phân lớp s, p, d, f tương ứng.",
+      "usage_context": "Phân loại nguyên tố theo cấu hình electron (Bài 5 mục III.4.a). Ví dụ: $_{11}\\ce{Na}$ ($\\ce{1s^2 2s^2 2p^6 3s^1}$) là nguyên tố s; $_{13}\\ce{Al}$ ($\\ce{1s^2 2s^2 2p^6 3s^2 3p^1}$) là nguyên tố p.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "III.4.a",
+        "pdf_page": 33,
+        "printed_page": 32
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-cac-nhom-a",
+      "term": "Các nhóm A",
+      "aliases": [
+        "nhóm A"
+      ],
+      "english": "A groups (main-group elements)",
+      "notation": null,
+      "meaning": "Các nhóm A: gồm các nguyên tố s (IA, IIA) và nguyên tố p (từ IIIA đến VIIIA, trừ He).",
+      "usage_context": "Bài 5 mục III.4.a; Bài 6 mục I. Nguyên tử của các nguyên tố cùng một nhóm A có số electron lớp ngoài cùng (electron hoá trị) bằng nhau và bằng số thứ tự của nhóm (trừ He).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "III.4.a",
+        "pdf_page": 33,
+        "printed_page": 32
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-cac-nhom-b",
+      "term": "Các nhóm B",
+      "aliases": [
+        "nhóm B"
+      ],
+      "english": "B groups (transition elements)",
+      "notation": null,
+      "meaning": "Các nhóm B: gồm các nguyên tố d (từ IB đến VIIIB) và các nguyên tố f (lanthanides và actinides).",
+      "usage_context": "Bài 5 mục III.4.a, III.4.b. Các nhóm B gồm các nguyên tố d và f đều là kim loại chuyển tiếp.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "III.4.a",
+        "pdf_page": 33,
+        "printed_page": 32
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-phan-loai-nguyen-to-theo-tinh-chat-hoa-hoc",
+      "term": "Phân loại nguyên tố theo tính chất hoá học",
+      "aliases": [],
+      "english": "classification of elements by chemical properties",
+      "notation": null,
+      "meaning": "Các nhóm IA, IIA, IIIA: gồm các nguyên tố s và p là kim loại (trừ H và B). Các nhóm VA, VIA, VIIA: gồm các nguyên tố p, thường là phi kim. Nhóm VIIIA: gồm các nguyên tố khí hiếm. Các nhóm B: gồm các nguyên tố d và f đều là kim loại chuyển tiếp.",
+      "usage_context": "Bài 5 mục III.4.b. Dùng để xác định một nguyên tố là kim loại, phi kim hay khí hiếm từ vị trí của nó trong bảng tuần hoàn.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "III.4.b",
+        "pdf_page": 33,
+        "printed_page": 32
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-cau-hinh-electron-nguyen-tu-cua-cac-nguyen-to-nhom-a",
+      "term": "Cấu hình electron nguyên tử của các nguyên tố nhóm A",
+      "aliases": [],
+      "english": "electron configuration of group A elements",
+      "notation": null,
+      "meaning": "Nhóm A gồm các nguyên tố s và p. Nguyên tử của các nguyên tố cùng một nhóm A có số electron lớp ngoài cùng (electron hoá trị) bằng nhau (trừ He trong nhóm VIIIA). Sau mỗi chu kì, cấu hình electron lớp ngoài cùng của nguyên tử các nguyên tố nhóm A được lặp đi lặp lại một cách tuần hoàn. Sự biến đổi tuần hoàn cấu hình electron lớp ngoài cùng của nguyên tử các nguyên tố khi điện tích hạt nhân tăng dần là nguyên nhân của sự biến đổi tuần hoàn về tính chất của các nguyên tố.",
+      "usage_context": "Bài 6 mục I (Bảng 6.1). Sự giống nhau về số electron hoá trị dẫn đến sự tương tự nhau về tính chất hoá học của các nguyên tố trong cùng nhóm A.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "I",
+        "pdf_page": 35,
+        "printed_page": 34
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-ban-kinh-nguyen-tu",
+      "term": "Bán kính nguyên tử",
+      "aliases": [],
+      "english": "atomic radius",
+      "notation": null,
+      "meaning": "Một cách gần đúng, bán kính nguyên tử được xác định bằng một nửa khoảng cách trung bình giữa hai hạt nhân nguyên tử gần nhau nhất trong chất rắn đơn chất hoặc trong phân tử hai nguyên tử giống nhau.",
+      "usage_context": "Bài 6 mục II (Hình 6.1, 6.2). Bán kính nguyên tử phụ thuộc vào lực hút giữa hạt nhân với các electron lớp ngoài cùng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "II",
+        "pdf_page": 36,
+        "printed_page": 35
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-xu-huong-bien-doi-ban-kinh-nguyen-tu",
+      "term": "Xu hướng biến đổi bán kính nguyên tử",
+      "aliases": [],
+      "english": "periodic trends in atomic radius",
+      "notation": null,
+      "meaning": "Xu hướng biến đổi bán kính nguyên tử: Trong một chu kì, bán kính nguyên tử giảm theo chiều tăng dần của điện tích hạt nhân. Trong một nhóm A, bán kính nguyên tử tăng theo chiều tăng dần của điện tích hạt nhân.",
+      "usage_context": "Bài 6 mục II (Hình 6.1, 6.2). Giải thích bằng sự tăng lực hút giữa hạt nhân với electron lớp ngoài cùng trong một chu kì và sự tăng số lớp electron trong một nhóm A.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "II",
+        "pdf_page": 36,
+        "printed_page": 35
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nang-luong-ion-hoa-thu-nhat",
+      "term": "Năng lượng ion hoá thứ nhất",
+      "aliases": [
+        "$I_1$"
+      ],
+      "english": "first ionization energy ($I_1$)",
+      "notation": null,
+      "meaning": "Năng lượng ion hoá thứ nhất của nguyên tử là năng lượng tối thiểu cần thiết để tách electron thứ nhất ra khỏi nguyên tử ở thể khí, ở trạng thái cơ bản: $\\ce{X(g) -> X^+(g) + e}$. Năng lượng ion hoá thứ nhất kí hiệu là $I_1$, đơn vị là kJ/mol.",
+      "usage_context": "Bài 6 mục II, hộp Em có biết (Hình 6.3). Trong một chu kì, $I_1$ có xu hướng tăng; trong một nhóm A, $I_1$ có xu hướng giảm theo chiều tăng dần của điện tích hạt nhân.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "II",
+        "pdf_page": 37,
+        "printed_page": 36
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-do-am-dien",
+      "term": "Độ âm điện",
+      "aliases": [
+        "$\\chi$"
+      ],
+      "english": "electronegativity ($\\chi$)",
+      "notation": null,
+      "meaning": "Độ âm điện của nguyên tử ($\\chi$) là đại lượng đặc trưng cho khả năng hút electron của nguyên tử một nguyên tố hoá học khi tạo thành liên kết hoá học.",
+      "usage_context": "Bài 6 mục III (Bảng 6.2 theo L. C. Pauling, Hình 6.4). Khi tham gia liên kết hoá học, nguyên tử có độ âm điện nhỏ dễ nhường electron, nguyên tử có độ âm điện lớn dễ nhận electron.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "III",
+        "pdf_page": 37,
+        "printed_page": 36
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-xu-huong-bien-doi-do-am-dien",
+      "term": "Xu hướng biến đổi độ âm điện",
+      "aliases": [],
+      "english": "periodic trends in electronegativity",
+      "notation": null,
+      "meaning": "Xu hướng biến đổi độ âm điện theo chiều tăng dần của điện tích hạt nhân: Độ âm điện tăng từ trái qua phải trong một chu kì (do lực hút giữa hạt nhân với các electron lớp ngoài cùng tăng). Độ âm điện giảm từ trên xuống dưới trong một nhóm A (do số lớp electron tăng, lực hút giữa hạt nhân với các electron lớp ngoài cùng giảm).",
+      "usage_context": "Bài 6 mục III (Bảng 6.2, Hình 6.4).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "III",
+        "pdf_page": 38,
+        "printed_page": 37
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-tinh-kim-loai",
+      "term": "Tính kim loại",
+      "aliases": [],
+      "english": "metallic character",
+      "notation": null,
+      "meaning": "Tính kim loại là tính chất của một nguyên tố mà nguyên tử của nó dễ nhường electron để trở thành ion dương. Nguyên tử của nguyên tố nào càng dễ nhường electron để trở thành ion dương, tính kim loại của nguyên tố đó càng mạnh.",
+      "usage_context": "Bài 6 mục IV.1. So sánh thực nghiệm qua mức độ phản ứng của sodium và magnesium với nước (mục IV.2).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "IV.1",
+        "pdf_page": 39,
+        "printed_page": 38
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-tinh-phi-kim",
+      "term": "Tính phi kim",
+      "aliases": [],
+      "english": "non-metallic character",
+      "notation": null,
+      "meaning": "Tính phi kim là tính chất của một nguyên tố mà nguyên tử của nó dễ nhận electron để trở thành ion âm. Nguyên tử của nguyên tố nào càng dễ nhận electron để trở thành ion âm, tính phi kim của nguyên tố đó càng mạnh.",
+      "usage_context": "Bài 6 mục IV.1. So sánh thực nghiệm qua phản ứng của nước chlorine với dung dịch potassium iodide (mục IV.2, Hình 6.5).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "IV.1",
+        "pdf_page": 39,
+        "printed_page": 38
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-xu-huong-bien-doi-tinh-kim-loai-va-tinh-phi-kim",
+      "term": "Xu hướng biến đổi tính kim loại và tính phi kim",
+      "aliases": [],
+      "english": "periodic trends in metallic and non-metallic character",
+      "notation": null,
+      "meaning": "Xu hướng biến đổi tính kim loại và tính phi kim: Trong một chu kì, theo chiều tăng dần của điện tích hạt nhân, tính kim loại giảm dần và tính phi kim tăng dần. Trong một nhóm A, theo chiều tăng dần của điện tích hạt nhân, tính kim loại tăng dần và tính phi kim giảm dần.",
+      "usage_context": "Bài 6 mục IV.2. Ví dụ: trong chu kì 3 từ $\\ce{Na}$ (kim loại điển hình) đến $\\ce{Cl}$ (phi kim điển hình); trong nhóm IA tính kim loại tăng từ $\\ce{Li}$ đến $\\ce{Cs}$; trong nhóm VIIA tính phi kim giảm từ $\\ce{F}$ đến $\\ce{I}$.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "IV.2",
+        "pdf_page": 39,
+        "printed_page": 38
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-thanh-phan-cua-cac-oxide-va-hydroxide-theo-chu-ki",
+      "term": "Thành phần của các oxide và hydroxide theo chu kì",
+      "aliases": [],
+      "english": "composition of oxides and hydroxides across a period",
+      "notation": null,
+      "meaning": "Hoá trị cao nhất của các nguyên tố nhóm A trong hợp chất với oxygen tăng từ I đến VII khi đi từ trái qua phải trong một chu kì (trừ chu kì 1 và nguyên tố fluorine ở chu kì 2), do đó thành phần của các oxide và hydroxide có sự lặp lại theo chu kì.",
+      "usage_context": "Bài 7 mục I (Bảng 7.1: công thức oxide và hydroxide ứng với hoá trị cao nhất của các nguyên tố thuộc chu kì 2, 3).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "I",
+        "pdf_page": 41,
+        "printed_page": 40
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-xu-huong-bien-doi-tinh-acid-base-cua-oxide-va-hydroxide-theo-chu-ki",
+      "term": "Xu hướng biến đổi tính acid – base của oxide và hydroxide theo chu kì",
+      "aliases": [],
+      "english": "periodic trends in acid–base character of oxides and hydroxides",
+      "notation": null,
+      "meaning": "Trong một chu kì, theo chiều tăng dần của điện tích hạt nhân, tính base của oxide và hydroxide tương ứng giảm dần, đồng thời tính acid của chúng tăng dần.",
+      "usage_context": "Bài 7 mục II (Bảng 7.2). Ví dụ ở chu kì 3: từ $\\ce{Na2O}$ (basic oxide), $\\ce{NaOH}$ (base mạnh) qua $\\ce{Al2O3}$ (oxide lưỡng tính), $\\ce{Al(OH)3}$ (hydroxide lưỡng tính) đến $\\ce{Cl2O7}$ (acidic oxide), $\\ce{HClO4}$ (acid rất mạnh).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "II",
+        "pdf_page": 43,
+        "printed_page": 42
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-dinh-luat-tuan-hoan",
+      "term": "Định luật tuần hoàn",
+      "aliases": [],
+      "english": "periodic law",
+      "notation": null,
+      "meaning": "Nội dung của định luật tuần hoàn: “Tính chất của các nguyên tố và đơn chất, cũng như thành phần và tính chất của các hợp chất tạo nên từ các nguyên tố đó biến đổi tuần hoàn theo chiều tăng của điện tích hạt nhân nguyên tử”.",
+      "usage_context": "Bài 8 mục I. Tổng kết các quy luật biến đổi tuần hoàn về cấu hình electron, bán kính nguyên tử, độ âm điện, tính kim loại – phi kim, thành phần và tính chất của oxide, hydroxide.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "I",
+        "pdf_page": 44,
+        "printed_page": 43
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-y-nghia-cua-bang-tuan-hoan-cac-nguyen-to-hoa-hoc",
+      "term": "Ý nghĩa của bảng tuần hoàn các nguyên tố hoá học",
+      "aliases": [],
+      "english": "significance of the periodic table",
+      "notation": null,
+      "meaning": "Vị trí của nguyên tố trong bảng tuần hoàn các nguyên tố hoá học cho biết cấu hình electron nguyên tử, cấu hình electron nguyên tử quyết định tính chất của các nguyên tố. Vì vậy, có thể dự đoán được tính chất hoá học của các nguyên tố khi biết vị trí của nó trong bảng tuần hoàn các nguyên tố hoá học hay cấu hình electron của nó. Dựa vào định luật tuần hoàn, có thể so sánh tính chất của một nguyên tố với các nguyên tố xung quanh.",
+      "usage_context": "Bài 8 mục II (sơ đồ mối liên hệ giữa Cấu hình electron, Vị trí của nguyên tố trong bảng tuần hoàn và Tính chất của nguyên tố).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "II",
+        "pdf_page": 44,
+        "printed_page": 43
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-cau-hinh-electron-c03",
+      "term": "Cấu hình electron",
+      "aliases": [],
+      "english": "electron configuration",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Nguyên tử có xu hướng đạt tới cấu hình electron bền vững của nguyên tử khí hiếm khi hình thành liên kết hoá học (Bài 10 mục I, II; Bài 11 mục I; Bài 12 mục I).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 3 mục II, pdf:25",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-khi-hiem-c03",
+      "term": "Khí hiếm",
+      "aliases": [],
+      "english": "noble gas",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Các khí hiếm (trừ helium) đều có 8 electron lớp ngoài cùng, là cơ sở của quy tắc octet (Bài 10 mục I, II); các khí hiếm như neon, argon hoá lỏng ở nhiệt độ thấp nhờ tương tác van der Waals (Bài 13 mục III.1).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 3 mục II.2, pdf:25",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-orbital-nguyen-tu-c03",
+      "term": "Orbital nguyên tử",
+      "aliases": [
+        "AO"
+      ],
+      "english": "atomic orbital (AO)",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Sự xen phủ giữa các orbital nguyên tử ($s-s$, $s-p$, $p-p$) tạo thành liên kết $\\sigma$ và liên kết $\\pi$ (Bài 12 mục III.1, III.2); ion $\\ce{H+}$ có orbital trống nhận cặp electron chưa liên kết (Bài 12 mục I.1).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 3 mục I.2, pdf:22",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-tinh-the",
+      "term": "Tinh thể",
+      "aliases": [],
+      "english": "crystal",
+      "notation": null,
+      "meaning": "Dạng rắn của chất trong đó các nguyên tử, ion hoặc phân tử được sắp xếp một cách đều đặn, theo một trật tự nhất định trong không gian.",
+      "usage_context": "Định nghĩa tại Bảng giải thích thuật ngữ cuối sách (pdf:120). Dùng trong khái niệm liên kết hoá học (Bài 10 mục I), tinh thể ion như tinh thể $\\ce{NaCl}$ (Bài 11 mục III.1), tinh thể nước đá (Bài 13 mục II.2).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 120,
+        "printed_page": 119
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lien-ket-hoa-hoc-b10",
+      "term": "Liên kết hoá học",
+      "aliases": [],
+      "english": "chemical bond",
+      "notation": null,
+      "meaning": "Liên kết hoá học là sự kết hợp giữa các nguyên tử tạo thành phân tử hay tinh thể bền vững hơn.",
+      "usage_context": "Bài 10 mục I. Giải thích bằng sự giảm năng lượng khi các nguyên tử kết hợp lại với nhau và xu hướng đạt tới cấu hình electron bền vững của khí hiếm.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "I",
+        "pdf_page": 50,
+        "printed_page": 49
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-electron-hoa-tri-b10",
+      "term": "Electron hoá trị",
+      "aliases": [],
+      "english": "valence electron",
+      "notation": null,
+      "meaning": "Trong các phản ứng hoá học, chỉ có các electron thuộc lớp ngoài cùng và phân lớp sát lớp ngoài cùng tham gia vào quá trình tạo thành liên kết (electron hoá trị).",
+      "usage_context": "Bài 10 mục I. Quy ước biểu diễn bằng các dấu chấm đặt xung quanh kí hiệu nguyên tố (Bảng 10.1). Với nguyên tố nhóm A, số electron hoá trị bằng số thứ tự nhóm.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "I",
+        "pdf_page": 50,
+        "printed_page": 49
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-quy-tac-octet",
+      "term": "Quy tắc octet",
+      "aliases": [],
+      "english": "octet rule",
+      "notation": null,
+      "meaning": "Khi hình thành liên kết hoá học, các nguyên tử có xu hướng nhường, nhận hoặc góp chung electron để đạt tới cấu hình electron bền vững của nguyên tử khí hiếm. Vì các khí hiếm (trừ helium) đều có 8 electron lớp ngoài cùng nên quy tắc này được gọi là quy tắc octet.",
+      "usage_context": "Bài 10 mục II. Áp dụng giải thích sự tạo thành liên kết trong $\\ce{Cl2}$, $\\ce{H2O}$, $\\ce{NaF}$. Lưu ý ngoại lệ như $\\ce{PCl5}$ (lớp ngoài cùng của $\\ce{P}$ có 10 electron, hộp Em có biết).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "II",
+        "pdf_page": 51,
+        "printed_page": 50
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-ion-duong",
+      "term": "Ion dương",
+      "aliases": [
+        "cation"
+      ],
+      "english": "cation (positive ion)",
+      "notation": null,
+      "meaning": "Nguyên tử kim loại nhường electron để tạo thành ion mang điện tích dương (cation).",
+      "usage_context": "Bài 11 mục I. Số đơn vị điện tích của ion dương (cation) bằng số electron mà nguyên tử đã nhường. Ví dụ: $\\ce{Na -> Na+ + 1e}$ (cation sodium), $\\ce{Mg -> Mg^{2+} + 2e}$ (cation magnesium), $\\ce{Al -> Al^{3+} + 3e}$ (cation aluminium).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "I",
+        "pdf_page": 52,
+        "printed_page": 51
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-ion-am",
+      "term": "Ion âm",
+      "aliases": [
+        "anion"
+      ],
+      "english": "anion (negative ion)",
+      "notation": null,
+      "meaning": "Nguyên tử phi kim nhận electron để trở thành ion mang điện tích âm (anion).",
+      "usage_context": "Bài 11 mục I. Số đơn vị điện tích của ion âm (anion) bằng số electron mà nguyên tử đã nhận. Ví dụ: $\\ce{Cl + 1e -> Cl-}$ (anion chloride), $\\ce{F + 1e -> F-}$ (anion fluoride), $\\ce{S + 2e -> S^{2-}}$ (anion sulfide).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "I",
+        "pdf_page": 52,
+        "printed_page": 51
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-ion-don-nguyen-tu",
+      "term": "Ion đơn nguyên tử",
+      "aliases": [],
+      "english": "monatomic ion",
+      "notation": null,
+      "meaning": "Ngoài các ion được tạo thành từ một nguyên tử (ion đơn nguyên tử) như $\\ce{Na+}$, $\\ce{Mg^{2+}}$, $\\ce{Cl-}$,... còn có các ion tạo thành từ hai hay nhiều nguyên tử (ion đa nguyên tử).",
+      "usage_context": "Bài 11 mục I, hộp Em có biết. Phân biệt với ion đa nguyên tử theo số lượng nguyên tử tạo nên ion.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "I",
+        "pdf_page": 52,
+        "printed_page": 51
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-ion-da-nguyen-tu",
+      "term": "Ion đa nguyên tử",
+      "aliases": [],
+      "english": "polyatomic ion",
+      "notation": null,
+      "meaning": "Các ion tạo thành từ hai hay nhiều nguyên tử (ion đa nguyên tử), ví dụ: $\\ce{NH4+}$, $\\ce{OH-}$, $\\ce{NO3-}$, $\\ce{HCO3-}$, $\\ce{SO4^{2-}}$, $\\ce{PO4^{3-}}$,...",
+      "usage_context": "Bài 11 mục I, hộp Em có biết. Ví dụ sự tạo thành ion $\\ce{NH4+}$ có liên kết cho – nhận được xét ở Bài 12 mục I.1.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "I",
+        "pdf_page": 52,
+        "printed_page": 51
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lien-ket-ion",
+      "term": "Liên kết ion",
+      "aliases": [],
+      "english": "ionic bond",
+      "notation": null,
+      "meaning": "Lực hút tĩnh điện giữa các ion mang điện trái dấu trong phân tử (hay tinh thể) tạo ra liên kết ion. Liên kết ion thường được hình thành giữa kim loại điển hình và phi kim điển hình.",
+      "usage_context": "Bài 11 mục II và Bảng giải thích thuật ngữ cuối sách (pdf:120: \"liên kết được tạo thành do lực hút tĩnh điện giữa các ion mang điện tích trái dấu\"). Ví dụ: $\\ce{NaCl}$, $\\ce{CaCl2}$, $\\ce{MgO}$.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "II",
+        "pdf_page": 53,
+        "printed_page": 52
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-hop-chat-ion",
+      "term": "Hợp chất ion",
+      "aliases": [],
+      "english": "ionic compound",
+      "notation": null,
+      "meaning": "Các hợp chất tạo nên từ các ion được gọi là những hợp chất ion.",
+      "usage_context": "Bài 11 mục II, III.2. Thường là chất rắn, khá rắn chắc nhưng giòn, nhiệt độ nóng chảy và nhiệt độ sôi cao, tan nhiều trong nước, dẫn điện khi tan trong nước hoặc khi nóng chảy (không dẫn điện ở trạng thái rắn).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "II",
+        "pdf_page": 53,
+        "printed_page": 52
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-mang-tinh-the-ion",
+      "term": "Mạng tinh thể ion",
+      "aliases": [
+        "tinh thể ion"
+      ],
+      "english": "ionic crystal lattice",
+      "notation": null,
+      "meaning": "Các ion được sắp xếp theo một trật tự nhất định trong không gian theo kiểu mạng lưới, trong đó ở các nút của mạng lưới là những ion dương và ion âm được sắp xếp luân phiên, liên kết chặt chẽ với nhau do sự cân bằng giữa lực hút (các ion trái dấu hút nhau) và lực đẩy (các ion cùng dấu đẩy nhau), tạo thành mạng tinh thể ion.",
+      "usage_context": "Bài 11 mục III.1. Ví dụ: trong tinh thể $\\ce{NaCl}$, mỗi ion $\\ce{Na+}$ được bao quanh bởi 6 ion $\\ce{Cl-}$ gần nhất và ngược lại (Hình 11.1).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "III.1",
+        "pdf_page": 54,
+        "printed_page": 53
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lien-ket-cong-hoa-tri",
+      "term": "Liên kết cộng hoá trị",
+      "aliases": [],
+      "english": "covalent bond",
+      "notation": null,
+      "meaning": "Liên kết cộng hoá trị là liên kết được tạo thành giữa hai nguyên tử bằng một hay nhiều cặp electron dùng chung.",
+      "usage_context": "Bài 12 mục I, I.3 và Bảng giải thích thuật ngữ cuối sách (pdf:120: \"liên kết giữa hai nguyên tử được tạo ra bằng sự dùng chung một hay nhiều cặp electron\"). Thường hình thành giữa các nguyên tử phi kim.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "I.3",
+        "pdf_page": 58,
+        "printed_page": 57
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lien-ket-cho-nhan",
+      "term": "Liên kết cho – nhận",
+      "aliases": [
+        "liên kết cộng hoá trị kiểu cho – nhận"
+      ],
+      "english": "coordinate covalent bond (dative bond)",
+      "notation": null,
+      "meaning": "Liên kết được tạo thành giữa hai nguyên tử bằng các cặp electron dùng chung, các electron này chỉ do một nguyên tử đóng góp.",
+      "usage_context": "Định nghĩa tại Bảng giải thích thuật ngữ cuối sách (pdf:120) và Bài 12 mục I, I.1 (\"Cặp electron dùng chung chỉ do một nguyên tử đóng góp, liên kết giữa hai nguyên tử là liên kết cộng hoá trị kiểu cho – nhận\"). Kí hiệu mũi tên từ nguyên tử cho sang nguyên tử nhận ($\\ce{B -> A}$), ví dụ trong ion $\\ce{NH4+}$ (Hình 12.4).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "I.1",
+        "pdf_page": 57,
+        "printed_page": 56
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-cong-thuc-lewis",
+      "term": "Công thức Lewis",
+      "aliases": [],
+      "english": "Lewis structure (Lewis formula)",
+      "notation": null,
+      "meaning": "Từ công thức electron, thay một cặp electron dùng chung bằng một gạch nối thì thu được công thức Lewis (Li-uýt).",
+      "usage_context": "Bài 12 mục I.1 (Hình 12.2, 12.3, 12.5, 12.6, 12.7). Khác với công thức cấu tạo ở chỗ vẫn biểu diễn các cặp electron hoá trị chưa liên kết bằng dấu chấm.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "I.1",
+        "pdf_page": 57,
+        "printed_page": 56
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lien-ket-don",
+      "term": "Liên kết đơn",
+      "aliases": [],
+      "english": "single bond",
+      "notation": null,
+      "meaning": "Giữa hai nguyên tử có một cặp electron dùng chung (biểu diễn bằng một gạch nối), đó là liên kết đơn.",
+      "usage_context": "Bài 12 mục I.1, III.1. Ví dụ: liên kết trong $\\ce{Cl-Cl}$, $\\ce{H-Cl}$. Các liên kết cộng hoá trị đơn đều là liên kết $\\sigma$.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "I.1",
+        "pdf_page": 57,
+        "printed_page": 56
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lien-ket-doi",
+      "term": "Liên kết đôi",
+      "aliases": [],
+      "english": "double bond",
+      "notation": null,
+      "meaning": "Giữa hai nguyên tử có hai cặp electron dùng chung (biểu diễn bằng hai gạch nối), đó là liên kết đôi.",
+      "usage_context": "Bài 12 mục I.2, III.2. Ví dụ: liên kết trong $\\ce{O=O}$, hai liên kết đôi trong $\\ce{O=C=O}$, liên kết $\\ce{C=C}$ trong $\\ce{C2H4}$. Gồm một liên kết $\\sigma$ và một liên kết $\\pi$.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "I.2",
+        "pdf_page": 58,
+        "printed_page": 57
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lien-ket-ba",
+      "term": "Liên kết ba",
+      "aliases": [],
+      "english": "triple bond",
+      "notation": null,
+      "meaning": "Giữa hai nguyên tử có ba cặp electron dùng chung (biểu diễn bằng ba gạch nối), đó là liên kết ba.",
+      "usage_context": "Bài 12 mục I.3, III.2. Ví dụ: liên kết trong $\\ce{N#N}$, liên kết $\\ce{C#C}$ trong $\\ce{C2H2}$. Gồm một liên kết $\\sigma$ và hai liên kết $\\pi$.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "I.3",
+        "pdf_page": 58,
+        "printed_page": 57
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lien-ket-cong-hoa-tri-khong-phan-cuc",
+      "term": "Liên kết cộng hoá trị không phân cực",
+      "aliases": [
+        "không cực"
+      ],
+      "english": "non-polar covalent bond",
+      "notation": null,
+      "meaning": "Liên kết trong các phân tử $\\ce{Cl2}$, $\\ce{O2}$, $\\ce{N2}$,... có cặp electron dùng chung không bị hút lệch về phía nguyên tử nào được gọi là liên kết cộng hoá trị không phân cực.",
+      "usage_context": "Bài 12 mục I.3, mục II (Bảng 12.1: ứng với hiệu độ âm điện $0 \\le \\lvert\\Delta \\chi\\rvert < 0{,}4$) và Bảng giải thích thuật ngữ cuối sách (pdf:120: \"liên kết mà cặp electron dùng chung không bị lệch về phía nguyên tử nào\").",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "I.3",
+        "pdf_page": 58,
+        "printed_page": 57
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lien-ket-cong-hoa-tri-phan-cuc",
+      "term": "Liên kết cộng hoá trị phân cực",
+      "aliases": [
+        "có cực"
+      ],
+      "english": "polar covalent bond",
+      "notation": null,
+      "meaning": "Liên kết trong phân tử $\\ce{HCl}$ có cặp electron dùng chung lệch về phía nguyên tử có độ âm điện lớn hơn ($\\ce{Cl}$) được gọi là liên kết cộng hoá trị phân cực.",
+      "usage_context": "Bài 12 mục I.3, mục II (Bảng 12.1: ứng với hiệu độ âm điện $0{,}4 \\le \\lvert\\Delta \\chi\\rvert < 1{,}7$, coi là dạng trung gian giữa liên kết cộng hoá trị không phân cực và liên kết ion) và Bảng giải thích thuật ngữ cuối sách (pdf:120).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "I.3",
+        "pdf_page": 58,
+        "printed_page": 57
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-do-am-dien-b12",
+      "term": "Độ âm điện",
+      "aliases": [],
+      "english": "electronegativity",
+      "notation": null,
+      "meaning": "Độ âm điện đặc trưng cho khả năng hút electron của nguyên tử khi hình thành liên kết hoá học. Dựa vào sự khác nhau về độ âm điện giữa các nguyên tử tham gia liên kết, có thể dự đoán được loại liên kết giữa hai nguyên tử đó.",
+      "usage_context": "Bài 12 mục II (Bảng 12.1) và Bài 6 mục II (Chương 2). Hiệu độ âm điện $\\lvert\\Delta \\chi\\rvert$ dùng để phân loại liên kết cộng hoá trị không phân cực ($< 0{,}4$), phân cực ($0{,}4$ đến $< 1{,}7$) và liên kết ion ($\\ge 1{,}7$).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "II",
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-xen-phu-truc",
+      "term": "Xen phủ trục",
+      "aliases": [],
+      "english": "axial overlap (head-on overlap)",
+      "notation": null,
+      "meaning": "Để vùng xen phủ cực đại, các orbital sẽ xen phủ với nhau theo trục liên kết. Sự xen phủ như thế gọi là xen phủ trục, tạo ra liên kết $\\sigma$.",
+      "usage_context": "Bài 12 mục III.1. Gồm sự xen phủ $s-s$ (như $\\ce{H2}$, Hình 12.9), $s-p$ (như $\\ce{HF}$, Hình 12.10) và $p-p$ dọc theo trục liên kết (như $\\ce{Cl2}$, Hình 12.11).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "III.1",
+        "pdf_page": 62,
+        "printed_page": 61
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lien-ket-sigma",
+      "term": "Liên kết $\\sigma$",
+      "aliases": [
+        "liên kết sigma"
+      ],
+      "english": "sigma bond ($\\sigma$ bond)",
+      "notation": null,
+      "meaning": "Sự xen phủ các orbital nguyên tử với nhau theo trục liên kết gọi là xen phủ trục, tạo ra liên kết $\\sigma$. Các liên kết cộng hoá trị đơn đều là liên kết $\\sigma$. Trong liên kết $\\sigma$, mật độ xác suất tìm thấy electron lớn nhất dọc theo trục liên kết.",
+      "usage_context": "Bài 12 mục III.1, III.2. Có mặt trong mọi liên kết đơn, liên kết đôi (1 liên kết $\\sigma$) và liên kết ba (1 liên kết $\\sigma$).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "III.1",
+        "pdf_page": 62,
+        "printed_page": 61
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-do-dai-lien-ket",
+      "term": "Độ dài liên kết",
+      "aliases": [],
+      "english": "bond length",
+      "notation": null,
+      "meaning": "Trong phân tử $\\ce{H2}$, khoảng cách giữa tâm của hai hạt nhân nguyên tử $\\ce{H}$ (độ dài liên kết $\\ce{H-H}$) là 74 pm, ngắn hơn tổng bán kính của hai nguyên tử $\\ce{H}$ (106 pm).",
+      "usage_context": "Bài 12 mục III.1. Khoảng cách giữa hai hạt nhân nguyên tử liên kết với nhau trong phân tử.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "III.1",
+        "pdf_page": 61,
+        "printed_page": 60
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-xen-phu-ben",
+      "term": "Xen phủ bên",
+      "aliases": [],
+      "english": "lateral overlap (side-by-side overlap)",
+      "notation": null,
+      "meaning": "Sự xen phủ, trong đó trục của các orbital tham gia liên kết song song với nhau và vuông góc với đường nối tâm của hai nguyên tử liên kết, được gọi là xen phủ bên. Sự xen phủ bên tạo ra liên kết $\\pi$ (pi).",
+      "usage_context": "Bài 12 mục III.2 (Hình 12.12). Xảy ra giữa các orbital $p$ có trục song song với nhau.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "III.2",
+        "pdf_page": 62,
+        "printed_page": 61
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lien-ket-pi",
+      "term": "Liên kết $\\pi$",
+      "aliases": [
+        "liên kết pi"
+      ],
+      "english": "pi bond ($\\pi$ bond)",
+      "notation": null,
+      "meaning": "Sự xen phủ, trong đó trục của các orbital tham gia liên kết song song với nhau và vuông góc với đường nối tâm của hai nguyên tử liên kết, được gọi là xen phủ bên. Sự xen phủ bên tạo ra liên kết $\\pi$ (pi).",
+      "usage_context": "Bài 12 mục III.2 (Hình 12.12). Có mặt trong liên kết đôi (1 liên kết $\\sigma$ và 1 liên kết $\\pi$) và liên kết ba (1 liên kết $\\sigma$ và 2 liên kết $\\pi$).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "III.2",
+        "pdf_page": 62,
+        "printed_page": 61
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nang-luong-lien-ket",
+      "term": "Năng lượng liên kết",
+      "aliases": [
+        "$E_b$"
+      ],
+      "english": "bond energy ($E_b$)",
+      "notation": null,
+      "meaning": "Năng lượng liên kết ($E_b$) là năng lượng cần thiết để phá vỡ một liên kết hoá học trong phân tử ở thể khí thành các nguyên tử ở thể khí. Năng lượng liên kết thường có đơn vị là kJ/mol.",
+      "usage_context": "Bài 12 mục IV (Bảng 12.2). Đặc trưng cho độ bền của liên kết: $E_b$ càng lớn thì liên kết càng bền và phân tử càng khó bị phân huỷ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "IV",
+        "pdf_page": 62,
+        "printed_page": 61
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lien-ket-hydrogen",
+      "term": "Liên kết hydrogen",
+      "aliases": [],
+      "english": "hydrogen bond",
+      "notation": null,
+      "meaning": "Nguyên tử hydrogen trong các phân tử $\\ce{HF}$, $\\ce{H2O}$, $\\ce{NH3}$ rất linh động, có điện tích dương ($\\delta^+$) đủ lớn để hút cặp electron hoá trị chưa liên kết trên nguyên tử $\\ce{F}$, $\\ce{O}$ hoặc $\\ce{N}$ (của phân tử khác) có độ âm điện lớn tạo thành liên kết hydrogen. Liên kết hydrogen được hình thành giữa nguyên tử $\\ce{H}$ (đã liên kết với một nguyên tử có độ âm điện lớn) với một nguyên tử khác (có độ âm điện lớn) còn cặp electron hoá trị chưa tham gia liên kết.",
+      "usage_context": "Bài 13 mục II.1, mục Em đã học. Biểu diễn bằng dấu ba chấm ($\\cdots$) (Hình 13.1, 13.2). Làm tăng nhiệt độ nóng chảy, nhiệt độ sôi của nước và tạo cấu trúc tứ diện rỗng của nước đá (mục II.2, Hình 13.3).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "II.1",
+        "pdf_page": 65,
+        "printed_page": 64
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-tuong-tac-van-der-waals",
+      "term": "Tương tác van der Waals",
+      "aliases": [],
+      "english": "van der Waals interaction",
+      "notation": null,
+      "meaning": "Tương tác van der Waals là tương tác tĩnh điện lưỡng cực – lưỡng cực giữa các nguyên tử hay phân tử.",
+      "usage_context": "Bài 13 mục III.1. Tăng theo sự tăng của số electron (và proton) cũng như diện tích tiếp xúc giữa các phân tử, làm tăng nhiệt độ nóng chảy và nhiệt độ sôi của các chất (mục III.2, Bảng 13.2, Hình 13.5).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "III.1",
+        "pdf_page": 67,
+        "printed_page": 66
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-luong-cuc-tam-thoi",
+      "term": "Lưỡng cực tạm thời",
+      "aliases": [],
+      "english": "temporary dipole (instantaneous dipole)",
+      "notation": null,
+      "meaning": "Các nguyên tử khí hiếm hoặc các chất cộng hoá trị không phân cực, do đám mây electron luôn chuyển động nên cũng có thể tạo ra một lưỡng cực tạm thời. Lực hút giữa một đầu mang một phần điện tích âm ($\\delta^-$) của lưỡng cực trong phân tử này và một đầu mang một phần điện tích dương ($\\delta^+$) của lưỡng cực trong phân tử khác tạo thành tương tác van der Waals.",
+      "usage_context": "Bài 13 mục III.1, hộp Em có biết (Hình 13.4). Giải thích sự xuất hiện tương tác van der Waals giữa các nguyên tử khí hiếm hoặc các phân tử không phân cực.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "III.1",
+        "pdf_page": 67,
+        "printed_page": 66
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-do-am-dien-c04",
+      "term": "Độ âm điện",
+      "aliases": [],
+      "english": "electronegativity",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Dùng làm căn cứ quy ước chiều dịch chuyển hoàn toàn của các electron liên kết khi xác định số oxi hoá của nguyên tử trong phân tử (Bài 15 mục I.1).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 6 mục II, pdf:36",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-electron-hoa-tri-c04",
+      "term": "Electron hoá trị",
+      "aliases": [],
+      "english": "valence electron",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Trong phân tử các hợp chất, các kim loại điển hình có số oxi hoá dương và có giá trị bằng số electron hoá trị (Bài 15 mục I.2, Quy tắc 2).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 5 mục II, pdf:32",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-ion-don-nguyen-tu-c04",
+      "term": "Ion đơn nguyên tử",
+      "aliases": [
+        "ion đa nguyên tử"
+      ],
+      "english": "monatomic ion (polyatomic ion)",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Dùng trong Quy tắc 4 khi xác định số oxi hoá của nguyên tử trong ion đơn nguyên tử và ion đa nguyên tử (Bài 15 mục I.2).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 11 mục I.1, pdf:54",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-so-oxi-hoa",
+      "term": "Số oxi hoá",
+      "aliases": [],
+      "english": "oxidation number; oxidation state",
+      "notation": null,
+      "meaning": "Số oxi hoá là điện tích quy ước của nguyên tử trong phân tử khi coi tất cả các electron liên kết đều chuyển hoàn toàn về nguyên tử có độ âm điện lớn hơn. Số oxi hoá được viết ở dạng số đại số, dấu viết trước, số viết sau.",
+      "usage_context": "Bài 15 mục I.1, mục Em đã học. Ví dụ: trong $\\ce{NaCl}$, số oxi hoá của $\\ce{Na}$ là $+1$, của $\\ce{Cl}$ là $-1$ ($\\overset{+1}{\\ce{Na}}\\overset{-1}{\\ce{Cl}}$); trong $\\ce{H2O}$, số oxi hoá của $\\ce{H}$ là $+1$, của $\\ce{O}$ là $-2$ ($\\overset{+1}{\\ce{H}}_2\\overset{-2}{\\ce{O}}$); trong $\\ce{H2}$, số oxi hoá của $\\ce{H}$ là $0$ ($\\overset{0}{\\ce{H}}_2$). Dùng để nhận biết và lập phương trình hoá học của phản ứng oxi hoá – khử.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "I.1",
+        "pdf_page": 72,
+        "printed_page": 71
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-quy-tac-xac-dinh-so-oxi-hoa",
+      "term": "Quy tắc xác định số oxi hoá",
+      "aliases": [],
+      "english": "rules for assigning oxidation numbers",
+      "notation": null,
+      "meaning": "Quy tắc 1. Trong đơn chất, số oxi hoá của nguyên tử bằng 0. Quy tắc 2. Trong phân tử các hợp chất, thông thường số oxi hoá của hydrogen là $+1$, của oxygen là $-2$, các kim loại điển hình có số oxi hoá dương và có giá trị bằng số electron hoá trị. Quy tắc 3. Trong hợp chất, tổng số oxi hoá của các nguyên tử trong phân tử bằng 0. Quy tắc 4. Trong ion đơn nguyên tử, số oxi hoá của nguyên tử bằng điện tích ion; trong ion đa nguyên tử, tổng số oxi hoá của các nguyên tử bằng điện tích ion.",
+      "usage_context": "Bài 15 mục I.2, Bảng 15.1, mục Em đã học. Vận dụng để tính số oxi hoá của một nguyên tử trong phân tử hoặc ion khi biết số oxi hoá của các nguyên tử còn lại (ví dụ xác định số oxi hoá $+4$ của $\\ce{C}$ trong $\\ce{CaCO3}$).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "I.2",
+        "pdf_page": 73,
+        "printed_page": 72
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-chat-khu",
+      "term": "Chất khử",
+      "aliases": [],
+      "english": "reducing agent; reductant",
+      "notation": null,
+      "meaning": "Chất khử là chất nhường electron, chất oxi hoá là chất nhận electron.",
+      "usage_context": "Bài 15 mục II.1, mục Em đã học, Bài 16 mục I. Ví dụ: $\\ce{C}$ trong phản ứng đốt than, $\\ce{CH4}$ trong phản ứng đốt cháy methane, $\\ce{CO}$ trong phản ứng khử $\\ce{Fe2O3}$.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "II.1",
+        "pdf_page": 74,
+        "printed_page": 73
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-chat-oxi-hoa",
+      "term": "Chất oxi hoá",
+      "aliases": [],
+      "english": "oxidizing agent; oxidant",
+      "notation": null,
+      "meaning": "Chất khử là chất nhường electron, chất oxi hoá là chất nhận electron.",
+      "usage_context": "Bài 15 mục II.1, mục Em đã học, Bài 16 mục I. Ví dụ: $\\ce{O2}$ trong phản ứng cháy, $\\ce{Fe2O3}$ trong phản ứng luyện gang, $\\ce{KMnO4}$ trong chuẩn độ xác định hàm lượng chất khử.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "II.1",
+        "pdf_page": 74,
+        "printed_page": 73
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-qua-trinh-oxi-hoa",
+      "term": "Quá trình oxi hoá",
+      "aliases": [],
+      "english": "oxidation process",
+      "notation": null,
+      "meaning": "Quá trình oxi hoá là quá trình chất khử nhường electron, quá trình khử là quá trình chất oxi hoá nhận electron.",
+      "usage_context": "Bài 15 mục II.1, mục Em đã học, Bài 16 mục I. Ví dụ: $\\overset{0}{\\ce{C}} \\longrightarrow \\overset{+4}{\\ce{C}} + 4\\text{e}$.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "II.1",
+        "pdf_page": 74,
+        "printed_page": 73
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-qua-trinh-khu",
+      "term": "Quá trình khử",
+      "aliases": [],
+      "english": "reduction process",
+      "notation": null,
+      "meaning": "Quá trình oxi hoá là quá trình chất khử nhường electron, quá trình khử là quá trình chất oxi hoá nhận electron.",
+      "usage_context": "Bài 15 mục II.1, mục Em đã học, Bài 16 mục I. Ví dụ: $\\overset{0}{\\ce{O}}_2 + 4\\text{e} \\longrightarrow 2\\overset{-2}{\\ce{O}}$.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "II.1",
+        "pdf_page": 74,
+        "printed_page": 73
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-phan-ung-oxi-hoa-khu",
+      "term": "Phản ứng oxi hoá – khử",
+      "aliases": [],
+      "english": "redox reaction; oxidation-reduction reaction",
+      "notation": null,
+      "meaning": "Phản ứng oxi hoá – khử là phản ứng hoá học xảy ra đồng thời quá trình nhường electron và quá trình nhận electron.",
+      "usage_context": "Bài 15 mục II.2, mục IV, mục Em đã học, Bài 16 mục I. Dấu hiệu nhận biết là có sự thay đổi số oxi hoá của các nguyên tử; xảy ra phổ biến trong thực tiễn: sự cháy, sự han gỉ kim loại, sản xuất hoá chất (gang, thép, sulfuric acid, nitric acid), chuyển hoá các chất trong tự nhiên, xác định nồng độ một chất bằng phản ứng oxi hoá – khử.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "II.2",
+        "pdf_page": 75,
+        "printed_page": 74
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-phuong-phap-thang-bang-electron",
+      "term": "Phương pháp thăng bằng electron",
+      "aliases": [],
+      "english": "electron balance method",
+      "notation": null,
+      "meaning": "Phương pháp thăng bằng electron được dùng để lập phương trình hoá học của phản ứng oxi hoá – khử theo nguyên tắc:",
+      "usage_context": "Bài 15 mục III, mục Em đã học, Bài 16 mục I. Nguyên tắc: tổng số electron chất khử nhường bằng tổng số electron chất oxi hoá nhận; thực hiện qua 4 bước: (1) xác định nguyên tử thay đổi số oxi hoá, chất oxi hoá, chất khử; (2) biểu diễn quá trình oxi hoá, quá trình khử; (3) tìm hệ số thích hợp cho chất khử và chất oxi hoá; (4) đặt hệ số vào sơ đồ phản ứng và kiểm tra cân bằng số nguyên tử.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "III",
+        "pdf_page": 75,
+        "printed_page": 74
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-phan-ung-chay",
+      "term": "Phản ứng cháy",
+      "aliases": [],
+      "english": "combustion reaction",
+      "notation": null,
+      "meaning": "Phản ứng cháy là phản ứng oxi hoá – khử xảy ra ở nhiệt độ cao giữa chất cháy và chất oxi hoá.",
+      "usage_context": "Bài 15 mục IV.1. Trong phản ứng cháy, chất cháy thường là nhiên liệu (than đá, khí thiên nhiên, xăng, dầu,...), còn chất oxi hoá thường là oxygen; sự cháy kèm theo sự toả nhiệt và phát sáng, tạo ra nhiệt lượng đủ để duy trì sự cháy (ví dụ đốt cháy than đá, khí gas, đèn xì oxygen – acetylene ở Hình 15.1).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "IV.1",
+        "pdf_page": 76,
+        "printed_page": 75
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-su-han-gi-kim-loai",
+      "term": "Sự han gỉ kim loại",
+      "aliases": [],
+      "english": "rusting of metals; metal corrosion",
+      "notation": null,
+      "meaning": "Sau một thời gian sử dụng, nhiều thiết bị, máy móc, vật dụng bằng kim loại thường bị han gỉ do sự oxi hoá bởi oxygen trong không khí. Đặc biệt, nước ta có khí hậu nhiệt đới, độ ẩm cao nên sự han gỉ kim loại xảy ra rất phổ biến.",
+      "usage_context": "Bài 15 mục IV.2, mục Em đã học. Ví dụ: trong không khí ẩm, các vật dụng bằng thép bị oxi hoá tạo gỉ sắt ($\\ce{4Fe + 3O2 + xH2O -> 2Fe2O3.xH2O}$).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "IV.2",
+        "pdf_page": 76,
+        "printed_page": 75
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nang-luong-lien-ket-c05",
+      "term": "Năng lượng liên kết",
+      "aliases": [
+        "$E_b$"
+      ],
+      "english": "bond energy",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Dùng để tính biến thiên enthalpy chuẩn của phản ứng khi các chất đều ở thể khí: $\\Delta_r H^0_{298} = \\sum E_b(\\text{cđ}) - \\sum E_b(\\text{sp})$ (Bài 17 mục IV, mục Em đã học; Bài 18 mục I, mục II câu 5).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 12 mục III.2, pdf:64",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-phan-ung-toa-nhiet",
+      "term": "Phản ứng toả nhiệt",
+      "aliases": [],
+      "english": "exothermic reaction",
+      "notation": null,
+      "meaning": "Phản ứng toả nhiệt là phản ứng giải phóng năng lượng dưới dạng nhiệt.",
+      "usage_context": "Bài 17 mục I, mục II.3, mục Em đã học; Bài 18 mục I. Khi xảy ra kèm theo sự truyền nhiệt từ chất phản ứng ra môi trường làm nhiệt độ môi trường tăng lên, có $\\Delta_r H < 0$ (ví dụ đốt cháy than, củi, khí gas, phản ứng trung hoà $\\ce{HCl}$ và $\\ce{NaOH}$, phản ứng tôi vôi).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b17",
+        "section": "I",
+        "pdf_page": 82,
+        "printed_page": 81
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-phan-ung-thu-nhiet",
+      "term": "Phản ứng thu nhiệt",
+      "aliases": [],
+      "english": "endothermic reaction",
+      "notation": null,
+      "meaning": "Phản ứng thu nhiệt là phản ứng hấp thụ năng lượng dưới dạng nhiệt.",
+      "usage_context": "Bài 17 mục I, mục II.3, mục Em đã học; Bài 18 mục I. Khi xảy ra kèm theo sự truyền nhiệt từ môi trường vào chất phản ứng làm nhiệt độ môi trường giảm xuống, thường cần đun nóng và có $\\Delta_r H > 0$ (ví dụ hoà tan viên sủi vitamin C, nung đá vôi, nhiệt phân $\\ce{KMnO4}$, nhiệt phân $\\ce{Cu(OH)2}$).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b17",
+        "section": "I",
+        "pdf_page": 82,
+        "printed_page": 81
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-bien-thien-enthalpy-cua-phan-ung",
+      "term": "Biến thiên enthalpy của phản ứng",
+      "aliases": [
+        "biến thiên enthalpy",
+        "nhiệt phản ứng",
+        "$\\Delta_r H$"
+      ],
+      "english": "enthalpy change of reaction (heat of reaction)",
+      "notation": null,
+      "meaning": "Hầu hết các quá trình hoá học trong thực tế xảy ra ở điều kiện áp suất không đổi. Nhiệt lượng toả ra hay thu vào của phản ứng ở điều kiện này gọi là biến thiên enthalpy của phản ứng (nhiệt phản ứng), kí hiệu là $\\Delta_r H$.",
+      "usage_context": "Bài 17 mục II.1, mục II.3, mục Em đã học; Bài 18 mục I. Dấu của $\\Delta_r H$ cho biết phản ứng toả nhiệt ($\\Delta_r H < 0$) hay thu nhiệt ($\\Delta_r H > 0$); giá trị tuyệt đối càng lớn thì nhiệt lượng toả ra hay thu vào càng nhiều.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b17",
+        "section": "II.1",
+        "pdf_page": 83,
+        "printed_page": 82
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-phuong-trinh-nhiet-hoa-hoc",
+      "term": "Phương trình nhiệt hoá học",
+      "aliases": [],
+      "english": "thermochemical equation",
+      "notation": null,
+      "meaning": "Phương trình hoá học kèm theo trạng thái của các chất và giá trị $\\Delta_r H$ gọi là phương trình nhiệt hoá học. Phương trình hoá học có ghi đầy đủ trạng thái của các chất và biến thiên enthalpy của phản ứng.",
+      "usage_context": "Bài 17 mục II.1 và Bảng giải thích thuật ngữ cuối sách (pdf:120). Ví dụ: $\\ce{2H2(g) + O2(g) -> 2H2O(l)} \\quad \\Delta_r H^0_{298} = -571,6\\text{ kJ}$.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b17",
+        "section": "II.1",
+        "pdf_page": 83,
+        "printed_page": 82
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-bien-thien-enthalpy-chuan",
+      "term": "Biến thiên enthalpy chuẩn",
+      "aliases": [
+        "$\\Delta_r H^0_{298}$"
+      ],
+      "english": "standard enthalpy change of reaction",
+      "notation": null,
+      "meaning": "Biến thiên enthalpy chuẩn là nhiệt toả ra hay thu vào của phản ứng được xác định ở điều kiện chuẩn: áp suất $1\\text{ bar}$ (đối với chất khí), nồng độ $1\\text{ mol/L}$ (đối với chất tan trong dung dịch) và nhiệt độ thường được chọn là $25\\text{ }^\\circ\\text{C}$ ($298\\text{ K}$), kí hiệu $\\Delta_r H^0_{298}$.",
+      "usage_context": "Bài 17 mục II.2, mục III.2, mục IV, mục Em đã học; Bài 18 mục I. Dùng để so sánh biến thiên enthalpy của các phản ứng khác nhau ở cùng điều kiện; tính được theo nhiệt tạo thành chuẩn hoặc theo năng lượng liên kết.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b17",
+        "section": "II.2",
+        "pdf_page": 84,
+        "printed_page": 83
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-dieu-kien-chuan",
+      "term": "Điều kiện chuẩn",
+      "aliases": [],
+      "english": "standard conditions",
+      "notation": null,
+      "meaning": "Biến thiên enthalpy chuẩn là nhiệt toả ra hay thu vào của phản ứng được xác định ở điều kiện chuẩn: áp suất $1\\text{ bar}$ (đối với chất khí), nồng độ $1\\text{ mol/L}$ (đối với chất tan trong dung dịch) và nhiệt độ thường được chọn là $25\\text{ }^\\circ\\text{C}$ ($298\\text{ K}$), kí hiệu $\\Delta_r H^0_{298}$.",
+      "usage_context": "Bài 17 mục II.2, mục III.1; Bài 18 mục II câu 1.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b17",
+        "section": "II.2",
+        "pdf_page": 84,
+        "printed_page": 83
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nhiet-tao-thanh",
+      "term": "Nhiệt tạo thành",
+      "aliases": [
+        "$\\Delta_f H$"
+      ],
+      "english": "enthalpy of formation; heat of formation",
+      "notation": null,
+      "meaning": "Nhiệt tạo thành ($\\Delta_f H$) của một chất là biến thiên enthalpy của phản ứng tạo thành $1\\text{ mol}$ chất đó từ các đơn chất ở dạng bền vững nhất, ở một điều kiện xác định.",
+      "usage_context": "Bài 17 mục III.1; Bài 18 mục I. Chữ \"f\" viết tắt của từ tiếng Anh *formation* (tạo thành).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b17",
+        "section": "III.1",
+        "pdf_page": 85,
+        "printed_page": 84
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nhiet-tao-thanh-chuan",
+      "term": "Nhiệt tạo thành chuẩn",
+      "aliases": [
+        "$\\Delta_f H^0_{298}$"
+      ],
+      "english": "standard enthalpy of formation",
+      "notation": null,
+      "meaning": "Nhiệt tạo thành chuẩn ($\\Delta_f H^0_{298}$) là nhiệt tạo thành ở điều kiện chuẩn.",
+      "usage_context": "Bài 17 mục III.1, Bảng 17.1, mục III.2, mục Em đã học; Bài 18 mục I. Nhiệt tạo thành chuẩn của các đơn chất ở dạng bền vững nhất bằng không, ví dụ $\\Delta_f H^0_{298}(\\ce{O2(g)}) = 0\\text{ kJ/mol}$; dùng để tính biến thiên enthalpy chuẩn của phản ứng theo công thức $\\Delta_r H^0_{298} = \\sum \\Delta_f H^0_{298}(\\text{sp}) - \\sum \\Delta_f H^0_{298}(\\text{cđ})$.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b17",
+        "section": "III.1",
+        "pdf_page": 85,
+        "printed_page": 84
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-dinh-luat-hess",
+      "term": "Định luật Hess",
+      "aliases": [],
+      "english": "Hess's law",
+      "notation": null,
+      "meaning": "Từ các nghiên cứu thực nghiệm, năm 1840, nhà hoá học người Thuỵ Sĩ là G. Hess (He-xơ) đã đề xuất một định luật về sau mang tên ông, trong đó nói rằng những sự thay đổi năng lượng trong một quá trình hoá học chỉ phụ thuộc vào trạng thái của các chất ban đầu và sản phẩm mà không phụ thuộc vào cách phản ứng xảy ra và các sản phẩm trung gian.",
+      "usage_context": "Bài 17 mục III.2, hộp Em có biết. Cơ sở để tính biến thiên enthalpy của phản ứng từ các số liệu tra cứu (nhiệt tạo thành, nhiệt cháy, năng lượng liên kết) mà không cần tiến hành thí nghiệm.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b17",
+        "section": "III.2",
+        "pdf_page": 87,
+        "printed_page": 86
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nhiet-luong-ke",
+      "term": "Nhiệt lượng kế",
+      "aliases": [],
+      "english": "calorimeter",
+      "notation": null,
+      "meaning": "Dụng cụ dùng để đo nhiệt lượng thu vào hoặc toả ra.",
+      "usage_context": "Bài 17 mục IV, hộp Em có biết (Hình 17.2) và Bảng giải thích thuật ngữ cuối sách (pdf:120). Dựa vào sự thay đổi nhiệt độ của nước trong nhiệt lượng kế để tính nhiệt lượng đã cho đi hoặc nhận vào, từ đó xác định biến thiên enthalpy của phản ứng bằng thực nghiệm.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 120,
+        "printed_page": 119
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nong-do-mol",
+      "term": "Nồng độ mol",
+      "aliases": [
+        "$\\text{mol/L}$",
+        "$\\text{M}$"
+      ],
+      "english": "molar concentration (molarity)",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Dùng để biểu diễn lượng chất khi tính tốc độ phản ứng và viết biểu thức tốc độ phản ứng theo hằng số tốc độ phản ứng (Bài 19 mục I.1, mục I.2, mục II.1).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-toc-do-phan-ung",
+      "term": "Tốc độ phản ứng",
+      "aliases": [
+        "tốc độ phản ứng hoá học"
+      ],
+      "english": "reaction rate; rate of chemical reaction",
+      "notation": null,
+      "meaning": "Tốc độ phản ứng được xác định bằng sự thay đổi lượng chất đầu hoặc chất sản phẩm trong một đơn vị thời gian: giây (s), phút (min), giờ (h), ngày (d),... Lượng chất có thể được biểu diễn bằng số mol, nồng độ mol, khối lượng, hoặc thể tích.",
+      "usage_context": "Bài 19 mục I.1 (Hình 19.1, Hình 19.2), mục Em đã học; Bài 20 mục I, mục II. Đặc trưng cho sự nhanh chậm của một phản ứng hoá học; chịu ảnh hưởng của nồng độ, áp suất, nhiệt độ, diện tích bề mặt và chất xúc tác.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b19",
+        "section": "I.1",
+        "pdf_page": 93,
+        "printed_page": 92
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-toc-do-trung-binh-cua-phan-ung",
+      "term": "Tốc độ trung bình của phản ứng",
+      "aliases": [
+        "tốc độ phản ứng trung bình",
+        "$v_{tb}$"
+      ],
+      "english": "average reaction rate",
+      "notation": null,
+      "meaning": "Đa số các phản ứng hoá học có tốc độ giảm dần theo thời gian. Để đặc trưng cho sự nhanh chậm của phản ứng trong một khoảng thời gian, ta dùng tốc độ phản ứng trung bình.",
+      "usage_context": "Bài 19 mục I.2 (Bảng 19.1), mục Em đã học; Bài 20 mục I, mục II câu 3. Đối với phản ứng tổng quát $\\ce{aA + bB -> cC + dD}$, tốc độ trung bình của phản ứng được tính theo biểu thức $v_{tb} = -\\frac{1}{a}\\cdot\\frac{\\Delta C_A}{\\Delta t} = -\\frac{1}{b}\\cdot\\frac{\\Delta C_B}{\\Delta t} = \\frac{1}{c}\\cdot\\frac{\\Delta C_C}{\\Delta t} = \\frac{1}{d}\\cdot\\frac{\\Delta C_D}{\\Delta t}$ (đặt dấu \"$-$\" trước biểu thức của chất đầu để tốc độ phản ứng có giá trị dương).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b19",
+        "section": "I.2",
+        "pdf_page": 95,
+        "printed_page": 94
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-toc-do-tuc-thoi-cua-phan-ung",
+      "term": "Tốc độ tức thời của phản ứng",
+      "aliases": [
+        "tốc độ tức thời"
+      ],
+      "english": "instantaneous reaction rate",
+      "notation": null,
+      "meaning": "Sự thay đổi lượng chất trong khoảng thời gian vô cùng ngắn được gọi là tốc độ tức thời của phản ứng.",
+      "usage_context": "Bài 19 mục I.2, hộp Em có biết.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b19",
+        "section": "I.2",
+        "pdf_page": 95,
+        "printed_page": 94
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-phan-ung-don-gian",
+      "term": "Phản ứng đơn giản",
+      "aliases": [],
+      "english": "elementary reaction",
+      "notation": null,
+      "meaning": "Ở nhiệt độ không đổi, tốc độ phản ứng tỉ lệ thuận với tích số nồng độ các chất phản ứng với số mũ thích hợp. Đối với phản ứng đơn giản (phản ứng chỉ xảy ra qua một giai đoạn), số mũ là hệ số của chất tham gia trong phương trình hoá học.",
+      "usage_context": "Bài 19 mục Mục tiêu, mục II.1; Bài 20 mục I. Biểu thức tốc độ phản ứng theo hằng số tốc độ phản ứng và nồng độ (còn gọi là định luật tác dụng khối lượng) chỉ đúng cho phản ứng đơn giản nên không tuỳ ý áp dụng cho mọi phản ứng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b19",
+        "section": "II.1",
+        "pdf_page": 96,
+        "printed_page": 95
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-hang-so-toc-do-phan-ung",
+      "term": "Hằng số tốc độ phản ứng",
+      "aliases": [
+        "hằng số tốc độ",
+        "$k$"
+      ],
+      "english": "rate constant",
+      "notation": null,
+      "meaning": "Trong đó: $C_{\\ce{NO}}$ và $C_{\\ce{O2}}$ là nồng độ mol của $\\ce{NO}$ và $\\ce{O2}$ tại thời điểm đang xét; $k$ được gọi là hằng số tốc độ phản ứng; $v$ là tốc độ phản ứng tại thời điểm đang xét. Xét tại thời điểm $C_{\\ce{NO}} = 1\\text{ M}$ và $C_{\\ce{O2}} = 1\\text{ M}$, khi đó $v = k$. Như vậy: hằng số tốc độ $k$ là tốc độ phản ứng khi nồng độ của tất cả các chất đầu đều bằng đơn vị. Đại lượng $k$ đặc trưng cho mỗi phản ứng và chỉ phụ thuộc vào nhiệt độ, không phụ thuộc vào nồng độ chất phản ứng. Giá trị của $k$ được xác định từ thực nghiệm.",
+      "usage_context": "Bài 19 mục Mục tiêu, mục II.1; Bài 20 mục I.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b19",
+        "section": "II.1",
+        "pdf_page": 97,
+        "printed_page": 96
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-va-cham-hieu-qua",
+      "term": "Va chạm hiệu quả",
+      "aliases": [],
+      "english": "effective collision",
+      "notation": null,
+      "meaning": "Ảnh hưởng của nồng độ đến tốc độ phản ứng có thể giải thích như sau: trong quá trình phản ứng, các hạt (phân tử, nguyên tử hoặc ion) luôn chuyển động không ngừng và va chạm với nhau. Những va chạm có năng lượng đủ lớn phá vỡ liên kết cũ và hình thành liên kết mới dẫn tới phản ứng hoá học, được gọi là va chạm hiệu quả.",
+      "usage_context": "Bài 19 mục II.1, mục II.3, mục II.4, mục Em đã học; Bài 20 mục I. Khi tăng nồng độ, áp suất (đối với chất khí), nhiệt độ hoặc diện tích bề mặt tiếp xúc, số va chạm hiệu quả tăng lên dẫn đến tốc độ phản ứng tăng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b19",
+        "section": "II.1",
+        "pdf_page": 97,
+        "printed_page": 96
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-phan-ung-phuc-tap",
+      "term": "Phản ứng phức tạp",
+      "aliases": [],
+      "english": "complex reaction",
+      "notation": null,
+      "meaning": "Trong các phản ứng phức tạp, các chất đầu trải qua nhiều giai đoạn trung gian mới tạo thành được sản phẩm cuối cùng. Khi đó, tốc độ phản ứng phụ thuộc vào nồng độ của các chất tham gia phản ứng với số mũ nhìn chung khác với hệ số tỉ lượng của chất đó trong phương trình hoá học.",
+      "usage_context": "Bài 19 mục II.1, hộp Em có biết. Ví dụ: phản ứng tổng hợp phosgene $\\ce{CO + Cl2 -> COCl2}$ có phương trình tốc độ thực nghiệm $v = k \\cdot C_{\\ce{CO}} \\cdot C_{\\ce{Cl2}}^{3/2}$.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b19",
+        "section": "II.1",
+        "pdf_page": 97,
+        "printed_page": 96
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-he-so-nhiet-do-van-t-hoff",
+      "term": "Hệ số nhiệt độ Van't Hoff",
+      "aliases": [
+        "$\\gamma$"
+      ],
+      "english": "Van't Hoff temperature coefficient",
+      "notation": null,
+      "meaning": "Trong biểu thức trên, $\\gamma$ được gọi là hệ số nhiệt độ Van't Hoff (Van-Hốp). Giá trị $\\gamma$ càng lớn thì ảnh hưởng của nhiệt độ đến tốc độ phản ứng càng mạnh.",
+      "usage_context": "Bài 19 mục Mục tiêu, mục II.3 (câu hỏi 7, 8); Bài 20 mục II câu 5. Khi tăng nhiệt độ lên $10\\text{ }^\\circ\\text{C}$, tốc độ phản ứng thường tăng từ 2 đến 4 lần theo biểu thức $\\frac{v_{T+10}}{v_T} = \\gamma$.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b19",
+        "section": "II.3",
+        "pdf_page": 98,
+        "printed_page": 97
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nang-luong-hoat-hoa",
+      "term": "Năng lượng hoạt hoá",
+      "aliases": [],
+      "english": "activation energy",
+      "notation": null,
+      "meaning": "Ảnh hưởng của xúc tác đến tốc độ phản ứng được giải thích dựa vào năng lượng hoạt hoá. Đây là năng lượng tối thiểu cần cung cấp cho các hạt (nguyên tử, phân tử hoặc ion) để va chạm giữa chúng gây ra phản ứng hoá học. Năng lượng tối thiểu mà các chất phản ứng cần có để phản ứng hoá học có thể xảy ra được.",
+      "usage_context": "Bài 19 mục II.5 (Hình 19.5), Bài 20 mục I và Bảng giải thích thuật ngữ cuối sách (pdf:120). Khi có xúc tác, phản ứng xảy ra qua nhiều giai đoạn có năng lượng hoạt hoá thấp hơn so với phản ứng không xúc tác, làm tăng số hạt có đủ năng lượng hoạt hoá và làm tăng tốc độ phản ứng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b19",
+        "section": "II.5",
+        "pdf_page": 100,
+        "printed_page": 99
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-chat-xuc-tac",
+      "term": "Chất xúc tác",
+      "aliases": [
+        "xúc tác"
+      ],
+      "english": "catalyst",
+      "notation": null,
+      "meaning": "Chất xúc tác làm tăng tốc độ phản ứng nhưng nó không bị biến đổi về lượng và chất sau phản ứng. Chất làm tăng tốc độ phản ứng nhưng khối lượng và bản chất của chất không bị thay đổi sau khi phản ứng kết thúc.",
+      "usage_context": "Bài 19 mục II.5 (Hình 19.5, Hình 19.6), mục III, mục Em đã học, mục Em có thể; Bài 20 mục I và Bảng giải thích thuật ngữ cuối sách (pdf:120). Sau phản ứng, khối lượng, bản chất hoá học của xúc tác không đổi, tuy nhiên kích thước, hình dạng hạt, độ xốp,... có thể thay đổi.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b19",
+        "section": null,
+        "pdf_page": 101,
+        "printed_page": 100
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-tuong-tac-van-der-waals-c07",
+      "term": "Tương tác van der Waals",
+      "aliases": [
+        "lực tương tác van der Waals"
+      ],
+      "english": "van der Waals interaction",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Dùng để giải thích sự tăng nhiệt độ nóng chảy, nhiệt độ sôi của các đơn chất halogen từ $\\ce{F2}$ đến $\\ce{I2}$ (Bài 21 mục III, Bài 23 mục I) và sự tăng nhiệt độ sôi của các hydrogen halide từ $\\ce{HCl}$ đến $\\ce{HI}$ (Bài 22 mục I.2, mục Em đã học).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 13 mục II, pdf:67",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-7.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-lien-ket-hydrogen-c07",
+      "term": "Liên kết hydrogen",
+      "aliases": [],
+      "english": "hydrogen bond",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Dùng để giải thích nhiệt độ sôi cao bất thường của $\\ce{HF}$ lỏng ($\\ce{H-F \\cdots H-F \\cdots H-F}$) so với các hydrogen halide khác (Bài 22 mục I.2, mục Em đã học).",
+      "scope": "shared",
+      "source_status": "out_of_source",
+      "reference": "Bài 13 mục I, pdf:65",
+      "location": null,
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-7.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nhom-halogen",
+      "term": "Nhóm halogen",
+      "aliases": [
+        "halogen"
+      ],
+      "english": "halogen group (halogens)",
+      "notation": null,
+      "meaning": "Nhóm VIIA trong bảng tuần hoàn các nguyên tố hoá học còn gọi là nhóm halogen, gồm sáu nguyên tố: fluorine ($\\ce{F}$), chlorine ($\\ce{Cl}$), bromine ($\\ce{Br}$), iodine ($\\ce{I}$), astatine ($\\ce{At}$) và tennessine ($\\ce{Ts}$). Bốn nguyên tố $\\ce{F}$, $\\ce{Cl}$, $\\ce{Br}$ và $\\ce{I}$ tồn tại trong tự nhiên, còn $\\ce{At}$ và $\\ce{Ts}$ là các nguyên tố phóng xạ.",
+      "usage_context": "Bài 21 mục I (Bảng 21.1, Hình 21.1, Hình 21.2), mục II, mục Em đã học; Bài 23 mục I. Trong tự nhiên, halogen chỉ tồn tại ở dạng hợp chất, phần lớn ở dạng muối halide (như calcium fluoride, sodium chloride); nguyên tử có 7 electron lớp ngoài cùng ($ns^2np^5$), số oxi hoá đặc trưng trong hợp chất là $-1$ (ngoài ra khi liên kết với nguyên tố có độ âm điện lớn còn có số oxi hoá $+1, +3, +5, +7$, trừ $\\ce{F}$ luôn có số oxi hoá $-1$).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b21",
+        "section": "I",
+        "pdf_page": 105,
+        "printed_page": 104
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-7.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-don-chat-halogen",
+      "term": "Đơn chất halogen",
+      "aliases": [],
+      "english": "halogen elementary substances",
+      "notation": null,
+      "meaning": "Halogen là các phi kim điển hình, có tính oxi hoá mạnh, tính oxi hoá giảm dần từ fluorine đến iodine.",
+      "usage_context": "Bài 21 mục III (Bảng 21.2, Hình 21.4), mục IV, mục Em đã học; Bài 23 mục I. Nhiệt độ nóng chảy và nhiệt độ sôi tăng dần từ $\\ce{F2}$ (khí, lục nhạt), $\\ce{Cl2}$ (khí, vàng lục), $\\ce{Br2}$ (lỏng, nâu đỏ) đến $\\ce{I2}$ (rắn, tím đen); ít tan trong nước, tan nhiều trong dung môi hữu cơ; tác dụng với kim loại, hydrogen, nước, dung dịch kiềm và dung dịch muối halide.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b21",
+        "section": "IV",
+        "pdf_page": 108,
+        "printed_page": 107
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-7.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-phan-ung-thuan-nghich",
+      "term": "Phản ứng thuận nghịch",
+      "aliases": [],
+      "english": "reversible reaction",
+      "notation": null,
+      "meaning": "Phản ứng thuận nghịch là phản ứng xảy ra theo hai chiều trái ngược nhau ở cùng điều kiện.",
+      "usage_context": "Bài 21 mục IV.2 (Bảng 21.3, chú thích chân trang), mục IV.3. Ví dụ: phản ứng giữa hydrogen và iodine ($\\ce{H2 + I2 <=> 2HI}$) ở $\\sim 300\\text{ }^\\circ\\text{C}$ có xúc tác $\\ce{Pt}$; phản ứng của chlorine với nước ($\\ce{Cl2 + H2O <=> HCl + HClO}$).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b21",
+        "section": "IV.2",
+        "pdf_page": 109,
+        "printed_page": 108
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-7.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-nuoc-javel",
+      "term": "Nước Javel",
+      "aliases": [],
+      "english": "Javel water",
+      "notation": null,
+      "meaning": "Nước Javel (chứa $\\ce{NaClO}$ (sodium hypochlorite), $\\ce{NaCl}$ và một phần $\\ce{NaOH}$ dư) được dùng làm chất tẩy rửa, khử trùng.",
+      "usage_context": "Bài 21 mục IV.4, mục Em có thể; Bài 22 mục III.3. Điều chế khi cho chlorine phản ứng với dung dịch sodium hydroxide ở điều kiện thường: $\\ce{Cl2 + 2NaOH -> NaCl + NaClO + H2O}$.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b21",
+        "section": "IV.4",
+        "pdf_page": 110,
+        "printed_page": 109
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-7.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-dieu-che-chlorine",
+      "term": "Điều chế chlorine",
+      "aliases": [],
+      "english": "preparation of chlorine",
+      "notation": null,
+      "meaning": "Năm 1774, C. W. Scheele (Se-lơ), nhà hoá học người Thuỵ Điển, điều chế được chlorine khi cho quặng pyrolusite ($\\ce{MnO2}$) tác dụng với hydrochloric acid đặc: $\\ce{MnO2 + 4HCl(\\text{đặc}) ->[\\text{t}^\\circ] MnCl2 + Cl2 + 2H2O}$. Ngày nay, phản ứng trên vẫn được dùng khi cần điều chế khí $\\ce{Cl2}$ trong phòng thí nghiệm. Ngoài ra, còn có thể thay $\\ce{MnO2}$ bằng $\\ce{KMnO4}$ rắn để điều chế khí $\\ce{Cl2}$: $\\ce{2KMnO4 + 16HCl(\\text{đặc}) -> 2KCl + 2MnCl2 + 5Cl2 + 8H2O}$. Trong công nghiệp, chlorine được sản xuất ở nhiệt độ thường bằng cách điện phân dung dịch muối ăn bão hoà, có màng ngăn giữa các điện cực: $\\ce{2NaCl + 2H2O ->[\\text{điện phân dung dịch}][\\text{có màng ngăn xốp}] 2NaOH + H2 + Cl2}$.",
+      "usage_context": "Bài 21 mục V; Bài 23 mục I, mục II câu 4.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b21",
+        "section": "V",
+        "pdf_page": 112,
+        "printed_page": 111
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-7.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-hydrogen-halide",
+      "term": "Hydrogen halide",
+      "aliases": [
+        "$\\ce{HX}$"
+      ],
+      "english": "hydrogen halide",
+      "notation": null,
+      "meaning": "Phân tử hydrogen halide ($\\ce{HX}$) gồm một liên kết cộng hoá trị. Các phân tử $\\ce{HX}$ là phân tử phân cực.",
+      "usage_context": "Bài 22 mục I.1 (Bảng 22.1), mục I.2 (Bảng 22.2), mục II.2, mục Em đã học; Bài 23 mục I. Từ $\\ce{HF}$ đến $\\ce{HI}$, độ dài liên kết tăng và năng lượng liên kết giảm; ở điều kiện thường tồn tại ở thể khí, tan tốt trong nước tạo thành dung dịch hydrohalic acid; nhiệt độ sôi tăng từ $\\ce{HCl}$ đến $\\ce{HI}$, riêng $\\ce{HF}$ có nhiệt độ sôi cao bất thường ($+19,5\\text{ }^\\circ\\text{C}$) do có liên kết hydrogen.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b22",
+        "section": "I.1",
+        "pdf_page": 113,
+        "printed_page": 112
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-7.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-hydrohalic-acid",
+      "term": "Hydrohalic acid",
+      "aliases": [],
+      "english": "hydrohalic acid",
+      "notation": null,
+      "meaning": "Ở điều kiện thường, hydrogen halide tồn tại ở thể khí, tan tốt trong nước, tạo thành dung dịch hydrohalic acid tương ứng.",
+      "usage_context": "Bài 22 mục I.2, mục II.1, mục Em đã học; Bài 23 mục I. Trong dãy hydrohalic acid, tính acid tăng từ hydrofluoric acid (yếu) đến hydroiodic acid (rất mạnh); ngoài tính acid còn có tính khử (ví dụ $\\ce{HCl}$ đặc tác dụng với $\\ce{KMnO4}$); riêng $\\ce{HF}$ ăn mòn được thuỷ tinh vô cơ ($\\ce{SiO2 + 4HF -> SiF4 + 2H2O}$).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b22",
+        "section": "I.2",
+        "pdf_page": 114,
+        "printed_page": 113
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-7.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-muoi-halide",
+      "term": "Muối halide",
+      "aliases": [],
+      "english": "halide salt",
+      "notation": null,
+      "meaning": "Hầu hết các muối halide đều dễ tan trong nước, trừ một số muối không tan, ví dụ như silver chloride, silver bromide, silver iodide và một số muối ít tan như lead chloride, lead bromide.",
+      "usage_context": "Bài 21 mục I, mục IV.5 (Hình 21.7); Bài 22 mục III.1, mục III.2, mục III.3, mục Em đã học; Bài 23 mục I, mục II câu 5, câu 6. Nhận biết các ion halide trong dung dịch bằng dung dịch $\\ce{AgNO3}$: $\\ce{F-}$ không tạo kết tủa, $\\ce{Cl-}$ tạo kết tủa trắng $\\ce{AgCl}$, $\\ce{Br-}$ tạo kết tủa vàng nhạt $\\ce{AgBr}$, $\\ce{I-}$ tạo kết tủa vàng $\\ce{AgI}$.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b22",
+        "section": "III.1",
+        "pdf_page": 116,
+        "printed_page": 115
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-7.md",
+      "note_ids": []
+    },
+    {
+      "id": "hoa-10-tinh-khu-cua-cac-ion-halide",
+      "term": "Tính khử của các ion halide",
+      "aliases": [],
+      "english": "reducing property of halide ions",
+      "notation": null,
+      "meaning": "Sodium bromide khử được sulfuric acid đặc thành sulfur dioxide, còn sodium iodide có thể khử được sulfuric acid đặc thành hydrogen sulfide. Trong điều kiện như trên, $\\ce{NaCl}$ chỉ xảy ra phản ứng trao đổi, tạo thành hydrogen chloride. Tính khử của các ion halide tăng dần theo thứ tự $\\ce{Cl- < Br- < I-}$.",
+      "usage_context": "Bài 22 mục III.2b, mục Em đã học; Bài 23 mục I.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b22",
+        "section": "III.2.b",
+        "pdf_page": 116,
+        "printed_page": 115
+      },
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-7.md",
+      "note_ids": []
+    }
+  ],
+  "source_notes": [
+    {
+      "id": "tu-dien-hoa-hoc-10-chuong-2#1",
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "number": 1,
+      "status": "closed",
+      "lesson_id": "b05",
+      "section": "I",
+      "pdf_page": 31,
+      "term_ids": [],
+      "issue": "Sách in họ nhà hoá học Đức là \"J. L. Meyer\" ở đầu câu nhưng in \"bảng của Mayer\" ở giữa câu",
+      "resolution": "Đối chiếu ảnh trang PDF 31: sách in đúng như vậy (\"J. L. Meyer\" và \"bảng của Mayer\"); Tầng 1 giữ nguyên như in theo spec 4.3",
+      "resolved_on": "2026-11-03"
+    },
+    {
+      "id": "tu-dien-hoa-hoc-10-chuong-2#2",
+      "dictionary": "Tu-dien-Hoa-hoc-10-Chuong-2.md",
+      "number": 2,
+      "status": "closed",
+      "lesson_id": "b08",
+      "section": "I",
+      "pdf_page": 44,
+      "term_ids": [
+        "hoa-10-dinh-luat-tuan-hoan"
+      ],
+      "issue": "Sách in tên nguyên tố là \"tellirium\" (chuẩn quốc tế là tellurium)",
+      "resolution": "Đối chiếu ảnh trang PDF 44: sách in \"tellirium\"; Tầng 1 giữ nguyên như in theo spec 4.3",
+      "resolved_on": "2026-11-03"
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "unit": "hoa_10",
+  "subject": "hoa",
+  "subject_name": "Hoá học",
+  "grade": 10,
+  "files": [
+    {
+      "file": "SGK Hoa hoc 10.pdf",
+      "volume": null,
+      "page_count": 122,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Hoa hoc 10.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Hoa hoc 10.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Hoa hoc 10.pdf",
+      "pdf_pages": [
+        5,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c01",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 1",
+      "number": 1,
+      "title": "Cấu tạo nguyên tử",
+      "dir": "Chuong-01-Cau-tao-nguyen-tu",
+      "children": [
+        {
+          "id": "b00",
+          "role": "lesson",
+          "kind": "bai",
+          "label": null,
+          "number": null,
+          "title": "Mở đầu",
+          "lesson_type": "ly_thuyet",
+          "file": "B00-Mo-dau.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            7,
+            12
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Thành phần của nguyên tử",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Thanh-phan-cua-nguyen-tu.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            14,
+            17
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Nguyên tố hoá học",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Nguyen-to-hoa-hoc.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            18,
+            21
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Cấu trúc lớp vỏ electron nguyên tử",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Cau-truc-lop-vo-electron-nguyen-tu.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            22,
+            26
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Ôn tập chương 1",
+          "lesson_type": "on_tap",
+          "file": "B04-On-tap-chuong-1.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            27,
+            28
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c02",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 2",
+      "number": 2,
+      "title": "Bảng tuần hoàn các nguyên tố hoá học và định luật tuần hoàn",
+      "dir": "Chuong-02-Bang-tuan-hoan-cac-nguyen-to-hoa-hoc-va",
+      "children": [
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Cấu tạo của bảng tuần hoàn các nguyên tố hoá học",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Cau-tao-cua-bang-tuan-hoan-cac-nguyen-to-hoa-hoc.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            30,
+            34
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Xu-huong-bien-doi-mot-so-tinh-chat-cua-nguyen-tu-cac-nguyen-to-trong-mot-chu-ki-va-trong-mot-nhom.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            35,
+            40
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Xu hướng biến đổi thành phần và một số tính chất của hợp chất trong một chu kì",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Xu-huong-bien-doi-thanh-phan-va-mot-so-tinh-chat-cua-hop-chat-trong-mot-chu-ki.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            41,
+            43
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Định luật tuần hoàn. Ý nghĩa của bảng tuần hoàn các nguyên tố hoá học",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Dinh-luat-tuan-hoan-Y-nghia-cua-bang-tuan-hoan-cac-nguyen-to-hoa-hoc.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            44,
+            45
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Ôn tập chương 2",
+          "lesson_type": "on_tap",
+          "file": "B09-On-tap-chuong-2.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            46,
+            48
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c03",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 3",
+      "number": 3,
+      "title": "Liên kết hoá học",
+      "dir": "Chuong-03-Lien-ket-hoa-hoc",
+      "children": [
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Quy tắc octet",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Quy-tac-octet.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            50,
+            51
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Liên kết ion",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Lien-ket-ion.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            52,
+            55
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Liên kết cộng hoá trị",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Lien-ket-cong-hoa-tri.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            56,
+            64
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Liên kết hydrogen và tương tác van der Waals",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Lien-ket-hydrogen-va-tuong-tac-van-der-Waals.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            65,
+            68
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Ôn tập chương 3",
+          "lesson_type": "on_tap",
+          "file": "B14-On-tap-chuong-3.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            69,
+            70
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c04",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 4",
+      "number": 4,
+      "title": "Phản ứng oxi hoá – khử",
+      "dir": "Chuong-04-Phan-ung-oxi-hoa-khu",
+      "children": [
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Phản ứng oxi hoá – khử",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Phan-ung-oxi-hoa-khu.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            72,
+            78
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Ôn tập chương 4",
+          "lesson_type": "on_tap",
+          "file": "B16-On-tap-chuong-4.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            79,
+            80
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c05",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 5",
+      "number": 5,
+      "title": "Năng lượng hoá học",
+      "dir": "Chuong-05-Nang-luong-hoa-hoc",
+      "children": [
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Biến thiên enthalpy trong các phản ứng hoá học",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Bien-thien-enthalpy-trong-cac-phan-ung-hoa-hoc.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            82,
+            89
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Ôn tập chương 5",
+          "lesson_type": "on_tap",
+          "file": "B18-On-tap-chuong-5.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            90,
+            91
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c06",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 6",
+      "number": 6,
+      "title": "Tốc độ phản ứng",
+      "dir": "Chuong-06-Toc-do-phan-ung",
+      "children": [
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Tốc độ phản ứng",
+          "lesson_type": "ly_thuyet",
+          "file": "B19-Toc-do-phan-ung.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            93,
+            101
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Ôn tập chương 6",
+          "lesson_type": "on_tap",
+          "file": "B20-On-tap-chuong-6.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            102,
+            103
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c07",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 7",
+      "number": 7,
+      "title": "Nguyên tố nhóm halogen",
+      "dir": "Chuong-07-Nguyen-to-nhom-halogen",
+      "children": [
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Nhóm halogen",
+          "lesson_type": "ly_thuyet",
+          "file": "B21-Nhom-halogen.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            105,
+            112
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Hydrogen halide. Muối halide",
+          "lesson_type": "ly_thuyet",
+          "file": "B22-Hydrogen-halide-Muoi-halide.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            113,
+            117
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Ôn tập chương 7",
+          "lesson_type": "on_tap",
+          "file": "B23-On-tap-chuong-7.md",
+          "source_file": "SGK Hoa hoc 10.pdf",
+          "pdf_pages": [
+            118,
+            119
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Giải thích một số thuật ngữ dùng trong sách",
+      "file": "Giai-thich-mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK Hoa hoc 10.pdf",
+      "pdf_pages": [
+        120,
+        120
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "Sách gồm 1 Bài Mở đầu (trang in 6–11, PDF 7–12; đặt làm b00 trong c01 để đồng bộ với 7 từ điển chương), 7 Chương (Chương 1–7, Bài 1–23, trong đó Bài 4, 9, 14, 16, 18, 20, 23 là các bài Ôn tập chương) và Bảng 'Giải thích một số thuật ngữ dùng trong sách' cuối sách (trang in 119, PDF 120).",
+    "Mỗi chương đều có 1 trang bìa chương riêng biệt không thuộc bài học nào: Chương 1 (trang in 12, PDF 13), Chương 2 (trang in 28, PDF 29), Chương 3 (trang in 48, PDF 49), Chương 4 (trang in 70, PDF 71), Chương 5 (trang in 80, PDF 81), Chương 6 (trang in 91, PDF 92; Mục lục ghi 'Tốc độ phản ứng hoá học', trang bìa chương ghi 'Tốc độ phản ứng'), Chương 7 (trang in 103, PDF 104; Mục lục ghi 'Nguyên tố nhóm VIIA – Halogen', trang bìa chương ghi 'Nguyên tố nhóm halogen').",
+    "Độ lệch trang in cố định xuyên suốt toàn sách: printed_offset = 1 (Trang PDF = Trang in + 1)."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-03",
+      "scope": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "c07"
+      ],
+      "terms": 151,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Mẫu phân tầng 30/151 thuật ngữ (seed 10: 12 mục chứa công thức hoá học \\ce{...} và đại lượng nhiệt/động học, 10 mục mô tả [mô tả], 8 mục định nghĩa in_source) cùng 88 hình minh hoạ/sơ đồ/bảng tuần hoàn trải đều 7 Chương (Mở đầu và Bài 1–23), đối chiếu trực tiếp Giải nghĩa, Công thức hoá học, Bối cảnh sử dụng, trang PDF, trang in với ảnh trang SGK gốc: 0 lỗi (0%). 15/15 mục ở Bảng Giải thích một số thuật ngữ dùng trong sách cuối sách (PDF 120) được bao phủ 100%."
+    }
+  ],
+  "last_session_note": "2026-11-03: Hoàn thành 100% môn Hoá học 10 (Bài Mở đầu b00, Chương 1–7, Bài 1–23 gồm 7 bài Ôn tập chương, và Bảng giải thích một số thuật ngữ dùng trong sách). Đạt Cổng 0, Cổng 1 (25 file, 88 hình minh hoạ sạch biên 0 edge ink, 0 lỗi, 0 cờ), Cổng 2 & 2b (7 từ điển Tầng 2, 151 thuật ngữ: 114 in_source, 17 described, 20 out_of_source, 2 ghi chú nguồn đóng, 0 ghi chú mở; 100% độ phủ ứng viên và 15/15 mục bảng thuật ngữ), Cổng 3 (dataset/hoa_10.json hợp lệ schema) và Cổng 4 (kiểm toán mẫu phân tầng 30 mục đạt 0% lỗi). Toàn bộ 24 bài học và bảng thuật ngữ đạt trạng thái verified."
+}

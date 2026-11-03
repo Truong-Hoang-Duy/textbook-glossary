@@ -1,0 +1,12 @@
+{
+  "H10-hoa-b15-01": {
+    "pdf_page": 77,
+    "bbox": [382, 610, 520, 688],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 15.1 nằm trọn trong hộp câu hỏi nền xanh lam; các cạnh khung chỉ đi qua màu nền hộp câu hỏi, không chạm chữ bên ngoài"
+  },
+  "H10-hoa-b16-01": {
+    "pdf_page": 79,
+    "bbox": [48, 232, 550, 482]
+  }
+}

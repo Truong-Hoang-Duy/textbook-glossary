@@ -1,0 +1,22 @@
+{
+  "H10-hoa-b19-01": { "pdf_page": 93, "bbox": [375, 415, 551, 588] },
+  "H10-hoa-b19-02": { "pdf_page": 93, "bbox": [120, 628, 480, 772] },
+  "H10-hoa-b19-03": {
+    "pdf_page": 94,
+    "bbox": [152, 134, 445, 298],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đồ thị nằm trọn trong hộp câu hỏi 1 nền xanh lam; các cạnh khung chỉ đi qua màu nền hộp câu hỏi, không chạm chữ bên ngoài"
+  },
+  "H10-hoa-b19-04": { "pdf_page": 96, "bbox": [105, 315, 492, 450] },
+  "H10-hoa-b19-05": { "pdf_page": 97, "bbox": [382, 608, 535, 760] },
+  "H10-hoa-b19-06": { "pdf_page": 99, "bbox": [332, 600, 520, 705] },
+  "H10-hoa-b19-07": { "pdf_page": 100, "bbox": [96, 415, 474, 570] },
+  "H10-hoa-b19-08": {
+    "pdf_page": 100,
+    "bbox": [372, 628, 528, 772],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 19.6 nằm trọn trong hộp câu hỏi 9 nền xanh lam; các cạnh khung chỉ đi qua màu nền hộp câu hỏi, không chạm chữ bên ngoài"
+  },
+  "H10-hoa-b19-09": { "pdf_page": 101, "bbox": [80, 158, 510, 289] },
+  "H10-hoa-b20-01": { "pdf_page": 102, "bbox": [58, 398, 538, 742] }
+}

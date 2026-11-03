@@ -1,0 +1,37 @@
+{
+  "H10-hoa-b00-01": { "pdf_page": 7, "bbox": [368, 318, 556, 514] },
+  "H10-hoa-b00-02": { "pdf_page": 7, "bbox": [60, 626, 535, 760] },
+  "H10-hoa-b00-03": { "pdf_page": 8, "bbox": [384, 552, 535, 695] },
+  "H10-hoa-b00-04": { "pdf_page": 9, "bbox": [388, 74, 540, 200] },
+  "H10-hoa-b00-05": {
+    "pdf_page": 9,
+    "bbox": [360, 412, 530, 552],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 5 nằm trong hộp Em có biết nền màu kem đè lên logo chìm ở giữa trang; cạnh trái và trên chỉ đi qua vùng nền hộp trùng logo chìm, không chạm chữ bên ngoài"
+  },
+  "H10-hoa-b00-06": { "pdf_page": 10, "bbox": [104, 93, 504, 341] },
+  "H10-hoa-b00-07": { "pdf_page": 11, "bbox": [62, 62, 539, 765] },
+  "H10-hoa-b01-01": { "pdf_page": 14, "bbox": [384, 344, 534, 498] },
+  "H10-hoa-b01-02": { "pdf_page": 14, "bbox": [384, 566, 538, 706] },
+  "H10-hoa-b01-03": {
+    "pdf_page": 15,
+    "bbox": [140, 493, 420, 702],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 1.3 nằm trọn trong hộp câu hỏi nền xanh lam; các cạnh khung chỉ đi qua màu nền hộp câu hỏi, không chạm chữ bên ngoài"
+  },
+  "H10-hoa-b02-01": { "pdf_page": 18, "bbox": [386, 618, 532, 736] },
+  "H10-hoa-b02-02": { "pdf_page": 19, "bbox": [76, 377, 520, 558] },
+  "H10-hoa-b02-03": { "pdf_page": 20, "bbox": [120, 435, 470, 676] },
+  "H10-hoa-b02-04": {
+    "pdf_page": 21,
+    "bbox": [261, 68, 522, 292],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 2.4 nằm trọn trong hộp câu hỏi nền xanh lam; các cạnh khung chỉ đi qua màu nền hộp câu hỏi, không chạm chữ bên ngoài"
+  },
+  "H10-hoa-b03-01": { "pdf_page": 22, "bbox": [380, 471, 542, 641] },
+  "H10-hoa-b03-02": { "pdf_page": 22, "bbox": [400, 645, 520, 788] },
+  "H10-hoa-b03-03": { "pdf_page": 23, "bbox": [76, 155, 508, 272] },
+  "H10-hoa-b03-04": { "pdf_page": 24, "bbox": [385, 655, 536, 750] },
+  "H10-hoa-b03-05": { "pdf_page": 25, "bbox": [244, 586, 362, 618] },
+  "H10-hoa-b04-01": { "pdf_page": 27, "bbox": [40, 224, 542, 720] }
+}
