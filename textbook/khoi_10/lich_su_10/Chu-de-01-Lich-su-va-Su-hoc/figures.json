@@ -1,0 +1,68 @@
+{
+  "H10-lich_su-b01-01": {
+    "pdf_page": 7,
+    "bbox": [5, 580, 560, 815],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh nền tràn lề toàn bộ nửa dưới trang mở đầu Chủ đề 1 và nằm dưới khung Mở đầu"
+  },
+  "H10-lich_su-b01-02": {
+    "pdf_page": 8,
+    "bbox": [90, 505, 275, 665]
+  },
+  "H10-lich_su-b01-03": {
+    "pdf_page": 8,
+    "bbox": [280, 478, 402, 680]
+  },
+  "H10-lich_su-b01-04": {
+    "pdf_page": 8,
+    "bbox": [410, 478, 522, 680]
+  },
+  "H10-lich_su-b01-05": {
+    "pdf_page": 9,
+    "bbox": [342, 302, 522, 525]
+  },
+  "H10-lich_su-b01-06": {
+    "pdf_page": 9,
+    "bbox": [352, 540, 515, 772]
+  },
+  "H10-lich_su-b01-07": {
+    "pdf_page": 10,
+    "bbox": [74, 362, 542, 675]
+  },
+  "H10-lich_su-b01-08": {
+    "pdf_page": 11,
+    "bbox": [56, 85, 536, 392]
+  },
+  "H10-lich_su-b01-09": {
+    "pdf_page": 13,
+    "bbox": [56, 84, 532, 494]
+  },
+  "H10-lich_su-b01-10": {
+    "pdf_page": 14,
+    "bbox": [102, 110, 300, 342]
+  },
+  "H10-lich_su-b01-11": {
+    "pdf_page": 14,
+    "bbox": [314, 110, 500, 356]
+  },
+  "H10-lich_su-b01-12": {
+    "pdf_page": 14,
+    "bbox": [150, 364, 462, 530]
+  },
+  "H10-lich_su-b02-01": {
+    "pdf_page": 17,
+    "bbox": [68, 56, 388, 304]
+  },
+  "H10-lich_su-b02-02": {
+    "pdf_page": 17,
+    "bbox": [400, 56, 536, 304]
+  },
+  "H10-lich_su-b02-03": {
+    "pdf_page": 17,
+    "bbox": [130, 316, 460, 472]
+  },
+  "H10-lich_su-b02-04": {
+    "pdf_page": 18,
+    "bbox": [306, 594, 542, 770]
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "unit": "lich_su_10",
+  "subject": "lich_su",
+  "subject_name": "Lịch sử",
+  "grade": 10,
+  "files": [
+    {
+      "file": "SGK Lich su 10.pdf",
+      "volume": null,
+      "page_count": 150,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Lich su 10.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Lich su 10.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Lich su 10.pdf",
+      "pdf_pages": [
+        5,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "cd01",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 1",
+      "number": 1,
+      "title": "Lịch sử và Sử học",
+      "dir": "Chu-de-01-Lich-su-va-Su-hoc",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Hiện thực lịch sử và nhận thức lịch sử",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Hien-thuc-lich-su-va-nhan-thuc-lich-su.md",
+          "source_file": "SGK Lich su 10.pdf",
+          "pdf_pages": [
+            7,
+            15
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Tri thức lịch sử và cuộc sống",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Tri-thuc-lich-su-va-cuoc-song.md",
+          "source_file": "SGK Lich su 10.pdf",
+          "pdf_pages": [
+            16,
+            19
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd02",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 2",
+      "number": 2,
+      "title": "Vai trò của Sử học",
+      "dir": "Chu-de-02-Vai-tro-cua-Su-hoc",
+      "children": [
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Sử học với các lĩnh vực khoa học",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Su-hoc-voi-cac-linh-vuc-khoa-hoc.md",
+          "source_file": "SGK Lich su 10.pdf",
+          "pdf_pages": [
+            20,
+            26
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Sử học với một số lĩnh vực, ngành nghề hiện đại",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Su-hoc-voi-mot-so-linh-vuc-nganh-nghe-hien-dai.md",
+          "source_file": "SGK Lich su 10.pdf",
+          "pdf_pages": [
+            27,
+            33
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd03",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 3",
+      "number": 3,
+      "title": "Một số nền văn minh thế giới thời kì cổ – trung đại",
+      "dir": "Chu-de-03-Mot-so-nen-van-minh-the-gioi-thoi-ki-co",
+      "children": [
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Khái niệm văn minh. Một số nền văn minh phương Đông thời kì cổ – trung đại",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Khai-niem-van-minh-Mot-so-nen-van-minh-phuong-Dong-thoi-ki-co-trung-dai.md",
+          "source_file": "SGK Lich su 10.pdf",
+          "pdf_pages": [
+            34,
+            48
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Một số nền văn minh phương Tây thời kì cổ – trung đại",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Mot-so-nen-van-minh-phuong-Tay-thoi-ki-co-trung-dai.md",
+          "source_file": "SGK Lich su 10.pdf",
+          "pdf_pages": [
+            49,
+            58
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd04",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 4",
+      "number": 4,
+      "title": "Các cuộc cách mạng công nghiệp trong lịch sử thế giới",
+      "dir": "Chu-de-04-Cac-cuoc-cach-mang-cong-nghiep-trong",
+      "children": [
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Các cuộc cách mạng công nghiệp thời kì cận đại",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Cac-cuoc-cach-mang-cong-nghiep-thoi-ki-can-dai.md",
+          "source_file": "SGK Lich su 10.pdf",
+          "pdf_pages": [
+            59,
+            68
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Các cuộc cách mạng công nghiệp thời kì hiện đại",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Cac-cuoc-cach-mang-cong-nghiep-thoi-ki-hien-dai.md",
+          "source_file": "SGK Lich su 10.pdf",
+          "pdf_pages": [
+            69,
+            76
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd05",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 5",
+      "number": 5,
+      "title": "Văn minh Đông Nam Á",
+      "dir": "Chu-de-05-Van-minh-Dong-Nam-A",
+      "children": [
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Cơ sở hình thành văn minh Đông Nam Á thời kì cổ – trung đại",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Co-so-hinh-thanh-van-minh-Dong-Nam-A-thoi-ki-co-trung-dai.md",
+          "source_file": "SGK Lich su 10.pdf",
+          "pdf_pages": [
+            77,
+            85
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Hành trình phát triển và thành tựu của văn minh Đông Nam Á thời kì cổ – trung đại",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Hanh-trinh-phat-trien-va-thanh-tuu-cua-van-minh-Dong-Nam-A-thoi-ki-co-trung-dai.md",
+          "source_file": "SGK Lich su 10.pdf",
+          "pdf_pages": [
+            86,
+            93
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd06",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 6",
+      "number": 6,
+      "title": "Một số nền văn minh trên đất nước Việt Nam (trước năm 1858)",
+      "dir": "Chu-de-06-Mot-so-nen-van-minh-tren-dat-nuoc-Viet",
+      "children": [
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Một số nền văn minh cổ trên đất nước Việt Nam",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Mot-so-nen-van-minh-co-tren-dat-nuoc-Viet-Nam.md",
+          "source_file": "SGK Lich su 10.pdf",
+          "pdf_pages": [
+            94,
+            108
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Văn minh Đại Việt",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Van-minh-Dai-Viet.md",
+          "source_file": "SGK Lich su 10.pdf",
+          "pdf_pages": [
+            109,
+            123
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd07",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 7",
+      "number": 7,
+      "title": "Cộng đồng các dân tộc Việt Nam",
+      "dir": "Chu-de-07-Cong-dong-cac-dan-toc-Viet-Nam",
+      "children": [
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Đời sống vật chất và tinh thần của cộng đồng các dân tộc Việt Nam",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Doi-song-vat-chat-va-tinh-than-cua-cong-dong-cac-dan-toc-Viet-Nam.md",
+          "source_file": "SGK Lich su 10.pdf",
+          "pdf_pages": [
+            124,
+            136
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Khối đại đoàn kết dân tộc trong lịch sử Việt Nam",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-Khoi-dai-doan-ket-dan-toc-trong-lich-su-Viet-Nam.md",
+          "source_file": "SGK Lich su 10.pdf",
+          "pdf_pages": [
+            137,
+            143
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu khái niệm, thuật ngữ",
+      "file": "Bang-tra-cuu.md",
+      "source_file": "SGK Lich su 10.pdf",
+      "pdf_pages": [
+        144,
+        145
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-phien-am",
+      "role": "back_matter",
+      "kind": "bang_phien_am",
+      "label": null,
+      "number": null,
+      "title": "Bảng phiên âm",
+      "file": null,
+      "source_file": "SGK Lich su 10.pdf",
+      "pdf_pages": [
+        146,
+        148
+      ],
+      "status": "skip"
+    }
+  ],
+  "notes": [
+    "Sách gồm 7 Chủ đề, 14 Bài học (Bài 1–14) từ trang in 6 đến 142 (PDF 7–143), Bảng tra cứu khái niệm, thuật ngữ ở trang in 143–144 (PDF 144–145) và Bảng phiên âm ở trang in 145–147 (PDF 146–148).",
+    "Độ lệch trang in cố định xuyên suốt toàn sách: printed_offset = 1 (Trang PDF = Trang in + 1)."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-03",
+      "scope": [
+        "cd01",
+        "cd02",
+        "cd03",
+        "cd04",
+        "cd05",
+        "cd06",
+        "cd07",
+        "bang-tra-cuu"
+      ],
+      "terms": 232,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm tra mẫu phân tầng 30 mục (10 đoạn văn bài học trải đều các trang p0008, p0025, p0045, p0062, p0081, p0115, p0128; 10 định nghĩa từ điển giữa Bang-tra-cuu.md và các mục [mô tả] Chủ đề 1..7; 10 hộp Tư liệu/Em có biết/Kết nối/sơ đồ và ảnh cắt 300 DPI H10-lich_su-b01-02, b05-10, b09-06, b12-08) đối chiếu trực tiếp với ảnh PNG gốc: 0 lỗi (0,0% <= 5%). Toàn bộ 168 hình trong 14 bài học đã cắt sạch ở 300 DPI."
+    }
+  ],
+  "last_session_note": "Hoàn tất toàn bộ lich_su_10 (14 bài + Bảng tra cứu khái niệm, thuật ngữ, 168 hình, 7 từ điển, 232 thuật ngữ), vượt qua Cổng 0, 1, 2, 2b, 3, 4 và xuất dataset/lich_su_10.json."
+}

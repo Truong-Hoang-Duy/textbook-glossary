@@ -1,0 +1,101 @@
+{
+  "H10-lich_su-b09-01": {
+    "pdf_page": 78,
+    "bbox": [45, 72, 553, 786],
+    "rotate": 90
+  },
+  "H10-lich_su-b09-02": {
+    "pdf_page": 79,
+    "bbox": [253, 145, 536, 352]
+  },
+  "H10-lich_su-b09-03": {
+    "pdf_page": 79,
+    "bbox": [115, 642, 537, 791]
+  },
+  "H10-lich_su-b09-04": {
+    "pdf_page": 80,
+    "bbox": [73, 78, 358, 276]
+  },
+  "H10-lich_su-b09-05": {
+    "pdf_page": 80,
+    "bbox": [148, 474, 454, 616]
+  },
+  "H10-lich_su-b09-06": {
+    "pdf_page": 81,
+    "bbox": [66, 278, 538, 776]
+  },
+  "H10-lich_su-b09-07": {
+    "pdf_page": 83,
+    "bbox": [66, 324, 380, 558]
+  },
+  "H10-lich_su-b09-08": {
+    "pdf_page": 83,
+    "bbox": [383, 324, 538, 574]
+  },
+  "H10-lich_su-b09-09": {
+    "pdf_page": 83,
+    "bbox": [73, 582, 537, 808]
+  },
+  "H10-lich_su-b09-10": {
+    "pdf_page": 84,
+    "bbox": [63, 365, 361, 571]
+  },
+  "H10-lich_su-b09-11": {
+    "pdf_page": 84,
+    "bbox": [73, 579, 358, 778]
+  },
+  "H10-lich_su-b09-12": {
+    "pdf_page": 85,
+    "bbox": [345, 492, 539, 626]
+  },
+  "H10-lich_su-b10-01": {
+    "pdf_page": 86,
+    "bbox": [5, 465, 510, 825],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh nền tràn lề toàn bộ nửa dưới trang mở đầu Bài 10 và nằm dưới khung Mở đầu"
+  },
+  "H10-lich_su-b10-02": {
+    "pdf_page": 87,
+    "bbox": [52, 136, 539, 678]
+  },
+  "H10-lich_su-b10-03": {
+    "pdf_page": 88,
+    "bbox": [73, 259, 359, 474]
+  },
+  "H10-lich_su-b10-04": {
+    "pdf_page": 89,
+    "bbox": [67, 139, 280, 319]
+  },
+  "H10-lich_su-b10-05": {
+    "pdf_page": 89,
+    "bbox": [285, 139, 538, 303]
+  },
+  "H10-lich_su-b10-06": {
+    "pdf_page": 89,
+    "bbox": [159, 326, 446, 578]
+  },
+  "H10-lich_su-b10-07": {
+    "pdf_page": 90,
+    "bbox": [366, 113, 545, 415]
+  },
+  "H10-lich_su-b10-08": {
+    "pdf_page": 91,
+    "bbox": [67, 59, 538, 318]
+  },
+  "H10-lich_su-b10-09": {
+    "pdf_page": 91,
+    "bbox": [108, 324, 481, 609]
+  },
+  "H10-lich_su-b10-10": {
+    "pdf_page": 92,
+    "bbox": [86, 59, 264, 305]
+  },
+  "H10-lich_su-b10-11": {
+    "pdf_page": 92,
+    "bbox": [321, 102, 546, 305]
+  },
+  "H10-lich_su-b10-12": {
+    "pdf_page": 92,
+    "bbox": [153, 372, 457, 622]
+  }
+}
