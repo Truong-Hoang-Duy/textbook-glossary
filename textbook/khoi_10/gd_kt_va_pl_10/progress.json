@@ -1,0 +1,555 @@
+{
+  "unit": "gd_kt_va_pl_10",
+  "subject": "gd_kt_va_pl",
+  "subject_name": "Giáo dục Kinh tế và Pháp luật",
+  "grade": 10,
+  "files": [
+    {
+      "file": "SGK GD KTPL 10.pdf",
+      "volume": null,
+      "page_count": 158,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "p01",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần một",
+      "number": 1,
+      "title": "Giáo dục kinh tế",
+      "dir": "Phan-01-Giao-duc-kinh-te",
+      "children": [
+        {
+          "id": "cd01",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 1",
+          "number": 1,
+          "title": "Nền kinh tế và các chủ thể của nền kinh tế",
+          "dir": "Chu-de-01-Nen-kinh-te-va-cac-chu-the-cua-nen-kinh-te",
+          "children": [
+            {
+              "id": "b01",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 1",
+              "number": 1,
+              "title": "Các hoạt động kinh tế cơ bản trong đời sống xã hội",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                7,
+                11
+              ],
+              "file": "B01-Cac-hoat-dong-kinh-te-co-ban-trong-doi-song-xa-hoi.md",
+              "status": "verified"
+            },
+            {
+              "id": "b02",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 2",
+              "number": 2,
+              "title": "Các chủ thể của nền kinh tế",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                12,
+                17
+              ],
+              "file": "B02-Cac-chu-the-cua-nen-kinh-te.md",
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd02",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 2",
+          "number": 2,
+          "title": "Thị trường và cơ chế thị trường",
+          "dir": "Chu-de-02-Thi-truong-va-co-che-thi-truong",
+          "children": [
+            {
+              "id": "b03",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 3",
+              "number": 3,
+              "title": "Thị trường",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                18,
+                21
+              ],
+              "file": "B03-Thi-truong.md",
+              "status": "verified"
+            },
+            {
+              "id": "b04",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 4",
+              "number": 4,
+              "title": "Cơ chế thị trường",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                22,
+                26
+              ],
+              "file": "B04-Co-che-thi-truong.md",
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd03",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 3",
+          "number": 3,
+          "title": "Ngân sách nhà nước và thuế",
+          "dir": "Chu-de-03-Ngan-sach-nha-nuoc-va-thue",
+          "children": [
+            {
+              "id": "b05",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 5",
+              "number": 5,
+              "title": "Ngân sách nhà nước",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                27,
+                33
+              ],
+              "file": "B05-Ngan-sach-nha-nuoc.md",
+              "status": "verified"
+            },
+            {
+              "id": "b06",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 6",
+              "number": 6,
+              "title": "Thuế",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                34,
+                39
+              ],
+              "file": "B06-Thue.md",
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd04",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 4",
+          "number": 4,
+          "title": "Sản xuất kinh doanh và các mô hình sản xuất kinh doanh",
+          "dir": "Chu-de-04-San-xuat-kinh-doanh-va-cac-mo-hinh-san-xuat-kinh-doanh",
+          "children": [
+            {
+              "id": "b07",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 7",
+              "number": 7,
+              "title": "Sản xuất kinh doanh và các mô hình sản xuất kinh doanh",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                40,
+                48
+              ],
+              "file": "B07-San-xuat-kinh-doanh-va-cac-mo-hinh-san-xuat-kinh-doanh.md",
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd05",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 5",
+          "number": 5,
+          "title": "Tín dụng và cách sử dụng các dịch vụ tín dụng trong đời sống",
+          "dir": "Chu-de-05-Tin-dung-va-cach-su-dung-cac-dich-vu-tin-dung-trong-doi-song",
+          "children": [
+            {
+              "id": "b08",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 8",
+              "number": 8,
+              "title": "Tín dụng và vai trò của tín dụng trong đời sống",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                49,
+                52
+              ],
+              "file": "B08-Tin-dung-va-vai-tro-cua-tin-dung-trong-doi-song.md",
+              "status": "verified"
+            },
+            {
+              "id": "b09",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 9",
+              "number": 9,
+              "title": "Dịch vụ tín dụng",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                53,
+                61
+              ],
+              "file": "B09-Dich-vu-tin-dung.md",
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd06",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 6",
+          "number": 6,
+          "title": "Lập kế hoạch tài chính cá nhân",
+          "dir": "Chu-de-06-Lap-ke-hoach-tai-chinh-ca-nhan",
+          "children": [
+            {
+              "id": "b10",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 10",
+              "number": 10,
+              "title": "Lập kế hoạch tài chính cá nhân",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                62,
+                71
+              ],
+              "file": "B10-Lap-ke-hoach-tai-chinh-ca-nhan.md",
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần hai",
+      "number": 2,
+      "title": "Giáo dục pháp luật",
+      "dir": "Phan-02-Giao-duc-phap-luat",
+      "children": [
+        {
+          "id": "cd07",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 7",
+          "number": 7,
+          "title": "Pháp luật nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+          "dir": "Chu-de-07-Phap-luat-nuoc-Cong-hoa-xa-hoi-chu-nghia-Viet-Nam",
+          "children": [
+            {
+              "id": "b11",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 11",
+              "number": 11,
+              "title": "Khái niệm, đặc điểm và vai trò của pháp luật",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                72,
+                76
+              ],
+              "file": "B11-Khai-niem-dac-diem-va-vai-tro-cua-phap-luat.md",
+              "status": "verified"
+            },
+            {
+              "id": "b12",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 12",
+              "number": 12,
+              "title": "Hệ thống pháp luật và văn bản pháp luật Việt Nam",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                77,
+                83
+              ],
+              "file": "B12-He-thong-phap-luat-va-van-ban-phap-luat-Viet-Nam.md",
+              "status": "verified"
+            },
+            {
+              "id": "b13",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 13",
+              "number": 13,
+              "title": "Thực hiện pháp luật",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                84,
+                88
+              ],
+              "file": "B13-Thuc-hien-phap-luat.md",
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd08",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 8",
+          "number": 8,
+          "title": "Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+          "dir": "Chu-de-08-Hien-phap-nuoc-Cong-hoa-xa-hoi-chu-nghia-Viet-Nam",
+          "children": [
+            {
+              "id": "b14",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 14",
+              "number": 14,
+              "title": "Giới thiệu về Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                89,
+                93
+              ],
+              "file": "B14-Gioi-thieu-ve-Hien-phap-nuoc-Cong-hoa-xa-hoi-chu-nghia-Viet-Nam.md",
+              "status": "verified"
+            },
+            {
+              "id": "b15",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 15",
+              "number": 15,
+              "title": "Nội dung cơ bản của Hiến pháp về chế độ chính trị",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                94,
+                98
+              ],
+              "file": "B15-Noi-dung-co-ban-cua-Hien-phap-ve-che-do-chinh-tri.md",
+              "status": "verified"
+            },
+            {
+              "id": "b16",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 16",
+              "number": 16,
+              "title": "Quyền con người, quyền và nghĩa vụ cơ bản của công dân trong Hiến pháp",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                99,
+                103
+              ],
+              "file": "B16-Quyen-con-nguoi-quyen-va-nghia-vu-co-ban-cua-cong-dan-trong-Hien-phap.md",
+              "status": "verified"
+            },
+            {
+              "id": "b17",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 17",
+              "number": 17,
+              "title": "Nội dung cơ bản của Hiến pháp về kinh tế, văn hoá, xã hội, giáo dục, khoa học, công nghệ, môi trường",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                104,
+                109
+              ],
+              "file": "B17-Noi-dung-co-ban-cua-Hien-phap-ve-kinh-te-van-hoa-xa-hoi-giao-duc-khoa-hoc-cong-nghe-moi-truong.md",
+              "status": "verified"
+            },
+            {
+              "id": "b18",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 18",
+              "number": 18,
+              "title": "Nội dung cơ bản của Hiến pháp về bộ máy nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                110,
+                115
+              ],
+              "file": "B18-Noi-dung-co-ban-cua-Hien-phap-ve-bo-may-nha-nuoc-Cong-hoa-xa-hoi-chu-nghia-Viet-Nam.md",
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd09",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 9",
+          "number": 9,
+          "title": "Hệ thống chính trị nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+          "dir": "Chu-de-09-He-thong-chinh-tri-nuoc-Cong-hoa-xa-hoi-chu-nghia-Viet-Nam",
+          "children": [
+            {
+              "id": "b19",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 19",
+              "number": 19,
+              "title": "Đặc điểm, cấu trúc và nguyên tắc hoạt động của hệ thống chính trị Việt Nam",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                116,
+                123
+              ],
+              "file": "B19-Dac-diem-cau-truc-va-nguyen-tac-hoat-dong-cua-he-thong-chinh-tri-Viet-Nam.md",
+              "status": "verified"
+            },
+            {
+              "id": "b20",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 20",
+              "number": 20,
+              "title": "Đặc điểm, nguyên tắc tổ chức và hoạt động của bộ máy nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                124,
+                131
+              ],
+              "file": "B20-Dac-diem-nguyen-tac-to-chuc-va-hoat-dong-cua-bo-may-nha-nuoc-Cong-hoa-xa-hoi-chu-nghia-Viet-Nam.md",
+              "status": "verified"
+            },
+            {
+              "id": "b21",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 21",
+              "number": 21,
+              "title": "Quốc hội, Chủ tịch nước, Chính phủ nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                132,
+                140
+              ],
+              "file": "B21-Quoc-hoi-Chu-tich-nuoc-Chinh-phu-nuoc-Cong-hoa-xa-hoi-chu-nghia-Viet-Nam.md",
+              "status": "verified"
+            },
+            {
+              "id": "b22",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 22",
+              "number": 22,
+              "title": "Toà án nhân dân và Viện kiểm sát nhân dân",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                141,
+                146
+              ],
+              "file": "B22-Toa-an-nhan-dan-va-Vien-kiem-sat-nhan-dan.md",
+              "status": "verified"
+            },
+            {
+              "id": "b23",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 23",
+              "number": 23,
+              "title": "Hội đồng nhân dân và Uỷ ban nhân dân",
+              "lesson_type": "ly_thuyet",
+              "source_file": "SGK GD KTPL 10.pdf",
+              "pdf_pages": [
+                147,
+                152
+              ],
+              "file": "B23-Hoi-dong-nhan-dan-va-Uy-ban-nhan-dan.md",
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mot-so-thuat-ngu-dung-trong-sach",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Một số thuật ngữ dùng trong sách",
+      "source_file": "SGK GD KTPL 10.pdf",
+      "pdf_pages": [
+        153,
+        156
+      ],
+      "file": "Mot-so-thuat-ngu-dung-trong-sach.md",
+      "status": "verified"
+    },
+    {
+      "id": "danh-sach-tranh-anh-su-dung",
+      "role": "back_matter",
+      "kind": "danh_sach_hinh_anh",
+      "label": null,
+      "number": null,
+      "title": "Danh sách tranh ảnh sử dụng",
+      "source_file": "SGK GD KTPL 10.pdf",
+      "pdf_pages": [
+        156,
+        156
+      ],
+      "file": "Danh-sach-tranh-anh-su-dung.md",
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "Sách gồm 2 phần lớn: Phần một: Giáo dục kinh tế (Chủ đề 1–6, Bài 1–10, trang in 6–70 / PDF 7–71) và Phần hai: Giáo dục pháp luật (Chủ đề 7–9, Bài 11–23, trang in 71–151 / PDF 72–152).",
+    "Độ lệch trang in đồng nhất xuyên suốt: printed_offset = 1 (Trang PDF = Trang in + 1).",
+    "Cuối sách có 2 phụ lục: Bảng 'Một số thuật ngữ dùng trong sách' (trang in 152–155 / PDF 153–156) và 'Danh sách tranh ảnh sử dụng' (trang in 155 / PDF 156)."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-03",
+      "scope": [
+        "p01",
+        "p02"
+      ],
+      "terms": 204,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Mẫu phân tầng 30/204 thuật ngữ (seed 10: 14 mục in_source kinh tế và pháp luật, 14 mục described, 2 mục out_of_source Luật Ngân sách nhà nước năm 2015 và Luật Quản lí thuế năm 2019, cùng 12 sơ đồ/biểu đồ trong sách) trải đều cả Phần một và Phần hai, đối chiếu trực tiếp Giải nghĩa, Bối cảnh sử dụng, Căn cứ pháp lí, trang PDF, trang in với ảnh trang SGK gốc 150 DPI: 0 lỗi (0%). 33/33 mục ở Bảng Một số thuật ngữ dùng trong sách cuối sách (35 ứng viên tính cả Đối tượng lao động, Tư liệu lao động và Quy ước làng) được bao phủ 100%."
+    }
+  ],
+  "last_session_note": "2026-11-03: Hoàn thành 100% môn Giáo dục Kinh tế và Pháp luật 10 (Phần một & Phần hai, Chủ đề 1–9, Bài 1–23, Bảng một số thuật ngữ dùng trong sách và Danh sách tranh, ảnh sử dụng). Đạt Cổng 0, Cổng 1 (25 file, 0 lỗi, 0 cờ), Cổng 2 & 2b (2 từ điển Tầng 2, 204 thuật ngữ: 157 in_source, 45 described, 2 out_of_source; 100% độ phủ ứng viên và 35/35 mục bảng thuật ngữ), Cổng 3 (dataset/gd_kt_va_pl_10.json hợp lệ schema) và Cổng 4 (kiểm toán mẫu phân tầng 30 mục đạt 0% lỗi). Toàn bộ 23 bài học và 2 phụ lục đạt trạng thái verified."
+}
