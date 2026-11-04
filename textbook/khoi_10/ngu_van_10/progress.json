@@ -1,0 +1,424 @@
+{
+  "unit": "ngu_van_10",
+  "subject": "ngu_van",
+  "subject_name": "Ngữ văn",
+  "grade": 10,
+  "files": [
+    {
+      "file": "SGK Ngu van 10 Tap 1.pdf",
+      "volume": 1,
+      "page_count": 170,
+      "printed_offset": 1
+    },
+    {
+      "file": "SGK Ngu van 10 Tap 2.pdf",
+      "volume": 2,
+      "page_count": 138,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Ngu van 10 Tap 1.pdf",
+      "pdf_pages": [
+        3,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-1",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Ngu van 10 Tap 1.pdf",
+      "pdf_pages": [
+        5,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Ngu van 10 Tap 1.pdf",
+      "pdf_pages": [
+        7,
+        9
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "t01",
+      "role": "group",
+      "kind": "tap",
+      "label": null,
+      "number": 1,
+      "title": "Tập một",
+      "dir": "Tap-1",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Sức hấp dẫn của truyện kể",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Suc-hap-dan-cua-truyen-ke.md",
+          "source_file": "SGK Ngu van 10 Tap 1.pdf",
+          "pdf_pages": [
+            10,
+            43
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Vẻ đẹp của thơ ca",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Ve-dep-cua-tho-ca.md",
+          "source_file": "SGK Ngu van 10 Tap 1.pdf",
+          "pdf_pages": [
+            44,
+            72
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Nghệ thuật thuyết phục trong văn nghị luận",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Nghe-thuat-thuyet-phuc-trong-van-nghi-luan.md",
+          "source_file": "SGK Ngu van 10 Tap 1.pdf",
+          "pdf_pages": [
+            73,
+            97
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Sức sống của sử thi",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Suc-song-cua-su-thi.md",
+          "source_file": "SGK Ngu van 10 Tap 1.pdf",
+          "pdf_pages": [
+            98,
+            125
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Tích trò sân khấu dân gian",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Tich-tro-san-khau-dan-gian.md",
+          "source_file": "SGK Ngu van 10 Tap 1.pdf",
+          "pdf_pages": [
+            126,
+            156
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "on-tap-hk1",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Ôn tập học kì I",
+          "lesson_type": "on_tap",
+          "file": "On-tap-hoc-ki-I.md",
+          "source_file": "SGK Ngu van 10 Tap 1.pdf",
+          "pdf_pages": [
+            157,
+            160
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu thuật ngữ (Tập một)",
+      "file": "Bang-tra-cuu-thuat-ngu-Tap-1.md",
+      "source_file": "SGK Ngu van 10 Tap 1.pdf",
+      "pdf_pages": [
+        161,
+        162
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích một số thuật ngữ (Tập một)",
+      "file": "Bang-giai-thich-mot-so-thuat-ngu-Tap-1.md",
+      "source_file": "SGK Ngu van 10 Tap 1.pdf",
+      "pdf_pages": [
+        163,
+        164
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-tra-cuu-han-viet-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu một số yếu tố Hán Việt (Tập một)",
+      "file": null,
+      "source_file": "SGK Ngu van 10 Tap 1.pdf",
+      "pdf_pages": [
+        165,
+        166
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "bang-tra-cuu-ten-rieng-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu tên riêng nước ngoài (Tập một)",
+      "file": null,
+      "source_file": "SGK Ngu van 10 Tap 1.pdf",
+      "pdf_pages": [
+        167,
+        168
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-2",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục (Tập hai)",
+      "file": null,
+      "source_file": "SGK Ngu van 10 Tap 2.pdf",
+      "pdf_pages": [
+        3,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "t02",
+      "role": "group",
+      "kind": "tap",
+      "label": null,
+      "number": 2,
+      "title": "Tập hai",
+      "dir": "Tap-2",
+      "children": [
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Nguyễn Trãi – “Dành còn để trợ dân này”",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Nguyen-Trai-Danh-con-de-tro-dan-nay.md",
+          "source_file": "SGK Ngu van 10 Tap 2.pdf",
+          "pdf_pages": [
+            5,
+            37
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Quyền năng của người kể chuyện",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Quyen-nang-cua-nguoi-ke-chuyen.md",
+          "source_file": "SGK Ngu van 10 Tap 2.pdf",
+          "pdf_pages": [
+            38,
+            73
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Thế giới đa dạng của thông tin",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-The-gioi-da-dang-cua-thong-tin.md",
+          "source_file": "SGK Ngu van 10 Tap 2.pdf",
+          "pdf_pages": [
+            74,
+            99
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Hành trang cuộc sống",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Hanh-trang-cuoc-song.md",
+          "source_file": "SGK Ngu van 10 Tap 2.pdf",
+          "pdf_pages": [
+            100,
+            124
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "on-tap-hk2",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Ôn tập học kì II",
+          "lesson_type": "on_tap",
+          "file": "On-tap-hoc-ki-II.md",
+          "source_file": "SGK Ngu van 10 Tap 2.pdf",
+          "pdf_pages": [
+            125,
+            128
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu thuật ngữ (Tập hai)",
+      "file": "Bang-tra-cuu-thuat-ngu-Tap-2.md",
+      "source_file": "SGK Ngu van 10 Tap 2.pdf",
+      "pdf_pages": [
+        129,
+        130
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích một số thuật ngữ (Tập hai)",
+      "file": "Bang-giai-thich-mot-so-thuat-ngu-Tap-2.md",
+      "source_file": "SGK Ngu van 10 Tap 2.pdf",
+      "pdf_pages": [
+        131,
+        132
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-tra-cuu-han-viet-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu một số yếu tố Hán Việt (Tập hai)",
+      "file": null,
+      "source_file": "SGK Ngu van 10 Tap 2.pdf",
+      "pdf_pages": [
+        133,
+        134
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "bang-tra-cuu-ten-rieng-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu tên riêng nước ngoài (Tập hai)",
+      "file": null,
+      "source_file": "SGK Ngu van 10 Tap 2.pdf",
+      "pdf_pages": [
+        135,
+        136
+      ],
+      "status": "skip"
+    }
+  ],
+  "notes": [
+    "SGK Ngữ văn 10 gồm 2 tập: Tập một (170 trang PDF, gồm Bài 1–5 và Ôn tập học kì I) và Tập hai (138 trang PDF, gồm Bài 6–9 và Ôn tập học kì II). Cuối mỗi tập có 4 bảng tra cứu: Bảng tra cứu thuật ngữ, Bảng giải thích một số thuật ngữ, Bảng tra cứu một số yếu tố Hán Việt và Bảng tra cứu tên riêng nước ngoài.",
+    "Cả hai tập PDF đều có độ lệch trang (printed_offset) cố định bằng 1 xuyên suốt toàn bộ sách (Trang PDF = Trang in + 1, không có trang chèn ngoài lề).",
+    "Mỗi bài học (Bài 1–9) đều mở đầu bằng khung \"Yêu cầu cần đạt\" (ánh xạ thành \"## 🎯 Yêu cầu cần đạt\"), tiếp theo là các mạch hoạt động lớn không đánh số (\"## ĐỌC\", \"### TRI THỨC NGỮ VĂN\", \"### VĂN BẢN 1: ...\", \"### Thực hành tiếng Việt: ...\", \"## VIẾT\", \"### Bài viết tham khảo\", \"## NÓI VÀ NGHE\", \"## CỦNG CỐ, MỞ RỘNG\", \"## THỰC HÀNH ĐỌC\"). Trong Bài 6 (Văn bản 1: Tác gia Nguyễn Trãi) và hai bài Ôn tập học kì I, II có chia cấp mục đánh số La Mã (## I. ...), số Ả Rập (### 1. ...) và chữ cái thường (**a. ...**). Các thẻ chỉ dẫn đọc ở cột lề phải văn bản đọc và chỉ dẫn trong bài viết tham khảo được chép thành khối trích dẫn (\"> ...\") ngay sau đoạn tương ứng."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-04",
+      "scope": [
+        "t01",
+        "t02",
+        "bang-tra-cuu-thuat-ngu-tap-1",
+        "bang-giai-thich-thuat-ngu-tap-1",
+        "bang-tra-cuu-thuat-ngu-tap-2",
+        "bang-giai-thich-thuat-ngu-tap-2"
+      ],
+      "terms": 133,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán mẫu phân tầng 30 mục (15 thuật ngữ in_source, 8 thuật ngữ described, 7 hình/chân dung/sơ đồ) đối chiếu trực tiếp với ảnh trang gốc Tập 1 và Tập 2: khớp 100% nội dung giải nghĩa, số trang PDF/trang in và chú thích hình."
+    }
+  ],
+  "last_session_note": "Hoàn thành toàn bộ Cổng 0–4 cho ngu_van_10 (15 bài/bảng Tầng 1 verified, 17 hình 300 DPI sạch biên, 2 từ điển Tầng 2 với 133 thuật ngữ: 102 định nghĩa in_source, 11 mô tả, 20 Ngoài nguồn, 0 ghi chú mở; xuất dataset/ngu_van_10.json và kiểm toán mẫu 30 mục đạt 0 lỗi)."
+}
