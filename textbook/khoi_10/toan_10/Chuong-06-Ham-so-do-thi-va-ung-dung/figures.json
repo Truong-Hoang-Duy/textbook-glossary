@@ -1,0 +1,126 @@
+{
+  "H10-toan-b15-01": {
+    "pdf_page": 5,
+    "bbox": [325, 616, 525, 791],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Viền trên hoá đơn tiền điện nằm sát khung viền xanh nhạt của hộp Mục tiêu phía trên (y=612)"
+  },
+  "H10-toan-b15-02": {
+    "pdf_page": 6,
+    "bbox": [277, 266, 547, 394]
+  },
+  "H10-toan-b15-03": {
+    "pdf_page": 8,
+    "bbox": [396, 108, 530, 244]
+  },
+  "H10-toan-b15-04": {
+    "pdf_page": 8,
+    "bbox": [378, 272, 553, 380],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đầu mút trái trục hoành của Hình 6.3 nằm sát dấu chấm cuối dòng văn bản bên trái (x=374)"
+  },
+  "H10-toan-b15-05": {
+    "pdf_page": 8,
+    "bbox": [355, 632, 508, 773]
+  },
+  "H10-toan-b15-06": {
+    "pdf_page": 9,
+    "bbox": [405, 205, 524, 343]
+  },
+  "H10-toan-b15-07": {
+    "pdf_page": 9,
+    "bbox": [400, 518, 546, 705]
+  },
+  "H10-toan-b15-08": {
+    "pdf_page": 10,
+    "bbox": [318, 151, 540, 260]
+  },
+  "H10-toan-b15-09": {
+    "pdf_page": 11,
+    "bbox": [426, 398, 520, 458]
+  },
+  "H10-toan-b16-01": {
+    "pdf_page": 12,
+    "bbox": [388, 351, 530, 486]
+  },
+  "H10-toan-b16-02": {
+    "pdf_page": 13,
+    "bbox": [320, 520, 524, 664]
+  },
+  "H10-toan-b16-03": {
+    "pdf_page": 14,
+    "bbox": [328, 62, 530, 296]
+  },
+  "H10-toan-b16-04": {
+    "pdf_page": 14,
+    "bbox": [154, 329, 434, 499]
+  },
+  "H10-toan-b16-05": {
+    "pdf_page": 15,
+    "bbox": [76, 243, 516, 462],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đầu trên vạch kẻ dọc ngăn hai đồ thị Hình 6.11 nằm sát chân chữ dòng văn bản phía trên (y=239)"
+  },
+  "H10-toan-b16-06": {
+    "pdf_page": 16,
+    "bbox": [426, 38, 554, 204]
+  },
+  "H10-toan-b16-07": {
+    "pdf_page": 16,
+    "bbox": [312, 643, 539, 786],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới phải của khung chữ nhật chạm hoạ tiết trang trí số trang 15 ở chân trang"
+  },
+  "H10-toan-b16-08": {
+    "pdf_page": 17,
+    "bbox": [335, 438, 542, 618],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chú thích Hình 6.14 nằm sát dòng văn bản bên dưới (y=622)"
+  },
+  "H10-toan-b16-09": {
+    "pdf_page": 18,
+    "bbox": [196, 150, 430, 286]
+  },
+  "H10-toan-b16-10": {
+    "pdf_page": 19,
+    "bbox": [76, 176, 522, 304]
+  },
+  "H10-toan-b17-01": {
+    "pdf_page": 21,
+    "bbox": [412, 60, 510, 188]
+  },
+  "H10-toan-b17-02": {
+    "pdf_page": 21,
+    "bbox": [424, 232, 518, 364]
+  },
+  "H10-toan-b17-03": {
+    "pdf_page": 21,
+    "bbox": [54, 489, 538, 742],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Viền trên của bảng trong HĐ4 nằm sát chân chữ p của dòng Trường hợp a > 0 phía trên (y=485)"
+  },
+  "H10-toan-b17-04": {
+    "pdf_page": 22,
+    "bbox": [54, 75, 538, 250]
+  },
+  "H10-toan-b17-05": {
+    "pdf_page": 24,
+    "bbox": [375, 682, 528, 742]
+  },
+  "H10-toan-b17-06": {
+    "pdf_page": 25,
+    "bbox": [400, 290, 530, 450]
+  },
+  "H10-toan-b18-01": {
+    "pdf_page": 27,
+    "bbox": [332, 580, 538, 710]
+  },
+  "H10-toan-b18-02": {
+    "pdf_page": 28,
+    "bbox": [148, 288, 484, 456]
+  },
+  "H10-toan-b18-03": {
+    "pdf_page": 28,
+    "bbox": [132, 584, 426, 688]
+  }
+}

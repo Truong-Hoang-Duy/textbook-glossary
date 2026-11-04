@@ -1,0 +1,110 @@
+{
+  "H10-toan-b01-01": {
+    "pdf_page": 6,
+    "bbox": [310, 225, 550, 365],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình minh hoạ mở đầu chương nằm đè lên nền màu trang trí đầu chương"
+  },
+  "H10-toan-b01-02": {
+    "pdf_page": 6,
+    "bbox": [70, 646, 538, 782]
+  },
+  "H10-toan-b01-03": {
+    "pdf_page": 8,
+    "bbox": [280, 264, 542, 415]
+  },
+  "H10-toan-b01-04": {
+    "pdf_page": 9,
+    "bbox": [340, 86, 548, 168]
+  },
+  "H10-toan-b01-05": {
+    "pdf_page": 9,
+    "bbox": [338, 178, 465, 270]
+  },
+  "H10-toan-b01-06": {
+    "pdf_page": 9,
+    "bbox": [374, 360, 498, 478]
+  },
+  "H10-toan-b01-07": {
+    "pdf_page": 11,
+    "bbox": [68, 315, 532, 434]
+  },
+  "H10-toan-b01-08": {
+    "pdf_page": 12,
+    "bbox": [356, 650, 524, 761]
+  },
+  "H10-toan-b02-01": {
+    "pdf_page": 13,
+    "bbox": [52, 322, 540, 568],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh khung thoại màu cam của Hình 1.1 cao hơn chân dòng chữ bên trái"
+  },
+  "H10-toan-b02-02": {
+    "pdf_page": 14,
+    "bbox": [96, 405, 492, 507]
+  },
+  "H10-toan-b02-03": {
+    "pdf_page": 15,
+    "bbox": [425, 166, 516, 236]
+  },
+  "H10-toan-b02-04": {
+    "pdf_page": 15,
+    "bbox": [410, 240, 530, 352]
+  },
+  "H10-toan-b02-05": {
+    "pdf_page": 15,
+    "bbox": [115, 398, 485, 528]
+  },
+  "H10-toan-b02-06": {
+    "pdf_page": 16,
+    "bbox": [370, 446, 526, 594]
+  },
+  "H10-toan-b02-07": {
+    "pdf_page": 17,
+    "bbox": [52, 165, 346, 452]
+  },
+  "H10-toan-b02-08": {
+    "pdf_page": 17,
+    "bbox": [130, 510, 295, 570]
+  },
+  "H10-toan-b02-09": {
+    "pdf_page": 18,
+    "bbox": [396, 50, 532, 142]
+  },
+  "H10-toan-b02-10": {
+    "pdf_page": 18,
+    "bbox": [100, 256, 496, 312]
+  },
+  "H10-toan-b02-11": {
+    "pdf_page": 18,
+    "bbox": [400, 406, 534, 498]
+  },
+  "H10-toan-b02-12": {
+    "pdf_page": 18,
+    "bbox": [385, 516, 538, 638]
+  },
+  "H10-toan-b02-13": {
+    "pdf_page": 19,
+    "bbox": [300, 110, 440, 199]
+  },
+  "H10-toan-b02-14": {
+    "pdf_page": 19,
+    "bbox": [314, 208, 420, 304]
+  },
+  "H10-toan-b02-15": {
+    "pdf_page": 19,
+    "bbox": [74, 630, 310, 768]
+  },
+  "H10-toan-bt-c01-01": {
+    "pdf_page": 21,
+    "bbox": [394, 514, 532, 605]
+  },
+  "H10-toan-bt-c01-02": {
+    "pdf_page": 21,
+    "bbox": [184, 733, 406, 768]
+  },
+  "H10-toan-bt-c01-03": {
+    "pdf_page": 22,
+    "bbox": [66, 427, 528, 756]
+  }
+}

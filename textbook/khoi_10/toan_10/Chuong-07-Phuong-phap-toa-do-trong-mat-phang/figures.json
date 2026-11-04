@@ -1,0 +1,174 @@
+{
+  "H10-toan-b19-01": {
+    "pdf_page": 32,
+    "bbox": [402, 48, 525, 125]
+  },
+  "H10-toan-b19-02": {
+    "pdf_page": 32,
+    "bbox": [402, 135, 530, 268]
+  },
+  "H10-toan-b19-03": {
+    "pdf_page": 33,
+    "bbox": [405, 390, 530, 525]
+  },
+  "H10-toan-b19-04": {
+    "pdf_page": 33,
+    "bbox": [400, 625, 532, 758]
+  },
+  "H10-toan-b19-05": {
+    "pdf_page": 35,
+    "bbox": [375, 48, 550, 255]
+  },
+  "H10-toan-b19-06": {
+    "pdf_page": 35,
+    "bbox": [345, 540, 548, 685]
+  },
+  "H10-toan-b19-07": {
+    "pdf_page": 36,
+    "bbox": [90, 542, 485, 675]
+  },
+  "H10-toan-b20-01": {
+    "pdf_page": 38,
+    "bbox": [125, 58, 465, 159]
+  },
+  "H10-toan-b20-02": {
+    "pdf_page": 38,
+    "bbox": [355, 652, 532, 775]
+  },
+  "H10-toan-b20-03": {
+    "pdf_page": 39,
+    "bbox": [186, 164, 542, 305],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trên chạm dòng chữ dẫn câu hỏi ở bên trái và cạnh trái cắt phần thừa đuôi trục ngang để không dính chữ câu a, b"
+  },
+  "H10-toan-b20-04": {
+    "pdf_page": 40,
+    "bbox": [315, 415, 542, 612]
+  },
+  "H10-toan-b20-05": {
+    "pdf_page": 41,
+    "bbox": [355, 112, 522, 251]
+  },
+  "H10-toan-b20-06": {
+    "pdf_page": 41,
+    "bbox": [195, 562, 395, 715]
+  },
+  "H10-toan-b20-07": {
+    "pdf_page": 42,
+    "bbox": [325, 62, 548, 236]
+  },
+  "H10-toan-b20-08": {
+    "pdf_page": 43,
+    "bbox": [65, 98, 528, 316]
+  },
+  "H10-toan-b21-01": {
+    "pdf_page": 44,
+    "bbox": [395, 380, 532, 532]
+  },
+  "H10-toan-b21-02": {
+    "pdf_page": 45,
+    "bbox": [405, 642, 538, 748]
+  },
+  "H10-toan-b21-03": {
+    "pdf_page": 46,
+    "bbox": [385, 335, 548, 492]
+  },
+  "H10-toan-b21-04": {
+    "pdf_page": 46,
+    "bbox": [398, 555, 542, 695]
+  },
+  "H10-toan-b21-05": {
+    "pdf_page": 47,
+    "bbox": [405, 68, 522, 204]
+  },
+  "H10-toan-b22-01": {
+    "pdf_page": 49,
+    "bbox": [102, 293, 492, 456],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trên của ảnh chụp c) nằm sát đường viền khung Thuật ngữ – Kiến thức, kĩ năng phía trên (cách 1 pt)"
+  },
+  "H10-toan-b22-02": {
+    "pdf_page": 49,
+    "bbox": [382, 620, 538, 762]
+  },
+  "H10-toan-b22-03": {
+    "pdf_page": 50,
+    "bbox": [390, 132, 540, 286]
+  },
+  "H10-toan-b22-04": {
+    "pdf_page": 50,
+    "bbox": [395, 295, 540, 413]
+  },
+  "H10-toan-b22-05": {
+    "pdf_page": 50,
+    "bbox": [380, 420, 558, 558]
+  },
+  "H10-toan-b22-06": {
+    "pdf_page": 51,
+    "bbox": [330, 242, 532, 370]
+  },
+  "H10-toan-b22-07": {
+    "pdf_page": 51,
+    "bbox": [398, 395, 522, 528]
+  },
+  "H10-toan-b22-08": {
+    "pdf_page": 52,
+    "bbox": [395, 205, 540, 335]
+  },
+  "H10-toan-b22-09": {
+    "pdf_page": 52,
+    "bbox": [385, 355, 548, 465]
+  },
+  "H10-toan-b22-10": {
+    "pdf_page": 52,
+    "bbox": [402, 480, 545, 612]
+  },
+  "H10-toan-b22-11": {
+    "pdf_page": 53,
+    "bbox": [390, 550, 532, 698]
+  },
+  "H10-toan-b22-12": {
+    "pdf_page": 54,
+    "bbox": [345, 575, 528, 768]
+  },
+  "H10-toan-b22-13": {
+    "pdf_page": 55,
+    "bbox": [58, 210, 528, 370]
+  },
+  "H10-toan-b22-14": {
+    "pdf_page": 55,
+    "bbox": [65, 432, 535, 612]
+  },
+  "H10-toan-b22-15": {
+    "pdf_page": 55,
+    "bbox": [380, 630, 542, 782]
+  },
+  "H10-toan-b22-16": {
+    "pdf_page": 56,
+    "bbox": [68, 76, 290, 204]
+  },
+  "H10-toan-b22-17": {
+    "pdf_page": 56,
+    "bbox": [328, 76, 502, 204]
+  },
+  "H10-toan-b22-18": {
+    "pdf_page": 56,
+    "bbox": [75, 356, 508, 531]
+  },
+  "H10-toan-b22-19": {
+    "pdf_page": 57,
+    "bbox": [300, 100, 532, 225]
+  },
+  "H10-toan-b22-20": {
+    "pdf_page": 57,
+    "bbox": [478, 460, 535, 622]
+  },
+  "H10-toan-b22-21": {
+    "pdf_page": 58,
+    "bbox": [102, 130, 485, 262]
+  },
+  "H10-toan-bt-c07-01": {
+    "pdf_page": 60,
+    "bbox": [452, 340, 530, 522]
+  }
+}
