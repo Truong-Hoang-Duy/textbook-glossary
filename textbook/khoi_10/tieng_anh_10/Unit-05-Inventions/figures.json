@@ -1,0 +1,38 @@
+{
+  "H10-tieng_anh-u05-01": {
+    "pdf_page": 55,
+    "bbox": [48, 162, 292, 510]
+  },
+  "H10-tieng_anh-u05-02": {
+    "pdf_page": 56,
+    "bbox": [42, 623, 290, 792]
+  },
+  "H10-tieng_anh-u05-03": {
+    "pdf_page": 58,
+    "bbox": [42, 372, 285, 590]
+  },
+  "H10-tieng_anh-u05-04": {
+    "pdf_page": 58,
+    "bbox": [318, 132, 542, 408]
+  },
+  "H10-tieng_anh-u05-05": {
+    "pdf_page": 59,
+    "bbox": [48, 240, 292, 492]
+  },
+  "H10-tieng_anh-u05-06": {
+    "pdf_page": 61,
+    "bbox": [310, 195, 562, 415]
+  },
+  "H10-tieng_anh-r02-01": {
+    "pdf_page": 63,
+    "bbox": [68, 212, 545, 438]
+  },
+  "H10-tieng_anh-r02-02": {
+    "pdf_page": 63,
+    "bbox": [65, 515, 550, 785]
+  },
+  "H10-tieng_anh-r02-03": {
+    "pdf_page": 65,
+    "bbox": [65, 280, 552, 412]
+  }
+}

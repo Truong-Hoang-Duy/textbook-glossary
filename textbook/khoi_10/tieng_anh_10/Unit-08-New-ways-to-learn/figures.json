@@ -1,0 +1,16 @@
+{
+  "H10-tieng_anh-u08-01": {
+    "pdf_page": 90,
+    "bbox": [289, 58, 546, 274],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh dưới ảnh (b) đè sát lên nền khung màu cam của đoạn văn Kim"
+  },
+  "H10-tieng_anh-u08-02": {
+    "pdf_page": 91,
+    "bbox": [358, 388, 556, 524]
+  },
+  "H10-tieng_anh-u08-03": {
+    "pdf_page": 92,
+    "bbox": [74, 582, 508, 750]
+  }
+}

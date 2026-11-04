@@ -1,0 +1,439 @@
+{
+  "unit": "tieng_anh_10",
+  "subject": "tieng_anh",
+  "subject_name": "Tiếng Anh",
+  "grade": 10,
+  "files": [
+    {
+      "file": "SGK Tieng Anh 10 Global Success.pdf",
+      "volume": null,
+      "page_count": 132,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "contents",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Contents",
+      "file": null,
+      "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "book-map",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Book Map",
+      "file": null,
+      "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+      "pdf_pages": [
+        5,
+        8
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "unit-01",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 1",
+      "number": 1,
+      "title": "Family life",
+      "dir": "Unit-01-Family-life",
+      "children": [
+        {
+          "id": "u01",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 1",
+          "number": 1,
+          "title": "Family life",
+          "lesson_type": "ly_thuyet",
+          "file": "U01-Family-life.md",
+          "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+          "pdf_pages": [
+            9,
+            18
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-02",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 2",
+      "number": 2,
+      "title": "Humans and the environment",
+      "dir": "Unit-02-Humans-and-the-environment",
+      "children": [
+        {
+          "id": "u02",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 2",
+          "number": 2,
+          "title": "Humans and the environment",
+          "lesson_type": "ly_thuyet",
+          "file": "U02-Humans-and-the-environment.md",
+          "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+          "pdf_pages": [
+            19,
+            28
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-03",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 3",
+      "number": 3,
+      "title": "Music",
+      "dir": "Unit-03-Music",
+      "children": [
+        {
+          "id": "u03",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 3",
+          "number": 3,
+          "title": "Music",
+          "lesson_type": "ly_thuyet",
+          "file": "U03-Music.md",
+          "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+          "pdf_pages": [
+            29,
+            38
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r01",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 1,
+          "title": "Review 1",
+          "lesson_type": "on_tap",
+          "file": "R01-Review-1.md",
+          "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+          "pdf_pages": [
+            39,
+            42
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-04",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 4",
+      "number": 4,
+      "title": "For a better community",
+      "dir": "Unit-04-For-a-better-community",
+      "children": [
+        {
+          "id": "u04",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 4",
+          "number": 4,
+          "title": "For a better community",
+          "lesson_type": "ly_thuyet",
+          "file": "U04-For-a-better-community.md",
+          "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+          "pdf_pages": [
+            43,
+            52
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-05",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 5",
+      "number": 5,
+      "title": "Inventions",
+      "dir": "Unit-05-Inventions",
+      "children": [
+        {
+          "id": "u05",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 5",
+          "number": 5,
+          "title": "Inventions",
+          "lesson_type": "ly_thuyet",
+          "file": "U05-Inventions.md",
+          "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+          "pdf_pages": [
+            53,
+            62
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r02",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 2,
+          "title": "Review 2",
+          "lesson_type": "on_tap",
+          "file": "R02-Review-2.md",
+          "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+          "pdf_pages": [
+            63,
+            66
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-06",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 6",
+      "number": 6,
+      "title": "Gender equality",
+      "dir": "Unit-06-Gender-equality",
+      "children": [
+        {
+          "id": "u06",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 6",
+          "number": 6,
+          "title": "Gender equality",
+          "lesson_type": "ly_thuyet",
+          "file": "U06-Gender-equality.md",
+          "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+          "pdf_pages": [
+            67,
+            76
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-07",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 7",
+      "number": 7,
+      "title": "Viet Nam and international organisations",
+      "dir": "Unit-07-Viet-Nam-and-international-organisations",
+      "children": [
+        {
+          "id": "u07",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 7",
+          "number": 7,
+          "title": "Viet Nam and international organisations",
+          "lesson_type": "ly_thuyet",
+          "file": "U07-Viet-Nam-and-international-organisations.md",
+          "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+          "pdf_pages": [
+            77,
+            86
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-08",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 8",
+      "number": 8,
+      "title": "New ways to learn",
+      "dir": "Unit-08-New-ways-to-learn",
+      "children": [
+        {
+          "id": "u08",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 8",
+          "number": 8,
+          "title": "New ways to learn",
+          "lesson_type": "ly_thuyet",
+          "file": "U08-New-ways-to-learn.md",
+          "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+          "pdf_pages": [
+            87,
+            96
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r03",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 3,
+          "title": "Review 3",
+          "lesson_type": "on_tap",
+          "file": "R03-Review-3.md",
+          "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+          "pdf_pages": [
+            97,
+            100
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-09",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 9",
+      "number": 9,
+      "title": "Protecting the environment",
+      "dir": "Unit-09-Protecting-the-environment",
+      "children": [
+        {
+          "id": "u09",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 9",
+          "number": 9,
+          "title": "Protecting the environment",
+          "lesson_type": "ly_thuyet",
+          "file": "U09-Protecting-the-environment.md",
+          "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+          "pdf_pages": [
+            101,
+            110
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-10",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 10",
+      "number": 10,
+      "title": "Ecotourism",
+      "dir": "Unit-10-Ecotourism",
+      "children": [
+        {
+          "id": "u10",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 10",
+          "number": 10,
+          "title": "Ecotourism",
+          "lesson_type": "ly_thuyet",
+          "file": "U10-Ecotourism.md",
+          "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+          "pdf_pages": [
+            111,
+            120
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r04",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 4,
+          "title": "Review 4",
+          "lesson_type": "on_tap",
+          "file": "R04-Review-4.md",
+          "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+          "pdf_pages": [
+            121,
+            124
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Glossary",
+      "file": "Glossary.md",
+      "source_file": "SGK Tieng Anh 10 Global Success.pdf",
+      "pdf_pages": [
+        125,
+        132
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "Độ lệch trang +1 thống nhất từ PDF 3 (trang in 2, Contents) đến PDF 132 (trang in 131, Glossary). PDF 1–2 là bìa sách — không đưa vào toc.",
+    "4 bài Review (Review 1–4) được gộp vào thư mục của Unit đứng ngay trước nó (Unit 3, Unit 5, Unit 8, Unit 10) theo đúng chuẩn SPEC-TEXTBOOK-01 và mẫu tieng_anh_12.",
+    "Ở trang mở đầu của Unit 9 (trang in 100, PDF 101) và Unit 10 (trang in 110, PDF 111), lá cờ góc trên bên trái chỉ in số 9 và 10 (thiếu chữ Unit so với Unit 1–8), trong khi ở bảng Contents (trang in 2, PDF 3), Book Map (trang in 6, PDF 7) và tiêu đề chạy đầu trang chẵn/lẻ vẫn ghi UNIT 9 / Unit 9 và UNIT 10 / Unit 10.",
+    "Chính tả tiếng Anh giữ nguyên chuẩn Anh – Anh (British English) theo SGK (organisation, programme, centre, practise (v) / practice (n), realise, favour, colour, travelling, equal, spotlessly...)."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-04",
+      "scope": [
+        "unit-01",
+        "unit-02",
+        "unit-03",
+        "unit-04",
+        "unit-05",
+        "unit-06",
+        "unit-07",
+        "unit-08",
+        "unit-09",
+        "unit-10"
+      ],
+      "terms": 343,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ 10 Unit, 4 Review và Glossary (343 thuật ngữ, 44 hình minh hoạ): lấy mẫu 30 mục (10 mục [mô tả] như housework, household appliances, reality TV show, sense of purpose, educational app, gender equality, UNICEF, take notes, global warming, ecotour; 10 hình minh hoạ H10-tieng_anh-u01-01, u02-01, u03-04, u04-01, u05-03, u06-02, u07-07, u08-03, u09-01, u10-01; và 10 mục từ in_source từ Glossary và bài học trên 10 Unit: benefit, adopt, bamboo clapper, access, 3D printing, cosmonaut, aim, blended learning, biodiversity, aware). Toàn bộ 30 mục mẫu khớp 100% với ảnh trang PDF gốc (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-04: Hoàn thành toàn bộ tieng_anh_10 từ Cổng 0 đến Cổng 4 (10 Unit, 4 Review, Glossary, 44 hình minh hoạ, 10 từ điển với 343 thuật ngữ, 3 ghi chú nguồn đóng); xuất dataset textbook/dataset/tieng_anh_10.json đạt chuẩn."
+}

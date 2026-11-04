@@ -1,0 +1,18 @@
+{
+  "H10-tieng_anh-u09-01": {
+    "pdf_page": 104,
+    "bbox": [40, 285, 555, 480],
+    "allow_edge_ink": true,
+    "edge_ink_note": "4 tranh a, b, c, d xếp chồng chéo trên nền màu xanh nhạt tràn lề trang và lệch dòng với mục 2 bên trái"
+  },
+  "H10-tieng_anh-u09-02": {
+    "pdf_page": 107,
+    "bbox": [34, 200, 296, 486]
+  },
+  "H10-tieng_anh-u09-03": {
+    "pdf_page": 107,
+    "bbox": [523, 431, 583, 497],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Viền trái hình tròn logo WWF tiếp giáp sát dấu hỏi chấm của câu 3 bên trái (x=519)"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "H10-tieng_anh-u06-01": {
+    "pdf_page": 70,
+    "bbox": [58, 160, 591, 412],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh phải khung tranh c tràn sát mép phải trang sách"
+  },
+  "H10-tieng_anh-u06-02": {
+    "pdf_page": 72,
+    "bbox": [300, 300, 528, 412]
+  },
+  "H10-tieng_anh-u06-03": {
+    "pdf_page": 75,
+    "bbox": [48, 386, 302, 646]
+  }
+}

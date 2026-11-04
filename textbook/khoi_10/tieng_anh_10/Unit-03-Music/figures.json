@@ -1,0 +1,26 @@
+{
+  "H10-tieng_anh-u03-01": {
+    "pdf_page": 32,
+    "bbox": [32, 183, 545, 402],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Phần đáy hai khung tranh sân khấu American Idol và The X Factor đặt nghiêng đè lên nền lượn sóng màu xanh dương nhạt của bài tập 2"
+  },
+  "H10-tieng_anh-u03-02": {
+    "pdf_page": 34,
+    "bbox": [4, 171, 282, 281],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trái bức tranh buổi biểu diễn âm nhạc ngoài trời sát mép lề trái trang sách (x=0)"
+  },
+  "H10-tieng_anh-u03-03": {
+    "pdf_page": 36,
+    "bbox": [35, 122, 572, 491]
+  },
+  "H10-tieng_anh-u03-04": {
+    "pdf_page": 36,
+    "bbox": [32, 504, 552, 752]
+  },
+  "H10-tieng_anh-r01-01": {
+    "pdf_page": 42,
+    "bbox": [342, 62, 495, 290]
+  }
+}
