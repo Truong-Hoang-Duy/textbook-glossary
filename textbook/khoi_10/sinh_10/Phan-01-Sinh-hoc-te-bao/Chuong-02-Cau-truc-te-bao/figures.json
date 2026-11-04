@@ -1,0 +1,39 @@
+{
+  "H10-sinh-b07-01": {
+    "pdf_page": 45,
+    "bbox": [90, 582, 516, 775],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nhãn 'Tế bào động vật và thực vật' ở đỉnh Hình 7.1 nằm sát hàng chữ cuối đoạn văn phía trên"
+  },
+  "H10-sinh-b07-02": { "pdf_page": 46, "bbox": [260, 240, 536, 495] },
+  "H10-sinh-b07-03": { "pdf_page": 47, "bbox": [237, 72, 544, 236] },
+  "H10-sinh-b07-04": {
+    "pdf_page": 48,
+    "bbox": [264, 106, 522, 382],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 7.4 và chú thích nằm trong hộp nền xanh Khoa học và đời sống"
+  },
+  "H10-sinh-b08-01": {
+    "pdf_page": 49,
+    "bbox": [164, 294, 295, 410],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc trên bên trái của hình mở đầu nằm sát biểu tượng nút đỏ của hộp Mở đầu"
+  },
+  "H10-sinh-b08-02": { "pdf_page": 49, "bbox": [55, 558, 536, 775] },
+  "H10-sinh-b08-03": { "pdf_page": 50, "bbox": [248, 132, 542, 380] },
+  "H10-sinh-b08-04": { "pdf_page": 50, "bbox": [314, 578, 544, 766] },
+  "H10-sinh-b08-05": { "pdf_page": 51, "bbox": [284, 108, 544, 310] },
+  "H10-sinh-b08-06": { "pdf_page": 51, "bbox": [290, 544, 564, 762] },
+  "H10-sinh-b08-07": { "pdf_page": 52, "bbox": [288, 306, 542, 518] },
+  "H10-sinh-b08-08": { "pdf_page": 53, "bbox": [84, 62, 515, 214] },
+  "H10-sinh-b08-09": { "pdf_page": 54, "bbox": [260, 72, 542, 264] },
+  "H10-sinh-b08-10": { "pdf_page": 54, "bbox": [50, 602, 550, 784] },
+  "H10-sinh-b08-11": { "pdf_page": 55, "bbox": [282, 292, 544, 496] },
+  "H10-sinh-b08-12": { "pdf_page": 56, "bbox": [138, 184, 518, 418] },
+  "H10-sinh-b08-13": { "pdf_page": 57, "bbox": [100, 230, 496, 436] },
+  "H10-sinh-b08-14": { "pdf_page": 58, "bbox": [302, 66, 548, 260] },
+  "H10-sinh-b08-15": { "pdf_page": 58, "bbox": [325, 278, 530, 540] },
+  "H10-sinh-b08-16": { "pdf_page": 59, "bbox": [300, 112, 540, 374] },
+  "H10-sinh-b08-17": { "pdf_page": 59, "bbox": [246, 465, 540, 640] },
+  "H10-sinh-so-do-tom-tat-c02-01": { "pdf_page": 64, "bbox": [60, 482, 533, 759] }
+}

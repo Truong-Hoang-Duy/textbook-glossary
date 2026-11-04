@@ -1,0 +1,758 @@
+{
+  "unit": "sinh_10",
+  "subject": "sinh",
+  "subject_name": "Sinh học",
+  "grade": 10,
+  "files": [
+    {
+      "file": "SGK Sinh hoc 10.pdf",
+      "volume": null,
+      "page_count": 162,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Sinh hoc 10.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Sinh hoc 10.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Sinh hoc 10.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "p00",
+      "role": "group",
+      "kind": "phan",
+      "label": null,
+      "number": null,
+      "title": "Phần Mở đầu",
+      "dir": "Phan-00-Mo-dau",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Giới thiệu khái quát môn Sinh học",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Gioi-thieu-khai-quat-mon-Sinh-hoc.md",
+          "source_file": "SGK Sinh hoc 10.pdf",
+          "pdf_pages": [
+            6,
+            12
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Phương pháp nghiên cứu và học tập môn Sinh học",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Phuong-phap-nghien-cuu-va-hoc-tap-mon-Sinh-hoc.md",
+          "source_file": "SGK Sinh hoc 10.pdf",
+          "pdf_pages": [
+            13,
+            18
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Các cấp độ tổ chức của thế giới sống",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Cac-cap-do-to-chuc-cua-the-gioi-song.md",
+          "source_file": "SGK Sinh hoc 10.pdf",
+          "pdf_pages": [
+            19,
+            22
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "so-do-tom-tat-p00",
+          "role": "lesson",
+          "kind": "so_do_tom_tat",
+          "label": null,
+          "number": null,
+          "title": "Sơ đồ tóm tắt kiến thức phần Mở đầu",
+          "lesson_type": "on_tap",
+          "file": "So-do-tom-tat-phan-mo-dau.md",
+          "source_file": "SGK Sinh hoc 10.pdf",
+          "pdf_pages": [
+            23,
+            23
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "p01",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần một",
+      "number": 1,
+      "title": "Sinh học tế bào",
+      "dir": "Phan-01-Sinh-hoc-te-bao",
+      "children": [
+        {
+          "id": "c01",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 1",
+          "number": 1,
+          "title": "Thành phần hoá học của tế bào",
+          "dir": "Chuong-01-Thanh-phan-hoa-hoc-cua-te-bao",
+          "children": [
+            {
+              "id": "b04",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 4",
+              "number": 4,
+              "title": "Các nguyên tố hoá học và nước",
+              "lesson_type": "ly_thuyet",
+              "file": "B04-Cac-nguyen-to-hoa-hoc-va-nuoc.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                24,
+                28
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b05",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 5",
+              "number": 5,
+              "title": "Các phân tử sinh học",
+              "lesson_type": "ly_thuyet",
+              "file": "B05-Cac-phan-tu-sinh-hoc.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                29,
+                41
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b06",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 6",
+              "number": 6,
+              "title": "Thực hành: Nhận biết một số phân tử sinh học",
+              "lesson_type": "thuc_hanh",
+              "file": "B06-Thuc-hanh-Nhan-biet-mot-so-phan-tu-sinh-hoc.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                42,
+                43
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c01",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 1",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-1.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                44,
+                44
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "c02",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 2",
+          "number": 2,
+          "title": "Cấu trúc tế bào",
+          "dir": "Chuong-02-Cau-truc-te-bao",
+          "children": [
+            {
+              "id": "b07",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 7",
+              "number": 7,
+              "title": "Tế bào nhân sơ",
+              "lesson_type": "ly_thuyet",
+              "file": "B07-Te-bao-nhan-so.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                45,
+                48
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b08",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 8",
+              "number": 8,
+              "title": "Tế bào nhân thực",
+              "lesson_type": "ly_thuyet",
+              "file": "B08-Te-bao-nhan-thuc.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                49,
+                61
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b09",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 9",
+              "number": 9,
+              "title": "Thực hành: Quan sát tế bào",
+              "lesson_type": "thuc_hanh",
+              "file": "B09-Thuc-hanh-Quan-sat-te-bao.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                62,
+                64
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c02",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 2",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-2.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                64,
+                64
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "c03",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 3",
+          "number": 3,
+          "title": "Trao đổi chất qua màng và truyền tin tế bào",
+          "dir": "Chuong-03-Trao-doi-chat-qua-mang-va-truyen-tin-te-bao",
+          "children": [
+            {
+              "id": "b10",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 10",
+              "number": 10,
+              "title": "Trao đổi chất qua màng tế bào",
+              "lesson_type": "ly_thuyet",
+              "file": "B10-Trao-doi-chat-qua-mang-te-bao.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                65,
+                71
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b11",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 11",
+              "number": 11,
+              "title": "Thực hành: Thí nghiệm co và phản co nguyên sinh",
+              "lesson_type": "thuc_hanh",
+              "file": "B11-Thuc-hanh-Thi-nghiem-co-va-phan-co-nguyen-sinh.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                72,
+                73
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b12",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 12",
+              "number": 12,
+              "title": "Truyền tin tế bào",
+              "lesson_type": "ly_thuyet",
+              "file": "B12-Truyen-tin-te-bao.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                74,
+                77
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c03",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 3",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-3.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                78,
+                78
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "c04",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 4",
+          "number": 4,
+          "title": "Chuyển hoá năng lượng trong tế bào",
+          "dir": "Chuong-04-Chuyen-hoa-nang-luong-trong-te-bao",
+          "children": [
+            {
+              "id": "b13",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 13",
+              "number": 13,
+              "title": "Khái quát về chuyển hoá vật chất và năng lượng",
+              "lesson_type": "ly_thuyet",
+              "file": "B13-Khai-quat-ve-chuyen-hoa-vat-chat-va-nang-luong.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                79,
+                85
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b14",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 14",
+              "number": 14,
+              "title": "Phân giải và tổng hợp các chất trong tế bào",
+              "lesson_type": "ly_thuyet",
+              "file": "B14-Phan-giai-va-tong-hop-cac-chat-trong-te-bao.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                86,
+                94
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b15",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 15",
+              "number": 15,
+              "title": "Thực hành: Thí nghiệm phân tích ảnh hưởng của một số yếu tố đến hoạt tính của enzyme và kiểm tra hoạt tính của enzyme amylase",
+              "lesson_type": "thuc_hanh",
+              "file": "B15-Thuc-hanh-Thi-nghiem-phan-tich-anh-huong-cua-mot-so-yeu-to-den-hoat-tinh-cua-enzyme-va-kiem-tra-hoat-tinh-cua-enzyme-amylase.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                95,
+                96
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c04",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 4",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-4.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                97,
+                97
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "c05",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 5",
+          "number": 5,
+          "title": "Chu kì tế bào và phân bào",
+          "dir": "Chuong-05-Chu-ki-te-bao-va-phan-bao",
+          "children": [
+            {
+              "id": "b16",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 16",
+              "number": 16,
+              "title": "Chu kì tế bào và nguyên phân",
+              "lesson_type": "ly_thuyet",
+              "file": "B16-Chu-ki-te-bao-va-nguyen-phan.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                98,
+                104
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b17",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 17",
+              "number": 17,
+              "title": "Giảm phân",
+              "lesson_type": "ly_thuyet",
+              "file": "B17-Giam-phan.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                105,
+                108
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b18",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 18",
+              "number": 18,
+              "title": "Thực hành: Làm và quan sát tiêu bản quá trình nguyên phân và giảm phân",
+              "lesson_type": "thuc_hanh",
+              "file": "B18-Thuc-hanh-Lam-va-quan-sat-tieu-ban-qua-trinh-nguyen-phan-va-giam-phan.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                109,
+                110
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b19",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 19",
+              "number": 19,
+              "title": "Công nghệ tế bào",
+              "lesson_type": "ly_thuyet",
+              "file": "B19-Cong-nghe-te-bao.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                111,
+                115
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c05",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 5",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-5.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                116,
+                116
+              ],
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần hai",
+      "number": 2,
+      "title": "Sinh học vi sinh vật và virus",
+      "dir": "Phan-02-Sinh-hoc-vi-sinh-vat-va-virus",
+      "children": [
+        {
+          "id": "c06",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 6",
+          "number": 6,
+          "title": "Sinh học vi sinh vật",
+          "dir": "Chuong-06-Sinh-hoc-vi-sinh-vat",
+          "children": [
+            {
+              "id": "b20",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 20",
+              "number": 20,
+              "title": "Sự đa dạng và phương pháp nghiên cứu vi sinh vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B20-Su-da-dang-va-phuong-phap-nghien-cuu-vi-sinh-vat.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                117,
+                122
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b21",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 21",
+              "number": 21,
+              "title": "Trao đổi chất, sinh trưởng và sinh sản ở vi sinh vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B21-Trao-doi-chat-sinh-truong-va-sinh-san-o-vi-sinh-vat.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                123,
+                131
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b22",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 22",
+              "number": 22,
+              "title": "Vai trò và ứng dụng của vi sinh vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B22-Vai-tro-va-ung-dung-cua-vi-sinh-vat.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                132,
+                138
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b23",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 23",
+              "number": 23,
+              "title": "Thực hành: Một số phương pháp nghiên cứu vi sinh vật thông dụng, tìm hiểu về các sản phẩm công nghệ vi sinh vật và làm một số sản phẩm lên men từ vi sinh vật",
+              "lesson_type": "thuc_hanh",
+              "file": "B23-Thuc-hanh-Mot-so-phuong-phap-nghien-cuu-vi-sinh-vat-thong-dung.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                139,
+                140
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c06",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 6",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-6.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                141,
+                141
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "c07",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 7",
+          "number": 7,
+          "title": "Virus",
+          "dir": "Chuong-07-Virus",
+          "children": [
+            {
+              "id": "b24",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 24",
+              "number": 24,
+              "title": "Khái quát về virus",
+              "lesson_type": "ly_thuyet",
+              "file": "B24-Khai-quat-ve-virus.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                142,
+                145
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b25",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 25",
+              "number": 25,
+              "title": "Một số bệnh do virus và các thành tựu nghiên cứu ứng dụng virus",
+              "lesson_type": "ly_thuyet",
+              "file": "B25-Mot-so-benh-do-virus-va-cac-thanh-tuu-nghien-cuu-ung-dung-virus.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                146,
+                155
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b26",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 26",
+              "number": 26,
+              "title": "Thực hành: Điều tra một số bệnh do virus và tuyên truyền phòng chống bệnh",
+              "lesson_type": "thuc_hanh",
+              "file": "B26-Thuc-hanh-Dieu-tra-mot-so-benh-do-virus-va-tuyen-truyen-phong-chong-benh.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                156,
+                157
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c07",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 7",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-7.md",
+              "source_file": "SGK Sinh hoc 10.pdf",
+              "pdf_pages": [
+                158,
+                158
+              ],
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "giai-thich-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Giải thích một số thuật ngữ dùng trong sách",
+      "file": "Giai-thich-mot-so-thuat-ngu-trong-sach.md",
+      "source_file": "SGK Sinh hoc 10.pdf",
+      "pdf_pages": [
+        159,
+        160
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "Độ lệch trang +1 thống nhất từ PDF 3 (trang in 2) đến PDF 160 (trang in 159). PDF 1–2 và 161–162 là bìa, trang bản quyền, trang xuất bản — không đưa vào toc.",
+    "Mục lục ghi số chương La Mã (Chương I–VII); trang mở đầu ghi số Ả Rập (Chương 1–7) — thống nhất theo trang mở đầu.",
+    "Phần Mở đầu (Bài 1–3, PDF 6–23) không chia chương; tổ chức thành nhóm p00 (Phan-00-Mo-dau) kèm Sơ đồ tóm tắt kiến thức phần Mở đầu (PDF 23).",
+    "Cuối Phần Mở đầu và mỗi chương có một trang \"Sơ đồ tóm tắt kiến thức\" (PDF 23, 44, 64, 78, 97, 116, 141, 158) không có trong mục lục; ghi thành nút kind so_do_tom_tat. Riêng Sơ đồ tóm tắt kiến thức chương 2 nằm ở nửa dưới PDF 64 (chung trang cuối của Bài 9). Các trang PDF 23, 44, 78, 116, 141, 158 in xoay ngang (rotate: 90 CW).",
+    "Trang cuối sách (PDF 159–160, trang in 158–159): \"Giải thích một số thuật ngữ dùng trong sách\" gồm 23 thuật ngữ xếp theo chữ cái A–V."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-04",
+      "scope": [
+        "p00",
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "c07"
+      ],
+      "terms": 384,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm tra mẫu độc lập Cổng 4 trên toàn bộ 8 nhóm (p00, c01..c07): lấy mẫu phân tầng 30/384 thuật ngữ có nguồn (seed 10: Phân bón vi sinh, Đường đôi, Tín hiệu điều hoà phân bào, Nuôi cấy hạt phấn hoặc noãn chưa thụ tinh, Khí biogas, Liên kết hydrogen, Trung thể, Tế bào gốc phôi, Archaea, Ẩm bào, Sinh học, Túi vận chuyển, Liên kết glycosidic, Quá trình cố định nitrogen, Vi sinh vật nhân thực, Sự chuyển hoá vật chất, Liên kết peptide, Khuếch tán đơn giản, Tự điều chỉnh, Hô hấp kị khí, Chitin, Kì giữa, Thuốc kháng sinh, Giai đoạn hấp phụ, Ức chế ngược, Quang phân li nước, Aquaporin, Vaccine mRNA, Đẳng trương, Công nghệ tế bào động vật), đối chiếu trực tiếp Giải nghĩa, trang PDF, trang in, mục với ảnh trang gốc (cache/pages/sinh_10/): 0 lỗi (0%). Toàn bộ 101 hình cắt (img/H10-sinh-*.png) đạt chuẩn 0 lỗi cắt qua nét vẽ."
+    }
+  ],
+  "last_session_note": "2026-11-04: Hoàn thành 100% bộ sách Sinh học 10 (Phần Mở đầu & Chương 1–7, Bài 1–26, 8 sơ đồ tóm tắt và bảng giải thích thuật ngữ cuối sách). Đạt Cổng 0, Cổng 1 (35 file Tầng 1, 101 hình minh họa), Cổng 2 & 2b (8 từ điển Tầng 2, 427 thuật ngữ, 23/23 mục tra cứu cuối sách được bao phủ), Cổng 3 (dataset/sinh_10.json hợp lệ schema), Cổng 4 (mẫu 30 mục đạt 0 lỗi). Tất cả 35 bài đạt trạng thái verified."
+}
