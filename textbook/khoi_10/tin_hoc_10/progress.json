@@ -1,0 +1,725 @@
+{
+  "unit": "tin_hoc_10",
+  "subject": "tin_hoc",
+  "subject_name": "Tin học",
+  "grade": 10,
+  "files": [
+    {
+      "file": "SGK Tin hoc 10.pdf",
+      "volume": null,
+      "page_count": 170,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Tin hoc 10.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Tin hoc 10.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Tin hoc 10.pdf",
+      "pdf_pages": [
+        5,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "cd01",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 1",
+      "number": 1,
+      "title": "Máy tính và xã hội tri thức",
+      "dir": "Chu-de-01-May-tinh-va-xa-hoi-tri-thuc",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Thông tin và xử lí thông tin",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Thong-tin-va-xu-li-thong-tin.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            7,
+            11
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Vai trò của thiết bị thông minh và tin học đối với xã hội",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Vai-tro-cua-thiet-bi-thong-minh-va-tin-hoc-doi-voi-xa-hoi.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            12,
+            16
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Một số kiểu dữ liệu và dữ liệu văn bản",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Mot-so-kieu-du-lieu-va-du-lieu-van-ban.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            17,
+            20
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Hệ nhị phân và dữ liệu số nguyên",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-He-nhi-phan-va-du-lieu-so-nguyen.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            21,
+            24
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Dữ liệu lôgic",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Du-lieu-logic.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            25,
+            28
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Dữ liệu âm thanh và hình ảnh",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Du-lieu-am-thanh-va-hinh-anh.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            29,
+            33
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Thực hành sử dụng thiết bị số thông dụng",
+          "lesson_type": "thuc_hanh",
+          "file": "B07-Thuc-hanh-su-dung-thiet-bi-so-thong-dung.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            34,
+            38
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd02",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 2",
+      "number": 2,
+      "title": "Mạng máy tính và Internet",
+      "dir": "Chu-de-02-Mang-may-tinh-va-Internet",
+      "children": [
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Mạng máy tính trong cuộc sống hiện đại",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Mang-may-tinh-trong-cuoc-song-hien-dai.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            39,
+            44
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "An toàn trên không gian mạng",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-An-toan-tren-khong-gian-mang.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            45,
+            50
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Thực hành khai thác tài nguyên trên Internet",
+          "lesson_type": "thuc_hanh",
+          "file": "B10-Thuc-hanh-khai-thac-tai-nguyen-tren-Internet.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            51,
+            55
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd03",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 3",
+      "number": 3,
+      "title": "Đạo đức, pháp luật và văn hoá trong môi trường số",
+      "dir": "Chu-de-03-Dao-duc-phap-luat-va-van-hoa-trong-moi-truong-so",
+      "children": [
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Ứng xử trên môi trường số. Nghĩa vụ tôn trọng bản quyền",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Ung-xu-tren-moi-truong-so-Nghia-vu-ton-trong-ban-quyen.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            56,
+            63
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd04",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 4",
+      "number": 4,
+      "title": "Ứng dụng tin học",
+      "dir": "Chu-de-04-Ung-dung-tin-hoc",
+      "children": [
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Phần mềm thiết kế đồ hoạ",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Phan-mem-thiet-ke-do-hoa.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            64,
+            69
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Bổ sung các đối tượng đồ hoạ",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Bo-sung-cac-doi-tuong-do-hoa.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            70,
+            75
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Làm việc với đối tượng đường và văn bản",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-Lam-viec-voi-doi-tuong-duong-va-van-ban.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            76,
+            82
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Hoàn thiện hình ảnh đồ hoạ",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Hoan-thien-hinh-anh-do-hoa.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            83,
+            86
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd05",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 5",
+      "number": 5,
+      "title": "Giải quyết vấn đề với sự trợ giúp của máy tính",
+      "dir": "Chu-de-05-Giai-quyet-van-de-voi-su-tro-giup-cua-may-tinh",
+      "children": [
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Ngôn ngữ lập trình bậc cao và Python",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Ngon-ngu-lap-trinh-bac-cao-va-Python.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            87,
+            91
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Biến và lệnh gán",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Bien-va-lenh-gan.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            92,
+            97
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Các lệnh vào ra đơn giản",
+          "lesson_type": "ly_thuyet",
+          "file": "B18-Cac-lenh-vao-ra-don-gian.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            98,
+            101
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Câu lệnh rẽ nhánh if",
+          "lesson_type": "ly_thuyet",
+          "file": "B19-Cau-lenh-re-nhanh-if.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            102,
+            105
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Câu lệnh lặp for",
+          "lesson_type": "ly_thuyet",
+          "file": "B20-Cau-lenh-lap-for.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            106,
+            108
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Câu lệnh lặp while",
+          "lesson_type": "ly_thuyet",
+          "file": "B21-Cau-lenh-lap-while.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            109,
+            111
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Kiểu dữ liệu danh sách",
+          "lesson_type": "ly_thuyet",
+          "file": "B22-Kieu-du-lieu-danh-sach.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            112,
+            115
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Một số lệnh làm việc với dữ liệu danh sách",
+          "lesson_type": "ly_thuyet",
+          "file": "B23-Mot-so-lenh-lam-viec-voi-du-lieu-danh-sach.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            116,
+            119
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 24",
+          "number": 24,
+          "title": "Xâu kí tự",
+          "lesson_type": "ly_thuyet",
+          "file": "B24-Xau-ki-tu.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            120,
+            123
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Một số lệnh làm việc với xâu kí tự",
+          "lesson_type": "ly_thuyet",
+          "file": "B25-Mot-so-lenh-lam-viec-voi-xau-ki-tu.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            124,
+            127
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b26",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 26",
+          "number": 26,
+          "title": "Hàm trong Python",
+          "lesson_type": "ly_thuyet",
+          "file": "B26-Ham-trong-Python.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            128,
+            131
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b27",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 27",
+          "number": 27,
+          "title": "Tham số của hàm",
+          "lesson_type": "ly_thuyet",
+          "file": "B27-Tham-so-cua-ham.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            132,
+            136
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b28",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 28",
+          "number": 28,
+          "title": "Phạm vi của biến",
+          "lesson_type": "ly_thuyet",
+          "file": "B28-Pham-vi-cua-bien.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            137,
+            141
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b29",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 29",
+          "number": 29,
+          "title": "Nhận biết lỗi chương trình",
+          "lesson_type": "ly_thuyet",
+          "file": "B29-Nhan-biet-loi-chuong-trinh.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            142,
+            145
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b30",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 30",
+          "number": 30,
+          "title": "Kiểm thử và gỡ lỗi chương trình",
+          "lesson_type": "ly_thuyet",
+          "file": "B30-Kiem-thu-va-go-loi-chuong-trinh.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            146,
+            149
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b31",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 31",
+          "number": 31,
+          "title": "Thực hành viết chương trình đơn giản",
+          "lesson_type": "thuc_hanh",
+          "file": "B31-Thuc-hanh-viet-chuong-trinh-don-gian.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            150,
+            153
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b32",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 32",
+          "number": 32,
+          "title": "Ôn tập lập trình Python",
+          "lesson_type": "on_tap",
+          "file": "B32-On-tap-lap-trinh-Python.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            154,
+            156
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd06",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 6",
+      "number": 6,
+      "title": "Hướng nghiệp với tin học",
+      "dir": "Chu-de-06-Huong-nghiep-voi-tin-hoc",
+      "children": [
+        {
+          "id": "b33",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 33",
+          "number": 33,
+          "title": "Nghề thiết kế đồ hoạ máy tính",
+          "lesson_type": "ly_thuyet",
+          "file": "B33-Nghe-thiet-ke-do-hoa-may-tinh.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            157,
+            160
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b34",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 34",
+          "number": 34,
+          "title": "Nghề phát triển phần mềm",
+          "lesson_type": "ly_thuyet",
+          "file": "B34-Nghe-phat-trien-phan-mem.md",
+          "source_file": "SGK Tin hoc 10.pdf",
+          "pdf_pages": [
+            161,
+            165
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "phu-luc",
+      "role": "back_matter",
+      "kind": "phu_luc",
+      "label": "Phụ lục",
+      "number": null,
+      "title": "Bảng mã ASCII mở rộng",
+      "file": "Phu-luc-Bang-ma-ASCII-mo-rong.md",
+      "source_file": "SGK Tin hoc 10.pdf",
+      "pdf_pages": [
+        166,
+        166
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ",
+      "file": "Bang-giai-thich-thuat-ngu.md",
+      "source_file": "SGK Tin hoc 10.pdf",
+      "pdf_pages": [
+        167,
+        168
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Tin học 10 (Kết nối tri thức với cuộc sống, 170 trang PDF, printed_offset = 1 xuyên suốt: trang PDF = trang in + 1). Trang PDF 1–2 là bìa và trang tên sách, PDF 169 là trang thông tin xuất bản (trang in 168), PDF 170 là bìa sau.",
+    "Khác với lớp 12 tách thành 2 cuốn riêng (CS và ICT), SGK Tin học 10 gộp chung cả hai định hướng vào 1 cuốn duy nhất gồm 6 Chủ đề (34 Bài học), Phụ lục 'Bảng mã ASCII mở rộng' (trang in 165, PDF 166) và 'Bảng giải thích thuật ngữ' (trang in 166–167, PDF 167–168).",
+    "Mỗi bài học mở đầu bằng khối mục tiêu 'SAU BÀI NÀY EM SẼ:' (## 🎯 Sau bài học này em sẽ:) và hộp tình huống 'KHỞI ĐỘNG' (## 🔴 Khởi động), chia các mục lớn (## 1. ...) và tiểu mục (### a) ...), kết bài bằng 'LUYỆN TẬP' (## ✏️ Luyện tập) và 'VẬN DỤNG' (## 🚀 Vận dụng). Các đoạn mã Python trong Chủ đề 5 (Bài 16–32) chép nguyên văn trong khối ```python với đúng thụt lề 4 dấu cách."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-04",
+      "scope": [
+        "cd01",
+        "cd02",
+        "cd03",
+        "cd04",
+        "cd05",
+        "cd06"
+      ],
+      "terms": 329,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán mẫu phân tầng 30 mục trên toàn bộ 6 Chủ đề (hệ nhị phân, dữ liệu lôgic, âm thanh/hình ảnh số, điện toán đám mây, an toàn không gian mạng, pháp luật/bản quyền số, thiết kế đồ hoạ Inkscape, lập trình Python từ biến/rẽ nhánh/lặp/danh sách/xâu/hàm đến kiểm thử/gỡ lỗi, hướng nghiệp thiết kế đồ hoạ & phát triển phần mềm, cùng các hình cắt H10-tin_hoc-...) đối chiếu trực tiếp với ảnh trang SGK gốc: khớp 100%, 0 lỗi (0%)."
+    }
+  ],
+  "last_session_note": "Hoàn thành toàn bộ từ Cổng 0 đến Cổng 4 cho môn Tin học 10 (34 bài học, 2 phụ lục/bảng thuật ngữ cuối sách, 122 hình minh hoạ, 6 từ điển chủ đề với 329 thuật ngữ, tích hợp 28/28 dòng bảng giải thích thuật ngữ cuối sách, kiểm toán 30 mẫu đạt 0 lỗi)."
+}

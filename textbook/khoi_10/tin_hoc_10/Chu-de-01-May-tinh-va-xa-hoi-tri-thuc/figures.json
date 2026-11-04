@@ -1,0 +1,152 @@
+{
+  "H10-tin_hoc-b01-01": {
+    "pdf_page": 7,
+    "bbox": [161, 472, 462, 613]
+  },
+  "H10-tin_hoc-b01-02": {
+    "pdf_page": 10,
+    "bbox": [88, 180, 530, 304]
+  },
+  "H10-tin_hoc-b01-03": {
+    "pdf_page": 11,
+    "bbox": [98, 522, 538, 642]
+  },
+  "H10-tin_hoc-b02-01": {
+    "pdf_page": 12,
+    "bbox": [82, 417, 530, 558]
+  },
+  "H10-tin_hoc-b02-02": {
+    "pdf_page": 13,
+    "bbox": [70, 193, 538, 405]
+  },
+  "H10-tin_hoc-b02-03": {
+    "pdf_page": 14,
+    "bbox": [88, 294, 512, 415]
+  },
+  "H10-tin_hoc-b03-01": {
+    "pdf_page": 17,
+    "bbox": [356, 391, 526, 508],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chú thích Hình 3.1 nằm sát viền khung cam Hoạt động 1 (chân chữ g cách viền khung dưới 1pt)"
+  },
+  "H10-tin_hoc-b03-02": {
+    "pdf_page": 17,
+    "bbox": [113, 664, 510, 773]
+  },
+  "H10-tin_hoc-b03-03": {
+    "pdf_page": 20,
+    "bbox": [323, 133, 541, 272]
+  },
+  "H10-tin_hoc-b04-01": {
+    "pdf_page": 22,
+    "bbox": [190, 93, 458, 217]
+  },
+  "H10-tin_hoc-b04-02": {
+    "pdf_page": 23,
+    "bbox": [387, 455, 532, 553]
+  },
+  "H10-tin_hoc-b04-03": {
+    "pdf_page": 23,
+    "bbox": [374, 598, 530, 740]
+  },
+  "H10-tin_hoc-b04-04": {
+    "pdf_page": 24,
+    "bbox": [93, 296, 516, 427]
+  },
+  "H10-tin_hoc-b05-01": {
+    "pdf_page": 25,
+    "bbox": [398, 200, 521, 342]
+  },
+  "H10-tin_hoc-b05-02": {
+    "pdf_page": 26,
+    "bbox": [390, 497, 540, 656]
+  },
+  "H10-tin_hoc-b05-03": {
+    "pdf_page": 27,
+    "bbox": [197, 92, 398, 185]
+  },
+  "H10-tin_hoc-b05-04": {
+    "pdf_page": 28,
+    "bbox": [389, 211, 539, 363]
+  },
+  "H10-tin_hoc-b05-05": {
+    "pdf_page": 28,
+    "bbox": [240, 502, 403, 605]
+  },
+  "H10-tin_hoc-b05-06": {
+    "pdf_page": 28,
+    "bbox": [232, 646, 413, 753]
+  },
+  "H10-tin_hoc-b06-01": {
+    "pdf_page": 29,
+    "bbox": [321, 331, 519, 482]
+  },
+  "H10-tin_hoc-b06-02": {
+    "pdf_page": 29,
+    "bbox": [343, 592, 536, 763]
+  },
+  "H10-tin_hoc-b06-03": {
+    "pdf_page": 30,
+    "bbox": [359, 109, 540, 232]
+  },
+  "H10-tin_hoc-b06-04": {
+    "pdf_page": 31,
+    "bbox": [310, 117, 525, 232]
+  },
+  "H10-tin_hoc-b06-05": {
+    "pdf_page": 31,
+    "bbox": [358, 290, 533, 428]
+  },
+  "H10-tin_hoc-b06-06": {
+    "pdf_page": 31,
+    "bbox": [327, 461, 535, 606]
+  },
+  "H10-tin_hoc-b06-07": {
+    "pdf_page": 31,
+    "bbox": [337, 648, 523, 752]
+  },
+  "H10-tin_hoc-b06-08": {
+    "pdf_page": 32,
+    "bbox": [146, 88, 471, 315]
+  },
+  "H10-tin_hoc-b06-09": {
+    "pdf_page": 33,
+    "bbox": [358, 216, 536, 360]
+  },
+  "H10-tin_hoc-b06-10": {
+    "pdf_page": 33,
+    "bbox": [197, 491, 423, 597]
+  },
+  "H10-tin_hoc-b07-01": {
+    "pdf_page": 34,
+    "bbox": [86, 262, 515, 404]
+  },
+  "H10-tin_hoc-b07-02": {
+    "pdf_page": 34,
+    "bbox": [309, 601, 532, 758]
+  },
+  "H10-tin_hoc-b07-03": {
+    "pdf_page": 35,
+    "bbox": [103, 399, 523, 551]
+  },
+  "H10-tin_hoc-b07-04": {
+    "pdf_page": 35,
+    "bbox": [318, 561, 533, 771]
+  },
+  "H10-tin_hoc-b07-05": {
+    "pdf_page": 36,
+    "bbox": [309, 188, 542, 469]
+  },
+  "H10-tin_hoc-b07-06": {
+    "pdf_page": 37,
+    "bbox": [392, 57, 528, 333]
+  },
+  "H10-tin_hoc-b07-07": {
+    "pdf_page": 37,
+    "bbox": [101, 606, 530, 766]
+  },
+  "H10-tin_hoc-b07-08": {
+    "pdf_page": 38,
+    "bbox": [106, 96, 532, 365]
+  }
+}

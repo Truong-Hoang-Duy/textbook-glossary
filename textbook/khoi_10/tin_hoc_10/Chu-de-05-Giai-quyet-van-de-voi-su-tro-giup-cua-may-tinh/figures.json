@@ -1,0 +1,60 @@
+{
+  "H10-tin_hoc-b16-01": {
+    "pdf_page": 87,
+    "bbox": [80, 321, 520, 514]
+  },
+  "H10-tin_hoc-b16-02": {
+    "pdf_page": 88,
+    "bbox": [124, 420, 522, 559]
+  },
+  "H10-tin_hoc-b16-03": {
+    "pdf_page": 89,
+    "bbox": [86, 125, 517, 221]
+  },
+  "H10-tin_hoc-b16-04": {
+    "pdf_page": 91,
+    "bbox": [205, 109, 422, 182]
+  },
+  "H10-tin_hoc-b18-01": {
+    "pdf_page": 98,
+    "bbox": [313, 217, 516, 304]
+  },
+  "H10-tin_hoc-b19-01": {
+    "pdf_page": 102,
+    "bbox": [376, 191, 534, 320]
+  },
+  "H10-tin_hoc-b19-02": {
+    "pdf_page": 103,
+    "bbox": [398, 629, 532, 746],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Mũi tên trên của Hình 19.2 nối sát đường viền cam của khung Hoạt động 2 phía trên"
+  },
+  "H10-tin_hoc-b19-03": {
+    "pdf_page": 104,
+    "bbox": [380, 190, 544, 316]
+  },
+  "H10-tin_hoc-b20-01": {
+    "pdf_page": 106,
+    "bbox": [372, 598, 542, 749],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh trái hình thoi i < n - 1 của Hình 20.1 nằm sát cạnh phải khung lệnh for bên trái"
+  },
+  "H10-tin_hoc-b21-01": {
+    "pdf_page": 109,
+    "bbox": [370, 599, 539, 679],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh trái hình thoi <Điều kiện> của Hình 21.1 nằm sát cạnh phải khung lệnh while bên trái"
+  },
+  "H10-tin_hoc-b29-01": {
+    "pdf_page": 142,
+    "bbox": [322, 226, 538, 305]
+  },
+  "H10-tin_hoc-b30-01": {
+    "pdf_page": 148,
+    "bbox": [88, 648, 530, 771]
+  },
+  "H10-tin_hoc-b31-01": {
+    "pdf_page": 151,
+    "bbox": [98, 92, 528, 464]
+  }
+}

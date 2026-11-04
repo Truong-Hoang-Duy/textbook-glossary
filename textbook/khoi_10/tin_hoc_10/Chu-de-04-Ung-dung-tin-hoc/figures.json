@@ -1,0 +1,222 @@
+{
+  "H10-tin_hoc-b12-01": {
+    "pdf_page": 64,
+    "bbox": [172, 355, 472, 466]
+  },
+  "H10-tin_hoc-b12-02": {
+    "pdf_page": 65,
+    "bbox": [102, 55, 490, 236]
+  },
+  "H10-tin_hoc-b12-03": {
+    "pdf_page": 66,
+    "bbox": [56, 266, 542, 608],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh dưới sát đỉnh chữ dòng giải thích bên dưới (1 điểm)"
+  },
+  "H10-tin_hoc-b12-04": {
+    "pdf_page": 67,
+    "bbox": [74, 600, 530, 686]
+  },
+  "H10-tin_hoc-b12-05": {
+    "pdf_page": 68,
+    "bbox": [92, 559, 530, 684]
+  },
+  "H10-tin_hoc-b12-06": {
+    "pdf_page": 69,
+    "bbox": [138, 221, 465, 330],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trên đi sát mép trên hình chữ nhật đỏ để tránh chữ Bước 3 bên trái"
+  },
+  "H10-tin_hoc-b12-07": {
+    "pdf_page": 69,
+    "bbox": [128, 593, 492, 652]
+  },
+  "H10-tin_hoc-b12-08": {
+    "pdf_page": 69,
+    "bbox": [206, 686, 400, 779],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trên sát sừng hươu để tránh chữ câu hỏi 2 phần Vận dụng"
+  },
+  "H10-tin_hoc-b13-01": {
+    "pdf_page": 70,
+    "bbox": [353, 214, 506, 308]
+  },
+  "H10-tin_hoc-b13-02": {
+    "pdf_page": 70,
+    "bbox": [154, 425, 435, 500]
+  },
+  "H10-tin_hoc-b13-03": {
+    "pdf_page": 71,
+    "bbox": [143, 365, 442, 429]
+  },
+  "H10-tin_hoc-b13-04": {
+    "pdf_page": 71,
+    "bbox": [283, 500, 537, 630]
+  },
+  "H10-tin_hoc-b13-05": {
+    "pdf_page": 72,
+    "bbox": [382, 473, 527, 535]
+  },
+  "H10-tin_hoc-b13-06": {
+    "pdf_page": 73,
+    "bbox": [90, 120, 528, 313]
+  },
+  "H10-tin_hoc-b13-07": {
+    "pdf_page": 73,
+    "bbox": [214, 407, 406, 491]
+  },
+  "H10-tin_hoc-b13-08": {
+    "pdf_page": 73,
+    "bbox": [421, 514, 521, 618]
+  },
+  "H10-tin_hoc-b13-09": {
+    "pdf_page": 74,
+    "bbox": [121, 59, 453, 179]
+  },
+  "H10-tin_hoc-b13-10": {
+    "pdf_page": 74,
+    "bbox": [434, 208, 544, 314]
+  },
+  "H10-tin_hoc-b13-11": {
+    "pdf_page": 74,
+    "bbox": [96, 442, 529, 551]
+  },
+  "H10-tin_hoc-b13-12": {
+    "pdf_page": 74,
+    "bbox": [424, 576, 534, 657]
+  },
+  "H10-tin_hoc-b13-13": {
+    "pdf_page": 75,
+    "bbox": [131, 122, 473, 222]
+  },
+  "H10-tin_hoc-b13-14": {
+    "pdf_page": 75,
+    "bbox": [83, 447, 209, 573]
+  },
+  "H10-tin_hoc-b13-15": {
+    "pdf_page": 75,
+    "bbox": [264, 436, 360, 573]
+  },
+  "H10-tin_hoc-b13-16": {
+    "pdf_page": 75,
+    "bbox": [400, 430, 522, 573]
+  },
+  "H10-tin_hoc-b14-01": {
+    "pdf_page": 76,
+    "bbox": [344, 322, 519, 416]
+  },
+  "H10-tin_hoc-b14-02": {
+    "pdf_page": 76,
+    "bbox": [115, 588, 504, 671],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh phải phía dưới giao với mũi tên 'Điểm điều khiển' của Hình 14.3"
+  },
+  "H10-tin_hoc-b14-03": {
+    "pdf_page": 76,
+    "bbox": [403, 656, 537, 777],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trên và trái gần nhãn d) và chữ cuối chú thích của Hình 14.2"
+  },
+  "H10-tin_hoc-b14-04": {
+    "pdf_page": 77,
+    "bbox": [319, 353, 528, 471],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh dưới sát khung viền cam của hộp Hoạt động 2"
+  },
+  "H10-tin_hoc-b14-05": {
+    "pdf_page": 77,
+    "bbox": [338, 530, 531, 677]
+  },
+  "H10-tin_hoc-b14-06": {
+    "pdf_page": 78,
+    "bbox": [93, 220, 536, 330]
+  },
+  "H10-tin_hoc-b14-07": {
+    "pdf_page": 78,
+    "bbox": [412, 696, 525, 763]
+  },
+  "H10-tin_hoc-b14-08": {
+    "pdf_page": 79,
+    "bbox": [88, 144, 525, 290]
+  },
+  "H10-tin_hoc-b14-09": {
+    "pdf_page": 79,
+    "bbox": [85, 553, 536, 599]
+  },
+  "H10-tin_hoc-b14-10": {
+    "pdf_page": 79,
+    "bbox": [76, 635, 526, 767]
+  },
+  "H10-tin_hoc-b14-11": {
+    "pdf_page": 80,
+    "bbox": [423, 620, 524, 764]
+  },
+  "H10-tin_hoc-b14-12": {
+    "pdf_page": 81,
+    "bbox": [146, 226, 463, 335]
+  },
+  "H10-tin_hoc-b14-13": {
+    "pdf_page": 81,
+    "bbox": [202, 398, 403, 493]
+  },
+  "H10-tin_hoc-b14-14": {
+    "pdf_page": 82,
+    "bbox": [72, 61, 532, 274]
+  },
+  "H10-tin_hoc-b14-15": {
+    "pdf_page": 82,
+    "bbox": [333, 288, 398, 448]
+  },
+  "H10-tin_hoc-b14-16": {
+    "pdf_page": 82,
+    "bbox": [432, 304, 532, 448]
+  },
+  "H10-tin_hoc-b14-17": {
+    "pdf_page": 82,
+    "bbox": [227, 522, 407, 656]
+  },
+  "H10-tin_hoc-b15-01": {
+    "pdf_page": 83,
+    "bbox": [336, 337, 537, 619]
+  },
+  "H10-tin_hoc-b15-02": {
+    "pdf_page": 84,
+    "bbox": [105, 147, 531, 374]
+  },
+  "H10-tin_hoc-b15-03": {
+    "pdf_page": 84,
+    "bbox": [384, 393, 539, 537]
+  },
+  "H10-tin_hoc-b15-04": {
+    "pdf_page": 84,
+    "bbox": [368, 549, 531, 702]
+  },
+  "H10-tin_hoc-b15-05": {
+    "pdf_page": 85,
+    "bbox": [352, 266, 537, 434],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên trái sát chữ '(Hình 15.6a).' của Nhiệm vụ 5 Bước 1"
+  },
+  "H10-tin_hoc-b15-06": {
+    "pdf_page": 85,
+    "bbox": [190, 484, 449, 562],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trên sát chân chữ dòng Bước 3 phía trên"
+  },
+  "H10-tin_hoc-b15-07": {
+    "pdf_page": 85,
+    "bbox": [309, 635, 536, 744]
+  },
+  "H10-tin_hoc-b15-08": {
+    "pdf_page": 86,
+    "bbox": [351, 58, 543, 354]
+  },
+  "H10-tin_hoc-b15-09": {
+    "pdf_page": 86,
+    "bbox": [124, 535, 318, 761]
+  },
+  "H10-tin_hoc-b15-10": {
+    "pdf_page": 86,
+    "bbox": [359, 531, 523, 761]
+  }
+}

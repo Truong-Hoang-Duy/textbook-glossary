@@ -1,6 +1,6 @@
 {
   "status": "da_kiem_chung",
-  "verified_on": "tin_hoc_khmt_12, tin_hoc_thud_12, 2026-11-02",
+  "verified_on": "tin_hoc_khmt_12, tin_hoc_thud_12, 2026-11-02; tin_hoc_10, 2026-11-04",
   "profile": "tin_hoc",
   "subjects": [
     "tin_hoc",
@@ -17,14 +17,16 @@
     },
     {
       "prefix": "### ",
-      "regex": "^([a-z])\\) ",
+      "regex": "^(?:Nhiệm vụ\\s+)?([a-z]|\\d+)[).:] ",
       "example": "### a) Thẻ đánh dấu HTML"
     }
   ],
   "extra_headings": [
     "^🚀\\s*Vận dụng.*",
     "^Vận dụng.*",
-    "^KHÁI QUÁT NHIỆM VỤ.*"
+    "^KHÁI QUÁT NHIỆM VỤ.*",
+    "^THỰC HÀNH.*",
+    "^Nhiệm vụ\\s+\\d+[.:].*"
   ],
   "formula": "latex",
   "code_blocks": true,
