@@ -1,0 +1,56 @@
+{
+  "H10-vat_ly-b31-01": {
+    "pdf_page": 121,
+    "bbox": [250, 174, 524, 314],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh xe mô tô đua ở hộp mở đầu thiết kế tràn qua đường viền trên của khung xanh (y=197)"
+  },
+  "H10-vat_ly-b31-02": {
+    "pdf_page": 121,
+    "bbox": [356, 355, 502, 532]
+  },
+  "H10-vat_ly-b31-03": {
+    "pdf_page": 123,
+    "bbox": [340, 76, 514, 272]
+  },
+  "H10-vat_ly-b31-04": {
+    "pdf_page": 123,
+    "bbox": [324, 308, 508, 486]
+  },
+  "H10-vat_ly-b32-01": {
+    "pdf_page": 124,
+    "bbox": [276, 159, 420, 270]
+  },
+  "H10-vat_ly-b32-02": {
+    "pdf_page": 124,
+    "bbox": [386, 288, 542, 408]
+  },
+  "H10-vat_ly-b32-03": {
+    "pdf_page": 125,
+    "bbox": [256, 115, 518, 355]
+  },
+  "H10-vat_ly-b32-04": {
+    "pdf_page": 126,
+    "bbox": [80, 195, 218, 296]
+  },
+  "H10-vat_ly-b32-05": {
+    "pdf_page": 126,
+    "bbox": [242, 155, 368, 296]
+  },
+  "H10-vat_ly-b32-06": {
+    "pdf_page": 126,
+    "bbox": [396, 155, 524, 296]
+  },
+  "H10-vat_ly-b32-07": {
+    "pdf_page": 126,
+    "bbox": [158, 648, 450, 775]
+  },
+  "H10-vat_ly-b32-08": {
+    "pdf_page": 127,
+    "bbox": [286, 294, 524, 446]
+  },
+  "H10-vat_ly-b32-09": {
+    "pdf_page": 127,
+    "bbox": [340, 485, 506, 685]
+  }
+}

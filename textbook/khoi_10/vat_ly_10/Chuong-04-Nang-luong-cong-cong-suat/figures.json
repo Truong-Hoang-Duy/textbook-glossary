@@ -1,0 +1,122 @@
+{
+  "H10-vat_ly-b23-01": {
+    "pdf_page": 92,
+    "bbox": [91, 154, 528, 259]
+  },
+  "H10-vat_ly-b23-02": {
+    "pdf_page": 93,
+    "bbox": [290, 114, 508, 390]
+  },
+  "H10-vat_ly-b23-03": {
+    "pdf_page": 93,
+    "bbox": [356, 610, 536, 770]
+  },
+  "H10-vat_ly-b23-04": {
+    "pdf_page": 94,
+    "bbox": [72, 130, 364, 360]
+  },
+  "H10-vat_ly-b23-05": {
+    "pdf_page": 94,
+    "bbox": [372, 608, 542, 752]
+  },
+  "H10-vat_ly-b23-06": {
+    "pdf_page": 95,
+    "bbox": [364, 76, 538, 322]
+  },
+  "H10-vat_ly-b23-07": {
+    "pdf_page": 95,
+    "bbox": [364, 330, 532, 490]
+  },
+  "H10-vat_ly-b23-08": {
+    "pdf_page": 95,
+    "bbox": [366, 498, 534, 622]
+  },
+  "H10-vat_ly-b23-09": {
+    "pdf_page": 95,
+    "bbox": [376, 632, 534, 768]
+  },
+  "H10-vat_ly-b24-01": {
+    "pdf_page": 98,
+    "bbox": [386, 450, 508, 596]
+  },
+  "H10-vat_ly-b24-02": {
+    "pdf_page": 98,
+    "bbox": [362, 608, 534, 750]
+  },
+  "H10-vat_ly-b25-01": {
+    "pdf_page": 100,
+    "bbox": [310, 658, 430, 748]
+  },
+  "H10-vat_ly-b25-02": {
+    "pdf_page": 100,
+    "bbox": [438, 658, 542, 772]
+  },
+  "H10-vat_ly-b25-03": {
+    "pdf_page": 101,
+    "bbox": [250, 488, 338, 628]
+  },
+  "H10-vat_ly-b25-04": {
+    "pdf_page": 101,
+    "bbox": [385, 498, 505, 617]
+  },
+  "H10-vat_ly-b25-05": {
+    "pdf_page": 102,
+    "bbox": [354, 102, 524, 250]
+  },
+  "H10-vat_ly-b25-06": {
+    "pdf_page": 102,
+    "bbox": [338, 328, 516, 530],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh mặt phẳng nghiêng của Hình 25.7 nhô cao hơn dòng chú thích Hình 25.6"
+  },
+  "H10-vat_ly-b25-07": {
+    "pdf_page": 102,
+    "bbox": [338, 524, 532, 616],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh mặt phẳng nghiêng của Hình 25.7 nhô cao hơn dòng chú thích Hình 25.6"
+  },
+  "H10-vat_ly-b26-01": {
+    "pdf_page": 103,
+    "bbox": [384, 336, 594, 476],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh Hình 26.1 tràn sát mép phải trang PDF và tiếp giáp đầu sào của ảnh trang trí đầu bài"
+  },
+  "H10-vat_ly-b26-02": {
+    "pdf_page": 104,
+    "bbox": [374, 86, 540, 500]
+  },
+  "H10-vat_ly-b26-03": {
+    "pdf_page": 104,
+    "bbox": [364, 556, 536, 686]
+  },
+  "H10-vat_ly-b26-04": {
+    "pdf_page": 105,
+    "bbox": [100, 214, 296, 415],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nhãn C ở đỉnh con lắc Hình 26.4 nằm ngang hàng với dòng chữ 'tại vị trí O.' bên trái"
+  },
+  "H10-vat_ly-b26-05": {
+    "pdf_page": 105,
+    "bbox": [402, 272, 472, 488]
+  },
+  "H10-vat_ly-b26-06": {
+    "pdf_page": 106,
+    "bbox": [325, 92, 520, 266]
+  },
+  "H10-vat_ly-b27-01": {
+    "pdf_page": 107,
+    "bbox": [260, 148, 522, 266]
+  },
+  "H10-vat_ly-b27-02": {
+    "pdf_page": 107,
+    "bbox": [390, 668, 536, 772]
+  },
+  "H10-vat_ly-b27-03": {
+    "pdf_page": 108,
+    "bbox": [72, 598, 302, 756]
+  },
+  "H10-vat_ly-b27-04": {
+    "pdf_page": 109,
+    "bbox": [130, 220, 460, 414]
+  }
+}

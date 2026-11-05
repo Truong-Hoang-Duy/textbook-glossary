@@ -1,0 +1,738 @@
+{
+  "unit": "vat_ly_10",
+  "subject": "vat_ly",
+  "subject_name": "Vật lí",
+  "grade": 10,
+  "files": [
+    {
+      "file": "SGK Vat li 10.pdf",
+      "volume": null,
+      "page_count": 142,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Vat li 10.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Vat li 10.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Vat li 10.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "bang-don-vi-si",
+      "role": "front_matter",
+      "kind": "phu_luc",
+      "label": null,
+      "number": null,
+      "title": "Bảng đơn vị đo lường thuộc hệ SI được dùng trong sách giáo khoa Vật lí 10",
+      "file": null,
+      "source_file": "SGK Vat li 10.pdf",
+      "pdf_pages": [
+        6,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c01",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương I",
+      "number": 1,
+      "title": "Mở đầu",
+      "dir": "Chuong-01-Mo-dau",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Làm quen với Vật lí",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Lam-quen-voi-Vat-li.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            8,
+            12
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Các quy tắc an toàn trong phòng thực hành Vật lí",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Cac-quy-tac-an-toan-trong-phong-thuc-hanh-Vat-li.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            13,
+            17
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Thực hành tính sai số trong phép đo. Ghi kết quả đo",
+          "lesson_type": "thuc_hanh",
+          "file": "B03-Thuc-hanh-tinh-sai-so-trong-phep-do-Ghi-ket-qua-do.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            18,
+            20
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c02",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương II",
+      "number": 2,
+      "title": "Động học",
+      "dir": "Chuong-02-Dong-hoc",
+      "children": [
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Độ dịch chuyển và quãng đường đi được",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Do-dich-chuyen-va-quang-duong-di-duoc.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            22,
+            26
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Tốc độ và vận tốc",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Toc-do-va-van-toc.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            27,
+            30
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Thực hành: Đo tốc độ của vật chuyển động",
+          "lesson_type": "thuc_hanh",
+          "file": "B06-Thuc-hanh-Do-toc-do-cua-vat-chuyen-dong.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            31,
+            34
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Đồ thị độ dịch chuyển – thời gian",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Do-thi-do-dich-chuyen-thoi-gian.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            35,
+            37
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Chuyển động biến đổi. Gia tốc",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Chuyen-dong-bien-doi-Gia-toc.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            38,
+            40
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Chuyển động thẳng biến đổi đều",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Chuyen-dong-thang-bien-doi-deu.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            41,
+            44
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Sự rơi tự do",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Su-roi-tu-do.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            45,
+            47
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Thực hành: Đo gia tốc rơi tự do",
+          "lesson_type": "thuc_hanh",
+          "file": "B11-Thuc-hanh-Do-gia-toc-roi-tu-do.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            48,
+            49
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Chuyển động ném",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Chuyen-dong-nem.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            50,
+            55
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c03",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương III",
+      "number": 3,
+      "title": "Động lực học",
+      "dir": "Chuong-03-Dong-luc-hoc",
+      "children": [
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Tổng hợp và phân tích lực. Cân bằng lực",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Tong-hop-va-phan-tich-luc-Can-bang-luc.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            57,
+            60
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Định luật 1 Newton",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-Dinh-luat-1-Newton.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            61,
+            63
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Định luật 2 Newton",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Dinh-luat-2-Newton.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            64,
+            67
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Định luật 3 Newton",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Dinh-luat-3-Newton.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            68,
+            69
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Trọng lực và lực căng",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Trong-luc-va-luc-cang.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            70,
+            72
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Lực ma sát",
+          "lesson_type": "ly_thuyet",
+          "file": "B18-Luc-ma-sat.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            73,
+            77
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Lực cản và lực nâng",
+          "lesson_type": "ly_thuyet",
+          "file": "B19-Luc-can-va-luc-nang.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            78,
+            80
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Một số ví dụ về cách giải các bài toán thuộc phần động lực học",
+          "lesson_type": "on_tap",
+          "file": "B20-Mot-so-vi-du-ve-cach-giai-cac-bai-toan-thuoc-phan-dong-luc-hoc.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            81,
+            83
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Moment lực. Cân bằng của vật rắn",
+          "lesson_type": "ly_thuyet",
+          "file": "B21-Moment-luc-Can-bang-cua-vat-ran.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            84,
+            86
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Thực hành: Tổng hợp lực",
+          "lesson_type": "thuc_hanh",
+          "file": "B22-Thuc-hanh-Tong-hop-luc.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            87,
+            90
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c04",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương IV",
+      "number": 4,
+      "title": "Năng lượng, công, công suất",
+      "dir": "Chuong-04-Nang-luong-cong-cong-suat",
+      "children": [
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Năng lượng. Công cơ học",
+          "lesson_type": "ly_thuyet",
+          "file": "B23-Nang-luong-Cong-co-hoc.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            92,
+            96
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 24",
+          "number": 24,
+          "title": "Công suất",
+          "lesson_type": "ly_thuyet",
+          "file": "B24-Cong-suat.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            97,
+            99
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Động năng, thế năng",
+          "lesson_type": "ly_thuyet",
+          "file": "B25-Dong-nang-the-nang.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            100,
+            102
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b26",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 26",
+          "number": 26,
+          "title": "Cơ năng và định luật bảo toàn cơ năng",
+          "lesson_type": "ly_thuyet",
+          "file": "B26-Co-nang-va-dinh-luat-bao-toan-co-nang.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            103,
+            106
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b27",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 27",
+          "number": 27,
+          "title": "Hiệu suất",
+          "lesson_type": "ly_thuyet",
+          "file": "B27-Hieu-suat.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            107,
+            109
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c05",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương V",
+      "number": 5,
+      "title": "Động lượng",
+      "dir": "Chuong-05-Dong-luong",
+      "children": [
+        {
+          "id": "b28",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 28",
+          "number": 28,
+          "title": "Động lượng",
+          "lesson_type": "ly_thuyet",
+          "file": "B28-Dong-luong.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            111,
+            113
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b29",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 29",
+          "number": 29,
+          "title": "Định luật bảo toàn động lượng",
+          "lesson_type": "ly_thuyet",
+          "file": "B29-Dinh-luat-bao-toan-dong-luong.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            114,
+            116
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b30",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 30",
+          "number": 30,
+          "title": "Thực hành: Xác định động lượng của vật trước và sau va chạm",
+          "lesson_type": "thuc_hanh",
+          "file": "B30-Thuc-hanh-Xac-dinh-dong-luong-cua-vat-truoc-va-sau-va-cham.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            117,
+            119
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c06",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VI",
+      "number": 6,
+      "title": "Chuyển động tròn",
+      "dir": "Chuong-06-Chuyen-dong-tron",
+      "children": [
+        {
+          "id": "b31",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 31",
+          "number": 31,
+          "title": "Động học của chuyển động tròn đều",
+          "lesson_type": "ly_thuyet",
+          "file": "B31-Dong-hoc-cua-chuyen-dong-tron-deu.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            121,
+            123
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b32",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 32",
+          "number": 32,
+          "title": "Lực hướng tâm và gia tốc hướng tâm",
+          "lesson_type": "ly_thuyet",
+          "file": "B32-Luc-huong-tam-va-gia-toc-huong-tam.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            124,
+            127
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c07",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VII",
+      "number": 7,
+      "title": "Biến dạng của vật rắn. Áp suất chất lỏng",
+      "dir": "Chuong-07-Bien-dang-cua-vat-ran-Ap-suat-chat-long",
+      "children": [
+        {
+          "id": "b33",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 33",
+          "number": 33,
+          "title": "Biến dạng của vật rắn",
+          "lesson_type": "ly_thuyet",
+          "file": "B33-Bien-dang-cua-vat-ran.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            129,
+            131
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b34",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 34",
+          "number": 34,
+          "title": "Khối lượng riêng. Áp suất chất lỏng",
+          "lesson_type": "ly_thuyet",
+          "file": "B34-Khoi-luong-rieng-Ap-suat-chat-long.md",
+          "source_file": "SGK Vat li 10.pdf",
+          "pdf_pages": [
+            132,
+            136
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Giải thích một số thuật ngữ dùng trong sách",
+      "file": "Giai-thich-mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK Vat li 10.pdf",
+      "pdf_pages": [
+        137,
+        140
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Vật lí 10 – Kết nối tri thức với cuộc sống (142 trang PDF, printed_offset = 1 xuyên suốt: trang PDF = trang in + 1). Cấu trúc gồm 7 Chương (Chương I–VII), 34 Bài học (Bài 1–34, trong đó Bài 3, 6, 11, 22, 30 là bài thực hành; Bài 20 là bài ví dụ giải bài toán động lực học) và bảng 'Giải thích một số thuật ngữ dùng trong sách' ở trang in 136–139 (PDF 137–140).",
+    "Mỗi chương có 1 trang bìa mở đầu chương riêng biệt: Chương I ở trang in 6 (PDF 7), Chương II ở trang in 20 (PDF 21), Chương III ở trang in 55 (PDF 56), Chương IV ở trang in 90 (PDF 91), Chương V ở trang in 109 (PDF 110), Chương VI ở trang in 119 (PDF 120), Chương VII ở trang in 127 (PDF 128).",
+    "SGK không có khung Yêu cầu cần đạt ở đầu bài — bài học mở đầu trực tiếp bằng hộp câu hỏi/tình huống khởi động (## 🔴 Mở đầu), phân cấp mục ## I., ### 1., **a)**, kết bài bằng ## 📌 Em đã học và ## ✏️ Em có thể."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-05",
+      "scope": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "c07"
+      ],
+      "terms": 199,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 1,
+      "note": "Mẫu phân tầng 30 mục (12 mục công thức định luật/hệ thức vật lí cong_thuc, 12 mục định nghĩa/mô tả từ Mở đầu – Động học – Động lực học – Năng lượng, công, công suất – Động lượng – Chuyển động tròn – Biến dạng của vật rắn & Áp suất chất lỏng, và 6 hình ảnh thí nghiệm/đồ thị hinh theo hồ sơ môn vat_ly.json) trải đều cả 7 Chương, đối chiếu trực tiếp Giải nghĩa, Công thức LaTeX, trang PDF, trang in, mục và khung cắt hình với ảnh trang SGK gốc (PDF 19, 29, 41, 42, 51, 64, 84, 94, 104, 111, 125, 130, 135, 137–140): 0 lỗi nội dung/công thức (0%), tinh chỉnh 1 khung cắt hình H10-vat_ly-b09-02 để loại bỏ dòng chữ thân bài phía trên. 13 mục Ngoài nguồn đúng mẫu quy định. Toàn bộ 32/32 mục ở Bảng giải thích một số thuật ngữ dùng trong sách (PDF 137–140) được bao phủ 100%."
+    }
+  ],
+  "last_session_note": "2026-11-05: Hoàn thành 100% bộ sách Vật lí 10 (Chương I–VII, Bài 1–34 và Bảng giải thích một số thuật ngữ dùng trong sách). Đạt Cổng 0, Cổng 1 (35 file, 196 hình minh hoạ), Cổng 2 & 2b (7 từ điển Tầng 2, 212 thuật ngữ: 151 in_source, 48 described, 13 out_of_source; 100% độ phủ ứng viên và 32/32 mục bảng tra cứu cuối sách), Cổng 3 (dataset/vat_ly_10.json hợp lệ schema) và Cổng 4 (kiểm toán mẫu phân tầng 30 mục đạt 0% lỗi). Tất cả 34 bài học và bảng thuật ngữ đạt trạng thái verified."
+}
+

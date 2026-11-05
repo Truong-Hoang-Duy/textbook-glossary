@@ -1,0 +1,54 @@
+{
+  "H10-vat_ly-b28-01": {
+    "pdf_page": 111,
+    "bbox": [108, 231, 520, 325]
+  },
+  "H10-vat_ly-b28-02": {
+    "pdf_page": 111,
+    "bbox": [350, 398, 535, 506]
+  },
+  "H10-vat_ly-b28-03": {
+    "pdf_page": 112,
+    "bbox": [388, 166, 512, 258]
+  },
+  "H10-vat_ly-b29-01": {
+    "pdf_page": 114,
+    "bbox": [352, 145, 486, 234]
+  },
+  "H10-vat_ly-b29-02": {
+    "pdf_page": 115,
+    "bbox": [66, 308, 340, 443]
+  },
+  "H10-vat_ly-b29-03": {
+    "pdf_page": 115,
+    "bbox": [70, 606, 340, 742]
+  },
+  "H10-vat_ly-b29-04": {
+    "pdf_page": 116,
+    "bbox": [330, 113, 502, 320]
+  },
+  "H10-vat_ly-b29-05": {
+    "pdf_page": 116,
+    "bbox": [344, 516, 515, 673]
+  },
+  "H10-vat_ly-b30-01": {
+    "pdf_page": 117,
+    "bbox": [296, 253, 537, 506]
+  },
+  "H10-vat_ly-b30-02": {
+    "pdf_page": 118,
+    "bbox": [274, 132, 594, 325],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh chụp thí nghiệm Hình 30.2 trong SGK tràn sát mép phải trang PDF"
+  },
+  "H10-vat_ly-b30-03": {
+    "pdf_page": 118,
+    "bbox": [285, 492, 594, 705],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh chụp thí nghiệm Hình 30.3 trong SGK tràn sát mép phải trang PDF"
+  },
+  "H10-vat_ly-b30-04": {
+    "pdf_page": 119,
+    "bbox": [331, 548, 520, 640]
+  }
+}
