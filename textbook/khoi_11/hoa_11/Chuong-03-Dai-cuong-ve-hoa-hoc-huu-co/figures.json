@@ -1,0 +1,94 @@
+{
+  "H11-hoa-b10-01": {
+    "pdf_page": 58,
+    "bbox": [65, 420, 500, 600]
+  },
+  "H11-hoa-b10-02": {
+    "pdf_page": 61,
+    "bbox": [107, 543, 419, 729]
+  },
+  "H11-hoa-b10-03": {
+    "pdf_page": 62,
+    "bbox": [85, 372, 441, 500],
+    "allow_edge_ink": true,
+    "edge_ink_note": "cạnh trên đi qua vùng logo chìm KẾT NỐI TRI THỨC chồng lên nền hộp câu hỏi màu xanh nhạt"
+  },
+  "H11-hoa-b10-04": {
+    "pdf_page": 62,
+    "bbox": [96, 533, 450, 666]
+  },
+  "H11-hoa-b10-05": {
+    "pdf_page": 63,
+    "bbox": [101, 94, 415, 229]
+  },
+  "H11-hoa-b11-01": {
+    "pdf_page": 64,
+    "bbox": [362, 319, 501, 505],
+    "allow_edge_ink": true,
+    "edge_ink_note": "cạnh trái chạm chữ 'sau:' của dòng dẫn đầu hộp hoạt động do vò rượu bên dưới nhô sang trái"
+  },
+  "H11-hoa-b11-02": {
+    "pdf_page": 65,
+    "bbox": [96, 83, 455, 290],
+    "allow_edge_ink": true,
+    "edge_ink_note": "đầu ống nhiệt kế nhô cao ngang hàng chữ dẫn phía trên nên cạnh trên cắt qua đầu mút nhiệt kế để không dính chữ đoạn văn"
+  },
+  "H11-hoa-b11-03": {
+    "pdf_page": 66,
+    "bbox": [267, 73, 505, 342],
+    "allow_edge_ink": true,
+    "edge_ink_note": "cạnh dưới đi qua vùng logo chìm KẾT NỐI TRI THỨC chồng lên nền hộp Em có biết"
+  },
+  "H11-hoa-b11-04": {
+    "pdf_page": 66,
+    "bbox": [129, 349, 455, 540],
+    "allow_edge_ink": true,
+    "edge_ink_note": "cạnh trên đi qua vùng logo chìm KẾT NỐI TRI THỨC chồng lên nền hộp Em có biết"
+  },
+  "H11-hoa-b11-05": {
+    "pdf_page": 67,
+    "bbox": [358, 172, 488, 320]
+  },
+  "H11-hoa-b11-06": {
+    "pdf_page": 67,
+    "bbox": [342, 608, 495, 748]
+  },
+  "H11-hoa-b11-07": {
+    "pdf_page": 68,
+    "bbox": [44, 381, 501, 670]
+  },
+  "H11-hoa-b11-08": {
+    "pdf_page": 69,
+    "bbox": [355, 440, 495, 718]
+  },
+  "H11-hoa-b12-01": {
+    "pdf_page": 71,
+    "bbox": [54, 406, 485, 539]
+  },
+  "H11-hoa-b12-02": {
+    "pdf_page": 72,
+    "bbox": [257, 543, 517, 693]
+  },
+  "H11-hoa-b12-03": {
+    "pdf_page": 73,
+    "bbox": [60, 95, 502, 348]
+  },
+  "H11-hoa-b12-04": {
+    "pdf_page": 73,
+    "bbox": [332, 386, 493, 493],
+    "allow_edge_ink": true,
+    "edge_ink_note": "cạnh trái và cạnh trên đi qua vùng logo chìm KẾT NỐI TRI THỨC chồng lên nền hộp Em có biết"
+  },
+  "H11-hoa-b12-05": {
+    "pdf_page": 74,
+    "bbox": [248, 112, 505, 275]
+  },
+  "H11-hoa-b13-01": {
+    "pdf_page": 78,
+    "bbox": [94, 144, 455, 415]
+  },
+  "H11-hoa-b14-01": {
+    "pdf_page": 82,
+    "bbox": [283, 502, 505, 628]
+  }
+}

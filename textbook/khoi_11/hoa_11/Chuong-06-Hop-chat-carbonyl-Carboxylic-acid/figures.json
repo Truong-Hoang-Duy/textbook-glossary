@@ -1,0 +1,65 @@
+{
+  "H11-hoa-b23-01": {
+    "pdf_page": 138,
+    "bbox": [52, 60, 302, 169],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chữ O của nhóm CH=O trong Hình 23.1 (x=298..304) chồng theo phương ngang với chữ H của chú thích Hình 23.2 (x=303..310); cạnh phải chỉ chạm chữ H của chú thích Hình 23.2"
+  },
+  "H11-hoa-b23-02": {
+    "pdf_page": 138,
+    "bbox": [305, 60, 515, 169],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chú thích Hình 23.2 bắt đầu tại x=303 chồng theo phương ngang với chữ O của nhóm CH=O trong Hình 23.1 (x=298..304); cạnh trái chỉ chạm chữ O của Hình 23.1"
+  },
+  "H11-hoa-b23-03": {
+    "pdf_page": 138,
+    "bbox": [155, 232, 415, 326],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình nằm trong hộp Em có biết nền màu kem đè lên logo chìm ở giữa trang; cạnh dưới chỉ đi qua vùng nền hộp trùng logo chìm, không chạm chữ"
+  },
+  "H11-hoa-b23-04": { "pdf_page": 138, "bbox": [70, 414, 492, 562] },
+  "H11-hoa-b23-05": { "pdf_page": 139, "bbox": [68, 48, 492, 172] },
+  "H11-hoa-b23-06": { "pdf_page": 139, "bbox": [72, 468, 175, 548] },
+  "H11-hoa-b23-07": {
+    "pdf_page": 139,
+    "bbox": [216, 456, 495, 562],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Quả cầu oxygen màu đỏ của c) acetone bên phải cao tới y=453 trong khi dòng chữ 'về phía nguyên tử oxygen (Hình 23.3).' bên trái xuống tới y=459; đặt cạnh trên tại y=452 để lấy trọn mô hình phân tử acetone"
+  },
+  "H11-hoa-b23-08": {
+    "pdf_page": 141,
+    "bbox": [60, 141, 495, 236],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Trong hộp Em có biết, chữ 'nhân khử NaBH4.' bên trái xuống tới y=144 trong khi nhóm =O của muscone và ảnh hươu xạ bên phải cao tới y=138; cạnh trên đặt tại y=137 để giữ trọn công thức và ảnh"
+  },
+  "H11-hoa-b23-09": { "pdf_page": 142, "bbox": [363, 258, 498, 475] },
+  "H11-hoa-b23-10": { "pdf_page": 143, "bbox": [352, 332, 498, 502] },
+  "H11-hoa-b23-11": {
+    "pdf_page": 144,
+    "bbox": [40, 76, 532, 240],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hộp tiêu đề xanh đậm của sơ đồ bắt đầu tại y=73 trong khi biểu tượng mục V. ỨNG DỤNG bên trái xuống tới y=72; đặt cạnh trên tại y=72 để không cắt mép trên hộp tiêu đề sơ đồ"
+  },
+  "H11-hoa-b23-12": { "pdf_page": 144, "bbox": [65, 290, 500, 434] },
+  "H11-hoa-b23-13": { "pdf_page": 144, "bbox": [72, 642, 515, 712] },
+  "H11-hoa-b24-01": { "pdf_page": 146, "bbox": [64, 510, 490, 663] },
+  "H11-hoa-b24-02": { "pdf_page": 146, "bbox": [368, 670, 520, 728] },
+  "H11-hoa-b24-03": { "pdf_page": 147, "bbox": [110, 175, 446, 214] },
+  "H11-hoa-b24-04": {
+    "pdf_page": 148,
+    "bbox": [122, 267, 465, 355],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Quả cầu oxygen màu đỏ ở hình b) bên phải cao tới y=264 trong khi dòng chữ 'đặc trưng của carboxylic acid là tính acid.' bên trái xuống tới y=266; đặt cạnh trên tại y=263 để lấy trọn mô hình phân tử acetic acid"
+  },
+  "H11-hoa-b24-05": { "pdf_page": 148, "bbox": [85, 595, 482, 665] },
+  "H11-hoa-b24-06": { "pdf_page": 151, "bbox": [55, 529, 498, 724] },
+  "H11-hoa-b24-07": {
+    "pdf_page": 152,
+    "bbox": [126, 176, 438, 240],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nhóm COOH của salicylic acid bắt đầu tại y=173 sát chân chữ 'p, y' của dòng 'ứng tổng hợp methyl salicylate:' (y=172) trong hộp câu hỏi nền xanh lục; đặt cạnh trên tại y=172 để không cắt nhóm COOH"
+  },
+  "H11-hoa-b24-08": { "pdf_page": 152, "bbox": [105, 530, 498, 682] },
+  "H11-hoa-b25-01": { "pdf_page": 154, "bbox": [75, 195, 525, 488] },
+  "H11-hoa-b25-02": { "pdf_page": 155, "bbox": [170, 238, 392, 326] }
+}

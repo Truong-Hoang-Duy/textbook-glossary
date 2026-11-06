@@ -1,0 +1,76 @@
+{
+  "H11-hoa-b04-01": {
+    "pdf_page": 30,
+    "bbox": [366, 616, 504, 728],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 4.1 nằm trong hộp Em có biết nền màu kem; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H11-hoa-b04-02": {
+    "pdf_page": 31,
+    "bbox": [358, 482, 506, 605]
+  },
+  "H11-hoa-b04-03": {
+    "pdf_page": 32,
+    "bbox": [374, 640, 504, 744],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 4.3 nằm trong hộp Em có biết nền màu kem; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H11-hoa-b05-01": {
+    "pdf_page": 34,
+    "bbox": [112, 500, 458, 577]
+  },
+  "H11-hoa-b05-02": {
+    "pdf_page": 35,
+    "bbox": [150, 90, 445, 158],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 5.2 nằm trọn trong hộp câu hỏi nền xanh lục nhạt; các cạnh khung chỉ đi qua màu nền hộp câu hỏi, không chạm chữ bên ngoài"
+  },
+  "H11-hoa-b05-03": {
+    "pdf_page": 37,
+    "bbox": [368, 100, 490, 200]
+  },
+  "H11-hoa-b06-01": {
+    "pdf_page": 40,
+    "bbox": [376, 430, 505, 602]
+  },
+  "H11-hoa-b06-02": {
+    "pdf_page": 42,
+    "bbox": [138, 202, 430, 415]
+  },
+  "H11-hoa-b07-01": {
+    "pdf_page": 43,
+    "bbox": [308, 405, 506, 536]
+  },
+  "H11-hoa-b07-02": {
+    "pdf_page": 43,
+    "bbox": [315, 540, 512, 696]
+  },
+  "H11-hoa-b07-03": {
+    "pdf_page": 44,
+    "bbox": [188, 432, 368, 568]
+  },
+  "H11-hoa-b07-04": {
+    "pdf_page": 45,
+    "bbox": [294, 92, 496, 202],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 7.4 nằm trong hộp Em có biết nền màu kem; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H11-hoa-b08-01": {
+    "pdf_page": 49,
+    "bbox": [140, 540, 420, 626]
+  },
+  "H11-hoa-b08-02": {
+    "pdf_page": 50,
+    "bbox": [94, 227, 492, 400]
+  },
+  "H11-hoa-b08-03": {
+    "pdf_page": 50,
+    "bbox": [365, 434, 510, 553]
+  },
+  "H11-hoa-b08-04": {
+    "pdf_page": 54,
+    "bbox": [365, 466, 500, 628],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 8.6 nằm trong hộp thí nghiệm nền tím nhạt; các cạnh khung chỉ đi qua màu nền hộp thí nghiệm, không chạm chữ bên ngoài"
+  }
+}

@@ -1,0 +1,567 @@
+{
+  "unit": "hoa_11",
+  "subject": "hoa",
+  "subject_name": "Hoá học",
+  "grade": 11,
+  "files": [
+    {
+      "file": "SGK HOA HOC 11 - KNTT.pdf",
+      "volume": null,
+      "page_count": 158,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c01",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 1",
+      "number": 1,
+      "title": "Cân bằng hoá học",
+      "dir": "Chuong-01-Can-bang-hoa-hoc",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Khái niệm về cân bằng hoá học",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Khai-niem-ve-can-bang-hoa-hoc.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            7,
+            16
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Cân bằng trong dung dịch nước",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Can-bang-trong-dung-dich-nuoc.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            17,
+            27
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Ôn tập chương 1",
+          "lesson_type": "on_tap",
+          "file": "B03-On-tap-chuong-1.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            28,
+            29
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c02",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 2",
+      "number": 2,
+      "title": "Nitrogen – Sulfur",
+      "dir": "Chuong-02-Nitrogen-Sulfur",
+      "children": [
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Nitrogen",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Nitrogen.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            30,
+            33
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Ammonia. Muối ammonium",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Ammonia-Muoi-ammonium.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            34,
+            38
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Một số hợp chất của nitrogen với oxygen",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Mot-so-hop-chat-cua-nitrogen-voi-oxygen.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            39,
+            42
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Sulfur và sulfur dioxide",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Sulfur-va-sulfur-dioxide.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            43,
+            48
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Sulfuric acid và muối sulfate",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Sulfuric-acid-va-muoi-sulfate.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            49,
+            55
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Ôn tập chương 2",
+          "lesson_type": "on_tap",
+          "file": "B09-On-tap-chuong-2.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            56,
+            57
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c03",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 3",
+      "number": 3,
+      "title": "Đại cương về hoá học hữu cơ",
+      "dir": "Chuong-03-Dai-cuong-ve-hoa-hoc-huu-co",
+      "children": [
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Hợp chất hữu cơ và hoá học hữu cơ",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Hop-chat-huu-co-va-hoa-hoc-huu-co.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            58,
+            63
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Phương pháp tách biệt và tinh chế hợp chất hữu cơ",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Phuong-phap-tach-biet-va-tinh-che-hop-chat-huu-co.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            64,
+            70
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Công thức phân tử hợp chất hữu cơ",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Cong-thuc-phan-tu-hop-chat-huu-co.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            71,
+            74
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Cấu tạo hoá học hợp chất hữu cơ",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Cau-tao-hoa-hoc-hop-chat-huu-co.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            75,
+            80
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Ôn tập chương 3",
+          "lesson_type": "on_tap",
+          "file": "B14-On-tap-chuong-3.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            81,
+            82
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c04",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 4",
+      "number": 4,
+      "title": "Hydrocarbon",
+      "dir": "Chuong-04-Hydrocarbon",
+      "children": [
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Alkane",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Alkane.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            83,
+            92
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Hydrocarbon không no",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Hydrocarbon-khong-no.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            93,
+            102
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Arene (Hydrocarbon thơm)",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Arene-Hydrocarbon-thom.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            103,
+            110
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Ôn tập chương 4",
+          "lesson_type": "on_tap",
+          "file": "B18-On-tap-chuong-4.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            111,
+            112
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c05",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 5",
+      "number": 5,
+      "title": "Dẫn xuất halogen – Alcohol – Phenol",
+      "dir": "Chuong-05-Dan-xuat-halogen-Alcohol-Phenol",
+      "children": [
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Dẫn xuất halogen",
+          "lesson_type": "ly_thuyet",
+          "file": "B19-Dan-xuat-halogen.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            113,
+            119
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Alcohol",
+          "lesson_type": "ly_thuyet",
+          "file": "B20-Alcohol.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            120,
+            129
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Phenol",
+          "lesson_type": "ly_thuyet",
+          "file": "B21-Phenol.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            130,
+            134
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Ôn tập chương 5",
+          "lesson_type": "on_tap",
+          "file": "B22-On-tap-chuong-5.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            135,
+            136
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c06",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương 6",
+      "number": 6,
+      "title": "Hợp chất carbonyl – Carboxylic acid",
+      "dir": "Chuong-06-Hop-chat-carbonyl-Carboxylic-acid",
+      "children": [
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Hợp chất carbonyl",
+          "lesson_type": "ly_thuyet",
+          "file": "B23-Hop-chat-carbonyl.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            137,
+            145
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 24",
+          "number": 24,
+          "title": "Carboxylic acid",
+          "lesson_type": "ly_thuyet",
+          "file": "B24-Carboxylic-acid.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            146,
+            153
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Ôn tập chương 6",
+          "lesson_type": "on_tap",
+          "file": "B25-On-tap-chuong-6.md",
+          "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+          "pdf_pages": [
+            154,
+            155
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Giải thích một số thuật ngữ dùng trong sách",
+      "file": "Giai-thich-mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK HOA HOC 11 - KNTT.pdf",
+      "pdf_pages": [
+        156,
+        156
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Hoá học 11 (Kết nối tri thức với cuộc sống) gồm 6 Chương (Chương 1–6), 25 Bài học (19 bài lí thuyết và 6 bài Ôn tập chương ở Bài 3, 9, 14, 18, 22, 25) và Bảng 'Giải thích một số thuật ngữ dùng trong sách' cuối sách (trang in 155, PDF 156, 10 mục thuật ngữ).",
+    "Khác với Hoá học 10, Hoá học 11 không có trang bìa chương riêng biệt mà in tiêu đề Chương ngay đầu bài đầu tiên của chương (trang in 6, 29, 57, 82, 112, 136).",
+    "Độ lệch trang in cố định xuyên suốt toàn sách: printed_offset = 1 (Trang PDF = Trang in + 1)."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-06",
+      "scope": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "bang-tra-cuu"
+      ],
+      "terms": 219,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm tra mẫu phân tầng 30 mục (12 thuật ngữ in_source, 18 thuật ngữ mô tả, trong đó hơn 1/3 mục chứa công thức và phương trình hoá học \\ce{...}) trải đều 6 Chương và Bảng giải thích một số thuật ngữ dùng trong sách, đối chiếu trực tiếp với ảnh trang PDF gốc: 0 lỗi (0,0% <= 5%). Toàn bộ 109 hình minh hoạ/sơ đồ/đồ thị đạt chuẩn."
+    }
+  ],
+  "last_session_note": "Hoàn tất toàn bộ hoa_11 (25 bài + Bảng giải thích thuật ngữ, 109 hình, 6 từ điển, 219 thuật ngữ), vượt qua Cổng 0, 1, 2, 2b, 3, 4 và xuất dataset/hoa_11.json."
+}

@@ -1,0 +1,54 @@
+{
+  "H11-hoa-b15-01": {
+    "pdf_page": 85,
+    "bbox": [98, 515, 458, 710]
+  },
+  "H11-hoa-b16-01": {
+    "pdf_page": 94,
+    "bbox": [115, 636, 485, 742],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 16.1 có vòng phải của beta-carotene cao ngang dòng chữ cuối phía trái trong hộp Em có biết; cạnh trên của khung bao trọn cấu tạo beta-carotene nên đi qua dòng chữ bên trái"
+  },
+  "H11-hoa-b16-02": {
+    "pdf_page": 96,
+    "bbox": [115, 132, 456, 264]
+  },
+  "H11-hoa-b16-03": {
+    "pdf_page": 96,
+    "bbox": [118, 342, 456, 468],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 16.3 nằm đè lên logo chìm ở giữa trang; cạnh trên của khung bao trọn nhãn 106,0 pm và chỉ đi qua vùng nền logo chìm, không chạm chữ dòng trên"
+  },
+  "H11-hoa-b16-04": {
+    "pdf_page": 99,
+    "bbox": [385, 615, 496, 696]
+  },
+  "H11-hoa-b16-05": {
+    "pdf_page": 100,
+    "bbox": [190, 158, 498, 338]
+  },
+  "H11-hoa-b16-06": {
+    "pdf_page": 100,
+    "bbox": [258, 559, 502, 735]
+  },
+  "H11-hoa-b16-07": {
+    "pdf_page": 102,
+    "bbox": [352, 218, 512, 350],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 16.7 nằm trong hộp Em có biết nền màu kem đè lên logo chìm ở giữa trang; cạnh trái và cạnh dưới chỉ đi qua vùng nền hộp trùng logo chìm, không chạm chữ bên ngoài"
+  },
+  "H11-hoa-b17-01": {
+    "pdf_page": 104,
+    "bbox": [315, 228, 492, 382]
+  },
+  "H11-hoa-b17-02": {
+    "pdf_page": 106,
+    "bbox": [360, 212, 508, 465]
+  },
+  "H11-hoa-b17-03": {
+    "pdf_page": 107,
+    "bbox": [380, 628, 495, 722],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 17.3 nằm trong hộp Em có biết nền màu kem có dòng chú thích đặt lệch sang cột trái dưới văn bản hộp; khung cắt trọn ảnh chụp nhãn thực phẩm, không chạm chữ bên ngoài"
+  }
+}

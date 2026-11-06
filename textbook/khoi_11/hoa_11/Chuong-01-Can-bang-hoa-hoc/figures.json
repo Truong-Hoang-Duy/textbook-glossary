@@ -1,0 +1,68 @@
+{
+  "H11-hoa-b01-01": {
+    "pdf_page": 9,
+    "bbox": [300, 574, 508, 740]
+  },
+  "H11-hoa-b01-02": {
+    "pdf_page": 12,
+    "bbox": [80, 78, 485, 203]
+  },
+  "H11-hoa-b01-03": {
+    "pdf_page": 12,
+    "bbox": [104, 475, 464, 624]
+  },
+  "H11-hoa-b01-04": {
+    "pdf_page": 13,
+    "bbox": [104, 292, 434, 460],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đầu bóp cao su của ống nhỏ giọt ở ống nghiệm (3) vươn lên ngang hàng với dòng văn bản '(3) thêm một vài giọt dung dịch CH3COOH.' bên trái, nên cạnh trên đi qua đầu bóp cao su để không dính dòng chữ đó"
+  },
+  "H11-hoa-b01-05": {
+    "pdf_page": 14,
+    "bbox": [78, 416, 490, 595]
+  },
+  "H11-hoa-b02-01": {
+    "pdf_page": 17,
+    "bbox": [128, 314, 450, 461],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nút chai rượu vang (số 3) ở hàng trên cao sát chân dòng chữ câu hỏi mở đầu phía trên (chỉ cách 1 pt), cạnh trên đi qua khe hẹp giữa chữ và đỉnh nút chai"
+  },
+  "H11-hoa-b02-02": {
+    "pdf_page": 17,
+    "bbox": [152, 601, 420, 736]
+  },
+  "H11-hoa-b02-03": {
+    "pdf_page": 18,
+    "bbox": [347, 216, 496, 350],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 2.3 nằm trong hộp Em có biết nền màu kem đè lên logo chìm ở giữa trang; cạnh trái và dưới chỉ đi qua vùng nền hộp trùng logo chìm, không chạm chữ bên ngoài"
+  },
+  "H11-hoa-b02-04": {
+    "pdf_page": 22,
+    "bbox": [60, 315, 496, 416]
+  },
+  "H11-hoa-b02-05": {
+    "pdf_page": 23,
+    "bbox": [66, 121, 335, 315],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh đầu hình người ở giữa trang cao hơn dòng chữ 'động vật, thực vật,...' ở góc trên bên trái; đặt cạnh trên ngay dưới dòng chữ để không dính văn bản"
+  },
+  "H11-hoa-b02-06": {
+    "pdf_page": 25,
+    "bbox": [337, 74, 496, 214],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chữ 'c' đầu dòng chú thích 'có thể sử dụng làm chất chỉ thị màu' (x=335) chồng lấn theo phương ngang với mép phải cột chữ bên trái (x=341); đặt cạnh trái tại x=333 để lấy trọn chú thích hình"
+  },
+  "H11-hoa-b02-07": {
+    "pdf_page": 27,
+    "bbox": [58, 26, 330, 162]
+  },
+  "H11-hoa-b02-08": {
+    "pdf_page": 27,
+    "bbox": [342, 36, 494, 162]
+  },
+  "H11-hoa-b03-01": {
+    "pdf_page": 28,
+    "bbox": [54, 178, 508, 725]
+  }
+}

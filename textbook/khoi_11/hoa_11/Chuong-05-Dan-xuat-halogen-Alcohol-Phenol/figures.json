@@ -1,0 +1,67 @@
+{
+  "H11-hoa-b19-01": {
+    "pdf_page": 113,
+    "bbox": [310, 626, 492, 722],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 19.1 nằm trọn trong hộp Em có biết nền màu kem; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H11-hoa-b19-02": { "pdf_page": 114, "bbox": [228, 72, 518, 148] },
+  "H11-hoa-b19-03": { "pdf_page": 117, "bbox": [122, 346, 418, 506] },
+  "H11-hoa-b19-04": { "pdf_page": 118, "bbox": [118, 50, 470, 282] },
+  "H11-hoa-b20-01": {
+    "pdf_page": 121,
+    "bbox": [66, 404, 488, 506],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Các công thức cấu tạo alcohol trong tinh dầu nằm trọn trong hộp Em có biết nền màu kem; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H11-hoa-b20-02": { "pdf_page": 121, "bbox": [66, 644, 435, 748] },
+  "H11-hoa-b20-03": { "pdf_page": 122, "bbox": [68, 68, 450, 142] },
+  "H11-hoa-b20-04": {
+    "pdf_page": 123,
+    "bbox": [144, 65, 420, 186],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Mô hình phân tử ethanol (b) bên phải nhô cao ngang hàng tiêu đề mục II bên trái nên cạnh trên khung đi qua chân chữ tiêu đề mục II"
+  },
+  "H11-hoa-b20-05": { "pdf_page": 123, "bbox": [76, 614, 484, 694] },
+  "H11-hoa-b20-06": {
+    "pdf_page": 127,
+    "bbox": [262, 70, 494, 322],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 20.3 nằm trọn trong hộp Em có biết nền màu kem; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H11-hoa-b20-07": { "pdf_page": 127, "bbox": [30, 387, 535, 574] },
+  "H11-hoa-b21-01": { "pdf_page": 130, "bbox": [262, 291, 496, 389] },
+  "H11-hoa-b21-02": { "pdf_page": 130, "bbox": [70, 547, 306, 725] },
+  "H11-hoa-b21-03": {
+    "pdf_page": 130,
+    "bbox": [336, 541, 504, 692],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Các công thức cấu tạo hợp chất thiên nhiên chứa phenol nằm trọn trong hộp Em có biết nền màu kem; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H11-hoa-b21-04": {
+    "pdf_page": 131,
+    "bbox": [125, 54, 444, 173],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Mô hình phân tử phenol (b) bên phải nhô cao ngang hàng tiêu đề mục II bên trái nên cạnh trên và trái khung đi qua chữ tiêu đề mục II"
+  },
+  "H11-hoa-b21-05": { "pdf_page": 131, "bbox": [196, 248, 380, 355] },
+  "H11-hoa-b21-06": {
+    "pdf_page": 132,
+    "bbox": [360, 78, 505, 274],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 21.2 nằm trọn trong hộp hoạt động nghiên cứu nền tím nhạt; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H11-hoa-b21-07": { "pdf_page": 132, "bbox": [232, 412, 505, 496] },
+  "H11-hoa-b21-08": {
+    "pdf_page": 132,
+    "bbox": [366, 542, 502, 714],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 21.3 nằm trọn trong hộp hoạt động nghiên cứu nền tím nhạt; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H11-hoa-b21-09": { "pdf_page": 133, "bbox": [156, 220, 384, 305] },
+  "H11-hoa-b21-10": { "pdf_page": 133, "bbox": [90, 603, 492, 742] },
+  "H11-hoa-b21-11": { "pdf_page": 134, "bbox": [146, 185, 425, 250] },
+  "H11-hoa-b22-01": { "pdf_page": 135, "bbox": [50, 150, 502, 725] },
+  "H11-hoa-b22-02": { "pdf_page": 136, "bbox": [228, 375, 342, 422] },
+  "H11-hoa-b22-03": { "pdf_page": 136, "bbox": [202, 566, 368, 604] }
+}
