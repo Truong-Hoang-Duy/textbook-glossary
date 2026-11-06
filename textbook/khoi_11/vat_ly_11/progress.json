@@ -1,0 +1,556 @@
+{
+  "unit": "vat_ly_11",
+  "subject": "vat_ly",
+  "subject_name": "Vật lí",
+  "grade": 11,
+  "files": [
+    {
+      "file": "SGK VAT LI 11 - KNTT.pdf",
+      "volume": null,
+      "page_count": 119,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK VAT LI 11 - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK VAT LI 11 - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK VAT LI 11 - KNTT.pdf",
+      "pdf_pages": [
+        6,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c01",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương I",
+      "number": 1,
+      "title": "Dao động",
+      "dir": "Chuong-01-Dao-dong",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Dao động điều hoà",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Dao-dong-dieu-hoa.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            8,
+            11
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Mô tả dao động điều hoà",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Mo-ta-dao-dong-dieu-hoa.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            12,
+            15
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Vận tốc, gia tốc trong dao động điều hoà",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Van-toc-gia-toc-trong-dao-dong-dieu-hoa.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            16,
+            18
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Bài tập về dao động điều hoà",
+          "lesson_type": "on_tap",
+          "file": "B04-Bai-tap-ve-dao-dong-dieu-hoa.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            19,
+            21
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Động năng. Thế năng. Sự chuyển hoá giữa động năng và thế năng trong dao động điều hoà",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Dong-nang-The-nang-Su-chuyen-hoa-giua-dong-nang-va-the-nang-trong-dao-dong-dieu-hoa.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            22,
+            25
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Dao động tắt dần. Dao động cưỡng bức. Hiện tượng cộng hưởng",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Dao-dong-tat-dan-Dao-dong-cuong-buc-Hien-tuong-cong-huong.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            26,
+            29
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Bài tập về sự chuyển năng lượng trong dao động điều hoà",
+          "lesson_type": "on_tap",
+          "file": "B07-Bai-tap-ve-su-chuyen-nang-luong-trong-dao-dong-dieu-hoa.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            30,
+            32
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c02",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương II",
+      "number": 2,
+      "title": "Sóng",
+      "dir": "Chuong-02-Song",
+      "children": [
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Mô tả sóng",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Mo-ta-song.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            34,
+            38
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Sóng ngang, sóng dọc, sự truyền năng lượng của sóng cơ",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Song-ngang-song-doc-su-truyen-nang-luong-cua-song-co.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            39,
+            42
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Thực hành: Đo tần số của sóng âm",
+          "lesson_type": "thuc_hanh",
+          "file": "B10-Thuc-hanh-Do-tan-so-cua-song-am.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            43,
+            45
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Sóng điện từ",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Song-dien-tu.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            46,
+            49
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Giao thoa sóng",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Giao-thoa-song.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            50,
+            53
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Sóng dừng",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Song-dung.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            54,
+            56
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Bài tập về sóng",
+          "lesson_type": "on_tap",
+          "file": "B14-Bai-tap-ve-song.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            57,
+            59
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Thực hành: Đo tốc độ truyền âm",
+          "lesson_type": "thuc_hanh",
+          "file": "B15-Thuc-hanh-Do-toc-do-truyen-am.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            60,
+            61
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c03",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương III",
+      "number": 3,
+      "title": "Điện trường",
+      "dir": "Chuong-03-Dien-truong",
+      "children": [
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Lực tương tác giữa hai điện tích",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Luc-tuong-tac-giua-hai-dien-tich.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            63,
+            66
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Khái niệm điện trường",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Khai-niem-dien-truong.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            67,
+            72
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Điện trường đều",
+          "lesson_type": "ly_thuyet",
+          "file": "B18-Dien-truong-deu.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            73,
+            77
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Thế năng điện",
+          "lesson_type": "ly_thuyet",
+          "file": "B19-The-nang-dien.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            78,
+            80
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Điện thế",
+          "lesson_type": "ly_thuyet",
+          "file": "B20-Dien-the.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            81,
+            84
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Tụ điện",
+          "lesson_type": "ly_thuyet",
+          "file": "B21-Tu-dien.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            85,
+            91
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c04",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương IV",
+      "number": 4,
+      "title": "Dòng điện. Mạch điện",
+      "dir": "Chuong-04-Dong-dien-Mach-dien",
+      "children": [
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Cường độ dòng điện",
+          "lesson_type": "ly_thuyet",
+          "file": "B22-Cuong-do-dong-dien.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            93,
+            96
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Điện trở. Định luật Ohm",
+          "lesson_type": "ly_thuyet",
+          "file": "B23-Dien-tro-Dinh-luat-Ohm.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            97,
+            103
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 24",
+          "number": 24,
+          "title": "Nguồn điện",
+          "lesson_type": "ly_thuyet",
+          "file": "B24-Nguon-dien.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            104,
+            107
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Năng lượng điện và công suất điện",
+          "lesson_type": "ly_thuyet",
+          "file": "B25-Nang-luong-dien-va-cong-suat-dien.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            108,
+            112
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b26",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 26",
+          "number": 26,
+          "title": "Thực hành: Đo suất điện động và điện trở trong của pin điện hoá",
+          "lesson_type": "thuc_hanh",
+          "file": "B26-Thuc-hanh-Do-suat-dien-dong-va-dien-tro-trong-cua-pin-dien-hoa.md",
+          "source_file": "SGK VAT LI 11 - KNTT.pdf",
+          "pdf_pages": [
+            113,
+            115
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Giải thích một số thuật ngữ dùng trong sách",
+      "file": "Giai-thich-mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK VAT LI 11 - KNTT.pdf",
+      "pdf_pages": [
+        116,
+        117
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Vật lí 11 – Kết nối tri thức với cuộc sống (119 trang PDF, printed_offset = 2 xuyên suốt: trang PDF = trang in + 2). Cấu trúc gồm 4 Chương (Chương I–IV), 26 Bài học (Bài 1–26, trong đó Bài 4, 7, 14 là bài tập ôn tập và Bài 10, 15, 26 là bài thực hành) và bảng 'Giải thích một số thuật ngữ dùng trong sách' ở trang in 114–115 (PDF 116–117).",
+    "Mỗi chương có 1 trang bìa mở đầu chương riêng biệt: Chương I ở trang in 5 (PDF 7), Chương II ở trang in 31 (PDF 33), Chương III ở trang in 60 (PDF 62), Chương IV ở trang in 90 (PDF 92). Lưu ý trên bìa mở đầu chương ghi số La Mã ('CHƯƠNG I', 'CHƯƠNG II', 'CHƯƠNG III', 'CHƯƠNG IV'), trong khi Mục lục ghi số Ả Rập ('Chương 1', 'Chương 2', 'Chương 3', 'Chương 4').",
+    "SGK không có khung Yêu cầu cần đạt ở đầu bài — bài học mở đầu trực tiếp bằng hộp câu hỏi/tình huống khởi động (## 🔴 Mở đầu), phân cấp mục ## I., ### 1., **a)**, kết bài bằng ## 📌 Em đã học và ## ✏️ Em có thể."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-06",
+      "sample_size": 30,
+      "errors": 0,
+      "error_rate": 0.0,
+      "focus": [
+        "cong_thuc",
+        "hinh",
+        "mo_ta"
+      ],
+      "details": "Kiểm toán mẫu phân tầng 30 mục (14 thuật ngữ chứa công thức vật lí LaTeX in_source, 6 thuật ngữ mô tả described và 10 hình cắt trên cả 4 Chương I–IV) đối chiếu trực tiếp với ảnh trang PDF gốc: 0 lỗi (0,0% < 5%). Đạt Cổng 0, 1, 2, 2b, 3, 4 (211 thuật ngữ: 172 in_source, 27 described, 12 out_of_source; 15 ghi chú nguồn đóng, 0 mở; 23/23 mục bảng giải thích thuật ngữ cuối sách; 133 hình cắt)."
+    }
+  ],
+  "last_session_note": "2026-11-06: Hoàn thành toàn bộ 4 giai đoạn (Tầng 1 gồm 26 bài + bảng giải thích thuật ngữ, 133 hình cắt, Tầng 2 với 4 từ điển 211 thuật ngữ, xuất dataset/vat_ly_11.json và kiểm toán mẫu 30 mục đạt 0 lỗi)."
+}
