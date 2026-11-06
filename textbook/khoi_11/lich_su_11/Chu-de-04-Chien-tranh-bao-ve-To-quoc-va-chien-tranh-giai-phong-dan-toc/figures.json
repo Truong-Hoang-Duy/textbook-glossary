@@ -1,0 +1,44 @@
+{
+  "H11-lich_su-b07-01": {
+    "pdf_page": 45,
+    "bbox": [56, 104, 513, 461]
+  },
+  "H11-lich_su-b07-02": {
+    "pdf_page": 47,
+    "bbox": [248, 246, 510, 494]
+  },
+  "H11-lich_su-b07-03": {
+    "pdf_page": 47,
+    "bbox": [56, 485, 510, 745]
+  },
+  "H11-lich_su-b08-01": {
+    "pdf_page": 52,
+    "bbox": [56, 537, 505, 756],
+    "allow_edge_ink": true,
+    "edge_ink_note": "cạnh phải cắt qua rìa trái hình thoi số trang 51 ở góc dưới phải để lấy đủ chú thích Hình 1 mà không dính số trang"
+  },
+  "H11-lich_su-b08-02": {
+    "pdf_page": 53,
+    "bbox": [360, 356, 514, 641]
+  },
+  "H11-lich_su-b08-03": {
+    "pdf_page": 54,
+    "bbox": [71, 241, 497, 768]
+  },
+  "H11-lich_su-b08-04": {
+    "pdf_page": 55,
+    "bbox": [59, 55, 510, 541]
+  },
+  "H11-lich_su-b08-05": {
+    "pdf_page": 56,
+    "bbox": [56, 55, 514, 322]
+  },
+  "H11-lich_su-b08-06": {
+    "pdf_page": 58,
+    "bbox": [116, 55, 454, 581]
+  },
+  "H11-lich_su-b08-07": {
+    "pdf_page": 59,
+    "bbox": [208, 55, 522, 284]
+  }
+}

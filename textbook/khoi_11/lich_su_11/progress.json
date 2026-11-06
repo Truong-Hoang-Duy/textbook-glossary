@@ -1,0 +1,389 @@
+{
+  "unit": "lich_su_11",
+  "subject": "lich_su",
+  "subject_name": "Lịch sử",
+  "grade": 11,
+  "files": [
+    {
+      "file": "SGK LICH SU 11 - KNTT.pdf",
+      "volume": null,
+      "page_count": 98,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK LICH SU 11 - KNTT.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK LICH SU 11 - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK LICH SU 11 - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "cd01",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 1",
+      "number": 1,
+      "title": "Cách mạng tư sản và sự phát triển của chủ nghĩa tư bản",
+      "dir": "Chu-de-01-Cach-mang-tu-san-va-su-phat-trien-cua-chu-nghia-tu-ban",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Một số vấn đề chung về cách mạng tư sản",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Mot-so-van-de-chung-ve-cach-mang-tu-san.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            7,
+            12
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Sự xác lập và phát triển của chủ nghĩa tư bản",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Su-xac-lap-va-phat-trien-cua-chu-nghia-tu-ban.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            13,
+            19
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd02",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 2",
+      "number": 2,
+      "title": "Chủ nghĩa xã hội từ năm 1917 đến nay",
+      "dir": "Chu-de-02-Chu-nghia-xa-hoi-tu-nam-1917-den-nay",
+      "children": [
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Sự hình thành Liên bang Cộng hoà xã hội chủ nghĩa Xô viết",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Su-hinh-thanh-Lien-bang-Cong-hoa-xa-hoi-chu-nghia.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            20,
+            22
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Sự phát triển của chủ nghĩa xã hội từ sau Chiến tranh thế giới thứ hai đến nay",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Su-phat-trien-cua-chu-nghia-xa-hoi-tu-sau-Chien.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            23,
+            29
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd03",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 3",
+      "number": 3,
+      "title": "Quá trình giành độc lập dân tộc của các quốc gia Đông Nam Á",
+      "dir": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A",
+      "children": [
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Qua-trinh-xam-luoc-va-cai-tri-cua-chu-nghia-thuc.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            30,
+            37
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Hành trình đi đến độc lập dân tộc ở Đông Nam Á",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Hanh-trinh-di-den-doc-lap-dan-toc-o-Dong-Nam-A.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            38,
+            43
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd04",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 4",
+      "number": 4,
+      "title": "Chiến tranh bảo vệ Tổ quốc và chiến tranh giải phóng dân tộc trong lịch sử Việt Nam (trước Cách mạng tháng Tám năm 1945)",
+      "dir": "Chu-de-04-Chien-tranh-bao-ve-To-quoc-va-chien-tranh-giai-phong-dan-toc",
+      "children": [
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Chien-tranh-bao-ve-To-quoc-trong-lich-su-Viet-Nam.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            44,
+            50
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III trước Công nguyên đến cuối thế kỉ XIX)",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Mot-so-cuoc-khoi-nghia-va-chien-tranh-giai-phong.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            51,
+            60
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd05",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 5",
+      "number": 5,
+      "title": "Một số cuộc cải cách lớn trong lịch sử Việt Nam (trước năm 1858)",
+      "dir": "Chu-de-05-Mot-so-cuoc-cai-cach-lon-trong-lich-su-Viet-Nam",
+      "children": [
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Cuộc cải cách của Hồ Quý Ly và triều Hồ",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Cuoc-cai-cach-cua-Ho-Quy-Ly-va-trieu-Ho.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            61,
+            64
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Cuộc cải cách của Lê Thánh Tông (thế kỉ XV)",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Cuoc-cai-cach-cua-Le-Thanh-Tong-the-ki-XV.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            65,
+            69
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Cuộc cải cách của Minh Mạng (nửa đầu thế kỉ XIX)",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Cuoc-cai-cach-cua-Minh-Mang-nua-dau-the-ki-XIX.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            70,
+            73
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd06",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 6",
+      "number": 6,
+      "title": "Lịch sử bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông",
+      "dir": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong",
+      "children": [
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Vị trí và tầm quan trọng của Biển Đông",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Vi-tri-va-tam-quan-trong-cua-Bien-Dong.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            74,
+            80
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Việt Nam và Biển Đông",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Viet-Nam-va-Bien-Dong.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            81,
+            91
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu khái niệm, thuật ngữ",
+      "file": "Bang-tra-cuu.md",
+      "source_file": "SGK LICH SU 11 - KNTT.pdf",
+      "pdf_pages": [
+        92,
+        94
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-phien-am",
+      "role": "back_matter",
+      "kind": "bang_phien_am",
+      "label": null,
+      "number": null,
+      "title": "Bảng phiên âm",
+      "file": null,
+      "source_file": "SGK LICH SU 11 - KNTT.pdf",
+      "pdf_pages": [
+        95,
+        96
+      ],
+      "status": "skip"
+    }
+  ],
+  "notes": [
+    "SGK Lịch sử 11 (Kết nối tri thức với cuộc sống) gồm 6 Chủ đề, 13 Bài học (Bài 1–13) từ trang in 6 đến 90 (PDF 7–91), Bảng tra cứu khái niệm, thuật ngữ ở trang in 91–93 (PDF 92–94) và Bảng phiên âm ở trang in 94–95 (PDF 95–96). Lưu ý: Mục lục của NXB ở trang in 3 bị in lệch +1 trang từ Bài 5 trở đi so với số trang in thực tế trong sách.",
+    "Độ lệch trang in cố định xuyên suốt toàn sách: printed_offset = 1 (Trang PDF = Trang in + 1)."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-06",
+      "scope": [
+        "cd01",
+        "cd02",
+        "cd03",
+        "cd04",
+        "cd05",
+        "cd06",
+        "bang-tra-cuu"
+      ],
+      "terms": 116,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm tra mẫu phân tầng 30 mục (12 thuật ngữ in_source, 18 thuật ngữ mô tả) trải đều 6 Chủ đề và Bảng tra cứu khái niệm, thuật ngữ cuối sách, đối chiếu trực tiếp với ảnh trang PDF gốc: 0 lỗi (0,0% <= 5%). Toàn bộ 69 hình minh hoạ/sơ đồ/lược đồ đạt chuẩn."
+    }
+  ],
+  "last_session_note": "Hoàn tất toàn bộ lich_su_11 (13 bài + Bảng tra cứu khái niệm, thuật ngữ, 69 hình, 6 từ điển, 116 thuật ngữ), vượt qua Cổng 0, 1, 2, 2b, 3, 4 và xuất dataset/lich_su_11.json."
+}

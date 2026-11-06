@@ -1,0 +1,32 @@
+{
+  "H11-lich_su-b09-01": {
+    "pdf_page": 61,
+    "bbox": [5, 555, 562, 790],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh nền tràn lề toàn bộ nửa dưới trang mở đầu Chủ đề 5 và nằm dưới khung Mở đầu"
+  },
+  "H11-lich_su-b09-02": {
+    "pdf_page": 62,
+    "bbox": [176, 535, 340, 682]
+  },
+  "H11-lich_su-b10-01": {
+    "pdf_page": 65,
+    "bbox": [336, 218, 504, 472]
+  },
+  "H11-lich_su-b10-02": {
+    "pdf_page": 67,
+    "bbox": [88, 54, 482, 572]
+  },
+  "H11-lich_su-b11-01": {
+    "pdf_page": 70,
+    "bbox": [358, 228, 490, 400]
+  },
+  "H11-lich_su-b11-02": {
+    "pdf_page": 71,
+    "bbox": [66, 79, 522, 708]
+  },
+  "H11-lich_su-b11-03": {
+    "pdf_page": 73,
+    "bbox": [129, 254, 441, 444]
+  }
+}

@@ -1,0 +1,3482 @@
+{
+  "meta": {
+    "schema_version": "2.3",
+    "unit": "lich_su_11",
+    "subject": "lich_su",
+    "profile": "lich_su",
+    "subject_name": "Lịch sử",
+    "grade": 11,
+    "generated_at": "2026-11-06",
+    "counts": {
+      "lessons": 13,
+      "terms": 116,
+      "terms_described": 89,
+      "terms_out_of_source": 0,
+      "open_notes": 0
+    }
+  },
+  "source": {
+    "book_type": "sgk",
+    "series": "Kết nối tri thức với cuộc sống",
+    "publisher": "NXB Giáo dục Việt Nam",
+    "files": [
+      {
+        "file": "SGK LICH SU 11 - KNTT.pdf",
+        "volume": null,
+        "page_count": 98,
+        "printed_offset": 1
+      }
+    ]
+  },
+  "toc": [
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK LICH SU 11 - KNTT.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "printed_pages": [
+        2,
+        2
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK LICH SU 11 - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "printed_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK LICH SU 11 - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        6
+      ],
+      "printed_pages": [
+        4,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "cd01",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 1",
+      "number": 1,
+      "title": "Cách mạng tư sản và sự phát triển của chủ nghĩa tư bản",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Một số vấn đề chung về cách mạng tư sản",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-01-Cach-mang-tu-san-va-su-phat-trien-cua-chu-nghia-tu-ban/B01-Mot-so-van-de-chung-ve-cach-mang-tu-san.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            7,
+            12
+          ],
+          "printed_pages": [
+            6,
+            11
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Học xong bài này, em sẽ:",
+            "items": [
+              "Trình bày được tiền đề của các cuộc cách mạng tư sản về kinh tế, chính trị, xã hội, tư tưởng.",
+              "Phân tích được mục tiêu, nhiệm vụ, giai cấp lãnh đạo, động lực của các cuộc cách mạng tư sản.",
+              "Trình bày được kết quả, ý nghĩa của các cuộc cách mạng tư sản."
+            ],
+            "pdf_page": 7
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H11-lich_su-b01-01",
+              "file": "Chu-de-01-Cach-mang-tu-san-va-su-phat-trien-cua-chu-nghia-tu-ban/img/H11-lich_su-b01-01.png",
+              "caption": "H11-lich_su-b01-01",
+              "pdf_page": 7
+            },
+            {
+              "id": "H11-lich_su-b01-02",
+              "file": "Chu-de-01-Cach-mang-tu-san-va-su-phat-trien-cua-chu-nghia-tu-ban/img/H11-lich_su-b01-02.png",
+              "caption": "H11-lich_su-b01-02",
+              "pdf_page": 9
+            },
+            {
+              "id": "H11-lich_su-b01-03",
+              "file": "Chu-de-01-Cach-mang-tu-san-va-su-phat-trien-cua-chu-nghia-tu-ban/img/H11-lich_su-b01-03.png",
+              "caption": "H11-lich_su-b01-03",
+              "pdf_page": 11
+            }
+          ]
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Sự xác lập và phát triển của chủ nghĩa tư bản",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-01-Cach-mang-tu-san-va-su-phat-trien-cua-chu-nghia-tu-ban/B02-Su-xac-lap-va-phat-trien-cua-chu-nghia-tu-ban.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            13,
+            19
+          ],
+          "printed_pages": [
+            12,
+            18
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Học xong bài này, em sẽ:",
+            "items": [
+              "Trình bày được sự xác lập của chủ nghĩa tư bản ở châu Âu và Bắc Mỹ.",
+              "Trình bày được quá trình mở rộng xâm lược thuộc địa và phát triển của chủ nghĩa tư bản.",
+              "Trình bày được sự phát triển của chủ nghĩa tư bản từ tự do cạnh tranh sang độc quyền.",
+              "Nêu được khái niệm chủ nghĩa tư bản hiện đại, tiềm năng và thách thức của chủ nghĩa tư bản hiện đại.",
+              "Có nhận thức đúng đắn về tiềm năng và hạn chế của chủ nghĩa tư bản hiện đại. Vận dụng được những hiểu biết về lịch sử chủ nghĩa tư bản để giải thích những vấn đề thời sự của xã hội tư bản hiện nay."
+            ],
+            "pdf_page": 13
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H11-lich_su-b02-01",
+              "file": "Chu-de-01-Cach-mang-tu-san-va-su-phat-trien-cua-chu-nghia-tu-ban/img/H11-lich_su-b02-01.png",
+              "caption": "H11-lich_su-b02-01",
+              "pdf_page": 13
+            },
+            {
+              "id": "H11-lich_su-b02-02",
+              "file": "Chu-de-01-Cach-mang-tu-san-va-su-phat-trien-cua-chu-nghia-tu-ban/img/H11-lich_su-b02-02.png",
+              "caption": "H11-lich_su-b02-02",
+              "pdf_page": 13
+            },
+            {
+              "id": "H11-lich_su-b02-03",
+              "file": "Chu-de-01-Cach-mang-tu-san-va-su-phat-trien-cua-chu-nghia-tu-ban/img/H11-lich_su-b02-03.png",
+              "caption": "H11-lich_su-b02-03",
+              "pdf_page": 14
+            },
+            {
+              "id": "H11-lich_su-b02-04",
+              "file": "Chu-de-01-Cach-mang-tu-san-va-su-phat-trien-cua-chu-nghia-tu-ban/img/H11-lich_su-b02-04.png",
+              "caption": "H11-lich_su-b02-04",
+              "pdf_page": 15
+            },
+            {
+              "id": "H11-lich_su-b02-05",
+              "file": "Chu-de-01-Cach-mang-tu-san-va-su-phat-trien-cua-chu-nghia-tu-ban/img/H11-lich_su-b02-05.png",
+              "caption": "H11-lich_su-b02-05",
+              "pdf_page": 16
+            },
+            {
+              "id": "H11-lich_su-b02-06",
+              "file": "Chu-de-01-Cach-mang-tu-san-va-su-phat-trien-cua-chu-nghia-tu-ban/img/H11-lich_su-b02-06.png",
+              "caption": "H11-lich_su-b02-06",
+              "pdf_page": 16
+            },
+            {
+              "id": "H11-lich_su-b02-07",
+              "file": "Chu-de-01-Cach-mang-tu-san-va-su-phat-trien-cua-chu-nghia-tu-ban/img/H11-lich_su-b02-07.png",
+              "caption": "H11-lich_su-b02-07",
+              "pdf_page": 17
+            },
+            {
+              "id": "H11-lich_su-b02-08",
+              "file": "Chu-de-01-Cach-mang-tu-san-va-su-phat-trien-cua-chu-nghia-tu-ban/img/H11-lich_su-b02-08.png",
+              "caption": "H11-lich_su-b02-08",
+              "pdf_page": 18
+            },
+            {
+              "id": "H11-lich_su-b02-09",
+              "file": "Chu-de-01-Cach-mang-tu-san-va-su-phat-trien-cua-chu-nghia-tu-ban/img/H11-lich_su-b02-09.png",
+              "caption": "H11-lich_su-b02-09",
+              "pdf_page": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd02",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 2",
+      "number": 2,
+      "title": "Chủ nghĩa xã hội từ năm 1917 đến nay",
+      "children": [
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Sự hình thành Liên bang Cộng hoà xã hội chủ nghĩa Xô viết",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-02-Chu-nghia-xa-hoi-tu-nam-1917-den-nay/B03-Su-hinh-thanh-Lien-bang-Cong-hoa-xa-hoi-chu-nghia.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            20,
+            22
+          ],
+          "printed_pages": [
+            19,
+            21
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Học xong bài này, em sẽ:",
+            "items": [
+              "Trình bày được quá trình hình thành Liên bang Cộng hoà xã hội chủ nghĩa Xô viết.",
+              "Phân tích được ý nghĩa ra đời của Liên bang Cộng hoà xã hội chủ nghĩa Xô viết."
+            ],
+            "pdf_page": 20
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H11-lich_su-b03-01",
+              "file": "Chu-de-02-Chu-nghia-xa-hoi-tu-nam-1917-den-nay/img/H11-lich_su-b03-01.png",
+              "caption": "Hình 1. Lê-nin tuyên bố thành lập Chính quyền Xô viết (1917)",
+              "pdf_page": 20
+            },
+            {
+              "id": "H11-lich_su-b03-02",
+              "file": "Chu-de-02-Chu-nghia-xa-hoi-tu-nam-1917-den-nay/img/H11-lich_su-b03-02.png",
+              "caption": "Hình 2. Quốc huy đầu tiên của Liên Xô (1923)",
+              "pdf_page": 21
+            },
+            {
+              "id": "H11-lich_su-b03-03",
+              "file": "Chu-de-02-Chu-nghia-xa-hoi-tu-nam-1917-den-nay/img/H11-lich_su-b03-03.png",
+              "caption": "Hình 3. Tượng Liên minh công nông – biểu tượng của Nhà nước Xô viết ở ngoại ô Mát-xcơ-va (Nga) ngày nay",
+              "pdf_page": 22
+            }
+          ]
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Sự phát triển của chủ nghĩa xã hội từ sau Chiến tranh thế giới thứ hai đến nay",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-02-Chu-nghia-xa-hoi-tu-nam-1917-den-nay/B04-Su-phat-trien-cua-chu-nghia-xa-hoi-tu-sau-Chien.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            23,
+            29
+          ],
+          "printed_pages": [
+            22,
+            28
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Học xong bài này, em sẽ:",
+            "items": [
+              "Trình bày được sự phát triển của chủ nghĩa xã hội ở Đông Âu sau Chiến tranh thế giới thứ hai, nêu được sự mở rộng của chủ nghĩa xã hội ở châu Á và khu vực Mỹ La-tinh.",
+              "Giải thích được nguyên nhân dẫn tới sự sụp đổ của mô hình chủ nghĩa xã hội ở Đông Âu và Liên Xô.",
+              "Nêu được nét chính về chủ nghĩa xã hội từ năm 1991 đến nay và những thành tựu, ý nghĩa của công cuộc cải cách – mở cửa ở Trung Quốc.",
+              "Có ý thức trân trọng thành tựu, giá trị của chủ nghĩa xã hội, sẵn sàng tham gia đóng góp vào công cuộc xây dựng chủ nghĩa xã hội ở Việt Nam."
+            ],
+            "pdf_page": 23
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H11-lich_su-b04-01",
+              "file": "Chu-de-02-Chu-nghia-xa-hoi-tu-nam-1917-den-nay/img/H11-lich_su-b04-01.png",
+              "caption": "Hình 1. Lược đồ các nước dân chủ nhân dân ở Đông Âu sau Chiến tranh thế giới thứ hai",
+              "pdf_page": 23
+            },
+            {
+              "id": "H11-lich_su-b04-02",
+              "file": "Chu-de-02-Chu-nghia-xa-hoi-tu-nam-1917-den-nay/img/H11-lich_su-b04-02.png",
+              "caption": "Hình 2. Mao Trạch Đông tuyên bố thành lập nước Cộng hoà Nhân dân Trung Hoa (1949)",
+              "pdf_page": 24
+            },
+            {
+              "id": "H11-lich_su-b04-03",
+              "file": "Chu-de-02-Chu-nghia-xa-hoi-tu-nam-1917-den-nay/img/H11-lich_su-b04-03.png",
+              "caption": "Hình 3. “Bức tường Béc-lin” bị sụp đổ (11 – 1989)",
+              "pdf_page": 25
+            },
+            {
+              "id": "H11-lich_su-b04-04",
+              "file": "Chu-de-02-Chu-nghia-xa-hoi-tu-nam-1917-den-nay/img/H11-lich_su-b04-04.png",
+              "caption": "Hình 4. Đại hội đại biểu toàn quốc Đảng Nhân dân Cách mạng Lào lần thứ XI (1 – 2021)",
+              "pdf_page": 27
+            },
+            {
+              "id": "H11-lich_su-b04-05",
+              "file": "Chu-de-02-Chu-nghia-xa-hoi-tu-nam-1917-den-nay/img/H11-lich_su-b04-05.png",
+              "caption": "Hình 5. Thủ đô La Ha-ba-na (Cu-ba) ngày nay",
+              "pdf_page": 27
+            },
+            {
+              "id": "H11-lich_su-b04-06",
+              "file": "Chu-de-02-Chu-nghia-xa-hoi-tu-nam-1917-den-nay/img/H11-lich_su-b04-06.png",
+              "caption": "Hình 6. Một góc thành phố Thâm Quyến (Quảng Đông, Trung Quốc) ngày nay",
+              "pdf_page": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd03",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 3",
+      "number": 3,
+      "title": "Quá trình giành độc lập dân tộc của các quốc gia Đông Nam Á",
+      "children": [
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A/B05-Qua-trinh-xam-luoc-va-cai-tri-cua-chu-nghia-thuc.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            30,
+            37
+          ],
+          "printed_pages": [
+            29,
+            36
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Học xong bài này, em sẽ:",
+            "items": [
+              "Trình bày được quá trình các nước thực dân phương Tây xâm lược và thiết lập nền thống trị ở Đông Nam Á hải đảo và Đông Nam Á lục địa.",
+              "Trình bày được công cuộc cải cách ở Xiêm.",
+              "Giải thích được vì sao Xiêm là nước duy nhất ở Đông Nam Á không trở thành thuộc địa của thực dân phương Tây."
+            ],
+            "pdf_page": 30
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H11-lich_su-b05-01",
+              "file": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A/img/H11-lich_su-b05-01.png",
+              "caption": "Hình 1. Mô hình con tàu Phlo đơ Ma",
+              "pdf_page": 30
+            },
+            {
+              "id": "H11-lich_su-b05-02",
+              "file": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A/img/H11-lich_su-b05-02.png",
+              "caption": "Hình 2. Lược đồ các nước Đông Nam Á cuối thế kỉ XIX – đầu thế kỉ XX",
+              "pdf_page": 31
+            },
+            {
+              "id": "H11-lich_su-b05-03",
+              "file": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A/img/H11-lich_su-b05-03.png",
+              "caption": "Hình 3. Tượng đài La-pu-la-pu ở đảo Mác-tan (Phi-líp-pin)",
+              "pdf_page": 32
+            },
+            {
+              "id": "H11-lich_su-b05-04",
+              "file": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A/img/H11-lich_su-b05-04.png",
+              "caption": "Hình 4. Hải quân Anh tiến vào hải cảng ở Y-an-gun (Miến Điện) năm 1824 (tranh vẽ)",
+              "pdf_page": 33
+            },
+            {
+              "id": "H11-lich_su-b05-05",
+              "file": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A/img/H11-lich_su-b05-05.png",
+              "caption": "Hình 5. Liên quân Pháp – Tây Ban Nha tấn công Đà Nẵng (Việt Nam) năm 1858 (tranh vẽ)",
+              "pdf_page": 33
+            },
+            {
+              "id": "H11-lich_su-b05-06",
+              "file": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A/img/H11-lich_su-b05-06.png",
+              "caption": "Hình 6. Tình cảnh người dân In-đô-nê-xi-a dưới ách thống trị của thực dân Hà Lan (tranh vẽ)",
+              "pdf_page": 34
+            },
+            {
+              "id": "H11-lich_su-b05-07",
+              "file": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A/img/H11-lich_su-b05-07.png",
+              "caption": "Hình 7. Tình cảnh người dân thuộc địa dưới ách cai trị của thực dân (tranh biếm hoạ)",
+              "pdf_page": 35
+            },
+            {
+              "id": "H11-lich_su-b05-08",
+              "file": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A/img/H11-lich_su-b05-08.png",
+              "caption": "Hình 8. Tượng vua Ra-ma V (Chu-la-long-kon)",
+              "pdf_page": 35
+            },
+            {
+              "id": "H11-lich_su-b05-09",
+              "file": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A/img/H11-lich_su-b05-09.png",
+              "caption": "Hình 9. Trường Đại học Chu-la-long-kon (Thái Lan) thành lập năm 1917",
+              "pdf_page": 35
+            },
+            {
+              "id": "H11-lich_su-b05-10",
+              "file": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A/img/H11-lich_su-b05-10.png",
+              "caption": "Hình 10. Sơ đồ một số biện pháp chính trong công cuộc cải cách ở Xiêm",
+              "pdf_page": 36
+            }
+          ]
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Hành trình đi đến độc lập dân tộc ở Đông Nam Á",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A/B06-Hanh-trinh-di-den-doc-lap-dan-toc-o-Dong-Nam-A.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            38,
+            43
+          ],
+          "printed_pages": [
+            37,
+            42
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Học xong bài này, em sẽ:",
+            "items": [
+              "Tóm tắt được những nét chính về cuộc đấu tranh chống thực dân xâm lược ở một số nước Đông Nam Á hải đảo và Đông Nam Á lục địa.",
+              "Nêu được các giai đoạn phát triển của cuộc đấu tranh giành độc lập dân tộc ở Đông Nam Á.",
+              "Nêu được những ảnh hưởng của chế độ thực dân đối với các thuộc địa. Liên hệ với thực tế ở Việt Nam.",
+              "Tóm tắt được những nét chính về quá trình tái thiết và phát triển ở Đông Nam Á.",
+              "Có ý thức trân trọng thành quả đấu tranh giành độc lập dân tộc và phát triển của các dân tộc ở Đông Nam Á hiện nay."
+            ],
+            "pdf_page": 38
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H11-lich_su-b06-01",
+              "file": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A/img/H11-lich_su-b06-01.png",
+              "caption": "Hình 1. Quốc kì các quốc gia Đông Nam Á ngày nay",
+              "pdf_page": 38
+            },
+            {
+              "id": "H11-lich_su-b06-02",
+              "file": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A/img/H11-lich_su-b06-02.png",
+              "caption": "Hình 2. Tượng Đi-pô-nê-gô-rô ở Gia-các-ta (In-đô-nê-xi-a)",
+              "pdf_page": 39
+            },
+            {
+              "id": "H11-lich_su-b06-03",
+              "file": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A/img/H11-lich_su-b06-03.png",
+              "caption": "Hình 3. Sơ đồ các giai đoạn phát triển chính của cuộc đấu tranh giành độc lập ở Đông Nam Á từ cuối thế kỉ XIX đến năm 1975",
+              "pdf_page": 40
+            },
+            {
+              "id": "H11-lich_su-b06-04",
+              "file": "Chu-de-03-Qua-trinh-gianh-doc-lap-dan-toc-cua-cac-quoc-gia-Dong-Nam-A/img/H11-lich_su-b06-04.png",
+              "caption": "Hình 4. Một góc Thủ đô Xin-ga-po (Xin-ga-po) ngày nay",
+              "pdf_page": 43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd04",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 4",
+      "number": 4,
+      "title": "Chiến tranh bảo vệ Tổ quốc và chiến tranh giải phóng dân tộc trong lịch sử Việt Nam (trước Cách mạng tháng Tám năm 1945)",
+      "children": [
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-04-Chien-tranh-bao-ve-To-quoc-va-chien-tranh-giai-phong-dan-toc/B07-Chien-tranh-bao-ve-To-quoc-trong-lich-su-Viet-Nam.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            44,
+            50
+          ],
+          "printed_pages": [
+            43,
+            49
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Học xong bài này, em sẽ:",
+            "items": [
+              "Nêu được vị trí địa chiến lược của Việt Nam. Phân tích được vai trò, ý nghĩa của chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam.",
+              "Trình bày được nội dung chính của các cuộc kháng chiến thắng lợi tiêu biểu và các cuộc kháng chiến không thành công của dân tộc Việt Nam.",
+              "Giải thích được nguyên nhân chính dẫn đến thắng lợi và không thành công của các cuộc kháng chiến chống xâm lược.",
+              "Vận dụng kiến thức đã học, rút ra được những bài học lịch sử cơ bản từ lịch sử chống ngoại xâm của dân tộc Việt Nam, nhận thức được giá trị của các bài học lịch sử đối với sự nghiệp xây dựng và bảo vệ Tổ quốc hiện nay.",
+              "Biết cách sưu tầm và sử dụng tư liệu lịch sử để tìm hiểu về các cuộc kháng chiến thắng lợi tiêu biểu của dân tộc Việt Nam.",
+              "Có ý thức trân trọng, tự hào về truyền thống đấu tranh bảo vệ, xây dựng đất nước của dân tộc Việt Nam, tham gia vào công tác đền ơn đáp nghĩa ở địa phương và sẵn sàng tham gia đóng góp xây dựng, bảo vệ Tổ quốc."
+            ],
+            "pdf_page": 44
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H11-lich_su-b07-01",
+              "file": "Chu-de-04-Chien-tranh-bao-ve-To-quoc-va-chien-tranh-giai-phong-dan-toc/img/H11-lich_su-b07-01.png",
+              "caption": "H11-lich_su-b07-01",
+              "pdf_page": 45
+            },
+            {
+              "id": "H11-lich_su-b07-02",
+              "file": "Chu-de-04-Chien-tranh-bao-ve-To-quoc-va-chien-tranh-giai-phong-dan-toc/img/H11-lich_su-b07-02.png",
+              "caption": "H11-lich_su-b07-02",
+              "pdf_page": 47
+            },
+            {
+              "id": "H11-lich_su-b07-03",
+              "file": "Chu-de-04-Chien-tranh-bao-ve-To-quoc-va-chien-tranh-giai-phong-dan-toc/img/H11-lich_su-b07-03.png",
+              "caption": "H11-lich_su-b07-03",
+              "pdf_page": 47
+            }
+          ]
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III trước Công nguyên đến cuối thế kỉ XIX)",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-04-Chien-tranh-bao-ve-To-quoc-va-chien-tranh-giai-phong-dan-toc/B08-Mot-so-cuoc-khoi-nghia-va-chien-tranh-giai-phong.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            51,
+            60
+          ],
+          "printed_pages": [
+            50,
+            59
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Học xong bài này, em sẽ:",
+            "items": [
+              "Trình bày được nội dung chính của các cuộc khởi nghĩa tiêu biểu trong thời kì Bắc thuộc và nêu được ý nghĩa của các cuộc khởi nghĩa đó.",
+              "Nêu được bối cảnh lịch sử, trình bày được diễn biến chính và ý nghĩa của khởi nghĩa Lam Sơn.",
+              "Biết cách sưu tầm và sử dụng tư liệu lịch sử về phong trào Tây Sơn.",
+              "Trình bày được bối cảnh lịch sử, diễn biến chính và nêu được ý nghĩa của phong trào Tây Sơn.",
+              "Rút ra được những bài học lịch sử chính của các cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam.",
+              "Nêu được các bài học lịch sử đối với sự nghiệp xây dựng và bảo vệ Tổ quốc hiện nay.",
+              "Tự hào về truyền thống đấu tranh bất khuất của dân tộc Việt Nam trong lịch sử, sẵn sàng tham gia đóng góp vào sự nghiệp xây dựng và bảo vệ Tổ quốc."
+            ],
+            "pdf_page": 51
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H11-lich_su-b08-01",
+              "file": "Chu-de-04-Chien-tranh-bao-ve-To-quoc-va-chien-tranh-giai-phong-dan-toc/img/H11-lich_su-b08-01.png",
+              "caption": "H11-lich_su-b08-01",
+              "pdf_page": 52
+            },
+            {
+              "id": "H11-lich_su-b08-02",
+              "file": "Chu-de-04-Chien-tranh-bao-ve-To-quoc-va-chien-tranh-giai-phong-dan-toc/img/H11-lich_su-b08-02.png",
+              "caption": "H11-lich_su-b08-02",
+              "pdf_page": 53
+            },
+            {
+              "id": "H11-lich_su-b08-03",
+              "file": "Chu-de-04-Chien-tranh-bao-ve-To-quoc-va-chien-tranh-giai-phong-dan-toc/img/H11-lich_su-b08-03.png",
+              "caption": "H11-lich_su-b08-03",
+              "pdf_page": 54
+            },
+            {
+              "id": "H11-lich_su-b08-04",
+              "file": "Chu-de-04-Chien-tranh-bao-ve-To-quoc-va-chien-tranh-giai-phong-dan-toc/img/H11-lich_su-b08-04.png",
+              "caption": "H11-lich_su-b08-04",
+              "pdf_page": 55
+            },
+            {
+              "id": "H11-lich_su-b08-05",
+              "file": "Chu-de-04-Chien-tranh-bao-ve-To-quoc-va-chien-tranh-giai-phong-dan-toc/img/H11-lich_su-b08-05.png",
+              "caption": "H11-lich_su-b08-05",
+              "pdf_page": 56
+            },
+            {
+              "id": "H11-lich_su-b08-06",
+              "file": "Chu-de-04-Chien-tranh-bao-ve-To-quoc-va-chien-tranh-giai-phong-dan-toc/img/H11-lich_su-b08-06.png",
+              "caption": "H11-lich_su-b08-06",
+              "pdf_page": 58
+            },
+            {
+              "id": "H11-lich_su-b08-07",
+              "file": "Chu-de-04-Chien-tranh-bao-ve-To-quoc-va-chien-tranh-giai-phong-dan-toc/img/H11-lich_su-b08-07.png",
+              "caption": "H11-lich_su-b08-07",
+              "pdf_page": 59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd05",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 5",
+      "number": 5,
+      "title": "Một số cuộc cải cách lớn trong lịch sử Việt Nam (trước năm 1858)",
+      "children": [
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Cuộc cải cách của Hồ Quý Ly và triều Hồ",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-05-Mot-so-cuoc-cai-cach-lon-trong-lich-su-Viet-Nam/B09-Cuoc-cai-cach-cua-Ho-Quy-Ly-va-trieu-Ho.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            61,
+            64
+          ],
+          "printed_pages": [
+            60,
+            63
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Học xong bài này, em sẽ:",
+            "items": [
+              "Trình bày được bối cảnh lịch sử, nội dung, kết quả, ý nghĩa cuộc cải cách của Hồ Quý Ly và triều Hồ.",
+              "Có ý thức trân trọng giá trị cuộc cải cách của Hồ Quý Ly và triều Hồ."
+            ],
+            "pdf_page": 61
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H11-lich_su-b09-01",
+              "file": "Chu-de-05-Mot-so-cuoc-cai-cach-lon-trong-lich-su-Viet-Nam/img/H11-lich_su-b09-01.png",
+              "caption": "Cửa Nam thành Tây Đô (Thanh Hoá)",
+              "pdf_page": 61
+            },
+            {
+              "id": "H11-lich_su-b09-02",
+              "file": "Chu-de-05-Mot-so-cuoc-cai-cach-lon-trong-lich-su-Viet-Nam/img/H11-lich_su-b09-02.png",
+              "caption": "Hồ Quý Ly (1336 – 1407)",
+              "pdf_page": 62
+            }
+          ]
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Cuộc cải cách của Lê Thánh Tông (thế kỉ XV)",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-05-Mot-so-cuoc-cai-cach-lon-trong-lich-su-Viet-Nam/B10-Cuoc-cai-cach-cua-Le-Thanh-Tong-the-ki-XV.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            65,
+            69
+          ],
+          "printed_pages": [
+            64,
+            68
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Học xong bài này, em sẽ:",
+            "items": [
+              "Trình bày được bối cảnh lịch sử, nội dung, kết quả, ý nghĩa của cuộc cải cách thời Lê Thánh Tông.",
+              "Có ý thức trân trọng giá trị cuộc cải cách của Lê Thánh Tông."
+            ],
+            "pdf_page": 65
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H11-lich_su-b10-01",
+              "file": "Chu-de-05-Mot-so-cuoc-cai-cach-lon-trong-lich-su-Viet-Nam/img/H11-lich_su-b10-01.png",
+              "caption": "Chân dung vua Lê Thánh Tông (Tranh vẽ ở Thái miếu Lam Kinh)",
+              "pdf_page": 65
+            },
+            {
+              "id": "H11-lich_su-b10-02",
+              "file": "Chu-de-05-Mot-so-cuoc-cai-cach-lon-trong-lich-su-Viet-Nam/img/H11-lich_su-b10-02.png",
+              "caption": "Lược đồ Đại Việt thời vua Lê Thánh Tông (1460 – 1497)",
+              "pdf_page": 67
+            }
+          ]
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Cuộc cải cách của Minh Mạng (nửa đầu thế kỉ XIX)",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-05-Mot-so-cuoc-cai-cach-lon-trong-lich-su-Viet-Nam/B11-Cuoc-cai-cach-cua-Minh-Mang-nua-dau-the-ki-XIX.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            70,
+            73
+          ],
+          "printed_pages": [
+            69,
+            72
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Học xong bài này, em sẽ:",
+            "items": [
+              "Trình bày được bối cảnh lịch sử, nội dung, kết quả, ý nghĩa cuộc cải cách của Minh Mạng.",
+              "Có ý thức trân trọng giá trị của các cuộc cải cách trong lịch sử dân tộc."
+            ],
+            "pdf_page": 70
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H11-lich_su-b11-01",
+              "file": "Chu-de-05-Mot-so-cuoc-cai-cach-lon-trong-lich-su-Viet-Nam/img/H11-lich_su-b11-01.png",
+              "caption": "Vua Minh Mạng (1791 – 1841)",
+              "pdf_page": 70
+            },
+            {
+              "id": "H11-lich_su-b11-02",
+              "file": "Chu-de-05-Mot-so-cuoc-cai-cach-lon-trong-lich-su-Viet-Nam/img/H11-lich_su-b11-02.png",
+              "caption": "Lược đồ hành chính Việt Nam (sau cải cách Minh Mạng)",
+              "pdf_page": 71
+            },
+            {
+              "id": "H11-lich_su-b11-03",
+              "file": "Chu-de-05-Mot-so-cuoc-cai-cach-lon-trong-lich-su-Viet-Nam/img/H11-lich_su-b11-03.png",
+              "caption": "Lăng Minh Mạng (Thừa Thiên Huế)",
+              "pdf_page": 73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd06",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 6",
+      "number": 6,
+      "title": "Lịch sử bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông",
+      "children": [
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Vị trí và tầm quan trọng của Biển Đông",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/B12-Vi-tri-va-tam-quan-trong-cua-Bien-Dong.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            74,
+            80
+          ],
+          "printed_pages": [
+            73,
+            79
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Học xong bài này, em sẽ:",
+            "items": [
+              "Xác định được vị trí của Biển Đông trên bản đồ. Giải thích được tầm quan trọng chiến lược của Biển Đông về giao thông biển, vị trí chiến lược, nguồn tài nguyên thiên nhiên biển.",
+              "Xác định được vị trí của các đảo, quần đảo ở Biển Đông trên bản đồ. Giải thích được tầm quan trọng chiến lược của các đảo và quần đảo ở Biển Đông."
+            ],
+            "pdf_page": 74
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H11-lich_su-b12-01",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b12-01.png",
+              "caption": "Hình 1. Cảng Xin-ga-po (Xin-ga-po) – một trong những cảng biển sầm uất và hiện đại ở Biển Đông",
+              "pdf_page": 74
+            },
+            {
+              "id": "H11-lich_su-b12-02",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b12-02.png",
+              "caption": "Hình 2. Lược đồ khu vực Biển Đông",
+              "pdf_page": 75
+            },
+            {
+              "id": "H11-lich_su-b12-03",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b12-03.png",
+              "caption": "Hình 3. Giàn khoan Đại Hùng 01 của Tập đoàn Dầu khí Quốc gia Việt Nam trên Biển Đông",
+              "pdf_page": 77
+            },
+            {
+              "id": "H11-lich_su-b12-04",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b12-04.png",
+              "caption": "Hình 4. Sinh vật dưới Biển Đông",
+              "pdf_page": 78
+            },
+            {
+              "id": "H11-lich_su-b12-05",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b12-05.png",
+              "caption": "Hình 5. Đảo Trường Sa thuộc quần đảo Trường Sa (huyện Trường Sa, tỉnh Khánh Hoà)",
+              "pdf_page": 79
+            }
+          ]
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Việt Nam và Biển Đông",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/B13-Viet-Nam-va-Bien-Dong.md",
+          "source_file": "SGK LICH SU 11 - KNTT.pdf",
+          "pdf_pages": [
+            81,
+            91
+          ],
+          "printed_pages": [
+            80,
+            90
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Học xong bài này, em sẽ:",
+            "items": [
+              "Nêu được tầm quan trọng chiến lược của Biển Đông đối với Việt Nam về quốc phòng, an ninh, về phát triển các ngành kinh tế trọng điểm.",
+              "Nêu được Việt Nam là Nhà nước đầu tiên xác lập chủ quyền và quản lí liên tục đối với quần đảo Hoàng Sa và quần đảo Trường Sa trong lịch sử.",
+              "Trình bày được nét chính về cuộc đấu tranh bảo vệ, thực thi chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông.",
+              "Nêu được chủ trương giải quyết của Việt Nam các tranh chấp bằng biện pháp hoà bình.",
+              "Trân trọng những thành quả đấu tranh bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông trong lịch sử, sẵn sàng tham gia đóng góp vào cuộc đấu tranh bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Nhà nước Việt Nam."
+            ],
+            "pdf_page": 81
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H11-lich_su-b13-01",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b13-01.png",
+              "caption": "Hình 1. Tàu Kiểm ngư KN-491 của Việt Nam",
+              "pdf_page": 81
+            },
+            {
+              "id": "H11-lich_su-b13-02",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b13-02.png",
+              "caption": "Hình 2. Cảng Quy Nhơn (Bình Định)",
+              "pdf_page": 81
+            },
+            {
+              "id": "H11-lich_su-b13-03",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b13-03.png",
+              "caption": "Hình 3. Một góc đảo Cồn Cỏ (Quảng Trị) – “vọng gác tiền tiêu” của Việt Nam ở phía nam vịnh Bắc Bộ",
+              "pdf_page": 82
+            },
+            {
+              "id": "H11-lich_su-b13-04",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b13-04.png",
+              "caption": "Hình 4. Một góc đảo Phú Quốc (Kiên Giang)",
+              "pdf_page": 83
+            },
+            {
+              "id": "H11-lich_su-b13-05",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b13-05.png",
+              "caption": "Hình 5. Bản đồ Đại Nam nhất thống toàn đồ (1838)",
+              "pdf_page": 84
+            },
+            {
+              "id": "H11-lich_su-b13-06",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b13-06.png",
+              "caption": "Hình 6. Tượng đài đội Hoàng Sa kiêm quản Bắc Hải ở đảo Lý Sơn (Quảng Ngãi)",
+              "pdf_page": 85
+            },
+            {
+              "id": "H11-lich_su-b13-07",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b13-07.png",
+              "caption": "Hình 7. Cột hải đăng trên quần đảo Hoàng Sa được xây dựng năm 1937",
+              "pdf_page": 86
+            },
+            {
+              "id": "H11-lich_su-b13-08",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b13-08.png",
+              "caption": "Hình 8. Bia chủ quyền trên quần đảo Hoàng Sa do người Pháp xây dựng năm 1938",
+              "pdf_page": 86
+            },
+            {
+              "id": "H11-lich_su-b13-09",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b13-09.png",
+              "caption": "Hình 9. Sơ đồ khái quát về cuộc đấu tranh bảo vệ chủ quyền biển đảo của Việt Nam",
+              "pdf_page": 88
+            },
+            {
+              "id": "H11-lich_su-b13-10",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b13-10.png",
+              "caption": "Hình 10. Đài tưởng niệm chiến sĩ Gạc Ma (Khánh Hoà)",
+              "pdf_page": 89
+            },
+            {
+              "id": "H11-lich_su-b13-11",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b13-11.png",
+              "caption": "Hình 11. Lễ kí kết Tuyên bố về Cách ứng xử của các bên ở Biển Đông (DOC) tại Cam-pu-chia (2002)",
+              "pdf_page": 90
+            },
+            {
+              "id": "H11-lich_su-b13-12",
+              "file": "Chu-de-06-Lich-su-bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap-cua-Viet-Nam-o-Bien-Dong/img/H11-lich_su-b13-12.png",
+              "caption": "Hình 12. Tàu Hộ vệ tên lửa 016 – Quang Trung của Hải quân Nhân dân Việt Nam",
+              "pdf_page": 91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu khái niệm, thuật ngữ",
+      "file": "Bang-tra-cuu.md",
+      "source_file": "SGK LICH SU 11 - KNTT.pdf",
+      "pdf_pages": [
+        92,
+        94
+      ],
+      "printed_pages": [
+        91,
+        93
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-phien-am",
+      "role": "back_matter",
+      "kind": "bang_phien_am",
+      "label": null,
+      "number": null,
+      "title": "Bảng phiên âm",
+      "file": null,
+      "source_file": "SGK LICH SU 11 - KNTT.pdf",
+      "pdf_pages": [
+        95,
+        96
+      ],
+      "printed_pages": [
+        94,
+        95
+      ],
+      "status": "skip"
+    }
+  ],
+  "dictionaries": [
+    {
+      "file": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "name": "tu-dien-lich-su-11-chu-de-1",
+      "title": "Từ điển Thuật ngữ Lịch sử 11 — Chủ đề 1: Cách mạng tư sản và sự phát triển của chủ nghĩa tư bản",
+      "group_id": "cd01",
+      "lesson_ids": [
+        "b01",
+        "b02"
+      ],
+      "conventions": [
+        "**Phạm vi**: Khái niệm lịch sử, sự kiện, phong trào, chế độ chính trị – xã hội, tổ chức quốc tế/khu vực và văn kiện lịch sử trọng tâm có định nghĩa hoặc mô tả khái quát trong SGK. Không đưa tên nhân vật, địa danh đơn lẻ hoặc niên đại thuần tuý trừ khi gắn liền tên một sự kiện/khái niệm chuyên môn.",
+        "**Cột Thuật ngữ**: Giữ nguyên cách viết trong SGK (kể cả cách phiên âm tên riêng có gạch nối như *Pa-ri*, *Ba-xti*, *Nê-đéc-lan*, *Véc-xai* khi nằm trong tên sự kiện/văn kiện).",
+        "**Cột Tiếng Anh**: Thuật ngữ tiếng Anh tương đương chuẩn sử học quốc tế.",
+        "**Cột Giải nghĩa**: Chép nguyên văn hoặc ghép sát câu từ phần định nghĩa trong bài học hoặc từ *Bảng tra cứu thuật ngữ* cuối sách; với mục `[mô tả]`, ghép nguyên văn từ đoạn gắn nhãn `<!-- term: ... -->` ở Tầng 1.",
+        "**Cột Bối cảnh sử dụng**: Nêu bối cảnh lịch sử, không gian – thời gian, ý nghĩa hoặc mối liên hệ với các sự kiện khác trong bài; có tiền tố `[mô tả]` ở đầu cột nếu khái niệm được mô tả trong văn bản mà không in đậm như mục từ định nghĩa."
+      ],
+      "status": "verified",
+      "created": "2026-11-06",
+      "updated": "2026-11-06"
+    },
+    {
+      "file": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "name": "tu-dien-lich-su-11-chu-de-2",
+      "title": "TỪ ĐIỂN THUẬT NGỮ LỊCH SỬ 11 — CHỦ ĐỀ 2: CHỦ NGHĨA XÃ HỘI TỪ NĂM 1917 ĐẾN NAY",
+      "group_id": "cd02",
+      "lesson_ids": [
+        "b03",
+        "b04"
+      ],
+      "conventions": [
+        "Tên riêng người và địa danh nước ngoài giữ nguyên cách phiên âm có gạch nối như sách in ở Tầng 1 (Giôn Rít, Xmô-nưi, Lê-nin, Mát-xcơ-va, U-crai-na, Bê-lô-rút-xi-a, Ngoại Cáp-ca-dơ, Xta-lin, Ru-ma-ni, Hung-ga-ri, An-ba-ni, Bun-ga-ri, Cu-ba, Ca-ri-bê, Béc-lin, La Ha-ba-na,...); ở Tầng 2 có thể đối chiếu nguyên ngữ theo Bảng phiên âm cuối sách.",
+        "Mốc thời gian (ngày – tháng – năm hoặc giai đoạn năm) giữ nguyên cách trình bày của sách (ví dụ: 25 – 10 – 1917, 30 – 12 – 1922, 12 – 1991, 12 – 1978).",
+        "Chữ viết tắt các tổ chức, chỉ số kinh tế quốc tế giữ nguyên như sách (GDP)."
+      ],
+      "status": "verified",
+      "created": "2026-11-06",
+      "updated": "2026-11-06"
+    },
+    {
+      "file": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "name": "tu-dien-lich-su-11-chu-de-3",
+      "title": "TỪ ĐIỂN LỊCH SỬ 11 — CHỦ ĐỀ 3: QUÁ TRÌNH GIÀNH ĐỘC LẬP DÂN TỘC CỦA CÁC QUỐC GIA ĐÔNG NAM Á",
+      "group_id": "cd03",
+      "lesson_ids": [
+        "b05",
+        "b06"
+      ],
+      "conventions": [
+        "**Mục định nghĩa trong nguồn**: Các khái niệm có định nghĩa nguyên văn trong *Bảng tra cứu khái niệm, thuật ngữ* cuối sách thuộc Chủ đề 3 (`Thương điếm`, `Vùng đệm`, `Chia để trị`, `Ngu dân`, `Khởi nghĩa`) được chép nguyên văn ở cột *Giải nghĩa* và không gắn nhãn `[mô tả]` ở cột *Bối cảnh sử dụng*.",
+        "**Mục mô tả (`[mô tả]`)**: Các quá trình, sự kiện, chính sách và nhân vật lịch sử trọng tâm được SGK trình bày trong thân bài (không đóng khung định nghĩa riêng) được tổng hợp sát văn bản Tầng 1 ở cột *Giải nghĩa* và gắn tiền tố `[mô tả]` ở đầu cột *Bối cảnh sử dụng*."
+      ],
+      "status": "verified",
+      "created": "2026-04-20",
+      "updated": "2026-04-20"
+    },
+    {
+      "file": "Tu-dien-Lich-su-11-Chu-de-4.md",
+      "name": "tu-dien-lich-su-11-chu-de-4",
+      "title": "TỪ ĐIỂN THUẬT NGỮ LỊCH SỬ 11 — CHỦ ĐỀ 4: CHIẾN TRANH BẢO VỆ TỔ QUỐC VÀ CHIẾN TRANH GIẢI PHÓNG DÂN TỘC TRONG LỊCH SỬ VIỆT NAM (TRƯỚC CÁCH MẠNG THÁNG TÁM NĂM 1945)",
+      "group_id": "cd04",
+      "lesson_ids": [
+        "b07",
+        "b08"
+      ],
+      "conventions": [
+        "Tên riêng người và địa danh nước ngoài giữ nguyên cách phiên âm có gạch nối như sách in ở Tầng 1 (Hác-măng, Pa-tơ-nốt,...); ở Tầng 2 có thể đối chiếu nguyên ngữ theo Bảng phiên âm cuối sách.",
+        "Mốc thời gian (ngày – tháng – năm hoặc giai đoạn năm) giữ nguyên cách trình bày của sách (ví dụ: 179 TCN, 1075 – 1077, 1418 – 1427, 10 – 12 – 1427, thế kỉ XVIII).",
+        "Các mục từ định nghĩa trực tiếp trong *Bảng tra cứu khái niệm, thuật ngữ* cuối sách được chép nguyên văn định nghĩa gốc; các mục tổng hợp từ nội dung bài học được gắn nhãn `[mô tả] ` ở đầu cột *Bối cảnh sử dụng* và khớp với nhãn `<!-- term: ... -->` ở Tầng 1."
+      ],
+      "status": "verified",
+      "created": "2026-11-06",
+      "updated": "2026-11-06"
+    },
+    {
+      "file": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "name": "tu-dien-lich-su-11-chu-de-5",
+      "title": "TỪ ĐIỂN THUẬT NGỮ LỊCH SỬ 11 — CHỦ ĐỀ 5: MỘT SỐ CUỘC CẢI CÁCH LỚN TRONG LỊCH SỬ VIỆT NAM (TRƯỚC NĂM 1858)",
+      "group_id": "cd05",
+      "lesson_ids": [
+        "b09",
+        "b10",
+        "b11"
+      ],
+      "conventions": [
+        "Tên riêng người, triều đại, địa danh lịch sử và tên cơ quan, chức quan, bộ luật giữ nguyên cách viết như sách in ở Tầng 1.",
+        "Mốc thời gian (năm hoặc giai đoạn thế kỉ) giữ nguyên cách trình bày của sách (ví dụ: 1400 – 1407, thế kỉ XV, nửa đầu thế kỉ XIX).",
+        "Các khái niệm có định nghĩa trực tiếp trong bài học hoặc tại Bảng tra cứu khái niệm, thuật ngữ cuối sách (trang 95) được giải nghĩa nguyên văn; các nội dung cải cách, thiết chế, chính sách lịch sử được gắn nhãn `[mô tả]` ở cột Bối cảnh sử dụng."
+      ],
+      "status": "verified",
+      "created": "2026-11-06",
+      "updated": "2026-11-06"
+    },
+    {
+      "file": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "name": "tu-dien-lich-su-11-chu-de-6",
+      "title": "Từ điển Lịch sử 11 — Chủ đề 6: Lịch sử bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông",
+      "group_id": "cd06",
+      "lesson_ids": [
+        "b12",
+        "b13"
+      ],
+      "conventions": [],
+      "status": "verified",
+      "created": "2026-04-19",
+      "updated": "2026-04-19"
+    }
+  ],
+  "terms": [
+    {
+      "id": "lich-su-11-cach-mang-tu-san",
+      "term": "Cách mạng tư sản",
+      "aliases": [],
+      "english": "Bourgeois revolution",
+      "notation": null,
+      "meaning": "Cuộc cách mạng do giai cấp tư sản lãnh đạo, nhằm lật đổ chế độ phong kiến, thiết lập nền thống trị của giai cấp tư sản, mở đường cho chủ nghĩa tư bản phát triển.",
+      "usage_context": "Khái niệm trung tâm của Chủ đề 1; diễn ra tiêu biểu ở Nê-đéc-lan, Anh, 13 thuộc địa Anh ở Bắc Mỹ và Pháp thời cận đại (trang 6, 7, 8, 9, 10, 11, 13).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 92,
+        "printed_page": 91
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-cai-cach",
+      "term": "Cải cách",
+      "aliases": [],
+      "english": "Reform",
+      "notation": null,
+      "meaning": "Đổi mới cho tiến bộ hơn, phù hợp với sự phát triển chung của xã hội mà không làm thay đổi chế độ hiện hành.",
+      "usage_context": "Tiền đề tư tưởng thông qua ngọn cờ tôn giáo cải cách ở Nê-đéc-lan, Anh và các cuộc cải cách trong Duy tân Minh Trị ở Nhật Bản (trang 7, 15).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2",
+        "pdf_page": 63,
+        "printed_page": 62
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-chinh-quoc",
+      "term": "Chính quốc",
+      "aliases": [],
+      "english": "Metropole / Mother country",
+      "notation": null,
+      "meaning": "Từ dùng để chỉ nước đế quốc thực dân nhằm phân biệt với thuộc địa của nước đó.",
+      "usage_context": "Quan hệ thương mại và chính sách bóc lột giữa Chính phủ Anh với 13 thuộc địa ở Bắc Mỹ trước Chiến tranh giành độc lập (trang 7).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 92,
+        "printed_page": 91
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-thuoc-dia",
+      "term": "Thuộc địa",
+      "aliases": [],
+      "english": "Colony",
+      "notation": null,
+      "meaning": "Nước bị thực dân xâm lược và thống trị áp bức, bóc lột, mất hoàn toàn quyền độc lập về chính trị, kinh tế,...",
+      "usage_context": "13 thuộc địa Anh ở Bắc Mỹ và hệ thống thuộc địa của các nước đế quốc ở châu Á, châu Phi, Mỹ La-tinh (trang 7, 8, 9, 10, 11, 12, 13, 14, 15).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 94,
+        "printed_page": 93
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-quy-toc-moi",
+      "term": "Quý tộc mới",
+      "aliases": [],
+      "english": "New nobility / Gentry",
+      "notation": null,
+      "meaning": "Những quý tộc phong kiến đã tư sản hoá, kinh doanh theo lối tư bản chủ nghĩa, như thuê công nhân, mở công xưởng,... để sản xuất hàng hoá, kinh doanh thương nghiệp, chứ không bóc lột tô, bắt lao dịch như trước đây.",
+      "usage_context": "Tầng lớp đồng minh của giai cấp tư sản, giữ vai trò quan trọng trong lãnh đạo Cách mạng tư sản Anh thế kỉ XVII (trang 8, 9, 10).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 93,
+        "printed_page": 92
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-doc-quyen",
+      "term": "Độc quyền",
+      "aliases": [],
+      "english": "Monopoly",
+      "notation": null,
+      "meaning": "Chiếm giữ hoàn toàn lấy một mình, không chia sẻ cho ai, trong hoạt động kinh tế, chính trị: độc quyền kinh doanh của nhà nước; công ti tư bản độc quyền.",
+      "usage_context": "Độc quyền thương mại của Nhà nước phong kiến Anh, độc quyền lãnh đạo của giai cấp tư sản Pháp và giai đoạn chủ nghĩa tư bản độc quyền cuối thế kỉ XIX – đầu thế kỉ XX (trang 7, 10, 12, 16, 17).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 93,
+        "printed_page": 92
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-triet-hoc-anh-sang",
+      "term": "Triết học Ánh sáng",
+      "aliases": [],
+      "english": "Philosophy of the Enlightenment",
+      "notation": null,
+      "meaning": "Tại Pháp, trào lưu tư tưởng Triết học Ánh sáng đã phê phán những bất cập, lỗi thời, mục nát của chế độ phong kiến chuyên chế, giáo hội Thiên Chúa đương thời, đồng thời đề xuất những tư tưởng mới tiến bộ nhằm thúc đẩy xã hội phát triển.",
+      "usage_context": "Trào lưu tư tưởng ở Pháp thế kỉ XVIII với các đại diện tiêu biểu là S. Mông-te-xki-ơ, Ph. Vôn-te và G. G. Rút-xô, chuẩn bị tiền đề tư tưởng cho Cách mạng tư sản Pháp.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1.d",
+        "pdf_page": 10,
+        "printed_page": 9
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-nhiem-vu-dan-toc-va-nhiem-vu-dan-chu",
+      "term": "Nhiệm vụ dân tộc và nhiệm vụ dân chủ",
+      "aliases": [],
+      "english": "National and democratic tasks",
+      "notation": null,
+      "meaning": "Các cuộc cách mạng tư sản có hai nhiệm vụ cơ bản là dân tộc và dân chủ. Nhiệm vụ dân tộc là xoá bỏ tình trạng phong kiến cát cứ, đánh đuổi thực dân, giải phóng dân tộc, thống nhất thị trường, tạo thành một quốc gia dân tộc gồm đầy đủ bốn yếu tố (lãnh thổ chung, ngôn ngữ chung, nền văn hoá chung và kinh tế chung). Nhiệm vụ dân chủ thể hiện thông qua việc xoá bỏ chế độ phong kiến chuyên chế, xác lập nền dân chủ tư sản, mỗi người dân đều có quyền tự do chính trị, tự do kinh doanh và có quyền tư hữu.",
+      "usage_context": "Hai nhiệm vụ cơ bản xuyên suốt các cuộc cách mạng tư sản thời cận đại.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "2.a",
+        "pdf_page": 10,
+        "printed_page": 9
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-dong-luc-cach-mang-tu-san",
+      "term": "Động lực cách mạng tư sản",
+      "aliases": [],
+      "english": "Driving force of bourgeois revolution",
+      "notation": null,
+      "meaning": "Trong các cuộc cách mạng tư sản, giai cấp lãnh đạo và quần chúng nhân dân giữ vai trò quan trọng và là động lực quyết định thắng lợi của cách mạng. Khi quần chúng nhân dân tham gia đông đảo, liên tục thì thắng lợi của cách mạng càng triệt để, tiêu biểu như Cách mạng tư sản Pháp cuối thế kỉ XVIII.",
+      "usage_context": "Lực lượng quyết định thắng lợi và mức độ triệt để của các cuộc cách mạng tư sản.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "2.b",
+        "pdf_page": 11,
+        "printed_page": 10
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-chu-nghia-de-quoc",
+      "term": "Chủ nghĩa đế quốc",
+      "aliases": [],
+      "english": "Imperialism",
+      "notation": null,
+      "meaning": "Là chính sách mà qua đó các quốc gia hay các dân tộc hùng mạnh tìm cách mở rộng và duy trì quyền kiểm soát hoặc ảnh hưởng đối với các quốc gia hay dân tộc yếu hơn.",
+      "usage_context": "Hệ quả trực tiếp của quá trình xâm lược thuộc địa nhằm tìm kiếm thị trường, thu lợi nhuận và đầu tư tư bản ở nước ngoài cuối thế kỉ XIX – đầu thế kỉ XX (trang 13).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 92,
+        "printed_page": 91
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-duy-tan",
+      "term": "Duy tân",
+      "aliases": [],
+      "english": "Modernization / Renovation",
+      "notation": null,
+      "meaning": "Phong trào đấu tranh đòi thay đổi theo cái mới, cái tiến bộ, bỏ cái cũ, lạc hậu trong đời sống xã hội, xây dựng đất nước.",
+      "usage_context": "Phong trào cải cách đưa đất nước phát triển theo con đường tư bản chủ nghĩa ở châu Á cuối thế kỉ XIX, tiêu biểu là cuộc Duy tân Minh Trị ở Nhật Bản (trang 15).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 92,
+        "printed_page": 91
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-lam-phat",
+      "term": "Lạm phát",
+      "aliases": [],
+      "english": "Inflation",
+      "notation": null,
+      "meaning": "Phát hành quá nhiều giấy bạc bị ứ đọng so với nhu cầu lưu chuyển hàng hoá làm đồng tiền sụt giá, nâng cao giá hàng hoá, gây nhiều khó khăn cho đời sống nhân dân.",
+      "usage_context": "Một trong những hệ luỵ kinh tế tiêu cực do khủng hoảng năng lượng và khủng hoảng tài chính gây ra đối với các nước tư bản hiện đại (trang 17).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 93,
+        "printed_page": 92
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-duy-tan-minh-tri",
+      "term": "Duy tân Minh Trị",
+      "aliases": [],
+      "english": "Meiji Restoration",
+      "notation": null,
+      "meaning": "Cuộc Duy tân Minh Trị bao gồm những cải cách trên các lĩnh vực: chính trị, kinh tế, quân sự, văn hoá, xã hội, giáo dục,... Cuộc cải cách đã đưa nền kinh tế Nhật Bản phát triển mạnh mẽ trong 30 năm cuối thế kỉ XIX, đồng thời giúp Nhật Bản tránh được nguy cơ bị xâm lược từ các cường quốc thực dân phương Tây.",
+      "usage_context": "Cuộc cải cách bắt đầu từ năm 1868 đưa Nhật Bản từ một nước phong kiến trở thành nước tư bản chủ nghĩa.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2.b",
+        "pdf_page": 16,
+        "printed_page": 15
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-cach-mang-tan-hoi",
+      "term": "Cách mạng Tân Hợi",
+      "aliases": [],
+      "english": "Xinhai Revolution",
+      "notation": null,
+      "meaning": "Ở Trung Quốc, Cách mạng Tân Hợi (1911) do những trí thức cấp tiến và tiểu tư sản lãnh đạo đã lật đổ triều đại Mãn Thanh, chấm dứt chế độ quân chủ chuyên chế tồn tại lâu đời ở Trung Quốc. Mặc dù cuộc cách mạng này không thực sự thủ tiêu giai cấp phong kiến nhưng đã mở đường cho chủ nghĩa tư bản phát triển ở quốc gia lớn nhất, đông dân nhất châu Á.",
+      "usage_context": "Cuộc cách mạng dân chủ tư sản năm 1911 ở Trung Quốc mở đường cho chủ nghĩa tư bản phát triển.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2.b",
+        "pdf_page": 16,
+        "printed_page": 15
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-chu-nghia-tu-ban-doc-quyen",
+      "term": "Chủ nghĩa tư bản độc quyền",
+      "aliases": [],
+      "english": "Monopoly capitalism",
+      "notation": null,
+      "meaning": "Thời kì xác lập chủ nghĩa tư bản là thời kì tự do cạnh tranh của chủ nghĩa tư bản. Cuối thế kỉ XIX – đầu thế kỉ XX, chủ nghĩa tư bản chuyển sang giai đoạn độc quyền.",
+      "usage_context": "Giai đoạn phát triển của chủ nghĩa tư bản từ cuối thế kỉ XIX – đầu thế kỉ XX khi các tổ chức tư bản độc quyền chi phối toàn bộ nền kinh tế.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2.c",
+        "pdf_page": 17,
+        "printed_page": 16
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-to-chuc-doc-quyen",
+      "term": "Tổ chức độc quyền",
+      "aliases": [],
+      "english": "Monopoly organization",
+      "notation": null,
+      "meaning": "Tổ chức độc quyền là sự liên minh giữa các nhà tư bản lớn để tập trung vào tay mình phần lớn việc sản xuất hoặc tiêu thụ một số hàng hoá nhằm thu lợi nhuận cao. Các hình thức tiêu biểu của tổ chức độc quyền là các-ten, xanh-đi-ca ở Đức và Pháp, tơ-rớt ở Mỹ.",
+      "usage_context": "Cơ sở kinh tế cho bước chuyển của chủ nghĩa tư bản từ tự do cạnh tranh sang độc quyền cuối thế kỉ XIX – đầu thế kỉ XX.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2.c",
+        "pdf_page": 17,
+        "printed_page": 16
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-chu-nghia-tu-ban-hien-dai",
+      "term": "Chủ nghĩa tư bản hiện đại",
+      "aliases": [],
+      "english": "Modern capitalism",
+      "notation": null,
+      "meaning": "Chủ nghĩa tư bản hiện đại là thuật ngữ dùng để chỉ một giai đoạn phát triển của chủ nghĩa tư bản từ sau Chiến tranh thế giới thứ hai đến nay với những biểu hiện mới, tiêu biểu là sự kết hợp giữa sức mạnh kinh tế của các tổ chức độc quyền tư nhân với sức mạnh chính trị của nhà nước tư sản. Chủ nghĩa tư bản hiện đại có sức sản xuất phát triển cao trên cơ sở những thành tựu của cách mạng khoa học – công nghệ, có lực lượng lao động đáp ứng sự phát triển nhảy vọt của nền sản xuất, đồng thời không ngừng điều chỉnh để tồn tại và phát triển trong bối cảnh mới.",
+      "usage_context": "Giai đoạn phát triển của chủ nghĩa tư bản từ sau năm 1945 đến nay gắn với cách mạng khoa học – công nghệ và Cách mạng công nghiệp lần thứ tư.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "3.a",
+        "pdf_page": 18,
+        "printed_page": 17
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-phong-trao-chiem-lay-pho-uon",
+      "term": "Phong trào “Chiếm lấy phố Uôn”",
+      "aliases": [],
+      "english": "Occupy Wall Street movement",
+      "notation": null,
+      "meaning": "“Chiếm lấy phố Uôn” hay còn gọi là phong trào “99 chống lại 1” là một phong trào xuất hiện ở nước Mỹ vào đầu năm 2011. Tên của phong trào này nói lên rằng: 1% dân số Mỹ giàu có sở hữu tài sản quốc gia bằng số tài sản của 99% dân số. Phong trào đã lan sang nhiều nước tư bản chủ nghĩa.",
+      "usage_context": "Phong trào phản kháng xã hội tiêu biểu phản ánh sự chênh lệch giàu nghèo và bất bình đẳng sâu sắc trong xã hội tư bản hiện đại.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "3.b",
+        "pdf_page": 19,
+        "printed_page": 18
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-thanh-lap-chinh-quyen-xo-viet",
+      "term": "Thành lập Chính quyền Xô viết",
+      "aliases": [],
+      "english": "Establishment of the Soviet Power",
+      "notation": null,
+      "meaning": "Sau thắng lợi của Cách mạng tháng Mười Nga, nhiệm vụ hàng đầu của Chính quyền Xô viết là đập tan bộ máy nhà nước cũ, xây dựng nhà nước mới của những người lao động. Đại hội Xô viết toàn Nga lần thứ hai, khai mạc đêm 25 – 10 – 1917 (ngày 7 – 11 – 1917 theo lịch mới) tại Điện Xmô-nưi, ra tuyên bố thành lập Chính quyền Xô viết do Lê-nin đứng đầu.",
+      "usage_context": "Bài 3, mục 1 — trình bày sự kiện mở đầu quá trình xây dựng nhà nước mới của những người lao động sau Cách mạng tháng Mười Nga.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 20,
+        "printed_page": 19
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-tu-tuong-chi-dao-cua-le-nin-ve-thanh-lap-lien-xo",
+      "term": "Tư tưởng chỉ đạo của Lê-nin về thành lập Liên Xô",
+      "aliases": [],
+      "english": "Lenin's guiding ideology on the formation of the USSR",
+      "notation": null,
+      "meaning": "Tư tưởng chỉ đạo của Lê-nin trong việc thành lập Liên bang Cộng hoà xã hội chủ nghĩa Xô viết là sự bình đẳng về mọi mặt, quyền dân tộc tự quyết và xây dựng một cộng đồng anh em giữa các dân tộc.",
+      "usage_context": "Bài 3, mục 1 — nêu nguyên tắc nền tảng chỉ đạo việc liên minh các nước Cộng hoà Xô viết.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 21,
+        "printed_page": 20
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-thanh-lap-lien-bang-cong-hoa-xa-hoi-chu-nghia-xo-viet",
+      "term": "Thành lập Liên bang Cộng hoà xã hội chủ nghĩa Xô viết",
+      "aliases": [],
+      "english": "Formation of the Union of Soviet Socialist Republics",
+      "notation": null,
+      "meaning": "Ngày 30 – 12 – 1922, tại Mát-xcơ-va, dưới sự chỉ đạo trực tiếp của Lê-nin, Đại hội lần thứ nhất các Xô viết toàn Liên bang đã thông qua bản Tuyên ngôn thành lập Liên bang Cộng hoà xã hội chủ nghĩa Xô viết (gọi tắt là Liên Xô) và bản Hiệp ước Liên bang. Khi mới thành lập, Liên Xô gồm 4 nước Cộng hoà Xô viết là Nga, U-crai-na, Bê-lô-rút-xi-a và Ngoại Cáp-ca-dơ. Đến năm 1940, Liên Xô gồm 15 nước cộng hoà.",
+      "usage_context": "Bài 3, mục 1 — trình bày sự kiện ra đời Nhà nước Liên bang Cộng hoà xã hội chủ nghĩa Xô viết và các nước thành viên.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 21,
+        "printed_page": 20
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-hien-phap-dau-tien-cua-lien-xo",
+      "term": "Hiến pháp đầu tiên của Liên Xô",
+      "aliases": [],
+      "english": "First Constitution of the USSR",
+      "notation": null,
+      "meaning": "Tháng 1 – 1924, bản Hiến pháp đầu tiên của Liên Xô được thông qua, hoàn thành quá trình thành lập Nhà nước Liên bang Cộng hoà xã hội chủ nghĩa đầu tiên trên thế giới. Hiến pháp Liên Xô năm 1924 ghi nhận việc hợp tác trên cơ sở tự nguyện của các nước Cộng hoà Xô viết thành một nhà nước Liên bang, phân định các quyền của Liên bang và của các nước Cộng hoà, quy định cơ cấu tổ chức cơ quan Nhà nước tối cao Liên bang và các nước Cộng hoà, phản ánh con đường giải quyết vấn đề dân tộc trên cơ sở nguyên tắc bình đẳng và tình hữu nghị giữa các dân tộc.",
+      "usage_context": "Bài 3, mục 1 — nêu mốc hoàn thành quá trình thành lập Nhà nước Liên Xô và nội dung cơ bản của Hiến pháp năm 1924.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 21,
+        "printed_page": 20
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-y-nghia-ra-doi-cua-lien-bang-cong-hoa-xa-hoi-chu-nghia-xo-viet",
+      "term": "Ý nghĩa ra đời của Liên bang Cộng hoà xã hội chủ nghĩa Xô viết",
+      "aliases": [],
+      "english": "Significance of the formation of the USSR",
+      "notation": null,
+      "meaning": "Quá trình thành lập Liên bang Cộng hoà xã hội chủ nghĩa Xô viết phù hợp với lợi ích chung của các dân tộc trên đất nước Xô viết, tạo điều kiện cho sự phát triển nhanh chóng về kinh tế, xã hội của tất cả các nước Cộng hoà, tăng cường vị thế của Liên Xô trên trường quốc tế, mở ra con đường giải quyết đúng đắn vấn đề dân tộc trên cơ sở bình đẳng và sự giúp đỡ nhau. Liên Xô trở thành biểu tượng và là chỗ dựa tinh thần, vật chất to lớn cho phong trào cách mạng thế giới, cổ vũ phong trào giải phóng dân tộc ở châu Á, châu Phi và khu vực Mỹ La-tinh, tạo tiền đề cho sự ra đời của hệ thống xã hội chủ nghĩa.",
+      "usage_context": "Bài 3, mục 2 — phân tích ý nghĩa trong nước và quốc tế của việc thành lập Liên Xô.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2",
+        "pdf_page": 22,
+        "printed_page": 21
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-doi-moi",
+      "term": "Đổi mới",
+      "aliases": [],
+      "english": "Renovation (Reform)",
+      "notation": null,
+      "meaning": "thay đổi hoặc làm cho thay đổi tốt hơn, tiến bộ hơn so với trước.",
+      "usage_context": "Bài 4, Mở đầu và mục 3.a — khái niệm chỉ quá trình cải cách, thay đổi đường lối xây dựng chủ nghĩa xã hội ở các nước như Việt Nam, Lào (định nghĩa tại Bảng tra cứu khái niệm, thuật ngữ, trang 93).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 93,
+        "printed_page": 92
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-quoc-huu-hoa",
+      "term": "Quốc hữu hoá",
+      "aliases": [],
+      "english": "Nationalization",
+      "notation": null,
+      "meaning": "Chuyển các hình thức sở hữu tư nhân thành sở hữu của nhà nước về ruộng đất, xí nghiệp, cơ sở giao thông, bưu điện, ngân hàng.",
+      "usage_context": "Bài 4, mục 1.a — biện pháp kinh tế trong giai đoạn hoàn thành cách mạng dân chủ nhân dân ở Đông Âu (1945 – 1949) (định nghĩa tại Bảng tra cứu khái niệm, thuật ngữ, trang 93).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 93,
+        "printed_page": 92
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-cong-nghiep-hoa",
+      "term": "Công nghiệp hoá",
+      "aliases": [],
+      "english": "Industrialization",
+      "notation": null,
+      "meaning": "quá trình xây dựng một nền sản xuất cơ khí hoá trong mọi ngành kinh tế quốc dân, trước hết là trong ngành công nghiệp.",
+      "usage_context": "Bài 4, mục 1.a và 3.a — nhiệm vụ trọng tâm trong xây dựng cơ sở vật chất của chủ nghĩa xã hội ở Đông Âu và Lào (định nghĩa tại Bảng tra cứu khái niệm, thuật ngữ, trang 92).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 92,
+        "printed_page": 91
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-khang-chien",
+      "term": "Kháng chiến",
+      "aliases": [],
+      "english": "Resistance war",
+      "notation": null,
+      "meaning": "chiến đấu chống quân xâm lược do chính quyền/nhà nước tổ chức nhằm bảo vệ nền độc lập.",
+      "usage_context": "Bài 4, mục 1.b — gắn với cuộc kháng chiến chống thực dân Pháp thắng lợi năm 1954 đưa miền Bắc Việt Nam đi lên chủ nghĩa xã hội (định nghĩa tại Bảng tra cứu khái niệm, thuật ngữ, trang 93).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 93,
+        "printed_page": 92
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-cam-van",
+      "term": "Cấm vận",
+      "aliases": [],
+      "english": "Embargo",
+      "notation": null,
+      "meaning": "chính sách bao vây về kinh tế đối với một nước, hạn chế đi đến cấm hẳn buôn bán với nước đó, kể cả công ti nhà nước cũng như tư nhân.",
+      "usage_context": "Bài 4, mục 1.b và 3.a — chính sách bao vây kinh tế kéo dài của Mỹ đối với Cu-ba trong quá trình Cu-ba xây dựng chủ nghĩa xã hội (định nghĩa tại Bảng tra cứu khái niệm, thuật ngữ, trang 92).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 92,
+        "printed_page": 91
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-su-phat-trien-cua-chu-nghia-xa-hoi-o-dong-au",
+      "term": "Sự phát triển của chủ nghĩa xã hội ở Đông Âu",
+      "aliases": [],
+      "english": "Development of socialism in Eastern Europe",
+      "notation": null,
+      "meaning": "Thắng lợi của Hồng quân Liên Xô trong việc tiêu diệt chủ nghĩa phát xít ở châu Âu đã tạo điều kiện thuận lợi cho nhân dân các nước Đông Âu nổi dậy giành chính quyền, thành lập nhà nước dân chủ nhân dân. Từ năm 1945 đến năm 1949, các nước Đông Âu hoàn thành việc thực hiện những nhiệm vụ của cách mạng dân chủ nhân dân; từ năm 1949 đến giữa những năm 70, với sự giúp đỡ của Liên Xô, sự nỗ lực của toàn thể nhân dân, các nước Đông Âu thực hiện công nghiệp hoá, điện khí hoá toàn quốc, phát triển nông nghiệp, trở thành những quốc gia có nền công nghiệp, nông nghiệp phát triển.",
+      "usage_context": "Bài 4, mục 1.a — trình bày sự ra đời các nhà nước dân chủ nhân dân và hai giai đoạn phát triển của chủ nghĩa xã hội ở Đông Âu.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "1.a",
+        "pdf_page": 23,
+        "printed_page": 22
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-su-mo-rong-cua-chu-nghia-xa-hoi-o-chau-a",
+      "term": "Sự mở rộng của chủ nghĩa xã hội ở châu Á",
+      "aliases": [],
+      "english": "Expansion of socialism in Asia",
+      "notation": null,
+      "meaning": "Thắng lợi của Hồng quân Liên Xô trong Chiến tranh thế giới thứ hai đã thúc đẩy phong trào giải phóng dân tộc ở châu Á phát triển mạnh mẽ: năm 1949, nước Cộng hoà Nhân dân Trung Hoa được thành lập và lựa chọn con đường đi lên chủ nghĩa xã hội; năm 1954, miền Bắc Việt Nam được giải phóng và sau khi thực hiện thống nhất đất nước (1976), cả nước Việt Nam tiến lên xây dựng chủ nghĩa xã hội; tháng 12 – 1975, nước Cộng hoà Dân chủ Nhân dân Lào chính thức thành lập và đi lên con đường xây dựng chủ nghĩa xã hội.",
+      "usage_context": "Bài 4, mục 1.b — nêu các mốc lịch sử đánh dấu sự mở rộng của chủ nghĩa xã hội ở Trung Quốc, Việt Nam và Lào.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "1.b",
+        "pdf_page": 24,
+        "printed_page": 23
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-su-mo-rong-chu-nghia-xa-hoi-o-khu-vuc-my-la-tinh",
+      "term": "Sự mở rộng chủ nghĩa xã hội ở khu vực Mỹ La-tinh",
+      "aliases": [],
+      "english": "Expansion of socialism in Latin America",
+      "notation": null,
+      "meaning": "Sau thắng lợi của cách mạng Cu-ba năm 1959, nước Cộng hoà Cu-ba được thành lập. Từ năm 1961, Cu-ba bước vào thời kì xây dựng xã hội chủ nghĩa. Mặc dù phải đối mặt với nhiều khó khăn, thách thức, đặc biệt là chính sách cấm vận của Mỹ, Cu-ba đã xây dựng được nền công nghiệp với cơ cấu các ngành hợp lí; nền nông nghiệp phát triển đa dạng; giáo dục, y tế, văn hoá đạt trình độ phát triển cao, đưa chủ nghĩa xã hội lan tới vùng biển Ca-ri-bê thuộc khu vực Mỹ La-tinh.",
+      "usage_context": "Bài 4, mục 1.b — trình bày quá trình xác lập và thành tựu xây dựng chủ nghĩa xã hội ở Cu-ba từ sau năm 1959.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "1.b",
+        "pdf_page": 25,
+        "printed_page": 24
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-khung-hoang-va-sup-do-cua-chu-nghia-xa-hoi-o-dong-au-va-lien-xo",
+      "term": "Khủng hoảng và sụp đổ của chủ nghĩa xã hội ở Đông Âu và Liên Xô",
+      "aliases": [],
+      "english": "Crisis and collapse of socialism in Eastern Europe and the USSR",
+      "notation": null,
+      "meaning": "Từ nửa sau những năm 70, tốc độ tăng trưởng kinh tế của các nước xã hội chủ nghĩa Đông Âu bắt đầu có sự suy giảm; từ những năm 80, các nước Đông Âu lâm vào thời kì suy thoái, khủng hoảng kinh tế – xã hội trầm trọng và cuối những năm 80, chế độ chủ nghĩa xã hội tan rã ở các nước Đông Âu. Ở Liên Xô, sự thất bại của công cuộc cải tổ đã đẩy đất nước lâm vào tình trạng khủng hoảng; tháng 12 – 1991, Nhà nước Liên bang Xô viết tan rã, chấm dứt chế độ xã hội chủ nghĩa ở Liên Xô sau 74 năm tồn tại.",
+      "usage_context": "Bài 4, mục 2 — khái quát diễn biến quá trình khủng hoảng, tan rã của chế độ xã hội chủ nghĩa ở Đông Âu và Liên Xô.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "2",
+        "pdf_page": 25,
+        "printed_page": 24
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-nguyen-nhan-sup-do-cua-chu-nghia-xa-hoi-o-dong-au-va-lien-xo",
+      "term": "Nguyên nhân sụp đổ của chủ nghĩa xã hội ở Đông Âu và Liên Xô",
+      "aliases": [],
+      "english": "Causes of the collapse of socialism in Eastern Europe and the USSR",
+      "notation": null,
+      "meaning": "Nguyên nhân dẫn đến sự khủng hoảng và sụp đổ của chủ nghĩa xã hội ở Đông Âu và Liên Xô bao gồm: thứ nhất, do đường lối lãnh đạo của Đảng Cộng sản Liên Xô và các nước Đông Âu mang tính chủ quan, duy ý chí, áp dụng máy móc mô hình kinh tế tập trung, quan liêu, bao cấp trong nhiều năm, chậm đổi mới cơ chế và hệ thống quản lí kinh tế; thứ hai, những thành tựu của cuộc cách mạng khoa học – công nghệ hiện đại không được áp dụng kịp thời vào sản xuất, năng suất lao động xã hội suy giảm dẫn tới tình trạng trì trệ kéo dài về kinh tế, khủng hoảng lòng tin trong xã hội; thứ ba, quá trình cải cách, cải tổ phạm sai lầm nghiêm trọng về đường lối, cách thức tiến hành, xoá bỏ vai trò lãnh đạo của Đảng Cộng sản; thứ tư, hoạt động chống phá của các lực lượng thù địch ở trong nước và các thế lực bên ngoài.",
+      "usage_context": "Bài 4, mục 2 — phân tích bốn nguyên nhân cơ bản dẫn tới sự sụp đổ mô hình chủ nghĩa xã hội ở Đông Âu và Liên Xô.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "2",
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-chu-nghia-xa-hoi-tu-nam-1991-den-nay",
+      "term": "Chủ nghĩa xã hội từ năm 1991 đến nay",
+      "aliases": [],
+      "english": "Socialism from 1991 to the present",
+      "notation": null,
+      "meaning": "Từ năm 1991 đến nay, ở châu Á, các nước Trung Quốc, Việt Nam, Lào từng bước tiến hành cải cách, mở cửa, đổi mới, kiên định đi lên con đường xây dựng xã hội chủ nghĩa; ở khu vực Mỹ La-tinh, Cu-ba vẫn quyết tâm đi theo con đường xây dựng chủ nghĩa xã hội, thực hiện cải cách kinh tế từng bước, có chọn lọc, hệ thống giáo dục, y tế miễn phí luôn là ưu tiên hàng đầu. Những thành tựu của công cuộc đổi mới, cải cách ở các nước châu Á, khu vực Mỹ La-tinh là cơ sở vững chắc để chứng minh chủ nghĩa xã hội có sức sống, có triển vọng thực sự trên thế giới và phù hợp với thực tiễn, xu thế phát triển của thời đại.",
+      "usage_context": "Bài 4, mục 3.a — khái quát tình hình, thành tựu và triển vọng của các nước xã hội chủ nghĩa từ năm 1991 đến nay.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "3.a",
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-cong-cuoc-cai-cach-mo-cua-o-trung-quoc",
+      "term": "Công cuộc cải cách – mở cửa ở Trung Quốc",
+      "aliases": [],
+      "english": "Reform and opening-up in China",
+      "notation": null,
+      "meaning": "Từ tháng 12 – 1978, Trung Quốc thực hiện công cuộc cải cách – mở cửa, chuyển đổi thành công sang nền kinh tế thị trường xã hội chủ nghĩa và đạt được thành tựu to lớn: về kinh tế, tổng sản phẩm trong nước (GDP) đã tăng từ 367,9 tỉ nhân dân tệ (1978) lên hơn 114 nghìn tỉ nhân dân tệ (2021), bình quân tăng trưởng hằng năm là 9,5%, quy mô GDP vươn lên vị trí thứ hai thế giới (từ năm 2010); về khoa học – công nghệ, phóng được tàu Thần Châu vào không gian, xây dựng hệ thống định vị vệ tinh Bắc Đẩu, hệ thống đường sắt cao tốc, tiến bộ vượt bậc trong các lĩnh vực công nghệ thông tin – viễn thông thế hệ mới, trí tuệ nhân tạo, công nghệ sinh học; về văn hoá – giáo dục và xã hội, thực hiện cải cách giáo dục toàn diện, xoá đói giảm nghèo, thực hiện các chính sách an sinh xã hội.",
+      "usage_context": "Bài 4, mục 3.b — trình bày nội dung và thành tựu chính về kinh tế, khoa học – công nghệ, văn hoá – giáo dục, xã hội của Trung Quốc từ năm 1978 đến nay.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "3.b",
+        "pdf_page": 28,
+        "printed_page": 27
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-thuong-diem",
+      "term": "Thương điếm",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Những cơ sở của các nước thực dân (Anh, Pháp, Bồ Đào Nha, Hà Lan,...) đặt ở một số nước châu Á, châu Phi. Ban đầu là cơ sở để buôn bán, sau đó dần biến thành căn cứ để xâm lược nước đó làm thuộc địa.",
+      "usage_context": "Bài 5, mục 1.a, tr. 30 (PDF 31); Bảng tra cứu, tr. 93 (PDF 94). Thông qua các thương điếm và hoạt động truyền giáo, các nước châu Âu mở rộng giao thương và từng bước chuẩn bị cho quá trình xâm lược Đông Nam Á.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 94,
+        "printed_page": 93
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-vung-dem",
+      "term": "Vùng đệm",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Vùng nằm giữa, mang tính chuyển tiếp giữa những vùng có tính chất khác biệt hoặc đối lập nhau.",
+      "usage_context": "Bài 5, mục 1.a, tr. 32 (PDF 33); Bảng tra cứu, tr. 93 (PDF 94). Vương quốc Xiêm tuy giữ được nền độc lập nhưng bị lệ thuộc vào nước ngoài về nhiều mặt và trở thành “vùng đệm” giữa khu vực thuộc địa của thực dân Anh và thực dân Pháp.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 94,
+        "printed_page": 93
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-chia-de-tri",
+      "term": "Chia để trị",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Một chính sách thường dùng của chủ nghĩa thực dân nhằm gây chia rẽ giữa các dân tộc, địa phương, tầng lớp,... để dễ thống trị.",
+      "usage_context": "Bài 5, mục 1.b, tr. 33 (PDF 34); Bài 6, mục 3.a, tr. 40 (PDF 41); Bảng tra cứu, tr. 91 (PDF 92). Phương thức cai trị phổ biến của thực dân phương Tây nhằm làm suy yếu sức mạnh dân tộc của các nước Đông Nam Á.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 92,
+        "printed_page": 91
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-ngu-dan",
+      "term": "Ngu dân",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Chính sách cai trị của bọn thống trị nhằm kìm hãm nhân dân trong tình trạng dốt nát để chúng dễ áp bức, bóc lột.",
+      "usage_context": "Bài 5, mục 1.b, tr. 33 (PDF 34); Bài 6, mục 3.a, tr. 40 (PDF 41); Bảng tra cứu, tr. 92 (PDF 93). Gây hậu quả nặng nề về văn hoá – xã hội, khiến hơn 90% dân số ở các nước thuộc địa mù chữ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 93,
+        "printed_page": 92
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-boi-canh-thuc-dan-xam-luoc-dong-nam-a",
+      "term": "Bối cảnh thực dân xâm lược Đông Nam Á",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Từ đầu thế kỉ XVI, các nước phương Tây bắt đầu mở rộng quá trình xâm nhập vào các nước Đông Nam Á thông qua các hoạt động buôn bán và truyền giáo; thông qua các thương điếm, các nước châu Âu mở rộng giao thương và từng bước chuẩn bị cho quá trình xâm lược. Quá trình xâm lược diễn ra trong bối cảnh phần lớn các nước Đông Nam Á bước vào thời kì suy thoái, khủng hoảng của chế độ phong kiến về chính trị, kinh tế, xã hội với nhiều cuộc nổi dậy chống lại chế độ phong kiến.",
+      "usage_context": "Bài 5, mục 1.a, tr. 30 (PDF 31). Làm rõ điều kiện khách quan và chủ quan khiến các quốc gia phong kiến Đông Nam Á lần lượt rơi vào tay thực dân phương Tây.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "1.a",
+        "pdf_page": 31,
+        "printed_page": 30
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-xam-luoc-dong-nam-a-hai-dao",
+      "term": "Xâm lược Đông Nam Á hải đảo",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Các nước Đông Nam Á hải đảo là đối tượng đầu tiên thu hút sự chú ý của thực dân phương Tây vì giàu tài nguyên, có nguồn hương liệu và hàng hoá phong phú, nằm trên tuyến đường biển huyết mạch nối liền phương Đông và phương Tây. Năm 1511, Bồ Đào Nha đánh chiếm Ma-lắc-ca; giữa thế kỉ XVI, Phi-líp-pin bị thực dân Tây Ban Nha xâm lược và sau cuộc chiến tranh Mỹ – Tây Ban Nha (1898) trở thành thuộc địa của Mỹ; thực dân Hà Lan xâm nhập In-đô-nê-xi-a từ cuối thế kỉ XVI và hoàn thành kiểm soát vào giữa thế kỉ XIX; đầu thế kỉ XX, toàn bộ vùng lãnh thổ ngày nay của Ma-lai-xi-a, Xin-ga-po, Bru-nây rơi vào tay người Anh.",
+      "usage_context": "Bài 5, mục 1.a, tr. 30–31 (PDF 31–32). Trải qua gần 4 thế kỉ, bằng nhiều thủ đoạn từ buôn bán, xâm nhập thị trường đến chiến tranh xâm lược, thực dân phương Tây hoàn thành xâm lược Đông Nam Á hải đảo.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "1.a",
+        "pdf_page": 31,
+        "printed_page": 30
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-la-pu-la-pu",
+      "term": "La-pu-la-pu",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Người anh hùng dân tộc của Phi-líp-pin, thủ lĩnh của thổ dân ở đảo Mác-tan, đã lãnh đạo đội quân đánh thắng thực dân Tây Ban Nha năm 1521. Hình ảnh của ông đã được chọn làm biểu tượng cho ý chí chiến đấu, sự dũng cảm của lực lượng Cảnh sát và Cục Phòng cháy chữa cháy của Phi-líp-pin ngày nay.",
+      "usage_context": "Bài 5, mục 1.a (hộp Em có biết), tr. 31 (PDF 32). Biểu tượng mở đầu cho tinh thần kháng chiến chống thực dân phương Tây xâm lược của nhân dân Đông Nam Á hải đảo.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "1.a",
+        "pdf_page": 32,
+        "printed_page": 31
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-xam-luoc-dong-nam-a-luc-dia",
+      "term": "Xâm lược Đông Nam Á lục địa",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Quá trình xâm lược của thực dân phương Tây đối với các nước Đông Nam Á lục địa bắt đầu vào thế kỉ XIX, muộn hơn so với các nước Đông Nam Á hải đảo. Thực dân Anh sau hơn 60 năm (1824 – 1885), tiến hành 3 cuộc chiến tranh mới chiếm được Miến Điện (Mi-an-ma); thực dân Pháp phải trải qua cuộc chiến tranh xâm lược kéo dài gần nửa thế kỉ (1858 – 1893) mới hoàn thành việc xâm chiếm 3 nước Đông Dương. Đến đầu thế kỉ XX, hầu hết các nước trong khu vực đều trở thành thuộc địa của thực dân phương Tây; riêng Vương quốc Xiêm (Thái Lan) giữ được nền độc lập nhưng trở thành “vùng đệm” giữa khu vực thuộc địa của thực dân Anh và thực dân Pháp.",
+      "usage_context": "Bài 5, mục 1.a, tr. 31–32 (PDF 32–33). Khép lại quá trình thực dân phương Tây thôn tính toàn bộ khu vực Đông Nam Á vào đầu thế kỉ XX.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "1.a",
+        "pdf_page": 32,
+        "printed_page": 31
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-chinh-sach-cai-tri-ve-chinh-tri",
+      "term": "Chính sách cai trị về chính trị",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Thực dân phương Tây thiết lập nền thống trị ở Đông Nam Á dưới các hình thức trực tiếp hay gián tiếp, duy trì các thế lực phong kiến địa phương như một công cụ để thi hành chính sách cai trị thuộc địa, nhưng các quyền hành chính, lập pháp, tư pháp, ngoại giao, quân sự,... của các thuộc địa vẫn tập trung trong tay đại diện của chính quyền thực dân. Thực dân phương Tây sử dụng phổ biến chính sách “chia để trị” nhằm chia rẽ, làm suy yếu sức mạnh dân tộc của các nước Đông Nam Á, đồng thời xây dựng và sử dụng lực lượng quân đội người bản địa để bảo vệ bộ máy cai trị và đàn áp sự phản kháng của người dân thuộc địa.",
+      "usage_context": "Bài 5, mục 1.b, tr. 33 (PDF 34). Thâu tóm toàn bộ quyền lực chính trị vào tay chính quyền thực dân và làm suy yếu khối đoàn kết dân tộc bản địa.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "1.b",
+        "pdf_page": 34,
+        "printed_page": 33
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-chinh-sach-cai-tri-ve-kinh-te",
+      "term": "Chính sách cai trị về kinh tế",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Chính quyền thực dân thực hiện chính sách bóc lột, khai thác các thuộc địa, biến các nước trong khu vực thành nơi cung cấp nguồn nguyên liệu và thị trường tiêu thụ hàng hoá, phục vụ lợi ích cho chính quốc; vơ vét và bòn rút bằng chính sách thuế khoá đánh vào các tầng lớp nhân dân bản địa, cướp ruộng đất lập đồn điền, bóc lột sức người, khai thác tài nguyên (cao su, cà phê, chè, lúa gạo,...).",
+      "usage_context": "Bài 5, mục 1.b, tr. 33 (PDF 34). Khiến nền kinh tế các thuộc địa Đông Nam Á phát triển què quặt, lạc hậu và phụ thuộc nặng nề vào chính quốc.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "1.b",
+        "pdf_page": 34,
+        "printed_page": 33
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-chinh-sach-cai-tri-van-hoa-xa-hoi",
+      "term": "Chính sách cai trị văn hoá xã hội",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Các nước thực dân phương Tây tìm mọi cách kìm hãm người dân ở các nước thuộc địa trong tình trạng lạc hậu, nghèo đói, làm xói mòn giá trị truyền thống của các quốc gia Đông Nam Á. Hầu hết người dân các nước thuộc địa đều mù chữ (ở Mã Lai năm 1931 chỉ có 8,5% dân số biết chữ; ở Việt Nam năm 1926 hơn 90% dân số không biết chữ); cùng với chính sách ngu dân, thực dân phương Tây thi hành chính sách đầu độc người dân bản địa bằng rượu, thuốc phiện để dễ bề cai trị, hệ thống y tế lạc hậu khiến tỉ lệ tử vong tăng cao.",
+      "usage_context": "Bài 5, mục 1.b, tr. 33 (PDF 34). Đẩy nhân dân các nước thuộc địa vào cảnh dốt nát, nghèo khốn và suy kiệt nòi giống.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "1.b",
+        "pdf_page": 34,
+        "printed_page": 33
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-cong-cuoc-cai-cach-o-xiem",
+      "term": "Công cuộc cải cách ở Xiêm",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Trước sự đe doạ xâm lược của thực dân phương Tây, từ năm 1851 vua Ra-ma IV tiến hành cải cách, mở cửa buôn bán với nước ngoài; đặc biệt từ năm 1868, dưới thời vua Ra-ma V, Xiêm tiến hành hàng loạt cải cách quan trọng. Về kinh tế, Chính phủ khuyến khích đầu tư vào các ngành công nghiệp, đường sắt, mở cửa đưa Băng Cốc thành trung tâm buôn bán của khu vực, miễn trừ và giảm thuế nông nghiệp (1874), ban hành quy định quản lí ruộng đất hiện đại. Về hành chính, từ năm 1892 cải cách hành chính theo mô hình phương Tây. Về giáo dục, năm 1898 công bố Chương trình giáo dục đầu tiên ở Xiêm. Về ngoại giao, năm 1897 Ra-ma V công du sang các nước châu Âu nhằm xoá bỏ các hiệp ước bất bình đẳng, kí các hiệp ước cắt một số vùng lãnh thổ thuộc ảnh hưởng của Xiêm ở Lào, Cam-pu-chia cho Pháp (1907) và ở Mã Lai cho Anh (1909) để bảo vệ nền độc lập của nước mình.",
+      "usage_context": "Bài 5, mục 2, tr. 34–35 (PDF 35–36). Cuộc cải cách toàn diện, tiến bộ giúp Xiêm hiện đại hoá đất nước và ứng phó thành công với chủ nghĩa thực dân.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "2",
+        "pdf_page": 35,
+        "printed_page": 34
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-y-nghia-cong-cuoc-cai-cach-o-xiem",
+      "term": "Ý nghĩa công cuộc cải cách ở Xiêm",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Công cuộc cải cách đã góp phần thúc đẩy sản xuất phát triển, mở cửa cho hàng hoá xuất khẩu,... đưa Vương quốc Xiêm phát triển theo con đường tư bản chủ nghĩa, từng bước hội nhập với thế giới. Trên cơ sở những thành tựu của công cuộc cải cách, Chính phủ Xiêm có thực lực để thực hiện đường lối ngoại giao mềm dẻo, nhằm giữ vững nền độc lập và chủ quyền đất nước, không bị rơi vào tình trạng thuộc địa; là một trong những con đường ứng phó hiệu quả với làn sóng xâm lược của thực dân phương Tây ở Đông Nam Á.",
+      "usage_context": "Bài 5, mục 2, tr. 35–36 (PDF 36–37). Giải thích vì sao Xiêm là quốc gia duy nhất ở Đông Nam Á giữ được độc lập trước làn sóng thực dân phương Tây.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "2",
+        "pdf_page": 36,
+        "printed_page": 35
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-khoi-nghia",
+      "term": "Khởi nghĩa",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Tập hợp lực lượng nổi dậy để lật đổ chế độ/chính quyền cai trị.",
+      "usage_context": "Bài 6, mục 1, tr. 38–39 (PDF 39–40); Bảng tra cứu, tr. 92 (PDF 93). Hình thức đấu tranh vũ trang tiêu biểu của nhân dân các nước Đông Nam Á chống thực dân xâm lược và đô hộ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 93,
+        "printed_page": 92
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-phong-trao-chong-thuc-dan-o-hai-dao",
+      "term": "Phong trào chống thực dân ở hải đảo",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Phong trào chống thực dân xâm lược ở các nước Đông Nam Á hải đảo bùng nổ từ rất sớm, tiêu biểu là ở In-đô-nê-xi-a và Phi-líp-pin. Ở In-đô-nê-xi-a, từ thế kỉ XVI đến thế kỉ XIX, phong trào đấu tranh chống thực dân Hà Lan bùng nổ mạnh mẽ, nổi bật là cuộc khởi nghĩa của Hoàng tử Đi-pô-nê-gô-rô (1825 – 1830), sau đó tiếp tục lan rộng khắp các đảo đến cuối thế kỉ XIX – đầu thế kỉ XX. Ở Phi-líp-pin, cuộc đấu tranh chống thực dân Tây Ban Nha bùng nổ từ năm 1521, lan rộng ra các đảo khác và kéo dài hơn 3 thế kỉ, trong đó cuộc khởi nghĩa của Đa-ga-hô ở Bô-hô là cuộc khởi nghĩa kéo dài nhất (1744 – 1829).",
+      "usage_context": "Bài 6, mục 1.a, tr. 38 (PDF 39). Thể hiện tinh thần phản kháng kiên cường, bền bỉ của nhân dân các nước Đông Nam Á hải đảo ngay từ khi thực dân phương Tây xâm nhập.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1.a",
+        "pdf_page": 39,
+        "printed_page": 38
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-khoi-nghia-di-po-ne-go-ro",
+      "term": "Khởi nghĩa Đi-pô-nê-gô-rô",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Cuộc khởi nghĩa tiêu biểu trong phong trào đấu tranh chống thực dân Hà Lan ở In-đô-nê-xi-a do Hoàng tử Đi-pô-nê-gô-rô lãnh đạo (1825 – 1830), với sự hưởng ứng của các lãnh chúa và sự tham gia của đông đảo người dân trên đảo Gia-va và các đảo khác. Cuộc khởi nghĩa tuy thất bại nhưng đã gây tổn thất nặng nề cho chính quyền thực dân.",
+      "usage_context": "Bài 6, mục 1.a, tr. 38 (PDF 39). Đỉnh cao của phong trào đấu tranh chống thực dân Hà Lan ở In-đô-nê-xi-a trong nửa đầu thế kỉ XIX.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1.a",
+        "pdf_page": 39,
+        "printed_page": 38
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-phong-trao-chong-thuc-dan-o-luc-dia",
+      "term": "Phong trào chống thực dân ở lục địa",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Ở Miến Điện, phong trào chiến tranh du kích lan rộng trong cả nước khiến thực dân Anh phải trải qua 3 cuộc chiến tranh kéo dài hơn 60 năm (1821 – 1885) mới chiếm được Miến Điện và tiếp tục đối phó với cuộc chiến tranh du kích kéo dài hơn 10 năm sau. Ở Việt Nam, từ năm 1858, cuộc chiến đấu chống xâm lược của nhân dân Việt Nam đã làm thất bại kế hoạch “đánh nhanh, thắng nhanh” của thực dân Pháp, phong trào kháng chiến lan rộng ra các tỉnh Nam Kì và Bắc Kì khiến Pháp phải mất 26 năm (1858 – 1884) mới đặt được ách đô hộ trên toàn bộ đất nước. Ở Cam-pu-chia, nhiều cuộc khởi nghĩa chống thực dân Pháp diễn ra sôi nổi như khởi nghĩa của Hoàng thân Si-vô-tha (1861 – 1892), A-cha Xoa (1863 – 1866), Pu-côm-bô (1866 – 1867), gây nhiều tổn thất cho thực dân Pháp.",
+      "usage_context": "Bài 6, mục 1.b, tr. 38–39 (PDF 39–40). Làm chậm bước tiến xâm lược và gây tổn thất nặng nề cho thực dân Anh, Pháp trên bán đảo Đông Dương và Miến Điện.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1.b",
+        "pdf_page": 39,
+        "printed_page": 38
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-khoi-nghia-pu-com-bo",
+      "term": "Khởi nghĩa Pu-côm-bô",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Trong cuộc khởi nghĩa của Pu-côm-bô (1866 – 1867), nghĩa quân đã lập căn cứ ở Tây Ninh (Việt Nam), liên kết với Trương Quyền (con của Trương Định) trong những trận đánh Pháp. Cuộc khởi nghĩa của Pu-côm-bô là biểu tượng của sự đoàn kết chiến đấu giữa nhân dân Cam-pu-chia với nhân dân Việt Nam trong cuộc đấu tranh chống thực dân Pháp.",
+      "usage_context": "Bài 6, mục 1.b (hộp Em có biết), tr. 39 (PDF 40). Mở đầu truyền thống liên minh đoàn kết chiến đấu chống kẻ thù chung giữa nhân dân hai nước Việt Nam – Cam-pu-chia.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1.b",
+        "pdf_page": 40,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-cac-giai-doan-dau-tranh-gianh-doc-lap",
+      "term": "Các giai đoạn đấu tranh giành độc lập",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Từ cuối thế kỉ XIX, cuộc đấu tranh của nhân dân các nước Đông Nam Á chuyển sang thời kì đấu tranh giành lại độc lập dân tộc và trải qua 3 giai đoạn phát triển chính: (1) Từ cuối thế kỉ XIX đến năm 1920 (Khởi đầu cuộc đấu tranh giành độc lập dân tộc): sự ra đời và phát triển của giai cấp vô sản tạo nền tảng cho xu hướng mới; phong trào đấu tranh theo ý thức hệ phong kiến dần được thay thế bằng phong trào theo xu hướng tư sản, tiêu biểu là cuộc khởi nghĩa chống thực dân Tây Ban Nha của nhân dân Phi-líp-pin (1896). (2) 1920 – 1945 (Xuất hiện xu hướng mới trong phong trào đấu tranh): giai cấp vô sản bước lên vũ đài chính trị, các đảng cộng sản được thành lập ở In-đô-nê-xi-a (1920), Việt Nam, Mã Lai, Xiêm và Phi-líp-pin (trong những năm 30 của thế kỉ XX), mở ra xu hướng vô sản trong cuộc đấu tranh giành độc lập dân tộc. (3) 1945 – 1975 (Hoàn thành cuộc đấu tranh giành độc lập dân tộc): năm 1945, In-đô-nê-xi-a, Việt Nam và Lào tuyên bố độc lập; Phi-líp-pin (1946) và Miến Điện (1948) được trao trả độc lập; từ năm 1954 đến năm 1975, các nước Đông Nam Á lần lượt hoàn thành cuộc đấu tranh giành độc lập dân tộc (riêng Bru-nây được trao trả độc lập vào năm 1984).",
+      "usage_context": "Bài 6, mục 2, tr. 39 (PDF 40). Khái quát tiến trình phát triển từ tự phát sang tự giác, từ ý thức hệ phong kiến sang khuynh hướng tư sản và vô sản, tiến tới thắng lợi hoàn toàn của phong trào giải phóng dân tộc ở Đông Nam Á.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "2",
+        "pdf_page": 40,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-anh-huong-cua-che-do-thuc-dan",
+      "term": "Ảnh hưởng của chế độ thực dân",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Về kinh tế, phần lớn các nước Đông Nam Á vẫn là những nước nông nghiệp lạc hậu và lệ thuộc nặng nề vào nước ngoài, nhiều nơi rơi vào tình trạng thiếu lương thực, đói kém triền miên. Về chính trị, việc áp đặt bộ máy cai trị, thực hiện chính sách “chia để trị”, chính sách “ngu dân” đã để lại hậu quả nặng nề và lâu dài, dẫn đến sự chia rẽ sâu sắc giữa các cộng đồng dân cư và tình trạng xung đột về sắc tộc, tôn giáo kéo dài sau khi giành độc lập ở Mi-an-ma, In-đô-nê-xi-a, Phi-líp-pin,... Về văn hoá, chính sách nô dịch, áp đặt văn hoá ngoại lai ảnh hưởng tiêu cực đến việc bảo vệ và phát huy những giá trị truyền thống của nền văn hoá các dân tộc ở Đông Nam Á. Bên cạnh đó, sự thống trị của chủ nghĩa thực dân phương Tây cũng tạo ra những chuyển biến nhất định về hạ tầng cơ sở (mở mang đường giao thông, xây dựng thành phố, hải cảng mới,...).",
+      "usage_context": "Bài 6, mục 3.a, tr. 40–41 (PDF 41–42). Đặt ra yêu cầu cấp bách phải tái thiết kinh tế – xã hội và khắc phục di sản thực dân sau khi các nước Đông Nam Á giành độc lập.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "3.a",
+        "pdf_page": 41,
+        "printed_page": 40
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-qua-trinh-tai-thiet-va-phat-trien",
+      "term": "Quá trình tái thiết và phát triển",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Để thoát khỏi tình trạng nghèo nàn, lạc hậu sau khi giành độc lập, các nước In-đô-nê-xi-a, Ma-lai-xi-a, Phi-líp-pin, Xin-ga-po tiến hành chiến lược công nghiệp hoá từ giữa những năm 50 của thế kỉ XX (từ công nghiệp hoá thay thế nhập khẩu chuyển sang công nghiệp hoá hướng về xuất khẩu). Các nước Việt Nam, Lào, Cam-pu-chia từng bước chuyển sang nền kinh tế thị trường, tiến hành công nghiệp hoá từ cuối thập kỉ 80 – 90 của thế kỉ XX; Bru-nây điều chỉnh chính sách nhằm đa dạng hoá nền kinh tế từ sau năm 1984; Mi-an-ma bắt đầu tiến hành cải cách kinh tế từ cuối năm 1998. Bằng những chính sách năng động và linh hoạt, các nước Đông Nam Á đã đạt được những thành tựu to lớn trong phát triển kinh tế với tốc độ tăng trưởng hằng năm đạt mức cao, đời sống xã hội có những chuyển biến căn bản.",
+      "usage_context": "Bài 6, mục 3.b, tr. 41 (PDF 42). Đưa Đông Nam Á từ một khu vực thuộc địa nghèo nàn, lạc hậu trở thành khu vực kinh tế phát triển năng động.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "3.b",
+        "pdf_page": 42,
+        "printed_page": 41
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-chien-luoc-cong-nghiep-hoa-dong-nam-a",
+      "term": "Chiến lược công nghiệp hoá Đông Nam Á",
+      "aliases": [],
+      "english": "—",
+      "notation": null,
+      "meaning": "Trong giai đoạn đầu, các nước Đông Nam Á thực hiện chiến lược công nghiệp hoá thay thế nhập khẩu với mục tiêu xây dựng nền kinh tế độc lập tự chủ, nhằm giải quyết những vấn đề cấp bách đặt ra cho nền kinh tế. Trong giai đoạn tiếp theo, các nước lần lượt chuyển sang thực hiện chiến lược công nghiệp hoá hướng về xuất khẩu, tập trung phát triển khu vực sản xuất hàng hoá xuất khẩu, lấy đó làm động lực chủ yếu để phát triển toàn bộ nền kinh tế.",
+      "usage_context": "Bài 6, mục 3.b, tr. 41 (PDF 42). Bước chuyển chiến lược kinh tế mang tính quyết định giúp các nước Đông Nam Á hội nhập sâu rộng vào thị trường thế giới và bứt phá về tăng trưởng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "3.b",
+        "pdf_page": 42,
+        "printed_page": 41
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-hiep-hoi-cac-quoc-gia-dong-nam-a",
+      "term": "Hiệp hội các quốc gia Đông Nam Á",
+      "aliases": [
+        "ASEAN"
+      ],
+      "english": "Association of Southeast Asian Nations",
+      "notation": null,
+      "meaning": "Hiệp hội các quốc gia Đông Nam Á (ASEAN) được thành lập ngày 8 – 8 – 1967 tại Băng Cốc (Thái Lan) với 5 thành viên ban đầu, phát triển dần thành một tổ chức khu vực hợp tác toàn diện, chặt chẽ với 10 thành viên và trở thành “mái nhà chung” của 10 quốc gia Đông Nam Á. Kể từ năm 1967, tốc độ tăng trưởng GDP của các nước Đông Nam Á luôn đạt mức cao; Hiệp hội các quốc gia Đông Nam Á (ASEAN) trở thành nền kinh tế lớn thứ năm thế giới với GDP đạt khoảng 3 000 tỉ USD từ năm 2018.",
+      "usage_context": "Bài 6, mục 3.b (kèm hộp Em có biết), tr. 41 (PDF 42). Thúc đẩy hợp tác toàn diện, nâng cao vị thế kinh tế và chính trị của khu vực Đông Nam Á trên trường quốc tế.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "3.b",
+        "pdf_page": 42,
+        "printed_page": 41
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-dia-chien-luoc",
+      "term": "Địa chiến lược",
+      "aliases": [],
+      "english": "Geostrategy",
+      "notation": null,
+      "meaning": "là sự cân nhắc chiến lược, là nghệ thuật kiểm soát và khai thác nhân tố địa lí (thường là của một quốc gia) kết hợp với môi trường, bối cảnh chính trị, kinh tế quốc tế đang thay đổi của giới cầm quyền trong hoạch định và thực thi chiến lược/chính sách phát triển quốc gia, trước hết là đối ngoại, sao cho những lợi ích của một quốc gia được đảm bảo để tăng thế và lực của mình trên trường quốc tế.",
+      "usage_context": "Bài 7, mục 1.a — khái niệm nền tảng để tìm hiểu vị trí địa chiến lược của Việt Nam trong lịch sử chống ngoại xâm (định nghĩa tại Bảng tra cứu khái niệm, thuật ngữ, trang 92).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 93,
+        "printed_page": 92
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-vi-tri-dia-chien-luoc-cua-viet-nam",
+      "term": "Vị trí địa chiến lược của Việt Nam",
+      "aliases": [],
+      "english": "Geostrategic position of Vietnam",
+      "notation": null,
+      "meaning": "Việt Nam thuộc khu vực Đông Nam Á – khu vực nằm trên trục đường giao thông quan trọng kết nối châu Á và châu Đại Dương, Ấn Độ Dương và Thái Bình Dương. Việt Nam cũng là cầu nối giữa Trung Quốc với khu vực Đông Nam Á, giữa Đông Nam Á lục địa và Đông Nam Á hải đảo. Cùng với nguồn tài nguyên phong phú, dân cư đông đúc,... Việt Nam trở thành một trong những quốc gia có vị trí địa chiến lược quan trọng. Vì vậy, trong suốt tiến trình lịch sử, Việt Nam luôn phải đối phó với nhiều thế lực ngoại xâm và tiến hành nhiều cuộc chiến tranh bảo vệ Tổ quốc.",
+      "usage_context": "Bài 7, mục 1.a — phân tích vị trí địa chiến lược của Việt Nam gắn với lược đồ Hình 1 (tr. 44 / PDF 45).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "1.a",
+        "pdf_page": 45,
+        "printed_page": 44
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-vai-tro-y-nghia-cua-chien-tranh-bao-ve-to-quoc-trong-lich-su-viet-nam",
+      "term": "Vai trò, ý nghĩa của chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam",
+      "aliases": [],
+      "english": "Role and significance of wars for national defence in Vietnamese history",
+      "notation": null,
+      "meaning": "Chiến tranh bảo vệ Tổ quốc có vai trò quan trọng đối với sự sinh tồn và phát triển của dân tộc Việt Nam. Thắng lợi của những cuộc kháng chiến góp phần bảo vệ vững chắc nền độc lập, giữ gìn bản sắc văn hoá và tạo điều kiện thuận lợi cho quá trình xây dựng đất nước. Chiến tranh bảo vệ Tổ quốc có ý nghĩa to lớn trong việc hình thành và nâng cao lòng tự hào, ý thức tự cường và tô đậm những truyền thống tốt đẹp của dân tộc, đồng thời để lại nhiều bài học kinh nghiệm sâu sắc.",
+      "usage_context": "Bài 7, mục 1.b — trình bày vai trò, ý nghĩa của chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam (tr. 44–45 / PDF 45–46).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "1.b",
+        "pdf_page": 45,
+        "printed_page": 44
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-mot-so-cuoc-khang-chien-thang-loi-tieu-bieu-truoc-cach-mang-thang-tam-nam-1945",
+      "term": "Một số cuộc kháng chiến thắng lợi tiêu biểu trước Cách mạng tháng Tám năm 1945",
+      "aliases": [],
+      "english": "Typical victorious resistance wars before the August Revolution of 1945",
+      "notation": null,
+      "meaning": "Cho đến trước Cách mạng tháng Tám năm 1945, dân tộc Việt Nam đã tiến hành nhiều cuộc kháng chiến chống ngoại xâm giành thắng lợi: kháng chiến chống quân Nam Hán (938, Ngô Quyền chỉ huy, trận quyết chiến trên sông Bạch Đằng); kháng chiến chống quân Tống (981, Lê Hoàn chỉ huy, trận Sông Bạch Đằng); kháng chiến chống quân Tống (1075 – 1077, Lý Thường Kiệt chỉ huy, trận Phòng tuyến Như Nguyệt); kháng chiến chống quân Mông Cổ (1258, Trần Thái Tông và Trần Thủ Độ chỉ huy, trận Bình Lệ Nguyên, Đông Bộ Đầu); kháng chiến chống quân Nguyên (1285, Trần Thánh Tông và Trần Quốc Tuấn chỉ huy, các trận Tây Kết, Hàm Tử, Chương Dương, Thăng Long); kháng chiến chống quân Nguyên (1287 – 1288, Trần Nhân Tông và Trần Quốc Tuấn chỉ huy, trận Sông Bạch Đằng); kháng chiến chống quân Xiêm (1785, Nguyễn Huệ chỉ huy, trận Rạch Gầm – Xoài Mút); kháng chiến chống quân Thanh (1789, Quang Trung – Nguyễn Huệ chỉ huy, trận Ngọc Hồi – Đống Đa).",
+      "usage_context": "Bài 7, mục 2.a, Bảng 1 — hệ thống hoá các cuộc kháng chiến thắng lợi tiêu biểu trước năm 1945 (tr. 45–46 / PDF 46–47).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "2.a",
+        "pdf_page": 46,
+        "printed_page": 45
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-nguyen-nhan-thang-loi-cua-cac-cuoc-khang-chien-chong-ngoai-xam",
+      "term": "Nguyên nhân thắng lợi của các cuộc kháng chiến chống ngoại xâm",
+      "aliases": [],
+      "english": "Causes of victory in resistance wars against foreign invaders",
+      "notation": null,
+      "meaning": "Trước hết, các cuộc kháng chiến của nhân dân Việt Nam đều là các cuộc chiến tranh chính nghĩa nhằm bảo vệ độc lập dân tộc. Thứ hai, nhân dân Việt Nam có lòng yêu nước nồng nàn, tất cả các tầng lớp nhân dân, các dân tộc đều tham gia kháng chiến, tạo thành khối đoàn kết toàn dân vững chắc. Thứ ba, kế sách đánh giặc đúng đắn, linh hoạt, nghệ thuật quân sự độc đáo, sáng tạo cũng là nguyên nhân quan trọng đưa đến thắng lợi của các cuộc kháng chiến. Thứ tư, những người lãnh đạo, chỉ huy các cuộc kháng chiến chống ngoại xâm đều là các vị tướng lĩnh tài năng, mưu lược như: Ngô Quyền, Lê Hoàn, Lý Thường Kiệt, Trần Quốc Tuấn, Nguyễn Huệ,... Ngoài ra, các cuộc chiến tranh xâm lược của ngoại bang là chiến tranh phi nghĩa, quân giặc còn gặp một số khó khăn như đường hành quân xa, thiếu lương thực, không quen địa hình và điều kiện tự nhiên của Đại Việt,...",
+      "usage_context": "Bài 7, mục 2.b — phân tích nguyên nhân chủ quan và khách quan đưa đến thắng lợi của các cuộc kháng chiến (tr. 47 / PDF 48).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "2.b",
+        "pdf_page": 48,
+        "printed_page": 47
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-mot-so-cuoc-khang-chien-khong-thanh-cong-trong-lich-su-viet-nam",
+      "term": "Một số cuộc kháng chiến không thành công trong lịch sử Việt Nam",
+      "aliases": [],
+      "english": "Unsuccessful resistance wars in Vietnamese history",
+      "notation": null,
+      "meaning": "Trong các cuộc kháng chiến chống ngoại xâm của dân tộc Việt Nam, có một số cuộc kháng chiến không thành công như: kháng chiến chống quân Triệu của An Dương Vương (179 TCN, Triệu Đà lập kế giảng hoà để tìm hiểu bí mật quân sự của thành Cổ Loa rồi bất ngờ đánh úp); kháng chiến chống quân Minh của nhà Hồ (1406 – 1407, quân Minh do Trương Phụ và Mộc Thạnh chỉ huy xâm lược nước Đại Ngu, thành Đa Bang, Đông Đô thất thủ, nhà Hồ rút về thành Tây Đô và thất bại vào tháng 6 – 1407); và kháng chiến chống thực dân Pháp của nhà Nguyễn (1858 – 1884, liên quân Pháp và Tây Ban Nha tấn công Đà Nẵng năm 1858, nhân dân anh dũng chiến đấu nhưng triều đình nhà Nguyễn từng bước nhượng bộ, lần lượt kí các bản hiệp ước Nhâm Tuất 1862, Giáp Tuất 1874, Hác-măng 1883 và Pa-tơ-nốt 1884, đánh dấu sự đầu hàng hoàn toàn của triều Nguyễn trước thực dân Pháp).",
+      "usage_context": "Bài 7, mục 3.a, Bảng 2 — tóm tắt các cuộc kháng chiến không thành công trong lịch sử dân tộc (tr. 48 / PDF 49).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "3.a",
+        "pdf_page": 49,
+        "printed_page": 48
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-nguyen-nhan-khong-thanh-cong-cua-mot-so-cuoc-khang-chien-chong-ngoai-xam",
+      "term": "Nguyên nhân không thành công của một số cuộc kháng chiến chống ngoại xâm",
+      "aliases": [],
+      "english": "Causes of failure in some resistance wars against foreign invaders",
+      "notation": null,
+      "meaning": "Các cuộc kháng chiến không thành công là do một số nguyên nhân chủ yếu: những người lãnh đạo kháng chiến đã không tập hợp được đông đảo quần chúng nhân dân tham gia, không xây dựng được khối đoàn kết toàn dân; trong quá trình tổ chức kháng chiến, những người lãnh đạo, chỉ huy phạm phải một số sai lầm nghiêm trọng; bên cạnh đó, tương quan lực lượng chênh lệch không có lợi cho cuộc kháng chiến của nhân dân Việt Nam cũng là nguyên nhân khách quan dẫn đến sự thất bại của các cuộc kháng chiến.",
+      "usage_context": "Bài 7, mục 3.b — giải thích nguyên nhân không thành công của các cuộc kháng chiến chống quân Triệu, quân Minh và thực dân Pháp (tr. 49 / PDF 50).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "3.b",
+        "pdf_page": 50,
+        "printed_page": 49
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-mot-so-cuoc-khoi-nghia-tieu-bieu-trong-thoi-ki-bac-thuoc",
+      "term": "Một số cuộc khởi nghĩa tiêu biểu trong thời kì Bắc thuộc",
+      "aliases": [],
+      "english": "Typical uprisings during the Northern domination period",
+      "notation": null,
+      "meaning": "Trong hơn một nghìn năm Bắc thuộc, nhiều cuộc khởi nghĩa giành độc lập của nhân dân Việt Nam đã nổ ra liên tục và mạnh mẽ: khởi nghĩa Hai Bà Trưng (năm 40, Trưng Trắc và Trưng Nhị lãnh đạo chống nhà Hán ở Hát Môn, đánh chiếm Mê Linh, Cổ Loa, Luy Lâu, Trưng Trắc lên làm vua; năm 43 bị đàn áp); khởi nghĩa Bà Triệu (năm 248, Triệu Thị Trinh lãnh đạo chống nhà Ngô); khởi nghĩa Lý Bí (năm 542, Lý Bí và Triệu Quang Phục lãnh đạo chống nhà Lương và nhà Tuỳ, năm 544 thành lập nước Vạn Xuân, năm 602 thất bại); khởi nghĩa Phùng Hưng (khoảng năm 776, Phùng Hưng lãnh đạo chống nhà Đường ở Đường Lâm, đánh chiếm phủ thành Tống Bình; năm 791 bị đàn áp). Đầu thế kỉ X, cuộc nổi dậy của Khúc Thừa Dụ và trận chiến trên sông Bạch Đằng do Ngô Quyền lãnh đạo giành thắng lợi đã kết thúc hoàn toàn hơn 1 000 năm đô hộ của phong kiến phương Bắc, mở ra thời kì độc lập, tự chủ lâu dài của dân tộc; các cuộc khởi nghĩa thể hiện tinh thần yêu nước, ý chí quật cường của dân tộc.",
+      "usage_context": "Bài 8, mục 1, Bảng 1 — trình bày nội dung chính và ý nghĩa của các cuộc khởi nghĩa tiêu biểu thời Bắc thuộc (tr. 50–52 / PDF 51–53).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "1",
+        "pdf_page": 51,
+        "printed_page": 50
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-boi-canh-lich-su-cua-khoi-nghia-lam-son",
+      "term": "Bối cảnh lịch sử của khởi nghĩa Lam Sơn",
+      "aliases": [],
+      "english": "Historical context of the Lam Son uprising",
+      "notation": null,
+      "meaning": "Năm 1407, cuộc kháng chiến chống quân Minh của nhà Hồ thất bại, đất nước ta bước vào thời kì bị nhà Minh đô hộ (1407 – 1427) với chính sách cai trị, bóc lột nặng nề: về hành chính, đặt Đại Ngu thành quận Giao Chỉ, chia thành các phủ, huyện để cai trị; về kinh tế – xã hội, đặt ra nhiều thứ thuế nặng nề, lùng bắt những người tài đem về nước phục dịch; về văn hoá, bắt dân ta phải theo phong tục của Trung Hoa, dùng nhiều thủ đoạn để thủ tiêu nền văn hoá Việt như ra lệnh đục bia, đốt sách,... Các cuộc khởi nghĩa của Trần Ngỗi (1407 – 1409), Trần Quý Khoáng (1409 – 1414),... đều bị đàn áp. Trước cảnh nước mất, nhân dân lầm than, Lê Lợi – một hào trưởng có uy tín lớn ở vùng Lam Sơn (Thanh Hoá) đã dốc hết tài sản để triệu tập nghĩa sĩ, bí mật liên lạc với các hào kiệt, xây dựng lực lượng và chọn Lam Sơn làm căn cứ cho cuộc khởi nghĩa.",
+      "usage_context": "Bài 8, mục 2.a — trình bày bối cảnh lịch sử dẫn tới cuộc khởi nghĩa Lam Sơn (tr. 52 / PDF 53).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2.a",
+        "pdf_page": 53,
+        "printed_page": 52
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-dien-bien-chinh-cua-khoi-nghia-lam-son",
+      "term": "Diễn biến chính của khởi nghĩa Lam Sơn",
+      "aliases": [],
+      "english": "Main developments of the Lam Son uprising (1418 – 1427)",
+      "notation": null,
+      "meaning": "Năm 1416, Lê Lợi cùng các hào kiệt tổ chức Hội thề ở Lũng Nhai (Thanh Hoá), quyết tâm đánh đuổi giặc Minh; đầu năm 1418, tại vùng núi rừng Lam Sơn, Lê Lợi tự xưng là Bình Định Vương, kêu gọi nhân dân đứng lên đánh giặc cứu nước. Giai đoạn 1418 – 1423 (Những năm đầu của cuộc khởi nghĩa): căn cứ nhiều lần bị bao vây, nghĩa quân gặp nhiều khó khăn, phải 3 lần rút lên vùng núi Chí Linh (Thanh Hoá). Giai đoạn 1423 – 1424 (Giai đoạn tạm hoà hoãn): tạm hoà hoãn với quân Minh để củng cố lực lượng, tìm phương hướng mới. Giai đoạn 1424 – 1425 (Giai đoạn mở rộng hoạt động và giành những thắng lợi đầu tiên): Nguyễn Chích hiến kế chuyển hướng hoạt động vào Nghệ An, cuối 1424 giải phóng Nghệ An, sau đó giải phóng vùng rộng lớn từ Thanh Hoá đến đèo Hải Vân. Giai đoạn 1426 – 1428 (Giai đoạn tiến quân ra Bắc, khởi nghĩa toàn thắng): tháng 11 – 1426 giành thắng lợi ở Tốt Động – Chúc Động, siết chặt vây hãm thành Đông Quan; tháng 10 – 1427 liên tiếp giành thắng lợi tại Chi Lăng, Cần Trạm, Phố Cát và Xương Giang; ngày 10 – 12 – 1427 tổ chức Hội thề Đông Quan, chiến tranh chấm dứt; tháng 1 – 1428 quân Minh rút hết về nước, đất nước hoàn toàn giải phóng.",
+      "usage_context": "Bài 8, mục 2.b, Hình 3 và Hình 4 — trình bày diễn biến chính của khởi nghĩa Lam Sơn qua 4 giai đoạn (tr. 53–54 / PDF 54–55).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2.b",
+        "pdf_page": 54,
+        "printed_page": 53
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-y-nghia-lich-su-cua-khoi-nghia-lam-son",
+      "term": "Ý nghĩa lịch sử của khởi nghĩa Lam Sơn",
+      "aliases": [],
+      "english": "Historical significance of the Lam Son uprising",
+      "notation": null,
+      "meaning": "Khởi nghĩa Lam Sơn đã phát triển thành một cuộc chiến tranh giải phóng dân tộc, có tính chất nhân dân rộng rãi. Cuộc khởi nghĩa thắng lợi đã chấm dứt thời kì đô hộ của nhà Minh, khôi phục nền độc lập dân tộc, đập tan âm mưu thủ tiêu nền văn hoá Đại Việt, mở ra thời kì phát triển mới của đất nước.",
+      "usage_context": "Bài 8, mục 2.c — nêu ý nghĩa lịch sử của cuộc khởi nghĩa Lam Sơn (tr. 54–55 / PDF 55–56).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2.c",
+        "pdf_page": 55,
+        "printed_page": 54
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-boi-canh-lich-su-cua-phong-trao-tay-son",
+      "term": "Bối cảnh lịch sử của phong trào Tây Sơn",
+      "aliases": [],
+      "english": "Historical context of the Tay Son movement",
+      "notation": null,
+      "meaning": "Từ giữa thế kỉ XVIII, tình hình chính trị, kinh tế, xã hội ở Đàng Trong đã có những dấu hiệu khủng hoảng. Về chính trị, chúa Nguyễn Phúc Thuần nối ngôi lúc 12 tuổi, chỉ thích chơi bời múa hát,... quyền hành tập trung vào tay quyền thần Trương Phúc Loan; bộ máy quan lại các cấp cồng kềnh và tệ tham nhũng trở nên nghiêm trọng, do tệ mua bán quan chức nên một xã có thể lên đến 16 – 17 người thu thuế và hơn 20 xã trưởng. Về kinh tế, chế độ thuế khoá, binh dịch nặng nề làm cho đời sống nhân dân gặp nhiều khó khăn. Dưới ách cai trị của chính quyền chúa Nguyễn, các tầng lớp nhân dân đều bất bình, đứng lên đấu tranh như cuộc nổi dậy của Lý Văn Quang (Biên Hoà), cuộc khởi nghĩa của Lía ở Truông Mây (Bình Định),... tuy nhiên đều bị dập tắt.",
+      "usage_context": "Bài 8, mục 3.a — trình bày bối cảnh lịch sử của phong trào Tây Sơn (tr. 55–56 / PDF 56–57).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "3.a",
+        "pdf_page": 56,
+        "printed_page": 55
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-dien-bien-chinh-cua-phong-trao-tay-son",
+      "term": "Diễn biến chính của phong trào Tây Sơn",
+      "aliases": [],
+      "english": "Main developments of the Tay Son movement",
+      "notation": null,
+      "meaning": "Mùa xuân năm 1771, ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ dựng cờ khởi nghĩa ở Tây Sơn thượng đạo (An Khê, Gia Lai) chống lại chính quyền chúa Nguyễn. Năm 1773: chiếm được phủ thành Quy Nhơn; năm 1774: kiểm soát được vùng đất rộng lớn từ Quảng Nam đến Bình Thuận; năm 1777: lật đổ chính quyền chúa Nguyễn; năm 1778: Nguyễn Nhạc lên ngôi hoàng đế, đóng đô ở thành Đồ Bàn (Quy Nhơn, Bình Định); năm 1785: chiến thắng Rạch Gầm – Xoài Mút (Tiền Giang), đánh tan 5 vạn quân Xiêm; năm 1786: hạ thành Phú Xuân, giải phóng toàn bộ vùng đất Đàng Trong, lật đổ chính quyền họ Trịnh; năm 1788: Nguyễn Huệ lên ngôi hoàng đế, lấy niên hiệu là Quang Trung, tiến quân ra Bắc; năm 1789: chiến thắng Ngọc Hồi – Đống Đa (Hà Nội), đánh tan 29 vạn quân Thanh.",
+      "usage_context": "Bài 8, mục 3.b, Bảng 2 và Hình 6 — tóm tắt các sự kiện chính của phong trào Tây Sơn từ năm 1771 đến năm 1789 (tr. 56–57 / PDF 57–58).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "3.b",
+        "pdf_page": 57,
+        "printed_page": 56
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-y-nghia-lich-su-cua-phong-trao-tay-son",
+      "term": "Ý nghĩa lịch sử của phong trào Tây Sơn",
+      "aliases": [],
+      "english": "Historical significance of the Tay Son movement",
+      "notation": null,
+      "meaning": "Phong trào Tây Sơn từ một cuộc khởi nghĩa địa phương đã phát triển thành phong trào dân tộc rộng lớn, lập nên những chiến công hiển hách. Phong trào đã lật đổ các chính quyền phong kiến Nguyễn – Trịnh, xoá bỏ tình trạng chia cắt đất nước. Đồng thời, phong trào còn đánh tan các thế lực ngoại xâm hùng mạnh, bảo vệ vững chắc nền độc lập dân tộc và chủ quyền lãnh thổ của Tổ quốc.",
+      "usage_context": "Bài 8, mục 3.c — nêu ý nghĩa lịch sử của phong trào Tây Sơn (tr. 57 / PDF 58).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "3.c",
+        "pdf_page": 58,
+        "printed_page": 57
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-bai-hoc-lich-su-cua-cac-cuoc-khoi-nghia-va-chien-tranh-giai-phong-trong-lich-su",
+      "term": "Bài học lịch sử của các cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam",
+      "aliases": [],
+      "english": "Historical lessons from uprisings and wars of national liberation in Vietnamese history",
+      "notation": null,
+      "meaning": "Các cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử dân tộc dù thắng lợi hay thất bại đều để lại những bài học lịch sử sâu sắc và giữ nguyên giá trị đến ngày nay: thứ nhất, bài học về xây dựng lực lượng, đây là một trong những nhân tố quyết định thắng lợi của công cuộc chống ngoại xâm của dân tộc; thứ hai, bài học về xây dựng khối đại đoàn kết toàn dân, đoàn kết là sức mạnh giúp nhân dân Việt Nam có thể vượt qua mọi khó khăn, thử thách; thứ ba, bài học về nghệ thuật quân sự với những kinh nghiệm đánh giặc dũng cảm và mưu trí, phong phú và độc đáo.",
+      "usage_context": "Bài 8, mục 4 — tổng kết ba bài học lịch sử lớn từ các cuộc khởi nghĩa và chiến tranh giải phóng dân tộc (tr. 58–59 / PDF 59–60).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "4",
+        "pdf_page": 59,
+        "printed_page": 58
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-cai-cach-b09",
+      "term": "Cải cách",
+      "aliases": [],
+      "english": "Reform",
+      "notation": null,
+      "meaning": "Cải cách là sự đổi mới cho tiến bộ hơn, phù hợp với sự phát triển chung của xã hội mà không đụng tới nền tảng của chế độ hiện hành.",
+      "usage_context": "Bài 9, mục 2 — khái niệm nền tảng để tìm hiểu các cuộc cải cách lớn trong lịch sử Việt Nam trước năm 1858 (định nghĩa trong hộp Em có biết trang 62 và Bảng tra cứu khái niệm, thuật ngữ, trang 95).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2",
+        "pdf_page": 63,
+        "printed_page": 62
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-cuoc-cai-cach-cua-ho-quy-ly-va-trieu-ho",
+      "term": "Cuộc cải cách của Hồ Quý Ly và triều Hồ",
+      "aliases": [],
+      "english": "Reforms of Ho Quy Ly and the Ho Dynasty",
+      "notation": null,
+      "meaning": "Ngay từ khi còn là một đại thần, đặc biệt sau khi lên ngôi vua, Hồ Quý Ly đã tiến hành một cuộc cải cách khá hệ thống trên hầu hết các lĩnh vực, nhằm củng cố chế độ quân chủ tập quyền và giải quyết các mâu thuẫn về kinh tế, xã hội xuất hiện cuối thời Trần. Cuộc cải cách của Hồ Quý Ly và triều Hồ có nhiều điểm tiến bộ, đã đưa đất nước thoát khỏi tình trạng khủng hoảng, củng cố quyền lực của chính quyền trung ương.",
+      "usage_context": "Bài 9, mục 2 và mục 3 — trình bày khái quát mục đích, tính hệ thống, kết quả và ý nghĩa cuộc cải cách của Hồ Quý Ly và triều Hồ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2",
+        "pdf_page": 63,
+        "printed_page": 62
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-chinh-sach-han-dien",
+      "term": "Chính sách hạn điền",
+      "aliases": [],
+      "english": "Landholding limitation policy (Han dien policy)",
+      "notation": null,
+      "meaning": "Hồ Quý Ly và triều Hồ ban hành chính sách hạn điền nhằm hạn chế sự phát triển của chế độ sở hữu lớn về ruộng đất trong các điền trang, thái ấp của tầng lớp quý tộc. Chính sách hạn điền, hạn nô đã làm suy yếu thế lực của tầng lớp quý tộc, tôn thất triều Trần, đồng thời tăng nguồn thu nhập cho Nhà nước, tăng cường quyền lực của Nhà nước quân chủ trung ương tập quyền.",
+      "usage_context": "Bài 9, mục 2 và mục 3 — trình bày nội dung và tác động của chính sách hạn điền trong cải cách kinh tế, xã hội của Hồ Quý Ly và triều Hồ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2",
+        "pdf_page": 63,
+        "printed_page": 62
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-tien-giay-thoi-ho",
+      "term": "Tiền giấy thời Hồ",
+      "aliases": [],
+      "english": "Paper currency of the Ho Dynasty",
+      "notation": null,
+      "meaning": "Triều Hồ còn cho phát hành tiền giấy, cải cách chế độ thuế khoá, thống nhất đơn vị đo lường trong cả nước. Vua hạ lệnh cho người đem tiền đến đổi, mỗi quan tiền đồng đổi lấy 1 quan 2 tiền giấy. Ai làm tiền giấy giả thì bị tội chém. Ai giấu tiền đồng, không nộp thì phải tội như làm tiền giấy giả.",
+      "usage_context": "Bài 9, mục 2 — trình bày biện pháp phát hành tiền giấy thay thế tiền đồng trong cải cách kinh tế của triều Hồ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2",
+        "pdf_page": 63,
+        "printed_page": 62
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-phep-han-gia-no",
+      "term": "Phép hạn gia nô",
+      "aliases": [],
+      "english": "Household serf limitation policy (Han gia no policy)",
+      "notation": null,
+      "meaning": "Triều Hồ cũng quy định số lượng gia nô được sở hữu của mỗi vương hầu, quý tộc, quan lại. Chính sách hạn điền, hạn nô đã làm suy yếu thế lực của tầng lớp quý tộc, tôn thất triều Trần, đồng thời tăng nguồn thu nhập cho Nhà nước, tăng cường quyền lực của Nhà nước quân chủ trung ương tập quyền.",
+      "usage_context": "Bài 9, mục 2 và mục 3 — trình bày nội dung và tác động của phép hạn gia nô trong cải cách xã hội của Hồ Quý Ly và triều Hồ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2",
+        "pdf_page": 63,
+        "printed_page": 62
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-luc-bo",
+      "term": "Lục Bộ",
+      "aliases": [],
+      "english": "Six Ministries (Luc Bo)",
+      "notation": null,
+      "meaning": "Lục Bộ (Lại, Hộ, Lễ, Binh, Hình, Công) là cơ quan chuyên môn quan trọng. Đầu triều Lê sơ, nhà nước chỉ có bộ Lại và bộ Lễ. Năm 1460, vua Lê Nghi Dân đặt lục Bộ, nhưng đến năm 1465, vua Lê Thánh Tông mới đưa lục Bộ trở thành cơ quan có quyền lực thực sự.",
+      "usage_context": "Bài 10, mục 2 — giải thích cơ cấu và vị trí của sáu bộ trong chính quyền trung ương thời Lê Thánh Tông (hộp Em có biết, trang 65).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 66,
+        "printed_page": 65
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-luc-bo-luc-tu-luc-khoa",
+      "term": "Lục Bộ, lục Tự, lục Khoa",
+      "aliases": [],
+      "english": "Six Ministries, Six Courts, and Six Offices of Scrutiny",
+      "notation": null,
+      "meaning": "Ông tổ chức hoàn thiện cơ cấu, chức năng của lục Bộ (sáu bộ) đồng thời, đặt ra lục Tự (sáu tự) để giúp việc cho lục Bộ, lục Khoa (sáu khoa) để theo dõi, giám sát hoạt động của lục Bộ.",
+      "usage_context": "Bài 10, mục 2 — trình bày tổ chức các cơ quan chuyên môn, giúp việc và giám sát ở trung ương trong cải cách hành chính của vua Lê Thánh Tông.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 66,
+        "printed_page": 65
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-dao-thua-tuyen",
+      "term": "Đạo thừa tuyên",
+      "aliases": [],
+      "english": "Dao thua tuyen (Provincial administrative circuit)",
+      "notation": null,
+      "meaning": "Ở địa phương, năm 1466, vua Lê Thánh Tông xoá bỏ 5 đạo, chia đất nước thành 12 đạo thừa tuyên và phủ Trung Đô (Thăng Long); năm 1469, đổi tên một số đạo thừa tuyên như Quốc Oai thành Sơn Tây, Bắc Giang thành Kinh Bắc, Nam Sách thành Hải Dương, Thiên Trường thành Sơn Nam; năm 1471, đặt thêm đạo thừa tuyên thứ 13 là Quảng Nam. Đứng đầu Thừa tuyên là Đô ty, Thừa ty và Hiến ty có quyền ngang nhau, cùng quản lí công việc chung. Dưới đạo thừa tuyên là phủ, huyện, châu và cuối cùng là xã.",
+      "usage_context": "Bài 10, mục 2 — trình bày cải cách đơn vị hành chính cấp đạo thừa tuyên và cơ chế quản lí địa phương thời Lê Thánh Tông.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 66,
+        "printed_page": 65
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-quoc-trieu-hinh-luat",
+      "term": "Quốc triều hình luật",
+      "aliases": [
+        "Luật Hồng Đức"
+      ],
+      "english": "National Triadic Penal Code (Hong Duc Code)",
+      "notation": null,
+      "meaning": "Vua Lê Thánh Tông chú trọng hoàn thiện hệ thống pháp luật để quản lí nhà nước. Năm 1483, Nhà nước ban hành bộ Quốc triều hình luật (Luật Hồng Đức) gồm 722 điều với nhiều quy định mang tính dân tộc sâu sắc như các điều luật bảo vệ phụ nữ, người già, người tàn tật, trẻ em, bảo vệ sản xuất nông nghiệp,...",
+      "usage_context": "Bài 10, mục 2 — trình bày thành tựu lập pháp tiêu biểu trong cuộc cải cách của vua Lê Thánh Tông.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 67,
+        "printed_page": 66
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-cam-binh-va-ngoai-binh",
+      "term": "Cấm binh và ngoại binh",
+      "aliases": [],
+      "english": "Imperial guards and provincial troops",
+      "notation": null,
+      "meaning": "Năm 1466, vua Lê Thánh Tông tiến hành cải tổ hệ thống quân đội. Quân đội được chia làm hai loại: quân thường trực bảo vệ kinh thành gọi là cấm binh hay thân binh và quân các đạo, gọi là ngoại binh. Ở mỗi đạo chia binh làm 5 phủ do đô đốc phủ đứng đầu; mỗi phủ gồm 6 vệ; mỗi vệ có 5 hoặc 6 sở. Nhà nước cũng rất chú ý đến rèn luyện quân đội như duyệt binh sĩ hằng năm, quy định cứ 3 năm tổ chức một kì thi khảo võ nghệ của quân sĩ và định lệ thưởng phạt,...",
+      "usage_context": "Bài 10, mục 2 — trình bày tổ chức quân đội (cấm binh và ngoại binh) trong cải cách quân đội và quốc phòng của vua Lê Thánh Tông.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 68,
+        "printed_page": 67
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-che-do-loc-dien",
+      "term": "Chế độ lộc điền",
+      "aliases": [],
+      "english": "Loc dien system (Stipendiary land grant system)",
+      "notation": null,
+      "meaning": "Chế độ lộc điền là chế độ ban cấp ruộng đất làm bổng lộc cho quý tộc, quan lại cao cấp từ tứ phẩm trở lên.",
+      "usage_context": "Bài 10, mục 2 — giải thích chính sách ban cấp ruộng đất làm bổng lộc trong cải cách kinh tế của vua Lê Thánh Tông.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 68,
+        "printed_page": 67
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-che-do-quan-dien",
+      "term": "Chế độ quân điền",
+      "aliases": [],
+      "english": "Quan dien system (Equal-field land distribution system)",
+      "notation": null,
+      "meaning": "Chế độ quân điền là chế độ chia ruộng đất thành các phần bằng nhau, ban cấp lần lượt cho quan lại từ tam phẩm trở xuống đến tất cả các tầng lớp nhân dân, trong đó có cả trẻ em mồ côi, đàn bà goá, người tàn tật,... Nguyên tắc ban cấp là ruộng xã nào chia cho dân xã ấy.",
+      "usage_context": "Bài 10, mục 2 — giải thích chính sách phân chia ruộng đất công làng xã trong cải cách kinh tế của vua Lê Thánh Tông.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 68,
+        "printed_page": 67
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-cuoc-cai-cach-cua-le-thanh-tong",
+      "term": "Cuộc cải cách của Lê Thánh Tông",
+      "aliases": [],
+      "english": "Reforms of Le Thanh Tong",
+      "notation": null,
+      "meaning": "Cuộc cải cách của vua Lê Thánh Tông đã làm cho bộ máy nhà nước trở nên quy củ, chặt chẽ, tập trung cao độ, đề cao quyền hành toàn diện của hoàng đế. Các chức danh được quy định rõ ràng, hệ thống giám sát được tăng cường, hạn chế sự tập trung quyền lực dẫn đến chuyên quyền và nguy cơ cát cứ. Cuộc cải cách của vua Lê Thánh Tông có ý nghĩa quan trọng trong việc làm chuyển biến toàn bộ các hoạt động của quốc gia, tạo cơ sở cho Vương triều Lê sơ phát triển vững mạnh, đất nước hưng thịnh.",
+      "usage_context": "Bài 10, mục 3 — trình bày kết quả và ý nghĩa lịch sử của cuộc cải cách thời vua Lê Thánh Tông (thế kỉ XV).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "3",
+        "pdf_page": 69,
+        "printed_page": 68
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-bac-thanh-va-gia-dinh-thanh",
+      "term": "Bắc Thành và Gia Định Thành",
+      "aliases": [],
+      "english": "Bac Thanh and Gia Dinh Thanh",
+      "notation": null,
+      "meaning": "Bắc Thành và Gia Định Thành là đơn vị hành chính cao hơn trấn. Bắc Thành tồn tại từ năm 1802 đến năm 1831, cai quản 11 trấn phía Bắc. Gia Định Thành tồn tại từ năm 1808 đến năm 1832, cai quản 5 trấn phía Nam.",
+      "usage_context": "Bài 11, mục 1 — giải thích hai đơn vị hành chính cấp thành mang tính phân quyền ở địa phương đầu thời Nguyễn trước cải cách Minh Mạng (hộp Em có biết, trang 69).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "1",
+        "pdf_page": 70,
+        "printed_page": 69
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-noi-cac",
+      "term": "Nội các",
+      "aliases": [],
+      "english": "Grand Secretariat (Noi cac)",
+      "notation": null,
+      "meaning": "Năm 1820, đổi Thị thư viện thành Văn thư phòng. Năm 1829, lập Nội các thay thế cho Văn thư phòng với chức năng như một cơ quan hành chính trung ương, chuyển và tiếp nhận công văn từ triều đình đến các địa phương và ngược lại, khởi thảo các chế cáo, lưu giữ công văn. Nội các cùng với Cơ mật viện là hai cơ quan tham mưu và tư vấn tối cao của hoàng đế về hành chính, chính trị và an ninh, quân sự.",
+      "usage_context": "Bài 11, mục 2 — trình bày sự ra đời, chức năng và vị trí của Nội các trong cải cách hành chính trung ương thời Minh Mạng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "2",
+        "pdf_page": 72,
+        "printed_page": 71
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-co-mat-vien",
+      "term": "Cơ mật viện",
+      "aliases": [],
+      "english": "Privy Council (Co mat vien)",
+      "notation": null,
+      "meaning": "Năm 1834, lập Cơ mật viện làm cơ quan tư vấn tối cao cho nhà vua về những vấn đề quân sự quan trọng, đứng đầu là quan văn, võ do đích thân nhà vua lựa chọn. Nội các cùng với Cơ mật viện là hai cơ quan tham mưu và tư vấn tối cao của hoàng đế về hành chính, chính trị và an ninh, quân sự.",
+      "usage_context": "Bài 11, mục 2 — trình bày sự thành lập, chức năng và vị trí của Cơ mật viện trong cải cách hành chính trung ương thời Minh Mạng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "2",
+        "pdf_page": 72,
+        "printed_page": 71
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-cai-cach-hanh-chinh-dia-phuong-thoi-minh-mang",
+      "term": "Cải cách hành chính địa phương thời Minh Mạng",
+      "aliases": [],
+      "english": "Local administrative reforms under Minh Mang",
+      "notation": null,
+      "meaning": "Ở địa phương, cải cách quan trọng nhất là về hành chính, đặc biệt là chia đất nước thành các tỉnh. Vua Minh Mạng chia cả nước thành 30 tỉnh và phủ Thừa Thiên. Đứng đầu tỉnh là Tổng đốc, Tuần phủ. Tổng đốc thường là người phụ trách hai tỉnh, trực tiếp cai trị một tỉnh. Tỉnh còn lại do Tuần phủ đứng đầu, đặt dưới sự kiêm quản của Tổng đốc. Năm 1831, xoá bỏ Bắc Thành, chia vùng lãnh thổ từ phủ Phụng Thiên ra Bắc thành 18 tỉnh. Năm 1832, xoá bỏ Gia Định Thành, chia vùng lãnh thổ từ phủ Phụng Thiên vào Nam thành 12 tỉnh.",
+      "usage_context": "Bài 11, mục 2 — trình bày biện pháp xoá bỏ Bắc Thành, Gia Định Thành và phân chia cả nước thành 30 tỉnh cùng phủ Thừa Thiên dưới thời vua Minh Mạng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "2",
+        "pdf_page": 72,
+        "printed_page": 71
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-che-do-hoi-ty",
+      "term": "Chế độ hồi tỵ",
+      "aliases": [],
+      "english": "Rule of Avoidance (Hoi ty system)",
+      "notation": null,
+      "meaning": "Hồi tỵ có nghĩa là tránh đi. Chế độ hồi tỵ quy định những người thân như anh, em, cha, con, thầy, trò,... không được làm quan cùng một chỗ. Vua Minh Mạng cũng cải tổ chế độ hồi tỵ bằng việc mở rộng phạm vi, đối tượng áp dụng và bổ sung những quy định mới rất nghiêm ngặt.",
+      "usage_context": "Bài 11, mục 2 — giải thích khái niệm và việc cải tổ chế độ hồi tỵ trong quản lí quan lại thời vua Minh Mạng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "2",
+        "pdf_page": 72,
+        "printed_page": 71
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-cuoc-cai-cach-cua-minh-mang",
+      "term": "Cuộc cải cách của Minh Mạng",
+      "aliases": [],
+      "english": "Reforms of Minh Mang",
+      "notation": null,
+      "meaning": "Cuộc cải cách của vua Minh Mạng đã mang lại nhiều kết quả như: xây dựng được chế độ quân chủ trung ương tập quyền cao độ (vua nắm trong tay quyền lập pháp, hành pháp, tư pháp và thống lĩnh quân đội); thống nhất đơn vị hành chính địa phương trong cả nước; tổ chức cơ cấu bộ máy nhà nước gọn nhẹ, chặt chẽ; phân định cụ thể chức năng, nhiệm vụ của các cơ quan. Cuộc cải cách có ý nghĩa quan trọng trong việc hoàn thành thống nhất đất nước về mặt hành chính, làm cho hoạt động của bộ máy nhà nước có hiệu quả hơn trước.",
+      "usage_context": "Bài 11, mục 3 — trình bày kết quả và ý nghĩa lịch sử của cuộc cải cách thời vua Minh Mạng (nửa đầu thế kỉ XIX).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "3",
+        "pdf_page": 73,
+        "printed_page": 72
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-vi-tri-dia-li-cua-bien-dong",
+      "term": "Vị trí địa lí của Biển Đông",
+      "aliases": [],
+      "english": "Geographical Location of the Bien Dong Sea (East Sea)",
+      "notation": null,
+      "meaning": "Biển Đông là biển rìa lục địa nằm ở bờ Tây Thái Bình Dương, trải rộng từ khoảng 3°N đến 26°B và từ khoảng 100°Đ đến 121°Đ, là biển tương đối kín vì các đường thông ra đại dương đều bị vây bọc bởi hệ thống đảo và quần đảo. Biển Đông có diện tích khoảng 3,5 triệu $\\text{km}^2$, trải dài khoảng 3 000 km theo trục đông bắc – tây nam, nối liền Thái Bình Dương và Ấn Độ Dương; có 9 quốc gia tiếp giáp (Việt Nam, Trung Quốc, Phi-líp-pin, In-đô-nê-xi-a, Bru-nây, Ma-lai-xi-a, Xin-ga-po, Thái Lan, Cam-pu-chia) và 1 vùng lãnh thổ là Đài Loan.",
+      "usage_context": "Bài 12, mục 1: Vị trí của Biển Đông (tr. 75)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "1",
+        "pdf_page": 76,
+        "printed_page": 75
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-tuyen-duong-giao-thong-bien-huyet-mach-qua-bien-dong",
+      "term": "Tuyến đường giao thông biển huyết mạch qua Biển Đông",
+      "aliases": [],
+      "english": "Vital Maritime Shipping Route in the Bien Dong Sea",
+      "notation": null,
+      "meaning": "Biển Đông có vị trí vô cùng quan trọng trong giao thông hàng hải quốc tế vì nơi đây tập trung các tuyến đường biển chiến lược kết nối Thái Bình Dương – Ấn Độ Dương, châu Âu – châu Á, Trung Đông – Đông Á, trong đó có tuyến đường biển vận chuyển hàng hoá nhộn nhịp thứ hai thế giới.",
+      "usage_context": "Bài 12, mục 2.a: Tuyến đường giao thông biển huyết mạch (tr. 75)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "2.a",
+        "pdf_page": 76,
+        "printed_page": 75
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-eo-bien-ma-lac-ca",
+      "term": "Eo biển Ma-lắc-ca",
+      "aliases": [],
+      "english": "Strait of Malacca",
+      "notation": null,
+      "meaning": "Eo biển nằm giữa đảo Xu-ma-tra của In-đô-nê-xi-a và phần đất liền của Ma-lai-xi-a; là điểm điều tiết giao thông đường biển quan trọng bậc nhất ở châu Á, tạo nên hành lang hàng hải chính kết nối Ấn Độ Dương và Thái Bình Dương, từ Trung Đông đến Đông Á.",
+      "usage_context": "Bài 12, mục 2.a: Tuyến đường giao thông biển huyết mạch (tr. 75)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "2.a",
+        "pdf_page": 76,
+        "printed_page": 75
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-dia-ban-chien-luoc-cua-bien-dong-o-chau-a-thai-binh-duong",
+      "term": "Địa bàn chiến lược của Biển Đông ở châu Á – Thái Bình Dương",
+      "aliases": [],
+      "english": "Strategic Area of the Bien Dong Sea in Asia-Pacific",
+      "notation": null,
+      "meaning": "Biển Đông có vị trí chiến lược quan trọng ở khu vực châu Á – Thái Bình Dương cả về kinh tế và quốc phòng – an ninh; các vùng biển nối liền tạo thành trung tâm giao thông của mạng lưới đường biển và đường hàng không quốc tế, tạo điều kiện phát triển tổng hợp các ngành kinh tế biển như đánh bắt, nuôi trồng thuỷ sản, khai thác khoáng sản, giao thông hàng hải, công nghiệp đóng tàu, du lịch,...",
+      "usage_context": "Bài 12, mục 2.b: Địa bàn chiến lược quan trọng ở khu vực châu Á – Thái Bình Dương (tr. 75–76)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "2.b",
+        "pdf_page": 76,
+        "printed_page": 75
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-tai-nguyen-thien-nhien-cua-bien-dong",
+      "term": "Tài nguyên thiên nhiên của Biển Đông",
+      "aliases": [],
+      "english": "Natural Resources of the Bien Dong Sea",
+      "notation": null,
+      "meaning": "Biển Đông là khu vực có nguồn tài nguyên thiên nhiên phong phú với trữ lượng lớn như sinh vật biển, khoáng sản (ti-tan, thiếc, chì, kẽm,...) và là một trong những bồn trũng chứa dầu khí lớn nhất thế giới; có giá trị cao đối với hoạt động nghiên cứu khoa học, phục vụ đời sống hằng ngày của người dân và phát triển kinh tế – xã hội của các nước trong khu vực.",
+      "usage_context": "Bài 12, mục 2.c: Nguồn tài nguyên thiên nhiên biển (tr. 76–77)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "2.c",
+        "pdf_page": 77,
+        "printed_page": 76
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-quan-dao-hoang-sa",
+      "term": "Quần đảo Hoàng Sa",
+      "aliases": [],
+      "english": "Hoang Sa Archipelago (Paracel Islands)",
+      "notation": null,
+      "meaning": "Quần đảo san hô thuộc chủ quyền của Việt Nam ở phía bắc Biển Đông, gồm có hơn 37 đảo, đá, bãi cạn,... nằm giữa kinh tuyến từ khoảng 111°Đ đến 113°Đ, trải từ khoảng vĩ tuyến 15°45'B đến 17°15'B với các đảo lớn như đảo Phú Lâm, đảo Lin Côn,... và một số đảo rất gần lục địa Việt Nam như đảo Tri Tôn, đảo Hoàng Sa.",
+      "usage_context": "Bài 12, mục 3.a: Vị trí của quần đảo Hoàng Sa và quần đảo Trường Sa (tr. 78)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "3.a",
+        "pdf_page": 79,
+        "printed_page": 78
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-quan-dao-truong-sa",
+      "term": "Quần đảo Trường Sa",
+      "aliases": [],
+      "english": "Truong Sa Archipelago (Spratly Islands)",
+      "notation": null,
+      "meaning": "Quần đảo thuộc chủ quyền của Việt Nam nằm ở phía đông nam của bờ biển Việt Nam, bao gồm hơn 100 đảo, đá, bãi ngầm, bãi san hô ở vĩ tuyến từ khoảng 6°30'B đến 12°B và kinh tuyến từ khoảng 111°30'Đ đến 117°20'Đ (đảo gần đất liền nhất là đảo Trường Sa, đảo cao nhất là Song Tử Tây, đảo có diện tích lớn nhất là Ba Bình 0,6 $\\text{km}^2$), chia làm 8 cụm: Song Tử, Thị Tứ, Loại Ta, Nam Yết, Sinh Tồn, Trường Sa, Thám Hiểm, Bình Nguyên.",
+      "usage_context": "Bài 12, mục 3.a: Vị trí của quần đảo Hoàng Sa và quần đảo Trường Sa (tr. 78)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "3.a",
+        "pdf_page": 79,
+        "printed_page": 78
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-tam-quan-trong-chien-luoc-cua-quan-dao-hoang-sa-va-quan-dao-truong-sa",
+      "term": "Tầm quan trọng chiến lược của quần đảo Hoàng Sa và quần đảo Trường Sa",
+      "aliases": [],
+      "english": "Strategic Importance of Hoang Sa and Truong Sa Archipelagos",
+      "notation": null,
+      "meaning": "Hệ thống đảo, quần đảo nằm trên những tuyến đường hàng hải quốc tế quan trọng kết nối các châu lục nên có ý nghĩa chiến lược về quốc phòng, an ninh, giúp kiểm soát và bảo đảm an ninh cho các tuyến đường giao thông trên biển, trên không ở khu vực Biển Đông; đồng thời xây dựng thành cơ sở hậu cần – kĩ thuật và là không gian hoạt động kinh tế có tầm quan trọng chiến lược với nguồn tài nguyên sinh vật, khoáng sản và du lịch đa dạng.",
+      "usage_context": "Bài 12, mục 3.b: Tầm quan trọng chiến lược của quần đảo Trường Sa và quần đảo Hoàng Sa (tr. 78–79)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "3.b",
+        "pdf_page": 79,
+        "printed_page": 78
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-ngu-truong",
+      "term": "Ngư trường",
+      "aliases": [],
+      "english": "Fishing ground",
+      "notation": null,
+      "meaning": "vùng biển có nguồn lợi thuỷ sản tập trung với mật độ cao được xác định để tàu cá đến khai thác.",
+      "usage_context": "Bài 12, mục 3.b: Tầm quan trọng chiến lược của quần đảo Trường Sa và quần đảo Hoàng Sa (tr. 79; Bảng tra cứu tr. 93)",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "3.b",
+        "pdf_page": 80,
+        "printed_page": 79
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-tam-quan-trong-cua-bien-dong-doi-voi-viet-nam-ve-quoc-phong-an-ninh",
+      "term": "Tầm quan trọng của Biển Đông đối với Việt Nam về quốc phòng, an ninh",
+      "aliases": [],
+      "english": "Importance of the Bien Dong Sea to Vietnam's National Defence and Security",
+      "notation": null,
+      "meaning": "Biển Đông là tuyến phòng thủ phía đông của đất nước. Hệ thống các đảo, quần đảo của Việt Nam trên Biển Đông hợp thành tuyến phòng thủ bảo vệ vùng trời, vùng biển và đất liền.",
+      "usage_context": "Bài 13, mục 1.a: Về quốc phòng, an ninh (tr. 81)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "1.a",
+        "pdf_page": 82,
+        "printed_page": 81
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-vinh-cam-ranh",
+      "term": "Vịnh Cam Ranh",
+      "aliases": [],
+      "english": "Cam Ranh Bay",
+      "notation": null,
+      "meaning": "Vịnh thuộc tỉnh Khánh Hoà, được coi là một trong những cảng nước sâu tốt nhất châu Á; vị trí và địa hình của vịnh rất thuận lợi cho xây dựng các cơ sở phòng vệ chiến lược quan trọng.",
+      "usage_context": "Bài 13, mục 1.a: Em có biết (tr. 81)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "1.a",
+        "pdf_page": 82,
+        "printed_page": 81
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-tam-quan-trong-cua-bien-dong-doi-voi-viet-nam-ve-phat-trien-kinh-te",
+      "term": "Tầm quan trọng của Biển Đông đối với Việt Nam về phát triển kinh tế",
+      "aliases": [],
+      "english": "Importance of the Bien Dong Sea to Vietnam's Economic Development",
+      "notation": null,
+      "meaning": "Vị trí địa lí và tài nguyên của Biển Đông tạo điều kiện thuận lợi cho phát triển kinh tế biển đa dạng với các ngành mũi nhọn như thương mại biển, khai thác và nuôi trồng thuỷ sản (khoảng 2,3 triệu tấn cá/năm), khai thác dầu mỏ và khí đốt (gần 550 triệu tấn dầu, trên 610 tỉ $\\text{m}^3$ khí), quặng sa khoáng (ti-tan, thiếc, vàng, sắt, man-gan, đất hiếm,...), sửa chữa và đóng tàu, xây dựng các cảng biển nước sâu và du lịch biển; đồng thời là “cửa ngõ” để Việt Nam giao lưu kinh tế và vận chuyển hàng hoá xuất – nhập khẩu bằng đường biển.",
+      "usage_context": "Bài 13, mục 1.b: Về phát triển các ngành kinh tế trọng điểm (tr. 81–82)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "1.b",
+        "pdf_page": 82,
+        "printed_page": 81
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-xac-lap-chu-quyen-cua-viet-nam-doi-voi-quan-dao-hoang-sa-va-truong-sa-truoc-nam",
+      "term": "Xác lập chủ quyền của Việt Nam đối với quần đảo Hoàng Sa và Trường Sa trước năm 1884",
+      "aliases": [],
+      "english": "Establishment of Vietnam's Sovereignty over Hoang Sa and Truong Sa before 1884",
+      "notation": null,
+      "meaning": "Nhiều tập bản đồ của các triều đại quân chủ Việt Nam (*Toản tập Thiên Nam tứ chí lộ đồ thư*, *Giáp Ngọ bình Nam đồ*, *Đại Nam nhất thống toàn đồ*,...), của người phương Tây (*An Nam đại quốc hoạ đồ*,...) và các công trình sử học, địa lí (*Đại Việt sử ký tục biên*, *Phủ biên tạp lục*, *Đại Nam thực lục*, *Hoàng Việt địa dư chí*, *Đại Nam nhất thống chí*,...) đã thể hiện, ghi chép tường tận về hoạt động thực thi, bảo vệ chủ quyền ở quần đảo Hoàng Sa, Trường Sa; dưới thời vua Gia Long và vua Minh Mạng, triều đình tổ chức đội thuỷ quân chuyên trách khảo sát, vẽ bản đồ, cắm dấu mốc, dựng miếu, trồng cây và quản lí hành chính Hoàng Sa thuộc phủ Quảng Nghĩa (tỉnh Quảng Ngãi).",
+      "usage_context": "Bài 13, mục 2.a: Trước năm 1884 (tr. 83–85)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "2.a",
+        "pdf_page": 84,
+        "printed_page": 83
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-le-khao-le-the-linh-hoang-sa",
+      "term": "Lễ Khao lề thế lính Hoàng Sa",
+      "aliases": [],
+      "english": "Khao le the linh Hoang Sa Ceremony",
+      "notation": null,
+      "meaning": "Tập tục cổ truyền có từ thời Hải đội Hoàng Sa (thế kỉ XVII) nhằm tri ân những người đi làm nhiệm vụ và cầu cho họ được bình an trở về; ngày nay lễ Khao lề thế lính vẫn được duy trì nhằm tri ân Hải đội Hoàng Sa năm xưa, đồng thời giáo dục thế hệ trẻ về trách nhiệm giữ gìn biển đảo quê hương.",
+      "usage_context": "Bài 13, mục 2.a: Kết nối với ngày nay (tr. 84)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "2.a",
+        "pdf_page": 85,
+        "printed_page": 84
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-doi-hoang-sa-va-doi-bac-hai",
+      "term": "Đội Hoàng Sa và đội Bắc Hải",
+      "aliases": [],
+      "english": "Hoang Sa Flotilla and Bac Hai Flotilla",
+      "notation": null,
+      "meaning": "Các đội dân binh được thành lập và hoạt động từ thế kỉ XVII đến đầu thế kỉ XIX (họ Nguyễn đặt đội Hoàng Sa 70 suất lấy người xã An Vĩnh, mỗi năm cứ tháng 2 nhận giấy sai đi bằng năm chiếc thuyền nhỏ ra đảo thu lượm hoá vật, hải sản đến tháng 8 về; đặt đội Bắc Hải đi thuyền câu nhỏ ra các xứ Bắc Hải, cù lao Côn Lôn và các đảo ở Hà Tiên) nhằm xác lập chủ quyền, quản lí liên tục mang tính nhà nước đối với quần đảo Hoàng Sa, quần đảo Trường Sa.",
+      "usage_context": "Bài 13, mục 2.a: Trước năm 1884 (tr. 84)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "2.a",
+        "pdf_page": 85,
+        "printed_page": 84
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-quan-li-va-bao-ve-chu-quyen-quan-dao-hoang-sa-truong-sa-tu-nam-1884-den-nam-1975",
+      "term": "Quản lí và bảo vệ chủ quyền quần đảo Hoàng Sa, Trường Sa từ năm 1884 đến năm 1975",
+      "aliases": [],
+      "english": "Administration and Protection of Hoang Sa and Truong Sa Sovereignty (1884–1975)",
+      "notation": null,
+      "meaning": "Chính quyền thực dân Pháp (đại diện ngoại giao của triều Nguyễn) tiếp tục khẳng định chủ quyền của Việt Nam, khảo sát khoa học tại Hoàng Sa (1925) và Trường Sa (1927), sáp nhập Trường Sa vào tỉnh Bà Rịa và Hoàng Sa thuộc tỉnh Thừa Thiên, xây dựng cột mốc chủ quyền, đèn biển, trạm khí tượng, trạm vô tuyến điện và tuyên bố chủ quyền tại Hội nghị Hoà bình Xan Phran-xi-xcô (9 – 1951); từ năm 1954 đến năm 1975, chính quyền Sài Gòn quản lí hành chính (Hoàng Sa thuộc tỉnh Quảng Nam, Trường Sa thuộc tỉnh Phước Tuy), cử quân đồn trú, dựng bia chủ quyền, và từ ngày 13 đến ngày 28 – 4 – 1975 Quân giải phóng miền Nam Việt Nam tiếp quản các đảo thuộc quần đảo Trường Sa.",
+      "usage_context": "Bài 13, mục 2.a: Từ năm 1884 đến năm 1975 (tr. 85–86)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "2.a",
+        "pdf_page": 86,
+        "printed_page": 85
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-bao-ho",
+      "term": "Bảo hộ",
+      "aliases": [],
+      "english": "Protectorate",
+      "notation": null,
+      "meaning": "1. hình thức chính trị của bọn đế quốc, thực dân đối với một nước bị xâm lược; 2. hình thức một nước đế quốc bắt một nước nhỏ yếu phụ thuộc vào mình, tuy nước này vẫn có chính quyền riêng.",
+      "usage_context": "Bài 13, mục 2.a: Tư liệu 2 – Từ năm 1884 đến năm 1975 (tr. 86; Bảng tra cứu tr. 91)",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "2.a",
+        "pdf_page": 87,
+        "printed_page": 86
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-quan-li-va-thuc-thi-chu-quyen-quan-dao-hoang-sa-truong-sa-tu-sau-nam-1975-den",
+      "term": "Quản lí và thực thi chủ quyền quần đảo Hoàng Sa, Trường Sa từ sau năm 1975 đến nay",
+      "aliases": [],
+      "english": "Administration and Exercise of Hoang Sa and Truong Sa Sovereignty since 1975",
+      "notation": null,
+      "meaning": "Sau khi đất nước thống nhất, Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam đã tiếp tục quản lí và thực thi chủ quyền của Việt Nam đối với quần đảo Hoàng Sa và quần đảo Trường Sa; năm 1982, huyện Hoàng Sa thuộc tỉnh Quảng Nam – Đà Nẵng (từ năm 1997 thuộc thành phố Đà Nẵng) và huyện Trường Sa thuộc tỉnh Khánh Hoà (gồm thị trấn Trường Sa, xã Song Tử Tây, xã Sinh Tồn,...) được thành lập.",
+      "usage_context": "Bài 13, mục 2.a: Từ sau năm 1975 đến nay (tr. 86)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "2.a",
+        "pdf_page": 87,
+        "printed_page": 86
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-cuoc-dau-tranh-bao-ve-chu-quyen-bien-dao-cua-viet-nam",
+      "term": "Cuộc đấu tranh bảo vệ chủ quyền biển đảo của Việt Nam",
+      "aliases": [],
+      "english": "Vietnam's Struggle to Protect Maritime and Island Sovereignty",
+      "notation": null,
+      "meaning": "Nhà nước Việt Nam qua các thời kì lịch sử có những hoạt động đấu tranh kiên quyết nhằm bảo vệ, thực thi chủ quyền đối với quần đảo Hoàng Sa và quần đảo Trường Sa: từ các đội Hoàng Sa, Bắc Hải và đội thuỷ quân triều Nguyễn (trước năm 1884), chính quyền thực dân Pháp gửi công hàm phản đối Nhật Bản (1939) và yêu cầu quân đội Trung Hoa Dân quốc rút khỏi các đảo chiếm đóng trái phép (1946), cuộc chiến đấu bảo vệ quần đảo Hoàng Sa (1 – 1974) và tuyên bố của Chính phủ Cách mạng lâm thời Cộng hoà miền Nam Việt Nam, đến việc kiên trì đấu tranh ngoại giao và pháp lí của nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam từ tháng 3 – 1988 đến nay.",
+      "usage_context": "Bài 13, mục 2.b: Cuộc đấu tranh bảo vệ, thực thi chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông (tr. 87)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "2.b",
+        "pdf_page": 88,
+        "printed_page": 87
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-hai-chien-gac-ma-co-lin-len-dao",
+      "term": "Hải chiến Gạc Ma – Cô Lin – Len Đao",
+      "aliases": [
+        "3-1988"
+      ],
+      "english": "Johnson South Reef Skirmish (March 1988)",
+      "notation": null,
+      "meaning": "Tháng 3 – 1988, nhiều chiến sĩ Hải quân Nhân dân Việt Nam đã hi sinh anh dũng khi chiến đấu bảo vệ chủ quyền tại các đảo Gạc Ma, Cô Lin, Len Đao trước cuộc tấn công của quân đội Trung Quốc.",
+      "usage_context": "Bài 13, mục 2.b: Hình 9 – Sơ đồ khái quát về cuộc đấu tranh bảo vệ chủ quyền biển đảo của Việt Nam (tr. 87)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "2.b",
+        "pdf_page": 88,
+        "printed_page": 87
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-chu-truong-cua-viet-nam-trong-giai-quyet-tranh-chap-o-bien-dong",
+      "term": "Chủ trương của Việt Nam trong giải quyết tranh chấp ở Biển Đông",
+      "aliases": [],
+      "english": "Vietnam's Policy in Resolving Disputes in the Bien Dong Sea",
+      "notation": null,
+      "meaning": "Nhà nước Việt Nam thực hiện các biện pháp toàn diện trên các lĩnh vực chính trị, ngoại giao, kinh tế và quân sự nhằm bảo vệ quyền, chủ quyền và các lợi ích hợp pháp của Việt Nam ở Biển Đông; chủ trương giải quyết các tranh chấp trên Biển Đông thông qua biện pháp hoà bình với tinh thần hiểu biết và tôn trọng lẫn nhau, tuân thủ luật pháp quốc tế, ban hành văn bản pháp luật khẳng định chủ quyền (Tuyên bố về các vùng biển và thềm lục địa Việt Nam 5 – 1977, các Sách trắng, Luật biên giới quốc gia 6 – 2003, Luật hàng hải Việt Nam 11 – 2015) và phát triển kinh tế biển gắn với tăng cường quốc phòng, an ninh và xây dựng thế trận quốc phòng toàn dân trên biển.",
+      "usage_context": "Bài 13, mục 3: Chủ trương của Việt Nam trong giải quyết các tranh chấp chủ quyền ở Biển Đông (tr. 88–89)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "3",
+        "pdf_page": 89,
+        "printed_page": 88
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-cong-uoc-cua-lien-hop-quoc-ve-luat-bien-nam-1982",
+      "term": "Công ước của Liên hợp quốc về Luật Biển năm 1982",
+      "aliases": [
+        "UNCLOS"
+      ],
+      "english": "United Nations Convention on the Law of the Sea (UNCLOS 1982)",
+      "notation": null,
+      "meaning": "Công ước Luật Biển năm 1982 của Liên hợp quốc mà Việt Nam tham gia; theo Công ước Luật Biển UNCLOS, Việt Nam là quốc gia ven biển có các vùng biển và thềm lục địa để thăm dò và khai thác với diện tích khoảng một triệu ki-lô-mét vuông, rộng gấp ba lần diện tích lãnh thổ đất liền.",
+      "usage_context": "Bài 13, mục 3: Chủ trương của Việt Nam trong giải quyết các tranh chấp chủ quyền ở Biển Đông (tr. 89)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "3",
+        "pdf_page": 90,
+        "printed_page": 89
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-luat-bien-viet-nam-nam-2012",
+      "term": "Luật Biển Việt Nam năm 2012",
+      "aliases": [],
+      "english": "Law of the Sea of Vietnam (2012)",
+      "notation": null,
+      "meaning": "Luật quy định Nhà nước giải quyết các tranh chấp liên quan đến biển, đảo với các nước khác bằng các biện pháp hoà bình, phù hợp với Công ước của Liên hợp quốc về Luật Biển năm 1982, pháp luật và thực tiễn quốc tế.",
+      "usage_context": "Bài 13, mục 3: Chủ trương của Việt Nam trong giải quyết các tranh chấp chủ quyền ở Biển Đông (tr. 89)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "3",
+        "pdf_page": 90,
+        "printed_page": 89
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "lich-su-11-tuyen-bo-ve-ung-xu-cua-cac-ben-o-bien-dong",
+      "term": "Tuyên bố về ứng xử của các bên ở Biển Đông",
+      "aliases": [
+        "DOC"
+      ],
+      "english": "Declaration on the Conduct of Parties in the South China Sea (DOC)",
+      "notation": null,
+      "meaning": "Văn kiện được các nước ASEAN và Trung Quốc kí ngày 4 – 11 – 2002 tại Thủ đô Phnôm Pênh, Cam-pu-chia, trong đó Điều 4 quy định các bên liên quan chịu trách nhiệm giải quyết các tranh chấp về lãnh thổ và về quyền thực thi luật pháp bằng các phương tiện hoà bình mà không viện đến sự đe doạ hoặc sử dụng vũ lực, thông qua các cuộc tham vấn thân thiện và những cuộc đàm phán bởi các quốc gia có chủ quyền có liên quan trực tiếp, phù hợp với những nguyên tắc được thừa nhận phổ quát của luật pháp quốc tế, kể cả Công ước Liên hợp quốc về Luật Biển năm 1982.",
+      "usage_context": "Bài 13, mục 3: Chủ trương của Việt Nam trong giải quyết các tranh chấp chủ quyền ở Biển Đông (tr. 89)",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "3",
+        "pdf_page": 90,
+        "printed_page": 89
+      },
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-6.md",
+      "note_ids": []
+    }
+  ],
+  "source_notes": [
+    {
+      "id": "tu-dien-lich-su-11-chu-de-3#1",
+      "dictionary": "Tu-dien-Lich-su-11-Chu-de-3.md",
+      "number": 1,
+      "status": "closed",
+      "lesson_id": null,
+      "section": null,
+      "pdf_page": null,
+      "term_ids": [],
+      "issue": "Mục lục trang in 3 ghi Bài 5 ở trang 30 và Bài 6 ở trang 38, nhưng thực tế trong sách Bài 5 bắt đầu từ trang in 29 (PDF 30) và Bài 6 bắt đầu từ trang in 37 (PDF 38)",
+      "resolution": "Đã đối chiếu ảnh gốc p030.png–p043.png và chuẩn hoá mốc trang PDF 30–43 theo đúng trang thực tế của sách",
+      "resolved_on": "2026-04-20"
+    }
+  ]
+}
