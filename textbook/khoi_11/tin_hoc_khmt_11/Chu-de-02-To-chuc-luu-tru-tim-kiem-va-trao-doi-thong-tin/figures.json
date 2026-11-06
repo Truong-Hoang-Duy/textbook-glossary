@@ -1,0 +1,50 @@
+{
+  "H11-tin_hoc_khmt-b06-01": {
+    "pdf_page": 33,
+    "bbox": [312, 531, 480, 685]
+  },
+  "H11-tin_hoc_khmt-b06-02": {
+    "pdf_page": 34,
+    "bbox": [50, 126, 504, 331]
+  },
+  "H11-tin_hoc_khmt-b06-03": {
+    "pdf_page": 35,
+    "bbox": [338, 262, 490, 462]
+  },
+  "H11-tin_hoc_khmt-b06-04": {
+    "pdf_page": 35,
+    "bbox": [75, 460, 440, 676]
+  },
+  "H11-tin_hoc_khmt-b06-05": {
+    "pdf_page": 36,
+    "bbox": [50, 144, 462, 419]
+  },
+  "H11-tin_hoc_khmt-b07-01": {
+    "pdf_page": 38,
+    "bbox": [85, 45, 478, 288]
+  },
+  "H11-tin_hoc_khmt-b07-02": {
+    "pdf_page": 38,
+    "bbox": [108, 506, 458, 568]
+  },
+  "H11-tin_hoc_khmt-b08-01": {
+    "pdf_page": 40,
+    "bbox": [344, 365, 494, 476]
+  },
+  "H11-tin_hoc_khmt-b08-02": {
+    "pdf_page": 41,
+    "bbox": [45, 141, 498, 311]
+  },
+  "H11-tin_hoc_khmt-b08-03": {
+    "pdf_page": 41,
+    "bbox": [49, 502, 498, 711]
+  },
+  "H11-tin_hoc_khmt-b08-04": {
+    "pdf_page": 42,
+    "bbox": [188, 311, 335, 574]
+  },
+  "H11-tin_hoc_khmt-b08-05": {
+    "pdf_page": 43,
+    "bbox": [104, 44, 446, 416]
+  }
+}

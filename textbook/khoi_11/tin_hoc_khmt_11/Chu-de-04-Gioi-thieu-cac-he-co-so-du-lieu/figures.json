@@ -1,0 +1,60 @@
+{
+  "H11-tin_hoc_khmt-b10-01": {
+    "pdf_page": 51,
+    "bbox": [85, 376, 488, 715]
+  },
+  "H11-tin_hoc_khmt-b10-02": {
+    "pdf_page": 52,
+    "bbox": [180, 628, 365, 700]
+  },
+  "H11-tin_hoc_khmt-b11-01": {
+    "pdf_page": 54,
+    "bbox": [80, 489, 452, 558]
+  },
+  "H11-tin_hoc_khmt-b11-02": {
+    "pdf_page": 54,
+    "bbox": [80, 599, 496, 676]
+  },
+  "H11-tin_hoc_khmt-b11-03": {
+    "pdf_page": 56,
+    "bbox": [110, 48, 462, 165]
+  },
+  "H11-tin_hoc_khmt-b12-01": {
+    "pdf_page": 61,
+    "bbox": [100, 350, 474, 460]
+  },
+  "H11-tin_hoc_khmt-b12-02": {
+    "pdf_page": 61,
+    "bbox": [98, 466, 472, 581]
+  },
+  "H11-tin_hoc_khmt-b12-03": {
+    "pdf_page": 62,
+    "bbox": [186, 211, 498, 368]
+  },
+  "H11-tin_hoc_khmt-b12-04": {
+    "pdf_page": 62,
+    "bbox": [362, 521, 502, 710]
+  },
+  "H11-tin_hoc_khmt-b12-05": {
+    "pdf_page": 63,
+    "bbox": [60, 358, 492, 672]
+  },
+  "H11-tin_hoc_khmt-b13-01": {
+    "pdf_page": 65,
+    "bbox": [46, 526, 495, 706]
+  },
+  "H11-tin_hoc_khmt-b13-02": {
+    "pdf_page": 66,
+    "bbox": [54, 242, 500, 406]
+  },
+  "H11-tin_hoc_khmt-b13-03": {
+    "pdf_page": 67,
+    "bbox": [46, 535, 495, 672],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh mũi tên cong màu đỏ của Hình 13.3 (y=532) nằm ngang hàng với chân chữ g, ạ của dòng văn bản 'sáng tác bản nhạc.' phía trên (y=531..532)"
+  },
+  "H11-tin_hoc_khmt-b13-04": {
+    "pdf_page": 68,
+    "bbox": [62, 44, 502, 333]
+  }
+}
