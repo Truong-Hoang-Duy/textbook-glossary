@@ -1,0 +1,693 @@
+{
+  "unit": "sinh_11",
+  "subject": "sinh",
+  "subject_name": "Sinh học",
+  "grade": 11,
+  "files": [
+    {
+      "file": "SGK SINH HOC 11 - KNTT.pdf",
+      "volume": null,
+      "page_count": 190,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "p03",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần ba",
+      "number": 3,
+      "title": "Sinh học cơ thể",
+      "dir": "Phan-03-Sinh-hoc-co-the",
+      "children": [
+        {
+          "id": "c01",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 1",
+          "number": 1,
+          "title": "Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+          "dir": "Chuong-01-Trao-doi-chat-va-chuyen-hoa-nang-luong-o-sinh-vat",
+          "children": [
+            {
+              "id": "b01",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 1",
+              "number": 1,
+              "title": "Khái quát về trao đổi chất và chuyển hoá năng lượng",
+              "lesson_type": "ly_thuyet",
+              "file": "B01-Khai-quat-ve-trao-doi-chat-va-chuyen-hoa-nang-luong.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                6,
+                9
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b02",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 2",
+              "number": 2,
+              "title": "Trao đổi nước và khoáng ở thực vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B02-Trao-doi-nuoc-va-khoang-o-thuc-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                10,
+                22
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b03",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 3",
+              "number": 3,
+              "title": "Thực hành: Trao đổi nước và khoáng ở thực vật",
+              "lesson_type": "thuc_hanh",
+              "file": "B03-Thuc-hanh-Trao-doi-nuoc-va-khoang-o-thuc-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                23,
+                26
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b04",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 4",
+              "number": 4,
+              "title": "Quang hợp ở thực vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B04-Quang-hop-o-thuc-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                27,
+                35
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b05",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 5",
+              "number": 5,
+              "title": "Thực hành: Quang hợp ở thực vật",
+              "lesson_type": "thuc_hanh",
+              "file": "B05-Thuc-hanh-Quang-hop-o-thuc-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                36,
+                38
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b06",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 6",
+              "number": 6,
+              "title": "Hô hấp ở thực vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B06-Ho-hap-o-thuc-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                39,
+                44
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b07",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 7",
+              "number": 7,
+              "title": "Thực hành: Hô hấp ở thực vật",
+              "lesson_type": "thuc_hanh",
+              "file": "B07-Thuc-hanh-Ho-hap-o-thuc-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                45,
+                46
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b08",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 8",
+              "number": 8,
+              "title": "Dinh dưỡng và tiêu hoá ở động vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B08-Dinh-duong-va-tieu-hoa-o-dong-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                47,
+                54
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b09",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 9",
+              "number": 9,
+              "title": "Hô hấp ở động vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B09-Ho-hap-o-dong-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                55,
+                61
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b10",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 10",
+              "number": 10,
+              "title": "Tuần hoàn ở động vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B10-Tuan-hoan-o-dong-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                62,
+                69
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b11",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 11",
+              "number": 11,
+              "title": "Thực hành: Một số thí nghiệm về hệ tuần hoàn",
+              "lesson_type": "thuc_hanh",
+              "file": "B11-Thuc-hanh-Mot-so-thi-nghiem-ve-he-tuan-hoan.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                70,
+                72
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b12",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 12",
+              "number": 12,
+              "title": "Miễn dịch ở động vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B12-Mien-dich-o-dong-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                73,
+                80
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b13",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 13",
+              "number": 13,
+              "title": "Bài tiết và cân bằng nội môi",
+              "lesson_type": "ly_thuyet",
+              "file": "B13-Bai-tiet-va-can-bang-noi-moi.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                81,
+                87
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c01",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 1",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-1.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                88,
+                88
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "c02",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 2",
+          "number": 2,
+          "title": "Cảm ứng ở sinh vật",
+          "dir": "Chuong-02-Cam-ung-o-sinh-vat",
+          "children": [
+            {
+              "id": "b14",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 14",
+              "number": 14,
+              "title": "Khái quát về cảm ứng ở sinh vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B14-Khai-quat-ve-cam-ung-o-sinh-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                89,
+                90
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b15",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 15",
+              "number": 15,
+              "title": "Cảm ứng ở thực vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B15-Cam-ung-o-thuc-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                91,
+                97
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b16",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 16",
+              "number": 16,
+              "title": "Thực hành: Cảm ứng ở thực vật",
+              "lesson_type": "thuc_hanh",
+              "file": "B16-Thuc-hanh-Cam-ung-o-thuc-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                98,
+                100
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b17",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 17",
+              "number": 17,
+              "title": "Cảm ứng ở động vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B17-Cam-ung-o-dong-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                101,
+                115
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b18",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 18",
+              "number": 18,
+              "title": "Tập tính ở động vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B18-Tap-tinh-o-dong-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                116,
+                124
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c02",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 2",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-2.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                125,
+                125
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "c03",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 3",
+          "number": 3,
+          "title": "Sinh trưởng và phát triển ở sinh vật",
+          "dir": "Chuong-03-Sinh-truong-va-phat-trien-o-sinh-vat",
+          "children": [
+            {
+              "id": "b19",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 19",
+              "number": 19,
+              "title": "Khái quát về sinh trưởng và phát triển ở sinh vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B19-Khai-quat-ve-sinh-truong-va-phat-trien-o-sinh-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                126,
+                129
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b20",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 20",
+              "number": 20,
+              "title": "Sinh trưởng và phát triển ở thực vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B20-Sinh-truong-va-phat-trien-o-thuc-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                130,
+                141
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b21",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 21",
+              "number": 21,
+              "title": "Thực hành: Bấm ngọn, tỉa cành, tính tuổi cây",
+              "lesson_type": "thuc_hanh",
+              "file": "B21-Thuc-hanh-Bam-ngon-tia-canh-tinh-tuoi-cay.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                142,
+                145
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b22",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 22",
+              "number": 22,
+              "title": "Sinh trưởng và phát triển ở động vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B22-Sinh-truong-va-phat-trien-o-dong-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                146,
+                153
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b23",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 23",
+              "number": 23,
+              "title": "Thực hành: Quan sát quá trình biến thái ở động vật",
+              "lesson_type": "thuc_hanh",
+              "file": "B23-Thuc-hanh-Quan-sat-qua-trinh-bien-thai-o-dong-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                154,
+                155
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c03",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 3",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-3.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                156,
+                156
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "c04",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 4",
+          "number": 4,
+          "title": "Sinh sản ở sinh vật",
+          "dir": "Chuong-04-Sinh-san-o-sinh-vat",
+          "children": [
+            {
+              "id": "b24",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 24",
+              "number": 24,
+              "title": "Khái quát về sinh sản ở sinh vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B24-Khai-quat-ve-sinh-san-o-sinh-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                157,
+                159
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b25",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 25",
+              "number": 25,
+              "title": "Sinh sản ở thực vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B25-Sinh-san-o-thuc-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                160,
+                167
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b26",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 26",
+              "number": 26,
+              "title": "Thực hành: Nhân giống vô tính và thụ phấn cho cây",
+              "lesson_type": "thuc_hanh",
+              "file": "B26-Thuc-hanh-Nhan-giong-vo-tinh-va-thu-phan-cho-cay.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                168,
+                170
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b27",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 27",
+              "number": 27,
+              "title": "Sinh sản ở động vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B27-Sinh-san-o-dong-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                171,
+                182
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "so-do-tom-tat-c04",
+              "role": "lesson",
+              "kind": "so_do_tom_tat",
+              "label": null,
+              "number": null,
+              "title": "Sơ đồ tóm tắt kiến thức chương 4",
+              "lesson_type": "on_tap",
+              "file": "So-do-tom-tat-chuong-4.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                183,
+                183
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "c05",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 5",
+          "number": 5,
+          "title": "Mối quan hệ giữa các quá trình sinh lí trong cơ thể sinh vật và một số ngành nghề liên quan đến sinh học cơ thể",
+          "dir": "Chuong-05-Moi-quan-he-giua-cac-qua-trinh-sinh-li-trong-co-the-sinh-vat",
+          "children": [
+            {
+              "id": "b28",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 28",
+              "number": 28,
+              "title": "Mối quan hệ giữa các quá trình sinh lí trong cơ thể sinh vật",
+              "lesson_type": "ly_thuyet",
+              "file": "B28-Moi-quan-he-giua-cac-qua-trinh-sinh-li-trong-co-the-sinh-vat.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                184,
+                185
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b29",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 29",
+              "number": 29,
+              "title": "Một số ngành nghề liên quan đến sinh học cơ thể",
+              "lesson_type": "ly_thuyet",
+              "file": "B29-Mot-so-nganh-nghe-lien-quan-den-sinh-hoc-co-the.md",
+              "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+              "pdf_pages": [
+                186,
+                187
+              ],
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "giai-thich-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Giải thích một số thuật ngữ trong sách",
+      "file": "Giai-thich-mot-so-thuat-ngu-trong-sach.md",
+      "source_file": "SGK SINH HOC 11 - KNTT.pdf",
+      "pdf_pages": [
+        188,
+        188
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Sinh học 11 (Kết nối tri thức với cuộc sống) gồm Phần ba: Sinh học cơ thể, chia thành 5 Chương (Chương 1–5), 29 Bài học (Bài 1–29, trong đó có 8 bài Thực hành: Bài 3, 5, 7, 11, 16, 21, 23, 26), 4 trang Sơ đồ tóm tắt kiến thức cuối Chương 1–4 (trang in 87, 124, 155, 182; PDF 88, 125, 156, 183) và Bảng 'Giải thích một số thuật ngữ trong sách' cuối sách (trang in 187, PDF 188, 19 mục thuật ngữ).",
+    "Độ lệch trang in cố định xuyên suốt toàn sách: printed_offset = 1 (Trang PDF = Trang in + 1).",
+    "Mục lục NXB in nhầm trang bắt đầu của Bài 3 là trang in 21; thực tế trang in 21 (PDF 22) là trang cuối của Bài 2 và Bài 3 bắt đầu ở trang in 22 (PDF 23)."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-06",
+      "scope": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "giai-thich-thuat-ngu"
+      ],
+      "terms": 483,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0
+    }
+  ],
+  "last_session_note": "Hoàn thành 100% sinh_11: 34 file Tầng 1 verified (29 bài học + 4 sơ đồ tóm tắt chương + 1 bảng giải thích thuật ngữ), 169 hình ảnh 300 DPI sạch biên, 5 từ điển Tầng 2 với 483 thuật ngữ (288 in_source, 159 described, 36 out_of_source, 24 ghi chú nguồn đóng, 0 ghi chú mở), kiểm tra mẫu 30 mục 0% lỗi, xuất dataset/sinh_11.json đạt chuẩn."
+}
