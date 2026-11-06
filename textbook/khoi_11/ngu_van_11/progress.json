@@ -1,0 +1,420 @@
+{
+  "unit": "ngu_van_11",
+  "subject": "ngu_van",
+  "subject_name": "Ngữ văn",
+  "grade": 11,
+  "files": [
+    {
+      "file": "SGK NGU VAN 11 TAP 1 - KNTT.pdf",
+      "volume": 1,
+      "page_count": 166,
+      "printed_offset": 1
+    },
+    {
+      "file": "SGK NGU VAN 11 TAP 2 - KNTT.pdf",
+      "volume": 2,
+      "page_count": 134,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK NGU VAN 11 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        3,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-1",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK NGU VAN 11 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK NGU VAN 11 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        7,
+        9
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "t01",
+      "role": "group",
+      "kind": "tap",
+      "label": null,
+      "number": 1,
+      "title": "Tập một",
+      "dir": "Tap-1",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Câu chuyện và điểm nhìn trong truyện kể",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Cau-chuyen-va-diem-nhin-trong-truyen-ke.md",
+          "source_file": "SGK NGU VAN 11 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            10,
+            54
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Cấu tứ và hình ảnh trong thơ trữ tình",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Cau-tu-va-hinh-anh-trong-tho-tru-tinh.md",
+          "source_file": "SGK NGU VAN 11 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            55,
+            75
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Cấu trúc của văn bản nghị luận",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Cau-truc-cua-van-ban-nghi-luan.md",
+          "source_file": "SGK NGU VAN 11 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            76,
+            101
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Tự sự trong truyện thơ dân gian và trong thơ trữ tình",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Tu-su-trong-truyen-tho-dan-gian-va-trong-tho-tru-tinh.md",
+          "source_file": "SGK NGU VAN 11 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            102,
+            125
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Nhân vật và xung đột trong bi kịch",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Nhan-vat-va-xung-dot-trong-bi-kich.md",
+          "source_file": "SGK NGU VAN 11 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            126,
+            155
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "on-tap-hk1",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Ôn tập học kì I",
+          "lesson_type": "on_tap",
+          "file": "On-tap-hoc-ki-I.md",
+          "source_file": "SGK NGU VAN 11 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            156,
+            158
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu thuật ngữ (Tập một)",
+      "file": "Bang-tra-cuu-thuat-ngu-Tap-1.md",
+      "source_file": "SGK NGU VAN 11 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        159,
+        159
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích một số thuật ngữ (Tập một)",
+      "file": "Bang-giai-thich-mot-so-thuat-ngu-Tap-1.md",
+      "source_file": "SGK NGU VAN 11 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        160,
+        160
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-tra-cuu-han-viet-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu một số yếu tố Hán Việt (Tập một)",
+      "file": null,
+      "source_file": "SGK NGU VAN 11 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        161,
+        162
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-tra-cuu-ten-rieng-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu tên riêng nước ngoài (Tập một)",
+      "file": null,
+      "source_file": "SGK NGU VAN 11 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        163,
+        164
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "muc-luc-tap-2",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục (Tập hai)",
+      "file": null,
+      "source_file": "SGK NGU VAN 11 TAP 2 - KNTT.pdf",
+      "pdf_pages": [
+        3,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "t02",
+      "role": "group",
+      "kind": "tap",
+      "label": null,
+      "number": 2,
+      "title": "Tập hai",
+      "dir": "Tap-2",
+      "children": [
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Nguyễn Du – “Những điều trông thấy mà đau đớn lòng”",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Nguyen-Du-Nhung-dieu-trong-thay-ma-dau-don-long.md",
+          "source_file": "SGK NGU VAN 11 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            5,
+            33
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Ghi chép và tưởng tượng trong kí",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Ghi-chep-va-tuong-tuong-trong-ki.md",
+          "source_file": "SGK NGU VAN 11 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            34,
+            64
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Cấu trúc của văn bản thông tin",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Cau-truc-cua-van-ban-thong-tin.md",
+          "source_file": "SGK NGU VAN 11 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            65,
+            93
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Lựa chọn và hành động",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Lua-chon-va-hanh-dong.md",
+          "source_file": "SGK NGU VAN 11 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            94,
+            122
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "on-tap-hk2",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Ôn tập học kì II",
+          "lesson_type": "on_tap",
+          "file": "On-tap-hoc-ki-II.md",
+          "source_file": "SGK NGU VAN 11 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            123,
+            126
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu thuật ngữ (Tập hai)",
+      "file": "Bang-tra-cuu-thuat-ngu-Tap-2.md",
+      "source_file": "SGK NGU VAN 11 TAP 2 - KNTT.pdf",
+      "pdf_pages": [
+        127,
+        127
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích một số thuật ngữ (Tập hai)",
+      "file": "Bang-giai-thich-mot-so-thuat-ngu-Tap-2.md",
+      "source_file": "SGK NGU VAN 11 TAP 2 - KNTT.pdf",
+      "pdf_pages": [
+        128,
+        128
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-tra-cuu-han-viet-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu một số yếu tố Hán Việt (Tập hai)",
+      "file": null,
+      "source_file": "SGK NGU VAN 11 TAP 2 - KNTT.pdf",
+      "pdf_pages": [
+        129,
+        130
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-tra-cuu-ten-rieng-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu tên riêng nước ngoài (Tập hai)",
+      "file": null,
+      "source_file": "SGK NGU VAN 11 TAP 2 - KNTT.pdf",
+      "pdf_pages": [
+        131,
+        132
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Ngữ văn 11 – Kết nối tri thức với cuộc sống gồm 2 tập: Tập một (166 trang PDF, gồm Bài 1–5 và Ôn tập học kì I) và Tập hai (134 trang PDF, gồm Bài 6–9 và Ôn tập học kì II). Cuối mỗi tập có 4 bảng tra cứu: Bảng tra cứu thuật ngữ, Bảng giải thích một số thuật ngữ, Bảng tra cứu một số yếu tố Hán Việt và Bảng tra cứu tên riêng nước ngoài.",
+    "Cả hai tập PDF đều có độ lệch trang (printed_offset) cố định bằng 1 xuyên suốt toàn bộ sách (Trang PDF = Trang in + 1, không có trang chèn ngoài lề).",
+    "Mỗi bài học (Bài 1–9) đều mở đầu bằng khung \"Yêu cầu cần đạt\" (ánh xạ thành \"## 🎯 Yêu cầu cần đạt\"), tiếp theo là các mạch hoạt động lớn không đánh số (\"## ĐỌC\", \"### TRI THỨC NGỮ VĂN\", \"### VĂN BẢN 1: ...\", \"### Thực hành tiếng Việt: ...\", \"## VIẾT\", \"### Bài viết tham khảo\", \"## NÓI VÀ NGHE\", \"## CỦNG CỐ, MỞ RỘNG\", \"## THỰC HÀNH ĐỌC\"). Trong Bài 6 (Văn bản 1: Tác gia Nguyễn Du) và hai bài Ôn tập học kì I, II có chia cấp mục đánh số La Mã (## I. ...), số Ả Rập (### 1. ...) và chữ cái thường (**a. ...**). Các thẻ chỉ dẫn đọc ở cột lề phải văn bản đọc và chỉ dẫn trong bài viết tham khảo được chép thành khối trích dẫn (\"> ...\") ngay sau đoạn tương ứng."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-06",
+      "sample_size": 30,
+      "errors": 0,
+      "error_rate": 0.0,
+      "focus": [
+        "mo_ta",
+        "hinh",
+        "in_source"
+      ],
+      "details": "Kiểm toán mẫu phân tầng 30 mục (toàn bộ 9 thuật ngữ mô tả described, 11 thuật ngữ in_source ở cả hai tập và 10 hình cắt trong Tap-1/img, Tap-2/img) đối chiếu trực tiếp với ảnh trang PDF gốc Tập 1 và Tập 2: 0 lỗi (0,0% < 5%). Đạt Cổng 0, 1, 2, 2b, 3, 4 (116 thuật ngữ: 83 in_source, 9 described, 24 out_of_source; 0 ghi chú mở; 42/42 mục bảng giải thích thuật ngữ cuối sách; 27 hình cắt)."
+    }
+  ],
+  "last_session_note": "2026-11-06: Hoàn thành toàn bộ 4 giai đoạn (Tầng 1, 27 hình cắt, Tầng 2 với 2 từ điển 116 thuật ngữ, xuất dataset/ngu_van_11.json và kiểm toán mẫu 30 mục đạt 0 lỗi)."
+}
