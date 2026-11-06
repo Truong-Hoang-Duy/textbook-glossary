@@ -1,0 +1,32 @@
+{
+  "H11-toan-b05-01": {
+    "pdf_page": 43,
+    "bbox": [396, 121, 545, 223],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình minh hoạ mở đầu chương nằm đè lên nền màu trang trí đầu chương"
+  },
+  "H11-toan-b05-02": {
+    "pdf_page": 46,
+    "bbox": [52, 143, 544, 194]
+  },
+  "H11-toan-b05-03": {
+    "pdf_page": 48,
+    "bbox": [404, 208, 528, 413]
+  },
+  "H11-toan-b06-01": {
+    "pdf_page": 49,
+    "bbox": [314, 244, 535, 384]
+  },
+  "H11-toan-b06-02": {
+    "pdf_page": 52,
+    "bbox": [409, 187, 525, 238]
+  },
+  "H11-toan-b06-03": {
+    "pdf_page": 52,
+    "bbox": [409, 280, 525, 332]
+  },
+  "H11-toan-bt-c02-01": {
+    "pdf_page": 58,
+    "bbox": [66, 521, 542, 697]
+  }
+}

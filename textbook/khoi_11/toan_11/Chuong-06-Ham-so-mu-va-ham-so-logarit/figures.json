@@ -1,0 +1,48 @@
+{
+  "H11-toan-b18-01": {
+    "pdf_page": 5,
+    "bbox": [380, 656, 544, 774]
+  },
+  "H11-toan-b19-01": {
+    "pdf_page": 16,
+    "bbox": [384, 441, 530, 585]
+  },
+  "H11-toan-b20-01": {
+    "pdf_page": 18,
+    "bbox": [80, 225, 490, 399]
+  },
+  "H11-toan-b20-02": {
+    "pdf_page": 18,
+    "bbox": [324, 538, 532, 777],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh nhãn trục tung y của Hình 6.2 (y=534) chồng lấp theo phương ngang với đáy áo nhân vật minh hoạ bên phải (y=535) và đáy bảng giá trị bên trái (y=533)"
+  },
+  "H11-toan-b20-03": {
+    "pdf_page": 19,
+    "bbox": [65, 592, 525, 775]
+  },
+  "H11-toan-b20-04": {
+    "pdf_page": 20,
+    "bbox": [140, 218, 450, 475]
+  },
+  "H11-toan-b21-01": {
+    "pdf_page": 21,
+    "bbox": [75, 545, 548, 735]
+  },
+  "H11-toan-b21-02": {
+    "pdf_page": 22,
+    "bbox": [68, 561, 535, 733]
+  },
+  "H11-toan-b21-03": {
+    "pdf_page": 23,
+    "bbox": [333, 355, 535, 532]
+  },
+  "H11-toan-b21-04": {
+    "pdf_page": 24,
+    "bbox": [355, 305, 555, 446]
+  },
+  "H11-toan-bt-c06-01": {
+    "pdf_page": 26,
+    "bbox": [402, 665, 530, 778]
+  }
+}

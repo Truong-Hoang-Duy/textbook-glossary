@@ -1,0 +1,157 @@
+{
+  "H11-toan-b31-01": {
+    "pdf_page": 82,
+    "bbox": [
+      390,
+      532,
+      542,
+      640
+    ]
+  },
+  "H11-toan-b31-02": {
+    "pdf_page": 82,
+    "bbox": [
+      386,
+      686,
+      552,
+      771
+    ]
+  },
+  "H11-toan-b31-03": {
+    "pdf_page": 85,
+    "bbox": [
+      379,
+      394,
+      556,
+      542
+    ]
+  },
+  "H11-toan-b31-04": {
+    "pdf_page": 86,
+    "bbox": [
+      48,
+      666,
+      305,
+      788
+    ]
+  },
+  "H11-toan-b31-05": {
+    "pdf_page": 86,
+    "bbox": [
+      330,
+      676,
+      560,
+      778
+    ]
+  },
+  "H11-toan-b31-06": {
+    "pdf_page": 87,
+    "bbox": [
+      358,
+      396,
+      542,
+      536
+    ]
+  },
+  "H11-toan-b31-07": {
+    "pdf_page": 87,
+    "bbox": [
+      370,
+      568,
+      552,
+      736
+    ]
+  },
+  "H11-toan-b32-01": {
+    "pdf_page": 89,
+    "bbox": [
+      420,
+      280,
+      505,
+      438
+    ]
+  },
+  "H11-toan-b32-02": {
+    "pdf_page": 91,
+    "bbox": [
+      264,
+      332,
+      564,
+      428
+    ]
+  },
+  "H11-toan-b33-01": {
+    "pdf_page": 96,
+    "bbox": [
+      482,
+      256,
+      532,
+      370
+    ]
+  },
+  "H11-toan-bt-c09-01": {
+    "pdf_page": 99,
+    "bbox": [
+      244,
+      384,
+      406,
+      514
+    ]
+  },
+  "H11-toan-hd-thtn-04-01": {
+    "pdf_page": 104,
+    "bbox": [
+      272,
+      56,
+      538,
+      220
+    ]
+  },
+  "H11-toan-hd-thtn-04-02": {
+    "pdf_page": 104,
+    "bbox": [
+      370,
+      464,
+      564,
+      612
+    ]
+  },
+  "H11-toan-hd-thtn-04-03": {
+    "pdf_page": 105,
+    "bbox": [
+      98,
+      358,
+      504,
+      640
+    ]
+  },
+  "H11-toan-hd-thtn-04-04": {
+    "pdf_page": 105,
+    "bbox": [
+      398,
+      648,
+      514,
+      792
+    ]
+  },
+  "H11-toan-on-tap-cuoi-nam-01": {
+    "pdf_page": 106,
+    "bbox": [
+      352,
+      666,
+      518,
+      801
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nhãn y = a^x vươn tới x=521 và trục Oy xuống tới y=804 nên cạnh phải góc dưới chạm mũi nhọn hoạ tiết số trang 105 (x>=517, y=790..801)"
+  },
+  "H11-toan-on-tap-cuoi-nam-02": {
+    "pdf_page": 108,
+    "bbox": [
+      274,
+      356,
+      564,
+      518
+    ]
+  }
+}

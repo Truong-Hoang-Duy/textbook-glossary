@@ -1,0 +1,1035 @@
+{
+  "unit": "toan_11",
+  "subject": "toan",
+  "subject_name": "Toán",
+  "grade": 11,
+  "files": [
+    {
+      "file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+      "volume": 1,
+      "page_count": 134,
+      "printed_offset": 1
+    },
+    {
+      "file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+      "volume": 2,
+      "page_count": 114,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan-tap-1",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-1",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c01",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương I",
+      "number": 1,
+      "title": "Hàm số lượng giác và phương trình lượng giác",
+      "dir": "Chuong-01-Ham-so-luong-giac-va-phuong-trinh-luong-giac",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Giá trị lượng giác của góc lượng giác",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Gia-tri-luong-giac-cua-goc-luong-giac.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            6,
+            17
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Công thức lượng giác",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Cong-thuc-luong-giac.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            18,
+            22
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Hàm số lượng giác",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Ham-so-luong-giac.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            23,
+            31
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Phương trình lượng giác cơ bản",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Phuong-trinh-luong-giac-co-ban.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            32,
+            40
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương I",
+          "lesson_type": "on_tap",
+          "file": "BT-C01-Bai-tap-cuoi-chuong-I.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            41,
+            42
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c02",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương II",
+      "number": 2,
+      "title": "Dãy số. Cấp số cộng và cấp số nhân",
+      "dir": "Chuong-02-Day-so-Cap-so-cong-va-cap-so-nhan",
+      "children": [
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Dãy số",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Day-so.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            43,
+            48
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Cấp số cộng",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Cap-so-cong.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            49,
+            52
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Cấp số nhân",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Cap-so-nhan.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            53,
+            56
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c02",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương II",
+          "lesson_type": "on_tap",
+          "file": "BT-C02-Bai-tap-cuoi-chuong-II.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            57,
+            58
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c03",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương III",
+      "number": 3,
+      "title": "Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm",
+      "dir": "Chuong-03-Cac-so-dac-trung-do-xu-the-trung-tam-cua-mau-so-lieu-ghep-nhom",
+      "children": [
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Mẫu số liệu ghép nhóm",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Mau-so-lieu-ghep-nhom.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            59,
+            62
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Các số đặc trưng đo xu thế trung tâm",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Cac-so-dac-trung-do-xu-the-trung-tam.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            63,
+            69
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c03",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương III",
+          "lesson_type": "on_tap",
+          "file": "BT-C03-Bai-tap-cuoi-chuong-III.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            70,
+            70
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c04",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương IV",
+      "number": 4,
+      "title": "Quan hệ song song trong không gian",
+      "dir": "Chuong-04-Quan-he-song-song-trong-khong-gian",
+      "children": [
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Đường thẳng và mặt phẳng trong không gian",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Duong-thang-va-mat-phang-trong-khong-gian.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            71,
+            78
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Hai đường thẳng song song",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Hai-duong-thang-song-song.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            79,
+            84
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Đường thẳng và mặt phẳng song song",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Duong-thang-va-mat-phang-song-song.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            85,
+            88
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Hai mặt phẳng song song",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Hai-mat-phang-song-song.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            89,
+            95
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Phép chiếu song song",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-Phep-chieu-song-song.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            96,
+            102
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c04",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương IV",
+          "lesson_type": "on_tap",
+          "file": "BT-C04-Bai-tap-cuoi-chuong-IV.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            103,
+            104
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c05",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương V",
+      "number": 5,
+      "title": "Giới hạn. Hàm số liên tục",
+      "dir": "Chuong-05-Gioi-han-Ham-so-lien-tuc",
+      "children": [
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Giới hạn của dãy số",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Gioi-han-cua-day-so.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            105,
+            111
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Giới hạn của hàm số",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Gioi-han-cua-ham-so.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            112,
+            119
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Hàm số liên tục",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Ham-so-lien-tuc.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            120,
+            123
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c05",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương V",
+          "lesson_type": "on_tap",
+          "file": "BT-C05-Bai-tap-cuoi-chuong-V.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            124,
+            124
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-01",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Một vài áp dụng của Toán học trong tài chính",
+          "lesson_type": "thuc_hanh",
+          "file": "HD01-Mot-vai-ap-dung-cua-Toan-hoc-trong-tai-chinh.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            125,
+            128
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-02",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Lực căng mặt ngoài của nước",
+          "lesson_type": "thuc_hanh",
+          "file": "HD02-Luc-cang-mat-ngoai-cua-nuoc.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+          "pdf_pages": [
+            129,
+            130
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu thuật ngữ (Tập một)",
+      "file": null,
+      "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+      "pdf_pages": [
+        131,
+        131
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ (Tập một)",
+      "file": "Bang-giai-thich-thuat-ngu-Tap-1.md",
+      "source_file": "SGK TOAN 11 - KNTT - TAP 1.pdf",
+      "pdf_pages": [
+        132,
+        132
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "huong-dan-tap-2",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách (Tập hai)",
+      "file": null,
+      "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-2",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục (Tập hai)",
+      "file": null,
+      "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c06",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VI",
+      "number": 6,
+      "title": "Hàm số mũ và hàm số lôgarit",
+      "dir": "Chuong-06-Ham-so-mu-va-ham-so-logarit",
+      "children": [
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Luỹ thừa với số mũ thực",
+          "lesson_type": "ly_thuyet",
+          "file": "B18-Luy-thua-voi-so-mu-thuc.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            5,
+            10
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Lôgarit",
+          "lesson_type": "ly_thuyet",
+          "file": "B19-Logarit.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            11,
+            16
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Hàm số mũ và hàm số lôgarit",
+          "lesson_type": "ly_thuyet",
+          "file": "B20-Ham-so-mu-va-ham-so-logarit.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            17,
+            20
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Phương trình, bất phương trình mũ và lôgarit",
+          "lesson_type": "ly_thuyet",
+          "file": "B21-Phuong-trinh-bat-phuong-trinh-mu-va-logarit.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            21,
+            25
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c06",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương VI",
+          "lesson_type": "on_tap",
+          "file": "BT-C06-Bai-tap-cuoi-chuong-VI.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            26,
+            27
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c07",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VII",
+      "number": 7,
+      "title": "Quan hệ vuông góc trong không gian",
+      "dir": "Chuong-07-Quan-he-vuong-goc-trong-khong-gian",
+      "children": [
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Hai đường thẳng vuông góc",
+          "lesson_type": "ly_thuyet",
+          "file": "B22-Hai-duong-thang-vuong-goc.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            28,
+            31
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Đường thẳng vuông góc với mặt phẳng",
+          "lesson_type": "ly_thuyet",
+          "file": "B23-Duong-thang-vuong-goc-voi-mat-phang.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            32,
+            38
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 24",
+          "number": 24,
+          "title": "Phép chiếu vuông góc. Góc giữa đường thẳng và mặt phẳng",
+          "lesson_type": "ly_thuyet",
+          "file": "B24-Phep-chieu-vuong-goc-Goc-giua-duong-thang-va-mat-phang.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            39,
+            44
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Hai mặt phẳng vuông góc",
+          "lesson_type": "ly_thuyet",
+          "file": "B25-Hai-mat-phang-vuong-goc.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            45,
+            54
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b26",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 26",
+          "number": 26,
+          "title": "Khoảng cách",
+          "lesson_type": "ly_thuyet",
+          "file": "B26-Khoang-cach.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            55,
+            61
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b27",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 27",
+          "number": 27,
+          "title": "Thể tích",
+          "lesson_type": "ly_thuyet",
+          "file": "B27-The-tich.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            62,
+            64
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c07",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương VII",
+          "lesson_type": "on_tap",
+          "file": "BT-C07-Bai-tap-cuoi-chuong-VII.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            65,
+            66
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c08",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VIII",
+      "number": 8,
+      "title": "Các quy tắc tính xác suất",
+      "dir": "Chuong-08-Cac-quy-tac-tinh-xac-suat",
+      "children": [
+        {
+          "id": "b28",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 28",
+          "number": 28,
+          "title": "Biến cố hợp, biến cố giao, biến cố độc lập",
+          "lesson_type": "ly_thuyet",
+          "file": "B28-Bien-co-hop-bien-co-giao-bien-co-doc-lap.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            67,
+            72
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b29",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 29",
+          "number": 29,
+          "title": "Công thức cộng xác suất",
+          "lesson_type": "ly_thuyet",
+          "file": "B29-Cong-thuc-cong-xac-suat.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            73,
+            76
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b30",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 30",
+          "number": 30,
+          "title": "Công thức nhân xác suất cho hai biến cố độc lập",
+          "lesson_type": "ly_thuyet",
+          "file": "B30-Cong-thuc-nhan-xac-suat-cho-hai-bien-co-doc-lap.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            77,
+            79
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c08",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương VIII",
+          "lesson_type": "on_tap",
+          "file": "BT-C08-Bai-tap-cuoi-chuong-VIII.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            80,
+            81
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c09",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương IX",
+      "number": 9,
+      "title": "Đạo hàm",
+      "dir": "Chuong-09-Dao-ham",
+      "children": [
+        {
+          "id": "b31",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 31",
+          "number": 31,
+          "title": "Định nghĩa và ý nghĩa của đạo hàm",
+          "lesson_type": "ly_thuyet",
+          "file": "B31-Dinh-nghia-va-y-nghia-cua-dao-ham.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            82,
+            88
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b32",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 32",
+          "number": 32,
+          "title": "Các quy tắc tính đạo hàm",
+          "lesson_type": "ly_thuyet",
+          "file": "B32-Cac-quy-tac-tinh-dao-ham.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            89,
+            95
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b33",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 33",
+          "number": 33,
+          "title": "Đạo hàm cấp hai",
+          "lesson_type": "ly_thuyet",
+          "file": "B33-Dao-ham-cap-hai.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            96,
+            97
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c09",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương IX",
+          "lesson_type": "on_tap",
+          "file": "BT-C09-Bai-tap-cuoi-chuong-IX.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            98,
+            99
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-03",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit",
+          "lesson_type": "thuc_hanh",
+          "file": "HD03-Mot-vai-mo-hinh-toan-hoc-su-dung-ham-so-mu-va-ham-so-logarit.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            100,
+            102
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-04",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Hoạt động thực hành trải nghiệm Hình học",
+          "lesson_type": "thuc_hanh",
+          "file": "HD04-Hoat-dong-thuc-hanh-trai-nghiem-Hinh-hoc.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            103,
+            105
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "on-tap-cuoi-nam",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập ôn tập cuối năm",
+          "lesson_type": "on_tap",
+          "file": "On-tap-cuoi-nam.md",
+          "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+          "pdf_pages": [
+            106,
+            110
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu thuật ngữ (Tập hai)",
+      "file": null,
+      "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+      "pdf_pages": [
+        111,
+        111
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ (Tập hai)",
+      "file": "Bang-giai-thich-thuat-ngu-Tap-2.md",
+      "source_file": "SGK TOAN 11 - KNTT - TAP 2.pdf",
+      "pdf_pages": [
+        112,
+        112
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Toán 11 – Kết nối tri thức với cuộc sống gồm 2 tập: Tập một (134 trang PDF, Chương I–V, Bài 1–17, 5 bài tập cuối chương, 2 chủ đề Hoạt động thực hành trải nghiệm và các bảng tra cứu/giải thích thuật ngữ) và Tập hai (114 trang PDF, Chương VI–IX, Bài 18–33, 4 bài tập cuối chương, 2 chủ đề Hoạt động thực hành trải nghiệm, Bài tập ôn tập cuối năm và các bảng tra cứu/giải thích thuật ngữ). Độ lệch trang (printed_offset) bằng 1 xuyên suốt cả 2 tập (trang PDF = trang in + 1)."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-06",
+      "scope": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "c07",
+        "c08",
+        "c09",
+        "bang-giai-thich-thuat-ngu-tap-1",
+        "bang-giai-thich-thuat-ngu-tap-2"
+      ],
+      "terms": 298,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán mẫu phân tầng 30 mục (seed 11: 22 mục in_source và 8 mục described trải đều cả 9 Chương và Bảng giải thích thuật ngữ cuối sách, tập trung vào công thức LaTeX cong_thuc và mô tả mo_ta theo hồ sơ môn toan.json) đối chiếu trực tiếp với 29 ảnh trang SGK gốc Tập 1 (PDF 24, 25, 27, 31, 44, 49, 55, 63, 67, 69, 74, 76, 100, 102, 111, 116, 121) và Tập 2 (PDF 6, 23, 40, 55, 57, 63, 68, 69, 77, 83, 88, 112): khớp 100% nội dung giải nghĩa, kí hiệu toán học, số trang PDF/trang in và mục (0 lỗi = 0.0%). Toàn bộ 33/33 mục thuật ngữ cuối sách được bao phủ 100%."
+    }
+  ],
+  "last_session_note": "2026-11-06: Hoàn thành 100% bộ sách Toán 11 (Chương I–IX, Bài 1–33, 9 bài tập cuối chương, 4 hoạt động thực hành trải nghiệm, Ôn tập cuối năm và 2 Bảng giải thích thuật ngữ). Đạt Cổng 0, Cổng 1 (49 file verified, 257 hình minh hoạ 300 DPI), Cổng 2 & 2b (9 từ điển Tầng 2 với 302 thuật ngữ: 213 in_source, 85 described, 4 out_of_source, 1 ghi chú nguồn đóng, 0 ghi chú mở; 100% độ phủ ứng viên và 33/33 mục bảng thuật ngữ cuối sách), Cổng 3 (dataset/toan_11.json hợp lệ schema) và Cổng 4 (kiểm toán mẫu 30 mục đạt 0% lỗi)."
+}
