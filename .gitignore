@@ -1,9 +1,10 @@
-# Python artifacts
+# Python & test caches
 __pycache__/
 *.py[cod]
 *$py.class
+.pytest_cache/
 
-# Cache OCR (tự sinh, chỉ để kiểm tra tự động; xóa được, chạy lại ocr_pages.py để tạo lại)
+# Cache OCR & kiểm tra hình (tự sinh, xóa được)
 cache/
 
 # File sao lưu tự động và file tạm
@@ -11,11 +12,9 @@ cache/
 *.tmp
 *.temp
 scratch/
-
-# File kiểm định mẫu tạm thời (sinh ra ở Giai đoạn 4, xóa sau khi kiểm tra)
 mau_kiem_tra.md
 sample_audit.md
-textbook/**/sample_audit.md
+lessons/**/sample_audit.md
 
 # Sách PDF nguồn (tệp dung lượng lớn và có bản quyền)
 sgk/
@@ -28,12 +27,13 @@ sgk/
 Thumbs.db
 
 # Runtime storage & SQLite databases
-storage/
 *.db
 *.db-shm
 *.db-wal
 
-# Dự án con độc lập (repo riêng)
+# Dự án con độc lập & kho lưu trữ cũ
 review-station/
-_Huong-dan
-_SGK-Nguyen-ban
+archive/_Huong-dan/
+archive/_SGK-Nguyen-ban/
+archive/sgk_diff/
+archive/storage/

@@ -1,0 +1,21 @@
+# Danh sách phân tách đồng âm & xung đột thuật ngữ liên môn (Ver 2)
+
+Các trường hợp trùng tên Tiếng Việt nhưng khác bản chất khái niệm giữa các môn (hoặc nội môn) đã được phân tách sang khóa Tiếng Anh riêng.
+
+| Thuật ngữ EN | Thuật ngữ VI | Loại | Chi tiết đối chiếu | Trạng thái |
+|---|---|---|---|---|
+| parallelogram law of forces | Quy tắc hình bình hành | Đồng âm Tiếng Việt liên môn | `parallelogram law of vector addition` (Toán học) vs `parallelogram law of forces` (Vật lí) | Đã đóng (tách theo chuyên ngành) |
+| modelling method | Phương pháp mô hình | Đồng âm Tiếng Việt liên môn | `modeling method` (Vật lí) vs `modelling method` (Hóa học) | Đã đóng (tách theo chuyên ngành) |
+| negative electrode | Cực âm | Đồng âm Tiếng Việt liên môn | `negative terminal` (Vật lí) vs `negative electrode` (Hóa học) | Đã đóng (tách theo chuyên ngành) |
+| positive electrode | Cực dương | Đồng âm Tiếng Việt liên môn | `positive terminal` (Vật lí) vs `positive electrode` (Hóa học) | Đã đóng (tách theo chuyên ngành) |
+| malleability | Tính dẻo | Đồng âm Tiếng Việt liên môn | `plasticity` (Vật lí) vs `malleability` (Hóa học) | Đã đóng (tách theo chuyên ngành) |
+| computer virus | Virus | Đồng âm Tiếng Việt liên môn | `virus` (Sinh học) vs `computer virus` (Tin học) | Đã đóng (tách theo chuyên ngành) |
+| file fragmentation | Phân mảnh | Đồng âm Tiếng Việt liên môn | `fragmentation` (Sinh học) vs `file fragmentation` (Tin học) | Đã đóng (tách theo chuyên ngành) |
+| resolution | Độ phân giải | Đồng âm Tiếng Việt liên môn | `measurement resolution` (Vật lí) vs `resolution` (Tin học) | Đã đóng (tách theo chuyên ngành) |
+| Big-O sum rule | Quy tắc cộng | Đồng âm Tiếng Việt liên môn | `rule of sum` (Toán học) vs `Big-O sum rule` (Tin học) | Đã đóng (tách theo chuyên ngành) |
+| Big-O product rule | Quy tắc nhân | Đồng âm Tiếng Việt liên môn | `rule of product` (Toán học) vs `Big-O product rule` (Tin học) | Đã đóng (tách theo chuyên ngành) |
+| endogenic force | Nội lực | Đồng âm Tiếng Việt liên môn | `internal force` (Vật lí) vs `endogenic force` (Địa lí) | Đã đóng (tách theo chuyên ngành) |
+| exogenic force | Ngoại lực | Đồng âm Tiếng Việt liên môn | `external force` (Vật lí) vs `exogenic force` (Địa lí) | Đã đóng (tách theo chuyên ngành) |
+| service | Dịch vụ | Đồng âm Tiếng Việt liên môn | `services` (Địa lí) vs `service` (Giáo dục Kinh tế và Pháp luật) | Đã đóng (tách theo chuyên ngành) |
+| right of use | Quyền sử dụng | Đồng âm Tiếng Việt liên môn | `software license` (Tin học) vs `right of use` (Giáo dục Kinh tế và Pháp luật) | Đã đóng (tách theo chuyên ngành) |
+| symbol | Biểu tượng | Đồng âm Tiếng Việt liên môn | `icon` (Tin học) vs `symbol` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |

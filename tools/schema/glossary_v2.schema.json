@@ -1,0 +1,213 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://textbook.local/schema/glossary_v2.schema.json",
+  "title": "Glossary V2 Dataset",
+  "description": "Schema chuẩn cho kho từ điển thuật ngữ liên cấp – liên môn Ver 2 (glossary_master.json và by_subject/<mon>.json).",
+  "type": "object",
+  "required": ["meta", "entries"],
+  "additionalProperties": false,
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["schema_version", "kind", "generated_at", "counts"],
+      "additionalProperties": false,
+      "properties": {
+        "schema_version": { "type": "string", "const": "2.0" },
+        "kind": { "type": "string", "enum": ["master", "subject"] },
+        "subject_filter": {
+          "type": ["string", "null"],
+          "enum": [
+            "Toán học",
+            "Vật lí",
+            "Hóa học",
+            "Sinh học",
+            "Tin học",
+            "Địa lí",
+            "Lịch sử",
+            "Giáo dục Kinh tế và Pháp luật",
+            "Ngữ văn",
+            "Tiếng Anh",
+            null
+          ]
+        },
+        "generated_at": { "type": "string" },
+        "source_markdown_files": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "counts": {
+          "type": "object",
+          "required": ["entries", "by_origin_discipline", "multi_context_entries", "alt_explanation_entries"],
+          "additionalProperties": true,
+          "properties": {
+            "entries": { "type": "integer", "minimum": 0 },
+            "by_origin_discipline": {
+              "type": "object",
+              "additionalProperties": { "type": "integer", "minimum": 0 }
+            },
+            "multi_context_entries": { "type": "integer", "minimum": 0 },
+            "alt_explanation_entries": { "type": "integer", "minimum": 0 },
+            "conflicts": { "type": "integer", "minimum": 0 },
+            "review_candidates": { "type": "integer", "minimum": 0 }
+          }
+        }
+      }
+    },
+    "entries": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/entry" }
+    },
+    "conflicts": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/conflict" }
+    },
+    "review_candidates": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/review_candidate" }
+    }
+  },
+  "$defs": {
+    "entry": {
+      "type": "object",
+      "required": [
+        "id",
+        "term_en",
+        "term_vi",
+        "term_vi_display",
+        "aliases_vi",
+        "origin_discipline",
+        "explanation_en",
+        "explanation_vi",
+        "alt_explanations",
+        "contexts",
+        "disambiguation_notes",
+        "sources",
+        "markdown_file"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+        "term_en": { "type": "string", "minLength": 1 },
+        "term_vi": { "type": "string", "minLength": 1 },
+        "term_vi_display": { "type": "string", "minLength": 1 },
+        "aliases_vi": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "origin_discipline": {
+          "type": "string",
+          "enum": [
+            "Toán học",
+            "Vật lí",
+            "Hóa học",
+            "Sinh học",
+            "Tin học",
+            "Địa lí",
+            "Lịch sử",
+            "Giáo dục Kinh tế và Pháp luật",
+            "Ngữ văn",
+            "Tiếng Anh"
+          ]
+        },
+        "explanation_en": { "type": "string", "minLength": 5 },
+        "explanation_vi": { "type": "string", "minLength": 5 },
+        "alt_explanations": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["source_label", "explanation_en", "explanation_vi"],
+            "additionalProperties": false,
+            "properties": {
+              "source_label": { "type": "string", "minLength": 1 },
+              "explanation_en": { "type": "string", "minLength": 5 },
+              "explanation_vi": { "type": "string", "minLength": 5 }
+            }
+          }
+        },
+        "contexts": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["raw", "disciplines", "grade", "lesson_ref"],
+            "additionalProperties": false,
+            "properties": {
+              "raw": { "type": "string", "minLength": 1 },
+              "disciplines": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "enum": [
+                    "Toán học",
+                    "Vật lí",
+                    "Hóa học",
+                    "Sinh học",
+                    "Tin học",
+                    "Địa lí",
+                    "Lịch sử",
+                    "Giáo dục Kinh tế và Pháp luật",
+                    "Ngữ văn",
+                    "Tiếng Anh"
+                  ]
+                }
+              },
+              "grade": { "type": ["integer", "null"], "enum": [10, 11, 12, null] },
+              "lesson_ref": { "type": ["string", "null"] }
+            }
+          }
+        },
+        "disambiguation_notes": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["raw", "book", "unit", "group", "lesson", "section", "printed_pages"],
+            "additionalProperties": false,
+            "properties": {
+              "raw": { "type": "string", "minLength": 1 },
+              "book": { "type": "string", "minLength": 1 },
+              "unit": { "type": ["string", "null"] },
+              "group": { "type": ["string", "null"] },
+              "lesson": { "type": ["string", "null"] },
+              "section": { "type": ["string", "null"] },
+              "printed_pages": {
+                "type": "array",
+                "minItems": 1,
+                "items": { "type": "integer", "minimum": 1 }
+              }
+            }
+          }
+        },
+        "markdown_file": { "type": "string", "minLength": 1 }
+      }
+    },
+    "conflict": {
+      "type": "object",
+      "required": ["term_en", "term_vi", "kind", "detail", "status"],
+      "additionalProperties": false,
+      "properties": {
+        "term_en": { "type": "string" },
+        "term_vi": { "type": "string" },
+        "kind": { "type": "string" },
+        "detail": { "type": "string" },
+        "status": { "type": "string", "enum": ["open", "resolved"] }
+      }
+    },
+    "review_candidate": {
+      "type": "object",
+      "required": ["term_vi", "term_en", "unit", "context", "reason"],
+      "additionalProperties": false,
+      "properties": {
+        "term_vi": { "type": "string" },
+        "term_en": { "type": ["string", "null"] },
+        "unit": { "type": "string" },
+        "context": { "type": "string" },
+        "reason": { "type": "string" }
+      }
+    }
+  }
+}

@@ -2,13 +2,13 @@
 
 ## Lệnh kích hoạt bộ mới
 
-Khi người dùng nói **`Bắt đầu làm bộ <unit>`** (hoặc `Khởi tạo và xử lý bộ <unit>`), làm lần lượt các giai đoạn dưới đây. Định dạng chi tiết theo [Spec](specs/2026-10-27-textbook-framework-spec.md).
+Khi người dùng nói **`Bắt đầu làm bộ <unit>`** (hoặc `Khởi tạo và xử lý bộ <unit>`), làm lần lượt các giai đoạn dưới đây. Định dạng chi tiết theo [Spec v1](glossary/v1/rules/2026-10-27-textbook-framework-spec.md) và [Spec v2](glossary/v2/rules/2026-11-11-glossary-v2-spec.md).
 
 ### Giai đoạn 1: Dựng khung
 
-- Mở hồ sơ môn `specs/profiles/<mon>.json` (spec mục 10). Nếu `status: chua_khao_sat`: khảo sát 1–2 bài đầu trên ảnh PDF, trả lời `open_questions`, sửa hồ sơ, đổi `status: da_kiem_chung`; điểm nào cần người dùng chốt (ví dụ phạm vi chép nguyên văn) thì hỏi trước. Chưa xong bước này thì chưa làm Tầng 1 hàng loạt.
+- Mở hồ sơ môn `tools/profiles/<mon>.json` (spec mục 10). Nếu `status: chua_khao_sat`: khảo sát 1–2 bài đầu trên ảnh PDF, trả lời `open_questions`, sửa hồ sơ, đổi `status: da_kiem_chung`; điểm nào cần người dùng chốt (ví dụ phạm vi chép nguyên văn) thì hỏi trước. Chưa xong bước này thì chưa làm Tầng 1 hàng loạt.
 - Tìm file `SGK …` trong `sgk/khoi_<lop>/<unit>/` (README mục 5). Hiện chỉ làm SGK, các sách khác bỏ qua. Không có SGK thì báo người dùng. Không tự tải, không dùng nguồn ngoài KNTT.
-- Tạo `textbook/khoi_<lop>/<unit>/`:
+- Tạo `lessons/khoi_<lop>/<unit>/`:
   * `progress.json`: cây mục lục theo đúng kiểu của sách (Phần/Chương/Chủ đề/Unit… → Bài/Lesson), **đọc từ ảnh trang** (tiền tố và tên đúng như in), `pdf_pages` cho từng bài, `status: pending`. Kiểm tra bằng `progress.schema.json`. Điểm đặc thù của sách (mục lục khác trang đầu…) ghi vào `notes`.
 - Chạy `ocr_pages.py <unit>` để có cache OCR.
 - Thêm một dòng vào bảng README mục 9.

@@ -11,33 +11,38 @@ Dựng từ PDF sách Kết nối tri thức (KNTT) hai lớp nội dung cho t�
 
 Từ hai tầng này, script xuất ra JSON theo schema riêng của dự án để làm **ground truth** cho agent sinh câu hỏi và cho các hệ thống khác đọc. Agent sinh câu hỏi không được tự bịa định nghĩa.
 
-Định dạng chi tiết của từng tầng nằm ở **[Spec](specs/2026-10-27-textbook-framework-spec.md)**. README này chỉ tóm tắt quy tắc và cách làm việc.
+Định dạng chi tiết nằm ở:
+- **Từ điển v1 & Bài học gốc:** [Spec v1](glossary/v1/rules/2026-10-27-textbook-framework-spec.md)
+- **Từ điển v2 (song ngữ liên môn – liên cấp):** [Spec v2](glossary/v2/rules/2026-11-11-glossary-v2-spec.md)
 
-> Ngày 2026-10-27 dự án đã bỏ hệ thống `glossary/` cũ và làm lại từ đầu. Dữ liệu cũ chỉ còn trong lịch sử git. **Không dùng dữ liệu cũ làm nguồn.**
-
-## 2. Bộ (unit) và cấu trúc thư mục
-
-**Bộ** là một môn của một lớp, đặt tên `{mon}_{lop}`: viết thường, không dấu, nối bằng `_` (ví dụ `sinh_12`, `toan_10`).
+## 2. Cấu trúc thư mục toàn dự án
 
 ```
-textbook/                          # GỐC DỰ ÁN (repo)
+textbook/                          # GỐC DỰ ÁN
 ├── README.md, CLAUDE.md
-├── specs/                         # spec lõi (chuẩn duy nhất) + profiles/<mon>.json (hồ sơ từng môn)
-├── plans/                         # plan thí điểm theo bộ
-├── sgk/khoi_<lop>/<unit>/SGK*.pdf # NGUỒN: hiện chỉ SGK (chỉ đọc, không đưa vào git)
-├── _SGK-Nguyen-ban/, _Huong-dan/  # mẫu tham chiếu do người dùng làm tay (repo riêng)
-├── cache/ocr/<unit>/<pdf>/pNNNN.txt # cache OCR: chữ thô từng trang, chỉ để máy kiểm tra Tầng 1 (tự sinh, không đưa vào git)
-├── cache/figures/<unit>/           # lưới đo bbox và ảnh kiểm tra khung cắt hình (tự sinh)
-└── textbook/                      # KẾT QUẢ
-    ├── schema/                    # unit.schema.json (JSON xuất), progress.schema.json (mục lục), profile.schema.json (hồ sơ môn)
-    ├── tessdata/                  # dữ liệu OCR tesseract (vie, eng)
-    ├── scripts/                   # công cụ (spec mục 9)
-    ├── dataset/<unit>.json        # JSON xuất tự động, KHÔNG sửa tay
-    └── khoi_<lop>/<unit>/
-        ├── progress.json          # hồ sơ duy nhất của bộ: cây mục lục, dải trang, tiến độ, ghi chú, kết quả kiểm tra
-        ├── Tu-dien-<Mon>-<lop>-<Kind>-N.md          # Tầng 2 (mỗi Chương/Chủ đề/Unit… một file)
-        ├── <Kind>-NN-…/[<Kind>-NN-…/]<Mã>-….md      # Tầng 1, thư mục theo cây mục lục
-        └── … /img/  +  figures.json                 # hình cắt từ trang sách
+├── sgk/khoi_<lop>/<unit>/SGK*.pdf # Sách PDF nguồn (chỉ đọc, không đưa vào git)
+├── lessons/khoi_<lop>/<unit>/     # BÀI HỌC GỐC & HÌNH ẢNH (dùng chung cho mọi version từ điển)
+│   ├── progress.json              # Cây mục lục, dải trang, tiến độ và lịch sử kiểm tra
+│   ├── <Kind>-NN-…/<Mã>-….md      # Văn bản bài học nguyên văn (Tầng 1)
+│   └── … /img/  +  figures.json   # Hình minh họa cắt từ trang sách
+├── glossary/                      # CÁC PHIÊN BẢN TỪ ĐIỂN (ngang hàng, mở rộng v3, v4... về sau)
+│   ├── v1/                        # Phiên bản 1 (bảng 4 cột chia theo chương/bài)
+│   │   ├── markdown/khoi_<lop>/<unit>/Tu-dien-*.md
+│   │   ├── data/<unit>.json
+│   │   ├── rules/
+│   │   └── reports/
+│   └── v2/                        # Phiên bản 2 (song ngữ Anh – Việt, gộp theo môn)
+│       ├── markdown/Tu-dien-<Mon>.md
+│       ├── data/ (glossary_master.json & by_subject/<mon>.json)
+│       ├── rules/
+│       ├── reference/             # File mẫu đối chứng của người dùng
+│       └── reports/
+├── review-station/                # Ứng dụng web duyệt từ điển
+├── tools/                         # Công cụ tự động, cấu hình môn, schema và dữ liệu OCR
+│   ├── v1/, v2/
+│   ├── schema/, profiles/, tessdata/
+├── cache/                         # Bộ nhớ đệm OCR & kiểm tra hình (tự sinh, không đưa vào git)
+└── archive/                       # Lưu trữ tài liệu tham chiếu và bản nháp cũ
 ```
 
 ## 3. Đầu mỗi phiên
@@ -90,13 +95,15 @@ Cài môi trường khi đổi máy: `python -m pip install -r requirements.txt`
 Chạy từ gốc dự án. Các script đang được viết theo plan thí điểm Sinh 12; chưa viết xong thì chưa có.
 
 ```
-python textbook/scripts/ocr_pages.py <unit> [--file F] [--pages a-b]        # render + OCR, ghi cache/ocr/<unit>/
-python textbook/scripts/crop_figures.py <unit> --grid <trang>...              # vẽ lưới 10 pt để đo bbox hình
-python textbook/scripts/crop_figures.py <unit> <thư mục nhóm>                # cắt hình theo figures.json, kiểm tra cạnh khung
-python textbook/scripts/check_lesson.py <unit> [--lesson T]                  # cổng 1
-python textbook/scripts/check_dict.py <unit> [--file Tu-dien-….md]           # cổng 2
-python textbook/scripts/check_coverage.py <unit> [--file Tu-dien-….md]       # cổng 2b (độ phủ)
-python textbook/scripts/export_unit.py <unit>                                # cổng 3 → textbook/dataset/<unit>.json
+python tools/v1/ocr_pages.py <unit> [--file F] [--pages a-b]        # render + OCR, ghi cache/ocr/<unit>/
+python tools/v1/crop_figures.py <unit> --grid <trang>...            # vẽ lưới 10 pt để đo bbox hình
+python tools/v1/crop_figures.py <unit> <thư mục nhóm>              # cắt hình theo figures.json, kiểm tra cạnh khung
+python tools/v1/check_lesson.py <unit> [--lesson T]                # cổng 1 (lessons/)
+python tools/v1/check_dict.py <unit> [--file Tu-dien-….md]         # cổng 2 (glossary/v1/)
+python tools/v1/check_coverage.py <unit> [--file Tu-dien-….md]     # cổng 2b (độ phủ v1)
+python tools/v1/export_unit.py <unit>                              # cổng 3 → glossary/v1/data/<unit>.json
+python tools/v2/check_glossary_v2.py --strict-warnings             # kiểm định từ điển v2
+python tools/v2/build_glossary_v2.py                               # xuất dữ liệu glossary/v2/data/
 ```
 
 ## 9. Trạng thái các bộ
