@@ -1,0 +1,43 @@
+{
+  "status": "da_kiem_chung",
+  "verified_on": "lich_su_va_dia_ly_6, 2026-11-20",
+  "profile": "lich_su_va_dia_ly",
+  "subjects": [
+    "lich_su_va_dia_ly",
+    "ls_va_dl"
+  ],
+  "section_levels": [
+    {
+      "prefix": "## ",
+      "regex": "^([IVX]+|\\d+)\\. ",
+      "example": "## 1. Lịch sử là gì?"
+    },
+    {
+      "prefix": "### ",
+      "regex": "^([a-z]|\\d+)[.)] ",
+      "example": "### a) Nguồn gốc loài người"
+    },
+    {
+      "prefix": "**",
+      "regex": "^([a-z]|\\d+)[.)] ",
+      "example": "**a) Điều kiện tự nhiên**"
+    }
+  ],
+  "extra_headings": [
+    "^🚀\\s*Vận dụng.*",
+    "^Luyện tập và Vận dụng.*",
+    "^Vận dụng.*",
+    "^PHẦN (LỊCH SỬ|ĐỊA LÍ)$"
+  ],
+  "formula": "none",
+  "audit_focus": [
+    "mo_ta",
+    "hinh"
+  ],
+  "conventions": [
+    "Mở đầu bài học bằng khối ## 🎯 Học xong bài này, em sẽ: và ## 🔴 Mở đầu; phân cấp mục lớn ## 1. ... và tiểu mục ### a) ...; kết bài bằng ## ✏️ Luyện tập và Vận dụng (các hộp Em có biết?, Kết nối với văn hoá/địa lí/ngài nay, Tư liệu chép trong khối trích dẫn > ).",
+    "Tên riêng người và địa danh nước ngoài giữ nguyên cách phiên âm có gạch nối như sách in ở Tầng 1 (Ai Cập, Lưỡng Hà, Ấn Độ, Hy Lạp, La Mã, Chăm-pa, Grin-uých, Luân Đôn...); ở Tầng 2 có thể kèm nguyên ngữ theo Bảng phiên âm cuối sách.",
+    "Đơn vị đo lường và kí hiệu địa lí – lịch sử giữ nguyên cách viết trong sách: TCN, km, km², °C, mm, ‰, °, '."
+  ],
+  "open_questions": []
+}

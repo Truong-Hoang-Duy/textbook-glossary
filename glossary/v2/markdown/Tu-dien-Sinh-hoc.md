@@ -335,6 +335,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Chỉ hệ thống túi chứa khí hỗ trợ thông khí thông với phổi chim (không phải nơi trực tiếp trao đổi khí như phế nang ở Thú).
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B9 (Mục II.4), tr. 58
 
+### algae
+- **Tiếng Việt:** Tảo (rong biển)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of unicellular or multicellular protists living mainly in aquatic or moist environments whose cells contain chlorophyll-bearing chloroplasts, enabling autotrophic photosynthesis and supplying oxygen to aquatic ecosystems.
+- **Giải thích (VI):** Nhóm nguyên sinh vật đơn bào hoặc đa bào sống chủ yếu ở môi trường nước hoặc nơi ẩm ướt, tế bào có lục lạp chứa diệp lục giúp thực hiện quang hợp tự dưỡng và cung cấp oxygen cho hệ sinh thái dưới nước.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 30 (Mục I, II): Nhóm nguyên sinh vật có khả năng quang hợp và có giá trị làm thực phẩm cho con người, thức ăn cho động vật thuỷ sinh.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục I), tr. 102; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục I), tr. 103; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục II.1), tr. 103
+
+### algal bloom
+- **Tiếng Việt:** Tảo nở hoa
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The phenomenon in which algae proliferate rapidly in nutrient-rich waters (such as wastewater-receiving areas) to produce massive populations, discoloring an entire body of water green, red, or yellow depending on the algal species and degrading water quality.
+- **Giải thích (VI):** Hiện tượng tảo sinh trưởng rất nhanh tạo ra số lượng lớn cá thể trong môi trường nước giàu chất dinh dưỡng (như nơi tiếp nhận nước thải), làm biến đổi màu nước cả một vùng sang xanh, đỏ hoặc vàng tuỳ loại tảo và gây ô nhiễm môi trường nước.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 30 (Em có biết?): Tác hại sinh thái khi tảo phát triển quá mức trong môi trường nước giàu chất dinh dưỡng.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục III.2), tr. 105
+
 ### alien species
 - **Tiếng Việt:** Loài ngoại lai
 - **Chuyên ngành gốc:** Sinh học
@@ -415,6 +431,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 13 (Mục I.2, Hình 13.1a): Sản phẩm thu được khi phân giải cả hai liên kết cao năng của phân tử ATP.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 04, B13 (Mục I.2), tr. 79
 
+### amphibian
+- **Tiếng Việt:** Lớp Lưỡng cư (Lưỡng cư)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The earliest terrestrial class of vertebrates, typically inhabiting moist environments, whose larvae develop in water and breathe through gills while adults live on land and breathe through both skin and lungs.
+- **Giải thích (VI):** Lớp động vật có xương sống ở cạn đầu tiên thường sống nơi ẩm ướt như bờ ao, đầm lầy; giai đoạn ấu trùng phát triển trong nước và hô hấp bằng mang, còn con trưởng thành sống trên cạn và hô hấp bằng da cùng phổi.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.2): nhận diện lớp động vật có xương sống qua các đại diện như cóc nhà, ếch đồng, ếch giun và cá cóc Tam Đảo.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 128; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 128, 129
+
 ### amylase
 - **Tiếng Việt:** Amylase
 - **Chuyên ngành gốc:** Sinh học
@@ -477,6 +501,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 12 (Mục I, III.1, IV.2, VI): Phân loại đột biến số lượng nhiễm sắc thể, các dạng lệch bội và hậu quả gây mất cân bằng gene (trong bài còn gọi là đột biến dị bội).
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B12 (Mục I), tr. 60; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục III.1.b), tr. 63; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục IV.2), tr. 64; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục VI), tr. 66
 
+### angiosperm
+- **Tiếng Việt:** Thực vật hạt kín (Hạt kín; ngành Hạt kín)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The most structurally advanced and species-rich group of vascular plants, characterized by diverse vegetative organs and reproductive organs consisting of flowers that develop into fruits enclosing and protecting the seeds.
+- **Giải thích (VI):** Nhóm thực vật có mạch có cấu tạo hoàn thiện và số lượng loài phong phú nhất, đặc trưng bởi cơ quan sinh dưỡng đa dạng và cơ quan sinh sản là hoa, tạo quả chứa hạt được bảo vệ bên trong.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 34 (Mục II.2): Ngành thực vật tiến hoá và đa dạng nhất, phân biệt với thực vật hạt trần nhờ có hoa và hạt nằm trong quả.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục I), tr. 115; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II), tr. 117; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 118
+
+### animal
+- **Tiếng Việt:** Động vật
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of multicellular, eukaryotic organisms belonging to kingdom Animalia whose cells lack cell walls, that exhibit heterotrophic nutrition, and most of which are capable of locomotion.
+- **Giải thích (VI):** Nhóm sinh vật thuộc giới Động vật có cơ thể đa bào, tế bào nhân thực không có thành tế bào, sống dị dưỡng và hầu hết có khả năng di chuyển.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục I): Đặc điểm chung nhận diện động vật và phân biệt với thực vật, nấm.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36, tr. 125; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục I), tr. 125; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II), tr. 126
+
 ### animal behavior
 - **Tiếng Việt:** Tập tính
 - **Chuyên ngành gốc:** Sinh học
@@ -490,8 +530,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A type of eukaryotic cell making up animals that lacks a cell wall and chloroplasts, relying directly on its cholesterol-containing plasma membrane to shape and protect the cell. Its cytoplasm typically contains lysosomes for intracellular digestion and centrosomes involved in spindle formation.
 - **Giải thích (VI):** Loại tế bào nhân thực cấu tạo nên cơ thể động vật, không có thành tế bào và lục lạp nên màng sinh chất (có chứa cholesterol) trực tiếp định hình và bảo vệ tế bào. Trong tế bào chất thường có lysosome tham gia tiêu hoá nội bào và trung thể tham gia hình thành thoi phân bào.
-- **Bối cảnh:** Sinh học lớp 10, Bài 8 (Mục I, II): Đối chiếu đặc điểm cấu trúc đặc trưng với tế bào thực vật.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục I), tr. 48; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.5), tr. 51; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.10.c), tr. 54; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.11.a), tr. 55; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14), tr. 59
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A eukaryotic cell type forming animal organisms, equipped with a cell membrane, cytoplasm, nucleus, and organelles such as mitochondria, while lacking a cell wall and chloroplasts. In certain unicellular animals, it may also contain vacuoles for contraction or digestion. / VI: Loại tế bào nhân thực cấu tạo nên cơ thể động vật, có màng tế bào, tế bào chất, nhân và các bào quan như ti thể nhưng không có thành tế bào và lục lạp. Ở một số động vật đơn bào, tế bào còn có không bào thực hiện chức năng co bóp hoặc tiêu hoá.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 8 (Mục I, II): Đối chiếu đặc điểm cấu trúc đặc trưng với tế bào thực vật.
+  - Khoa học tự nhiên lớp 6, Bài 19 (Mục III): Phân biệt cấu tạo với tế bào thực vật ở sự vắng mặt của thành tế bào và lục lạp.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục I), tr. 48; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.5), tr. 51; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.10.c), tr. 54; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.11.a), tr. 55; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14), tr. 59; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 68; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 69
 
 ### animal cell technology
 - **Tiếng Việt:** Công nghệ tế bào động vật
@@ -519,6 +562,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong Bài 8, thuật ngữ chỉ dinh dưỡng dị dưỡng qua thức ăn ở động vật và người; cần phân biệt với dinh dưỡng ở thực vật (Bài 2) là quá trình hấp thụ nước, chất khoáng và đồng hoá chúng thành chất sống.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I), tr. 46; SGK Sinh học 11 KNTT, Chương 01, B8 (Mục II.3), tr. 52
 
+### Animalia
+- **Tiếng Việt:** Giới Động vật (Animalia)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A kingdom in the five-kingdom classification system comprising organisms with multicellular bodies, eukaryotic cells, and heterotrophic nutrition.
+- **Giải thích (VI):** Giới sinh vật trong hệ thống phân loại năm giới bao gồm các sinh vật có cơ thể đa bào, tế bào nhân thực và sống dị dưỡng.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 25 (Mục III): Đơn vị phân loại cấp giới của các ngành động vật trong hệ thống phân loại năm giới.
+  - *Lưu ý:* Chỉ đơn vị phân loại cấp giới (Animalia), phân biệt với khái niệm động vật (animal) chỉ các cơ thể sinh vật thuộc giới này.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục II), tr. 88; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 88; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 88, 89
+
+### annelid
+- **Tiếng Việt:** Giun đốt (ngành Giun đốt)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A phylum of invertebrates characterized by segmented bodies, typically inhabiting moist environments such as damp soil, freshwater, or saltwater.
+- **Giải thích (VI):** Ngành động vật không xương sống có cơ thể phân đốt, thường sinh sống ở môi trường ẩm ướt như đất ẩm, nước ngọt hoặc nước mặn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.1): nhận diện ngành động vật không xương sống qua các đại diện như giun đất và rươi.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II), tr. 126; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.1), tr. 126; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.1), tr. 126, 127
+
 ### antenna (biology)
 - **Tiếng Việt:** Anten (râu)
 - **Chuyên ngành gốc:** Sinh học
@@ -530,23 +591,28 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B18 (Mục IV.1), tr. 119; SGK Sinh học 11 KNTT, Bảng giải thích thuật ngữ, tr. 187
 
 ### antibiotic
-- **Tiếng Việt:** Thuốc kháng sinh (Chất kháng sinh)
+- **Tiếng Việt:** Thuốc kháng sinh (Chất kháng sinh; kháng sinh)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A therapeutic compound that kills or inhibits bacteria by blocking cell wall synthesis (such as penicillin), inhibiting bacterial enzymes, or targeting ribosomes to suppress bacterial protein synthesis.
 - **Giải thích (VI):** Hợp chất dùng để tiêu diệt hoặc ức chế vi khuẩn thông qua việc ngăn cản tổng hợp thành tế bào (như penicillin), ức chế enzyme hoặc tác động lên ribosome làm ngừng tổng hợp protein của vi khuẩn.
 - **Giải thích khác (SGK Sinh học 10):** EN: A substance secreted by microorganisms during growth or produced synthetically that inhibits the development of or kills bacteria through mechanisms such as inhibiting bacterial cell wall, protein, or nucleic acid synthesis. These compounds are widely used as drugs to treat bacterial diseases in humans and livestock. / VI: Hợp chất do vi sinh vật tiết ra trong quá trình sinh trưởng hoặc được tổng hợp nhân tạo, có tác dụng ức chế sự phát triển hoặc tiêu diệt vi khuẩn theo các cơ chế như ức chế tổng hợp thành tế bào, protein hay nucleic acid của vi khuẩn. Nhóm chất này được sử dụng rộng rãi làm thuốc điều trị các bệnh nhiễm khuẩn ở người và vật nuôi.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A medication specifically used to kill or inhibit bacteria in order to treat bacterial infections under a physician's prescription. / VI: Loại thuốc chuyên dùng để tiêu diệt hoặc ức chế vi khuẩn nhằm điều trị các bệnh nhiễm khuẩn theo chỉ định của bác sĩ.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 7 (Mục II.2, II.4): Cơ chế tác động lên cấu trúc tế bào vi khuẩn và hiện tượng kháng thuốc kháng sinh.
   - Sinh học lớp 10, Bài 21 (Mục III.3): Chất ức chế sinh trưởng có tính chọn lọc dùng điều trị bệnh nhiễm khuẩn trong y tế và thú y.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.2), tr. 45; SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.4), tr. 47; SGK Sinh học 10 KNTT, Chương 06, B21 (Mục III.3), tr. 127
+  - Khoa học tự nhiên lớp 6, Bài 27 (Mục IV): Biện pháp điều trị các bệnh do vi khuẩn gây ra và lưu ý không lạm dụng tuỳ tiện.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.2), tr. 45; SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.4), tr. 47; SGK Sinh học 10 KNTT, Chương 06, B21 (Mục III.3), tr. 127; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B27 (Mục III), tr. 93; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B27 (Mục IV), tr. 94
 
 ### antibiotic resistance
-- **Tiếng Việt:** Kháng kháng sinh
+- **Tiếng Việt:** Kháng kháng sinh (Kháng thuốc)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The phenomenon in which bacteria lose susceptibility to antibiotics, including the emergence of multidrug-resistant strains in livestock that can spread to humans and transfer resistance genes to human pathogens. Its primary causes are improper antibiotic use without medical prescription and widespread antibiotic use in animal husbandry.
 - **Giải thích (VI):** Hiện tượng vi khuẩn chống chịu lại tác dụng của thuốc kháng sinh, bao gồm cả sự xuất hiện vi khuẩn đa kháng thuốc trên vật nuôi có thể truyền sang người và truyền gene kháng thuốc cho vi khuẩn gây bệnh ở người. Nguyên nhân chính là do việc dùng kháng sinh không đúng chỉ định của bác sĩ, tự ý dùng thuốc hoặc lạm dụng rộng rãi kháng sinh trong chăn nuôi.
-- **Bối cảnh:** Sinh học lớp 10, Bài 21 (Mục III.3): Tác hại của việc lạm dụng thuốc kháng sinh trong điều trị y tế và chăn nuôi.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 06, B21 (Mục III.3), tr. 127; SGK Sinh học 10 KNTT, Chương 06, B21 (Mục III.3), tr. 128
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The phenomenon in which bacteria become able to withstand the effects of antibiotics, often arising from the indiscriminate use of antibiotics without a doctor's prescription and making disease treatment difficult. / VI: Hiện tượng vi khuẩn trở nên chống chịu được tác dụng của thuốc kháng sinh, thường phát sinh khi người bệnh sử dụng thuốc kháng sinh tuỳ tiện không theo chỉ định của bác sĩ và gây khó khăn trong điều trị bệnh.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 21 (Mục III.3): Tác hại của việc lạm dụng thuốc kháng sinh trong điều trị y tế và chăn nuôi.
+  - Khoa học tự nhiên lớp 6, Bài 27 (Mục IV): Hệ quả nguy hiểm của việc lạm dụng hoặc dùng sai thuốc kháng sinh khi điều trị bệnh nhiễm khuẩn.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 06, B21 (Mục III.3), tr. 127; SGK Sinh học 10 KNTT, Chương 06, B21 (Mục III.3), tr. 128; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B27 (Mục IV), tr. 94
 
 ### antibody
 - **Tiếng Việt:** Kháng thể (globulin miễn dịch; Ig)
@@ -672,6 +738,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại mạch máu phân nhánh từ lớn đến nhỏ có chức năng dẫn máu từ tim đến các cơ quan, với thành mạch cấu tạo gồm lớp tế bào biểu mô dẹt, lớp sợi cơ trơn – sợi đàn hồi và lớp mô liên kết.
 - **Bối cảnh:** Sinh học lớp 11, Bài 10 (Mục I, IV): Cấu tạo và chức năng các loại mạch máu trong hệ tuần hoàn.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B10 (Mục I), tr. 61; SGK Sinh học 11 KNTT, Chương 01, B10 (Mục VI.3), tr. 68
+
+### arthropod
+- **Tiếng Việt:** Chân khớp (ngành Chân khớp)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A phylum of invertebrates characterized by segmented appendages (legs) connected by movable joints, inhabiting diverse environments including living as parasites inside other organisms.
+- **Giải thích (VI):** Ngành động vật không xương sống có các phần phụ (chân) phân đốt nối với nhau bằng các khớp động, sinh sống ở nhiều môi trường khác nhau kể cả kí sinh trong cơ thể sinh vật khác.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.1): nhận biết ngành động vật không xương sống đa dạng qua các đại diện như tôm, rết, nhện, châu chấu, chuồn chuồn và ve.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.1), tr. 127
 
 ### artificial ecosystem
 - **Tiếng Việt:** Hệ sinh thái nhân tạo
@@ -811,8 +885,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A mode of nutrition and energy transformation in which organisms synthesize essential organic compounds and store energy from inorganic carbon sources (mainly CO₂), water, and minerals using light energy (photoautotrophy) or energy from inorganic substances (chemoautotrophy).
 - **Giải thích (VI):** Phương thức trao đổi chất và chuyển hoá năng lượng trong đó sinh vật tự tổng hợp các chất hữu cơ cần thiết cho cơ thể và tích luỹ năng lượng từ nguồn carbon vô cơ (chủ yếu là CO₂), nước và chất khoáng nhờ năng lượng ánh sáng (quang tự dưỡng) hoặc nguồn năng lượng từ chất vô cơ (hoá tự dưỡng).
-- **Bối cảnh:** Sinh học lớp 11, Bài 1 (Mục V, V.1): phương thức dinh dưỡng của thực vật và một số vi khuẩn, đóng vai trò cung cấp chất hữu cơ và O₂ cho sinh giới.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B1 (Mục V), tr. 8; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục V.1), tr. 8
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A mode of nutrition in which organisms use simple inorganic substances to synthesize organic compounds to sustain their bodies. Autotrophic organisms include plants, algae, and certain photosynthetic or chemosynthetic bacteria. / VI: Kiểu dinh dưỡng trong đó sinh vật sử dụng các chất vô cơ đơn giản để tổng hợp nên các chất hữu cơ nuôi sống cơ thể. Sinh vật tự dưỡng bao gồm thực vật, tảo và một số vi khuẩn quang hợp hoặc hoá hợp.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 1 (Mục V, V.1): phương thức dinh dưỡng của thực vật và một số vi khuẩn, đóng vai trò cung cấp chất hữu cơ và O₂ cho sinh giới.
+  - Khoa học tự nhiên lớp 6, Bài 25 (Mục III): Tiêu chí về kiểu dinh dưỡng dùng để phân biệt các giới sinh vật, đối lập với dị dưỡng.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B1 (Mục V), tr. 8; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục V.1), tr. 8; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 89; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195
 
 ### auxin
 - **Tiếng Việt:** Auxin
@@ -846,6 +923,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 12 (Mục IV.2, IV.3): Tế bào miễn dịch chủ chốt thực hiện đáp ứng miễn dịch dịch thể ở động vật.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.2), tr. 76; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.3), tr. 76; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.3), tr. 77
 
+### bacteria
+- **Tiếng Việt:** Vi khuẩn
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of microscopic, unicellular, prokaryotic organisms widely distributed in air, water, soil, and inside other living organisms. Bacteria exhibit various shapes, with rod, spiral, and spherical forms being the three typical morphologies.
+- **Giải thích (VI):** Nhóm sinh vật đơn bào, nhân sơ có kích thước hiển vi, phân bố rộng khắp trong không khí, nước, đất và trong cơ thể sinh vật khác. Vi khuẩn có nhiều hình dạng khác nhau, điển hình là hình que, hình xoắn và hình cầu.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 27 (Mục I, II): Đại diện điển hình của giới Khởi sinh, phân biệt với virus ở chỗ có cấu tạo tế bào.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B27, tr. 92; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B27 (Mục I), tr. 92; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B27 (Mục II), tr. 93
+
 ### bacterial cell wall
 - **Tiếng Việt:** Thành tế bào vi khuẩn
 - **Chuyên ngành gốc:** Sinh học
@@ -859,8 +944,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A type of virus that parasitizes bacteria, using a specialized structure during entry to inject its DNA into the bacterial cell while leaving its protein coat outside. Depending on environmental conditions, these viruses can replicate via the lytic cycle, the lysogenic cycle, or switch from lysogenic to lytic replication.
 - **Giải thích (VI):** Loại virus sống kí sinh ở vi khuẩn, khi xâm nhập sẽ dùng bộ phận chuyên biệt tiêm DNA vào trong tế bào vi khuẩn và bỏ lại vỏ protein ở bên ngoài. Tuỳ điều kiện môi trường, nhóm virus này có thể nhân lên theo chu kì sinh tan, chu kì tiềm tan hoặc chuyển từ tiềm tan sang sinh tan.
-- **Bối cảnh:** Sinh học lớp 10, Bài 24 (Mục I, II): Đối tượng điển hình dùng để minh hoạ cấu trúc virus phức tạp và hai chu kì nhân lên (sinh tan, tiềm tan) trong tế bào vi khuẩn.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 07, B24 (Mục I), tr. 142; SGK Sinh học 10 KNTT, Chương 07, B24 (Mục II), tr. 143; SGK Sinh học 10 KNTT, Chương 07, B24 (Mục II), tr. 144
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A type of virus that specifically infects and parasitizes bacterial cells, typically exhibiting a complex morphology combining a polyhedral head with a tail structure (for example, bacteriophage T4). / VI: Loại virus chuyên kí sinh trên tế bào vi khuẩn, điển hình có hình dạng hỗn hợp gồm phần đầu dạng khối gắn với phần đuôi (ví dụ: thể thực khuẩn T4).
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 24 (Mục I, II): Đối tượng điển hình dùng để minh hoạ cấu trúc virus phức tạp và hai chu kì nhân lên (sinh tan, tiềm tan) trong tế bào vi khuẩn.
+  - Khoa học tự nhiên lớp 6, Bài 29 (Mục I): Đại diện tiêu biểu của nhóm virus có hình dạng hỗn hợp.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 07, B24 (Mục I), tr. 142; SGK Sinh học 10 KNTT, Chương 07, B24 (Mục II), tr. 143; SGK Sinh học 10 KNTT, Chương 07, B24 (Mục II), tr. 144; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B29, tr. 98; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B29 (Mục I), tr. 98
 
 ### balanced diet
 - **Tiếng Việt:** Chế độ ăn uống khoa học
@@ -930,6 +1018,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong sinh học tế bào và vi sinh vật, phân đôi (binary fission) còn chỉ sự phân bào vô tính ở sinh vật nhân sơ và nguyên sinh vật đơn bào; ở Bài 27 Sinh học 11, thuật ngữ này chỉ sự phân chia cơ thể động vật đa bào như hải quỳ.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 06, B21 (Mục IV.1), tr. 128; SGK Sinh học 11 KNTT, Chương 04, B24 (Mục IV), tr. 157; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục I.1), tr. 170; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục III.4), tr. 180
 
+### biodiversity
+- **Tiếng Việt:** Đa dạng sinh học
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The richness of living organisms in nature, expressed most clearly by the number of species. Biodiversity sustains and stabilizes life on Earth and supports sustainable human development by providing stable water, food supplies, and a favorable living environment.
+- **Giải thích (VI):** Sự phong phú của thế giới sinh vật biểu thị rõ nét nhất ở số lượng loài sinh vật trong tự nhiên. Đa dạng sinh học giúp duy trì, ổn định sự sống trên Trái Đất và đảm bảo sự phát triển bền vững của con người qua việc cung cấp nguồn nước, lương thực, thực phẩm cùng môi trường sống thuận lợi.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The richness and variety of genetic resources, living species, and ecosystems in nature. / VI: Sự phong phú về nguồn gen, thành phần loài sinh vật và các hệ sinh thái trong tự nhiên.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 38 (Mục I, II): nhận thức vai trò của đa dạng sinh học trong tự nhiên, thực tiễn và sự cần thiết phải bảo vệ đa dạng sinh học.
+  - Lịch sử và Địa lí lớp 6, Bài 24 (Mục 2): Giá trị sinh học cốt lõi cần được giữ gìn trong rừng nhiệt đới và các hệ sinh thái tự nhiên.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B38, tr. 135; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B38 (Mục I), tr. 135; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B38 (Mục II.1), tr. 135; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 2), tr. 174
+
 ### bioethics
 - **Tiếng Việt:** Đạo đức sinh học
 - **Chuyên ngành gốc:** Sinh học
@@ -972,6 +1071,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 2 (Mục IV): Công cụ tìm kiếm gene, so sánh hệ gene nghiên cứu tiến hoá và phát triển sinh học hệ thống.
 - **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B2 (Mục IV), tr. 16; SGK Sinh học 10 KNTT, Bảng giải thích thuật ngữ, tr. 159
 
+### biological classification
+- **Tiếng Việt:** Phân loại sinh học (phân loại thế giới sống; phân loại)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The arrangement of biological organisms sharing common characteristics into groups in a definite order. This practice helps determine the position of species in the living world and reveals similarities, differences, and relationships among groups of organisms.
+- **Giải thích (VI):** Sự sắp xếp các đối tượng sinh vật có những đặc điểm chung vào từng nhóm theo một thứ tự nhất định. Hoạt động này giúp xác định vị trí của các loài trong thế giới sống, nhận diện sự giống và khác nhau cũng như mối quan hệ giữa các nhóm sinh vật.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 25 (Mục I): Khái niệm nền tảng mở đầu chủ đề phân loại thế giới sống.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25, tr. 86; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục I), tr. 86; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục II), tr. 87
+
 ### biological evolution
 - **Tiếng Việt:** Tiến hoá sinh học
 - **Chuyên ngành gốc:** Sinh học
@@ -1001,8 +1108,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The scientific discipline that studies life, focusing on living organisms and the levels of biological organization. It investigates the structure and operation of life processes to regulate and optimize biological and abiotic resources for the sustainable development of human society.
 - **Giải thích (VI):** Ngành khoa học nghiên cứu về sự sống, có đối tượng là các sinh vật cùng các cấp độ tổ chức của thế giới sống. Ngành này tìm hiểu cấu trúc và sự vận hành của các quá trình sống nhằm điều khiển, tối ưu hoá nguồn tài nguyên sinh học và phi sinh học phục vụ cho sự phát triển bền vững của xã hội loài người.
-- **Bối cảnh:** Sinh học lớp 10, Bài 1 (Mục I.1, I.2): Khái niệm, đối tượng và mục tiêu của môn Sinh học.
-- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục I.1), tr. 5; SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục I.2), tr. 5
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A major branch of natural science dedicated to studying living things. / VI: Lĩnh vực chủ yếu của khoa học tự nhiên chuyên nghiên cứu về các vật sống.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 1 (Mục I.1, I.2): Khái niệm, đối tượng và mục tiêu của môn Sinh học.
+  - Khoa học tự nhiên lớp 6, Bài 1 (Mục III): phân loại các hiện tượng tự nhiên thuộc lĩnh vực nghiên cứu về sự sống trong Bảng 1.1.
+- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục I.1), tr. 5; SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục I.2), tr. 5; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục III), tr. 8; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục IV), tr. 10; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194
 
 ### biomass
 - **Tiếng Việt:** Sinh khối
@@ -1070,6 +1180,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 23 (Mục II.1): Nhóm nhân tố sinh thái sống tác động lên sinh vật, phân biệt với nhân tố vô sinh.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B23 (Mục II.1), tr. 123
 
+### bird
+- **Tiếng Việt:** Lớp Chim (Chim)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A globally distributed class of vertebrates characterized by feather-covered bodies, forelimbs modified into wings, and lung respiration supported by a well-developed air-sac system adapted for flight.
+- **Giải thích (VI):** Lớp động vật có xương sống phân bố khắp nơi trên Trái Đất, có bộ lông vũ bao phủ cơ thể, chi trước biến đổi thành cánh và hô hấp bằng phổi với hệ thống túi khí phát triển thích nghi với đời sống bay lượn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.2): nhận diện đặc điểm thích nghi của lớp Chim qua các đại diện như chim bồ câu, chim cánh cụt, vịt trời và đà điểu.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129, 130
+
 ### bisexual flower
 - **Tiếng Việt:** Hoa lưỡng tính
 - **Chuyên ngành gốc:** Sinh học
@@ -1133,6 +1251,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hình thức trao đổi khí trong đó khí O₂ và CO₂ khuếch tán trực tiếp qua toàn bộ bề mặt cơ thể hoặc da ẩm ướt, gặp ở động vật chưa có cơ quan trao đổi khí chuyên hoá (như ngành Ruột khoang, Giun dẹp) và cả ở một số động vật có cơ quan chuyên hoá như Giun đốt, ếch.
 - **Bối cảnh:** Sinh học lớp 11, Bài 9 (Mục II.1): Hình thức trao đổi khí trực tiếp qua thành cơ thể hoặc da ẩm ướt ở động vật.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B9 (Mục II.1), tr. 55
+
+### bony fish
+- **Tiếng Việt:** Lớp Cá xương (Cá xương)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** One of the two main classes of fishes comprising species with skeletons made of bone, inhabiting saltwater, freshwater, and brackish water environments.
+- **Giải thích (VI):** Một trong hai lớp chính của cá gồm các loài có bộ xương bằng chất xương, sinh sống ở cả nước mặn, nước ngọt và nước lợ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.2): phân biệt với lớp Cá sụn qua cấu tạo bộ xương và các đại diện phổ biến như cá mè, cá chép.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 128; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 128, 129
 
 ### branchial gas exchange
 - **Tiếng Việt:** Trao đổi khí qua mang
@@ -1316,6 +1442,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 10 (Mục II.1.b): Nhóm protein vận chuyển biến đổi cấu hình khi gắn với chất cần vận chuyển trong khuếch tán tăng cường, phân biệt với protein kênh.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 03, B10 (Mục II.1.b), tr. 65
 
+### cartilaginous fish
+- **Tiếng Việt:** Lớp Cá sụn (Cá sụn)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** One of the two main classes of fishes comprising species with skeletons made of cartilage, inhabiting saltwater and brackish water environments.
+- **Giải thích (VI):** Một trong hai lớp chính của cá gồm các loài có bộ xương bằng chất sụn, sinh sống ở môi trường nước mặn và nước lợ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.2): phân biệt với lớp Cá xương qua cấu tạo bộ xương và các đại diện như cá nhám, cá đuối.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 128; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 128, 129
+
 ### Casparian strip
 - **Tiếng Việt:** Đai Caspary (vành đai Caspary)
 - **Chuyên ngành gốc:** Sinh học
@@ -1349,8 +1483,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The smallest fundamental unit of organization that possesses all characteristics of life, assembled from atoms, molecules, and organelles and serving as the structural and functional foundation for all higher levels of biological organization.
 - **Giải thích (VI):** Đơn vị tổ chức cơ bản nhỏ nhất có đầy đủ các đặc điểm của sự sống, được cấu thành từ nguyên tử, phân tử, bào quan và làm nền tảng cấu tạo cũng như vận hành cho mọi cấp độ tổ chức sống cao hơn.
-- **Bối cảnh:** Sinh học lớp 10, Bài 3 (Mục I.1, I.2, II.1): Cấp độ tổ chức cơ bản nhỏ nhất làm nền tảng cho mọi cấp bậc cao hơn của thế giới sống.
-- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.1), tr. 18; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.2), tr. 18, 19; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục II.1), tr. 20
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The microscopic fundamental structural and living unit that makes up all organisms. It carries out all essential life processes, including nutrient absorption, respiration, growth, irritability, excretion, and reproduction. / VI: Đơn vị cấu trúc và sự sống cơ bản rất nhỏ bé cấu tạo nên mọi cơ thể sinh vật. Đơn vị này thực hiện đầy đủ các quá trình sống cơ bản gồm hấp thụ chất dinh dưỡng, hô hấp, sinh trưởng, cảm ứng, bài tiết và sinh sản.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 3 (Mục I.1, I.2, II.1): Cấp độ tổ chức cơ bản nhỏ nhất làm nền tảng cho mọi cấp bậc cao hơn của thế giới sống.
+  - Khoa học tự nhiên lớp 6, Bài 18 (Mục I): Đơn vị cơ bản cấu tạo nên cơ thể thực vật, động vật, con người và vi sinh vật.
+- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.1), tr. 18; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.2), tr. 18, 19; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục II.1), tr. 20; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B18, tr. 64; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B18 (Mục I), tr. 64; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B18 (Mục II.1), tr. 64
 
 ### cell and chromosome slide preparation
 - **Tiếng Việt:** Phương pháp làm tiêu bản tế bào/nhiễm sắc thể (NST)
@@ -1385,16 +1522,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B16 (Mục I), tr. 98; SGK Sinh học 10 KNTT, Chương 05, B16 (Mục III.2), tr. 103; SGK Sinh học 10 KNTT, Bảng giải thích thuật ngữ, tr. 158
 
 ### cell differentiation
-- **Tiếng Việt:** Biệt hoá (Phân hoá tế bào)
+- **Tiếng Việt:** Biệt hoá (Phân hoá tế bào; Biệt hoá, phân hoá; biệt hoá tế bào)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The process by which unspecialized cells (such as zygotes or stem cells) transform into specialized cells with distinct morphologies and functions to build the tissues and organs of an organism.
 - **Giải thích (VI):** Quá trình biến đổi các tế bào từ dạng chung chưa phân hoá (như tế bào hợp tử hoặc tế bào gốc) trở thành các tế bào chuyên hoá có hình thái và chức năng đặc thù để cấu tạo nên các mô và cơ quan của cơ thể.
 - **Giải thích khác (SGK Sinh học 11):** EN: Process by which cells modify their structure and specialize in function during individual development. This process works alongside growth as the foundation for forming specialized tissues, organs, and organ systems in plants and animals. / VI: Quá trình các tế bào thay đổi cấu trúc và chuyên hoá về chức năng trong quá trình phát triển của cá thể. Quá trình này gắn liền với sinh trưởng và là cơ sở để hình thành các mô, cơ quan và hệ cơ quan đặc trưng ở thực vật và động vật.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The process by which generalized cells transform into cells specialized in morphology and function to build the tissues and organs of an organism. Many cell types lose their capacity to divide after completing this specialization. / VI: Quá trình biến đổi các tế bào từ dạng chung trở thành những tế bào đặc thù về hình thái và chức năng nhằm xây dựng nên các mô và cơ quan của cơ thể. Nhiều loại tế bào sau khi hoàn tất quá trình này sẽ không còn khả năng phân chia sinh sản.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 19 (Mục I.2): Quá trình phát triển từ tế bào gốc hoặc hợp tử thành các tế bào chuyên hoá của cơ thể đa bào.
   - Sinh học lớp 11, Bài 19 (Mục I.2, II): Một trong ba quá trình cấu thành và là dấu hiệu đặc trưng của sự phát triển ở sinh vật.
+  - Khoa học tự nhiên lớp 6, Bài 20 (Mục III): Giải thích vì sao chỉ một số nhóm tế bào nhất định trong cơ thể đa bào còn giữ khả năng sinh sản.
   - *Lưu ý:* Trong Sinh học, thuật ngữ này chỉ sự biệt hoá tế bào (cell differentiation), phân biệt với phép lấy vi phân hoặc đạo hàm (differentiation) trong Toán học.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B17 (Mục III), tr. 106; SGK Sinh học 10 KNTT, Chương 05, B19 (Mục I.2), tr. 110; SGK Sinh học 10 KNTT, Chương 05, B19 (Mục I.3), tr. 113; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục I.2), tr. 125; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục II), tr. 126
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B17 (Mục III), tr. 106; SGK Sinh học 10 KNTT, Chương 05, B19 (Mục I.2), tr. 110; SGK Sinh học 10 KNTT, Chương 05, B19 (Mục I.3), tr. 113; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục I.2), tr. 125; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục II), tr. 126; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B20 (Mục III), tr. 72; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
+
+### cell division
+- **Tiếng Việt:** Sự sinh sản của tế bào (sự phân chia của tế bào; phân bào)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The process in which a mother cell, upon reaching a certain size, divides to form two daughter cells. This activity increases cell number, replaces aged, damaged, or dead cells, and enables organismal growth and development.
+- **Giải thích (VI):** Quá trình một tế bào mẹ sau khi đạt kích thước nhất định thực hiện phân chia thành hai tế bào con. Hoạt động này làm tăng số lượng tế bào, thay thế các tế bào già, tổn thương hoặc đã chết, giúp cơ thể sinh trưởng và phát triển.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 20 (Mục II, III): Quá trình nhân đôi số lượng tế bào diễn ra nối tiếp sau sự lớn lên của tế bào.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 05, B20, tr. 70; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B20 (Mục I), tr. 70; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B20 (Mục II), tr. 70
 
 ### cell division regulatory signal
 - **Tiếng Việt:** Tín hiệu điều hoà phân bào
@@ -1412,13 +1559,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 2 (Mục II.2): Ứng dụng máy li tâm trong nghiên cứu các bào quan của tế bào.
 - **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B2 (Mục II.2), tr. 14
 
+### cell growth
+- **Tiếng Việt:** Sự lớn lên của tế bào
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The process by which newly formed small daughter cells gradually increase in size and mass through metabolic activity to become mature cells.
+- **Giải thích (VI):** Quá trình các tế bào con mới hình thành có kích thước nhỏ tăng dần về kích thước và khối lượng thông qua hoạt động trao đổi chất để trở thành tế bào trưởng thành.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 20 (Mục I, III): Cơ sở tế bào học cùng với sự phân chia tế bào giúp cơ thể sinh vật sinh trưởng.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 05, B20, tr. 70; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B20 (Mục I), tr. 70; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B20 (Mục II), tr. 70
+
 ### cell nucleus
 - **Tiếng Việt:** Nhân tế bào (nhân)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The largest membrane-bound structure in a eukaryotic cell (typically spherical, about 5 μm in diameter), consisting of an outer nuclear envelope enclosing DNA-containing chromatin and one or more nucleoli. It stores genetic information and serves as the control center governing all cellular activities.
 - **Giải thích (VI):** Cấu trúc lớn nhất có màng bao bọc trong tế bào nhân thực (thường có dạng hình cầu, đường kính khoảng 5 μm), gồm màng nhân bên ngoài cùng chất nhiễm sắc chứa DNA và hạch nhân ở bên trong. Đây là nơi lưu giữ thông tin di truyền và là trung tâm điều khiển mọi hoạt động sống của tế bào.
-- **Bối cảnh:** Sinh học lớp 10, Bài 8 (Mục II.1): Cấu trúc và chức năng của nhân ở tế bào nhân thực.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.1), tr. 49; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14), tr. 59
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A membrane-enclosed structure containing genetic material in eukaryotic cells that serves as the control center for cellular life activities. / VI: Cấu trúc có màng nhân bao bọc chứa vật chất di truyền ở tế bào nhân thực, đóng vai trò là trung tâm điều khiển các hoạt động sống của tế bào.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 8 (Mục II.1): Cấu trúc và chức năng của nhân ở tế bào nhân thực.
+  - Khoa học tự nhiên lớp 6, Bài 19 (Mục I, II): Thành phần đặc trưng của tế bào nhân thực, phân biệt với vùng nhân chưa có màng bao bọc ở tế bào nhân sơ.
+  - *Lưu ý:* Chỉ nhân của tế bào sinh học (cell nucleus), phân biệt với hạt nhân nguyên tử (atomic nucleus) trong Vật lí và Hóa học.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.1), tr. 49; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14), tr. 59; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19, tr. 67; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục I), tr. 67; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục II), tr. 67
 
 ### cell signaling
 - **Tiếng Việt:** Truyền tin tế bào
@@ -1443,8 +1602,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Rigid structure surrounding the outside of the plasma membrane in plant, fungal, and most bacterial cells (absent in animal cells), functioning to protect the cell and maintain its shape. Its chemical composition varies by organism group: cellulose (reinforced with substances such as lignin) in plants, chitin in fungi, and peptidoglycan in bacteria.
 - **Giải thích (VI):** Cấu trúc vững chắc bao bọc bên ngoài màng sinh chất ở tế bào thực vật, nấm và hầu hết vi khuẩn (không có ở tế bào động vật), có chức năng bảo vệ và giữ ổn định hình dạng tế bào. Thành phần cấu tạo đặc trưng theo nhóm sinh vật: bằng cellulose (gia cố thêm bởi các chất như lignin) ở thực vật, chitin ở nấm và peptidoglycan ở vi khuẩn.
-- **Bối cảnh:** Sinh học lớp 10, Bài 7 (Mục II.2) và Bài 8 (Mục II.12): Cấu trúc bảo vệ và định hình nằm bên ngoài màng sinh chất ở vi khuẩn, thực vật và nấm.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.2), tr. 45; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.12), tr. 57
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: An outer protective layer surrounding the cell membrane in plants, fungi, algae, and most bacteria that protects the cell and maintains its stable shape. / VI: Lớp vỏ bao bọc bên ngoài màng tế bào ở thực vật, nấm, tảo và hầu hết vi khuẩn, có chức năng bảo vệ và duy trì hình dạng ổn định cho tế bào.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 7 (Mục II.2) và Bài 8 (Mục II.12): Cấu trúc bảo vệ và định hình nằm bên ngoài màng sinh chất ở vi khuẩn, thực vật và nấm.
+  - Khoa học tự nhiên lớp 6, Bài 19 (Mục III): Cấu trúc nâng đỡ và bảo vệ nằm ngoài màng tế bào thực vật, không có ở tế bào động vật.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.2), tr. 45; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.12), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục II), tr. 68; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 68; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 68, 69
 
 ### cell-mediated immunity
 - **Tiếng Việt:** Miễn dịch tế bào
@@ -1666,10 +1828,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A double-membrane organelle (with smooth outer and inner membranes) found in plant cells and certain eukaryotes such as green algae, containing flattened thylakoid sacs stacked into grana suspended in a fluid stroma along with circular DNA and ribosomes. It captures sunlight energy to carry out photosynthesis and synthesize carbohydrates.
 - **Giải thích (VI):** Bào quan màng kép (màng ngoài và màng trong đều trơn nhẵn) có ở tế bào thực vật và một số sinh vật nhân thực như tảo lục, bên trong chứa hệ thống túi dẹp thylakoid xếp chồng thành các granum nằm trong chất nền (stroma) cùng DNA dạng vòng và ribosome. Đây là bào quan thu nhận năng lượng ánh sáng mặt trời để thực hiện quá trình quang hợp tổng hợp carbohydrate.
 - **Giải thích khác (SGK Sinh học 11):** EN: A pigment-containing organelle in plant cells capable of moving within the cytoplasm that performs photosynthesis through light-dependent reactions on the thylakoid membrane and light-independent reactions in the stroma. / VI: Bào quan có màu chứa hệ sắc tố ở tế bào thực vật, có khả năng di chuyển trong dịch tế bào và thực hiện quá trình quang hợp qua hai pha: pha sáng trên màng thylakoid và pha tối trong chất nền.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: An organelle in plant cells containing green chlorophyll pigment that absorbs sunlight energy to synthesize organic substances during photosynthesis. / VI: Bào quan ở tế bào thực vật chứa chất diệp lục tạo màu xanh cho lá, có chức năng hấp thu năng lượng ánh sáng mặt trời để tổng hợp chất hữu cơ trong quá trình quang hợp.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 8 (Mục II.9): Cấu trúc và chức năng quang hợp của lục lạp.
   - Sinh học lớp 11, Bài 4 (Mục I.1, II) và Bài 5 (Mục III.1): Bào quan thực hiện quang hợp ở thực vật và đối tượng quan sát hiển vi trong bài thực hành.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.9), tr. 53; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14), tr. 59; SGK Sinh học 11 KNTT, Chương 01, B4 (Mục I.1), tr. 26; SGK Sinh học 11 KNTT, Chương 01, B4 (Mục II), tr. 28; SGK Sinh học 11 KNTT, Chương 01, B5 (Mục III.1.a), tr. 35
+  - Khoa học tự nhiên lớp 6, Bài 19 (Mục III): Bào quan quang hợp đặc trưng giúp phân biệt tế bào thực vật với tế bào động vật.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.9), tr. 53; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14), tr. 59; SGK Sinh học 11 KNTT, Chương 01, B4 (Mục I.1), tr. 26; SGK Sinh học 11 KNTT, Chương 01, B4 (Mục II), tr. 28; SGK Sinh học 11 KNTT, Chương 01, B5 (Mục III.1.a), tr. 35; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục II), tr. 68; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 68; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 68, 69
 
 ### cholesterol
 - **Tiếng Việt:** Cholesterol
@@ -1769,6 +1933,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 27 (Mục III.4.a): Tình trạng khoảng cách giữa hai lần sinh quá ngắn cần tránh trong sinh đẻ có kế hoạch.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B27 (Mục III.4.a), tr. 179
 
+### club fungi
+- **Tiếng Việt:** Nấm đảm
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of fungi characterized by reproduction via basidiospores, including familiar representatives such as straw mushrooms, shiitake mushrooms, oyster mushrooms, and lingzhi mushrooms.
+- **Giải thích (VI):** Nhóm nấm đặc trưng bởi hình thức sinh sản bằng bào tử đảm, bao gồm các đại diện quen thuộc như nấm rơm, nấm hương, nấm sò và nấm linh chi.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 32 (Mục I): Phân nhóm nấm theo cơ quan tạo bào tử, phân biệt với nấm túi và nấm tiếp hợp.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B32, tr. 108; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B32 (Mục I), tr. 108
+
+### cnidarian
+- **Tiếng Việt:** Ruột khoang (ngành Ruột khoang)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of invertebrates (phylum Cnidaria) with a radially symmetrical body, an internal body cavity opening to the outside through an upper mouth opening, and tentacles surrounding the mouth for capturing prey (representatives include *Hydra*, jellyfish, sea anemones, and corals).
+- **Giải thích (VI):** Nhóm động vật không xương sống có cơ thể đối xứng toả tròn, khoang cơ thể thông với bên ngoài qua lỗ miệng ở phần trên cơ thể và quanh miệng có các tua cuốn để bắt mồi (đại diện: thuỷ tức, sứa, hải quỳ, san hô).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.1): Một trong các ngành chủ yếu thuộc nhóm động vật không xương sống.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II), tr. 126; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.1), tr. 126; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.1), tr. 126, 127
+
 ### coding region
 - **Tiếng Việt:** Vùng mã hoá
 - **Chuyên ngành gốc:** Sinh học
@@ -1851,6 +2031,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 16 (Mục II.1): phương pháp lai tạo trong chăn nuôi và trồng trọt nhằm khai thác ưu thế lai ở con lai.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 03, B16 (Mục II.1), tr. 85
 
+### common name
+- **Tiếng Việt:** Tên địa phương
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The everyday vernacular name used for a biological species within a particular region or language, in contrast to its internationally standardized scientific name (for example, Asian honeybee is the common name of *Apis cerana*).
+- **Giải thích (VI):** Cách gọi tên thông thường của một loài sinh vật trong đời sống hằng ngày tại từng vùng miền hoặc ngôn ngữ, đối lập với tên khoa học dùng thống nhất quốc tế (ví dụ: ong mật châu Á là tên địa phương của loài *Apis cerana*).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 25 (Mục II): Đối chiếu hai cách gọi tên phổ biến của một loài sinh vật là tên địa phương và tên khoa học.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục II), tr. 88; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 88; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 88, 89
+
 ### community
 - **Tiếng Việt:** Quần xã
 - **Chuyên ngành gốc:** Sinh học
@@ -1927,6 +2115,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại phản xạ được hình thành trong đời sống cá thể thông qua học tập và trải nghiệm, không di truyền, số lượng không giới hạn, đáp ứng với tác nhân kích thích bất kì và có sự tham gia của vỏ não. Phản xạ này hình thành nhờ sự thay đổi, tăng cường liên hệ thần kinh giữa các neuron khi bị kích thích lặp lại nhiều lần và dễ mất đi nếu không được củng cố.
 - **Bối cảnh:** Sinh học lớp 11, Bài 17 (Mục III.4.a, III.4.c, III.4.d): Cơ sở sinh lí thần kinh của quá trình học tập, rút kinh nghiệm và thích nghi linh hoạt ở động vật có hệ thần kinh phát triển.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B17 (Mục III.4.a), tr. 110; SGK Sinh học 11 KNTT, Chương 02, B17 (Mục III.4.c), tr. 111; SGK Sinh học 11 KNTT, Chương 02, B17 (Mục III.4.d), tr. 112
+
+### cone
+- **Tiếng Việt:** Nón
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The characteristic reproductive organ of gymnosperms, consisting of a central axis bearing scales (modified leaves) that carry ovules or pollen sacs.
+- **Giải thích (VI):** Cơ quan sinh sản đặc trưng của thực vật hạt trần, cấu tạo gồm một trục mang các vảy (lá biến thái) trên đó có noãn hoặc túi phấn.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 34 (Mục II.2): Cơ quan sinh sản của cây hạt trần như cây thông, phân biệt với hoa của thực vật hạt kín.
+  - *Lưu ý:* Thuật ngữ thực vật học chỉ cơ quan sinh sản của thực vật hạt trần (strobilus/cone), phân biệt với khối hình nón trong hình học.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 118; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 118, 119; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 119
 
 ### consumer
 - **Tiếng Việt:** Sinh vật tiêu thụ
@@ -2138,6 +2336,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 24 (Mục IV.1): Một trong hai kiểu biến động số lượng cá thể của quần thể sinh vật, đối lập với biến động không theo chu kì.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B24 (Mục IV), tr. 135; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục IV.1), tr. 135
 
+### cyst
+- **Tiếng Việt:** Bào xác (kết bào xác)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A dormant survival stage of certain protists under unfavorable environmental conditions, formed by expelling excess water, shrinking the cell body, and secreting an outer protective wall (encystment).
+- **Giải thích (VI):** Dạng tồn tại ở trạng thái ngừng hoạt động của một số nguyên sinh vật khi gặp điều kiện môi trường bất lợi, hình thành bằng cách thoát bớt nước thừa, thu nhỏ cơ thể và tiết vỏ bọc bảo vệ bên ngoài (quá trình kết bào xác).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 30 (Mục III.2): Giải thích cơ chế phát tán và lây truyền bệnh kiết lị qua đường tiêu hoá của amip lị (*Entamoeba*).
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục III), tr. 104; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục III.1), tr. 104; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục III.2), tr. 104
+
 ### cytochrome c
 - **Tiếng Việt:** Cytochrome C
 - **Chuyên ngành gốc:** Sinh học
@@ -2171,12 +2377,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B20 (Mục III.2.a), tr. 134; SGK Sinh học 11 KNTT, Chương 03, B20 (Mục III.2.a), tr. 135; SGK Sinh học 11 KNTT, Chương 03, B20 (Mục III.3.b), tr. 136
 
 ### cytoplasm
-- **Tiếng Việt:** Tế bào chất
+- **Tiếng Việt:** Tế bào chất (chất tế bào)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The intracellular region located between the plasma membrane and the nucleus (or nucleoid in prokaryotic cells), where biochemical reactions sustaining cellular life occur. It consists of the cytosol and organelles (only ribosomes in prokaryotes, whereas eukaryotes also possess membrane-bound organelles and a cytoskeleton).
 - **Giải thích (VI):** Phần nội bào nằm giữa màng sinh chất và nhân (hoặc vùng nhân ở tế bào nhân sơ), là nơi diễn ra các phản ứng hoá sinh duy trì hoạt động sống của tế bào. Tế bào chất gồm bào tương và các bào quan (ở tế bào nhân sơ chỉ có ribosome; ở tế bào nhân thực có thêm nhiều bào quan có màng bọc và bộ khung xương tế bào).
-- **Bối cảnh:** Sinh học lớp 10, Bài 7 (Mục II.3) và Bài 8 (Mục II.10.a): Thành phần cấu tạo và vai trò của tế bào chất ở tế bào nhân sơ và tế bào nhân thực.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.3), tr. 46; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.10.a), tr. 54; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14), tr. 59
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The structural region located between the cell membrane and the nucleus or nucleoid, where most metabolic activities such as nutrient absorption, energy conversion, and synthesis of growth substances occur. / VI: Vùng cấu trúc nằm giữa màng tế bào và nhân hoặc vùng nhân, nơi diễn ra phần lớn các hoạt động trao đổi chất như hấp thụ dinh dưỡng, chuyển hoá năng lượng và tạo các chất giúp tế bào tăng trưởng.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 7 (Mục II.3) và Bài 8 (Mục II.10.a): Thành phần cấu tạo và vai trò của tế bào chất ở tế bào nhân sơ và tế bào nhân thực.
+  - Khoa học tự nhiên lớp 6, Bài 19 (Mục I): Môi trường bên trong tế bào chứa các bào quan và thực hiện các hoạt động trao đổi chất.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.3), tr. 46; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.10.a), tr. 54; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14), tr. 59; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19, tr. 67; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục I), tr. 67; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục II), tr. 67
 
 ### cytoplasmic male sterility
 - **Tiếng Việt:** Bất dục đực tế bào chất
@@ -2339,6 +2548,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Mức áp lực thấp nhất của máu lên thành động mạch ứng với pha tâm thất dãn trong chu kì tim; ở người trưởng thành bình thường có trị số khoảng 70 – 80 mmHg.
 - **Bối cảnh:** Sinh học lớp 11, Bài 10 (Mục IV.2.a) và Bài 11 (Mục III.2): Trị số huyết áp tối thiểu ghi nhận khi đo huyết áp ở người.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B10 (Mục IV.2.a), tr. 65; SGK Sinh học 11 KNTT, Chương 01, B11 (Mục III.2), tr. 70
+
+### dichotomous key
+- **Tiếng Việt:** Khoá lưỡng phân
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The most common type of biological taxonomic key, operating on the principle of dividing an initial set of organisms into two groups with contrasting characteristics at each step. Successive two-way divisions continue within each subgroup until every individual species is identified.
+- **Giải thích (VI):** Kiểu khoá phân loại sinh vật phổ biến nhất hoạt động theo nguyên tắc tách một tập hợp đối tượng ban đầu thành hai nhóm mang đặc điểm đối lập nhau qua từng bước. Quá trình chia đôi liên tiếp được thực hiện ở từng nhóm nhỏ hơn cho đến khi xác định được từng loài.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 26 (Mục I, II): Nguyên tắc và quy trình thực hành xây dựng sơ đồ phân loại sinh vật.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B26, tr. 90; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B26 (Mục I), tr. 90; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B26 (Mục II), tr. 90
+
+### dietary mineral
+- **Tiếng Việt:** Chất khoáng
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of inorganic substances essential for normal bodily growth and function, including calcium, magnesium, sodium, potassium, iron, zinc, copper, and iodine. Found abundantly in seafood, leafy greens, and fresh produce, their deficiency leads to health disorders such as brittle bones or thyroid disease.
+- **Giải thích (VI):** Nhóm các chất vô cơ cần thiết cho sự phát triển và hoạt động bình thường của cơ thể như calcium, magnesium, sodium, potassium, sắt, kẽm, đồng và iodine. Các chất này có nhiều trong hải sản, rau xanh, củ, quả tươi và nếu thiếu hụt sẽ gây rối loạn sức khoẻ như xốp xương hoặc bệnh tuyến giáp.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 15 (Mục II.2.c): Các nguyên tố khoáng vi lượng và đa lượng trong thực phẩm cần thiết cho cơ thể sống.
+  - *Lưu ý:* Chỉ nhóm chất vô cơ dinh dưỡng cần cho cơ thể sinh vật (dietary mineral), phân biệt với khoáng vật địa chất (mineral) cấu tạo nên đá và quặng.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.a), tr. 54; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.b), tr. 54; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.c), tr. 54
 
 ### digestion
 - **Tiếng Việt:** Tiêu hoá
@@ -2619,10 +2846,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A fundamental level of biological organization formed by biological communities interacting with one another and with their physical environment.
 - **Giải thích (VI):** Cấp độ tổ chức sống cơ bản tạo nên từ sự tương tác giữa các quần xã sinh vật với nhau và với môi trường sống của chúng.
 - **Giải thích khác (SGK Sinh học 12):** EN: A level of biological organization comprising an ecological community and its abiotic habitat (biotope), whose structural components interact as a unified and relatively stable whole. An ecosystem operates as a self-regulating open system in dynamic equilibrium through material cycling and energy flow. / VI: Cấp độ tổ chức sống bao gồm quần xã sinh vật và sinh cảnh, trong đó các thành phần cấu trúc tác động qua lại và gắn bó với nhau như một thể thống nhất tương đối ổn định. Hệ sinh thái là một hệ thống mở có khả năng tự điều chỉnh ở trạng thái cân bằng động thông qua vòng tuần hoàn vật chất và dòng năng lượng.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A complete and relatively stable biological system comprising biological communities together with their living environment. / VI: Hệ thống sinh học hoàn chỉnh và tương đối ổn định bao gồm các quần xã sinh vật cùng môi trường sống của chúng.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 3 (Mục I.1, I.2): Cấp độ tổ chức sống cơ bản trên cấp quần xã.
   - Sinh học lớp 12, Bài 28 (Mục I.1): Khái niệm trung tâm của sinh thái học hệ sinh thái, có kích thước đa dạng từ rất nhỏ (vườn hoa, ao hồ) đến lớn nhất là sinh quyển.
-- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.1), tr. 18; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.2), tr. 18, 19; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục I.1), tr. 152; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 154
+  - Khoa học tự nhiên lớp 6, Bài 36 (Mục III.1) và Bài 38 (Mục I): tìm hiểu mối quan hệ giữa các loài sinh vật và môi trường trong hệ sinh thái trên cạn và dưới nước.
+- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.1), tr. 18; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.2), tr. 18, 19; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục I.1), tr. 152; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 154; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129, 130; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194
 
 ### ectopic pregnancy
 - **Tiếng Việt:** Chửa ngoài dạ con (mang thai ngoài tử cung)
@@ -2945,8 +3174,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A large, structurally complex cell type possessing a true nucleus enclosed by a nuclear envelope that separates the nucleoplasm from the cytoplasm. Its cytoplasm contains a cytoskeleton, an endomembrane system, and numerous membrane-bound organelles.
 - **Giải thích (VI):** Loại tế bào có kích thước lớn và cấu tạo phức tạp, đã có nhân chính thức với màng nhân ngăn cách chất nhân và tế bào chất. Tế bào chất chứa bộ khung xương tế bào, hệ thống nội màng và nhiều bào quan có màng bao bọc.
-- **Bối cảnh:** Sinh học lớp 10, Bài 8 (Mục I): Đặc điểm chung của tế bào nhân thực đối chiếu với tế bào nhân sơ.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục I), tr. 48; SGK Sinh học 10 KNTT, Chương 02, B7 (Mục I), tr. 44
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A cell type possessing a true nucleus in which the genetic material is enclosed by a nuclear membrane. Its cytoplasm is compartmentalized by an endomembrane system and contains membrane-bound organelles, including plant and animal cells. / VI: Loại tế bào có nhân hoàn chỉnh với vật chất di truyền được bao bọc bởi màng nhân. Tế bào chất được chia thành nhiều khoang nhờ hệ thống nội màng và chứa các bào quan có màng bao bọc, bao gồm tế bào thực vật và tế bào động vật.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 8 (Mục I): Đặc điểm chung của tế bào nhân thực đối chiếu với tế bào nhân sơ.
+  - Khoa học tự nhiên lớp 6, Bài 19 (Mục II, III): Kiểu cấu tạo tế bào phức tạp của thực vật, động vật, nấm, đối lập với tế bào nhân sơ.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục I), tr. 48; SGK Sinh học 10 KNTT, Chương 02, B7 (Mục I), tr. 44; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục II), tr. 67; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục II), tr. 68; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 68
 
 ### eukaryotic microorganism
 - **Tiếng Việt:** Vi sinh vật nhân thực
@@ -3141,6 +3373,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 11, Bài 6 (Mục I.1, II, II.2): Con đường phân giải kị khí chất hữu cơ ở thực vật đối lập với hô hấp hiếu khí.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 04, B14 (Mục I.1), tr. 85; SGK Sinh học 10 KNTT, Chương 04, B14 (Mục I.3), tr. 87; SGK Sinh học 10 KNTT, Chương 04, B14 (Mục I.3), tr. 88; SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục II.4), tr. 8; SGK Sinh học 10 KNTT, Bảng giải thích thuật ngữ, tr. 159; SGK Sinh học 11 KNTT, Chương 01, B6 (Mục I.1), tr. 38; SGK Sinh học 11 KNTT, Chương 01, B6 (Mục II), tr. 38; SGK Sinh học 11 KNTT, Chương 01, B6 (Mục II.2), tr. 40; SGK Sinh học 11 KNTT, Chương 01, B6 (Mục V), tr. 43
 
+### fern
+- **Tiếng Việt:** Dương xỉ (ngành Dương xỉ)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of vascular plants (pteridophytes) possessing true roots, stems, and leaves without flowers or seeds, reproducing via spores and typically inhabiting moist, shaded places (such as common ferns, water clover, *Cibotium*, and *Salvinia*).
+- **Giải thích (VI):** Nhóm thực vật có mạch có rễ, thân, lá thật nhưng chưa có hoa và hạt, sinh sản bằng bào tử và thường sống ở những nơi ẩm, mát (như dương xỉ, cỏ bợ, lông culi, bèo ong).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 34 (Mục II.2): Đại diện của nhóm thực vật có mạch nhưng chưa có hạt, phân biệt với rêu (không có mạch) và thực vật có hạt.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục I), tr. 115; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II), tr. 117; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 118
+
 ### fertilization
 - **Tiếng Việt:** Thụ tinh
 - **Chuyên ngành gốc:** Sinh học
@@ -3184,6 +3424,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 13 (Mục II.1, II.2): Sản phẩm hoàn chỉnh của quá trình tạo nước tiểu ở thận, phân biệt với dịch lọc cầu thận (nước tiểu đầu).
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B13 (Mục I), tr. 80; SGK Sinh học 11 KNTT, Chương 01, B13 (Mục II.1), tr. 81; SGK Sinh học 11 KNTT, Chương 01, B13 (Mục II.2), tr. 81
 
+### fish
+- **Tiếng Việt:** Các lớp cá (Cá)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of aquatic vertebrates adapted to swimming, breathing through gills, moving with fins, and commonly having a laterally compressed fusiform body. Fishes comprise two main classes: cartilaginous fishes and bony fishes.
+- **Giải thích (VI):** Nhóm động vật có xương sống thích nghi với đời sống bơi lội trong nước, hô hấp bằng mang, di chuyển bằng vây và phổ biến có thân hình thoi dẹp hai bên. Cá gồm hai lớp chính là lớp Cá sụn và lớp Cá xương.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.2): tìm hiểu đặc điểm chung và sự phân chia của nhóm cá trong ngành động vật có xương sống.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36, tr. 125; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục I), tr. 125; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II), tr. 126; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 128
+
 ### fitness
 - **Tiếng Việt:** Giá trị thích nghi
 - **Chuyên ngành gốc:** Sinh học
@@ -3191,6 +3439,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đại lượng đo mức độ thích nghi của một cá thể sinh vật với môi trường, thể hiện qua tổng số cá thể con do cá thể đó sinh ra trong suốt cuộc đời có thể sống sót được cho đến khi sinh sản. Cá thể nào sinh ra được nhiều con sống sót đến tuổi sinh sản hơn thì thích nghi với môi trường hơn.
 - **Bối cảnh:** Sinh học lớp 12, Bài 21 (Mục III.1): Thước đo định lượng mức độ thích nghi sinh học dựa trên thành công sinh sản thay vì tuổi thọ đơn thuần của cá thể.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B21 (Mục III.1), tr. 108
+
+### five-kingdom system
+- **Tiếng Việt:** Hệ thống phân loại năm giới (năm giới sinh vật)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A biological classification system that divides the living world into five kingdoms based on cellular structure and body organization: Monera, Protista, Fungi, Plantae, and Animalia.
+- **Giải thích (VI):** Hệ thống phân chia thế giới sinh vật thành năm giới dựa trên đặc điểm cấu tạo tế bào và tổ chức cơ thể, gồm: giới Khởi sinh, giới Nguyên sinh, giới Nấm, giới Thực vật và giới Động vật.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 25 (Mục III): Sơ đồ phân chia thế giới sống thành năm giới sinh vật.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục II), tr. 88; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 88; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 88, 89
 
 ### flagellum
 - **Tiếng Việt:** Roi
@@ -3201,6 +3457,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 10, Bài 7 (Mục II.1) và Bài 8 (Mục II.13): Cơ quan vận động của tế bào vi khuẩn và tế bào nhân thực.
   - *Lưu ý:* Roi của vi khuẩn và roi của tế bào nhân thực đều là cơ quan vận động nhưng khác nhau về cấu tạo phân tử (bó sợi protein ở vi khuẩn so với hệ vi ống ở tế bào nhân thực).
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.1), tr. 45; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.13), tr. 57
+
+### flatworm
+- **Tiếng Việt:** Giun dẹp (ngành Giun dẹp)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of invertebrates (phylum Platyhelminthes) characterized by a flattened, bilaterally symmetrical body, including a few free-living aquatic species and mostly species parasitic in humans and animals (representatives include liver flukes and tapeworms).
+- **Giải thích (VI):** Nhóm động vật không xương sống có cơ thể dẹp và đối xứng hai bên, gồm một số loài sống tự do ở môi trường nước và hầu hết các loài sống kí sinh trong cơ thể người, động vật (đại diện: sán lá gan, sán dây).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.1): Một trong các ngành chủ yếu thuộc nhóm động vật không xương sống, phân biệt với giun tròn nhờ hình dạng cơ thể dẹp.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II), tr. 126; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.1), tr. 126; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.1), tr. 126, 127
 
 ### flower
 - **Tiếng Việt:** Hoa (đế hoa)
@@ -3231,8 +3495,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A linear sequence of species linked by feeding relationships, in which each species acts as a link that consumes the preceding link and is consumed by the succeeding link. In nature, there are two main types: chains starting with producers and chains starting with detritivores.
 - **Giải thích (VI):** Một dãy các loài sinh vật có mối quan hệ dinh dưỡng nối tiếp nhau, trong đó mỗi loài là một mắt xích vừa tiêu thụ mắt xích phía trước vừa bị mắt xích phía sau tiêu thụ. Trong tự nhiên có hai loại chuỗi thức ăn gồm chuỗi khởi đầu bằng sinh vật sản xuất và chuỗi khởi đầu bằng sinh vật ăn mùn bã hữu cơ.
-- **Bối cảnh:** Sinh học lớp 12, Bài 29 (Mục II.1): Biểu diễn đường truyền vật chất và năng lượng giữa các loài trong quần xã sinh vật.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.1), tr. 156; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3), tr. 160
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A sequence of multiple species linked by nutritional relationships, in which each preceding species serves as food for the succeeding species. / VI: Dãy gồm nhiều loài sinh vật có quan hệ dinh dưỡng với nhau, trong đó loài đứng trước là thức ăn của loài đứng sau.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 29 (Mục II.1): Biểu diễn đường truyền vật chất và năng lượng giữa các loài trong quần xã sinh vật.
+  - Khoa học tự nhiên lớp 6, Bài 36 (Mục III.1): giải thích vai trò của động vật như mắt xích dinh dưỡng duy trì trạng thái cân bằng sinh thái trong tự nhiên.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.1), tr. 156; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3), tr. 160; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129, 130; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
 
 ### food web
 - **Tiếng Việt:** Lưới thức ăn
@@ -3241,6 +3508,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tập hợp các chuỗi thức ăn trong quần xã được kết nối với nhau thông qua những loài là mắt xích chung. Quần xã có số lượng loài càng lớn thì lưới thức ăn càng phức tạp và cấu trúc quần xã càng ổn định.
 - **Bối cảnh:** Sinh học lớp 12, Bài 29 (Mục II.2): Phản ánh mối quan hệ dinh dưỡng đan xen thực tế và mức độ ổn định của quần xã, hệ sinh thái.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.2), tr. 156; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.2), tr. 156, 157; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3), tr. 160
+
+### foodstuff
+- **Tiếng Việt:** Thực phẩm
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A category of human food including meat, fish, eggs, milk, vegetables, tubers, and fruits that supplies energy and essential nutrients for bodily growth and function. Because it spoils easily in hot and humid conditions, proper preservation is required.
+- **Giải thích (VI):** Dạng thức ăn của con người như thịt, cá, trứng, sữa, rau, củ, quả cung cấp năng lượng và các chất dinh dưỡng cần thiết cho cơ thể phát triển, hoạt động. Nhóm thức ăn này dễ bị ôi thiu, hư hỏng trong môi trường nóng ẩm nên cần được bảo quản thích hợp.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 15 (Mục I): Nhóm thức ăn chế biến bữa ăn hằng ngày bên cạnh lương thực, đòi hỏi bảo quản an toàn vệ sinh.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15, tr. 52; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục I), tr. 52; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục I), tr. 52, 53
 
 ### foraging behavior
 - **Tiếng Việt:** Tập tính kiếm ăn
@@ -3263,8 +3538,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Preserved remains (such as bones or organisms in amber or ice), traces of organisms in rock layers, or petrified remains in which decayed organic matter is replaced by calcium and other minerals while retaining morphological structure. Fossils serve as direct evolutionary evidence reflecting the past existence, changes over time, and geographical distribution of organisms on Earth, with ages determinable via radioactive isotopes.
 - **Giải thích (VI):** Tàn tích (như xương, xác sinh vật trong hổ phách, băng tuyết), dấu vết của sinh vật trong các lớp đá, hoặc xác sinh vật đã hoá đá khi chất hữu cơ phân huỷ được thay thế bởi calcium và các khoáng chất khác nhưng vẫn giữ nguyên hình dạng cấu trúc. Đây là bằng chứng tiến hoá trực tiếp phản ánh lịch sử tồn tại, sự biến đổi theo thời gian và phân bố của sinh vật trên Trái Đất, có tuổi xác định được nhờ đồng vị phóng xạ.
-- **Bối cảnh:** Sinh học lớp 12, Bài 19 (Mục I): Bằng chứng tiến hoá trực tiếp giúp xác định tuổi địa chất, vị trí phân bố và các dạng sống trung gian chuyển tiếp giữa các nhánh sinh vật (Hình 19.1).
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B19 (Mục I), tr. 97; SGK Sinh học 12 KNTT, Chương 05, B19 (Mục III.2), tr. 100
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: Preserved body parts or impressions in stone of ancient humans or animals that have survived to the present day. / VI: Các bộ phận cơ thể của người hoặc động vật cổ đại đã hoá đá hay in dấu vào đá và còn tồn tại đến ngày nay.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 19 (Mục I): Bằng chứng tiến hoá trực tiếp giúp xác định tuổi địa chất, vị trí phân bố và các dạng sống trung gian chuyển tiếp giữa các nhánh sinh vật (Hình 19.1).
+  - Lịch sử và Địa lí lớp 6, Bài 4 (Mục 2): giải thích các dấu tích cổ sinh như hoá thạch trên đảo Gia-va (In-đô-nê-xi-a) hay răng hoá thạch ở hang Thẩm Khuyên (Lạng Sơn).
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B19 (Mục I), tr. 97; SGK Sinh học 12 KNTT, Chương 05, B19 (Mục III.2), tr. 100; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 18
 
 ### fragmentation
 - **Tiếng Việt:** Phân mảnh
@@ -3289,6 +3567,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Các cấp độ tổ chức chính của thế giới sống đều được cấu tạo từ một hoặc nhiều tế bào và biểu hiện đầy đủ các đặc điểm của sự sống, bao gồm năm cấp độ: tế bào, cơ thể, quần thể, quần xã và hệ sinh thái.
 - **Bối cảnh:** Sinh học lớp 10, Bài 3 (Mục I.1, II.3): Năm cấp độ tổ chức chính của thế giới sống có biểu hiện đầy đủ các đặc điểm sống.
 - **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.1), tr. 18; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục II.3), tr. 21
+
+### Fungi
+- **Tiếng Việt:** Giới Nấm (Fungi)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A kingdom in the five-kingdom classification system comprising eukaryotic organisms with unicellular or multicellular bodies and heterotrophic nutrition.
+- **Giải thích (VI):** Giới sinh vật trong hệ thống phân loại năm giới bao gồm các sinh vật có tế bào nhân thực, cơ thể đơn bào hoặc đa bào và sống dị dưỡng.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 25 (Mục III): Đơn vị phân loại cấp giới của các loài nấm trong hệ thống phân loại năm giới.
+  - *Lưu ý:* Chỉ đơn vị phân loại cấp giới (Fungi), phân biệt với khái niệm nấm (fungus) chỉ dạng cơ thể sinh vật thuộc giới này.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục II), tr. 88; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 88; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 88, 89
+
+### fungus
+- **Tiếng Việt:** Nấm
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of eukaryotic organisms belonging to kingdom Fungi with unicellular or multicellular bodies and heterotrophic nutrition. Fungi vary widely in shape and size and inhabit mainly warm, moist, nutrient-rich environments.
+- **Giải thích (VI):** Nhóm sinh vật thuộc giới Nấm có tế bào nhân thực, cấu tạo cơ thể đơn bào hoặc đa bào và sống dị dưỡng. Nấm có hình dạng, kích thước đa dạng và sinh sống chủ yếu ở những nơi nóng ẩm, giàu chất dinh dưỡng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 32 (Mục I): Đặc điểm nhận diện nấm và phân biệt nấm với thực vật dựa vào kiểu dinh dưỡng dị dưỡng.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B32, tr. 108; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B32 (Mục I), tr. 108; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B32 (Mục II), tr. 109
 
 ### G1/S checkpoint
 - **Tiếng Việt:** Điểm kiểm soát G1/S
@@ -3525,6 +3821,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Sơ đồ biểu diễn trật tự sắp xếp và khoảng cách giữa các gene trên nhiễm sắc thể (bao gồm bản đồ liên kết và bản đồ vật lí). Bản đồ di truyền giúp dự đoán tần số các tổ hợp gene mới trong phép lai chọn giống và xác định vị trí các gene gây bệnh ở người trong y học.
 - **Bối cảnh:** Sinh học lớp 12, Bài 11 (Mục III, IV): Khái niệm chung và ý nghĩa ứng dụng của bản đồ gene trong chọn giống và y học.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B11 (Mục III.1), tr. 58; SGK Sinh học 12 KNTT, Chương 02, B11 (Mục III.2), tr. 58; SGK Sinh học 12 KNTT, Chương 02, B11 (Mục IV), tr. 59
+
+### genetic material
+- **Tiếng Việt:** Vật chất di truyền
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** Organic macromolecules localized within the nucleus or nucleoid of a cell that carry information determining organismal traits and transmit it across generations of cells and organisms.
+- **Giải thích (VI):** Các đại phân tử hữu cơ khu trú trong nhân hoặc vùng nhân của tế bào, mang thông tin quy định các đặc điểm của cơ thể và truyền đạt qua các thế hệ tế bào cũng như cơ thể.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 19 (Mục I, II): Thành phần cốt lõi nằm trong nhân tế bào nhân thực hoặc vùng nhân của tế bào nhân sơ.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19, tr. 67; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục I), tr. 67; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục II), tr. 67
 
 ### genetically diverse population
 - **Tiếng Việt:** Quần thể đa dạng di truyền (đa hình di truyền)
@@ -3838,6 +4142,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 17 (Mục III.3, Bảng 17.2): Một trong năm giác quan chính ở động vật, gắn liền với hoạt động dinh dưỡng và bảo vệ cơ thể khỏi thức ăn độc hại.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B17 (Mục III.3), tr. 107
 
+### gymnosperm
+- **Tiếng Việt:** Thực vật hạt trần (Hạt trần; ngành Hạt trần)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of large woody vascular plants with a well-developed vascular system that lack flowers and fruits, bear cones as reproductive organs, and reproduce via seeds exposed on open ovuliferous scales (for example, pines and cycads).
+- **Giải thích (VI):** Nhóm thực vật có mạch, thân gỗ kích thước lớn với hệ mạch dẫn phát triển, chưa có hoa và quả, mang cơ quan sinh sản là nón và sinh sản bằng hạt nằm lộ trên các lá noãn hở (ví dụ: thông, vạn tuế).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 34 (Mục II.2): Phân biệt với thực vật hạt kín ở đặc điểm chưa có hoa, quả và hạt nằm lộ bên ngoài.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục I), tr. 115; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II), tr. 117; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 118
+
 ### habituation
 - **Tiếng Việt:** Quen nhờn
 - **Chuyên ngành gốc:** Sinh học
@@ -3963,8 +4275,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A mode of nutrition in which organisms obtain organic compounds directly from autotrophs or other animals, using digestion, absorption, and assimilation to build their bodies as well as store and utilize energy for life activities, typically seen in animals.
 - **Giải thích (VI):** Phương thức dinh dưỡng trong đó sinh vật lấy chất hữu cơ trực tiếp từ sinh vật tự dưỡng hoặc từ động vật khác, thông qua tiêu hoá, hấp thụ và đồng hoá để xây dựng cơ thể, tích luỹ và sử dụng năng lượng cho các hoạt động sống, điển hình ở động vật.
-- **Bối cảnh:** Sinh học lớp 11, Bài 1 (Mục V.2): phương thức trao đổi chất và chuyển hoá năng lượng đối lập với tự dưỡng.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B1 (Mục V.2), tr. 8
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A mode of nutrition in which organisms cannot synthesize organic compounds from inorganic raw materials and must obtain pre-existing organic matter from food to sustain themselves. Heterotrophic organisms include humans, animals, fungi, protozoans, and most bacteria (except photosynthetic and chemosynthetic bacteria). / VI: Kiểu dinh dưỡng trong đó sinh vật không tự tổng hợp được chất hữu cơ từ nguyên liệu vô cơ mà phải lấy chất hữu cơ sẵn có trong thức ăn để nuôi sống cơ thể. Sinh vật dị dưỡng gồm con người, động vật, nấm, nguyên sinh động vật và phần lớn vi khuẩn (trừ vi khuẩn quang hợp và hoá hợp).
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 1 (Mục V.2): phương thức trao đổi chất và chuyển hoá năng lượng đối lập với tự dưỡng.
+  - Khoa học tự nhiên lớp 6, Bài 25 (Mục III): Tiêu chí về kiểu dinh dưỡng dùng để phân loại các giới sinh vật, đối lập với tự dưỡng.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B1 (Mục V.2), tr. 8; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 89; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
 
 ### heterozygous genotype
 - **Tiếng Việt:** Kiểu gene dị hợp
@@ -4435,6 +4750,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Đột biến cấu trúc đảo đoạn nhiễm sắc thể trong di truyền học.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B12 (Mục II.2.c), tr. 61; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục IV.1), tr. 64; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục V.3), tr. 65
 
+### invertebrate
+- **Tiếng Việt:** Động vật không xương sống
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of animals lacking a backbone (vertebral column), accounting for approximately 95% of all known animal species (including phyla such as Cnidaria, Platyhelminthes, and Nematoda).
+- **Giải thích (VI):** Nhóm động vật mà cơ thể không có xương sống, chiếm khoảng 95% tổng số loài động vật đã biết (bao gồm các ngành như Ruột khoang, Giun dẹp, Giun tròn,...).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.1): Nhóm phân loại lớn của giới Động vật, đối lập với nhóm động vật có xương sống.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II), tr. 126; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.1), tr. 126; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.1), tr. 126, 127
+
 ### irritability
 - **Tiếng Việt:** Cảm ứng
 - **Chuyên ngành gốc:** Sinh học
@@ -4509,6 +4832,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 13 (Mục IV.1, IV.2): Bệnh lí lắng đọng kết tinh đường tiết niệu gắn liền với chế độ ăn uống và sinh hoạt.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B13 (Mục IV.1.a), tr. 84; SGK Sinh học 11 KNTT, Chương 01, B13 (Mục IV.1.b), tr. 84; SGK Sinh học 11 KNTT, Chương 01, B13 (Mục IV.2), tr. 85
 
+### kingdom
+- **Tiếng Việt:** Giới sinh vật (giới)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The highest taxonomic rank in the biological classification system, comprising phyla of organisms that share certain common characteristics.
+- **Giải thích (VI):** Đơn vị phân loại lớn nhất trong hệ thống phân loại sinh vật, bao gồm các ngành sinh vật có chung những đặc điểm nhất định.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 25 (Mục II, III): Đơn vị phân loại bậc cao nhất dùng để chia thế giới sống thành năm giới.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25, tr. 86; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục I), tr. 86; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục II), tr. 87
+
 ### Krebs cycle
 - **Tiếng Việt:** Chu trình Krebs
 - **Chuyên ngành gốc:** Sinh học
@@ -4527,6 +4858,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Enzyme tiêu hoá trong ống tiêu hoá xúc tác thuỷ phân đường lactose trong sữa thành hai đường đơn là glucose và galactose. Khi ống tiêu hoá giảm hoặc ngừng sản xuất enzyme này sau thời kì bú sữa, lactose không được tiêu hoá sẽ đi vào ruột già và bị vi khuẩn lên men gây đau bụng, đầy hơi, tiêu chảy.
 - **Bối cảnh:** Sinh học lớp 11, Bài 8 (Mục I.2.c, II.3): Enzyme tiêu hoá đường sữa liên quan đến hiện tượng bất dung nạp lactose khi uống sữa.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.2.c), tr. 48; SGK Sinh học 11 KNTT, Chương 01, B8 (Mục II.3), tr. 53
+
+### lactic acid bacteria
+- **Tiếng Việt:** Vi khuẩn lên men lactic
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of beneficial bacteria capable of breaking down substances in food raw materials under anaerobic (oxygen-free) conditions to produce lactic acid, imparting characteristic aroma and sourness to products such as yogurt, cheese, and pickled vegetables.
+- **Giải thích (VI):** Nhóm vi khuẩn có lợi có khả năng phân giải các chất trong nguyên liệu thực phẩm ở điều kiện không có oxygen để sinh ra acid lactic, tạo hương thơm và vị chua đặc trưng cho các sản phẩm như sữa chua, pho mát và dưa muối.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 27 (Em có biết?): Ứng dụng vai trò có lợi của vi khuẩn trong chế biến và bảo quản thực phẩm.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B27, tr. 95
 
 ### lactic acid fermentation
 - **Tiếng Việt:** Lên men lactate
@@ -4551,6 +4890,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Mạch DNA mới tại mỗi chạc sao chép được tổng hợp ngắt quãng theo chiều 5'→3' thành từng đoạn Okazaki ngắn, sau đó được thay thế đoạn mồi bằng DNA và nối lại thành mạch hoàn chỉnh.
 - **Bối cảnh:** Sinh học lớp 12, Bài 1 (Mục II.2): Mạch DNA mới được tổng hợp từng đoạn tại chạc sao chép, đối lập với mạch liên tục.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B1 (Mục II.2), tr. 7
+
+### larva
+- **Tiếng Việt:** Ấu trùng
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An immature developmental stage of animals whose development involves changes in form, structure, and physiology from birth or hatching to adulthood.
+- **Giải thích (VI):** Giai đoạn phát triển chưa trưởng thành của các loài động vật có quá trình phát triển trải qua sự thay đổi về hình dạng, cấu tạo và sinh lí từ khi sinh ra đến khi trưởng thành.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.2, IV): mô tả giai đoạn phát triển ở nước của lưỡng cư và con đường lây nhiễm bệnh giun, sán kí sinh qua thức ăn chưa nấu kĩ.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 128; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.2), tr. 131; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục IV), tr. 131; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
 
 ### late childbearing
 - **Tiếng Việt:** Đẻ muộn
@@ -4647,6 +4994,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cấp độ tổ chức của vật chất có biểu hiện đầy đủ các đặc tính và chức năng của sự sống như chuyển hoá vật chất và năng lượng, sinh trưởng, phát triển, sinh sản và cảm ứng.
 - **Bối cảnh:** Sinh học lớp 10, Bài 3 (Mục I.1, II.3): Khái niệm trung tâm phân biệt tổ chức vật chất sống với vật không sống.
 - **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.1), tr. 18; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục II.3), tr. 21
+
+### levels of organization in multicellular organisms
+- **Tiếng Việt:** Các cấp tổ chức của cơ thể đa bào
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The hierarchical structural system from lowest to highest in a multicellular organism following the sequence: cell → tissue → organ → organ system → organism. Through these levels of organization, cells with different functions coordinate to perform all basic life processes for the survival and development of the organism.
+- **Giải thích (VI):** Hệ thống thứ bậc cấu trúc từ thấp đến cao của cơ thể đa bào theo trình tự: tế bào → mô → cơ quan → hệ cơ quan → cơ thể. Qua các cấp tổ chức này, các tế bào có chức năng khác nhau phối hợp thực hiện đầy đủ các quá trình sống cơ bản để duy trì sự tồn tại và phát triển của cơ thể.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 23 (Mục I, IV): Mô tả trình tự cấu tạo từ tế bào đến cơ thể hoàn chỉnh ở thực vật, động vật và con người.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 06, B23 (Mục IV), tr. 82
+
+### lichen
+- **Tiếng Việt:** Địa y
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A composite organism formed through symbiosis between a fungus and certain photosynthetic algae, in which the fungus absorbs water and mineral salts for the alga while the chlorophyll-bearing alga photosynthesizes organic nutrients to sustain both partners.
+- **Giải thích (VI):** Dạng sinh vật hình thành từ mối quan hệ cộng sinh giữa nấm và một số loài tảo, trong đó nấm hút nước và muối khoáng cung cấp cho tảo, còn tảo nhờ có diệp lục thực hiện quang hợp tổng hợp chất hữu cơ nuôi sống cả hai.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 32 (Em có biết?): Ví dụ điển hình về mối quan hệ cộng sinh giữa nấm và nguyên sinh vật quang hợp trong tự nhiên.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B32, tr. 111
 
 ### life cycle
 - **Tiếng Việt:** Vòng đời của sinh vật (vòng đời)
@@ -4760,6 +5123,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 23 (Mục I): Khái niệm mở đầu về các loại môi trường sống của sinh vật (cạn, nước, đất, sinh vật) và mối tác động qua lại giữa sinh vật với môi trường.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B23 (Mục I), tr. 122; SGK Sinh học 12 KNTT, Chương 06, B23 (Mục I), tr. 122, 123
 
+### living thing
+- **Tiếng Việt:** Vật sống
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An entity possessing characteristics of life, including the ability to exchange matter with the environment, grow, and reproduce.
+- **Giải thích (VI):** Vật thể có các đặc trưng của sự sống bao gồm khả năng trao đổi chất với môi trường, lớn lên và sinh sản.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 1 (Mục II): phân biệt các thực thể sống như con người, cây lúa, con voi với vật không sống.
+  - Khoa học tự nhiên lớp 6, Bài 9 (Mục I) và Bài 1 (Mục II): nhận diện thực vật, động vật và phân biệt với vật không sống khi khảo sát sự đa dạng của vật thể quanh ta.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1, tr. 7; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục I), tr. 7; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục II), tr. 7; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9, tr. 28; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9 (Mục I), tr. 28
+
 ### locus
 - **Tiếng Việt:** Locus
 - **Chuyên ngành gốc:** Sinh học
@@ -4866,6 +5239,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Khối mô bất thường hình thành do một nhóm tế bào phân chia liên tục không kiểm soát được trong bệnh ung thư. U ác tính có đặc trưng phát triển nhanh, xâm lấn các mô bình thường lân cận và có thể tách các tế bào ung thư vào máu hoặc bạch huyết để di căn đến vị trí khác.
 - **Bối cảnh:** Sinh học lớp 11, Bài 12 (Mục V.2): Khối u đặc trưng của bệnh ung thư có khả năng xâm lấn và di căn.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B12 (Mục V.2), tr. 78
+
+### mammal
+- **Tiếng Việt:** Lớp Động vật có vú (Thú; Động vật có vú)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The most highly organized class of vertebrates, breathing with lungs, generally covered with hair or fur, and mostly giving birth to live young nourished with milk secreted from mammary glands.
+- **Giải thích (VI):** Lớp động vật có tổ chức cao nhất trong các lớp động vật có xương sống, hô hấp bằng phổi, cơ thể thường phủ lông mao, hầu hết đẻ con và nuôi con bằng sữa tiết ra từ tuyến vú.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.2): nhận diện lớp động vật có xương sống có tổ chức cao qua các đại diện như thỏ, bò, voi, lợn, cá heo và cá voi.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129, 130
 
 ### mark and recapture
 - **Tiếng Việt:** Đánh dấu và bắt lại (phương pháp Petersen; ước lượng Petersen)
@@ -5233,6 +5614,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 11 (Mục I.2): Ứng dụng hiện tượng liên kết gene chặt trong công tác chọn, tạo giống vật nuôi và cây trồng.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B11 (Mục I.2), tr. 55
 
+### mollusk
+- **Tiếng Việt:** Thân mềm (ngành Thân mềm)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A phylum of invertebrates with very soft bodies usually enclosed in a hard outer shell—though the shell is reduced or absent in some species—distributed mainly in aquatic environments with some terrestrial species.
+- **Giải thích (VI):** Ngành động vật không xương sống có cơ thể rất mềm, thường có lớp vỏ cứng bao bọc bên ngoài nhưng ở một số loài vỏ tiêu giảm hoặc không có vỏ, phân bố chủ yếu ở môi trường nước và một số ít sống trên cạn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.1): phân biệt ngành Thân mềm với các ngành động vật không xương sống khác qua các đại diện như trai, ốc, mực và bạch tuộc.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.1), tr. 127
+
+### Monera
+- **Tiếng Việt:** Giới Khởi sinh (Monera)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A kingdom in the five-kingdom classification system comprising organisms with unicellular bodies and prokaryotic cells (typically bacteria).
+- **Giải thích (VI):** Giới sinh vật trong hệ thống phân loại năm giới tập hợp các sinh vật có cấu tạo cơ thể đơn bào, tế bào nhân sơ (điển hình là vi khuẩn).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 25 (Mục III): Một trong năm giới sinh vật, phân biệt với bốn giới còn lại bởi cấu tạo tế bào nhân sơ.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục II), tr. 88; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 88; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 88, 89
+
 ### monosaccharide (biology)
 - **Tiếng Việt:** Đường đơn (monosaccharide)
 - **Chuyên ngành gốc:** Sinh học
@@ -5259,6 +5656,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 19 (Mục I.2, II): Dấu hiệu đặc trưng tạo nên hình dạng cơ quan, cơ thể trong quá trình phát triển của sinh vật.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B19 (Mục I.2), tr. 126; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục II), tr. 126
 
+### moss
+- **Tiếng Việt:** Rêu (ngành Rêu)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The earliest group of land plants (division Bryophyta) representing non-vascular plants, characterized by small bodies (about 1–2 cm tall) with rhizoids and non-vascular stem- and leaf-like structures, spore-based reproduction, and a preference for moist, shaded habitats.
+- **Giải thích (VI):** Nhóm thực vật sống trên cạn đầu tiên đại diện cho thực vật không có mạch, có cơ thể nhỏ bé (cao khoảng 1–2 cm) gồm rễ giả, thân và lá chưa có mạch dẫn, sinh sản bằng bào tử và thường mọc ở nơi ẩm ướt, ít ánh sáng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 34 (Mục II.1): Đại diện của nhóm thực vật không có mạch trong sơ đồ phân loại giới Thực vật.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục I), tr. 115; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II), tr. 117; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.1), tr. 117
+
 ### mRNA
 - **Tiếng Việt:** RNA thông tin (mRNA)
 - **Chuyên ngành gốc:** Sinh học
@@ -5277,6 +5682,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại vaccine chứa phân tử mRNA nhân tạo quy định trình tự protein kháng nguyên của virus (như protein gai) được bao bọc trong lớp màng phospholipid. Khi tiêm vào cơ thể, tế bào người tổng hợp protein gai từ khuôn mRNA này, kích hoạt hệ thống miễn dịch tạo ra kháng thể chống lại virus.
 - **Bối cảnh:** Sinh học lớp 10, Bài 1 (Mục I.5): Thành tựu ứng dụng giải trình tự hệ gene và sinh học phân tử trong sản xuất nhanh vaccine phòng dịch như SARS-CoV-2.
 - **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục I.5), tr. 6
+
+### multicellular organism
+- **Tiếng Việt:** Cơ thể đa bào (sinh vật đa bào)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A biological organism composed of many cells, in which each cell type typically performs a specialized function while coordinating together to carry out the body's life processes. This group includes plants, animals, humans, and many fungi.
+- **Giải thích (VI):** Cơ thể sinh vật được cấu tạo từ nhiều tế bào, trong đó mỗi loại tế bào thường thực hiện một chức năng sống riêng biệt và phối hợp với nhau thực hiện các quá trình sống của cơ thể. Nhóm này bao gồm thực vật, động vật, con người và nhiều loài nấm.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 22 (Mục II): Phân loại sinh vật dựa vào số lượng tế bào cấu tạo nên cơ thể, đối lập với cơ thể đơn bào.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 06, B22 (Mục II), tr. 76; SGK Khoa học tự nhiên 6 KNTT, Chương 06, B22 (Mục II), tr. 77; SGK Khoa học tự nhiên 6 KNTT, Chương 06, B22 (Mục II), tr. 77, 78
 
 ### multidrug resistance protein
 - **Tiếng Việt:** Protein đa kháng thuốc (MDR; P-glycoprotein)
@@ -5500,6 +5913,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 15 (Mục II.1.b): Phân biệt với ứng động sinh trưởng dựa trên cơ chế biến đổi sức trương nước thay vì phân chia và lớn lên của tế bào.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B15 (Mục II.1.b), tr. 93
 
+### non-living thing
+- **Tiếng Việt:** Vật không sống
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An object that lacks the ability to exchange matter with the environment, grow, and reproduce.
+- **Giải thích (VI):** Vật thể không có khả năng trao đổi chất với môi trường, lớn lên và sinh sản.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: An object lacking the characteristics of life such as metabolism with the environment, growth, and reproduction. / VI: Vật thể không có các đặc trưng của sự sống như trao đổi chất với môi trường, lớn lên và sinh sản.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 1 (Mục II): phân biệt các vật thể tự nhiên hoặc nhân tạo như Trái Đất, cái bàn, cây cầu với vật sống.
+  - Khoa học tự nhiên lớp 6, Bài 9 (Mục I) và Bài 1 (Mục II): nhận diện các vật dụng gia đình, cây cầu, đồi núi để đối chiếu với vật sống.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1, tr. 7; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục I), tr. 7; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục II), tr. 7; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9, tr. 28; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9 (Mục I), tr. 28
+
 ### non-random mating
 - **Tiếng Việt:** Giao phối không ngẫu nhiên
 - **Chuyên ngành gốc:** Sinh học
@@ -5515,6 +5939,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại gene có vùng mã hoá liên tục, chỉ gồm trình tự mã hoá mà không chứa các đoạn intron xen kẽ, phổ biến ở sinh vật nhân sơ.
 - **Bối cảnh:** Sinh học lớp 12, Bài 2 (Mục I.2, I.3) và Bài 3 (Mục I.2.b): Phân loại gene theo cấu trúc vùng mã hoá, đối lập với gene phân mảnh.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục I.3), tr. 10; SGK Sinh học 12 KNTT, Chương 01, B3 (Mục I.2.b), tr. 19
+
+### non-vascular plant
+- **Tiếng Việt:** Thực vật không có mạch
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of plants with simple body organization lacking internal vascular conducting tissues, typified by species of the moss division (Bryophyta).
+- **Giải thích (VI):** Nhóm thực vật có cấu tạo cơ thể đơn giản, chưa có hệ mạch dẫn bên trong cơ thể, tiêu biểu là các loài thuộc ngành Rêu.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 34 (Mục II.1): Nhóm phân loại lớn của giới Thực vật, đối lập với nhóm thực vật có mạch.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II), tr. 117; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.1), tr. 117; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 117, 118
 
 ### nuclear envelope
 - **Tiếng Việt:** Màng nhân
@@ -5537,8 +5969,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A non-membrane-bound region in a prokaryotic cell that typically contains a single circular, double-stranded DNA molecule carrying the genetic information that directs all cellular activities.
 - **Giải thích (VI):** Khu vực không có màng bao bọc trong tế bào nhân sơ, hầu hết chỉ chứa một phân tử DNA dạng vòng, mạch kép mang thông tin di truyền điều khiển mọi hoạt động sống của tế bào.
-- **Bối cảnh:** Sinh học lớp 10, Bài 7 (Mục II.4): Thành phần lưu giữ vật chất di truyền chính của tế bào vi khuẩn.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.4), tr. 46
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The region containing genetic material without a nuclear membrane separating it from the cytoplasm in prokaryotic cells, acting as the control center for cellular life activities. / VI: Vùng chứa vật chất di truyền chưa có màng nhân ngăn cách với tế bào chất ở tế bào nhân sơ, giữ vai trò trung tâm điều khiển các hoạt động sống của tế bào.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 7 (Mục II.4): Thành phần lưu giữ vật chất di truyền chính của tế bào vi khuẩn.
+  - Khoa học tự nhiên lớp 6, Bài 19 (Mục I, II): Đặc điểm cấu trúc của tế bào nhân sơ (như vi khuẩn) để phân biệt với nhân hoàn chỉnh ở tế bào nhân thực.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.4), tr. 46; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19, tr. 67; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục I), tr. 67; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục II), tr. 67
 
 ### nucleolus
 - **Tiếng Việt:** Hạch nhân (nhân con)
@@ -5722,13 +6157,34 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 4 (Mục III.3) và Bài 6 (Mục IV.1.b): Mức nhiệt độ cho cường độ quang hợp cao nhất hoặc kéo dài thời gian bảo quản nông sản.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B4 (Mục III.3), tr. 31; SGK Sinh học 11 KNTT, Chương 01, B6 (Mục IV.1.b), tr. 41
 
+### organ
+- **Tiếng Việt:** Cơ quan
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A level of organization in multicellular organisms composed of two or more tissues working together to carry out a specific life activity. Typical organs include the brain, heart, stomach, liver, and kidneys in humans, and roots, stems, leaves, and flowers in plants.
+- **Giải thích (VI):** Cấp tổ chức của cơ thể đa bào được cấu tạo từ hai hay nhiều mô cùng phối hợp thực hiện một hoạt động sống nhất định. Một số cơ quan điển hình là não, tim, dạ dày, gan, thận ở người và rễ, thân, lá, hoa ở thực vật.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 23 (Mục III): Cấp tổ chức hình thành từ các mô và hợp thành hệ cơ quan trong cơ thể đa bào.
+  - *Lưu ý:* Thuật ngữ sinh học chỉ bộ phận cấu trúc của cơ thể đa bào, phân biệt với cơ quan hành chính hoặc tổ chức xã hội.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 06, B23 (Mục I), tr. 80; SGK Khoa học tự nhiên 6 KNTT, Chương 06, B23 (Mục III), tr. 81; SGK Khoa học tự nhiên 6 KNTT, Chương 06, B23 (Mục IV), tr. 81
+
+### organ system
+- **Tiếng Việt:** Hệ cơ quan
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A level of organization in multicellular organisms consisting of a group of organs coordinating their activities to perform a specific life process of the body. Humans have digestive, respiratory, circulatory, nervous, and excretory systems, while plants have two main organ systems: the root system and the shoot system.
+- **Giải thích (VI):** Cấp tổ chức của cơ thể đa bào gồm một nhóm các cơ quan cùng phối hợp hoạt động để thực hiện một quá trình sống nhất định của cơ thể. Ở người có hệ tiêu hoá, hệ hô hấp, hệ tuần hoàn, hệ thần kinh, hệ bài tiết; ở thực vật có hai hệ cơ quan chính là hệ rễ và hệ chồi.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 23 (Mục IV): Cấp tổ chức trực tiếp phối hợp tạo nên cơ thể đa bào hoàn chỉnh.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 06, B23 (Mục III), tr. 81; SGK Khoa học tự nhiên 6 KNTT, Chương 06, B23 (Mục IV), tr. 81; SGK Khoa học tự nhiên 6 KNTT, Chương 06, B23 (Mục IV), tr. 81, 82
+
 ### organism
-- **Tiếng Việt:** Cơ thể
+- **Tiếng Việt:** Cơ thể (Cơ thể sinh vật; cơ thể sống)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A fundamental level of biological organization above the cell, composed of one or more cells (with intermediate structural tiers of tissues, organs, and organ systems in multicellular life) forming an individual living entity.
 - **Giải thích (VI):** Cấp độ tổ chức sống cơ bản trên cấp tế bào, cấu tạo từ một hoặc nhiều tế bào (ở sinh vật đa bào có các bậc cấu trúc trung gian là mô, cơ quan, hệ cơ quan) tạo thành một cá thể sống hoàn chỉnh.
-- **Bối cảnh:** Sinh học lớp 10, Bài 3 (Mục I.1, I.2): Cấp độ tổ chức sống cơ bản trên cấp tế bào và dưới cấp quần thể.
-- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.1), tr. 18; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.2), tr. 18, 19
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: An individual living entity capable of independently performing all fundamental life processes, including irritability and movement, nutrition, respiration, growth, excretion, and reproduction. / VI: Cá thể sinh vật hoàn chỉnh có khả năng tự thực hiện đầy đủ các quá trình sống cơ bản như cảm ứng và vận động, dinh dưỡng, hô hấp, sinh trưởng, bài tiết và sinh sản.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 3 (Mục I.1, I.2): Cấp độ tổ chức sống cơ bản trên cấp tế bào và dưới cấp quần thể.
+  - Khoa học tự nhiên lớp 6, Bài 22 (Mục I): Cấp độ tổ chức sống cá thể dùng để nhận diện vật sống và phân biệt với vật không sống.
+- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.1), tr. 18; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.2), tr. 18, 19; SGK Khoa học tự nhiên 6 KNTT, Chương 06, B22, tr. 75; SGK Khoa học tự nhiên 6 KNTT, Chương 06, B22 (Mục I), tr. 75; SGK Khoa học tự nhiên 6 KNTT, Chương 06, B22 (Mục I), tr. 75, 76
 
 ### organism classification method
 - **Tiếng Việt:** Phương pháp nghiên cứu, phân loại sinh vật
@@ -6085,10 +6541,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An anabolic process in which plants and other photoautotrophs convert light energy absorbed by photosynthetic pigments into chemical energy stored in energy-rich organic compounds. In plants, photosynthesis uses CO₂ and H₂O to synthesize carbohydrates and release O₂ through two sequential stages in chloroplasts: the light-dependent reactions and the Calvin cycle.
 - **Giải thích (VI):** Quá trình tổng hợp trong đó thực vật và các sinh vật quang tự dưỡng chuyển năng lượng ánh sáng (nhờ hệ sắc tố hấp thụ) thành năng lượng hoá học tích luỹ trong các hợp chất hữu cơ giàu năng lượng. Ở thực vật, quang hợp sử dụng CO₂ và H₂O để tổng hợp carbohydrate đồng thời giải phóng O₂ qua hai pha kế tiếp nhau ở lục lạp là pha sáng và pha tối (chu trình Calvin).
 - **Giải thích khác (SGK Sinh học 11):** EN: The process in which plant chloroplasts absorb and utilize light energy via photosynthetic pigments to convert simple inorganic substances (CO₂ and H₂O) into organic compounds (C₆H₁₂O₆) while releasing O₂. / VI: Quá trình lục lạp ở thực vật hấp thụ và sử dụng năng lượng ánh sáng nhờ hệ sắc tố quang hợp để chuyển hoá các chất vô cơ đơn giản (CO₂ và H₂O) thành hợp chất hữu cơ (C₆H₁₂O₆), đồng thời giải phóng O₂.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The process of synthesizing organic substances and releasing oxygen from simple inorganic substances via chlorophyll in chloroplasts under the action of light energy. / VI: Quá trình tổng hợp chất hữu cơ và giải phóng oxygen từ các chất vô cơ đơn giản nhờ chất diệp lục tại lục lạp dưới tác dụng của năng lượng ánh sáng.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 14 (Mục II.2, Hình 14.5, Hình 14.6): Quá trình tổng hợp chất hữu cơ và tích luỹ năng lượng quan trọng nhất đối với hệ thống sống.
   - Sinh học lớp 11, Bài 4 (Mục I.1, IV.2): Quá trình đồng hoá tổng hợp chất hữu cơ và chuyển hoá quang năng thành hoá năng ở thực vật.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 04, B14 (Mục II.2), tr. 89; SGK Sinh học 10 KNTT, Chương 04, B14 (Mục II.5), tr. 93; SGK Sinh học 11 KNTT, Chương 01, B4 (Mục I.1), tr. 26; SGK Sinh học 11 KNTT, Chương 01, B4 (Mục IV.2), tr. 34
+  - Khoa học tự nhiên lớp 6, Bài 19 (Mục III): Chức năng sinh học cốt lõi diễn ra tại lục lạp của tế bào thực vật.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 04, B14 (Mục II.2), tr. 89; SGK Sinh học 10 KNTT, Chương 04, B14 (Mục II.5), tr. 93; SGK Sinh học 11 KNTT, Chương 01, B4 (Mục I.1), tr. 26; SGK Sinh học 11 KNTT, Chương 01, B4 (Mục IV.2), tr. 34; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục II), tr. 68; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 68; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 68, 69
 
 ### photosynthetic pigment system
 - **Tiếng Việt:** Hệ sắc tố quang hợp
@@ -6159,8 +6617,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A type of eukaryotic cell making up plants, characterized by specialized structural features including an external cellulose cell wall, photosynthetic chloroplasts, and a large central vacuole for osmotic regulation, while lacking centrosomes.
 - **Giải thích (VI):** Loại tế bào nhân thực cấu tạo nên cơ thể thực vật, mang các đặc điểm thích nghi riêng gồm thành tế bào bằng cellulose bao bên ngoài màng sinh chất, lục lạp thực hiện quang hợp và không bào trung tâm lớn điều hoà áp suất thẩm thấu, nhưng không có trung thể.
-- **Bối cảnh:** Sinh học lớp 10, Bài 8 (Mục I, II): Đối chiếu đặc điểm cấu trúc đặc trưng với tế bào động vật.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục I), tr. 48; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.6), tr. 51; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.9), tr. 53; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.10.c), tr. 54; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.12), tr. 57
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A eukaryotic cell type that makes up plant organisms, distinguished from animal cells by possessing a rigid cell wall, chloroplasts containing photosynthetic pigments, and a large vacuole. / VI: Loại tế bào nhân thực cấu tạo nên cơ thể thực vật, mang đặc điểm phân biệt với tế bào động vật là có thành tế bào giữ hình dạng ổn định, lục lạp chứa sắc tố quang hợp và không bào lớn.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 8 (Mục I, II): Đối chiếu đặc điểm cấu trúc đặc trưng với tế bào động vật.
+  - Khoa học tự nhiên lớp 6, Bài 19 (Mục III): Đối chiếu cấu trúc và chức năng với tế bào động vật thông qua thành tế bào, lục lạp và không bào.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục I), tr. 48; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.6), tr. 51; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.9), tr. 53; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.10.c), tr. 54; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.12), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 68; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 69; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195
 
 ### plant cell technology
 - **Tiếng Việt:** Công nghệ tế bào thực vật
@@ -6223,6 +6684,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 19 (Mục II.3.a): Một trong ba kĩ thuật chủ yếu của công nghệ tế bào thực vật.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B19 (Mục II.3), tr. 113; SGK Sinh học 10 KNTT, Chương 05, B19 (Mục II.3.a), tr. 113
 
+### Plantae
+- **Tiếng Việt:** Giới Thực vật (Plantae)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A kingdom in the five-kingdom classification system comprising multicellular, eukaryotic organisms capable of photosynthesis (autotrophic nutrition).
+- **Giải thích (VI):** Giới sinh vật trong hệ thống phân loại năm giới bao gồm các sinh vật đa bào, tế bào nhân thực và có khả năng quang hợp (sống tự dưỡng).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 25 (Mục III): Đơn vị phân loại cấp giới của các ngành thực vật trong hệ thống phân loại năm giới.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục II), tr. 88; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 88; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 88, 89
+
 ### plasma cell
 - **Tiếng Việt:** Tương bào
 - **Chuyên ngành gốc:** Sinh học
@@ -6236,8 +6705,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Surrounding membrane of the cell with a fluid mosaic structure composed mainly of a phospholipid bilayer and various membrane proteins. The plasma membrane separates the cytoplasm from the external environment, selectively controls substance exchange, receives and transmits signals, and helps determine cell shape.
 - **Giải thích (VI):** Lớp màng bao bọc tế bào, có cấu trúc khảm động với hai thành phần chính là lớp kép phospholipid và các loại protein màng. Màng tế bào ngăn cách tế bào chất với môi trường ngoài, kiểm soát trao đổi chất có chọn lọc, tiếp nhận và truyền tín hiệu, đồng thời góp phần quy định hình dạng tế bào.
-- **Bối cảnh:** Sinh học lớp 10, Bài 7 (Mục II.2) và Bài 8 (Mục II.11): Cấu trúc bao bọc tế bào nhân sơ và tế bào nhân thực, thực hiện trao đổi chất và truyền tin.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.2), tr. 46; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.11.a), tr. 55; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.11.b), tr. 56
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: An essential component present in every cell that encloses the cytoplasm, defines the cell's integrity, and mediates material exchange between the cell and its environment. / VI: Thành phần thiết yếu có ở mọi tế bào, bao bọc bên ngoài tế bào chất để xác định sự tồn tại của tế bào và tham gia trao đổi chất giữa tế bào với môi trường.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 7 (Mục II.2) và Bài 8 (Mục II.11): Cấu trúc bao bọc tế bào nhân sơ và tế bào nhân thực, thực hiện trao đổi chất và truyền tin.
+  - Khoa học tự nhiên lớp 6, Bài 19 (Mục I): Một trong ba thành phần cấu tạo cơ bản của cả tế bào nhân sơ và tế bào nhân thực.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.2), tr. 46; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.11.a), tr. 55; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.11.b), tr. 56; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19, tr. 67; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục I), tr. 67; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục II), tr. 67
 
 ### plasmid
 - **Tiếng Việt:** Plasmid
@@ -6407,6 +6879,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 12, Bài 24 (Mục II.1): Đặc trưng cơ bản của quần thể được ứng dụng để xác định mật độ gieo trồng, chăn nuôi và nuôi trồng thuỷ sản hợp lí.
   - *Lưu ý:* Phân biệt với kích thước quần thể (tổng số cá thể, sinh khối hoặc năng lượng trong toàn bộ khu phân bố của quần thể).
   - *Lưu ý:* Không nhầm với 'Mật độ dân số' (`population density (geography)`) trong Địa lí.
+  - *Lưu ý:* Không nhầm với 'Mật độ dân số' (`population density (geography)`) trong Địa lí.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B24 (Mục II.1), tr. 130; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục V.1), tr. 136
 
 ### population genetics
@@ -6422,7 +6895,9 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The increase in population size across generations governed by natality, mortality, immigration, and emigration. It follows exponential growth according to biotic potential (a J-shaped curve) under idealized unlimited conditions, or logistic growth in resource-limited environments (an S-shaped curve) that levels off and fluctuates around the carrying capacity.
 - **Giải thích (VI):** Sự gia tăng kích thước của quần thể qua các thế hệ dưới sự chi phối của mức sinh sản, mức tử vong, mức nhập cư và mức xuất cư. Quá trình này diễn ra theo kiểu tiềm năng sinh học (đường cong hình chữ J) khi nguồn sống lí tưởng vô hạn, hoặc kiểu tăng trưởng trong môi trường có nguồn sống giới hạn (đường cong hình chữ S) tiệm cận và dao động quanh ngưỡng sức chứa của môi trường.
-- **Bối cảnh:** Sinh học lớp 12, Bài 24 (Mục III.1, III.2): Động thái gia tăng kích thước quần thể theo đường cong chữ J và đường cong chữ S.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 24 (Mục III.1, III.2): Động thái gia tăng kích thước quần thể theo đường cong chữ J và đường cong chữ S.
+  - *Lưu ý:* Không nhầm với 'Gia tăng dân số' (`population growth (geography)`) trong Địa lí.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B24 (Mục III.1), tr. 133; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục III.2), tr. 133
 
 ### population size
@@ -6433,6 +6908,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Sinh học lớp 12, Bài 24 (Mục II.2): Đặc trưng cơ bản của quần thể làm cơ sở đánh giá nguy cơ tuyệt chủng, bảo tồn loài nguy cấp và khai thác hợp lí tài nguyên sinh vật.
   - *Lưu ý:* Phân biệt với mật độ cá thể (số lượng cá thể tính trên một đơn vị diện tích hoặc thể tích).
+  - *Lưu ý:* Không nhầm với 'Quy mô dân số' (`population size (geography)`) trong Địa lí.
   - *Lưu ý:* Không nhầm với 'Quy mô dân số' (`population size (geography)`) trong Địa lí.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B24 (Mục II.2), tr. 131
 
@@ -6547,8 +7023,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A small cell type (typically 1 μm to 5 μm) with a simple structure lacking a true nucleus bounded by a nuclear envelope, an endomembrane system, membrane-bound organelles, and a cytoskeleton. The cell consists of four main components: a cell wall, a plasma membrane, cytoplasm (containing only ribosomes as organelles), and a nucleoid.
 - **Giải thích (VI):** Loại tế bào có kích thước nhỏ (thường từ 1 μm đến 5 μm) và cấu trúc đơn giản, chưa có nhân hoàn chỉnh với màng nhân ngăn cách chất nhân và tế bào chất, chưa có hệ thống nội màng, các bào quan có màng bao bọc và bộ khung xương tế bào. Tế bào được cấu tạo từ các thành phần chính gồm thành tế bào, màng tế bào, tế bào chất (chỉ chứa bào quan ribosome) và vùng nhân.
-- **Bối cảnh:** Sinh học lớp 10, Bài 7 (Mục I, II): Đặc điểm chung và cấu tạo điển hình của tế bào nhân sơ.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục I), tr. 44; SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.4), tr. 47
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A cell type lacking a true nucleus due to the absence of a nuclear membrane separating the nucleoid from the cytoplasm. Its cytoplasm lacks an endomembrane system and membrane-bound organelles, containing only ribosomes, as exemplified by bacterial cells. / VI: Loại tế bào chưa có nhân hoàn chỉnh do thiếu màng nhân ngăn cách vùng nhân với tế bào chất. Trong tế bào chất không có hệ thống nội màng hay các bào quan có màng bao bọc mà chỉ có bào quan duy nhất là ribosome, điển hình là tế bào vi khuẩn.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 7 (Mục I, II): Đặc điểm chung và cấu tạo điển hình của tế bào nhân sơ.
+  - Khoa học tự nhiên lớp 6, Bài 19 (Mục II): Kiểu tổ chức tế bào đơn giản ở vi khuẩn, đối chiếu với tế bào nhân thực.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục I), tr. 44; SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.4), tr. 47; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục II), tr. 67; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục II), tr. 68; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 68
 
 ### prokaryotic microorganism
 - **Tiếng Việt:** Vi sinh vật nhân sơ
@@ -6616,6 +7095,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phân tử phức hợp được hình thành từ protein liên kết với carbohydrate, kết hợp cùng các sợi collagen tạo nên mạng lưới chất nền ngoại bào bao quanh tế bào động vật.
 - **Bối cảnh:** Sinh học lớp 10, Bài 8 (Mục II.14.a): Thành phần cấu tạo mạng lưới chất nền ngoại bào của tế bào động vật.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14.a), tr. 58
+
+### protist
+- **Tiếng Việt:** Nguyên sinh vật
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of eukaryotic organisms belonging to kingdom Protista, most of which are microscopic unicellular organisms (such as *Euglena*, amoebas, *Paramecium*, malaria parasites, and unicellular green algae) while some are macroscopic multicellular forms (such as seaweeds).
+- **Giải thích (VI):** Nhóm sinh vật thuộc giới Nguyên sinh có tế bào nhân thực, đa số là cơ thể đơn bào kích thước hiển vi (như trùng roi, trùng biến hình, trùng giày, trùng sốt rét, tảo lục đơn bào) và một số có cấu tạo đa bào quan sát được bằng mắt thường (như rong biển).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 30 (Mục I): Nhận diện sự đa dạng về hình thái, môi trường sống và vai trò của các sinh vật thuộc giới Nguyên sinh.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30, tr. 102; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục I), tr. 102; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục I), tr. 102, 103
+
+### Protista
+- **Tiếng Việt:** Giới Nguyên sinh (Protista)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A kingdom in the five-kingdom classification system consisting of organisms with eukaryotic cells, most of which are unicellular while some are multicellular.
+- **Giải thích (VI):** Giới sinh vật trong hệ thống phân loại năm giới bao gồm các sinh vật có tế bào nhân thực, phần lớn có cơ thể đơn bào và một số có cấu tạo đa bào.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 25 (Mục III): Đơn vị phân loại cấp giới của các nguyên sinh vật trong hệ thống phân loại năm giới.
+  - *Lưu ý:* Chỉ đơn vị phân loại cấp giới (Protista), phân biệt với khái niệm nguyên sinh vật (protist) chỉ các cơ thể sinh vật thuộc giới này.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục II), tr. 88; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 88; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 88, 89
 
 ### proto-oncogene
 - **Tiếng Việt:** Proto-oncogene
@@ -6801,6 +7298,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 11 (Mục II.1.b, III): Đại lượng định lượng mức độ hoán vị gene và đo khoảng cách tương đối trên bản đồ liên kết.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B11 (Mục II.1.b), tr. 57; SGK Sinh học 12 KNTT, Chương 02, B11 (Mục III.1), tr. 58; SGK Sinh học 12 KNTT, Bảng giải thích thuật ngữ, tr. 195
 
+### red tide
+- **Tiếng Việt:** Thuỷ triều đỏ
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A marine algal bloom phenomenon that discolors seawater, causes mass mortality of marine organisms, and pollutes the marine environment over a wide area.
+- **Giải thích (VI):** Hiện tượng tảo nở hoa xảy ra ở vùng biển làm nước biển đổi màu, gây chết hàng loạt sinh vật biển và làm ô nhiễm môi trường biển trên phạm vi rộng.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 30 (Em có biết?): Trường hợp đặc biệt nghiêm trọng của hiện tượng tảo nở hoa xảy ra ở môi trường biển.
+  - *Lưu ý:* Là hiện tượng sinh thái do sự bùng phát số lượng tảo biển, không phải hiện tượng thuỷ triều dâng - rút do lực hấp dẫn thiên văn.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục III.2), tr. 105
+
 ### reflex
 - **Tiếng Việt:** Phản xạ
 - **Chuyên ngành gốc:** Sinh học
@@ -6933,6 +7440,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 21 (Mục IV.1, IV.2): Tiêu chuẩn cốt lõi xác nhận sự hình thành loài sinh học mới (khác khu vực địa lí hoặc cùng khu vực địa lí).
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B21 (Mục IV.1), tr. 109; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục IV.2.a), tr. 110; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục IV.2), tr. 112
 
+### reptile
+- **Tiếng Việt:** Lớp Bò sát (Bò sát)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A class of vertebrates adapted to terrestrial life that breathe with lungs, have bodies covered with horny scales, and mostly possess four limbs (except limb-reduced species such as pythons and snakes).
+- **Giải thích (VI):** Lớp động vật có xương sống thích nghi với đời sống ở cạn, hô hấp bằng phổi, cơ thể có vảy sừng che phủ và hầu hết có bốn chân (trừ một số loài chân đã tiêu biến như trăn, rắn).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.2): nhận diện lớp động vật có xương sống thích nghi trên cạn qua các đại diện như rùa, thằn lằn, rắn và cá sấu.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129, 130
+
 ### reservoir
 - **Tiếng Việt:** Ổ chứa
 - **Chuyên ngành gốc:** Sinh học
@@ -6990,10 +7505,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A spherical, non-membrane-bound organelle (about 150 Å in diameter) composed of rRNA (about 80%–90%) and proteins arranged into a large subunit and a small subunit. It serves as the site of protein synthesis in both prokaryotic and eukaryotic cells (free in the cytosol, bound to the rough endoplasmic reticulum, and inside mitochondria and chloroplasts).
 - **Giải thích (VI):** Bào quan không có màng bao bọc, dạng hình cầu (đường kính khoảng 150 Å), cấu tạo từ rRNA (khoảng 80%–90%) và protein tạo nên hai tiểu đơn vị lớn và nhỏ. Đây là bộ máy tổng hợp protein có ở cả tế bào nhân sơ và tế bào nhân thực (trong bào tương, trên màng lưới nội chất hạt, trong ti thể và lục lạp).
 - **Giải thích khác (SGK Sinh học 12):** EN: A macromolecular complex built from rRNA and proteins, consisting of a small subunit and a large subunit that lie separate when inactive and assemble on mRNA during translation. Containing functional A, P, and E sites, the ribosome moves along mRNA in the 5'→3' direction to assemble amino acids into a polypeptide chain. / VI: Phức hệ cấu tạo từ rRNA và protein, gồm một tiểu phần nhỏ và một tiểu phần lớn nằm tách rời nhau khi chưa hoạt động và liên kết lại trên mRNA khi dịch mã. Bào quan này mang các vị trí A, P, E để di chuyển trên mRNA theo chiều 5'→3' và lắp ráp các amino acid thành chuỗi polypeptide.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A non-membrane-bound organelle located in the cytoplasm and the sole type of organelle present in prokaryotic cells. / VI: Bào quan không có màng bao bọc nằm trong tế bào chất và là loại bào quan duy nhất có mặt ở tế bào nhân sơ.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 7 (Mục II.3) và Bài 8 (Mục II.2): Cấu trúc và chức năng tổng hợp protein của ribosome.
   - Sinh học lớp 12, Bài 2 (Mục III.2.c, III.4.b): Bộ máy trực tiếp thực hiện quá trình dịch mã tổng hợp protein trong tế bào.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.3), tr. 46; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.2), tr. 49; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.3), tr. 50; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14), tr. 59; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.b), tr. 12; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.c), tr. 13; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.b), tr. 15
+  - Khoa học tự nhiên lớp 6, Bài 19 (Mục II): Bào quan duy nhất trong tế bào chất của tế bào nhân sơ khi so sánh với tế bào nhân thực.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.3), tr. 46; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.2), tr. 49; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.3), tr. 50; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14), tr. 59; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.b), tr. 12; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.c), tr. 13; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.b), tr. 15; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục II), tr. 68; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 68; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 68, 69
 
 ### ribozyme
 - **Tiếng Việt:** Ribozyme
@@ -7072,6 +7589,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 8 (Mục II.3): Phân khu lưới nội chất tổng hợp và vận chuyển protein.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.3), tr. 50; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14), tr. 59
 
+### roundworm
+- **Tiếng Việt:** Giun tròn (ngành Giun tròn)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of invertebrates (phylum Nematoda) with a cylindrical body (ranging from microscopic size up to 30 cm in length), commonly living in water, soil, or as parasites (representatives include *Ascaris* roundworms and pinworms).
+- **Giải thích (VI):** Nhóm động vật không xương sống có cơ thể hình trụ (từ kích thước hiển vi đến chiều dài khoảng 30 cm), thường sống trong môi trường nước, đất hoặc sống kí sinh (đại diện: giun đũa, giun kim).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.1): Một trong các ngành chủ yếu thuộc nhóm động vật không xương sống, phân biệt với giun dẹp nhờ cơ thể hình trụ.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II), tr. 126; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.1), tr. 126; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.1), tr. 126, 127
+
 ### rRNA
 - **Tiếng Việt:** RNA ribosome (rRNA)
 - **Chuyên ngành gốc:** Sinh học
@@ -7082,6 +7607,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 10, Bài 5 (Mục II.4.b): Chức năng cấu trúc nên bộ máy tổng hợp protein của rRNA.
   - Sinh học lớp 12, Bài 2 (Mục III.2.c): Một trong ba loại RNA chính trong tế bào; sinh vật nhân sơ thường có 3 loại rRNA còn sinh vật nhân thực có 4 loại rRNA.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 39; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.1), tr. 11; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.c), tr. 13
+
+### sac fungi
+- **Tiếng Việt:** Nấm túi
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of fungi characterized by reproduction via ascospores (sac spores), including representatives such as brewer's yeast and black bread mold.
+- **Giải thích (VI):** Nhóm nấm đặc trưng bởi hình thức sinh sản bằng bào tử túi, bao gồm các đại diện như nấm men rượu và nấm mốc đen bánh mì.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 32 (Mục I): Phân chia các nhóm nấm chủ yếu dựa trên đặc điểm cơ quan tạo bào tử.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B32, tr. 108; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B32 (Mục I), tr. 108
 
 ### saprotrophic microorganism
 - **Tiếng Việt:** Vi sinh vật dị dưỡng hoại sinh
@@ -7114,6 +7647,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Trình tự các bước thực hiện một công trình nghiên cứu khoa học: Quan sát → Đặt câu hỏi → Hình thành giả thuyết → Thiết kế và tiến hành thí nghiệm kiểm chứng → Phân tích kết quả thí nghiệm → Rút ra kết luận (chấp nhận hoặc bác bỏ giả thuyết).
 - **Bối cảnh:** Sinh học lớp 10, Bài 2 (Mục III, IV): Tiến trình chuẩn mực mà các nhà sinh học tuân thủ khi thực hiện nghiên cứu khoa học.
 - **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B2 (Mục III), tr. 15; SGK Sinh học 10 KNTT, Phần Mở đầu, B2 (Mục IV), tr. 17
+
+### scientific name
+- **Tiếng Việt:** Tên khoa học
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A unique binomial name assigned to each biological species and written in italics with two parts: the first part is the genus name with an initial capital letter, and the second part is the specific epithet within that genus in lowercase (e.g., *Apis cerana*).
+- **Giải thích (VI):** Tên gọi duy nhất cho mỗi loài sinh vật dưới dạng tên kép viết in nghiêng gồm hai phần: phần thứ nhất là tên chi (hoặc giống) viết hoa chữ cái đầu, phần thứ hai là tên loài thuộc chi (hoặc giống) đó viết thường (ví dụ: *Apis cerana*).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 25 (Mục II): Quy tắc gọi tên loài thống nhất trên toàn thế giới, phân biệt với tên địa phương.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục II), tr. 88; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 88; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục III), tr. 88, 89
 
 ### scientific theory
 - **Tiếng Việt:** Học thuyết khoa học
@@ -7589,6 +8130,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 10 (Mục I.1) và Bài 12 (Mục V.2): Vai trò của gene *SRY* trên nhiễm sắc thể Y trong xác định giới tính nam và ứng dụng đột biến mất đoạn để định vị gene.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B10 (Mục I.1), tr. 50; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục V.2), tr. 65
 
+### staple food
+- **Tiếng Việt:** Lương thực
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A primary form of human food rich in starch sources such as rice, corn, sweet potatoes, cassava, and wheat. It is metabolized by the body into energy and essential nutrients to sustain life and daily activities.
+- **Giải thích (VI):** Dạng thức ăn cơ bản của con người chứa nguồn tinh bột dồi dào như lúa gạo, ngô, khoai, sắn và lúa mì. Nhóm thức ăn này được cơ thể chuyển hoá thành năng lượng và các chất dinh dưỡng cần thiết để duy trì sự sống và hoạt động.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 15 (Mục I, II.1): Phân biệt với thực phẩm khi phân loại thức ăn cung cấp nguồn tinh bột chính cho con người.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15, tr. 52; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục I), tr. 52; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục I), tr. 52, 53
+
 ### start codon
 - **Tiếng Việt:** Bộ ba mở đầu (bộ ba khởi đầu)
 - **Chuyên ngành gốc:** Sinh học
@@ -7729,12 +8278,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Development that meets the needs of present society without compromising the ability of future generations to meet their own development needs, closely tied to the rational use of natural resources, biodiversity conservation, and environmental protection.
 - **Giải thích (VI):** Sự phát triển đáp ứng được nhu cầu của xã hội hiện tại nhưng không làm tổn hại đến khả năng tiếp cận với nhu cầu phát triển của các thế hệ tương lai, gắn liền với việc khai thác hợp lí tài nguyên thiên nhiên, bảo vệ đa dạng sinh vật và môi trường.
 - **Giải thích khác (SGK Địa lí 10):** EN: Development that meets the needs of the present without compromising the ability of future generations to meet their own needs, based on a close and harmonious integration of economic growth, social progress, and environmental protection. This model comprises three interlocking pillars—economy, society, and environment—whose central intersection represents sustainable development. / VI: Sự phát triển đáp ứng được nhu cầu của hiện tại mà không làm tổn hại đến khả năng đáp ứng nhu cầu đó của các thế hệ tương lai, trên cơ sở kết hợp chặt chẽ, hài hoà giữa tăng trưởng kinh tế, bảo đảm tiến bộ xã hội và bảo vệ môi trường. Cấu thành của mô hình này gồm ba vòng tròn kinh tế, xã hội và môi trường lồng ghép vào nhau, trong đó phần giao ở trung tâm biểu thị sự phát triển bền vững.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A mode of development that meets the needs of the present generation without compromising the ability of future generations to meet their own needs. / VI: Phương thức phát triển nhằm đáp ứng các nhu cầu của thế hệ hiện tại mà không làm tổn hại đến khả năng đáp ứng nhu cầu của các thế hệ tương lai.
 - **Giải thích khác (SGK GD KT&PL 12):** EN: A development process that achieves a balanced and harmonious integration of three pillars: economic development, social development (ensuring social progress and equity), and environmental protection. / VI: Quá trình phát triển có sự kết hợp hợp lí, hài hoà và chặt chẽ giữa ba mặt: phát triển kinh tế, phát triển xã hội (bảo đảm tiến bộ, công bằng xã hội) và bảo vệ môi trường.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 1 (Mục III.1, III.2): Định hướng cốt lõi của mọi nghiên cứu và ứng dụng sinh học gắn với bảo vệ tài nguyên và môi trường.
   - Địa lí lớp 10, Bài 40 (Mục 1.a): Định nghĩa khái niệm và ba trụ cột cấu thành của phát triển bền vững.
+  - Lịch sử và Địa lí lớp 6, Bài 29 (Mục 1): Mục tiêu định hướng xuyên suốt trong việc bảo vệ tự nhiên và khai thác hợp lí tài nguyên thiên nhiên.
   - Giáo dục Kinh tế và Pháp luật lớp 12, Bài 1 (Mục 3): mục tiêu phát triển tổng thể gắn kết tăng trưởng kinh tế với công bằng xã hội và bảo vệ môi trường.
-- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục III.1), tr. 9; SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục III.2), tr. 9; SGK Địa lí 10 KNTT, Phần ba, B40, tr. 111; SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 1.a), tr. 111; SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 1.b), tr. 111; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1, tr. 6; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 3), tr. 15; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 3), tr. 16
+- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục III.1), tr. 9; SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục III.2), tr. 9; SGK Địa lí 10 KNTT, Phần ba, B40, tr. 111; SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 1.a), tr. 111; SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 1.b), tr. 111; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29, tr. 187; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29 (Mục 1), tr. 187; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29 (Mục 2), tr. 187; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1, tr. 6; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 3), tr. 15; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 3), tr. 16
+
+### symbiosis
+- **Tiếng Việt:** Cộng sinh
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A close, long-term living association between two or more different biological species in which all participating species benefit (for example, the association between fungi and algae that forms lichens).
+- **Giải thích (VI):** Mối quan hệ sống chung chặt chẽ giữa hai hay nhiều loài sinh vật khác nhau, trong đó tất cả các loài tham gia đều có lợi (ví dụ: sự sống chung giữa nấm và tảo tạo thành địa y).
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 30 (Mục II.1): Giải thích vai trò của nguyên sinh vật và mối quan hệ tạo thành địa y trong tự nhiên.
+  - *Lưu ý:* Trong chương trình phổ thông Việt Nam, thuật ngữ cộng sinh dùng theo nghĩa hẹp tương ứng với quan hệ hợp tác chặt chẽ đôi bên cùng có lợi (mutualism).
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục I), tr. 103; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục II.1), tr. 103; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục II.2), tr. 103
 
 ### symplast pathway
 - **Tiếng Việt:** Con đường tế bào chất
@@ -7837,6 +8398,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cụm hoa đực mọc ở đỉnh ngọn của cây ngô mang nhiều nhánh chứa bao phấn, đối ứng với cụm hoa cái (bắp) mọc ở phần thân trên cùng một cây (hoa đơn tính cùng gốc). Trong tự nhiên, bông cờ thường tung phấn sớm hơn thời điểm bắp phun râu (vòi và núm nhuỵ) từ 3–4 ngày nên cây ngô chủ yếu giao phấn nhờ gió.
 - **Bối cảnh:** Sinh học lớp 11, Bài 26 (Mục III.2.a, III.2.b): Cấu trúc hoa đực và hoa cái trên cây ngô sử dụng trong bài thực hành thụ phấn bổ sung.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B26 (Mục III.2.a), tr. 168; SGK Sinh học 11 KNTT, Chương 04, B26 (Mục III.2.b), tr. 169
+
+### taxonomic key
+- **Tiếng Việt:** Khoá phân loại
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A biological classification tool constructed from distinctive characteristics of organisms to conveniently determine the taxonomic position of each species, with the dichotomous key being the most common type.
+- **Giải thích (VI):** Công cụ phân loại sinh học được xây dựng dựa trên các đặc điểm đặc trưng của sinh vật nhằm xác định vị trí phân loại của từng loài một cách thuận lợi, trong đó phổ biến nhất là khoá lưỡng phân.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 26 (Mục I, II): Công cụ hỗ trợ nhận diện và phân định các loài sinh vật ngoài tự nhiên.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B26 (Mục I), tr. 90; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B26 (Mục II), tr. 91
+
+### taxonomic rank
+- **Tiếng Việt:** Đơn vị phân loại sinh vật
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The hierarchical levels used to classify the living world in descending order from largest to smallest: kingdom, phylum (or division), class, order, family, genus, and species.
+- **Giải thích (VI):** Các bậc thứ bậc dùng để phân chia thế giới sinh vật theo trình tự từ lớn đến nhỏ: giới, ngành, lớp, bộ, họ, chi (ở thực vật) hoặc giống (ở động vật), và loài.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 25 (Mục II): Xác định thứ bậc 7 bậc phân loại sinh vật từ giới đến loài.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục II), tr. 87; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục II), tr. 87, 88
 
 ### telomerase
 - **Tiếng Việt:** Telomerase
@@ -7968,6 +8545,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Kiểu mối nối giữa các tế bào động vật, trong đó các tế bào cạnh nhau được ghép sát bằng các loại protein đặc biệt khiến các chất không thể lọt qua khe hở giữa các tế bào. Cấu trúc này buộc các chất phải đi qua màng sinh chất (như ở tế bào niêm mạc ruột), giúp tế bào chọn lọc chất cần thiết và tránh hấp thụ chất có hại.
 - **Bối cảnh:** Sinh học lớp 10, Bài 8 (Mục II.14.b): Liên kết giữa các tế bào động vật trong mô, điển hình ở tế bào niêm mạc ruột người.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14.b), tr. 58
+
+### tissue
+- **Tiếng Việt:** Mô
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A level of organization in multicellular organisms consisting of a group of interconnected cells working together to perform a specific function. Examples include muscle, connective, and epithelial tissues in humans, and epidermal, xylem, and phloem tissues in plants.
+- **Giải thích (VI):** Cấp tổ chức trong cơ thể đa bào gồm một nhóm các tế bào liên kết với nhau để cùng thực hiện một chức năng nhất định. Ví dụ ở người có mô cơ, mô liên kết, mô biểu bì; ở thực vật có mô biểu bì, mô mạch gỗ, mô mạch rây.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 23 (Mục II): Cấp tổ chức trung gian giữa tế bào và cơ quan trong cơ thể đa bào.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 06, B23 (Mục I), tr. 80; SGK Khoa học tự nhiên 6 KNTT, Chương 06, B23 (Mục II), tr. 80; SGK Khoa học tự nhiên 6 KNTT, Chương 06, B23 (Mục III), tr. 81
 
 ### tissue culture
 - **Tiếng Việt:** Nuôi cấy mô (nuôi cấy mô tế bào)
@@ -8240,6 +8825,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 16 (Mục II): Phân biệt trạng thái nhiễm sắc thể trước nhân đôi hoặc sau tách chromatid với nhiễm sắc thể kép.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B16 (Mục II), tr. 99; SGK Sinh học 10 KNTT, Chương 05, B16 (Mục II.1), tr. 99
 
+### unicellular organism
+- **Tiếng Việt:** Cơ thể đơn bào (sinh vật đơn bào)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A biological organism with a simple organization composed of only a single cell that simultaneously carries out all basic life processes. Typical examples include bacteria, yeasts, and protozoans.
+- **Giải thích (VI):** Cơ thể sinh vật có tổ chức đơn giản chỉ cấu tạo từ một tế bào duy nhất, trong đó tế bào này đồng thời thực hiện tất cả các quá trình sống cơ bản. Các đại diện điển hình gồm vi khuẩn, nấm men và nguyên sinh động vật.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 22 (Mục II): Phân biệt với cơ thể đa bào dựa vào số lượng tế bào cấu tạo nên cơ thể.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 06, B22 (Mục I), tr. 76; SGK Khoa học tự nhiên 6 KNTT, Chương 06, B22 (Mục II), tr. 76; SGK Khoa học tự nhiên 6 KNTT, Chương 06, B22 (Mục II), tr. 76, 77
+
 ### unisexual flower
 - **Tiếng Việt:** Hoa đơn tính
 - **Chuyên ngành gốc:** Sinh học
@@ -8262,18 +8855,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A biological preparation used to effectively prevent infectious diseases (such as viral diseases), one production method of which involves modifying a pathogenic virus strain and administering it to humans or livestock to stimulate antibody production against future infection.
 - **Giải thích (VI):** Chế phẩm sinh học dùng để phòng ngừa hiệu quả các bệnh truyền nhiễm (như bệnh do virus), trong đó một phương thức sản xuất là biến đổi chủng virus gây bệnh rồi đưa vào cơ thể người hoặc vật nuôi nhằm kích thích tạo kháng thể chống lại tác nhân gây bệnh khi bị tấn công.
 - **Giải thích khác (SGK Sinh học 11):** EN: A biological preparation (typically an injectable solution) containing processed, non-pathogenic antigens such as killed or attenuated bacteria and viruses, recombinant antigenic proteins, or pathogen protein-encoding genes and RNA. Vaccination actively induces a primary immune response and establishes immunological memory to prevent infectious diseases in humans and livestock. / VI: Chế phẩm sinh học (thường ở dạng dung dịch tiêm) chứa kháng nguyên đã được xử lí không còn khả năng gây bệnh, chẳng hạn vi khuẩn, virus đã chết hoặc suy yếu, protein kháng nguyên tái tổ hợp hay gene, RNA mã hoá protein của mầm bệnh. Tiêm chủng vaccine giúp chủ động kích thích đáp ứng miễn dịch nguyên phát và hình thành trí nhớ miễn dịch để phòng bệnh ở người và vật nuôi.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A biological preparation produced from killed or weakened pathogenic bacteria or viruses, administered into the body to help it recognize pathogens in advance and actively prevent infectious diseases. / VI: Chế phẩm sinh học tạo ra từ chính những vi khuẩn hoặc virus gây bệnh đã chết hoặc được làm suy yếu, đưa vào cơ thể nhằm giúp cơ thể nhận diện trước mầm bệnh và chủ động phòng tránh các bệnh truyền nhiễm.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 25 (Mục II.2, III.1): Thành tựu ứng dụng nghiên cứu virus quan trọng nhất trong y học và thú y nhằm chủ động phòng chống dịch bệnh truyền nhiễm.
   - Sinh học lớp 11, Bài 12 (Mục IV.4): Ứng dụng cơ chế trí nhớ miễn dịch để chủ động phòng các bệnh truyền nhiễm do virus và vi khuẩn.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 07, B25 (Mục II.2.c), tr. 150; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục III.1), tr. 152; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục III.3), tr. 154; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.4), tr. 77; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục V.3), tr. 79
+  - Khoa học tự nhiên lớp 6, Bài 29 (Mục IV.2): Biện pháp chủ động và hữu hiệu nhất để phòng ngừa các bệnh truyền nhiễm do virus và vi khuẩn.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 07, B25 (Mục II.2.c), tr. 150; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục III.1), tr. 152; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục III.3), tr. 154; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.4), tr. 77; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục V.3), tr. 79; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B29 (Mục III), tr. 99; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B29 (Mục IV.2), tr. 101
 
 ### vacuole
 - **Tiếng Việt:** Không bào
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A single-membrane-bound organelle typically derived from the endoplasmic reticulum and Golgi apparatus, present in plant cells and certain protozoans. Depending on cell type, vacuoles perform diverse functions including osmotic regulation, storage of nutrients, pigments, and wastes, detoxification, water expulsion, or food digestion.
 - **Giải thích (VI):** Bào quan có một lớp màng bao bọc, thường bắt nguồn từ lưới nội chất và bộ máy Golgi, có ở tế bào thực vật và một số động vật nguyên sinh. Tuỳ loại tế bào, không bào thực hiện các chức năng khác nhau như điều hoà áp suất thẩm thấu, dự trữ chất dinh dưỡng, sắc tố, chất thải, khử độc hoặc co bóp bơm nước và tiêu hoá thức ăn.
-- **Bối cảnh:** Sinh học lớp 10, Bài 8 (Mục II.6): Cấu tạo và sự đa dạng chức năng của không bào ở thực vật và động vật nguyên sinh.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.6), tr. 51; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14), tr. 59
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: An organelle that is large in plant cells to store pigments, waste products, or nutrients, and also occurs in certain unicellular animal cells where it performs contractile and digestive functions. / VI: Bào quan có kích thước lớn ở tế bào thực vật đảm nhiệm việc chứa sắc tố, chất thải hoặc dự trữ dinh dưỡng, đồng thời xuất hiện ở một số tế bào động vật đơn bào với chức năng co bóp và tiêu hoá.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 8 (Mục II.6): Cấu tạo và sự đa dạng chức năng của không bào ở thực vật và động vật nguyên sinh.
+  - Khoa học tự nhiên lớp 6, Bài 19 (Mục III): Bào quan dự trữ có kích thước lớn đặc trưng ở tế bào thực vật trưởng thành.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.6), tr. 51; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14), tr. 59; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục II), tr. 68; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 68; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 68, 69
 
 ### variegated leaf
 - **Tiếng Việt:** Lá khảm
@@ -8298,6 +8896,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Một loại mô phân sinh bên ở thân và rễ thực vật hai lá mầm, phân chia tạo ra mạch gỗ thứ cấp ở phía trong và mạch rây thứ cấp ở phía ngoài. Hoạt động theo chu kì hằng năm của tầng sinh mạch làm tăng đường kính thân, rễ và tạo nên các vòng gỗ.
 - **Bối cảnh:** Sinh học lớp 11, Bài 20 (Mục II.2.b) và Bài 21 (Mục III.3.a): Thành phần của mô phân sinh bên trực tiếp tạo gỗ thứ cấp và vòng gỗ hằng năm.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B20 (Mục II.2.b), tr. 132; SGK Sinh học 11 KNTT, Chương 03, B21 (Mục III.3.a), tr. 143
+
+### vascular plant
+- **Tiếng Việt:** Thực vật có mạch
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of plants possessing true roots, stems, and leaves along with internal vascular conducting tissues, comprising seedless vascular plants (ferns) and seed plants (gymnosperms and angiosperms).
+- **Giải thích (VI):** Nhóm thực vật có rễ, thân, lá thật và trong cơ thể có hệ mạch dẫn, bao gồm thực vật không hạt (ngành Dương xỉ) và thực vật có hạt (ngành Hạt trần, ngành Hạt kín).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 34 (Mục II.2): Nhóm phân loại lớn của giới Thực vật, phân biệt với thực vật không có mạch (ngành Rêu).
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II), tr. 117; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.1), tr. 117; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 117, 118
 
 ### vector (molecular biology)
 - **Tiếng Việt:** Vector (thể truyền)
@@ -8343,6 +8949,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hiện tượng một số loài thực vật chỉ có thể ra hoa sau khi trải qua một khoảng thời gian nhất định tiếp xúc với nhiệt độ thấp. Hiện tượng này thường gặp ở các cây có nguồn gốc ôn đới (như cà rốt, cải bắp), giúp kéo dài thời gian sinh trưởng và tăng sức chống chịu của cây với mùa đông lạnh giá.
 - **Bối cảnh:** Sinh học lớp 11, Bài 20 (Mục IV.2.b, V): Nhân tố nhiệt độ thấp chi phối sự chuyển pha ra hoa ở thực vật, ứng dụng xử lí lạnh củ, hạt giống.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B20 (Mục IV.2.b), tr. 138; SGK Sinh học 11 KNTT, Chương 03, B20 (Mục V), tr. 139
+
+### vertebrate
+- **Tiếng Việt:** Động vật có xương sống
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of animals whose bodies possess a backbone (vertebral column), comprising the major classes of fishes, amphibians, reptiles, birds, and mammals.
+- **Giải thích (VI):** Nhóm động vật mà cơ thể có xương sống, bao gồm các lớp chủ yếu là cá, Lưỡng cư, Bò sát, Chim và Động vật có vú.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.2): phân loại thế giới động vật dựa trên sự có mặt của xương sống trong cơ thể.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II), tr. 126; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 128; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 128, 129
 
 ### vertical transmission
 - **Tiếng Việt:** Truyền bệnh theo hàng dọc
@@ -8421,8 +9035,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A non-cellular entity of ultramicroscopic size (mostly 20 nm to 300 nm), composed of two main components—a nucleic acid core (DNA or RNA) and a protein coat—with an additional outer envelope in some types. Unable to reproduce or carry out metabolic activities outside a cell, a virus is an obligate intracellular parasite that can replicate only within the cells of living organisms.
 - **Giải thích (VI):** Thực thể chưa có cấu tạo tế bào, kích thước siêu nhỏ (hầu hết từ 20 nm đến 300 nm), cấu tạo gồm hai thành phần chính là lõi nucleic acid (DNA hoặc RNA) và vỏ protein, ở một số loại còn có thêm lớp vỏ ngoài. Không có khả năng sinh sản và thực hiện các hoạt động chuyển hoá khi ở ngoài tế bào, virus sống kí sinh nội bào bắt buộc và chỉ nhân lên được trong tế bào của sinh vật sống.
-- **Bối cảnh:** Sinh học lớp 10, Bài 24 (Mục I, II): Khái niệm trung tâm mở đầu Chương 7 về cấu tạo đại cương và đặc điểm kí sinh nội bào bắt buộc của virus.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 07, B24 (Mục I), tr. 141; SGK Sinh học 10 KNTT, Chương 07, B24 (Mục I), tr. 141, 142
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: An ultramicroscopic biological agent (observable only under an electron microscope) that lacks cellular structure, consists solely of a protein coat and a core of genetic material, and can replicate only inside the cells of living organisms. / VI: Dạng sống có kích thước vô cùng nhỏ bé (chỉ quan sát được dưới kính hiển vi điện tử), chưa có cấu tạo tế bào mà chỉ gồm vỏ protein và lõi vật chất di truyền, bắt buộc phải kí sinh và nhân lên bên trong tế bào của sinh vật sống.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 24 (Mục I, II): Khái niệm trung tâm mở đầu Chương 7 về cấu tạo đại cương và đặc điểm kí sinh nội bào bắt buộc của virus.
+  - Khoa học tự nhiên lớp 6, Bài 29 (Mục I, II): Phân biệt với vi khuẩn ở đặc điểm chưa có cấu tạo tế bào và sống kí sinh nội bào bắt buộc.
+  - *Lưu ý:* Chỉ tác nhân sinh học gây nhiễm trong sinh học, phân biệt với virus máy tính (computer virus) trong tin học.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 07, B24 (Mục I), tr. 141; SGK Sinh học 10 KNTT, Chương 07, B24 (Mục I), tr. 141, 142; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B29, tr. 98; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B29 (Mục I), tr. 98; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B29 (Mục II), tr. 99
 
 ### vision
 - **Tiếng Việt:** Thị giác
@@ -8431,6 +9049,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cảm giác ánh sáng khởi đầu từ mắt giúp động vật cảm nhận hình ảnh và màu sắc của vật. Ánh sáng đi qua hệ khúc xạ của mắt (giác mạc, thuỷ dịch, thuỷ tinh thể, dịch kính) kích thích tế bào que và tế bào nón ở màng lưới, làm phát sinh xung thần kinh truyền qua tế bào lưỡng cực, tế bào hạch rồi theo dây thần kinh thị giác về vùng thị giác ở thuỳ chẩm vỏ não.
 - **Bối cảnh:** Sinh học lớp 11, Bài 17 (Mục III.4): Cơ chế thu nhận, chuyển đổi và dẫn truyền tín hiệu ánh sáng từ cầu mắt về vỏ não.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B17 (Mục III.4), tr. 107
+
+### vitamin
+- **Tiếng Việt:** Vitamin
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of nutrients required by the body in small amounts yet exerting a major impact on metabolism and normal development. They are classified into fat-soluble vitamins (A, D, E, K) and water-soluble vitamins (B group, C).
+- **Giải thích (VI):** Nhóm chất dinh dưỡng mà cơ thể chỉ cần một lượng nhỏ nhưng có tác dụng lớn đối với quá trình trao đổi chất và sự phát triển bình thường. Nhóm này gồm các vitamin tan trong chất béo (A, D, E, K) và các vitamin tan trong nước (nhóm B, C).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 15 (Mục II.2.c): Vi chất dinh dưỡng trong rau quả và thực phẩm giúp phòng ngừa các bệnh thiếu hụt như quáng gà, còi xương.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.a), tr. 54; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.b), tr. 54; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.c), tr. 54
 
 ### viviparity
 - **Tiếng Việt:** Đẻ con (thai sinh)
@@ -8495,6 +9121,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tế bào lưỡng bội (2n) đầu tiên được tạo thành từ sự kết hợp giữa giao tử đực (n) và giao tử cái (n) trong quá trình thụ tinh. Tế bào hợp tử trải qua nhiều lần nguyên phân và biệt hoá tế bào để phát triển thành cơ thể đa bào trưởng thành.
 - **Bối cảnh:** Sinh học lớp 10, Bài 17 (Mục III): Tế bào khởi đầu của cơ thể mới được tạo ra sau thụ tinh.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B17 (Mục I.3), tr. 105; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục III), tr. 106
+
+### zygote fungi
+- **Tiếng Việt:** Nấm tiếp hợp
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of fungi comprising fast-growing molds on food surfaces (such as bread, peaches, strawberries, and sweet potatoes) that cause food spoilage during storage.
+- **Giải thích (VI):** Nhóm nấm bao gồm các loài nấm mốc sinh trưởng nhanh trên bề mặt lương thực, thực phẩm (như bánh mì, đào, dâu, khoai lang), gây ôi thiu và hư hỏng thức ăn trong quá trình cất trữ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 32 (Mục I): Một trong ba nhóm nấm phổ biến phân biệt theo đặc điểm sinh sản và hình thái.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B32, tr. 108; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B32 (Mục I), tr. 108
 
 ### β-galactosidase
 - **Tiếng Việt:** β-galactosidase

@@ -1,0 +1,158 @@
+{
+  "H6-khoa_hoc_tu_nhien-b40-01": {
+    "pdf_page": 145,
+    "bbox": [70, 366, 534, 486],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới trái của dãy hình mở đầu a)–d) nằm sát biểu tượng bàn tay của hộp Mở đầu"
+  },
+  "H6-khoa_hoc_tu_nhien-b40-02": {
+    "pdf_page": 145,
+    "bbox": [305, 592, 540, 769]
+  },
+  "H6-khoa_hoc_tu_nhien-b40-03": {
+    "pdf_page": 146,
+    "bbox": [46, 220, 556, 411]
+  },
+  "H6-khoa_hoc_tu_nhien-b40-04": {
+    "pdf_page": 146,
+    "bbox": [392, 497, 549, 761]
+  },
+  "H6-khoa_hoc_tu_nhien-b40-05": {
+    "pdf_page": 147,
+    "bbox": [383, 210, 552, 418]
+  },
+  "H6-khoa_hoc_tu_nhien-b40-06": {
+    "pdf_page": 147,
+    "bbox": [393, 435, 556, 560]
+  },
+  "H6-khoa_hoc_tu_nhien-b41-01": {
+    "pdf_page": 148,
+    "bbox": [386, 309, 551, 604]
+  },
+  "H6-khoa_hoc_tu_nhien-b41-02": {
+    "pdf_page": 148,
+    "bbox": [60, 626, 551, 775]
+  },
+  "H6-khoa_hoc_tu_nhien-b41-03": {
+    "pdf_page": 149,
+    "bbox": [69, 321, 239, 567]
+  },
+  "H6-khoa_hoc_tu_nhien-b41-04": {
+    "pdf_page": 149,
+    "bbox": [268, 322, 523, 566]
+  },
+  "H6-khoa_hoc_tu_nhien-b41-05": {
+    "pdf_page": 150,
+    "bbox": [62, 92, 540, 265],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 41.5 nằm trọn trong hộp Câu hỏi nền vàng cam; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b41-06": {
+    "pdf_page": 150,
+    "bbox": [283, 521, 530, 766],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trái cắt qua mép nền mây/cỏ trang trí bên trái Hình 41.6 để không dính chữ đoạn văn ở góc trên trái"
+  },
+  "H6-khoa_hoc_tu_nhien-b41-07": {
+    "pdf_page": 151,
+    "bbox": [161, 102, 381, 184]
+  },
+  "H6-khoa_hoc_tu_nhien-b41-08": {
+    "pdf_page": 151,
+    "bbox": [79, 319, 521, 592]
+  },
+  "H6-khoa_hoc_tu_nhien-b42-01": {
+    "pdf_page": 152,
+    "bbox": [84, 192, 536, 352]
+  },
+  "H6-khoa_hoc_tu_nhien-b42-02": {
+    "pdf_page": 152,
+    "bbox": [326, 486, 521, 613]
+  },
+  "H6-khoa_hoc_tu_nhien-b42-03": {
+    "pdf_page": 153,
+    "bbox": [314, 166, 512, 603],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 42.2 nằm trong hộp Hoạt động nền xanh lam nhạt bên phải cột chữ (chú thích in tách dưới cột chữ bên trái); cạnh trái đi sát đuôi thanh kẹp dưới để không dính chữ đoạn văn bên trái"
+  },
+  "H6-khoa_hoc_tu_nhien-b42-04": {
+    "pdf_page": 154,
+    "bbox": [375, 229, 548, 341]
+  },
+  "H6-khoa_hoc_tu_nhien-b43-01": {
+    "pdf_page": 155,
+    "bbox": [52, 194, 349, 423]
+  },
+  "H6-khoa_hoc_tu_nhien-b43-02": {
+    "pdf_page": 155,
+    "bbox": [172, 672, 382, 740]
+  },
+  "H6-khoa_hoc_tu_nhien-b43-03": {
+    "pdf_page": 157,
+    "bbox": [312, 58, 512, 243],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 43.1 nằm trong hộp Câu hỏi nền vàng cam; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b44-01": {
+    "pdf_page": 158,
+    "bbox": [385, 356, 543, 482],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trái khung Hình 44.1 đi qua góc bo nền vàng cam của hộp Câu hỏi bên trái, không chạm chữ"
+  },
+  "H6-khoa_hoc_tu_nhien-b44-02": {
+    "pdf_page": 158,
+    "bbox": [74, 520, 318, 777],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 44.2 nằm trọn trong hộp Câu hỏi nền vàng cam; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b44-03": {
+    "pdf_page": 158,
+    "bbox": [390, 497, 548, 669]
+  },
+  "H6-khoa_hoc_tu_nhien-b44-04": {
+    "pdf_page": 159,
+    "bbox": [71, 192, 333, 341]
+  },
+  "H6-khoa_hoc_tu_nhien-b44-05": {
+    "pdf_page": 159,
+    "bbox": [384, 151, 540, 266],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 44.5 nằm trong hộp Em có biết? nền xanh lục nhạt; cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b44-06": {
+    "pdf_page": 159,
+    "bbox": [44, 468, 544, 786],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh Hình 44.6 nằm trong hộp Hoạt động nền xanh lam nhạt; cạnh trên chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b44-07": {
+    "pdf_page": 160,
+    "bbox": [395, 97, 536, 549],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh Hình 44.7 nằm trong hộp Câu hỏi nền vàng cam; cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b44-08": {
+    "pdf_page": 160,
+    "bbox": [78, 234, 378, 517],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 44.8 nằm trong hộp Câu hỏi nền vàng cam; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b45-01": {
+    "pdf_page": 161,
+    "bbox": [88, 168, 541, 301]
+  },
+  "H6-khoa_hoc_tu_nhien-b45-02": {
+    "pdf_page": 161,
+    "bbox": [66, 563, 514, 706]
+  },
+  "H6-khoa_hoc_tu_nhien-b45-03": {
+    "pdf_page": 162,
+    "bbox": [324, 297, 536, 464],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 45.2 nằm trọn trong phần nền xanh lục của hộp Em có biết?; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b45-04": {
+    "pdf_page": 162,
+    "bbox": [88, 540, 510, 777]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "H6-khoa_hoc_tu_nhien-b46-01": {
+    "pdf_page": 163,
+    "bbox": [72, 302, 533, 536]
+  },
+  "H6-khoa_hoc_tu_nhien-b46-02": {
+    "pdf_page": 164,
+    "bbox": [84, 155, 540, 322]
+  },
+  "H6-khoa_hoc_tu_nhien-b46-03": {
+    "pdf_page": 164,
+    "bbox": [93, 548, 375, 723]
+  },
+  "H6-khoa_hoc_tu_nhien-b47-01": {
+    "pdf_page": 166,
+    "bbox": [108, 167, 540, 309]
+  },
+  "H6-khoa_hoc_tu_nhien-b47-02": {
+    "pdf_page": 168,
+    "bbox": [96, 89, 504, 404],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình minh hoạ câu hỏi 1 nằm trọn trong hộp Câu hỏi nền vàng cam; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b48-01": {
+    "pdf_page": 169,
+    "bbox": [308, 297, 549, 504]
+  },
+  "H6-khoa_hoc_tu_nhien-b48-02": {
+    "pdf_page": 169,
+    "bbox": [381, 517, 548, 611]
+  },
+  "H6-khoa_hoc_tu_nhien-b48-03": {
+    "pdf_page": 169,
+    "bbox": [381, 618, 548, 771]
+  },
+  "H6-khoa_hoc_tu_nhien-b48-04": {
+    "pdf_page": 170,
+    "bbox": [390, 309, 556, 421]
+  },
+  "H6-khoa_hoc_tu_nhien-b48-05": {
+    "pdf_page": 170,
+    "bbox": [385, 437, 551, 671]
+  },
+  "H6-khoa_hoc_tu_nhien-b48-06": {
+    "pdf_page": 171,
+    "bbox": [316, 42, 498, 163],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 48.6 nằm trong hộp Câu hỏi nền vàng cam bên phải đoạn câu hỏi (chú thích in trải ngang dưới đoạn câu hỏi); cạnh khung đi qua màu nền hộp, không chạm chữ"
+  },
+  "H6-khoa_hoc_tu_nhien-b48-07": {
+    "pdf_page": 171,
+    "bbox": [398, 202, 534, 422],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh Hình 48.7 nằm trong hộp Hoạt động nền xanh lam nhạt; cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b49-01": {
+    "pdf_page": 172,
+    "bbox": [56, 182, 375, 342],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh cọc kiềng ba chân ở hình a) nằm sát dưới dòng chữ Mục tiêu; đặt cạnh trên tại y=178 để tách hẳn chữ Mục tiêu"
+  },
+  "H6-khoa_hoc_tu_nhien-b49-02": {
+    "pdf_page": 173,
+    "bbox": [275, 56, 544, 260],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 49.1 nằm trong hộp Hoạt động nền xanh lam nhạt; cạnh trên và trái chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b49-03": {
+    "pdf_page": 173,
+    "bbox": [388, 293, 541, 439],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trái khung Hình 49.2 đi qua nền xanh lục của hộp Em có biết?, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b49-04": {
+    "pdf_page": 173,
+    "bbox": [315, 571, 517, 784]
+  },
+  "H6-khoa_hoc_tu_nhien-b50-01": {
+    "pdf_page": 174,
+    "bbox": [390, 353, 559, 769]
+  },
+  "H6-khoa_hoc_tu_nhien-b50-02": {
+    "pdf_page": 175,
+    "bbox": [75, 436, 520, 768]
+  },
+  "H6-khoa_hoc_tu_nhien-b50-03": {
+    "pdf_page": 176,
+    "bbox": [84, 108, 375, 305]
+  },
+  "H6-khoa_hoc_tu_nhien-b50-04": {
+    "pdf_page": 176,
+    "bbox": [390, 490, 564, 733]
+  },
+  "H6-khoa_hoc_tu_nhien-b51-01": {
+    "pdf_page": 177,
+    "bbox": [114, 174, 475, 412]
+  },
+  "H6-khoa_hoc_tu_nhien-b51-02": {
+    "pdf_page": 179,
+    "bbox": [144, 488, 464, 770],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 51.1 nằm trọn trong hộp Em có thể nền vàng cam; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  }
+}

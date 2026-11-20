@@ -209,12 +209,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 7 (Viet Nam and international organisations): dùng để nêu tôn chỉ hoạt động của các tổ chức quốc tế tại Việt Nam (UNICEF particularly aims to support the most disadvantaged children, UNICEF's education aims, achieve their aims).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7, tr. 76; SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục I), tr. 76; SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục I), tr. 76, 77
 
-### air pollution
+### air pollution (English)
 - **Tiếng Việt:** ô nhiễm không khí
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (np) /ˈeə pəˌluːʃn/ — The presence of harmful smoke, waste gases, and chemicals in the atmosphere that damage human health and the environment.
 - **Giải thích (VI):** (cụm danh từ) Tình trạng không khí bị nhiễm bẩn bởi khí thải và các chất độc hại từ phương tiện giao thông, máy móc hay nhà máy, gây hại cho sức khỏe và môi trường.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 9: dùng trong chủ đề các vấn đề môi trường để chỉ nguyên nhân gây mưa axit, bệnh hô hấp và ung thư phổi (The burning of coal leads to air pollution; One of the main causes of air pollution is waste gases).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 9: dùng trong chủ đề các vấn đề môi trường để chỉ nguyên nhân gây mưa axit, bệnh hô hấp và ung thư phổi (The burning of coal leads to air pollution; One of the main causes of air pollution is waste gases).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Sự ô nhiễm không khí' trong Hóa học.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục II), tr. 103; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục III), tr. 103; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục III), tr. 103, 104
 
 ### airline pilot
@@ -632,12 +634,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong bài học chỉ hoá đơn tính tiền ở nhà hàng (Anh-Anh); phân biệt với nghĩa dự luật (trong pháp luật) hoặc tờ tiền giấy (Anh-Mỹ).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục V), tr. 67; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 152
 
-### biodiversity
+### biodiversity (English)
 - **Tiếng Việt:** đa dạng sinh học
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˌbaɪəʊdaɪˈvɜːsəti/ — The variety of plant and animal species living in their natural environment in a particular area.
 - **Giải thích (VI):** (danh từ) Sự phong phú và đa dạng của các loài thực vật, động vật cùng sinh sống và phụ thuộc lẫn nhau trong một khu vực tự nhiên nhất định.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 9: dùng trong chủ đề bảo vệ môi trường để nhấn mạnh vai trò phụ thuộc lẫn nhau giữa các loài sinh vật (Biodiversity is important because plants and animals depend on each other to survive).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 9: dùng trong chủ đề bảo vệ môi trường để nhấn mạnh vai trò phụ thuộc lẫn nhau giữa các loài sinh vật (Biodiversity is important because plants and animals depend on each other to survive).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Đa dạng sinh học' trong Sinh học.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục II), tr. 102; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục II), tr. 102, 103; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 130
 
 ### biography
@@ -1236,12 +1240,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 6, Unit 7 (Television): dùng để miêu tả tính cách lanh lợi của các nhân vật hoạt hình ("Jerry's a clever character", "a clever fox called Fatty").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 3, tr. 28, 31, 32; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 70; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 6, 7; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7 (Mục COMMUNICATION), tr. 11; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70
 
-### climate change
+### climate change (English)
 - **Tiếng Việt:** biến đổi khí hậu; sự thay đổi khí hậu
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈklaɪmət ˌtʃeɪndʒ/ — Long-term changes in the world's weather patterns, especially a general increase in global temperatures.
 - **Giải thích (VI):** (danh từ) Sự biến đổi dài hạn của thời tiết toàn cầu, đặc biệt là xu hướng gia tăng nhiệt độ trên Trái Đất.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 9: dùng trong chủ đề các vấn đề môi trường toàn cầu với các cụm như deal with global issues such as deforestation and climate change, draw attention to climate change.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 9: dùng trong chủ đề các vấn đề môi trường toàn cầu với các cụm như deal with global issues such as deforestation and climate change, draw attention to climate change.
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Biến đổi khí hậu' trong Địa lí.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục II), tr. 102; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục II), tr. 102, 103; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục III), tr. 103
 
 ### clip
@@ -1374,7 +1380,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 7: chủ điểm ngữ pháp trọng tâm dùng để so sánh quy mô, mức độ cạnh tranh và sự phát triển trong hội nhập quốc tế (more active, less competitive than, the largest economies, the most disadvantaged children).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7, tr. 76; SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục II), tr. 78; SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục VIII), tr. 85
 
-### compass
+### compass (English)
 - **Tiếng Việt:** com-pa (la bàn)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈkʌmpəs/ — A V-shaped instrument with one sharp point and one pen or pencil, used for drawing circles and measuring distances.
@@ -1384,6 +1390,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 6, Unit 1 (My new school): dùng trong chủ đề đồ dùng học tập và luyện phát âm nguyên âm /ʌ/ ('My brother has a new compass', 'We often use a compass in a maths class').
   - Tiếng Anh lớp 6, Unit 5 (Natural wonders of Viet Nam): dùng trong nhóm vật dụng cần mang theo khi đi dã ngoại, leo núi ("We're lost. Please give me the compass.").
   - *Lưu ý:* Trong Unit 1 mang nghĩa chiếc com-pa vẽ hình tròn; sang Unit 5 (Natural wonders of Viet Nam) từ này còn mang nghĩa chiếc la bàn định hướng.
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'La bàn' trong Địa lí.
   - *Lưu ý:* Trong chủ đề du lịch khám phá ở Unit 5, "compass" mang nghĩa là chiếc la bàn định hướng, cần phân biệt với "compass" ở Unit 1 là chiếc com-pa dùng để vẽ hình tròn.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 1, tr. 7, 8, 14; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 70; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 50; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 50, 51; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5 (Mục COMMUNICATION), tr. 53
 
@@ -4220,12 +4227,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 12 (Robots): dùng làm cụm từ cố định kết hợp động từ make với meals khi nói về khả năng nấu ăn của người máy gia đình (Home robots can make meals for us).
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 12, tr. 58, 59; SGK Tiếng Anh 6 Global Success Tập 2, Review 4, tr. 68
 
-### mammal
+### mammal (English)
 - **Tiếng Việt:** động vật có vú; thú
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈmæml/ — A warm-blooded vertebrate animal of a class in which females secrete milk to feed their young and most species give birth to live offspring.
 - **Giải thích (VI):** (danh từ) Lớp động vật có xương sống máu nóng, thường đẻ con và nuôi con non bằng sữa mẹ.
-- **Bối cảnh:** Tiếng Anh lớp 12, Unit 8: dùng khi giải thích khái niệm bộ linh trưởng ('primates are a group of mammals' — linh trưởng là một nhóm động vật có vú bao gồm khỉ, vượn và con người).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 12, Unit 8: dùng khi giải thích khái niệm bộ linh trưởng ('primates are a group of mammals' — linh trưởng là một nhóm động vật có vú bao gồm khỉ, vượn và con người).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Lớp Động vật có vú' trong Sinh học.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8, tr. 100; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục I), tr. 100; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục I), tr. 100, 101
 
 ### man-made
@@ -4305,12 +4314,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 10: dùng trong phần CLIL tìm hiểu tác động tiêu cực của du lịch đại chúng đối với môi trường tự nhiên và cộng đồng địa phương.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 10 (Mục VII), tr. 117; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục VII), tr. 117, 118; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục VII), tr. 118
 
-### material
+### material (English)
 - **Tiếng Việt:** nguyên liệu; vật liệu
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /məˈtɪəriəl/ — A physical substance that things can be made from.
 - **Giải thích (VI):** (danh từ) Chất liệu hoặc nguyên vật liệu dùng để sản xuất, chế tạo ra các đồ vật và sản phẩm.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 2: dùng trong chủ đề tái chế và sống xanh với các cụm collect new raw materials (khai thác nguyên liệu thô mới), eco-friendly materials và sự phân rã của chất liệu nhựa.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 2: dùng trong chủ đề tái chế và sống xanh với các cụm collect new raw materials (khai thác nguyên liệu thô mới), eco-friendly materials và sự phân rã của chất liệu nhựa.
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Vật liệu' trong Hóa học.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục III), tr. 22; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục IV), tr. 23; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục VIII), tr. 26
 
 ### meanwhile
@@ -4975,12 +4986,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong bài học này, 'place' được dùng như ngoại động từ mang nghĩa đăng quảng cáo ('place an advert'), cần phân biệt với danh từ 'place' (nơi chốn, địa điểm).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7, tr. 88; SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục I), tr. 88; SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục I), tr. 88, 89
 
-### planet
+### planet (English)
 - **Tiếng Việt:** hành tinh
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈplænɪt/ — A large round object in space, such as the Earth or Mars, that moves around the Sun or another star.
 - **Giải thích (VI):** (danh từ) Thiên thể hình cầu lớn trong vũ trụ chuyển động theo quỹ đạo quanh Mặt Trời hoặc một ngôi sao khác.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 12 (Robots) và Review 4: dùng khi nói về người máy vũ trụ xây trạm không gian trên các hành tinh cũng như việc bảo vệ Trái Đất (build space stations on planets; help our planet).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 12 (Robots) và Review 4: dùng khi nói về người máy vũ trụ xây trạm không gian trên các hành tinh cũng như việc bảo vệ Trái Đất (build space stations on planets; help our planet).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Hành tinh' trong Vật lí.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 12, tr. 64; SGK Tiếng Anh 6 Global Success Tập 2, Review 4, tr. 68, 69; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71
 
 ### plaster
@@ -5227,12 +5240,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 8: dùng trong bài hội thoại giới thiệu Trung tâm Cứu hộ Linh trưởng Nguy cấp ('Endangered Primate Rescue Centre'), nơi bảo tồn nhiều loài khỉ và vượn quý hiếm.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8, tr. 100; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục I), tr. 100; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục I), tr. 100, 101
 
-### processor
+### processor (English)
 - **Tiếng Việt:** bộ xử lí (máy tính)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈprəʊsesə/ — The central electronic chip or unit inside a computer that interprets instructions and controls all its operations and parts.
 - **Giải thích (VI):** (danh từ) Bộ xử lí trung tâm điều khiển mọi hoạt động và bộ phận khác của máy tính, có tốc độ xử lí thường được hiển thị bằng đơn vị gigahertz (GHz).
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 5 (Inventions): thuật ngữ tin học trong mục CLIL về phần cứng máy tính (processor — the part of the computer that controls all other parts; Processor speed is often shown in gigahertz (GHz)).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 5 (Inventions): thuật ngữ tin học trong mục CLIL về phần cứng máy tính (processor — the part of the computer that controls all other parts; Processor speed is often shown in gigahertz (GHz)).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Bộ xử lí' trong Tin học.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục VII), tr. 59, 60; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 127
 
 ### profit (English)
@@ -5898,7 +5913,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 8: dùng trong bản tin về chiến dịch tình nguyện bảo tồn sinh vật biển tại Côn Đảo ('sea turtle conservation activities' — các hoạt động bảo tồn rùa biển).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục II), tr. 103; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục III), tr. 104; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục III), tr. 105
 
-### seek
+### seek (English)
 - **Tiếng Việt:** tìm kiếm
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (v) /siːk/ — To look for or try to find or obtain something, especially opportunities or employment.

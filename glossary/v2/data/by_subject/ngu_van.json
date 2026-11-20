@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Ngữ văn",
-    "generated_at": "2026-11-20T02:39:05Z",
+    "generated_at": "2026-11-20T04:26:49Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -17,18 +17,18 @@
       "Tu-dien-Vat-li.md"
     ],
     "counts": {
-      "entries": 340,
+      "entries": 343,
       "by_origin_discipline": {
         "Giáo dục Kinh tế và Pháp luật": 1,
         "Hóa học": 9,
-        "Lịch sử": 4,
+        "Lịch sử": 7,
         "Ngữ văn": 317,
         "Tiếng Anh": 5,
         "Toán học": 3,
         "Vật lí": 1
       },
-      "multi_context_entries": 326,
-      "alt_explanation_entries": 30
+      "multi_context_entries": 330,
+      "alt_explanation_entries": 32
     }
   },
   "entries": [
@@ -623,8 +623,8 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
-      "id": "ngu-van-anonymity",
-      "term_en": "anonymity",
+      "id": "ngu-van-anonymity-literature",
+      "term_en": "anonymity (literature)",
       "term_vi": "Tính vô danh",
       "term_vi_display": "Tính vô danh",
       "aliases_vi": [],
@@ -642,7 +642,9 @@
           "lesson_ref": "Bài 5"
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Không nhầm với 'Tính ẩn danh' (`online anonymity`) trong Tin học."
+      ],
       "sources": [
         {
           "raw": "SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 163",
@@ -3039,6 +3041,56 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "lich-su-classic-of-poetry",
+      "term_en": "Classic of Poetry",
+      "term_vi": "Kinh Thi",
+      "term_vi_display": "Kinh Thi",
+      "aliases_vi": [],
+      "origin_discipline": "Lịch sử",
+      "explanation_en": "The oldest anthology of Chinese poetry, comprising numerous folk compositions compiled and edited by Confucius. The work served as a major inspiration for later Chinese poetry and profoundly influenced the literature of neighboring countries, including Vietnam.",
+      "explanation_vi": "Tập thơ cổ nhất ở Trung Quốc gồm nhiều sáng tác dân gian do Khổng Tử sưu tập và chỉnh lí. Tác phẩm là nguồn cảm hứng lớn cho thơ ca Trung Quốc các giai đoạn sau và ảnh hưởng sâu sắc đến văn học nhiều nước láng giềng, trong đó có Việt Nam.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Lịch sử và Địa lí lớp 6, Bài 9 (Mục 4): thành tựu văn học tiêu biểu của Trung Quốc thời cổ đại.",
+          "disciplines": [
+            "Địa lí",
+            "Lịch sử",
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 4), tr. 42",
+          "book": "SGK Lịch sử và Địa lí 6 KNTT",
+          "unit": "ls_va_dl_6",
+          "group": "Phần Lịch sử, Chương 03",
+          "lesson": "B9",
+          "section": "4",
+          "printed_pages": [
+            42
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 4), tr. 42, 43",
+          "book": "SGK Lịch sử và Địa lí 6 KNTT",
+          "unit": "ls_va_dl_6",
+          "group": "Phần Lịch sử, Chương 03",
+          "lesson": "B9",
+          "section": "4",
+          "printed_pages": [
+            42,
+            43
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Lich-su.md"
+    },
+    {
       "id": "ngu-van-classical-style",
       "term_en": "classical style",
       "term_vi": "Phong cách cổ điển",
@@ -4641,6 +4693,11 @@
           "explanation_vi": "Thông tin dưới dạng âm thanh, hình ảnh, văn bản, số,... đã được đưa vào máy tính dưới dạng dãy bit để máy tính có thể nhận biết và xử lí. Dữ liệu đóng vai trò là yếu tố thể hiện và xác định thông tin."
         },
         {
+          "source_label": "SGK Tin học 6",
+          "explanation_en": "Raw elements perceived by humans from the external world or recorded on storage media from which information is derived. Data appears in the form of numbers, text, images, sounds, or symbols.",
+          "explanation_vi": "Những gì con người tiếp nhận từ thế giới bên ngoài hoặc ghi lại trên vật mang tin để từ đó có được thông tin. Dữ liệu xuất hiện dưới dạng các con số, văn bản, hình ảnh, âm thanh hoặc kí hiệu."
+        },
+        {
           "source_label": "SGK Ngữ văn 11 Tập 2",
           "explanation_en": "Pieces of information mobilized and used within an informational text, existing in diverse forms such as symbols, written words, numbers, images, or audio.",
           "explanation_vi": "Những thông tin được huy động và sử dụng trong văn bản thông tin, tồn tại dưới các hình thức đa dạng như kí hiệu, chữ viết, chữ số, hình ảnh hoặc âm thanh."
@@ -4666,6 +4723,14 @@
             "Tin học"
           ],
           "grade": 10,
+          "lesson_ref": "Bài 1"
+        },
+        {
+          "raw": "Tin học lớp 6, Bài 1 (Mục 1): Nhận diện các dạng thể hiện của dữ liệu và phân biệt dữ liệu với thông tin.",
+          "disciplines": [
+            "Tin học"
+          ],
+          "grade": 6,
           "lesson_ref": "Bài 1"
         },
         {
@@ -4753,6 +4818,40 @@
           "lesson": "B1",
           "section": "1.a",
           "printed_pages": [
+            7
+          ]
+        },
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 01, B1, tr. 6",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 01",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            6
+          ]
+        },
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 01, B1 (Mục 1), tr. 6",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 01",
+          "lesson": "B1",
+          "section": "1",
+          "printed_pages": [
+            6
+          ]
+        },
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 01, B1 (Mục 1), tr. 6, 7",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 01",
+          "lesson": "B1",
+          "section": "1",
+          "printed_pages": [
+            6,
             7
           ]
         },
@@ -10958,6 +11057,67 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "lich-su-mahabharata",
+      "term_en": "Mahabharata",
+      "term_vi": "Ma-ha-bha-ra-ta",
+      "term_vi_display": "Ma-ha-bha-ra-ta",
+      "aliases_vi": [],
+      "origin_discipline": "Lịch sử",
+      "explanation_en": "A monumental ancient Indian epic poem consisting of 110,000 couplets, serving as an \"encyclopedia\" of ancient Indian social life and exerting a profound influence on Southeast Asian literature.",
+      "explanation_vi": "Bản trường ca sử thi đồ sộ của Ấn Độ cổ đại gồm 110 000 câu thơ đôi, phản ánh toàn diện đời sống xã hội đương thời như một bộ “bách khoa toàn thư” và có ảnh hưởng sâu rộng tới văn học Đông Nam Á.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Lịch sử và Địa lí lớp 6, Bài 8 (Mục 3): một trong hai kiệt tác văn học sử thi tiêu biểu nhất của nền văn minh Ấn Độ cổ đại.",
+          "disciplines": [
+            "Địa lí",
+            "Lịch sử",
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 8"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37",
+          "book": "SGK Lịch sử và Địa lí 6 KNTT",
+          "unit": "ls_va_dl_6",
+          "group": "Phần Lịch sử, Chương 03",
+          "lesson": "B8",
+          "section": "3",
+          "printed_pages": [
+            37
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37, 38",
+          "book": "SGK Lịch sử và Địa lí 6 KNTT",
+          "unit": "ls_va_dl_6",
+          "group": "Phần Lịch sử, Chương 03",
+          "lesson": "B8",
+          "section": "3",
+          "printed_pages": [
+            37,
+            38
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 6 KNTT, Bảng phiên âm, tr. 195",
+          "book": "SGK Lịch sử và Địa lí 6 KNTT",
+          "unit": "ls_va_dl_6",
+          "group": null,
+          "lesson": "Bảng phiên âm",
+          "section": null,
+          "printed_pages": [
+            195
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Lich-su.md"
+    },
+    {
       "id": "ngu-van-mahabharata-and-ramayana",
       "term_en": "Mahabharata and Ramayana",
       "term_vi": "Ma-ha-bha-ra-ta và Ra-ma-y-a-na",
@@ -14228,8 +14388,8 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
-      "id": "ngu-van-paragraph",
-      "term_en": "paragraph",
+      "id": "ngu-van-paragraph-literature",
+      "term_en": "paragraph (literature)",
       "term_vi": "Đoạn văn",
       "term_vi_display": "Đoạn văn",
       "aliases_vi": [],
@@ -14247,7 +14407,9 @@
           "lesson_ref": "Bài 9"
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Không nhầm với 'Đoạn văn bản' (`HTML paragraph`) trong Tin học."
+      ],
       "sources": [
         {
           "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 88",
@@ -16682,6 +16844,82 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "lich-su-records-of-the-grand-historian",
+      "term_en": "Records of the Grand Historian",
+      "term_vi": "Sử kí",
+      "term_vi_display": "Sử kí",
+      "aliases_vi": [],
+      "origin_discipline": "Lịch sử",
+      "explanation_en": "A renowned historiographical work compiled by Sima Qian, holding not only immense historical value but also standing as a precious cultural heritage of ancient and medieval Chinese civilization.",
+      "explanation_vi": "Bộ tác phẩm sử học nổi tiếng do Tư Mã Thiên biên soạn, không chỉ mang giá trị sử học to lớn mà còn là di sản văn hoá quý báu của nền văn minh Trung Hoa thời kì cổ – trung đại.",
+      "alt_explanations": [
+        {
+          "source_label": "SGK Lịch sử và Địa lí 6",
+          "explanation_en": "The greatest historiographical work of ancient China, compiled by Sima Qian and renowned worldwide. It is also one of humanity's representative literary works.",
+          "explanation_vi": "Công trình sử học lớn nhất của Trung Quốc thời cổ đại do Tư Mã Thiên biên soạn, nổi tiếng trên toàn thế giới. Đây đồng thời là một trong những tác phẩm văn học tiêu biểu của nhân loại."
+        }
+      ],
+      "contexts": [
+        {
+          "raw": "Lịch sử lớp 10, Bài 5 (Mục II.3.b): Thành tựu tiêu biểu trên lĩnh vực Sử học của văn minh Trung Hoa.",
+          "disciplines": [
+            "Lịch sử"
+          ],
+          "grade": 10,
+          "lesson_ref": "Bài 5"
+        },
+        {
+          "raw": "Lịch sử và Địa lí lớp 6, Bài 9 (Mục 4): thành tựu sử học và văn học tiêu biểu của Trung Quốc thời cổ đại.",
+          "disciplines": [
+            "Địa lí",
+            "Lịch sử",
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 46, 47",
+          "book": "SGK Lịch sử 10 KNTT",
+          "unit": "lich_su_10",
+          "group": "Chủ đề 03",
+          "lesson": "B5",
+          "section": "3.b",
+          "printed_pages": [
+            46,
+            47
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 4), tr. 42",
+          "book": "SGK Lịch sử và Địa lí 6 KNTT",
+          "unit": "ls_va_dl_6",
+          "group": "Phần Lịch sử, Chương 03",
+          "lesson": "B9",
+          "section": "4",
+          "printed_pages": [
+            42
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 4), tr. 42, 43",
+          "book": "SGK Lịch sử và Địa lí 6 KNTT",
+          "unit": "ls_va_dl_6",
+          "group": "Phần Lịch sử, Chương 03",
+          "lesson": "B9",
+          "section": "4",
+          "printed_pages": [
+            42,
+            43
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Lich-su.md"
+    },
+    {
       "id": "ngu-van-reduplicative-word",
       "term_en": "reduplicative word",
       "term_vi": "Từ láy",
@@ -18155,7 +18393,13 @@
       "origin_discipline": "Lịch sử",
       "explanation_en": "A calendar system based on the cycle of the Sun's motion, developed by the ancient Greeks and refined by the ancient Romans to a year of 365 and 1/4 days, closely approximating the modern solar calendar.",
       "explanation_vi": "Hệ thống tính lịch dựa theo chu kì chuyển động của Mặt Trời, được người Hy Lạp cổ đại xây dựng và người La Mã cổ đại hoàn thiện với một năm gồm 365 ngày và 1/4 ngày, rất gần với dương lịch phổ biến ngày nay.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Lịch sử và Địa lí 6",
+          "explanation_en": "A calendar system that reckons time based on the cycle of the Earth's orbit around the Sun, used by the Romans and many European peoples.",
+          "explanation_vi": "Hệ lịch tính thời gian dựa theo chu kì chuyển động của Trái Đất quanh Mặt Trời, được người La Mã và nhiều tộc người ở châu Âu sử dụng."
+        }
+      ],
       "contexts": [
         {
           "raw": "Lịch sử lớp 10, Bài 6 (Mục 1.b): Thành tựu thiên văn học và phép làm lịch của cư dân Hy Lạp – La Mã cổ đại.",
@@ -18165,6 +18409,15 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 6"
+        },
+        {
+          "raw": "Lịch sử và Địa lí lớp 6, Bài 3 (Mục 2): phân biệt hệ lịch tính theo chu kì Mặt Trời với âm lịch và làm cơ sở tìm hiểu sự ra đời của Công lịch.",
+          "disciplines": [
+            "Địa lí",
+            "Lịch sử"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 3"
         }
       ],
       "disambiguation_notes": [],
@@ -18179,6 +18432,17 @@
           "printed_pages": [
             52,
             53
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2), tr. 15",
+          "book": "SGK Lịch sử và Địa lí 6 KNTT",
+          "unit": "ls_va_dl_6",
+          "group": "Phần Lịch sử, Chương 01",
+          "lesson": "B3",
+          "section": "2",
+          "printed_pages": [
+            15
           ]
         }
       ],

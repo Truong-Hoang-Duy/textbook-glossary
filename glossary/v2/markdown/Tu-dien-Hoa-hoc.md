@@ -5,6 +5,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 
 ---
 
+### 3R cycle
+- **Tiếng Việt:** Chu trình 3R (3R)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** An environmental material and waste management model comprising three principles: Reduce (minimizing usage), Reuse (using items again), and Recycle (reprocessing waste into new materials).
+- **Giải thích (VI):** Quy trình sử dụng vật liệu và xử lí rác thải bảo vệ môi trường gồm ba nguyên tắc: Reduce (giảm thiểu việc sử dụng), Reuse (tái sử dụng) và Recycle (tái chế).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 12 (Mục III): áp dụng để hạn chế, thu gom và phân loại rác thải sinh hoạt trong gia đình nhằm tiết kiệm vật liệu và bảo vệ môi trường.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục III), tr. 45
+
 ### accumulator
 - **Tiếng Việt:** Acquy
 - **Chuyên ngành gốc:** Hóa học
@@ -36,8 +44,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A phenomenon in which rainwater exhibits abnormally high acidity with $\text{pH} < 5.6$ (below the normal $\text{pH} \approx 5.6$ of unpolluted rain containing dissolved CO₂). It is primarily caused by atmospheric emissions of SO₂ and NOₓ being oxidized and dissolved in rainwater to form sulfuric acid (H₂SO₄) and nitric acid (HNO₃).
 - **Giải thích (VI):** Hiện tượng nước mưa có độ acid cao bất thường với giá trị $\text{pH} < 5,6$ (so với mức $\text{pH} \approx 5,6$ của nước mưa tự nhiên hoà tan CO₂). Nguyên nhân chủ yếu do khí thải SO₂ và NOₓ bị oxi hoá trong khí quyển rồi hoà tan vào nước mưa tạo thành sulfuric acid (H₂SO₄) và nitric acid (HNO₃).
-- **Bối cảnh:** Hóa học lớp 11, Bài 6 (Mục I.3): Phân tích nguyên nhân hoá học, tác hại đối với công trình, cây trồng, thuỷ vực và biện pháp cắt giảm phát thải SO₂, NOₓ.
-- **Nguồn:** SGK Hóa học 11 KNTT, Chương 02, B6, tr. 38; SGK Hóa học 11 KNTT, Chương 02, B6 (Mục I.2), tr. 38; SGK Hóa học 11 KNTT, Chương 02, B6 (Mục I.3), tr. 39
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: Precipitation formed in air polluted by smoke, dust, and toxic emissions, which damages buildings and structures, degrades soil quality, and reduces plant photosynthesis. / VI: Hiện tượng mưa sinh ra do bụi, khói và các khí thải độc hại trong không khí ô nhiễm, làm phá huỷ các công trình xây dựng, giảm chất lượng đất và giảm khả năng quang hợp của cây xanh.
+- **Bối cảnh:**
+  - Hóa học lớp 11, Bài 6 (Mục I.3): Phân tích nguyên nhân hoá học, tác hại đối với công trình, cây trồng, thuỷ vực và biện pháp cắt giảm phát thải SO₂, NOₓ.
+  - Khoa học tự nhiên lớp 6, Bài 11 (Mục V.1): nêu như một hệ quả nguy hại trực tiếp của sự ô nhiễm không khí đối với môi trường và công trình.
+- **Nguồn:** SGK Hóa học 11 KNTT, Chương 02, B6, tr. 38; SGK Hóa học 11 KNTT, Chương 02, B6 (Mục I.2), tr. 38; SGK Hóa học 11 KNTT, Chương 02, B6 (Mục I.3), tr. 39; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục V.1), tr. 40; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục V.2), tr. 40; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục V.2), tr. 40, 41
 
 ### acid-catalyzed ester hydrolysis
 - **Tiếng Việt:** Phản ứng thuỷ phân ester trong môi trường acid
@@ -141,6 +152,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại vật liệu có khả năng tạo lớp màng mỏng bám chắc để kết dính bề mặt của hai vật liệu rắn với nhau mà không làm biến đổi bản chất của các vật liệu được kết dính.
 - **Bối cảnh:** Hóa học lớp 12, Bài 13 (Mục V.1): khái niệm và bản chất kết dính của vật liệu keo dán.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 04, B13, tr. 56; SGK Hóa học 12 KNTT, Chương 04, B13 (Mục V.1), tr. 63; SGK Hóa học 12 KNTT, Chương 04, B13 (Mục V.2.a), tr. 63
+
+### air
+- **Tiếng Việt:** Không khí
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** The gaseous mixture surrounding Earth, composed by volume of approximately 78% nitrogen, 21% oxygen, and about 1% carbon dioxide, water vapor, and other gases. Air supplies essential gases for life and combustion while regulating climate and shielding Earth from incoming meteoroids.
+- **Giải thích (VI):** Hỗn hợp khí bao quanh Trái Đất có thành phần gần đúng theo thể tích gồm 78% nitrogen, 21% oxygen cùng 1% carbon dioxide, hơi nước và các khí khác. Không khí cung cấp chất khí cần cho sự sống, sự cháy, đồng thời giúp điều hoà khí hậu và bảo vệ Trái Đất khỏi thiên thạch rơi từ vũ trụ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 11 (Mục III, IV): xác định tỉ lệ thành phần các chất khí trong khí quyển và vai trò của từng thành phần đối với tự nhiên.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11, tr. 36; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục I), tr. 36; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục II.1), tr. 36; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục IV), tr. 39
+
+### air pollution
+- **Tiếng Việt:** Sự ô nhiễm không khí (ô nhiễm không khí)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** The adverse alteration of air composition—characterized by decreased oxygen, increased carbon dioxide, and the presence of smoke, dust, or toxic gases. Resulting from natural events (volcanic eruptions, wildfires) or human activities (waste, vehicle and industrial emissions), it severely harms the environment and human health.
+- **Giải thích (VI):** Hiện tượng thành phần không khí bị thay đổi theo hướng lượng oxygen giảm, lượng carbon dioxide tăng và xuất hiện các khí độc hại, khói, bụi. Hiện tượng này có nguyên nhân từ tự nhiên (núi lửa phun, cháy rừng) hoặc hoạt động của con người (rác thải, khí thải từ ô tô và nhà máy), gây ảnh hưởng nghiêm trọng đến môi trường và đời sống.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 11 (Mục V): nhận diện biểu hiện, nguồn gây ô nhiễm không khí và đề xuất các biện pháp bảo vệ bầu khí quyển trong lành.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục IV), tr. 39; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục V.1), tr. 39; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục V.1), tr. 39, 40
 
 ### air pollution from vehicle exhaust
 - **Tiếng Việt:** Ô nhiễm không khí do khí thải phương tiện giao thông
@@ -427,6 +454,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 11, Bài 17 (Mục IV.1.b): Tổng hợp nitrobenzene (nguyên liệu sản xuất aniline, dược phẩm) và chất nổ TNT trong quân sự, khai thác mỏ.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 04, B17 (Mục III), tr. 104; SGK Hóa học 11 KNTT, Chương 04, B17 (Mục IV.1), tr. 104; SGK Hóa học 11 KNTT, Chương 04, B17 (Mục IV.1.a), tr. 104
 
+### artificial object
+- **Tiếng Việt:** Vật thể nhân tạo
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** An object made by humans from natural or synthesized substances to serve practical needs in daily life and production.
+- **Giải thích (VI):** Vật thể do con người tạo ra từ các chất tự nhiên hoặc chất điều chế nhằm phục vụ nhu cầu đời sống và sản xuất.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 9 (Mục I): phân loại các vật thể quanh ta như bánh mì, cầu Long Biên, nước ngọt có gas đối lập với vật thể tự nhiên.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9, tr. 28; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9 (Mục I), tr. 28
+
 ### arylamine
 - **Tiếng Việt:** Arylamine
 - **Chuyên ngành gốc:** Hóa học
@@ -564,6 +599,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 12, Bài 8 (Mục II, IV.1): Tính chất hoá học trọng tâm của nhóm chức amine và ứng dụng khử mùi tanh cá bằng giấm ăn.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 03, B8 (Mục IV.1), tr. 38; SGK Hóa học 12 KNTT, Chương 03, B8 (Mục IV.1), tr. 38, 39
 
+### bauxite ore
+- **Tiếng Việt:** Quặng bauxite
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A natural ore used to produce aluminum, an important material in aircraft and automobile manufacturing, electrical engineering, and construction.
+- **Giải thích (VI):** Loại quặng tự nhiên dùng để sản xuất nhôm — vật liệu quan trọng trong chế tạo máy bay, ô tô, kĩ thuật điện và xây dựng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 13 (Mục I, III): minh hoạ việc chế biến quặng thành kim loại và giới thiệu nguồn quặng bauxite phân bố ở Tây Nguyên của Việt Nam.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục I), tr. 46; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục III), tr. 48
+
 ### biodiesel
 - **Tiếng Việt:** Biodiesel
 - **Chuyên ngành gốc:** Hóa học
@@ -627,11 +670,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A class of polyfunctional organic compounds commonly represented by the general formula $\text{C}_n(\text{H}_2\text{O})_m$, comprising three main subclasses: monosaccharides, disaccharides, and polysaccharides.
 - **Giải thích (VI):** Nhóm hợp chất hữu cơ tạp chức thường có công thức chung $\text{C}_n(\text{H}_2\text{O})_m$, bao gồm ba phân nhóm chính là monosaccharide, disaccharide và polysaccharide.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A group of organic substances comprising starch, sugar, and dietary fiber, mostly of plant origin. It serves as the primary source of energy for the body's vital activities. / VI: Nhóm chất hữu cơ bao gồm tinh bột, đường và chất xơ, phần lớn có nguồn gốc từ thực vật. Đây là nguồn cung cấp năng lượng chính cho các hoạt động sống của cơ thể.
 - **Giải thích khác (SGK Sinh học 10):** EN: A class of biomolecules composed of carbon, hydrogen, and oxygen in a 1 : 2 : 1 ratio with the general formula Cₙ(H₂O)ₘ, classified into monosaccharides, disaccharides, and polysaccharides. They primarily function to supply and store energy and to serve as structural materials for various cellular components. / VI: Nhóm phân tử sinh học được cấu tạo từ ba nguyên tố C, H và O theo tỉ lệ 1 : 2 : 1 với công thức chung Cₙ(H₂O)ₘ, được chia thành đường đơn, đường đôi và đường đa. Nhóm chất này giữ chức năng chính là cung cấp, dự trữ năng lượng và làm nguyên liệu cấu trúc nên nhiều thành phần của tế bào.
 - **Bối cảnh:**
   - Hóa học lớp 12, Bài 4 (Mục I.1, I.2): Khái niệm chung và phân loại các hợp chất đường, tinh bột và cellulose.
+  - Khoa học tự nhiên lớp 6, Bài 15 (Mục II.1): Nhóm chất dinh dưỡng chính có trong lương thực và các loại quả ngọt, rau xanh.
   - Sinh học lớp 10, Bài 5 (Mục II.1, II.4): Cấu tạo, phân loại và vai trò của nhóm carbohydrate trong tế bào.
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 02, B4, tr. 20; SGK Hóa học 12 KNTT, Chương 02, B4 (Mục I.1), tr. 20; SGK Hóa học 12 KNTT, Chương 02, B4 (Mục I.2), tr. 21; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.1), tr. 29; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 39, 40
+- **Nguồn:** SGK Hóa học 12 KNTT, Chương 02, B4, tr. 20; SGK Hóa học 12 KNTT, Chương 02, B4 (Mục I.1), tr. 20; SGK Hóa học 12 KNTT, Chương 02, B4 (Mục I.2), tr. 21; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục I), tr. 53; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.1), tr. 53; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục III), tr. 55; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.1), tr. 29; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 39, 40
 
 ### carbon chain
 - **Tiếng Việt:** Mạch carbon
@@ -678,8 +723,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** An iron alloy containing approximately $95\%$ iron, $2\%$ to $4\%$ carbon, and minor amounts of elements such as manganese, silicon, phosphorus, and sulfur; harder yet more brittle than pure iron, it is used as a feedstock for steelmaking and for making cookware and machine parts.
 - **Giải thích (VI):** Hợp kim chứa khoảng $95\%$ sắt, từ $2\%$ đến $4\%$ carbon và một số nguyên tố khác như manganese, silicon, phosphorus, sulfur; có đặc tính cứng hơn nhưng giòn hơn sắt, dùng làm nguyên liệu sản xuất thép, chế tạo dụng cụ đun nấu và chi tiết máy.
-- **Bối cảnh:** Hóa học lớp 12, Bài 21 (Mục III.1.a): phân biệt thành phần hàm lượng carbon và tính chất của gang với thép.
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 06, B21 (Mục I.1), tr. 99; SGK Hóa học 12 KNTT, Chương 06, B21 (Mục II), tr. 100; SGK Hóa học 12 KNTT, Chương 06, B21 (Mục III.1.a), tr. 100
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: An alloy of iron with carbon and other substances containing approximately 5% carbon. This material is produced from iron ore and used in construction, machinery and tool manufacturing, or steelmaking. / VI: Hợp kim của sắt với carbon và các chất khác, trong đó hàm lượng carbon chiếm khoảng 5%. Vật liệu này được chế tạo từ quặng sắt và dùng trong xây dựng, chế tạo máy móc, dụng cụ hoặc luyện thép.
+- **Bối cảnh:**
+  - Hóa học lớp 12, Bài 21 (Mục III.1.a): phân biệt thành phần hàm lượng carbon và tính chất của gang với thép.
+  - Khoa học tự nhiên lớp 6, Bài 13 (Mục III): Vật liệu kim loại chế tạo từ quặng sắt, phân biệt với thép ở hàm lượng carbon cao hơn (khoảng 5%).
+- **Nguồn:** SGK Hóa học 12 KNTT, Chương 06, B21 (Mục I.1), tr. 99; SGK Hóa học 12 KNTT, Chương 06, B21 (Mục II), tr. 100; SGK Hóa học 12 KNTT, Chương 06, B21 (Mục III.1.a), tr. 100; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục III), tr. 48; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194
 
 ### catalyst
 - **Tiếng Việt:** Chất xúc tác (xúc tác)
@@ -731,6 +779,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cation kim loại hoặc nguyên tử kim loại (thường kí hiệu là M) nằm ở vị trí trung tâm của phức chất và liên kết với các phối tử xung quanh. Nguyên tử trung tâm cung cấp các orbital trống để nhận cặp electron chưa liên kết từ phối tử tạo thành liên kết cho – nhận, ví dụ $\text{Co}^{3+}$ trong $[\text{Co(NH}_3)_6]^{3+}$.
 - **Bối cảnh:** Hóa học lớp 12, Bài 28 (Mục I): Thành phần cốt lõi cùng với phối tử tạo nên cầu nội của phức chất.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 08, B28, tr. 134; SGK Hóa học 12 KNTT, Chương 08, B28 (Mục I), tr. 134; SGK Hóa học 12 KNTT, Chương 08, B28 (Mục I), tr. 134, 135
+
+### ceramics
+- **Tiếng Việt:** Gốm, sứ
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A class of human-made ceramic materials (including pottery and porcelain) that resist corrosion, conduct heat poorly, are nearly non-conductive electrically, and are hard yet brittle, commonly shaped into jars, tableware, and flowerpots.
+- **Giải thích (VI):** Nhóm vật liệu nhân tạo không bị ăn mòn, dẫn nhiệt kém, hầu như không dẫn điện, cứng nhưng giòn và dễ vỡ, thường dùng để chế tạo chum vại, bát đĩa, chậu hoa với các hình dạng khác nhau.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 12 (Mục I, II): tìm hiểu tính chất cách nhiệt, cách điện, độ cứng và độ giòn của đồ gốm, sứ trong sinh hoạt hằng ngày.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục I), tr. 42; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 44
 
 ### cetane number
 - **Tiếng Việt:** Chỉ số cetane
@@ -790,14 +846,6 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 10, Bài 2 (Mục I): Phân biệt khái niệm nguyên tố hoá học với từng đồng vị cụ thể có số neutron khác nhau.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B2, tr. 17; SGK Hóa học 10 KNTT, Chương 01, B2 (Mục I), tr. 17; SGK Hóa học 10 KNTT, Chương 01, B2 (Mục II), tr. 17
 
-### chemical energy
-- **Tiếng Việt:** Hoá năng
-- **Chuyên ngành gốc:** Hóa học
-- **Giải thích (EN):** The form of energy stored within the chemical bonds of molecules. In the living world, chemical energy is stored in organic compounds by plants through photosynthesis, obtained by animals through food, and transferred into readily usable small molecules such as ATP and NADH via cellular respiration.
-- **Giải thích (VI):** Dạng năng lượng tích luỹ trong các liên kết hoá học của phân tử vật chất. Trong sinh giới, hoá năng được thực vật tích luỹ trong các hợp chất hữu cơ nhờ quang hợp, được động vật tiếp nhận qua thức ăn và được chuyển sang các phân tử nhỏ dễ sử dụng như ATP, NADH qua hô hấp tế bào.
-- **Bối cảnh:** Sinh học lớp 11, Bài 1 (Mục III.1, III.2): dạng năng lượng dự trữ trong liên kết hoá học của chất hữu cơ và ATP.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III.1), tr. 6; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III.1), tr. 7; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III.2), tr. 7
-
 ### chemical equilibrium
 - **Tiếng Việt:** Cân bằng hoá học
 - **Chuyên ngành gốc:** Hóa học
@@ -806,6 +854,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 11, Bài 1 (Mục II.1): Giải thích bản chất cân bằng động của các phản ứng thuận nghịch trong tự nhiên, cơ thể người và sản xuất công nghiệp.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 01, B1 (Mục II.1), tr. 9; SGK Hóa học 11 KNTT, Chương 01, B1 (Mục II.2.a), tr. 9; SGK Hóa học 11 KNTT, Chương 01, B1 (Mục II.2.a), tr. 9, 10
 
+### chemical property
+- **Tiếng Việt:** Tính chất hoá học
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** The ability of a substance to undergo transformation into one or more different substances, such as decomposing upon heating or burning to form new products.
+- **Giải thích (VI):** Khả năng biến đổi của chất này thành chất khác, chẳng hạn khả năng bị phân huỷ khi đun nóng hoặc khả năng cháy tạo ra chất mới.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 9 (Mục II): nhận diện qua các hiện tượng tạo ra chất mới như nung đá vôi thành vôi sống, đốt than đá tạo khí carbon dioxide hay đun nóng đường hoá nâu sẫm.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9 (Mục II), tr. 29; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195
+
 ### chemical structure
 - **Tiếng Việt:** Cấu tạo hoá học
 - **Chuyên ngành gốc:** Hóa học
@@ -813,6 +869,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Thứ tự liên kết xác định giữa các nguyên tử theo đúng hoá trị trong phân tử chất hữu cơ; sự thay đổi thứ tự liên kết đó sẽ tạo ra chất khác.
 - **Bối cảnh:** Hóa học lớp 11, Bài 13 (Mục I): Giải thích vì sao ethanol (CH₃–CH₂–OH) và dimethyl ether (CH₃–O–CH₃) có cùng công thức phân tử C₂H₆O nhưng khác hẳn nhau về tính chất.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B13 (Mục I), tr. 74; SGK Hóa học 11 KNTT, Chương 03, B13 (Mục I), tr. 74, 75
+
+### chemistry
+- **Tiếng Việt:** Hoá học
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A major branch of natural science dedicated to studying substances and their transformations.
+- **Giải thích (VI):** Lĩnh vực chủ yếu của khoa học tự nhiên chuyên nghiên cứu về các chất và sự biến đổi của chúng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 1 (Mục III): phân loại các hiện tượng biến đổi chất như đun nóng đường thành chất khác trong Bảng 1.1.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục III), tr. 8; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục IV), tr. 10; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194
 
 ### Chile saltpetre
 - **Tiếng Việt:** Diêm tiêu Chile (sodium nitrate; NaNO₃)
@@ -1087,6 +1151,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 11, Bài 11 (Mục III): Áp dụng để tách và tinh chế các chất rắn như quá trình tinh luyện đường đỏ thành đường trắng.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B11 (Mục III.1), tr. 67; SGK Hóa học 11 KNTT, Chương 03, B11 (Mục III.2), tr. 67
 
+### decantation
+- **Tiếng Việt:** Gạn
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A separation technique performed by gently pouring off the clearer upper liquid layer away from the heavier solid sediment settled at the bottom of a container.
+- **Giải thích (VI):** Thao tác tách chất bằng cách rót nhẹ nhàng lớp chất lỏng trong ở phía trên ra khỏi phần cặn rắn nặng hơn đã lắng xuống đáy bình chứa.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 17 (Mục II.1): Thao tác thường kết hợp ngay sau bước lắng và trước bước lọc khi làm trong nước đục.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.1), tr. 61
+
 ### degree of alcohol
 - **Tiếng Việt:** Bậc của alcohol
 - **Chuyên ngành gốc:** Hóa học
@@ -1202,6 +1274,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phương trình biểu diễn sự phân li của một chất điện li thành các ion mang điện trái dấu trong dung dịch. Quá trình phân li của chất điện li mạnh được kí hiệu bằng mũi tên một chiều ($\rightarrow$), còn chất điện li yếu được kí hiệu bằng hai nửa mũi tên ngược chiều nhau ($\rightleftharpoons$).
 - **Bối cảnh:** Hóa học lớp 11, Bài 2 (Mục I.2): Biểu diễn quá trình tạo thành ion trong dung dịch nước của các chất điện li mạnh và chất điện li yếu.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.1), tr. 17; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.a), tr. 18; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.b), tr. 18
+
+### dissolution
+- **Tiếng Việt:** Sự hoà tan
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** The process by which a solid, liquid, or gas disperses uniformly into a solvent to form a solution, with solubility varying across substances. Heating, stirring, or crushing generally increases the rate and extent of solid dissolution, whereas higher temperatures decrease gas solubility.
+- **Giải thích (VI):** Quá trình chất rắn, chất lỏng hoặc chất khí phân tán đồng đều trong dung môi để tạo thành dung dịch với mức độ tan khác nhau tuỳ từng chất. Thông thường khi tăng nhiệt độ, khuấy trộn hoặc nghiền nhỏ thì chất rắn tan nhanh và nhiều hơn, trong khi chất khí lại tan ít hơn khi nhiệt độ tăng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 16 (Mục IV.1, IV.2): Khả năng tan của các chất trong nước và các yếu tố ảnh hưởng đến quá trình tạo dung dịch.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục IV.1), tr. 58
 
 ### distillation
 - **Tiếng Việt:** Chưng cất (phương pháp chưng cất)
@@ -1455,6 +1535,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 11, Bài 12 (Mục I.2b): Thiết lập từ phần trăm khối lượng các nguyên tố (ví dụ hợp chất C₂H₄O₂ có công thức đơn giản nhất là CH₂O).
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B12 (Mục I.2), tr. 70; SGK Hóa học 11 KNTT, Chương 03, B12 (Mục I.2), tr. 71
 
+### emulsion
+- **Tiếng Việt:** Nhũ tương
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A heterogeneous mixture consisting of droplets of one liquid dispersed and suspended in another immiscible liquid, typically opaque, such as milk or agitated oil in water.
+- **Giải thích (VI):** Hỗn hợp không đồng nhất gồm các giọt chất lỏng lơ lửng trong một chất lỏng khác không hoà tan vào nó và thường không trong suốt, ví dụ như sữa hoặc hỗn hợp dầu ăn khuấy trong nước.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 16 (Mục III): Hỗn hợp lỏng - lỏng không đồng nhất, phân biệt với huyền phù (rắn - lỏng) và dung dịch.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục IV.2), tr. 59
+
 ### endothermic reaction
 - **Tiếng Việt:** Phản ứng thu nhiệt
 - **Chuyên ngành gốc:** Hóa học
@@ -1555,6 +1643,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 11, Bài 20 (Mục IV.2): phản ứng tách nước liên phân tử tạo ether khi đun alcohol với H₂SO₄ đặc ở nhiệt độ thích hợp.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 05, B20 (Mục III), tr. 123; SGK Hóa học 11 KNTT, Chương 05, B20 (Mục IV.1), tr. 123; SGK Hóa học 11 KNTT, Chương 05, B20 (Mục IV.2), tr. 123
 
+### evaporation to dryness
+- **Tiếng Việt:** Cô cạn
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A method for separating a dissolved or non-volatile solid from a solution or suspension by completely evaporating the solvent to recover the remaining solid residue.
+- **Giải thích (VI):** Phương pháp tách chất tan rắn (hoặc chất rắn không bay hơi) ra khỏi dung dịch hay huyền phù bằng cách làm cho dung môi bay hơi hết để thu được chất rắn còn lại.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 17 (Mục II.2): Phương pháp tách muối ăn từ dung dịch nước muối hoặc sản xuất muối từ nước biển.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.2), tr. 62; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.3), tr. 62; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.3), tr. 62, 63
+
 ### exothermic reaction
 - **Tiếng Việt:** Phản ứng toả nhiệt
 - **Chuyên ngành gốc:** Hóa học
@@ -1587,6 +1683,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 12, Bài 13 (Mục III.1, III.2): Nhóm vật liệu polymer dùng trong công nghiệp dệt may và kĩ thuật.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 04, B13 (Mục III.1), tr. 59; SGK Hóa học 12 KNTT, Chương 04, B13 (Mục III.2), tr. 59
 
+### filtration
+- **Tiếng Việt:** Lọc
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A method for separating insoluble solid particles from a liquid or gas by passing the mixture through a porous filter medium that retains particles larger than its pores.
+- **Giải thích (VI):** Phương pháp tách các hạt chất rắn không tan ra khỏi chất lỏng hoặc chất khí bằng cách cho hỗn hợp đi qua vật liệu lọc có các lỗ nhỏ li ti để giữ lại những hạt rắn có kích thước lớn hơn lỗ lọc.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 17 (Mục II.1): Phương pháp dùng phễu lót giấy lọc trong phòng thí nghiệm, máy lọc nước sinh hoạt và khẩu trang lọc bụi.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.1), tr. 61; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.2), tr. 62; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.3), tr. 63
+
 ### first ionization energy
 - **Tiếng Việt:** Năng lượng ion hoá thứ nhất ($I_1$)
 - **Chuyên ngành gốc:** Hóa học
@@ -1612,6 +1716,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quá trình biến đổi theo chiều từ trái sang phải trong phương trình hoá học của phản ứng thuận nghịch, tại đó các chất đầu tác dụng với nhau tạo thành các chất sản phẩm trong cùng điều kiện.
 - **Bối cảnh:** Hóa học lớp 11, Bài 1 (Mục I.2): Xác định chiều tạo thành sản phẩm trong phương trình hoá học của phản ứng thuận nghịch.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 01, B1 (Mục I.2), tr. 7; SGK Hóa học 11 KNTT, Chương 01, B1 (Mục I.2), tr. 7, 8; SGK Hóa học 11 KNTT, Chương 01, B1 (Mục I.2), tr. 8
+
+### fossil fuel
+- **Tiếng Việt:** Nhiên liệu hoá thạch
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A group of fuels comprising coal, petroleum, and natural gas formed from the remains of prehistoric plants and animals buried deep underground over millions of years. It represents a finite, depleting fuel resource that causes environmental pollution when burned.
+- **Giải thích (VI):** Nhóm nhiên liệu gồm than đá, dầu mỏ và khí thiên nhiên hình thành từ xác động vật, thực vật bị vùi sâu trong lòng đất qua hàng triệu năm từ thời tiền sử. Đây là nguồn nhiên liệu có hạn, dần cạn kiệt và gây ô nhiễm môi trường khi đốt cháy.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A group of non-renewable fuels comprising coal, petroleum, and natural gas, formed from the remains of prehistoric plants and animals buried deep underground over millions of years. / VI: Nhóm nhiên liệu không tái tạo gồm than đá, dầu mỏ và khí thiên nhiên, hình thành từ xác động vật và thực vật bị vùi sâu trong lòng đất qua hàng triệu năm từ thời tiền sử.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 14 (Mục II, III): Nguồn nhiên liệu truyền thống cần sử dụng tiết kiệm và gắn với bài toán bảo vệ môi trường, an ninh năng lượng.
+  - Khoa học tự nhiên lớp 6, Bài 14 (Mục I, III) và Bài 50 (Mục II): tìm hiểu tính chất, ứng dụng và tác động môi trường của các nhiên liệu truyền thống không tái tạo.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14, tr. 50; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục I), tr. 50; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục II), tr. 50
 
 ### fractional distillation
 - **Tiếng Việt:** Chưng cất phân đoạn
@@ -1644,6 +1759,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Monosaccharide có công thức phân tử C₆H₁₂O₆ (đồng phân của glucose), ở dạng mạch hở chứa năm nhóm hydroxy và một nhóm ketone tồn tại cân bằng với dạng mạch vòng. Hợp chất này là chất rắn vị ngọt, dễ tan trong nước, có nhiều trong trái cây và mật ong, đóng vai trò cung cấp năng lượng cho tế bào.
 - **Bối cảnh:** Hóa học lớp 12, Bài 4 (Mục II): Đối sánh cấu tạo nhóm carbonyl và sự chuyển hoá qua lại với glucose trong môi trường kiềm.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 02, B4, tr. 20; SGK Hóa học 12 KNTT, Chương 02, B4 (Mục I.1), tr. 20; SGK Hóa học 12 KNTT, Chương 02, B4 (Mục I.2), tr. 21
+
+### fuel
+- **Tiếng Việt:** Nhiên liệu
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A combustible substance that releases significant heat upon burning, existing in solid, liquid, or gaseous state. The heat released from its combustion is used for heating, cooking, powering engines, and generating electricity.
+- **Giải thích (VI):** Chất có khả năng cháy được và toả nhiều nhiệt khi cháy, tồn tại ở thể rắn, thể lỏng hoặc thể khí. Nhiệt lượng toả ra khi đốt cháy chất này được sử dụng để sưởi ấm, nấu ăn, vận hành động cơ và phát điện.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A combustible substance that releases energy, producing heat and light when burned, existing in solid (coal, wood), liquid (gasoline, kerosene), or gaseous (fuel gas) states. / VI: Chất dễ cháy, khi bị đốt cháy giải phóng năng lượng dưới dạng nhiệt và ánh sáng, tồn tại ở thể rắn (than đá, gỗ), thể lỏng (xăng, dầu hoả) hoặc thể khí (các loại khí đốt).
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 14 (Mục I): Tính chất, phân loại theo thể và ứng dụng của các chất đốt thông dụng trong đời sống và sản xuất.
+  - Khoa học tự nhiên lớp 6, Bài 14 (Mục I) và Bài 46 (Mục II): nhận biết tính chất các chất đốt thông dụng và vai trò giải phóng năng lượng cho đời sống, sản xuất.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14, tr. 50; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục I), tr. 50; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục II), tr. 50; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B46 (Mục II), tr. 164; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195
 
 ### fuel cell
 - **Tiếng Việt:** Pin nhiên liệu
@@ -1730,6 +1856,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Hóa học lớp 11, Bài 16 (Mục I.2.b): Xét đồng phân không gian của các alkene từ C₄ trở lên như cặp cis-but-2-ene và trans-but-2-ene.
   - *Lưu ý:* Cùng với đồng phân quang học, đồng phân hình học có cấu tạo hoá học giống nhau và chỉ khác vị trí không gian của nguyên tử hoặc nhóm nguyên tử, khác với đồng phân cấu tạo (khác thứ tự liên kết).
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B13 (Mục III), tr. 78; SGK Hóa học 11 KNTT, Chương 04, B16 (Mục I.2.a), tr. 93; SGK Hóa học 11 KNTT, Chương 04, B16 (Mục I.2.b), tr. 93; SGK Hóa học 11 KNTT, Chương 04, B16 (Mục I.3), tr. 94
+
+### glass
+- **Tiếng Việt:** Thuỷ tinh
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A human-made material that is transparent to light, a poor conductor of heat, electrically non-conductive, hard, yet brittle and easily broken.
+- **Giải thích (VI):** Vật liệu nhân tạo có đặc tính trong suốt, cho ánh sáng đi qua, dẫn nhiệt kém, không dẫn điện, cứng nhưng giòn và dễ vỡ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 12 (Mục II): đối chiếu tính chất của thuỷ tinh với các vật liệu khác để giải thích việc dùng thuỷ tinh làm bình hoa, chai lọ và cửa kính.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục I), tr. 42; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 43; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 44
 
 ### glucose
 - **Tiếng Việt:** Glucose
@@ -1870,6 +2004,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Định luật nhiệt hoá học phát biểu rằng sự thay đổi năng lượng (biến thiên enthalpy) trong một quá trình hoá học chỉ phụ thuộc vào trạng thái của các chất ban đầu và các chất sản phẩm, không phụ thuộc vào cách thức phản ứng xảy ra hay các sản phẩm trung gian.
 - **Bối cảnh:** Hóa học lớp 10, Bài 17 (Mục III.2): Cơ sở lí thuyết để tính gián tiếp biến thiên enthalpy của phản ứng từ các số liệu tra cứu (như nhiệt tạo thành, năng lượng liên kết) mà không cần đo trực tiếp bằng thí nghiệm.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 05, B17 (Mục III.2), tr. 86; SGK Hóa học 10 KNTT, Chương 05, B17 (Mục IV), tr. 86, 87
+
+### heterogeneous mixture
+- **Tiếng Việt:** Hỗn hợp không đồng nhất
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A type of mixture in which constituent substances are not uniformly distributed throughout and which is typically non-transparent, encompassing systems such as suspensions and emulsions.
+- **Giải thích (VI):** Loại hỗn hợp trong đó các chất thành phần không phân bố đồng đều hoàn toàn với nhau và thường không trong suốt, bao gồm các hệ điển hình như huyền phù và nhũ tương.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 16 (Mục III): Nhóm hỗn hợp đối lập với hỗn hợp đồng nhất (dung dịch) khi quan sát trạng thái phân bố chất.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57
+
+### homogeneous mixture
+- **Tiếng Việt:** Hỗn hợp đồng nhất
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A type of mixture in which extremely small constituent particles are uniformly distributed throughout so that separate components cannot be distinguished by the naked eye, exemplified by solutions.
+- **Giải thích (VI):** Loại hỗn hợp trong đó các hạt cấu thành vô cùng nhỏ phân bố đồng đều khắp mọi phần nên không thể phân biệt riêng rẽ bằng mắt thường, tiêu biểu là các dung dịch.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 16 (Mục II): Phân biệt dung dịch (như nước đường, nước muối) với các hỗn hợp không đồng nhất như huyền phù và nhũ tương.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục IV.2), tr. 59
 
 ### homologous series of benzene
 - **Tiếng Việt:** Dãy đồng đẳng của benzene
@@ -2129,6 +2279,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 11, Bài 2 (Mục III.1): Tính nồng độ ion H⁺ và OH⁻ trong dung dịch nước ở 25 °C để xác định môi trường dung dịch.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 01, B2 (Mục II.1), tr. 20; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục II.2), tr. 20; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục III), tr. 20
 
+### iron ore
+- **Tiếng Việt:** Quặng sắt
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** An iron-bearing ore mined and smelted to manufacture cast iron and steel—two vital iron-based materials used in construction, machinery, and tools.
+- **Giải thích (VI):** Loại quặng dùng làm nguyên liệu chế tạo gang và thép — hai vật liệu quan trọng chứa thành phần chính là sắt dùng trong xây dựng, chế tạo máy và dụng cụ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 13 (Mục III): giới thiệu quy trình nung quặng với than cốc ở lò cao để luyện gang thép và mỏ quặng sắt tiêu biểu ở Thái Nguyên.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục III), tr. 48
+
 ### irreversible reaction
 - **Tiếng Việt:** Phản ứng một chiều
 - **Chuyên ngành gốc:** Hóa học
@@ -2171,6 +2329,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hợp chất hữu cơ trong phân tử có nhóm chức carbonyl (>C=O) liên kết trực tiếp với hai gốc hydrocarbon. Tên thay thế của ketone đơn chức lập bằng tên hydrocarbon tương ứng (bỏ kí tự "e" ở cuối), số chỉ vị trí nhóm >C=O và hậu tố "-one", đánh số mạch carbon từ phía gần nhóm >C=O hơn.
 - **Bối cảnh:** Hóa học lớp 11, Bài 23 (Mục I.1 và Mục I.2): phân loại và gọi tên hợp chất carbonyl có nhóm >C=O gắn giữa hai gốc hydrocarbon, phân biệt với aldehyde.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 06, B23, tr. 136; SGK Hóa học 11 KNTT, Chương 06, B23 (Mục I.1), tr. 136; SGK Hóa học 11 KNTT, Chương 06, B23 (Mục I.1), tr. 136, 137
+
+### laboratory safety rules (chemistry)
+- **Tiếng Việt:** Quy định an toàn trong phòng thực hành
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A set of mandatory rules followed during laboratory work to prevent risks and accidents, including wearing neat attire and personal protective equipment, identifying hazardous materials, and conducting experiments only under supervision. Students must strictly refrain from eating, drinking, horseplay, or tasting and smelling chemicals, and must dispose of waste properly, tidy up equipment, and wash hands with soap afterward.
+- **Giải thích (VI):** Tập hợp các nguyên tắc bắt buộc khi học tập trong phòng thực hành nhằm phòng tránh rủi ro và tai nạn, gồm mặc trang phục gọn gàng, sử dụng thiết bị bảo hộ, nhận biết vật liệu nguy hiểm và chỉ làm thí nghiệm khi có người hướng dẫn. Học sinh tuyệt đối không ăn uống, đùa nghịch, nếm hoặc ngửi hoá chất, đồng thời phải thu gom chất thải đúng quy định, dọn dẹp dụng cụ và rửa sạch tay bằng xà phòng sau thí nghiệm.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 2 (Mục II): thực hiện các nguyên tắc an toàn trước, trong và sau khi làm thí nghiệm.
+  - *Lưu ý:* Không nhầm với 'Quy tắc an toàn trong phòng thực hành' (`laboratory safety rules`) trong Vật lí.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B2, tr. 11; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B2 (Mục I), tr. 11; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B2 (Mục II), tr. 11, 12
+
+### laboratory warning symbol
+- **Tiếng Việt:** Kí hiệu cảnh báo trong phòng thực hành
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A system of standardized signs and pictograms used to identify hazards and prevent risks and accidents in a laboratory. Common categories include circular red-bordered prohibition signs with a diagonal slash and hazard warnings for flammable, toxic, or corrosive substances, electrical hazards, sharp instruments, fragile glassware, and high temperatures.
+- **Giải thích (VI):** Hệ thống biển báo và hình vẽ quy ước giúp nhận biết các mối nguy hiểm để phòng tránh rủi ro, tai nạn trong phòng thực hành. Các nhóm phổ biến gồm biển báo cấm hình tròn viền đỏ gạch chéo và biển cảnh báo nguy hiểm như chất dễ cháy, chất độc, chất ăn mòn, nguồn điện nguy hiểm, dụng cụ sắc nhọn, thuỷ tinh dễ vỡ và nhiệt độ cao.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 2 (Mục I): nhận diện các biển báo an toàn và nguy hiểm trước khi tiến hành thí nghiệm.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B2, tr. 11; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B2 (Mục I), tr. 11; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B2 (Mục II), tr. 11, 12
 
 ### lateral overlap
 - **Tiếng Việt:** Xen phủ bên
@@ -2225,8 +2401,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A natural calcium-containing raw material composed primarily of CaCO₃. In daily life and industry, limestone is widely used to manufacture quicklime and cement and to serve as a building material.
 - **Giải thích (VI):** Nguyên, vật liệu tự nhiên chứa calcium có thành phần chính là CaCO₃. Trong đời sống và công nghiệp, đá vôi được sử dụng phổ biến để sản xuất vôi sống, xi măng và làm vật liệu xây dựng.
-- **Bối cảnh:** Hóa học lớp 12, Bài 25 (Mục II.3): Nguyên, vật liệu chứa calcium phổ biến trong đời sống và sản xuất công nghiệp.
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 07, B25 (Mục II.2.a), tr. 121; SGK Hóa học 12 KNTT, Chương 07, B25 (Mục II.3), tr. 123; SGK Hóa học 12 KNTT, Chương 07, B25 (Mục III.1.a), tr. 123
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A natural rock composed primarily of calcium carbonate mixed with impurities such as clay and sand, which reacts with hydrochloric acid solution to release gas bubbles. Limestone is used to produce quicklime, road aggregate, concrete, and filler powder for rubber and soap manufacturing. / VI: Loại đá tự nhiên có thành phần chủ yếu là calcium carbonate thường lẫn tạp chất như đất sét, cát và tác dụng được với dung dịch hydrochloric acid tạo bọt khí. Đá vôi dùng để sản xuất vôi sống, đập nhỏ làm đường, làm bê tông và chế biến thành bột nhẹ dùng trong sản xuất cao su, xà phòng.
+- **Bối cảnh:**
+  - Hóa học lớp 12, Bài 25 (Mục II.3): Nguyên, vật liệu chứa calcium phổ biến trong đời sống và sản xuất công nghiệp.
+  - Khoa học tự nhiên lớp 6, Bài 13 (Mục II): khảo sát tính chất, ứng dụng và sự phân bố các mỏ đá vôi tập trung nhiều ở các tỉnh phía Bắc và Bắc Trung Bộ Việt Nam.
+- **Nguồn:** SGK Hóa học 12 KNTT, Chương 07, B25 (Mục II.2.a), tr. 121; SGK Hóa học 12 KNTT, Chương 07, B25 (Mục II.3), tr. 123; SGK Hóa học 12 KNTT, Chương 07, B25 (Mục III.1.a), tr. 123; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13, tr. 46; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục I), tr. 46; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục II), tr. 46
 
 ### limewater
 - **Tiếng Việt:** Nước vôi trong
@@ -2237,15 +2416,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B7 (Mục II.2), tr. 44; SGK Sinh học 11 KNTT, Chương 01, B7 (Mục III.1), tr. 44; SGK Sinh học 11 KNTT, Chương 01, B7 (Mục III.2), tr. 45
 
 ### lipid
-- **Tiếng Việt:** Lipid
+- **Tiếng Việt:** Lipid (chất béo)
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A class of organic compounds present in living cells that are insoluble in water but soluble in non-polar organic solvents. Based on molecular structure, this class encompasses fats, waxes, steroids, and phospholipids.
 - **Giải thích (VI):** Nhóm hợp chất hữu cơ có trong tế bào sống, không tan trong nước nhưng tan trong dung môi hữu cơ không phân cực. Dựa trên cấu tạo phân tử, nhóm chất này bao gồm chất béo, sáp, steroid và phospholipid.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A nutrient that serves as an energy reserve in the body, provides insulation against cold, and aids the absorption of fat-soluble vitamins. It occurs in processed products such as butter and vegetable oil as well as natural foods like milk, egg yolk, meat, fish, peanuts, and sesame. / VI: Chất dinh dưỡng đóng vai trò dự trữ năng lượng trong cơ thể, chống lạnh và hỗ trợ hấp thụ các vitamin tan trong chất béo. Chất này có trong các sản phẩm chế biến như bơ, dầu thực vật và thực phẩm tự nhiên như sữa, lòng đỏ trứng, thịt, cá, lạc, vừng.
 - **Giải thích khác (SGK Sinh học 10):** EN: A structurally diverse group of biomolecules (including fats and oils, phospholipids, steroids, carotenoids, waxes, and vitamins A, D, E, and K) sharing a hydrophobic nature due to abundant nonpolar C–H bonds and few oxygen atoms. They primarily function in long-term energy storage, cell membrane structure, and various physiological processes. / VI: Nhóm phân tử sinh học đa dạng về cấu trúc (gồm mỡ và dầu, phospholipid, steroid, carotenoid, sáp và các vitamin A, D, E, K) nhưng có đặc tính chung là kị nước do chứa nhiều liên kết C–H không phân cực và ít nguyên tử oxygen. Chúng giữ chức năng chủ yếu là dự trữ năng lượng dài hạn, cấu tạo màng tế bào và tham gia nhiều hoạt động sinh lí khác.
 - **Bối cảnh:**
   - Hóa học lớp 12, Bài 1 (Mục II.1): Khái niệm chung về nhóm hợp chất lipid và vị trí phân loại của chất béo trong nhóm này.
+  - Khoa học tự nhiên lớp 6, Bài 15 (Mục II.2.b): Nhóm chất béo dự trữ năng lượng có trong dầu thực vật, mỡ động vật và các loại hạt có dầu.
   - Sinh học lớp 10, Bài 5 (Mục II.2, II.4): Đặc tính kị nước, phân loại và vai trò của nhóm lipid trong tế bào.
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 01, B1 (Mục I.6), tr. 10; SGK Hóa học 12 KNTT, Chương 01, B1 (Mục II.1), tr. 10; SGK Hóa học 12 KNTT, Chương 01, B1 (Mục II.1), tr. 10, 11; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.2), tr. 31; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 39, 40
+- **Nguồn:** SGK Hóa học 12 KNTT, Chương 01, B1 (Mục I.6), tr. 10; SGK Hóa học 12 KNTT, Chương 01, B1 (Mục II.1), tr. 10; SGK Hóa học 12 KNTT, Chương 01, B1 (Mục II.1), tr. 10, 11; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.a), tr. 54; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.b), tr. 54; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.c), tr. 54; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.2), tr. 31; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 39, 40
 
 ### liquefied natural gas
 - **Tiếng Việt:** LNG (Liquefied Natural Gas; khí thiên nhiên hoá lỏng)
@@ -2268,12 +2449,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 04, B15 (Mục V), tr. 89; SGK Hóa học 11 KNTT, Chương 04, B15 (Mục VI.1), tr. 89; SGK Hóa học 11 KNTT, Chương 04, B15 (Mục VI.2), tr. 89, 90
 
 ### liquid-liquid extraction
-- **Tiếng Việt:** Chiết lỏng – lỏng
+- **Tiếng Việt:** Chiết lỏng – lỏng (Chiết)
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** An extraction technique using a low-boiling liquid solvent that is immiscible with the original solvent (usually water) and dissolves the target substance to transfer an organic compound from water into the extracting solvent. After shaking and layer separation by density in a separatory funnel, the solution containing the target substance (the extract) is separated from water and distilled to recover the organic compound.
 - **Giải thích (VI):** Kĩ thuật chiết dùng một dung môi lỏng không trộn lẫn với dung môi ban đầu (thường là nước), có nhiệt độ sôi thấp và hoà tan tốt chất cần chiết để chuyển chất hữu cơ từ nước sang dung môi chiết. Sau khi lắc và để phân lớp theo khối lượng riêng trong phễu chiết, dung dịch chứa chất cần chiết (dịch chiết) được tách riêng khỏi nước rồi đem chưng cất dung môi để thu chất hữu cơ.
-- **Bối cảnh:** Hóa học lớp 11, Bài 11 (Mục II.2): Dùng để tách chất hữu cơ hoà tan hoặc phân tán dạng nhũ tương, huyền phù trong nước như tách β-carotene từ nước ép cà rốt bằng hexane.
-- **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B11 (Mục II.2), tr. 65, 66; SGK Hóa học 11 KNTT, Chương 03, B11 (Mục II.3), tr. 66
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A method for separating immiscible liquids from a mixture using apparatus such as a separatory funnel, relying on their phase separation into distinct liquid layers. / VI: Phương pháp tách các chất lỏng không tan vào nhau ra khỏi hỗn hợp bằng dụng cụ như phễu chiết hoặc bình chiết dựa trên sự phân tách thành các lớp chất lỏng riêng biệt.
+- **Bối cảnh:**
+  - Hóa học lớp 11, Bài 11 (Mục II.2): Dùng để tách chất hữu cơ hoà tan hoặc phân tán dạng nhũ tương, huyền phù trong nước như tách β-carotene từ nước ép cà rốt bằng hexane.
+  - Khoa học tự nhiên lớp 6, Bài 17 (Mục II.3): Phương pháp dùng phễu chiết tách hỗn hợp lỏng - lỏng không tan vào nhau như dầu ăn và nước.
+  - *Lưu ý:* Ở chương trình Khoa học tự nhiên lớp 6, thuật ngữ này chỉ thao tác tách hai lớp chất lỏng không tan vào nhau bằng phễu chiết.
+- **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B11 (Mục II.2), tr. 65, 66; SGK Hóa học 11 KNTT, Chương 03, B11 (Mục II.3), tr. 66; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.2), tr. 62; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.3), tr. 62; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.3), tr. 62, 63
 
 ### liquid-solid extraction
 - **Tiếng Việt:** Chiết lỏng – rắn
@@ -2341,6 +2526,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Không nhầm với 'Phương pháp phổ khối lượng' (`mass spectrometry`) trong Vật lí.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B2 (Mục IV.1), tr. 19; SGK Hóa học 10 KNTT, Chương 01, B2 (Mục IV.2), tr. 19; SGK Hóa học 10 KNTT, Chương 01, B2 (Mục IV.2), tr. 19, 20
 
+### material
+- **Tiếng Việt:** Vật liệu
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A substance or mixture of substances, either naturally occurring (stone, wood) or human-made (ceramics, porcelain, glass, metals, plastics), selected according to its properties to manufacture tools, goods, and structures.
+- **Giải thích (VI):** Chất hoặc hỗn hợp một số chất có sẵn trong tự nhiên (đá, gỗ) hoặc do con người chế tạo ra (gốm, sứ, thuỷ tinh, kim loại, nhựa), được lựa chọn dựa trên các tính chất đặc trưng để làm dụng cụ, đồ dùng và công trình xây dựng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 12 (Mục I, II, III): khảo sát tính chất, ứng dụng của các vật liệu thông dụng và nguyên tắc sử dụng vật liệu tiết kiệm, an toàn, không gây hại cho môi trường.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12, tr. 42; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục I), tr. 42; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 43
+
 ### matrix
 - **Tiếng Việt:** Vật liệu nền
 - **Chuyên ngành gốc:** Hóa học
@@ -2356,8 +2549,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A class of chemical elements whose atoms have $1, 2,$ or $3$ outermost electrons (excluding $\text{H}$, $\text{He}$, and $\text{B}$), also including certain elements with $4$ outermost electrons and all transition elements.
 - **Giải thích (VI):** Nhóm các nguyên tố hoá học mà nguyên tử có $1, 2$ hoặc $3$ electron ở lớp ngoài cùng (trừ $\text{H}$, $\text{He}$ và $\text{B}$), đồng thời bao gồm một số nguyên tố có $4$ electron lớp ngoài cùng và toàn bộ các nguyên tố chuyển tiếp.
-- **Bối cảnh:** Hóa học lớp 10, Bài 3 (Mục III.3): Dự đoán tính kim loại của nguyên tố dựa trên số electron lớp ngoài cùng của nguyên tử.
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B3 (Mục III.3), tr. 25
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A class of materials characterized by metallic luster, hardness, durability, high electrical and thermal conductivity, ductility, and malleability, though susceptible to rusting. / VI: Nhóm vật liệu có ánh kim, cứng và bền, dẫn điện tốt, dẫn nhiệt tốt, có thể kéo thành sợi và dát mỏng nhưng có thể bị gỉ.
+- **Bối cảnh:**
+  - Hóa học lớp 10, Bài 3 (Mục III.3): Dự đoán tính kim loại của nguyên tố dựa trên số electron lớp ngoài cùng của nguyên tử.
+  - Khoa học tự nhiên lớp 6, Bài 12 (Mục II): giải thích ứng dụng làm dây dẫn điện, nồi đun nấu, cầu cống, khung nhà dựa vào tính dẫn điện, dẫn nhiệt và độ bền cơ học.
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B3 (Mục III.3), tr. 25; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục I), tr. 42; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 43; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 44
 
 ### metal corrosion
 - **Tiếng Việt:** Ăn mòn kim loại
@@ -2422,6 +2618,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Vẻ sáng lấp lánh đặc trưng trên bề mặt kim loại, hình thành do các electron tự do trong tinh thể kim loại phản xạ hầu hết những tia sáng nhìn thấy được.
 - **Bối cảnh:** Hóa học lớp 12, Bài 19 (Mục I.4): tính chất vật lí chung của kim loại được ứng dụng làm đồ trang sức và gương soi.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 06, B19 (Mục I), tr. 89; SGK Hóa học 12 KNTT, Chương 06, B19 (Mục I.1), tr. 90; SGK Hóa học 12 KNTT, Chương 06, B19 (Mục I.2), tr. 90
+
+### methane hydrate
+- **Tiếng Việt:** Đá cháy (băng cháy)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A solid methane hydrate substance formed under conditions of high pressure and low temperature, found in vast quantities deep beneath the Arctic seabed.
+- **Giải thích (VI):** Chất rắn dạng methane hydrate hình thành trong điều kiện áp suất cao và nhiệt độ thấp, tồn tại với lượng rất lớn ở sâu dưới đáy biển Bắc Cực.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 14 (Mục III): Nguồn nhiên liệu tiềm năng được giới thiệu mở rộng trong phần tìm hiểu an ninh năng lượng.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục II), tr. 51; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục III), tr. 51
+
+### mixture
+- **Tiếng Việt:** Hỗn hợp
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A material system containing two or more substances physically combined without chemical interaction among the components. Its properties vary depending on the composition and proportions of the constituent substances.
+- **Giải thích (VI):** Hệ vật chất chứa từ hai chất trở lên trộn lẫn với nhau mà không xảy ra tương tác hoá học giữa các thành phần. Tính chất của hệ thay đổi tuỳ thuộc vào thành phần và tỉ lệ các chất có mặt.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 16 (Mục I): Khái niệm nền tảng để phân loại dung dịch, huyền phù, nhũ tương và lựa chọn phương pháp tách chất.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16, tr. 56; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục I), tr. 56; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 56
 
 ### modelling method
 - **Tiếng Việt:** Phương pháp mô hình
@@ -2542,6 +2754,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với khí mỏ dầu (khí đồng hành khai thác từ các mỏ dầu mỏ).
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 04, B15, tr. 82; SGK Hóa học 11 KNTT, Chương 04, B15 (Mục V), tr. 89; SGK Hóa học 11 KNTT, Chương 04, B15 (Mục VI.1), tr. 89
 
+### natural material
+- **Tiếng Việt:** Vật liệu tự nhiên
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A material occurring naturally, such as stone and wood, used directly by humans to fashion tools, build houses, construct vessels, and erect fortifications.
+- **Giải thích (VI):** Loại vật liệu có sẵn trong tự nhiên như đá và gỗ, được con người sử dụng trực tiếp để làm dụng cụ lao động, xây nhà, đóng tàu thuyền và dựng thành luỹ, pháo đài.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 12 (Mục I): phân biệt với các vật liệu do con người chế tạo không có sẵn trong tự nhiên như gốm, sứ, thuỷ tinh, kim loại và nhựa.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12, tr. 42; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục I), tr. 42
+
 ### natural nitrate formation from rainwater
 - **Tiếng Việt:** Quá trình tạo và cung cấp đạm nitrate cho đất từ nước mưa
 - **Chuyên ngành gốc:** Hóa học
@@ -2549,6 +2769,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chuỗi phản ứng chuyển hoá tự nhiên xảy ra trong các cơn mưa dông kèm sấm sét theo sơ đồ $\text{N}_2 \xrightarrow{+\text{O}_2} \text{NO} \xrightarrow{+\text{O}_2} \text{NO}_2 \xrightarrow{+\text{O}_2 + \text{H}_2\text{O}} \text{HNO}_3 \rightarrow \text{H}^+ + \text{NO}_3^-$. Nitric acid tạo thành tan vào nước mưa và phân li ra ion nitrate (NO₃⁻), bổ sung nguồn phân đạm tự nhiên cho đất để cây trồng hấp thụ.
 - **Bối cảnh:** Hóa học lớp 11, Bài 4 (Mục IV.2): Giải thích tính khử của khí nitrogen khi tác dụng với oxygen ở nhiệt độ rất cao hoặc có tia lửa điện và ý nghĩa đối với nông nghiệp.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 02, B4 (Mục IV.1), tr. 31; SGK Hóa học 11 KNTT, Chương 02, B4 (Mục IV.2), tr. 31
+
+### natural object
+- **Tiếng Việt:** Vật thể tự nhiên
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** An object occurring naturally without human manufacture, composed of one or more substances.
+- **Giải thích (VI):** Vật thể có sẵn trong tự nhiên, không do con người chế tạo ra và cấu tạo từ một hay nhiều chất khác nhau.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 9 (Mục I): phân loại các vật thể quanh ta như núi đá vôi, con sư tử, mủ cao su đối lập với vật thể nhân tạo.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9, tr. 28; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9 (Mục I), tr. 28; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195
+
+### natural raw material
+- **Tiếng Việt:** Nguyên liệu tự nhiên
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A raw material extracted directly from nature—such as soil, rock, sand, ore, crude oil, or crops—for processing into construction materials, metals, and basic chemicals.
+- **Giải thích (VI):** Nguồn nguyên liệu được con người lấy trực tiếp từ tự nhiên như đất, đá, cát, quặng, dầu mỏ hoặc cây trồng để chế biến thành vôi sống, xi măng, gạch ngói, thuỷ tinh, kim loại và các hoá chất cơ bản.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 13 (Mục I): nhấn mạnh tính hữu hạn của nguồn tài nguyên thiên nhiên và yêu cầu khai thác, sử dụng hợp lí.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13, tr. 46; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục I), tr. 46; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục II), tr. 46
 
 ### natural rubber
 - **Tiếng Việt:** Cao su tự nhiên
@@ -2781,8 +3017,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** Naturally occurring rocks or earths containing minerals of metals or metal compounds in reserves sufficiently large to be mined, typically containing impurities.
 - **Giải thích (VI):** Những loại đất, đá tồn tại trong tự nhiên có chứa khoáng vật của kim loại hoặc hợp chất kim loại với trữ lượng đủ lớn để có thể khai thác và thường chứa tạp chất.
-- **Bối cảnh:** Hóa học lớp 12, Bài 20 (Mục I): nguồn nguyên liệu tự nhiên dùng để tách kim loại trong công nghiệp.
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 06, B20, tr. 94; SGK Hóa học 12 KNTT, Chương 06, B20 (Mục I), tr. 94; SGK Hóa học 12 KNTT, Chương 06, B20 (Mục I), tr. 94, 95
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: Naturally occurring rock or earth containing valuable substances in high concentrations that is mined and processed into metals or other useful products. / VI: Loại đất đá tự nhiên chứa các chất có giá trị với hàm lượng lớn, được khai thác và chế biến thành kim loại hoặc các sản phẩm hữu dụng.
+- **Bối cảnh:**
+  - Hóa học lớp 12, Bài 20 (Mục I): nguồn nguyên liệu tự nhiên dùng để tách kim loại trong công nghiệp.
+  - Khoa học tự nhiên lớp 6, Bài 13 (Mục I, III): tìm hiểu nguồn nguyên liệu khoáng sản hữu hạn, không thể tái tạo và yêu cầu khai thác hợp lí gắn với bảo vệ môi trường.
+- **Nguồn:** SGK Hóa học 12 KNTT, Chương 06, B20, tr. 94; SGK Hóa học 12 KNTT, Chương 06, B20 (Mục I), tr. 94; SGK Hóa học 12 KNTT, Chương 06, B20 (Mục I), tr. 94, 95; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục I), tr. 46; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục III), tr. 48
 
 ### organic chemistry
 - **Tiếng Việt:** Hoá học hữu cơ
@@ -2876,6 +3115,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 10, Bài 15 (Mục II.1): Phân biệt với chất khử khi khảo sát vai trò của O₂ trong phản ứng cháy, Fe₂O₃ trong luyện gang hoặc KMnO₄ trong chuẩn độ.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 04, B15 (Mục I.2), tr. 73; SGK Hóa học 10 KNTT, Chương 04, B15 (Mục II.1), tr. 73; SGK Hóa học 10 KNTT, Chương 04, B15 (Mục II.2), tr. 74
 
+### oxygen
+- **Tiếng Việt:** Oxygen
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A substance that under normal conditions is a colorless, odorless, tasteless gas slightly soluble in water and heavier than air, liquefying at -183 °C and solidifying into a pale blue solid at -218 °C. Making up about 21% of air by volume, oxygen is essential for biological respiration and fuel combustion.
+- **Giải thích (VI):** Chất ở điều kiện thường tồn tại ở thể khí, không màu, không mùi, không vị, ít tan trong nước, nặng hơn không khí, hoá lỏng ở -183 °C và hoá rắn ở -218 °C (có màu xanh nhạt). Oxygen chiếm khoảng 21% thể tích không khí, cần thiết cho quá trình hô hấp của động vật, thực vật và quá trình đốt cháy nhiên liệu.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 11 (Mục I, II): tìm hiểu sự phân bố của oxygen trong không khí, nước, đất xốp cùng vai trò duy trì sự sống và sự cháy.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11, tr. 36; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục I), tr. 36; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục II.1), tr. 36; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục II.2), tr. 37
+
 ### p orbital
 - **Tiếng Việt:** Orbital p (AO p)
 - **Chuyên ngành gốc:** Hóa học
@@ -2907,6 +3154,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phản ứng của alcohol với tác nhân oxi hoá như CuO đun nóng tạo ra sản phẩm phụ thuộc vào bậc của alcohol: alcohol bậc I bị oxi hoá thành aldehyde, alcohol bậc II bị oxi hoá thành ketone, còn alcohol bậc III không bị oxi hoá trong điều kiện này.
 - **Bối cảnh:** Hóa học lớp 11, Bài 20 (Mục IV.4.a): phân biệt tính chất hoá học của alcohol bậc I, bậc II và bậc III khi đun nóng với CuO.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 05, B20 (Mục IV.3), tr. 124; SGK Hóa học 11 KNTT, Chương 05, B20 (Mục IV.4.a), tr. 124; SGK Hóa học 11 KNTT, Chương 05, B20 (Mục IV.4.b), tr. 124
+
+### particulate nature of matter
+- **Tiếng Việt:** Cấu tạo hạt của chất
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** The scientific model stating that all substances consist of microscopic particles invisible to the naked eye, whose differing arrangement and motion determine the properties of solid, liquid, and gaseous states.
+- **Giải thích (VI):** Mô hình khoa học cho biết mọi chất đều cấu tạo bởi các hạt vô cùng nhỏ không nhìn thấy bằng mắt thường; sự khác nhau về trật tự sắp xếp và chuyển động của các hạt quy định tính chất của chất ở thể rắn, thể lỏng và thể khí.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 10 (Mục I, II): biểu diễn các hạt dưới dạng hình cầu để mô tả ba thể của chất và giải thích cơ chế chuyển thể khi nhiệt độ tăng hoặc giảm.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục I), tr. 31
 
 ### peptide
 - **Tiếng Việt:** Peptide
@@ -2999,6 +3254,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 12, Bài 25 (Mục III.1.b): Phân loại nước cứng theo anion gốc acid, phân biệt với tính cứng tạm thời và tính cứng toàn phần.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 07, B25 (Mục II.3), tr. 123; SGK Hóa học 12 KNTT, Chương 07, B25 (Mục III.1.a), tr. 123; SGK Hóa học 12 KNTT, Chương 07, B25 (Mục III.1.b), tr. 123
 
+### petroleum
+- **Tiếng Việt:** Dầu mỏ
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A liquid fossil fuel that typically occurs alongside natural gas in underground oil reservoirs. Distilling crude oil from these reservoirs yields essential fuels such as gasoline, kerosene, and fuel gas.
+- **Giải thích (VI):** Nhiên liệu hoá thạch dạng lỏng thường tồn tại cùng với khí thiên nhiên trong các mỏ dầu. Quá trình chưng cất dầu thô từ mỏ dầu giúp thu được các nhiên liệu quan trọng như xăng, dầu hoả và khí đốt.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 14 (Mục II): Nhiên liệu hoá thạch khai thác từ các mỏ dầu để chế biến thành xăng, dầu hoả và khí đốt.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14, tr. 50; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục I), tr. 50; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục II), tr. 50
+
 ### pH
 - **Tiếng Việt:** pH
 - **Chuyên ngành gốc:** Hóa học
@@ -3081,6 +3344,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 11, Bài 21 (Mục III): trạng thái, tính tan và lưu ý an toàn khi làm thí nghiệm với phenol.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 05, B21 (Mục II), tr. 130; SGK Hóa học 11 KNTT, Chương 05, B21 (Mục III), tr. 130; SGK Hóa học 11 KNTT, Chương 05, B21 (Mục IV.1), tr. 130
 
+### physical property
+- **Tiếng Việt:** Tính chất vật lí
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A characteristic of a substance that can be observed or measured without forming a new substance, including state (solid, liquid, gas), color, odor, taste, solubility, density, melting point, boiling point, and electrical or thermal conductivity.
+- **Giải thích (VI):** Những tính chất của chất có thể quan sát hoặc đo được mà không có sự tạo thành chất mới, bao gồm thể (rắn, lỏng, khí), màu sắc, mùi, vị, tính tan, khối lượng riêng, nhiệt độ nóng chảy, nhiệt độ sôi, tính dẫn điện và dẫn nhiệt.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 9 (Mục II): dùng để nhận biết các chất và phân biệt với tính chất hoá học của chất.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9 (Mục II), tr. 29; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195
+
 ### pi bond
 - **Tiếng Việt:** Liên kết $\pi$ (liên kết pi)
 - **Chuyên ngành gốc:** Hóa học
@@ -3098,12 +3369,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 05, B21 (Mục IV.2.a), tr. 132; SGK Hóa học 11 KNTT, Chương 05, B21 (Mục IV.2.b), tr. 132; SGK Hóa học 11 KNTT, Chương 05, B21 (Mục V), tr. 132, 133
 
 ### plastic
-- **Tiếng Việt:** Chất dẻo
+- **Tiếng Việt:** Chất dẻo (Nhựa)
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A polymer-based material exhibiting plasticity, composed primarily of a synthetic or modified polymer together with additives such as fillers, plasticisers, and colourants.
 - **Giải thích (VI):** Vật liệu polymer có tính dẻo, với thành phần chính là polymer kết hợp cùng các phụ gia như chất độn, chất hoá dẻo và chất tạo màu.
-- **Bối cảnh:** Hóa học lớp 12, Bài 13 (Mục I.1, I.2): Thành phần và ứng dụng của các chất dẻo thông dụng (PE, PP, PVC, PS, PPF) và vấn đề giảm thiểu rác thải nhựa.
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 04, B13 (Mục I.1), tr. 56; SGK Hóa học 12 KNTT, Chương 04, B13 (Mục I.2), tr. 56, 57
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A synthetic material that is flexible, lightweight, electrically non-conductive, poorly heat-conductive, and corrosion-resistant, but easily deformed by heat. / VI: Vật liệu nhân tạo có tính dẻo, nhẹ, không dẫn điện, dẫn nhiệt kém, không bị ăn mòn nhưng dễ bị biến dạng nhiệt.
+- **Bối cảnh:**
+  - Hóa học lớp 12, Bài 13 (Mục I.1, I.2): Thành phần và ứng dụng của các chất dẻo thông dụng (PE, PP, PVC, PS, PPF) và vấn đề giảm thiểu rác thải nhựa.
+  - Khoa học tự nhiên lớp 6, Bài 12 (Mục II, III): khảo sát công dụng làm ghế ngồi, ống dẫn nước, tấm lợp và lưu ý không tái sử dụng chai nhựa dùng một lần có kí hiệu số 1 PETE.
+- **Nguồn:** SGK Hóa học 12 KNTT, Chương 04, B13 (Mục I.1), tr. 56; SGK Hóa học 12 KNTT, Chương 04, B13 (Mục I.2), tr. 56, 57; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục I), tr. 42; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 43; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 44
 
 ### polar covalent bond
 - **Tiếng Việt:** Liên kết cộng hoá trị phân cực (có cực)
@@ -3249,6 +3523,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 11, Bài 21 (Mục VI): quy trình công nghiệp sản xuất đồng thời phenol và acetone từ cumene.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 05, B21 (Mục V), tr. 133; SGK Hóa học 11 KNTT, Chương 05, B21 (Mục VI), tr. 133
 
+### principle of separation
+- **Tiếng Việt:** Nguyên tắc tách chất
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** The general basis for isolating individual substances from a mixture by exploiting differences in their properties, such as density, particle size, solubility, or volatility.
+- **Giải thích (VI):** Cơ sở chung để tách riêng các chất ra khỏi hỗn hợp dựa trên sự khác nhau về tính chất của từng chất thành phần như độ nặng nhẹ, kích thước hạt, tính tan hoặc khả năng bay hơi.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 17 (Mục I): Cơ sở lựa chọn các phương pháp lắng, gạn, lọc, cô cạn hoặc chiết để thu chất tinh khiết từ hỗn hợp.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17, tr. 60; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục I), tr. 60
+
 ### prompt nitrogen oxides
 - **Tiếng Việt:** NOₓ tức thời (prompt-NOₓ)
 - **Chuyên ngành gốc:** Hóa học
@@ -3258,15 +3540,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 02, B6, tr. 38; SGK Hóa học 11 KNTT, Chương 02, B6 (Mục I.1), tr. 38; SGK Hóa học 11 KNTT, Chương 02, B6 (Mục I.2), tr. 38
 
 ### protein
-- **Tiếng Việt:** Protein
+- **Tiếng Việt:** Protein (chất đạm)
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A macromolecular compound composed of one or more polypeptide chains built from α-amino acid units linked in a specific sequence. Fibrous proteins are insoluble in water, whereas globular proteins dissolve in water to form colloidal solutions.
 - **Giải thích (VI):** Hợp chất cao phân tử cấu tạo từ một hay nhiều chuỗi polypeptide gồm các đơn vị α-amino acid liên kết với nhau theo một trật tự nhất định. Protein dạng hình sợi không tan trong nước, còn protein dạng hình cầu tan được trong nước tạo dung dịch keo.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A nutrient responsible for building, maintaining, and developing the body, participating in all vital functions and nutrient metabolism. It is abundant in meat, fish, eggs, milk, and legumes such as beans and peas. / VI: Chất dinh dưỡng đóng vai trò cấu tạo, duy trì và phát triển cơ thể, tham gia vào mọi chức năng sống cũng như quá trình chuyển hoá các chất dinh dưỡng. Chất này có nhiều trong thịt, cá, trứng, sữa và các loại hạt như đậu, đỗ.
 - **Giải thích khác (SGK Sinh học 10):** EN: A biological macromolecule built as a polymer from 20 types of amino acid monomers, whose diversity and specificity are determined by the number, composition, sequence of amino acids, and three-dimensional conformation. It participates in nearly all cellular activities, performing structural, catalytic, defensive, contractile, transport, receptor, and regulatory functions. / VI: Đại phân tử sinh học được cấu tạo theo nguyên tắc đa phân từ 20 loại đơn phân amino acid, có tính đa dạng và đặc thù do số lượng, thành phần, trình tự sắp xếp các amino acid và cấu hình không gian ba chiều quy định. Phân tử này tham gia hầu hết các hoạt động sống của tế bào với các chức năng cấu trúc, xúc tác, bảo vệ, vận động, vận chuyển, tiếp nhận thông tin và điều hoà.
 - **Bối cảnh:**
   - Hóa học lớp 12, Bài 10 (Mục I.1, I.2): Cấu tạo, tính chất vật lí và vai trò sinh học thiết yếu của hợp chất cao phân tử chứa nitrogen.
+  - Khoa học tự nhiên lớp 6, Bài 15 (Mục II.2.a): Dưỡng chất thiết yếu xây dựng cấu trúc cơ thể có trong thực phẩm nguồn gốc động vật và thực vật.
   - Sinh học lớp 10, Bài 5 (Mục II.3, II.4): Cấu trúc bốn bậc và chức năng sinh học đa dạng của protein trong tế bào.
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 03, B10 (Mục I.1), tr. 46, 47; SGK Hóa học 12 KNTT, Chương 03, B10 (Mục I.2), tr. 47; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.a), tr. 34; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.b), tr. 34; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 39, 40
+- **Nguồn:** SGK Hóa học 12 KNTT, Chương 03, B10 (Mục I.1), tr. 46, 47; SGK Hóa học 12 KNTT, Chương 03, B10 (Mục I.2), tr. 47; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.a), tr. 54; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.b), tr. 54; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.c), tr. 54; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.a), tr. 34; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.b), tr. 34; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 39, 40
 
 ### protein coagulation
 - **Tiếng Việt:** Phản ứng đông tụ (sự đông tụ protein)
@@ -3283,6 +3567,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phản ứng phân cắt các liên kết peptide trong phân tử protein bởi nước dưới tác dụng của acid, base hoặc enzyme, tạo thành các chuỗi peptide ngắn hơn và cuối cùng thu được các α-amino acid khi thuỷ phân hoàn toàn.
 - **Bối cảnh:** Hóa học lớp 12, Bài 10 (Mục I.3.a): Tính chất hoá học của protein và cơ sở quá trình tiêu hoá chất đạm trong cơ thể.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 03, B10 (Mục I.3.a), tr. 47
+
+### pure substance
+- **Tiếng Việt:** Chất tinh khiết
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A form of matter composed of only a single substance free from other components, possessing definite properties such as fixed melting and boiling points.
+- **Giải thích (VI):** Dạng vật chất chỉ tạo thành từ một chất duy nhất, không lẫn chất khác và mang những tính chất xác định như nhiệt độ nóng chảy, nhiệt độ sôi không đổi.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 16 (Mục I): Phân biệt với hỗn hợp dựa trên số lượng chất cấu thành và tính chất xác định như ở nước cất, bạc, khí oxygen.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16, tr. 56; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục I), tr. 56; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 56
 
 ### pyrometallurgy
 - **Tiếng Việt:** Phương pháp nhiệt luyện
@@ -3331,6 +3623,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hệ số tỉ lệ $k$ trong biểu thức tốc độ phản ứng, có giá trị bằng tốc độ phản ứng khi nồng độ của tất cả các chất đầu đều bằng đơn vị ($1\text{ M}$). Đại lượng $k$ được xác định từ thực nghiệm, đặc trưng cho mỗi phản ứng và chỉ phụ thuộc vào nhiệt độ, không phụ thuộc vào nồng độ chất phản ứng.
 - **Bối cảnh:** Hóa học lớp 10, Bài 19 (Mục II.1): Biểu diễn mối quan hệ định lượng giữa tốc độ phản ứng và nồng độ các chất tham gia ở một nhiệt độ xác định.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 06, B19 (Mục II.1), tr. 96; SGK Hóa học 10 KNTT, Chương 06, B19 (Mục II.2), tr. 96; SGK Hóa học 10 KNTT, Chương 06, B19 (Mục II.2), tr. 96, 97
+
+### raw material
+- **Tiếng Việt:** Nguyên liệu
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** An input substance obtained from nature (soil, rock, ore, crude oil, crops) or chemically synthesized (basic chemicals) that is processed to manufacture new materials and products.
+- **Giải thích (VI):** Vật chất đầu vào lấy từ tự nhiên (đất, đá, quặng, dầu mỏ, cây trồng) hoặc do con người điều chế ra (các hoá chất cơ bản) dùng để chế biến thành các vật liệu và sản phẩm mới.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 13 (Mục I): phân loại thành nguyên liệu tự nhiên và nguyên liệu nhân tạo, đồng thời phân biệt với vật liệu trực tiếp tạo nên đồ dùng.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13, tr. 46; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục I), tr. 46; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục II), tr. 46
 
 ### reaction of polyalcohols with copper(II) hydroxide
 - **Tiếng Việt:** Phản ứng riêng của polyalcohol với Cu(OH)₂
@@ -3448,8 +3748,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A polymer material characterised by elasticity, classified by origin into natural rubber and synthetic rubber.
 - **Giải thích (VI):** Vật liệu polymer có tính đàn hồi đặc trưng, gồm hai nhóm chính là cao su tự nhiên và cao su tổng hợp.
-- **Bối cảnh:** Hóa học lớp 12, Bài 13 (Mục IV.1): Nhóm vật liệu đàn hồi ứng dụng rộng rãi trong sản xuất săm lốp xe, gioăng đệm và vật dụng cách điện.
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 04, B13 (Mục IV.1), tr. 61
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A natural or synthetic material characterized by elasticity, durability, electrical and thermal insulation, water impermeability, and flammability. / VI: Vật liệu tự nhiên hoặc nhân tạo có tính đàn hồi, bền, không dẫn điện, không dẫn nhiệt, không thấm nước và dễ cháy.
+- **Bối cảnh:**
+  - Hóa học lớp 12, Bài 13 (Mục IV.1): Nhóm vật liệu đàn hồi ứng dụng rộng rãi trong sản xuất săm lốp xe, gioăng đệm và vật dụng cách điện.
+  - Khoa học tự nhiên lớp 6, Bài 12 (Mục II): giải thích việc lựa chọn cao su để sản xuất lốp xe, gioăng cao su và đệm đàn hồi.
+- **Nguồn:** SGK Hóa học 12 KNTT, Chương 04, B13 (Mục IV.1), tr. 61; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 43; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 44
 
 ### rubber cement
 - **Tiếng Việt:** Nhựa vá săm
@@ -3561,6 +3864,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 12, Bài 6 (Mục II.2.c): Thuốc thử đặc trưng dùng để khảo sát tính tan của sợi bông và cellulose.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 02, B6 (Mục II.2.b), tr. 31; SGK Hóa học 12 KNTT, Chương 02, B6 (Mục II.2.c), tr. 31; SGK Hóa học 12 KNTT, Chương 02, B6 (Mục III.1), tr. 31
 
+### sedimentation
+- **Tiếng Việt:** Lắng
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A separation method in which a mixture is left undisturbed so that suspended solid particles heavier than the surrounding liquid or gas settle to the bottom.
+- **Giải thích (VI):** Phương pháp tách chất dựa trên việc để yên hỗn hợp cho các hạt chất rắn lơ lửng nặng hơn chất lỏng hoặc chất khí tự động chìm xuống đáy.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 17 (Mục II.1): Bước đầu tiên làm sạch bụi trong không khí lặng gió hoặc làm trong nước đục lẫn bùn đất, phù sa.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục I), tr. 60; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.1), tr. 61; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.3), tr. 63
+
 ### semi-synthetic fibre
 - **Tiếng Việt:** Tơ bán tổng hợp
 - **Chuyên ngành gốc:** Hóa học
@@ -3671,6 +3982,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 12, Bài 25 (Mục III.1.a): Phân biệt với nước cứng theo hàm lượng ion Ca²⁺ và Mg²⁺ trong nước.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 07, B25 (Mục II.3), tr. 123; SGK Hóa học 12 KNTT, Chương 07, B25 (Mục III.1.a), tr. 123; SGK Hóa học 12 KNTT, Chương 07, B25 (Mục III.1.b), tr. 123
 
+### solute
+- **Tiếng Việt:** Chất tan
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A solid, liquid, or gaseous substance that dissolves and distributes uniformly within a solvent to form a solution.
+- **Giải thích (VI):** Chất ở thể rắn, thể lỏng hoặc thể khí bị hoà tan và phân bố đồng đều trong dung môi để tạo thành dung dịch.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 16 (Mục II, IV.1): Thành phần bị hoà tan trong dung dịch như đường, muối ăn, cồn hoặc khí carbon dioxide.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục IV.1), tr. 58
+
+### solution
+- **Tiếng Việt:** Dung dịch
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A homogeneous mixture of a solvent and one or more solutes, typically transparent because microscopic solute particles are uniformly dispersed throughout the solvent.
+- **Giải thích (VI):** Hỗn hợp đồng nhất của dung môi và chất tan, thường ở trạng thái trong suốt do các hạt chất tan vô cùng nhỏ phân bố đều trong dung môi.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 16 (Mục II): Dạng hỗn hợp đồng nhất tiêu biểu trong thực tiễn như nước muối, giấm ăn, nước ngọt có gas.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 56; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57
+
 ### Solvay process
 - **Tiếng Việt:** Phương pháp Solvay
 - **Chuyên ngành gốc:** Hóa học
@@ -3678,6 +4005,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quy trình công nghiệp dùng để sản xuất sodium hydrogencarbonate (baking soda, NaHCO₃) và sodium carbonate (soda, Na₂CO₃) từ các nguyên liệu chính gồm đá vôi, muối ăn, ammonia và nước.
 - **Bối cảnh:** Hóa học lớp 12, Bài 24 (Mục II.2.b): Phương pháp tổng hợp công nghiệp các muối carbonate của sodium.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 07, B24 (Mục II.2.b), tr. 114; SGK Hóa học 12 KNTT, Chương 07, B24 (Mục II.2.b), tr. 114, 115; SGK Hóa học 12 KNTT, Chương 07, B24 (Mục II.2), tr. 115
+
+### solvent
+- **Tiếng Việt:** Dung môi
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A substance that acts as the dissolving medium for solutes to form a homogeneous solution.
+- **Giải thích (VI):** Chất đóng vai trò môi trường hoà tan các chất tan để tạo thành hỗn hợp đồng nhất là dung dịch.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 16 (Mục II): Thành phần hoà tan chất tan trong dung dịch, phổ biến nhất là nước trong nước muối, nước đường.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục IV.1), tr. 58
 
 ### specific heat capacity (chemistry)
 - **Tiếng Việt:** Nhiệt dung đặc trưng
@@ -3776,11 +4111,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A natural polysaccharide with the molecular formula (C₆H₁₀O₅)ₙ composed of two macromolecular components, amylose and amylopectin. It undergoes complete acid- or enzyme-catalyzed hydrolysis to yield glucose and produces a characteristic deep-blue color with iodine.
 - **Giải thích (VI):** Polysaccharide thiên nhiên có công thức phân tử (C₆H₁₀O₅)ₙ, cấu thành từ hai loại phân tử là amylose và amylopectin. Hợp chất này bị thuỷ phân hoàn toàn bởi acid hoặc enzyme tạo thành glucose và cho phản ứng màu xanh tím đặc trưng với iodine.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A carbohydrate substance that forms the main component of staple foods such as rice, wheat, corn, sweet potatoes, and cassava. During digestion, it is converted into sugar and subsequently into water and carbon dioxide while releasing primary energy for living organisms. / VI: Chất thuộc nhóm carbohydrate tạo nên thành phần chính của các loại lương thực như gạo, lúa mì, ngô, khoai, sắn. Khi tiêu hoá trong cơ thể, chất này chuyển hoá thành đường rồi tạo ra nước, khí carbon dioxide và giải phóng nguồn năng lượng chính cho sinh vật sống.
 - **Giải thích khác (SGK Sinh học 10):** EN: A polysaccharide composed of hundreds to thousands of glucose monomers with a generally sparsely branched structure, serving as the primary energy storage carbohydrate in plants. / VI: Loại đường đa được cấu tạo từ hàng trăm đến hàng nghìn đơn phân glucose với cấu trúc mạch nhìn chung ít phân nhánh, đóng vai trò là nguồn dự trữ năng lượng ở thực vật.
 - **Bối cảnh:**
   - Hóa học lớp 12, Bài 6 (Mục I.1, II.1): Cấu tạo, tính chất hoá học và vai trò dinh dưỡng của polysaccharide dự trữ ở thực vật.
+  - Khoa học tự nhiên lớp 6, Bài 15 (Mục II.1): Thành phần dinh dưỡng chủ yếu trong các loại ngũ cốc và củ giàu năng lượng.
   - Sinh học lớp 10, Bài 5 (Mục II.1.c) và Bài 6 (Mục I): Đường đa dự trữ năng lượng ở thực vật và đối tượng nhận biết trong thực hành.
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 02, B6, tr. 28; SGK Hóa học 12 KNTT, Chương 02, B6 (Mục I.1), tr. 28; SGK Hóa học 12 KNTT, Chương 02, B6 (Mục I.2), tr. 29; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.1.c), tr. 30; SGK Sinh học 10 KNTT, Chương 01, B6 (Mục I), tr. 41
+- **Nguồn:** SGK Hóa học 12 KNTT, Chương 02, B6, tr. 28; SGK Hóa học 12 KNTT, Chương 02, B6 (Mục I.1), tr. 28; SGK Hóa học 12 KNTT, Chương 02, B6 (Mục I.2), tr. 29; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục I), tr. 53; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.1), tr. 53; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.1.c), tr. 30; SGK Sinh học 10 KNTT, Chương 01, B6 (Mục I), tr. 41
 
 ### starch paste
 - **Tiếng Việt:** Hồ tinh bột
@@ -3803,8 +4140,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** An iron alloy containing less than $2.0\%$ carbon along with elements such as chromium, manganese, and silicon, possessing high hardness and heat resistance and serving as a primary material in machinery manufacturing and construction.
 - **Giải thích (VI):** Hợp kim của sắt chứa ít hơn $2{,}0\%$ carbon và một số nguyên tố như chromium, manganese, silicon, có tính cứng, chịu nhiệt và là vật liệu chủ yếu trong ngành chế tạo máy, xây dựng.
-- **Bối cảnh:** Hóa học lớp 12, Bài 21 (Mục III.1.b): thành phần và ứng dụng của các loại thép thông thường và thép đặc biệt (như thép không gỉ).
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 06, B21 (Mục I.1), tr. 99; SGK Hóa học 12 KNTT, Chương 06, B21 (Mục II), tr. 100; SGK Hóa học 12 KNTT, Chương 06, B21 (Mục III.1.a), tr. 100
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: An alloy of iron with carbon and other substances containing less than 1.5% carbon. This material is refined from cast iron and widely applied in construction and the manufacture of machinery and tools. / VI: Hợp kim của sắt với carbon và các chất khác, trong đó hàm lượng carbon chiếm ít hơn 1,5%. Vật liệu này được luyện từ gang và ứng dụng rộng rãi trong xây dựng, chế tạo máy móc, dụng cụ.
+- **Bối cảnh:**
+  - Hóa học lớp 12, Bài 21 (Mục III.1.b): thành phần và ứng dụng của các loại thép thông thường và thép đặc biệt (như thép không gỉ).
+  - Khoa học tự nhiên lớp 6, Bài 13 (Mục III): Vật liệu quan trọng chế tạo từ quặng sắt và gang, phân biệt với gang nhờ hàm lượng carbon thấp hơn 1,5%.
+- **Nguồn:** SGK Hóa học 12 KNTT, Chương 06, B21 (Mục I.1), tr. 99; SGK Hóa học 12 KNTT, Chương 06, B21 (Mục II), tr. 100; SGK Hóa học 12 KNTT, Chương 06, B21 (Mục III.1.a), tr. 100; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục III), tr. 48; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195
 
 ### strong electrolyte
 - **Tiếng Việt:** Chất điện li mạnh
@@ -3861,6 +4201,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tập hợp các chất hữu cơ, chất vô cơ cùng các loại vật liệu tự nhiên và nhân tạo được khảo sát về thành phần, cấu trúc, tính chất, sự biến đổi và các hiện tượng kèm theo.
 - **Bối cảnh:** Hóa học lớp 10, Mở đầu (Mục I): Xác định phạm vi khảo sát của môn Hoá học và mối liên hệ với vật lí, sinh học, địa chất.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, Mở đầu, tr. 6; SGK Hóa học 10 KNTT, Chương 01, Mở đầu (Mục I), tr. 6; SGK Hóa học 10 KNTT, Chương 01, Mở đầu (Mục I), tr. 6, 7
+
+### substance
+- **Tiếng Việt:** Chất
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A form of matter with definite physical and chemical properties that makes up objects, either occurring naturally or synthesized by humans.
+- **Giải thích (VI):** Thành phần cấu tạo nên các vật thể, tồn tại sẵn trong tự nhiên hoặc do con người điều chế, mang những tính chất vật lí và tính chất hoá học nhất định.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 9 (Mục I, II): phân biệt vật thể với chất tạo nên vật thể, trong đó một vật thể có thể tạo thành từ một chất như nước cất hoặc nhiều chất như cây kem.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9, tr. 28; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9 (Mục I), tr. 28; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9 (Mục II), tr. 29
 
 ### substitution of hydroxyl hydrogen in alcohols
 - **Tiếng Việt:** Phản ứng thế nguyên tử H của nhóm -OH ở alcohol
@@ -3928,6 +4276,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 12, Bài 5 (Mục I, II): Cấu tạo không mở vòng và tính chất hoá học của đường ăn.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 02, B5, tr. 25; SGK Hóa học 12 KNTT, Chương 02, B5 (Mục I), tr. 25; SGK Hóa học 12 KNTT, Chương 02, B5 (Mục II), tr. 26
 
+### sugar
+- **Tiếng Việt:** Đường
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A carbohydrate compound that provides abundant energy to the body and occurs plentifully in sugarcane, palmyra palm, sugar beet, and sweet fruits.
+- **Giải thích (VI):** Hợp chất thuộc nhóm carbohydrate cung cấp nhiều năng lượng cho cơ thể và có nhiều trong cây mía, thốt nốt, củ cải đường cùng các loại hoa quả ngọt.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 15 (Mục II.1): Dạng carbohydrate tạo vị ngọt tự nhiên trong thực vật và thực phẩm cung cấp năng lượng nhanh.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục I), tr. 53; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.1), tr. 53; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
+
 ### sulfate salt
 - **Tiếng Việt:** Muối sulfate
 - **Chuyên ngành gốc:** Hóa học
@@ -3978,6 +4334,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Không nhầm với 'Lực căng bề mặt' (`surface tension`) trong Vật lí.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B4 (Mục III.1), tr. 26
 
+### suspension
+- **Tiếng Việt:** Huyền phù
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A heterogeneous mixture consisting of solid particles suspended in a liquid medium, typically opaque or turbid, such as alluvial river water or pigment water.
+- **Giải thích (VI):** Hỗn hợp không đồng nhất gồm các hạt chất rắn lơ lửng trong chất lỏng và thường không trong suốt, ví dụ như nước phù sa hoặc nước bột màu.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 16 (Mục III): Hỗn hợp rắn - lỏng không đồng nhất, phân biệt với dung dịch và nhũ tương.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục IV.2), tr. 59
+
 ### synthetic detergent
 - **Tiếng Việt:** Chất giặt rửa tổng hợp
 - **Chuyên ngành gốc:** Hóa học
@@ -3993,6 +4357,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại tơ chế tạo từ các polymer tổng hợp bằng phản ứng hoá học, chẳng hạn các tơ polyamide (nylon-6,6, capron) và tơ nitron.
 - **Bối cảnh:** Hóa học lớp 12, Bài 13 (Mục III.2, III.3.b): Phân loại tơ nhân tạo điều chế từ monomer tổng hợp, phân biệt với tơ bán tổng hợp đi từ polymer thiên nhiên.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 04, B13 (Mục III.2), tr. 59; SGK Hóa học 12 KNTT, Chương 04, B13 (Mục III.3.b), tr. 60
+
+### synthetic raw material
+- **Tiếng Việt:** Nguyên liệu nhân tạo
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** Basic chemicals synthesized by humans from natural resources such as crude oil, used as feedstock to manufacture fertilizers, pesticides, pharmaceuticals, cosmetics, and synthetic fibers.
+- **Giải thích (VI):** Các hoá chất cơ bản do con người điều chế từ nguồn tự nhiên như dầu mỏ, dùng để sản xuất phân bón, thuốc trừ sâu, dược phẩm, mĩ phẩm và các loại len, tơ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 13 (Mục I): đối chiếu với nguyên liệu tự nhiên qua các sản phẩm tiêu dùng như nước hoa, son môi, dầu gội.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13, tr. 46; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục I), tr. 46; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục II), tr. 46
 
 ### synthetic rubber
 - **Tiếng Việt:** Cao su tổng hợp (cao su nhân tạo)
@@ -4241,6 +4613,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chất khi tan trong nước chỉ có một phần số phân tử hoà tan phân li ra ion, phần còn lại vẫn tồn tại ở dạng phân tử trong dung dịch và thiết lập cân bằng điện li thuận nghịch. Nhóm này gồm các acid yếu (CH₃COOH, HClO, HF, H₂CO₃) và các base yếu (Cu(OH)₂, Fe(OH)₂).
 - **Bối cảnh:** Hóa học lớp 11, Bài 2 (Mục I.2.b): So sánh độ dẫn điện giữa dung dịch CH₃COOH 0,1 M với HCl 0,1 M và biểu diễn cân bằng điện li.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.a), tr. 18; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.b), tr. 18; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.b), tr. 18, 19
+
+### wood
+- **Tiếng Việt:** Gỗ
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A natural material that is durable, load-bearing, easy to shape, poorly heat-conductive, and electrically non-conductive, though flammable and susceptible to termite damage.
+- **Giải thích (VI):** Vật liệu tự nhiên có đặc tính bền, chịu lực tốt, dễ tạo hình, dẫn nhiệt kém và không dẫn điện, nhưng dễ cháy và có thể bị mối mọt.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 12 (Mục I, II): khảo sát đặc tính chịu lực và hạn chế của gỗ khi dùng làm nhà, khung cửa, bàn, ghế, tủ.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục I), tr. 42; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 43; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 44
 
 ### wool
 - **Tiếng Việt:** Len

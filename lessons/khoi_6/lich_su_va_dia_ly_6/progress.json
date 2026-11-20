@@ -1,0 +1,1092 @@
+{
+  "unit": "lich_su_va_dia_ly_6",
+  "subject": "lich_su_va_dia_ly",
+  "subject_name": "Lịch sử và Địa lí",
+  "grade": 6,
+  "files": [
+    {
+      "file": "SGK LS va DL 6.pdf",
+      "volume": null,
+      "page_count": 271,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK LS va DL 6.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK LS va DL 6.pdf",
+      "pdf_pages": [
+        4,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK LS va DL 6.pdf",
+      "pdf_pages": [
+        6,
+        7
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "phan-ls",
+      "role": "group",
+      "kind": "phan",
+      "label": null,
+      "number": 1,
+      "title": "Phần Lịch sử",
+      "dir": "Phan-01-Lich-su",
+      "children": [
+        {
+          "id": "ls-c01",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 1",
+          "number": 1,
+          "title": "Vì sao phải học Lịch sử?",
+          "dir": "Chuong-01-Vi-sao-phai-hoc-Lich-su",
+          "children": [
+            {
+              "id": "ls-b01",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 1",
+              "number": 1,
+              "title": "Lịch sử và cuộc sống",
+              "lesson_type": "ly_thuyet",
+              "file": "B01-Lich-su-va-cuoc-song.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                10,
+                11
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b02",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 2",
+              "number": 2,
+              "title": "Dựa vào đâu để biết và phục dựng lại lịch sử?",
+              "lesson_type": "ly_thuyet",
+              "file": "B02-Dua-vao-dau-de-biet-va-phuc-dung-lai-lich-su.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                12,
+                14
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b03",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 3",
+              "number": 3,
+              "title": "Thời gian trong lịch sử",
+              "lesson_type": "ly_thuyet",
+              "file": "B03-Thoi-gian-trong-lich-su.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                15,
+                16
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "ls-c02",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 2",
+          "number": 2,
+          "title": "Xã hội nguyên thuỷ",
+          "dir": "Chuong-02-Xa-hoi-nguyen-thuy",
+          "children": [
+            {
+              "id": "ls-b04",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 4",
+              "number": 4,
+              "title": "Nguồn gốc loài người",
+              "lesson_type": "ly_thuyet",
+              "file": "B04-Nguon-goc-loai-nguoi.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                18,
+                20
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b05",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 5",
+              "number": 5,
+              "title": "Xã hội nguyên thuỷ",
+              "lesson_type": "ly_thuyet",
+              "file": "B05-Xa-hoi-nguyen-thuy.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                21,
+                24
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b06",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 6",
+              "number": 6,
+              "title": "Sự chuyển biến và phân hoá của xã hội nguyên thuỷ",
+              "lesson_type": "ly_thuyet",
+              "file": "B06-Su-chuyen-bien-va-phan-hoa-cua-xa-hoi-nguyen.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                25,
+                28
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "ls-c03",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 3",
+          "number": 3,
+          "title": "Xã hội cổ đại",
+          "dir": "Chuong-03-Xa-hoi-co-dai",
+          "children": [
+            {
+              "id": "ls-b07",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 7",
+              "number": 7,
+              "title": "Ai Cập và Lưỡng Hà cổ đại",
+              "lesson_type": "ly_thuyet",
+              "file": "B07-Ai-Cap-va-Luong-Ha-co-dai.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                30,
+                34
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b08",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 8",
+              "number": 8,
+              "title": "Ấn Độ cổ đại",
+              "lesson_type": "ly_thuyet",
+              "file": "B08-An-Do-co-dai.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                35,
+                39
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b09",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 9",
+              "number": 9,
+              "title": "Trung Quốc từ thời cổ đại đến thế kỉ VII",
+              "lesson_type": "ly_thuyet",
+              "file": "B09-Trung-Quoc-tu-thoi-co-dai-den-the-ki-VII.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                40,
+                44
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b10",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 10",
+              "number": 10,
+              "title": "Hy Lạp và La Mã cổ đại",
+              "lesson_type": "ly_thuyet",
+              "file": "B10-Hy-Lap-va-La-Ma-co-dai.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                45,
+                50
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "ls-c04",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 4",
+          "number": 4,
+          "title": "Đông Nam Á từ những thế kỉ tiếp giáp đầu Công nguyên đến thế kỉ X",
+          "dir": "Chuong-04-Dong-Nam-A-tu-nhung-the-ki-tiep-giap-dau",
+          "children": [
+            {
+              "id": "ls-b11",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 11",
+              "number": 11,
+              "title": "Các quốc gia sơ kì ở Đông Nam Á",
+              "lesson_type": "ly_thuyet",
+              "file": "B11-Cac-quoc-gia-so-ki-o-Dong-Nam-A.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                52,
+                54
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b12",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 12",
+              "number": 12,
+              "title": "Sự hình thành và bước đầu phát triển của các vương quốc phong kiến ở Đông Nam Á (từ thế kỉ VII đến thế kỉ X)",
+              "lesson_type": "ly_thuyet",
+              "file": "B12-Su-hinh-thanh-va-buoc-dau-phat-trien-cua-cac.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                55,
+                56
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b13",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 13",
+              "number": 13,
+              "title": "Giao lưu văn hoá ở Đông Nam Á từ đầu Công nguyên đến thế kỉ X",
+              "lesson_type": "ly_thuyet",
+              "file": "B13-Giao-luu-van-hoa-o-Dong-Nam-A-tu-dau-Cong-nguyen.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                57,
+                59
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "ls-c05",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 5",
+          "number": 5,
+          "title": "Việt Nam từ khoảng thế kỉ VII trước Công nguyên đến đầu thế kỉ X",
+          "dir": "Chuong-05-Viet-Nam-tu-khoang-the-ki-VII-truoc-Cong",
+          "children": [
+            {
+              "id": "ls-b14",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 14",
+              "number": 14,
+              "title": "Nhà nước Văn Lang – Âu Lạc",
+              "lesson_type": "ly_thuyet",
+              "file": "B14-Nha-nuoc-Van-Lang-Au-Lac.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                61,
+                65
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b15",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 15",
+              "number": 15,
+              "title": "Chính sách cai trị của các triều đại phong kiến phương Bắc và sự chuyển biến của xã hội Âu Lạc",
+              "lesson_type": "ly_thuyet",
+              "file": "B15-Chinh-sach-cai-tri-cua-cac-trieu-dai-phong-kien.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                66,
+                70
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b16",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 16",
+              "number": 16,
+              "title": "Các cuộc khởi nghĩa tiêu biểu giành độc lập trước thế kỉ X",
+              "lesson_type": "ly_thuyet",
+              "file": "B16-Cac-cuoc-khoi-nghia-tieu-bieu-gianh-doc-lap.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                71,
+                78
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b17",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 17",
+              "number": 17,
+              "title": "Cuộc đấu tranh bảo tồn và phát triển văn hoá dân tộc của người Việt",
+              "lesson_type": "ly_thuyet",
+              "file": "B17-Cuoc-dau-tranh-bao-ton-va-phat-trien-van-hoa-dan.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                79,
+                80
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b18",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 18",
+              "number": 18,
+              "title": "Bước ngoặt lịch sử đầu thế kỉ X",
+              "lesson_type": "ly_thuyet",
+              "file": "B18-Buoc-ngoat-lich-su-dau-the-ki-X.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                81,
+                86
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b19",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 19",
+              "number": 19,
+              "title": "Vương quốc Chăm-pa từ thế kỉ II đến thế kỉ X",
+              "lesson_type": "ly_thuyet",
+              "file": "B19-Vuong-quoc-Cham-pa-tu-the-ki-II-den-the-ki-X.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                87,
+                91
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b20",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 20",
+              "number": 20,
+              "title": "Vương quốc Phù Nam",
+              "lesson_type": "ly_thuyet",
+              "file": "B20-Vuong-quoc-Phu-Nam.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                92,
+                95
+              ],
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phan-dl",
+      "role": "group",
+      "kind": "phan",
+      "label": null,
+      "number": 2,
+      "title": "Phần Địa lí",
+      "dir": "Phan-02-Dia-li",
+      "children": [
+        {
+          "id": "dl-c01",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 1",
+          "number": 1,
+          "title": "Bản đồ – Phương tiện thể hiện bề mặt Trái Đất",
+          "dir": "Chuong-01-Ban-do-Phuong-tien-the-hien-be-mat-Trai",
+          "children": [
+            {
+              "id": "dl-b00",
+              "role": "lesson",
+              "kind": "bai",
+              "label": null,
+              "number": null,
+              "title": "Bài mở đầu",
+              "lesson_type": "ly_thuyet",
+              "file": "B00-Bai-mo-dau.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                99,
+                101
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b01",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 1",
+              "number": 1,
+              "title": "Hệ thống kinh, vĩ tuyến. Toạ độ địa lí",
+              "lesson_type": "ly_thuyet",
+              "file": "B01-He-thong-kinh-vi-tuyen-Toa-do-dia-li.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                103,
+                104
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b02",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 2",
+              "number": 2,
+              "title": "Bản đồ. Một số lưới kinh, vĩ tuyến. Phương hướng trên bản đồ",
+              "lesson_type": "ly_thuyet",
+              "file": "B02-Ban-do-Mot-so-luoi-kinh-vi-tuyen-Phuong-huong.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                105,
+                106
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b03",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 3",
+              "number": 3,
+              "title": "Tỉ lệ bản đồ. Tính khoảng cách thực tế dựa vào tỉ lệ bản đồ",
+              "lesson_type": "ly_thuyet",
+              "file": "B03-Ti-le-ban-do-Tinh-khoang-cach-thuc-te-dua-vao-ti.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                107,
+                108
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b04",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 4",
+              "number": 4,
+              "title": "Kí hiệu và bảng chú giải bản đồ. Tìm đường đi trên bản đồ",
+              "lesson_type": "ly_thuyet",
+              "file": "B04-Ki-hieu-va-bang-chu-giai-ban-do-Tim-duong-di.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                109,
+                113
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b05",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 5",
+              "number": 5,
+              "title": "Lược đồ trí nhớ",
+              "lesson_type": "ly_thuyet",
+              "file": "B05-Luoc-do-tri-nho.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                114,
+                115
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "dl-c02",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 2",
+          "number": 2,
+          "title": "Trái Đất – Hành tinh của hệ Mặt Trời",
+          "dir": "Chuong-02-Trai-Dat-Hanh-tinh-cua-he-Mat-Troi",
+          "children": [
+            {
+              "id": "dl-b06",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 6",
+              "number": 6,
+              "title": "Trái Đất trong hệ Mặt Trời",
+              "lesson_type": "ly_thuyet",
+              "file": "B06-Trai-Dat-trong-he-Mat-Troi.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                117,
+                118
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b07",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 7",
+              "number": 7,
+              "title": "Chuyển động tự quay quanh trục của Trái Đất và hệ quả",
+              "lesson_type": "ly_thuyet",
+              "file": "B07-Chuyen-dong-tu-quay-quanh-truc-cua-Trai-Dat-va.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                119,
+                122
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b08",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 8",
+              "number": 8,
+              "title": "Chuyển động của Trái Đất quanh Mặt Trời và hệ quả",
+              "lesson_type": "ly_thuyet",
+              "file": "B08-Chuyen-dong-cua-Trai-Dat-quanh-Mat-Troi-va-he.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                123,
+                125
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b09",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 9",
+              "number": 9,
+              "title": "Xác định phương hướng ngoài thực tế",
+              "lesson_type": "thuc_hanh",
+              "file": "B09-Xac-dinh-phuong-huong-ngoai-thuc-te.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                126,
+                128
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "dl-c03",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 3",
+          "number": 3,
+          "title": "Cấu tạo của Trái Đất. Vỏ Trái Đất",
+          "dir": "Chuong-03-Cau-tao-cua-Trai-Dat-Vo-Trai-Dat",
+          "children": [
+            {
+              "id": "dl-b10",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 10",
+              "number": 10,
+              "title": "Cấu tạo của Trái Đất. Các mảng kiến tạo",
+              "lesson_type": "ly_thuyet",
+              "file": "B10-Cau-tao-cua-Trai-Dat-Cac-mang-kien-tao.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                130,
+                131
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b11",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 11",
+              "number": 11,
+              "title": "Quá trình nội sinh và quá trình ngoại sinh. Hiện tượng tạo núi",
+              "lesson_type": "ly_thuyet",
+              "file": "B11-Qua-trinh-noi-sinh-va-qua-trinh-ngoai-sinh-Hien.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                132,
+                133
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b12",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 12",
+              "number": 12,
+              "title": "Núi lửa và động đất",
+              "lesson_type": "ly_thuyet",
+              "file": "B12-Nui-lua-va-dong-dat.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                134,
+                135
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b13",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 13",
+              "number": 13,
+              "title": "Các dạng địa hình chính trên Trái Đất. Khoáng sản",
+              "lesson_type": "ly_thuyet",
+              "file": "B13-Cac-dang-dia-hinh-chinh-tren-Trai-Dat-Khoang-san.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                136,
+                139
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b14",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 14",
+              "number": 14,
+              "title": "Thực hành: Đọc lược đồ địa hình tỉ lệ lớn và lát cắt địa hình đơn giản",
+              "lesson_type": "thuc_hanh",
+              "file": "B14-Thuc-hanh-Doc-luoc-do-dia-hinh-ti-le-lon-va-lat.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                140,
+                141
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "dl-c04",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 4",
+          "number": 4,
+          "title": "Khí hậu và biến đổi khí hậu",
+          "dir": "Chuong-04-Khi-hau-va-bien-doi-khi-hau",
+          "children": [
+            {
+              "id": "dl-b15",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 15",
+              "number": 15,
+              "title": "Lớp vỏ khí của Trái Đất. Khí áp và gió",
+              "lesson_type": "ly_thuyet",
+              "file": "B15-Lop-vo-khi-cua-Trai-Dat-Khi-ap-va-gio.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                143,
+                146
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b16",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 16",
+              "number": 16,
+              "title": "Nhiệt độ không khí. Mây và mưa",
+              "lesson_type": "ly_thuyet",
+              "file": "B16-Nhiet-do-khong-khi-May-va-mua.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                147,
+                150
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b17",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 17",
+              "number": 17,
+              "title": "Thời tiết và khí hậu. Biến đổi khí hậu",
+              "lesson_type": "ly_thuyet",
+              "file": "B17-Thoi-tiet-va-khi-hau-Bien-doi-khi-hau.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                151,
+                153
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b18",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 18",
+              "number": 18,
+              "title": "Thực hành: Phân tích biểu đồ nhiệt độ, lượng mưa",
+              "lesson_type": "thuc_hanh",
+              "file": "B18-Thuc-hanh-Phan-tich-bieu-do-nhiet-do-luong-mua.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                154,
+                155
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "dl-c05",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 5",
+          "number": 5,
+          "title": "Nước trên Trái Đất",
+          "dir": "Chuong-05-Nuoc-tren-Trai-Dat",
+          "children": [
+            {
+              "id": "dl-b19",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 19",
+              "number": 19,
+              "title": "Thuỷ quyển và vòng tuần hoàn lớn của nước",
+              "lesson_type": "ly_thuyet",
+              "file": "B19-Thuy-quyen-va-vong-tuan-hoan-lon-cua-nuoc.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                157,
+                158
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b20",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 20",
+              "number": 20,
+              "title": "Sông và hồ. Nước ngầm và băng hà",
+              "lesson_type": "ly_thuyet",
+              "file": "B20-Song-va-ho-Nuoc-ngam-va-bang-ha.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                159,
+                163
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b21",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 21",
+              "number": 21,
+              "title": "Biển và đại dương",
+              "lesson_type": "ly_thuyet",
+              "file": "B21-Bien-va-dai-duong.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                164,
+                167
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "dl-c06",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 6",
+          "number": 6,
+          "title": "Đất và sinh vật trên Trái Đất",
+          "dir": "Chuong-06-Dat-va-sinh-vat-tren-Trai-Dat",
+          "children": [
+            {
+              "id": "dl-b22",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 22",
+              "number": 22,
+              "title": "Lớp đất trên Trái Đất",
+              "lesson_type": "ly_thuyet",
+              "file": "B22-Lop-dat-tren-Trai-Dat.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                169,
+                171
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b23",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 23",
+              "number": 23,
+              "title": "Sự sống trên Trái Đất",
+              "lesson_type": "ly_thuyet",
+              "file": "B23-Su-song-tren-Trai-Dat.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                172,
+                173
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b24",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 24",
+              "number": 24,
+              "title": "Rừng nhiệt đới",
+              "lesson_type": "ly_thuyet",
+              "file": "B24-Rung-nhiet-doi.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                174,
+                175
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b25",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 25",
+              "number": 25,
+              "title": "Sự phân bố các đới thiên nhiên trên Trái Đất",
+              "lesson_type": "ly_thuyet",
+              "file": "B25-Su-phan-bo-cac-doi-thien-nhien-tren-Trai-Dat.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                176,
+                177
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b26",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 26",
+              "number": 26,
+              "title": "Thực hành: Tìm hiểu môi trường tự nhiên địa phương",
+              "lesson_type": "thuc_hanh",
+              "file": "B26-Thuc-hanh-Tim-hieu-moi-truong-tu-nhien-dia.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                178,
+                179
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "dl-c07",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 7",
+          "number": 7,
+          "title": "Con người và thiên nhiên",
+          "dir": "Chuong-07-Con-nguoi-va-thien-nhien",
+          "children": [
+            {
+              "id": "dl-b27",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 27",
+              "number": 27,
+              "title": "Dân số và sự phân bố dân cư trên thế giới",
+              "lesson_type": "ly_thuyet",
+              "file": "B27-Dan-so-va-su-phan-bo-dan-cu-tren-the-gioi.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                181,
+                184
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b28",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 28",
+              "number": 28,
+              "title": "Mối quan hệ giữa con người và thiên nhiên",
+              "lesson_type": "ly_thuyet",
+              "file": "B28-Moi-quan-he-giua-con-nguoi-va-thien-nhien.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                185,
+                187
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b29",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 29",
+              "number": 29,
+              "title": "Bảo vệ tự nhiên và khai thác thông minh các tài nguyên thiên nhiên vì sự phát triển bền vững",
+              "lesson_type": "ly_thuyet",
+              "file": "B29-Bao-ve-tu-nhien-va-khai-thac-thong-minh-cac-tai.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                188,
+                189
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b30",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 30",
+              "number": 30,
+              "title": "Thực hành: Tìm hiểu mối quan hệ giữa con người và thiên nhiên ở địa phương",
+              "lesson_type": "thuc_hanh",
+              "file": "B30-Thuc-hanh-Tim-hieu-moi-quan-he-giua-con-nguoi-va.md",
+              "source_file": "SGK LS va DL 6.pdf",
+              "pdf_pages": [
+                190,
+                190
+              ],
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu thuật ngữ",
+      "file": "Bang-tra-cuu-thuat-ngu.md",
+      "source_file": "SGK LS va DL 6.pdf",
+      "pdf_pages": [
+        191,
+        194
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-phien-am",
+      "role": "back_matter",
+      "kind": "bang_phien_am",
+      "label": null,
+      "number": null,
+      "title": "Bảng phiên âm",
+      "file": "Bang-phien-am.md",
+      "source_file": "SGK LS va DL 6.pdf",
+      "pdf_pages": [
+        195,
+        200
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "File SGK LS va DL 6.pdf gồm 271 trang PDF: từ PDF 1 đến PDF 201 là trọn vẹn cuốn SGK Lịch sử và Địa lí 6 – KNTT (độ lệch cố định printed_offset = 1, trang in 2..199 = PDF 3..200, trang bản quyền ở PDF 201); từ PDF 202 đến PDF 271 là 70 trang sách Chuyên đề học tập Mĩ thuật 10 bị ghép nhầm vào cuối file nên bỏ qua hoàn toàn.",
+    "Sách chia 2 phân môn: Phần Lịch sử (Chương 1–5, Bài 1–20, trang in 7–94) và Phần Địa lí (Bài mở đầu + Chương 1–7, Bài 1–30, trang in 95–189), kèm Bảng tra cứu thuật ngữ (trang in 190–193, PDF 191–194) và Bảng phiên âm (trang in 194–199, PDF 195–200).",
+    "Các trang mở đầu Phần (trang in 7, 95), Bản đồ tự nhiên thế giới 2 trang đầu Phần Địa lí (trang in 96–97, PDF 97–98) và các trang mở đầu Chương (trang in 8, 16, 28, 50, 59 ở Phần Lịch sử; trang in 101, 115, 128, 141, 155, 167, 179 ở Phần Địa lí) là trang giới thiệu chương/phần riêng nên không gộp vào dải trang bài học.",
+    "Bài mở đầu của Phần Địa lí (trang in 98–100, PDF 99–101) được đặt làm bài đầu tiên trong nhóm Chương 1 của Phần Địa lí theo chuẩn hoa_10."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-20",
+      "scope": [
+        "ls-c01",
+        "ls-c02",
+        "ls-c03",
+        "ls-c04",
+        "ls-c05",
+        "dl-c01",
+        "dl-c02",
+        "dl-c03",
+        "dl-c04",
+        "dl-c05",
+        "dl-c06",
+        "dl-c07"
+      ],
+      "terms": 348,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ Phần Lịch sử (5 Chương, 20 Bài) + Phần Địa lí (Bài mở đầu + 7 Chương, 30 Bài) + Bảng tra cứu thuật ngữ + Bảng phiên âm (348 thuật ngữ, 239 hình minh hoạ): lấy mẫu phân tầng 30 mục (10 mục in_source: Sri Vi-giay-a, Hào trưởng, Kinh Thi, Nôm, Rừng lá kim, Đại dương thế giới, Chế độ bỏ phiếu bằng vỏ sò, Phụ lưu, Viện Nguyên lão La Mã, Biển; 10 mục [mô tả]: Hệ Mặt Trời, Khối khí lạnh, Hiện tượng tạo núi, Rừng nhiệt đới, Sự thay đổi nhiệt độ không khí theo vĩ độ, Các đai khí áp, Sự lệch hướng chuyển động của vật thể, Vượn người, Óc Eo, Tư liệu gốc; và 10 hình minh hoạ: H6-lich_su_va_dia_ly-ls-b14-01, ls-b06-01, ls-b04-03, ls-b07-04, dl-b15-05, ls-b16-01, dl-b06-01, dl-b28-04, dl-b19-02, ls-b18-03). Toàn bộ 30/30 mục mẫu khớp 100% với trang sách gốc (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-20: Hoàn thành 100% lich_su_va_dia_ly_6 từ Cổng 0 đến Cổng 4 (51 bài học, Bảng tra cứu thuật ngữ, Bảng phiên âm, 239 hình minh hoạ, 12 từ điển với 348 thuật ngữ, 0 lỗi)."
+}

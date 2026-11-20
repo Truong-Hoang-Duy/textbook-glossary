@@ -1,0 +1,66 @@
+{
+  "H6-khoa_hoc_tu_nhien-b12-01": {
+    "pdf_page": 43,
+    "bbox": [70, 492, 280, 632]
+  },
+  "H6-khoa_hoc_tu_nhien-b12-02": {
+    "pdf_page": 43,
+    "bbox": [286, 492, 535, 632]
+  },
+  "H6-khoa_hoc_tu_nhien-b12-03": {
+    "pdf_page": 44,
+    "bbox": [75, 232, 294, 376],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 12.3 nằm trọn trong hộp Hoạt động nền xanh lam; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b12-04": {
+    "pdf_page": 44,
+    "bbox": [68, 496, 294, 641]
+  },
+  "H6-khoa_hoc_tu_nhien-b12-05": {
+    "pdf_page": 46,
+    "bbox": [280, 90, 540, 263]
+  },
+  "H6-khoa_hoc_tu_nhien-b13-01": {
+    "pdf_page": 47,
+    "bbox": [383, 274, 533, 407]
+  },
+  "H6-khoa_hoc_tu_nhien-b13-02": {
+    "pdf_page": 47,
+    "bbox": [383, 416, 535, 574]
+  },
+  "H6-khoa_hoc_tu_nhien-b13-03": {
+    "pdf_page": 48,
+    "bbox": [90, 558, 252, 740],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 13.3 nằm trọn trong hộp Em có biết? nền xanh lục; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b13-04": {
+    "pdf_page": 48,
+    "bbox": [290, 588, 524, 750],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 13.4 nằm trọn trong hộp Em có biết? nền xanh lục; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b13-05": {
+    "pdf_page": 49,
+    "bbox": [257, 93, 535, 307]
+  },
+  "H6-khoa_hoc_tu_nhien-b13-06": {
+    "pdf_page": 50,
+    "bbox": [185, 484, 392, 754],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 13.6 nằm trọn trong hộp Em có biết? nền xanh lục đè lên logo chìm ở giữa trang; cạnh khung chỉ đi qua vùng nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b14-01": {
+    "pdf_page": 51,
+    "bbox": [343, 280, 535, 473]
+  },
+  "H6-khoa_hoc_tu_nhien-b14-02": {
+    "pdf_page": 51,
+    "bbox": [323, 611, 531, 796]
+  },
+  "H6-khoa_hoc_tu_nhien-b15-01": {
+    "pdf_page": 53,
+    "bbox": [68, 335, 535, 705]
+  }
+}

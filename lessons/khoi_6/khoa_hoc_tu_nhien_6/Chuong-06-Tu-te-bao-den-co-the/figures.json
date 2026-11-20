@@ -1,0 +1,76 @@
+{
+  "H6-khoa_hoc_tu_nhien-b22-01": {
+    "pdf_page": 76,
+    "bbox": [50, 456, 552, 752]
+  },
+  "H6-khoa_hoc_tu_nhien-b22-02": {
+    "pdf_page": 77,
+    "bbox": [98, 61, 491, 280],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 22.2 nằm trọn trong hộp Hoạt động nền xanh lam nhạt; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b22-03": {
+    "pdf_page": 77,
+    "bbox": [65, 569, 538, 775]
+  },
+  "H6-khoa_hoc_tu_nhien-b22-04": {
+    "pdf_page": 78,
+    "bbox": [76, 125, 544, 326]
+  },
+  "H6-khoa_hoc_tu_nhien-b22-05": {
+    "pdf_page": 78,
+    "bbox": [107, 376, 510, 730],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 22.5 nằm trọn trong hộp Câu hỏi nền cam nhạt; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b23-01": {
+    "pdf_page": 80,
+    "bbox": [53, 335, 557, 715]
+  },
+  "H6-khoa_hoc_tu_nhien-b23-02": {
+    "pdf_page": 81,
+    "bbox": [92, 128, 523, 386],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 23.2 nằm trọn trong hộp Hoạt động nền xanh lam nhạt; cạnh trên chỉ đi qua màu nền hộp, không chạm chữ phía trên"
+  },
+  "H6-khoa_hoc_tu_nhien-b23-03": {
+    "pdf_page": 81,
+    "bbox": [51, 523, 303, 777]
+  },
+  "H6-khoa_hoc_tu_nhien-b23-04": {
+    "pdf_page": 81,
+    "bbox": [314, 544, 554, 777]
+  },
+  "H6-khoa_hoc_tu_nhien-b23-05": {
+    "pdf_page": 82,
+    "bbox": [332, 52, 556, 325],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trái chạm nhẹ mép phải màu nền hộp Câu hỏi bên trái, không chạm chữ đoạn văn"
+  },
+  "H6-khoa_hoc_tu_nhien-b23-06": {
+    "pdf_page": 82,
+    "bbox": [328, 331, 562, 549],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trái chạm nhẹ mép phải màu nền hộp Câu hỏi bên trái, không chạm chữ đoạn văn"
+  },
+  "H6-khoa_hoc_tu_nhien-b23-07": {
+    "pdf_page": 82,
+    "bbox": [300, 582, 565, 770]
+  },
+  "H6-khoa_hoc_tu_nhien-b23-08": {
+    "pdf_page": 83,
+    "bbox": [108, 79, 428, 371]
+  },
+  "H6-khoa_hoc_tu_nhien-b24-01": {
+    "pdf_page": 84,
+    "bbox": [309, 235, 452, 404]
+  },
+  "H6-khoa_hoc_tu_nhien-b24-02": {
+    "pdf_page": 85,
+    "bbox": [68, 51, 534, 353]
+  },
+  "H6-khoa_hoc_tu_nhien-b24-03": {
+    "pdf_page": 85,
+    "bbox": [44, 417, 536, 775]
+  }
+}

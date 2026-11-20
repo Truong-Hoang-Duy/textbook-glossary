@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Hóa học",
-    "generated_at": "2026-11-20T02:39:04Z",
+    "generated_at": "2026-11-20T04:26:48Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -17,20 +17,58 @@
       "Tu-dien-Vat-li.md"
     ],
     "counts": {
-      "entries": 565,
+      "entries": 608,
       "by_origin_discipline": {
-        "Hóa học": 511,
+        "Hóa học": 553,
         "Sinh học": 24,
         "Tin học": 1,
         "Toán học": 1,
-        "Vật lí": 24,
+        "Vật lí": 25,
         "Địa lí": 4
       },
-      "multi_context_entries": 470,
-      "alt_explanation_entries": 33
+      "multi_context_entries": 510,
+      "alt_explanation_entries": 45
     }
   },
   "entries": [
+    {
+      "id": "hoa-hoc-3r-cycle",
+      "term_en": "3R cycle",
+      "term_vi": "Chu trình 3R",
+      "term_vi_display": "Chu trình 3R (3R)",
+      "aliases_vi": [
+        "3R"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "An environmental material and waste management model comprising three principles: Reduce (minimizing usage), Reuse (using items again), and Recycle (reprocessing waste into new materials).",
+      "explanation_vi": "Quy trình sử dụng vật liệu và xử lí rác thải bảo vệ môi trường gồm ba nguyên tắc: Reduce (giảm thiểu việc sử dụng), Reuse (tái sử dụng) và Recycle (tái chế).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 12 (Mục III): áp dụng để hạn chế, thu gom và phân loại rác thải sinh hoạt trong gia đình nhằm tiết kiệm vật liệu và bảo vệ môi trường.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 12"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục III), tr. 45",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "III",
+          "printed_pages": [
+            45
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
     {
       "id": "hoa-hoc-accumulator",
       "term_en": "accumulator",
@@ -230,7 +268,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A phenomenon in which rainwater exhibits abnormally high acidity with $\\text{pH} < 5.6$ (below the normal $\\text{pH} \\approx 5.6$ of unpolluted rain containing dissolved CO₂). It is primarily caused by atmospheric emissions of SO₂ and NOₓ being oxidized and dissolved in rainwater to form sulfuric acid (H₂SO₄) and nitric acid (HNO₃).",
       "explanation_vi": "Hiện tượng nước mưa có độ acid cao bất thường với giá trị $\\text{pH} < 5,6$ (so với mức $\\text{pH} \\approx 5,6$ của nước mưa tự nhiên hoà tan CO₂). Nguyên nhân chủ yếu do khí thải SO₂ và NOₓ bị oxi hoá trong khí quyển rồi hoà tan vào nước mưa tạo thành sulfuric acid (H₂SO₄) và nitric acid (HNO₃).",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "Precipitation formed in air polluted by smoke, dust, and toxic emissions, which damages buildings and structures, degrades soil quality, and reduces plant photosynthesis.",
+          "explanation_vi": "Hiện tượng mưa sinh ra do bụi, khói và các khí thải độc hại trong không khí ô nhiễm, làm phá huỷ các công trình xây dựng, giảm chất lượng đất và giảm khả năng quang hợp của cây xanh."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 11, Bài 6 (Mục I.3): Phân tích nguyên nhân hoá học, tác hại đối với công trình, cây trồng, thuỷ vực và biện pháp cắt giảm phát thải SO₂, NOₓ.",
@@ -239,6 +283,14 @@
           ],
           "grade": 11,
           "lesson_ref": "Bài 6"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 11 (Mục V.1): nêu như một hệ quả nguy hại trực tiếp của sự ô nhiễm không khí đối với môi trường và công trình.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 11"
         }
       ],
       "disambiguation_notes": [],
@@ -274,6 +326,40 @@
           "section": "I.3",
           "printed_pages": [
             39
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục V.1), tr. 40",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "V.1",
+          "printed_pages": [
+            40
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục V.2), tr. 40",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "V.2",
+          "printed_pages": [
+            40
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục V.2), tr. 40, 41",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "V.2",
+          "printed_pages": [
+            40,
+            41
           ]
         }
       ],
@@ -1008,6 +1094,136 @@
           "section": "V.2.a",
           "printed_pages": [
             63
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-air",
+      "term_en": "air",
+      "term_vi": "Không khí",
+      "term_vi_display": "Không khí",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "The gaseous mixture surrounding Earth, composed by volume of approximately 78% nitrogen, 21% oxygen, and about 1% carbon dioxide, water vapor, and other gases. Air supplies essential gases for life and combustion while regulating climate and shielding Earth from incoming meteoroids.",
+      "explanation_vi": "Hỗn hợp khí bao quanh Trái Đất có thành phần gần đúng theo thể tích gồm 78% nitrogen, 21% oxygen cùng 1% carbon dioxide, hơi nước và các khí khác. Không khí cung cấp chất khí cần cho sự sống, sự cháy, đồng thời giúp điều hoà khí hậu và bảo vệ Trái Đất khỏi thiên thạch rơi từ vũ trụ.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 11 (Mục III, IV): xác định tỉ lệ thành phần các chất khí trong khí quyển và vai trò của từng thành phần đối với tự nhiên.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 11"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11, tr. 36",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": null,
+          "printed_pages": [
+            36
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục I), tr. 36",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "I",
+          "printed_pages": [
+            36
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục II.1), tr. 36",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "II.1",
+          "printed_pages": [
+            36
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục IV), tr. 39",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "IV",
+          "printed_pages": [
+            39
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-air-pollution",
+      "term_en": "air pollution",
+      "term_vi": "Sự ô nhiễm không khí",
+      "term_vi_display": "Sự ô nhiễm không khí (ô nhiễm không khí)",
+      "aliases_vi": [
+        "ô nhiễm không khí"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "The adverse alteration of air composition—characterized by decreased oxygen, increased carbon dioxide, and the presence of smoke, dust, or toxic gases. Resulting from natural events (volcanic eruptions, wildfires) or human activities (waste, vehicle and industrial emissions), it severely harms the environment and human health.",
+      "explanation_vi": "Hiện tượng thành phần không khí bị thay đổi theo hướng lượng oxygen giảm, lượng carbon dioxide tăng và xuất hiện các khí độc hại, khói, bụi. Hiện tượng này có nguyên nhân từ tự nhiên (núi lửa phun, cháy rừng) hoặc hoạt động của con người (rác thải, khí thải từ ô tô và nhà máy), gây ảnh hưởng nghiêm trọng đến môi trường và đời sống.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 11 (Mục V): nhận diện biểu hiện, nguồn gây ô nhiễm không khí và đề xuất các biện pháp bảo vệ bầu khí quyển trong lành.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 11"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục IV), tr. 39",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "IV",
+          "printed_pages": [
+            39
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục V.1), tr. 39",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "V.1",
+          "printed_pages": [
+            39
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục V.1), tr. 39, 40",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "V.1",
+          "printed_pages": [
+            39,
+            40
           ]
         }
       ],
@@ -3000,6 +3216,53 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-artificial-object",
+      "term_en": "artificial object",
+      "term_vi": "Vật thể nhân tạo",
+      "term_vi_display": "Vật thể nhân tạo",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "An object made by humans from natural or synthesized substances to serve practical needs in daily life and production.",
+      "explanation_vi": "Vật thể do con người tạo ra từ các chất tự nhiên hoặc chất điều chế nhằm phục vụ nhu cầu đời sống và sản xuất.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 9 (Mục I): phân loại các vật thể quanh ta như bánh mì, cầu Long Biên, nước ngọt có gas đối lập với vật thể tự nhiên.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9, tr. 28",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            28
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9 (Mục I), tr. 28",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "I",
+          "printed_pages": [
+            28
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-arylamine",
       "term_en": "arylamine",
       "term_vi": "Arylamine",
@@ -4295,6 +4558,53 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-bauxite-ore",
+      "term_en": "bauxite ore",
+      "term_vi": "Quặng bauxite",
+      "term_vi_display": "Quặng bauxite",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A natural ore used to produce aluminum, an important material in aircraft and automobile manufacturing, electrical engineering, and construction.",
+      "explanation_vi": "Loại quặng tự nhiên dùng để sản xuất nhôm — vật liệu quan trọng trong chế tạo máy bay, ô tô, kĩ thuật điện và xây dựng.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 13 (Mục I, III): minh hoạ việc chế biến quặng thành kim loại và giới thiệu nguồn quặng bauxite phân bố ở Tây Nguyên của Việt Nam.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 13"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục I), tr. 46",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": "I",
+          "printed_pages": [
+            46
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục III), tr. 48",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": "III",
+          "printed_pages": [
+            48
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-biodiesel",
       "term_en": "biodiesel",
       "term_vi": "Biodiesel",
@@ -4846,6 +5156,11 @@
       "explanation_vi": "Nhóm hợp chất hữu cơ tạp chức thường có công thức chung $\\text{C}_n(\\text{H}_2\\text{O})_m$, bao gồm ba phân nhóm chính là monosaccharide, disaccharide và polysaccharide.",
       "alt_explanations": [
         {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "A group of organic substances comprising starch, sugar, and dietary fiber, mostly of plant origin. It serves as the primary source of energy for the body's vital activities.",
+          "explanation_vi": "Nhóm chất hữu cơ bao gồm tinh bột, đường và chất xơ, phần lớn có nguồn gốc từ thực vật. Đây là nguồn cung cấp năng lượng chính cho các hoạt động sống của cơ thể."
+        },
+        {
           "source_label": "SGK Sinh học 10",
           "explanation_en": "A class of biomolecules composed of carbon, hydrogen, and oxygen in a 1 : 2 : 1 ratio with the general formula Cₙ(H₂O)ₘ, classified into monosaccharides, disaccharides, and polysaccharides. They primarily function to supply and store energy and to serve as structural materials for various cellular components.",
           "explanation_vi": "Nhóm phân tử sinh học được cấu tạo từ ba nguyên tố C, H và O theo tỉ lệ 1 : 2 : 1 với công thức chung Cₙ(H₂O)ₘ, được chia thành đường đơn, đường đôi và đường đa. Nhóm chất này giữ chức năng chính là cung cấp, dự trữ năng lượng và làm nguyên liệu cấu trúc nên nhiều thành phần của tế bào."
@@ -4859,6 +5174,14 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 4"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 15 (Mục II.1): Nhóm chất dinh dưỡng chính có trong lương thực và các loại quả ngọt, rau xanh.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 15"
         },
         {
           "raw": "Sinh học lớp 10, Bài 5 (Mục II.1, II.4): Cấu tạo, phân loại và vai trò của nhóm carbohydrate trong tế bào.",
@@ -4902,6 +5225,39 @@
           "section": "I.2",
           "printed_pages": [
             21
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục I), tr. 53",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B15",
+          "section": "I",
+          "printed_pages": [
+            53
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.1), tr. 53",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B15",
+          "section": "II.1",
+          "printed_pages": [
+            53
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục III), tr. 55",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B15",
+          "section": "III",
+          "printed_pages": [
+            55
           ]
         },
         {
@@ -5213,7 +5569,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "An iron alloy containing approximately $95\\%$ iron, $2\\%$ to $4\\%$ carbon, and minor amounts of elements such as manganese, silicon, phosphorus, and sulfur; harder yet more brittle than pure iron, it is used as a feedstock for steelmaking and for making cookware and machine parts.",
       "explanation_vi": "Hợp kim chứa khoảng $95\\%$ sắt, từ $2\\%$ đến $4\\%$ carbon và một số nguyên tố khác như manganese, silicon, phosphorus, sulfur; có đặc tính cứng hơn nhưng giòn hơn sắt, dùng làm nguyên liệu sản xuất thép, chế tạo dụng cụ đun nấu và chi tiết máy.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "An alloy of iron with carbon and other substances containing approximately 5% carbon. This material is produced from iron ore and used in construction, machinery and tool manufacturing, or steelmaking.",
+          "explanation_vi": "Hợp kim của sắt với carbon và các chất khác, trong đó hàm lượng carbon chiếm khoảng 5%. Vật liệu này được chế tạo từ quặng sắt và dùng trong xây dựng, chế tạo máy móc, dụng cụ hoặc luyện thép."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 12, Bài 21 (Mục III.1.a): phân biệt thành phần hàm lượng carbon và tính chất của gang với thép.",
@@ -5222,6 +5584,14 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 21"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 13 (Mục III): Vật liệu kim loại chế tạo từ quặng sắt, phân biệt với thép ở hàm lượng carbon cao hơn (khoảng 5%).",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 13"
         }
       ],
       "disambiguation_notes": [],
@@ -5257,6 +5627,28 @@
           "section": "III.1.a",
           "printed_pages": [
             100
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục III), tr. 48",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": "III",
+          "printed_pages": [
+            48
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            194
           ]
         }
       ],
@@ -5621,6 +6013,53 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-ceramics",
+      "term_en": "ceramics",
+      "term_vi": "Gốm, sứ",
+      "term_vi_display": "Gốm, sứ",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A class of human-made ceramic materials (including pottery and porcelain) that resist corrosion, conduct heat poorly, are nearly non-conductive electrically, and are hard yet brittle, commonly shaped into jars, tableware, and flowerpots.",
+      "explanation_vi": "Nhóm vật liệu nhân tạo không bị ăn mòn, dẫn nhiệt kém, hầu như không dẫn điện, cứng nhưng giòn và dễ vỡ, thường dùng để chế tạo chum vại, bát đĩa, chậu hoa với các hình dạng khác nhau.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 12 (Mục I, II): tìm hiểu tính chất cách nhiệt, cách điện, độ cứng và độ giòn của đồ gốm, sứ trong sinh hoạt hằng ngày.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 12"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục I), tr. 42",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            42
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 44",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "II",
+          "printed_pages": [
+            44
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-cetane-number",
       "term_en": "cetane number",
       "term_vi": "Chỉ số cetane",
@@ -5963,16 +6402,32 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
-      "id": "hoa-hoc-chemical-energy",
+      "id": "vat-li-chemical-energy",
       "term_en": "chemical energy",
-      "term_vi": "Hoá năng",
-      "term_vi_display": "Hoá năng",
-      "aliases_vi": [],
-      "origin_discipline": "Hóa học",
-      "explanation_en": "The form of energy stored within the chemical bonds of molecules. In the living world, chemical energy is stored in organic compounds by plants through photosynthesis, obtained by animals through food, and transferred into readily usable small molecules such as ATP and NADH via cellular respiration.",
-      "explanation_vi": "Dạng năng lượng tích luỹ trong các liên kết hoá học của phân tử vật chất. Trong sinh giới, hoá năng được thực vật tích luỹ trong các hợp chất hữu cơ nhờ quang hợp, được động vật tiếp nhận qua thức ăn và được chuyển sang các phân tử nhỏ dễ sử dụng như ATP, NADH qua hô hấp tế bào.",
-      "alt_explanations": [],
+      "term_vi": "Năng lượng hoá học",
+      "term_vi_display": "Năng lượng hoá học (hoá năng)",
+      "aliases_vi": [
+        "hoá năng"
+      ],
+      "origin_discipline": "Vật lí",
+      "explanation_en": "The form of energy stored in substances such as food, fuels, or matches and generated through chemical reactions of substances.",
+      "explanation_vi": "Dạng năng lượng lưu trữ trong các chất như thực phẩm, nhiên liệu hoặc que diêm và sinh ra do phản ứng hoá học của các chất.",
+      "alt_explanations": [
+        {
+          "source_label": "SGK Sinh học 11",
+          "explanation_en": "The form of energy stored within the chemical bonds of molecules. In the living world, chemical energy is stored in organic compounds by plants through photosynthesis, obtained by animals through food, and transferred into readily usable small molecules such as ATP and NADH via cellular respiration.",
+          "explanation_vi": "Dạng năng lượng tích luỹ trong các liên kết hoá học của phân tử vật chất. Trong sinh giới, hoá năng được thực vật tích luỹ trong các hợp chất hữu cơ nhờ quang hợp, được động vật tiếp nhận qua thức ăn và được chuyển sang các phân tử nhỏ dễ sử dụng như ATP, NADH qua hô hấp tế bào."
+        }
+      ],
       "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 47 (Mục I, II): phân loại dạng năng lượng dự trữ trong thực phẩm, nhiên liệu, que diêm, pháo hoa và pin.",
+          "disciplines": [
+            "Vật lí"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 47"
+        },
         {
           "raw": "Sinh học lớp 11, Bài 1 (Mục III.1, III.2): dạng năng lượng dự trữ trong liên kết hoá học của chất hữu cơ và ATP.",
           "disciplines": [
@@ -5985,6 +6440,51 @@
       ],
       "disambiguation_notes": [],
       "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            194
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            194,
+            195
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục I), tr. 165",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 09",
+          "lesson": "B47",
+          "section": "I",
+          "printed_pages": [
+            165
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 09",
+          "lesson": "B47",
+          "section": "II",
+          "printed_pages": [
+            166
+          ]
+        },
         {
           "raw": "SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III.1), tr. 6",
           "book": "SGK Sinh học 11 KNTT",
@@ -6019,7 +6519,7 @@
           ]
         }
       ],
-      "markdown_file": "Tu-dien-Hoa-hoc.md"
+      "markdown_file": "Tu-dien-Vat-li.md"
     },
     {
       "id": "hoa-hoc-chemical-equilibrium",
@@ -6075,6 +6575,53 @@
           "printed_pages": [
             9,
             10
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-chemical-property",
+      "term_en": "chemical property",
+      "term_vi": "Tính chất hoá học",
+      "term_vi_display": "Tính chất hoá học",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "The ability of a substance to undergo transformation into one or more different substances, such as decomposing upon heating or burning to form new products.",
+      "explanation_vi": "Khả năng biến đổi của chất này thành chất khác, chẳng hạn khả năng bị phân huỷ khi đun nóng hoặc khả năng cháy tạo ra chất mới.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 9 (Mục II): nhận diện qua các hiện tượng tạo ra chất mới như nung đá vôi thành vôi sống, đốt than đá tạo khí carbon dioxide hay đun nóng đường hoá nâu sẫm.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9 (Mục II), tr. 29",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "II",
+          "printed_pages": [
+            29
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            195
           ]
         }
       ],
@@ -6187,6 +6734,64 @@
         }
       ],
       "markdown_file": "Tu-dien-Dia-li.md"
+    },
+    {
+      "id": "hoa-hoc-chemistry",
+      "term_en": "chemistry",
+      "term_vi": "Hoá học",
+      "term_vi_display": "Hoá học",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A major branch of natural science dedicated to studying substances and their transformations.",
+      "explanation_vi": "Lĩnh vực chủ yếu của khoa học tự nhiên chuyên nghiên cứu về các chất và sự biến đổi của chúng.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 1 (Mục III): phân loại các hiện tượng biến đổi chất như đun nóng đường thành chất khác trong Bảng 1.1.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 1"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục III), tr. 8",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 01",
+          "lesson": "B1",
+          "section": "III",
+          "printed_pages": [
+            8
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục IV), tr. 10",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 01",
+          "lesson": "B1",
+          "section": "IV",
+          "printed_pages": [
+            10
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            194
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
       "id": "sinh-hoc-chemoreceptor",
@@ -8048,6 +8653,42 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-decantation",
+      "term_en": "decantation",
+      "term_vi": "Gạn",
+      "term_vi_display": "Gạn",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A separation technique performed by gently pouring off the clearer upper liquid layer away from the heavier solid sediment settled at the bottom of a container.",
+      "explanation_vi": "Thao tác tách chất bằng cách rót nhẹ nhàng lớp chất lỏng trong ở phía trên ra khỏi phần cặn rắn nặng hơn đã lắng xuống đáy bình chứa.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 17 (Mục II.1): Thao tác thường kết hợp ngay sau bước lắng và trước bước lọc khi làm trong nước đục.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 17"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.1), tr. 61",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B17",
+          "section": "II.1",
+          "printed_pages": [
+            61
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-degree-of-alcohol",
       "term_en": "degree of alcohol",
       "term_vi": "Bậc của alcohol",
@@ -8787,6 +9428,42 @@
           "section": "I.2.b",
           "printed_pages": [
             18
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-dissolution",
+      "term_en": "dissolution",
+      "term_vi": "Sự hoà tan",
+      "term_vi_display": "Sự hoà tan",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "The process by which a solid, liquid, or gas disperses uniformly into a solvent to form a solution, with solubility varying across substances. Heating, stirring, or crushing generally increases the rate and extent of solid dissolution, whereas higher temperatures decrease gas solubility.",
+      "explanation_vi": "Quá trình chất rắn, chất lỏng hoặc chất khí phân tán đồng đều trong dung môi để tạo thành dung dịch với mức độ tan khác nhau tuỳ từng chất. Thông thường khi tăng nhiệt độ, khuấy trộn hoặc nghiền nhỏ thì chất rắn tan nhanh và nhiều hơn, trong khi chất khí lại tan ít hơn khi nhiệt độ tăng.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 16 (Mục IV.1, IV.2): Khả năng tan của các chất trong nước và các yếu tố ảnh hưởng đến quá trình tạo dung dịch.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 16"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục IV.1), tr. 58",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "IV.1",
+          "printed_pages": [
+            58
           ]
         }
       ],
@@ -10703,6 +11380,64 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-emulsion",
+      "term_en": "emulsion",
+      "term_vi": "Nhũ tương",
+      "term_vi_display": "Nhũ tương",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A heterogeneous mixture consisting of droplets of one liquid dispersed and suspended in another immiscible liquid, typically opaque, such as milk or agitated oil in water.",
+      "explanation_vi": "Hỗn hợp không đồng nhất gồm các giọt chất lỏng lơ lửng trong một chất lỏng khác không hoà tan vào nó và thường không trong suốt, ví dụ như sữa hoặc hỗn hợp dầu ăn khuấy trong nước.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 16 (Mục III): Hỗn hợp lỏng - lỏng không đồng nhất, phân biệt với huyền phù (rắn - lỏng) và dung dịch.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 16"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "II",
+          "printed_pages": [
+            57
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "III",
+          "printed_pages": [
+            57
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục IV.2), tr. 59",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "IV.2",
+          "printed_pages": [
+            59
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-endothermic-reaction",
       "term_en": "endothermic reaction",
       "term_vi": "Phản ứng thu nhiệt",
@@ -11838,6 +12573,65 @@
       "markdown_file": "Tu-dien-Sinh-hoc.md"
     },
     {
+      "id": "hoa-hoc-evaporation-to-dryness",
+      "term_en": "evaporation to dryness",
+      "term_vi": "Cô cạn",
+      "term_vi_display": "Cô cạn",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A method for separating a dissolved or non-volatile solid from a solution or suspension by completely evaporating the solvent to recover the remaining solid residue.",
+      "explanation_vi": "Phương pháp tách chất tan rắn (hoặc chất rắn không bay hơi) ra khỏi dung dịch hay huyền phù bằng cách làm cho dung môi bay hơi hết để thu được chất rắn còn lại.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 17 (Mục II.2): Phương pháp tách muối ăn từ dung dịch nước muối hoặc sản xuất muối từ nước biển.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 17"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.2), tr. 62",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B17",
+          "section": "II.2",
+          "printed_pages": [
+            62
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.3), tr. 62",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B17",
+          "section": "II.3",
+          "printed_pages": [
+            62
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.3), tr. 62, 63",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B17",
+          "section": "II.3",
+          "printed_pages": [
+            62,
+            63
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-exothermic-reaction",
       "term_en": "exothermic reaction",
       "term_vi": "Phản ứng toả nhiệt",
@@ -12136,6 +12930,64 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-filtration",
+      "term_en": "filtration",
+      "term_vi": "Lọc",
+      "term_vi_display": "Lọc",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A method for separating insoluble solid particles from a liquid or gas by passing the mixture through a porous filter medium that retains particles larger than its pores.",
+      "explanation_vi": "Phương pháp tách các hạt chất rắn không tan ra khỏi chất lỏng hoặc chất khí bằng cách cho hỗn hợp đi qua vật liệu lọc có các lỗ nhỏ li ti để giữ lại những hạt rắn có kích thước lớn hơn lỗ lọc.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 17 (Mục II.1): Phương pháp dùng phễu lót giấy lọc trong phòng thí nghiệm, máy lọc nước sinh hoạt và khẩu trang lọc bụi.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 17"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.1), tr. 61",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B17",
+          "section": "II.1",
+          "printed_pages": [
+            61
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.2), tr. 62",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B17",
+          "section": "II.2",
+          "printed_pages": [
+            62
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.3), tr. 63",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B17",
+          "section": "II.3",
+          "printed_pages": [
+            63
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-first-ionization-energy",
       "term_en": "first ionization energy",
       "term_vi": "Năng lượng ion hoá thứ nhất",
@@ -12313,6 +13165,78 @@
           "section": "I.2",
           "printed_pages": [
             8
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-fossil-fuel",
+      "term_en": "fossil fuel",
+      "term_vi": "Nhiên liệu hoá thạch",
+      "term_vi_display": "Nhiên liệu hoá thạch",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A group of fuels comprising coal, petroleum, and natural gas formed from the remains of prehistoric plants and animals buried deep underground over millions of years. It represents a finite, depleting fuel resource that causes environmental pollution when burned.",
+      "explanation_vi": "Nhóm nhiên liệu gồm than đá, dầu mỏ và khí thiên nhiên hình thành từ xác động vật, thực vật bị vùi sâu trong lòng đất qua hàng triệu năm từ thời tiền sử. Đây là nguồn nhiên liệu có hạn, dần cạn kiệt và gây ô nhiễm môi trường khi đốt cháy.",
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "A group of non-renewable fuels comprising coal, petroleum, and natural gas, formed from the remains of prehistoric plants and animals buried deep underground over millions of years.",
+          "explanation_vi": "Nhóm nhiên liệu không tái tạo gồm than đá, dầu mỏ và khí thiên nhiên, hình thành từ xác động vật và thực vật bị vùi sâu trong lòng đất qua hàng triệu năm từ thời tiền sử."
+        }
+      ],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 14 (Mục II, III): Nguồn nhiên liệu truyền thống cần sử dụng tiết kiệm và gắn với bài toán bảo vệ môi trường, an ninh năng lượng.",
+          "disciplines": [
+            "Toán học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 14"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 14 (Mục I, III) và Bài 50 (Mục II): tìm hiểu tính chất, ứng dụng và tác động môi trường của các nhiên liệu truyền thống không tái tạo.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 14"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14, tr. 50",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B14",
+          "section": null,
+          "printed_pages": [
+            50
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục I), tr. 50",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B14",
+          "section": "I",
+          "printed_pages": [
+            50
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục II), tr. 50",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B14",
+          "section": "II",
+          "printed_pages": [
+            50
           ]
         }
       ],
@@ -12524,6 +13448,100 @@
           "section": "I.2",
           "printed_pages": [
             21
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-fuel",
+      "term_en": "fuel",
+      "term_vi": "Nhiên liệu",
+      "term_vi_display": "Nhiên liệu",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A combustible substance that releases significant heat upon burning, existing in solid, liquid, or gaseous state. The heat released from its combustion is used for heating, cooking, powering engines, and generating electricity.",
+      "explanation_vi": "Chất có khả năng cháy được và toả nhiều nhiệt khi cháy, tồn tại ở thể rắn, thể lỏng hoặc thể khí. Nhiệt lượng toả ra khi đốt cháy chất này được sử dụng để sưởi ấm, nấu ăn, vận hành động cơ và phát điện.",
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "A combustible substance that releases energy, producing heat and light when burned, existing in solid (coal, wood), liquid (gasoline, kerosene), or gaseous (fuel gas) states.",
+          "explanation_vi": "Chất dễ cháy, khi bị đốt cháy giải phóng năng lượng dưới dạng nhiệt và ánh sáng, tồn tại ở thể rắn (than đá, gỗ), thể lỏng (xăng, dầu hoả) hoặc thể khí (các loại khí đốt)."
+        }
+      ],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 14 (Mục I): Tính chất, phân loại theo thể và ứng dụng của các chất đốt thông dụng trong đời sống và sản xuất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 14"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 14 (Mục I) và Bài 46 (Mục II): nhận biết tính chất các chất đốt thông dụng và vai trò giải phóng năng lượng cho đời sống, sản xuất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 14"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14, tr. 50",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B14",
+          "section": null,
+          "printed_pages": [
+            50
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục I), tr. 50",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B14",
+          "section": "I",
+          "printed_pages": [
+            50
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục II), tr. 50",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B14",
+          "section": "II",
+          "printed_pages": [
+            50
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 09, B46 (Mục II), tr. 164",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 09",
+          "lesson": "B46",
+          "section": "II",
+          "printed_pages": [
+            164
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            195
           ]
         }
       ],
@@ -13069,6 +14087,64 @@
           "section": "I.3",
           "printed_pages": [
             94
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-glass",
+      "term_en": "glass",
+      "term_vi": "Thuỷ tinh",
+      "term_vi_display": "Thuỷ tinh",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A human-made material that is transparent to light, a poor conductor of heat, electrically non-conductive, hard, yet brittle and easily broken.",
+      "explanation_vi": "Vật liệu nhân tạo có đặc tính trong suốt, cho ánh sáng đi qua, dẫn nhiệt kém, không dẫn điện, cứng nhưng giòn và dễ vỡ.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 12 (Mục II): đối chiếu tính chất của thuỷ tinh với các vật liệu khác để giải thích việc dùng thuỷ tinh làm bình hoa, chai lọ và cửa kính.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 12"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục I), tr. 42",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            42
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 43",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "II",
+          "printed_pages": [
+            43
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 44",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "II",
+          "printed_pages": [
+            44
           ]
         }
       ],
@@ -14076,6 +15152,111 @@
           "printed_pages": [
             86,
             87
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-heterogeneous-mixture",
+      "term_en": "heterogeneous mixture",
+      "term_vi": "Hỗn hợp không đồng nhất",
+      "term_vi_display": "Hỗn hợp không đồng nhất",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A type of mixture in which constituent substances are not uniformly distributed throughout and which is typically non-transparent, encompassing systems such as suspensions and emulsions.",
+      "explanation_vi": "Loại hỗn hợp trong đó các chất thành phần không phân bố đồng đều hoàn toàn với nhau và thường không trong suốt, bao gồm các hệ điển hình như huyền phù và nhũ tương.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 16 (Mục III): Nhóm hỗn hợp đối lập với hỗn hợp đồng nhất (dung dịch) khi quan sát trạng thái phân bố chất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 16"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "II",
+          "printed_pages": [
+            57
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "III",
+          "printed_pages": [
+            57
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-homogeneous-mixture",
+      "term_en": "homogeneous mixture",
+      "term_vi": "Hỗn hợp đồng nhất",
+      "term_vi_display": "Hỗn hợp đồng nhất",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A type of mixture in which extremely small constituent particles are uniformly distributed throughout so that separate components cannot be distinguished by the naked eye, exemplified by solutions.",
+      "explanation_vi": "Loại hỗn hợp trong đó các hạt cấu thành vô cùng nhỏ phân bố đồng đều khắp mọi phần nên không thể phân biệt riêng rẽ bằng mắt thường, tiêu biểu là các dung dịch.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 16 (Mục II): Phân biệt dung dịch (như nước đường, nước muối) với các hỗn hợp không đồng nhất như huyền phù và nhũ tương.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 16"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "II",
+          "printed_pages": [
+            57
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "III",
+          "printed_pages": [
+            57
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục IV.2), tr. 59",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "IV.2",
+          "printed_pages": [
+            59
           ]
         }
       ],
@@ -16064,6 +17245,42 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-iron-ore",
+      "term_en": "iron ore",
+      "term_vi": "Quặng sắt",
+      "term_vi_display": "Quặng sắt",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "An iron-bearing ore mined and smelted to manufacture cast iron and steel—two vital iron-based materials used in construction, machinery, and tools.",
+      "explanation_vi": "Loại quặng dùng làm nguyên liệu chế tạo gang và thép — hai vật liệu quan trọng chứa thành phần chính là sắt dùng trong xây dựng, chế tạo máy và dụng cụ.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 13 (Mục III): giới thiệu quy trình nung quặng với than cốc ở lò cao để luyện gang thép và mỏ quặng sắt tiêu biểu ở Thái Nguyên.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 13"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục III), tr. 48",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": "III",
+          "printed_pages": [
+            48
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-irreversible-reaction",
       "term_en": "irreversible reaction",
       "term_vi": "Phản ứng một chiều",
@@ -16481,6 +17698,126 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-laboratory-safety-rules-chemistry",
+      "term_en": "laboratory safety rules (chemistry)",
+      "term_vi": "Quy định an toàn trong phòng thực hành",
+      "term_vi_display": "Quy định an toàn trong phòng thực hành",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A set of mandatory rules followed during laboratory work to prevent risks and accidents, including wearing neat attire and personal protective equipment, identifying hazardous materials, and conducting experiments only under supervision. Students must strictly refrain from eating, drinking, horseplay, or tasting and smelling chemicals, and must dispose of waste properly, tidy up equipment, and wash hands with soap afterward.",
+      "explanation_vi": "Tập hợp các nguyên tắc bắt buộc khi học tập trong phòng thực hành nhằm phòng tránh rủi ro và tai nạn, gồm mặc trang phục gọn gàng, sử dụng thiết bị bảo hộ, nhận biết vật liệu nguy hiểm và chỉ làm thí nghiệm khi có người hướng dẫn. Học sinh tuyệt đối không ăn uống, đùa nghịch, nếm hoặc ngửi hoá chất, đồng thời phải thu gom chất thải đúng quy định, dọn dẹp dụng cụ và rửa sạch tay bằng xà phòng sau thí nghiệm.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 2 (Mục II): thực hiện các nguyên tắc an toàn trước, trong và sau khi làm thí nghiệm.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 2"
+        }
+      ],
+      "disambiguation_notes": [
+        "Không nhầm với 'Quy tắc an toàn trong phòng thực hành' (`laboratory safety rules`) trong Vật lí."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 01, B2, tr. 11",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": null,
+          "printed_pages": [
+            11
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 01, B2 (Mục I), tr. 11",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "I",
+          "printed_pages": [
+            11
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 01, B2 (Mục II), tr. 11, 12",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II",
+          "printed_pages": [
+            11,
+            12
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-laboratory-warning-symbol",
+      "term_en": "laboratory warning symbol",
+      "term_vi": "Kí hiệu cảnh báo trong phòng thực hành",
+      "term_vi_display": "Kí hiệu cảnh báo trong phòng thực hành",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A system of standardized signs and pictograms used to identify hazards and prevent risks and accidents in a laboratory. Common categories include circular red-bordered prohibition signs with a diagonal slash and hazard warnings for flammable, toxic, or corrosive substances, electrical hazards, sharp instruments, fragile glassware, and high temperatures.",
+      "explanation_vi": "Hệ thống biển báo và hình vẽ quy ước giúp nhận biết các mối nguy hiểm để phòng tránh rủi ro, tai nạn trong phòng thực hành. Các nhóm phổ biến gồm biển báo cấm hình tròn viền đỏ gạch chéo và biển cảnh báo nguy hiểm như chất dễ cháy, chất độc, chất ăn mòn, nguồn điện nguy hiểm, dụng cụ sắc nhọn, thuỷ tinh dễ vỡ và nhiệt độ cao.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 2 (Mục I): nhận diện các biển báo an toàn và nguy hiểm trước khi tiến hành thí nghiệm.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 2"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 01, B2, tr. 11",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": null,
+          "printed_pages": [
+            11
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 01, B2 (Mục I), tr. 11",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "I",
+          "printed_pages": [
+            11
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 01, B2 (Mục II), tr. 11, 12",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II",
+          "printed_pages": [
+            11,
+            12
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-lateral-overlap",
       "term_en": "lateral overlap",
       "term_vi": "Xen phủ bên",
@@ -16840,7 +18177,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A natural calcium-containing raw material composed primarily of CaCO₃. In daily life and industry, limestone is widely used to manufacture quicklime and cement and to serve as a building material.",
       "explanation_vi": "Nguyên, vật liệu tự nhiên chứa calcium có thành phần chính là CaCO₃. Trong đời sống và công nghiệp, đá vôi được sử dụng phổ biến để sản xuất vôi sống, xi măng và làm vật liệu xây dựng.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "A natural rock composed primarily of calcium carbonate mixed with impurities such as clay and sand, which reacts with hydrochloric acid solution to release gas bubbles. Limestone is used to produce quicklime, road aggregate, concrete, and filler powder for rubber and soap manufacturing.",
+          "explanation_vi": "Loại đá tự nhiên có thành phần chủ yếu là calcium carbonate thường lẫn tạp chất như đất sét, cát và tác dụng được với dung dịch hydrochloric acid tạo bọt khí. Đá vôi dùng để sản xuất vôi sống, đập nhỏ làm đường, làm bê tông và chế biến thành bột nhẹ dùng trong sản xuất cao su, xà phòng."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 12, Bài 25 (Mục II.3): Nguyên, vật liệu chứa calcium phổ biến trong đời sống và sản xuất công nghiệp.",
@@ -16849,6 +18192,14 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 25"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 13 (Mục II): khảo sát tính chất, ứng dụng và sự phân bố các mỏ đá vôi tập trung nhiều ở các tỉnh phía Bắc và Bắc Trung Bộ Việt Nam.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 13"
         }
       ],
       "disambiguation_notes": [],
@@ -16884,6 +18235,39 @@
           "section": "III.1.a",
           "printed_pages": [
             123
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13, tr. 46",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": null,
+          "printed_pages": [
+            46
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục I), tr. 46",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": "I",
+          "printed_pages": [
+            46
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục II), tr. 46",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": "II",
+          "printed_pages": [
+            46
           ]
         }
       ],
@@ -16951,12 +18335,19 @@
       "id": "hoa-hoc-lipid",
       "term_en": "lipid",
       "term_vi": "Lipid",
-      "term_vi_display": "Lipid",
-      "aliases_vi": [],
+      "term_vi_display": "Lipid (chất béo)",
+      "aliases_vi": [
+        "chất béo"
+      ],
       "origin_discipline": "Hóa học",
       "explanation_en": "A class of organic compounds present in living cells that are insoluble in water but soluble in non-polar organic solvents. Based on molecular structure, this class encompasses fats, waxes, steroids, and phospholipids.",
       "explanation_vi": "Nhóm hợp chất hữu cơ có trong tế bào sống, không tan trong nước nhưng tan trong dung môi hữu cơ không phân cực. Dựa trên cấu tạo phân tử, nhóm chất này bao gồm chất béo, sáp, steroid và phospholipid.",
       "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "A nutrient that serves as an energy reserve in the body, provides insulation against cold, and aids the absorption of fat-soluble vitamins. It occurs in processed products such as butter and vegetable oil as well as natural foods like milk, egg yolk, meat, fish, peanuts, and sesame.",
+          "explanation_vi": "Chất dinh dưỡng đóng vai trò dự trữ năng lượng trong cơ thể, chống lạnh và hỗ trợ hấp thụ các vitamin tan trong chất béo. Chất này có trong các sản phẩm chế biến như bơ, dầu thực vật và thực phẩm tự nhiên như sữa, lòng đỏ trứng, thịt, cá, lạc, vừng."
+        },
         {
           "source_label": "SGK Sinh học 10",
           "explanation_en": "A structurally diverse group of biomolecules (including fats and oils, phospholipids, steroids, carotenoids, waxes, and vitamins A, D, E, and K) sharing a hydrophobic nature due to abundant nonpolar C–H bonds and few oxygen atoms. They primarily function in long-term energy storage, cell membrane structure, and various physiological processes.",
@@ -16971,6 +18362,14 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 1"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 15 (Mục II.2.b): Nhóm chất béo dự trữ năng lượng có trong dầu thực vật, mỡ động vật và các loại hạt có dầu.",
+          "disciplines": [
+            "Sinh học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 15"
         },
         {
           "raw": "Sinh học lớp 10, Bài 5 (Mục II.2, II.4): Đặc tính kị nước, phân loại và vai trò của nhóm lipid trong tế bào.",
@@ -17015,6 +18414,39 @@
           "printed_pages": [
             10,
             11
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.a), tr. 54",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B15",
+          "section": "II.2.a",
+          "printed_pages": [
+            54
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.b), tr. 54",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B15",
+          "section": "II.2.b",
+          "printed_pages": [
+            54
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.c), tr. 54",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B15",
+          "section": "II.2.c",
+          "printed_pages": [
+            54
           ]
         },
         {
@@ -17175,12 +18607,20 @@
       "id": "hoa-hoc-liquid-liquid-extraction",
       "term_en": "liquid-liquid extraction",
       "term_vi": "Chiết lỏng – lỏng",
-      "term_vi_display": "Chiết lỏng – lỏng",
-      "aliases_vi": [],
+      "term_vi_display": "Chiết lỏng – lỏng (Chiết)",
+      "aliases_vi": [
+        "Chiết"
+      ],
       "origin_discipline": "Hóa học",
       "explanation_en": "An extraction technique using a low-boiling liquid solvent that is immiscible with the original solvent (usually water) and dissolves the target substance to transfer an organic compound from water into the extracting solvent. After shaking and layer separation by density in a separatory funnel, the solution containing the target substance (the extract) is separated from water and distilled to recover the organic compound.",
       "explanation_vi": "Kĩ thuật chiết dùng một dung môi lỏng không trộn lẫn với dung môi ban đầu (thường là nước), có nhiệt độ sôi thấp và hoà tan tốt chất cần chiết để chuyển chất hữu cơ từ nước sang dung môi chiết. Sau khi lắc và để phân lớp theo khối lượng riêng trong phễu chiết, dung dịch chứa chất cần chiết (dịch chiết) được tách riêng khỏi nước rồi đem chưng cất dung môi để thu chất hữu cơ.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "A method for separating immiscible liquids from a mixture using apparatus such as a separatory funnel, relying on their phase separation into distinct liquid layers.",
+          "explanation_vi": "Phương pháp tách các chất lỏng không tan vào nhau ra khỏi hỗn hợp bằng dụng cụ như phễu chiết hoặc bình chiết dựa trên sự phân tách thành các lớp chất lỏng riêng biệt."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 11, Bài 11 (Mục II.2): Dùng để tách chất hữu cơ hoà tan hoặc phân tán dạng nhũ tương, huyền phù trong nước như tách β-carotene từ nước ép cà rốt bằng hexane.",
@@ -17189,9 +18629,19 @@
           ],
           "grade": 11,
           "lesson_ref": "Bài 11"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 17 (Mục II.3): Phương pháp dùng phễu chiết tách hỗn hợp lỏng - lỏng không tan vào nhau như dầu ăn và nước.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 17"
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Ở chương trình Khoa học tự nhiên lớp 6, thuật ngữ này chỉ thao tác tách hai lớp chất lỏng không tan vào nhau bằng phễu chiết."
+      ],
       "sources": [
         {
           "raw": "SGK Hóa học 11 KNTT, Chương 03, B11 (Mục II.2), tr. 65, 66",
@@ -17214,6 +18664,40 @@
           "section": "II.3",
           "printed_pages": [
             66
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.2), tr. 62",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B17",
+          "section": "II.2",
+          "printed_pages": [
+            62
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.3), tr. 62",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B17",
+          "section": "II.3",
+          "printed_pages": [
+            62
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.3), tr. 62, 63",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B17",
+          "section": "II.3",
+          "printed_pages": [
+            62,
+            63
           ]
         }
       ],
@@ -17852,6 +19336,64 @@
       "markdown_file": "Tu-dien-Vat-li.md"
     },
     {
+      "id": "hoa-hoc-material",
+      "term_en": "material",
+      "term_vi": "Vật liệu",
+      "term_vi_display": "Vật liệu",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A substance or mixture of substances, either naturally occurring (stone, wood) or human-made (ceramics, porcelain, glass, metals, plastics), selected according to its properties to manufacture tools, goods, and structures.",
+      "explanation_vi": "Chất hoặc hỗn hợp một số chất có sẵn trong tự nhiên (đá, gỗ) hoặc do con người chế tạo ra (gốm, sứ, thuỷ tinh, kim loại, nhựa), được lựa chọn dựa trên các tính chất đặc trưng để làm dụng cụ, đồ dùng và công trình xây dựng.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 12 (Mục I, II, III): khảo sát tính chất, ứng dụng của các vật liệu thông dụng và nguyên tắc sử dụng vật liệu tiết kiệm, an toàn, không gây hại cho môi trường.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 12"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12, tr. 42",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": null,
+          "printed_pages": [
+            42
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục I), tr. 42",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            42
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 43",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "II",
+          "printed_pages": [
+            43
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-matrix",
       "term_en": "matrix",
       "term_vi": "Vật liệu nền",
@@ -17946,7 +19488,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A class of chemical elements whose atoms have $1, 2,$ or $3$ outermost electrons (excluding $\\text{H}$, $\\text{He}$, and $\\text{B}$), also including certain elements with $4$ outermost electrons and all transition elements.",
       "explanation_vi": "Nhóm các nguyên tố hoá học mà nguyên tử có $1, 2$ hoặc $3$ electron ở lớp ngoài cùng (trừ $\\text{H}$, $\\text{He}$ và $\\text{B}$), đồng thời bao gồm một số nguyên tố có $4$ electron lớp ngoài cùng và toàn bộ các nguyên tố chuyển tiếp.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "A class of materials characterized by metallic luster, hardness, durability, high electrical and thermal conductivity, ductility, and malleability, though susceptible to rusting.",
+          "explanation_vi": "Nhóm vật liệu có ánh kim, cứng và bền, dẫn điện tốt, dẫn nhiệt tốt, có thể kéo thành sợi và dát mỏng nhưng có thể bị gỉ."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 3 (Mục III.3): Dự đoán tính kim loại của nguyên tố dựa trên số electron lớp ngoài cùng của nguyên tử.",
@@ -17955,6 +19503,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 3"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 12 (Mục II): giải thích ứng dụng làm dây dẫn điện, nồi đun nấu, cầu cống, khung nhà dựa vào tính dẫn điện, dẫn nhiệt và độ bền cơ học.",
+          "disciplines": [
+            "Vật lí"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 12"
         }
       ],
       "disambiguation_notes": [],
@@ -17968,6 +19524,39 @@
           "section": "III.3",
           "printed_pages": [
             25
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục I), tr. 42",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            42
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 43",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "II",
+          "printed_pages": [
+            43
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 44",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "II",
+          "printed_pages": [
+            44
           ]
         }
       ],
@@ -18429,6 +20018,113 @@
           "section": "I.2",
           "printed_pages": [
             90
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-methane-hydrate",
+      "term_en": "methane hydrate",
+      "term_vi": "Đá cháy",
+      "term_vi_display": "Đá cháy (băng cháy)",
+      "aliases_vi": [
+        "băng cháy"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A solid methane hydrate substance formed under conditions of high pressure and low temperature, found in vast quantities deep beneath the Arctic seabed.",
+      "explanation_vi": "Chất rắn dạng methane hydrate hình thành trong điều kiện áp suất cao và nhiệt độ thấp, tồn tại với lượng rất lớn ở sâu dưới đáy biển Bắc Cực.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 14 (Mục III): Nguồn nhiên liệu tiềm năng được giới thiệu mở rộng trong phần tìm hiểu an ninh năng lượng.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 14"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục II), tr. 51",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B14",
+          "section": "II",
+          "printed_pages": [
+            51
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục III), tr. 51",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B14",
+          "section": "III",
+          "printed_pages": [
+            51
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-mixture",
+      "term_en": "mixture",
+      "term_vi": "Hỗn hợp",
+      "term_vi_display": "Hỗn hợp",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A material system containing two or more substances physically combined without chemical interaction among the components. Its properties vary depending on the composition and proportions of the constituent substances.",
+      "explanation_vi": "Hệ vật chất chứa từ hai chất trở lên trộn lẫn với nhau mà không xảy ra tương tác hoá học giữa các thành phần. Tính chất của hệ thay đổi tuỳ thuộc vào thành phần và tỉ lệ các chất có mặt.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 16 (Mục I): Khái niệm nền tảng để phân loại dung dịch, huyền phù, nhũ tương và lựa chọn phương pháp tách chất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 16"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16, tr. 56",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": null,
+          "printed_pages": [
+            56
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục I), tr. 56",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "I",
+          "printed_pages": [
+            56
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 56",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "II",
+          "printed_pages": [
+            56
           ]
         }
       ],
@@ -19263,6 +20959,53 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-natural-material",
+      "term_en": "natural material",
+      "term_vi": "Vật liệu tự nhiên",
+      "term_vi_display": "Vật liệu tự nhiên",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A material occurring naturally, such as stone and wood, used directly by humans to fashion tools, build houses, construct vessels, and erect fortifications.",
+      "explanation_vi": "Loại vật liệu có sẵn trong tự nhiên như đá và gỗ, được con người sử dụng trực tiếp để làm dụng cụ lao động, xây nhà, đóng tàu thuyền và dựng thành luỹ, pháo đài.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 12 (Mục I): phân biệt với các vật liệu do con người chế tạo không có sẵn trong tự nhiên như gốm, sứ, thuỷ tinh, kim loại và nhựa.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 12"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12, tr. 42",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": null,
+          "printed_pages": [
+            42
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục I), tr. 42",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            42
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-natural-nitrate-formation-from-rainwater",
       "term_en": "natural nitrate formation from rainwater",
       "term_vi": "Quá trình tạo và cung cấp đạm nitrate cho đất từ nước mưa",
@@ -19304,6 +21047,122 @@
           "section": "IV.2",
           "printed_pages": [
             31
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-natural-object",
+      "term_en": "natural object",
+      "term_vi": "Vật thể tự nhiên",
+      "term_vi_display": "Vật thể tự nhiên",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "An object occurring naturally without human manufacture, composed of one or more substances.",
+      "explanation_vi": "Vật thể có sẵn trong tự nhiên, không do con người chế tạo ra và cấu tạo từ một hay nhiều chất khác nhau.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 9 (Mục I): phân loại các vật thể quanh ta như núi đá vôi, con sư tử, mủ cao su đối lập với vật thể nhân tạo.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9, tr. 28",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            28
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9 (Mục I), tr. 28",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "I",
+          "printed_pages": [
+            28
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            195
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-natural-raw-material",
+      "term_en": "natural raw material",
+      "term_vi": "Nguyên liệu tự nhiên",
+      "term_vi_display": "Nguyên liệu tự nhiên",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A raw material extracted directly from nature—such as soil, rock, sand, ore, crude oil, or crops—for processing into construction materials, metals, and basic chemicals.",
+      "explanation_vi": "Nguồn nguyên liệu được con người lấy trực tiếp từ tự nhiên như đất, đá, cát, quặng, dầu mỏ hoặc cây trồng để chế biến thành vôi sống, xi măng, gạch ngói, thuỷ tinh, kim loại và các hoá chất cơ bản.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 13 (Mục I): nhấn mạnh tính hữu hạn của nguồn tài nguyên thiên nhiên và yêu cầu khai thác, sử dụng hợp lí.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 13"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13, tr. 46",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": null,
+          "printed_pages": [
+            46
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục I), tr. 46",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": "I",
+          "printed_pages": [
+            46
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục II), tr. 46",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": "II",
+          "printed_pages": [
+            46
           ]
         }
       ],
@@ -21127,7 +22986,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "Naturally occurring rocks or earths containing minerals of metals or metal compounds in reserves sufficiently large to be mined, typically containing impurities.",
       "explanation_vi": "Những loại đất, đá tồn tại trong tự nhiên có chứa khoáng vật của kim loại hoặc hợp chất kim loại với trữ lượng đủ lớn để có thể khai thác và thường chứa tạp chất.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "Naturally occurring rock or earth containing valuable substances in high concentrations that is mined and processed into metals or other useful products.",
+          "explanation_vi": "Loại đất đá tự nhiên chứa các chất có giá trị với hàm lượng lớn, được khai thác và chế biến thành kim loại hoặc các sản phẩm hữu dụng."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 12, Bài 20 (Mục I): nguồn nguyên liệu tự nhiên dùng để tách kim loại trong công nghiệp.",
@@ -21136,6 +23001,14 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 20"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 13 (Mục I, III): tìm hiểu nguồn nguyên liệu khoáng sản hữu hạn, không thể tái tạo và yêu cầu khai thác hợp lí gắn với bảo vệ môi trường.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 13"
         }
       ],
       "disambiguation_notes": [],
@@ -21172,6 +23045,28 @@
           "printed_pages": [
             94,
             95
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục I), tr. 46",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": "I",
+          "printed_pages": [
+            46
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục III), tr. 48",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": "III",
+          "printed_pages": [
+            48
           ]
         }
       ],
@@ -21785,6 +23680,75 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-oxygen",
+      "term_en": "oxygen",
+      "term_vi": "Oxygen",
+      "term_vi_display": "Oxygen",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A substance that under normal conditions is a colorless, odorless, tasteless gas slightly soluble in water and heavier than air, liquefying at -183 °C and solidifying into a pale blue solid at -218 °C. Making up about 21% of air by volume, oxygen is essential for biological respiration and fuel combustion.",
+      "explanation_vi": "Chất ở điều kiện thường tồn tại ở thể khí, không màu, không mùi, không vị, ít tan trong nước, nặng hơn không khí, hoá lỏng ở -183 °C và hoá rắn ở -218 °C (có màu xanh nhạt). Oxygen chiếm khoảng 21% thể tích không khí, cần thiết cho quá trình hô hấp của động vật, thực vật và quá trình đốt cháy nhiên liệu.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 11 (Mục I, II): tìm hiểu sự phân bố của oxygen trong không khí, nước, đất xốp cùng vai trò duy trì sự sống và sự cháy.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 11"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11, tr. 36",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": null,
+          "printed_pages": [
+            36
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục I), tr. 36",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "I",
+          "printed_pages": [
+            36
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục II.1), tr. 36",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "II.1",
+          "printed_pages": [
+            36
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục II.2), tr. 37",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "II.2",
+          "printed_pages": [
+            37
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-p-orbital",
       "term_en": "p orbital",
       "term_vi": "Orbital p",
@@ -21980,6 +23944,42 @@
           "section": "IV.4.b",
           "printed_pages": [
             124
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-particulate-nature-of-matter",
+      "term_en": "particulate nature of matter",
+      "term_vi": "Cấu tạo hạt của chất",
+      "term_vi_display": "Cấu tạo hạt của chất",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "The scientific model stating that all substances consist of microscopic particles invisible to the naked eye, whose differing arrangement and motion determine the properties of solid, liquid, and gaseous states.",
+      "explanation_vi": "Mô hình khoa học cho biết mọi chất đều cấu tạo bởi các hạt vô cùng nhỏ không nhìn thấy bằng mắt thường; sự khác nhau về trật tự sắp xếp và chuyển động của các hạt quy định tính chất của chất ở thể rắn, thể lỏng và thể khí.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 10 (Mục I, II): biểu diễn các hạt dưới dạng hình cầu để mô tả ba thể của chất và giải thích cơ chế chuyển thể khi nhiệt độ tăng hoặc giảm.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 10"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục I), tr. 31",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "I",
+          "printed_pages": [
+            31
           ]
         }
       ],
@@ -22316,6 +24316,11 @@
           "explanation_vi": "Khoảng thời gian để vật thực hiện được một dao động, kí hiệu là $T$, có đơn vị đo là giây ($\\text{s}$)."
         },
         {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "The time interval between two consecutive repetitions of an event, or the time required to complete one full rotation or revolution.",
+          "explanation_vi": "Khoảng thời gian giữa hai lần lặp lại liên tiếp của một sự việc, hoặc thời gian để một vật thực hiện xong một vòng quay."
+        },
+        {
           "source_label": "SGK Hóa học 10",
           "explanation_en": "A horizontal row of chemical elements in the periodic table arranged in order of increasing nuclear charge, whose atoms possess the same number of electron shells. The modern periodic table has $7$ periods, with the period number equal to the number of electron shells in the atom.",
           "explanation_vi": "Dãy các nguyên tố hoá học xếp trên cùng một hàng ngang trong bảng tuần hoàn theo chiều điện tích hạt nhân tăng dần, mà nguyên tử của chúng có cùng số lớp electron. Bảng tuần hoàn hiện có $7$ chu kì, với số thứ tự của chu kì bằng số lớp electron của nguyên tử."
@@ -22337,6 +24342,14 @@
           ],
           "grade": 11,
           "lesson_ref": "Bài 2"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 54 (Mục II): biểu thị chu kì tự quay quanh trục và chu kì quay quanh Mặt Trời (tính theo ngày) của tám hành tinh trong hệ Mặt Trời.",
+          "disciplines": [
+            "Vật lí"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 54"
         },
         {
           "raw": "Hóa học lớp 10, Bài 5 (Mục III.2): Xác định vị trí hàng của nguyên tố từ số lớp electron trong cấu hình electron.",
@@ -22415,6 +24428,40 @@
           "section": "II.1",
           "printed_pages": [
             11
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            193
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193, 194",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            193,
+            194
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục II.1), tr. 188",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 10",
+          "lesson": "B54",
+          "section": "II.1",
+          "printed_pages": [
+            188
           ]
         },
         {
@@ -22870,6 +24917,64 @@
           "section": "III.1.b",
           "printed_pages": [
             123
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-petroleum",
+      "term_en": "petroleum",
+      "term_vi": "Dầu mỏ",
+      "term_vi_display": "Dầu mỏ",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A liquid fossil fuel that typically occurs alongside natural gas in underground oil reservoirs. Distilling crude oil from these reservoirs yields essential fuels such as gasoline, kerosene, and fuel gas.",
+      "explanation_vi": "Nhiên liệu hoá thạch dạng lỏng thường tồn tại cùng với khí thiên nhiên trong các mỏ dầu. Quá trình chưng cất dầu thô từ mỏ dầu giúp thu được các nhiên liệu quan trọng như xăng, dầu hoả và khí đốt.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 14 (Mục II): Nhiên liệu hoá thạch khai thác từ các mỏ dầu để chế biến thành xăng, dầu hoả và khí đốt.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 14"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14, tr. 50",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B14",
+          "section": null,
+          "printed_pages": [
+            50
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục I), tr. 50",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B14",
+          "section": "I",
+          "printed_pages": [
+            50
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục II), tr. 50",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B14",
+          "section": "II",
+          "printed_pages": [
+            50
           ]
         }
       ],
@@ -23522,6 +25627,53 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-physical-property",
+      "term_en": "physical property",
+      "term_vi": "Tính chất vật lí",
+      "term_vi_display": "Tính chất vật lí",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A characteristic of a substance that can be observed or measured without forming a new substance, including state (solid, liquid, gas), color, odor, taste, solubility, density, melting point, boiling point, and electrical or thermal conductivity.",
+      "explanation_vi": "Những tính chất của chất có thể quan sát hoặc đo được mà không có sự tạo thành chất mới, bao gồm thể (rắn, lỏng, khí), màu sắc, mùi, vị, tính tan, khối lượng riêng, nhiệt độ nóng chảy, nhiệt độ sôi, tính dẫn điện và dẫn nhiệt.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 9 (Mục II): dùng để nhận biết các chất và phân biệt với tính chất hoá học của chất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9 (Mục II), tr. 29",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "II",
+          "printed_pages": [
+            29
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            195
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "dia-li-physical-weathering",
       "term_en": "physical weathering",
       "term_vi": "Phong hoá vật lí",
@@ -23807,12 +25959,20 @@
       "id": "hoa-hoc-plastic",
       "term_en": "plastic",
       "term_vi": "Chất dẻo",
-      "term_vi_display": "Chất dẻo",
-      "aliases_vi": [],
+      "term_vi_display": "Chất dẻo (Nhựa)",
+      "aliases_vi": [
+        "Nhựa"
+      ],
       "origin_discipline": "Hóa học",
       "explanation_en": "A polymer-based material exhibiting plasticity, composed primarily of a synthetic or modified polymer together with additives such as fillers, plasticisers, and colourants.",
       "explanation_vi": "Vật liệu polymer có tính dẻo, với thành phần chính là polymer kết hợp cùng các phụ gia như chất độn, chất hoá dẻo và chất tạo màu.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "A synthetic material that is flexible, lightweight, electrically non-conductive, poorly heat-conductive, and corrosion-resistant, but easily deformed by heat.",
+          "explanation_vi": "Vật liệu nhân tạo có tính dẻo, nhẹ, không dẫn điện, dẫn nhiệt kém, không bị ăn mòn nhưng dễ bị biến dạng nhiệt."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 12, Bài 13 (Mục I.1, I.2): Thành phần và ứng dụng của các chất dẻo thông dụng (PE, PP, PVC, PS, PPF) và vấn đề giảm thiểu rác thải nhựa.",
@@ -23821,6 +25981,14 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 13"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 12 (Mục II, III): khảo sát công dụng làm ghế ngồi, ống dẫn nước, tấm lợp và lưu ý không tái sử dụng chai nhựa dùng một lần có kí hiệu số 1 PETE.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 12"
         }
       ],
       "disambiguation_notes": [],
@@ -23846,6 +26014,39 @@
           "printed_pages": [
             56,
             57
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục I), tr. 42",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            42
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 43",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "II",
+          "printed_pages": [
+            43
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 44",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "II",
+          "printed_pages": [
+            44
           ]
         }
       ],
@@ -24776,6 +26977,53 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-principle-of-separation",
+      "term_en": "principle of separation",
+      "term_vi": "Nguyên tắc tách chất",
+      "term_vi_display": "Nguyên tắc tách chất",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "The general basis for isolating individual substances from a mixture by exploiting differences in their properties, such as density, particle size, solubility, or volatility.",
+      "explanation_vi": "Cơ sở chung để tách riêng các chất ra khỏi hỗn hợp dựa trên sự khác nhau về tính chất của từng chất thành phần như độ nặng nhẹ, kích thước hạt, tính tan hoặc khả năng bay hơi.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 17 (Mục I): Cơ sở lựa chọn các phương pháp lắng, gạn, lọc, cô cạn hoặc chiết để thu chất tinh khiết từ hỗn hợp.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 17"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17, tr. 60",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B17",
+          "section": null,
+          "printed_pages": [
+            60
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục I), tr. 60",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B17",
+          "section": "I",
+          "printed_pages": [
+            60
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-prompt-nitrogen-oxides",
       "term_en": "prompt nitrogen oxides",
       "term_vi": "NOₓ tức thời",
@@ -24839,12 +27087,19 @@
       "id": "hoa-hoc-protein",
       "term_en": "protein",
       "term_vi": "Protein",
-      "term_vi_display": "Protein",
-      "aliases_vi": [],
+      "term_vi_display": "Protein (chất đạm)",
+      "aliases_vi": [
+        "chất đạm"
+      ],
       "origin_discipline": "Hóa học",
       "explanation_en": "A macromolecular compound composed of one or more polypeptide chains built from α-amino acid units linked in a specific sequence. Fibrous proteins are insoluble in water, whereas globular proteins dissolve in water to form colloidal solutions.",
       "explanation_vi": "Hợp chất cao phân tử cấu tạo từ một hay nhiều chuỗi polypeptide gồm các đơn vị α-amino acid liên kết với nhau theo một trật tự nhất định. Protein dạng hình sợi không tan trong nước, còn protein dạng hình cầu tan được trong nước tạo dung dịch keo.",
       "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "A nutrient responsible for building, maintaining, and developing the body, participating in all vital functions and nutrient metabolism. It is abundant in meat, fish, eggs, milk, and legumes such as beans and peas.",
+          "explanation_vi": "Chất dinh dưỡng đóng vai trò cấu tạo, duy trì và phát triển cơ thể, tham gia vào mọi chức năng sống cũng như quá trình chuyển hoá các chất dinh dưỡng. Chất này có nhiều trong thịt, cá, trứng, sữa và các loại hạt như đậu, đỗ."
+        },
         {
           "source_label": "SGK Sinh học 10",
           "explanation_en": "A biological macromolecule built as a polymer from 20 types of amino acid monomers, whose diversity and specificity are determined by the number, composition, sequence of amino acids, and three-dimensional conformation. It participates in nearly all cellular activities, performing structural, catalytic, defensive, contractile, transport, receptor, and regulatory functions.",
@@ -24861,6 +27116,14 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 10"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 15 (Mục II.2.a): Dưỡng chất thiết yếu xây dựng cấu trúc cơ thể có trong thực phẩm nguồn gốc động vật và thực vật.",
+          "disciplines": [
+            "Sinh học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 15"
         },
         {
           "raw": "Sinh học lớp 10, Bài 5 (Mục II.3, II.4): Cấu trúc bốn bậc và chức năng sinh học đa dạng của protein trong tế bào.",
@@ -24894,6 +27157,39 @@
           "section": "I.2",
           "printed_pages": [
             47
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.a), tr. 54",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B15",
+          "section": "II.2.a",
+          "printed_pages": [
+            54
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.b), tr. 54",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B15",
+          "section": "II.2.b",
+          "printed_pages": [
+            54
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.c), tr. 54",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B15",
+          "section": "II.2.c",
+          "printed_pages": [
+            54
           ]
         },
         {
@@ -25117,6 +27413,64 @@
         }
       ],
       "markdown_file": "Tu-dien-Vat-li.md"
+    },
+    {
+      "id": "hoa-hoc-pure-substance",
+      "term_en": "pure substance",
+      "term_vi": "Chất tinh khiết",
+      "term_vi_display": "Chất tinh khiết",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A form of matter composed of only a single substance free from other components, possessing definite properties such as fixed melting and boiling points.",
+      "explanation_vi": "Dạng vật chất chỉ tạo thành từ một chất duy nhất, không lẫn chất khác và mang những tính chất xác định như nhiệt độ nóng chảy, nhiệt độ sôi không đổi.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 16 (Mục I): Phân biệt với hỗn hợp dựa trên số lượng chất cấu thành và tính chất xác định như ở nước cất, bạc, khí oxygen.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 16"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16, tr. 56",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": null,
+          "printed_pages": [
+            56
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục I), tr. 56",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "I",
+          "printed_pages": [
+            56
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 56",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "II",
+          "printed_pages": [
+            56
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
       "id": "hoa-hoc-pyrometallurgy",
@@ -25444,6 +27798,64 @@
           "printed_pages": [
             96,
             97
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-raw-material",
+      "term_en": "raw material",
+      "term_vi": "Nguyên liệu",
+      "term_vi_display": "Nguyên liệu",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "An input substance obtained from nature (soil, rock, ore, crude oil, crops) or chemically synthesized (basic chemicals) that is processed to manufacture new materials and products.",
+      "explanation_vi": "Vật chất đầu vào lấy từ tự nhiên (đất, đá, quặng, dầu mỏ, cây trồng) hoặc do con người điều chế ra (các hoá chất cơ bản) dùng để chế biến thành các vật liệu và sản phẩm mới.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 13 (Mục I): phân loại thành nguyên liệu tự nhiên và nguyên liệu nhân tạo, đồng thời phân biệt với vật liệu trực tiếp tạo nên đồ dùng.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 13"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13, tr. 46",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": null,
+          "printed_pages": [
+            46
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục I), tr. 46",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": "I",
+          "printed_pages": [
+            46
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục II), tr. 46",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": "II",
+          "printed_pages": [
+            46
           ]
         }
       ],
@@ -26278,7 +28690,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A polymer material characterised by elasticity, classified by origin into natural rubber and synthetic rubber.",
       "explanation_vi": "Vật liệu polymer có tính đàn hồi đặc trưng, gồm hai nhóm chính là cao su tự nhiên và cao su tổng hợp.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "A natural or synthetic material characterized by elasticity, durability, electrical and thermal insulation, water impermeability, and flammability.",
+          "explanation_vi": "Vật liệu tự nhiên hoặc nhân tạo có tính đàn hồi, bền, không dẫn điện, không dẫn nhiệt, không thấm nước và dễ cháy."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 12, Bài 13 (Mục IV.1): Nhóm vật liệu đàn hồi ứng dụng rộng rãi trong sản xuất săm lốp xe, gioăng đệm và vật dụng cách điện.",
@@ -26287,6 +28705,14 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 13"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 12 (Mục II): giải thích việc lựa chọn cao su để sản xuất lốp xe, gioăng cao su và đệm đàn hồi.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 12"
         }
       ],
       "disambiguation_notes": [],
@@ -26300,6 +28726,28 @@
           "section": "IV.1",
           "printed_pages": [
             61
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 43",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "II",
+          "printed_pages": [
+            43
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 44",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "II",
+          "printed_pages": [
+            44
           ]
         }
       ],
@@ -27089,6 +29537,64 @@
           "section": "III.1",
           "printed_pages": [
             31
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-sedimentation",
+      "term_en": "sedimentation",
+      "term_vi": "Lắng",
+      "term_vi_display": "Lắng",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A separation method in which a mixture is left undisturbed so that suspended solid particles heavier than the surrounding liquid or gas settle to the bottom.",
+      "explanation_vi": "Phương pháp tách chất dựa trên việc để yên hỗn hợp cho các hạt chất rắn lơ lửng nặng hơn chất lỏng hoặc chất khí tự động chìm xuống đáy.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 17 (Mục II.1): Bước đầu tiên làm sạch bụi trong không khí lặng gió hoặc làm trong nước đục lẫn bùn đất, phù sa.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 17"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục I), tr. 60",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B17",
+          "section": "I",
+          "printed_pages": [
+            60
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.1), tr. 61",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B17",
+          "section": "II.1",
+          "printed_pages": [
+            61
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục II.3), tr. 63",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B17",
+          "section": "II.3",
+          "printed_pages": [
+            63
           ]
         }
       ],
@@ -27952,6 +30458,122 @@
       "markdown_file": "Tu-dien-Vat-li.md"
     },
     {
+      "id": "hoa-hoc-solute",
+      "term_en": "solute",
+      "term_vi": "Chất tan",
+      "term_vi_display": "Chất tan",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A solid, liquid, or gaseous substance that dissolves and distributes uniformly within a solvent to form a solution.",
+      "explanation_vi": "Chất ở thể rắn, thể lỏng hoặc thể khí bị hoà tan và phân bố đồng đều trong dung môi để tạo thành dung dịch.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 16 (Mục II, IV.1): Thành phần bị hoà tan trong dung dịch như đường, muối ăn, cồn hoặc khí carbon dioxide.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 16"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "II",
+          "printed_pages": [
+            57
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "III",
+          "printed_pages": [
+            57
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục IV.1), tr. 58",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "IV.1",
+          "printed_pages": [
+            58
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-solution",
+      "term_en": "solution",
+      "term_vi": "Dung dịch",
+      "term_vi_display": "Dung dịch",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A homogeneous mixture of a solvent and one or more solutes, typically transparent because microscopic solute particles are uniformly dispersed throughout the solvent.",
+      "explanation_vi": "Hỗn hợp đồng nhất của dung môi và chất tan, thường ở trạng thái trong suốt do các hạt chất tan vô cùng nhỏ phân bố đều trong dung môi.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 16 (Mục II): Dạng hỗn hợp đồng nhất tiêu biểu trong thực tiễn như nước muối, giấm ăn, nước ngọt có gas.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 16"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 56",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "II",
+          "printed_pages": [
+            56
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "II",
+          "printed_pages": [
+            57
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "III",
+          "printed_pages": [
+            57
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-solvay-process",
       "term_en": "Solvay process",
       "term_vi": "Phương pháp Solvay",
@@ -28005,6 +30627,64 @@
           "section": "II.2",
           "printed_pages": [
             115
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-solvent",
+      "term_en": "solvent",
+      "term_vi": "Dung môi",
+      "term_vi_display": "Dung môi",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A substance that acts as the dissolving medium for solutes to form a homogeneous solution.",
+      "explanation_vi": "Chất đóng vai trò môi trường hoà tan các chất tan để tạo thành hỗn hợp đồng nhất là dung dịch.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 16 (Mục II): Thành phần hoà tan chất tan trong dung dịch, phổ biến nhất là nước trong nước muối, nước đường.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 16"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "II",
+          "printed_pages": [
+            57
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "III",
+          "printed_pages": [
+            57
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục IV.1), tr. 58",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "IV.1",
+          "printed_pages": [
+            58
           ]
         }
       ],
@@ -28647,6 +31327,11 @@
       "explanation_vi": "Polysaccharide thiên nhiên có công thức phân tử (C₆H₁₀O₅)ₙ, cấu thành từ hai loại phân tử là amylose và amylopectin. Hợp chất này bị thuỷ phân hoàn toàn bởi acid hoặc enzyme tạo thành glucose và cho phản ứng màu xanh tím đặc trưng với iodine.",
       "alt_explanations": [
         {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "A carbohydrate substance that forms the main component of staple foods such as rice, wheat, corn, sweet potatoes, and cassava. During digestion, it is converted into sugar and subsequently into water and carbon dioxide while releasing primary energy for living organisms.",
+          "explanation_vi": "Chất thuộc nhóm carbohydrate tạo nên thành phần chính của các loại lương thực như gạo, lúa mì, ngô, khoai, sắn. Khi tiêu hoá trong cơ thể, chất này chuyển hoá thành đường rồi tạo ra nước, khí carbon dioxide và giải phóng nguồn năng lượng chính cho sinh vật sống."
+        },
+        {
           "source_label": "SGK Sinh học 10",
           "explanation_en": "A polysaccharide composed of hundreds to thousands of glucose monomers with a generally sparsely branched structure, serving as the primary energy storage carbohydrate in plants.",
           "explanation_vi": "Loại đường đa được cấu tạo từ hàng trăm đến hàng nghìn đơn phân glucose với cấu trúc mạch nhìn chung ít phân nhánh, đóng vai trò là nguồn dự trữ năng lượng ở thực vật."
@@ -28661,6 +31346,14 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 6"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 15 (Mục II.1): Thành phần dinh dưỡng chủ yếu trong các loại ngũ cốc và củ giàu năng lượng.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 15"
         },
         {
           "raw": "Sinh học lớp 10, Bài 5 (Mục II.1.c) và Bài 6 (Mục I): Đường đa dự trữ năng lượng ở thực vật và đối tượng nhận biết trong thực hành.",
@@ -28704,6 +31397,39 @@
           "section": "I.2",
           "printed_pages": [
             29
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục I), tr. 53",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B15",
+          "section": "I",
+          "printed_pages": [
+            53
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.1), tr. 53",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B15",
+          "section": "II.1",
+          "printed_pages": [
+            53
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            193
           ]
         },
         {
@@ -28834,7 +31560,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "An iron alloy containing less than $2.0\\%$ carbon along with elements such as chromium, manganese, and silicon, possessing high hardness and heat resistance and serving as a primary material in machinery manufacturing and construction.",
       "explanation_vi": "Hợp kim của sắt chứa ít hơn $2{,}0\\%$ carbon và một số nguyên tố như chromium, manganese, silicon, có tính cứng, chịu nhiệt và là vật liệu chủ yếu trong ngành chế tạo máy, xây dựng.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "An alloy of iron with carbon and other substances containing less than 1.5% carbon. This material is refined from cast iron and widely applied in construction and the manufacture of machinery and tools.",
+          "explanation_vi": "Hợp kim của sắt với carbon và các chất khác, trong đó hàm lượng carbon chiếm ít hơn 1,5%. Vật liệu này được luyện từ gang và ứng dụng rộng rãi trong xây dựng, chế tạo máy móc, dụng cụ."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 12, Bài 21 (Mục III.1.b): thành phần và ứng dụng của các loại thép thông thường và thép đặc biệt (như thép không gỉ).",
@@ -28843,6 +31575,14 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 21"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 13 (Mục III): Vật liệu quan trọng chế tạo từ quặng sắt và gang, phân biệt với gang nhờ hàm lượng carbon thấp hơn 1,5%.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 13"
         }
       ],
       "disambiguation_notes": [],
@@ -28878,6 +31618,28 @@
           "section": "III.1.a",
           "printed_pages": [
             100
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục III), tr. 48",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": "III",
+          "printed_pages": [
+            48
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            195
           ]
         }
       ],
@@ -29249,6 +32011,64 @@
           "printed_pages": [
             6,
             7
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-substance",
+      "term_en": "substance",
+      "term_vi": "Chất",
+      "term_vi_display": "Chất",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A form of matter with definite physical and chemical properties that makes up objects, either occurring naturally or synthesized by humans.",
+      "explanation_vi": "Thành phần cấu tạo nên các vật thể, tồn tại sẵn trong tự nhiên hoặc do con người điều chế, mang những tính chất vật lí và tính chất hoá học nhất định.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 9 (Mục I, II): phân biệt vật thể với chất tạo nên vật thể, trong đó một vật thể có thể tạo thành từ một chất như nước cất hoặc nhiều chất như cây kem.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9, tr. 28",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            28
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9 (Mục I), tr. 28",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "I",
+          "printed_pages": [
+            28
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9 (Mục II), tr. 29",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "II",
+          "printed_pages": [
+            29
           ]
         }
       ],
@@ -29661,6 +32481,64 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-sugar",
+      "term_en": "sugar",
+      "term_vi": "Đường",
+      "term_vi_display": "Đường",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A carbohydrate compound that provides abundant energy to the body and occurs plentifully in sugarcane, palmyra palm, sugar beet, and sweet fruits.",
+      "explanation_vi": "Hợp chất thuộc nhóm carbohydrate cung cấp nhiều năng lượng cho cơ thể và có nhiều trong cây mía, thốt nốt, củ cải đường cùng các loại hoa quả ngọt.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 15 (Mục II.1): Dạng carbohydrate tạo vị ngọt tự nhiên trong thực vật và thực phẩm cung cấp năng lượng nhanh.",
+          "disciplines": [
+            "Sinh học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 15"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục I), tr. 53",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B15",
+          "section": "I",
+          "printed_pages": [
+            53
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.1), tr. 53",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B15",
+          "section": "II.1",
+          "printed_pages": [
+            53
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            193
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-sulfate-salt",
       "term_en": "sulfate salt",
       "term_vi": "Muối sulfate",
@@ -29978,6 +32856,64 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-suspension",
+      "term_en": "suspension",
+      "term_vi": "Huyền phù",
+      "term_vi_display": "Huyền phù",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A heterogeneous mixture consisting of solid particles suspended in a liquid medium, typically opaque or turbid, such as alluvial river water or pigment water.",
+      "explanation_vi": "Hỗn hợp không đồng nhất gồm các hạt chất rắn lơ lửng trong chất lỏng và thường không trong suốt, ví dụ như nước phù sa hoặc nước bột màu.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 16 (Mục III): Hỗn hợp rắn - lỏng không đồng nhất, phân biệt với dung dịch và nhũ tương.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 16"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "II",
+          "printed_pages": [
+            57
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "III",
+          "printed_pages": [
+            57
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục IV.2), tr. 59",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 04",
+          "lesson": "B16",
+          "section": "IV.2",
+          "printed_pages": [
+            59
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "sinh-hoc-synapse",
       "term_en": "synapse",
       "term_vi": "Synapse",
@@ -30223,6 +33159,64 @@
           "section": "III.3.b",
           "printed_pages": [
             60
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-synthetic-raw-material",
+      "term_en": "synthetic raw material",
+      "term_vi": "Nguyên liệu nhân tạo",
+      "term_vi_display": "Nguyên liệu nhân tạo",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "Basic chemicals synthesized by humans from natural resources such as crude oil, used as feedstock to manufacture fertilizers, pesticides, pharmaceuticals, cosmetics, and synthetic fibers.",
+      "explanation_vi": "Các hoá chất cơ bản do con người điều chế từ nguồn tự nhiên như dầu mỏ, dùng để sản xuất phân bón, thuốc trừ sâu, dược phẩm, mĩ phẩm và các loại len, tơ.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 13 (Mục I): đối chiếu với nguyên liệu tự nhiên qua các sản phẩm tiêu dùng như nước hoa, son môi, dầu gội.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 13"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13, tr. 46",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": null,
+          "printed_pages": [
+            46
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục I), tr. 46",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": "I",
+          "printed_pages": [
+            46
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục II), tr. 46",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B13",
+          "section": "II",
+          "printed_pages": [
+            46
           ]
         }
       ],
@@ -31996,6 +34990,64 @@
           "printed_pages": [
             18,
             19
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-wood",
+      "term_en": "wood",
+      "term_vi": "Gỗ",
+      "term_vi_display": "Gỗ",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A natural material that is durable, load-bearing, easy to shape, poorly heat-conductive, and electrically non-conductive, though flammable and susceptible to termite damage.",
+      "explanation_vi": "Vật liệu tự nhiên có đặc tính bền, chịu lực tốt, dễ tạo hình, dẫn nhiệt kém và không dẫn điện, nhưng dễ cháy và có thể bị mối mọt.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 12 (Mục I, II): khảo sát đặc tính chịu lực và hạn chế của gỗ khi dùng làm nhà, khung cửa, bàn, ghế, tủ.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 12"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục I), tr. 42",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            42
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 43",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "II",
+          "printed_pages": [
+            43
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục II), tr. 44",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B12",
+          "section": "II",
+          "printed_pages": [
+            44
           ]
         }
       ],

@@ -1,0 +1,66 @@
+{
+  "H6-lich_su_va_dia_ly-ls-b04-01": {
+    "pdf_page": 18,
+    "bbox": [190, 487, 545, 669]
+  },
+  "H6-lich_su_va_dia_ly-ls-b04-02": {
+    "pdf_page": 19,
+    "bbox": [59, 178, 537, 575],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 2 đặt trên dải nền màu cam nhạt tràn ngang trang"
+  },
+  "H6-lich_su_va_dia_ly-ls-b04-03": {
+    "pdf_page": 20,
+    "bbox": [68, 129, 227, 310]
+  },
+  "H6-lich_su_va_dia_ly-ls-b04-04": {
+    "pdf_page": 20,
+    "bbox": [250, 126, 541, 310]
+  },
+  "H6-lich_su_va_dia_ly-ls-b04-05": {
+    "pdf_page": 20,
+    "bbox": [70, 322, 355, 510]
+  },
+  "H6-lich_su_va_dia_ly-ls-b05-01": {
+    "pdf_page": 21,
+    "bbox": [308, 227, 525, 384]
+  },
+  "H6-lich_su_va_dia_ly-ls-b05-02": {
+    "pdf_page": 22,
+    "bbox": [73, 55, 383, 253]
+  },
+  "H6-lich_su_va_dia_ly-ls-b05-03": {
+    "pdf_page": 22,
+    "bbox": [155, 506, 455, 667]
+  },
+  "H6-lich_su_va_dia_ly-ls-b05-04": {
+    "pdf_page": 23,
+    "bbox": [62, 70, 545, 761]
+  },
+  "H6-lich_su_va_dia_ly-ls-b05-05": {
+    "pdf_page": 24,
+    "bbox": [324, 62, 541, 250]
+  },
+  "H6-lich_su_va_dia_ly-ls-b05-06": {
+    "pdf_page": 24,
+    "bbox": [82, 241, 381, 394]
+  },
+  "H6-lich_su_va_dia_ly-ls-b06-01": {
+    "pdf_page": 25,
+    "bbox": [183, 580, 541, 774]
+  },
+  "H6-lich_su_va_dia_ly-ls-b06-02": {
+    "pdf_page": 26,
+    "bbox": [0, 252, 595, 548],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Tranh minh hoạ Hình 2 vẽ tràn lề trái và lề phải toàn trang"
+  },
+  "H6-lich_su_va_dia_ly-ls-b06-03": {
+    "pdf_page": 27,
+    "bbox": [54, 131, 541, 489]
+  },
+  "H6-lich_su_va_dia_ly-ls-b06-04": {
+    "pdf_page": 27,
+    "bbox": [156, 598, 455, 774]
+  }
+}

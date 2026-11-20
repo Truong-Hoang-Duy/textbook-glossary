@@ -5,6 +5,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 
 ---
 
+### absolute elevation
+- **Tiếng Việt:** Độ cao tuyệt đối
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The vertical distance measured from a location on the Earth's surface to mean sea level.
+- **Giải thích (VI):** Khoảng cách đo theo chiều thẳng đứng từ một địa điểm trên bề mặt đất so với mực nước biển trung bình.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 1): phân biệt cách đo độ cao so với mực nước biển với độ cao tương đối.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 1), tr. 136
+
 ### actual population growth
 - **Tiếng Việt:** Gia tăng dân số thực tế
 - **Chuyên ngành gốc:** Địa lí
@@ -130,21 +138,35 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 26 (Mục 1.b): hình thức tổ chức lãnh thổ nông nghiệp gắn kết sản xuất nguyên liệu với công nghiệp chế biến.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.b), tr. 76
 
+### air humidity
+- **Tiếng Việt:** Độ ẩm không khí
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The amount of water vapor present in the air, formed through continuous evaporation from oceans and the land surface. Air humidity is measured with a hygrometer and commonly expressed as a percentage (%).
+- **Giải thích (VI):** Lượng hơi nước chứa trong không khí, hình thành do quá trình bốc hơi liên tục từ đại dương và bề mặt đất. Độ ẩm không khí đo bằng ẩm kế và thường tính theo đơn vị phần trăm (%).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 16 (Mục 2.a): giải thích nguồn gốc hơi nước trong khí quyển và điều kiện hình thành mây, mưa.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1.b), tr. 147; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2.a), tr. 147, 148; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2.a), tr. 148
+
 ### air mass
 - **Tiếng Việt:** Khối khí
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A large body of air in the near-surface layer of the troposphere characterized by distinct physical properties according to its latitude of formation. Each hemisphere from the pole to the Equator features four main air masses: very cold arctic or antarctic air (A), cold polar or temperate air (P), very hot tropical air (T), and hot, humid equatorial air (E).
 - **Giải thích (VI):** Bộ phận không khí rộng lớn ở lớp gần mặt đất của tầng đối lưu mang tính chất vật lí riêng biệt theo vĩ độ hình thành. Trên mỗi bán cầu từ cực về Xích đạo có bốn khối khí chính gồm khối khí cực (A) rất lạnh, khối khí ôn đới (P) lạnh, khối khí chí tuyến (T) rất nóng và khối khí xích đạo (E) nóng ẩm.
-- **Bối cảnh:** Địa lí lớp 10, Bài 9 (Mục 1): Phân loại và nêu tính chất đặc trưng của bốn khối khí chính trên mỗi bán cầu.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9, tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28, 29
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A large body of air at the base of the troposphere formed through contact with different continental or oceanic surfaces, acquiring distinct temperature and humidity characteristics. As an air mass moves across different underlying surfaces, its properties change while altering the weather of the regions it passes over. / VI: Bộ phận không khí lớn ở đáy tầng đối lưu hình thành do tiếp xúc với các bề mặt lục địa hoặc đại dương khác nhau nên mang đặc tính riêng về nhiệt độ và độ ẩm. Khi di chuyển qua các bề mặt đệm khác nhau, khối khí sẽ biến đổi tính chất và làm thay đổi thời tiết nơi nó đi qua.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 9 (Mục 1): Phân loại và nêu tính chất đặc trưng của bốn khối khí chính trên mỗi bán cầu.
+  - Lịch sử và Địa lí lớp 6, Bài 15 (Mục 3): nguyên nhân hình thành, phân loại và sự biến tính của các khối khí.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9, tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28, 29; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 143
 
 ### air temperature
 - **Tiếng Việt:** Nhiệt độ không khí
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A climatic element reflecting the degree of warmth or coldness of the air, distributed across Earth according to latitude, continental or oceanic location, and topography. Within the troposphere, air temperature decreases by an average of 0.6 °C per 100 m increase in altitude and varies with slope steepness and aspect.
 - **Giải thích (VI):** Yếu tố khí hậu phản ánh mức độ nóng, lạnh của không khí, phân bố trên Trái Đất theo vĩ độ địa lí, vị trí lục địa hay đại dương và địa hình. Trong tầng đối lưu, nhiệt độ không khí giảm trung bình 0,6 °C khi độ cao tăng lên 100 m và thay đổi theo độ dốc cùng hướng phơi của sườn núi.
-- **Bối cảnh:** Địa lí lớp 10, Bài 9 (Mục 2): Trình bày quy luật phân bố nhiệt độ không khí trên Trái Đất theo vĩ độ, lục địa – đại dương và địa hình.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 29; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 2.a), tr. 29; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 2.b), tr. 29, 30; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 2.c), tr. 30
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The degree of hotness or coldness of the air, commonly measured in degrees Celsius (°C). The air warms up significantly when the Earth's surface absorbs heat from the Sun and radiates it back into the air. / VI: Độ nóng hoặc lạnh của không khí, phổ biến sử dụng đơn vị đo là độ C (°C). Không khí nóng lên rõ rệt khi bề mặt đất hấp thụ nhiệt của Mặt Trời rồi phản hồi lại vào không khí.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 9 (Mục 2): Trình bày quy luật phân bố nhiệt độ không khí trên Trái Đất theo vĩ độ, lục địa – đại dương và địa hình.
+  - Lịch sử và Địa lí lớp 6, Bài 16 (Mục 1.a): tìm hiểu nguồn gốc nhiệt của khí quyển, khái niệm và đơn vị đo nhiệt độ không khí.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 29; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 2.a), tr. 29; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 2.b), tr. 29, 30; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 2.c), tr. 30; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16, tr. 146; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1.a), tr. 146; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1.b), tr. 147
 
 ### air transport
 - **Tiếng Việt:** Đường hàng không
@@ -163,12 +185,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1, tr. 5; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 8
 
 ### alternation of day and night
-- **Tiếng Việt:** Sự luân phiên ngày đêm
+- **Tiếng Việt:** Sự luân phiên ngày đêm (Ngày đêm luân phiên)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The cyclical succession of day and night across all locations on the Earth's surface. Because the spherical Earth is illuminated by the Sun on one half at any moment while continuously rotating on its axis from west to east, every place alternately receives sunlight and passes into darkness.
 - **Giải thích (VI):** Hiện tượng kế tiếp tuần hoàn giữa ngày và đêm tại mọi nơi trên bề mặt Trái Đất. Do Trái Đất có dạng hình khối cầu luôn chỉ nhận ánh sáng Mặt Trời ở một nửa và tự quay quanh trục từ tây sang đông, mọi địa điểm trên bề mặt đều lần lượt đón ánh sáng rồi chìm trong bóng tối.
-- **Bối cảnh:** Địa lí lớp 10, Bài 5 (Mục 1.a): Giải thích hệ quả địa lí trực tiếp từ hình dạng khối cầu và chuyển động tự quay quanh trục của Trái Đất.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B5, tr. 17; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1), tr. 17; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1.a), tr. 17
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The phenomenon in which all places on Earth successively experience daytime (the sunlit half) and nighttime (the shadowed half) because the spherical Earth continuously rotates on its axis from west to east. / VI: Hiện tượng khắp mọi nơi trên Trái Đất lần lượt có ban ngày (nửa cầu nhận ánh sáng Mặt Trời) và ban đêm (nửa cầu nằm trong bóng tối) do Trái Đất có dạng khối cầu và tự quay quanh trục theo hướng từ tây sang đông.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 5 (Mục 1.a): Giải thích hệ quả địa lí trực tiếp từ hình dạng khối cầu và chuyển động tự quay quanh trục của Trái Đất.
+  - Lịch sử và Địa lí lớp 6, Bài 7 (Mục 2.a): hệ quả thứ nhất của chuyển động tự quay quanh trục của Trái Đất.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B5, tr. 17; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1), tr. 17; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1.a), tr. 17; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.a), tr. 119; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.b), tr. 119; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.b), tr. 119, 120
 
 ### altitudinal distribution of organisms and soils
 - **Tiếng Việt:** Sự phân bố sinh vật và đất theo độ cao
@@ -193,6 +218,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Các tính năng thực tiễn kết hợp khả năng định vị chính xác của GPS với công cụ truyền tải, giám sát của bản đồ số để dẫn đường và điều hành sự di chuyển của các phương tiện gắn thiết bị định vị. Hệ thống này giúp xác định điểm đến, quãng đường và cung đường di chuyển, giám sát và lưu trữ lộ trình, tính quãng đường cùng cước phí vận tải hành khách và chống trộm phương tiện.
 - **Bối cảnh:** Địa lí lớp 10, Bài 3 (Mục 2.b): Khai thác các tính năng định vị, dẫn đường và quản lí giao thông của GPS và bản đồ số trong đời sống.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.a), tr. 13; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.b), tr. 13; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.b), tr. 13, 14
+
+### area mental map
+- **Tiếng Việt:** Lược đồ trí nhớ một khu vực (lược đồ trí nhớ về một khu vực; lược đồ một khu vực)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A type of mental map reconstructing the overall layout of a familiar area by recalling its constituent features along with their sizes, orientations, and relative distances from one another.
+- **Giải thích (VI):** Loại lược đồ trí nhớ tái hiện tổng thể một khu vực quen thuộc bằng cách hồi tưởng các đối tượng cấu thành cùng diện tích, phương hướng và khoảng cách tương đối giữa các đối tượng đó.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 5 (Mục 2.b): cách vẽ lược đồ trí nhớ tái hiện bố cục không gian của một khu vực quen thuộc như trường học, khu dân cư.
+  - *Lưu ý:* Phân biệt với lược đồ trí nhớ đường đi (route mental map) chỉ tập trung mô tả lộ trình giữa hai địa điểm.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5 (Mục 2), tr. 113; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5 (Mục 2.b), tr. 114
 
 ### area method
 - **Tiếng Việt:** Phương pháp khoanh vùng
@@ -272,20 +307,34 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục I), tr. 61; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 3.a), tr. 41; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 3.b), tr. 41; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 3.b), tr. 41, 42; SGK Lịch sử 12 KNTT, Chủ đề 02, B4, tr. 21; SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 21; SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 22
 
 ### atmosphere
-- **Tiếng Việt:** Khí quyển
+- **Tiếng Việt:** Khí quyển (lớp vỏ khí)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The layer of air surrounding Earth that is constantly influenced by the cosmos, primarily the Sun. Its main constituent is air, a mixture of gases dominated by nitrogen (78.1%), oxygen (20.9%), and other gases (argon, carbon dioxide, water vapor, etc.), along with dust and impurities.
 - **Giải thích (VI):** Lớp không khí bao quanh Trái Đất, luôn chịu ảnh hưởng của Vũ Trụ mà trước hết là Mặt Trời. Thành phần chính của khí quyển là không khí gồm hỗn hợp các chất khí như ni-tơ (78,1%), o-xy (20,9%), các chất khí khác (ác-gông, các-bo-nic, hơi nước,...) cùng bụi và tạp chất.
-- **Bối cảnh:** Địa lí lớp 10, Bài 9 (Mục 1): Định nghĩa khí quyển và trình bày thành phần các chất khí cấu tạo nên khí quyển.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9, tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28, 29
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The layer of air surrounding the Earth, in which air density becomes increasingly thin at higher altitudes. The atmosphere is divided into the troposphere, the stratosphere, and the upper atmospheric layers. / VI: Lớp không khí bao quanh Trái Đất, có mật độ không khí càng lên cao càng loãng. Khí quyển chia thành tầng đối lưu, tầng bình lưu và các tầng cao của khí quyển.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 9 (Mục 1): Định nghĩa khí quyển và trình bày thành phần các chất khí cấu tạo nên khí quyển.
+  - Lịch sử và Địa lí lớp 6, Bài 15 (Mở đầu, Mục 2): khái niệm chung và cấu trúc phân tầng của lớp vỏ khí bao quanh Trái Đất.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9, tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28, 29; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15, tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 1), tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 142, 143
+
+### atmospheric layers
+- **Tiếng Việt:** Các tầng khí quyển
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The vertical divisions of the atmosphere classified by temperature changes with altitude and the diffusion of air into space. From lowest to highest, the atmosphere comprises the troposphere, the stratosphere, and the upper atmospheric layers (mesosphere, thermosphere, and exosphere).
+- **Giải thích (VI):** Các lớp phân chia theo chiều thẳng đứng của khí quyển dựa vào sự thay đổi nhiệt độ theo độ cao và sự khuếch tán của không khí vào vũ trụ. Từ thấp lên cao, khí quyển gồm tầng đối lưu, tầng bình lưu và các tầng cao của khí quyển (tầng giữa, tầng nhiệt, tầng khuếch tán).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 2): cơ sở phân chia và thứ tự các tầng trong lớp vỏ khí của Trái Đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15, tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 1), tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 142, 143
 
 ### atmospheric pressure
-- **Tiếng Việt:** Khí áp
+- **Tiếng Việt:** Khí áp (khí áp bề mặt Trái Đất)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The compressive force exerted by air on Earth's surface, with a standard sea-level average of 760 mmHg (equivalent to 1,013 mb). Atmospheric pressure varies with changes in air density driven by temperature, altitude, humidity, and air composition.
 - **Giải thích (VI):** Sức nén của không khí xuống bề mặt đất, có giá trị tiêu chuẩn trung bình ở mặt biển bằng 760 mm thuỷ ngân (tương đương 1 013 mb). Khí áp biến đổi phụ thuộc vào sự thay đổi tỉ trọng không khí theo nhiệt độ, độ cao, độ ẩm và thành phần không khí.
-- **Bối cảnh:** Địa lí lớp 10, Bài 9 (Mục 3.a): Định nghĩa khí áp, giá trị khí áp tiêu chuẩn và giải thích các nguyên nhân làm thay đổi khí áp.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9, tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.a), tr. 31; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 4.a), tr. 33
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The force exerted by the atmosphere per unit area on the Earth's surface, measured in millibars (mb). The average atmospheric pressure at sea level is 1,013 mb. / VI: Sức ép của khí quyển lên một đơn vị diện tích trên bề mặt Trái Đất, có đơn vị đo là mi-li-ba (mb). Khí áp trung bình trên mặt biển có giá trị là 1 013 mb.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 9 (Mục 3.a): Định nghĩa khí áp, giá trị khí áp tiêu chuẩn và giải thích các nguyên nhân làm thay đổi khí áp.
+  - Lịch sử và Địa lí lớp 6, Bài 15 (Mục 4): khái niệm sức ép khí quyển và cơ sở hình thành sự chuyển động của gió.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9, tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.a), tr. 31; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 4.a), tr. 33; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15, tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 4), tr. 144; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 5), tr. 145
 
 ### average transport distance
 - **Tiếng Việt:** Cự li vận chuyển trung bình
@@ -294,6 +343,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tiêu chí thuộc nhóm chỉ tiêu đánh giá khối lượng dịch vụ của ngành giao thông vận tải, phản ánh quãng đường chuyên chở bình quân của hành khách hoặc hàng hoá từ nơi này đến nơi khác. Chỉ tiêu này được tính bằng đơn vị ki-lô-mét (km).
 - **Bối cảnh:** Địa lí lớp 10, Bài 34 (Mục 1.b): sử dụng cùng khối lượng vận chuyển và khối lượng luân chuyển để đánh giá hoạt động giao thông vận tải.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.b), tr. 93
+
+### barometer
+- **Tiếng Việt:** Khí áp kế
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An instrument specifically used to measure atmospheric pressure, typically graduated in millibars (mb).
+- **Giải thích (VI):** Dụng cụ chuyên dùng để đo giá trị khí áp, thường hiển thị theo đơn vị đo là mi-li-ba (mb).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 4): nhận biết dụng cụ và đơn vị đo khí áp trên bề mặt Trái Đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 4), tr. 144
+
+### basic geographical concepts in Grade 6
+- **Tiếng Việt:** Khái niệm địa lí cơ bản ở lớp 6
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The foundational knowledge system of Grade 6 Geography covering the Earth, its natural components (topography, climate, water, soil, organisms), and the relationship between humans and nature. Mastering these concepts enables learners to explain and respond appropriately to natural phenomena in daily life.
+- **Giải thích (VI):** Hệ thống kiến thức nền tảng của phân môn Địa lí lớp 6 về Trái Đất, các thành phần tự nhiên (địa hình, khí hậu, nước, đất, sinh vật) và mối quan hệ giữa con người với thiên nhiên. Việc nắm vững các khái niệm này giúp con người giải thích và ứng xử phù hợp trước các hiện tượng thiên nhiên trong cuộc sống hằng ngày.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài mở đầu (Mục 1): giới thiệu phạm vi kiến thức nền tảng và ý nghĩa của việc nắm vững các khái niệm địa lí cơ bản.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, Bài mở đầu, tr. 98; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, Bài mở đầu (Mục 1), tr. 98; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, Bài mở đầu (Mục 1), tr. 98, 99
 
 ### bauxite mining in the Central Highlands
 - **Tiếng Việt:** Khai thác bô-xít ở Tây Nguyên
@@ -393,6 +458,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 33 (Mục 1): phân biệt nhóm dịch vụ kinh doanh với dịch vụ tiêu dùng và dịch vụ công trong cơ cấu dịch vụ.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 1), tr. 91
 
+### calculating real-world distance using map scale
+- **Tiếng Việt:** Tính khoảng cách thực tế dựa vào tỉ lệ bản đồ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A method for determining the actual ground distance between two locations by measuring the map distance between them and multiplying by the denominator of the numerical scale or comparing it directly against the graphic scale.
+- **Giải thích (VI):** Phương pháp xác định độ dài thực địa giữa hai địa điểm bằng cách đo khoảng cách giữa chúng trên bản đồ rồi tính theo tỉ lệ số hoặc đem áp trực tiếp vào tỉ lệ thước.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 3 (Mục 2): quy trình đo và tính khoảng cách thực địa giữa hai địa điểm trên bản đồ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3, tr. 106; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1), tr. 106; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2), tr. 106
+
 ### Cam Ranh Bay
 - **Tiếng Việt:** Vịnh Cam Ranh
 - **Chuyên ngành gốc:** Địa lí
@@ -419,6 +492,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phương pháp biểu hiện bản đồ đặt các biểu đồ (như biểu đồ cột, biểu đồ tròn) vào phạm vi từng đơn vị lãnh thổ hoặc đơn vị hành chính nhằm thể hiện giá trị tổng cộng của đối tượng địa lí trên lãnh thổ đó. Phương pháp này phản ánh cả số lượng lẫn chất lượng của đối tượng và thường dùng trên các bản đồ kinh tế – xã hội.
 - **Bối cảnh:** Địa lí lớp 10, Bài 2 (Mục 3): Thể hiện giá trị tổng cộng và cơ cấu của đối tượng địa lí theo từng đơn vị hành chính trên bản đồ.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B2, tr. 7; SGK Địa lí 10 KNTT, Phần hai, B2 (Mục 1), tr. 7; SGK Địa lí 10 KNTT, Phần hai, B2 (Mục 3), tr. 9
+
+### cause of seasons on Earth
+- **Tiếng Việt:** Nguyên nhân sinh ra mùa trên Trái Đất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The mechanism generating seasons resulting from the Earth's tilted axis maintaining a fixed orientation while revolving around the Sun, causing the Northern and Southern Hemispheres to alternately lean toward the Sun. The hemisphere leaning toward the Sun has a larger solar incidence angle and receives more light and heat (hot season), whereas the opposite hemisphere has a smaller solar incidence angle and receives less light and heat (cold season).
+- **Giải thích (VI):** Cơ chế hình thành mùa do trục Trái Đất nghiêng và không đổi hướng khi chuyển động quanh Mặt Trời, làm bán cầu Bắc và bán cầu Nam luân phiên ngả về phía Mặt Trời. Bán cầu ngả về phía Mặt Trời có góc chiếu của tia sáng mặt trời lớn, nhận nhiều ánh sáng và nhiệt (mùa nóng); cùng lúc bán cầu còn lại có góc chiếu nhỏ, nhận ít ánh sáng và nhiệt (mùa lạnh).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 8 (Mục 2.a): giải thích sự trái ngược mùa giữa bán cầu Bắc và bán cầu Nam vào ngày 22 tháng 6 và ngày 22 tháng 12.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2.a), tr. 123; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2.b), tr. 124
 
 ### Central Highlands
 - **Tiếng Việt:** Tây Nguyên
@@ -550,6 +631,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 11 (Mục 2.b): Phân biệt đặc điểm hình thái và nguồn gốc của hồ núi lửa, hồ kiến tạo, hồ móng ngựa, hồ băng hà và hồ nhân tạo.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.a), tr. 38; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.b), tr. 38
 
+### climate
+- **Tiếng Việt:** Khí hậu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The long-term synthesis of weather elements such as temperature, humidity, precipitation, and wind in a given region that has established a regular pattern.
+- **Giải thích (VI):** Tổng hợp các yếu tố thời tiết như nhiệt độ, độ ẩm, lượng mưa và gió của một khu vực trong một thời gian dài và đã lặp lại thành quy luật.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 17 (Mục 1): phân biệt tính quy luật ổn định lâu dài của khí hậu với sự thay đổi thường xuyên của thời tiết.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17, tr. 150; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 1), tr. 150; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2), tr. 151
+
+### climate change
+- **Tiếng Việt:** Biến đổi khí hậu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Long-term alteration of climate driven by natural conditions and human activities. Its primary manifestations include global warming, sea-level rise, and an increase in extreme hydrometeorological events.
+- **Giải thích (VI):** Sự thay đổi của khí hậu trong khoảng thời gian dài dưới tác động của điều kiện tự nhiên và hoạt động của con người. Biểu hiện chính gồm sự nóng lên toàn cầu, mực nước biển dâng và sự gia tăng các hiện tượng khí tượng thuỷ văn cực đoan.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 17 (Mục 3.a): nhận diện khái niệm, nguyên nhân và các biểu hiện chủ yếu của biến đổi khí hậu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.a), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.b), tr. 151, 152
+
+### climate change response
+- **Tiếng Việt:** Ứng phó với biến đổi khí hậu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Human actions aimed at adapting to the impacts of climate change and mitigating its progression.
+- **Giải thích (VI):** Các hoạt động của con người nhằm thích ứng với tác động của biến đổi khí hậu và giảm nhẹ mức độ biến đổi khí hậu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 17 (Mục 3.b): đề xuất các giải pháp giảm phát thải khí nhà kính và thích ứng với biến đổi khí hậu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
+
 ### climate of China
 - **Tiếng Việt:** Khí hậu Trung Quốc
 - **Chuyên ngành gốc:** Địa lí
@@ -630,6 +735,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 26 (Mục II.2): đối chiếu tính chất lục địa khô hạn của miền Tây với khí hậu gió mùa ở miền Đông Trung Quốc.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B26 (Mục II.1), tr. 133; SGK Địa lí 11 KNTT, Phần hai, B26 (Mục II.2), tr. 133; SGK Địa lí 11 KNTT, Phần hai, B26 (Mục II.3), tr. 133
 
+### climate zone
+- **Tiếng Việt:** Đới khí hậu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A broad latitudinal belt on the Earth's surface sharing characteristic patterns of temperature, precipitation, and prevailing winds. The Earth is divided into five climate zones: one tropical zone, two temperate zones, and two polar zones.
+- **Giải thích (VI):** Vùng lãnh thổ rộng lớn phân bố theo vĩ độ trên bề mặt Trái Đất có đặc điểm tương đồng về nhiệt độ, lượng mưa và loại gió thổi thường xuyên. Trái Đất chia thành năm đới khí hậu gồm một đới nóng (nhiệt đới), hai đới ôn hoà (ôn đới) và hai đới lạnh (hàn đới).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 17 (Mục 2): xác định phạm vi và đặc điểm của năm đới khí hậu trên Trái Đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.a), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.b), tr. 151, 152
+
 ### climatic zones and climate types on Earth
 - **Tiếng Việt:** Các đới và các kiểu khí hậu trên Trái Đất
 - **Chuyên ngành gốc:** Địa lí
@@ -639,12 +752,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B10 (Mục 1), tr. 35
 
 ### climograph
-- **Tiếng Việt:** Biểu đồ nhiệt độ và lượng mưa
+- **Tiếng Việt:** Biểu đồ nhiệt độ và lượng mưa (Biểu đồ nhiệt độ, lượng mưa)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A climatic chart combining a line graph of monthly mean temperatures (°C) with a bar graph of monthly precipitation (mm) and total mean annual precipitation recorded at a meteorological station. It is used to analyze monthly temperature extremes, annual temperature range, total precipitation, and rainfall regime to identify specific climate types.
 - **Giải thích (VI):** Dạng biểu đồ khí hậu kết hợp đường biểu diễn nhiệt độ trung bình các tháng (°C) với cột biểu diễn lượng mưa các tháng trong năm (mm) và tổng lượng mưa trung bình năm tại một trạm khí tượng. Biểu đồ này dùng để phân tích nhiệt độ tháng cao nhất, tháng thấp nhất, biên độ nhiệt độ năm, tổng lượng mưa và chế độ mưa nhằm nhận diện các kiểu khí hậu.
-- **Bối cảnh:** Địa lí lớp 10, Bài 10 (Mục 2): Phân tích diễn biến nhiệt độ và lượng mưa của các trạm khí tượng tiêu biểu cho từng kiểu khí hậu.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B10 (Mục 1), tr. 35
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A combined chart illustrating the progression of temperature (°C) and precipitation (mm) at a location across the months of the year using a red curve, blue bars, two vertical axes with measurement units, and a horizontal time axis. From the chart, readers determine monthly extremes, annual temperature range, and mean annual values of temperature and precipitation. / VI: Biểu đồ kết hợp biểu diễn diễn biến nhiệt độ (°C) và lượng mưa (mm) tại một địa điểm qua các tháng trong năm bằng đường biểu diễn màu đỏ, các cột màu xanh cùng hai trục dọc ghi đơn vị đo và trục ngang chỉ thời gian. Qua biểu đồ, người đọc xác định các cực trị tháng, biên độ nhiệt độ năm và giá trị trung bình năm của nhiệt độ, lượng mưa.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 10 (Mục 2): Phân tích diễn biến nhiệt độ và lượng mưa của các trạm khí tượng tiêu biểu cho từng kiểu khí hậu.
+  - Lịch sử và Địa lí lớp 6, Bài 18 (Mục 1, 2): thực hành nhận biết cấu tạo và phân tích biểu đồ nhiệt độ, lượng mưa của các địa điểm thuộc các đới khí hậu khác nhau.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B10 (Mục 1), tr. 35; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B18 (Mục 1), tr. 153; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B18 (Mục 2), tr. 153
+
+### cloud (geography)
+- **Tiếng Việt:** Mây
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A visible mass in the atmosphere formed by the aggregation of tiny, light water droplets produced through water vapor condensation.
+- **Giải thích (VI):** Tập hợp thành từng đám trong khí quyển của các hạt nước nhỏ, nhẹ sinh ra do hiện tượng hơi nước ngưng tụ.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 16 (Mục 2.a): mô tả quá trình hình thành mây và mưa trong khí quyển.
+  - *Lưu ý:* Không nhầm với 'Đám mây' (`cloud`) trong Tin học.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2.a), tr. 148; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2.b), tr. 148, 149
 
 ### coal mining industry
 - **Tiếng Việt:** Công nghiệp khai thác than
@@ -665,6 +791,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 28 (Mục 1, 2, 3): Thực hành phân tích sự thay đổi và vai trò kinh tế của vùng duyên hải phía đông Trung Quốc.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B28 (Mục 1), tr. 148; SGK Địa lí 11 KNTT, Phần hai, B28 (Mục 2), tr. 148; SGK Địa lí 11 KNTT, Phần hai, B28 (Mục 3), tr. 148
 
+### cold air mass
+- **Tiếng Việt:** Khối khí lạnh
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An air mass formed over high-latitude regions and characterized by relatively low temperatures.
+- **Giải thích (VI):** Khối khí hình thành trên các vùng vĩ độ cao và có nhiệt độ tương đối thấp.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 3): phân loại khối khí theo vĩ độ hình thành và phân biệt với khối khí nóng.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 143
+
+### cold ocean current
+- **Tiếng Việt:** Dòng biển lạnh
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An ocean current with a lower temperature than the surrounding seawater, typically flowing from higher latitudes toward lower latitudes.
+- **Giải thích (VI):** Loại dòng biển có nhiệt độ thấp hơn nhiệt độ nước biển xung quanh, thường chảy từ vùng vĩ độ cao về vùng vĩ độ thấp hơn.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 21 (Mục 3.c): Phân biệt với dòng biển nóng theo hướng chảy và tương quan nhiệt độ với vùng nước xung quanh.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.b), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165, 166
+
 ### collecting and processing documents on services
 - **Tiếng Việt:** Thu thập và xử lí tài liệu về ngành dịch vụ
 - **Chuyên ngành gốc:** Địa lí
@@ -672,6 +814,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quy trình chuẩn bị tư liệu cho báo cáo thực hành ngành dịch vụ, bắt đầu từ phác thảo đề cương và thu thập số liệu, tài liệu, báo cáo từ các trang web có độ tin cậy cao của tổ chức quốc tế (Ngân hàng Thế giới, Tổ chức Hợp tác và Phát triển kinh tế, Liên minh Bưu chính Quốc tế, Tổ chức Thương mại Thế giới, Tổ chức Du lịch Thế giới) cũng như cơ quan tại Việt Nam (Bộ Công thương, Bộ Kế hoạch và Đầu tư, Bộ Thông tin và Truyền thông, Bộ Văn hoá, Thể thao và Du lịch). Các kết quả tìm hiểu sau đó được phân tích, tổng hợp và so sánh để phục vụ nội dung báo cáo.
 - **Bối cảnh:** Địa lí lớp 10, Bài 38 (Mục 2.b): Hướng dẫn quy trình thu thập và xử lí thông tin phục vụ báo cáo thực hành ngành dịch vụ.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B38 (Mục 1), tr. 107; SGK Địa lí 10 KNTT, Phần ba, B38 (Mục 2.b), tr. 107; SGK Địa lí 10 KNTT, Phần ba, B38 (Mục 2.c), tr. 107
+
+### compass
+- **Tiếng Việt:** La bàn
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A field direction-finding instrument comprising a magnetized metallic needle (typically diamond-shaped with differently colored north and south ends) and a graduated dial from 0° to 360° marking the four cardinal directions (north 0° or 360°, east 90°, south 180°, west 270°). When placed level with the needle released until stationary, it determines the north–south axis and other directions.
+- **Giải thích (VI):** Dụng cụ xác định phương hướng gồm kim nam châm làm bằng kim loại có từ tính (thường có dạng hình thoi, hai đầu bắc – nam khác màu) và vòng chia độ từ 0° đến 360° ghi bốn hướng chính (bắc 0° hoặc 360°, đông 90°, nam 180°, tây 270°). Khi đặt la bàn thăng bằng và mở chốt hãm đến khi kim đứng yên, ta xác định được hướng bắc – nam cùng các hướng còn lại.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 9 (Mục 1): cấu tạo và cách sử dụng la bàn cầm tay hoặc ứng dụng la bàn số trên điện thoại thông minh.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B9, tr. 125; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B9 (Mục 1.a), tr. 125; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B9 (Mục 1.b), tr. 125, 126
+
+### composition of near-surface air
+- **Tiếng Việt:** Thành phần không khí gần bề mặt đất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The makeup of gases forming the air near the Earth's surface, consisting of nitrogen (78%), oxygen (21%), and water vapor, carbon dioxide, and other gases (1%).
+- **Giải thích (VI):** Cơ cấu các chất khí cấu tạo nên lớp không khí gần bề mặt Trái Đất, bao gồm khí nitơ chiếm 78%, khí oxy chiếm 21%, cùng hơi nước, khí carbonic và các khí khác chiếm 1%.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 1): tỉ lệ các chất khí trong không khí và vai trò đối với tự nhiên, đời sống.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15, tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 1), tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 142, 143
+
+### coniferous forest
+- **Tiếng Việt:** Rừng lá kim
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A forest type dominated by needle-leaved tree species of the pine and cypress families, distributed mostly in the Northern Hemisphere across vast areas of the cold temperate zone.
+- **Giải thích (VI):** Kiểu rừng có thành phần thực vật chủ yếu là các loài cây thuộc họ Tùng, Bách với lá hình kim, phân bố chủ yếu ở bán cầu Bắc và chiếm diện tích rộng lớn tại vùng ôn đới lạnh.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 23 (Mục 2.a): Nhận biết kiểu thảm thực vật rừng tiêu biểu ở đới ôn hoà, đặc biệt tại vùng ôn đới lạnh.
+  - *Lưu ý:* Phân biệt khái niệm chung về kiểu thảm thực vật rừng lá kim (Bài 23) với rừng Tai-ga (Bài 25) là cảnh quan rừng lá kim nguyên sinh rộng lớn đặc thù ở vùng ôn đới lạnh.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B23 (Mục 2.a), tr. 172; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B23 (Mục 2.b), tr. 172
 
 ### consequences of economic globalization
 - **Tiếng Việt:** Hệ quả của toàn cầu hoá kinh tế
@@ -724,6 +892,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Giáo dục Kinh tế và Pháp luật lớp 12, Bài 15 (Mục 3.b): vùng biển tiếp liền ngoài lãnh hải nơi quốc gia ven biển thực hiện quyền chủ quyền và quyền kiểm soát chuyên biệt.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7, 8; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.a), tr. 121; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.b), tr. 121, 122
 
+### continental air mass
+- **Tiếng Việt:** Khối khí lục địa
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An air mass formed over continental landmasses, characterized by relatively dry conditions.
+- **Giải thích (VI):** Khối khí hình thành trên các vùng đất liền, mang tính chất tương đối khô.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 3): phân loại khối khí theo bề mặt tiếp xúc đất liền và phân biệt với khối khí đại dương.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 143
+
 ### continental crust
 - **Tiếng Việt:** Vỏ lục địa
 - **Chuyên ngành gốc:** Địa lí
@@ -744,6 +920,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Khái niệm pháp lí về vùng thềm lục địa theo Điều 76 Công ước Luật Biển năm 1982 (xác định theo khoảng cách 200–350 hải lí và mép ngoài rìa lục địa), phân biệt với thềm lục địa tự nhiên xác định theo độ sâu địa hình trong địa chất – địa lí học.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 8; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục II.1), tr. 8; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.a), tr. 121; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.b), tr. 121, 122
 
+### contour interval
+- **Tiếng Việt:** Khoảng cao đều
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The constant vertical elevation difference between two consecutive contour lines on a topographic map or sketch map, used as the basis for calculating the elevation of locations.
+- **Giải thích (VI):** Độ chênh cao đều đặn theo chiều thẳng đứng giữa hai đường đồng mức kế tiếp nhau trên bản đồ hoặc lược đồ địa hình, dùng làm cơ sở để tính độ cao của các địa điểm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 14 (Mục 1): thông số đầu tiên cần xác định khi đọc lược đồ địa hình tỉ lệ lớn.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B14 (Mục 1), tr. 139; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B14 (Mục 1), tr. 139, 140; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B14 (Mục 1), tr. 140
+
+### contour line
+- **Tiếng Việt:** Đường đồng mức
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A line drawn on a map or sketch map connecting points of equal elevation above sea level. Closer contour lines indicate steeper terrain, whereas more widely spaced contour lines indicate gentler slopes.
+- **Giải thích (VI):** Đường vẽ trên bản đồ hoặc lược đồ nối liền các điểm có cùng độ cao so với mực nước biển. Các đường đồng mức càng gần nhau thể hiện địa hình càng dốc, càng cách xa nhau thể hiện địa hình càng thoải.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 14 (Mục 1): căn cứ xác định độ cao và so sánh độ dốc sườn địa hình trên lược đồ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B14 (Mục 1), tr. 139
+
 ### cooperation in digital transition and sustainable development in the European Union
 - **Tiếng Việt:** Hợp tác chuyển đổi kĩ thuật số và phát triển bền vững ở EU
 - **Chuyên ngành gốc:** Địa lí
@@ -751,6 +943,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Định hướng hợp tác chiến lược của Liên minh châu Âu kết hợp giữa thiết lập tiêu chuẩn công nghệ, kiểm soát dữ liệu trong các lĩnh vực mũi nhọn (trí tuệ nhân tạo, điện toán đám mây, thiết bị di động, công nghệ lượng tử) với phát triển kinh tế xanh. Các nước thành viên thống nhất thúc đẩy tăng trưởng cân bằng, tiến bộ xã hội, bảo vệ môi trường và giảm phát thải các-bon, tiêu biểu qua Thoả thuận Xanh (2020) hướng tới giảm ít nhất 55% khí nhà kính vào năm 2030 so với mức năm 1990.
 - **Bối cảnh:** Địa lí lớp 11, Bài 9 (Mục III.3): Trình bày các lĩnh vực hợp tác mới về công nghệ số và kinh tế xanh định hình vị thế của EU.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục III.3), tr. 43
+
+### Coriolis effect
+- **Tiếng Việt:** Sự lệch hướng chuyển động của vật thể (lực Cô-ri-ô-lít)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The deflection of moving objects on the Earth's surface caused by the Coriolis force resulting from the Earth's rotation (deflecting right in the Northern Hemisphere and left in the Southern Hemisphere), affecting the directions of rivers, ocean currents, and winds.
+- **Giải thích (VI):** Hiện tượng các vật thể chuyển động trên bề mặt Trái Đất bị lệch hướng dưới tác động của lực Cô-ri-ô-lít sinh ra do chuyển động tự quay quanh trục của Trái Đất (lệch về bên phải ở bán cầu Bắc và bên trái ở bán cầu Nam), tác động đến hướng chảy của dòng sông, dòng biển và gió.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 7 (Mục 2.c): hệ quả lệch hướng chuyển động của vật thể ở bán cầu Bắc (lệch về bên phải) và bán cầu Nam (lệch về bên trái).
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.b), tr. 120; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.c), tr. 120; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.c), tr. 120, 121
 
 ### Council of the European Union
 - **Tiếng Việt:** Hội đồng Liên minh châu Âu
@@ -802,6 +1002,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 20 (Mục III.2): Đặc điểm tôn giáo, bản sắc văn hoá và thành tựu khoa học – nghệ thuật của Liên bang Nga.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B20 (Mục III.1), tr. 103; SGK Địa lí 11 KNTT, Phần hai, B20 (Mục III.2), tr. 103; SGK Địa lí 11 KNTT, Phần hai, B20 (Mục III.2), tr. 103, 104
 
+### degradation and depletion of natural resources
+- **Tiếng Việt:** Suy thoái và cạn kiệt tài nguyên thiên nhiên
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The deterioration in quality (such as soil and biological resources) or exhaustion of reserves (such as mineral resources) caused by human overexploitation of Earth's finite natural resources.
+- **Giải thích (VI):** Tình trạng suy giảm về chất lượng (đối với tài nguyên đất, tài nguyên sinh vật) hoặc trữ lượng tiến tới vơi cạn (đối với tài nguyên khoáng sản) do con người khai thác quá mức nguồn tài nguyên hữu hạn trên Trái Đất.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 28 (Mục 2): Nhận diện hệ quả tiêu cực của hoạt động khai thác tài nguyên thiếu kiểm soát đối với thiên nhiên.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 1.b), tr. 185; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 2), tr. 185; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 2), tr. 185, 186
+
 ### denudation
 - **Tiếng Việt:** Quá trình bóc mòn
 - **Chuyên ngành gốc:** Địa lí
@@ -825,6 +1033,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Các vùng cảnh quan khô hạn rộng lớn phân bố ở Tây Nam Á, tiêu biểu là các hoang mạc Xi-ri, Nê-phút và Rúp-en Kha-li. Khu vực này có lớp đất chủ yếu là đất xám hoang mạc và bán hoang mạc nghèo dinh dưỡng, gây nhiều hạn chế cho hoạt động canh tác nông nghiệp.
 - **Bối cảnh:** Địa lí lớp 11, Bài 15 (Mục II.1): Trình bày sự phân bố các hoang mạc lớn và hạn chế về thổ nhưỡng đối với trồng trọt ở Tây Nam Á.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.1), tr. 69
+
+### determining directions by natural flora and fauna
+- **Tiếng Việt:** Xác định phương hướng dựa vào động, thực vật tự nhiên
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An empirical method for determining approximate directions in the field by observing the characteristics or behaviors of natural flora and fauna. Typical examples include observing the seasonal flight direction of migratory birds (flying south in winter and north in summer) or blooming sunflowers facing toward the Sun.
+- **Giải thích (VI):** Phương pháp kinh nghiệm xác định phương hướng tương đối ngoài thực địa thông qua việc quan sát đặc điểm hoặc tập tính của động, thực vật tự nhiên. Ví dụ tiêu biểu là dựa vào hướng bay của đàn chim di cư theo mùa (mùa đông bay về hướng nam, mùa hạ bay về hướng bắc) hoặc hướng quay về phía Mặt Trời khi nở của hoa hướng dương.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 9 (Mục 2): kinh nghiệm dân gian xác định phương hướng tương đối ngoài thực địa.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B9 (Mục 2), tr. 127
+
+### determining directions by sunrise and sunset
+- **Tiếng Việt:** Xác định phương hướng dựa vào Mặt Trời mọc và lặn
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A field method for determining directions with relative accuracy based on the Sun's apparent daily positions: the Sun rises in the east and sets in the west, allowing all remaining directions to be deduced.
+- **Giải thích (VI):** Phương pháp xác định phương hướng tương đối chính xác ngoài thực tế dựa vào vị trí biểu kiến của Mặt Trời: Mặt Trời mọc ở hướng đông và lặn ở hướng tây, qua đó suy ra các hướng còn lại.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 9 (Mục 2): phương pháp xác định phương hướng ngoài thực tế qua quan sát vị trí Mặt Trời lúc mọc và lặn.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B9 (Mục 1.b), tr. 126; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B9 (Mục 2), tr. 126; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B9 (Mục 2), tr. 126, 127
 
 ### development and distribution of finance and banking
 - **Tiếng Việt:** Tình hình phát triển và phân bố tài chính ngân hàng
@@ -858,6 +1082,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 3 (Mục 2.a): Phân biệt khái niệm và ưu điểm của bản đồ số trong lưu trữ, chỉnh sửa và khai thác.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B3, tr. 12; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.a), tr. 13; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.b), tr. 13
 
+### directions on a map
+- **Tiếng Việt:** Phương hướng trên bản đồ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The system of directions on a map plane determined using the graticule (upper end of meridians pointing north, lower end south, left end of parallels west, right end east) or a north arrow when a graticule is absent.
+- **Giải thích (VI):** Hệ thống các hướng trên mặt phẳng bản đồ được xác định dựa vào các đường kinh, vĩ tuyến (đầu trên kinh tuyến chỉ hướng bắc, đầu dưới chỉ hướng nam, đầu trái vĩ tuyến chỉ hướng tây, đầu phải chỉ hướng đông) hoặc mũi tên chỉ hướng bắc khi bản đồ không có lưới kinh, vĩ tuyến.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 2 (Mục 3): quy tắc xác định tám hướng chính (bắc, nam, đông, tây, đông bắc, đông nam, tây bắc, tây nam) trên bản đồ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2), tr. 105; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3), tr. 105
+
+### distributary
+- **Tiếng Việt:** Chi lưu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A branch river that drains water away from the main river within a river system.
+- **Giải thích (VI):** Dòng sông nhánh làm nhiệm vụ thoát nước cho sông chính trong một hệ thống sông.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 20 (Mục 1.a): phân biệt bộ phận thoát nước cho sông chính ở hạ lưu với phụ lưu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20, tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158, 159
+
+### diurnal tide
+- **Tiếng Việt:** Nhật triều
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A tidal regime in which the sea level rises and falls only once each day.
+- **Giải thích (VI):** Chế độ thuỷ triều trong đó mực nước biển chỉ dâng lên và hạ xuống mỗi ngày một lần.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 21 (Mục 3.b): Phân biệt chế độ thuỷ triều lên xuống một lần mỗi ngày với bán nhật triều và triều không đều.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.b), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165, 166
+
 ### domestic trade
 - **Tiếng Việt:** Nội thương
 - **Chuyên ngành gốc:** Địa lí
@@ -878,6 +1126,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phương pháp biểu hiện bản đồ dùng sự phân bố của các điểm chấm để thể hiện những đối tượng địa lí phân tán nhỏ lẻ trên lãnh thổ. Mỗi điểm chấm tương ứng với một số lượng đối tượng nhất định, qua đó chủ yếu phản ánh quy mô số lượng và mức độ tập trung của đối tượng.
 - **Bối cảnh:** Địa lí lớp 10, Bài 2 (Mục 4): Biểu hiện sự phân bố dân cư hoặc các đối tượng phân tán nhỏ lẻ bằng các điểm chấm định lượng trên bản đồ.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B2 (Mục 4), tr. 10
+
+### drainage basin
+- **Tiếng Việt:** Lưu vực sông
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An area of land that regularly supplies water to a river, within which surface water and groundwater flow naturally into the river and drain through a common outlet or into the sea.
+- **Giải thích (VI):** Vùng đất cung cấp nước thường xuyên cho sông, trong phạm vi đó nước mặt và nước dưới đất chảy tự nhiên vào sông rồi thoát ra một cửa chung hoặc đổ ra biển.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 20 (Mục 1.a): xác định phạm vi vùng đất cấp nước cho một con sông và phân biệt với hệ thống sông.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20, tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158, 159
 
 ### dry hot westerly wind
 - **Tiếng Việt:** Gió Tây khô nóng (gió phơn Tây Nam; gió Lào)
@@ -906,13 +1162,64 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 10, Bài 8 (Mục 3.a): Hình thức mua sắm trực tuyến tiêu biểu phản ánh tác động kinh tế của các cuộc cách mạng công nghiệp hiện đại.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.1.b), tr. 103; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.3), tr. 104; SGK Lịch sử 10 KNTT, Chủ đề 04, B8 (Mục 3.a), tr. 74; SGK Lịch sử 10 KNTT, Chủ đề 04, B8 (Mục 3.b), tr. 74
 
+### Earth science
+- **Tiếng Việt:** Khoa học Trái Đất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A major branch of natural science dedicated to studying the structure of the Earth and its surrounding atmosphere.
+- **Giải thích (VI):** Lĩnh vực chủ yếu của khoa học tự nhiên chuyên nghiên cứu về cấu tạo của Trái Đất và bầu khí quyển bao quanh nó.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 1 (Mục III): giới thiệu các lĩnh vực chủ yếu hợp thành môn Khoa học tự nhiên.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục III), tr. 8; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục IV), tr. 10
+
+### Earth's axis
+- **Tiếng Việt:** Trục Trái Đất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An imaginary line passing through the center of the Earth and both North and South Poles, around which the Earth completes one rotation in a day and night. During the Earth's revolution around the Sun, this axis maintains a constant orientation tilted at approximately 66°33' to the orbital plane.
+- **Giải thích (VI):** Trục tưởng tượng xuyên qua tâm Trái Đất và hai cực Bắc – Nam, quanh đó Trái Đất tự quay một vòng hết một ngày đêm. Khi Trái Đất chuyển động quanh Mặt Trời, trục này không đổi hướng và luôn nghiêng trên mặt phẳng quỹ đạo một góc khoảng 66°33'.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 7 (Mục 1): xác định trục quay tưởng tượng quyết định các hệ quả chuyển động tự quay và chuyển động quanh Mặt Trời của Trái Đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 1), tr. 118; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2.a), tr. 123
+
+### Earth's core
+- **Tiếng Việt:** Nhân Trái Đất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The innermost of the three structural layers of the Earth, located at the center beneath the Earth's crust and the mantle.
+- **Giải thích (VI):** Lớp trong cùng trong ba lớp cấu tạo của Trái Đất, nằm ở trung tâm bên trong lớp vỏ Trái Đất và lớp man-ti.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 10 (Mục 1): nhận biết lớp trung tâm trong cấu tạo bên trong của Trái Đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10, tr. 129; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 129
+
 ### Earth's crust
 - **Tiếng Việt:** Vỏ Trái Đất
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The outermost solid layer of the Earth with a thickness ranging from 5 km beneath oceans to 70 km beneath continents, accounting for about 1% of the planet's volume and 0.5% of its mass. Based on differences in composition and thickness, it is divided into two main types: continental crust and oceanic crust.
 - **Giải thích (VI):** Lớp vật chất cứng ngoài cùng của Trái Đất có độ dày dao động từ 5 km ở đại dương đến 70 km ở lục địa, chiếm khoảng 1% thể tích và 0,5% khối lượng hành tinh. Căn cứ vào sự khác nhau về thành phần cấu tạo và độ dày, lớp vỏ này chia thành hai kiểu chính là vỏ lục địa và vỏ đại dương.
-- **Bối cảnh:** Địa lí lớp 10, Bài 4 (Mục 2): Xác định vị trí, độ dày và sự phân chia hai kiểu vỏ chính của Trái Đất.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B4, tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 1), tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 16
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The outermost of the three internal layers of the Earth, lying outside the mantle and the Earth's core. The Earth's crust is composed of adjacent tectonic plates. / VI: Lớp ngoài cùng trong ba lớp cấu tạo bên trong của Trái Đất, nằm bên ngoài lớp man-ti và nhân Trái Đất. Vỏ Trái Đất có cấu tạo gồm các địa mảng nằm kề nhau.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 4 (Mục 2): Xác định vị trí, độ dày và sự phân chia hai kiểu vỏ chính của Trái Đất.
+  - Lịch sử và Địa lí lớp 6, Bài 10 (Mục 1–2): vị trí và cấu tạo phân mảng của lớp ngoài cùng Trái Đất.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B4, tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 1), tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 16; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10, tr. 129; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 129; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 130
+
+### Earth's orbit
+- **Tiếng Việt:** Quỹ đạo của Trái Đất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The elliptical path of the Earth's revolution around the Sun, traveled in 365 days and 6 hours at an average speed of 29.7 km/s (or 2.6 million km/day).
+- **Giải thích (VI):** Đường chuyển động hình elip của Trái Đất xung quanh Mặt Trời với chu kì một vòng hết 365 ngày 6 giờ và vận tốc trung bình đạt 29,7 km/s (hay 2,6 triệu km/ngày).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 8 (Mục 1): đường chuyển động hình elip của Trái Đất một vòng quanh Mặt Trời hết 365 ngày 6 giờ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B8 (Mục 1), tr. 122; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
+
+### Earth's rotation
+- **Tiếng Việt:** Chuyển động tự quay quanh trục của Trái Đất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The continuous spinning motion of the Earth from west to east around an imaginary axis tilted at 66°33' to the orbital plane. One complete rotation actually takes 23 hours 56 minutes 04 seconds and is conventionally set at 24 hours for daily life and production.
+- **Giải thích (VI):** Sự vận động không ngừng của Trái Đất theo hướng từ tây sang đông quanh trục tưởng tượng nghiêng một góc 66°33' so với mặt phẳng quỹ đạo. Thời gian tự quay một vòng thực tế hết 23 giờ 56 phút 04 giây và quy ước trong đời sống, sản xuất là 24 giờ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 7 (Mục 1): hướng tự quay từ tây sang đông, góc nghiêng trục và thời gian tự quay một vòng của Trái Đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7, tr. 118; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 1), tr. 118
+
+### earthquake
+- **Tiếng Việt:** Động đất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Sudden, intense tremors of the Earth's crust caused mainly by volcanic activity, the movement of tectonic plates, or faulting within the Earth's crust. These tremors typically propagate across a vast area.
+- **Giải thích (VI):** Các rung chuyển đột ngột, mạnh mẽ của vỏ Trái Đất chủ yếu do hoạt động của núi lửa, sự dịch chuyển của các mảng kiến tạo hoặc sự đứt gãy trong vỏ Trái Đất gây ra. Các chấn động này thường lan truyền trên một diện tích rộng lớn.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 12 (Mục 2): nguyên nhân, dấu hiệu nhận biết và cách ứng phó với thiên tai động đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B12, tr. 133; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B12 (Mục 2), tr. 134; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
 
 ### East Sea
 - **Tiếng Việt:** Biển Đông
@@ -923,6 +1230,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 12, Bài 33 (Mục I.1): Vị trí, phạm vi và đặc điểm tự nhiên, tài nguyên thiên nhiên của Biển Đông.
   - *Lưu ý:* Trong tiếng Anh hành chính và giáo dục tại Việt Nam dùng chuẩn là East Sea (hoặc Bien Dong); trong tài liệu địa lí và hàng hải quốc tế thường ghi là South China Sea.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B33, tr. 165; SGK Địa lí 12 KNTT, Phần 4, B33 (Mục I.1), tr. 165; SGK Địa lí 12 KNTT, Phần 4, B33 (Mục I.2), tr. 165
+
+### Eastern Hemisphere
+- **Tiếng Việt:** Bán cầu Đông
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The half of the terrestrial globe located east of the Prime Meridian (0°) extending to the 180° meridian.
+- **Giải thích (VI):** Nửa bề mặt quả Địa Cầu nằm ở phía đông đường kinh tuyến gốc (0°) kéo dài đến đường kinh tuyến 180°.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 1 (Mục 1): xác định nửa cầu phía đông dựa vào vòng tròn phân chia tạo bởi kinh tuyến gốc và kinh tuyến 180°.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1, tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 102
 
 ### East–West natural differentiation of China
 - **Tiếng Việt:** Sự phân hoá tự nhiên Đông – Tây của Trung Quốc
@@ -1177,6 +1492,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 7 (Mục 1.a): Xác định nguồn gốc năng lượng của nội lực và đối sánh với ngoại lực trong quá trình kiến tạo địa hình.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B7, tr. 24; SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 1.a), tr. 24; SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 1.b), tr. 24
 
+### endogenic process
+- **Tiếng Việt:** Quá trình nội sinh (nội sinh)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Geological processes occurring inside the Earth. Endogenic processes move tectonic plates, compress rock layers to cause folding or faulting, or push deep molten material onto the surface to produce volcanoes and earthquakes.
+- **Giải thích (VI):** Các quá trình địa chất xảy ra ở bên trong lòng Trái Đất. Quá trình nội sinh làm dịch chuyển các mảng kiến tạo, nén ép các lớp đất đá gây uốn nếp, đứt gãy hoặc đẩy vật chất nóng chảy từ dưới sâu ra ngoài mặt đất tạo thành núi lửa, động đất.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 11 (Mục 1): phân biệt tác nhân kiến tạo từ trong lòng Trái Đất với quá trình ngoại sinh.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11, tr. 131; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11 (Mục 1), tr. 131; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 132
+
+### energy minerals
+- **Tiếng Việt:** Khoáng sản năng lượng (khoáng sản nhiên liệu)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A group of mineral resources, including coal and petroleum, extracted for use as fuel in the energy industry and as raw materials in the chemical industry.
+- **Giải thích (VI):** Nhóm khoáng sản gồm các loại như than đá, dầu mỏ, khai thác để làm nhiên liệu cho ngành công nghiệp năng lượng và nguyên liệu cho công nghiệp hoá chất.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 2): phân loại ba nhóm khoáng sản chính theo công dụng kinh tế.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2), tr. 137
+
 ### energy security
 - **Tiếng Việt:** An ninh năng lượng
 - **Chuyên ngành gốc:** Địa lí
@@ -1217,18 +1548,31 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The alteration of the physical, chemical, and biological properties of environmental components in violation of environmental technical regulations and standards, causing adverse impacts on human health, organisms, and nature.
 - **Giải thích (VI):** Sự biến đổi tính chất vật lí, hoá học, sinh học của thành phần môi trường không phù hợp với quy chuẩn kĩ thuật môi trường và tiêu chuẩn môi trường, gây ảnh hưởng xấu đến sức khoẻ con người, sinh vật và tự nhiên.
 - **Giải thích khác (SGK Địa lí 12):** EN: The adverse alteration of living-environment quality caused by waste accumulation across air, water, and soil media. In Vietnam, pollution is increasingly acute in the air (particularly fine particulate matter in major cities and industrial zones) and in water bodies (across certain river sections, groundwater, and marine waters). / VI: Tình trạng biến đổi bất lợi chất lượng không gian sống do tác động của các chất thải đối với môi trường không khí, nước và đất. Tại Việt Nam, mức độ ô nhiễm ngày càng gia tăng ở một số khu vực, đáng chú ý nhất là ô nhiễm không khí (đặc biệt là bụi mịn tại các thành phố lớn, khu công nghiệp) và ô nhiễm nước (ở một số đoạn sông, nước ngầm, nước biển).
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: An adverse alteration in the properties of the natural environment (air, water, and soil) that violates environmental standards, typically resulting from the release of dust, emissions, liquid effluents, and solid waste. / VI: Sự biến đổi tính chất của môi trường tự nhiên (khí quyển, nước, đất) theo hướng xấu đi và vi phạm các tiêu chuẩn môi trường, thường phát sinh khi bụi, khí thải, chất thải lỏng và chất thải rắn bị xả vào tự nhiên.
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 39 (Mục 1.b, Em có biết?): Giải thích khái niệm ô nhiễm môi trường dựa trên sự biến đổi tính chất thành phần môi trường không phù hợp quy chuẩn.
   - Địa lí lớp 12, Bài 5 (Mục II.1): Phân tích hiện trạng và nguyên nhân ô nhiễm không khí, nước và đất ở Việt Nam.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.b), tr. 109; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 2.a), tr. 109; SGK Địa lí 12 KNTT, Phần 1, B5, tr. 28; SGK Địa lí 12 KNTT, Phần 1, B5 (Mục I.2), tr. 30; SGK Địa lí 12 KNTT, Phần 1, B5 (Mục I.3), tr. 30
+  - Lịch sử và Địa lí lớp 6, Bài 28 (Mục 2): Phân tích tác động tiêu cực của sản xuất và sinh hoạt con người làm suy giảm chất lượng môi trường sống.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.b), tr. 109; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 2.a), tr. 109; SGK Địa lí 12 KNTT, Phần 1, B5, tr. 28; SGK Địa lí 12 KNTT, Phần 1, B5 (Mục I.2), tr. 30; SGK Địa lí 12 KNTT, Phần 1, B5 (Mục I.3), tr. 30; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 2), tr. 186
 
 ### environmental protection
 - **Tiếng Việt:** Bảo vệ môi trường
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A set of measures for conserving, rationally utilizing, or restoring biota (microorganisms, plants, animals) and abiotic habitats (soil, water, air, subsurface, climate), combined with applying low-waste or zero-waste technologies. Its core objective is to maintain ecological balance and establish an optimal living space for humanity.
 - **Giải thích (VI):** Tập hợp các biện pháp giữ gìn, sử dụng hợp lí hoặc phục hồi sinh giới (vi sinh vật, thực vật, động vật) và môi sinh (đất, nước, không khí, lòng đất, khí hậu), kết hợp áp dụng công nghệ ít hoặc không có phế liệu. Mục tiêu cốt lõi của hoạt động này là duy trì cân bằng sinh thái và tạo lập không gian tối ưu cho cuộc sống con người.
-- **Bối cảnh:** Địa lí lớp 10, Bài 26 (Mục 2.b): các biện pháp gìn giữ và phục hồi môi trường trong phát triển nông nghiệp xanh, giao thông vận tải và tăng trưởng bền vững.
-- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.a), tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 2.b), tr. 77
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A set of measures for preserving, rationally utilizing, and restoring living organisms and environmental components (soil, water, air, subsoil, and climate), combined with efficient resource-use equipment and low- or zero-waste technologies to create an optimal human living space. / VI: Tập hợp các biện pháp giữ gìn, sử dụng hợp lí và phục hồi giới sinh vật cùng các thành phần môi trường sống (đất, nước, không khí, lòng đất, khí hậu), kết hợp ứng dụng thiết bị khai thác hợp lí và công nghệ sạch ít phế liệu nhằm tạo lập không gian sống tối ưu cho con người.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 26 (Mục 2.b): các biện pháp gìn giữ và phục hồi môi trường trong phát triển nông nghiệp xanh, giao thông vận tải và tăng trưởng bền vững.
+  - Lịch sử và Địa lí lớp 6, Bài 29 (Mục 2): Hệ thống giải pháp tổng thể nhằm duy trì chất lượng môi trường sống của con người.
+- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.a), tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 2.b), tr. 77; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 2), tr. 186
+
+### Equator
+- **Tiếng Việt:** Vĩ tuyến gốc (Xích đạo)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The largest parallel designated as 0° encircling the terrestrial globe, dividing the Earth into the Northern and Southern Hemispheres and serving as the reference line for north and south parallels.
+- **Giải thích (VI):** Đường vĩ tuyến lớn nhất mang số độ 0° bao quanh quả Địa Cầu, chia Trái Đất thành bán cầu Bắc và bán cầu Nam đồng thời làm mốc xác định các vĩ tuyến bắc và vĩ tuyến nam.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 1 (Mục 1): mốc vĩ tuyến 0° để xác định các vĩ tuyến bắc, vĩ tuyến nam và phân chia hai bán cầu Bắc – Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1, tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 103
 
 ### European Commission
 - **Tiếng Việt:** Uỷ ban châu Âu
@@ -1285,6 +1629,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Lực diễn ra trên bề mặt Trái Đất thông qua tác động của gió, mưa, nước chảy, sóng biển, băng, sinh vật và con người, phát sinh chủ yếu từ nguồn năng lượng bức xạ mặt trời. Xu hướng chung của ngoại lực là phá huỷ, hạ thấp độ cao và san bằng địa hình.
 - **Bối cảnh:** Địa lí lớp 10, Bài 7 (Mục 2.a): Xác định nguồn gốc năng lượng và xu hướng san bằng địa hình của ngoại lực.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B7, tr. 24; SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 2.a), tr. 25; SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 2.b), tr. 25
+
+### exogenic process
+- **Tiếng Việt:** Quá trình ngoại sinh (ngoại sinh)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Geological processes occurring externally on the Earth's surface. Exogenic processes tend to break down and level landforms created by endogenic processes while simultaneously forming new landforms.
+- **Giải thích (VI):** Các quá trình địa chất xảy ra ở bên ngoài, trên bề mặt Trái Đất. Quá trình ngoại sinh có xu hướng phá vỡ, san bằng các địa hình do nội sinh tạo nên và đồng thời hình thành các dạng địa hình mới.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 11 (Mục 1): phân biệt tác động phá huỷ, san bằng địa hình trên bề mặt Trái Đất với quá trình nội sinh.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11, tr. 131; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11 (Mục 1), tr. 131; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 132
 
 ### external development resources
 - **Tiếng Việt:** Nguồn lực từ bên ngoài lãnh thổ (nguồn lực ngoài nước)
@@ -1548,6 +1900,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 11, Bài 12 (Mục 3.b): Khái niệm gắn với thế mạnh khai thác hải sản tại vùng biển quần đảo Hoàng Sa và quần đảo Trường Sa.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 06, B12 (Mục 3.b), tr. 79; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92
 
+### flood
+- **Tiếng Việt:** Lũ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A hydrological phenomenon in which river water levels rise significantly over a certain period of time and subsequently recede.
+- **Giải thích (VI):** Hiện tượng thuỷ văn trong đó mực nước sông dâng cao lên trong một khoảng thời gian nhất định rồi sau đó rút xuống.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 30 (Mục 1.c): Nhận diện hiện tượng thuỷ văn nguy hiểm gắn với nội dung khảo sát thiên tai và bảo vệ môi trường tại địa phương.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B30 (Mục 1.c), tr. 189
+
+### flood season
+- **Tiếng Việt:** Mùa lũ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The period of the year when water levels in a river channel rise high. Its timing depends on the river's primary water source: coinciding with the rainy season for rain-fed rivers, spring for snowmelt-fed rivers, or early summer for glacier-fed rivers.
+- **Giải thích (VI):** Thời kì trong năm có mực nước trong lòng sông dâng cao. Thời gian mùa lũ phụ thuộc vào nguồn cấp nước chính của sông: trùng với mùa mưa nếu sông nhận nước mưa, vào mùa xuân nếu nhận nước tuyết tan, hoặc vào đầu mùa hạ nếu nhận nước băng tan.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 20 (Mục 1.a): phân tích sự thay đổi mực nước sông theo mùa và mối quan hệ với nguồn cung cấp nước.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 159; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.b), tr. 159
+
 ### flood season and low-flow season
 - **Tiếng Việt:** Mùa lũ và mùa cạn
 - **Chuyên ngành gốc:** Địa lí
@@ -1611,6 +1979,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Việc bảo đảm cho mọi người có quyền tiếp cận các nguồn lương thực một cách đầy đủ, an toàn để duy trì cuộc sống khoẻ mạnh. Bảo đảm an ninh lương thực giúp đáp ứng nhu cầu tồn tại của con người, giảm tỉ lệ đói nghèo, thúc đẩy tăng trưởng kinh tế và làm tiền đề ổn định chính trị – xã hội.
 - **Bối cảnh:** Địa lí lớp 11, Bài 4 (Mục II.1.a): Khái niệm, ý nghĩa và các giải pháp bảo đảm an ninh lương thực toàn cầu.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B4 (Mục II.1), tr. 16; SGK Địa lí 11 KNTT, Phần một, B4 (Mục II.1.a), tr. 16; SGK Địa lí 11 KNTT, Phần một, B4 (Mục II.1.a), tr. 16, 17
+
+### foot of a mountain
+- **Tiếng Việt:** Chân núi
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The boundary zone where a mountain meets the surrounding ground surface. The steeper the mountain slope, the more distinctly the line at the foot of the mountain appears.
+- **Giải thích (VI):** Bộ phận tiếp giáp trực tiếp giữa núi và mặt đất xung quanh. Sườn núi càng dốc thì đường ranh giới chân núi biểu hiện càng rõ rệt.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 1): xác định ranh giới tiếp giáp giữa địa hình núi và mặt đất xung quanh.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13, tr. 135; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 1), tr. 135; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 1), tr. 135, 136
 
 ### foreign trade
 - **Tiếng Việt:** Ngoại thương
@@ -1746,6 +2122,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với vỏ Trái Đất (chỉ là lớp vỏ đá cứng ngoài cùng của thạch quyển, trong khi vỏ địa lí bao gồm cả thuỷ quyển, sinh quyển, phần khí quyển dưới lớp ô-dôn và phần trên của thạch quyển).
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B17, tr. 51; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 1.a), tr. 51
 
+### geographical coordinates
+- **Tiếng Việt:** Toạ độ địa lí
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A pair of parameters consisting of latitude and longitude that determines the exact position of any location on the surface of a terrestrial globe or a map.
+- **Giải thích (VI):** Cặp thông số gồm vĩ độ và kinh độ dùng để xác định vị trí chính xác của một địa điểm bất kì trên bề mặt quả Địa Cầu hoặc bản đồ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 1 (Mục 2): cách ghi và xác định vị trí của một địa điểm trên quả Địa Cầu và bản đồ thông qua vĩ độ và kinh độ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 103
+
 ### geographical location and natural conditions for the service sector
 - **Tiếng Việt:** Vị trí địa lí và điều kiện tự nhiên đối với ngành dịch vụ
 - **Chuyên ngành gốc:** Địa lí
@@ -1802,6 +2186,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 18 (Mục I): Đánh giá ý nghĩa vị trí địa lí đối với giao thương và phát triển kinh tế Hoa Kỳ.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B18, tr. 81; SGK Địa lí 11 KNTT, Phần hai, B18 (Mục I), tr. 81
 
+### geographical skills
+- **Tiếng Việt:** Kĩ năng địa lí
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A set of competencies for extracting and analyzing geographical resources such as text information, maps, diagrams, images, data tables, and charts. These skills enable learners to examine and understand geographical objects and phenomena that cannot be observed directly.
+- **Giải thích (VI):** Nhóm năng lực khai thác và phân tích hệ thống tư liệu địa lí như thông tin, bản đồ, sơ đồ, hình ảnh, bảng số liệu và biểu đồ. Các kĩ năng này giúp nhận thức và tìm hiểu những sự vật, hiện tượng địa lí không thể quan sát trực tiếp.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài mở đầu (Mục 1): xác định hệ thống công cụ tư liệu và các kĩ năng chủ yếu được rèn luyện khi học môn Địa lí.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, Bài mở đầu, tr. 98; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, Bài mở đầu (Mục 1), tr. 98; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, Bài mở đầu (Mục 1), tr. 98, 99
+
 ### geography-related career groups
 - **Tiếng Việt:** Nhóm ngành nghề liên quan đến kiến thức địa lí
 - **Chuyên ngành gốc:** Địa lí
@@ -1809,6 +2201,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tập hợp các lĩnh vực nghề nghiệp vận dụng tri thức địa lí tự nhiên, kinh tế – xã hội và kĩ thuật chuyên ngành vào thực tiễn. Các nhóm tiêu biểu gồm nông nghiệp, quản lí đất đai và bảo vệ môi trường; thương mại, tài chính, dịch vụ và du lịch; kĩ thuật trắc địa, bản đồ, địa chất thăm dò tài nguyên, quản lí đô thị – xã hội, nghiên cứu và giảng dạy.
 - **Bối cảnh:** Địa lí lớp 10, Bài 1 (Mục 2): Định hướng các nhóm ngành nghề ứng dụng kiến thức địa lí tự nhiên, kinh tế – xã hội và kĩ thuật chuyên ngành.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần một, B1 (Mục 1.b), tr. 6; SGK Địa lí 10 KNTT, Phần một, B1 (Mục 2), tr. 6
+
+### glacier
+- **Tiếng Việt:** Băng hà (sông băng)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Masses of ice formed by snow accumulation that move under the force of gravity, serving as a major freshwater resource on Earth.
+- **Giải thích (VI):** Những khối băng hình thành do tuyết tích tụ và di chuyển dưới tác động của trọng lực, đóng vai trò là nguồn nước ngọt chính trên Trái Đất.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 20 (Mục 3): tìm hiểu khái niệm và vai trò của băng hà trong dự trữ nước ngọt và điều hoà khí hậu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20, tr. 158
 
 ### global citizen
 - **Tiếng Việt:** Công dân toàn cầu
@@ -1880,6 +2280,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 12, Bài 3 (Mục 1): Xu thế khách quan định hình sự liên kết và phụ thuộc lẫn nhau trong quan hệ quốc tế sau Chiến tranh lạnh.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B2, tr. 9; SGK Địa lí 11 KNTT, Phần một, B2 (Mục I), tr. 9; SGK Địa lí 11 KNTT, Phần một, B2 (Mục I.1), tr. 9; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 1), tr. 18; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 1), tr. 19; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 2.a), tr. 19
 
+### graphic scale
+- **Tiếng Việt:** Tỉ lệ thước
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A form of map scale drawn as a pre-calibrated measuring bar on which each segment is labeled with its corresponding real-world distance.
+- **Giải thích (VI):** Dạng biểu hiện tỉ lệ bản đồ được vẽ dưới hình thức một thước đo tính sẵn, trên đó mỗi đoạn đều ghi rõ số đo độ dài tương ứng ngoài thực tế.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 3 (Mục 1): sử dụng thước tỉ lệ vẽ trực tiếp trên bản đồ để áp khoảng cách và đọc ngay độ dài thực tế.
+  - *Lưu ý:* Phân biệt với tỉ lệ số (numerical scale) là dạng tỉ lệ viết bằng phân số có tử số là 1.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3, tr. 106; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1), tr. 106; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2), tr. 106
+
+### graticule
+- **Tiếng Việt:** Lưới kinh, vĩ tuyến
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The network of intersecting meridians and parallels on a flat map plane formed through a map projection, whose geometric configuration varies depending on the projection used.
+- **Giải thích (VI):** Hệ thống các đường kinh tuyến và vĩ tuyến giao nhau trên mặt phẳng bản đồ được tạo thành thông qua phép chiếu bản đồ, có hình dạng khác nhau tuỳ theo từng loại phép chiếu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 2 (Mục 2): nhận biết hình dạng lưới kinh, vĩ tuyến của phép chiếu hình nón và phép chiếu hình trụ trên bản đồ thế giới.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B2, tr. 104; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1), tr. 104; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2), tr. 104, 105
+
 ### Great Lakes region
 - **Tiếng Việt:** Vùng Ngũ Hồ
 - **Chuyên ngành gốc:** Địa lí
@@ -1907,21 +2325,35 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 40 (Mục 2.a): Định nghĩa khái niệm và mục tiêu cốt lõi của tăng trưởng xanh.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 1.b), tr. 112; SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 2.a), tr. 112; SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 2.b), tr. 112
 
+### greenhouse effect
+- **Tiếng Việt:** Hiệu ứng nhà kính
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The warming of Earth's atmosphere occurring when sunlight heats the Earth's surface and the heat radiated back into the atmosphere is absorbed and trapped by carbon dioxide and certain other gases rather than escaping into space.
+- **Giải thích (VI):** Hiện tượng gia tăng nhiệt độ khí quyển Trái Đất khi ánh sáng mặt trời làm mặt đất nóng lên và lượng hơi nóng phát tán trở lại khí quyển bị khí carbon dioxide cùng một số khí khác hấp thụ, giữ lại mà không thoát ra ngoài vũ trụ được.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 34 (Mục III.1): Giải thích vai trò của thực vật trong việc hấp thụ khí carbon dioxide và thoát hơi nước giúp điều hoà khí hậu, giảm hiệu ứng nhà kính.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 119; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục III.1), tr. 119; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục III.1), tr. 119, 120
+
 ### greenhouse gas
 - **Tiếng Việt:** Khí nhà kính
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Atmospheric gases (mainly CO₂, CH₄, N₂O, and CFCs) that cause the greenhouse effect, leading to global warming and climate change. In industrial production, the largest source of greenhouse gas emissions comes from burning fossil fuels to generate electricity.
 - **Giải thích (VI):** Các chất khí trong khí quyển (chủ yếu gồm CO₂, CH₄, N₂O, CFCs) gây hiệu ứng nhà kính, dẫn đến sự nóng lên toàn cầu và biến đổi khí hậu. Trong sản xuất công nghiệp, nguồn phát thải khí nhà kính lớn nhất đến từ việc đốt cháy năng lượng hoá thạch để sản xuất điện.
-- **Bối cảnh:** Địa lí lớp 10, Bài 31 (Mục 1): giải thích khái niệm khí nhà kính và nguyên nhân phát thải từ hoạt động công nghiệp năng lượng.
-- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 1), tr. 88; SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 2), tr. 89
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: Atmospheric gases (such as carbon dioxide and methane) that cause global warming and drive climate change. / VI: Các chất khí trong khí quyển (như khí carbonic, metan) gây ra sự nóng lên toàn cầu và thúc đẩy biến đổi khí hậu.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 31 (Mục 1): giải thích khái niệm khí nhà kính và nguyên nhân phát thải từ hoạt động công nghiệp năng lượng.
+  - Lịch sử và Địa lí lớp 6, Bài 17 (Mục 3.a): giải thích nguyên nhân nhân sinh làm biến đổi khí hậu diễn ra ngày càng nhanh.
+- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 1), tr. 88; SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 2), tr. 89; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.a), tr. 151
 
 ### Greenwich Mean Time
 - **Tiếng Việt:** Giờ quốc tế (GMT; giờ GMT)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The standard reference time of time zone 0, centered on the Prime Meridian, serving as the international baseline for global timekeeping. In practice, time zone boundaries referenced to this meridian are often adjusted along national borders to form civil time regions.
 - **Giải thích (VI):** Giờ chuẩn lấy theo múi giờ số 0 (múi có đường kinh tuyến gốc chạy qua chính giữa) làm mốc thời gian chung cho quốc tế. Trong thực tế, ranh giới các múi giờ tính từ mốc này thường điều chỉnh theo biên giới quốc gia để tạo thành các khu vực giờ.
-- **Bối cảnh:** Địa lí lớp 10, Bài 5 (Mục 1.b): Quy ước mốc giờ chuẩn ở múi giờ số 0 để quy đổi giờ giữa các khu vực trên thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1.b), tr. 18
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The time of time zone 0 bisected by the 0° meridian, adopted as the international standard reference from which the time of all other time zones is calculated. / VI: Giờ của khu vực giờ số 0 có đường kinh tuyến 0° đi qua chính giữa, lấy làm mốc chuẩn quốc tế để tính giờ cho các khu vực giờ khác trên thế giới.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 5 (Mục 1.b): Quy ước mốc giờ chuẩn ở múi giờ số 0 để quy đổi giờ giữa các khu vực trên thế giới.
+  - Lịch sử và Địa lí lớp 6, Bài 7 (Mục 2.b): mốc giờ gốc đi qua Đài thiên văn Hoàng gia Grin-uých để so sánh và quy đổi giờ giữa các địa điểm trên Trái Đất.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1.b), tr. 18; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.a), tr. 119; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.b), tr. 119; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.b), tr. 119, 120
 
 ### Gross Regional Domestic Product
 - **Tiếng Việt:** GRDP (Tổng sản phẩm trên địa bàn)
@@ -1934,12 +2366,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Địa lí 12 KNTT, Bảng giải thích thuật ngữ, tr. 175
 
 ### groundwater
-- **Tiếng Việt:** Nước ngầm
+- **Tiếng Việt:** Nước ngầm (nước dưới đất)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Subsurface water formed by the infiltration of surface water (rainwater, meltwater, rivers, and lakes), whose level and volume depend on recharge sources, topography, rock and soil permeability, evaporation, and vegetation cover. Containing minerals determined by the host strata, groundwater provides vital freshwater for domestic use and production, feeds rivers and lakes in the dry season, and stabilizes rock layers against subsidence.
 - **Giải thích (VI):** Lượng nước tồn tại dưới bề mặt đất do nước trên mặt (nước mưa, băng tuyết tan, sông, hồ) thấm xuống, có mực nước và trữ lượng phụ thuộc vào nguồn cấp, địa hình, khả năng thấm của đất đá, mức độ bốc hơi và lớp phủ thực vật. Nước ngầm chứa chất khoáng tuỳ tính chất đất đá, là nguồn nước ngọt quan trọng cho sinh hoạt, sản xuất, cấp nước cho sông hồ mùa khô và cố định các lớp đất đá chống sụt lún.
-- **Bối cảnh:** Địa lí lớp 10, Bài 11 (Mục 2.d): Trình bày nguồn gốc, các nhân tố ảnh hưởng và vai trò tự nhiên, kinh tế – xã hội của nước ngầm.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B11, tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 1), tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.a), tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.d), tr. 40
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: Water stored in permanent aquifers beneath the land surface, formed mainly by infiltrating rainwater, river water, and lake water. Groundwater supplies domestic and irrigation water, stabilizes river flow, and prevents land subsidence. / VI: Nguồn nước tồn tại trong các tầng chứa nước thường xuyên dưới bề mặt đất, hình thành chủ yếu do nước mưa và nước sông, hồ thấm xuống. Nước ngầm cung cấp nước sinh hoạt, tưới tiêu, ổn định dòng chảy sông ngòi và ngăn chặn sụt lún đất.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 11 (Mục 2.d): Trình bày nguồn gốc, các nhân tố ảnh hưởng và vai trò tự nhiên, kinh tế – xã hội của nước ngầm.
+  - Lịch sử và Địa lí lớp 6, Bài 20 (Mục 2): tìm hiểu sự hình thành và vai trò của nguồn nước ngầm đối với tự nhiên và đời sống.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B11, tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 1), tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.a), tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.d), tr. 40; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20, tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 2), tr. 161
 
 ### groundwater spring
 - **Tiếng Việt:** Vết lộ nước ngầm (vết lộ)
@@ -1972,6 +2407,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nơi tập trung và liên kết các hoạt động nghiên cứu và phát triển, ứng dụng công nghệ cao, ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao và đào tạo nhân lực công nghệ cao. Khu công nghệ cao trực tiếp sản xuất, kinh doanh sản phẩm và cung ứng dịch vụ công nghệ cao nhằm tạo động lực thúc đẩy phát triển kinh tế đất nước.
 - **Bối cảnh:** Địa lí lớp 12, Bài 17 (Mục II): hình thức tổ chức lãnh thổ gắn kết nghiên cứu khoa học với sản xuất công nghệ cao ở Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B17 (Mục II), tr. 78, 79
+
+### hill
+- **Tiếng Việt:** Đồi
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An elevated landform characterized by a rounded summit, gentle slopes, and a relative elevation generally not exceeding 200 m above the surrounding land.
+- **Giải thích (VI):** Dạng địa hình nhô cao có đỉnh tròn, sườn thoải và độ cao tương đối so với vùng đất xung quanh thường không vượt quá 200 m.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 1): nhận biết đặc điểm hình thái và độ cao của đồi để phân biệt với núi.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13, tr. 135; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 1), tr. 135; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 1), tr. 135, 136
 
 ### Hoang Sa Archipelago
 - **Tiếng Việt:** Quần đảo Hoàng Sa
@@ -2013,8 +2456,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The entirety of the water envelope surrounding Earth, distributed across oceans, continents, rock and soil layers, the atmosphere, and living organisms. Oceanic water and snow and ice stabilize Earth's surface temperature, while freshwater on continents and in the atmosphere sustains terrestrial life.
 - **Giải thích (VI):** Toàn bộ lớp nước bao quanh Trái Đất, phân bố trong các đại dương, trên lục địa, trong các lớp đất đá, trong khí quyển và trong cơ thể sinh vật. Nước trong đại dương và nước băng tuyết giữ ổn định nhiệt độ bề mặt Trái Đất, còn lượng nước ngọt trong khí quyển và trên lục địa giúp duy trì sự sống trên đất liền.
-- **Bối cảnh:** Địa lí lớp 10, Bài 11 (Mục 1): Định nghĩa khái niệm thuỷ quyển, sự phân bố và vai trò của các bộ phận nước trên Trái Đất.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B11, tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 1), tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.a), tr. 37
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The entire layer of water surrounding the Earth, located on the surface and within the Earth's crust, encompassing water in oceans, seas, rivers, lakes, swamps, groundwater, snow, ice, and atmospheric water vapor. / VI: Toàn bộ lớp nước bao quanh Trái Đất, nằm trên bề mặt và bên trong vỏ Trái Đất, bao gồm nước ở các đại dương, biển, sông, hồ, đầm lầy, nước dưới đất (nước ngầm), tuyết, băng và hơi nước trong khí quyển.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 11 (Mục 1): Định nghĩa khái niệm thuỷ quyển, sự phân bố và vai trò của các bộ phận nước trên Trái Đất.
+  - Lịch sử và Địa lí lớp 6, Bài 19 (Mục 1): xác định phạm vi và tỉ lệ các thành phần của lớp nước trên Trái Đất.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B11, tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 1), tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.a), tr. 37; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B19, tr. 156; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B19 (Mục 1), tr. 156
+
+### hygrometer
+- **Tiếng Việt:** Ẩm kế
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An instrument specifically used to measure air humidity, with readings commonly expressed as a percentage (%).
+- **Giải thích (VI):** Dụng cụ chuyên dùng để đo độ ẩm không khí, với giá trị đo thường biểu thị theo đơn vị phần trăm (%).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 16 (Mục 2.a): nhận biết dụng cụ và đơn vị đo độ ẩm không khí.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1.b), tr. 147; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2.a), tr. 147, 148
 
 ### igneous rock
 - **Tiếng Việt:** Đá macma
@@ -2033,6 +2487,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 10, Bài 19 (Mục 2.b): Chỉ tiêu thành phần phản ánh lượng người chuyển đến trong gia tăng dân số cơ học.
   - *Lưu ý:* Không nhầm với 'Hệ số nhập cư' (`immigration rate`) trong Sinh học.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.b), tr. 56
+
+### impact of nature on human life
+- **Tiếng Việt:** Tác động của thiên nhiên đến đời sống con người
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The provision and influence of the natural environment on human survival and daily living through essential elements such as air, light, heat, and water. Local topography, climate, soil, and water resources directly shape population distribution, lifestyles, and everyday activities.
+- **Giải thích (VI):** Sự chi phối và cung cấp của môi trường tự nhiên đối với sự tồn tại và sinh hoạt của con người thông qua các yếu tố thiết yếu như không khí, ánh sáng, nhiệt lượng và nước. Đặc điểm địa hình, khí hậu, đất trồng và nguồn nước ở từng nơi trực tiếp ảnh hưởng đến sự phân bố dân cư, lối sống và nếp sinh hoạt hằng ngày.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 28 (Mục 1.a): Phân tích vai trò của hoàn cảnh tự nhiên đối với đời sống sinh hoạt và cư trú của con người.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28, tr. 184; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 1.a), tr. 184
+
+### impact of nature on production
+- **Tiếng Việt:** Tác động của thiên nhiên tới sản xuất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The dual influence—either facilitating or hindering—exerted by natural conditions and climate change on human economic sectors such as agriculture, industry, transportation, and tourism.
+- **Giải thích (VI):** Ảnh hưởng hai mặt (tạo thuận lợi hoặc gây khó khăn, trở ngại) của các điều kiện tự nhiên và biến đổi khí hậu đối với các ngành kinh tế của con người như nông nghiệp, công nghiệp, giao thông vận tải và du lịch.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 28 (Mục 1.b): Làm rõ sự phụ thuộc của các hoạt động kinh tế vào điều kiện tự nhiên và tài nguyên thiên nhiên.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 1.b), tr. 185; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 2), tr. 185; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 2), tr. 185, 186
 
 ### impacts of economic globalization
 - **Tiếng Việt:** Ảnh hưởng của toàn cầu hoá kinh tế
@@ -2269,6 +2739,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 33 (Mục III): Khái niệm và ý nghĩa của việc khai thác, phát triển tổng hợp các ngành kinh tế biển ở Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B33 (Mục III), tr. 167; SGK Địa lí 12 KNTT, Phần 4, B33 (Mục III.1), tr. 167; SGK Địa lí 12 KNTT, Phần 4, B33 (Mục III.2), tr. 167
 
+### integrated use of river and lake water
+- **Tiếng Việt:** Sử dụng tổng hợp nước sông, hồ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The multi-purpose exploitation of river and lake water resources rather than single-purpose use, enhancing economic efficiency, reducing water waste, and helping protect water resources from pollution.
+- **Giải thích (VI):** Phương thức khai thác nguồn nước sông, hồ kết hợp đồng thời nhiều mục đích thay cho việc sử dụng đơn lẻ, giúp nâng cao hiệu quả kinh tế, hạn chế lãng phí và góp phần bảo vệ tài nguyên nước chống ô nhiễm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 20 (Mục 1.b): giải thích ý nghĩa kinh tế và môi trường của việc khai thác đa mục đích nước sông, hồ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 159; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.b), tr. 159; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.b), tr. 159, 160
+
 ### internal development resources
 - **Tiếng Việt:** Nguồn lực bên trong lãnh thổ (nguồn lực trong nước)
 - **Chuyên ngành gốc:** Địa lí
@@ -2284,6 +2762,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tập hợp các điều kiện nội tại của lãnh thổ tác động tới công nghiệp, gồm vị trí địa lí (quy định sự phân bố và khả năng tiếp cận bên ngoài), điều kiện tự nhiên – tài nguyên thiên nhiên (ảnh hưởng trực tiếp tới cơ cấu, phân bố ngành) và điều kiện kinh tế – xã hội. Trong đó, nhóm nhân tố kinh tế – xã hội (dân cư và lao động, khoa học – công nghệ, vốn, thị trường, chính sách) giữ vai trò quyết định.
 - **Bối cảnh:** Địa lí lớp 10, Bài 28 (Mục 2.a): vai trò của vị trí địa lí, tự nhiên và kinh tế – xã hội bên trong lãnh thổ đối với công nghiệp.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 2.a), tr. 80
+
+### internal structure of the Earth
+- **Tiếng Việt:** Cấu tạo bên trong của Trái Đất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The layered structure inside the Earth consisting of three layers from outside to inside: the Earth's crust, the mantle, and the Earth's core. These layers differ in thickness, physical state of matter, and temperature.
+- **Giải thích (VI):** Cấu trúc phân lớp ở bên trong lòng Trái Đất gồm ba lớp tính từ ngoài vào trong là vỏ Trái Đất, man-ti và nhân Trái Đất. Các lớp này khác nhau về độ dày, trạng thái vật chất và nhiệt độ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 10 (Mục 1): nhận biết thứ tự và đặc điểm ba lớp cấu tạo bên trong của Trái Đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10, tr. 129; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 129
 
 ### internal waters
 - **Tiếng Việt:** Nội thuỷ
@@ -2426,8 +2912,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Water-filled depressions on Earth's surface that do not communicate directly with the sea.
 - **Giải thích (VI):** Những vùng trũng chứa nước trên bề mặt Trái Đất và không trực tiếp thông với biển.
-- **Bối cảnh:** Địa lí lớp 10, Bài 11 (Mục 2.b): Định nghĩa khái niệm hồ trong các dạng nước trên lục địa.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.a), tr. 38; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.b), tr. 38; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.d), tr. 39
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A water-filled depression on the Earth's surface that is not connected to the sea, varying in origin, shape, and size. / VI: Vùng trũng chứa nước trên bề mặt Trái Đất, không thông với biển và đa dạng về nguồn gốc hình thành, hình dạng cũng như kích thước.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 11 (Mục 2.b): Định nghĩa khái niệm hồ trong các dạng nước trên lục địa.
+  - Lịch sử và Địa lí lớp 6, Bài 20 (Mục 1.a): nhận diện khái niệm hồ và một số nguồn gốc hình thành hồ như miệng núi lửa tắt, khúc uốn sông cũ.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.a), tr. 38; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.b), tr. 38; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.d), tr. 39; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20, tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 159; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.b), tr. 159
 
 ### Lake Baikal
 - **Tiếng Việt:** Hồ Bai-can
@@ -2471,6 +2960,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 7 (Mục 1.b, 2.b): Phân biệt các dạng địa hình kiến tạo do nội lực với các dạng địa hình bóc mòn và bồi tụ do ngoại lực.
 - **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 1.b), tr. 24; SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 2.b), tr. 25
 
+### large-scale topographic sketch map
+- **Tiếng Việt:** Lược đồ địa hình tỉ lệ lớn
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A sketch map depicting terrain features such as elevation and slope across a small area using contour lines and color shading.
+- **Giải thích (VI):** Lược đồ thể hiện đặc điểm địa hình như độ cao, độ dốc của một khu vực có diện tích nhỏ thông qua hệ thống các đường đồng mức và màu sắc.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 14 (Mục 1): thực hành đọc độ cao, độ dốc và khoảng cách thực tế trên lược đồ địa hình.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B14 (Mục 1), tr. 139; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B14 (Mục 1), tr. 139, 140
+
+### latitude
+- **Tiếng Việt:** Vĩ độ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The angular distance measured in degrees from the Equator (0°) to the parallel passing through a given location, specified as north or south.
+- **Giải thích (VI):** Khoảng cách tính bằng độ từ đường Xích đạo (0°) đến đường vĩ tuyến đi qua một địa điểm xác định, kèm theo hướng bắc hoặc nam.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 1 (Mục 2): thành phần của toạ độ địa lí xác định vị trí bắc hoặc nam của một điểm so với đường Xích đạo 0°.
+  - *Lưu ý:* Phân biệt với vĩ tuyến (parallel) là vòng tròn bao quanh quả Địa Cầu vuông góc với các kinh tuyến.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 103
+
+### latitudinal variation of air temperature
+- **Tiếng Việt:** Sự thay đổi nhiệt độ không khí theo vĩ độ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The pattern of decreasing air temperature from low latitudes toward high latitudes on Earth. Low-latitude regions have a high angle of solar incidence year-round so the ground receives more heat and the air is warmer, whereas closer to the poles the angle decreases so the ground receives less heat and the air is cooler.
+- **Giải thích (VI):** Quy luật giảm dần nhiệt độ không khí từ vùng vĩ độ thấp về vùng vĩ độ cao trên Trái Đất. Vùng vĩ độ thấp quanh năm có góc chiếu của tia sáng mặt trời lớn nên mặt đất nhận nhiều nhiệt và không khí nóng hơn, còn càng lên gần cực góc chiếu càng nhỏ nên mặt đất nhận ít nhiệt và không khí ít nóng hơn.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 16 (Mục 1.b): giải thích quy luật phân bố nhiệt độ không khí trên Trái Đất từ Xích đạo về hai cực.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1.b), tr. 147; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2.a), tr. 147, 148
+
 ### law of altitudinal zonality
 - **Tiếng Việt:** Quy luật đai cao
 - **Chuyên ngành gốc:** Địa lí
@@ -2511,6 +3026,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 17 (Mục 2.a): Định nghĩa và giải thích nguyên nhân của quy luật thống nhất và hoàn chỉnh của vỏ địa lí.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 2.a), tr. 52
 
+### leap year
+- **Tiếng Việt:** Năm nhuận
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A calendar year of 366 days in which February has 29 days, occurring once after every three 365-day years because the Earth's orbital period around the Sun takes 365 days and 6 hours.
+- **Giải thích (VI):** Năm dương lịch có 366 ngày với tháng 2 có 29 ngày, xuất hiện định kì cứ sau ba năm 365 ngày do thời gian Trái Đất chuyển động một vòng quanh Mặt Trời hết 365 ngày 6 giờ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 8 (Mục 1): quy ước năm lịch 366 ngày sau mỗi chu kì tích luỹ đủ 24 giờ lẻ từ chuyển động quanh Mặt Trời.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B8, tr. 122; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B8 (Mục 1), tr. 122
+
 ### lithosphere
 - **Tiếng Việt:** Thạch quyển
 - **Chuyên ngành gốc:** Địa lí
@@ -2550,8 +3073,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Time determined specifically for each meridian based on the apparent altitude of the Sun in the sky. Because the spherical Earth rotates on its axis from west to east, observers on different meridians see the Sun at different altitudes at the same moment and thus experience different local times.
 - **Giải thích (VI):** Giờ xác định riêng cho các địa điểm thuộc từng kinh tuyến dựa theo độ cao của Mặt Trời trên bầu trời. Do Trái Đất có dạng hình khối cầu và tự quay quanh trục từ tây sang đông, ở cùng một thời điểm người đứng tại các kinh tuyến khác nhau nhìn thấy Mặt Trời ở độ cao khác nhau nên có giờ khác nhau.
-- **Bối cảnh:** Địa lí lớp 10, Bài 5 (Mục 1.b): Giải thích nguyên nhân chênh lệch giờ theo kinh độ và phân biệt với giờ múi.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B5, tr. 17; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1), tr. 17; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1.a), tr. 17; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1.b), tr. 18
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A timekeeping system determined by the Sun's altitude in the sky during the day, taking the moment when the Sun reaches its highest position as 12:00 noon to calculate other hours. / VI: Giờ tính dựa vào độ cao của Mặt Trời trên bầu trời trong ngày tại từng địa điểm, quy ước thời điểm Mặt Trời lên cao nhất là 12 giờ để tính ra các giờ khác.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 5 (Mục 1.b): Giải thích nguyên nhân chênh lệch giờ theo kinh độ và phân biệt với giờ múi.
+  - Lịch sử và Địa lí lớp 6, Bài 7 (Mục 2.a): phân biệt cách tính giờ theo độ cao Mặt Trời với giờ khu vực thống nhất trong đời sống hiện đại.
+  - *Lưu ý:* Phân biệt với giờ khu vực (zone time) là giờ quy ước thống nhất cho toàn bộ các địa điểm nằm trong cùng một khu vực giờ.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B5, tr. 17; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1), tr. 17; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1.a), tr. 17; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1.b), tr. 18; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.a), tr. 119; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.b), tr. 119; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.b), tr. 119, 120
 
 ### local wind
 - **Tiếng Việt:** Gió địa phương
@@ -2569,15 +3096,37 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 10 (Mục II.2.a): ngành dịch vụ hiện đại gắn với chuyển đổi số, kết nối giao thông vận tải và lưu thông hàng hoá ở Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.2.a), tr. 47
 
+### longitude
+- **Tiếng Việt:** Kinh độ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The angular distance measured in degrees from the Prime Meridian (0°) to the meridian passing through a given location, specified as east or west.
+- **Giải thích (VI):** Khoảng cách tính bằng độ từ đường kinh tuyến gốc (0°) đến đường kinh tuyến đi qua một địa điểm xác định, kèm theo hướng đông hoặc tây.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 1 (Mục 2): thành phần của toạ độ địa lí xác định vị trí đông hoặc tây của một điểm so với kinh tuyến gốc 0°.
+  - *Lưu ý:* Phân biệt với kinh tuyến (meridian) là đường nửa vòng tròn nối hai cực trên quả Địa Cầu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 103
+
+### low-water season
+- **Tiếng Việt:** Mùa cạn
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The period of the year when water levels in a river channel drop low; for rivers primarily fed by rainfall, the low-water season coincides with the dry season.
+- **Giải thích (VI):** Thời kì trong năm có mực nước trong lòng sông hạ thấp; đối với các sông nhận nguồn cấp nước chủ yếu từ mưa, mùa cạn trùng với mùa khô.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 20 (Mục 1.a): phân biệt thời kì nước sông hạ thấp với mùa lũ trong chế độ nước sông.
+  - *Lưu ý:* Thuật ngữ thuỷ văn chỉ thời kì mực nước sông hạ thấp, phân biệt với 'mùa khô' (dry season) trong khí hậu học.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 159; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.b), tr. 159; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.b), tr. 159, 160
+
 ### magma
-- **Tiếng Việt:** Macma
+- **Tiếng Việt:** Macma (Mac-ma)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Matter existing in a molten state within the Earth's mantle. When erupted onto the Earth's surface, this molten material becomes volcanic lava.
 - **Giải thích (VI):** Vật chất ở trạng thái nóng chảy tồn tại trong lớp manti của Trái Đất. Khi phun trào lên trên bề mặt đất, khối vật chất nóng chảy này tạo thành dung nham núi lửa.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: Molten material within the mantle whose movement drives the shifting of tectonic plates in the Earth's crust. Where the Earth's crust is fractured, magma flows can erupt through fissures onto continental or oceanic surfaces to form volcanoes. / VI: Vật chất nóng chảy nằm trong lớp man-ti có tác động làm dịch chuyển các địa mảng của vỏ Trái Đất. Ở những nơi vỏ Trái Đất bị đứt gãy, các dòng mac-ma có thể theo khe nứt phun trào lên bề mặt lục địa hoặc đại dương để tạo thành núi lửa.
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 6 (Mục 2): Giải thích hiện tượng macma trào lên tại ranh giới tách dãn giữa các mảng kiến tạo.
+  - Lịch sử và Địa lí lớp 6, Bài 10 (Mục 2) và Bài 12 (Mục 1): tác nhân gây dịch chuyển địa mảng và hình thành núi lửa.
   - *Lưu ý:* Phân biệt với dung nham núi lửa là khối macma sau khi đã phun trào lên trên bề mặt Trái Đất.
-- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần hai, B6 (Mục 2), tr. 23
+- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần hai, B6 (Mục 2), tr. 23; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 130; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B12 (Mục 1), tr. 133
 
 ### mainland extreme points of Vietnam
 - **Tiếng Việt:** Điểm cực trên đất liền của Việt Nam
@@ -2612,6 +3161,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tập hợp các đới và kiểu quần xã thực vật tiêu biểu phân bố trên Trái Đất theo vĩ độ từ cực về Xích đạo và theo đai cao vùng núi. Các kiểu chính gồm hoang mạc cực, đài nguyên, rừng lá kim, rừng lá rộng và hỗn hợp, rừng cận nhiệt ẩm, rừng và cây bụi lá cứng, thảo nguyên ôn đới, hoang mạc và bán hoang mạc, xa van và rừng thưa, rừng nhiệt đới cùng thực vật núi cao.
 - **Bối cảnh:** Địa lí lớp 10, Bài 16 (Mục 2): Thực hành đọc bản đồ để xác định tên gọi và phạm vi phân bố các kiểu thảm thực vật chính.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B16 (Mục 2), tr. 49; SGK Địa lí 10 KNTT, Phần hai, B16 (Mục 2), tr. 49, 50
+
+### major water cycle
+- **Tiếng Việt:** Vòng tuần hoàn lớn của nước
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The continuous closed-loop movement and phase transformation of water in nature, circulating water constantly among the oceans, the atmosphere, and the continents.
+- **Giải thích (VI):** Chu trình vận động khép kín không ngừng và chuyển đổi qua lại giữa các trạng thái của nước trong tự nhiên, đưa nước di chuyển liên tục giữa đại dương, khí quyển và lục địa.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 19 (Mục 2): mô tả sự luân chuyển của nước giữa đại dương, khí quyển và lục địa trên Trái Đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B19 (Mục 2), tr. 157
 
 ### manifestations of economic globalization
 - **Tiếng Việt:** Biểu hiện của toàn cầu hoá kinh tế
@@ -2653,6 +3210,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 17 (Mục 2.b): Phân tích các biểu hiện thực tế của quy luật thống nhất và hoàn chỉnh trong tự nhiên.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 2), tr. 52; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 2.b), tr. 52
 
+### mantle
+- **Tiếng Việt:** Man-ti (lớp man-ti; manti)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The middle layer situated between the Earth's crust and the Earth's core among the three structural layers of the Earth. The action of molten material (magma) within the mantle causes the tectonic plates of the Earth's crust to move very slowly.
+- **Giải thích (VI):** Lớp nằm giữa vỏ Trái Đất và nhân Trái Đất trong ba lớp cấu tạo của Trái Đất. Sự tác động của vật chất nóng chảy (mac-ma) trong lớp man-ti làm cho các địa mảng ở vỏ Trái Đất di chuyển với tốc độ rất chậm.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 10 (Mục 1–2): vị trí của lớp giữa Trái Đất và vai trò gây dịch chuyển các địa mảng.
+  - *Lưu ý:* Refers to the Earth's mantle in geology and physical geography, not the biological mantle of mollusks.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10, tr. 129; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 129; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 130
+
 ### manufacture of computers and electronic products
 - **Tiếng Việt:** Công nghiệp sản xuất sản phẩm điện tử, máy vi tính
 - **Chuyên ngành gốc:** Địa lí
@@ -2669,6 +3236,56 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 28 (Mục 1.c): nhóm ngành chế biến nguyên, nhiên liệu thành tư liệu sản xuất và hàng tiêu dùng.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.c), tr. 80
 
+### map
+- **Tiếng Việt:** Bản đồ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A mathematically constructed miniature representation of part or all of the Earth's surface on a flat plane, depicting geographical features through a system of map symbols.
+- **Giải thích (VI):** Hình vẽ thu nhỏ một phần hay toàn bộ bề mặt Trái Đất lên mặt phẳng trên cơ sở toán học, trên đó các đối tượng địa lí được thể hiện bằng hệ thống kí hiệu bản đồ.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 2 (Mục 1): phân biệt bản đồ với quả Địa Cầu và nêu vai trò của bản đồ trong học tập, đời sống.
+  - *Lưu ý:* Phân biệt với quả Địa Cầu (terrestrial globe) là mô hình không gian ba chiều giữ nguyên dạng cầu của Trái Đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B2, tr. 104; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1), tr. 104; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2), tr. 104, 105
+
+### map legend
+- **Tiếng Việt:** Bảng chú giải
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A component of a map that explains the meaning of all symbols used on the map, typically arranged at the bottom or in blank areas on the map.
+- **Giải thích (VI):** Bộ phận của bản đồ giải thích ý nghĩa các kí hiệu sử dụng trên bản đồ, thường được bố trí ở phía dưới hoặc những khu vực trống trên bản đồ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 4 (Mục 1.b): bộ phận giải thích ý nghĩa các kí hiệu để đọc bản đồ tự nhiên và bản đồ hành chính.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B4 (Mục 1.a), tr. 108; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B4 (Mục 1.b), tr. 109; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B4 (Mục 2.a), tr. 109
+
+### map projection
+- **Tiếng Việt:** Phép chiếu bản đồ (phép chiếu)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A mathematical method used to transform and represent the curved spherical surface of the Earth onto a flat map plane, producing different graticule shapes such as conic or cylindrical projections.
+- **Giải thích (VI):** Phương pháp toán học biểu diễn bề mặt cong hình cầu của Trái Đất lên mặt phẳng bản đồ, tạo ra các dạng lưới kinh, vĩ tuyến khác nhau như phép chiếu hình nón hoặc phép chiếu hình trụ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 2 (Mục 2): giải thích phương pháp chuyển mặt cong của Trái Đất lên mặt phẳng và sự biến dạng của các vùng đất trên bản đồ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2), tr. 104; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2), tr. 105
+
+### map reading
+- **Tiếng Việt:** Cách đọc bản đồ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The five-step procedure for extracting information from a map: reading the map title to identify its theme and territory, checking the map scale, reading symbols in the map legend, locating target geographical features, and describing relationships among those features.
+- **Giải thích (VI):** Quy trình khai thác thông tin bản đồ gồm năm bước: đọc tên bản đồ để biết nội dung và lãnh thổ thể hiện, biết tỉ lệ bản đồ để đo tính khoảng cách, đọc kí hiệu trong bảng chú giải, xác định đối tượng địa lí cần quan tâm và trình bày mối quan hệ giữa các đối tượng đó.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 4 (Mục 2.a): năm bước cơ bản khi đọc và khai thác thông tin trên các bản đồ thông dụng.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B4 (Mục 1.b), tr. 109; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B4 (Mục 2.a), tr. 109; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B4 (Mục 2.b), tr. 109, 110
+
+### map scale
+- **Tiếng Việt:** Tỉ lệ bản đồ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The ratio indicating the degree to which distances between features on a map are reduced compared to their corresponding real-world distances, commonly expressed as a numerical scale or a graphic scale.
+- **Giải thích (VI):** Tỉ số cho biết mức độ thu nhỏ độ dài giữa các đối tượng trên bản đồ so với thực tế, thường được biểu hiện ở hai dạng là tỉ lệ số và tỉ lệ thước.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 3 (Mục 1): yếu tố toán học cho biết mức độ thu nhỏ khoảng cách và mức độ thể hiện nội dung trên bản đồ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3, tr. 106; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1), tr. 106; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2), tr. 106
+
+### map symbol
+- **Tiếng Việt:** Kí hiệu bản đồ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A system of standardized conventional signs (shapes, colors, etc.) used to represent geographical objects and phenomena on a map, commonly classified into point symbols, line symbols, and area symbols.
+- **Giải thích (VI):** Hệ thống các dấu hiệu quy ước đa dạng (hình vẽ, màu sắc,...) dùng để thể hiện các sự vật, hiện tượng địa lí trên bản đồ, thường gồm ba loại là kí hiệu điểm, kí hiệu đường và kí hiệu diện tích.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 4 (Mục 1.a): nhận diện hệ thống dấu hiệu quy ước thể hiện vị trí, quy mô và đặc điểm của đối tượng địa lí trên bản đồ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B4, tr. 108; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B4 (Mục 1.a), tr. 108
+
 ### map use
 - **Tiếng Việt:** Sử dụng bản đồ
 - **Chuyên ngành gốc:** Địa lí
@@ -2676,6 +3293,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quy trình khai thác thông tin từ bản đồ thông qua việc xác định rõ nội dung yêu cầu, chọn bản đồ phù hợp và nắm vững tỉ lệ, kí hiệu, phương pháp biểu hiện cùng bảng chú giải. Để giải thích hiện tượng địa lí, người đọc cần xác định mối quan hệ giữa các đối tượng trên bản đồ và đọc đối chiếu các bản đồ liên quan nhằm phân tích, so sánh.
 - **Bối cảnh:** Địa lí lớp 10, Bài 3 (Mục 1): Vận dụng các nguyên tắc đọc, phân tích và đối chiếu bản đồ trong học tập địa lí và đời sống.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B3, tr. 12; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 1), tr. 12; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.a), tr. 12
+
+### marine biodiversity
+- **Tiếng Việt:** Sự đa dạng của sinh vật dưới đại dương
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The richness and differentiation of living species across latitudes and depths in seas and oceans, resulting from variations in water temperature, salinity, pressure, light, and oxygen concentration.
+- **Giải thích (VI):** Sự phong phú và phân hoá về thành phần loài sinh vật sống trong các biển và đại dương theo vĩ độ và độ sâu, xuất phát từ sự chênh lệch về nhiệt độ, độ muối, áp suất, ánh sáng và nồng độ oxy trong nước.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 23 (Mục 1): Giải thích sự phân bố phong phú của các loài sinh vật ở các vùng biển và tầng độ sâu đại dương.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B23, tr. 171; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B23 (Mục 1), tr. 171
 
 ### marine economy in the South Central Coast
 - **Tiếng Việt:** Kinh tế biển ở Duyên hải Nam Trung Bộ
@@ -2749,6 +3374,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 7 (Mục 1.b): Giải thích hệ quả của vận động kiến tạo theo phương thẳng đứng làm thu hẹp diện tích lục địa.
 - **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 1.b), tr. 24
 
+### maritime air mass
+- **Tiếng Việt:** Khối khí đại dương
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An air mass formed over seas and oceans, characterized by high humidity.
+- **Giải thích (VI):** Khối khí hình thành trên các vùng biển và đại dương, mang đặc tính có độ ẩm lớn.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 3): phân loại khối khí theo bề mặt tiếp xúc biển, đại dương và phân biệt với khối khí lục địa.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 143
+
 ### maritime and air transport in Vietnam
 - **Tiếng Việt:** Đường biển và đường hàng không ở Việt Nam
 - **Chuyên ngành gốc:** Địa lí
@@ -2781,6 +3414,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 34 (Mục 3.d): phân tích vai trò chủ lực trong luân chuyển hàng hoá quốc tế và sự phân bố cảng biển lớn.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.c), tr. 96; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.d), tr. 96, 97; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.d), tr. 97
 
+### mean annual precipitation
+- **Tiếng Việt:** Lượng mưa trung bình năm
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A climatic indicator of a locality, calculated by summing the total annual precipitation over multiple years and dividing by the number of observed years.
+- **Giải thích (VI):** Chỉ số khí hậu của một địa phương, tính bằng tổng lượng mưa hằng năm trong nhiều năm cộng lại rồi chia cho số năm quan trắc.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 16 (Mục 2.b): cách tính và nhận xét sự phân bố lượng mưa trung bình năm trên bề mặt Trái Đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2.b), tr. 148; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2.b), tr. 149
+
+### mean annual temperature
+- **Tiếng Việt:** Nhiệt độ trung bình năm
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The average value of the air temperatures across the 12 months of a year at a given location.
+- **Giải thích (VI):** Giá trị trung bình của nhiệt độ không khí 12 tháng trong năm tại một địa điểm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 16 (Mục 1.a): hướng dẫn cách tính nhiệt độ trung bình năm tại trạm khí tượng và phân tích biểu đồ khí hậu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16, tr. 146; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1.a), tr. 146
+
+### mean daily temperature
+- **Tiếng Việt:** Nhiệt độ trung bình ngày
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The average value of four air temperature measurements taken during a day at a meteorological station (measured at 1:00, 7:00, 13:00, and 19:00 in Vietnam).
+- **Giải thích (VI):** Giá trị trung bình của 4 lần đo nhiệt độ không khí trong ngày tại trạm khí tượng (ở Việt Nam đo vào các thời điểm 1, 7, 13 và 19 giờ).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 16 (Mục 1.a): hướng dẫn cách tính nhiệt độ không khí trung bình của một ngày.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16, tr. 146; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1.a), tr. 146
+
+### mean monthly temperature
+- **Tiếng Việt:** Nhiệt độ trung bình tháng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The average value of the daily air temperatures across all days in a month at a given location.
+- **Giải thích (VI):** Giá trị trung bình của nhiệt độ không khí các ngày trong một tháng tại một địa điểm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 16 (Mục 1.a): hướng dẫn cách tính nhiệt độ không khí trung bình của một tháng.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16, tr. 146; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1.a), tr. 146
+
 ### mechanical population growth
 - **Tiếng Việt:** Gia tăng dân số cơ học
 - **Chuyên ngành gốc:** Địa lí
@@ -2788,6 +3453,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Biến động dân số do di cư tạo nên, xác định bằng mức chênh lệch giữa tỉ suất nhập cư và tỉ suất xuất cư của một lãnh thổ. Đại lượng này không làm thay đổi quy mô dân số toàn thế giới nhưng có ý nghĩa quan trọng đối với sự biến động dân số của từng khu vực và quốc gia.
 - **Bối cảnh:** Địa lí lớp 10, Bài 19 (Mục 2.b): Trình bày khái niệm và vai trò của biến động dân số do di cư.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.b), tr. 56
+
+### megacity
+- **Tiếng Việt:** Siêu đô thị
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A very large urban area with a total population of 10 million inhabitants or more.
+- **Giải thích (VI):** Đô thị rất lớn có quy mô dân số đạt từ 10 triệu người trở lên.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 27 (Mục 3): Xác định và tra cứu sự phân bố các thành phố đông dân bậc nhất thế giới trên bản đồ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 3), tr. 182; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 3), tr. 182, 183; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 3), tr. 183
 
 ### Mekong Delta Key Economic Region
 - **Tiếng Việt:** Vùng kinh tế trọng điểm vùng Đồng bằng sông Cửu Long
@@ -2813,6 +3486,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 30 (Mục I.1): Vị trí địa lí, phạm vi lãnh thổ và đặc điểm khái quát của vùng Đồng bằng sông Cửu Long.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B30, tr. 145; SGK Địa lí 12 KNTT, Phần 4, B30 (Mục I.1), tr. 145; SGK Địa lí 12 KNTT, Phần 4, B30 (Mục I.2), tr. 145
 
+### mental map
+- **Tiếng Việt:** Lược đồ trí nhớ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Spatial information about the world retained in the human mind, characterized by marking places previously encountered or visited and reflecting an individual's perception of their living space and its personal meaning.
+- **Giải thích (VI):** Những thông tin không gian về thế giới được lưu giữ trong trí óc con người, đặc trưng bởi sự đánh dấu các địa điểm từng gặp hoặc từng đến và phản ánh cảm nhận cùng ý nghĩa của không gian sống đối với mỗi cá nhân.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 5 (Mục 1): khái niệm biểu tượng không gian trong trí nhớ giúp định hướng và chỉ đường trong sinh hoạt hằng ngày.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5, tr. 113; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5 (Mục 1), tr. 113; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5 (Mục 2), tr. 113
+
+### meridian
+- **Tiếng Việt:** Kinh tuyến
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A semicircle connecting the North Pole and the South Pole on the surface of a terrestrial globe, with all meridians having equal length.
+- **Giải thích (VI):** Nửa đường tròn nối cực Bắc và cực Nam trên bề mặt quả Địa Cầu, trong đó mọi đường kinh tuyến đều có độ dài bằng nhau.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 1 (Mục 1): nhận diện các đường nối cực Bắc với cực Nam và xác định hướng bắc – nam trên quả Địa Cầu.
+  - *Lưu ý:* Phân biệt với kinh độ (longitude) là khoảng cách tính bằng độ từ kinh tuyến gốc đến kinh tuyến đi qua một điểm.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1, tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 103
+
 ### metal ore mining industry
 - **Tiếng Việt:** Công nghiệp khai thác quặng kim loại
 - **Chuyên ngành gốc:** Địa lí
@@ -2820,6 +3511,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Ngành công nghiệp khai thác các nhóm quặng kim loại đen, kim loại màu, kim loại quý và kim loại hiếm phục vụ chế tạo máy móc, thiết bị, xây dựng và giao thông vận tải gắn liền với quá trình công nghiệp hoá. Ngành phân bố tại các quốc gia giàu trữ lượng quặng sắt, bô-xít, đồng như Liên bang Nga, Ô-xtrây-li-a, Trung Quốc, Bra-xin, Chi-lê và đòi hỏi quy hoạch hợp lí kèm tái chế kim loại để tránh cạn kiệt tài nguyên, giảm ô nhiễm.
 - **Bối cảnh:** Địa lí lớp 10, Bài 29 (Mục 1.c): vai trò, phân nhóm quặng và sự phân bố ngành khai thác quặng kim loại trên thế giới.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 1.c), tr. 81, 82
+
+### metallic minerals
+- **Tiếng Việt:** Khoáng sản kim loại
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A group of mineral resources comprising mineral substances extracted to obtain metals through metallurgical processes. It includes ferrous metals (such as iron, manganese, and chromium) and non-ferrous metals (such as copper and lead), providing raw materials for producing pig iron, steel, and non-ferrous metals.
+- **Giải thích (VI):** Nhóm khoáng sản bao gồm các khoáng chất khai thác nhằm thu được kim loại thông qua quá trình luyện kim. Nhóm này gồm kim loại đen (sắt, man-gan, crôm,...) và kim loại màu (đồng, chì,...), cung cấp nguyên liệu để sản xuất gang, thép và các kim loại màu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 2): nhận diện nhóm khoáng sản nguyên liệu cho công nghiệp luyện kim đen và luyện kim màu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2), tr. 137; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193
 
 ### metamorphic rock
 - **Tiếng Việt:** Đá biến chất
@@ -2829,13 +3528,42 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 4 (Mục 3): Giải thích nguồn gốc biến đổi và nhận diện các đại diện điển hình của nhóm đá biến chất.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 16; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 3), tr. 16
 
+### meteorological observation
+- **Tiếng Việt:** Quan trắc khí tượng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The systematic measurement and monitoring of elements such as temperature, humidity, atmospheric pressure, wind, clouds, precipitation, and weather phenomena at meteorological stations at synchronized times worldwide (at least four times daily at 00:00, 06:00, 12:00, and 18:00 GMT).
+- **Giải thích (VI):** Hoạt động đo đạc, theo dõi các yếu tố như nhiệt độ, độ ẩm, khí áp, gió, mây, mưa và các hiện tượng thời tiết tại các trạm khí tượng vào những thời điểm thống nhất trên toàn thế giới (ít nhất 4 lần mỗi ngày vào lúc 0, 6, 12 và 18 giờ GMT).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 17 (Mục 1): tìm hiểu quy trình theo dõi đồng bộ các yếu tố thời tiết trên thế giới.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17, tr. 150; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 1), tr. 150
+
+### meteorology
+- **Tiếng Việt:** Khí tượng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The state of the atmosphere and the progression of natural phenomena occurring within the atmosphere.
+- **Giải thích (VI):** Trạng thái của khí quyển và quá trình diễn biến của các hiện tượng tự nhiên xảy ra trong khí quyển.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 16 (Mục 1.a): gắn với hoạt động theo dõi, đo đạc các yếu tố khí quyển tại trạm khí tượng.
+  - *Lưu ý:* Trong SGK Địa lí 6, thuật ngữ chỉ trạng thái và diễn biến các hiện tượng tự nhiên trong khí quyển (phân biệt với nghĩa ngành khoa học khí tượng học).
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1.a), tr. 146
+
 ### mineral
 - **Tiếng Việt:** Khoáng vật
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Naturally occurring native elements or chemical compounds formed as a result of geological processes, serving as the constituent building blocks of rocks in the Earth's crust.
 - **Giải thích (VI):** Những nguyên tố tự nhiên hoặc hợp chất hoá học trong thiên nhiên xuất hiện do kết quả của các quá trình địa chất, đóng vai trò là thành phần cấu tạo nên các loại đá trong vỏ Trái Đất.
-- **Bối cảnh:** Địa lí lớp 10, Bài 4 (Mục 3): Định nghĩa đơn vị vật chất cơ bản cấu tạo nên đá trong vỏ Trái Đất.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 16; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 3), tr. 16
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: Natural compounds formed through geological processes within the Earth's crust. / VI: Các hợp chất tự nhiên hình thành thông qua các quá trình địa chất trong vỏ Trái Đất.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 4 (Mục 3): Định nghĩa đơn vị vật chất cơ bản cấu tạo nên đá trong vỏ Trái Đất.
+  - Lịch sử và Địa lí lớp 6, Bài 13 (Mục 2): phân biệt hợp chất tự nhiên tạo nên đá và quặng với khái niệm khoáng sản.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 16; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 3), tr. 16; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2), tr. 137; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192
+
+### mineral deposit
+- **Tiếng Việt:** Mỏ khoáng sản
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A natural concentration of mineral resources with sufficient reserves and quality to be extracted for economic purposes. Mineral deposits are formed over long geological periods spanning millions of years.
+- **Giải thích (VI):** Nơi tập trung khoáng sản có trữ lượng và chất lượng đủ điều kiện khai thác để sử dụng vào mục đích kinh tế. Các mỏ khoáng sản đều trải qua quá trình hình thành kéo dài hàng triệu năm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 2): cơ sở giải thích tính hữu hạn của tài nguyên khoáng sản và yêu cầu khai thác hợp lí.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2), tr. 137
 
 ### mineral mining and processing in the Northern Midlands and Mountains
 - **Tiếng Việt:** Khai thác và chế biến khoáng sản ở Trung du và miền núi Bắc Bộ
@@ -2844,6 +3572,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hoạt động công nghiệp thế mạnh khai thác nguồn tài nguyên khoáng sản giàu có bậc nhất cả nước của vùng Trung du và miền núi Bắc Bộ như than (Thái Nguyên, Lạng Sơn), sắt (Yên Bái, Lào Cai, Hà Giang), a-pa-tít và đồng – vàng (Lào Cai), thiếc (Cao Bằng, Thái Nguyên), đất hiếm (Lai Châu), đá vôi và nước khoáng. Khoáng sản được khai thác cung cấp nguyên liệu cho công nghiệp sản xuất điện và các ngành công nghiệp khác với sản phẩm chế biến nổi bật là xi măng, phân bón.
 - **Bối cảnh:** Địa lí lớp 12, Bài 23 (Mục II.1): thế mạnh tài nguyên và hiện trạng công nghiệp khai khoáng, chế biến khoáng sản của vùng Trung du và miền núi Bắc Bộ.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B23 (Mục II.1.a), tr. 97; SGK Địa lí 12 KNTT, Phần 4, B23 (Mục II.1.b), tr. 98, 99
+
+### mineral resources
+- **Tiếng Việt:** Khoáng sản
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Useful natural minerals and mineral substances found within the Earth's crust that humans can extract for production and daily life. Most mineral resources occur in a solid state, with only a few in liquid or gaseous states.
+- **Giải thích (VI):** Những khoáng vật và khoáng chất có ích trong tự nhiên nằm trong vỏ Trái Đất mà con người có thể khai thác để phục vụ sản xuất và đời sống. Đa số khoáng sản tồn tại ở trạng thái rắn, chỉ có một số ít ở trạng thái lỏng hoặc trạng thái khí.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 2): khái niệm, trạng thái tồn tại và phân loại tài nguyên khoáng sản.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13, tr. 135; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2), tr. 137; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192
 
 ### mineral resources of Latin America
 - **Tiếng Việt:** Khoáng sản khu vực Mỹ La-tinh
@@ -2884,6 +3620,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nguồn tài nguyên khoáng sản phong phú có trữ lượng hàng đầu thế giới của Hoa Kỳ, bao gồm nhóm năng lượng (than đá, dầu mỏ, khí tự nhiên) ở đông bắc và ven vịnh Mê-hi-cô, kim loại đen (sắt, crôm, mô-líp-đen) ở phía nam Ngũ Hồ, kim loại màu (đồng, vàng, chì – kẽm) chủ yếu ở phía tây và phi kim loại (phốt phát) ở phía tây, đông nam. Nguồn khoáng sản này là cơ sở nguyên liệu quan trọng để phát triển ngành công nghiệp khai thác và chế biến khoáng sản.
 - **Bối cảnh:** Địa lí lớp 11, Bài 18 (Mục II.5): Cơ cấu, phân bố và vai trò của tài nguyên khoáng sản đối với công nghiệp Hoa Kỳ.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B18 (Mục II.3), tr. 84; SGK Địa lí 11 KNTT, Phần hai, B18 (Mục II.4), tr. 84; SGK Địa lí 11 KNTT, Phần hai, B18 (Mục II.5), tr. 84
+
+### mineral water
+- **Tiếng Việt:** Nước khoáng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A liquid mineral resource consisting of natural waters containing mineral substances, which can be used for medical treatment or human health enhancement.
+- **Giải thích (VI):** Loại khoáng sản ở trạng thái lỏng gồm những nguồn nước tự nhiên có chứa các chất khoáng, có thể dùng để chữa bệnh hoặc tăng cường sức khoẻ cho con người.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 2): ví dụ tiêu biểu về khoáng sản tồn tại ở trạng thái lỏng.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2), tr. 137
 
 ### minerals of China
 - **Tiếng Việt:** Khoáng sản Trung Quốc
@@ -2933,6 +3677,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 23 (Mục II.1): minh hoạ sự tương phản giữa địa hình núi cao và đồng bằng ven biển ở Nhật Bản.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B23 (Mục II.1), tr. 116; SGK Địa lí 11 KNTT, Phần hai, B23 (Mục II.2), tr. 116; SGK Địa lí 11 KNTT, Phần hai, B23 (Mục II.3), tr. 116
 
+### mountain
+- **Tiếng Việt:** Núi
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A landform rising prominently above the surrounding terrain with an elevation of 500 m or more above sea level. Mountains are typically characterized by sharp peaks and steep slopes.
+- **Giải thích (VI):** Dạng địa hình nhô cao rõ rệt so với mặt bằng xung quanh, có độ cao từ 500 m trở lên so với mực nước biển. Núi thường có đặc điểm hình thái là đỉnh nhọn và sườn dốc.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 1): nhận biết đặc điểm hình thái và độ cao của núi để phân biệt với đồi, cao nguyên.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13, tr. 135; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 1), tr. 135; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 1), tr. 135, 136
+
 ### mountain and plateau topography of Southwest Asia
 - **Tiếng Việt:** Địa hình núi và sơn nguyên Tây Nam Á
 - **Chuyên ngành gốc:** Địa lí
@@ -2940,6 +3692,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bộ phận địa hình chiếm diện tích lớn ở Tây Nam Á gồm các dãy núi cao (Cáp-ca, Hin-đu Cúc), các sơn nguyên rộng (I-ran, A-na-tô-li, A-ráp) và các thung lũng xen giữa. Địa hình bị chia cắt, hiểm trở gây trở ngại cho giao thông, trồng trọt và cư trú, song có lớp đất nâu đỏ xa van chủ yếu thuận lợi để phát triển chăn nuôi gia súc.
 - **Bối cảnh:** Địa lí lớp 11, Bài 15 (Mục II.1): Phân tích đặc điểm địa hình, đất đai miền núi, sơn nguyên và ảnh hưởng đến kinh tế – cư trú ở Tây Nam Á.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.1), tr. 68
+
+### mountain building
+- **Tiếng Việt:** Hiện tượng tạo núi
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The process of mountain formation and transformation along tectonic plate boundaries when rock layers are compressed and folded upward, or fractured so that molten material erupts to form volcanoes. Alongside uplift driven by endogenic processes, mountains simultaneously undergo destruction and erosion by exogenic processes.
+- **Giải thích (VI):** Quá trình hình thành và biến đổi núi ở đới tiếp giáp của các địa mảng khi đất đá bị dồn ép, uốn nếp nâng cao hoặc bị đứt gãy làm vật chất nóng chảy phun trào tạo thành núi lửa. Song song với quá trình nâng cao do nội sinh, địa hình núi đồng thời chịu tác động phá huỷ, bào mòn của ngoại sinh.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 11 (Mục 2): sự tác động đồng thời của quá trình nội sinh và ngoại sinh trong hình thành, biến đổi núi.
+  - *Lưu ý:* Covers both compressional folding and volcanic mountain formation along tectonic plate boundaries, alongside exogenic erosion (related to orogeny).
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 132
 
 ### multinational corporation
 - **Tiếng Việt:** Công ty đa quốc gia
@@ -2970,6 +3732,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 23 (Mục 2, 3): nhóm nhân tố môi trường tự nhiên ảnh hưởng tới sản xuất nông, lâm nghiệp, thuỷ sản và công nghiệp.
 - **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 2), tr. 67; SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 3), tr. 68
 
+### natural disaster
+- **Tiếng Việt:** Thiên tai
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A sudden, violent natural event (such as an earthquake, volcanic eruption, tsunami, or storm) that adversely affects natural conditions and the environment on Earth and causes catastrophe to human life.
+- **Giải thích (VI):** Sự biến động đột ngột, dữ dội của tự nhiên (như động đất, núi lửa, sóng thần, bão) tác động xấu đến điều kiện tự nhiên, môi trường trên Trái Đất và gây thảm hoạ cho đời sống con người.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 17 (Mục 3.b): nhận diện các hiểm hoạ tự nhiên gia tăng về tần suất và mức độ khốc liệt do biến đổi khí hậu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.b), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.b), tr. 152
+
+### natural disaster prevention and response
+- **Tiếng Việt:** Phòng tránh thiên tai
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A set of measures to minimize damage from natural disasters across three stages: proactive prevention beforehand (reinforcing houses, evacuating people and property), timely monitoring and safety response during the event, and rapid post-disaster recovery, sanitation, and disease prevention.
+- **Giải thích (VI):** Tổng hợp các biện pháp giảm thiểu thiệt hại do thiên tai theo ba giai đoạn: chủ động phòng ngừa trước thiên tai (gia cố nhà cửa, sơ tán người và tài sản), theo dõi và ứng phó bảo đảm an toàn khi thiên tai xảy ra, và nhanh chóng khắc phục hậu quả, vệ sinh phòng chống dịch bệnh sau thiên tai.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 17 (Mục 3.b): rèn luyện kĩ năng hành động ở ba giai đoạn trước, trong và sau khi thiên tai xảy ra.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.a), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.b), tr. 151, 152
+
 ### natural environment
 - **Tiếng Việt:** Môi trường tự nhiên
 - **Chuyên ngành gốc:** Địa lí
@@ -2991,8 +3769,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** All material values existing in nature that humans can extract, process, and utilize to serve life. Natural resources are highly diverse, unevenly distributed across space, typically formed over long development processes for those of high economic value, and most commonly classified by their regenerative capacity relative to human consumption rates.
 - **Giải thích (VI):** Toàn bộ giá trị vật chất có trong tự nhiên mà con người có thể khai thác, chế biến và sử dụng để phục vụ cuộc sống. Tài nguyên thiên nhiên rất đa dạng, phân bố không đồng đều trong không gian, thường hình thành qua quá trình phát triển lâu dài đối với các loại có giá trị kinh tế cao và thông dụng nhất là phân loại dựa vào khả năng tái sinh so với tốc độ tiêu thụ của con người.
-- **Bối cảnh:** Địa lí lớp 10, Bài 39 (Mục 2.a): Trình bày khái niệm, đặc điểm phân bố và tiêu chí phân loại tài nguyên thiên nhiên.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B39, tr. 108; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.b), tr. 109; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 2.a), tr. 109
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: All material values existing in nature that humans can extract and utilize for production and daily life. / VI: Toàn bộ các giá trị vật chất sẵn có trong tự nhiên mà con người có thể khai thác và sử dụng để phục vụ cho sản xuất và đời sống.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 39 (Mục 2.a): Trình bày khái niệm, đặc điểm phân bố và tiêu chí phân loại tài nguyên thiên nhiên.
+  - Lịch sử và Địa lí lớp 6, Bài 28 (Mục 1.b, 2): Nhận diện các thành phần tự nhiên được con người khai thác và đặt ra yêu cầu sử dụng tiết kiệm, hợp lí.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B39, tr. 108; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.b), tr. 109; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 2.a), tr. 109; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 1.b), tr. 185
 
 ### natural resources of the Bien Dong Sea
 - **Tiếng Việt:** Tài nguyên thiên nhiên của Biển Đông
@@ -3001,6 +3782,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nguồn lợi tự nhiên đa dạng và có trữ lượng lớn của khu vực Biển Đông, bao gồm tài nguyên sinh vật biển dồi dào, khoáng sản (ti-tan, thiếc, chì, kẽm,...) và một trong những bồn trũng chứa dầu khí lớn nhất thế giới. Nguồn tài nguyên này mang lại giá trị to lớn cho nghiên cứu khoa học, đời sống dân sinh và phát triển kinh tế – xã hội của các nước trong khu vực.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 12 (Mục 2.c): Đánh giá tiềm năng sinh vật và khoáng sản biển làm gia tăng giá trị kinh tế – chiến lược của Biển Đông.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 06, B12 (Mục 2.b), tr. 76; SGK Lịch sử 11 KNTT, Chủ đề 06, B12 (Mục 2.c), tr. 76; SGK Lịch sử 11 KNTT, Chủ đề 06, B12 (Mục 2.c), tr. 76, 77
+
+### natural zone
+- **Tiếng Việt:** Đới thiên nhiên
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A broad latitudinal belt on Earth formed in correspondence with a climate zone, characterized by distinctive climate, soil, and biotic conditions. Earth comprises five natural zones: one tropical zone, two temperate zones, and two polar zones.
+- **Giải thích (VI):** Vành đai tự nhiên rộng lớn trên Trái Đất hình thành tương ứng với từng đới khí hậu, có sự thống nhất về điều kiện khí hậu, đất đai và giới sinh vật. Trên Trái Đất có năm đới thiên nhiên gồm một đới nóng, hai đới ôn hoà và hai đới lạnh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 25 (Mục Mở đầu): Khái quát sự phân hoá tổng hợp của thiên nhiên trên Trái Đất theo vĩ độ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25, tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 1), tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 2), tr. 175
+
+### nature conservation
+- **Tiếng Việt:** Bảo vệ tự nhiên
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Activities aimed at preserving biodiversity and preventing environmental pollution and degradation in order to maintain a clean living space for human existence and support socioeconomic development.
+- **Giải thích (VI):** Hoạt động giữ gìn sự đa dạng sinh học và ngăn chặn ô nhiễm, suy thoái môi trường tự nhiên nhằm duy trì không gian sống trong lành cho sự tồn tại của con người và tạo điều kiện thuận lợi để phát triển kinh tế – xã hội.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 29 (Mục 2): Giải thích ý nghĩa thiết thực của việc gìn giữ thiên nhiên đối với đời sống và phát triển bền vững.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29, tr. 187; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29 (Mục 1), tr. 187; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29 (Mục 2), tr. 187
+
+### neap tide
+- **Tiếng Việt:** Triều kém
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The tide with the smallest rise and fall of sea level during a month, occurring twice monthly around the days of the quarter moons.
+- **Giải thích (VI):** Hiện tượng thuỷ triều lên, xuống với mức độ nhỏ nhất trong tháng, xảy ra hai lần mỗi tháng vào các ngày trăng khuyết.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 21 (Mục 3.b): phân biệt thời điểm dao động thuỷ triều nhỏ nhất trong tháng với triều cường.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.b), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165, 166
 
 ### necessity of sustainable development
 - **Tiếng Việt:** Sự cần thiết phải phát triển bền vững
@@ -3017,6 +3822,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Những hệ luỵ kinh tế – xã hội và môi trường phát sinh khi quá trình đô thị hoá diễn ra tự phát, không theo quy hoạch. Biểu hiện chủ yếu là gây sức ép giải quyết việc làm, quá tải về cơ sở hạ tầng và cơ sở vật chất kĩ thuật, nảy sinh các vấn đề an ninh xã hội và ô nhiễm môi trường.
 - **Bối cảnh:** Địa lí lớp 12, Bài 8 (Mục III.2): Phân tích tác động tiêu cực khi đô thị hoá diễn ra tự phát, không theo quy hoạch.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 2, B8 (Mục II), tr. 43; SGK Địa lí 12 KNTT, Phần 2, B8 (Mục III.1), tr. 43; SGK Địa lí 12 KNTT, Phần 2, B8 (Mục III.2), tr. 43
+
+### non-metallic minerals
+- **Tiếng Việt:** Khoáng sản phi kim loại
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A group of mineral formations neither smelted into metals or alloys nor used as fuel. Typical examples such as rock salt, quartz, and limestone are commonly used as raw materials for producing fertilizers, ceramics, and building materials.
+- **Giải thích (VI):** Nhóm thành tạo khoáng vật không dùng để luyện ra kim loại, hợp kim và không dùng làm chất đốt. Các khoáng sản tiêu biểu như muối mỏ, thạch anh, đá vôi thường dùng làm nguyên liệu sản xuất phân bón, gốm sứ và vật liệu xây dựng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 2): phân biệt nhóm khoáng sản phi kim loại với khoáng sản năng lượng và khoáng sản kim loại.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2), tr. 137; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193
 
 ### non-renewable resources
 - **Tiếng Việt:** Tài nguyên không thể tái tạo
@@ -3068,6 +3881,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 24 (Mục II.2.a): Thế mạnh về thu hút vốn đầu tư thúc đẩy phát triển kinh tế – xã hội ở vùng Đồng bằng sông Hồng.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B24 (Mục II.2.a), tr. 106; SGK Địa lí 12 KNTT, Phần 4, B24 (Mục II.2.b), tr. 106; SGK Địa lí 12 KNTT, Phần 4, B24 (Mục III.1), tr. 106
 
+### Northern Hemisphere
+- **Tiếng Việt:** Bán cầu Bắc
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The half of the terrestrial globe located north of the Equator (0°) extending to the North Pole.
+- **Giải thích (VI):** Nửa bề mặt quả Địa Cầu nằm ở phía bắc đường Xích đạo (0°) kéo dài đến cực Bắc.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 1 (Mục 1): xác định nửa cầu từ Xích đạo đến cực Bắc và phân tích các hệ quả chuyển động của Trái Đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1, tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
+
 ### Northern Hemisphere trade winds
 - **Tiếng Việt:** Tín phong bán cầu Bắc
 - **Chuyên ngành gốc:** Địa lí
@@ -3110,6 +3931,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 3 (Mục II.2): Trình bày phạm vi ranh giới và đặc điểm tự nhiên nổi bật của miền Tây Bắc và Bắc Trung Bộ.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B3 (Mục II.1), tr. 22; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục II.2), tr. 22; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục II.2), tr. 22, 23
 
+### numerical scale
+- **Tiếng Việt:** Tỉ lệ số
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A form of map scale expressed as a fraction whose numerator is always 1 and whose denominator indicates how many times real-world distances are reduced; the larger the denominator, the smaller the map scale, and vice versa.
+- **Giải thích (VI):** Dạng biểu hiện tỉ lệ bản đồ bằng một phân số luôn có tử số là 1 và mẫu số thể hiện số lần thu nhỏ khoảng cách so với thực tế; mẫu số càng lớn thì tỉ lệ bản đồ càng nhỏ và ngược lại.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 3 (Mục 1): đọc phân số tỉ lệ (ví dụ 1 : 1 000 000) để quy đổi độ dài trên bản đồ ra khoảng cách thực tế.
+  - *Lưu ý:* Phân biệt với tỉ lệ thước (graphic scale) là dạng thước đo vạch sẵn độ dài thực tế trực tiếp trên bản đồ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3, tr. 106; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1), tr. 106; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2), tr. 106
+
 ### objectives of ASEAN
 - **Tiếng Việt:** Mục tiêu của ASEAN
 - **Chuyên ngành gốc:** Địa lí
@@ -3131,8 +3962,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Streams of water flowing within seas and oceans, generated primarily by prevailing winds or differences in temperature and salinity between marine regions. Ocean currents redistribute heat across Earth's surface, moderate climate, and concentrate abundant marine resources where warm and cold currents meet.
 - **Giải thích (VI):** Các dòng nước chảy trong biển và đại dương, sinh ra chủ yếu do các loại gió thường xuyên hoặc sự chênh lệch nhiệt độ, độ muối giữa các vùng biển khác nhau. Dòng biển giúp phân bố lại nhiệt trên bề mặt Trái Đất, điều hoà khí hậu và tạo nguồn hải sản tập trung rất lớn tại nơi dòng biển nóng và dòng biển lạnh giao nhau.
-- **Bối cảnh:** Địa lí lớp 10, Bài 12 (Mục 2.c): Định nghĩa dòng biển, giải thích nguyên nhân hình thành và vai trò đối với khí hậu, sinh vật biển.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B12, tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.a), tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.b), tr. 41
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: Streams of water flowing within seas and oceans similar to rivers on continents, formed mainly under the influence of prevailing winds on the Earth's surface. Ocean currents consist of two types: warm ocean currents and cold ocean currents. / VI: Các dòng nước chảy trong biển và đại dương tương tự các dòng sông trên lục địa, hình thành chủ yếu do tác động của các loại gió thường xuyên trên bề mặt Trái Đất. Dòng biển gồm hai loại là dòng biển nóng và dòng biển lạnh.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 12 (Mục 2.c): Định nghĩa dòng biển, giải thích nguyên nhân hình thành và vai trò đối với khí hậu, sinh vật biển.
+  - Lịch sử và Địa lí lớp 6, Bài 21 (Mục 3.c): Nhận diện một dạng vận động của nước biển và đại dương bên cạnh sóng biển và thuỷ triều.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B12, tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.a), tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.b), tr. 41; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.b), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165, 166
 
 ### oceanic crust
 - **Tiếng Việt:** Vỏ đại dương
@@ -3166,6 +4000,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 16 (Mục I.2): đặc điểm công nghệ, tình hình phát triển và phân bố ngành dầu khí ở Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B16 (Mục I.2), tr. 71
 
+### old mountain region
+- **Tiếng Việt:** Vùng núi già
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A mountain region formed hundreds of millions of years ago, where exogenic processes outweigh endogenic processes so the terrain undergoes strong erosion.
+- **Giải thích (VI):** Vùng núi hình thành cách đây hàng trăm triệu năm, nơi tác động của quá trình ngoại sinh mạnh hơn quá trình nội sinh nên địa hình bị bào mòn mạnh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 11 (Mục 2): phân biệt đặc điểm bào mòn địa hình của vùng núi già với vùng núi trẻ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 132
+
 ### one-child policy
 - **Tiếng Việt:** Chính sách Một con
 - **Chuyên ngành gốc:** Địa lí
@@ -3198,13 +4040,34 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 4 (Mục 1): Trình bày giả thuyết khoa học về quá trình ngưng tụ vật chất và phân lớp tạo nên Trái Đất.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B4, tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 1), tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 15
 
+### ozone layer
+- **Tiếng Việt:** Lớp ô-dôn
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A gaseous layer located within the stratosphere of the atmosphere that absorbs most ultraviolet radiation to protect life on Earth.
+- **Giải thích (VI):** Lớp khí nằm trong tầng bình lưu của khí quyển, có chức năng hấp thụ phần lớn bức xạ cực tím nhằm bảo vệ sự sống trên Trái Đất.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 2): vai trò bảo vệ sự sống trên Trái Đất của tầng bình lưu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 143
+
+### parallel
+- **Tiếng Việt:** Vĩ tuyến
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A circle surrounding the terrestrial globe perpendicular to the meridians, decreasing in circumference from the Equator toward the two poles.
+- **Giải thích (VI):** Vòng tròn bao quanh quả Địa Cầu và vuông góc với các đường kinh tuyến, có độ dài nhỏ dần từ Xích đạo về phía hai cực.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 1 (Mục 1): nhận diện các vòng tròn bao quanh quả Địa Cầu và xác định hướng đông – tây.
+  - *Lưu ý:* Phân biệt với vĩ độ (latitude) là khoảng cách tính bằng độ từ Xích đạo đến vĩ tuyến đi qua một điểm.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1, tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 103
+
 ### parent material
 - **Tiếng Việt:** Đá mẹ
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The weathered horizon overlying bedrock that acts as the initial factor in soil formation, influencing the physical and chemical properties of soil through its color, structure, and mineral composition. Acidic parent materials (such as granite and quartz) produce acidic soils, whereas alkaline parent materials (such as gabbro and basalt) produce alkaline soils.
 - **Giải thích (VI):** Tầng vật chất phong hoá nằm trên tầng đá gốc và là nhân tố khởi đầu của quá trình hình thành đất, tác động đến tính chất lí, hoá của đất thông qua màu sắc, cấu tạo và thành phần khoáng. Đá mẹ có tính chất chua (như granit, thạch anh) tạo nên đất chua, còn đá mẹ có tính kiềm (như gabrô, badan) tạo nên đất kiềm.
-- **Bối cảnh:** Địa lí lớp 10, Bài 14 (Mục 1, 2): Xác định vị trí tầng đá mẹ trong phẫu diện và giải thích vai trò của đá mẹ đối với tính chất lí, hoá của đất.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B14 (Mục 1), tr. 45; SGK Địa lí 10 KNTT, Phần hai, B14 (Mục 2), tr. 46
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The weathered product of bedrock that serves as the source of mineral components in soil, directly governing the soil's physicochemical properties and color. / VI: Sản phẩm phong hoá của đá gốc đóng vai trò là nguồn sinh ra thành phần khoáng vật trong đất, trực tiếp chi phối các tính chất lí hoá và màu sắc của đất.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 14 (Mục 1, 2): Xác định vị trí tầng đá mẹ trong phẫu diện và giải thích vai trò của đá mẹ đối với tính chất lí, hoá của đất.
+  - Lịch sử và Địa lí lớp 6, Bài 22 (Mục 3): Nhân tố cung cấp chất khoáng và tạo tầng nền dưới cùng của phẫu diện đất.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B14 (Mục 1), tr. 45; SGK Địa lí 10 KNTT, Phần hai, B14 (Mục 2), tr. 46; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 3), tr. 169; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 4), tr. 169; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 4), tr. 169, 170
 
 ### peace
 - **Tiếng Việt:** Hoà bình
@@ -3222,6 +4085,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 28 (Mục II.1.b): Hiện trạng phát triển và phân bố vùng chuyên canh cây công nghiệp lâu năm ở Tây Nguyên.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B28 (Mục II.1.a), tr. 128; SGK Địa lí 12 KNTT, Phần 4, B28 (Mục II.1.b), tr. 128; SGK Địa lí 12 KNTT, Phần 4, B28 (Mục II.1.b), tr. 128, 129
 
+### phase transitions of water
+- **Tiếng Việt:** Các quá trình chuyển trạng thái của nước
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Physical transformations among the states of water in nature, including evaporation (liquid to vapor), condensation (vapor to liquid), melting (solid to liquid), and freezing (liquid to solid).
+- **Giải thích (VI):** Sự biến đổi vật lí giữa các thể của nước trong tự nhiên, gồm quá trình bốc hơi (lỏng sang hơi), ngưng tụ (hơi sang lỏng), tan chảy (rắn sang lỏng) và đông đặc (lỏng sang rắn).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 19 (Mục 2): giải thích cơ chế vật lí giúp nước luân chuyển trong vòng tuần hoàn của nước.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B19 (Mục 2), tr. 157
+
 ### physical weathering
 - **Tiếng Việt:** Phong hoá vật lí
 - **Chuyên ngành gốc:** Địa lí
@@ -3229,6 +4100,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hình thức phong hoá làm thay đổi kích thước nhưng không làm thay đổi thành phần hoá học của đá, xảy ra do sự thay đổi đột ngột của nhiệt độ, sự đóng băng của nước và các tác nhân cơ học tương tự.
 - **Bối cảnh:** Địa lí lớp 10, Bài 7 (Mục 2.b): Phân biệt cơ chế phá huỷ cơ học của phong hoá vật lí với phong hoá hoá học và sinh học.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 2.a), tr. 25; SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 2.b), tr. 25; SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 2.b), tr. 25, 26
+
+### plain
+- **Tiếng Việt:** Đồng bằng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A low-lying landform with a fairly flat or slightly undulating surface that can span millions of square kilometers. Most plains have an elevation of less than 200 m above sea level.
+- **Giải thích (VI):** Dạng địa hình thấp có bề mặt khá bằng phẳng hoặc hơi gợn sóng, diện tích có thể rộng tới hàng triệu km². Hầu hết các đồng bằng có độ cao dưới 200 m so với mực nước biển.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 1): nhận biết đặc điểm đồng bằng và phân biệt với cao nguyên.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 1), tr. 136
 
 ### plain topography of Southwest Asia
 - **Tiếng Việt:** Địa hình đồng bằng Tây Nam Á
@@ -3238,31 +4117,93 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 15 (Mục II.1): Đối sánh điều kiện tự nhiên thuận lợi của vùng đồng bằng với vùng núi, sơn nguyên và hoang mạc ở Tây Nam Á.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.1), tr. 68, 69
 
+### planet in the Solar System
+- **Tiếng Việt:** Hành tinh trong hệ Mặt Trời
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A non-self-luminous celestial body in the Solar System whose visible light comes from reflecting sunlight while rotating on its axis and revolving around the Sun.
+- **Giải thích (VI):** Thiên thể trong hệ Mặt Trời không tự phát sáng mà phản chiếu ánh sáng mặt trời, vừa tự quay quanh mình vừa chuyển động xung quanh Mặt Trời.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 6 (Mục 1): phân biệt bản chất tự phát sáng của ngôi sao Mặt Trời với sự phản chiếu ánh sáng của các hành tinh.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B6, tr. 116; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1), tr. 116
+
+### plateau
+- **Tiếng Việt:** Cao nguyên
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A relatively large expanse of land with a fairly flat or undulating surface, typically rising more than 500 m above sea level. It features steep slopes that often drop off as sheer cliffs relative to the surrounding land.
+- **Giải thích (VI):** Vùng đất có diện tích khá lớn với bề mặt tương đối bằng phẳng hoặc gợn sóng, thường cao trên 500 m so với mực nước biển. Địa hình này có sườn dốc, nhiều nơi dựng đứng thành vách so với vùng đất xung quanh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 1): nhận biết đặc điểm cao nguyên và phân biệt với đồng bằng, núi.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 1), tr. 135; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 1), tr. 136; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192
+
+### podzol soil
+- **Tiếng Việt:** Đất pốt dôn
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A major soil group widely distributed in cold temperate regions beneath coniferous forests, characterized by high acidity, low humus content, and poor nutrients.
+- **Giải thích (VI):** Nhóm đất điển hình phân bố rộng ở vùng ôn đới lạnh dưới thảm rừng lá kim, có đặc tính chua, nghèo mùn và ít chất dinh dưỡng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 22 (Mục 4): Phân biệt đặc điểm và vùng phân bố của nhóm đất vùng ôn đới lạnh với đất đen thảo nguyên ôn đới và đất đỏ vàng nhiệt đới.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 3), tr. 169; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 4), tr. 169; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 4), tr. 169, 170
+
+### polar circle
+- **Tiếng Việt:** Vòng cực
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A special parallel located at latitude 66°33' on the terrestrial globe, comprising the Arctic Circle (66°33'N) in the Northern Hemisphere and the Antarctic Circle (66°33'S) in the Southern Hemisphere.
+- **Giải thích (VI):** Đường vĩ tuyến đặc biệt nằm ở vĩ độ 66°33' trên quả Địa Cầu, gồm vòng cực Bắc (66°33'B) ở bán cầu Bắc và vòng cực Nam (66°33'N) ở bán cầu Nam.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 1 (Mục 1): nhận diện hai đường vĩ tuyến đặc biệt ở vĩ độ 66°33' Bắc và 66°33' Nam trên quả Địa Cầu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1, tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 102
+
 ### polar easterlies
 - **Tiếng Việt:** Gió Đông cực
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Prevailing winds that blow from the polar high-pressure zones toward the subpolar low-pressure belts, moving from the northeast in the Northern Hemisphere and from the southeast in the Southern Hemisphere. These winds are characterized by extremely cold and dry air.
 - **Giải thích (VI):** Đới gió thổi từ vùng áp cao cực về đai áp thấp ôn đới theo hướng đông bắc ở bán cầu Bắc và hướng đông nam ở bán cầu Nam. Loại gió này mang tính chất rất lạnh và khô.
-- **Bối cảnh:** Địa lí lớp 10, Bài 9 (Mục 3.b): Trình bày phạm vi hoạt động, hướng thổi và tính chất rất lạnh, khô của gió Đông cực.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.a), tr. 31; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32, 33
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: Prevailing winds that blow regularly from the polar high-pressure belts to the temperate low-pressure belts on Earth, typically dry and cold. / VI: Loại gió thổi thường xuyên từ đai áp cao cực về đai áp thấp ôn đới trên Trái Đất, thường khô và lạnh.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 9 (Mục 3.b): Trình bày phạm vi hoạt động, hướng thổi và tính chất rất lạnh, khô của gió Đông cực.
+  - Lịch sử và Địa lí lớp 6, Bài 15 (Mục 5): phân biệt các loại gió thổi thường xuyên giữa các đai khí áp trên Trái Đất.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.a), tr. 31; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32, 33; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 5), tr. 145
+
+### polar zone
+- **Tiếng Việt:** Đới lạnh (hàn đới)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A high-latitude climate zone in each hemisphere covered by ice and snow almost year-round, where mean temperatures of all months remain below 10°C. Mean annual precipitation is under 500 mm, with the polar easterlies as the prevailing winds.
+- **Giải thích (VI):** Đới khí hậu vùng cực ở mỗi bán cầu có băng tuyết bao phủ hầu như quanh năm và nhiệt độ trung bình của tất cả các tháng đều dưới 10°C. Lượng mưa trung bình năm dưới 500 mm, gió thổi thường xuyên là gió Đông cực.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The high-latitude natural zone around both poles covered in ice and snow, marked by an extremely harsh climate and thin tundra soil. Biota is limited to low-growing plants thriving during the brief summer (mosses, lichens, herbs) and cold-adapted animals such as polar bears and penguins. / VI: Đới thiên nhiên ở hai vùng cực có băng tuyết bao phủ với khí hậu vô cùng khắc nghiệt và tầng đất đài nguyên mỏng. Sinh vật chỉ gồm thực vật thấp lùn phát triển trong mùa hạ ngắn ngủi (rêu, địa y, cây thân thảo) và các loài động vật thích nghi được với giá lạnh như gấu trắng, chim cánh cụt.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 17 (Mục 2): trình bày đặc điểm khí hậu khắc nghiệt của hai đới lạnh vùng cực.
+  - Lịch sử và Địa lí lớp 6, Bài 25 (Mục 3): Trình bày điều kiện tự nhiên khắc nghiệt và sự thích nghi của sinh vật ở hai đới thiên nhiên vùng cực.
+  - *Lưu ý:* Trong Bài 25, thuật ngữ chỉ đới thiên nhiên lạnh (tổng hợp băng tuyết, đất đài nguyên và sinh vật vùng cực), phân biệt với đới khí hậu lạnh (hàn đới) chỉ xét yếu tố khí hậu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.a), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.b), tr. 151, 152; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25, tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 1), tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 2), tr. 175
+
+### Polaris
+- **Tiếng Việt:** Sao Bắc Cực
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A star in the night sky of the Northern Hemisphere used to determine north in the field when sighted. Its position can be located by relying on constellations such as Ursa Major and Cassiopeia.
+- **Giải thích (VI):** Ngôi sao trên bầu trời đêm ở bán cầu Bắc giúp xác định hướng bắc ngoài thực tế khi quan sát thấy. Vị trí của sao Bắc Cực có thể tìm được bằng cách dựa vào các chòm sao như Đại Hùng, Thiên Hậu.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 9 (Mục 2): cách xác định hướng bắc vào ban đêm ở bán cầu Bắc dựa vào các chòm sao.
+  - *Lưu ý:* Also commonly known as the North Star; used in geography for night-time orientation in the Northern Hemisphere.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B9 (Mục 2), tr. 127
 
 ### population density (geography)
 - **Tiếng Việt:** Mật độ dân số
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** An indicator measuring the degree of population concentration within a territory, expressed as the average number of inhabitants per unit of land area (persons/km²). On the 2020 world map, national densities range widely from under 10 persons/km² in vast sparsely settled countries such as Russia, Canada, and Australia to over 200 persons/km² in India, Japan, and Vietnam.
 - **Giải thích (VI):** Chỉ tiêu phản ánh mức độ tập trung dân cư trên một lãnh thổ, đo bằng số dân trung bình sinh sống trên một đơn vị diện tích (người/km²). Trên bản đồ thế giới năm 2020, mật độ dân số phân hoá mạnh từ dưới 10 người/km² ở các nước rộng lớn thưa dân như Liên bang Nga, Ca-na-đa, Ô-xtrây-li-a đến trên 200 người/km² ở Ấn Độ, Nhật Bản, Việt Nam.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: An indicator measuring the degree of population concentration in an area, calculated by dividing the total population by the land area and expressed in persons per square kilometer (persons/km²). / VI: Chỉ tiêu phản ánh mức độ tập trung dân cư của một khu vực, xác định bằng thương số giữa tổng số dân và diện tích của khu vực đó, tính bằng đơn vị người/km².
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 20 (Mục 1.a): Khai thác bản đồ mật độ dân số các nước trên thế giới năm 2020.
+  - Lịch sử và Địa lí lớp 6, Bài 27 (Mục 2): Công cụ định lượng để nhận xét và so sánh mức độ đông đúc hay thưa thớt dân cư trên bản đồ.
   - *Lưu ý:* Không nhầm với 'Mật độ cá thể' (`population density`) trong Sinh học.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.a), tr. 60
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.a), tr. 60; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27, tr. 180; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 1), tr. 180; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 2), tr. 180
 
 ### population distribution
 - **Tiếng Việt:** Phân bố dân cư
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The spatial arrangement and concentration of inhabitants across geographic territories, governed by combined natural and socioeconomic factors. Globally, population distribution is highly uneven, with dense concentrations in South Asia, East Asia, Southeast Asia, and Western and Central Europe contrasted against sparsely populated regions such as North Asia and Oceania.
 - **Giải thích (VI):** Sự sắp xếp và mức độ tập trung dân số theo không gian lãnh thổ, mang tính quy luật dưới tác động tổng hợp của các điều kiện tự nhiên và kinh tế – xã hội. Trên thế giới, dân cư phân bố rất không đồng đều, tập trung đông đúc ở Nam Á, Đông Á, Đông Nam Á, Tây và Trung Âu nhưng rất thưa thớt ở Bắc Á và châu Đại Dương.
-- **Bối cảnh:** Địa lí lớp 10, Bài 20 (Mục 1.a): Trình bày thực trạng phân bố dân cư không đồng đều giữa các khu vực trên thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20, tr. 60; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.a), tr. 60
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The spatial arrangement and settlement pattern of a population across a territory in accordance with natural living conditions and socioeconomic requirements. / VI: Sự bố trí và sắp xếp dân số trong không gian trên một lãnh thổ nhất định, phù hợp với điều kiện sống tự nhiên và các yêu cầu phát triển kinh tế – xã hội.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 20 (Mục 1.a): Trình bày thực trạng phân bố dân cư không đồng đều giữa các khu vực trên thế giới.
+  - Lịch sử và Địa lí lớp 6, Bài 27 (Mục 2): Giải thích tình trạng dân cư thế giới tập trung đông hoặc thưa thớt khác nhau giữa các khu vực.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20, tr. 60; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.a), tr. 60; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27, tr. 180; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 2), tr. 180
 
 ### population distribution and urbanization in Southwest Asia
 - **Tiếng Việt:** Phân bố dân cư và đô thị hoá khu vực Tây Nam Á
@@ -3311,6 +4252,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hiện tượng gia tăng dân số vượt bậc về số lượng khi tỉ lệ sinh vẫn duy trì ở mức cao trong khi tỉ lệ tử giảm xuống rất thấp nhờ những tiến bộ về y tế và sự cải thiện điều kiện sinh hoạt. Trên phạm vi thế giới, hiện tượng này diễn ra mạnh mẽ từ khoảng giữa thế kỉ XX trước khi tốc độ tăng dân số dần chậm lại trong giai đoạn gần đây.
 - **Bối cảnh:** Địa lí lớp 10, Bài 19 (Mục 1): Giải thích hiện tượng dân số thế giới tăng rất nhanh từ giữa thế kỉ XX.
 - **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 1), tr. 55
+
+### population growth (geography)
+- **Tiếng Việt:** Gia tăng dân số
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The process by which the population size of a territory, country, or the entire world increases over a specified period of time (typically one year or longer).
+- **Giải thích (VI):** Quá trình biến đổi tăng thêm về quy mô dân số trên một lãnh thổ, một quốc gia hoặc toàn thế giới trong một khoảng thời gian nhất định (thường tính từ một năm trở lên).
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 27 (Mục Luyện tập và Vận dụng): Đánh giá tốc độ phát triển dân số và hệ quả đối với kinh tế, xã hội, môi trường.
+  - *Lưu ý:* Không nhầm với 'Tăng trưởng của quần thể' (`population growth`) trong Sinh học.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193
 
 ### population of Japan
 - **Tiếng Việt:** Dân cư Nhật Bản
@@ -3381,10 +4332,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The total number of inhabitants residing within a defined territory—such as the world, a continent, a region, or a country—at a specific point in time. Because populations fluctuate continuously, annual population size is commonly measured as the mid-year population or the arithmetic mean of the populations at the start and end of the year.
 - **Giải thích (VI):** Tổng số dân sinh sống trên một lãnh thổ nhất định như toàn thế giới, châu lục, khu vực hoặc quốc gia tại một thời điểm xác định. Do dân số biến động không ngừng nên quy mô dân số hằng năm thường tính theo số dân trung bình vào giữa năm hoặc trung bình cộng số dân đầu năm và cuối năm.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The total number of inhabitants living within a defined territory (such as the world, a continent, a region, a country, or a city) at a specific point in time. / VI: Tổng số dân sinh sống trên một lãnh thổ nhất định (toàn thế giới, châu lục, khu vực, quốc gia hoặc đô thị) tại một thời điểm xác định.
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 19 (Mục 1): Trình bày khái niệm và biến động quy mô dân số thế giới giai đoạn 1950 – 2050.
+  - Lịch sử và Địa lí lớp 6, Bài 27 (Mục 1, 3): Chỉ tiêu nhân khẩu học cơ bản để so sánh độ lớn dân số giữa các quốc gia, vùng lãnh thổ và đô thị.
   - *Lưu ý:* Không nhầm với 'Kích thước quần thể' (`population size`) trong Sinh học.
-- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 1), tr. 55
+- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 1), tr. 55; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 3), tr. 182
 
 ### population size and growth of China
 - **Tiếng Việt:** Quy mô và gia tăng dân số Trung Quốc
@@ -3544,6 +4497,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 17 (Mục 2.c): Vận dụng quy luật thống nhất và hoàn chỉnh vào khai thác, sử dụng và cải tạo tự nhiên.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 2), tr. 52
 
+### precipitation
+- **Tiếng Việt:** Lượng mưa
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The amount of water from the atmosphere falling to the Earth's surface at a given location over a specific period such as a day, month, or year, commonly measured in millimeters (mm).
+- **Giải thích (VI):** Lượng nước từ khí quyển rơi xuống mặt đất tại một địa điểm trong khoảng thời gian xác định như ngày, tháng hoặc năm, thường đo bằng đơn vị mi-li-mét (mm).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 16 (Mục 2.b): chỉ tiêu đo lường và phân tích sự phân bố mưa trên Trái Đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
+
+### pressure belts
+- **Tiếng Việt:** Các đai khí áp
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Alternating zones of high and low atmospheric pressure distributed across the Earth's surface from the Equator toward both poles. Because continents and oceans are interspersed, these pressure belts are not continuous but broken into separate pressure cells.
+- **Giải thích (VI):** Các dải áp cao và áp thấp phân bố xen kẽ trên bề mặt Trái Đất từ Xích đạo về hai cực. Do sự phân bố xen kẽ giữa lục địa và đại dương, các đai khí áp không kéo dài liên tục mà bị chia cắt thành từng khu khí áp riêng biệt.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 4): quy luật phân bố các đai áp cao, áp thấp ở hai bán cầu trên Trái Đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 4), tr. 144
+
+### Prime Meridian
+- **Tiếng Việt:** Kinh tuyến gốc
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The meridian designated as 0° passing through the Royal Observatory in Greenwich on the outskirts of London (United Kingdom), serving as the reference line for determining east and west meridians.
+- **Giải thích (VI):** Đường kinh tuyến mang số độ 0° đi qua Đài thiên văn Grin-uých ở ngoại ô thành phố Luân Đôn (nước Anh), dùng làm mốc quy ước để xác định các kinh tuyến đông và kinh tuyến tây.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 1 (Mục 1): mốc quy ước 0° để đánh số các kinh tuyến đông, kinh tuyến tây và tính kinh độ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1, tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 103
+
 ### public services
 - **Tiếng Việt:** Dịch vụ công
 - **Chuyên ngành gốc:** Địa lí
@@ -3610,13 +4587,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 19 (Mục III): Đặc điểm nổi bật và trung tâm kinh tế của bốn vùng kinh tế ở Hoa Kỳ.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B19 (Mục III), tr. 95; SGK Địa lí 11 KNTT, Phần hai, B19 (Mục III), tr. 95, 96; SGK Địa lí 11 KNTT, Phần hai, B19 (Mục III), tr. 96
 
-### renewable energy
-- **Tiếng Việt:** Năng lượng tái tạo
+### relative elevation
+- **Tiếng Việt:** Độ cao tương đối
 - **Chuyên ngành gốc:** Địa lí
-- **Giải thích (EN):** A group of naturally replenishable energy sources including hydropower, wind power, solar radiation, geothermal heat, and biofuels. Developing these energy sources ensures energy supply for industrial production, secures national energy security, reduces greenhouse gas emissions, and mitigates climate change.
-- **Giải thích (VI):** Nhóm các nguồn năng lượng có khả năng tái tạo tự nhiên như sức nước, sức gió, ánh sáng mặt trời, địa nhiệt và nhiên liệu sinh học. Việc phát triển nhóm năng lượng này giúp cung cấp năng lượng cho sản xuất công nghiệp, bảo đảm an ninh năng lượng quốc gia, giảm phát thải khí nhà kính và giảm nhẹ biến đổi khí hậu.
-- **Bối cảnh:** Địa lí lớp 10, Bài 31 (Mục 2): trình bày các nguồn năng lượng tái tạo và vai trò thay thế nhiên liệu hoá thạch.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 1), tr. 88; SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 2), tr. 89
+- **Giải thích (EN):** The vertical distance measured from a higher location to another lower location.
+- **Giải thích (VI):** Khoảng cách đo theo chiều thẳng đứng từ một địa điểm ở trên cao so với một địa điểm khác ở dưới thấp.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 1): xác định chênh lệch độ cao giữa hai địa điểm và phân biệt với độ cao tuyệt đối.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 1), tr. 136
 
 ### renewable resources
 - **Tiếng Việt:** Tài nguyên có thể tái tạo
@@ -3643,20 +4620,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B38 (Mục 1), tr. 107; SGK Địa lí 10 KNTT, Phần ba, B38 (Mục 2.b), tr. 107; SGK Địa lí 10 KNTT, Phần ba, B38 (Mục 2.c), tr. 107
 
 ### Richter scale
-- **Tiếng Việt:** Thang độ Richter
+- **Tiếng Việt:** Thang độ Richter (Thang Rich-te)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A logarithmic scale quantifying the magnitude $M$ of an earthquake via the formula $M = \log \frac{I}{S}$, where $I$ is the seismic wave amplitude measured $100\text{ km}$ from the epicenter and $S = 10^{-6}\text{ m}$ ($1\ \mu\text{m}$) is the amplitude of a standard reference earthquake.
 - **Giải thích (VI):** Thang đo lôgarit xác định cường độ (độ lớn) $M$ của một trận động đất theo công thức $M = \log \frac{I}{S}$, trong đó $I$ là biên độ địa chấn đo ở khoảng cách $100\text{ km}$ tính từ tâm động và $S = 10^{-6}\text{ m}$ ($1\ \mu\text{m}$) là biên độ của trận động đất tiêu chuẩn.
-- **Bối cảnh:** Toán học lớp 11, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2b): Ứng dụng lôgarit thập phân để so sánh cường độ giữa các trận động đất.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2), tr. 100; SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2.a), tr. 100; SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2.b), tr. 100; SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2.b), tr. 101
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A scale used to measure the magnitude and destructive intensity of earthquakes in degrees. It classifies earthquakes into levels: light (4–4.9), moderate (5–5.9), strong (6–6.9), major (7–7.9), great (8–8.9), and devastating (9 or above). / VI: Thang đo dùng để đánh giá cường độ và mức độ tàn phá của động đất theo độ. Thang phân chia động đất thành các mức: nhẹ (4–4,9 độ), trung bình (5–5,9 độ), mạnh (6–6,9 độ), rất mạnh (7–7,9 độ), cực mạnh (8–8,9 độ) và phá huỷ (từ 9 độ trở lên).
+- **Bối cảnh:**
+  - Toán học lớp 11, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2b): Ứng dụng lôgarit thập phân để so sánh cường độ giữa các trận động đất.
+  - Lịch sử và Địa lí lớp 6, Bài 12 (Mục 2): phân loại cường độ và mức độ thiệt hại của các trận động đất.
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2), tr. 100; SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2.a), tr. 100; SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2.b), tr. 100; SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2.b), tr. 101; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B12 (Mục 2), tr. 134
 
 ### river
 - **Tiếng Việt:** Sông
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A relatively large, permanent natural watercourse flowing across the surface of continents and islands, fed by rainwater, groundwater, and meltwater from snow and ice.
 - **Giải thích (VI):** Dòng chảy thường xuyên và tương đối lớn trên bề mặt lục địa và đảo, nhận nguồn nước nuôi dưỡng từ nước mưa, nước ngầm và nước băng tuyết tan.
-- **Bối cảnh:** Địa lí lớp 10, Bài 11 (Mục 2.a): Định nghĩa khái niệm sông khi tìm hiểu các dạng nước trên lục địa.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B11, tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 1), tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.a), tr. 37
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 11 (Mục 2.a): Định nghĩa khái niệm sông khi tìm hiểu các dạng nước trên lục địa.
+  - Lịch sử và Địa lí lớp 6, Bài 20 (Mục 1.a): tìm hiểu khái niệm sông và các nguồn cung cấp nước cho sông ngòi.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B11, tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 1), tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.a), tr. 37; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20, tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158, 159
 
 ### river discharge
 - **Tiếng Việt:** Lưu lượng nước sông
@@ -3673,6 +4655,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Sự thay đổi có tính chu kì trong năm của lưu lượng nước sông. Nhịp điệu biến đổi này chịu ảnh hưởng chủ yếu bởi các đặc điểm địa lí tự nhiên của nguồn cung cấp nước và bề mặt lưu vực.
 - **Bối cảnh:** Địa lí lớp 10, Bài 11 (Mục 2.a): Định nghĩa chế độ nước sông và mối liên hệ với lưu lượng dòng chảy trong năm.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B11, tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 1), tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.a), tr. 37
+
+### river system
+- **Tiếng Việt:** Hệ thống sông
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An interconnected network of watercourses consisting of a main river, tributaries feeding water into the main river, and distributaries draining water away from the main river.
+- **Giải thích (VI):** Mạng lưới các dòng chảy gắn kết với nhau gồm sông chính, các phụ lưu đổ nước vào sông chính và các chi lưu thoát nước cho sông chính.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 20 (Mục 1.a): nhận diện cấu trúc các bộ phận hợp thành một hệ thống sông trên mô hình.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20, tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158, 159
 
 ### rivers and lakes of China
 - **Tiếng Việt:** Sông, hồ Trung Quốc
@@ -3746,6 +4736,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 4 (Mục 3): Định nghĩa đá và phân loại ba nhóm đá cấu tạo vỏ Trái Đất theo nguồn gốc.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 1), tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 16; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 3), tr. 16
 
+### role and conservation of tropical forests
+- **Tiếng Việt:** Vai trò và bảo vệ rừng nhiệt đới
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The vital functions of tropical forests in regulating global climate, conserving biodiversity, and supplying timber, food, and medicinal resources, coupled with the urgent requirement to halt deforestation through economical, rational use alongside forest protection and restoration.
+- **Giải thích (VI):** Chức năng thiết yếu của rừng nhiệt đới trong việc điều hoà khí hậu toàn cầu, bảo tồn đa dạng sinh học và cung cấp gỗ, thực phẩm, dược liệu, gắn liền với yêu cầu cấp bách ngăn chặn suy giảm diện tích rừng thông qua khai thác tiết kiệm, hợp lí đi đôi với bảo vệ và phát triển rừng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 24 (Mục 2): Đánh giá giá trị sinh thái – kinh tế của rừng nhiệt đới và đề xuất hành động bảo vệ trước nguy cơ mất rừng.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 1), tr. 174; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 2), tr. 174
+
 ### role of economic development resources
 - **Tiếng Việt:** Vai trò của nguồn lực phát triển kinh tế
 - **Chuyên ngành gốc:** Địa lí
@@ -3777,6 +4775,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tầm quan trọng toàn diện của lâm nghiệp về kinh tế, xã hội và môi trường: cung cấp gỗ, nguyên liệu giấy, thực phẩm, dược liệu và tạo việc làm, thu nhập cho cư dân vùng trung du, miền núi. Ngành này đồng thời bảo tồn đa dạng sinh học, chống xói mòn, điều tiết nước trong đất, giảm nhẹ biến đổi khí hậu, thiên tai và bảo đảm phát triển bền vững.
 - **Bối cảnh:** Địa lí lớp 10, Bài 25 (Mục 1.a): ý nghĩa kinh tế – xã hội và chức năng phòng hộ môi trường của ngành lâm nghiệp.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 1.a), tr. 73
+
+### role of geography in daily life
+- **Tiếng Việt:** Vai trò của Địa lí trong cuộc sống
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The practical significance of geographical knowledge in providing an understanding of natural phenomena and human–nature interactions. Geographical knowledge helps people solve everyday problems and adopt appropriate behaviors to adapt to local natural rhythms.
+- **Giải thích (VI):** Ý nghĩa thực tiễn của kiến thức địa lí trong việc cung cấp hiểu biết về các hiện tượng tự nhiên và mối quan hệ giữa con người với thiên nhiên. Kiến thức địa lí giúp con người vận dụng giải quyết các vấn đề hằng ngày và ứng xử phù hợp để thích nghi với nhịp điệu tự nhiên ở địa phương.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài mở đầu (Mục 3): làm rõ ý nghĩa thực tiễn của việc gắn kiến thức địa lí với đời sống sinh hoạt và sản xuất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, Bài mở đầu (Mục 2), tr. 100; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, Bài mở đầu (Mục 3), tr. 100
 
 ### role of geography in general education
 - **Tiếng Việt:** Vai trò của môn Địa lí ở trường phổ thông
@@ -3874,6 +4880,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 34 (Mục 1.a): phân tích tầm quan trọng của giao thông vận tải đối với sản xuất kinh tế và đời sống xã hội.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34, tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.a), tr. 93
 
+### route mental map
+- **Tiếng Việt:** Lược đồ trí nhớ đường đi (lược đồ trí nhớ về đường đi)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A type of mental map depicting a travel route, drawn by recalling the starting point and destination, main direction, overall distance, major landmarks along the route, and directions and distances between those landmarks.
+- **Giải thích (VI):** Loại lược đồ trí nhớ mô tả lộ trình di chuyển được phác vẽ bằng cách hồi tưởng điểm xuất phát, điểm kết thúc, hướng đi chính, các điểm mốc chính trên quãng đường cùng hướng đi và khoảng cách giữa các điểm mốc.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 5 (Mục 2.a): cách vẽ lược đồ trí nhớ mô tả lộ trình di chuyển từ điểm xuất phát đến điểm đích.
+  - *Lưu ý:* Phân biệt với lược đồ trí nhớ một khu vực (area mental map) tái hiện bố cục tổng thể của một không gian xác định.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5, tr. 113; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5 (Mục 1), tr. 113; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5 (Mục 2), tr. 113; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5 (Mục 2.a), tr. 113
+
+### salinity
+- **Tiếng Việt:** Độ muối
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The total mass of salts in grams contained in 1 kilogram of seawater, commonly expressed in parts per thousand (‰). The average salinity of ocean water is 35‰ and varies depending on river inflow, precipitation, and evaporation.
+- **Giải thích (VI):** Tổng lượng các chất muối tính bằng gam trong 1 ki-lô-gam nước biển, thường biểu thị bằng đơn vị phần nghìn (‰). Độ muối trung bình của nước đại dương là 35‰ và thay đổi tuỳ theo lượng nước sông chảy vào, lượng mưa và độ bốc hơi.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 21 (Mục 2.a): giải thích vị mặn của nước biển và sự thay đổi độ muối giữa các vùng biển theo vĩ độ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21, tr. 163; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 2.a), tr. 164; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 2.b), tr. 164
+
+### savanna
+- **Tiếng Việt:** Xa van
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A tropical or subtropical grassland landscape formed in areas with a prolonged dry season lasting 5–6 to 9–10 months and mean annual precipitation of 250–1,250 mm. Its vegetation consists mainly of tall drought-tolerant grasses with scattered shrubs and xerophytic trees (such as baobabs and acacias), supporting characteristic large herbivores and predators.
+- **Giải thích (VI):** Cảnh quan đồng cỏ nhiệt đới hoặc cận nhiệt đới hình thành ở nơi có mùa khô kéo dài từ 5–6 tháng đến 9–10 tháng và lượng mưa trung bình đạt 250–1 250 mm/năm. Thảm thực vật chủ yếu gồm cỏ cao chịu hạn cùng cây bụi, cây gỗ ưa khô mọc thưa thớt (bao báp, keo), đi kèm hệ động vật ăn cỏ lớn và thú ăn thịt đặc trưng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 23 (Mục 2.a): Nhận diện kiểu thảm thực vật và cảnh quan đồng cỏ đặc trưng ở đới nóng.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B23 (Mục 2.a), tr. 172; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B23 (Mục 2.b), tr. 172
+
 ### scale of the European Union
 - **Tiếng Việt:** Quy mô Liên minh châu Âu
 - **Chuyên ngành gốc:** Địa lí
@@ -3882,13 +4914,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 9 (Mục I.1): Khái quát quá trình hình thành, mở rộng thành viên và quy mô dân số, kinh tế của Liên minh châu Âu.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.1), tr. 37, 38
 
+### sea
+- **Tiếng Việt:** Biển
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A subdivision of an ocean characterized by distinct properties compared to the surrounding ocean in terms of temperature, salinity, hydrological regime, bottom sediments, and marine life.
+- **Giải thích (VI):** Một bộ phận của đại dương mang những đặc điểm riêng biệt so với vùng đại dương bao quanh về nhiệt độ, độ muối, chế độ thuỷ văn, vật liệu trầm tích đáy và sinh vật.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 21 (Mục 1, 2): phân biệt biển với đại dương thế giới về phạm vi và đặc điểm thuỷ văn.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B19, tr. 156
+
 ### sea wave
 - **Tiếng Việt:** Sóng biển
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The vertical oscillation of seawater generated primarily by wind; the stronger the wind, the larger the waves.
 - **Giải thích (VI):** Sự dao động của nước biển theo chiều thẳng đứng, phát sinh chủ yếu do tác động của gió; gió càng mạnh thì sóng càng lớn.
-- **Bối cảnh:** Địa lí lớp 10, Bài 12 (Mục 2.a): Định nghĩa hiện tượng sóng biển và nêu nguyên nhân chủ yếu sinh ra sóng biển.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B12, tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.a), tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.b), tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 2.a), tr. 42
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: An oscillatory motion of seawater in place that creates the visual impression of water moving horizontally toward the shore. Sea waves are formed primarily by wind action; the stronger and longer the wind blows, the larger the waves become. / VI: Hình thức dao động tại chỗ của nước biển tạo cảm giác sóng xô từ ngoài khơi vào bờ theo chiều ngang. Sóng biển hình thành chủ yếu do tác động của gió; gió thổi càng mạnh và càng lâu thì sóng càng lớn.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 12 (Mục 2.a): Định nghĩa hiện tượng sóng biển và nêu nguyên nhân chủ yếu sinh ra sóng biển.
+  - Lịch sử và Địa lí lớp 6, Bài 21 (Mục 3.a): trình bày biểu hiện, bản chất dao động và nguyên nhân hình thành sóng biển.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B12, tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.a), tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.b), tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 2.a), tr. 42; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 2.a), tr. 164; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 2.b), tr. 164; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.a), tr. 164
 
 ### seas of Latin America
 - **Tiếng Việt:** Biển khu vực Mỹ La-tinh
@@ -3911,8 +4954,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A period of the year distinguished by characteristic weather and climatic conditions, occurring oppositely between the Northern and Southern Hemispheres and most distinctly in temperate zones. Seasons result from the Earth revolving around the Sun with a constant axial orientation inclined at about 66°33' to the orbital plane, altering solar ray angles and daylight duration throughout the year.
 - **Giải thích (VI):** Khoảng thời gian trong năm mang những đặc điểm riêng về thời tiết và khí hậu, diễn ra ngược nhau giữa bán cầu Bắc và bán cầu Nam và biểu hiện rõ nhất ở vùng ôn đới. Hiện tượng này sinh ra do Trái Đất chuyển động quanh Mặt Trời với hướng trục không đổi và nghiêng một góc khoảng 66°33' so với mặt phẳng quỹ đạo, làm góc chiếu của tia sáng mặt trời và thời gian tiếp nhận ánh sáng thay đổi trong năm.
-- **Bối cảnh:** Địa lí lớp 10, Bài 5 (Mục 2.b): Giải thích nguyên nhân sinh ra các mùa trong năm và sự phân hoá mùa theo vĩ độ, bán cầu.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 2), tr. 19; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 2.a), tr. 19; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 2.a), tr. 20; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 2.b), tr. 20
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A division of the year characterized by distinct weather and climatic conditions, exhibiting differences across latitudes on Earth. / VI: Một phần thời gian trong năm mang những đặc điểm riêng về thời tiết và khí hậu, có sự biểu hiện khác biệt theo vĩ độ trên Trái Đất.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 5 (Mục 2.b): Giải thích nguyên nhân sinh ra các mùa trong năm và sự phân hoá mùa theo vĩ độ, bán cầu.
+  - Lịch sử và Địa lí lớp 6, Bài 8 (Mục 2.a): sự phân chia thời gian trong năm theo đặc điểm thời tiết, khí hậu và sự khác biệt theo vĩ độ.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 2), tr. 19; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 2.a), tr. 19; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 2.a), tr. 20; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 2.b), tr. 20; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B8, tr. 122; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2.a), tr. 123
+
+### seasonal variation in length of day and night
+- **Tiếng Việt:** Hiện tượng ngày – đêm dài ngắn theo mùa
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The variation in the duration of daytime and nighttime by season and latitude caused by the constant tilt and orientation of the Earth's axis during its revolution around the Sun. The hemisphere in its hot season experiences long days and short nights while the hemisphere in its cold season experiences short days and long nights; at the Equator day and night are equal year-round, whereas the poles have six months of day and six months of night.
+- **Giải thích (VI):** Sự thay đổi độ dài thời gian ban ngày và ban đêm theo mùa và theo vĩ độ do trục Trái Đất nghiêng và không đổi hướng trong quá trình chuyển động quanh Mặt Trời. Bán cầu đang là mùa nóng có ngày dài đêm ngắn, bán cầu đang là mùa lạnh có ngày ngắn đêm dài; riêng Xích đạo quanh năm có ngày và đêm bằng nhau, còn ở cực có 6 tháng là ngày và 6 tháng là đêm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 8 (Mục 2.b): hệ quả thay đổi độ dài ban ngày và ban đêm theo mùa và theo vĩ độ trên Trái Đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B8, tr. 122; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2.b), tr. 124
 
 ### seawater salinity
 - **Tiếng Việt:** Độ muối của nước biển
@@ -3921,6 +4975,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Lượng chất hoà tan (nhiều nhất là các muối khoáng) trong nước biển, có giá trị trung bình là 35‰. Độ muối tăng hoặc giảm phụ thuộc vào lượng bốc hơi, lượng mưa và lượng nước sông đổ vào, đồng thời thay đổi theo vĩ độ (Xích đạo 34,5‰, chí tuyến 36,8‰, ôn đới 35‰, gần cực 34‰) và theo độ sâu.
 - **Bối cảnh:** Địa lí lớp 10, Bài 12 (Mục 1.a): Trình bày giá trị độ muối trung bình và sự thay đổi độ muối của nước biển theo không gian.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B12, tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.a), tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.b), tr. 41
+
+### seawater temperature
+- **Tiếng Việt:** Nhiệt độ nước biển
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The thermal state of sea and ocean water, averaging approximately 17°C across the surface of the World Ocean. Surface seawater temperature decreases with latitude, ranging from 24–27°C in tropical regions to 16–18°C in temperate regions.
+- **Giải thích (VI):** Mức độ nóng, lạnh của khối nước biển và đại dương, đạt trung bình khoảng 17°C trên toàn bộ bề mặt đại dương thế giới. Nhiệt độ nước biển tầng mặt giảm dần theo vĩ độ, dao động từ 24 – 27°C ở vùng nhiệt đới xuống 16 – 18°C ở vùng ôn đới.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 21 (Mục 2.b): so sánh sự thay đổi nhiệt độ nước biển tầng mặt theo vĩ độ trên đại dương thế giới.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 2.a), tr. 164; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 2.b), tr. 164; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.a), tr. 164
 
 ### secondary food crops
 - **Tiếng Việt:** Cây hoa màu
@@ -3977,6 +5039,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Các dải khu vực trên thế giới nơi tập trung dày đặc hoạt động động đất gắn liền với đới tiếp xúc và chuyển dịch của các mảng kiến tạo. Các vành đai lớn gồm vành đai bao quanh Thái Bình Dương, vành đai Địa Trung Hải – Hi-ma-lay-a, khu vực Đông Phi và các dải dọc sống núi ngầm giữa Đại Tây Dương, Ấn Độ Dương, Nam Đại Dương.
 - **Bối cảnh:** Địa lí lớp 10, Bài 8 (Hình 8): Xác định sự phân bố các vành đai động đất trên thế giới và mối liên hệ với ranh giới mảng kiến tạo.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B8, tr. 27
+
+### seismic method
+- **Tiếng Việt:** Phương pháp địa chấn
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A scientific method used to infer the structure, composition, and physical state of matter deep inside the Earth.
+- **Giải thích (VI):** Phương pháp khoa học sử dụng để suy đoán cấu trúc, thành phần và trạng thái của vật chất ở sâu trong lòng Trái Đất.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 10 (Mục 1): phương pháp nghiên cứu gián tiếp vật chất trong lòng Trái Đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10, tr. 129; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 129
+
+### semidiurnal tide
+- **Tiếng Việt:** Bán nhật triều
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A tidal regime in coastal areas where the sea level rises and falls twice each day.
+- **Giải thích (VI):** Chế độ thuỷ triều tại những vùng biển có mực nước dâng lên và hạ xuống hai lần trong mỗi ngày.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 21 (Mục 3.b): phân biệt chế độ bán nhật triều với nhật triều (mỗi ngày lên, xuống một lần) và triều không đều.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.b), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165, 166
 
 ### semidiurnal tide and diurnal tide
 - **Tiếng Việt:** Bán nhật triều và nhật triều
@@ -4074,6 +5152,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 6 (Mục I.2): Nêu thực trạng mất cân bằng tỉ số giới tính trẻ sơ sinh ở Việt Nam hiện nay.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.2), tr. 33; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.3), tr. 33, 34
 
+### shape and size of the Earth
+- **Tiếng Việt:** Hình dạng và kích thước của Trái Đất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The geometric characteristics of the Earth, featuring a spherical shape, an equatorial radius of 6,378 km, and a surface area of approximately 510 million km². With sufficient size and mass, the Earth generates gravitational pull strong enough to retain gases forming its protective atmosphere.
+- **Giải thích (VI):** Đặc điểm hình học của Trái Đất với dạng hình cầu, bán kính Xích đạo dài 6 378 km và diện tích bề mặt khoảng 510 triệu km². Với kích thước và khối lượng đủ lớn, Trái Đất tạo ra lực hút giữ được các chất khí làm thành lớp vỏ khí bảo vệ hành tinh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 6 (Mục 2): đặc điểm dạng khối cầu, bán kính Xích đạo, diện tích bề mặt và điều kiện tạo lực hút giữ lớp vỏ khí của Trái Đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B6 (Mục 2), tr. 117
+
 ### Shinkansen high-speed rail
 - **Tiếng Việt:** Tàu cao tốc Sin-can-sen (Tàu cao tốc Sin-can-xen)
 - **Chuyên ngành gốc:** Địa lí
@@ -4116,6 +5202,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nhóm hoạt động lâm sinh nhằm tái tạo, phát triển và sử dụng hiệu quả, bền vững tài nguyên rừng thông qua trồng mới rừng tập trung (rừng nguyên liệu giấy, gỗ trụ mỏ, thông nhựa, phòng hộ) kết hợp khoanh nuôi và bảo vệ diện tích rừng hiện có. Hoạt động này góp phần cung cấp nguyên liệu sản xuất, giảm nhẹ thiên tai, bảo vệ môi trường sinh thái và ứng phó với biến đổi khí hậu.
 - **Bối cảnh:** Địa lí lớp 12, Bài 12 (Mục I.2): hoạt động lâm sinh trong phát triển lâm nghiệp bền vững ở Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B12 (Mục I.2), tr. 58, 59; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục I.3), tr. 59
+
+### smart exploitation of natural resources
+- **Tiếng Việt:** Khai thác thông minh tài nguyên thiên nhiên
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A rational and economical approach to resource use designed to limit quantitative and qualitative decline while securing supplies for present and future needs. Key measures include conserving minerals and developing substitute materials, combining utilization with restoration of soils and organisms, and preventing air and water pollution.
+- **Giải thích (VI):** Phương thức sử dụng tài nguyên hợp lí và tiết kiệm nhằm hạn chế sự suy giảm cả về số lượng lẫn chất lượng, bảo đảm nguồn cung cho hiện tại và tương lai. Các biện pháp trọng tâm gồm tiết kiệm khoáng sản và nghiên cứu vật liệu thay thế, kết hợp khai thác với khôi phục đất trồng và sinh vật, đồng thời ngăn ngừa ô nhiễm không khí và nguồn nước.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 29 (Mục 2): Xác định các giải pháp sử dụng phù hợp cho từng nhóm tài nguyên vì mục tiêu phát triển bền vững.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29, tr. 187; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29 (Mục 1), tr. 187; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29 (Mục 2), tr. 187
 
 ### snow, ice, and glaciers
 - **Tiếng Việt:** Nước băng tuyết và sông băng
@@ -4202,18 +5296,39 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The thin layer of material covering the surface of continents and islands, formed through the weathering of rocks. Soil consists of four main components—mineral matter, organic matter, air, and water—and is fundamentally characterized by its fertility.
 - **Giải thích (VI):** Lớp vật chất mỏng bao phủ bề mặt các lục địa và đảo, hình thành do quá trình phong hoá các loại đá. Đất cấu tạo bởi các thành phần chính gồm chất khoáng, chất hữu cơ, không khí và nước, mang đặc trưng cơ bản là độ phì.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The thin, loose layer of material covering the surfaces of continents and islands, fundamentally characterized by its fertility. / VI: Lớp vật chất mỏng, vụn bở bao phủ trên bề mặt các lục địa và đảo, có dấu hiệu đặc trưng cơ bản là độ phì.
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 14 (Mục 1): Định nghĩa khái niệm đất, thành phần cấu tạo chính và đặc trưng cơ bản của đất.
+  - Lịch sử và Địa lí lớp 6, Bài 22 (Mục 1): Xác định khái niệm lớp đất tự nhiên (thổ nhưỡng) trên bề mặt Trái Đất.
   - *Lưu ý:* Chỉ lớp đất (thổ nhưỡng - soil) hình thành từ phong hoá đá và có độ phì, phân biệt với đất liền hoặc diện tích đất đai (land).
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B14, tr. 45; SGK Địa lí 10 KNTT, Phần hai, B14 (Mục 1), tr. 45; SGK Địa lí 10 KNTT, Phần hai, B14 (Mục 2), tr. 46
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B14, tr. 45; SGK Địa lí 10 KNTT, Phần hai, B14 (Mục 1), tr. 45; SGK Địa lí 10 KNTT, Phần hai, B14 (Mục 2), tr. 46; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22, tr. 168; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 1), tr. 168; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 2), tr. 168
+
+### soil composition
+- **Tiếng Việt:** Thành phần của đất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The combination of four constituents that make up soil, including minerals, organic matter, air, and water. The proportions of these constituents vary depending on local soil-forming conditions.
+- **Giải thích (VI):** Tập hợp bốn hợp phần cấu tạo nên đất gồm chất khoáng, chất hữu cơ, không khí và nước. Tỉ lệ giữa các thành phần này thay đổi tuỳ thuộc vào điều kiện hình thành đất ở từng nơi.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 22 (Mục 2): Phân tích cấu tạo vật chất và tỉ lệ các hợp phần chính trong lớp đất.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22, tr. 168; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 1), tr. 168; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 2), tr. 168
 
 ### soil fertility
-- **Tiếng Việt:** Độ phì của đất
+- **Tiếng Việt:** Độ phì của đất (Độ phì)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The fundamental characteristic of soil, defined as its capacity to supply water, nutrients, and other essential factors (such as heat and air) to support plant growth and development.
 - **Giải thích (VI):** Đặc trưng cơ bản của đất, thể hiện ở khả năng đất cung cấp nước, các chất dinh dưỡng và các yếu tố khác (như nhiệt, khí,...) giúp thực vật sinh trưởng và phát triển.
-- **Bối cảnh:** Địa lí lớp 10, Bài 14 (Mục 1): Định nghĩa độ phì với tư cách là đặc trưng cơ bản phân biệt đất với đá phong hoá thông thường.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B14, tr. 45; SGK Địa lí 10 KNTT, Phần hai, B14 (Mục 1), tr. 45
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The capacity of soil to supply water, nutrients, and other essential factors such as heat and air for plant growth and development. / VI: Khả năng của đất cung cấp nước, chất dinh dưỡng và các yếu tố cần thiết khác như nhiệt độ, không khí cho thực vật sinh trưởng và phát triển.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 14 (Mục 1): Định nghĩa độ phì với tư cách là đặc trưng cơ bản phân biệt đất với đá phong hoá thông thường.
+  - Lịch sử và Địa lí lớp 6, Bài 22 (Mục 1): Thuộc tính đặc trưng của đất dùng để đánh giá chất lượng đất trồng đối với cây cối.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B14, tr. 45; SGK Địa lí 10 KNTT, Phần hai, B14 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22, tr. 168; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 1), tr. 168; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 2), tr. 168
+
+### soil horizon
+- **Tiếng Việt:** Tầng đất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A distinct layer exposed in a vertical cross-section when digging a soil profile. Each soil horizon differs in thickness, color, texture, chemical composition, compactness, and moisture, reflecting soil formation processes and properties.
+- **Giải thích (VI):** Lớp đất phân biệt lộ ra trên mặt cắt thẳng đứng khi đào một phẫu diện đất. Mỗi tầng đất có độ dày, màu sắc, thành phần cơ giới, thành phần hoá học, độ chặt và độ ẩm khác nhau, phản ánh quá trình hình thành và tính chất của đất.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 22 (Mục 1): Nhận biết cấu trúc theo chiều thẳng đứng của phẫu diện đất gồm tầng chứa mùn, tầng tích tụ và tầng đá mẹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 1), tr. 168; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 3), tr. 169
 
 ### soil profile
 - **Tiếng Việt:** Phẫu diện đất
@@ -4228,8 +5343,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The five natural factors governing soil formation: parent material (the initial factor determining physical and chemical properties), climate (temperature and precipitation strongly driving rock weathering), topography (controlling heat, moisture, erosion, and deposition), organisms (breaking down rock, supplying organic matter and nutrients, and preventing erosion), and time (soil age). Human activities also strongly modify soil properties, creating paddy soils or causing soil degradation and erosion.
 - **Giải thích (VI):** Năm nhân tố tự nhiên tham gia hình thành đất gồm đá mẹ (nhân tố khởi đầu quyết định tính chất lí, hoá), khí hậu (nhiệt độ và lượng mưa tác động mạnh nhất đến phong hoá đá), địa hình (phân phối nhiệt ẩm, gây xói mòn hoặc bồi tụ), sinh vật (phá huỷ đá, cung cấp chất hữu cơ và dinh dưỡng, chống xói mòn) và thời gian (tuổi của đất). Hoạt động của con người cũng làm biến đổi mạnh mẽ tính chất đất, tạo ra đất trồng lúa nước hoặc làm đất bạc màu, xói mòn.
-- **Bối cảnh:** Địa lí lớp 10, Bài 14 (Mục 2): Phân tích vai trò của năm nhân tố tự nhiên và tác động của con người đối với sự hình thành, biến đổi đất.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B14, tr. 45; SGK Địa lí 10 KNTT, Phần hai, B14 (Mục 1), tr. 45; SGK Địa lí 10 KNTT, Phần hai, B14 (Mục 2), tr. 46
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The set of five natural factors acting simultaneously to form soil, comprising parent material, climate, organisms, topography, and time, alongside influences from human activities. / VI: Tập hợp năm yếu tố tự nhiên tác động đồng thời tạo nên lớp đất, bao gồm đá mẹ, khí hậu, sinh vật, địa hình và thời gian, ngoài ra còn chịu ảnh hưởng từ hoạt động của con người.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 14 (Mục 2): Phân tích vai trò của năm nhân tố tự nhiên và tác động của con người đối với sự hình thành, biến đổi đất.
+  - Lịch sử và Địa lí lớp 6, Bài 22 (Mục 3): Giải thích nguồn gốc và vai trò của từng yếu tố tự nhiên đối với quá trình hình thành đất.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B14, tr. 45; SGK Địa lí 10 KNTT, Phần hai, B14 (Mục 1), tr. 45; SGK Địa lí 10 KNTT, Phần hai, B14 (Mục 2), tr. 46; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 3), tr. 169; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 4), tr. 169; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 4), tr. 169, 170
 
 ### solar elevation angle
 - **Tiếng Việt:** Góc Mặt Trời
@@ -4285,6 +5403,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Thuật ngữ tiếng Anh Southeast Region (hoặc South East trong niên giám thống kê) trong ngữ cảnh Địa lí Việt Nam dùng để chỉ vùng kinh tế – xã hội Đông Nam Bộ.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B29, tr. 135; SGK Địa lí 12 KNTT, Phần 4, B29 (Mục I.1), tr. 135; SGK Địa lí 12 KNTT, Phần 4, B29 (Mục I.2), tr. 135
 
+### Southern Hemisphere
+- **Tiếng Việt:** Bán cầu Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The half of the terrestrial globe located south of the Equator (0°) extending to the South Pole.
+- **Giải thích (VI):** Nửa bề mặt quả Địa Cầu nằm ở phía nam đường Xích đạo (0°) kéo dài đến cực Nam.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 1 (Mục 1): xác định nửa cầu từ Xích đạo đến cực Nam và đối chiếu sự trái ngược mùa với bán cầu Bắc.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1, tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 102
+
 ### Southern Key Economic Region
 - **Tiếng Việt:** Vùng kinh tế trọng điểm phía Nam
 - **Chuyên ngành gốc:** Địa lí
@@ -4329,6 +5455,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với vùng nông nghiệp (hình thức tổ chức lãnh thổ nông nghiệp cao nhất dựa trên sự tương đồng sinh thái – kinh tế tổng hợp toàn vùng); vùng chuyên canh tập trung chuyên sâu vào một hoặc vài nông sản chủ lực.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B13, tr. 62; SGK Địa lí 12 KNTT, Phần 3, B13 (Mục II), tr. 63
 
+### spring tide
+- **Tiếng Việt:** Triều cường
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The tide with the greatest rise and fall of sea level during a month, occurring twice monthly around the days of the full moon and new moon.
+- **Giải thích (VI):** Hiện tượng thuỷ triều lên, xuống với mức độ lớn nhất trong tháng, xảy ra hai lần mỗi tháng vào các ngày trăng tròn hoặc không trăng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 21 (Mục 3.b): xác định thời điểm nước thuỷ triều dâng cao và hạ thấp lớn nhất trong tháng.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.b), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165, 166
+
 ### spring tide and neap tide
 - **Tiếng Việt:** Triều cường và triều kém
 - **Chuyên ngành gốc:** Địa lí
@@ -4345,6 +5479,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 24 (Mục I): khái quát lịch sử tăng trưởng và vị thế kinh tế của Nhật Bản qua các thời kì.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B24, tr. 121; SGK Địa lí 11 KNTT, Phần hai, B24 (Mục I), tr. 121; SGK Địa lí 11 KNTT, Phần hai, B24 (Mục I), tr. 121, 122
 
+### storm
+- **Tiếng Việt:** Bão
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A hazardous meteorological phenomenon occurring in a region of lower atmospheric pressure than its surroundings, accompanied by heavy rainfall and strong winds of Beaufort force 8 or higher.
+- **Giải thích (VI):** Hiện tượng khí tượng nguy hiểm tại vùng có khí áp thấp hơn xung quanh, kèm theo mưa lớn và gió mạnh từ cấp 8 trở lên.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 30 (Mục 1.c): Nhận diện loại thiên tai khí tượng phổ biến để tìm hiểu tác động và biện pháp phòng chống ở địa phương.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
+
 ### Strait of Malacca
 - **Tiếng Việt:** Eo biển Ma-lắc-ca
 - **Chuyên ngành gốc:** Địa lí
@@ -4358,8 +5500,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The atmospheric layer situated directly above the troposphere and below the mesosphere, extending from an altitude of 8–16 km to 51–55 km. This layer contains the ozone layer concentrated at an altitude of about 20–25 km.
 - **Giải thích (VI):** Tầng khí quyển nằm ngay phía trên tầng đối lưu và dưới tầng giữa, kéo dài từ độ cao 8 – 16 km đến 51 – 55 km. Trong tầng này có lớp ô-dôn tập trung ở độ cao khoảng 20 – 25 km.
-- **Bối cảnh:** Địa lí lớp 10, Bài 9 (Mục 1): Xác định vị trí giới hạn của tầng bình lưu và lớp ô-dôn trong cấu trúc khí quyển.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9, tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28, 29
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The atmospheric layer situated directly above the troposphere, characterized by temperatures that increase with altitude and constant horizontal air movement. It contains the ozone layer, which absorbs most ultraviolet radiation to protect life on Earth. / VI: Tầng khí quyển nằm ngay phía trên tầng đối lưu, có nhiệt độ tăng theo độ cao và không khí luôn chuyển động theo chiều ngang. Tầng này chứa lớp ô-dôn giúp hấp thụ phần lớn bức xạ cực tím để bảo vệ sự sống trên Trái Đất.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 9 (Mục 1): Xác định vị trí giới hạn của tầng bình lưu và lớp ô-dôn trong cấu trúc khí quyển.
+  - Lịch sử và Địa lí lớp 6, Bài 15 (Mục 2): phân biệt đặc điểm nhiệt độ, chuyển động không khí của tầng bình lưu với tầng đối lưu.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9, tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28, 29; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 143
 
 ### structure of world food crop production
 - **Tiếng Việt:** Cơ cấu sản lượng lương thực thế giới
@@ -4433,8 +5578,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A coniferous forest biome accounting for about 60% of the Russian Federation's total forest area, concentrated most heavily in Siberia and northern European Russia. Dominated by conifers (spruce, pine, larch) and inhabited by wildlife such as brown bears, moose, and numerous bird species, it serves as an important raw-material source for logging and wood processing.
 - **Giải thích (VI):** Thảm thực vật rừng lá kim chiếm khoảng 60% diện tích rừng của Liên bang Nga, phân bố tập trung nhiều nhất ở vùng Xi-bia và phía bắc châu Âu. Thực vật chính gồm các loài cây lá kim (vân sam, thông, tùng rụng lá) cùng động vật như gấu nâu, nai sừng tấm và nhiều loài chim, tạo nguồn nguyên liệu quan trọng cho ngành khai thác và chế biến gỗ.
-- **Bối cảnh:** Địa lí lớp 11, Bài 20 (Mục II.4): Đặc điểm sinh thái và giá trị kinh tế của đới rừng lá kim ở Liên bang Nga.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B20 (Mục II.4), tr. 100; SGK Địa lí 11 KNTT, Phần hai, B20 (Mục II.5), tr. 100; SGK Địa lí 11 KNTT, Phần hai, B20 (Mục II.5), tr. 100, 101
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The cold-temperate coniferous forest biome developed on nutrient-poor podzol soils, covering about 9% of Earth's surface as the largest forest biome on the planet. Its flora consists mainly of pine, fir, spruce, and cedar, while typical fauna includes squirrels, porcupines, brown bears, wolves, and Siberian tigers. / VI: Cảnh quan rừng lá kim phân bố ở vùng ôn đới lạnh trên nền đất pốt dôn nghèo dinh dưỡng, chiếm khoảng 9% diện tích bề mặt và là kiểu rừng có diện tích lớn nhất trên Trái Đất. Thực vật chủ yếu gồm thông, linh sam, vân sam, tuyết tùng; động vật tiêu biểu có sóc, nhím, gấu nâu, chó sói và hổ Xi-bia.
+- **Bối cảnh:**
+  - Địa lí lớp 11, Bài 20 (Mục II.4): Đặc điểm sinh thái và giá trị kinh tế của đới rừng lá kim ở Liên bang Nga.
+  - Lịch sử và Địa lí lớp 6, Bài 25 (Mục 2): Minh hoạ cảnh quan rừng lá kim rộng lớn điển hình ở vùng ôn đới lạnh thuộc đới ôn hoà.
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B20 (Mục II.4), tr. 100; SGK Địa lí 11 KNTT, Phần hai, B20 (Mục II.5), tr. 100; SGK Địa lí 11 KNTT, Phần hai, B20 (Mục II.5), tr. 100, 101; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25, tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 1), tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 2), tr. 175
 
 ### technology
 - **Tiếng Việt:** Công nghệ
@@ -4445,12 +5593,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Địa lí 11 KNTT, Bảng giải thích thuật ngữ, tr. 165; SGK Địa lí 11 KNTT, Phần một, B1 (Mục I), tr. 5; SGK Địa lí 11 KNTT, Phần một, B1 (Mục II.1), tr. 7
 
 ### tectonic plate
-- **Tiếng Việt:** Mảng kiến tạo (mảng thạch quyển)
+- **Tiếng Việt:** Mảng kiến tạo (mảng thạch quyển; Địa mảng)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Rigid segments formed by the fracturing of the lithosphere that continuously move—either colliding or separating—atop the plastic layer of the mantle. Each plate typically includes both continental and ocean-floor portions, although certain plates such as the Pacific Plate consist solely of ocean floor.
 - **Giải thích (VI):** Những mảng cứng hình thành do thạch quyển bị gãy vỡ và tách ra, không đứng yên mà dịch chuyển (xô vào nhau hoặc tách xa nhau) trên lớp quánh dẻo của manti. Mỗi mảng thường bao gồm cả phần lục địa và phần đáy đại dương, nhưng có mảng chỉ gồm phần đáy đại dương như mảng Thái Bình Dương.
-- **Bối cảnh:** Địa lí lớp 10, Bài 6 (Mục 2): Nhận diện các mảng kiến tạo lớn và hướng tiếp xúc giữa chúng trên lược đồ thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B6 (Mục 1), tr. 21; SGK Địa lí 10 KNTT, Phần hai, B6 (Mục 2), tr. 21; SGK Địa lí 10 KNTT, Phần hai, B6 (Mục 2), tr. 22
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: Adjacent plates forming the Earth's crust that move very slowly toward or away from one another under the influence of molten material (magma) in the mantle. Along the boundary zones between tectonic plates, mountain ranges and deep trenches often form, accompanied by earthquakes and volcanoes. / VI: Các mảng nằm kề nhau hợp thành lớp vỏ Trái Đất, di chuyển rất chậm theo xu hướng xô vào nhau hoặc tách xa nhau dưới tác động của vật chất nóng chảy (mac-ma) trong lớp man-ti. Tại đới tiếp giáp giữa các địa mảng thường hình thành các dãy núi, vực sâu kèm theo hiện tượng động đất và núi lửa.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 6 (Mục 2): Nhận diện các mảng kiến tạo lớn và hướng tiếp xúc giữa chúng trên lược đồ thế giới.
+  - Lịch sử và Địa lí lớp 6, Bài 10 (Mục 2): giải thích sự dịch chuyển của các mảng kiến tạo và hệ quả địa chất ở đới tiếp giáp.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B6 (Mục 1), tr. 21; SGK Địa lí 10 KNTT, Phần hai, B6 (Mục 2), tr. 21; SGK Địa lí 10 KNTT, Phần hai, B6 (Mục 2), tr. 22; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 130
 
 ### telecommunications
 - **Tiếng Việt:** Viễn thông
@@ -4472,6 +5623,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 3 (Mục I.3): Trình bày đặc điểm tự nhiên của đai cao nhất từ 2 600 m trở lên ở Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B3 (Mục I.3), tr. 20; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục II.1), tr. 20; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục II.1), tr. 20, 21
 
+### temperate steppe chernozem
+- **Tiếng Việt:** Đất đen thảo nguyên ôn đới
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A major soil group distributed in temperate steppe regions, rich in humus, characterized by a distinctive black color, and ranked among the most fertile soils in the world.
+- **Giải thích (VI):** Nhóm đất điển hình phân bố ở vùng thảo nguyên ôn đới, rất giàu mùn, có màu đen đặc trưng và thuộc loại đất màu mỡ nhất trên thế giới.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 22 (Mục 4): Nhận biết một trong các nhóm đất điển hình trên thế giới gắn với vùng ôn đới.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 3), tr. 169; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 4), tr. 169; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 4), tr. 169, 170
+
+### temperate zone
+- **Tiếng Việt:** Đới ôn hoà (ôn đới)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A climate zone in each hemisphere with a mean annual air temperature below 20°C, a warmest-month temperature of at least 10°C, and distinctly differentiated seasons. Mean annual precipitation ranges from 500 mm to 1,000 mm, with the westerlies as the prevailing winds.
+- **Giải thích (VI):** Đới khí hậu ở mỗi bán cầu có nhiệt độ không khí trung bình năm dưới 20°C, tháng nóng nhất không thấp hơn 10°C và các mùa trong năm phân hoá rất rõ rệt. Lượng mưa trung bình năm dao động từ 500 mm đến 1 000 mm, gió thổi thường xuyên là gió Tây ôn đới.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The natural zone in both hemispheres with a climate intermediate between the tropical and polar zones, where nature changes distinctly across the seasons. Its landscapes vary by latitude and under the influence of warm ocean currents and prevailing westerlies. / VI: Đới thiên nhiên ở hai bán cầu có khí hậu mang tính trung gian giữa đới nóng và đới lạnh, thiên nhiên biến đổi rõ rệt theo bốn mùa trong năm. Cảnh quan tự nhiên phân hoá đa dạng theo vĩ độ và chịu ảnh hưởng của dòng biển nóng cùng gió Tây ôn đới.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 17 (Mục 2): trình bày đặc điểm khí hậu của hai đới ôn hoà ở hai bán cầu.
+  - Lịch sử và Địa lí lớp 6, Bài 25 (Mục 2): Mô tả tính chất giao thoa và sự thay đổi cảnh quan theo mùa, theo không gian của hai đới thiên nhiên ôn hoà.
+  - *Lưu ý:* Trong Bài 25, thuật ngữ chỉ đới thiên nhiên ôn hoà (gồm khí hậu, đất đai và các thảm cảnh quan), phân biệt với đới khí hậu ôn hoà (ôn đới) chỉ xét yếu tố khí hậu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.a), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.b), tr. 151, 152; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25, tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 1), tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 2), tr. 175
+
 ### temperature distribution by continent and ocean
 - **Tiếng Việt:** Phân bố nhiệt độ theo lục địa, đại dương
 - **Chuyên ngành gốc:** Địa lí
@@ -4487,6 +5658,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quy luật biến đổi nhiệt độ không khí theo độ cao, độ dốc và hướng phơi của địa hình. Trong tầng đối lưu, nhiệt độ giảm trung bình 0,6 °C khi độ cao tăng thêm 100 m và thay đổi giữa các sườn núi do sự khác nhau về góc chiếu của tia sáng mặt trời tới mặt đất.
 - **Bối cảnh:** Địa lí lớp 10, Bài 9 (Mục 2.c): Giải thích quy luật giảm nhiệt độ theo độ cao và sự thay đổi nhiệt độ theo độ dốc, hướng phơi sườn núi.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 2.b), tr. 30; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 2.c), tr. 30
+
+### terrestrial animal diversity
+- **Tiếng Việt:** Sự đa dạng của động vật trên lục địa
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The richness in species and adaptive traits of continental fauna across different climate zones. Because animals are mobile and can move from place to place, they are less directly constrained by climate than plants.
+- **Giải thích (VI):** Sự phong phú về loài và đặc điểm thích nghi của giới động vật trên các lục địa giữa các đới khí hậu khác nhau. Do có khả năng di chuyển từ nơi này sang nơi khác, động vật chịu ảnh hưởng trực tiếp của khí hậu ít hơn so với thực vật.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 23 (Mục 2.b): So sánh mức độ phụ thuộc vào khí hậu của động vật với thực vật và tìm hiểu sự thích nghi của động vật theo môi trường.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B23 (Mục 2.a), tr. 172; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B23 (Mục 2.b), tr. 172
+
+### terrestrial globe
+- **Tiếng Việt:** Quả Địa Cầu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A miniature spatial model of the Earth displaying the North Pole, the South Pole, and the network of meridians and parallels on its surface.
+- **Giải thích (VI):** Mô hình không gian thu nhỏ của Trái Đất, trên bề mặt có thể hiện cực Bắc, cực Nam cùng hệ thống các đường kinh tuyến và vĩ tuyến.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 1 (Mục 1): sử dụng mô hình không gian ba chiều của Trái Đất để xác định hai cực, hệ thống kinh, vĩ tuyến và các bán cầu.
+  - *Lưu ý:* Phân biệt với bản đồ (map) là hình vẽ thu nhỏ bề mặt Trái Đất lên mặt phẳng.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1, tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 103
+
+### terrestrial plant diversity
+- **Tiếng Việt:** Sự đa dạng của thực vật trên lục địa
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The richness and distinct differentiation of continental vegetation types across climate zones depending primarily on temperature and precipitation. The tropical zone features tropical rainforests, tropical monsoon forests, and savannas; the temperate zone has broadleaf forests, coniferous forests, steppes, and subtropical forests; and the polar zone supports tundra vegetation.
+- **Giải thích (VI):** Sự phong phú và khác biệt rõ rệt của các kiểu thảm thực vật trên lục địa giữa các đới khí hậu tuỳ thuộc chủ yếu vào nhiệt độ và lượng mưa. Đới nóng nổi bật với rừng mưa nhiệt đới, rừng nhiệt đới gió mùa và xa van; đới ôn hoà có rừng lá rộng, rừng lá kim, thảo nguyên và rừng cận nhiệt đới; đới lạnh có thảm thực vật đài nguyên.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 23 (Mục 2.a): Nhận xét sự phân hoá các thảm thực vật trên đất liền theo các đới khí hậu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B23 (Mục 2.a), tr. 172; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B23 (Mục 2.b), tr. 172
 
 ### territorial differentiation of tourism in Vietnam
 - **Tiếng Việt:** Phân hoá lãnh thổ du lịch Việt Nam
@@ -4648,8 +5845,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The regular daily rise and fall of sea level. Tides are caused primarily by the gravitational pull of the Moon and the Sun combined with Earth's centrifugal force, and are further influenced by atmospheric pressure changes and coastline shape.
 - **Giải thích (VI):** Hiện tượng nước biển dâng cao và hạ thấp theo quy luật hằng ngày. Thuỷ triều phát sinh chủ yếu do lực hấp dẫn của Mặt Trăng và Mặt Trời cùng với lực li tâm của Trái Đất, ngoài ra còn chịu tác động của sự thay đổi khí áp và hình dạng bờ biển.
-- **Bối cảnh:** Địa lí lớp 10, Bài 12 (Mục 2.b): Định nghĩa hiện tượng thuỷ triều và giải thích các nguyên nhân thiên văn, địa lí sinh ra thuỷ triều.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B12, tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.a), tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.b), tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 2.b), tr. 42
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The regular daily rise and fall of sea levels driven by the gravitational attraction of the Moon and the Sun combined with the Earth's centrifugal force. / VI: Hiện tượng nước biển dâng cao và hạ thấp theo quy luật hằng ngày dưới tác động của lực hút từ Mặt Trăng, Mặt Trời kết hợp với lực li tâm của Trái Đất.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 12 (Mục 2.b): Định nghĩa hiện tượng thuỷ triều và giải thích các nguyên nhân thiên văn, địa lí sinh ra thuỷ triều.
+  - Lịch sử và Địa lí lớp 6, Bài 21 (Mục 3.b): giải thích biểu hiện và nguyên nhân sinh ra hiện tượng thuỷ triều trên biển và đại dương.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B12, tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.a), tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.b), tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 2.b), tr. 42; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.b), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165, 166
 
 ### tiered plateaus
 - **Tiếng Việt:** Cao nguyên xếp tầng
@@ -4658,6 +5858,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Dạng địa hình đặc trưng ở vùng Tây Nguyên gồm hệ thống các cao nguyên phân bố ở những bậc độ cao khác nhau như Kon Tum, Pleiku, Đắk Lắk, Lâm Viên, Mơ Nông và Di Linh. Bề mặt địa hình tương đối bằng phẳng kết hợp với diện tích đất badan rộng lớn tạo thuận lợi để quy hoạch các vùng chuyên canh cây công nghiệp quy mô lớn, tập trung cao.
 - **Bối cảnh:** Địa lí lớp 12, Bài 28 (Mục II.1.a): Đặc điểm địa hình và đất tạo thế mạnh phát triển cây công nghiệp lâu năm và thuỷ điện ở Tây Nguyên.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B28, tr. 126; SGK Địa lí 12 KNTT, Phần 4, B28 (Mục I.1), tr. 126; SGK Địa lí 12 KNTT, Phần 4, B28 (Mục I.2), tr. 126; SGK Địa lí 12 KNTT, Phần 4, B28 (Mục II.1.a), tr. 128
+
+### topographic profile
+- **Tiếng Việt:** Lát cắt địa hình
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A diagram illustrating the full shape, elevation, and slope variations of landforms along a specific cross-sectional line from a starting point to an ending point.
+- **Giải thích (VI):** Hình vẽ biểu hiện đầy đủ hình dáng, độ cao và sự biến đổi độ dốc của các dạng địa hình dọc theo một tuyến cắt xác định nối từ điểm đầu đến điểm cuối.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 14 (Mục 2): thực hành đọc sự biến đổi địa hình và tính khoảng cách dọc theo tuyến cắt.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B14 (Mục 1), tr. 140; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B14 (Mục 2), tr. 140
 
 ### topography and soils of China
 - **Tiếng Việt:** Địa hình và đất Trung Quốc
@@ -4812,12 +6020,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B19 (Mục II.2), tr. 93; SGK Địa lí 11 KNTT, Phần hai, B19 (Mục II.3), tr. 93; SGK Địa lí 11 KNTT, Phần hai, B19 (Mục II.3.a), tr. 93
 
 ### trade winds
-- **Tiếng Việt:** Gió Mậu dịch
+- **Tiếng Việt:** Gió Mậu dịch (Tín phong)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Prevailing winds that blow year-round with relatively steady direction and speed from the subtropical high-pressure belts toward the equatorial low-pressure belt. They blow from the northeast in the Northern Hemisphere and from the southeast in the Southern Hemisphere, and are generally dry in character.
 - **Giải thích (VI):** Đới gió thổi quanh năm với hướng và tốc độ tương đối ổn định từ các đai áp cao cận chí tuyến về đai áp thấp xích đạo. Gió thổi theo hướng đông bắc ở bán cầu Bắc, hướng đông nam ở bán cầu Nam và nhìn chung có tính chất khô.
-- **Bối cảnh:** Địa lí lớp 10, Bài 9 (Mục 3.b): Trình bày phạm vi hoạt động, hướng thổi và tính chất khô của gió Mậu dịch.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.a), tr. 31; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32, 33
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: Prevailing winds blowing constantly from the subtropical high-pressure belts toward the equatorial low-pressure belt, characterized by relatively steady direction and speed. Since ancient times, people have harnessed these winds to propel sailing ships for trade. / VI: Loại gió thổi thường xuyên từ các đai áp cao cận chí tuyến về đai áp thấp Xích đạo trên Trái Đất, có hướng và tốc độ tương đối ổn định. Từ xa xưa, con người đã lợi dụng loại gió này để di chuyển thuyền buồm phục vụ mục đích buôn bán.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 9 (Mục 3.b): Trình bày phạm vi hoạt động, hướng thổi và tính chất khô của gió Mậu dịch.
+  - Lịch sử và Địa lí lớp 6, Bài 15 (Mục 5): đặc điểm hướng và tính chất của đới gió thường xuyên ở vùng nội chí tuyến.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.a), tr. 31; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32, 33; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 5), tr. 145
 
 ### traditional security
 - **Tiếng Việt:** An ninh truyền thống
@@ -4911,6 +6122,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 19 (Mục II.3.b): Đặc điểm hiện đại và quy mô các loại hình giao thông vận tải ở Hoa Kỳ.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B19 (Mục II.2), tr. 93; SGK Địa lí 11 KNTT, Phần hai, B19 (Mục II.3), tr. 93; SGK Địa lí 11 KNTT, Phần hai, B19 (Mục II.3.a), tr. 93; SGK Địa lí 11 KNTT, Phần hai, B19 (Mục II.3.b), tr. 94
 
+### tributary
+- **Tiếng Việt:** Phụ lưu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A branch river that feeds water into the main river within a river system.
+- **Giải thích (VI):** Dòng sông nhánh làm nhiệm vụ đổ nước vào sông chính trong một hệ thống sông.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 20 (Mục 1.a): phân biệt bộ phận cấp nước vào sông chính với chi lưu thoát nước cho sông chính.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20, tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158, 159
+
+### tropic
+- **Tiếng Việt:** Chí tuyến
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A special parallel located at latitude 23°27' on the terrestrial globe, comprising the Northern Tropic (23°27'N) in the Northern Hemisphere and the Southern Tropic (23°27'S) in the Southern Hemisphere.
+- **Giải thích (VI):** Đường vĩ tuyến đặc biệt nằm ở vĩ độ 23°27' trên quả Địa Cầu, gồm chí tuyến Bắc (23°27'B) ở bán cầu Bắc và chí tuyến Nam (23°27'N) ở bán cầu Nam.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 1 (Mục 1): nhận diện hai đường vĩ tuyến đặc biệt ở vĩ độ 23°27' Bắc và 23°27' Nam trên quả Địa Cầu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1, tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 102
+
+### tropical forest
+- **Tiếng Việt:** Rừng nhiệt đới
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A forest biome extending from the Equator to the outer limits of the tropical belts in both hemispheres, characterized by a mean annual temperature above 21 °C and mean annual precipitation exceeding 1,700 mm. It features a multi-layered canopy of woody trees, lianas, epiphytes, and diverse fauna, divided into two main types: tropical rainforests and tropical monsoon forests.
+- **Giải thích (VI):** Thảm rừng phân bố từ vùng Xích đạo đến hết vòng đai nhiệt đới ở cả hai bán cầu, nơi có nhiệt độ trung bình năm trên 21 °C và lượng mưa trung bình năm trên 1 700 mm. Rừng có cấu trúc nhiều tầng với cây thân gỗ, dây leo, thực vật phụ sinh và hệ động vật phong phú, gồm hai kiểu chính là rừng mưa nhiệt đới và rừng nhiệt đới gió mùa.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 24 (Mục 1): Trình bày phạm vi phân bố, điều kiện khí hậu và cấu trúc sinh thái chung của thảm rừng ở đới nóng.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24, tr. 173; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 1), tr. 173; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 1), tr. 173, 174
+
 ### tropical humid monsoon climate
 - **Tiếng Việt:** Khí hậu nhiệt đới ẩm gió mùa
 - **Chuyên ngành gốc:** Địa lí
@@ -4929,13 +6164,52 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Giới hạn độ cao của đai ở miền Bắc (từ khoảng 600 – 700 m trở xuống) thấp hơn so với ở miền Nam (từ khoảng 900 – 1 000 m trở xuống).
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B3 (Mục I.2), tr. 19; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục I.3), tr. 19; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục I.3), tr. 19, 20
 
+### tropical monsoon forest
+- **Tiếng Việt:** Rừng nhiệt đới gió mùa
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A type of tropical forest that develops in regions with distinct wet and dry seasons, such as Southeast Asia and eastern India. Its trees are shorter, form fewer canopy layers than those in tropical rainforests, and largely shed their leaves during the dry season.
+- **Giải thích (VI):** Kiểu rừng nhiệt đới phát triển ở những khu vực có một mùa mưa và một mùa khô rõ rệt như Đông Nam Á và Đông Ấn Độ. Cây trong rừng thấp hơn, ít tầng tán hơn so với rừng mưa nhiệt đới và phần lớn rụng lá vào mùa khô.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 24 (Mục 1): Nhận diện kiểu rừng nhiệt đới thích nghi với chế độ mưa theo mùa, phổ biến ở khu vực Đông Nam Á.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24, tr. 173; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 1), tr. 173; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 1), tr. 173, 174
+
+### tropical rainforest
+- **Tiếng Việt:** Rừng mưa nhiệt đới
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A type of tropical forest formed in regions with abundant year-round rainfall, featuring dense evergreen vegetation structured into 4–5 canopy layers. It is distributed mainly in the Amazon Basin (South America), the Congo Basin (Africa), and parts of Southeast Asia.
+- **Giải thích (VI):** Kiểu rừng nhiệt đới hình thành ở những vùng mưa nhiều quanh năm, có cây cối xanh tốt rậm rạp cấu trúc thành 4–5 tầng tán. Kiểu rừng này phân bố chủ yếu ở lưu vực sông A-ma-dôn (Nam Mỹ), lưu vực sông Công-gô (châu Phi) và một phần Đông Nam Á.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 24 (Mục 1): Phân biệt kiểu rừng nhiệt đới mưa quanh năm với rừng nhiệt đới gió mùa.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24, tr. 173; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 1), tr. 173; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 1), tr. 173, 174
+
+### tropical red-yellow soil
+- **Tiếng Việt:** Đất đỏ vàng nhiệt đới
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A major soil group typical of tropical regions where intense accumulation of iron and aluminum oxides gives the soil a red-yellow color, a thick profile, relative acidity, and low nutrient levels.
+- **Giải thích (VI):** Nhóm đất điển hình ở vùng nhiệt đới có quá trình tích tụ oxit sắt và nhôm diễn ra mạnh làm đất mang màu đỏ vàng, tầng đất dày, tương đối chua và ít chất dinh dưỡng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 22 (Mục 4): Nhận diện nhóm đất điển hình ở vùng nhiệt đới và phổ biến tại Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 3), tr. 169; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 4), tr. 169; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 4), tr. 169, 170
+
+### tropical zone
+- **Tiếng Việt:** Đới nóng (nhiệt đới)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A climate zone that is hot year-round with a mean annual temperature of at least 20°C, mean annual precipitation ranging from 1,000 mm to over 2,000 mm, and prevailing trade winds.
+- **Giải thích (VI):** Đới khí hậu nóng quanh năm với nhiệt độ trung bình năm không thấp hơn 20°C, lượng mưa trung bình năm từ 1 000 mm đến trên 2 000 mm và có gió Mậu dịch thổi thường xuyên.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The low-latitude natural zone characterized by high year-round temperatures and rich, diverse flora and fauna, where natural landscapes vary primarily according to rainfall regimes. / VI: Đới thiên nhiên nằm ở vùng vĩ độ thấp có nền nhiệt độ cao quanh năm, giới thực vật và động vật hết sức phong phú, đa dạng, trong đó cảnh quan tự nhiên phân hoá chủ yếu tuỳ thuộc vào chế độ mưa.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 17 (Mục 2): trình bày đặc điểm khí hậu của đới nóng trong năm đới khí hậu trên Trái Đất.
+  - Lịch sử và Địa lí lớp 6, Bài 25 (Mục 1): Trình bày đặc điểm tổng hợp về khí hậu, cảnh quan và sinh vật của đới thiên nhiên nóng.
+  - *Lưu ý:* Trong Bài 25, thuật ngữ chỉ đới thiên nhiên nóng (tổng hợp khí hậu, đất, cảnh quan và sinh vật), phân biệt với đới khí hậu nóng (nhiệt đới) chỉ xét riêng yếu tố khí hậu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.a), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.b), tr. 151, 152; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25, tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 1), tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 2), tr. 175
+
 ### troposphere
 - **Tiếng Việt:** Tầng đối lưu
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The lowest of the five structural layers of the atmosphere, extending from Earth's surface to an altitude of about 8–16 km. It is the most important atmospheric layer because it is directly linked to natural processes occurring on Earth's surface.
 - **Giải thích (VI):** Tầng thấp nhất trong năm tầng cấu trúc của khí quyển, nằm từ bề mặt đất đến độ cao khoảng 8 – 16 km. Đây là tầng khí quyển quan trọng nhất vì liên quan trực tiếp tới các quá trình tự nhiên diễn ra trên bề mặt Trái Đất.
-- **Bối cảnh:** Địa lí lớp 10, Bài 9 (Mục 1): Xác định vị trí giới hạn và vai trò quan trọng nhất của tầng đối lưu trong cấu trúc khí quyển.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9, tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28, 29
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The lowest atmospheric layer adjacent to the Earth's surface, where air constantly moves vertically and temperature decreases with altitude (dropping by an average of 0.6 °C per 100 m of ascent). It is the layer where weather phenomena such as clouds, rain, thunder, and lightning occur. / VI: Tầng khí quyển nằm sát mặt đất, nơi không khí luôn chuyển động theo chiều thẳng đứng và nhiệt độ giảm theo độ cao (trung bình cứ lên cao 100 m giảm 0,6 °C). Đây là nơi sinh ra các hiện tượng thời tiết như mây, mưa, sấm sét.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 9 (Mục 1): Xác định vị trí giới hạn và vai trò quan trọng nhất của tầng đối lưu trong cấu trúc khí quyển.
+  - Lịch sử và Địa lí lớp 6, Bài 15 (Mục 2): đặc điểm nhiệt độ, chuyển động không khí và hiện tượng thời tiết ở tầng thấp nhất của khí quyển.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9, tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28, 29; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 143
 
 ### Truong Sa Archipelago
 - **Tiếng Việt:** Quần đảo Trường Sa
@@ -4950,8 +6224,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A special long-wavelength sea wave generated by major submarine earthquakes or volcanic eruptions. Propagating horizontally at high speed, it can exceed 20 m in height upon reaching the coast, causing catastrophic natural disasters.
 - **Giải thích (VI):** Dạng sóng biển dài đặc biệt phát sinh từ các hoạt động động đất hoặc núi lửa lớn dưới đáy biển. Sóng lan truyền theo phương ngang với tốc độ lớn và khi vào đến bờ có thể dâng cao trên 20 m, tạo nên thảm hoạ thiên nhiên tàn khốc.
-- **Bối cảnh:** Địa lí lớp 10, Bài 12 (Mục 2.a): Giải thích bản chất, nguyên nhân địa chất dưới đáy biển và mức độ nguy hiểm của sóng thần.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 2.a), tr. 42; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 2.b), tr. 42
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: Fast-moving, solitary long sea waves triggered by offshore earthquakes or submarine volcanic eruptions, capable of reaching heights over 20 m upon approaching the coast. Tsunamis are devastating natural disasters that inflict severe loss of life and property in coastal areas. / VI: Những sóng biển dài đơn độc, di chuyển nhanh xuất hiện khi xảy ra động đất hoặc núi lửa ngầm ngoài khơi, khi vào đến bờ có thể dâng cao trên 20 m. Sóng thần là loại thiên tai khốc liệt gây thiệt hại nặng nề về người và tài sản ở vùng ven biển.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 12 (Mục 2.a): Giải thích bản chất, nguyên nhân địa chất dưới đáy biển và mức độ nguy hiểm của sóng thần.
+  - Lịch sử và Địa lí lớp 6, Bài 21 (Mục 3.a): phân biệt nguyên nhân và mức độ nguy hiểm của sóng thần với sóng biển thông thường do gió.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 2.a), tr. 42; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 2.b), tr. 42; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 2.a), tr. 164; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 2.b), tr. 164; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.a), tr. 164
+
+### tundra
+- **Tiếng Việt:** Đài nguyên
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The characteristic landscape and vegetation type of the polar zone formed on thin soil, consisting of low-growing plants such as mosses, lichens, and herbaceous species that grow during the brief summer.
+- **Giải thích (VI):** Kiểu cảnh quan và thảm thực vật đặc trưng của đới lạnh hình thành trên tầng đất mỏng, gồm các loài thực vật thấp lùn như rêu, địa y và cây thân thảo sinh trưởng trong mùa hạ ngắn ngủi.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 25 (Mục 3): Nhận diện cảnh quan và thảm thực vật tiêu biểu ở vùng cực thuộc đới lạnh.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25, tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 1), tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 2), tr. 175
 
 ### United Nations
 - **Tiếng Việt:** Liên hợp quốc (UN)
@@ -4963,6 +6248,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 11, Bài 4 (Mục I.1): Năm thành lập, quy mô thành viên, tôn chỉ và mục tiêu hoạt động của Liên hợp quốc.
   - Lịch sử lớp 12, Bài 1 (Mục 1.a): Quá trình thành lập, mục tiêu, nguyên tắc hoạt động và vai trò của Liên hợp quốc trong quan hệ quốc tế.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B4, tr. 14; SGK Địa lí 11 KNTT, Phần một, B4 (Mục I.1), tr. 14; SGK Địa lí 11 KNTT, Phần một, B4 (Mục I.2), tr. 14; SGK Lịch sử 12 KNTT, Chủ đề 01, B1, tr. 6; SGK Lịch sử 12 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 7; SGK Lịch sử 12 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 8
+
+### Universe
+- **Tiếng Việt:** Vũ Trụ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The entirety of boundless space and time existing around humankind, containing countless galaxies along with hundreds of billions of stars, celestial bodies, gas, and dust.
+- **Giải thích (VI):** Toàn bộ không gian và thời gian vô tận tồn tại xung quanh con người, chứa vô số thiên hà cùng hàng trăm tỉ ngôi sao, các thiên thể, khí và bụi.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 6 (Mục 1): nhận thức khoảng không gian vô tận chứa vô số thiên hà, trong đó có dải Ngân Hà.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B6, tr. 116; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1), tr. 116
+
+### urban area
+- **Tiếng Việt:** Đô thị
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A concentrated human settlement characterized by a large population size, high population density, and a high share of labor in industry and services, functioning as a center for local or regional socioeconomic development.
+- **Giải thích (VI):** Điểm dân cư tập trung có quy mô dân số lớn, mật độ dân số cao, tỉ lệ lao động phi nông nghiệp (công nghiệp và dịch vụ) cao, giữ vai trò trung tâm thúc đẩy phát triển kinh tế – xã hội của một vùng hoặc địa phương.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 27 (Mục 3): Tìm hiểu xu hướng tập trung dân cư vào các thành phố và tác động của quá trình phát triển đô thị.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 3), tr. 182
 
 ### urban classification in Vietnam
 - **Tiếng Việt:** Phân loại đô thị Việt Nam
@@ -5070,6 +6371,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 8 (Hình 8): Xác định sự phân bố các vành đai núi lửa trên thế giới và mối liên hệ với sự dịch chuyển mảng kiến tạo.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B8, tr. 27
 
+### volcano
+- **Tiếng Việt:** Núi lửa
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A landform and geological phenomenon formed where the Earth's crust is fractured, allowing magma flows to erupt through fissures onto continental or oceanic surfaces. During eruptions, volcanoes expel ash, gases, and lava, potentially causing severe damage to people and the surrounding environment.
+- **Giải thích (VI):** Dạng địa hình và hiện tượng địa chất hình thành ở những nơi vỏ Trái Đất bị đứt gãy, khi các dòng mac-ma theo khe nứt phun trào lên bề mặt lục địa hoặc đại dương. Khi phun trào, núi lửa đẩy tro bụi, khí và dung nham ra ngoài, có thể gây thiệt hại lớn cho con người và môi trường xung quanh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 12 (Mục 1): nguyên nhân hình thành, dấu hiệu nhận biết và hậu quả của núi lửa phun trào.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B12, tr. 133; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B12 (Mục 1), tr. 133; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B12 (Mục 2), tr. 134
+
+### warm air mass
+- **Tiếng Việt:** Khối khí nóng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An air mass formed over low-latitude regions and characterized by relatively high temperatures.
+- **Giải thích (VI):** Khối khí hình thành trên các vùng vĩ độ thấp và có nhiệt độ tương đối cao.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 3): phân loại khối khí theo vĩ độ hình thành và tính chất nhiệt.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 143
+
+### warm ocean current
+- **Tiếng Việt:** Dòng biển nóng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An ocean current with a higher temperature than the surrounding seawater, typically flowing from lower latitudes toward higher latitudes and making coastal areas along its path warmer and wetter.
+- **Giải thích (VI):** Loại dòng biển có nhiệt độ cao hơn nhiệt độ nước biển xung quanh, thường chảy từ vùng vĩ độ thấp lên vùng vĩ độ cao hơn và làm cho vùng ven biển nơi chảy qua có khí hậu ấm áp, mưa nhiều hơn.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 21 (Mục 3.c): Phân loại dòng biển và giải thích ảnh hưởng của dòng biển nóng đến khí hậu vùng bờ biển.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.b), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165, 166
+
 ### warm ocean current and cold ocean current
 - **Tiếng Việt:** Dòng biển nóng và dòng biển lạnh
 - **Chuyên ngành gốc:** Địa lí
@@ -5077,6 +6402,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hai loại dòng biển phân biệt tuỳ theo tương quan với nhiệt độ nước biển xung quanh: dòng biển nóng xuất phát từ vùng vĩ độ thấp chảy về vùng vĩ độ cao, còn dòng biển lạnh xuất phát từ vùng vĩ độ cao chảy về vùng vĩ độ thấp. Tại các vùng gió mùa hoạt động thường xuyên còn xuất hiện các dòng biển đổi chiều và thay đổi tính chất theo mùa.
 - **Bối cảnh:** Địa lí lớp 10, Bài 12 (Mục 2.c): Phân biệt nguồn gốc, hướng chảy của dòng biển nóng, dòng biển lạnh và dòng biển theo mùa.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B12, tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.a), tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.b), tr. 41
+
+### water cycle
+- **Tiếng Việt:** Vòng tuần hoàn của nước trong tự nhiên
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The continuous transformation between liquid water and water vapor in nature, whereby surface water evaporates, rises, condenses upon cooling into tiny droplets forming clouds, and falls back as rain once the clouds become sufficiently heavy.
+- **Giải thích (VI):** Quá trình chuyển hoá qua lại không ngừng giữa nước lỏng và hơi nước trong tự nhiên: nước lỏng trên bề mặt Trái Đất bay hơi bay lên cao, gặp lạnh ngưng tụ thành các giọt nước nhỏ li ti tạo mây, rồi rơi xuống thành mưa khi mây tập trung đủ lớn và nặng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 10 (Mục II.2): minh hoạ sự phối hợp liên tục giữa quá trình bay hơi và quá trình ngưng tụ của nước trên Trái Đất.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.1), tr. 33; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 33; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 33, 34
 
 ### water resource depletion
 - **Tiếng Việt:** Suy giảm tài nguyên nước
@@ -5093,6 +6426,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Việc bảo đảm số lượng, chất lượng nước phục vụ dân sinh trong mọi tình huống, đáp ứng nhu cầu sử dụng nước cho các hoạt động kinh tế và quyền tiếp cận, sử dụng nước công bằng, hợp lí của mọi người dân. Nội hàm này đồng thời bao gồm khả năng ứng phó hiệu quả với thiên tai liên quan đến nước, thích ứng biến đổi khí hậu, bảo vệ môi trường và khắc phục tình trạng suy thoái, cạn kiệt, ô nhiễm nguồn nước.
 - **Bối cảnh:** Địa lí lớp 11, Bài 4 (Mục II.1.c): Khái niệm, nguyên nhân mất an ninh nguồn nước và giải pháp hợp tác bảo vệ tài nguyên nước.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B4 (Mục II.1.a), tr. 17; SGK Địa lí 11 KNTT, Phần một, B4 (Mục II.1.b), tr. 17; SGK Địa lí 11 KNTT, Phần một, B4 (Mục II.1.c), tr. 17
+
+### water vapor condensation
+- **Tiếng Việt:** Hơi nước ngưng tụ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The phenomenon in which atmospheric water vapor turns into tiny, light water droplets when saturated air continues to receive additional water vapor or cools down.
+- **Giải thích (VI):** Hiện tượng hơi nước trong không khí chuyển thành các hạt nước nhỏ, nhẹ khi không khí đã bão hoà hơi nước nhưng vẫn tiếp tục nhận thêm hơi nước hoặc bị lạnh đi.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 16 (Mục 2.a): giải thích điều kiện chuyển trạng thái hơi nước tạo thành mây và mưa trong khí quyển.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2.a), tr. 148; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2.b), tr. 148, 149
+
+### water vapor saturation
+- **Tiếng Việt:** Bão hoà hơi nước
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The state in which air holds the maximum possible amount of water vapor and cannot absorb any more, corresponding to an air humidity of 100%.
+- **Giải thích (VI):** Trạng thái không khí đã chứa lượng hơi nước tối đa và không thể chứa thêm được nữa, ứng với mức độ ẩm không khí đạt 100%.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 16 (Mục 2.a): xác định trạng thái giới hạn chứa hơi nước của không khí trước khi xảy ra ngưng tụ.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1.b), tr. 147; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2.a), tr. 147, 148; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2.a), tr. 148
+
+### wayfinding on a map
+- **Tiếng Việt:** Tìm đường đi trên bản đồ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A three-step procedure for determining a travel route on a map: identifying the origin, destination, and direction; finding and selecting a suitable route that complies with traffic safety laws; and using the map scale to determine the actual travel distance.
+- **Giải thích (VI):** Quy trình xác định lộ trình trên bản đồ qua ba bước: xác định nơi đi, nơi đến và hướng đi; tìm và chọn cung đường thích hợp với mục đích đồng thời tuân thủ luật an toàn giao thông; dựa vào tỉ lệ bản đồ để xác định khoảng cách thực tế sẽ đi.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 4 (Mục 3): thực hành tìm lộ trình và tính quãng đường thực tế trên bản đồ du lịch hoặc bản đồ giao thông.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B4 (Mục 3), tr. 111; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B4 (Mục 3), tr. 111, 112
+
+### weather
+- **Tiếng Việt:** Thời tiết
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The state of the atmosphere at a specific time and location, determined by elements such as temperature, humidity, precipitation, cloudiness, and wind. Weather is characterized by constant change.
+- **Giải thích (VI):** Trạng thái của khí quyển tại một thời điểm và khu vực cụ thể, xác định bằng các yếu tố như nhiệt độ, độ ẩm, mưa, mây và gió. Thời tiết có đặc tính luôn thay đổi.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 17 (Mục 1): phân biệt khái niệm thời tiết với khí hậu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17, tr. 150; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 1), tr. 150; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192
 
 ### weather front
 - **Tiếng Việt:** Frông
@@ -5123,8 +6488,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Prevailing winds that blow year-round from the subtropical high-pressure belts toward the subpolar low-pressure belts. They blow from the southwest in the Northern Hemisphere and from the northwest in the Southern Hemisphere, typically carrying high humidity and bringing precipitation.
 - **Giải thích (VI):** Đới gió thổi quanh năm từ các đai áp cao cận chí tuyến về các đai áp thấp ôn đới. Gió thổi theo hướng tây nam ở bán cầu Bắc, hướng tây bắc ở bán cầu Nam và thường có độ ẩm cao, gây mưa.
-- **Bối cảnh:** Địa lí lớp 10, Bài 9 (Mục 3.b): Trình bày phạm vi hoạt động, hướng thổi và tính chất ẩm, gây mưa của gió Tây ôn đới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.a), tr. 31; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32, 33
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: Prevailing winds blowing constantly from the subtropical high-pressure belts toward the temperate low-pressure belts on Earth. The westerlies are warm and humid, typically bringing rainfall to the regions they affect. / VI: Loại gió thổi thường xuyên từ các đai áp cao cận chí tuyến về các đai áp thấp ôn đới trên Trái Đất. Gió Tây ôn đới mang tính chất ấm, ẩm và thường gây mưa cho các khu vực chịu tác động.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 9 (Mục 3.b): Trình bày phạm vi hoạt động, hướng thổi và tính chất ẩm, gây mưa của gió Tây ôn đới.
+  - Lịch sử và Địa lí lớp 6, Bài 15 (Mục 5): phân biệt phạm vi hoạt động và tính chất ấm, ẩm của gió Tây ôn đới với gió Mậu dịch, gió Đông cực.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.a), tr. 31; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32, 33; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 5), tr. 145
+
+### Western Hemisphere
+- **Tiếng Việt:** Bán cầu Tây
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The half of the terrestrial globe located west of the Prime Meridian (0°) extending to the 180° meridian.
+- **Giải thích (VI):** Nửa bề mặt quả Địa Cầu nằm ở phía tây đường kinh tuyến gốc (0°) kéo dài đến đường kinh tuyến 180°.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 1 (Mục 1): xác định nửa cầu phía tây dựa vào vòng tròn phân chia tạo bởi kinh tuyến gốc và kinh tuyến 180°.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1, tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 102
 
 ### western mountain region of the United States
 - **Tiếng Việt:** Miền núi phía tây Hoa Kỳ
@@ -5133,6 +6509,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Khu vực địa hình phía tây phần lãnh thổ trung tâm Hoa Kỳ thuộc hệ thống núi Coóc-đi-e, gồm nhiều dãy núi trẻ cao trung bình trên 3 000 m (Rốc-ki, Nê-va-đa) xen kẽ các bồn địa, cao nguyên, hoang mạc với đất đỏ nâu và đất xám hoang mạc. Địa hình hiểm trở gây hạn chế cho giao thông và cư trú nhưng giàu cảnh quan du lịch, đồng thời có các thung lũng và đồng bằng nhỏ hẹp màu mỡ ven Thái Bình Dương thuận lợi trồng cây ăn quả và chăn nuôi.
 - **Bối cảnh:** Địa lí lớp 11, Bài 18 (Mục II.1): Đặc điểm địa hình, đất đai và giá trị kinh tế của miền núi phía tây Hoa Kỳ.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B18 (Mục II.1), tr. 82; SGK Địa lí 11 KNTT, Phần hai, B18 (Mục II.1), tr. 82, 83
+
+### wind
+- **Tiếng Việt:** Gió
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The movement of air from areas of high atmospheric pressure to areas of low atmospheric pressure. Wind is characterized by wind speed (measured in m/s or km/h) and wind direction (defined by the direction from which the wind originates).
+- **Giải thích (VI):** Sự chuyển động của không khí từ nơi có khí áp cao về nơi có khí áp thấp. Gió có hai yếu tố đặc trưng là tốc độ gió (đo bằng m/s hoặc km/h) và hướng gió (xác định theo hướng nơi gió xuất phát).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 5): nguyên nhân hình thành gió và cách xác định tốc độ, hướng gió.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15, tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 5), tr. 145; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192
+
+### World Ocean
+- **Tiếng Việt:** Đại dương thế giới
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The continuous body of water covering more than 70% of the Earth's surface, comprising the Pacific Ocean, Atlantic Ocean, Indian Ocean, and Arctic Ocean. Additionally, the Southern Ocean was officially recognized as the world's fifth ocean by the National Geographic Society in June 2021.
+- **Giải thích (VI):** Lớp nước liên tục bao phủ hơn 70% diện tích bề mặt Trái Đất, gồm Thái Bình Dương, Đại Tây Dương, Ấn Độ Dương và Bắc Băng Dương. Ngoài ra, Nam Đại Dương (Nam Băng Dương) đã được Hiệp hội Địa lí Quốc gia Hoa Kỳ công nhận là đại dương thứ năm vào tháng 6 năm 2021.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 21 (Mục 1): xác định phạm vi và vị trí các đại dương trên bản đồ thế giới.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21, tr. 163; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 1), tr. 163; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 2.a), tr. 164
+
+### world population
+- **Tiếng Việt:** Dân số thế giới
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The total number of people living on Earth across more than 200 countries and territories (reaching 7.6 billion in 2018). Although national populations vary widely and constantly fluctuate, the global population shows a continuous upward trend over time.
+- **Giải thích (VI):** Tổng số người sinh sống trên toàn Trái Đất trong hơn 200 quốc gia và vùng lãnh thổ (đạt 7,6 tỉ người vào năm 2018). Dù quy mô dân số giữa các quốc gia rất khác nhau và luôn biến động, tổng dân số toàn cầu có xu hướng tăng liên tục theo thời gian.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 27 (Mục 1): Khái quát quy mô và xu hướng biến động dân số toàn cầu qua các thời kì.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27, tr. 180; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 1), tr. 180; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 2), tr. 180
 
 ### World Trade Organization
 - **Tiếng Việt:** Tổ chức Thương mại Thế giới (WTO)
@@ -5155,13 +6555,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 38 (Mục 2.c): Hướng dẫn cấu trúc biên soạn và hình thức trình bày báo cáo thực hành về ngành dịch vụ.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B38 (Mục 1), tr. 107; SGK Địa lí 10 KNTT, Phần ba, B38 (Mục 2.b), tr. 107; SGK Địa lí 10 KNTT, Phần ba, B38 (Mục 2.c), tr. 107
 
+### young mountain region
+- **Tiếng Việt:** Vùng núi trẻ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A mountain region formed relatively recently, about tens of millions of years ago, where endogenic processes outweigh exogenic processes so the terrain continues to uplift.
+- **Giải thích (VI):** Vùng núi mới hình thành cách đây khoảng vài chục triệu năm, nơi tác động của quá trình nội sinh mạnh hơn quá trình ngoại sinh nên địa hình vẫn tiếp tục nâng cao.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 11 (Mục 2): phân biệt đặc điểm phát triển địa hình của vùng núi trẻ với vùng núi già.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 132
+
 ### zone time
-- **Tiếng Việt:** Giờ múi
+- **Tiếng Việt:** Giờ múi (Giờ khu vực; khu vực giờ)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The unified time shared by all localities situated within the same longitudinal time zone on the Earth's surface. To overcome the practical inconvenience of local solar time, the globe is divided into 24 time zones, each spanning 15 degrees of longitude.
 - **Giải thích (VI):** Giờ thống nhất chung cho tất cả các địa phương nằm trong cùng một múi giờ trên bề mặt Trái Đất. Để khắc phục sự bất tiện của giờ địa phương trong đời sống và sản xuất, bề mặt Trái Đất chia thành 24 múi giờ với mỗi múi rộng 15 độ kinh tuyến.
-- **Bối cảnh:** Địa lí lớp 10, Bài 5 (Mục 1.b): Trình bày nguyên tắc chia 24 múi giờ trên Trái Đất và cách tính giờ giữa các múi.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B5, tr. 17; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1), tr. 17; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1.a), tr. 17; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1.b), tr. 18
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A standardized time shared by all locations within the same zone when the Earth's surface is divided into 24 time zones for convenience in daily life and transactions, with adjacent zones differing by 1 hour. / VI: Giờ thống nhất chung cho các địa điểm nằm trong cùng một khu vực khi chia bề mặt Trái Đất thành 24 khu vực giờ để thuận tiện trong sinh hoạt và giao dịch, trong đó hai khu vực giờ liền nhau chênh nhau 1 giờ.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 5 (Mục 1.b): Trình bày nguyên tắc chia 24 múi giờ trên Trái Đất và cách tính giờ giữa các múi.
+  - Lịch sử và Địa lí lớp 6, Bài 7 (Mục 2.b): hệ thống 24 khu vực giờ trên thế giới (Việt Nam thống nhất dùng giờ khu vực số 7) và quy tắc tính chênh lệch giờ.
+  - *Lưu ý:* Phân biệt với giờ địa phương (local time) biến đổi theo từng kinh tuyến dựa trên độ cao Mặt Trời.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B5, tr. 17; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1), tr. 17; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1.a), tr. 17; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1.b), tr. 18; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.a), tr. 119; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.b), tr. 119; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.b), tr. 119, 120
 
 ---
 

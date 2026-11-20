@@ -1,0 +1,183 @@
+{
+  "H6-khoa_hoc_tu_nhien-b25-01": { "pdf_page": 88, "bbox": [76, 114, 538, 372] },
+  "H6-khoa_hoc_tu_nhien-b25-02": { "pdf_page": 88, "bbox": [58, 429, 555, 745] },
+  "H6-khoa_hoc_tu_nhien-b25-03": { "pdf_page": 89, "bbox": [98, 128, 329, 316] },
+  "H6-khoa_hoc_tu_nhien-b25-04": { "pdf_page": 89, "bbox": [73, 414, 535, 795] },
+  "H6-khoa_hoc_tu_nhien-b25-05": {
+    "pdf_page": 90,
+    "bbox": [95, 133, 534, 357],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 25.5 nằm trọn trong hộp Hoạt động nền xanh nhạt; cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b26-01": { "pdf_page": 91, "bbox": [96, 517, 534, 718] },
+  "H6-khoa_hoc_tu_nhien-b26-02": { "pdf_page": 92, "bbox": [62, 80, 559, 386] },
+  "H6-khoa_hoc_tu_nhien-b27-01": { "pdf_page": 93, "bbox": [54, 472, 541, 758] },
+  "H6-khoa_hoc_tu_nhien-b27-02": { "pdf_page": 94, "bbox": [318, 52, 561, 268] },
+  "H6-khoa_hoc_tu_nhien-b27-03": {
+    "pdf_page": 94,
+    "bbox": [119, 338, 442, 555],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh tán cây giữa hình (y=321) cao hơn dòng chữ mục III bên trái (y=322..332); đặt y0=338 để không dính chữ bài học"
+  },
+  "H6-khoa_hoc_tu_nhien-b27-04": { "pdf_page": 95, "bbox": [71, 209, 212, 360] },
+  "H6-khoa_hoc_tu_nhien-b27-05": { "pdf_page": 95, "bbox": [217, 209, 375, 360] },
+  "H6-khoa_hoc_tu_nhien-b27-06": { "pdf_page": 95, "bbox": [382, 209, 540, 360] },
+  "H6-khoa_hoc_tu_nhien-b27-07": {
+    "pdf_page": 96,
+    "bbox": [415, 79, 540, 223],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 27.7 nằm trọn trong hộp Em có thể nền vàng nhạt; cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b29-01": { "pdf_page": 99, "bbox": [281, 505, 538, 718] },
+  "H6-khoa_hoc_tu_nhien-b29-02": { "pdf_page": 100, "bbox": [325, 58, 550, 258] },
+  "H6-khoa_hoc_tu_nhien-b29-03": { "pdf_page": 101, "bbox": [70, 304, 299, 547] },
+  "H6-khoa_hoc_tu_nhien-b29-04": { "pdf_page": 101, "bbox": [306, 304, 534, 547] },
+  "H6-khoa_hoc_tu_nhien-b29-05": {
+    "pdf_page": 102,
+    "bbox": [376, 565, 526, 711],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 29.5 nằm trọn trong hộp Em có biết nền xanh lá nhạt; cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b30-01": { "pdf_page": 103, "bbox": [55, 439, 556, 785] },
+  "H6-khoa_hoc_tu_nhien-b30-02": { "pdf_page": 104, "bbox": [76, 491, 540, 646] },
+  "H6-khoa_hoc_tu_nhien-b30-03": { "pdf_page": 105, "bbox": [55, 260, 526, 473] },
+  "H6-khoa_hoc_tu_nhien-b30-04": {
+    "pdf_page": 106,
+    "bbox": [281, 395, 540, 610],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 30.4 nằm trọn trong hộp Em có biết nền xanh lá nhạt; cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b31-01": {
+    "pdf_page": 107,
+    "bbox": [110, 502, 472, 788],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nét bàn tay hình a (y=494) nằm sát dòng chữ 'lam kính (d).' phía trên (y=493); đặt y0=502 để không dính chữ bài học"
+  },
+  "H6-khoa_hoc_tu_nhien-b31-02": { "pdf_page": 108, "bbox": [140, 247, 461, 536] },
+  "H6-khoa_hoc_tu_nhien-b32-01": { "pdf_page": 109, "bbox": [71, 643, 534, 787] },
+  "H6-khoa_hoc_tu_nhien-b32-02": { "pdf_page": 110, "bbox": [394, 380, 563, 518] },
+  "H6-khoa_hoc_tu_nhien-b32-03": { "pdf_page": 110, "bbox": [361, 541, 540, 744] },
+  "H6-khoa_hoc_tu_nhien-b32-04": { "pdf_page": 111, "bbox": [403, 106, 534, 232] },
+  "H6-khoa_hoc_tu_nhien-b32-05": {
+    "pdf_page": 112,
+    "bbox": [395, 279, 531, 403],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 32.5 nằm trọn trong hộp Em có biết nền xanh lá nhạt; cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b32-06": {
+    "pdf_page": 112,
+    "bbox": [83, 534, 531, 735],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 32.6 nằm trọn trong hộp Em có biết nền xanh lá nhạt; cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b33-01": { "pdf_page": 113, "bbox": [275, 628, 541, 780] },
+  "H6-khoa_hoc_tu_nhien-b33-02": {
+    "pdf_page": 114,
+    "bbox": [128, 84, 542, 296],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đầu bóp ống nhỏ giọt góc phải trên (y=66) cao ngang dòng chữ dẫn bên trái (y=56..79); đặt y0=84 để không dính chữ bài học"
+  },
+  "H6-khoa_hoc_tu_nhien-b33-03": { "pdf_page": 114, "bbox": [77, 372, 540, 527] },
+  "H6-khoa_hoc_tu_nhien-b33-04": { "pdf_page": 114, "bbox": [299, 546, 526, 791] },
+  "H6-khoa_hoc_tu_nhien-b34-01": { "pdf_page": 117, "bbox": [55, 57, 547, 326] },
+  "H6-khoa_hoc_tu_nhien-b34-02": { "pdf_page": 117, "bbox": [55, 345, 534, 564] },
+  "H6-khoa_hoc_tu_nhien-b34-03": { "pdf_page": 118, "bbox": [121, 359, 515, 559] },
+  "H6-khoa_hoc_tu_nhien-b34-04": { "pdf_page": 119, "bbox": [354, 34, 509, 243] },
+  "H6-khoa_hoc_tu_nhien-b34-05": {
+    "pdf_page": 119,
+    "bbox": [328, 268, 548, 458],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trái đi qua góc phải nền hộp Câu hỏi màu vàng nhạt nằm sát tán cây thông, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b34-06": { "pdf_page": 119, "bbox": [77, 573, 324, 718] },
+  "H6-khoa_hoc_tu_nhien-b34-07": { "pdf_page": 119, "bbox": [331, 573, 563, 718] },
+  "H6-khoa_hoc_tu_nhien-b34-08": {
+    "pdf_page": 120,
+    "bbox": [67, 452, 591, 667],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh bên phải của Hình 34.8 tràn sát mép phải trang in (x=595); cạnh phải nằm trên mép ảnh tràn lề, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b34-09": {
+    "pdf_page": 121,
+    "bbox": [249, 109, 559, 309],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 34.9 nằm trọn trong hộp Hoạt động nền xanh nhạt; cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b34-10": { "pdf_page": 121, "bbox": [73, 380, 521, 575] },
+  "H6-khoa_hoc_tu_nhien-b34-11": { "pdf_page": 122, "bbox": [77, 57, 540, 224] },
+  "H6-khoa_hoc_tu_nhien-b34-12": { "pdf_page": 122, "bbox": [91, 586, 540, 738] },
+  "H6-khoa_hoc_tu_nhien-b34-13": {
+    "pdf_page": 123,
+    "bbox": [55, 63, 540, 312],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Phần 2 của Hình 34.12 nằm trọn trong hộp Hoạt động nền xanh nhạt; cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b34-14": { "pdf_page": 123, "bbox": [71, 364, 530, 557] },
+  "H6-khoa_hoc_tu_nhien-b35-01": {
+    "pdf_page": 124,
+    "bbox": [245, 659, 540, 790],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nhãn xanh Hình 35.1 (x=240) cách chữ cột trái (x=237) chỉ 3 pt nên cạnh trái với lề 4 pt đi sát mép nhãn xanh để không dính chữ cột trái"
+  },
+  "H6-khoa_hoc_tu_nhien-b35-02": {
+    "pdf_page": 125,
+    "bbox": [361, 44, 550, 290],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nhãn xanh Hình 35.2 vươn sang trái (x=355) hơn đuôi dòng chữ mục II.3 bên trái (x=378) nên không có khung chữ nhật nào vừa trọn nhãn vừa tránh đuôi dòng chữ"
+  },
+  "H6-khoa_hoc_tu_nhien-b35-03": { "pdf_page": 125, "bbox": [153, 400, 472, 587] },
+  "H6-khoa_hoc_tu_nhien-b36-01": { "pdf_page": 127, "bbox": [341, 123, 534, 297] },
+  "H6-khoa_hoc_tu_nhien-b36-02": { "pdf_page": 127, "bbox": [71, 380, 534, 548] },
+  "H6-khoa_hoc_tu_nhien-b36-03": { "pdf_page": 127, "bbox": [392, 567, 541, 683] },
+  "H6-khoa_hoc_tu_nhien-b36-04": { "pdf_page": 127, "bbox": [65, 681, 205, 787] },
+  "H6-khoa_hoc_tu_nhien-b36-05": { "pdf_page": 128, "bbox": [57, 57, 272, 177] },
+  "H6-khoa_hoc_tu_nhien-b36-06": { "pdf_page": 128, "bbox": [328, 178, 536, 325] },
+  "H6-khoa_hoc_tu_nhien-b36-07": {
+    "pdf_page": 128,
+    "bbox": [85, 490, 536, 606],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 36.7 nằm trọn trong hộp Hoạt động nền xanh nhạt; cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b36-08": { "pdf_page": 129, "bbox": [71, 267, 281, 427] },
+  "H6-khoa_hoc_tu_nhien-b36-09": { "pdf_page": 129, "bbox": [286, 267, 534, 427] },
+  "H6-khoa_hoc_tu_nhien-b36-10": { "pdf_page": 129, "bbox": [71, 488, 286, 697] },
+  "H6-khoa_hoc_tu_nhien-b36-11": { "pdf_page": 130, "bbox": [328, 55, 534, 173] },
+  "H6-khoa_hoc_tu_nhien-b36-12": { "pdf_page": 130, "bbox": [72, 187, 281, 349] },
+  "H6-khoa_hoc_tu_nhien-b36-13": { "pdf_page": 130, "bbox": [299, 364, 534, 511] },
+  "H6-khoa_hoc_tu_nhien-b36-14": { "pdf_page": 130, "bbox": [234, 603, 562, 766] },
+  "H6-khoa_hoc_tu_nhien-b36-15": { "pdf_page": 131, "bbox": [153, 98, 451, 271] },
+  "H6-khoa_hoc_tu_nhien-b36-16": { "pdf_page": 131, "bbox": [153, 398, 460, 731] },
+  "H6-khoa_hoc_tu_nhien-b36-17": { "pdf_page": 132, "bbox": [99, 472, 507, 632] },
+  "H6-khoa_hoc_tu_nhien-b36-18": {
+    "pdf_page": 133,
+    "bbox": [78, 279, 310, 461],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 36.18 nằm trọn trong hộp Em có biết nền xanh lá nhạt; cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  },
+  "H6-khoa_hoc_tu_nhien-b36-19": { "pdf_page": 133, "bbox": [178, 608, 410, 775] },
+  "H6-khoa_hoc_tu_nhien-b37-01": { "pdf_page": 134, "bbox": [122, 476, 518, 671] },
+  "H6-khoa_hoc_tu_nhien-b37-02": { "pdf_page": 135, "bbox": [67, 110, 534, 296] },
+  "H6-khoa_hoc_tu_nhien-b38-01": { "pdf_page": 136, "bbox": [50, 328, 280, 480] },
+  "H6-khoa_hoc_tu_nhien-b38-02": { "pdf_page": 136, "bbox": [286, 328, 542, 480] },
+  "H6-khoa_hoc_tu_nhien-b38-03": {
+    "pdf_page": 136,
+    "bbox": [320, 542, 562, 785],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cột chữ bên trái (x<=314) nằm sát mép trái nhãn xanh Hình 38.3 (x=319); đặt x0=320 để tách sạch chữ cột trái"
+  },
+  "H6-khoa_hoc_tu_nhien-b38-04": { "pdf_page": 137, "bbox": [250, 57, 534, 274] },
+  "H6-khoa_hoc_tu_nhien-b38-05": { "pdf_page": 137, "bbox": [67, 442, 290, 597] },
+  "H6-khoa_hoc_tu_nhien-b38-06": { "pdf_page": 137, "bbox": [299, 442, 530, 623] },
+  "H6-khoa_hoc_tu_nhien-b38-07": { "pdf_page": 138, "bbox": [74, 57, 537, 320] },
+  "H6-khoa_hoc_tu_nhien-b38-08": {
+    "pdf_page": 138,
+    "bbox": [153, 414, 536, 659],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 38.8 bố trí hình chữ L ôm quanh đoạn văn mục III.2 nên không có khung chữ nhật nào bao trọn cả 5 ảnh thành phần và mũi tên nối mà không dính phần chữ góc trái trên"
+  },
+  "H6-khoa_hoc_tu_nhien-b38-09": { "pdf_page": 139, "bbox": [69, 133, 534, 323] },
+  "H6-khoa_hoc_tu_nhien-b39-01": { "pdf_page": 140, "bbox": [359, 405, 526, 553] },
+  "H6-khoa_hoc_tu_nhien-b39-02": { "pdf_page": 142, "bbox": [61, 525, 540, 711] },
+  "H6-khoa_hoc_tu_nhien-b39-03": { "pdf_page": 143, "bbox": [88, 141, 536, 335] },
+  "H6-khoa_hoc_tu_nhien-b39-04": { "pdf_page": 143, "bbox": [98, 506, 515, 665] }
+}

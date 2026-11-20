@@ -83,12 +83,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B16 (Mục II), tr. 67; SGK Vật lí 10 KNTT, Chương 03, B16 (Mục II), tr. 68
 
 ### aerodynamic shape
-- **Tiếng Việt:** Hình khí động học
+- **Tiếng Việt:** Hình khí động học (dạng khí động học)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** An optimized spindle-like shape of an object or vehicle moving through air designed to minimize fluid drag. Designing vehicles with an aerodynamic shape facilitates high-speed motion and reduces fuel consumption.
 - **Giải thích (VI):** Hình dạng tối ưu tương tự hình con thoi của vật thể hoặc phương tiện chuyển động trong không khí nhằm giảm thiểu lực cản của chất lưu. Thiết kế hình khí động học giúp các phương tiện giao thông di chuyển dễ dàng hơn và giảm hao phí nhiên liệu.
-- **Bối cảnh:** Vật lí lớp 10, Bài 19 (Mục II): Ứng dụng tối ưu hóa hình dạng phương tiện giao thông để giảm lực cản không khí và tiết kiệm nhiên liệu.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B19 (Mục II), tr. 79
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A specialized tapered (aerodynamic) contour that minimizes air or water resistance acting on a moving body, commonly seen in aquatic animals and high-speed cycling helmets. / VI: Hình dạng thuôn gọn đặc biệt giúp giảm lực cản của không khí hoặc nước tác dụng lên vật khi chuyển động, thường gặp ở cơ thể động vật sống dưới nước và mũ đua xe đạp.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 19 (Mục II): Ứng dụng tối ưu hóa hình dạng phương tiện giao thông để giảm lực cản không khí và tiết kiệm nhiên liệu.
+  - Khoa học tự nhiên lớp 6, Bài 45 (Mục II): ứng dụng giảm lực cản môi trường trong thiết kế mũ đua xe đạp và giải thích hình dạng cơ thể động vật dưới nước.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B19 (Mục II), tr. 79; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B45 (Mục II), tr. 161
+
+### air resistance
+- **Tiếng Việt:** Lực cản của không khí
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The resistive force exerted by air on an object moving through it that opposes the object's motion, increasing in magnitude as the frontal surface area increases.
+- **Giải thích (VI):** Lực do không khí tác dụng lên vật đang chuyển động trong nó gây cản trở chuyển động của vật; độ lớn lực cản càng mạnh khi diện tích mặt cản càng lớn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 45 (Mục II): giải thích vì sao vận động viên đua xe đạp cúi gập người để giảm sức cản không khí khi tăng tốc.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B45 (Mục II), tr. 161
 
 ### air track
 - **Tiếng Việt:** Băng đệm khí
@@ -247,6 +258,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 2 (Mục II.2): Trường hợp đặc biệt của độ lệch pha giữa hai dao động điều hoà cùng chu kì.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 01, B2 (Mục II.1), tr. 11; SGK Vật lí 11 KNTT, Chương 01, B2 (Mục II.2), tr. 11; SGK Vật lí 11 KNTT, Chương 01, B2 (Mục II.2), tr. 11, 12
 
+### apparent motion
+- **Tiếng Việt:** Chuyển động nhìn thấy
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The motion of surrounding objects in the opposite direction perceived by an observer due to the motion of the observer or the observer's reference frame itself, rather than the actual motion of those objects. On Earth, the daily rising of the Sun in the east and setting in the west is an apparent motion caused by Earth's rotation on its axis from west to east.
+- **Giải thích (VI):** Chuyển động của các vật xung quanh theo chiều ngược lại mà người quan sát cảm nhận được do chính người quan sát hoặc hệ gắn với người quan sát đang chuyển động, không phải chuyển động thực của vật. Trên Trái Đất, hiện tượng Mặt Trời mọc ở hướng đông và lặn ở hướng tây hằng ngày là chuyển động nhìn thấy sinh ra do Trái Đất tự quay quanh trục từ tây sang đông.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 52 (Mục I, II): giải thích hiện tượng hằng ngày nhìn thấy Mặt Trời và các thiên thể di chuyển từ đông sang tây trên bầu trời.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B52, tr. 179; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B52 (Mục I), tr. 179; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B52 (Mục II.1), tr. 179
+
+### applying a force
+- **Tiếng Việt:** Tác dụng lực
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The mechanical interaction in which object A pushes or pulls object B, where object A exerts the force and object B is acted upon by the force.
+- **Giải thích (VI):** Tương tác cơ học trong đó vật A đẩy hoặc kéo vật B, với vật A là vật gây ra lực và vật B là vật chịu lực.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 40 (Mục I): xác định vật gây ra lực và vật chịu lực trong các tương tác đẩy, kéo.
+  - *Lưu ý:* Phân biệt với "tác dụng của lực" (effects of force) là kết quả biến đổi chuyển động hoặc hình dạng xảy ra trên vật chịu lực.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B40, tr. 144; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B40 (Mục I), tr. 144; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B40 (Mục II.1), tr. 145
+
 ### armature
 - **Tiếng Việt:** Phần ứng
 - **Chuyên ngành gốc:** Vật lí
@@ -254,6 +283,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Một trong hai bộ phận chính của máy phát điện xoay chiều, gồm các cuộn dây dẫn nơi xuất hiện suất điện động cảm ứng khi từ thông qua chúng biến thiên lúc máy hoạt động.
 - **Bối cảnh:** Vật lí lớp 12, Bài 17 (Mục III.1): bộ phận sinh ra suất điện động cảm ứng trong máy phát điện xoay chiều, phân biệt với phần cảm.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B17 (Mục II.1), tr. 74; SGK Vật lí 12 KNTT, Chương 03, B17 (Mục II.2), tr. 74; SGK Vật lí 12 KNTT, Chương 03, B17 (Mục III.1), tr. 74
+
+### asteroid
+- **Tiếng Việt:** Tiểu hành tinh
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A small celestial body orbiting the Sun within the Solar System, concentrated mainly in the main asteroid belt beyond the orbit of Mars.
+- **Giải thích (VI):** Thiên thể nhỏ chuyển động xung quanh Mặt Trời trong hệ Mặt Trời, tập trung chủ yếu tại vành đai tiểu hành tinh chính nằm ngoài quỹ đạo của Hoả tinh.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 54 (Mục I, II.1): liệt kê trong các thành phần của hệ Mặt Trời và xác định ranh giới vành đai tiểu hành tinh chính ngăn cách bốn hành tinh vòng trong với bốn hành tinh vòng ngoài.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54, tr. 187; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục I), tr. 187; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục I), tr. 187, 188
+
+### astronomical observatory
+- **Tiếng Việt:** Đài thiên văn (trạm quan sát thiên văn)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A scientific facility equipped with telescopes and other specialized instruments used to observe and study celestial bodies in the sky.
+- **Giải thích (VI):** Công trình khoa học được trang bị các loại kính thiên văn cùng những thiết bị cần thiết khác để thực hiện việc quan sát và nghiên cứu các thiên thể trên bầu trời.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 55 (Mục II): giới thiệu hoạt động nghiên cứu vũ trụ thông qua ví dụ Đài thiên văn Hoà Lạc và Đài thiên văn Nha Trang thuộc Trung tâm Vũ trụ Việt Nam.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B55 (Mục II), tr. 192
+
+### astronomical unit
+- **Tiếng Việt:** Đơn vị thiên văn (AU; đvtv)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A unit of length in astronomy equal to the average distance from Earth to the Sun, approximately 150 million kilometers.
+- **Giải thích (VI):** Đơn vị đo chiều dài trong thiên văn học, có độ lớn bằng khoảng cách từ Trái Đất đến Mặt Trời, xấp xỉ bằng 150 triệu kilômét.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 54 (Mục II): dùng để biểu diễn và so sánh khoảng cách từ tám hành tinh trong hệ Mặt Trời đến Mặt Trời.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục I), tr. 188; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục II.1), tr. 188; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục II.2), tr. 188
+
+### astronomy
+- **Tiếng Việt:** Thiên văn học
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A major branch of natural science dedicated to studying celestial bodies in the universe.
+- **Giải thích (VI):** Lĩnh vực chủ yếu của khoa học tự nhiên chuyên nghiên cứu về các thiên thể trong vũ trụ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 1 (Mục III): giới thiệu lĩnh vực nghiên cứu bầu trời và các thiên thể của khoa học tự nhiên.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục III), tr. 8; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục IV), tr. 10
 
 ### atomic mass unit
 - **Tiếng Việt:** Đơn vị khối lượng nguyên tử (amu)
@@ -383,6 +444,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 22 (Mục II.1): tiêu chí so sánh độ bền vững giữa các hạt nhân có số khối khác nhau, giải thích cơ chế tỏa năng lượng của phân hạch.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B22 (Mục II.1), tr. 98; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục II.3), tr. 100; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục III), tr. 100
 
+### biomass energy
+- **Tiếng Việt:** Năng lượng sinh khối
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A renewable energy source obtained from plants, wood, straw, garbage, and waste materials.
+- **Giải thích (VI):** Nguồn năng lượng tái tạo thu từ thực vật, gỗ, rơm, rác và các loại chất thải.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 50 (Mục II): nhận diện nguồn năng lượng tái tạo khai thác từ phụ phẩm thực vật và chất thải.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 09, B50, tr. 173; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B50 (Mục I), tr. 173; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B50 (Mục II), tr. 173
+
 ### Bohr atomic model
 - **Tiếng Việt:** Mẫu nguyên tử Bohr (mô hình nguyên tử của Bohr)
 - **Chuyên ngành gốc:** Vật lí
@@ -396,8 +465,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A form of vaporization occurring simultaneously throughout the bulk and at the free surface of a liquid at a definite boiling temperature for a given external pressure, as bubbles of gas and vapour rise through the liquid and burst at the surface.
 - **Giải thích (VI):** Hình thức hoá hơi xảy ra đồng thời ở cả bên trong lòng và trên mặt thoáng của chất lỏng tại nhiệt độ sôi xác định ứng với áp suất bên ngoài, khi các bọt khí và hơi nổi lên trong lòng chất lỏng rồi vỡ ra ở mặt thoáng.
-- **Bối cảnh:** Vật lí lớp 12, Bài 1 (Mục III.2.a): phân biệt sự sôi với sự bay hơi dựa trên vị trí xảy ra và điều kiện nhiệt độ, áp suất.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2), tr. 8; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2.a), tr. 8
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A form of vaporization occurring simultaneously at the surface and throughout the bulk of a liquid at a specific temperature known as its boiling point. / VI: Hình thức hoá hơi xảy ra đồng thời cả trên bề mặt và trong lòng khối chất lỏng tại một nhiệt độ xác định là nhiệt độ sôi.
+- **Bối cảnh:**
+  - Vật lí lớp 12, Bài 1 (Mục III.2.a): phân biệt sự sôi với sự bay hơi dựa trên vị trí xảy ra và điều kiện nhiệt độ, áp suất.
+  - Khoa học tự nhiên lớp 6, Bài 10 (Mục II.2): nhận biết qua hiện tượng các bọt khí nổi lên rất nhanh từ trong lòng nước và vỡ tung trên mặt nước khi đun tới nhiệt độ sôi.
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2), tr. 8; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2.a), tr. 8; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 34; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 34, 35; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 35
+
+### boiling point
+- **Tiếng Việt:** Nhiệt độ sôi
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The specific temperature at which a substance transitions from the liquid state to the gaseous (vapor) state both at the surface and throughout the liquid bulk, depending on the pressure above the liquid surface.
+- **Giải thích (VI):** Nhiệt độ xác định tại đó chất chuyển từ thể lỏng sang thể khí (hơi) cả trên bề mặt và trong lòng khối chất lỏng, phụ thuộc vào áp suất trên bề mặt chất lỏng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 10 (Mục II.2): khảo sát quá trình đun sôi nước, trong đó trên núi cao áp suất thấp nên nước sôi ở nhiệt độ thấp hơn 100 °C.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 34; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 35
 
 ### Boltzmann constant
 - **Tiếng Việt:** Hằng số Boltzmann
@@ -515,6 +595,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Áp dụng riêng cho cách ghép nối tiếp các tụ điện; phân biệt với ghép nối tiếp các điện trở hoặc nguồn điện.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B21 (Mục II.2), tr. 86; SGK Vật lí 11 KNTT, Chương 03, B21 (Mục II.2.a), tr. 86; SGK Vật lí 11 KNTT, Chương 03, B21 (Mục II.2.b), tr. 86
 
+### cause of friction
+- **Tiếng Việt:** Nguyên nhân gây ra lực ma sát
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The microscopic roughness and unevenness of object surfaces—visible under magnification even on seemingly smooth surfaces—causing mutual resistance when two surfaces come into contact.
+- **Giải thích (VI):** Sự gồ ghề của bề mặt các vật (quan sát rõ khi phóng đại dù nhìn bằng mắt thường có vẻ nhẵn) gây ra sự cản trở tại vùng tiếp xúc giữa hai mặt vật.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 44 (Mục I): giải thích cơ chế hình thành lực ma sát giữa miếng gỗ và mặt bàn.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B44, tr. 157; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B44 (Mục I), tr. 157
+
 ### causes of wave formation
 - **Tiếng Việt:** Nguyên nhân tạo nên sóng
 - **Chuyên ngành gốc:** Vật lí
@@ -523,6 +611,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 8 (Mục II): Giải thích cơ chế truyền dao động giữa các phần tử môi trường tạo nên sóng cơ.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 02, B8 (Mục I), tr. 33; SGK Vật lí 11 KNTT, Chương 02, B8 (Mục II), tr. 33; SGK Vật lí 11 KNTT, Chương 02, B8 (Mục II), tr. 33, 34
 
+### celestial body
+- **Tiếng Việt:** Thiên thể
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A natural object existing in outer space, including stars, planets, natural satellites, asteroids, and comets. Human-made spacecraft launched into space, such as artificial satellites, do not qualify as celestial bodies.
+- **Giải thích (VI):** Vật thể tự nhiên tồn tại trong không gian vũ trụ, bao gồm sao, hành tinh, vệ tinh tự nhiên, tiểu hành tinh và sao chổi. Các thiết bị nhân tạo phóng vào không gian như vệ tinh nhân tạo không thuộc nhóm thiên thể.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 52 (Mục III): phân loại các vật thể tự nhiên trong vũ trụ và phân biệt với vệ tinh nhân tạo như Spút-nhích.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B52 (Mục III), tr. 181; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195
+
 ### Celsius scale
 - **Tiếng Việt:** Thang nhiệt độ Celsius (thang nhiệt độ bách phân)
 - **Chuyên ngành gốc:** Vật lí
@@ -530,6 +626,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Thang nhiệt độ lấy hai mốc chuẩn ở áp suất tiêu chuẩn là nhiệt độ đóng băng ($0\text{ }^\circ\text{C}$) và nhiệt độ sôi ($100\text{ }^\circ\text{C}$) của nước tinh khiết, chia khoảng cách giữa hai mốc thành 100 phần bằng nhau (mỗi phần ứng với $1\text{ }^\circ\text{C}$). Nhiệt độ trong thang này kí hiệu là $t$, liên hệ với nhiệt độ Kelvin qua công thức $t\text{ }(^\circ\text{C}) = T\text{ (K)} - 273,15$.
 - **Bối cảnh:** Vật lí lớp 12, Bài 3 (Mục II.1.a): thang đo nhiệt độ thông dụng trong đời sống và chuyển đổi với thang Kelvin.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B3 (Mục I), tr. 16; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục II.1.a), tr. 16; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục II.1.b), tr. 16
+
+### Celsius temperature scale
+- **Tiếng Việt:** Thang nhiệt độ Xen-xi-út (nhiệt giai Xen-xi-út; thang nhiệt độ Celsius)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A temperature scale proposed by scientist Anders Celsius in 1742, taking the temperature of melting ice as $0\text{ }^\circ\text{C}$ and that of boiling water vapor as $100\text{ }^\circ\text{C}$. The interval between these two fixed points is divided into 100 equal parts, each corresponding to 1 degree Celsius ($1\text{ }^\circ\text{C}$).
+- **Giải thích (VI):** Thang đo nhiệt độ do nhà khoa học Anders Celsius đề xuất năm 1742, lấy mốc nhiệt độ của nước đá đang tan là $0\text{ }^\circ\text{C}$ và nhiệt độ của hơi nước đang sôi là $100\text{ }^\circ\text{C}$. Khoảng cách giữa hai mốc này được chia thành 100 phần bằng nhau, mỗi phần ứng với 1 độ C ($1\text{ }^\circ\text{C}$).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 8 (Mục I): đọc, ước lượng nhiệt độ trong đời sống và đối chiếu với thang nhiệt độ Fa-ren-hai.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8, tr. 24; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục I), tr. 24; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục I), tr. 24, 25
 
 ### center of gravity
 - **Tiếng Việt:** Trọng tâm
@@ -587,6 +691,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 28 (Mục II.2): Thiết lập định lí xung lượng – động lượng để tìm lực tương tác trung bình trong va chạm.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 05, B28 (Mục II.2), tr. 112; SGK Vật lí 10 KNTT, Chương 05, B28 (Mục II.3), tr. 112
 
+### characteristics of force
+- **Tiếng Việt:** Đặc trưng của lực (4 đặc trưng cơ bản của lực; 4 yếu tố của lực)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The four fundamental elements that completely specify a force acting on an object: point of application, line of action, sense, and magnitude.
+- **Giải thích (VI):** Bốn yếu tố cơ bản xác định hoàn toàn một lực tác dụng lên vật, bao gồm điểm đặt, phương, chiều và độ lớn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 41 (Mục I, II): cơ sở để mô tả định lượng đầy đủ và vẽ mũi tên biểu diễn một lực.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục II), tr. 150
+
 ### charge carrier density
 - **Tiếng Việt:** Mật độ hạt mang điện
 - **Chuyên ngành gốc:** Vật lí
@@ -603,6 +715,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 10 (Mục I.3): mối quan hệ giữa thể tích và nhiệt độ tuyệt đối của khí lí tưởng trong quá trình đẳng áp.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 02, B10 (Mục I.3), tr. 42; SGK Vật lí 12 KNTT, Chương 02, B10 (Mục II), tr. 43; SGK Vật lí 12 KNTT, Chương 02, B10 (Mục III), tr. 43
 
+### chemical energy
+- **Tiếng Việt:** Năng lượng hoá học (hoá năng)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The form of energy stored in substances such as food, fuels, or matches and generated through chemical reactions of substances.
+- **Giải thích (VI):** Dạng năng lượng lưu trữ trong các chất như thực phẩm, nhiên liệu hoặc que diêm và sinh ra do phản ứng hoá học của các chất.
+- **Giải thích khác (SGK Sinh học 11):** EN: The form of energy stored within the chemical bonds of molecules. In the living world, chemical energy is stored in organic compounds by plants through photosynthesis, obtained by animals through food, and transferred into readily usable small molecules such as ATP and NADH via cellular respiration. / VI: Dạng năng lượng tích luỹ trong các liên kết hoá học của phân tử vật chất. Trong sinh giới, hoá năng được thực vật tích luỹ trong các hợp chất hữu cơ nhờ quang hợp, được động vật tiếp nhận qua thức ăn và được chuyển sang các phân tử nhỏ dễ sử dụng như ATP, NADH qua hô hấp tế bào.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 47 (Mục I, II): phân loại dạng năng lượng dự trữ trong thực phẩm, nhiên liệu, que diêm, pháo hoa và pin.
+  - Sinh học lớp 11, Bài 1 (Mục III.1, III.2): dạng năng lượng dự trữ trong liên kết hoá học của chất hữu cơ và ATP.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục I), tr. 165; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III.1), tr. 6; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III.1), tr. 7; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III.2), tr. 7
+
 ### circular motion
 - **Tiếng Việt:** Chuyển động tròn
 - **Chuyên ngành gốc:** Vật lí
@@ -610,6 +733,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chuyển động cơ học của vật có quỹ đạo là một đường tròn hoặc một phần đường tròn, trong đó vị trí của vật tại mỗi thời điểm xác định qua độ dài cung tròn $s$ hoặc độ dịch chuyển góc $\theta$ tính từ vị trí ban đầu.
 - **Bối cảnh:** Vật lí lớp 10, Bài 31 (Mục I): Mô tả quỹ đạo chuyển động của các vật quay như cánh quạt, kim đồng hồ, đu quay.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 06, B31, tr. 120; SGK Vật lí 10 KNTT, Chương 06, B31 (Mục I), tr. 120; SGK Vật lí 10 KNTT, Chương 06, B31 (Mục II.1), tr. 121
+
+### clock
+- **Tiếng Việt:** Đồng hồ
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An instrument used to measure time. Common types include wristwatches, pendulum clocks, digital clocks, and stopwatches used in laboratories or sporting events.
+- **Giải thích (VI):** Dụng cụ dùng để đo thời gian. Các loại phổ biến gồm đồng hồ đeo tay, đồng hồ quả lắc, đồng hồ điện tử và đồng hồ bấm giây dùng trong phòng thí nghiệm hoặc các sự kiện thể thao.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 7 (Mục II, III): lựa chọn và thao tác đúng với đồng hồ bấm giây để đo khoảng thời gian trong thí nghiệm.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B7, tr. 22; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B7 (Mục I), tr. 22; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B7 (Mục II), tr. 22
 
 ### clock pendulum
 - **Tiếng Việt:** Con lắc đồng hồ
@@ -659,6 +790,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 2 (Mục II.2): bộ phận thu nhiệt thải trong sơ đồ nguyên tắc hoạt động của động cơ nhiệt.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B2 (Mục II.2), tr. 13, 14
 
+### color-changing thermometer
+- **Tiếng Việt:** Nhiệt kế đổi màu
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A type of thermometer manufactured based on the property of certain special substances that change color with temperature. It commonly takes the form of a thin strip applied to a patient's forehead for rapid clinical temperature screening.
+- **Giải thích (VI):** Loại nhiệt kế chế tạo dựa trên tính chất đổi màu theo nhiệt độ của một số chất đặc biệt. Dụng cụ này thường có dạng băng mỏng dán lên trán để đo nhanh thân nhiệt người bệnh trong y tế.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 8 (Mục III.2): tìm hiểu ứng dụng đo thân nhiệt an toàn thay thế nhiệt kế thuỷ ngân trong y tế.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục III.2), tr. 27
+
 ### combined gas law
 - **Tiếng Việt:** Phương trình trạng thái của một khối lượng khí lí tưởng xác định
 - **Chuyên ngành gốc:** Vật lí
@@ -668,6 +807,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Vật lí lớp 12, Bài 11 (Mục I.1): tính toán sự biến đổi đồng thời cả ba thông số trạng thái của một lượng khí xác định.
   - *Lưu ý:* Phân biệt với phương trình Clapeyron ($pV = nRT$) biểu diễn tường minh hằng số theo số mol khí $n$ và hằng số khí lí tưởng $R$.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 02, B11, tr. 45; SGK Vật lí 12 KNTT, Chương 02, B11 (Mục I.1), tr. 45; SGK Vật lí 12 KNTT, Chương 02, B11 (Mục I.1), tr. 45, 46
+
+### comet
+- **Tiếng Việt:** Sao chổi
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A celestial body orbiting the Sun composed mainly of frozen gases and cosmic dust, which does not emit its own light but reflects sunlight. Unlike spherical celestial bodies, a comet exhibits an elongated broom-like appearance when observed.
+- **Giải thích (VI):** Thiên thể chuyển động quanh Mặt Trời, cấu tạo chủ yếu từ các khối khí đóng băng và bụi vũ trụ, không tự phát sáng mà phản xạ ánh sáng Mặt Trời. Khác với các thiên thể dạng hình cầu, sao chổi khi quan sát có hình dáng kéo dài giống cái chổi.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 52 (Mục III): phân biệt đặc điểm cấu tạo bằng băng, bụi và hình dạng của sao chổi với các tiểu hành tinh khác.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B52 (Mục III), tr. 181; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục I), tr. 187
 
 ### composition of displacements
 - **Tiếng Việt:** Tổng hợp độ dịch chuyển
@@ -709,6 +856,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 33 (Mục I): Khảo sát cột chịu lực trong toà nhà hoặc lò xo bị nén dọc theo trục.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 07, B33 (Mục I), tr. 128; SGK Vật lí 10 KNTT, Chương 07, B33 (Mục I), tr. 129; SGK Vật lí 10 KNTT, Chương 07, B33 (Mục II.1), tr. 129
 
+### condensation
+- **Tiếng Việt:** Sự ngưng tụ
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phase transition in which a substance changes from the vapor (gaseous) state to the liquid state, occurring at any temperature.
+- **Giải thích (VI):** Quá trình một chất chuyển từ thể hơi sang thể lỏng, xảy ra tại mọi nhiệt độ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 10 (Mục II.2): giải thích sự tạo thành mây hoặc hiện tượng đọng giọt nước trên bề mặt lạnh, ngược chiều với sự hoá hơi.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 34; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 34, 35
+
 ### condition for sustaining an electric current
 - **Tiếng Việt:** Điều kiện để duy trì dòng điện
 - **Chuyên ngành gốc:** Vật lí
@@ -724,6 +879,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại lực mà công do nó thực hiện khi vật di chuyển không phụ thuộc vào hình dạng đường đi mà chỉ phụ thuộc vào vị trí điểm đầu và điểm cuối của quỹ đạo. Các lực thế tiêu biểu bao gồm lực hấp dẫn, lực đàn hồi và lực điện.
 - **Bối cảnh:** Vật lí lớp 10, Bài 23 (Mục II.3): Nhận diện bản chất của các lực bảo toàn như trọng lực, lực đàn hồi và lực điện.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B23 (Mục II.3), tr. 95
+
+### constellation
+- **Tiếng Việt:** Chòm sao
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A group of stars in the sky whose imaginary connecting lines form a recognizable geometric pattern.
+- **Giải thích (VI):** Tập hợp các ngôi sao trên bầu trời mà các đường tưởng tượng nối chúng với nhau tạo thành một dạng hình học xác định.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 52 (Mục III): nhận diện các nhóm sao quen thuộc trên bầu trời đêm như chòm sao Gấu Lớn (Bắc Đẩu).
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B52 (Mục III), tr. 181
+
+### contact force
+- **Tiếng Việt:** Lực tiếp xúc
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A type of force that arises only when the object exerting the force is in direct contact with the object acted upon.
+- **Giải thích (VI):** Loại lực xuất hiện khi vật gây ra lực có sự tiếp xúc trực tiếp với vật chịu tác dụng của lực.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 40 (Mục III): phân loại lực dựa trên điều kiện tiếp xúc trực tiếp giữa các vật tương tác.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B40 (Mục III), tr. 146
 
 ### control rod
 - **Tiếng Việt:** Thanh điều khiển
@@ -766,6 +937,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Vật lí lớp 10, Bài 21 (Mục III.2): Xác định khoảng cách giữa hai giá của hai lực thành phần khi tính moment ngẫu lực.
   - *Lưu ý:* Phân biệt với cánh tay đòn của một lực đơn lẻ (khoảng cách từ trục quay đến giá của lực đó).
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B21 (Mục II.1), tr. 84; SGK Vật lí 10 KNTT, Chương 03, B21 (Mục II.2), tr. 84; SGK Vật lí 10 KNTT, Chương 03, B21 (Mục III.1), tr. 84
+
+### crescent moon
+- **Tiếng Việt:** Trăng khuyết
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** Intermediate lunar phases during which an observer on Earth sees only an incomplete portion (less than or greater than half, excluding exact half and full) of the Moon's sunlit hemisphere, corresponding to approximately days 4, 12, 19, and 27 after the new moon.
+- **Giải thích (VI):** Các pha trung gian của Mặt Trăng khi người quan sát từ Trái Đất chỉ nhìn thấy một phần khuyết (nhỏ hơn hoặc lớn hơn một nửa nhưng chưa tròn hẳn) của nửa bề mặt Mặt Trăng được Mặt Trời chiếu sáng, ứng với khoảng ngày thứ 4, 12, 19 và 27 sau ngày Không Trăng.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 53 (Mục I.2): nhận xét sự thay đổi hình dạng Mặt Trăng ở nửa đầu tháng và nửa cuối tháng trên Hình 53.2.
+  - *Lưu ý:* Trong thiên văn học tiếng Anh, các vị trí ngày thứ 4 và 27 tương ứng với trăng lưỡi liềm (crescent moon), còn ngày thứ 12 và 19 tương ứng với trăng khuyết lồi (gibbous moon); SGK KHTN 6 gọi chung cả bốn vị trí này là Trăng khuyết.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B53 (Mục I.2), tr. 184
 
 ### critical mass
 - **Tiếng Việt:** Khối lượng tới hạn
@@ -855,6 +1036,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 8 (Mục I): phân loại chuyển động biến đổi khi vật giảm tốc, với gia tốc và vận tốc ngược chiều nhau.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 02, B8, tr. 37; SGK Vật lí 10 KNTT, Chương 02, B8 (Mục I), tr. 37; SGK Vật lí 10 KNTT, Chương 02, B8 (Mục II.1), tr. 37
 
+### deformation
+- **Tiếng Việt:** Biến dạng
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A change in the shape of an object when subjected to an applied force.
+- **Giải thích (VI):** Sự thay đổi hình dạng của vật khi chịu tác dụng của lực.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 42 (Mục I): khảo sát một trong các tác dụng cơ bản của lực lên vật rắn.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193, 194; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B42, tr. 151
+
 ### deformation of solids
 - **Tiếng Việt:** Biến dạng của vật rắn (biến dạng)
 - **Chuyên ngành gốc:** Vật lí
@@ -910,6 +1099,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hiện tượng sóng bị lệch khỏi phương truyền thẳng khi đi sát mép các vật cản hoặc truyền qua những lỗ nhỏ. Cả sóng điện từ và sóng cơ đều tuân theo quy luật truyền sóng đặc trưng này.
 - **Bối cảnh:** Vật lí lớp 12, Bài 19 (Mục II.2): một trong các tính chất truyền sóng cơ bản của sóng điện từ tương tự như sóng cơ.
 - **Nguồn:** SGK Vật lí 12 KNTT, Bảng giải thích thuật ngữ, tr. 123; SGK Vật lí 12 KNTT, Chương 03, B19 (Mục II.2), tr. 85
+
+### digital thermometer
+- **Tiếng Việt:** Nhiệt kế hiện số
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An electronic thermometer that directly displays the numerical value of the measured temperature on a screen.
+- **Giải thích (VI):** Loại nhiệt kế điện tử hiển thị trực tiếp giá trị số của nhiệt độ đo được ngay trên màn hình.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 8 (Mục III.2): sử dụng để đọc kết quả nhiệt độ nhanh chóng, chính xác và an toàn.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục III.2), tr. 27
 
 ### digital timer
 - **Tiếng Việt:** Đồng hồ đo thời gian hiện số
@@ -1021,6 +1218,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Chương III (Bảng giải thích thuật ngữ): lĩnh vực nghiên cứu mối liên hệ giữa lực tác dụng và sự biến đổi chuyển động của vật.
 - **Nguồn:** SGK Vật lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 136; SGK Vật lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 136, 137
 
+### Earth's gravitational pull
+- **Tiếng Việt:** Lực hút của Trái Đất
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The gravitational force exerted by the Earth on objects on or near its surface, acting along a vertical line of action and directed downward.
+- **Giải thích (VI):** Lực hút không tiếp xúc do Trái Đất tác dụng lên các vật ở trên hoặc gần bề mặt của nó, có phương thẳng đứng và chiều hướng từ trên xuống dưới.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 43 (Mục I): giải thích hiện tượng các vật rơi thẳng đứng xuống đất khi được buông tay.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43, tr. 154; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43 (Mục I), tr. 154; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43 (Mục II), tr. 155; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43 (Mục IV), tr. 156
+
 ### eddy current
 - **Tiếng Việt:** Dòng điện Foucault
 - **Chuyên ngành gốc:** Vật lí
@@ -1052,6 +1257,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đại lượng đánh giá mức độ ảnh hưởng sinh học của bức xạ phóng xạ đối với cơ thể người, kí hiệu là $D_{hd}$ và xác định bởi công thức $D_{hd} = D \cdot W$, trong đó $D$ là liều hấp thụ phóng xạ và $W$ là trọng số bức xạ. Đơn vị của $D_{hd}$ trong hệ SI là sievert (kí hiệu $\text{Sv}$).
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục IV): tiêu chuẩn giới hạn an toàn phơi nhiễm phóng xạ đối với nhân viên bức xạ và cộng đồng.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 112; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 113
+
+### effects of force
+- **Tiếng Việt:** Tác dụng của lực
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The resulting changes produced on an object acted upon by a force, including altering its speed, changing its direction of motion, or deforming the object.
+- **Giải thích (VI):** Các kết quả biến đổi xảy ra trên vật chịu lực, bao gồm làm thay đổi tốc độ chuyển động, thay đổi hướng chuyển động hoặc làm biến dạng vật.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 40 (Mục II): phân tích hệ quả cơ học khi có lực tác dụng lên một vật.
+  - *Lưu ý:* Phân biệt với "tác dụng lực" (applying a force) là hành động vật này đẩy hoặc kéo vật khác.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B40 (Mục III), tr. 146; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194
 
 ### efficiency
 - **Tiếng Việt:** Hiệu suất
@@ -1277,12 +1492,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 06, B19 (Mục I.1), tr. 90; SGK Hóa học 12 KNTT, Chương 06, B19 (Mục I.2), tr. 90; SGK Hóa học 12 KNTT, Chương 06, B19 (Mục I.3), tr. 90
 
 ### electrical energy
-- **Tiếng Việt:** Điện năng
+- **Tiếng Việt:** Điện năng (Năng lượng điện)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A form of energy associated with the directed motion of electric charges under the action of an electric field.
 - **Giải thích (VI):** Dạng năng lượng của dòng chuyển động có hướng của các điện tích dưới tác dụng của điện trường.
-- **Bối cảnh:** Vật lí lớp 10, Bài 23 (Mục I): Phân loại các dạng năng lượng phổ biến và quá trình chuyển hóa giữa điện năng với nhiệt năng, cơ năng, quang năng.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B23, tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91, 92
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The form of energy produced by an electric current (supplied by generators, batteries, etc.) and used to operate electrical machines and appliances. / VI: Dạng năng lượng tạo ra bởi dòng điện (do máy phát điện, pin,... cung cấp), dùng để vận hành các máy móc và thiết bị điện.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 23 (Mục I): Phân loại các dạng năng lượng phổ biến và quá trình chuyển hóa giữa điện năng với nhiệt năng, cơ năng, quang năng.
+  - Khoa học tự nhiên lớp 6, Bài 47 (Mục I, II): nhận biết dạng năng lượng cung cấp cho các máy móc và thiết bị điện hoạt động.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B23, tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91, 92; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục I), tr. 165; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166
 
 ### electrical energy consumption
 - **Tiếng Việt:** Năng lượng điện tiêu thụ
@@ -1417,10 +1635,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A physical quantity characterizing the capacity to do work or cause the motion of matter. In cells, energy exists in two basic forms—kinetic energy and potential energy—with chemical energy serving as the primary form stored and used for life activities.
 - **Giải thích (VI):** Đại lượng đặc trưng cho khả năng sinh công hoặc tạo nên sự chuyển động của vật chất. Trong tế bào, năng lượng tồn tại ở hai dạng cơ bản là động năng và thế năng, trong đó hoá năng là dạng chính được tích luỹ và sử dụng cho các hoạt động sống.
 - **Giải thích khác (SGK Vật lí 10):** EN: A fundamental physical quantity involved in all natural phenomena, existing in various forms such as mechanical, chemical, thermal, electrical, light, sound, and nuclear energy. Energy can be transferred from one object to another or transformed from one form into another. / VI: Đại lượng vật lí gắn liền với mọi hiện tượng tự nhiên, tồn tại dưới nhiều dạng khác nhau như cơ năng, hóa năng, nhiệt năng, điện năng, quang năng, năng lượng âm thanh và năng lượng nguyên tử. Năng lượng có thể truyền từ vật này sang vật khác hoặc chuyển hóa qua lại giữa các dạng khác nhau.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A physical quantity characterizing the capacity to exert force and required for all natural changes and daily activities. Greater energy enables a stronger applied force or a longer duration of force application. / VI: Đại lượng vật lí đặc trưng cho khả năng tác dụng lực và cần thiết cho mọi biến đổi trong tự nhiên cũng như hoạt động hằng ngày. Năng lượng càng nhiều thì lực tác dụng có thể càng mạnh hoặc thời gian tác dụng của lực càng dài.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 13 (Mục I.1): Khái niệm mở đầu về các dạng năng lượng và chuyển hoá năng lượng trong tế bào.
   - Vật lí lớp 10, Bài 23 (Mục I): Khái quát các dạng năng lượng trong tự nhiên và quá trình truyền, chuyển hóa năng lượng.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 04, B13 (Mục I.1), tr. 78, 79; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục II.4), tr. 84; SGK Vật lí 10 KNTT, Chương 04, B23, tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91, 92
+  - Khoa học tự nhiên lớp 6, Bài 46 (Mục I, II): khái niệm nền tảng mở đầu chương Năng lượng và mối liên hệ giữa năng lượng với tác dụng lực.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 04, B13 (Mục I.1), tr. 78, 79; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục II.4), tr. 84; SGK Vật lí 10 KNTT, Chương 04, B23, tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91, 92; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B46, tr. 162; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B46 (Mục I), tr. 162; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B46 (Mục II), tr. 163
+
+### energy flow diagram
+- **Tiếng Việt:** Sơ đồ dòng năng lượng
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A diagram representing the energy transformation process of an object or device, in which arrows indicate the direction of conversion from an initial form of energy into other forms of energy.
+- **Giải thích (VI):** Sơ đồ biểu diễn quá trình chuyển hoá năng lượng của một vật hoặc thiết bị, trong đó các mũi tên chỉ chiều biến đổi từ một dạng năng lượng ban đầu thành các dạng năng lượng khác.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 48 (Mục I): biểu diễn trực quan chiều chuyển hoá năng lượng ở các thiết bị như đèn pin, máy sấy tóc.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 09, B48, tr. 168; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B48 (Mục I), tr. 168; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B48 (Mục I), tr. 168, 169
+
+### energy saving
+- **Tiếng Việt:** Tiết kiệm năng lượng
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The practice of using only the necessary amount of energy and avoiding waste in daily life and production. This practice reduces costs, preserves non-renewable energy sources, and limits waste that causes environmental pollution.
+- **Giải thích (VI):** Việc sử dụng năng lượng vừa đủ với mức cần thiết và tránh lãng phí trong sinh hoạt cũng như sản xuất. Hoạt động này giúp giảm chi phí, bảo tồn các nguồn năng lượng không tái tạo và hạn chế chất thải gây ô nhiễm môi trường.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 51 (Mục I): nhận thức sự cần thiết phải chống lãng phí năng lượng trong gia đình, lớp học và nhà trường.
+  - *Lưu ý:* Phân biệt với định luật bảo toàn năng lượng (law of conservation of energy) trong vật lí.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 09, B51, tr. 176; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B51 (Mục I), tr. 176; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B51 (Mục II), tr. 177
 
 ### energy stored in a capacitor
 - **Tiếng Việt:** Năng lượng của tụ điện (năng lượng điện trường trong tụ điện)
@@ -1430,16 +1668,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 21 (Mục III): Tính năng lượng điện trường dự trữ trong tụ điện khi tích điện.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B21 (Mục II.2.b), tr. 87; SGK Vật lí 11 KNTT, Chương 03, B21 (Mục III), tr. 87; SGK Vật lí 11 KNTT, Chương 03, B21 (Mục III), tr. 87, 88
 
+### energy transfer
+- **Tiếng Việt:** Sự truyền năng lượng
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The process by which energy passes from one object to another or from one place to another through pathways such as applying a force or heat transfer.
+- **Giải thích (VI):** Quá trình năng lượng chuyển từ vật này sang vật khác hoặc từ nơi này đến nơi khác thông qua các cách như tác dụng lực hoặc truyền nhiệt.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 46 (Mục III): phân tích cách gió truyền năng lượng làm quay cánh quạt (qua tác dụng lực) hoặc bếp đun nóng ấm nước (qua truyền nhiệt).
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 09, B46 (Mục II), tr. 164; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B46 (Mục III), tr. 164
+
 ### energy transformation
 - **Tiếng Việt:** Sự chuyển hoá năng lượng (chuyển hoá năng lượng)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The conversion of energy from one form into another in accordance with the fundamental physical laws of thermodynamics. In living cells, energy transformation always occurs concurrently with metabolism through anabolic and catabolic reactions.
 - **Giải thích (VI):** Sự chuyển đổi của năng lượng từ dạng này sang dạng khác tuân theo các quy luật vật lí cơ bản về nhiệt động học. Trong tế bào sống, sự chuyển hoá năng lượng luôn diễn ra đồng thời với quá trình chuyển hoá vật chất qua các phản ứng tổng hợp và phân giải.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The process in which energy changes from one form into another or transfers from one object to another during natural phenomena and device operation. For example, in a bouncing ball, kinetic energy and potential energy convert back and forth while a portion changes into thermal energy and sound energy upon hitting the ground. / VI: Quá trình biến đổi năng lượng từ dạng này sang dạng khác hoặc truyền từ vật này sang vật khác trong các hiện tượng tự nhiên và hoạt động của thiết bị. Ví dụ, khi quả bóng nảy, động năng và thế năng biến đổi qua lại, đồng thời một phần chuyển thành nhiệt năng và năng lượng âm khi chạm đất.
 - **Giải thích khác (SGK Sinh học 11):** EN: The conversion between forms of energy coupled with matter exchange in organisms, comprising three stages: synthesis (storing energy in organic compounds), breakdown (transferring energy into usable forms such as ATP), and energy mobilization for life activities. / VI: Quá trình biến đổi giữa các dạng năng lượng gắn liền với trao đổi chất ở sinh vật, gồm ba giai đoạn là tổng hợp (tích luỹ năng lượng vào chất hữu cơ), phân giải (chuyển năng lượng sang dạng dễ sử dụng như ATP) và huy động năng lượng cho các hoạt động sống.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 13 (Mục I.3): Quá trình biến đổi các dạng năng lượng gắn liền với các phản ứng chuyển hoá vật chất trong tế bào.
+  - Khoa học tự nhiên lớp 6, Bài 48 (Mục I): phân tích sự biến đổi qua lại giữa các dạng năng lượng trong chuyển động cơ học, sinh hoạt và thiết bị điện.
   - Sinh học lớp 11, Bài 1 (Mục I, III, IV): quá trình biến đổi năng lượng qua ba giai đoạn trong sinh giới và trong tế bào.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 04, B13 (Mục I.3), tr. 79, 80; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục II.4), tr. 84; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục I), tr. 5; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III), tr. 6; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục IV), tr. 7
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 04, B13 (Mục I.3), tr. 79, 80; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục II.4), tr. 84; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B48, tr. 168; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B48 (Mục I), tr. 168; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B48 (Mục I), tr. 168, 169; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục I), tr. 5; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III), tr. 6; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục IV), tr. 7
 
 ### energy transport by mechanical waves
 - **Tiếng Việt:** Sự truyền năng lượng của sóng cơ
@@ -1448,6 +1696,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quá trình sóng cơ mang năng lượng dao động từ nguồn sóng truyền đến các phần tử môi trường trên phương truyền sóng. Trong quá trình này, các phần tử môi trường chỉ dao động tại chỗ quanh vị trí cân bằng mà không chuyển động đi xa theo sóng.
 - **Bối cảnh:** Vật lí lớp 11, Bài 9 (Mục III): Làm rõ bản chất quá trình truyền sóng là truyền năng lượng chứ không truyền các phần tử vật chất.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 02, B9 (Mục II), tr. 38; SGK Vật lí 11 KNTT, Chương 02, B9 (Mục III), tr. 38; SGK Vật lí 11 KNTT, Chương 02, B9 (Mục IV), tr. 38
+
+### energy-saving measures
+- **Tiếng Việt:** Biện pháp tiết kiệm năng lượng
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** Specific practices aimed at reducing energy waste and using energy efficiently, including using electricity and water reasonably, saving fuel, and prioritizing renewable energy sources. Typical examples include turning off unused electrical appliances, switching to LED lights, and utilizing natural daylight and sunlight.
+- **Giải thích (VI):** Các cách thức cụ thể nhằm giảm hao phí và sử dụng hiệu quả năng lượng, bao gồm sử dụng điện và nước hợp lí, tiết kiệm nhiên liệu và ưu tiên dùng các nguồn năng lượng tái tạo. Ví dụ điển hình là tắt thiết bị điện khi không dùng, thay thế bằng đèn LED và tận dụng ánh sáng, nắng mặt trời tự nhiên.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 51 (Mục II): lựa chọn và thực hành các hành động tiết kiệm điện, nước, nhiên liệu trong đời sống hằng ngày.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 09, B51 (Mục I), tr. 176; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B51 (Mục II), tr. 177; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B51 (Mục II), tr. 178
 
 ### entrained motion
 - **Tiếng Việt:** Chuyển động kéo theo
@@ -1535,8 +1791,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A form of vaporization occurring at the free surface of a liquid at any temperature, when molecules near the surface acquire sufficient kinetic energy to overcome intermolecular attraction and escape into the vapour state.
 - **Giải thích (VI):** Hình thức hoá hơi xảy ra ở mặt thoáng của chất lỏng ở nhiệt độ bất kì, khi một số phân tử gần mặt thoáng có động năng đủ lớn để thắng lực liên kết của các phân tử chất lỏng khác và thoát ra ngoài thành hơi.
-- **Bối cảnh:** Vật lí lớp 12, Bài 1 (Mục III.2.a): phân biệt sự bay hơi ở mặt thoáng với sự sôi của chất lỏng.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2), tr. 8; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2.a), tr. 8
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A form of vaporization that takes place only at the surface of a liquid and occurs at any temperature. / VI: Hình thức hoá hơi chỉ xảy ra trên bề mặt chất lỏng và diễn ra tại mọi nhiệt độ.
+- **Bối cảnh:**
+  - Vật lí lớp 12, Bài 1 (Mục III.2.a): phân biệt sự bay hơi ở mặt thoáng với sự sôi của chất lỏng.
+  - Khoa học tự nhiên lớp 6, Bài 10 (Mục II.2): phân biệt với sự sôi dựa trên vị trí xảy ra trên mặt thoáng, diễn ra ở mọi nhiệt độ và chịu ảnh hưởng của nắng, gió.
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2), tr. 8; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2.a), tr. 8; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 33; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 34; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 34, 35
 
 ### experimental method
 - **Tiếng Việt:** Phương pháp thực nghiệm
@@ -1575,6 +1834,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 2 (Mục II.1): Xác định hai vị trí giới hạn đổi chiều chuyển động của vật dao động điều hoà.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 01, B2 (Mục II.1), tr. 11; SGK Vật lí 11 KNTT, Chương 01, B2 (Mục II.2), tr. 11; SGK Vật lí 11 KNTT, Chương 01, B2 (Mục II.2), tr. 11, 12
 
+### eyepiece
+- **Tiếng Việt:** Thị kính
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An optical lens assembly in the tube of an optical microscope positioned closest to the observer's eye. It is marked with magnification factors such as $5\times$ (5 times) or $10\times$ (10 times).
+- **Giải thích (VI):** Bộ phận kính thuộc ống kính của kính hiển vi quang học, đặt ở vị trí sát mắt người quan sát. Trên thị kính có ghi chỉ số độ phóng đại như $5\times$ (gấp 5 lần) hoặc $10\times$ (gấp 10 lần).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 4 (Mục I, III): phân biệt vị trí đặt mắt quan sát trên ống kính với vật kính và vệ sinh bằng giấy chuyên dụng.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B4, tr. 15; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B4 (Mục I), tr. 15; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B4 (Mục II), tr. 16
+
 ### Fahrenheit scale
 - **Tiếng Việt:** Thang nhiệt độ Fahrenheit
 - **Chuyên ngành gốc:** Vật lí
@@ -1582,6 +1849,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Thang nhiệt độ quy ước nhiệt độ của nước đá đang tan là $32\text{ }^\circ\text{F}$ và của nước đang sôi là $212\text{ }^\circ\text{F}$, có đơn vị là độ F ($^\circ\text{F}$). Công thức chuyển đổi từ thang Celsius sang thang này là $t\text{ }(^\circ\text{F}) = 32 + 1,8t\text{ }(^\circ\text{C})$.
 - **Bối cảnh:** Vật lí lớp 12, Bài 3 (Mục II.1): mở rộng quy đổi giữa thang nhiệt độ dùng tại một số nước nói tiếng Anh với thang Celsius.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B3 (Mục I), tr. 16; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục II.1.a), tr. 16; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục II.1.b), tr. 16
+
+### Fahrenheit temperature scale
+- **Tiếng Việt:** Thang nhiệt độ Fa-ren-hai (nhiệt giai Fa-ren-hai; thang nhiệt độ Fahrenheit)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A temperature scale commonly used in English-speaking countries with the unit degree Fahrenheit ($^\circ\text{F}$), on which melting ice is at $32\text{ }^\circ\text{F}$ and boiling water vapor is at $212\text{ }^\circ\text{F}$ (divided into 180 equal intervals). Conversion from degrees Celsius to degrees Fahrenheit follows the formula $t(^\circ\text{F}) = t(^\circ\text{C}) \times 1.8 + 32$.
+- **Giải thích (VI):** Thang đo nhiệt độ thông dụng ở các nước nói tiếng Anh với đơn vị là độ Fa-ren-hai ($^\circ\text{F}$), trong đó nhiệt độ của nước đá đang tan là $32\text{ }^\circ\text{F}$ và của hơi nước đang sôi là $212\text{ }^\circ\text{F}$ (chia thành 180 khoảng bằng nhau). Công thức quy đổi từ độ C sang độ F là $t(^\circ\text{F}) = t(^\circ\text{C}) \times 1,8 + 32$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 8 (Mục I): đọc nhiệt kế hai thang đo và quy đổi giá trị nhiệt độ giữa độ C và độ F.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục I), tr. 25; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục II.1), tr. 25
 
 ### farad
 - **Tiếng Việt:** Fara
@@ -1658,6 +1933,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 24 (Mục III): ứng dụng khả năng diệt khuẩn của bức xạ phóng xạ trong công nghệ sau thu hoạch và chế biến thực phẩm.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B24 (Mục III), tr. 118
 
+### force
+- **Tiếng Việt:** Lực
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A physical quantity characterizing the pushing or pulling action exerted by one object upon another.
+- **Giải thích (VI):** Đại lượng vật lí đặc trưng cho tác dụng đẩy hoặc kéo của vật này lên vật khác.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 40 (Mục I): khái niệm mở đầu về tương tác cơ học giữa các vật trong đời sống hằng ngày.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B40, tr. 144; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B40 (Mục I), tr. 144; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B40 (Mục II.1), tr. 145
+
 ### force couple
 - **Tiếng Việt:** Ngẫu lực
 - **Chuyên ngành gốc:** Vật lí
@@ -1674,6 +1957,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 17 (Mục I): Giải thích bản chất truyền tương tác không tiếp xúc của điện trường và từ trường.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B17, tr. 65; SGK Vật lí 11 KNTT, Chương 03, B17 (Mục I), tr. 65
 
+### force meter
+- **Tiếng Việt:** Lực kế (lực kế lò xo)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An instrument used to measure the magnitude of a force. Proper measurement requires estimating the force to select a suitable meter, zeroing the pointer to $0$, and pulling or holding it along the line of action of the measured force.
+- **Giải thích (VI):** Dụng cụ dùng để đo độ lớn của lực. Khi đo cần ước lượng lực để chọn lực kế thích hợp, điều chỉnh về vạch số $0$ và kéo hoặc giữ lực kế dọc theo phương của lực cần đo.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 41 (Mục I.2): thực hành đo độ lớn lực kéo và trọng lượng của vật trong phòng thí nghiệm.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.2), tr. 148; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.3), tr. 148; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.3), tr. 148, 149
+
 ### force of gravity
 - **Tiếng Việt:** Trọng lực
 - **Chuyên ngành gốc:** Vật lí
@@ -1683,6 +1974,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Vật lí lớp 10, Bài 17 (Mục I.1): biểu diễn vectơ lực hút của Trái Đất tác dụng lên các vật ở gần mặt đất.
   - *Lưu ý:* Trong chương trình Vật lí phổ thông Việt Nam, trọng lực ($\vec{P} = m \cdot \vec{g}$) là đại lượng vectơ, còn độ lớn của nó là trọng lượng ($P = m \cdot g$).
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B17, tr. 69; SGK Vật lí 10 KNTT, Chương 03, B17 (Mục I), tr. 69; SGK Vật lí 10 KNTT, Chương 03, B17 (Mục I.1), tr. 69
+
+### force representation
+- **Tiếng Việt:** Biểu diễn lực
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The method of using an arrow to visually depict the four characteristics of a force, with its tail placed on the object acted upon, its line and orientation matching the force's line of action and sense, and its length proportional to the force's magnitude according to a chosen scale.
+- **Giải thích (VI):** Cách dùng một mũi tên để thể hiện trực quan bốn đặc trưng của lực, trong đó gốc mũi tên đặt tại vật chịu lực, phương và chiều trùng với phương và chiều của lực, còn độ dài mũi tên tỉ lệ với độ lớn của lực theo một tỉ xích quy ước.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 41 (Mục II): đọc và vẽ sơ đồ các lực tác dụng lên vật theo tỉ xích cho trước.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.3), tr. 149; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục II), tr. 149; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục II), tr. 149, 150
 
 ### forced oscillation
 - **Tiếng Việt:** Dao động cưỡng bức
@@ -1724,6 +2023,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 10 (Mục II.2.c): hằng số gia tốc dùng trong các công thức của sự rơi tự do, chuyển động ném và tính trọng lượng.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 02, B10 (Mục II.2.c), tr. 46; SGK Vật lí 10 KNTT, Chương 02, B10 (Mục II.3), tr. 46
 
+### freezing
+- **Tiếng Việt:** Sự đông đặc
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phase transition in which a substance changes from the liquid state to the solid state at a specific temperature known as its freezing point.
+- **Giải thích (VI):** Quá trình một chất chuyển từ thể lỏng sang thể rắn tại một nhiệt độ xác định là nhiệt độ đông đặc.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 10 (Mục II.1): giải thích hiện tượng nước đóng băng vào những ngày trời rất lạnh, ngược chiều với sự nóng chảy.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.1), tr. 32; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.1), tr. 32, 33; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 35
+
+### freezing point
+- **Tiếng Việt:** Nhiệt độ đông đặc
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The specific temperature at which a substance transitions from the liquid state to the solid state, equal to the melting point of that same substance.
+- **Giải thích (VI):** Nhiệt độ xác định tại đó một chất chuyển từ thể lỏng sang thể rắn, có giá trị bằng với nhiệt độ nóng chảy của chính chất đó.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 10 (Mục II.1): xác định mốc nhiệt độ chuyển thể lỏng sang rắn của chất, chẳng hạn nước đông đặc và nóng chảy cùng ở 0 °C.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.1), tr. 32; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 34
+
 ### frequency
 - **Tiếng Việt:** Tần số
 - **Chuyên ngành gốc:** Vật lí
@@ -1735,6 +2050,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Vật lí lớp 11, Bài 2 (Mục I): Đại lượng đặc trưng cho mức độ nhanh hay chậm của sự lặp lại dao động.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 06, B31 (Mục II.1), tr. 121; SGK Vật lí 10 KNTT, Chương 06, B31 (Mục II.2), tr. 121; SGK Vật lí 10 KNTT, Chương 06, B31 (Mục III), tr. 121; SGK Vật lí 11 KNTT, Chương 01, B2, tr. 10; SGK Vật lí 11 KNTT, Chương 01, B2 (Mục I), tr. 10; SGK Vật lí 11 KNTT, Chương 01, B2 (Mục III), tr. 12
 
+### frictional force
+- **Tiếng Việt:** Lực ma sát
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A contact force arising at the contact surface between two objects, which can either oppose or facilitate motion depending on the situation.
+- **Giải thích (VI):** Lực tiếp xúc xuất hiện ở bề mặt tiếp xúc giữa hai vật, có tác dụng cản trở hoặc thúc đẩy chuyển động tuỳ theo trường hợp cụ thể.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 44 (Mục I): nhận diện bản chất lực tiếp xúc của ma sát và vai trò cản trở hoặc thúc đẩy chuyển động trong đời sống.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B44, tr. 157; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B44 (Mục I), tr. 157; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B44 (Mục II), tr. 158; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194
+
 ### fringe spacing
 - **Tiếng Việt:** Khoảng vân
 - **Chuyên ngành gốc:** Vật lí
@@ -1743,6 +2066,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 12 (Mục II.2): Đại lượng đo trực tiếp trên màn giao thoa để tính bước sóng ánh sáng theo hệ thức $\lambda = \frac{ia}{D}$.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 02, B12 (Mục II.1), tr. 50; SGK Vật lí 11 KNTT, Chương 02, B12 (Mục II.2), tr. 50; SGK Vật lí 11 KNTT, Chương 02, B12 (Mục II.2), tr. 50, 51
 
+### full moon
+- **Tiếng Việt:** Trăng tròn
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The lunar phase during which an observer on Earth sees the entire sunlit hemisphere of the Moon (typically occurring around the middle of a lunation).
+- **Giải thích (VI):** Pha của Mặt Trăng mà khi quan sát từ Trái Đất, người quan sát nhìn thấy toàn bộ nửa bề mặt của Mặt Trăng đang được Mặt Trời chiếu sáng (thường diễn ra vào khoảng giữa Tuần Trăng).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 53 (Mục I.2): đối chiếu với pha Không Trăng và xác định vị trí của Mặt Trăng ở giữa Tuần Trăng trên Hình 53.2.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B53 (Mục I.2), tr. 184
+
 ### fundamental equation of fluid statics
 - **Tiếng Việt:** Phương trình cơ bản của chất lưu đứng yên
 - **Chuyên ngành gốc:** Vật lí
@@ -1750,6 +2081,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phương trình biểu diễn độ chênh lệch áp suất giữa hai điểm có độ sâu $h_1$ và $h_2$ trong lòng chất lưu đứng yên có khối lượng riêng $\rho$ theo hệ thức $p_N - p_M = \rho \cdot g \cdot (h_1 - h_2)$ hay $\Delta p = \rho \cdot g \cdot \Delta h$.
 - **Bối cảnh:** Vật lí lớp 10, Bài 34 (Mục III.3): Tính độ chênh lệch áp suất giữa hai độ sâu khác nhau trong chất lưu đứng yên và chứng minh định luật Archimedes.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 07, B34 (Mục III.2), tr. 134; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục III.3), tr. 134; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục III.3), tr. 134, 135
+
+### galaxy
+- **Tiếng Việt:** Thiên hà
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A vast stellar system composed of stars and other celestial bodies bound together by gravity in the universe, similar to our Milky Way.
+- **Giải thích (VI):** Hệ thống sao khổng lồ gồm rất nhiều ngôi sao và các thiên thể khác liên kết với nhau bằng lực hấp dẫn trong vũ trụ, tương tự như Ngân Hà của chúng ta.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A vast stellar system in the Universe occurring in various shapes, each containing at least one hundred billion stars along with celestial bodies, gas, and dust. / VI: Hệ sao khổng lồ trong Vũ Trụ có nhiều hình dạng khác nhau, chứa từ 100 tỉ ngôi sao trở lên cùng các thiên thể, khí và bụi.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 55 (Mục I, II): mở rộng khái niệm từ Ngân Hà sang hàng nghìn tỉ hệ thống sao khác tồn tại trong vũ trụ.
+  - Lịch sử và Địa lí lớp 6, Bài 6 (Mục 1): hệ thống sao khổng lồ cấu thành Vũ Trụ.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B55 (Mục II), tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1), tr. 116
 
 ### Galileo's inclined plane experiment
 - **Tiếng Việt:** Thí nghiệm của Galilei
@@ -1784,12 +2126,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 02, B12 (Mục II), tr. 51
 
 ### gaseous state
-- **Tiếng Việt:** Thể khí
+- **Tiếng Việt:** Thể khí (thể hơi)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A state of matter characterized by large intermolecular distances and very weak intermolecular forces, having neither definite shape nor definite volume, always filling its entire container and being easily compressible.
 - **Giải thích (VI):** Thể của vật chất có khoảng cách giữa các phân tử rất lớn và lực liên kết phân tử rất yếu, khiến chất không có hình dạng và thể tích riêng, luôn chiếm toàn bộ thể tích bình chứa và dễ nén.
-- **Bối cảnh:** Vật lí lớp 12, Bài 1 (Mục II): phân biệt cấu trúc và tính chất vĩ mô của chất khí với chất rắn và chất lỏng.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B1 (Mục II), tr. 7; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.1), tr. 7
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A state of matter that takes the shape of its entire container, spreads readily in all directions through space, and is easily compressed. In this state, constituent particles move freely to fill the entire container. / VI: Trạng thái của chất mang hình dạng của vật chứa nó, dễ dàng lan toả trong không gian theo mọi hướng và dễ bị nén. Ở trạng thái này, các hạt cấu tạo nên chất di chuyển tự do và chiếm đầy vật chứa.
+- **Bối cảnh:**
+  - Vật lí lớp 12, Bài 1 (Mục II): phân biệt cấu trúc và tính chất vĩ mô của chất khí với chất rắn và chất lỏng.
+  - Khoa học tự nhiên lớp 6, Bài 10 (Mục I): giải thích khả năng lan toả mùi hương và tính dễ nén của không khí, hơi nước so với thể rắn và thể lỏng.
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B1 (Mục II), tr. 7; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.1), tr. 7; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục I), tr. 30; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục I), tr. 31; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 34
 
 ### general form of Newton's second law
 - **Tiếng Việt:** Định luật 2 Newton dạng tổng quát
@@ -1807,6 +2152,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 32 (Mục III): Vận dụng công thức gia tốc hướng tâm và lực hấp dẫn đóng vai trò lực hướng tâm của vệ tinh quay quanh Trái Đất.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 06, B32 (Mục III), tr. 125; SGK Vật lí 10 KNTT, Chương 06, B32 (Mục III), tr. 125, 126
 
+### geothermal energy
+- **Tiếng Việt:** Năng lượng địa nhiệt
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A renewable energy source obtained from the heat within the Earth's core, manifested through thermal emissions from geysers, hot springs, or volcanic regions.
+- **Giải thích (VI):** Nguồn năng lượng tái tạo thu từ sức nóng bên trong lõi Trái Đất, biểu hiện qua lượng nhiệt toả ra từ các giếng phun, suối nước nóng hoặc khu vực gần núi lửa.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 50 (Mục II): phân loại nguồn năng lượng tái tạo khai thác từ nhiệt năng tự nhiên trong lòng Trái Đất.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 09, B50, tr. 173; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B50 (Mục I), tr. 173; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B50 (Mục II), tr. 173
+
 ### graphical method
 - **Tiếng Việt:** Phương pháp đồ thị
 - **Chuyên ngành gốc:** Vật lí
@@ -1815,16 +2168,34 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 3 (Mục II.4): Xử lí và biểu diễn kết quả đo thực nghiệm bằng đồ thị kèm miền sai số.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B3 (Mục II.4), tr. 19
 
+### gravitational force
+- **Tiếng Việt:** Lực hấp dẫn
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The non-contact attractive force existing mutually between all objects that possess mass.
+- **Giải thích (VI):** Lực hút không tiếp xúc tồn tại lẫn nhau giữa mọi vật có khối lượng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 43 (Mục IV): khái quát hoá lực hút của Trái Đất thành lực hút chung giữa mọi vật có khối lượng.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43 (Mục II), tr. 155; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43 (Mục III), tr. 155; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43 (Mục IV), tr. 155; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194
+
 ### gravitational potential energy
-- **Tiếng Việt:** Thế năng trọng trường (thế năng)
+- **Tiếng Việt:** Thế năng trọng trường (thế năng; Thế năng hấp dẫn)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The form of stored energy possessed by an object at height $h$ relative to a reference level in a gravitational field, given by $W_{\text{t}} = P \cdot h = m \cdot g \cdot h$ (where $m$ is the object's mass and $g$ is the gravitational acceleration). In the SI system, gravitational potential energy is measured in joules ($\text{J}$) and depends on the chosen potential energy reference level.
 - **Giải thích (VI):** Dạng năng lượng lưu trữ của một vật đặt ở độ cao $h$ so với gốc thế năng trong trường trọng lực, xác định bởi công thức $W_{\text{t}} = P \cdot h = m \cdot g \cdot h$ (với $m$ là khối lượng vật và $g$ là gia tốc trọng trường). Trong hệ SI, thế năng trọng trường có đơn vị là jun ($\text{J}$) và phụ thuộc vào vị trí chọn làm gốc thế năng.
 - **Giải thích khác (SGK Vật lí 11):** EN: The form of potential energy of an object in a gravitational field depending on its height relative to a reference level. For a simple pendulum referenced at its equilibrium position, $W_\text{t} = mgl(1 - \cos\alpha)$, and for small angles, $W_\text{t} \approx \frac{1}{2}m\frac{g}{l}s^2$. / VI: Dạng thế năng của vật trong trọng trường phụ thuộc vào độ cao so với mốc thế năng. Đối với con lắc đơn chọn mốc thế năng tại vị trí cân bằng, $W_\text{t} = mgl(1 - \cos\alpha)$, và khi góc lệch nhỏ thì $W_\text{t} \approx \frac{1}{2}m\frac{g}{l}s^2$.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The form of energy stored in an object when it is positioned at a height above the ground. / VI: Dạng năng lượng lưu trữ trong vật khi vật ở một độ cao so với mặt đất.
 - **Bối cảnh:**
   - Vật lí lớp 10, Bài 25 (Mục II.1): Xác định năng lượng dự trữ của vật ở độ cao xác định trong trọng trường như búa máy đóng cọc hoặc nước trên đập cao.
   - Vật lí lớp 11, Bài 5 (Mục IV.2): Xác định thế năng và cơ năng của con lắc đơn trong quá trình dao động.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B25 (Mục I.2), tr. 100; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 100; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 100, 101; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.1), tr. 22; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.2), tr. 22; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.2), tr. 22, 23
+  - Khoa học tự nhiên lớp 6, Bài 47 (Mục II): nhận diện năng lượng dự trữ theo độ cao như nước trong hồ chứa thuỷ điện, cánh diều trên trời hoặc búa máy nâng cao.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B25 (Mục I.2), tr. 100; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 100; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 100, 101; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.1), tr. 22; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.2), tr. 22; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.2), tr. 22, 23; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 167
+
+### half moon
+- **Tiếng Việt:** Bán nguyệt
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The lunar phase appearing as an illuminated semicircle when observed from the Earth, occurring at approximately day 8 (first quarter) and day 23 (third quarter) after the new moon.
+- **Giải thích (VI):** Pha của Mặt Trăng có hình dạng một nửa hình tròn sáng khi quan sát từ Trái Đất (nghĩa là nửa Trăng), xuất hiện vào khoảng ngày thứ 8 (nửa đầu tháng) và ngày thứ 23 (nửa cuối tháng) sau ngày Không Trăng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 53 (Mục I.2, II): xác định vị trí vuông góc tương đối của hướng nhìn Mặt Trăng và hướng chiếu sáng của Mặt Trời ở ngày thứ 8 và 23 của Tuần Trăng.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B53 (Mục I.2), tr. 184; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B53 (Mục II), tr. 186
 
 ### half-life
 - **Tiếng Việt:** Chu kì bán rã
@@ -2100,6 +2471,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 1 (Mục II.2): Xác định trạng thái của vật dao động điều hoà tại thời điểm ban đầu $t = 0$.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 01, B1 (Mục II.1), tr. 7; SGK Vật lí 11 KNTT, Chương 01, B1 (Mục II.2), tr. 7; SGK Vật lí 11 KNTT, Chương 01, B1 (Mục II.2), tr. 7, 8
 
+### inner planet
+- **Tiếng Việt:** Hành tinh vòng trong (các hành tinh vòng trong)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** Any of the four planets located inside the main asteroid belt—Mercury, Venus, Earth, and Mars—composed primarily of silicates and metals. Because they orbit relatively close to the Sun, these planets have high temperatures.
+- **Giải thích (VI):** Nhóm bốn hành tinh nằm ở phía trong vành đai tiểu hành tinh chính gồm Thuỷ tinh, Kim tinh, Trái Đất và Hoả tinh, có thành phần chủ yếu từ silicat và các kim loại. Do nằm khá gần Mặt Trời, các hành tinh thuộc nhóm này có nhiệt độ cao.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 54 (Mục II.1): phân nhóm tám hành tinh của hệ Mặt Trời và so sánh chu kì tự quay, chu kì quay quanh Mặt Trời cùng khoảng cách đến Mặt Trời.
+  - *Lưu ý:* Trong thiên văn học quốc tế, các hành tinh vòng trong còn có thuật ngữ tương đương là terrestrial planets (các hành tinh đất đá).
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục I), tr. 188; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục II.1), tr. 188; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục II.2), tr. 188
+
 ### instant of time
 - **Tiếng Việt:** Thời điểm
 - **Chuyên ngành gốc:** Vật lí
@@ -2251,12 +2632,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B24 (Mục I.2), tr. 103; SGK Vật lí 11 KNTT, Chương 04, B24 (Mục I.3), tr. 103; SGK Vật lí 11 KNTT, Chương 04, B24 (Mục II.1), tr. 103
 
 ### International System of Units
-- **Tiếng Việt:** Hệ SI (Hệ đơn vị đo lường quốc tế)
+- **Tiếng Việt:** Hệ SI (Hệ đơn vị đo lường quốc tế; Système International d'unités)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The international standard system of measurement built upon $7$ base units together with derived units.
 - **Giải thích (VI):** Hệ đơn vị đo lường chuẩn quốc tế được xây dựng trên nền tảng $7$ đơn vị cơ bản cùng các đơn vị dẫn xuất.
-- **Bối cảnh:** Vật lí lớp 10, Bài 3 (Mục I): Hệ đơn vị chuẩn dùng để biểu diễn và tính toán các đại lượng vật lí.
-- **Nguồn:** SGK Vật lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 137; SGK Vật lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 137, 138
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The international system of measurement units (abbreviated SI from the French Système International d'unités) officially adopted by scientists worldwide since 1960. / VI: Hệ thống đơn vị đo lường quốc tế (viết tắt từ tiếng Pháp Système International d'unités) được các nhà khoa học chính thức sử dụng thống nhất trên toàn thế giới từ năm 1960.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 3 (Mục I): Hệ đơn vị chuẩn dùng để biểu diễn và tính toán các đại lượng vật lí.
+  - Khoa học tự nhiên lớp 6, Bài 5 (Mục IV): giới thiệu hệ thống đơn vị đo lường chuẩn quốc tế làm cơ sở cho các đơn vị cơ bản như mét, kilôgam, giây.
+- **Nguồn:** SGK Vật lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 137; SGK Vật lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 137, 138; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5 (Mục III), tr. 19; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5 (Mục IV), tr. 19; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194
 
 ### isobar
 - **Tiếng Việt:** Đường đẳng áp
@@ -2351,6 +2735,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 3 (Mục II.1.b): thang nhiệt độ chuẩn dùng trong khoa học và các phương trình nhiệt động lực học.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B3 (Mục I), tr. 16; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục II.1.a), tr. 16; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục II.1.b), tr. 16
 
+### kilogram
+- **Tiếng Việt:** Kilôgam (kg)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The base unit of mass in Vietnam's legal system of measurement and the SI system, denoted by $\text{kg}$. Related mass units in common use include the milligram ($1\text{ mg} = 0.001\text{ g}$), gram ($1\text{ g} = 0.001\text{ kg}$), hectogram ($100\text{ g}$), quintal ($100\text{ kg}$), and metric ton ($1\text{ t} = 1,000\text{ kg}$).
+- **Giải thích (VI):** Đơn vị cơ bản đo khối lượng trong Hệ đơn vị đo lường hợp pháp của Việt Nam và hệ SI, kí hiệu là $\text{kg}$. Các đơn vị khối lượng liên quan thường gặp gồm miligam ($1\text{ mg} = 0,001\text{ g}$), gam ($1\text{ g} = 0,001\text{ kg}$), héctôgam hay lạng ($100\text{ g}$), tạ ($100\text{ kg}$) và tấn ($1\text{ t} = 1\,000\text{ kg}$).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 6 (Mục I): lựa chọn và đổi đơn vị đo khối lượng phù hợp trong thực hành và đời sống.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B6, tr. 20; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B6 (Mục I), tr. 20; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B6 (Mục II), tr. 20
+
 ### kilowatt-hour
 - **Tiếng Việt:** Kilôoát giờ (số điện)
 - **Chuyên ngành gốc:** Vật lí
@@ -2379,11 +2771,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Dạng năng lượng gắn với chuyển động, có khả năng làm vật khác di chuyển hoặc thay đổi trạng thái. Trong tế bào và cơ thể sống, động năng biểu hiện dưới các dạng như nhiệt năng, cơ năng và điện năng.
 - **Giải thích khác (SGK Vật lí 10):** EN: The form of energy possessed by an object due to its motion, given by $W_{\text{đ}} = \frac{1}{2}m \cdot v^2$ (where $m$ is the mass and $v$ is the speed of the object), measured in joules ($\text{J}$) in the SI system. If the object starts from rest, the kinetic energy it acquires equals the work done by the force acting on it. / VI: Dạng năng lượng mà một vật có được do đang chuyển động, xác định bởi công thức $W_{\text{đ}} = \frac{1}{2}m \cdot v^2$ (với $m$ là khối lượng và $v$ là tốc độ của vật), có đơn vị trong hệ SI là jun ($\text{J}$). Nếu ban đầu vật đứng yên thì động năng vật thu được có giá trị bằng công của lực tác dụng lên vật.
 - **Giải thích khác (SGK Vật lí 11):** EN: The form of energy an object possesses due to its motion, given by $W_\text{đ} = \frac{1}{2}mv^2$. In harmonic oscillation, kinetic energy varies according to $W_\text{đ} = \frac{1}{2}m\omega^2 A^2\sin^2(\omega t + \varphi) = \frac{1}{2}m\omega^2(A^2 - x^2)$. / VI: Dạng năng lượng vật có được do chuyển động, xác định bởi biểu thức $W_\text{đ} = \frac{1}{2}mv^2$. Trong dao động điều hoà, động năng biến thiên theo biểu thức $W_\text{đ} = \frac{1}{2}m\omega^2 A^2\sin^2(\omega t + \varphi) = \frac{1}{2}m\omega^2(A^2 - x^2)$.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The form of energy possessed by an object due to its motion. / VI: Dạng năng lượng mà vật có được do đang chuyển động.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 13 (Mục I.1, Bảng 13): Phân biệt với thế năng khi xét các dạng năng lượng tồn tại trong tế bào.
   - Vật lí lớp 10, Bài 25 (Mục I): Tính năng lượng chuyển động của vật và liên hệ giữa động năng với công của lực.
   - Vật lí lớp 11, Bài 5 (Mục I): Khảo sát sự biến thiên năng lượng chuyển động của vật dao động điều hoà theo thời gian và li độ.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 04, B13 (Mục I.1), tr. 78, 79; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục I.1), tr. 79; SGK Vật lí 10 KNTT, Chương 04, B25, tr. 99; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục I.1), tr. 99; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục I.2), tr. 100; SGK Vật lí 11 KNTT, Chương 01, B5, tr. 20; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục I), tr. 20; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục II), tr. 20
+  - Khoa học tự nhiên lớp 6, Bài 47 (Mục II): nhận diện dạng năng lượng gắn với chuyển động như ô tô đang di chuyển, quả bóng đang lăn hoặc cánh quạt đang quay.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 04, B13 (Mục I.1), tr. 78, 79; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục I.1), tr. 79; SGK Vật lí 10 KNTT, Chương 04, B25, tr. 99; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục I.1), tr. 99; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục I.2), tr. 100; SGK Vật lí 11 KNTT, Chương 01, B5, tr. 20; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục I), tr. 20; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục II), tr. 20; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193, 194; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166
 
 ### kinetic theory of gases
 - **Tiếng Việt:** Mô hình động học phân tử chất khí
@@ -2406,7 +2800,9 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** Mandatory regulations for conducting laboratory experiments, including reading equipment manuals and symbols, inspecting apparatus beforehand, performing experiments only with the teacher's permission, and observing electrical safety (switching off power before plugging or unplugging, matching rated voltage, keeping cords tidy and away from water or flammable liquids). Practitioners must also use protective gear and maintain safe distances from high heat, projectiles, and laser beams, then clean equipment and dispose of waste properly afterward.
 - **Giải thích (VI):** Hệ thống quy định bắt buộc khi thực hành thí nghiệm gồm đọc kĩ hướng dẫn và kí hiệu thiết bị, kiểm tra dụng cụ, chỉ làm thí nghiệm khi có sự cho phép của giáo viên và tuân thủ an toàn điện (tắt nguồn trước khi cắm hoặc tháo phích cắm, dùng đúng hiệu điện thế định mức, bố trí dây gọn gàng, cách xa nước và chất dễ cháy). Người thực hành đồng thời phải giữ khoảng cách an toàn và dùng đồ bảo hộ đối với nguồn nhiệt cao, vật bắn, tia laser, sau đó vệ sinh dụng cụ và bỏ chất thải đúng nơi quy định.
-- **Bối cảnh:** Vật lí lớp 10, Bài 2 (Mục III): Các quy định bắt buộc nhằm phòng tránh rủi ro tai nạn cho người và thiết bị trong phòng thực hành Vật lí.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 2 (Mục III): Các quy định bắt buộc nhằm phòng tránh rủi ro tai nạn cho người và thiết bị trong phòng thực hành Vật lí.
+  - *Lưu ý:* Không nhầm với 'Quy định an toàn trong phòng thực hành' (`laboratory safety rules (chemistry)`) trong Hóa học.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B2 (Mục III), tr. 16
 
 ### law of conservation of electric charge
@@ -2422,8 +2818,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A fundamental law of nature stating that energy is neither created nor destroyed, but only transformed from one form into another or transferred from one object to another. Throughout all such transfer and transformation processes, total energy is always conserved.
 - **Giải thích (VI):** Định luật cơ bản của tự nhiên khẳng định năng lượng không tự sinh ra và cũng không tự mất đi, mà chỉ chuyển hóa từ dạng này sang dạng khác hoặc truyền từ vật này sang vật khác. Trong mọi quá trình truyền và chuyển hóa đó, tổng năng lượng luôn được bảo toàn.
-- **Bối cảnh:** Vật lí lớp 10, Bài 23 (Mục I): Giải thích sự bảo toàn năng lượng trong các quá trình tự nhiên và trong thí nghiệm lịch sử của James Joule.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B23, tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91, 92
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A fundamental physical law stating that energy can neither be created nor destroyed, but only transforms from one form into another or transfers from one object to another. / VI: Định luật vật lí cơ bản khẳng định năng lượng không tự sinh ra hoặc tự mất đi mà chỉ chuyển hoá từ dạng này sang dạng khác hoặc truyền từ vật này sang vật khác.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 23 (Mục I): Giải thích sự bảo toàn năng lượng trong các quá trình tự nhiên và trong thí nghiệm lịch sử của James Joule.
+  - Khoa học tự nhiên lớp 6, Bài 48 (Mục II): giải thích sự bảo toàn tổng năng lượng trong chuyển động cơ học của con lắc và các quá trình biến đổi năng lượng.
+  - *Lưu ý:* Phân biệt với khái niệm tiết kiệm năng lượng (energy saving) trong sử dụng điện và nhiên liệu đời sống.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B23, tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91, 92; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B48 (Mục I), tr. 169; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B48 (Mục II), tr. 169; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B48 (Mục II), tr. 169, 170
 
 ### law of conservation of mechanical energy
 - **Tiếng Việt:** Định luật bảo toàn cơ năng
@@ -2483,6 +2883,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 15 (Mục I): xác định phương và chiều lực từ tác dụng lên dây dẫn mang dòng điện đặt trong từ trường.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B15 (Mục I), tr. 62; SGK Vật lí 12 KNTT, Chương 03, B15 (Mục II.1), tr. 62; SGK Vật lí 12 KNTT, Chương 03, B15 (Mục II.1), tr. 62, 63
 
+### length
+- **Tiếng Việt:** Chiều dài
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A fundamental concept indicating the sequential extent of points along a path in space, whose base unit in Vietnam's legal system of measurement is the metre ($\text{m}$).
+- **Giải thích (VI):** Khái niệm cơ bản chỉ trình tự của các điểm dọc theo một đường nằm trong không gian, có đơn vị đo cơ bản trong Hệ đơn vị đo lường hợp pháp của Việt Nam là mét ($\text{m}$).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 5 (Mục I, III): thực hiện quy trình 5 bước ước lượng, chọn thước, đặt thước, đặt mắt và đọc kết quả đo chiều dài của vật.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5 (Mục III), tr. 18; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193, 194
+
 ### Lenz's law
 - **Tiếng Việt:** Định luật Lenz
 - **Chuyên ngành gốc:** Vật lí
@@ -2508,12 +2916,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B19 (Mục I.2), tr. 78; SGK Vật lí 10 KNTT, Chương 03, B19 (Mục II), tr. 78; SGK Vật lí 10 KNTT, Chương 03, B19 (Mục II), tr. 78, 79
 
 ### light energy
-- **Tiếng Việt:** Quang năng
+- **Tiếng Việt:** Quang năng (Năng lượng ánh sáng)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The form of energy carried by light (primarily sunlight), which serves as the initial energy source in the living world. Photosynthetic pigments in plants and other photoautotrophs capture light energy and convert it into chemical energy stored in ATP, NADPH, and organic compounds.
 - **Giải thích (VI):** Dạng năng lượng của ánh sáng (chủ yếu từ ánh sáng mặt trời), đóng vai trò là nguồn năng lượng khởi đầu trong sinh giới. Hệ sắc tố quang hợp ở thực vật và sinh vật quang tự dưỡng thu nhận quang năng để chuyển hoá thành hoá năng trong ATP, NADPH và các hợp chất hữu cơ.
-- **Bối cảnh:** Sinh học lớp 11, Bài 1 (Mục III.1) và Bài 4 (Mục I.3.b, IV.2): nguồn năng lượng khởi đầu được diệp lục hấp thụ trong giai đoạn tổng hợp của chuyển hoá năng lượng.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III.1), tr. 6; SGK Sinh học 11 KNTT, Chương 01, B4 (Mục I.3.b), tr. 27; SGK Sinh học 11 KNTT, Chương 01, B4 (Mục IV.2), tr. 34
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The form of energy emitted by natural or artificial light sources such as the Sun and lamps. / VI: Dạng năng lượng phát ra từ các nguồn sáng tự nhiên hoặc nhân tạo như Mặt Trời và các loại đèn.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 1 (Mục III.1) và Bài 4 (Mục I.3.b, IV.2): nguồn năng lượng khởi đầu được diệp lục hấp thụ trong giai đoạn tổng hợp của chuyển hoá năng lượng.
+  - Khoa học tự nhiên lớp 6, Bài 47 (Mục I, II): nhận diện dạng năng lượng chiếu sáng và cần thiết cho sự sống, phát triển của thực vật.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III.1), tr. 6; SGK Sinh học 11 KNTT, Chương 01, B4 (Mục I.3.b), tr. 27; SGK Sinh học 11 KNTT, Chương 01, B4 (Mục IV.2), tr. 34; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166
+
+### light-year
+- **Tiếng Việt:** Năm ánh sáng (ly)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A unit of astronomical distance equal to the distance traveled by light at a speed of approximately 300,000 km/s in one year (about 9.5 trillion kilometers).
+- **Giải thích (VI):** Đơn vị đo khoảng cách trong thiên văn học, bằng quãng đường mà ánh sáng truyền đi với vận tốc gần bằng 300 000 km/s trong thời gian một năm (xấp xỉ 9,5 nghìn tỉ kilômét).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 55 (Mục I, II): dùng để biểu diễn kích thước của Ngân Hà và khoảng cách từ hệ Mặt Trời đến tâm Ngân Hà, lưu ý đây là đơn vị đo khoảng cách chứ không phải đơn vị thời gian.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B55, tr. 190; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B55 (Mục I), tr. 190; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B55 (Mục I), tr. 190, 191
 
 ### lightning
 - **Tiếng Việt:** Sét
@@ -2522,6 +2941,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hiện tượng phóng điện tự nhiên trong khí quyển xảy ra trong cơn dông khi các đám mây nhiễm điện trái dấu tạo nên vùng điện trường mạnh và tiến lại gần nhau.
 - **Bối cảnh:** Vật lí lớp 11, Bài 17 (Mục II): Minh hoạ hiện tượng phóng điện trong vùng điện trường mạnh của khí quyển.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B17 (Mục II), tr. 67; SGK Vật lí 11 KNTT, Chương 03, B17 (Mục II), tr. 67, 68
+
+### line of action and sense of force
+- **Tiếng Việt:** Phương và chiều của lực
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The two directional characteristics of a force in space, comprising the straight line along which the force acts (line of action, such as horizontal or vertical) and the specific orientation along that line (sense, such as left-to-right or downward).
+- **Giải thích (VI):** Hai đặc trưng xác định hướng tác dụng trong không gian của lực, gồm đường thẳng mà lực tác dụng theo đó (phương, như nằm ngang hoặc thẳng đứng) và hướng cụ thể dọc theo phương đó (chiều, như từ trái sang phải hoặc từ trên xuống dưới).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 41 (Mục I.3): phân biệt hai lực cùng phương cùng chiều với hai lực cùng phương ngược chiều như trong trò chơi kéo co.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.2), tr. 148; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.3), tr. 148; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.3), tr. 148, 149
 
 ### linear displacement
 - **Tiếng Việt:** Li độ dài
@@ -2552,8 +2979,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A state of matter intermediate between the solid and gaseous states, in which a body has a definite volume of its own but no definite shape.
 - **Giải thích (VI):** Thể của vật chất trung gian giữa thể rắn và thể khí, trong đó vật có thể tích riêng xác định nhưng không có hình dạng riêng.
-- **Bối cảnh:** Vật lí lớp 12, Bài 1 (Mục II): phân biệt cấu trúc và tính chất vĩ mô của chất lỏng với chất rắn và chất khí.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B1 (Mục II), tr. 7; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.1), tr. 7
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A state of matter that takes the shape of the occupied portion of its container, can be poured and flow across surfaces, and is difficult to compress. In this state, constituent particles do not occupy fixed positions and can move and slide past one another. / VI: Trạng thái của chất mang hình dạng của phần vật chứa nó, có thể rót được, chảy tràn trên bề mặt và khó bị nén. Ở trạng thái này, các hạt cấu tạo nên chất không ở vị trí cố định mà có thể di chuyển và trượt lên nhau.
+- **Bối cảnh:**
+  - Vật lí lớp 12, Bài 1 (Mục II): phân biệt cấu trúc và tính chất vĩ mô của chất lỏng với chất rắn và chất khí.
+  - Khoa học tự nhiên lớp 6, Bài 10 (Mục I): mô tả đặc điểm của nước lỏng, dầu ăn, xăng và đối chiếu với thể rắn, thể khí.
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B1 (Mục II), tr. 7; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.1), tr. 7; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục I), tr. 30; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục I), tr. 31; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.1), tr. 32
 
 ### longitudinal wave
 - **Tiếng Việt:** Sóng dọc
@@ -2580,6 +3010,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cấp điện áp của các mạng lưới điện có hiệu điện thế nhỏ hơn $1\text{ kV}$ theo quy định phân loại lưới điện truyền tải tại Việt Nam.
 - **Bối cảnh:** Vật lí lớp 11, Bài 20 (Mục I): Phân loại cấp điện áp dưới $1\text{ kV}$ trong mạng lưới truyền tải điện.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B20, tr. 79; SGK Vật lí 11 KNTT, Chương 03, B20 (Mục I), tr. 80; SGK Vật lí 11 KNTT, Chương 03, B20 (Mục II), tr. 80
+
+### lunar phases
+- **Tiếng Việt:** Các pha của Mặt Trăng (pha của Mặt Trăng; pha Mặt Trăng)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The varying apparent shapes of the sunlit portion of the Moon's surface as observed from the Earth from day to day. This phenomenon occurs because the Moon orbits the Earth while the Earth orbits the Sun, continuously changing the relative positions of the three celestial bodies and the viewing angle from the Earth.
+- **Giải thích (VI):** Các hình dạng nhìn thấy khác nhau của phần bề mặt Mặt Trăng được Mặt Trời chiếu sáng khi quan sát từ Trái Đất qua từng ngày. Hiện tượng này xuất hiện do Mặt Trăng quay quanh Trái Đất và Trái Đất quay quanh Mặt Trời làm vị trí tương đối giữa ba thiên thể và góc nhìn từ Trái Đất thay đổi liên tục.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 53 (Mục I.2, II): giải thích bằng sơ đồ và mô hình sự biến đổi từ Không Trăng, Trăng khuyết, Bán nguyệt đến Trăng tròn.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B53 (Mục I.2), tr. 184; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B53 (Mục II), tr. 185; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B53 (Mục II), tr. 186
 
 ### magnetic field
 - **Tiếng Việt:** Từ trường
@@ -2645,6 +3083,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 15 (Mục III.5): ứng dụng thực tiễn của tương tác từ và lực từ trong giao thông vận tải.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B15 (Mục III.5), tr. 65
 
+### magnifying glass
+- **Tiếng Việt:** Kính lúp
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An optical instrument capable of magnifying the image of an observed object by about 3 to 20 times, used to examine small objects. A simple handheld magnifying glass consists of a lens thinner at the edge than at the center, mounted in a protective frame with a handle.
+- **Giải thích (VI):** Dụng cụ quang học có khả năng phóng to ảnh của vật quan sát khoảng từ 3 đến 20 lần, dùng để quan sát các vật có kích thước nhỏ. Kính lúp cầm tay đơn giản gồm một tấm kính có phần rìa mỏng hơn phần giữa, lắp trong khung bảo vệ và có tay cầm.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 3 (Mục I, II): lựa chọn và sử dụng kính lúp cầm tay, kính lúp để bàn hoặc kính lúp đeo mắt để quan sát các vật nhỏ như gân lá, côn trùng.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B3, tr. 13; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B3 (Mục I), tr. 13; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B3 (Mục II.1), tr. 14
+
+### magnitude of force
+- **Tiếng Việt:** Độ lớn của lực (độ lớn)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A quantity characterizing the strength or intensity of a force acting upon an object.
+- **Giải thích (VI):** Đại lượng đặc trưng cho mức độ mạnh hay yếu của một lực tác dụng lên vật.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 41 (Mục I.1): so sánh độ mạnh yếu giữa các lực và biểu diễn bằng độ dài mũi tên theo tỉ xích.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41, tr. 147; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I), tr. 147; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.1), tr. 147
+
 ### magnitude of magnetic flux density
 - **Tiếng Việt:** Độ lớn của cảm ứng từ
 - **Chuyên ngành gốc:** Vật lí
@@ -2658,8 +3112,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A scalar physical quantity denoted by $m$ that measures the amount of matter in an object and characterizes its degree of inertia. Mass is always positive, additive, and invariant for a given object regardless of location.
 - **Giải thích (VI):** Đại lượng vật lí vô hướng kí hiệu là $m$, là số đo lượng chất của vật và đặc trưng cho mức quán tính của vật. Khối lượng luôn dương, có tính chất cộng được và không thay đổi đối với mỗi vật khi chuyển từ nơi này đến nơi khác.
-- **Bối cảnh:** Vật lí lớp 10, Bài 15 (Mục II): đại lượng đặc trưng cho mức quán tính trong định luật 2 Newton và phân biệt với trọng lượng.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B15, tr. 63; SGK Vật lí 10 KNTT, Chương 03, B15 (Mục I), tr. 63; SGK Vật lí 10 KNTT, Chương 03, B15 (Mục II), tr. 63
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A physical quantity representing the measure of the amount of matter in an object, whose base unit of measurement is the kilogram ($\text{kg}$). / VI: Đại lượng vật lí biểu thị số đo lượng chất tạo nên vật, có đơn vị đo cơ bản là kilôgam ($\text{kg}$).
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A quantity measuring the amount of matter in an object (having neither line of action nor sense), commonly symbolized as $m$, measured with a balance in kilograms ($\text{kg}$). / VI: Đại lượng chỉ số đo lượng chất của vật (không có phương và chiều), thường kí hiệu là $m$, đo bằng cân và có đơn vị là kilôgam ($\text{kg}$).
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 15 (Mục II): đại lượng đặc trưng cho mức quán tính trong định luật 2 Newton và phân biệt với trọng lượng.
+  - Khoa học tự nhiên lớp 6, Bài 6 (Mục I): xác định lượng chất chứa trong vật bằng cân và phân biệt với thể tích của vật.
+  - Khoa học tự nhiên lớp 6, Bài 43 (Mục III): đối chiếu bản chất, đơn vị và dụng cụ đo khối lượng với trọng lượng của cùng một vật.
+  - *Lưu ý:* Phân biệt với trọng lượng (độ lớn lực hút của Trái Đất tác dụng lên vật, đo bằng đơn vị niutơn).
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B15, tr. 63; SGK Vật lí 10 KNTT, Chương 03, B15 (Mục I), tr. 63; SGK Vật lí 10 KNTT, Chương 03, B15 (Mục II), tr. 63; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B6 (Mục I), tr. 20; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43 (Mục III), tr. 155; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43 (Mục IV), tr. 156
 
 ### mass defect
 - **Tiếng Việt:** Độ hụt khối
@@ -2739,6 +3199,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 12 (Mục I.2): tính áp suất chất khí và động năng trung bình của phân tử.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 02, B12 (Mục I.2), tr. 49; SGK Vật lí 12 KNTT, Chương 02, B12 (Mục II), tr. 49; SGK Vật lí 12 KNTT, Chương 02, B12 (Mục II), tr. 49, 50
 
+### measurement range
+- **Tiếng Việt:** Giới hạn đo (GHĐ)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The maximum value marked on the scale of a measuring instrument. During measurement, one estimates the quantity to be measured so as to select an instrument whose measurement range slightly exceeds the estimated value.
+- **Giải thích (VI):** Giá trị lớn nhất ghi trên thang đo của một dụng cụ đo. Khi đo lường, cần ước lượng đại lượng cần đo để chọn dụng cụ có giới hạn đo lớn hơn giá trị ước lượng một chút.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 5 (Mục II): xác định giá trị lớn nhất ghi trên thước, bình chia độ, cân hoặc nhiệt kế trước khi tiến hành đo.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5 (Mục II), tr. 18; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195
+
 ### measurement resolution
 - **Tiếng Việt:** Độ phân giải
 - **Chuyên ngành gốc:** Vật lí
@@ -2802,6 +3270,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 20 (Mục I): Phân loại cấp điện áp từ $1\text{ kV}$ đến $66\text{ kV}$ trong mạng lưới truyền tải điện.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B20, tr. 79; SGK Vật lí 11 KNTT, Chương 03, B20 (Mục I), tr. 80; SGK Vật lí 11 KNTT, Chương 03, B20 (Mục II), tr. 80
 
+### melting
+- **Tiếng Việt:** Sự nóng chảy
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phase transition in which a substance changes from the solid state to the liquid state at a specific temperature known as its melting point.
+- **Giải thích (VI):** Quá trình một chất chuyển từ thể rắn sang thể lỏng tại một nhiệt độ xác định là nhiệt độ nóng chảy.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 10 (Mục II.1): khảo sát hiện tượng băng tuyết tan hoặc nước đá nóng chảy ở 0 °C, ngược chiều với sự đông đặc.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.1), tr. 32; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.1), tr. 32, 33; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 35
+
+### melting point
+- **Tiếng Việt:** Nhiệt độ nóng chảy
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The specific temperature at which a substance transitions from the solid state to the liquid state, equal to the freezing point of that same substance.
+- **Giải thích (VI):** Nhiệt độ xác định tại đó một chất chuyển từ thể rắn sang thể lỏng, có giá trị bằng với nhiệt độ đông đặc của chính chất đó.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 10 (Mục II.1): dùng để dự đoán thể của các chất ở nhiệt độ thường, ví dụ nước nóng chảy ở 0 °C, sắt ở 1 538 °C, thiếc ở 232 °C và thuỷ ngân ở -39 °C.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.1), tr. 32; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 34
+
 ### metallic crystal lattice
 - **Tiếng Việt:** Mạng tinh thể kim loại
 - **Chuyên ngành gốc:** Vật lí
@@ -2809,6 +3293,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cấu trúc vi mô có trật tự tạo thành khi các nguyên tử trong kim loại mất electron hoá trị trở thành các ion dương liên kết trật tự với nhau. Sự mất trật tự của mạng tinh thể này do chuyển động nhiệt cản trở chuyển động của các electron tự do, gây ra điện trở của kim loại.
 - **Bối cảnh:** Vật lí lớp 11, Bài 23 (Mục III.1): Giải thích cấu trúc vi mô của vật dẫn kim loại và vai trò của chuyển động nhiệt các ion dương.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.3), tr. 97; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục II), tr. 97; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục III.1), tr. 97, 98
+
+### meteoroid
+- **Tiếng Việt:** Thiên thạch
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A small solid body moving through interplanetary space within the Solar System; upon entering Earth's atmosphere, friction with air causes most of it to burn up or vaporize.
+- **Giải thích (VI):** Khối vật chất rắn có kích thước nhỏ chuyển động trong không gian thuộc hệ Mặt Trời; khi rơi vào bầu khí quyển Trái Đất, chúng cọ xát với không khí nên bốc cháy hoặc bay hơi gần hết.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 54 (Mục I) và Bài 11 (Mục IV): nêu với tư cách một thành phần của hệ Mặt Trời và giải thích vai trò bảo vệ Trái Đất của lớp không khí trước các thiên thạch rơi từ vũ trụ.
+  - *Lưu ý:* Trong thiên văn học tiếng Anh, vật thể khi còn chuyển động trong không gian liên hành tinh là meteoroid, còn mảnh rắn rơi xuống tới bề mặt hành tinh là meteorite; SGK Khoa học tự nhiên 6 dùng chung thuật ngữ "thiên thạch".
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54, tr. 187; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục I), tr. 187; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục I), tr. 187, 188; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B11 (Mục IV), tr. 39
 
 ### method of dynamics
 - **Tiếng Việt:** Phương pháp động lực học
@@ -2818,6 +3312,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 20 (Mục I): Quy trình ba bước giải các bài toán động lực học chất điểm bằng định luật 2 Newton.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B20 (Mục I), tr. 80; SGK Vật lí 10 KNTT, Chương 03, B20 (Mục II.1), tr. 80
 
+### metre
+- **Tiếng Việt:** Mét (m)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The base unit of length in Vietnam's legal system of measurement and the SI system, denoted by $\text{m}$. Common submultiples and multiples of the metre include the millimetre ($1\text{ mm} = 0.001\text{ m}$), centimetre ($1\text{ cm} = 0.01\text{ m}$), decimetre ($1\text{ dm} = 0.1\text{ m}$), and kilometre ($1\text{ km} = 1,000\text{ m}$).
+- **Giải thích (VI):** Đơn vị đo độ dài cơ bản trong Hệ đơn vị đo lường hợp pháp của Việt Nam và hệ SI, kí hiệu là $\text{m}$. Các ước số và bội số thông dụng của mét gồm milimét ($1\text{ mm} = 0,001\text{ m}$), xentimét ($1\text{ cm} = 0,01\text{ m}$), đềximét ($1\text{ dm} = 0,1\text{ m}$) và kilômét ($1\text{ km} = 1\,000\text{ m}$).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 5 (Mục I): lựa chọn và quy đổi đơn vị độ dài phù hợp khi đo kích thước vật thể hoặc khoảng cách địa lí.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5, tr. 17; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5 (Mục I), tr. 17; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5 (Mục II), tr. 17
+
 ### microwave
 - **Tiếng Việt:** Sóng vi ba
 - **Chuyên ngành gốc:** Vật lí
@@ -2825,6 +3327,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Sóng điện từ có bước sóng ngắn từ $1\text{ mm}$ đến $1\text{ m}$ (thường cỡ vài xentimét), đôi khi được xếp là một phân dải của sóng vô tuyến, ứng dụng trong viễn thông quốc tế, chuyển tiếp truyền hình qua vệ tinh thông tin và mạng điện thoại di động qua tháp vi ba.
 - **Bối cảnh:** Vật lí lớp 11, Bài 11 (Mục II.4): Phân dải sóng điện từ dùng trong thông tin vệ tinh, mạng di động và lò vi sóng.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 02, B11 (Mục II), tr. 45; SGK Vật lí 11 KNTT, Chương 02, B11 (Mục II.3), tr. 46; SGK Vật lí 11 KNTT, Chương 02, B11 (Mục II.4), tr. 46
+
+### Milky Way
+- **Tiếng Việt:** Ngân Hà (dải Ngân Hà)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A gravitationally bound system of hundreds of billions of celestial bodies that contains our Solar System. The Milky Way is a spiral galaxy with four major spiral arms, measuring approximately 100,000 light-years in diameter and about 300 light-years in thickness.
+- **Giải thích (VI):** Tập hợp hàng trăm tỉ thiên thể liên kết với nhau bằng lực hấp dẫn, trong đó có hệ Mặt Trời của chúng ta. Ngân Hà là một thiên hà hình xoắn ốc với bốn vòng xoắn chính, có đường kính khoảng 100 000 năm ánh sáng và bề dày khoảng 300 năm ánh sáng.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The galaxy within the vast Universe that contains the Solar System and the Earth. / VI: Thiên hà chứa hệ Mặt Trời và Trái Đất trong không gian bao la của Vũ Trụ.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 55 (Mục I, II): mô tả hình dạng dải sáng mờ trên bầu trời đêm và xác định vị trí của hệ Mặt Trời ở gần rìa một vòng xoắn, cách tâm khoảng 26 000 năm ánh sáng.
+  - Lịch sử và Địa lí lớp 6, Bài 6 (Mục 1): xác định vị trí của hệ Mặt Trời trong Vũ Trụ.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B55, tr. 190; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B55 (Mục II), tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B6, tr. 116; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1), tr. 116
 
 ### modeling method
 - **Tiếng Việt:** Phương pháp mô hình
@@ -2894,6 +3407,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 28 (Mục I): Đặc trưng cho mức độ truyền chuyển động trong các bài toán va chạm và tương tác cơ học.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 05, B28, tr. 110; SGK Vật lí 10 KNTT, Chương 05, B28 (Mục I), tr. 110; SGK Vật lí 10 KNTT, Chương 05, B28 (Mục I), tr. 110, 111
 
+### Moon
+- **Tiếng Việt:** Mặt Trăng (Luna)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The sole natural satellite of the Earth, nearly spherical in shape, which does not emit its own light but is visible by reflecting sunlight. The Moon completes one orbit around the Earth in $27.32$ days and always keeps the same hemisphere facing the Earth.
+- **Giải thích (VI):** Vệ tinh tự nhiên duy nhất của Trái Đất, có dạng gần hình cầu, không tự phát sáng mà nhìn thấy được nhờ phản chiếu ánh sáng Mặt Trời. Mặt Trăng chuyển động một vòng quanh Trái Đất mất $27,32$ ngày và luôn hướng một phía bề mặt về Trái Đất.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 53 (Mục I, II): khảo sát đặc điểm chiếu sáng và sự thay đổi hình dạng nhìn thấy của Mặt Trăng từ Trái Đất.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B53, tr. 183; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B53 (Mục I.1), tr. 183; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B53 (Mục I.2), tr. 184
+
 ### motion sensor
 - **Tiếng Việt:** Cảm biến chuyển động
 - **Chuyên ngành gốc:** Vật lí
@@ -2928,6 +3449,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 6 (Mục I.1): Tham số đặc trưng của hệ dao động dùng để xét hiện tượng cộng hưởng.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 01, B6, tr. 24; SGK Vật lí 11 KNTT, Chương 01, B6 (Mục I.1), tr. 24; SGK Vật lí 11 KNTT, Chương 01, B6 (Mục I.1), tr. 24, 25
 
+### natural phenomenon
+- **Tiếng Việt:** Hiện tượng tự nhiên
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** Continuous motions and transformations of objects occurring in nature. Although diverse and varied, all natural phenomena take place according to definite laws.
+- **Giải thích (VI):** Các chuyển động và sự biến đổi không ngừng của các vật trong tự nhiên. Mọi hiện tượng tự nhiên tuy phong phú và đa dạng nhưng đều xảy ra theo những quy luật xác định.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 1 (Mục I): nhận diện các chuyển động và biến đổi trong tự nhiên như Trái Đất quay quanh Mặt Trời hay hạt thóc nảy mầm thành cây lúa.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1, tr. 7; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục I), tr. 7; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục II), tr. 7
+
+### natural satellite
+- **Tiếng Việt:** Vệ tinh (vệ tinh tự nhiên)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A non-luminous celestial body that orbits a planet and becomes visible by being illuminated by a star.
+- **Giải thích (VI):** Thiên thể không tự phát sáng, chuyển động quay quanh một hành tinh và nhìn thấy được nhờ được sao chiếu sáng.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 52 (Mục III): nhận diện Mặt Trăng là vệ tinh tự nhiên của Trái Đất và phân biệt với vệ tinh nhân tạo do con người phóng lên.
+  - *Lưu ý:* Trong thiên văn học (Bài 52), thuật ngữ này chỉ vệ tinh tự nhiên là thiên thể trong vũ trụ, phân biệt với vệ tinh nhân tạo do con người chế tạo.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B52 (Mục II.2), tr. 180; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B52 (Mục III), tr. 181; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195
+
+### natural science
+- **Tiếng Việt:** Khoa học tự nhiên (KHTN)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A branch of science that studies natural phenomena to discover their properties and governing laws. Achievements in natural science form the basis for technological applications serving human life.
+- **Giải thích (VI):** Nhánh của khoa học nghiên cứu các hiện tượng tự nhiên nhằm tìm ra các tính chất và quy luật của chúng. Các thành tựu của khoa học tự nhiên là cơ sở ứng dụng vào công nghệ phục vụ đời sống con người.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 1 (Mục I, IV): giới thiệu đối tượng nghiên cứu và vai trò của khoa học tự nhiên trong đời sống và công nghệ.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục I), tr. 7; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195
+
 ### negative charge
 - **Tiếng Việt:** Điện tích âm
 - **Chuyên ngành gốc:** Vật lí
@@ -2935,6 +3482,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Một trong hai loại điện tích trái dấu trong tự nhiên, có giá trị đại số $q < 0$, theo quy ước là loại điện tích xuất hiện trên thanh nhựa khi cọ xát vào vải (hoặc len). Hai điện tích âm đặt gần nhau thì đẩy nhau, và điện tích âm hút điện tích dương.
 - **Bối cảnh:** Vật lí lớp 11, Bài 16 (Mục I): Quy ước dấu điện tích để xác định chiều lực hút hoặc lực đẩy tĩnh điện giữa các vật nhiễm điện.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B16, tr. 61; SGK Vật lí 11 KNTT, Chương 03, B16 (Mục I), tr. 61; SGK Vật lí 11 KNTT, Chương 03, B16 (Mục I), tr. 61, 62
+
+### negative temperature
+- **Tiếng Việt:** Nhiệt độ âm
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A temperature value lower than $0\text{ }^\circ\text{C}$ (the temperature of melting ice) on the Celsius temperature scale, represented with a minus sign preceding the numerical value.
+- **Giải thích (VI):** Giá trị nhiệt độ thấp hơn mốc $0\text{ }^\circ\text{C}$ (nhiệt độ của nước đá đang tan) trong thang nhiệt độ Xen-xi-út, biểu diễn bằng dấu trừ đứng trước số chỉ độ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 8 (Mục I): biểu diễn các mức nhiệt độ rất lạnh dưới điểm đóng băng của nước như nhiệt độ mùa đông vùng cực.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8, tr. 24; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục I), tr. 24; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục I), tr. 24, 25
 
 ### negative terminal
 - **Tiếng Việt:** Cực âm
@@ -2987,6 +3542,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 22 (Mục III.2): điều kiện duy trì và điều khiển phản ứng phân hạch dây chuyền.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B22 (Mục III.2), tr. 102
 
+### new moon
+- **Tiếng Việt:** Không Trăng (Trăng non)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The lunar phase during which an observer on Earth cannot see any part of the Moon's sunlit surface.
+- **Giải thích (VI):** Pha của Mặt Trăng mà khi quan sát từ Trái Đất, người quan sát không nhìn thấy phần bề mặt nào của Mặt Trăng đang được Mặt Trời chiếu sáng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 53 (Mục I.2): xác định thời điểm khởi đầu của một Tuần Trăng trên Hình 53.2 và Hình 53.3.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B53 (Mục I.2), tr. 184
+
 ### Newton's first law of motion
 - **Tiếng Việt:** Định luật 1 Newton (định luật quán tính)
 - **Chuyên ngành gốc:** Vật lí
@@ -3011,6 +3574,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 16 (Mục I.2): quy luật tương tác hai chiều giữa các vật trong tự nhiên.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B16, tr. 67; SGK Vật lí 10 KNTT, Chương 03, B16 (Mục I.1), tr. 67; SGK Vật lí 10 KNTT, Chương 03, B16 (Mục I.2), tr. 67
 
+### non-contact force
+- **Tiếng Việt:** Lực không tiếp xúc
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A type of force that arises even when the object exerting the force is not in contact with the object acted upon.
+- **Giải thích (VI):** Loại lực xuất hiện ngay cả khi vật gây ra lực không tiếp xúc với vật chịu tác dụng của lực.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 40 (Mục III): nhận biết các lực tác dụng từ xa như lực tương tác giữa hai nam châm hoặc lực hút của Trái Đất.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B40 (Mục III), tr. 146
+
 ### non-electrostatic force
 - **Tiếng Việt:** Lực lạ
 - **Chuyên ngành gốc:** Vật lí
@@ -3018,6 +3589,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Các lực bên trong nguồn điện có bản chất khác với lực điện, thực hiện việc tách các electron ra khỏi nguyên tử và làm các hạt tải điện dương dịch chuyển ngược chiều điện trường từ cực âm đến cực dương, thực hiện công thắng công cản của trường tĩnh điện bên trong nguồn.
 - **Bối cảnh:** Vật lí lớp 11, Bài 24 (Mục I.2, I.3): Giải thích cơ chế vật lí duy trì hiệu điện thế giữa hai cực bên trong nguồn điện.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B24 (Mục I.2), tr. 103; SGK Vật lí 11 KNTT, Chương 04, B24 (Mục I.3), tr. 103; SGK Vật lí 11 KNTT, Chương 04, B24 (Mục II.1), tr. 103
+
+### non-renewable energy
+- **Tiếng Việt:** Năng lượng không tái tạo (nguồn năng lượng không tái tạo)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An energy source that takes millions of years to form and cannot be rapidly replenished, leading to gradual depletion upon consumption. This category includes energy derived from fossil fuels such as coal, petroleum, and natural gas.
+- **Giải thích (VI):** Nguồn năng lượng mất hàng triệu năm để hình thành và không thể bổ sung nhanh chóng, dẫn đến cạn kiệt dần khi tiêu thụ. Nhóm này bao gồm các nguồn năng lượng từ nhiên liệu hoá thạch như than đá, dầu mỏ và khí thiên nhiên.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: Energy extracted from natural sources such as coal, petroleum, and natural gas, which take millions to hundreds of millions of years to form and cannot be replenished quickly, leading to gradual depletion. / VI: Năng lượng khai thác từ các nguồn trong tự nhiên như than đá, dầu mỏ và khí thiên nhiên, vốn cần hàng triệu đến hàng trăm triệu năm để hình thành và không thể bổ sung nhanh nên sẽ dần cạn kiệt.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 14 (Mục III): Phân biệt với năng lượng tái tạo khi xét vấn đề an ninh năng lượng và sự cạn kiệt nhiên liệu hoá thạch.
+  - Khoa học tự nhiên lớp 6, Bài 14 (Mục III) và Bài 50 (Mục I): nhận diện các nguồn năng lượng truyền thống có nguy cơ cạn kiệt và gây ô nhiễm môi trường khi đốt cháy.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục II), tr. 51; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục III), tr. 51; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B50 (Mục I), tr. 173
 
 ### non-uniform motion
 - **Tiếng Việt:** Chuyển động biến đổi
@@ -3149,6 +3731,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 21 (Mục II.1): hạt thành phần cấu tạo nên hạt nhân nguyên tử, tổng số hạt bằng số khối $A$.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B21 (Mục I), tr. 93; SGK Vật lí 12 KNTT, Chương 04, B21 (Mục II.1), tr. 93; SGK Vật lí 12 KNTT, Chương 04, B21 (Mục II.1), tr. 93, 94
 
+### objective lens
+- **Tiếng Việt:** Vật kính
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An optical lens assembly mounted on the revolving nosepiece of an optical microscope, positioned closest to the specimen being observed. It is marked with magnification factors such as $10\times$, $40\times$, or $100\times$ for selection according to observation needs.
+- **Giải thích (VI):** Bộ phận kính gắn trên đĩa quay của kính hiển vi quang học, đặt ở vị trí quay sát về phía mẫu vật cần quan sát. Trên vật kính có ghi chỉ số độ phóng đại như $10\times$, $40\times$ hoặc $100\times$ để lựa chọn tuỳ theo mục đích quan sát.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 4 (Mục I, II): xoay đĩa quay để chọn vật kính có độ phóng đại phù hợp khi bắt đầu quan sát tiêu bản.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B4, tr. 15; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B4 (Mục I), tr. 15; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B4 (Mục II), tr. 16
+
 ### oblique projectile motion
 - **Tiếng Việt:** Chuyển động ném xiên
 - **Chuyên ngành gốc:** Vật lí
@@ -3182,6 +3772,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Định luật về dòng điện không đổi phát biểu rằng cường độ dòng điện $I$ chạy trong mạch điện kín tỉ lệ thuận với suất điện động $\mathcal{E}$ của nguồn điện và tỉ lệ nghịch với điện trở toàn phần $(R + r)$ của mạch điện đó: $I = \frac{\mathcal{E}}{R + r}$.
 - **Bối cảnh:** Vật lí lớp 11, Bài 24 (Mục II.2): Tính cường độ dòng điện chạy trong mạch điện kín có nguồn điện.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B24 (Mục II.2), tr. 104; SGK Vật lí 11 KNTT, Chương 04, B24 (Mục II.2), tr. 104, 105
+
+### optical microscope
+- **Tiếng Việt:** Kính hiển vi quang học
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An optical instrument capable of magnifying the image of an observed specimen by about 40 to 3,000 times to examine tiny structures invisible to the naked eye or a magnifying glass. Its main components include the optical tube assembly (eyepiece, revolving nosepiece, objective lenses), adjustment knobs (coarse and fine), stage, illuminator, arm, and base.
+- **Giải thích (VI):** Dụng cụ quang học có khả năng phóng to ảnh của vật quan sát khoảng từ 40 lần đến 3 000 lần để quan sát những vật rất nhỏ mà mắt thường hay kính lúp không nhìn rõ. Cấu tạo chính gồm hệ thống ống kính (thị kính, đĩa quay, vật kính), ốc điều chỉnh (ốc to, ốc nhỏ), bàn kính, đèn chiếu sáng, thân kính và chân kính.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 4 (Mục I, II, III): nhận biết cấu tạo, thao tác sử dụng và bảo quản kính hiển vi khi quan sát tiêu bản tế bào thực vật, động vật.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B4, tr. 15; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B4 (Mục I), tr. 15; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B4 (Mục II), tr. 16
 
 ### origin of electrical resistance in metals
 - **Tiếng Việt:** Nguyên nhân gây ra điện trở trong vật dẫn kim loại
@@ -3219,6 +3817,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Vật lí lớp 11, Bài 10 (Mục I): Thiết bị dùng để hiển thị đồ thị sóng âm (sau khi chuyển thành tín hiệu điện) và đo chu kì, tần số sóng âm trong thực hành.
   - Vật lí lớp 11, Bài 18 (Mục III): Ứng dụng tác dụng lái tia điện tử của điện trường đều trong thiết bị đo.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 02, B10, tr. 41; SGK Vật lí 11 KNTT, Chương 02, B10 (Mục I), tr. 41; SGK Vật lí 11 KNTT, Chương 02, B10 (Mục II.1), tr. 42; SGK Vật lí 11 KNTT, Chương 03, B18 (Mục III), tr. 74; SGK Vật lí 11 KNTT, Chương 03, B18 (Mục IV), tr. 74, 75
+
+### outer planet
+- **Tiếng Việt:** Hành tinh vòng ngoài (các hành tinh vòng ngoài; hành tinh khí khổng lồ)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** Any of the four planets orbiting far from the Sun—Jupiter, Saturn, Uranus, and Neptune—characterized by very large sizes and compositions dominated by gaseous compounds. Due to their great distance from the Sun, these planets have low temperatures.
+- **Giải thích (VI):** Nhóm bốn hành tinh nằm xa Mặt Trời gồm Mộc tinh, Thổ tinh, Thiên Vương tinh và Hải Vương tinh, có kích thước rất lớn và thành phần chủ yếu là các hợp chất khí. Do nằm cách xa Mặt Trời, các hành tinh thuộc nhóm này có nhiệt độ thấp.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 54 (Mục II.2): phân biệt nhóm bốn hành tinh khí khổng lồ ở vùng ngoài với bốn hành tinh vòng trong của hệ Mặt Trời.
+  - *Lưu ý:* Trong thiên văn học quốc tế, bốn hành tinh vòng ngoài của hệ Mặt Trời còn có thuật ngữ phổ biến là giant planets hoặc gas giants (hành tinh khí khổng lồ).
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục I), tr. 188; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục II.1), tr. 188; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục II.2), tr. 188
 
 ### pair of balanced forces
 - **Tiếng Việt:** Hai lực cân bằng
@@ -3304,13 +3912,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The time interval (symbol $T$) required for an object in uniform circular motion to complete one full revolution around its circular path, given by $T = \frac{1}{f} = \frac{2\pi}{\omega}$.
 - **Giải thích (VI):** Khoảng thời gian (kí hiệu $T$) để vật chuyển động tròn đều quay hết đúng một vòng tròn quỹ đạo, xác định theo hệ thức $T = \frac{1}{f} = \frac{2\pi}{\omega}$.
 - **Giải thích khác (SGK Vật lí 11):** EN: The time interval required for an object to complete one oscillation, denoted by $T$ and measured in seconds ($\text{s}$). / VI: Khoảng thời gian để vật thực hiện được một dao động, kí hiệu là $T$, có đơn vị đo là giây ($\text{s}$).
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The time interval between two consecutive repetitions of an event, or the time required to complete one full rotation or revolution. / VI: Khoảng thời gian giữa hai lần lặp lại liên tiếp của một sự việc, hoặc thời gian để một vật thực hiện xong một vòng quay.
 - **Giải thích khác (SGK Hóa học 10):** EN: A horizontal row of chemical elements in the periodic table arranged in order of increasing nuclear charge, whose atoms possess the same number of electron shells. The modern periodic table has $7$ periods, with the period number equal to the number of electron shells in the atom. / VI: Dãy các nguyên tố hoá học xếp trên cùng một hàng ngang trong bảng tuần hoàn theo chiều điện tích hạt nhân tăng dần, mà nguyên tử của chúng có cùng số lớp electron. Bảng tuần hoàn hiện có $7$ chu kì, với số thứ tự của chu kì bằng số lớp electron của nguyên tử.
 - **Bối cảnh:**
   - Vật lí lớp 10, Bài 31 (Mục II.2): Đại lượng đặc trưng cho tính tuần hoàn theo thời gian của chuyển động tròn đều.
   - Vật lí lớp 11, Bài 2 (Mục I): Đại lượng đặc trưng cho tính tuần hoàn theo thời gian của dao động.
+  - Khoa học tự nhiên lớp 6, Bài 54 (Mục II): biểu thị chu kì tự quay quanh trục và chu kì quay quanh Mặt Trời (tính theo ngày) của tám hành tinh trong hệ Mặt Trời.
   - Hóa học lớp 10, Bài 5 (Mục III.2): Xác định vị trí hàng của nguyên tố từ số lớp electron trong cấu hình electron.
   - *Lưu ý:* Thuật ngữ trong hoá học chỉ hàng ngang của bảng tuần hoàn; phân biệt với 'chu kì' (period) của hàm tuần hoàn trong toán học hoặc dao động trong vật lí.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 06, B31 (Mục II.1), tr. 121; SGK Vật lí 10 KNTT, Chương 06, B31 (Mục II.2), tr. 121; SGK Vật lí 10 KNTT, Chương 06, B31 (Mục III), tr. 121; SGK Vật lí 11 KNTT, Chương 01, B2, tr. 10; SGK Vật lí 11 KNTT, Chương 01, B2 (Mục I), tr. 10; SGK Vật lí 11 KNTT, Chương 01, B2 (Mục II.1), tr. 11; SGK Hóa học 10 KNTT, Chương 02, B5 (Mục II), tr. 31; SGK Hóa học 10 KNTT, Chương 02, B5 (Mục III.2), tr. 32; SGK Hóa học 10 KNTT, Chương 02, B5 (Mục III.3), tr. 32
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 06, B31 (Mục II.1), tr. 121; SGK Vật lí 10 KNTT, Chương 06, B31 (Mục II.2), tr. 121; SGK Vật lí 10 KNTT, Chương 06, B31 (Mục III), tr. 121; SGK Vật lí 11 KNTT, Chương 01, B2, tr. 10; SGK Vật lí 11 KNTT, Chương 01, B2 (Mục I), tr. 10; SGK Vật lí 11 KNTT, Chương 01, B2 (Mục II.1), tr. 11; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193, 194; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục II.1), tr. 188; SGK Hóa học 10 KNTT, Chương 02, B5 (Mục II), tr. 31; SGK Hóa học 10 KNTT, Chương 02, B5 (Mục III.2), tr. 32; SGK Hóa học 10 KNTT, Chương 02, B5 (Mục III.3), tr. 32
 
 ### period of a spring pendulum
 - **Tiếng Việt:** Chu kì của con lắc lò xo
@@ -3381,12 +3991,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B1 (Mục IV.2), tr. 11
 
 ### physics
-- **Tiếng Việt:** Vật lí
+- **Tiếng Việt:** Vật lí (Vật lí học)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A natural science (originating from the Greek word "physiko" meaning knowledge of nature) focusing on the forms of motion of matter (substance, field) and energy. Its research fields span from mechanics, electricity, electromagnetism, optics, acoustics, thermal physics, and thermodynamics to atomic and nuclear physics, quantum physics, and relativity.
 - **Giải thích (VI):** Môn khoa học tự nhiên (bắt nguồn từ tiếng Hy Lạp "physiko" nghĩa là kiến thức về tự nhiên) nghiên cứu tập trung vào các dạng vận động của vật chất (chất, trường) và năng lượng. Các lĩnh vực nghiên cứu trải rộng từ Cơ học, Điện học, Điện từ học, Quang học, Âm học, Nhiệt học, Nhiệt động lực học đến Vật lí nguyên tử và hạt nhân, Vật lí lượng tử và Thuyết tương đối.
-- **Bối cảnh:** Vật lí lớp 10, Bài 1 (Mục I): Khái niệm mở đầu xác định bản chất và các lĩnh vực nghiên cứu của môn Vật lí.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B1, tr. 7; SGK Vật lí 10 KNTT, Chương 01, B1 (Mục I), tr. 7; SGK Vật lí 10 KNTT, Chương 01, B1 (Mục II), tr. 7
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A major branch of natural science dedicated to studying motion, forces, and energy. / VI: Lĩnh vực chủ yếu của khoa học tự nhiên chuyên nghiên cứu về chuyển động, lực và năng lượng.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 1 (Mục I): Khái niệm mở đầu xác định bản chất và các lĩnh vực nghiên cứu của môn Vật lí.
+  - Khoa học tự nhiên lớp 6, Bài 1 (Mục III): phân loại các hiện tượng về tương tác nam châm và truyền ánh sáng trong Bảng 1.1.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B1, tr. 7; SGK Vật lí 10 KNTT, Chương 01, B1 (Mục I), tr. 7; SGK Vật lí 10 KNTT, Chương 01, B1 (Mục II), tr. 7; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục III), tr. 8; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục IV), tr. 10
 
 ### pitch
 - **Tiếng Việt:** Độ cao của âm
@@ -3395,6 +4008,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đặc trưng cảm nhận thính giác về độ trầm hay bổng của âm thanh, phụ thuộc vào tần số của sóng âm. Tần số của sóng âm càng lớn thì tần số dao động của màng nhĩ càng lớn, làm cho âm nghe được càng cao.
 - **Bối cảnh:** Vật lí lớp 11, Bài 9 (Mục IV): Giải thích mối liên hệ giữa độ cao (trầm, bổng) của âm với tần số sóng âm.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 02, B9 (Mục II), tr. 38; SGK Vật lí 11 KNTT, Chương 02, B9 (Mục III), tr. 38; SGK Vật lí 11 KNTT, Chương 02, B9 (Mục IV), tr. 38
+
+### planet
+- **Tiếng Việt:** Hành tinh
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A non-luminous celestial body that orbits a star and becomes visible by reflecting light received from that star.
+- **Giải thích (VI):** Thiên thể không tự phát sáng, chuyển động quay quanh một ngôi sao và nhìn thấy được nhờ phản chiếu ánh sáng từ ngôi sao đó chiếu tới.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 52 (Mục III): nhận diện Trái Đất và các thiên thể quay quanh Mặt Trời, phân biệt với sao và vệ tinh.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B52 (Mục III), tr. 181; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195
 
 ### planetary model of the atom
 - **Tiếng Việt:** Mô hình hành tinh nguyên tử (mẫu hành tinh nguyên tử)
@@ -3586,6 +4207,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đoạn mạch điện chỉ chứa điện trở $R$, trong đó nhiệt lượng toả ra khi có dòng điện chạy qua trong thời gian $t$ bằng toàn bộ năng lượng điện tiêu thụ theo công thức $Q = I^2Rt = \frac{U^2}{R}t$.
 - **Bối cảnh:** Vật lí lớp 11, Bài 25 (Mục I): Xác định điều kiện chuyển hoá hoàn toàn điện năng thành nhiệt năng trên vật dẫn có điện trở.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B25 (Mục I), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107, 108
+
+### push and pull
+- **Tiếng Việt:** Sự đẩy, kéo (đẩy; kéo)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The two fundamental mechanical actions exerted by one object on another that manifest the nature of force, capable of starting motion, changing speed, or bringing an object to rest.
+- **Giải thích (VI):** Hai dạng tương tác cơ học cơ bản của vật này lên vật khác biểu hiện bản chất của lực, có khả năng làm vật bắt đầu chuyển động, thay đổi tốc độ hoặc dừng lại.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 40 (Mục I): nhận biết biểu hiện trực quan của lực qua các thao tác đẩy xe và kéo xe trong thực tế.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B40, tr. 144; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B40 (Mục I), tr. 144; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B40 (Mục II.2), tr. 145
 
 ### quantity of electric charge
 - **Tiếng Việt:** Điện lượng
@@ -3795,6 +4424,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 8 (Mục III) và Bài 10 (Mục IV): đối chiếu giới hạn áp dụng của mô hình khí lí tưởng đối với các chất khí trong thực tế.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 02, B8 (Mục III), tr. 36; SGK Vật lí 12 KNTT, Chương 02, B10 (Mục IV), tr. 44
 
+### real motion
+- **Tiếng Việt:** Chuyển động thực
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The actual change in position or rotation genuinely undergone by an object itself, in contrast to apparent motion arising from the observer's perspective. Earth's rotation on its axis from west to east (about 24 hours per revolution) is the real motion responsible for the daily apparent motion of the Sun.
+- **Giải thích (VI):** Sự thay đổi vị trí hoặc tự quay thực sự đang diễn ra của bản thân vật thể, đối lập với chuyển động nhìn thấy do góc quan sát tạo nên. Chuyển động tự quay của Trái Đất quanh trục từ tây sang đông (mỗi vòng khoảng 24 giờ) là chuyển động thực gây ra chuyển động nhìn thấy hằng ngày của Mặt Trời.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 52 (Mục I, II.2): phân biệt chuyển động tự quay của Trái Đất quanh trục với chuyển động biểu kiến của Mặt Trời trên bầu trời.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B52, tr. 179; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B52 (Mục I), tr. 179; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B52 (Mục II.1), tr. 179
+
 ### rectilinear motion
 - **Tiếng Việt:** Chuyển động thẳng
 - **Chuyên ngành gốc:** Vật lí
@@ -3821,6 +4458,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 20 (Mục II): Xác định cường độ điện trường từ độ giảm điện thế dọc theo đường sức điện.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B20 (Mục II), tr. 81; SGK Vật lí 11 KNTT, Chương 03, B20 (Mục II), tr. 81, 82
 
+### relationship between weight and mass
+- **Tiếng Việt:** Liên hệ giữa trọng lượng và khối lượng
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The proportional relationship between the weight and mass of an object on Earth: the greater the mass, the greater the weight, with the numerical value of weight $P$ (in $\text{N}$) approximately equal to $10$ times the mass $m$ (in $\text{kg}$), or $P \approx 10m$.
+- **Giải thích (VI):** Quy luật liên hệ giữa trọng lượng và khối lượng của cùng một vật trên Trái Đất: khối lượng càng lớn thì trọng lượng càng lớn, với số đo trọng lượng $P$ (tính bằng $\text{N}$) gần bằng $10$ lần số đo khối lượng $m$ (tính bằng $\text{kg}$), hay $P \approx 10m$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 43 (Mục III, IV): ước tính nhanh trọng lượng của vật từ khối lượng và ngược lại trên mặt đất.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43 (Mục III), tr. 155; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43 (Mục IV), tr. 156
+
 ### relative error (physics)
 - **Tiếng Việt:** Sai số tỉ đối
 - **Chuyên ngành gốc:** Vật lí
@@ -3840,6 +4485,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Vật lí lớp 12, Bài 22 (Mục II.3): năng lượng của vật khi chuyển động trong thuyết tương đối, phân biệt với năng lượng nghỉ $E_0 = m_0 c^2$.
   - *Lưu ý:* Chỉ năng lượng toàn phần tương đối tính $E = mc^2$ của vật chuyển động trong vật lí hạt nhân và thuyết tương đối, phân biệt với cơ năng toàn phần trong cơ học cổ điển.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B22 (Mục II.2), tr. 99; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục II.3), tr. 99; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục II.3), tr. 99, 100
+
+### renewable energy
+- **Tiếng Việt:** Năng lượng tái tạo (nguồn năng lượng tái tạo)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An energy source naturally available and continuously replenished through natural processes, such as hydropower, geothermal, solar, wind, and bioenergy. These sources are harnessed to progressively replace non-renewable energy.
+- **Giải thích (VI):** Nguồn năng lượng có sẵn trong tự nhiên và liên tục được bổ sung thông qua các quá trình tự nhiên như thuỷ điện, địa nhiệt, năng lượng mặt trời, năng lượng gió và năng lượng sinh học. Các nguồn này được khai thác nhằm thay thế dần nguồn năng lượng không tái tạo.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: Energy obtained from natural sources that are continuously replenished through natural processes, including solar, wind, water, geothermal, and biomass energy. / VI: Năng lượng thu từ các nguồn có sẵn trong thiên nhiên và liên tục được bổ sung thông qua các quá trình tự nhiên, bao gồm năng lượng mặt trời, gió, nước, địa nhiệt và sinh khối.
+- **Giải thích khác (SGK Địa lí 10):** EN: A group of naturally replenishable energy sources including hydropower, wind power, solar radiation, geothermal heat, and biofuels. Developing these energy sources ensures energy supply for industrial production, secures national energy security, reduces greenhouse gas emissions, and mitigates climate change. / VI: Nhóm các nguồn năng lượng có khả năng tái tạo tự nhiên như sức nước, sức gió, ánh sáng mặt trời, địa nhiệt và nhiên liệu sinh học. Việc phát triển nhóm năng lượng này giúp cung cấp năng lượng cho sản xuất công nghiệp, bảo đảm an ninh năng lượng quốc gia, giảm phát thải khí nhà kính và giảm nhẹ biến đổi khí hậu.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 14 (Mục III): Giải pháp năng lượng thay thế cho các nguồn nhiên liệu hoá thạch đang dần cạn kiệt.
+  - Khoa học tự nhiên lớp 6, Bài 14 (Mục III) và Bài 50 (Mục I, II): phân biệt các nguồn năng lượng sạch thay thế nhiên liệu hoá thạch đang dần cạn kiệt.
+  - Địa lí lớp 10, Bài 31 (Mục 2): trình bày các nguồn năng lượng tái tạo và vai trò thay thế nhiên liệu hoá thạch.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục II), tr. 51; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục III), tr. 51; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B50, tr. 173; SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 1), tr. 88; SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 2), tr. 89
 
 ### research subject of physics
 - **Tiếng Việt:** Đối tượng nghiên cứu của Vật lí
@@ -3958,6 +4616,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Chỉ bộ phận quay trong máy phát điện xoay chiều, đóng vai trò là phần cảm hoặc phần ứng tùy theo thiết kế máy.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B17 (Mục II.1), tr. 74; SGK Vật lí 12 KNTT, Chương 03, B17 (Mục II.2), tr. 74; SGK Vật lí 12 KNTT, Chương 03, B17 (Mục III.1), tr. 74
 
+### ruler
+- **Tiếng Việt:** Thước đo chiều dài
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An instrument graduated in standard units of length used to measure the dimensions of an object or the distance between two points. Common types include straight rulers, tape measures, retractable steel tapes, and calipers, selected according to the measurement purpose and object size.
+- **Giải thích (VI):** Dụng cụ dùng để đo độ dài của vật hoặc khoảng cách giữa hai điểm, trên đó có chia vạch theo đơn vị độ dài xác định. Các loại thước thông dụng gồm thước thẳng, thước dây, thước cuộn và thước kẹp, được lựa chọn tuỳ theo mục đích đo và kích thước vật cần đo.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 5 (Mục II): lựa chọn loại thước có giới hạn đo và độ chia nhỏ nhất phù hợp với vật cần đo.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5, tr. 17; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5 (Mục I), tr. 17; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5 (Mục II), tr. 17
+
+### second
+- **Tiếng Việt:** Giây (s)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The base unit of time in Vietnam's legal system of measurement and the SI system, denoted by $\text{s}$.
+- **Giải thích (VI):** Đơn vị cơ bản đo thời gian trong Hệ đơn vị đo lường hợp pháp của Việt Nam và hệ SI, kí hiệu là $\text{s}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 7 (Mục I): sử dụng làm đơn vị chuẩn để đo và quy đổi khoảng thời gian trong thí nghiệm và thể thao.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B7, tr. 22; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B7 (Mục I), tr. 22; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B7 (Mục II), tr. 22
+
 ### secondary coil
 - **Tiếng Việt:** Cuộn thứ cấp
 - **Chuyên ngành gốc:** Vật lí
@@ -4030,16 +4704,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A contact force arising at the contact surface that opposes the sliding motion of an object across that surface. Its magnitude is independent of the contact area, depends on the materials and conditions of the two surfaces, and is proportional to the normal force according to $F_{mst} = \mu \cdot N$.
 - **Giải thích (VI):** Lực tiếp xúc xuất hiện ở bề mặt tiếp xúc nhằm cản trở chuyển động trượt của vật trên bề mặt đó. Độ lớn của lực không phụ thuộc vào diện tích tiếp xúc mà phụ thuộc vào vật liệu, tình trạng hai mặt tiếp xúc và tỉ lệ với độ lớn áp lực theo công thức $F_{mst} = \mu \cdot N$.
-- **Bối cảnh:** Vật lí lớp 10, Bài 18 (Mục II): Khảo sát đặc điểm và tính độ lớn lực ma sát cản trở chuyển động trượt của vật.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B18 (Mục I), tr. 73; SGK Vật lí 10 KNTT, Chương 03, B18 (Mục II), tr. 73; SGK Vật lí 10 KNTT, Chương 03, B18 (Mục II.1), tr. 73, 74
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The frictional force arising at the contact surface when one object slides over the surface of another, acting to oppose that sliding motion. / VI: Lực ma sát xuất hiện tại mặt tiếp xúc khi một vật trượt trên bề mặt của vật khác, có tác dụng cản trở chuyển động trượt đó.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 18 (Mục II): Khảo sát đặc điểm và tính độ lớn lực ma sát cản trở chuyển động trượt của vật.
+  - Khoa học tự nhiên lớp 6, Bài 44 (Mục II): nhận biết lực ma sát khi má phanh ép vào vành bánh xe hoặc khi đẩy thùng hàng trượt trên sàn.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B18 (Mục I), tr. 73; SGK Vật lí 10 KNTT, Chương 03, B18 (Mục II), tr. 73; SGK Vật lí 10 KNTT, Chương 03, B18 (Mục II.1), tr. 73, 74; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B44 (Mục II), tr. 158
 
 ### smallest scale division
 - **Tiếng Việt:** Độ chia nhỏ nhất (ĐCNN)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The smallest readable value between two consecutive graduations or the finest display increment on a measuring instrument. This parameter determines the instrumental error (typically taken as half the smallest scale division unless specified by the manufacturer) and sets the significant digit place when reporting the absolute error $\Delta A$.
 - **Giải thích (VI):** Giá trị nhỏ nhất có thể đọc được giữa hai vạch chia liên tiếp hoặc bậc hiển thị nhỏ nhất trên dụng cụ đo. Thông số này dùng để xác định sai số dụng cụ (thường lấy bằng một nửa độ chia nhỏ nhất nếu nhà sản xuất không ghi trực tiếp) và quy định bậc chữ số có nghĩa khi viết sai số tuyệt đối $\Delta A$.
-- **Bối cảnh:** Vật lí lớp 10, Bài 3 (Mục II.1.a, II.4): Căn cứ xác định sai số dụng cụ và làm tròn kết quả đo thực nghiệm.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B3, tr. 17; SGK Vật lí 10 KNTT, Chương 01, B3 (Mục I), tr. 17; SGK Vật lí 10 KNTT, Chương 01, B3 (Mục II.1.a), tr. 17
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The value of the measured quantity corresponding to the interval between two consecutive graduation marks on a measuring instrument. This parameter determines the precision when reading and recording measurements to the nearest scale mark. / VI: Giá trị của đại lượng đo tương ứng với khoảng cách giữa hai vạch chia liên tiếp trên dụng cụ đo. Thông số này quyết định mức độ chi tiết khi đọc và ghi kết quả đo theo vạch chia gần nhất.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 3 (Mục II.1.a, II.4): Căn cứ xác định sai số dụng cụ và làm tròn kết quả đo thực nghiệm.
+  - Khoa học tự nhiên lớp 6, Bài 5 (Mục II, III): xác định giá trị giữa hai vạch chia liên tiếp trên thước và các dụng cụ đo để ghi kết quả đo đúng quy định.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B3, tr. 17; SGK Vật lí 10 KNTT, Chương 01, B3 (Mục I), tr. 17; SGK Vật lí 10 KNTT, Chương 01, B3 (Mục II.1.a), tr. 17; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5 (Mục II), tr. 18; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193, 194
 
 ### solar cell
 - **Tiếng Việt:** Pin Mặt Trời (solar cell)
@@ -4048,6 +4728,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Thiết bị nguồn điện gồm nhiều tấm vật liệu bán dẫn được ghép nối với nhau, có khả năng chuyển đổi quang năng thành điện năng.
 - **Bối cảnh:** Hóa học lớp 12, Bài 15 (Mục IV): so sánh nguyên tắc chuyển hoá năng lượng và ưu, nhược điểm của pin quang điện với các loại pin điện hoá.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 05, B15 (Mục IV), tr. 76; SGK Hóa học 12 KNTT, Chương 05, B15 (Mục IV), tr. 76, 77; SGK Hóa học 12 KNTT, Chương 05, B15 (Mục IV), tr. 77
+
+### solar energy and wind energy
+- **Tiếng Việt:** Năng lượng mặt trời và năng lượng gió (năng lượng từ Mặt Trời; năng lượng mặt trời; năng lượng gió)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** Two renewable energy sources harnessed directly from the Sun and from the wind, which are continuously available in nature and practically inexhaustible.
+- **Giải thích (VI):** Hai nguồn năng lượng tái tạo khai thác trực tiếp từ Mặt Trời và từ gió, luôn có sẵn trong thiên nhiên với trữ lượng thực tế coi như vô hạn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 50 (Mục II): tìm hiểu các nguồn năng lượng tái tạo phổ biến phục vụ chiếu sáng, làm khô và phát điện.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 09, B50, tr. 173; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B50 (Mục I), tr. 173; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B50 (Mục II), tr. 173
+
+### Solar System
+- **Tiếng Việt:** Hệ Mặt Trời (Thái Dương hệ)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A planetary system consisting of the Sun at its center and the celestial bodies orbiting it, including eight planets, dwarf planets, over a hundred natural satellites, comets, asteroids, meteoroids, and cosmic dust.
+- **Giải thích (VI):** Hệ thống thiên thể gồm Mặt Trời ở trung tâm và các thiên thể chuyển động xung quanh Mặt Trời như tám hành tinh, các hành tinh lùn, hơn một trăm vệ tinh, sao chổi, tiểu hành tinh, thiên thạch và bụi vũ trụ.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A planetary system within the Milky Way centered on the Sun—a self-luminous star—orbited by eight planets that simultaneously rotate on their own axes. / VI: Hệ thống thiên thể thuộc dải Ngân Hà có Mặt Trời là ngôi sao tự phát ra ánh sáng nằm ở trung tâm và tám hành tinh vừa chuyển động xung quanh Mặt Trời vừa tự quay quanh mình.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 54 (Mục I): mô tả cấu trúc hệ hành tinh chứa Trái Đất với tám hành tinh tính từ trong ra ngoài gồm Thuỷ tinh, Kim tinh, Trái Đất, Hoả tinh, Mộc tinh, Thổ tinh, Thiên Vương tinh và Hải Vương tinh.
+  - Lịch sử và Địa lí lớp 6, Bài 6 (Mục 1): cấu trúc hệ Mặt Trời gồm Mặt Trời ở trung tâm và tám hành tinh quay xung quanh.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54, tr. 187; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục I), tr. 187; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B54 (Mục I), tr. 187, 188; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B6, tr. 116; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1), tr. 116
 
 ### solenoid valve
 - **Tiếng Việt:** Van điện từ (Van từ)
@@ -4062,8 +4761,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A state of matter in which constituent molecules are tightly bound together, giving a body a definite volume and a definite shape while making it very difficult to compress.
 - **Giải thích (VI):** Thể của vật chất trong đó các phân tử liên kết chặt chẽ với nhau nên vật có thể tích và hình dạng riêng xác định, rất khó bị nén.
-- **Bối cảnh:** Vật lí lớp 12, Bài 1 (Mục II): phân biệt cấu trúc và tính chất vĩ mô của chất rắn với chất lỏng và chất khí.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B1 (Mục II), tr. 7; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.1), tr. 7; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2.a), tr. 8
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A state of matter characterized by a fixed shape, inability to flow, and very low compressibility. In this state, constituent particles are arranged in a definite order and vibrate only about fixed positions. / VI: Trạng thái của chất có hình dạng cố định, không chảy được và rất khó bị nén. Ở trạng thái này, các hạt cấu tạo nên chất sắp xếp theo một trật tự nhất định và chỉ dao động quanh một vị trí cố định.
+- **Bối cảnh:**
+  - Vật lí lớp 12, Bài 1 (Mục II): phân biệt cấu trúc và tính chất vĩ mô của chất rắn với chất lỏng và chất khí.
+  - Khoa học tự nhiên lớp 6, Bài 10 (Mục I): so sánh tính chất vĩ mô và mô hình sắp xếp hạt của các chất như nước đá, sắt, đá với chất ở thể lỏng và thể khí.
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B1 (Mục II), tr. 7; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.1), tr. 7; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2.a), tr. 8; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục I), tr. 30; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục I), tr. 31; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.1), tr. 32
+
+### sound energy
+- **Tiếng Việt:** Năng lượng âm thanh (năng lượng âm)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A form of energy emitted and propagated from vibrating sound sources, such as ringing bells, loudspeakers, or human voices.
+- **Giải thích (VI):** Dạng năng lượng phát ra và lan truyền từ các nguồn âm khi chúng rung động, chẳng hạn như tiếng chuông, tiếng loa hoặc tiếng nói.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 47 (Mục I): nhận diện các dạng năng lượng gắn với nguồn phát âm thanh trong đời sống.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục I), tr. 165; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195
 
 ### sound intensity level
 - **Tiếng Việt:** Mức cường độ âm (thang đo decibel)
@@ -4167,20 +4877,34 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 07, B33 (Mục I), tr. 129; SGK Vật lí 10 KNTT, Chương 07, B33 (Mục II.1), tr. 129; SGK Vật lí 10 KNTT, Chương 07, B33 (Mục II.2), tr. 129; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục III), tr. 21; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.1), tr. 21; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.1), tr. 21, 22
 
 ### spring deformation
-- **Tiếng Việt:** Độ biến dạng của lò xo (độ biến dạng)
+- **Tiếng Việt:** Độ biến dạng của lò xo (độ biến dạng; Biến dạng của lò xo)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The difference between the length $l$ of a deformed (stretched or compressed) spring and its natural undeformed length $l_0$, defined by $\Delta l = l - l_0$.
 - **Giải thích (VI):** Hiệu số giữa chiều dài $l$ của lò xo khi bị biến dạng (dãn hoặc nén) và chiều dài tự nhiên $l_0$ khi chưa biến dạng, xác định bởi biểu thức $\Delta l = l - l_0$.
-- **Bối cảnh:** Vật lí lớp 10, Bài 33 (Mục II.2): Xác định độ dãn hoặc độ nén của lò xo trong công thức định luật Hooke $F = k\lvert l - l_0\rvert$.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 07, B33 (Mục I), tr. 128; SGK Vật lí 10 KNTT, Chương 07, B33 (Mục II.1), tr. 129; SGK Vật lí 10 KNTT, Chương 07, B33 (Mục II.2), tr. 129; SGK Vật lí 10 KNTT, Chương 07, B33 (Mục II.2), tr. 130
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The phenomenon in which a spring changes shape under an applied force and spontaneously returns to its original shape once the force ceases to act (provided the spring has not lost its elasticity). / VI: Hiện tượng lò xo thay đổi hình dạng khi chịu lực tác dụng và tự trở về hình dạng ban đầu khi lực thôi tác dụng (trong giới hạn lò xo chưa mất tính đàn hồi).
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 33 (Mục II.2): Xác định độ dãn hoặc độ nén của lò xo trong công thức định luật Hooke $F = k\lvert l - l_0\rvert$.
+  - Khoa học tự nhiên lớp 6, Bài 42 (Mục I): giải thích nguyên lí hoạt động của giảm xóc xe máy, bạt nhún, kẹp quần áo, lực kế và cân lò xo.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 07, B33 (Mục I), tr. 128; SGK Vật lí 10 KNTT, Chương 07, B33 (Mục II.1), tr. 129; SGK Vật lí 10 KNTT, Chương 07, B33 (Mục II.2), tr. 129; SGK Vật lí 10 KNTT, Chương 07, B33 (Mục II.2), tr. 130; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B42, tr. 151; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B42 (Mục I), tr. 151; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B42 (Mục II), tr. 152
+
+### spring extension
+- **Tiếng Việt:** Độ dãn của lò xo (độ giãn của lò xo; độ biến dạng của lò xo)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A quantity defined as the difference between the stretched length $l$ of a spring and its original unstretched length $l_0$, given by $\Delta l = l - l_0$. For a vertically suspended spring, the extension $\Delta l$ is proportional to the mass $m$ of the hanging object.
+- **Giải thích (VI):** Đại lượng xác định bằng hiệu giữa chiều dài $l$ của lò xo khi bị kéo dãn và chiều dài ban đầu $l_0$ theo công thức $\Delta l = l - l_0$. Khi lò xo treo thẳng đứng, độ dãn $\Delta l$ tỉ lệ với khối lượng $m$ của vật treo.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 42 (Mục II): đo đạc thí nghiệm khảo sát sự phụ thuộc của độ biến dạng lò xo vào khối lượng quả nặng.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B42 (Mục II), tr. 152; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B42 (Mục II), tr. 152, 153; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B42 (Mục II), tr. 153
 
 ### spring force
-- **Tiếng Việt:** Lực đàn hồi của lò xo
+- **Tiếng Việt:** Lực đàn hồi của lò xo (lực đàn hồi)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The force arising at the ends of a spring when compressed or stretched, directed opposite to the deforming external force so as to oppose the cause of deformation and tend to restore the spring to its original shape and size.
 - **Giải thích (VI):** Lực xuất hiện ở hai đầu lò xo khi lò xo bị nén hoặc kéo dãn, ngược chiều với ngoại lực gây biến dạng nhằm chống lại nguyên nhân làm biến dạng và có xu hướng đưa lò xo về hình dạng, kích thước ban đầu.
-- **Bối cảnh:** Vật lí lớp 10, Bài 33 (Mục II.1): Phân tích phương, chiều và độ lớn của lực tác dụng lên vật gắn với lò xo biến dạng.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 07, B33 (Mục I), tr. 129; SGK Vật lí 10 KNTT, Chương 07, B33 (Mục II.1), tr. 129; SGK Vật lí 10 KNTT, Chương 07, B33 (Mục II.2), tr. 129
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The force exerted by a deformed spring back onto the object deforming it. The elastic force of a spring has the same line of action, opposite sense, and equal magnitude to the external force deforming the spring. / VI: Lực do lò xo khi bị biến dạng tác dụng ngược trở lại vật gây ra biến dạng cho nó. Lực đàn hồi của lò xo có cùng phương, ngược chiều và cùng độ lớn với lực tác dụng làm biến dạng lò xo.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 33 (Mục II.1): Phân tích phương, chiều và độ lớn của lực tác dụng lên vật gắn với lò xo biến dạng.
+  - Khoa học tự nhiên lớp 6, Bài 42 (Mục II): nhận biết lực do lò xo tác dụng ngược lại tay khi kéo dãn hoặc nén lò xo.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 07, B33 (Mục I), tr. 129; SGK Vật lí 10 KNTT, Chương 07, B33 (Mục II.1), tr. 129; SGK Vật lí 10 KNTT, Chương 07, B33 (Mục II.2), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B42 (Mục II), tr. 153
 
 ### spring pendulum
 - **Tiếng Việt:** Con lắc lò xo
@@ -4220,6 +4944,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với điều kiện sóng dừng một đầu cố định, một đầu tự do ($L = (2n + 1)\frac{\lambda}{4}$ với $n = 0, 1, 2, \dots$).
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 02, B13 (Mục II.1), tr. 53; SGK Vật lí 11 KNTT, Chương 02, B13 (Mục II.2), tr. 53; SGK Vật lí 11 KNTT, Chương 02, B13 (Mục III), tr. 53
 
+### star
+- **Tiếng Việt:** Sao
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A celestial body capable of emitting its own light in outer space, such as the Sun.
+- **Giải thích (VI):** Thiên thể có khả năng tự phát ra ánh sáng trong không gian vũ trụ, điển hình như Mặt Trời.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 52 (Mục III): phân biệt thiên thể tự phát sáng với các hành tinh và vệ tinh không tự phát sáng.
+  - *Lưu ý:* Trong tiếng Việt đời thường, một số hành tinh đôi khi mang từ 'sao' trong tên gọi dân gian (như sao Kim, sao Hoả), nhưng về mặt thiên văn học chúng là hành tinh không tự phát sáng chứ không phải sao.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B52 (Mục II.2), tr. 180; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B52 (Mục III), tr. 181; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195
+
 ### state variable
 - **Tiếng Việt:** Thông số trạng thái
 - **Chuyên ngành gốc:** Vật lí
@@ -4233,8 +4967,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The frictional force arising at the contact surface between two objects when an applied force tends to set the object in motion while it remains at rest, denoted by $\vec{F}_{\text{msn}}$. It prevents relative sliding at the contact points and holds the object stationary until the driving force exceeds a certain maximum threshold.
 - **Giải thích (VI):** Lực ma sát xuất hiện tại mặt tiếp xúc giữa hai vật khi vật chịu lực tác dụng có xu hướng chuyển động nhưng vẫn chưa chuyển động, kí hiệu là $\vec{F}_{\text{msn}}$. Lực này ngăn cản sự trượt tương đối của các điểm tiếp xúc và giữ cho vật đứng yên trên bề mặt cho tới khi lực kéo vượt qua một giá trị cực đại xác định.
-- **Bối cảnh:** Vật lí lớp 10, Bài 18 (Mục I): giải thích sự cân bằng của vật nằm yên trên mặt phẳng nghiêng hoặc khi chịu lực kéo song song với mặt tiếp xúc.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B18, tr. 72; SGK Vật lí 10 KNTT, Chương 03, B18 (Mục I), tr. 72; SGK Vật lí 10 KNTT, Chương 03, B18 (Mục I), tr. 72, 73
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The frictional force acting at the contact surface that keeps an object at rest even when subjected to a pulling or pushing force. / VI: Lực ma sát xuất hiện ở mặt tiếp xúc giúp giữ cho vật đứng yên ngay cả khi vật chịu lực kéo hoặc lực đẩy.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 18 (Mục I): giải thích sự cân bằng của vật nằm yên trên mặt phẳng nghiêng hoặc khi chịu lực kéo song song với mặt tiếp xúc.
+  - Khoa học tự nhiên lớp 6, Bài 44 (Mục II): phân biệt với lực ma sát trượt trong các tình huống đẩy tủ nặng đứng yên hoặc đi bộ không bị trượt ngã.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B18, tr. 72; SGK Vật lí 10 KNTT, Chương 03, B18 (Mục I), tr. 72; SGK Vật lí 10 KNTT, Chương 03, B18 (Mục I), tr. 72, 73; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B44 (Mục II), tr. 158
 
 ### stator
 - **Tiếng Việt:** Stato
@@ -4251,6 +4988,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phương pháp thực nghiệm sử dụng máy ảnh chuyên dụng để chụp liên tiếp vị trí của vật chuyển động sau những khoảng thời gian bằng nhau. Kỹ thuật này giúp ghi lại và đo quãng đường đi được hay quỹ đạo của các chuyển động diễn ra nhanh như sự rơi tự do và chuyển động ném.
 - **Bối cảnh:** Vật lí lớp 10, Bài 10 (Mục II.2.b): phương pháp thực nghiệm kiểm chứng quy luật quãng đường trong sự rơi tự do và phân tích chuyển động ném.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 02, B10 (Mục II.1), tr. 45; SGK Vật lí 10 KNTT, Chương 02, B10 (Mục II.2.a), tr. 45; SGK Vật lí 10 KNTT, Chương 02, B10 (Mục II.2.b), tr. 45
+
+### sundial
+- **Tiếng Việt:** Đồng hồ mặt trời
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An instrument that tells daytime hours based on changes in the direction and length of a gnomon's shadow cast by sunlight due to Earth's axial rotation. In a simple sundial design, the dial face is divided into 24 equal marks ($15^\circ$ per hour) facing north, with the gnomon inclined to the ground at an angle equal to the local latitude.
+- **Giải thích (VI):** Dụng cụ xác định thời gian vào ban ngày dựa trên sự thay đổi hướng và độ dài bóng của kim chỉ dưới ánh nắng mặt trời do Trái Đất tự quay quanh trục. Trong mẫu đồng hồ mặt trời đơn giản, mặt đồng hồ chia 24 vạch đều nhau (mỗi giờ ứng với góc $15^\circ$) đặt hướng về phía Bắc với kim tạo góc nghiêng so với mặt đất bằng vĩ độ nơi quan sát.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 52 (Mục III): vận dụng hiện tượng chuyển động nhìn thấy của Mặt Trời để chế tạo dụng cụ đo thời gian ban ngày.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B52 (Mục III), tr. 182
 
 ### superconducting critical temperature
 - **Tiếng Việt:** Nhiệt độ tới hạn
@@ -4296,6 +5041,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Không nhầm với 'Sức căng bề mặt' (`surface tension (chemistry)`) trong Hóa học.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 05, Lực căng mặt ngoài của nước, tr. 128; SGK Toán 11 KNTT Tập 1, Chương 05, Lực căng mặt ngoài của nước, tr. 128, 129
 
+### synodic month
+- **Tiếng Việt:** Tuần Trăng (chu kì biểu kiến của pha Mặt Trăng)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The complete cycle of repetition of the Moon's apparent phases as seen from the Earth, lasting an average of $29.5$ days. This duration exceeds the Moon's orbital period around the Earth ($27.32$ days) because the Earth simultaneously orbits the Sun.
+- **Giải thích (VI):** Chu kì lặp lại đầy đủ các pha nhìn thấy của Mặt Trăng từ Trái Đất, kéo dài trung bình khoảng $29,5$ ngày. Khoảng thời gian này dài hơn chu kì Mặt Trăng quay một vòng quanh Trái Đất ($27,32$ ngày) do đồng thời Trái Đất cũng chuyển động quanh Mặt Trời.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 53 (Mục II): giải thích khoảng thời gian giữa hai lần Không Trăng hoặc hai lần Trăng tròn liên tiếp.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B53 (Mục II), tr. 185; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B53 (Mục II), tr. 185, 186
+
 ### systematic error
 - **Tiếng Việt:** Sai số hệ thống (sai số dụng cụ)
 - **Chuyên ngành gốc:** Vật lí
@@ -4309,10 +5062,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A physical quantity measuring the hotness or coldness of a body, indicating thermal equilibrium and the spontaneous direction of thermal energy transfer from higher-temperature to lower-temperature bodies in contact. Microscopically, it characterizes the average kinetic energy of the thermal motion of constituent molecules.
 - **Giải thích (VI):** Đại lượng vật lí mô tả mức độ nóng lạnh của vật, cho biết trạng thái cân bằng nhiệt và chiều truyền năng lượng nhiệt tự phát từ vật có nhiệt độ cao sang vật có nhiệt độ thấp khi tiếp xúc. Về mặt vi mô, nhiệt độ đặc trưng cho động năng trung bình của chuyển động nhiệt của các phân tử cấu tạo nên vật.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A physical quantity representing the measure of how hot or cold an object is; the hotter the object, the higher its temperature. In Vietnam, the commonly used unit of temperature is the degree Celsius ($^\circ\text{C}$). / VI: Đại lượng vật lí biểu thị số đo mức độ nóng, lạnh của vật; vật càng nóng thì nhiệt độ của vật càng cao. Ở Việt Nam, đơn vị đo nhiệt độ thông dụng là độ C ($^\circ\text{C}$).
 - **Bối cảnh:**
   - Vật lí lớp 12, Bài 3 (Mục I, II.1): xác định chiều truyền nhiệt năng và ý nghĩa vi mô của chuyển động nhiệt phân tử.
   - Vật lí lớp 12, Bài 3 (Mục I): nhận biết cân bằng nhiệt, chiều truyền nhiệt năng và thông số trạng thái của chất khí.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B3, tr. 15; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục I), tr. 15; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục I), tr. 15, 16
+  - Khoa học tự nhiên lớp 6, Bài 8 (Mục I): dùng nhiệt độ để xác định khách quan mức độ nóng, lạnh thay cho cảm giác chủ quan của tay.
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B3, tr. 15; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục I), tr. 15; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục I), tr. 15, 16; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục I), tr. 24; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195
 
 ### temperature coefficient of resistance
 - **Tiếng Việt:** Hệ số nhiệt điện trở
@@ -4403,15 +5158,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 06, B19 (Mục I.1), tr. 90; SGK Hóa học 12 KNTT, Chương 06, B19 (Mục I.2), tr. 90; SGK Hóa học 12 KNTT, Chương 06, B19 (Mục I.3), tr. 90
 
 ### thermal energy
-- **Tiếng Việt:** Nhiệt năng
+- **Tiếng Việt:** Nhiệt năng (Năng lượng nhiệt)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A form of energy associated with the ceaseless random motion of the molecules constituting a body.
 - **Giải thích (VI):** Dạng năng lượng gắn với chuyển động hỗn loạn không ngừng của các phân tử cấu tạo nên vật.
 - **Giải thích khác (SGK Sinh học 11):** EN: The form of energy associated with thermal motion, released during respiration and energy transformation in organisms. Thermal energy helps maintain body temperature so that life activities proceed normally before dissipating into the environment. / VI: Dạng năng lượng gắn với chuyển động nhiệt, được giải phóng trong quá trình hô hấp và chuyển hoá năng lượng của sinh vật. Nhiệt năng giúp duy trì nhiệt độ cơ thể để các hoạt động sống diễn ra bình thường trước khi toả ra môi trường.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A form of energy generated from heat sources such as the Sun, gas stoves, incandescent light bulbs, or burning fuels. / VI: Dạng năng lượng sinh ra từ các nguồn nhiệt như Mặt Trời, bếp gas, bóng đèn sợi đốt hoặc nhiên liệu khi bị đốt cháy.
 - **Bối cảnh:**
   - Vật lí lớp 10, Bài 23 (Mục I): Phân loại các dạng năng lượng ở cấp độ vi mô và khảo sát sự chuyển hóa cơ năng thành nhiệt năng.
   - Sinh học lớp 11, Bài 1 (Mục III.3) và Bài 6 (Mục I.1, I.2): dạng năng lượng giải phóng từ hô hấp giúp duy trì thân nhiệt và toả ra môi trường.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B23, tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91, 92; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III.3), tr. 7; SGK Sinh học 11 KNTT, Chương 01, B6 (Mục I.1), tr. 38; SGK Sinh học 11 KNTT, Chương 01, B6 (Mục I.2), tr. 38
+  - Khoa học tự nhiên lớp 6, Bài 47 (Mục II): phân loại các dạng năng lượng phổ biến phát ra từ nguồn nhiệt.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B23, tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91, 92; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III.3), tr. 7; SGK Sinh học 11 KNTT, Chương 01, B6 (Mục I.1), tr. 38; SGK Sinh học 11 KNTT, Chương 01, B6 (Mục I.2), tr. 38; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195
 
 ### thermal equilibrium
 - **Tiếng Việt:** Trạng thái cân bằng nhiệt
@@ -4422,6 +5179,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Vật lí lớp 12, Bài 3 (Mục I): điều kiện dừng quá trình truyền nhiệt giữa các vật tiếp xúc và cơ sở đo nhiệt độ bằng nhiệt kế.
   - *Lưu ý:* Chỉ sự cân bằng nhiệt độ giữa các vật tiếp xúc nhau (Bài 3), phân biệt với trạng thái cân bằng vĩ mô ($p, V, T$ không đổi) của một lượng khí xác định (Bài 9).
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B3, tr. 15; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục I), tr. 15; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục I), tr. 15, 16
+
+### thermal expansion of liquids
+- **Tiếng Việt:** Sự nở vì nhiệt của chất lỏng
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phenomenon in which the volume of a liquid increases upon heating; the higher the temperature, the greater the expansion of the liquid. This physical property serves as the operating principle for liquid-in-glass thermometers.
+- **Giải thích (VI):** Hiện tượng thể tích của chất lỏng tăng lên khi nóng lên; nhiệt độ càng cao thì chất lỏng nở ra càng nhiều. Tính chất vật lí này là cơ sở để chế tạo các loại nhiệt kế chất lỏng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 8 (Mục II.1): giải thích nguyên lí hoạt động của các loại nhiệt kế dùng chất lỏng như thuỷ ngân, rượu hoặc dầu.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục I), tr. 25; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục II.1), tr. 25
 
 ### thermal motion
 - **Tiếng Việt:** Chuyển động nhiệt
@@ -4498,8 +5263,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** An instrument used to measure temperature, constructed on the basis of temperature-dependent physical properties of substances, materials, or electronic components, such as thermal expansion, thermoelectric voltage, or thermal radiation.
 - **Giải thích (VI):** Thiết bị dùng để đo nhiệt độ, chế tạo dựa trên sự phụ thuộc vào nhiệt độ của một số tính chất vật lí ở các chất, vật liệu hoặc linh kiện điện tử như sự nở vì nhiệt, hiệu điện thế cặp nhiệt điện hay bức xạ nhiệt.
-- **Bối cảnh:** Vật lí lớp 12, Bài 3 (Mục II.2): tìm hiểu nguyên lí cấu tạo và sử dụng các loại thiết bị đo nhiệt độ trong đời sống và kĩ thuật.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B3 (Mục I), tr. 15; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục II.1.b), tr. 18; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục II.2), tr. 18
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: An instrument used to measure the temperature of an object or environment. Common types include liquid thermometers (alcohol, oil, and mercury clinical thermometers) operating on the thermal expansion of liquids, electronic thermometers, and infrared thermometers. / VI: Dụng cụ dùng để đo nhiệt độ của vật hoặc môi trường. Các loại nhiệt kế phổ biến gồm nhiệt kế chất lỏng (nhiệt kế rượu, nhiệt kế dầu, nhiệt kế y tế thuỷ ngân) hoạt động dựa trên sự nở vì nhiệt của chất lỏng, nhiệt kế điện tử và nhiệt kế hồng ngoại.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: An instrument used to measure air temperature, comprising two common types: bulb thermometers (mercury or alcohol) and digital thermometers. At meteorological stations, it is placed inside a white-painted meteorological shelter 1.5 m above the ground for measurements at least four times daily. / VI: Dụng cụ dùng để đo nhiệt độ không khí, gồm hai loại thông dụng là nhiệt kế có bầu thuỷ ngân (hoặc rượu) và nhiệt kế điện tử. Tại các trạm khí tượng, nhiệt kế đặt trong lều khí tượng sơn màu trắng cách mặt đất 1,5 m để đo ít nhất 4 lần trong ngày.
+- **Bối cảnh:**
+  - Vật lí lớp 12, Bài 3 (Mục II.2): tìm hiểu nguyên lí cấu tạo và sử dụng các loại thiết bị đo nhiệt độ trong đời sống và kĩ thuật.
+  - Khoa học tự nhiên lớp 6, Bài 8 (Mục II.2, III): phân biệt giới hạn đo, công dụng và cách sử dụng an toàn các loại nhiệt kế trong phòng thí nghiệm và y tế.
+  - Lịch sử và Địa lí lớp 6, Bài 16 (Mục 1.a): giới thiệu dụng cụ và quy tắc đo nhiệt độ không khí tại các trạm khí tượng.
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B3 (Mục I), tr. 15; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục II.1.b), tr. 18; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục II.2), tr. 18; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục I), tr. 25; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục II.2), tr. 26; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16, tr. 146; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1.a), tr. 146
 
 ### thermonuclear reaction
 - **Tiếng Việt:** Phản ứng nhiệt hạch
@@ -4534,6 +5304,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Thiết bị thực hành sử dụng một cần rung đều đặn khoảng $50$ lần mỗi giây để gõ các chấm mực lên băng giấy gắn vào vật chuyển động, cho phép xác định quãng đường vật đi được trong từng khoảng thời gian $0,02\text{ s}$ thông qua khoảng cách giữa các dấu chấm liên tiếp.
 - **Bối cảnh:** Vật lí lớp 10, Bài 6 (Mục II.2): Dụng cụ ghi đồng thời dấu vết quãng đường và thời gian chuyển động trên băng giấy.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 02, B6 (Mục II.2), tr. 31; SGK Vật lí 10 KNTT, Chương 02, B6 (Mục III.1), tr. 31; SGK Vật lí 10 KNTT, Chương 02, B6 (Mục III.2), tr. 31
+
+### time
+- **Tiếng Việt:** Thời gian
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A physical quantity characterizing the sequence and duration of events and phenomena, whose base unit of measurement is the second ($\text{s}$). In practice, time is also measured in minutes ($\text{min}$), hours ($\text{h}$), days, months, years, and centuries.
+- **Giải thích (VI):** Đại lượng vật lí đặc trưng cho trình tự xảy ra và độ dài lâu mau của các sự kiện, hiện tượng, có đơn vị đo cơ bản là giây ($\text{s}$). Trong thực tế, thời gian còn được đo bằng phút ($\text{min}$), giờ ($\text{h}$), ngày, tháng, năm và thế kỉ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 7 (Mục I): ước lượng và lựa chọn đơn vị, dụng cụ phù hợp để xác định khoảng thời gian diễn ra một quá trình.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B7, tr. 22; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B7 (Mục I), tr. 22; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B7 (Mục II), tr. 22
 
 ### total circuit resistance
 - **Tiếng Việt:** Điện trở toàn phần
@@ -4676,13 +5454,40 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 9 (Mục I): trường hợp chuyển động thẳng biến đổi đều khi gia tốc ngược chiều với vận tốc.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 02, B9, tr. 40; SGK Vật lí 10 KNTT, Chương 02, B9 (Mục I), tr. 40; SGK Vật lí 10 KNTT, Chương 02, B9 (Mục II), tr. 40
 
+### unit of energy
+- **Tiếng Việt:** Đơn vị năng lượng (jun; joule; J)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A unit used to measure amounts of energy; the standard unit is the joule, symbolized $\text{J}$ ($1\text{ J}$ corresponds to the energy needed to lift a $1\text{ N}$ weight by $1\text{ m}$), alongside common units such as the kilojoule ($1\text{ kJ} = 1\,000\text{ J}$) and calorie ($1\text{ cal} \approx 4.2\text{ J}$).
+- **Giải thích (VI):** Đơn vị dùng để đo năng lượng; đơn vị chuẩn là jun, kí hiệu $\text{J}$ ($1\text{ J}$ tương ứng năng lượng cần để nâng vật nặng $1\text{ N}$ lên độ cao $1\text{ m}$), cùng các đơn vị thông dụng khác như kilôjun ($1\text{ kJ} = 1\,000\text{ J}$) và calo ($1\text{ cal} \approx 4,2\text{ J}$).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 46 (Mục II): ghi nhận và quy đổi các đơn vị năng lượng thường gặp trong vật lí và đời sống.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 09, B46 (Mục II), tr. 163; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B46 (Mục II), tr. 163, 164; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
+
+### unit of force
+- **Tiếng Việt:** Đơn vị lực (niutơn; newton; N)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The unit used to measure the magnitude of a force; in Vietnam's legal system of measurement, the unit of force is the newton, symbolized as $\text{N}$ (named after Isaac Newton).
+- **Giải thích (VI):** Đơn vị dùng để đo độ lớn của lực; trong Hệ đơn vị đo lường hợp pháp của Việt Nam, đơn vị lực là niutơn, kí hiệu là $\text{N}$ (đặt theo tên nhà bác học Isaac Newton).
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 41 (Mục I.2): ghi nhận và biểu diễn kết quả đo độ lớn của lực và trọng lượng.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.2), tr. 148; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.3), tr. 148; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.3), tr. 148, 149
+
+### unit of volume
+- **Tiếng Việt:** Đơn vị đo thể tích
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A standard quantity used to measure the three-dimensional space occupied by an object or fluid, most commonly the cubic metre ($\text{m}^3$) and the litre ($\text{L}$). Fundamental conversion relations include $1\text{ m}^3 = 1,000\text{ L}$ and $1\text{ mL} = 1\text{ cm}^3$.
+- **Giải thích (VI):** Đại lượng chuẩn dùng để đo phần không gian mà vật hoặc chất lỏng chiếm chỗ, thông dụng nhất là mét khối ($\text{m}^3$) và lít ($\text{L}$). Các hệ thức quy đổi cơ bản gồm $1\text{ m}^3 = 1\,000\text{ L}$ và $1\text{ mL} = 1\text{ cm}^3$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 5 (Mục IV): vận dụng đo thể tích chất lỏng và vật rắn không thấm nước bằng bình chia độ và bình tràn.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5 (Mục III), tr. 19; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5 (Mục IV), tr. 19
+
 ### useful energy
-- **Tiếng Việt:** Năng lượng có ích
+- **Tiếng Việt:** Năng lượng có ích (Năng lượng hữu ích)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The portion of output energy converted into the intended form that fulfills the purpose of a device or process, denoted by $W_{\text{ci}}$. Useful energy equals the difference between the total energy input supplied to the device and the wasted energy ($W_{\text{ci}} = W_{\text{tp}} - W_{\text{hp}}$).
 - **Giải thích (VI):** Phần năng lượng đầu ra chuyển hóa đúng thành dạng năng lượng phục vụ mục đích sử dụng của thiết bị hoặc quá trình, kí hiệu là $W_{\text{ci}}$. Năng lượng có ích bằng hiệu giữa năng lượng toàn phần cung cấp cho thiết bị và năng lượng hao phí ($W_{\text{ci}} = W_{\text{tp}} - W_{\text{hp}}$).
-- **Bối cảnh:** Vật lí lớp 10, Bài 27 (Mục I, II): Xác định phần năng lượng thu được đúng mục đích để đánh giá hiệu suất của động cơ và thiết bị.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B27, tr. 106; SGK Vật lí 10 KNTT, Chương 04, B27 (Mục I), tr. 106; SGK Vật lí 10 KNTT, Chương 04, B27 (Mục II), tr. 106
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The portion of energy that directly serves the intended purpose when operating a device or performing an activity, as distinguished from the wasted energy lost to the surroundings. / VI: Phần năng lượng phục vụ trực tiếp cho mục đích sử dụng của con người khi vận hành thiết bị hoặc thực hiện một hoạt động, phân biệt với phần năng lượng hao phí thoát ra ngoài.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 27 (Mục I, II): Xác định phần năng lượng thu được đúng mục đích để đánh giá hiệu suất của động cơ và thiết bị.
+  - Khoa học tự nhiên lớp 6, Bài 49 (Mục I): xác định phần năng lượng đáp ứng đúng mục đích sử dụng như phần nhiệt làm sôi nước khi đun nấu.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B27, tr. 106; SGK Vật lí 10 KNTT, Chương 04, B27 (Mục I), tr. 106; SGK Vật lí 10 KNTT, Chương 04, B27 (Mục II), tr. 106; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B49, tr. 171; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B49 (Mục I), tr. 171; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B49 (Mục II), tr. 171
 
 ### useful power output
 - **Tiếng Việt:** Công suất có ích
@@ -4705,8 +5510,10 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The phase transition of a substance from the liquid state to the vapour (gaseous) state, occurring in two forms: evaporation and boiling.
 - **Giải thích (VI):** Quá trình chuyển thể của chất từ thể lỏng sang thể hơi (thể khí), diễn ra dưới hai hình thức là sự bay hơi và sự sôi.
-- **Bối cảnh:** Vật lí lớp 12, Bài 1 (Mục III.2.a): giải thích sự chuyển từ thể lỏng sang thể hơi bằng mô hình động học phân tử.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2), tr. 8; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2.a), tr. 8
+- **Bối cảnh:**
+  - Vật lí lớp 12, Bài 1 (Mục III.2.a): giải thích sự chuyển từ thể lỏng sang thể hơi bằng mô hình động học phân tử.
+  - Khoa học tự nhiên lớp 6, Bài 10 (Mục II.2): khái quát sự chuyển thể từ lỏng sang hơi trước khi phân biệt sự bay hơi trên mặt thoáng với sự sôi trong toàn bộ khối lỏng.
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2), tr. 8; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2.a), tr. 8; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 34; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 34, 35
 
 ### variable capacitor
 - **Tiếng Việt:** Tụ điện xoay
@@ -4817,8 +5624,27 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The portion of energy converted into unintended forms (commonly thermal energy due to friction or heating) during energy transfer and transformation in a device, denoted by $W_{\text{hp}}$. All real machines incur wasted energy, such as roughly $60\%$–$70\%$ in conventional heat engines and about $10\%$ in electric motors.
 - **Giải thích (VI):** Phần năng lượng chuyển hóa thành các dạng không mong muốn (thường là nhiệt năng do ma sát hoặc tỏa nhiệt) trong quá trình truyền và chuyển hóa năng lượng của thiết bị, kí hiệu là $W_{\text{hp}}$. Mọi máy móc thực tế đều tồn tại năng lượng hao phí, chẳng hạn khoảng $60\%$–$70\%$ ở động cơ nhiệt thông thường và khoảng $10\%$ ở động cơ điện.
-- **Bối cảnh:** Vật lí lớp 10, Bài 27 (Mục I): Phân tích nguyên nhân thất thoát năng lượng trong các động cơ và thiết bị nhằm tìm biện pháp giảm hao phí.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B27, tr. 106; SGK Vật lí 10 KNTT, Chương 04, B27 (Mục I), tr. 106; SGK Vật lí 10 KNTT, Chương 04, B27 (Mục II), tr. 106
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The portion of energy that does not serve the intended purpose, which always arises during energy transformation and transfer between objects. This energy typically escapes as thermal energy, sometimes accompanied by sound or light energy. / VI: Phần năng lượng không phục vụ mục đích sử dụng chính, luôn xuất hiện trong quá trình chuyển hoá và truyền năng lượng giữa các vật. Dạng năng lượng này thường thoát ra dưới dạng nhiệt năng, đôi khi kèm theo năng lượng âm thanh hoặc ánh sáng.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 27 (Mục I): Phân tích nguyên nhân thất thoát năng lượng trong các động cơ và thiết bị nhằm tìm biện pháp giảm hao phí.
+  - Khoa học tự nhiên lớp 6, Bài 49 (Mục I, II): nhận biết sự thất thoát năng lượng trong gia đình, lớp học và tìm cách giảm hao phí khi sử dụng thiết bị.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B27, tr. 106; SGK Vật lí 10 KNTT, Chương 04, B27 (Mục I), tr. 106; SGK Vật lí 10 KNTT, Chương 04, B27 (Mục II), tr. 106; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B49, tr. 171; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B49 (Mục I), tr. 171; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B49 (Mục II), tr. 171
+
+### water energy
+- **Tiếng Việt:** Năng lượng nước
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A renewable energy source harnessed from the flow and movement of water in nature, such as flowing streams, tides, or ocean waves.
+- **Giải thích (VI):** Nguồn năng lượng tái tạo thu từ sức chảy và chuyển động của dòng nước trong tự nhiên như sông suối, thuỷ triều hoặc sóng biển.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 50 (Mục II): nhận diện nguồn năng lượng tái tạo khai thác từ dòng nước chảy, thuỷ triều và sóng biển.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 09, B50, tr. 173; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B50 (Mục I), tr. 173; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B50 (Mục II), tr. 173
+
+### water resistance
+- **Tiếng Việt:** Lực cản của nước
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The resistive force exerted by water on an object moving through it that opposes the object's motion, increasing in magnitude as the frontal surface area increases.
+- **Giải thích (VI):** Lực do nước tác dụng lên vật đang chuyển động trong nó gây cản trở chuyển động của vật; độ lớn lực cản càng mạnh khi diện tích mặt cản càng lớn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 45 (Mục I, II): khảo sát lực cản môi trường lỏng và sự phụ thuộc của độ lớn lực cản vào diện tích mặt cản.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B45 (Mục II), tr. 161
 
 ### watt
 - **Tiếng Việt:** Oát
@@ -4937,13 +5763,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 16 (Mục I): đơn vị chuẩn hệ SI của từ thông.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B16, tr. 66; SGK Vật lí 12 KNTT, Chương 03, B16 (Mục I), tr. 66; SGK Vật lí 12 KNTT, Chương 03, B16 (Mục I), tr. 66, 67
 
+### weighing scale
+- **Tiếng Việt:** Cân
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An instrument used to measure the mass of an object. Common types used in laboratories and daily life include Roberval balances, dial scales, steelyard balances, medical scales, and electronic scales.
+- **Giải thích (VI):** Dụng cụ dùng để đo khối lượng của vật. Các loại cân thông dụng trong phòng thực hành và đời sống gồm cân Rô-béc-van (Roberval), cân đồng hồ, cân đòn, cân y tế và cân điện tử.
+- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 6 (Mục II, III): hiệu chỉnh vạch số 0 và sử dụng cân đồng hồ, cân điện tử hoặc cân Rô-béc-van để đo khối lượng vật.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B6, tr. 20; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B6 (Mục I), tr. 20; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B6 (Mục II), tr. 20
+
 ### weight
 - **Tiếng Việt:** Trọng lượng
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The magnitude of the force of gravity acting on an object, denoted by $P$ and calculated by $P = m \cdot g$. Weight is measured using a spring dynamometer or spring scale and varies with the local free-fall acceleration $g$.
 - **Giải thích (VI):** Độ lớn của trọng lực tác dụng lên một vật, kí hiệu là $P$ và tính theo công thức $P = m \cdot g$. Trọng lượng đo được bằng lực kế hoặc cân lò xo và thay đổi theo gia tốc rơi tự do $g$ tại từng vị trí.
-- **Bối cảnh:** Vật lí lớp 10, Bài 17 (Mục I.2): tính độ lớn lực hút của Trái Đất lên vật và phân biệt với khối lượng không đổi của vật.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B17, tr. 69; SGK Vật lí 10 KNTT, Chương 03, B17 (Mục I), tr. 69; SGK Vật lí 10 KNTT, Chương 03, B17 (Mục I.1), tr. 69
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The magnitude of the Earth's gravitational pull acting on an object, commonly symbolized as $P$, measured with a force meter in newtons ($\text{N}$). / VI: Độ lớn lực hút của Trái Đất tác dụng lên một vật, thường kí hiệu là $P$, đo bằng lực kế và có đơn vị là niutơn ($\text{N}$).
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 17 (Mục I.2): tính độ lớn lực hút của Trái Đất lên vật và phân biệt với khối lượng không đổi của vật.
+  - Khoa học tự nhiên lớp 6, Bài 43 (Mục II, III): phân biệt trọng lượng (độ lớn lực hút, đơn vị $\text{N}$) với khối lượng (lượng chất, đơn vị $\text{kg}$).
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B17, tr. 69; SGK Vật lí 10 KNTT, Chương 03, B17 (Mục I), tr. 69; SGK Vật lí 10 KNTT, Chương 03, B17 (Mục I.1), tr. 69; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43 (Mục II), tr. 155; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43 (Mục III), tr. 155; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43 (Mục IV), tr. 155; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195
 
 ### work done by an electric force
 - **Tiếng Việt:** Công của lực điện (công của lực điện trường)

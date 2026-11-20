@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Toán học",
-    "generated_at": "2026-11-20T02:39:06Z",
+    "generated_at": "2026-11-20T04:26:50Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -17,19 +17,19 @@
       "Tu-dien-Vat-li.md"
     ],
     "counts": {
-      "entries": 990,
+      "entries": 998,
       "by_origin_discipline": {
         "Giáo dục Kinh tế và Pháp luật": 27,
-        "Hóa học": 10,
+        "Hóa học": 11,
         "Sinh học": 9,
-        "Tin học": 58,
+        "Tin học": 63,
         "Tiếng Anh": 4,
-        "Toán học": 840,
+        "Toán học": 841,
         "Vật lí": 39,
-        "Địa lí": 3
+        "Địa lí": 4
       },
-      "multi_context_entries": 834,
-      "alt_explanation_entries": 90
+      "multi_context_entries": 841,
+      "alt_explanation_entries": 93
     }
   },
   "entries": [
@@ -719,6 +719,65 @@
         }
       ],
       "markdown_file": "Tu-dien-Toan-hoc.md"
+    },
+    {
+      "id": "tin-hoc-algorithm-description",
+      "term_en": "algorithm description",
+      "term_vi": "Mô tả thuật toán",
+      "term_vi_display": "Mô tả thuật toán",
+      "aliases_vi": [],
+      "origin_discipline": "Tin học",
+      "explanation_en": "The clear representation of the sequence of steps and execution order of an algorithm for human comprehension and tracking. Two common methods of algorithm description are listing steps in natural language and drawing a flowchart.",
+      "explanation_vi": "Cách biểu diễn rõ ràng dãy các bước và trình tự thực hiện của một thuật toán để con người dễ đọc hiểu và theo dõi. Hai phương pháp mô tả thuật toán thông dụng là liệt kê các bước bằng ngôn ngữ tự nhiên và vẽ sơ đồ khối.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Tin học lớp 6, Bài 15 (Mục 2): hai phương pháp biểu diễn thuật toán bằng ngôn ngữ tự nhiên hoặc sơ đồ khối trước khi viết chương trình.",
+          "disciplines": [
+            "Toán học",
+            "Tin học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 15"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 06, B15 (Mục 2), tr. 71",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 06",
+          "lesson": "B15",
+          "section": "2",
+          "printed_pages": [
+            71
+          ]
+        },
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 06, B15 (Mục 2), tr. 72",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 06",
+          "lesson": "B15",
+          "section": "2",
+          "printed_pages": [
+            72
+          ]
+        },
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 06, B15 (Mục 2), tr. 73",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 06",
+          "lesson": "B15",
+          "section": "2",
+          "printed_pages": [
+            73
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Tin-hoc.md"
     },
     {
       "id": "tin-hoc-algorithmic-efficiency",
@@ -4263,6 +4322,65 @@
           "section": "1.a",
           "printed_pages": [
             20
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Toan-hoc.md"
+    },
+    {
+      "id": "toan-hoc-binary-number",
+      "term_en": "binary number",
+      "term_vi": "Số nhị phân",
+      "term_vi_display": "Số nhị phân",
+      "aliases_vi": [],
+      "origin_discipline": "Toán học",
+      "explanation_en": "A number in the base-2 numeral system represented using only two digit symbols, 0 and 1, such as 101110101010.",
+      "explanation_vi": "Con số trong hệ đếm cơ số hai được biểu diễn chỉ bằng hai kí hiệu chữ số là 0 và 1, chẳng hạn như 101110101010.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Tin học lớp 6, Bài 3 (Mục 1): Liên hệ dãy kí hiệu 0 và 1 biểu diễn thông tin trong máy tính với khái niệm số nhị phân.",
+          "disciplines": [
+            "Tin học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 01, B3 (Mục 1), tr. 15",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 01",
+          "lesson": "B3",
+          "section": "1",
+          "printed_pages": [
+            15
+          ]
+        },
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 01, B3 (Mục 2), tr. 15",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 01",
+          "lesson": "B3",
+          "section": "2",
+          "printed_pages": [
+            15
+          ]
+        },
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 01, B3 (Mục 2), tr. 15, 16",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 01",
+          "lesson": "B3",
+          "section": "2",
+          "printed_pages": [
+            15,
+            16
           ]
         }
       ],
@@ -9384,6 +9502,67 @@
       "markdown_file": "Tu-dien-Toan-hoc.md"
     },
     {
+      "id": "tin-hoc-computer-program",
+      "term_en": "computer program",
+      "term_vi": "Chương trình máy tính",
+      "term_vi_display": "Chương trình máy tính (chương trình)",
+      "aliases_vi": [
+        "chương trình"
+      ],
+      "origin_discipline": "Tin học",
+      "explanation_en": "A collection of instructions written in a programming language to describe an algorithm step by step so that a computer can understand and execute it. When executed, a computer program takes input data, performs processing steps, and returns output results.",
+      "explanation_vi": "Tập hợp các câu lệnh viết bằng một ngôn ngữ lập trình để mô tả từng bước của thuật toán sao cho máy tính có thể hiểu và thực hiện được. Khi chạy, chương trình tiếp nhận dữ liệu đầu vào, tiến hành các bước xử lí và trả lại kết quả đầu ra.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Tin học lớp 6, Bài 17 (Mục 1): bản mô tả thuật toán bằng ngôn ngữ lập trình để máy tính tự động xử lí đầu vào và xuất đầu ra.",
+          "disciplines": [
+            "Toán học",
+            "Tin học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 17"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 06, B17 (Mục 1), tr. 78",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 06",
+          "lesson": "B17",
+          "section": "1",
+          "printed_pages": [
+            78
+          ]
+        },
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 06, B17 (Mục 1), tr. 79",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 06",
+          "lesson": "B17",
+          "section": "1",
+          "printed_pages": [
+            79
+          ]
+        },
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 06, B17 (Mục 2), tr. 79",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 06",
+          "lesson": "B17",
+          "section": "2",
+          "printed_pages": [
+            79
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Tin-hoc.md"
+    },
+    {
       "id": "toan-hoc-conditional-probability",
       "term_en": "conditional probability",
       "term_vi": "Xác suất có điều kiện",
@@ -12446,6 +12625,11 @@
           "explanation_vi": "Thông tin dưới dạng âm thanh, hình ảnh, văn bản, số,... đã được đưa vào máy tính dưới dạng dãy bit để máy tính có thể nhận biết và xử lí. Dữ liệu đóng vai trò là yếu tố thể hiện và xác định thông tin."
         },
         {
+          "source_label": "SGK Tin học 6",
+          "explanation_en": "Raw elements perceived by humans from the external world or recorded on storage media from which information is derived. Data appears in the form of numbers, text, images, sounds, or symbols.",
+          "explanation_vi": "Những gì con người tiếp nhận từ thế giới bên ngoài hoặc ghi lại trên vật mang tin để từ đó có được thông tin. Dữ liệu xuất hiện dưới dạng các con số, văn bản, hình ảnh, âm thanh hoặc kí hiệu."
+        },
+        {
           "source_label": "SGK Ngữ văn 11 Tập 2",
           "explanation_en": "Pieces of information mobilized and used within an informational text, existing in diverse forms such as symbols, written words, numbers, images, or audio.",
           "explanation_vi": "Những thông tin được huy động và sử dụng trong văn bản thông tin, tồn tại dưới các hình thức đa dạng như kí hiệu, chữ viết, chữ số, hình ảnh hoặc âm thanh."
@@ -12471,6 +12655,14 @@
             "Tin học"
           ],
           "grade": 10,
+          "lesson_ref": "Bài 1"
+        },
+        {
+          "raw": "Tin học lớp 6, Bài 1 (Mục 1): Nhận diện các dạng thể hiện của dữ liệu và phân biệt dữ liệu với thông tin.",
+          "disciplines": [
+            "Tin học"
+          ],
+          "grade": 6,
           "lesson_ref": "Bài 1"
         },
         {
@@ -12558,6 +12750,40 @@
           "lesson": "B1",
           "section": "1.a",
           "printed_pages": [
+            7
+          ]
+        },
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 01, B1, tr. 6",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 01",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            6
+          ]
+        },
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 01, B1 (Mục 1), tr. 6",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 01",
+          "lesson": "B1",
+          "section": "1",
+          "printed_pages": [
+            6
+          ]
+        },
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 01, B1 (Mục 1), tr. 6, 7",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 01",
+          "lesson": "B1",
+          "section": "1",
+          "printed_pages": [
+            6,
             7
           ]
         },
@@ -21458,6 +21684,102 @@
       "markdown_file": "Tu-dien-Tin-hoc.md"
     },
     {
+      "id": "tin-hoc-flowchart",
+      "term_en": "flowchart",
+      "term_vi": "Sơ đồ khối",
+      "term_vi_display": "Sơ đồ khối",
+      "aliases_vi": [],
+      "origin_discipline": "Tin học",
+      "explanation_en": "A visual diagram representing an algorithm, composed of standardized geometric blocks describing individual steps and directed arrows indicating their order of execution.",
+      "explanation_vi": "Sơ đồ trực quan biểu diễn thuật toán gồm các khối hình học theo quy ước để mô tả từng bước và các đường mũi tên chỉ thứ tự thực hiện các bước đó.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Tin học lớp 6, Bài 15 (Mục 2): công cụ trực quan dùng các khối hình học và mũi tên để mô tả thuật toán và các cấu trúc điều khiển.",
+          "disciplines": [
+            "Toán học",
+            "Tin học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 15"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 06, B15 (Mục 2), tr. 71",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 06",
+          "lesson": "B15",
+          "section": "2",
+          "printed_pages": [
+            71
+          ]
+        },
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 06, B15 (Mục 2), tr. 72",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 06",
+          "lesson": "B15",
+          "section": "2",
+          "printed_pages": [
+            72
+          ]
+        },
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 06, B15 (Mục 2), tr. 73",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 06",
+          "lesson": "B15",
+          "section": "2",
+          "printed_pages": [
+            73
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Tin-hoc.md"
+    },
+    {
+      "id": "tin-hoc-flowchart-symbol-conventions",
+      "term_en": "flowchart symbol conventions",
+      "term_vi": "Quy ước kí hiệu trong sơ đồ khối",
+      "term_vi_display": "Quy ước kí hiệu trong sơ đồ khối",
+      "aliases_vi": [],
+      "origin_discipline": "Tin học",
+      "explanation_en": "A standardized set of rules defining the meanings of geometric shapes and arrows used when drawing algorithm flowcharts. By convention, an ellipse denotes start or end, a parallelogram denotes input or output, a rectangle denotes a processing step, a diamond denotes a condition check, and an arrow indicates the order of execution.",
+      "explanation_vi": "Hệ thống quy định thống nhất ý nghĩa của các hình học và mũi tên dùng khi vẽ sơ đồ khối của thuật toán. Theo quy ước, hình elip biểu thị bắt đầu hoặc kết thúc, hình bình hành biểu thị đầu vào hoặc đầu ra, hình chữ nhật biểu thị bước xử lí, hình thoi biểu thị bước kiểm tra điều kiện và đường mũi tên chỉ trình tự thực hiện.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Tin học lớp 6, Bài 15 (Mục 2): quy tắc sử dụng năm loại kí hiệu hình học và mũi tên khi đọc hoặc vẽ sơ đồ khối thuật toán.",
+          "disciplines": [
+            "Toán học",
+            "Tin học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 15"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 06, B15 (Mục 2), tr. 72",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 06",
+          "lesson": "B15",
+          "section": "2",
+          "printed_pages": [
+            72
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Tin-hoc.md"
+    },
+    {
       "id": "toan-hoc-focal-distance",
       "term_en": "focal distance",
       "term_vi": "Tiêu cự",
@@ -21732,6 +22054,78 @@
         }
       ],
       "markdown_file": "Tu-dien-Toan-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-fossil-fuel",
+      "term_en": "fossil fuel",
+      "term_vi": "Nhiên liệu hoá thạch",
+      "term_vi_display": "Nhiên liệu hoá thạch",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A group of fuels comprising coal, petroleum, and natural gas formed from the remains of prehistoric plants and animals buried deep underground over millions of years. It represents a finite, depleting fuel resource that causes environmental pollution when burned.",
+      "explanation_vi": "Nhóm nhiên liệu gồm than đá, dầu mỏ và khí thiên nhiên hình thành từ xác động vật, thực vật bị vùi sâu trong lòng đất qua hàng triệu năm từ thời tiền sử. Đây là nguồn nhiên liệu có hạn, dần cạn kiệt và gây ô nhiễm môi trường khi đốt cháy.",
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "A group of non-renewable fuels comprising coal, petroleum, and natural gas, formed from the remains of prehistoric plants and animals buried deep underground over millions of years.",
+          "explanation_vi": "Nhóm nhiên liệu không tái tạo gồm than đá, dầu mỏ và khí thiên nhiên, hình thành từ xác động vật và thực vật bị vùi sâu trong lòng đất qua hàng triệu năm từ thời tiền sử."
+        }
+      ],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 14 (Mục II, III): Nguồn nhiên liệu truyền thống cần sử dụng tiết kiệm và gắn với bài toán bảo vệ môi trường, an ninh năng lượng.",
+          "disciplines": [
+            "Toán học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 14"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 14 (Mục I, III) và Bài 50 (Mục II): tìm hiểu tính chất, ứng dụng và tác động môi trường của các nhiên liệu truyền thống không tái tạo.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 14"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14, tr. 50",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B14",
+          "section": null,
+          "printed_pages": [
+            50
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục I), tr. 50",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B14",
+          "section": "I",
+          "printed_pages": [
+            50
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục II), tr. 50",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 03",
+          "lesson": "B14",
+          "section": "II",
+          "printed_pages": [
+            50
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
       "id": "toan-hoc-fourth-power-binomial-expansion",
@@ -27114,14 +27508,21 @@
       "id": "vat-li-international-system-of-units",
       "term_en": "International System of Units",
       "term_vi": "Hệ SI",
-      "term_vi_display": "Hệ SI (Hệ đơn vị đo lường quốc tế)",
+      "term_vi_display": "Hệ SI (Hệ đơn vị đo lường quốc tế; Système International d'unités)",
       "aliases_vi": [
-        "Hệ đơn vị đo lường quốc tế"
+        "Hệ đơn vị đo lường quốc tế",
+        "Système International d'unités"
       ],
       "origin_discipline": "Vật lí",
       "explanation_en": "The international standard system of measurement built upon $7$ base units together with derived units.",
       "explanation_vi": "Hệ đơn vị đo lường chuẩn quốc tế được xây dựng trên nền tảng $7$ đơn vị cơ bản cùng các đơn vị dẫn xuất.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 6",
+          "explanation_en": "The international system of measurement units (abbreviated SI from the French Système International d'unités) officially adopted by scientists worldwide since 1960.",
+          "explanation_vi": "Hệ thống đơn vị đo lường quốc tế (viết tắt từ tiếng Pháp Système International d'unités) được các nhà khoa học chính thức sử dụng thống nhất trên toàn thế giới từ năm 1960."
+        }
+      ],
       "contexts": [
         {
           "raw": "Vật lí lớp 10, Bài 3 (Mục I): Hệ đơn vị chuẩn dùng để biểu diễn và tính toán các đại lượng vật lí.",
@@ -27131,6 +27532,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 3"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 6, Bài 5 (Mục IV): giới thiệu hệ thống đơn vị đo lường chuẩn quốc tế làm cơ sở cho các đơn vị cơ bản như mét, kilôgam, giây.",
+          "disciplines": [
+            "Vật lí"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 5"
         }
       ],
       "disambiguation_notes": [],
@@ -27156,6 +27565,39 @@
           "printed_pages": [
             137,
             138
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5 (Mục III), tr. 19",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 01",
+          "lesson": "B5",
+          "section": "III",
+          "printed_pages": [
+            19
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5 (Mục IV), tr. 19",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": "Chương 01",
+          "lesson": "B5",
+          "section": "IV",
+          "printed_pages": [
+            19
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194",
+          "book": "SGK Khoa học tự nhiên 6 KNTT",
+          "unit": "khtn_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            194
           ]
         }
       ],
@@ -31134,6 +31576,66 @@
         }
       ],
       "markdown_file": "Tu-dien-Toan-hoc.md"
+    },
+    {
+      "id": "dia-li-map-scale",
+      "term_en": "map scale",
+      "term_vi": "Tỉ lệ bản đồ",
+      "term_vi_display": "Tỉ lệ bản đồ",
+      "aliases_vi": [],
+      "origin_discipline": "Địa lí",
+      "explanation_en": "The ratio indicating the degree to which distances between features on a map are reduced compared to their corresponding real-world distances, commonly expressed as a numerical scale or a graphic scale.",
+      "explanation_vi": "Tỉ số cho biết mức độ thu nhỏ độ dài giữa các đối tượng trên bản đồ so với thực tế, thường được biểu hiện ở hai dạng là tỉ lệ số và tỉ lệ thước.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Lịch sử và Địa lí lớp 6, Bài 3 (Mục 1): yếu tố toán học cho biết mức độ thu nhỏ khoảng cách và mức độ thể hiện nội dung trên bản đồ.",
+          "disciplines": [
+            "Toán học",
+            "Địa lí",
+            "Lịch sử"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3, tr. 106",
+          "book": "SGK Lịch sử và Địa lí 6 KNTT",
+          "unit": "ls_va_dl_6",
+          "group": "Phần Địa lí, Chương 01",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            106
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1), tr. 106",
+          "book": "SGK Lịch sử và Địa lí 6 KNTT",
+          "unit": "ls_va_dl_6",
+          "group": "Phần Địa lí, Chương 01",
+          "lesson": "B3",
+          "section": "1",
+          "printed_pages": [
+            106
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2), tr. 106",
+          "book": "SGK Lịch sử và Địa lí 6 KNTT",
+          "unit": "ls_va_dl_6",
+          "group": "Phần Địa lí, Chương 01",
+          "lesson": "B3",
+          "section": "2",
+          "printed_pages": [
+            106
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Dia-li.md"
     },
     {
       "id": "gd-kt-va-pl-marginal-cost",
@@ -42112,6 +42614,66 @@
       "markdown_file": "Tu-dien-Tin-hoc.md"
     },
     {
+      "id": "tin-hoc-programming-language",
+      "term_en": "programming language",
+      "term_vi": "Ngôn ngữ lập trình",
+      "term_vi_display": "Ngôn ngữ lập trình",
+      "aliases_vi": [],
+      "origin_discipline": "Tin học",
+      "explanation_en": "A specialized language used to write programs that instruct a computer on how to understand and perform tasks, replacing natural language or flowcharts that a computer cannot directly comprehend.",
+      "explanation_vi": "Ngôn ngữ chuyên biệt dùng để viết chương trình chỉ dẫn cho máy tính hiểu và thực hiện công việc, thay cho ngôn ngữ tự nhiên hay sơ đồ khối mà máy tính không thể trực tiếp hiểu được.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Tin học lớp 6, Bài 17 (Mục 1): phương tiện chuyển đổi thuật toán thành chương trình để máy tính có thể hiểu và thực thi.",
+          "disciplines": [
+            "Toán học",
+            "Tin học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 17"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 06, B17, tr. 78",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 06",
+          "lesson": "B17",
+          "section": null,
+          "printed_pages": [
+            78
+          ]
+        },
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 06, B17 (Mục 1), tr. 78",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 06",
+          "lesson": "B17",
+          "section": "1",
+          "printed_pages": [
+            78
+          ]
+        },
+        {
+          "raw": "SGK Tin học 6 KNTT, Chủ đề 06, B17 (Mục 1), tr. 78, 79",
+          "book": "SGK Tin học 6 KNTT",
+          "unit": "tin_hoc_6",
+          "group": "Chủ đề 06",
+          "lesson": "B17",
+          "section": "1",
+          "printed_pages": [
+            78,
+            79
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Tin-hoc.md"
+    },
+    {
       "id": "toan-hoc-projection-of-a-figure",
       "term_en": "projection of a figure",
       "term_vi": "Hình chiếu",
@@ -43164,6 +43726,7 @@
         }
       ],
       "disambiguation_notes": [
+        "Không nhầm với 'Kim tự tháp' (`pyramid (history)`) trong Lịch sử.",
         "Không nhầm với 'Kim tự tháp' (`pyramid (history)`) trong Lịch sử."
       ],
       "sources": [
@@ -45792,12 +46355,20 @@
       "id": "dia-li-richter-scale",
       "term_en": "Richter scale",
       "term_vi": "Thang độ Richter",
-      "term_vi_display": "Thang độ Richter",
-      "aliases_vi": [],
+      "term_vi_display": "Thang độ Richter (Thang Rich-te)",
+      "aliases_vi": [
+        "Thang Rich-te"
+      ],
       "origin_discipline": "Địa lí",
       "explanation_en": "A logarithmic scale quantifying the magnitude $M$ of an earthquake via the formula $M = \\log \\frac{I}{S}$, where $I$ is the seismic wave amplitude measured $100\\text{ km}$ from the epicenter and $S = 10^{-6}\\text{ m}$ ($1\\ \\mu\\text{m}$) is the amplitude of a standard reference earthquake.",
       "explanation_vi": "Thang đo lôgarit xác định cường độ (độ lớn) $M$ của một trận động đất theo công thức $M = \\log \\frac{I}{S}$, trong đó $I$ là biên độ địa chấn đo ở khoảng cách $100\\text{ km}$ tính từ tâm động và $S = 10^{-6}\\text{ m}$ ($1\\ \\mu\\text{m}$) là biên độ của trận động đất tiêu chuẩn.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Lịch sử và Địa lí 6",
+          "explanation_en": "A scale used to measure the magnitude and destructive intensity of earthquakes in degrees. It classifies earthquakes into levels: light (4–4.9), moderate (5–5.9), strong (6–6.9), major (7–7.9), great (8–8.9), and devastating (9 or above).",
+          "explanation_vi": "Thang đo dùng để đánh giá cường độ và mức độ tàn phá của động đất theo độ. Thang phân chia động đất thành các mức: nhẹ (4–4,9 độ), trung bình (5–5,9 độ), mạnh (6–6,9 độ), rất mạnh (7–7,9 độ), cực mạnh (8–8,9 độ) và phá huỷ (từ 9 độ trở lên)."
+        }
+      ],
       "contexts": [
         {
           "raw": "Toán học lớp 11, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2b): Ứng dụng lôgarit thập phân để so sánh cường độ giữa các trận động đất.",
@@ -45806,6 +46377,15 @@
           ],
           "grade": 11,
           "lesson_ref": null
+        },
+        {
+          "raw": "Lịch sử và Địa lí lớp 6, Bài 12 (Mục 2): phân loại cường độ và mức độ thiệt hại của các trận động đất.",
+          "disciplines": [
+            "Địa lí",
+            "Lịch sử"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 12"
         }
       ],
       "disambiguation_notes": [],
@@ -45852,6 +46432,17 @@
           "section": null,
           "printed_pages": [
             101
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B12 (Mục 2), tr. 134",
+          "book": "SGK Lịch sử và Địa lí 6 KNTT",
+          "unit": "ls_va_dl_6",
+          "group": "Phần Địa lí, Chương 03",
+          "lesson": "B12",
+          "section": "2",
+          "printed_pages": [
+            134
           ]
         }
       ],
@@ -46174,7 +46765,9 @@
           "lesson_ref": "Bài 6"
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Không nhầm với 'Chữ số La Mã' (`Roman numerals (history)`) trong Lịch sử."
+      ],
       "sources": [
         {
           "raw": "SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 50, 51",

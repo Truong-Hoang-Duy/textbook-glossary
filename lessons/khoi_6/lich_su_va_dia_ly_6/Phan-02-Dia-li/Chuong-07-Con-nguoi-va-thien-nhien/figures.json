@@ -1,0 +1,145 @@
+{
+  "H6-lich_su_va_dia_ly-dl-b27-01": {
+    "pdf_page": 181,
+    "bbox": [
+      232,
+      404,
+      526,
+      594
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b27-02": {
+    "pdf_page": 182,
+    "bbox": [
+      102,
+      56,
+      352,
+      162
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b27-03": {
+    "pdf_page": 182,
+    "bbox": [
+      28,
+      418,
+      565,
+      770
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b27-04": {
+    "pdf_page": 183,
+    "bbox": [
+      0,
+      497,
+      595,
+      773
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 3 tràn sát cả hai mép trái và phải trang in gốc"
+  },
+  "H6-lich_su_va_dia_ly-dl-b27-05": {
+    "pdf_page": 184,
+    "bbox": [
+      28,
+      62,
+      565,
+      409
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b28-01": {
+    "pdf_page": 185,
+    "bbox": [
+      52,
+      508,
+      285,
+      716
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b28-02": {
+    "pdf_page": 185,
+    "bbox": [
+      302,
+      508,
+      545,
+      716
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b28-03": {
+    "pdf_page": 186,
+    "bbox": [
+      336,
+      55,
+      546,
+      268
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chữ đoạn văn bên trái xếp uốn lượn sát theo đường viền bầu dục của Hình 3"
+  },
+  "H6-lich_su_va_dia_ly-dl-b28-04": {
+    "pdf_page": 186,
+    "bbox": [
+      332,
+      290,
+      546,
+      502
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chữ đoạn văn bên trái xếp uốn lượn sát theo đường viền bầu dục của Hình 4"
+  },
+  "H6-lich_su_va_dia_ly-dl-b28-05": {
+    "pdf_page": 186,
+    "bbox": [
+      336,
+      540,
+      562,
+      745
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chữ đoạn văn bên trái xếp uốn lượn sát theo đường viền bầu dục của Hình 5"
+  },
+  "H6-lich_su_va_dia_ly-dl-b28-06": {
+    "pdf_page": 187,
+    "bbox": [
+      52,
+      110,
+      284,
+      286
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b28-07": {
+    "pdf_page": 187,
+    "bbox": [
+      302,
+      110,
+      545,
+      286
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b29-01": {
+    "pdf_page": 188,
+    "bbox": [
+      52,
+      474,
+      205,
+      652
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b29-02": {
+    "pdf_page": 189,
+    "bbox": [
+      82,
+      56,
+      502,
+      220
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b29-03": {
+    "pdf_page": 189,
+    "bbox": [
+      124,
+      330,
+      472,
+      560
+    ]
+  }
+}

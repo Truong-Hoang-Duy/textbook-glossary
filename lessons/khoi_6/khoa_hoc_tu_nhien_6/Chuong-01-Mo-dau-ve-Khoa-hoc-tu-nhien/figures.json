@@ -1,0 +1,257 @@
+{
+  "H6-khoa_hoc_tu_nhien-b01-01": {
+    "pdf_page": 9,
+    "bbox": [
+      84,
+      122,
+      495,
+      534
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "đầu giá thí nghiệm hình b vươn lên vùng nền xanh đậm phía trên của hộp hoạt động"
+  },
+  "H6-khoa_hoc_tu_nhien-b01-02": {
+    "pdf_page": 10,
+    "bbox": [
+      58,
+      202,
+      558,
+      546
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "cạnh trên nằm giữa câu hỏi và Hình 1.2 trên nền màu vàng đậm của hộp câu hỏi"
+  },
+  "H6-khoa_hoc_tu_nhien-b01-03": {
+    "pdf_page": 10,
+    "bbox": [
+      58,
+      608,
+      408,
+      768
+    ]
+  },
+  "H6-khoa_hoc_tu_nhien-b01-04": {
+    "pdf_page": 11,
+    "bbox": [
+      348,
+      212,
+      540,
+      505
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "hình nằm trong hộp Em có biết? có dải nền màu đậm phía trên nên cạnh khung cắt qua màu nền hộp"
+  },
+  "H6-khoa_hoc_tu_nhien-b02-01": {
+    "pdf_page": 12,
+    "bbox": [
+      66,
+      446,
+      376,
+      542
+    ]
+  },
+  "H6-khoa_hoc_tu_nhien-b02-02": {
+    "pdf_page": 13,
+    "bbox": [
+      76,
+      178,
+      527,
+      330
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "cạnh trên nằm ngay dưới câu hỏi 2b trong dải nền màu vàng đậm của hộp câu hỏi"
+  },
+  "H6-khoa_hoc_tu_nhien-b03-01": {
+    "pdf_page": 14,
+    "bbox": [
+      58,
+      458,
+      386,
+      780
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "chú thích dưới Hình 3.1 trải rộng sang phải dưới hộp câu hỏi nên cạnh phải cắt qua biểu tượng dấu hỏi của hộp bên cạnh"
+  },
+  "H6-khoa_hoc_tu_nhien-b03-02": {
+    "pdf_page": 15,
+    "bbox": [
+      214,
+      594,
+      504,
+      766
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "nhãn Hình 3.2 đặt lùi sang trái dưới đoạn văn trong hộp Em có biết? nên cạnh trái và cạnh trên cắt qua chữ và nền hộp"
+  },
+  "H6-khoa_hoc_tu_nhien-b04-01": {
+    "pdf_page": 16,
+    "bbox": [
+      363,
+      348,
+      554,
+      640
+    ]
+  },
+  "H6-khoa_hoc_tu_nhien-b04-02": {
+    "pdf_page": 17,
+    "bbox": [
+      344,
+      628,
+      520,
+      778
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "hình nằm trong hộp Em có biết? nên cạnh trên và cạnh trái cắt qua dải nền màu đậm của hộp"
+  },
+  "H6-khoa_hoc_tu_nhien-b05-01": {
+    "pdf_page": 18,
+    "bbox": [
+      64,
+      622,
+      504,
+      792
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "cuộn thước dây hình b nhô cao ngang dòng chữ bên trái nên cạnh trên cắt qua dòng chữ trên để không mất đầu hình b"
+  },
+  "H6-khoa_hoc_tu_nhien-b05-02": {
+    "pdf_page": 19,
+    "bbox": [
+      304,
+      246,
+      539,
+      365
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "hình nằm trong hộp câu hỏi có nền màu vàng đậm nên các cạnh khung cắt qua màu nền hộp"
+  },
+  "H6-khoa_hoc_tu_nhien-b05-03": {
+    "pdf_page": 19,
+    "bbox": [
+      292,
+      547,
+      539,
+      776
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "hình nằm trong hộp câu hỏi có nền màu vàng đậm phần trên nên cạnh khung cắt qua màu nền hộp"
+  },
+  "H6-khoa_hoc_tu_nhien-b05-04": {
+    "pdf_page": 20,
+    "bbox": [
+      162,
+      316,
+      542,
+      478
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "nhãn Hình 5.4 đặt lùi sang trái dưới đoạn văn mục IV nên cạnh trái bắt buộc đi qua dòng chữ bên trái để giữ đủ nhãn Hình 5.4 và hình vẽ phía trên"
+  },
+  "H6-khoa_hoc_tu_nhien-b06-01": {
+    "pdf_page": 21,
+    "bbox": [
+      52,
+      544,
+      536,
+      696
+    ]
+  },
+  "H6-khoa_hoc_tu_nhien-b06-02": {
+    "pdf_page": 22,
+    "bbox": [
+      405,
+      40,
+      528,
+      218
+    ]
+  },
+  "H6-khoa_hoc_tu_nhien-b07-01": {
+    "pdf_page": 23,
+    "bbox": [
+      274,
+      576,
+      556,
+      774
+    ]
+  },
+  "H6-khoa_hoc_tu_nhien-b07-02": {
+    "pdf_page": 24,
+    "bbox": [
+      322,
+      180,
+      522,
+      424
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "hình nằm trong hộp câu hỏi có nền màu vàng đậm phần trên nên cạnh khung cắt qua màu nền hộp"
+  },
+  "H6-khoa_hoc_tu_nhien-b08-01": {
+    "pdf_page": 25,
+    "bbox": [
+      382,
+      412,
+      536,
+      622
+    ]
+  },
+  "H6-khoa_hoc_tu_nhien-b08-02": {
+    "pdf_page": 26,
+    "bbox": [
+      62,
+      208,
+      374,
+      584
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "hình nằm trong hộp câu hỏi có nền màu vàng đậm phần trên nên cạnh khung cắt qua màu nền hộp"
+  },
+  "H6-khoa_hoc_tu_nhien-b08-03": {
+    "pdf_page": 26,
+    "bbox": [
+      404,
+      268,
+      524,
+      596
+    ]
+  },
+  "H6-khoa_hoc_tu_nhien-b08-04": {
+    "pdf_page": 26,
+    "bbox": [
+      258,
+      630,
+      546,
+      776
+    ]
+  },
+  "H6-khoa_hoc_tu_nhien-b08-05": {
+    "pdf_page": 27,
+    "bbox": [
+      66,
+      132,
+      530,
+      502
+    ]
+  },
+  "H6-khoa_hoc_tu_nhien-b08-06": {
+    "pdf_page": 28,
+    "bbox": [
+      150,
+      298,
+      432,
+      373
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "hình nằm trong hộp Em có biết? có dải nền và chữ chìm nên các cạnh khung cắt qua màu nền hộp"
+  },
+  "H6-khoa_hoc_tu_nhien-b08-07": {
+    "pdf_page": 28,
+    "bbox": [
+      164,
+      383,
+      528,
+      556
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "nhãn Hình 8.7 đặt bên trái ảnh chụp đồng hồ ngay dưới đoạn văn nên cạnh trên và cạnh trái cắt qua chữ đoạn văn trong hộp Em có biết?"
+  }
+}

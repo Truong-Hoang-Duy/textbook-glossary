@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Tiếng Anh",
-    "generated_at": "2026-11-20T02:39:06Z",
+    "generated_at": "2026-11-20T04:26:50Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -1375,8 +1375,8 @@
       "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
-      "id": "tieng-anh-air-pollution",
-      "term_en": "air pollution",
+      "id": "tieng-anh-air-pollution-english",
+      "term_en": "air pollution (English)",
       "term_vi": "ô nhiễm không khí",
       "term_vi_display": "ô nhiễm không khí",
       "aliases_vi": [],
@@ -1394,7 +1394,9 @@
           "lesson_ref": null
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Sự ô nhiễm không khí' trong Hóa học."
+      ],
       "sources": [
         {
           "raw": "SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục II), tr. 103",
@@ -4046,8 +4048,8 @@
       "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
-      "id": "tieng-anh-biodiversity",
-      "term_en": "biodiversity",
+      "id": "tieng-anh-biodiversity-english",
+      "term_en": "biodiversity (English)",
       "term_vi": "đa dạng sinh học",
       "term_vi_display": "đa dạng sinh học",
       "aliases_vi": [],
@@ -4065,7 +4067,9 @@
           "lesson_ref": null
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Đa dạng sinh học' trong Sinh học."
+      ],
       "sources": [
         {
           "raw": "SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục II), tr. 102",
@@ -8139,8 +8143,8 @@
       "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
-      "id": "tieng-anh-climate-change",
-      "term_en": "climate change",
+      "id": "tieng-anh-climate-change-english",
+      "term_en": "climate change (English)",
       "term_vi": "biến đổi khí hậu; sự thay đổi khí hậu",
       "term_vi_display": "biến đổi khí hậu; sự thay đổi khí hậu",
       "aliases_vi": [],
@@ -8158,7 +8162,9 @@
           "lesson_ref": null
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Biến đổi khí hậu' trong Địa lí."
+      ],
       "sources": [
         {
           "raw": "SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục II), tr. 102",
@@ -9058,8 +9064,8 @@
       "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
-      "id": "tieng-anh-compass",
-      "term_en": "compass",
+      "id": "tieng-anh-compass-english",
+      "term_en": "compass (English)",
       "term_vi": "com-pa",
       "term_vi_display": "com-pa (la bàn)",
       "aliases_vi": [
@@ -9095,6 +9101,7 @@
       ],
       "disambiguation_notes": [
         "Trong Unit 1 mang nghĩa chiếc com-pa vẽ hình tròn; sang Unit 5 (Natural wonders of Viet Nam) từ này còn mang nghĩa chiếc la bàn định hướng.",
+        "Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'La bàn' trong Địa lí.",
         "Trong chủ đề du lịch khám phá ở Unit 5, \"compass\" mang nghĩa là chiếc la bàn định hướng, cần phân biệt với \"compass\" ở Unit 1 là chiếc com-pa dùng để vẽ hình tròn."
       ],
       "sources": [
@@ -28095,8 +28102,8 @@
       "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
-      "id": "tieng-anh-mammal",
-      "term_en": "mammal",
+      "id": "tieng-anh-mammal-english",
+      "term_en": "mammal (English)",
       "term_vi": "động vật có vú; thú",
       "term_vi_display": "động vật có vú; thú",
       "aliases_vi": [],
@@ -28115,7 +28122,9 @@
           "lesson_ref": null
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Lớp Động vật có vú' trong Sinh học."
+      ],
       "sources": [
         {
           "raw": "SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8, tr. 100",
@@ -28649,8 +28658,8 @@
       "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
-      "id": "tieng-anh-material",
-      "term_en": "material",
+      "id": "tieng-anh-material-english",
+      "term_en": "material (English)",
       "term_vi": "nguyên liệu; vật liệu",
       "term_vi_display": "nguyên liệu; vật liệu",
       "aliases_vi": [],
@@ -28668,7 +28677,9 @@
           "lesson_ref": null
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Vật liệu' trong Hóa học."
+      ],
       "sources": [
         {
           "raw": "SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục III), tr. 22",
@@ -32918,8 +32929,8 @@
       "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
-      "id": "tieng-anh-planet",
-      "term_en": "planet",
+      "id": "tieng-anh-planet-english",
+      "term_en": "planet (English)",
       "term_vi": "hành tinh",
       "term_vi_display": "hành tinh",
       "aliases_vi": [],
@@ -32937,7 +32948,9 @@
           "lesson_ref": null
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Hành tinh' trong Vật lí."
+      ],
       "sources": [
         {
           "raw": "SGK Tiếng Anh 6 Global Success Tập 2, Unit 12, tr. 64",
@@ -34566,8 +34579,8 @@
       "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
-      "id": "tieng-anh-processor",
-      "term_en": "processor",
+      "id": "tieng-anh-processor-english",
+      "term_en": "processor (English)",
       "term_vi": "bộ xử lí",
       "term_vi_display": "bộ xử lí (máy tính)",
       "aliases_vi": [
@@ -34588,7 +34601,9 @@
           "lesson_ref": null
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Bộ xử lí' trong Tin học."
+      ],
       "sources": [
         {
           "raw": "SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục VII), tr. 59, 60",
@@ -39028,8 +39043,8 @@
       "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
-      "id": "tieng-anh-seek",
-      "term_en": "seek",
+      "id": "tieng-anh-seek-english",
+      "term_en": "seek (English)",
       "term_vi": "tìm kiếm",
       "term_vi_display": "tìm kiếm",
       "aliases_vi": [],

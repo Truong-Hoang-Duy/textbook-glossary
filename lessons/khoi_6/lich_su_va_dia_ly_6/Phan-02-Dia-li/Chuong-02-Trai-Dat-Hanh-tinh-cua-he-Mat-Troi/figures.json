@@ -1,0 +1,66 @@
+{
+  "H6-lich_su_va_dia_ly-dl-b06-01": {
+    "pdf_page": 117,
+    "bbox": [53, 374, 542, 624]
+  },
+  "H6-lich_su_va_dia_ly-dl-b06-02": {
+    "pdf_page": 118,
+    "bbox": [66, 224, 378, 556]
+  },
+  "H6-lich_su_va_dia_ly-dl-b06-03": {
+    "pdf_page": 118,
+    "bbox": [396, 350, 548, 536]
+  },
+  "H6-lich_su_va_dia_ly-dl-b07-01": {
+    "pdf_page": 119,
+    "bbox": [232, 424, 532, 646]
+  },
+  "H6-lich_su_va_dia_ly-dl-b07-02": {
+    "pdf_page": 120,
+    "bbox": [34, 416, 562, 777]
+  },
+  "H6-lich_su_va_dia_ly-dl-b07-03": {
+    "pdf_page": 121,
+    "bbox": [53, 246, 542, 568]
+  },
+  "H6-lich_su_va_dia_ly-dl-b07-04": {
+    "pdf_page": 122,
+    "bbox": [132, 50, 474, 328]
+  },
+  "H6-lich_su_va_dia_ly-dl-b07-05": {
+    "pdf_page": 122,
+    "bbox": [106, 566, 524, 680],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh bốn mặt đồng hồ đặt trên nền màu hộp Luyện tập và Vận dụng trang 121 (PDF 122)"
+  },
+  "H6-lich_su_va_dia_ly-dl-b08-01": {
+    "pdf_page": 123,
+    "bbox": [56, 339, 542, 618]
+  },
+  "H6-lich_su_va_dia_ly-dl-b08-02": {
+    "pdf_page": 124,
+    "bbox": [74, 220, 542, 438]
+  },
+  "H6-lich_su_va_dia_ly-dl-b08-03": {
+    "pdf_page": 124,
+    "bbox": [102, 475, 500, 640]
+  },
+  "H6-lich_su_va_dia_ly-dl-b08-04": {
+    "pdf_page": 125,
+    "bbox": [88, 224, 532, 446]
+  },
+  "H6-lich_su_va_dia_ly-dl-b09-01": {
+    "pdf_page": 127,
+    "bbox": [132, 106, 464, 280]
+  },
+  "H6-lich_su_va_dia_ly-dl-b09-02": {
+    "pdf_page": 127,
+    "bbox": [78, 550, 591, 810],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình vẽ minh hoạ xác định phương hướng lúc Mặt Trời mọc tràn lề trang 126 (PDF 127)"
+  },
+  "H6-lich_su_va_dia_ly-dl-b09-03": {
+    "pdf_page": 128,
+    "bbox": [118, 90, 495, 390]
+  }
+}

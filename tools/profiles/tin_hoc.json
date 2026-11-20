@@ -1,8 +1,9 @@
 {
   "status": "da_kiem_chung",
-  "verified_on": "tin_hoc_khmt_12, tin_hoc_thud_12, 2026-11-02; tin_hoc_10, 2026-11-04; tin_hoc_khmt_11, 2026-11-06",
+  "verified_on": "tin_hoc_khmt_12, tin_hoc_thud_12, 2026-11-02; tin_hoc_10, 2026-11-04; tin_hoc_khmt_11, 2026-11-06; tin_6, 2026-11-20",
   "profile": "tin_hoc",
   "subjects": [
+    "tin",
     "tin_hoc",
     "tin_cs",
     "tin_ict",

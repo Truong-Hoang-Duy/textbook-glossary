@@ -1,0 +1,104 @@
+{
+  "H6-lich_su_va_dia_ly-dl-b00-01": {
+    "pdf_page": 99,
+    "bbox": [330, 606, 528, 777]
+  },
+  "H6-lich_su_va_dia_ly-dl-b00-02": {
+    "pdf_page": 100,
+    "bbox": [138, 168, 464, 353]
+  },
+  "H6-lich_su_va_dia_ly-dl-b00-03": {
+    "pdf_page": 100,
+    "bbox": [26, 364, 570, 704]
+  },
+  "H6-lich_su_va_dia_ly-dl-b00-04": {
+    "pdf_page": 101,
+    "bbox": [70, 101, 234, 242]
+  },
+  "H6-lich_su_va_dia_ly-dl-b00-05": {
+    "pdf_page": 101,
+    "bbox": [256, 101, 413, 242]
+  },
+  "H6-lich_su_va_dia_ly-dl-b00-06": {
+    "pdf_page": 101,
+    "bbox": [70, 246, 250, 388]
+  },
+  "H6-lich_su_va_dia_ly-dl-b00-07": {
+    "pdf_page": 101,
+    "bbox": [256, 250, 558, 376],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chú thích Hình 7 trải ngang sang dưới cột câu hỏi bên phải trang 100 (PDF 101), cạnh trên chạm 1 điểm chân chữ câu hỏi"
+  },
+  "H6-lich_su_va_dia_ly-dl-b01-01": {
+    "pdf_page": 103,
+    "bbox": [74, 352, 182, 486]
+  },
+  "H6-lich_su_va_dia_ly-dl-b01-02": {
+    "pdf_page": 103,
+    "bbox": [238, 440, 542, 646]
+  },
+  "H6-lich_su_va_dia_ly-dl-b01-03": {
+    "pdf_page": 104,
+    "bbox": [396, 55, 545, 354]
+  },
+  "H6-lich_su_va_dia_ly-dl-b01-04": {
+    "pdf_page": 104,
+    "bbox": [75, 268, 358, 586]
+  },
+  "H6-lich_su_va_dia_ly-dl-b02-01": {
+    "pdf_page": 106,
+    "bbox": [62, 64, 542, 272]
+  },
+  "H6-lich_su_va_dia_ly-dl-b02-02": {
+    "pdf_page": 106,
+    "bbox": [284, 392, 538, 644]
+  },
+  "H6-lich_su_va_dia_ly-dl-b03-01": {
+    "pdf_page": 107,
+    "bbox": [296, 502, 468, 528]
+  },
+  "H6-lich_su_va_dia_ly-dl-b03-02": {
+    "pdf_page": 108,
+    "bbox": [71, 319, 544, 706]
+  },
+  "H6-lich_su_va_dia_ly-dl-b04-01": {
+    "pdf_page": 109,
+    "bbox": [63, 422, 201, 586]
+  },
+  "H6-lich_su_va_dia_ly-dl-b04-02": {
+    "pdf_page": 109,
+    "bbox": [226, 602, 418, 776]
+  },
+  "H6-lich_su_va_dia_ly-dl-b04-03": {
+    "pdf_page": 110,
+    "bbox": [122, 116, 524, 304]
+  },
+  "H6-lich_su_va_dia_ly-dl-b04-04": {
+    "pdf_page": 111,
+    "bbox": [24, 56, 571, 764]
+  },
+  "H6-lich_su_va_dia_ly-dl-b04-05": {
+    "pdf_page": 112,
+    "bbox": [70, 202, 526, 496]
+  },
+  "H6-lich_su_va_dia_ly-dl-b04-06": {
+    "pdf_page": 112,
+    "bbox": [112, 594, 538, 777]
+  },
+  "H6-lich_su_va_dia_ly-dl-b04-07": {
+    "pdf_page": 113,
+    "bbox": [58, 58, 290, 250]
+  },
+  "H6-lich_su_va_dia_ly-dl-b04-08": {
+    "pdf_page": 113,
+    "bbox": [306, 58, 542, 250]
+  },
+  "H6-lich_su_va_dia_ly-dl-b05-01": {
+    "pdf_page": 114,
+    "bbox": [224, 552, 540, 738]
+  },
+  "H6-lich_su_va_dia_ly-dl-b05-02": {
+    "pdf_page": 115,
+    "bbox": [74, 174, 370, 404]
+  }
+}

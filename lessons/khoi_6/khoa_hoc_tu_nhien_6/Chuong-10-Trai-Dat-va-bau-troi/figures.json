@@ -1,0 +1,94 @@
+{
+  "H6-khoa_hoc_tu_nhien-b52-01": {
+    "pdf_page": 180,
+    "bbox": [74, 275, 357, 435]
+  },
+  "H6-khoa_hoc_tu_nhien-b52-02": {
+    "pdf_page": 180,
+    "bbox": [264, 606, 544, 710],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Tia sáng trên đỉnh Mặt Trời của Hình 52.1 cao ngang chữ Mặt Trời của tiêu đề mục II bên trái nên đặt cạnh trên sát dưới chân chữ tiêu đề"
+  },
+  "H6-khoa_hoc_tu_nhien-b52-03": {
+    "pdf_page": 181,
+    "bbox": [284, 289, 482, 458],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chú thích Hình 52.2 vươn sang trái dưới hộp câu hỏi nền vàng nên cạnh trái khung chữ nhật cắt qua nền vàng nhạt của hộp câu hỏi (không dính chữ)"
+  },
+  "H6-khoa_hoc_tu_nhien-b52-04": {
+    "pdf_page": 181,
+    "bbox": [120, 584, 454, 770]
+  },
+  "H6-khoa_hoc_tu_nhien-b52-05": {
+    "pdf_page": 182,
+    "bbox": [390, 95, 542, 220]
+  },
+  "H6-khoa_hoc_tu_nhien-b52-06": {
+    "pdf_page": 182,
+    "bbox": [388, 228, 554, 404]
+  },
+  "H6-khoa_hoc_tu_nhien-b52-07": {
+    "pdf_page": 183,
+    "bbox": [73, 298, 528, 678]
+  },
+  "H6-khoa_hoc_tu_nhien-b53-01": {
+    "pdf_page": 184,
+    "bbox": [76, 168, 366, 370]
+  },
+  "H6-khoa_hoc_tu_nhien-b53-02": {
+    "pdf_page": 184,
+    "bbox": [104, 556, 506, 785]
+  },
+  "H6-khoa_hoc_tu_nhien-b53-03": {
+    "pdf_page": 185,
+    "bbox": [56, 186, 544, 490]
+  },
+  "H6-khoa_hoc_tu_nhien-b53-04": {
+    "pdf_page": 186,
+    "bbox": [59, 218, 543, 605]
+  },
+  "H6-khoa_hoc_tu_nhien-b53-05": {
+    "pdf_page": 187,
+    "bbox": [268, 54, 538, 295],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 53.4 đặt sát mép trên trong hộp Hoạt động nền xanh nên góc trên bên trái cắt qua đường viền trên của hộp Hoạt động"
+  },
+  "H6-khoa_hoc_tu_nhien-b54-01": {
+    "pdf_page": 188,
+    "bbox": [68, 373, 541, 640]
+  },
+  "H6-khoa_hoc_tu_nhien-b54-02": {
+    "pdf_page": 188,
+    "bbox": [361, 651, 516, 785]
+  },
+  "H6-khoa_hoc_tu_nhien-b54-03": {
+    "pdf_page": 189,
+    "bbox": [346, 565, 536, 738]
+  },
+  "H6-khoa_hoc_tu_nhien-b55-01": {
+    "pdf_page": 191,
+    "bbox": [58, 179, 270, 352]
+  },
+  "H6-khoa_hoc_tu_nhien-b55-02": {
+    "pdf_page": 191,
+    "bbox": [384, 306, 560, 620],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hai ảnh tròn của Hình 55.1 xếp lệch tầng sát góc dưới bên phải khung Mở đầu màu cam nên cạnh trên đặt ngay dưới dòng chữ hộp Mở đầu, cắt nhẹ mép trên vòng tròn tối và viền cam"
+  },
+  "H6-khoa_hoc_tu_nhien-b55-03": {
+    "pdf_page": 192,
+    "bbox": [83, 181, 521, 330]
+  },
+  "H6-khoa_hoc_tu_nhien-b55-04": {
+    "pdf_page": 192,
+    "bbox": [61, 485, 543, 702]
+  },
+  "H6-khoa_hoc_tu_nhien-b55-05": {
+    "pdf_page": 193,
+    "bbox": [82, 540, 285, 764]
+  },
+  "H6-khoa_hoc_tu_nhien-b55-06": {
+    "pdf_page": 193,
+    "bbox": [306, 540, 511, 776]
+  }
+}

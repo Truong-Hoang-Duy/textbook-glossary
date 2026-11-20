@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Giáo dục Kinh tế và Pháp luật",
-    "generated_at": "2026-11-20T02:39:04Z",
+    "generated_at": "2026-11-20T04:26:48Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -18882,6 +18882,11 @@
           "explanation_vi": "Sự phát triển đáp ứng được nhu cầu của hiện tại mà không làm tổn hại đến khả năng đáp ứng nhu cầu đó của các thế hệ tương lai, trên cơ sở kết hợp chặt chẽ, hài hoà giữa tăng trưởng kinh tế, bảo đảm tiến bộ xã hội và bảo vệ môi trường. Cấu thành của mô hình này gồm ba vòng tròn kinh tế, xã hội và môi trường lồng ghép vào nhau, trong đó phần giao ở trung tâm biểu thị sự phát triển bền vững."
         },
         {
+          "source_label": "SGK Lịch sử và Địa lí 6",
+          "explanation_en": "A mode of development that meets the needs of the present generation without compromising the ability of future generations to meet their own needs.",
+          "explanation_vi": "Phương thức phát triển nhằm đáp ứng các nhu cầu của thế hệ hiện tại mà không làm tổn hại đến khả năng đáp ứng nhu cầu của các thế hệ tương lai."
+        },
+        {
           "source_label": "SGK GD KT&PL 12",
           "explanation_en": "A development process that achieves a balanced and harmonious integration of three pillars: economic development, social development (ensuring social progress and equity), and environmental protection.",
           "explanation_vi": "Quá trình phát triển có sự kết hợp hợp lí, hài hoà và chặt chẽ giữa ba mặt: phát triển kinh tế, phát triển xã hội (bảo đảm tiến bộ, công bằng xã hội) và bảo vệ môi trường."
@@ -18903,6 +18908,15 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 40"
+        },
+        {
+          "raw": "Lịch sử và Địa lí lớp 6, Bài 29 (Mục 1): Mục tiêu định hướng xuyên suốt trong việc bảo vệ tự nhiên và khai thác hợp lí tài nguyên thiên nhiên.",
+          "disciplines": [
+            "Địa lí",
+            "Lịch sử"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 29"
         },
         {
           "raw": "Giáo dục Kinh tế và Pháp luật lớp 12, Bài 1 (Mục 3): mục tiêu phát triển tổng thể gắn kết tăng trưởng kinh tế với công bằng xã hội và bảo vệ môi trường.",
@@ -18968,6 +18982,39 @@
           "section": "1.b",
           "printed_pages": [
             111
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29, tr. 187",
+          "book": "SGK Lịch sử và Địa lí 6 KNTT",
+          "unit": "ls_va_dl_6",
+          "group": "Phần Địa lí, Chương 07",
+          "lesson": "B29",
+          "section": null,
+          "printed_pages": [
+            187
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29 (Mục 1), tr. 187",
+          "book": "SGK Lịch sử và Địa lí 6 KNTT",
+          "unit": "ls_va_dl_6",
+          "group": "Phần Địa lí, Chương 07",
+          "lesson": "B29",
+          "section": "1",
+          "printed_pages": [
+            187
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29 (Mục 2), tr. 187",
+          "book": "SGK Lịch sử và Địa lí 6 KNTT",
+          "unit": "ls_va_dl_6",
+          "group": "Phần Địa lí, Chương 07",
+          "lesson": "B29",
+          "section": "2",
+          "printed_pages": [
+            187
           ]
         },
         {

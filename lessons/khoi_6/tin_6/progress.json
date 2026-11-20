@@ -1,0 +1,437 @@
+{
+  "unit": "tin_6",
+  "subject": "tin",
+  "subject_name": "Tin học",
+  "grade": 6,
+  "files": [
+    {
+      "file": "SGK TIN 6 KNTT.pdf",
+      "volume": null,
+      "page_count": 85,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng",
+      "file": null,
+      "source_file": "SGK TIN 6 KNTT.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK TIN 6 KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK TIN 6 KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "cd01",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 1",
+      "number": 1,
+      "title": "Máy tính và cộng đồng",
+      "dir": "Chu-de-01-May-tinh-va-cong-dong",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Thông tin và dữ liệu",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Thong-tin-va-du-lieu.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            7,
+            9
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Xử lí thông tin",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Xu-li-thong-tin.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            10,
+            13
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Thông tin trong máy tính",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Thong-tin-trong-may-tinh.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            14,
+            17
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd02",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 2",
+      "number": 2,
+      "title": "Mạng máy tính và Internet",
+      "dir": "Chu-de-02-Mang-may-tinh-va-Internet",
+      "children": [
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Mạng máy tính",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Mang-may-tinh.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            19,
+            22
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Internet",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Internet.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            23,
+            26
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd03",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 3",
+      "number": 3,
+      "title": "Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
+      "dir": "Chu-de-03-To-chuc-luu-tru-tim-kiem-va-trao-doi-thong-tin",
+      "children": [
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Mạng thông tin toàn cầu",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Mang-thong-tin-toan-cau.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            28,
+            32
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Tìm kiếm thông tin trên Internet",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Tim-kiem-thong-tin-tren-Internet.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            33,
+            36
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Thư điện tử",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Thu-dien-tu.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            37,
+            41
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd04",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 4",
+      "number": 4,
+      "title": "Đạo đức, pháp luật và văn hoá trong môi trường số",
+      "dir": "Chu-de-04-Dao-duc-phap-luat-va-van-hoa-trong-moi-truong-so",
+      "children": [
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "An toàn thông tin trên Internet",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-An-toan-thong-tin-tren-Internet.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            43,
+            47
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd05",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 5",
+      "number": 5,
+      "title": "Ứng dụng tin học",
+      "dir": "Chu-de-05-Ung-dung-tin-hoc",
+      "children": [
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Sơ đồ tư duy",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-So-do-tu-duy.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            49,
+            54
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Định dạng văn bản",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Dinh-dang-van-ban.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            55,
+            59
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Trình bày thông tin ở dạng bảng",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Trinh-bay-thong-tin-o-dang-bang.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            60,
+            64
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Tìm kiếm và thay thế",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Tim-kiem-va-thay-the.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            65,
+            67
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Thực hành tổng hợp: Hoàn thiện sổ lưu niệm",
+          "lesson_type": "thuc_hanh",
+          "file": "B14-Thuc-hanh-tong-hop-Hoan-thien-so-luu-niem.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            68,
+            69
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd06",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 6",
+      "number": 6,
+      "title": "Giải quyết vấn đề với sự trợ giúp của máy tính",
+      "dir": "Chu-de-06-Giai-quyet-van-de-voi-su-tro-giup-cua-may-tinh",
+      "children": [
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Thuật toán",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Thuat-toan.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            71,
+            74
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Các cấu trúc điều khiển",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Cac-cau-truc-dieu-khien.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            75,
+            78
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Chương trình máy tính",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Chuong-trinh-may-tinh.md",
+          "source_file": "SGK TIN 6 KNTT.pdf",
+          "pdf_pages": [
+            79,
+            82
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ",
+      "file": "Bang-giai-thich-thuat-ngu.md",
+      "source_file": "SGK TIN 6 KNTT.pdf",
+      "pdf_pages": [
+        83,
+        84
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "Độ lệch trang in cố định printed_offset = 1 xuyên suốt toàn sách (PDF 3 = trang in 2 Hướng dẫn sử dụng, PDF 5 = trang in 4 Mục lục, PDF 7..84 = trang in 6..83; PDF 1–2 là bìa và trang tên sách, PDF 85 là trang bản quyền).",
+    "Mỗi Chủ đề (Chủ đề 1–6) có 1 trang mở đầu chủ đề (trang in 5, 17, 26, 41, 47, 69 — tương ứng PDF 6, 18, 27, 42, 48, 70) chỉ in tên chủ đề, tên các bài và tranh minh hoạ chủ đề nên không gộp vào dải trang của bài học theo chuẩn tin_hoc_10."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-20",
+      "scope": [
+        "cd01",
+        "cd02",
+        "cd03",
+        "cd04",
+        "cd05",
+        "cd06"
+      ],
+      "terms": 132,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ 6 Chủ đề, 17 Bài học và Bảng giải thích thuật ngữ (132 thuật ngữ, 86 hình minh hoạ): lấy mẫu phân tầng 30 mục (10 mục in_source: Kết quả tìm kiếm, Chủ đề nhánh, Mật khẩu, Website, Tính toàn cầu, Cấu trúc tuần tự, Lợi ích của mạng máy tính, Cấu trúc điều khiển, Điểm ảnh, Trình duyệt; 10 mục [mô tả]: Mã hoá thông tin, Nghiện Internet nghiện trò chơi trên mạng, Biểu diễn thông tin trong máy tính, Ô, Nhược điểm của dịch vụ thư điện tử, Thanh Bookmark, Tác hại và nguy cơ khi sử dụng Internet, Máy tính bị nhiễm virus hay mã độc, Thông tin cá nhân, Lợi ích của Internet; và 10 hình minh hoạ: H6-tin-b15-05, b17-03, b15-01, b10-04, b03-07, b03-02, b04-02, b11-01, b15-04, b11-08). Toàn bộ 30/30 mục mẫu khớp 100% với ảnh trang PDF gốc (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-20: Hoàn thành 100% tin_6 từ Cổng 0 đến Cổng 4 (6 Chủ đề, 17 Bài học, Bảng giải thích thuật ngữ, 86 hình minh hoạ, 6 từ điển với 132 thuật ngữ, 0 lỗi)."
+}

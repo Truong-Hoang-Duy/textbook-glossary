@@ -1,0 +1,40 @@
+{
+  "H6-lich_su_va_dia_ly-ls-b11-01": {
+    "pdf_page": 53,
+    "bbox": [51, 330, 553, 743]
+  },
+  "H6-lich_su_va_dia_ly-ls-b11-02": {
+    "pdf_page": 54,
+    "bbox": [113, 186, 258, 341]
+  },
+  "H6-lich_su_va_dia_ly-ls-b11-03": {
+    "pdf_page": 54,
+    "bbox": [305, 195, 505, 347]
+  },
+  "H6-lich_su_va_dia_ly-ls-b12-01": {
+    "pdf_page": 56,
+    "bbox": [49, 133, 537, 262]
+  },
+  "H6-lich_su_va_dia_ly-ls-b13-01": {
+    "pdf_page": 57,
+    "bbox": [200, 416, 550, 665]
+  },
+  "H6-lich_su_va_dia_ly-ls-b13-02": {
+    "pdf_page": 58,
+    "bbox": [426, 59, 591, 417],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh Hình 2 tràn sát mép phải trang sách"
+  },
+  "H6-lich_su_va_dia_ly-ls-b13-03": {
+    "pdf_page": 58,
+    "bbox": [99, 444, 505, 729]
+  },
+  "H6-lich_su_va_dia_ly-ls-b13-04": {
+    "pdf_page": 59,
+    "bbox": [55, 196, 549, 473]
+  },
+  "H6-lich_su_va_dia_ly-ls-b13-05": {
+    "pdf_page": 59,
+    "bbox": [371, 673, 533, 762]
+  }
+}

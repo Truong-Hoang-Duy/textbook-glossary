@@ -90,12 +90,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với cận thể (nhóm các thể thơ tuân thủ quy tắc thi luật định hình từ thời Đường).
 - **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 162; SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 162, 163; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 49
 
-### anonymity
+### anonymity (literature)
 - **Tiếng Việt:** Tính vô danh
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** The characteristic absence of an identifiable individual author in folk creations, resulting from collective authorship and oral transmission.
 - **Giải thích (VI):** Đặc tính không xác định tác giả cá nhân cụ thể của các sáng tác dân gian, hình thành từ quá trình đồng sáng tạo tập thể và phương thức lưu truyền bằng miệng.
-- **Bối cảnh:** Ngữ văn lớp 10, Bài 5 (Mục Yêu cầu cần đạt): Nhận diện dấu ấn sáng tạo tập thể không ghi tên tác giả cá nhân của kịch bản chèo, tuồng dân gian.
+- **Bối cảnh:**
+  - Ngữ văn lớp 10, Bài 5 (Mục Yêu cầu cần đạt): Nhận diện dấu ấn sáng tạo tập thể không ghi tên tác giả cá nhân của kịch bản chèo, tuồng dân gian.
+  - *Lưu ý:* Không nhầm với 'Tính ẩn danh' (`online anonymity`) trong Tin học.
 - **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 163; SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 161
 
 ### antagonist
@@ -1851,12 +1853,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Ngữ văn lớp 12, Bài 1 (Mục Tri thức ngữ văn, Thực hành tiếng Việt): Nhận diện và phân tích hiệu quả nghệ thuật của cách kết hợp từ ngữ tương phản trong văn bản văn học.
 - **Nguồn:** SGK Ngữ văn 12 KNTT Tập 1, Tập một, B1, tr. 10; SGK Ngữ văn 12 KNTT Tập 1, Tập một, B1, tr. 10, 11; SGK Ngữ văn 12 KNTT Tập 1, Tập một, B1, tr. 18
 
-### paragraph
+### paragraph (literature)
 - **Tiếng Việt:** Đoạn văn
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** A key component of a text that is relatively complete in meaning and form, consisting of multiple sentences (or occasionally a single sentence) unified by a topic and organized around a sub-idea. A paragraph begins with an indented capital letter and ends with a sentence-ending punctuation mark.
 - **Giải thích (VI):** Bộ phận quan trọng của văn bản có sự hoàn chỉnh tương đối về ý nghĩa và hình thức, gồm nhiều câu (có khi chỉ một câu) thống nhất về chủ đề và được tổ chức xoay quanh một ý nhỏ. Đoạn văn bắt đầu bằng chữ viết hoa lùi đầu dòng và kết thúc bằng một dấu chấm câu.
-- **Bối cảnh:** Ngữ văn lớp 6, Bài 9 (Mục Tri thức ngữ văn; Thực hành tiếng Việt): xác định hình thức, chức năng và ý chính của mỗi đoạn văn trong văn bản.
+- **Bối cảnh:**
+  - Ngữ văn lớp 6, Bài 9 (Mục Tri thức ngữ văn; Thực hành tiếng Việt): xác định hình thức, chức năng và ý chính của mỗi đoạn văn trong văn bản.
+  - *Lưu ý:* Không nhầm với 'Đoạn văn bản' (`HTML paragraph`) trong Tin học.
 - **Nguồn:** SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 88; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 88, 89; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 93
 
 ### parallel prose

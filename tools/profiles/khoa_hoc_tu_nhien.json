@@ -1,0 +1,43 @@
+{
+  "status": "da_kiem_chung",
+  "verified_on": "khoa_hoc_tu_nhien_6, 2026-11-20",
+  "profile": "khoa_hoc_tu_nhien",
+  "subjects": [
+    "khoa_hoc_tu_nhien",
+    "khtn"
+  ],
+  "section_levels": [
+    {
+      "prefix": "## ",
+      "regex": "^([IVX]+|\\d+)\\. ",
+      "example": "## I. KHÁI NIỆM KHOA HỌC TỰ NHIÊN"
+    },
+    {
+      "prefix": "### ",
+      "regex": "^(\\d+|[a-z])[.)] ",
+      "example": "### 1. Sự đa dạng của chất"
+    },
+    {
+      "prefix": "**",
+      "regex": "^([a-z]|\\d+)[.)] ",
+      "example": "**a) Quan sát**"
+    }
+  ],
+  "extra_headings": [
+    "^🚀\\s*(Em có thể|Vận dụng).*",
+    "^Em có thể.*",
+    "^Em đã học.*",
+    "^Em có biết.*"
+  ],
+  "formula": "latex_mhchem",
+  "audit_focus": [
+    "cong_thuc",
+    "mo_ta",
+    "hinh"
+  ],
+  "conventions": [
+    "Mở đầu bài học bằng khối ## 🎯 Mục tiêu và ## 🔴 Mở đầu; phân cấp mục lớn ## I. ... (hoặc ## 1. ...) và tiểu mục ### 1. ... / ### a) ...; kết bài bằng ## 📌 Em đã học và ## ✏️ Em có thể (các hộp Em có biết?, Hoạt động, Câu hỏi, Lưu ý chép trong khối trích dẫn > ).",
+    "Công thức hoá học viết bằng $\\ce{...}$ (mhchem), biểu thức vật lí và toán học viết bằng LaTeX $...$, danh pháp hoá học – sinh học giữ nguyên chuẩn quốc tế in trong SGK (oxygen, carbon dioxide, calcium, carbohydrate, protein, lipid, virus...)."
+  ],
+  "open_questions": []
+}

@@ -1,0 +1,70 @@
+{
+  "H6-tin-b06-01": {
+    "pdf_page": 28,
+    "bbox": [282, 528, 499, 726]
+  },
+  "H6-tin-b06-02": {
+    "pdf_page": 29,
+    "bbox": [328, 663, 454, 745]
+  },
+  "H6-tin-b06-03": {
+    "pdf_page": 30,
+    "bbox": [50, 407, 498, 734]
+  },
+  "H6-tin-b06-04": {
+    "pdf_page": 31,
+    "bbox": [48, 75, 496, 413],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hộp chú thích 'Nháy chuột vào Bookmark...' ở góc phải trên (y=72) nằm cao hơn chân chữ tiêu đề mục 'b) Xem tin thời tiết, thời sự' ở góc trái trên (y=63..75)"
+  },
+  "H6-tin-b06-05": {
+    "pdf_page": 31,
+    "bbox": [46, 425, 498, 726]
+  },
+  "H6-tin-b07-01": {
+    "pdf_page": 34,
+    "bbox": [72, 240, 472, 353]
+  },
+  "H6-tin-b07-02": {
+    "pdf_page": 35,
+    "bbox": [75, 149, 472, 425]
+  },
+  "H6-tin-b07-03": {
+    "pdf_page": 35,
+    "bbox": [64, 475, 472, 732]
+  },
+  "H6-tin-b07-04": {
+    "pdf_page": 36,
+    "bbox": [289, 76, 487, 310]
+  },
+  "H6-tin-b08-01": {
+    "pdf_page": 37,
+    "bbox": [50, 301, 495, 427]
+  },
+  "H6-tin-b08-02": {
+    "pdf_page": 38,
+    "bbox": [127, 166, 372, 255]
+  },
+  "H6-tin-b08-03": {
+    "pdf_page": 39,
+    "bbox": [326, 323, 493, 521]
+  },
+  "H6-tin-b08-04": {
+    "pdf_page": 39,
+    "bbox": [326, 529, 497, 735]
+  },
+  "H6-tin-b08-05": {
+    "pdf_page": 40,
+    "bbox": [48, 61, 496, 267],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc trên bên phải của giấy ghi chú màu vàng (y=266, x=466..480) nằm ngang hàng với chân chữ chú thích Hình 3.12 (y=265)"
+  },
+  "H6-tin-b08-06": {
+    "pdf_page": 40,
+    "bbox": [70, 365, 480, 731]
+  },
+  "H6-tin-b08-07": {
+    "pdf_page": 41,
+    "bbox": [39, 448, 495, 726]
+  }
+}

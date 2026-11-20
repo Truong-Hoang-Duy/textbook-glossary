@@ -1,0 +1,1093 @@
+{
+  "unit": "khoa_hoc_tu_nhien_6",
+  "subject": "khoa_hoc_tu_nhien",
+  "subject_name": "Khoa học tự nhiên",
+  "grade": 6,
+  "files": [
+    {
+      "file": "SGK KHTN 6.pdf",
+      "volume": null,
+      "page_count": 197,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK KHTN 6.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK KHTN 6.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK KHTN 6.pdf",
+      "pdf_pages": [
+        5,
+        7
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c01",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương I",
+      "number": 1,
+      "title": "Mở đầu về Khoa học tự nhiên",
+      "dir": "Chuong-01-Mo-dau-ve-Khoa-hoc-tu-nhien",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Giới thiệu về Khoa học tự nhiên",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Gioi-thieu-ve-Khoa-hoc-tu-nhien.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            8,
+            11
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "An toàn trong phòng thực hành",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-An-toan-trong-phong-thuc-hanh.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            12,
+            13
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Sử dụng kính lúp",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Su-dung-kinh-lup.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            14,
+            15
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Sử dụng kính hiển vi quang học",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Su-dung-kinh-hien-vi-quang-hoc.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            16,
+            17
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Đo chiều dài",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Do-chieu-dai.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            18,
+            20
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Đo khối lượng",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Do-khoi-luong.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            21,
+            22
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Đo thời gian",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Do-thoi-gian.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            23,
+            24
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Đo nhiệt độ",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Do-nhiet-do.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            25,
+            28
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c02",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương II",
+      "number": 2,
+      "title": "Chất quanh ta",
+      "dir": "Chuong-02-Chat-quanh-ta",
+      "children": [
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Sự đa dạng của chất",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Su-da-dang-cua-chat.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            29,
+            30
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Các thể của chất và sự chuyển thể",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Cac-the-cua-chat-va-su-chuyen-the.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            31,
+            36
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Oxygen. Không khí",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Oxygen-Khong-khi.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            37,
+            42
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c03",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương III",
+      "number": 3,
+      "title": "Một số vật liệu, nguyên liệu, nhiên liệu, lương thực – thực phẩm thông dụng",
+      "dir": "Chuong-03-Mot-so-vat-lieu-nguyen-lieu-nhien-lieu-luong",
+      "children": [
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Một số vật liệu",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Mot-so-vat-lieu.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            43,
+            46
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Một số nguyên liệu",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Mot-so-nguyen-lieu.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            47,
+            50
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Một số nhiên liệu",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-Mot-so-nhien-lieu.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            51,
+            52
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Một số lương thực, thực phẩm",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Mot-so-luong-thuc-thuc-pham.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            53,
+            56
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c04",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương IV",
+      "number": 4,
+      "title": "Hỗn hợp. Tách chất ra khỏi hỗn hợp",
+      "dir": "Chuong-04-Hon-hop-Tach-chat-ra-khoi-hon-hop",
+      "children": [
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Hỗn hợp các chất",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Hon-hop-cac-chat.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            57,
+            60
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Tách chất khỏi hỗn hợp",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Tach-chat-khoi-hon-hop.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            61,
+            64
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c05",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương V",
+      "number": 5,
+      "title": "Tế bào",
+      "dir": "Chuong-05-Te-bao",
+      "children": [
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Tế bào – Đơn vị cơ bản của sự sống",
+          "lesson_type": "ly_thuyet",
+          "file": "B18-Te-bao-Don-vi-co-ban-cua-su-song.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            65,
+            67
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Cấu tạo và chức năng các thành phần của tế bào",
+          "lesson_type": "ly_thuyet",
+          "file": "B19-Cau-tao-va-chuc-nang-cac-thanh-phan-cua-te-bao.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            68,
+            70
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Sự lớn lên và sinh sản của tế bào",
+          "lesson_type": "ly_thuyet",
+          "file": "B20-Su-lon-len-va-sinh-san-cua-te-bao.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            71,
+            73
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Thực hành: Quan sát và phân biệt một số loại tế bào",
+          "lesson_type": "thuc_hanh",
+          "file": "B21-Thuc-hanh-Quan-sat-va-phan-biet-mot-so-loai-te.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            74,
+            75
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c06",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VI",
+      "number": 6,
+      "title": "Từ tế bào đến cơ thể",
+      "dir": "Chuong-06-Tu-te-bao-den-co-the",
+      "children": [
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Cơ thể sinh vật",
+          "lesson_type": "ly_thuyet",
+          "file": "B22-Co-the-sinh-vat.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            76,
+            79
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Tổ chức cơ thể đa bào",
+          "lesson_type": "ly_thuyet",
+          "file": "B23-To-chuc-co-the-da-bao.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            80,
+            83
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 24",
+          "number": 24,
+          "title": "Thực hành: Quan sát và mô tả cơ thể đơn bào, cơ thể đa bào",
+          "lesson_type": "thuc_hanh",
+          "file": "B24-Thuc-hanh-Quan-sat-va-mo-ta-co-the-don-bao-co.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            84,
+            86
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c07",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VII",
+      "number": 7,
+      "title": "Đa dạng thế giới sống",
+      "dir": "Chuong-07-Da-dang-the-gioi-song",
+      "children": [
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Hệ thống phân loại sinh vật",
+          "lesson_type": "ly_thuyet",
+          "file": "B25-He-thong-phan-loai-sinh-vat.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            87,
+            90
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b26",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 26",
+          "number": 26,
+          "title": "Khoá lưỡng phân",
+          "lesson_type": "ly_thuyet",
+          "file": "B26-Khoa-luong-phan.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            91,
+            92
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b27",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 27",
+          "number": 27,
+          "title": "Vi khuẩn",
+          "lesson_type": "ly_thuyet",
+          "file": "B27-Vi-khuan.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            93,
+            96
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b28",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 28",
+          "number": 28,
+          "title": "Thực hành: Làm sữa chua và quan sát vi khuẩn",
+          "lesson_type": "thuc_hanh",
+          "file": "B28-Thuc-hanh-Lam-sua-chua-va-quan-sat-vi-khuan.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            97,
+            98
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b29",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 29",
+          "number": 29,
+          "title": "Virus",
+          "lesson_type": "ly_thuyet",
+          "file": "B29-Virus.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            99,
+            102
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b30",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 30",
+          "number": 30,
+          "title": "Nguyên sinh vật",
+          "lesson_type": "ly_thuyet",
+          "file": "B30-Nguyen-sinh-vat.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            103,
+            106
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b31",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 31",
+          "number": 31,
+          "title": "Thực hành: Quan sát nguyên sinh vật",
+          "lesson_type": "thuc_hanh",
+          "file": "B31-Thuc-hanh-Quan-sat-nguyen-sinh-vat.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            107,
+            108
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b32",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 32",
+          "number": 32,
+          "title": "Nấm",
+          "lesson_type": "ly_thuyet",
+          "file": "B32-Nam.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            109,
+            112
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b33",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 33",
+          "number": 33,
+          "title": "Thực hành: Quan sát các loại nấm",
+          "lesson_type": "thuc_hanh",
+          "file": "B33-Thuc-hanh-Quan-sat-cac-loai-nam.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            113,
+            115
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b34",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 34",
+          "number": 34,
+          "title": "Thực vật",
+          "lesson_type": "ly_thuyet",
+          "file": "B34-Thuc-vat.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            116,
+            123
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b35",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 35",
+          "number": 35,
+          "title": "Thực hành: Quan sát và phân biệt một số nhóm thực vật",
+          "lesson_type": "thuc_hanh",
+          "file": "B35-Thuc-hanh-Quan-sat-va-phan-biet-mot-so-nhom-thuc.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            124,
+            125
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b36",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 36",
+          "number": 36,
+          "title": "Động vật",
+          "lesson_type": "ly_thuyet",
+          "file": "B36-Dong-vat.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            126,
+            133
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b37",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 37",
+          "number": 37,
+          "title": "Thực hành: Quan sát và nhận biết một số nhóm động vật ngoài thiên nhiên",
+          "lesson_type": "thuc_hanh",
+          "file": "B37-Thuc-hanh-Quan-sat-va-nhan-biet-mot-so-nhom-dong.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            134,
+            135
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b38",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 38",
+          "number": 38,
+          "title": "Đa dạng sinh học",
+          "lesson_type": "ly_thuyet",
+          "file": "B38-Da-dang-sinh-hoc.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            136,
+            139
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b39",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 39",
+          "number": 39,
+          "title": "Tìm hiểu sinh vật ngoài thiên nhiên",
+          "lesson_type": "thuc_hanh",
+          "file": "B39-Tim-hieu-sinh-vat-ngoai-thien-nhien.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            140,
+            144
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c08",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VIII",
+      "number": 8,
+      "title": "Lực trong đời sống",
+      "dir": "Chuong-08-Luc-trong-doi-song",
+      "children": [
+        {
+          "id": "b40",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 40",
+          "number": 40,
+          "title": "Lực là gì?",
+          "lesson_type": "ly_thuyet",
+          "file": "B40-Luc-la-gi.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            145,
+            147
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b41",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 41",
+          "number": 41,
+          "title": "Biểu diễn lực",
+          "lesson_type": "ly_thuyet",
+          "file": "B41-Bieu-dien-luc.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            148,
+            151
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b42",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 42",
+          "number": 42,
+          "title": "Biến dạng của lò xo",
+          "lesson_type": "ly_thuyet",
+          "file": "B42-Bien-dang-cua-lo-xo.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            152,
+            154
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b43",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 43",
+          "number": 43,
+          "title": "Trọng lượng, lực hấp dẫn",
+          "lesson_type": "ly_thuyet",
+          "file": "B43-Trong-luong-luc-hap-dan.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            155,
+            157
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b44",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 44",
+          "number": 44,
+          "title": "Lực ma sát",
+          "lesson_type": "ly_thuyet",
+          "file": "B44-Luc-ma-sat.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            158,
+            160
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b45",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 45",
+          "number": 45,
+          "title": "Lực cản của nước",
+          "lesson_type": "ly_thuyet",
+          "file": "B45-Luc-can-cua-nuoc.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            161,
+            162
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c09",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương IX",
+      "number": 9,
+      "title": "Năng lượng",
+      "dir": "Chuong-09-Nang-luong",
+      "children": [
+        {
+          "id": "b46",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 46",
+          "number": 46,
+          "title": "Năng lượng và sự truyền năng lượng",
+          "lesson_type": "ly_thuyet",
+          "file": "B46-Nang-luong-va-su-truyen-nang-luong.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            163,
+            165
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b47",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 47",
+          "number": 47,
+          "title": "Một số dạng năng lượng",
+          "lesson_type": "ly_thuyet",
+          "file": "B47-Mot-so-dang-nang-luong.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            166,
+            168
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b48",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 48",
+          "number": 48,
+          "title": "Sự chuyển hoá năng lượng",
+          "lesson_type": "ly_thuyet",
+          "file": "B48-Su-chuyen-hoa-nang-luong.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            169,
+            171
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b49",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 49",
+          "number": 49,
+          "title": "Năng lượng hao phí",
+          "lesson_type": "ly_thuyet",
+          "file": "B49-Nang-luong-hao-phi.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            172,
+            173
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b50",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 50",
+          "number": 50,
+          "title": "Năng lượng tái tạo",
+          "lesson_type": "ly_thuyet",
+          "file": "B50-Nang-luong-tai-tao.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            174,
+            176
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b51",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 51",
+          "number": 51,
+          "title": "Tiết kiệm năng lượng",
+          "lesson_type": "ly_thuyet",
+          "file": "B51-Tiet-kiem-nang-luong.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            177,
+            179
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c10",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương X",
+      "number": 10,
+      "title": "Trái Đất và bầu trời",
+      "dir": "Chuong-10-Trai-Dat-va-bau-troi",
+      "children": [
+        {
+          "id": "b52",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 52",
+          "number": 52,
+          "title": "Chuyển động nhìn thấy của Mặt Trời. Thiên thể",
+          "lesson_type": "ly_thuyet",
+          "file": "B52-Chuyen-dong-nhin-thay-cua-Mat-Troi-Thien-the.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            180,
+            183
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b53",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 53",
+          "number": 53,
+          "title": "Mặt Trăng",
+          "lesson_type": "ly_thuyet",
+          "file": "B53-Mat-Trang.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            184,
+            187
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b54",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 54",
+          "number": 54,
+          "title": "Hệ Mặt Trời",
+          "lesson_type": "ly_thuyet",
+          "file": "B54-He-Mat-Troi.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            188,
+            190
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b55",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 55",
+          "number": 55,
+          "title": "Ngân Hà",
+          "lesson_type": "ly_thuyet",
+          "file": "B55-Ngan-Ha.md",
+          "source_file": "SGK KHTN 6.pdf",
+          "pdf_pages": [
+            191,
+            193
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Giải thích một số thuật ngữ dùng trong sách",
+      "file": "Giai-thich-mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK KHTN 6.pdf",
+      "pdf_pages": [
+        194,
+        196
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "Độ lệch trang in cố định printed_offset = 1 xuyên suốt toàn sách (PDF 3 = trang in 2 Hướng dẫn sử dụng sách, PDF 5–7 = trang in 4–6 Mục lục, PDF 8..196 = trang in 7..195; PDF 1–2 là bìa và trang tên sách, PDF 197 là trang bản quyền).",
+    "Tiêu đề CHƯƠNG I..X nằm ngay đầu trang mở đầu của bài học đầu tiên trong chương (không tách trang bìa chương riêng)."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-20",
+      "scope": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "c07",
+        "c08",
+        "c09",
+        "c10"
+      ],
+      "terms": 280,
+      "sample": 30,
+      "errors": 1,
+      "fixed": 1,
+      "note": "Kiểm toán Cổng 4 toàn bộ 10 Chương, 55 Bài học và Bảng giải thích thuật ngữ (280 thuật ngữ, 264 hình minh hoạ): lấy mẫu phân tầng 30 mục (10 mục in_source: Lớp Chim, Lực cản của không khí, Thực vật hạt trần, Cơ quan, Tế bào, Thép, Giun đốt, Sự đông đặc, Chân khớp, Gang; 10 mục [mô tả]: Tuần Trăng, Lắng, Vật liệu, Sự truyền năng lượng, Kháng thuốc, Các cấp tổ chức của cơ thể đa bào, Thiên hà, Hỗn hợp không đồng nhất, Sự nở vì nhiệt của chất lỏng, Vật kính; và 10 hình minh hoạ: H6-khoa_hoc_tu_nhien-b16-02, b38-03, b42-04, b40-01, b36-08, b40-06, b39-04, b03-02, b30-03, b38-06). Phát hiện và tinh chỉnh ngay cạnh trái x0 của H6-khoa_hoc_tu_nhien-b38-03 (315 -> 322 pt) để tách hẳn chữ cột trái; toàn bộ 30/30 mục mẫu sau tinh chỉnh khớp 100% với trang sách gốc (0 lỗi tồn đọng)."
+    }
+  ],
+  "last_session_note": "2026-11-20: Hoàn thành 100% khoa_hoc_tu_nhien_6 từ Cổng 0 đến Cổng 4 (10 Chương, 55 Bài học, Giải thích một số thuật ngữ dùng trong sách, 264 hình minh hoạ, 10 từ điển với 280 thuật ngữ, 0 lỗi tồn đọng)."
+}

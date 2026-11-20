@@ -499,6 +499,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 10, Bài 4 (Mục 1.a): Hai kí hiệu chữ số tạo thành biểu diễn nhị phân của dữ liệu số.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 01, B4, tr. 20; SGK Tin học 10 KNTT, Chủ đề 01, B4 (Mục 1), tr. 20; SGK Tin học 10 KNTT, Chủ đề 01, B4 (Mục 1.a), tr. 20
 
+### binary number
+- **Tiếng Việt:** Số nhị phân
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A number in the base-2 numeral system represented using only two digit symbols, 0 and 1, such as 101110101010.
+- **Giải thích (VI):** Con số trong hệ đếm cơ số hai được biểu diễn chỉ bằng hai kí hiệu chữ số là 0 và 1, chẳng hạn như 101110101010.
+- **Bối cảnh:** Tin học lớp 6, Bài 3 (Mục 1): Liên hệ dãy kí hiệu 0 và 1 biểu diễn thông tin trong máy tính với khái niệm số nhị phân.
+- **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 01, B3 (Mục 1), tr. 15; SGK Tin học 6 KNTT, Chủ đề 01, B3 (Mục 2), tr. 15; SGK Tin học 6 KNTT, Chủ đề 01, B3 (Mục 2), tr. 15, 16
+
 ### binary numeral system
 - **Tiếng Việt:** Hệ nhị phân (hệ đếm cơ số 2)
 - **Chuyên ngành gốc:** Toán học
@@ -1542,16 +1550,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Information collected when investigating a statistical topic or subject, comprising numerical data and non-numerical data.
 - **Giải thích (VI):** Các thông tin thu thập được khi tìm hiểu về một vấn đề hoặc đối tượng thống kê, bao gồm dữ liệu là số (số liệu) và dữ liệu không phải là số.
 - **Giải thích khác (SGK Tin học 10):** EN: Information in the form of sound, images, text, numbers, and other representations entered into a computer as bit sequences so the computer can recognize and process it. Data serves as the carrier that represents and determines information. / VI: Thông tin dưới dạng âm thanh, hình ảnh, văn bản, số,... đã được đưa vào máy tính dưới dạng dãy bit để máy tính có thể nhận biết và xử lí. Dữ liệu đóng vai trò là yếu tố thể hiện và xác định thông tin.
+- **Giải thích khác (SGK Tin học 6):** EN: Raw elements perceived by humans from the external world or recorded on storage media from which information is derived. Data appears in the form of numbers, text, images, sounds, or symbols. / VI: Những gì con người tiếp nhận từ thế giới bên ngoài hoặc ghi lại trên vật mang tin để từ đó có được thông tin. Dữ liệu xuất hiện dưới dạng các con số, văn bản, hình ảnh, âm thanh hoặc kí hiệu.
 - **Giải thích khác (SGK Ngữ văn 11 Tập 2):** EN: Pieces of information mobilized and used within an informational text, existing in diverse forms such as symbols, written words, numbers, images, or audio. / VI: Những thông tin được huy động và sử dụng trong văn bản thông tin, tồn tại dưới các hình thức đa dạng như kí hiệu, chữ viết, chữ số, hình ảnh hoặc âm thanh.
 - **Giải thích khác (SGK Ngữ văn 12 Tập 2):** EN: Information in the form of written text, symbols, figures, images, or sounds used to describe or measure objects and phenomena. In informational texts, data plays a central role by providing an accurate, objective informational foundation and indirectly conveying the author's perspective. / VI: Các thông tin tồn tại dưới dạng chữ viết, kí hiệu, số liệu, hình ảnh hoặc âm thanh nhằm mô tả hay đo lường sự vật, hiện tượng. Trong văn bản thông tin, dữ liệu giữ vai trò cốt lõi làm cơ sở cung cấp thông tin chính xác, khách quan và thể hiện gián tiếp quan điểm của tác giả.
 - **Bối cảnh:**
   - Toán học lớp 6, Bài 38 (Mục 1): phân loại thông tin thống kê thành dữ liệu là số và dữ liệu không phải là số.
   - Tin học lớp 10, Bài 1 (Mục 1.a, 1.b): Định nghĩa dữ liệu trong tin học và phân biệt với thông tin.
+  - Tin học lớp 6, Bài 1 (Mục 1): Nhận diện các dạng thể hiện của dữ liệu và phân biệt dữ liệu với thông tin.
   - Ngữ văn lớp 11, Bài 8 (Mục Tri thức ngữ văn): Nhận diện và đánh giá vai trò của các dạng thông tin đầu vào cấu thành nội dung văn bản thông tin.
   - Ngữ văn lớp 12, Bài 8 (Mục Tri thức ngữ văn): nhận diện và đánh giá vai trò, tính cập nhật, độ tin cậy của dữ liệu trong văn bản thông tin.
   - *Lưu ý:* Chỉ các dạng thông tin (chữ viết, số liệu, hình ảnh, âm thanh) sử dụng trong văn bản thông tin; phân biệt với dữ liệu máy tính trong Tin học và dữ liệu thống kê trong Toán học.
   - *Lưu ý:* Chỉ dữ liệu làm chất liệu thông tin trong văn bản thông tin (Ngữ văn), phân biệt với dữ liệu số hoá xử lí bằng máy tính trong Tin học và dữ liệu thống kê trong Toán học.
-- **Nguồn:** SGK Toán 6 KNTT Tập 2, Chương 09, B38, tr. 75; SGK Toán 6 KNTT Tập 2, Chương 09, B38 (Mục 1), tr. 76; SGK Toán 6 KNTT Tập 2, Chương 09, B38 (Mục 2), tr. 77; SGK Tin học 10 KNTT, Chủ đề 01, B1, tr. 6; SGK Tin học 10 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 6; SGK Tin học 10 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 7; SGK Ngữ văn 11 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 127; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B8, tr. 65; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B8, tr. 74; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 63; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 63, 64; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 64
+- **Nguồn:** SGK Toán 6 KNTT Tập 2, Chương 09, B38, tr. 75; SGK Toán 6 KNTT Tập 2, Chương 09, B38 (Mục 1), tr. 76; SGK Toán 6 KNTT Tập 2, Chương 09, B38 (Mục 2), tr. 77; SGK Tin học 10 KNTT, Chủ đề 01, B1, tr. 6; SGK Tin học 10 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 6; SGK Tin học 10 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 7; SGK Tin học 6 KNTT, Chủ đề 01, B1, tr. 6; SGK Tin học 6 KNTT, Chủ đề 01, B1 (Mục 1), tr. 6; SGK Tin học 6 KNTT, Chủ đề 01, B1 (Mục 1), tr. 6, 7; SGK Ngữ văn 11 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 127; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B8, tr. 65; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B8, tr. 74; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 63; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 63, 64; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 64
 
 ### data collection
 - **Tiếng Việt:** Thu thập dữ liệu
@@ -5337,6 +5347,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 11, Bài 10 (Mục 4): nhận diện cấu trúc và các yếu tố của hình chóp trong các bài toán giao tuyến, thiết diện.
   - *Lưu ý:* Không nhầm với 'Kim tự tháp' (`pyramid (history)`) trong Lịch sử.
+  - *Lưu ý:* Không nhầm với 'Kim tự tháp' (`pyramid (history)`) trong Lịch sử.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 04, B10, tr. 70; SGK Toán 11 KNTT Tập 1, Chương 04, B10 (Mục 2), tr. 72; SGK Toán 11 KNTT Tập 1, Chương 04, B10 (Mục 3), tr. 75; SGK Toán 11 KNTT Tập 1, Chương 04, B10 (Mục 4), tr. 75
 
 ### pyramidal solid
@@ -5716,7 +5727,9 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** A numeral notation system created by the ancient Romans to represent numerical values, standing as a major cultural contribution still in use today.
 - **Giải thích (VI):** Hệ thống kí hiệu chữ số do người La Mã cổ đại sáng tạo ra để biểu diễn các giá trị số, là một cống hiến văn hoá lớn vẫn còn được ứng dụng cho đến ngày nay.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 1.b): Cống hiến của cư dân La Mã cổ đại về hệ thống chữ viết và chữ số.
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 6 (Mục 1.b): Cống hiến của cư dân La Mã cổ đại về hệ thống chữ viết và chữ số.
+  - *Lưu ý:* Không nhầm với 'Chữ số La Mã' (`Roman numerals (history)`) trong Lịch sử.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 50, 51
 
 ### root of a quadratic trinomial

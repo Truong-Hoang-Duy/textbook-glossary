@@ -1,0 +1,145 @@
+{
+  "H6-lich_su_va_dia_ly-dl-b22-01": {
+    "pdf_page": 169,
+    "bbox": [
+      232,
+      343,
+      530,
+      538
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b22-02": {
+    "pdf_page": 169,
+    "bbox": [
+      34,
+      626,
+      213,
+      774
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b22-03": {
+    "pdf_page": 170,
+    "bbox": [
+      295,
+      331,
+      545,
+      494
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b22-04": {
+    "pdf_page": 170,
+    "bbox": [
+      72,
+      600,
+      370,
+      774
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b22-05": {
+    "pdf_page": 171,
+    "bbox": [
+      26,
+      56,
+      572,
+      428
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b23-01": {
+    "pdf_page": 172,
+    "bbox": [
+      52,
+      376,
+      545,
+      696
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b23-02": {
+    "pdf_page": 173,
+    "bbox": [
+      70,
+      204,
+      545,
+      362
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên phải khung chạm đỉnh ảnh nghiêng Voọc của Hình 3 xếp gối lên dòng chú thích Hình 2"
+  },
+  "H6-lich_su_va_dia_ly-dl-b23-03": {
+    "pdf_page": 173,
+    "bbox": [
+      366,
+      348,
+      550,
+      660
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đoạn văn mục 2.b bên trái chạy lấn qua toạ độ x của dòng chú thích Hình 3 bên dưới"
+  },
+  "H6-lich_su_va_dia_ly-dl-b24-01": {
+    "pdf_page": 174,
+    "bbox": [
+      0,
+      308,
+      206,
+      772
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 1 tràn sát mép trái trang in gốc"
+  },
+  "H6-lich_su_va_dia_ly-dl-b24-02": {
+    "pdf_page": 175,
+    "bbox": [
+      86,
+      144,
+      304,
+      360
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b24-03": {
+    "pdf_page": 175,
+    "bbox": [
+      318,
+      144,
+      545,
+      360
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b25-01": {
+    "pdf_page": 176,
+    "bbox": [
+      222,
+      336,
+      545,
+      556
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b25-02": {
+    "pdf_page": 177,
+    "bbox": [
+      26,
+      126,
+      572,
+      496
+    ]
+  },
+  "H6-lich_su_va_dia_ly-dl-b26-01": {
+    "pdf_page": 178,
+    "bbox": [
+      0,
+      403,
+      188,
+      773
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 1 tràn sát mép trái trang in gốc"
+  },
+  "H6-lich_su_va_dia_ly-dl-b26-02": {
+    "pdf_page": 179,
+    "bbox": [
+      52,
+      492,
+      545,
+      771
+    ]
+  }
+}

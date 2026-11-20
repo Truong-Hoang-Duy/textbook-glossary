@@ -1,0 +1,424 @@
+{
+  "H6-lich_su_va_dia_ly-ls-b14-01": {
+    "pdf_page": 61,
+    "bbox": [
+      73,
+      348,
+      534,
+      757
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b14-02": {
+    "pdf_page": 62,
+    "bbox": [
+      60,
+      241,
+      526,
+      458
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b14-03": {
+    "pdf_page": 63,
+    "bbox": [
+      120,
+      78,
+      485,
+      487
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b14-04": {
+    "pdf_page": 63,
+    "bbox": [
+      99,
+      511,
+      505,
+      670
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b14-05": {
+    "pdf_page": 64,
+    "bbox": [
+      312,
+      325,
+      540,
+      511
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Bố cục ghép chéo trong khung chung với Hình 6 (trống đồng Ngọc Lũ) nên góc dưới trái chạm viền trống đồng"
+  },
+  "H6-lich_su_va_dia_ly-ls-b14-06": {
+    "pdf_page": 64,
+    "bbox": [
+      72,
+      424,
+      537,
+      746
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Bố cục ghép chéo trong khung chung với Hình 5 (lưỡi cày đồng) nên góc trên phải chạm chân Hình 5"
+  },
+  "H6-lich_su_va_dia_ly-ls-b14-07": {
+    "pdf_page": 65,
+    "bbox": [
+      76,
+      63,
+      303,
+      217
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b14-08": {
+    "pdf_page": 65,
+    "bbox": [
+      353,
+      65,
+      542,
+      215
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b15-01": {
+    "pdf_page": 67,
+    "bbox": [
+      69,
+      53,
+      548,
+      247
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b15-02": {
+    "pdf_page": 67,
+    "bbox": [
+      52,
+      258,
+      551,
+      774
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b15-03": {
+    "pdf_page": 68,
+    "bbox": [
+      103,
+      97,
+      484,
+      362
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b15-04": {
+    "pdf_page": 69,
+    "bbox": [
+      120,
+      494,
+      499,
+      773
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b16-01": {
+    "pdf_page": 71,
+    "bbox": [
+      66,
+      368,
+      542,
+      764
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b16-02": {
+    "pdf_page": 72,
+    "bbox": [
+      51,
+      430,
+      550,
+      764
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b16-03": {
+    "pdf_page": 73,
+    "bbox": [
+      59,
+      45,
+      544,
+      365
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b16-04": {
+    "pdf_page": 73,
+    "bbox": [
+      75,
+      376,
+      542,
+      677
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b16-05": {
+    "pdf_page": 74,
+    "bbox": [
+      80,
+      267,
+      330,
+      635
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b16-06": {
+    "pdf_page": 75,
+    "bbox": [
+      35,
+      349,
+      556,
+      761
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b16-07": {
+    "pdf_page": 76,
+    "bbox": [
+      58,
+      122,
+      540,
+      427
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b16-08": {
+    "pdf_page": 77,
+    "bbox": [
+      81,
+      51,
+      535,
+      522
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b16-09": {
+    "pdf_page": 77,
+    "bbox": [
+      80,
+      536,
+      513,
+      726
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b16-10": {
+    "pdf_page": 78,
+    "bbox": [
+      63,
+      260,
+      414,
+      501
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b17-01": {
+    "pdf_page": 79,
+    "bbox": [
+      55,
+      316,
+      253,
+      546
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b17-02": {
+    "pdf_page": 80,
+    "bbox": [
+      39,
+      124,
+      555,
+      525
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b18-01": {
+    "pdf_page": 81,
+    "bbox": [
+      57,
+      429,
+      548,
+      765
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b18-02": {
+    "pdf_page": 82,
+    "bbox": [
+      133,
+      272,
+      485,
+      558
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b18-03": {
+    "pdf_page": 82,
+    "bbox": [
+      0,
+      643,
+      595,
+      842
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh Đền thờ Khúc Thừa Dụ tràn lề trái, phải và đáy trang 81 (PDF 82)"
+  },
+  "H6-lich_su_va_dia_ly-ls-b18-04": {
+    "pdf_page": 83,
+    "bbox": [
+      70,
+      186,
+      550,
+      529
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b18-05": {
+    "pdf_page": 83,
+    "bbox": [
+      96,
+      540,
+      547,
+      681
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b18-06": {
+    "pdf_page": 84,
+    "bbox": [
+      229,
+      89,
+      416,
+      317
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b18-07": {
+    "pdf_page": 84,
+    "bbox": [
+      55,
+      481,
+      416,
+      768
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b18-08": {
+    "pdf_page": 85,
+    "bbox": [
+      58,
+      379,
+      546,
+      752
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b19-01": {
+    "pdf_page": 87,
+    "bbox": [
+      91,
+      363,
+      503,
+      722
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b19-02": {
+    "pdf_page": 88,
+    "bbox": [
+      64,
+      336,
+      542,
+      748
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b19-03": {
+    "pdf_page": 89,
+    "bbox": [
+      84,
+      504,
+      347,
+      755
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b19-04": {
+    "pdf_page": 89,
+    "bbox": [
+      360,
+      505,
+      536,
+      745
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b19-05": {
+    "pdf_page": 90,
+    "bbox": [
+      260,
+      338,
+      536,
+      774
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b19-06": {
+    "pdf_page": 91,
+    "bbox": [
+      113,
+      63,
+      493,
+      345
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b20-01": {
+    "pdf_page": 92,
+    "bbox": [
+      25,
+      363,
+      520,
+      761
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 1 có nền elip trang trí tràn qua đường viền chấm cam bên trái của hộp Mở đầu, không chạm chữ đoạn văn"
+  },
+  "H6-lich_su_va_dia_ly-ls-b20-02": {
+    "pdf_page": 93,
+    "bbox": [
+      94,
+      476,
+      296,
+      623
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b20-03": {
+    "pdf_page": 93,
+    "bbox": [
+      308,
+      475,
+      502,
+      623
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b20-04": {
+    "pdf_page": 93,
+    "bbox": [
+      79,
+      640,
+      268,
+      780
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b20-05": {
+    "pdf_page": 93,
+    "bbox": [
+      320,
+      637,
+      488,
+      780
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b20-06": {
+    "pdf_page": 94,
+    "bbox": [
+      285,
+      422,
+      411,
+      705
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b20-07": {
+    "pdf_page": 94,
+    "bbox": [
+      419,
+      508,
+      555,
+      763
+    ]
+  },
+  "H6-lich_su_va_dia_ly-ls-b20-08": {
+    "pdf_page": 95,
+    "bbox": [
+      81,
+      187,
+      532,
+      492
+    ]
+  }
+}
