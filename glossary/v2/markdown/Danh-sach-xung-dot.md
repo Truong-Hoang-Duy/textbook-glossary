@@ -10,6 +10,7 @@ Các trường hợp trùng tên Tiếng Việt nhưng khác bản chất khái 
 | positive electrode | Cực dương | Đồng âm Tiếng Việt liên môn | `positive terminal` (Vật lí) vs `positive electrode` (Hóa học) | Đã đóng (tách theo chuyên ngành) |
 | malleability | Tính dẻo | Đồng âm Tiếng Việt liên môn | `plasticity` (Vật lí) vs `malleability` (Hóa học) | Đã đóng (tách theo chuyên ngành) |
 | computer virus | Virus | Đồng âm Tiếng Việt liên môn | `virus` (Sinh học) vs `computer virus` (Tin học) | Đã đóng (tách theo chuyên ngành) |
+| layer | Lớp | Đồng âm Tiếng Việt liên môn | `digit period` (Toán học) vs `layer` (Tin học) | Đã đóng (tách theo chuyên ngành) |
 | file fragmentation | Phân mảnh | Đồng âm Tiếng Việt liên môn | `fragmentation` (Sinh học) vs `file fragmentation` (Tin học) | Đã đóng (tách theo chuyên ngành) |
 | resolution | Độ phân giải | Đồng âm Tiếng Việt liên môn | `measurement resolution` (Vật lí) vs `resolution` (Tin học) | Đã đóng (tách theo chuyên ngành) |
 | Big-O sum rule | Quy tắc cộng | Đồng âm Tiếng Việt liên môn | `rule of sum` (Toán học) vs `Big-O sum rule` (Tin học) | Đã đóng (tách theo chuyên ngành) |
@@ -18,4 +19,6 @@ Các trường hợp trùng tên Tiếng Việt nhưng khác bản chất khái 
 | exogenic force | Ngoại lực | Đồng âm Tiếng Việt liên môn | `external force` (Vật lí) vs `exogenic force` (Địa lí) | Đã đóng (tách theo chuyên ngành) |
 | service | Dịch vụ | Đồng âm Tiếng Việt liên môn | `services` (Địa lí) vs `service` (Giáo dục Kinh tế và Pháp luật) | Đã đóng (tách theo chuyên ngành) |
 | right of use | Quyền sử dụng | Đồng âm Tiếng Việt liên môn | `software license` (Tin học) vs `right of use` (Giáo dục Kinh tế và Pháp luật) | Đã đóng (tách theo chuyên ngành) |
+| narrative event | Sự kiện | Đồng âm Tiếng Việt liên môn | `event` (Toán học) vs `narrative event` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |
 | symbol | Biểu tượng | Đồng âm Tiếng Việt liên môn | `icon` (Tin học) vs `symbol` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |
+| minutes | Biên bản | Đồng âm Tiếng Việt liên môn | `log file` (Tin học) vs `minutes` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |

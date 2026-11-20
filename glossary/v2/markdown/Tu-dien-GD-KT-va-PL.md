@@ -47,6 +47,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Giáo dục Kinh tế và Pháp luật lớp 12, Bài 15 (Mục 2): bộ phận biên giới quốc gia xác định ranh giới không gian vùng trời thuộc chủ quyền quốc gia.
 - **Nguồn:** SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 2), tr. 118, 119
 
+### annual interest rate
+- **Tiếng Việt:** Lãi suất một năm (lãi suất tiền gửi một năm)
+- **Chuyên ngành gốc:** Giáo dục Kinh tế và Pháp luật
+- **Giải thích (EN):** A financial indicator representing the percentage ratio of the interest earned in one year to the initial principal deposited.
+- **Giải thích (VI):** Chỉ số tài chính biểu thị tỉ số phần trăm giữa số tiền lãi thu được trong một năm và số tiền vốn gửi ban đầu.
+- **Bối cảnh:** Toán học lớp 6, Bài 31 (Mục 2): vận dụng bài toán tỉ số phần trăm vào bài toán thực tế về tiền gửi tiết kiệm và tín dụng ngân hàng.
+- **Nguồn:** SGK Toán 6 KNTT Tập 2, Chương 07, B31 (Mục 1), tr. 41; SGK Toán 6 KNTT Tập 2, Chương 07, B31 (Mục 2), tr. 41; SGK Toán 6 KNTT Tập 2, Chương 07, B31 (Mục 2), tr. 41, 42
+
 ### annuity
 - **Tiếng Việt:** Niên kim
 - **Chuyên ngành gốc:** Giáo dục Kinh tế và Pháp luật

@@ -1,0 +1,40 @@
+{
+  "H6-ngu_van-b02-01": {
+    "pdf_page": 43,
+    "bbox": [
+      144,
+      359,
+      397,
+      715
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Trang mở đầu bài học in trên nền giấy màu vàng kem vân loang nên mặt nạ độ bão hoà màu báo điểm nền trên bốn cạnh khung cắt sạch"
+  },
+  "H6-ngu_van-b03-01": {
+    "pdf_page": 66,
+    "bbox": [
+      77,
+      361,
+      465,
+      694
+    ]
+  },
+  "H6-ngu_van-b04-01": {
+    "pdf_page": 100,
+    "bbox": [
+      128,
+      329,
+      421,
+      579
+    ]
+  },
+  "H6-ngu_van-b04-02": {
+    "pdf_page": 107,
+    "bbox": [
+      71,
+      66,
+      466,
+      382
+    ]
+  }
+}

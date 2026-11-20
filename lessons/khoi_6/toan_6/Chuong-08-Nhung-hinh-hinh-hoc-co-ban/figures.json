@@ -1,0 +1,396 @@
+{
+  "H6-toan-b32-01": {
+    "pdf_page": 48,
+    "bbox": [305, 258, 540, 378]
+  },
+  "H6-toan-b32-02": {
+    "pdf_page": 48,
+    "bbox": [301, 434, 530, 564]
+  },
+  "H6-toan-b32-03": {
+    "pdf_page": 48,
+    "bbox": [414, 638, 526, 695]
+  },
+  "H6-toan-b32-04": {
+    "pdf_page": 49,
+    "bbox": [418, 62, 529, 129]
+  },
+  "H6-toan-b32-05": {
+    "pdf_page": 49,
+    "bbox": [355, 134, 580, 267]
+  },
+  "H6-toan-b32-06": {
+    "pdf_page": 49,
+    "bbox": [419, 308, 530, 375]
+  },
+  "H6-toan-b32-07": {
+    "pdf_page": 49,
+    "bbox": [412, 466, 530, 499]
+  },
+  "H6-toan-b32-08": {
+    "pdf_page": 49,
+    "bbox": [408, 522, 534, 607]
+  },
+  "H6-toan-b32-09": {
+    "pdf_page": 49,
+    "bbox": [298, 609, 520, 758]
+  },
+  "H6-toan-b32-10": {
+    "pdf_page": 50,
+    "bbox": [132, 134, 438, 216]
+  },
+  "H6-toan-b32-11": {
+    "pdf_page": 50,
+    "bbox": [394, 278, 511, 365]
+  },
+  "H6-toan-b32-12": {
+    "pdf_page": 50,
+    "bbox": [368, 387, 522, 486]
+  },
+  "H6-toan-b32-13": {
+    "pdf_page": 50,
+    "bbox": [338, 634, 530, 754]
+  },
+  "H6-toan-b32-14": {
+    "pdf_page": 51,
+    "bbox": [175, 110, 419, 265]
+  },
+  "H6-toan-b32-15": {
+    "pdf_page": 51,
+    "bbox": [66, 363, 528, 499]
+  },
+  "H6-toan-b32-16": {
+    "pdf_page": 52,
+    "bbox": [428, 112, 520, 175]
+  },
+  "H6-toan-b32-17": {
+    "pdf_page": 52,
+    "bbox": [416, 212, 524, 279]
+  },
+  "H6-toan-b32-18": {
+    "pdf_page": 52,
+    "bbox": [218, 283, 375, 319]
+  },
+  "H6-toan-b32-19": {
+    "pdf_page": 52,
+    "bbox": [422, 369, 543, 479]
+  },
+  "H6-toan-b32-20": {
+    "pdf_page": 52,
+    "bbox": [153, 469, 331, 588]
+  },
+  "H6-toan-b33-01": {
+    "pdf_page": 53,
+    "bbox": [330, 234, 531, 373]
+  },
+  "H6-toan-b33-02": {
+    "pdf_page": 53,
+    "bbox": [345, 401, 518, 514]
+  },
+  "H6-toan-b33-03": {
+    "pdf_page": 53,
+    "bbox": [384, 560, 496, 625]
+  },
+  "H6-toan-b33-04": {
+    "pdf_page": 53,
+    "bbox": [392, 647, 510, 760]
+  },
+  "H6-toan-b33-05": {
+    "pdf_page": 54,
+    "bbox": [341, 112, 528, 149]
+  },
+  "H6-toan-b33-06": {
+    "pdf_page": 54,
+    "bbox": [353, 171, 538, 271],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc trên bên trái khung chữ nhật đi qua chữ 'không?' của câu hỏi bên trái do hình bình hành nghiêng sang trái ở đỉnh B"
+  },
+  "H6-toan-b33-07": {
+    "pdf_page": 54,
+    "bbox": [357, 332, 512, 392]
+  },
+  "H6-toan-b33-08": {
+    "pdf_page": 54,
+    "bbox": [362, 421, 502, 492]
+  },
+  "H6-toan-b33-09": {
+    "pdf_page": 54,
+    "bbox": [391, 538, 509, 571]
+  },
+  "H6-toan-b33-10": {
+    "pdf_page": 54,
+    "bbox": [380, 588, 481, 686]
+  },
+  "H6-toan-b33-11": {
+    "pdf_page": 55,
+    "bbox": [111, 270, 241, 302]
+  },
+  "H6-toan-b33-12": {
+    "pdf_page": 55,
+    "bbox": [67, 341, 290, 373]
+  },
+  "H6-toan-b33-13": {
+    "pdf_page": 55,
+    "bbox": [258, 486, 517, 738]
+  },
+  "H6-toan-b34-01": {
+    "pdf_page": 56,
+    "bbox": [308, 246, 511, 320]
+  },
+  "H6-toan-b34-02": {
+    "pdf_page": 56,
+    "bbox": [224, 403, 535, 483]
+  },
+  "H6-toan-b34-03": {
+    "pdf_page": 56,
+    "bbox": [355, 502, 528, 540]
+  },
+  "H6-toan-b34-04": {
+    "pdf_page": 56,
+    "bbox": [355, 664, 491, 742]
+  },
+  "H6-toan-b34-05": {
+    "pdf_page": 57,
+    "bbox": [369, 75, 463, 166]
+  },
+  "H6-toan-b34-06": {
+    "pdf_page": 57,
+    "bbox": [326, 196, 480, 298]
+  },
+  "H6-toan-b34-07": {
+    "pdf_page": 57,
+    "bbox": [331, 314, 472, 432]
+  },
+  "H6-toan-b34-08": {
+    "pdf_page": 57,
+    "bbox": [284, 483, 526, 535]
+  },
+  "H6-toan-b34-09": {
+    "pdf_page": 57,
+    "bbox": [319, 550, 489, 657]
+  },
+  "H6-toan-b34-10": {
+    "pdf_page": 58,
+    "bbox": [92, 97, 493, 213]
+  },
+  "H6-toan-b34-11": {
+    "pdf_page": 58,
+    "bbox": [88, 421, 401, 505]
+  },
+  "H6-toan-b34-12": {
+    "pdf_page": 58,
+    "bbox": [416, 569, 544, 661]
+  },
+  "H6-toan-b34-13": {
+    "pdf_page": 59,
+    "bbox": [342, 95, 526, 128]
+  },
+  "H6-toan-b34-14": {
+    "pdf_page": 59,
+    "bbox": [66, 244, 487, 369]
+  },
+  "H6-toan-b34-15": {
+    "pdf_page": 59,
+    "bbox": [335, 488, 500, 635]
+  },
+  "H6-toan-b35-01": {
+    "pdf_page": 60,
+    "bbox": [315, 246, 530, 333]
+  },
+  "H6-toan-b35-02": {
+    "pdf_page": 60,
+    "bbox": [356, 372, 496, 492]
+  },
+  "H6-toan-b35-03": {
+    "pdf_page": 60,
+    "bbox": [312, 507, 535, 585]
+  },
+  "H6-toan-b35-04": {
+    "pdf_page": 60,
+    "bbox": [369, 684, 513, 725]
+  },
+  "H6-toan-b35-05": {
+    "pdf_page": 61,
+    "bbox": [336, 78, 527, 206]
+  },
+  "H6-toan-b35-06": {
+    "pdf_page": 61,
+    "bbox": [114, 239, 241, 272]
+  },
+  "H6-toan-b35-07": {
+    "pdf_page": 61,
+    "bbox": [340, 230, 529, 312]
+  },
+  "H6-toan-b35-08": {
+    "pdf_page": 61,
+    "bbox": [307, 456, 518, 487]
+  },
+  "H6-toan-b35-09": {
+    "pdf_page": 61,
+    "bbox": [271, 524, 531, 753]
+  },
+  "H6-toan-b35-10": {
+    "pdf_page": 62,
+    "bbox": [221, 141, 374, 295]
+  },
+  "H6-toan-b35-11": {
+    "pdf_page": 62,
+    "bbox": [179, 474, 424, 507]
+  },
+  "H6-toan-ltc-c08-01-01": {
+    "pdf_page": 63,
+    "bbox": [83, 355, 266, 388]
+  },
+  "H6-toan-ltc-c08-01-02": {
+    "pdf_page": 63,
+    "bbox": [316, 650, 513, 668]
+  },
+  "H6-toan-b36-01": {
+    "pdf_page": 64,
+    "bbox": [350, 237, 528, 341]
+  },
+  "H6-toan-b36-02": {
+    "pdf_page": 64,
+    "bbox": [260, 449, 407, 597],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trái chạm 1 điểm mực giữa cột chữ bên trái và nhãn 'Đỉnh' của Hình 8.43"
+  },
+  "H6-toan-b36-03": {
+    "pdf_page": 64,
+    "bbox": [269, 605, 456, 659],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh dưới bên phải khung chữ nhật cắt qua đầu tia Oz của Hình 8.45 nằm chéo ngay dưới tia Oy của Hình 8.44"
+  },
+  "H6-toan-b36-04": {
+    "pdf_page": 64,
+    "bbox": [387, 641, 526, 765],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên phải khung chữ nhật chạm mép hình tròn xám đánh số trang 63"
+  },
+  "H6-toan-b36-05": {
+    "pdf_page": 65,
+    "bbox": [366, 78, 515, 195]
+  },
+  "H6-toan-b36-06": {
+    "pdf_page": 65,
+    "bbox": [382, 214, 508, 381]
+  },
+  "H6-toan-b36-07": {
+    "pdf_page": 65,
+    "bbox": [421, 415, 526, 560]
+  },
+  "H6-toan-b36-08": {
+    "pdf_page": 65,
+    "bbox": [416, 570, 530, 669]
+  },
+  "H6-toan-b36-09": {
+    "pdf_page": 65,
+    "bbox": [307, 686, 418, 756]
+  },
+  "H6-toan-b36-10": {
+    "pdf_page": 66,
+    "bbox": [344, 76, 526, 210]
+  },
+  "H6-toan-b36-11": {
+    "pdf_page": 66,
+    "bbox": [424, 222, 527, 326]
+  },
+  "H6-toan-b36-12": {
+    "pdf_page": 66,
+    "bbox": [72, 401, 289, 491]
+  },
+  "H6-toan-b36-13": {
+    "pdf_page": 66,
+    "bbox": [130, 558, 224, 653]
+  },
+  "H6-toan-b36-14": {
+    "pdf_page": 66,
+    "bbox": [367, 453, 476, 540]
+  },
+  "H6-toan-b37-01": {
+    "pdf_page": 67,
+    "bbox": [118, 469, 452, 596]
+  },
+  "H6-toan-b37-02": {
+    "pdf_page": 67,
+    "bbox": [324, 622, 527, 756],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trái khung chữ nhật chạm dấu chấm cuối câu '180°.' nằm sát vạch ngang bên trái của thước đo góc"
+  },
+  "H6-toan-b37-03": {
+    "pdf_page": 68,
+    "bbox": [74, 117, 520, 225]
+  },
+  "H6-toan-b37-04": {
+    "pdf_page": 68,
+    "bbox": [91, 422, 497, 531],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trên chạm chân chữ dòng đề HĐ1 do nhãn C ở góc trên phải cao sát dòng chữ"
+  },
+  "H6-toan-b37-05": {
+    "pdf_page": 68,
+    "bbox": [120, 650, 488, 745]
+  },
+  "H6-toan-b37-06": {
+    "pdf_page": 69,
+    "bbox": [79, 198, 478, 320]
+  },
+  "H6-toan-b37-07": {
+    "pdf_page": 69,
+    "bbox": [69, 523, 526, 632]
+  },
+  "H6-toan-b37-08": {
+    "pdf_page": 70,
+    "bbox": [83, 204, 504, 283]
+  },
+  "H6-toan-b37-09": {
+    "pdf_page": 70,
+    "bbox": [231, 509, 358, 599]
+  },
+  "H6-toan-ltc-c08-02-01": {
+    "pdf_page": 71,
+    "bbox": [94, 185, 498, 297]
+  },
+  "H6-toan-ltc-c08-02-02": {
+    "pdf_page": 71,
+    "bbox": [316, 463, 524, 589]
+  },
+  "H6-toan-ltc-c08-02-03": {
+    "pdf_page": 72,
+    "bbox": [216, 146, 377, 234]
+  },
+  "H6-toan-ltc-c08-02-04": {
+    "pdf_page": 72,
+    "bbox": [240, 263, 356, 360]
+  },
+  "H6-toan-ltc-c08-02-05": {
+    "pdf_page": 72,
+    "bbox": [116, 510, 234, 622]
+  },
+  "H6-toan-ltc-c08-02-06": {
+    "pdf_page": 72,
+    "bbox": [297, 524, 562, 752],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên phải khung chữ nhật chạm mép hình tròn xám đánh số trang 71"
+  },
+  "H6-toan-ot-c08-01": {
+    "pdf_page": 73,
+    "bbox": [64, 142, 531, 752]
+  },
+  "H6-toan-ot-c08-02": {
+    "pdf_page": 74,
+    "bbox": [190, 150, 405, 213]
+  },
+  "H6-toan-ot-c08-03": {
+    "pdf_page": 74,
+    "bbox": [238, 327, 365, 362]
+  },
+  "H6-toan-ot-c08-04": {
+    "pdf_page": 74,
+    "bbox": [337, 459, 498, 536]
+  },
+  "H6-toan-ot-c08-05": {
+    "pdf_page": 74,
+    "bbox": [235, 563, 365, 659]
+  }
+}

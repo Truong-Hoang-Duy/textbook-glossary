@@ -1269,7 +1269,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Tập hợp thông tin, số liệu được thu thập, lưu trữ và xử lí trên hệ thống máy tính để phục vụ việc phân tích hoặc ra quyết định.
 - **Bối cảnh:**
   - Tiếng Anh lớp 12, Unit 6 (Artificial Intelligence): kết hợp với các động từ collect, sort, analyse khi mô tả ứng dụng hồ sơ số AI (collects data from the learning and working experience; the data is sorted into sets of skills).
-  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Dữ liệu' trong Tin học.
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Dữ liệu' trong Toán học.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục III), tr. 80; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục III), tr. 80, 81; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 151
 
 ### deal with stressful situations
@@ -2413,7 +2413,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 1 (Family life): dùng trong chủ đề vai trò các thành viên trong gia đình (Mum is the homemaker, so she does the chores).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1, tr. 8; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục I), tr. 8, 9; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục II), tr. 10
 
-### homophone
+### homophone (English)
 - **Tiếng Việt:** từ đồng âm (khác chữ viết và nghĩa)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈhɒməfəʊn/ — A word that is pronounced the same as another word but has a different spelling and meaning.

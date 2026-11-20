@@ -1,0 +1,102 @@
+{
+  "H6-toan-b08-01": {
+    "pdf_page": 34,
+    "bbox": [200, 95, 402, 152]
+  },
+  "H6-toan-b09-01": {
+    "pdf_page": 40,
+    "bbox": [421, 75, 533, 149]
+  },
+  "H6-toan-b09-02": {
+    "pdf_page": 40,
+    "bbox": [134, 612, 443, 743]
+  },
+  "H6-toan-b10-01": {
+    "pdf_page": 42,
+    "bbox": [423, 251, 528, 324]
+  },
+  "H6-toan-b10-02": {
+    "pdf_page": 43,
+    "bbox": [288, 67, 527, 139]
+  },
+  "H6-toan-b10-03": {
+    "pdf_page": 43,
+    "bbox": [78, 439, 393, 561]
+  },
+  "H6-toan-b10-04": {
+    "pdf_page": 43,
+    "bbox": [102, 644, 169, 693]
+  },
+  "H6-toan-b10-05": {
+    "pdf_page": 44,
+    "bbox": [253, 103, 527, 203],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh vòng tròn 24 của Hình 2.1 nằm sát ngay dưới dấu nặng chữ 'tự' của dòng tiêu đề phía trên"
+  },
+  "H6-toan-b10-06": {
+    "pdf_page": 44,
+    "bbox": [276, 601, 407, 678]
+  },
+  "H6-toan-b10-07": {
+    "pdf_page": 44,
+    "bbox": [422, 695, 527, 766],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên phải của khung chữ nhật bao Hình 2.3 giao với hình quạt màu xám đánh số trang 43"
+  },
+  "H6-toan-b10-08": {
+    "pdf_page": 45,
+    "bbox": [76, 149, 371, 249]
+  },
+  "H6-toan-b10-09": {
+    "pdf_page": 45,
+    "bbox": [458, 364, 500, 441]
+  },
+  "H6-toan-b10-10": {
+    "pdf_page": 45,
+    "bbox": [460, 457, 497, 533]
+  },
+  "H6-toan-b10-11": {
+    "pdf_page": 46,
+    "bbox": [88, 202, 277, 326]
+  },
+  "H6-toan-b10-12": {
+    "pdf_page": 46,
+    "bbox": [355, 252, 472, 357]
+  },
+  "H6-toan-b10-13": {
+    "pdf_page": 46,
+    "bbox": [427, 409, 517, 533]
+  },
+  "H6-toan-b10-14": {
+    "pdf_page": 46,
+    "bbox": [75, 603, 403, 680]
+  },
+  "H6-toan-ltc-c02-01-01": {
+    "pdf_page": 47,
+    "bbox": [67, 566, 322, 680]
+  },
+  "H6-toan-ltc-c02-01-02": {
+    "pdf_page": 47,
+    "bbox": [398, 553, 520, 650]
+  },
+  "H6-toan-b11-01": {
+    "pdf_page": 49,
+    "bbox": [438, 245, 511, 343]
+  },
+  "H6-toan-b11-02": {
+    "pdf_page": 53,
+    "bbox": [411, 603, 487, 683]
+  },
+  "H6-toan-b12-01": {
+    "pdf_page": 54,
+    "bbox": [420, 245, 525, 305]
+  },
+  "H6-toan-ltc-c02-02-01": {
+    "pdf_page": 59,
+    "bbox": [421, 561, 533, 635]
+  },
+  "H6-toan-ot-c02-01": {
+    "pdf_page": 61,
+    "bbox": [67, 145, 528, 750]
+  }
+}

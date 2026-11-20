@@ -1,6 +1,6 @@
 {
   "status": "da_kiem_chung",
-  "verified_on": "ngu_van_12, 2026-10-30; ngu_van_10, 2026-11-03; ngu_van_11, 2026-11-06",
+  "verified_on": "ngu_van_12, 2026-10-30; ngu_van_10, 2026-11-03; ngu_van_11, 2026-11-06; ngu_van_6, 2026-11-20",
   "profile": "ngu_van",
   "subjects": [
     "ngu_van",
@@ -26,8 +26,9 @@
   "formula": "none",
   "verbatim_scope": "toan_bai",
   "extra_headings": [
-    "^(ĐỌC|Đọc|VIẾT|Viết|NÓI VÀ NGHE|Nói và nghe|TRI THỨC NGỮ VĂN|Tri thức Ngữ văn|Thực hành tiếng Việt|CỦNG CỐ, MỞ RỘNG|Củng cố, mở rộng|THỰC HÀNH ĐỌC|Thực hành đọc|Thực hành viết|Bài viết tham khảo|Kết nối đọc – viết)\\b",
-    "^(VĂN BẢN|Văn bản) \\d+"
+    "^(ĐỌC|Đọc|VIẾT|Viết|NÓI VÀ NGHE|Nói và nghe|GIỚI THIỆU BÀI HỌC|Giới thiệu bài học|TRI THỨC NGỮ VĂN|Tri thức Ngữ văn|VĂN BẢN ĐỌC|Văn bản đọc|Thực hành tiếng Việt|CỦNG CỐ, MỞ RỘNG|Củng cố, mở rộng|THỰC HÀNH ĐỌC|Thực hành đọc|ĐỌC MỞ RỘNG|Đọc mở rộng|Thực hành viết|Bài viết tham khảo|Phân tích bài viết tham khảo|Kết nối đọc – viết|Viết kết nối với đọc|THÁCH THỨC ĐẦU TIÊN|Thách thức đầu tiên|THÁCH THỨC THỨ HAI|Thách thức thứ hai|VỀ ĐÍCH|Về đích)\\b",
+    "^(VĂN BẢN|Văn bản) \\d+",
+    "^[A-Z]\\. "
   ],
   "audit_focus": [
     "mo_ta",

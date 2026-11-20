@@ -128,7 +128,7 @@ def infer_context_metadata(raw_ctx: str, origin_discipline: str) -> dict:
     if not disciplines:
         disciplines = [origin_discipline]
     grade = None
-    m_grade = re.search(r"\blớp\s*(10|11|12)\b|\b(10|11|12)\s*,\s*Bài\b", raw_ctx, re.IGNORECASE)
+    m_grade = re.search(r"\blớp\s*(6|7|8|9|10|11|12)\b|\b(6|7|8|9|10|11|12)\s*,\s*Bài\b", raw_ctx, re.IGNORECASE)
     if m_grade:
         grade = int(m_grade.group(1) or m_grade.group(2))
     m_lesson = re.search(r"(Bài\s+\d+(?:\s*[–-]\s*\d+)?|Thuật ngữ dùng chung|Bảng giải thích thuật ngữ)", raw_ctx)
@@ -171,7 +171,7 @@ def parse_source_segment(seg: str) -> tuple[dict | None, str | None]:
 
     unit = None
     m_sgk = re.match(
-        r"^SGK\s+(Sinh học|Hóa học|Hoá học|Vật lí|Toán|Tin học(?:\s+CS|\s+ICT)?|Địa lí|Lịch sử|GD KT&PL|Ngữ văn|Tiếng Anh)\s+(10|11|12)\b",
+        r"^SGK\s+(Sinh học|Hóa học|Hoá học|Vật lí|Toán|Khoa học tự nhiên|Tin học(?:\s+CS|\s+ICT)?|Địa lí|Lịch sử|Lịch sử và Địa lí|GD KT&PL|GDCD|Ngữ văn|Tiếng Anh)\s+(6|7|8|9|10|11|12)\b",
         book,
         re.IGNORECASE,
     )
@@ -182,12 +182,15 @@ def parse_source_segment(seg: str) -> tuple[dict | None, str | None]:
             "hoá học": "hoa",
             "vật lí": "vat_ly",
             "toán": "toan",
+            "khoa học tự nhiên": "khtn",
             "tin học": "tin_hoc",
             "tin học cs": "tin_hoc_khmt",
             "tin học ict": "tin_hoc_thud",
             "địa lí": "dia",
             "lịch sử": "lich_su",
+            "lịch sử và địa lí": "ls_va_dl",
             "gd kt&pl": "gd_kt_va_pl",
+            "gdcd": "gdcd",
             "ngữ văn": "ngu_van",
             "tiếng anh": "tieng_anh",
         }

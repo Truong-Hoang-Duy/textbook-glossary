@@ -843,7 +843,9 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** A single text unit in Python represented as a string of length 1, since the Python language does not have a separate character data type.
 - **Giải thích (VI):** Đơn vị văn bản đơn lẻ trong Python được biểu diễn bằng một xâu kí tự có độ dài bằng 1, do ngôn ngữ Python không tách riêng kiểu dữ liệu kí tự độc lập.
-- **Bối cảnh:** Tin học lớp 10, Bài 24 (Mục 1): cách biểu diễn một kí tự đơn lẻ thông qua kiểu xâu trong Python.
+- **Bối cảnh:**
+  - Tin học lớp 10, Bài 24 (Mục 1): cách biểu diễn một kí tự đơn lẻ thông qua kiểu xâu trong Python.
+  - *Lưu ý:* Không nhầm với 'Nhân vật' (`character (literature)`) trong Ngữ văn.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 05, B24, tr. 119; SGK Tin học 10 KNTT, Chủ đề 05, B24 (Mục 1), tr. 119; SGK Tin học 10 KNTT, Chủ đề 05, B24 (Mục 1), tr. 120
 
 ### characteristics of cyberspace communication
@@ -1561,21 +1563,6 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tin học lớp 12, Bài 6 (Mục 1.a): Khái niệm nền tảng về môi trường giao tiếp số qua mạng xã hội, thư điện tử, diễn đàn và hội nghị trực tuyến.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B9, tr. 44; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 1), tr. 44; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 1), tr. 44, 45; SGK Tin học CS 12 KNTT, Chủ đề 03, B6, tr. 34; SGK Tin học CS 12 KNTT, Chủ đề 03, B6 (Mục 1), tr. 34; SGK Tin học CS 12 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 34; SGK Tin học ICT 12 KNTT, Chủ đề 03, B6, tr. 34
 
-### data
-- **Tiếng Việt:** Dữ liệu
-- **Chuyên ngành gốc:** Tin học
-- **Giải thích (EN):** Information in the form of sound, images, text, numbers, and other representations entered into a computer as bit sequences so the computer can recognize and process it. Data serves as the carrier that represents and determines information.
-- **Giải thích (VI):** Thông tin dưới dạng âm thanh, hình ảnh, văn bản, số,... đã được đưa vào máy tính dưới dạng dãy bit để máy tính có thể nhận biết và xử lí. Dữ liệu đóng vai trò là yếu tố thể hiện và xác định thông tin.
-- **Giải thích khác (SGK Ngữ văn 11 Tập 2):** EN: Pieces of information mobilized and used within an informational text, existing in diverse forms such as symbols, written words, numbers, images, or audio. / VI: Những thông tin được huy động và sử dụng trong văn bản thông tin, tồn tại dưới các hình thức đa dạng như kí hiệu, chữ viết, chữ số, hình ảnh hoặc âm thanh.
-- **Giải thích khác (SGK Ngữ văn 12 Tập 2):** EN: Information in the form of written text, symbols, figures, images, or sounds used to describe or measure objects and phenomena. In informational texts, data plays a central role by providing an accurate, objective informational foundation and indirectly conveying the author's perspective. / VI: Các thông tin tồn tại dưới dạng chữ viết, kí hiệu, số liệu, hình ảnh hoặc âm thanh nhằm mô tả hay đo lường sự vật, hiện tượng. Trong văn bản thông tin, dữ liệu giữ vai trò cốt lõi làm cơ sở cung cấp thông tin chính xác, khách quan và thể hiện gián tiếp quan điểm của tác giả.
-- **Bối cảnh:**
-  - Tin học lớp 10, Bài 1 (Mục 1.a, 1.b): Định nghĩa dữ liệu trong tin học và phân biệt với thông tin.
-  - Ngữ văn lớp 11, Bài 8 (Mục Tri thức ngữ văn): Nhận diện và đánh giá vai trò của các dạng thông tin đầu vào cấu thành nội dung văn bản thông tin.
-  - Ngữ văn lớp 12, Bài 8 (Mục Tri thức ngữ văn): nhận diện và đánh giá vai trò, tính cập nhật, độ tin cậy của dữ liệu trong văn bản thông tin.
-  - *Lưu ý:* Chỉ các dạng thông tin (chữ viết, số liệu, hình ảnh, âm thanh) sử dụng trong văn bản thông tin; phân biệt với dữ liệu máy tính trong Tin học và dữ liệu thống kê trong Toán học.
-  - *Lưu ý:* Chỉ dữ liệu làm chất liệu thông tin trong văn bản thông tin (Ngữ văn), phân biệt với dữ liệu số hoá xử lí bằng máy tính trong Tin học và dữ liệu thống kê trong Toán học.
-- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 01, B1, tr. 6; SGK Tin học 10 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 6; SGK Tin học 10 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 7; SGK Ngữ văn 11 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 127; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B8, tr. 65; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B8, tr. 74; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 63; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 63, 64; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 64
-
 ### data access authorization
 - **Tiếng Việt:** Phân quyền sử dụng dữ liệu
 - **Chuyên ngành gốc:** Tin học
@@ -1607,14 +1594,6 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bản sao dữ liệu được nhà quản trị cơ sở dữ liệu tạo định kì kết hợp với việc giám sát phát hiện sớm sự cố, cho phép khôi phục kịp thời dữ liệu khi xảy ra trục trặc, đặc biệt là các sự cố liên quan đến phần cứng.
 - **Bối cảnh:** Tin học lớp 11, Bài 16 (Mục 1): biện pháp dự phòng và khôi phục dữ liệu khi hệ thống cơ sở dữ liệu gặp sự cố.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 05, B16 (Mục 1), tr. 78
-
-### data collection
-- **Tiếng Việt:** Thu thập dữ liệu
-- **Chuyên ngành gốc:** Tin học
-- **Giải thích (EN):** The initial step in building a machine learning application, involving gathering task-relevant data from various sources such as databases, files, or direct recording. Data obtained at this stage typically undergoes cleaning and preparation before being used for model training and testing.
-- **Giải thích (VI):** Bước khởi đầu trong quy trình xây dựng ứng dụng Học máy, thực hiện tập hợp dữ liệu phục vụ bài toán từ nhiều nguồn khác nhau như cơ sở dữ liệu, tệp tin hoặc ghi chép trực tiếp. Dữ liệu thu được ở bước này thường tiếp tục trải qua quá trình làm sạch và chuẩn bị trước khi đưa vào huấn luyện và kiểm thử mô hình.
-- **Bối cảnh:** Tin học lớp 12, Bài 25 (Mục 1): Bước đầu tiên trong năm bước cơ bản của quy trình xây dựng ứng dụng Học máy.
-- **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 07, B25 (Mục 1), tr. 135; SGK Tin học CS 12 KNTT, Chủ đề 07, B25 (Mục 1), tr. 135, 136
 
 ### data consistency
 - **Tiếng Việt:** Tính nhất quán
@@ -2878,12 +2857,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 12, Bài 2 (Mục 2): Xu hướng phát triển nổi bật của Trí tuệ nhân tạo hiện đại trong sáng tạo nội dung tự động.
 - **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 01, B2 (Mục 2), tr. 11; SGK Tin học CS 12 KNTT, Chủ đề 01, B2 (Mục 2), tr. 11, 12; SGK Tin học CS 12 KNTT, Bảng giải thích thuật ngữ, tr. 164; SGK Tin học ICT 12 KNTT, Chủ đề 01, B2 (Mục 2), tr. 11
 
-### GeoGebra
+### GeoGebra (computer science)
 - **Tiếng Việt:** GeoGebra
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** A mathematical simulation software integrating tools for drawing geometric figures, plotting charts, and performing visual computations to simulate and solve mathematical problems in teaching and learning.
 - **Giải thích (VI):** Phần mềm mô phỏng toán học tích hợp bộ công cụ vẽ hình hình học, biểu đồ cùng các công cụ tính toán trực quan để mô phỏng và hỗ trợ giải các bài toán trong dạy và học.
-- **Bối cảnh:** Tin học lớp 12, Bài 30 (Mục 1, 2): Phần mềm mô phỏng toán học phổ biến trong giáo dục nhà trường.
+- **Bối cảnh:**
+  - Tin học lớp 12, Bài 30 (Mục 1, 2): Phần mềm mô phỏng toán học phổ biến trong giáo dục nhà trường.
+  - *Lưu ý:* Không nhầm với 'Phần mềm GeoGebra' (`GeoGebra`) trong Toán học.
 - **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 07, B30, tr. 159; SGK Tin học CS 12 KNTT, Chủ đề 07, B30 (Mục 1), tr. 159; SGK Tin học CS 12 KNTT, Chủ đề 07, B30 (Mục 1), tr. 159, 160
 
 ### Gigabit port

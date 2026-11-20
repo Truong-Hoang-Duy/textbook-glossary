@@ -19,7 +19,7 @@
   "properties": {
     "unit": {
       "type": "string",
-      "pattern": "^[a-z]+(_[a-z]+)*_(10|11|12)$"
+      "pattern": "^[a-z]+(_[a-z]+)*_(6|7|8|9|10|11|12)$"
     },
     "subject": {
       "type": "string",
@@ -31,6 +31,10 @@
     },
     "grade": {
       "enum": [
+        6,
+        7,
+        8,
+        9,
         10,
         11,
         12

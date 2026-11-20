@@ -3500,12 +3500,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 25 (Mục II.1): Chọn mốc quy chiếu độ cao ($h = 0$) trước khi thiết lập biểu thức thế năng trọng trường và cơ năng.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 101; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.2), tr. 101
 
-### power
+### power (physics)
 - **Tiếng Việt:** Công suất (tốc độ sinh công)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A physical quantity characterizing the rate at which work is performed by a person or machine, defined as the work done per unit time according to $\mathscr{P} = \frac{A}{t}$. In the SI system, the unit of power is the watt ($\text{W}$).
 - **Giải thích (VI):** Đại lượng vật lí đặc trưng cho khả năng thực hiện công nhanh hay chậm của người hoặc thiết bị sinh công, xác định bằng công thực hiện trong một đơn vị thời gian theo công thức $\mathscr{P} = \frac{A}{t}$. Trong hệ SI, đơn vị của công suất là oát ($\text{W}$).
-- **Bối cảnh:** Vật lí lớp 10, Bài 24 (Mục I, II): Đánh giá và so sánh tốc độ thực hiện công của con người hoặc các thiết bị, máy móc.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 24 (Mục I, II): Đánh giá và so sánh tốc độ thực hiện công của con người hoặc các thiết bị, máy móc.
+  - *Lưu ý:* Không nhầm với 'Luỹ thừa' (`power`) trong Toán học.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B24, tr. 96; SGK Vật lí 10 KNTT, Chương 04, B24 (Mục I), tr. 96; SGK Vật lí 10 KNTT, Chương 04, B24 (Mục II), tr. 96
 
 ### pressing force

@@ -1,0 +1,401 @@
+{
+  "unit": "ngu_van_6",
+  "subject": "ngu_van",
+  "subject_name": "Ngữ văn",
+  "grade": 6,
+  "files": [
+    {
+      "file": "SGK VAN 6-1 KNTT.pdf",
+      "volume": 1,
+      "page_count": 151,
+      "printed_offset": 1
+    },
+    {
+      "file": "SGK Ngữ văn 6, tập hai-mau.pdf",
+      "volume": 2,
+      "page_count": 62,
+      "printed_offset": 1
+    },
+    {
+      "file": "SGK VAN 6-2 KNTT.pdf",
+      "volume": 2,
+      "page_count": 127,
+      "printed_offset": -10
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK VAN 6-1 KNTT.pdf",
+      "pdf_pages": [
+        3,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-1",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK VAN 6-1 KNTT.pdf",
+      "pdf_pages": [
+        7,
+        8
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK VAN 6-1 KNTT.pdf",
+      "pdf_pages": [
+        9,
+        10
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "t01",
+      "role": "group",
+      "kind": "tap",
+      "label": null,
+      "number": 1,
+      "title": "Tập một",
+      "dir": "Tap-1",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Tôi và các bạn",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Toi-va-cac-ban.md",
+          "source_file": "SGK VAN 6-1 KNTT.pdf",
+          "pdf_pages": [
+            11,
+            42
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Gõ cửa trái tim",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Go-cua-trai-tim.md",
+          "source_file": "SGK VAN 6-1 KNTT.pdf",
+          "pdf_pages": [
+            43,
+            65
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Yêu thương và chia sẻ",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Yeu-thuong-va-chia-se.md",
+          "source_file": "SGK VAN 6-1 KNTT.pdf",
+          "pdf_pages": [
+            66,
+            96
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Quê hương yêu dấu",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Que-huong-yeu-dau.md",
+          "source_file": "SGK VAN 6-1 KNTT.pdf",
+          "pdf_pages": [
+            97,
+            118
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Những nẻo đường xứ sở",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Nhung-neo-duong-xu-so.md",
+          "source_file": "SGK VAN 6-1 KNTT.pdf",
+          "pdf_pages": [
+            119,
+            143
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "on-tap-hk1",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Ôn tập học kì I",
+          "lesson_type": "on_tap",
+          "file": "On-tap-hoc-ki-I.md",
+          "source_file": "SGK VAN 6-1 KNTT.pdf",
+          "pdf_pages": [
+            144,
+            147
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 1: Bảng tra cứu thuật ngữ (Tập một)",
+      "file": "Bang-tra-cuu-thuat-ngu-Tap-1.md",
+      "source_file": "SGK VAN 6-1 KNTT.pdf",
+      "pdf_pages": [
+        148,
+        148
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 2: Giải thích một số thuật ngữ (Tập một)",
+      "file": "Bang-giai-thich-mot-so-thuat-ngu-Tap-1.md",
+      "source_file": "SGK VAN 6-1 KNTT.pdf",
+      "pdf_pages": [
+        149,
+        150
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "muc-luc-tap-2",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục (Tập hai)",
+      "file": null,
+      "source_file": "SGK Ngữ văn 6, tập hai-mau.pdf",
+      "pdf_pages": [
+        3,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "t02",
+      "role": "group",
+      "kind": "tap",
+      "label": null,
+      "number": 2,
+      "title": "Tập hai",
+      "dir": "Tap-2",
+      "children": [
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Chuyện kể về những người anh hùng",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Chuyen-ke-ve-nhung-nguoi-anh-hung.md",
+          "source_file": "SGK Ngữ văn 6, tập hai-mau.pdf",
+          "pdf_pages": [
+            5,
+            24
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Thế giới cổ tích",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-The-gioi-co-tich.md",
+          "source_file": "SGK Ngữ văn 6, tập hai-mau.pdf",
+          "pdf_pages": [
+            25,
+            52
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Khác biệt và gần gũi",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Khac-biet-va-gan-gui.md",
+          "source_file": "SGK VAN 6-2 KNTT.pdf",
+          "pdf_pages": [
+            50,
+            76
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Trái Đất – ngôi nhà chung",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Trai-Dat-ngoi-nha-chung.md",
+          "source_file": "SGK VAN 6-2 KNTT.pdf",
+          "pdf_pages": [
+            77,
+            102
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Cuốn sách tôi yêu",
+          "lesson_type": "du_an",
+          "file": "B10-Cuon-sach-toi-yeu.md",
+          "source_file": "SGK VAN 6-2 KNTT.pdf",
+          "pdf_pages": [
+            103,
+            113
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "on-tap-hk2",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Ôn tập học kì II",
+          "lesson_type": "on_tap",
+          "file": "On-tap-hoc-ki-II.md",
+          "source_file": "SGK VAN 6-2 KNTT.pdf",
+          "pdf_pages": [
+            114,
+            117
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 1: Bảng tra cứu thuật ngữ (Tập hai)",
+      "file": "Bang-tra-cuu-thuat-ngu-Tap-2.md",
+      "source_file": "SGK VAN 6-2 KNTT.pdf",
+      "pdf_pages": [
+        118,
+        119
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 2: Giải thích một số thuật ngữ (Tập hai)",
+      "file": "Bang-giai-thich-mot-so-thuat-ngu-Tap-2.md",
+      "source_file": "SGK VAN 6-2 KNTT.pdf",
+      "pdf_pages": [
+        120,
+        121
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-tra-cuu-han-viet-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 3: Bảng tra cứu yếu tố Hán Việt (Tập hai)",
+      "file": null,
+      "source_file": "SGK VAN 6-2 KNTT.pdf",
+      "pdf_pages": [
+        122,
+        127
+      ],
+      "status": "skip"
+    }
+  ],
+  "notes": [
+    "SGK Ngữ văn 6 gồm 2 tập: Tập một (SGK VAN 6-1 KNTT.pdf, 151 trang PDF, printed_offset = 1 cố định xuyên suốt, gồm Bài 1–5, Ôn tập học kì I, Phụ lục 1: Bảng tra cứu thuật ngữ và Phụ lục 2: Giải thích một số thuật ngữ) và Tập hai kết hợp hai file nguồn bổ khuyết trọn vẹn không mất trang nào.",
+    "Ở Tập hai, file SGK VAN 6-2 KNTT.pdf (127 trang PDF, bản mẫu tháng 11/2020) bị khuyết 10 trang in 19–28 (nửa sau Bài 6 và trang đầu Bài 7), từ PDF 19 trở đi mang trang in 29 (printed_offset = -10 cho toàn bộ dải PDF 50–127). File SGK Ngữ văn 6, tập hai-mau.pdf (62 trang PDF, bản in chính thức ISBN 978-604-0-25155-8, printed_offset = 1) chứa trọn vẹn từ đầu sách đến hết Bài 7 (PDF 5–24 là Bài 6: trang in 4–23; PDF 25–52 là Bài 7: trang in 24–51). Do đó ở Tập hai: Mục lục, Bài 6 và Bài 7 lấy nguyên vẹn từ SGK Ngữ văn 6, tập hai-mau.pdf; từ Bài 8 đến hết Bài 10, Ôn tập học kì II và Phụ lục 1, 2, 3 lấy nguyên vẹn từ SGK VAN 6-2 KNTT.pdf (PDF 50–127 = trang in 60–137).",
+    "Trong Bài 1–5 và Bài 8–10 (bản mẫu), hộp mục tiêu đầu bài có tiêu đề \"MỤC TIÊU BÀI HỌC\" (ánh xạ thành \"## 🎯 Mục tiêu bài học\"); trong Bài 6–7 (bản in chính thức), hộp mục tiêu đầu bài có tiêu đề \"YÊU CẦU CẦN ĐẠT\" (ánh xạ thành \"## 🎯 Yêu cầu cần đạt\"). Bài 10 (Cuốn sách tôi yêu) là bài học dự án đọc sách (lesson_type: du_an) tổ chức theo 3 chặng: Thách thức đầu tiên, Thách thức thứ hai và Về đích."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-20",
+      "scope": [
+        "t01",
+        "t02",
+        "bang-tra-cuu-thuat-ngu-tap-1",
+        "bang-giai-thich-thuat-ngu-tap-1",
+        "bang-tra-cuu-thuat-ngu-tap-2",
+        "bang-giai-thich-thuat-ngu-tap-2"
+      ],
+      "terms": 131,
+      "sample": 30,
+      "errors": 1,
+      "fixed": 1,
+      "note": "Kiểm toán mẫu phân tầng 30 mục (16 thuật ngữ in_source, 6 thuật ngữ described, 8 hình minh hoạ/sơ đồ) đối chiếu trực tiếp với ảnh trang gốc của cả 3 file nguồn Tập 1 và Tập 2: phát hiện và sửa 1 số trang tham chiếu trong cột Bối cảnh sử dụng của mục Nghị luận văn học (trang 117 -> 116); sau khi sửa và xuất lại đạt 0% lỗi."
+    }
+  ],
+  "last_session_note": "Hoàn thành toàn bộ Cổng 0–4 cho ngu_van_6 (16 bài/bảng Tầng 1 verified, 15 hình 300 DPI, 2 từ điển Tầng 2 với 131 thuật ngữ: 66 định nghĩa in_source, 9 mô tả, 56 Ngoài nguồn, 2 ghi chú nguồn đóng, 0 ghi chú mở; xuất glossary/v1/data/ngu_van_6.json và kiểm toán mẫu 30 mục đạt 0% lỗi tồn đọng)."
+}

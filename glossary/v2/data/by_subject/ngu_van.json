@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Ngữ văn",
-    "generated_at": "2026-11-19T04:50:38Z",
+    "generated_at": "2026-11-20T01:32:25Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -17,19 +17,18 @@
       "Tu-dien-Vat-li.md"
     ],
     "counts": {
-      "entries": 279,
+      "entries": 339,
       "by_origin_discipline": {
         "Giáo dục Kinh tế và Pháp luật": 1,
         "Hóa học": 9,
         "Lịch sử": 4,
-        "Ngữ văn": 257,
-        "Tin học": 1,
+        "Ngữ văn": 317,
         "Tiếng Anh": 4,
-        "Toán học": 2,
+        "Toán học": 3,
         "Vật lí": 1
       },
-      "multi_context_entries": 265,
-      "alt_explanation_entries": 19
+      "multi_context_entries": 325,
+      "alt_explanation_entries": 30
     }
   },
   "entries": [
@@ -89,6 +88,124 @@
           "section": "VIẾT",
           "printed_pages": [
             115
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-adjective-phrase",
+      "term_en": "adjective phrase",
+      "term_vi": "Cụm tính từ",
+      "term_vi_display": "Cụm tính từ",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A type of phrase headed by an adjective, combined with one or more accompanying words that modify that adjective.",
+      "explanation_vi": "Loại cụm từ có tính từ làm trung tâm, kết hợp với một hoặc một số từ khác đi kèm để bổ nghĩa cho tính từ đó.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 3 (Mục Thực hành tiếng Việt): phân tích cấu tạo và mở rộng thành phần câu bằng cụm tính từ.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66, 67",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66,
+            67
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 81",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            81
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-adverbial-modifier",
+      "term_en": "adverbial modifier",
+      "term_vi": "Trạng ngữ",
+      "term_vi_display": "Trạng ngữ",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A secondary sentence element that may be placed at the beginning, middle, or end of a sentence, though most commonly at the beginning. An adverbial modifier functions to link sentences and add information regarding time, place, manner, cause, or purpose.",
+      "explanation_vi": "Thành phần phụ của câu, có thể đặt ở đầu câu, giữa câu hoặc cuối câu nhưng phổ biến nhất là ở đầu câu. Trạng ngữ có chức năng liên kết câu và bổ sung thông tin về thời gian, địa điểm, cách thức, nguyên nhân, mục đích.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 8 (Mục Tri thức ngữ văn; Thực hành tiếng Việt): nhận biết vị trí, đặc điểm và chức năng của trạng ngữ trong câu và đoạn văn.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 8"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 61",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B8",
+          "section": null,
+          "printed_pages": [
+            61
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 61, 62",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B8",
+          "section": null,
+          "printed_pages": [
+            61,
+            62
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 62",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B8",
+          "section": null,
+          "printed_pages": [
+            62
           ]
         }
       ],
@@ -547,6 +664,117 @@
           "section": null,
           "printed_pages": [
             161
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-antagonist",
+      "term_en": "antagonist",
+      "term_vi": "Nhân vật phản diện",
+      "term_vi_display": "Nhân vật phản diện (phản diện)",
+      "aliases_vi": [
+        "phản diện"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A character belonging to the bad, malicious alignment within the two character lines of fairy tales, representing wicked people in society.",
+      "explanation_vi": "Nhân vật thuộc tuyến xấu, ác trong hai tuyến nhân vật của truyện cổ tích, đại diện cho kiểu người xấu trong xã hội.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 7 (Mục Tri thức ngữ văn): nhận diện tuyến nhân vật xấu, ác như mẹ con Lý Thông, người anh, hai cô chị trong truyện cổ tích.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 7"
+        }
+      ],
+      "disambiguation_notes": [
+        "Trong tự sự học tiếng Anh, 'antagonist' chỉ lực lượng hoặc nhân vật đối kháng với nhân vật chính; trong truyện cổ tích ở Ngữ văn 6, 'nhân vật phản diện' nhấn mạnh bản chất xấu, ác đối lập với tuyến nhân vật chính diện."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B7, tr. 25",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B7",
+          "section": null,
+          "printed_pages": [
+            25
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B7, tr. 25, 26",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B7",
+          "section": null,
+          "printed_pages": [
+            25,
+            26
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-anthropomorphic-children-s-story",
+      "term_en": "anthropomorphic children's story",
+      "term_vi": "Truyện đồng thoại",
+      "term_vi_display": "Truyện đồng thoại",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A genre of stories written for children featuring personified animals or objects as characters. These characters retain the inherent traits of animals or objects while simultaneously exhibiting human characteristics.",
+      "explanation_vi": "Thể loại truyện sáng tác cho trẻ em, có nhân vật là loài vật hoặc đồ vật được nhân cách hoá. Các nhân vật này vừa mang đặc tính vốn có của loài vật hoặc đồ vật, vừa mang đặc điểm của con người.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 1 (Mục Tri thức ngữ văn): đọc hiểu truyện đồng thoại và phân tích nhân vật được nhân cách hoá.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 1"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            11
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11, 12",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            11,
+            12
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 13",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            13
           ]
         }
       ],
@@ -1014,8 +1242,10 @@
       "id": "ngu-van-argumentative-text",
       "term_en": "argumentative text",
       "term_vi": "Văn bản nghị luận",
-      "term_vi_display": "Văn bản nghị luận",
-      "aliases_vi": [],
+      "term_vi_display": "Văn bản nghị luận (bài nghị luận)",
+      "aliases_vi": [
+        "bài nghị luận"
+      ],
       "origin_discipline": "Ngữ văn",
       "explanation_en": "A text type designed to persuade an audience regarding ideological, social, or literary issues through a tightly structured system of claims, reasoning, and evidence. Depending on genre and topic, it may incorporate narrative and expressive elements to heighten persuasive force.",
       "explanation_vi": "Loại văn bản thực hiện chức năng thuyết phục người tiếp nhận về một vấn đề tư tưởng, xã hội hoặc văn học nghệ thuật thông qua hệ thống luận điểm, lí lẽ và bằng chứng tổ chức chặt chẽ. Tuỳ theo thể văn và nội dung bàn luận, văn bản có thể kết hợp thêm yếu tố tự sự và biểu cảm để gia tăng hiệu quả thuyết phục.",
@@ -1029,6 +1259,11 @@
           "source_label": "SGK Ngữ văn 12 Tập 1",
           "explanation_en": "A type of text that employs reasoning, evidence, and a flexible combination of core argumentative operations (demonstration, commentary, refutation) and supporting operations (explanation, analysis, comparison) to persuade readers on an issue. Its value is determined by the significance of the central thesis and the writer's art of argumentation.",
           "explanation_vi": "Loại văn bản sử dụng lí lẽ, bằng chứng và phối hợp linh hoạt các thao tác nghị luận đặc thù (chứng minh, bình luận, bác bỏ) cùng thao tác bổ trợ (giải thích, phân tích, so sánh) nhằm thuyết phục người đọc về một vấn đề. Giá trị của loại văn bản này phụ thuộc vào ý nghĩa của vấn đề đặt ra (luận đề) và nghệ thuật lập luận của người viết."
+        },
+        {
+          "source_label": "SGK Ngữ văn 6 Tập 2",
+          "explanation_en": "A type of text primarily used to persuade readers or listeners regarding an issue. Argumentative texts typically address a phenomenon or issue and employ reasoning and evidence to affirm the writer's or speaker's opinion.",
+          "explanation_vi": "Loại văn bản chủ yếu dùng để thuyết phục người đọc hoặc người nghe về một vấn đề. Văn bản nghị luận thường bàn về một hiện tượng, vấn đề và sử dụng lí lẽ, bằng chứng để khẳng định ý kiến của người viết hoặc người nói."
         }
       ],
       "contexts": [
@@ -1055,6 +1290,14 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 3"
+        },
+        {
+          "raw": "Ngữ văn lớp 6, Bài 8 (Mục Tri thức ngữ văn): đọc hiểu văn bản nghị luận và viết bài văn trình bày ý kiến về một hiện tượng đời sống.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 8"
         }
       ],
       "disambiguation_notes": [],
@@ -1159,6 +1402,40 @@
           "section": null,
           "printed_pages": [
             63
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 61",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B8",
+          "section": null,
+          "printed_pages": [
+            61
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 61, 62",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B8",
+          "section": null,
+          "printed_pages": [
+            61,
+            62
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 65",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B8",
+          "section": null,
+          "printed_pages": [
+            65
           ]
         }
       ],
@@ -1856,6 +2133,67 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-character-literature",
+      "term_en": "character (literature)",
+      "term_vi": "Nhân vật",
+      "term_vi_display": "Nhân vật",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "An artistic figure created and portrayed by a writer in a literary work through appearance, gestures, actions, speech, emotions, and thoughts. Characters are typically human beings but may also be deities, spirits, animals, or objects.",
+      "explanation_vi": "Hình tượng đối tượng được nhà văn sáng tạo và khắc hoạ trong tác phẩm thông qua hình dáng, cử chỉ, hành động, ngôn ngữ, cảm xúc, suy nghĩ. Nhân vật thường là con người nhưng cũng có thể là thần tiên, ma quỷ, con vật hoặc đồ vật.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 1 (Mục Tri thức ngữ văn): nhận biết và phân tích nhân vật trong tác phẩm truyện.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 1"
+        }
+      ],
+      "disambiguation_notes": [
+        "Không nhầm với 'Kí tự' (`character`) trong Tin học."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            11
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11, 12",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            11,
+            12
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            12
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-character-personality",
       "term_en": "character personality",
       "term_vi": "Tính cách nhân vật",
@@ -1932,6 +2270,11 @@
           "source_label": "SGK Ngữ văn 11 Tập 1",
           "explanation_en": "Monologic or dialogic language in a narrative text directly tied to a character's own consciousness, perspective, and individual tone.",
           "explanation_vi": "Ngôn ngữ độc thoại hoặc đối thoại trong văn bản tự sự gắn liền trực tiếp với ý thức, quan điểm và giọng điệu riêng của chính nhân vật."
+        },
+        {
+          "source_label": "SGK Ngữ văn 6 Tập 1",
+          "explanation_en": "The direct speech of a character in the form of dialogue or monologue, which may be presented separately or interwoven with the narrator's speech.",
+          "explanation_vi": "Lời nói trực tiếp của nhân vật dưới hình thức đối thoại hoặc độc thoại, có thể trình bày tách riêng hoặc xen lẫn với lời người kể chuyện."
         }
       ],
       "contexts": [
@@ -1957,6 +2300,14 @@
             "Ngữ văn"
           ],
           "grade": 11,
+          "lesson_ref": "Bài 1"
+        },
+        {
+          "raw": "Ngữ văn lớp 6, Bài 1 (Mục Tri thức ngữ văn): nhận diện lời nói trực tiếp của nhân vật trong truyện kể.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
           "lesson_ref": "Bài 1"
         }
       ],
@@ -2065,6 +2416,288 @@
           "section": null,
           "printed_pages": [
             48
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            12
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12, 13",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            12,
+            13
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 147",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            147
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-character-traits",
+      "term_en": "character traits",
+      "term_vi": "Đặc điểm nhân vật",
+      "term_vi_display": "Đặc điểm nhân vật",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "The synthesis of distinctive defining features of a character in a literary work, manifested through physical appearance, actions, language, and inner world.",
+      "explanation_vi": "Tổng hợp những nét riêng tiêu biểu của nhân vật trong tác phẩm văn học, biểu hiện qua ngoại hình, hành động, ngôn ngữ và thế giới nội tâm.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 3 (Mục Tri thức ngữ văn): khái quát tính cách và phẩm chất nhân vật qua các phương diện miêu tả.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 148",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            148
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 148, 149",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            148,
+            149
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 147",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            147
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-character-s-action",
+      "term_en": "character's action",
+      "term_vi": "Hành động",
+      "term_vi_display": "Hành động (hành động của nhân vật)",
+      "aliases_vi": [
+        "hành động của nhân vật"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "The gestures and deeds that demonstrate how a character conducts themselves toward their own person and the surrounding world in a narrative work.",
+      "explanation_vi": "Những cử chỉ, việc làm thể hiện cách ứng xử của nhân vật đối với bản thân và thế giới xung quanh trong tác phẩm truyện.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 3 (Mục Tri thức ngữ văn): nhận xét cách ứng xử và phẩm chất của nhân vật qua cử chỉ, việc làm.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [
+        "Trong ngữ cảnh đọc hiểu truyện kể Ngữ văn 6, thuật ngữ chỉ cử chỉ, việc làm khắc hoạ nhân vật, phân biệt với hành động kịch trong sân khấu."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66, 67",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66,
+            67
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 80",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            80
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-character-s-appearance",
+      "term_en": "character's appearance",
+      "term_vi": "Ngoại hình",
+      "term_vi_display": "Ngoại hình (ngoại hình nhân vật)",
+      "aliases_vi": [
+        "ngoại hình nhân vật"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "The outward physical appearance of a character in a literary work, depicted through details such as physique, face, eyes, complexion, hair, and attire.",
+      "explanation_vi": "Dáng vẻ bề ngoài của nhân vật trong tác phẩm, thể hiện qua các chi tiết như thân hình, gương mặt, ánh mắt, làn da, mái tóc và trang phục.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 3 (Mục Tri thức ngữ văn): phân tích chi tiết miêu tả dáng vẻ bên ngoài của nhân vật trong truyện kể.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [
+        "Trong ngữ cảnh đọc hiểu truyện kể Ngữ văn 6, thuật ngữ chỉ phương diện dáng vẻ bề ngoài của nhân vật văn học."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66, 67",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66,
+            67
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 73",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            73
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-character-s-language",
+      "term_en": "character's language",
+      "term_vi": "Ngôn ngữ",
+      "term_vi_display": "Ngôn ngữ (lời nói)",
+      "aliases_vi": [
+        "lời nói"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "The verbal expression of a character constructed by the writer in a literary work through both dialogue and monologue.",
+      "explanation_vi": "Phương diện lời nói của nhân vật được nhà văn xây dựng trong tác phẩm ở cả hai hình thức đối thoại và độc thoại.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 3 (Mục Tri thức ngữ văn): phân tích lời nói đối thoại và độc thoại để làm rõ đặc điểm nhân vật.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [
+        "Trong mục Miêu tả nhân vật trong truyện kể (Bài 3), thuật ngữ chỉ riêng lời nói khắc hoạ nhân vật, không chỉ hệ thống ngôn ngữ giao tiếp nói chung."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66, 67",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66,
+            67
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 77",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            77
           ]
         }
       ],
@@ -3307,6 +3940,65 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "ngu-van-complex-word",
+      "term_en": "complex word",
+      "term_vi": "Từ phức",
+      "term_vi_display": "Từ phức",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A word consisting of two or more syllables, comprising two main types: compound words and reduplicative words.",
+      "explanation_vi": "Từ có cấu tạo gồm hai hoặc nhiều hơn hai tiếng, bao gồm hai loại chính là từ ghép và từ láy.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 1 (Mục Thực hành tiếng Việt): nhận diện cấu tạo từ phức tiếng Việt.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 1"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            12
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12, 13",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            12,
+            13
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 21",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            21
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-composite-informational-text",
       "term_en": "composite informational text",
       "term_vi": "Văn bản thông tin tổng hợp",
@@ -3407,6 +4099,65 @@
           "section": null,
           "printed_pages": [
             79
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-compound-word",
+      "term_en": "compound word",
+      "term_vi": "Từ ghép",
+      "term_vi_display": "Từ ghép",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A type of complex word formed by combining syllables that bear a semantic relationship to one another.",
+      "explanation_vi": "Loại từ phức tạo thành bằng cách ghép các tiếng có quan hệ với nhau về nghĩa.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 1 (Mục Thực hành tiếng Việt): phân biệt từ ghép với từ láy theo quan hệ giữa các tiếng.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 1"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            12
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12, 13",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            12,
+            13
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 21",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            21
           ]
         }
       ],
@@ -3875,15 +4626,20 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
-      "id": "tin-hoc-data",
+      "id": "toan-hoc-data",
       "term_en": "data",
       "term_vi": "Dữ liệu",
       "term_vi_display": "Dữ liệu",
       "aliases_vi": [],
-      "origin_discipline": "Tin học",
-      "explanation_en": "Information in the form of sound, images, text, numbers, and other representations entered into a computer as bit sequences so the computer can recognize and process it. Data serves as the carrier that represents and determines information.",
-      "explanation_vi": "Thông tin dưới dạng âm thanh, hình ảnh, văn bản, số,... đã được đưa vào máy tính dưới dạng dãy bit để máy tính có thể nhận biết và xử lí. Dữ liệu đóng vai trò là yếu tố thể hiện và xác định thông tin.",
+      "origin_discipline": "Toán học",
+      "explanation_en": "Information collected when investigating a statistical topic or subject, comprising numerical data and non-numerical data.",
+      "explanation_vi": "Các thông tin thu thập được khi tìm hiểu về một vấn đề hoặc đối tượng thống kê, bao gồm dữ liệu là số (số liệu) và dữ liệu không phải là số.",
       "alt_explanations": [
+        {
+          "source_label": "SGK Tin học 10",
+          "explanation_en": "Information in the form of sound, images, text, numbers, and other representations entered into a computer as bit sequences so the computer can recognize and process it. Data serves as the carrier that represents and determines information.",
+          "explanation_vi": "Thông tin dưới dạng âm thanh, hình ảnh, văn bản, số,... đã được đưa vào máy tính dưới dạng dãy bit để máy tính có thể nhận biết và xử lí. Dữ liệu đóng vai trò là yếu tố thể hiện và xác định thông tin."
+        },
         {
           "source_label": "SGK Ngữ văn 11 Tập 2",
           "explanation_en": "Pieces of information mobilized and used within an informational text, existing in diverse forms such as symbols, written words, numbers, images, or audio.",
@@ -3896,6 +4652,14 @@
         }
       ],
       "contexts": [
+        {
+          "raw": "Toán học lớp 6, Bài 38 (Mục 1): phân loại thông tin thống kê thành dữ liệu là số và dữ liệu không phải là số.",
+          "disciplines": [
+            "Toán học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 38"
+        },
         {
           "raw": "Tin học lớp 10, Bài 1 (Mục 1.a, 1.b): Định nghĩa dữ liệu trong tin học và phân biệt với thông tin.",
           "disciplines": [
@@ -3926,6 +4690,39 @@
         "Chỉ dữ liệu làm chất liệu thông tin trong văn bản thông tin (Ngữ văn), phân biệt với dữ liệu số hoá xử lí bằng máy tính trong Tin học và dữ liệu thống kê trong Toán học."
       ],
       "sources": [
+        {
+          "raw": "SGK Toán 6 KNTT Tập 2, Chương 09, B38, tr. 75",
+          "book": "SGK Toán 6 KNTT Tập 2",
+          "unit": "toan_6",
+          "group": "Chương 09",
+          "lesson": "B38",
+          "section": null,
+          "printed_pages": [
+            75
+          ]
+        },
+        {
+          "raw": "SGK Toán 6 KNTT Tập 2, Chương 09, B38 (Mục 1), tr. 76",
+          "book": "SGK Toán 6 KNTT Tập 2",
+          "unit": "toan_6",
+          "group": "Chương 09",
+          "lesson": "B38",
+          "section": "1",
+          "printed_pages": [
+            76
+          ]
+        },
+        {
+          "raw": "SGK Toán 6 KNTT Tập 2, Chương 09, B38 (Mục 2), tr. 77",
+          "book": "SGK Toán 6 KNTT Tập 2",
+          "unit": "toan_6",
+          "group": "Chương 09",
+          "lesson": "B38",
+          "section": "2",
+          "printed_pages": [
+            77
+          ]
+        },
         {
           "raw": "SGK Tin học 10 KNTT, Chủ đề 01, B1, tr. 6",
           "book": "SGK Tin học 10 KNTT",
@@ -4027,7 +4824,7 @@
           ]
         }
       ],
-      "markdown_file": "Tu-dien-Tin-hoc.md"
+      "markdown_file": "Tu-dien-Toan-hoc.md"
     },
     {
       "id": "ngu-van-debate",
@@ -4260,6 +5057,67 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-descriptive-essay-on-daily-life-scenes",
+      "term_en": "descriptive essay on daily-life scenes",
+      "term_vi": "Bài văn tả cảnh sinh hoạt",
+      "term_vi_display": "Bài văn tả cảnh sinh hoạt (tả cảnh sinh hoạt)",
+      "aliases_vi": [
+        "tả cảnh sinh hoạt"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A type of descriptive essay depicting a scene of human activity, progressing from introducing and surveying the overall setting (space, time, main activities) to describing specific human actions in vivid language and expressing the writer's personal impressions.",
+      "explanation_vi": "Kiểu bài văn miêu tả tái hiện một cảnh sinh hoạt của con người theo trình tự từ giới thiệu, tả bao quát quang cảnh chung (không gian, thời gian, hoạt động chính) đến tả hoạt động cụ thể bằng từ ngữ sinh động, kết hợp nêu cảm nghĩ của người viết.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 5 (Mục Viết): thực hành viết bài văn tả cảnh sinh hoạt.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 5"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 133",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B5",
+          "section": null,
+          "printed_pages": [
+            133
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5 (Mục Viết), tr. 133",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B5",
+          "section": "Viết",
+          "printed_pages": [
+            133
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5 (Mục Viết), tr. 133, 134",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B5",
+          "section": "Viết",
+          "printed_pages": [
+            133,
+            134
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-devices-for-enhancing-affirmative-quality",
       "term_en": "devices for enhancing affirmative quality",
       "term_vi": "Biện pháp làm tăng tính khẳng định",
@@ -4408,6 +5266,66 @@
           "section": null,
           "printed_pages": [
             111
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-diagrammatic-text-summarization",
+      "term_en": "diagrammatic text summarization",
+      "term_vi": "Tóm tắt văn bản bằng sơ đồ",
+      "term_vi_display": "Tóm tắt văn bản bằng sơ đồ (tóm tắt bằng sơ đồ)",
+      "aliases_vi": [
+        "tóm tắt bằng sơ đồ"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A method of concisely presenting the core content of a text that has been read in the form of a diagram. This practice helps readers quickly grasp key information, oversee relationships among text sections (paragraphs), and readily recall the content of the text.",
+      "explanation_vi": "Phương pháp trình bày ngắn gọn nội dung cốt lõi của một văn bản đã đọc dưới dạng sơ đồ. Hoạt động này giúp người đọc nắm bắt nhanh những thông tin chủ yếu, bao quát mối quan hệ giữa các bộ phận (các đoạn) và ghi nhớ nội dung văn bản dễ dàng.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 9 (Mục Viết): thực hành tóm tắt bằng sơ đồ nội dung chính của một văn bản đơn giản đã đọc.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 89",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            89
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9 (Mục 1), tr. 104",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": "1",
+          "printed_pages": [
+            104
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9 (Mục 2), tr. 104",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": "2",
+          "printed_pages": [
+            104
           ]
         }
       ],
@@ -5501,6 +6419,113 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-event-recounting-informational-text",
+      "term_en": "event-recounting informational text",
+      "term_vi": "Văn bản thông tin thuật lại một sự kiện",
+      "term_vi_display": "Văn bản thông tin thuật lại một sự kiện",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A subtype of informational text used to present an event directly witnessed or attended by the writer, in which the progression of the event is typically arranged in chronological order.",
+      "explanation_vi": "Tiểu loại văn bản thông tin dùng để trình bày lại một sự kiện mà người viết trực tiếp chứng kiến hoặc tham gia, trong đó diễn biến của sự kiện thường được sắp xếp theo trình tự thời gian.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 6 (Mục Tri thức ngữ văn): nhận biết cách triển khai thông tin sự kiện theo trật tự thời gian.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 6"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 5",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": null,
+          "printed_pages": [
+            5
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 5, 6",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": null,
+          "printed_pages": [
+            5,
+            6
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-evidence",
+      "term_en": "evidence",
+      "term_vi": "Bằng chứng",
+      "term_vi_display": "Bằng chứng",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "Examples drawn from real life or other sources to substantiate reasoning in an argumentative text.",
+      "explanation_vi": "Những ví dụ được lấy từ thực tế đời sống hoặc từ các nguồn khác để chứng minh cho lí lẽ trong văn bản nghị luận.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 8 (Mục Tri thức ngữ văn): nhận diện và lựa chọn bằng chứng xác thực để tăng sức thuyết phục cho lí lẽ.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 8"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 60",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B8",
+          "section": null,
+          "printed_pages": [
+            60
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 61",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B8",
+          "section": null,
+          "printed_pages": [
+            61
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 61, 62",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B8",
+          "section": null,
+          "printed_pages": [
+            61,
+            62
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-experiencing-character",
       "term_en": "experiencing character",
       "term_vi": "Con người nếm trải",
@@ -5679,6 +6704,67 @@
           "section": null,
           "printed_pages": [
             79
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-expository-text",
+      "term_en": "expository text",
+      "term_vi": "Văn bản thuyết minh",
+      "term_vi_display": "Văn bản thuyết minh (thuyết minh)",
+      "aliases_vi": [
+        "thuyết minh"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A text type belonging to the category of informational texts, primarily used to introduce, present, provide information about, or explain an object, phenomenon, or event.",
+      "explanation_vi": "Kiểu văn bản thuộc loại văn bản thông tin, chủ yếu dùng để giới thiệu, trình bày, cung cấp thông tin hoặc giải thích về một sự vật, hiện tượng hay sự kiện.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 6 (Mục Viết): thực hành viết bài văn thuyết minh thuật lại một sự kiện sinh hoạt văn hoá.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 6"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 16",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": null,
+          "printed_pages": [
+            16
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6 (Mục Viết), tr. 16",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": "Viết",
+          "printed_pages": [
+            16
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6 (Mục Viết), tr. 16, 17",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": "Viết",
+          "printed_pages": [
+            16,
+            17
           ]
         }
       ],
@@ -6120,6 +7206,67 @@
       "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
+      "id": "ngu-van-fairy-tale",
+      "term_en": "fairy tale",
+      "term_vi": "Truyện cổ tích",
+      "term_vi_display": "Truyện cổ tích (cổ tích)",
+      "aliases_vi": [
+        "cổ tích"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A genre of folk narrative featuring abundant fictional and marvellous elements that recounts the fates and lives of characters within social relationships. Fairy tales reflect views on reality and express moral concepts, a sense of justice, and the dream of a better life held by working people in the past.",
+      "explanation_vi": "Loại truyện dân gian có nhiều yếu tố hư cấu, kì ảo, kể về số phận và cuộc đời của các nhân vật trong những mối quan hệ xã hội. Truyện cổ tích thể hiện cái nhìn về hiện thực, bộc lộ quan niệm đạo đức, lẽ công bằng và ước mơ về một cuộc sống tốt đẹp hơn của người lao động xưa.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 7 (Mục Tri thức ngữ văn): đọc hiểu các văn bản truyện cổ tích như Thạch Sanh, Cây khế, Vua chích choè, Sọ Dừa.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 7"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B7, tr. 24",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B7",
+          "section": null,
+          "printed_pages": [
+            24
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B7, tr. 25",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B7",
+          "section": null,
+          "printed_pages": [
+            25
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B7, tr. 25, 26",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B7",
+          "section": null,
+          "printed_pages": [
+            25,
+            26
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-fantastic-character",
       "term_en": "fantastic character",
       "term_vi": "Nhân vật kì ảo",
@@ -6235,7 +7382,13 @@
       "origin_discipline": "Ngữ văn",
       "explanation_en": "A distinctive artistic element present across characters, events, and narrative devices, manifested through supernatural traits and powers of characters as well as unpredictable, marvelous occurrences. In chuanqi fiction and modern narratives, it both generates captivating suspense and serves as a vehicle for reflecting and interpreting socio-historical realities.",
       "explanation_vi": "Yếu tố nghệ thuật đặc trưng hiện diện trong nhân vật, sự việc và thủ pháp trần thuật, biểu hiện qua diện mạo, năng lực siêu nhiên của nhân vật cùng sự biến ảo khôn lường của các biến cố. Trong truyện truyền kì và truyện hiện đại, yếu tố này vừa tạo sức lôi cuốn li kì cho cốt truyện, vừa là phương thức phản ánh và lí giải các vấn đề hiện thực xã hội – lịch sử.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Ngữ văn 6 Tập 2",
+          "explanation_en": "Extraordinary, marvellous, and non-factual details created within a literary work. In legends, fantastic elements appear prominently to glorify and idealize heroic characters and their feats.",
+          "explanation_vi": "Những chi tiết lạ lùng, phi thường và không có thật trong thực tế được sáng tạo trong tác phẩm văn học. Trong truyền thuyết, yếu tố kì ảo xuất hiện đậm nét nhằm tôn vinh, lí tưởng hoá nhân vật anh hùng và chiến công của họ."
+        }
+      ],
       "contexts": [
         {
           "raw": "Ngữ văn lớp 12, Bài 4 (Mục Tri thức ngữ văn): Phân tích vai trò và ý nghĩa biểu đạt của cái kì ảo trong truyện truyền kì và truyện ngắn hiện đại.",
@@ -6244,6 +7397,14 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 4"
+        },
+        {
+          "raw": "Ngữ văn lớp 6, Bài 6 (Mục Tri thức ngữ văn): phân tích vai trò của các chi tiết kì ảo trong truyền thuyết và truyện cổ tích.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 6"
         }
       ],
       "disambiguation_notes": [],
@@ -6280,6 +7441,40 @@
           "section": null,
           "printed_pages": [
             93
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 5",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": null,
+          "printed_pages": [
+            5
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 5, 6",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": null,
+          "printed_pages": [
+            5,
+            6
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6 (Mục 3), tr. 21",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": "3",
+          "printed_pages": [
+            21
           ]
         }
       ],
@@ -6353,7 +7548,13 @@
       "origin_discipline": "Ngữ văn",
       "explanation_en": "A mode of verbal creation built on the principle of using artistic imagination to construct a holistic representation of human beings and life. Even in nonfiction genres such as documentary narratives, restrained fictional elements may appear through the arrangement of material and the imaginative portrayal of characters' inner states.",
       "explanation_vi": "Loại sáng tác ngôn từ được xây dựng theo nguyên tắc vận dụng trí tưởng tượng nghệ thuật để kiến tạo hình ảnh toàn vẹn về con người và đời sống. Trong các thể loại phi hư cấu như truyện kí, yếu tố hư cấu vẫn có thể xuất hiện một cách tiết chế qua việc tổ chức tư liệu và hình dung diễn biến tâm lí nhân vật.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Ngữ văn 6 Tập 2",
+          "explanation_en": "A mode of artistic creation in literature based primarily on the creator's imagination.",
+          "explanation_vi": "Phương thức sáng tạo nghệ thuật trong văn học chủ yếu dựa trên trí tưởng tượng của người sáng tác."
+        }
+      ],
       "contexts": [
         {
           "raw": "Ngữ văn lớp 11, Bài 7 (Mục Tri thức ngữ văn): Đối sánh với phi hư cấu và nhận diện vai trò của tưởng tượng nghệ thuật được tiết chế trong truyện kí.",
@@ -6362,6 +7563,14 @@
           ],
           "grade": 11,
           "lesson_ref": "Bài 7"
+        },
+        {
+          "raw": "Ngữ văn lớp 6, Bài 6 (Mục Tri thức ngữ văn): nhận biết vai trò của tưởng tượng và hư cấu trong truyền thuyết và truyện cổ tích.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 6"
         }
       ],
       "disambiguation_notes": [],
@@ -6399,6 +7608,40 @@
             34,
             35
           ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            130
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130, 131",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            130,
+            131
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 131",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            131
+          ]
         }
       ],
       "markdown_file": "Tu-dien-Ngu-van.md"
@@ -6412,7 +7655,13 @@
       "origin_discipline": "Ngữ văn",
       "explanation_en": "A narrative figure identified through the self-referential pronoun \"I\" or an equivalent expression, participating as a main or minor character, an eyewitness, or a reteller of a heard story. This narrator typically possesses a limited perspective, except when appearing as an overt author figure exercising omniscient authority.",
       "explanation_vi": "Hình tượng người kể chuyện lộ diện qua đại từ tự xưng \"tôi\" hoặc từ ngữ tương đương, trực tiếp tham gia vào câu chuyện với tư cách nhân vật, người chứng kiến hay người thuật lại chuyện nghe kể. Kiểu người kể này thường có tầm bao quát hạn tri, ngoại trừ trường hợp xuất hiện trong vai trò tác giả lộ diện nắm quyền năng biết hết.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Ngữ văn 6 Tập 1",
+          "explanation_en": "A narrator who appears directly in the work, using the first-person pronoun \"I\" to recount events directly witnessed or experienced.",
+          "explanation_vi": "Người kể chuyện trực tiếp xuất hiện trong tác phẩm, xưng \"tôi\" để kể lại những sự việc mà mình trực tiếp chứng kiến hoặc tham gia."
+        }
+      ],
       "contexts": [
         {
           "raw": "Ngữ văn lớp 10, Bài 7 (Mục Tri thức ngữ văn): Phân tích ngôi kể và phạm vi điểm nhìn trong truyện ngắn Một chuyện đùa nho nhỏ và Chiếc lược ngà.",
@@ -6421,6 +7670,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 7"
+        },
+        {
+          "raw": "Ngữ văn lớp 6, Bài 1 (Mục Tri thức ngữ văn): nhận biết ngôi kể thứ nhất trong truyện đồng thoại, bài văn kể trải nghiệm và du kí.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 1"
         }
       ],
       "disambiguation_notes": [
@@ -6459,6 +7716,158 @@
           "section": null,
           "printed_pages": [
             69
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            11
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11, 12",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            11,
+            12
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1 (Mục Viết), tr. 32",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": "Viết",
+          "printed_pages": [
+            32
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-folk-author",
+      "term_en": "folk author",
+      "term_vi": "Tác giả dân gian",
+      "term_vi_display": "Tác giả dân gian",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "The collective body of creators who compose and recreate works of folk literature across multiple historical periods.",
+      "explanation_vi": "Tập thể những người sáng tác và tái tạo các tác phẩm văn học dân gian qua nhiều thời kì lịch sử.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 6 (Mục Tri thức ngữ văn): nhận biết quan điểm, thái độ của nhân dân gửi gắm qua các tác phẩm truyện dân gian.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 6"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            130
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130, 131",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            130,
+            131
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 5",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": null,
+          "printed_pages": [
+            5
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-folk-lyric-poetry",
+      "term_en": "folk lyric poetry",
+      "term_vi": "Ca dao",
+      "term_vi_display": "Ca dao",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A genre of folk lyric poetry (often constituting the verbal lyrics of folk songs) that expresses the emotional and spiritual life of common people through simple, clear language close to everyday speech.",
+      "explanation_vi": "Thể loại thơ trữ tình dân gian (thường là phần lời của các bài dân ca), biểu hiện đời sống tâm hồn, tình cảm của người bình dân bằng ngôn ngữ giản dị, trong sáng, gần gũi với lời ăn tiếng nói hằng ngày của nhân dân lao động.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 4 (Mục Đọc văn bản): đọc hiểu chùm ca dao về quê hương đất nước.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 96",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            96
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 98",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            98
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 98, 99",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            98,
+            99
           ]
         }
       ],
@@ -6754,6 +8163,66 @@
           "section": null,
           "printed_pages": [
             90
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-functional-text",
+      "term_en": "functional text",
+      "term_vi": "Văn bản nhật dụng",
+      "term_vi_display": "Văn bản nhật dụng",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A type of text primarily used to fulfill everyday communicative needs.",
+      "explanation_vi": "Loại văn bản chủ yếu dùng để đáp ứng nhu cầu giao tiếp hằng ngày.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 9 (Mục Viết): nhận biết mục đích giao tiếp của nhóm văn bản thông dụng hằng ngày thông qua thực hành viết biên bản.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [
+        "Trong SGK Ngữ văn 6 GDPT 2018, 'văn bản nhật dụng' ('functional text') chỉ nhóm văn bản phục vụ giao tiếp công việc, sinh hoạt hằng ngày (như biên bản), phân biệt với cách dùng trong chương trình cũ chỉ các văn bản bàn về chủ đề bức thiết của đời sống."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 131",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            131
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 101",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            101
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 129",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            129
           ]
         }
       ],
@@ -7319,6 +8788,65 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-homonym",
+      "term_en": "homonym",
+      "term_vi": "Từ đồng âm",
+      "term_vi_display": "Từ đồng âm",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "Words that share an identical phonetic form but have completely unrelated meanings with no semantic connection.",
+      "explanation_vi": "Những từ có hình thức âm thanh giống nhau nhưng có nghĩa hoàn toàn khác xa nhau, không có mối liên hệ nào về nghĩa.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 4 (Mục Thực hành tiếng Việt): nhận diện từ đồng âm và phân biệt với từ đa nghĩa.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            97
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97, 98",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            97,
+            98
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 101",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            101
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-iliad-and-odyssey",
       "term_en": "Iliad and Odyssey",
       "term_vi": "I-li-át và Ô-đi-xê",
@@ -7695,6 +9223,11 @@
           "source_label": "SGK Ngữ văn 12 Tập 2",
           "explanation_en": "A text type whose primary purpose is to provide new, reliable information about objects and phenomena based on rich, accurate, and objective data. In an informational text, the author's stance, attitude, and viewpoint are conveyed indirectly through the selection, organization, presentation, analysis, and evaluation of data.",
           "explanation_vi": "Loại văn bản lấy việc cung cấp thông tin mới, đáng tin cậy về sự vật, hiện tượng làm mục đích chính, dựa trên hệ thống dữ liệu phong phú, chính xác và khách quan. Trong văn bản thông tin, lập trường, thái độ và quan điểm của tác giả thường bộc lộ gián tiếp qua cách chọn lọc, sắp xếp, trình bày, phân tích và đánh giá dữ liệu."
+        },
+        {
+          "source_label": "SGK Ngữ văn 6 Tập 2",
+          "explanation_en": "A category of text whose primary function is to provide information about objects, phenomena, or events.",
+          "explanation_vi": "Loại văn bản có chức năng chủ yếu là cung cấp thông tin về các sự vật, hiện tượng hoặc sự kiện."
         }
       ],
       "contexts": [
@@ -7713,6 +9246,14 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 8"
+        },
+        {
+          "raw": "Ngữ văn lớp 6, Bài 6 (Mục Tri thức ngữ văn): đọc hiểu và tạo lập văn bản thông tin.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 6"
         }
       ],
       "disambiguation_notes": [],
@@ -7783,6 +9324,101 @@
           "section": null,
           "printed_pages": [
             64
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 5",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": null,
+          "printed_pages": [
+            5
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 5, 6",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": null,
+          "printed_pages": [
+            5,
+            6
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6 (Mục Viết), tr. 16",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": "Viết",
+          "printed_pages": [
+            16
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-inner-world",
+      "term_en": "inner world",
+      "term_vi": "Thế giới nội tâm",
+      "term_vi_display": "Thế giới nội tâm (thế giới nội tâm của nhân vật)",
+      "aliases_vi": [
+        "thế giới nội tâm của nhân vật"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "The entirety of emotions, feelings, and thoughts occurring within the mind and soul of a character in a literary work.",
+      "explanation_vi": "Toàn bộ những cảm xúc, tình cảm và suy nghĩ diễn ra bên trong tâm hồn của nhân vật trong tác phẩm văn học.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 3 (Mục Tri thức ngữ văn): cảm nhận đời sống tâm hồn, tình cảm của nhân vật trong truyện.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66, 67",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66,
+            67
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 147",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            147
           ]
         }
       ],
@@ -8157,6 +9793,65 @@
       "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
+      "id": "ngu-van-legend",
+      "term_en": "legend",
+      "term_vi": "Truyền thuyết",
+      "term_vi_display": "Truyền thuyết",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A genre of folk narrative that recounts events and figures more or less connected to history through imagination and artistic fictionalization. Such works typically narrate the lives and heroic feats of historical figures or explain the origins of local customs and products from the perspective of folk authors.",
+      "explanation_vi": "Thể loại truyện dân gian kể về các sự kiện và nhân vật ít nhiều có liên quan đến lịch sử thông qua sự tưởng tượng, hư cấu. Tác phẩm thường kể lại cuộc đời, chiến công của người anh hùng hoặc lí giải nguồn gốc phong tục, sản vật địa phương theo quan điểm của tác giả dân gian.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 6 (Mục Tri thức ngữ văn): đọc hiểu các truyền thuyết dân gian Việt Nam về người anh hùng và nguồn gốc văn hoá.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 6"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 4",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": null,
+          "printed_pages": [
+            4
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 5",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": null,
+          "printed_pages": [
+            5
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 5, 6",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": null,
+          "printed_pages": [
+            5,
+            6
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-legend-of-the-dragon-s-children-and-fairy-s-grandchildren",
       "term_en": "Legend of the Dragon's Children and Fairy's Grandchildren",
       "term_vi": "Truyền thuyết Con Rồng cháu Tiên",
@@ -8370,6 +10065,59 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-literary-argumentation",
+      "term_en": "literary argumentation",
+      "term_vi": "Nghị luận văn học",
+      "term_vi_display": "Nghị luận văn học (văn bản nghị luận văn học; bài nghị luận văn học)",
+      "aliases_vi": [
+        "văn bản nghị luận văn học",
+        "bài nghị luận văn học"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A subgenre of argumentative writing that addresses literary topics—such as authors, works, or genres—and uses reasoning and evidence to clarify those topics. In literary argumentation, reasoning consists of the writer's specific observations on the literary issue, while evidence is typically drawn from literary works.",
+      "explanation_vi": "Một loại văn nghị luận bàn về các vấn đề văn học như tác giả, tác phẩm, thể loại và sử dụng lí lẽ cùng bằng chứng để làm sáng tỏ vấn đề đó. Trong nghị luận văn học, lí lẽ là những nhận xét cụ thể của người viết về vấn đề văn học, còn bằng chứng thường lấy từ tác phẩm văn học.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 10 (Mục Thách thức đầu tiên): nhận biết đặc điểm của văn bản nghị luận văn học bàn về tác giả và tác phẩm.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 10"
+        }
+      ],
+      "disambiguation_notes": [
+        "Trong chương trình Ngữ văn phổ thông Việt Nam, 'nghị luận văn học' ('literary argumentation') là phân loại văn nghị luận song hành với 'nghị luận xã hội', gần gũi nhưng rộng hơn 'phê bình văn học' ('literary criticism') chuyên sâu."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B10 (Mục 3), tr. 116",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B10",
+          "section": "3",
+          "printed_pages": [
+            116
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B10 (Mục 3), tr. 116, 117",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B10",
+          "section": "3",
+          "printed_pages": [
+            116,
+            117
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-literary-character",
       "term_en": "literary character",
       "term_vi": "Nhân vật",
@@ -8534,7 +10282,13 @@
       "origin_discipline": "Ngữ văn",
       "explanation_en": "A family of nonfiction prose genres and subgenres capable of integrating narrative, descriptive, expressive, argumentative, and informative modes to portray socially significant realities and directly express the author's reflections. Depending on communicative purpose, the prominence of the authorial self, and expressive organization, it encompasses subgenres such as lyric essays, prose sketches, reportage, chronicles, documentary narratives, memoirs, diaries, and travelogues.",
       "explanation_vi": "Nhóm các thể và tiểu loại văn xuôi phi hư cấu có khả năng dung hợp các phương thức tự sự, miêu tả, biểu cảm, nghị luận và thông tin nhằm tái hiện những trạng thái đời sống được xã hội quan tâm và bộc lộ trực tiếp cảm nghĩ của tác giả. Tuỳ theo mục đích, mức độ thể hiện cái tôi tác giả và cách tổ chức phương tiện biểu đạt, thể loại này bao gồm các tiểu loại như tuỳ bút, tản văn, phóng sự, kí sự, truyện kí, hồi kí, nhật kí và du kí.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Ngữ văn 6 Tập 1",
+          "explanation_en": "A literary genre focused on recording real events and people, combining factual information with the expression of the writer's emotions and reflections.",
+          "explanation_vi": "Thể loại văn học chú trọng ghi chép sự thực về con người và sự việc, kết hợp cung cấp thông tin với việc thể hiện cảm xúc, suy nghĩ của người viết."
+        }
+      ],
       "contexts": [
         {
           "raw": "Ngữ văn lớp 11, Bài 7 (Mục Tri thức ngữ văn): Nhận diện đặc trưng thể loại chung của nhóm văn xuôi kí trước khi đọc hiểu tuỳ bút, tản văn và truyện kí.",
@@ -8543,6 +10297,14 @@
           ],
           "grade": 11,
           "lesson_ref": "Bài 7"
+        },
+        {
+          "raw": "Ngữ văn lớp 6, Bài 5 (Mục Tri thức ngữ văn): nhận diện đặc trưng thể loại kí trong văn học.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 5"
         }
       ],
       "disambiguation_notes": [
@@ -8581,6 +10343,99 @@
           "section": null,
           "printed_pages": [
             34
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 118",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B5",
+          "section": null,
+          "printed_pages": [
+            118
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 119",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B5",
+          "section": null,
+          "printed_pages": [
+            119
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 119, 120",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B5",
+          "section": null,
+          "printed_pages": [
+            119,
+            120
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-literary-text",
+      "term_en": "literary text",
+      "term_vi": "Văn bản văn học",
+      "term_vi_display": "Văn bản văn học",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A major category of text whose primary function is aesthetic in serving human communicative needs, distinguished from informational texts (informational function) and argumentative texts (persuasive function).",
+      "explanation_vi": "Loại văn bản đảm nhiệm chức năng chính là chức năng thẩm mĩ nhằm đáp ứng nhu cầu giao tiếp của con người, phân biệt với văn bản thông tin (chức năng thông tin) và văn bản nghị luận (chức năng thuyết phục).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 9 (Mục Thực hành tiếng Việt): phân biệt văn bản văn học với văn bản thông tin và văn bản nghị luận dựa vào chức năng chính.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 94",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            94
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 94, 95",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            94,
+            95
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9 (Mục 3), tr. 108",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": "3",
+          "printed_pages": [
+            108
           ]
         }
       ],
@@ -8645,6 +10500,66 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-loanword",
+      "term_en": "loanword",
+      "term_vi": "Từ mượn",
+      "term_vi_display": "Từ mượn",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A word originating from another language, adopted through linguistic contact and exchange among peoples to enrich the lexicon.",
+      "explanation_vi": "Từ có nguồn gốc từ một ngôn ngữ khác, hình thành qua quá trình tiếp xúc, giao lưu ngôn ngữ giữa các dân tộc nhằm làm giàu vốn từ.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 9 (Mục Tri thức ngữ văn; Thực hành tiếng Việt): nhận biết và sử dụng phù hợp các từ mượn tiếng Hán, tiếng Pháp, tiếng Anh trong giao tiếp.",
+          "disciplines": [
+            "Ngữ văn",
+            "Tiếng Anh"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 89",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            89
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 89, 90",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            89,
+            90
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 99",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            99
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-logically-flawed-sentence",
       "term_en": "logically flawed sentence",
       "term_vi": "Câu mắc lỗi logic",
@@ -8698,6 +10613,68 @@
           "section": null,
           "printed_pages": [
             78
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-luc-bat-verse",
+      "term_en": "luc bat verse",
+      "term_vi": "Thể thơ lục bát",
+      "term_vi_display": "Thể thơ lục bát (thơ lục bát; lục bát)",
+      "aliases_vi": [
+        "thơ lục bát",
+        "lục bát"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A poetic form (6–8 meter) in which lines are arranged in couplets consisting of a six-syllable line followed by an eight-syllable line.",
+      "explanation_vi": "Thể thơ (6 – 8) có các dòng thơ sắp xếp thành từng cặp, gồm một dòng sáu tiếng (câu lục) kết hợp với một dòng tám tiếng (câu bát).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 4 (Mục Tri thức ngữ văn): đọc hiểu ca dao, thơ lục bát và thực hành tập làm thơ lục bát.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            97
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97, 98",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            97,
+            98
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 100",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            100
           ]
         }
       ],
@@ -9018,6 +10995,65 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-main-sentence-constituents",
+      "term_en": "main sentence constituents",
+      "term_vi": "Thành phần chính của câu",
+      "term_vi_display": "Thành phần chính của câu",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "The core grammatical components forming a sentence (subject and predicate), which may be realized by a single word or a phrase. Using phrases as main constituents enables a sentence to convey richer information to readers and listeners.",
+      "explanation_vi": "Những bộ phận cốt lõi cấu tạo nên câu (chủ ngữ, vị ngữ), có thể đảm nhận bởi một từ hoặc một cụm từ. Việc dùng cụm từ làm thành phần chính giúp câu cung cấp nhiều thông tin hơn cho người đọc, người nghe.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 3 (Mục Thực hành tiếng Việt): mở rộng chủ ngữ và vị ngữ của câu bằng cụm từ.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66, 67",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66,
+            67
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 73",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            73
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-main-theme",
       "term_en": "main theme",
       "term_vi": "Chủ đề chính",
@@ -9197,6 +11233,67 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-metaphor",
+      "term_en": "metaphor",
+      "term_vi": "Ẩn dụ",
+      "term_vi_display": "Ẩn dụ (biện pháp tu từ ẩn dụ)",
+      "aliases_vi": [
+        "biện pháp tu từ ẩn dụ"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A rhetorical device that names one object or phenomenon using the name of another sharing similar traits, thereby enhancing evocative imagery and emotional expressiveness.",
+      "explanation_vi": "Biện pháp tu từ gọi tên sự vật, hiện tượng này bằng tên sự vật, hiện tượng khác có nét tương đồng với nó nhằm tăng khả năng gợi hình, gợi cảm cho sự diễn đạt.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 2 (Mục Thực hành tiếng Việt): nhận biết và phân tích tác dụng của phép ẩn dụ trong văn bản.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 2"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B2, tr. 43",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B2",
+          "section": null,
+          "printed_pages": [
+            43
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B2, tr. 43, 44",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B2",
+          "section": null,
+          "printed_pages": [
+            43,
+            44
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B2, tr. 52",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B2",
+          "section": null,
+          "printed_pages": [
+            52
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-methods-of-defining-word-meaning",
       "term_en": "methods of defining word meaning",
       "term_vi": "Cách giải thích nghĩa của từ",
@@ -9256,6 +11353,67 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-metonymy",
+      "term_en": "metonymy",
+      "term_vi": "Hoán dụ",
+      "term_vi_display": "Hoán dụ (biện pháp tu từ hoán dụ)",
+      "aliases_vi": [
+        "biện pháp tu từ hoán dụ"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A rhetorical device that uses words denoting one object or phenomenon to name another closely associated with it by contiguity (such as part for whole, container for contained, or tool for profession), thereby enhancing evocative imagery and expressiveness.",
+      "explanation_vi": "Biện pháp tu từ dùng từ ngữ vốn chỉ sự vật, hiện tượng này để gọi tên sự vật, hiện tượng khác có mối quan hệ tương cận (như bộ phận – toàn thể, vật chứa – vật được chứa, công cụ – nghề nghiệp) nhằm tăng khả năng gợi hình, gợi cảm cho sự diễn đạt.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 4 (Mục Thực hành tiếng Việt): nhận biết phép hoán dụ và phân biệt với phép ẩn dụ.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            97
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97, 98",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            97,
+            98
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 108",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            108
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-ming-qing-novels",
       "term_en": "Ming-Qing novels",
       "term_vi": "Tiểu thuyết thời Minh – Thanh",
@@ -9287,6 +11445,67 @@
           "section": "3.b",
           "printed_pages": [
             45
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-minutes",
+      "term_en": "minutes",
+      "term_vi": "Biên bản",
+      "term_vi_display": "Biên bản",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A type of functional text used to record an incident, meeting, or discussion fully, accurately, and objectively as it occurred. Minutes must follow a prescribed format comprising an opening section, a main body presenting proceedings in logical order, and a closing section stating the end time along with the full names and signatures of responsible parties.",
+      "explanation_vi": "Một loại văn bản nhật dụng dùng để ghi chép đầy đủ, chính xác, khách quan về một vụ việc hoặc một cuộc họp, cuộc thảo luận đã diễn ra. Biên bản đòi hỏi được viết theo đúng thể thức quy định, gồm phần mở đầu, phần chính trình bày nội dung theo trình tự hợp lí và phần kết ghi thời gian kết thúc cùng họ tên, chữ kí của người có trách nhiệm.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 9 (Mục Viết): thực hành viết biên bản một cuộc họp hoặc cuộc thảo luận đúng thể thức và khách quan.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [
+        "Trong tiếng Anh, 'minutes' chủ yếu chỉ biên bản cuộc họp, thảo luận; thuật ngữ tiếng Việt 'biên bản' còn bao hàm cả văn bản ghi nhận vụ việc hoặc hiện trường ('official record' / 'procès-verbal')."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 101",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            101
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 101, 102",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            101,
+            102
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 102",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            102
           ]
         }
       ],
@@ -9661,6 +11880,65 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-modified-luc-bat-verse",
+      "term_en": "modified luc bat verse",
+      "term_vi": "Lục bát biến thể",
+      "term_vi_display": "Lục bát biến thể",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A variant form of luc bat verse that does not strictly adhere to standard prosodic rules, introducing modifications in syllable count per line, rhyme placement, tonal arrangement, or rhythmic pausing.",
+      "explanation_vi": "Dạng thể thơ lục bát không hoàn toàn tuân theo luật thơ lục bát thông thường mà có sự biến đổi về số tiếng trong các dòng, cách gieo vần, cách phối thanh hoặc cách ngắt nhịp.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 4 (Mục Tri thức ngữ văn): nhận diện sự biến đổi linh hoạt của thể thơ lục bát trong ca dao và thơ hiện đại.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            97
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97, 98",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            97,
+            98
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 100",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            100
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "hoa-hoc-molecular-structure-of-benzene",
       "term_en": "molecular structure of benzene",
       "term_vi": "Đặc điểm cấu tạo của benzene",
@@ -9779,6 +12057,67 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "ngu-van-monologue",
+      "term_en": "monologue",
+      "term_vi": "Lời độc thoại",
+      "term_vi_display": "Lời độc thoại (độc thoại)",
+      "aliases_vi": [
+        "độc thoại"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "Speech in which a character or person addresses themselves, either silently in thought or spoken aloud.",
+      "explanation_vi": "Lời của nhân vật hoặc một người tự nói với chính mình dưới dạng nghĩ thầm trong đầu hoặc phát ra thành tiếng.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 3 (Mục Tri thức ngữ văn): phân biệt lời độc thoại với lời đối thoại của nhân vật trong truyện.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 148",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            148
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 148, 149",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            148,
+            149
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-multi-thematic-literary-text",
       "term_en": "multi-thematic literary text",
       "term_vi": "Văn bản văn học có nhiều chủ đề",
@@ -9809,6 +12148,65 @@
           "section": null,
           "printed_pages": [
             93,
+            94
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-multimodal-text",
+      "term_en": "multimodal text",
+      "term_vi": "Văn bản đa phương thức",
+      "term_vi_display": "Văn bản đa phương thức",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A type of text that combines linguistic means with non-verbal means such as symbols, diagrams, charts, images, and audio.",
+      "explanation_vi": "Loại văn bản sử dụng phối hợp phương tiện ngôn ngữ với các phương tiện phi ngôn ngữ như kí hiệu, sơ đồ, biểu đồ, hình ảnh, âm thanh.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 9 (Mục Tri thức ngữ văn; Thực hành tiếng Việt): đọc hiểu văn bản thông tin có kết hợp chữ viết với hình ảnh, sơ đồ và số liệu.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 89",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            89
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 89, 90",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            89,
+            90
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 94",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
             94
           ]
         }
@@ -9979,6 +12377,54 @@
           "printed_pages": [
             10,
             11
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-narrative-and-descriptive-elements-in-poetry",
+      "term_en": "narrative and descriptive elements in poetry",
+      "term_vi": "Yếu tố tự sự và miêu tả trong thơ",
+      "term_vi_display": "Yếu tố tự sự và miêu tả trong thơ",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "Details that recount events or stories (narrative) and recreate salient features of objects (descriptive) within a poem. These elements serve as a medium through which the poet expresses emotions and feelings toward life.",
+      "explanation_vi": "Các chi tiết kể lại sự việc, câu chuyện (tự sự) và tái hiện những đặc điểm nổi bật của đối tượng (miêu tả) xuất hiện trong bài thơ. Các yếu tố này đóng vai trò làm phương tiện để nhà thơ bộc lộ tình cảm, cảm xúc trước cuộc sống.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 2 (Mục Tri thức ngữ văn): phân tích tác dụng của yếu tố tự sự và miêu tả trong việc thể hiện cảm xúc của bài thơ.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 2"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B2, tr. 43",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B2",
+          "section": null,
+          "printed_pages": [
+            43
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B2, tr. 43, 44",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B2",
+          "section": null,
+          "printed_pages": [
+            43,
+            44
           ]
         }
       ],
@@ -10213,6 +12659,65 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-narrative-fiction",
+      "term_en": "narrative fiction",
+      "term_vi": "Truyện",
+      "term_vi_display": "Truyện",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A genre of literary work that recounts a story, comprising plot, characters, space, time, and the circumstances in which events take place.",
+      "explanation_vi": "Loại tác phẩm văn học kể lại một câu chuyện, bao gồm các yếu tố cốt truyện, nhân vật, không gian, thời gian và hoàn cảnh diễn ra các sự việc.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 1 (Mục Tri thức ngữ văn): nhận diện thể loại tác phẩm truyện kể.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 1"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            11
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11, 12",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            11,
+            12
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            12
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-narrative-mode",
       "term_en": "narrative mode",
       "term_vi": "Loại hình tự sự",
@@ -10271,6 +12776,65 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-narrative-tone",
+      "term_en": "narrative tone",
+      "term_vi": "Giọng kể",
+      "term_vi_display": "Giọng kể",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "The emotional nuance, attitude, and evaluation woven into narration, recognizable through the use of language.",
+      "explanation_vi": "Sắc thái tình cảm, thái độ và sự đánh giá được lồng vào lời kể, có thể nhận ra qua cách sử dụng ngôn ngữ.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 7 (Mục Nói và nghe): lựa chọn giọng kể phù hợp với diễn biến sự việc và nhân vật khi kể lại truyện cổ tích.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 7"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            130
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130, 131",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            130,
+            131
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B7 (Mục 1), tr. 46",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B7",
+          "section": "1",
+          "printed_pages": [
+            46
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-narrator",
       "term_en": "narrator",
       "term_vi": "Người kể chuyện",
@@ -10279,7 +12843,13 @@
       "origin_discipline": "Ngữ văn",
       "explanation_en": "The agent who recounts the story and guides the audience to perceive the artistic world and reflect on the work's meaning. In folk narrative, this may be a live performer addressing the public; in written literature, it is a persona created by the author.",
       "explanation_vi": "Chủ thể thực hiện việc thuật lại câu chuyện và dẫn dắt người tiếp nhận tri nhận thế giới nghệ thuật cùng ý nghĩa tác phẩm. Trong tự sự dân gian, đó có thể là người trực tiếp diễn xướng trước công chúng; trong văn học viết, đó là vai đại diện do nhà văn sáng tạo ra.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Ngữ văn 6 Tập 1",
+          "explanation_en": "A figure created by the author to recount the story, who may appear directly or remain hidden within the literary work.",
+          "explanation_vi": "Nhân vật do tác giả sáng tạo ra để đảm nhận việc kể lại câu chuyện, có thể xuất hiện trực tiếp hoặc ẩn mình trong tác phẩm."
+        }
+      ],
       "contexts": [
         {
           "raw": "Ngữ văn lớp 10, Bài 1 (Mục Tri thức ngữ văn): phân tích ngôi kể, điểm nhìn và vai trò dẫn dắt người đọc trong tác phẩm truyện kể.",
@@ -10287,6 +12857,14 @@
             "Ngữ văn"
           ],
           "grade": 10,
+          "lesson_ref": "Bài 1"
+        },
+        {
+          "raw": "Ngữ văn lớp 6, Bài 1 (Mục Tri thức ngữ văn): xác định ngôi kể và vai trò của người kể chuyện trong truyện.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
           "lesson_ref": "Bài 1"
         }
       ],
@@ -10324,6 +12902,88 @@
           "section": "3",
           "printed_pages": [
             20
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            11
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11, 12",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            11,
+            12
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            12
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-narrator-in-literary-nonfiction",
+      "term_en": "narrator in literary nonfiction",
+      "term_vi": "Người kể chuyện trong kí",
+      "term_vi_display": "Người kể chuyện trong kí",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "The narrating subject in many subgenres of literary nonfiction, typically the author who directly participates in or witnesses events and may use the first-person \"I\" to recount them chronologically. While narrating, the author integrates personal observations, associations, imagination, thoughts, and feelings regarding the events.",
+      "explanation_vi": "Chủ thể trần thuật trong nhiều tiểu loại kí, thường chính là tác giả trực tiếp tham gia hoặc chứng kiến sự việc và có thể xưng \"tôi\" để kể theo trình tự thời gian. Khi trần thuật, người kể kết hợp trình bày sự quan sát, liên tưởng, tưởng tượng cùng suy nghĩ và cảm xúc cá nhân về sự việc.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 5 (Mục Tri thức ngữ văn): nhận diện vai trò của người kể chuyện ngôi thứ nhất trong văn bản kí.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 5"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 119",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B5",
+          "section": null,
+          "printed_pages": [
+            119
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 119, 120",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B5",
+          "section": null,
+          "printed_pages": [
+            119,
+            120
           ]
         }
       ],
@@ -10392,8 +13052,10 @@
       "id": "ngu-van-narrator-s-speech",
       "term_en": "narrator's speech",
       "term_vi": "Lời người kể chuyện",
-      "term_vi_display": "Lời người kể chuyện",
-      "aliases_vi": [],
+      "term_vi_display": "Lời người kể chuyện (lời người kể)",
+      "aliases_vi": [
+        "lời người kể"
+      ],
       "origin_discipline": "Ngữ văn",
       "explanation_en": "The narrating, descriptive, and commentary language belonging to the narrator in a narrative text, functioning to depict temporal and spatial settings, portray events and characters, and convey evaluative attitudes.",
       "explanation_vi": "Phần ngôn từ trần thuật, miêu tả và bình luận thuộc về người kể chuyện trong văn bản tự sự, đảm nhiệm chức năng tái hiện bối cảnh không gian, thời gian, khắc họa sự việc, nhân vật cũng như bộc lộ thái độ đánh giá của chủ thể kể.",
@@ -10402,6 +13064,11 @@
           "source_label": "SGK Ngữ văn 11 Tập 1",
           "explanation_en": "The verbal component in a narrative text tied to the grammatical person, point of view, consciousness, and tone of the narrator. It functions to describe, narrate, offer judgments and evaluations of the depicted subjects, and guide the reader along the narrative thread.",
           "explanation_vi": "Thành phần ngôn từ trong văn bản tự sự gắn với ngôi kể, điểm nhìn, ý thức và giọng điệu của người kể chuyện. Bộ phận này đảm nhiệm chức năng miêu tả, trần thuật, đưa ra phán đoán, đánh giá về đối tượng và định hướng người đọc theo dõi mạch kể."
+        },
+        {
+          "source_label": "SGK Ngữ văn 6 Tập 1",
+          "explanation_en": "The narrative text responsible for recounting the events of a story, including narrating all actions of the characters to guide the storyline.",
+          "explanation_vi": "Phần lời văn đảm nhận việc thuật lại các sự việc trong câu chuyện, bao gồm cả việc thuật lại mọi hoạt động của nhân vật để dẫn dắt mạch truyện."
         }
       ],
       "contexts": [
@@ -10419,6 +13086,14 @@
             "Ngữ văn"
           ],
           "grade": 11,
+          "lesson_ref": "Bài 1"
+        },
+        {
+          "raw": "Ngữ văn lớp 6, Bài 1 (Mục Tri thức ngữ văn): phân biệt lời người kể chuyện với lời nhân vật trong văn bản truyện.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
           "lesson_ref": "Bài 1"
         }
       ],
@@ -10481,6 +13156,40 @@
           "printed_pages": [
             10,
             11
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            12
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12, 13",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            12,
+            13
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 147",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            147
           ]
         }
       ],
@@ -11032,6 +13741,65 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-non-verbal-means-of-communication",
+      "term_en": "non-verbal means of communication",
+      "term_vi": "Phương tiện giao tiếp phi ngôn ngữ",
+      "term_vi_display": "Phương tiện giao tiếp phi ngôn ngữ",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "Means other than language—such as images, data figures, graphs, tables, symbols, diagrams, and audio—that contribute to expressing meaning in communication.",
+      "explanation_vi": "Các phương tiện ngoài ngôn ngữ như hình ảnh, số liệu, đồ thị, bảng biểu, kí hiệu, sơ đồ, âm thanh góp phần thể hiện ý nghĩa trong giao tiếp.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 9 (Mục Tri thức ngữ văn; Thực hành tiếng Việt): phân tích vai trò biểu đạt ý nghĩa của hình ảnh, sơ đồ và số liệu trong văn bản đa phương thức.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            130
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130, 131",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            130,
+            131
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 128",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            128
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-nonfiction",
       "term_en": "nonfiction",
       "term_vi": "Phi hư cấu",
@@ -11085,6 +13853,65 @@
           "printed_pages": [
             34,
             35
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-noun-phrase",
+      "term_en": "noun phrase",
+      "term_vi": "Cụm danh từ",
+      "term_vi_display": "Cụm danh từ",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A type of phrase headed by a noun, combined with one or more accompanying words that modify that noun.",
+      "explanation_vi": "Loại cụm từ có danh từ làm trung tâm, kết hợp với một hoặc một số từ khác đi kèm để bổ nghĩa cho danh từ đó.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 3 (Mục Thực hành tiếng Việt): phân tích cấu tạo và tác dụng mở rộng thông tin của cụm danh từ.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66, 67",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66,
+            67
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 73",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            73
           ]
         }
       ],
@@ -11395,6 +14222,65 @@
           "section": null,
           "printed_pages": [
             18
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-paragraph",
+      "term_en": "paragraph",
+      "term_vi": "Đoạn văn",
+      "term_vi_display": "Đoạn văn",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A key component of a text that is relatively complete in meaning and form, consisting of multiple sentences (or occasionally a single sentence) unified by a topic and organized around a sub-idea. A paragraph begins with an indented capital letter and ends with a sentence-ending punctuation mark.",
+      "explanation_vi": "Bộ phận quan trọng của văn bản có sự hoàn chỉnh tương đối về ý nghĩa và hình thức, gồm nhiều câu (có khi chỉ một câu) thống nhất về chủ đề và được tổ chức xoay quanh một ý nhỏ. Đoạn văn bắt đầu bằng chữ viết hoa lùi đầu dòng và kết thúc bằng một dấu chấm câu.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 9 (Mục Tri thức ngữ văn; Thực hành tiếng Việt): xác định hình thức, chức năng và ý chính của mỗi đoạn văn trong văn bản.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 88",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            88
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 88, 89",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            88,
+            89
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 93",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            93
           ]
         }
       ],
@@ -11765,6 +14651,65 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-phrase",
+      "term_en": "phrase",
+      "term_vi": "Cụm từ",
+      "term_vi_display": "Cụm từ",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A grammatical unit consisting of a head word combined with one or more dependent modifiers, most notably noun phrases, verb phrases, and adjective phrases. When functioning as a main sentence constituent, a phrase allows the sentence to convey fuller information than a single word.",
+      "explanation_vi": "Tổ hợp gồm từ trung tâm kết hợp với một hoặc một số từ phụ thuộc bổ nghĩa, tiêu biểu là cụm danh từ, cụm động từ và cụm tính từ. Khi đảm nhận vai trò thành phần chính của câu, cụm từ giúp câu cung cấp được nhiều thông tin hơn so với một từ đơn lẻ.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 3 (Mục Tri thức ngữ văn): nhận diện các loại cụm từ và mở rộng thành phần câu bằng cụm từ.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66, 67",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66,
+            67
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 73",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            73
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-plagiarism",
       "term_en": "plagiarism",
       "term_vi": "Đạo văn",
@@ -11832,7 +14777,13 @@
       "origin_discipline": "Ngữ văn",
       "explanation_en": "A structural component of narrative works (such as myths, epics, fairy tales, short stories, and novels) and drama, formed by a single event or a linked sequence of events.",
       "explanation_vi": "Thành tố cấu trúc của tác phẩm tự sự (thần thoại, sử thi, cổ tích, truyện ngắn, tiểu thuyết) và kịch, hình thành từ một sự kiện hoặc một chuỗi sự kiện liên kết với nhau.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Ngữ văn 6 Tập 1",
+          "explanation_en": "A key element of narrative fiction consisting of a sequence of main events with a beginning and an ending, arranged in a specific order (typically chronological order).",
+          "explanation_vi": "Yếu tố quan trọng của truyện kể, gồm chuỗi các sự kiện chính có mở đầu và kết thúc, được sắp xếp theo một trật tự nhất định (thường là trình tự thời gian)."
+        }
+      ],
       "contexts": [
         {
           "raw": "Ngữ văn lớp 10, Bài 1 (Mục Tri thức ngữ văn): nhận diện và phân tích chuỗi sự kiện kiến tạo tác phẩm tự sự, phân biệt với câu chuyện và truyện kể.",
@@ -11840,6 +14791,14 @@
             "Ngữ văn"
           ],
           "grade": 10,
+          "lesson_ref": "Bài 1"
+        },
+        {
+          "raw": "Ngữ văn lớp 6, Bài 1 (Mục Tri thức ngữ văn): tóm lược chuỗi sự kiện chính trong truyện kể.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
           "lesson_ref": "Bài 1"
         }
       ],
@@ -11879,6 +14838,40 @@
           "section": null,
           "printed_pages": [
             10
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            11
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11, 12",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            11,
+            12
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1 (Mục 2), tr. 35",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": "2",
+          "printed_pages": [
+            35
           ]
         }
       ],
@@ -12077,7 +15070,13 @@
       "origin_discipline": "Ngữ văn",
       "explanation_en": "A poetic genre category defined by the unity of a prosodic model and a characteristic type of content, established and maintained across literary history.",
       "explanation_vi": "Hình thức thể loại của tác phẩm thơ kết tinh từ sự thống nhất giữa mô hình thi luật và loại hình nội dung biểu đạt, được định hình và duy trì ổn định qua tiến trình lịch sử văn học.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Ngữ văn 6 Tập 1",
+          "explanation_en": "The structural pattern of a poem characterized by specific conventions regarding the number of syllables per line and the number of lines per poem.",
+          "explanation_vi": "Hình thức tổ chức của bài thơ với những đặc điểm riêng về số tiếng trong mỗi dòng và số câu trong mỗi bài."
+        }
+      ],
       "contexts": [
         {
           "raw": "Ngữ văn lớp 10, Bài 2 (Mục Tri thức ngữ văn): nhận diện đặc điểm thể loại của bài thơ khi đọc hiểu văn bản.",
@@ -12085,6 +15084,14 @@
             "Ngữ văn"
           ],
           "grade": 10,
+          "lesson_ref": "Bài 2"
+        },
+        {
+          "raw": "Ngữ văn lớp 6, Bài 2 (Mục Tri thức ngữ văn): nhận biết đặc điểm hình thức của bài thơ.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
           "lesson_ref": "Bài 2"
         }
       ],
@@ -12122,6 +15129,40 @@
           "section": null,
           "printed_pages": [
             46
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B2, tr. 43",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B2",
+          "section": null,
+          "printed_pages": [
+            43
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B2, tr. 43, 44",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B2",
+          "section": null,
+          "printed_pages": [
+            43,
+            44
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 96",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            96
           ]
         }
       ],
@@ -12181,6 +15222,65 @@
           "section": null,
           "printed_pages": [
             51
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-poetic-language",
+      "term_en": "poetic language",
+      "term_vi": "Ngôn ngữ thơ",
+      "term_vi_display": "Ngôn ngữ thơ",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "The artistic language of poetry characterized by conciseness, rich musicality, and vivid imagery, frequently employing rhetorical devices such as simile, metaphor, and repetition.",
+      "explanation_vi": "Hệ thống ngôn từ nghệ thuật trong thơ mang tính cô đọng, giàu nhạc điệu và hình ảnh, thường sử dụng nhiều biện pháp tu từ như so sánh, ẩn dụ, điệp ngữ.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 2 (Mục Tri thức ngữ văn): phân tích nét độc đáo về từ ngữ, hình ảnh và nhạc điệu trong bài thơ.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 2"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B2, tr. 43",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B2",
+          "section": null,
+          "printed_pages": [
+            43
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B2, tr. 43, 44",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B2",
+          "section": null,
+          "printed_pages": [
+            43,
+            44
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B2, tr. 47",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B2",
+          "section": null,
+          "printed_pages": [
+            47
           ]
         }
       ],
@@ -12310,12 +15410,21 @@
       "id": "ngu-van-poetic-rhythm",
       "term_en": "poetic rhythm",
       "term_vi": "Nhịp điệu",
-      "term_vi_display": "Nhịp điệu",
-      "aliases_vi": [],
+      "term_vi_display": "Nhịp điệu (Nhịp; nhịp thơ)",
+      "aliases_vi": [
+        "Nhịp",
+        "nhịp thơ"
+      ],
       "origin_discipline": "Ngữ văn",
       "explanation_en": "The pattern of periodic pauses or breaks deliberately arranged in a text, combining varied repetition of linguistic elements and imagery to evoke the movement of life and convey aesthetic perception.",
       "explanation_vi": "Hệ thống những điểm ngắt hoặc ngừng theo chu kì trên văn bản do tác giả chủ động bố trí, kết hợp sự lặp lại có biến đổi của các yếu tố ngôn ngữ và hình ảnh nhằm gợi nhịp vận động của sự sống và biểu đạt cảm nhận thẩm mĩ.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Ngữ văn 6 Tập 1",
+          "explanation_en": "The pattern of rhythmic pauses dividing syllable groups within a poetic line to create cadence; luc bat verse typically uses even-numbered rhythm patterns such as 2/2/2, 2/4, or 4/4.",
+          "explanation_vi": "Cách ngắt quãng hơi theo từng cụm tiếng trong dòng thơ để tạo tiết tấu; riêng thơ lục bát thường ngắt nhịp chẵn như 2/2/2, 2/4 hoặc 4/4."
+        }
+      ],
       "contexts": [
         {
           "raw": "Ngữ văn lớp 10, Bài 2 (Mục Tri thức ngữ văn): phân tích cách ngắt nhịp và sự vận động của mạch cảm xúc trong bài thơ.",
@@ -12324,10 +15433,19 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 2"
+        },
+        {
+          "raw": "Ngữ văn lớp 6, Bài 4 (Mục Tri thức ngữ văn): nhận xét cách ngắt nhịp chẵn và biến đổi nhịp trong ca dao, thơ lục bát.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 4"
         }
       ],
       "disambiguation_notes": [
-        "Phân biệt với nhạc điệu (tổng hoà hiệu ứng âm hưởng tạo nên từ vần, nhịp, điệp và phối thanh bằng – trắc)."
+        "Phân biệt với nhạc điệu (tổng hoà hiệu ứng âm hưởng tạo nên từ vần, nhịp, điệp và phối thanh bằng – trắc).",
+        "Trong Bài 4 Ngữ văn 6, khái niệm nhịp được minh hoạ trọng tâm qua cách ngắt nhịp chẵn của thể thơ lục bát."
       ],
       "sources": [
         {
@@ -12363,6 +15481,40 @@
             44,
             45
           ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            97
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97, 98",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            97,
+            98
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 98",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            98
+          ]
         }
       ],
       "markdown_file": "Tu-dien-Ngu-van.md"
@@ -12376,7 +15528,13 @@
       "origin_discipline": "Ngữ văn",
       "explanation_en": "A literary mode that organizes language according to a specific prosodic pattern or rhythm to highlight the interplay between sound and meaning. Through this distinctive verbal form, it expresses intense emotions or subtle impressions and feelings toward the world.",
       "explanation_vi": "Loại hình sáng tác văn học tổ chức ngôn từ theo mô hình thi luật hoặc nhịp điệu nhất định nhằm làm nổi bật sự gắn kết giữa âm điệu và ý nghĩa. Qua hình thức ngôn từ đặc thù đó, tác phẩm diễn tả những tình cảm mãnh liệt hoặc ấn tượng, xúc động tinh tế của con người trước thế giới.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Ngữ văn 6 Tập 1",
+          "explanation_en": "A literary genre characterized by a special organization of language distinct from everyday communication, governed by specific conventions of rhyme, rhythm, syllables per line, and lines per poem to express emotions and feelings toward life.",
+          "explanation_vi": "Thể loại văn học có cách tổ chức ngôn ngữ đặc biệt khác với giao tiếp thông thường, tuân theo những quy định riêng về vần điệu, nhịp điệu, số tiếng trong dòng, số câu trong bài nhằm bộc lộ tình cảm, cảm xúc trước cuộc sống."
+        }
+      ],
       "contexts": [
         {
           "raw": "Ngữ văn lớp 10, Bài 2 (Mục Tri thức ngữ văn): nắm vững khái niệm nền tảng để đọc hiểu và phân tích tác phẩm thi ca.",
@@ -12384,6 +15542,14 @@
             "Ngữ văn"
           ],
           "grade": 10,
+          "lesson_ref": "Bài 2"
+        },
+        {
+          "raw": "Ngữ văn lớp 6, Bài 2 (Mục Tri thức ngữ văn): đọc hiểu các tác phẩm thơ viết về tình cảm gia đình và quê hương.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
           "lesson_ref": "Bài 2"
         }
       ],
@@ -12421,6 +15587,39 @@
           "section": null,
           "printed_pages": [
             44
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 148",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            148
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 149",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            149
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B2, tr. 42",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B2",
+          "section": null,
+          "printed_pages": [
+            42
           ]
         }
       ],
@@ -12645,6 +15844,65 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-polysemous-word",
+      "term_en": "polysemous word",
+      "term_vi": "Từ đa nghĩa",
+      "term_vi_display": "Từ đa nghĩa",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A word possessing two or more meanings that are semantically related to one another.",
+      "explanation_vi": "Từ có hai hoặc nhiều hơn hai nghĩa, trong đó các nghĩa này có mối liên hệ nhất định với nhau.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 4 (Mục Thực hành tiếng Việt): nhận diện mối liên hệ giữa các nghĩa của từ đa nghĩa và phân biệt với từ đồng âm.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            97
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97, 98",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            97,
+            98
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 101",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            101
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-polysemy",
       "term_en": "polysemy",
       "term_vi": "Tính đa nghĩa",
@@ -12687,6 +15945,64 @@
           "printed_pages": [
             55,
             56
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-poster",
+      "term_en": "poster",
+      "term_vi": "Pô-xtơ",
+      "term_vi_display": "Pô-xtơ",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A display piece featuring large lettering on paper, cardboard, or wood combined with suitable layout design and illustrations to introduce or promote a product.",
+      "explanation_vi": "Bản trình bày bằng chữ to trên giấy, bìa hoặc gỗ kết hợp với hình thức thiết kế và hình vẽ phù hợp nhằm giới thiệu hoặc quảng bá một sản phẩm.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 10 (Mục Thách thức đầu tiên): thiết kế pô-xtơ giới thiệu và quảng bá cuốn sách yêu thích.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 10"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B10, tr. 115",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B10",
+          "section": null,
+          "printed_pages": [
+            115
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B10 (Mục 1), tr. 115",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B10",
+          "section": "1",
+          "printed_pages": [
+            115
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B10 (Mục 2), tr. 115",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B10",
+          "section": "2",
+          "printed_pages": [
+            115
           ]
         }
       ],
@@ -12908,6 +16224,58 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-protagonist",
+      "term_en": "protagonist",
+      "term_vi": "Nhân vật chính diện",
+      "term_vi_display": "Nhân vật chính diện (chính diện)",
+      "aliases_vi": [
+        "chính diện"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A character belonging to the good, virtuous alignment within the two character lines of fairy tales, representing good people in society.",
+      "explanation_vi": "Nhân vật thuộc tuyến tốt, thiện trong hai tuyến nhân vật của truyện cổ tích, đại diện cho kiểu người tốt trong xã hội.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 7 (Mục Tri thức ngữ văn): phân tích tuyến nhân vật thiện như Thạch Sanh, người em, Sọ Dừa trong truyện cổ tích.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 7"
+        }
+      ],
+      "disambiguation_notes": [
+        "Trong tự sự học tiếng Anh, 'protagonist' thường chỉ nhân vật trung tâm của cốt truyện; trong truyện cổ tích ở Ngữ văn 6, 'nhân vật chính diện' nhấn mạnh phẩm chất đạo đức tốt, thiện đối lập với tuyến nhân vật phản diện."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B7, tr. 25",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B7",
+          "section": null,
+          "printed_pages": [
+            25
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B7, tr. 25, 26",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B7",
+          "section": null,
+          "printed_pages": [
+            25,
+            26
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-public-space-guidelines",
       "term_en": "public space guidelines",
       "term_vi": "Bản hướng dẫn nơi công cộng",
@@ -12961,6 +16329,65 @@
           "section": null,
           "printed_pages": [
             74
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-quotation-marks",
+      "term_en": "quotation marks",
+      "term_vi": "Dấu ngoặc kép",
+      "term_vi_display": "Dấu ngoặc kép",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "Punctuation marks used to enclose direct quotations, dialogue, or cited titles of works, newspapers, and journals, as well as to highlight words intended to be understood in a special sense.",
+      "explanation_vi": "Dấu câu dùng để đánh dấu từ ngữ, đoạn dẫn trực tiếp, lời đối thoại hoặc tên tác phẩm, tờ báo, tập san được dẫn, đồng thời dùng để đánh dấu từ ngữ mang hàm ý hiểu theo nghĩa đặc biệt.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 5 (Mục Thực hành tiếng Việt): nhận biết công dụng của dấu ngoặc kép dùng để đánh dấu từ ngữ hiểu theo nghĩa đặc biệt.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 5"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 119",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B5",
+          "section": null,
+          "printed_pages": [
+            119
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 119, 120",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B5",
+          "section": null,
+          "printed_pages": [
+            119,
+            120
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 129",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B5",
+          "section": null,
+          "printed_pages": [
+            129
           ]
         }
       ],
@@ -13085,6 +16512,67 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-reasoning",
+      "term_en": "reasoning",
+      "term_vi": "Lí lẽ",
+      "term_vi_display": "Lí lẽ",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "Logical explanations put forward by a writer or speaker in an argumentative text to affirm their opinion.",
+      "explanation_vi": "Những lời diễn giải có lí mà người viết hoặc người nói đưa ra trong văn bản nghị luận để khẳng định ý kiến của mình.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 8 (Mục Tri thức ngữ văn): phân tích mối liên hệ giữa ý kiến, lí lẽ và bằng chứng trong văn bản nghị luận.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 8"
+        }
+      ],
+      "disambiguation_notes": [
+        "Trong cấu trúc văn nghị luận GDPT 2018 (ý kiến – lí lẽ – bằng chứng), 'lí lẽ' tương ứng với 'reasoning' trong mô hình lập luận quốc tế (claim – reasoning – evidence), phân biệt với 'lập luận' ('argumentation') chỉ toàn bộ quá trình triển khai luận điểm."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 60",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B8",
+          "section": null,
+          "printed_pages": [
+            60
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 61",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B8",
+          "section": null,
+          "printed_pages": [
+            61
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 61, 62",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B8",
+          "section": null,
+          "printed_pages": [
+            61,
+            62
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-reasoning-and-evidence",
       "term_en": "reasoning and evidence",
       "term_vi": "Lí lẽ, bằng chứng",
@@ -13140,6 +16628,113 @@
           "section": null,
           "printed_pages": [
             81
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-recording-form-of-literary-nonfiction",
+      "term_en": "recording form of literary nonfiction",
+      "term_vi": "Hình thức ghi chép của kí",
+      "term_vi_display": "Hình thức ghi chép của kí",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "The diverse mode of presentation in literary nonfiction that combines recounting events, describing people and scenes, and providing information with expressing the writer's feelings and thoughts. Depending on creative intent, a work may lean toward narrating events or toward expressing emotions.",
+      "explanation_vi": "Cách thức thể hiện đa dạng trong tác phẩm kí, kết hợp giữa kể sự việc, tả người, tả cảnh, cung cấp thông tin với bộc lộ cảm xúc và suy nghĩ của người viết. Tuỳ mục đích sáng tác, tác phẩm kí có thể nghiêng về kể sự việc hoặc nghiêng về thể hiện cảm xúc.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 5 (Mục Tri thức ngữ văn): nhận biết sự kết hợp giữa tự sự, miêu tả và biểu cảm trong tác phẩm kí.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 5"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 119",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B5",
+          "section": null,
+          "printed_pages": [
+            119
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 119, 120",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B5",
+          "section": null,
+          "printed_pages": [
+            119,
+            120
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-reduplicative-word",
+      "term_en": "reduplicative word",
+      "term_vi": "Từ láy",
+      "term_vi_display": "Từ láy",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A type of complex word formed from syllables linked by phonetic reduplication.",
+      "explanation_vi": "Loại từ phức tạo thành từ các tiếng có quan hệ láy âm với nhau.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 1 (Mục Thực hành tiếng Việt): phân tích cấu tạo và tác dụng gợi tả của từ láy trong văn bản.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 1"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            12
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12, 13",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            12,
+            13
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 21",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            21
           ]
         }
       ],
@@ -13388,6 +16983,67 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-representative-detail",
+      "term_en": "representative detail",
+      "term_vi": "Chi tiết tiêu biểu",
+      "term_vi_display": "Chi tiết tiêu biểu (chi tiết)",
+      "aliases_vi": [
+        "chi tiết"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "An important element used by a writer to highlight the characteristics of a character, event, or situation in a literary work.",
+      "explanation_vi": "Yếu tố quan trọng được nhà văn sử dụng để làm nổi bật đặc điểm của nhân vật, sự việc, tình huống trong tác phẩm.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 7 (Mục Tri thức ngữ văn): nhận biết các chi tiết tiêu biểu làm nổi bật nhân vật và sự việc trong chỉnh thể tác phẩm.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 7"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            130
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130, 131",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            130,
+            131
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B7, tr. 24",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B7",
+          "section": null,
+          "printed_pages": [
+            24
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-research-findings-report",
       "term_en": "research findings report",
       "term_vi": "Báo cáo kết quả nghiên cứu",
@@ -13578,7 +17234,13 @@
       "origin_discipline": "Ngữ văn",
       "explanation_en": "The patterned acoustic resonance between syllables positioned within or at the end of poetic lines, serving to link lines together and shape the poem's rhythm, musicality, and tone.",
       "explanation_vi": "Hiện tượng cộng hưởng, hoà âm theo quy luật giữa một số âm tiết nằm ở giữa hoặc cuối các dòng thơ, giữ vai trò liên kết dòng thơ và kiến tạo nhịp điệu, nhạc điệu cùng giọng điệu cho tác phẩm.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Ngữ văn 6 Tập 1",
+          "explanation_en": "The pattern of sound correspondence between syllables at specific positions across poetic lines. In luc bat verse, the final syllable of the six-syllable line rhymes with the sixth syllable of the eight-syllable line, while the final syllable of the eight-syllable line rhymes with the final syllable of the next six-syllable line.",
+          "explanation_vi": "Quy tắc hiệp âm giữa các tiếng ở những vị trí xác định trong các dòng thơ. Trong thơ lục bát, tiếng cuối của dòng sáu vần với tiếng thứ sáu của dòng tám, còn tiếng cuối của dòng tám vần với tiếng cuối của dòng sáu tiếp theo."
+        }
+      ],
       "contexts": [
         {
           "raw": "Ngữ văn lớp 10, Bài 2 (Mục Tri thức ngữ văn): nhận diện cách gieo vần và phân tích hiệu quả nhạc tính trong tác phẩm thơ.",
@@ -13587,9 +17249,19 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 2"
+        },
+        {
+          "raw": "Ngữ văn lớp 6, Bài 4 (Mục Tri thức ngữ văn): nhận biết quy tắc hiệp vần trong thể thơ lục bát.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 4"
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Trong Bài 4 Ngữ văn 6, khái niệm vần được trình bày trực tiếp qua quy tắc gieo vần lưng và vần chân của thể thơ lục bát."
+      ],
       "sources": [
         {
           "raw": "SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44",
@@ -13623,6 +17295,103 @@
           "section": null,
           "printed_pages": [
             48
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            97
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97, 98",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            97,
+            98
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 100",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            100
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-role-playing",
+      "term_en": "role-playing",
+      "term_vi": "Nhập vai",
+      "term_vi_display": "Nhập vai (đóng vai)",
+      "aliases_vi": [
+        "đóng vai"
+      ],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "The act of imagining oneself as another person (assuming a different role) in order to recount or reenact an event or story.",
+      "explanation_vi": "Hoạt động tưởng tượng mình là một người khác (trong vai khác) để kể hoặc diễn lại sự việc, câu chuyện.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 7 (Mục Viết; Nói và nghe): đóng vai một nhân vật để kể lại một truyện cổ tích bằng lời văn của mình.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 7"
+        }
+      ],
+      "disambiguation_notes": [
+        "Trong dạy học Ngữ văn 6, 'nhập vai' ('role-playing') chỉ hoạt động kể hoặc viết lại câu chuyện dưới góc nhìn nhân vật, phân biệt với trò chơi nhập vai giải trí."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            130
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130, 131",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            130,
+            131
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B7 (Mục Viết), tr. 41",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B7",
+          "section": "Viết",
+          "printed_pages": [
+            41
           ]
         }
       ],
@@ -13923,6 +17692,65 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-semicolon",
+      "term_en": "semicolon",
+      "term_vi": "Dấu chấm phẩy",
+      "term_vi_display": "Dấu chấm phẩy",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A punctuation mark commonly used to mark boundaries between components within a complex enumerated series.",
+      "explanation_vi": "Dấu câu thường dùng để đánh dấu ranh giới giữa các bộ phận trong một chuỗi liệt kê phức tạp.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 6 (Mục Tri thức ngữ văn; Thực hành tiếng Việt): nhận biết công dụng và đặt câu có sử dụng dấu chấm phẩy.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 6"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 5",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": null,
+          "printed_pages": [
+            5
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 5, 6",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": null,
+          "printed_pages": [
+            5,
+            6
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 13",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": null,
+          "printed_pages": [
+            13
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-sentence-fragment-error",
       "term_en": "sentence fragment error",
       "term_vi": "Câu thiếu cả chủ ngữ và vị ngữ",
@@ -13965,6 +17793,65 @@
           "printed_pages": [
             113,
             114
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-simple-word",
+      "term_en": "simple word",
+      "term_vi": "Từ đơn",
+      "term_vi_display": "Từ đơn",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A word consisting of only a single syllable.",
+      "explanation_vi": "Từ có cấu tạo chỉ gồm một tiếng.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 1 (Mục Thực hành tiếng Việt): nhận diện và phân biệt từ đơn với từ phức.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 1"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            12
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12, 13",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            12,
+            13
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 21",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            21
           ]
         }
       ],
@@ -14527,6 +18414,67 @@
           "section": null,
           "printed_pages": [
             19
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-standfirst",
+      "term_en": "standfirst",
+      "term_vi": "Sa-pô",
+      "term_vi_display": "Sa-pô",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A short introductory paragraph placed between the headline and the main body of a news article or informational text, used to introduce and summarize the main content and attract readers.",
+      "explanation_vi": "Đoạn văn nằm giữa nhan đề và phần chính của bài báo hay văn bản thông tin, dùng để giới thiệu, tóm lược nội dung chính của văn bản và thu hút người đọc.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 9 (Mục Đọc): nhận biết vị trí và tác dụng của phần sa-pô trong văn bản thông tin Trái Đất – cái nôi của sự sống.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [
+        "Thuật ngữ tiếng Việt 'sa-pô' mượn từ tiếng Pháp 'chapeau', tương ứng với 'standfirst' (hoặc 'deck'/'lead' trong báo chí Bắc Mỹ) để chỉ đoạn dẫn tóm tắt đặt tách biệt giữa nhan đề và phần thân bài."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 88",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            88
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 88, 89",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            88,
+            89
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 89",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            89
           ]
         }
       ],
@@ -15589,6 +19537,65 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-text",
+      "term_en": "text",
+      "term_vi": "Văn bản",
+      "term_vi_display": "Văn bản",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A communicative unit and product complete in both content and form, existing in written or spoken mode and used to exchange information and express thoughts and emotions.",
+      "explanation_vi": "Đơn vị và sản phẩm giao tiếp có tính hoàn chỉnh về nội dung và hình thức, tồn tại ở dạng viết hoặc dạng nói, dùng để trao đổi thông tin và trình bày suy nghĩ, cảm xúc.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 9 (Mục Tri thức ngữ văn; Thực hành tiếng Việt): nhận biết đặc điểm, cấu tạo và chức năng giao tiếp của văn bản.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 87",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            87
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 88",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            88
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 88, 89",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            88,
+            89
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-text-features-of-informational-texts",
       "term_en": "text features of informational texts",
       "term_vi": "Các yếu tố hình thức của văn bản thông tin",
@@ -15642,6 +19649,65 @@
           "section": null,
           "printed_pages": [
             80
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-text-type",
+      "term_en": "text type",
+      "term_vi": "Kiểu văn bản",
+      "term_vi_display": "Kiểu văn bản",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "Categories of written texts classified according to their primary mode of expression, such as narrative, descriptive, expressive, expository, and argumentative texts.",
+      "explanation_vi": "Các dạng văn bản dùng trong hoạt động tạo lập văn bản viết, phân chia dựa theo phương thức biểu đạt chính như tự sự, miêu tả, biểu cảm, thuyết minh và nghị luận.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 6 (Mục Viết): phân biệt các kiểu bài viết theo phương thức biểu đạt chính trong chương trình.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 6"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            130
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130, 131",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            130,
+            131
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6 (Mục Viết), tr. 16",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B6",
+          "section": "Viết",
+          "printed_pages": [
+            16
           ]
         }
       ],
@@ -15926,7 +19992,13 @@
       "origin_discipline": "Ngữ văn",
       "explanation_en": "An anonymous narrative figure who does not appear as a character within the plot and is discernible solely through the narrative discourse. Depending on the organizational principle of the work, this narrator may exercise omniscient authority to encompass all events as well as the innermost thoughts of every character.",
       "explanation_vi": "Hình tượng người kể chuyện ẩn danh không trực tiếp xuất hiện như một nhân vật trong cốt truyện mà chỉ hiện diện thông qua hệ thống lời kể. Tùy theo nguyên tắc tổ chức tác phẩm, chủ thể trần thuật này có thể vận dụng quyền năng toàn tri để bao quát mọi sự kiện cũng như đời sống nội tâm thầm kín của các nhân vật.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Ngữ văn 6 Tập 1",
+          "explanation_en": "A narrator who remains hidden and does not participate directly in the story, yet possesses the ability to observe and know everything that transpires.",
+          "explanation_vi": "Người kể chuyện giấu mình, không trực tiếp tham gia vào câu chuyện nhưng có khả năng bao quát và biết hết mọi sự việc diễn ra."
+        }
+      ],
       "contexts": [
         {
           "raw": "Ngữ văn lớp 10, Bài 7 (Mục Tri thức ngữ văn): Phân tích ngôi kể toàn tri trong đoạn trích Người cầm quyền khôi phục uy quyền và truyện ngắn Dưới bóng hoàng lan.",
@@ -15935,6 +20007,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 7"
+        },
+        {
+          "raw": "Ngữ văn lớp 6, Bài 1 (Mục Tri thức ngữ văn): phân biệt người kể chuyện ngôi thứ ba với người kể chuyện ngôi thứ nhất.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 1"
         }
       ],
       "disambiguation_notes": [
@@ -15973,6 +20053,101 @@
           "section": null,
           "printed_pages": [
             45
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            11
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11, 12",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            11,
+            12
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 147",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            147
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "ngu-van-tonal-pattern",
+      "term_en": "tonal pattern",
+      "term_vi": "Thanh điệu",
+      "term_vi_display": "Thanh điệu",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "The prosodic arrangement of level and oblique tones at specific syllable positions within poetic lines. In luc bat verse, the fourth syllable carries an oblique tone while the sixth and eighth syllables carry level tones, with the sixth and eighth syllables of the eight-syllable line alternating between the falling (huyen) and high-level (ngang) tones.",
+      "explanation_vi": "Quy tắc phối hợp thanh bằng và thanh trắc tại các vị trí tiếng trong dòng thơ. Trong thơ lục bát, tiếng thứ tư mang thanh trắc, tiếng thứ sáu và thứ tám mang thanh bằng; riêng ở dòng tám, hai tiếng thứ sáu và thứ tám phải luân phiên giữa thanh huyền và thanh ngang.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 4 (Mục Tri thức ngữ văn): vận dụng luật bằng trắc khi đọc hiểu và tập làm thơ lục bát.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [
+        "Trong Bài 4 Ngữ văn 6, thuật ngữ chỉ quy tắc phối thanh bằng – trắc trong thể thơ lục bát, phân biệt với khái niệm thanh điệu âm vị học của tiếng Việt nói chung."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            97
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97, 98",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            97,
+            98
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 100",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            100
           ]
         }
       ],
@@ -16195,6 +20370,65 @@
       "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
+      "id": "ngu-van-travelogue",
+      "term_en": "travelogue",
+      "term_vi": "Du kí",
+      "term_vi_display": "Du kí",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A subgenre of literary nonfiction that records journeys to various regions and lands, in which the writer recounts or describes firsthand sights and experiences along the way.",
+      "explanation_vi": "Một tiểu loại của kí chuyên ghi chép sự việc về những chuyến đi tới các vùng đất, xứ sở, qua đó người viết kể lại hoặc miêu tả những điều mắt thấy tai nghe trên hành trình.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 5 (Mục Tri thức ngữ văn): đọc hiểu các văn bản du kí viết về thiên nhiên và con người các vùng miền.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 5"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 119",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B5",
+          "section": null,
+          "printed_pages": [
+            119
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 119, 120",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B5",
+          "section": null,
+          "printed_pages": [
+            119,
+            120
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5 (Mục 3), tr. 139",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B5",
+          "section": "3",
+          "printed_pages": [
+            139
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
       "id": "ngu-van-tuong-classical-opera",
       "term_en": "Tuong classical opera",
       "term_vi": "Tuồng",
@@ -16291,6 +20525,65 @@
         }
       ],
       "markdown_file": "Tu-dien-Lich-su.md"
+    },
+    {
+      "id": "ngu-van-verb-phrase",
+      "term_en": "verb phrase",
+      "term_vi": "Cụm động từ",
+      "term_vi_display": "Cụm động từ",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A type of phrase headed by a verb, combined with one or more accompanying words that modify that verb.",
+      "explanation_vi": "Loại cụm từ có động từ làm trung tâm, kết hợp với một hoặc một số từ khác đi kèm để bổ nghĩa cho động từ đó.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 3 (Mục Thực hành tiếng Việt): phân tích cấu tạo và mở rộng vị ngữ bằng cụm động từ.",
+          "disciplines": [
+            "Ngữ văn"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66, 67",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            66,
+            67
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 81",
+          "book": "SGK Ngữ văn 6 KNTT Tập 1",
+          "unit": "ngu_van_6",
+          "group": "Tập một",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            81
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
       "id": "ngu-van-verbal-irony",

@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Vật lí",
-    "generated_at": "2026-11-19T04:50:40Z",
+    "generated_at": "2026-11-20T01:32:27Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -27235,8 +27235,8 @@
       "markdown_file": "Tu-dien-Vat-li.md"
     },
     {
-      "id": "vat-li-power",
-      "term_en": "power",
+      "id": "vat-li-power-physics",
+      "term_en": "power (physics)",
       "term_vi": "Công suất",
       "term_vi_display": "Công suất (tốc độ sinh công)",
       "aliases_vi": [
@@ -27256,7 +27256,9 @@
           "lesson_ref": "Bài 24"
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Không nhầm với 'Luỹ thừa' (`power`) trong Toán học."
+      ],
       "sources": [
         {
           "raw": "SGK Vật lí 10 KNTT, Chương 04, B24, tr. 96",

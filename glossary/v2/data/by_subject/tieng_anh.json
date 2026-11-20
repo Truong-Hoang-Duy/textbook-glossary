@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Tiếng Anh",
-    "generated_at": "2026-11-19T04:50:39Z",
+    "generated_at": "2026-11-20T01:32:26Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -17,12 +17,13 @@
       "Tu-dien-Vat-li.md"
     ],
     "counts": {
-      "entries": 606,
+      "entries": 607,
       "by_origin_discipline": {
+        "Ngữ văn": 1,
         "Tiếng Anh": 605,
         "Vật lí": 1
       },
-      "multi_context_entries": 552,
+      "multi_context_entries": 553,
       "alt_explanation_entries": 22
     }
   },
@@ -8622,7 +8623,7 @@
         }
       ],
       "disambiguation_notes": [
-        "Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Dữ liệu' trong Tin học."
+        "Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Dữ liệu' trong Toán học."
       ],
       "sources": [
         {
@@ -16439,8 +16440,8 @@
       "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
-      "id": "tieng-anh-homophone",
-      "term_en": "homophone",
+      "id": "tieng-anh-homophone-english",
+      "term_en": "homophone (English)",
       "term_vi": "từ đồng âm",
       "term_vi_display": "từ đồng âm (khác chữ viết và nghĩa)",
       "aliases_vi": [
@@ -19511,6 +19512,66 @@
         }
       ],
       "markdown_file": "Tu-dien-Tieng-Anh.md"
+    },
+    {
+      "id": "ngu-van-loanword",
+      "term_en": "loanword",
+      "term_vi": "Từ mượn",
+      "term_vi_display": "Từ mượn",
+      "aliases_vi": [],
+      "origin_discipline": "Ngữ văn",
+      "explanation_en": "A word originating from another language, adopted through linguistic contact and exchange among peoples to enrich the lexicon.",
+      "explanation_vi": "Từ có nguồn gốc từ một ngôn ngữ khác, hình thành qua quá trình tiếp xúc, giao lưu ngôn ngữ giữa các dân tộc nhằm làm giàu vốn từ.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Ngữ văn lớp 6, Bài 9 (Mục Tri thức ngữ văn; Thực hành tiếng Việt): nhận biết và sử dụng phù hợp các từ mượn tiếng Hán, tiếng Pháp, tiếng Anh trong giao tiếp.",
+          "disciplines": [
+            "Ngữ văn",
+            "Tiếng Anh"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 89",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            89
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 89, 90",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            89,
+            90
+          ]
+        },
+        {
+          "raw": "SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 99",
+          "book": "SGK Ngữ văn 6 KNTT Tập 2",
+          "unit": "ngu_van_6",
+          "group": "Tập hai",
+          "lesson": "B9",
+          "section": null,
+          "printed_pages": [
+            99
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Ngu-van.md"
     },
     {
       "id": "tieng-anh-local",

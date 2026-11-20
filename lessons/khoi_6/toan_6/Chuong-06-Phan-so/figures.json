@@ -1,0 +1,80 @@
+{
+  "H6-toan-b23-01": {
+    "pdf_page": 6,
+    "bbox": [420, 418, 544, 476]
+  },
+  "H6-toan-b23-02": {
+    "pdf_page": 7,
+    "bbox": [422, 74, 528, 226]
+  },
+  "H6-toan-b23-03": {
+    "pdf_page": 7,
+    "bbox": [85, 614, 362, 713]
+  },
+  "H6-toan-b23-04": {
+    "pdf_page": 7,
+    "bbox": [385, 694, 514, 773]
+  },
+  "H6-toan-b23-05": {
+    "pdf_page": 9,
+    "bbox": [334, 132, 522, 314]
+  },
+  "H6-toan-b24-01": {
+    "pdf_page": 10,
+    "bbox": [78, 264, 504, 426]
+  },
+  "H6-toan-b24-02": {
+    "pdf_page": 12,
+    "bbox": [100, 508, 462, 654]
+  },
+  "H6-toan-b24-03": {
+    "pdf_page": 13,
+    "bbox": [80, 227, 290, 298]
+  },
+  "H6-toan-ltc-c06-01-01": {
+    "pdf_page": 14,
+    "bbox": [372, 447, 550, 571]
+  },
+  "H6-toan-ltc-c06-01-02": {
+    "pdf_page": 15,
+    "bbox": [403, 626, 536, 745]
+  },
+  "H6-toan-b25-01": {
+    "pdf_page": 16,
+    "bbox": [345, 286, 520, 406]
+  },
+  "H6-toan-b25-02": {
+    "pdf_page": 19,
+    "bbox": [416, 297, 537, 405]
+  },
+  "H6-toan-b27-01": {
+    "pdf_page": 23,
+    "bbox": [375, 268, 527, 385]
+  },
+  "H6-toan-b27-02": {
+    "pdf_page": 23,
+    "bbox": [225, 519, 370, 586]
+  },
+  "H6-toan-b27-03": {
+    "pdf_page": 24,
+    "bbox": [406, 513, 528, 575]
+  },
+  "H6-toan-b27-04": {
+    "pdf_page": 25,
+    "bbox": [420, 290, 530, 366]
+  },
+  "H6-toan-ltc-c06-02-01": {
+    "pdf_page": 27,
+    "bbox": [235, 380, 382, 566]
+  },
+  "H6-toan-ot-c06-01": {
+    "pdf_page": 28,
+    "bbox": [56, 140, 530, 770],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới phải của khung chữ nhật bao trọn sơ đồ tổng kết chương chạm hình quạt ghi số trang 27 ở góc trang"
+  },
+  "H6-toan-ot-c06-02": {
+    "pdf_page": 29,
+    "bbox": [176, 596, 416, 692]
+  }
+}

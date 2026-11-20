@@ -26,7 +26,7 @@ SGK_DIR = ROOT / "sgk"
 PROFILE_DIR = ROOT / "tools" / "profiles"
 OCR_CACHE_DIR = ROOT / "cache" / "ocr"
 
-UNIT_RE = re.compile(r"^([a-z]+(?:_[a-z]+)*)_(10|11|12)$")
+UNIT_RE = re.compile(r"^([a-z]+(?:_[a-z]+)*)_(6|7|8|9|10|11|12)$")
 
 
 def setup_stdout():

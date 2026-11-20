@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Tin học",
-    "generated_at": "2026-11-19T04:50:39Z",
+    "generated_at": "2026-11-20T01:32:26Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -17,21 +17,21 @@
       "Tu-dien-Vat-li.md"
     ],
     "counts": {
-      "entries": 954,
+      "entries": 955,
       "by_origin_discipline": {
         "Giáo dục Kinh tế và Pháp luật": 18,
         "Hóa học": 1,
         "Lịch sử": 1,
         "Ngữ văn": 1,
         "Sinh học": 4,
-        "Tin học": 891,
+        "Tin học": 889,
         "Tiếng Anh": 17,
-        "Toán học": 14,
+        "Toán học": 17,
         "Vật lí": 6,
         "Địa lí": 1
       },
-      "multi_context_entries": 855,
-      "alt_explanation_entries": 55
+      "multi_context_entries": 856,
+      "alt_explanation_entries": 56
     }
   },
   "entries": [
@@ -4863,6 +4863,11 @@
           "source_label": "SGK Tin học CS 11",
           "explanation_en": "The base-2 numeral system that uses only the two digits 0 and 1 to represent numbers as binary digit sequences on which standard arithmetic operations can be performed. In binary representation, a digit 1 at the $k$-th position from the right has the positional value $2^{k-1}$.",
           "explanation_vi": "Hệ đếm cơ số 2 chỉ sử dụng hai chữ số 0 và 1 để biểu diễn các số thành dãy chữ số nhị phân, trên đó thực hiện được các phép tính số học thông thường. Trong biểu diễn nhị phân, chữ số 1 ở hàng thứ $k$ tính từ phải sang trái có giá trị bằng $2^{k-1}$."
+        },
+        {
+          "source_label": "SGK Toán 6 Tập 1",
+          "explanation_en": "A numeral system that uses only two digits, $0$ and $1$, in which every natural number is written as a sequence consisting solely of $0$ and $1$.",
+          "explanation_vi": "Hệ ghi số chỉ sử dụng hai chữ số là $0$ và $1$, trong đó mỗi số tự nhiên biểu diễn dưới dạng một dãy chữ số chỉ gồm $0$ và $1$."
         }
       ],
       "contexts": [
@@ -4882,6 +4887,15 @@
           ],
           "grade": 11,
           "lesson_ref": "Bài 4"
+        },
+        {
+          "raw": "Toán học lớp 6, Bài 2 (Mục 2): Mở rộng kiến thức về cách ghi số tự nhiên bằng hai chữ số $0$ và $1$ ứng dụng trong máy tính điện tử.",
+          "disciplines": [
+            "Toán học",
+            "Tin học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 2"
         }
       ],
       "disambiguation_notes": [],
@@ -4939,6 +4953,17 @@
           "section": "2.b",
           "printed_pages": [
             25
+          ]
+        },
+        {
+          "raw": "SGK Toán 6 KNTT Tập 1, Chương 01, B2 (Mục 2), tr. 12",
+          "book": "SGK Toán 6 KNTT Tập 1",
+          "unit": "toan_6",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "2",
+          "printed_pages": [
+            12
           ]
         }
       ],
@@ -6719,7 +6744,9 @@
           "lesson_ref": "Bài 24"
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Không nhầm với 'Nhân vật' (`character (literature)`) trong Ngữ văn."
+      ],
       "sources": [
         {
           "raw": "SGK Tin học 10 KNTT, Chủ đề 05, B24, tr. 119",
@@ -12534,15 +12561,20 @@
       "markdown_file": "Tu-dien-Tin-hoc.md"
     },
     {
-      "id": "tin-hoc-data",
+      "id": "toan-hoc-data",
       "term_en": "data",
       "term_vi": "Dữ liệu",
       "term_vi_display": "Dữ liệu",
       "aliases_vi": [],
-      "origin_discipline": "Tin học",
-      "explanation_en": "Information in the form of sound, images, text, numbers, and other representations entered into a computer as bit sequences so the computer can recognize and process it. Data serves as the carrier that represents and determines information.",
-      "explanation_vi": "Thông tin dưới dạng âm thanh, hình ảnh, văn bản, số,... đã được đưa vào máy tính dưới dạng dãy bit để máy tính có thể nhận biết và xử lí. Dữ liệu đóng vai trò là yếu tố thể hiện và xác định thông tin.",
+      "origin_discipline": "Toán học",
+      "explanation_en": "Information collected when investigating a statistical topic or subject, comprising numerical data and non-numerical data.",
+      "explanation_vi": "Các thông tin thu thập được khi tìm hiểu về một vấn đề hoặc đối tượng thống kê, bao gồm dữ liệu là số (số liệu) và dữ liệu không phải là số.",
       "alt_explanations": [
+        {
+          "source_label": "SGK Tin học 10",
+          "explanation_en": "Information in the form of sound, images, text, numbers, and other representations entered into a computer as bit sequences so the computer can recognize and process it. Data serves as the carrier that represents and determines information.",
+          "explanation_vi": "Thông tin dưới dạng âm thanh, hình ảnh, văn bản, số,... đã được đưa vào máy tính dưới dạng dãy bit để máy tính có thể nhận biết và xử lí. Dữ liệu đóng vai trò là yếu tố thể hiện và xác định thông tin."
+        },
         {
           "source_label": "SGK Ngữ văn 11 Tập 2",
           "explanation_en": "Pieces of information mobilized and used within an informational text, existing in diverse forms such as symbols, written words, numbers, images, or audio.",
@@ -12555,6 +12587,14 @@
         }
       ],
       "contexts": [
+        {
+          "raw": "Toán học lớp 6, Bài 38 (Mục 1): phân loại thông tin thống kê thành dữ liệu là số và dữ liệu không phải là số.",
+          "disciplines": [
+            "Toán học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 38"
+        },
         {
           "raw": "Tin học lớp 10, Bài 1 (Mục 1.a, 1.b): Định nghĩa dữ liệu trong tin học và phân biệt với thông tin.",
           "disciplines": [
@@ -12585,6 +12625,39 @@
         "Chỉ dữ liệu làm chất liệu thông tin trong văn bản thông tin (Ngữ văn), phân biệt với dữ liệu số hoá xử lí bằng máy tính trong Tin học và dữ liệu thống kê trong Toán học."
       ],
       "sources": [
+        {
+          "raw": "SGK Toán 6 KNTT Tập 2, Chương 09, B38, tr. 75",
+          "book": "SGK Toán 6 KNTT Tập 2",
+          "unit": "toan_6",
+          "group": "Chương 09",
+          "lesson": "B38",
+          "section": null,
+          "printed_pages": [
+            75
+          ]
+        },
+        {
+          "raw": "SGK Toán 6 KNTT Tập 2, Chương 09, B38 (Mục 1), tr. 76",
+          "book": "SGK Toán 6 KNTT Tập 2",
+          "unit": "toan_6",
+          "group": "Chương 09",
+          "lesson": "B38",
+          "section": "1",
+          "printed_pages": [
+            76
+          ]
+        },
+        {
+          "raw": "SGK Toán 6 KNTT Tập 2, Chương 09, B38 (Mục 2), tr. 77",
+          "book": "SGK Toán 6 KNTT Tập 2",
+          "unit": "toan_6",
+          "group": "Chương 09",
+          "lesson": "B38",
+          "section": "2",
+          "printed_pages": [
+            77
+          ]
+        },
         {
           "raw": "SGK Tin học 10 KNTT, Chủ đề 01, B1, tr. 6",
           "book": "SGK Tin học 10 KNTT",
@@ -12686,7 +12759,7 @@
           ]
         }
       ],
-      "markdown_file": "Tu-dien-Tin-hoc.md"
+      "markdown_file": "Tu-dien-Toan-hoc.md"
     },
     {
       "id": "tin-hoc-data-access-authorization",
@@ -12868,16 +12941,30 @@
       "markdown_file": "Tu-dien-Tin-hoc.md"
     },
     {
-      "id": "tin-hoc-data-collection",
+      "id": "toan-hoc-data-collection",
       "term_en": "data collection",
       "term_vi": "Thu thập dữ liệu",
       "term_vi_display": "Thu thập dữ liệu",
       "aliases_vi": [],
-      "origin_discipline": "Tin học",
-      "explanation_en": "The initial step in building a machine learning application, involving gathering task-relevant data from various sources such as databases, files, or direct recording. Data obtained at this stage typically undergoes cleaning and preparation before being used for model training and testing.",
-      "explanation_vi": "Bước khởi đầu trong quy trình xây dựng ứng dụng Học máy, thực hiện tập hợp dữ liệu phục vụ bài toán từ nhiều nguồn khác nhau như cơ sở dữ liệu, tệp tin hoặc ghi chép trực tiếp. Dữ liệu thu được ở bước này thường tiếp tục trải qua quá trình làm sạch và chuẩn bị trước khi đưa vào huấn luyện và kiểm thử mô hình.",
-      "alt_explanations": [],
+      "origin_discipline": "Toán học",
+      "explanation_en": "The process of gathering information for statistical purposes through direct methods (such as observation, experimentation, or questionnaires) or indirectly from existing sources (such as books, newspapers, or websites).",
+      "explanation_vi": "Quá trình tập hợp thông tin phục vụ thống kê thông qua các phương pháp trực tiếp (như quan sát, làm thí nghiệm, lập phiếu hỏi) hoặc gián tiếp từ các nguồn có sẵn (như sách báo, trang web).",
+      "alt_explanations": [
+        {
+          "source_label": "SGK Tin học CS 12",
+          "explanation_en": "The initial step in building a machine learning application, involving gathering task-relevant data from various sources such as databases, files, or direct recording. Data obtained at this stage typically undergoes cleaning and preparation before being used for model training and testing.",
+          "explanation_vi": "Bước khởi đầu trong quy trình xây dựng ứng dụng Học máy, thực hiện tập hợp dữ liệu phục vụ bài toán từ nhiều nguồn khác nhau như cơ sở dữ liệu, tệp tin hoặc ghi chép trực tiếp. Dữ liệu thu được ở bước này thường tiếp tục trải qua quá trình làm sạch và chuẩn bị trước khi đưa vào huấn luyện và kiểm thử mô hình."
+        }
+      ],
       "contexts": [
+        {
+          "raw": "Toán học lớp 6, Bài 38 (Mục 2): lựa chọn phương pháp thu thập thông tin phù hợp cho một vấn đề hoặc dự án thống kê.",
+          "disciplines": [
+            "Toán học"
+          ],
+          "grade": 6,
+          "lesson_ref": "Bài 38"
+        },
         {
           "raw": "Tin học lớp 12, Bài 25 (Mục 1): Bước đầu tiên trong năm bước cơ bản của quy trình xây dựng ứng dụng Học máy.",
           "disciplines": [
@@ -12889,6 +12976,40 @@
       ],
       "disambiguation_notes": [],
       "sources": [
+        {
+          "raw": "SGK Toán 6 KNTT Tập 2, Chương 09, B38 (Mục 2), tr. 77",
+          "book": "SGK Toán 6 KNTT Tập 2",
+          "unit": "toan_6",
+          "group": "Chương 09",
+          "lesson": "B38",
+          "section": "2",
+          "printed_pages": [
+            77
+          ]
+        },
+        {
+          "raw": "SGK Toán 6 KNTT Tập 2, Chương 09, B38 (Mục 2), tr. 77, 78",
+          "book": "SGK Toán 6 KNTT Tập 2",
+          "unit": "toan_6",
+          "group": "Chương 09",
+          "lesson": "B38",
+          "section": "2",
+          "printed_pages": [
+            77,
+            78
+          ]
+        },
+        {
+          "raw": "SGK Toán 6 KNTT Tập 2, Chương 09, B38 (Mục 2), tr. 78",
+          "book": "SGK Toán 6 KNTT Tập 2",
+          "unit": "toan_6",
+          "group": "Chương 09",
+          "lesson": "B38",
+          "section": "2",
+          "printed_pages": [
+            78
+          ]
+        },
         {
           "raw": "SGK Tin học CS 12 KNTT, Chủ đề 07, B25 (Mục 1), tr. 135",
           "book": "SGK Tin học CS 12 KNTT",
@@ -12913,7 +13034,7 @@
           ]
         }
       ],
-      "markdown_file": "Tu-dien-Tin-hoc.md"
+      "markdown_file": "Tu-dien-Toan-hoc.md"
     },
     {
       "id": "tin-hoc-data-consistency",
@@ -21967,8 +22088,58 @@
       "markdown_file": "Tu-dien-Tin-hoc.md"
     },
     {
-      "id": "tin-hoc-geogebra",
+      "id": "toan-hoc-geogebra",
       "term_en": "GeoGebra",
+      "term_vi": "Phần mềm GeoGebra",
+      "term_vi_display": "Phần mềm GeoGebra",
+      "aliases_vi": [],
+      "origin_discipline": "Toán học",
+      "explanation_en": "A mathematics software application supporting Vietnamese menus and toolbars for constructing plane geometric figures ranging from points, line segments, and angles to equilateral triangles, rectangles, squares, circles, and symmetric figures.",
+      "explanation_vi": "Phần mềm toán học hỗ trợ giao diện và bảng chọn công cụ tiếng Việt dùng để dựng các hình học phẳng từ cơ bản như điểm, đoạn thẳng, góc đến tam giác đều, hình chữ nhật, hình vuông, hình tròn và các hình có tính chất đối xứng.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Toán học lớp 6, Hoạt động thực hành trải nghiệm (Vẽ hình đơn giản với phần mềm GeoGebra): Thực hành dựng các hình học phẳng cơ bản và hình có tính đối xứng trên máy tính.",
+          "disciplines": [
+            "Toán học",
+            "Tin học"
+          ],
+          "grade": 6,
+          "lesson_ref": null
+        }
+      ],
+      "disambiguation_notes": [
+        "Không nhầm với 'GeoGebra' (`GeoGebra (computer science)`) trong Tin học."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Toán 6 KNTT Tập 1, Chương 05, Vẽ hình đơn giản với phần mềm GeoGebra, tr. 124",
+          "book": "SGK Toán 6 KNTT Tập 1",
+          "unit": "toan_6",
+          "group": "Chương 05",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            124
+          ]
+        },
+        {
+          "raw": "SGK Toán 6 KNTT Tập 1, Chương 05, Vẽ hình đơn giản với phần mềm GeoGebra, tr. 128",
+          "book": "SGK Toán 6 KNTT Tập 1",
+          "unit": "toan_6",
+          "group": "Chương 05",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            128
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Toan-hoc.md"
+    },
+    {
+      "id": "tin-hoc-geogebra-computer-science",
+      "term_en": "GeoGebra (computer science)",
       "term_vi": "GeoGebra",
       "term_vi_display": "GeoGebra",
       "aliases_vi": [],
@@ -21987,7 +22158,9 @@
           "lesson_ref": "Bài 30"
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Không nhầm với 'Phần mềm GeoGebra' (`GeoGebra`) trong Toán học."
+      ],
       "sources": [
         {
           "raw": "SGK Tin học CS 12 KNTT, Chủ đề 07, B30, tr. 159",

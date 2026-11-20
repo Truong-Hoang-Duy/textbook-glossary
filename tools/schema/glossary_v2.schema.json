@@ -151,7 +151,7 @@
                   ]
                 }
               },
-              "grade": { "type": ["integer", "null"], "enum": [10, 11, 12, null] },
+              "grade": { "type": ["integer", "null"], "enum": [6, 7, 8, 9, 10, 11, 12, null] },
               "lesson_ref": { "type": ["string", "null"] }
             }
           }
