@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Lịch sử",
-    "generated_at": "2026-11-20T01:32:25Z",
+    "generated_at": "2026-11-20T02:39:04Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -17,7 +17,7 @@
       "Tu-dien-Vat-li.md"
     ],
     "counts": {
-      "entries": 567,
+      "entries": 568,
       "by_origin_discipline": {
         "Giáo dục Kinh tế và Pháp luật": 11,
         "Hóa học": 1,
@@ -25,12 +25,12 @@
         "Ngữ văn": 14,
         "Sinh học": 3,
         "Tin học": 21,
-        "Tiếng Anh": 10,
+        "Tiếng Anh": 11,
         "Toán học": 2,
         "Vật lí": 9,
         "Địa lí": 28
       },
-      "multi_context_entries": 404,
+      "multi_context_entries": 405,
       "alt_explanation_entries": 21
     }
   },
@@ -19790,6 +19790,65 @@
         }
       ],
       "markdown_file": "Tu-dien-Lich-su.md"
+    },
+    {
+      "id": "tieng-anh-palace",
+      "term_en": "palace",
+      "term_vi": "cung điện",
+      "term_vi_display": "cung điện",
+      "aliases_vi": [],
+      "origin_discipline": "Tiếng Anh",
+      "explanation_en": "(n) /ˈpæləs/ — A large, impressive official house where a king, queen, or royal family lives.",
+      "explanation_vi": "(danh từ) Toà dinh thự rộng lớn, nguy nga là nơi ở chính thức của nhà vua, nữ hoàng hoặc hoàng gia.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Tiếng Anh lớp 6, Unit 9 (Cities of the world): dùng khi giới thiệu điểm tham quan lịch sử tại các thành phố lớn như 'Bangkok is famous for palaces.'.",
+          "disciplines": [
+            "Lịch sử",
+            "Tiếng Anh"
+          ],
+          "grade": 6,
+          "lesson_ref": null
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 28",
+          "book": "SGK Tiếng Anh 6 Global Success Tập 2",
+          "unit": "tieng_anh_6",
+          "group": "Unit 09, Unit 9",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            28
+          ]
+        },
+        {
+          "raw": "SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 32",
+          "book": "SGK Tiếng Anh 6 Global Success Tập 2",
+          "unit": "tieng_anh_6",
+          "group": "Unit 09, Unit 9",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            32
+          ]
+        },
+        {
+          "raw": "SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 33",
+          "book": "SGK Tiếng Anh 6 Global Success Tập 2",
+          "unit": "tieng_anh_6",
+          "group": "Unit 09, Unit 9",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            33
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
       "id": "lich-su-paper-currency-of-the-ho-dynasty",

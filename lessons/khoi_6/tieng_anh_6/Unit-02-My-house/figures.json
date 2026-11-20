@@ -1,0 +1,24 @@
+{
+  "H6-tieng_anh-u02-01": {
+    "pdf_page": 18,
+    "bbox": [215, 433, 579, 813],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nhãn d./e. bên phải đè lên dải viền trang màu xanh (x>=571) và mũi nhãn a. hall bên dưới (y=800..813) nằm cùng dải ngang với chân trang; mở y0=433 để bao trọn hộp từ vựng màu xanh phía trên mái nhà"
+  },
+  "H6-tieng_anh-u02-02": {
+    "pdf_page": 20,
+    "bbox": [296, 192, 546, 783]
+  },
+  "H6-tieng_anh-u02-03": {
+    "pdf_page": 21,
+    "bbox": [79, 112, 291, 336]
+  },
+  "H6-tieng_anh-u02-04": {
+    "pdf_page": 24,
+    "bbox": [51, 196, 280, 455]
+  },
+  "H6-tieng_anh-u02-05": {
+    "pdf_page": 25,
+    "bbox": [313, 97, 560, 520]
+  }
+}

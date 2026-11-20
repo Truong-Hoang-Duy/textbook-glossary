@@ -1,0 +1,16 @@
+{
+  "H6-tieng_anh-u01-01": {
+    "pdf_page": 8,
+    "bbox": [306, 425, 532, 633],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Khung bài tập nối đồ dùng học tập 1-6 (x=307..530) đặt chồng lên mảng màu ghế sofa minh hoạ nền bên trái nên cạnh trái chạm nền ghế; giữ sát viền khung để lấy trọn vẹn khung hình"
+  },
+  "H6-tieng_anh-u01-02": {
+    "pdf_page": 11,
+    "bbox": [62, 454, 292, 650]
+  },
+  "H6-tieng_anh-u01-03": {
+    "pdf_page": 15,
+    "bbox": [59, 177, 291, 583]
+  }
+}

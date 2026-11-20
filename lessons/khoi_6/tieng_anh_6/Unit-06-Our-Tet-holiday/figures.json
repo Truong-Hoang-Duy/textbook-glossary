@@ -1,0 +1,48 @@
+{
+  "H6-tieng_anh-u06-01": {
+    "pdf_page": 60,
+    "bbox": [320, 191, 539, 386]
+  },
+  "H6-tieng_anh-u06-02": {
+    "pdf_page": 61,
+    "bbox": [73, 223, 291, 550]
+  },
+  "H6-tieng_anh-u06-03": {
+    "pdf_page": 62,
+    "bbox": [63, 155, 285, 311]
+  },
+  "H6-tieng_anh-u06-04": {
+    "pdf_page": 62,
+    "bbox": [50, 385, 283, 679]
+  },
+  "H6-tieng_anh-u06-05": {
+    "pdf_page": 62,
+    "bbox": [302, 117, 551, 610]
+  },
+  "H6-tieng_anh-u06-06": {
+    "pdf_page": 63,
+    "bbox": [308, 480, 530, 744]
+  },
+  "H6-tieng_anh-u06-07": {
+    "pdf_page": 64,
+    "bbox": [50, 207, 282, 280]
+  },
+  "H6-tieng_anh-u06-08": {
+    "pdf_page": 64,
+    "bbox": [70, 690, 282, 779]
+  },
+  "H6-tieng_anh-u06-09": {
+    "pdf_page": 64,
+    "bbox": [304, 59, 536, 132]
+  },
+  "H6-tieng_anh-u06-10": {
+    "pdf_page": 66,
+    "bbox": [68, 97, 209, 251]
+  },
+  "H6-tieng_anh-r02-01": {
+    "pdf_page": 69,
+    "bbox": [313, 589, 545, 666],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh Visit Singapore (y=589..669) dán liền khít lên cạnh trên của khung nền xanh đoạn 1 (y=669..783) không có khe trắng; đặt y1=666 (cạnh cắt y=670) để lấy trọn ảnh mà không dính mục '1. ___' bên dưới"
+  }
+}

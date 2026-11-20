@@ -1,0 +1,20 @@
+{
+  "H6-tieng_anh-u12-01": {
+    "pdf_page": 60,
+    "bbox": [294, 353, 566, 563],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình tròn 3 và 6 bên phải tràn sát dải viền màu xanh lề phải trang sách (x=570), không có khoảng trắng ngăn cách"
+  },
+  "H6-tieng_anh-u12-02": {
+    "pdf_page": 63,
+    "bbox": [88, 368, 516, 561]
+  },
+  "H6-tieng_anh-u12-03": {
+    "pdf_page": 65,
+    "bbox": [58, 180, 282, 253]
+  },
+  "H6-tieng_anh-u12-04": {
+    "pdf_page": 67,
+    "bbox": [90, 182, 240, 780]
+  }
+}

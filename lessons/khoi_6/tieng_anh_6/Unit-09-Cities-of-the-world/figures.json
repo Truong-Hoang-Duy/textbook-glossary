@@ -1,0 +1,121 @@
+{
+  "H6-tieng_anh-u09-01": {
+    "pdf_page": 28,
+    "bbox": [
+      98,
+      89,
+      549,
+      320
+    ]
+  },
+  "H6-tieng_anh-u09-02": {
+    "pdf_page": 28,
+    "bbox": [
+      433,
+      360,
+      533,
+      610
+    ]
+  },
+  "H6-tieng_anh-u09-03": {
+    "pdf_page": 29,
+    "bbox": [
+      67,
+      246,
+      277,
+      514
+    ]
+  },
+  "H6-tieng_anh-u09-04": {
+    "pdf_page": 29,
+    "bbox": [
+      314,
+      149,
+      543,
+      369
+    ]
+  },
+  "H6-tieng_anh-u09-05": {
+    "pdf_page": 30,
+    "bbox": [
+      169,
+      370,
+      290,
+      757
+    ]
+  },
+  "H6-tieng_anh-u09-06": {
+    "pdf_page": 31,
+    "bbox": [
+      314,
+      228,
+      544,
+      472
+    ]
+  },
+  "H6-tieng_anh-u09-07": {
+    "pdf_page": 31,
+    "bbox": [
+      313,
+      686,
+      544,
+      838
+    ]
+  },
+  "H6-tieng_anh-u09-08": {
+    "pdf_page": 32,
+    "bbox": [
+      64,
+      195,
+      268,
+      399
+    ]
+  },
+  "H6-tieng_anh-u09-09": {
+    "pdf_page": 33,
+    "bbox": [
+      93,
+      258,
+      259,
+      380
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trên khung chữ nhật cắt qua góc nghiêng trên bên phải viền cam của tấm bưu thiếp để không dính dòng chữ a postcard? phía trên"
+  },
+  "H6-tieng_anh-u09-10": {
+    "pdf_page": 34,
+    "bbox": [
+      51,
+      225,
+      281,
+      535
+    ]
+  },
+  "H6-tieng_anh-u09-11": {
+    "pdf_page": 35,
+    "bbox": [
+      314,
+      148,
+      545,
+      534
+    ]
+  },
+  "H6-tieng_anh-r03-01": {
+    "pdf_page": 37,
+    "bbox": [
+      332,
+      728,
+      531,
+      796
+    ]
+  },
+  "H6-tieng_anh-r03-02": {
+    "pdf_page": 38,
+    "bbox": [
+      319,
+      246,
+      535,
+      327
+    ]
+  }
+}

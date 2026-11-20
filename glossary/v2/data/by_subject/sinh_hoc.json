@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Sinh học",
-    "generated_at": "2026-11-20T01:32:25Z",
+    "generated_at": "2026-11-20T02:39:05Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -17,20 +17,20 @@
       "Tu-dien-Vat-li.md"
     ],
     "counts": {
-      "entries": 1135,
+      "entries": 1136,
       "by_origin_discipline": {
         "Hóa học": 36,
         "Lịch sử": 1,
         "Ngữ văn": 1,
         "Sinh học": 1011,
         "Tin học": 2,
-        "Tiếng Anh": 50,
+        "Tiếng Anh": 51,
         "Toán học": 6,
         "Vật lí": 11,
         "Địa lí": 17
       },
-      "multi_context_entries": 793,
-      "alt_explanation_entries": 97
+      "multi_context_entries": 794,
+      "alt_explanation_entries": 98
     }
   },
   "entries": [
@@ -12484,6 +12484,54 @@
         }
       ],
       "markdown_file": "Tu-dien-Sinh-hoc.md"
+    },
+    {
+      "id": "tieng-anh-clip",
+      "term_en": "clip",
+      "term_vi": "đoạn phim ngắn",
+      "term_vi_display": "đoạn phim ngắn",
+      "aliases_vi": [],
+      "origin_discipline": "Tiếng Anh",
+      "explanation_en": "(n) /klɪp/ — A short piece of video or film taken from a longer broadcast or recorded separately.",
+      "explanation_vi": "(danh từ) Một đoạn băng hình hoặc trích đoạn phim ngắn được trình chiếu trong chương trình truyền hình.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Tiếng Anh lớp 6, Unit 7 (Television): dùng trong lịch phát sóng chương trình khoa học về động vật biển (\"Watch funny and interesting clips of intelligent dolphins in their natural life – the sea\").",
+          "disciplines": [
+            "Sinh học",
+            "Tiếng Anh"
+          ],
+          "grade": 6,
+          "lesson_ref": null
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 12",
+          "book": "SGK Tiếng Anh 6 Global Success Tập 2",
+          "unit": "tieng_anh_6",
+          "group": "Unit 07, Unit 7",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            12
+          ]
+        },
+        {
+          "raw": "SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70",
+          "book": "SGK Tiếng Anh 6 Global Success Tập 2",
+          "unit": "tieng_anh_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            70
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
       "id": "sinh-hoc-closed-circulatory-system",
@@ -55225,12 +55273,21 @@
       "id": "tieng-anh-tourist-attraction",
       "term_en": "tourist attraction",
       "term_vi": "điểm tham quan du lịch; thắng cảnh",
-      "term_vi_display": "điểm tham quan du lịch; thắng cảnh",
-      "aliases_vi": [],
+      "term_vi_display": "điểm tham quan du lịch; thắng cảnh (điểm du lịch hấp dẫn, điểm thu hút khách du lịch)",
+      "aliases_vi": [
+        "điểm du lịch hấp dẫn",
+        "điểm thu hút khách du lịch"
+      ],
       "origin_discipline": "Tiếng Anh",
       "explanation_en": "(np) /ˈtʊərɪst əˈtrækʃn/ — A place of interest that tourists visit, typically for its natural beauty, cultural value, or historical significance.",
       "explanation_vi": "(cụm danh từ) Địa điểm tham quan hoặc danh lam thắng cảnh hấp dẫn, thu hút đông đảo khách du lịch tới khám phá.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Tiếng Anh 6 Tập 1",
+          "explanation_en": "(np) /ˈtʊərɪst əˈtrækʃn/ — An interesting or enjoyable place that many tourists visit.",
+          "explanation_vi": "(cụm danh từ) Địa điểm tham quan nổi bật có cảnh đẹp hoặc hoạt động thú vị thu hút đông đảo du khách ghé thăm."
+        }
+      ],
       "contexts": [
         {
           "raw": "Tiếng Anh lớp 10, Unit 10: dùng trong chủ đề du lịch sinh thái khi giới thiệu động Phong Nha (a tourist attraction in Quang Binh Province) và thiết kế tour tới điểm tham quan địa phương.",
@@ -55239,6 +55296,14 @@
             "Tiếng Anh"
           ],
           "grade": 10,
+          "lesson_ref": null
+        },
+        {
+          "raw": "Tiếng Anh lớp 6, Unit 5 (Natural wonders of Viet Nam): dùng trong bài đọc và bài nói giới thiệu thắng cảnh du lịch (\"Tuan Chau, with its beautiful beaches, is a popular tourist attraction in Ha Long Bay.\").",
+          "disciplines": [
+            "Tiếng Anh"
+          ],
+          "grade": 6,
           "lesson_ref": null
         }
       ],
@@ -55276,6 +55341,28 @@
           "printed_pages": [
             110,
             111
+          ]
+        },
+        {
+          "raw": "SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 54",
+          "book": "SGK Tiếng Anh 6 Global Success Tập 1",
+          "unit": "tieng_anh_6",
+          "group": "Unit 05, Unit 5",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            54
+          ]
+        },
+        {
+          "raw": "SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 55",
+          "book": "SGK Tiếng Anh 6 Global Success Tập 1",
+          "unit": "tieng_anh_6",
+          "group": "Unit 05, Unit 5",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            55
           ]
         }
       ],

@@ -1,0 +1,53 @@
+{
+  "H6-tieng_anh-u10-01": {
+    "pdf_page": 45,
+    "bbox": [
+      77,
+      124,
+      276,
+      214
+    ]
+  },
+  "H6-tieng_anh-u10-02": {
+    "pdf_page": 46,
+    "bbox": [
+      70,
+      222,
+      281,
+      353
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nền trang trí loang màu vàng nhạt phía trên và bên phải khung ảnh (a) có độ bão hoà màu vượt ngưỡng"
+  },
+  "H6-tieng_anh-u10-03": {
+    "pdf_page": 46,
+    "bbox": [
+      305,
+      62,
+      535,
+      191
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nền trang trí loang màu vàng nhạt bên trái và phía dưới khung ảnh (b) có độ bão hoà màu vượt ngưỡng"
+  },
+  "H6-tieng_anh-u10-04": {
+    "pdf_page": 46,
+    "bbox": [
+      305,
+      199,
+      535,
+      330
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nền trang trí loang màu vàng nhạt bên trái và phía trên khung ảnh (c) có độ bão hoà màu vượt ngưỡng"
+  },
+  "H6-tieng_anh-u10-05": {
+    "pdf_page": 47,
+    "bbox": [
+      60,
+      273,
+      290,
+      555
+    ]
+  }
+}

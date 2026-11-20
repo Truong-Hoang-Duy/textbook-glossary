@@ -1,0 +1,44 @@
+{
+  "H6-tieng_anh-u04-01": {
+    "pdf_page": 40,
+    "bbox": [323, 258, 524, 387]
+  },
+  "H6-tieng_anh-u04-02": {
+    "pdf_page": 40,
+    "bbox": [328, 600, 585, 783],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh phải khung bản đồ đường phố tràn đè lên dải màu xanh lề phải của trang sách (x=571..585)"
+  },
+  "H6-tieng_anh-u04-03": {
+    "pdf_page": 41,
+    "bbox": [52, 196, 292, 596]
+  },
+  "H6-tieng_anh-u04-04": {
+    "pdf_page": 43,
+    "bbox": [82, 401, 538, 600]
+  },
+  "H6-tieng_anh-u04-05": {
+    "pdf_page": 44,
+    "bbox": [300, 390, 545, 726]
+  },
+  "H6-tieng_anh-u04-06": {
+    "pdf_page": 47,
+    "bbox": [76, 167, 288, 515]
+  },
+  "H6-tieng_anh-u04-07": {
+    "pdf_page": 47,
+    "bbox": [332, 401, 524, 463]
+  },
+  "H6-tieng_anh-u04-08": {
+    "pdf_page": 47,
+    "bbox": [332, 490, 524, 552]
+  },
+  "H6-tieng_anh-u04-09": {
+    "pdf_page": 47,
+    "bbox": [332, 591, 524, 653]
+  },
+  "H6-tieng_anh-u04-10": {
+    "pdf_page": 47,
+    "bbox": [332, 693, 524, 754]
+  }
+}

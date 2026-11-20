@@ -1,0 +1,20 @@
+{
+  "H6-tieng_anh-u08-01": {
+    "pdf_page": 18,
+    "bbox": [92, 267, 517, 443],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nền trang 17 (PDF 18) có mảng màu cam trang trí tràn lề bên trái phía sau tranh 1 và tranh 4; khung cắt bao trọn 6 tranh và dòng điền từ 1-6 mà không chạm hộp từ phía trên hay câu hỏi phía dưới"
+  },
+  "H6-tieng_anh-u08-02": {
+    "pdf_page": 19,
+    "bbox": [70, 180, 293, 546]
+  },
+  "H6-tieng_anh-u08-03": {
+    "pdf_page": 21,
+    "bbox": [58, 283, 546, 556]
+  },
+  "H6-tieng_anh-u08-04": {
+    "pdf_page": 22,
+    "bbox": [304, 332, 537, 777]
+  }
+}

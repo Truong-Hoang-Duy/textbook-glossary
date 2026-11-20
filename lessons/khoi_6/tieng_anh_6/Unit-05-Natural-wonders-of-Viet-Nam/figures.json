@@ -1,0 +1,34 @@
+{
+  "H6-tieng_anh-u05-01": {
+    "pdf_page": 50,
+    "bbox": [66, 456, 284, 562]
+  },
+  "H6-tieng_anh-u05-02": {
+    "pdf_page": 50,
+    "bbox": [320, 58, 538, 382]
+  },
+  "H6-tieng_anh-u05-03": {
+    "pdf_page": 51,
+    "bbox": [58, 220, 546, 530]
+  },
+  "H6-tieng_anh-u05-04": {
+    "pdf_page": 55,
+    "bbox": [54, 248, 294, 347]
+  },
+  "H6-tieng_anh-u05-05": {
+    "pdf_page": 56,
+    "bbox": [5, 218, 282, 396]
+  },
+  "H6-tieng_anh-u05-06": {
+    "pdf_page": 56,
+    "bbox": [302, 143, 540, 367]
+  },
+  "H6-tieng_anh-u05-07": {
+    "pdf_page": 57,
+    "bbox": [74, 175, 294, 520]
+  },
+  "H6-tieng_anh-u05-08": {
+    "pdf_page": 57,
+    "bbox": [306, 83, 545, 214]
+  }
+}

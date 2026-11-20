@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Địa lí",
-    "generated_at": "2026-11-20T01:32:27Z",
+    "generated_at": "2026-11-20T02:39:07Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -17,18 +17,18 @@
       "Tu-dien-Vat-li.md"
     ],
     "counts": {
-      "entries": 674,
+      "entries": 676,
       "by_origin_discipline": {
         "Giáo dục Kinh tế và Pháp luật": 23,
         "Hóa học": 1,
         "Lịch sử": 11,
         "Sinh học": 7,
         "Tin học": 7,
-        "Tiếng Anh": 3,
+        "Tiếng Anh": 5,
         "Toán học": 1,
         "Địa lí": 621
       },
-      "multi_context_entries": 481,
+      "multi_context_entries": 483,
       "alt_explanation_entries": 43
     }
   },
@@ -5865,6 +5865,67 @@
         }
       ],
       "markdown_file": "Tu-dien-Dia-li.md"
+    },
+    {
+      "id": "tieng-anh-desert",
+      "term_en": "desert",
+      "term_vi": "sa mạc",
+      "term_vi_display": "sa mạc",
+      "aliases_vi": [],
+      "origin_discipline": "Tiếng Anh",
+      "explanation_en": "(n) /ˈdezət/ — A large area of land that has very little water and very few plants, often covered with sand.",
+      "explanation_vi": "(danh từ) Vùng đất rộng lớn có khí hậu khô hạn, rất ít nước mưa và thưa thớt cây cối, thường bao phủ bởi cát.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Tiếng Anh lớp 6, Unit 5 (Natural wonders of Viet Nam): dùng trong từ vựng địa hình tự nhiên và bài đọc về đồi cát Mũi Né (\"The Sahara is a very hot desert.\", \"It's like a desert here.\").",
+          "disciplines": [
+            "Địa lí",
+            "Tiếng Anh"
+          ],
+          "grade": 6,
+          "lesson_ref": null
+        }
+      ],
+      "disambiguation_notes": [
+        "Lưu ý trọng âm rơi vào âm tiết thứ nhất /ˈdezət/ (sa mạc), tránh nhầm lẫn với từ \"dessert\" /dɪˈzɜːt/ (món tráng miệng)."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 49",
+          "book": "SGK Tiếng Anh 6 Global Success Tập 1",
+          "unit": "tieng_anh_6",
+          "group": "Unit 05, Unit 5",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            49
+          ]
+        },
+        {
+          "raw": "SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 51",
+          "book": "SGK Tiếng Anh 6 Global Success Tập 1",
+          "unit": "tieng_anh_6",
+          "group": "Unit 05, Unit 5",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            51
+          ]
+        },
+        {
+          "raw": "SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 54",
+          "book": "SGK Tiếng Anh 6 Global Success Tập 1",
+          "unit": "tieng_anh_6",
+          "group": "Unit 05, Unit 5",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            54
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
       "id": "dia-li-deserts-of-southwest-asia",
@@ -20834,6 +20895,54 @@
         }
       ],
       "markdown_file": "Tu-dien-Dia-li.md"
+    },
+    {
+      "id": "tieng-anh-narrow",
+      "term_en": "narrow",
+      "term_vi": "hẹp, chật hẹp",
+      "term_vi_display": "hẹp, chật hẹp",
+      "aliases_vi": [],
+      "origin_discipline": "Tiếng Anh",
+      "explanation_en": "(adj) /ˈnærəʊ/ — Measuring a short distance from one side to the other, especially in relation to length.",
+      "explanation_vi": "(tính từ) Có bề ngang nhỏ hẹp, chật hẹp (thường dùng để miêu tả đường phố, ngõ hẻm; trái nghĩa với \"wide\").",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Tiếng Anh lớp 6, Unit 4 (My neighbourhood): dùng trong chủ đề miêu tả đặc điểm đường sá khu dân cư (\"The streets are narrow.\").",
+          "disciplines": [
+            "Địa lí",
+            "Tiếng Anh"
+          ],
+          "grade": 6,
+          "lesson_ref": null
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 45",
+          "book": "SGK Tiếng Anh 6 Global Success Tập 1",
+          "unit": "tieng_anh_6",
+          "group": "Unit 04, Unit 4",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            45
+          ]
+        },
+        {
+          "raw": "SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71",
+          "book": "SGK Tiếng Anh 6 Global Success Tập 1",
+          "unit": "tieng_anh_6",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            71
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
       "id": "dia-li-nation",

@@ -1,6 +1,6 @@
 {
   "status": "da_kiem_chung",
-  "verified_on": "tieng_anh_12, 2026-10-30; tieng_anh_10, 2026-11-04",
+  "verified_on": "tieng_anh_12, 2026-10-30; tieng_anh_10, 2026-11-04; tieng_anh_6, 2026-11-20",
   "profile": "tieng_anh",
   "subjects": [
     "tieng_anh"
@@ -19,7 +19,7 @@
     }
   ],
   "extra_headings": [
-    "^(GETTING STARTED|LANGUAGE|READING|SPEAKING|LISTENING|WRITING|COMMUNICATION AND CULTURE|SKILLS|LOOKING BACK|PROJECT|Pronunciation|Vocabulary|Grammar|Everyday English|Culture(\\s*/\\s*CLIL)?|CLIL|Listening|Speaking|Reading|Writing|This unit includes|Now I can|Abbreviations|Unit \\d+)\\b"
+    "^(GETTING STARTED|A CLOSER LOOK(\\s*[12])?|COMMUNICATION( AND CULTURE)?|LANGUAGE|READING|SPEAKING|LISTENING|WRITING|SKILLS(\\s*[12])?|LOOKING BACK|PROJECT|Pronunciation|Vocabulary|Grammar|Everyday English|Culture(\\s*/\\s*CLIL)?|CLIL|Listening|Speaking|Reading|Writing|This unit includes|Now I can|Abbreviations|Unit \\d+)\\b"
   ],
   "dictionary_columns": {
     "headers": [

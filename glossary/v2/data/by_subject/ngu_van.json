@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Ngữ văn",
-    "generated_at": "2026-11-20T01:32:25Z",
+    "generated_at": "2026-11-20T02:39:05Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -17,17 +17,17 @@
       "Tu-dien-Vat-li.md"
     ],
     "counts": {
-      "entries": 339,
+      "entries": 340,
       "by_origin_discipline": {
         "Giáo dục Kinh tế và Pháp luật": 1,
         "Hóa học": 9,
         "Lịch sử": 4,
         "Ngữ văn": 317,
-        "Tiếng Anh": 4,
+        "Tiếng Anh": 5,
         "Toán học": 3,
         "Vật lí": 1
       },
-      "multi_context_entries": 325,
+      "multi_context_entries": 326,
       "alt_explanation_entries": 30
     }
   },
@@ -17631,6 +17631,68 @@
         }
       ],
       "markdown_file": "Tu-dien-Ngu-van.md"
+    },
+    {
+      "id": "tieng-anh-scenery",
+      "term_en": "scenery",
+      "term_vi": "phong cảnh, cảnh sắc thiên nhiên",
+      "term_vi_display": "phong cảnh, cảnh sắc thiên nhiên",
+      "aliases_vi": [],
+      "origin_discipline": "Tiếng Anh",
+      "explanation_en": "(n) /ˈsiːnəri/ — The natural features of an area, such as mountains, valleys, rivers, and forests, especially when they are beautiful to look at.",
+      "explanation_vi": "(danh từ) Vẻ đẹp cảnh sắc thiên nhiên của một vùng đất như núi non, sông biển (danh từ không đếm được, luôn đi với động từ số ít).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Tiếng Anh lớp 6, Unit 5 (Natural wonders of Viet Nam): dùng để miêu tả vẻ đẹp thơ mộng của Vịnh Hạ Long (\"The scenery is wonderful.\", \"Ha Long Bay is charming and the scenery is wonderful.\").",
+          "disciplines": [
+            "Ngữ văn",
+            "Tiếng Anh"
+          ],
+          "grade": 6,
+          "lesson_ref": null
+        }
+      ],
+      "disambiguation_notes": [
+        "\"Scenery\" là danh từ không đếm được (không có dạng số nhiều \"sceneries\"), khác với \"landscape\" là danh từ đếm được (\"amazing landscapes\")."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 48",
+          "book": "SGK Tiếng Anh 6 Global Success Tập 1",
+          "unit": "tieng_anh_6",
+          "group": "Unit 05, Unit 5",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            48
+          ]
+        },
+        {
+          "raw": "SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 48, 49",
+          "book": "SGK Tiếng Anh 6 Global Success Tập 1",
+          "unit": "tieng_anh_6",
+          "group": "Unit 05, Unit 5",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            48,
+            49
+          ]
+        },
+        {
+          "raw": "SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 49",
+          "book": "SGK Tiếng Anh 6 Global Success Tập 1",
+          "unit": "tieng_anh_6",
+          "group": "Unit 05, Unit 5",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            49
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Tieng-Anh.md"
     },
     {
       "id": "ngu-van-secondary-data",

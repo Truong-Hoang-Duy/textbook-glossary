@@ -1,0 +1,54 @@
+{
+  "H6-tieng_anh-u03-01": {
+    "pdf_page": 28,
+    "bbox": [304, 154, 528, 330]
+  },
+  "H6-tieng_anh-u03-02": {
+    "pdf_page": 28,
+    "bbox": [321, 418, 537, 564]
+  },
+  "H6-tieng_anh-u03-03": {
+    "pdf_page": 29,
+    "bbox": [60, 210, 290, 782]
+  },
+  "H6-tieng_anh-u03-04": {
+    "pdf_page": 29,
+    "bbox": [364, 680, 497, 812]
+  },
+  "H6-tieng_anh-u03-05": {
+    "pdf_page": 30,
+    "bbox": [305, 514, 554, 788]
+  },
+  "H6-tieng_anh-u03-06": {
+    "pdf_page": 31,
+    "bbox": [77, 83, 544, 415]
+  },
+  "H6-tieng_anh-u03-07": {
+    "pdf_page": 33,
+    "bbox": [60, 130, 290, 293],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Khung quảng cáo The Superb Summer Camp đặt nghiêng hướng lên phía phải (góc trên bên phải chạm y=126 để tách hoàn toàn khỏi tiêu đề Reading ở y=125)"
+  },
+  "H6-tieng_anh-u03-08": {
+    "pdf_page": 34,
+    "bbox": [28, 177, 282, 463]
+  },
+  "H6-tieng_anh-u03-09": {
+    "pdf_page": 34,
+    "bbox": [90, 568, 242, 784]
+  },
+  "H6-tieng_anh-u03-10": {
+    "pdf_page": 35,
+    "bbox": [309, 306, 552, 484]
+  },
+  "H6-tieng_anh-r01-01": {
+    "pdf_page": 37,
+    "bbox": [96, 555, 263, 701],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh dưới khung ô chữ sát đỉnh chữ N của tiêu đề DOWN ngay dưới chân cột 1 (chạm 1 điểm tại x=96, y=705)"
+  },
+  "H6-tieng_anh-r01-02": {
+    "pdf_page": 37,
+    "bbox": [329, 399, 545, 545]
+  }
+}
