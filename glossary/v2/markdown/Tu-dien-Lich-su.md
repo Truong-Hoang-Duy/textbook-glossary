@@ -5,6 +5,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 
 ---
 
+### 1285 Resistance War against the Yuan
+- **Tiếng Việt:** Cuộc kháng chiến chống quân Nguyên năm 1285
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The second resistance war waged by the Tran Dynasty army and people from January to May 1285 against over 500,000 Yuan troops commanded by Toghon and Sogetu. Employing the 'empty gardens and vacant houses' strategy to wear down enemy forces and foil their link-up plan, Tran forces launched victorious counteroffensives at Tay Ket, Ham Tu, and Chuong Duong, liberating the capital Thang Long.
+- **Giải thích (VI):** Cuộc kháng chiến chống ngoại xâm lần thứ hai của quân dân nhà Trần từ tháng 1 đến tháng 5 năm 1285 nhằm đánh trả hơn 50 vạn quân Nguyên do Thoát Hoan và Toa Đô chỉ huy. Bằng kế sách 'vườn không nhà trống' làm tiêu hao sinh lực địch và phá vỡ mưu đồ hội quân của chúng, quân Trần đã phản công thắng lợi tại Tây Kết, Hàm Tử, Chương Dương, giải phóng kinh thành Thăng Long.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 2): Cuộc kháng chiến lần thứ hai đánh bại đạo quân xâm lược quy mô lớn nhất của nhà Nguyên.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 70, 71
+
+### 1288 Battle of Bach Dang
+- **Tiếng Việt:** Chiến thắng Bạch Đằng năm 1288 (trận Bạch Đằng; Chiến thắng Bạch Đằng)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A decisive naval battle fought in early April 1288 at the Bach Dang River estuary under the direct command of Tran Quoc Tuan, exploiting the ebbing tide to lure Omar's fleet into a submerged stake trap and destroy it with fire attacks. This victory captured General Omar alive, annihilated the enemy naval force, and victoriously concluded the 1287–1288 resistance war against the Yuan.
+- **Giải thích (VI):** Trận thuỷ chiến quyết định vào đầu tháng 4 năm 1288 tại cửa sông Bạch Đằng do Trần Quốc Tuấn trực tiếp chỉ huy, lợi dụng thuỷ triều rút để nhử đoàn thuyền của Ô Mã Nhi vào trận địa cọc ngầm và dùng hoả công tiêu diệt. Chiến thắng này bắt sống tướng Ô Mã Nhi, đập tan đạo binh thuyền địch và kết thúc thắng lợi cuộc kháng chiến chống quân Nguyên năm 1287 – 1288.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 14 (Mục 3, 4.a): Trận quyết chiến chiến lược kết thúc ba lần kháng chiến chống quân xâm lược Mông – Nguyên.
+  - *Lưu ý:* Cần phân biệt với Chiến thắng Bạch Đằng năm 938 của Ngô Quyền chống quân Nam Hán và trận Bạch Đằng năm 981 của Lê Hoàn chống quân Tống.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 3), tr. 72; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 4.a), tr. 72
+
 ### 1945 Southward March
 - **Tiếng Việt:** Nam tiến
 - **Chuyên ngành gốc:** Lịch sử
@@ -193,6 +211,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với kì nam là loại trầm hương thượng hạng tích tụ hàm lượng dầu đặc biệt cao nằm ở phần lõi cây dó.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 2.a), tr. 88
 
+### Agricultural Promotion Commissioner
+- **Tiếng Việt:** Khuyến nông sứ
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A specialized official post in the feudal state established to oversee and promote the development of agricultural production.
+- **Giải thích (VI):** Chức quan chuyên trách của nhà nước phong kiến được đặt ra để trông coi và thúc đẩy việc khuyến khích phát triển sản xuất nông nghiệp.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 2, 3.a): Chức quan chăm lo thúc đẩy sản xuất nông nghiệp dưới thời Trần.
+  - Lịch sử và Địa lí lớp 7, Bài 17 (Mục 2.a): Chức quan chuyên trách nông nghiệp được nhà Lê sơ thiết lập nhằm phục hồi và phát triển kinh tế.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 63; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 2.a), tr. 85
+
 ### aims and purposes of ASEAN
 - **Tiếng Việt:** Mục đích thành lập của ASEAN
 - **Chuyên ngành gốc:** Lịch sử
@@ -200,6 +228,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Định hướng cốt lõi khi thành lập ASEAN nhằm tăng cường hợp tác kinh tế, văn hoá, xã hội, tạo điều kiện cho các nước thành viên phát triển và hội nhập với khu vực, thế giới; đồng thời phấn đấu xây dựng Đông Nam Á thành khu vực hoà bình, tự do, thịnh vượng và đưa ASEAN trở thành tổ chức bao gồm tất cả các quốc gia trong khu vực.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 4 (Mục 1.b): Tôn chỉ, mục đích cơ bản chi phối quá trình hợp tác và mở rộng thành viên của tổ chức ASEAN.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 22; SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 22
+
+### Ajanta Caves
+- **Tiếng Việt:** Chùa hang A-gian-ta
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A Buddhist rock-cut architectural and sculptural complex of 31 caves carved directly into a massive cliff face in India, constructed mainly between the fourth and eighth centuries. Combining monumental scale with intricate artistic detail, the site was inscribed as a UNESCO World Heritage Site in 1983.
+- **Giải thích (VI):** Quần thể kiến trúc và điêu khắc Phật giáo gồm 31 hang động tạc trực tiếp vào dải núi đá khổng lồ ở Ấn Độ, chủ yếu được kiến tạo từ thế kỉ IV đến thế kỉ VIII. Công trình kết hợp quy mô kì vĩ với nghệ thuật chạm khắc tỉ mỉ, tinh tế và trở thành Di sản văn hoá thế giới của UNESCO năm 1983.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 5 (Mục 2.c): Kiệt tác kiến trúc và điêu khắc Phật giáo tiêu biểu của Ấn Độ thời phong kiến.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 2.c), tr. 33
 
 ### Altar of Soil and Grain
 - **Tiếng Việt:** Đàn Xã Tắc
@@ -216,6 +252,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Thủ lĩnh Thục Phán do người Lạc Việt và người Âu Việt suy tôn lãnh đạo cuộc kháng chiến chống quân Tần xâm lược vào cuối thế kỉ III TCN. Sau thắng lợi, ông lên ngôi vua, xưng hiệu An Dương Vương và lập ra nước Âu Lạc vào khoảng năm 208 TCN.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 14 (Mục 2): nhân vật lịch sử lãnh đạo kháng chiến chống Tần và sáng lập Nhà nước Âu Lạc.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 1), tr. 61; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 61; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 61, 62
+
+### Anarchy of the 12 Warlords
+- **Tiếng Việt:** Loạn 12 sứ quân
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A period of territorial fragmentation and conflict at the end of the Ngo Dynasty following Ngo Quyen's death in 944 and the collapse of the central court in 965, during which 12 local chieftains and generals rose up to control separate regions.
+- **Giải thích (VI):** Tình trạng chia cắt, hỗn chiến cuối thời Ngô sau khi Ngô Quyền mất (năm 944) khiến triều đình suy yếu và tan rã vào năm 965, dẫn đến việc 12 thế lực hào trưởng, tướng lĩnh địa phương nổi lên chiếm cứ mỗi người một vùng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2): Hoàn cảnh phân liệt cuối thời Ngô dẫn tới yêu cầu thống nhất đất nước.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B9 (Mục 2), tr. 46; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B9 (Mục 2), tr. 46, 47
 
 ### ancestor and deceased worship
 - **Tiếng Việt:** Tín ngưỡng thờ cúng người đã mất
@@ -260,6 +304,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 19 (Mục 3.a): Thành tựu văn hoá tiêu biểu khẳng định bản sắc chữ viết riêng của cư dân Vương quốc Chăm-pa.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.b), tr. 101; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.b), tr. 101, 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 2.b), tr. 89; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 3.a), tr. 89; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 3.b), tr. 89
 
+### ancient city
+- **Tiếng Việt:** Đô thị cổ đại (thành thị cổ đại)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A densely populated settlement with a division of labor formed in antiquity as production developed and populations grew (such as Babylon, Memphis, and Mohenjo-daro in the East, or Athens in Greece and Rome). Ancient cities functioned as administrative, political, and military centers, economic and transport hubs, and the foundation for the formation, flourishing, and decline of ancient civilizations.
+- **Giải thích (VI):** Khu dân cư đông đúc có sự phân công lao động hình thành từ thời cổ đại khi sản xuất phát triển và dân số tăng lên (như Ba-bi-lon, Mem-phít, Mô-hen-giô Đa-rô ở phương Đông hay A-ten ở Hy Lạp, La Mã). Các đô thị này đóng vai trò là trung tâm hành chính, chính trị, quân sự, đầu mối kinh tế – giao thông và đặt nền tảng cho sự hình thành, hưng thịnh, suy tàn của các nền văn minh cổ đại.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Chủ đề chung 2 (Mục 1): khái quát sự ra đời và vai trò của đô thị thời cổ đại ở phương Đông và phương Tây.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2, tr. 170; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1.a), tr. 171; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.a), tr. 172
+
 ### ancient democracy
 - **Tiếng Việt:** Dân chủ cổ đại (chế độ dân chủ)
 - **Chuyên ngành gốc:** Lịch sử
@@ -267,6 +319,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chế độ chính trị dân chủ sớm nhất trong lịch sử thế giới do người Hy Lạp ở thành bang A-ten cổ đại thiết lập, phân biệt với nền dân chủ thời hiện đại. Trong chế độ này, Đại hội nhân dân gồm toàn bộ công dân nam từ 18 tuổi trở lên có quyền thảo luận, biểu quyết mọi vấn đề hệ trọng của đất nước và bầu ra các cơ quan nhà nước.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 10 (Mục 2): thể chế chính trị tiêu biểu đạt tới đỉnh cao ở thành bang A-ten thời Pê-ri-clét.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 1.b), tr. 46; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 2), tr. 46; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 2), tr. 46, 47; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190
+
+### ancient Eastern city
+- **Tiếng Việt:** Đô thị cổ đại phương Đông
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Cities formed between roughly the fourth and third millennia BCE in the basins of major Asian and African rivers (the Nile, Tigris and Euphrates, Indus, and Ganges) through fertile-plain agriculture, livestock raising, handicrafts, and division of labor. Representative cities such as Babylon, Memphis, and Mohenjo-daro were closely tied to the flourishing and decline of the earliest Eastern civilizations.
+- **Giải thích (VI):** Các đô thị hình thành từ khoảng thiên niên kỉ IV TCN đến thiên niên kỉ III TCN trên lưu vực các dòng sông lớn ở châu Á, châu Phi (sông Nin, sông Ti-gơ-rơ và Ơ-phơ-rát, sông Ấn, sông Hằng) trên cơ sở canh tác nông nghiệp ở đồng bằng màu mỡ, chăn nuôi, thủ công nghiệp và phân công lao động. Các đô thị tiêu biểu như Ba-bi-lon, Mem-phít, Mô-hen-giô Đa-rô gắn liền với sự hưng thịnh và suy tàn của những nền văn minh đầu tiên ở phương Đông.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Chủ đề chung 2 (Mục 1.a): điều kiện địa lí, lịch sử hình thành và mối quan hệ giữa đô thị với các nền văn minh cổ đại phương Đông.
+  - *Lưu ý:* Khác với đô thị Hy Lạp, La Mã cổ đại hình thành gắn với hải cảng và thương mại hàng hải, đô thị cổ đại phương Đông ra đời trên lưu vực các dòng sông lớn gắn với nông nghiệp đồng bằng màu mỡ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1.a), tr. 171
 
 ### Ancient Egypt
 - **Tiếng Việt:** Ai Cập (Ai Cập cổ đại)
@@ -284,6 +346,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.1.a): Nền văn minh mở đầu cho tiến trình tìm hiểu các nền văn minh phương Đông thời kì cổ – trung đại.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5, tr. 33; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2), tr. 35; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 1.a), tr. 35
 
+### ancient Greco-Roman city
+- **Tiếng Việt:** Đô thị Hy Lạp, La Mã cổ đại
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Ancient Western cities formed along coasts with dry land but numerous bays and inlets favorable for seaports and rich mineral deposits, fostering thriving handicrafts and maritime trade (notably Athens with the port of Piraeus). These cities served as economic and political state centers and created a democratic atmosphere that laid the foundation for the flourishing of Greek and Roman civilization.
+- **Giải thích (VI):** Các đô thị cổ đại phương Tây hình thành ở vùng đất khô cằn nhưng có nhiều vũng, vịnh thuận lợi lập hải cảng và giàu mỏ khoáng sản, sớm phát triển mạnh thủ công nghiệp và buôn bán hàng hải (tiêu biểu là thành thị A-ten với cảng Pi-rê). Các đô thị này đóng vai trò là trung tâm kinh tế, chính trị của nhà nước và tạo không khí dân chủ đặt nền tảng cho văn minh Hy Lạp, La Mã phát triển rực rỡ.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Chủ đề chung 2 (Mục 1.b): điều kiện hình thành và vai trò của các đô thị cổ đại phương Tây đối với nền văn minh Hy Lạp, La Mã.
+  - *Lưu ý:* Khác với đô thị cổ đại phương Đông dựa vào nông nghiệp ven sông lớn, đô thị Hy Lạp, La Mã cổ đại hình thành quanh các hải cảng, phát triển mạnh thủ công nghiệp và buôn bán hàng hải.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1.b), tr. 172; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.a), tr. 172; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.a), tr. 172, 173
+
 ### ancient Greco-Roman civilization
 - **Tiếng Việt:** Văn minh Hy Lạp – La Mã cổ đại
 - **Chuyên ngành gốc:** Lịch sử
@@ -291,6 +363,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nền văn minh cổ đại phương Tây hình thành trên các bán đảo Nam Âu trên cơ sở phát triển kinh tế thủ công nghiệp, thương mại biển và tiếp thu các thành tựu của văn minh phương Đông. Nền văn minh này để lại những cống hiến vĩ đại về chữ cái, văn học, nghệ thuật, khoa học, triết học và thể thao, đặt nền tảng cho văn hoá phương Tây sau này.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 1): Cơ sở hình thành và những thành tựu nền tảng của văn minh phương Tây thời cổ đại.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 48, 50
+
+### Angkor period
+- **Tiếng Việt:** Thời kì Ăng-co (Ăng-co)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The most flourishing period of the Kingdom of Cambodia, lasting from 802 (9th century), when King Jayavarman II unified the territory, until the 15th century. Named after the capital Angkor built northwest of Tonle Sap Lake (present-day Siem Reap province), this era was marked by economic and cultural prosperity as well as territorial expansion into a regional power.
+- **Giải thích (VI):** Thời kì phát triển rực rỡ nhất của Vương quốc Cam-pu-chia kéo dài từ năm 802 (thế kỉ IX) khi vua Giay-a-vác-man II thống nhất lãnh thổ đến thế kỉ XV. Tên thời kì lấy theo tên kinh đô Ăng-co xây dựng ở vùng Tây Bắc Biển Hồ (nay thuộc tỉnh Xiêm Riệp), gắn liền với sự hưng thịnh về kinh tế, văn hoá và mở rộng lãnh thổ thành cường quốc khu vực.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 8 (Mục 1–2): Giai đoạn phát triển thịnh đạt và mở rộng thế lực mạnh mẽ nhất của Vương quốc Cam-pu-chia phong kiến (802 – thế kỉ XV).
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B8, tr. 42; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 1), tr. 42; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2), tr. 42
+
+### Angkor temple complex
+- **Tiếng Việt:** Quần thể đền Ăng-co (Ăng-co Vát; Ăng-co Thom)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A monumental architectural and sculptural temple complex of the Kingdom of Cambodia during the Angkor period, notably Angkor Wat and Angkor Thom. Modeled after Mount Meru of India with a central tower reaching 65 m surrounded by five towers, the complex was constructed from sandstone and laterite blocks stacked together without mortar.
+- **Giải thích (VI):** Tổ hợp công trình kiến trúc và điêu khắc đền tháp đồ sộ của Vương quốc Cam-pu-chia thời kì Ăng-co, tiêu biểu là Ăng-co Vát và Ăng-co Thom. Khu đền mô phỏng ngọn núi Mê-ru của Ấn Độ với tháp trung tâm cao tới 65 m cùng 5 ngọn tháp bao quanh, xây dựng bằng đá sa thạch và đá tổ ong xếp chồng lên nhau không cần chất kết dính.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 8 (Mục 3): Di tích kiến trúc, điêu khắc đá kiệt xuất của văn hoá Cam-pu-chia thời kì Ăng-co.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2), tr. 43; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 43; SGK Lịch sử và Địa lí 7 KNTT, Bảng phiên âm, tr. 179
 
 ### Angkor Wat
 - **Tiếng Việt:** Đền Ăng-co Vát
@@ -313,10 +401,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A representative national history of Dai Viet compiled during the Tran dynasty by historian Le Van Huu, associated with the establishment of the Imperial Historiography Institute as a dedicated state agency for writing history.
 - **Giải thích (VI):** Bộ quốc sử tiêu biểu của Đại Việt dưới triều Trần do nhà sử học Lê Văn Hưu biên soạn, gắn liền với sự ra đời của Quốc sử viện là cơ quan nhà nước chuyên trách việc chép sử.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: The first official national history of Vietnam, compiled by the historian Le Van Huu during the Tran Dynasty. / VI: Bộ quốc sử chính thống đầu tiên của Việt Nam do nhà sử học Lê Văn Hưu biên soạn dưới vương triều Trần.
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 12 (Mục 3.h): Nêu thành tựu mở đầu tiêu biểu của nền sử học chính thống Đại Việt thời Trần.
+  - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 4.c): Công trình quốc sử chính thống đầu tiên của dân tộc biên soạn dưới thời Trần.
   - *Lưu ý:* Bộ quốc sử thời Trần do Lê Văn Hưu biên soạn, phân biệt với bộ Đại Việt sử ký toàn thư biên soạn dưới thời Lê sơ.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120, 121
+  - *Lưu ý:* Bộ quốc sử đầu tiên do Lê Văn Hưu biên soạn thời Trần; phân biệt với Đại Việt sử ký toàn thư do Ngô Sĩ Liên biên soạn thời Lê sơ.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120, 121; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.a), tr. 66; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.b), tr. 66; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.c), tr. 66
 
 ### anti-colonial movement in mainland Southeast Asia
 - **Tiếng Việt:** Phong trào chống thực dân ở lục địa
@@ -349,6 +440,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Văn kiện lịch sử do Chủ tịch Hồ Chí Minh ban hành ngày 19 – 12 – 1946 trước việc thực dân Pháp phá hoại các thoả thuận đã kí kết và đẩy mạnh xâm lược, hiệu triệu toàn thể nhân dân Việt Nam không phân biệt già trẻ, gái trai, tôn giáo, đảng phái, dân tộc đứng lên đánh thực dân Pháp cứu Tổ quốc.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.b): Văn kiện lịch sử phát động cuộc kháng chiến toàn quốc chống thực dân Pháp ngày 19 – 12 – 1946.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39, 40
+
+### Apsara dance
+- **Tiếng Việt:** Vũ điệu Áp-sa-ra
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The most iconic court and religious dance performed by Cham female dancers, traditionally staged alongside silk and fan dances to the accompaniment of ensembles featuring drums and Saranai oboes.
+- **Giải thích (VI):** Điệu múa cung đình và tôn giáo đặc sắc nhất của các vũ nữ Chăm-pa, thường biểu diễn cùng múa lụa, múa quạt trên nền hoà tấu các nhạc cụ truyền thống như trống và kèn Sa-ra-na.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 1.b): Nghệ thuật trình diễn ca múa nhạc truyền thống đặc sắc của cư dân Chăm-pa.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 93
 
 ### archaeological site
 - **Tiếng Việt:** Di chỉ
@@ -532,6 +631,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 4 (Mục 1.a, 1.b): Văn kiện khai sinh tổ chức ASEAN và đặt nền móng cho ý tưởng xây dựng cộng đồng khu vực Đông Nam Á.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 22; SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 22
 
+### Baray reservoirs
+- **Tiếng Việt:** Hồ Ba-ray (Ba-ray Tây; Ba-ray Đông)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A system of artificial reservoirs and canals excavated by the Khmer during the Angkor period to store and distribute irrigation water for agricultural production, notably the West Baray and East Baray.
+- **Giải thích (VI):** Hệ thống hồ chứa nước nhân tạo kết hợp kênh mương được người Khơ-me đào dưới thời kì Ăng-co nhằm tích trữ và điều phối nước tưới phục vụ sản xuất nông nghiệp, tiêu biểu là hồ Ba-ray Tây và hồ Ba-ray Đông.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 8 (Mục 2): Hệ thống công trình thuỷ lợi trữ và điều phối nước tưới tiêu biểu phục vụ nông nghiệp dưới thời Ăng-co.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B8, tr. 42; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 1), tr. 42; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2), tr. 42
+
 ### basic principles of historiography
 - **Tiếng Việt:** Nguyên tắc cơ bản của Sử học
 - **Chuyên ngành gốc:** Lịch sử
@@ -549,6 +656,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 18 (Mục 2.a, 2.b): Trận thuỷ chiến lịch sử hoàn thành sự nghiệp giải phóng dân tộc và kết thúc thời kì Bắc thuộc.
   - *Lưu ý:* Phân biệt với cuộc kháng chiến trên sông Bạch Đằng năm 981 thời Tiền Lê và chiến thắng Bạch Đằng năm 1288 thời Trần.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 2.a), tr. 83; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 2.a), tr. 83, 84; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 2.b), tr. 85
+
+### Battle of Chi Lang-Xuong Giang
+- **Tiếng Việt:** Chiến thắng Chi Lăng – Xương Giang
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A decisive strategic campaign waged by the Lam Son insurgents beginning in October 1427, opening with an ambush at Chi Lang Pass (Lang Son) that killed commander Liu Sheng and continuing with victories at Can Tram, Pho Cat, and Xuong Giang (Bac Giang). This triumph shattered the Ming relief column from Guangxi and terrified Mu Sheng's Yunnan column into hastily retreating home.
+- **Giải thích (VI):** Chuỗi trận quyết chiến chiến lược từ tháng 10 năm 1427 của nghĩa quân Lam Sơn, mở đầu bằng trận phục kích tiêu diệt chủ tướng Liễu Thăng tại ải Chi Lăng (Lạng Sơn) và tiếp nối bằng các thắng lợi ở Cần Trạm, Phố Cát, Xương Giang (Bắc Giang). Chiến thắng này đánh tan đạo viện binh từ Quảng Tây và buộc cánh quân tiếp viện của Mộc Thạnh từ Vân Nam phải khiếp sợ tháo chạy về nước.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.d): Chiến dịch quyết định đập tan 15 vạn viện binh nhà Minh cuối năm 1427.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 81, 82
+
+### Battle of Tot Dong-Chuc Dong
+- **Tiếng Việt:** Chiến thắng Tốt Động – Chúc Động
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A resounding ambush counteroffensive won by the Lam Son insurgents on November 7, 1426, at Tot Dong–Chuc Dong (present-day Chuong My, Hanoi), crushing the sortie launched from Dong Quan Citadel by Ming forces under Wang Tong. This victory inflicted heavy casualties on the enemy, enabling the insurgents to expand liberated territory and tighten the siege of Dong Quan.
+- **Giải thích (VI):** Trận phản công mai phục thắng lợi vang dội của nghĩa quân Lam Sơn ngày 7 tháng 11 năm 1426 tại khu vực Tốt Động – Chúc Động (Chương Mỹ, Hà Nội ngày nay), đập tan cuộc tiến công của đạo quân Minh do Vương Thông chỉ huy từ thành Đông Quan. Thắng lợi này làm suy sụp nặng nề sinh lực địch, giúp nghĩa quân mở rộng vùng giải phóng và siết chặt vòng vây thành Đông Quan.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.d): Trận phản công lớn làm thay đổi tương quan thế trận quanh thành Đông Quan cuối năm 1426.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 80, 81
 
 ### Before Common Era
 - **Tiếng Việt:** Trước Công nguyên (TCN)
@@ -569,6 +692,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 10, Bài 7 (Mục 2.b): Thành tựu đột phá của ngành luyện thép trong Cách mạng công nghiệp lần thứ hai.
   - *Lưu ý:* Trong SGK Lịch sử 10, thuật ngữ "phương pháp sử dụng lò cao" dùng để chỉ quy trình luyện thép từ gang lỏng của Hen-ri Bê-sê-mơ năm 1856 (tương ứng với thuật ngữ quốc tế Bessemer process).
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 62, 63
+
+### Binh Than Conference
+- **Tiếng Việt:** Hội nghị Bình Than
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A military conference convened by the Tran king at Binh Than (Bac Ninh) to discuss defense strategies and affirm the resolve to resist the second Yuan invasion plan against Dai Viet. This event is associated with the young nobleman Tran Quoc Toan crushing an orange in frustration at being too young to attend before raising his own force under the six-word banner 'Crush the strong enemy, repay the royal grace'.
+- **Giải thích (VI):** Hội nghị quân sự do vua Trần triệu tập tại Bình Than (Bắc Ninh) nhằm bàn kế sách và khẳng định quyết tâm kháng chiến trước âm mưu xâm lược Đại Việt lần thứ hai của nhà Nguyên. Sự kiện này gắn liền với câu chuyện người thiếu niên Trần Quốc Toản bóp nát quả cam vì không được dự bàn rồi tự huy động lực lượng mang cờ thêu sáu chữ 'Phá cường địch, báo hoàng ân'.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 2): Hội nghị bàn kế hoạch kháng chiến chống quân Nguyên lần thứ hai của triều đình nhà Trần.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69
+
+### bishop
+- **Tiếng Việt:** Giám mục
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A senior ordained member of the clergy within Christian churches who holds an important administrative and spiritual office in the ecclesiastical hierarchy.
+- **Giải thích (VI):** Chức sắc tôn giáo cấp cao được tấn phong trong các giáo hội thuộc cộng đồng Ki-tô giáo, nắm giữ những vị trí cai quản quan trọng trong hệ thống tổ chức của Giáo hội.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 3 (Mục 3.a): Nhắc đến hàng giáo phẩm cấp cao trong Giáo hội Thiên Chúa giáo đầu thế kỉ XVI đặt ra nhiều lễ nghi tốn kém dẫn tới phong trào Cải cách tôn giáo.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3.a), tr. 21
 
 ### Bo administrative unit
 - **Tiếng Việt:** Bộ
@@ -615,6 +754,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 11, Bài 1 (Mục 1, 2): Khái niệm trung tâm phân tích các cuộc cách mạng cận đại tiêu biểu ở Nê-đéc-lan, Anh, 13 thuộc địa Anh ở Bắc Mỹ và Pháp.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91
 
+### bourgeoisie
+- **Tiếng Việt:** Giai cấp tư sản
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A social class formed in late medieval Western Europe from wealthy guild masters, merchants, and townspeople who became owners of manufactories, plantations, and large trading enterprises. This class held substantial wealth and economic power through ownership of the means of production, yet initially lacked corresponding political status under feudalism.
+- **Giải thích (VI):** Giai cấp xã hội hình thành ở Tây Âu cuối thời trung đại từ những thợ cả đứng đầu phường hội, thương nhân và thị dân giàu có vươn lên làm chủ công trường thủ công, chủ đồn điền hoặc nhà buôn lớn. Giai cấp này nắm giữ tư liệu sản xuất cùng thế lực kinh tế mạnh mẽ nhưng ban đầu chưa có địa vị chính trị tương xứng dưới chế độ phong kiến.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2.b) và Bài 3 (Mục 1): Giai cấp đại diện cho phương thức sản xuất tư bản chủ nghĩa mới ra đời ở Tây Âu cuối thời trung đại.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.a), tr. 17; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.b), tr. 17
+
 ### Brahmanism
 - **Tiếng Việt:** Đạo Bà La Môn
 - **Chuyên ngành gốc:** Lịch sử
@@ -638,17 +785,6 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại chữ viết cổ khắc trên các hiện vật bằng đồng xuất hiện từ thời nhà Thương ở Trung Hoa, cùng với chữ giáp cốt trải qua nhiều lần chỉnh lí để phát triển thành chữ Hán ngày nay.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.3.b): Quá trình hình thành và phát triển hệ thống chữ viết của văn minh Trung Hoa.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 44, 45
-
-### Buddhism
-- **Tiếng Việt:** Phật giáo
-- **Chuyên ngành gốc:** Lịch sử
-- **Giải thích (EN):** A religion founded in India in the mid-first millennium BCE that flourished until the seventh century before declining in its homeland, while spreading widely across many nations to become one of the world's major religions.
-- **Giải thích (VI):** Tôn giáo hình thành ở Ấn Độ từ giữa thiên niên kỉ I TCN, phát triển hưng thịnh đến thế kỉ VII trước khi suy yếu tại quê hương nhưng được truyền bá rộng rãi sang nhiều quốc gia và trở thành một trong những tôn giáo lớn nhất thế giới.
-- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A major religion founded in ancient India around the sixth century BCE by Siddhartha Gautama (Shakyamuni). / VI: Tôn giáo lớn ra đời ở Ấn Độ cổ đại vào khoảng thế kỉ VI TCN, do Xít-đác-ta Gô-ta-ma (Thích Ca Mâu Ni) sáng lập.
-- **Bối cảnh:**
-  - Lịch sử lớp 10, Bài 5 (Mục II.2.b): Sự ra đời, phát triển và lan toả của Phật giáo từ Ấn Độ ra thế giới.
-  - Lịch sử và Địa lí lớp 6, Bài 8 (Mục 3): tôn giáo lớn khởi phát từ Ấn Độ cổ đại gắn với các di sản kiến trúc tiêu biểu như cột đá A-sô-ca và đại bảo tháp San-chi.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 41; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37, 38; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 38
 
 ### Buddhism in Southeast Asia
 - **Tiếng Việt:** Phật giáo ở Đông Nam Á
@@ -674,6 +810,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 12 (Mục 3.g): Nêu thành tựu tiêu biểu về nghệ thuật âm nhạc truyền thống của văn minh Đại Việt.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.g), tr. 120
 
+### call-to-arms proclamation
+- **Tiếng Việt:** Hịch
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A medieval genre of political prose used to call upon military officers or the populace to rise up for a noble and momentous cause, typically to rally resistance against foreign invasion. Notable examples in Dai Viet history include Tran Quoc Tuan's 'Proclamation to the Officers' under the Tran Dynasty and King Binh Dinh Le Loi's 1418 proclamation against the Ming occupiers.
+- **Giải thích (VI):** Thể văn chính luận thời trung đại dùng để kêu gọi tướng sĩ hoặc nhân dân đứng lên thực hiện việc nghĩa cao cả, to lớn, thường nhằm cổ vũ tinh thần chống giặc ngoại xâm. Trong lịch sử Đại Việt, tiêu biểu có bài 'Hịch tướng sĩ' của Trần Quốc Tuấn thời Trần và lời truyền hịch kêu gọi đánh giặc Minh của Bình Định Vương Lê Lợi đầu năm 1418.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 4.d), Bài 14 (Mục 2), Bài 16 (Mục 1.a): Thể văn cổ vũ lòng yêu nước và ý chí quyết chiến chống ngoại xâm thời Trần và khởi nghĩa Lam Sơn.
+  - *Lưu ý:* Thuật ngữ chỉ chung thể văn kêu gọi việc nghĩa; cần phân biệt với tác phẩm cụ thể 'Hịch tướng sĩ' của Trần Quốc Tuấn và thể 'cáo' tuyên bố đại sự quốc gia như 'Bình Ngô đại cáo'.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.d), tr. 67; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 79; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175
+
+### capitalist relations of production
+- **Tiếng Việt:** Quan hệ sản xuất tư bản chủ nghĩa
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The employer–worker economic relationship between capitalists (owners of manufactories and plantations), who own all means of production such as workshops, land, tools, and raw materials, and wage laborers. Lacking means of production, workers must sell their labor power to capitalist owners in exchange for wages.
+- **Giải thích (VI):** Quan hệ kinh tế chủ – thợ giữa nhà tư bản (chủ công trường thủ công, chủ đồn điền) nắm quyền sở hữu toàn bộ tư liệu sản xuất như nhà xưởng, ruộng đất, công cụ và nguyên liệu với công nhân làm thuê. Trong quan hệ này, người lao động không có tư liệu sản xuất nên buộc phải bán sức lao động cho chủ tư bản để nhận tiền lương.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2.a): Sự nảy sinh phương thức kinh doanh tư bản chủ nghĩa trong lòng xã hội phong kiến Tây Âu sau các cuộc phát kiến địa lí.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.a), tr. 17; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.b), tr. 17
+
+### caravel
+- **Tiếng Việt:** Tàu Ca-ra-ven
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A long vessel equipped with a rudder and a large sail system built by Europeans through advances in shipbuilding technology to cross the oceans.
+- **Giải thích (VI):** Loại tàu dài có bánh lái và hệ thống buồm lớn do người châu Âu đóng từ những bước tiến mới của kĩ thuật đóng tàu để vượt đại dương.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Chủ đề chung 1 (Mục 1): điều kiện kĩ thuật hàng hải quan trọng giúp các nhà thám hiểm châu Âu vượt đại dương.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1, tr. 166; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1), tr. 166; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1), tr. 166, 167
+
 ### Catholicism
 - **Tiếng Việt:** Công giáo
 - **Chuyên ngành gốc:** Lịch sử
@@ -681,6 +843,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Một trong ba nhánh chính của Ki-tô giáo ra đời vào khoảng thế kỉ I, có trung tâm điều hành toàn thế giới đặt tại Toà thánh Va-ti-căng (Rô-ma, I-ta-li-a). Tại Đông Nam Á, tôn giáo này bắt đầu truyền bá vào Phi-líp-pin từ đầu thế kỉ XVI rồi tiếp tục mở rộng sang các quốc gia khác trong khu vực.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 10 (Mục 2.a): Sự du nhập của Công giáo phương Tây vào khu vực Đông Nam Á từ đầu thế kỉ XVI.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.a), tr. 87
+
+### Catholicism and Protestantism
+- **Tiếng Việt:** Cựu giáo và Tân giáo (Cựu giáo; Tân giáo)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The two major branches into which Western Christianity split during the sixteenth century under the impact of the Reformation. Catholicism denoted the traditional Church, whereas Protestantism comprised newly established reformed denominations such as Anglicanism and Evangelical Protestant churches.
+- **Giải thích (VI):** Hai nhánh giáo phái phân hoá từ Thiên Chúa giáo ở Tây Âu trong thế kỉ XVI dưới tác động của phong trào Cải cách tôn giáo. Trong đó, Cựu giáo là nhánh Thiên Chúa giáo truyền thống, còn Tân giáo bao gồm các tôn giáo cải cách mới ra đời như Anh giáo và Tin Lành.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 3 (Mục 3.c): Hệ quả phân hoá tôn giáo ở Tây Âu thế kỉ XVI sau phong trào Cải cách tôn giáo.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3.c), tr. 22
 
 ### causes of failure in Vietnamese resistance wars against foreign invaders
 - **Tiếng Việt:** Nguyên nhân không thành công của một số cuộc kháng chiến chống ngoại xâm
@@ -705,6 +875,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tổng thể các nhân tố chủ quan và khách quan làm nên thắng lợi của các cuộc kháng chiến bảo vệ Tổ quốc ở Việt Nam: tính chất chiến tranh chính nghĩa bảo vệ độc lập dân tộc; lòng yêu nước nồng nàn và khối đại đoàn kết toàn dân; kế sách đánh giặc đúng đắn, linh hoạt cùng nghệ thuật quân sự độc đáo, sáng tạo dưới sự chỉ huy của các tướng lĩnh tài năng (Ngô Quyền, Lê Hoàn, Lý Thường Kiệt, Trần Quốc Tuấn, Nguyễn Huệ,...). Về khách quan, các thế lực ngoại xâm tiến hành chiến tranh phi nghĩa và vấp phải nhiều bất lợi như hành quân xa, thiếu lương thực, không quen địa hình và điều kiện tự nhiên của Đại Việt.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 7 (Mục 2.b): Phân tích các nhân tố chủ quan và khách quan quyết định thắng lợi trong lịch sử chống ngoại xâm của Việt Nam.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 04, B7 (Mục 2.a), tr. 47; SGK Lịch sử 11 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 47
+
+### centralized feudalism
+- **Tiếng Việt:** Phong kiến tập quyền
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A feudal political system in which all state governing power is concentrated and unified in the hands of the monarch.
+- **Giải thích (VI):** Thể chế nhà nước phong kiến trong đó mọi quyền hành cai trị quốc gia đều tập trung thống nhất vào tay nhà vua.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 1 (Mục 4): Thể chế nhà nước thống nhất quyền lực được thúc đẩy nhờ sự ra đời và phát triển của thành thị trung đại ở châu Âu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 4), tr. 12
 
 ### centralized monarchy
 - **Tiếng Việt:** Quân chủ trung ương tập quyền
@@ -738,6 +916,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 11 (Mục 2.a): Khái quát không gian địa lí, niên đại và cơ sở hình thành nền văn minh Chăm-pa.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.a), tr. 99; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.a), tr. 99, 100
 
+### Champa temple-towers
+- **Tiếng Việt:** Đền tháp Chăm-pa
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Distinctive religious architectural and sculptural complexes built by the Cham people from fired bricks bonded seamlessly without visible mortar to endure for centuries, adorned with intricate bas-reliefs. Representative monuments from the 10th to early 16th centuries include the temple-tower groups of Duong Long (Binh Dinh), Po Nagar (Khanh Hoa), and Po Klong Garai (Ninh Thuan).
+- **Giải thích (VI):** Quần thể các công trình kiến trúc và điêu khắc tôn giáo đặc sắc của người Chăm được xây dựng bằng gạch nung gắn kết bền vững hàng nghìn năm mà không lộ mạch vữa, kết hợp trang trí phù điêu tinh xảo. Tiêu biểu cho di sản này từ thế kỉ X đến đầu thế kỉ XVI là các cụm đền tháp Dương Long (Bình Định), Pô-na-ga (Khánh Hoà) và Pô-klong Ga-rai (Ninh Thuận).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 1.b): Thành tựu kiến trúc và điêu khắc tôn giáo tiêu biểu nhất của văn hoá Chăm-pa.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 92, 93
+
 ### Charter of the United Nations
 - **Tiếng Việt:** Hiến chương Liên hợp quốc
 - **Chuyên ngành gốc:** Lịch sử
@@ -762,6 +948,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 9 (Mục 3.b): Công trình kiến trúc tiêu biểu phản ánh ảnh hưởng của văn hoá Trung Hoa ở Ma-lai-xi-a.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 3.a), tr. 83; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 3.b), tr. 83; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 3.b), tr. 83, 84
 
+### Chenla
+- **Tiếng Việt:** Chân Lạp
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An early Khmer kingdom formed in mainland Southeast Asia from the sixth century, preceding King Jayavarman II's unification of the realm and renaming of the country as Cambodia in 802. Its inhabitants developed a distinctive culture built upon the selective adoption of Indian cultural influences.
+- **Giải thích (VI):** Vương quốc cổ của người Khơ-me hình thành ở Đông Nam Á lục địa từ thế kỉ VI, tồn tại trước khi vua Giay-a-vác-man II thống nhất lãnh thổ và đổi tên nước thành Cam-pu-chia vào năm 802. Cư dân vương quốc này đã xây dựng nên nền văn hoá bản địa đặc sắc trên cơ sở tiếp thu các yếu tố văn hoá Ấn Độ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 8 (Mở đầu và Mục 1): Giai đoạn tiền thân của Vương quốc Cam-pu-chia trước khi bước vào thời kì Ăng-co.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B8, tr. 42; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 1), tr. 42; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2), tr. 42
+
 ### Chieng-cha rural commune
 - **Tiếng Việt:** Chiềng, chạ (kẻ)
 - **Chuyên ngành gốc:** Lịch sử
@@ -770,13 +964,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 14 (Mục 1): đơn vị hành chính – xã hội cơ sở trong sơ đồ tổ chức Nhà nước Văn Lang.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 1), tr. 61; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 61; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 61, 62; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190
 
-### Christianity
-- **Tiếng Việt:** Cơ Đốc giáo
+### Christianity (history)
+- **Tiếng Việt:** Cơ Đốc giáo (Thiên Chúa giáo)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A religion that emerged in the first century in the eastern territories of the Roman Empire (traditionally founded by Jesus) amid the suppression of slave and plebeian uprisings. By the early fourth century, Christianity became the official state religion of the Roman Empire and profoundly shaped Western society and culture.
 - **Giải thích (VI):** Tôn giáo ra đời vào thế kỉ I ở vùng lãnh thổ phía Đông của đế quốc La Mã (theo truyền thuyết do Giê-su sáng lập), trong bối cảnh phong trào đấu tranh của nô lệ và dân nghèo bị đàn áp. Đến đầu thế kỉ IV, Cơ Đốc giáo trở thành tôn giáo chính thức của đế quốc La Mã và để lại ảnh hưởng sâu rộng đối với đời sống văn hoá, xã hội phương Tây.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 1.b): Sự ra đời và quá trình xác lập vị thế của Cơ Đốc giáo trong văn minh La Mã cổ đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 53, 54
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A religion originating at the beginning of the Common Era in Jerusalem (present-day Palestine), initially embraced by the poor and oppressed before becoming the state religion of the Roman Empire in the fourth century. During the feudal period in Western Europe, it served as an ideological instrument of the ruling class and wielded immense political, economic, cultural, and spiritual power. / VI: Tôn giáo ra đời vào đầu Công nguyên tại vùng Giê-ru-sa-lem (Pa-le-xtin ngày nay), khởi đầu là đức tin của những người nghèo khổ, bị áp bức rồi trở thành quốc giáo của đế quốc La Mã vào thế kỉ IV. Dưới thời phong kiến ở Tây Âu, tôn giáo này trở thành công cụ cai trị về mặt tinh thần của giai cấp thống trị và nắm giữ thế lực to lớn về chính trị, kinh tế, văn hoá, tư tưởng.
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 6 (Mục 1.b): Sự ra đời và quá trình xác lập vị thế của Cơ Đốc giáo trong văn minh La Mã cổ đại.
+  - Lịch sử và Địa lí lớp 7, Bài 1 (Mục 3) và Bài 3 (Mục 3): Sự ra đời của Thiên Chúa giáo và vai trò chi phối xã hội Tây Âu thời trung đại.
+  - *Lưu ý:* Không nhầm với 'Ki-tô giáo' (`Christianity`) trong Địa lí.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 53, 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 2), tr. 11; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 3), tr. 11; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 3), tr. 11, 12
+
+### Christopher Columbus's expeditions to the Americas
+- **Tiếng Việt:** C. Cô-lôm-bô và cuộc thám hiểm tìm ra châu Mỹ (1492 – 1502)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A series of westward maritime expeditions led by the Italian navigator Christopher Columbus (1451–1506) under the patronage of the Spanish monarch to find a sea route to India. Departing in August 1492 with three ships, the fleet reached islands in the present-day Caribbean Sea, discovering the Americas, and subsequently conducted three more voyages in 1493, 1498, and 1502.
+- **Giải thích (VI):** Chuỗi các chuyến thám hiểm đường biển đi về hướng tây do nhà hàng hải người I-ta-li-a C. Cô-lôm-bô (1451 – 1506) chỉ huy dưới sự phê chuẩn của nhà vua Tây Ban Nha nhằm tìm đường đến Ấn Độ. Khởi hành tháng 8 – 1492 trên ba chiếc tàu, đoàn đã đến một số đảo thuộc vùng biển Ca-ri-bê ngày nay, phát hiện ra châu Mỹ và tiếp tục thực hiện thêm ba cuộc thám hiểm vào các năm 1493, 1498 và 1502.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Chủ đề chung 1 (Mục 2.a): cuộc đại phát kiến địa lí mở đường phát hiện ra châu lục mới là châu Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.a), tr. 168; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 168; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 168, 169
 
 ### Chu Dau ceramics
 - **Tiếng Việt:** Gốm Chu Đậu
@@ -969,10 +1175,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An ideological and educational system originating in China and founded by Confucius, which spread into Southeast Asia and entered Vietnam during the period of Northern domination. In Vietnam, Confucianism played an important role in feudal politics and education, exemplified by the Ly dynasty's construction of the Temple of Literature to venerate Confucius and organization of the first Confucian examinations to recruit officials.
 - **Giải thích (VI):** Hệ tư tưởng – giáo dục có nguồn gốc từ Trung Quốc do Khổng Tử sáng lập, truyền bá vào khu vực Đông Nam Á và du nhập vào Việt Nam từ thời Bắc thuộc. Tại Việt Nam, Nho giáo giữ vai trò quan trọng trong đời sống chính trị và giáo dục phong kiến, tiêu biểu qua việc nhà Lý xây dựng Văn Miếu thờ Khổng Tử và tổ chức khoa thi Nho học đầu tiên để tuyển chọn quan lại.
 - **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A major ideological system originating in ancient China, whose foundation was laid by the thinker Confucius. / VI: Hệ tư tưởng lớn ra đời ở Trung Quốc thời cổ đại, do nhà tư tưởng Khổng Tử đặt nền móng hình thành.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: The philosophical and ethical system that served as the official state ideology of feudal China, underpinning imperial governance and social order across dynasties. / VI: Hệ thống học thuyết tư tưởng giữ vị trí chính thống của chế độ phong kiến Trung Quốc, làm nền tảng chi phối việc tổ chức nhà nước và trật tự xã hội qua các triều đại.
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 9 (Mục 3.b): Minh chứng tiêu biểu về ảnh hưởng của tư tưởng chính trị và giáo dục Trung Hoa tại Việt Nam.
   - Lịch sử và Địa lí lớp 6, Bài 9 (Mục 4): thành tựu tư tưởng tiêu biểu của Trung Quốc thời cổ đại gắn với vai trò của Khổng Tử.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 3.a), tr. 83; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 3.b), tr. 83; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 3.b), tr. 83, 84; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 4), tr. 42; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 4), tr. 42, 43
+  - Lịch sử và Địa lí lớp 7, Bài 4 (Mục 4.a): Thành tựu tư tưởng – tôn giáo giữ vai trò hệ tư tưởng chính thống của Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 3.a), tr. 83; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 3.b), tr. 83; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 3.b), tr. 83, 84; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 4), tr. 42; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 4), tr. 42, 43; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 3), tr. 27; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 4.a), tr. 27; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 4.b), tr. 27
 
 ### Confucianism, Taoism, Mohism, and Legalism
 - **Tiếng Việt:** Nho giáo, Đạo giáo, Mặc gia, Pháp gia
@@ -1014,6 +1222,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 14 (Mục 1): Trình bày hoạt động hợp tác toàn diện của Việt Nam với các nước xã hội chủ nghĩa giai đoạn 1975 – 1985.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 1), tr. 83
 
+### craft guild
+- **Tiếng Việt:** Phường hội
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An occupational association of artisans practicing the same trade in medieval European towns, governed by its own regulations to maintain production monopolies, protect members' interests, and resist harassment by feudal lords. Its internal hierarchy comprised master craftsmen, journeymen, and apprentices bound by patriarchal relations.
+- **Giải thích (VI):** Tổ chức sản xuất của những thợ thủ công cùng nghề nghiệp trong các thành thị châu Âu thời phong kiến, hoạt động theo quy chế riêng nhằm giữ độc quyền sản xuất, bảo vệ quyền lợi nghề nghiệp và chống lại sự sách nhiễu của lãnh chúa. Cơ cấu bên trong gồm thợ cả, thợ bạn và thợ học nghề gắn kết theo quan hệ mang tính chất gia trưởng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2.b): Tổ chức thủ công nghiệp trung đại ở Tây Âu mà từ đó tầng lớp thợ cả giàu có phân hoá thành giai cấp tư sản.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.b), tr. 17
+
 ### crisis and collapse of socialism in Eastern Europe and the USSR
 - **Tiếng Việt:** Khủng hoảng và sụp đổ của chủ nghĩa xã hội ở Đông Âu và Liên Xô
 - **Chuyên ngành gốc:** Lịch sử
@@ -1045,6 +1261,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Lĩnh vực công nghiệp sản xuất và phân phối các loại hàng hoá, dịch vụ dựa trên sự khai thác và phát huy giá trị của di sản văn hoá vật thể và phi vật thể. Trong bối cảnh toàn cầu hoá, lĩnh vực này góp phần gia tăng sức mạnh mềm, nâng cao năng lực cạnh tranh quốc gia và đem lại lợi ích lớn về vật chất lẫn tinh thần.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 4 (Mục 2.a): Khái niệm kinh tế – văn hoá hiện đại gắn kết nghiên cứu lịch sử, di sản với sản xuất hàng hoá sáng tạo.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 29; SGK Lịch sử 10 KNTT, Chủ đề 02, B4 (Mục 2.a), tr. 29; SGK Lịch sử 10 KNTT, Chủ đề 02, B4 (Mục 2.a), tr. 29, 30
+
+### cultural life under the Dinh and Early Le dynasties
+- **Tiếng Việt:** Đời sống văn hoá thời Đinh – Tiền Lê
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The cultural landscape of Dai Co Viet in the early independence period, characterized by limited formal education and Confucian influence while Buddhism spread widely, pagodas were built across the country, and learned monks proficient in Chinese script were highly respected. Meanwhile, traditional folk cultural activities such as singing, dancing, boat racing, martial arts, and wrestling continued to thrive.
+- **Giải thích (VI):** Diện mạo văn hoá Đại Cồ Việt buổi đầu độc lập với đặc trưng giáo dục và Nho giáo chưa ảnh hưởng sâu rộng, trong khi Phật giáo truyền bá phổ biến, chùa chiền mọc lên ở nhiều nơi và giới nhà sư giỏi chữ Hán rất được trọng vọng. Đồng thời, các sinh hoạt văn hoá dân gian truyền thống như ca hát, nhảy múa, đua thuyền, đấu võ, đấu vật tiếp tục được duy trì phong phú.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 2.b): Diện mạo tôn giáo, tín ngưỡng và sinh hoạt văn hoá dân gian buổi đầu độc lập thời Đinh – Tiền Lê.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.c), tr. 50; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 2.a), tr. 50; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 2.b), tr. 50
 
 ### cultural tourism
 - **Tiếng Việt:** Du lịch văn hoá
@@ -1078,6 +1302,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 7 (Mở đầu, Mục 3): một trong những hệ thống chữ viết cổ nhất thế giới, phân biệt với chữ tượng hình trên giấy pa-pi-rút của Ai Cập.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 3), tr. 32; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 3), tr. 32, 33; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190
 
+### Dai Co Viet
+- **Tiếng Việt:** Đại Cồ Việt (Đại Cổ Việt)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The official national name of Vietnam under the Dinh, Early Le, and early Ly dynasties, established by Emperor Dinh Tien Hoang in 968 after reunifying the country and setting the capital at Hoa Lu (Ninh Binh).
+- **Giải thích (VI):** Quốc hiệu của Việt Nam dưới thời Đinh, thời Tiền Lê và đầu thời Lý, do vua Đinh Tiên Hoàng đặt năm 968 sau khi thống nhất đất nước và đóng đô ở Hoa Lư (Ninh Bình).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 1.a, 1.b): Quốc hiệu do Đinh Tiên Hoàng đặt năm 968 sau khi thống nhất đất nước.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.a), tr. 48
+
+### Dai Viet
+- **Tiếng Việt:** Đại Việt
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The official national name of Vietnam adopted by the Ly Dynasty in 1054 (replacing Dai Co Viet) and maintained across several independent feudal dynasties. Associated with this national title was a centralized monarchical administration extending from the central court to local levels, headed by a hereditary monarch.
+- **Giải thích (VI):** Quốc hiệu của Việt Nam được nhà Lý chính thức đặt từ năm 1054 (thay cho tên Đại Cồ Việt) và duy trì qua nhiều vương triều phong kiến độc lập. Gắn với quốc hiệu này là bộ máy nhà nước quân chủ trung ương tập quyền hoàn chỉnh từ trung ương đến địa phương do vua đứng đầu theo chế độ cha truyền con nối.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 1, 2.a): Quốc hiệu của nước ta từ năm 1054 dưới thời Lý và kéo dài qua nhiều thế kỉ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 1), tr. 53; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.c), tr. 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 3.a), tr. 55
+
 ### Dai Viet civilization
 - **Tiếng Việt:** Văn minh Đại Việt
 - **Chuyên ngành gốc:** Lịch sử
@@ -1093,6 +1333,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đơn vị phân chia thời gian kéo dài 10 năm liên tiếp, bắt đầu tính từ năm đầu tiên của khoảng thời gian đó.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 3 (Mục 2): đơn vị đo khoảng thời gian 10 năm khi xác định niên đại và phân kì lịch sử.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2), tr. 15
+
+### decentralized feudalism
+- **Tiếng Việt:** Phong kiến phân quyền
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A feudal political system in which the monarch held only nominal authority without effective control over the entire country, while real power was fragmented among local feudal lords.
+- **Giải thích (VI):** Thể chế nhà nước phong kiến trong đó nhà vua chỉ giữ danh nghĩa đứng đầu mà không nắm thực quyền cai trị toàn quốc, còn quyền lực thực tế bị phân tán cho các lãnh chúa ở địa phương.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 1 (Mục 4): Thể chế chính trị phân tán gắn với các lãnh địa biệt lập ở Tây Âu trước khi thành thị trung đại phát triển.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 4), tr. 12
 
 ### Declaration by United Nations
 - **Tiếng Việt:** Tuyên bố về Liên hợp quốc
@@ -1122,6 +1370,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 11, Bài 13 (Mục 3): Văn kiện hợp tác khu vực mà Việt Nam thúc đẩy và thực hiện đầy đủ nhằm giải quyết hoà bình các tranh chấp ở Biển Đông.
   - Lịch sử lớp 12, Bài 9 (Mục 2.c): Nêu văn kiện hợp tác giữa ASEAN và Trung Quốc nhằm duy trì hoà bình, ổn định và giải quyết hoà bình các tranh chấp trên Biển Đông.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 3), tr. 89; SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 3), tr. 89, 90; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.c), tr. 58
+
+### decline
+- **Tiếng Việt:** Suy tàn
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The process by which a social system, political order, or dynasty gradually weakens, deteriorates, and moves toward collapse.
+- **Giải thích (VI):** Quá trình một chế độ xã hội, thể chế hoặc vương triều suy yếu, tàn lụi dần và đi đến chỗ sụp đổ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 3 (Mục 3.c): Dùng để chỉ tình trạng khủng hoảng, lỗi thời của chế độ phong kiến Tây Âu trước các cuộc đấu tranh văn hoá – tư tưởng của giai cấp tư sản.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3.c), tr. 22
+
+### Delhi Sultanate
+- **Tiếng Việt:** Vương triều Hồi giáo Đê-li (Vương triều Đê-li)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A feudal Islamic dynasty established in northern India in 1206 by Muslim rulers of Turkic origin, lasting until the early sixteenth century. Under its rule, the monarch held supreme power and appointed Muslim generals to govern administrative regions, establishing Islam as a major religion in India while also generating ethnic and religious tensions.
+- **Giải thích (VI):** Vương triều phong kiến do người Hồi giáo gốc Thổ Nhĩ Kỳ thiết lập tại miền Bắc Ấn Độ năm 1206 và tồn tại đến đầu thế kỉ XVI. Dưới vương triều này, nhà vua nắm quyền lực tối cao, cử tướng lĩnh Hồi giáo cai quản các khu vực hành chính, đưa đạo Hồi trở thành tôn giáo lớn tại Ấn Độ song cũng làm nảy sinh mâu thuẫn sắc tộc và tôn giáo sâu sắc.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 5 (Mục 1.b và 2.a): Giai đoạn cai trị của vương triều Hồi giáo đầu tiên trong lịch sử phong kiến Ấn Độ từ thế kỉ XIII đến đầu thế kỉ XVI.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1), tr. 30; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.a), tr. 30; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.b), tr. 30
 
 ### Demands of the Annamite People
 - **Tiếng Việt:** Yêu sách của nhân dân An Nam
@@ -1163,6 +1427,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 1 (Mục 2.c): Phương pháp đối chiếu tiến trình lịch sử theo trục dọc thời gian và lát cắt ngang không gian cùng thời kì.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 01, B1 (Mục 2.c), tr. 12; SGK Lịch sử 10 KNTT, Chủ đề 01, B1 (Mục 2.d), tr. 12; SGK Lịch sử 10 KNTT, Chủ đề 01, B1 (Mục 2.d), tr. 12, 13
 
+### Diamond Sutra
+- **Tiếng Việt:** Kinh Kim Cương
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A canonical Buddhist text recording the teachings and religious doctrines of the Buddha. A woodblock-printed copy dated to 868 during the Tang dynasty, discovered in the Mogao Caves in China, is the world's oldest surviving complete printed book.
+- **Giải thích (VI):** Văn bản kinh điển của Phật giáo ghi chép những lời thuyết giảng và giáo lí tôn giáo của Đức Phật. Bản sao khắc in năm 868 dưới thời Đường tìm thấy tại hang Mạc Cao (Trung Quốc) là cuốn sách in hoàn chỉnh lâu đời nhất thế giới.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 4 (Mục 4.a): Minh chứng tiêu biểu cho sự hưng thịnh của Phật giáo và thành tựu kĩ thuật in ấn của Trung Quốc dưới thời Đường.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 3), tr. 27; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 4.a), tr. 27; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 4.b), tr. 27
+
 ### Dien Bien Phu Campaign
 - **Tiếng Việt:** Chiến dịch Điện Biên Phủ
 - **Chuyên ngành gốc:** Lịch sử
@@ -1170,6 +1442,40 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chiến dịch tiến công quyết chiến chiến lược của quân dân Việt Nam diễn ra trong 56 ngày đêm (từ ngày 13 – 3 đến ngày 7 – 5 – 1954) qua ba đợt tác chiến, đập tan tập đoàn cứ điểm Điện Biên Phủ và buộc tướng Đờ Ca-xtơ-ri cùng toàn bộ Bộ Tham mưu Pháp đầu hàng. Thắng lợi này tạo cơ sở quyết định cho việc đàm phán và kí kết Hiệp định Giơ-ne-vơ năm 1954 về chấm dứt chiến tranh, lập lại hoà bình ở Đông Dương.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.d): Chiến dịch quyết chiến chiến lược kết thúc thắng lợi cuộc kháng chiến chống thực dân Pháp.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 42; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 42, 43
+
+### Dien Hong Conference
+- **Tiếng Việt:** Hội nghị Diên Hồng
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A conference convened by the Tran king at Dien Hong Palace (Thang Long) to consult village elders from across the country on strategies against the second Yuan invasion. At the assembly, all elders unanimously shouted 'Fight!', symbolizing the national unity and determination of Dai Viet's people to resist foreign aggression.
+- **Giải thích (VI):** Hội nghị do vua Trần mở tại điện Diên Hồng (Thăng Long) để hỏi ý kiến các bô lão trong cả nước về kế sách đối phó với cuộc xâm lược lần thứ hai của quân Nguyên. Tại hội nghị, các bô lão đều đồng thanh hô vang 'Đánh!', biểu thị ý chí đoàn kết và quyết tâm chống giặc ngoại xâm của toàn dân Đại Việt.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 2): Biểu tượng cho tinh thần đoàn kết toàn dân quyết chiến bảo vệ Tổ quốc thời Trần.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69
+
+### Dien trang noble estate
+- **Tiếng Việt:** Điền trang
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A form of large-scale private landownership held by royal clan members, nobles, and princes under the Tran Dynasty, created by recruiting laborers to reclaim wasteland and cultivated by serfs and bondservants.
+- **Giải thích (VI):** Hình thức sở hữu ruộng đất tư quy mô lớn của tôn thất, quý tộc, vương hầu thời Trần, hình thành thông qua việc chiêu tập người đi khai khẩn đất hoang và sử dụng nông nô, nô tì cày cấy.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 3.a, 3.b): Hình thức sở hữu ruộng đất tư lớn do khai hoang của quý tộc họ Trần.
+  - *Lưu ý:* Phân biệt với thái ấp là ruộng đất do nhà vua trực tiếp ban cấp làm bổng lộc cho quý tộc, vương hầu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176
+
+### Dinh Bo Linh's national reunification
+- **Tiếng Việt:** Đinh Bộ Lĩnh thống nhất đất nước (Vạn Thắng Vương)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The campaign to quell the 12 warlords led by Dinh Bo Linh (honored as Van Thang Vuong) from Hoa Lu (Ninh Binh) with popular support. Over two years (966–967), combining flexible diplomacy and decisive force, he subdued the warlords, ended regional separatism, reunified the country, and subsequently founded the Dinh Dynasty.
+- **Giải thích (VI):** Công cuộc dẹp loạn 12 sứ quân do Đinh Bộ Lĩnh (tôn xưng là Vạn Thắng Vương) khởi xướng từ Hoa Lư (Ninh Bình) với sự ủng hộ của nhân dân. Trong hai năm (966 – 967), bằng các biện pháp vừa mềm dẻo vừa cứng rắn, ông lần lượt thu phục và dẹp yên các sứ quân, chấm dứt tình trạng cát cứ, thống nhất đất nước và lập ra nhà Đinh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2): Công cuộc dẹp loạn 12 sứ quân, thống nhất đất nước và thành lập nhà Đinh của Đinh Bộ Lĩnh.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B9 (Mục 2), tr. 46; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B9 (Mục 2), tr. 46, 47
+
+### Dinh Dynasty government
+- **Tiếng Việt:** Chính quyền thời Đinh (nhà Đinh)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The state apparatus of Dai Co Viet established by Emperor Dinh Tien Hoang at the capital Hoa Lu in 968, headed centrally by the emperor holding supreme authority assisted by Civil and Military Boards and senior Buddhist monks, with local administration divided into circuits (prefectures), cantons, and communes. The Dinh Dynasty organized a ten-circuit army, minted domestic currency, enforced strict punishments for serious crimes, and maintained diplomatic relations with the Song Dynasty.
+- **Giải thích (VI):** Bộ máy nhà nước Đại Cồ Việt do Đinh Tiên Hoàng thiết lập tại kinh đô Hoa Lư từ năm 968, đứng đầu trung ương là hoàng đế nắm quyền lực tối cao với Ban Văn, Ban Võ và các cao tăng giúp việc, còn địa phương chia thành đạo (châu), giáp, xã. Nhà Đinh tổ chức quân đội gồm 10 đạo, cho đúc tiền lưu hành trong nước, xử phạt nghiêm khắc kẻ phạm tội nặng và bang giao hoà hiếu với nhà Tống.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 1.a): Tổ chức bộ máy nhà nước, quân đội, tiền tệ và ngoại giao của Đại Cồ Việt dưới thời Đinh.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10, tr. 48; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.a), tr. 48; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.b), tr. 48
 
 ### Diponegoro Rebellion
 - **Tiếng Việt:** Khởi nghĩa Đi-pô-nê-gô-rô
@@ -1194,6 +1500,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chính sách cai trị thường dùng của chủ nghĩa thực dân nhằm gây chia rẽ giữa các dân tộc, địa phương hoặc tầng lớp xã hội để dễ bề thống trị.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 5 (Mục 1.b): Phương thức cai trị phổ biến của thực dân phương Tây nhằm làm suy yếu khối đoàn kết dân tộc của các nước Đông Nam Á (cũng nêu tại Bài 6, Mục 3.a).
 - **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91; SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 33
+
+### Doctoral Laureate Stelae
+- **Tiếng Việt:** Bia Tiến sĩ
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Stone stelae erected by the Early Le Dynasty at the Temple of Literature–Imperial Academy (Thang Long) starting in 1484 to inscribe the names and honor the laureates of royal doctoral examinations. On the first stele commemorating the 1442 examination, scholar-official Than Nhan Trung composed the celebrated maxim: 'Virtuous and talented individuals are the vital essence of the nation'.
+- **Giải thích (VI):** Hệ thống bia đá do vương triều Lê sơ cho dựng tại Văn Miếu – Quốc Tử Giám (Thăng Long) từ năm 1484 nhằm khắc tên và tôn vinh những người thi đỗ Tiến sĩ trong các khoa thi tuyển chọn quan lại. Trên tấm bia đầu tiên ghi danh khoa Nhâm Tuất (1442), danh thần Thân Nhân Trung đã khắc câu nói bất hủ: 'Hiền tài là nguyên khí của quốc gia'.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 3): Di sản văn hoá – giáo dục thể hiện chính sách trọng dụng nhân tài của nhà Lê sơ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 3), tr. 87
 
 ### Doctoral Stelae at the Temple of Literature
 - **Tiếng Việt:** Bia Tiến sĩ Văn Miếu
@@ -1275,6 +1589,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.a): Bối cảnh, diễn biến và ý nghĩa bước ngoặt của phong trào Đồng khởi ở miền Nam Việt Nam.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 1), tr. 46; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 46; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 46, 47
 
+### Dong Quan Oath
+- **Tiếng Việt:** Hội thề Đông Quan
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A peace oath ceremony held on December 10, 1427, on the banks of the Red River between delegations led by Le Loi and Ming commander Wang Tong to formally end hostilities. Exemplifying the Lam Son insurgents' humane policy of combining military siege with diplomatic persuasion, it paved the way for the full withdrawal of Ming troops and the complete liberation of the country in early January 1428.
+- **Giải thích (VI):** Hội thề hoà hiếu diễn ra ngày 10 tháng 12 năm 1427 bên bờ sông Hồng giữa hai phái đoàn do Lê Lợi và tướng nhà Minh là Vương Thông dẫn đầu nhằm chấm dứt chiến tranh. Sự kiện này thể hiện đường lối kết hợp vây thành với dụ hàng nhân đạo của nghĩa quân Lam Sơn, mở đường cho quân Minh rút hết về nước và giải phóng hoàn toàn đất nước vào đầu tháng 1 năm 1428.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.d): Sự kiện ngoại giao – quân sự khép lại cuộc khởi nghĩa Lam Sơn trên tinh thần nhân đạo, hoà hiếu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 82; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 2), tr. 82
+
 ### Dong Son bronze drum
 - **Tiếng Việt:** Trống đồng Đông Sơn (trống đồng Ngọc Lũ)
 - **Chuyên ngành gốc:** Lịch sử
@@ -1337,6 +1659,28 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 14 (Mục 1a): Thủ lĩnh dân tộc Tày thời Lý minh chứng cho chính sách đoàn kết dân tộc của các vương triều phong kiến tự chủ.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 1.a), tr. 137; SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 1.b), tr. 137; SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 1.b), tr. 137, 138
 
+### Dyke Commissioner
+- **Tiếng Việt:** Hà đê sứ
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A specialized official post instituted under the Tran Dynasty responsible for overseeing river dyke construction, protection, and maintenance for flood control.
+- **Giải thích (VI):** Chức quan chuyên trách của nhà nước phong kiến thời Trần có nhiệm vụ trông coi công việc đê điều như đắp đê, bảo vệ và tu bổ hệ thống đê phòng lụt.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A specialized official post of the feudal state (instituted under the Tran Dynasty and maintained under the Early Le Dynasty) responsible for building, protecting, and repairing dike systems to support agriculture. / VI: Chức quan chuyên trách của nhà nước phong kiến (được đặt ra từ thời Trần và duy trì thời Lê sơ) phụ trách việc đắp đê, bảo vệ và tu bổ hệ thống đê điều phục vụ sản xuất nông nghiệp.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 2, 3.a): Chức quan chuyên trách quản lí đê điều phục vụ sản xuất nông nghiệp thời Trần.
+  - Lịch sử và Địa lí lớp 7, Bài 17 (Mục 2.a): Chức quan quản lí thuỷ lợi và đê điều trong chính sách phát triển nông nghiệp thời Lê sơ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 63; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 2.a), tr. 85
+
+### dynasty
+- **Tiếng Việt:** Vương triều
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A ruling royal house or monarchical court governing a state during a historical period of the feudal era.
+- **Giải thích (VI):** Triều đại hoặc chính quyền triều đình quân chủ cai trị một quốc gia trong một giai đoạn lịch sử thời phong kiến.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A term referring to a ruling dynasty of hereditary monarchs from the same royal house or the central royal court in a feudal monarchy. / VI: Thuật ngữ chỉ một triều đại gắn liền với dòng họ nhà vua nối ngôi trị vì hoặc triều đình trung ương trong chế độ quân chủ phong kiến.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 5 (Mở đầu và Mục 1): Dùng để chỉ các triều đại phong kiến kế tiếp nhau trong lịch sử Ấn Độ như Vương triều Gúp-ta, Vương triều Hồi giáo Đê-li và Vương triều Mô-gôn.
+  - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 2): Thuật ngữ chỉ các triều đại hoặc triều đình phong kiến cầm quyền.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5, tr. 29; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.a), tr. 30; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 63
+
 ### ear-blowing ritual
 - **Tiếng Việt:** Lễ thổi tai (lễ đặt tên)
 - **Chuyên ngành gốc:** Lịch sử
@@ -1354,6 +1698,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 10, Bài 12 (Mục 2 và Mục 3): Xác định phân kì lịch sử khi thiết chế quân chủ tập quyền và Nho học Đại Việt đạt đỉnh cao.
   - *Lưu ý:* Chỉ 100 năm đầu của nhà Hậu Lê (1428 – 1527), phân biệt với nhà Tiền Lê (980 – 1009) và giai đoạn Lê trung hưng (1533 – 1789).
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 2), tr. 109; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.a), tr. 110; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 144
+
+### Early Le Dynasty
+- **Tiếng Việt:** Vương triều Lê sơ (nhà Lê sơ)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A Vietnamese monarchical dynasty reigning from 1428 to 1527, founded by Le Loi after the victory of the Lam Son Uprising upon restoring the national name Dai Viet and establishing the capital at Thang Long. The dynasty perfected a centralized monarchical state under Emperor Le Thanh Tong, resolutely defended border sovereignty, and expanded national territory southward to present-day Phu Yen in 1471.
+- **Giải thích (VI):** Triều đại quân chủ Việt Nam tồn tại từ năm 1428 đến năm 1527, do Lê Lợi sáng lập sau thắng lợi của khởi nghĩa Lam Sơn với việc khôi phục quốc hiệu Đại Việt và đóng đô ở Thăng Long. Vương triều này xây dựng nhà nước quân chủ tập quyền hoàn chỉnh dưới thời vua Lê Thánh Tông, kiên quyết bảo vệ chủ quyền biên cương và mở rộng lãnh thổ về phía nam đến vùng Phú Yên ngày nay vào năm 1471.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 1): Sự thành lập, hoàn thiện nhà nước tập quyền và bảo vệ lãnh thổ của Đại Việt thế kỉ XV – đầu thế kỉ XVI.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17, tr. 83; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 83, 84
+
+### Early Le Dynasty government
+- **Tiếng Việt:** Chính quyền thời Tiền Lê (nhà Tiền Lê)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The state administration of Dai Co Viet established by Le Hoan under the reign title Thien Phuc, headed centrally by the king holding supreme power alongside the Grand Preceptor, Grand Master, and civil and military mandarins. Locally, the country was divided into 10 circuits (reorganized in 1002 into circuits, prefectures, and subprefectures, down to cantons and communes), while the court enacted legal statutes in 1002 and strengthened diplomacy with the Song Dynasty.
+- **Giải thích (VI):** Bộ máy nhà nước Đại Cồ Việt do Lê Hoàn thiết lập với niên hiệu Thiên Phúc, đứng đầu trung ương là vua nắm mọi quyền hành cùng thái sư, đại sư bàn việc nước và hệ thống quan văn, quan võ. Ở địa phương, cả nước chia thành 10 đạo (năm 1002 đổi thành lộ, phủ, châu, dưới là giáp và xã), đồng thời triều đình định ra luật lệnh (năm 1002) và tăng cường ngoại giao với nhà Tống.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 1.c): Tổ chức chính quyền từ trung ương đến địa phương và luật pháp dưới thời Tiền Lê.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.b), tr. 49; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.c), tr. 49; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.c), tr. 49, 50
 
 ### early states in Southeast Asia
 - **Tiếng Việt:** Quốc gia sơ kì Đông Nam Á
@@ -1395,6 +1755,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 3 (Mục 1): Một trong những xu thế vận động chính của thế giới sau khi Chiến tranh lạnh kết thúc.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 01, B3, tr. 18; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 1), tr. 18; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 1), tr. 18, 19
 
+### Edict on the Transfer of the Capital
+- **Tiếng Việt:** Chiếu dời đô
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An imperial political decree and classical Chinese literary work issued by Emperor Ly Cong Uan in 1010 upon deciding to relocate the capital from Hoa Lu to Dai La Citadel (renamed Thang Long). The edict affirmed Dai La's auspicious 'coiling dragon, sitting tiger' topography and broad, flat terrain as the vital convergence point of all four directions and a worthy eternal capital.
+- **Giải thích (VI):** Văn kiện chính trị và tác phẩm văn học chữ Hán do vua Lý Công Uẩn ban hành năm 1010 khi quyết định dời đô từ Hoa Lư về thành Đại La (đổi tên là Thăng Long). Bài chiếu khẳng định Đại La có thế đất 'rồng cuộn hổ ngồi', rộng rãi, bằng phẳng, là chốn tụ hội trọng yếu của bốn phương và xứng đáng làm kinh đô muôn đời.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 1, 4.b): Văn kiện lịch sử và tác phẩm văn học chữ Hán tiêu biểu mở đầu kỉ nguyên phát triển ở Thăng Long.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 1), tr. 53; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 4.b), tr. 56
+
 ### Education Cannot Wait
 - **Tiếng Việt:** Quỹ Giáo dục không thể chờ đợi (Education Cannot Wait)
 - **Chuyên ngành gốc:** Lịch sử
@@ -1419,6 +1787,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 7 (Mục 2.b): Những phát minh đặt cơ sở cho việc ứng dụng nguồn năng lượng điện vào sản xuất và đời sống trong Cách mạng công nghiệp lần thứ hai.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 63; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 63, 64
 
+### emperor
+- **Tiếng Việt:** Hoàng đế
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A sovereign title denoting the monarch ruling over a great state or empire, typically receiving allegiance from surrounding states.
+- **Giải thích (VI):** Danh hiệu chỉ vị vua đứng đầu một nước lớn hoặc đế quốc, thường được nhiều nước xung quanh thần phục.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: The title of the supreme monarch ruling over a vast empire or major monarchy, often commanding tribute or allegiance from surrounding states. / VI: Danh hiệu của vị vua đứng đầu cai trị một quốc gia quân chủ rộng lớn, thường có uy thế khiến nhiều nước xung quanh thần phục.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 1 (Mục 1): danh hiệu của Sác-lơ-ma-nhơ khi mở rộng Vương quốc Phơ-răng thành đế quốc lớn ở Tây Âu.
+  - Lịch sử và Địa lí lớp 7, Bài 4 (Mục 2) và Bài 5 (Mở đầu): Danh hiệu người đứng đầu nhà nước quân chủ lớn ở Trung Quốc (như các hoàng đế thời Đường) và Ấn Độ (như Hoàng đế A-cơ-ba).
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1, tr. 9; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 25
+
+### Emperor Le Thanh Tong
+- **Tiếng Việt:** Lê Thánh Tông
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An enlightened Early Le emperor and major cultural figure who brought Dai Viet's centralized monarchical state to institutional maturity with 13 circuit-provinces and a resolute territorial defense policy. During his reign, civil service education flourished with nearly 500 doctoral laureates trained, while he personally founded the Tao Dan Literary Society and left over 300 Chinese poems alongside the Nom collection 'Hong Duc Collected Poems in the National Language'.
+- **Giải thích (VI):** Vị hoàng đế anh minh thời Lê sơ và nhà văn hoá lớn của dân tộc, người đưa bộ máy nhà nước quân chủ tập quyền Đại Việt đạt tới mức hoàn chỉnh với 13 đạo thừa tuyên và chính sách bảo vệ lãnh thổ kiên quyết. Dưới triều đại của ông, khoa cử nở rộ với khoảng 500 tiến sĩ được đào tạo, đồng thời ông sáng lập Hội Tao đàn và để lại hơn 300 bài thơ chữ Hán cùng tập 'Hồng Đức quốc âm thi tập' bằng chữ Nôm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 1, 4.b): Vị hoàng đế đưa quốc gia Đại Việt thời Lê sơ phát triển cực thịnh về chính trị, kinh tế và văn hoá.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 83, 84, 85; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.b), tr. 88
+
 ### empire
 - **Tiếng Việt:** Đế chế
 - **Chuyên ngành gốc:** Lịch sử
@@ -1427,13 +1814,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 10 (Mục 3): thể chế nhà nước xác lập ở La Mã cổ đại từ năm 27 TCN dưới thời Ốc-ta-vi-út.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B10, tr. 44; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 2), tr. 47; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 3), tr. 47; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190
 
+### empty gardens and vacant houses strategy
+- **Tiếng Việt:** Vườn không nhà trống
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A military strategy implemented by the Tran Dynasty during all three resistance wars against the Mongol-Yuan invasions (1258, 1285, 1288), proactively withdrawing forces from the capital Thang Long to preserve the main army. This tactic left the invaders holding an empty citadel, gradually exhausting their provisions and weakening their forces.
+- **Giải thích (VI):** Kế sách quân sự được nhà Trần thi hành trong cả ba lần kháng chiến chống quân xâm lược Mông – Nguyên (1258, 1285, 1288), chủ động rút lực lượng khỏi kinh thành Thăng Long để bảo toàn quân chủ lực. Kế sách này khiến quân giặc dù chiếm được Thăng Long nhưng chỉ tiếp quản một toà thành trống rỗng, dần lâm vào cảnh thiếu lương thực và suy yếu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 1, 2, 3): Kế sách nghệ thuật quân sự làm suy yếu quân xâm lược Mông – Nguyên của vương triều Trần.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 1), tr. 69; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69, 70; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 3), tr. 72
+
 ### enclosure movement
-- **Tiếng Việt:** Rào đất cướp ruộng
+- **Tiếng Việt:** Rào đất cướp ruộng (Cừu ăn thịt người; phong trào “rào đất cướp ruộng”)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A socioeconomic phenomenon in Britain in which land was enclosed for sheep grazing, supplying raw wool for the textile industry and providing a wage-labor workforce for factories during the First Industrial Revolution.
 - **Giải thích (VI):** Hiện tượng kinh tế – xã hội diễn ra ở nước Anh khi ruộng đất bị rào chiếm để chăn nuôi cừu, tạo ra nguồn nguyên liệu cho ngành dệt và bổ sung lực lượng lao động làm thuê cho các nhà máy, xí nghiệp trong Cách mạng công nghiệp lần thứ nhất.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 7 (Mục 1.a): Tiền đề về nguồn lao động dẫn tới sự bùng nổ Cách mạng công nghiệp lần thứ nhất ở Anh.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.a), tr. 59
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: The late medieval European phenomenon, most notably in England, in which feudal nobles seized peasants' and serfs' farmland and converted it into pastures to raise sheep for profitable wool markets. This process stripped tens of thousands of serfs of their land and forced them into wage labor. / VI: Hiện tượng các quý tộc phong kiến châu Âu thời hậu kì trung đại (điển hình ở Anh) cưỡng đoạt ruộng đất của nông nô để cải tạo thành đồng cỏ chăn nuôi cừu lấy lông cung cấp cho thị trường. Quá trình này đẩy hàng vạn nông nô vào cảnh mất tư liệu sản xuất và buộc phải bán sức lao động làm thuê.
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 7 (Mục 1.a): Tiền đề về nguồn lao động dẫn tới sự bùng nổ Cách mạng công nghiệp lần thứ nhất ở Anh.
+  - Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2.a): Cách gọi hình ảnh của Tô-mát Mo-rơ phản ánh quá trình tích luỹ vốn và tập trung nhân công làm thuê của chủ nghĩa tư bản ở Tây Âu.
+  - *Lưu ý:* Thuật ngữ tiếng Việt bắt nguồn từ câu nói nổi tiếng của Thomas More ('sheep eat men') nhằm phê phán phong trào rào đất cướp ruộng (enclosure movement) ở nước Anh.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.a), tr. 59; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.a), tr. 16
 
 ### Enlightenment philosophy
 - **Tiếng Việt:** Triết học Ánh sáng
@@ -1451,6 +1850,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 7 (Mục 2): danh xưng người đứng đầu nhà nước ở Lưỡng Hà cổ đại, đối chiếu với pha-ra-ông ở Ai Cập.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 1), tr. 31; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 31; SGK Lịch sử và Địa lí 6 KNTT, Bảng phiên âm, tr. 194
 
+### equal-field distribution policy
+- **Tiếng Việt:** Phép quân điền (quân điền)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A core agrarian policy of the Early Le Dynasty mandating the periodic equitable allocation of communal village land among local residents for cultivation and tax payment to the state. This policy helped secure means of production for peasants and spurred rapid agricultural recovery and growth.
+- **Giải thích (VI):** Chính sách ruộng đất trọng tâm của nhà Lê sơ quy định việc định kì đem ruộng đất công của làng xã chia đều cho các thành viên trong xã cày cấy và nộp thuế cho nhà nước. Chính sách này góp phần bảo đảm tư liệu sản xuất cho nông dân, thúc đẩy nông nghiệp phục hồi và phát triển nhanh chóng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 2.a): Chính sách phân chia ruộng đất công làng xã nhằm khuyến khích nông nghiệp thời Lê sơ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 2.a), tr. 85, 86
+
 ### equal-field land distribution system
 - **Tiếng Việt:** Chế độ quân điền
 - **Chuyên ngành gốc:** Lịch sử
@@ -1459,13 +1866,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 11, Bài 10 (Mục 2): Chính sách khẳng định quyền sở hữu ruộng đất tối cao của Nhà nước và bảo đảm tư liệu sản xuất nông nghiệp ở làng xã thời Lê Thánh Tông.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 05, B10 (Mục 2), tr. 67
 
+### equal-field system
+- **Tiếng Việt:** Chế độ quân điền
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An imperial Chinese land allocation policy prominent under the Tang dynasty, whereby the state distributed public and abandoned lands to peasants for cultivation alongside tax reductions. Combined with improved farming techniques, this policy spurred agricultural prosperity during the Tang era.
+- **Giải thích (VI):** Chính sách ruộng đất của nhà nước phong kiến Trung Quốc thịnh hành dưới thời Đường, theo đó triều đình lấy ruộng đất công và ruộng bỏ hoang đem chia cho nông dân canh tác kết hợp giảm nhẹ thuế khoá. Chính sách này cùng với kĩ thuật canh tác mới đã thúc đẩy nông nghiệp thời Đường phát triển thịnh vượng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 4 (Mục 2): Chính sách kinh tế tiêu biểu góp phần tạo nên sự thịnh vượng của xã hội Trung Quốc dưới thời Đường.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 1), tr. 25; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 25
+
 ### Essentials of Military Art
 - **Tiếng Việt:** Binh thư yếu lược
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A representative treatise on military theory of Dai Viet civilization compiled during the Tran dynasty by Tran Quoc Tuan, exemplifying strategic thought and military art in defending national independence.
 - **Giải thích (VI):** Tác phẩm lí luận quân sự tiêu biểu của văn minh Đại Việt dưới thời Trần do Trần Quốc Tuấn biên soạn, thể hiện trình độ tư duy và nghệ thuật quân sự trong sự nghiệp bảo vệ nền độc lập dân tộc.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 12 (Mục 3.h): Giới thiệu thành tựu tiêu biểu về lí luận quân sự của văn minh Đại Việt thời Trần.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 121
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A renowned treatise on military theory compiled by Tran Quoc Tuan during the Tran Dynasty (alongside Van Kiep Tong Bi Truyen Thu). / VI: Tác phẩm lí luận quân sự nổi tiếng do Trần Quốc Tuấn biên soạn dưới vương triều Trần (cùng với bộ Vạn Kiếp tông bí truyền thư).
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 12 (Mục 3.h): Giới thiệu thành tựu tiêu biểu về lí luận quân sự của văn minh Đại Việt thời Trần.
+  - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 4.c): Bộ sách lí luận quân sự tiêu biểu của Trần Quốc Tuấn thời Trần.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 121; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.a), tr. 66; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.b), tr. 66; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.c), tr. 66
 
 ### establishment of Soviet power
 - **Tiếng Việt:** Thành lập Chính quyền Xô viết
@@ -1474,6 +1892,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Sự kiện Đại hội Xô viết toàn Nga lần thứ hai khai mạc đêm 25 – 10 – 1917 (ngày 7 – 11 – 1917 theo lịch mới) tại Điện Xmô-nưi tuyên bố thiết lập Chính quyền Xô viết do Lê-nin đứng đầu, thực hiện nhiệm vụ hàng đầu là đập tan bộ máy nhà nước cũ và xây dựng nhà nước mới của những người lao động.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 3 (Mục 1): Sự kiện mở đầu quá trình xây dựng nhà nước vô sản xã hội chủ nghĩa ngay sau thắng lợi của Cách mạng tháng Mười Nga.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B3 (Mục 1), tr. 19
+
+### establishment of the Tran Dynasty
+- **Tiếng Việt:** Sự thành lập nhà Trần (nhà Trần)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The dynastic transition in the early 13th century when the declining Ly court relied on the powerful Tran clan (originally a fishing family from the lower Red River region) to suppress rebellions. After the Tran clan gradually consolidated court authority, Empress Regnant Ly Chieu Hoang abdicated in favor of her husband Tran Canh in January 1226, founding the Tran Dynasty.
+- **Giải thích (VI):** Quá trình chuyển giao vương triều đầu thế kỉ XIII khi nhà Lý suy yếu phải dựa vào thế lực họ Trần (vốn xuất thân làm nghề đánh cá ở vùng hạ lưu sông Hồng) để dẹp loạn. Sau khi họ Trần từng bước thâu tóm quyền bính, tháng 1 năm 1226, nữ hoàng Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh, mở đầu triều đại nhà Trần.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 1): Bối cảnh chuyển giao triều đại từ nhà Lý sang nhà Trần đầu thế kỉ XIII.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13, tr. 62; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1), tr. 62; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 63
 
 ### Establishment of Vietnam's Sovereignty over Hoang Sa and Truong Sa before 1884
 - **Tiếng Việt:** Xác lập chủ quyền của Việt Nam đối với quần đảo Hoàng Sa và Trường Sa trước năm 1884
@@ -1533,6 +1959,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong sử học quốc tế, phiên trấn (fanzhen) chỉ các khu vực hành chính – quân sự vùng biên giới thời Đường do tiết độ sứ nắm quyền.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191
 
+### Ferdinand Magellan's circumnavigation of the Earth
+- **Tiếng Việt:** Cuộc thám hiểm vòng quanh Trái Đất của Ph. Ma-gien-lăng (1519 – 1522)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The first maritime circumnavigation of the Earth, departing from Spain in September 1519 with five ships led by Ferdinand Magellan sailing westward through the strait at the southern tip of South America and across the Pacific Ocean to the Philippine archipelago (late 1520) in search of the Spice Islands. After Magellan was killed in the Philippines, the crew under Juan Sebastián Elcano returned to Spain in September 1522, conclusively proving that the Earth is spherical.
+- **Giải thích (VI):** Chuyến hải trình vòng quanh Trái Đất đầu tiên khởi hành từ Tây Ban Nha vào tháng 9 – 1519 gồm năm chiếc tàu do Ph. Ma-gien-lăng dẫn đầu đi về hướng tây qua eo biển cực Nam châu Mỹ và vượt Thái Bình Dương đến Phi-líp-pin (cuối năm 1520) để tìm đường tới quần đảo Gia vị. Sau khi Ph. Ma-gien-lăng thiệt mạng tại Phi-líp-pin, đoàn thuỷ thủ dưới sự chỉ huy của S. Ê-ca-nô trở về Tây Ban Nha vào tháng 9 – 1522, chứng minh thuyết phục rằng Trái Đất có dạng hình cầu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Chủ đề chung 1 (Mục 2.b): chuyến đi vòng quanh Trái Đất bằng đường biển đầu tiên trong lịch sử nhân loại.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.a), tr. 168; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 168; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 168, 169
+
 ### fertility belief
 - **Tiếng Việt:** Tín ngưỡng phồn thực
 - **Chuyên ngành gốc:** Lịch sử
@@ -1544,6 +1978,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 13 (Mục 1): tín ngưỡng dân gian phổ biến ở Đông Nam Á, sau này dung hợp với Ấn Độ giáo.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.a), tr. 87; SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.a), tr. 87, 88; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 04, B13, tr. 56; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 04, B13 (Mục 1), tr. 56; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191
 
+### feudal immunity
+- **Tiếng Việt:** Quyền miễn trừ (quyền “miễn trừ”)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The autonomous privilege of Western European feudal lords allowing them to maintain their own army, laws, courts, taxation, currency, and system of weights and measures within their manors. Under this privilege, even the king was barred from interfering in the internal governance of a lord's manor.
+- **Giải thích (VI):** Đặc quyền biệt lập của lãnh chúa phong kiến Tây Âu cho phép tự thiết lập quân đội, luật pháp, toà án, chế độ thuế khoá, tiền tệ và hệ thống đo lường riêng trong lãnh địa. Theo đặc quyền này, ngay cả nhà vua cũng không có quyền can thiệp vào công việc cai trị bên trong lãnh địa của lãnh chúa.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 1 (Mục 2): Biểu hiện đặc trưng cho tính độc lập chính trị của lãnh địa và tình trạng phong kiến phân quyền ở Tây Âu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 2), tr. 11; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 3), tr. 11; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 3), tr. 11, 12
+
 ### feudal kingdom
 - **Tiếng Việt:** Vương quốc phong kiến
 - **Chuyên ngành gốc:** Lịch sử
@@ -1551,6 +1993,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hình thức nhà nước tổ chức theo mô hình quân chủ, trong đó vua là người đứng đầu nắm quyền tối cao và bên dưới là bộ máy quan lại giúp việc.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 12 (Mục 1): sự hình thành các quốc gia phong kiến lấy một bộ tộc đông và phát triển làm nòng cốt ở Đông Nam Á từ thế kỉ VII đến thế kỉ X.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 04, B12, tr. 54; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 1), tr. 54; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 2), tr. 54; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191
+
+### feudal landlord
+- **Tiếng Việt:** Địa chủ phong kiến
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A social class owning large tracts of private land in feudal society who did not cultivate the land themselves, instead leasing it to landless or land-poor peasants in exchange for land rent.
+- **Giải thích (VI):** Tầng lớp xã hội chiếm hữu nhiều ruộng đất tư dưới thời phong kiến, không trực tiếp lao động cày cấy mà giao ruộng cho nông dân không có hoặc thiếu đất lĩnh canh để thu địa tô.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 11 (Mục 3.b) và Bài 13 (Mục 3.b): Tầng lớp chiếm hữu ruộng đất tư và thu tô từ nông dân lĩnh canh thời Lý – Trần.
+  - Lịch sử và Địa lí lớp 7, Bài 17 (Mục 2.b): Giai cấp thống trị bóc lột địa tô đối với nông dân lĩnh canh trong xã hội thời Lê sơ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 2.b), tr. 86
+
+### feudal lord
+- **Tiếng Việt:** Lãnh chúa (lãnh chúa phong kiến)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The ruling feudal nobility in medieval Europe who occupied large tracts of land as private manors and exercised absolute authority within them like petty kings. Formed from Germanic tribal nobles and Roman aristocrats who submitted to the new regimes, feudal lords lived by exploiting the labor, rents, and taxes of serfs.
+- **Giải thích (VI):** Tầng lớp chúa phong kiến thống trị ở châu Âu thời trung đại, chiếm cứ một vùng đất rộng lớn làm lãnh địa riêng và nắm toàn quyền cai trị trong lãnh địa như một vị vua nhỏ. Lãnh chúa hình thành từ quý tộc thị tộc người Giéc-man cùng quý tộc La Mã quy thuận chính quyền mới, sống bằng việc bóc lột tô, thuế và sức lao động của nông nô.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 1 (Mục 1–2): Giai cấp thống trị trong xã hội phong kiến Tây Âu gắn với sự hình thành và vận hành của lãnh địa phong kiến.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176
+
+### feudal manor
+- **Tiếng Việt:** Lãnh địa (lãnh địa phong kiến)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A vast estate privately owned by a feudal lord in medieval Western Europe, comprising the lord's demesne and land allotments granted to serfs for cultivation. Each feudal manor functioned as a fundamental politico-economic unit resembling a miniature state, politically autonomous and economically self-sufficient with agriculture playing the dominant role.
+- **Giải thích (VI):** Khu đất rộng lớn thuộc sở hữu riêng của lãnh chúa ở Tây Âu thời trung đại, bao gồm đất của lãnh chúa và đất khẩu phần giao cho nông nô canh tác. Mỗi lãnh địa là một đơn vị kinh tế – chính trị cơ bản như một quốc gia thu nhỏ, độc lập về chính trị và mang tính kinh tế tự cấp tự túc với nông nghiệp đóng vai trò chủ đạo.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 1 (Mục 2): Đơn vị tổ chức kinh tế và chính trị cơ bản của chế độ phong kiến Tây Âu từ thế kỉ IX.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 2), tr. 10
 
 ### feudalism
 - **Tiếng Việt:** Phong kiến
@@ -1628,6 +2096,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với tôn giáo (religion) – hình thái niềm tin có hệ thống giáo lí, giáo luật, lễ nghi và tổ chức chặt chẽ.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 144; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 3.a), tr. 132; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 3.a), tr. 133
 
+### Forbidden City
+- **Tiếng Việt:** Tử Cấm Thành
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A grand imperial palace complex in Beijing that stands as an architectural symbol of feudal China under the Ming and Qing dynasties. Its construction during the early Ming period is notably associated with Nguyen An, a Vietnamese architect appointed as chief superintendent of Beijing's reconstruction.
+- **Giải thích (VI):** Quần thể cung điện cổ kính đồ sộ tại Bắc Kinh, là công trình kiến trúc biểu tượng của các triều đại phong kiến Minh – Thanh ở Trung Quốc. Quá trình kiến thiết công trình này dưới thời Minh gắn liền với đóng góp của người Việt là Nguyễn An trên cương vị tổng đốc công xây dựng thành Bắc Kinh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 4 (Mở đầu và Mục 4.c): Thành tựu kiến trúc cung điện tiêu biểu của Trung Quốc thời phong kiến và dấu ấn của danh nhân người Việt Nguyễn An.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4, tr. 24; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 4.c), tr. 28
+
 ### foreign policy orientation of Vietnam in the Doi Moi period
 - **Tiếng Việt:** Định hướng đối ngoại thời kì Đổi mới
 - **Chuyên ngành gốc:** Lịch sử
@@ -1677,6 +2153,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phần xương của người hoặc động vật sau khi chết đã trải qua quá trình hoá đá và còn lưu giữ lại trong lòng đất.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 4 (Mục 2): bằng chứng khảo cổ học giúp xác định dấu tích quá trình tiến hoá thành người ở Đông Nam Á và Việt Nam.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190, 191; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 18
+
+### Four Great Classical Novels
+- **Tiếng Việt:** Tứ đại danh tác
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The quartet of monumental classical novels of Chinese literature written from the Yuan to the Qing dynasties: Water Margin (Shi Nai'an), Romance of the Three Kingdoms (Luo Guanzhong), Journey to the West (Wu Cheng'en), and Dream of the Red Chamber (Cao Xueqin). These masterpieces achieved exceptional literary value and profoundly influenced the literature of many other countries.
+- **Giải thích (VI):** Bộ bốn tiểu thuyết cổ điển đồ sộ nhất của văn học Trung Quốc ra đời từ thời Nguyên đến thời Thanh, gồm Thuỷ hử (Thi Nại Am), Tam quốc diễn nghĩa (La Quán Trung), Tây du kí (Ngô Thừa Ân) và Hồng lâu mộng (Tào Tuyết Cần). Các tác phẩm này đạt giá trị nghệ thuật xuất sắc và có ảnh hưởng sâu sắc đến văn học nhiều quốc gia khác.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 4 (Mục 4.b): Thành tựu đỉnh cao của thể loại tiểu thuyết cổ điển Trung Quốc thời Nguyên – Minh – Thanh.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 3), tr. 27; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 4.a), tr. 27; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 4.b), tr. 27
 
 ### Four Great Inventions
 - **Tiếng Việt:** Tứ đại phát minh kĩ thuật của Trung Quốc cổ đại
@@ -1815,6 +2299,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 11, Bài 7 (Mục 1.a): Khái niệm nền tảng để phân tích vị trí địa chiến lược của Việt Nam trong lịch sử chống ngoại xâm.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92, 93; SGK Lịch sử 11 KNTT, Chủ đề 04, B7 (Mục 1.a), tr. 44
 
+### German Peasants' War
+- **Tiếng Việt:** Chiến tranh nông dân Đức (cuộc Chiến tranh nông dân Đức)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A widespread social uprising of peasants that broke out in sixteenth-century Germany under the direct impact of the Protestant Reformation against the feudal order and the Church.
+- **Giải thích (VI):** Cuộc đấu tranh xã hội rộng lớn của nông dân bùng nổ tại nước Đức vào thế kỉ XVI dưới tác động trực tiếp của phong trào Cải cách tôn giáo chống lại chế độ phong kiến và Giáo hội.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 3 (Mục 3.c): Hệ quả đấu tranh xã hội tiêu biểu ở châu Âu bùng lên từ phong trào Cải cách tôn giáo thế kỉ XVI.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3.c), tr. 22
+
 ### Giao Chi
 - **Tiếng Việt:** Giao Chỉ
 - **Chuyên ngành gốc:** Lịch sử
@@ -1839,6 +2331,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 10 (Mục 2): Xác định mục tiêu tổng quát của thời kì đẩy mạnh công nghiệp hoá, hiện đại hoá theo Văn kiện Đại hội VIII (1996).
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 2), tr. 63
 
+### Grand Preceptor
+- **Tiếng Việt:** Thái sư
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The highest-ranking ministerial office at the head of the imperial bureaucracy in feudal Vietnamese monarchies, responsible for advising the monarch on state affairs (notably Grand Preceptor Tran Thu Do under the Tran Dynasty).
+- **Giải thích (VI):** Chức quan cao cấp đứng đầu hàng ngũ quan lại trong triều đình quân chủ Việt Nam thời phong kiến, có trọng trách giúp vua bàn bạc và quyết định việc nước (tiêu biểu như Thái sư Trần Thủ Độ thời Trần).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 1.c): Chức quan đứng đầu triều đình giúp vua bàn việc nước dưới thời Tiền Lê và các triều đại sau.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.c), tr. 49
+
 ### Grand Secretariat
 - **Tiếng Việt:** Nội các
 - **Chuyên ngành gốc:** Lịch sử
@@ -1862,6 +2362,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Ngày kỉ niệm hằng năm diễn ra vào ngày 18 – 11 gắn với mốc thành lập Mặt trận dân tộc thống nhất Việt Nam (18 – 11 – 1930), được xác lập theo quyết định ngày 26 – 3 – 1986 của Ban Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam nhằm phát huy truyền thống đại đoàn kết toàn dân tộc.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 14 (Mục 1a): Ngày kỉ niệm hằng năm (18 – 11) gắn với sự ra đời của Mặt trận dân tộc thống nhất Việt Nam.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 1.a), tr. 137; SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 1.b), tr. 137; SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 1.b), tr. 137, 138
+
+### Great Proclamation upon the Pacification of the Wu
+- **Tiếng Việt:** Bình Ngô đại cáo
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A historic Chinese-script state proclamation drafted by Nguyen Trai at Le Loi's behest following the victory of the Lam Son Uprising to formally declare the end of war and usher in an era of peace and national reconstruction. Affirming Dai Viet's sovereignty, territorial integrity, and cultural identity while condemning Ming atrocities and recounting the humane, heroic resistance, it stands as Dai Viet's early 15th-century Declaration of Independence.
+- **Giải thích (VI):** Văn kiện lịch sử viết bằng chữ Hán do Nguyễn Trãi soạn thảo theo lệnh của Lê Lợi sau thắng lợi của khởi nghĩa Lam Sơn nhằm chính thức tuyên bố chấm dứt chiến tranh và mở ra kỉ nguyên hoà bình dựng xây đất nước. Tác phẩm khẳng định đanh thép độc lập, chủ quyền lãnh thổ và văn hiến Đại Việt, lên án tội ác quân Minh, tái hiện chặng đường kháng chiến oanh liệt đầy nhân đạo và mang tầm vóc bản Tuyên ngôn Độc lập đầu thế kỉ XV.
+- **Giải thích khác (SGK Lịch sử 10):** EN: A representative classical Chinese literary proclamation of Dai Viet composed in the cao genre during the Early Later Le period, profoundly expressing patriotism and the determination to uphold national independence. / VI: Tác phẩm văn học viết bằng chữ Hán theo thể cáo tiêu biểu của Đại Việt dưới thời Lê sơ, kết tinh sâu sắc tinh thần yêu nước và ý chí bảo vệ nền độc lập dân tộc.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.d): Văn kiện tổng kết thắng lợi của khởi nghĩa Lam Sơn và tuyên bố khôi phục nền độc lập Đại Việt.
+  - Lịch sử lớp 10, Bài 12 (Mục 3.e): Giới thiệu thành tựu tiêu biểu của dòng văn học chữ Hán yêu nước thời Lê sơ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16, tr. 78; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 82; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.e), tr. 118
 
 ### Great Sphinx of Giza
 - **Tiếng Việt:** Tượng Nhân sư ở Ghi-da
@@ -1903,6 +2414,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 3 (Mục 2.b): Tổ chức quốc tế tiêu biểu minh hoạ vai trò ngày càng gia tăng của các trung tâm kinh tế, tài chính trong xu thế đa cực.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 2.b), tr. 20
 
+### Gupta Empire
+- **Tiếng Việt:** Vương triều Gúp-ta
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The early feudal Indian dynasty founded by Chandragupta I at the beginning of the fourth century, which unified most of the Indian subcontinent by the early fifth century. Marked by advances in iron-tool agriculture, irrigation, trade, and flourishing classical culture, its rule ushered in a golden age of social stability and prosperity.
+- **Giải thích (VI):** Vương triều mở đầu thời phong kiến ở Ấn Độ do San-đra Gúp-ta I sáng lập vào đầu thế kỉ IV và thống nhất phần lớn bán đảo Ấn Độ vào đầu thế kỉ V. Với sự phát triển vượt bậc của nông nghiệp dùng công cụ sắt, thuỷ lợi, thương mại cùng văn hoá cổ truyền rực rỡ, giai đoạn trị vì của vương triều này mở ra thời kì hoàng kim với đời sống cư dân ổn định, sung túc.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 5 (Mục 1.a và 2): Triều đại phong kiến đầu tiên của Ấn Độ (thế kỉ IV – VI) gắn với sự định hình đạo Hin-đu và hoàn thiện chữ Phạn.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1), tr. 30; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.a), tr. 30; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.b), tr. 30
+
 ### Harmony of the Three Teachings
 - **Tiếng Việt:** Tam giáo đồng nguyên
 - **Chuyên ngành gốc:** Lịch sử
@@ -1927,6 +2446,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 7 (Mục 2.b): Bước đột phá áp dụng máy móc xây dựng dây chuyền lắp ráp hàng loạt trong ngành công nghiệp ô tô thời cận đại.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 64; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 64, 65
 
+### heresy
+- **Tiếng Việt:** Dị giáo
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A religious belief, teaching, or opinion that contradicts the orthodox faith and official doctrine of the Church, often condemned and punished by medieval ecclesiastical authorities.
+- **Giải thích (VI):** Quan điểm, học thuyết hoặc niềm tin tôn giáo đi ngược lại đức tin và giáo lí chính thống của Giáo hội, thường bị Giáo hội thời trung đại kết án và trừng phạt.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 3 (Mục 3.a): Tội danh Giáo hội Thiên Chúa giáo dùng để kết án và trừng phạt Mác-tin Lu-thơ sau bản luận văn chỉ trích Giáo hội năm 1517.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2.b), tr. 21; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3.a), tr. 21; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3.b), tr. 21
+
 ### heritage conservation
 - **Tiếng Việt:** Bảo tồn di sản
 - **Chuyên ngành gốc:** Lịch sử
@@ -1935,16 +2462,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 4 (Mục 1.a): Nguyên tắc chuyên môn cốt lõi khi thực hiện tu bổ, phục hồi di sản văn hoá và di sản thiên nhiên.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 02, B4, tr. 26; SGK Lịch sử 10 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 26; SGK Lịch sử 10 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 26, 27
 
-### Hinduism
-- **Tiếng Việt:** Hin-đu giáo (Ấn Độ giáo; đạo Hin-đu)
+### heroic notable
+- **Tiếng Việt:** Hào kiệt
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A person of exceptional talent and lofty aspiration far surpassing ordinary individuals, possessing wide renown and prestige among the populace.
+- **Giải thích (VI):** Người có tài năng xuất chúng và chí hướng lớn lao hơn hẳn người thường, đồng thời có danh tiếng và uy tín cao trong nhân dân.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.a): Chỉ những người tài cao, chí lớn từ khắp nơi tụ nghĩa cùng Lê Lợi chuẩn bị khởi nghĩa Lam Sơn.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 79; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175
+
+### Hinduism (history)
+- **Tiếng Việt:** Hin-đu giáo
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A major religion that emerged in India around the first millennium BCE on the foundation of Brahmanism, exerting the most enduring and profound influence on Indian cultural, social, and architectural life.
 - **Giải thích (VI):** Tôn giáo lớn ra đời ở Ấn Độ vào khoảng thiên niên kỉ I TCN trên cơ sở của Bà La Môn giáo, có ảnh hưởng lâu dài và sâu sắc nhất đối với đời sống văn hoá, xã hội và kiến trúc Ấn Độ.
-- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The oldest and largest major religion of India, which developed out of Brahmanism during the early centuries of the Common Era. / VI: Tôn giáo cổ xưa và lớn nhất ở Ấn Độ, hình thành và phát triển trên cơ sở đạo Bà La Môn vào những thế kỉ đầu Công nguyên.
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 5 (Mục II.2.b): Tôn giáo bản địa tiêu biểu trong thành tựu văn minh Ấn Độ thời kì cổ – trung đại.
-  - Lịch sử và Địa lí lớp 6, Bài 8 (Mở đầu, Mục 3): một trong những tôn giáo lớn của thế giới có cội nguồn từ văn minh Ấn Độ cổ đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 40, 41; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8, tr. 34; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37, 38
+  - *Lưu ý:* Không nhầm với 'Ấn Độ giáo' (`Hinduism`) trong Địa lí.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 40, 41
 
 ### historical cognition
 - **Tiếng Việt:** Nhận thức lịch sử
@@ -2147,6 +2681,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 15 (Mục 2): Sự kiện mở đầu quá trình hoạt động ở nước ngoài của Nguyễn Tất Thành – Nguyễn Ái Quốc giai đoạn 1911 – 1920.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B15 (Mục 1), tr. 91; SGK Lịch sử 12 KNTT, Chủ đề 06, B15 (Mục 2), tr. 91; SGK Lịch sử 12 KNTT, Chủ đề 06, B15 (Mục 2), tr. 91, 92
 
+### Ho Dynasty Resistance War against the Ming Invasion
+- **Tiếng Việt:** Cuộc kháng chiến chống quân Minh của nhà Hồ
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The defensive war waged by the Ho Dynasty from late 1406 to June 1407 to protect Dai Ngu against the invading Ming army commanded by Zhang Fu (Truong Phu) and Mu Sheng (Moc Thanh). After losing Da Bang Citadel and Dong Do and retreating to hold Tay Do, the resistance quickly collapsed because the Ho court failed to rally popular support and confined itself to passive fixed-line defense.
+- **Giải thích (VI):** Cuộc chiến đấu bảo vệ nước Đại Ngu của triều Hồ từ cuối năm 1406 đến tháng 6 năm 1407 chống lại đạo quân xâm lược nhà Minh do Trương Phụ và Mộc Thạnh chỉ huy. Sau khi mất thành Đa Bang và Đông Đô rồi rút về cố thủ ở Tây Đô, cuộc kháng chiến nhanh chóng thất bại do nhà Hồ không quy tụ được lòng dân và tự trói mình trong thế trận phòng ngự bị động.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 3): Diễn biến và bài học lịch sử về vai trò của lòng dân từ thất bại của nhà Hồ (1406 – 1407).
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 3), tr. 76
+
 ### Hoa Binh culture
 - **Tiếng Việt:** Văn hoá Hoà Bình
 - **Chuyên ngành gốc:** Lịch sử
@@ -2156,6 +2698,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 5 (Mục 2): minh chứng cho đời sống vật chất và sự ra đời của nông nghiệp sơ khai thời nguyên thuỷ trên đất nước Việt Nam.
   - *Lưu ý:* Trong khảo cổ học quốc tế còn phổ biến với thuật ngữ Hoabinhian culture.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1), tr. 21; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 2), tr. 21; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 2), tr. 21, 22
+
+### Hoa Lu Capital
+- **Tiếng Việt:** Kinh đô Hoa Lư
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The capital of Dai Co Viet under the Dinh and Early Le dynasties, situated in a narrow valley surrounded by mountains in Ninh Binh. Defensive walls were built connecting the mountain ranges to form an Inner Citadel and an Outer Citadel housing palaces, Nhat Tru Pagoda, and Bao Thien Stupa, while commoners lived outside the walls.
+- **Giải thích (VI):** Kinh đô của nước Đại Cồ Việt thời Đinh – Tiền Lê đặt tại vùng đất hẹp có nhiều núi bao quanh ở Ninh Bình. Triều đình cho xây các bức tường nối liền các dãy núi tạo thành khu thành Nội và thành Ngoại (bên trong có cung điện, chùa Nhất Trụ, tháp Báo Thiên), còn bên ngoài thành là khu dân cư sinh sống.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 1.a): Địa thế hiểm yếu và cấu trúc kinh đô của nước Đại Cồ Việt thời Đinh – Tiền Lê.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10, tr. 48; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.a), tr. 48; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.b), tr. 48
 
 ### Hoang Sa Flotilla and Bac Hai Flotilla
 - **Tiếng Việt:** Đội Hoàng Sa và đội Bắc Hải
@@ -2182,6 +2732,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 4 (Mục 1) và Bài 5 (Mục 1): mốc hoàn thiện quá trình tiến hoá sinh học của loài người và chủ nhân của xã hội công xã thị tộc.
   - *Lưu ý:* Trong tiếng Anh học thuật còn gọi là anatomically modern human (AMH) hoặc modern human.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B4, tr. 17; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 1), tr. 17; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 18
+
+### household bondservant
+- **Tiếng Việt:** Nô tì
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The lowest social stratum in feudal society, consisting of servants who performed household labor or worked on the estates and fiefs of nobles and mandarins under heavy exploitation; in Vietnam, this system expanded significantly during the Ly and Tran dynasties.
+- **Giải thích (VI):** Tầng lớp người đầy tớ có địa vị xã hội thấp kém nhất thời phong kiến, chuyên phục dịch trong gia đình hoặc lao động trong các điền trang, thái ấp của quý tộc, quan lại và chịu sự bóc lột nặng nề; ở Việt Nam, chế độ nô tì phát triển mạnh vào thời Lý – Trần.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 10 (Mục 2.a): Tầng lớp thuộc bộ phận bị trị có địa vị thấp kém nhất trong xã hội phong kiến Việt Nam.
+  - Lịch sử và Địa lí lớp 7, Bài 17 (Mục 2.b): Tầng lớp lệ thuộc cuối thang bậc xã hội phong kiến có xu hướng giảm dần thời Lê sơ.
+  - *Lưu ý:* Phân biệt với nông nô (serf) gắn chặt với ruộng đất lãnh địa và nô lệ (slave) dưới chế độ chiếm hữu nô lệ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 2.a), tr. 50; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 2.b), tr. 86
 
 ### household serf limitation policy
 - **Tiếng Việt:** Phép hạn gia nô
@@ -2231,6 +2792,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 11, Bài 6 (Mục 3.a): Đánh giá di sản của chủ nghĩa thực dân và yêu cầu cấp bách phải tái thiết kinh tế – xã hội ở Đông Nam Á sau khi giành độc lập.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 2), tr. 40; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 3.a), tr. 40; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 3.a), tr. 40, 41
 
+### impacts of the Great Geographical Discoveries
+- **Tiếng Việt:** Tác động của các cuộc đại phát kiến địa lí
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The profound economic, social, and cultural transformations brought about by the geographical discoveries: expanding world trade, accelerating commerce and industry so Western European merchants and workshop owners grew wealthy, and bringing knowledge of new routes and lands while strengthening cultural exchange among peoples. Conversely, this process impoverished working people (especially peasants) and gave rise to the slave trade and colonial plunder.
+- **Giải thích (VI):** Những biến đổi sâu sắc về kinh tế, xã hội và văn hoá do các cuộc phát kiến địa lí mang lại: mở rộng phạm vi buôn bán thế giới, thúc đẩy thương nghiệp và công nghiệp phát triển nhanh giúp thương nhân, chủ xưởng Tây Âu giàu có, đồng thời đem lại hiểu biết về những con đường, vùng đất mới và tăng cường giao lưu văn hoá giữa các dân tộc. Tuy nhiên, quá trình này làm người lao động (nhất là nông dân) bị bần cùng hoá, dẫn đến nạn buôn bán nô lệ và làm nảy sinh quá trình cướp bóc thuộc địa.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Chủ đề chung 1 (Mục 3): phân tích tác động hai mặt (tích cực và hệ luỵ) của các cuộc đại phát kiến địa lí đối với tiến trình lịch sử.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 169; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 3), tr. 169
+
 ### Imperial Academy
 - **Tiếng Việt:** Quốc Tử Giám
 - **Chuyên ngành gốc:** Lịch sử
@@ -2238,6 +2807,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Trường học Nho giáo cao cấp đầu tiên của nhà nước quân chủ Đại Việt, do vua Lý Nhân Tông cho thành lập năm 1076 tại kinh thành Thăng Long (Hà Nội) bên cạnh Văn Miếu nhằm đào tạo nhân tài và phục vụ chế độ khoa cử tuyển chọn quan lại.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 12 (Mục 3.c và Mục 3.d): Đánh dấu sự hình thành trung tâm giáo dục Nho học cao cấp của nhà nước Đại Việt thời Lý.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 115; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 115, 116
+
+### Imperial Guard
+- **Tiếng Việt:** Cấm quân
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An elite standing military force strictly recruited with the primary duty of protecting the monarch, the royal palace, and the capital city, alongside regional troops stationed in localities.
+- **Giải thích (VI):** Bộ phận quân đội thường trực tinh nhuệ được tuyển chọn chặt chẽ nhằm chuyên trách bảo vệ nhà vua, hoàng cung và kinh thành (bên cạnh lực lượng quân đội đóng tại các địa phương).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 1.c) và Bài 11 (Mục 2.b): Lực lượng quân đội thường trực bảo vệ nhà vua và kinh thành thời Tiền Lê, thời Lý.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.b), tr. 49; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.c), tr. 49; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.c), tr. 49, 50
 
 ### imperial guards and provincial troops
 - **Tiếng Việt:** Cấm binh và ngoại binh
@@ -2280,12 +2857,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B17, tr. 78; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B17 (Mục 1), tr. 78
 
 ### Indus Valley civilization
-- **Tiếng Việt:** Văn minh sông Ấn
+- **Tiếng Việt:** Văn minh sông Ấn (văn minh Ha-ráp-pa và Mô-hen-giô Đa-rô)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The earliest ancient civilization in India, emerging around the third millennium BCE in the Indus River basin, where India's oldest writing system was preserved on terracotta seals.
 - **Giải thích (VI):** Nền văn minh cổ đại sớm nhất ở Ấn Độ hình thành từ khoảng thiên niên kỉ III TCN tại lưu vực sông Ấn, nơi lưu giữ hệ thống chữ viết cổ nhất của Ấn Độ trên các con dấu bằng đất nung.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.2.a, II.2.b): Giai đoạn mở đầu của lịch sử văn minh Ấn Độ và cội nguồn chữ viết cổ ở lưu vực sông Ấn.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.a), tr. 40; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 41
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: An ancient Eastern civilization existing from approximately 2800 to 1800 BCE, also bearing the names of the two ancient cities Harappa and Mohenjo-daro built along the banks of the Indus River. The decline of these cities brought an end to the flourishing era of the Indus Valley Civilization. / VI: Nền văn minh cổ đại phương Đông tồn tại khoảng 2 800 năm đến 1 800 năm TCN, mang tên hai thành thị cổ Ha-ráp-pa và Mô-hen-giô Đa-rô xây dựng ven bờ sông Ấn. Sự suy tàn của những thành thị này cũng khép lại thời kì phát triển rực rỡ của văn minh sông Ấn.
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 5 (Mục II.2.a, II.2.b): Giai đoạn mở đầu của lịch sử văn minh Ấn Độ và cội nguồn chữ viết cổ ở lưu vực sông Ấn.
+  - Lịch sử và Địa lí lớp 7, Chủ đề chung 2 (Mục 1.a): minh chứng điển hình cho mối quan hệ gắn bó giữa đô thị cổ với sự hưng thịnh và suy tàn của văn minh cổ đại phương Đông.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.a), tr. 40; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 41; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1.a), tr. 171
 
 ### industrial bourgeoisie and proletariat
 - **Tiếng Việt:** Giai cấp tư sản công nghiệp và giai cấp vô sản
@@ -2376,14 +2956,6 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hệ thống kết quả đối ngoại đưa Việt Nam từ một quốc gia bị bao vây, cấm vận tiến tới thiết lập quan hệ ngoại giao với 189/193 quốc gia và vùng lãnh thổ, xây dựng các quan hệ đối tác chiến lược, đối tác toàn diện, có quan hệ với 247 chính đảng ở 111 quốc gia và Quốc hội, Nghị viện của hơn 140 nước. Quá trình hội nhập đồng thời phát triển sâu rộng về kinh tế thúc đẩy tăng trưởng, đầu tư nước ngoài và xuất khẩu, mở rộng hợp tác quốc phòng và tham gia gìn giữ hoà bình, cũng như đẩy mạnh giao lưu văn hoá, giáo dục, khoa học – công nghệ, y tế và bảo vệ môi trường.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 11 (Mục 1.d): Hệ thống hoá các thành tựu hội nhập quốc tế toàn diện của Việt Nam từ năm 1986 đến nay.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.d), tr. 69, 70; SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.d), tr. 71
-
-### Islam
-- **Tiếng Việt:** Hồi giáo
-- **Chuyên ngành gốc:** Lịch sử
-- **Giải thích (EN):** One of the three major world religions, founded by Muhammad in western Arabia in the seventh century and professing belief in a single Creator, Allah.
-- **Giải thích (VI):** Một trong ba tôn giáo lớn có phạm vi toàn thế giới, do Mô-ha-mét sáng lập ở phía tây bán đảo A-rập vào thế kỉ VII và tôn thờ một Đấng Sáng thế duy nhất là Thánh Ala.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.2.b): Ảnh hưởng của tôn giáo đối với các công trình kiến trúc thánh đường, cung điện ở Ấn Độ thời trung đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 42; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144
 
 ### Islam in Southeast Asia
 - **Tiếng Việt:** Hồi giáo ở Đông Nam Á
@@ -2529,13 +3101,40 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 16 (Mục 2): Cuộc khởi nghĩa tiêu biểu của người Việt chống ách đô hộ nhà Ngô vào thế kỉ III.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B16 (Mục 1), tr. 73; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B16 (Mục 2), tr. 73; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B16 (Mục 2), tr. 73, 74
 
+### Lam Son Uprising
+- **Tiếng Việt:** Khởi nghĩa Lam Sơn
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A broad popular war of national liberation (1418–1427) led by a high command headed by Le Loi and Nguyen Trai through sound and creative military and diplomatic strategies. Its victory ended more than twenty years of Ming domination, fully restored national independence, and ushered in a new era of development for Dai Viet.
+- **Giải thích (VI):** Cuộc chiến tranh giải phóng dân tộc mang tính chất nhân dân rộng rãi (1418 – 1427) do bộ chỉ huy đứng đầu là Lê Lợi và Nguyễn Trãi lãnh đạo với đường lối quân sự, ngoại giao đúng đắn, sáng tạo. Thắng lợi của cuộc khởi nghĩa đã chấm dứt hơn hai mươi năm đô hộ của nhà Minh, khôi phục hoàn toàn nền độc lập và mở ra thời kì phát triển mới của Đại Việt.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1, 2): Cuộc đấu tranh giải phóng dân tộc lật đổ ách thống trị của nhà Minh đầu thế kỉ XV.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 79; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 82; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 2), tr. 82
+
+### Lan Xang Kingdom
+- **Tiếng Việt:** Vương quốc Lan Xang (Lan Xang; Triệu Voi)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The unified feudal Lao kingdom (meaning 'Million Elephants') founded in 1353 by the chieftain Fa Ngum through the consolidation of Lao muangs. Reaching its zenith from the fifteenth to seventeenth centuries, the kingdom was organized into seven administrative muangs, enjoyed economic prosperity, maintained peaceful relations with neighbors, and resolutely resisted Burmese invasions.
+- **Giải thích (VI):** Nhà nước phong kiến thống nhất của người Lào (mang nghĩa là Triệu Voi) do tộc trưởng Pha Ngừm tập hợp các mường Lào sáng lập vào năm 1353. Vương quốc phát triển thịnh vượng trong các thế kỉ XV – XVII với 7 mường hành chính, kinh tế phát triển, giữ quan hệ hoà hiếu với các nước láng giềng và kiên quyết chống quân xâm lược Miến Điện.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 1–2): Quá trình thành lập và giai đoạn phát triển thịnh vượng của Vương quốc Lào thời phong kiến.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B7, tr. 39; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 1), tr. 39; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 40
+
+### Land Chenla
+- **Tiếng Việt:** Lục Chân Lạp
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A historical designation in certain chronicles denoting the elevated core homeland of the Khmer people (in present-day Cambodia) under the direct rule of the Chenla royal court after the 7th century, distinguished from Water Chenla to the south.
+- **Giải thích (VI):** Tên gọi trong một số sử sách dùng để chỉ vùng đất gốc có địa hình cao của người Khơ-me (nay thuộc Cam-pu-chia) nằm dưới quyền kiểm soát trực tiếp của triều đình Chân Lạp từ sau thế kỉ VII, phân biệt với vùng Thuỷ Chân Lạp ở phía nam.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 2.a): Thuật ngữ lịch sử dùng để phân biệt địa bàn kiểm soát trực tiếp của Chân Lạp với khu vực Nam Bộ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.a), tr. 93, 94
+
 ### landholding limitation policy
-- **Tiếng Việt:** Chính sách hạn điền
+- **Tiếng Việt:** Chính sách hạn điền (Hạn điền)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A socio-economic policy enacted by Ho Quy Ly and the Ho Dynasty to curb large-scale private landownership in aristocratic estates and fiefs (capping private landholdings at 10 mau for everyone except grand princes and senior princesses). Together with the household serf limitation policy, it weakened the power of the Tran royal aristocracy, increased state revenue, and strengthened centralized monarchical authority.
 - **Giải thích (VI):** Chính sách kinh tế – xã hội do Hồ Quý Ly và triều Hồ ban hành nhằm hạn chế sự phát triển của chế độ sở hữu lớn về ruộng đất trong các điền trang, thái ấp của tầng lớp quý tộc (ngoài đại vương và trưởng công chúa, ruộng đất tư hữu tối đa chỉ được 10 mẫu). Cùng với phép hạn nô, chính sách này làm suy yếu thế lực quý tộc tôn thất triều Trần, tăng nguồn thu cho Nhà nước và củng cố quyền lực của chế độ quân chủ trung ương tập quyền.
-- **Bối cảnh:** Lịch sử lớp 11, Bài 9 (Mục 2, 3): Biện pháp cải cách ruộng đất trọng tâm của Hồ Quý Ly nhằm xoá bỏ thế lực điền trang quý tộc thời Trần.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 05, B9 (Mục 2), tr. 62; SGK Lịch sử 11 KNTT, Chủ đề 05, B9 (Mục 2), tr. 62, 63; SGK Lịch sử 11 KNTT, Chủ đề 05, B9 (Mục 3), tr. 63
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A feudal state policy setting a maximum legal limit on the area of private land an individual was permitted to own. Under the Ho Dynasty, Ho Quy Ly enacted this measure to curb the economic power of the Tran aristocracy and expand state-managed public landholdings. / VI: Chính sách của nhà nước phong kiến quy định mức giới hạn tối đa diện tích ruộng đất tư mà mỗi cá nhân được phép sở hữu. Dưới triều Hồ, Hồ Quý Ly ban hành chính sách này nhằm thu hẹp thế lực kinh tế của tầng lớp quý tộc nhà Trần và tăng nguồn ruộng đất công cho nhà nước.
+- **Bối cảnh:**
+  - Lịch sử lớp 11, Bài 9 (Mục 2, 3): Biện pháp cải cách ruộng đất trọng tâm của Hồ Quý Ly nhằm xoá bỏ thế lực điền trang quý tộc thời Trần.
+  - Lịch sử và Địa lí lớp 7, Bài 15 (Mục 2.a): Chính sách cải cách ruộng đất của Hồ Quý Ly cuối thế kỉ XIV – đầu thế kỉ XV.
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 05, B9 (Mục 2), tr. 62; SGK Lịch sử 11 KNTT, Chủ đề 05, B9 (Mục 2), tr. 62, 63; SGK Lịch sử 11 KNTT, Chủ đề 05, B9 (Mục 3), tr. 63; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.a), tr. 75; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175
 
 ### landlord
 - **Tiếng Việt:** Địa chủ
@@ -2552,6 +3151,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nhóm các ngôn ngữ có cùng nguồn gốc và mang những đặc điểm tương đồng về ngữ pháp, hệ thống từ vựng cơ bản, thanh điệu và ngữ âm. Mỗi ngữ hệ có thể bao gồm một hoặc nhiều nhóm ngôn ngữ; tại Việt Nam hiện nay, 54 dân tộc thuộc 5 ngữ hệ và 8 nhóm ngôn ngữ.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 13 (Mục 1b): Khái niệm cơ sở để phân loại 54 dân tộc Việt Nam thành 5 ngữ hệ và 8 nhóm ngôn ngữ.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.a), tr. 125; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.b), tr. 125
+
+### Lao Theung and Lao Loum
+- **Tiếng Việt:** Người Lào Thơng và người Lào Lùm (người Lào Thơng; người Lào Lùm)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The two main population groups whose harmonious coexistence formed the Lao people along the Mekong River basin. The Lao Theung were the ancient indigenous inhabitants of the region, while the Lao Loum were Thai-speaking migrants who settled in Laos during the thirteenth century.
+- **Giải thích (VI):** Hai bộ phận cư dân chủ yếu chung sống hoà hợp tạo nên cộng đồng người Lào gắn liền với lưu vực sông Mê Công. Trong đó, người Lào Thơng là lớp cư dân bản địa sinh sống lâu đời từ xa xưa, còn người Lào Lùm là nhóm cư dân nói tiếng Thái di cư đến vùng đất Lào vào thế kỉ XIII.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 1): Nguồn gốc tộc người trong quá trình hình thành các mường cổ và Vương quốc Lan Xang.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B7, tr. 39; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 1), tr. 39
 
 ### Lapulapu
 - **Tiếng Việt:** La-pu-la-pu
@@ -2579,6 +3186,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đạo luật do Quốc hội Việt Nam thông qua năm 2012 nhằm xác lập cơ sở pháp lí quốc gia vững chắc để bảo vệ chủ quyền biển đảo và phát triển kinh tế biển.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 9 (Mục 2.c): Nêu đạo luật khẳng định cơ sở pháp lí quốc gia bảo vệ chủ quyền biển đảo và phát triển kinh tế biển của Việt Nam.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.c), tr. 58
+
+### Le Hoan
+- **Tiếng Việt:** Lê Hoàn (Thập đạo tướng quân)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A renowned general and the founding emperor of the Early Le Dynasty (941–1005), native to Ai Chau (Thanh Hoa), who assisted Dinh Bo Linh in quelling the 12 warlords and served as Commander-in-Chief of the Ten Circuits under the Dinh court. Enthroned amid the Song invasion threat, he personally led the victorious resistance war against the Song in 981 and consolidated the state of Dai Co Viet.
+- **Giải thích (VI):** Danh tướng và hoàng đế sáng lập nhà Tiền Lê (941 – 1005), quê ở Ái Châu (Thanh Hoá), từng giúp Đinh Bộ Lĩnh dẹp loạn 12 sứ quân và giữ chức Thập đạo tướng quân dưới triều Đinh. Trước nguy cơ xâm lược của nhà Tống, ông được suy tôn lên ngôi vua, trực tiếp lãnh đạo thắng lợi cuộc kháng chiến chống Tống năm 981 và củng cố quốc gia Đại Cồ Việt.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 1.b, 1.c): Nhân vật lịch sử lãnh đạo thắng lợi cuộc kháng chiến chống Tống năm 981 và sáng lập nhà Tiền Lê.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10, tr. 48; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.a), tr. 48; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.b), tr. 48
+
+### Le Loi
+- **Tiếng Việt:** Lê Lợi (Bình Định Vương)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A prestigious local chieftain from Lam Son (Thanh Hoa) who devoted his family fortune to recruiting talented patriots, organized the Lung Nhai Oath (1416), and proclaimed himself King Binh Dinh to launch the Lam Son Uprising in early 1418. As supreme commander, he led the uprising to complete victory over the Ming occupiers and ascended the throne in 1428, founding the Early Le Dynasty.
+- **Giải thích (VI):** Vị hào trưởng uy tín ở vùng Lam Sơn (Thanh Hoá), người đã dốc gia sản chiêu tập hào kiệt, tổ chức Hội thề Lũng Nhai (1416) và xưng Bình Định Vương dựng cờ khởi nghĩa Lam Sơn đầu năm 1418. Ông là chủ tướng lãnh đạo cuộc khởi nghĩa giành thắng lợi hoàn toàn trước quân Minh và lên ngôi hoàng đế năm 1428, sáng lập vương triều Lê sơ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.a), Bài 17 (Mục 1): Vị lãnh tụ tối cao của khởi nghĩa Lam Sơn và hoàng đế sáng lập nhà Lê sơ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16, tr. 78; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 78, 79; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 83
 
 ### League of Nations
 - **Tiếng Việt:** Hội Quốc liên
@@ -2646,6 +3269,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 11, Bài 11 (Mục 2): Biện pháp hoàn thành thống nhất đất nước về mặt hành chính và đặt nền móng cho đơn vị cấp tỉnh ở Việt Nam.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 05, B11 (Mục 2), tr. 71
 
+### local militia
+- **Tiếng Việt:** Dân binh
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An irregular local armed force in traditional villages and communities whose members remained engaged in agricultural production and were rallied by local leaders to join uprisings or resist foreign invasions.
+- **Giải thích (VI):** Lực lượng vũ trang không chính quy ở các làng xã, địa phương thời xưa, không thoát li sản xuất, do một hoặc một số người tập hợp lại để tham gia khởi nghĩa địa phương hoặc chiến đấu chống ngoại xâm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 2) và Bài 14 (Mục 1): Lực lượng vũ trang làng xã góp phần quan trọng trong quân đội thời Trần và kháng chiến chống Mông – Nguyên.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 63
+
 ### local notable
 - **Tiếng Việt:** Hào trưởng
 - **Chuyên ngành gốc:** Lịch sử
@@ -2696,6 +3327,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 3 (Mục 2): phân biệt cách tính lịch của cư dân cổ đại phương Đông với dương lịch của cư dân châu Âu.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2), tr. 15
 
+### Lung Nhai Oath
+- **Tiếng Việt:** Hội thề Lũng Nhai
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A solemn oath ceremony held by Le Loi and 18 heroic notables at Lung Nhai (Thanh Hoa) in 1416 to pledge brotherhood and affirm their determination to expel the Ming invaders. This event laid the foundation for a united leadership core prior to the formal outbreak of the Lam Son Uprising in early 1418.
+- **Giải thích (VI):** Hội thề được Lê Lợi cùng 18 hào kiệt tổ chức tại Lũng Nhai (Thanh Hoá) vào năm 1416 nhằm kết nghĩa đồng tâm và khẳng định quyết tâm đánh đuổi quân xâm lược nhà Minh. Sự kiện này đặt nền móng cho khối đoàn kết hạt nhân lãnh đạo trước khi cuộc khởi nghĩa Lam Sơn chính thức bùng nổ đầu năm 1418.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.a): Sự kiện chuẩn bị hạt nhân lãnh đạo cho cuộc khởi nghĩa Lam Sơn.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 79
+
+### Luong The Vinh
+- **Tiếng Việt:** Lương Thế Vinh
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A distinguished scholar and scientist of the Early Le Dynasty who placed as First Doctoral Laureate (Trang nguyen) in 1463 and achieved renown in mathematics through works such as 'Compendium of Mathematical Methods' ('Dai thanh toan phap') and 'Buddhist Liturgical Textbook' ('Thien mon giao khoa'). Admired for his broad erudition, versatility, and unassuming character, he was deeply respected by both the royal court and the common people.
+- **Giải thích (VI):** Danh nhân khoa học và văn hoá thời Lê sơ, đỗ Trạng nguyên năm 1463, nổi tiếng là nhà toán học uyên bác với các công trình 'Đại thành toán pháp' và 'Thiền môn giáo khoa'. Nhờ học rộng, tài cao cùng cốt cách khoáng đạt, bình dị, ông được cả nhà vua lẫn nhân dân đương thời hết mực quý trọng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 4.d): Danh nhân toán học và văn hoá xuất sắc của Đại Việt thế kỉ XV.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.d), tr. 88
+
 ### Luy Lau Ancient Citadel
 - **Tiếng Việt:** Thành cổ Luy Lâu
 - **Chuyên ngành gốc:** Lịch sử
@@ -2711,6 +3358,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cuộc khởi nghĩa chống chế độ cai trị khắc nghiệt của nhà Lương bùng nổ vào đầu năm 542 do hào trưởng Lý Bí (quê ở Phổ Yên, Thái Nguyên) lãnh đạo, nhanh chóng lật đổ chính quyền đô hộ và làm chủ Giao Châu. Thắng lợi của cuộc khởi nghĩa dẫn đến sự ra đời của nước Vạn Xuân vào đầu năm 544 khi Lý Bí xưng là Lý Nam Đế, khẳng định quyền tự chủ của người Việt.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 16 (Mục 3): Cuộc khởi nghĩa giành độc lập và tiến tới thành lập nhà nước riêng của người Việt ở thế kỉ VI.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B16 (Mục 2), tr. 74; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B16 (Mục 3), tr. 74; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B16 (Mục 3), tr. 74, 75
+
+### Ly Cong Uan
+- **Tiếng Việt:** Lý Công Uẩn (Lý Thái Tổ)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The founding emperor of the Ly Dynasty (temple name Ly Thai To), native to Co Phap prefecture (Tu Son, Bac Ninh), who studied under Zen Master Van Hanh in his youth and rose under the Early Le court to Palace Front Commander-in-Chief heading the Imperial Guard. In 1009, following Le Long Dinh's death, he was enthroned by Buddhist monks and court ministers, and in 1010 he relocated the capital from Hoa Lu to Thang Long.
+- **Giải thích (VI):** Vị hoàng đế sáng lập vương triều Lý (miếu hiệu Lý Thái Tổ), quê ở châu Cổ Pháp (Từ Sơn, Bắc Ninh), thuở nhỏ theo học sư Vạn Hạnh và làm quan triều Tiền Lê đến chức Điện tiền Chỉ huy sứ chỉ huy cấm quân. Năm 1009, sau khi Lê Long Đĩnh mất, ông được giới sư sãi và đại thần suy tôn lên ngôi vua, đến năm 1010 quyết định dời đô từ Hoa Lư về Thăng Long.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 1): Vị vua sáng lập vương triều Lý và định đô ở Thăng Long.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11, tr. 52; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 1), tr. 52; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 1), tr. 52, 53
+
+### Ly Thuong Kiet
+- **Tiếng Việt:** Lý Thường Kiệt
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A preeminent general of the Ly Dynasty (1019–1105), born Ngo Tuan in Thai Hoa ward (Thang Long capital), who held the office of Grand Marshal Supporting the State and was bestowed the royal surname Ly. Serving as supreme commander, he led the army and people of Dai Viet to victory over the invading Song forces in the 1075–1077 resistance war.
+- **Giải thích (VI):** Danh tướng kiệt xuất triều Lý (1019 – 1105), tên thật là Ngô Tuấn, quê ở phường Thái Hoà (kinh thành Thăng Long), giữ chức Phụ quốc Thái uý và được ban quốc tính họ Lý. Ông đảm nhận trọng trách tổng chỉ huy quân dân Đại Việt đánh thắng quân xâm lược nhà Tống trong cuộc kháng chiến năm 1075 – 1077.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 12 (Mục 1, 2): Danh tướng kiệt xuất lãnh đạo thắng lợi cuộc kháng chiến chống quân xâm lược Tống thời Lý.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B12, tr. 58; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B12 (Mục 1), tr. 58; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B12 (Mục 1), tr. 58, 59
 
 ### Mahabharata
 - **Tiếng Việt:** Ma-ha-bha-ra-ta
@@ -2752,6 +3415,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 11 (Mục 1): đặc điểm không gian và tự nhiên tạo nền tảng cho kinh tế nông nghiệp và thương mại biển ở Đông Nam Á.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 04, B11, tr. 51; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 1), tr. 51; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 2), tr. 51, 52
 
+### Majapahit Empire
+- **Tiếng Việt:** Vương triều Mô-giô-pa-hít (Mô-giô-pa-hít)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A major feudal dynasty in maritime Southeast Asia emerging from the thirteenth century onward that unified numerous small states across the islands of Sumatra and Java (in present-day Indonesia).
+- **Giải thích (VI):** Vương triều phong kiến lớn ở Đông Nam Á hải đảo ra đời từ sau thế kỉ XIII, thống nhất nhiều tiểu quốc trên hai đảo Xu-ma-tra và Gia-va (thuộc In-đô-nê-xi-a ngày nay).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1): Quá trình thống nhất các quốc gia hải đảo ở khu vực In-đô-nê-xi-a từ thế kỉ XIII đến nửa đầu thế kỉ XVI.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 36; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 36, 37; SGK Lịch sử và Địa lí 7 KNTT, Bảng phiên âm, tr. 180
+
 ### major uprisings during the Northern domination period
 - **Tiếng Việt:** Một số cuộc khởi nghĩa tiêu biểu trong thời kì Bắc thuộc
 - **Chuyên ngành gốc:** Lịch sử
@@ -2775,6 +3446,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Dân tộc có số dân chiếm trên 50% tổng dân số của cả nước theo kết quả điều tra dân số quốc gia (theo Nghị định số 05/2011/NĐ-CP về Công tác dân tộc). Ở Việt Nam, dân tộc Kinh là dân tộc đa số với số dân chiếm 85,32% tổng dân số cả nước.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 13 (Mục 1a): Tiêu chí phân chia nhóm dân tộc đa số ở Việt Nam theo quy định về công tác dân tộc.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.a), tr. 123; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.a), tr. 124; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.a), tr. 124, 125
+
+### Malacca Sultanate
+- **Tiếng Việt:** Vương quốc Ma-lắc-ca (Ma-lắc-ca)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A prosperous feudal maritime kingdom strategically located along the Strait of Malacca connecting the Indian and Pacific Oceans. In the fifteenth century, it thrived as one of the world's premier entrepôts, facilitating trade in goods from China, India, Southeast Asia, Western Asia, and Europe.
+- **Giải thích (VI):** Vương quốc phong kiến thương cảng toạ lạc tại vị trí chiến lược bên eo biển Ma-lắc-ca nối Ấn Độ Dương với Thái Bình Dương. Vào thế kỉ XV, vương quốc này phát triển thành trung tâm giao thương hàng hải sầm uất bậc nhất thế giới, nơi trao đổi hàng hoá từ Trung Quốc, Ấn Độ, Đông Nam Á, Tây Á và châu Âu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1): Tiêu biểu cho sự hưng thịnh của thương mại đường biển ở Đông Nam Á thế kỉ XV.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 36; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 36, 37; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 37
 
 ### Maphilindo
 - **Tiếng Việt:** Tổ chức MAPHILINDO (MAPHILINDO)
@@ -2808,6 +3487,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 1.b, 2.b): Trường phái triết học lớn phát triển ở Hy Lạp – La Mã cổ đại (Ta-lét, Hê-ra-clít, Đê-mô-crít) và thời kì Phục hưng.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 53; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144
 
+### means of production
+- **Tiếng Việt:** Tư liệu sản xuất
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The material inputs and facilities, such as land, workshops, raw materials, and tools, used to produce goods of economic value.
+- **Giải thích (VI):** Tổng thể các yếu tố vật chất như ruộng đất, nhà xưởng, nguyên liệu và công cụ lao động dùng để sản xuất ra các sản phẩm có giá trị kinh tế.
+- **Giải thích khác (SGK GD KT&PL 10):** EN: Material conditions necessary to organize production, consisting of means of labor and subjects of labor. / VI: Điều kiện vật chất cần thiết để tổ chức sản xuất, bao gồm hai bộ phận cấu thành là tư liệu lao động và đối tượng lao động.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2.a): Các yếu tố sản xuất bị quý tộc và thương nhân tước đoạt từ nông nô, thợ thủ công để tập trung vào tay chủ tư bản ở Tây Âu.
+  - Giáo dục Kinh tế và Pháp luật lớp 10, Bảng giải thích thuật ngữ (Phần Giáo dục kinh tế): Yếu tố vật chất nền tảng kết hợp với sức lao động để tổ chức sản xuất.
+  - *Lưu ý:* Bao gồm cả tư liệu lao động và đối tượng lao động; phân biệt với tư liệu tiêu dùng phục vụ trực tiếp đời sống sinh hoạt.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.a), tr. 16; SGK GD KT&PL 10 KNTT, Bảng giải thích thuật ngữ, tr. 153; SGK GD KT&PL 10 KNTT, Bảng giải thích thuật ngữ, tr. 153, 154
+
 ### mechanization
 - **Tiếng Việt:** Cơ khí hoá
 - **Chuyên ngành gốc:** Lịch sử
@@ -2816,6 +3507,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 7 (Mục 1.a): Nhu cầu cải tiến kĩ thuật trong ngành dệt ở Anh mở đầu Cách mạng công nghiệp lần thứ nhất.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.a), tr. 59; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144
 
+### medieval city
+- **Tiếng Việt:** Đô thị trung đại (đô thị châu Âu thời trung đại)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** European cities emerging from the 11th century as agricultural, handicraft, and commercial production transformed, when artisans fled feudal manors or bought their freedom and gathered to produce and trade in populous places near raw materials or major road intersections. In addition, some medieval cities were built by feudal lords or the Church, or revived from ancient cities.
+- **Giải thích (VI):** Các đô thị châu Âu ra đời từ thế kỉ XI khi sản xuất trong lãnh địa phong kiến biến đổi, một số thợ thủ công trốn khỏi lãnh địa hoặc dùng tiền chuộc tự do rồi tập trung sản xuất, buôn bán tại nơi đông dân cư, gần nguồn nguyên liệu và giao điểm các trục đường chính. Bên cạnh đó còn có những đô thị do lãnh chúa, Giáo hội xây dựng hoặc phục hồi từ các đô thị cổ đại.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Chủ đề chung 2 (Mục 2.a): điều kiện lịch sử và các con đường ra đời của đô thị châu Âu thời trung đại.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2, tr. 170; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1.b), tr. 172; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.a), tr. 172
+
+### medieval town
+- **Tiếng Việt:** Thành thị trung đại
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Urban centers emerging in Europe from the late eleventh century as craftsmen established workshops and traded goods at busy crossroads, or as settlements founded by feudal lords or revived from ancient cities, populated mainly by merchants and artisans. Their growth broke down the self-sufficient economy of feudal manors, stimulated commodity trade, fostered culture and universities, and promoted the transition from decentralized to centralized feudalism.
+- **Giải thích (VI):** Các đô thị hình thành ở châu Âu từ cuối thế kỉ XI do thợ thủ công lập xưởng sản xuất và trao đổi hàng hoá tại nơi đông người qua lại, hoặc do lãnh chúa lập ra hay phục hồi từ thành thị cổ đại, với cư dân chủ yếu là thương nhân và thợ thủ công. Sự phát triển của các đô thị này phá vỡ nền kinh tế tự nhiên của lãnh địa, thúc đẩy kinh tế hàng hoá, mở mang văn hoá – đại học và góp phần chuyển từ phong kiến phân quyền sang phong kiến tập quyền.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 1 (Mục 4): Nguồn gốc xuất hiện và vai trò thúc đẩy xã hội phong kiến châu Âu phát triển của các đô thị từ cuối thế kỉ XI.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 3), tr. 12; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 4), tr. 12; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 4), tr. 12, 13
+
+### medieval trade fair
+- **Tiếng Việt:** Hội chợ thời trung đại
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Annual trading gatherings organized by merchants in medieval European cities to exchange goods. Prominent examples were the Champagne fairs in France featuring Eastern spices and luxury goods, French wine, and livestock, where merchants from across Europe met regularly so the fair sessions served as settlement cycles for bills of credit.
+- **Giải thích (VI):** Hình thức giao thương định kì hằng năm do thương nhân trong các đô thị châu Âu trung đại tổ chức để trao đổi hàng hoá. Tiêu biểu là các hội chợ vùng Săm-pa-nhơ (Pháp) buôn bán đồ gia vị, hàng xa xỉ phương Đông, rượu vang và gia súc Pháp, nơi thương nhân toàn châu Âu gặp gỡ đều đặn biến các phiên chợ thành chu kì thanh toán tín phiếu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Chủ đề chung 2 (Mục 2.b): hình thức giao thương quốc tế và thanh toán tín phiếu sôi động của thương nhân đô thị châu Âu trung đại.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.a), tr. 173; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.b), tr. 173; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.b), tr. 173, 174
+
 ### Meiji Restoration
 - **Tiếng Việt:** Duy tân Minh Trị
 - **Chuyên ngành gốc:** Lịch sử
@@ -2823,6 +3538,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cuộc cải cách toàn diện trên các lĩnh vực chính trị, kinh tế, quân sự, văn hoá, xã hội và giáo dục tại Nhật Bản bắt đầu từ năm 1868. Cuộc cải cách đã đưa Nhật Bản từ một nước phong kiến trở thành nước tư bản chủ nghĩa phát triển mạnh mẽ trong 30 năm cuối thế kỉ XIX và tránh khỏi nguy cơ bị thực dân phương Tây xâm lược.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 2 (Mục 2.b): Cuộc cải cách mang tính chất cách mạng tư sản đưa Nhật Bản từ nước phong kiến thành nước tư bản chủ nghĩa.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 2.b), tr. 15
+
+### merchant guild
+- **Tiếng Việt:** Thương hội (hội buôn)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An organization of medieval merchants established to maintain trade monopolies over specific goods, control prices, resist harassment by feudal lords, and protect merchants' commercial interests.
+- **Giải thích (VI):** Tổ chức của thương nhân thời trung đại lập ra nhằm giữ độc quyền buôn bán những mặt hàng nhất định, khống chế giá cả, chống lại sự sách nhiễu của lãnh chúa phong kiến và bảo vệ quyền lợi của thương nhân.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Chủ đề chung 2 (Mục 2.b): tổ chức của thương nhân đô thị châu Âu trung đại góp phần thúc đẩy kinh tế hàng hoá và làm tan rã kinh tế tự nhiên trong lãnh địa.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176
 
 ### Mesopotamia
 - **Tiếng Việt:** Lưỡng Hà
@@ -2867,6 +3590,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 6 (Mục 1): Văn kiện lịch sử chính thức phát động Tổng khởi nghĩa tháng Tám năm 1945.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 1), tr. 32; SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 2), tr. 32, 33
 
+### Military-Agricultural Colony Commissioner
+- **Tiếng Việt:** Đồn điền sứ
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A specialized official post in the feudal state responsible for organizing the reclamation of wasteland to expand agricultural acreage.
+- **Giải thích (VI):** Chức quan chuyên trách của nhà nước phong kiến đảm nhiệm việc tổ chức khai khẩn đất hoang nhằm mở rộng diện tích canh tác nông nghiệp.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A specialized official post in the feudal era charged with organizing the reclamation of wasteland and overseeing state land-reclamation colonies. / VI: Chức quan chuyên trách thời phong kiến được giao nhiệm vụ tổ chức khai khẩn đất hoang và quản lí việc lập đồn điền.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 2, 3.a): Chức quan phụ trách khai khẩn đất hoang mở rộng diện tích canh tác thời Trần.
+  - Lịch sử và Địa lí lớp 7, Bài 17 (Mục 2.a): Chức quan phụ trách đẩy mạnh khẩn hoang mở rộng diện tích canh tác dưới thời Lê sơ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 63; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 2.a), tr. 85
+
 ### millennium
 - **Tiếng Việt:** Thiên niên kỉ
 - **Chuyên ngành gốc:** Lịch sử
@@ -2899,6 +3633,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 11, Bài 2 (Mục 2.b): Chỉ các phong trào cải cách đưa đất nước phát triển theo con đường tư bản chủ nghĩa ở châu Á cuối thế kỉ XIX, tiêu biểu là Duy tân Minh Trị ở Nhật Bản.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91, 92
 
+### monarchy
+- **Tiếng Việt:** Chế độ quân chủ
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A form of government in which the supreme head of state is a king or emperor. In Vietnamese feudal history, this political system was closely tied to the consolidation of centralized authority in the hands of the monarch and the royal court.
+- **Giải thích (VI):** Thể chế chính quyền nhà nước mà trong đó người đứng đầu tối cao là một vị vua (hoặc hoàng đế). Trong lịch sử phong kiến Việt Nam, thể chế này gắn liền với xu hướng củng cố quyền lực tập trung về tay nhà vua và triều đình trung ương.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 2.a): Thể chế chính quyền tập quyền được Hồ Quý Ly tiến hành cải tổ và củng cố.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.a), tr. 75; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175
+
+### money-changing counter
+- **Tiếng Việt:** Quầy đổi tiền
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Currency-exchange booths that emerged at the annual trade fairs of medieval European merchants and served as the forerunner of later banks. The English word *bank* is borrowed from the Old Italian *banca* (meaning long bench), referring to the benches used as money-changing counters at fairs.
+- **Giải thích (VI):** Các điểm giao dịch đổi tiền xuất hiện tại những hội chợ trao đổi hàng hoá hằng năm của thương nhân châu Âu thời trung đại, chính là tiền thân của các ngân hàng sau này. Từ “ngân hàng” trong tiếng Anh (*bank*) vay mượn từ tiếng I-ta-li-a cổ (*banca*, nghĩa là ghế dài) chỉ những chiếc ghế dài dùng làm quầy giao dịch đổi tiền tại hội chợ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Chủ đề chung 2 (Mục 2.b): sự hình thành hoạt động tài chính – ngân hàng sơ khai gắn với thương nhân đô thị châu Âu trung đại.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.a), tr. 173; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.b), tr. 173; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.b), tr. 173, 174
+
 ### monopoly capitalism
 - **Tiếng Việt:** Chủ nghĩa tư bản độc quyền
 - **Chuyên ngành gốc:** Lịch sử
@@ -2914,6 +3664,34 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Sự liên minh giữa các nhà tư bản lớn nhằm tập trung vào tay mình phần lớn việc sản xuất hoặc tiêu thụ một số hàng hoá để thu lợi nhuận cao. Các hình thức tiêu biểu cuối thế kỉ XIX – đầu thế kỉ XX là các-ten, xanh-đi-ca ở Đức và Pháp, tơ-rớt ở Mỹ.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 2 (Mục 2.c, 3.a): Thiết chế kinh tế đánh dấu bước chuyển sang chủ nghĩa tư bản độc quyền và tiếp tục kết hợp với nhà nước tư sản trong chủ nghĩa tư bản hiện đại.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 2.c), tr. 16; SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 3.a), tr. 17
+
+### Mountains and Rivers of the Southern Country
+- **Tiếng Việt:** Nam quốc sơn hà
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A renowned classical Chinese poem of the Ly Dynasty affirming the territorial sovereignty of Dai Viet, traditionally attributed to Ly Thuong Kiet, who had it recited nightly from a temple on the Nhu Nguyet River in 1077 to demoralize the invading Song troops and rally the fighting spirit of his soldiers.
+- **Giải thích (VI):** Bài thơ chữ Hán tiêu biểu thời Lý khẳng định chủ quyền lãnh thổ của quốc gia Đại Việt, tương truyền do Lý Thường Kiệt sai người vào đền bên bờ sông Như Nguyệt ngâm vang hằng đêm năm 1077 nhằm làm nhụt ý chí quân xâm lược Tống và khích lệ tinh thần chiến đấu của quân sĩ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 12 (Mục 2.b): Tác phẩm thơ chữ Hán khẳng định chủ quyền lãnh thổ và cổ vũ quân sĩ tại phòng tuyến sông Như Nguyệt.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B12 (Mục 2.a), tr. 60; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B12 (Mục 2.b), tr. 60; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B12 (Mục 2.b), tr. 60, 61
+
+### muang
+- **Tiếng Việt:** Mường (mường cổ)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A traditional social and administrative unit of the Lao people, originating as early chiefdoms and later serving as provincial divisions in the Lan Xang Kingdom. Among certain ethnic minority regions of northern Vietnam, the term also denoted a traditional administrative unit equivalent to a village, commune, or district formerly governed by a local lord.
+- **Giải thích (VI):** Đơn vị tổ chức xã hội sơ khai và hành chính truyền thống của người Lào (thời Lan Xang chia đất nước thành các mường tương đương cấp tỉnh). Ở một số vùng dân tộc thiểu số miền Bắc Việt Nam, thuật ngữ này còn chỉ đơn vị hành chính truyền thống tương đương làng, xã hoặc huyện thuộc phạm vi cai quản của một chúa đất xưa.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A traditional grass-roots administrative unit of the Lao people, and also a local socio-administrative unit in certain ethnic minority areas of northern Vietnam equivalent to a village, commune, or district (historically governed by a local lord). / VI: Đơn vị hành chính truyền thống cấp cơ sở của người Lào, đồng thời chỉ đơn vị tổ chức hành chính – xã hội ở một số vùng dân tộc thiểu số miền Bắc Việt Nam tương đương với làng, xã hoặc huyện (xưa thuộc phạm vi cai quản của một chúa đất).
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 7 (Mục 1–2): Từ các mường cổ sơ khai đến hệ thống 7 mường hành chính của Vương quốc Lan Xang thời thịnh vượng.
+  - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 2): Đơn vị hành chính vùng dân tộc thiểu số miền núi phía Bắc Việt Nam và cấp cơ sở ở Lào.
+  - *Lưu ý:* Thuật ngữ chỉ đơn vị hành chính truyền thống (khác với tên gọi dân tộc Mường).
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 1), tr. 39; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 40
+
+### Mughal Empire
+- **Tiếng Việt:** Vương triều Mô-gôn
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The final feudal dynasty of India, founded in the early sixteenth century by Muslim rulers claiming Mongol descent after overthrowing the Delhi Sultanate, and lasting until British colonization in the mid-nineteenth century. The empire reached its peak of social stability, economic prosperity, and cultural achievement under Emperor Akbar (1556–1605).
+- **Giải thích (VI):** Vương triều phong kiến cuối cùng của Ấn Độ do lực lượng Hồi giáo tự nhận thuộc dòng dõi Mông Cổ lập ra vào đầu thế kỉ XVI sau khi lật đổ Vương triều Đê-li, tồn tại đến khi thực dân Anh xâm lược vào giữa thế kỉ XIX. Triều đại này đạt đến thời kì ổn định, thịnh vượng về kinh tế và văn hoá rực rỡ nhất dưới sự trị vì của Hoàng đế A-cơ-ba (1556 – 1605).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 5 (Mục 1.c): Giai đoạn phát triển và suy yếu cuối cùng của chế độ phong kiến Ấn Độ từ đầu thế kỉ XVI đến giữa thế kỉ XIX.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.b), tr. 31; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.c), tr. 31; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.c), tr. 31, 32
 
 ### multipolar trend
 - **Tiếng Việt:** Xu thế đa cực
@@ -2984,10 +3762,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A representative written legal code of the Dai Viet monarchy compiled under the Le dynasty, exemplifying a major legislative achievement of Dai Viet civilization alongside the Hinh thu (Ly dynasty), Hinh luat (Tran dynasty), and Hoang Viet luat le (Nguyen dynasty).
 - **Giải thích (VI):** Bộ luật thành văn tiêu biểu của nhà nước quân chủ Đại Việt dưới thời Lê, đại diện cho thành tựu lập pháp quan trọng của nền văn minh Đại Việt bên cạnh Hình thư (thời Lý), Hình luật (thời Trần) và Hoàng Việt luật lệ (thời Nguyễn).
 - **Giải thích khác (SGK Lịch sử 11):** EN: A comprehensive written legal code of 722 articles promulgated by the Early Le state in 1483 under Emperor Le Thanh Tong to strengthen law-based state governance. Imbued with distinctive national character, the code featured progressive provisions protecting women, the elderly, persons with disabilities, and children, as well as safeguarding dikes and agricultural production. / VI: Bộ luật thành văn hoàn chỉnh gồm 722 điều do nhà nước Lê sơ ban hành năm 1483 dưới triều vua Lê Thánh Tông nhằm tăng cường quản lí đất nước bằng pháp luật. Bộ luật mang tính dân tộc và nhân đạo sâu sắc với nhiều điều khoản tiến bộ bảo vệ quyền lợi của phụ nữ, người già, người tàn tật, trẻ em cũng như bảo vệ đê điều và sản xuất nông nghiệp.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A major written legal code promulgated by the Tran Dynasty in 1341, associated with strengthening and refining the judicial institutions of the centralized monarchical state. / VI: Bộ luật thành văn quan trọng do vương triều Trần ban hành vào năm 1341, gắn liền với việc củng cố và hoàn thiện hệ thống cơ quan pháp luật của nhà nước trung ương tập quyền.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A comprehensive written legal code of 722 articles promulgated by the Early Le Dynasty to govern the state and society by law, praised by historian Phan Huy Chu as 'a model for statecraft'. The code contained notably progressive provisions safeguarding women's rights in marital property, inheritance, and marriage. / VI: Bộ luật thành văn hoàn chỉnh gồm 722 điều do vương triều Lê sơ ban hành nhằm quản lí nhà nước và xã hội bằng pháp luật, được sử gia Phan Huy Chú ca ngợi là 'mẫu mực để trị nước'. Bộ luật mang nhiều nội dung tiến bộ như bảo vệ một số quyền lợi về tài sản, thừa kế và hôn nhân của người phụ nữ.
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 12 (Mục 3.a): Nêu thành tựu lập pháp tiêu biểu của nhà nước quân chủ trung ương tập quyền Đại Việt.
   - Lịch sử lớp 11, Bài 10 (Mục 2): Thành tựu lập pháp đỉnh cao của nhà nước quân chủ Đại Việt trong cuộc cải cách của vua Lê Thánh Tông.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.a), tr. 110; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.a), tr. 110, 111; SGK Lịch sử 11 KNTT, Chủ đề 05, B10 (Mục 2), tr. 66; SGK Lịch sử 11 KNTT, Chủ đề 05, B10 (Mục 2), tr. 66, 67; SGK Lịch sử 11 KNTT, Chủ đề 05, B10 (Mục 2), tr. 67
+  - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 2): Bộ luật thành văn tiêu biểu được ban hành năm 1341 dưới vương triều Trần.
+  - Lịch sử và Địa lí lớp 7, Bài 17 (Mục 1): Thành tựu lập pháp tiêu biểu thể hiện tính hoàn chỉnh và tiến bộ của nhà nước thời Lê sơ.
+  - *Lưu ý:* Bộ luật ban hành năm 1341 thời Trần; phân biệt với bộ Quốc triều hình luật (Luật Hồng Đức) thời Lê sơ.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.a), tr. 110; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.a), tr. 110, 111; SGK Lịch sử 11 KNTT, Chủ đề 05, B10 (Mục 2), tr. 66; SGK Lịch sử 11 KNTT, Chủ đề 05, B10 (Mục 2), tr. 66, 67; SGK Lịch sử 11 KNTT, Chủ đề 05, B10 (Mục 2), tr. 67; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 63; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 84, 85
 
 ### National Front for the Liberation of South Vietnam
 - **Tiếng Việt:** Mặt trận Dân tộc giải phóng miền Nam Việt Nam
@@ -2996,6 +3779,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tổ chức mặt trận đoàn kết các lực lượng yêu nước ở miền Nam Việt Nam được thành lập ngày 20 – 12 – 1960 từ thắng lợi của phong trào Đồng khởi nhằm tập hợp nhân dân chống Mỹ, cứu nước và thúc đẩy lực lượng vũ trang cách mạng phát triển.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.a): Tổ chức mặt trận đoàn kết toàn dân miền Nam chống Mỹ, cứu nước.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47, 48
+
+### National History Institute
+- **Tiếng Việt:** Quốc sử viện
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A specialized court agency established by the Tran Dynasty to compile official national history.
+- **Giải thích (VI):** Cơ quan chuyên trách do triều đình nhà Trần thành lập nhằm đảm nhiệm việc biên soạn lịch sử quốc gia.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 2): Cơ quan biên soạn quốc sử chuyên trách của triều đình nhà Trần.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 63
 
 ### National Insurrection Committee
 - **Tiếng Việt:** Uỷ ban Khởi nghĩa toàn quốc
@@ -3053,6 +3844,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 11, Bài 1 (Mục 1, 2.b): Tầng lớp đồng minh của giai cấp tư sản và giữ vai trò quan trọng trong lãnh đạo Cách mạng tư sản Anh thế kỉ XVII.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92, 93
 
+### Ngo Quyen's establishment of independence
+- **Tiếng Việt:** Ngô Quyền dựng nền độc lập (nhà Ngô)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The historical event in 939 following the Bach Dang victory, when Ngo Quyen abolished the title of Military Governor, proclaimed himself King, established the capital at Co Loa (Hanoi), and founded the Ngo Dynasty. Headed by the king with civil and military mandarins at the central court and generals governing key prefectures, the new administration affirmed national independence and laid the foundation for future national development.
+- **Giải thích (VI):** Sự kiện năm 939 sau chiến thắng Bạch Đằng, Ngô Quyền bỏ chức tiết độ sứ, xưng vương, đóng đô ở Cổ Loa (Hà Nội) và lập ra chính quyền nhà Ngô. Bộ máy mới do vua đứng đầu quyết định mọi việc với quan văn, quan võ giúp việc ở trung ương và các tướng lĩnh trấn giữ các châu trọng yếu ở địa phương, khẳng định nền độc lập dân tộc và đặt nền tảng phát triển đất nước.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 1): Tổ chức chính quyền và ý nghĩa lịch sử của công cuộc dựng nền độc lập dưới thời Ngô Quyền.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B9, tr. 45; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B9 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B9 (Mục 2), tr. 46
+
+### Ngo Sy Lien
+- **Tiếng Việt:** Ngô Sỹ Liên
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A prominent historian of Dai Viet during the Early Le Dynasty who earned his doctoral degree in the royal examination of 1442. He is renowned for compiling the national chronicle 'Complete Annals of Dai Viet' ('Dai Viet su ky toan thu'), a work of enduring historical value preserved to the present day.
+- **Giải thích (VI):** Nhà sử học tiêu biểu của Đại Việt thời Lê sơ, đỗ Tiến sĩ trong khoa thi năm 1442. Ông nổi tiếng với công trình biên soạn bộ quốc sử 'Đại Việt sử ký toàn thư' có giá trị lịch sử to lớn còn lưu truyền đến ngày nay.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 4.c): Danh nhân sử học tiêu biểu thời Lê sơ gắn liền với bộ quốc sử Đại Việt sử ký toàn thư.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.c), tr. 88
+
+### Ngu binh u nong policy
+- **Tiếng Việt:** Ngụ binh ư nông
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A feudal military policy meaning 'stationing soldiers among farmers' (prominent under the Ly and Tran dynasties), allowing troops in peacetime to take turns returning home to farm and young men to register on military rolls while continuing agricultural production until mobilized by the court in wartime.
+- **Giải thích (VI):** Chính sách quân sự 'gửi lính ở nhà nông' thời phong kiến (tiêu biểu dưới thời Lý – Trần), cho phép quân sĩ thời bình luân phiên về quê cày ruộng và thanh niên đăng kí tên vào sổ lính nhưng vẫn ở nhà sản xuất, khi có chiến tranh triều đình mới huy động toàn bộ vào quân đội.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 2.b) và Bài 13 (Mục 2): Chính sách kết hợp chặt chẽ kinh tế nông nghiệp với quốc phòng thời Lý – Trần.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.b), tr. 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.c), tr. 54
+
+### Nguyen Chich
+- **Tiếng Việt:** Nguyễn Chích
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A prominent general of the Lam Son Uprising (1382–1448) from Dong Son (Thanh Hoa), who proposed the 1424 strategic shift southward to capture Nghe An as a base for liberating Tay Do and Dong Quan. His plan exemplified the Vietnamese military principle of 'avoiding enemy strengths and striking weak points', creating a decisive turning point in the war against the Ming.
+- **Giải thích (VI):** Danh tướng khởi nghĩa Lam Sơn (1382 – 1448), quê ở Đông Sơn (Thanh Hoá), người đã hiến kế chuyển hướng tiến công vào Nghệ An năm 1424 để xây dựng bàn đạp chiến lược giải phóng Tây Đô và Đông Quan. Kế sách của ông thể hiện sinh động phương châm 'tránh chỗ mạnh, đánh chỗ yếu' trong nghệ thuật quân sự Việt Nam, tạo bước ngoặt thay đổi cục diện cuộc kháng chiến chống quân Minh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.c): Vị tướng hiến kế chuyển hướng địa bàn hoạt động vào Nghệ An năm 1424.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.c), tr. 80
+
 ### Nguyen Sinh Sac
 - **Tiếng Việt:** Nguyễn Sinh Sắc
 - **Chuyên ngành gốc:** Lịch sử
@@ -3060,6 +3883,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nhà nho mẫu mực đỗ Phó bảng (1862 – 1929), thân phụ của Chủ tịch Hồ Chí Minh trong một gia đình giàu truyền thống yêu nước cùng người vợ đảm đang, am hiểu văn hoá dân gian là bà Hoàng Thị Loan. Trong những năm đầu thế kỉ XX, ông đưa con trai là Nguyễn Tất Thành theo học các thầy giáo giỏi ở quê nhà rồi vào Huế và Bình Định học tập, góp phần định hình nền tảng tri thức và tinh thần yêu nước thời niên thiếu của Người.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 15 (Mục 1): Hoàn cảnh gia đình và vai trò của thân phụ đối với thời niên thiếu của Chủ tịch Hồ Chí Minh.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B15 (Mục 1), tr. 90; SGK Lịch sử 12 KNTT, Chủ đề 06, B15 (Mục 1), tr. 90, 91; SGK Lịch sử 12 KNTT, Chủ đề 06, B15 (Mục 2), tr. 91
+
+### Nguyen Trai
+- **Tiếng Việt:** Nguyễn Trãi (Ức Trai)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A national hero and world cultural celebrity (1380–1442), styled Uc Trai and native to Thuong Tin (Hanoi), who served as Le Loi's chief strategist and led diplomatic negotiations during the Lam Son Uprising. Embodying the ideals of benevolence, patriotism, and compassion for the people, he left behind major works including 'Military Correspondence', 'Great Proclamation upon the Pacification of the Wu', 'Collected Poems in the National Language', and 'Treatise on Geography'.
+- **Giải thích (VI):** Anh hùng dân tộc và danh nhân văn hoá thế giới (1380 – 1442), hiệu Ức Trai, quê ở Thường Tín (Hà Nội), người giữ vai trò quân sư trọng yếu của Lê Lợi và phụ trách đấu tranh ngoại giao trong khởi nghĩa Lam Sơn. Ông kết tinh tư tưởng nhân nghĩa, yêu nước, thương dân qua nhiều trước tác kiệt xuất như 'Quân trung từ mệnh tập', 'Bình Ngô đại cáo', 'Quốc âm thi tập' và 'Dư địa chí'.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.b), Bài 17 (Mục 4.a): Quân sư kiệt xuất của khởi nghĩa Lam Sơn và danh nhân văn hoá lớn thời Lê sơ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 79; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.b), tr. 79; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.a), tr. 87
+
+### Nhu Nguyet River defensive line
+- **Tiếng Việt:** Phòng tuyến sông Như Nguyệt
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A fortified defensive system constructed by Ly Thuong Kiet along the southern bank of the Nhu Nguyet River (a section of the Cau River blocking the overland route to Thang Long), consisting of an earthen embankment nearly 10 km long topped with multi-layered bamboo palisades. Here in 1077, Dai Viet forces halted Guo Kui's infantry, launched a decisive night counteroffensive across the river in late spring, and proactively proposed peace talks to end the war.
+- **Giải thích (VI):** Hệ thống công sự phòng thủ kiên cố do Lý Thường Kiệt xây dựng bên bờ nam sông Như Nguyệt (một đoạn sông Cầu chặn ngang đường bộ tiến vào Thăng Long), gồm đê đất cao dài gần 10 km có đóng luỹ tre dày nhiều tầng. Năm 1077, tại đây quân dân Đại Việt chặn đứng đạo quân bộ của Quách Quỳ, tổ chức vượt sông phản công quyết định trong đêm cuối xuân rồi chủ động giảng hoà để kết thúc chiến tranh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 12 (Mục 2.a, 2.b): Phòng tuyến quân sự kiên cố và nơi diễn ra trận quyết chiến chiến lược đánh bại quân Tống năm 1077.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B12 (Mục 2.a), tr. 60; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B12 (Mục 2.b), tr. 60; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B12 (Mục 2.b), tr. 60, 61
 
 ### nome
 - **Tiếng Việt:** Nôm (công xã ở Ai Cập cổ đại)
@@ -3206,6 +4045,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 1.b): Thành tựu thể thao tiêu biểu và giá trị trường tồn của văn minh Hy Lạp cổ đại.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6, tr. 48; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 54
 
+### One Pillar Pagoda
+- **Tiếng Việt:** Chùa Một Cột (chùa Diên Hựu)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A distinctive Buddhist architectural monument in Thang Long commissioned by Emperor Ly Thai Tong in 1049 under the formal name Dien Huu Pagoda, built atop a single tall stone pillar symbolizing a lotus blossom rising above the water.
+- **Giải thích (VI):** Công trình kiến trúc Phật giáo độc đáo tại Thăng Long do vua Lý Thái Tông cho xây dựng vào năm 1049 với tên chữ là chùa Diên Hựu, thiết kế đặt trên một cột đá cao tượng trưng cho đoá hoa sen nở trên mặt nước.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 4.a, 4.b): Biểu tượng kiến trúc Phật giáo đặc sắc thời Lý tại kinh thành Thăng Long.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 4.a), tr. 56; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 4.b), tr. 56
+
 ### oracle bone script
 - **Tiếng Việt:** Chữ giáp cốt (văn tự bói toán; giáp cốt văn)
 - **Chuyên ngành gốc:** Lịch sử
@@ -3242,6 +4089,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 12, Bài 8 (Mục 2.b): Mục tiêu kế hoạch Xta-lây Tay-lo và các cuộc hành quân kìm kẹp nhân dân miền Nam của Mỹ và chính quyền Sài Gòn.
   - *Lưu ý:* Chỉ khái niệm chính trị – quân sự về chính sách đàn áp của thực dân, đế quốc, không phải địa danh tỉnh Bình Định.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 46; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47
+
+### Pagan Kingdom
+- **Tiếng Việt:** Vương quốc Pa-gan (Pa-gan)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A powerful feudal kingdom that unified territory along the Irrawaddy River basin between the late tenth and thirteenth centuries, initiating the formation and development of the Kingdom of Myanmar.
+- **Giải thích (VI):** Vương quốc phong kiến vươn lên hùng mạnh và thống nhất lãnh thổ trên lưu vực sông I-ra-oa-đi trong giai đoạn từ nửa sau thế kỉ X đến thế kỉ XIII, mở đầu cho quá trình hình thành và phát triển của Vương quốc Mi-an-ma.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1): Quốc gia phong kiến tiêu biểu ở khu vực Đông Nam Á lục địa từ nửa sau thế kỉ X đến thế kỉ XIII.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6, tr. 35; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 35; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 35, 36
 
 ### paper currency of the Ho Dynasty
 - **Tiếng Việt:** Tiền giấy thời Hồ
@@ -3291,13 +4146,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 9 (Mục 2): bộ phận cư dân sản xuất chính bị phân hoá sâu sắc thành địa chủ và tá điền dưới thời nhà Tần.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 2), tr. 41; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 3), tr. 41; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191
 
+### peasant allotment
+- **Tiếng Việt:** Đất khẩu phần
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The portion of arable land surrounding the castle within a Western European feudal manor, existing alongside the lord's personal demesne. This land was allocated by the feudal lord to serfs for cultivation in return for rent and various taxes.
+- **Giải thích (VI):** Bộ phận ruộng đất nằm xung quanh lâu đài bên trong lãnh địa phong kiến Tây Âu, tồn tại song song với phần đất riêng của lãnh chúa. Phần đất này do lãnh chúa chia cho nông nô trực tiếp cày cấy để thu địa tô và các loại thuế khoá.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 1 (Mục 2): Thành phần ruộng đất cấu thành lãnh địa phong kiến Tây Âu bên cạnh đất riêng của lãnh chúa.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 2), tr. 11; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 3), tr. 11; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 3), tr. 11, 12
+
+### Penal Code of the Ly Dynasty
+- **Tiếng Việt:** Hình thư
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The first written legal code of Vietnam, compiled and promulgated by the Ly Dynasty court in 1042 to govern society by law.
+- **Giải thích (VI):** Bộ luật thành văn đầu tiên của Việt Nam, do triều đình nhà Lý biên soạn và ban hành vào năm 1042 nhằm quản lí xã hội bằng pháp luật.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 2.b): Dấu mốc quan trọng về xây dựng nhà nước pháp quyền dưới triều Lý.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.b), tr. 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.c), tr. 54
+
 ### Pha That Luang
-- **Tiếng Việt:** Tháp Thạt Luổng
+- **Tiếng Việt:** Tháp Thạt Luổng (Thạt Luổng)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A representative Buddhist stupa monument in Laos from the ancient and medieval periods, reflecting Indian-influenced Buddhist architectural style while exhibiting distinctive creative features that express national cultural identity.
 - **Giải thích (VI):** Công trình kiến trúc tháp Phật giáo tiêu biểu ở Lào thời kì cổ – trung đại, mang phong cách kiến trúc Phật giáo chịu ảnh hưởng của văn hoá Ấn Độ nhưng vẫn có nét sáng tạo độc đáo riêng, thể hiện đậm nét bản sắc văn hoá dân tộc.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 10 (Mục 2.c): Giới thiệu công trình kiến trúc Phật giáo tiêu biểu của Lào trong văn minh Đông Nam Á.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.c), tr. 89; SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.c), tr. 89, 90
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: The grandest and most iconic Buddhist architectural monument of Laos, featuring a tall flask-shaped stupa crowned with a gourd motif, set atop a lotus base and a massive four-lobed hemispherical plinth surrounded by smaller stupas. This masterpiece of traditional Lao architecture stands as a national cultural symbol depicted at the center of the modern Emblem of Laos. / VI: Công trình kiến trúc Phật giáo đồ sộ và tiêu biểu nhất của Lào, gồm ngọn tháp lớn hình nậm rượu có đỉnh quả bầu đặt trên đế hoa sen và bệ lớn hình bán cầu bốn múi đáy vuông với dãy tháp nhỏ bao quanh. Kiệt tác kiến trúc truyền thống này là biểu tượng văn hoá dân tộc và xuất hiện ở vị trí trung tâm trên Quốc huy nước Lào hiện nay.
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 10 (Mục 2.c): Giới thiệu công trình kiến trúc Phật giáo tiêu biểu của Lào trong văn minh Đông Nam Á.
+  - Lịch sử và Địa lí lớp 7, Bài 7 (Mở đầu và Mục 3): Thành tựu kiến trúc Phật giáo tiêu biểu thể hiện bản sắc văn hoá riêng của Vương quốc Lào thời phong kiến.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.c), tr. 89; SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.c), tr. 89, 90; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B7, tr. 39; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 3), tr. 41
 
 ### pharaoh
 - **Tiếng Việt:** Pha-ra-ông
@@ -3347,6 +4221,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Khi chỉ riêng hệ thống chữ cổ của Ai Cập dùng hieroglyphics; khi chỉ chung loại hình chữ vẽ hình sự vật ở phương Đông cổ đại còn dùng pictographic script.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 37; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 3), tr. 32; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 3), tr. 32, 33; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190
 
+### plantation
+- **Tiếng Việt:** Đồn điền
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A large tract of land held by landlords or capitalists for large-scale commercial agricultural production based on exploiting hired laborers or enslaved workers. In Eastern feudal states, the term also denoted wasteland reclaimed and directly administered by the state using soldiers, prisoners of war, or poor peasants.
+- **Giải thích (VI):** Khu vực đất đai rộng lớn do địa chủ hoặc nhà tư bản chiếm giữ để tổ chức kinh doanh sản xuất nông nghiệp quy mô lớn dựa trên việc bóc lột sức lao động của người làm thuê hoặc nô lệ. Dưới thời phong kiến phương Đông, thuật ngữ này còn chỉ vùng đất hoang do nhà nước trực tiếp tổ chức cho quân lính, tù binh hoặc dân nghèo khai khẩn và quản lí.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: Wasteland reclaimed through state-organized settlement in the feudal period—typically employing soldiers, prisoners of war, or poor peasants—and directly managed by the state to expand cultivated acreage. By extension, the term also denotes large estates appropriated by landlords or capitalists for commercial production using hired labor. / VI: Khu đất hoang được nhà nước phong kiến đứng ra tổ chức khai khẩn (thường sử dụng lực lượng quân lính, tù binh hoặc dân nghèo) và trực tiếp quản lí để mở rộng diện tích canh tác. Ngoài ra, thuật ngữ này còn chỉ vùng đất rộng lớn do địa chủ hoặc tư bản chiếm giữ để kinh doanh sản xuất dựa trên sức lao động làm thuê.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2.a–b) và Bài 3 (Mục 1): Một trong những hình thức kinh doanh tư bản chủ nghĩa quy mô lớn xuất hiện ở Tây Âu và các thuộc địa.
+  - Lịch sử và Địa lí lớp 7, Bài 17 (Mục 2.a): Hình thức nhà nước phong kiến tổ chức khẩn hoang lập khu sản xuất nông nghiệp thời Lê sơ.
+  - *Lưu ý:* Trong lịch sử trung đại Việt Nam (thời Lê sơ), 'đồn điền' chỉ khu ruộng đất do nhà nước tổ chức khai hoang, khác với đồn điền tư bản thời cận – hiện đại.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.a), tr. 16; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 2.a), tr. 85
+
 ### political, defense, and security achievements of Doi Moi
 - **Tiếng Việt:** Thành tựu đổi mới về chính trị, an ninh – quốc phòng
 - **Chuyên ngành gốc:** Lịch sử
@@ -3394,6 +4280,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hệ thống văn hoá khảo cổ bản địa ra đời trước và tạo tiền đề trực tiếp cho sự hình thành, phát triển rực rỡ của văn hoá Đông Sơn cũng như nền văn minh Văn Lang – Âu Lạc.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 11 (Mục 1.a): Minh chứng nguồn gốc bản địa và quá trình phát triển liên tục dẫn tới văn hoá Đông Sơn.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 144
+
+### pre-emptive attack for self-defense strategy
+- **Tiếng Việt:** Chủ trương “tiến công trước để tự vệ”
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The proactive military strategy formulated by Ly Thuong Kiet on the principle that 'sitting still waiting for the enemy is inferior to striking first to blunt their momentum' during the resistance war against the Song. In October 1075, he led over 100,000 naval and land troops into Song territory, captured Yongzhou Citadel after 42 days of fighting, destroyed enemy supply depots, and swiftly withdrew to prepare defensive lines.
+- **Giải thích (VI):** Kế sách quân sự chủ động của Lý Thường Kiệt xuất phát từ tư tưởng 'Ngồi yên đợi giặc không bằng đem quân đánh trước để chặn thế mạnh của giặc' trong cuộc kháng chiến chống Tống. Tháng 10 năm 1075, ông chỉ huy hơn 10 vạn quân thuỷ, bộ tiến sang đất Tống hạ thành Ung Châu sau 42 ngày chiến đấu, tiêu huỷ kho lương dự trữ của giặc rồi nhanh chóng rút quân về nước lập phòng tuyến.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 12 (Mục 1): Kế sách quân sự chủ động, độc đáo trong giai đoạn thứ nhất cuộc kháng chiến chống Tống năm 1075.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B12 (Mục 1), tr. 59
 
 ### Pre-Oc Eo culture
 - **Tiếng Việt:** Văn hoá tiền Óc Eo
@@ -3453,6 +4347,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 16 (Mục 1): Đường lối cứu nước do Nguyễn Ái Quốc tìm ra năm 1920, bước đầu giải quyết cuộc khủng hoảng về đường lối của phong trào giải phóng dân tộc Việt Nam.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 1), tr. 95; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 1), tr. 95, 96; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 1), tr. 96
 
+### proletariat
+- **Tiếng Việt:** Giai cấp vô sản
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A social class composed of propertyless workers who own no means of production and must sell their labor power to capitalists for wages. During its early formation in Western Europe, this class aligned with the bourgeoisie in revolutionary struggles against the outdated feudal order.
+- **Giải thích (VI):** Giai cấp xã hội gồm những người lao động không có tư liệu sản xuất, buộc phải bán sức lao động làm thuê cho chủ tư bản để nhận tiền lương. Trong giai đoạn đầu hình thành ở Tây Âu, giai cấp này đi theo giai cấp tư sản tham gia đấu tranh chống lại chế độ phong kiến lỗi thời.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2.b): Giai cấp lao động làm thuê hình thành song hành với giai cấp tư sản khi chủ nghĩa tư bản nảy sinh ở Tây Âu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.a), tr. 17; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.b), tr. 17
+
+### property ownership
+- **Tiếng Việt:** Sở hữu (quyền sở hữu)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The right to directly use, sell, gift, or transfer a specific asset or means of production to another party, most notably land ownership in feudal society.
+- **Giải thích (VI):** Quyền được trực tiếp sử dụng, mua bán hoặc trao tặng, chuyển nhượng một tài sản hay tư liệu sản xuất nhất định cho người khác, tiêu biểu là quyền sở hữu ruộng đất trong xã hội phong kiến.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 3.b), Bài 15 (Mục 2.a): Khái niệm gắn với chế độ chiếm hữu ruộng đất và gia nô thời Trần – Hồ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1), tr. 62; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176
+
 ### protectorate
 - **Tiếng Việt:** Bảo hộ
 - **Chuyên ngành gốc:** Lịch sử
@@ -3470,6 +4380,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tên đơn vị hành chính cai trị do triều đại nhà Đường đặt ra để chỉ và quản lí lãnh thổ nước ta trong thời kì Bắc thuộc, với trị sở từ thế kỉ IX chuyển về Tống Bình – Đại La.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 1.a): tên gọi bộ máy hành chính đô hộ của nhà Đường đối với nước ta.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1.a), tr. 65; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190, 191
+
+### Protestant Reformation
+- **Tiếng Việt:** Phong trào Cải cách tôn giáo (Cải cách tôn giáo)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A sixteenth-century Western European religious and ideological movement initiated in Germany and Switzerland by Martin Luther and John Calvin that condemned papal abuses and false church doctrines, demanded the abolition of costly rituals, and supported bourgeois wealth accumulation. It represented an open ideological struggle by the bourgeoisie against declining feudalism and split Western Christianity into Catholicism and Protestantism.
+- **Giải thích (VI):** Phong trào đấu tranh tôn giáo – tư tưởng bùng nổ ở Tây Âu đầu thế kỉ XVI (khởi đầu tại Đức và Thuỵ Sĩ với Mác-tin Lu-thơ, Giăng Can-vanh), lên án sự lạm quyền của Giáo hoàng, chỉ trích giáo lí giả dối, đòi bãi bỏ lễ nghi phiền toái và ủng hộ hoạt động làm giàu của giai cấp tư sản. Phong trào này là cuộc đấu tranh công khai của giai cấp tư sản chống chế độ phong kiến suy tàn và dẫn đến sự phân hoá Thiên Chúa giáo thành Cựu giáo và Tân giáo.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 3 (Mục 3): Nguyên nhân, nội dung cải cách của Mác-tin Lu-thơ, Giăng Can-vanh và tác động xã hội tại Tây Âu thế kỉ XVI.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2.b), tr. 21; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3.a), tr. 21; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3.b), tr. 21
 
 ### Provisional Revolutionary Government of the Republic of South Vietnam
 - **Tiếng Việt:** Chính phủ cách mạng lâm thời Cộng hoà miền Nam Việt Nam
@@ -3618,6 +4536,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong lịch sử thời Bắc thuộc, Thứ sử là quan đứng đầu một châu, cấp trên của Thái thú (cai quản quận) và Huyện lệnh (cai quản huyện).
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1.a), tr. 66; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1.b), tr. 67
 
+### regional separatism
+- **Tiếng Việt:** Cát cứ
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A state in which local forces divide and occupy territory to establish their own separate rule, refusing to submit to the central government.
+- **Giải thích (VI):** Tình trạng các thế lực địa phương chia cắt lãnh thổ để chiếm giữ và lập chính quyền riêng, không phục tùng chính quyền trung ương.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2): Giải thích tình trạng chia cắt đất nước của các thế lực địa phương cuối thời Ngô.
+  - Lịch sử và Địa lí lớp 7, Bài 17 (Mục 1): Nguy cơ phân tán quyền lực địa phương bị nhà nước quân chủ tập quyền thời Lê sơ kiên quyết xoá bỏ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176
+
 ### relationship of historiography with social sciences and humanities
 - **Tiếng Việt:** Mối liên hệ của Sử học với các ngành khoa học xã hội và nhân văn
 - **Chuyên ngành gốc:** Lịch sử
@@ -3644,13 +4572,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với tín ngưỡng (folk belief) – niềm tin gắn với phong tục, tập quán truyền thống nhưng không có hệ thống giáo lí, giáo luật và tổ chức giáo hội.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 144; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 3.a), tr. 132
 
+### religious doctrine
+- **Tiếng Việt:** Giáo lí
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The system of theories, teachings, beliefs, and normative regulations of a religion.
+- **Giải thích (VI):** Hệ thống các lí luận, học thuyết, quan niệm và quy định chuẩn mực của một tôn giáo.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 3 (Mục 1, 3.b) và Bài 4 (Mục 4.a): Dùng khi nói về các quy định, học thuyết của Giáo hội Thiên Chúa giáo bị phê phán trong Cải cách tôn giáo ở Tây Âu hoặc lời giảng của Đức Phật trong Kinh Kim Cương ở Trung Quốc.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 1), tr. 19; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 4.a), tr. 27
+
 ### Renaissance
-- **Tiếng Việt:** Phong trào Văn hoá Phục hưng
+- **Tiếng Việt:** Phong trào Văn hoá Phục hưng (Văn hoá Phục hưng)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A major cultural movement in Western Europe from the fifteenth to seventeenth centuries that began in Italy and spread across Europe, spearheaded by the emerging bourgeoisie through the revival of classical Greco-Roman values against feudal ideology and Church domination.
 - **Giải thích (VI):** Trào lưu văn hoá rộng lớn ở Tây Âu thế kỉ XV – XVII khởi đầu từ I-ta-li-a rồi lan ra nhiều nước châu Âu, do tầng lớp tư sản mới khởi xướng trên cơ sở khôi phục các giá trị của văn minh Hy Lạp – La Mã cổ đại nhằm chống lại hệ tư tưởng phong kiến và sự chi phối của Giáo hội.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 2.a): Bối cảnh lịch sử và bản chất của văn minh Tây Âu thời kì Phục hưng.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 2.a), tr. 54, 55
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A broad cultural and intellectual movement originating in Italy in the fourteenth century and spreading across Western Europe, exalting human worth, individual freedom, national spirit, and science and technology. It marked the bourgeoisie's first open ideological and cultural struggle against the outdated feudal system, paving the way for further European cultural development. / VI: Trào lưu văn hoá – tư tưởng rộng lớn khởi phát tại I-ta-li-a vào thế kỉ XIV rồi lan rộng khắp Tây Âu, đề cao giá trị con người, quyền tự do cá nhân, tinh thần dân tộc và khoa học – kĩ thuật. Phong trào này là cuộc đấu tranh công khai đầu tiên trên lĩnh vực văn hoá, tư tưởng của giai cấp tư sản chống lại chế độ phong kiến lỗi thời, mở đường cho văn hoá châu Âu phát triển.
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 6 (Mục 2.a): Bối cảnh lịch sử và bản chất của văn minh Tây Âu thời kì Phục hưng.
+  - Lịch sử và Địa lí lớp 7, Bài 3 (Mục 2): Trào lưu văn học, nghệ thuật và khoa học gắn với Đan-tê, M. Xéc-van-tét, W. Sếch-xpia, Lê-ô-na đơ Vanh-xi, Mi-ken-lăng-giơ, N. Cô-péc-ních, G. Bru-nô, G. Ga-li-lê.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 2.a), tr. 54, 55; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 1), tr. 19; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2), tr. 19; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2.a), tr. 19
 
 ### Renaissance art
 - **Tiếng Việt:** Nghệ thuật Phục hưng
@@ -3684,6 +4623,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 11, Bài 4 (Mục 1.b): Gắn với cuộc kháng chiến chống thực dân Pháp thắng lợi năm 1954 đưa miền Bắc Việt Nam đi lên chủ nghĩa xã hội; phân biệt với khởi nghĩa giành chính quyền.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 23
 
+### Resistance war against the Mongol army in 1258
+- **Tiếng Việt:** Cuộc kháng chiến chống quân Mông Cổ năm 1258
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The first resistance war against the Mongol Empire waged by the Tran army and people in January 1258, when 30,000 Mongol troops under Uriyangkhadai invaded Dai Viet from Yunnan. Following a delaying battle at Binh Le Nguyen (Vinh Phuc), Tran forces tactically withdrew to preserve strength, implemented a 'scorched-earth and empty-citadel' strategy in Thang Long, and launched a decisive counteroffensive at Dong Bo Dau followed by militia ambushes at Quy Hoa, achieving total victory in less than a month.
+- **Giải thích (VI):** Cuộc kháng chiến lần thứ nhất chống đế chế Mông Cổ của quân dân nhà Trần diễn ra vào tháng 1 năm 1258 khi 3 vạn quân giặc do Ngột Lương Hợp Thai chỉ huy từ Vân Nam tiến đánh Đại Việt. Sau trận cản giặc ở Bình Lệ Nguyên (Vĩnh Phúc), quân Trần tạm rút lui bảo toàn lực lượng, thực hiện kế sách 'vườn không nhà trống' tại Thăng Long rồi phản công quyết định ở Đông Bộ Đầu và truy kích tại Quy Hoá, giành thắng lợi hoàn toàn sau chưa đầy một tháng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 1): Thắng lợi mở đầu trong ba lần kháng chiến chống quân xâm lược Mông – Nguyên của quân dân nhà Trần.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14, tr. 68; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 1), tr. 68; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 1), tr. 68, 69
+
+### Resistance war against the Song army in 981
+- **Tiếng Việt:** Cuộc kháng chiến chống Tống năm 981
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The patriotic resistance war in early 981 waged by the army and people of Dai Co Viet under the direct command of King Le Hoan against the invading Song land and naval forces led by Hou Renbao. Through fierce battles at Dai La, Luc Dau River, Bach Dang, and Tay Ket, Dai Co Viet forces killed General Hou Renbao, forced the Song army to retreat, and firmly safeguarded national independence.
+- **Giải thích (VI):** Cuộc chiến tranh bảo vệ Tổ quốc đầu năm 981 của quân dân Đại Cồ Việt dưới sự chỉ huy trực tiếp của vua Lê Hoàn chống lại đạo quân xâm lược nhà Tống theo hai đường thuỷ, bộ do Hầu Nhân Bảo cầm đầu. Qua các trận đánh quyết liệt ở Đại La, Lục Đầu Giang, Bạch Đằng, Tây Kết, quân dân Đại Cồ Việt tiêu diệt tướng Hầu Nhân Bảo, buộc quân Tống rút lui và giữ vững nền độc lập dân tộc.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 1.b): Cuộc kháng chiến thắng lợi bảo vệ nền độc lập của quốc gia Đại Cồ Việt cuối thế kỉ X.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10, tr. 48; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.a), tr. 48; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1.b), tr. 48
+
 ### Restored Le period
 - **Tiếng Việt:** Lê trung hưng
 - **Chuyên ngành gốc:** Lịch sử
@@ -3693,6 +4648,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 10, Bài 12 (Mục 2 và Mục 3): Xác định phân kì giai đoạn sau của nhà Hậu Lê trong tiến trình văn minh Đại Việt.
   - *Lưu ý:* Chỉ giai đoạn sau của nhà Hậu Lê (1533 – 1789), phân biệt với giai đoạn Lê sơ (1428 – 1527).
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 2), tr. 109; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 115; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 144
+
+### Retired Emperor
+- **Tiếng Việt:** Thái Thượng hoàng
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The title held by a monarch who had abdicated the throne in favor of his son while continuing to co-manage and decide state affairs alongside the reigning king, a distinctive institutional feature of the Tran Dynasty.
+- **Giải thích (VI):** Tôn hiệu dành cho nhà vua sau khi chủ động nhường ngôi cho con nhưng vẫn tiếp tục cùng vua đang tại vị trông coi, quyết định việc triều chính (nét đặc trưng tiêu biểu của vương triều Trần).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 2): Nét đặc trưng trong tổ chức vương quyền của triều đại nhà Trần.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 63
 
 ### Revitalize China and Revive Asia Society
 - **Tiếng Việt:** Chấn Hoa Hưng Á
@@ -3798,6 +4761,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 4 (Mục 3.b): Mối quan hệ tương hỗ bền vững từ phát triển du lịch trở lại công tác bảo tồn di tích, di sản.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 02, B4 (Mục 3.b), tr. 32
 
+### Roman Catholic Church
+- **Tiếng Việt:** Giáo hội (Giáo hội Thiên Chúa; Giáo hội Thiên Chúa giáo)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The institutional religious organization of Christian clergy and believers headed by the Pope in Rome. In medieval Western Europe, this institution wielded vast political, economic, cultural, and ideological power and served as the spiritual pillar of the feudal system.
+- **Giải thích (VI):** Hệ thống tổ chức tôn giáo riêng của hàng tăng lữ và tín đồ đạo Thiên Chúa, đứng đầu là Giáo hoàng tại Rô-ma. Dưới thời trung đại ở Tây Âu, thiết chế này có thế lực rất lớn về chính trị, kinh tế, văn hoá, tư tưởng và trở thành chỗ dựa tinh thần của chế độ phong kiến.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 1 (Mục 3) và Bài 3 (Mục 2–3): Thiết chế tôn giáo chi phối đời sống tinh thần Tây Âu thời trung đại và đối tượng phê phán của phong trào Văn hoá Phục hưng, Cải cách tôn giáo.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 3), tr. 12
+
 ### Roman numerals (history)
 - **Tiếng Việt:** Chữ số La Mã
 - **Chuyên ngành gốc:** Lịch sử
@@ -3832,13 +4803,34 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.e): Chiến thắng mang ý nghĩa trinh sát chiến lược giúp Bộ Chính trị củng cố quyết tâm giải phóng hoàn toàn miền Nam.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 51; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 51, 52
 
+### royal appanage
+- **Tiếng Việt:** Thái ấp
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Tracts of land permanently granted by the monarch to nobles, princes, and high-ranking mandarins as official emoluments, becoming the private property of the recipient.
+- **Giải thích (VI):** Phần ruộng đất do nhà vua ban cấp hẳn cho quý tộc, vương hầu, quan lại có công làm bổng lộc và thuộc quyền sở hữu riêng của người thụ phong.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 2, 3.b): Chế độ ban cấp ruộng đất làm bổng lộc cho tôn thất, quý tộc, vương hầu thời Trần.
+  - *Lưu ý:* Phân biệt với điền trang là ruộng đất tư của quý tộc, vương hầu thời Trần có được do chiêu tập người khai hoang.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 63; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 3.b), tr. 65
+
+### royal clan member
+- **Tiếng Việt:** Tôn thất
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Members of the royal lineage sharing kinship with the reigning monarch in a feudal monarchy (under the Tran Dynasty, royal clan members held key central and local posts and were granted the privilege of establishing fiefs).
+- **Giải thích (VI):** Những người thuộc dòng dõi hoàng tộc cùng họ với nhà vua trong chế độ quân chủ phong kiến (dưới thời Trần, tôn thất nắm giữ nhiều chức vụ trọng yếu ở triều đình, địa phương và có đặc quyền lập thái ấp).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 2, 3.a): Những người thuộc hoàng tộc họ Trần nắm giữ các vị trí trọng yếu và lập thái ấp, điền trang.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 63; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 3.a), tr. 64
+
 ### Royal Ploughing Ceremony
-- **Tiếng Việt:** Lễ Tịch điền
+- **Tiếng Việt:** Lễ Tịch điền (Lễ cày tịch điền; cày ruộng tịch điền)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A state agricultural ritual performed by Dai Viet emperors each spring to honor and encourage farming production. According to historical records, the earliest performance of this ceremony in Vietnam was conducted by Emperor Le Hoan at Doi Mountain (Duy Tien, Ha Nam) in 987.
 - **Giải thích (VI):** Nghi lễ khuyến nông cấp nhà nước do các hoàng đế Đại Việt cử hành vào mùa xuân nhằm đề cao và khích lệ sản xuất nông nghiệp phát triển. Theo sử sách ghi chép, nghi lễ này được thực hiện sớm nhất ở Việt Nam bởi vua Lê Hoàn tại Núi Đọi (Duy Tiên, Hà Nam) vào năm 987.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 12 (Mục 3.b): Minh chứng chính sách trọng nông của các vương triều quân chủ Đại Việt.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.b), tr. 111; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.b), tr. 111, 112
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A state agricultural ceremony in feudal times in which the monarch personally offered sacrifices to Shennong (the God of Agriculture) and ploughed the first furrows in spring to set an example for the people in farming (notably Emperor Ly Thai Tong at Bo Hai Khau, Thai Binh in 1038). / VI: Nghi lễ khuyến nông cấp quốc gia dưới thời phong kiến, trong đó nhà vua đích thân tế Thần Nông và tự tay cày những đường cày đầu tiên vào mùa xuân để nêu gương cho nhân dân chăm lo sản xuất nông nghiệp (như vua Lý Thái Tông cày tịch điền ở Bố Hải Khẩu, Thái Bình năm 1038).
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 12 (Mục 3.b): Minh chứng chính sách trọng nông của các vương triều quân chủ Đại Việt.
+  - Lịch sử và Địa lí lớp 7, Bài 11 (Mục 3.a): Nghi lễ nhà vua đích thân cày ruộng đầu xuân nhằm khuyến khích nghề nông dưới thời Lý.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.b), tr. 111; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.b), tr. 111, 112; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.b), tr. 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.c), tr. 54
 
 ### rule of avoidance
 - **Tiếng Việt:** Chế độ hồi tỵ
@@ -3865,10 +4857,20 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A classical language of India recorded using scripts adapted from Kharosthi and Brahmi, which later spread to Southeast Asia and served as the basis for the writing systems of several countries in the region.
 - **Giải thích (VI):** Ngôn ngữ cổ điển của Ấn Độ được ghi âm bằng hệ thống chữ viết cải biên từ chữ Kha-rốt-thi và chữ Bra-mi, về sau truyền bá sang Đông Nam Á và trở thành cơ sở hình thành chữ viết của một số quốc gia trong khu vực.
 - **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: An ancient Indian script and language system developed around the seventh century BCE by adapting earlier scripts, serving as the foundation for many later writing systems in India and Southeast Asia. / VI: Hệ thống chữ viết cổ của người Ấn Độ ra đời vào khoảng thế kỉ VII TCN dựa trên việc cải biên các chữ viết cổ trước đó, trở thành cơ sở hình thành nhiều loại chữ viết ở Ấn Độ và Đông Nam Á sau này.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: The classical language and script of India that reached full refinement during the Gupta period, serving as the medium for literary and poetic works and forming the origin of the modern Hindi script. / VI: Hệ thống ngôn ngữ – văn tự cổ điển của Ấn Độ đạt đến trình độ hoàn chỉnh dưới thời Vương triều Gúp-ta, dùng làm phương tiện sáng tác các tác phẩm văn học, thơ ca và là nguồn gốc của chữ viết Hin-đi ngày nay.
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 5 (Mục II.2.b): Thành tựu ngôn ngữ, chữ viết của văn minh Ấn Độ và sự truyền bá văn hoá sang Đông Nam Á.
   - Lịch sử và Địa lí lớp 6, Bài 8 (Mục 3): thành tựu chữ viết tiêu biểu của văn minh Ấn Độ cổ đại có ảnh hưởng sâu rộng sang khu vực Đông Nam Á.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 41; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2), tr. 36; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 36; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 36, 37
+  - Lịch sử và Địa lí lớp 7, Bài 5 (Mục 2.b): Thành tựu chữ viết tiêu biểu của văn hoá Ấn Độ gắn với nền văn học cổ điển thời phong kiến.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 41; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2), tr. 36; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 36; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 36, 37; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.c), tr. 32; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 2.a), tr. 32; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 2.b), tr. 32
+
+### Sat That motto
+- **Tiếng Việt:** Sát Thát
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Two Chinese characters meaning 'Kill the Tatars' tattooed by Tran Dynasty soldiers onto their arms to demonstrate their fight-to-the-death resolve against the Mongol invaders. Here, 'That' (or That Dat) transliterates 'Tatar', a Turkic-Mongol tribal group that made up a large portion of the Mongol army.
+- **Giải thích (VI):** Hai chữ Hán mang nghĩa 'giết giặc Mông Cổ' được binh sĩ nhà Trần thích (xăm) lên cánh tay để biểu thị ý chí quyết tử chống giặc ngoại xâm. Trong đó, 'Thát' (hay Thát Đát) là cách phiên âm tên gọi bộ lạc Tác-ta (người Tuyếc ở Mông Cổ), thành phần chiếm số đông trong đạo quân Mông Cổ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 2): Hành động khắc chữ lên cánh tay thể hiện hào khí quyết chiến của quân đội nhà Trần.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176
 
 ### Second Industrial Revolution
 - **Tiếng Việt:** Cách mạng công nghiệp lần thứ hai
@@ -3920,6 +4922,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.b): Phương châm cốt lõi trong đường lối kháng chiến chống thực dân Pháp của Đảng.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39
 
+### serf
+- **Tiếng Việt:** Nông nô
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The main productive labor force consisting of dependent peasants in European feudal manors, whose lives were bound to land allotments received from feudal lords in exchange for heavy rents and taxes. Serfs lacked full personal freedom and could be sold, gifted, or transferred by their lord together with the land they cultivated.
+- **Giải thích (VI):** Lực lượng sản xuất chính gồm những người nông dân lệ thuộc trong lãnh địa phong kiến châu Âu, có cuộc sống gắn chặt vào ruộng đất khẩu phần nhận từ lãnh chúa và phải nộp tô cùng nhiều loại thuế nặng nề. Nông nô không có quyền tự do hoàn toàn mà có thể bị lãnh chúa đem bán, tặng hoặc chuyển nhượng kèm theo ruộng đất canh tác.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A class of dependent peasants on European feudal manors bound to the lord's land, subjected to heavy rents and taxes, and liable to be sold, gifted, or transferred along with the land they tilled; in Tran-era Dai Viet, the term also referred to dependent laborers cultivating noble estates. / VI: Tầng lớp nông dân lệ thuộc trong lãnh địa phong kiến châu Âu có cuộc sống gắn chặt vào ruộng đất, phải nộp tô thuế nặng nề và có thể bị lãnh chúa bán, tặng hoặc chuyển nhượng kèm theo ruộng đất canh tác; ở Đại Việt thời Trần, thuật ngữ này cũng dùng chỉ người lệ thuộc chuyên cày cấy trong các điền trang của quý tộc.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 1 (Mục 1–2) và Bài 2 (Mục 2.a): Giai cấp bị trị chủ yếu trong lãnh địa phong kiến Tây Âu, phân biệt với nô lệ cổ đại và công nhân làm thuê sau này.
+  - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 3.b): Tầng lớp lao động lệ thuộc cày cấy trong điền trang thời Trần và trong lãnh địa phong kiến châu Âu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1), tr. 9; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 3.b), tr. 65
+
+### serf-holding limitation policy
+- **Tiếng Việt:** Hạn nô (chính sách hạn nô)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A social reform policy enacted by Ho Quy Ly alongside landholding limitations, stipulating a fixed quota of household serfs that aristocrats and officials could own according to rank. This measure aimed to weaken the private power base of the Tran nobility, although its implementation remained incomplete in practice.
+- **Giải thích (VI):** Chính sách cải cách xã hội do Hồ Quý Ly thực hiện song hành với phép hạn điền, quy định mỗi quý tộc, quan lại chỉ được sở hữu một số lượng gia nô nhất định theo phẩm cấp. Biện pháp này nhằm làm suy yếu thế lực riêng của quý tộc nhà Trần, dù trên thực tế việc thực thi vẫn chưa triệt để.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 2.a, 2.b): Biện pháp hạn chế số lượng gia nô của tầng lớp quý tộc trong cải cách Hồ Quý Ly.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.a), tr. 75; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.b), tr. 75
+
 ### significance of learning history
 - **Tiếng Việt:** Ý nghĩa của việc học lịch sử
 - **Chuyên ngành gốc:** Lịch sử
@@ -3945,12 +4966,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 2), tr. 35, 36
 
 ### Silk Road
-- **Tiếng Việt:** Con đường tơ lụa
+- **Tiếng Việt:** Con đường tơ lụa (“con đường tơ lụa”)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A transcontinental network of trade and commercial routes linking Asia with Europe, originating in China and passing through Central, South, and West Asia to Greece and many European countries.
 - **Giải thích (VI):** Hệ thống các tuyến đường giao thương, buôn bán xuyên lục địa nối liền châu Á với châu Âu, khởi đầu từ Trung Quốc đi qua vùng Trung Á, Nam Á, Tây Á tới Hy Lạp và nhiều nước châu Âu.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.3.a): Hoạt động giao thương kinh tế và giao lưu văn hoá Đông – Tây khởi nguồn từ Trung Hoa cổ – trung đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.a), tr. 43; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A network of transcontinental trade routes linking East and West that flourished prominently from the Tang dynasty onward, with Chinese silk serving as its earliest and primary commodity. Beyond commerce, these routes functioned for centuries as a vital corridor for cultural and religious exchange across Eurasia. / VI: Hệ thống các tuyến đường giao thương liên lục địa kết nối phương Đông và phương Tây hưng thịnh từ thời Đường, trong đó tơ lụa Trung Quốc là mặt hàng trao đổi chủ đạo và đầu tiên. Tuyến giao thông này đồng thời là hành trình giao lưu văn hoá và truyền bá tôn giáo quan trọng giữa châu Á với châu Âu trong nhiều thế kỉ.
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 5 (Mục II.3.a): Hoạt động giao thương kinh tế và giao lưu văn hoá Đông – Tây khởi nguồn từ Trung Hoa cổ – trung đại.
+  - Lịch sử và Địa lí lớp 7, Bài 4 (Mục 2): Mạng lưới ngoại thương và giao lưu văn hoá quốc tế sầm uất của Trung Quốc từ thời Đường.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.a), tr. 43; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 1), tr. 25; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 25
 
 ### Sino-Tibetan language family
 - **Tiếng Việt:** Ngữ hệ Hán – Tạng
@@ -3981,8 +5005,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A subordinated social class in ancient society whose members were deprived of all means of production and treated as the private property of slave owners.
 - **Giải thích (VI):** Tầng lớp người thuộc giai cấp bị trị trong xã hội cổ đại, bị tước đoạt toàn bộ tư liệu sản xuất và trở thành tài sản riêng của chủ nô.
-- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 10 (Mục 1.a): lực lượng lao động bị mua bán phổ biến tại các trung tâm thương mại lớn như cảng Pi-rê thời Hy Lạp – La Mã cổ đại.
-- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 1.a), tr. 45; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A subjugated social class under the slaveholding system consisting of people stripped of all means of production and personal freedom. They were subjected to forced labor and could be gifted, bought, or sold by their masters. / VI: Tầng lớp bị trị dưới chế độ chiếm hữu nô lệ, gồm những người bị tước mất hết tư liệu sản xuất và mọi quyền tự do cá nhân. Họ bị cưỡng bức lao động và có thể bị chủ đem trao tặng hoặc mua bán.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 10 (Mục 1.a): lực lượng lao động bị mua bán phổ biến tại các trung tâm thương mại lớn như cảng Pi-rê thời Hy Lạp – La Mã cổ đại.
+  - Lịch sử và Địa lí lớp 7, Bài 1 (Mục 1): tầng lớp đấu tranh làm khủng hoảng đế quốc La Mã, sau khi giải phóng đã hợp với nông dân tự do mất ruộng trở thành nông nô.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 1.a), tr. 45; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1), tr. 9; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1), tr. 10; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176
 
 ### social differentiation of primitive society in the East
 - **Tiếng Việt:** Sự phân hoá xã hội nguyên thuỷ ở phương Đông
@@ -4107,6 +5134,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.a): Cơ quan lãnh đạo trực tiếp cuộc kháng chiến của nhân dân Nam Bộ ngay khi thực dân Pháp trở lại xâm lược.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 1), tr. 38; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 38; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 38, 39
 
+### Southern Vietnam from the early 10th to early 16th century
+- **Tiếng Việt:** Vùng đất Nam Bộ từ đầu thế kỉ X đến đầu thế kỉ XVI
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The historical period of Southern Vietnam (Nam Bo) following the collapse of Funan, during which the region nominally belonged to Chenla while the Angkor court exercised virtually no direct administration over its sparsely populated land. Local inhabitants settled in villages on western elevated terrain to practice wet-rice farming, animal husbandry, fishing, handicrafts, and petty trade, alongside the arrival of early Viet migrant groups reclaiming land at Mo Xoai (Ba Ria–Vung Tau) and Dong Nai.
+- **Giải thích (VI):** Giai đoạn lịch sử vùng đất Nam Bộ sau khi Vương quốc Phù Nam sụp đổ, tuy trên danh nghĩa thuộc Chân Lạp nhưng thực tế triều đình Ăng-co hầu như không quản lí trực tiếp và dân cư còn rất thưa vắng. Cư dân bản địa tụ cư thành xóm làng ở vùng đất cao phía tây để trồng lúa nước, chăn nuôi, đánh bắt thuỷ hải sản, làm nghề thủ công và buôn bán nhỏ, đồng thời bắt đầu xuất hiện các nhóm lưu dân người Việt vào khẩn hoang lập làng tại Mô Xoài (Bà Rịa – Vũng Tàu), Đồng Nai.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 2.a, 2.b): Tình hình chính trị, kinh tế và cư dân vùng đất Nam Bộ trước khi sáp nhập vào lãnh thổ Đại Việt.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.a), tr. 93, 94; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.b), tr. 94
+
 ### Southwestern border defense struggle of Vietnam
 - **Tiếng Việt:** Cuộc chiến đấu bảo vệ Tổ quốc ở vùng biên giới Tây Nam
 - **Chuyên ngành gốc:** Lịch sử
@@ -4174,6 +5209,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 12 (Mục 1, 2): vương quốc phong kiến hải đảo tiêu biểu ở Đông Nam Á giai đoạn thế kỉ VII – X.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 1.b), tr. 79; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 1.b), tr. 79, 80; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 04, B12, tr. 54; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 1), tr. 54; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 2), tr. 54; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 2), tr. 55
 
+### Srivijaya Kingdom
+- **Tiếng Việt:** Vương quốc Sri Vi-giay-a (Sri Vi-giay-a)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A powerful feudal kingdom centered on the island of Sumatra (in present-day Indonesia) that flourished in maritime Southeast Asia from the late tenth to the thirteenth century.
+- **Giải thích (VI):** Quốc gia phong kiến hùng mạnh toạ lạc trên đảo Xu-ma-tra (thuộc In-đô-nê-xi-a ngày nay), phát triển thịnh đạt ở khu vực Đông Nam Á hải đảo trong giai đoạn từ nửa sau thế kỉ X đến thế kỉ XIII.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1): Quốc gia phong kiến tiêu biểu ở Đông Nam Á hải đảo trước khi Vương triều Mô-giô-pa-hít thống nhất vùng đảo.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6, tr. 35; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 35; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 35, 36
+
 ### stage of important transformations of Southeast Asian civilization
 - **Tiếng Việt:** Giai đoạn chuyển biến quan trọng
 - **Chuyên ngành gốc:** Lịch sử
@@ -4210,6 +5253,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 10, Bài 11 (Mục 1.b): Nêu sự phát triển tiếp nối về tổ chức nhà nước của người Việt cổ sau thời Văn Lang.
   - Lịch sử và Địa lí lớp 6, Bài 14 (Mục 2): bước phát triển tiếp nối Nhà nước Văn Lang trong thời kì dựng nước đầu tiên.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.b), tr. 95; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.b), tr. 95, 96; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 1), tr. 61; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 61; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 61, 62
+
+### State of Dai Ngu
+- **Tiếng Việt:** Nước Đại Ngu (nhà Hồ)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The official national name of Vietnam under the Ho Dynasty (1400–1407), meaning 'Great Peace and Joy', proclaimed in 1400 after Ho Quy Ly forced the last Tran king to abdicate and established the capital in Thanh Hoa. This state lasted for seven years through the reigns of two monarchs, Ho Quy Ly (1400) and Ho Han Thuong (1400–1407).
+- **Giải thích (VI):** Quốc hiệu của Việt Nam dưới triều đại nhà Hồ (1400 – 1407), mang ý nghĩa là 'niềm vui lớn', được đặt năm 1400 sau khi Hồ Quý Ly buộc vua Trần nhường ngôi và đóng đô ở Thanh Hoá. Nhà nước này tồn tại trong 7 năm trải qua hai đời vua là Hồ Quý Ly (1400) và Hồ Hán Thương (1400 – 1407).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 1): Sự thành lập vương triều Hồ và quốc hiệu nước ta đầu thế kỉ XV.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15, tr. 74; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1), tr. 74, 75
 
 ### State of Van Lang
 - **Tiếng Việt:** Nhà nước Văn Lang
@@ -4294,6 +5345,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.b, 2.e): Khái niệm chỉ phương châm, kế hoạch toàn cục của Đảng đối với cách mạng hai miền Nam – Bắc.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 48
 
+### Su quan warlord
+- **Tiếng Việt:** Sứ quân
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A historical designation used by later generations to refer to powerful figures, generals, or nobles who rose up to occupy and rule separate localities during the turbulent late Ngo period in Vietnam.
+- **Giải thích (VI):** Danh xưng do người đời sau dùng để chỉ các nhân vật, tướng lĩnh hoặc quý tộc có thế lực nổi dậy chiếm giữ, cát cứ một địa phương trong thời kì loạn lạc cuối thời Ngô ở Việt Nam.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2): Chỉ 12 thế lực cát cứ địa phương bị Đinh Bộ Lĩnh dẹp yên để thống nhất đất nước.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B9 (Mục 2), tr. 46; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 04, B9 (Mục 2), tr. 47
+
+### Sukhothai and Ayutthaya Kingdoms
+- **Tiếng Việt:** Vương quốc Su-khô-thay và A-út-thay-a (Su-khô-thay; A-út-thay-a)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Two feudal kingdoms founded by the Thai people from the thirteenth century onward in the Chao Phraya River basin. Ayutthaya subsequently conquered Sukhothai to establish a unified kingdom, the predecessor of modern Thailand.
+- **Giải thích (VI):** Hai vương quốc phong kiến do người Thái thành lập từ thế kỉ XIII tại lưu vực sông Chao Phray-a. Về sau, A-út-thay-a chinh phục Su-khô-thay để thiết lập nên vương quốc thống nhất, tiền thân của quốc gia Thái Lan ngày nay.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1 và 2.a): Sự ra đời các quốc gia phong kiến mới của người Thái ở Đông Nam Á từ thế kỉ XIII gắn với trung tâm Phật giáo tiểu thừa Su-khô-thay.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 36; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 36, 37; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 2.a), tr. 37
+
 ### surprise attack
 - **Tiếng Việt:** Tập kích
 - **Chuyên ngành gốc:** Lịch sử
@@ -4334,6 +5401,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 4 (Mục 1.b): Phân loại nhóm di sản hữu hình cần được bảo vệ, tu bổ trước tác động của tự nhiên và con người.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử 10 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 28
 
+### Tao Dan Literary Society
+- **Tiếng Việt:** Hội Tao đàn (Nhị thập bát tú)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A court literary society of 28 eminent scholars ('Twenty-Eight Mansions') founded and headed by Emperor Le Thanh Tong, with Than Nhan Trung and Do Nhuan serving as deputy leaders. Its establishment and representative works such as 'Nine Songs of the Jasper Garden' marked a high pinnacle of Dai Viet literature during the Early Le era.
+- **Giải thích (VI):** Hội thơ văn cung đình gồm 28 danh sĩ ('Nhị thập bát tú') do vua Lê Thánh Tông sáng lập và làm chủ soái, cùng hai phó soái là Thân Nhân Trung và Đỗ Nhuận. Sự ra đời của hội với các tác phẩm tiêu biểu như 'Quỳnh Uyển cửu ca' đánh dấu bước phát triển rực rỡ của nền văn chương Đại Việt thời Lê sơ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 3, 4.b): Tổ chức sáng tác văn học cung đình tiêu biểu dưới triều vua Lê Thánh Tông.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 3), tr. 86; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.b), tr. 88
+
 ### tasks of historiography
 - **Tiếng Việt:** Nhiệm vụ của Sử học
 - **Chuyên ngành gốc:** Lịch sử
@@ -4349,6 +5424,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phong tục truyền thống có từ thời dựng nước của người Việt cổ gắn với môi trường sống sông nước và niềm tin rằng việc xăm hình lên cơ thể giúp tránh bị thuỷ quái làm hại, tồn tại kéo dài đến đời vua Trần Anh Tông mới bãi bỏ.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 17 (Mục 1): Phong tục tập quán tiêu biểu từ thời dựng nước được người Việt lưu truyền qua thời kì Bắc thuộc.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B17, tr. 78; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B17 (Mục 1), tr. 78
+
+### Tay Do Citadel
+- **Tiếng Việt:** Thành Tây Đô
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A stone capital citadel constructed in three months by Ho Quy Ly in Thanh Hoa in 1397 for relocating the royal court from Thang Long, later serving as the political center of Dai Ngu under the Ho Dynasty. It stands as the largest stone citadel in Vietnam and Southeast Asia and was inscribed by UNESCO as a World Cultural Heritage site in 2011.
+- **Giải thích (VI):** Kinh đô bằng đá do Hồ Quý Ly cho xây dựng trong ba tháng tại Thanh Hoá vào năm 1397 để dời đô từ Thăng Long về đây và trở thành trung tâm chính trị của nước Đại Ngu thời Hồ. Đây là toà thành đá lớn nhất ở Việt Nam và Đông Nam Á, được UNESCO công nhận là Di sản Văn hoá thế giới năm 2011.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 1, 2.a): Kinh đô và công trình kiến trúc quân sự bằng đá tiêu biểu dưới triều Hồ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15, tr. 74; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1), tr. 74, 75
+
+### Temple of Literature – Imperial Academy
+- **Tiếng Việt:** Văn Miếu – Quốc Tử Giám (Quốc Tử Giám)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The premier Confucian ceremonial and educational complex of Dai Viet in Thang Long, originating with the Temple of Literature built in 1070 and the Imperial Academy founded in 1076. Initially reserved for royal offspring, the Imperial Academy later admitted children of mandarins and talented scholars nationwide.
+- **Giải thích (VI):** Quần thể trung tâm thờ tự và giáo dục Nho học cao nhất đầu tiên của Đại Việt tại Thăng Long, khởi đầu với Văn Miếu dựng năm 1070 và trường Quốc Tử Giám thành lập năm 1076. Quốc Tử Giám ban đầu là nơi học tập của con em quý tộc, sau mở rộng cho con quan lại và những người học giỏi trong cả nước.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 4.c): Trung tâm giáo dục Nho học cao nhất đầu tiên của quốc gia Đại Việt.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 4.c), tr. 57
 
 ### temple-mountain architecture
 - **Tiếng Việt:** Kiến trúc đền – núi
@@ -4374,6 +5465,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 13 (Mục 2a): Phương thức canh tác lúa nước sáng tạo trên sườn đồi, sườn núi của các dân tộc thiểu số.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 2.a), tr. 126; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 2.a), tr. 126, 127; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 2.a), tr. 127
 
+### Thai hoc sinh imperial examination
+- **Tiếng Việt:** Thái học sinh (Tam khôi)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The highest-level Confucian metropolitan examination instituted under the Tran Dynasty to recruit talented officials, first held in 1232 and regularized every seven years, in which the top three laureates held the collective title Tam Khoi (comprising First Laureate, Second Laureate, and Third Laureate).
+- **Giải thích (VI):** Kì thi Nho học đại khoa cấp cao nhất dưới thời Trần nhằm tuyển chọn nhân tài cho đất nước, tổ chức lần đầu vào năm 1232 và định lệ 7 năm mở một khoa, trong đó ba người đỗ đầu mang danh hiệu Tam khôi (gồm Trạng nguyên, Bảng nhãn, Thám hoa).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 4.b): Khoa thi Nho học cấp cao tuyển chọn nhân tài dưới vương triều Trần.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.a), tr. 66; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.b), tr. 66; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.c), tr. 66
+
+### Than Co cannon
+- **Tiếng Việt:** Súng thần cơ
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A new type of firearm invented by Ho Nguyen Trung under the Ho Dynasty to strengthen the combat power of Dai Ngu's military. Produced in multiple calibers, its heavy variant required horse-drawn carriages and a crew to fire, while its light variant could be held and fired by a single soldier.
+- **Giải thích (VI):** Loại vũ khí hoả lực mới do Hồ Nguyên Trừng sáng chế dưới triều Hồ nhằm tăng cường sức mạnh chiến đấu cho quân đội Đại Ngu. Vũ khí này gồm nhiều cỡ khác nhau, trong đó loại lớn phải kéo bằng xe ngựa với nhiều người vận hành và loại nhỏ gọn cho phép một người cầm bắn.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 2.a): Thành tựu chế tạo vũ khí hoả lực nổi bật trong cải cách quân sự của nhà Hồ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.a), tr. 75
+
+### Thang Long Imperial Citadel
+- **Tiếng Việt:** Kinh thành Thăng Long
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The capital of Dai Viet from 1010 (built on the former Dai La Citadel, its name meaning 'Ascending Dragon'), structured with three concentric walls comprising the Forbidden Citadel, the Imperial Citadel, and the Outer La Wall. The heavily guarded central core housed royal palaces and court offices, while the outer area served as the residential and commercial quarters of the populace.
+- **Giải thích (VI):** Kinh đô của quốc gia Đại Việt từ năm 1010 (xây dựng trên nền thành Đại La cũ, tên gọi mang nghĩa 'Rồng bay lên'), có cấu trúc ba vòng thành gồm Cấm thành, Hoàng thành và La thành. Khu vực trung tâm được bảo vệ nghiêm ngặt với nhiều cung điện làm nơi ở của hoàng gia và nơi làm việc của triều đình, còn bên ngoài là khu vực sinh sống, buôn bán của dân chúng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 1): Trung tâm chính trị, kinh tế, văn hoá của quốc gia Đại Việt từ năm 1010.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 1), tr. 53
+
 ### theology
 - **Tiếng Việt:** Thần học
 - **Chuyên ngành gốc:** Lịch sử
@@ -4381,6 +5496,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hệ thống các quan điểm tôn giáo nhằm chứng minh sự tồn tại của Thượng đế, tính chân lí của giáo điều và nghiên cứu các chuẩn mực đạo đức, quy tắc sinh hoạt của giáo dân cùng giới tu hành; các hệ thống thần học đều chưa được khoa học chứng minh.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 2.b): Hệ tư tưởng giáo điều bị các thành tựu khoa học thời Phục hưng từng bước đẩy lùi.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 2.b), tr. 56; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 144
+
+### Theravada Buddhism
+- **Tiếng Việt:** Phật giáo tiểu thừa
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A major branch of Buddhism widely propagated and practiced across mainland Southeast Asia from the thirteenth century onward, notably in Lan Xang, Cambodia, and the Thai and Burmese kingdoms. Its flourishing was closely tied to networks of temples that served both as places of worship and as community cultural centers.
+- **Giải thích (VI):** Nhánh Phật giáo được truyền bá và phổ biến rộng rãi tại khu vực Đông Nam Á lục địa từ thế kỉ XIII như ở Lan Xang, Cam-pu-chia cùng các vương quốc của người Thái và người Miến Điện. Sự hưng thịnh của dòng Phật giáo này gắn liền với hệ thống chùa chiền vừa là nơi thờ phụng vừa đóng vai trò trung tâm văn hoá cộng đồng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 6 (Mục 2.a): Biến chuyển nổi bật về tôn giáo – tín ngưỡng của các vương quốc Đông Nam Á từ thế kỉ XIII đến nửa đầu thế kỉ XVI.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 37; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 2.a), tr. 37; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 2.b), tr. 37, 38
 
 ### Third Industrial Revolution
 - **Tiếng Việt:** Cách mạng công nghiệp lần thứ ba (Cách mạng kĩ thuật số)
@@ -4398,6 +5521,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.b): Sự kiện hoạch định đường lối chiến lược cách mạng hai miền Nam – Bắc của Đảng.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47, 48
 
+### Thong Bao Hoi Sao paper currency
+- **Tiếng Việt:** Tiền giấy Thông bảo hội sao (Thông bảo hội sao)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A paper currency issued by Ho Quy Ly as part of his economic and fiscal reforms in the late 14th and early 15th centuries, accompanied by tax system revisions and the nationwide standardization of weights and measures.
+- **Giải thích (VI):** Loại tiền giấy do Hồ Quý Ly cho phát hành trong cuộc cải cách kinh tế – tài chính cuối thế kỉ XIV – đầu thế kỉ XV, gắn liền với các biện pháp sửa đổi chế độ thuế khoá và thống nhất đơn vị đo lường trên cả nước.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 2.a): Chính sách phát hành tiền giấy trong cải cách kinh tế của Hồ Quý Ly.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.a), tr. 75; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.b), tr. 75
+
 ### Three Kingdoms
 - **Tiếng Việt:** Tam quốc
 - **Chuyên ngành gốc:** Lịch sử
@@ -4413,6 +5544,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hệ thống ba chương trình sản xuất trọng điểm gồm Lương thực – Thực phẩm, Hàng tiêu dùng và Hàng xuất khẩu được xây dựng và tổ chức thực hiện trong giai đoạn khởi đầu Đổi mới (1986 – 1995) nhằm ổn định đời sống kinh tế – xã hội và đưa đất nước thoát khỏi khủng hoảng.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 10 (Mục 1): Xác định trọng tâm sản xuất kinh tế giai đoạn 1986 – 1995 nhằm giải quyết nhu cầu cấp thiết và đưa đất nước ra khỏi khủng hoảng.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 1), tr. 62
+
+### Thua Tuyen circuit-province
+- **Tiếng Việt:** Đạo (Thừa tuyên)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The highest-level local administrative unit in the Early Le state apparatus, ranking above prefectures, districts (or mountain districts), and communes (or upland hamlets), jointly governed by the Military, Civil, and Judicial Commissions. Under Emperor Le Thanh Tong, Dai Viet was divided into 13 circuit-provinces (dao thua tuyen).
+- **Giải thích (VI):** Đơn vị hành chính địa phương cấp cao nhất trong bộ máy nhà nước thời Lê sơ, đứng trên phủ, huyện (hoặc châu) và xã (hoặc sách, động), do ba cơ quan Đô ti, Thừa ti và Hiến ti cùng quản lí. Dưới thời vua Lê Thánh Tông, cả nước Đại Việt được chia thành 13 đạo thừa tuyên.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 1): Tổ chức hành chính cấp địa phương trong bộ máy nhà nước quân chủ tập quyền thời Lê sơ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 83, 84
 
 ### Thua Tuyen provincial circuit
 - **Tiếng Việt:** Đạo thừa tuyên
@@ -4445,6 +5584,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Những cơ sở do các nước thực dân như Anh, Pháp, Bồ Đào Nha, Hà Lan thiết lập tại một số nước châu Á, châu Phi với chức năng ban đầu là buôn bán, sau đó dần biến thành căn cứ để xâm lược nước đó làm thuộc địa.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 5 (Mục 1.a): Cơ sở giao thương kết hợp truyền giáo giúp các nước châu Âu từng bước chuẩn bị xâm lược Đông Nam Á từ thế kỉ XVI.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 93; SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.a), tr. 30
+
+### Tran Quoc Tuan
+- **Tiếng Việt:** Trần Quốc Tuấn (Quốc công tiết chế Trần Hưng Đạo)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A preeminent general of the Tran Dynasty appointed as Grand Commander-in-Chief of Dai Viet's armed forces during the two resistance wars against the Yuan Empire (1285 and 1287–1288). He authored the 'Proclamation to the Officers' to rally fighting morale and directly commanded the decisive ambush victory on the Bach Dang River in 1288.
+- **Giải thích (VI):** Danh tướng kiệt xuất thời Trần được cử làm Quốc công tiết chế, giữ trọng trách tổng chỉ huy các lực lượng vũ trang Đại Việt trong hai cuộc kháng chiến chống quân Nguyên (1285 và 1287 – 1288). Ông là tác giả bài 'Hịch tướng sĩ' khích lệ tinh thần quân dân và người trực tiếp chỉ huy trận mai phục đại thắng trên sông Bạch Đằng năm 1288.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 2, 3, 4): Vị tổng chỉ huy quân sự lãnh đạo quân dân Đại Việt đánh bại các cuộc xâm lược của quân Nguyên.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69, 70; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 3), tr. 72
 
 ### Treaty of Amity and Cooperation in Southeast Asia
 - **Tiếng Việt:** Hiệp ước Ba-li (Hiệp ước Thân thiện và Hợp tác ở Đông Nam Á; TAC)
@@ -4487,6 +5634,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại hình cổng kiến trúc đồ sộ ra đời từ thời La Mã cổ đại, thường dựng tại các quảng trường để chào đón đoàn quân chiến thắng trở về. Công trình thường gồm một hoặc ba vòm nâng bởi hàng cột và xà lớn, trang trí bằng phù điêu, tượng tròn hoặc tượng xe tứ mã.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 1.b): Loại hình kiến trúc biểu trưng của văn minh La Mã cổ đại (như Khải hoàn môn Công-xtan-ti-nút).
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 51; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144
+
+### Truc Lam Yen Tu Zen sect
+- **Tiếng Việt:** Thiền phái Trúc Lâm Yên Tử (Trúc Lâm Tam Tổ)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An indigenous Vietnamese Zen Buddhist school founded during the Tran Dynasty at Mount Yen Tu by Retired Emperor Tran Nhan Tong as its First Patriarch, whose work was carried on by Zen Masters Phap Loa and Huyen Quang, together revered as the Three Patriarchs of Truc Lam.
+- **Giải thích (VI):** Dòng Thiền Phật giáo mang bản sắc dân tộc Đại Việt ra đời dưới thời Trần do Thượng hoàng Trần Nhân Tông sáng lập tại núi Yên Tử (vị tổ thứ nhất), sau đó hai thiền sư Pháp Loa và Huyền Quang kế tục sự nghiệp, hợp thành Trúc Lâm Tam Tổ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 4.a): Dòng Thiền Phật giáo mang đậm bản sắc văn hoá dân tộc Đại Việt thời Trần.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 3.a), tr. 65; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 3.b), tr. 65; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.a), tr. 65
 
 ### Truc Lam Zen sect
 - **Tiếng Việt:** Thiền phái Trúc Lâm
@@ -4575,6 +5730,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đợt tác chiến mở đầu toàn quốc kháng chiến diễn ra từ ngày 19 – 12 – 1946 đến ngày 17 – 2 – 1947 tại Hà Nội, Nam Định, Vinh và các đô thị phía Bắc vĩ tuyến 16 nhằm giam chân quân Pháp trước khi lực lượng chủ lực chủ động rút lui an toàn ra căn cứ kháng chiến. Thắng lợi này làm thất bại một bước kế hoạch “đánh nhanh, thắng nhanh” của thực dân Pháp và tạo thêm thời gian di chuyển cơ quan kháng chiến, cơ sở vật chất lên chiến khu.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.b): Diễn biến, kết quả và ý nghĩa mở đầu toàn quốc kháng chiến tại các đô thị phía Bắc vĩ tuyến 16.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39, 40
+
+### Van Don seaport
+- **Tiếng Việt:** Cảng biển Vân Đồn (thương cảng Vân Đồn)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A major maritime commercial port located in present-day Quang Ninh province that developed into a bustling center for foreign trade of Dai Viet during the Ly and Tran dynasties.
+- **Giải thích (VI):** Thương cảng biển quan trọng thuộc vùng biển Quảng Ninh ngày nay, hình thành và trở thành trung tâm giao thương buôn bán với nước ngoài rất sầm uất của Đại Việt dưới thời Lý – Trần.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 3.a) và Bài 13 (Mục 3.a): Trung tâm ngoại thương đường biển quan trọng của Đại Việt thời Lý – Trần.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 3.a), tr. 55; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 3.b), tr. 55
 
 ### Van Don trading port
 - **Tiếng Việt:** Trang Vân Đồn
@@ -4767,6 +5930,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 13 (Mục 1): Trình bày sự hình thành khối đoàn kết liên minh ba nước Đông Dương trong kháng chiến chống Pháp.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 1), tr. 78, 79
 
+### Vijaya Capital
+- **Tiếng Việt:** Kinh đô Vi-giay-a (Đồ Bàn; Chà Bàn)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The political capital of the Kingdom of Champa under the Vijaya Dynasty from 988 to 1471, also known in Vietnamese historical records as Do Ban or Cha Ban Citadel, located in present-day An Nhon, Binh Dinh Province.
+- **Giải thích (VI):** Trung tâm chính trị của Vương quốc Chăm-pa dưới thời Vương triều Vi-giay-a từ năm 988 đến năm 1471, trong sử sách Việt Nam còn có tên là thành Đồ Bàn hay Chà Bàn, nay thuộc thị xã An Nhơn, tỉnh Bình Định.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 18 (Mục 1.a): Kinh đô của Vương quốc Chăm-pa từ cuối thế kỉ X đến năm 1471.
+  - *Lưu ý:* Chỉ toà thành kinh đô ở An Nhơn (Bình Định), phân biệt với Vương triều Vi-giay-a.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.a), tr. 90, 91
+
+### Vijaya Dynasty
+- **Tiếng Việt:** Vương triều Vi-giay-a
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A ruling dynasty of the Kingdom of Champa founded by a Cham nobleman in 988 alongside the relocation of the royal capital to Vijaya (present-day Binh Dinh). Reaching its height between 1220 and 1353 after throwing off Chenla domination, consolidating royal authority, and unifying its territory, the dynasty later fell into crisis and collapsed in 1471.
+- **Giải thích (VI):** Vương triều của Vương quốc Chăm-pa do một quý tộc người Chăm sáng lập năm 988 gắn với việc dời đô về vùng Vi-giay-a (Bình Định ngày nay). Triều đại này phát triển thịnh đạt nhất trong giai đoạn 1220 – 1353 khi thoát khỏi sự đô hộ của Chân Lạp, củng cố chính quyền và thống nhất lãnh thổ, trước khi suy yếu rồi sụp đổ vào năm 1471.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 18 (Mục 1.a): Vương triều cai trị gắn liền với hơn bốn thế kỉ phát triển của Vương quốc Chăm-pa (988 – 1471).
+  - *Lưu ý:* Chỉ vương triều cai trị Chăm-pa từ năm 988 đến năm 1471, phân biệt với địa danh Kinh đô Vi-giay-a (thành Đồ Bàn).
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.a), tr. 90, 91
+
 ### Vo Canh inscription
 - **Tiếng Việt:** Bia Võ Cạnh
 - **Chuyên ngành gốc:** Lịch sử
@@ -4785,6 +5968,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Liên minh quân sự do Liên Xô và các nước Đông Âu thành lập năm 1955, đối trọng với Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) trong khuôn khổ Trật tự thế giới hai cực I-an-ta và Chiến tranh lạnh.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 2 (Mục 1.b): Khối liên minh quân sự của Liên Xô và các nước xã hội chủ nghĩa Đông Âu trong thời kì Chiến tranh lạnh.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 15; SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 15, 16
+
+### Water Chenla
+- **Tiếng Việt:** Thuỷ Chân Lạp
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A historical designation in certain chronicles used after the 7th century to distinguish the low-lying southern riverine region from Land Chenla, geographically corresponding mainly to present-day Southern Vietnam (Nam Bo).
+- **Giải thích (VI):** Tên gọi trong một số sử sách dùng để phân biệt vùng đất thấp trũng ở phía nam với Lục Chân Lạp từ sau thế kỉ VII, có phạm vi địa lí chủ yếu tương ứng với khu vực Nam Bộ Việt Nam ngày nay.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 2.a): Tên gọi lịch sử gắn với vùng đất Nam Bộ Việt Nam sau khi Vương quốc Phù Nam sụp đổ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.a), tr. 93, 94
 
 ### wet-rice agricultural civilization
 - **Tiếng Việt:** Văn minh nông nghiệp lúa nước

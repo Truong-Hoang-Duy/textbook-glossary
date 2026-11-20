@@ -1,0 +1,230 @@
+{
+  "H7-khoa_hoc_tu_nhien-b01-01": {
+    "pdf_page": 7,
+    "bbox": [
+      110,
+      452,
+      537,
+      776
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b01-02": {
+    "pdf_page": 8,
+    "bbox": [
+      332,
+      308,
+      541,
+      560
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b01-03": {
+    "pdf_page": 9,
+    "bbox": [
+      61,
+      464,
+      527,
+      615
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b01-04": {
+    "pdf_page": 11,
+    "bbox": [
+      290,
+      238,
+      524,
+      525
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b01-05": {
+    "pdf_page": 11,
+    "bbox": [
+      333,
+      593,
+      538,
+      782
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b01-06": {
+    "pdf_page": 12,
+    "bbox": [
+      74,
+      140,
+      280,
+      318
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b01-07": {
+    "pdf_page": 12,
+    "bbox": [
+      288,
+      140,
+      544,
+      318
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b02-01": {
+    "pdf_page": 16,
+    "bbox": [
+      80,
+      228,
+      280,
+      404
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b02-02": {
+    "pdf_page": 16,
+    "bbox": [
+      148,
+      578,
+      452,
+      758
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b02-03": {
+    "pdf_page": 17,
+    "bbox": [
+      418,
+      146,
+      518,
+      256
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b02-04": {
+    "pdf_page": 17,
+    "bbox": [
+      336,
+      530,
+      520,
+      662
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b02-05": {
+    "pdf_page": 18,
+    "bbox": [
+      152,
+      336,
+      450,
+      480
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b02-06": {
+    "pdf_page": 19,
+    "bbox": [
+      115,
+      129,
+      468,
+      262
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b03-01": {
+    "pdf_page": 20,
+    "bbox": [
+      57,
+      191,
+      272,
+      330
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b03-02": {
+    "pdf_page": 20,
+    "bbox": [
+      80,
+      463,
+      358,
+      638
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b03-03": {
+    "pdf_page": 23,
+    "bbox": [
+      170,
+      320,
+      412,
+      538
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b04-01": {
+    "pdf_page": 24,
+    "bbox": [
+      98,
+      418,
+      514,
+      568
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b04-02": {
+    "pdf_page": 24,
+    "bbox": [
+      174,
+      587,
+      429,
+      647
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b04-03": {
+    "pdf_page": 26,
+    "bbox": [
+      62,
+      54,
+      544,
+      778
+    ],
+    "rotate": 90
+  },
+  "H7-khoa_hoc_tu_nhien-b04-04": {
+    "pdf_page": 27,
+    "bbox": [
+      96,
+      256,
+      493,
+      394
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b04-05": {
+    "pdf_page": 28,
+    "bbox": [
+      59,
+      55,
+      543,
+      307
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "biểu tượng bàn tay của hộp hoạt động phía dưới nhô cao sát cạnh dưới nhãn Hình 4.3"
+  },
+  "H7-khoa_hoc_tu_nhien-b04-06": {
+    "pdf_page": 28,
+    "bbox": [
+      148,
+      419,
+      456,
+      538
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b04-07": {
+    "pdf_page": 29,
+    "bbox": [
+      342,
+      68,
+      538,
+      518
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b04-08": {
+    "pdf_page": 30,
+    "bbox": [
+      98,
+      420,
+      507,
+      692
+    ]
+  },
+  "H7-khoa_hoc_tu_nhien-b04-09": {
+    "pdf_page": 31,
+    "bbox": [
+      75,
+      373,
+      513,
+      695
+    ]
+  }
+}

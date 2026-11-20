@@ -1,0 +1,268 @@
+{
+  "H7-tin_hoc-b06-01": {
+    "pdf_page": 30,
+    "bbox": [51, 59, 496, 317]
+  },
+  "H7-tin_hoc-b06-02": {
+    "pdf_page": 31,
+    "bbox": [73, 127, 485, 319]
+  },
+  "H7-tin_hoc-b06-03": {
+    "pdf_page": 31,
+    "bbox": [64, 423, 483, 632]
+  },
+  "H7-tin_hoc-b06-04": {
+    "pdf_page": 32,
+    "bbox": [90, 388, 480, 486]
+  },
+  "H7-tin_hoc-b06-05": {
+    "pdf_page": 32,
+    "bbox": [295, 501, 496, 630]
+  },
+  "H7-tin_hoc-b06-06": {
+    "pdf_page": 33,
+    "bbox": [62, 140, 486, 285]
+  },
+  "H7-tin_hoc-b06-07": {
+    "pdf_page": 33,
+    "bbox": [108, 557, 439, 724]
+  },
+  "H7-tin_hoc-b06-08": {
+    "pdf_page": 34,
+    "bbox": [112, 280, 435, 447]
+  },
+  "H7-tin_hoc-b07-01": {
+    "pdf_page": 35,
+    "bbox": [89, 455, 269, 559]
+  },
+  "H7-tin_hoc-b07-02": {
+    "pdf_page": 35,
+    "bbox": [285, 455, 479, 571]
+  },
+  "H7-tin_hoc-b07-03": {
+    "pdf_page": 36,
+    "bbox": [53, 556, 258, 664]
+  },
+  "H7-tin_hoc-b07-04": {
+    "pdf_page": 36,
+    "bbox": [285, 556, 495, 668]
+  },
+  "H7-tin_hoc-b07-05": {
+    "pdf_page": 37,
+    "bbox": [84, 95, 260, 210],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình nằm hoàn toàn trên nền xanh lam của hộp Câu hỏi nên bốn cạnh đều có màu nền hộp"
+  },
+  "H7-tin_hoc-b07-06": {
+    "pdf_page": 37,
+    "bbox": [275, 95, 479, 210],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình nằm hoàn toàn trên nền xanh lam của hộp Câu hỏi nên bốn cạnh đều có màu nền hộp"
+  },
+  "H7-tin_hoc-b07-07": {
+    "pdf_page": 37,
+    "bbox": [226, 421, 495, 557]
+  },
+  "H7-tin_hoc-b07-08": {
+    "pdf_page": 37,
+    "bbox": [226, 567, 495, 679]
+  },
+  "H7-tin_hoc-b07-09": {
+    "pdf_page": 38,
+    "bbox": [137, 553, 410, 683]
+  },
+  "H7-tin_hoc-b07-10": {
+    "pdf_page": 39,
+    "bbox": [132, 244, 415, 467]
+  },
+  "H7-tin_hoc-b07-11": {
+    "pdf_page": 39,
+    "bbox": [98, 596, 453, 725]
+  },
+  "H7-tin_hoc-b08-01": {
+    "pdf_page": 40,
+    "bbox": [75, 559, 287, 702]
+  },
+  "H7-tin_hoc-b08-02": {
+    "pdf_page": 40,
+    "bbox": [294, 559, 490, 702]
+  },
+  "H7-tin_hoc-b08-03": {
+    "pdf_page": 41,
+    "bbox": [51, 292, 491, 456]
+  },
+  "H7-tin_hoc-b08-04": {
+    "pdf_page": 41,
+    "bbox": [51, 467, 500, 632]
+  },
+  "H7-tin_hoc-b08-05": {
+    "pdf_page": 42,
+    "bbox": [51, 431, 496, 552]
+  },
+  "H7-tin_hoc-b08-06": {
+    "pdf_page": 44,
+    "bbox": [52, 158, 496, 403]
+  },
+  "H7-tin_hoc-b08-07": {
+    "pdf_page": 45,
+    "bbox": [66, 140, 481, 380]
+  },
+  "H7-tin_hoc-b09-01": {
+    "pdf_page": 46,
+    "bbox": [51, 359, 496, 456]
+  },
+  "H7-tin_hoc-b09-02": {
+    "pdf_page": 47,
+    "bbox": [84, 59, 505, 354]
+  },
+  "H7-tin_hoc-b09-03": {
+    "pdf_page": 47,
+    "bbox": [52, 470, 496, 599]
+  },
+  "H7-tin_hoc-b09-04": {
+    "pdf_page": 48,
+    "bbox": [51, 59, 496, 369]
+  },
+  "H7-tin_hoc-b09-05": {
+    "pdf_page": 48,
+    "bbox": [51, 423, 497, 527]
+  },
+  "H7-tin_hoc-b09-06": {
+    "pdf_page": 49,
+    "bbox": [51, 253, 492, 356]
+  },
+  "H7-tin_hoc-b09-07": {
+    "pdf_page": 49,
+    "bbox": [51, 436, 271, 559]
+  },
+  "H7-tin_hoc-b09-08": {
+    "pdf_page": 49,
+    "bbox": [285, 436, 496, 559]
+  },
+  "H7-tin_hoc-b09-09": {
+    "pdf_page": 49,
+    "bbox": [87, 601, 462, 707]
+  },
+  "H7-tin_hoc-b09-10": {
+    "pdf_page": 50,
+    "bbox": [65, 206, 506, 326]
+  },
+  "H7-tin_hoc-b09-11": {
+    "pdf_page": 51,
+    "bbox": [56, 275, 491, 514]
+  },
+  "H7-tin_hoc-b10-01": {
+    "pdf_page": 52,
+    "bbox": [78, 422, 283, 519]
+  },
+  "H7-tin_hoc-b10-02": {
+    "pdf_page": 52,
+    "bbox": [291, 423, 481, 523]
+  },
+  "H7-tin_hoc-b10-03": {
+    "pdf_page": 52,
+    "bbox": [149, 613, 425, 654]
+  },
+  "H7-tin_hoc-b10-04": {
+    "pdf_page": 53,
+    "bbox": [110, 133, 437, 320]
+  },
+  "H7-tin_hoc-b10-05": {
+    "pdf_page": 53,
+    "bbox": [53, 440, 494, 661]
+  },
+  "H7-tin_hoc-b10-06": {
+    "pdf_page": 54,
+    "bbox": [51, 242, 496, 518]
+  },
+  "H7-tin_hoc-b10-07": {
+    "pdf_page": 55,
+    "bbox": [53, 259, 494, 469]
+  },
+  "H7-tin_hoc-b11-01": {
+    "pdf_page": 59,
+    "bbox": [51, 263, 495, 413],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Khung chú thích '2. Nhập phụ đề' bên phải nhô cao ngang dòng chữ 'tiên là trang tiêu đề.' bên trái"
+  },
+  "H7-tin_hoc-b11-02": {
+    "pdf_page": 59,
+    "bbox": [52, 442, 495, 729]
+  },
+  "H7-tin_hoc-b11-03": {
+    "pdf_page": 60,
+    "bbox": [51, 83, 263, 218]
+  },
+  "H7-tin_hoc-b11-04": {
+    "pdf_page": 60,
+    "bbox": [285, 83, 496, 218]
+  },
+  "H7-tin_hoc-b11-05": {
+    "pdf_page": 60,
+    "bbox": [51, 380, 263, 516]
+  },
+  "H7-tin_hoc-b11-06": {
+    "pdf_page": 60,
+    "bbox": [285, 380, 496, 528]
+  },
+  "H7-tin_hoc-b11-07": {
+    "pdf_page": 60,
+    "bbox": [51, 571, 263, 707]
+  },
+  "H7-tin_hoc-b11-08": {
+    "pdf_page": 60,
+    "bbox": [285, 571, 496, 707]
+  },
+  "H7-tin_hoc-b11-09": {
+    "pdf_page": 61,
+    "bbox": [80, 228, 467, 451]
+  },
+  "H7-tin_hoc-b12-01": {
+    "pdf_page": 64,
+    "bbox": [167, 505, 381, 596]
+  },
+  "H7-tin_hoc-b12-02": {
+    "pdf_page": 64,
+    "bbox": [112, 610, 435, 723]
+  },
+  "H7-tin_hoc-b12-03": {
+    "pdf_page": 65,
+    "bbox": [102, 68, 445, 268]
+  },
+  "H7-tin_hoc-b12-04": {
+    "pdf_page": 65,
+    "bbox": [51, 317, 496, 444]
+  },
+  "H7-tin_hoc-b12-05": {
+    "pdf_page": 65,
+    "bbox": [103, 512, 444, 722]
+  },
+  "H7-tin_hoc-b12-06": {
+    "pdf_page": 66,
+    "bbox": [51, 182, 496, 469]
+  },
+  "H7-tin_hoc-b12-07": {
+    "pdf_page": 67,
+    "bbox": [51, 171, 262, 307]
+  },
+  "H7-tin_hoc-b12-08": {
+    "pdf_page": 67,
+    "bbox": [285, 171, 496, 317]
+  },
+  "H7-tin_hoc-b12-09": {
+    "pdf_page": 67,
+    "bbox": [51, 426, 496, 722]
+  },
+  "H7-tin_hoc-b12-10": {
+    "pdf_page": 68,
+    "bbox": [69, 188, 478, 435]
+  },
+  "H7-tin_hoc-b13-01": {
+    "pdf_page": 70,
+    "bbox": [51, 496, 496, 729]
+  },
+  "H7-tin_hoc-b13-02": {
+    "pdf_page": 71,
+    "bbox": [51, 79, 458, 316]
+  }
+}

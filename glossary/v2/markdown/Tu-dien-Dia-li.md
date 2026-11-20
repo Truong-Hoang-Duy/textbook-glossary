@@ -37,6 +37,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 25 (Mục 1.c): thực trạng mở rộng diện tích rừng trồng và phân bố sản lượng khai thác gỗ trên thế giới.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 1.c), tr. 74
 
+### aging population structure
+- **Tiếng Việt:** Cơ cấu dân số già
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A demographic structure in which, compared with the world average, the proportion of people under 15 years old is low and declining while the proportion of people aged 65 and older is high and increasing.
+- **Giải thích (VI):** Đặc điểm cơ cấu dân số mà so với trung bình thế giới, tỉ lệ người dưới 15 tuổi thấp và có xu hướng giảm, trong khi tỉ lệ người từ 65 tuổi trở lên cao và có xu hướng tăng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 2 (Mục 1): đặc điểm dân số nổi bật gây ra tình trạng thiếu hụt lao động tại các quốc gia châu Âu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2, tr. 101; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1), tr. 101; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1), tr. 101, 102
+
 ### agricultural region
 - **Tiếng Việt:** Vùng nông nghiệp (Vùng sinh thái nông nghiệp)
 - **Chuyên ngành gốc:** Địa lí
@@ -157,6 +165,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 15 (Mục 3): nguyên nhân hình thành, phân loại và sự biến tính của các khối khí.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9, tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28, 29; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 143
 
+### air quality protection in Europe
+- **Tiếng Việt:** Bảo vệ môi trường không khí ở châu Âu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A set of air-quality improvement solutions implemented by European countries, including controlling atmospheric emissions, levying carbon and excise taxes on carbon-rich fuels (oil and natural gas) to reduce CO₂ emissions, and investing in green technology and renewable energy to replace fossil fuels. Within cities, measures reduce vehicle traffic, prioritize public transit, and build infrastructure favoring cyclists and pedestrians.
+- **Giải thích (VI):** Hệ thống giải pháp cải thiện chất lượng không khí của các quốc gia châu Âu, gồm kiểm soát lượng khí thải trong khí quyển, đánh thuế các-bon và thuế tiêu thụ đặc biệt đối với nhiên liệu có hàm lượng các-bon cao (dầu mỏ, khí tự nhiên) để giảm phát thải khí CO₂, đầu tư công nghệ xanh và năng lượng tái tạo thay thế dần năng lượng hoá thạch. Tại các thành phố, các nước giảm lượng xe lưu thông, ưu tiên giao thông công cộng và xây dựng hạ tầng ưu tiên cho người đi xe đạp, đi bộ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 3 (Mục 1.a): hệ thống giải pháp khắc phục ô nhiễm không khí do sản xuất công nghiệp, tiêu thụ năng lượng và vận tải đường bộ ở châu Âu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B3, tr. 104; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1.a), tr. 104
+
 ### air temperature
 - **Tiếng Việt:** Nhiệt độ không khí
 - **Chuyên ngành gốc:** Địa lí
@@ -203,6 +219,70 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 16 (Mục 3): Phân tích sơ đồ các vành đai thực vật và đất theo độ cao ở sườn tây dãy Cáp-ca.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B16 (Mục 2), tr. 49, 50
 
+### altitudinal zonation in the Andes
+- **Tiếng Việt:** Sự phân hoá tự nhiên theo chiều cao trên dãy An-đét
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The pattern of natural landscape variation by elevation in the Andes corresponding to changes in temperature and humidity with increasing altitude. At lower elevations, the hot and humid Northern and Central Andes support tropical rainforests while the temperate Southern Andes support subtropical and temperate forests before transitioning into higher altitudinal belts.
+- **Giải thích (VI):** Quy luật thay đổi thiên nhiên theo độ cao trên dãy An-đét tương ứng với sự biến đổi của nhiệt độ và độ ẩm khi càng lên cao. Ở dưới thấp, vùng Bắc và Trung An-đét nóng ẩm có rừng mưa nhiệt đới, còn vùng Nam An-đét ôn hoà phát triển rừng cận nhiệt và ôn đới trước khi chuyển sang các đai cao hơn.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 3): sự thay đổi các đai thiên nhiên từ chân núi lên đỉnh núi trên dãy An-đét.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2), tr. 151; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B16 (Mục 3), tr. 151
+
+### Amazon Plain
+- **Tiếng Việt:** Đồng bằng A-ma-dôn
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A vast, flat plain situated in central South America within hot, humid, and rainy equatorial and subequatorial climate zones. Its surface is covered by tropical rainforests harboring exceptionally rich flora and fauna.
+- **Giải thích (VI):** Đồng bằng rộng lớn và bằng phẳng nằm ở khu vực giữa lục địa Nam Mỹ, thuộc đới khí hậu xích đạo và cận xích đạo nóng ẩm, mưa nhiều. Bề mặt đồng bằng có thảm thực vật rừng mưa nhiệt đới bao phủ với hệ thực – động vật vô cùng phong phú.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 2): một trong các đồng bằng lớn ở giữa lục địa Nam Mỹ, phân biệt với các đồng bằng mưa ít hơn như Ô-ri-nô-cô, La Pla-ta và Pam-pa.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2), tr. 150, 151; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2), tr. 151; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B16 (Mục 3), tr. 151
+
+### Amazon rainforest
+- **Tiếng Việt:** Rừng A-ma-dôn (rừng nhiệt đới A-ma-dôn)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The world's largest tropical rainforest, covering more than 5 million km² in South America and concentrated mainly in Brazil and Colombia under a year-round hot and humid climate. With its exceptionally rich biodiversity, the forest serves as the "green lungs" of the Earth and a precious biological reserve that regulates climate and maintains global ecological balance.
+- **Giải thích (VI):** Khu rừng nhiệt đới rộng nhất thế giới ở lục địa Nam Mỹ với diện tích hơn 5 triệu km², tập trung chủ yếu tại Bra-xin và Cô-lôm-bi-a trong điều kiện khí hậu nóng ẩm quanh năm. Với hệ sinh vật rất phong phú, rừng giữ vai trò là “lá phổi xanh” của Trái Đất và nguồn dự trữ sinh học quý giá giúp điều hoà khí hậu, cân bằng sinh thái toàn cầu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 2.a): quy mô, tính đa dạng sinh học và vai trò sinh thái toàn cầu của rừng mưa nhiệt đới A-ma-dôn.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B17 (Mục 1.c), tr. 154; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2.a), tr. 154; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2.b), tr. 155
+
+### Andes Mountains
+- **Tiếng Việt:** Miền núi An-đét
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A high mountain system in western South America with average elevations of 3,000–5,000 m, consisting of multiple mountain ranges interspersed with valleys and plateaus. Natural conditions across this mountain region differ markedly between the eastern and western slopes.
+- **Giải thích (VI):** Hệ thống núi cao ở phía tây lục địa Nam Mỹ có độ cao trung bình 3 000 – 5 000 m, gồm nhiều dãy núi xen giữa là các thung lũng và cao nguyên. Thiên nhiên tại miền núi này có sự khác biệt rõ rệt giữa sườn đông và sườn tây.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 2): hệ thống núi cao chạy dọc phía tây lục địa Nam Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2), tr. 151; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B16 (Mục 3), tr. 151
+
+### Antarctic ice sheet
+- **Tiếng Việt:** Cao nguyên băng khổng lồ (khiên băng Nam Cực)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A massive ice cover blanketing 98% of Antarctica's surface with an average thickness exceeding 1,720 m. This ice layer gives the continent a relatively flat surface and raises Antarctica's mean elevation to over 2,040 m, the highest among all continents.
+- **Giải thích (VI):** Khối băng phủ khổng lồ bao trùm 98% bề mặt châu Nam Cực với độ dày trung bình trên 1 720 m. Lớp phủ băng làm cho bề mặt châu lục tương đối bằng phẳng và nâng độ cao trung bình lên hơn 2 040 m, cao nhất trong các châu lục.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 19 (Mục 3.a): đặc điểm địa hình bề mặt bị băng phủ quanh năm của châu Nam Cực.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19 (Mục 3.a), tr. 164; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19 (Mục 3.b), tr. 164
+
+### Antarctic Treaty
+- **Tiếng Việt:** Hiệp ước châu Nam Cực (Hiệp ước Nam Cực)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An international treaty signed by 12 countries on December 1, 1959, stipulating that the exploration and use of Antarctica shall be restricted exclusively to peaceful purposes. The treaty also refuses to recognize any territorial or resource-division claims in Antarctica.
+- **Giải thích (VI):** Điều ước quốc tế do 12 quốc gia kí ngày 1-12-1959 quy định việc khảo sát châu Nam Cực chỉ giới hạn trong mục đích vì hoà bình. Hiệp ước đồng thời không công nhận những đòi hỏi phân chia lãnh thổ và tài nguyên ở châu Nam Cực.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 19 (Mục 1): văn kiện quốc tế quy chế hoá hoạt động nghiên cứu vì mục đích hoà bình ở châu Nam Cực.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19, tr. 162; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19 (Mục 1), tr. 162
+
+### Antarctica
+- **Tiếng Việt:** Châu Nam Cực
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A continent comprising the Antarctic mainland and surrounding coastal islands with a total area exceeding 14 million km², ranking fourth largest in the world and lying mostly south of the Antarctic Circle. Surrounded by ocean and isolated from other continents, it is the only continent on Earth without a permanent human population.
+- **Giải thích (VI):** Châu lục gồm lục địa Nam Cực và các đảo ven lục địa với tổng diện tích hơn 14 triệu km², đứng thứ tư trong các châu lục và có đại bộ phận diện tích nằm ở phía nam vòng cực Nam. Được đại dương bao bọc và nằm cách xa các châu lục khác, đây là châu lục duy nhất trên thế giới chưa có dân cư sinh sống thường xuyên.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 19 (Mục 2): vị trí địa lí, giới hạn, quy mô diện tích và đặc điểm dân cư của châu Nam Cực.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19, tr. 162; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19 (Mục 1), tr. 162; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19 (Mục 2), tr. 163
+
+### Appalachian Mountains
+- **Tiếng Việt:** Dãy núi A-pa-lát
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A mountain system in eastern North America trending northeast–southwest, forming the eastern topographic region alongside the plateau on the Labrador Peninsula. The range consists of two sections, with the northern section reaching 400–500 m in elevation and the southern section rising to 1,000–1,500 m.
+- **Giải thích (VI):** Hệ thống núi ở phía đông lục địa Bắc Mỹ chạy theo hướng đông bắc – tây nam, nằm cùng khu vực địa hình phía đông với sơn nguyên trên bán đảo La-bra-đo. Dãy núi gồm hai phần với phần bắc cao từ 400 – 500 m và phần nam cao từ 1 000 – 1 500 m.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 1): miền núi ở phía đông lục địa Bắc Mỹ phân biệt với miền núi Coóc-đi-e cao đồ sộ ở phía tây.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14, tr. 142; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 1), tr. 142; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 2), tr. 142
+
 ### Appalachian Mountains and Atlantic coastal plain
 - **Tiếng Việt:** Miền núi A-pa-lát và đồng bằng duyên hải Đại Tây Dương
 - **Chuyên ngành gốc:** Địa lí
@@ -218,6 +298,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Các tính năng thực tiễn kết hợp khả năng định vị chính xác của GPS với công cụ truyền tải, giám sát của bản đồ số để dẫn đường và điều hành sự di chuyển của các phương tiện gắn thiết bị định vị. Hệ thống này giúp xác định điểm đến, quãng đường và cung đường di chuyển, giám sát và lưu trữ lộ trình, tính quãng đường cùng cước phí vận tải hành khách và chống trộm phương tiện.
 - **Bối cảnh:** Địa lí lớp 10, Bài 3 (Mục 2.b): Khai thác các tính năng định vị, dẫn đường và quản lí giao thông của GPS và bản đồ số trong đời sống.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.a), tr. 13; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.b), tr. 13; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.b), tr. 13, 14
+
+### Arabica coffee
+- **Tiếng Việt:** Cà phê A-ra-bi-ca
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A specialty coffee variety native to Africa, world-renowned for its aromatic flavor and serving as a major export cash crop for many countries in Africa's humid tropical environment.
+- **Giải thích (VI):** Giống cà phê đặc sản có nguồn gốc bản địa từ châu Phi, nổi tiếng thế giới nhờ hương vị thơm ngon và là mặt hàng cây công nghiệp xuất khẩu chủ lực của nhiều quốc gia thuộc môi trường nhiệt đới ẩm châu Phi.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 2): cây công nghiệp xuất khẩu tiêu biểu trong khai thác nông nghiệp ở môi trường nhiệt đới châu Phi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 136
 
 ### area mental map
 - **Tiếng Việt:** Lược đồ trí nhớ một khu vực (lược đồ trí nhớ về một khu vực; lược đồ một khu vực)
@@ -306,6 +394,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 12, Bài 4 (Mục 1.a): Sự kiện ra đời, quá trình mở rộng thành viên và các giai đoạn phát triển của tổ chức hợp tác khu vực Đông Nam Á.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục I), tr. 61; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 3.a), tr. 41; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 3.b), tr. 41; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 3.b), tr. 41, 42; SGK Lịch sử 12 KNTT, Chủ đề 02, B4, tr. 21; SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 21; SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 22
 
+### Atacama Desert
+- **Tiếng Việt:** Hoang mạc A-ta-ca-ma
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A desert located west of the Andes in South America, stretching from latitudes 22°S to 27°S. It receives extremely low precipitation, with some areas experiencing no rain for many consecutive years, making it the driest desert in the world.
+- **Giải thích (VI):** Hoang mạc nằm ở phía tây dãy An-đét thuộc Nam Mỹ, trải dài từ vĩ độ 22°N đến 27°N. Nơi đây có lượng mưa rất thấp, có nơi nhiều năm liền không mưa nên là hoang mạc khô cằn nhất thế giới.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1): dải hoang mạc khô cằn bậc nhất thế giới nằm ở phía tây dãy An-đét.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B16, tr. 149; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1), tr. 149; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1), tr. 149, 150
+
 ### atmosphere
 - **Tiếng Việt:** Khí quyển (lớp vỏ khí)
 - **Chuyên ngành gốc:** Địa lí
@@ -336,6 +432,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 15 (Mục 4): khái niệm sức ép khí quyển và cơ sở hình thành sự chuyển động của gió.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9, tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.a), tr. 31; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 4.a), tr. 33; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15, tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 4), tr. 144; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 5), tr. 145
 
+### Australian continent
+- **Tiếng Việt:** Lục địa Ô-xtrây-li-a (Ô-xtrây-li-a)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A continent situated in the southwestern Pacific Ocean in the Southern Hemisphere, covering nearly 7.7 million km². Owing to its minimally indented coastline, the landmass has a compact, blocky shape stretching over 3,000 km from north to south and about 4,000 km at its widest point from west to east.
+- **Giải thích (VI):** Lục địa nằm ở phía tây nam Thái Bình Dương thuộc bán cầu Nam, có diện tích gần 7,7 triệu km². Do bờ biển ít bị chia cắt, lục địa này có dạng hình khối rõ rệt với chiều bắc – nam dài hơn 3 000 km và chiều tây – đông nơi rộng nhất khoảng 4 000 km.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 1): vị trí địa lí, hình dạng khối và kích thước của lục địa nhỏ nhất thế giới.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18, tr. 156; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 1), tr. 156; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 1), tr. 156, 157
+
 ### average transport distance
 - **Tiếng Việt:** Cự li vận chuyển trung bình
 - **Chuyên ngành gốc:** Địa lí
@@ -360,6 +464,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài mở đầu (Mục 1): giới thiệu phạm vi kiến thức nền tảng và ý nghĩa của việc nắm vững các khái niệm địa lí cơ bản.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, Bài mở đầu, tr. 98; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, Bài mở đầu (Mục 1), tr. 98; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, Bài mở đầu (Mục 1), tr. 98, 99
 
+### basin
+- **Tiếng Việt:** Bồn địa
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A low-lying, bowl-shaped depression landform resulting from geological processes such as crustal subsidence or glacial erosion.
+- **Giải thích (VI):** Địa hình trũng, thấp, dạng lòng chảo hình thành do kết quả của nhiều quá trình địa chất như sự sụt lún của một bộ phận vỏ Trái Đất hoặc sự bào mòn của băng hà.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 5 (Mục 2.a): nhận diện dạng địa hình trũng rộng lớn ở vùng nội địa châu Á như bồn địa Ta-rim.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.e), tr. 123
+
 ### bauxite mining in the Central Highlands
 - **Tiếng Việt:** Khai thác bô-xít ở Tây Nguyên
 - **Chuyên ngành gốc:** Địa lí
@@ -367,6 +479,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hoạt động công nghiệp khai khoáng và chế biến khoáng sản dựa trên trữ lượng bô-xít lớn nhất cả nước của Tây Nguyên (khoảng 8,2 tỉ tấn, chiếm gần 90% trữ lượng toàn quốc), phân bố chủ yếu ở Lâm Đồng và Đắk Nông. Quặng bô-xít khai thác được chế biến thành a-lu-min làm nguyên liệu chính sản xuất bột nhôm tại hai cơ sở Tân Rai (Lâm Đồng) và Nhân Cơ (Đắk Nông).
 - **Bối cảnh:** Địa lí lớp 12, Bài 28 (Mục II.4): Tiềm năng và hiện trạng khai thác, chế biến quặng bô-xít ở vùng Tây Nguyên.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B28 (Mục II.3.b), tr. 132; SGK Địa lí 12 KNTT, Phần 4, B28 (Mục II.4), tr. 132
+
+### biodiversity conservation in Europe
+- **Tiếng Việt:** Bảo vệ đa dạng sinh học ở châu Âu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Efforts by European countries to preserve terrestrial and aquatic ecosystems by enacting policies for sustainable forest protection and development while minimizing the causes of water and soil pollution.
+- **Giải thích (VI):** Hoạt động giữ gìn các hệ sinh thái trên cạn và dưới nước của các quốc gia châu Âu thông qua việc ban hành nhiều chính sách bảo vệ, phát triển rừng bền vững và giảm thiểu các nguyên nhân gây ô nhiễm môi trường nước, môi trường đất.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 3 (Mục 2): hoạt động bảo tồn các hệ sinh thái trên cạn và dưới nước ở châu Âu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1.b), tr. 105; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2), tr. 105
 
 ### biological resource depletion
 - **Tiếng Việt:** Suy giảm tài nguyên sinh vật
@@ -440,6 +560,27 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 17 (Mục 1.b): Xác định phạm vi giới hạn của vỏ địa lí và phân biệt với vỏ Trái Đất.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 1.a), tr. 51; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 1.b), tr. 51
 
+### broadleaf forest
+- **Tiếng Việt:** Rừng lá rộng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A forest type of temperate environments composed of tree species with broad, flat leaves that shed their foliage in winter.
+- **Giải thích (VI):** Kiểu rừng của môi trường ôn đới, gồm các loài cây có lá rộng bản và rụng lá về mùa đông.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 1 (Mục 2.d): thảm thực vật chủ yếu ở phía tây châu Âu nơi có mùa đông ấm, mùa hạ mát và mưa nhiều.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.d), tr. 99
+
+### Buddhism
+- **Tiếng Việt:** Phật giáo
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** One of the four major world religions originating in Asia, founded in the 6th century BCE in India and widely spread across many countries with a large number of followers.
+- **Giải thích (VI):** Một trong bốn tôn giáo lớn của thế giới có cội nguồn từ châu Á, ra đời vào thế kỉ VI trước Công nguyên tại Ấn Độ và lan truyền rộng rãi sang nhiều quốc gia với số lượng lớn tín đồ.
+- **Giải thích khác (SGK Lịch sử 10):** EN: A religion founded in India in the mid-first millennium BCE that flourished until the seventh century before declining in its homeland, while spreading widely across many nations to become one of the world's major religions. / VI: Tôn giáo hình thành ở Ấn Độ từ giữa thiên niên kỉ I TCN, phát triển hưng thịnh đến thế kỉ VII trước khi suy yếu tại quê hương nhưng được truyền bá rộng rãi sang nhiều quốc gia và trở thành một trong những tôn giáo lớn nhất thế giới.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A major religion founded in ancient India around the sixth century BCE by Siddhartha Gautama (Shakyamuni). / VI: Tôn giáo lớn ra đời ở Ấn Độ cổ đại vào khoảng thế kỉ VI TCN, do Xít-đác-ta Gô-ta-ma (Thích Ca Mâu Ni) sáng lập.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1.b): tôn giáo lớn ra đời tại Ấn Độ và có ảnh hưởng sâu rộng đối với đời sống văn hoá – xã hội châu Á.
+  - Lịch sử lớp 10, Bài 5 (Mục II.2.b): Sự ra đời, phát triển và lan toả của Phật giáo từ Ấn Độ ra thế giới.
+  - Lịch sử và Địa lí lớp 6, Bài 8 (Mục 3): tôn giáo lớn khởi phát từ Ấn Độ cổ đại gắn với các di sản kiến trúc tiêu biểu như cột đá A-sô-ca và đại bảo tháp San-chi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 116; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 41; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37, 38; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 38
+
 ### buffer zone
 - **Tiếng Việt:** Vùng đệm
 - **Chuyên ngành gốc:** Địa lí
@@ -474,6 +615,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 11, Bài 13 (Mục 1.a): Địa danh tiêu biểu minh hoạ giá trị địa hình bờ biển Việt Nam đối với quốc phòng, an ninh trên Biển Đông.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 1), tr. 81; SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 1.a), tr. 81; SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 1.b), tr. 81
 
+### canyon
+- **Tiếng Việt:** Hẻm vực (ca-ny-on)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A deep, narrow river valley landform with steep cliffs carved by strong fluvial incision across plateau surfaces, exemplified by the Grand Canyon in the North American Cordillera (446 km long, 6–29 km wide, and 1,600 m deep).
+- **Giải thích (VI):** Dạng địa hình thung lũng sông sâu, hẹp với vách dốc đứng hình thành do các dòng sông xói sâu và chia cắt mạnh bề mặt cao nguyên, tiêu biểu là hẻm vực Gran Ca-ny-on ở miền núi Coóc-đi-e (dài 446 km, rộng 6 – 29 km, sâu 1 600 m).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 1): dạng địa hình chia cắt đặc trưng trên bề mặt các cao nguyên thuộc miền núi Coóc-đi-e ở Bắc Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 1), tr. 142
+
 ### capture fisheries
 - **Tiếng Việt:** Khai thác thuỷ sản
 - **Chuyên ngành gốc:** Địa lí
@@ -501,6 +650,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 8 (Mục 2.a): giải thích sự trái ngược mùa giữa bán cầu Bắc và bán cầu Nam vào ngày 22 tháng 6 và ngày 22 tháng 12.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2.a), tr. 123; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2.b), tr. 124
 
+### Central Asia
+- **Tiếng Việt:** Khu vực Trung Á
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The only landlocked region of Asia with no ocean coastline, covering over 4 million km² with terrain sloping westward from high eastern mountain systems (Pamir, Tian Shan, Altai) to western plateaus and plains reaching the Caspian Sea. It has an arid temperate continental climate, two major rivers (Syr Darya and Amu Darya) flowing into the Aral Sea, and rich deposits of oil, coal, and metals.
+- **Giải thích (VI):** Khu vực nội lục duy nhất của châu Á không giáp đại dương, rộng hơn 4 triệu km² với địa hình thấp dần từ hệ thống núi cao phía đông (Pa-mia, Thiên Sơn, An-tai) sang các cao nguyên, đồng bằng phía tây tới hồ Ca-xpi. Khu vực có khí hậu ôn đới lục địa khô hạn, hai sông lớn Xưa Đa-ri-a và A-mu Đa-ri-a đổ vào hồ A-ran cùng nguồn khoáng sản giàu dầu mỏ, than đá và kim loại.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 2.b): đặc điểm tự nhiên của khu vực nội lục nằm ở trung tâm lục địa Á – Âu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.b), tr. 120
+
 ### Central Highlands
 - **Tiếng Việt:** Tây Nguyên
 - **Chuyên ngành gốc:** Địa lí
@@ -518,6 +675,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Vùng kinh tế trọng điểm ở miền Trung Việt Nam được thành lập năm 1997 và bổ sung năm 2004, gồm 5 tỉnh, thành phố (Đà Nẵng, Thừa Thiên Huế, Quảng Nam, Quảng Ngãi, Bình Định) với diện tích khoảng 28 nghìn km² và số dân 6,6 triệu người (năm 2021). Vùng nằm ở vị trí chiến lược về giao lưu Bắc – Nam, Đông – Tây và cửa ngõ ra biển của Tây Nguyên cùng các nước láng giềng, nổi bật với kinh tế biển, công nghiệp lọc hoá dầu, sản xuất ô tô và năng lượng tái tạo.
 - **Bối cảnh:** Địa lí lớp 12, Bài 32 (Mục II.2): Quá trình hình thành, nguồn lực và thực trạng phát triển của Vùng kinh tế trọng điểm miền Trung.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B32 (Mục II.2.a), tr. 158; SGK Địa lí 12 KNTT, Phần 4, B32 (Mục II.2.b), tr. 158; SGK Địa lí 12 KNTT, Phần 4, B32 (Mục II.2.c), tr. 158; SGK Địa lí 12 KNTT, Phần 4, B32 (Mục II.2.d), tr. 160
+
+### Central Lowlands of Australia
+- **Tiếng Việt:** Vùng đồng bằng Trung tâm (đồng bằng Trung tâm; bồn địa Ác-tê-di-an lớn)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A low-lying topographic region in the interior of the Australian continent with an average elevation below 200 m, the largest part of which is the Great Artesian Basin. This region is extremely arid, characterized by stony plains, sandy plains, and sand dunes, with many uninhabited areas.
+- **Giải thích (VI):** Khu vực địa hình thấp nằm ở giữa lục địa Ô-xtrây-li-a với độ cao trung bình dưới 200 m, trong đó lớn nhất là bồn địa Ác-tê-di-an lớn. Vùng này rất khô hạn, bề mặt có nhiều bãi đá, đồng bằng cát, đụn cát và nhiều nơi hoang vắng không có người sinh sống.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 18 (Mục 2.a): khu vực địa hình thấp và khô hạn ở trung tâm lục địa Ô-xtrây-li-a.
+  - *Lưu ý:* Chỉ khu vực địa hình đồng bằng và bồn địa ở giữa lục địa Ô-xtrây-li-a, phân biệt với đồng bằng Trung Tâm thuộc miền đồng bằng Bắc Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.a), tr. 158; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.b), tr. 158; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.b), tr. 158, 159
+
+### central plains of North America
+- **Tiếng Việt:** Miền đồng bằng Bắc Mỹ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A vast lowland region in the interior of North America comprising the Canadian Plains, the Great Plains, the Central Plains, and the Coastal Plains. This region has elevations ranging from 200 to 500 m and slopes gradually downward from north to south.
+- **Giải thích (VI):** Khu vực địa hình đồng bằng rộng lớn ở giữa lục địa Bắc Mỹ, bao gồm đồng bằng Ca-na-đa, đồng bằng Lớn, đồng bằng Trung Tâm và đồng bằng Duyên Hải. Khu vực này có độ cao từ 200 – 500 m và thấp dần từ bắc xuống nam.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 1): khu vực địa hình đồng bằng rộng lớn nằm giữa miền núi Coóc-đi-e ở phía tây và dãy A-pa-lát ở phía đông.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14, tr. 142; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 1), tr. 142; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 2), tr. 142
 
 ### central plains region of the United States
 - **Tiếng Việt:** Vùng đồng bằng ở giữa Hoa Kỳ
@@ -615,6 +790,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 7 (Mục 2.b): Phân tích tác nhân nước và khí hoà tan làm biến đổi hoá học đá và khoáng vật.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 2.a), tr. 25; SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 2.b), tr. 25; SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 2.b), tr. 25, 26
 
+### Christianity
+- **Tiếng Việt:** Ki-tô giáo
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A major religion formed at the beginning of the Common Era in Palestine in Asia, which became the state religion of the Roman Empire in the 3rd century and is now among the world's largest religions by number of adherents.
+- **Giải thích (VI):** Tôn giáo lớn hình thành vào đầu Công nguyên tại vùng Pa-le-xtin thuộc châu Á, trở thành quốc giáo của đế quốc La Mã từ thế kỉ III và hiện nằm trong nhóm tôn giáo có đông tín đồ nhất thế giới.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1.b): một trong bốn tôn giáo lớn trên thế giới ra đời tại châu Á và lan truyền toàn cầu.
+  - *Lưu ý:* Không nhầm với 'Cơ Đốc giáo' (`Christianity (history)`) trong Lịch sử.
+  - *Lưu ý:* Không nhầm với 'Thiên Chúa giáo' (`Christianity (history)`) trong Lịch sử.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 116; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178
+
 ### classification of country groups in the world
 - **Tiếng Việt:** Phân chia các nhóm nước trên thế giới
 - **Chuyên ngành gốc:** Địa lí
@@ -654,6 +840,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Các hoạt động của con người nhằm thích ứng với tác động của biến đổi khí hậu và giảm nhẹ mức độ biến đổi khí hậu.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 17 (Mục 3.b): đề xuất các giải pháp giảm phát thải khí nhà kính và thích ứng với biến đổi khí hậu.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
+
+### climate change response in Europe
+- **Tiếng Việt:** Ứng phó với biến đổi khí hậu ở châu Âu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Concrete actions taken by European countries to mitigate climate change impacts, including planting and protecting forests to absorb greenhouse CO₂ emissions and reduce flood and drought risks, alongside minimizing fossil fuel use and developing environmentally friendly renewable energy sources (solar, wind, wave, and tidal energy).
+- **Giải thích (VI):** Các hành động cụ thể của các nước châu Âu nhằm giảm thiểu tác động của biến đổi khí hậu, gồm trồng và bảo vệ rừng để hấp thụ khí CO₂ gây hiệu ứng nhà kính, làm giảm nguy cơ lũ lụt và hạn hán, đồng thời hạn chế tối đa việc sử dụng nhiên liệu hoá thạch và phát triển các nguồn năng lượng tái tạo thân thiện với môi trường (mặt trời, gió, sóng biển, thuỷ triều).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 3 (Mục 3): các hành động giảm thiểu tác động của hiện tượng thời tiết cực đoan và biến đổi khí hậu ở châu Âu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B3 (Mục 3), tr. 106
+
+### climate change scenario for Antarctica
+- **Tiếng Việt:** Kịch bản thay đổi thiên nhiên châu Nam Cực khi có biến đổi khí hậu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Scientific projections of environmental changes in Antarctica by the end of the 21st century as regional temperatures rise by 0.5°C, precipitation increases, and global sea levels rise by 0.05–0.32 m. Under this scenario, many ecosystems will disappear while coastal grasslands emerge, and the central ice sheet will thicken due to increased precipitation.
+- **Giải thích (VI):** Dự báo khoa học về sự biến đổi thiên nhiên nhạy cảm của châu Nam Cực đến cuối thế kỉ XXI khi nhiệt độ tăng 0,5°C, lượng mưa tăng lên và mực nước biển dâng thêm 0,05 – 0,32 m. Theo đó, nhiều hệ sinh thái sẽ mất đi nhưng vùng ven biển xuất hiện các đồng cỏ, còn lớp băng phủ ở vùng trung tâm dày thêm nhờ có nước mưa cung cấp.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 19 (Mục 4): dự báo biến động nhiệt độ, lượng mưa, mực nước biển và hệ sinh thái ở châu Nam Cực đến cuối thế kỉ XXI.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19 (Mục 4), tr. 165
+
+### climate of Africa
+- **Tiếng Việt:** Khí hậu châu Phi
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Africa's climate regime, among the hottest and driest in the world, featuring an average annual temperature above 20°C and relatively low precipitation. Because the Equator crosses nearly the middle of the continent, its climate zones are arranged almost symmetrically north and south into equatorial, sub-equatorial, tropical, and subtropical climates.
+- **Giải thích (VI):** Chế độ khí hậu khô nóng bậc nhất thế giới của châu Phi với nhiệt độ trung bình năm trên 20°C và lượng mưa tương đối thấp. Do đường Xích đạo chạy qua gần chính giữa lục địa, các đới khí hậu phân bố gần như đối xứng về hai phía bắc – nam gồm khí hậu xích đạo, cận xích đạo, nhiệt đới và cận nhiệt.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2.b): đặc điểm nhiệt ẩm chung và quy luật phân bố đối xứng qua Xích đạo của các đới khí hậu châu Phi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 130
+
+### climate of Australia
+- **Tiếng Việt:** Khí hậu Ô-xtrây-li-a
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The predominantly hot-zone climate regime of the Australian continent, differentiating north to south from subequatorial along the northern coast and tropical across most of the mainland to subtropical along the southern strip and temperate in southern Tasmania. From east to west, the eastern slopes of the Great Dividing Range have a rainy humid tropical climate, whereas the region from the western slopes to the west coast experiences a harsh, arid continental tropical climate.
+- **Giải thích (VI):** Chế độ khí hậu chủ yếu thuộc đới nóng trên lục địa Ô-xtrây-li-a, thay đổi theo chiều bắc – nam từ cận xích đạo ở bờ biển phía bắc, nhiệt đới trên phần lớn lục địa đến cận nhiệt đới ở dải đất hẹp phía nam và ôn đới ở phía nam đảo Ta-xma-ni-a. Theo chiều đông – tây, sườn đông dãy Trường Sơn Ô-xtrây-li-a có khí hậu nhiệt đới ẩm mưa nhiều, còn từ sườn tây đến bờ tây mang khí hậu nhiệt đới lục địa khô hạn, khắc nghiệt.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 2.b): sự phân hoá khí hậu theo chiều bắc – nam và đông – tây trên lục địa Ô-xtrây-li-a.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.a), tr. 158; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.b), tr. 158; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.b), tr. 158, 159
 
 ### climate of China
 - **Tiếng Việt:** Khí hậu Trung Quốc
@@ -799,6 +1017,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 3): phân loại khối khí theo vĩ độ hình thành và phân biệt với khối khí nóng.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 143
 
+### cold desert
+- **Tiếng Việt:** Hoang mạc lạnh
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A frigid desert landscape covering nearly the entire Antarctic mainland under the world's coldest, driest, and stormiest climate, where temperatures never exceed 0°C and coastal precipitation falls below 200 mm/year. Its interior is completely devoid of life, while only coastal fringes support lower plants (mosses, lichens, algae, and fungi) and cold-tolerant animals (penguins, seabirds, and seals).
+- **Giải thích (VI):** Cảnh quan hoang mạc băng giá bao trùm gần như toàn bộ lục địa Nam Cực do khí hậu lạnh, khô và nhiều gió bão nhất thế giới, với nhiệt độ không bao giờ vượt quá 0°C và lượng mưa, tuyết rơi ven biển dưới 200 mm/năm. Nội địa hoàn toàn không có sinh vật sinh sống, chỉ vùng ven lục địa mới có một số thực vật bậc thấp (rêu, địa y, tảo, nấm) và vài loài động vật chịu lạnh (chim cánh cụt, chim biển, hải cẩu).
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 19 (Mục 3.a): đặc điểm khí hậu cực kì lạnh giá, khô hạn và cảnh quan sinh vật nghèo nàn trên lục địa Nam Cực.
+  - *Lưu ý:* Trong Bài 19, thuật ngữ chỉ cảnh quan hoang mạc vùng cực trên lục địa Nam Cực với nhiệt độ quanh năm không vượt quá 0°C.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19 (Mục 3.a), tr. 164; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19 (Mục 3.b), tr. 164
+
 ### cold ocean current
 - **Tiếng Việt:** Dòng biển lạnh
 - **Chuyên ngành gốc:** Địa lí
@@ -815,14 +1043,6 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 38 (Mục 2.b): Hướng dẫn quy trình thu thập và xử lí thông tin phục vụ báo cáo thực hành ngành dịch vụ.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B38 (Mục 1), tr. 107; SGK Địa lí 10 KNTT, Phần ba, B38 (Mục 2.b), tr. 107; SGK Địa lí 10 KNTT, Phần ba, B38 (Mục 2.c), tr. 107
 
-### compass
-- **Tiếng Việt:** La bàn
-- **Chuyên ngành gốc:** Địa lí
-- **Giải thích (EN):** A field direction-finding instrument comprising a magnetized metallic needle (typically diamond-shaped with differently colored north and south ends) and a graduated dial from 0° to 360° marking the four cardinal directions (north 0° or 360°, east 90°, south 180°, west 270°). When placed level with the needle released until stationary, it determines the north–south axis and other directions.
-- **Giải thích (VI):** Dụng cụ xác định phương hướng gồm kim nam châm làm bằng kim loại có từ tính (thường có dạng hình thoi, hai đầu bắc – nam khác màu) và vòng chia độ từ 0° đến 360° ghi bốn hướng chính (bắc 0° hoặc 360°, đông 90°, nam 180°, tây 270°). Khi đặt la bàn thăng bằng và mở chốt hãm đến khi kim đứng yên, ta xác định được hướng bắc – nam cùng các hướng còn lại.
-- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 9 (Mục 1): cấu tạo và cách sử dụng la bàn cầm tay hoặc ứng dụng la bàn số trên điện thoại thông minh.
-- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B9, tr. 125; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B9 (Mục 1.a), tr. 125; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B9 (Mục 1.b), tr. 125, 126
-
 ### composition of near-surface air
 - **Tiếng Việt:** Thành phần không khí gần bề mặt đất
 - **Chuyên ngành gốc:** Địa lí
@@ -832,14 +1052,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15, tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 1), tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 142, 143
 
 ### coniferous forest
-- **Tiếng Việt:** Rừng lá kim
+- **Tiếng Việt:** Rừng lá kim (rừng tai-ga)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A forest type dominated by needle-leaved tree species of the pine and cypress families, distributed mostly in the Northern Hemisphere across vast areas of the cold temperate zone.
 - **Giải thích (VI):** Kiểu rừng có thành phần thực vật chủ yếu là các loài cây thuộc họ Tùng, Bách với lá hình kim, phân bố chủ yếu ở bán cầu Bắc và chiếm diện tích rộng lớn tại vùng ôn đới lạnh.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A forest type of cold temperate environments composed of tree species with needle-shaped leaves. / VI: Kiểu rừng của môi trường ôn đới lạnh, gồm các loài cây có lá hình kim.
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 6, Bài 23 (Mục 2.a): Nhận biết kiểu thảm thực vật rừng tiêu biểu ở đới ôn hoà, đặc biệt tại vùng ôn đới lạnh.
+  - Lịch sử và Địa lí lớp 7, Bài 1 (Mục 2.d): thảm thực vật chủ yếu ở phía bắc đới ôn hoà châu Âu (và vùng Xi-bia châu Á), gắn với nhóm đất pốt dôn.
   - *Lưu ý:* Phân biệt khái niệm chung về kiểu thảm thực vật rừng lá kim (Bài 23) với rừng Tai-ga (Bài 25) là cảnh quan rừng lá kim nguyên sinh rộng lớn đặc thù ở vùng ôn đới lạnh.
-- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B23 (Mục 2.a), tr. 172; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B23 (Mục 2.b), tr. 172
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B23 (Mục 2.a), tr. 172; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B23 (Mục 2.b), tr. 172; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.d), tr. 99; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.d), tr. 100
 
 ### consequences of economic globalization
 - **Tiếng Việt:** Hệ quả của toàn cầu hoá kinh tế
@@ -856,6 +1078,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Các kết quả nảy sinh từ quá trình khu vực hoá kinh tế, bao gồm việc tạo lập thị trường sản xuất và tiêu dùng rộng lớn, thúc đẩy thương mại – đầu tư nội khối, nâng cao trình độ khoa học – công nghệ, mở cửa thị trường quốc gia và tạo cơ hội việc làm. Tuy nhiên, quá trình này cũng hình thành các rào cản thương mại về thuế và tiêu chuẩn chất lượng đối với những nước bên ngoài khu vực.
 - **Bối cảnh:** Địa lí lớp 11, Bài 2 (Mục II.2): Đánh giá các hệ quả tích cực đối với nội khối và rào cản đối với bên ngoài của khu vực hoá kinh tế.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B2 (Mục II.2), tr. 12; SGK Địa lí 11 KNTT, Phần một, B2 (Mục II.3), tr. 12
+
+### conservation of the Amazon rainforest
+- **Tiếng Việt:** Bảo vệ rừng A-ma-dôn
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Urgent measures aimed at halting the rapid decline of the Amazon rainforest caused by logging, agricultural expansion, mining, road construction, and wildfires. Key actions include strengthening oversight of logging activities, reforesting degraded areas, raising public awareness, and promoting the conservation role of indigenous peoples.
+- **Giải thích (VI):** Hệ thống các biện pháp cấp bách nhằm ngăn chặn sự suy giảm nhanh chóng diện tích rừng A-ma-dôn do khai thác gỗ, lấy đất canh tác, khai khoáng, làm đường giao thông và cháy rừng. Các giải pháp chính gồm tăng cường giám sát khai thác rừng, trồng phục hồi rừng, tuyên truyền và đẩy mạnh vai trò của người dân bản địa trong bảo vệ rừng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 2.b): các giải pháp cấp thiết nhằm ngăn chặn suy giảm diện tích rừng A-ma-dôn do khai phá và cháy rừng.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2.b), tr. 155
 
 ### consumer goods manufacturing industry
 - **Tiếng Việt:** Công nghiệp sản xuất hàng tiêu dùng
@@ -892,6 +1122,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Giáo dục Kinh tế và Pháp luật lớp 12, Bài 15 (Mục 3.b): vùng biển tiếp liền ngoài lãnh hải nơi quốc gia ven biển thực hiện quyền chủ quyền và quyền kiểm soát chuyên biệt.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7, 8; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.a), tr. 121; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.b), tr. 121, 122
 
+### continent
+- **Tiếng Việt:** Châu lục
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A major division of the world comprising multiple countries located on continental landmasses and their dependent islands.
+- **Giải thích (VI):** Bộ phận của thế giới bao gồm nhiều quốc gia nằm trên các đại lục và các đảo phụ thuộc.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 1 (Mục 1): so sánh quy mô diện tích của châu Âu (trên 10 triệu km², chỉ lớn hơn châu Đại Dương) với các châu lục khác.
+  - *Lưu ý:* Phân biệt với lục địa: châu lục là bộ phận phân chia thế giới bao gồm nhiều quốc gia trên phần đại lục cùng các đảo, quần đảo phụ thuộc.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 96
+
 ### continental air mass
 - **Tiếng Việt:** Khối khí lục địa
 - **Chuyên ngành gốc:** Địa lí
@@ -900,6 +1140,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 3): phân loại khối khí theo bề mặt tiếp xúc đất liền và phân biệt với khối khí đại dương.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 143
 
+### continental climate in Asia
+- **Tiếng Việt:** Khí hậu lục địa ở châu Á
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A climate group distributed mainly across interior Asia and Western Asia, characterized by cold, dry winters, hot, dry summers, and very low average annual rainfall of only about 200–500 mm per year.
+- **Giải thích (VI):** Nhóm kiểu khí hậu phân bố chủ yếu trong các vùng nội địa và khu vực Tây Á, có mùa đông khô và lạnh, mùa hạ khô và nóng với lượng mưa trung bình năm rất thấp (chỉ khoảng 200 – 500 mm/năm).
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 5 (Mục 2.c): nhóm kiểu khí hậu khô hạn chiếm diện tích lớn ở các vùng nội địa châu Á và Tây Á.
+  - *Lưu ý:* Khác với khí hậu gió mùa ở châu Á (mùa hạ nóng ẩm, mưa nhiều), khí hậu lục địa khô hạn cả hai mùa với lượng mưa trung bình năm chỉ khoảng 200 – 500 mm.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.a), tr. 111; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.b), tr. 111; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.c), tr. 111
+
 ### continental crust
 - **Tiếng Việt:** Vỏ lục địa
 - **Chuyên ngành gốc:** Địa lí
@@ -907,6 +1157,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Kiểu vỏ Trái Đất phân bố ở lục địa có độ dày lên tới khoảng 70 km và cấu tạo chủ yếu bằng đá granit. Từ trên xuống dưới, lớp vỏ này gồm ba tầng: tầng trầm tích không liên tục do vật liệu vụn nhỏ nén chặt, tầng granit gồm các loại đá nhẹ và bên dưới là tầng badan gồm các loại đá nặng hơn.
 - **Bối cảnh:** Địa lí lớp 10, Bài 4 (Mục 2): Phân tích cấu tạo ba tầng đá của vỏ lục địa và đối sánh với vỏ đại dương.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 16; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 3), tr. 16
+
+### continental high islands near Australia
+- **Tiếng Việt:** Đảo núi cao gần lục địa Ô-xtrây-li-a
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Islands and archipelagos situated near the Australian continent that are predominantly mountainous in relief. These islands possess diverse mineral resources such as gold, iron, coal, and petroleum.
+- **Giải thích (VI):** Nhóm các đảo và quần đảo nằm gần lục địa Ô-xtrây-li-a có địa hình hầu hết là đảo núi cao. Trên các đảo này có nhiều loại khoáng sản như vàng, sắt, than đá và dầu mỏ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 2.a): đặc điểm địa hình và khoáng sản của các đảo lớn nằm gần lục địa Ô-xtrây-li-a.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.a), tr. 158; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.b), tr. 158; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.b), tr. 158, 159
+
+### continental landmass
+- **Tiếng Việt:** Lục địa
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A large continuous landmass on the Earth's surface surrounded by seas and oceans.
+- **Giải thích (VI):** Khối đất liền lớn trên bề mặt Trái Đất, xung quanh có biển và đại dương bao bọc.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 1 (Mục 1): xác định vị trí châu Âu là bộ phận phía tây của lục địa Á – Âu, ngăn cách với châu Á bởi dãy U-ran.
+  - *Lưu ý:* Phân biệt với châu lục: lục địa là khối đất liền lớn thuần tuý về tự nhiên có biển và đại dương bao bọc, không tính các đảo phụ thuộc.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 96
 
 ### continental shelf
 - **Tiếng Việt:** Thềm lục địa (Vùng thềm lục địa)
@@ -943,6 +1211,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Định hướng hợp tác chiến lược của Liên minh châu Âu kết hợp giữa thiết lập tiêu chuẩn công nghệ, kiểm soát dữ liệu trong các lĩnh vực mũi nhọn (trí tuệ nhân tạo, điện toán đám mây, thiết bị di động, công nghệ lượng tử) với phát triển kinh tế xanh. Các nước thành viên thống nhất thúc đẩy tăng trưởng cân bằng, tiến bộ xã hội, bảo vệ môi trường và giảm phát thải các-bon, tiêu biểu qua Thoả thuận Xanh (2020) hướng tới giảm ít nhất 55% khí nhà kính vào năm 2030 so với mức năm 1990.
 - **Bối cảnh:** Địa lí lớp 11, Bài 9 (Mục III.3): Trình bày các lĩnh vực hợp tác mới về công nghệ số và kinh tế xanh định hình vị thế của EU.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục III.3), tr. 43
+
+### Cordillera mountain system
+- **Tiếng Việt:** Miền núi Coóc-đi-e
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** One of the world's largest mountain systems located in western North America, stretching approximately 9,000 km north–south with an average elevation of 3,000–4,000 m, composed of parallel mountain ranges interspersed with plateaus and highlands.
+- **Giải thích (VI):** Một trong những hệ thống núi lớn nhất thế giới nằm ở phía tây lục địa Bắc Mỹ, trải dài khoảng 9 000 km theo hướng bắc – nam với độ cao trung bình 3 000 – 4 000 m, gồm nhiều dãy núi chạy song song xen kẽ các cao nguyên và sơn nguyên.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 1): khu vực địa hình núi cao phía tây trong ba miền địa hình chính của Bắc Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 1), tr. 142
 
 ### Coriolis effect
 - **Tiếng Việt:** Sự lệch hướng chuyển động của vật thể (lực Cô-ri-ô-lít)
@@ -1025,6 +1301,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quá trình ngoại lực tích tụ các vật liệu sau vận chuyển để tạo ra các dạng địa hình bồi tụ như đồng bằng, bãi bồi.
 - **Bối cảnh:** Địa lí lớp 10, Bài 7 (Mục 2.b): Phân tích cơ chế tích tụ vật liệu hình thành các dạng địa hình bồi tụ.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 2.b), tr. 26
+
+### desert environment
+- **Tiếng Việt:** Môi trường hoang mạc
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A natural environment marked by a harsh arid climate, extremely low rainfall, and a large diurnal temperature range. Its flora and fauna are sparse, with animals consisting mainly of heat- and drought-adapted species such as venomous snakes, monitor lizards, and rodents.
+- **Giải thích (VI):** Môi trường tự nhiên có khí hậu khô hạn khắc nghiệt, lượng mưa rất ít và biên độ nhiệt độ giữa ngày và đêm lớn. Hệ sinh vật tại đây nghèo nàn, động vật chủ yếu gồm các loài thích nghi với điều kiện khô nóng như rắn độc, kì đà và một số loài gặm nhấm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2.d): hai vùng môi trường khô hạn rộng lớn ở Bắc Phi (hoang mạc Xa-ha-ra) và Nam Phi (hoang mạc Ca-la-ha-ri, Na-míp).
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 131
+
+### desertification (geography)
+- **Tiếng Việt:** Hoang mạc hoá
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The land degradation process and phenomenon in which soil becomes severely arid and barren, preventing natural vegetation from regenerating and crops from being cultivated.
+- **Giải thích (VI):** Quá trình và hiện tượng suy thoái làm đất đai trở nên khô cằn kiệt quệ, khiến thảm cỏ cây tự nhiên không thể tái sinh và cây trồng không thể canh tác được.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 9 (Mục 3) và Bài 11 (Mục 3, 4): thách thức môi trường nghiêm trọng tại vùng rìa các hoang mạc ở châu Phi do biến đổi khí hậu và khai thác quá mức.
+  - *Lưu ý:* Không nhầm với 'Sa mạc hoá' (`desertification`) trong Sinh học.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 3), tr. 132; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 137; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178
 
 ### deserts of Southwest Asia
 - **Tiếng Việt:** Hoang mạc Tây Nam Á
@@ -1231,6 +1525,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong tiếng Anh hành chính và giáo dục tại Việt Nam dùng chuẩn là East Sea (hoặc Bien Dong); trong tài liệu địa lí và hàng hải quốc tế thường ghi là South China Sea.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B33, tr. 165; SGK Địa lí 12 KNTT, Phần 4, B33 (Mục I.1), tr. 165; SGK Địa lí 12 KNTT, Phần 4, B33 (Mục I.2), tr. 165
 
+### Eastern Asia
+- **Tiếng Việt:** Khu vực Đông Á
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A region covering approximately 11.5 million km² in eastern Asia, consisting of a mainland portion accounting for over 96% of its area (with high mountains, plateaus, and large basins in the west, and low mountains and broad plains with the Yellow and Yangtze rivers in the east) and a mountainous insular portion. Its island arc experiences frequent volcanic activity, earthquakes, and tsunamis.
+- **Giải thích (VI):** Khu vực rộng khoảng 11,5 triệu km² ở phía đông châu Á, gồm phần đất liền chiếm hơn 96% diện tích (phía tây là núi, sơn nguyên cao và bồn địa lớn; phía đông là núi thấp và đồng bằng rộng với các sông Hoàng Hà, Trường Giang) và phần hải đảo nhiều đồi núi. Phần hải đảo nằm trên đới hoạt động mạnh của núi lửa, động đất và sóng thần.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 2.e): sự phân hoá tự nhiên giữa phần đất liền và phần hải đảo của khu vực Đông Á.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.e), tr. 123; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.e), tr. 123, 124; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.e), tr. 124
+
 ### Eastern Hemisphere
 - **Tiếng Việt:** Bán cầu Đông
 - **Chuyên ngành gốc:** Địa lí
@@ -1262,6 +1564,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hình thức hợp tác khu vực ở mức độ cao nhất của Liên minh châu Âu, trong đó các nước thành viên thống nhất thực hiện chính sách kinh tế chung, chính sách tiền tệ chung và hệ thống tiền tệ chung gồm ngân hàng chung và đồng tiền chung. Cơ chế này thúc đẩy thương mại, lưu thông lao động và hàng hoá, minh bạch giá cả và cạnh tranh công bằng, dù đồng tiền chung vẫn tiềm ẩn rủi ro kinh tế đối với một số nước thành viên.
 - **Bối cảnh:** Địa lí lớp 11, Bài 9 (Mục III.2): Tìm hiểu mức độ liên kết kinh tế – tiền tệ và vai trò của đồng tiền chung trong Liên minh châu Âu.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục III.2), tr. 42, 43
+
+### economic centers in North America
+- **Tiếng Việt:** Trung tâm kinh tế ở Bắc Mỹ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Major economic hubs formed across North America as a result of strong economic development, characterized by a diversified sectoral structure.
+- **Giải thích (VI):** Các đầu mối kinh tế quan trọng hình thành ở Bắc Mỹ trên cơ sở nền kinh tế phát triển mạnh, có cơ cấu ngành đa dạng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 2): hệ thống các trung tâm kinh tế lớn với cơ cấu ngành đa dạng phân bố ở Hoa Kỳ và Ca-na-đa.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 147; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 147, 148
 
 ### economic characteristics of developed countries
 - **Tiếng Việt:** Đặc điểm kinh tế của các nước phát triển
@@ -1561,10 +1871,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A set of measures for conserving, rationally utilizing, or restoring biota (microorganisms, plants, animals) and abiotic habitats (soil, water, air, subsurface, climate), combined with applying low-waste or zero-waste technologies. Its core objective is to maintain ecological balance and establish an optimal living space for humanity.
 - **Giải thích (VI):** Tập hợp các biện pháp giữ gìn, sử dụng hợp lí hoặc phục hồi sinh giới (vi sinh vật, thực vật, động vật) và môi sinh (đất, nước, không khí, lòng đất, khí hậu), kết hợp áp dụng công nghệ ít hoặc không có phế liệu. Mục tiêu cốt lõi của hoạt động này là duy trì cân bằng sinh thái và tạo lập không gian tối ưu cho cuộc sống con người.
 - **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A set of measures for preserving, rationally utilizing, and restoring living organisms and environmental components (soil, water, air, subsoil, and climate), combined with efficient resource-use equipment and low- or zero-waste technologies to create an optimal human living space. / VI: Tập hợp các biện pháp giữ gìn, sử dụng hợp lí và phục hồi giới sinh vật cùng các thành phần môi trường sống (đất, nước, không khí, lòng đất, khí hậu), kết hợp ứng dụng thiết bị khai thác hợp lí và công nghệ sạch ít phế liệu nhằm tạo lập không gian sống tối ưu cho con người.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A set of measures to preserve, rationally use, or restore the biosphere (microorganisms, plants, animals) and physical environment (soil, water, air, subsoil, climate), alongside testing resource-use equipment and applying low- or zero-waste technologies to create an optimal living space for humans. / VI: Tập hợp các biện pháp giữ gìn, sử dụng hoặc phục hồi hợp lí sinh giới (vi sinh vật, thực vật, động vật) và môi sinh (đất, nước, không khí, lòng đất, khí hậu), kết hợp nghiên cứu thử nghiệm thiết bị sử dụng tài nguyên và áp dụng công nghệ ít hoặc không có phế liệu nhằm tạo không gian tối ưu cho cuộc sống con người.
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 26 (Mục 2.b): các biện pháp gìn giữ và phục hồi môi trường trong phát triển nông nghiệp xanh, giao thông vận tải và tăng trưởng bền vững.
   - Lịch sử và Địa lí lớp 6, Bài 29 (Mục 2): Hệ thống giải pháp tổng thể nhằm duy trì chất lượng môi trường sống của con người.
-- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.a), tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 2.b), tr. 77; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 2), tr. 186
+  - Lịch sử và Địa lí lớp 7, Bài 3 (Mục 1): cơ sở khái niệm cho việc triển khai các biện pháp bảo vệ môi trường không khí và môi trường nước ở châu Âu.
+- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.a), tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 2.b), tr. 77; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 2), tr. 186; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1.b), tr. 105
 
 ### Equator
 - **Tiếng Việt:** Vĩ tuyến gốc (Xích đạo)
@@ -1573,6 +1885,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đường vĩ tuyến lớn nhất mang số độ 0° bao quanh quả Địa Cầu, chia Trái Đất thành bán cầu Bắc và bán cầu Nam đồng thời làm mốc xác định các vĩ tuyến bắc và vĩ tuyến nam.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 1 (Mục 1): mốc vĩ tuyến 0° để xác định các vĩ tuyến bắc, vĩ tuyến nam và phân chia hai bán cầu Bắc – Nam.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1, tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 103
+
+### equatorial environment
+- **Tiếng Việt:** Môi trường xích đạo
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A natural environment distributed along the equatorial belt (typified in Africa by the Congo Basin and the northern coast of the Gulf of Guinea), characterized by a uniformly hot, humid climate with abundant rainfall and evergreen dense rainforest vegetation.
+- **Giải thích (VI):** Môi trường tự nhiên phân bố dọc đới Xích đạo (điển hình tại bồn địa Công-gô và duyên hải phía bắc vịnh Ghi-nê ở châu Phi), đặc trưng bởi nền khí hậu nóng ẩm điều hoà, mưa nhiều và thảm thực vật rừng rậm xanh quanh năm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2.d): một trong các môi trường tự nhiên phân bố đối xứng qua đường Xích đạo ở châu Phi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 130
+
+### euro
+- **Tiếng Việt:** Đồng Ơ-rô
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The common currency unit used within the shared monetary system established by the European Union (EU).
+- **Giải thích (VI):** Đơn vị tiền tệ chung được sử dụng trong hệ thống tiền tệ chung do Liên minh châu Âu (EU) thiết lập.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 4 (Mục 1): đơn vị tiền tệ chung được sử dụng trong hệ thống tiền tệ chung của Liên minh châu Âu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4 (Mục 1), tr. 108; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4 (Mục 2), tr. 108
 
 ### European Commission
 - **Tiếng Việt:** Uỷ ban châu Âu
@@ -1601,12 +1929,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39, 40
 
 ### European Single Market
-- **Tiếng Việt:** Thị trường chung EU
+- **Tiếng Việt:** Thị trường chung EU (Thị trường kinh tế duy nhất của EU)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The unified economic space of the European Union built upon four fundamental freedoms: the free movement of people, services, goods, and capital. Operating on principles of close cooperation, fair competition, and transparent procedures, it reduces trade barriers, promotes specialization, creates jobs, and improves the business environment.
 - **Giải thích (VI):** Không gian kinh tế thống nhất của Liên minh châu Âu được xây dựng trên cơ sở bốn quyền tự do lưu thông gồm tự do di chuyển con người, dịch vụ, hàng hoá và tiền vốn. Thị trường này vận hành theo nguyên tắc hợp tác chặt chẽ, cạnh tranh bình đẳng và thủ tục minh bạch nhằm giảm rào cản thương mại, thúc đẩy chuyên môn hoá, tạo việc làm và cải thiện môi trường kinh doanh.
-- **Bối cảnh:** Địa lí lớp 11, Bài 9 (Mục III.1): Phân tích biểu hiện hợp tác và liên kết khu vực thông qua bốn quyền tự do lưu thông trong Thị trường chung EU.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục III.1), tr. 41, 42
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A unified economic market encompassing the territories of all European Union member states, set by the EU as its core objective from its inception. / VI: Không gian thị trường chung bao gồm lãnh thổ của tất cả các quốc gia thành viên Liên minh châu Âu, là mục tiêu trọng tâm được EU đặt ra ngay từ khi mới thành lập.
+- **Bối cảnh:**
+  - Địa lí lớp 11, Bài 9 (Mục III.1): Phân tích biểu hiện hợp tác và liên kết khu vực thông qua bốn quyền tự do lưu thông trong Thị trường chung EU.
+  - Lịch sử và Địa lí lớp 7, Bài 4 (Mục 2): mục tiêu trọng tâm đưa Liên minh châu Âu trở thành trung tâm trao đổi hàng hoá, dịch vụ và tài chính lớn trên thế giới.
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục III.1), tr. 41, 42; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4 (Mục 1), tr. 108; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4 (Mục 2), tr. 108
+
+### European Union
+- **Tiếng Việt:** Liên minh châu Âu (EU)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A regional organization preceded by the European Economic Community (1957) and officially founded on November 1, 1993, with its headquarters in Brussels, Belgium. In 2020, it had 27 member states and a population of about 447 million, operating a single market and a common monetary system (the euro).
+- **Giải thích (VI):** Tổ chức liên kết khu vực có tiền thân là Cộng đồng Kinh tế châu Âu (năm 1957), thành lập chính thức vào ngày 1 tháng 11 năm 1993 với trụ sở đặt tại Brúc-xen (Bỉ). Năm 2020, tổ chức có 27 quốc gia thành viên với số dân khoảng 447 triệu người, đã thiết lập thị trường chung và hệ thống tiền tệ chung (đồng Ơ-rô).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 4 (Mục 1): tổ chức kinh tế khu vực có tầm ảnh hưởng toàn cầu và là một trong bốn trung tâm kinh tế lớn trên thế giới.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4, tr. 107; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4 (Mục 1), tr. 107; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4 (Mục 1), tr. 108
 
 ### exclusive economic zone
 - **Tiếng Việt:** Vùng đặc quyền kinh tế
@@ -1637,6 +1976,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Các quá trình địa chất xảy ra ở bên ngoài, trên bề mặt Trái Đất. Quá trình ngoại sinh có xu hướng phá vỡ, san bằng các địa hình do nội sinh tạo nên và đồng thời hình thành các dạng địa hình mới.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 11 (Mục 1): phân biệt tác động phá huỷ, san bằng địa hình trên bề mặt Trái Đất với quá trình nội sinh.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11, tr. 131; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11 (Mục 1), tr. 131; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 132
+
+### exploration and research history of Antarctica
+- **Tiếng Việt:** Lịch sử khám phá và nghiên cứu châu Nam Cực
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The timeline of human discovery and scientific investigation of Antarctica beginning when Russian navigators Bellingshausen and Lazarev sighted the continent in 1820, followed by Borchgrevink landing on the mainland in 1900 and Amundsen reaching the South Pole on December 14, 1911. Since 1957, comprehensive research has expanded markedly, with about 1,000–5,000 personnel from many nations rotating annually through research stations across the continent.
+- **Giải thích (VI):** Tiến trình con người phát hiện và khảo sát khoa học châu Nam Cực mở đầu khi hai nhà hàng hải Nga Bê-linh-hao-den và La-da-rép phát hiện lục địa năm 1820, Boóc-rơ-grê-vim đặt chân lên lục địa năm 1900 và A-mun-sen tới điểm cực Nam ngày 14-12-1911. Từ năm 1957, việc nghiên cứu châu Nam Cực được xúc tiến mạnh mẽ, toàn diện với khoảng 1 000 – 5 000 người thuộc nhiều quốc gia luân phiên làm việc hằng năm tại các trạm nghiên cứu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 19 (Mục 1): các mốc thời gian tiêu biểu trong quá trình con người phát hiện, chinh phục và nghiên cứu khoa học ở châu Nam Cực.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19, tr. 162; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19 (Mục 1), tr. 162
 
 ### external development resources
 - **Tiếng Việt:** Nguồn lực từ bên ngoài lãnh thổ (nguồn lực ngoài nước)
@@ -1781,6 +2128,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tổ hợp các nhân tố thúc đẩy kinh tế Hoa Kỳ phát triển mạnh, bao gồm vị trí địa lí thuận lợi cho giao thương, tài nguyên thiên nhiên phong phú và nguồn lao động dồi dào có trình độ kĩ thuật, năng suất cao. Đồng thời, Hoa Kỳ phát triển kinh tế thị trường ở mức độ rất cao, sớm xây dựng nền kinh tế tri thức, tham gia toàn cầu hoá kinh tế và luôn gắn liền sản xuất với nghiên cứu khoa học – kĩ thuật.
 - **Bối cảnh:** Địa lí lớp 11, Bài 19 (Mục I.2): Các nhân tố tự nhiên, dân cư và chính sách thúc đẩy sự phát triển kinh tế Hoa Kỳ.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B19 (Mục I.1), tr. 89; SGK Địa lí 11 KNTT, Phần hai, B19 (Mục I.2), tr. 89; SGK Địa lí 11 KNTT, Phần hai, B19 (Mục II.1), tr. 89
+
+### famine in Africa
+- **Tiếng Việt:** Nạn đói ở châu Phi
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A severe food shortage threatening tens of millions of people in Africa annually, particularly acute in Sub-Saharan Africa due to drought and political instability, leaving many countries reliant on international food aid.
+- **Giải thích (VI):** Tình trạng thiếu hụt lương thực trầm trọng đe doạ hàng chục triệu người dân châu Phi mỗi năm, đặc biệt nặng nề tại khu vực nam hoang mạc Xa-ha-ra do hạn hán và bất ổn chính trị, khiến nhiều quốc gia phải phụ thuộc vào viện trợ lương thực quốc tế.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 1.b): một trong những vấn đề xã hội bức thiết nhất tại các quốc gia châu Phi hiện nay.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1.b), tr. 133
 
 ### farm
 - **Tiếng Việt:** Trang trại
@@ -2072,6 +2427,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 25 (Mục II.1.a): Vai trò của sự phân hoá địa hình và đất theo chiều tây – đông đối với cơ cấu kinh tế ở Bắc Trung Bộ.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B25 (Mục II.1.a), tr. 111; SGK Địa lí 12 KNTT, Phần 4, B25 (Mục II.1.b), tr. 111; SGK Địa lí 12 KNTT, Phần 4, B25 (Mục II.1.b), tr. 111, 112
 
+### frigid zone in Asia
+- **Tiếng Việt:** Đới lạnh ở châu Á
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A natural zone distributed along a narrow northern strip of Asia with harsh polar and subpolar climates, supporting species-poor vegetation (mainly mosses and lichens, without woody trees) and cold-tolerant or migratory animals.
+- **Giải thích (VI):** Đới thiên nhiên phân bố ở một dải hẹp phía bắc châu Á có khí hậu cực và cận cực lạnh giá khắc nghiệt, thực vật nghèo thành phần loài (chủ yếu là rêu và địa y, không có cây thân gỗ) và động vật gồm các loài chịu lạnh hoặc di cư.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 5 (Mục 2.e): đặc điểm đới thiên nhiên phân bố ở dải hẹp phía bắc châu Á.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.d), tr. 113; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.e), tr. 113; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.e), tr. 113, 114
+
+### frigid zone in Europe
+- **Tiếng Việt:** Đới lạnh ở châu Âu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A natural zone with polar and subpolar climates occupying a small fraction of Europe's territory, including islands and archipelagos in the Arctic Ocean and a narrow northern mainland strip. Its ground is snow-covered almost year-round, and biota are sparse, consisting mainly of mosses, lichens, shrubs, and several cold-adapted animal species.
+- **Giải thích (VI):** Đới thiên nhiên mang khí hậu cực và cận cực chỉ chiếm một phần nhỏ diện tích châu Âu, bao gồm các đảo, quần đảo ở Bắc Băng Dương và một dải hẹp phía bắc châu lục. Mặt đất bị tuyết bao phủ gần như quanh năm, giới sinh vật nghèo nàn với thực vật chủ yếu là rêu, địa y, cây bụi và động vật gồm một số loài chịu lạnh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 1 (Mục 2.d): đặc điểm thiên nhiên các đảo, quần đảo Bắc Băng Dương và dải hẹp cực bắc châu Âu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.b), tr. 99; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.c), tr. 99; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.d), tr. 99
+
+### frigid zone in North America
+- **Tiếng Việt:** Đới lạnh ở Bắc Mỹ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The high-latitude natural zone of North America characterized by freezing polar and subpolar climates, with thick ice and snow covering vast areas. Its warmer southern part has a short summer supporting mosses, lichens, grasses, and shrubs, along with sparse fauna limited to cold-adapted species such as reindeer, Arctic foxes, and migratory birds.
+- **Giải thích (VI):** Đới thiên nhiên ở vùng vĩ độ cao của Bắc Mỹ mang khí hậu cực và cận cực lạnh giá, nhiều nơi có băng tuyết phủ dày trên diện tích rộng. Phía nam ấm hơn với mùa hạ ngắn, thực vật chủ yếu là rêu, địa y, cỏ, cây bụi và động vật nghèo nàn gồm một số loài chịu lạnh như tuần lộc, cáo Bắc cực cùng chim di cư.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 4): đới thiên nhiên phân bố ở vùng cực bắc lãnh thổ Bắc Mỹ với cảnh quan băng tuyết và đài nguyên.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 3), tr. 144; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 4), tr. 144
+
 ### future orientation of industrial development
 - **Tiếng Việt:** Định hướng phát triển công nghiệp trong tương lai
 - **Chuyên ngành gốc:** Địa lí
@@ -2122,6 +2501,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với vỏ Trái Đất (chỉ là lớp vỏ đá cứng ngoài cùng của thạch quyển, trong khi vỏ địa lí bao gồm cả thuỷ quyển, sinh quyển, phần khí quyển dưới lớp ô-dôn và phần trên của thạch quyển).
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B17, tr. 51; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 1.a), tr. 51
 
+### geographical and historical consequences of the discovery of the Americas
+- **Tiếng Việt:** Hệ quả địa lí – lịch sử của việc phát kiến ra châu Mỹ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The far-reaching impacts of Christopher Columbus's transatlantic voyages (beginning in 1492): revealing a new continent (the Americas), opening new intercontinental sea routes, and initiating European colonization and resource extraction there. The event also accelerated migration from other continents to the Americas and introduced Western culture to the region.
+- **Giải thích (VI):** Những tác động sâu rộng từ cuộc hành trình vượt Đại Tây Dương của C. Cô-lôm-bô (năm 1492): tìm ra châu lục mới (châu Mỹ), mở đường biển mới giữa các châu lục và khởi đầu thời kì người châu Âu xâm chiếm, khai thác tài nguyên tại đây. Sự kiện này đồng thời thúc đẩy làn sóng di dân từ các châu lục khác tới châu Mỹ và du nhập nền văn hoá phương Tây vào vùng đất mới.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 2): ý nghĩa địa lí, lịch sử, dân cư và văn hoá của sự kiện phát kiến ra châu Mỹ cuối thế kỉ XV.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 2), tr. 141
+
 ### geographical coordinates
 - **Tiếng Việt:** Toạ độ địa lí
 - **Chuyên ngành gốc:** Địa lí
@@ -2129,6 +2516,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cặp thông số gồm vĩ độ và kinh độ dùng để xác định vị trí chính xác của một địa điểm bất kì trên bề mặt quả Địa Cầu hoặc bản đồ.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 1 (Mục 2): cách ghi và xác định vị trí của một địa điểm trên quả Địa Cầu và bản đồ thông qua vĩ độ và kinh độ.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 103
+
+### geographical discoveries
+- **Tiếng Việt:** Phát kiến địa lí
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A conventional term referring to the maritime expeditions and discoveries of new lands and sea routes by European explorers in the 15th and 16th centuries while seeking new ocean routes to the East for spices and treasure.
+- **Giải thích (VI):** Thuật ngữ quy ước chỉ các cuộc thám hiểm hàng hải và những phát hiện mới về vùng đất, đại dương của các nhà thám hiểm châu Âu vào thế kỉ XV – XVI nhằm tìm tuyến đường biển mới sang phương Đông để tìm kiếm hương liệu và châu báu.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 2): bối cảnh lịch sử dẫn tới chuyến vượt Đại Tây Dương tìm ra châu Mỹ của C. Cô-lôm-bô năm 1492.
+  - Lịch sử và Địa lí lớp 7, Bài 2 (Mục 1): Các cuộc thám hiểm hàng hải lớn thế kỉ XV – XVI của B. Đi-a-xơ, C. Cô-lôm-bô, V. Ga-ma và Ph. Ma-gien-lăng.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 2), tr. 141; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1.a), tr. 14; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1.a), tr. 15
 
 ### geographical location and natural conditions for the service sector
 - **Tiếng Việt:** Vị trí địa lí và điều kiện tự nhiên đối với ngành dịch vụ
@@ -2153,6 +2550,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Vị trí toạ độ trải từ khoảng vĩ độ 12°B đến 42°B và kinh độ 27°Đ đến 73°Đ ở phía tây nam châu Á, giữ vai trò cầu nối giữa ba châu lục Á, Âu, Phi và nằm trên vùng tiếp xúc các mảng kiến tạo lớn thuộc vành đai sinh khoáng Địa Trung Hải. Khu vực tiếp giáp nhiều biển và vịnh biển lớn (Địa Trung Hải, Biển Đen, Biển Đỏ, biển A-ráp, vịnh Péc-xích), thông ra Đại Tây Dương và Ấn Độ Dương.
 - **Bối cảnh:** Địa lí lớp 11, Bài 15 (Mục I): Phân tích vị trí chiến lược ngã ba ba châu lục và ý nghĩa địa – kinh tế, địa – chính trị của Tây Nam Á.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục I), tr. 67
+
+### geographical location of the Americas
+- **Tiếng Việt:** Vị trí địa lí châu Mỹ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The spatial characteristics of the Americas—the world's second-largest continent at approximately 42 million km², the only one situated entirely in the Western Hemisphere, and spanning the widest latitudinal range (mainland from about 72°N to 54°S). Bounded by major oceans and largely isolated from other continents, it comprises North America and South America linked by the Isthmus of Central America.
+- **Giải thích (VI):** Đặc điểm không gian của châu Mỹ — châu lục rộng khoảng 42 triệu km² (lớn thứ hai thế giới), duy nhất nằm hoàn toàn ở bán cầu Tây và trải dài trên nhiều vĩ độ nhất (phần đất liền từ khoảng 72°B đến 54°N). Lãnh thổ tiếp giáp các đại dương lớn nên gần như tách biệt với các châu lục khác, gồm hai lục địa Bắc Mỹ và Nam Mỹ nối với nhau qua eo đất Trung Mỹ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 1): đặc điểm nổi bật về phạm vi lãnh thổ, toạ độ vĩ độ và vị trí ở bán cầu Tây của châu Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 1), tr. 139; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 1), tr. 139, 140
 
 ### geographical location of the Bien Dong Sea
 - **Tiếng Việt:** Vị trí địa lí của Biển Đông
@@ -2298,6 +2703,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 2 (Mục 2): nhận biết hình dạng lưới kinh, vĩ tuyến của phép chiếu hình nón và phép chiếu hình trụ trên bản đồ thế giới.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B2, tr. 104; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1), tr. 104; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2), tr. 104, 105
 
+### Great Dividing Range
+- **Tiếng Việt:** Dãy Trường Sơn Ô-xtrây-li-a
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A mountain range running along the eastern side of the Australian continent with an average elevation of 800–1,000 m, featuring steep eastern slopes and gentler western slopes descending toward the Central Lowlands. It contains abundant fuel mineral deposits including coal, petroleum, and natural gas.
+- **Giải thích (VI):** Dãy núi ở phía đông lục địa Ô-xtrây-li-a cao trung bình 800 – 1 000 m, có sườn đông dốc và sườn tây thoải dần về phía vùng đồng bằng Trung tâm. Đây là nơi tập trung nhiều khoáng sản nhiên liệu gồm than đá, dầu mỏ và khí tự nhiên.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 2.a): khu vực miền núi phía đông lục địa Ô-xtrây-li-a giàu khoáng sản nhiên liệu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.a), tr. 158; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.b), tr. 158; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.b), tr. 158, 159
+
+### Great Green Wall
+- **Tiếng Việt:** Vành đai xanh
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A large-scale ecological project in Africa launched in 2007 to plant millions of trees forming a natural forest barrier over 8,000 km long stretching east to west across the continent to halt the expansion of the Sahara Desert.
+- **Giải thích (VI):** Dự án sinh thái quy mô lớn tại châu Phi khởi động từ năm 2007, trồng hàng triệu cây xanh tạo thành dải rừng chắn tự nhiên dài hơn 8 000 km vắt ngang từ đông sang tây lục địa nhằm ngăn chặn sự mở rộng của hoang mạc Xa-ha-ra.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 3): giải pháp hợp tác quốc tế quy mô châu lục nhằm chống hoang mạc hoá ở châu Phi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 137; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178
+
+### Great Lakes
+- **Tiếng Việt:** Hệ thống Ngũ Hồ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A system of five large freshwater lakes in North America comprising Lake Superior, Lake Michigan, Lake Huron, Lake Erie, and Lake Ontario. Among them, Lake Superior is the largest freshwater lake in the world by surface area, covering over 82,000 km².
+- **Giải thích (VI):** Hệ thống gồm năm hồ nước ngọt lớn ở Bắc Mỹ là hồ Thượng, hồ Mi-si-gân, hồ Hu-rôn, hồ Ê-ri-ê và hồ Ôn-ta-ri-ô. Trong đó, hồ Thượng là hồ nước ngọt có diện tích lớn nhất thế giới với hơn 82 000 km².
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 3): cụm năm hồ nước ngọt lớn tiêu biểu cho mạng lưới hồ phong phú của Bắc Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 3), tr. 143; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 3), tr. 143, 144
+
 ### Great Lakes region
 - **Tiếng Việt:** Vùng Ngũ Hồ
 - **Chuyên ngành gốc:** Địa lí
@@ -2312,10 +2741,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An approach to agricultural development that maximizes opportunities to harness clean resources in order to achieve sustainable growth closely tied to environmental protection. This represents an essential development orientation of modern global agriculture.
 - **Giải thích (VI):** Phương thức phát triển nông nghiệp thông qua việc tối đa hoá cơ hội khai thác các nguồn tài nguyên sạch nhằm đạt mức tăng trưởng bền vững và gắn kết chặt chẽ với bảo vệ môi trường. Đây là định hướng phát triển tất yếu của nền nông nghiệp thế giới hiện đại.
 - **Giải thích khác (SGK Địa lí 12):** EN: An efficient, sustainable, and multi-value agricultural development approach linked with post-harvest preservation, deep processing, and domestic and export market expansion. This model emphasizes food safety, national food security, ecological conservation, and climate change adaptation. / VI: Phương thức phát triển nông nghiệp hiệu quả, bền vững và tích hợp đa giá trị gắn với bảo quản sau thu hoạch, công nghiệp chế biến và mở rộng thị trường nông sản trong và ngoài nước. Mô hình này chú trọng bảo đảm an toàn thực phẩm, an ninh lương thực quốc gia, bảo vệ môi trường sinh thái và thích ứng với biến đổi khí hậu.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: An agricultural production approach that applies science and technology to achieve high yields while protecting soil resources. In North America, this farming model helps remediate soil degradation caused by prolonged heavy use of chemical fertilizers and pesticides. / VI: Phương thức sản xuất nông nghiệp đẩy mạnh ứng dụng khoa học – công nghệ nhằm đem lại năng suất cao đồng thời bảo vệ tài nguyên đất. Tại Bắc Mỹ, hướng canh tác này giúp khắc phục tình trạng thoái hoá đất do sử dụng lượng lớn phân bón và thuốc bảo vệ thực vật hoá học trong thời gian dài.
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 23 (Mục 3): xu hướng phát triển nông nghiệp bền vững gắn với khai thác tài nguyên sạch và bảo vệ môi trường.
   - Địa lí lớp 12, Bài 11 (Mục IV): định hướng phát triển nông nghiệp bền vững và thân thiện với môi trường ở Việt Nam.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 2), tr. 67; SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 3), tr. 68; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục I.2.a), tr. 50; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục III.2), tr. 56; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục IV), tr. 56
+  - Lịch sử và Địa lí lớp 7, Bài 15 (Mục 3): phương thức khai thác bền vững tài nguyên đất tại các đồng bằng Bắc Mỹ.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 2), tr. 67; SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 3), tr. 68; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục I.2.a), tr. 50; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục III.2), tr. 56; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục IV), tr. 56; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 148
 
 ### green growth
 - **Tiếng Việt:** Tăng trưởng xanh
@@ -2384,6 +2815,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 11 (Mục 2.d): Giải thích hiện tượng nước ngầm lộ ra trên mặt đất và sự hình thành ốc đảo ở hoang mạc.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.c), tr. 39; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.d), tr. 39; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.d), tr. 39, 40
 
+### Guiana Highlands and Brazilian Highlands
+- **Tiếng Việt:** Sơn nguyên Guy-a-na và sơn nguyên Bra-xin
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Two heavily eroded plateaus in eastern South America characterized mainly by low hills and mountains. The Guiana Highlands have a hot, humid climate with dense forests, whereas the drier Brazilian Highlands feature predominantly open forests and savannas.
+- **Giải thích (VI):** Hai sơn nguyên bị bào mòn mạnh ở phía đông lục địa Nam Mỹ với địa hình chủ yếu là đồi núi thấp. Sơn nguyên Guy-a-na có khí hậu nóng ẩm với rừng rậm rạp, còn sơn nguyên Bra-xin khô hạn hơn nên cảnh quan chủ yếu là rừng thưa và xa van.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 2): khu vực địa hình sơn nguyên phía đông trong sự phân hoá đông – tây của lục địa Nam Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1), tr. 150; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2), tr. 150; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2), tr. 150, 151
+
 ### Gulf Cooperation Council
 - **Tiếng Việt:** Hội đồng Hợp tác Vùng Vịnh (GCC)
 - **Chuyên ngành gốc:** Địa lí
@@ -2415,6 +2854,20 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Dạng địa hình nhô cao có đỉnh tròn, sườn thoải và độ cao tương đối so với vùng đất xung quanh thường không vượt quá 200 m.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 1): nhận biết đặc điểm hình thái và độ cao của đồi để phân biệt với núi.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13, tr. 135; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 1), tr. 135; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 1), tr. 135, 136
+
+### Hinduism
+- **Tiếng Việt:** Ấn Độ giáo (đạo Hin-đu; Hin-đu giáo)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The principal and oldest religion of India, emerging over a millennium BCE through the historical synthesis of indigenous belief and philosophical systems without a single founder, supreme leader, or fixed dogma.
+- **Giải thích (VI):** Tôn giáo chính và cổ xưa nhất của Ấn Độ, hình thành vào khoảng hơn một nghìn năm trước Công nguyên trên cơ sở tổng hợp các hệ tín ngưỡng và triết học bản địa phát triển qua lịch sử mà không có người sáng lập, giáo chủ hay giáo điều riêng biệt.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The oldest and largest major religion of India, which developed out of Brahmanism during the early centuries of the Common Era. / VI: Tôn giáo cổ xưa và lớn nhất ở Ấn Độ, hình thành và phát triển trên cơ sở đạo Bà La Môn vào những thế kỉ đầu Công nguyên.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: The principal and ancient religion of India, which evolved from Brahmanism during the Gupta Empire and has remained predominant to the present day. Having no single founder, supreme pontiff, or fixed dogma, it represents a historical synthesis of diverse Indian religious beliefs and philosophical traditions. / VI: Tôn giáo chính và lâu đời của cư dân Ấn Độ, phát triển từ đạo Bà La Môn dưới thời Vương triều Gúp-ta và thịnh hành cho đến ngày nay. Tôn giáo này không có người sáng lập, giáo chủ hay giáo điều duy nhất mà là sự tổng hợp các hệ thống tín ngưỡng và triết học hoàn thiện dần trong lịch sử Ấn Độ.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1.b): một trong bốn tôn giáo lớn trên thế giới khởi nguồn từ châu Á.
+  - Lịch sử và Địa lí lớp 6, Bài 8 (Mở đầu, Mục 3): một trong những tôn giáo lớn của thế giới có cội nguồn từ văn minh Ấn Độ cổ đại.
+  - Lịch sử và Địa lí lớp 7, Bài 5 (Mục 1.b và 2.a, 2.c): Tôn giáo bản địa chủ đạo của Ấn Độ gắn với nhiều công trình kiến trúc đền tháp tiêu biểu thời phong kiến.
+  - *Lưu ý:* Không nhầm với 'Hin-đu giáo' (`Hinduism (history)`) trong Lịch sử.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 116; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8, tr. 34; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37, 38; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.b), tr. 30
 
 ### Hoang Sa Archipelago
 - **Tiếng Việt:** Quần đảo Hoàng Sa
@@ -2470,6 +2923,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 16 (Mục 2.a): nhận biết dụng cụ và đơn vị đo độ ẩm không khí.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1.b), tr. 147; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 2.a), tr. 147, 148
 
+### iceberg
+- **Tiếng Việt:** Núi băng trôi (băng trôi)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A large mass of ice that breaks off from a continental ice sheet as ice moves from the interior toward the coast and floats out to sea. Such drifting ice masses pose a serious hazard to ships navigating Antarctic waters.
+- **Giải thích (VI):** Khối băng lớn hình thành khi lớp băng phủ lục địa di chuyển từ vùng trung tâm ra biển rồi vỡ ra và trôi nổi trên đại dương. Các khối băng này gây nhiều nguy hiểm cho tàu thuyền qua lại trên vùng biển Nam Cực.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 19 (Mục 4): hiện tượng các khối băng tách khỏi lớp băng phủ lục địa trôi nổi trên vùng biển Nam Cực.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19 (Mục 4), tr. 165
+
 ### igneous rock
 - **Tiếng Việt:** Đá macma
 - **Chuyên ngành gốc:** Địa lí
@@ -2477,6 +2938,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nhóm đá tạo thành từ quá trình ngưng kết (nguội lạnh) của các silicat nóng chảy, tiêu biểu như đá granit và đá badan.
 - **Bối cảnh:** Địa lí lớp 10, Bài 4 (Mục 3): Giải thích nguồn gốc hình thành và nhận diện các đại diện điển hình của nhóm đá macma.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 16; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 3), tr. 16
+
+### immigration (geography)
+- **Tiếng Việt:** Nhập cư
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The residential relocation of people from elsewhere into a territory, or of foreign nationals without citizenship into a country to settle for economic, political, religious, or racial reasons, either legally or illegally.
+- **Giải thích (VI):** Sự di chuyển nơi cư trú của những người từ nơi khác đến một lãnh thổ hoặc của người nước ngoài không có quốc tịch đến một nước để định cư vì các lí do kinh tế, chính trị, tôn giáo, chủng tộc, diễn ra hợp pháp hoặc trái phép.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 2 (Mục 3): tìm hiểu dòng người từ châu Phi, Trung Đông nhập cư vào châu Âu và di cư trong nội bộ châu Âu.
+  - *Lưu ý:* Không nhầm với 'Mức nhập cư' (`immigration`) trong Sinh học.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3), tr. 103
+
+### immigration and racial composition in North America
+- **Tiếng Việt:** Nhập cư và chủng tộc ở Bắc Mỹ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A multi-stage migration process involving indigenous Mongoloid peoples (Native Americans and Eskimos), Europoid Europeans and Negroid Africans after 1492, and global immigrant waves following World War II. Coexistence and intermarriage among these groups have created a racially diverse population in North America.
+- **Giải thích (VI):** Quá trình di cư nhiều giai đoạn từ cư dân bản địa thuộc chủng tộc Môn-gô-lô-it (người Anh-điêng, E-xki-mô), người châu Âu thuộc chủng tộc Ơ-rô-pê-ô-it, người da đen thuộc chủng tộc Nê-grô-it sau năm 1492 đến các đợt di dân sau Chiến tranh thế giới thứ hai. Sự chung sống và hoà huyết giữa các chủng tộc đã tạo nên thành phần dân cư đa dạng ở Bắc Mỹ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 1.a): lịch sử nhập cư nhiều giai đoạn tạo nên cơ cấu dân cư đa chủng tộc của Bắc Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15, tr. 145; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 1.a), tr. 145; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 1.a), tr. 145, 146
 
 ### immigration rate (geography)
 - **Tiếng Việt:** Tỉ suất nhập cư
@@ -2519,6 +2998,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Những tác động hai mặt về kinh tế, xã hội và môi trường do quá trình phát triển và mở rộng đô thị mang lại. Đô thị hoá hợp lí thúc đẩy chuyển dịch cơ cấu kinh tế, tăng năng suất lao động, tạo việc làm và hiện đại hoá không gian sống, song đô thị hoá tự phát lại làm gia tăng chênh lệch thành thị – nông thôn, quá tải hạ tầng, thiếu việc làm, tắc nghẽn giao thông và ô nhiễm môi trường.
 - **Bối cảnh:** Địa lí lớp 10, Bài 20 (Mục 2.c): Đánh giá tác động tích cực và tiêu cực của đô thị hoá đến kinh tế – xã hội và môi trường.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20, tr. 60
+
+### Indochinese Peninsula
+- **Tiếng Việt:** Bán đảo Trung Ấn
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The mainland portion of Southeast Asia, characterized by a tropical monsoon climate and terrain of medium-elevation mountain ranges running north–south or northwest–southeast interspersed with deeply incised river valleys, alongside coastal and lower-river alluvial plains.
+- **Giải thích (VI):** Bộ phận đất liền của khu vực Đông Nam Á, đặc trưng bởi khí hậu nhiệt đới gió mùa và địa hình các dải núi cao trung bình chạy hướng bắc – nam hoặc tây bắc – đông nam xen kẽ thung lũng sông cắt xẻ sâu, cùng các đồng bằng phù sa ven biển và hạ lưu sông.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 2.g): bộ phận lục địa của khu vực Đông Nam Á phân biệt với phần hải đảo là quần đảo Mã Lai.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124, 125
 
 ### industrial center
 - **Tiếng Việt:** Trung tâm công nghiệp
@@ -2747,6 +3234,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 20 (Mục 1.b): giải thích ý nghĩa kinh tế và môi trường của việc khai thác đa mục đích nước sông, hồ.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 159; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.b), tr. 159; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.b), tr. 159, 160
 
+### integrated water resource utilization
+- **Tiếng Việt:** Khai thác tổng hợp tài nguyên nước
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A multipurpose approach to utilizing river and lake water resources combined with water-quality protection measures such as wastewater treatment regulations and the enactment of the Clean Water Act. This approach enhances water-use efficiency and ensures sustainability in North America.
+- **Giải thích (VI):** Phương thức sử dụng đa mục đích nguồn nước sông, hồ kết hợp với các biện pháp cải thiện chất lượng nước như quy định xử lí nước thải và ban hành Đạo luật nước sạch. Phương thức này giúp tăng hiệu quả sử dụng và bảo đảm tính bền vững của tài nguyên nước ở Bắc Mỹ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 3): phương thức quản lí, bảo vệ và sử dụng đa mục đích nguồn nước sông, hồ ở Bắc Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 148
+
 ### internal development resources
 - **Tiếng Việt:** Nguồn lực bên trong lãnh thổ (nguồn lực trong nước)
 - **Chuyên ngành gốc:** Địa lí
@@ -2801,6 +3296,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 10, Bài 37 (Mục II.3, Em có biết?): Giới thiệu mục đích hoạt động của Quỹ Tiền tệ Quốc tế trong hệ thống tài chính toàn cầu.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B4 (Mục I.2), tr. 15; SGK Địa lí 11 KNTT, Phần một, B4 (Mục I.3), tr. 15; SGK Địa lí 11 KNTT, Phần một, B4 (Mục I.4), tr. 15; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục II.1.b), tr. 106; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục II.2), tr. 106; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục II.3), tr. 106
 
+### Islam
+- **Tiếng Việt:** Hồi giáo
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** One of the four major world religions originating in Asia, founded in the 7th century in Saudi Arabia and widely spread across the world with a large following.
+- **Giải thích (VI):** Một trong bốn tôn giáo lớn trên thế giới khởi nguồn từ châu Á, ra đời vào thế kỉ VII tại A-rập Xê-út và lan truyền rộng rãi khắp thế giới với đông đảo tín đồ.
+- **Giải thích khác (SGK Lịch sử 10):** EN: One of the three major world religions, founded by Muhammad in western Arabia in the seventh century and professing belief in a single Creator, Allah. / VI: Một trong ba tôn giáo lớn có phạm vi toàn thế giới, do Mô-ha-mét sáng lập ở phía tây bán đảo A-rập vào thế kỉ VII và tôn thờ một Đấng Sáng thế duy nhất là Thánh Ala.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1.b): tôn giáo lớn khởi nguồn tại Tây Á và phổ biến rộng rãi ở nhiều khu vực trên thế giới.
+  - Lịch sử lớp 10, Bài 5 (Mục II.2.b): Ảnh hưởng của tôn giáo đối với các công trình kiến trúc thánh đường, cung điện ở Ấn Độ thời trung đại.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 116; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 42; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144
+
 ### island and archipelago system of Vietnam
 - **Tiếng Việt:** Hệ thống đảo và quần đảo của Việt Nam
 - **Chuyên ngành gốc:** Địa lí
@@ -2808,6 +3314,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tập hợp hàng nghìn đảo và quần đảo phân bố trong vùng biển rộng trên 1 triệu km² của Việt Nam, tiêu biểu là hai quần đảo Hoàng Sa (thành phố Đà Nẵng) và Trường Sa (tỉnh Khánh Hoà). Tính đến năm 2022, cả nước có 1 thành phố đảo trực thuộc tỉnh là Phú Quốc (Kiên Giang) và 11 huyện đảo gồm Cô Tô, Vân Đồn, Bạch Long Vĩ, Cát Hải, Cồn Cỏ, Hoàng Sa, Lý Sơn, Trường Sa, Phú Quý, Côn Đảo và Kiên Hải.
 - **Bối cảnh:** Địa lí lớp 12, Bài 33 (Mục I.2): Quy mô vùng biển và hệ thống các đảo, quần đảo, đơn vị hành chính biển đảo của Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B33, tr. 165; SGK Địa lí 12 KNTT, Phần 4, B33 (Mục I.1), tr. 165; SGK Địa lí 12 KNTT, Phần 4, B33 (Mục I.2), tr. 165
+
+### island region of Oceania
+- **Tiếng Việt:** Vùng đảo châu Đại Dương
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The insular division of Oceania located in the central Pacific Ocean, encompassing four subregions: Melanesia, Micronesia, Polynesia, and New Zealand. Spread across a vast oceanic expanse, it contains a huge number of mostly small islands totaling about 1 million km² in area.
+- **Giải thích (VI):** Bộ phận của châu Đại Dương nằm ở trung tâm Thái Bình Dương, bao gồm bốn khu vực là Mê-la-nê-di, Mi-crô-nê-di, Pô-li-nê-di và Niu Di-len. Vùng này trải rộng trên không gian đại dương lớn với số lượng đảo rất nhiều nhưng hầu hết là đảo nhỏ, tổng diện tích khoảng 1 triệu km².
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 1): bốn khu vực quần đảo trên Thái Bình Dương hợp cùng lục địa Ô-xtrây-li-a tạo nên châu Đại Dương.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 1), tr. 157; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.a), tr. 157; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.a), tr. 157, 158
+
+### isthmus
+- **Tiếng Việt:** Eo đất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A narrow strip of land separating two seas or oceans while connecting two larger landmasses or continents.
+- **Giải thích (VI):** Dạng địa hình dải đất hẹp nằm phân cách hai vùng biển hoặc đại dương, đồng thời nối liền hai vùng đất rộng lớn hay hai lục địa với nhau.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 1): khái niệm địa hình áp dụng cho eo đất hẹp Trung Mỹ nối lục địa Bắc Mỹ với lục địa Nam Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 1), tr. 139; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177
 
 ### Japan's foreign direct investment
 - **Tiếng Việt:** Đầu tư trực tiếp nước ngoài của Nhật Bản
@@ -2866,6 +3388,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nền kinh tế phát triển chủ yếu dựa trên sức mạnh của tri thức nhằm vận dụng và sử dụng hiệu quả các nguồn lực kinh tế. Nền kinh tế này bao gồm các hoạt động nghiên cứu, cải tiến, chuyển giao công nghệ với mục đích tạo ra nhiều của cải vật chất, nâng cao chất lượng sống và giá trị tinh thần của con người.
 - **Bối cảnh:** Địa lí lớp 11, Bài 5 (Mục 4): Định nghĩa nền kinh tế tri thức phục vụ bài thực hành viết báo cáo về đặc điểm và biểu hiện.
 - **Nguồn:** SGK Địa lí 11 KNTT, Bảng giải thích thuật ngữ, tr. 165; SGK Địa lí 11 KNTT, Phần một, B5 (Mục 1), tr. 20; SGK Địa lí 11 KNTT, Phần một, B5 (Mục 2), tr. 20
+
+### koala
+- **Tiếng Việt:** Gấu túi
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A distinctive marsupial species native exclusively to Australia, possessing soft gray fur and an abdominal pouch for nursing its young. It is one of Australia's iconic national animals.
+- **Giải thích (VI):** Loài thú có túi đặc trưng chỉ sống ở Ô-xtrây-li-a, có bộ lông mềm màu xám và một túi ấp dưới bụng để nuôi con. Đây là một trong các loài động vật mang tính biểu tượng quốc gia của Ô-xtrây-li-a.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 2.c): một trong các loài thú có túi mang tính biểu tượng quốc gia của Ô-xtrây-li-a.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.c), tr. 159; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178
 
 ### labor distribution in Vietnam
 - **Tiếng Việt:** Phân bố lao động Việt Nam
@@ -2960,6 +3490,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 7 (Mục 1.b, 2.b): Phân biệt các dạng địa hình kiến tạo do nội lực với các dạng địa hình bóc mòn và bồi tụ do ngoại lực.
 - **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 1.b), tr. 24; SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 2.b), tr. 25
 
+### landscape
+- **Tiếng Việt:** Cảnh quan (theo nghĩa rộng)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** In the broad sense, the overall view and natural complex of a region or area on the Earth's surface possessing distinct characteristics of nature, fauna, flora, climate, hydrology, soil, and environment.
+- **Giải thích (VI):** Theo nghĩa rộng, toàn cảnh của một vùng hoặc một khu vực trên bề mặt Trái Đất có những đặc điểm nhất định về thiên nhiên, động vật, thực vật, khí hậu, thuỷ văn, thổ nhưỡng và môi trường.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 5 (Mục 2.e): nhận diện các cảnh quan thảo nguyên, hoang mạc, bán hoang mạc hình thành ở vùng nội địa châu Á.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.e), tr. 113
+
 ### large-scale topographic sketch map
 - **Tiếng Việt:** Lược đồ địa hình tỉ lệ lớn
 - **Chuyên ngành gốc:** Địa lí
@@ -2967,6 +3505,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Lược đồ thể hiện đặc điểm địa hình như độ cao, độ dốc của một khu vực có diện tích nhỏ thông qua hệ thống các đường đồng mức và màu sắc.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 14 (Mục 1): thực hành đọc độ cao, độ dốc và khoảng cách thực tế trên lược đồ địa hình.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B14 (Mục 1), tr. 139; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B14 (Mục 1), tr. 139, 140
+
+### Latin American culture
+- **Tiếng Việt:** Văn hoá Mỹ La-tinh
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A distinctive culture in Central and South America formed through the blending of indigenous civilizations (Maya, Inca, and Aztec) with Spanish and Portuguese European and African cultural traditions. It is characterized by vibrant festivals (such as Carnival, Oruro, Latino, and Parintins), Latin dances, and two primary Romance languages, Spanish and Portuguese.
+- **Giải thích (VI):** Nền văn hoá độc đáo ở Trung và Nam Mỹ hình thành từ sự pha trộn giữa văn hoá bản địa (May-a, In-ca, A-dơ-tếch) với văn hoá của người Âu gốc Tây Ban Nha, Bồ Đào Nha và người gốc Phi. Nền văn hoá này nổi bật với các lễ hội đặc sắc (như Ca-na-van, Ô-ru-rô, La-ti-nô, Pa-rin-tin), các điệu nhảy La-tinh và hai ngôn ngữ chính thuộc ngữ hệ La-tinh là tiếng Tây Ban Nha và tiếng Bồ Đào Nha.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 1.c): nền văn hoá đặc sắc kết hợp truyền thống bản địa với văn hoá châu Âu và châu Phi ở Trung và Nam Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B17, tr. 152; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B17 (Mục 1.a), tr. 152; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B17 (Mục 1.b), tr. 153; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B17 (Mục 1.c), tr. 153, 154
 
 ### latitude
 - **Tiếng Việt:** Vĩ độ
@@ -3116,6 +3662,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Thuật ngữ thuỷ văn chỉ thời kì mực nước sông hạ thấp, phân biệt với 'mùa khô' (dry season) trong khí hậu học.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 159; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.b), tr. 159; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.b), tr. 159, 160
 
+### Madagascar Island
+- **Tiếng Việt:** Đảo Ma-đa-ga-xca
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The largest island in Africa and fourth largest in the world (after Greenland, New Guinea, and Kalimantan), covering nearly 590,000 km² in the Indian Ocean off southeastern Africa, formed from an ancient cratonic fragment that separated from the African mainland around 250 million years ago.
+- **Giải thích (VI):** Hòn đảo lớn nhất châu Phi và đứng thứ tư thế giới (sau các đảo Grơn-len, Niu Ghi-nê, Ca-li-man-tan) với diện tích gần 590 000 km² nằm ở Ấn Độ Dương phía đông nam châu Phi, hình thành từ một mảnh nền cổ tách khỏi lục địa Phi khoảng 250 triệu năm trước.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 1): đảo lớn tiêu biểu ven lục địa trong bối cảnh đường bờ biển châu Phi ít bị chia cắt.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 1), tr. 127; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 1), tr. 127, 128
+
 ### magma
 - **Tiếng Việt:** Macma (Mac-ma)
 - **Chuyên ngành gốc:** Địa lí
@@ -3146,6 +3700,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 9 (Mục 1.a): Phân nhóm các quốc gia Đông Nam Á gắn với lục địa châu Á.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B9, tr. 76; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 1.a), tr. 76; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 1.a), tr. 76, 77
 
+### major and emerging economies of Asia
+- **Tiếng Việt:** Nền kinh tế lớn và nền kinh tế mới nổi của châu Á
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A group of Asian countries distinguished by large gross domestic product scale or dynamic economic growth rates, represented by typical examples such as China, Japan, South Korea, and Singapore.
+- **Giải thích (VI):** Nhóm các quốc gia tiêu biểu về quy mô tổng sản phẩm trong nước lớn hoặc tốc độ phát triển kinh tế năng động hàng đầu ở châu Á, bao gồm các đại diện điển hình như Trung Quốc, Nhật Bản, Hàn Quốc và Xin-ga-po.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 8 (Mục 1.a): các quốc gia tiêu biểu được lựa chọn để sưu tầm tư liệu và viết báo cáo thực hành về kinh tế châu Á.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B8 (Mục 1.a), tr. 126
+
 ### major soil groups on Earth
 - **Tiếng Việt:** Các nhóm đất chính trên Trái Đất
 - **Chuyên ngành gốc:** Địa lí
@@ -3169,6 +3731,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chu trình vận động khép kín không ngừng và chuyển đổi qua lại giữa các trạng thái của nước trong tự nhiên, đưa nước di chuyển liên tục giữa đại dương, khí quyển và lục địa.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 19 (Mục 2): mô tả sự luân chuyển của nước giữa đại dương, khí quyển và lục địa trên Trái Đất.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B19 (Mục 2), tr. 157
+
+### Malay Archipelago
+- **Tiếng Việt:** Quần đảo Mã Lai
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The insular portion of Southeast Asia, featuring predominantly hilly and mountainous terrain, scarce plains, and a hot, humid equatorial climate year-round. It is heavily affected by earthquakes, tsunamis, and active volcanism (with Indonesia alone having around 150 active volcanoes).
+- **Giải thích (VI):** Bộ phận hải đảo của khu vực Đông Nam Á, có địa hình chủ yếu là đồi núi, ít đồng bằng và mang khí hậu xích đạo nóng ẩm quanh năm. Khu vực này chịu tác động mạnh của động đất, sóng thần và núi lửa hoạt động (riêng In-đô-nê-xi-a có khoảng 150 núi lửa đang hoạt động).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 2.g): bộ phận hải đảo của khu vực Đông Nam Á nằm trong vành đai lửa và đới khí hậu xích đạo.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124, 125
 
 ### manifestations of economic globalization
 - **Tiếng Việt:** Biểu hiện của toàn cầu hoá kinh tế
@@ -3414,6 +3984,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 34 (Mục 3.d): phân tích vai trò chủ lực trong luân chuyển hàng hoá quốc tế và sự phân bố cảng biển lớn.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.c), tr. 96; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.d), tr. 96, 97; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.d), tr. 97
 
+### marsupials
+- **Tiếng Việt:** Thú có túi
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A characteristic group of endemic mammals that defines Australia's unique fauna, comprising more than 100 species equipped with an abdominal pouch to nurse their young. Within this group, kangaroos and koalas serve as national symbols of Australia.
+- **Giải thích (VI):** Nhóm động vật đặc sắc tiêu biểu cho tính độc đáo của giới động vật Ô-xtrây-li-a với hơn 100 loài có túi ấp dưới bụng để nuôi con. Trong nhóm này, chuột túi và gấu túi là những loài động vật mang tính biểu tượng quốc gia của Ô-xtrây-li-a.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 2.c): nhóm động vật đặc hữu tiêu biểu làm nên nét đặc sắc của sinh vật Ô-xtrây-li-a.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.b), tr. 159; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.c), tr. 159
+
 ### mean annual precipitation
 - **Tiếng Việt:** Lượng mưa trung bình năm
 - **Chuyên ngành gốc:** Địa lí
@@ -3454,6 +4032,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 19 (Mục 2.b): Trình bày khái niệm và vai trò của biến động dân số do di cư.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.b), tr. 56
 
+### Mediterranean subtropical climate
+- **Tiếng Việt:** Khí hậu cận nhiệt địa trung hải
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A subtropical climate type featuring hot, dry summers with stable weather, mild and wetter winters, and average annual precipitation of about 500–700 mm.
+- **Giải thích (VI):** Kiểu khí hậu thuộc đới cận nhiệt có mùa hạ nóng và khô, thời tiết ổn định, mùa đông ấm và mưa nhiều hơn với lượng mưa trung bình năm khoảng 500 – 700 mm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 1 (Mục 2.b): kiểu khí hậu cận nhiệt đặc trưng ở khu vực phía nam châu Âu ven Địa Trung Hải.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.b), tr. 99; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.c), tr. 99; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.d), tr. 99
+
+### megacities and megalopolises in North America
+- **Tiếng Việt:** Siêu đô thị và dải siêu đô thị ở Bắc Mỹ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Vast urban centers and interconnected urban corridors formed in North America through rapid industrialization, raising the urban population share to 82.6% in 2020. Major cities cluster mainly south of the Great Lakes and along the Atlantic coast, linking together into two megalopolises stretching from New York to Washington and from Montreal to Chicago.
+- **Giải thích (VI):** Hệ thống các đô thị rất lớn và chuỗi đô thị liên kết hình thành ở Bắc Mỹ dưới tác động thúc đẩy của công nghiệp hoá, đưa tỉ lệ dân đô thị đạt 82,6% vào năm 2020. Các đô thị lớn tập trung chủ yếu ở phía nam hệ thống Ngũ Hồ và ven Đại Tây Dương, nối tiếp nhau tạo thành hai dải siêu đô thị từ Niu Oóc đến Oa-sinh-tơn và từ Môn-trê-an đến Si-ca-gô.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 1.b): đặc điểm đô thị hoá gắn với công nghiệp hoá và sự phân bố tập trung đô thị ở Bắc Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 1.a), tr. 146; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 1.b), tr. 146
+
 ### megacity
 - **Tiếng Việt:** Siêu đô thị
 - **Chuyên ngành gốc:** Địa lí
@@ -3461,6 +4055,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đô thị rất lớn có quy mô dân số đạt từ 10 triệu người trở lên.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 27 (Mục 3): Xác định và tra cứu sự phân bố các thành phố đông dân bậc nhất thế giới trên bản đồ.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 3), tr. 182; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 3), tr. 182, 183; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 3), tr. 183
+
+### megalopolis
+- **Tiếng Việt:** Dải đô thị
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An extensive urban belt formed in long-established industrial regions when multiple cities expand and connect continuously, including across national borders (such as the belt stretching from Liverpool in the United Kingdom to Cologne in Germany).
+- **Giải thích (VI):** Không gian đô thị rộng lớn hình thành ở các vùng công nghiệp lâu đời khi nhiều đô thị mở rộng và nối liền với nhau, kể cả xuyên biên giới (như dải đô thị kéo dài từ Li-vơ-pun của Anh đến Côn của Đức).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2): sự mở rộng và liên kết các đô thị lớn xuyên biên giới ở những vùng công nghiệp lâu đời của châu Âu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2), tr. 103; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3), tr. 103
 
 ### Mekong Delta Key Economic Region
 - **Tiếng Việt:** Vùng kinh tế trọng điểm vùng Đồng bằng sông Cửu Long
@@ -3545,6 +4147,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 16 (Mục 1.a): gắn với hoạt động theo dõi, đo đạc các yếu tố khí quyển tại trạm khí tượng.
   - *Lưu ý:* Trong SGK Địa lí 6, thuật ngữ chỉ trạng thái và diễn biến các hiện tượng tự nhiên trong khí quyển (phân biệt với nghĩa ngành khoa học khí tượng học).
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1.a), tr. 146
+
+### migration (geography)
+- **Tiếng Việt:** Di dân (chuyển cư)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The movement of people's residence within a country (between rural and urban areas or across regions) or across national borders from one country to another (international migration).
+- **Giải thích (VI):** Sự dịch chuyển nơi cư trú của con người trong nội bộ một quốc gia (giữa nông thôn và thành thị hoặc giữa các vùng lãnh thổ) hay vượt qua biên giới từ nước này sang nước khác (di dân quốc tế).
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 10 (Mục 1.c): hệ quả nhân khẩu – xã hội phát sinh từ xung đột quân sự, đói nghèo và biến động kinh tế.
+  - *Lưu ý:* Không nhầm với 'Di cư' (`migration`) trong Sinh học.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1.c), tr. 134; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177
+
+### military conflict
+- **Tiếng Việt:** Xung đột quân sự (xung đột vũ trang)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Violent armed confrontation between forces or communities, which in Africa frequently arises from tribal tensions and competition over natural resources (especially water). It causes casualties, worsens famine, disease, displacement, and political instability, and creates openings for foreign intervention.
+- **Giải thích (VI):** Tình trạng đối đầu bằng bạo lực vũ trang giữa các lực lượng hoặc cộng đồng, tại châu Phi thường bùng phát từ mâu thuẫn bộ tộc và sự cạnh tranh tài nguyên thiên nhiên (đặc biệt là nguồn nước). Hiện tượng này gây thương vong, gia tăng nạn đói, dịch bệnh, làn sóng di dân, bất ổn chính trị và tạo điều kiện cho sự can thiệp từ bên ngoài.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 1.c): vấn đề xã hội – chính trị nghiêm trọng kìm hãm sự ổn định và phát triển ở nhiều khu vực châu Phi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1.c), tr. 134
 
 ### mineral
 - **Tiếng Việt:** Khoáng vật
@@ -3653,6 +4273,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 30 (Mục II.5): Trữ lượng, cơ cấu và sự phân bố tài nguyên khoáng sản ở Cộng hoà Nam Phi.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.5), tr. 155
 
+### Missouri–Mississippi River system
+- **Tiếng Việt:** Hệ thống sông Mít-xu-ri – Mi-xi-xi-pi
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The largest river system in North America and the third longest in the world at 6,400 km, fed by rainfall, snow, and melting ice. This river system plays a vital natural and economic role in the southern and southeastern United States.
+- **Giải thích (VI):** Hệ thống sông lớn nhất ở Bắc Mỹ và dài thứ ba trên thế giới với chiều dài 6 400 km, được cung cấp nước từ mưa, tuyết và băng tan. Hệ thống sông này có vai trò tự nhiên và kinh tế quan trọng đối với khu vực phía nam và đông nam Hoa Kỳ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 3): hệ thống sông lớn nhất Bắc Mỹ chảy qua miền đồng bằng ở giữa.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 3), tr. 143; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 3), tr. 143, 144
+
+### mixed forest
+- **Tiếng Việt:** Rừng hỗn hợp (rừng hỗn giao)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A forest type of temperate environments containing both broadleaf trees and coniferous trees, remaining green year-round.
+- **Giải thích (VI):** Kiểu rừng của môi trường ôn đới, vừa có cây lá rộng, vừa có cây lá kim và xanh quanh năm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 1 (Mục 2.d): thảm thực vật phát triển khi vào sâu trong lục địa châu Âu trên nhóm đất rừng nâu xám.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.d), tr. 99
+
+### mixed-race population in Central and South America
+- **Tiếng Việt:** Người lai ở Trung và Nam Mỹ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The demographic group comprising the majority of the population in Central and South America today, formed through intermarriage among people of Spanish and Portuguese descent, people of African descent, and indigenous Native Americans. This blending creates social and demographic similarities across countries in the region and underpins Latin American culture.
+- **Giải thích (VI):** Bộ phận chiếm phần lớn dân cư Trung và Nam Mỹ hiện nay, hình thành do sự hợp huyết giữa người gốc Tây Ban Nha, Bồ Đào Nha với người gốc Phi và người Anh-điêng bản địa. Sự hoà trộn này tạo nên nét tương đồng về dân cư, xã hội giữa các nước trong khu vực và hình thành nền văn hoá Mỹ La-tinh độc đáo.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 1.a): đặc điểm nổi bật về nguồn gốc và thành phần dân cư của khu vực Trung và Nam Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B17, tr. 152; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B17 (Mục 1.a), tr. 152; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B17 (Mục 1.b), tr. 152
+
 ### Mohorovičić discontinuity
 - **Tiếng Việt:** Mặt Mô-hô
 - **Chuyên ngành gốc:** Địa lí
@@ -3666,8 +4310,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A seasonal wind system whose direction and properties reverse between two seasons, occurring mainly in the tropics (South Asia, Southeast Asia, East Africa, northeastern Australia) and certain mid-latitude regions (eastern China, southeastern United States). Monsoons form primarily due to differential heating and cooling between continents and oceans (extratropical monsoons) or between the two hemispheres (intertropical monsoons).
 - **Giải thích (VI):** Loại gió thổi theo mùa với hướng và tính chất gió ở hai mùa trái ngược nhau, phân bố chủ yếu ở đới nóng (Nam Á, Đông Nam Á, Đông Phi, Đông Bắc Ô-xtrây-li-a) và một số vùng vĩ độ trung bình (Đông Trung Quốc, Đông Nam Hoa Kỳ). Gió mùa hình thành chủ yếu do sự nóng lên hay lạnh đi không đều giữa lục địa và đại dương (gió mùa ngoại chí tuyến) hoặc giữa hai bán cầu (gió mùa nội chí tuyến).
-- **Bối cảnh:** Địa lí lớp 10, Bài 9 (Mục 3.b): Định nghĩa gió mùa, giải thích nguyên nhân hình thành và xác định các khu vực phân bố chính.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32, 33; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 4.a), tr. 33
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A wind system that reverses direction seasonally, with prevailing winds shifting sharply and nearly reversing between winter and summer while blowing in a relatively steady direction within each season. / VI: Loại gió thay đổi hướng theo mùa, có hướng gió thịnh hành biến đổi mạnh từ mùa đông sang mùa hè và gần như ngược chiều nhau nhưng thổi theo một hướng khá ổn định trong mỗi mùa.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 9 (Mục 3.b): Định nghĩa gió mùa, giải thích nguyên nhân hình thành và xác định các khu vực phân bố chính.
+  - Lịch sử và Địa lí lớp 7, Bài 5 (Mục 2.c): hoàn lưu gió theo mùa chi phối đặc điểm khí hậu của Đông Á, Nam Á và Đông Nam Á.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32, 33; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 4.a), tr. 33; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.c), tr. 111; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.c), tr. 112
+
+### monsoon climate in Asia
+- **Tiếng Việt:** Khí hậu gió mùa ở châu Á
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A climate group distributed across East Asia, South Asia, and Southeast Asia in which winter winds blow outward from the landmass bringing cold, dry, low-rainfall conditions, whereas summer winds blow inward from the ocean bringing hot, humid, rainy weather and frequent major storms.
+- **Giải thích (VI):** Nhóm kiểu khí hậu phân bố ở Đông Á, Nam Á và Đông Nam Á, có mùa đông gió từ lục địa thổi ra gây khô, lạnh và ít mưa, mùa hạ gió từ đại dương thổi vào nên nóng, ẩm, mưa nhiều và thường xuyên chịu ảnh hưởng của các cơn bão lớn.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 5 (Mục 2.c): một trong hai nhóm kiểu khí hậu chiếm diện tích lớn nhất ở châu Á.
+  - *Lưu ý:* Khác với khí hậu lục địa ở châu Á (khô hạn quanh năm ở nội địa và Tây Á), khí hậu gió mùa có mùa hạ nóng ẩm, mưa nhiều và hay có bão lớn.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.a), tr. 111; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.b), tr. 111; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.c), tr. 111
 
 ### Mount Fuji and the Kanto Plain
 - **Tiếng Việt:** Núi Phú Sĩ và đồng bằng Can-tô
@@ -3676,6 +4333,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hai dạng địa hình tiêu biểu bậc nhất của Nhật Bản, gồm đỉnh núi Phú Sĩ cao nhất cả nước (3 776 m) và đồng bằng Can-tô rộng nhất cả nước (khoảng 17 000 km²) nằm trên đảo Hôn-su. Đồng bằng Can-tô đồng thời là khu vực tập trung đông dân cư nhất của Nhật Bản.
 - **Bối cảnh:** Địa lí lớp 11, Bài 23 (Mục II.1): minh hoạ sự tương phản giữa địa hình núi cao và đồng bằng ven biển ở Nhật Bản.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B23 (Mục II.1), tr. 116; SGK Địa lí 11 KNTT, Phần hai, B23 (Mục II.2), tr. 116; SGK Địa lí 11 KNTT, Phần hai, B23 (Mục II.3), tr. 116
+
+### Mount Kilimanjaro
+- **Tiếng Việt:** Núi Ki-li-man-gia-rô
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A dormant stratovolcano in eastern Africa standing at 5,895 m, holding the record as Africa's highest peak and capped with snow and ice year-round.
+- **Giải thích (VI):** Ngọn núi lửa từng hoạt động nằm ở phía đông châu Phi với độ cao 5 895 m, giữ kỉ lục là đỉnh núi cao nhất châu Phi và có băng tuyết bao phủ quanh năm trên đỉnh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2.a): đỉnh núi cao nổi bật trên phần địa hình sơn nguyên Đông Phi được nâng cao mạnh.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.a), tr. 129
 
 ### mountain
 - **Tiếng Việt:** Núi
@@ -3703,6 +4368,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Covers both compressional folding and volcanic mountain formation along tectonic plate boundaries, alongside exogenic erosion (related to orogeny).
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 132
 
+### multiculturalism in Australia
+- **Tiếng Việt:** Văn hoá đa sắc tộc ở Ô-xtrây-li-a
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The diverse cultural landscape of Australia shaped by a community of more than 150 ethnic groups coexisting and harmonizing indigenous heritage with immigrant traditions from around the world. Alongside English as the official language, over 300 other languages are spoken in daily communication.
+- **Giải thích (VI):** Nền văn hoá độc đáo, đa dạng của quốc gia đa dân tộc, đa tôn giáo Ô-xtrây-li-a với hơn 150 sắc tộc cùng sinh sống, dung hoà giữa văn hoá bản địa và các nét văn hoá trên thế giới. Bên cạnh tiếng Anh là ngôn ngữ chính thức, quốc gia này còn có hơn 300 ngôn ngữ khác được sử dụng trong giao tiếp.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 3.b): sự giao thoa văn hoá bản địa lâu đời với văn hoá của cộng đồng nhập cư đa sắc tộc.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 3.b), tr. 161; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 4), tr. 161
+
 ### multinational corporation
 - **Tiếng Việt:** Công ty đa quốc gia
 - **Chuyên ngành gốc:** Địa lí
@@ -3723,6 +4396,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Định nghĩa trong Bảng giải thích thuật ngữ SGK tương ứng với khái niệm cộng đồng quốc gia – dân tộc (nation); trong ngữ cảnh thành phần dân cư đa dân tộc ở Đông Nam Á, từ "dân tộc" còn chỉ tộc người (ethnic group).
   - *Lưu ý:* Trong tiếng Việt, thuật ngữ 'dân tộc' mang hai nghĩa cần phân biệt theo ngữ cảnh: dân tộc – quốc gia (nation) chỉ toàn thể cư dân một nước và dân tộc – tộc người (ethnic group) chỉ từng cộng đồng có chung ngôn ngữ, văn hoá, ý thức tự giác tộc người.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục III.1), tr. 50; SGK Địa lí 11 KNTT, Bảng giải thích thuật ngữ, tr. 165; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.a), tr. 123; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.a), tr. 123, 124
+
+### native biota of Australia
+- **Tiếng Việt:** Sinh vật bản địa Ô-xtrây-li-a
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The flora and fauna of Australia, which are relatively poor in species count yet highly distinctive and endemic due to tens of millions of years of continental isolation. Prominent native plants include acacias and some 600 species of eucalyptus, while characteristic animals include over 100 marsupial species alongside national icons such as the koala, kangaroo, emu, and platypus.
+- **Giải thích (VI):** Giới sinh vật của Ô-xtrây-li-a tuy nghèo về thành phần loài nhưng rất đặc sắc và mang tính địa phương cao do lục địa nằm tách biệt từ hàng chục triệu năm trước. Thực vật bản địa nổi bật có keo và tới 600 loài bạch đàn, còn động vật độc đáo gồm hơn 100 loài thú có túi cùng các loài biểu tượng quốc gia như gấu túi, chuột túi, đà điểu Ô-xtrây-li-a và thú mỏ vịt.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 2.c): nguyên nhân và nét đặc hữu địa phương của giới sinh vật ở Ô-xtrây-li-a.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.b), tr. 159; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.c), tr. 159
 
 ### natural conditions
 - **Tiếng Việt:** Điều kiện tự nhiên
@@ -3764,6 +4445,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 19 (Mục 2.a): Thước đo đánh giá mức độ gia tăng dân số tự nhiên của thế giới và từng quốc gia.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.a), tr. 56
 
+### natural population growth rate in Africa
+- **Tiếng Việt:** Tỉ lệ tăng dân số tự nhiên ở châu Phi
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Africa's natural population growth rate, the highest in the world (2.54% in the 2015–2020 period), resulting from a rapid decline in mortality due to medical advances since the 1950s while birth rates remained high. Rapid population growth hinders economic development and intensifies poverty, resource depletion, and environmental degradation.
+- **Giải thích (VI):** Mức gia tăng dân số tự nhiên cao nhất thế giới của châu Phi (đạt 2,54% giai đoạn 2015 – 2020) do tỉ suất tử vong giảm nhanh nhờ tiến bộ y tế từ sau những năm 1950 trong khi tỉ suất sinh vẫn duy trì ở mức cao. Tốc độ tăng dân số nhanh tạo sức ép kìm hãm phát triển kinh tế, làm gia tăng đói nghèo, cạn kiệt tài nguyên và suy thoái môi trường.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 1.a): vấn đề dân cư nổi cộm gây áp lực lớn lên kinh tế – xã hội và môi trường của châu Phi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1.a), tr. 133
+
+### natural resource utilization and conservation in Australia
+- **Tiếng Việt:** Phương thức khai thác, sử dụng và bảo vệ thiên nhiên ở Ô-xtrây-li-a
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Australia's approach to adapting economic activities to arid conditions and conserving resources through grazing and high-tech ranching of livestock (especially sheep), cultivating drought-tolerant and irrigated crops, and prioritizing water protection alongside drought and salinity control. Concurrently, the country reduces raw mineral extraction rates, expands manufacturing to raise export value, and strongly develops tourism.
+- **Giải thích (VI):** Cách thức phát triển kinh tế thích ứng với khí hậu khô hạn và bảo vệ tự nhiên ở Ô-xtrây-li-a thông qua chăn nuôi gia súc (đặc biệt là cừu) chăn thả hoặc trong trang trại công nghệ cao, trồng cây chịu hạn kết hợp thuỷ lợi và chú trọng bảo vệ nguồn nước, chống hạn hán, chống nhiễm mặn. Đồng thời, quốc gia này giảm tốc độ khai thác khoáng sản, đẩy mạnh công nghiệp chế tạo để nâng cao giá trị xuất khẩu và phát triển mạnh du lịch.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 4): cách thức thích ứng với điều kiện khô hạn và hướng khai thác bền vững tài nguyên thiên nhiên ở Ô-xtrây-li-a.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 3.b), tr. 161; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 4), tr. 161
+
 ### natural resources
 - **Tiếng Việt:** Tài nguyên thiên nhiên
 - **Chuyên ngành gốc:** Địa lí
@@ -3774,6 +4471,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 10, Bài 39 (Mục 2.a): Trình bày khái niệm, đặc điểm phân bố và tiêu chí phân loại tài nguyên thiên nhiên.
   - Lịch sử và Địa lí lớp 6, Bài 28 (Mục 1.b, 2): Nhận diện các thành phần tự nhiên được con người khai thác và đặt ra yêu cầu sử dụng tiết kiệm, hợp lí.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B39, tr. 108; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.b), tr. 109; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 2.a), tr. 109; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 1.b), tr. 185
+
+### natural resources of Antarctica
+- **Tiếng Việt:** Tài nguyên thiên nhiên châu Nam Cực
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The natural resource endowment of Antarctica, highlighted by the planet's largest freshwater reserve accounting for roughly 60% of Earth's total freshwater. Additionally, the Antarctic mainland is rich in minerals such as coal, iron, and copper, while its continental shelf holds potential reserves of petroleum and natural gas.
+- **Giải thích (VI):** Tổng thể nguồn tài nguyên ở châu Nam Cực nổi bật với nơi dự trữ nước ngọt lớn nhất hành tinh, chiếm khoảng 60% lượng nước ngọt trên Trái Đất. Bên cạnh đó, lục địa Nam Cực giàu khoáng sản như than đá, sắt, đồng và vùng thềm lục địa có tiềm năng về dầu mỏ, khí tự nhiên.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 19 (Mục 3.b): nguồn dự trữ nước ngọt dưới dạng băng và tiềm năng khoáng sản ở châu Nam Cực.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19 (Mục 3.a), tr. 164; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19 (Mục 3.b), tr. 164
 
 ### natural resources of the Bien Dong Sea
 - **Tiếng Việt:** Tài nguyên thiên nhiên của Biển Đông
@@ -3799,6 +4504,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 29 (Mục 2): Giải thích ý nghĩa thiết thực của việc gìn giữ thiên nhiên đối với đời sống và phát triển bền vững.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29, tr. 187; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29 (Mục 1), tr. 187; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29 (Mục 2), tr. 187
 
+### nature reserves in Africa
+- **Tiếng Việt:** Khu bảo tồn thiên nhiên ở châu Phi
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Protected natural areas established and managed by various African nations (such as Kenya and Tanzania) to conserve savanna ecosystems and rare wild flora and fauna while developing ecotourism.
+- **Giải thích (VI):** Các khu vực tự nhiên được nhiều quốc gia châu Phi (như Kê-ni-a, Tan-da-ni-a) thành lập và quản lí nhằm bảo vệ hệ sinh thái xa van cùng các loài động, thực vật hoang dã quý hiếm, đồng thời khai thác phát triển du lịch sinh thái.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 2): giải pháp bảo vệ đa dạng sinh học gắn với phát triển kinh tế bền vững ở môi trường nhiệt đới châu Phi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 136
+
 ### neap tide
 - **Tiếng Việt:** Triều kém
 - **Chuyên ngành gốc:** Địa lí
@@ -3822,6 +4535,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Những hệ luỵ kinh tế – xã hội và môi trường phát sinh khi quá trình đô thị hoá diễn ra tự phát, không theo quy hoạch. Biểu hiện chủ yếu là gây sức ép giải quyết việc làm, quá tải về cơ sở hạ tầng và cơ sở vật chất kĩ thuật, nảy sinh các vấn đề an ninh xã hội và ô nhiễm môi trường.
 - **Bối cảnh:** Địa lí lớp 12, Bài 8 (Mục III.2): Phân tích tác động tiêu cực khi đô thị hoá diễn ra tự phát, không theo quy hoạch.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 2, B8 (Mục II), tr. 43; SGK Địa lí 12 KNTT, Phần 2, B8 (Mục III.1), tr. 43; SGK Địa lí 12 KNTT, Phần 2, B8 (Mục III.2), tr. 43
+
+### New World
+- **Tiếng Việt:** Tân thế giới
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A historical name referring to the Americas after explorer Amerigo Vespucci undertook four voyages (1497–1503) and confirmed that the landmass was an entirely new continent to Europeans rather than western India.
+- **Giải thích (VI):** Tên gọi lịch sử dùng để chỉ châu Mỹ sau khi nhà thám hiểm A-mê-ri-gô Ve-xpu-xi thực hiện bốn chuyến hành trình (1497 – 1503) và khẳng định đây là một vùng đất hoàn toàn mới đối với người châu Âu chứ không phải miền tây Ấn Độ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 2) và Bài 17 (Mục 1.c): tên gọi châu Mỹ gắn với lịch sử khám phá và định danh châu lục vào đầu thế kỉ XVI.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 2), tr. 141; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B17 (Mục 1.c), tr. 153
+
+### Nile River
+- **Tiếng Việt:** Sông Nin
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The longest river in the world at 6,695 km and the only river flowing across the Sahara Desert in Africa. Alluvial deposits along its lower course form the fertile Nile Delta covering approximately 24,000 km².
+- **Giải thích (VI):** Dòng sông dài nhất thế giới với chiều dài 6 695 km và là con sông duy nhất chảy xuyên qua hoang mạc Xa-ha-ra ở châu Phi. Phù sa hạ lưu sông bồi đắp nên đồng bằng châu thổ sông Nin màu mỡ rộng khoảng 24 000 km².
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2.c): hệ thống sông quan trọng bậc nhất cung cấp nguồn nước và phù sa cho vùng Đông Bắc Phi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.c), tr. 130
+
+### Nile River civilization
+- **Tiếng Việt:** Nền văn minh sông Nin
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A brilliant ancient civilization built by the Egyptians around 3000 BCE along the Nile River basin. It left valuable human heritage including hieroglyphic writing, geometric area calculations, papyrus paper, and architectural monuments such as the pyramids and the Sphinx.
+- **Giải thích (VI):** Nền văn minh cổ đại rực rỡ do cư dân Ai Cập kiến tạo vào khoảng 3 000 năm trước Công nguyên dọc lưu vực sông Nin. Nền văn minh này để lại nhiều di sản nhân loại giá trị như chữ viết tượng hình, phép tính diện tích các hình học, giấy pa-pi-rút cùng hệ thống kim tự tháp và tượng nhân sư.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 2): di sản lịch sử cổ đại tiêu biểu bậc nhất của châu Phi tại vùng Đông Bắc Phi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 134
+
+### nomadic pastoralism
+- **Tiếng Việt:** Chăn nuôi du mục
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A form of livestock raising adapted to scarce water and pasture in arid regions, in which herders regularly move their flocks and herds (such as goats and camels) from place to place in search of forage and water.
+- **Giải thích (VI):** Hình thức chăn nuôi thích nghi với điều kiện khan hiếm nước và đồng cỏ ở vùng khô hạn, trong đó người dân thường xuyên di chuyển đàn gia súc (như dê, lạc đà) từ nơi này đến nơi khác để tìm kiếm nguồn thức ăn và nước uống.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 3): phương thức kinh tế cổ truyền thích ứng với môi trường hoang mạc khắc nghiệt ở châu Phi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 136; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 136, 137
 
 ### non-metallic minerals
 - **Tiếng Việt:** Khoáng sản phi kim loại
@@ -3872,6 +4617,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Luồng gió mùa đông xuất phát từ khối khí lạnh thuộc áp cao Xi-bia di chuyển theo hướng đông bắc vào miền Bắc Việt Nam, suy yếu dần khi xuống phía nam và hầu như bị chặn lại ở dãy Bạch Mã. Gió tạo nên thời tiết lạnh khô vào nửa đầu mùa đông và lạnh ẩm kèm mưa phùn ở vùng ven biển cùng đồng bằng sông Hồng vào nửa sau mùa đông.
 - **Bối cảnh:** Địa lí lớp 12, Bài 2 (Mục I.1): Trình bày nguồn gốc, phạm vi hoạt động và tính chất thời tiết mùa đông ở miền Bắc Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I.1), tr. 11; SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I.1), tr. 11, 12; SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I.1), tr. 12
+
+### Northern Asia
+- **Tiếng Việt:** Khu vực Bắc Á
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The northernmost geographical region of Asia encompassing all of Russia's Siberia, divided into three main topographic units: the West Siberian Plain, the Central Siberian Plateau, and the East Siberian Mountains. It features a severe continental cold climate, major hydropower-rich rivers (Ob, Yenisei, Lena), vast coniferous forests, and abundant mineral resources.
+- **Giải thích (VI):** Khu vực địa lí ở cực bắc châu Á bao gồm toàn bộ vùng Xi-bia của Nga với ba bộ phận địa hình chính là đồng bằng Tây Xi-bia, cao nguyên Trung Xi-bia và miền núi Đông Xi-bia. Nơi đây có khí hậu lục địa lạnh giá khắc nghiệt, nhiều sông lớn giàu thuỷ năng (Ô-bi, I-ê-nít-xây, Lê-na), rừng lá kim rộng lớn và trữ lượng khoáng sản phong phú.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 2.a): đặc điểm tự nhiên và tài nguyên của khu vực cực bắc châu Á.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 1), tr. 119; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.a), tr. 119; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.a), tr. 119, 120
 
 ### Northern Dynamic Zone
 - **Tiếng Việt:** Vùng động lực phía bắc
@@ -3931,6 +4684,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 3 (Mục II.2): Trình bày phạm vi ranh giới và đặc điểm tự nhiên nổi bật của miền Tây Bắc và Bắc Trung Bộ.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B3 (Mục II.1), tr. 22; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục II.2), tr. 22; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục II.2), tr. 22, 23
 
+### north–south natural differentiation in Central and South America
+- **Tiếng Việt:** Sự phân hoá tự nhiên theo chiều bắc – nam ở Trung và Nam Mỹ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The latitudinal variation of climate and landscapes across Central and South America spanning five zones, starting with the equatorial zone (tropical rainforests), subequatorial zone (distinct wet and dry seasons, tropical open forests), and tropical zone (from humid tropical forests to savannas, scrublands, and deserts). Further south lie the subtropical zone (subtropical forests, forest steppes, semi-deserts, and deserts) and the year-round cool temperate zone (mixed forests and semi-deserts).
+- **Giải thích (VI):** Sự thay đổi khí hậu và cảnh quan theo vĩ độ ở Trung và Nam Mỹ qua năm đới, mở đầu từ đới xích đạo (rừng mưa nhiệt đới), cận xích đạo (hai mùa mưa – khô rõ rệt, rừng thưa nhiệt đới) và nhiệt đới (từ rừng nhiệt đới ẩm đến xa van, cây bụi, hoang mạc). Tiếp nối về phía nam là đới cận nhiệt (rừng cận nhiệt, thảo nguyên rừng, bán hoang mạc, hoang mạc) và đới ôn đới mát mẻ quanh năm (rừng hỗn hợp, bán hoang mạc).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1): sự thay đổi các đới khí hậu và cảnh quan theo vĩ độ trên lãnh thổ Trung và Nam Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B16, tr. 149; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1), tr. 149; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1), tr. 149, 150
+
 ### numerical scale
 - **Tiếng Việt:** Tỉ lệ số
 - **Chuyên ngành gốc:** Địa lí
@@ -3940,6 +4701,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 3 (Mục 1): đọc phân số tỉ lệ (ví dụ 1 : 1 000 000) để quy đổi độ dài trên bản đồ ra khoảng cách thực tế.
   - *Lưu ý:* Phân biệt với tỉ lệ thước (graphic scale) là dạng thước đo vạch sẵn độ dài thực tế trực tiếp trên bản đồ.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3, tr. 106; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1), tr. 106; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2), tr. 106
+
+### oasis
+- **Tiếng Việt:** Ốc đảo
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A fertile spot in an arid desert where water emerges at the surface, enabling human settlement and small-scale cultivation of fruit trees (date palms, oranges, lemons) and food crops (barley).
+- **Giải thích (VI):** Khu vực có nguồn nước lộ ra giữa vùng hoang mạc khô hạn, tạo điều kiện hình thành điểm cư trú và canh tác các loại cây ăn quả (chà là, cam, chanh) cùng cây lương thực (lúa mạch) trên những diện tích nhỏ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 3): không gian sinh sống và sản xuất nông nghiệp tập trung của cư dân trong môi trường hoang mạc châu Phi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 136; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 136, 137
 
 ### objectives of ASEAN
 - **Tiếng Việt:** Mục tiêu của ASEAN
@@ -3968,6 +4737,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 21 (Mục 3.c): Nhận diện một dạng vận động của nước biển và đại dương bên cạnh sóng biển và thuỷ triều.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B12, tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.a), tr. 41; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 1.b), tr. 41; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.b), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.c), tr. 165, 166
 
+### Oceania
+- **Tiếng Việt:** Châu Đại Dương
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A continent in the Pacific Ocean consisting of two parts: the continent of Australia in the southwest (nearly 7.7 million km²) and the island region of Oceania in the central Pacific. This island region comprises four subregions—Melanesia, Micronesia, Polynesia, and New Zealand—with a combined land area of about 1 million km².
+- **Giải thích (VI):** Châu lục nằm trên Thái Bình Dương gồm hai bộ phận là lục địa Ô-xtrây-li-a ở phía tây nam (diện tích gần 7,7 triệu km²) và vùng đảo châu Đại Dương ở trung tâm Thái Bình Dương. Vùng đảo này gồm bốn khu vực là Mê-la-nê-di, Mi-crô-nê-di, Pô-li-nê-di và Niu Di-len với tổng diện tích các đảo khoảng 1 triệu km².
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 1): vị trí địa lí, phạm vi lãnh thổ và hai bộ phận hợp thành của châu Đại Dương.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18, tr. 156; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 1), tr. 156; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 1), tr. 156, 157
+
 ### oceanic crust
 - **Tiếng Việt:** Vỏ đại dương
 - **Chuyên ngành gốc:** Địa lí
@@ -3975,6 +4752,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Kiểu vỏ Trái Đất mỏng nằm dưới đáy đại dương (dày khoảng 5 km) và cấu tạo chủ yếu bằng đá badan. Khác với vỏ lục địa, lớp vỏ này chỉ gồm tầng trầm tích do vật liệu vụn nhỏ nén chặt ở trên cùng và tầng badan gồm các loại đá nặng hơn ở bên dưới, không có tầng granit.
 - **Bối cảnh:** Địa lí lớp 10, Bài 4 (Mục 2): Phân tích đặc điểm cấu tạo không có tầng granit của vỏ đại dương.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 16; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 3), tr. 16
+
+### offshore volcanic and coral islands
+- **Tiếng Việt:** Đảo núi lửa và đảo san hô xa bờ (quần đảo núi lửa; quần đảo san hô)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Offshore islands and archipelagos in Oceania characterized by small size and low elevation. Composed mainly of volcanic rock or coral limestone, these islands are very poor in mineral resources.
+- **Giải thích (VI):** Nhóm các đảo và quần đảo nằm xa bờ thuộc châu Đại Dương có kích thước nhỏ và địa hình thấp. Các đảo này cấu tạo chủ yếu bởi đá núi lửa hoặc đá vôi san hô và rất nghèo khoáng sản.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 2.a): đặc điểm cấu tạo địa chất và tài nguyên của các đảo, quần đảo nằm xa bờ trên Thái Bình Dương.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.a), tr. 158; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.b), tr. 158; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.b), tr. 158, 159
 
 ### oil and gas extraction and processing in the Southeast Region
 - **Tiếng Việt:** Khai thác và chế biến dầu, khí ở Đông Nam Bộ
@@ -4000,6 +4785,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 16 (Mục I.2): đặc điểm công nghệ, tình hình phát triển và phân bố ngành dầu khí ở Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B16 (Mục I.2), tr. 71
 
+### old mountain
+- **Tiếng Việt:** Núi già
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A mountain landform created in ancient times that has been eroded, lowered in elevation, and shaped into gentle contours.
+- **Giải thích (VI):** Dạng núi hình thành từ thời cổ đại, đã trải qua bào mòn làm hạ thấp độ cao và có hình dáng mềm mại.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 1 (Mục 2.a): nhận diện khu vực địa hình núi già phân bố ở phía bắc và trung tâm châu Âu (dãy Xcan-đi-na-vi, U-ran).
+  - *Lưu ý:* Phân biệt với núi trẻ: núi già hình thành từ thời cổ đại, đã bị bào mòn hạ thấp độ cao và có hình dáng mềm mại.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.a), tr. 98
+
 ### old mountain region
 - **Tiếng Việt:** Vùng núi già
 - **Chuyên ngành gốc:** Địa lí
@@ -4007,6 +4802,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Vùng núi hình thành cách đây hàng trăm triệu năm, nơi tác động của quá trình ngoại sinh mạnh hơn quá trình nội sinh nên địa hình bị bào mòn mạnh.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 11 (Mục 2): phân biệt đặc điểm bào mòn địa hình của vùng núi già với vùng núi trẻ.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 132
+
+### olive
+- **Tiếng Việt:** Ô liu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A woody tree species characteristic of the Mediterranean subtropical climate zone, widely cultivated for its fruit and seeds to press high-value edible oil.
+- **Giải thích (VI):** Loài cây thân gỗ đặc trưng của vùng khí hậu cận nhiệt Địa Trung Hải, được trồng phổ biến để thu hoạch quả và hạt dùng ép lấy dầu ăn có giá trị kinh tế cao.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 4): cây trồng cận nhiệt chủ lực có giá trị xuất khẩu tại môi trường cận nhiệt châu Phi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 4), tr. 137; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178
 
 ### one-child policy
 - **Tiếng Việt:** Chính sách Một con
@@ -4048,6 +4851,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 2): vai trò bảo vệ sự sống trên Trái Đất của tầng bình lưu.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 143
 
+### Pacific Ocean
+- **Tiếng Việt:** Thái Bình Dương
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A vast ocean whose name means peaceful sea, given by Ferdinand Magellan upon reaching the Philippine archipelago in late 1520 after observing calm waters and light winds. In reality, it is the ocean where earthquakes and tsunamis have devastated the greatest number of islands and villages.
+- **Giải thích (VI):** Đại dương rộng lớn mang tên có nghĩa là vùng biển yên bình do Ph. Ma-gien-lăng đặt khi tới quần đảo Phi-líp-pin vào cuối năm 1520 vì nhận thấy mặt biển khá bình yên và lặng gió. Trên thực tế, đây là đại dương mà động đất và sóng thần đã tàn phá nhiều hòn đảo và làng mạc nhất.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Chủ đề chung 1 (Mục 2.b): nguồn gốc tên gọi và đặc điểm thiên tai thực tế của đại dương lớn mà đoàn thám hiểm Ph. Ma-gien-lăng vượt qua.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.a), tr. 168; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 168; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 168, 169
+
+### Panama Canal
+- **Tiếng Việt:** Kênh đào Pa-na-ma
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An artificial maritime waterway cut across the narrow Isthmus of Central America at the junction of North America and South America, providing a direct shipping link between the Atlantic and Pacific oceans.
+- **Giải thích (VI):** Tuyến giao thông đường biển nhân tạo được đào cắt ngang qua eo đất hẹp Trung Mỹ ở nơi tiếp giáp giữa lục địa Bắc Mỹ và lục địa Nam Mỹ, giúp kết nối hàng hải trực tiếp giữa Đại Tây Dương và Thái Bình Dương.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 1): ranh giới nhân tạo cắt ngang eo đất Trung Mỹ giữa Bắc Mỹ và Nam Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 1), tr. 139; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 1), tr. 139, 140
+
+### papyrus paper
+- **Tiếng Việt:** Giấy pa-pi-rút
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A writing material invented by the ancient Egyptians, crafted from the tough stalks of the papyrus reed growing along the Nile River basin.
+- **Giải thích (VI):** Vật liệu dùng để ghi chép do người Ai Cập cổ đại phát minh, chế tác từ loài cây lau sậy pa-pi-rút có độ dai cao mọc ven lưu vực sông Nin.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 2): thành tựu văn hoá tiêu biểu của nền văn minh sông Nin ở Ai Cập cổ đại.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 134; SGK Lịch sử và Địa lí 7 KNTT, Bảng phiên âm, tr. 183
+
 ### parallel
 - **Tiếng Việt:** Vĩ tuyến
 - **Chuyên ngành gốc:** Địa lí
@@ -4076,6 +4903,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Sự bình yên, tự do và hạnh phúc trong quan hệ giữa con người và các quốc gia với nhau. Hiện nay, hoà bình thế giới vẫn đối mặt với nhiều mối đe doạ như chiến tranh, xung đột vũ trang, nội chiến, tranh chấp biên giới lãnh thổ, đói nghèo và biến đổi khí hậu.
 - **Bối cảnh:** Địa lí lớp 11, Bài 4 (Mục II.2): Khái niệm hoà bình và sự cần thiết phải chung tay bảo vệ hoà bình trên thế giới.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B4, tr. 14; SGK Địa lí 11 KNTT, Phần một, B4 (Mục I.1), tr. 14; SGK Địa lí 11 KNTT, Phần một, B4 (Mục II.1), tr. 16
+
+### peninsula
+- **Tiếng Việt:** Bán đảo
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A portion of land projecting into a sea or ocean, bordered by water on three sides while attached to a continental landmass on one side.
+- **Giải thích (VI):** Bộ phận đất liền nhô ra biển hoặc đại dương có ba mặt tiếp giáp với nước, còn một mặt gắn với lục địa.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 1 (Mục 1): mô tả đặc điểm đường bờ biển châu Âu bị cắt xẻ mạnh tạo thành nhiều bán đảo, biển và vũng vịnh ăn sâu vào đất liền.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 96
 
 ### perennial industrial crop specialization in the Central Highlands
 - **Tiếng Việt:** Chuyên canh cây công nghiệp lâu năm ở Tây Nguyên
@@ -4182,17 +5017,45 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Also commonly known as the North Star; used in geography for night-time orientation in the Northern Hemisphere.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B9 (Mục 2), tr. 127
 
+### political map of Asia
+- **Tiếng Việt:** Bản đồ chính trị châu Á
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A map depicting the territorial division of Asia into 49 countries and territories across six geographical regions (Northern, Central, Western, Southern, Eastern, and Southeast Asia). These states have diverse political systems and uneven levels of development, with the majority being developing countries.
+- **Giải thích (VI):** Bản đồ thể hiện sự phân chia lãnh thổ châu Á gồm 49 quốc gia và vùng lãnh thổ thuộc sáu khu vực địa lí (Bắc Á, Trung Á, Tây Á, Nam Á, Đông Á và Đông Nam Á). Các quốc gia trên bản đồ có thể chế chính trị đa dạng và trình độ phát triển không đồng đều, trong đó phần lớn là các nước đang phát triển.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 1): sự phân chia các quốc gia, vùng lãnh thổ và sáu khu vực địa lí – chính trị của châu Á.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 1), tr. 118; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 1), tr. 118, 119
+
+### population (geography)
+- **Tiếng Việt:** Dân cư
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** All the people living within a given territory.
+- **Giải thích (VI):** Tất cả những người dân sinh sống trên một lãnh thổ.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 2 (Mục 1): tìm hiểu quy mô và đặc điểm dân cư châu Âu (khoảng 747 triệu người năm 2020, trình độ học vấn cao).
+  - *Lưu ý:* Không nhầm với 'Quần thể' (`population`) trong Sinh học.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2, tr. 101
+
+### population characteristics of Australia
+- **Tiếng Việt:** Đặc điểm dân cư Ô-xtrây-li-a
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The demographic profile of Australia marked by a small population (25.5 million in 2020), very low population density (about 3 people/km²), and highly uneven distribution concentrated along the eastern, southeastern, and southwestern coasts. The country has a very high urban population share (86% in 2020) and attracts immigrants, especially skilled workers, from every continent.
+- **Giải thích (VI):** Tổng thể các nét đặc trưng về dân số của Ô-xtrây-li-a gồm quy mô dân số ít (25,5 triệu người năm 2020), mật độ rất thấp (khoảng 3 người/km²) và phân bố không đều khi tập trung chủ yếu ở duyên hải phía đông, đông nam và tây nam. Quốc gia này có mức độ đô thị hoá rất cao (86% dân thành thị năm 2020) và đón nhận người nhập cư, đặc biệt là lao động chất lượng cao từ mọi châu lục.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 3.a): quy mô, mật độ, sự phân bố dân cư, đô thị hoá và nhập cư ở Ô-xtrây-li-a.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 3.a), tr. 160; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 3.b), tr. 160, 161
+
 ### population density (geography)
 - **Tiếng Việt:** Mật độ dân số
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** An indicator measuring the degree of population concentration within a territory, expressed as the average number of inhabitants per unit of land area (persons/km²). On the 2020 world map, national densities range widely from under 10 persons/km² in vast sparsely settled countries such as Russia, Canada, and Australia to over 200 persons/km² in India, Japan, and Vietnam.
 - **Giải thích (VI):** Chỉ tiêu phản ánh mức độ tập trung dân cư trên một lãnh thổ, đo bằng số dân trung bình sinh sống trên một đơn vị diện tích (người/km²). Trên bản đồ thế giới năm 2020, mật độ dân số phân hoá mạnh từ dưới 10 người/km² ở các nước rộng lớn thưa dân như Liên bang Nga, Ca-na-đa, Ô-xtrây-li-a đến trên 200 người/km² ở Ấn Độ, Nhật Bản, Việt Nam.
 - **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: An indicator measuring the degree of population concentration in an area, calculated by dividing the total population by the land area and expressed in persons per square kilometer (persons/km²). / VI: Chỉ tiêu phản ánh mức độ tập trung dân cư của một khu vực, xác định bằng thương số giữa tổng số dân và diện tích của khu vực đó, tính bằng đơn vị người/km².
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A demographic indicator representing the average number of inhabitants living per unit of land area, typically measured in persons/km². / VI: Chỉ tiêu nhân khẩu học biểu thị số dân trung bình sinh sống trên một đơn vị diện tích lãnh thổ nhất định, thường tính bằng đơn vị người/km².
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 20 (Mục 1.a): Khai thác bản đồ mật độ dân số các nước trên thế giới năm 2020.
   - Lịch sử và Địa lí lớp 6, Bài 27 (Mục 2): Công cụ định lượng để nhận xét và so sánh mức độ đông đúc hay thưa thớt dân cư trên bản đồ.
+  - Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1.a, 2): chỉ tiêu đánh giá mức độ tập trung dân cư của châu Á (đạt 150 người/km² năm 2020, không tính phần lãnh thổ Liên bang Nga).
   - *Lưu ý:* Không nhầm với 'Mật độ cá thể' (`population density`) trong Sinh học.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.a), tr. 60; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27, tr. 180; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 1), tr. 180; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 2), tr. 180
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.a), tr. 60; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27, tr. 180; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 1), tr. 180; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 2), tr. 180; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 115; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 2), tr. 116; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178
 
 ### population distribution
 - **Tiếng Việt:** Phân bố dân cư
@@ -4236,6 +5099,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đặc điểm không gian cư trú của Cộng hoà Nam Phi với mật độ dân số trung bình thấp (49 người/km² năm 2020) và sự phân bố rất không đồng đều giữa các vùng lãnh thổ. Dân cư và các đô thị tập trung đông ở vùng đông bắc cùng dải duyên hải phía đông, phía nam nơi giàu khoáng sản và có điều kiện tự nhiên thuận lợi, trong khi vùng hoang mạc và bán hoang mạc nội địa rất thưa thớt.
 - **Bối cảnh:** Địa lí lớp 11, Bài 30 (Mục III.1): Mật độ dân số và sự phân hoá không gian cư trú, đô thị ở Cộng hoà Nam Phi.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B30 (Mục III.1), tr. 156, 157
+
+### population distribution in Asia
+- **Tiếng Việt:** Phân bố dân cư châu Á
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The uneven spatial arrangement of inhabitants across Asia despite a high average population density (150 persons/km² in 2020): populations are heavily concentrated in Southern Asia, Southeast Asia, and eastern Eastern Asia but sparse in Northern, Central, and Western Asia, accompanied by rapid urbanization (51.1% urban population in 2020).
+- **Giải thích (VI):** Đặc điểm sắp xếp dân cư không đồng đều trên lãnh thổ châu Á dù mật độ dân số trung bình cao (150 người/km² năm 2020): dân cư tập trung đông đúc ở Nam Á, Đông Nam Á và phía đông Đông Á nhưng rất thưa thớt tại Bắc Á, Trung Á và Tây Á, gắn liền với quá trình đô thị hoá nhanh (tỉ lệ dân đô thị đạt 51,1% năm 2020).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 6 (Mục 2): sự chênh lệch lớn về mật độ dân số và sự hình thành các đô thị trên 10 triệu dân giữa các khu vực của châu Á.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 2), tr. 116, 117; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 2), tr. 117
 
 ### population distribution in Vietnam
 - **Tiếng Việt:** Phân bố dân cư Việt Nam
@@ -4372,12 +5243,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.3), tr. 35; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục II.1), tr. 35; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục II.2), tr. 35
 
 ### population structure
-- **Tiếng Việt:** Cơ cấu dân số
+- **Tiếng Việt:** Cơ cấu dân số (Cơ cấu dân cư)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The classification of a territory's total population into constituent groups based on specific attributes such as sex, age, ethnicity, educational attainment, occupation, and marital status. In population geography, it is commonly divided into biological structure and social structure.
 - **Giải thích (VI):** Sự phân loại tổng số dân của một lãnh thổ thành các bộ phận theo những đặc trưng xác định như giới tính, độ tuổi, dân tộc, trình độ học vấn, nghề nghiệp và tình trạng hôn nhân. Trong địa lí dân cư, cơ cấu dân số thường chia thành hai nhóm chính là cơ cấu sinh học và cơ cấu xã hội.
-- **Bối cảnh:** Địa lí lớp 10, Bài 19 (Mục 3): Khái niệm chung mở đầu nội dung phân tích các loại cơ cấu dân số.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 3), tr. 57
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: The division of the total population of a country or region into groups and segments based on a specific characteristic criterion. / VI: Sự phân chia tổng số dân của một nước hay một vùng thành các nhóm, các bộ phận theo một tiêu chí đặc trưng nhất định.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 19 (Mục 3): Khái niệm chung mở đầu nội dung phân tích các loại cơ cấu dân số.
+  - Lịch sử và Địa lí lớp 7, Bài 2 (Mục 1): phân tích cơ cấu dân số theo nhóm tuổi và cơ cấu dân số theo giới tính ở châu Âu.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 3), tr. 57; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1), tr. 101
 
 ### population structure by age
 - **Tiếng Việt:** Cơ cấu dân số theo tuổi
@@ -4529,6 +5403,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 33 (Mục 1): xác định các hoạt động hành chính công thuộc nhóm dịch vụ công trong cơ cấu dịch vụ.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 1), tr. 91
 
+### race
+- **Tiếng Việt:** Chủng tộc
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A human population or group historically formed within a specific territory, sharing inherited physical traits such as skin color, hair, and nose shape associated with their origin, living environment, and customs.
+- **Giải thích (VI):** Quần thể hoặc nhóm người hình thành trong lịch sử trên một lãnh thổ xác định, có chung một số đặc điểm ngoại hình mang tính di truyền như màu da, tóc, mũi gắn với nguồn gốc, môi trường sống và tập quán sinh hoạt.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1.a): phân chia các nhóm cư dân châu Á thuộc các chủng tộc Môn-gô-lô-it, Ơ-rô-pê-ô-it và Ô-xtra-lô-it.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 115; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177
+
 ### racial composition and immigration in the United States
 - **Tiếng Việt:** Chủng tộc và nhập cư Hoa Kỳ
 - **Chuyên ngành gốc:** Địa lí
@@ -4595,6 +5477,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 1): xác định chênh lệch độ cao giữa hai địa điểm và phân biệt với độ cao tuyệt đối.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 1), tr. 136
 
+### renewable energy and alternative materials
+- **Tiếng Việt:** Năng lượng tái tạo và vật liệu thay thế
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Replenishable energy sources and substitute materials promoted alongside the economical and efficient use of mineral resources. In North America, this sustainable solution helps reduce environmental pollution and mitigate the depletion of non-renewable minerals.
+- **Giải thích (VI):** Các nguồn năng lượng có khả năng tái tạo và các loại vật liệu mới được đẩy mạnh sử dụng song song với việc khai thác tiết kiệm, hiệu quả tài nguyên khoáng sản. Đây là giải pháp bền vững ở Bắc Mỹ nhằm giảm ô nhiễm môi trường và ứng phó với nguy cơ cạn kiệt khoáng sản.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 3): giải pháp sử dụng bền vững tài nguyên khoáng sản và giảm ô nhiễm môi trường ở Bắc Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 148
+
 ### renewable resources
 - **Tiếng Việt:** Tài nguyên có thể tái tạo
 - **Chuyên ngành gốc:** Địa lí
@@ -4610,6 +5500,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Mức sinh nhân khẩu học đạt bình quân 2,1 con trên một phụ nữ trong độ tuổi sinh đẻ. Duy trì vững chắc ngưỡng sinh này đồng thời với việc giảm chênh lệch mức sinh giữa các vùng, đối tượng là mục tiêu trọng tâm của chiến lược dân số ở Việt Nam hiện nay.
 - **Bối cảnh:** Địa lí lớp 12, Bài 6 (Mục III.1): Nêu mục tiêu duy trì mức sinh thay thế trong chiến lược dân số của Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.3), tr. 35; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục II.1), tr. 35; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục II.2), tr. 35
+
+### report on historical events of the Republic of South Africa
+- **Tiếng Việt:** Báo cáo sự kiện lịch sử Cộng hoà Nam Phi
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A three-part outline for writing a practical report on a notable historical event in the Republic of South Africa (such as its founding, the struggle against apartheid, or the election of its first Black president): an Introduction identifying the event and timeframe; a Main Body presenting the course of events, key figures, and supporting materials; and a Conclusion assessing the event's significance.
+- **Giải thích (VI):** Đề cương bố cục ba phần dùng để viết báo cáo thực hành về một sự kiện lịch sử tiêu biểu của Cộng hoà Nam Phi (như quá trình thành lập quốc gia, cuộc đấu tranh xoá bỏ chế độ A-pác-thai hay sự kiện bầu Tổng thống da màu đầu tiên): Mở đầu giới thiệu tên và thời gian sự kiện; Nội dung chính trình bày tiến trình, nhân vật và tư liệu liên quan; Kết luận đánh giá ý nghĩa của sự kiện.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 12 (Mục 2): hướng dẫn cấu trúc bài viết thực hành tìm hiểu khái quát về Cộng hoà Nam Phi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B12 (Mục 1.a), tr. 138; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B12 (Mục 2), tr. 138
+
+### report structure on Asian economies
+- **Tiếng Việt:** Cấu trúc báo cáo tìm hiểu kinh tế châu Á
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A three-part outline for presenting a practical report on a representative Asian economy: an Introduction providing a general overview; a Main Body analyzing its development process, current status (total GDP, GDP per capita, export value, etc.), and causes using data and charts; and a Conclusion offering overall remarks and development lessons.
+- **Giải thích (VI):** Đề cương bố cục gồm ba phần dùng để trình bày báo cáo thực hành về một nền kinh tế tiêu biểu ở châu Á: Mở đầu giới thiệu khái quát nền kinh tế; Nội dung chính phân tích quá trình phát triển, hiện trạng (tổng GDP, GDP/người, giá trị xuất khẩu,...) và nguyên nhân qua tư liệu, số liệu, biểu đồ; Kết luận nêu nhận xét tổng quan cùng bài học kinh nghiệm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 8 (Mục 2): hướng dẫn sắp xếp tư liệu và viết báo cáo thực hành về các nền kinh tế lớn, mới nổi ở châu Á.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B8 (Mục 1.c), tr. 126; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2), tr. 126
 
 ### report topics on a service industry
 - **Tiếng Việt:** Nội dung báo cáo tìm hiểu về một ngành dịch vụ
@@ -4890,6 +5796,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với lược đồ trí nhớ một khu vực (area mental map) tái hiện bố cục tổng thể của một không gian xác định.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5, tr. 113; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5 (Mục 1), tr. 113; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5 (Mục 2), tr. 113; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5 (Mục 2.a), tr. 113
 
+### rural urbanization
+- **Tiếng Việt:** Đô thị hoá nông thôn
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The rapid spread of urban characteristics into rural areas driven by the development of industrial production in the countryside combined with the suburban expansion of cities, creating satellite cities.
+- **Giải thích (VI):** Quá trình phát triển nhanh tính chất đô thị ở vùng nông thôn thông qua việc phát triển sản xuất công nghiệp tại nông thôn kết hợp với mở rộng ngoại ô của các đô thị, tạo nên các đô thị vệ tinh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2): xu hướng phát triển các đô thị vệ tinh và lan toả lối sống đô thị về nông thôn ở châu Âu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2), tr. 103; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3), tr. 103
+
 ### salinity
 - **Tiếng Việt:** Độ muối
 - **Chuyên ngành gốc:** Địa lí
@@ -4913,6 +5827,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tầm vóc phát triển và mở rộng của Liên minh châu Âu (EU) về số lượng thành viên, diện tích, dân số và kinh tế từ tổ chức tiền thân gồm 6 nước (năm 1957) đến khi chính thức thành lập theo Hiệp ước Ma-xtrích (1/11/1993). Năm 2021, EU gồm 27 quốc gia thành viên, chiếm khoảng 5,8% dân số và đóng góp 17,8% GDP toàn thế giới.
 - **Bối cảnh:** Địa lí lớp 11, Bài 9 (Mục I.1): Khái quát quá trình hình thành, mở rộng thành viên và quy mô dân số, kinh tế của Liên minh châu Âu.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.1), tr. 37, 38
+
+### sclerophyllous forest
+- **Tiếng Việt:** Rừng lá cứng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A forest type developing in subtropical regions with rainy winters and hot, dry summers, composed of evergreen plant species with hard, wax-coated leaves.
+- **Giải thích (VI):** Kiểu rừng phát triển ở vùng cận nhiệt đới có mùa đông mưa nhiều và mùa hè khô nóng, với thành phần thực vật là các loài cây có lá thường xanh, cứng và có lớp sáp che phủ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 1 (Mục 2.d): thảm rừng và cây bụi lá cứng phát triển ở phía nam châu Âu nơi có khí hậu cận nhiệt địa trung hải.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178
 
 ### sea
 - **Tiếng Việt:** Biển
@@ -5386,12 +6308,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B26, tr. 118; SGK Địa lí 12 KNTT, Phần 4, B26 (Mục I.1), tr. 118; SGK Địa lí 12 KNTT, Phần 4, B26 (Mục I.2), tr. 118
 
 ### Southeast Asia
-- **Tiếng Việt:** Đông Nam Á
+- **Tiếng Việt:** Đông Nam Á (Khu vực Đông Nam Á)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A geographical region encompassing peninsulas and archipelagos stretching between the Pacific Ocean and the Indian Ocean, serving as a strategic maritime crossroads linking major world civilizations. Today, the region comprises 11 sovereign nations divided into Mainland Southeast Asia and Maritime Southeast Asia.
 - **Giải thích (VI):** Khu vực địa lí gồm hệ thống bán đảo và quần đảo trải dài giữa Thái Bình Dương và Ấn Độ Dương, giữ vị trí cầu nối hàng hải chiến lược giữa các nền văn minh lớn trên thế giới. Hiện nay, khu vực này gồm 11 quốc gia thuộc hai bộ phận là Đông Nam Á lục địa và Đông Nam Á hải đảo.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 9 (Mục 1.a): Vị trí địa lí và phạm vi phân nhóm các quốc gia tạo cơ sở hình thành văn minh Đông Nam Á.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B9, tr. 76; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 1.a), tr. 76; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 1.a), tr. 76, 77
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A region of approximately 4.5 million km² in southeastern Asia, consisting of two parts: the mainland (Indochinese Peninsula) and the insular region (Malay Archipelago). The mainland features mountain ranges alternating with deep river valleys and alluvial plains, whereas the islands are predominantly hilly and mountainous with frequent volcanoes, earthquakes, and tsunamis. / VI: Khu vực rộng khoảng 4,5 triệu km² nằm ở phía đông nam châu Á, gồm hai bộ phận là phần đất liền (bán đảo Trung Ấn) và phần hải đảo (quần đảo Mã Lai). Địa hình phần đất liền bị chia cắt bởi các dãy núi xen thung lũng sông và đồng bằng phù sa, trong khi phần hải đảo chủ yếu là đồi núi với nhiều núi lửa, động đất và sóng thần.
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 9 (Mục 1.a): Vị trí địa lí và phạm vi phân nhóm các quốc gia tạo cơ sở hình thành văn minh Đông Nam Á.
+  - Lịch sử và Địa lí lớp 7, Bài 7 (Mục 2.g): đặc điểm tự nhiên hai bộ phận lục địa và hải đảo của khu vực Đông Nam Á.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B9, tr. 76; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 1.a), tr. 76; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 1.a), tr. 76, 77; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124, 125
 
 ### Southeast Region
 - **Tiếng Việt:** Đông Nam Bộ
@@ -5402,6 +6327,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 12, Bài 29 (Mục I.1): Vị trí địa lí, phạm vi lãnh thổ và vai trò kinh tế của vùng Đông Nam Bộ.
   - *Lưu ý:* Thuật ngữ tiếng Anh Southeast Region (hoặc South East trong niên giám thống kê) trong ngữ cảnh Địa lí Việt Nam dùng để chỉ vùng kinh tế – xã hội Đông Nam Bộ.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B29, tr. 135; SGK Địa lí 12 KNTT, Phần 4, B29 (Mục I.1), tr. 135; SGK Địa lí 12 KNTT, Phần 4, B29 (Mục I.2), tr. 135
+
+### Southern Asia
+- **Tiếng Việt:** Khu vực Nam Á
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A region of approximately 7 million km² in southern Asia, topographically structured with the Himalayas in the north, the Iranian Plateau in the west, the Deccan Plateau in the south, and the Indo-Gangetic Plain in the center. Most of its territory experiences a tropical monsoon climate with major river systems (Indus, Ganges, Brahmaputra) and tropical monsoon forest and savanna vegetation.
+- **Giải thích (VI):** Khu vực rộng khoảng 7 triệu km² ở phía nam châu Á, cấu trúc địa hình gồm dãy Hi-ma-lay-a ở phía bắc, sơn nguyên I-ran ở phía tây, sơn nguyên Đê-can ở phía nam và đồng bằng Ấn – Hằng ở trung tâm. Đại bộ phận lãnh thổ mang khí hậu nhiệt đới gió mùa với các hệ thống sông lớn Ấn, Hằng, Bra-ma-pút cùng thảm rừng nhiệt đới gió mùa và xa van.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 2.d): đặc điểm địa hình, khí hậu nhiệt đới gió mùa và thuỷ văn của khu vực Nam Á.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.d), tr. 122
 
 ### Southern Hemisphere
 - **Tiếng Việt:** Bán cầu Nam
@@ -5424,8 +6357,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The ocean located south of latitude 60°S and encircling Antarctica, recognized by the National Geographic Society as the world's fifth ocean on June 8, 2021.
 - **Giải thích (VI):** Đại dương nằm ở phía nam vĩ tuyến 60°N và bao quanh châu Nam Cực, được Hiệp hội Địa lí Quốc gia Hoa Kỳ công nhận là đại dương thứ năm trên thế giới vào ngày 8 – 6 – 2021.
-- **Bối cảnh:** Địa lí lớp 10, Bài 8 (Hình 8): Xác định vị trí và phạm vi của Nam Đại Dương trên các bản đồ tự nhiên thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần hai, B8, tr. 27; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 4.b), tr. 34
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: The ocean encircling Antarctica in the Southern Hemisphere. In June 2021, it was recognized by the National Geographic Society of the United States as the world's fifth ocean. / VI: Đại dương bao bọc xung quanh châu Nam Cực ở bán cầu Nam. Tháng 6 năm 2021, vùng đại dương này được Hội Địa lí quốc gia Hoa Kỳ công nhận là đại dương thứ năm trên thế giới.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 8 (Hình 8): Xác định vị trí và phạm vi của Nam Đại Dương trên các bản đồ tự nhiên thế giới.
+  - Lịch sử và Địa lí lớp 7, Bài 19 (Mục 2): vùng đại dương bao bọc xung quanh châu Nam Cực.
+- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần hai, B8, tr. 27; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 4.b), tr. 34; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19 (Mục 2), tr. 163
 
 ### southern territorial part of Vietnam
 - **Tiếng Việt:** Phần lãnh thổ phía Nam
@@ -5455,6 +6391,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với vùng nông nghiệp (hình thức tổ chức lãnh thổ nông nghiệp cao nhất dựa trên sự tương đồng sinh thái – kinh tế tổng hợp toàn vùng); vùng chuyên canh tập trung chuyên sâu vào một hoặc vài nông sản chủ lực.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B13, tr. 62; SGK Địa lí 12 KNTT, Phần 3, B13 (Mục II), tr. 63
 
+### specialized industrial crop farming in the equatorial environment
+- **Tiếng Việt:** Chuyên canh cây công nghiệp ở môi trường xích đạo
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A large-scale agricultural production method in Africa's equatorial environment that utilizes year-round high temperatures and humidity to cultivate concentrated industrial crops such as oil palm and cacao for export and processing. This practice must be paired with forest protection and reforestation to prevent erosion and leaching of the thin humus layer.
+- **Giải thích (VI):** Phương thức tổ chức sản xuất nông nghiệp quy mô lớn tại môi trường xích đạo châu Phi, tận dụng nền nhiệt ẩm cao quanh năm để trồng tập trung các cây công nghiệp như cọ dầu, ca cao phục vụ xuất khẩu và chế biến. Hoạt động này đòi hỏi đi đôi với trồng và bảo vệ rừng nhằm hạn chế xói mòn, rửa trôi tầng mùn mỏng của đất.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 1): phương thức con người khai thác và bảo vệ thiên nhiên ở môi trường xích đạo châu Phi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 1), tr. 135
+
+### spontaneous urbanization
+- **Tiếng Việt:** Đô thị hoá tự phát
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The process of urban expansion driven by excessive urban population growth and migration from other areas, particularly rural-to-urban migration in less developed countries with wide urban–rural living-standard disparities. This phenomenon leads to severe social problems such as unemployment, housing shortages, and disease.
+- **Giải thích (VI):** Sự phát triển thành phố do tăng quá mức dân cư đô thị và do dân di cư từ các vùng khác đến, đặc biệt là từ nông thôn tại những nước chậm phát triển có mức sống chênh lệch lớn giữa thành thị và nông thôn. Hiện tượng này dẫn tới nhiều hệ luỵ xã hội như nạn thất nghiệp, thiếu nhà ở và dịch bệnh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 1.b): mặt trái của tốc độ đô thị hoá nhanh tại một số nơi ở Trung và Nam Mỹ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B17 (Mục 1.b), tr. 152, 153; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178
+
 ### spring tide
 - **Tiếng Việt:** Triều cường
 - **Chuyên ngành gốc:** Địa lí
@@ -5479,6 +6431,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 24 (Mục I): khái quát lịch sử tăng trưởng và vị thế kinh tế của Nhật Bản qua các thời kì.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B24, tr. 121; SGK Địa lí 11 KNTT, Phần hai, B24 (Mục I), tr. 121; SGK Địa lí 11 KNTT, Phần hai, B24 (Mục I), tr. 121, 122
 
+### steppe
+- **Tiếng Việt:** Thảo nguyên
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A temperate grassland biome characterized by a dry climate with low rainfall.
+- **Giải thích (VI):** Đồng cỏ vùng ôn đới có khí hậu hanh khô, ít mưa.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 1 (Mục 2.d): cảnh quan đồng cỏ ôn đới phát triển ở phía đông nam châu Âu trên nhóm đất đen thảo nguyên ôn đới.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.d), tr. 100
+
 ### storm
 - **Tiếng Việt:** Bão
 - **Chuyên ngành gốc:** Địa lí
@@ -5486,6 +6446,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hiện tượng khí tượng nguy hiểm tại vùng có khí áp thấp hơn xung quanh, kèm theo mưa lớn và gió mạnh từ cấp 8 trở lên.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 30 (Mục 1.c): Nhận diện loại thiên tai khí tượng phổ biến để tìm hiểu tác động và biện pháp phòng chống ở địa phương.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
+
+### Strait of Magellan
+- **Tiếng Việt:** Eo biển Ma-gien-lăng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A strait located at the southern tip of South America connecting the Atlantic Ocean and the Pacific Ocean, named after Ferdinand Magellan after his expedition discovered this passage while sailing westward from Spain into the Pacific.
+- **Giải thích (VI):** Eo biển nằm ở cực Nam châu Mỹ nối Đại Tây Dương với Thái Bình Dương, mang tên nhà thám hiểm Ph. Ma-gien-lăng sau khi đoàn của ông khám phá ra tuyến đường này trên hành trình từ Tây Ban Nha đi về hướng tây tiến vào Thái Bình Dương.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Chủ đề chung 1 (Mục 2.b): tuyến eo biển nối Đại Tây Dương với Thái Bình Dương ở cực Nam châu Mỹ trên hành trình của đoàn thám hiểm Ph. Ma-gien-lăng.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.a), tr. 168; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 168; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 168, 169
 
 ### Strait of Malacca
 - **Tiếng Việt:** Eo biển Ma-lắc-ca
@@ -5522,6 +6490,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 23 (Mục II.3): khai thác thế mạnh đất đai và khí hậu phân hoá để phát triển nông sản đặc sản ở Trung du và miền núi Bắc Bộ.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B23 (Mục II.3), tr. 99, 100
 
+### subtropical environment
+- **Tiếng Việt:** Môi trường cận nhiệt
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A transitional natural environment between the tropical and temperate zones (located at the northernmost and southernmost tips of Africa), featuring mild, humid, rainy winters and hot, dry summers. Its characteristic vegetation consists of sclerophyllous forests and shrublands.
+- **Giải thích (VI):** Môi trường tự nhiên chuyển tiếp giữa đới nóng và đới ôn hoà (phân bố ở phần cực bắc và cực nam châu Phi), có chế độ khí hậu mùa đông ấm, ẩm, mưa nhiều và mùa hạ nóng, khô. Thảm thực vật đặc trưng là rừng và cây bụi lá cứng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2.d): hai dải môi trường tự nhiên nằm ở dải ven Địa Trung Hải (cực bắc) và vùng cực nam châu Phi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 131
+
 ### subtropical monsoon montane belt
 - **Tiếng Việt:** Đai cận nhiệt đới gió mùa trên núi
 - **Chuyên ngành gốc:** Địa lí
@@ -5553,6 +6529,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nhóm ngành công nghiệp chuyên sản xuất nguyên liệu, vật liệu, linh kiện và phụ tùng cung ứng cho quá trình sản xuất, lắp ráp sản phẩm hoàn chỉnh. Sự phát triển của công nghiệp hỗ trợ góp phần nâng cao tỉ lệ nội địa hoá và thúc đẩy công nghiệp chuyển dịch sang các công đoạn có giá trị gia tăng cao trong chuỗi giá trị toàn cầu.
 - **Bối cảnh:** Địa lí lớp 12, Bài 15 (Mục I): vai trò nâng cao tỉ lệ nội địa hoá trong chuyển dịch cơ cấu ngành công nghiệp Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B15, tr. 66; SGK Địa lí 12 KNTT, Phần 3, B15 (Mục I), tr. 66, 67
+
+### sustainable forest management
+- **Tiếng Việt:** Khai thác bền vững tài nguyên rừng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A system of rational forest management, utilization, and restoration measures including establishing national parks, selective logging paired with natural regeneration, mandatory reforestation after harvesting, and wildfire prevention. These measures are implemented by the United States and Canada to sustain forest resources in North America.
+- **Giải thích (VI):** Hệ thống các biện pháp quản lí, sử dụng và phục hồi rừng hợp lí gồm thành lập các vườn quốc gia, khai thác có chọn lọc để rừng tái sinh tự nhiên, quy định trồng mới sau khai thác và phòng chống cháy rừng. Các biện pháp này được Hoa Kỳ và Ca-na-đa áp dụng nhằm bảo vệ lâu dài tài nguyên rừng ở Bắc Mỹ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 3): các biện pháp quản lí và phục hồi tài nguyên rừng ở Hoa Kỳ và Ca-na-đa.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 148
 
 ### sustainable tourism
 - **Tiếng Việt:** Du lịch bền vững
@@ -5615,6 +6599,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với bưu chính (vận chuyển thư tín, bưu phẩm, bưu kiện hữu hình qua mạng lưới bưu cục).
 - **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B35, tr. 98; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 1.b), tr. 98, 99; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục II.2), tr. 88
 
+### temperate continental climate
+- **Tiếng Việt:** Khí hậu ôn đới lục địa
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A temperate climate type characterized by cold, dry winters and hot, humid summers, with low average annual precipitation of around 500 mm concentrated mainly in summer.
+- **Giải thích (VI):** Kiểu khí hậu ôn đới có mùa đông lạnh và khô, mùa hạ nóng và ẩm, lượng mưa trung bình năm nhỏ (chỉ trên dưới 500 mm) và mưa chủ yếu vào mùa hạ.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 1 (Mục 2.b): đặc điểm kiểu khí hậu chiếm diện tích lớn ở vùng nội địa và phía đông đới khí hậu ôn đới châu Âu.
+  - *Lưu ý:* Khác với khí hậu ôn đới hải dương (ấm ẩm, mưa quanh năm), khí hậu ôn đới lục địa có mùa đông lạnh khô và lượng mưa nhỏ tập trung vào mùa hạ.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.b), tr. 99; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.c), tr. 99; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.d), tr. 99
+
+### temperate maritime climate
+- **Tiếng Việt:** Khí hậu ôn đới hải dương
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A temperate climate type characterized by mild weather, relatively warm winters, cool summers, and year-round precipitation with an annual average of 800–1,000 mm or more.
+- **Giải thích (VI):** Kiểu khí hậu ôn đới mang tính chất ôn hoà, mùa đông tương đối ấm, mùa hạ mát, có mưa quanh năm với lượng mưa trung bình năm từ 800 – 1 000 mm trở lên.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 1 (Mục 2.b): đặc điểm kiểu khí hậu phân bố ở các vùng ven Đại Tây Dương thuộc đới khí hậu ôn đới châu Âu.
+  - *Lưu ý:* Khác với khí hậu ôn đới lục địa (mùa đông lạnh khô, mưa ít), khí hậu ôn đới hải dương ôn hoà và có mưa quanh năm với lượng mưa lớn.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.a), tr. 98; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.b), tr. 98; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.b), tr. 98, 99
+
 ### temperate monsoon montane belt
 - **Tiếng Việt:** Đai ôn đới gió mùa trên núi
 - **Chuyên ngành gốc:** Địa lí
@@ -5642,6 +6646,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 25 (Mục 2): Mô tả tính chất giao thoa và sự thay đổi cảnh quan theo mùa, theo không gian của hai đới thiên nhiên ôn hoà.
   - *Lưu ý:* Trong Bài 25, thuật ngữ chỉ đới thiên nhiên ôn hoà (gồm khí hậu, đất đai và các thảm cảnh quan), phân biệt với đới khí hậu ôn hoà (ôn đới) chỉ xét yếu tố khí hậu.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.a), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.b), tr. 151, 152; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25, tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 1), tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 2), tr. 175
+
+### temperate zone in Asia
+- **Tiếng Việt:** Đới ôn hoà ở châu Á
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A vast natural zone in Asia differentiated from north to south and east to west: northern Siberia has a temperate continental climate with coniferous forests on podzol soils; eastern and southeastern China and the Japanese archipelago have a subtropical monsoon climate with subtropical broadleaf forests; and harsh, arid interior areas form steppes, deserts, and semi-deserts.
+- **Giải thích (VI):** Đới thiên nhiên chiếm diện tích rộng lớn ở châu Á, phân hoá từ bắc xuống nam và từ đông sang tây: vùng Xi-bia phía bắc có khí hậu ôn đới lục địa với rừng lá kim trên nền đất pốt dôn; phía đông, đông nam Trung Quốc và quần đảo Nhật Bản có khí hậu cận nhiệt gió mùa với rừng lá rộng cận nhiệt; các khu vực sâu trong lục địa khô hạn khắc nghiệt hình thành cảnh quan thảo nguyên, hoang mạc và bán hoang mạc.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 5 (Mục 2.e): đới thiên nhiên chiếm diện tích rộng lớn ở châu Á với sự phân hoá rõ rệt từ bắc xuống nam và từ đông sang tây.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.d), tr. 113; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.e), tr. 113; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.e), tr. 113, 114
+
+### temperate zone in Europe
+- **Tiếng Việt:** Đới ôn hoà ở châu Âu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A natural zone occupying most of Europe's territory, characterized by temperate and subtropical climates in which natural landscapes change with variations in temperature and precipitation.
+- **Giải thích (VI):** Đới thiên nhiên chiếm phần lớn diện tích lãnh thổ châu Âu, có khí hậu ôn đới và khí hậu cận nhiệt với thiên nhiên thay đổi theo sự phân hoá của nhiệt độ và lượng mưa.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 1 (Mục 2.d): nhận diện đới thiên nhiên chiếm phần lớn diện tích châu Âu có sự phân hoá thiên nhiên theo nhiệt độ và lượng mưa.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.b), tr. 99; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.c), tr. 99; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.d), tr. 99
+
+### temperate zone in North America
+- **Tiếng Việt:** Đới ôn hoà ở Bắc Mỹ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The extensive natural zone in North America exhibiting diverse landscape differentiation according to thermal and moisture conditions. Coniferous forests grow in the north, mixed and broadleaf forests thrive in the warm and humid southeast, steppes form in the dry interior, and deserts and semi-deserts develop on the arid plateaus of the Cordilleras.
+- **Giải thích (VI):** Đới thiên nhiên chiếm diện tích rộng ở Bắc Mỹ và có sự phân hoá cảnh quan đa dạng theo điều kiện nhiệt ẩm. Phía bắc phát triển rừng lá kim, phía đông nam ấm ẩm có rừng hỗn hợp và rừng lá rộng, sâu trong lục địa mưa ít hình thành thảo nguyên, còn trên các cao nguyên khô hạn thuộc miền núi Coóc-đi-e hình thành hoang mạc và bán hoang mạc.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 4): đới thiên nhiên chiếm diện tích lớn nhất ở Bắc Mỹ, phân hoá theo cả chiều bắc – nam và tây – đông.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 3), tr. 144; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 4), tr. 144
 
 ### temperature distribution by continent and ocean
 - **Tiếng Việt:** Phân bố nhiệt độ theo lục địa, đại dương
@@ -6138,6 +7166,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 1 (Mục 1): nhận diện hai đường vĩ tuyến đặc biệt ở vĩ độ 23°27' Bắc và 23°27' Nam trên quả Địa Cầu.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1, tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 102
 
+### tropical environment
+- **Tiếng Việt:** Môi trường nhiệt đới
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A natural environment distinctly divided into wet and dry seasons (in Africa comprising two symmetrical belts roughly coinciding with the sub-equatorial climate zone). Its characteristic landscape consists of open woodlands and shrub savannas supporting abundant wildlife, including herbivores (zebras, antelopes, giraffes) and carnivores (lions, leopards).
+- **Giải thích (VI):** Môi trường tự nhiên phân hoá rõ rệt thành mùa mưa và mùa khô (tại châu Phi gồm hai dải đối xứng gần trùng với đới khí hậu cận xích đạo). Cảnh quan đặc trưng là rừng thưa và xa van cây bụi với hệ động vật hoang dã phong phú gồm các loài ăn cỏ (ngựa vằn, sơn dương, hươu cao cổ) và ăn thịt (sư tử, báo gấm).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2.d): hai dải môi trường tự nhiên đối xứng ở bắc và nam Xích đạo với cảnh quan xa van đặc trưng của châu Phi.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 131
+
 ### tropical forest
 - **Tiếng Việt:** Rừng nhiệt đới
 - **Chuyên ngành gốc:** Địa lí
@@ -6180,6 +7216,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 24 (Mục 1): Phân biệt kiểu rừng nhiệt đới mưa quanh năm với rừng nhiệt đới gió mùa.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24, tr. 173; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 1), tr. 173; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 1), tr. 173, 174
 
+### tropical rainforest in Asia
+- **Tiếng Việt:** Rừng mưa nhiệt đới ở châu Á
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A forest ecosystem developing in Asian regions with high rainfall and humidity evenly distributed throughout the year, such as the lower Ganges plain, Myanmar, Vietnam, and the Malay Archipelago. Beneath the forest canopy, characteristic red-yellow ferralitic soil forms.
+- **Giải thích (VI):** Kiểu hệ sinh thái rừng phát triển tại những khu vực châu Á có lượng mưa và độ ẩm lớn phân bố đều quanh năm như đồng bằng hạ lưu sông Hằng, Mi-an-ma, Việt Nam và quần đảo Mã Lai. Dưới tán rừng hình thành nhóm đất feralit đỏ vàng đặc trưng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 5 (Mục 2.e): thảm rừng điển hình của các khu vực nóng ẩm mưa đều quanh năm ở châu Á.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.e), tr. 114
+
 ### tropical red-yellow soil
 - **Tiếng Việt:** Đất đỏ vàng nhiệt đới
 - **Chuyên ngành gốc:** Địa lí
@@ -6199,6 +7243,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 25 (Mục 1): Trình bày đặc điểm tổng hợp về khí hậu, cảnh quan và sinh vật của đới thiên nhiên nóng.
   - *Lưu ý:* Trong Bài 25, thuật ngữ chỉ đới thiên nhiên nóng (tổng hợp khí hậu, đất, cảnh quan và sinh vật), phân biệt với đới khí hậu nóng (nhiệt đới) chỉ xét riêng yếu tố khí hậu.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.a), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.b), tr. 151, 152; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25, tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 1), tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 2), tr. 175
+
+### tropical zone in Asia
+- **Tiếng Việt:** Đới nóng ở châu Á
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A natural zone distributed mainly in Southern Asia and Southeast Asia, characterized by tropical monsoon and equatorial climates. Its typical vegetation consists of tropical rainforests and tropical monsoon forests with diverse species composition, valuable timber trees, and rare animals.
+- **Giải thích (VI):** Đới thiên nhiên phân bố chủ yếu ở Nam Á và Đông Nam Á, đặc trưng bởi khí hậu nhiệt đới gió mùa và khí hậu xích đạo. Thảm thực vật điển hình là rừng mưa nhiệt đới và rừng nhiệt đới gió mùa có thành phần loài đa dạng, nhiều cây gỗ tốt và động vật quý hiếm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 5 (Mục 2.e): đới thiên nhiên phân bố ở khu vực Nam Á và Đông Nam Á.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.e), tr. 113; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.e), tr. 113, 114
 
 ### troposphere
 - **Tiếng Việt:** Tầng đối lưu
@@ -6231,12 +7283,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 2.a), tr. 42; SGK Địa lí 10 KNTT, Phần hai, B12 (Mục 2.b), tr. 42; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 2.a), tr. 164; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 2.b), tr. 164; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B21 (Mục 3.a), tr. 164
 
 ### tundra
-- **Tiếng Việt:** Đài nguyên
+- **Tiếng Việt:** Đài nguyên (đồng rêu)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The characteristic landscape and vegetation type of the polar zone formed on thin soil, consisting of low-growing plants such as mosses, lichens, and herbaceous species that grow during the brief summer.
 - **Giải thích (VI):** Kiểu cảnh quan và thảm thực vật đặc trưng của đới lạnh hình thành trên tầng đất mỏng, gồm các loài thực vật thấp lùn như rêu, địa y và cây thân thảo sinh trưởng trong mùa hạ ngắn ngủi.
-- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 25 (Mục 3): Nhận diện cảnh quan và thảm thực vật tiêu biểu ở vùng cực thuộc đới lạnh.
-- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25, tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 1), tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 2), tr. 175
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A natural landscape found in near-polar regions or on the peaks of high mountain ranges, where vegetation consists mainly of mosses, lichens, and low shrubs. / VI: Cảnh quan ở những vùng gần cực hay trên đỉnh của những dãy núi cao, nơi thực vật chủ yếu là rêu, địa y và cây bụi thấp.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 25 (Mục 3): Nhận diện cảnh quan và thảm thực vật tiêu biểu ở vùng cực thuộc đới lạnh.
+  - Lịch sử và Địa lí lớp 7, Bài 1 (Mục 2.d): cảnh quan đài nguyên ở khu vực Bắc Âu thuộc đới lạnh.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25, tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 1), tr. 175; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B25 (Mục 2), tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.d), tr. 100
 
 ### United Nations
 - **Tiếng Việt:** Liên hợp quốc (UN)
@@ -6304,8 +7359,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A socioeconomic process characterized by the rapid growth in the number and size of urban settlements, the concentration of population in cities—especially large cities—and the widespread diffusion of urban lifestyles.
 - **Giải thích (VI):** Quá trình kinh tế – xã hội biểu hiện qua sự gia tăng nhanh về số lượng và quy mô của các điểm dân cư đô thị, sự tập trung dân cư vào các thành phố (nhất là các thành phố lớn) và sự phổ biến rộng rãi lối sống thành thị.
-- **Bối cảnh:** Địa lí lớp 10, Bài 20 (Mục 2.a): Trình bày khái niệm và các biểu hiện đặc trưng của quá trình đô thị hoá trên thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 2.a), tr. 61
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: The process of developing cities within a country or making human settlements acquire urban characteristics. / VI: Quá trình phát triển các thành phố trong một quốc gia hoặc quá trình làm cho các điểm quần cư có tính chất đô thị.
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 20 (Mục 2.a): Trình bày khái niệm và các biểu hiện đặc trưng của quá trình đô thị hoá trên thế giới.
+  - Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2): đánh giá mức độ đô thị hoá cao của châu Âu khi khoảng 75% số dân sống ở khu vực đô thị (năm 2020).
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 2.a), tr. 61; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2), tr. 103
 
 ### urbanization in Latin America
 - **Tiếng Việt:** Đô thị hoá ở khu vực Mỹ La-tinh
@@ -6330,6 +7388,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Sự chênh lệch độ dài thời gian ngày và đêm theo mùa và theo vĩ độ ở bán cầu Bắc và bán cầu Nam trong quá trình Trái Đất chuyển động quanh Mặt Trời. Thời gian ngày và đêm bằng nhau quanh năm ở Xích đạo và khắp nơi vào hai ngày 21 – 3 và 23 – 9, càng xa Xích đạo độ chênh lệch càng lớn, riêng ở hai cực có sáu tháng ngày và sáu tháng đêm.
 - **Bối cảnh:** Địa lí lớp 10, Bài 5 (Mục 2.a): Phân tích quy luật thay đổi độ dài ngày đêm theo mùa và theo vĩ độ ở hai bán cầu.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 2), tr. 19; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 2.a), tr. 19; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 2.a), tr. 19, 20
+
+### vertical stratification of the Amazon rainforest
+- **Tiếng Việt:** Cấu trúc tầng rừng A-ma-dôn (tầng vượt tán; tầng tán; tầng dưới tán)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The vertical arrangement of vegetation into four layers in the Amazon rainforest, comprising the emergent layer (woody trees 50–60 m tall) and the canopy layer (trees 30–45 m tall). Beneath them lie the understory layer (shrubs, herbs, small trees, and lianas) and the forest-floor layer inhabited by shade-loving species.
+- **Giải thích (VI):** Sự phân bố thực vật thành bốn tầng theo chiều thẳng đứng trong rừng A-ma-dôn, gồm tầng trên hay tầng vượt tán (cây thân gỗ cao 50 – 60 m) và tầng tán (cây gỗ cao 30 – 45 m). Bên dưới là tầng dưới tán (cây bụi, thảo mộc, cây gỗ nhỏ, dây leo) và tầng thảm tươi dành cho các loài ưa bóng tối sinh sống.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 2.a): sự phân tầng thực vật theo chiều thẳng đứng đặc trưng của rừng mưa nhiệt đới A-ma-dôn.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B17 (Mục 1.c), tr. 154; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2.a), tr. 154
 
 ### vertical tectonic movement
 - **Tiếng Việt:** Vận động theo phương thẳng đứng
@@ -6410,6 +7476,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quá trình chuyển hoá qua lại không ngừng giữa nước lỏng và hơi nước trong tự nhiên: nước lỏng trên bề mặt Trái Đất bay hơi bay lên cao, gặp lạnh ngưng tụ thành các giọt nước nhỏ li ti tạo mây, rồi rơi xuống thành mưa khi mây tập trung đủ lớn và nặng.
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 10 (Mục II.2): minh hoạ sự phối hợp liên tục giữa quá trình bay hơi và quá trình ngưng tụ của nước trên Trái Đất.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.1), tr. 33; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 33; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 33, 34
+
+### water environment protection in Europe
+- **Tiếng Việt:** Bảo vệ môi trường nước ở châu Âu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A set of water-quality improvement measures carried out by European countries, including controlling agricultural waste and toxic chemical outputs, treating domestic and industrial waste and wastewater before environmental discharge, managing marine economic pollution sources (shipping, tourism, fishing), and raising public awareness of water protection.
+- **Giải thích (VI):** Hệ thống biện pháp cải thiện chất lượng nguồn nước ở châu Âu, gồm tăng cường kiểm soát đầu ra rác thải và hoá chất độc hại từ nông nghiệp, bảo đảm xử lí rác thải, nước thải sinh hoạt và công nghiệp trước khi thải ra môi trường, kiểm soát nguồn gây ô nhiễm từ kinh tế biển (vận tải, du lịch, đánh bắt hải sản) và nâng cao ý thức bảo vệ môi trường nước của người dân.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 3 (Mục 1.b): các biện pháp kiểm soát nguồn thải sản xuất và sinh hoạt giúp cải thiện chất lượng môi trường nước ở châu Âu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1.b), tr. 105; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2), tr. 105
 
 ### water resource depletion
 - **Tiếng Việt:** Suy giảm tài nguyên nước
@@ -6494,6 +7568,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 15 (Mục 5): phân biệt phạm vi hoạt động và tính chất ấm, ẩm của gió Tây ôn đới với gió Mậu dịch, gió Đông cực.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.a), tr. 31; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32, 33; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 5), tr. 145
 
+### Western Asia
+- **Tiếng Việt:** Tây Á (Tây Nam Á)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A geographical region in western Asia comprising countries across the Arabian Peninsula, the Levant, and the Caucasus (such as Saudi Arabia, Iraq, Turkey, Qatar, and the UAE) under the United Nations classification. It is characterized by hot, arid natural conditions while holding more than half of the world's oil reserves.
+- **Giải thích (VI):** Khu vực địa lí ở phía tây châu Á gồm các quốc gia trên bán đảo A-rập, vùng Cận Đông và vùng Cáp-ca (như A-rập Xê-út, I-rắc, Thổ Nhĩ Kỳ, Ca-ta, UAE,...) theo phân vùng của Liên hợp quốc. Nơi đây có điều kiện tự nhiên khô hạn, nóng bức nhưng sở hữu hơn một nửa trữ lượng dầu mỏ của thế giới.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 1, 2.c): khu vực giàu tài nguyên dầu mỏ bậc nhất thế giới ở phía tây nam lục địa Á – Âu.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 1), tr. 118; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.c), tr. 121; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178
+
+### Western Australian Plateau
+- **Tiếng Việt:** Vùng sơn nguyên tây Ô-xtrây-li-a (sơn nguyên tây Ô-xtrây-li-a)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The western topographic region of the Australian continent with an average elevation below 500 m, featuring sandy deserts, stony deserts, plateaus, and low mountains such as the Barkly Tableland, the Kimberley Plateau, and the Great Victoria Desert. This region holds rich deposits of metallic minerals including iron, copper, gold, nickel, and bauxite.
+- **Giải thích (VI):** Khu vực địa hình ở phía tây lục địa Ô-xtrây-li-a có độ cao trung bình dưới 500 m, bề mặt là các hoang mạc cát, hoang mạc đá, cao nguyên và núi thấp như cao nguyên Bác-li, cao nguyên Kim-bơc-li và hoang mạc Vích-to-ri-a lớn. Đây là nơi tập trung nhiều mỏ kim loại như sắt, đồng, vàng, ni-ken và bô-xít.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 2.a): khu vực địa hình phía tây giàu khoáng sản kim loại của lục địa Ô-xtrây-li-a.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 1), tr. 157; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.a), tr. 157; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.a), tr. 157, 158
+
 ### Western Hemisphere
 - **Tiếng Việt:** Bán cầu Tây
 - **Chuyên ngành gốc:** Địa lí
@@ -6555,6 +7645,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 38 (Mục 2.c): Hướng dẫn cấu trúc biên soạn và hình thức trình bày báo cáo thực hành về ngành dịch vụ.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B38 (Mục 1), tr. 107; SGK Địa lí 10 KNTT, Phần ba, B38 (Mục 2.b), tr. 107; SGK Địa lí 10 KNTT, Phần ba, B38 (Mục 2.c), tr. 107
 
+### young mountain
+- **Tiếng Việt:** Núi trẻ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A mountain landform created in geologically recent times that has undergone little erosion, retaining rugged contours with high, sharp peaks.
+- **Giải thích (VI):** Dạng núi hình thành trong thời gian gần đây, ít bị bào mòn nên hình dáng núi còn sắc sảo với các đỉnh cao và nhọn.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 1 (Mục 2.a): nhận diện khu vực địa hình núi trẻ phân bố chủ yếu ở phía nam châu Âu (dãy An-pơ, Các-pát, Ban-căng).
+  - *Lưu ý:* Phân biệt với núi già: núi trẻ mới hình thành trong thời gian gần đây, ít bị bào mòn nên có các đỉnh cao và nhọn.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.a), tr. 98
+
 ### young mountain region
 - **Tiếng Việt:** Vùng núi trẻ
 - **Chuyên ngành gốc:** Địa lí
@@ -6562,6 +7662,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Vùng núi mới hình thành cách đây khoảng vài chục triệu năm, nơi tác động của quá trình nội sinh mạnh hơn quá trình ngoại sinh nên địa hình vẫn tiếp tục nâng cao.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 11 (Mục 2): phân biệt đặc điểm phát triển địa hình của vùng núi trẻ với vùng núi già.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 132
+
+### young population structure in Asia
+- **Tiếng Việt:** Cơ cấu dân số trẻ ở châu Á
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An age-structure characteristic of Asia's population featuring a high proportion of working-age people (67.7% in 2020) while gradually transitioning toward aging. This structure provides an abundant labor force for economic development while creating significant pressure on employment, education, and healthcare.
+- **Giải thích (VI):** Đặc điểm cơ cấu dân số theo tuổi của châu Á với tỉ lệ người trong độ tuổi lao động chiếm ưu thế (đạt 67,7% năm 2020) và đang chuyển dịch dần theo hướng già hoá. Cơ cấu này cung cấp nguồn lao động dồi dào cho phát triển kinh tế nhưng đồng thời tạo sức ép lớn về việc làm, giáo dục và chăm sóc y tế.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1.a): đặc điểm cơ cấu dân số theo tuổi của châu Á và tác động hai mặt đối với kinh tế – xã hội.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 115
 
 ### zone time
 - **Tiếng Việt:** Giờ múi (Giờ khu vực; khu vực giờ)

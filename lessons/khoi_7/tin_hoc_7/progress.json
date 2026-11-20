@@ -1,0 +1,409 @@
+{
+  "unit": "tin_hoc_7",
+  "subject": "tin_hoc",
+  "subject_name": "Tin học",
+  "grade": 7,
+  "files": [
+    {
+      "file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+      "volume": null,
+      "page_count": 86,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "cd01",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 1",
+      "number": 1,
+      "title": "Máy tính và cộng đồng",
+      "dir": "Chu-de-01-May-tinh-va-cong-dong",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Thiết bị vào – ra",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Thiet-bi-vao-ra.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            6,
+            10
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Phần mềm máy tính",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Phan-mem-may-tinh.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            11,
+            13
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Quản lí dữ liệu trong máy tính",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Quan-li-du-lieu-trong-may-tinh.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            14,
+            18
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd02",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 2",
+      "number": 2,
+      "title": "Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
+      "dir": "Chu-de-02-To-chuc-luu-tru-tim-kiem-va-trao-doi",
+      "children": [
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Mạng xã hội và một số kênh trao đổi thông tin trên Internet",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Mang-xa-hoi-va-mot-so-kenh-trao-doi-thong-tin.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            19,
+            23
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd03",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 3",
+      "number": 3,
+      "title": "Đạo đức, pháp luật và văn hoá trong môi trường số",
+      "dir": "Chu-de-03-Dao-duc-phap-luat-va-van-hoa-trong-moi",
+      "children": [
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Ứng xử trên mạng",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Ung-xu-tren-mang.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            24,
+            28
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd04",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 4",
+      "number": 4,
+      "title": "Ứng dụng tin học",
+      "dir": "Chu-de-04-Ung-dung-tin-hoc",
+      "children": [
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Làm quen với phần mềm bảng tính",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Lam-quen-voi-phan-mem-bang-tinh.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            29,
+            34
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Tính toán tự động trên bảng tính",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Tinh-toan-tu-dong-tren-bang-tinh.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            35,
+            39
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Công cụ hỗ trợ tính toán",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Cong-cu-ho-tro-tinh-toan.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            40,
+            45
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Trình bày bảng tính",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Trinh-bay-bang-tinh.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            46,
+            51
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Hoàn thiện bảng tính",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Hoan-thien-bang-tinh.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            52,
+            55
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Tạo bài trình chiếu",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Tao-bai-trinh-chieu.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            56,
+            61
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Định dạng đối tượng trên trang chiếu",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Dinh-dang-doi-tuong-tren-trang-chieu.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            62,
+            68
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Thực hành tổng hợp: Hoàn thiện bài trình chiếu",
+          "lesson_type": "thuc_hanh",
+          "file": "B13-Thuc-hanh-tong-hop-Hoan-thien-bai-trinh-chieu.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            69,
+            71
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd05",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 5",
+      "number": 5,
+      "title": "Giải quyết vấn đề với sự trợ giúp của máy tính",
+      "dir": "Chu-de-05-Giai-quyet-van-de-voi-su-tro-giup-cua",
+      "children": [
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Thuật toán tìm kiếm tuần tự",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-Thuat-toan-tim-kiem-tuan-tu.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            72,
+            74
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Thuật toán tìm kiếm nhị phân",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Thuat-toan-tim-kiem-nhi-phan.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            75,
+            78
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Thuật toán sắp xếp",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Thuat-toan-sap-xep.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            79,
+            83
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ",
+      "file": "Bang-giai-thich-thuat-ngu.md",
+      "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+      "pdf_pages": [
+        84,
+        84
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "Độ lệch trang in cố định printed_offset = 1 xuyên suốt toàn sách (PDF 3..85 = trang in 2..84; PDF 1–2 là bìa và trang tên sách, PDF 86 là bìa sau).",
+    "Tiêu đề CHỦ ĐỀ 1..5 nằm ngay đầu trang mở đầu của bài học đầu tiên thuộc chủ đề đó (trang in 5, 18, 23, 28, 71 — không tách trang bìa chủ đề riêng)."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-20",
+      "scope": [
+        "cd01",
+        "cd02",
+        "cd03",
+        "cd04",
+        "cd05"
+      ],
+      "terms": 111,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ 5 Chủ đề, 16 Bài học và Bảng giải thích thuật ngữ (111 thuật ngữ, 95 hình minh hoạ): lấy mẫu phân tầng 30 mục (10 mục in_source: Mẫu bố trí nội dung trang trình chiếu, COUNT, Trang tính, Quản lí dữ liệu, SUM, Loa thông minh, Phần mềm chống virus, Màn hình cảm ứng, Thuật toán tìm kiếm tuần tự, Hiệu ứng cho đối tượng; 10 mục [mô tả]: Hộp trạng thái, Sao chép công thức, Phòng tránh bệnh nghiện Internet, Ảnh minh hoạ, Định dạng dữ liệu ngày tháng, Định dạng dữ liệu số, Ứng xử có văn hoá qua mạng, Vị trí giữa của vùng tìm kiếm, Bài toán hoán đổi giá trị, Kênh trao đổi thông tin trên Internet; và 10 hình minh hoạ: H7-tin_hoc-b07-09, b03-01, b04-03, b16-02, b08-04, b11-08, b09-04, b08-07, b07-11, b09-01). Toàn bộ 30/30 mục mẫu khớp 100% với trang sách gốc (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-20: Hoàn thành 100% tin_hoc_7 từ Cổng 0 đến Cổng 4 (5 Chủ đề, 16 Bài học, Bảng giải thích thuật ngữ, 95 hình minh hoạ, 5 từ điển với 111 thuật ngữ, 0 lỗi)."
+}

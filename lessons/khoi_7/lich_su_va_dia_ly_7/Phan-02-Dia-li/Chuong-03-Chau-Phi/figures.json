@@ -1,0 +1,52 @@
+{
+  "H7-lich_su_va_dia_ly-dl-b09-01": {
+    "pdf_page": 129,
+    "bbox": [36, 58, 568, 686]
+  },
+  "H7-lich_su_va_dia_ly-dl-b09-02": {
+    "pdf_page": 130,
+    "bbox": [115, 347, 484, 788]
+  },
+  "H7-lich_su_va_dia_ly-dl-b09-03": {
+    "pdf_page": 131,
+    "bbox": [220, 297, 544, 546]
+  },
+  "H7-lich_su_va_dia_ly-dl-b09-04": {
+    "pdf_page": 132,
+    "bbox": [72, 212, 543, 770]
+  },
+  "H7-lich_su_va_dia_ly-dl-b09-05": {
+    "pdf_page": 133,
+    "bbox": [255, 54, 543, 229]
+  },
+  "H7-lich_su_va_dia_ly-dl-b09-06": {
+    "pdf_page": 133,
+    "bbox": [333, 301, 544, 468]
+  },
+  "H7-lich_su_va_dia_ly-dl-b10-01": {
+    "pdf_page": 135,
+    "bbox": [52, 360, 544, 594]
+  },
+  "H7-lich_su_va_dia_ly-dl-b11-01": {
+    "pdf_page": 136,
+    "bbox": [0, 597, 228, 776],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh Hình 1 tràn sát mép trái trang in 135 (PDF 136), không có lề trắng bên trái"
+  },
+  "H7-lich_su_va_dia_ly-dl-b11-02": {
+    "pdf_page": 137,
+    "bbox": [25, 200, 207, 464]
+  },
+  "H7-lich_su_va_dia_ly-dl-b11-03": {
+    "pdf_page": 137,
+    "bbox": [25, 549, 207, 770]
+  },
+  "H7-lich_su_va_dia_ly-dl-b11-04": {
+    "pdf_page": 138,
+    "bbox": [342, 54, 543, 220]
+  },
+  "H7-lich_su_va_dia_ly-dl-b11-05": {
+    "pdf_page": 138,
+    "bbox": [341, 316, 545, 506]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "H7-tieng_anh-u03-01": {
+    "pdf_page": 30,
+    "bbox": [53, 326, 288, 663],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh dưới khung bài tập 3 (lấy trọn chữ 'playground' câu 5 đến y=663) chạm chỏm tóc hình vẽ nhân vật trang trí góc dưới trái (y=652..667)"
+  },
+  "H7-tieng_anh-u03-02": {
+    "pdf_page": 31,
+    "bbox": [299, 64, 576, 566]
+  },
+  "H7-tieng_anh-u03-03": {
+    "pdf_page": 36,
+    "bbox": [54, 187, 292, 398]
+  }
+}

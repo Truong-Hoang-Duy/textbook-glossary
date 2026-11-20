@@ -1,0 +1,901 @@
+{
+  "unit": "lich_su_va_dia_ly_7",
+  "subject": "lich_su_va_dia_ly",
+  "subject_name": "Lịch sử và Địa lí",
+  "grade": 7,
+  "files": [
+    {
+      "file": "SGK Lich su va Dia li 7.pdf",
+      "volume": null,
+      "page_count": 185,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Lich su va Dia li 7.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Lich su va Dia li 7.pdf",
+      "pdf_pages": [
+        4,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Lich su va Dia li 7.pdf",
+      "pdf_pages": [
+        6,
+        7
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "phan-ls",
+      "role": "group",
+      "kind": "phan",
+      "label": null,
+      "number": 1,
+      "title": "Phần Lịch sử",
+      "dir": "Phan-01-Lich-su",
+      "children": [
+        {
+          "id": "ls-c01",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 1",
+          "number": 1,
+          "title": "Tây Âu từ thế kỉ V đến nửa đầu thế kỉ XVI",
+          "dir": "Chuong-01-Tay-Au-tu-the-ki-V-den-nua-dau-the-ki-XVI",
+          "children": [
+            {
+              "id": "ls-b01",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 1",
+              "number": 1,
+              "title": "Quá trình hình thành và phát triển của chế độ phong kiến ở Tây Âu",
+              "lesson_type": "ly_thuyet",
+              "file": "B01-Qua-trinh-hinh-thanh-va-phat-trien-cua-che-do.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                10,
+                14
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b02",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 2",
+              "number": 2,
+              "title": "Các cuộc phát kiến địa lí và sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu",
+              "lesson_type": "ly_thuyet",
+              "file": "B02-Cac-cuoc-phat-kien-dia-li-va-su-hinh-thanh-quan-he.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                15,
+                18
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b03",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 3",
+              "number": 3,
+              "title": "Phong trào Văn hoá Phục hưng và Cải cách tôn giáo",
+              "lesson_type": "ly_thuyet",
+              "file": "B03-Phong-trao-Van-hoa-Phuc-hung-va-Cai-cach-ton-giao.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                19,
+                23
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "ls-c02",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 2",
+          "number": 2,
+          "title": "Trung Quốc và Ấn Độ thời trung đại",
+          "dir": "Chuong-02-Trung-Quoc-va-An-Do-thoi-trung-dai",
+          "children": [
+            {
+              "id": "ls-b04",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 4",
+              "number": 4,
+              "title": "Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX",
+              "lesson_type": "ly_thuyet",
+              "file": "B04-Trung-Quoc-tu-the-ki-VII-den-giua-the-ki-XIX.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                25,
+                29
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b05",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 5",
+              "number": 5,
+              "title": "Ấn Độ từ thế kỉ IV đến giữa thế kỉ XIX",
+              "lesson_type": "ly_thuyet",
+              "file": "B05-An-Do-tu-the-ki-IV-den-giua-the-ki-XIX.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                30,
+                34
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "ls-c03",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 3",
+          "number": 3,
+          "title": "Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+          "dir": "Chuong-03-Dong-Nam-A-tu-nua-sau-the-ki-X-den-nua-dau-the-ki-XVI",
+          "children": [
+            {
+              "id": "ls-b06",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 6",
+              "number": 6,
+              "title": "Các vương quốc phong kiến Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+              "lesson_type": "ly_thuyet",
+              "file": "B06-Cac-vuong-quoc-phong-kien-Dong-Nam-A-tu-nua-sau.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                36,
+                39
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b07",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 7",
+              "number": 7,
+              "title": "Vương quốc Lào",
+              "lesson_type": "ly_thuyet",
+              "file": "B07-Vuong-quoc-Lao.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                40,
+                42
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b08",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 8",
+              "number": 8,
+              "title": "Vương quốc Cam-pu-chia",
+              "lesson_type": "ly_thuyet",
+              "file": "B08-Vuong-quoc-Cam-pu-chia.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                43,
+                44
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "ls-c04",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 4",
+          "number": 4,
+          "title": "Đất nước dưới thời các vương triều Ngô – Đinh – Tiền Lê (939 – 1009)",
+          "dir": "Chuong-04-Dat-nuoc-duoi-thoi-cac-vuong-trieu-Ngo-Dinh-Tien-Le",
+          "children": [
+            {
+              "id": "ls-b09",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 9",
+              "number": 9,
+              "title": "Đất nước buổi đầu độc lập (939 – 967)",
+              "lesson_type": "ly_thuyet",
+              "file": "B09-Dat-nuoc-buoi-dau-doc-lap-939-967.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                46,
+                48
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b10",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 10",
+              "number": 10,
+              "title": "Đại Cổ Việt thời Đinh và Tiền Lê (968 – 1009)",
+              "lesson_type": "ly_thuyet",
+              "file": "B10-Dai-Co-Viet-thoi-Dinh-va-Tien-Le-968-1009.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                49,
+                51
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "ls-c05",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 5",
+          "number": 5,
+          "title": "Đại Việt thời Lý – Trần – Hồ (1009 – 1407)",
+          "dir": "Chuong-05-Dai-Viet-thoi-Ly-Tran-Ho",
+          "children": [
+            {
+              "id": "ls-b11",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 11",
+              "number": 11,
+              "title": "Nhà Lý xây dựng và phát triển đất nước (1009 – 1225)",
+              "lesson_type": "ly_thuyet",
+              "file": "B11-Nha-Ly-xay-dung-va-phat-trien-dat-nuoc-1009-1225.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                53,
+                58
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b12",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 12",
+              "number": 12,
+              "title": "Cuộc kháng chiến chống quân xâm lược Tống (1075 – 1077)",
+              "lesson_type": "ly_thuyet",
+              "file": "B12-Cuoc-khang-chien-chong-quan-xam-luoc-Tong-1075.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                59,
+                62
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b13",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 13",
+              "number": 13,
+              "title": "Đại Việt thời Trần (1226 – 1400)",
+              "lesson_type": "ly_thuyet",
+              "file": "B13-Dai-Viet-thoi-Tran-1226-1400.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                63,
+                68
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b14",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 14",
+              "number": 14,
+              "title": "Ba lần kháng chiến chống quân xâm lược Mông – Nguyên",
+              "lesson_type": "ly_thuyet",
+              "file": "B14-Ba-lan-khang-chien-chong-quan-xam-luoc-Mong-Nguyen.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                69,
+                74
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b15",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 15",
+              "number": 15,
+              "title": "Nước Đại Ngu thời Hồ (1400 – 1407)",
+              "lesson_type": "ly_thuyet",
+              "file": "B15-Nuoc-Dai-Ngu-thoi-Ho-1400-1407.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                75,
+                77
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "ls-c06",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 6",
+          "number": 6,
+          "title": "Khởi nghĩa Lam Sơn và Đại Việt thời Lê sơ (1418 – 1527)",
+          "dir": "Chuong-06-Khoi-nghia-Lam-Son-va-Dai-Viet-thoi-Le-so",
+          "children": [
+            {
+              "id": "ls-b16",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 16",
+              "number": 16,
+              "title": "Khởi nghĩa Lam Sơn (1418 – 1427)",
+              "lesson_type": "ly_thuyet",
+              "file": "B16-Khoi-nghia-Lam-Son-1418-1427.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                79,
+                83
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b17",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 17",
+              "number": 17,
+              "title": "Đại Việt thời Lê sơ (1428 – 1527)",
+              "lesson_type": "ly_thuyet",
+              "file": "B17-Dai-Viet-thoi-Le-so-1428-1527.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                84,
+                89
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "ls-c07",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 7",
+          "number": 7,
+          "title": "Vùng đất phía Nam Việt Nam từ đầu thế kỉ X đến đầu thế kỉ XVI",
+          "dir": "Chuong-07-Vung-dat-phia-Nam-Viet-Nam",
+          "children": [
+            {
+              "id": "ls-b18",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 18",
+              "number": 18,
+              "title": "Vương quốc Chăm-pa và vùng đất Nam Bộ từ đầu thế kỉ X đến đầu thế kỉ XVI",
+              "lesson_type": "ly_thuyet",
+              "file": "B18-Vuong-quoc-Cham-pa-va-vung-dat-Nam-Bo-tu-dau-the.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                91,
+                95
+              ],
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phan-dl",
+      "role": "group",
+      "kind": "phan",
+      "label": null,
+      "number": 2,
+      "title": "Phần Địa lí",
+      "dir": "Phan-02-Dia-li",
+      "children": [
+        {
+          "id": "dl-c01",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 1",
+          "number": 1,
+          "title": "Châu Âu",
+          "dir": "Chuong-01-Chau-Au",
+          "children": [
+            {
+              "id": "dl-b01",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 1",
+              "number": 1,
+              "title": "Vị trí địa lí, đặc điểm tự nhiên châu Âu",
+              "lesson_type": "ly_thuyet",
+              "file": "B01-Vi-tri-dia-li-dac-diem-tu-nhien-chau-Au.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                97,
+                101
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b02",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 2",
+              "number": 2,
+              "title": "Đặc điểm dân cư, xã hội châu Âu",
+              "lesson_type": "ly_thuyet",
+              "file": "B02-Dac-diem-dan-cu-xa-hoi-chau-Au.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                102,
+                104
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b03",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 3",
+              "number": 3,
+              "title": "Khai thác, sử dụng và bảo vệ thiên nhiên ở châu Âu",
+              "lesson_type": "ly_thuyet",
+              "file": "B03-Khai-thac-su-dung-va-bao-ve-thien-nhien-o-chau-Au.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                105,
+                107
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b04",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 4",
+              "number": 4,
+              "title": "Liên minh châu Âu",
+              "lesson_type": "ly_thuyet",
+              "file": "B04-Lien-minh-chau-Au.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                108,
+                109
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "dl-c02",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 2",
+          "number": 2,
+          "title": "Châu Á",
+          "dir": "Chuong-02-Chau-A",
+          "children": [
+            {
+              "id": "dl-b05",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 5",
+              "number": 5,
+              "title": "Vị trí địa lí, đặc điểm tự nhiên châu Á",
+              "lesson_type": "ly_thuyet",
+              "file": "B05-Vi-tri-dia-li-dac-diem-tu-nhien-chau-A.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                110,
+                115
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b06",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 6",
+              "number": 6,
+              "title": "Đặc điểm dân cư, xã hội châu Á",
+              "lesson_type": "ly_thuyet",
+              "file": "B06-Dac-diem-dan-cu-xa-hoi-chau-A.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                116,
+                118
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b07",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 7",
+              "number": 7,
+              "title": "Bản đồ chính trị châu Á, các khu vực của châu Á",
+              "lesson_type": "ly_thuyet",
+              "file": "B07-Ban-do-chinh-tri-chau-A-cac-khu-vuc-cua-chau-A.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                119,
+                126
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b08",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 8",
+              "number": 8,
+              "title": "Thực hành: Tìm hiểu về các nền kinh tế lớn và kinh tế mới nổi của châu Á",
+              "lesson_type": "thuc_hanh",
+              "file": "B08-Thuc-hanh-Tim-hieu-ve-cac-nen-kinh-te-lon-va-kinh.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                127,
+                127
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "dl-c03",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 3",
+          "number": 3,
+          "title": "Châu Phi",
+          "dir": "Chuong-03-Chau-Phi",
+          "children": [
+            {
+              "id": "dl-b09",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 9",
+              "number": 9,
+              "title": "Vị trí địa lí, đặc điểm tự nhiên châu Phi",
+              "lesson_type": "ly_thuyet",
+              "file": "B09-Vi-tri-dia-li-dac-diem-tu-nhien-chau-Phi.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                128,
+                133
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b10",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 10",
+              "number": 10,
+              "title": "Đặc điểm dân cư, xã hội châu Phi",
+              "lesson_type": "ly_thuyet",
+              "file": "B10-Dac-diem-dan-cu-xa-hoi-chau-Phi.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                134,
+                135
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b11",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 11",
+              "number": 11,
+              "title": "Phương thức con người khai thác, sử dụng và bảo vệ thiên nhiên ở châu Phi",
+              "lesson_type": "ly_thuyet",
+              "file": "B11-Phuong-thuc-con-nguoi-khai-thac-su-dung-va-bao-ve.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                136,
+                138
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b12",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 12",
+              "number": 12,
+              "title": "Thực hành: Tìm hiểu khái quát Cộng hoà Nam Phi",
+              "lesson_type": "thuc_hanh",
+              "file": "B12-Thuc-hanh-Tim-hieu-khai-quat-Cong-hoa-Nam-Phi.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                139,
+                139
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "dl-c04",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 4",
+          "number": 4,
+          "title": "Châu Mỹ",
+          "dir": "Chuong-04-Chau-My",
+          "children": [
+            {
+              "id": "dl-b13",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 13",
+              "number": 13,
+              "title": "Vị trí địa lí, phạm vi châu Mỹ. Sự phát kiến ra châu Mỹ",
+              "lesson_type": "ly_thuyet",
+              "file": "B13-Vi-tri-dia-li-pham-vi-chau-My-Su-phat-kien-ra-chau.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                140,
+                142
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b14",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 14",
+              "number": 14,
+              "title": "Đặc điểm tự nhiên Bắc Mỹ",
+              "lesson_type": "ly_thuyet",
+              "file": "B14-Dac-diem-tu-nhien-Bac-My.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                143,
+                145
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b15",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 15",
+              "number": 15,
+              "title": "Đặc điểm dân cư, xã hội, phương thức khai thác tự nhiên bền vững ở Bắc Mỹ",
+              "lesson_type": "ly_thuyet",
+              "file": "B15-Dac-diem-dan-cu-xa-hoi-phuong-thuc-khai-thac-tu.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                146,
+                149
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b16",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 16",
+              "number": 16,
+              "title": "Đặc điểm tự nhiên Trung và Nam Mỹ",
+              "lesson_type": "ly_thuyet",
+              "file": "B16-Dac-diem-tu-nhien-Trung-va-Nam-My.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                150,
+                152
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b17",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 17",
+              "number": 17,
+              "title": "Đặc điểm dân cư, xã hội Trung và Nam Mỹ, khai thác, sử dụng và bảo vệ rừng A-ma-dôn",
+              "lesson_type": "ly_thuyet",
+              "file": "B17-Dac-diem-dan-cu-xa-hoi-Trung-va-Nam-My-khai-thac.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                153,
+                156
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "dl-c05",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 5",
+          "number": 5,
+          "title": "Châu Đại Dương và châu Nam Cực",
+          "dir": "Chuong-05-Chau-Dai-Duong-va-chau-Nam-Cuc",
+          "children": [
+            {
+              "id": "dl-b18",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 18",
+              "number": 18,
+              "title": "Châu Đại Dương",
+              "lesson_type": "ly_thuyet",
+              "file": "B18-Chau-Dai-Duong.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                157,
+                162
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b19",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 19",
+              "number": 19,
+              "title": "Châu Nam Cực",
+              "lesson_type": "ly_thuyet",
+              "file": "B19-Chau-Nam-Cuc.md",
+              "source_file": "SGK Lich su va Dia li 7.pdf",
+              "pdf_pages": [
+                163,
+                166
+              ],
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cdc",
+      "role": "group",
+      "kind": "chu_de",
+      "label": null,
+      "number": null,
+      "title": "Chủ đề chung",
+      "dir": "Phan-03-Chu-de-chung",
+      "children": [
+        {
+          "id": "cdc-01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": null,
+          "number": null,
+          "title": "Chủ đề chung 1: Các cuộc đại phát kiến địa lí",
+          "lesson_type": "ly_thuyet",
+          "file": "CDC01-Cac-cuoc-dai-phat-kien-dia-li.md",
+          "source_file": "SGK Lich su va Dia li 7.pdf",
+          "pdf_pages": [
+            167,
+            170
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "cdc-02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": null,
+          "number": null,
+          "title": "Chủ đề chung 2: Đô thị: Lịch sử và hiện tại",
+          "lesson_type": "ly_thuyet",
+          "file": "CDC02-Do-thi-Lich-su-va-hien-tai.md",
+          "source_file": "SGK Lich su va Dia li 7.pdf",
+          "pdf_pages": [
+            171,
+            175
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "giai-thich-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Giải thích thuật ngữ",
+      "file": "Giai-thich-thuat-ngu.md",
+      "source_file": "SGK Lich su va Dia li 7.pdf",
+      "pdf_pages": [
+        176,
+        179
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-phien-am",
+      "role": "back_matter",
+      "kind": "bang_phien_am",
+      "label": null,
+      "number": null,
+      "title": "Bảng phiên âm",
+      "file": "Bang-phien-am.md",
+      "source_file": "SGK Lich su va Dia li 7.pdf",
+      "pdf_pages": [
+        180,
+        184
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "Độ lệch trang in cố định printed_offset = 1 xuyên suốt toàn sách (PDF 3 = trang in 2 Lời nói đầu, PDF 4–5 = trang in 3–4 Mục lục, PDF 6–7 = trang in 5–6 Hướng dẫn sử dụng sách, PDF 10..184 = trang in 9..183; PDF 1–2 là bìa và trang tên sách, PDF 185 là trang bản quyền).",
+    "Sách gồm Phần Lịch sử (Chương 1–7, Bài 1–18), Phần Địa lí (Chương 1–5, Bài 1–19), 2 Chủ đề chung liên môn (Chủ đề chung 1–2, trang in 166–174), Giải thích thuật ngữ (trang in 175–178, chia 2 phần Lịch sử và Địa lí) và Bảng phiên âm (trang in 179–183, chia 2 phần Lịch sử và Địa lí).",
+    "Trang mở đầu Phần Lịch sử (trang in 7, PDF 8), các trang mở đầu Chương 1–7 ở Phần Lịch sử (trang in 8, 23, 34, 44, 51, 77, 89 = PDF 9, 24, 35, 45, 52, 78, 90) và trang mở đầu Phần Địa lí (trang in 95, PDF 96) là trang bìa chương/phần riêng nên không gộp vào dải trang bài học; riêng Phần Địa lí có tiêu đề Chương 1–5 nằm ngay đầu trang bài đầu tiên của chương."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-20",
+      "scope": [
+        "phan-ls",
+        "phan-dl",
+        "cdc"
+      ],
+      "terms": 312,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ Phần Lịch sử (Chương 1–7, Bài 1–18), Phần Địa lí (Chương 1–5, Bài 1–19), Chủ đề chung 1–2, Giải thích thuật ngữ và Bảng phiên âm (312 thuật ngữ: 87 in_source, 224 [mô tả], 1 Ngoài nguồn, 22 ghi chú nguồn đóng; 158 hình minh hoạ): lấy mẫu phân tầng 30 mục (10 mục in_source: Cát cứ, Sát Thát, Hà đê sứ, Giám mục, Lãnh địa, Vành đai xanh, Bồn địa, Vương triều, Cơ cấu dân cư, Ấn Độ giáo; 10 mục [mô tả]: Cơ cấu dân số trẻ ở châu Á, Vũ điệu Áp-sa-ra, Đới nóng ở châu Á, Nhập cư và chủng tộc ở Bắc Mỹ, Môi trường cận nhiệt, Núi băng trôi, Văn hoá Mỹ La-tinh, Kinh đô Vi-giay-a, Khai thác tổng hợp tài nguyên nước, Khu vực Trung Á; và 10 hình minh hoạ: H7-lich_su_va_dia_ly-cdc-01-02, dl-b18-03, ls-b17-06, ls-b05-01, ls-b03-02, ls-b06-02, dl-b01-07, dl-b19-04, dl-b07-01, dl-b04-01). Toàn bộ 30/30 mục mẫu khớp 100% với trang sách gốc (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-20: Hoàn thành 100% lich_su_va_dia_ly_7 từ Cổng 0 đến Cổng 4 (39 bài học & chủ đề chung, Giải thích thuật ngữ, Bảng phiên âm, 158 hình minh hoạ, 13 từ điển với 312 thuật ngữ, 0 lỗi)."
+}

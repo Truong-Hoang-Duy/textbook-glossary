@@ -1,0 +1,26 @@
+{
+  "H7-tieng_anh-u11-01": {
+    "pdf_page": 117,
+    "bbox": [58, 255, 290, 562]
+  },
+  "H7-tieng_anh-u11-02": {
+    "pdf_page": 119,
+    "bbox": [54, 350, 284, 492],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh 1 nghiêng xếp chồng sát viền trên của ảnh 2 phía dưới (y=486..492) và nằm cạnh khung bài tập 5 bên phải; tách riêng ảnh 1 để lấy trọn hình mà không dính chữ bài tập 5"
+  },
+  "H7-tieng_anh-u11-03": {
+    "pdf_page": 119,
+    "bbox": [55, 486, 540, 777],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cụm ảnh 2–5 xếp nghiêng chạm góc dưới ảnh 1 tại y=482..491; tách khỏi ảnh 1 để không cắt ngang khung chữ bài tập 5 phía trên bên phải"
+  },
+  "H7-tieng_anh-u11-04": {
+    "pdf_page": 121,
+    "bbox": [102, 185, 246, 255]
+  },
+  "H7-tieng_anh-u11-05": {
+    "pdf_page": 123,
+    "bbox": [58, 170, 290, 520]
+  }
+}

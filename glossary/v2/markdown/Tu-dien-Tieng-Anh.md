@@ -21,6 +21,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 11 (Our greener world): dùng xuyên suốt bài học để giải thích khẩu hiệu sống xanh và đặt tên câu lạc bộ trường học (The three Rs stand for Reduce – Reuse – Recycle; the 3Rs Club).
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 11, tr. 50, 51, 54, 55
 
+### a lot of
+- **Tiếng Việt:** nhiều (lượng từ)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (phr) /ə ˈlɒt əv/ — A large amount or number of people or things, used before both plural countable nouns and uncountable nouns (equivalent to lots of /ˈlɒts əv/, taught alongside some /sʌm/).
+- **Giải thích (VI):** (lượng từ) Cụm từ chỉ số lượng hoặc khối lượng lớn đứng trước cả danh từ đếm được số nhiều lẫn danh từ không đếm được trong câu khẳng định (đồng nghĩa với lots of và học cùng nhóm lượng từ với some — một vài, một ít).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 5: chủ điểm ngữ pháp trọng tâm về lượng từ đi với danh từ đếm được và không đếm được (a lot of sugar, lots of people, some apples, some water).
+  - *Lưu ý:* Trong SGK Tiếng Anh 7 Unit 5 (tr. 53), a lot of được dạy chung trong nhóm lượng từ some, a lot of và lots of dùng trước cả danh từ đếm được số nhiều lẫn danh từ không đếm được.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 53; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 53, 54
+
 ### access
 - **Tiếng Việt:** quyền hoặc cơ hội tiếp cận
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -65,6 +75,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 1 (Life stories we admire): dùng trong chủ đề câu chuyện cuộc đời để nói về những thành tựu nổi bật của các nhân vật như Steve Jobs, Thomas Edison và Walt Disney (thường kết hợp trong cụm 'impressive achievement').
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 1, tr. 8; SGK Tiếng Anh 12 Global Success, Unit 1 (Mục II), tr. 10, 11
 
+### acne
+- **Tiếng Việt:** mụn trứng cá
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈækni/ — A common skin condition, especially among teenagers and young adults, that causes small red spots or pimples on the face, neck, and back.
+- **Giải thích (VI):** (danh từ) Tình trạng viêm da phổ biến ở lứa tuổi thanh thiếu niên, gây ra các nốt mụn đỏ, mụn đầu đen hoặc đầu trắng trên mặt và lưng.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng làm chủ đề bài đọc hướng dẫn chăm sóc da tuổi dậy thì như 'Acne is a skin condition. It causes small, red spots on the face and the back.' (tr. 18, 21, 23).
+  - *Lưu ý:* Trong tiếng Anh, 'acne' là danh từ không đếm được (không dùng 'a/an' hay thêm '-s', đi với động từ chia số ít), khác với 'pimple' hay 'spot' là danh từ đếm được chỉ từng nốt mụn.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 18; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 21; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 23; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### acquire
 - **Tiếng Việt:** tiếp thu; có được, đạt được
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -72,6 +92,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (động từ) Tích luỹ, lĩnh hội được kiến thức hoặc kĩ năng mới thông qua quá trình học tập và rèn luyện.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 10 (Lifelong learning): dùng làm ngoại động từ chỉ việc thu nhận kiến thức thực tiễn ('apply the knowledge we acquired from the course into practice').
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 10 (Mục IV), tr. 135; SGK Tiếng Anh 12 Global Success, Unit 10 (Mục V), tr. 135; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 155
+
+### acting
+- **Tiếng Việt:** diễn xuất
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈæktɪŋ/ — The art, profession, or quality of performing the role of a character in a film or play.
+- **Giải thích (VI):** (danh từ) Nghệ thuật hoặc khả năng hóa thân, biểu đạt nhân vật của diễn viên trong một bộ phim hay vở kịch (danh từ không đếm được).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 8 (Films): dùng khi nhận xét, đánh giá khả năng diễn xuất của diễn viên trong phim (Although the acting in the film was good, I didn't like its story).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 85; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 87; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### activate
 - **Tiếng Việt:** kích hoạt; khởi động
@@ -177,6 +205,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 8 (Sports and Games): dùng khi gọi tên các môn thể thao và hoạt động rèn luyện thể chất ("do aerobics", "The girls are doing aerobics in the playground now").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 17; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8 (Mục LOOKING BACK), tr. 24; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70
 
+### affect
+- **Tiếng Việt:** tác động, ảnh hưởng đến (động từ)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /əˈfekt/ — To produce a change in somebody or something, or to have an influence on a person's body or health.
+- **Giải thích (VI):** (động từ) Gây ra sự biến đổi hoặc tác động, ảnh hưởng trực tiếp đến sức khoẻ hay tình trạng của một người, sự vật.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng trong chủ đề sức khoẻ và luyện phát âm /f/, ví dụ 'The weather may affect our skin condition.' (tr. 20, 23, 26).
+  - *Lưu ý:* Là ngoại động từ đi trực tiếp với tân ngữ (affect somebody/something, không dùng giới từ 'to' hay 'on'); cần phân biệt với danh từ 'effect' (sự ảnh hưởng — have an effect on).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 20; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 23; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 26; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### afford
 - **Tiếng Việt:** đủ khả năng chi trả
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -227,15 +265,41 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 6 (Gender equality): dùng trong hội thoại về ước mơ nghề nghiệp đòi hỏi kiến thức toán, vật lí mà cả nam lẫn nữ đều có thể theo đuổi (become an airline pilot).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6, tr. 66; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục I), tr. 66; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục I), tr. 66, 67
 
+### although
+- **Tiếng Việt:** mặc dù (liên từ)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (con) /ɔːlˈðəʊ/ (also though /ðəʊ/) — A subordinating conjunction used before a clause to connect two contrasting ideas within the same sentence.
+- **Giải thích (VI):** (liên từ) Liên từ phụ thuộc (dùng tương đương với though) đứng trước một mệnh đề (S + V) để nối hai ý tương phản trong cùng một câu phức, không dùng kèm với but ở mệnh đề chính.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 8 (Films): chủ điểm ngữ pháp trọng tâm (dùng tương đương với though) đứng đầu hoặc giữa câu để nối hai nhận định tương phản về một bộ phim hoặc diễn viên.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 82, 85, 86, 87, 90, 91
+
+### amateur actor
+- **Tiếng Việt:** diễn viên nghiệp dư
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈæmətə ˈæktə/ — A person who performs in films or plays as a pastime or without professional training rather than as a paid profession.
+- **Giải thích (VI):** (cụm danh từ) Người tham gia diễn xuất không chuyên, chưa qua đào tạo bài bản hoặc không lấy nghề diễn làm công việc chính.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 8 (Films): dùng trong ví dụ ngữ pháp về mệnh đề nhượng bộ để khen ngợi màn trình diễn xuất sắc của một diễn viên không chuyên (Although John Peters is an amateur actor, he gave a great performance).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 85, 86
+
+### amazement
+- **Tiếng Việt:** sự ngạc nhiên, kinh ngạc (thích thú)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /əˈmeɪzmənt/ — A feeling of great surprise and wonder, especially at something impressive or unexpected.
+- **Giải thích (VI):** (danh từ) Cảm xúc ngạc nhiên mạnh mẽ xen lẫn sự thích thú, trầm trồ trước một thông tin hoặc cảnh tượng ấn tượng.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng trong mục Everyday English dạy cách bày tỏ sự ngạc nhiên (Expressing amazement) với các mẫu câu Wow... I didn't know that! và Amazing!.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 124; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 128; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
 ### amazing
-- **Tiếng Việt:** tuyệt vời, đáng kinh ngạc
+- **Tiếng Việt:** tuyệt vời, đáng kinh ngạc (đáng kinh ngạc, tuyệt vời)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (adj) /əˈmeɪzɪŋ/ — Very surprising, impressive, and wonderful.
 - **Giải thích (VI):** (tính từ) Tuyệt vời, đẹp đến mức gây ấn tượng mạnh và kinh ngạc (thường dùng để miêu tả cảnh quan thiên nhiên).
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (adj) /əˈmeɪzɪŋ/ — Extremely surprising, impressive, or wonderful in a way that causes admiration. / VI: (tính từ) Vô cùng ấn tượng, kỳ thú hoặc đẹp tuyệt vời khiến người khác phải trầm trồ thán phục.
 - **Bối cảnh:**
   - Tiếng Anh lớp 6, Unit 5 (Natural wonders of Viet Nam): dùng để ca ngợi vẻ đẹp kì quan thiên nhiên ("Wow. It looks amazing!", "Mui Ne is popular for its amazing landscapes.").
+  - Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng để ca ngợi cảnh quan thiên nhiên của các quốc gia nói tiếng Anh hoặc làm câu cảm thán Amazing! (ví dụ: Australia has amazing landscapes).
   - *Lưu ý:* Phân biệt tính từ đuôi "-ing" ("amazing": gây kinh ngạc, chỉ bản chất sự vật/phong cảnh) với tính từ đuôi "-ed" ("amazed": cảm thấy kinh ngạc, chỉ cảm xúc con người).
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 48; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 48, 49; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 49
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 48; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 48, 49; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 49; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 124; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 130; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### analyse (English)
 - **Tiếng Việt:** phân tích
@@ -246,6 +310,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 12, Unit 6 (Artificial Intelligence): dùng khi mô tả cách phần mềm AI xử lí dữ liệu người học (uses students' answers to analyse their language proficiency, analyses performances using AI).
   - *Lưu ý:* Analyse là cách viết chuẩn tiếng Anh-Anh dùng trong SGK Global Success; tiếng Anh-Mỹ viết là analyze.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục II), tr. 78; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục II), tr. 78, 79; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục III), tr. 80
+
+### ancient
+- **Tiếng Việt:** cổ kính, lâu đời
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈeɪnʃənt/ — Very old, having existed for hundreds or thousands of years.
+- **Giải thích (VI):** (tính từ) Rất cổ xưa, đã tồn tại từ hàng trăm hoặc hàng nghìn năm trước.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng để miêu tả lâu đài cổ ở Scotland hoặc rừng nguyên sinh ở New Zealand với nghĩa tương đương very, very old (ví dụ: ancient castles, ancient forests).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 128; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 130
 
 ### animated
 - **Tiếng Việt:** hoạt hình
@@ -273,6 +345,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 4: dùng trong bài nghe thông báo tuyển tình nguyện viên và bài viết thư ứng tuyển ('an announcement for volunteers', 'heard about this opportunity in a public announcement').
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 4 (Mục V, VI), tr. 42, 47, 48; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126
 
+### anthem
+- **Tiếng Việt:** bài quốc ca; bài ca chính thức
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈænθəm/ — A formal song of loyalty and pride that officially represents a country or an organisation.
+- **Giải thích (VI):** (danh từ) Bài hát trang trọng đại diện chính thức cho một quốc gia hoặc một tổ chức, thường gặp trong cụm 'national anthem' (bài quốc ca).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng trong câu đố kiến thức âm nhạc mục Communication 'Who is the composer of Viet Nam's national anthem Tien Quan Ca?'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4 (Mục COMMUNICATION), tr. 45; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### anxiety
 - **Tiếng Việt:** sự bồn chồn, lo lắng
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -288,6 +368,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Dạng rút gọn thông dụng của application, chỉ chương trình phần mềm ứng dụng cài đặt trên điện thoại thông minh hoặc thiết bị di động để phục vụ một nhu cầu cụ thể.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 5 (Inventions): dùng trong bài hội thoại mở đầu về các phát minh hỗ trợ học tập trên điện thoại thông minh (learn with educational apps, The apps allow them to communicate and learn at the same time).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục I), tr. 52, 53; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 127
+
+### appear
+- **Tiếng Việt:** xuất hiện
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /əˈpɪə(r)/ — To start to be seen or to arrive suddenly in a place.
+- **Giải thích (VI):** (động từ) Bắt đầu hiện ra hoặc có mặt tại một địa điểm để người khác có thể nhìn thấy.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng để mô tả cơ chế hoạt động của phương tiện dịch chuyển tức thời teleporter (ví dụ: It makes us disappear then appear in another place in just seconds).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 117; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### appearance
 - **Tiếng Việt:** bề ngoài, ngoại hình
@@ -371,10 +459,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈɑːtɪklz/ — Grammar words used before nouns to show whether the noun refers to something specific (the definite article 'the') or unspecific (the indefinite articles 'a' and 'an').
 - **Giải thích (VI):** (danh từ) Lớp từ hư đứng trước danh từ trong tiếng Anh, gồm mạo từ bất định (a/an) chỉ sự vật chưa xác định và mạo từ xác định (the) chỉ sự vật đã biết rõ hoặc duy nhất.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈɑːtɪklz/ — Determiners placed before nouns, consisting of the indefinite articles 'a' and 'an' for general singular countable nouns and the definite article 'the' for specific or unique referents and certain proper place names. / VI: (danh từ) Nhóm hư từ đứng trước danh từ gồm mạo từ bất định 'a/an' (dùng trước danh từ đếm được số ít nhắc lần đầu hoặc quốc tịch số ít) và mạo từ xác định 'the' (dùng với đối tượng xác định, so sánh nhất, tên đại dương, một số quốc gia như the UK, the USA và địa danh chứa danh từ chung).
 - **Bối cảnh:**
   - Tiếng Anh lớp 6, Unit 11 (Our greener world): dùng làm chủ điểm ngữ pháp rèn luyện cách phân biệt a/an và the trong câu (The Sun keeps the Earth warm; an intelligent animal).
+  - Tiếng Anh lớp 7, Unit 12 (English-speaking countries): chủ điểm ngữ pháp trọng tâm ở mục A Closer Look 2 hướng dẫn cách dùng 'a', 'an' và 'the' với danh từ chỉ quốc tịch và tên địa danh (tr. 124, 127, 128).
   - *Lưu ý:* Thuật ngữ ngữ pháp chỉ nhóm từ đứng trước danh từ (a, an, the), phân biệt với article (bài báo; món đồ).
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 11, tr. 48, 51, 52
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 11, tr. 48, 51, 52; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 124; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 127; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 128
 
 ### artificial intelligence (English)
 - **Tiếng Việt:** trí tuệ nhân tạo (AI)
@@ -426,13 +516,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 1 (Life stories we admire): dùng như ngoại động từ đi trực tiếp với tên trường hoặc bậc học (không kèm giới từ 'to') trong các cụm 'attend school/college', 'attended Reed College'.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 1 (Mục II), tr. 10, 11; SGK Tiếng Anh 12 Global Success, Unit 1 (Mục III), tr. 11
 
+### attraction
+- **Tiếng Việt:** điểm tham quan; điểm thu hút du khách
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /əˈtrækʃn/ — An interesting place, building, or object that many tourists want to visit and see.
+- **Giải thích (VI):** (danh từ) Địa điểm, công trình hoặc thắng cảnh thú vị thu hút đông đảo du khách đến tham quan.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng trong chủ đề du lịch và luyện tập mạo từ 'an' như 'We want to visit an attraction in Sydney.' (tr. 127, 128).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 127; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 128
+
 ### audience
-- **Tiếng Việt:** khán giả, thính giả
+- **Tiếng Việt:** khán giả, thính giả (khán giả)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈɔːdiəns/ — The group of people who gather to watch or listen to a play, concert, film, or television programme.
 - **Giải thích (VI):** (danh từ) Nhóm công chúng cùng xem, nghe hoặc theo dõi một buổi biểu diễn, bộ phim hay chương trình truyền hình.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 3: dùng trong chủ đề chương trình truyền hình và hoà nhạc, như 'The TV show attracted an audience of more than 5 million', 'decided by the audience vote'.
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục II, III), tr. 30, 31, 32
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈɔːdiəns/ — The group of people who have gathered to watch or listen to a film, play, concert, etc. / VI: (danh từ) Tập thể khán thính giả cùng theo dõi một bộ phim tại rạp, một vở kịch hoặc buổi biểu diễn trực tiếp.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 3: dùng trong chủ đề chương trình truyền hình và hoà nhạc, như 'The TV show attracted an audience of more than 5 million', 'decided by the audience vote'.
+  - Tiếng Anh lớp 7, Unit 8 (Films): dùng trong chủ đề thể loại phim ảnh khi định nghĩa phim hài là bộ phim mang lại tiếng cười cho khán giả (make the audience laugh).
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục II, III), tr. 30, 31, 32; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 83
 
 ### audio
 - **Tiếng Việt:** bằng âm thanh; có âm thanh
@@ -450,6 +551,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 4 (My neighbourhood): dùng trong mục Communication khi nghe và lập lộ trình tham quan Hội An và Quận 1, TP. Hồ Chí Minh ("Nick is listening to an audio guide to Hoi An.").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4 (Mục COMMUNICATION), tr. 43
 
+### Australia
+- **Tiếng Việt:** nước Úc (Ô-xtrây-li-a)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ɒˈstreɪliə/ — A large English-speaking country and continent in the Southern Hemisphere whose capital is Canberra.
+- **Giải thích (VI):** (danh từ) Quốc gia nói tiếng Anh nằm ở Nam bán cầu bao trọn lục địa Úc, nổi tiếng với thủ đô Canberra, loài chuột túi kangaroo và cảnh quan thiên nhiên kỳ thú.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): chủ đề bài hội thoại mở đầu về kỳ nghỉ của Phong và bài luyện tập không dùng mạo từ the trước tên riêng quốc gia thông thường (ví dụ: Kangaroos are native to Australia).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 124; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 126; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
 ### automate
 - **Tiếng Việt:** tự động hoá
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -457,6 +566,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (động từ) Sử dụng máy móc hoặc máy tính thay thế con người để thực hiện một công việc hay quy trình sản xuất; thường gặp ở dạng tính từ phân từ automated (được tự động hoá).
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 9: dùng trong chủ đề định hướng nghề nghiệp (Career paths), nói về các công việc nhà máy hoặc dịch vụ khách hàng dần được tự động hoá (become/get automated).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9, tr. 116; SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục I), tr. 116; SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục I), tr. 116, 117
+
+### autopilot
+- **Tiếng Việt:** lái tự động; chế độ lái tự động
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj, n) /ˈɔːtəʊpaɪlət/ — Relating to or being a computer-controlled system that steers a vehicle or aircraft automatically without a human driver.
+- **Giải thích (VI):** (tính từ, danh từ) Chế độ hoặc hệ thống điều khiển tự động giúp phương tiện giao thông tự vận hành mà không cần người cầm lái trực tiếp.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng trong chủ đề ô tô điện và phương tiện tự hành với các cụm autopilot model, autopilot function (ví dụ: Both models have an autopilot function, so they are driverless).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 117; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 120; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### available
+- **Tiếng Việt:** sẵn có
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /əˈveɪləbl/ — Able to be obtained, found, or used easily when needed.
+- **Giải thích (VI):** (tính từ) Sẵn có trong tự nhiên hoặc thực tế để con người dễ dàng tiếp cận, khai thác và sử dụng.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) khi nêu ưu điểm dồi dào, dễ khai thác của năng lượng tái tạo (renewable sources are available, clean and safe).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 110; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### avoid
+- **Tiếng Việt:** tránh; phòng tránh
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /əˈvɔɪd/ — To stay away from something harmful or keep oneself from doing something unhealthy.
+- **Giải thích (VI):** (động từ) Chủ động tránh xa những tác nhân có hại hoặc kiêng cữ, không làm điều gì gây ảnh hưởng xấu đến sức khoẻ.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng khi đưa ra lời khuyên sống lành mạnh và luyện âm /v/ như 'Children should avoid fast food and soft drinks.' và 'how to avoid viruses' (tr. 18, 22, 25, 26).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 18; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 22; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 26; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### award
 - **Tiếng Việt:** giải thưởng
@@ -514,6 +647,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 2 (A multicultural world): dùng trong hội thoại giới thiệu các trò chơi dân gian tại gian hàng Việt Nam trong Lễ hội Văn hóa Quốc tế (play Vietnamese traditional games such as tug of war and bamboo dancing).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 2 (Mục I), tr. 21; SGK Tiếng Anh 12 Global Success, Unit 2 (Mục II), tr. 21, 22
 
+### bamboo-copter
+- **Tiếng Việt:** chong chóng tre
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˌbæmˈbuː ˈkɒptə(r)/ — A small personal flying device worn on the body that uses spinning blades to lift a person into the air.
+- **Giải thích (VI):** (danh từ) Thiết bị bay cá nhân nhỏ gọn đeo trực tiếp lên người, có cánh quạt tự cân bằng giúp người dùng bay lên không trung.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng trong chủ đề các phương tiện giao thông tương lai tiện lợi cho học sinh đi học (ví dụ: Travelling by bamboo-copter is simple. You just put it on and fly away).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 116; SGK Tiếng Anh 7 Global Success, Unit 11 (Mục LOOKING BACK), tr. 122; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
 ### barista
 - **Tiếng Việt:** nhân viên pha chế cà phê
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -570,6 +711,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 2 (My house): dùng khi nói về số lượng phòng và đồ nội thất cá nhân, ví dụ "Don't forget we need two lamps for my bedroom, Mum.".
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 2, tr. 16, 17, 18, 19
 
+### beef
+- **Tiếng Việt:** thịt bò
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /biːf/ — Meat that comes from a cow, bull, or ox, used as food.
+- **Giải thích (VI):** (danh từ) Thịt lấy từ bò, là danh từ không đếm được dùng làm nguyên liệu chế biến thực phẩm.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5 (Food and drink): dùng trong chủ đề nguyên liệu nấu ăn và món phở truyền thống như 'a kilo of beef', 'slices of beef', 'pho bo – beef noodle soup'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 51; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 56; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### behave
 - **Tiếng Việt:** cư xử, đối xử
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -586,17 +735,27 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 2 (My house): dùng trong hội thoại mở đầu và chủ điểm giới từ chỉ nơi chốn, ví dụ "Is there a TV behind you?" và "The dog is behind the bed.".
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 2, tr. 16, 19, 20
 
+### belong to
+- **Tiếng Việt:** thuộc về
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /bɪˈlɒŋ tə/ — To be a member or part of a particular group, category, or type, or to be owned by someone.
+- **Giải thích (VI):** (động từ) Là một phần, thành viên của một nhóm, thể loại nhất định hoặc thuộc quyền sở hữu của ai đó.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) khi phân loại hoạt động làm vườn vào nhóm phổ biến nhất (belong to the most popular group); động từ này không chia ở thì tiếp diễn.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 14; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### benefit
 - **Tiếng Việt:** lợi ích (mang lại lợi ích (động từ); lợi ích; danh từ)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈbenɪfɪt/ — An advantage or helpful and useful effect that something has.
 - **Giải thích (VI):** (danh từ) Điều có lợi hoặc tác dụng tích cực mà một hoạt động hay sự việc mang lại cho con người.
 - **Giải thích khác (SGK Tiếng Anh 10):** EN: (v, n) /ˈbenɪfɪt/ — To be useful to somebody or improve their situation; an advantage or good effect gained from something. / VI: (động từ, danh từ) Đem lại tác dụng tích cực, giúp cải thiện đời sống cho ai đó; hoặc điều có ích đạt được từ một hoạt động.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈbenɪfɪt/ — A helpful, positive, or good effect that someone gains from an activity or situation. / VI: (danh từ) Tác dụng tích cực hoặc điều có lợi mà một hoạt động hay sở thích mang lại cho thể chất và tinh thần.
 - **Bối cảnh:**
   - Tiếng Anh lớp 10, Unit 1 (Family life): dùng trong chủ đề lợi ích của việc làm việc nhà đối với sự phát triển của trẻ em (bring a lot of benefits to children, get benefits from sharing housework).
   - Tiếng Anh lớp 10, Unit 4: dùng trong chủ đề phát triển cộng đồng cả ở dạng động từ ('Community service not only benefits the local area', 'This clean water project will benefit the people in the village') và danh từ ('benefits of volunteering activities').
+  - Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) khi thảo luận và nối các hoạt động giải trí với lợi ích tương ứng (talking about the benefits of hobbies).
   - *Lưu ý:* Mục từ ở Unit 4 tập trung vào cả nghĩa động từ và danh từ gắn với lợi ích cộng đồng và dự án tình nguyện.
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1, tr. 8; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 11; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 11, 12; SGK Tiếng Anh 10 Global Success, Unit 4 (Mục I, II, III), tr. 42, 44, 45, 46; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1, tr. 8; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 11; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 11, 12; SGK Tiếng Anh 10 Global Success, Unit 4 (Mục I, II, III), tr. 42, 44, 45, 46; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 8; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 14; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 15; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### between
 - **Tiếng Việt:** ở giữa (hai người hoặc hai vật)
@@ -686,6 +845,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 3 (My friends): dùng để miêu tả màu tóc của bạn mới tại trại hè tiếng Anh, ví dụ "Jimmy has blonde hair and blue eyes.".
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 3, tr. 27, 32
 
+### board game
+- **Tiếng Việt:** trò chơi trên bàn cờ
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈbɔːd ɡeɪm/ — Any indoor game such as chess or Monopoly played by moving small pieces or counters around a specially designed flat board.
+- **Giải thích (VI):** (danh từ) Trò chơi giải trí dành cho hai hoặc nhiều người cùng di chuyển các quân cờ trên một mặt bảng in sẵn theo luật lệ nhất định (như cờ vua, cờ tỉ phú, cờ cá ngựa).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): xuất hiện trong hội thoại mở đầu giữa Minh và Tom 'Can we meet up this Sunday morning? I bought you a board game.' (tr. 28).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 3, tr. 28; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### boarding school
 - **Tiếng Việt:** trường nội trú
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -701,6 +868,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Con thuyền hoặc phương tiện đường thuỷ cỡ nhỏ dùng để di chuyển, tham quan trên sông, hồ hoặc biển.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 5 (Natural wonders of Viet Nam): dùng khi nói về phương tiện khám phá các đảo và vịnh biển ("I want to explore the island by boat.").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71
+
+### boat ride
+- **Tiếng Việt:** chuyến đi thuyền; chuyến du ngoạn bằng thuyền
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈbəʊt raɪd/ — A short pleasure trip or sightseeing tour taken in a boat along a river, lake, or coast.
+- **Giải thích (VI):** (cụm danh từ) Chuyến đi dạo, tham quan ngắm cảnh bằng thuyền dọc theo sông hoặc hồ.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): kết hợp với động từ 'take' trong chủ đề tham quan thành phố, ví dụ 'People can go sightseeing by taking a boat ride.' dọc sông Thames ở Luân Đôn (tr. 126, 131).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 131
+
+### boating
+- **Tiếng Việt:** chèo thuyền; hoạt động đi thuyền
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈbəʊtɪŋ/ — The outdoor leisure activity of travelling or rowing in a small boat on a lake or river for pleasure and exercise.
+- **Giải thích (VI):** (danh từ) Hoạt động vui chơi, rèn luyện sức khoẻ ngoài trời bằng cách chèo hoặc đi thuyền nhỏ trên mặt hồ, dòng sông.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): xuất hiện trong hội thoại mở đầu về hoạt động ngoài trời tại công viên Yên Sở 'That's my dad and I boating at Yen So Park.' (tr. 18, 19).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 18; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 19
 
 ### body part
 - **Tiếng Việt:** bộ phận cơ thể
@@ -720,6 +903,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 10, Unit 1 (Family life): dùng trong chủ đề gắn kết tình cảm gia đình qua việc cùng làm việc nhà và duy trì sinh hoạt chung (strengthen family bonds, build family bonds).
   - Tiếng Anh lớp 12, Unit 1 (Life stories we admire): đi với giới từ 'over' trong câu nói về tình bạn giữa Steve Jobs và Steve Wozniak ('bonded over their love of electronics' — kết thân nhờ chung niềm đam mê điện tử).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 11; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 11, 12; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 12; SGK Tiếng Anh 12 Global Success, Unit 1 (Mục II), tr. 11; SGK Tiếng Anh 12 Global Success, Unit 1 (Mục III), tr. 11, 12
+
+### boneless
+- **Tiếng Việt:** không xương; đã lọc xương
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈbəʊnləs/ — Referring to meat, poultry, or fish from which the bones have been removed.
+- **Giải thích (VI):** (tính từ) Chỉ phần thịt, cá hoặc gia cầm đã được lọc bỏ hết xương trước khi thái lát hay chế biến.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong bài đọc về món phở để miêu tả thịt bò và thịt gà ăn kèm (The meat served with pho is boneless and cut into thin slices).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 56
 
 ### bonus
 - **Tiếng Việt:** tiền thưởng
@@ -812,6 +1003,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 12 (Robots): dùng trước danh từ chỉ máy móc, thiết bị gia dụng bị hỏng cần người máy sửa chữa (repair broken machines, broken clock, broken cooker).
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 12, tr. 58, 59, 68; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71
 
+### broth
+- **Tiếng Việt:** nước dùng; nước lèo
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /brɒθ/ — Soup or liquid stock made by boiling bones, meat, or vegetables slowly in water.
+- **Giải thích (VI):** (danh từ) Phần nước dùng thơm ngọt được ninh kỹ từ xương, thịt hoặc rau củ trong nước sôi để chan vào các món bún, phở.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong bài đọc về món phở truyền thống khi miêu tả cách chế biến nước dùng (The broth for pho is made by stewing beef or chicken bones).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 56
+
 ### brush up
 - **Tiếng Việt:** ôn lại; học lại, trau dồi lại
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -819,6 +1018,40 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm động từ) Ôn tập và củng cố nhanh một kĩ năng hoặc ngoại ngữ từng học trước đây nhưng lâu ngày ít sử dụng.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 10 (Lifelong learning): thường đi kèm giới từ 'on' ('brush up on something') trong hội thoại mở đầu bài học ('I want to brush up on my French before I visit my friend in Paris').
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 10 (Mục I), tr. 129; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 155
+
+### bug
+- **Tiếng Việt:** con bọ
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /bʌɡ/ — A small crawling or flying creature, such as a beetle, commonly found outdoors among plants.
+- **Giải thích (VI):** (danh từ) Loài bọ nhỏ sinh sống ngoài tự nhiên hoặc trên cây cỏ trong khu vườn.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) ở bài đọc nói về kiến thức tự nhiên trẻ em học được khi làm vườn (learn about insects and bugs).
+  - *Lưu ý:* Trong chủ đề thiên nhiên và làm vườn (Unit 1), 'bug' chỉ con bọ nhỏ; cần phân biệt với nghĩa 'lỗi chương trình máy tính' trong lĩnh vực Tin học.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 14; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### building dollhouses
+- **Tiếng Việt:** làm nhà búp bê
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈbɪldɪŋ ˈdɒlhaʊzɪz/ — The craft hobby of designing and constructing miniature houses and furniture for dolls.
+- **Giải thích (VI):** (cụm danh từ) Sở thích thủ công tự thiết kế, cắt dán các vật liệu để dựng mô hình nhà búp bê.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) làm ví dụ tiêu biểu cho nhóm tự tay chế tạo đồ vật (making things: like building dollhouses).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 8; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 9
+
+### bullet train
+- **Tiếng Việt:** tàu cao tốc (tàu đầu đạn)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈbʊlɪt treɪn/ — A high-speed passenger train with a streamlined, bullet-shaped front designed to travel very fast on special tracks.
+- **Giải thích (VI):** (cụm danh từ) Tàu hỏa chở khách tốc độ cao có phần mũi thuôn nhọn khí động học như hình viên đạn, chạy êm, an toàn và thân thiện với môi trường.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng trong chủ đề giao thông công cộng hiện đại giúp hành khách tránh tắc đường (ví dụ: Bullet trains are faster and greener than normal trains).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 117; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 121; SGK Tiếng Anh 7 Global Success, Unit 11 (Mục LOOKING BACK), tr. 122
+
+### bumpy
+- **Tiếng Việt:** lồi lõm, gập ghềnh, nhiều ổ gà
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈbʌmpi/ — Having an uneven surface with many raised parts or holes, making a journey uncomfortable.
+- **Giải thích (VI):** (tính từ) Có bề mặt gồ ghề, lồi lõm và nhiều ổ gà khiến xe cộ lưu thông bị xóc nảy, đi lại khó khăn.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong phần Skills 2 (Writing) khi nêu các vấn đề hạ tầng giao thông ở thành phố lớn (narrow and bumpy roads).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 79; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### busy
 - **Tiếng Việt:** nhộn nhịp, náo nhiệt, tấp nập
@@ -829,6 +1062,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 6, Unit 4 (My neighbourhood): dùng để miêu tả và so sánh nhịp sống đô thị ("Ha Noi is beautiful but it's too busy for me.", "the streets are busy and crowded.").
   - *Lưu ý:* Trong ngữ cảnh miêu tả địa điểm ở Unit 4, "busy" mang nghĩa nhộn nhịp, đông đúc (trái nghĩa với "quiet", "peaceful"), khác với nghĩa "bận rộn" khi nói về con người.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 40; SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 42; SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 44
+
+### butter
+- **Tiếng Việt:** bơ
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈbʌtə/ — A soft yellow dairy fat made from cream, spread on bread or used in cooking and baking.
+- **Giải thích (VI):** (danh từ) Thực phẩm béo mềm màu vàng nhạt làm từ kem sữa, thường dùng để phết bánh mì hoặc làm bánh, chế biến món ăn.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5 (Food and drink): dùng làm danh từ không đếm được chỉ nguyên liệu nấu nướng trong các câu 'I need some butter for my pancakes' và 'How much butter do you need?'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 54; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5 (Mục LOOKING BACK), tr. 58; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### button
 - **Tiếng Việt:** nút bấm
@@ -872,6 +1113,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Chỉ máy tính bỏ túi dùng để làm toán, phân biệt với 'computer' là máy vi tính để bàn hoặc máy tính xách tay.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 1, tr. 7, 14; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 70
 
+### Can you tell me more?
+- **Tiếng Việt:** Bạn có thể kể thêm chi tiết được không?
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (expr) /kæn ju ˈtel mi mɔː/ — A polite spoken question used to ask someone for further details or information about a plan, place, or event.
+- **Giải thích (VI):** (mẫu câu giao tiếp) Câu hỏi lịch sự dùng trong hội thoại để đề nghị người đối thoại cung cấp thêm thông tin chi tiết về một kế hoạch hoặc sự việc (có thể mở rộng thành Can you tell me why? hoặc Can you tell me how?).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 6 (A visit to a school): dùng trong phần Everyday English (Asking for details) khi hỏi đáp chi tiết về chuyến thăm một ngôi trường nổi tiếng.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 6 (Mục COMMUNICATION), tr. 64; SGK Tiếng Anh 7 Global Success, Unit 6 (Mục COMMUNICATION), tr. 65
+
+### Canada
+- **Tiếng Việt:** nước Ca-na-đa
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈkænədə/ — A large country in northern North America with Ottawa as its capital and both English and French as official languages.
+- **Giải thích (VI):** (danh từ) Quốc gia rộng lớn ở phía bắc khu vực Bắc Mỹ có thủ đô là Ottawa, nổi tiếng với khí hậu lạnh và đường bờ biển dài nhất thế giới.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng trong các bài tập tìm hiểu địa lý và cách dùng mạo từ a/an/the với các quốc gia nói tiếng Anh (ví dụ: Canada has the longest coastline in the world).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 125; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 127; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
 ### cancer (English)
 - **Tiếng Việt:** bệnh ung thư
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -882,6 +1139,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Ung thư' trong Sinh học.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 1 (Mục II), tr. 11; SGK Tiếng Anh 12 Global Success, Unit 1 (Mục III), tr. 11, 12
 
+### candy
+- **Tiếng Việt:** kẹo
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈkændi/ — Sweet food made primarily from sugar or chocolate, often eaten during festivals and celebrations.
+- **Giải thích (VI):** (danh từ) Các loại kẹo ngọt làm từ đường hoặc sô-cô-la, thường dùng làm quà vặt cho trẻ em trong các dịp lễ hội.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong chủ đề ẩm thực lễ hội, đặc biệt xuất hiện trong cụm danh từ ghép candy apples (kẹo táo dịp lễ Halloween).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 94, 95, 100; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
+### candy apples
+- **Tiếng Việt:** kẹo táo
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈkændi ˈæplz/ — Whole apples put on sticks and coated with a hard layer of sweet red sugar syrup, popularly eaten around Halloween.
+- **Giải thích (VI):** (cụm danh từ) Món quà vặt làm từ quả táo tươi xiên que gỗ và nhúng phủ lớp kẹo đường cứng óng ánh bên ngoài, rất phổ biến vào dịp Halloween.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng để chỉ món ăn đặc trưng của lễ hội Halloween (prepare candy apples for Halloween, eat candy apples on Halloween).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 94, 95, 100
+
+### Cannes Film Festival
+- **Tiếng Việt:** Liên hoan phim Cannes
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /kæn fɪlm ˈfestɪvl/ — A prestigious annual international film festival held in Cannes, France, which awards the Golden Palm to the best film.
+- **Giải thích (VI):** (cụm danh từ) Liên hoan phim quốc tế danh giá tổ chức thường niên tại thành phố Cannes (Pháp) với giải thưởng cao quý nhất là Cành cọ vàng (The Golden Palm).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong chủ đề các lễ hội nổi tiếng thế giới và biểu tượng giải thưởng điện ảnh (at the Cannes Film Festival).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 94, 97, 100; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### capable
 - **Tiếng Việt:** có khả năng; có năng lực
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -889,6 +1170,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (tính từ) Đủ năng lực, phẩm chất hoặc tính năng kĩ thuật để thực hiện được một nhiệm vụ nhất định.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 6 (Artificial Intelligence): thường dùng trong cấu trúc capable of + V-ing để miêu tả tính năng của rô-bốt (capable of answering questions, capable of climbing steep slopes).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6, tr. 76; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục I), tr. 76; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục I), tr. 76, 77
+
+### capital
+- **Tiếng Việt:** thủ đô
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈkæpɪtl/ — The most important city of a country or region, where the central government is officially located.
+- **Giải thích (VI):** (danh từ) Thành phố quan trọng bậc nhất và là trung tâm hành chính, chính trị đặt trụ sở chính phủ của một quốc gia.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng với mạo từ xác định trong cấu trúc the capital of + tên nước (ví dụ: Is Washington D.C. the capital of the USA?; Ottawa is the capital of Canada).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 125; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 126; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### captivate
 - **Tiếng Việt:** thu hút, cuốn hút
@@ -917,12 +1206,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2, tr. 18; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục I), tr. 18, 19; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục II), tr. 20; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục VII), tr. 26; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục II), tr. 112; SGK Tiếng Anh 10 Global Success, Unit 10, Review 4, tr. 123; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 124; SGK Tiếng Anh 12 Global Success, Unit 3, tr. 32; SGK Tiếng Anh 12 Global Success, Unit 3 (Mục I), tr. 32, 33
 
 ### cardboard
-- **Tiếng Việt:** bìa cứng (danh từ); làm bằng bìa cứng (tính từ)
+- **Tiếng Việt:** bìa cứng (danh từ); làm bằng bìa cứng (tính từ; bìa các tông)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n, adj) /ˈkɑːdbɔːd/ — Thick, stiff paper-based material used especially for making boxes and packaging, or made of this material.
 - **Giải thích (VI):** (danh từ, tính từ) Chất liệu giấy dày và cứng thường dùng để sản xuất thùng đóng gói hàng hóa, hoặc chỉ vật dụng được làm từ chất liệu này.
-- **Bối cảnh:** Tiếng Anh lớp 12, Unit 3 (Green living): dùng trong bài đọc chia sẻ mẹo sống xanh khi sử dụng thùng bìa cứng ở siêu thị để đựng đồ thay cho túi nhựa (provides cardboard boxes, so I can pack my groceries and get rid of plastic packaging).
-- **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 3 (Mục III), tr. 36, 37; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 149
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈkɑːdbɔːd/ — Thick, stiff material made of layers of paper, commonly used for making boxes and craft models. / VI: (danh từ) Vật liệu giấy bìa dày và cứng (danh từ không đếm được), thường dùng để đóng hộp hoặc làm mô hình thủ công.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 12, Unit 3 (Green living): dùng trong bài đọc chia sẻ mẹo sống xanh khi sử dụng thùng bìa cứng ở siêu thị để đựng đồ thay cho túi nhựa (provides cardboard boxes, so I can pack my groceries and get rid of plastic packaging).
+  - Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) khi kể về vật liệu cắt dán làm nhà búp bê và nội thất mô hình (use cardboard and glue).
+- **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 3 (Mục III), tr. 36, 37; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 149; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 8; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 9; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 15; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### career
 - **Tiếng Việt:** sự nghiệp, nghề nghiệp
@@ -973,10 +1265,20 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /kɑːˈtuːn/ — A short humorous television programme or film made using a sequence of drawn pictures rather than real people.
 - **Giải thích (VI):** (danh từ) Bộ phim hoạt hình vui nhộn được thực hiện từ các hình vẽ minh họa chuyển động, thường phát sóng thành từng tập ngắn trên truyền hình.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /kɑːˈtuːn/ — A film or television programme made by photographing a series of drawings or computer graphics so that characters appear to move. / VI: (danh từ) Bộ phim hoạt hình được tạo dựng từ chuỗi hình vẽ hoặc đồ hoạ máy tính chuyển động liên tiếp.
 - **Bối cảnh:**
   - Tiếng Anh lớp 6, Unit 7 (Television): dùng khi nói về các bộ phim hoạt hình truyền hình quen thuộc với thiếu nhi như Tom and Jerry ("Hello Fatty is a popular TV cartoon").
+  - Tiếng Anh lớp 7, Unit 8 (Films): dùng trong nhóm từ vựng về các thể loại phim thông dụng, đặt đối chiếu với phim khoa học viễn tưởng (science fiction film).
   - *Lưu ý:* Trong bài hội thoại mở đầu Unit 7, "cartoon" được đối chiếu với "animated film" để chỉ các loạt phim hoạt hình ngắn trên TV.
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 6, 7; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 8; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 6, 7; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 8; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 83
+
+### carve
+- **Tiếng Việt:** chạm, khắc
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /kɑːv/ — To cut a pattern, shape, or design into a hard material or object such as wood, stone, or a pumpkin.
+- **Giải thích (VI):** (động từ) Cắt gọt, khoét hoặc chạm khắc tạo hình hoa văn trên bề mặt vật liệu như gỗ, đá hay vỏ quả.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong cụm từ chỉ hoạt động đặc trưng của lễ hội Halloween là carving pumpkins (khoét và khắc bí ngô làm đèn lồng).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 94; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### cash prize
 - **Tiếng Việt:** giải thưởng tiền mặt
@@ -985,6 +1287,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm danh từ) Phần thưởng bằng tiền mặt được trao trực tiếp cho người chiến thắng trong một cuộc thi.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 3: dùng khi giới thiệu phần thưởng dành cho quán quân chương trình truyền hình ('The winner of the show will receive a cash prize').
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục IV), tr. 32
+
+### castle
+- **Tiếng Việt:** lâu đài, pháo đài
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈkɑːsl/ — A large, strong historic building with thick, high stone walls and towers, built in the past by rulers for defence.
+- **Giải thích (VI):** (danh từ) Công trình kiến trúc cổ đồ sộ có tường đá dày và cao kiên cố, xưa kia được xây dựng làm nơi ở của giới quý tộc kiêm pháo đài phòng thủ.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng khi giới thiệu nét đặc trưng lịch sử của vùng đất Scotland (ví dụ: Scotland is famous for its long history and ancient castles).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 128; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### casual
 - **Tiếng Việt:** thời vụ; tạm thời
@@ -1011,15 +1321,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 49; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 54
 
 ### celebrate
-- **Tiếng Việt:** tổ chức lễ kỷ niệm, ăn mừng (kỉ niệm, tổ chức mừng)
+- **Tiếng Việt:** tổ chức lễ kỷ niệm, ăn mừng (kỉ niệm, tổ chức mừng; kỉ niệm; tổ chức mừng)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (v) /ˈselɪbreɪt/ — To mark a special day, festival, or event with enjoyable social or cultural activities.
 - **Giải thích (VI):** (động từ) Tổ chức các hoạt động vui chơi, nghi thức để kỷ niệm hoặc chào đón một ngày lễ, sự kiện đặc biệt.
 - **Giải thích khác (SGK Tiếng Anh 6 Tập 1):** EN: (v) /ˈselɪbreɪt/ — To mark a special day, festival, or event by engaging in enjoyable social or traditional activities. / VI: (động từ) Tổ chức các hoạt động vui mừng, kỉ niệm nhân một ngày lễ truyền thống hoặc sự kiện đặc biệt.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (v) /ˈselɪbreɪt/ — To mark a special day, event, or occasion with enjoyable activities. / VI: (động từ) Tổ chức các hoạt động chào mừng hoặc ghi nhớ một ngày lễ, sự kiện đáng nhớ.
 - **Bối cảnh:**
   - Tiếng Anh lớp 12, Unit 2 (A multicultural world): dùng trong chủ đề tổ chức và hưởng ứng các lễ hội văn hóa trên thế giới tại Việt Nam (celebrate a special event, celebrate Halloween in Viet Nam, celebrating world festivals).
   - Tiếng Anh lớp 6, Unit 6 (Our Tet Holiday): dùng để nói về việc đón mừng Tết Nguyên đán và năm mới ("Phong, does Viet Nam celebrate New Years?", "celebrate Tet in January or February").
-- **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 2 (Mục II), tr. 22, 23; SGK Tiếng Anh 12 Global Success, Unit 2 (Mục V), tr. 26, 27; SGK Tiếng Anh 12 Global Success, Unit 2 (Mục VI), tr. 27; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 58, 59; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 60; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71
+  - Tiếng Anh lớp 7, Unit 6: dùng trong chủ đề trường học khi hỏi đáp về thời điểm tổ chức lễ kỉ niệm ngày Nhà giáo (celebrate Teachers' Day).
+- **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 2 (Mục II), tr. 22, 23; SGK Tiếng Anh 12 Global Success, Unit 2 (Mục V), tr. 26, 27; SGK Tiếng Anh 12 Global Success, Unit 2 (Mục VI), tr. 27; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 58, 59; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 60; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 63; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 63, 64; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### challenging
 - **Tiếng Việt:** đầy thử thách
@@ -1045,21 +1357,31 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 7 (Television): dùng khi giới thiệu các kênh truyền hình trong nước và quốc tế ("I watch English in a Minute on VTV7. This channel has many educational programmes").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 6, 7; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 8; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70
 
+### chapped
+- **Tiếng Việt:** bị nứt nẻ (da; môi)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /tʃæpt/ — Rough, dry, painful, and cracked on the surface of the skin or lips, usually caused by cold weather or wind.
+- **Giải thích (VI):** (tính từ) Trạng thái da hoặc môi trở nên khô ráp, bong tróc và rạn nứt do thời tiết hanh khô hoặc giá lạnh.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng trong các cụm từ chỉ vấn đề về da mùa đông như 'chapped lips' (môi nứt nẻ) và 'chapped skin' (da nứt nẻ) (tr. 20, 21, 22, 23).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 20; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 22; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 23; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### character (English)
-- **Tiếng Việt:** tính cách, nhân cách (phẩm chất; tính cách; nhân vật)
+- **Tiếng Việt:** tính cách, nhân cách (phẩm chất; tính cách; nhân vật; trong phim)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈkærəktə/ — All the mental and moral qualities that make a person different from others.
 - **Giải thích (VI):** (danh từ) Tổng hòa các phẩm chất tinh thần và đạo đức tạo nên bản sắc riêng của một con người.
 - **Giải thích khác (SGK Tiếng Anh 12):** EN: (n) /ˈkærəktə/ — The particular combination of personal qualities and moral traits that makes a person different from others. / VI: (danh từ) Tập hợp các phẩm chất cá nhân và nét tính cách riêng biệt tạo nên con người của một cá nhân.
 - **Giải thích khác (SGK Tiếng Anh 6 Tập 2):** EN: (n) /ˈkærəktə/ — A person or an animal portrayed in a film, television show, play, or story. / VI: (danh từ) Con người hoặc con vật được xây dựng và khắc họa trong một bộ phim, chương trình truyền hình hoặc câu chuyện.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈkærəktə/ — A person or an animal represented in a book, play, or film. / VI: (danh từ) Hình tượng con người hoặc con vật được xây dựng trong một bộ phim, vở kịch hoặc tác phẩm văn học.
 - **Bối cảnh:**
   - Tiếng Anh lớp 10, Unit 1 (Family life): dùng trong chủ đề rèn luyện phẩm chất và nhân cách cho trẻ thông qua việc làm việc nhà (helps build their character).
   - Tiếng Anh lớp 12, Unit 9: dùng trong chủ đề định hướng nghề nghiệp (Career paths), xuất hiện trong các cụm people with a strong character hoặc khi mô tả bản thân trong hồ sơ xin việc (describe your character, skills, and work experience).
   - Tiếng Anh lớp 6, Unit 7 (Television): được định nghĩa trực tiếp là "an animal or a person in a film" và dùng để nhận xét nhân vật phim hoạt hình ("Jerry's a clever character").
+  - Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng trong bài tập ngữ pháp so sánh về điện ảnh và sân khấu 'The characters in the film are not the same as the ones in the play'.
   - *Lưu ý:* Trong ngữ cảnh Unit 1, từ này mang nghĩa tính cách, nhân cách đạo đức của con người, không mang nghĩa nhân vật trong tác phẩm nghệ thuật hay kí tự chữ viết.
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Kí tự' trong Tin học.
   - *Lưu ý:* Trong ngữ cảnh hướng nghiệp (Unit 9), character mang nghĩa 'phẩm chất, tính cách cá nhân', phân biệt với nghĩa 'nhân vật' trong tác phẩm văn học, điện ảnh hay 'ký tự' trong Tin học.
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 11; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 11, 12; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 124; SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục IV), tr. 122; SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục V), tr. 122; SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục VI), tr. 124; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 6, 7; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 8; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 11; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 11, 12; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 124; SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục IV), tr. 122; SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục V), tr. 122; SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục VI), tr. 124; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 6, 7; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 8; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 44; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### charge
 - **Tiếng Việt:** sạc pin; nạp điện
@@ -1202,6 +1524,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 9 (Cities of the world): dùng trong bài tập ngữ pháp về tính từ sở hữu như 'They cannot find their city map anywhere.'.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 30; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9 (Mục COMMUNICATION), tr. 30; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9 (Mục COMMUNICATION), tr. 30, 31
 
+### classical music
+- **Tiếng Việt:** nhạc cổ điển
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˌklæsɪkl ˈmjuːzɪk/ — Music written in the European tradition of serious artistic composition, such as symphonies and sonatas, of lasting value.
+- **Giải thích (VI):** (danh từ) Dòng nhạc cổ điển bác học có cấu trúc chặt chẽ và giá trị nghệ thuật lâu bền như nhạc giao hưởng, thính phòng.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng khi nói về sở thích âm nhạc và so sánh thể loại 'I like classical music, and I often play the piano' và 'Classical music is not as exciting as rock'.
+  - *Lưu ý:* Phân biệt tính từ 'classical' (thuộc dòng nghệ thuật cổ điển truyền thống: classical music) với 'classic' (kinh điển, xuất sắc tiêu biểu).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 40, 41; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 43
+
 ### classmate
 - **Tiếng Việt:** bạn cùng lớp
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -1228,6 +1560,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 10, Unit 2: dùng xuyên suốt bài học trong các hoạt động vệ sinh môi trường trường học và khu phố (clean up the school, clean-up activities, Clean-up Team).
   - Tiếng Anh lớp 12, Unit 3 (Green living): dùng trong chủ đề các hoạt động bảo vệ môi trường học đường và cộng đồng (cleaning up our classroom, clean up the beach, clean up the school).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2, tr. 18; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục I), tr. 18; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục I), tr. 18, 19; SGK Tiếng Anh 12 Global Success, Unit 3 (Mục I), tr. 32, 33; SGK Tiếng Anh 12 Global Success, Unit 3 (Mục II), tr. 33
+
+### clean-up activity
+- **Tiếng Việt:** hoạt động dọn rửa; hoạt động tổng vệ sinh
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈkliːn ʌp ækˈtɪvəti/ — An organized volunteer event in which people work together to remove litter and make a public place such as a street, park, or beach clean.
+- **Giải thích (VI):** (cụm danh từ) Buổi hoạt động tập thể tình nguyện cùng nhau thu gom rác thải, dọn dẹp làm sạch đường phố, công viên hoặc khu dân cư.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): dùng ở dạng số nhiều trong chủ đề tình nguyện bảo vệ môi trường khu phố 'You can join clean-up activities.' (tr. 33).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 3, tr. 33; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### clever
 - **Tiếng Việt:** lanh lợi, thông minh (khôn ngoan, thông minh, lanh lợi)
@@ -1258,6 +1598,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 7 (Television): dùng trong lịch phát sóng chương trình khoa học về động vật biển ("Watch funny and interesting clips of intelligent dolphins in their natural life – the sea").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 12; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70
 
+### coal
+- **Tiếng Việt:** than đá
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /kəʊl/ — A hard black mineral dug from the ground and burned as a fossil fuel to produce heat or electricity.
+- **Giải thích (VI):** (danh từ) Khoáng sản rắn màu đen khai thác từ lòng đất, dùng làm nhiên liệu hoá thạch để đốt sinh nhiệt hoặc phát điện.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) làm ví dụ tiêu biểu cho nhiên liệu hoá thạch không tái tạo gây ô nhiễm khi đốt (energy from coal; burning coal).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 104; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 105; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 110
+
+### coastline
+- **Tiếng Việt:** đường bờ biển
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈkəʊstlaɪn/ — The land and outline along the edge of a sea or ocean.
+- **Giải thích (VI):** (danh từ) Dải đất và đường ranh giới tự nhiên chạy dọc theo mép biển hoặc đại dương của một vùng lãnh thổ.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng để mô tả đặc điểm địa lý nổi bật của Canada, bang California hay Alaska (ví dụ: Canada has the longest coastline in the world).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 129; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
 ### coffee break
 - **Tiếng Việt:** giờ nghỉ uống cà phê
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -1266,6 +1622,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 9 (Cities of the world): dùng để giải nghĩa cho nét văn hoá 'fika' của người Thuỵ Điển trong bài đọc 'we had "fika", a coffee break, in a traditional café'.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 32
 
+### collect
+- **Tiếng Việt:** thu thập, quyên góp; sưu tầm
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /kəˈlekt/ — To gather things together from different people or places, especially for charity, recycling, or a shared purpose.
+- **Giải thích (VI):** (động từ) Thu gom, tập hợp các vật dụng như sách cũ, quần áo hay vỏ chai nhựa từ nhiều nơi để làm từ thiện hoặc tái chế.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong chủ đề hoạt động thiện nguyện và luyện phát âm đuôi '-ed' (/ɪd/ trong 'collected') như 'We collected clothes and gave them to homeless children.' (tr. 29, 30, 31, 34).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 3, tr. 29; SGK Tiếng Anh 7 Global Success, Unit 3, tr. 30; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### collecting coins
+- **Tiếng Việt:** sưu tầm tiền xu
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /kəˈlektɪŋ kɔɪnz/ — The hobby of finding, gathering, and keeping coins from different countries or historical periods.
+- **Giải thích (VI):** (cụm danh từ) Sở thích tìm kiếm, tập hợp và lưu giữ các đồng tiền xu từ nhiều quốc gia hoặc thời kì khác nhau.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) để minh hoạ nhóm hoạt động sưu tầm đồ vật từ nhiều quốc gia (collecting things: collecting coins).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 9; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 10; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 16
+
+### collecting teddy bears
+- **Tiếng Việt:** sưu tầm gấu bông
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /kəˈlektɪŋ ˈtedi beəz/ — The hobby of gathering and keeping soft toy bears as a personal collection.
+- **Giải thích (VI):** (cụm danh từ) Sở thích tập hợp và lưu giữ các chú gấu nhồi bông thành bộ sưu tập cá nhân.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) để minh hoạ nhóm sở thích sưu tầm thú nhồi bông (collecting things: collecting teddy bears).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 9
+
 ### colonial
 - **Tiếng Việt:** thuộc địa; thời thuộc địa
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -1273,6 +1653,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (tính từ) Liên quan đến chế độ thực dân cai trị một quốc gia khác hoặc mang dấu ấn lịch sử, kiến trúc của thời kỳ thuộc địa.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 4: dùng trong bài đọc về lịch sử đô thị hóa Hà Nội để miêu tả các công trình kiến trúc Pháp cổ (French colonial buildings).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục III), tr. 52; SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục III), tr. 52, 53; SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục III), tr. 53
+
+### coloured vegetables
+- **Tiếng Việt:** rau củ có màu
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈkʌləd ˈvedʒtəblz/ — Brightly pigmented vegetables such as carrots, tomatoes, and bell peppers that are rich in vitamins and antioxidants.
+- **Giải thích (VI):** (cụm danh từ) Các loại rau củ có màu sắc tươi đậm giàu vi-ta-min và dưỡng chất tốt cho mắt và cơ thể như cà rốt, cà chua, bí đỏ.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng trong chủ đề thực phẩm lành mạnh như 'Coloured vegetables are good food.' (tr. 20).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 20
 
 ### come up with
 - **Tiếng Việt:** nghĩ ra; đưa ra (ý tưởng; giải pháp)
@@ -1283,14 +1671,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9, tr. 100; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục I), tr. 100; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục I), tr. 100, 101
 
 ### comedy (English)
-- **Tiếng Việt:** phim hài, chương trình hài kịch
+- **Tiếng Việt:** phim hài, chương trình hài kịch (phim hài; hài kịch)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈkɒmədi/ — A film, play, or television programme intended to amuse audiences and make them laugh.
 - **Giải thích (VI):** (danh từ) Bộ phim hoặc chương trình truyền hình có nội dung hài hước nhằm mang lại tiếng cười và sự thư giãn cho khán giả (số nhiều là "comedies").
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈkɒmədi/ — A type of film, play, or television programme that is intended to be funny and make the audience laugh. / VI: (danh từ) Thể loại phim hoặc vở kịch có nội dung vui nhộn, hài hước nhằm mang lại tiếng cười cho khán giả.
 - **Bối cảnh:**
   - Tiếng Anh lớp 6, Unit 7 (Television): được định nghĩa là "a film / show which makes people laugh" và dùng khi nói về các chương trình giải trí ("Is The Fox Teacher a comedy?", "My father often watches comedies").
+  - Tiếng Anh lớp 7, Unit 8 (Films): dùng trong chủ đề phân loại các thể loại điện ảnh (A film that tries to make the audience laugh is a comedy).
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Hài kịch' trong Ngữ văn.
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 8; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 12; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 8; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 12; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 82; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 83; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
+### comfortable
+- **Tiếng Việt:** thoải mái, đủ tiện nghi
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈkʌmftəbl/ — Making you feel physically relaxed and pleasant, with plenty of space and good facilities.
+- **Giải thích (VI):** (tính từ) Mang lại cảm giác dễ chịu, thư giãn và đầy đủ tiện nghi cho hành khách khi sử dụng phương tiện đi lại.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng để miêu tả ưu điểm của ô tô điện và tàu chạy bằng năng lượng mặt trời (ví dụ: Speed is safe, fast, comfortable, and not very expensive).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 120; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 121; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### comment
 - **Tiếng Việt:** lời bình luận, nhận xét
@@ -1343,10 +1741,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /kəˈmjuːnəti/ — All the people who live in a particular area or share common interests and social life.
 - **Giải thích (VI):** (danh từ) Tập thể những người cùng sinh sống trên một địa bàn và gắn bó với nhau trong đời sống xã hội.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /kəˈmjuːnəti/ — All the people who live in a particular local area or neighbourhood, considered as a social group. / VI: (danh từ) Tập thể những người dân cùng sinh sống, gắn bó và chia sẻ lợi ích chung trong một khu vực hay địa phương nhất định.
 - **Bối cảnh:**
   - Tiếng Anh lớp 10, Unit 4: từ khoá trung tâm của bài 'For a better community', xuất hiện trong các cụm 'community development', 'community work', 'local community'.
+  - Tiếng Anh lớp 7, Unit 3 (Community service): từ khoá xuyên suốt bài học trong các cụm 'help your community' và 'community activities' (tr. 28, 29, 34).
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Quần xã' trong Sinh học.
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 4 (Mục I, II, III, VI), tr. 42, 44, 45, 48; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 4 (Mục I, II, III, VI), tr. 42, 44, 45, 48; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 3, tr. 28; SGK Tiếng Anh 7 Global Success, Unit 3, tr. 29; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### community development
 - **Tiếng Việt:** phát triển cộng đồng
@@ -1357,12 +1757,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4, tr. 42; SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục I), tr. 42, 43; SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục II), tr. 44; SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục VI), tr. 48
 
 ### community service
-- **Tiếng Việt:** dịch vụ cộng đồng, hoạt động phục vụ cộng đồng
+- **Tiếng Việt:** dịch vụ cộng đồng, hoạt động phục vụ cộng đồng (dịch vụ cộng đồng; hoạt động phục vụ cộng đồng)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /kəˌmjuːnəti ˈsɜːvɪs/ — Voluntary unpaid work done by a person or group intended to help people in a particular area.
 - **Giải thích (VI):** (danh từ) Công việc tình nguyện không hưởng lương được thực hiện nhằm hỗ trợ và cải thiện đời sống chung của người dân địa phương.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 4: dùng trong hội thoại mở đầu khẳng định giá trị kép của công tác xã hội ('Community service not only benefits the local area, but can also boost our confidence').
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 4 (Mục I), tr. 42, 43; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /kəˌmjuːnəti ˈsɜːvɪs/ — Unpaid voluntary work done by individuals or groups to help people in need and improve the local community. / VI: (danh từ) Công việc tình nguyện không hưởng lương nhằm giúp đỡ những hoàn cảnh khó khăn và đóng góp cho lợi ích chung của địa phương.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 4: dùng trong hội thoại mở đầu khẳng định giá trị kép của công tác xã hội ('Community service not only benefits the local area, but can also boost our confidence').
+  - Tiếng Anh lớp 7, Unit 3 (Community service): nhan đề của Unit 3 và xuất hiện trong bài đọc 'a good way for students to develop themselves is through community service' (tr. 28, 34).
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 4 (Mục I), tr. 42, 43; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 3, tr. 28; SGK Tiếng Anh 7 Global Success, Unit 3, tr. 34; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### Comparative adjectives
 - **Tiếng Việt:** tính từ so sánh hơn
@@ -1380,6 +1783,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 7: chủ điểm ngữ pháp trọng tâm dùng để so sánh quy mô, mức độ cạnh tranh và sự phát triển trong hội nhập quốc tế (more active, less competitive than, the largest economies, the most disadvantaged children).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7, tr. 76; SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục II), tr. 78; SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục VIII), tr. 85
 
+### Comparisons: like, different from, (not) as ... as
+- **Tiếng Việt:** cấu trúc so sánh: giống như, khác với, (không) ... bằng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (grammar) /laɪk/, /ˈdɪfrənt frəm/, /(nɒt) əz ... əz/ — Grammatical structures used to express similarity ('like', 'as + adjective + as') or difference ('different from', 'not as + adjective + as') between two people or things.
+- **Giải thích (VI):** (ngữ pháp) Nhóm ba cấu trúc so sánh dùng để diễn tả sự tương đồng ('like + danh từ/đại từ', 'as + tính từ + as') hoặc sự khác biệt, chênh lệch mức độ ('different from + danh từ/đại từ', 'not as + tính từ + as') giữa hai đối tượng.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): chủ điểm ngữ pháp trọng tâm phần A Closer Look 2 dùng để so sánh các tác phẩm, bảo tàng và thể loại nghệ thuật (ví dụ: 'Classical music is not as exciting as rock').
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 43, 44
+
 ### compass (English)
 - **Tiếng Việt:** com-pa (la bàn)
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -1390,7 +1801,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 6, Unit 1 (My new school): dùng trong chủ đề đồ dùng học tập và luyện phát âm nguyên âm /ʌ/ ('My brother has a new compass', 'We often use a compass in a maths class').
   - Tiếng Anh lớp 6, Unit 5 (Natural wonders of Viet Nam): dùng trong nhóm vật dụng cần mang theo khi đi dã ngoại, leo núi ("We're lost. Please give me the compass.").
   - *Lưu ý:* Trong Unit 1 mang nghĩa chiếc com-pa vẽ hình tròn; sang Unit 5 (Natural wonders of Viet Nam) từ này còn mang nghĩa chiếc la bàn định hướng.
-  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'La bàn' trong Địa lí.
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'La bàn' trong Vật lí.
   - *Lưu ý:* Trong chủ đề du lịch khám phá ở Unit 5, "compass" mang nghĩa là chiếc la bàn định hướng, cần phân biệt với "compass" ở Unit 1 là chiếc com-pa dùng để vẽ hình tròn.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 1, tr. 7, 8, 14; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 70; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 50; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 50, 51; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5 (Mục COMMUNICATION), tr. 53
 
@@ -1430,6 +1841,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 10 (Lifelong learning): bổ nghĩa cho danh từ 'problems' trong cụm 'work together in order to solve complex problems' (hợp tác để giải quyết các vấn đề phức tạp).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 10 (Mục IV), tr. 135; SGK Tiếng Anh 12 Global Success, Unit 10 (Mục V), tr. 135; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 155
 
+### compose
+- **Tiếng Việt:** soạn nhạc; sáng tác
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /kəmˈpəʊz/ — To write a piece of music, a song, or a poem.
+- **Giải thích (VI):** (động từ) Sáng tác, biên soạn một bản nhạc, ca khúc hoặc tác phẩm nghệ thuật.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng trong chủ đề hoạt động nghệ thuật với cụm từ cố định 'compose music' (sáng tác âm nhạc).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 42; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 43; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4 (Mục COMMUNICATION), tr. 45; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
+### composer
+- **Tiếng Việt:** nhà soạn nhạc; nhạc sĩ sáng tác
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /kəmˈpəʊzə/ — A person who writes music, especially classical music or songs.
+- **Giải thích (VI):** (danh từ) Nhạc sĩ hoặc nhà soạn nhạc chuyên sáng tác các ca khúc và tác phẩm âm nhạc.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng để giới thiệu các danh nhân âm nhạc như 'Van Cao was a great Vietnamese composer' và 'Mozart is one of the world's greatest composers'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 42; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 43; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4 (Mục COMMUNICATION), tr. 45; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### compost
 - **Tiếng Việt:** phân hữu cơ, phân ủ
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -1446,6 +1873,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 3: chủ điểm ngữ pháp trọng tâm dùng để ghép các ý có quan hệ bổ sung, lựa chọn, tương phản hoặc nhân quả khi nói và viết về chủ đề âm nhạc.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục II, VIII), tr. 28, 30, 37
 
+### compulsory
+- **Tiếng Việt:** bắt buộc
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /kəmˈpʌlsəri/ — That must be done because of a law, rule, or curriculum requirement.
+- **Giải thích (VI):** (tính từ) Bắt buộc mọi người phải thực hiện hoặc theo học theo quy định của chương trình giáo dục hay pháp luật.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng để nói về môn học nghệ thuật bắt buộc trong trường học 'Music and dancing are compulsory: all of us must study them every week' (trái nghĩa với 'optional' - tự chọn).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4 (Mục COMMUNICATION), tr. 45
+
 ### computer
 - **Tiếng Việt:** máy tính
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -1453,6 +1888,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Thiết bị điện tử hiện đại cho phép tiếp nhận, lưu trữ và xử lí thông tin nhanh chóng theo các chương trình được lập trình sẵn.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 5 (Inventions): dùng làm từ mẫu luyện trọng âm danh từ ba âm tiết và trong bài học CLIL về cấu tạo máy tính (computer hardware, computer memory, computer programs, computer science).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục II), tr. 53, 54; SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục VII), tr. 59, 60; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 127
+
+### computer room
+- **Tiếng Việt:** phòng máy tính; phòng tin học
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /kəmˈpjuːtə ruːm/ — A room in a school or building equipped with computers for students to study Information Technology and use the Internet.
+- **Giải thích (VI):** (cụm danh từ) Phòng học chức năng trong nhà trường được trang bị hệ thống máy vi tính để học sinh học môn Tin học và thực hành tra cứu Internet.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 6: dùng trong chủ đề cơ sở vật chất trường học khi giới thiệu các phòng chức năng (visit the computer room, four computer rooms).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 60; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 60, 61; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 61
 
 ### concern
 - **Tiếng Việt:** sự lo ngại; mối quan tâm
@@ -1467,8 +1910,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈkɒnsət/ — A public performance of music given by one or more singers or musicians.
 - **Giải thích (VI):** (danh từ) Buổi biểu diễn âm nhạc trực tiếp trước công chúng của một hoặc nhiều ca sĩ, nhạc công.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 3: dùng trong chủ đề sự kiện âm nhạc, kết hợp trong các cụm 'perform at the charity concert', 'delay their live concert', 'go to a live concert at City Theatre'.
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục II, VIII), tr. 30, 36, 38; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 3: dùng trong chủ đề sự kiện âm nhạc, kết hợp trong các cụm 'perform at the charity concert', 'delay their live concert', 'go to a live concert at City Theatre'.
+  - Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng trong chủ đề biểu diễn âm nhạc với câu 'The orchestra will perform its final concert of the season tomorrow'.
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục II, VIII), tr. 30, 36, 38; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 42; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
+### concert hall
+- **Tiếng Việt:** phòng hoà nhạc
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈkɒnsət hɔːl/ — A large public building or auditorium designed specifically for musical performances.
+- **Giải thích (VI):** (danh từ) Khán phòng lớn hoặc nhà hát được thiết kế chuyên biệt về âm thanh để tổ chức các buổi biểu diễn hoà nhạc.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): thuộc nhóm danh từ chỉ địa điểm nghệ thuật (Places) trong phần A Closer Look 1 bên cạnh 'art gallery' và 'puppet theatre'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 42
 
 ### Conditional sentences Type 1 and Type 2
 - **Tiếng Việt:** câu điều kiện loại 1 và loại 2
@@ -1501,6 +1954,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (tính từ) Có cảm giác bỡ ngỡ, lúng túng vì chưa hiểu rõ tình huống hoặc mục đích của công việc đang tham gia.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 4: tính từ đuôi '-ed' chỉ cảm xúc con người trong hội thoại kể về chuyến đi tình nguyện vùng cao ('at first I was confused. I didn't understand the purpose of the trip').
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 4 (Mục VII), tr. 49; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126
+
+### confusing
+- **Tiếng Việt:** khó hiểu, gây bối rối
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /kənˈfjuːzɪŋ/ — Difficult to understand or follow because it is complicated or not clear.
+- **Giải thích (VI):** (tính từ) Rắc rối, thiếu rõ ràng khiến người xem khó nắm bắt hoặc không hiểu được nội dung cốt truyện.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 8 (Films): dùng trong nhóm tính từ nhận xét về bộ phim (I didn't really understand the film. It was very confusing).
+  - *Lưu ý:* Phân biệt tính từ đuôi -ing chỉ đặc điểm sự vật (confusing: gây khó hiểu) với tính từ đuôi -ed chỉ cảm xúc của người (confused: cảm thấy bối rối).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 84; SGK Tiếng Anh 7 Global Success, Unit 8 (Mục LOOKING BACK), tr. 90; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### confusion
 - **Tiếng Việt:** sự bối rối, sự hoang mang
@@ -1574,20 +2037,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 3 (Mục III), tr. 36, 37; SGK Tiếng Anh 12 Global Success, Unit 3 (Mục VI), tr. 39
 
 ### control
-- **Tiếng Việt:** sự kiểm soát, quyền chủ động (danh từ)
+- **Tiếng Việt:** sự kiểm soát, quyền chủ động (danh từ; điều khiển; động từ)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /kənˈtrəʊl/ — The power or ability to make decisions about something and direct how it is managed or done.
 - **Giải thích (VI):** (danh từ) Khả năng làm chủ, tự quyết định và điều chỉnh kế hoạch, tiến độ thực hiện một hoạt động.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 8: dùng trong chủ đề phương pháp học tập kết hợp với cụm từ cố định have/give more control over our own learning (giúp học sinh chủ động kiểm soát việc học của bản thân).
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8, tr. 86; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục I), tr. 86; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục I), tr. 86, 87
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (v) /kənˈtrəʊl/ — To make something move or work in the way that you want it to. / VI: (động từ) Điều khiển, làm cho một vật chuyển động hoặc hoạt động theo đúng ý muốn của người thực hiện.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 8: dùng trong chủ đề phương pháp học tập kết hợp với cụm từ cố định have/give more control over our own learning (giúp học sinh chủ động kiểm soát việc học của bản thân).
+  - Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng trong bài đọc về kĩ thuật múa rối nước 'They used strings under the water to control the puppets and make them move on the water!'.
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8, tr. 86; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục I), tr. 86; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục I), tr. 86, 87; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 46; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 47; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### convenient
 - **Tiếng Việt:** thuận tiện, tiện lợi
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (adj) /kənˈviːniənt/ — Useful, easy, or quick to do; near to a particular place and easy to reach.
 - **Giải thích (VI):** (tính từ) Thuận tiện, tiện lợi cho sinh hoạt hằng ngày nhờ vị trí gần cửa hàng, chợ hoặc trường học.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 4 (My neighbourhood): dùng trong phần luyện phát âm nguyên âm dài /iː/ và từ vựng miêu tả ưu điểm của khu phố ("convenient").
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 40
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (adj) /kənˈviːniənt/ — Useful, easy, and suitable for a particular purpose without causing trouble or wasting time. / VI: (tính từ) Dễ sử dụng, phù hợp với nhu cầu di chuyển hằng ngày và giúp tiết kiệm thời gian, công sức.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 4 (My neighbourhood): dùng trong phần luyện phát âm nguyên âm dài /iː/ và từ vựng miêu tả ưu điểm của khu phố ("convenient").
+  - Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng để đánh giá lợi ích của các phương tiện giao thông tương lai (ví dụ: It is eco-friendly and convenient; A convenient way to go to school is by bamboo-copter).
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 40; SGK Tiếng Anh 7 Global Success, Unit 11 (Mục COMMUNICATION), tr. 119; SGK Tiếng Anh 7 Global Success, Unit 11 (Mục LOOKING BACK), tr. 122; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### cooker
 - **Tiếng Việt:** bếp nấu
@@ -1628,8 +2097,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈkɒstjuːm/ — The clothes worn by people from a particular place or historical period, or worn to dress up for a special festival.
 - **Giải thích (VI):** (danh từ) Bộ quần áo đặc trưng của một dân tộc, vùng miền, thời kỳ lịch sử hoặc trang phục hóa trang trong các dịp lễ hội.
-- **Bối cảnh:** Tiếng Anh lớp 12, Unit 2 (A multicultural world): dùng trong chủ đề trang phục hóa trang dịp lễ hội quốc tế và trang phục dân tộc (Halloween costumes, traditional costumes).
-- **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 2 (Mục V), tr. 27; SGK Tiếng Anh 12 Global Success, Unit 2 (Mục VI), tr. 27; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 148
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈkɒstjuːm/ — A set of clothes traditional to a particular country or worn to look like someone or something else during a festival. / VI: (danh từ) Bộ trang phục truyền thống của một dân tộc hoặc trang phục hoá trang đặc biệt mặc trong các dịp biểu diễn, lễ hội.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 12, Unit 2 (A multicultural world): dùng trong chủ đề trang phục hóa trang dịp lễ hội quốc tế và trang phục dân tộc (Halloween costumes, traditional costumes).
+  - Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong các cụm từ traditional costumes (trang phục truyền thống dịp Tết, lễ hội hoa tulip) và Halloween costume (đồ hoá trang Halloween), đồng thời luyện trọng âm từ hai âm tiết.
+- **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 2 (Mục V), tr. 27; SGK Tiếng Anh 12 Global Success, Unit 2 (Mục VI), tr. 27; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 148; SGK Tiếng Anh 7 Global Success, Unit 9, tr. 92, 93, 94, 95, 100; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### cottage
 - **Tiếng Việt:** nhà tranh, ngôi nhà nhỏ ở quê
@@ -1654,6 +2126,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Ngôi nhà nằm ở vùng nông thôn, thường rộng rãi và có sân vườn thoáng đãng (đối chiếu với "town house" và "flat").
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 2 (My house): dùng trong chủ đề các loại hình nhà ở (Types of house), ví dụ "I live in a country house.".
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 2, tr. 16, 20, 24; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 70
+
+### country music
+- **Tiếng Việt:** nhạc đồng quê
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈkʌntri mjuːzɪk/ — A genre of popular music originating in the rural southern United States, featuring guitars, fiddles, and simple melodies.
+- **Giải thích (VI):** (danh từ) Thể loại âm nhạc đại chúng mang giai điệu mộc mạc bắt nguồn từ vùng nông thôn miền Nam nước Mỹ.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng trong bài tập ngữ pháp so sánh các dòng nhạc 'Rock is very exciting. It is not like country music'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 43, 44; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### craft
 - **Tiếng Việt:** đồ thủ công, nghề thủ công
@@ -1686,6 +2166,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (tính từ) Giàu trí tưởng tượng và óc sáng tạo, luôn có nhiều ý tưởng mới mẻ trong học tập hay nghệ thuật.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 3 (My friends): dùng để miêu tả năng khiếu và tính cách bạn bè, ví dụ "Mina is very creative. She likes drawing pictures. She always has lots of new ideas.".
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 3, tr. 28, 31, 32; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 70
+
+### creativity
+- **Tiếng Việt:** sự sáng tạo
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˌkriːeɪˈtɪvəti/ — The ability to use imagination and original ideas to design or make something new.
+- **Giải thích (VI):** (danh từ) Khả năng vận dụng trí tưởng tượng và ý tưởng mới mẻ để thiết kế, tạo ra sản phẩm độc đáo.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) khi mô tả yếu tố cần thiết để làm đồ thủ công và lợi ích phát triển tư duy (use creativity; develop your creativity).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 8; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 9; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 14
 
 ### credible
 - **Tiếng Việt:** đáng tin cậy
@@ -1731,6 +2219,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 2 (A multicultural world): dùng trong bài đọc về ảnh hưởng của toàn cầu hóa đối với xu hướng thời trang kết hợp đa văn hóa (cross-cultural styles that blend both traditional and modern elements are on the rise).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 2 (Mục III), tr. 24, 25
 
+### crossroads
+- **Tiếng Việt:** ngã tư, giao lộ
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈkrɒsrəʊdz/ — A place where two or more roads meet and cross each other.
+- **Giải thích (VI):** (danh từ) Nơi hai hay nhiều con đường giao cắt nhau (ngã tư, giao lộ); giữ nguyên hình thức có đuôi -s ở cả số ít (a crossroads) và số nhiều.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong phần A Closer Look 1 khi miêu tả lộ trình từ nhà đến trường (On the way to school, there are crossroads).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 74
+
 ### crowd
 - **Tiếng Việt:** đổ về, kéo về đông đúc (động từ)
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -1766,14 +2262,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 2, tr. 20; SGK Tiếng Anh 12 Global Success, Unit 2 (Mục I), tr. 20, 21; SGK Tiếng Anh 12 Global Success, Unit 2 (Mục III), tr. 24
 
 ### culture (English)
-- **Tiếng Việt:** văn hoá
+- **Tiếng Việt:** văn hoá (nền văn hóa)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈkʌltʃə/ — The customs, traditions, beliefs, arts, and way of life of a particular group of people or country.
 - **Giải thích (VI):** (danh từ) Tổng thể lối sống, phong tục tập quán, tín ngưỡng và nghệ thuật đặc trưng của một cộng đồng hoặc quốc gia.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈkʌltʃə/ — The customs, traditions, arts, beliefs, and way of life shared by a particular country or group of people. / VI: (danh từ) Tổng thể các phong tục, tập quán, nghệ thuật, tín ngưỡng và lối sống tạo nên bản sắc riêng của một dân tộc hoặc quốc gia.
 - **Bối cảnh:**
   - Tiếng Anh lớp 10, Unit 10 (Ecotourism): dùng trong chủ đề tìm hiểu, tôn trọng và giữ gìn bản sắc văn hóa địa phương khi đi du lịch (respect local culture, help local culture and businesses).
+  - Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng trong bài đọc về văn hóa người bản địa Maori tại New Zealand với cụm be rich in culture (ví dụ: New Zealand is rich in culture. Most visitors to New Zealand love its unique Maori culture).
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Văn hoá' trong Lịch sử.
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 10, tr. 110; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục II), tr. 112; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục III), tr. 113
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 10, tr. 110; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục II), tr. 112; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục III), tr. 113; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 130; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### culture shock
 - **Tiếng Việt:** sốc văn hóa
@@ -1850,13 +2348,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 9: dùng trong chủ đề định hướng nghề nghiệp (Career paths), đặc biệt ở phần Getting Started và phần Writing hướng dẫn cách viết hồ sơ xin việc (send in your CV and an application letter; Writing your CV).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9, tr. 116; SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục I), tr. 116; SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục I), tr. 116, 117
 
+### cycle lane
+- **Tiếng Việt:** làn đường xe đạp
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈsaɪkl leɪn/ — A part of a road marked off with painted lines and signs for the exclusive use of cyclists.
+- **Giải thích (VI):** (cụm danh từ) Phần làn đường được kẻ vạch và gắn biển báo chuyên biệt dành riêng cho người đi xe đạp lưu thông an toàn.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong bài tập nhận diện biển báo giao thông và bài đọc quy tắc cho người đi xe đạp (Wear helmets, and always use the cycle lane).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 74; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 78; SGK Tiếng Anh 7 Global Success, Unit 7 (Mục LOOKING BACK), tr. 80
+
 ### cycling
-- **Tiếng Việt:** môn đua xe đạp; việc đạp xe
+- **Tiếng Việt:** môn đua xe đạp; việc đạp xe (đạp xe; môn đi xe đạp)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈsaɪklɪŋ/ — The sport or activity of riding a bicycle for exercise, pleasure, or competition.
 - **Giải thích (VI):** (danh từ) Hoạt động đạp xe rèn luyện sức khoẻ hoặc môn thể thao đua xe đạp.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 8 (Sports and games): dùng với động từ 'go' trong chủ đề hoạt động thể chất như 'Hai goes cycling at the weekend.'.
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 17; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 18; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 23
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈsaɪklɪŋ/ — The sport or physical activity of riding a bicycle for exercise, recreation, or transport. / VI: (danh từ) Môn thể thao hoặc hoạt động vận động ngoài trời bằng cách đi xe đạp để rèn luyện thể lực và thư giãn.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 8 (Sports and games): dùng với động từ 'go' trong chủ đề hoạt động thể chất như 'Hai goes cycling at the weekend.'.
+  - Tiếng Anh lớp 7, Unit 2 (Healthy living): thường kết hợp với động từ 'go' ('go cycling') như 'My family often goes cycling in the countryside.' (tr. 18, 19, 20).
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 17; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 18; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 23; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 18; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 19; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 20
 
 ### damage
 - **Tiếng Việt:** làm hỏng, gây hư hại (động từ)
@@ -1911,20 +2420,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 3, tr. 32; SGK Tiếng Anh 12 Global Success, Unit 3 (Mục I), tr. 32, 33; SGK Tiếng Anh 12 Global Success, Unit 3 (Mục III), tr. 36
 
 ### decorate
-- **Tiếng Việt:** trang hoàng, trang trí
+- **Tiếng Việt:** trang hoàng, trang trí (trang trí)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (v) /ˈdekəreɪt/ — To make something look more attractive by putting ornamental things such as flowers or pictures on or in it.
 - **Giải thích (VI):** (động từ) Bày biện, tô điểm cho nhà cửa hoặc không gian thêm đẹp mắt bằng hoa tươi hay đồ trang trí.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 6 (Our Tet Holiday): dùng trong hoạt động chuẩn bị nhà cửa đón Tết với cấu trúc decorate something with something ("We clean our homes and decorate them with flowers").
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 58, 59; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 62; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (v) /ˈdekəreɪt/ — To make something look more attractive by putting ornamental things on or around it. / VI: (động từ) Trang hoàng, làm đẹp cho nhà cửa, cây cối hoặc không gian bằng các vật dụng bắt mắt nhân dịp lễ, Tết.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 6 (Our Tet Holiday): dùng trong hoạt động chuẩn bị nhà cửa đón Tết với cấu trúc decorate something with something ("We clean our homes and decorate them with flowers").
+  - Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng để miêu tả hoạt động chuẩn bị đón lễ Giáng sinh và năm mới như decorate pine trees (trang trí cây thông).
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 58, 59; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 62; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71; SGK Tiếng Anh 7 Global Success, Unit 9, tr. 93; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### decoration
-- **Tiếng Việt:** việc trang trí, đồ trang trí
+- **Tiếng Việt:** việc trang trí, đồ trang trí (đồ trang trí; sự trang trí)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˌdekəˈreɪʃn/ — The activity of making something look more attractive by putting things on or around it.
 - **Giải thích (VI):** (danh từ) Công việc bài trí, làm đẹp không gian hoặc sân khấu cho một sự kiện, lễ hội.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 3: dùng trong chủ đề công tác chuẩn bị sân khấu và không gian tổ chức sự kiện âm nhạc ('preparations for an International Youth Music Festival').
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục V, VI), tr. 33, 34; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˌdekəˈreɪʃn/ — A pretty object or item that is added to a place or thing to make it look more attractive for a special occasion. / VI: (danh từ) Vật dụng dùng để trang hoàng không gian trong các dịp lễ hội (thường dùng ở dạng số nhiều decorations).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 3: dùng trong chủ đề công tác chuẩn bị sân khấu và không gian tổ chức sự kiện âm nhạc ('preparations for an International Youth Music Festival').
+  - Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong tình huống giao tiếp đi chợ mua sắm đồ trang trí cho Tết Trung thu (buy decorations for the Mid-Autumn Festival).
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục V, VI), tr. 33, 34; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125; SGK Tiếng Anh 7 Global Success, Unit 9 (Mục COMMUNICATION), tr. 96, 97; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### decrease
 - **Tiếng Việt:** giảm xuống; sụt giảm
@@ -2008,6 +2523,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 10 (Lifelong learning): dùng để nhấn mạnh phẩm chất cốt lõi của người học tập suốt đời ('showed great determination to succeed', 'strong motivation and determination to become a lifelong learner').
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 10 (Mục IV), tr. 135; SGK Tiếng Anh 12 Global Success, Unit 10 (Mục V), tr. 135; SGK Tiếng Anh 12 Global Success, Unit 10 (Mục VI), tr. 136
 
+### develop
+- **Tiếng Việt:** phát triển; hoàn thiện
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /dɪˈveləp/ — To grow, improve, or help somebody gain better skills, character, and abilities over time.
+- **Giải thích (VI):** (động từ) Rèn luyện, bồi dưỡng để bản thân hoặc một sự vật ngày càng trưởng thành, tiến bộ và hoàn thiện hơn về kĩ năng, phẩm chất.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): dùng với đại từ phản thân trong bài đọc về lợi ích của hoạt động tình nguyện học đường 'a good way for students to develop themselves' (tr. 34).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 3, tr. 34; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### device
 - **Tiếng Việt:** thiết bị
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -2061,6 +2584,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 7: dùng làm khái niệm trọng tâm trong bài đọc so sánh ưu nhược điểm giữa truyền thông kĩ thuật số ('digital media') và truyền thông truyền thống ('traditional media').
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7, tr. 88; SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục III), tr. 92; SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục III), tr. 92, 93
 
+### dim
+- **Tiếng Việt:** lờ mờ, không đủ sáng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /dɪm/ — Not bright or clear, making it difficult to see or read properly.
+- **Giải thích (VI):** (tính từ) Ánh sáng yếu ớt, tù mù, không đủ độ sáng nên dễ gây mỏi và hại mắt khi đọc sách.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng trong cụm từ cố định 'in dim light' khi khuyên bảo vệ thị lực 'And you shouldn't read in dim light.' (tr. 20, 22).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 20; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 22; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### director
+- **Tiếng Việt:** người đạo diễn (phim; kịch)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /dɪˈrektə/ — A person who is in charge of making a film or play and instructs the actors and crew on how to perform their parts.
+- **Giải thích (VI):** (danh từ) Người chịu trách nhiệm chỉ đạo nghệ thuật, hướng dẫn diễn viên diễn xuất và điều hành quá trình dàn dựng một bộ phim hoặc vở kịch.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 8 (Films): dùng khi giới thiệu thông tin cơ bản về một bộ phim yêu thích (Its director is Chris Columbus).
+  - *Lưu ý:* Là danh từ đếm được chỉ người đạo diễn (lưu ý bảng Glossary trang 138 trong SGK in nhầm ký hiệu từ loại thành (v); động từ tương ứng là direct).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 87; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 88; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### disability
 - **Tiếng Việt:** sự khuyết tật
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -2077,6 +2618,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 7: dùng trong chủ đề các chương trình nhân đạo và giáo dục của UNICEF dành cho thanh thiếu niên, trẻ em và vùng khó khăn (the most disadvantaged children, disadvantaged teenagers, disadvantaged areas).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục I), tr. 76; SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục I), tr. 77; SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục II), tr. 77
 
+### disappear
+- **Tiếng Việt:** biến mất
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /ˌdɪsəˈpɪə/ — To become impossible to see any longer, or to vanish suddenly from a place.
+- **Giải thích (VI):** (động từ) Không còn nhìn thấy được nữa hoặc đột ngột rời khỏi một vị trí mà không để lại dấu vết.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng đối lập với appear để mô tả cách hoạt động của phương tiện dịch chuyển tức thời (ví dụ: It makes us disappear then appear in another place in just seconds).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 117; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### disappointing
+- **Tiếng Việt:** đáng thất vọng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˌdɪsəˈpɔɪntɪŋ/ — Not as good, enjoyable, or successful as someone had hoped or expected.
+- **Giải thích (VI):** (tính từ) Không hay, không hấp dẫn hoặc kém chất lượng hơn so với kỳ vọng ban đầu, gây cảm giác thất vọng.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong mẫu câu giao tiếp Everyday English để nhận xét một sự kiện hoặc lễ hội âm nhạc không đạt kỳ vọng (It was disappointing!).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9 (Mục COMMUNICATION), tr. 96, 97; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
+### disappointment
+- **Tiếng Việt:** sự thất vọng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˌdɪsəˈpɔɪntmənt/ — Sadness because something is not as good as expected, or an event or person that fails to meet expectations.
+- **Giải thích (VI):** (danh từ) Cảm giác hụt hẫng, buồn phiền khi mọi việc không như mong đợi, hoặc một sự kiện gây thất vọng (a big disappointment).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong chức năng giao tiếp bày tỏ sự thất vọng (Expressing disappointment) về một lễ hội âm nhạc kém chất lượng (It was a big disappointment).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 92, 96, 101; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### discount
 - **Tiếng Việt:** sự giảm giá; khoản chiết khấu
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -2084,6 +2649,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Khoản tiền được khấu trừ bớt so với mức giá thông thường của hàng hoá hoặc dịch vụ.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 7 (The world of mass media): dùng trong hội thoại về chi phí đăng quảng cáo cho sự kiện từ thiện trên báo địa phương (offer any discounts for charity advertising).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục I), tr. 89; SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục II), tr. 90; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 152
+
+### disease (English)
+- **Tiếng Việt:** bệnh; căn bệnh
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /dɪˈziːz/ — An illness affecting humans, animals, or plants, often caused by infection or poor health conditions.
+- **Giải thích (VI):** (danh từ) Căn bệnh hoặc chứng rối loạn sức khoẻ xảy ra ở cơ thể người, động vật hay thực vật.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng trong bài đọc về mụn trứng cá 'It's not a serious disease but young people want to avoid it.' (tr. 23).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Bệnh' trong Sinh học.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 23; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### dish
+- **Tiếng Việt:** món ăn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /dɪʃ/ — Food prepared in a particular way as part of a meal.
+- **Giải thích (VI):** (danh từ) Một món ăn cụ thể được chế biến theo công thức nhất định để thưởng thức trong bữa ăn.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 5 (Food and drink): dùng trong bài đọc giới thiệu ẩm thực Việt Nam 'Pho is a special kind of traditional Vietnamese dish' và phân biệt nhóm 'Dishes' (món ăn) với 'Ingredients' (nguyên liệu).
+  - *Lưu ý:* Trong chủ đề ẩm thực Unit 5, 'dish' mang nghĩa là 'món ăn đã chế biến' (traditional dish, popular dish), phân biệt với nghĩa 'chiếc đĩa đựng thức ăn' hoặc 'bát đĩa' (wash the dishes).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 56; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5 (Mục LOOKING BACK), tr. 58; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### dishwasher
 - **Tiếng Việt:** máy rửa bát
@@ -2111,6 +2696,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (động từ) Hiển thị thông số, dữ liệu hoặc hình ảnh lên màn hình thiết bị; hoặc trưng bày ra để quan sát.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 5 (Inventions): dùng ở dạng bị động trong mục CLIL về phần cứng máy tính để chỉ đơn vị hiển thị thông số bộ nhớ (It is displayed in gigabytes (GB)).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục VII), tr. 59, 60; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 127
+
+### distance
+- **Tiếng Việt:** khoảng cách; quãng đường
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈdɪstəns/ — The amount of space between two places or points.
+- **Giải thích (VI):** (danh từ) Độ dài quãng đường hoặc khoảng không gian ngăn cách giữa hai địa điểm.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong chủ điểm ngữ pháp cấu trúc It chỉ khoảng cách và hỏi đáp quãng đường đi lại (indicate distance, a long distance).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 72; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 75; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### distance learning
 - **Tiếng Việt:** học từ xa
@@ -2227,6 +2820,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 12 (Robots): dùng khi giới thiệu mẫu người máy thông minh nhất tại triển lãm có khả năng chăm sóc người ốm (Shifa, a doctor robot; doctor robots can look after sick people).
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 12, tr. 58, 59, 64
 
+### documentary
+- **Tiếng Việt:** phim tài liệu
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˌdɒkjəˈmentri/ — A film or television programme that gives facts and real-life information about a particular subject, event, or person.
+- **Giải thích (VI):** (danh từ) Thể loại phim phản ánh sự kiện, con người có thật trong đời sống hoặc cung cấp kiến thức khoa học, tự nhiên và xã hội.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 8 (Films): dùng khi phân biệt các thể loại phim (A film that shows real life events or stories is a documentary).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 82; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 83; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 84; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
+### dogsled
+- **Tiếng Việt:** xe trượt tuyết chó kéo
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈdɒɡsled/ — A vehicle without wheels mounted on runners and pulled by a team of dogs across snow and ice.
+- **Giải thích (VI):** (danh từ) Phương tiện trượt không bánh xe do một đàn chó kéo đi trên mặt băng tuyết tại các vùng hàn đới.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 – Review 4: dùng trong bài đọc về phương tiện giao thông đặc thù ở bang Alaska trong câu 'The only way to get there is by air, dogsled, or on foot.' (tr. 135).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Review 4, tr. 135
+
+### dollhouse
+- **Tiếng Việt:** nhà búp bê
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈdɒlhaʊs/ — A miniature toy house built with small rooms and furniture for dolls.
+- **Giải thích (VI):** (danh từ) Ngôi nhà đồ chơi thu nhỏ có các phòng và đồ nội thất mô hình dành cho búp bê.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) ở hội thoại mở đầu bài học về việc tự làm nhà búp bê bằng bìa cứng và keo dán (build a dollhouse).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 8; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 9; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### dolphin
 - **Tiếng Việt:** cá heo
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -2244,12 +2861,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục III), tr. 69; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục III), tr. 69, 70; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục III), tr. 70
 
 ### donate
-- **Tiếng Việt:** quyên góp, hiến tặng
+- **Tiếng Việt:** quyên góp, hiến tặng (cho, tặng; quyên góp)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (v) /dəʊˈneɪt/ — To give money, food, clothes, or other goods to help a person or a charitable organisation.
 - **Giải thích (VI):** (động từ) Trao tặng tiền bạc, lương thực, quần áo hoặc vật phẩm một cách tự nguyện cho tổ chức từ thiện hay người gặp khó khăn.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 4: dùng trọng tâm trong chủ đề thiện nguyện và phát triển cộng đồng ('If you don't have time to volunteer, you can donate money and food').
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 4 (Mục II, VIII), tr. 44, 50; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (v) /dəʊˈneɪt/ — To give money, food, books, clothes, or other goods to help a person in need or a charitable organization. / VI: (động từ) Dành tặng, quyên góp tiền bạc hoặc hiện vật (như sách vở, quần áo, thực phẩm) để hỗ trợ người có hoàn cảnh khó khăn hay tổ chức từ thiện.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 4: dùng trọng tâm trong chủ đề thiện nguyện và phát triển cộng đồng ('If you don't have time to volunteer, you can donate money and food').
+  - Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong cấu trúc 'donate something to somebody/a place' như 'We donate old textbooks to children in rural areas.' (tr. 28, 29, 30, 33, 34).
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 4 (Mục II, VIII), tr. 44, 50; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 3, tr. 28; SGK Tiếng Anh 7 Global Success, Unit 3, tr. 30; SGK Tiếng Anh 7 Global Success, Unit 3, tr. 34; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### donation
 - **Tiếng Việt:** khoản quyên góp, đồ hiến tặng
@@ -2280,8 +2900,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (adj) /ˈdraɪvələs/ — Operating and travelling automatically without a human driver in control.
 - **Giải thích (VI):** (tính từ) Vận hành và di chuyển tự động bằng công nghệ điều khiển thông minh mà không cần người trực tiếp cầm lái.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 5 (Inventions): dùng trong phần Speaking bổ nghĩa cho phương tiện giao thông tự hành (driverless cars — travel around without a person in control).
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục IV), tr. 56; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 127
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (adj) /ˈdraɪvələs/ — Operating automatically without a human driver in control of the vehicle. / VI: (tính từ) Vận hành hoàn toàn tự động nhờ hệ thống máy tính điều khiển mà không cần tài xế con người.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 5 (Inventions): dùng trong phần Speaking bổ nghĩa cho phương tiện giao thông tự hành (driverless cars — travel around without a person in control).
+  - Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng trước danh từ chỉ phương tiện tự hành như driverless car, driverless bus (ví dụ: We'll have driverless cars in the future).
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục IV), tr. 56; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 127; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 116; SGK Tiếng Anh 7 Global Success, Unit 11 (Mục LOOKING BACK), tr. 122; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### drop litter
 - **Tiếng Việt:** xả rác; vứt rác bừa bãi
@@ -2315,6 +2938,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 10 (Our houses in the future): dùng khi mô tả chức năng của máy rửa bát và máy giặt ('wash and dry dishes', 'wash and dry clothes').
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 10, tr. 40; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71
 
+### dull
+- **Tiếng Việt:** buồn tẻ, chán ngắt
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /dʌl/ — Not interesting or exciting; boring.
+- **Giải thích (VI):** (tính từ) Đơn điệu, thiếu hấp dẫn và kém kịch tính khiến khán giả cảm thấy nhàm chán hoặc buồn ngủ.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 8 (Films): dùng trong phần A Closer Look 1 và Looking Back để nhận xét một bộ phim tẻ nhạt (The film was so dull that we almost fell asleep).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 84; SGK Tiếng Anh 7 Global Success, Unit 8 (Mục LOOKING BACK), tr. 90; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
+### Dutch
+- **Tiếng Việt:** thuộc về Hà Lan; người Hà Lan
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj, n) /dʌtʃ/ — Belonging or relating to the Netherlands, its people, culture, or language; the people of the Netherlands.
+- **Giải thích (VI):** (tính từ, danh từ) Thuộc về đất nước, con người, văn hoá Hà Lan; người dân Hà Lan (khi đi với the) hoặc tiếng Hà Lan.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong hội thoại mở đầu về Lễ hội hoa Tulip Hà Lan (the Dutch Tulip Festival, Dutch folk dances, Dutch food and drinks).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 92, 93, 95; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### e-reader
 - **Tiếng Việt:** thiết bị đọc sách điện tử
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -2331,6 +2970,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 9: dùng làm chủ đề bài đọc mục CLIL giới thiệu lịch sử hình thành từ Sydney năm 2007 và ý nghĩa kêu gọi hành động vì khí hậu của Giờ Trái Đất.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9, tr. 100; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục VII), tr. 108; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục VIII), tr. 108
 
+### Easter
+- **Tiếng Việt:** Lễ Phục sinh
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈiːstə/ — An important spring festival celebrating the resurrection of Jesus Christ, often marked by painting and hunting for eggs.
+- **Giải thích (VI):** (danh từ) Lễ Phục sinh diễn ra vào mùa xuân ở các nước phương Tây, gắn liền với hoạt động vẽ trang trí và đi tìm trứng sô-cô-la.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong chủ đề lễ hội thế giới với giới từ at (painting eggs at Easter) và luyện trọng âm danh từ hai âm tiết.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 94, 95, 96, 97, 100; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
+### Easter Bunny
+- **Tiếng Việt:** thỏ Phục sinh
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈiːstə ˈbʌni/ — An imaginary rabbit in Western folklore said to bring chocolate eggs and sweets to children at Easter as a symbol of new life.
+- **Giải thích (VI):** (cụm danh từ) Hình tượng chú thỏ trong văn hoá dân gian phương Tây mang giỏ trứng sô-cô-la tặng trẻ em vào dịp Lễ Phục sinh, tượng trưng cho sự sinh sôi và sức sống mới.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong phần tìm hiểu biểu tượng văn hoá của các lễ hội thế giới (One of the symbols of Easter is the Easter Bunny).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 97, 98, 100
+
+### eating habits
+- **Tiếng Việt:** thói quen ăn uống
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈiːtɪŋ ˈhæbɪts/ — The regular ways in which a person or a community chooses, prepares, and consumes food and drink each day.
+- **Giải thích (VI):** (cụm danh từ) Tập quán dùng bữa thường xuyên của một cá nhân hay cộng đồng, bao gồm số bữa ăn, khung giờ ăn và các món ăn, thức uống quen thuộc trong ngày.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng xuyên suốt kỹ năng nghe, viết và dự án cuối bài khi trình bày về nếp ăn uống tại địa phương (the eating habits in his area).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 57; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 59
+
 ### eco-friendly
 - **Tiếng Việt:** thân thiện với môi trường
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -2338,11 +3001,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (tính từ) Không gây tổn hại hoặc giảm thiểu tác động xấu đối với môi trường tự nhiên.
 - **Giải thích khác (SGK Tiếng Anh 12):** EN: (adj) /ˌiːkəʊ ˈfrendli/ — Not harmful to the environment or ecosystem. / VI: (tính từ) Không gây hại cho hệ sinh thái và tốt cho việc bảo vệ môi trường tự nhiên.
 - **Giải thích khác (SGK Tiếng Anh 6 Tập 2):** EN: (adj) /ˌiːkəʊ ˈfrendli/ — Not harmful to the natural environment. / VI: (tính từ) Không gây hại cho môi trường tự nhiên, thường gắn với lối sống xanh và việc sử dụng các nguồn năng lượng sạch.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (adj) /ˌiːkəʊ ˈfrendli/ — Designed to cause little or no harm to the natural environment. / VI: (tính từ) Không xả khói bụi độc hại, không gây ô nhiễm và an toàn đối với môi trường tự nhiên.
 - **Bối cảnh:**
   - Tiếng Anh lớp 10, Unit 2: dùng trong chủ đề con người và môi trường trong các cụm eco-friendly car models, an eco-friendly person, eco-friendly materials và make your daily activities eco-friendly.
   - Tiếng Anh lớp 12, Unit 3: dùng trong chủ đề sống xanh (Green living), thường kết hợp trong các cụm như develop eco-friendly habits (hình thành thói quen thân thiện với môi trường) hoặc eco-friendly products.
   - Tiếng Anh lớp 6, Review 4: dùng trong bài đọc miêu tả ngôi nhà tương lai sử dụng năng lượng gió và năng lượng mặt trời, ví dụ "Our houses will be more eco-friendly.".
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục II), tr. 20; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục II), tr. 20, 21; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục III), tr. 22; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3, tr. 32; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục I), tr. 32; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục I), tr. 32, 33; SGK Tiếng Anh 6 Global Success Tập 2, Review 4, tr. 69
+  - Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng để nhận xét về các phương tiện giao thông xanh trong tương lai (ví dụ: A teleporter is eco-friendly, so it does not cause pollution).
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục II), tr. 20; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục II), tr. 20, 21; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục III), tr. 22; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3, tr. 32; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục I), tr. 32; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục I), tr. 32, 33; SGK Tiếng Anh 6 Global Success Tập 2, Review 4, tr. 69; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 114; SGK Tiếng Anh 7 Global Success, Unit 11 (Mục LOOKING BACK), tr. 122; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### economic
 - **Tiếng Việt:** thuộc về kinh tế
@@ -2353,6 +3018,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 10, Unit 7 (Viet Nam and international organisations): dùng trước danh từ khi nói về hội nhập và phát triển kinh tế (international economic organisation như WTO, economic growth).
   - *Lưu ý:* Cần phân biệt 'economic' (thuộc về nền kinh tế) với 'economical' (tiết kiệm, ít tốn kém).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục I), tr. 77; SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục II), tr. 77; SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục II), tr. 77, 78
+
+### economical
+- **Tiếng Việt:** tiết kiệm nhiên liệu; tiết kiệm chi phí
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˌiːkəˈnɒmɪkl/ — Using no more fuel, energy, or money than is necessary.
+- **Giải thích (VI):** (tính từ) Tiêu thụ ít nhiên liệu, năng lượng hoặc có chi phí vận hành thấp so với hiệu quả mang lại.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng trong bài đọc về mẫu xe điện mới của hãng Roadrunner (ví dụ: The new model will also be more economical).
+  - *Lưu ý:* Phân biệt với economic (/ˌiːkəˈnɒmɪk/ — thuộc về nền kinh tế); economical mang nghĩa tiết kiệm nhiên liệu, chi phí hoặc năng lượng.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 120; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### economy (English)
 - **Tiếng Việt:** nền kinh tế
@@ -2430,6 +3105,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 7 (Television): được định nghĩa là "a programme which teaches maths, English, etc." với các ví dụ như English in a Minute và Let's Learn ("Let's Learn is an educational TV programme").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 7; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 8; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7 (Mục COMMUNICATION), tr. 11
 
+### eel
+- **Tiếng Việt:** con lươn; thịt lươn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /iːl/ — A long, thin fish that looks like a snake and is often cooked as food.
+- **Giải thích (VI):** (danh từ) Loài cá thân dài, trơn giống hình con rắn, thường dùng làm nguyên liệu chế biến các món súp hoặc cháo lươn.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5 (Food and drink): dùng trong thực đơn bữa sáng và bài nghe về đặc sản ẩm thực Nghệ An với cụm 'a bowl of eel soup' (một bát súp lươn).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5 (Mục COMMUNICATION), tr. 55; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 57; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### Eiffel Tower
 - **Tiếng Việt:** tháp Eiffel
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -2437,6 +3120,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm danh từ riêng) Toà tháp bằng sắt cao nổi tiếng tại thủ đô Paris, biểu tượng văn hoá và điểm tham quan hàng đầu của nước Pháp.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 9 (Cities of the world): dùng kèm mạo từ 'the' trong phần City landmarks như 'The Eiffel Tower is a famous landmark in Paris.'.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9 (Mục COMMUNICATION), tr. 31
+
+### elderly
+- **Tiếng Việt:** lớn tuổi, cao tuổi
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈeldəli/ — Used as a polite word for old in age; when preceded by 'the', referring collectively to older people.
+- **Giải thích (VI):** (tính từ) Cao niên, lớn tuổi (mang sắc thái kính trọng, lịch sự hơn từ 'old' khi nói về người già).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 3 (Community service): dùng trước danh từ ('lonely elderly people') hoặc kết hợp với 'the' ('the elderly') như 'You can sing and dance with the elderly in a nursing home.' (tr. 30, 31, 33, 34).
+  - *Lưu ý:* Khi thêm mạo từ xác định 'the' phía trước ('the elderly'), cụm từ đóng vai trò như một danh từ tập hợp số nhiều mang nghĩa 'những người cao tuổi'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 3, tr. 30; SGK Tiếng Anh 7 Global Success, Unit 3, tr. 31; SGK Tiếng Anh 7 Global Success, Unit 3, tr. 33; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### electric car
+- **Tiếng Việt:** ô tô điện
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ɪˈlektrɪk kɑː/ — An automobile powered by one or more electric motors using energy stored in rechargeable batteries rather than petrol.
+- **Giải thích (VI):** (cụm danh từ) Xe ô tô vận hành bằng động cơ điện sử dụng pin sạc thay vì xăng dầu, giúp giảm khí thải gây ô nhiễm không khí.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): chủ đề chính của bài đọc hiểu về hãng xe Roadrunner và bài tập dự đoán tương lai (ví dụ: We will probably use electric cars because normal cars cause too much pollution).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 117; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 118; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 120
 
 ### electric cooker
 - **Tiếng Việt:** nồi cơm điện, bếp điện
@@ -2455,6 +3156,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (tính từ) Có liên quan đến điện năng hoặc vận hành bằng nguồn điện.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 2: dùng trong bài đọc về sống xanh khi khuyên tắt các thiết bị điện để tiết kiệm năng lượng (Turning off electrical appliances is an easy way to save energy).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục III), tr. 22; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125
+
+### electrical appliances
+- **Tiếng Việt:** các thiết bị điện
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ɪˈlektrɪkl əˈplaɪənsɪz/ — Devices or machines in a home or building that use electricity to perform household tasks, such as fans, televisions, or lights.
+- **Giải thích (VI):** (cụm danh từ) Các thiết bị, đồ gia dụng vận hành bằng điện năng trong gia đình hoặc trường học như ti vi, quạt, đèn và máy điều hòa.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10 (Energy sources): dùng trong chủ đề các biện pháp tiết kiệm điện năng hằng ngày với cụm turn off electrical appliances (tắt các thiết bị điện khi không sử dụng).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 111; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 113
+
+### electricity
+- **Tiếng Việt:** điện năng; điện
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ɪˌlekˈtrɪsəti/ — A form of energy carried through wires that is used to power lights, heating, and appliances.
+- **Giải thích (VI):** (danh từ) Dạng năng lượng truyền qua hệ thống dây dẫn dùng để chiếu sáng, sưởi ấm và vận hành máy móc, thiết bị.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) khi nói về sản xuất điện và các biện pháp tiết kiệm điện sinh hoạt (produce electricity; save electricity).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 104; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 105; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 111; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### eliminate
 - **Tiếng Việt:** loại ra, loại trừ
@@ -2520,10 +3237,20 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈenədʒi/ — Power derived from resources such as electricity, fuel, wind, or sunlight that is used to drive machines and provide heat and light.
 - **Giải thích (VI):** (danh từ) Nguồn sức mạnh sinh ra từ điện, nhiên liệu, gió hoặc mặt trời dùng để vận hành máy móc, chiếu sáng và cung cấp nhiệt.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈenədʒi/ — Power obtained from natural resources or fuels to provide light, heat, or electricity. / VI: (danh từ) Nguồn sức mạnh thu được từ tự nhiên hoặc nhiên liệu để cung cấp ánh sáng, nhiệt lượng và điện năng cho đời sống.
 - **Bối cảnh:**
   - Tiếng Anh lớp 10, Unit 2: dùng trong chủ đề sống xanh với các cụm từ save energy (tiết kiệm năng lượng), sources of energy, energy bills và wind energy.
+  - Tiếng Anh lớp 7, Unit 10: thuật ngữ trung tâm xuyên suốt chủ đề nguồn năng lượng (Energy sources) và tiết kiệm năng lượng tại nhà, trường học (energy sources; save energy).
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Năng lượng' trong Vật lí.
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục II), tr. 20; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục II), tr. 20, 21; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục III), tr. 22
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục II), tr. 20; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục II), tr. 20, 21; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục III), tr. 22; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 104; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 106; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### enjoyable
+- **Tiếng Việt:** thú vị, gây thích thú
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ɪnˈdʒɔɪəbl/ — Giving pleasure and making you feel happy and relaxed.
+- **Giải thích (VI):** (tính từ) Đem lại niềm vui, cảm giác thoải mái và sự hứng thú dễ chịu cho người thưởng thức.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 8 (Films): dùng để khen ngợi một bộ phim hay và đáng xem (I think you will enjoy Our Holiday. It's quite enjoyable).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 84; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### enter
 - **Tiếng Việt:** thâm nhập; thiết lập, đi vào
@@ -2532,6 +3259,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (động từ) Bắt đầu thâm nhập, tiếp cận vào các thị trường mới hoặc chính thức thiết lập mối quan hệ hợp tác với các quốc gia khác.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 7 (Viet Nam and international organisations): dùng trong chủ đề thương mại và ngoại giao quốc tế (our goods can enter more markets, enter into relations with other countries).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục II), tr. 78; SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục VIII), tr. 84; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 129
+
+### entrance exam
+- **Tiếng Việt:** kì thi đầu vào; kì thi tuyển sinh
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈentrəns ɪɡˈzæm/ — An examination that candidates must pass in order to be admitted to a school, college, or institution.
+- **Giải thích (VI):** (cụm danh từ) Kì thi tuyển sinh mà học sinh phải tham dự và vượt qua để đủ điều kiện theo học tại một ngôi trường.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 6: dùng trong chủ đề chuyến thăm trường học khi nói về điều kiện tuyển sinh vào các trường chuyên như Quốc Học – Huế (pass an entrance exam, take an entrance examination).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 62; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 66; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### environment (English)
 - **Tiếng Việt:** môi trường
@@ -2561,21 +3296,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 6 (Gender equality): dùng trong chủ đề bình đẳng giới và cơ hội nghề nghiệp (equal job opportunities, equal rights, equal income opportunities).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6, tr. 66; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục I), tr. 66; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục I), tr. 67
 
-### equality
+### equality (English)
 - **Tiếng Việt:** sự bình đẳng
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /iˈkwɒləti/ — The state of being equal, especially in having the same rights, status, and opportunities in society.
 - **Giải thích (VI):** (danh từ) Trạng thái mọi người đều được hưởng quyền lợi, vị thế và cơ hội ngang nhau trong xã hội.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 6 (Gender equality): dùng trong chủ đề đấu tranh và thúc đẩy bình đẳng giữa nam và nữ (promote gender equality, achieve gender equality).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 6 (Gender equality): dùng trong chủ đề đấu tranh và thúc đẩy bình đẳng giữa nam và nữ (promote gender equality, achieve gender equality).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Đẳng thức' trong Toán học.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6, tr. 66; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục II), tr. 67; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục II), tr. 68
 
 ### equipment
-- **Tiếng Việt:** thiết bị, dụng cụ
+- **Tiếng Việt:** thiết bị, dụng cụ (đồ dùng; trang thiết bị)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ɪˈkwɪpmənt/ — The tools, items, or machines needed for a particular activity, sport, or purpose.
 - **Giải thích (VI):** (danh từ) Các trang thiết bị, dụng cụ cần thiết để tập luyện thể thao hoặc tham gia một trò chơi (danh từ không đếm được).
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 8 (Sports and games): dùng trong chủ đề dụng cụ phòng tập và trò chơi như 'The equipment is great.' và 'What equipment does it need?'.
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 16; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 16, 17; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 17
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ɪˈkwɪpmənt/ — The tools, machines, or other items needed for a particular purpose or activity. / VI: (danh từ) Các dụng cụ, máy móc hoặc đồ dùng cần thiết phục vụ cho hoạt động giảng dạy, học tập hay công việc cụ thể (danh từ không đếm được).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 8 (Sports and games): dùng trong chủ đề dụng cụ phòng tập và trò chơi như 'The equipment is great.' và 'What equipment does it need?'.
+  - Tiếng Anh lớp 7, Unit 6: dùng trong chủ đề trường học khi định nghĩa hệ thống cơ sở vật chất nhà trường (buildings, services, equipment at a school).
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 16; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 16, 17; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 17; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6 (Mục LOOKING BACK), tr. 68; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### essential
 - **Tiếng Việt:** thiết yếu; cần thiết
@@ -2604,15 +3344,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6, tr. 76; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục VII), tr. 85; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục VIII), tr. 87
 
 ### exchange
-- **Tiếng Việt:** trao đổi (động từ)
+- **Tiếng Việt:** trao đổi (động từ; trao đổi; đổi lấy)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (v) /ɪksˈtʃeɪndʒ/ — To give and receive information, ideas, or opinions with somebody else during a discussion.
 - **Giải thích (VI):** (động từ) Đưa ra và tiếp nhận qua lại các thông tin, nhận xét hoặc ý tưởng với người khác trong quá trình thảo luận.
 - **Giải thích khác (SGK Tiếng Anh 6 Tập 2):** EN: (v) /ɪksˈtʃeɪndʒ/ — To give something to somebody and receive something else of a similar type or value from them. / VI: (động từ) Đưa một vật cho người khác và nhận lại một vật tương ứng từ họ để đôi bên cùng tái sử dụng.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (v) /ɪksˈtʃeɪndʒ/ — To give something to somebody and receive something else of value or usefulness in return. / VI: (động từ) Đưa một vật cho ai đó và nhận lại một vật khác tương ứng để thay thế hoặc phục vụ mục đích gây quỹ, bảo vệ môi trường.
 - **Bối cảnh:**
   - Tiếng Anh lớp 10, Unit 8: dùng trong bài đọc về học trực tuyến khi học sinh thảo luận dự án trên diễn đàn mạng (exchange comments and ideas about my projects with my classmates).
   - Tiếng Anh lớp 6, Unit 11 (Our greener world): dùng khi nói về hoạt động trao đổi sách và đồng phục cũ với bạn bè tại trường (exchange used books and uniforms with friends).
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục III), tr. 89; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục III), tr. 89, 90; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 129; SGK Tiếng Anh 6 Global Success Tập 2, Unit 11, tr. 54, 55; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71
+  - Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong cấu trúc 'exchange A for B' như 'Children in our village exchange used paper for notebooks every school year.' (tr. 30, 34).
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục III), tr. 89; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục III), tr. 89, 90; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 129; SGK Tiếng Anh 6 Global Success Tập 2, Unit 11, tr. 54, 55; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71; SGK Tiếng Anh 7 Global Success, Unit 3, tr. 30; SGK Tiếng Anh 7 Global Success, Unit 3, tr. 34; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### Exclamations with What
 - **Tiếng Việt:** câu cảm thán với What
@@ -2621,6 +3363,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm danh từ) Mẫu câu cảm thán mở đầu bằng 'What (+ a/an) + tính từ + danh từ!' dùng để bộc lộ cảm xúc ngạc nhiên, khen ngợi hoặc phàn nàn về sự vật, thời tiết.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 9 (Cities of the world): mẫu câu giao tiếp Everyday English như 'What nice photos!' và 'What a beautiful place!'.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 30; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9 (Mục COMMUNICATION), tr. 30; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9 (Mục COMMUNICATION), tr. 30, 31
+
+### exhibition
+- **Tiếng Việt:** cuộc triển lãm
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˌeksɪˈbɪʃn/ — A public display of works of art or other items of interest held in a museum or art gallery.
+- **Giải thích (VI):** (danh từ) Sự kiện trưng bày các tác phẩm hội họa, điêu khắc hoặc hiện vật nghệ thuật tại bảo tàng hay phòng tranh cho công chúng thưởng lãm.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng trong đoạn văn giới thiệu bảo tàng nghệ thuật với câu 'The museum opened on 10 August 1793 with an exhibition of 537 paintings'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4 (Mục LOOKING BACK), tr. 48; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### expand
 - **Tiếng Việt:** mở rộng
@@ -2664,6 +3414,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 8: dùng trong chủ đề suy giảm đa dạng sinh học toàn cầu, thường kết hợp với động từ 'become' trong cụm 'become extinct' (bị tuyệt chủng).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục II), tr. 102; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục II), tr. 102, 103; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục II), tr. 103
 
+### extra
+- **Tiếng Việt:** thêm; bổ trợ; ngoại khoá
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈekstrə/ — Added to what is normal, expected, or standard.
+- **Giải thích (VI):** (tính từ) Được bổ sung thêm ngoài phần tiêu chuẩn hoặc ngoài chương trình học chính khoá thông thường.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 6: dùng trong chủ đề trường học khi nói về các môn học tăng cường và hoạt động ngoại khoá của học sinh (extra subjects, extra activities).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6 (Mục COMMUNICATION), tr. 65; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6 (Mục LOOKING BACK), tr. 68; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### extracurricular
 - **Tiếng Việt:** ngoại khóa
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -2679,6 +3437,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (tính từ) Có mức độ vô cùng dữ dội, gay gắt hoặc khắc nghiệt vượt xa điều kiện tự nhiên thông thường.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 9: dùng trong chủ đề biến đổi khí hậu để mô tả các hiện tượng thời tiết khắc nghiệt (extreme weather events like floods or heatwaves).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục II), tr. 103; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục III), tr. 103; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục III), tr. 103, 104
+
+### eye drops
+- **Tiếng Việt:** thuốc nhỏ mắt
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈaɪ drɒps/ — Liquid medicine put directly into the eyes in small drops to relieve dryness, tiredness, or irritation.
+- **Giải thích (VI):** (cụm danh từ) Dung dịch thuốc dùng để nhỏ trực tiếp từng giọt vào mắt nhằm làm dịu tình trạng khô, mỏi hoặc kích ứng mắt.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng ở dạng số nhiều trong phần giao tiếp đưa lời khuyên sức khoẻ 'My eyes are tired. – You can use eye drops.' (tr. 22).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 22; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### eyesight
 - **Tiếng Việt:** thị lực
@@ -2705,6 +3471,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 12, Unit 6 (Artificial Intelligence): nêu làm ví dụ về ứng dụng AI thực tiễn giúp kiểm tra an ninh tại trung tâm công nghệ cao (facial recognition, a facial recognition screen at the entrance).
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Nhận dạng khuôn mặt' trong Tin học.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục I), tr. 77; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 151
+
+### facility
+- **Tiếng Việt:** cơ sở vật chất; tiện nghi
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /fəˈsɪləti/ — Buildings, rooms, services, and equipment provided for a particular purpose, such as education.
+- **Giải thích (VI):** (danh từ) Hệ thống phòng ốc, công trình, dịch vụ và trang thiết bị tiện nghi phục vụ cho việc dạy và học (thường dùng ở dạng số nhiều facilities).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 6: dùng xuyên suốt chủ đề thăm trường học khi giới thiệu cơ sở vật chất hiện đại của trường (school facilities, modern facilities).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 60; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 60, 61; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 62
 
 ### fact-check
 - **Tiếng Việt:** kiểm chứng thông tin
@@ -2764,6 +3538,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 8 (Sports and games): dùng để khen ngợi màn trình diễn thể thao ấn tượng như 'My favourite team scored a fantastic goal!'.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 19; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 19, 20; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70
 
+### fantasy
+- **Tiếng Việt:** phim giả tưởng; phim kỳ ảo
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈfæntəsi/ — A type of film or story set in an imaginary world involving magic, supernatural events, and mythical creatures.
+- **Giải thích (VI):** (danh từ) Thể loại phim xây dựng dựa trên trí tưởng tượng với các yếu tố phép thuật, siêu nhiên như phù thủy, sinh vật huyền bí.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 8 (Films): dùng khi nhận biết các thể loại phim và đọc bài bình luận phim Harry Potter (A film that is based only on imagination, not on real facts, is a fantasy).
+  - *Lưu ý:* Phân biệt fantasy (phim kỳ ảo xoay quanh phép thuật, phù thủy, thế giới thần thoại) với science fiction (phim khoa học viễn tưởng xoay quanh công nghệ tương lai, vũ trụ, robot).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 82; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 83; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 87; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### FAO
 - **Tiếng Việt:** Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -2796,6 +3580,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 2 (A multicultural world): dùng trong bài đọc minh họa sự du nhập ẩm thực quốc tế mang lại nhiều lựa chọn món ăn cho người dân bản địa (Fast food chains and international restaurants have become popular).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 2 (Mục III), tr. 24, 25
 
+### fat
+- **Tiếng Việt:** mỡ; chất béo (danh từ)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /fæt/ — A natural oily or greasy substance found in animal bodies and certain plant foods, used in cooking and nutrition.
+- **Giải thích (VI):** (danh từ) Chất béo hoặc mỡ có nguồn gốc từ động vật hay thực vật tồn tại trong thực phẩm.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng với vai trò danh từ không đếm được khi nói về giá trị dinh dưỡng của đậu phụ 'Tofu has vegetable protein and vitamin B. It doesn't have any fat.' (tr. 22).
+  - *Lưu ý:* Trong bài học dùng như danh từ không đếm được chỉ 'chất béo/mỡ' trong thức ăn; phân biệt với tính từ 'fat' mang nghĩa 'béo, thừa cân'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 22; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### favourite
 - **Tiếng Việt:** được yêu thích nhất
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -2805,6 +3599,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 6, Unit 1 (My new school): dùng để hỏi và kể về môn học hoặc thầy cô yêu thích ('What is your favourite subject at school?', 'Janet's favourite teacher').
   - *Lưu ý:* Viết theo chính tả tiếng Anh – Anh ('favourite'); trong tiếng Anh – Mỹ viết là 'favorite'.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 1, tr. 11, 13; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 70
+
+### feast
+- **Tiếng Việt:** bữa tiệc lớn; yến tiệc
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /fiːst/ — A large and special meal for many people, usually prepared to celebrate a festival or special occasion.
+- **Giải thích (VI):** (danh từ) Bữa tiệc thịnh soạn với nhiều món ăn đặc sắc được chuẩn bị cho gia đình và khách khứa trong các dịp lễ lớn.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong cụm từ have a feast, prepare a feast để nói về mâm cỗ ngày Tết Nguyên đán hoặc bữa tiệc sum họp dịp Lễ Tạ ơn.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 93, 94, 99, 100; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
+### feature
+- **Tiếng Việt:** trình diễn đặc biệt; có sự góp mặt nổi bật
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /ˈfiːtʃə/ — To include a particular person, performance, or thing as a special or most important part of an event.
+- **Giải thích (VI):** (động từ) Trình diễn đặc biệt hoặc đưa một tiết mục, nhân vật nổi bật vào làm điểm nhấn quan trọng của chương trình, sự kiện.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng ở thì quá khứ đơn (featured) trong bài đọc về Lễ hội Song sinh để giới thiệu các tiết mục của chương trình tìm kiếm tài năng (It featured singing, dancing, comedy, and other things).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 97, 98; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### feelings
 - **Tiếng Việt:** cảm xúc; tình cảm
@@ -2846,6 +3656,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 4 (My neighbourhood): dùng làm từ nối chỉ trình tự trong bài thuyết minh âm thanh dẫn đường ("Finally, go to Hoa Nhap Workshop to buy some presents.").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4 (Mục COMMUNICATION), tr. 43; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71
 
+### fine
+- **Tiếng Việt:** phạt tiền (động từ)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /faɪn/ — To make someone pay an amount of money as an official punishment for breaking a law or rule.
+- **Giải thích (VI):** (động từ) Xử phạt bằng cách buộc người vi phạm pháp luật hoặc quy định giao thông phải nộp một khoản tiền phạt.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong chủ đề quy định xử phạt giao thông và luyện âm /aɪ/ (police will fine you if you drive a dirty car).
+  - *Lưu ý:* Phân biệt ngoại động từ fine ('phạt tiền') với tính từ đồng âm fine ('khoẻ, ổn, tốt đẹp' trong câu giao tiếp I'm fine) và danh từ a fine ('khoản tiền phạt' trong cụm pay a fine).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 74; SGK Tiếng Anh 7 Global Success, Unit 7 (Mục COMMUNICATION), tr. 77; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### firefighter
 - **Tiếng Việt:** lính cứu hỏa; nhân viên chữa cháy
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -2862,6 +3682,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 6 (Our Tet Holiday): dùng trong cụm watch fireworks và miêu tả thời khắc đón năm mới ("When the clock strikes midnight, colourful fireworks light up the sky").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 60; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 64; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6 (Mục LOOKING BACK), tr. 66
 
+### fireworks display
+- **Tiếng Việt:** màn bắn pháo hoa
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈfaɪəwɜːks dɪˈspleɪ/ — A public event at which colourful fireworks are set off in the sky to celebrate a special occasion.
+- **Giải thích (VI):** (cụm danh từ) Màn trình diễn bắn pháo hoa nghệ thuật trên bầu trời để chào mừng năm mới hoặc các dịp lễ trọng đại.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong cụm từ watch a fireworks display, see a fireworks display khi kể về hoạt động đón giao thừa (on New Year's Eve).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 93, 95, 100; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### First conditional
 - **Tiếng Việt:** câu điều kiện loại 1
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -2871,14 +3699,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 11, tr. 48, 52, 56
 
 ### fit
-- **Tiếng Việt:** mạnh khoẻ, cân đối
+- **Tiếng Việt:** mạnh khoẻ, cân đối (gọn gàng, cân đối; khoẻ khoắn; tính từ)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (adj) /fɪt/ — Healthy and strong, especially as a result of regular physical exercise.
 - **Giải thích (VI):** (tính từ) Khoẻ mạnh, săn chắc và có thể lực tốt nhờ rèn luyện thể dục thể thao thường xuyên.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (adj) /fɪt/ — Healthy, strong, and in good physical shape, especially as a result of regular exercise. / VI: (tính từ) Có vóc dáng cân đối, săn chắc và thể lực dẻo dai nhờ vận động, tập luyện thường xuyên.
 - **Bối cảnh:**
   - Tiếng Anh lớp 6, Unit 8 (Sports and games): dùng trong chủ đề rèn luyện thể chất với các cụm như 'You look fit!' và 'keep fit'.
+  - Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng trong các cụm từ cố định 'keep fit' và 'stay fit' như 'Healthy food and exercise help people keep fit.' (tr. 20, 21, 26).
   - *Lưu ý:* Phân biệt tính từ 'fit' (khoẻ mạnh, cân đối) với động từ 'fit' (vừa vặn về kích cỡ).
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 16; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 16, 17; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 17
+  - *Lưu ý:* Trong chủ đề sức khoẻ là tính từ mang nghĩa 'khoẻ khoắn, cân đối' (đồng nghĩa với 'in good shape'); phân biệt với động từ 'fit' nghĩa là 'vừa vặn'.
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 16; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 16, 17; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 17; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 20; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 21; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 26; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### flat
 - **Tiếng Việt:** căn hộ
@@ -2898,6 +3729,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 5: dùng trong quảng cáo tuyển dụng khi nói về chế độ giờ giấc làm việc linh động (offer flexible working hours).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục III), tr. 64; SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục III), tr. 64, 65; SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục III), tr. 65
 
+### float
+- **Tiếng Việt:** xe hoa diễu hành
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /fləʊt/ — A large vehicle or platform decorated with flowers or models and carrying performers slowly in a festival parade.
+- **Giải thích (VI):** (danh từ) Chiếc xe lớn được kết hoa hoặc trang trí mô hình rực rỡ, chở các nghệ sĩ biểu diễn di chuyển chậm trong đoàn diễu hành lễ hội.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng để miêu tả những chiếc xe kết hoa tulip và chở vũ công trong lễ hội (tulip floats, flower floats at a parade).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 92, 93, 100; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### floating market
 - **Tiếng Việt:** chợ nổi
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -2909,6 +3748,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 6, Unit 9 (Cities of the world): dùng khi giới thiệu nét văn hoá du lịch đặc trưng của Bangkok ở phần Skills 2.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 10 (Mục IV), tr. 115; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục V), tr. 115; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 131; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 28; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 33; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70
 
+### flooded
+- **Tiếng Việt:** bị lũ lụt; bị ngập lụt
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈflʌdɪd/ — Covered or filled with a large amount of water, especially after heavy rain or a river overflowing.
+- **Giải thích (VI):** (tính từ) Bị nước tràn ngập, chìm trong nước lũ do mưa lớn hoặc nước sông dâng cao.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong chủ đề hoạt động tình nguyện cứu trợ người dân vùng lũ với cụm 'people in flooded areas' (người dân ở vùng bị lũ lụt).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 32; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3 (Mục COMMUNICATION), tr. 32, 33; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### flour
+- **Tiếng Việt:** bột; bột mì
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /flaʊə/ — A fine white or brown powder made from grain, especially wheat, and used in cooking for making bread, cakes, and pancakes.
+- **Giải thích (VI):** (danh từ) Loại bột mịn làm từ ngũ cốc như lúa mì hoặc gạo, dùng làm nguyên liệu chế biến bánh mì, bánh ngọt hay bánh kếp.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi liệt kê nguyên liệu nấu ăn và đơn vị đo lường (200 grams of flour, rice flour).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 54; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 56
+
 ### flow chart
 - **Tiếng Việt:** lưu đồ, sơ đồ quy trình
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -2916,6 +3771,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Sơ đồ trực quan biểu diễn trình tự các bước thực hiện của một quy trình hoặc hoạt động thông qua các ô nối tiếp nhau.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 8: dùng trong phần Listening khi học sinh nghe hướng dẫn và hoàn thành sơ đồ quy trình chuẩn bị cho buổi học kết hợp trên hệ thống Eclass (complete the flow chart).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 129; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 129, 130
+
+### fly
+- **Tiếng Việt:** bay; lái máy bay; đi trên máy bay
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /flaɪ/ — To travel by aircraft, or to control and operate an aircraft in the air.
+- **Giải thích (VI):** (động từ) Di chuyển trên không trung bằng máy bay hoặc trực tiếp điều khiển, cầm lái máy bay.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong chủ đề phương tiện giao thông và luyện phát âm nguyên âm đôi /aɪ/ (learning to fly planes).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 74; SGK Tiếng Anh 7 Global Success, Unit 7 (Mục LOOKING BACK), tr. 80; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
+### flying car
+- **Tiếng Việt:** ô tô bay
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈflaɪɪŋ kɑː/ — A futuristic personal vehicle designed both to drive on roads and to fly through the air.
+- **Giải thích (VI):** (cụm danh từ) Loại xe ô tô cá nhân có khả năng cất cánh và bay trên không trung giúp di chuyển nhanh chóng và tránh ùn tắc giao thông.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng để luyện tập đưa ra dự đoán với thì tương lai đơn (ví dụ: Do you think we will travel by flying car in the future? — We certainly will).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 114; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 116; SGK Tiếng Anh 7 Global Success, Unit 11 (Mục COMMUNICATION), tr. 119
 
 ### focus (English)
 - **Tiếng Việt:** tập trung (động từ)
@@ -2926,6 +3797,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 10, Unit 8: dùng trong bài đọc về phương pháp giảng dạy trên lớp giúp học sinh chú ý vào bài giảng, thường đi với giới từ on (strategies to keep us focused on the lessons).
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Tiêu điểm' trong Toán học.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục III), tr. 89; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục III), tr. 89, 90; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 129
+
+### folk dance
+- **Tiếng Việt:** điệu nhảy dân gian; múa dân gian
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈfəʊk dɑːns/ — A traditional dance coming from the ordinary people of a particular country or region.
+- **Giải thích (VI):** (danh từ) Điệu múa hoặc điệu nhảy truyền thống bắt nguồn từ đời sống sinh hoạt văn hoá dân gian của một dân tộc hay vùng miền.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng khi nói về các tiết mục văn nghệ truyền thống tại lễ hội như perform Dutch folk dances, watch Dutch folk dances (biểu diễn, xem múa dân gian Hà Lan).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 92, 93, 95; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
+### folk music
+- **Tiếng Việt:** nhạc dân gian; nhạc truyền thống
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈfəʊk mjuːzɪk/ — Traditional music of a country or community that has been passed down through generations.
+- **Giải thích (VI):** (danh từ) Dòng âm nhạc dân gian truyền thống của một dân tộc hoặc vùng miền được lưu truyền qua nhiều thế hệ.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng trong hội thoại bày tỏ sở thích âm nhạc 'Which do you prefer, pop or folk music? — I prefer folk music'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4 (Mục COMMUNICATION), tr. 45; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 49; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### follow
 - **Tiếng Việt:** đi theo; làm theo, tuân thủ
@@ -2969,6 +3856,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 2 (My house): dùng trong bảng từ vựng các thiết bị gia dụng đặt ở phòng bếp (trang 18, 24).
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 2, tr. 18, 24
 
+### fried
+- **Tiếng Việt:** được chiên; rán; xào
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /fraɪd/ — Cooked in hot oil or fat.
+- **Giải thích (VI):** (tính từ) Được chế biến chín bằng cách chiên, rán hoặc xào trong dầu, mỡ nóng.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi gọi món tại nhà hàng Việt Nam (fried vegetables, fried tofu).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50, 51; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 51
+
 ### friendly
 - **Tiếng Việt:** thân thiện
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -2977,6 +3872,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 3 (My friends): dùng để miêu tả tính cách hoà đồng của bạn bè và thầy cô, ví dụ "Minh Duc is friendly. He likes meeting new people.".
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 3, tr. 28, 31, 32; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 70
 
+### frightening
+- **Tiếng Việt:** làm sợ hãi, rùng rợn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈfraɪtnɪŋ/ — Making you feel afraid, anxious, or shocked.
+- **Giải thích (VI):** (tính từ) Có tính chất ghê rợn, kỳ bí gây ra cảm giác hoảng sợ hoặc rùng mình cho người xem.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 8 (Films): dùng khi định nghĩa phim kinh dị và miêu tả cốt truyện rùng rợn (A film in which strange and frightening things happen is a horror film).
+  - *Lưu ý:* Phân biệt frightening (làm sợ hãi — mô tả bộ phim, sự vật) với frightened (cảm thấy hoảng sợ — mô tả cảm xúc con người).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 83; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 87; SGK Tiếng Anh 7 Global Success, Unit 8 (Mục LOOKING BACK), tr. 90; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### fruit peel
 - **Tiếng Việt:** vỏ hoa quả; vỏ trái cây
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -2984,6 +3889,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm danh từ) Lớp vỏ bên ngoài của các loại trái cây hoặc rau củ được gọt bỏ và có thể tận dụng làm phân hữu cơ.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 3: dùng trong chủ đề sống xanh, chỉ nguyên liệu xanh khi ủ phân hữu cơ (use fruit peels as green materials in a compost pile).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục V), tr. 38; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục V), tr. 38, 39; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục V), tr. 39
+
+### fume
+- **Tiếng Việt:** khói, khí thải
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /fjuːm/ — Strong, unpleasant, and often harmful gas or smoke produced by burning fuel or engines, usually used in the plural 'fumes'.
+- **Giải thích (VI):** (danh từ) Khói hoặc khí thải độc hại, có mùi khó chịu sinh ra từ quá trình đốt nhiên liệu của động cơ (thường dùng ở dạng số nhiều fumes).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng trong hội thoại mở đầu khi nói về việc tàu siêu tốc hyperloop không gây ô nhiễm (ví dụ: There will be no fumes, and it's totally safe).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 114; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### fun
 - **Tiếng Việt:** sự vui vẻ, niềm vui thích
@@ -2994,14 +3907,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 60; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6 (Mục COMMUNICATION), tr. 63; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 64
 
 ### function (English)
-- **Tiếng Việt:** chức năng; nhiệm vụ
+- **Tiếng Việt:** chức năng; nhiệm vụ (chức năng, tính năng)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈfʌŋkʃn/ — A special activity, purpose, or task of a person, thing, or computer program.
 - **Giải thích (VI):** (danh từ) Chế độ hoạt động hoặc nhiệm vụ cụ thể mà một thiết bị, chương trình máy tính hay rô-bốt được thiết kế để thực hiện.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈfʌŋkʃn/ — A specific purpose or useful feature that a machine, vehicle, or system is designed to perform. / VI: (danh từ) Nhiệm vụ chuyên biệt hoặc tính năng hoạt động được trang bị trên một thiết bị hay phương tiện.
 - **Bối cảnh:**
   - Tiếng Anh lớp 12, Unit 6 (Artificial Intelligence): dùng trong hướng dẫn vận hành rô-bốt gia đình ở mục Listening (Press the Start button and choose a function).
+  - Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng trong bài đọc giới thiệu tính năng của ô tô điện như cụm autopilot function, gaming screen function (ví dụ: Both models have an autopilot function, so they are driverless).
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Hàm số' trong Toán học.
-- **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục IV), tr. 82; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục V), tr. 82; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 151
+- **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục IV), tr. 82; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục V), tr. 82; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 151; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 120; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 121; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### funny
 - **Tiếng Việt:** ngộ nghĩnh, khôi hài (buồn cười, hài hước, ngộ nghĩnh)
@@ -3028,8 +3943,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (np) /ˈfjuːtʃə ˈsɪmpl/ — The verb tense formed with 'will' or 'won't' plus a base verb, used to talk about actions or events that will happen in the future.
 - **Giải thích (VI):** (cụm danh từ) Thì động từ cấu tạo bởi 'will' (phủ định 'won't') cộng động từ nguyên thể không 'to', dùng để diễn tả hành động hoặc dự đoán xảy ra trong tương lai.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 10 (Our houses in the future): chủ điểm ngữ pháp trọng tâm thứ nhất ở mục A Closer Look 2 ('We'll live in that cottage next year', 'My father will travel on the Moon in a super car in the future').
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 10, tr. 38, 41, 42, 43, 44, 46, 47
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (np) /ˈfjuːtʃə ˈsɪmpl/ — A verb tense formed with 'will / won't + base verb' used to talk about future actions and make predictions. / VI: (cụm danh từ) Thì động từ có cấu trúc will / won't + động từ nguyên thể dùng để diễn tả hoạt động sẽ xảy ra trong tương lai hoặc đưa ra dự đoán.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 10 (Our houses in the future): chủ điểm ngữ pháp trọng tâm thứ nhất ở mục A Closer Look 2 ('We'll live in that cottage next year', 'My father will travel on the Moon in a super car in the future').
+  - Tiếng Anh lớp 7, Unit 11 (Travelling in the future): chủ điểm ngữ pháp trọng tâm thường đi kèm soon, in the future, think, probably, certainly (ví dụ: We will buy an electric scooter soon; Will many children go to school by solowheel?).
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 10, tr. 38, 41, 42, 43, 44, 46, 47; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 114; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 117; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 118
+
+### gallery
+- **Tiếng Việt:** phòng triển lãm tranh; phòng trưng bày nghệ thuật
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈɡæləri/ — A room or building that is used for showing works of art to the public.
+- **Giải thích (VI):** (danh từ) Phòng hoặc tòa nhà chuyên dùng để trưng bày, triển lãm tranh vẽ và tác phẩm mỹ thuật cho công chúng xem.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): thường đi trong cụm 'art gallery' ở chủ đề tham quan nghệ thuật như 'maybe we should go to an art gallery next weekend'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 40, 41; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 42; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### game show
 - **Tiếng Việt:** trò chơi truyền hình
@@ -3038,6 +3964,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Chương trình trò chơi trên truyền hình nơi người tham gia vượt qua thử thách hoặc trả lời các câu hỏi đố vui để giành phần thưởng.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 7 (Television): dùng khi giới thiệu chương trình đố vui Children are Always Right trên lịch phát sóng ("Join this game show today and try to answer interesting questions about pets").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 8; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 12
+
+### gardening
+- **Tiếng Việt:** việc làm vườn; làm vườn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈɡɑːdnɪŋ/ — The outdoor activity of planting, watering, and caring for flowers, fruits, and vegetables in a garden.
+- **Giải thích (VI):** (danh từ) Hoạt động ngoài trời trồng, tưới nước và chăm sóc các loài hoa, cây ăn quả, rau xanh trong khu vườn.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) làm ví dụ trọng tâm xuyên suốt bài đọc và bài tập ngữ pháp về hoạt động ngoài trời (like/enjoy gardening).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 9; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 12; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 14; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### gathering
+- **Tiếng Việt:** cuộc tụ họp, cuộc hội ngộ
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈɡæðərɪŋ/ — A meeting or assembly of people who come together in one place for a shared purpose or celebration.
+- **Giải thích (VI):** (danh từ) Cuộc gặp gỡ, hội họp hoặc sum vầy đông người tại một địa điểm vì mục đích chung hay nhân dịp lễ hội.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong bài đọc về Lễ hội Ngày Song sinh để nhấn mạnh quy mô cuộc hội ngộ lớn nhất thế giới dành cho các cặp sinh đôi (the largest gathering for twins in the world).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 97, 98, 100
 
 ### gender
 - **Tiếng Việt:** giới; giới tính
@@ -3107,6 +4049,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 9: dùng trong chủ đề bảo tồn động vật hoang dã để định danh các loài quý hiếm có kích thước lớn như the giant tortoise (rùa khổng lồ) và the giant panda (gấu trúc lớn).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục V), tr. 106; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục VI), tr. 106; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục VI), tr. 106, 107
 
+### gifted
+- **Tiếng Việt:** có năng khiếu; tài năng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈɡɪftɪd/ — Having exceptional natural ability or high intelligence.
+- **Giải thích (VI):** (tính từ) Có trí thông minh vượt trội hoặc năng khiếu bẩm sinh xuất sắc trong học tập hay nghệ thuật.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 6: dùng trong chủ đề trường học để miêu tả học sinh giỏi tại các trường chuyên như Quốc Học – Huế (gifted students).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 62; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 66; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### give birth
 - **Tiếng Việt:** sinh con
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -3122,6 +4072,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm động từ) Nhắc nhở trước cho người khác biết về nguy cơ hoặc hậu quả xấu có thể xảy ra để họ dừng lại hay phòng tránh.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 11 (Our greener world): dùng làm chức năng giao tiếp Everyday English kết hợp câu mệnh lệnh phủ định với câu điều kiện loại 1 (Don't do that. If you give them too much food, they will die.).
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 11, tr. 48, 53, 57
+
+### Giving compliments
+- **Tiếng Việt:** đưa ra lời khen ngợi
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (phr) /ˈɡɪvɪŋ ˈkɒmplɪmənts/ — Expressing praise, admiration, or approval for someone's good work or achievements.
+- **Giải thích (VI):** (cụm từ giao tiếp) Chức năng giao tiếp bày tỏ lời khen ngợi, sự tán dương và khích lệ trước những việc làm ý nghĩa của người khác.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): chủ điểm giao tiếp phần Everyday English hướng dẫn cách khen ngợi hoạt động tình nguyện bằng các mẫu câu cảm thán 'Sounds like great work!' và 'Wonderful!'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 28; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 32; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3 (Mục COMMUNICATION), tr. 32
 
 ### Giving suggestions
 - **Tiếng Việt:** đưa ra lời gợi ý
@@ -3156,6 +4114,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Quá trình gia tăng sự liên kết, giao lưu và ảnh hưởng lẫn nhau về kinh tế, văn hóa, xã hội giữa các quốc gia trên phạm vi toàn thế giới.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 2 (A multicultural world): dùng trong bài đọc phân tích tác động của toàn cầu hóa đối với sự đa dạng văn hóa (The effects of globalisation on cultural diversity).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 2, tr. 20; SGK Tiếng Anh 12 Global Success, Unit 2 (Mục II), tr. 23; SGK Tiếng Anh 12 Global Success, Unit 2 (Mục III), tr. 23, 24
+
+### glue
+- **Tiếng Việt:** keo dán; hồ dán
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ɡluː/ — A sticky substance used for joining paper, cardboard, wood, or other craft materials together.
+- **Giải thích (VI):** (danh từ) Chất kết dính dạng lỏng hoặc đặc (danh từ không đếm được) dùng để gắn giấy, bìa cứng hay các vật liệu thủ công lại với nhau.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) khi nêu các dụng cụ cần thiết để làm nhà búp bê thủ công (some cardboard and glue).
+  - *Lưu ý:* Trong bài học từ này được dùng như danh từ không đếm được chỉ keo/hồ dán; ngoài ra 'glue' còn có thể dùng như ngoại động từ mang nghĩa 'dán bằng keo'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 8; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 9; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 15; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### go green
 - **Tiếng Việt:** thực hành sống xanh; hành động vì môi trường (sống xanh; thân thiện với môi trường)
@@ -3232,6 +4200,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 2: chủ điểm trung tâm của bài đọc Reading (Green living) và phần giao tiếp hỏi – đáp lời khuyên về sống xanh (asking for and giving advice about green living).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2, tr. 18; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục I), tr. 18; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục I), tr. 18, 19
 
+### green tea
+- **Tiếng Việt:** trà xanh; chè xanh
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˌɡriːn ˈtiː/ — A pale tea made from tea leaves that have been dried but not fermented.
+- **Giải thích (VI):** (danh từ) Thức uống có màu xanh nhạt được pha từ lá chè tươi hoặc lá trà sấy khô không qua lên men.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi gọi đồ uống tại nhà hàng và mô tả thói quen ăn uống hằng ngày (have some fruit and green tea).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50, 51; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5 (Mục COMMUNICATION), tr. 55
+
 ### greenhouse gases (English)
 - **Tiếng Việt:** khí nhà kính
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -3239,6 +4215,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm danh từ) Các chất khí trong khí quyển như khí các-bô-níc và khí mê-tan giữ nhiệt lại trên Trái Đất, gây ra hiệu ứng nhà kính và biến đổi khí hậu.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 3: dùng trong mục CLIL khi phân tích tác hại môi trường từ cây thông thật phân hủy tại bãi rác (produce methane and carbon dioxide, which are two harmful greenhouse gases).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục VII), tr. 41
+
+### gripping
+- **Tiếng Việt:** hấp dẫn, lôi cuốn, gay cấn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈɡrɪpɪŋ/ — Very exciting or interesting in a way that holds your attention completely.
+- **Giải thích (VI):** (tính từ) Cực kỳ kịch tính, hấp dẫn và lôi cuốn đến mức giữ chặt sự chú ý của khán giả từ đầu tới cuối.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 8 (Films): dùng trong bài đọc bình luận phim Skills 1 để khen cốt truyện đặc sắc (the story is gripping and the acting is excellent).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 87; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 88; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### grocery
 - **Tiếng Việt:** thực phẩm và tạp hoá
@@ -3257,12 +4241,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 12, tr. 60, 66; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71
 
 ### gym
-- **Tiếng Việt:** phòng tập thể dục thể thao
+- **Tiếng Việt:** phòng tập thể dục thể thao (phòng tập thể chất; nhà đa năng)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /dʒɪm/ — A room or club equipped with machines and weights for doing physical exercise.
 - **Giải thích (VI):** (danh từ) Phòng tập hoặc câu lạc bộ có trang bị dụng cụ, máy móc để rèn luyện thể dục thể thao.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 8 (Sports and games): dùng trong hội thoại mở đầu 'At the gym' như 'Wow! This gym is big!' và 'I was at the gym last Sunday.'.
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 16; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 16, 17; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 19
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /dʒɪm/ — A large room or hall with equipment for doing physical exercise and sports, especially at a school. / VI: (danh từ) Phòng tập thể chất hoặc nhà thi đấu đa năng trong trường học, nơi học sinh học thể dục và tổ chức hoạt động trong nhà.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 8 (Sports and games): dùng trong hội thoại mở đầu 'At the gym' như 'Wow! This gym is big!' và 'I was at the gym last Sunday.'.
+  - Tiếng Anh lớp 7, Unit 6 (A visit to a school): dùng trong chủ đề tham quan cơ sở vật chất trường học và luyện phát âm âm /dʒ/ (visit the school library, the computer room, and the gym).
+  - *Lưu ý:* Dạng rút gọn phổ biến của gymnasium; trong ngữ cảnh trường học chỉ phòng tập thể chất hoặc nhà đa năng chứ không phải phòng tập thể hình thương mại.
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 16; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 16, 17; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 19; SGK Tiếng Anh 7 Global Success, Unit 6, tr. 60; SGK Tiếng Anh 7 Global Success, Unit 6, tr. 61; SGK Tiếng Anh 7 Global Success, Unit 6, tr. 62; SGK Tiếng Anh 7 Global Success, Unit 6, tr. 66
 
 ### habitat
 - **Tiếng Việt:** môi trường sống; sinh cảnh
@@ -3279,6 +4267,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Khu vực tiền sảnh hoặc hành lang ngay sau cửa chính dẫn tới cầu thang và các phòng khác trong nhà.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 2 (My house): dùng khi gọi tên các không gian và phòng chức năng trong ngôi nhà (trang 17).
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 2, tr. 17, 20; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 70
+
+### handlebars
+- **Tiếng Việt:** tay lái, ghi đông (xe đạp; xe máy)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈhændlbɑːz/ — A metal bar with handles at each end that you hold to steer a bicycle or motorbike.
+- **Giải thích (VI):** (danh từ) Bộ phận thanh ngang có hai tay cầm ở đầu xe đạp hoặc xe máy dùng để điều khiển hướng đi của xe (thường dùng ở dạng số nhiều).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong chủ đề quy tắc an toàn khi điều khiển xe đạp (keep both hands on the handlebars).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7 (Mục COMMUNICATION), tr. 77; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 78; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### hands-on
 - **Tiếng Việt:** thực hành trực tiếp; mang tính thực tiễn
@@ -3373,6 +4369,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 9: dùng trong chủ đề định hướng nghề nghiệp (Career paths), phần Vocabulary chỉ phẩm chất cá nhân thuận lợi khi ứng tuyển các công việc dịch vụ và giao tiếp.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục II), tr. 118; SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục II), tr. 118, 119
 
+### health
+- **Tiếng Việt:** sức khoẻ
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /helθ/ — The general condition of a person's body and mind, or the state of being free from illness.
+- **Giải thích (VI):** (danh từ) Trạng thái thể chất và tinh thần của con người, đặc biệt là tình trạng cơ thể khoẻ mạnh, không bệnh tật.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): từ vựng trung tâm xuất hiện trong các cụm 'health problems', 'health tips' và 'Outdoor activities are good for our health.' (tr. 18, 20, 22, 26).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 18; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 20; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 26; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### healthy
+- **Tiếng Việt:** khoẻ mạnh; lành mạnh
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈhelθi/ — Physically strong and well, or beneficial and good for a person's health.
+- **Giải thích (VI):** (tính từ) Có sức khoẻ tốt, hoặc lành mạnh, có lợi cho việc giữ gìn và nâng cao sức khoẻ con người.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): xuất hiện ngay ở tiêu đề bài học và trong các cụm 'healthy activities', 'healthy habits', 'healthy food' (tr. 18, 21, 25, 26).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 18; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 26; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### heatwave
 - **Tiếng Việt:** sóng nhiệt; đợt không khí nóng
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -3410,8 +4422,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈhelmɪt/ — A hard protective hat worn to keep the head safe when riding a bicycle, motorbike, or doing dangerous activities.
 - **Giải thích (VI):** (danh từ) Chiếc mũ cứng chuyên dụng để bảo vệ đầu khi đi xe đạp, xe máy hoặc tham gia hoạt động thể thao.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 9 (Cities of the world): dùng trong bài đọc bưu thiếp du lịch Thuỵ Điển 'My parents wore their helmets and I wore mine.'.
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 32; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈhelmɪt/ — A strong hard hat worn to protect the head when riding a bicycle or motorbike. / VI: (danh từ) Loại mũ cứng bảo hộ đội trên đầu nhằm bảo vệ an toàn cho người đi xe đạp, xe máy khi tham gia giao thông.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 9 (Cities of the world): dùng trong bài đọc bưu thiếp du lịch Thuỵ Điển 'My parents wore their helmets and I wore mine.'.
+  - Tiếng Anh lớp 7, Unit 7 (Traffic): dùng khi đưa ra lời khuyên và quy định an toàn giao thông đường bộ (wearing a helmet, wear their helmets).
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 32; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 76; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 78
 
 ### help
 - **Tiếng Việt:** sự giúp đỡ (n); giúp đỡ (v)
@@ -3469,6 +4484,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 8: dùng trong bài đọc về điều kiện hạ tầng cần thiết khi tham gia học trực tuyến (need to have access to high-speed Internet).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục III), tr. 90; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục IV), tr. 90; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 129
 
+### historic
+- **Tiếng Việt:** cổ kính, mang dấu ấn lịch sử
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /hɪˈstɒrɪk/ — Important in history or connected with the past, especially regarding famous old places and buildings.
+- **Giải thích (VI):** (tính từ) Gắn liền với quá khứ hoặc có giá trị, ý nghĩa quan trọng trong lịch sử, thường dùng để miêu tả các địa danh hay công trình cổ.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng để miêu tả các địa điểm du lịch nổi tiếng như thị trấn Queenstown ở New Zealand hoặc các tòa nhà dọc sông Thames (ví dụ: historic Queenstown, historic buildings).
+  - *Lưu ý:* Trong bài đọc SGK tr. 130, historic được giải nghĩa là connected with the past (gắn liền với dấu ấn lịch sử nổi tiếng), thường đi với địa danh hoặc công trình kiến trúc.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 130; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 131; SGK Tiếng Anh 7 Global Success, Unit 12 (Mục LOOKING BACK), tr. 132
+
+### hobby
+- **Tiếng Việt:** sở thích
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈhɒbi/ — An activity that someone does regularly for enjoyment during their free time.
+- **Giải thích (VI):** (danh từ) Hoạt động yêu thích được thực hiện thường xuyên để giải trí và thư giãn trong thời gian rảnh rỗi.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: từ khoá trung tâm của chủ đề sở thích (Hobbies), xuất hiện trong các cụm từ phân nhóm, bắt đầu và chia sẻ sở thích (favourite hobby; take up a hobby; share a hobby).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 8; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 9; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 14
+
 ### home robot
 - **Tiếng Việt:** người máy gia đình
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -3476,6 +4509,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm danh từ) Loại người máy phục vụ trong gia đình, chuyên làm các công việc nội trợ như nấu ăn, dọn nhà, giặt giũ, rửa bát và là quần áo.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 12 (Robots): dùng khi giới thiệu nhóm người máy hỗ trợ việc nhà tại triển lãm rô-bốt quốc tế (This is H8, a home robot; Home robots are useful for housework).
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 12, tr. 58, 59, 64
+
+### homeless
+- **Tiếng Việt:** vô gia cư; không có nhà ở
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈhəʊmləs/ — Having nowhere to live, or without a permanent home.
+- **Giải thích (VI):** (tính từ) Không có nhà cửa hoặc nơi cư trú ổn định để sinh sống (cũng dùng cho vật nuôi bị bỏ rơi không có chủ).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong chủ đề dịch vụ cộng đồng như 'donate books to homeless children', 'homeless dogs and cats' và cụm danh từ chỉ nhóm người 'the homeless'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 28, 29; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 31; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3 (Mục LOOKING BACK), tr. 36; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### homemaker
 - **Tiếng Việt:** người nội trợ
@@ -3492,6 +4533,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Từ có cách phát âm giống hệt một từ khác nhưng khác nhau về cách đánh vần (chính tả) và ý nghĩa.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 6 (Artificial Intelligence): thuật ngữ ngữ âm trọng tâm ở mục Pronunciation, minh hoạ qua các cặp từ như two/too, there/their, where/wear, board/bored, allowed/aloud.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6, tr. 76; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục II), tr. 78; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục II), tr. 78, 79
+
+### horror film
+- **Tiếng Việt:** phim kinh dị
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈhɒrə fɪlm/ — A type of film in which strange, terrifying, or supernatural things happen in order to frighten and thrill the audience.
+- **Giải thích (VI):** (cụm danh từ) Thể loại phim khai thác các tình tiết ma quái, kỳ bí và rùng rợn nhằm tạo cảm giác hồi hộp, sợ hãi mạnh cho khán giả.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 8 (Films): dùng khi thảo luận chọn phim đi xem ở rạp và phân loại thể loại điện ảnh (No, it's a horror film. — That's too scary for me).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 82; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 83; SGK Tiếng Anh 7 Global Success, Unit 8 (Mục LOOKING BACK), tr. 90; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
+### horse riding
+- **Tiếng Việt:** môn cưỡi ngựa; cưỡi ngựa
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈhɔːs raɪdɪŋ/ — The sport or leisure activity of sitting on a horse and controlling its movements.
+- **Giải thích (VI):** (danh từ) Môn thể thao hoặc hoạt động giải trí ngồi trên lưng ngựa và điều khiển ngựa di chuyển.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) để giới thiệu một bộ môn giải trí khá mới lạ ở các câu lạc bộ (like horse riding; horse riding clubs).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 8; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 9; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### host
 - **Tiếng Việt:** chủ nhà
@@ -3547,6 +4604,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 4: dùng trong chủ đề đô thị hóa khi đề cập tình trạng thiếu nhà ở giá phải chăng tại các thành phố lớn (a shortage of affordable housing).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục II), tr. 50; SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục II), tr. 50, 51; SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục II), tr. 51
 
+### How much
+- **Tiếng Việt:** bao nhiêu (hỏi lượng và giá tiền)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (phr) /haʊ mʌtʃ/ — A question phrase used before uncountable nouns to ask about quantity (contrasted with How many /haʊ ˈmeni/ before plural countable nouns) or with the verb be to ask about price.
+- **Giải thích (VI):** (cấu trúc ngữ pháp) Cụm từ để hỏi đứng trước danh từ không đếm được nhằm hỏi khối lượng/lượng (đối lập với How many đi với danh từ đếm được số nhiều) hoặc đi với động từ to be để hỏi giá tiền.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 5: chủ điểm ngữ pháp và giao tiếp trọng tâm dùng khi hỏi số lượng nguyên liệu và hỏi giá thực phẩm (How much water, How many spring rolls, How much is a bottle of mineral water?).
+  - *Lưu ý:* Trong SGK Tiếng Anh 7 Unit 5 (tr. 54–55), How much được đối chiếu trực tiếp với How many khi hỏi số lượng (How many + danh từ đếm được số nhiều; How much + danh từ không đếm được) và dùng trong mẫu câu hỏi giá How much is/are...?.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 54
+
+### however
+- **Tiếng Việt:** tuy nhiên (trạng từ)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adv) /haʊˈevə/ — A conjunctive adverb used to introduce a statement that contrasts with a previous sentence, normally followed by a comma.
+- **Giải thích (VI):** (trạng từ) Trạng từ liên kết dùng để thể hiện sự đối lập ý nghĩa giữa hai câu độc lập, thường đứng đầu câu thứ hai và có dấu phẩy theo sau.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 8 (Films): chủ điểm ngữ pháp trọng tâm dùng để đối chiếu hai ý tương phản tách thành hai câu riêng biệt khi bình luận phim ảnh (Sentence 1. However, sentence 2.).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 82, 85, 86, 90, 91
+
 ### human
 - **Tiếng Việt:** con người; thuộc về con người
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -3570,6 +4645,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (động từ) Rượt đuổi, săn bắt hoặc giết hại động vật hoang dã để lấy thức ăn, tiêu khiển hoặc thu lợi bất chính.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 10 (Ecotourism): dùng để chỉ hành vi săn bắt động vật hoang dã bị nghiêm cấm trong du lịch sinh thái (should not hunt wild animals, illegal hunting of endangered animals).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 10 (Mục III), tr. 114; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục IV), tr. 114; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục IV), tr. 114, 115
+
+### hydro
+- **Tiếng Việt:** liên quan đến nước; thuỷ năng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈhaɪdrəʊ/ — Relating to water or using the force of flowing water to generate power.
+- **Giải thích (VI):** (tính từ) Liên quan đến nước hoặc khai thác sức chảy của dòng nước để sản xuất năng lượng.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) đứng trước danh từ để chỉ nguồn năng lượng tái tạo từ sức nước (hydro energy).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 106; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 109; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 110; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### hydro energy
+- **Tiếng Việt:** năng lượng nước; thủy năng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈhaɪdrəʊ ˈenədʒi/ — Power or electricity produced from the force of flowing or falling water.
+- **Giải thích (VI):** (cụm danh từ) Nguồn năng lượng tái tạo được tạo ra từ sức chảy của dòng nước qua các đập thủy điện.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10 (Energy sources): dùng trong chủ đề phân loại và nêu ưu điểm của các nguồn năng lượng (ví dụ: hydro energy comes from water; What are the advantages of hydro energy?).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 106; SGK Tiếng Anh 7 Global Success, Unit 10 (Mục COMMUNICATION), tr. 109; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 110
+
+### hyperloop
+- **Tiếng Việt:** hệ thống giao thông tốc độ cao (tàu ống siêu tốc)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈhaɪpəluːp/ — A proposed high-speed transportation system in which passenger pods travel through low-pressure tubes.
+- **Giải thích (VI):** (danh từ) Hệ thống giao thông siêu tốc gồm các khoang tàu di chuyển trong đường ống áp suất thấp, không khói thải và không bị kẹt xe.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng trong bài hội thoại mở đầu về các phương tiện tương lai (ví dụ: What's a hyperloop? — It's a system of tubes. You can go from one place to another in just minutes).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 114; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 116; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### ice melting
 - **Tiếng Việt:** sự tan băng
@@ -3683,6 +4782,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 3: dùng trong giao tiếp và viết báo cáo giải quyết vấn đề môi trường khi đưa ra dự đoán (Making predictions) về tác động trong ngắn hạn, trung hạn hoặc dài hạn.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục VI), tr. 40; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục VII), tr. 40; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục VII), tr. 40, 41
 
+### indoors
+- **Tiếng Việt:** ở trong nhà (trạng từ)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adv) /ˌɪnˈdɔːz/ — Inside or into a building rather than out in the open air.
+- **Giải thích (VI):** (trạng từ) Diễn ra ở bên trong nhà hoặc công trình có mái che, trái ngược với ở ngoài trời (outdoors).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng làm trạng từ chỉ nơi chốn bổ nghĩa cho động từ trong câu 'We can exercise indoors and outdoors.' (tr. 26).
+  - *Lưu ý:* Là trạng từ đứng sau động từ (có chữ '-s' ở cuối); phân biệt với tính từ 'indoor' đứng trước danh từ (ví dụ: indoor activities).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 26; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### informed
 - **Tiếng Việt:** có hiểu biết; được cung cấp đầy đủ thông tin
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -3690,6 +4799,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (tính từ) Được cung cấp đầy đủ thông tin, am hiểu tình hình hoặc dựa trên cơ sở hiểu biết vững chắc.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 10 (Lifelong learning): dùng trong cụm 'stay informed about current events' (luôn nắm bắt tin tức thời sự) và 'make better, informed decisions' (đưa ra những quyết định đúng đắn, sáng suốt).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 10 (Mục I), tr. 129; SGK Tiếng Anh 12 Global Success, Unit 10 (Mục III), tr. 132; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 155
+
+### ingredient
+- **Tiếng Việt:** nguyên liệu; thành phần món ăn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ɪnˈɡriːdiənt/ — One of the foods or substances that are combined to make a particular dish.
+- **Giải thích (VI):** (danh từ) Một trong những loại thực phẩm hoặc gia vị được kết hợp với nhau để chế biến thành một món ăn cụ thể.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi hỏi đáp về thành phần trong công thức nấu ăn và nguyên liệu chính của món phở (main ingredients).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 54; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 56
+
+### insect
+- **Tiếng Việt:** côn trùng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈɪnsekt/ — A small creature with six legs and typically one or two pairs of wings, such as an ant, bee, or butterfly.
+- **Giải thích (VI):** (danh từ) Loài động vật nhỏ không xương sống thường có sáu chân và cánh như kiến, ong hoặc bướm.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) ở bài đọc nói về việc trẻ em tìm hiểu thế giới côn trùng khi làm vườn (learn about insects and bugs).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 14; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### install
 - **Tiếng Việt:** cài đặt (phần mềm; chương trình)
@@ -3817,13 +4942,29 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 5 (Natural wonders of Viet Nam): dùng để giới thiệu các hòn đảo ở Vịnh Hạ Long và Việt Nam ("This picture shows Tuan Chau, a large island.", "Ha Long Bay has thousands of big and small islands.").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 48; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 48, 49; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 49
 
-### issue
+### island country
+- **Tiếng Việt:** đảo quốc
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈaɪlənd ˈkʌntri/ — An independent nation whose territory consists entirely of one or more islands surrounded by sea.
+- **Giải thích (VI):** (cụm danh từ) Quốc gia độc lập có toàn bộ lãnh thổ được hình thành từ một hoặc nhiều hòn đảo bao quanh bởi biển và đại dương.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng với mạo từ an (do island bắt đầu bằng nguyên âm /aɪ/) khi giới thiệu về New Zealand, Vương quốc Anh hoặc Singapore (ví dụ: New Zealand is an island country in the Pacific Ocean).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 130; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### issue (English)
 - **Tiếng Việt:** vấn đề (danh từ)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈɪʃuː/ — An important topic or problem that people are discussing or dealing with.
 - **Giải thích (VI):** (danh từ) Chủ đề hoặc vấn đề quan trọng đang được cộng đồng quan tâm, thảo luận và tìm hướng giải quyết.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 2: dùng phổ biến ở dạng số nhiều trong các cụm environmental issues (các vấn đề môi trường) và green issues (các vấn đề sống xanh).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2, tr. 18; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục I), tr. 18; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục I), tr. 18, 19
+
+### It indicating distance
+- **Tiếng Việt:** cấu trúc It chỉ khoảng cách
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (grammar) /ɪt ˈɪndɪkeɪtɪŋ ˈdɪstəns/ — A grammatical structure using dummy subject It with the verb be (It is + distance + from A to B) to state or ask about the distance between two places.
+- **Giải thích (VI):** (chủ điểm ngữ pháp) Cấu trúc dùng đại từ giả It làm chủ ngữ đứng đầu câu theo mẫu 'It is (about) + khoảng cách + from A to B' (câu hỏi 'How far is it from A to B?') để diễn đạt quãng đường giữa hai địa điểm.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong phần A Closer Look 2 để hỏi và trả lời khoảng cách từ nhà tới trường, bến xe hoặc địa danh (It is about 300 metres from my house to the bus stop).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 72; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 75; SGK Tiếng Anh 7 Global Success, Unit 7 (Mục LOOKING BACK), tr. 80
 
 ### item
 - **Tiếng Việt:** đồ vật; món đồ
@@ -3841,6 +4982,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 6 (Gender equality): dùng trong phần Getting Started bàn về quyền tiếp cận việc làm công bằng cho cả hai giới (given the same job opportunities, equal job opportunities).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6, tr. 66; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục I), tr. 66; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục I), tr. 66, 67
 
+### jogging
+- **Tiếng Việt:** đi bộ nhanh; chạy bộ thư giãn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈdʒɒɡɪŋ/ — The physical exercise of running at a slow, steady pace to keep fit and relax.
+- **Giải thích (VI):** (danh từ) Hoạt động chạy bộ chậm, đều sức ngoài trời nhằm rèn luyện thể lực và thư giãn.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) ở sơ đồ mạng từ kết hợp cố định với động từ 'go' chỉ hoạt động rèn luyện thân thể (go jogging).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 10; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 11; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### join in
 - **Tiếng Việt:** tham gia
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -3856,6 +5005,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Người chấm điểm, đưa ra nhận xét chuyên môn và quyết định kết quả trong một cuộc thi.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 3: dùng trong chủ đề cuộc thi tìm kiếm tài năng âm nhạc, xuất hiện trong các cụm 'invited to be a judge in a popular TV talent show', 'receive the judges' opinions'.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục II, III), tr. 30, 31, 32; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125
+
+### juice
+- **Tiếng Việt:** nước ép (trái cây; rau củ)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /dʒuːs/ — The liquid that comes from fruit or vegetables, often drunk as a beverage.
+- **Giải thích (VI):** (danh từ) Chất lỏng ép ra từ các loại trái cây hoặc rau củ, thường dùng làm thức uống giải khát.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi gọi đồ uống hoặc diễn đạt định lượng thức uống (orange juice, winter melon juice).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50, 51; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 51
+
+### kangaroo
+- **Tiếng Việt:** chuột túi
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˌkæŋɡəˈruː/ — A large Australian mammal with strong back legs for jumping, a long thick tail, and a pouch in which the female carries its young.
+- **Giải thích (VI):** (danh từ) Loài thú có túi cỡ lớn đặc hữu của nước Úc, di chuyển bằng cách bật nhảy trên đôi chân sau khoẻ mạnh và nuôi con non trong túi trước bụng.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng khi nói về loài vật biểu tượng của nước Úc như 'Kangaroos are native to Australia.' (tr. 126, 129).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 129
 
 ### karate
 - **Tiếng Việt:** môn võ ka-ra-tê
@@ -3888,6 +5053,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm động từ) Nắm bắt thông tin mới để theo kịp tốc độ phát triển hoặc cập nhật những trào lưu, xu hướng hiện hành.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 2 (A multicultural world): dùng trong bài đọc nói về việc con người dễ dàng cập nhật các xu hướng thời trang từ nhiều vùng văn hóa khác nhau (keep up with fashion trends from different cultures and regions).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 2 (Mục III), tr. 24, 25; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 148
+
+### kilt
+- **Tiếng Việt:** váy truyền thống của đàn ông Xcốt-len
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /kɪlt/ — A traditional knee-length pleated skirt made of tartan cloth, worn especially by Scottish men on formal or festival occasions.
+- **Giải thích (VI):** (danh từ) Trang phục váy xếp li dài đến đầu gối có họa tiết kẻ ca-rô truyền thống, được nam giới vùng Scotland mặc trong các dịp lễ hội.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng khi giới thiệu nét văn hóa truyền thống độc đáo của Scotland (ví dụ: Scottish men wear kilts, short skirts at their traditional festivals).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 128; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### kind
 - **Tiếng Việt:** tốt bụng
@@ -3928,8 +5101,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ləˈbɒrətəri/ — A special room or building equipped with scientific instruments where experiments, research, and tests are carried out.
 - **Giải thích (VI):** (danh từ) Phòng thí nghiệm được trang bị các dụng cụ chuyên môn để nhà khoa học tiến hành nghiên cứu, phân tích và thực nghiệm.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 5 (Inventions): dùng trong phần Vocabulary giới thiệu bối cảnh nghiên cứu khoa học và phát minh (Alexander Fleming was cleaning his laboratory when he discovered something at the window).
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục II), tr. 54; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 127
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ləˈbɒrətri/ — A room or building equipped for scientific experiments, research, or practical language learning. / VI: (danh từ) Phòng chức năng được trang bị dụng cụ và thiết bị chuyên dụng để làm thí nghiệm khoa học hoặc thực hành bộ môn (thường viết tắt là lab).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 5 (Inventions): dùng trong phần Vocabulary giới thiệu bối cảnh nghiên cứu khoa học và phát minh (Alexander Fleming was cleaning his laboratory when he discovered something at the window).
+  - Tiếng Anh lớp 7, Unit 6: dùng trong chủ đề cơ sở vật chất trường học khi giới thiệu các phòng thực hành hiện đại (modern science laboratories, English labs).
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục II), tr. 54; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 127; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6 (Mục COMMUNICATION), tr. 65; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### landfill
 - **Tiếng Việt:** bãi chôn lấp rác
@@ -3947,13 +5123,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 9 (Cities of the world): từ vựng trọng tâm xuyên suốt bài học như 'Big Ben ... It's a landmark of London.' và 'The Eiffel Tower is a famous landmark in Paris.'.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 26; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 26, 27; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 27
 
-### landscape
+### landscape (English)
 - **Tiếng Việt:** phong cảnh, cảnh quan
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈlændskeɪp/ — Everything you can see when you look across a large area of land, especially in the country.
 - **Giải thích (VI):** (danh từ) Cảnh quan, phong cảnh địa hình tự nhiên của một vùng đất nhìn bao quát trên diện rộng (danh từ đếm được).
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 5 (Natural wonders of Viet Nam): dùng trong bài đọc miêu tả cảnh sắc thiên nhiên Mũi Né ("Mui Ne is popular for its amazing landscapes.").
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 54; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈlændskeɪp/ — All the visible natural features of an area of countryside or land, such as mountains, forests, and rivers. / VI: (danh từ) Toàn bộ cảnh sắc thiên nhiên trải rộng trên mặt đất của một vùng miền như núi đồi, sông hồ và rừng cây.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 5 (Natural wonders of Viet Nam): dùng trong bài đọc miêu tả cảnh sắc thiên nhiên Mũi Né ("Mui Ne is popular for its amazing landscapes.").
+  - Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng phổ biến ở dạng số nhiều landscapes hoặc cụm natural landscapes để ca ngợi thiên nhiên Úc, Scotland và New Zealand (ví dụ: Australia has amazing landscapes).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Cảnh quan' trong Địa lí.
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 54; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 124; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 130; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### lane
+- **Tiếng Việt:** làn đường
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /leɪn/ — One of the strips into which a wide road is divided for single lines of traffic or specific types of vehicles.
+- **Giải thích (VI):** (danh từ) Phần đường được phân chia theo chiều đi hoặc dành riêng cho từng loại phương tiện lưu thông trên mặt đường.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong chủ đề an toàn đường bộ và luyện phát âm nguyên âm đôi /eɪ/ (Which lane should you use when riding a bike?, cycle lane).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 73; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 74; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 78; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### language barrier
 - **Tiếng Việt:** rào cản ngôn ngữ
@@ -3999,6 +5187,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Lớp' trong Tin học.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục V), tr. 38; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục V), tr. 38, 39; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục V), tr. 39
 
+### leading role
+- **Tiếng Việt:** vai chính
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈliːdɪŋ rəʊl/ — The most important character or part performed by an actor or actress in a film or play.
+- **Giải thích (VI):** (cụm danh từ) Vai diễn trung tâm, giữ vị trí quan trọng nhất dẫn dắt cốt truyện của một bộ phim hoặc vở kịch.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 8 (Films): dùng trong chủ đề diễn xuất điện ảnh với cụm từ cố định play a leading role in a film (đảm nhận vai chính trong một bộ phim).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 85, 86
+
 ### learning community
 - **Tiếng Việt:** cộng đồng học tập
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -4031,6 +5227,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 4: dùng trong chủ đề phát triển đô thị để chỉ các tiện ích và hoạt động vui chơi giải trí mới (leisure facilities, leisure activities).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4, tr. 48; SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục I), tr. 48; SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục I), tr. 48, 49
 
+### lemonade
+- **Tiếng Việt:** nước chanh
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˌleməˈneɪd/ — A sweet drink made from lemon juice, water, and sugar.
+- **Giải thích (VI):** (danh từ) Thức uống giải khát có vị chua ngọt được pha chế từ nước cốt chanh, nước lọc và đường.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi giới thiệu thực đơn đồ uống và luyện tập lượng từ (put a lot of sugar in her lemonade).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50, 51; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5 (Mục LOOKING BACK), tr. 58
+
 ### life-saving
 - **Tiếng Việt:** cứu nạn; cứu sinh
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -4048,6 +5252,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 10, Unit 2: dùng trong chủ đề bảo vệ môi trường với cụm adopt a green/greener/sustainable lifestyle (theo đuổi lối sống xanh và bền vững).
   - Tiếng Anh lớp 12, Unit 2 (A multicultural world): dùng trong chủ đề trân trọng các lối sống khác biệt và thích nghi với lối sống xa lạ khi ra nước ngoài (appreciate different cultures and lifestyles, unfamiliar lifestyles).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2, tr. 18; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục I), tr. 18; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục I), tr. 18, 19; SGK Tiếng Anh 12 Global Success, Unit 2 (Mục III), tr. 24, 25; SGK Tiếng Anh 12 Global Success, Unit 2 (Mục VII), tr. 29
+
+### light bulb
+- **Tiếng Việt:** bóng đèn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈlaɪt bʌlb/ — The glass or plastic part of an electric lamp that gives out light when electricity passes through it.
+- **Giải thích (VI):** (danh từ) Bộ phận phát sáng của đèn điện khi có dòng điện chạy qua, dùng để thắp sáng trong sinh hoạt.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) khi khuyên dùng bóng đèn tiết kiệm điện trong gia đình (use low energy light bulbs).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 109; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 111; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 112; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### limited
+- **Tiếng Việt:** bị hạn chế; có hạn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈlɪmɪtɪd/ — Small in amount or supply and likely to run out in the future.
+- **Giải thích (VI):** (tính từ) Bị giới hạn về số lượng hoặc trữ lượng và có nguy cơ cạn kiệt nếu tiếp tục khai thác nhiều.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) để cảnh báo trữ lượng hữu hạn, sắp cạn kiệt của nhiên liệu hoá thạch (very limited and will run out soon).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 110; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### lion dance
+- **Tiếng Việt:** múa lân
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈlaɪən dɑːns/ — A traditional Asian festive dance in which performers wear an ornate lion costume and mimic a lion's movements to drumbeats.
+- **Giải thích (VI):** (cụm danh từ) Tiết mục biểu diễn nghệ thuật dân gian sôi động theo tiếng trống, trong đó các vũ công hoá trang thành con lân để cầu may mắn dịp lễ, Tết.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong cụm từ perform lion dances, the performance of lion dances khi nói về hoạt động được mong chờ nhất vào dịp Tết Trung thu.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 94, 95, 100
+
+### lip balm
+- **Tiếng Việt:** kem bôi môi; sáp dưỡng môi
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈlɪp bɑːm/ — A wax-like ointment or cream applied to the lips to moisturize them and heal or prevent dryness and chapping.
+- **Giải thích (VI):** (danh từ) Loại kem hoặc sáp mềm dùng để thoa lên môi nhằm giữ ẩm và làm dịu, phòng chống môi khô nứt nẻ.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng trong chủ đề chăm sóc cơ thể mùa lạnh như cụm 'lip balm' nối với tranh minh hoạ và câu 'If you have chapped lips, use lip balm.' (tr. 20, 38).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 20; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### litter
 - **Tiếng Việt:** rác thải (nơi công cộng; vứt rác bừa bãi (động từ); rác xả bừa bãi; danh từ)
@@ -4089,12 +5325,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 2, tr. 16, 17, 18, 19
 
 ### local
-- **Tiếng Việt:** tại địa phương, bản địa
+- **Tiếng Việt:** tại địa phương, bản địa (thuộc về địa phương, bản địa)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (adj) /ˈləʊkəl/ — Connected with or belonging to the particular place or area that you are living in or visiting.
 - **Giải thích (VI):** (tính từ) Tại địa phương, thuộc về hoặc gắn liền với cộng đồng và vùng đất cụ thể nơi con người sinh sống hay đến tham quan.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 10 (Ecotourism): tính từ xuất hiện xuyên suốt bài học đi kèm các danh từ chỉ người dân, văn hóa, dịch vụ và sản vật bản địa (local people, local culture, local businesses, local products).
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 10, tr. 110; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục II), tr. 112; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục III), tr. 114
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (adj) /ˈləʊkl/ — Belonging to or connected with the particular area or neighbourhood that you are visiting or talking about. / VI: (tính từ) Thuộc về hoặc gắn liền với chính vùng đất, khu vực cụ thể đang được nhắc tới hay ghé thăm.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 10 (Ecotourism): tính từ xuất hiện xuyên suốt bài học đi kèm các danh từ chỉ người dân, văn hóa, dịch vụ và sản vật bản địa (local people, local culture, local businesses, local products).
+  - Tiếng Anh lớp 7, Unit 12 (English-speaking countries): thường đi kèm danh từ people tạo thành cụm local people (người dân địa phương) khi kể về trải nghiệm du lịch (ví dụ: When you visit a new place, talk to the local people).
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 10, tr. 110; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục II), tr. 112; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục III), tr. 114; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 124; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 126; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### location
 - **Tiếng Việt:** vị trí, địa điểm (địa điểm, vị trí)
@@ -4176,8 +5415,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (np) /ˌləʊə ˈsekəndri skuːl/ — A school for students between primary school and upper secondary school, typically for ages 11 to 15.
 - **Giải thích (VI):** (cụm danh từ) Cấp trường giáo dục phổ thông nối tiếp sau bậc tiểu học, dành cho học sinh từ lớp 6 đến lớp 9 tại Việt Nam.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 1 (My new school): dùng trong bài đọc giới thiệu trường THCS An Sơn ('An Son is a lower secondary school in Bac Giang. It has only 8 classes').
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 1, tr. 12
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (np) /ˈləʊə ˈsekəndri skuːl/ — A school for students aged approximately 11 to 15, between primary school and upper secondary school. / VI: (cụm danh từ) Cấp trường giáo dục phổ thông dành cho học sinh từ lớp 6 đến lớp 9 (độ tuổi khoảng 11–15), nằm giữa bậc tiểu học và trung học phổ thông.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 1 (My new school): dùng trong bài đọc giới thiệu trường THCS An Sơn ('An Son is a lower secondary school in Bac Giang. It has only 8 classes').
+  - Tiếng Anh lớp 7, Unit 6: dùng xuyên suốt bài học khi nói về chuyến thăm các trường trung học cơ sở tại Việt Nam (Binh Minh Lower Secondary School, Chu Van An Lower Secondary School).
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 1, tr. 12; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 60; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 60, 61; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 62
 
 ### luck
 - **Tiếng Việt:** sự may mắn, vận may
@@ -4194,6 +5436,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm danh từ) Cụm danh từ không đếm được chỉ khoản tiền mừng tuổi đựng trong phong bao đỏ mà người lớn trao tặng trẻ em dịp đầu xuân để chúc may mắn.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 6 (Our Tet Holiday): dùng với các động từ get, give, ask for khi nói về phong tục mừng tuổi ngày Tết ("children get lucky money", "puts lucky money into red envelopes").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 58, 59; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 60; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 64
+
+### lunch box
+- **Tiếng Việt:** hộp cơm trưa
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈlʌntʃ bɒks/ — A small portable container used for carrying a packed midday meal to school, work, or an outing.
+- **Giải thích (VI):** (danh từ) Chiếc hộp nhỏ gọn dùng để đựng bữa ăn trưa chuẩn bị sẵn từ nhà mang theo khi đi học, đi làm hoặc đi dã ngoại.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng trong hội thoại kể về buổi đạp xe dã ngoại của gia đình 'We also bring fruit, water, and a lunch box with us.' (tr. 18, 19).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 18; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 19
 
 ### maintain
 - **Tiếng Việt:** duy trì, giữ vững
@@ -4226,6 +5476,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm động từ) Chế biến và nấu nướng thức ăn cho các bữa ăn hằng ngày trong gia đình.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 12 (Robots): dùng làm cụm từ cố định kết hợp động từ make với meals khi nói về khả năng nấu ăn của người máy gia đình (Home robots can make meals for us).
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 12, tr. 58, 59; SGK Tiếng Anh 6 Global Success Tập 2, Review 4, tr. 68
+
+### making models
+- **Tiếng Việt:** làm mô hình
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈmeɪkɪŋ ˈmɒdlz/ — The hobby of assembling or crafting small scale copies of vehicles, aircraft, or buildings.
+- **Giải thích (VI):** (cụm danh từ) Sở thích lắp ráp, chế tạo các bản sao thu nhỏ của máy bay, ô tô, tàu thuỷ hoặc công trình kiến trúc.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) thuộc nhóm tự tay chế tạo đồ vật như lắp ráp ô tô, máy bay thu nhỏ (making models of small cars and planes).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 9; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 10; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 14; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### mammal (English)
 - **Tiếng Việt:** động vật có vú; thú
@@ -4324,6 +5582,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Vật liệu' trong Hóa học.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục III), tr. 22; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục IV), tr. 23; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục VIII), tr. 26
 
+### maturity
+- **Tiếng Việt:** sự trưởng thành
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /məˈtʃʊərəti/ — The state of being fully grown or completely developed.
+- **Giải thích (VI):** (danh từ) Giai đoạn hoặc trạng thái phát triển hoàn chỉnh của cây cối, sinh vật hay con người.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) ở bài đọc về làm vườn khi trẻ học cách kiên nhẫn chờ cây lớn đến độ trưởng thành (grow to maturity).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 14; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### means of transport
+- **Tiếng Việt:** phương tiện giao thông
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˌmiːnz əv ˈtrænspɔːt/ — A particular type of vehicle or method of travelling from one place to another, such as by bus, bike, car, or plane.
+- **Giải thích (VI):** (cụm danh từ) Loại hình phương tiện hoặc cách thức di chuyển từ nơi này sang nơi khác (như xe đạp, xe máy, ô tô, tàu thuyền, máy bay); danh từ means giữ nguyên đuôi -s ở cả số ít lẫn số nhiều.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng làm chủ điểm từ vựng và phần Everyday English hỏi đáp về cách đi lại hằng ngày (How does your mum get to work? — She goes by motorbike).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 72; SGK Tiếng Anh 7 Global Success, Unit 7 (Mục COMMUNICATION), tr. 76
+
 ### meanwhile
 - **Tiếng Việt:** trong khi đó
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -4356,6 +5630,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 9 (Cities of the world): miêu tả ở phần City landmarks ('It has the head of a lion and the body of a fish. It's a famous landmark in Singapore.').
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9 (Mục COMMUNICATION), tr. 31
 
+### Mid-Autumn Festival
+- **Tiếng Việt:** Tết Trung thu
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈmɪd ɔːtəm ˈfestɪvl/ — A traditional East and Southeast Asian harvest festival celebrated on the middle day of the eighth lunar month with lanterns, lion dances, and moon cakes.
+- **Giải thích (VI):** (cụm danh từ) Lễ hội truyền thống vào rằm tháng Tám âm lịch ở Việt Nam và một số nước châu Á, gắn với rước đèn lồng, múa lân và thưởng thức bánh trung thu.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng xuyên suốt bài học khi hỏi đáp về phong tục đón Tết Trung thu (celebrate the Mid-Autumn Festival).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 93, 94, 95, 96, 97, 100; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
+### midterm
+- **Tiếng Việt:** giữa học kì
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˌmɪdˈtɜːm/ — Happening or taken in the middle of an academic term or semester.
+- **Giải thích (VI):** (tính từ) Diễn ra vào giai đoạn giữa của một học kì trong năm học, thường dùng để chỉ các bài kiểm tra định kì.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 6: dùng trong chủ đề hoạt động học tập ở trường khi nói về bài kiểm tra giữa kì (midterm test).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 62; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### Might for future possibility
 - **Tiếng Việt:** động từ khuyết thiếu 'might' chỉ khả năng ở tương lai
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -4372,6 +5662,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 1 (Life stories we admire): dùng làm định ngữ trong cụm 'a military genius' (một thiên tài quân sự) khi giới thiệu về Đại tướng Võ Nguyên Giáp.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 1 (Mục IV), tr. 13, 14; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 147
 
+### mineral water (English)
+- **Tiếng Việt:** nước khoáng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈmɪnərəl wɔːtə/ — Water from a natural spring that contains dissolved minerals and is often sold in bottles.
+- **Giải thích (VI):** (danh từ) Nước lấy từ nguồn suối tự nhiên có chứa các khoáng chất hòa tan, thường được đóng chai để uống.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi gọi đồ uống và hỏi giá tiền (a bottle of mineral water).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Nước khoáng' trong Địa lí.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50, 51; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 51
+
 ### mochi rice cake
 - **Tiếng Việt:** bánh gạo mochi
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -4379,6 +5679,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm danh từ) Loại bánh dày truyền thống của Nhật Bản làm từ gạo nếp giã nhuyễn, thường được thưởng thức vào dịp đầu năm mới để cầu may mắn.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 6 (Our Tet Holiday): dùng khi giới thiệu phong tục đón năm mới của người Nhật Bản ("They eat mochi rice cakes").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6 (Mục COMMUNICATION), tr. 63; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71
+
+### mode of travel
+- **Tiếng Việt:** phương thức đi lại
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /məʊd əv ˈtrævl/ — A particular way or method of getting from one place to another, such as by road, air, rail, or sea.
+- **Giải thích (VI):** (cụm danh từ) Cách thức hoặc loại hình phương tiện con người sử dụng để di chuyển từ nơi này đến nơi khác (số nhiều: modes of travel).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng tương đương với means of transport khi thảo luận về giao thông tương lai (ví dụ: A teleporter is also fast, safe and eco-friendly. But it's a different mode of travel).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 114; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 115; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### modern
 - **Tiếng Việt:** hiện đại
@@ -4414,6 +5722,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong bài học này, 'monitor' là ngoại động từ (giám sát, theo dõi), cần phân biệt với danh từ 'monitor' (màn hình máy tính hoặc lớp trưởng).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục I), tr. 101; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục III), tr. 104; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục III), tr. 105
 
+### monthly
+- **Tiếng Việt:** hằng tháng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adv) /ˈmʌnθli/ — Happening or done once every month.
+- **Giải thích (VI):** (trạng từ) Diễn ra đều đặn theo định kì mỗi tháng một lần.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong bài đọc về dự án Visit-to-Read tại trường học với câu 'Students visit a nursing home monthly and read books to the elderly'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 34
+
+### moon cakes
+- **Tiếng Việt:** bánh trung thu
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈmuːn keɪks/ — Round, rich pastries with sweet or savoury fillings traditionally eaten and given as gifts during the Mid-Autumn Festival.
+- **Giải thích (VI):** (cụm danh từ) Loại bánh truyền thống có nhân ngọt hoặc thập cẩm được thưởng thức và biếu tặng vào dịp Tết Trung thu, tượng trưng cho sự viên mãn và đoàn viên.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong các mẫu câu hỏi đáp và bài tập từ vựng về ẩm thực, biểu tượng Tết Trung thu (eat moon cakes at the festival).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 93, 94, 95, 96, 97, 100
+
 ### moon-shaped lute
 - **Tiếng Việt:** đàn nguyệt
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -4438,6 +5762,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 5 (Natural wonders of Viet Nam): dùng trong mục Communication khi giới thiệu dãy núi Himalaya ("The Himalayas is a mountain range.").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5 (Mục COMMUNICATION), tr. 53; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71
 
+### mountainous
+- **Tiếng Việt:** thuộc vùng núi; có nhiều núi
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈmaʊntənəs/ — Having many mountains.
+- **Giải thích (VI):** (tính từ) Có địa hình nhiều đồi núi hoặc thuộc về khu vực miền núi.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong chủ đề quyên góp sách vở và quần áo ấm cho trẻ em vùng cao với cụm 'in the mountainous areas' (ở các khu vực miền núi).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 32; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3 (Mục COMMUNICATION), tr. 32, 33; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### move heavy things
 - **Tiếng Việt:** di chuyển vật nặng
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -4445,6 +5777,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm động từ) Nâng, khiêng vác và vận chuyển các đồ đạc, kiện hàng có khối lượng lớn từ vị trí này sang vị trí khác.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 12 (Robots): dùng để mô tả sức mạnh vượt trội của người máy công nhân (It can move heavy things or repair broken machines).
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 12, tr. 58, 59, 64
+
+### moving
+- **Tiếng Việt:** cảm động, xúc động
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈmuːvɪŋ/ — Causing strong feelings of sadness or sympathy.
+- **Giải thích (VI):** (tính từ) Giàu cảm xúc nhân văn, làm lay động lòng người và thường khiến khán giả rơi nước mắt.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 8 (Films): dùng để miêu tả những bộ phim hoặc cảnh quay giàu cảm xúc (Moving films often make us cry).
+  - *Lưu ý:* Phân biệt tính từ moving ('cảm động') với phân từ hiện tại của động từ move ('đang chuyển động', như trong a moving vehicle) và tính từ moved ('cảm thấy xúc động').
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 83; SGK Tiếng Anh 7 Global Success, Unit 8 (Mục LOOKING BACK), tr. 90; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### multicultural
 - **Tiếng Việt:** đa văn hóa
@@ -4467,8 +5809,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˌmjuːzɪkl ˈɪnstrəmənt/ — An object or device such as a piano, guitar, or drum that is played to produce musical sounds.
 - **Giải thích (VI):** (danh từ) Dụng cụ chuyên dùng để tạo ra âm thanh có giai điệu và tiết tấu trong biểu diễn âm nhạc như đàn dương cầm, ghi-ta, trống.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 3: dùng xuyên suốt chủ đề âm nhạc, thường kết hợp với động từ 'play' trong cụm 'play musical instruments' hoặc liệt kê các nhạc cụ dân tộc.
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục I, VII), tr. 28, 29, 35; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˌmjuːzɪkl ˈɪnstrəmənt/ — An object such as a piano, guitar, or violin that is played to produce musical sounds. / VI: (danh từ) Dụng cụ dùng để tạo ra âm thanh âm nhạc khi biểu diễn như đàn dương cầm, đàn ghi-ta hay đàn vĩ cầm.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 3: dùng xuyên suốt chủ đề âm nhạc, thường kết hợp với động từ 'play' trong cụm 'play musical instruments' hoặc liệt kê các nhạc cụ dân tộc.
+  - Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng để nói về năng khiếu chơi nhạc cụ trong câu 'My friend David is very talented. He plays three musical instruments'.
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục I, VII), tr. 28, 29, 35; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 41; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
+### musician
+- **Tiếng Việt:** nhạc công; nhạc sĩ biểu diễn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /mjuˈzɪʃn/ — A person who plays a musical instrument or writes music, especially as a profession.
+- **Giải thích (VI):** (danh từ) Nhạc công hoặc nghệ sĩ biểu diễn nhạc cụ, hoạt động âm nhạc chuyên nghiệp.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): thuộc nhóm từ chỉ người làm nghệ thuật (People) và là từ mẫu luyện phát âm phụ âm /ʃ/ trong câu 'listen to the musicians performing yesterday'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 41; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 42
 
 ### must and mustn't
 - **Tiếng Việt:** phải; không được phép (động từ khuyết thiếu)
@@ -4478,6 +5831,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 5 (Natural Wonders of Viet Nam): chủ điểm ngữ pháp nêu quy định và điều cần thiết khi đi du lịch khám phá thiên nhiên ("We must arrive on time", "You mustn't litter").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 48; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 57
 
+### must-see
+- **Tiếng Việt:** bộ phim hấp dẫn, cần xem
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /mʌst ˈsiː/ — A film, show, or place that is so good or exciting that people definitely should go and see it.
+- **Giải thích (VI):** (danh từ) Một tác phẩm điện ảnh hoặc buổi biểu diễn xuất sắc, hấp dẫn tới mức được khuyên là nhất định phải xem (thường đi với mạo từ a: a must-see).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 8 (Films): dùng trong bài đọc bình luận phim Skills 1 để giới thiệu phim hay cho lứa tuổi thanh thiếu niên (People say it's a must-see for teens).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 87; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 88; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### narrow
 - **Tiếng Việt:** hẹp, chật hẹp
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -4485,6 +5846,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (tính từ) Có bề ngang nhỏ hẹp, chật hẹp (thường dùng để miêu tả đường phố, ngõ hẻm; trái nghĩa với "wide").
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 4 (My neighbourhood): dùng trong chủ đề miêu tả đặc điểm đường sá khu dân cư ("The streets are narrow.").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 45; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71
+
+### native
+- **Tiếng Việt:** bản địa, nguyên gốc (của một vùng đất)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈneɪtɪv/ — Originating naturally in a particular place, or belonging to the original inhabitants of a country.
+- **Giải thích (VI):** (tính từ) Có nguồn gốc tự nhiên, đặc hữu tại một vùng đất (động thực vật) hoặc thuộc về những cư dân sinh sống lâu đời nhất của một quốc gia.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng trong cấu trúc be native to + địa danh hoặc cụm the native people of + tên nước (ví dụ: Kangaroos are native to Australia; The Maori are the native people of this country).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 130; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### natural gas (English)
+- **Tiếng Việt:** khí tự nhiên
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˌnætʃrəl ˈɡæs/ — Flammable gas occurring naturally underground, extracted and used as fuel for cooking, heating, and generating electricity.
+- **Giải thích (VI):** (cụm danh từ) Loại khí dễ cháy tích tụ tự nhiên trong lòng đất, được khai thác làm nhiên liệu đun nấu, sưởi ấm và sản xuất điện.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) để chỉ loại nhiên liệu khí đốt hoá thạch không thể tái tạo (non-renewable sources are coal, oil, and natural gas).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Khí thiên nhiên' trong Hóa học.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 104; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 105; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 110
 
 ### natural resources (English)
 - **Tiếng Việt:** tài nguyên thiên nhiên
@@ -4512,6 +5891,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 4 (My neighbourhood): từ khoá chủ điểm xuyên suốt toàn bài để giới thiệu và miêu tả nơi ở ("There are many things I like about my neighbourhood.").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 38; SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 40; SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 41
 
+### Netherlands
+- **Tiếng Việt:** nước Hà Lan
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈneðələndz/ — A country in north-western Europe, famous for its tulips and windmills, always used with the definite article 'the'.
+- **Giải thích (VI):** (danh từ) Quốc gia ở khu vực Tây Bắc châu Âu nổi tiếng với hoa tulip và cối xay gió (trong câu luôn đi kèm mạo từ xác định the: the Netherlands).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong bài hội thoại giới thiệu nguồn gốc Lễ hội hoa Tulip tại Hà Lan (went to the Tulip Festival in the Netherlands).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 92, 93; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### New Year's Eve
 - **Tiếng Việt:** đêm Giao thừa
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -4519,6 +5906,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm danh từ) Ngày và đêm cuối cùng khép lại năm cũ ngay trước ngày mùng Một đầu năm mới, thường đi kèm giới từ "on" ("on New Year's Eve").
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 6 (Our Tet Holiday): dùng khi miêu tả các hoạt động đón thời khắc chuyển giao năm mới ("watch the New Year's Eve Ball drop", "watch fireworks on New Year's Eve").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6 (Mục COMMUNICATION), tr. 63; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 64
+
+### New Zealand
+- **Tiếng Việt:** nước Niu Di-lân
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˌnjuː ˈziːlənd/ — An English-speaking island country in the southwestern Pacific Ocean consisting mainly of the North Island and the South Island, with Wellington as its capital.
+- **Giải thích (VI):** (danh từ) Đảo quốc nói tiếng Anh nằm ở Tây Nam Thái Bình Dương gồm hai đảo chính là Đảo Bắc và Đảo Nam, có thủ đô Wellington và nền văn hóa Maori đặc sắc.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): chủ đề trọng tâm của bài đọc Skills 1 giới thiệu thiên nhiên và văn hóa Niu Di-lân (ví dụ: New Zealand is an island country in the Pacific Ocean).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 125; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 127; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 130; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### next to
 - **Tiếng Việt:** bên cạnh
@@ -4560,6 +5955,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 4 (For a better community): dùng kèm danh từ organisation khi giới thiệu các tổ chức từ thiện, nhân đạo quốc tế như Save the Children (an international non-governmental organisation).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục II), tr. 44; SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục VII), tr. 49, 50; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126
 
+### non-renewable
+- **Tiếng Việt:** không thể tái tạo
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˌnɒn rɪˈnjuːəbl/ — (Of natural resources or fuels) existing in finite amounts that cannot be easily replaced once used up.
+- **Giải thích (VI):** (tính từ) (Chỉ tài nguyên hoặc nguồn năng lượng) có trữ lượng hữu hạn, không thể tự tái tạo hay bổ sung kịp thời sau khi khai thác hết.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) để gọi tên nhóm nhiên liệu hoá thạch như than đá, dầu mỏ và khí tự nhiên (non-renewable sources).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 104; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 110; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### noodles
+- **Tiếng Việt:** mì; mì sợi; bánh phở; bún
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈnuːdlz/ — Long, thin strips of food made from flour or rice, water, and sometimes eggs, cooked in boiling liquid.
+- **Giải thích (VI):** (danh từ) Thực phẩm dạng sợi dài và mỏng làm từ bột mì hoặc bột gạo, được luộc chín và dùng trong các món nước hoặc món xào.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi miêu tả nguyên liệu làm món phở truyền thống Việt Nam (rice noodles, beef noodle soup).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 56; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
+### nuclear
+- **Tiếng Việt:** thuộc về hạt nhân
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈnjuːkliə/ — Relating to or using the energy released from the central parts of atoms.
+- **Giải thích (VI):** (tính từ) Thuộc về hạt nhân nguyên tử hoặc sử dụng năng lượng sinh ra từ các phản ứng hạt nhân.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) khi bàn về tính đắt đỏ, mức độ nguy hiểm và xu hướng giảm dùng năng lượng hạt nhân (nuclear energy).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 106; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 107; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### nuclear energy
+- **Tiếng Việt:** năng lượng hạt nhân; điện hạt nhân
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˌnjuːkliə ˈenədʒi/ — Energy released by reactions within atomic nuclei and used to generate electricity.
+- **Giải thích (VI):** (cụm danh từ) Nguồn năng lượng được tạo ra từ các phản ứng hạt nhân để sản xuất điện, có công suất lớn nhưng chi phí cao và tiềm ẩn rủi ro mất an toàn.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10 (Energy sources): dùng trong chủ đề các nguồn năng lượng và trọng âm từ ba âm tiết (ví dụ: Nuclear energy is dangerous and expensive).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 106; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 107
+
 ### nursery
 - **Tiếng Việt:** vườn ươm
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -4569,6 +5996,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 12, Unit 8: dùng trong chủ đề phục hồi rạn san hô tại Nha Trang, đặc biệt trong cụm 'underwater nurseries' (các vườn ươm san hô dưới nước).
   - *Lưu ý:* Trong ngữ cảnh sinh thái học của bài đọc, 'nursery' chỉ vườn ươm cây non hoặc san hô, không mang nghĩa nhà trẻ dành cho trẻ nhỏ.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục III), tr. 104; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục III), tr. 104, 105; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục III), tr. 105
+
+### nursing
+- **Tiếng Việt:** sự chăm sóc; nghề điều dưỡng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈnɜːsɪŋ/ — The job or skill of caring for people who are sick, injured, or old.
+- **Giải thích (VI):** (danh từ) Công việc hoặc chuyên môn điều dưỡng, chăm sóc sức khỏe cho người bệnh hoặc người cao tuổi.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): xuất hiện làm thành tố cấu tạo trong cụm danh từ 'nursing home' (viện dưỡng lão) thuộc chủ đề chăm sóc người cao tuổi trong cộng đồng.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 28; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### nursing home
+- **Tiếng Việt:** viện dưỡng lão
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈnɜːsɪŋ həʊm/ — A place where elderly people or people who are chronically ill live and are cared for.
+- **Giải thích (VI):** (danh từ) Cơ sở lưu trú và chăm sóc sức khỏe, sinh hoạt hằng ngày dành cho người cao tuổi hoặc người già yếu.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong chủ đề hoạt động tình nguyện giúp đỡ người cao tuổi như 'donate the vegetables to a nursing home', 'sing and dance with the elderly in a nursing home'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 28, 29; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 31, 32; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3 (Mục COMMUNICATION), tr. 33; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### obey traffic rules
+- **Tiếng Việt:** tuân theo luật giao thông
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (vp) /əˈbeɪ ˈtræfɪk ruːlz/ — To follow official road laws and safety regulations when using a road.
+- **Giải thích (VI):** (cụm động từ) Chấp hành đúng các quy định, hiệu lệnh và quy tắc an toàn khi tham gia giao thông trên đường bộ.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng xuyên suốt bài học khi nói về ý thức tham gia giao thông an toàn (We must obey traffic rules for our safety).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 72; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 74; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 78; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 79; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### obsolete
 - **Tiếng Việt:** lỗi thời; không còn được sử dụng
@@ -4602,6 +6053,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 6 (Gender equality): dùng trong bài nghe về sự nghiệp của nữ phi hành gia Valentina Tereshkova (became an Air Force officer).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục IV), tr. 71; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục V), tr. 71; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 128
 
+### oil (English)
+- **Tiếng Việt:** dầu mỏ
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ɔɪl/ — A thick dark liquid found deep underground that is refined for use as fuel in transport, heating, and power generation.
+- **Giải thích (VI):** (danh từ) Chất lỏng sánh màu sẫm khai thác sâu dưới lòng đất, được tinh chế làm nhiên liệu vận tải, sưởi ấm và phát điện.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) để liệt kê một trong ba nguồn năng lượng không thể tái tạo phổ biến (coal, oil, and natural gas).
+  - *Lưu ý:* Trong chủ đề năng lượng (Unit 10), 'oil' chỉ dầu mỏ dùng làm nhiên liệu; cần phân biệt với 'cooking oil' (dầu ăn) trong chủ đề ẩm thực.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 104; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 105; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 110
+
+### omelette
+- **Tiếng Việt:** trứng tráng; trứng chiên
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈɒmlət/ — A hot dish made from beaten eggs cooked with butter or oil in a frying pan, sometimes folded around other ingredients.
+- **Giải thích (VI):** (danh từ) Món ăn nóng làm từ trứng đánh đều tráng chín với bơ hoặc dầu trên chảo, đôi khi kết hợp thêm cà chua, hành và gia vị.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi phân loại món ăn và đọc công thức chế biến món trứng tráng (an omelette, Peter's omelette).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 54; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5 (Mục LOOKING BACK), tr. 58
+
 ### on cloud nine
 - **Tiếng Việt:** rất vui sướng, hạnh phúc
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -4617,6 +6086,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (tính từ) Diễn ra ngay tại môi trường làm việc thực tế trong quá trình nhân viên thực hiện nhiệm vụ.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 5: dùng trong bài đọc thông tin tuyển dụng cho vị trí không yêu cầu kinh nghiệm trước (On-the-job training is given to all employees).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục III), tr. 64; SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục III), tr. 64, 65; SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục III), tr. 65
+
+### onion
+- **Tiếng Việt:** củ hành; hành tây
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈʌnjən/ — A round vegetable with thin dry skin and many layers inside that has a strong smell and flavour.
+- **Giải thích (VI):** (danh từ) Loại củ tròn có vỏ khô mỏng và nhiều lớp bên trong, có mùi nồng và vị hăng đặc trưng dùng làm nguyên liệu nấu ăn.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi phân loại nguyên liệu nấu ăn và công thức làm trứng tráng (onions, 5 g of onion).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5 (Mục LOOKING BACK), tr. 58; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### online learning
 - **Tiếng Việt:** học trực tuyến
@@ -4670,23 +6147,36 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 8: dùng trong hội thoại mở đầu khi nói về việc tự tìm tòi thông tin trước buổi học giúp học sinh có ý tưởng sáng tạo trên lớp (have original ideas on the topic).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8, tr. 86; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục I), tr. 86; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục I), tr. 86, 87
 
+### originate
+- **Tiếng Việt:** bắt nguồn; xuất phát từ
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /əˈrɪdʒɪneɪt/ — To come from a particular place, time, or situation.
+- **Giải thích (VI):** (động từ) Khởi nguồn, bắt nguồn hoặc ra đời lần đầu tiên tại một vùng đất hay thời điểm nhất định.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng để hỏi về nguồn gốc loại hình nghệ thuật truyền thống 'Where in Viet Nam did water puppetry originate?'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4 (Mục COMMUNICATION), tr. 45; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### orphanage
 - **Tiếng Việt:** trại trẻ mồ côi
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈɔːfənɪdʒ/ — A residential institution or home that cares for children whose parents are dead or unable to look after them.
 - **Giải thích (VI):** (danh từ) Cơ sở bảo trợ xã hội nơi nuôi dưỡng, chăm sóc và giáo dục những trẻ em mồ côi không còn cha mẹ.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 4 (For a better community): dùng trong chủ đề tình nguyện chăm sóc, tổ chức trò chơi và gây quỹ cho trẻ em mồ côi tại địa phương (volunteer at an orphanage, raise money for the local orphanage).
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục I), tr. 42, 43; SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục III), tr. 45, 46; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈɔːfənɪdʒ/ — A residential institution for the care and education of children who have lost their parents. / VI: (danh từ) Cơ sở nuôi dưỡng, chăm sóc và giáo dục tập trung dành cho trẻ em mồ côi không nơi nương tựa.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 4 (For a better community): dùng trong chủ đề tình nguyện chăm sóc, tổ chức trò chơi và gây quỹ cho trẻ em mồ côi tại địa phương (volunteer at an orphanage, raise money for the local orphanage).
+  - Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong chủ đề hoạt động thiện nguyện trường học với câu 'Green School grew vegetables for an orphanage last spring'.
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục I), tr. 42, 43; SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục III), tr. 45, 46; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 31, 32; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### outdoor
 - **Tiếng Việt:** ngoài trời
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (adj) /ˈaʊtdɔː/ — Happening, used, or existing outside rather than inside a building.
 - **Giải thích (VI):** (tính từ) Diễn ra hoặc được tổ chức ở không gian ngoài trời, luôn đứng trước danh từ mà nó bổ nghĩa.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (adj) /ˈaʊtdɔː/ — Happening, existing, or done outside rather than inside a building. / VI: (tính từ) Diễn ra, thực hiện ở không gian bên ngoài thay vì bên trong phòng học hay tòa nhà.
 - **Bối cảnh:**
   - Tiếng Anh lớp 6, Unit 4 (My neighbourhood): dùng trong bài đọc blog của Khang nói về các hoạt động vui chơi ngoài trời ("It's great for outdoor activities...").
+  - Tiếng Anh lớp 7, Unit 6: dùng xuyên suốt bài học và phần luyện viết đoạn văn về các hoạt động ngoại khoá ngoài trời của học sinh (outdoor activities).
   - *Lưu ý:* Phân biệt tính từ "outdoor" (đứng trước danh từ, ví dụ "outdoor activities") với trạng từ "outdoors" (ở ngoài trời, đứng sau động từ) và tính từ trái nghĩa "indoor" (trong nhà).
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 44; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 44; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 60; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 60, 61; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 62
 
 ### outside
 - **Tiếng Việt:** ở bên ngoài
@@ -4695,6 +6185,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (trạng từ, giới từ) Ở phía ngoài ngôi nhà, căn phòng hoặc bên ngoài khung cửa sổ (trái nghĩa với 'inside').
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 10 (Our houses in the future): dùng trong hoạt động nhóm miêu tả khung cảnh nhìn từ ngôi nhà tương lai ('describe to your classmates what you can see outside the window of your future house').
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 10, tr. 39; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71
+
+### overcool
+- **Tiếng Việt:** làm cho quá lạnh
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /ˌəʊvəˈkuːl/ — To make a room, building, or space colder than is necessary or comfortable.
+- **Giải thích (VI):** (động từ) Làm mát phòng ốc xuống nhiệt độ quá lạnh vượt mức cần thiết, gây lãng phí điện năng.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10: dùng trong phần Project của chủ đề nguồn năng lượng (Energy sources) khuyên không bật điều hoà quá lạnh gây tốn điện ở lớp học (don't overheat or overcool the classrooms).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 113; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### overheat
+- **Tiếng Việt:** làm cho quá nóng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /ˌəʊvəˈhiːt/ — To make a room, building, or device hotter than is necessary or safe.
+- **Giải thích (VI):** (động từ) Sưởi ấm hoặc làm tăng nhiệt độ của phòng ốc, thiết bị lên mức quá nóng gây tiêu hao năng lượng.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10: dùng trong phần Project của chủ đề nguồn năng lượng (Energy sources) khuyên không sưởi ấm lớp học quá mức để tiết kiệm điện (don't overheat or overcool the classrooms).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 113; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### overtime
 - **Tiếng Việt:** ngoài giờ; thêm giờ
@@ -4712,6 +6218,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 3: dùng trong chủ đề giảm thiểu rác thải nhựa (get rid of plastic packaging, unnecessary packaging, recyclable packaging).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục II), tr. 34; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục II), tr. 34, 35; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục III), tr. 36
 
+### paintbrush
+- **Tiếng Việt:** cọ vẽ
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈpeɪntbrʌʃ/ — A brush used for putting paint onto a surface or canvas.
+- **Giải thích (VI):** (danh từ) Cây cọ có đầu lông mềm gắn vào cán cầm, dùng để chấm màu và vẽ tranh.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): từ vựng chỉ dụng cụ hội họa xuất hiện trong bài tập nhận diện hình ảnh phần Getting Started cùng với 'painting', 'camera', 'musical instruments'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 41
+
 ### palace
 - **Tiếng Việt:** cung điện
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -4719,6 +6233,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Toà dinh thự rộng lớn, nguy nga là nơi ở chính thức của nhà vua, nữ hoàng hoặc hoàng gia.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 9 (Cities of the world): dùng khi giới thiệu điểm tham quan lịch sử tại các thành phố lớn như 'Bangkok is famous for palaces.'.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 28; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 32; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 33
+
+### pancake
+- **Tiếng Việt:** bánh kếp
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈpænkeɪk/ — A thin, flat, round cake made from a mixture of flour, milk, and eggs, fried on both sides in a pan.
+- **Giải thích (VI):** (danh từ) Loại bánh mỏng, dẹt và tròn làm từ hỗn hợp bột mì, sữa, đường, bơ và trứng được tráng chín đều hai mặt trên chảo.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi hỏi về nguyên liệu làm bánh (make pancakes, butter for my pancakes).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 54; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5 (Mục LOOKING BACK), tr. 58
 
 ### pancreatic
 - **Tiếng Việt:** liên quan tới tuyến tuỵ
@@ -4735,6 +6257,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Loài thú lớn quý hiếm có bộ lông đen trắng đặc trưng, ăn tre trúc và là biểu tượng bảo tồn động vật hoang dã trên thế giới.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 9: dùng trong chủ đề bảo vệ động vật hoang dã nguy cấp (the giant panda; It's illegal to kill pandas, tigers or any other endangered animals).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục V), tr. 106; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục VI), tr. 106; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục VI), tr. 106, 107
+
+### panel
+- **Tiếng Việt:** tấm ghép; tấm pin
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈpænl/ — A flat rectangular piece of equipment or material designed for a particular purpose, such as collecting sunlight.
+- **Giải thích (VI):** (danh từ) Tấm phẳng ghép nối trong một thiết bị kỹ thuật, phổ biến nhất trong bài là tấm pin thu bức xạ mặt trời.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) với cụm từ cố định chỉ tấm pin mặt trời lắp trên mái nhà (put solar panels on the roof).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 106; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 111; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 112; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### parachute
 - **Tiếng Việt:** nhảy dù (động từ)
@@ -4753,6 +6283,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Người được huấn luyện hoặc tham gia bộ môn nhảy dù từ máy bay xuống mặt đất.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 6 (Gender equality): dùng trong bài nghe kể về quá trình rèn luyện của Valentina Tereshkova trước khi vào vũ trụ (joined a local flying club and became a talented parachutist).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục IV), tr. 71; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục V), tr. 71; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 128
+
+### parade
+- **Tiếng Việt:** cuộc diễu hành
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /pəˈreɪd/ — A public celebration in which a large group of people move slowly along a street in costumes, often accompanied by music and decorated vehicles.
+- **Giải thích (VI):** (danh từ) Cuộc diễu hành công cộng trên đường phố với đông đảo người mặc trang phục lễ hội, âm nhạc và xe hoa chào mừng một sự kiện.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong các cụm từ at a parade, join a parade khi kể về Lễ hội hoa Tulip và cuộc diễu hành của các cặp song sinh (the Double Take Parade).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 92, 93, 97; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### part-time
 - **Tiếng Việt:** bán thời gian
@@ -4785,6 +6323,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm động từ) Cách nói giảm, nói tránh mang sắc thái trang trọng và kính cẩn thay cho từ 'die' (qua đời, từ trần).
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 1 (Life stories we admire): dùng khi nói một cách trang trọng về sự ra đi của các nhân vật đáng kính như Steve Jobs ('Two months later, he passed away') và Đại tướng Võ Nguyên Giáp ('2013: passed away in Ha Noi').
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 1 (Mục II), tr. 11; SGK Tiếng Anh 12 Global Success, Unit 1 (Mục III), tr. 11, 12
+
+### passenger
+- **Tiếng Việt:** hành khách
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈpæsɪndʒə/ — A person who is travelling in a car, bus, train, plane, or other vehicle, but is not driving or operating it.
+- **Giải thích (VI):** (danh từ) Người ngồi đi trên các phương tiện giao thông (ô tô, xe buýt, tàu hỏa, máy bay, xe đạp...) nhưng không phải là người trực tiếp cầm lái.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong bài đọc về quy tắc an toàn giao thông và bài tập ôn tập từ vựng (Don't carry more than one passenger).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 78; SGK Tiếng Anh 7 Global Success, Unit 7 (Mục LOOKING BACK), tr. 80; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### passion
 - **Tiếng Việt:** niềm đam mê
@@ -4823,8 +6369,10 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (np) /ˌpɑːst ˈsɪmpl/ — The verb tense used to talk about completed actions, events, or states that happened at a definite time in the past.
 - **Giải thích (VI):** (cụm danh từ) Thì động từ dùng để diễn tả hành động, sự việc đã xảy ra và kết thúc tại một thời điểm xác định trong quá khứ.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 8 (Sports and games): chủ điểm ngữ pháp trọng tâm ở mục A Closer Look 2 với ví dụ 'I played badminton with Phong yesterday.'.
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 16; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 19; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 19, 20
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 8 (Sports and games): chủ điểm ngữ pháp trọng tâm ở mục A Closer Look 2 với ví dụ 'I played badminton with Phong yesterday.'.
+  - Tiếng Anh lớp 7, Unit 3 (Community service): chủ điểm ngữ pháp trọng tâm phần A Closer Look 2 đi kèm các trạng ngữ thời gian như 'yesterday', 'last summer', 'a month ago', 'in 2020' để kể về hoạt động cộng đồng đã thực hiện.
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 16; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 19; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 19, 20; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 28; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 31, 32
 
 ### Past simple vs. past continuous with when and while
 - **Tiếng Việt:** thì quá khứ đơn và quá khứ tiếp diễn với when, while
@@ -4843,14 +6391,27 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 10 (Mục III), tr. 114; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục IV), tr. 114; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục IV), tr. 114, 115
 
 ### patient
-- **Tiếng Việt:** bệnh nhân (danh từ)
+- **Tiếng Việt:** bệnh nhân (danh từ; kiên nhẫn; tính từ)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈpeɪʃnt/ — A person who is receiving medical care or surgical treatment from a doctor or in a hospital.
 - **Giải thích (VI):** (danh từ) Người bệnh đang được bác sĩ thăm khám, chăm sóc y tế hoặc phẫu thuật điều trị tại bệnh viện.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (adj) /ˈpeɪʃnt/ — Able to wait calmly for a long time or deal with difficulties without becoming annoyed. / VI: (tính từ) Có khả năng bình tĩnh chờ đợi trong thời gian dài hoặc nhẫn nại làm việc tỉ mỉ mà không nản lòng.
 - **Bối cảnh:**
   - Tiếng Anh lớp 10, Unit 6 (Gender equality): dùng trong bài viết về trách nhiệm của bác sĩ phẫu thuật (performing operations on patients, making important decisions about patients' health and safety).
+  - Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) để nêu phẩm chất kiên nhẫn hình thành nhờ làm vườn và lắp mô hình (learn to be patient).
   - *Lưu ý:* Ở đây 'patient' là danh từ đếm được nghĩa là 'bệnh nhân', cần phân biệt với tính từ đồng âm đồng chữ 'patient' nghĩa là 'kiên nhẫn'.
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục VI), tr. 72; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 128
+  - *Lưu ý:* Cần phân biệt tính từ 'patient' (kiên nhẫn) trong Unit 1 với danh từ đồng âm 'patient' (bệnh nhân) xuất hiện trong chủ đề sức khoẻ và hoạt động cộng đồng.
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục VI), tr. 72; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 128; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 14; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 15; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### pavement
+- **Tiếng Việt:** vỉa hè (cho người đi bộ)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈpeɪvmənt/ — A flat raised path at the side of a road for people to walk on.
+- **Giải thích (VI):** (danh từ) Phần đường lát phẳng dọc hai bên phố dành riêng cho người đi bộ lưu thông an toàn.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong quy tắc an toàn cho người đi bộ và luyện phát âm nguyên âm đôi /eɪ/ (Use the pavement or footpath, Don't ride on the pavement).
+  - *Lưu ý:* Từ chuẩn tiếng Anh – Anh chỉ vỉa hè (tương đương sidewalk trong tiếng Anh – Mỹ); lưu ý trong tiếng Anh – Mỹ, pavement lại thường chỉ mặt đường nhựa cho xe chạy.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 74; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 76; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 78; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### peaceful
 - **Tiếng Việt:** yên bình, thanh bình
@@ -4876,6 +6437,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 6 (Our Tet Holiday): dùng để nói về loài hoa trang trí nhà cửa dịp Tết cổ truyền ("decorate our houses with peach flowers", "She sells peach flowers").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 58, 59; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 60; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 65, 66
 
+### pedal
+- **Tiếng Việt:** đạp (xe đạp)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /ˈpedl/ — To push the pedals of a bicycle or similar vehicle with your feet to make it move.
+- **Giải thích (VI):** (động từ) Dùng chân nhấn vào bàn đạp để làm cho xe đạp hoặc phương tiện tương tự chuyển động về phía trước.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng trong phần câu đố về các phương tiện giao thông quen thuộc (ví dụ: It has two wheels and you pedal it).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 115; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### pedestrian
+- **Tiếng Việt:** người đi bộ; khách bộ hành
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /pəˈdestriən/ — A person who is walking in the street rather than travelling in a vehicle.
+- **Giải thích (VI):** (danh từ) Người tham gia giao thông bằng cách đi bộ trên đường phố hoặc vỉa hè thay vì đi bằng phương tiện giao thông.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong bài đọc Skills 1 hướng dẫn các quy tắc an toàn đường bộ dành cho người đi bộ.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 78; SGK Tiếng Anh 7 Global Success, Unit 7 (Mục LOOKING BACK), tr. 80; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### peer
 - **Tiếng Việt:** bạn đồng trang lứa
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -4900,21 +6477,51 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 1 (My new school): xuất hiện trong nhóm từ vựng đồ dùng học tập ('school things') ở phần Getting Started và ôn tập Looking Back ('I have a red pencil sharpener').
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 1, tr. 7, 14
 
+### penguin
+- **Tiếng Việt:** chim cánh cụt
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈpeŋɡwɪn/ — A black-and-white flightless seabird living mainly in the Southern Hemisphere that uses its wings as flippers for swimming.
+- **Giải thích (VI):** (danh từ) Loài chim biển có bộ lông đen trắng, không biết bay nhưng bơi lội rất giỏi, sinh sống chủ yếu ở các vùng bờ biển Nam bán cầu.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng trong cụm hoạt động du lịch go penguin watching khi Phong kể về chuyến thăm nước Úc (ví dụ: We went penguin watching).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 124; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 125; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### penguin watching
+- **Tiếng Việt:** ngắm chim cánh cụt
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈpeŋɡwɪn ˈwɒtʃɪŋ/ — An outdoor ecotourism activity in which visitors observe wild penguins in their natural coastal habitat.
+- **Giải thích (VI):** (cụm danh từ) Hoạt động du lịch sinh thái quan sát đàn chim cánh cụt ngoài tự nhiên trên bãi biển, nổi tiếng tại đảo Phillip (Úc).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): kết hợp với động từ 'go' trong hội thoại kể về chuyến du lịch Úc 'We took a tour to Phillip Island. We went penguin watching.' (tr. 124, 125).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 124; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 125
+
+### pepper
+- **Tiếng Việt:** hạt tiêu
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈpepə/ — A grey or black powder made from dried berries with a hot, spicy taste, used to flavour food.
+- **Giải thích (VI):** (danh từ) Gia vị dạng bột hoặc hạt khô có màu đen hay xám, vị cay nồng và mùi thơm, dùng để nêm nếm món ăn.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi liệt kê gia vị trong công thức nấu ăn (a teaspoon of pepper).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 54; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5 (Mục LOOKING BACK), tr. 58
+
 ### perform
-- **Tiếng Việt:** biểu diễn, trình diễn
+- **Tiếng Việt:** biểu diễn, trình diễn (biểu diễn; trình diễn)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (v) /pəˈfɔːm/ — To dance, sing, act, or play music in order to entertain or please an audience.
 - **Giải thích (VI):** (động từ) Ca hát, nhảy múa hoặc chơi nhạc trước công chúng nhằm thu hút và mang lại niềm vui cho khán giả.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 3: dùng trọng tâm trong chủ đề âm nhạc, kết hợp trong các cụm 'perform at the charity concert', 'performed at the local theatre', 'perform live on TV'.
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục I, II), tr. 28, 29, 30
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (v) /pəˈfɔːm/ — To entertain an audience by playing music, singing, dancing, or acting. / VI: (động từ) Biểu diễn, trình diễn ca nhạc, múa, kịch hoặc một tiết mục nghệ thuật trước khán giả.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 3: dùng trọng tâm trong chủ đề âm nhạc, kết hợp trong các cụm 'perform at the charity concert', 'performed at the local theatre', 'perform live on TV'.
+  - Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng trong chủ đề biểu diễn sân khấu và âm nhạc như 'The artists performed the show in a pool' và 'listen to the musicians performing'.
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục I, II), tr. 28, 29, 30; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 40; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 42; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 46; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### performance
-- **Tiếng Việt:** buổi biểu diễn, tiết mục trình diễn
+- **Tiếng Việt:** buổi biểu diễn, tiết mục trình diễn (sự trình diễn; buổi biểu diễn; tiết mục biểu diễn)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /pəˈfɔːməns/ — The act of singing, dancing, playing music, or acting in front of an audience to entertain them.
 - **Giải thích (VI):** (danh từ) Tiết mục hoặc buổi trình diễn ca hát, nhảy múa, chơi nhạc phục vụ khán giả thưởng thức.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 3: dùng trong chủ đề biểu diễn âm nhạc, xuất hiện trong các cụm 'live performance', 'exciting performances' và 'performance art' (nghệ thuật biểu diễn).
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục II, III, VII), tr. 30, 31, 32, 35; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /pəˈfɔːməns/ — An act of presenting a play, concert, or other form of entertainment before an audience. / VI: (danh từ) Một buổi biểu diễn, chương trình văn nghệ hoặc tiết mục nghệ thuật được trình bày trước khán giả.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 3: dùng trong chủ đề biểu diễn âm nhạc, xuất hiện trong các cụm 'live performance', 'exciting performances' và 'performance art' (nghệ thuật biểu diễn).
+  - Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng để nói về chương trình biểu diễn văn nghệ như 'Ask and answer about Mark's school musical performance last year'.
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục II, III, VII), tr. 30, 31, 32, 35; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 40, 41; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 46; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### personalised
 - **Tiếng Việt:** được cá nhân hoá
@@ -4933,6 +6540,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Tổng hoà các phẩm chất và nét tính cách riêng biệt tạo nên con người bên trong của một cá nhân (số nhiều là "personalities").
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 3 (My friends): từ khoá chủ điểm dùng để hỏi và miêu tả phẩm chất bên trong của bạn bè, ví dụ "We may have different personalities because we have different birthdays.".
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 3, tr. 26, 28, 31, 35; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 70
+
+### photography
+- **Tiếng Việt:** nhiếp ảnh
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /fəˈtɒɡrəfi/ — The art, process, or job of taking photographs or filming.
+- **Giải thích (VI):** (danh từ) Nghệ thuật, kĩ thuật chụp ảnh hoặc quay hình trong mỹ thuật và điện ảnh.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng để nhận xét về chất lượng ghi hình của bộ phim tài liệu trong câu 'Did you see the film Amazon Jungle on TV last night? The photography was excellent'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 42; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### physical
 - **Tiếng Việt:** thuộc thể chất
@@ -4960,6 +6575,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 11 (Our greener world): dùng trong chủ đề giữ gìn vệ sinh môi trường qua hành động nhặt rác (picking up rubbish).
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 11, tr. 49; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71
 
+### pick up litter
+- **Tiếng Việt:** nhặt rác
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (vp) /pɪk ʌp ˈlɪtə/ — To collect pieces of rubbish that have been left lying on the ground in public places.
+- **Giải thích (VI):** (cụm động từ) Thu gom, nhặt các mảnh rác vụn vứt trên mặt đất tại trường học, công viên hoặc khu dân cư.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong chủ đề giữ gìn vệ sinh môi trường chung như 'pick up litter around our school', 'pick up litter at the local park every Sunday'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 28, 29; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 30; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3 (Mục LOOKING BACK), tr. 36
+
+### pie
+- **Tiếng Việt:** bánh nướng nhân nhồi
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /paɪ/ — A baked dish of fruit, meat, or vegetables, typically with a top and base of pastry.
+- **Giải thích (VI):** (danh từ) Loại bánh có lớp vỏ bột bao bọc phần nhân trái cây, thịt hoặc rau củ bên trong và thường được làm chín bằng cách nướng lò.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi hỏi đáp về định lượng nguyên liệu làm bánh táo (Linh's apple pie).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### pile
 - **Tiếng Việt:** đống; chồng
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -4976,6 +6607,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 6 (Gender equality): dùng trong chủ đề quyền tự do theo đuổi ước mơ nghề nghiệp của phụ nữ (airline pilot, fighter pilot, the first female pilot).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6, tr. 66; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục I), tr. 66; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục I), tr. 66, 67
 
+### pimple
+- **Tiếng Việt:** nốt mụn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈpɪmpl/ — A small, raised, inflamed spot on the surface of the skin, often caused by acne.
+- **Giải thích (VI):** (danh từ) Nốt mụn nhỏ nổi cộm trên bề mặt da (như mụn đầu đen, mụn đầu trắng hoặc mụn mủ).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng ở dạng đếm được số nhiều trong câu 'Acne causes black and white pimples on the face.' (tr. 21).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 21; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### place
 - **Tiếng Việt:** đăng, đặt (tin, quảng cáo) (động từ)
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -4986,6 +6625,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong bài học này, 'place' được dùng như ngoại động từ mang nghĩa đăng quảng cáo ('place an advert'), cần phân biệt với danh từ 'place' (nơi chốn, địa điểm).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7, tr. 88; SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục I), tr. 88; SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục I), tr. 88, 89
 
+### plane (English)
+- **Tiếng Việt:** máy bay
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /pleɪn/ — A flying vehicle with wings and one or more engines used for air transport.
+- **Giải thích (VI):** (danh từ) Phương tiện giao thông đường hàng không có cánh và động cơ dùng để chuyên chở hành khách hoặc hàng hóa trên bầu trời.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong chủ đề các phương tiện đi lại và luyện phát âm nguyên âm đôi /eɪ/ (never travels by plane, learning to fly planes).
+  - *Lưu ý:* Dạng rút gọn thông dụng của aeroplane (Anh – Anh) hoặc airplane (Anh – Mỹ); phân biệt với danh từ đồng âm plane trong hình học ('mặt phẳng').
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Mặt phẳng' trong Toán học.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 73; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 74; SGK Tiếng Anh 7 Global Success, Unit 7 (Mục LOOKING BACK), tr. 80; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### planet (English)
 - **Tiếng Việt:** hành tinh
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -4995,6 +6645,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 6, Unit 12 (Robots) và Review 4: dùng khi nói về người máy vũ trụ xây trạm không gian trên các hành tinh cũng như việc bảo vệ Trái Đất (build space stations on planets; help our planet).
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Hành tinh' trong Vật lí.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 12, tr. 64; SGK Tiếng Anh 6 Global Success Tập 2, Review 4, tr. 68, 69; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71
+
+### plant
+- **Tiếng Việt:** trồng cây (động từ)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /plɑːnt/ — To put seeds, plants, or trees in the ground so that they will grow.
+- **Giải thích (VI):** (động từ) Đặt cây non, hạt giống xuống đất và vun trồng để chúng sinh trưởng.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong chủ đề bảo vệ môi trường và làm đẹp khu dân cư với các cụm 'plant trees in your area', 'plant vegetables in our school garden'.
+  - *Lưu ý:* Trong mục từ này, 'plant' được xét với vai trò ngoại động từ (trồng cây, trồng rau), phân biệt với danh từ đếm được 'plant' (cây trồng, ví dụ: 'water the plants' ở trang 30).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 28, 29; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3 (Mục COMMUNICATION), tr. 33; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### plaster
 - **Tiếng Việt:** băng cá nhân, băng gạc y tế
@@ -5031,12 +6691,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục III), tr. 80; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục III), tr. 80, 81; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục III), tr. 81
 
 ### playground
-- **Tiếng Việt:** sân trường, sân chơi
+- **Tiếng Việt:** sân trường, sân chơi (sân trường; sân chơi)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈpleɪɡraʊnd/ — An outdoor area at a school or park where children can play and do sports during breaks.
 - **Giải thích (VI):** (danh từ) Khoảng sân rộng ngoài trời trong khuôn viên nhà trường dành cho học sinh vui chơi, sinh hoạt tập thể và vận động giờ ra chơi.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 1 (My new school): dùng khi miêu tả cảnh quan trường học ('My school has a large playground', 'There is also a school garden and a playground').
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 1, tr. 9, 10, 12
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈpleɪɡraʊnd/ — An outdoor area at a school or park where children can play and do activities. / VI: (danh từ) Khu vực sân ngoài trời trong khuôn viên trường học nơi học sinh vui chơi, tập trung và tham gia các hoạt động tập thể.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 1 (My new school): dùng khi miêu tả cảnh quan trường học ('My school has a large playground', 'There is also a school garden and a playground').
+  - Tiếng Anh lớp 7, Unit 6 (A visit to a school): dùng trong chủ đề cơ sở vật chất và hoạt động ngoại khóa ở trường (clean the school playground, in the playground).
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 1, tr. 9, 10, 12; SGK Tiếng Anh 7 Global Success, Unit 6, tr. 61; SGK Tiếng Anh 7 Global Success, Unit 6, tr. 63; SGK Tiếng Anh 7 Global Success, Unit 6 (Mục LOOKING BACK), tr. 68
 
 ### poach
 - **Tiếng Việt:** săn trộm; săn bắn bất hợp pháp
@@ -5067,13 +6730,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Thơ' trong Ngữ văn.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 1 (Mục VI), tr. 16; SGK Tiếng Anh 12 Global Success, Unit 1 (Mục VII), tr. 16, 17
 
+### pop
+- **Tiếng Việt:** nặn (mụn) (động từ)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /pɒp/ — To squeeze a spot or pimple on the skin until it bursts open.
+- **Giải thích (VI):** (động từ) Dùng tay bóp hoặc ấn mạnh làm vỡ nốt mụn trên da.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng trong bài đọc hướng dẫn chăm sóc da bị mụn 'Don't touch or pop spots, especially when your hands are dirty.' (tr. 23).
+  - *Lưu ý:* Trong chủ đề chăm sóc da, 'pop' là ngoại động từ chỉ hành động nặn vỡ mụn; phân biệt với danh từ 'pop' chỉ dòng nhạc đại chúng.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 23; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### popular
-- **Tiếng Việt:** phổ biến, được nhiều người yêu thích
+- **Tiếng Việt:** phổ biến, được nhiều người yêu thích (phổ biến; được nhiều người ưa thích)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (adj) /ˈpɒpjələ/ — Liked, enjoyed, or watched by a large number of people.
 - **Giải thích (VI):** (tính từ) Được đông đảo công chúng biết đến, ưa chuộng và đón xem.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 7 (Television): dùng để miêu tả các kênh và chương trình truyền hình thu hút đông khán giả ("VTV1 is a popular TV channel in Viet Nam", "Hello Fatty is a popular TV cartoon").
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 8; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7 (Mục COMMUNICATION), tr. 11; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7 (Mục LOOKING BACK), tr. 14
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (adj) /ˈpɒpjələ/ — Liked, enjoyed, or practised by a large number of people. / VI: (tính từ) Được đông đảo mọi người ưa chuộng, yêu thích hoặc tham gia rộng rãi.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 7 (Television): dùng để miêu tả các kênh và chương trình truyền hình thu hút đông khán giả ("VTV1 is a popular TV channel in Viet Nam", "Hello Fatty is a popular TV cartoon").
+  - Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) khi khảo sát và bình chọn các hoạt động được giới trẻ yêu thích nhất (the most popular hobby; popular among teens).
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 8; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7 (Mục COMMUNICATION), tr. 11; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7 (Mục LOOKING BACK), tr. 14; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 9; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 14; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 17; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### popularity
 - **Tiếng Việt:** sự phổ biến, sự được ưa chuộng
@@ -5083,6 +6759,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 2 (A multicultural world): dùng trong chủ đề sự lan tỏa rộng rãi của các món ăn đặc sản và trào lưu văn hóa trên toàn cầu (gaining popularity worldwide, the popularity of cycling).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 2 (Mục II), tr. 22, 23; SGK Tiếng Anh 12 Global Success, Unit 2 (Mục III), tr. 24
 
+### pork
+- **Tiếng Việt:** thịt lợn; thịt heo
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /pɔːk/ — Meat from a pig that has not been cured or salted, used as food.
+- **Giải thích (VI):** (danh từ) Thịt tươi lấy từ con lợn (heo) dùng làm thực phẩm chế biến các món ăn hằng ngày.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi gọi món ăn tại nhà hàng và luyện phát âm nguyên âm /ɔː/ (pork cooked in fish sauce).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50, 51; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 51
+
 ### portfolio
 - **Tiếng Việt:** hồ sơ năng lực
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -5090,6 +6774,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Bộ hồ sơ tập hợp các sản phẩm, thành tích cùng minh chứng quá trình học tập và làm việc nhằm thể hiện năng lực của một cá nhân.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 6 (Artificial Intelligence): dùng trong cụm digital portfolio (hồ sơ năng lực số giúp học sinh trung học ở Singapore lưu trữ minh chứng học tập để xét tuyển đại học và xin việc).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục III), tr. 80; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục III), tr. 80, 81; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục III), tr. 81
+
+### portrait
+- **Tiếng Việt:** bức chân dung
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈpɔːtreɪt/ — A painting, drawing, or photograph of a person, especially of the face and upper body.
+- **Giải thích (VI):** (danh từ) Bức tranh vẽ hoặc bức ảnh chụp khắc họa khuôn mặt và thần thái của một con người.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng trong cụm 'paint a portrait' và câu so sánh hội họa 'Painting portraits is different from painting landscapes'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 42; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 43; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### position
 - **Tiếng Việt:** vị trí việc làm; chức vụ
@@ -5124,8 +6816,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (np) /pəˈzesɪv ˈprəʊnaʊnz/ — Pronouns ('mine', 'yours', 'his', 'hers', 'ours', 'theirs') used alone without a following noun to show ownership and avoid repeating a noun phrase.
 - **Giải thích (VI):** (cụm danh từ) Nhóm đại từ ('mine', 'yours', 'his', 'hers', 'ours', 'theirs') đứng độc lập không kèm danh từ theo sau, dùng để thay thế cho cụm 'tính từ sở hữu + danh từ' nhằm tránh lặp từ.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 9 (Cities of the world): chủ điểm ngữ pháp trọng tâm ở mục A Closer Look 2 như 'This book is mine, not yours.' và 'My parents wore their helmets and I wore mine.'.
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 26; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 29; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 29, 30
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 9 (Cities of the world): chủ điểm ngữ pháp trọng tâm ở mục A Closer Look 2 như 'This book is mine, not yours.' và 'My parents wore their helmets and I wore mine.'.
+  - Tiếng Anh lớp 7, Unit 11 (Travelling in the future): chủ điểm ngữ pháp trọng tâm giúp viết câu ngắn gọn không lặp lại danh từ đã nêu (ví dụ: This is your bicycle. That bicycle is her bicycle → hers).
+  - *Lưu ý:* Khác với tính từ sở hữu (my, your, her, our, their) bắt buộc phải có danh từ theo sau, đại từ sở hữu (mine, yours, hers, ours, theirs) luôn đứng một mình và không đi trước danh từ.
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 26; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 29; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 29, 30; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 114; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 118; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 123
 
 ### postcard
 - **Tiếng Việt:** bưu thiếp
@@ -5134,6 +6829,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Tấm thiếp nhỏ có in ảnh phong cảnh ở một mặt, dùng để viết lời nhắn ngắn gọn gửi qua bưu điện cho người thân từ nơi đi du lịch.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 9 (Cities of the world): dùng trong kĩ năng đọc hiểu và viết bưu thiếp kì nghỉ ('When do people write a postcard?') cũng như luyện âm /əʊ/.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 26; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 28; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 32
+
+### poster (English)
+- **Tiếng Việt:** áp phích quảng cáo
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈpəʊstə/ — A large printed picture or notice put on a wall to advertise a film, event, or product.
+- **Giải thích (VI):** (danh từ) Tờ tranh in khổ lớn trình bày hình ảnh minh họa, tên phim, diễn viên chính và lịch chiếu để quảng bá cho bộ phim.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 8 (Films): dùng trong hoạt động Project thiết kế và trưng bày áp phích giới thiệu bộ phim yêu thích (design a poster for it).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Pô-xtơ' trong Ngữ văn.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 91; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### poverty
 - **Tiếng Việt:** tình trạng đói nghèo
@@ -5157,6 +6862,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong Unit 7, 'practical' nhấn mạnh tính thiết thực gắn với tình huống thực tế của chương trình hành động (connected with real situations).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục VII), tr. 49, 50; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126; SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục III), tr. 79; SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục III), tr. 79, 80; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục I), tr. 101; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục II), tr. 101; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục II), tr. 101, 102
 
+### prefer
+- **Tiếng Việt:** thích hơn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /prɪˈfɜː/ — To like one person or thing better than another.
+- **Giải thích (VI):** (động từ) Yêu thích hoặc ưu tiên lựa chọn một sự vật, hoạt động này hơn một sự vật, hoạt động khác.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): động từ trọng tâm mục Everyday English (Expressing preferences) trong các mẫu câu 'Which do you prefer, pop or folk music?' và 'I'd prefer to go to the music festival'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 40, 41; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4 (Mục COMMUNICATION), tr. 45; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### prepare
 - **Tiếng Việt:** chuẩn bị
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -5172,6 +6885,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm danh từ) Nhóm giới từ (gồm in, on, behind, under, next to, in front of, between) dùng để xác định vị trí không gian của người hoặc vật.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 2 (My house): chủ điểm ngữ pháp trọng tâm giúp mô tả vị trí không gian của người và đồ đạc trong nhà ("Prepositions of place describe where people or things are.").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 2, tr. 16, 19, 20
+
+### Prepositions of place: at, in, on
+- **Tiếng Việt:** giới từ chỉ nơi chốn: at, in, on
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (grammar) /ˌprepəˈzɪʃnz əv pleɪs/ — The prepositions at (for a specific point or functional place), in (for an enclosed space or bounded area), and on (for a surface or floor level) used to indicate where someone or something is.
+- **Giải thích (VI):** (chủ điểm ngữ pháp) Nhóm ba giới từ xác định vị trí không gian: at chỉ một điểm hoặc nơi hoạt động chức năng (at home, at school, at work), in chỉ không gian khép kín hoặc khu vực có ranh giới (in the classroom, in the playground), và on chỉ bề mặt tiếp xúc hoặc tầng lầu (on the board, on the second floor).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 6 (A visit to a school): dùng trong phần A Closer Look 2 để miêu tả vị trí phòng ốc, đồ vật và nơi diễn ra hoạt động trong trường học.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 6, tr. 60; SGK Tiếng Anh 7 Global Success, Unit 6, tr. 63; SGK Tiếng Anh 7 Global Success, Unit 6, tr. 64; SGK Tiếng Anh 7 Global Success, Unit 6 (Mục LOOKING BACK), tr. 68
+
+### Prepositions of time: at, in, on
+- **Tiếng Việt:** giới từ chỉ thời gian: at, in, on
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (grammar) /ˌprepəˈzɪʃnz əv taɪm/ — The prepositions at (for specific clock times and short periods), in (for parts of the day, months, seasons, and years), and on (for days and specific dates) used to express when something happens.
+- **Giải thích (VI):** (chủ điểm ngữ pháp) Nhóm ba giới từ xác định thời điểm diễn ra hành động: at đi với giờ cụ thể hoặc thời khắc ngắn (at 9 a.m., at noon, at break time), in đi với buổi, tháng, mùa, năm (in the morning, in December, in 2020), và on đi với thứ hoặc ngày cụ thể (on Monday, on January 18th).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 6 (A visit to a school): dùng trong phần A Closer Look 2 để nói về lịch trình học tập và thời gian diễn ra các hoạt động ở trường.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 6, tr. 60; SGK Tiếng Anh 7 Global Success, Unit 6, tr. 63; SGK Tiếng Anh 7 Global Success, Unit 6, tr. 64; SGK Tiếng Anh 7 Global Success, Unit 6 (Mục LOOKING BACK), tr. 68
 
 ### presence
 - **Tiếng Việt:** sức thu hút; sức ảnh hưởng
@@ -5189,11 +6918,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** (np) /ˈpreznt kənˈtɪnjuəs/ — The verb tense formed with 'am/is/are + -ing' used to talk about actions or temporary events happening at or around the moment of speaking.
 - **Giải thích (VI):** (cụm danh từ) Thì hiện tại tiếp diễn trong ngữ pháp tiếng Anh (am/is/are + V-ing), dùng để diễn tả hành động đang diễn ra ngay tại thời điểm nói hoặc sự việc tạm thời ở hiện tại.
 - **Giải thích khác (SGK Tiếng Anh 6 Tập 1):** EN: (np) /ˈpreznt kənˈtɪnjuəs/ — The verb tense formed with "am/is/are + -ing" used to describe actions happening right now at the moment of speaking. / VI: (cụm danh từ) Thì ngữ pháp (S + am/is/are + V-ing) dùng để diễn tả hành động đang diễn ra ngay tại thời điểm nói, thường đi kèm với "now", "at present" hoặc "at the moment".
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (np) /ˈpreznt kənˈtɪnjuəs/ — A verb tense formed with 'am/is/are + V-ing' used to describe actions happening right now or ongoing activities around the present time. / VI: (cụm danh từ) Thì động từ có cấu trúc am/is/are + V-ing dùng để diễn tả hành động đang xảy ra ngay lúc nói hoặc đang diễn ra xung quanh thời điểm hiện tại.
 - **Bối cảnh:**
   - Tiếng Anh lớp 10, Unit 1 (Family life): chủ điểm ngữ pháp trọng tâm đặt đối chiếu với thì hiện tại đơn để phân biệt việc đang làm ngay lúc nói với công việc hằng ngày (My mother isn't cooking now. She's working in her office).
   - Tiếng Anh lớp 6, Unit 3 (My friends): chủ điểm ngữ pháp trọng tâm mục A Closer Look 2 diễn tả hoạt động đang diễn ra ("I'm doing my homework at present.", "We're having a picnic.").
+  - Tiếng Anh lớp 7, Unit 10 (Energy sources): chủ điểm ngữ pháp trọng tâm đi kèm các trạng ngữ now, right now, at the moment, today, nowadays, this week/month (ví dụ: Scientists are looking for a new energy source to replace coal).
   - *Lưu ý:* Đối lập với thì hiện tại đơn (Present simple) vốn dùng để chỉ thói quen lặp đi lặp lại hoặc sự thật hiển nhiên.
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1, tr. 8; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục II), tr. 10; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục VIII), tr. 17; SGK Tiếng Anh 6 Global Success Tập 1, Unit 03, Unit 3, tr. 26; SGK Tiếng Anh 6 Global Success Tập 1, Unit 03, Unit 3, tr. 29; SGK Tiếng Anh 6 Global Success Tập 1, Unit 03, Unit 3, tr. 29, 30
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1, tr. 8; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục II), tr. 10; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục VIII), tr. 17; SGK Tiếng Anh 6 Global Success Tập 1, Unit 03, Unit 3, tr. 26; SGK Tiếng Anh 6 Global Success Tập 1, Unit 03, Unit 3, tr. 29; SGK Tiếng Anh 6 Global Success Tập 1, Unit 03, Unit 3, tr. 29, 30; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 104; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 107; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 108
 
 ### Present perfect
 - **Tiếng Việt:** thì hiện tại hoàn thành
@@ -5209,10 +6940,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** (np) /ˈpreznt ˈsɪmpl/ — The verb tense used to talk about habits, regular routines, permanent situations, general truths, and stative meanings.
 - **Giải thích (VI):** (cụm danh từ) Thì hiện tại đơn trong ngữ pháp tiếng Anh, dùng để diễn tả thói quen, công việc lặp đi lặp lại đều đặn, sự thật hiển nhiên hoặc trạng thái ở hiện tại.
 - **Giải thích khác (SGK Tiếng Anh 6 Tập 1):** EN: (np) /ˈpreznt ˈsɪmpl/ — The verb tense used to talk about habitual actions, daily routines, general truths, or fixed schedules. / VI: (cụm danh từ) Thì động từ dùng để diễn tả các hành động lặp đi lặp lại, thói quen hằng ngày hoặc lịch trình cố định, trong đó chủ ngữ ngôi thứ ba số ít đi với động từ thường thêm '-s' hoặc '-es'.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (np) /ˈpreznt ˈsɪmpl/ — A verb tense used to express general truths, regular habits in the present, and fixed timetables or schedules. / VI: (cụm danh từ) Thì động từ dùng để diễn tả chân lí hiển nhiên, thói quen lặp đi lặp lại ở hiện tại và lịch trình hoặc thời gian biểu cố định.
 - **Bối cảnh:**
   - Tiếng Anh lớp 10, Unit 1 (Family life): chủ điểm ngữ pháp trọng tâm dùng để nói về thói quen làm việc nhà thường nhật, đối lập với hành động đang diễn ra ở thì hiện tại tiếp diễn (My mother cooks every day).
   - Tiếng Anh lớp 6, Unit 1 (My new school): chủ điểm ngữ pháp trọng tâm ở mục A Closer Look 2 để kể về việc học hằng ngày ('We usually go to school by bus', 'I don't like school lunch very much').
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1, tr. 8; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục II), tr. 10; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục VIII), tr. 17; SGK Tiếng Anh 6 Global Success Tập 1, Unit 1, tr. 6, 9, 10, 14, 15
+  - Tiếng Anh lớp 7, Unit 1: chủ điểm ngữ pháp trọng tâm của bài học sở thích (Hobbies), dùng để miêu tả thói quen giải trí hàng tuần, sự thật hiển nhiên và giờ mở lớp câu lạc bộ.
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1, tr. 8; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục II), tr. 10; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục VIII), tr. 17; SGK Tiếng Anh 6 Global Success Tập 1, Unit 1, tr. 6, 9, 10, 14, 15; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 8; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 11; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 12
 
 ### president
 - **Tiếng Việt:** chủ tịch
@@ -5240,6 +6973,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 8: dùng trong bài hội thoại giới thiệu Trung tâm Cứu hộ Linh trưởng Nguy cấp ('Endangered Primate Rescue Centre'), nơi bảo tồn nhiều loài khỉ và vượn quý hiếm.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8, tr. 100; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục I), tr. 100; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục I), tr. 100, 101
 
+### private
+- **Tiếng Việt:** tư thục; riêng tư
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈpraɪvət/ — Owned or managed by an independent person or organization rather than by the state, or intended only for specific individuals.
+- **Giải thích (VI):** (tính từ) Thuộc quyền sở hữu, quản lý của cá nhân hoặc tổ chức độc lập thay vì nhà nước, hoặc mang tính chất riêng tư.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 6: dùng trong chủ đề trường học khi nói về loại hình trường tư thục (a student at a private school).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6 (Mục LOOKING BACK), tr. 68; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### processor (English)
 - **Tiếng Việt:** bộ xử lí (máy tính)
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -5249,6 +6990,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 10, Unit 5 (Inventions): thuật ngữ tin học trong mục CLIL về phần cứng máy tính (processor — the part of the computer that controls all other parts; Processor speed is often shown in gigahertz (GHz)).
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Bộ xử lí' trong Tin học.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục VII), tr. 59, 60; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 127
+
+### produce
+- **Tiếng Việt:** sản xuất
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /prəˈdjuːs/ — To make, generate, or supply something such as goods, heat, or electricity.
+- **Giải thích (VI):** (động từ) Tạo ra, phát ra hoặc chế tạo sản phẩm, nhiệt năng hay điện năng từ các nguồn nguyên liệu.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) khi mô tả hoạt động phát điện và chi phí chế tạo thiết bị năng lượng sạch (produce electricity; expensive to produce).
+  - *Lưu ý:* Khi là động từ mang nghĩa 'sản xuất', từ có trọng âm rơi vào âm tiết thứ hai (/prəˈdjuːs/); cần phân biệt với danh từ 'produce' (/ˈprɒdjuːs/) mang nghĩa 'nông sản'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 106; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 110; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 111; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### profit (English)
 - **Tiếng Việt:** lợi nhuận, tiền lãi
@@ -5286,6 +7037,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong mục từ vựng Unit 6 của SGK, động từ lập trình được viết là programme (quá khứ phân từ programmed); trong tiếng Anh hiện đại (nhất là Anh-Mỹ và tin học), dạng động từ và chương trình máy tính thường viết là program.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục II), tr. 78; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục II), tr. 78, 79; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục II), tr. 79
 
+### projector (English)
+- **Tiếng Việt:** máy chiếu
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /prəˈdʒektə/ — A piece of equipment that projects images, slides, or films from a computer onto a screen or wall.
+- **Giải thích (VI):** (danh từ) Thiết bị điện tử dùng để chiếu hình ảnh, bài giảng hoặc video từ máy tính lên màn chiếu hay tường trong lớp học.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 6: dùng trong bài đọc về trường Quốc Học – Huế khi liệt kê trang thiết bị dạy học hiện đại và luyện âm /dʒ/ (classrooms with TVs, projectors, and computers).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Máy chiếu' trong Tin học.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 66; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### promote
 - **Tiếng Việt:** quảng bá, khuếch trương; thúc đẩy
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -5294,13 +7055,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 7: dùng trong chủ đề Việt Nam và các tổ chức quốc tế với các cụm từ như promote local customs and values, promote environmental protection, promote economic growth, promoting its culture.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục II), tr. 77; SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục II), tr. 78; SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục III), tr. 79
 
-### proportion
+### proportion (English)
 - **Tiếng Việt:** tỉ lệ; phần
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /prəˈpɔːʃn/ — A part or share of a whole, especially when compared in size or percentage to the total.
 - **Giải thích (VI):** (danh từ) Một phần hoặc tỉ lệ tương quan của một nhóm khi so sánh với tổng thể chung.
-- **Bối cảnh:** Tiếng Anh lớp 12, Unit 4: dùng trong bài viết mô tả biểu đồ đường và thống kê dân số đô thị (The proportion rose/fell, the proportion of urban population).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 12, Unit 4: dùng trong bài viết mô tả biểu đồ đường và thống kê dân số đô thị (The proportion rose/fell, the proportion of urban population).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Tỉ lệ thức' trong Toán học.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục VI), tr. 56; SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục VII), tr. 58; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 150
+
+### prosperity
+- **Tiếng Việt:** sự thịnh vượng, sự phồn vinh
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /prɒˈsperəti/ — The state of being successful, flourishing, and having plenty of money and good fortune.
+- **Giải thích (VI):** (danh từ) Tình trạng làm ăn phát đạt, cuộc sống sung túc, giàu có và phồn vinh.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng khi giải thích ý nghĩa biểu trưng của bánh trung thu là biểu tượng của mặt trăng, sự thịnh vượng và đoàn viên gia đình (the symbol of the moon, prosperity and family reunion).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9 (Mục COMMUNICATION), tr. 97, 98; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### protect
 - **Tiếng Việt:** bảo vệ
@@ -5309,6 +7080,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (động từ) Giữ gìn, bảo vệ cho môi trường tự nhiên, động thực vật hoặc con người được an toàn trước nguy cơ bị hư hại hay tổn thương.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 10 (Ecotourism): động từ trọng tâm thể hiện mục tiêu cốt lõi của du lịch sinh thái (protect the environment, protect wildlife, protect the coral reef).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 10 (Mục II), tr. 112; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục III), tr. 113; SGK Tiếng Anh 10 Global Success, Unit 10 (Mục III), tr. 114
+
+### protein (English)
+- **Tiếng Việt:** chất đạm; prô-tê-in
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈprəʊtiːn/ — An essential nutrient found in foods such as meat, fish, eggs, beans, and tofu that helps the body grow and stay strong.
+- **Giải thích (VI):** (danh từ) Dưỡng chất đạm thiết yếu có trong thịt, cá, trứng, các loại đậu... giúp xây dựng và duy trì sự phát triển của cơ thể.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng khi nói về chế độ dinh dưỡng lành mạnh trong câu 'Tofu has vegetable protein and vitamin B.' (tr. 22).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Protein' trong Hóa học.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 22; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### proud
+- **Tiếng Việt:** tự hào
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /praʊd/ — Feeling pleased and satisfied about something good that you or people connected with you have done.
+- **Giải thích (VI):** (tính từ) Cảm thấy hài lòng, hãnh diện và tự hào vì bản thân hoặc tập thể đã làm được những việc tốt đẹp, có ích.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): dùng để miêu tả cảm xúc tích cực của học sinh khi tham gia hoạt động cộng đồng trong câu 'They feel useful and proud because they do good things'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 34; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### provide
+- **Tiếng Việt:** cung cấp
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /prəˈvaɪd/ — To give someone something that they need or can use.
+- **Giải thích (VI):** (động từ) Cung cấp, chu cấp những vật dụng, thực phẩm hoặc điều kiện cần thiết cho người khác.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong cấu trúc 'provide something for somebody' ở chủ đề thiện nguyện như 'We provided food for homeless children last Tet holiday'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 31; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### psychology
 - **Tiếng Việt:** ngành tâm lí học
@@ -5334,6 +7131,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 7: dùng trong chủ đề tổ chức và truyền thông sự kiện, xuất hiện trong các cụm 'in charge of the publicity' (phụ trách khâu quảng bá) và 'audience and publicity' (khán giả và độ thu hút công chúng).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7, tr. 88; SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục I), tr. 88; SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục I), tr. 88, 89
 
+### puppet
+- **Tiếng Việt:** con rối
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈpʌpɪt/ — A model of a person or an animal that can be made to move by strings, rods, or a hand inside it.
+- **Giải thích (VI):** (danh từ) Hình nhân mô phỏng người hoặc vật được nghệ nhân điều khiển chuyển động bằng dây kéo, que tre hoặc bàn tay khi biểu diễn sân khấu.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng trong các cụm 'puppet theatre', 'water puppet show' và bài đọc về cách nghệ nhân điều khiển con rối trên mặt nước ('control the puppets').
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 41; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 42; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 46; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### pursue
 - **Tiếng Việt:** theo đuổi
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -5349,6 +7154,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm động từ) Thu dọn và xếp lại đồ đạc, đồ chơi vào đúng vị trí quy định sau khi sử dụng xong.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 12 (Robots): dùng khi liệt kê khả năng dọn dẹp đồ chơi của người máy gia đình (put toys away).
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 12, tr. 58, 59; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71
+
+### put on weight
+- **Tiếng Việt:** tăng cân
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (vp) /pʊt ɒn weɪt/ — To become heavier in body mass, especially as a result of eating too much or exercising too little.
+- **Giải thích (VI):** (cụm động từ) Trở nên nặng cân hơn, tăng trọng lượng cơ thể do ăn nhiều đồ ngọt, chất béo hoặc ít vận động.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng trong chủ đề kiểm soát cân nặng như 'Eat less sweetened food, and you won't put on weight.' (tr. 24, 26).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 26
 
 ### put out the rubbish
 - **Tiếng Việt:** đổ rác, mang rác đi đổ
@@ -5400,6 +7213,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong Unit 4, 'raise' mang nghĩa ngoại động từ 'quyên góp, gây quỹ' (raise money), phân biệt với nghĩa thông thường là 'giơ/nâng lên' hoặc 'nuôi nấng' (raise children).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục III), tr. 45, 46; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126
 
+### raise money
+- **Tiếng Việt:** gây quỹ; quyên góp tiền
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (vp) /reɪz ˈmʌni/ — To collect money from different people or through events in order to support a charity or cause.
+- **Giải thích (VI):** (cụm động từ) Vận động quyên góp hoặc tổ chức các hoạt động bán hàng, hội chợ để gây quỹ ủng hộ cho mục đích từ thiện.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong chủ đề dự án cộng đồng của học sinh như 'make and sell postcards to raise money for local children', 'raise money for the homeless'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 34
+
 ### RAM
 - **Tiếng Việt:** bộ nhớ khả biến (máy tính)
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -5448,6 +7269,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 3: dùng trong chủ đề các cuộc thi âm nhạc thực tế trên truyền hình như 'American Idol' và 'Vietnam Idol' ('reality competitions on TV').
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục III), tr. 31, 32
 
+### recipe
+- **Tiếng Việt:** công thức nấu ăn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈresɪpi/ — A set of instructions that tells you how to cook something and the ingredients you need for it.
+- **Giải thích (VI):** (danh từ) Bản hướng dẫn chi tiết danh sách nguyên liệu kèm định lượng và các bước thực hiện để chế biến một món ăn.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi thực hành lượng từ và hỏi đáp về cách chế biến món ăn (need some apples for this recipe).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 53; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 53, 54
+
 ### recognition
 - **Tiếng Việt:** sự nhận diện; sự nhận dạng
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -5463,8 +7292,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (v) /ˌriːˈsaɪkl/ — To treat used materials or waste such as paper, plastic, and glass so that they can be used to create new products.
 - **Giải thích (VI):** (động từ) Xử lý các vật liệu đã qua sử dụng như giấy, nhựa, thủy tinh để sản xuất thành những sản phẩm mới.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 11 (Our greener world): dùng trong bộ ba nguyên tắc bảo vệ môi trường 3Rs (Reduce – Reuse – Recycle).
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 11, tr. 48, 50; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (v) /ˌriːˈsaɪkl/ — To treat or process used materials such as plastic, paper, or glass so that they can be used again to make new items. / VI: (động từ) Xử lý hoặc chế biến các vật liệu đã qua sử dụng như chai nhựa, giấy cũ để tạo thành những vật dụng mới có ích.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 11 (Our greener world): dùng trong bộ ba nguyên tắc bảo vệ môi trường 3Rs (Reduce – Reuse – Recycle).
+  - Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong chủ đề hoạt động bảo vệ môi trường như thu gom và tái chế chai nhựa ('recycle plastic bottles', 'picked up bottles around our area and recycled them').
+  - *Lưu ý:* Phân biệt 'recycle' (tái chế phế liệu thành sản phẩm mới, như làm lọ hoa từ vỏ chai nhựa) với 'reuse' (tái sử dụng lại đồ vật cũ mà không qua chế biến, trang 31).
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 11, tr. 48, 50; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 29; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 31; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3 (Mục LOOKING BACK), tr. 36
 
 ### recycling bin
 - **Tiếng Việt:** thùng đựng rác tái chế
@@ -5479,8 +7312,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (v) /rɪˈdjuːs/ — To make something smaller in size, amount, or degree, or to use less of something.
 - **Giải thích (VI):** (động từ) Làm giảm bớt số lượng, mức độ tiêu thụ tài nguyên hoặc lượng rác thải phát sinh hằng ngày.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 11 (Our greener world): dùng trong nguyên tắc đầu tiên của 3Rs nhằm hạn chế tiêu thụ điện, nước và túi ni-lông (Reduce: use less of something).
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 11, tr. 48, 50; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (v) /rɪˈdjuːs/ — To make something smaller or less in size, amount, or level of use. / VI: (động từ) Cắt giảm, làm bớt đi số lượng, quy mô hoặc mức độ tiêu thụ của một thứ gì đó.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 11 (Our greener world): dùng trong nguyên tắc đầu tiên của 3Rs nhằm hạn chế tiêu thụ điện, nước và túi ni-lông (Reduce: use less of something).
+  - Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) và bài tập thì hiện tại tiếp diễn nói về việc cắt giảm các nguồn năng lượng gây ô nhiễm hoặc kém an toàn (reducing the use of nuclear energy).
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 11, tr. 48, 50; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 106; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 107; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### refillable
 - **Tiếng Việt:** có thể làm đầy lại; tái nạp được
@@ -5572,6 +7408,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 4 (For a better community): dùng phổ biến trong cụm remote areas khi nói về trường học và trẻ em ở vùng sâu, vùng xa cần được giúp đỡ (located in a remote area, children in remote areas).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục II), tr. 44; SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục V), tr. 47; SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục VII), tr. 49, 50; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126
 
+### renewable
+- **Tiếng Việt:** có thể tái tạo
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /rɪˈnjuːəbl/ — (Of energy or natural resources) naturally replenished and not used up when exploited, such as wind or sunlight.
+- **Giải thích (VI):** (tính từ) (Chỉ nguồn năng lượng hoặc tài nguyên) có thể tự tái tạo, bổ sung liên tục trong tự nhiên và không lo cạn kiệt.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) để phân loại nhóm năng lượng sạch như mặt trời, gió và nước (renewable sources; renewable energy).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 104; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 105; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 110; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
 ### rent
 - **Tiếng Việt:** thuê (động từ)
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -5597,6 +7441,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (tính từ) Có tính chất thực hiện hoặc nói đi nói lại cùng một thao tác, nội dung nhiều lần dễ gây cảm giác đơn điệu, nhàm chán.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 5: dùng trong phần nói bày tỏ quan điểm về đặc thù của các công việc khác nhau (explain the same thing over and over again; get very repetitive).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục IV), tr. 66; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 150
+
+### replace (English)
+- **Tiếng Việt:** thay thế
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /rɪˈpleɪs/ — To take the place of something old or depleted, or to put something new in its place.
+- **Giải thích (VI):** (động từ) Đưa một nguồn hoặc vật mới vào sử dụng thay cho cái cũ đã hao hụt hoặc lỗi thời.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) khi nói về nỗ lực tìm nguồn năng lượng mới thay cho than đá và khí đốt (new energy sources to replace coal and gas).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Thay thế' trong Tin học.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 104; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 106; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 107; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### Reported speech
 - **Tiếng Việt:** câu tường thuật; lời nói gián tiếp
@@ -5641,12 +7495,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 1, tr. 8; SGK Tiếng Anh 12 Global Success, Unit 1 (Mục I), tr. 8, 9
 
 ### resource
-- **Tiếng Việt:** tài nguyên; nguồn lực
+- **Tiếng Việt:** tài nguyên; nguồn lực (tài nguyên; nguồn học liệu)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /rɪˈsɔːs/, /rɪˈzɔːs/ — A useful supply of something such as water, land, minerals, or forests that exists in nature or a country and supports life and development.
 - **Giải thích (VI):** (danh từ) Nguồn vật chất quý giá sẵn có trong tự nhiên hoặc xã hội (như nước, rừng, khoáng sản) phục vụ đời sống và sự phát triển của con người.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 2: dùng phổ biến ở dạng số nhiều trong cụm protect natural resources such as water and trees (bảo vệ tài nguyên thiên nhiên như nguồn nước và cây xanh).
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục III), tr. 22; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục IV), tr. 23; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /rɪˈsɔːs/, /rɪˈzɔːs/ — Useful materials, books, equipment, or information available to help people study or achieve something. / VI: (danh từ) Nguồn tài liệu, sách vở, học liệu số hoặc phương tiện hữu ích hỗ trợ cho việc học tập và nghiên cứu (thường dùng ở dạng số nhiều resources).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 2: dùng phổ biến ở dạng số nhiều trong cụm protect natural resources such as water and trees (bảo vệ tài nguyên thiên nhiên như nguồn nước và cây xanh).
+  - Tiếng Anh lớp 7, Unit 6: dùng trong phần giao tiếp khi giới thiệu thư viện và nguồn học liệu của nhà trường cho bạn bè quốc tế (learning resources, school resources).
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục III), tr. 22; SGK Tiếng Anh 10 Global Success, Unit 02, Unit 2 (Mục IV), tr. 23; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6 (Mục COMMUNICATION), tr. 65; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### respect
 - **Tiếng Việt:** tôn trọng, ghi nhận (động từ)
@@ -5665,12 +7522,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục II), tr. 103; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục III), tr. 103; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục III), tr. 103, 104
 
 ### responsibility
-- **Tiếng Việt:** trách nhiệm, bổn phận
+- **Tiếng Việt:** trách nhiệm, bổn phận (trách nhiệm; sự chịu trách nhiệm)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /rɪˌspɒnsəˈbɪləti/ — A moral or practical duty to deal with something or take care of someone.
 - **Giải thích (VI):** (danh từ) Bổn phận, nghĩa vụ phải đảm nhận công việc hoặc chịu trách nhiệm về hành động của bản thân.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 1 (Family life): dùng trong chủ đề chia sẻ việc nhà để rèn luyện tinh thần trách nhiệm cho người trẻ (the responsibility of wives and mothers, learn to take responsibility).
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 11; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 11, 12; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục IV), tr. 12
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /rɪˌspɒnsəˈbɪləti/ — The duty of taking care of someone or something and being accountable for what happens. / VI: (danh từ) Bổn phận, nghĩa vụ phải chăm sóc hay đảm đương công việc và chịu trách nhiệm về kết quả.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 1 (Family life): dùng trong chủ đề chia sẻ việc nhà để rèn luyện tinh thần trách nhiệm cho người trẻ (the responsibility of wives and mothers, learn to take responsibility).
+  - Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) ở bài đọc nói về bài học tinh thần trách nhiệm khi chăm sóc cây trồng (take on responsibility; lessons about responsibility).
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 11; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 11, 12; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục IV), tr. 12; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 14; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### responsible
 - **Tiếng Việt:** có trách nhiệm
@@ -5710,14 +7570,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3, tr. 32; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục II), tr. 34; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục II), tr. 34, 35; SGK Tiếng Anh 6 Global Success Tập 2, Unit 11, tr. 48, 50, 54; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71
 
 ### review
-- **Tiếng Việt:** bài đánh giá; bài điểm bình
+- **Tiếng Việt:** bài đánh giá; bài điểm bình (bài phê bình, đánh giá; về một bộ phim)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /rɪˈvjuː/ — A report in a newspaper, magazine, or website that gives an opinion about a new product, book, film, or performance.
 - **Giải thích (VI):** (danh từ) Bài viết trên báo chí hoặc trang mạng nhằm nhận xét, đánh giá chất lượng của một sản phẩm mới, cuốn sách hay bộ phim.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /rɪˈvjuː/ — A report in a newspaper, magazine, or website that gives someone's opinion and assessment of a film, book, or play. / VI: (danh từ) Bài viết nhận xét, bình luận chuyên môn hoặc ý kiến đánh giá của khán giả về chất lượng một bộ phim.
 - **Bối cảnh:**
   - Tiếng Anh lớp 12, Unit 5 (The world of work): dùng trong quảng cáo tuyển người viết bài đánh giá sản phẩm công nghệ cho tạp chí trực tuyến (writing reviews of electronic products, comment on your reviews).
+  - Tiếng Anh lớp 7, Unit 8 (Films): dùng trong hội thoại chọn phim và bài đọc hiểu một bài điểm phim trên trang cá nhân (What are the reviews like?, received a lot of good reviews).
   - *Lưu ý:* Trong bài đọc Unit 5 chỉ bài nhận xét, đánh giá sản phẩm (product review); phân biệt với nghĩa sự ôn tập bài vở chuẩn bị cho kì thi.
-- **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5, tr. 60; SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục II), tr. 63; SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục III), tr. 64
+  - *Lưu ý:* Trong chủ đề điện ảnh chỉ 'bài phê bình, nhận xét về bộ phim' (thường gặp dạng số nhiều reviews); phân biệt với nghĩa 'bài ôn tập kiến thức' trong chương trình học.
+- **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5, tr. 60; SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục II), tr. 63; SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục III), tr. 64; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 82; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 83; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 87; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### rewarding
 - **Tiếng Việt:** bổ ích; đáng làm
@@ -5744,6 +7607,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 6, Unit 9 (Cities of the world): dùng để miêu tả vị trí các công trình bên dòng sông như 'This tower is on the bank of the River Thames in London.'.
   - *Lưu ý:* Phân biệt danh từ 'bank' (bờ sông) với từ đồng âm 'bank' (ngân hàng), đồng thời phân biệt 'river bank' (bờ sông) với 'coast' (bờ biển) và 'beach' (bãi biển).
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9 (Mục COMMUNICATION), tr. 31; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9 (Mục LOOKING BACK), tr. 34; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70
+
+### road sign
+- **Tiếng Việt:** biển báo giao thông
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈrəʊd saɪn/ — A board placed beside or above a road that gives instructions, warnings, or information to road users (also called traffic sign /ˈtræfɪk saɪn/).
+- **Giải thích (VI):** (danh từ) Biển hiệu đặt dọc đường bộ nhằm thông báo lệnh cấm, cảnh báo nguy hiểm hoặc chỉ dẫn cho người tham gia giao thông (đồng nghĩa với traffic sign).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong phần A Closer Look 1, Looking Back và Project khi nhận diện ý nghĩa các biển báo đường bộ (No right turn, Cycle lane, School ahead).
+  - *Lưu ý:* Đồng nghĩa hoàn toàn với cụm từ traffic sign (/ˈtræfɪk saɪn/) trong bài học.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 72; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 74; SGK Tiếng Anh 7 Global Success, Unit 7 (Mục LOOKING BACK), tr. 80; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
+### roast
+- **Tiếng Việt:** quay; nướng (tính từ)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /rəʊst/ — Cooked in an oven or over a fire, especially referring to meat or poultry.
+- **Giải thích (VI):** (tính từ) Được làm chín vàng thơm bằng cách quay trên lửa hoặc nướng trong lò, thường dùng cho các món thịt và gia cầm.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi gọi món tại nhà hàng (an order of roast chicken).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50, 51; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### robot (English)
 - **Tiếng Việt:** người máy; rô-bốt
@@ -5773,6 +7654,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Đá' trong Địa lí.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 49; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 51; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71
 
+### roof
+- **Tiếng Việt:** nóc xe; mái nhà
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ruːf/ — The top outer structure that covers a vehicle or a building.
+- **Giải thích (VI):** (danh từ) Phần che phủ phía trên cùng của một chiếc xe ô tô (nóc xe) hoặc một ngôi nhà, công trình kiến trúc (mái nhà).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong phần Communication đọc về những luật giao thông kỳ lạ trên thế giới (drive with a dog on the roof of your car).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7 (Mục COMMUNICATION), tr. 77; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### routine
 - **Tiếng Việt:** lệ thường, công việc hằng ngày
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -5780,6 +7669,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Thói quen, lệ thường hoặc công việc sinh hoạt được lặp lại đều đặn theo lịch trình cố định.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 1 (Family life): dùng trong chủ đề viết về nếp sinh hoạt chung gắn kết các thành viên trong gia đình (family routines, daily routines).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1, tr. 8; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục V), tr. 13; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục VI), tr. 14
+
+### royal
+- **Tiếng Việt:** thuộc hoàng gia; hoàng tộc
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈrɔɪəl/ — Connected with or belonging to a king, a queen, or a member of their family.
+- **Giải thích (VI):** (tính từ) Thuộc về hoặc có liên quan đến nhà vua, nữ hoàng hay các thành viên trong gia tộc hoàng thất.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 6: dùng trong bài đọc lịch sử trường Quốc Học – Huế khi miêu tả đối tượng học sinh thời xưa (children from rich and royal families).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 66; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### Royal Palace
 - **Tiếng Việt:** Cung điện Hoàng gia
@@ -5821,6 +7718,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong ngữ cảnh lịch sử (Unit 1), 'rule' mang nghĩa 'trị vì, sự cai trị', phân biệt với nghĩa thông dụng là 'quy tắc, nội quy'.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 1 (Mục VII), tr. 17, 18
 
+### run on
+- **Tiếng Việt:** chạy bằng (nhiên liệu; năng lượng)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (phr v) /rʌn ɒn/ — To use a particular type of fuel or power source in order to operate.
+- **Giải thích (VI):** (cụm động từ) Vận hành, hoạt động nhờ vào một nguồn nhiên liệu hoặc năng lượng cụ thể như xăng, điện hay năng lượng mặt trời.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng phổ biến trong cấu trúc run on + petrol / electricity / solar energy (ví dụ: A solowheel runs on electricity, so it is safe for the environment).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 115; SGK Tiếng Anh 7 Global Success, Unit 11 (Mục LOOKING BACK), tr. 122; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
 ### runner-up
 - **Tiếng Việt:** á quân, người về nhì
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -5828,6 +7733,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Thí sinh hoặc đội thi xếp vị trí ngay sau quán quân trong một cuộc tranh tài (dạng số nhiều là 'runners-up').
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 3: dùng trong phần nói về cơ cấu giải thưởng của chương trình truyền hình âm nhạc ('decide on the winner and two runners-up').
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục IV), tr. 32
+
+### rural area
+- **Tiếng Việt:** vùng nông thôn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈrʊərəl ˈeəriə/ — A geographic region located in the countryside rather than in a town or city.
+- **Giải thích (VI):** (cụm danh từ) Khu vực địa lý thuộc miền quê, nông thôn, tách biệt với các đô thị lớn.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong chủ đề quyên góp sách giáo khoa cũ cho trẻ em vùng quê với câu 'We donate old textbooks to children in rural areas'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 30, 31; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 32; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### rush hour
 - **Tiếng Việt:** giờ cao điểm
@@ -5837,6 +7750,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 4: dùng trong chủ đề đô thị hóa khi phản ánh tình trạng ùn tắc giao thông nghiêm trọng ở thành phố lớn (especially during rush hour).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục I), tr. 49; SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục II), tr. 49; SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục II), tr. 49, 50
 
+### rush hours
+- **Tiếng Việt:** giờ cao điểm
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈrʌʃ aʊəz/ — The busiest times of the day, usually in the morning and evening, when roads are full of people travelling to and from work or school.
+- **Giải thích (VI):** (cụm danh từ) Khung giờ đông đúc nhất trong ngày (thường vào đầu giờ sáng và cuối giờ chiều) khi lượng người đi làm, đi học đổ ra đường gây ùn tắc giao thông.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong bài tập đọc hiểu hội thoại Getting Started nói về tình trạng đường phố đông đúc (during the rush hours).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 73
+
+### safety
+- **Tiếng Việt:** sự an toàn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈseɪfti/ — The state of being protected from danger, risk, or injury.
+- **Giải thích (VI):** (danh từ) Trạng thái được bảo vệ khỏi nguy hiểm, rủi ro hoặc tai nạn thương tích khi sinh hoạt và tham gia giao thông.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong chủ đề an toàn giao thông đường bộ và luyện phát âm nguyên âm đôi /eɪ/ (for our safety, rules about road safety).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 74; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 78; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
+### sail
+- **Tiếng Việt:** lướt buồm; đi tàu thuyền trên biển
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /seɪl/ — To travel across water in a boat or ship, or to control a vessel moving on the sea.
+- **Giải thích (VI):** (động từ) Di chuyển trên mặt nước bằng thuyền buồm hoặc điều khiển tàu thủy vượt biển.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng trong bảng kết hợp động từ với phương tiện giao thông đường thủy như sail a boat, sail a solar-powered ship (ví dụ: It sails on the sea. It needs wind to sail).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 115; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 116; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### salt
+- **Tiếng Việt:** muối
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /sɔːlt/ — A white crystalline substance obtained from seawater or mines, used for seasoning or preserving food.
+- **Giải thích (VI):** (danh từ) Tinh thể màu trắng có vị mặn khai thác từ nước biển hoặc mỏ muối, dùng làm gia vị thiết yếu để nêm nếm và bảo quản thực phẩm.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi định lượng gia vị nấu ăn và luyện âm /ɔː/ (a teaspoon of salt).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 54; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5 (Mục LOOKING BACK), tr. 58
+
 ### sandy
 - **Tiếng Việt:** có cát, phủ đầy cát
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -5845,6 +7790,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 4 (My neighbourhood): dùng trong bài đọc miêu tả cảnh đẹp vùng ngoại ô Đà Nẵng ("sandy beaches").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 44; SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 45; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71
 
+### sauce
+- **Tiếng Việt:** nước chấm; nước xốt
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /sɔːs/ — A thick or liquid condiment served with food or used in cooking to add flavour.
+- **Giải thích (VI):** (danh từ) Chất lỏng hoặc hỗn hợp sánh dùng để chấm trực tiếp hay nêm vào món ăn khi chế biến nhằm tăng hương vị đậm đà.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống, đặc biệt trong cụm từ chỉ nước mắm Việt Nam và luyện âm /ɔː/ (fish sauce, a bottle of fish sauce).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50, 51; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 52
+
 ### Save the Children
 - **Tiếng Việt:** Tổ chức Cứu trợ Trẻ em
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -5852,6 +7805,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ riêng) Tổ chức phi chính phủ quốc tế được thành lập tại Vương quốc Anh năm 1919, hoạt động tại khoảng 120 quốc gia (bắt đầu tại Việt Nam từ năm 1990) nhằm chăm sóc, bảo vệ và nâng cao cơ hội giáo dục cho trẻ em.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 4 (For a better community): chủ đề mục Culture giới thiệu sự ra đời và các dự án hỗ trợ giáo dục, kĩ năng cứu sinh cho trẻ em của tổ chức Save the Children tại Việt Nam.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4, tr. 42; SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục VII), tr. 49, 50
+
+### scary
+- **Tiếng Việt:** đáng sợ, rùng rợn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈskeəri/ — Frightening and making people feel afraid.
+- **Giải thích (VI):** (tính từ) Gây cảm giác sợ hãi, hồi hộp hoặc rùng rợn cho người xem (từ thông dụng trong giao tiếp, đồng nghĩa với frightening).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 8 (Films): dùng trong hội thoại Getting Started để từ chối xem phim kinh dị và luyện nguyên âm đôi /eə/ (That's too scary for me).
+  - *Lưu ý:* Phân biệt scary (đáng sợ — chỉ đặc điểm bộ phim, sự vật) với scared (cảm thấy sợ — chỉ cảm xúc của người).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 82; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### scenery
 - **Tiếng Việt:** phong cảnh, cảnh sắc thiên nhiên
@@ -5879,6 +7842,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 1 (My new school): dùng trong hội thoại mở đầu và bài tập nhận diện đồ dùng học tập ('Hmm, your school bag looks heavy').
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 1, tr. 6, 7
 
+### school garden
+- **Tiếng Việt:** vườn trường
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈskuːl ˈɡɑːdn/ — An outdoor area on school grounds where students plant and care for flowers, trees, or vegetables.
+- **Giải thích (VI):** (cụm danh từ) Khu đất trồng hoa, cây xanh hoặc rau củ trong khuôn viên trường để tạo cảnh quan và giúp học sinh thực hành trải nghiệm ngoài trời.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 6: dùng trong chủ đề hoạt động ngoài trời và luyện tập giới từ chỉ nơi chốn (in the school garden, grow vegetables in the school garden).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 61; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 63; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 63, 64
+
+### school library
+- **Tiếng Việt:** thư viện trường
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈskuːl ˈlaɪbrəri/ — A room or building in a school containing collections of books, magazines, newspapers, and learning resources for students and teachers.
+- **Giải thích (VI):** (cụm danh từ) Phòng hoặc tòa nhà trong khuôn viên trường nơi lưu trữ sách báo, tạp chí và nguồn học liệu phục vụ học sinh, giáo viên đọc và mượn tài liệu.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 6: dùng trong chủ đề chuyến thăm trường học và giới thiệu địa điểm tham quan trong trường (show them the school library, in the school library).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 60; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 60, 61; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 61
+
 ### school lunch
 - **Tiếng Việt:** bữa trưa ở trường
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -5886,6 +7865,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Bữa ăn buổi trưa dành cho học sinh tại căng-tin hoặc khu bán trú của nhà trường.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 1 (My new school): dùng trong bảng kết hợp động từ 'have school lunch' và câu ví dụ thì hiện tại đơn ('I don't like school lunch very much').
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 1, tr. 8, 9, 10
+
+### science fiction (English)
+- **Tiếng Việt:** thể loại phim khoa học viễn tưởng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈsaɪəns ˈfɪkʃən/ — A genre of films or books about imagined future events, space travel, robots, and advanced scientific developments.
+- **Giải thích (VI):** (danh từ) Thể loại phim hoặc truyện lấy bối cảnh tương lai xoay quanh các thành tựu khoa học giả định, robot và du hành vũ trụ (thường ghép thành science fiction film hoặc viết tắt là sci-fi).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 8 (Films): dùng khi phân loại các thể loại điện ảnh (A film that is set in the future, often about science, is a science fiction film).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Truyện khoa học viễn tưởng' trong Ngữ văn.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 83; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 89; SGK Tiếng Anh 7 Global Success, Unit 8 (Mục LOOKING BACK), tr. 90; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### scissors
 - **Tiếng Việt:** cái kéo
@@ -5905,6 +7894,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Ngoài chức năng động từ (ghi bàn, ghi điểm), 'score' còn là danh từ chỉ tỉ số hoặc điểm số.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 19; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 19, 20; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 22
 
+### Scottish kilt
+- **Tiếng Việt:** váy kẻ Xcốt-len; váy truyền thống của đàn ông Xcốt-len
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˌskɒtɪʃ ˈkɪlt/ — A traditional knee-length pleated skirt made of tartan wool fabric, worn by men in Scotland on formal or festive occasions.
+- **Giải thích (VI):** (cụm danh từ) Trang phục váy xếp li kẻ ca-rô dài ngang gối làm bằng vải len, được nam giới xứ Scotland mặc trong các dịp lễ hội truyền thống.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng trong chủ đề trang phục và văn hoá đặc trưng của xứ Scotland (tr. 126, 128, 132).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 128
+
+### sculpture
+- **Tiếng Việt:** điêu khắc; tác phẩm điêu khắc
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈskʌlptʃə/ — A work of art that is a solid figure or object made by carving or shaping stone, wood, clay, or metal, or the art of making such objects.
+- **Giải thích (VI):** (danh từ) Nghệ thuật điêu khắc hoặc bức tượng, tác phẩm tạo hình khối được tạc từ đá, gỗ, đất sét hay kim loại.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): dùng để kể tên các loại hình tác phẩm trưng bày trong bảo tàng mỹ thuật 'It exhibits sculptures, objects of art, paintings, drawings...'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4 (Mục LOOKING BACK), tr. 48; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### sea turtle
 - **Tiếng Việt:** rùa biển
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -5913,6 +7918,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 8: dùng trong bản tin về chiến dịch tình nguyện bảo tồn sinh vật biển tại Côn Đảo ('sea turtle conservation activities' — các hoạt động bảo tồn rùa biển).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục II), tr. 103; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục III), tr. 104; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục III), tr. 105
 
+### seatbelt
+- **Tiếng Việt:** đai an toàn; dây an toàn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈsiːtbelt/ — A strap attached to a seat in a car or plane that you fasten across your body to keep you safe in an accident.
+- **Giải thích (VI):** (danh từ) Dây đai bảo hiểm gắn ở ghế ngồi trên ô tô hoặc máy bay dùng để thắt ngang người nhằm giữ an toàn khi phanh gấp hoặc xảy ra va chạm.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong bài đọc Skills 1 về quy tắc an toàn đối với hành khách ngồi trên ô tô (Fasten your seatbelt when you are in a car).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 78; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### seek (English)
 - **Tiếng Việt:** tìm kiếm
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -5920,6 +7933,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (động từ) Cố gắng tìm kiếm hoặc theo đuổi để đạt được một điều gì đó như việc làm hay cơ hội phát triển.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 4: dùng trong chủ đề di cư từ nông thôn ra thành thị để tìm cơ hội đổi đời (seek better opportunities, seek better jobs).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục II), tr. 50; SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục II), tr. 50, 51; SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục III), tr. 52
+
+### self-balancing
+- **Tiếng Việt:** tự cân bằng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˌself ˈbælənsɪŋ/ — Able to stay upright automatically using built-in sensors without the rider having to balance manually.
+- **Giải thích (VI):** (tính từ) Có cơ chế tự động giữ thăng bằng giúp người điều khiển không bị ngã khi đứng trên hoặc đeo thiết bị di chuyển.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng trong mục Communication để giải thích độ an toàn của walkcar và bamboo-copter (ví dụ: Won't riders fall off it? — No, they won't. It is self-balancing).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11 (Mục COMMUNICATION), tr. 119
 
 ### self-motivated learning
 - **Tiếng Việt:** học tập tự giác
@@ -5954,12 +7975,36 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8, tr. 86; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục I), tr. 87; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục II), tr. 87
 
 ### series
-- **Tiếng Việt:** loạt chương trình, phim dài tập
+- **Tiếng Việt:** loạt chương trình, phim dài tập (loạt phim; chuỗi chương trình)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈsɪəriːz/ — A set of television or radio programmes that deal with the same subject or feature the same characters.
 - **Giải thích (VI):** (danh từ) Chuỗi các chương trình truyền hình, phát thanh hoặc tập phim có cùng chủ đề hay tuyến nhân vật (giữ nguyên hình thức ở cả số ít và số nhiều).
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 3: dùng trong bài đọc về sự ra đời của chương trình 'American Idol' ('At that time, there were many movies and TV series, but no reality competitions on TV').
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục III), tr. 31
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈsɪəriːz/ — A set of related films, books, or television programmes that tell stories about the same characters. / VI: (danh từ) Chuỗi các bộ phim hoặc tập truyện nối tiếp nhau cùng xoay quanh một tuyến nhân vật và bối cảnh chung (hình thức số ít và số nhiều giống nhau).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 3: dùng trong bài đọc về sự ra đời của chương trình 'American Idol' ('At that time, there were many movies and TV series, but no reality competitions on TV').
+  - Tiếng Anh lớp 7, Unit 8 (Films): dùng trong bài đọc giới thiệu tập đầu tiên thuộc loạt phim điện ảnh Harry Potter (the Harry Potter film series) và luyện phát âm nguyên âm đôi /ɪə/.
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục III), tr. 31; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 87, 88
+
+### service (English)
+- **Tiếng Việt:** dịch vụ; tiện ích
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈsɜːvɪs/ — A system or organization that provides something useful needed by the public or by members of an institution.
+- **Giải thích (VI):** (danh từ) Hệ thống tiện ích phục vụ nhu cầu thiết yếu của học sinh và giáo viên trong nhà trường như thư viện, y tế học đường hay căng tin.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 6: dùng trong chủ đề trường học khi định nghĩa các yếu tố cấu thành cơ sở vật chất nhà trường (buildings, services, equipment at a school).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Dịch vụ' trong Giáo dục Kinh tế và Pháp luật.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6 (Mục LOOKING BACK), tr. 68; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
+### set (English)
+- **Tiếng Việt:** lặn (động từ; chỉ mặt trời)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /set/ — (Of the sun or moon) to go down below the horizon at the end of the day.
+- **Giải thích (VI):** (động từ) (Mặt trời, mặt trăng) di chuyển khuất dần xuống dưới đường chân trời vào buổi chiều tối.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 1: dùng trong phần ngữ pháp thì hiện tại đơn (A Closer Look 2) để lấy ví dụ về quy luật tự nhiên hiển nhiên (the sun sets in the west every evening).
+  - *Lưu ý:* Trong bài học này, 'set' là nội động từ bất quy tắc (set – set – set) chỉ mặt trời lặn (trái nghĩa với 'rise'); cần phân biệt với ngoại động từ 'set' (đặt, thiết lập) và danh từ 'set' (bộ, tập hợp).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Tập hợp' trong Toán học.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 12; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### set up
 - **Tiếng Việt:** thành lập; bố trí, lắp đặt
@@ -5982,10 +8027,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (v) /ʃeə/ — To let someone else have or use something that belongs to you, or to tell others about your ideas and thoughts.
 - **Giải thích (VI):** (động từ) Chia sẻ đồ dùng học tập với bạn bè hoặc trình bày, trao đổi ý kiến của mình trước tập thể lớp.
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (v) /ʃeə/ — To tell other people about your ideas, feelings, or experiences, or to use something together with others. / VI: (động từ) Trao đổi, bày tỏ ý tưởng, kinh nghiệm với người khác hoặc cùng nhau sử dụng chung một thứ gì đó.
 - **Bối cảnh:**
   - Tiếng Anh lớp 6, Unit 1 (My new school): dùng trong hoạt động giao tiếp ở lớp ('Do you share things with your classmates?', 'share them with the class').
+  - Tiếng Anh lớp 7, Unit 6: dùng trong đoạn hội thoại mở đầu khi nói về mục đích chuyến thăm trường bạn (share ideas for a project in our English class).
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Cổ phần' trong Giáo dục Kinh tế và Pháp luật.
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 1, tr. 11; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 70
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 1, tr. 11; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 70; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 60; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 60, 61; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### shelf
 - **Tiếng Việt:** kệ, giá
@@ -6013,6 +8060,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong Unit 5 mang nghĩa danh từ chỉ ca làm việc; phân biệt với nghĩa sự dịch chuyển, thay đổi (a shift in attitude) hoặc phím Shift trên bàn phím máy tính.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5, tr. 60; SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục I), tr. 60; SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục I), tr. 60, 61
 
+### shining
+- **Tiếng Việt:** chói chang, chan hòa ánh nắng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈʃaɪnɪŋ/ — Bright and full of sunlight, reflecting light strongly.
+- **Giải thích (VI):** (tính từ) Rực rỡ, sáng lấp lánh và ngập tràn ánh nắng mặt trời.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng trong bài đọc về New Zealand với nghĩa bright and sunny để miêu tả vẻ đẹp bãi biển (ví dụ: green mountains, shining beaches, high waterfalls, and ancient forests).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 130; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### shocking
+- **Tiếng Việt:** làm sửng sốt, gây sốc
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈʃɒkɪŋ/ — Very surprising, upsetting, and difficult to believe.
+- **Giải thích (VI):** (tính từ) Gây bàng hoàng, sửng sốt mạnh và khó tin đối với người xem hoặc người nghe.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 8 (Films): dùng trong nhóm tính từ mô tả ấn tượng về bộ phim tài liệu hoặc tin tức (I found the film A Polluted Planet hard to believe. It's a very shocking documentary).
+  - *Lưu ý:* Phân biệt shocking (gây sửng sốt — chỉ tính chất bộ phim, thông tin) với shocked (bị sốc, bàng hoàng — chỉ cảm xúc của người).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 84; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 89; SGK Tiếng Anh 7 Global Success, Unit 8 (Mục LOOKING BACK), tr. 90; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### shoot
 - **Tiếng Việt:** bắn, bắn súng; sút bóng
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -6036,6 +8101,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Tật khúc xạ ở mắt khiến người mắc chỉ nhìn rõ các vật ở gần nhưng nhìn mờ các vật ở xa.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 8: dùng trong phần Speaking khi thảo luận về tác hại sức khoẻ do ngồi trước màn hình máy tính nhiều giờ liền để học trực tuyến (can cause short-sightedness or backache).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục III), tr. 90; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục IV), tr. 90
+
+### should
+- **Tiếng Việt:** nên (động từ khuyết thiếu)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (modal v) /ʃʊd/ (negative: shouldn't /ˈʃʊdnt/) — A modal verb followed by a bare infinitive, used to give advice or say what is the right or best thing to do.
+- **Giải thích (VI):** (động từ khuyết thiếu) Động từ tình thái (dạng phủ định là should not hoặc shouldn't: không nên) đi trực tiếp với động từ nguyên thể không to cho mọi ngôi chủ ngữ, dùng để đưa ra lời khuyên hoặc nêu việc đúng đắn, an toàn nên hay không nên làm.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong chủ điểm ngữ pháp phần A Closer Look 2 (cùng dạng phủ định shouldn't) để khuyên nhủ về hành vi an toàn khi tham gia giao thông (We should go now; You shouldn't play football on the pavement).
+  - *Lưu ý:* Trong bài học đi thành cặp khẳng định should ('nên') và phủ định shouldn't /ˈʃʊdnt/ (viết tắt của should not: 'không nên').
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 72; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 75; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 76
 
 ### should and shouldn't
 - **Tiếng Việt:** nên; không nên (động từ khuyết thiếu)
@@ -6061,6 +8136,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 5 (Natural wonders of Viet Nam): dùng khi thuyết trình giới thiệu tranh ảnh về kì quan thiên nhiên ("This picture shows Tuan Chau, a large island.").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 48; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 48, 49; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71
 
+### shrimp
+- **Tiếng Việt:** tôm; con tôm
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ʃrɪmp/ — A small shellfish with a long body and tail that turns pink when cooked and is eaten as seafood.
+- **Giải thích (VI):** (danh từ) Loài giáp xác nhỏ sống dưới nước có thân cong nhiều đốt, chuyển sang màu hồng đỏ khi nấu chín và là nguyên liệu thủy sản phổ biến.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi lựa chọn nguyên liệu nấu canh chua tại nhà hàng (canh chua with shrimp).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50, 51; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 56
+
 ### shy
 - **Tiếng Việt:** xấu hổ, nhút nhát
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -6076,6 +8159,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Hệ thống giao tiếp trực quan sử dụng cử chỉ bàn tay, chuyển động cơ thể và nét mặt thay cho lời nói.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 8: dùng khi miêu tả trí thông minh vượt trội của các loài vượn lớn bên cạnh khả năng sử dụng công cụ ('learning sign language' — học ngôn ngữ kí hiệu).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8, tr. 100; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục I), tr. 100; SGK Tiếng Anh 12 Global Success, Unit 08, Unit 8 (Mục I), tr. 100, 101
+
+### signal
+- **Tiếng Việt:** tín hiệu, dấu hiệu
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈsɪɡnəl/ — A movement, light, or sound made to give information or tell other road users what you intend to do.
+- **Giải thích (VI):** (danh từ) Cử chỉ ra hiệu bằng tay hoặc đèn báo rẽ nhằm thông báo trước hướng di chuyển cho những người tham gia giao thông khác.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong bài đọc Skills 1 nêu quy tắc an toàn cho người đi xe đạp trước khi chuyển hướng (Give a signal before you turn).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 78; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
+### Simple sentences
+- **Tiếng Việt:** câu đơn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈsɪmpl ˈsentənsɪz/ — Sentences consisting of a single independent clause with a subject and a verb, optionally expanded with objects, adverbs, or compound subjects and verbs.
+- **Giải thích (VI):** (cụm danh từ) Kiểu câu chỉ chứa một mệnh đề độc lập gồm chủ ngữ và động từ (có thể mở rộng thêm tân ngữ, trạng ngữ hoặc chủ ngữ/vị ngữ ghép nối bằng 'and').
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): chủ điểm ngữ pháp trọng tâm ở mục A Closer Look 2 giúp học sinh nhận diện và viết câu đơn từ hai câu cho sẵn (tr. 18, 21, 22, 26).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 18; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 21; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 22
 
 ### single
 - **Tiếng Việt:** đĩa đơn
@@ -6108,6 +8207,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (tính từ) Có tay nghề thành thạo, tinh xảo và sự khéo léo cao khi thực hiện công việc chuyên môn.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 6 (Gender equality): dùng trong bài viết mô tả phẩm chất cần có của bác sĩ ngoại khoa (excellent eyesight and skilful hands).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục VI), tr. 72; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 128
+
+### skill
+- **Tiếng Việt:** kĩ năng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /skɪl/ — An ability to do an activity or job well, especially because you have practised it.
+- **Giải thích (VI):** (danh từ) Khả năng thực hiện tốt một công việc hay hoạt động nhờ quá trình học tập và rèn luyện thực tế.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): dùng để nói về lợi ích của hoạt động tình nguyện giúp học sinh tích lũy kĩ năng thực tế như 'We also had a lot of fun and learnt some skills'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 28, 29; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 35; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### skin condition
+- **Tiếng Việt:** tình trạng da; bệnh lí về da
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /skɪn kənˈdɪʃn/ — The state of health of a person's skin, or a specific medical problem affecting the skin such as acne or sunburn.
+- **Giải thích (VI):** (cụm danh từ) Trạng thái sức khoẻ của làn da hoặc một vấn đề, chứng bệnh cụ thể trên da như mụn trứng cá, da nứt nẻ hay cháy nắng.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng trong câu 'The weather may affect our skin condition.' và 'Acne is a skin condition.' (tr. 20, 23, 26).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 20; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 23; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 26; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### skyTran
+- **Tiếng Việt:** hệ thống tàu điện trên không
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /skaɪtræn/ — An elevated personal rapid transit system in which small electric pods hang from overhead magnetic tracks.
+- **Giải thích (VI):** (danh từ) Hệ thống giao thông cá nhân trên cao gồm các khoang tàu điện nhỏ treo dưới đường ray từ tính, giúp tiết kiệm diện tích mặt đất và tránh tắc đường.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng với động từ ride (ride a skyTran) khi nói về giao thông đô thị tương lai (ví dụ: SkyTrans will use less space and run on electricity).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 116; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 121; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### sleeping bag
 - **Tiếng Việt:** túi ngủ
@@ -6171,13 +8294,29 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 5 (Inventions): dùng xuyên suốt bài học để minh họa tiện ích truy cập Internet, học ngoại ngữ và liên lạc từ xa của điện thoại thông minh (Smartphones allow us to get access to the Internet anywhere; Smartphones are used for learning languages).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục I), tr. 52, 53; SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục V), tr. 57; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 127
 
-### social media
+### snack
+- **Tiếng Việt:** bữa ăn nhẹ; đồ ăn vặt
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /snæk/ — A small amount of food or a light meal eaten between main meals or in a hurry.
+- **Giải thích (VI):** (danh từ) Bữa ăn phụ nhỏ gọn, nhanh chóng ngoài ba bữa chính trong ngày hoặc dùng vào đêm muộn.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong bài đọc về việc thưởng thức phở vào bất kỳ thời điểm nào trong ngày (even for a late night snack).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 56
+
+### social media (English)
 - **Tiếng Việt:** mạng xã hội
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˌsəʊʃl ˈmiːdiə/ — Websites and applications that enable users to create and share content, information, and videos online.
 - **Giải thích (VI):** (danh từ) Các nền tảng trực tuyến cho phép người dùng tạo lập, đăng tải, chia sẻ thông tin và video cũng như tương tác với cộng đồng.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 3: dùng trong chủ đề lan toả âm nhạc thời hiện đại, kết hợp với giới từ 'on' trong cụm 'upload his cover song videos on social media'.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục I), tr. 28, 29; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125
+
+### soft drinks
+- **Tiếng Việt:** nước ngọt có ga; nước giải khát có đường
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈsɒft drɪŋks/ — Cold, non-alcoholic sweetened beverages that are usually carbonated and often unhealthy when consumed in excess.
+- **Giải thích (VI):** (cụm danh từ) Các loại đồ uống giải khát đóng chai không cồn, thường chứa nhiều đường và có ga, cần hạn chế để bảo vệ sức khoẻ.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng trong lời khuyên ăn uống điều độ như 'Soft drinks are not good for your health.' và 'avoid fast food and soft drinks' (tr. 20, 21, 22, 26).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 20; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 21; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 22
 
 ### soft skills (English)
 - **Tiếng Việt:** kĩ năng mềm
@@ -6197,13 +8336,48 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 5 (Inventions): dùng trong phần Vocabulary, bài đọc về AI và mục CLIL về cấu tạo máy tính (AI software or chatbots; A computer needs both hardware and software to run).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục II), tr. 54; SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục III), tr. 55; SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục VII), tr. 59; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 127
 
+### solar
+- **Tiếng Việt:** liên quan đến mặt trời; thuộc về mặt trời
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈsəʊlə/ — Relating to the sun or using the sun's light and heat to generate energy.
+- **Giải thích (VI):** (tính từ) Liên quan đến mặt trời hoặc thu nhận ánh sáng, nhiệt lượng từ mặt trời.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) đứng trước danh từ chỉ thiết bị và nguồn năng lượng từ ánh nắng (solar energy; solar panels).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 106; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 109; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 110; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
 ### solar energy
-- **Tiếng Việt:** năng lượng mặt trời
+- **Tiếng Việt:** năng lượng mặt trời (năng lượng mặt trời; điện mặt trời)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˌsəʊlər ˈenədʒi/ — Power produced from the light and heat of the sun and used to generate electricity or heat water.
 - **Giải thích (VI):** (danh từ) Nguồn năng lượng tái tạo sạch thu từ bức xạ ánh sáng mặt trời để cung cấp điện sinh hoạt cho ngôi nhà.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 10 (Our houses in the future): dùng trong đoạn hội thoại mở đầu khi Phong giới thiệu nguồn năng lượng cho ngôi nhà tương lai ('Yes, and it'll have solar energy').
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 10, tr. 38, 39; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (np) /ˌsəʊlə ˈenədʒi/ — Clean, renewable power obtained from the sun's rays and converted into heat or electricity. / VI: (cụm danh từ) Nguồn năng lượng sạch, có thể tái tạo thu nhận từ ánh sáng và nhiệt mặt trời để chuyển hoá thành nhiệt năng hoặc điện năng.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 10 (Our houses in the future): dùng trong đoạn hội thoại mở đầu khi Phong giới thiệu nguồn năng lượng cho ngôi nhà tương lai ('Yes, and it'll have solar energy').
+  - Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) ở mẫu câu hỏi giải thích nghĩa (What does 'solar energy' mean?) và các giải pháp năng lượng sạch.
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 10, tr. 38, 39; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 106; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 108; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 109
+
+### solar-powered
+- **Tiếng Việt:** chạy bằng năng lượng mặt trời
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˌsəʊlə ˈpaʊəd/ — Operating by using energy obtained directly from sunlight.
+- **Giải thích (VI):** (tính từ) Hoạt động nhờ nguồn điện chuyển hóa từ ánh sáng mặt trời thay vì nhiên liệu hóa thạch.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): tính từ ghép đứng trước danh từ chỉ phương tiện xanh như solar-powered buses, solar-powered ships (ví dụ: We will use solar-powered buses soon).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 116; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 117; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### solar-powered ship
+- **Tiếng Việt:** tàu thủy chạy bằng năng lượng mặt trời
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˌsəʊlə ˈpaʊəd ʃɪp/ — A large boat or vessel equipped with solar panels that uses sunlight to generate power for sailing.
+- **Giải thích (VI):** (cụm danh từ) Tàu thủy gắn các tấm pin mặt trời để tạo ra năng lượng vận hành, giúp di chuyển êm ái và không gây ô nhiễm môi trường biển.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng trong phần từ vựng, trọng âm câu và bài nghe về phương tiện tương lai (ví dụ: That is a solar-powered ship; Solar-powered ships will not cause pollution).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 116; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 117; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### solowheel
+- **Tiếng Việt:** phương tiện tự hành cá nhân một bánh (xe điện một bánh)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈsəʊləʊwiːl/ — A compact, self-balancing electric unicycle with footrests on either side on which a rider stands upright.
+- **Giải thích (VI):** (danh từ) Xe điện cá nhân một bánh nhỏ gọn có khả năng tự cân bằng, người lái đứng hai chân ở hai bên bánh xe để di chuyển.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng với động từ ride hoặc giới từ by khi nói về phương tiện cá nhân chạy điện (ví dụ: Will many children go to school by solowheel?; A solowheel runs on electricity).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 117; SGK Tiếng Anh 7 Global Success, Unit 11 (Mục LOOKING BACK), tr. 122; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### some and any
 - **Tiếng Việt:** một vài, một ít (lượng từ)
@@ -6213,13 +8387,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 6 (Our Tet Holiday): chủ điểm ngữ pháp chỉ số lượng đồ dùng, thực phẩm và hoạt động ngày Tết ("My mother bought some fruits", "Do you have any sugar?").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 58; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 62
 
+### soup
+- **Tiếng Việt:** xúp; canh
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /suːp/ — A liquid dish made by boiling meat, fish, or vegetables in water or stock.
+- **Giải thích (VI):** (danh từ) Món ăn dạng nước được nấu chín từ thịt, cá hoặc rau củ đun trong nước lọc hay nước dùng.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi giới thiệu các món canh, súp và phở Việt Nam (Vietnamese soup, beef noodle soup, eel soup).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50, 51; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 51
+
 ### source
-- **Tiếng Việt:** nguồn tin; kênh thông tin
+- **Tiếng Việt:** nguồn tin; kênh thông tin (nguồn)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /sɔːs/ — A person, publication, or media platform that provides information or news.
 - **Giải thích (VI):** (danh từ) Kênh truyền thông, ấn phẩm hoặc tổ chức, cá nhân cung cấp tin tức và dữ liệu.
-- **Bối cảnh:** Tiếng Anh lớp 12, Unit 7: dùng trong chủ đề kiểm chứng tin tức và phân tích thói quen đọc tin, xuất hiện trong các cụm 'information sources' (nguồn thông tin), 'reliable sources' (nguồn tin đáng tin cậy) và 'news sources' (nguồn tin tức).
-- **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục II), tr. 91; SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục III), tr. 92; SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục IV), tr. 94
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /sɔːs/ — A place, thing, or natural element from which something such as power or material originates. / VI: (danh từ) Nơi bắt nguồn hoặc yếu tố tự nhiên cung cấp vật chất, tài nguyên hay năng lượng.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 12, Unit 7: dùng trong chủ đề kiểm chứng tin tức và phân tích thói quen đọc tin, xuất hiện trong các cụm 'information sources' (nguồn thông tin), 'reliable sources' (nguồn tin đáng tin cậy) và 'news sources' (nguồn tin tức).
+  - Tiếng Anh lớp 7, Unit 10: dùng xuyên suốt tiêu đề và nội dung chủ đề nguồn năng lượng (Energy sources: types of energy sources; new sources of energy).
+- **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục II), tr. 91; SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục III), tr. 92; SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục IV), tr. 94; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 104; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 106; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### souvenir
 - **Tiếng Việt:** quà lưu niệm
@@ -6236,6 +8421,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ, tính từ) Công dân của Liên bang Xô viết trước đây, hoặc thuộc về nhà nước, tổ chức và chương trình của Liên Xô.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 6 (Gender equality): dùng trong bài nghe về người phụ nữ đầu tiên bay vào không gian (the Soviet space programme, the Soviet Air Force, Soviet cosmonauts).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục IV), tr. 71; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục V), tr. 71; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục VIII), tr. 74
+
+### soybean
+- **Tiếng Việt:** hạt đậu nành; đậu tương
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈsɔɪbiːn/ — The nutritious protein-rich seed of the soy plant, widely used as food and for making products such as tofu, soy milk, and oil.
+- **Giải thích (VI):** (danh từ) Hạt đậu tương (đậu nành) giàu đạm thực vật, thường dùng làm thực phẩm và chế biến đậu phụ, sữa đậu nành.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng ở dạng số nhiều khi giải thích bí quyết sống thọ của người Nhật 'They also eat a lot of tofu, a product from soybeans.' (tr. 22).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 22; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### space
 - **Tiếng Việt:** không gian vũ trụ
@@ -6260,6 +8453,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm danh từ) Công trình quy mô lớn đặt ngoài không gian hoặc trên các thiên thể để phục vụ nghiên cứu khoa học và sinh hoạt của phi hành gia.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 12 (Robots): dùng khi mô tả nhiệm vụ của người máy vũ trụ trên Mặt Trăng và các hành tinh (build space stations on the Moon and on planets).
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 12, tr. 64; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71
+
+### spaceship
+- **Tiếng Việt:** tàu vũ trụ
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈspeɪsʃɪp/ — A vehicle designed to carry people and equipment for travel in outer space.
+- **Giải thích (VI):** (danh từ) Phương tiện chuyên dụng được thiết kế để chở con người du hành ra ngoài khoảng không vũ trụ đến Mặt Trăng hoặc các hành tinh khác.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng trong phần giải câu đố từ vựng và đoạn văn dự đoán các chuyến du lịch ngoài Trái Đất (ví dụ: It travels in space. It can even carry people to the moon).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 115; SGK Tiếng Anh 7 Global Success, Unit 11 (Mục LOOKING BACK), tr. 122
 
 ### spawning ground
 - **Tiếng Việt:** bãi đẻ trứng; nơi sinh sản
@@ -6325,6 +8526,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 7: dùng trong chủ đề tin tức trên không gian mạng, thường đi kèm danh từ chỉ thông tin như 'spread fake news' (lan truyền/phát tán tin giả).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục II), tr. 91; SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục V), tr. 95; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 152
 
+### spring roll
+- **Tiếng Việt:** nem rán; chả giò
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /sprɪŋ rəʊl/ — A savoury Asian dish consisting of a thin pastry wrapper filled with minced meat and vegetables, rolled up and usually fried.
+- **Giải thích (VI):** (danh từ) Món ăn truyền thống châu Á gồm nhân thịt băm trộn rau củ gói tròn trong bánh đa nem và thường được rán giòn.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi gọi món ăn truyền thống Việt Nam và đặt câu hỏi số lượng (some spring rolls, How many spring rolls).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 50, 51; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 52
+
 ### square (English)
 - **Tiếng Việt:** quảng trường
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -6370,6 +8579,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 2 (A multicultural world): dùng trong chủ đề văn hóa ẩm thực các nước khi nói về nguồn lương thực chính yếu hằng ngày (staple food, staple diet).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 148
 
+### star (English)
+- **Tiếng Việt:** đóng vai chính (động từ)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /stɑː/ — To play one of the main characters in a film, play, or television show.
+- **Giải thích (VI):** (động từ) Đảm nhận vai diễn chính trong một bộ phim, vở kịch hoặc chương trình truyền hình (thường đi với giới từ in: star in a film).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 8 (Films): dùng khi hỏi và giới thiệu diễn viên thủ vai chính của bộ phim (And who stars in it? — Kate Harrison and Lily Collins).
+  - *Lưu ý:* Ngoài chức năng động từ ('đóng vai chính', ngôi thứ ba số ít stars, quá khứ starred), từ star trong bài đọc còn dùng như danh từ đếm được chỉ 'ngôi sao điện ảnh / diễn viên chính'.
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Sao' trong Vật lí.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 82; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 87; SGK Tiếng Anh 7 Global Success, Unit 8, tr. 89; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
+### stewing
+- **Tiếng Việt:** sự hầm; ninh nhừ
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n, v) /ˈstjuːɪŋ/ — Cooking meat, bones, or vegetables slowly in liquid inside a covered pot for a long time.
+- **Giải thích (VI):** (danh động từ) Quá trình đun nấu thịt, xương hoặc rau củ nhỏ lửa trong nước suốt thời gian dài để nguyên liệu mềm nhừ và tiết ra vị ngọt.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong bài đọc giới thiệu cách ninh xương bò hoặc gà làm nước dùng phở (made by stewing beef or chicken bones for a long time).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 56
+
 ### storage space
 - **Tiếng Việt:** dung lượng lưu trữ (máy tính)
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -6406,6 +8634,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Chiến lược' trong Lịch sử.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục II), tr. 88; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục III), tr. 89; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 130
 
+### street children
+- **Tiếng Việt:** trẻ em đường phố; trẻ em cơ nhỡ
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈstriːt tʃɪldrən/ — Poor or homeless children who live and survive mainly on the streets of a city.
+- **Giải thích (VI):** (cụm danh từ) Trẻ em nghèo khó, cơ nhỡ phải sinh sống hoặc kiếm sống trên đường phố và cần sự giúp đỡ của cộng đồng.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong dự án thiện nguyện Lending Hand với các hoạt động 'Help street children' và 'teach street children to read and write'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3 (Mục COMMUNICATION), tr. 33
+
 ### street food
 - **Tiếng Việt:** thức ăn đường phố
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -6414,6 +8650,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 9 (Cities of the world): dùng để giới thiệu nét ẩm thực đặc sắc của các thành phố như 'Ha Noi is famous for its delicious street food.'.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 28; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 33; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70
 
+### street painting
+- **Tiếng Việt:** vẽ tranh đường phố; nghệ thuật vẽ tranh đường phố
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈstriːt peɪntɪŋ/ — The art of drawing or painting pictures directly on pavements, roads, or public walls.
+- **Giải thích (VI):** (danh từ) Loại hình nghệ thuật công cộng trong đó các nghệ sĩ sáng tác tranh vẽ trực tiếp lên mặt đường hoặc vỉa hè.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): chủ đề chính phần Skills 2 (Nghe và Viết thư mời) xoay quanh lễ hội vẽ tranh đường phố 'Lake Worth Street Painting Festival'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 40; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 47; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 49
+
 ### strengthen
 - **Tiếng Việt:** củng cố, làm mạnh thêm
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -6421,6 +8665,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (động từ) Củng cố, làm cho một mối quan hệ, phẩm chất hoặc sức mạnh trở nên vững chắc và bền chặt hơn.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 1 (Family life): dùng trong chủ đề thắt chặt sợi dây tình cảm gia đình thông qua việc chia sẻ việc nhà (strengthen family bonds).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 11; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 11, 12; SGK Tiếng Anh 10 Global Success, Unit 01, Unit 1 (Mục III), tr. 12
+
+### stress
+- **Tiếng Việt:** sự căng thẳng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /stres/ — A state of mental or emotional strain and worry caused by pressure or demanding situations.
+- **Giải thích (VI):** (danh từ) Trạng thái áp lực, lo âu và căng thẳng về mặt tâm lí hoặc tinh thần.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) ở phần Speaking bàn về lợi ích giúp giải toả áp lực tinh thần (reduce stress).
+  - *Lưu ý:* Trong Unit 1, 'stress' mang nghĩa 'sự căng thẳng tâm lí'; cần phân biệt với nghĩa 'trọng âm của từ' trong các mục Ngữ âm (Pronunciation) như ở Unit 10.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 14; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### stressful
 - **Tiếng Việt:** áp lực; căng thẳng
@@ -6474,13 +8728,33 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 3 (My friends): bối cảnh chính của bài đọc Skills 1 về những người bạn mới quen tại trại hè, ví dụ "Here I am at the Superb Summer Camp.".
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 3, tr. 26, 32, 35
 
+### sunburn
+- **Tiếng Việt:** sự cháy nắng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈsʌnbɜːn/ — Painful red and sore skin caused by spending too much time in strong sunlight without protection.
+- **Giải thích (VI):** (danh từ) Tình trạng da bị ửng đỏ, bỏng rát và tổn thương do tiếp xúc trực tiếp với ánh nắng gay gắt trong thời gian dài mà không che chắn.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): thường đi với động từ 'get' trong cụm 'get sunburn', ví dụ 'It's really hot and sunny at noon, so you might get sunburn.' (tr. 18, 20, 23).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 18; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 20; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 23; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### suncream
 - **Tiếng Việt:** kem chống nắng
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈsʌnkriːm/ — A cream or lotion that you put on your skin to protect it from the harmful rays of the sun.
 - **Giải thích (VI):** (danh từ) Kem chống nắng (danh từ không đếm được) dùng để thoa lên da nhằm bảo vệ da khỏi tác hại của ánh nắng mặt trời.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 5 (Natural wonders of Viet Nam): dùng trong nhóm vật dụng du lịch và lời khuyên khi tham quan đồi cát Mũi Né ("I need to put on some suncream.", "Remember to wear suncream and bring water.").
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 50; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 50, 51; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 54
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈsʌnkriːm/ — A cream or lotion rubbed onto the skin to protect it from harmful ultraviolet rays of the sun and prevent sunburn. / VI: (danh từ) Loại kem hoặc sữa dưỡng thoa lên da trước khi ra nắng để ngăn tia cực tím và phòng tránh bị cháy nắng.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 5 (Natural wonders of Viet Nam): dùng trong nhóm vật dụng du lịch và lời khuyên khi tham quan đồi cát Mũi Né ("I need to put on some suncream.", "Remember to wear suncream and bring water.").
+  - Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng như danh từ không đếm được khi chuẩn bị cho hoạt động ngoài trời 'Sure. Bring along a hat and suncream.' (tr. 18, 19, 20, 22).
+  - *Lưu ý:* 'Suncream' là từ vựng theo phương ngữ Anh – Anh dùng trong SGK Global Success, tương đương với 'sunscreen' trong tiếng Anh – Mỹ.
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 50; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 50, 51; SGK Tiếng Anh 6 Global Success Tập 1, Unit 05, Unit 5, tr. 54; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 18; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 20; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 22
+
+### sunset
+- **Tiếng Việt:** mặt trời lặn; hoàng hôn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈsʌnset/ — The time in the evening when the sun goes down below the horizon and night begins.
+- **Giải thích (VI):** (danh từ) Thời điểm hoàng hôn vào buổi chiều tối khi mặt trời lặn xuống dưới đường chân trời.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng trong chủ đề du lịch tại các quốc gia nói tiếng Anh, ví dụ câu 'We had dinner on the beach after sunset.' (tr. 125).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 125; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### super
 - **Tiếng Việt:** siêu đẳng, siêu việt
@@ -6513,6 +8787,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Bác sĩ chuyên khoa ngoại được đào tạo bài bản để trực tiếp thực hiện các ca phẫu thuật trong bệnh viện.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 6 (Gender equality): dùng xuyên suốt bài học để khẳng định phụ nữ và nam giới đều có thể làm tốt các nghề chuyên môn cao (male and female surgeons, the surgeon's job).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6, tr. 66; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục I), tr. 66; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục I), tr. 66, 67
+
+### survey
+- **Tiếng Việt:** cuộc khảo sát
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈsɜːveɪ/ — An investigation of the opinions, behaviour, etc. of a particular group of people, which is usually done by asking them questions.
+- **Giải thích (VI):** (danh từ) Hoạt động thu thập ý kiến, thông tin của một nhóm người thông qua việc đặt câu hỏi hoặc bảng khảo sát.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 8 (Films): dùng trong chủ đề điện ảnh với cụm từ cố định do a survey about films (thực hiện một cuộc khảo sát về sở thích xem phim của các thành viên trong nhóm).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8 (Mục COMMUNICATION), tr. 87, 88; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### survive
 - **Tiếng Việt:** tồn tại; sinh tồn, sống sót
@@ -6572,6 +8854,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 9 (Cities of the world): miêu tả trong phần City landmarks ở mục Communication ('It's a theatre on Sydney Harbour. Its roofs are white and look like shells.').
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9 (Mục COMMUNICATION), tr. 31
 
+### syllable
+- **Tiếng Việt:** âm tiết
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈsɪləbl/ — A single unit of pronunciation containing one vowel sound, forming the whole or part of a word.
+- **Giải thích (VI):** (danh từ) Đơn vị phát âm cơ bản chứa một âm nguyên âm, cấu tạo nên toàn bộ hoặc một phần của từ.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10: dùng trong mục Pronunciation của chủ đề nguồn năng lượng (Energy sources) khi luyện trọng âm từ có ba âm tiết (stress in three-syllable words).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 104; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 106; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
+### symbol (English)
+- **Tiếng Việt:** biểu tượng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈsɪmbl/ — An image, object, or sign that is used to represent an idea, quality, or festival.
+- **Giải thích (VI):** (danh từ) Hình ảnh hoặc sự vật mang tính đại diện, gửi gắm một ý nghĩa văn hoá hay tinh thần đặc trưng của một lễ hội.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong cấu trúc the symbol of something để thuyết trình về biểu tượng của các lễ hội như cây thông Giáng sinh, bánh trung thu hay thỏ Phục sinh.
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Biểu tượng' trong Ngữ văn.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9 (Mục COMMUNICATION), tr. 96, 97, 100; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### table manners
 - **Tiếng Việt:** tác phong bàn ăn, phép lịch sự trên bàn ăn
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -6588,6 +8888,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 8 (Sports and games): dùng với động từ 'play' trong chủ đề thể thao như 'I play table tennis.' và 'Last week I played table tennis with Duy'.
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 16; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 17; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8 (Mục COMMUNICATION), tr. 21
 
+### tablespoon
+- **Tiếng Việt:** thìa canh; muỗng xúp (đơn vị đo)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈteɪblspuːn/ — A large spoon used for serving food, or the amount it holds used as a unit of measurement in cooking (abbreviated tbsp).
+- **Giải thích (VI):** (danh từ) Chiếc thìa canh lớn hoặc đơn vị đo lường thể tích/khối lượng nguyên liệu nấu ăn tương đương lượng chứa trong một thìa canh (viết tắt là tbsp, khoảng 15 ml).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi đo lường nguyên liệu trong công thức nấu ăn (a tablespoon of sugar, two tablespoons of cold water).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5 (Mục LOOKING BACK), tr. 58; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### take into account
 - **Tiếng Việt:** cân nhắc; tính đến
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -6603,6 +8911,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm động từ) Viết tóm lược lại những thông tin và ý chính quan trọng trong lúc nghe giảng hoặc đọc tài liệu học tập.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 8: dùng trong phần Getting Started và Listening chỉ kĩ năng ghi chép thông tin quan trọng khi tự học qua video và trên lớp (taking notes in class, note taking skills).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8, tr. 86; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục I), tr. 86; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục I), tr. 86, 87
+
+### take on
+- **Tiếng Việt:** đảm nhận; nhận thêm
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (phr v) /teɪk ɒn/ — To accept and begin to handle a particular task, duty, or responsibility.
+- **Giải thích (VI):** (cụm động từ) Chấp nhận đảm đương, gánh vác thêm một nhiệm vụ, công việc hoặc trách nhiệm.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) với cụm từ cố định nói về việc trẻ học cách nhận trách nhiệm chăm sóc khu vườn (take on responsibility).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 14; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### take part in
+- **Tiếng Việt:** tham gia
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (vp) /ˈteɪk pɑːt ɪn/ — To be actively involved in an event, festival, or shared activity together with other people.
+- **Giải thích (VI):** (cụm động từ) Trực tiếp góp mặt, hoà mình và tham dự vào một hoạt động chung, trò chơi hoặc lễ hội cùng mọi người.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): cụm động từ chủ điểm đồng nghĩa với join và participate in khi nói về việc tham gia các hoạt động lễ hội văn hoá.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### take place
 - **Tiếng Việt:** diễn ra, được tổ chức
@@ -6624,12 +8948,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 6, 7; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 8; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70
 
 ### talented
-- **Tiếng Việt:** tài năng, có năng khiếu
+- **Tiếng Việt:** tài năng, có năng khiếu (tài năng; có khiếu)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (adj) /ˈtæləntɪd/ — Having a natural ability or skill to do something very well.
 - **Giải thích (VI):** (tính từ) Có năng khiếu tự nhiên và khả năng làm rất giỏi một công việc, đặc biệt trong lĩnh vực nghệ thuật.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 3: dùng để ca ngợi năng khiếu của các nghệ sĩ âm nhạc trong các cụm 'A talented artist!', 'He has a nice voice, and he is a talented musician'.
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục I, II), tr. 28, 29, 30; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (adj) /ˈtæləntɪd/ — Having a natural skill or ability to do something very well. / VI: (tính từ) Có năng lực tự nhiên hoặc sở trường xuất sắc để làm tốt một lĩnh vực học thuật, nghệ thuật hay thể thao.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 3: dùng để ca ngợi năng khiếu của các nghệ sĩ âm nhạc trong các cụm 'A talented artist!', 'He has a nice voice, and he is a talented musician'.
+  - Tiếng Anh lớp 7, Unit 6: dùng trong phần ôn tập từ vựng khi giải nghĩa cụm từ chỉ học sinh năng khiếu (intelligent and / or talented students).
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục I, II), tr. 28, 29, 30; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 125; SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6 (Mục LOOKING BACK), tr. 68; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
+### tap
+- **Tiếng Việt:** vòi nước
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /tæp/ — A valve device attached to a pipe that is turned to control the flow of water.
+- **Giải thích (VI):** (danh từ) Thiết bị van lắp ở đầu ống dẫn dùng để đóng mở và điều tiết dòng nước chảy ra.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 10: dùng trong phần Project của chủ đề nguồn năng lượng (Energy sources) nhắc kiểm tra các vòi nước trong trường để tránh rò rỉ gây lãng phí (check that none of your taps are dripping).
+  - *Lưu ý:* Theo chuẩn tiếng Anh – Anh của SGK, danh từ 'tap' chỉ vòi nước (tương đương 'faucet' trong tiếng Anh – Mỹ); cần phân biệt với động từ 'tap' mang nghĩa 'gõ nhẹ, chạm nhẹ'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 113; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### tasty
 - **Tiếng Việt:** ngon miệng, đậm đà
@@ -6638,6 +8975,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (tính từ) Có hương vị thơm ngon, hấp dẫn và hợp khẩu vị người thưởng thức.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 2 (A multicultural world): dùng như từ đồng nghĩa với delicious để miêu tả các món ăn truyền thống tại lễ hội giao lưu văn hóa (tasty / delicious British dishes).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 2 (Mục I), tr. 21; SGK Tiếng Anh 12 Global Success, Unit 2 (Mục II), tr. 21, 22
+
+### tattoo
+- **Tiếng Việt:** hình xăm
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /təˈtuː/ — A permanent picture or design marked on a person's skin using needles and ink.
+- **Giải thích (VI):** (danh từ) Hình vẽ hoặc hoa văn được xăm cố định bằng mực lên da, tiêu biểu trong nghệ thuật xăm truyền thống của người bản địa Maori ở New Zealand.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng khi giới thiệu nét văn hoá truyền thống của người Maori tại New Zealand trong câu 'They are famous for their unique tattoos and haka dance.' (tr. 130).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 130; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### teacher robot
 - **Tiếng Việt:** người máy giáo viên
@@ -6655,6 +9000,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 8: dùng trong phần Writing nói về lợi ích phát triển kĩ năng làm việc nhóm của phương pháp học kết hợp và học qua dự án (develop better communication and teamwork skills, improve our teamwork skills).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục VI), tr. 92; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục VIII), tr. 94; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 130
 
+### teaspoon
+- **Tiếng Việt:** thìa cà phê; thìa nhỏ quấy trà (đơn vị đo)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈtiːspuːn/ — A small spoon used for stirring tea or coffee, or the amount it holds used as a unit of measurement in cooking (abbreviated tsp).
+- **Giải thích (VI):** (danh từ) Chiếc thìa nhỏ dùng để khuấy trà hoặc đơn vị đong gia vị trong nấu ăn tương đương lượng chứa trong một thìa cà phê (viết tắt là tsp, khoảng 5 ml).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống khi đong các loại gia vị như muối và hạt tiêu (a teaspoon of salt, 1 tsp of pepper).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 52; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### technical
 - **Tiếng Việt:** thuộc về kĩ thuật
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -6671,6 +9024,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 8: dùng trong phần Speaking khi nêu những bất cập, trở ngại thường gặp trong giờ học trực tuyến (We may have technical problems).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục III), tr. 90; SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục IV), tr. 90
 
+### teenager
+- **Tiếng Việt:** thanh thiếu niên
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈtiːneɪdʒə/ — A young person who is between 13 and 19 years old.
+- **Giải thích (VI):** (danh từ) Người trẻ ở độ tuổi thanh thiếu niên từ 13 đến 19 tuổi.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong chủ đề các dự án tình nguyện dành cho lứa tuổi học sinh như 'Teenagers volunteered to clean streets', 'volunteer activities for teenagers'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 31, 32; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3 (Mục COMMUNICATION), tr. 33; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
+### teleporter
+- **Tiếng Việt:** phương tiện dịch chuyển tức thời
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈtelɪpɔːtə/ — An imaginary futuristic machine capable of transporting a person instantly from one location to another.
+- **Giải thích (VI):** (danh từ) Thiết bị viễn tưởng giúp con người biến mất tại một điểm và xuất hiện ở địa điểm khác chỉ trong vài giây mà không gây kẹt xe hay ô nhiễm.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng trong hội thoại mở đầu và bài tập ngữ pháp về phương tiện tương lai (ví dụ: Do you think travelling by teleporter will become possible soon?).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11, tr. 114; SGK Tiếng Anh 7 Global Success, Unit 11, tr. 117; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
 ### temple
 - **Tiếng Việt:** ngôi đền, ngôi chùa
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -6678,6 +9047,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Công trình kiến trúc tôn giáo linh thiêng như đền, chùa dùng làm nơi thờ tự và hành lễ trong văn hóa phương Đông.
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 6 (Our Tet Holiday): dùng khi nói về tục rung chuông chùa đêm Giao thừa tại Nhật Bản ("In Japan, temples ring their bells 108 times at midnight on December 31").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6 (Mục COMMUNICATION), tr. 63; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71
+
+### Thanksgiving
+- **Tiếng Việt:** Lễ Tạ ơn
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˌθæŋksˈɡɪvɪŋ/ — A traditional autumn public holiday in the United States and Canada to give thanks for the harvest and blessings of the past year.
+- **Giải thích (VI):** (danh từ) Ngày lễ truyền thống vào mùa thu ở Mỹ và Canada để tạ ơn mùa màng bội thu, dịp các gia đình quây quần bên bữa tiệc gà tây.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng trong bài học và bài nghe về phong tục sum họp gia đình, thưởng thức gà tây nướng, bánh ngô và khoai lang dịp Lễ Tạ ơn.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 94, 99, 100; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### The future with will and be going to
 - **Tiếng Việt:** thì tương lai với will và be going to
@@ -6757,6 +9134,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 3: chủ điểm ngữ pháp trọng tâm rèn luyện cách chia động từ theo sau một động từ khác trong các câu nói về hoạt động biểu diễn và thưởng thức âm nhạc.
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 3 (Mục II, VIII), tr. 28, 30, 36, 37
 
+### toast
+- **Tiếng Việt:** bánh mì lát nướng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /təʊst/ — Sliced bread that has been made brown and crisp by heating it on both sides.
+- **Giải thích (VI):** (danh từ) Bánh mì thái lát được nướng nóng hai mặt cho đến khi chuyển màu vàng nâu và giòn thơm.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 5: dùng trong chủ đề đồ ăn và thức uống như một danh từ không đếm được chỉ món ăn sáng và thực đơn báo giá (toast: 20,000 dong).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5 (Mục COMMUNICATION), tr. 55; SGK Tiếng Anh 7 Global Success, Unit 05, Unit 5, tr. 57; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
+### tofu
+- **Tiếng Việt:** đậu phụ
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈtəʊfuː/ — A soft white food rich in plant protein and low in fat, made from mashed and pressed soybeans.
+- **Giải thích (VI):** (danh từ) Món ăn mềm màu trắng chế biến từ hạt đậu nành xay nhuyễn, giàu đạm thực vật và không chứa chất béo xấu.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng làm danh từ không đếm được trong chủ đề chế độ ăn uống lành mạnh 'The Japanese eat a lot of tofu.' (tr. 20, 21, 22).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 20; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 21; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 22; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### tortoise
 - **Tiếng Việt:** rùa cạn; con rùa
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -6785,12 +9178,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 22; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70
 
 ### tower
-- **Tiếng Việt:** toà tháp
+- **Tiếng Việt:** toà tháp (tháp; toà tháp)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈtaʊə/ — A tall, narrow building or structure that stands alone or forms part of a larger building such as a castle or church.
 - **Giải thích (VI):** (danh từ) Công trình kiến trúc xây cao vút, thon hẹp đứng độc lập hoặc gắn liền với một toà nhà lớn.
-- **Bối cảnh:** Tiếng Anh lớp 6, Unit 9 (Cities of the world): dùng khi miêu tả các tháp biểu tượng và luyện âm /aʊ/ như 'This tower is on the bank of the River Thames in London.'.
-- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 28; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9 (Mục COMMUNICATION), tr. 31; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9 (Mục LOOKING BACK), tr. 34
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (n) /ˈtaʊə/ — A tall, narrow building or part of a building, such as a castle or clock structure, that rises high above its surroundings. / VI: (danh từ) Công trình kiến trúc cao và hẹp vươn lên nổi bật, có thể đứng độc lập hoặc là một bộ phận của lâu đài, cây cầu hay tháp đồng hồ.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 6, Unit 9 (Cities of the world): dùng khi miêu tả các tháp biểu tượng và luyện âm /aʊ/ như 'This tower is on the bank of the River Thames in London.'.
+  - Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng khi miêu tả các công trình biểu tượng tại Luân Đôn như 'the Tower Bridge' và 'the Elizabeth Tower' (tr. 126, 127, 131).
+- **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9, tr. 28; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9 (Mục COMMUNICATION), tr. 31; SGK Tiếng Anh 6 Global Success Tập 2, Unit 09, Unit 9 (Mục LOOKING BACK), tr. 34; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 127; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### town house
 - **Tiếng Việt:** nhà phố
@@ -6825,6 +9221,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm danh từ) Hình thức giáo dục quen thuộc trong đó giáo viên trực tiếp giảng dạy cho học sinh tập trung tại lớp học theo phương pháp truyền thống.
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 8: dùng trong chủ đề các phương pháp học tập mới để đối sánh hiệu quả với học trực tuyến và học kết hợp (Which is more effective: blended or traditional learning?, traditional classroom methods).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 08, Unit 8 (Mục V), tr. 91
+
+### traffic jam
+- **Tiếng Việt:** tắc đường; nạn kẹt xe
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈtræfɪk dʒæm/ — A long line of vehicles on a road that cannot move or can only move very slowly.
+- **Giải thích (VI):** (danh từ) Tình trạng xe cộ ùn ứ kéo dài trên đường phố khiến các phương tiện không thể di chuyển hoặc chỉ nhích lên rất chậm.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng khi thảo luận về các vấn đề giao thông ở đô thị lớn vào giờ cao điểm (get stuck in a traffic jam, traffic jams happen nearly every day).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 72; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 75; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 79; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
+### traffic lights
+- **Tiếng Việt:** đèn giao thông; đèn tín hiệu giao thông
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈtræfɪk laɪts/ — A set of red, yellow, and green lights placed at road junctions to control the flow of traffic.
+- **Giải thích (VI):** (cụm danh từ) Trụ đèn tín hiệu ba màu đỏ, vàng, xanh lắp đặt tại các giao lộ để điều tiết phương tiện dừng lại hoặc di chuyển.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong phần từ vựng và bài đọc về chấp hành hiệu lệnh đường bộ (see several traffic lights, Don't cross the road on a red light).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 74; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 78; SGK Tiếng Anh 7 Global Success, Unit 7 (Mục LOOKING BACK), tr. 80
+
+### traffic rule
+- **Tiếng Việt:** luật giao thông; quy tắc giao thông
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈtræfɪk ruːl/ — An official regulation or law that governs how vehicles and pedestrians must behave on the road (also called traffic law /ˈtræfɪk lɔː/).
+- **Giải thích (VI):** (cụm danh từ) Quy định hoặc điều luật chính thức điều chỉnh hành vi của người và phương tiện nhằm bảo đảm trật tự, an toàn trên đường bộ (đồng nghĩa với traffic law).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong bài đọc, bài nghe và giao tiếp về an toàn đường bộ (Strange traffic rules!, obey the traffic rules).
+  - *Lưu ý:* Thường dùng ở dạng số nhiều traffic rules; đồng nghĩa với cụm traffic law (/ˈtræfɪk lɔː/) trong bảng thuật ngữ SGK.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 72; SGK Tiếng Anh 7 Global Success, Unit 7 (Mục COMMUNICATION), tr. 77; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 78; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 79; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### trail
 - **Tiếng Việt:** đường mòn
@@ -6886,6 +9308,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 2 (A multicultural world): dùng trong bài hội thoại giới thiệu các trò chơi dân gian tại gian hàng văn hóa Việt Nam (play Vietnamese traditional games such as tug of war and bamboo dancing).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 2 (Mục I), tr. 21; SGK Tiếng Anh 12 Global Success, Unit 2 (Mục II), tr. 21, 22
 
+### turkey
+- **Tiếng Việt:** gà tây; thịt gà tây
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈtɜːki/ — A large bird farmed for its meat, or the meat from this bird eaten as the main dish at Thanksgiving and Christmas meals.
+- **Giải thích (VI):** (danh từ) Loài gia cầm kích thước lớn (danh từ đếm được) hoặc món thịt gà tây nướng (danh từ không đếm được) dùng làm món chính trong tiệc Lễ Tạ ơn và Giáng sinh.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): dùng khi miêu tả thực đơn truyền thống của bữa tiệc Lễ Tạ ơn (have a feast with turkey, cornbread, and sweet potatoes).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 94, 99, 100
+
 ### turn left
 - **Tiếng Việt:** rẽ trái
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -6919,12 +9349,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 38; SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 38, 39; SGK Tiếng Anh 6 Global Success Tập 1, Unit 04, Unit 4, tr. 39
 
 ### tutor
-- **Tiếng Việt:** gia sư; người dạy kèm
+- **Tiếng Việt:** gia sư; người dạy kèm (phụ đạo; dạy kèm; động từ)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n) /ˈtjuːtə/ — A private teacher who teaches an individual student or a very small group outside regular school classes.
 - **Giải thích (VI):** (danh từ) Giáo viên dạy kèm riêng cho một cá nhân hoặc một nhóm nhỏ học sinh ngoài giờ học chính khoá.
-- **Bối cảnh:** Tiếng Anh lớp 12, Unit 9: dùng trong chủ đề định hướng nghề nghiệp (Career paths), xuất hiện khi nói về công việc dạy kèm thêm hoặc tình nguyện (work as tutors, a home tutor, Volunteer Tutor).
-- **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục IV), tr. 122; SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục V), tr. 122; SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục VI), tr. 123
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (v) /ˈtjuːtə/ — To teach an individual student or a very small group of students, especially outside regular classes. / VI: (động từ) Phụ đạo, hướng dẫn học tập trực tiếp cho cá nhân hoặc một nhóm nhỏ học sinh nhỏ tuổi hơn.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 12, Unit 9: dùng trong chủ đề định hướng nghề nghiệp (Career paths), xuất hiện khi nói về công việc dạy kèm thêm hoặc tình nguyện (work as tutors, a home tutor, Volunteer Tutor).
+  - Tiếng Anh lớp 7, Unit 3 (Community service): dùng trong chủ đề học sinh lớp lớn kèm học cho các em lớp nhỏ hoặc trẻ em ở làng quê ('tutor primary students', 'tutor lower grade students').
+  - *Lưu ý:* Trong bài học Unit 3, 'tutor' được dùng với vai trò ngoại động từ (phụ đạo, dạy kèm); ngoài ra 'tutor' còn là danh từ đếm được chỉ gia sư.
+- **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục IV), tr. 122; SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục V), tr. 122; SGK Tiếng Anh 12 Global Success, Unit 09, Unit 9 (Mục VI), tr. 123; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 30, 31; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 34; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### TV guide
 - **Tiếng Việt:** lịch phát sóng và giới thiệu chương trình TV
@@ -6942,6 +9376,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 7 (Television): chủ đề trọng tâm của phần luyện viết đoạn văn ngắn cuối bài ("Write a paragraph of about 50 words about your TV-viewing habits").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 6; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 13; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 15
 
+### twin
+- **Tiếng Việt:** đứa trẻ sinh đôi; anh, chị, em sinh đôi
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /twɪn/ — One of two children born at the same time to the same mother.
+- **Giải thích (VI):** (danh từ) Một trong hai người con được sinh ra cùng một lúc từ cùng một người mẹ (số nhiều twins chỉ cặp song sinh).
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 8 (Films): dùng trong bài nghe về bộ phim hài Naughty Twins để giới thiệu nhân vật chính là cặp anh chị em song sinh (twin brothers, twin sisters).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 89; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### type
 - **Tiếng Việt:** kiểu, loại
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -6957,6 +9399,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Vật thể bay không xác định có hình dáng giống chiếc đĩa bay ngoài hành tinh (viết tắt của 'Unidentified Flying Object'; phát âm bắt đầu bằng âm /j/ nên đi với mạo từ 'a').
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 10 (Our houses in the future): dùng để miêu tả kiểu dáng độc đáo của ngôi nhà tương lai ('It looks like a UFO but it's my house in the future', 'We might live in a UFO').
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 10, tr. 38, 39, 42; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 71
+
+### UK
+- **Tiếng Việt:** Liên hiệp Vương quốc Anh và Bắc Ai-len
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˌjuː ˈkeɪ/ — The abbreviation for the United Kingdom of Great Britain and Northern Ireland, a country in western Europe consisting of England, Scotland, Wales, and Northern Ireland.
+- **Giải thích (VI):** (danh từ) Tên viết tắt của Liên hiệp Vương quốc Anh và Bắc Ai-len (the United Kingdom), quốc gia gồm bốn xứ England, Scotland, Wales và Northern Ireland với thủ đô là Luân Đôn.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng trong chủ đề các quốc gia nói tiếng Anh và quy tắc dùng mạo từ 'the' như 'Scotland is a part of the UK.' (tr. 125, 127).
+  - *Lưu ý:* Trong câu luôn đi kèm mạo từ xác định 'the' (the UK) vì chứa danh từ chung 'Kingdom'; phân biệt 'the UK' (toàn bộ Liên hiệp Vương quốc Anh và Bắc Ai-len) với 'England' (chỉ riêng xứ Anh).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 125; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 127; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### UN
 - **Tiếng Việt:** Tổ chức Liên Hợp Quốc
@@ -7014,6 +9466,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 1 (My new school): dùng khi nói về trang phục đến trường ('Let me put on my uniform', 'Students wear their uniforms on Monday').
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 1, tr. 6, 7, 13, 14
 
+### unique
+- **Tiếng Việt:** độc đáo; độc nhất vô nhị
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /juˈniːk/ — Being the only one of its kind, or having special qualities unlike anything else in the world.
+- **Giải thích (VI):** (tính từ) Độc nhất, có nét đặc sắc riêng biệt không thể tìm thấy ở bất kì nơi nào khác.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng để ca ngợi văn hoá bản địa và cảnh quan đặc sắc như 'unique Maori culture' và 'their beautiful and unique state' (tr. 126, 130, 135).
+  - *Lưu ý:* Mặc dù viết bắt đầu bằng chữ cái nguyên âm 'u', từ 'unique' phát âm mở đầu bằng phụ âm '/j/' (/juˈniːk/) nên đi kèm mạo từ bất định 'a' (ví dụ: a unique culture), không dùng 'an'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 130
+
 ### unpaid
 - **Tiếng Việt:** không được trả lương; không thù lao
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -7021,6 +9483,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (tính từ) Làm việc mà không nhận tiền lương hay thù lao tài chính, thường chỉ các hoạt động tình nguyện.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 5 (The world of work): dùng trong thông báo tuyển tình nguyện viên sự kiện từ thiện (an unpaid role, do unpaid work on Saturdays and Sundays), đối lập với paid / well-paid.
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục III), tr. 64; SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục III), tr. 64, 65; SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục III), tr. 65
+
+### unusual
+- **Tiếng Việt:** khác thường; ít phổ biến
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ʌnˈjuːʒuəl/ — Different from what is common, normal, or expected, and therefore rare or interesting.
+- **Giải thích (VI):** (tính từ) Khác biệt so với điều thông thường, hiếm gặp hoặc ít người thực hiện.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) khi nhận xét về những thú vui độc đáo, ít người tham gia như môn cưỡi ngựa (an unusual hobby).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 8; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### update
 - **Tiếng Việt:** cập nhật
@@ -7066,6 +9536,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 4: dùng xuyên suốt chủ đề đô thị hóa (urban areas, urban development, urban population, urban growth).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4, tr. 48; SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục I), tr. 48; SGK Tiếng Anh 12 Global Success, Unit 04, Unit 4 (Mục I), tr. 48, 49
 
+### USA
+- **Tiếng Việt:** Hợp chủng quốc Hoa Kì
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˌjuː es ˈeɪ/ — The abbreviation for the United States of America, a large country in North America consisting of fifty states and the federal capital Washington D.C.
+- **Giải thích (VI):** (danh từ) Tên viết tắt của Hợp chủng quốc Hoa Kì (the United States of America), quốc gia rộng lớn ở Bắc Mỹ gồm 50 bang với thủ đô là Washington D.C.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 12 (English-speaking countries): dùng trong chủ đề địa lí các nước nói tiếng Anh và ngữ pháp mạo từ như 'Is Washington D.C. the capital of the USA?' (tr. 125, 127).
+  - *Lưu ý:* Trong câu luôn phải dùng kèm mạo từ xác định 'the' phía trước (the USA).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 12, tr. 125; SGK Tiếng Anh 7 Global Success, Unit 12, tr. 127; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
 ### useful
 - **Tiếng Việt:** hữu ích; có ích
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -7107,12 +9587,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục IV), tr. 71; SGK Tiếng Anh 10 Global Success, Unit 06, Unit 6 (Mục V), tr. 71
 
 ### valuable
-- **Tiếng Việt:** có giá trị; quý giá
+- **Tiếng Việt:** có giá trị; quý giá (quý giá; rất hữu ích)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (adj) /ˈvæljuəbl/ — Very useful, helpful, or important, or worth a lot of money.
 - **Giải thích (VI):** (tính từ) Có giá trị lớn, rất hữu ích và quan trọng đối với đời sống con người (hoặc đắt giá về mặt vật chất).
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 5 (Inventions): dùng trong bài hội thoại mở đầu và bài tập từ vựng để nhận xét về giá trị to lớn của các phát minh công nghệ (There have been so many valuable inventions).
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục I), tr. 52, 53; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 127
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (adj) /ˈvæljuəbl/ — Very helpful, useful, or important, especially in providing experience or life lessons. / VI: (tính từ) Có giá trị lớn, rất hữu ích và thiết thực (thường dùng cho bài học, kinh nghiệm hoặc lời khuyên).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 5 (Inventions): dùng trong bài hội thoại mở đầu và bài tập từ vựng để nhận xét về giá trị to lớn của các phát minh công nghệ (There have been so many valuable inventions).
+  - Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) ở bài đọc nhấn mạnh những bài học bổ ích từ việc chăm sóc cây cối (teach valuable lessons).
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 05, Unit 5 (Mục I), tr. 52, 53; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 127; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 14; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### value
 - **Tiếng Việt:** giá trị, chuẩn mực đạo đức
@@ -7132,6 +9615,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 4 (For a better community): dùng đứng trước danh từ số nhiều để chỉ sự đa dạng của các hoạt động thiện nguyện trong trường học (organised various volunteering activities for all students to participate).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục III), tr. 45, 46; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126
 
+### vehicle
+- **Tiếng Việt:** xe cộ, phương tiện giao thông
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈviːəkl/ — A machine, usually with wheels and an engine, such as a car, bus, lorry, or motorbike, used for transporting people or goods on land.
+- **Giải thích (VI):** (danh từ) Tên gọi chung cho các loại xe cộ lưu thông trên đường bộ như ô tô, xe buýt, xe tải, xe máy dùng để chở người hoặc hàng hóa.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong bài đọc quy tắc an toàn cho hành khách và bài viết về ùn tắc đô thị (a moving vehicle, too many vehicles on the road).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 78; SGK Tiếng Anh 7 Global Success, Unit 7, tr. 79; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### vending machine
 - **Tiếng Việt:** máy bán hàng tự động
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -7139,6 +9630,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (cụm danh từ) Thiết bị tự động cung cấp đồ uống đóng chai hoặc đồ ăn nhẹ khi người mua trả tiền trực tiếp vào máy.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 3: dùng trong bài đọc Go green with plastics! khi đối chiếu sự tiện lợi của nước đóng chai với thói quen mang bình cá nhân (buy a bottle of water from a vending machine).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục III), tr. 36; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục III), tr. 36, 37
+
+### Verbs of liking and disliking
+- **Tiếng Việt:** động từ chỉ sự yêu thích và ghét
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /vɜːbz əv ˈlaɪkɪŋ ənd dɪsˈlaɪkɪŋ/ — Verbs used to express preferences, such as 'like', 'love', 'enjoy', and 'hate', typically followed by the -ing form of a verb.
+- **Giải thích (VI):** (cụm danh từ) Nhóm động từ diễn tả sự yêu thích hoặc không thích (như like, love, enjoy, hate), thường kết hợp với danh động từ dạng V-ing ở phía sau.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: chủ điểm từ vựng – ngữ pháp trọng tâm trong chủ đề sở thích (Hobbies), dùng cấu trúc động từ yêu/ghét cộng V-ing để diễn đạt sở thích cá nhân (like gardening, enjoy doing yoga, hate cooking).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 8; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 10; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 17
 
 ### victim
 - **Tiếng Việt:** nạn nhân
@@ -7159,6 +9658,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 6, Unit 7 (Television): được định nghĩa là "a person who watches TV" và dùng khi nói về độ phổ biến của kênh truyền hình ("A popular programme has a lot of viewers", "It has viewers from 80 countries").
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7, tr. 88; SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục I), tr. 88; SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục I), tr. 88, 89; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7, tr. 8; SGK Tiếng Anh 6 Global Success Tập 2, Unit 07, Unit 7 (Mục COMMUNICATION), tr. 11; SGK Tiếng Anh 6 Global Success Tập 2, Bảng giải thích thuật ngữ, tr. 70
 
+### violent
+- **Tiếng Việt:** có nhiều cảnh bạo lực; hung bạo
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˈvaɪələnt/ — Containing a lot of fighting, killing, or physical force intended to hurt people.
+- **Giải thích (VI):** (tính từ) Chứa đựng nhiều cảnh đánh đấm, xung đột hoặc bạo lực, thường dùng để nhận xét một bộ phim.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 8 (Films): dùng trong nhóm tính từ miêu tả và đánh giá phim ảnh (There were too many fights in the film. It was too violent).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 84, 90; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
+
 ### virtual
 - **Tiếng Việt:** ảo (trên máy tính hoặc mạng Internet)
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -7175,6 +9682,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 6 (Artificial Intelligence): viết tắt là VR, dùng để mô tả công nghệ tổ chức các chuyến tham quan thực địa ảo và thí nghiệm an toàn trong trường học (through the power of virtual reality).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục III), tr. 80; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục III), tr. 80, 81; SGK Tiếng Anh 12 Global Success, Unit 06, Unit 6 (Mục III), tr. 81
 
+### virus (English)
+- **Tiếng Việt:** vi-rút; siêu vi trùng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈvaɪrəs/ — An extremely tiny infectious agent that enters living cells and causes contagious diseases in people, animals, or plants.
+- **Giải thích (VI):** (danh từ) Tác nhân truyền nhiễm siêu nhỏ xâm nhập vào tế bào sống và gây ra các bệnh lây nhiễm như cảm cúm ở người.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng ở dạng số nhiều 'viruses' trong đề bài viết lời khuyên phòng bệnh 'give advice on how to avoid viruses' (tr. 18, 25, 27).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Virus' trong Sinh học.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 18; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 25; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### visual
 - **Tiếng Việt:** bằng hình ảnh; thuộc thị giác
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -7182,6 +9699,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (tính từ) Liên quan đến thị giác hoặc sử dụng hình ảnh, video trực quan để truyền đạt nội dung.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 7: dùng trong chủ đề phân loại phong cách trình bày của các phương tiện truyền thông đại chúng, đặc biệt trong cụm 'audio and visual' (kết hợp cả âm thanh và hình ảnh như truyền hình).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 07, Unit 7 (Mục IV), tr. 94; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 153
+
+### vitamin (English)
+- **Tiếng Việt:** vi-ta-min; sinh tố
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈvɪtəmɪn/ — Any of a group of natural organic substances found in food that are essential in small amounts for human growth and good health.
+- **Giải thích (VI):** (danh từ) Vi chất dinh dưỡng hữu cơ tự nhiên có nhiều trong rau quả và thực phẩm, cần thiết cho sự phát triển và sức đề kháng của cơ thể.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 2 (Healthy living): dùng trong chủ đề dinh dưỡng như 'We need vitamin A for our eyes.' và 'Fruit and vegetables have a lot of vitamins.' (tr. 20, 21, 22).
+  - *Lưu ý:* Từ vựng Tiếng Anh phổ thông; phân biệt với thuật ngữ chuyên ngành 'Vitamin' trong Sinh học.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 2, tr. 20; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 21; SGK Tiếng Anh 7 Global Success, Unit 2, tr. 22; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### voice command
 - **Tiếng Việt:** khẩu lệnh; sự ra lệnh bằng giọng nói
@@ -7208,12 +9735,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8, tr. 17; SGK Tiếng Anh 6 Global Success Tập 2, Unit 08, Unit 8 (Mục LOOKING BACK), tr. 24
 
 ### volunteer
-- **Tiếng Việt:** tình nguyện viên (danh từ); làm tình nguyện (động từ)
+- **Tiếng Việt:** tình nguyện viên (danh từ); làm tình nguyện (động từ; tình nguyện (động từ); tình nguyện viên; danh từ)
 - **Chuyên ngành gốc:** Tiếng Anh
 - **Giải thích (EN):** (n, v) /ˌvɒlənˈtɪə/ — (n) A person who does a job willingly without being paid for it; (v) to freely offer to do something to help others or the community without payment.
 - **Giải thích (VI):** (danh từ, động từ) (Danh từ) Tình nguyện viên làm công việc có ích cho xã hội không nhận thù lao; (động từ) tự nguyện đóng góp công sức vào hoạt động thiện nguyện.
-- **Bối cảnh:** Tiếng Anh lớp 10, Unit 4 (For a better community): từ khóa xuyên suốt chủ điểm phát triển cộng đồng, dùng cả ở dạng danh từ, động từ và danh động từ (work as a volunteer, volunteer at an orphanage, volunteering activities).
-- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục I), tr. 42, 43; SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục II), tr. 44; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126
+- **Giải thích khác (SGK Tiếng Anh 7):** EN: (v, n) /ˌvɒlənˈtɪə/ — To offer to do something helpful without being paid (verb); a person who does work freely for the community without payment (noun). / VI: (động từ, danh từ) Tự nguyện tham gia làm việc có ích mà không nhận thù lao (động từ); người làm công tác thiện nguyện vì cộng đồng (danh từ).
+- **Bối cảnh:**
+  - Tiếng Anh lớp 10, Unit 4 (For a better community): từ khóa xuyên suốt chủ điểm phát triển cộng đồng, dùng cả ở dạng danh từ, động từ và danh động từ (work as a volunteer, volunteer at an orphanage, volunteering activities).
+  - Tiếng Anh lớp 7, Unit 3 (Community service): dùng xuyên suốt chủ đề hoạt động cộng đồng với cấu trúc 'volunteer to do something' ('volunteered to teach English') và cụm danh từ 'volunteer activities / group'.
+- **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục I), tr. 42, 43; SGK Tiếng Anh 10 Global Success, Unit 04, Unit 4 (Mục II), tr. 44; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 126; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3, tr. 30, 31; SGK Tiếng Anh 7 Global Success, Unit 03, Unit 3 (Mục COMMUNICATION), tr. 33; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
 
 ### vote for
 - **Tiếng Việt:** bình chọn cho, bỏ phiếu cho
@@ -7249,6 +9779,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 5 (The world of work): dùng trong chủ đề việc làm thêm của học sinh, sinh viên (waited on tables at the local café to support herself at university).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục V), tr. 67; SGK Tiếng Anh 12 Global Success, Unit 05, Unit 5 (Mục VI), tr. 68; SGK Tiếng Anh 12 Global Success, Bảng giải thích thuật ngữ, tr. 150
 
+### walkcar
+- **Tiếng Việt:** ô tô tự hành dùng chân (ván điện bốn bánh)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /wɔːkkɑː/ — A flat, laptop-sized four-wheeled electric board that a rider stands on and controls by shifting body weight.
+- **Giải thích (VI):** (danh từ) Phương tiện cá nhân bốn bánh chạy điện có mặt phẳng nhỏ gọn như chiếc máy tính xách tay, tự cân bằng khi người dùng đứng lên và bật công tắc.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 11 (Travelling in the future): dùng trong mục Communication giới thiệu các thiết bị di chuyển cá nhân độc đáo (ví dụ: How many wheels will a walkcar have? — Four).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 11 (Mục COMMUNICATION), tr. 119; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
+
 ### wardrobe
 - **Tiếng Việt:** tủ đựng quần áo
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -7258,6 +9796,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 6, Unit 2 (My house): dùng khi miêu tả các món đồ nội thất trong phòng ngủ, ví dụ "There's a lamp, a wardrobe and a desk.".
   - *Lưu ý:* Phân biệt với "chest of drawers" (tủ thấp chia thành nhiều ngăn kéo để xếp đồ).
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 2, tr. 22; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 70
+
+### warm
+- **Tiếng Việt:** làm ấm lên; đun ấm (động từ)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (v) /wɔːm/ — To make something such as water, food, or a room pleasantly hot.
+- **Giải thích (VI):** (động từ) Làm cho nước, thức ăn hoặc không gian tăng nhiệt độ trở nên ấm nóng hơn.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 10: dùng trong chủ đề nguồn năng lượng (Energy sources) như một ngoại động từ chỉ việc dùng năng lượng mặt trời để đun ấm nước sinh hoạt (use solar panels to warm water).
+  - *Lưu ý:* Trong Unit 10, 'warm' đóng vai trò ngoại động từ (đun ấm, làm nóng lên); cần phân biệt với tính từ 'warm' mang nghĩa 'ấm áp' khi miêu tả thời tiết hoặc quần áo.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 109; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 111; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 139
 
 ### washing machine
 - **Tiếng Việt:** máy giặt
@@ -7304,6 +9852,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 3: dùng trong bài đọc Go green with plastics! chỉ tiện ích tại trường học giúp hạn chế chai nhựa dùng một lần (use the water filling stations or drinking fountains at school).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục III), tr. 36; SGK Tiếng Anh 12 Global Success, Unit 03, Unit 3 (Mục III), tr. 36, 37
 
+### water puppetry
+- **Tiếng Việt:** múa rối nước
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈwɔːtə ˈpʌpɪtri/ — A traditional Vietnamese art form in which wooden puppets are controlled to perform on the surface of water.
+- **Giải thích (VI):** (danh từ) Nghệ thuật múa rối nước truyền thống của Việt Nam dùng con rối gỗ biểu diễn trên mặt nước để tái hiện sinh hoạt làng quê.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 4 (Music and arts): chủ đề bài đọc phần Skills 1 giới thiệu loại hình nghệ thuật truyền thống 'Water puppetry is a special traditional art form'.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4 (Mục COMMUNICATION), tr. 45; SGK Tiếng Anh 7 Global Success, Unit 04, Unit 4, tr. 46; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
+
 ### waterfall
 - **Tiếng Việt:** thác nước
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -7340,6 +9896,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tiếng Anh lớp 10, Unit 7: dùng trong chủ đề hội nhập kinh tế quốc tế khi nói về chính sách thu hút đầu tư của Việt Nam (Viet Nam welcomes foreign businesses / foreign investors).
   - Tiếng Anh lớp 6, Unit 6 (Our Tet Holiday): dùng trong cụm welcome the New Year khi nói về hoạt động đón Giao thừa ("I often go to Times Square with my parents to welcome the New Year").
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục II), tr. 78; SGK Tiếng Anh 10 Global Success, Unit 07, Unit 7 (Mục VIII), tr. 84; SGK Tiếng Anh 10 Global Success, Bảng giải thích thuật ngữ, tr. 129; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 64, 65; SGK Tiếng Anh 6 Global Success Tập 1, Bảng giải thích thuật ngữ, tr. 71
+
+### well-known
+- **Tiếng Việt:** nổi tiếng; được nhiều người biết đến
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (adj) /ˌwel ˈnəʊn/ — Known about by a lot of people; famous.
+- **Giải thích (VI):** (tính từ) Nổi tiếng, có danh tiếng rộng rãi và được nhiều người biết tới.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 6: dùng trong bài đọc về các cựu học sinh kiệt xuất của trường Quốc Học – Huế và danh sư Chu Văn An (Well-known people, the most well-known teacher).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 06, Unit 6, tr. 66; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 137
 
 ### well-paid
 - **Tiếng Việt:** được trả lương cao
@@ -7412,6 +9976,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 10, Unit 9: dùng trong bài nghe về các giải pháp bảo vệ động vật nguy cấp (illegal hunting can be prevented by banning wildlife trade).
 - **Nguồn:** SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục V), tr. 106; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục VI), tr. 106; SGK Tiếng Anh 10 Global Success, Unit 09, Unit 9 (Mục VI), tr. 106, 107
 
+### wind energy
+- **Tiếng Việt:** năng lượng gió; phong năng
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /ˈwɪnd enədʒi/ — Power or electricity generated from the natural movement of the wind, typically using wind turbines.
+- **Giải thích (VI):** (cụm danh từ) Nguồn năng lượng sạch và có thể tái tạo được sản xuất từ sức gió thông qua các tua-bin gió.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 10 (Energy sources): dùng trong chủ đề các nguồn năng lượng tái tạo (ví dụ: What does 'wind energy' mean? — It's another type of energy, and it comes from wind).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 10, tr. 105; SGK Tiếng Anh 7 Global Success, Unit 10, tr. 106; SGK Tiếng Anh 7 Global Success, Unit 10 (Mục COMMUNICATION), tr. 109
+
 ### wireless
 - **Tiếng Việt:** không dây
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -7435,6 +10007,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ, động từ) Ở dạng danh từ chỉ điều ước hoặc lời chúc tốt đẹp; ở dạng động từ chỉ hành động cầu mong điều gì ("wish for") hoặc gửi lời chúc mừng tới ai ("wish somebody Happy New Year").
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 6 (Our Tet Holiday): dùng xuyên suốt chủ đề lời chúc và ước nguyện năm mới ("Saying New Year's wishes", "We wish them Happy New Year", "wish for good luck").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 58; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6, tr. 60; SGK Tiếng Anh 6 Global Success Tập 1, Unit 06, Unit 6 (Mục COMMUNICATION), tr. 63
+
+### wizard
+- **Tiếng Việt:** phù thuỷ; pháp sư
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈwɪzəd/ — In stories and fantasy films, a man who is believed to have magical powers.
+- **Giải thích (VI):** (danh từ) Nam phù thuỷ hoặc pháp sư có phép thuật trong các câu chuyện cổ tích và bộ phim giả tưởng.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 8 (Films): dùng trong bài đọc về dòng phim giả tưởng (fantasy) để miêu tả nhân vật chính Harry Potter là một phù thuỷ tài năng theo học tại trường phép thuật (a school for wizards).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 8, tr. 87, 88; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ### wonder
 - **Tiếng Việt:** thắc mắc, băn khoăn
@@ -7516,6 +10096,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tiếng Anh lớp 6, Unit 3 (My friends): chủ đề dự án cuối bài (Project) hướng dẫn học sinh làm kỉ yếu lớp ("How to make a class yearbook" / "Together make a class yearbook.").
 - **Nguồn:** SGK Tiếng Anh 6 Global Success Tập 1, Unit 3, tr. 35
 
+### Yes-No questions
+- **Tiếng Việt:** câu hỏi Có-Không (câu nghi vấn tổng quát)
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (np) /jes nəʊ ˈkwestʃənz/ — Questions formed by placing an auxiliary verb (be, do, have), the main verb 'be', or a modal verb before the subject, requiring either 'Yes' or 'No' as an answer.
+- **Giải thích (VI):** (cụm danh từ) Dạng câu nghi vấn được tạo bằng cách đảo trợ động từ (be, do, have), động từ chính be hoặc động từ khuyết thiếu lên trước chủ ngữ để xác nhận thông tin bằng câu trả lời Yes hoặc No.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 9 (Festivals around the world): chủ điểm ngữ pháp trọng tâm dùng để đặt câu hỏi tìm hiểu về các hoạt động, thời gian và phong tục lễ hội (Do you eat moon cakes at the festival? — Yes, I do.).
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 9, tr. 92, 95, 96, 100, 101
+
+### yoga
+- **Tiếng Việt:** yoga
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˈjəʊɡə/ — A system of physical postures, stretching, and breathing exercises practised to promote health and relaxation.
+- **Giải thích (VI):** (danh từ) Bộ môn tập luyện kết hợp các tư thế cơ thể và kiểm soát hơi thở nhằm nâng cao sức khoẻ và sự dẻo dai.
+- **Bối cảnh:** Tiếng Anh lớp 7, Unit 1: dùng trong chủ đề sở thích (Hobbies) ở mạng từ đi với động từ 'do' (do yoga) và bài luyện phát âm nguyên âm ngắn /ə/.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 1, tr. 10; SGK Tiếng Anh 7 Global Success, Unit 1, tr. 11; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 136
+
 ### youth
 - **Tiếng Việt:** tuổi trẻ; thời thanh xuân
 - **Chuyên ngành gốc:** Tiếng Anh
@@ -7523,6 +10119,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** (danh từ) Quãng đời thanh xuân tràn đầy sức sống khi con người còn trẻ tuổi.
 - **Bối cảnh:** Tiếng Anh lớp 12, Unit 1 (Life stories we admire): dùng trong các cụm 'devoting her youth' (hiến dâng tuổi trẻ của mình) và 'started his own business in his youth' (khởi nghiệp thời trẻ).
 - **Nguồn:** SGK Tiếng Anh 12 Global Success, Unit 1 (Mục I), tr. 9; SGK Tiếng Anh 12 Global Success, Unit 1 (Mục II), tr. 9, 10, 11
+
+### zebra crossing
+- **Tiếng Việt:** vạch kẻ cho người đi bộ sang đường
+- **Chuyên ngành gốc:** Tiếng Anh
+- **Giải thích (EN):** (n) /ˌziːbrə ˈkrɒsɪŋ/ — An area of road painted with broad black and white stripes where vehicles must stop to let pedestrians cross.
+- **Giải thích (VI):** (danh từ) Phần mặt đường sơn các vạch trắng song song xen kẽ nền đường sẫm màu dành cho người đi bộ băng qua đường an toàn.
+- **Bối cảnh:**
+  - Tiếng Anh lớp 7, Unit 7 (Traffic): dùng trong quy tắc an toàn khi sang đường của người đi bộ (Walk across the street at the zebra crossing).
+  - *Lưu ý:* Thuật ngữ chuẩn tiếng Anh – Anh (do có vạch sơn trắng đen giống sọc ngựa vằn); trong tiếng Anh – Mỹ gọi là crosswalk.
+- **Nguồn:** SGK Tiếng Anh 7 Global Success, Unit 7, tr. 78; SGK Tiếng Anh 7 Global Success, Bảng giải thích thuật ngữ, tr. 138
 
 ---
 

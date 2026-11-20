@@ -1,0 +1,40 @@
+{
+  "H7-khoa_hoc_tu_nhien-b36-01": {
+    "pdf_page": 149,
+    "bbox": [42, 562, 536, 791],
+    "allow_edge_ink": true,
+    "edge_ink_note": "nhãn 'Hạt nảy mầm' vươn sang trái đến x=44 trùng cột với số trang 148 ở góc dưới trái (y=793..802), còn chú thích Hình 36.1 xuống đến y=793 nên cạnh dưới y=795 chạm đỉnh số trang 148 để không lấy số trang vào hình"
+  },
+  "H7-khoa_hoc_tu_nhien-b36-02": {
+    "pdf_page": 150,
+    "bbox": [66, 544, 458, 748]
+  },
+  "H7-khoa_hoc_tu_nhien-b36-03": {
+    "pdf_page": 151,
+    "bbox": [370, 279, 528, 474]
+  },
+  "H7-khoa_hoc_tu_nhien-b37-01": {
+    "pdf_page": 152,
+    "bbox": [122, 600, 516, 792]
+  },
+  "H7-khoa_hoc_tu_nhien-b37-02": {
+    "pdf_page": 153,
+    "bbox": [348, 228, 536, 392]
+  },
+  "H7-khoa_hoc_tu_nhien-b37-03": {
+    "pdf_page": 154,
+    "bbox": [226, 152, 542, 536]
+  },
+  "H7-khoa_hoc_tu_nhien-b37-04": {
+    "pdf_page": 155,
+    "bbox": [54, 54, 538, 256]
+  },
+  "H7-khoa_hoc_tu_nhien-b37-05": {
+    "pdf_page": 156,
+    "bbox": [58, 54, 542, 255]
+  },
+  "H7-khoa_hoc_tu_nhien-b38-01": {
+    "pdf_page": 158,
+    "bbox": [58, 116, 542, 336]
+  }
+}

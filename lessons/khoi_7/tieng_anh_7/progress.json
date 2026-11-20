@@ -1,0 +1,494 @@
+{
+  "unit": "tieng_anh_7",
+  "subject": "tieng_anh",
+  "subject_name": "Tiếng Anh",
+  "grade": 7,
+  "files": [
+    {
+      "file": "SGK Tieng Anh 7 Glocal success.pdf",
+      "volume": null,
+      "page_count": 141,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "contents",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Contents",
+      "file": null,
+      "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "book-map",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Book Map",
+      "file": null,
+      "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+      "pdf_pages": [
+        5,
+        8
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "unit-01",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 1",
+      "number": 1,
+      "title": "Hobbies",
+      "dir": "Unit-01-Hobbies",
+      "children": [
+        {
+          "id": "u01",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 1",
+          "number": 1,
+          "title": "Hobbies",
+          "lesson_type": "ly_thuyet",
+          "file": "U01-Hobbies.md",
+          "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+          "pdf_pages": [
+            9,
+            18
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-02",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 2",
+      "number": 2,
+      "title": "Healthy living",
+      "dir": "Unit-02-Healthy-living",
+      "children": [
+        {
+          "id": "u02",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 2",
+          "number": 2,
+          "title": "Healthy living",
+          "lesson_type": "ly_thuyet",
+          "file": "U02-Healthy-living.md",
+          "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+          "pdf_pages": [
+            19,
+            28
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-03",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 3",
+      "number": 3,
+      "title": "Community service",
+      "dir": "Unit-03-Community-service",
+      "children": [
+        {
+          "id": "u03",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 3",
+          "number": 3,
+          "title": "Community service",
+          "lesson_type": "ly_thuyet",
+          "file": "U03-Community-service.md",
+          "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+          "pdf_pages": [
+            29,
+            38
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r01",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 1,
+          "title": "Review 1",
+          "lesson_type": "on_tap",
+          "file": "R01-Review-1.md",
+          "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+          "pdf_pages": [
+            39,
+            40
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-04",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 4",
+      "number": 4,
+      "title": "Music and arts",
+      "dir": "Unit-04-Music-and-arts",
+      "children": [
+        {
+          "id": "u04",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 4",
+          "number": 4,
+          "title": "Music and arts",
+          "lesson_type": "ly_thuyet",
+          "file": "U04-Music-and-arts.md",
+          "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+          "pdf_pages": [
+            41,
+            50
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-05",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 5",
+      "number": 5,
+      "title": "Food and drink",
+      "dir": "Unit-05-Food-and-drink",
+      "children": [
+        {
+          "id": "u05",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 5",
+          "number": 5,
+          "title": "Food and drink",
+          "lesson_type": "ly_thuyet",
+          "file": "U05-Food-and-drink.md",
+          "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+          "pdf_pages": [
+            51,
+            60
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-06",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 6",
+      "number": 6,
+      "title": "A visit to a school",
+      "dir": "Unit-06-A-visit-to-a-school",
+      "children": [
+        {
+          "id": "u06",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 6",
+          "number": 6,
+          "title": "A visit to a school",
+          "lesson_type": "ly_thuyet",
+          "file": "U06-A-visit-to-a-school.md",
+          "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+          "pdf_pages": [
+            61,
+            70
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r02",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 2,
+          "title": "Review 2",
+          "lesson_type": "on_tap",
+          "file": "R02-Review-2.md",
+          "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+          "pdf_pages": [
+            71,
+            72
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-07",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 7",
+      "number": 7,
+      "title": "Traffic",
+      "dir": "Unit-07-Traffic",
+      "children": [
+        {
+          "id": "u07",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 7",
+          "number": 7,
+          "title": "Traffic",
+          "lesson_type": "ly_thuyet",
+          "file": "U07-Traffic.md",
+          "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+          "pdf_pages": [
+            73,
+            82
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-08",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 8",
+      "number": 8,
+      "title": "Films",
+      "dir": "Unit-08-Films",
+      "children": [
+        {
+          "id": "u08",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 8",
+          "number": 8,
+          "title": "Films",
+          "lesson_type": "ly_thuyet",
+          "file": "U08-Films.md",
+          "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+          "pdf_pages": [
+            83,
+            92
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-09",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 9",
+      "number": 9,
+      "title": "Festivals around the world",
+      "dir": "Unit-09-Festivals-around-the-world",
+      "children": [
+        {
+          "id": "u09",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 9",
+          "number": 9,
+          "title": "Festivals around the world",
+          "lesson_type": "ly_thuyet",
+          "file": "U09-Festivals-around-the-world.md",
+          "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+          "pdf_pages": [
+            93,
+            102
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r03",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 3,
+          "title": "Review 3",
+          "lesson_type": "on_tap",
+          "file": "R03-Review-3.md",
+          "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+          "pdf_pages": [
+            103,
+            104
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-10",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 10",
+      "number": 10,
+      "title": "Energy sources",
+      "dir": "Unit-10-Energy-sources",
+      "children": [
+        {
+          "id": "u10",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 10",
+          "number": 10,
+          "title": "Energy sources",
+          "lesson_type": "ly_thuyet",
+          "file": "U10-Energy-sources.md",
+          "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+          "pdf_pages": [
+            105,
+            114
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-11",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 11",
+      "number": 11,
+      "title": "Travelling in the future",
+      "dir": "Unit-11-Travelling-in-the-future",
+      "children": [
+        {
+          "id": "u11",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 11",
+          "number": 11,
+          "title": "Travelling in the future",
+          "lesson_type": "ly_thuyet",
+          "file": "U11-Travelling-in-the-future.md",
+          "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+          "pdf_pages": [
+            115,
+            124
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-12",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 12",
+      "number": 12,
+      "title": "English-speaking countries",
+      "dir": "Unit-12-English-speaking-countries",
+      "children": [
+        {
+          "id": "u12",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 12",
+          "number": 12,
+          "title": "English-speaking countries",
+          "lesson_type": "ly_thuyet",
+          "file": "U12-English-speaking-countries.md",
+          "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+          "pdf_pages": [
+            125,
+            134
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r04",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 4,
+          "title": "Review 4",
+          "lesson_type": "on_tap",
+          "file": "R04-Review-4.md",
+          "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+          "pdf_pages": [
+            135,
+            136
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Glossary",
+      "file": "Glossary.md",
+      "source_file": "SGK Tieng Anh 7 Glocal success.pdf",
+      "pdf_pages": [
+        137,
+        140
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Tiếng Anh 7 – Global Success (141 trang PDF, bản gộp trọn bộ 12 Unit, 4 Review và Glossary cuối sách; độ lệch trang in cố định printed_offset = 1 xuyên suốt từ PDF 3 = trang in 2 Contents đến PDF 140 = trang in 139 Glossary; PDF 1–2 là bìa và trang tên sách, PDF 141 là trang bản quyền).",
+    "4 bài Review (Review 1–4) được gộp vào thư mục của Unit đứng ngay trước nó (Unit 3, Unit 6, Unit 9, Unit 12) theo đúng chuẩn SPEC-TEXTBOOK-01 và mẫu tieng_anh_6, tieng_anh_10, tieng_anh_12.",
+    "Chính tả tiếng Anh giữ nguyên chuẩn Anh – Anh (British English) theo SGK."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-20",
+      "scope": [
+        "unit-01",
+        "unit-02",
+        "unit-03",
+        "unit-04",
+        "unit-05",
+        "unit-06",
+        "unit-07",
+        "unit-08",
+        "unit-09",
+        "unit-10",
+        "unit-11",
+        "unit-12"
+      ],
+      "terms": 352,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ 12 Unit, 4 Review và bảng Glossary cuối sách (352 thuật ngữ: 262 in_source, 90 [mô tả], 0 Ngoài nguồn, 1 ghi chú nguồn đóng; 47 hình minh hoạ): lấy mẫu phân tầng 30 mục (10 mục in_source: horror film, bumpy, water puppetry, clean-up activity, culture, traffic jam, pedal, acting, capital, amazing; 10 mục [mô tả]: pick up litter, boat ride, How many / How much, paintbrush, raise money, spaceship, It indicating distance, lion dance, crossroads, Simple sentences; và 10 hình minh hoạ: H7-tieng_anh-u02-01, u06-03, u01-04, u02-03, u07-03, u11-02, u07-06, u07-04, u07-01, u07-05). Toàn bộ 30/30 mục mẫu khớp 100% với trang sách gốc (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-20: Hoàn thành 100% tieng_anh_7 từ Cổng 0 đến Cổng 4 (12 Unit, 4 Review, Glossary cuối sách, 47 hình minh hoạ, 12 từ điển với 352 thuật ngữ, 0 lỗi)."
+}

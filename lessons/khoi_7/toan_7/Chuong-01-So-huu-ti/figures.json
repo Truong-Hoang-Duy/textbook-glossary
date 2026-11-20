@@ -1,0 +1,104 @@
+{
+  "H7-toan-b01-01": {
+    "pdf_page": 7,
+    "bbox": [274, 46, 534, 193]
+  },
+  "H7-toan-b01-02": {
+    "pdf_page": 7,
+    "bbox": [382, 720, 550, 776]
+  },
+  "H7-toan-b01-03": {
+    "pdf_page": 8,
+    "bbox": [361, 88, 550, 213]
+  },
+  "H7-toan-b01-04": {
+    "pdf_page": 8,
+    "bbox": [369, 311, 545, 379]
+  },
+  "H7-toan-b01-05": {
+    "pdf_page": 8,
+    "bbox": [138, 512, 452, 576]
+  },
+  "H7-toan-b01-06": {
+    "pdf_page": 8,
+    "bbox": [388, 647, 545, 700]
+  },
+  "H7-toan-b01-07": {
+    "pdf_page": 9,
+    "bbox": [116, 539, 452, 597],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chữ O phía trên trục số Hình 1.6 cao hơn chân mẫu số 5 của phân số 6/5 ở dòng văn bản ngay trên"
+  },
+  "H7-toan-b01-08": {
+    "pdf_page": 10,
+    "bbox": [133, 217, 459, 298]
+  },
+  "H7-toan-b02-01": {
+    "pdf_page": 11,
+    "bbox": [434, 196, 557, 320]
+  },
+  "H7-toan-b02-02": {
+    "pdf_page": 13,
+    "bbox": [394, 89, 557, 182]
+  },
+  "H7-toan-b02-03": {
+    "pdf_page": 14,
+    "bbox": [377, 184, 551, 379]
+  },
+  "H7-toan-b02-04": {
+    "pdf_page": 14,
+    "bbox": [443, 526, 532, 674]
+  },
+  "H7-toan-b02-05": {
+    "pdf_page": 14,
+    "bbox": [357, 680, 553, 779]
+  },
+  "H7-toan-ltc-c01-01-01": {
+    "pdf_page": 15,
+    "bbox": [150, 486, 476, 573]
+  },
+  "H7-toan-ltc-c01-01-02": {
+    "pdf_page": 16,
+    "bbox": [339, 472, 552, 651]
+  },
+  "H7-toan-b03-01": {
+    "pdf_page": 17,
+    "bbox": [395, 226, 559, 390]
+  },
+  "H7-toan-b03-02": {
+    "pdf_page": 17,
+    "bbox": [440, 658, 549, 748]
+  },
+  "H7-toan-b03-03": {
+    "pdf_page": 18,
+    "bbox": [435, 452, 513, 540]
+  },
+  "H7-toan-b03-04": {
+    "pdf_page": 19,
+    "bbox": [439, 486, 555, 621]
+  },
+  "H7-toan-b04-01": {
+    "pdf_page": 21,
+    "bbox": [411, 219, 557, 353]
+  },
+  "H7-toan-b04-02": {
+    "pdf_page": 22,
+    "bbox": [335, 218, 546, 290]
+  },
+  "H7-toan-b04-03": {
+    "pdf_page": 23,
+    "bbox": [368, 325, 557, 466]
+  },
+  "H7-toan-ltc-c01-02-01": {
+    "pdf_page": 24,
+    "bbox": [320, 141, 549, 297]
+  },
+  "H7-toan-bt-c01-01": {
+    "pdf_page": 26,
+    "bbox": [337, 78, 557, 223]
+  },
+  "H7-toan-bt-c01-02": {
+    "pdf_page": 26,
+    "bbox": [82, 579, 511, 775]
+  }
+}

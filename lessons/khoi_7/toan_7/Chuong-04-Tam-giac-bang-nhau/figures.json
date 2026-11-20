@@ -1,0 +1,773 @@
+{
+  "H7-toan-b12-01": {
+    "pdf_page": 61,
+    "bbox": [
+      137,
+      593,
+      468,
+      669
+    ]
+  },
+  "H7-toan-b12-02": {
+    "pdf_page": 61,
+    "bbox": [
+      427,
+      678,
+      558,
+      770
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình vẽ tam giác MNP nằm trên mảng nền trang trí màu hồng ở góc dưới bên phải trang mở đầu Chương IV"
+  },
+  "H7-toan-b12-03": {
+    "pdf_page": 62,
+    "bbox": [
+      291,
+      59,
+      547,
+      190
+    ]
+  },
+  "H7-toan-b12-04": {
+    "pdf_page": 62,
+    "bbox": [
+      383,
+      338,
+      543,
+      463
+    ]
+  },
+  "H7-toan-b12-05": {
+    "pdf_page": 62,
+    "bbox": [
+      59,
+      542,
+      527,
+      676
+    ]
+  },
+  "H7-toan-b12-06": {
+    "pdf_page": 63,
+    "bbox": [
+      399,
+      216,
+      529,
+      304
+    ]
+  },
+  "H7-toan-b12-07": {
+    "pdf_page": 63,
+    "bbox": [
+      238,
+      466,
+      556,
+      543
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh dưới khung chữ nhật chạm đỉnh chữ M của Hình 4.7 ngay bên dưới do khoảng cách dọc chỉ có 2 pt"
+  },
+  "H7-toan-b12-08": {
+    "pdf_page": 63,
+    "bbox": [
+      227,
+      546,
+      556,
+      643
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trên khung chữ nhật chạm chân dòng chú thích Hình 4.6 ngay phía trên do chữ M của Hình 4.7 đặt sát chú thích trên 2 pt"
+  },
+  "H7-toan-b12-09": {
+    "pdf_page": 63,
+    "bbox": [
+      297,
+      657,
+      502,
+      771
+    ]
+  },
+  "H7-toan-b13-01": {
+    "pdf_page": 64,
+    "bbox": [
+      59,
+      471,
+      526,
+      632
+    ]
+  },
+  "H7-toan-b13-02": {
+    "pdf_page": 65,
+    "bbox": [
+      324,
+      78,
+      534,
+      178
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 4.10 in bên trong khung định nghĩa nền màu vàng nên bốn cạnh khung cắt nằm trên nền màu của hộp kiến thức"
+  },
+  "H7-toan-b13-03": {
+    "pdf_page": 65,
+    "bbox": [
+      189,
+      321,
+      416,
+      423
+    ]
+  },
+  "H7-toan-b13-04": {
+    "pdf_page": 65,
+    "bbox": [
+      318,
+      557,
+      548,
+      661
+    ]
+  },
+  "H7-toan-b13-05": {
+    "pdf_page": 66,
+    "bbox": [
+      77,
+      244,
+      351,
+      340
+    ]
+  },
+  "H7-toan-b13-06": {
+    "pdf_page": 66,
+    "bbox": [
+      448,
+      531,
+      547,
+      626
+    ]
+  },
+  "H7-toan-b13-07": {
+    "pdf_page": 66,
+    "bbox": [
+      115,
+      621,
+      322,
+      772
+    ]
+  },
+  "H7-toan-b13-08": {
+    "pdf_page": 67,
+    "bbox": [
+      115,
+      289,
+      490,
+      414
+    ]
+  },
+  "H7-toan-b13-09": {
+    "pdf_page": 67,
+    "bbox": [
+      383,
+      519,
+      552,
+      622
+    ]
+  },
+  "H7-toan-b13-10": {
+    "pdf_page": 67,
+    "bbox": [
+      413,
+      649,
+      545,
+      775
+    ]
+  },
+  "H7-toan-b13-11": {
+    "pdf_page": 68,
+    "bbox": [
+      113,
+      101,
+      483,
+      228
+    ]
+  },
+  "H7-toan-b13-12": {
+    "pdf_page": 68,
+    "bbox": [
+      330,
+      402,
+      546,
+      509
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc trên bên trái khung chữ nhật đi qua chữ cuối đề bài 4.4 ('Hình 4.18.', 'đúng?') do đỉnh A ở dưới vươn sang trái hơn đỉnh B ở trên"
+  },
+  "H7-toan-b13-13": {
+    "pdf_page": 68,
+    "bbox": [
+      209,
+      552,
+      386,
+      687
+    ]
+  },
+  "H7-toan-b13-14": {
+    "pdf_page": 68,
+    "bbox": [
+      434,
+      676,
+      547,
+      780
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trái khung chữ nhật chạm dấu chấm sau '30°.' của đề bài 4.6 do đỉnh D vươn sát cột chữ bên trái"
+  },
+  "H7-toan-ltc-c04-01-01": {
+    "pdf_page": 69,
+    "bbox": [
+      307,
+      130,
+      556,
+      223
+    ]
+  },
+  "H7-toan-ltc-c04-01-02": {
+    "pdf_page": 69,
+    "bbox": [
+      433,
+      366,
+      555,
+      516
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc trên bên trái khung chữ nhật chạm chữ 'D.' của dòng đề bài Ví dụ 2 do đỉnh A ở giữa vươn sang trái ngang cột chữ trên"
+  },
+  "H7-toan-ltc-c04-01-03": {
+    "pdf_page": 70,
+    "bbox": [
+      150,
+      119,
+      436,
+      217
+    ]
+  },
+  "H7-toan-ltc-c04-01-04": {
+    "pdf_page": 70,
+    "bbox": [
+      115,
+      270,
+      471,
+      357
+    ]
+  },
+  "H7-toan-ltc-c04-01-05": {
+    "pdf_page": 70,
+    "bbox": [
+      205,
+      393,
+      380,
+      493
+    ]
+  },
+  "H7-toan-ltc-c04-01-06": {
+    "pdf_page": 70,
+    "bbox": [
+      380,
+      496,
+      534,
+      634
+    ]
+  },
+  "H7-toan-b14-01": {
+    "pdf_page": 71,
+    "bbox": [
+      399,
+      410,
+      555,
+      548
+    ]
+  },
+  "H7-toan-b14-02": {
+    "pdf_page": 71,
+    "bbox": [
+      407,
+      568,
+      555,
+      695
+    ]
+  },
+  "H7-toan-b14-03": {
+    "pdf_page": 72,
+    "bbox": [
+      40,
+      254,
+      485,
+      342
+    ]
+  },
+  "H7-toan-b14-04": {
+    "pdf_page": 72,
+    "bbox": [
+      413,
+      365,
+      532,
+      479
+    ]
+  },
+  "H7-toan-b14-05": {
+    "pdf_page": 72,
+    "bbox": [
+      198,
+      556,
+      387,
+      656
+    ]
+  },
+  "H7-toan-b14-06": {
+    "pdf_page": 72,
+    "bbox": [
+      389,
+      672,
+      541,
+      764
+    ]
+  },
+  "H7-toan-b14-07": {
+    "pdf_page": 73,
+    "bbox": [
+      424,
+      112,
+      541,
+      230
+    ]
+  },
+  "H7-toan-b14-08": {
+    "pdf_page": 73,
+    "bbox": [
+      423,
+      242,
+      540,
+      348
+    ]
+  },
+  "H7-toan-b14-09": {
+    "pdf_page": 73,
+    "bbox": [
+      96,
+      525,
+      509,
+      649
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên trái khung chữ nhật đi qua mép phải nhãn Ví dụ 2 do nhãn đặt cao ngang dòng chú thích Hình 4.35"
+  },
+  "H7-toan-b14-10": {
+    "pdf_page": 73,
+    "bbox": [
+      388,
+      666,
+      539,
+      775
+    ]
+  },
+  "H7-toan-b14-11": {
+    "pdf_page": 74,
+    "bbox": [
+      435,
+      60,
+      533,
+      179
+    ]
+  },
+  "H7-toan-b14-12": {
+    "pdf_page": 74,
+    "bbox": [
+      84,
+      239,
+      326,
+      318
+    ]
+  },
+  "H7-toan-b14-13": {
+    "pdf_page": 74,
+    "bbox": [
+      223,
+      356,
+      543,
+      462
+    ]
+  },
+  "H7-toan-b14-14": {
+    "pdf_page": 74,
+    "bbox": [
+      404,
+      473,
+      545,
+      557
+    ]
+  },
+  "H7-toan-b14-15": {
+    "pdf_page": 74,
+    "bbox": [
+      111,
+      596,
+      291,
+      702
+    ]
+  },
+  "H7-toan-b14-16": {
+    "pdf_page": 74,
+    "bbox": [
+      328,
+      578,
+      476,
+      702
+    ]
+  },
+  "H7-toan-ltc-c04-02-01": {
+    "pdf_page": 75,
+    "bbox": [
+      401,
+      167,
+      547,
+      352
+    ]
+  },
+  "H7-toan-ltc-c04-02-02": {
+    "pdf_page": 75,
+    "bbox": [
+      415,
+      574,
+      551,
+      690
+    ]
+  },
+  "H7-toan-b15-01": {
+    "pdf_page": 76,
+    "bbox": [
+      387,
+      241,
+      547,
+      390
+    ]
+  },
+  "H7-toan-b15-02": {
+    "pdf_page": 76,
+    "bbox": [
+      365,
+      572,
+      549,
+      690
+    ]
+  },
+  "H7-toan-b15-03": {
+    "pdf_page": 77,
+    "bbox": [
+      354,
+      69,
+      556,
+      162
+    ]
+  },
+  "H7-toan-b15-04": {
+    "pdf_page": 77,
+    "bbox": [
+      275,
+      465,
+      557,
+      555
+    ]
+  },
+  "H7-toan-b15-05": {
+    "pdf_page": 78,
+    "bbox": [
+      55,
+      85,
+      532,
+      219
+    ]
+  },
+  "H7-toan-b15-06": {
+    "pdf_page": 78,
+    "bbox": [
+      409,
+      253,
+      547,
+      387
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc trên bên trái khung chữ nhật đi qua cụm chữ 'với CD,' của đề bài Ví dụ 1 do đỉnh A ở giữa vươn sang trái bên dưới dòng chữ"
+  },
+  "H7-toan-b15-07": {
+    "pdf_page": 78,
+    "bbox": [
+      214,
+      639,
+      359,
+      763
+    ]
+  },
+  "H7-toan-b15-08": {
+    "pdf_page": 79,
+    "bbox": [
+      449,
+      121,
+      542,
+      269
+    ]
+  },
+  "H7-toan-b15-09": {
+    "pdf_page": 79,
+    "bbox": [
+      83,
+      488,
+      522,
+      592
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên trái khung chữ nhật đi qua mép trên nhãn Ví dụ 2 do nhãn đặt sát ngay dưới dòng chú thích Hình 4.52"
+  },
+  "H7-toan-b15-10": {
+    "pdf_page": 79,
+    "bbox": [
+      418,
+      624,
+      556,
+      750
+    ]
+  },
+  "H7-toan-b15-11": {
+    "pdf_page": 80,
+    "bbox": [
+      258,
+      158,
+      397,
+      302
+    ]
+  },
+  "H7-toan-b15-12": {
+    "pdf_page": 80,
+    "bbox": [
+      370,
+      222,
+      545,
+      404
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc trên bên trái khung chữ nhật chạm cung tròn bên phải của Hình 4.54 do nền đất Hình 4.55 vươn sang trái bên dưới Hình 4.54"
+  },
+  "H7-toan-b15-13": {
+    "pdf_page": 80,
+    "bbox": [
+      77,
+      485,
+      483,
+      609
+    ]
+  },
+  "H7-toan-b15-14": {
+    "pdf_page": 80,
+    "bbox": [
+      207,
+      646,
+      379,
+      725
+    ]
+  },
+  "H7-toan-b16-01": {
+    "pdf_page": 81,
+    "bbox": [
+      166,
+      321,
+      554,
+      483
+    ]
+  },
+  "H7-toan-b16-02": {
+    "pdf_page": 81,
+    "bbox": [
+      435,
+      555,
+      513,
+      657
+    ]
+  },
+  "H7-toan-b16-03": {
+    "pdf_page": 81,
+    "bbox": [
+      406,
+      676,
+      556,
+      788
+    ]
+  },
+  "H7-toan-b16-04": {
+    "pdf_page": 82,
+    "bbox": [
+      400,
+      60,
+      546,
+      195
+    ]
+  },
+  "H7-toan-b16-05": {
+    "pdf_page": 82,
+    "bbox": [
+      313,
+      209,
+      547,
+      331
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc trên bên trái khung chữ nhật đi qua cụm chữ 'phân giác PK' của HĐ2 do đỉnh M ở đáy vươn rộng sang trái bên dưới dòng chữ"
+  },
+  "H7-toan-b16-06": {
+    "pdf_page": 82,
+    "bbox": [
+      238,
+      392,
+      350,
+      515
+    ]
+  },
+  "H7-toan-b16-07": {
+    "pdf_page": 83,
+    "bbox": [
+      121,
+      164,
+      485,
+      312
+    ]
+  },
+  "H7-toan-b16-08": {
+    "pdf_page": 83,
+    "bbox": [
+      49,
+      520,
+      365,
+      662
+    ]
+  },
+  "H7-toan-b16-09": {
+    "pdf_page": 83,
+    "bbox": [
+      427,
+      634,
+      534,
+      759
+    ]
+  },
+  "H7-toan-b16-10": {
+    "pdf_page": 84,
+    "bbox": [
+      421,
+      205,
+      540,
+      312
+    ]
+  },
+  "H7-toan-b16-11": {
+    "pdf_page": 84,
+    "bbox": [
+      443,
+      536,
+      538,
+      661
+    ]
+  },
+  "H7-toan-b16-12": {
+    "pdf_page": 85,
+    "bbox": [
+      93,
+      73,
+      215,
+      231
+    ]
+  },
+  "H7-toan-b16-13": {
+    "pdf_page": 85,
+    "bbox": [
+      415,
+      292,
+      537,
+      420
+    ]
+  },
+  "H7-toan-b16-14": {
+    "pdf_page": 85,
+    "bbox": [
+      389,
+      637,
+      549,
+      747
+    ]
+  },
+  "H7-toan-ltc-c04-03-01": {
+    "pdf_page": 86,
+    "bbox": [
+      375,
+      246,
+      544,
+      378
+    ]
+  },
+  "H7-toan-ltc-c04-03-02": {
+    "pdf_page": 87,
+    "bbox": [
+      404,
+      57,
+      555,
+      201
+    ]
+  },
+  "H7-toan-ltc-c04-03-03": {
+    "pdf_page": 87,
+    "bbox": [
+      428,
+      521,
+      548,
+      675
+    ]
+  },
+  "H7-toan-ltc-c04-03-04": {
+    "pdf_page": 87,
+    "bbox": [
+      384,
+      690,
+      554,
+      784
+    ]
+  },
+  "H7-toan-bt-c04-01": {
+    "pdf_page": 88,
+    "bbox": [
+      50,
+      161,
+      267,
+      275
+    ]
+  },
+  "H7-toan-bt-c04-02": {
+    "pdf_page": 88,
+    "bbox": [
+      104,
+      344,
+      212,
+      451
+    ]
+  },
+  "H7-toan-bt-c04-03": {
+    "pdf_page": 88,
+    "bbox": [
+      101,
+      519,
+      222,
+      644
+    ]
+  },
+  "H7-toan-bt-c04-04": {
+    "pdf_page": 88,
+    "bbox": [
+      340,
+      183,
+      514,
+      283
+    ]
+  }
+}

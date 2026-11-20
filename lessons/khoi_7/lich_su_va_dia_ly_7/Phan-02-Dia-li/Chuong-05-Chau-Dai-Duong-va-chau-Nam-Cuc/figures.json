@@ -1,0 +1,46 @@
+{
+  "H7-lich_su_va_dia_ly-dl-b18-01": {
+    "pdf_page": 158,
+    "bbox": [34, 123, 561, 564]
+  },
+  "H7-lich_su_va_dia_ly-dl-b18-02": {
+    "pdf_page": 159,
+    "bbox": [264, 55, 543, 283]
+  },
+  "H7-lich_su_va_dia_ly-dl-b18-03": {
+    "pdf_page": 160,
+    "bbox": [76, 55, 519, 444]
+  },
+  "H7-lich_su_va_dia_ly-dl-b18-04": {
+    "pdf_page": 160,
+    "bbox": [92, 591, 503, 742]
+  },
+  "H7-lich_su_va_dia_ly-dl-b18-05": {
+    "pdf_page": 161,
+    "bbox": [87, 280, 512, 654]
+  },
+  "H7-lich_su_va_dia_ly-dl-b18-06": {
+    "pdf_page": 162,
+    "bbox": [368, 384, 542, 515]
+  },
+  "H7-lich_su_va_dia_ly-dl-b19-01": {
+    "pdf_page": 163,
+    "bbox": [53, 545, 375, 775]
+  },
+  "H7-lich_su_va_dia_ly-dl-b19-02": {
+    "pdf_page": 164,
+    "bbox": [74, 81, 518, 576],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Bản đồ hình tròn Hình 2 vươn sang phải phía trên hộp Em có biết? nên góc dưới phải khung chữ nhật cắt qua hộp Em có biết?"
+  },
+  "H7-lich_su_va_dia_ly-dl-b19-03": {
+    "pdf_page": 165,
+    "bbox": [276, 142, 595, 388],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh Hình 3 tràn sát mép phải trang sách"
+  },
+  "H7-lich_su_va_dia_ly-dl-b19-04": {
+    "pdf_page": 166,
+    "bbox": [86, 257, 509, 524]
+  }
+}

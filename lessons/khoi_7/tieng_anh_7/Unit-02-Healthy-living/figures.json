@@ -1,0 +1,20 @@
+{
+  "H7-tieng_anh-u02-01": {
+    "pdf_page": 20,
+    "bbox": [54, 276, 287, 478]
+  },
+  "H7-tieng_anh-u02-02": {
+    "pdf_page": 21,
+    "bbox": [53, 200, 298, 456],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh phải hình lục giác b (x=301) chồng lấn theo phương ngang với mép trái ô số 4 phần Pronunciation (x=299..302, y=405..423); giữ x1=298 (khung cắt x=302) để lấy trọn vẹn cạnh phải lục giác b"
+  },
+  "H7-tieng_anh-u02-03": {
+    "pdf_page": 24,
+    "bbox": [54, 255, 288, 496]
+  },
+  "H7-tieng_anh-u02-04": {
+    "pdf_page": 26,
+    "bbox": [52, 412, 539, 774]
+  }
+}

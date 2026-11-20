@@ -1,0 +1,22 @@
+{
+  "H7-tieng_anh-u01-01": {
+    "pdf_page": 10,
+    "bbox": [54, 432, 287, 540]
+  },
+  "H7-tieng_anh-u01-02": {
+    "pdf_page": 10,
+    "bbox": [305, 58, 539, 286]
+  },
+  "H7-tieng_anh-u01-03": {
+    "pdf_page": 11,
+    "bbox": [308, 322, 543, 776]
+  },
+  "H7-tieng_anh-u01-04": {
+    "pdf_page": 15,
+    "bbox": [183, 165, 305, 253]
+  },
+  "H7-tieng_anh-u01-05": {
+    "pdf_page": 16,
+    "bbox": [55, 200, 275, 354]
+  }
+}

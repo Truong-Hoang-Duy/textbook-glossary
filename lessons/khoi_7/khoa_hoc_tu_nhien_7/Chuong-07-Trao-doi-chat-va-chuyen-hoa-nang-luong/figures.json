@@ -1,0 +1,198 @@
+{
+  "H7-khoa_hoc_tu_nhien-b21-01": {
+    "pdf_page": 101,
+    "bbox": [106, 55, 480, 246]
+  },
+  "H7-khoa_hoc_tu_nhien-b21-02": {
+    "pdf_page": 101,
+    "bbox": [106, 258, 480, 468]
+  },
+  "H7-khoa_hoc_tu_nhien-b22-01": {
+    "pdf_page": 102,
+    "bbox": [358, 473, 537, 678]
+  },
+  "H7-khoa_hoc_tu_nhien-b22-02": {
+    "pdf_page": 103,
+    "bbox": [177, 151, 443, 394]
+  },
+  "H7-khoa_hoc_tu_nhien-b22-03": {
+    "pdf_page": 103,
+    "bbox": [297, 520, 557, 788]
+  },
+  "H7-khoa_hoc_tu_nhien-b23-01": {
+    "pdf_page": 105,
+    "bbox": [69, 473, 513, 714]
+  },
+  "H7-khoa_hoc_tu_nhien-b23-02": {
+    "pdf_page": 106,
+    "bbox": [261, 207, 552, 431]
+  },
+  "H7-khoa_hoc_tu_nhien-b23-03": {
+    "pdf_page": 106,
+    "bbox": [159, 587, 475, 780],
+    "allow_edge_ink": true,
+    "edge_ink_note": "đỉnh mũi tên trục tung (y=584) cao ngang chân chữ 'quang hợp.' của đoạn văn phía trên (y=585) trong khi nhãn Hình 23.3 lùi sang trái tại x=160"
+  },
+  "H7-khoa_hoc_tu_nhien-b23-04": {
+    "pdf_page": 108,
+    "bbox": [78, 216, 526, 540]
+  },
+  "H7-khoa_hoc_tu_nhien-b24-01": {
+    "pdf_page": 109,
+    "bbox": [276, 187, 536, 333]
+  },
+  "H7-khoa_hoc_tu_nhien-b24-02": {
+    "pdf_page": 109,
+    "bbox": [385, 580, 544, 799]
+  },
+  "H7-khoa_hoc_tu_nhien-b24-03": {
+    "pdf_page": 110,
+    "bbox": [356, 55, 560, 510],
+    "allow_edge_ink": true,
+    "edge_ink_note": "nhãn Hình 24.2 lùi sang trái tại x=357 dưới cột chữ Bước 3–6 (kết thúc tại x=369) nên cạnh trái chạm nhẹ cuối dòng chữ bên trái"
+  },
+  "H7-khoa_hoc_tu_nhien-b24-04": {
+    "pdf_page": 110,
+    "bbox": [388, 544, 543, 648]
+  },
+  "H7-khoa_hoc_tu_nhien-b24-05": {
+    "pdf_page": 110,
+    "bbox": [259, 653, 541, 770],
+    "allow_edge_ink": true,
+    "edge_ink_note": "nhãn b) của Hình 24.3 đặt tại x=260 sát mép phải cột chữ Bước 2 (x=263) nên cạnh trái chạm nhẹ mép phải chữ bên trái"
+  },
+  "H7-khoa_hoc_tu_nhien-b24-06": {
+    "pdf_page": 111,
+    "bbox": [308, 56, 536, 340],
+    "allow_edge_ink": true,
+    "edge_ink_note": "nhãn c), d) của Hình 24.3 đặt tại x=309 sát mép phải cột chữ Bước 3, Bước 4 (x=311) nên cạnh trái chạm nhẹ mép phải chữ bên trái"
+  },
+  "H7-khoa_hoc_tu_nhien-b25-01": {
+    "pdf_page": 112,
+    "bbox": [123, 488, 470, 658]
+  },
+  "H7-khoa_hoc_tu_nhien-b26-01": {
+    "pdf_page": 115,
+    "bbox": [314, 515, 536, 748]
+  },
+  "H7-khoa_hoc_tu_nhien-b26-02": {
+    "pdf_page": 116,
+    "bbox": [357, 55, 542, 248]
+  },
+  "H7-khoa_hoc_tu_nhien-b27-01": {
+    "pdf_page": 117,
+    "bbox": [341, 174, 528, 332]
+  },
+  "H7-khoa_hoc_tu_nhien-b27-02": {
+    "pdf_page": 117,
+    "bbox": [328, 434, 540, 784],
+    "allow_edge_ink": true,
+    "edge_ink_note": "hình 27.2c nhô sang trái tại x=329 xen giữa các ý của Bước 1 (x kéo dài tới 433) nên không có khung chữ nhật đơn nào bao trọn 27.2a–e mà không cắt qua chữ đoạn văn bên trái"
+  },
+  "H7-khoa_hoc_tu_nhien-b27-03": {
+    "pdf_page": 118,
+    "bbox": [330, 55, 542, 256]
+  },
+  "H7-khoa_hoc_tu_nhien-b28-01": {
+    "pdf_page": 120,
+    "bbox": [153, 154, 480, 399]
+  },
+  "H7-khoa_hoc_tu_nhien-b28-02": {
+    "pdf_page": 121,
+    "bbox": [55, 56, 531, 350]
+  },
+  "H7-khoa_hoc_tu_nhien-b28-03": {
+    "pdf_page": 121,
+    "bbox": [127, 466, 448, 608],
+    "allow_edge_ink": true,
+    "edge_ink_note": "nhãn 'Môi trường' ở đỉnh Hình 28.3 (y=463) sát ngay dưới chân dấu ngoặc '(Hình 28.4).' của đoạn văn phía trên (y=462)"
+  },
+  "H7-khoa_hoc_tu_nhien-b28-04": {
+    "pdf_page": 121,
+    "bbox": [100, 616, 498, 808]
+  },
+  "H7-khoa_hoc_tu_nhien-b29-01": {
+    "pdf_page": 123,
+    "bbox": [190, 520, 400, 676]
+  },
+  "H7-khoa_hoc_tu_nhien-b29-02": {
+    "pdf_page": 124,
+    "bbox": [277, 56, 542, 236]
+  },
+  "H7-khoa_hoc_tu_nhien-b29-03": {
+    "pdf_page": 124,
+    "bbox": [59, 265, 361, 490]
+  },
+  "H7-khoa_hoc_tu_nhien-b29-04": {
+    "pdf_page": 125,
+    "bbox": [142, 52, 434, 262]
+  },
+  "H7-khoa_hoc_tu_nhien-b29-05": {
+    "pdf_page": 125,
+    "bbox": [54, 422, 536, 616]
+  },
+  "H7-khoa_hoc_tu_nhien-b29-06": {
+    "pdf_page": 126,
+    "bbox": [104, 152, 522, 368]
+  },
+  "H7-khoa_hoc_tu_nhien-b29-07": {
+    "pdf_page": 127,
+    "bbox": [162, 147, 404, 314]
+  },
+  "H7-khoa_hoc_tu_nhien-b30-01": {
+    "pdf_page": 128,
+    "bbox": [180, 518, 430, 694],
+    "allow_edge_ink": true,
+    "edge_ink_note": "nhãn 'Mạch gỗ' ở đỉnh Hình 30.1 (y=515) cao ngang chân chữ 'khoáng.' của đoạn văn phía trên (y=515)"
+  },
+  "H7-khoa_hoc_tu_nhien-b30-02": {
+    "pdf_page": 129,
+    "bbox": [368, 78, 539, 322],
+    "allow_edge_ink": true,
+    "edge_ink_note": "nhãn 'chất khoáng' của Hình 30.2 lùi sang trái tại x=369 sát mép phải đoạn văn mục II phía trên (x=368)"
+  },
+  "H7-khoa_hoc_tu_nhien-b30-03": {
+    "pdf_page": 129,
+    "bbox": [206, 524, 536, 694]
+  },
+  "H7-khoa_hoc_tu_nhien-b30-04": {
+    "pdf_page": 130,
+    "bbox": [302, 116, 544, 309]
+  },
+  "H7-khoa_hoc_tu_nhien-b30-05": {
+    "pdf_page": 130,
+    "bbox": [59, 393, 228, 570]
+  },
+  "H7-khoa_hoc_tu_nhien-b31-01": {
+    "pdf_page": 132,
+    "bbox": [114, 502, 502, 792]
+  },
+  "H7-khoa_hoc_tu_nhien-b31-02": {
+    "pdf_page": 133,
+    "bbox": [53, 260, 536, 428]
+  },
+  "H7-khoa_hoc_tu_nhien-b31-03": {
+    "pdf_page": 133,
+    "bbox": [53, 584, 291, 769]
+  },
+  "H7-khoa_hoc_tu_nhien-b31-04": {
+    "pdf_page": 133,
+    "bbox": [297, 584, 536, 783]
+  },
+  "H7-khoa_hoc_tu_nhien-b31-05": {
+    "pdf_page": 134,
+    "bbox": [149, 436, 456, 722]
+  },
+  "H7-khoa_hoc_tu_nhien-b31-06": {
+    "pdf_page": 136,
+    "bbox": [252, 78, 526, 386]
+  },
+  "H7-khoa_hoc_tu_nhien-b32-01": {
+    "pdf_page": 137,
+    "bbox": [69, 606, 535, 798]
+  },
+  "H7-khoa_hoc_tu_nhien-b32-02": {
+    "pdf_page": 138,
+    "bbox": [243, 55, 542, 438]
+  }
+}

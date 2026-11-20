@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Giáo dục Kinh tế và Pháp luật",
-    "generated_at": "2026-11-20T04:26:48Z",
+    "generated_at": "2026-11-20T08:29:13Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -17,18 +17,18 @@
       "Tu-dien-Vat-li.md"
     ],
     "counts": {
-      "entries": 378,
+      "entries": 379,
       "by_origin_discipline": {
         "Giáo dục Kinh tế và Pháp luật": 349,
-        "Lịch sử": 5,
+        "Lịch sử": 6,
         "Sinh học": 1,
         "Tin học": 4,
         "Tiếng Anh": 3,
         "Toán học": 1,
         "Địa lí": 15
       },
-      "multi_context_entries": 300,
-      "alt_explanation_entries": 20
+      "multi_context_entries": 301,
+      "alt_explanation_entries": 23
     }
   },
   "entries": [
@@ -2566,7 +2566,13 @@
       "origin_discipline": "Giáo dục Kinh tế và Pháp luật",
       "explanation_en": "A periodic bank deposit interest scheme in which depositing an initial principal of $A$ monetary units at an annual compound interest rate of $r\\%$ yields a total accumulated amount after $n$ years given by the formula $T = A \\cdot (1 + r\\%)^n$.",
       "explanation_vi": "Hình thức tính lãi tiền gửi ngân hàng theo chu kì, trong đó khi gửi số vốn ban đầu $A$ đồng với lãi suất kép $r\\%/\\text{năm}$ thì sau $n$ năm tổng số tiền nhận được tính theo công thức $T = A \\cdot (1 + r\\%)^n$.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Toán 7 Tập 2",
+          "explanation_en": "A method of calculating interest in which, after each compounding period (such as each year at rate $r\\%$), the interest earned in that period is added to the previous principal to form a new principal for calculating interest in the next period.",
+          "explanation_vi": "Phương thức tính lãi mà cứ sau mỗi kì (chẳng hạn mỗi năm với lãi suất $r\\%$), số tiền lãi của kì đó cộng vào số tiền gốc cũ để tạo thành số tiền gốc mới dùng tính lãi cho kì tiếp theo."
+        }
+      ],
       "contexts": [
         {
           "raw": "Toán học lớp 10, Tìm hiểu một số kiến thức về tài chính (Mục 1): tính tổng số tiền tiết kiệm nhận được sau nhiều kì hạn gửi ngân hàng.",
@@ -2574,6 +2580,14 @@
             "Toán học"
           ],
           "grade": 10,
+          "lesson_ref": null
+        },
+        {
+          "raw": "Toán học lớp 7, Hoạt động thực hành trải nghiệm – Đại lượng tỉ lệ trong đời sống (Mục 2): Tính tiền gửi tiết kiệm, đầu tư tài chính và áp dụng Quy tắc 72.",
+          "disciplines": [
+            "Toán học"
+          ],
+          "grade": 7,
           "lesson_ref": null
         }
       ],
@@ -2600,6 +2614,17 @@
           "printed_pages": [
             92,
             94
+          ]
+        },
+        {
+          "raw": "SGK Toán 7 KNTT Tập 2, Chương 10, Đại lượng tỉ lệ trong đời sống (Mục 2), tr. 105",
+          "book": "SGK Toán 7 KNTT Tập 2",
+          "unit": "toan_7",
+          "group": "Chương 10",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            105
           ]
         }
       ],
@@ -6125,12 +6150,20 @@
       "id": "dia-li-european-single-market",
       "term_en": "European Single Market",
       "term_vi": "Thị trường chung EU",
-      "term_vi_display": "Thị trường chung EU",
-      "aliases_vi": [],
+      "term_vi_display": "Thị trường chung EU (Thị trường kinh tế duy nhất của EU)",
+      "aliases_vi": [
+        "Thị trường kinh tế duy nhất của EU"
+      ],
       "origin_discipline": "Địa lí",
       "explanation_en": "The unified economic space of the European Union built upon four fundamental freedoms: the free movement of people, services, goods, and capital. Operating on principles of close cooperation, fair competition, and transparent procedures, it reduces trade barriers, promotes specialization, creates jobs, and improves the business environment.",
       "explanation_vi": "Không gian kinh tế thống nhất của Liên minh châu Âu được xây dựng trên cơ sở bốn quyền tự do lưu thông gồm tự do di chuyển con người, dịch vụ, hàng hoá và tiền vốn. Thị trường này vận hành theo nguyên tắc hợp tác chặt chẽ, cạnh tranh bình đẳng và thủ tục minh bạch nhằm giảm rào cản thương mại, thúc đẩy chuyên môn hoá, tạo việc làm và cải thiện môi trường kinh doanh.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Lịch sử và Địa lí 7",
+          "explanation_en": "A unified economic market encompassing the territories of all European Union member states, set by the EU as its core objective from its inception.",
+          "explanation_vi": "Không gian thị trường chung bao gồm lãnh thổ của tất cả các quốc gia thành viên Liên minh châu Âu, là mục tiêu trọng tâm được EU đặt ra ngay từ khi mới thành lập."
+        }
+      ],
       "contexts": [
         {
           "raw": "Địa lí lớp 11, Bài 9 (Mục III.1): Phân tích biểu hiện hợp tác và liên kết khu vực thông qua bốn quyền tự do lưu thông trong Thị trường chung EU.",
@@ -6140,6 +6173,15 @@
           ],
           "grade": 11,
           "lesson_ref": "Bài 9"
+        },
+        {
+          "raw": "Lịch sử và Địa lí lớp 7, Bài 4 (Mục 2): mục tiêu trọng tâm đưa Liên minh châu Âu trở thành trung tâm trao đổi hàng hoá, dịch vụ và tài chính lớn trên thế giới.",
+          "disciplines": [
+            "Địa lí",
+            "Lịch sử"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 4"
         }
       ],
       "disambiguation_notes": [],
@@ -6154,6 +6196,28 @@
           "printed_pages": [
             41,
             42
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4 (Mục 1), tr. 108",
+          "book": "SGK Lịch sử và Địa lí 7 KNTT",
+          "unit": "ls_va_dl_7",
+          "group": "Phần Địa lí, Chương 01",
+          "lesson": "B4",
+          "section": "1",
+          "printed_pages": [
+            108
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4 (Mục 2), tr. 108",
+          "book": "SGK Lịch sử và Địa lí 7 KNTT",
+          "unit": "ls_va_dl_7",
+          "group": "Phần Địa lí, Chương 01",
+          "lesson": "B4",
+          "section": "2",
+          "printed_pages": [
+            108
           ]
         }
       ],
@@ -12385,16 +12449,31 @@
       "markdown_file": "Tu-dien-GD-KT-va-PL.md"
     },
     {
-      "id": "gd-kt-va-pl-means-of-production",
+      "id": "lich-su-means-of-production",
       "term_en": "means of production",
       "term_vi": "Tư liệu sản xuất",
       "term_vi_display": "Tư liệu sản xuất",
       "aliases_vi": [],
-      "origin_discipline": "Giáo dục Kinh tế và Pháp luật",
-      "explanation_en": "Material conditions necessary to organize production, consisting of means of labor and subjects of labor.",
-      "explanation_vi": "Điều kiện vật chất cần thiết để tổ chức sản xuất, bao gồm hai bộ phận cấu thành là tư liệu lao động và đối tượng lao động.",
-      "alt_explanations": [],
+      "origin_discipline": "Lịch sử",
+      "explanation_en": "The material inputs and facilities, such as land, workshops, raw materials, and tools, used to produce goods of economic value.",
+      "explanation_vi": "Tổng thể các yếu tố vật chất như ruộng đất, nhà xưởng, nguyên liệu và công cụ lao động dùng để sản xuất ra các sản phẩm có giá trị kinh tế.",
+      "alt_explanations": [
+        {
+          "source_label": "SGK GD KT&PL 10",
+          "explanation_en": "Material conditions necessary to organize production, consisting of means of labor and subjects of labor.",
+          "explanation_vi": "Điều kiện vật chất cần thiết để tổ chức sản xuất, bao gồm hai bộ phận cấu thành là tư liệu lao động và đối tượng lao động."
+        }
+      ],
       "contexts": [
+        {
+          "raw": "Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2.a): Các yếu tố sản xuất bị quý tộc và thương nhân tước đoạt từ nông nô, thợ thủ công để tập trung vào tay chủ tư bản ở Tây Âu.",
+          "disciplines": [
+            "Địa lí",
+            "Lịch sử"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 2"
+        },
         {
           "raw": "Giáo dục Kinh tế và Pháp luật lớp 10, Bảng giải thích thuật ngữ (Phần Giáo dục kinh tế): Yếu tố vật chất nền tảng kết hợp với sức lao động để tổ chức sản xuất.",
           "disciplines": [
@@ -12408,6 +12487,28 @@
         "Bao gồm cả tư liệu lao động và đối tượng lao động; phân biệt với tư liệu tiêu dùng phục vụ trực tiếp đời sống sinh hoạt."
       ],
       "sources": [
+        {
+          "raw": "SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176",
+          "book": "SGK Lịch sử và Địa lí 7 KNTT",
+          "unit": "ls_va_dl_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            176
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.a), tr. 16",
+          "book": "SGK Lịch sử và Địa lí 7 KNTT",
+          "unit": "ls_va_dl_7",
+          "group": "Phần Lịch sử, Chương 01",
+          "lesson": "B2",
+          "section": "2.a",
+          "printed_pages": [
+            16
+          ]
+        },
         {
           "raw": "SGK GD KT&PL 10 KNTT, Bảng giải thích thuật ngữ, tr. 153",
           "book": "SGK GD KT&PL 10 KNTT",
@@ -12432,7 +12533,7 @@
           ]
         }
       ],
-      "markdown_file": "Tu-dien-GD-KT-va-PL.md"
+      "markdown_file": "Tu-dien-Lich-su.md"
     },
     {
       "id": "gd-kt-va-pl-means-of-production-market",
@@ -16653,6 +16754,42 @@
       "markdown_file": "Tu-dien-GD-KT-va-PL.md"
     },
     {
+      "id": "gd-kt-va-pl-rule-of-72",
+      "term_en": "Rule of 72",
+      "term_vi": "Quy tắc 72",
+      "term_vi_display": "Quy tắc 72",
+      "aliases_vi": [],
+      "origin_discipline": "Giáo dục Kinh tế và Pháp luật",
+      "explanation_en": "A mental calculation rule in finance used to estimate the time required for an initial investment to double at a fixed annual compound interest rate. It is given by the formula $t = \\frac{72}{r}$, where $t$ is the time in years and $r\\%$ per year is the compound interest rate.",
+      "explanation_vi": "Quy tắc tính nhẩm trong tài chính dùng để ước tính khoảng thời gian cần thiết để vốn đầu tư ban đầu tăng gấp đôi theo mức lãi suất kép cố định hằng năm. Công thức ước tính là $t = \\frac{72}{r}$, trong đó $t$ là thời gian tính bằng năm và $r\\%$ mỗi năm là lãi suất kép.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Toán học lớp 7, Hoạt động thực hành trải nghiệm – Đại lượng tỉ lệ trong đời sống (Mục 2): Vận dụng đại lượng tỉ lệ nghịch để ước tính thời gian tăng gấp đôi vốn đầu tư.",
+          "disciplines": [
+            "Toán học"
+          ],
+          "grade": 7,
+          "lesson_ref": null
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Toán 7 KNTT Tập 2, Chương 10, Đại lượng tỉ lệ trong đời sống (Mục 2), tr. 105",
+          "book": "SGK Toán 7 KNTT Tập 2",
+          "unit": "toan_7",
+          "group": "Chương 10",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            105
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-GD-KT-va-PL.md"
+    },
+    {
       "id": "gd-kt-va-pl-safe-consumption",
       "term_en": "safe consumption",
       "term_vi": "Tiêu dùng an toàn",
@@ -18870,8 +19007,10 @@
       "id": "sinh-hoc-sustainable-development",
       "term_en": "sustainable development",
       "term_vi": "Phát triển bền vững",
-      "term_vi_display": "Phát triển bền vững",
-      "aliases_vi": [],
+      "term_vi_display": "Phát triển bền vững (khai thác tự nhiên bền vững ở Bắc Mỹ)",
+      "aliases_vi": [
+        "khai thác tự nhiên bền vững ở Bắc Mỹ"
+      ],
       "origin_discipline": "Sinh học",
       "explanation_en": "Development that meets the needs of present society without compromising the ability of future generations to meet their own development needs, closely tied to the rational use of natural resources, biodiversity conservation, and environmental protection.",
       "explanation_vi": "Sự phát triển đáp ứng được nhu cầu của xã hội hiện tại nhưng không làm tổn hại đến khả năng tiếp cận với nhu cầu phát triển của các thế hệ tương lai, gắn liền với việc khai thác hợp lí tài nguyên thiên nhiên, bảo vệ đa dạng sinh vật và môi trường.",
@@ -18885,6 +19024,11 @@
           "source_label": "SGK Lịch sử và Địa lí 6",
           "explanation_en": "A mode of development that meets the needs of the present generation without compromising the ability of future generations to meet their own needs.",
           "explanation_vi": "Phương thức phát triển nhằm đáp ứng các nhu cầu của thế hệ hiện tại mà không làm tổn hại đến khả năng đáp ứng nhu cầu của các thế hệ tương lai."
+        },
+        {
+          "source_label": "SGK Lịch sử và Địa lí 7",
+          "explanation_en": "A mode of rational, economical, and efficient resource utilization combined with the protection and restoration of land, water, forest, and mineral resources. In North America, this approach supports a diversified economy and a high standard of living.",
+          "explanation_vi": "Phương thức khai thác hợp lí, tiết kiệm và hiệu quả đi đôi với bảo vệ, phục hồi nguồn tài nguyên thiên nhiên phong phú về đất, nước, rừng và khoáng sản. Tại Bắc Mỹ, phương thức này giúp phát triển nền kinh tế đa dạng và duy trì đời sống cư dân ở mức cao."
         },
         {
           "source_label": "SGK GD KT&PL 12",
@@ -18919,6 +19063,15 @@
           "lesson_ref": "Bài 29"
         },
         {
+          "raw": "Lịch sử và Địa lí lớp 7, Bài 15 (Mục 3): định hướng khai thác hiệu quả đi đôi với bảo vệ và phục hồi tài nguyên thiên nhiên ở Bắc Mỹ.",
+          "disciplines": [
+            "Địa lí",
+            "Lịch sử"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 15"
+        },
+        {
           "raw": "Giáo dục Kinh tế và Pháp luật lớp 12, Bài 1 (Mục 3): mục tiêu phát triển tổng thể gắn kết tăng trưởng kinh tế với công bằng xã hội và bảo vệ môi trường.",
           "disciplines": [
             "Giáo dục Kinh tế và Pháp luật"
@@ -18927,7 +19080,9 @@
           "lesson_ref": "Bài 1"
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Trong phạm vi Bài 15, thuật ngữ tập trung vào phương thức khai thác hợp lí và bảo vệ các nguồn tài nguyên thiên nhiên (đất, nước, rừng, khoáng sản) ở Bắc Mỹ."
+      ],
       "sources": [
         {
           "raw": "SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục III.1), tr. 9",
@@ -19015,6 +19170,40 @@
           "section": "2",
           "printed_pages": [
             187
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 147",
+          "book": "SGK Lịch sử và Địa lí 7 KNTT",
+          "unit": "ls_va_dl_7",
+          "group": "Phần Địa lí, Chương 04",
+          "lesson": "B15",
+          "section": "2",
+          "printed_pages": [
+            147
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 147, 148",
+          "book": "SGK Lịch sử và Địa lí 7 KNTT",
+          "unit": "ls_va_dl_7",
+          "group": "Phần Địa lí, Chương 04",
+          "lesson": "B15",
+          "section": "3",
+          "printed_pages": [
+            147,
+            148
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 148",
+          "book": "SGK Lịch sử và Địa lí 7 KNTT",
+          "unit": "ls_va_dl_7",
+          "group": "Phần Địa lí, Chương 04",
+          "lesson": "B15",
+          "section": "3",
+          "printed_pages": [
+            148
           ]
         },
         {

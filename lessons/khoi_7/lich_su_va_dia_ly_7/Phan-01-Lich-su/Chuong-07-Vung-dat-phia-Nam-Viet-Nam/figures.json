@@ -1,0 +1,24 @@
+{
+  "H7-lich_su_va_dia_ly-ls-b18-01": {
+    "pdf_page": 91,
+    "bbox": [72, 576, 591, 838],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh Hình 1 tràn sát mép phải và mép dưới trang sách, chú thích Hình 1 đặt bên trái ảnh ngay dưới hộp Em có biết? nên khung cắt đi qua hộp Em có biết?"
+  },
+  "H7-lich_su_va_dia_ly-ls-b18-02": {
+    "pdf_page": 92,
+    "bbox": [75, 57, 519, 515]
+  },
+  "H7-lich_su_va_dia_ly-ls-b18-03": {
+    "pdf_page": 93,
+    "bbox": [54, 308, 206, 538]
+  },
+  "H7-lich_su_va_dia_ly-ls-b18-04": {
+    "pdf_page": 94,
+    "bbox": [54, 95, 373, 337]
+  },
+  "H7-lich_su_va_dia_ly-ls-b18-05": {
+    "pdf_page": 94,
+    "bbox": [390, 92, 540, 364]
+  }
+}

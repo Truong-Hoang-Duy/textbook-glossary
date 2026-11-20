@@ -1,0 +1,420 @@
+{
+  "unit": "ngu_van_7",
+  "subject": "ngu_van",
+  "subject_name": "Ngữ văn",
+  "grade": 7,
+  "files": [
+    {
+      "file": "SGK Ngu van 7 Tap 1.pdf",
+      "volume": 1,
+      "page_count": 141,
+      "printed_offset": 1
+    },
+    {
+      "file": "SGK Ngu van 7 Tap 2.pdf",
+      "volume": 2,
+      "page_count": 137,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Ngu van 7 Tap 1.pdf",
+      "pdf_pages": [
+        3,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-1",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục (Tập một)",
+      "file": null,
+      "source_file": "SGK Ngu van 7 Tap 1.pdf",
+      "pdf_pages": [
+        7,
+        8
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Ngu van 7 Tap 1.pdf",
+      "pdf_pages": [
+        9,
+        9
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "t01",
+      "role": "group",
+      "kind": "tap",
+      "label": null,
+      "number": 1,
+      "title": "Tập một",
+      "dir": "Tap-1",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Bầu trời tuổi thơ",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Bau-troi-tuoi-tho.md",
+          "source_file": "SGK Ngu van 7 Tap 1.pdf",
+          "pdf_pages": [
+            10,
+            38
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Khúc nhạc tâm hồn",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Khuc-nhac-tam-hon.md",
+          "source_file": "SGK Ngu van 7 Tap 1.pdf",
+          "pdf_pages": [
+            39,
+            57
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Cội nguồn yêu thương",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Coi-nguon-yeu-thuong.md",
+          "source_file": "SGK Ngu van 7 Tap 1.pdf",
+          "pdf_pages": [
+            58,
+            88
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Giai điệu đất nước",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Giai-dieu-dat-nuoc.md",
+          "source_file": "SGK Ngu van 7 Tap 1.pdf",
+          "pdf_pages": [
+            89,
+            105
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Màu sắc trăm miền",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Mau-sac-tram-mien.md",
+          "source_file": "SGK Ngu van 7 Tap 1.pdf",
+          "pdf_pages": [
+            106,
+            130
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "on-tap-hk1",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Ôn tập học kì I",
+          "lesson_type": "on_tap",
+          "file": "On-tap-hoc-ki-I.md",
+          "source_file": "SGK Ngu van 7 Tap 1.pdf",
+          "pdf_pages": [
+            131,
+            135
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 1: Bảng tra cứu thuật ngữ (Tập một)",
+      "file": "Bang-tra-cuu-thuat-ngu-Tap-1.md",
+      "source_file": "SGK Ngu van 7 Tap 1.pdf",
+      "pdf_pages": [
+        136,
+        137
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 2: Bảng giải thích thuật ngữ (Tập một)",
+      "file": "Bang-giai-thich-thuat-ngu-Tap-1.md",
+      "source_file": "SGK Ngu van 7 Tap 1.pdf",
+      "pdf_pages": [
+        137,
+        139
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-tra-cuu-ten-rieng-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 3: Bảng tra cứu tên riêng nước ngoài (Tập một)",
+      "file": null,
+      "source_file": "SGK Ngu van 7 Tap 1.pdf",
+      "pdf_pages": [
+        140,
+        140
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-2",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục (Tập hai)",
+      "file": null,
+      "source_file": "SGK Ngu van 7 Tap 2.pdf",
+      "pdf_pages": [
+        3,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "t02",
+      "role": "group",
+      "kind": "tap",
+      "label": null,
+      "number": 2,
+      "title": "Tập hai",
+      "dir": "Tap-2",
+      "children": [
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Bài học cuộc sống",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Bai-hoc-cuoc-song.md",
+          "source_file": "SGK Ngu van 7 Tap 2.pdf",
+          "pdf_pages": [
+            5,
+            25
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Thế giới viễn tưởng",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-The-gioi-vien-tuong.md",
+          "source_file": "SGK Ngu van 7 Tap 2.pdf",
+          "pdf_pages": [
+            26,
+            54
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Trải nghiệm để trưởng thành",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Trai-nghiem-de-truong-thanh.md",
+          "source_file": "SGK Ngu van 7 Tap 2.pdf",
+          "pdf_pages": [
+            55,
+            76
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Hoà điệu với tự nhiên",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Hoa-dieu-voi-tu-nhien.md",
+          "source_file": "SGK Ngu van 7 Tap 2.pdf",
+          "pdf_pages": [
+            77,
+            101
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Trang sách và cuộc sống",
+          "lesson_type": "du_an",
+          "file": "B10-Trang-sach-va-cuoc-song.md",
+          "source_file": "SGK Ngu van 7 Tap 2.pdf",
+          "pdf_pages": [
+            102,
+            117
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "on-tap-hk2",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Ôn tập học kì II",
+          "lesson_type": "on_tap",
+          "file": "On-tap-hoc-ki-II.md",
+          "source_file": "SGK Ngu van 7 Tap 2.pdf",
+          "pdf_pages": [
+            118,
+            123
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 1: Bảng tra cứu thuật ngữ (Tập hai)",
+      "file": "Bang-tra-cuu-thuat-ngu-Tap-2.md",
+      "source_file": "SGK Ngu van 7 Tap 2.pdf",
+      "pdf_pages": [
+        124,
+        125
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 2: Bảng giải thích thuật ngữ (Tập hai)",
+      "file": "Bang-giai-thich-thuat-ngu-Tap-2.md",
+      "source_file": "SGK Ngu van 7 Tap 2.pdf",
+      "pdf_pages": [
+        125,
+        126
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-tra-cuu-han-viet-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 3: Bảng tra cứu yếu tố Hán Việt (Tập hai)",
+      "file": null,
+      "source_file": "SGK Ngu van 7 Tap 2.pdf",
+      "pdf_pages": [
+        127,
+        133
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "bang-tra-cuu-ten-rieng-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 4: Bảng tra cứu tên riêng nước ngoài (Tập hai)",
+      "file": null,
+      "source_file": "SGK Ngu van 7 Tap 2.pdf",
+      "pdf_pages": [
+        134,
+        135
+      ],
+      "status": "skip"
+    }
+  ],
+  "notes": [
+    "SGK Ngữ văn 7 – KNTT gồm 2 tập: Tập một (141 trang PDF) và Tập hai (137 trang PDF), độ lệch cố định printed_offset = 1 xuyên suốt cả hai tập.",
+    "Bài 10 (Trang sách và cuộc sống) ở cuối Tập hai là bài dự án đọc sách (lesson_type: du_an) tổ chức theo 3 chặng: Thách thức đầu tiên, Thách thức thứ hai và Về đích: Ngày hội với sách."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-20",
+      "scope": [
+        "t01",
+        "t02"
+      ],
+      "terms": 122,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ 2 Tập, 12 bài học/ôn tập và 4 bảng tra cứu/giải thích thuật ngữ (122 thuật ngữ, 10 hình minh hoạ): lấy mẫu phân tầng 30 mục (14 mục in_source: Nhịp, Văn bản tường trình, Tuỳ bút, Phó từ đi kèm động từ tính từ, Người kể chuyện ngôi thứ ba, Không gian, Vần hỗn hợp, Truyện khoa học viễn tưởng, Thơ năm chữ, Tình cảm cảm xúc, Cái tôi, Chất trữ tình, Cước chú, Mạch lạc; toàn bộ 6 mục [mô tả]: Thành phần chính của câu, Văn bản nghị luận về một vấn đề đời sống, Hành động, Bài văn phân tích một nhân vật văn học, Văn bản giới thiệu quy tắc hoặc luật lệ trong trò chơi hay hoạt động, Bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử; và toàn bộ 10 hình minh hoạ: H7-ngu_van-b01-01..02, b09-01..04, b10-01..04). Toàn bộ 30/30 mục mẫu khớp 100% với trang sách gốc (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-20: Hoàn thành 100% ngu_van_7 từ Cổng 0 đến Cổng 4 (2 Tập, 12 bài học/ôn tập, 4 phụ lục thuật ngữ, 10 hình minh hoạ, 2 từ điển với 122 thuật ngữ, 0 lỗi)."
+}

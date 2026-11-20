@@ -1,0 +1,52 @@
+{
+  "H7-tin_hoc-b01-01": {
+    "pdf_page": 6,
+    "bbox": [364, 462, 476, 570],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 1.1 nằm vắt qua đường viền ngang phía trên của khung Hoạt động 1 ở hai cạnh trái và phải"
+  },
+  "H7-tin_hoc-b01-02": {
+    "pdf_page": 7,
+    "bbox": [80, 83, 480, 262]
+  },
+  "H7-tin_hoc-b01-03": {
+    "pdf_page": 7,
+    "bbox": [55, 538, 497, 677]
+  },
+  "H7-tin_hoc-b01-04": {
+    "pdf_page": 8,
+    "bbox": [50, 288, 264, 451]
+  },
+  "H7-tin_hoc-b01-05": {
+    "pdf_page": 8,
+    "bbox": [284, 288, 498, 456]
+  },
+  "H7-tin_hoc-b01-06": {
+    "pdf_page": 9,
+    "bbox": [80, 217, 480, 439]
+  },
+  "H7-tin_hoc-b03-01": {
+    "pdf_page": 14,
+    "bbox": [135, 576, 414, 740]
+  },
+  "H7-tin_hoc-b03-02": {
+    "pdf_page": 16,
+    "bbox": [285, 617, 499, 738]
+  },
+  "H7-tin_hoc-b03-03": {
+    "pdf_page": 17,
+    "bbox": [286, 406, 499, 539]
+  },
+  "H7-tin_hoc-b03-04": {
+    "pdf_page": 18,
+    "bbox": [81, 114, 251, 210]
+  },
+  "H7-tin_hoc-b03-05": {
+    "pdf_page": 18,
+    "bbox": [320, 111, 466, 210]
+  },
+  "H7-tin_hoc-b03-06": {
+    "pdf_page": 18,
+    "bbox": [128, 326, 396, 471]
+  }
+}

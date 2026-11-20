@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Hóa học",
-    "generated_at": "2026-11-20T04:26:48Z",
+    "generated_at": "2026-11-20T08:29:14Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -17,17 +17,17 @@
       "Tu-dien-Vat-li.md"
     ],
     "counts": {
-      "entries": 608,
+      "entries": 637,
       "by_origin_discipline": {
-        "Hóa học": 553,
+        "Hóa học": 581,
         "Sinh học": 24,
         "Tin học": 1,
         "Toán học": 1,
-        "Vật lí": 25,
+        "Vật lí": 26,
         "Địa lí": 4
       },
-      "multi_context_entries": 510,
-      "alt_explanation_entries": 45
+      "multi_context_entries": 540,
+      "alt_explanation_entries": 60
     }
   },
   "entries": [
@@ -3322,6 +3322,64 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-atom",
+      "term_en": "atom",
+      "term_vi": "Nguyên tử",
+      "term_vi_display": "Nguyên tử",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "An extremely small particle that makes up substances, consisting of a positively charged central nucleus and a negatively charged electron shell system. Because an atom is electrically neutral, the total number of protons in its nucleus always equals the total number of electrons in its shell system.",
+      "explanation_vi": "Hạt vô cùng nhỏ tạo nên các chất, gồm hạt nhân mang điện tích dương ở tâm và vỏ nguyên tử mang điện tích âm. Nguyên tử trung hoà về điện nên tổng số hạt proton trong hạt nhân luôn bằng tổng số hạt electron ở vỏ nguyên tử.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 2 (Mục I, III): Đơn vị cấu tạo cơ bản của chất dùng để giải thích thành phần hạt nhân, vỏ electron và tính trung hoà điện.",
+          "disciplines": [
+            "Vật lí"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 2"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2, tr. 14",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": null,
+          "printed_pages": [
+            14
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục I), tr. 14",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "I",
+          "printed_pages": [
+            14
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục II), tr. 15",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II",
+          "printed_pages": [
+            15
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-atomic-mass",
       "term_en": "atomic mass",
       "term_vi": "Khối lượng nguyên tử",
@@ -3330,7 +3388,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "The total mass of all protons, neutrons, and electrons contained in a single atom. Because the mass of electrons is negligible, atomic mass is concentrated almost entirely in the nucleus and is commonly expressed in $\\text{amu}$.",
       "explanation_vi": "Tổng khối lượng của tất cả các hạt proton, neutron và electron có trong một nguyên tử. Do khối lượng electron rất nhỏ không đáng kể nên khối lượng nguyên tử tập trung hầu hết ở hạt nhân và thường được biểu thị theo đơn vị $\\text{amu}$.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "The total mass of the protons and neutrons in the nucleus and the electrons in the shell system of an atom, typically expressed in atomic mass units ($\\text{amu}$). Because the mass of electrons is negligible ($0.00055\\text{ amu}$), atomic mass is concentrated almost entirely in the nucleus and is approximately equal to the nuclear mass.",
+          "explanation_vi": "Tổng khối lượng của các hạt proton, neutron trong hạt nhân và các hạt electron ở vỏ nguyên tử, thường tính theo đơn vị $\\text{amu}$. Vì khối lượng electron rất nhỏ ($0,00055\\text{ amu}$) nên khối lượng nguyên tử tập trung hầu hết ở hạt nhân và xấp xỉ bằng khối lượng hạt nhân."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 1 (Mục II.2): Tính khối lượng thực (theo kg) hoặc theo đơn vị amu của nguyên tử từ các hạt cấu tạo.",
@@ -3339,6 +3403,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 1"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 2 (Mục IV) và Bài 4 (Mục II.1): Tính gần đúng theo tổng số hạt proton và neutron và tra cứu thông tin trong ô nguyên tố của bảng tuần hoàn.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 2"
         }
       ],
       "disambiguation_notes": [],
@@ -3375,6 +3447,40 @@
           "printed_pages": [
             16
           ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177,
+            178
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            178
+          ]
         }
       ],
       "markdown_file": "Tu-dien-Hoa-hoc.md"
@@ -3395,6 +3501,11 @@
           "source_label": "SGK Hóa học 10",
           "explanation_en": "A standard unit used to express the mass of atoms and subatomic particles (symbol $\\text{amu}$), defined as $\\dfrac{1}{12}$ the mass of a single carbon-12 atom ($1\\text{ amu} \\approx 1.661 \\times 10^{-27}\\text{ kg}$).",
           "explanation_vi": "Đơn vị quy ước dùng để biểu thị khối lượng của nguyên tử và các hạt vi mô (kí hiệu $\\text{amu}$), có giá trị bằng $\\dfrac{1}{12}$ khối lượng của một nguyên tử đồng vị carbon-12 ($1\\text{ amu} \\approx 1,661 \\cdot 10^{-27}\\text{ kg}$)."
+        },
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A standard unit of mass used to express the extremely small masses of atoms and subatomic particles, abbreviated as $\\text{amu}$, defined as $\\frac{1}{12}$ of the mass of a carbon atom.",
+          "explanation_vi": "Đơn vị đo lường quy ước dùng để biểu thị khối lượng vô cùng nhỏ của nguyên tử và các hạt dưới nguyên tử, viết tắt là $\\text{amu}$, có giá trị bằng $\\frac{1}{12}$ khối lượng của một nguyên tử carbon."
         }
       ],
       "contexts": [
@@ -3413,6 +3524,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 1"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 2 (Mục IV): Sử dụng để biểu diễn khối lượng của proton ($\\approx 1\\text{ amu}$), neutron ($\\approx 1\\text{ amu}$), electron ($\\approx 0,00055\\text{ amu}$) và nguyên tử.",
+          "disciplines": [
+            "Vật lí"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 2"
         }
       ],
       "disambiguation_notes": [],
@@ -3483,9 +3602,101 @@
           "printed_pages": [
             15
           ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục III.2), tr. 18",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "III.2",
+          "printed_pages": [
+            18
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục IV), tr. 18",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "IV",
+          "printed_pages": [
+            18
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177
+          ]
         }
       ],
       "markdown_file": "Tu-dien-Vat-li.md"
+    },
+    {
+      "id": "hoa-hoc-atomic-model",
+      "term_en": "atomic model",
+      "term_vi": "Mô hình nguyên tử",
+      "term_vi_display": "Mô hình nguyên tử",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A representational model simulating the internal structure of an atom and the arrangement of its constituent subatomic particles. The Rutherford–Bohr atomic model depicts a positively charged central nucleus surrounded by electrons moving in distinct shells.",
+      "explanation_vi": "Hình thức biểu diễn mô phỏng cấu tạo của nguyên tử và sự phân bố các hạt thành phần bên trong nguyên tử. Mô hình nguyên tử của Rơ-dơ-pho – Bo biểu diễn hạt nhân mang điện tích dương ở tâm và các electron chuyển động xung quanh hạt nhân theo từng lớp.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 2 (Mục II): Dùng sơ đồ mô hình Rơ-dơ-pho – Bo để xác định số proton, số lớp electron và số electron lớp ngoài cùng của nguyên tử.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 2"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177,
+            178
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục II), tr. 15",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II",
+          "printed_pages": [
+            15
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
       "id": "vat-li-atomic-nucleus",
@@ -3498,7 +3709,13 @@
       "origin_discipline": "Vật lí",
       "explanation_en": "The positively charged core at the center of an atom, composed of protons and neutrons (except for $^1_1\\text{H}$, which has no neutrons). The atomic nucleus has a very small diameter (about $10^{-2}\\text{ pm}$) compared to the atom as a whole yet concentrates nearly all of the atomic mass.",
       "explanation_vi": "Phần lõi mang điện tích dương nằm ở tâm nguyên tử, gồm các hạt proton và neutron (trừ nguyên tử $^1_1\\text{H}$ không có neutron). Hạt nhân có đường kính rất nhỏ (khoảng $10^{-2}\\text{ pm}$) so với nguyên tử nhưng tập trung hầu hết khối lượng của nguyên tử.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "The central core of an atom that carries a positive electric charge and contains almost all of the atom's mass. The nucleus is composed of positively charged protons and electrically neutral neutrons.",
+          "explanation_vi": "Phần trung tâm của nguyên tử, mang điện tích dương và tập trung hầu hết khối lượng của nguyên tử. Hạt nhân tạo thành từ các hạt proton mang điện tích dương và các hạt neutron không mang điện."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 1 (Mục I, II.1): Khảo sát thành phần, kích thước và khối lượng của nguyên tử.",
@@ -3507,9 +3724,19 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 1"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 2 (Mục II, III.1): Xác định điện tích hạt nhân và khối lượng gần đúng của nguyên tử dựa trên số hạt proton và neutron.",
+          "disciplines": [
+            "Vật lí"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 2"
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Phân biệt với nhân tế bào (cell nucleus) trong Sinh học."
+      ],
       "sources": [
         {
           "raw": "SGK Hóa học 10 KNTT, Chương 01, B1 (Mục I), tr. 13",
@@ -3543,6 +3770,40 @@
           "printed_pages": [
             15
           ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            175
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            176
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176, 177",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            176,
+            177
+          ]
         }
       ],
       "markdown_file": "Tu-dien-Vat-li.md"
@@ -3564,6 +3825,11 @@
           "source_label": "SGK Hóa học 10",
           "explanation_en": "A characteristic index of a chemical element (symbol $Z$) equal to the nuclear charge number (number of protons) of an atom of that element, written as a lower-left subscript in the nuclide symbol $^A_Z\\text{X}$.",
           "explanation_vi": "Chỉ số đặc trưng của một nguyên tố hoá học (kí hiệu $Z$), có giá trị bằng số đơn vị điện tích hạt nhân (số proton) của nguyên tử nguyên tố đó và được ghi ở phía dưới bên trái kí hiệu nguyên tố trong kí hiệu nguyên tử $^A_Z\\text{X}$."
+        },
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A unique identifying number for each chemical element, equal to the number of protons in the nucleus, the nuclear charge number, and the number of electrons in a neutral atom. In the periodic table, the atomic number serves as the ordinal number of the element.",
+          "explanation_vi": "Con số đặc trưng duy nhất cho mỗi nguyên tố hoá học, có giá trị bằng số hạt proton trong hạt nhân, bằng số đơn vị điện tích hạt nhân và bằng số electron trong nguyên tử. Trong bảng tuần hoàn, số hiệu nguyên tử chính là số thứ tự của nguyên tố."
         }
       ],
       "contexts": [
@@ -3582,6 +3848,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 2"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 3 (Mục I) và Bài 4 (Mục II.1): Dùng để định danh nguyên tố hoá học và xác định vị trí ô nguyên tố trong bảng tuần hoàn.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 3"
         }
       ],
       "disambiguation_notes": [],
@@ -3651,6 +3925,40 @@
           "section": "II",
           "printed_pages": [
             17
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B3, tr. 19",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B3",
+          "section": null,
+          "printed_pages": [
+            19
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B3 (Mục I), tr. 19",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B3",
+          "section": "I",
+          "printed_pages": [
+            19
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B3 (Mục I), tr. 19, 20",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B3",
+          "section": "I",
+          "printed_pages": [
+            19,
+            20
           ]
         }
       ],
@@ -3786,7 +4094,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "The region surrounding the atomic nucleus that contains negatively charged electrons moving rapidly around the nucleus.",
       "explanation_vi": "Phần không gian bao quanh hạt nhân nguyên tử, chứa các hạt electron mang điện tích âm chuyển động rất nhanh xung quanh hạt nhân.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "The negatively charged outer region surrounding the atomic nucleus, composed of moving electrons arranged in successive shells from the inside outward.",
+          "explanation_vi": "Phần mang điện tích âm bao quanh hạt nhân nguyên tử, cấu tạo từ các hạt electron chuyển động và sắp xếp thành từng lớp từ trong ra ngoài."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 1 (Mục I): Phân biệt hai bộ phận cấu tạo chính của nguyên tử là hạt nhân và vỏ nguyên tử.",
@@ -3796,10 +4110,19 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 1"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 2 (Mục III.2): Phân tích sự phân bố electron trên vỏ nguyên tử để suy ra cấu tạo nguyên tử và tính chất hoá học.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 2"
         }
       ],
       "disambiguation_notes": [
-        "Phân biệt 'vỏ nguyên tử' (atomic shell — toàn bộ phần vỏ chứa tất cả các electron bao quanh hạt nhân) với 'lớp electron' (electron shell — từng lớp năng lượng K, L, M,... cấu thành nên vỏ nguyên tử)."
+        "Phân biệt 'vỏ nguyên tử' (atomic shell — toàn bộ phần vỏ chứa tất cả các electron bao quanh hạt nhân) với 'lớp electron' (electron shell — từng lớp năng lượng K, L, M,... cấu thành nên vỏ nguyên tử).",
+        "Chỉ toàn bộ phần vỏ chứa tất cả các lớp electron của nguyên tử, phân biệt với từng lớp electron riêng lẻ (electron shell)."
       ],
       "sources": [
         {
@@ -3833,6 +4156,39 @@
           "section": "III",
           "printed_pages": [
             16
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 179",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            179
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục III.2), tr. 17",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "III.2",
+          "printed_pages": [
+            17
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục III.2), tr. 18",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "III.2",
+          "printed_pages": [
+            18
           ]
         }
       ],
@@ -5146,10 +5502,11 @@
       "id": "hoa-hoc-carbohydrate",
       "term_en": "carbohydrate",
       "term_vi": "Carbohydrate",
-      "term_vi_display": "Carbohydrate (saccharide; glucide)",
+      "term_vi_display": "Carbohydrate (saccharide; glucide; chất bột đường)",
       "aliases_vi": [
         "saccharide",
-        "glucide"
+        "glucide",
+        "chất bột đường"
       ],
       "origin_discipline": "Hóa học",
       "explanation_en": "A class of polyfunctional organic compounds commonly represented by the general formula $\\text{C}_n(\\text{H}_2\\text{O})_m$, comprising three main subclasses: monosaccharides, disaccharides, and polysaccharides.",
@@ -5164,6 +5521,11 @@
           "source_label": "SGK Sinh học 10",
           "explanation_en": "A class of biomolecules composed of carbon, hydrogen, and oxygen in a 1 : 2 : 1 ratio with the general formula Cₙ(H₂O)ₘ, classified into monosaccharides, disaccharides, and polysaccharides. They primarily function to supply and store energy and to serve as structural materials for various cellular components.",
           "explanation_vi": "Nhóm phân tử sinh học được cấu tạo từ ba nguyên tố C, H và O theo tỉ lệ 1 : 2 : 1 với công thức chung Cₙ(H₂O)ₘ, được chia thành đường đơn, đường đôi và đường đa. Nhóm chất này giữ chức năng chính là cung cấp, dự trữ năng lượng và làm nguyên liệu cấu trúc nên nhiều thành phần của tế bào."
+        },
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A major class of organic nutrients required in large quantities from food by animals, serving as the primary source of energy for bodily activities.",
+          "explanation_vi": "Nhóm chất dinh dưỡng hữu cơ mà cơ thể động vật cần thu nhận với lượng lớn từ thức ăn, đóng vai trò là nguồn cung cấp năng lượng chủ yếu cho mọi hoạt động sống của cơ thể."
         }
       ],
       "contexts": [
@@ -5190,6 +5552,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 5"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 29 (Mục III.2) và Bài 31 (Mục IV.1): chức năng cung cấp năng lượng của chất bột đường trong chế độ dinh dưỡng.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 29"
         }
       ],
       "disambiguation_notes": [],
@@ -5281,6 +5651,40 @@
           "printed_pages": [
             39,
             40
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B29",
+          "section": "III.2",
+          "printed_pages": [
+            125
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125, 126",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B29",
+          "section": "III.2",
+          "printed_pages": [
+            125,
+            126
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 126",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B29",
+          "section": "III.2",
+          "printed_pages": [
+            126
           ]
         }
       ],
@@ -6236,7 +6640,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "The combination of atoms to form more stable molecules or crystals with lower energy than that of the separate atoms.",
       "explanation_vi": "Sự kết hợp giữa các nguyên tử tạo thành phân tử hay tinh thể bền vững hơn và có mức năng lượng thấp hơn so với các nguyên tử riêng rẽ.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "The union between atoms formed by losing, gaining, or sharing electrons so as to achieve a stable outermost electron shell like that of a noble gas atom.",
+          "explanation_vi": "Sự kết hợp giữa các nguyên tử thông qua quá trình nhường, nhận hoặc dùng chung electron nhằm đạt được lớp electron ngoài cùng bền vững giống nguyên tử khí hiếm."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 10 (Mục I): Khái niệm nền tảng mở đầu chương Liên kết hoá học, giải thích xu hướng đạt cấu hình electron bền vững của khí hiếm.",
@@ -6245,6 +6655,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 10"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 6 (Mục I, II, III): Khái niệm nền tảng để tìm hiểu sự hình thành liên kết ion và liên kết cộng hoá trị trong phân tử.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 6"
         }
       ],
       "disambiguation_notes": [],
@@ -6280,6 +6698,98 @@
           "section": "II",
           "printed_pages": [
             50
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6, tr. 36",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B6",
+          "section": null,
+          "printed_pages": [
+            36
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục I), tr. 36",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B6",
+          "section": "I",
+          "printed_pages": [
+            36
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục III.2), tr. 39",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B6",
+          "section": "III.2",
+          "printed_pages": [
+            39
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-chemical-compound",
+      "term_en": "chemical compound",
+      "term_vi": "Hợp chất",
+      "term_vi_display": "Hợp chất",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A chemical substance composed of two or more different chemical elements, encompassing inorganic compounds and organic compounds.",
+      "explanation_vi": "Chất tạo nên từ hai hay nhiều nguyên tố hoá học khác nhau, bao gồm hợp chất vô cơ và hợp chất hữu cơ.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 5 (Mục I.2): Phân loại chất dựa theo thành phần nguyên tố hoá học, đối lập với đơn chất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 5"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            175
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            176
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176, 177",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            176,
+            177
           ]
         }
       ],
@@ -6352,7 +6862,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A set of atoms having the same nuclear charge number ($Z$). Because they possess the same number of electrons in their atomic shells, atoms belonging to the same chemical element exhibit identical chemical properties.",
       "explanation_vi": "Tập hợp các nguyên tử có cùng số đơn vị điện tích hạt nhân ($Z$). Do có cùng số electron ở vỏ nguyên tử nên các nguyên tử thuộc cùng một nguyên tố hoá học có tính chất hoá học giống nhau.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A set of atoms having the same number of protons in their atomic nuclei. Atoms belonging to the same chemical element share identical chemical properties even though they may differ in their number of neutrons.",
+          "explanation_vi": "Tập hợp những nguyên tử có cùng số hạt proton trong hạt nhân. Các nguyên tử thuộc cùng một nguyên tố hoá học có tính chất hoá học giống nhau dù có thể khác nhau về số hạt neutron."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 2 (Mục I): Phân biệt khái niệm nguyên tố hoá học với từng đồng vị cụ thể có số neutron khác nhau.",
@@ -6361,6 +6877,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 2"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 3 (Mục I): Nhận biết và phân loại các nguyên tử thuộc cùng một nguyên tố dựa vào số proton trong hạt nhân.",
+          "disciplines": [
+            "Vật lí"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 3"
         }
       ],
       "disambiguation_notes": [],
@@ -6396,6 +6920,39 @@
           "section": "II",
           "printed_pages": [
             17
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            175
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            176
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177
           ]
         }
       ],
@@ -6581,6 +7138,183 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-chemical-formula",
+      "term_en": "chemical formula",
+      "term_vi": "Công thức hoá học",
+      "term_vi_display": "Công thức hoá học",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A symbolic representation of a substance's composition using the chemical symbols of one or more elements accompanied by integer subscripts to the lower right of each symbol. A chemical formula indicates the constituent elements, the number or ratio of atoms in a molecule, and the molecular mass of the substance.",
+      "explanation_vi": "Cách biểu diễn thành phần của một chất bằng kí hiệu hoá học của một hay nhiều nguyên tố kèm theo chỉ số nguyên ở chân bên phải mỗi kí hiệu. Công thức hoá học cho biết các nguyên tố tạo nên chất, số lượng hoặc tỉ lệ số nguyên tử trong phân tử và khối lượng phân tử của chất.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 7 (Mục I, III): Biểu diễn ngắn gọn đơn chất, hợp chất và tính toán thành phần nguyên tố.",
+          "disciplines": [
+            "Toán học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 7"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            175
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            175,
+            176
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            178
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-chemical-formula-of-a-compound",
+      "term_en": "chemical formula of a compound",
+      "term_vi": "Công thức hoá học của hợp chất",
+      "term_vi_display": "Công thức hoá học của hợp chất",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "The symbolic representation of a compound consisting of the chemical symbols of its two or more constituent elements with integer right subscripts indicating the number of atoms of each element in the molecule (a subscript of $1$ is omitted).",
+      "explanation_vi": "Cách biểu diễn hợp chất gồm kí hiệu hoá học của hai hay nhiều nguyên tố tạo nên chất kèm theo các chỉ số nguyên ở chân bên phải mỗi kí hiệu để chỉ số nguyên tử của từng nguyên tố trong phân tử (chỉ số bằng $1$ không ghi).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 7 (Mục I, III.1): Biểu diễn thành phần phân tử hợp chất (như CH₄, NaCl, CaCO₃) và lập công thức dựa vào quy tắc hoá trị.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 7"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7, tr. 40",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B7",
+          "section": null,
+          "printed_pages": [
+            40
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục I), tr. 40",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B7",
+          "section": "I",
+          "printed_pages": [
+            40
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục I), tr. 40, 41",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B7",
+          "section": "I",
+          "printed_pages": [
+            40,
+            41
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-chemical-formula-of-an-elemental-substance",
+      "term_en": "chemical formula of an elemental substance",
+      "term_vi": "Công thức hoá học của đơn chất",
+      "term_vi_display": "Công thức hoá học của đơn chất",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "The symbolic representation of an elemental substance using a single element's symbol: identical to the element symbol for metals, noble gases, and certain nonmetals (such as Cu, Fe, He, C), or accompanied by a right subscript for nonmetals whose molecules consist of multiple bonded atoms (such as H₂, O₂, O₃).",
+      "explanation_vi": "Cách biểu diễn đơn chất chỉ gồm kí hiệu hoá học của một nguyên tố: trùng với kí hiệu nguyên tố đối với kim loại, khí hiếm và một số phi kim (như Cu, Fe, He, C), hoặc kèm chỉ số ở chân bên phải đối với các phi kim có phân tử gồm nhiều nguyên tử liên kết với nhau (như H₂, O₂, O₃).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 7 (Mục I): Quy tắc viết công thức hoá học của đơn chất, phân biệt với công thức hoá học của hợp chất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 7"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7, tr. 40",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B7",
+          "section": null,
+          "printed_pages": [
+            40
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục I), tr. 40",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B7",
+          "section": "I",
+          "printed_pages": [
+            40
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục I), tr. 40, 41",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B7",
+          "section": "I",
+          "printed_pages": [
+            40,
+            41
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-chemical-property",
       "term_en": "chemical property",
       "term_vi": "Tính chất hoá học",
@@ -6670,6 +7404,68 @@
           "printed_pages": [
             74,
             75
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-chemical-symbol",
+      "term_en": "chemical symbol",
+      "term_vi": "Kí hiệu hoá học của nguyên tố",
+      "term_vi_display": "Kí hiệu hoá học của nguyên tố (kí hiệu hoá học; kí hiệu nguyên tố hoá học)",
+      "aliases_vi": [
+        "kí hiệu hoá học",
+        "kí hiệu nguyên tố hoá học"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A shorthand representation of a chemical element using one or two letters derived from its international or Latin name, in which the first letter is capitalized and the second letter (if present) is written in lowercase.",
+      "explanation_vi": "Cách biểu diễn ngắn gọn nguyên tố hoá học bằng một hoặc hai chữ cái trích từ tên gọi quốc tế hoặc tên Latin của nguyên tố, trong đó chữ cái đầu viết in hoa và chữ cái thứ hai (nếu có) viết thường.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 3 (Mục II.2): Dùng thống nhất để biểu diễn nguyên tố và nguyên tử của nguyên tố đó trong bảng tuần hoàn và công thức hoá học.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            175
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177,
+            178
           ]
         }
       ],
@@ -8403,6 +9199,11 @@
           "source_label": "SGK Hóa học 10",
           "explanation_en": "A chemical bond formed between two atoms through the sharing of one or more pairs of valence electrons, typically occurring between non-metal atoms.",
           "explanation_vi": "Liên kết hoá học hình thành giữa hai nguyên tử thông qua sự dùng chung một hay nhiều cặp electron hoá trị, thường xuất hiện giữa các nguyên tử phi kim."
+        },
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A chemical bond between two atoms formed by sharing one or more pairs of electrons to attain a stable noble gas electron shell.",
+          "explanation_vi": "Liên kết hoá học giữa hai nguyên tử hình thành bằng sự dùng chung một hay nhiều cặp electron để đạt cấu trúc vỏ electron bền vững giống khí hiếm."
         }
       ],
       "contexts": [
@@ -8421,6 +9222,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 12"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 6 (Mục III): Giải thích sự hình thành các phân tử đơn chất phi kim (H₂, O₂, N₂) và hợp chất cộng hoá trị (H₂O, CO₂, NH₃).",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 6"
         }
       ],
       "disambiguation_notes": [],
@@ -8502,6 +9311,101 @@
           "section": "I.3",
           "printed_pages": [
             57
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            175
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177,
+            178
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-covalent-substance",
+      "term_en": "covalent substance",
+      "term_vi": "Chất cộng hoá trị",
+      "term_vi_display": "Chất cộng hoá trị (hợp chất cộng hoá trị)",
+      "aliases_vi": [
+        "hợp chất cộng hoá trị"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A substance formed through covalent bonds between atoms in its molecules, including both covalent elemental substances and covalent compounds. Under normal conditions, covalent substances may exist as gases, liquids, or solids and generally have low melting and boiling points.",
+      "explanation_vi": "Chất tạo thành nhờ các liên kết cộng hoá trị giữa các nguyên tử trong phân tử, bao gồm cả đơn chất và hợp chất cộng hoá trị. Ở điều kiện thường, chất cộng hoá trị có thể ở thể khí, lỏng hoặc rắn và thường có nhiệt độ nóng chảy, nhiệt độ sôi thấp.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 6 (Mục III.2): Phân biệt bản chất liên kết và tính chất vật lí của các chất như nước, đường ăn, khí oxygen với hợp chất ion.",
+          "disciplines": [
+            "Vật lí"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 6"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            175
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            175,
+            176
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục III.2), tr. 39",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B6",
+          "section": "III.2",
+          "printed_pages": [
+            39
           ]
         }
       ],
@@ -10517,7 +11421,13 @@
       "origin_discipline": "Vật lí",
       "explanation_en": "A negatively charged subatomic particle constituting the atomic shell (symbol $\\text{e}$), having a mass of $9.109 \\times 10^{-31}\\text{ kg}$ ($\\approx 0.00055\\text{ amu}$) and an electric charge of $-1.602 \\times 10^{-19}\\text{ C}$ (relative charge $-1$).",
       "explanation_vi": "Hạt cơ bản mang điện tích âm tạo nên vỏ nguyên tử (kí hiệu $\\text{e}$), có khối lượng $9,109 \\cdot 10^{-31}\\text{ kg}$ ($\\approx 0,00055\\text{ amu}$) và điện tích $-1,602 \\cdot 10^{-19}\\text{ C}$ (điện tích tương đối bằng $-1$).",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A subatomic particle forming the electron shell system of an atom, denoted by $\\text{e}$, carrying a unit negative charge conventionally assigned as $-1$ and having a very small mass of approximately $0.00055\\text{ amu}$.",
+          "explanation_vi": "Hạt cấu tạo nên vỏ nguyên tử, kí hiệu là $\\text{e}$, mang một đơn vị điện tích âm quy ước là $-1$ và có khối lượng rất nhỏ xấp xỉ $0,00055\\text{ amu}$."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 1 (Mục I): Xác định thành phần cấu tạo, khối lượng và sự trung hoà điện của nguyên tử.",
@@ -10526,6 +11436,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 1"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 2 (Mục II, III.2, IV): Sắp xếp vào các lớp ở vỏ nguyên tử, trong đó các electron lớp ngoài cùng quyết định tính chất hoá học của nguyên tử.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 2"
         }
       ],
       "disambiguation_notes": [],
@@ -10562,6 +11480,40 @@
           "printed_pages": [
             13,
             14
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            175
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            176
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176, 177",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            176,
+            177
           ]
         }
       ],
@@ -10799,7 +11751,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A group of electrons in the atomic shell having nearly equal energy levels, ordered outward from the nucleus by principal index $n = 1, 2, 3, \\dots, 7$ corresponding to letter designations $\\text{K}, \\text{L}, \\text{M}, \\text{N}, \\text{O}, \\text{P}, \\text{Q}$. For $n \\le 4$, the $n$th shell contains $n$ subshells and $n^2$ atomic orbitals.",
       "explanation_vi": "Tập hợp các electron trong vỏ nguyên tử có mức năng lượng gần bằng nhau, được sắp xếp từ gần hạt nhân ra ngoài theo số thứ tự $n = 1, 2, 3, \\dots, 7$ ứng với tên gọi $\\text{K}, \\text{L}, \\text{M}, \\text{N}, \\text{O}, \\text{P}, \\text{Q}$. Với $n \\le 4$, lớp thứ $n$ có $n$ phân lớp và $n^2$ orbital nguyên tử.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A grouping of electrons in an atom's shell system moving around the nucleus at a comparable distance and nuclear attraction level according to Bohr's atomic model. Electrons fill shells sequentially from the innermost outward (up to 2 electrons in the first shell and 8 in the second), with the outermost shell determining the atom's chemical properties.",
+          "explanation_vi": "Tập hợp các electron ở vỏ nguyên tử chuyển động xung quanh hạt nhân ở cùng mức khoảng cách và mức độ bị hạt nhân hút theo mô hình nguyên tử của Bo. Các electron sắp xếp theo thứ tự từ trong ra ngoài (lớp thứ nhất tối đa 2 electron, lớp thứ hai tối đa 8 electron), trong đó lớp ngoài cùng quyết định tính chất hoá học của nguyên tử."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 3 (Mục II.1): Phân chia cấu trúc vỏ nguyên tử theo mức năng lượng và xác định số thứ tự chu kì trong bảng tuần hoàn.",
@@ -10808,6 +11766,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 3"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 2 (Mục II, III.2) và Bài 4 (Mục II.2): Dùng số lớp electron để xác định số thứ tự chu kì của nguyên tố trong bảng tuần hoàn.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 2"
         }
       ],
       "disambiguation_notes": [],
@@ -10843,6 +11809,40 @@
           "section": "III",
           "printed_pages": [
             23
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục II), tr. 15",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II",
+          "printed_pages": [
+            15
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục II), tr. 15, 16",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II",
+          "printed_pages": [
+            15,
+            16
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục II), tr. 16",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II",
+          "printed_pages": [
+            16
           ]
         }
       ],
@@ -11210,6 +12210,67 @@
           "section": "II.3.c",
           "printed_pages": [
             96
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-elemental-substance",
+      "term_en": "elemental substance",
+      "term_vi": "Đơn chất",
+      "term_vi_display": "Đơn chất",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A pure chemical substance composed of only one chemical element, including metallic, nonmetallic, and noble gas elemental substances.",
+      "explanation_vi": "Chất tạo nên từ một nguyên tố hoá học duy nhất, bao gồm các đơn chất kim loại, phi kim và khí hiếm.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 5 (Mục I.1): Phân loại chất dựa theo thành phần nguyên tố hoá học, đối lập với hợp chất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 5"
+        }
+      ],
+      "disambiguation_notes": [
+        "Phân biệt với nguyên tố hoá học (chemical element – tập hợp các nguyên tử cùng số hạt proton) và hợp chất (chemical compound – chất tạo nên từ hai nguyên tố trở lên)."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            175
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            176
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176, 177",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            176,
+            177
           ]
         }
       ],
@@ -11639,6 +12700,11 @@
           "source_label": "SGK Hóa học 12",
           "explanation_en": "A biological catalyst, in most cases a protein, that accelerates chemical and biochemical reactions at rates vastly higher than ordinary chemical catalysts. Each enzyme exhibits high selectivity, catalysing only one or a few specific reactions.",
           "explanation_vi": "Chất xúc tác sinh học có bản chất phần lớn là protein, làm tăng tốc độ các phản ứng hoá học và sinh hoá nhanh hơn rất nhiều lần so với xúc tác hoá học thông thường. Mỗi enzyme có tính chọn lọc cao, chỉ xúc tác cho một hoặc một số phản ứng nhất định."
+        },
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A biological catalyst of protein nature synthesized within living cells that accelerates the rate of biochemical reactions in organisms.",
+          "explanation_vi": "Chất xúc tác sinh học có bản chất là protein, tổng hợp bên trong các tế bào sống và có chức năng làm tăng tốc độ các phản ứng hoá sinh trong cơ thể sinh vật."
         }
       ],
       "contexts": [
@@ -11666,6 +12732,14 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 10"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 29 (Mục III.2): mối liên hệ giữa vitamin, chất khoáng và protein trong cấu tạo chất xúc tác cho quá trình trao đổi chất.",
+          "disciplines": [
+            "Sinh học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 29"
         }
       ],
       "disambiguation_notes": [],
@@ -11745,6 +12819,40 @@
           "section": "II.2",
           "printed_pages": [
             48
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B29",
+          "section": "III.2",
+          "printed_pages": [
+            125
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125, 126",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B29",
+          "section": "III.2",
+          "printed_pages": [
+            125,
+            126
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            176
           ]
         }
       ],
@@ -14373,7 +15481,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A vertical column (or set of columns) of chemical elements in the periodic table whose atoms have similar electron configurations and therefore exhibit closely related chemical properties. The periodic table comprises $18$ columns divided into $8$ A groups (IA to VIIIA) and $8$ B groups (IB to VIIIB, with Group VIIIB spanning $3$ columns).",
       "explanation_vi": "Tập hợp các nguyên tố hoá học được xếp thành cột dọc trong bảng tuần hoàn do nguyên tử có cấu hình electron tương tự nhau và có tính chất hoá học gần giống nhau. Bảng tuần hoàn hiện có $18$ cột, chia thành $8$ nhóm A (từ IA đến VIIIA) và $8$ nhóm B (từ IB đến VIIIB, riêng nhóm VIIIB gồm $3$ cột).",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A vertical column of elements with similar chemical properties in the periodic table, arranged in order of increasing nuclear charge from top to bottom, comprising 8 A groups (IA to VIIIA) and 8 B groups (IB to VIIIB). Atoms of elements within the same A group have an equal number of outermost-shell electrons matching the group number (except He).",
+          "explanation_vi": "Cột dọc các nguyên tố có tính chất hoá học gần giống nhau trong bảng tuần hoàn, xếp theo chiều điện tích hạt nhân tăng dần từ trên xuống dưới, gồm 8 nhóm A (từ IA đến VIIIA) và 8 nhóm B (từ IB đến VIIIB). Nguyên tử các nguyên tố trong cùng một nhóm A có số electron lớp ngoài cùng bằng nhau và bằng số thứ tự của nhóm (trừ He)."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 5 (Mục III.3): Phân chia các cột nguyên tố trong bảng tuần hoàn và suy đoán tính chất hoá học tương tự theo cột.",
@@ -14382,10 +15496,19 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 5"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 4 (Mục II.3): Sử dụng số thứ tự nhóm A để suy ra số electron lớp ngoài cùng và dự đoán tính chất tương đồng của các nguyên tố.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 4"
         }
       ],
       "disambiguation_notes": [
-        "Thuật ngữ trong hoá học chỉ cột dọc các nguyên tố có cấu hình electron tương tự trong bảng tuần hoàn (chia thành 8 nhóm A và 8 nhóm B)."
+        "Thuật ngữ trong hoá học chỉ cột dọc các nguyên tố có cấu hình electron tương tự trong bảng tuần hoàn (chia thành 8 nhóm A và 8 nhóm B).",
+        "Chỉ nhóm nguyên tố trong bảng tuần hoàn hoá học."
       ],
       "sources": [
         {
@@ -14419,6 +15542,39 @@
           "section": "III.2",
           "printed_pages": [
             32
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục I), tr. 23",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "I",
+          "printed_pages": [
+            23
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục I), tr. 25",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "I",
+          "printed_pages": [
+            25
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.3), tr. 28",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "II.3",
+          "printed_pages": [
+            28
           ]
         }
       ],
@@ -16645,6 +17801,65 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-inorganic-compound",
+      "term_en": "inorganic compound",
+      "term_vi": "Hợp chất vô cơ",
+      "term_vi_display": "Hợp chất vô cơ",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A class of chemical compounds comprising carbon-free compounds as well as certain simple carbon-containing compounds such as carbon dioxide and carbonates (for example, water, table salt, and calcium carbonate).",
+      "explanation_vi": "Nhóm hợp chất hoá học bao gồm các hợp chất không chứa nguyên tố carbon và một số hợp chất đơn giản của carbon như carbon dioxide hoặc các muối carbonate (ví dụ: nước, muối ăn, calcium carbonate).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 5 (Mục I.2) và Bài 7 (Mục II.2): Phân loại hợp chất trong tự nhiên và áp dụng quy tắc hoá trị.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 5"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục I.2), tr. 34",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B5",
+          "section": "I.2",
+          "printed_pages": [
+            34
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.1), tr. 34",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B5",
+          "section": "II.1",
+          "printed_pages": [
+            34
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.1), tr. 34, 35",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B5",
+          "section": "II.1",
+          "printed_pages": [
+            34,
+            35
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "toan-hoc-instantaneous-rate-of-change",
       "term_en": "instantaneous rate of change",
       "term_vi": "Tốc độ thay đổi tức thời",
@@ -16833,6 +18048,66 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-international-union-of-pure-and-applied-chemistry",
+      "term_en": "International Union of Pure and Applied Chemistry",
+      "term_vi": "IUPAC",
+      "term_vi_display": "IUPAC (Liên minh Quốc tế về Hoá học cơ bản và Hoá học ứng dụng)",
+      "aliases_vi": [
+        "Liên minh Quốc tế về Hoá học cơ bản và Hoá học ứng dụng"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "The international scientific organization that establishes globally standardized rules for the nomenclature, names, and symbols of chemical elements as well as chemical terminology.",
+      "explanation_vi": "Tổ chức khoa học quốc tế ban hành quy định thống nhất trên toàn thế giới về danh pháp tên gọi và kí hiệu của các nguyên tố cũng như các thuật ngữ hoá học.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 3 (Mục II.1): Quy chuẩn đọc và viết tên các nguyên tố hoá học bằng danh pháp quốc tế trong chương trình phổ thông.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B3 (Mục I), tr. 20",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B3",
+          "section": "I",
+          "printed_pages": [
+            20
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B3 (Mục II.1), tr. 20",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B3",
+          "section": "II.1",
+          "printed_pages": [
+            20
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B3 (Mục II.2), tr. 20",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B3",
+          "section": "II.2",
+          "printed_pages": [
+            20
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-iodine",
       "term_en": "iodine",
       "term_vi": "Iodine",
@@ -16885,6 +18160,66 @@
           "section": "III.3.b",
           "printed_pages": [
             36
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-iodine-solution",
+      "term_en": "iodine solution",
+      "term_vi": "Dung dịch iodine",
+      "term_vi_display": "Dung dịch iodine (thuốc thử tinh bột)",
+      "aliases_vi": [
+        "thuốc thử tinh bột"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A solution containing iodine used as a specific reagent to detect starch. When iodine solution is added to a sample containing starch, the starch turns bluish-purple.",
+      "explanation_vi": "Dung dịch chứa iodine dùng làm thuốc thử đặc trưng để nhận biết tinh bột. Khi nhỏ dung dịch iodine vào mẫu vật chứa tinh bột, tinh bột chuyển thành màu xanh tím.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 24 (Mục I.2, II.1): hoá chất dùng để chứng minh sự tạo thành tinh bột trong lá cây khi quang hợp.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 24"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B24 (Mục I.1), tr. 108",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B24",
+          "section": "I.1",
+          "printed_pages": [
+            108
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B24 (Mục I.2), tr. 108",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B24",
+          "section": "I.2",
+          "printed_pages": [
+            108
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B24 (Mục II.1), tr. 108",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B24",
+          "section": "II.1",
+          "printed_pages": [
+            108
           ]
         }
       ],
@@ -16945,6 +18280,67 @@
           "section": "VI",
           "printed_pages": [
             144
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-ion",
+      "term_en": "ion",
+      "term_vi": "Ion",
+      "term_vi_display": "Ion (ion dương; ion âm)",
+      "aliases_vi": [
+        "ion dương",
+        "ion âm"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "An electrically charged particle formed when a neutral atom loses or gains electrons to attain a stable electron shell. Losing electrons produces a positive ion (cation), gaining electrons produces a negative ion (anion), and the ionic charge is written as a right superscript to the chemical symbol.",
+      "explanation_vi": "Phần tử mang điện hình thành khi nguyên tử trung hoà nhường hoặc nhận electron để đạt vỏ electron bền vững. Nguyên tử nhường electron tạo thành ion dương, nguyên tử nhận electron tạo thành ion âm và điện tích ion được ghi ở phía trên, bên phải kí hiệu hoá học.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 6 (Mục II): Phần tử cấu thành liên kết ion và hợp chất ion như muối ăn (NaCl), magnesium oxide (MgO).",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 6"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục II), tr. 37",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B6",
+          "section": "II",
+          "printed_pages": [
+            37
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục III.2), tr. 39",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B6",
+          "section": "III.2",
+          "printed_pages": [
+            39
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177
           ]
         }
       ],
@@ -17017,7 +18413,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A chemical bond formed by electrostatic attraction between oppositely charged ions in a molecule or crystal. This bond typically forms between atoms of a typical metal and a typical non-metal.",
       "explanation_vi": "Liên kết hoá học hình thành do lực hút tĩnh điện giữa các ion mang điện tích trái dấu trong phân tử hoặc tinh thể. Liên kết này thường xuất hiện giữa nguyên tử kim loại điển hình và nguyên tử phi kim điển hình.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A chemical bond formed by the attraction between oppositely charged ions resulting from the transfer of electrons between atoms.",
+          "explanation_vi": "Liên kết hoá học hình thành do lực hút giữa các ion mang điện trái dấu được tạo ra từ quá trình nhường và nhận electron giữa các nguyên tử."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 11 (Mục II): Giải thích sự tạo thành các hợp chất như NaCl, CaCl₂, MgO từ sự nhường và nhận electron giữa kim loại và phi kim.",
@@ -17026,6 +18428,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 11"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 6 (Mục II): Giải thích sự hình thành phân tử hợp chất ion như sodium chloride (NaCl) và magnesium oxide (MgO), phân biệt với liên kết cộng hoá trị.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 6"
         }
       ],
       "disambiguation_notes": [],
@@ -17062,6 +18472,40 @@
           "printed_pages": [
             54
           ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177,
+            178
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục II), tr. 37",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B6",
+          "section": "II",
+          "printed_pages": [
+            37
+          ]
         }
       ],
       "markdown_file": "Tu-dien-Hoa-hoc.md"
@@ -17075,7 +18519,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A chemical compound composed of positive and negative ions held together by ionic bonds. Under standard conditions, such compounds are typically hard yet brittle solids with high melting and boiling points that conduct electricity when molten or dissolved in solution, though not in the solid state.",
       "explanation_vi": "Hợp chất hoá học tạo nên từ các ion dương và ion âm liên kết với nhau bằng liên kết ion. Ở điều kiện thường, các hợp chất này thường ở thể rắn, cứng nhưng giòn, có nhiệt độ nóng chảy và nhiệt độ sôi cao, dẫn điện khi nóng chảy hoặc khi tan trong dung dịch nhưng không dẫn điện ở trạng thái rắn.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A chemical compound composed of positive and negative ions held together by ionic bonds. Under normal conditions, ionic compounds are solids with low volatility and high melting points that form electrically conductive solutions when dissolved in water.",
+          "explanation_vi": "Hợp chất tạo thành bởi các ion dương và ion âm gắn kết với nhau bằng liên kết ion. Ở điều kiện thường, các hợp chất ion tồn tại ở thể rắn, khó bay hơi, khó nóng chảy và khi tan trong nước tạo thành dung dịch dẫn điện."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 11 (Mục II, III.2): Liên hệ bản chất lực hút tĩnh điện bền vững trong tinh thể ion với các tính chất vật lí đặc trưng của muối ăn NaCl và các muối vô cơ.",
@@ -17085,6 +18535,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 11"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 6 (Mục II): Nhận biết cấu tạo và tính chất đặc trưng của muối ăn cùng các hợp chất ion, đối chiếu với chất cộng hoá trị.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 6"
         }
       ],
       "disambiguation_notes": [],
@@ -17120,6 +18578,40 @@
           "section": "II",
           "printed_pages": [
             52
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177,
+            178
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục II), tr. 37",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B6",
+          "section": "II",
+          "printed_pages": [
+            37
           ]
         }
       ],
@@ -18282,7 +19774,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A clear chemical solution capable of absorbing CO₂ gas to form a precipitate (appearing as a cloudy film on the liquid surface), commonly used as a reagent to detect CO₂ released during respiration in germinating seeds.",
       "explanation_vi": "Hoá chất dạng dung dịch trong suốt có khả năng hấp thụ khí CO₂ để tạo thành kết tủa (xuất hiện lớp váng đục trên bề mặt cốc dung dịch), thường được dùng trong thí nghiệm phát hiện CO₂ sinh ra từ quá trình hô hấp của hạt nảy mầm.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A clear chemical solution that reacts with CO₂ gas to form a cloudy precipitate, used in biological experiments to detect CO₂ released during respiration.",
+          "explanation_vi": "Dung dịch hoá chất trong suốt có tính chất tác dụng với khí CO₂ tạo thành chất kết tủa gây vẩn đục, dùng trong thí nghiệm sinh học để phát hiện sự thải khí CO₂ của quá trình hô hấp."
+        }
+      ],
       "contexts": [
         {
           "raw": "Sinh học lớp 11, Bài 7 (Mục II.2, III.1, III.2): Hoá chất dùng làm thuốc thử phát hiện khí CO₂ thải ra từ hô hấp thực vật trong thí nghiệm thực hành.",
@@ -18291,6 +19789,14 @@
           ],
           "grade": 11,
           "lesson_ref": "Bài 7"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 27 (Mục I.2, II): hoá chất dùng để chứng minh hạt nảy mầm thải ra khí CO₂ khi hô hấp.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 27"
         }
       ],
       "disambiguation_notes": [],
@@ -18327,6 +19833,39 @@
           "printed_pages": [
             45
           ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B27 (Mục I.1), tr. 116",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B27",
+          "section": "I.1",
+          "printed_pages": [
+            116
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B27 (Mục I.2), tr. 116",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B27",
+          "section": "I.2",
+          "printed_pages": [
+            116
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B27 (Mục II), tr. 116",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B27",
+          "section": "II",
+          "printed_pages": [
+            116
+          ]
         }
       ],
       "markdown_file": "Tu-dien-Hoa-hoc.md"
@@ -18352,6 +19891,11 @@
           "source_label": "SGK Sinh học 10",
           "explanation_en": "A structurally diverse group of biomolecules (including fats and oils, phospholipids, steroids, carotenoids, waxes, and vitamins A, D, E, and K) sharing a hydrophobic nature due to abundant nonpolar C–H bonds and few oxygen atoms. They primarily function in long-term energy storage, cell membrane structure, and various physiological processes.",
           "explanation_vi": "Nhóm phân tử sinh học đa dạng về cấu trúc (gồm mỡ và dầu, phospholipid, steroid, carotenoid, sáp và các vitamin A, D, E, K) nhưng có đặc tính chung là kị nước do chứa nhiều liên kết C–H không phân cực và ít nguyên tử oxygen. Chúng giữ chức năng chủ yếu là dự trữ năng lượng dài hạn, cấu tạo màng tế bào và tham gia nhiều hoạt động sinh lí khác."
+        },
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A major class of organic nutrients required in large amounts by animals, functioning to store energy, insulate the body against heat loss, and act as a solvent enabling the absorption of certain vitamins.",
+          "explanation_vi": "Nhóm chất dinh dưỡng hữu cơ mà cơ thể động vật cần với lượng lớn, có vai trò dự trữ năng lượng, chống mất nhiệt cho cơ thể và làm dung môi hoà tan một số loại vitamin để cơ thể hấp thụ."
         }
       ],
       "contexts": [
@@ -18378,6 +19922,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 5"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 29 (Mục III.2) và Bài 31 (Mục IV.1): vai trò sinh học của chất béo trong cơ thể động vật và dinh dưỡng ở người.",
+          "disciplines": [
+            "Sinh học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 29"
         }
       ],
       "disambiguation_notes": [],
@@ -18470,6 +20022,40 @@
           "printed_pages": [
             39,
             40
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B29",
+          "section": "III.2",
+          "printed_pages": [
+            125
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125, 126",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B29",
+          "section": "III.2",
+          "printed_pages": [
+            125,
+            126
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 126",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B29",
+          "section": "III.2",
+          "printed_pages": [
+            126
           ]
         }
       ],
@@ -18782,6 +20368,65 @@
           "section": "IV",
           "printed_pages": [
             113
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-long-period",
+      "term_en": "long period",
+      "term_vi": "Chu kì lớn",
+      "term_vi_display": "Chu kì lớn",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "Any of the four lower periods (periods 4, 5, 6, and 7) in the periodic table of elements, containing a larger number of elements than the short periods (with periods 6 and 7 also including the lanthanide and actinide series placed at the bottom of the table).",
+      "explanation_vi": "Nhóm bốn chu kì phía dưới (chu kì 4, chu kì 5, chu kì 6 và chu kì 7) trong bảng tuần hoàn các nguyên tố hoá học, chứa số lượng nguyên tố nhiều hơn các chu kì nhỏ (riêng chu kì 6 và 7 có thêm họ lanthanide và actinide xếp cuối bảng).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 4 (Mục II.2): Phân biệt với các chu kì nhỏ (chu kì 1, 2, 3) khi nhận diện cấu trúc hàng ngang của bảng tuần hoàn.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.1), tr. 26",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "II.1",
+          "printed_pages": [
+            26
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.2), tr. 26",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "II.2",
+          "printed_pages": [
+            26
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.2), tr. 26, 27",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "II.2",
+          "printed_pages": [
+            26,
+            27
           ]
         }
       ],
@@ -19171,6 +20816,66 @@
         }
       ],
       "markdown_file": "Tu-dien-Vat-li.md"
+    },
+    {
+      "id": "hoa-hoc-mass-percentage-of-an-element-in-a-compound",
+      "term_en": "mass percentage of an element in a compound",
+      "term_vi": "Phần trăm khối lượng nguyên tố trong hợp chất",
+      "term_vi_display": "Phần trăm khối lượng nguyên tố trong hợp chất",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A quantity expressing the mass ratio as a percentage of each element relative to the molecular mass of a compound, calculated by the formula $\\%\\text{ mass of element} = \\frac{\\text{atomic mass} \\cdot \\text{number of atoms of element} \\cdot 100\\%}{\\text{molecular mass}}$.",
+      "explanation_vi": "Đại lượng biểu thị tỉ lệ phần trăm khối lượng của mỗi nguyên tố so với khối lượng phân tử hợp chất, xác định theo công thức $\\%\\text{ khối lượng nguyên tố} = \\frac{\\text{khối lượng nguyên tử} \\cdot \\text{số nguyên tử của nguyên tố} \\cdot 100\\%}{\\text{khối lượng phân tử}}$.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 7 (Mục I, III.2): Bài toán tính thành phần phần trăm các nguyên tố từ công thức hoá học (như hàm lượng dinh dưỡng trong phân bón).",
+          "disciplines": [
+            "Toán học",
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 7"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục I), tr. 41",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B7",
+          "section": "I",
+          "printed_pages": [
+            41
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục II.1), tr. 41",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B7",
+          "section": "II.1",
+          "printed_pages": [
+            41
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục II.1), tr. 41, 42",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B7",
+          "section": "II.1",
+          "printed_pages": [
+            41,
+            42
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
       "id": "vat-li-mass-spectrometry",
@@ -19965,6 +21670,66 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-metallic-element",
+      "term_en": "metallic element",
+      "term_vi": "Nguyên tố kim loại",
+      "term_vi_display": "Nguyên tố kim loại (kim loại)",
+      "aliases_vi": [
+        "kim loại"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A class of more than 90 chemical elements located in the lower-left region of the periodic table, encompassing most elements of groups IA, IIA, and IIIA, some elements of groups IVA, VA, and VIA, all B-group elements, and the lanthanide and actinide series. Metal atoms tend to lose electrons to achieve a stable noble-gas outer electron configuration.",
+      "explanation_vi": "Tập hợp hơn 90 nguyên tố hoá học nằm ở vùng góc dưới bên trái bảng tuần hoàn, gồm hầu hết các nguyên tố nhóm IA, IIA, IIIA, một số nguyên tố nhóm IVA, VA, VIA, toàn bộ các nhóm B cùng hai họ lanthanide và actinide. Nguyên tử kim loại có xu hướng nhường electron để đạt lớp electron ngoài cùng bền vững giống khí hiếm.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 4 (Mục III.1): Nhận biết vị trí các kim loại (thể hiện bằng ô màu xanh trong bảng tuần hoàn) và ứng dụng của Al, Fe, Cu, Au trong đời sống.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục I), tr. 25",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "I",
+          "printed_pages": [
+            25
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.3), tr. 28",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "II.3",
+          "printed_pages": [
+            28
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.3), tr. 29",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "II.3",
+          "printed_pages": [
+            29
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-metallic-lustre",
       "term_en": "metallic lustre",
       "term_vi": "Ánh kim",
@@ -20242,6 +22007,53 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-molecular-mass",
+      "term_en": "molecular mass",
+      "term_vi": "Khối lượng phân tử",
+      "term_vi_display": "Khối lượng phân tử",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A quantity equal to the sum of the atomic masses of all atoms constituting a molecule of a substance, expressed in atomic mass units ($\\text{amu}$).",
+      "explanation_vi": "Đại lượng bằng tổng khối lượng của tất cả các nguyên tử tạo nên một phân tử chất đó, tính theo đơn vị khối lượng nguyên tử ($\\text{amu}$).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 5 (Mục II.2) và Bài 7 (Mục I): Tính khối lượng phân tử từ bảng tuần hoàn và xác định phần trăm khối lượng nguyên tố trong hợp chất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 5"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.1), tr. 35",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B5",
+          "section": "II.1",
+          "printed_pages": [
+            35
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.2), tr. 35",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B5",
+          "section": "II.2",
+          "printed_pages": [
+            35
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-molecular-structure-of-alkanes",
       "term_en": "molecular structure of alkanes",
       "term_vi": "Đặc điểm cấu tạo của alkane",
@@ -20403,6 +22215,232 @@
           "section": "III",
           "printed_pages": [
             95
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "vat-li-molecule",
+      "term_en": "molecule",
+      "term_vi": "Phân tử",
+      "term_vi_display": "Phân tử",
+      "aliases_vi": [],
+      "origin_discipline": "Vật lí",
+      "explanation_en": "A discrete microscopic particle constituting matter that moves ceaselessly at random and interacts via intermolecular forces. In the kinetic theory of matter, this term refers collectively to all constituent particles of matter, including molecules, atoms, and ions.",
+      "explanation_vi": "Hạt vi mô riêng biệt cấu tạo nên các chất, chuyển động hỗn loạn không ngừng và tương tác với nhau bằng lực liên kết phân tử. Trong mô hình động học phân tử, thuật ngữ này dùng để chỉ chung các hạt cấu tạo chất gồm phân tử, nguyên tử và ion.",
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "The representative particle of a substance, consisting of a group of bonded atoms that exhibits the full chemical properties of that substance.",
+          "explanation_vi": "Hạt đại diện cho chất, gồm một số nguyên tử liên kết với nhau và thể hiện đầy đủ tính chất hoá học của chất đó."
+        }
+      ],
+      "contexts": [
+        {
+          "raw": "Vật lí lớp 12, Bài 1 (Mục I): hạt cấu tạo cơ bản của vật chất trong mô hình động học phân tử.",
+          "disciplines": [
+            "Vật lí"
+          ],
+          "grade": 12,
+          "lesson_ref": "Bài 1"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 5 (Mục II.1): Đơn vị cấu trúc vi mô đại diện cho tính chất hoá học của đơn chất và hợp chất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 5"
+        }
+      ],
+      "disambiguation_notes": [
+        "Trong mô hình động học phân tử của Vật lí, thuật ngữ 'phân tử' dùng để chỉ chung mọi hạt cấu tạo chất (phân tử, nguyên tử, ion), rộng hơn nghĩa phân tử trung hoà điện trong Hoá học."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Vật lí 12 KNTT, Chương 01, B1, tr. 6",
+          "book": "SGK Vật lí 12 KNTT",
+          "unit": "vat_ly_12",
+          "group": "Chương 01",
+          "lesson": "B1",
+          "section": null,
+          "printed_pages": [
+            6
+          ]
+        },
+        {
+          "raw": "SGK Vật lí 12 KNTT, Chương 01, B1 (Mục I), tr. 6",
+          "book": "SGK Vật lí 12 KNTT",
+          "unit": "vat_ly_12",
+          "group": "Chương 01",
+          "lesson": "B1",
+          "section": "I",
+          "printed_pages": [
+            6
+          ]
+        },
+        {
+          "raw": "SGK Vật lí 12 KNTT, Chương 01, B1 (Mục II), tr. 7",
+          "book": "SGK Vật lí 12 KNTT",
+          "unit": "vat_ly_12",
+          "group": "Chương 01",
+          "lesson": "B1",
+          "section": "II",
+          "printed_pages": [
+            7
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            175
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            178
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178, 179",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            178,
+            179
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Vat-li.md"
+    },
+    {
+      "id": "hoa-hoc-molecule-of-a-compound",
+      "term_en": "molecule of a compound",
+      "term_vi": "Phân tử hợp chất",
+      "term_vi_display": "Phân tử hợp chất",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A molecule formed by atoms of two or more different chemical elements bonded together.",
+      "explanation_vi": "Phân tử cấu tạo từ các nguyên tử của hai hay nhiều nguyên tố hoá học khác nhau liên kết với nhau.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 5 (Mục II.1): Phân biệt cấu tạo phân tử của hợp chất (như nước, methane) với phân tử đơn chất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 5"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục I.2), tr. 34",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B5",
+          "section": "I.2",
+          "printed_pages": [
+            34
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.1), tr. 34",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B5",
+          "section": "II.1",
+          "printed_pages": [
+            34
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.1), tr. 34, 35",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B5",
+          "section": "II.1",
+          "printed_pages": [
+            34,
+            35
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-molecule-of-an-elemental-substance",
+      "term_en": "molecule of an elemental substance",
+      "term_vi": "Phân tử đơn chất",
+      "term_vi_display": "Phân tử đơn chất",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A molecule formed by atoms of the same chemical element bonded together.",
+      "explanation_vi": "Phân tử cấu tạo từ các nguyên tử của cùng một nguyên tố hoá học liên kết với nhau.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 5 (Mục II.1): Phân biệt cấu tạo phân tử của đơn chất (như khí nitrogen, oxygen) với phân tử hợp chất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 5"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục I.2), tr. 34",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B5",
+          "section": "I.2",
+          "printed_pages": [
+            34
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.1), tr. 34",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B5",
+          "section": "II.1",
+          "printed_pages": [
+            34
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.1), tr. 34, 35",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B5",
+          "section": "II.1",
+          "printed_pages": [
+            34,
+            35
           ]
         }
       ],
@@ -21441,6 +23479,11 @@
           "source_label": "SGK Vật lí 12",
           "explanation_en": "An electrically neutral nucleon constituting the atomic nucleus, denoted by $\\text{n}$, having a mass of $m_{\\text{n}} \\approx 1.67493 \\cdot 10^{-27}\\text{ kg}$ (approximately $1.00866\\text{ amu}$). The number of these particles in a nucleus equals the difference between the mass number and the atomic number ($N = A - Z$).",
           "explanation_vi": "Hạt nucleon trung hòa về điện cấu tạo nên hạt nhân nguyên tử, kí hiệu là $\\text{n}$, có khối lượng $m_{\\text{n}} \\approx 1,67493 \\cdot 10^{-27}\\text{ kg}$ (xấp xỉ $1,00866\\text{ amu}$). Số hạt này trong hạt nhân bằng hiệu giữa số khối và số hiệu nguyên tử ($N = A - Z$)."
+        },
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "An electrically neutral subatomic particle located in the atomic nucleus, denoted by $\\text{n}$, having a mass nearly equal to that of a proton at approximately $1\\text{ amu}$.",
+          "explanation_vi": "Hạt không mang điện nằm trong hạt nhân nguyên tử, kí hiệu là $\\text{n}$, có khối lượng gần bằng khối lượng của một proton và xấp xỉ $1\\text{ amu}$."
         }
       ],
       "contexts": [
@@ -21460,6 +23503,14 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 21"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 2 (Mục III.1, IV): Kết hợp với số hạt proton để tính khối lượng hạt nhân và khối lượng nguyên tử theo đơn vị $\\text{amu}$.",
+          "disciplines": [
+            "Vật lí"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 2"
         }
       ],
       "disambiguation_notes": [],
@@ -21530,6 +23581,40 @@
           "printed_pages": [
             93,
             94
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177,
+            178
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục II), tr. 15",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II",
+          "printed_pages": [
+            15
           ]
         }
       ],
@@ -21837,12 +23922,20 @@
       "id": "hoa-hoc-noble-gas",
       "term_en": "noble gas",
       "term_vi": "Khí hiếm",
-      "term_vi_display": "Khí hiếm",
-      "aliases_vi": [],
+      "term_vi_display": "Khí hiếm (Nguyên tố khí hiếm)",
+      "aliases_vi": [
+        "Nguyên tố khí hiếm"
+      ],
       "origin_discipline": "Hóa học",
       "explanation_en": "Chemical elements whose atoms possess $8$ outermost electrons (except helium, which has $2$), conferring a highly stable electron configuration so that they scarcely participate in chemical reactions.",
       "explanation_vi": "Các nguyên tố hoá học mà nguyên tử có $8$ electron ở lớp ngoài cùng (riêng helium có $2$ electron lớp ngoài cùng), có cấu hình rất bền vững nên hầu như không tham gia vào các phản ứng hoá học.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A group of 7 chemical elements occupying group VIIIA of the periodic table (He, Ne, Ar, Kr, Xe, Rn, and Og), possessing a stable outermost electron shell of 8 electrons (or 2 electrons for He) and consequently exhibiting very low chemical reactivity.",
+          "explanation_vi": "Nhóm 7 nguyên tố hoá học nằm ở cột nhóm VIIIA của bảng tuần hoàn (gồm He, Ne, Ar, Kr, Xe, Rn, Og), có lớp electron ngoài cùng bền vững với 8 electron (riêng He có 2 electron) nên rất khó bị biến đổi hoá học."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 3 (Mục III.3): Nhận diện các nguyên tử bền vững hầu như không tham gia phản ứng hoá học dựa vào số electron lớp ngoài cùng.",
@@ -21851,6 +23944,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 3"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 4 (Mục III.3): Nhận diện các nguyên tố khí hiếm ở nhóm VIIIA (ô màu vàng trong bảng tuần hoàn) và giải thích độ bền hoá học của lớp vỏ electron.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 4"
         }
       ],
       "disambiguation_notes": [],
@@ -21864,6 +23965,97 @@
           "section": "III.3",
           "printed_pages": [
             25
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục I), tr. 25",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "I",
+          "printed_pages": [
+            25
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.3), tr. 28",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "II.3",
+          "printed_pages": [
+            28
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục III.3), tr. 31",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "III.3",
+          "printed_pages": [
+            31
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-noble-gas-electron-configuration",
+      "term_en": "noble gas electron configuration",
+      "term_vi": "Cấu trúc electron bền vững của khí hiếm",
+      "term_vi_display": "Cấu trúc electron bền vững của khí hiếm",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "An atomic shell arrangement having $8$ electrons in the outermost shell (or $2$ electrons in helium), enabling noble gases to exist stably as monatomic species resistant to chemical change under normal conditions.",
+      "explanation_vi": "Cấu hình vỏ nguyên tử có lớp electron ngoài cùng chứa $8$ electron (riêng nguyên tử helium chứa $2$ electron), giúp các khí hiếm tồn tại bền vững dưới dạng đơn nguyên tử và khó bị biến đổi hoá học ở điều kiện thường.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 6 (Mục I): Cơ sở giải thích xu hướng nhường, nhận hoặc dùng chung electron của các nguyên tử khi hình thành liên kết hoá học.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 6"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6, tr. 36",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B6",
+          "section": null,
+          "printed_pages": [
+            36
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục I), tr. 36",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B6",
+          "section": "I",
+          "printed_pages": [
+            36
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục III.1), tr. 38",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B6",
+          "section": "III.1",
+          "printed_pages": [
+            38
           ]
         }
       ],
@@ -22143,12 +24335,73 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-nonmetallic-element",
+      "term_en": "nonmetallic element",
+      "term_vi": "Nguyên tố phi kim",
+      "term_vi_display": "Nguyên tố phi kim (phi kim)",
+      "aliases_vi": [
+        "phi kim"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A class of fewer than 20 chemical elements situated mainly in the upper-right region of the periodic table (along with hydrogen in group IA), including most elements of groups VIIA, VIA, and VA and several elements of groups IVA and IIIA. At standard conditions they exist as solids, liquids, or gases, and nonmetal atoms tend to gain electrons to achieve a stable noble-gas outer shell.",
+      "explanation_vi": "Tập hợp chưa đến 20 nguyên tố hoá học nằm chủ yếu ở góc trên bên phải bảng tuần hoàn (cùng nguyên tố H ở nhóm IA), gồm hầu hết các nguyên tố nhóm VIIA, VIA, VA và một số nguyên tố nhóm IVA, IIIA. Ở điều kiện thường chúng tồn tại ở thể rắn, lỏng hoặc khí và nguyên tử phi kim có xu hướng nhận electron để đạt lớp vỏ bền vững giống khí hiếm.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 4 (Mục III.2): Nhận biết vị trí các phi kim (thể hiện bằng ô màu hồng trong bảng tuần hoàn) và vai trò của O, Cl, S, C trong tự nhiên và đời sống.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục I), tr. 25",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "I",
+          "printed_pages": [
+            25
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.3), tr. 28",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "II.3",
+          "printed_pages": [
+            28
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục III.1), tr. 30",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "III.1",
+          "printed_pages": [
+            30
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-nuclear-charge-number",
       "term_en": "nuclear charge number",
       "term_vi": "Số đơn vị điện tích hạt nhân",
-      "term_vi_display": "Số đơn vị điện tích hạt nhân ($Z$)",
+      "term_vi_display": "Số đơn vị điện tích hạt nhân ($Z$; Z)",
       "aliases_vi": [
-        "$Z$"
+        "$Z$",
+        "Z"
       ],
       "origin_discipline": "Hóa học",
       "explanation_en": "A characteristic quantity of an atomic nucleus (symbol $Z$) equal to the number of protons in the nucleus and equal to the number of electrons in the shell of an electrically neutral atom.",
@@ -22163,6 +24416,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 1"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 2 (Mục III.1) và Bài 4 (Mục II.1): Liên hệ trực tiếp với số hiệu nguyên tử và chiều sắp xếp các nguyên tố trong bảng tuần hoàn.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 2"
         }
       ],
       "disambiguation_notes": [],
@@ -22198,6 +24459,28 @@
           "section": "I",
           "printed_pages": [
             17
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 179",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            179
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục III.1), tr. 16",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "III.1",
+          "printed_pages": [
+            16
           ]
         }
       ],
@@ -23131,7 +25414,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A chemical compound of the element carbon, excluding certain inorganic carbon compounds such as carbon monoxide, carbon dioxide, carbonate salts, cyanides, and carbides.",
       "explanation_vi": "Hợp chất hoá học của nguyên tố carbon, ngoại trừ một số hợp chất vô cơ như carbon monoxide, carbon dioxide, muối carbonate, hợp chất cyanide và carbide.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A chemical compound of carbon, excluding certain carbon-containing inorganic compounds such as carbon dioxide and carbonates (for example, hydrocarbons, glucose, sucrose, and proteins).",
+          "explanation_vi": "Hợp chất hoá học của nguyên tố carbon, ngoại trừ một số hợp chất vô cơ chứa carbon như carbon dioxide và các muối carbonate (ví dụ: hydrocarbon, glucose, saccharose, protein)."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 11, Bài 10 (Mục I.1): Khái niệm mở đầu phần hoá học hữu cơ, phân biệt chất hữu cơ với các hợp chất vô cơ chứa carbon.",
@@ -23140,6 +25429,14 @@
           ],
           "grade": 11,
           "lesson_ref": "Bài 10"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 5 (Mục I.2): Nhận biết nhóm hợp chất cấu tạo nên cơ thể sống và nhiên liệu, phân biệt với hợp chất vô cơ.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 5"
         }
       ],
       "disambiguation_notes": [],
@@ -23165,6 +25462,40 @@
           "printed_pages": [
             57,
             58
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177,
+            178
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục I.2), tr. 34",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B5",
+          "section": "I.2",
+          "printed_pages": [
+            34
           ]
         }
       ],
@@ -24358,10 +26689,19 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 5"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 4 (Mục II.2): Xác định hàng ngang của nguyên tố trong bảng tuần hoàn dựa trên số lớp electron ở vỏ nguyên tử.",
+          "disciplines": [
+            "Vật lí"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 4"
         }
       ],
       "disambiguation_notes": [
-        "Thuật ngữ trong hoá học chỉ hàng ngang của bảng tuần hoàn; phân biệt với 'chu kì' (period) của hàm tuần hoàn trong toán học hoặc dao động trong vật lí."
+        "Thuật ngữ trong hoá học chỉ hàng ngang của bảng tuần hoàn; phân biệt với 'chu kì' (period) của hàm tuần hoàn trong toán học hoặc dao động trong vật lí.",
+        "Chỉ chu kì trong bảng tuần hoàn các nguyên tố hoá học, phân biệt với chu kì dao động hay chu kì tuần hoàn trong Vật lí và Toán học."
       ],
       "sources": [
         {
@@ -24496,6 +26836,40 @@
           "printed_pages": [
             32
           ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            175
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            175,
+            176
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục I), tr. 25",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "I",
+          "printed_pages": [
+            25
+          ]
         }
       ],
       "markdown_file": "Tu-dien-Vat-li.md"
@@ -24625,7 +26999,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "An individual cell dedicated to a single chemical element in the periodic table, whose ordinal number equals the element's atomic number ($Z$) and which displays essential data such as the atomic number, element symbol, element name, and average atomic mass.",
       "explanation_vi": "Đơn vị ô cơ bản dành riêng cho mỗi nguyên tố hoá học trong bảng tuần hoàn, có số thứ tự đúng bằng số hiệu nguyên tử ($Z$) của nguyên tố đó và ghi các thông tin quan trọng như số hiệu nguyên tử, kí hiệu nguyên tố, tên nguyên tố, nguyên tử khối trung bình.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "An individual box corresponding to a single chemical element in the periodic table, displaying four essential pieces of information: chemical symbol, element name, atomic number, and atomic mass.",
+          "explanation_vi": "Đơn vị ô cơ bản ứng với mỗi nguyên tố hoá học trong bảng tuần hoàn, cung cấp bốn thông tin cơ bản gồm kí hiệu hoá học, tên nguyên tố, số hiệu nguyên tử và khối lượng nguyên tử."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 5 (Mục III.1): Tra cứu thông tin cơ bản của nguyên tố và suy ra số hiệu nguyên tử từ số thứ tự ô.",
@@ -24634,6 +27014,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 5"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 4 (Mục II.1): Đọc thông tin từ ô nguyên tố để suy ra số thứ tự, số proton, số electron và khối lượng nguyên tử.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 4"
         }
       ],
       "disambiguation_notes": [],
@@ -24669,6 +27057,101 @@
           "section": "III.1",
           "printed_pages": [
             31
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            178
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178, 179",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            178,
+            179
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục I), tr. 25",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "I",
+          "printed_pages": [
+            25
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-periodic-table-of-elements",
+      "term_en": "periodic table of elements",
+      "term_vi": "Bảng tuần hoàn các nguyên tố hoá học",
+      "term_vi_display": "Bảng tuần hoàn các nguyên tố hoá học (bảng tuần hoàn)",
+      "aliases_vi": [
+        "bảng tuần hoàn"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A tabular classification arranging the 118 known chemical elements into element cells in order of increasing nuclear charge. Elements in the same horizontal row (period) have the same number of electron shells, while elements in the same vertical column (group) exhibit similar chemical properties.",
+      "explanation_vi": "Bảng phân loại sắp xếp 118 nguyên tố hoá học đã biết vào các ô nguyên tố theo chiều tăng dần của điện tích hạt nhân nguyên tử. Trong bảng, các nguyên tố cùng hàng ngang (chu kì) có cùng số lớp electron và các nguyên tố cùng cột dọc (nhóm) có tính chất hoá học gần giống nhau.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 4 (Mục I, II): Công cụ tra cứu vị trí, cấu tạo nguyên tử và phân loại kim loại, phi kim, khí hiếm.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            175
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            175,
+            176
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            178
           ]
         }
       ],
@@ -25862,9 +28345,10 @@
       "id": "vat-li-planetary-model-of-the-atom",
       "term_en": "planetary model of the atom",
       "term_vi": "Mô hình hành tinh nguyên tử",
-      "term_vi_display": "Mô hình hành tinh nguyên tử (mẫu hành tinh nguyên tử)",
+      "term_vi_display": "Mô hình hành tinh nguyên tử (mẫu hành tinh nguyên tử; mô hình nguyên tử của Rơ-dơ-pho)",
       "aliases_vi": [
-        "mẫu hành tinh nguyên tử"
+        "mẫu hành tinh nguyên tử",
+        "mô hình nguyên tử của Rơ-dơ-pho"
       ],
       "origin_discipline": "Vật lí",
       "explanation_en": "An atomic structural model proposed by E. Rutherford (and further developed by N. Bohr and A. Sommerfeld), viewing the atom as mostly empty space with a central nucleus concentrating nearly all the mass and electrons revolving around it in circular or elliptical orbits like planets around the Sun.",
@@ -25874,6 +28358,11 @@
           "source_label": "SGK Vật lí 12",
           "explanation_en": "An atomic structure model proposed by Ernest Rutherford in 1911 from the $\\alpha$ particle scattering experiment, in which an atom consists of a tiny positively charged nucleus ($+Ze$) concentrating nearly all the mass at the center with negatively charged electrons orbiting around it like planets around the Sun.",
           "explanation_vi": "Mô hình cấu tạo nguyên tử do Ernest Rutherford đề xuất năm 1911 từ thí nghiệm tán xạ hạt $\\alpha$, theo đó nguyên tử có một hạt nhân kích thước rất nhỏ tích điện dương $+Ze$ tập trung gần như toàn bộ khối lượng ở tâm và các electron mang điện âm chuyển động xung quanh như các hành tinh quay quanh Mặt Trời."
+        },
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "An atomic structural model proposed by E. Rutherford in which the atom consists mostly of empty space with a positively charged central nucleus and negatively charged electrons orbiting around it like planets revolving around the Sun.",
+          "explanation_vi": "Mô hình cấu tạo nguyên tử do E. Rơ-dơ-pho đề xuất, theo đó nguyên tử có cấu tạo rỗng với hạt nhân mang điện tích dương ở tâm và các electron mang điện tích âm chuyển động xung quanh hạt nhân tương tự các hành tinh quay quanh Mặt Trời."
         }
       ],
       "contexts": [
@@ -25892,6 +28381,15 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 21"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 2 (Mục II): Cơ sở lịch sử để N. Bo hoàn thiện thành mô hình các lớp electron chuyển động quanh hạt nhân.",
+          "disciplines": [
+            "Vật lí",
+            "Lịch sử"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 2"
         }
       ],
       "disambiguation_notes": [],
@@ -25950,6 +28448,29 @@
           "printed_pages": [
             91,
             92
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục II), tr. 15",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II",
+          "printed_pages": [
+            15
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục II), tr. 15, 16",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II",
+          "printed_pages": [
+            15,
+            16
           ]
         }
       ],
@@ -26193,6 +28714,53 @@
           "section": "III.2",
           "printed_pages": [
             27
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-polarity-of-water-molecule",
+      "term_en": "polarity of water molecule",
+      "term_vi": "Tính phân cực của phân tử nước",
+      "term_vi_display": "Tính phân cực của phân tử nước",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "The property of a water molecule arising because the shared electron pairs in its covalent bonds are shifted toward the oxygen atom, giving the oxygen end a negative charge and the hydrogen end a positive charge. This characteristic causes water molecules to attract one another and other polar molecules, making water an effective solvent for many substances in living organisms.",
+      "explanation_vi": "Tính chất của phân tử nước hình thành khi các cặp electron trong liên kết cộng hoá trị bị lệch về phía nguyên tử oxygen, làm đầu mang nguyên tử oxygen tích điện âm còn đầu mang các nguyên tử hydrogen tích điện dương. Đặc điểm này khiến các phân tử nước hút lẫn nhau và hút các phân tử phân cực khác, giúp nước trở thành dung môi hoà tan nhiều chất trong cơ thể.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 29 (Mục I): giải thích cấu tạo phân tử nước và cơ sở giúp nước đóng vai trò dung môi hoà tan, vận chuyển các chất trong cơ thể sinh vật.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 29"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29, tr. 122",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B29",
+          "section": null,
+          "printed_pages": [
+            122
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục I), tr. 122",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B29",
+          "section": "I",
+          "printed_pages": [
+            122
           ]
         }
       ],
@@ -27104,6 +29672,11 @@
           "source_label": "SGK Sinh học 10",
           "explanation_en": "A biological macromolecule built as a polymer from 20 types of amino acid monomers, whose diversity and specificity are determined by the number, composition, sequence of amino acids, and three-dimensional conformation. It participates in nearly all cellular activities, performing structural, catalytic, defensive, contractile, transport, receptor, and regulatory functions.",
           "explanation_vi": "Đại phân tử sinh học được cấu tạo theo nguyên tắc đa phân từ 20 loại đơn phân amino acid, có tính đa dạng và đặc thù do số lượng, thành phần, trình tự sắp xếp các amino acid và cấu hình không gian ba chiều quy định. Phân tử này tham gia hầu hết các hoạt động sống của tế bào với các chức năng cấu trúc, xúc tác, bảo vệ, vận động, vận chuyển, tiếp nhận thông tin và điều hoà."
+        },
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A major class of organic nutrients required in large amounts by animals, serving as structural components of cells and tissues while facilitating metabolism and energy transformation.",
+          "explanation_vi": "Nhóm chất dinh dưỡng hữu cơ mà cơ thể động vật cần với lượng lớn, giữ vai trò cấu tạo nên tế bào và cơ thể, đồng thời giúp các quá trình trao đổi chất và chuyển hoá năng lượng diễn ra thuận lợi."
         }
       ],
       "contexts": [
@@ -27132,6 +29705,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 5"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 29 (Mục III.2) và Bài 31 (Mục IV.1): vai trò của chất đạm trong khẩu phần dinh dưỡng của động vật và con người.",
+          "disciplines": [
+            "Sinh học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 29"
         }
       ],
       "disambiguation_notes": [],
@@ -27224,6 +29805,40 @@
           "printed_pages": [
             39,
             40
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.1), tr. 124",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B29",
+          "section": "III.1",
+          "printed_pages": [
+            124
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B29",
+          "section": "III.2",
+          "printed_pages": [
+            125
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125, 126",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B29",
+          "section": "III.2",
+          "printed_pages": [
+            125,
+            126
           ]
         }
       ],
@@ -27320,6 +29935,11 @@
           "source_label": "SGK Vật lí 12",
           "explanation_en": "A positively charged nucleon within the atomic nucleus, denoted by $\\text{p}$, having an electric charge of $q = +e \\approx 1.6 \\cdot 10^{-19}\\text{ C}$ and a mass of $m_{\\text{p}} \\approx 1.67262 \\cdot 10^{-27}\\text{ kg}$ (approximately $1.00728\\text{ amu}$). The number of these particles in a nucleus equals the atomic number $Z$.",
           "explanation_vi": "Hạt nucleon mang điện tích dương trong hạt nhân nguyên tử, kí hiệu là $\\text{p}$, có điện tích $q = +e \\approx 1,6 \\cdot 10^{-19}\\text{ C}$ và khối lượng $m_{\\text{p}} \\approx 1,67262 \\cdot 10^{-27}\\text{ kg}$ (xấp xỉ $1,00728\\text{ amu}$). Số lượng hạt này trong hạt nhân bằng số hiệu nguyên tử $Z$."
+        },
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A subatomic particle constituting the atomic nucleus, denoted by $\\text{p}$, carrying a unit positive charge conventionally assigned as $+1$ and having a mass of approximately $1\\text{ amu}$.",
+          "explanation_vi": "Hạt cấu tạo nên hạt nhân nguyên tử, kí hiệu là $\\text{p}$, mang một đơn vị điện tích dương quy ước là $+1$ và có khối lượng xấp xỉ $1\\text{ amu}$."
         }
       ],
       "contexts": [
@@ -27339,6 +29959,15 @@
           ],
           "grade": 12,
           "lesson_ref": "Bài 21"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 2 (Mục III.1, IV): Dùng số hạt proton để xác định số đơn vị điện tích hạt nhân, số electron và nhận diện nguyên tố hoá học.",
+          "disciplines": [
+            "Vật lí",
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 2"
         }
       ],
       "disambiguation_notes": [],
@@ -27409,6 +30038,40 @@
           "printed_pages": [
             93,
             94
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            177
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            178
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178, 179",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            178,
+            179
           ]
         }
       ],
@@ -29697,6 +32360,123 @@
       "markdown_file": "Tu-dien-Sinh-hoc.md"
     },
     {
+      "id": "hoa-hoc-shared-electron-pair",
+      "term_en": "shared electron pair",
+      "term_vi": "Cặp electron dùng chung",
+      "term_vi_display": "Cặp electron dùng chung",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A pair of electrons contributed and shared jointly by two atoms when forming a covalent bond. In covalent substances, the number of shared electron pairs formed by an atom with other atoms determines the valence of that element.",
+      "explanation_vi": "Cặp electron do hai nguyên tử cùng đóng góp và sở hữu chung khi tạo lập liên kết cộng hoá trị. Trong chất cộng hoá trị, số cặp electron dùng chung của một nguyên tử với các nguyên tử khác biểu thị hoá trị của nguyên tố đó.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 6 (Mục III) và Bài 7 (Mục II.1): Mô tả cơ chế liên kết cộng hoá trị và xác định hoá trị của nguyên tố trong hợp chất cộng hoá trị.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 6"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục III), tr. 38",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B6",
+          "section": "III",
+          "printed_pages": [
+            38
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục III.1), tr. 38",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B6",
+          "section": "III.1",
+          "printed_pages": [
+            38
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục III.2), tr. 39",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B6",
+          "section": "III.2",
+          "printed_pages": [
+            39
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-short-period",
+      "term_en": "short period",
+      "term_vi": "Chu kì nhỏ",
+      "term_vi_display": "Chu kì nhỏ",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "Any of the first three periods (periods 1, 2, and 3) in the periodic table of elements, comprising period 1 with 2 elements and periods 2 and 3 with 8 elements each.",
+      "explanation_vi": "Nhóm ba chu kì đầu tiên (chu kì 1, chu kì 2 và chu kì 3) trong bảng tuần hoàn các nguyên tố hoá học, gồm chu kì 1 có 2 nguyên tố và các chu kì 2, 3 mỗi chu kì có 8 nguyên tố.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 4 (Mục II.2): Phân biệt với các chu kì lớn (chu kì 4, 5, 6, 7) khi khảo sát cấu trúc bảng tuần hoàn.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.1), tr. 26",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "II.1",
+          "printed_pages": [
+            26
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.2), tr. 26",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "II.2",
+          "printed_pages": [
+            26
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.2), tr. 26, 27",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "II.2",
+          "printed_pages": [
+            26,
+            27
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "dia-li-sial",
       "term_en": "sial",
       "term_vi": "Quyển sial",
@@ -31335,6 +34115,11 @@
           "source_label": "SGK Sinh học 10",
           "explanation_en": "A polysaccharide composed of hundreds to thousands of glucose monomers with a generally sparsely branched structure, serving as the primary energy storage carbohydrate in plants.",
           "explanation_vi": "Loại đường đa được cấu tạo từ hàng trăm đến hàng nghìn đơn phân glucose với cấu trúc mạch nhìn chung ít phân nhánh, đóng vai trò là nguồn dự trữ năng lượng ở thực vật."
+        },
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "A characteristic storage organic compound in plants, formed by the linkage of glucose molecules produced during photosynthesis. The presence of starch in leaves can be detected using iodine solution, which turns it bluish-purple.",
+          "explanation_vi": "Chất hữu cơ dự trữ đặc trưng ở thực vật, hình thành từ sự liên kết giữa các phân tử glucose tạo ra trong quá trình quang hợp. Sự có mặt của tinh bột trong lá cây có thể nhận biết bằng thuốc thử dung dịch iodine nhờ hiện tượng chuyển màu xanh tím."
         }
       ],
       "contexts": [
@@ -31362,6 +34147,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 5"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 22 (Mục I.2, I.3): sản phẩm hữu cơ dự trữ của quá trình quang hợp và đối tượng nhận biết trong thí nghiệm thực hành ở Bài 24.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 22"
         }
       ],
       "disambiguation_notes": [],
@@ -31452,6 +34245,39 @@
           "section": "I",
           "printed_pages": [
             41
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B22, tr. 101",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B22",
+          "section": null,
+          "printed_pages": [
+            101
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B22 (Mục I), tr. 101",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B22",
+          "section": "I",
+          "printed_pages": [
+            101
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B22 (Mục I.1), tr. 101",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B22",
+          "section": "I.1",
+          "printed_pages": [
+            101
           ]
         }
       ],
@@ -34514,6 +37340,64 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-valence",
+      "term_en": "valence",
+      "term_vi": "Hoá trị",
+      "term_vi_display": "Hoá trị",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A number expressing the combining capacity of an atom of one element with atoms of other elements, denoted by Roman numerals with hydrogen assigned valence I and oxygen assigned valence II by convention. In covalent substances, the valence of an element equals the number of electron pairs its atom shares with other atoms.",
+      "explanation_vi": "Con số biểu thị khả năng liên kết của nguyên tử nguyên tố này với nguyên tử nguyên tố khác, kí hiệu bằng chữ số La Mã và xác định theo quy ước hydrogen có hoá trị I, oxygen có hoá trị II. Trong chất cộng hoá trị, hoá trị của một nguyên tố bằng số cặp electron dùng chung của nguyên tử nguyên tố đó với các nguyên tử khác.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 7 (Mục II.1): Xác định khả năng liên kết của nguyên tố và lập công thức hoá học của hợp chất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 7"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7, tr. 40",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B7",
+          "section": null,
+          "printed_pages": [
+            40
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục I), tr. 40",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B7",
+          "section": "I",
+          "printed_pages": [
+            40
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục I), tr. 41",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B7",
+          "section": "I",
+          "printed_pages": [
+            41
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-valence-electron",
       "term_en": "valence electron",
       "term_vi": "Electron hoá trị",
@@ -34613,6 +37497,124 @@
           "section": "II",
           "printed_pages": [
             50
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-valence-of-a-polyatomic-group",
+      "term_en": "valence of a polyatomic group",
+      "term_vi": "Hoá trị của nhóm nguyên tử",
+      "term_vi_display": "Hoá trị của nhóm nguyên tử",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A number expressing the combining capacity of an entire group of bonded atoms (such as OH, NO₃, SO₄, CO₃, or PO₄) with other atoms or groups, determined in the same manner as the valence of a single element.",
+      "explanation_vi": "Con số biểu thị khả năng liên kết của cả một nhóm nguyên tử (như OH, NO₃, SO₄, CO₃, PO₄) với nguyên tử hay nhóm nguyên tử khác, xác định tương tự như hoá trị của một nguyên tố độc lập.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 7 (Mục II.2, III.1): Tra cứu Bảng 7.3 và vận dụng quy tắc hoá trị để lập công thức hoá học của acid, base và muối.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 7"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục II.2), tr. 43",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B7",
+          "section": "II.2",
+          "printed_pages": [
+            43
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục III.1), tr. 43",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B7",
+          "section": "III.1",
+          "printed_pages": [
+            43
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục III.1), tr. 43, 44",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B7",
+          "section": "III.1",
+          "printed_pages": [
+            43,
+            44
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-valence-rule",
+      "term_en": "valence rule",
+      "term_vi": "Quy tắc hoá trị",
+      "term_vi_display": "Quy tắc hoá trị",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "The rule relating subscripts and valences in a chemical formula: the product of the subscript and valence of one element (or polyatomic group) equals the product of the subscript and valence of the other element (or polyatomic group). This rule is primarily applied to inorganic compounds to determine valences or derive chemical formulas.",
+      "explanation_vi": "Quy tắc xác định mối quan hệ giữa chỉ số và hoá trị trong công thức hoá học: tích của chỉ số và hoá trị của nguyên tố (hoặc nhóm nguyên tử) này bằng tích của chỉ số và hoá trị của nguyên tố (hoặc nhóm nguyên tử) kia. Quy tắc này chủ yếu áp dụng cho các hợp chất vô cơ để tính hoá trị hoặc lập công thức hoá học.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 7 (Mục II.2, III.1): Vận dụng tính hoá trị chưa biết của nguyên tố và lập công thức hoá học của hợp chất vô cơ.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 7"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            178
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178, 179",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            178,
+            179
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục II.2), tr. 42",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 02",
+          "lesson": "B7",
+          "section": "II.2",
+          "printed_pages": [
+            42
           ]
         }
       ],

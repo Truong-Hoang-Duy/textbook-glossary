@@ -1,0 +1,16 @@
+{
+  "H7-tieng_anh-u05-01": {
+    "pdf_page": 53,
+    "bbox": [38, 193, 301, 515],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đầu cán muỗng hình 5 vươn tới x=304 (y=342) trong khi ô số 4 xanh của mục Pronunciation bắt đầu tại x=301 (y=378..399) chồng lấn toạ độ ngang; đặt x1=301 (biên cắt x=305) để giữ trọn 100% đầu muỗng hình 5 mà không lẹm vào chữ số 4"
+  },
+  "H7-tieng_anh-u05-02": {
+    "pdf_page": 54,
+    "bbox": [308, 132, 549, 764]
+  },
+  "H7-tieng_anh-u05-03": {
+    "pdf_page": 55,
+    "bbox": [60, 123, 296, 617]
+  }
+}

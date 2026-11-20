@@ -1,0 +1,3036 @@
+{
+  "meta": {
+    "schema_version": "2.3",
+    "unit": "ngu_van_7",
+    "subject": "ngu_van",
+    "profile": "ngu_van",
+    "subject_name": "Ngữ văn",
+    "grade": 7,
+    "generated_at": "2026-11-20",
+    "counts": {
+      "lessons": 12,
+      "terms": 122,
+      "terms_described": 6,
+      "terms_out_of_source": 53,
+      "open_notes": 0
+    }
+  },
+  "source": {
+    "book_type": "sgk",
+    "series": "Kết nối tri thức với cuộc sống",
+    "publisher": "NXB Giáo dục Việt Nam",
+    "files": [
+      {
+        "file": "SGK Ngu van 7 Tap 1.pdf",
+        "volume": 1,
+        "page_count": 141,
+        "printed_offset": 1
+      },
+      {
+        "file": "SGK Ngu van 7 Tap 2.pdf",
+        "volume": 2,
+        "page_count": 137,
+        "printed_offset": 1
+      }
+    ]
+  },
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Ngu van 7 Tap 1.pdf",
+      "pdf_pages": [
+        3,
+        6
+      ],
+      "printed_pages": [
+        2,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-1",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục (Tập một)",
+      "file": null,
+      "source_file": "SGK Ngu van 7 Tap 1.pdf",
+      "pdf_pages": [
+        7,
+        8
+      ],
+      "printed_pages": [
+        6,
+        7
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Ngu van 7 Tap 1.pdf",
+      "pdf_pages": [
+        9,
+        9
+      ],
+      "printed_pages": [
+        8,
+        8
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "t01",
+      "role": "group",
+      "kind": "tap",
+      "label": null,
+      "number": 1,
+      "title": "Tập một",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Bầu trời tuổi thơ",
+          "lesson_type": "ly_thuyet",
+          "file": "Tap-1/B01-Bau-troi-tuoi-tho.md",
+          "source_file": "SGK Ngu van 7 Tap 1.pdf",
+          "pdf_pages": [
+            10,
+            38
+          ],
+          "printed_pages": [
+            9,
+            37
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Yêu cầu cần đạt",
+            "items": [
+              "Nêu được ấn tượng chung về văn bản và những trải nghiệm giúp bản thân hiểu thêm văn bản.",
+              "Nhận biết được các chi tiết tiêu biểu, đề tài, câu chuyện, nhân vật và tính cách nhân vật trong truyện.",
+              "Hiểu được tác dụng của việc dùng cụm từ để mở rộng thành phần chính và mở rộng trạng ngữ trong câu.",
+              "Biết tóm tắt một văn bản theo những yêu cầu khác nhau về độ dài.",
+              "Trình bày được ý kiến về một vấn đề đời sống, tóm tắt được các ý chính do người khác trình bày.",
+              "Biết yêu quý tuổi thơ và trân trọng giá trị của cuộc sống."
+            ],
+            "pdf_page": 10
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-ngu_van-b01-01",
+              "file": "Tap-1/img/H7-ngu_van-b01-01.png",
+              "caption": "Rừng tràm, Đồng Tháp",
+              "pdf_page": 22
+            },
+            {
+              "id": "H7-ngu_van-b01-02",
+              "file": "Tap-1/img/H7-ngu_van-b01-02.png",
+              "caption": "Sơ đồ tóm tắt văn bản tự sự",
+              "pdf_page": 30
+            }
+          ]
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Khúc nhạc tâm hồn",
+          "lesson_type": "ly_thuyet",
+          "file": "Tap-1/B02-Khuc-nhac-tam-hon.md",
+          "source_file": "SGK Ngu van 7 Tap 1.pdf",
+          "pdf_pages": [
+            39,
+            57
+          ],
+          "printed_pages": [
+            38,
+            56
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Yêu cầu cần đạt",
+            "items": [
+              "Nhận biết và nhận xét được nét độc đáo của bài thơ bốn chữ và năm chữ thể hiện qua từ ngữ, hình ảnh, vần, nhịp, biện pháp tu từ.",
+              "Nhận biết được biện pháp tu từ nói giảm nói tránh và hiểu được tác dụng của việc sử dụng biện pháp tu từ này.",
+              "Bước đầu biết làm một bài thơ bốn chữ hoặc năm chữ; viết được đoạn văn ghi lại cảm xúc sau khi đọc một bài thơ bốn chữ, năm chữ.",
+              "Trình bày được ý kiến về một vấn đề đời sống; biết trao đổi một cách xây dựng, tôn trọng các ý kiến khác biệt.",
+              "Biết trân trọng, vun đắp tình yêu con người, thiên nhiên, quê hương, đất nước."
+            ],
+            "pdf_page": 39
+          },
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Cội nguồn yêu thương",
+          "lesson_type": "ly_thuyet",
+          "file": "Tap-1/B03-Coi-nguon-yeu-thuong.md",
+          "source_file": "SGK Ngu van 7 Tap 1.pdf",
+          "pdf_pages": [
+            58,
+            88
+          ],
+          "printed_pages": [
+            57,
+            87
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Yêu cầu cần đạt",
+            "items": [
+              "Nhận biết được tính cách nhân vật; nhận biết và nêu được tác dụng của việc thay đổi kiểu người kể chuyện trong một truyện kể.",
+              "Thể hiện được thái độ đối với cách giải quyết vấn đề của tác giả trong truyện.",
+              "Nhận biết được đặc điểm của số từ, phó từ và hiểu được chức năng của các từ loại này để sử dụng đúng và hiệu quả.",
+              "Bước đầu biết viết bài văn phân tích đặc điểm nhân vật trong một tác phẩm văn học.",
+              "Trình bày được ý kiến về một vấn đề đời sống; biết trao đổi một cách xây dựng, tôn trọng các ý kiến khác biệt.",
+              "Biết bồi đắp, trân trọng tình yêu thương."
+            ],
+            "pdf_page": 58
+          },
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Giai điệu đất nước",
+          "lesson_type": "ly_thuyet",
+          "file": "Tap-1/B04-Giai-dieu-dat-nuoc.md",
+          "source_file": "SGK Ngu van 7 Tap 1.pdf",
+          "pdf_pages": [
+            89,
+            105
+          ],
+          "printed_pages": [
+            88,
+            104
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Yêu cầu cần đạt",
+            "items": [
+              "Nhận biết và nhận xét được nét độc đáo của bài thơ thể hiện qua từ ngữ, hình ảnh, vần, nhịp, biện pháp tu từ.",
+              "Nhận biết được tình cảm, cảm xúc của người viết thể hiện qua ngôn ngữ văn bản.",
+              "Hiểu được khái niệm ngữ cảnh, nghĩa của từ ngữ trong ngữ cảnh và biết vận dụng để dùng từ ngữ đúng với ngữ cảnh.",
+              "Viết được bài văn biểu cảm về con người hoặc sự việc.",
+              "Trình bày được ý kiến về một vấn đề đời sống; biết trao đổi một cách xây dựng, tôn trọng các ý kiến khác biệt.",
+              "Yêu mến, tự hào về vẻ đẹp của quê hương, đất nước."
+            ],
+            "pdf_page": 89
+          },
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Màu sắc trăm miền",
+          "lesson_type": "ly_thuyet",
+          "file": "Tap-1/B05-Mau-sac-tram-mien.md",
+          "source_file": "SGK Ngu van 7 Tap 1.pdf",
+          "pdf_pages": [
+            106,
+            130
+          ],
+          "printed_pages": [
+            105,
+            129
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Yêu cầu cần đạt",
+            "items": [
+              "Nhận biết được chất trữ tình, cái tôi tác giả, ngôn ngữ của tuỳ bút, tản văn và hiểu được chủ đề, thông điệp của văn bản.",
+              "Nhận biết được sự phong phú, đa dạng của ngôn ngữ các vùng miền.",
+              "Viết được văn bản tường trình rõ ràng, đầy đủ, đúng quy cách.",
+              "Trình bày được ý kiến về một vấn đề đời sống; biết trao đổi một cách xây dựng, tôn trọng các ý kiến khác biệt.",
+              "Biết yêu mến, trân trọng vẻ đẹp phong phú, đa dạng của các vùng miền."
+            ],
+            "pdf_page": 106
+          },
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "on-tap-hk1",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Ôn tập học kì I",
+          "lesson_type": "on_tap",
+          "file": "Tap-1/On-tap-hoc-ki-I.md",
+          "source_file": "SGK Ngu van 7 Tap 1.pdf",
+          "pdf_pages": [
+            131,
+            135
+          ],
+          "printed_pages": [
+            130,
+            134
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Yêu cầu cần đạt",
+            "items": [
+              "Củng cố kiến thức về các thể loại văn bản đọc, kiểu bài viết, kiểu bài nói và hoạt động nghe tương ứng; kiến thức về tiếng Việt đã học trong học kì I.",
+              "Vận dụng tổng hợp các kiến thức đã học để luyện tập, củng cố kĩ năng đọc, viết, nói và nghe."
+            ],
+            "pdf_page": 131
+          },
+          "key_terms": [],
+          "figures": []
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 1: Bảng tra cứu thuật ngữ (Tập một)",
+      "file": "Bang-tra-cuu-thuat-ngu-Tap-1.md",
+      "source_file": "SGK Ngu van 7 Tap 1.pdf",
+      "pdf_pages": [
+        136,
+        137
+      ],
+      "printed_pages": [
+        135,
+        136
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 2: Bảng giải thích thuật ngữ (Tập một)",
+      "file": "Bang-giai-thich-thuat-ngu-Tap-1.md",
+      "source_file": "SGK Ngu van 7 Tap 1.pdf",
+      "pdf_pages": [
+        137,
+        139
+      ],
+      "printed_pages": [
+        136,
+        138
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-tra-cuu-ten-rieng-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 3: Bảng tra cứu tên riêng nước ngoài (Tập một)",
+      "file": null,
+      "source_file": "SGK Ngu van 7 Tap 1.pdf",
+      "pdf_pages": [
+        140,
+        140
+      ],
+      "printed_pages": [
+        139,
+        139
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-2",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục (Tập hai)",
+      "file": null,
+      "source_file": "SGK Ngu van 7 Tap 2.pdf",
+      "pdf_pages": [
+        3,
+        4
+      ],
+      "printed_pages": [
+        2,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "t02",
+      "role": "group",
+      "kind": "tap",
+      "label": null,
+      "number": 2,
+      "title": "Tập hai",
+      "children": [
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Bài học cuộc sống",
+          "lesson_type": "ly_thuyet",
+          "file": "Tap-2/B06-Bai-hoc-cuoc-song.md",
+          "source_file": "SGK Ngu van 7 Tap 2.pdf",
+          "pdf_pages": [
+            5,
+            25
+          ],
+          "printed_pages": [
+            4,
+            24
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Yêu cầu cần đạt",
+            "items": [
+              "Nhận biết được một số yếu tố của **truyện ngụ ngôn**: đề tài, tình huống, cốt truyện, nhân vật, chủ đề.",
+              "Nhận biết được một số yếu tố của **tục ngữ**: số lượng câu, chữ; vần.",
+              "Hiểu được đặc điểm và chức năng của **thành ngữ**, đặc điểm và tác dụng của biện pháp tu từ **nói quá**.",
+              "Bước đầu biết viết bài văn nghị luận về một vấn đề trong đời sống, trình bày rõ vấn đề và ý kiến của người viết; đưa ra **lí lẽ** rõ ràng và **bằng chứng** đa dạng.",
+              "Biết kể lại một truyện ngụ ngôn: kể đúng cốt truyện gốc, có cách kể chuyện linh hoạt, hấp dẫn.",
+              "Có ý thức học hỏi kinh nghiệm, trí tuệ của dân gian hay của người xưa để rèn các đức tính: khiêm tốn, cẩn trọng, kiên trì, nhân nghĩa, có trách nhiệm."
+            ],
+            "pdf_page": 5
+          },
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Thế giới viễn tưởng",
+          "lesson_type": "ly_thuyet",
+          "file": "Tap-2/B07-The-gioi-vien-tuong.md",
+          "source_file": "SGK Ngu van 7 Tap 2.pdf",
+          "pdf_pages": [
+            26,
+            54
+          ],
+          "printed_pages": [
+            25,
+            53
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Yêu cầu cần đạt",
+            "items": [
+              "Nhận biết được một số yếu tố của **truyện khoa học viễn tưởng**: **đề tài**, **sự kiện**, **tình huống**, **cốt truyện**, **nhân vật**, **không gian**, **thời gian**; tóm tắt được văn bản một cách ngắn gọn.",
+              "Hiểu được đặc điểm và chức năng của **liên kết** và **mạch lạc**, công dụng của **dấu chấm lửng** trong văn bản.",
+              "Viết được bài văn kể lại sự việc có thật liên quan đến nhân vật hoặc sự kiện lịch sử, bài viết có sử dụng các yếu tố miêu tả.",
+              "Biết thảo luận về một vấn đề gây tranh cãi, xác định được những điểm thống nhất và khác biệt giữa các ý kiến khi thảo luận.",
+              "Biết khát vọng và ước mơ; có ý chí biến khát vọng, ước mơ tốt đẹp thành hiện thực."
+            ],
+            "pdf_page": 26
+          },
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Trải nghiệm để trưởng thành",
+          "lesson_type": "ly_thuyet",
+          "file": "Tap-2/B08-Trai-nghiem-de-truong-thanh.md",
+          "source_file": "SGK Ngu van 7 Tap 2.pdf",
+          "pdf_pages": [
+            55,
+            76
+          ],
+          "printed_pages": [
+            54,
+            75
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Yêu cầu cần đạt",
+            "items": [
+              "Nhận biết được đặc điểm của văn bản nghị luận về một vấn đề đời sống thể hiện qua ý kiến, **lí lẽ**, **bằng chứng** và mối liên hệ giữa các ý kiến, lí lẽ, bằng chứng trong văn bản.",
+              "Nêu được những trải nghiệm trong cuộc sống giúp bản thân hiểu hơn văn bản.",
+              "Hiểu được các biện pháp và từ ngữ **liên kết** thường dùng trong văn bản; nhận biết và hiểu được đặc điểm, chức năng của **thuật ngữ**.",
+              "Bước đầu biết viết bài văn nghị luận về một vấn đề trong đời sống.",
+              "Trình bày được ý kiến về một vấn đề đời sống; biết bảo vệ ý kiến của mình trước sự phản bác của người nghe.",
+              "Có trách nhiệm với bản thân và với cộng đồng."
+            ],
+            "pdf_page": 55
+          },
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Hoà điệu với tự nhiên",
+          "lesson_type": "ly_thuyet",
+          "file": "Tap-2/B09-Hoa-dieu-voi-tu-nhien.md",
+          "source_file": "SGK Ngu van 7 Tap 2.pdf",
+          "pdf_pages": [
+            77,
+            101
+          ],
+          "printed_pages": [
+            76,
+            100
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Yêu cầu cần đạt",
+            "items": [
+              "Nhận biết được thông tin cơ bản của văn bản thông tin, cách triển khai, vai trò của các chi tiết, tác dụng của phương tiện phi ngôn ngữ; nêu được trải nghiệm giúp bản thân hiểu hơn văn bản.",
+              "Nhận biết được đặc điểm văn bản giới thiệu một quy tắc hoặc luật lệ trong trò chơi hay hoạt động, chỉ ra được mối quan hệ giữa đặc điểm văn bản với mục đích của nó.",
+              "Nhận biết và hiểu được đặc điểm, chức năng của cước chú và tài liệu tham khảo trong văn bản thông tin; hiểu được nghĩa của một số yếu tố Hán Việt thông dụng và nghĩa của những từ có yếu tố Hán Việt đó.",
+              "Bước đầu biết viết bài văn thuyết minh về một quy tắc hoặc luật lệ trong trò chơi hay hoạt động.",
+              "Giải thích được (dưới hình thức nói) quy tắc hoặc luật lệ trong một trò chơi hay hoạt động.",
+              "Biết lựa chọn và trân trọng cách sống hài hoà với tự nhiên."
+            ],
+            "pdf_page": 77
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-ngu_van-b09-01",
+              "file": "Tap-2/img/H7-ngu_van-b09-01.png",
+              "caption": "*Lũ lớn (tháng 8/2020) ở thượng nguồn sông Trường Giang (Trung Quốc) dâng nước đến chân tượng Phật khổng lồ 1 200 tuổi*. Nguồn: *Chai-nơ Niu (China News)* (báo điện tử *Thế giới và Việt Nam* đăng lại ngày 21/8/2020)",
+              "pdf_page": 80
+            },
+            {
+              "id": "H7-ngu_van-b09-02",
+              "file": "Tap-2/img/H7-ngu_van-b09-02.png",
+              "caption": "*Hạn mặn khốc liệt ở Đồng bằng sông Cửu Long đầu năm 2020*, ảnh của Quốc Trung, báo điện tử *Đại đoàn kết*, ngày 24/02/2020",
+              "pdf_page": 81
+            },
+            {
+              "id": "H7-ngu_van-b09-03",
+              "file": "Tap-2/img/H7-ngu_van-b09-03.png",
+              "caption": "Ảnh của Kim Dung (đăng kèm bài viết trong tạp chí *Di sản (Heritage)*, tháng 12/2019)",
+              "pdf_page": 86
+            },
+            {
+              "id": "H7-ngu_van-b09-04",
+              "file": "Tap-2/img/H7-ngu_van-b09-04.png",
+              "caption": "Sơ đồ gợi ý đặc điểm văn bản thông tin",
+              "pdf_page": 98
+            }
+          ]
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Trang sách và cuộc sống",
+          "lesson_type": "du_an",
+          "file": "Tap-2/B10-Trang-sach-va-cuoc-song.md",
+          "source_file": "SGK Ngu van 7 Tap 2.pdf",
+          "pdf_pages": [
+            102,
+            117
+          ],
+          "printed_pages": [
+            101,
+            116
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Yêu cầu cần đạt",
+            "items": [
+              "Phát triển kĩ năng tự đọc sách: đọc mở rộng văn bản văn học, văn bản nghị luận, văn bản thông tin theo các chủ đề đã học.",
+              "Nhận biết được đặc điểm của văn bản nghị luận phân tích một tác phẩm văn học, chỉ ra được mối quan hệ giữa đặc điểm và nội dung chính của văn bản với mục đích của nó.",
+              "Phát triển kĩ năng viết: viết về một nhân vật yêu thích.",
+              "Phát triển kĩ năng nói và nghe: trình bày, trao đổi về sách, nhân vật yêu thích và các đề tài có liên quan.",
+              "Yêu thích đọc sách và biết vận dụng những điều đã đọc vào thực tế."
+            ],
+            "pdf_page": 102
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-ngu_van-b10-01",
+              "file": "Tap-2/img/H7-ngu_van-b10-01.png",
+              "caption": "*Một số cuốn sách phù hợp với các thể loại và chủ đề em đã học ở lớp 7*",
+              "pdf_page": 104
+            },
+            {
+              "id": "H7-ngu_van-b10-02",
+              "file": "Tap-2/img/H7-ngu_van-b10-02.png",
+              "caption": "Sản phẩm sáng tạo truyện tranh *Bầy chim chìa vôi* (Nguyễn Quang Thiều) – bìa và trang 1, 2, 3",
+              "pdf_page": 111
+            },
+            {
+              "id": "H7-ngu_van-b10-03",
+              "file": "Tap-2/img/H7-ngu_van-b10-03.png",
+              "caption": "Sản phẩm sáng tạo truyện tranh *Bầy chim chìa vôi* (tiếp theo) – trang 4, 5, 6",
+              "pdf_page": 112
+            },
+            {
+              "id": "H7-ngu_van-b10-04",
+              "file": "Tap-2/img/H7-ngu_van-b10-04.png",
+              "caption": "Sản phẩm kể lại câu chuyện theo hình thức thơ năm chữ *Gió lạnh đầu mùa* (Nga Mi – Thu Quyên – Anh Thư)",
+              "pdf_page": 113
+            }
+          ]
+        },
+        {
+          "id": "on-tap-hk2",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Ôn tập học kì II",
+          "lesson_type": "on_tap",
+          "file": "Tap-2/On-tap-hoc-ki-II.md",
+          "source_file": "SGK Ngu van 7 Tap 2.pdf",
+          "pdf_pages": [
+            118,
+            123
+          ],
+          "printed_pages": [
+            117,
+            122
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Yêu cầu cần đạt",
+            "items": [
+              "Nêu được kiến thức về các loại, thể loại văn bản đọc, kiến thức tiếng Việt và kiến thức về các kiểu bài viết, bài nói đã được học, thực hành theo *Ngữ văn 7*, tập hai.",
+              "Vận dụng được kiến thức và kĩ năng đã được học, rèn luyện trong cả năm học vào giải quyết những bài tập tổng hợp."
+            ],
+            "pdf_page": 118
+          },
+          "key_terms": [],
+          "figures": []
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 1: Bảng tra cứu thuật ngữ (Tập hai)",
+      "file": "Bang-tra-cuu-thuat-ngu-Tap-2.md",
+      "source_file": "SGK Ngu van 7 Tap 2.pdf",
+      "pdf_pages": [
+        124,
+        125
+      ],
+      "printed_pages": [
+        123,
+        124
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 2: Bảng giải thích thuật ngữ (Tập hai)",
+      "file": "Bang-giai-thich-thuat-ngu-Tap-2.md",
+      "source_file": "SGK Ngu van 7 Tap 2.pdf",
+      "pdf_pages": [
+        125,
+        126
+      ],
+      "printed_pages": [
+        124,
+        125
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-tra-cuu-han-viet-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 3: Bảng tra cứu yếu tố Hán Việt (Tập hai)",
+      "file": null,
+      "source_file": "SGK Ngu van 7 Tap 2.pdf",
+      "pdf_pages": [
+        127,
+        133
+      ],
+      "printed_pages": [
+        126,
+        132
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "bang-tra-cuu-ten-rieng-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 4: Bảng tra cứu tên riêng nước ngoài (Tập hai)",
+      "file": null,
+      "source_file": "SGK Ngu van 7 Tap 2.pdf",
+      "pdf_pages": [
+        134,
+        135
+      ],
+      "printed_pages": [
+        133,
+        134
+      ],
+      "status": "skip"
+    }
+  ],
+  "dictionaries": [
+    {
+      "file": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "name": "tu-dien-ngu-van-7-tap-1",
+      "title": "TỪ ĐIỂN THUẬT NGỮ NGỮ VĂN 7 — TẬP MỘT (BÀI 1–5)",
+      "group_id": "t01",
+      "lesson_ids": [
+        "b01",
+        "b02",
+        "b03",
+        "b04",
+        "b05",
+        "on-tap-hk1"
+      ],
+      "conventions": [
+        "Tên riêng người và địa danh nước ngoài giữ nguyên cách phiên âm có gạch nối kèm nguyên ngữ trong ngoặc như sách in ở Tầng 1 (ví dụ: Gia-cô-mô Lê-ô-pác-đi (Giacomo Leopardi), Cư-rô-ya-na-gi Tê-sư-cô (Kuroyanagi Tetsuko), Ray Brát-bơ-ry (Ray Bradbury), Trin-ghi-dơ Ai-tơ-ma-tốp (Chingiz Aitmatov), Ra-xun Gam-da-tốp,...).",
+        "Thuật ngữ lí luận văn học, thể loại văn học, tiếng Việt, kiểu bài viết và hoạt động nói – nghe chuẩn hoá theo phần *Tri thức ngữ văn* đầu mỗi bài, các hộp kiến thức *Thực hành tiếng Việt*, phần *Viết* và *Phụ lục 2: Bảng giải thích thuật ngữ* cuối tập một (trang in 136–138, PDF 137–139).",
+        "Các cước chú giải thích từ ngữ, điển cố, địa danh, xuất xứ ở chân trang văn bản đọc được giữ nguyên theo đúng số thứ tự cước chú của trang sách."
+      ],
+      "status": "verified",
+      "created": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "file": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "name": "tu-dien-ngu-van-7-tap-2",
+      "title": "TỪ ĐIỂN THUẬT NGỮ NGỮ VĂN 7 — TẬP HAI (BÀI 6–10)",
+      "group_id": "t02",
+      "lesson_ids": [
+        "b06",
+        "b07",
+        "b08",
+        "b09",
+        "b10",
+        "on-tap-hk2"
+      ],
+      "conventions": [
+        "Tên riêng người và địa danh nước ngoài giữ nguyên cách phiên âm có gạch nối kèm nguyên ngữ trong ngoặc như sách in ở Tầng 1 (ví dụ: I-van Crư-lốp (Ivan Krylov), An-be Anh-xtanh (Albert Einstein), Giuyn Véc-nơ (Jules Verne), I-van An-tô-nô-vích E-phơ-rê-mốp (Ivan Antonovich Efremov), Đa-ni-en Gốt-li-ép (Daniel Gottlieb), Thô-mát L. Phrít-man (Thomas L. Friedman), Giôn Mi-ơ (John Muir),...).",
+        "Thuật ngữ lí luận văn học, thể loại văn học, tiếng Việt, kiểu bài viết và hoạt động nói – nghe chuẩn hoá theo phần *Tri thức ngữ văn* đầu mỗi bài, các hộp kiến thức *Thực hành tiếng Việt*, phần *Viết* và *Phụ lục 2: Bảng giải thích thuật ngữ* cuối tập hai (trang in 124–125, PDF 125–126).",
+        "Các cước chú giải thích từ ngữ, điển cố, nhân vật, xuất xứ ở chân trang văn bản đọc được giữ nguyên theo đúng số thứ tự cước chú của trang sách."
+      ],
+      "status": "verified",
+      "created": "2026-11-20",
+      "updated": "2026-11-20"
+    }
+  ],
+  "terms": [
+    {
+      "id": "ngu-van-7-de-tai",
+      "term": "Đề tài",
+      "aliases": [],
+      "english": "Topic",
+      "notation": null,
+      "meaning": "Phạm vi đời sống được thể hiện trong tác phẩm văn học. Để xác định đề tài, có thể dựa vào loại sự kiện được miêu tả, không gian được tái hiện, loại nhân vật được đặt ở vị trí trung tâm của tác phẩm,... Một tác phẩm có thể gồm nhiều đề tài, trong đó có một đề tài chính.",
+      "usage_context": "Bài 1, phần Tri thức ngữ văn (trang 10), Bài 4 và Phụ lục 1 (trang 135) — xác định đề tài chính của các văn bản truyện, thơ và lựa chọn đề tài khi viết, nói.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": null,
+        "pdf_page": 11,
+        "printed_page": 10
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-chi-tiet",
+      "term": "Chi tiết",
+      "aliases": [],
+      "english": "Literary detail",
+      "notation": null,
+      "meaning": "Yếu tố nhỏ nhất tạo nên thế giới hình tượng (thiên nhiên, con người, sự kiện,...) nhưng có tầm quan trọng đặc biệt trong việc đem lại sự sinh động, lôi cuốn cho tác phẩm văn học.",
+      "usage_context": "Bài 1, phần Tri thức ngữ văn (trang 10) — nhận biết và phân tích các chi tiết tiêu biểu trong *Bầy chim chìa vôi*, *Đi lấy mật*.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": null,
+        "pdf_page": 11,
+        "printed_page": 10
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-tinh-cach-nhan-vat",
+      "term": "Tính cách nhân vật",
+      "aliases": [],
+      "english": "Character's personality",
+      "notation": null,
+      "meaning": "Những đặc điểm riêng tương đối ổn định của nhân vật, được bộc lộ qua mọi hành động, cách ứng xử, cảm xúc, suy nghĩ,... Tính cách nhân vật còn được thể hiện qua các mối quan hệ, qua lời kể và suy nghĩ của nhân vật khác.",
+      "usage_context": "Bài 1, phần Tri thức ngữ văn (trang 10), Bài 3 và Phụ lục 2 (trang 138) — khái quát đặc điểm tính cách nhân vật trong truyện kể.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": null,
+        "pdf_page": 11,
+        "printed_page": 10
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-van-ban-tom-tat",
+      "term": "Văn bản tóm tắt",
+      "aliases": [],
+      "english": "Summary text",
+      "notation": null,
+      "meaning": "Một dạng rút gọn của văn bản gốc (có thể do tác giả của văn bản gốc hay người đọc thực hiện), tuy có dung lượng nhỏ nhưng vẫn phản ánh trung thành nội dung cơ bản của văn bản gốc.",
+      "usage_context": "Bài 1, phần Tri thức ngữ văn (trang 10) và phần Viết (trang 27–30) — nhận diện và tạo lập văn bản tóm tắt theo yêu cầu về độ dài.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": null,
+        "pdf_page": 11,
+        "printed_page": 10
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-tom-tat",
+      "term": "Tóm tắt",
+      "aliases": [
+        "tóm tắt một văn bản"
+      ],
+      "english": "Summarizing (a text)",
+      "notation": null,
+      "meaning": "Tạo một văn bản mới tương đồng với văn bản gốc về nội dung nhưng có dung lượng nhỏ hơn nhiều và mang hình thức diễn đạt khác, dựa trên hai thao tác chính: giữ lại những yếu tố cốt lõi của sự việc, luận điểm, thông tin và lược bỏ những yếu tố được xem là phụ.",
+      "usage_context": "Bài 1, phần Viết (trang 27–30), Ôn tập học kì I và Phụ lục 2 (trang 138) — tóm tắt văn bản theo những yêu cầu khác nhau về độ dài và tóm tắt ý chính khi nghe.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": null,
+        "pdf_page": 23,
+        "printed_page": 22
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-mo-rong-thanh-phan-chinh-va-trang-ngu-cua-cau-bang-cum-tu",
+      "term": "Mở rộng thành phần chính và trạng ngữ của câu bằng cụm từ",
+      "aliases": [],
+      "english": "Expanding main constituents and adverbials with phrases",
+      "notation": null,
+      "meaning": "Dùng cụm từ chính phụ như cụm danh từ, cụm động từ, cụm tính từ để mở rộng các thành phần chính và trạng ngữ của câu, giúp câu cung cấp được nhiều thông tin hơn cho người đọc, người nghe.",
+      "usage_context": "Bài 1, phần Tri thức ngữ văn (trang 10) và Thực hành tiếng Việt (trang 17, 24–25) — mở rộng chủ ngữ, vị ngữ và trạng ngữ bằng cụm từ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": null,
+        "pdf_page": 11,
+        "printed_page": 10
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-thanh-phan-chinh-cua-cau",
+      "term": "Thành phần chính của câu",
+      "aliases": [],
+      "english": "Main sentence constituents",
+      "notation": null,
+      "meaning": "Các thành phần chính của câu thường được mở rộng bằng cụm từ chính phụ như cụm danh từ, cụm động từ, cụm tính từ, có thể giúp câu cung cấp được nhiều thông tin hơn cho người đọc, người nghe.",
+      "usage_context": "Bài 1, phần Tri thức ngữ văn (trang 10), Thực hành tiếng Việt (trang 24–25) và Phụ lục 1 (trang 136) — phân tích tác dụng của việc mở rộng chủ ngữ, vị ngữ bằng cụm từ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": null,
+        "pdf_page": 11,
+        "printed_page": 10
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-trang-ngu",
+      "term": "Trạng ngữ",
+      "aliases": [],
+      "english": "Adverbial modifier",
+      "notation": null,
+      "meaning": "Trạng ngữ của câu có thể là một từ hoặc cụm từ; nhờ được mở rộng, trạng ngữ trong câu cung cấp thông tin cụ thể hơn về thời gian, không gian,... của sự việc.",
+      "usage_context": "Bài 1, phần Tri thức ngữ văn (trang 10), Thực hành tiếng Việt (trang 17–18), Ôn tập học kì I (trang 130) và Phụ lục 1 (trang 136) — mở rộng trạng ngữ của câu bằng cụm từ (xem thêm định nghĩa tại *Ngữ văn 6*, tập hai, Bài 8).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": null,
+        "pdf_page": 18,
+        "printed_page": 17
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-hanh-dong",
+      "term": "Hành động",
+      "aliases": [
+        "hành động của nhân vật"
+      ],
+      "english": "Character's action",
+      "notation": null,
+      "meaning": "Những cử chỉ, việc làm thể hiện cách ứng xử của nhân vật với bản thân và thế giới xung quanh.",
+      "usage_context": "Bài 1 (trang 10, 24), Bài 2 (trang 54), Bài 3 (trang 78) và Phụ lục 1 (trang 135) — phân tích chi tiết miêu tả hành động của nhân vật trong truyện.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": null,
+        "pdf_page": 11,
+        "printed_page": 10
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-truyen",
+      "term": "Truyện",
+      "aliases": [],
+      "english": "Story / Fiction",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 1 (trang 9, 16, 17, 26,...) và Phụ lục 1 (trang 136) — đọc hiểu các văn bản truyện viết về tuổi thơ.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập một, Bài 1",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-cau-chuyen",
+      "term": "Câu chuyện",
+      "aliases": [],
+      "english": "Story / Narrative",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 1 (trang 9, 22, 30, 31,...) và Phụ lục 1 (trang 135) — nhận biết chuỗi sự việc được kể trong tác phẩm tự sự.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-cot-truyen",
+      "term": "Cốt truyện",
+      "aliases": [],
+      "english": "Plot",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 1 (trang 33), Bài 5 (trang 106) và Phụ lục 1 (trang 135) — liệt kê các sự việc tiêu biểu và tóm tắt cốt truyện.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập một, Bài 1",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-su-kien",
+      "term": "Sự kiện",
+      "aliases": [],
+      "english": "Event",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 1 (trang 10), Bài 5 (trang 106) và Phụ lục 1 (trang 136) — nhận diện các sự kiện được miêu tả hoặc ghi chép trong truyện và tuỳ bút.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-nhan-vat",
+      "term": "Nhân vật",
+      "aliases": [],
+      "english": "Character",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 1 (trang 9, 10, 11, 14,...), Bài 3 và Phụ lục 1 (trang 135) — nhận biết và phân tích nhân vật trong tác phẩm văn học.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập một, Bài 1",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-loi-nguoi-ke-chuyen",
+      "term": "Lời người kể chuyện",
+      "aliases": [],
+      "english": "Narrator's speech",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 1 (trang 16), Bài 3 (trang 77, 79) và Phụ lục 1 (trang 135) — phân biệt lời người kể chuyện với lời nhân vật và nhận xét trực tiếp của người kể chuyện về nhân vật.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập một, Bài 1",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-chu-de",
+      "term": "Chủ đề",
+      "aliases": [],
+      "english": "Theme",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 1 (trang 32), Bài 2 (trang 38, 54), Bài 5 (trang 105) và Phụ lục 1 (trang 135) — xác định vấn đề trung tâm của văn bản đọc.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-cam-xuc",
+      "term": "Cảm xúc",
+      "aliases": [],
+      "english": "Emotion / Feeling",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 1 (trang 10, 11, 16, 24,...), Bài 2, Bài 4 và Phụ lục 1 (trang 135) — cảm nhận đời sống tình cảm của nhân vật và người viết.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-mieu-ta",
+      "term": "Miêu tả",
+      "aliases": [],
+      "english": "Description",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 1 (trang 10, 17, 19, 24,...) và Phụ lục 1 (trang 135) — phân tích chi tiết miêu tả thiên nhiên và nhân vật trong văn bản.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-tru-tinh",
+      "term": "Trữ tình",
+      "aliases": [],
+      "english": "Lyric",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 1 (trang 24), Bài 4 (trang 88, 89), Bài 5 (trang 105, 106) và Phụ lục 1 (trang 136) — nhận diện sắc thái biểu cảm trữ tình trong văn xuôi và thơ.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-so-sanh",
+      "term": "So sánh",
+      "aliases": [
+        "biện pháp tu từ so sánh"
+      ],
+      "english": "Simile / Comparison",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 1 (trang 27), Bài 2 (trang 50, 51), Bài 4 (trang 101), Bài 5 (trang 110, 111) và Phụ lục 1 (trang 136) — chỉ ra và phân tích tác dụng của hình ảnh so sánh.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-van-ban",
+      "term": "Văn bản",
+      "aliases": [],
+      "english": "Text",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 1 (trang 9, 10, 22, 27,...) và Phụ lục 1 (trang 136) — đọc hiểu, tóm tắt và tạo lập văn bản theo yêu cầu.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập hai, Bài 9",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-li-le",
+      "term": "Lí lẽ",
+      "aliases": [],
+      "english": "Reasoning / Argument",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 1 (trang 31, 32), Bài 3 (trang 82, 83) và Phụ lục 1 (trang 135) — đưa ra lí lẽ thuyết phục khi trình bày và trao đổi ý kiến.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập hai, Bài 8",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-bang-chung",
+      "term": "Bằng chứng",
+      "aliases": [],
+      "english": "Evidence",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 1 (trang 31, 32), Bài 3 (trang 75, 78, 82) và Phụ lục 1 (trang 135) — dẫn chứng từ tác phẩm hoặc trải nghiệm thực tế để làm sáng tỏ ý kiến.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập hai, Bài 8",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-muc-dich-viet",
+      "term": "Mục đích viết",
+      "aliases": [
+        "mục đích"
+      ],
+      "english": "Writing purpose",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 1, 2, 3, 4, 5 và Phụ lục 1 (trang 135) — xác định mục đích trước khi thực hành viết văn bản.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-muc-dich-noi",
+      "term": "Mục đích nói",
+      "aliases": [],
+      "english": "Speaking purpose",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 1, 2, 3, 4, 5 và Phụ lục 1 (trang 135) — xác định mục đích trước khi trình bày và trao đổi bài nói.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-tho-bon-chu",
+      "term": "Thơ bốn chữ",
+      "aliases": [],
+      "english": "Four-syllable verse",
+      "notation": null,
+      "meaning": "Một thể thơ không quy định độ dài của bài, mỗi dòng bốn chữ (tiếng), thường sử dụng vần chân và vần được gieo liên tiếp hoặc gián cách, thỉnh thoảng lại đổi vần; gần với đồng dao, thích hợp với việc dùng để kể chuyện.",
+      "usage_context": "Bài 2, phần Tri thức ngữ văn (trang 39), phần Viết (trang 48–52) và Phụ lục 2 (trang 138) — đọc hiểu *Đồng dao mùa xuân* và tập làm thơ bốn chữ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": null,
+        "pdf_page": 40,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-tho-nam-chu",
+      "term": "Thơ năm chữ",
+      "aliases": [],
+      "english": "Five-syllable verse",
+      "notation": null,
+      "meaning": "Một thể thơ truyền thống, mỗi dòng có năm chữ (tiếng), không hạn định số dòng trong bài, thường sử dụng vần chân gieo liên tiếp hoặc cách quãng, có thể đổi vần một cách linh hoạt; thích hợp cho việc thể hiện nội dung hoài niệm.",
+      "usage_context": "Bài 2, phần Tri thức ngữ văn (trang 39), Bài 4 và Phụ lục 2 (trang 138) — đọc hiểu *Gặp lá cơm nếp*, *Mùa xuân nho nhỏ* và tập làm thơ năm chữ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": null,
+        "pdf_page": 40,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-van",
+      "term": "Vần",
+      "aliases": [
+        "vần thơ"
+      ],
+      "english": "Poetic rhyme",
+      "notation": null,
+      "meaning": "Một yếu tố cấu tạo quan trọng của bài thơ, đảm bảo chức năng hoà thanh và liên kết, được nhận biết nhờ sự lặp lại của bộ phận vần trong những âm tiết khác nhau nằm ở một số vị trí nhất định trong chuỗi dòng thơ.",
+      "usage_context": "Bài 2, phần Tri thức ngữ văn (trang 39), Bài 4 và Phụ lục 2 (trang 138) — nhận xét cách gieo vần trong bài thơ bốn chữ, năm chữ và thơ trữ tình.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": null,
+        "pdf_page": 93,
+        "printed_page": 92
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-van-chan",
+      "term": "Vần chân",
+      "aliases": [],
+      "english": "End rhyme",
+      "notation": null,
+      "meaning": "Trong thơ bốn chữ và thơ năm chữ, vần thường được đặt ở cuối dòng, gọi là vần chân.",
+      "usage_context": "Bài 2, phần Tri thức ngữ văn (trang 39) và phần Viết (trang 50) — nhận diện vị trí gieo vần cuối dòng thơ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": null,
+        "pdf_page": 40,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-van-lien",
+      "term": "Vần liền",
+      "aliases": [],
+      "english": "Consecutive rhyme (couplet rhyme)",
+      "notation": null,
+      "meaning": "Cách gieo vần trong thơ bốn chữ và thơ năm chữ: vần có thể gieo liên tiếp giữa các dòng thơ.",
+      "usage_context": "Bài 2, phần Tri thức ngữ văn (trang 39) và phần Viết (trang 49) — nhận biết và thực hành tập gieo vần liền.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": null,
+        "pdf_page": 40,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-van-cach",
+      "term": "Vần cách",
+      "aliases": [],
+      "english": "Alternating rhyme",
+      "notation": null,
+      "meaning": "Cách gieo vần trong thơ bốn chữ và thơ năm chữ: vần có thể gieo cách quãng giữa các dòng thơ.",
+      "usage_context": "Bài 2, phần Tri thức ngữ văn (trang 39) và phần Viết (trang 49) — nhận biết và thực hành tập gieo vần cách.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": null,
+        "pdf_page": 40,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-van-hon-hop",
+      "term": "Vần hỗn hợp",
+      "aliases": [],
+      "english": "Mixed rhyme",
+      "notation": null,
+      "meaning": "Cách gieo vần phối hợp nhiều kiểu gieo vần trong một bài thơ.",
+      "usage_context": "Bài 2, phần Tri thức ngữ văn (trang 39) và phần Viết (trang 49) — nhận biết sự phối hợp linh hoạt các kiểu vần trong bài thơ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": null,
+        "pdf_page": 40,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-ngat-nhip",
+      "term": "Ngắt nhịp",
+      "aliases": [],
+      "english": "Rhythm pausing / Caesura",
+      "notation": null,
+      "meaning": "Thơ bốn chữ thường ngắt nhịp 2/2; thơ năm chữ thường ngắt nhịp 2/3 hoặc 3/2. Tuy nhiên, nhịp thơ cũng có thể được ngắt linh hoạt, phù hợp với tình cảm, cảm xúc được thể hiện trong bài thơ.",
+      "usage_context": "Bài 2, phần Tri thức ngữ văn (trang 39) và phần Viết (trang 50) — nhận xét cách ngắt nhịp trong thơ bốn chữ và năm chữ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": null,
+        "pdf_page": 40,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-noi-giam-noi-tranh",
+      "term": "Nói giảm nói tránh",
+      "aliases": [
+        "biện pháp tu từ nói giảm nói tránh"
+      ],
+      "english": "Euphemism",
+      "notation": null,
+      "meaning": "Biện pháp tu từ dùng cách nói làm giảm nhẹ quy mô, tính chất,... của đối tượng, hoặc tránh trình bày trực tiếp điều muốn nói để khỏi gây cảm giác đau buồn, ghê sợ hay để giữ phép lịch sự.",
+      "usage_context": "Bài 2, phần Tri thức ngữ văn (trang 39), Thực hành tiếng Việt (trang 42) và Phụ lục 2 (trang 137) — nhận biết và phân tích tác dụng của biện pháp tu từ nói giảm nói tránh.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": null,
+        "pdf_page": 40,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-the-tho",
+      "term": "Thể thơ",
+      "aliases": [],
+      "english": "Poetic form",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 2 (trang 39, 44, 48, 50, 51,...), Bài 4 và Phụ lục 1 (trang 136) — nhận biết đặc điểm hình thức của thể thơ bốn chữ, năm chữ và các thể thơ khác.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập một, Bài 2",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-the-loai",
+      "term": "Thể loại",
+      "aliases": [],
+      "english": "Literary genre",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 2 (trang 39, 44), Bài 4 (trang 88, 97), Ôn tập học kì I và Phụ lục 1 (trang 136) — phân loại đặc trưng của truyện, thơ, tuỳ bút, tản văn, văn bản thông tin.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-bien-phap-tu-tu",
+      "term": "Biện pháp tu từ",
+      "aliases": [],
+      "english": "Rhetorical device",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 2 (trang 38, 39, 42, 47,...), Bài 4, Bài 5 và Phụ lục 1 (trang 135) — nhận diện và nêu tác dụng của các biện pháp tu từ trong thơ và văn xuôi.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-an-du",
+      "term": "Ẩn dụ",
+      "aliases": [
+        "biện pháp tu từ ẩn dụ"
+      ],
+      "english": "Metaphor",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 2 (trang 50, 51), Ôn tập học kì I (trang 134) và Phụ lục 1 (trang 135) — vận dụng và phân tích tác dụng của phép ẩn dụ trong thơ.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập một, Bài 2",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-diep-ngu",
+      "term": "Điệp ngữ",
+      "aliases": [
+        "biện pháp tu từ điệp ngữ"
+      ],
+      "english": "Repetition / Anaphora",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 2 (trang 42, 50), Bài 4 (trang 101), Bài 5 (trang 111) và Phụ lục 1 (trang 135) — nhận diện phép lặp từ ngữ tạo nhịp điệu và nhấn mạnh cảm xúc.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-thong-diep",
+      "term": "Thông điệp",
+      "aliases": [],
+      "english": "Message",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 2 (trang 50), Bài 5 (trang 105) và Phụ lục 1 (trang 136) — hiểu ý nghĩa, điều tác giả gửi gắm qua bài thơ và văn bản.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-kieu-nguoi-ke-chuyen",
+      "term": "Kiểu người kể chuyện",
+      "aliases": [],
+      "english": "Narrator type",
+      "notation": null,
+      "meaning": "Mô hình chung về một loại nhân vật đặc thù trong tác phẩm tự sự, đảm nhiệm chức năng kể lại toàn bộ câu chuyện làm nên nội dung chính của tác phẩm, hoặc từ góc nhìn của người tham dự, chứng kiến, trải nghiệm và chỉ bao quát được sự việc, con người ở mức độ hạn chế, hoặc từ góc nhìn của người vô hình nhưng nhìn thấy và biết tất cả mọi điều.",
+      "usage_context": "Bài 3, phần Tri thức ngữ văn (trang 58), Văn bản *Người thầy đầu tiên* (trang 71) và Phụ lục 2 (trang 137) — nhận biết và nêu tác dụng của việc thay đổi kiểu người kể chuyện trong truyện kể.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": null,
+        "pdf_page": 59,
+        "printed_page": 58
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-nguoi-ke-chuyen-ngoi-thu-nhat",
+      "term": "Người kể chuyện ngôi thứ nhất",
+      "aliases": [],
+      "english": "First-person narrator",
+      "notation": null,
+      "meaning": "Một kiểu người kể chuyện, xưng “tôi” hoặc dùng một đại từ khác có ý nghĩa tương đương để kể về câu chuyện với tư cách là người tham dự, chứng kiến hoặc được nghe thuật lại; có tầm bao quát hạn chế hơn so với người kể chuyện ngôi thứ ba.",
+      "usage_context": "Bài 3, phần Tri thức ngữ văn (trang 58) và Phụ lục 2 (trang 137) — xác định ngôi kể trong *Vừa nhắm mắt vừa mở cửa sổ*, *Người thầy đầu tiên* và *Trong lòng mẹ*.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": null,
+        "pdf_page": 59,
+        "printed_page": 58
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-nguoi-ke-chuyen-ngoi-thu-ba",
+      "term": "Người kể chuyện ngôi thứ ba",
+      "aliases": [],
+      "english": "Third-person narrator",
+      "notation": null,
+      "meaning": "Một kiểu người kể chuyện, tuy ẩn danh, náu mình và không tham dự vào câu chuyện được kể nhưng gần như biết hết mọi điều xảy ra.",
+      "usage_context": "Bài 3, phần Tri thức ngữ văn (trang 58), Viết kết nối với đọc (trang 71) và Phụ lục 2 (trang 137) — phân biệt và chuyển đổi lời kể sang ngôi thứ ba.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": null,
+        "pdf_page": 59,
+        "printed_page": 58
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-so-tu",
+      "term": "Số từ",
+      "aliases": [],
+      "english": "Numeral",
+      "notation": null,
+      "meaning": "Một từ loại gồm các từ chỉ số lượng hoặc thứ tự của sự vật.",
+      "usage_context": "Bài 3, phần Tri thức ngữ văn (trang 58), Thực hành tiếng Việt (trang 64–65) và Phụ lục 2 (trang 137) — nhận biết đặc điểm, chức năng của số từ và phân biệt với danh từ chỉ đơn vị.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": null,
+        "pdf_page": 59,
+        "printed_page": 58
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-so-tu-chi-so-luong",
+      "term": "Số từ chỉ số lượng",
+      "aliases": [
+        "số từ chỉ số lượng xác định",
+        "số từ chỉ số lượng ước chừng"
+      ],
+      "english": "Cardinal numeral (definite and approximate numerals)",
+      "notation": null,
+      "meaning": "Nhóm số từ gồm các số từ chỉ số lượng xác định (*một, hai, ba*,...) và số từ chỉ số lượng ước chừng (*vài, dăm, mươi, dăm bảy, ba bốn*,...); khi biểu thị số lượng sự vật, số từ thường đứng trước danh từ.",
+      "usage_context": "Bài 3, Thực hành tiếng Việt (trang 64–65) — phân biệt số từ chỉ số lượng xác định và số từ chỉ số lượng ước chừng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": null,
+        "pdf_page": 65,
+        "printed_page": 64
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-so-tu-chi-thu-tu",
+      "term": "Số từ chỉ thứ tự",
+      "aliases": [],
+      "english": "Ordinal numeral",
+      "notation": null,
+      "meaning": "Nhóm số từ thường kết hợp với các từ *thứ, hạng, loại, số*, đứng sau danh từ trung tâm, thể hiện thứ tự của sự vật được nêu ở danh từ trung tâm.",
+      "usage_context": "Bài 3, Thực hành tiếng Việt (trang 65) — nhận biết vị trí và ý nghĩa của số từ chỉ thứ tự trong cụm danh từ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": null,
+        "pdf_page": 66,
+        "printed_page": 65
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-pho-tu",
+      "term": "Phó từ",
+      "aliases": [],
+      "english": "Adverbial particle / Modifier",
+      "notation": null,
+      "meaning": "Một từ loại phải luôn đi kèm danh từ, động từ, tính từ để bổ sung ý nghĩa cho danh từ, động từ, tính từ.",
+      "usage_context": "Bài 3, phần Tri thức ngữ văn (trang 58), Thực hành tiếng Việt (trang 72) và Phụ lục 2 (trang 137) — nhận biết chức năng bổ sung ý nghĩa của phó từ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": null,
+        "pdf_page": 59,
+        "printed_page": 58
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-pho-tu-di-kem-danh-tu",
+      "term": "Phó từ đi kèm danh từ",
+      "aliases": [],
+      "english": "Noun-accompanying modifier",
+      "notation": null,
+      "meaning": "Phó từ làm thành tố phụ trước cho danh từ và bổ sung ý nghĩa về số lượng của sự vật (đó là các từ: *những, các, mọi, mỗi, từng*,...).",
+      "usage_context": "Bài 3, Thực hành tiếng Việt (trang 72) — tìm phó từ bổ sung ý nghĩa số lượng cho danh từ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": null,
+        "pdf_page": 73,
+        "printed_page": 72
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-pho-tu-di-kem-dong-tu-tinh-tu",
+      "term": "Phó từ đi kèm động từ, tính từ",
+      "aliases": [],
+      "english": "Verb/adjective-accompanying adverbial",
+      "notation": null,
+      "meaning": "Phó từ làm thành tố phụ trước hoặc sau cho động từ, tính từ, bổ sung ý nghĩa liên quan đến hoạt động, trạng thái, đặc điểm nêu ở động từ hoặc tính từ (quan hệ thời gian, sự tiếp diễn tương tự, sự phủ định, sự cầu khiến, mức độ, kết quả,...).",
+      "usage_context": "Bài 3, Thực hành tiếng Việt (trang 72) — xác định ý nghĩa bổ sung của phó từ đi kèm động từ, tính từ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": null,
+        "pdf_page": 73,
+        "printed_page": 72
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-dac-diem-nhan-vat",
+      "term": "Đặc điểm nhân vật",
+      "aliases": [],
+      "english": "Character traits",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 3, phần Viết (trang 74–80), Ôn tập học kì I (trang 133) và Phụ lục 1 (trang 135) — viết bài văn phân tích đặc điểm nhân vật trong một tác phẩm văn học.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập một, Bài 3",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-truyen-ke",
+      "term": "Truyện kể",
+      "aliases": [],
+      "english": "Narrative",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 3 (trang 57, 58, 87) và Phụ lục 1 (trang 136) — đọc hiểu các tác phẩm truyện kể có sự kết hợp, thay đổi ngôi kể.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-tho-tru-tinh",
+      "term": "Thơ trữ tình",
+      "aliases": [],
+      "english": "Lyric poetry",
+      "notation": null,
+      "meaning": "Một loại thơ có nội dung chính là cảm xúc, tâm trạng của nhân vật trữ tình; phân biệt với thơ tự sự.",
+      "usage_context": "Bài 4, phần Tri thức ngữ văn (trang 89) và Phụ lục 2 (trang 138) — đọc hiểu các bài thơ trữ tình hiện đại viết về quê hương, đất nước.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": null,
+        "pdf_page": 90,
+        "printed_page": 89
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-tinh-cam-cam-xuc",
+      "term": "Tình cảm, cảm xúc",
+      "aliases": [],
+      "english": "Emotion and feeling (in poetry)",
+      "notation": null,
+      "meaning": "Cội nguồn làm nên sức hấp dẫn đặc biệt của thơ trữ tình; gốc của thơ là tình cảm, cảm xúc; nội dung chủ yếu của thơ là tình cảm, cảm xúc của nhà thơ trước cuộc đời.",
+      "usage_context": "Bài 4, phần Tri thức ngữ văn (trang 89) — cảm nhận sự đồng điệu giữa tình cảm riêng của nhà thơ với tình cảm chung của người đọc.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": null,
+        "pdf_page": 90,
+        "printed_page": 89
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-hinh-anh",
+      "term": "Hình ảnh",
+      "aliases": [
+        "hình ảnh trong thơ",
+        "hình ảnh trong sáng tác văn học"
+      ],
+      "english": "Literary imagery (poetic imagery)",
+      "notation": null,
+      "meaning": "Một phương tiện thể hiện cảm nhận, đánh giá về đời sống của nhà văn, mang hình thức cụ thể, trực quan, làm hiện hình sống động đối tượng mà người viết muốn nói tới.",
+      "usage_context": "Bài 4, phần Tri thức ngữ văn (trang 89), Bài 1, Bài 2 và Phụ lục 2 (trang 137) — phân tích các hình ảnh giàu sức gợi trong thơ trữ tình và văn xuôi.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": null,
+        "pdf_page": 90,
+        "printed_page": 89
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-nhip",
+      "term": "Nhịp",
+      "aliases": [
+        "nhịp thơ",
+        "nhịp trong thơ"
+      ],
+      "english": "Poetic rhythm",
+      "notation": null,
+      "meaning": "Yếu tố cấu tạo cơ bản của thơ, có thể nhận biết qua hệ thống những điểm ngắt, điểm ngừng được phân bố trên dòng thơ hoặc giữa các dòng thơ, theo sự chi phối của nội dung cảm xúc và quy định riêng của từng thể thơ.",
+      "usage_context": "Bài 4, phần Tri thức ngữ văn (trang 89), Bài 2 (trang 39) và Phụ lục 2 (trang 137) — nhận biết nhịp thơ và mối liên hệ với mạch cảm xúc của bài thơ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": null,
+        "pdf_page": 93,
+        "printed_page": 92
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-ngu-canh",
+      "term": "Ngữ cảnh",
+      "aliases": [],
+      "english": "Context",
+      "notation": null,
+      "meaning": "Bối cảnh ngôn ngữ trong đó một đơn vị ngôn ngữ được sử dụng, gồm bối cảnh trong văn bản và bối cảnh ngoài văn bản (người nói, người nghe, địa điểm, thời gian,... mà một đơn vị ngôn ngữ được sử dụng).",
+      "usage_context": "Bài 4, phần Tri thức ngữ văn (trang 89), Thực hành tiếng Việt (trang 92–93) và Phụ lục 2 (trang 137) — vận dụng ngữ cảnh để xác định nghĩa và dùng từ ngữ phù hợp.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": null,
+        "pdf_page": 90,
+        "printed_page": 89
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-van-canh",
+      "term": "Văn cảnh",
+      "aliases": [],
+      "english": "Co-text (verbal context)",
+      "notation": null,
+      "meaning": "Bối cảnh trong văn bản, gồm những đơn vị ngôn ngữ (từ, cụm từ, câu) đứng trước và sau một đơn vị ngôn ngữ được sử dụng.",
+      "usage_context": "Bài 4, phần Tri thức ngữ văn (trang 89) — phân biệt bối cảnh trong văn bản (văn cảnh) với bối cảnh ngoài văn bản.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": null,
+        "pdf_page": 90,
+        "printed_page": 89
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-nghia-cua-tu-ngu-trong-ngu-canh",
+      "term": "Nghĩa của từ ngữ trong ngữ cảnh",
+      "aliases": [
+        "nghĩa của từ"
+      ],
+      "english": "Word meaning in context",
+      "notation": null,
+      "meaning": "Từng nghĩa một của từ sẽ được xác định nếu ta đặt nó trong ngữ cảnh, xem xét trong sự kết hợp với các từ bên cạnh.",
+      "usage_context": "Bài 4, Thực hành tiếng Việt (trang 92–93, 95) — giải thích nghĩa của từ ngữ dựa vào ngữ cảnh của câu thơ, câu văn.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": null,
+        "pdf_page": 93,
+        "printed_page": 92
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-van-bieu-cam",
+      "term": "Văn biểu cảm",
+      "aliases": [
+        "bài văn biểu cảm"
+      ],
+      "english": "Expressive text / essay",
+      "notation": null,
+      "meaning": "Loại văn bản ưu tiên việc thể hiện cảm xúc sâu đậm trước những sự vật, sự việc được miêu tả hay được kể tới.",
+      "usage_context": "Bài 4, phần Viết (trang 98–101), Ôn tập học kì I (trang 130) và Phụ lục 2 (trang 138) — thực hành viết bài văn biểu cảm về con người hoặc sự việc.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": null,
+        "pdf_page": 99,
+        "printed_page": 98
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-tu-tuong",
+      "term": "Tư tưởng",
+      "aliases": [],
+      "english": "Thought / Idea",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 4 (trang 89), Bài 5 (trang 106) và Phụ lục 1 (trang 136) — nhận biết tư tưởng, chủ đề được bộc lộ qua hình ảnh thơ và tuỳ bút.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-dau-ngoac-don",
+      "term": "Dấu ngoặc đơn",
+      "aliases": [],
+      "english": "Parentheses",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 4, Thực hành tiếng Việt (trang 95) và Phụ lục 1 (trang 135) — nêu công dụng của dấu ngoặc đơn trong bài thơ *Gò Me*.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-dau-ngoac-kep",
+      "term": "Dấu ngoặc kép",
+      "aliases": [],
+      "english": "Quotation marks",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 4, Thực hành tiếng Việt (trang 95) — xác định công dụng của dấu ngoặc kép trong bài thơ *Gò Me*.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập một, Bài 5",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-tuy-but",
+      "term": "Tuỳ bút",
+      "aliases": [],
+      "english": "Informal lyrical essay",
+      "notation": null,
+      "meaning": "Một thể văn xuôi thuộc loại hình kí, giàu tính trữ tình, triết lí, lấy cái tôi của tác giả làm điểm tựa khi trình bày những ghi chép, miêu tả về con người, sự việc có thực theo một bố cục tự do, đầy ngẫu hứng.",
+      "usage_context": "Bài 5, phần Tri thức ngữ văn (trang 106) và Phụ lục 2 (trang 138) — đọc hiểu tuỳ bút *Tháng Giêng, mơ về trăng non rét ngọt*.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": null,
+        "pdf_page": 107,
+        "printed_page": 106
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-tan-van",
+      "term": "Tản văn",
+      "aliases": [],
+      "english": "Short literary prose / Vignette",
+      "notation": null,
+      "meaning": "Một thể loại văn xuôi có dung lượng nhỏ, chấm phá một vài nét về đời sống bằng bút pháp linh động, giàu sức gợi, có sự kết hợp nhuần nhuyễn giữa các phương thức biểu hiện như tự sự, miêu tả, biểu cảm, nghị luận, khảo cứu.",
+      "usage_context": "Bài 5, phần Tri thức ngữ văn (trang 106), Bài 2 (trang 44) và Phụ lục 2 (trang 137) — đọc hiểu các bài tản văn *Trở gió*, *Chuyện cơm hến*.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": null,
+        "pdf_page": 107,
+        "printed_page": 106
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-cai-toi",
+      "term": "Cái tôi",
+      "aliases": [],
+      "english": "Authorial self / Persona",
+      "notation": null,
+      "meaning": "Cá tính, sở thích, đặc điểm tư duy và cảm xúc, cách xử lí chất liệu nghệ thuật riêng của tác giả được thể hiện qua trang viết.",
+      "usage_context": "Bài 5, phần Tri thức ngữ văn (trang 106), Văn bản *Chuyện cơm hến* (trang 115–116) và Phụ lục 2 (trang 136) — nhận biết cái tôi của tác giả trong tuỳ bút, tản văn.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": null,
+        "pdf_page": 107,
+        "printed_page": 106
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-chat-tru-tinh",
+      "term": "Chất trữ tình",
+      "aliases": [],
+      "english": "Lyricism / Lyrical quality",
+      "notation": null,
+      "meaning": "Một tính chất của sáng tác gắn liền với việc biểu lộ đậm nét cảm xúc, ấn tượng, suy nghĩ đầy màu sắc chủ quan của người viết trước các đối tượng khác nhau trong đời sống.",
+      "usage_context": "Bài 5, Yêu cầu cần đạt (trang 105), Sau khi đọc (trang 109) và Phụ lục 2 (trang 136) — cảm nhận chất trữ tình trong tuỳ bút và tản văn.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": null,
+        "pdf_page": 110,
+        "printed_page": 109
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-van-ban-tuong-trinh",
+      "term": "Văn bản tường trình",
+      "aliases": [],
+      "english": "Incident report",
+      "notation": null,
+      "meaning": "Loại văn bản thông tin được tổ chức theo thể thức riêng, trình bày cô đọng về một vụ việc cần được xem xét, làm rõ và giải quyết mà người viết có liên quan.",
+      "usage_context": "Bài 5, phần Tri thức ngữ văn (trang 106), phần Viết (trang 120–123), Ôn tập học kì I (trang 130) và Phụ lục 2 (trang 138) — viết văn bản tường trình đúng quy cách.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": null,
+        "pdf_page": 107,
+        "printed_page": 106
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-ngon-ngu-cac-vung-mien",
+      "term": "Ngôn ngữ các vùng miền",
+      "aliases": [
+        "ngôn ngữ vùng miền",
+        "phương ngữ"
+      ],
+      "english": "Regional varieties / Dialects",
+      "notation": null,
+      "meaning": "Biến thể theo mỗi địa phương của một ngôn ngữ, được thể hiện chủ yếu trên các phương diện ngữ âm và từ vựng.",
+      "usage_context": "Bài 5, phần Tri thức ngữ văn (trang 106) và Phụ lục 2 (trang 137) — nhận biết sự phong phú, đa dạng của ngôn ngữ các vùng miền.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": null,
+        "pdf_page": 107,
+        "printed_page": 106
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-tu-ngu-dia-phuong",
+      "term": "Từ ngữ địa phương",
+      "aliases": [],
+      "english": "Dialectal words / Regionalisms",
+      "notation": null,
+      "meaning": "Một số từ ngữ riêng biệt của mỗi vùng miền, phát sinh từ những nét riêng về điều kiện tự nhiên, đặc điểm tâm lí và phong tục tập quán của cư dân địa phương; thường chỉ được dùng ở một vùng, miền nhất định.",
+      "usage_context": "Bài 5, Thực hành tiếng Việt (trang 116) — nhận biết và phân tích tác dụng của việc sử dụng từ ngữ địa phương trong tác phẩm văn học.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": null,
+        "pdf_page": 117,
+        "printed_page": 116
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-tu-ngu-toan-dan",
+      "term": "Từ ngữ toàn dân",
+      "aliases": [],
+      "english": "Standard national vocabulary",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 5, Thực hành tiếng Việt (trang 116) — đối chiếu từ ngữ địa phương với từ ngữ toàn dân tương ứng.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-dau-gach-ngang",
+      "term": "Dấu gạch ngang",
+      "aliases": [
+        "dấu gạch ngang đặt ở giữa câu"
+      ],
+      "english": "Dash (mid-sentence dash)",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 5, Thực hành tiếng Việt (trang 110) và Phụ lục 1 (trang 135) — nêu công dụng tách bộ phận chú thích, giải thích của dấu gạch ngang đặt ở giữa câu.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-truyen-ngu-ngon",
+      "term": "Truyện ngụ ngôn",
+      "aliases": [],
+      "english": "Fable",
+      "notation": null,
+      "meaning": "Một loại truyện kể cỡ nhỏ (bằng văn xuôi hoặc thơ), dùng hình thức ám chỉ, bóng gió để truyền tải nội dung giáo huấn (nhân vật có thể là con người hoặc đồ vật, con vật được nhân hoá).",
+      "usage_context": "Bài 6, phần Tri thức ngữ văn (trang 5), Nói và nghe (trang 21–22) và Phụ lục 2 (trang 125) — đọc hiểu *Đẽo cày giữa đường*, *Ếch ngồi đáy giếng*, *Con mối và con kiến*, *Thiên nga, cá măng và tôm hùm* và kể lại truyện ngụ ngôn.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": null,
+        "pdf_page": 5,
+        "printed_page": 4
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-tuc-ngu",
+      "term": "Tục ngữ",
+      "aliases": [],
+      "english": "Proverb",
+      "notation": null,
+      "meaning": "Loại sáng tác ngôn từ dân gian, là những câu nói ngắn gọn, nhịp nhàng, cân đối, thường có vần điệu, đúc kết nhận thức về tự nhiên và xã hội, kinh nghiệm về đạo đức và ứng xử trong đời sống.",
+      "usage_context": "Bài 6, phần Tri thức ngữ văn (trang 5), Văn bản 4 (*Một số câu tục ngữ Việt Nam*, trang 12–13) và Phụ lục 2 (trang 125) — nhận biết đặc điểm hình thức và giá trị kinh nghiệm của tục ngữ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": null,
+        "pdf_page": 5,
+        "printed_page": 4
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-thanh-ngu",
+      "term": "Thành ngữ",
+      "aliases": [],
+      "english": "Idiom",
+      "notation": null,
+      "meaning": "Một loại cụm từ cố định, có nghĩa bóng bẩy. Nghĩa của thành ngữ là nghĩa toát ra từ cả cụm từ, chứ không phải được suy ra từ nghĩa của từng thành tố.",
+      "usage_context": "Bài 6, phần Tri thức ngữ văn (trang 5), Thực hành tiếng Việt (trang 10–11) và Phụ lục 2 (trang 125) — nhận biết đặc điểm, chức năng và giải nghĩa thành ngữ trong câu.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": null,
+        "pdf_page": 5,
+        "printed_page": 4
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-noi-qua",
+      "term": "Nói quá",
+      "aliases": [
+        "biện pháp tu từ nói quá",
+        "(biện pháp tu từ) nói quá"
+      ],
+      "english": "Hyperbole / Overstatement",
+      "notation": null,
+      "meaning": "Biện pháp tu từ phóng đại tính chất, quy mô của đối tượng để nhấn mạnh, tăng sức biểu cảm hoặc gây cười.",
+      "usage_context": "Bài 6, phần Tri thức ngữ văn (trang 5), Thực hành tiếng Việt (trang 13–14) và Phụ lục 2 (trang 125) — phân tích tác dụng của phép nói quá và phân biệt nói quá với nói khoác.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": null,
+        "pdf_page": 5,
+        "printed_page": 4
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-tinh-huong",
+      "term": "Tình huống",
+      "aliases": [
+        "tình huống (trong truyện)"
+      ],
+      "english": "Narrative situation",
+      "notation": null,
+      "meaning": "Sự việc then chốt làm phát lộ nhiều mối tương quan trong câu chuyện được kể, thể hiện được những tầng ý nghĩa phong phú của tác phẩm và có thể khiến người đọc đặc biệt chú ý.",
+      "usage_context": "Bài 6 (trang 4, 11, 21), Bài 7 (trang 25, 26) và Phụ lục 2 (trang 125) — nhận diện tình huống đặc sắc trong truyện ngụ ngôn và truyện khoa học viễn tưởng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": null,
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-li-le-t02",
+      "term": "Lí lẽ",
+      "aliases": [],
+      "english": "Reasoning / Argument",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 6 (trang 4, 16–20), Bài 8, Bài 10 và Phụ lục 1 (trang 123) — đưa ra lí lẽ rõ ràng, sắc bén khi đọc hiểu và viết bài văn nghị luận.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập hai, Bài 8",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-bang-chung-t02",
+      "term": "Bằng chứng",
+      "aliases": [],
+      "english": "Evidence",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 6 (trang 4, 16–20), Bài 8, Bài 9, Bài 10 và Phụ lục 1 (trang 123) — huy động bằng chứng đa dạng, xác thực để làm sáng tỏ lí lẽ.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập hai, Bài 8",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-de-tai-t02",
+      "term": "Đề tài",
+      "aliases": [],
+      "english": "Topic",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 6, 7, 8, 9, 10 và Phụ lục 1 (trang 123) — xác định phạm vi đời sống được phản ánh trong văn bản đọc và lựa chọn đề tài khi viết, nói.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 7, tập một, Bài 1",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-chu-de-t02",
+      "term": "Chủ đề",
+      "aliases": [],
+      "english": "Theme",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 6, 8, 9, 10 và Phụ lục 1 (trang 123) — phân nhóm câu tục ngữ theo chủ đề và khái quát vấn đề chính của văn bản.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-cot-truyen-t02",
+      "term": "Cốt truyện",
+      "aliases": [],
+      "english": "Plot",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 6, Bài 7, Bài 10 và Phụ lục 1 (trang 123) — nắm cốt truyện truyện ngụ ngôn và chuỗi sự kiện tưởng tượng trong truyện khoa học viễn tưởng.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập một, Bài 1",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-nhan-vat-t02",
+      "term": "Nhân vật",
+      "aliases": [],
+      "english": "Character",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 6, Bài 7, Bài 10 và Phụ lục 1 (trang 123) — phân tích nhân vật ngụ ngôn, nhân vật khoa học viễn tưởng và nhân vật yêu thích trong sách.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập một, Bài 1",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-hinh-anh-t02",
+      "term": "Hình ảnh",
+      "aliases": [],
+      "english": "Imagery",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 6, 7, 8, 9, 10 và Phụ lục 1 (trang 123) — nhận xét ngôn ngữ giàu hình ảnh trong truyện ngụ ngôn, tục ngữ, thơ và phương tiện trực quan trong văn bản.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 7, tập một, Bài 4",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-cam-xuc-t02",
+      "term": "Cảm xúc",
+      "aliases": [],
+      "english": "Emotion / Feeling",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 6, Bài 8, Bài 10 và Phụ lục 1 (trang 123) — chia sẻ cảm xúc của người đọc, người kể và người viết trước câu chuyện, bài học cuộc sống.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-chi-tiet-t02",
+      "term": "Chi tiết",
+      "aliases": [],
+      "english": "Detail",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 6, 7, 9, 10 và Phụ lục 1 (trang 123) — nhận biết vai trò của các chi tiết tiêu biểu trong truyện kể và văn bản thông tin.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 7, tập một, Bài 1",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-quan-diem",
+      "term": "Quan điểm",
+      "aliases": [
+        "quan điểm của người viết",
+        "quan điểm của người nói"
+      ],
+      "english": "Viewpoint / Stance",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 6, Bài 7, Bài 8, Bài 10 và Phụ lục 1 (trang 123) — thể hiện và bảo vệ quan điểm cá nhân khi viết nghị luận và thảo luận.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-truyen-khoa-hoc-vien-tuong",
+      "term": "Truyện khoa học viễn tưởng",
+      "aliases": [],
+      "english": "Science fiction",
+      "notation": null,
+      "meaning": "Loại tác phẩm viết về thế giới tương lai dựa trên sự phát triển của khoa học dự đoán, thường có tính chất li kì; sử dụng cách viết lô-gíc nhằm triển khai những ý tưởng về viễn cảnh hay công nghệ tương lai trên nền tảng là các nguyên lí khoa học mới của thời hiện tại.",
+      "usage_context": "Bài 7, phần Tri thức ngữ văn (trang 26) và Phụ lục 2 (trang 125) — đọc hiểu *Cuộc chạm trán trên đại dương*, *Đường vào trung tâm vũ trụ*, *Chiếc đũa thần* và *Lời giải thích của nhà khoa học*.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": null,
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-khong-gian",
+      "term": "Không gian",
+      "aliases": [
+        "không gian (trong tác phẩm văn học)"
+      ],
+      "english": "Artistic space / Setting",
+      "notation": null,
+      "meaning": "Một bối cảnh giàu ý nghĩa nghệ thuật, cho biết vùng, nơi chốn diễn ra câu chuyện, sự việc hoặc làm nảy sinh tâm trạng được nói tới trong tác phẩm.",
+      "usage_context": "Bài 7, phần Tri thức ngữ văn (trang 26) và Phụ lục 2 (trang 124) — nhận biết không gian dưới đáy đại dương, tâm địa cầu hay ngoài vũ trụ trong truyện khoa học viễn tưởng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": null,
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-thoi-gian",
+      "term": "Thời gian",
+      "aliases": [
+        "thời gian (trong tác phẩm văn học)"
+      ],
+      "english": "Artistic time",
+      "notation": null,
+      "meaning": "Một bối cảnh của câu chuyện, sự việc, tâm trạng được kể hay thể hiện trong tác phẩm; mang tính ước lệ nghệ thuật, giúp độc giả cảm nhận được ý nghĩa đặc biệt của thời điểm hay chuỗi thời điểm diễn ra câu chuyện, sự việc, tâm trạng ấy.",
+      "usage_context": "Bài 7, phần Tri thức ngữ văn (trang 26) và Phụ lục 2 (trang 125) — xác định thời gian giả định trong tương lai hoặc dịch chuyển xuyên thời gian trong truyện khoa học viễn tưởng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": null,
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-mach-lac",
+      "term": "Mạch lạc",
+      "aliases": [],
+      "english": "Coherence",
+      "notation": null,
+      "meaning": "Sự liền mạch về nội dung của một đoạn văn hoặc văn bản; chủ yếu dựa trên sự thống nhất về đề tài và sự tiếp nối theo một trình tự hợp lí giữa các câu trong đoạn văn hoặc giữa các đoạn văn trong văn bản.",
+      "usage_context": "Bài 7, phần Tri thức ngữ văn (trang 26), Thực hành tiếng Việt (trang 34–35), Bài 6, Bài 8 và Phụ lục 2 (trang 124) — phân tích và đảm bảo tính mạch lạc khi đọc hiểu, tạo lập văn bản.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": null,
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-lien-ket",
+      "term": "Liên kết",
+      "aliases": [],
+      "english": "Cohesion",
+      "notation": null,
+      "meaning": "Quan hệ về mặt hình thức giữa các câu trong đoạn văn hoặc giữa các đoạn trong văn bản, thể hiện qua các phương tiện ngôn ngữ như từ ngữ nối, từ ngữ lặp lại, từ ngữ thay thế (từ đồng nghĩa, đại từ),...",
+      "usage_context": "Bài 7, phần Tri thức ngữ văn (trang 26), Thực hành tiếng Việt (trang 34–35), Bài 6, Bài 8 và Phụ lục 2 (trang 124) — nhận diện phương tiện liên kết câu và đoạn văn.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": null,
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-dau-cham-lung",
+      "term": "Dấu chấm lửng",
+      "aliases": [],
+      "english": "Ellipsis",
+      "notation": null,
+      "meaning": "Dấu câu thường được dùng để tỏ ý nhiều sự vật, hiện tượng chưa được liệt kê hết; thể hiện lời nói bỏ dở hay ngập ngừng, ngắt quãng; làm giãn nhịp điệu của câu văn, chuẩn bị cho sự xuất hiện của một từ ngữ biểu thị nội dung bất ngờ thường có sắc thái hài hước, châm biếm.",
+      "usage_context": "Bài 7, phần Tri thức ngữ văn (trang 26), Thực hành tiếng Việt (trang 41–42) và Phụ lục 1 (trang 123) — phân tích công dụng và đặt câu có sử dụng dấu chấm lửng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": null,
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-bai-van-ke-lai-su-viec-co-that-lien-quan-den-mot-nhan-vat-lich-su",
+      "term": "Bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử",
+      "aliases": [],
+      "english": "Narrative essay recounting a true event related to a historical figure",
+      "notation": null,
+      "meaning": "Yêu cầu đối với bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử: giới thiệu được nhân vật và sự việc có thật liên quan đến nhân vật đó; kể được sự việc theo một trình tự hợp lí, có sử dụng các yếu tố miêu tả trong khi kể; nêu được ý nghĩa của sự việc; nêu được suy nghĩ, ấn tượng của người viết về sự việc được kể.",
+      "usage_context": "Bài 7, phần Viết (trang 45–48) — thực hành viết bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": null,
+        "pdf_page": 46,
+        "printed_page": 45
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-su-kien-t02",
+      "term": "Sự kiện",
+      "aliases": [],
+      "english": "Event",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 7 (trang 25, 26, 34, 45–46), Bài 9, Bài 10 và Phụ lục 1 (trang 123) — xác định chuỗi sự kiện tưởng tượng trong truyện viễn tưởng và sự việc xác thực gắn với nhân vật lịch sử.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-mieu-ta-t02",
+      "term": "Miêu tả",
+      "aliases": [],
+      "english": "Description",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 7 (trang 25, 28, 33, 45–48), Bài 9, Bài 10 và Phụ lục 1 (trang 123) — vận dụng yếu tố miêu tả khi kể lại sự việc có thật liên quan đến nhân vật lịch sử.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-nhan-de",
+      "term": "Nhan đề",
+      "aliases": [],
+      "english": "Title",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 7 (trang 27, 33, 45), Bài 9, Bài 10 và Phụ lục 1 (trang 123) — nhận xét ý nghĩa nhan đề của tác phẩm văn học và văn bản thông tin.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-so-do",
+      "term": "Sơ đồ",
+      "aliases": [],
+      "english": "Diagram",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 7 (trang 36), Bài 9 (trang 87, 96–97), Bài 10 (trang 102), Ôn tập học kì II và Phụ lục 1 (trang 123) — tóm tắt thông tin và hệ thống hoá kiến thức bằng sơ đồ.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-loi-nhan-vat",
+      "term": "Lời nhân vật",
+      "aliases": [],
+      "english": "Character's speech",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 7, Thực hành tiếng Việt (trang 41) và Phụ lục 1 (trang 123) — nhận biết dấu chấm lửng biểu thị lời nhân vật ngập ngừng, bỏ dở.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập một, Bài 1",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-dau-ngoac-kep-t02",
+      "term": "Dấu ngoặc kép",
+      "aliases": [],
+      "english": "Quotation marks",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 7 (trang 42), Bài 9 (trang 83, 98) và Phụ lục 1 (trang 123) — đánh dấu từ ngữ hiểu theo nghĩa đặc biệt và đoạn trích dẫn trực tiếp tài liệu tham khảo.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập một, Bài 5",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-thong-diep-t02",
+      "term": "Thông điệp",
+      "aliases": [],
+      "english": "Message",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 7 (trang 50), Bài 8 (trang 58, 61, 63), Bài 9 (trang 77, 89), Bài 10 và Phụ lục 1 (trang 124) — rút ra thông điệp nhân văn của tác phẩm đối với người đọc.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-van-de",
+      "term": "Vấn đề",
+      "aliases": [
+        "vấn đề đặt ra trong văn bản",
+        "vấn đề (đặt ra trong văn bản)"
+      ],
+      "english": "Issue / Topic of argument",
+      "notation": null,
+      "meaning": "Mọi vấn đề của đời sống xã hội, văn học, nghệ thuật, khoa học,... đều có thể được nêu ra để bàn trong văn bản nghị luận; văn bản nghị luận có giá trị phải chọn được vấn đề đáng quan tâm, có ý nghĩa với nhiều người và trước một vấn đề có thể có nhiều ý kiến khác nhau.",
+      "usage_context": "Bài 8, phần Tri thức ngữ văn (trang 55), Bài 6, Bài 10 và Phụ lục 1 (trang 124) — xác định vấn đề cần bàn luận trong văn bản nghị luận.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": null,
+        "pdf_page": 56,
+        "printed_page": 55
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-van-ban-nghi-luan-ve-mot-van-de-doi-song",
+      "term": "Văn bản nghị luận về một vấn đề đời sống",
+      "aliases": [],
+      "english": "Argumentative essay on a real-life issue",
+      "notation": null,
+      "meaning": "Văn bản bàn luận về một vấn đề trong đời sống, thể hiện rõ ý kiến tán thành hoặc phản đối của người viết thông qua các lí lẽ rõ ràng, sắc bén và bằng chứng đa dạng, tiêu biểu, xác thực dựa trên những nguyên tắc ứng xử và tiêu chuẩn chân lí được thừa nhận rộng rãi.",
+      "usage_context": "Bài 6, phần Viết (trang 16–21), Bài 8, phần Yêu cầu cần đạt (trang 54), Viết (trang 67–71) và Phụ lục 1 (trang 124) — đọc hiểu và viết bài văn nghị luận trình bày ý kiến tán thành hoặc phản đối.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": null,
+        "pdf_page": 17,
+        "printed_page": 16
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-bien-phap-lien-ket",
+      "term": "Biện pháp liên kết",
+      "aliases": [
+        "biện pháp (phép) liên kết",
+        "phép liên kết"
+      ],
+      "english": "Cohesive device",
+      "notation": null,
+      "meaning": "Sự gắn kết giữa các câu trong đoạn văn hoặc giữa các đoạn trong văn bản được thể hiện bằng nhiều biện pháp (phép) liên kết, gắn với những phương tiện (từ ngữ) liên kết cụ thể, chẳng hạn: phép nối (từ ngữ nối), phép thế (đại từ, từ ngữ đồng nghĩa), phép lặp (lặp lại từ ngữ đã có trong câu trước, đoạn trước),...",
+      "usage_context": "Bài 8, phần Tri thức ngữ văn (trang 55) và Thực hành tiếng Việt (trang 59–60) — nhận diện và sử dụng các phép liên kết câu, liên kết đoạn.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": null,
+        "pdf_page": 56,
+        "printed_page": 55
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-phep-noi",
+      "term": "Phép nối",
+      "aliases": [],
+      "english": "Conjunction (cohesive device)",
+      "notation": null,
+      "meaning": "Biện pháp liên kết thông dụng mà ở đó câu sau có từ ngữ nối biểu thị quan hệ với câu trước.",
+      "usage_context": "Bài 8, phần Tri thức ngữ văn (trang 55) và Thực hành tiếng Việt (trang 59) — phân tích tác dụng liên kết của từ ngữ nối giữa các câu, đoạn.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": null,
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-phep-the",
+      "term": "Phép thế",
+      "aliases": [],
+      "english": "Substitution (cohesive device)",
+      "notation": null,
+      "meaning": "Biện pháp liên kết thông dụng mà ở đó câu sau có từ ngữ dùng để thay thế cho từ ngữ đã xuất hiện ở câu trước.",
+      "usage_context": "Bài 8, phần Tri thức ngữ văn (trang 55) và Thực hành tiếng Việt (trang 59) — sử dụng đại từ hoặc từ ngữ đồng nghĩa thay thế để tránh lặp rườm rà và gắn kết câu.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": null,
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-phep-lap",
+      "term": "Phép lặp",
+      "aliases": [],
+      "english": "Lexical repetition (cohesive device)",
+      "notation": null,
+      "meaning": "Biện pháp liên kết thông dụng mà ở đó câu sau lặp lại từ ngữ của câu trước, có tác dụng liên kết.",
+      "usage_context": "Bài 8, phần Tri thức ngữ văn (trang 55) và Thực hành tiếng Việt (trang 59) — nhận biết từ ngữ được lặp lại nhằm duy trì chủ đề và liên kết câu.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": null,
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-thuat-ngu",
+      "term": "Thuật ngữ",
+      "aliases": [],
+      "english": "Term / Technical term",
+      "notation": null,
+      "meaning": "Từ hoặc cụm từ cố định, được sử dụng theo quy ước để chỉ khái niệm của một lĩnh vực chuyên môn hoặc ngành khoa học nhất định.",
+      "usage_context": "Bài 8, phần Tri thức ngữ văn (trang 55), Thực hành tiếng Việt (trang 64–65), Bài 7 (trang 48), Bài 9 (trang 80) và Phụ lục 2 (trang 125) — nhận biết đặc điểm, chức năng của thuật ngữ và phân biệt với từ ngữ thông thường.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": null,
+        "pdf_page": 55,
+        "printed_page": 54
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-phuong-tien-phi-ngon-ngu",
+      "term": "Phương tiện phi ngôn ngữ",
+      "aliases": [],
+      "english": "Non-verbal means",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 8 (trang 73), Bài 9 (trang 76), Bài 10 (trang 102, 109, 116) và Phụ lục 1 (trang 123) — kết hợp hình ảnh, sơ đồ, kí hiệu để tăng hiệu quả truyền đạt thông tin khi đọc, viết, nói.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập hai, Bài 9",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-quan-he-nhan-qua",
+      "term": "Quan hệ nhân quả",
+      "aliases": [],
+      "english": "Cause-and-effect relationship",
+      "notation": null,
+      "meaning": "Quan hệ giữa các sự việc mà ở đó sự việc được nêu trước là nguyên nhân của sự việc được nói sau, tất cả kết nối với nhau thành một chuỗi liên tục.",
+      "usage_context": "Bài 9, phần Tri thức ngữ văn (trang 77), Văn bản 1 (*Thuỷ tiên tháng Một*, trang 82) và Phụ lục 2 (trang 125) — nhận biết cách triển khai ý tưởng và thông tin theo quan hệ nhân quả.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": null,
+        "pdf_page": 78,
+        "printed_page": 77
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-van-ban-gioi-thieu-quy-tac-hoac-luat-le-trong-tro-choi-hay-hoat-dong",
+      "term": "Văn bản giới thiệu quy tắc hoặc luật lệ trong trò chơi hay hoạt động",
+      "aliases": [],
+      "english": "Text introducing rules or regulations of a game or activity",
+      "notation": null,
+      "meaning": "Loại văn bản thuyết minh nói về đặc điểm của một trò chơi hay hoạt động, giúp người đọc tham gia, thưởng thức hay đánh giá về trò chơi, hoạt động ấy một cách thuận lợi; thường trình bày chi tiết về cách chơi, cách tổ chức hoạt động (thời gian, địa điểm, số lượng người tham gia, các điều kiện phải đảm bảo,...) bằng những câu ngắn gọn, dễ hiểu, có thể kèm theo hình vẽ hay bức ảnh minh hoạ.",
+      "usage_context": "Bài 9, phần Tri thức ngữ văn (trang 77), Văn bản 2 (*Lễ rửa làng của người Lô Lô*) và phần Viết (trang 91–95) — đọc hiểu và viết bài văn thuyết minh về quy tắc hoặc luật lệ trong trò chơi hay hoạt động.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": null,
+        "pdf_page": 78,
+        "printed_page": 77
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-cuoc-chu",
+      "term": "Cước chú",
+      "aliases": [],
+      "english": "Footnote",
+      "notation": null,
+      "meaning": "Loại chú thích đặt ở chân trang hoặc cuối văn bản về một từ ngữ khó hiểu hay một nội dung chưa quen với phần lớn độc giả, vốn xuất hiện trong phần chính của trang hoặc của văn bản; loại chú thích cho biết văn bản hay một số yếu tố của văn bản được lấy từ nguồn nào cũng được gọi là cước chú.",
+      "usage_context": "Bài 9, phần Tri thức ngữ văn (trang 77), Thực hành tiếng Việt (trang 83) và Phụ lục 2 (trang 124) — nhận biết thành phần, cách ghi và chức năng của cước chú trong văn bản.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": null,
+        "pdf_page": 78,
+        "printed_page": 77
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-tai-lieu-tham-khao",
+      "term": "Tài liệu tham khảo",
+      "aliases": [],
+      "english": "References / Bibliography",
+      "notation": null,
+      "meaning": "Những tài liệu mà người tạo lập văn bản tìm đọc và khai thác các thông tin cần thiết, có liên quan tới vấn đề được trình bày trong văn bản; thường được ghi sau phần kết thúc của văn bản, được đánh số và sắp xếp theo một quy ước thống nhất.",
+      "usage_context": "Bài 9, phần Tri thức ngữ văn (trang 77), Thực hành tiếng Việt (trang 83–84) và Phụ lục 2 (trang 125) — thực hành trích dẫn và ghi nguồn tài liệu tham khảo.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": null,
+        "pdf_page": 78,
+        "printed_page": 77
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-van-ban-thong-tin",
+      "term": "Văn bản thông tin",
+      "aliases": [],
+      "english": "Informational text",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 9, phần Tri thức ngữ văn (trang 77), Củng cố, mở rộng (trang 97) và Bài 10 — nhận diện đặc điểm, cách triển khai ý tưởng và thông tin trong văn bản thông tin.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập hai, Bài 6",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-thuyet-minh",
+      "term": "Thuyết minh",
+      "aliases": [
+        "văn bản thuyết minh"
+      ],
+      "english": "Exposition / Expository text",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 9, phần Tri thức ngữ văn (trang 77), Thực hành tiếng Việt (trang 90) và phần Viết (trang 91–95) — thuyết minh về quy tắc hoặc luật lệ trong trò chơi hay hoạt động.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập hai, Bài 6",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-yeu-to-han-viet",
+      "term": "Yếu tố Hán Việt",
+      "aliases": [],
+      "english": "Sino-Vietnamese element",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 9, Thực hành tiếng Việt (trang 90), Ôn tập học kì II (trang 122) và Phụ lục 3 — tách yếu tố và tập hợp nhóm từ cùng yếu tố để xác định nghĩa của từ Hán Việt thông dụng.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-so-lieu",
+      "term": "Số liệu",
+      "aliases": [],
+      "english": "Numerical data / Statistics",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 9 (trang 82, 98) và Phụ lục 1 (trang 123) — phân tích ý nghĩa xác thực của việc dẫn số liệu trong văn bản thông tin.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-thong-tin-chinh-cua-van-ban",
+      "term": "Thông tin chính của văn bản",
+      "aliases": [],
+      "english": "Main information of a text",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 9 (trang 85) và Phụ lục 1 (trang 124) — xác định thông tin trọng tâm mà văn bản thông tin hướng tới truyền tải.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": null,
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-van-ban-nghi-luan-phan-tich-mot-tac-pham-van-hoc",
+      "term": "Văn bản nghị luận phân tích một tác phẩm văn học",
+      "aliases": [],
+      "english": "Literary analysis essay",
+      "notation": null,
+      "meaning": "Loại văn bản nghị luận, trong đó người viết làm rõ và bàn luận về đặc điểm của một tác phẩm trên các phương diện nội dung, hình thức trong mối quan hệ với tác giả, hoàn cảnh sáng tác, thời đại,... và khái quát giá trị chung của tác phẩm.",
+      "usage_context": "Bài 10, phần Tri thức ngữ văn (trang 102) và văn bản *Vẻ đẹp giản dị và chân thật của “Quê nội” (Võ Quảng)* (trang 104–106) — nhận biết mối quan hệ giữa đặc điểm, lí lẽ, bằng chứng với mục đích phân tích tác phẩm.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": null,
+        "pdf_page": 103,
+        "printed_page": 102
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-nhan-vat-van-hoc",
+      "term": "Nhân vật văn học",
+      "aliases": [],
+      "english": "Literary character",
+      "notation": null,
+      "meaning": "Sản phẩm của sự sáng tạo, hư cấu, chứa đựng trong đó nhiều gợi ý của nhà văn về một cách nhìn nhận, đánh giá đầy tính thẩm mĩ đối với cuộc sống; không đồng nhất với con người thực ngoài đời.",
+      "usage_context": "Bài 10, phần Tri thức ngữ văn (trang 102) và phần Viết (trang 112–115) — phân biệt nhân vật văn học với con người thực ngoài đời và cảm nhận định hướng giá trị của nhà văn.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": null,
+        "pdf_page": 103,
+        "printed_page": 102
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-van-ban-da-phuong-thuc",
+      "term": "Văn bản đa phương thức",
+      "aliases": [],
+      "english": "Multimodal text",
+      "notation": null,
+      "meaning": "Loại văn bản sử dụng kết hợp phương tiện ngôn ngữ và phương tiện phi ngôn ngữ, đặc biệt là loại văn bản mà phần trọng tâm là các kiểu hình ảnh được sắp xếp, kết hợp để truyền đạt thông tin quan trọng (hình vẽ, sơ đồ, các mảng màu sắc, hình khối,...), còn ngôn ngữ chỉ là phương tiện hỗ trợ thêm trong việc truyền đạt thông tin: ghi chú, dẫn giải,...",
+      "usage_context": "Bài 10, phần Tri thức ngữ văn (trang 102) và Phụ lục 1 (trang 124) — tạo lập và trình bày sản phẩm sáng tạo từ sách (truyện tranh, pô-xtơ, sơ đồ).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": null,
+        "pdf_page": 103,
+        "printed_page": 102
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-bai-van-phan-tich-mot-nhan-vat-van-hoc",
+      "term": "Bài văn phân tích một nhân vật văn học",
+      "aliases": [],
+      "english": "Character analysis essay",
+      "notation": null,
+      "meaning": "Yêu cầu đối với bài văn phân tích một nhân vật văn học trong cuốn sách đã đọc: giới thiệu được nhân vật trong tác phẩm văn học (lai lịch, hoàn cảnh, tình huống xuất hiện và ấn tượng đặc biệt ban đầu); chỉ ra được đặc điểm, tính cách nhân vật qua bằng chứng cụ thể về ngoại hình, hành động, ngôn ngữ, tâm trạng; nhận xét, đánh giá nghệ thuật xây dựng nhân vật của nhà văn; nêu được ý nghĩa của hình tượng nhân vật trong việc thể hiện chủ đề tác phẩm hoặc quan niệm đời sống của tác giả.",
+      "usage_context": "Bài 10, phần Viết (trang 112–115) — thực hành viết bài văn phân tích một nhân vật văn học yêu thích trong cuốn sách đã đọc.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": null,
+        "pdf_page": 113,
+        "printed_page": 112
+      },
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "ngu-van-7-po-xto",
+      "term": "Pô-xtơ",
+      "aliases": [],
+      "english": "Poster",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 10, phần Nói và nghe (trang 116) — trưng bày và thuyết trình giới thiệu sản phẩm sáng tạo từ sách trong *Ngày hội với sách*.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Ngữ văn 6, tập hai, Bài 10",
+      "location": null,
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "note_ids": []
+    }
+  ],
+  "source_notes": [
+    {
+      "id": "tu-dien-ngu-van-7-tap-1#1",
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-1.md",
+      "number": 1,
+      "status": "closed",
+      "lesson_id": "b05",
+      "section": null,
+      "pdf_page": 107,
+      "term_ids": [
+        "ngu-van-7-ngon-ngu-cac-vung-mien"
+      ],
+      "issue": "Mục Tri thức ngữ văn Bài 5 (trang in 106, PDF 107) đặt tiêu đề là “Ngôn ngữ vùng miền (phương ngữ)”, trong khi Yêu cầu cần đạt Bài 5 (trang in 105) và Phụ lục 1–2 (trang in 135, 137) ghi là “ngôn ngữ các vùng miền”",
+      "resolution": "Đã giữ nguyên văn ở Tầng 1 và gộp các tên gọi đồng nghĩa tại mục từ “Ngôn ngữ các vùng miền (ngôn ngữ vùng miền; phương ngữ)”",
+      "resolved_on": "2026-11-20"
+    },
+    {
+      "id": "tu-dien-ngu-van-7-tap-2#1",
+      "dictionary": "Tu-dien-Ngu-van-7-Tap-2.md",
+      "number": 1,
+      "status": "closed",
+      "lesson_id": null,
+      "section": null,
+      "pdf_page": 125,
+      "term_ids": [
+        "ngu-van-7-thoi-gian"
+      ],
+      "issue": "Dòng 30 cột Trang dẫn trang in 77 (PDF 78, Bài 9), nơi sách dùng cụm “trật tự thời gian” cho cách triển khai văn bản thông tin thay vì thời gian nghệ thuật trong tác phẩm văn học",
+      "resolution": "Đã giữ nguyên văn số trang ở Tầng 1 và chuẩn hoá mục từ theo đúng định nghĩa tại Bài 7 và Phụ lục 2",
+      "resolved_on": "2026-11-20"
+    }
+  ]
+}

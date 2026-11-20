@@ -1,0 +1,100 @@
+{
+  "H7-khoa_hoc_tu_nhien-b15-01": {
+    "pdf_page": 73,
+    "bbox": [52, 249, 198, 344]
+  },
+  "H7-khoa_hoc_tu_nhien-b15-02": {
+    "pdf_page": 73,
+    "bbox": [65, 591, 509, 769]
+  },
+  "H7-khoa_hoc_tu_nhien-b15-03": {
+    "pdf_page": 74,
+    "bbox": [184, 244, 420, 405]
+  },
+  "H7-khoa_hoc_tu_nhien-b15-04": {
+    "pdf_page": 74,
+    "bbox": [44, 663, 540, 786]
+  },
+  "H7-khoa_hoc_tu_nhien-b15-05": {
+    "pdf_page": 75,
+    "bbox": [80, 106, 522, 214]
+  },
+  "H7-khoa_hoc_tu_nhien-b15-06": {
+    "pdf_page": 75,
+    "bbox": [384, 330, 534, 433]
+  },
+  "H7-khoa_hoc_tu_nhien-b15-07": {
+    "pdf_page": 75,
+    "bbox": [375, 515, 533, 664]
+  },
+  "H7-khoa_hoc_tu_nhien-b15-08": {
+    "pdf_page": 76,
+    "bbox": [388, 51, 539, 187]
+  },
+  "H7-khoa_hoc_tu_nhien-b15-09": {
+    "pdf_page": 76,
+    "bbox": [89, 277, 513, 639]
+  },
+  "H7-khoa_hoc_tu_nhien-b15-10": {
+    "pdf_page": 77,
+    "bbox": [88, 111, 519, 493]
+  },
+  "H7-khoa_hoc_tu_nhien-b15-11": {
+    "pdf_page": 78,
+    "bbox": [74, 168, 519, 320]
+  },
+  "H7-khoa_hoc_tu_nhien-b16-01": {
+    "pdf_page": 79,
+    "bbox": [54, 255, 286, 407]
+  },
+  "H7-khoa_hoc_tu_nhien-b16-02": {
+    "pdf_page": 79,
+    "bbox": [322, 604, 515, 776]
+  },
+  "H7-khoa_hoc_tu_nhien-b16-03": {
+    "pdf_page": 80,
+    "bbox": [312, 197, 537, 372]
+  },
+  "H7-khoa_hoc_tu_nhien-b16-04": {
+    "pdf_page": 81,
+    "bbox": [317, 102, 521, 235]
+  },
+  "H7-khoa_hoc_tu_nhien-b16-05": {
+    "pdf_page": 81,
+    "bbox": [338, 262, 498, 411]
+  },
+  "H7-khoa_hoc_tu_nhien-b16-06": {
+    "pdf_page": 81,
+    "bbox": [52, 490, 538, 697]
+  },
+  "H7-khoa_hoc_tu_nhien-b16-07": {
+    "pdf_page": 82,
+    "bbox": [395, 71, 536, 232]
+  },
+  "H7-khoa_hoc_tu_nhien-b17-01": {
+    "pdf_page": 83,
+    "bbox": [52, 220, 220, 386]
+  },
+  "H7-khoa_hoc_tu_nhien-b17-02": {
+    "pdf_page": 83,
+    "bbox": [384, 396, 534, 567]
+  },
+  "H7-khoa_hoc_tu_nhien-b17-03": {
+    "pdf_page": 84,
+    "bbox": [291, 228, 529, 411]
+  },
+  "H7-khoa_hoc_tu_nhien-b17-04": {
+    "pdf_page": 85,
+    "bbox": [151, 279, 440, 469]
+  },
+  "H7-khoa_hoc_tu_nhien-b17-05": {
+    "pdf_page": 85,
+    "bbox": [378, 627, 521, 769]
+  },
+  "H7-khoa_hoc_tu_nhien-b17-06": {
+    "pdf_page": 86,
+    "bbox": [286, 370, 526, 553],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 16.7 nằm trọn trong hộp Em có thể nền cam đậm; các cạnh khung chỉ đi qua màu nền hộp, không chạm chữ bên ngoài"
+  }
+}

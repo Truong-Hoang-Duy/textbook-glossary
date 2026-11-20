@@ -1,0 +1,52 @@
+{
+  "H7-lich_su_va_dia_ly-ls-b16-01": {
+    "pdf_page": 79,
+    "bbox": [292, 310, 526, 520],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chú thích Hình 1 đặt bên trái ảnh ngay dưới đoạn chữ Mở đầu nên cạnh trái khung cắt đi qua chữ Mở đầu"
+  },
+  "H7-lich_su_va_dia_ly-ls-b16-02": {
+    "pdf_page": 80,
+    "bbox": [182, 68, 518, 271],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chú thích Hình 2 đặt bên trái ảnh ngay dưới đoạn Tư liệu 1 trong hộp nền xanh nên khung cắt đi qua hộp Tư liệu 1"
+  },
+  "H7-lich_su_va_dia_ly-ls-b16-03": {
+    "pdf_page": 80,
+    "bbox": [392, 288, 543, 536]
+  },
+  "H7-lich_su_va_dia_ly-ls-b16-04": {
+    "pdf_page": 81,
+    "bbox": [97, 489, 497, 774]
+  },
+  "H7-lich_su_va_dia_ly-ls-b16-05": {
+    "pdf_page": 82,
+    "bbox": [108, 248, 487, 711]
+  },
+  "H7-lich_su_va_dia_ly-ls-b17-01": {
+    "pdf_page": 84,
+    "bbox": [224, 269, 527, 439],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chú thích Hình 1 đặt bên trái bình gốm ngay dưới đoạn chữ Mở đầu và bình gốm tràn qua viền dưới hộp Mở đầu"
+  },
+  "H7-lich_su_va_dia_ly-ls-b17-02": {
+    "pdf_page": 84,
+    "bbox": [190, 530, 458, 779]
+  },
+  "H7-lich_su_va_dia_ly-ls-b17-03": {
+    "pdf_page": 85,
+    "bbox": [98, 174, 497, 721]
+  },
+  "H7-lich_su_va_dia_ly-ls-b17-04": {
+    "pdf_page": 86,
+    "bbox": [54, 501, 200, 768]
+  },
+  "H7-lich_su_va_dia_ly-ls-b17-05": {
+    "pdf_page": 88,
+    "bbox": [91, 56, 504, 326]
+  },
+  "H7-lich_su_va_dia_ly-ls-b17-06": {
+    "pdf_page": 88,
+    "bbox": [55, 335, 206, 647]
+  }
+}

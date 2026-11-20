@@ -1,0 +1,590 @@
+{
+  "H7-toan-b08-01": {
+    "pdf_page": 41,
+    "bbox": [
+      265,
+      632,
+      411,
+      775
+    ]
+  },
+  "H7-toan-b08-02": {
+    "pdf_page": 42,
+    "bbox": [
+      430,
+      91,
+      528,
+      190
+    ]
+  },
+  "H7-toan-b08-03": {
+    "pdf_page": 42,
+    "bbox": [
+      407,
+      210,
+      535,
+      289
+    ]
+  },
+  "H7-toan-b08-04": {
+    "pdf_page": 42,
+    "bbox": [
+      78,
+      448,
+      522,
+      580
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên phải khung chữ nhật chạm đầu nét đứt phía trên của Hình 3.3a do tia của Hình 3.3a vươn cao ngang dòng chú thích Hình 3.2"
+  },
+  "H7-toan-b08-05": {
+    "pdf_page": 42,
+    "bbox": [
+      448,
+      576,
+      547,
+      695
+    ]
+  },
+  "H7-toan-b08-06": {
+    "pdf_page": 42,
+    "bbox": [
+      459,
+      701,
+      540,
+      771
+    ]
+  },
+  "H7-toan-b08-07": {
+    "pdf_page": 43,
+    "bbox": [
+      419,
+      60,
+      547,
+      155
+    ]
+  },
+  "H7-toan-b08-08": {
+    "pdf_page": 43,
+    "bbox": [
+      460,
+      164,
+      556,
+      267
+    ]
+  },
+  "H7-toan-b08-09": {
+    "pdf_page": 43,
+    "bbox": [
+      390,
+      266,
+      517,
+      346
+    ]
+  },
+  "H7-toan-b08-10": {
+    "pdf_page": 43,
+    "bbox": [
+      142,
+      410,
+      463,
+      522
+    ]
+  },
+  "H7-toan-b08-11": {
+    "pdf_page": 44,
+    "bbox": [
+      418,
+      65,
+      547,
+      183
+    ]
+  },
+  "H7-toan-b08-12": {
+    "pdf_page": 44,
+    "bbox": [
+      428,
+      317,
+      531,
+      431
+    ]
+  },
+  "H7-toan-b08-13": {
+    "pdf_page": 44,
+    "bbox": [
+      68,
+      544,
+      517,
+      701
+    ]
+  },
+  "H7-toan-b08-14": {
+    "pdf_page": 45,
+    "bbox": [
+      417,
+      180,
+      538,
+      272
+    ]
+  },
+  "H7-toan-b08-15": {
+    "pdf_page": 45,
+    "bbox": [
+      433,
+      286,
+      543,
+      404
+    ]
+  },
+  "H7-toan-b08-16": {
+    "pdf_page": 45,
+    "bbox": [
+      395,
+      443,
+      556,
+      556
+    ]
+  },
+  "H7-toan-b08-17": {
+    "pdf_page": 45,
+    "bbox": [
+      49,
+      614,
+      547,
+      780
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trên khung chữ nhật chạm chân chữ số 2 của phân số 1/2 ở dòng trên do đầu tia y vươn sát dòng chữ"
+  },
+  "H7-toan-b08-18": {
+    "pdf_page": 46,
+    "bbox": [
+      283,
+      70,
+      535,
+      165
+    ]
+  },
+  "H7-toan-b08-19": {
+    "pdf_page": 46,
+    "bbox": [
+      161,
+      250,
+      424,
+      354
+    ]
+  },
+  "H7-toan-b08-20": {
+    "pdf_page": 46,
+    "bbox": [
+      138,
+      394,
+      447,
+      519
+    ]
+  },
+  "H7-toan-b08-21": {
+    "pdf_page": 46,
+    "bbox": [
+      75,
+      676,
+      250,
+      772
+    ]
+  },
+  "H7-toan-b08-22": {
+    "pdf_page": 46,
+    "bbox": [
+      340,
+      666,
+      513,
+      771
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trên bên trái khung chữ nhật đi qua dòng chữ đề bài 3.5 ('góc còn lại trong hình vẽ.') do tia m vươn cao ở góc trên bên phải"
+  },
+  "H7-toan-b09-01": {
+    "pdf_page": 47,
+    "bbox": [
+      323,
+      252,
+      556,
+      416
+    ]
+  },
+  "H7-toan-b09-02": {
+    "pdf_page": 47,
+    "bbox": [
+      388,
+      492,
+      524,
+      651
+    ]
+  },
+  "H7-toan-b09-03": {
+    "pdf_page": 47,
+    "bbox": [
+      363,
+      670,
+      547,
+      782
+    ]
+  },
+  "H7-toan-b09-04": {
+    "pdf_page": 48,
+    "bbox": [
+      402,
+      80,
+      547,
+      194
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc trên bên trái khung chữ nhật chạm chữ 'vị' của tiêu đề tiểu mục bên trái do đường thẳng c vươn lên cao ở giữa hình"
+  },
+  "H7-toan-b09-05": {
+    "pdf_page": 48,
+    "bbox": [
+      409,
+      316,
+      536,
+      415
+    ]
+  },
+  "H7-toan-b09-06": {
+    "pdf_page": 48,
+    "bbox": [
+      54,
+      566,
+      507,
+      694
+    ]
+  },
+  "H7-toan-b09-07": {
+    "pdf_page": 49,
+    "bbox": [
+      392,
+      68,
+      553,
+      216
+    ]
+  },
+  "H7-toan-b09-08": {
+    "pdf_page": 49,
+    "bbox": [
+      78,
+      350,
+      217,
+      474
+    ]
+  },
+  "H7-toan-b09-09": {
+    "pdf_page": 49,
+    "bbox": [
+      336,
+      327,
+      484,
+      474
+    ]
+  },
+  "H7-toan-b09-10": {
+    "pdf_page": 49,
+    "bbox": [
+      56,
+      599,
+      556,
+      755
+    ]
+  },
+  "H7-toan-b09-11": {
+    "pdf_page": 50,
+    "bbox": [
+      428,
+      162,
+      545,
+      272
+    ]
+  },
+  "H7-toan-b09-12": {
+    "pdf_page": 50,
+    "bbox": [
+      78,
+      318,
+      225,
+      436
+    ]
+  },
+  "H7-toan-b09-13": {
+    "pdf_page": 50,
+    "bbox": [
+      312,
+      323,
+      476,
+      436
+    ]
+  },
+  "H7-toan-ltc-c03-01-01": {
+    "pdf_page": 51,
+    "bbox": [
+      423,
+      138,
+      556,
+      233
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc trên bên trái khung chữ nhật chạm số đo '45°.' của dòng đề bài Ví dụ do đỉnh A của Hình 3.27 nằm cao ngang dòng chữ"
+  },
+  "H7-toan-ltc-c03-01-02": {
+    "pdf_page": 51,
+    "bbox": [
+      112,
+      415,
+      247,
+      501
+    ]
+  },
+  "H7-toan-ltc-c03-01-03": {
+    "pdf_page": 51,
+    "bbox": [
+      117,
+      649,
+      227,
+      755
+    ]
+  },
+  "H7-toan-ltc-c03-01-04": {
+    "pdf_page": 51,
+    "bbox": [
+      370,
+      532,
+      494,
+      616
+    ]
+  },
+  "H7-toan-b10-01": {
+    "pdf_page": 52,
+    "bbox": [
+      405,
+      195,
+      547,
+      290
+    ]
+  },
+  "H7-toan-b10-02": {
+    "pdf_page": 52,
+    "bbox": [
+      396,
+      367,
+      538,
+      460
+    ]
+  },
+  "H7-toan-b10-03": {
+    "pdf_page": 52,
+    "bbox": [
+      394,
+      575,
+      536,
+      652
+    ]
+  },
+  "H7-toan-b10-04": {
+    "pdf_page": 52,
+    "bbox": [
+      387,
+      666,
+      535,
+      771
+    ]
+  },
+  "H7-toan-b10-05": {
+    "pdf_page": 53,
+    "bbox": [
+      406,
+      425,
+      548,
+      535
+    ]
+  },
+  "H7-toan-b10-06": {
+    "pdf_page": 53,
+    "bbox": [
+      414,
+      636,
+      548,
+      775
+    ]
+  },
+  "H7-toan-b10-07": {
+    "pdf_page": 54,
+    "bbox": [
+      367,
+      138,
+      547,
+      236
+    ]
+  },
+  "H7-toan-b10-08": {
+    "pdf_page": 54,
+    "bbox": [
+      393,
+      262,
+      542,
+      384
+    ]
+  },
+  "H7-toan-b10-09": {
+    "pdf_page": 54,
+    "bbox": [
+      392,
+      390,
+      538,
+      480
+    ]
+  },
+  "H7-toan-b10-10": {
+    "pdf_page": 54,
+    "bbox": [
+      70,
+      604,
+      222,
+      713
+    ]
+  },
+  "H7-toan-b10-11": {
+    "pdf_page": 54,
+    "bbox": [
+      338,
+      576,
+      518,
+      671
+    ]
+  },
+  "H7-toan-b10-12": {
+    "pdf_page": 55,
+    "bbox": [
+      62,
+      72,
+      271,
+      229
+    ]
+  },
+  "H7-toan-b10-13": {
+    "pdf_page": 55,
+    "bbox": [
+      105,
+      337,
+      250,
+      449
+    ]
+  },
+  "H7-toan-b10-14": {
+    "pdf_page": 55,
+    "bbox": [
+      330,
+      78,
+      536,
+      191
+    ]
+  },
+  "H7-toan-b10-15": {
+    "pdf_page": 55,
+    "bbox": [
+      421,
+      325,
+      556,
+      455
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc trên bên trái khung chữ nhật đi qua chữ '44.' của đề bài 3.23 do đỉnh E ở góc dưới bên trái vươn sang trái bên dưới dòng đề bài"
+  },
+  "H7-toan-b10-16": {
+    "pdf_page": 55,
+    "bbox": [
+      407,
+      500,
+      546,
+      675
+    ]
+  },
+  "H7-toan-b11-01": {
+    "pdf_page": 56,
+    "bbox": [
+      394,
+      261,
+      536,
+      383
+    ]
+  },
+  "H7-toan-b11-02": {
+    "pdf_page": 57,
+    "bbox": [
+      280,
+      217,
+      383,
+      292
+    ]
+  },
+  "H7-toan-b11-03": {
+    "pdf_page": 57,
+    "bbox": [
+      402,
+      472,
+      546,
+      595
+    ]
+  },
+  "H7-toan-ltc-c03-02-01": {
+    "pdf_page": 59,
+    "bbox": [
+      405,
+      170,
+      538,
+      268
+    ]
+  },
+  "H7-toan-ltc-c03-02-02": {
+    "pdf_page": 59,
+    "bbox": [
+      392,
+      523,
+      556,
+      637
+    ]
+  },
+  "H7-toan-ltc-c03-02-03": {
+    "pdf_page": 59,
+    "bbox": [
+      395,
+      662,
+      556,
+      774
+    ]
+  },
+  "H7-toan-bt-c03-01": {
+    "pdf_page": 60,
+    "bbox": [
+      137,
+      274,
+      267,
+      374
+    ]
+  },
+  "H7-toan-bt-c03-02": {
+    "pdf_page": 60,
+    "bbox": [
+      385,
+      394,
+      546,
+      500
+    ]
+  },
+  "H7-toan-bt-c03-03": {
+    "pdf_page": 60,
+    "bbox": [
+      407,
+      573,
+      517,
+      694
+    ]
+  }
+}

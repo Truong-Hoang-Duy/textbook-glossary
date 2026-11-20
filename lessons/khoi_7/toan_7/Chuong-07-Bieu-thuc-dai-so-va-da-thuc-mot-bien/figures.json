@@ -1,0 +1,32 @@
+{
+  "H7-toan-b24-01": {
+    "pdf_page": 23,
+    "bbox": [338, 139, 558, 356],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trên và góc trái chạm đường cong trang trí viền băng rôn mở đầu Chương VII nằm thấp hơn đỉnh khối hộp"
+  },
+  "H7-toan-b24-02": {
+    "pdf_page": 23,
+    "bbox": [368, 562, 557, 709]
+  },
+  "H7-toan-b24-03": {
+    "pdf_page": 25,
+    "bbox": [394, 125, 558, 251]
+  },
+  "H7-toan-b25-01": {
+    "pdf_page": 26,
+    "bbox": [430, 595, 522, 654]
+  },
+  "H7-toan-b25-02": {
+    "pdf_page": 30,
+    "bbox": [385, 619, 548, 769]
+  },
+  "H7-toan-b26-01": {
+    "pdf_page": 34,
+    "bbox": [342, 654, 550, 779]
+  },
+  "H7-toan-ltc-c07-01-01": {
+    "pdf_page": 36,
+    "bbox": [407, 353, 549, 496]
+  }
+}

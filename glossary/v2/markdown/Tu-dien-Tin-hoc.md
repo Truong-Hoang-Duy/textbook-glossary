@@ -85,6 +85,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 11, Bài 14 (Mục 4): Nhóm lệnh DCL dùng để cấp phát và thu hồi quyền người dùng trong SQL.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 04, B14 (Mục 3), tr. 72; SGK Tin học CS 11 KNTT, Chủ đề 04, B14 (Mục 4), tr. 72
 
+### active cell
+- **Tiếng Việt:** Ô hiện thời
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The currently selected cell on a worksheet for viewing, entering data, or performing calculations. This cell is highlighted with a prominent border and has its address displayed in the name box to the left of the data entry bar.
+- **Giải thích (VI):** Ô tính đang chọn trên trang tính để quan sát, nhập dữ liệu hoặc tính toán. Ô này luôn có đường viền đóng khung nổi bật và hiển thị địa chỉ tại hộp địa chỉ nằm bên trái vùng nhập dữ liệu.
+- **Bối cảnh:** Tin học lớp 7, Bài 6 (Mục 1): xác định vị trí thao tác hiện tại của con trỏ trên trang tính.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 29; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 29, 30; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 30
+
 ### active operation
 - **Tiếng Việt:** Phép toán tích cực
 - **Chuyên ngành gốc:** Tin học
@@ -267,6 +275,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 10, Bài 9 (Mục 2.c): Giới thiệu công cụ phòng ngừa và bảo vệ hệ thống máy tính trước các phần mềm độc hại.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2.c), tr. 47; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2.c), tr. 47, 48
 
+### antivirus software
+- **Tiếng Việt:** Phần mềm chống virus
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** Specialized security software (such as Windows Defender, Kaspersky, or Bkav) designed to detect and remove viruses and block attacks from malware on a computer.
+- **Giải thích (VI):** Phần mềm bảo mật chuyên dụng (như Windows Defender, Kaspersky, Bkav) có chức năng phát hiện, tiêu diệt virus và ngăn chặn các cuộc tấn công từ phần mềm độc hại vào máy tính.
+- **Bối cảnh:** Tin học lớp 7, Bài 3 (Mục 2.c): sử dụng và duy trì chế độ bảo vệ của phần mềm chống virus để bảo vệ dữ liệu.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.a), tr. 15; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.b), tr. 15; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.c), tr. 15
+
 ### application icon
 - **Tiếng Việt:** Các biểu tượng ứng dụng (application; app)
 - **Chuyên ngành gốc:** Tin học
@@ -302,12 +318,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 04, B12 (Mục 1.b), tr. 59; SGK Tin học CS 11 KNTT, Chủ đề 04, B12 (Mục 1.c), tr. 59; SGK Tin học CS 11 KNTT, Chủ đề 04, B12 (Mục 1.d), tr. 59
 
 ### application software
-- **Tiếng Việt:** Phần mềm ứng dụng
+- **Tiếng Việt:** Phần mềm ứng dụng (Application Software)
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** A category of software designed directly for end users' everyday tasks and operational activities (such as Google Docs or Zoom), as distinguished from platform software used to build other products.
 - **Giải thích (VI):** Nhóm phần mềm phục vụ trực tiếp cho các hoạt động nghiệp vụ và công việc thông thường của người dùng (như Google Docs, Zoom), phân biệt với phần mềm nền tảng dùng để phát triển sản phẩm khác.
-- **Bối cảnh:** Tin học lớp 10, Bài 8 (Mục 3.b): Phân biệt phần mềm ứng dụng với phần mềm nền tảng khi phân loại dịch vụ đám mây.
-- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B8 (Mục 3.b), tr. 41; SGK Tin học 10 KNTT, Chủ đề 02, B8 (Mục 3.c), tr. 41
+- **Giải thích khác (SGK Tin học 7):** EN: Computer programs running within an operating system environment that enable users to perform specific tasks and typically process particular types of data (such as text, images, audio, or spreadsheets). / VI: Các chương trình máy tính chạy trong môi trường hệ điều hành, cho phép người sử dụng thực hiện những công việc cụ thể và thường xử lí những loại dữ liệu xác định (như văn bản, hình ảnh, âm thanh, bảng tính).
+- **Bối cảnh:**
+  - Tin học lớp 10, Bài 8 (Mục 3.b): Phân biệt phần mềm ứng dụng với phần mềm nền tảng khi phân loại dịch vụ đám mây.
+  - Tin học lớp 7, Bài 2 (Mục 2): nhận diện các chương trình phục vụ nhu cầu cụ thể chạy trực tuyến hoặc cài đặt trên đĩa cứng.
+- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B8 (Mục 3.b), tr. 41; SGK Tin học 10 KNTT, Chủ đề 02, B8 (Mục 3.c), tr. 41; SGK Tin học 7 KNTT, Chủ đề 01, B2, tr. 10; SGK Tin học 7 KNTT, Chủ đề 01, B2 (Mục 1), tr. 10; SGK Tin học 7 KNTT, Chủ đề 01, B2 (Mục 1), tr. 10, 11; SGK Tin học 7 KNTT, Chủ đề 01, B2 (Mục 2), tr. 12
 
 ### argument
 - **Tiếng Việt:** Đối số (argument)
@@ -460,6 +479,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Khác với hệ thống tích hợp AI có khả năng học và thích nghi, hệ thống tự động hoá truyền thống chỉ lặp lại các thao tác cố định đã cài đặt sẵn.
 - **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 01, B1 (Mục 1), tr. 5; SGK Tin học CS 12 KNTT, Chủ đề 01, B1 (Mục 1), tr. 6; SGK Tin học CS 12 KNTT, Chủ đề 01, B1 (Mục 1), tr. 6, 7; SGK Tin học ICT 12 KNTT, Chủ đề 01, B1 (Mục 1), tr. 5
 
+### automatic calculation
+- **Tiếng Việt:** Tính toán tự động (tự động tính toán)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A core feature of spreadsheet software that automatically updates formula results whenever values in referenced cell addresses change, and automatically adjusts relative references when formulas are copied.
+- **Giải thích (VI):** Chức năng cốt lõi của phần mềm bảng tính giúp kết quả công thức tự động cập nhật ngay khi giá trị tại các địa chỉ ô tham chiếu thay đổi, đồng thời tự động điều chỉnh địa chỉ tương đối khi sao chép công thức.
+- **Bối cảnh:** Tin học lớp 7, Bài 7 (Mục 2, 3): ưu điểm nổi bật khi sử dụng địa chỉ ô thay cho hằng số trực tiếp trong công thức và khi sao chép công thức.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B7 (Mục 1), tr. 35; SGK Tin học 7 KNTT, Chủ đề 04, B7 (Mục 2), tr. 35; SGK Tin học 7 KNTT, Chủ đề 04, B7 (Mục 2), tr. 35, 36
+
 ### average access time
 - **Tiếng Việt:** Thời gian truy cập trung bình
 - **Chuyên ngành gốc:** Tin học
@@ -467,6 +494,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Khoảng thời gian trung bình cần thiết để thực hiện thao tác đọc hoặc ghi thông tin trên bộ nhớ. Giảm thời gian truy cập bộ nhớ có ý nghĩa quan trọng trong việc nâng cao hiệu suất tổng thể của máy tính.
 - **Bối cảnh:** Tin học lớp 11, Bài 4 (Mục 1.b, 1.c): thông số đánh giá tốc độ đọc và ghi dữ liệu của bộ nhớ.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 1.b), tr. 23; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 1.c), tr. 23; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2), tr. 23
+
+### AVERAGE function
+- **Tiếng Việt:** AVERAGE (hàm AVERAGE)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A spreadsheet function with the syntax `AVERAGE(v1, v2, ...)` that calculates the arithmetic mean of numeric values in its argument list while ignoring text and empty cells.
+- **Giải thích (VI):** Hàm trong phần mềm bảng tính có cú pháp `AVERAGE(v1, v2, ...)`, dùng để tính giá trị trung bình cộng của các giá trị số trong danh sách tham số và bỏ qua ô văn bản hoặc ô trống.
+- **Bối cảnh:** Tin học lớp 7, Bài 8 (Mục 1, 2): hàm thông dụng dùng để tính trung bình cộng của các ô hoặc vùng dữ liệu số.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 1), tr. 39; SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 1), tr. 40; SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 2), tr. 41
 
 ### Avogadro
 - **Tiếng Việt:** Avogadro
@@ -648,12 +683,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 01, B4 (Mục 2), tr. 22; SGK Tin học 10 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 22; SGK Tin học 10 KNTT, Chủ đề 01, B4 (Mục 2.b), tr. 22
 
 ### binary search
-- **Tiếng Việt:** Thuật toán tìm kiếm nhị phân (tìm kiếm nhị phân)
+- **Tiếng Việt:** Thuật toán tìm kiếm nhị phân (tìm kiếm nhị phân; chia đôi)
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** Search method and algorithm applicable to a sequence sorted in a definite order, progressively narrowing the search interval at each iteration without scanning the entire sequence. For an ascending sequence, the algorithm compares the target value $K$ with the middle element $A[\text{mid}]$ to restrict the search interval to the first half (if $K < A[\text{mid}]$) or the second half (if $K > A[\text{mid}]$) until $A[\text{mid}] = K$ is found or the search interval becomes empty.
 - **Giải thích (VI):** Phương pháp và thuật toán tìm kiếm áp dụng cho dãy các phần tử đã sắp xếp theo thứ tự xác định, thực hiện thu hẹp dần phạm vi tìm kiếm sau mỗi bước lặp mà không cần duyệt toàn bộ dãy. Với dãy tăng dần, thuật toán so sánh giá trị cần tìm $K$ với phần tử ở giữa $A[\text{mid}]$ để thu hẹp phạm vi về nửa đầu (nếu $K < A[\text{mid}]$) hoặc nửa cuối (nếu $K > A[\text{mid}]$) cho đến khi tìm thấy $A[\text{mid}] = K$ hoặc phạm vi tìm kiếm rỗng.
-- **Bối cảnh:** Tin học lớp 11, Bài 19 (Mục 3): tìm kiếm hiệu quả trên dãy đã sắp xếp thông qua việc chia đôi phạm vi tìm kiếm.
-- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 2), tr. 91; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 3), tr. 91; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 3.a), tr. 91; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 3.b), tr. 91; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 3.c), tr. 92; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 3.c), tr. 93
+- **Giải thích khác (SGK Tin học 7):** EN: A search algorithm operating on a sorted list that compares the target value with the middle element at each iteration, either stopping upon a match or narrowing the search scope to the first half or second half of the list until the target is found or the search range becomes empty. / VI: Thuật toán tìm kiếm trên danh sách đã sắp xếp, thực hiện so sánh giá trị cần tìm với phần tử ở vị trí giữa tại mỗi bước lặp để dừng lại nếu bằng nhau hoặc thu hẹp phạm vi tìm kiếm xuống còn nửa trước hay nửa sau của danh sách cho đến khi tìm thấy hoặc hết vùng tìm kiếm.
+- **Bối cảnh:**
+  - Tin học lớp 11, Bài 19 (Mục 3): tìm kiếm hiệu quả trên dãy đã sắp xếp thông qua việc chia đôi phạm vi tìm kiếm.
+  - Tin học lớp 7, Bài 15 (Mục 1): tìm kiếm nhanh trên dãy dữ liệu đã sắp xếp theo thứ tự.
+- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 2), tr. 91; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 3), tr. 91; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 3.a), tr. 91; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 3.b), tr. 91; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 3.c), tr. 92; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 3.c), tr. 93; SGK Tin học 7 KNTT, Chủ đề 05, B15 (Mục 1), tr. 74; SGK Tin học 7 KNTT, Chủ đề 05, B15 (Mục 1), tr. 75; SGK Tin học 7 KNTT, Chủ đề 05, B15 (Mục 1), tr. 76
 
 ### bit
 - **Tiếng Việt:** Bit (chữ số nhị phân)
@@ -790,8 +828,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** Sorting algorithm that uses two nested loops (with $i$ running from $0$ to $n - 2$ and $j$ running from $0$ to $n - 2 - i$) to repeatedly compare adjacent elements $A[j]$ and $A[j+1]$ and swap them if they are out of order, progressively moving the largest elements to the end of the sequence over $n - 1$ passes.
 - **Giải thích (VI):** Thuật toán sắp xếp sử dụng hai vòng lặp lồng nhau (với $i$ chạy từ $0$ đến $n - 2$ và $j$ chạy từ $0$ đến $n - 2 - i$) để liên tục kiểm tra hai phần tử kề nhau $A[j]$ và $A[j+1]$ rồi đổi chỗ nếu chúng chưa đúng thứ tự, đưa dần các phần tử lớn nhất về cuối dãy sau $n - 1$ vòng lặp.
-- **Bối cảnh:** Tin học lớp 11, Bài 21 (Mục 3): ý tưởng mô phỏng và cài đặt hàm BubbleSort(A) dựa trên thao tác đổi chỗ hai phần tử liền kề.
-- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B21 (Mục 3), tr. 102; SGK Tin học CS 11 KNTT, Chủ đề 06, B21 (Mục 3), tr. 103
+- **Giải thích khác (SGK Tin học 7):** EN: A sorting algorithm that repeatedly compares and swaps adjacent elements whenever their values are out of the required order. When sorting in ascending order, it processes each position from the beginning to the end of the sequence by scanning adjacent pairs from the back toward the current position so the smallest remaining element bubbles up into place, stopping once all positions are settled or a pass makes no swaps. / VI: Thuật toán sắp xếp thực hiện bằng cách so sánh và hoán đổi nhiều lần các cặp phần tử liền kề nếu giá trị của chúng không đúng thứ tự. Khi sắp xếp tăng dần, thuật toán xét từng vị trí từ đầu đến cuối dãy bằng các vòng lặp duyệt cặp phần tử kề nhau từ cuối dãy lên vị trí đang xét để đưa phần tử nhỏ nhất còn lại nổi dần lên đúng chỗ, và dừng lại khi hoàn tất các vị trí hoặc không còn phép hoán đổi nào xảy ra.
+- **Bối cảnh:**
+  - Tin học lớp 11, Bài 21 (Mục 3): ý tưởng mô phỏng và cài đặt hàm BubbleSort(A) dựa trên thao tác đổi chỗ hai phần tử liền kề.
+  - Tin học lớp 7, Bài 16 (Mục 1): định nghĩa và mô phỏng nguyên lí hoán đổi các cặp phần tử liền kề để đưa phần tử nhỏ nhất nổi dần lên đầu dãy.
+- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B21 (Mục 3), tr. 102; SGK Tin học CS 11 KNTT, Chủ đề 06, B21 (Mục 3), tr. 103; SGK Tin học 7 KNTT, Chủ đề 05, B16, tr. 78; SGK Tin học 7 KNTT, Chủ đề 05, B16 (Mục 1), tr. 78; SGK Tin học 7 KNTT, Chủ đề 05, B16 (Mục 1), tr. 78, 79; SGK Tin học 7 KNTT, Chủ đề 05, B16 (Mục 1), tr. 80
 
 ### built-in function
 - **Tiếng Việt:** Hàm thiết kế sẵn
@@ -892,6 +933,40 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 12, Bài 13 (Mục 1): Tách biệt phần định dạng giao diện khỏi mã nguồn cấu trúc HTML của trang web.
 - **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 04, B13 (Mục 1), tr. 71; SGK Tin học CS 12 KNTT, Chủ đề 04, B13 (Mục 1), tr. 72; SGK Tin học CS 12 KNTT, Chủ đề 04, B13 (Mục 2), tr. 72; SGK Tin học ICT 12 KNTT, Chủ đề 04, B13 (Mục 1), tr. 71
 
+### cell address
+- **Tiếng Việt:** Địa chỉ của ô (địa chỉ ô)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** An identifier specifying the unique position of each cell on a worksheet formed by combining the column letter and row number (`<column name><row name>`), such as `A1`, `B3`, or `C10`.
+- **Giải thích (VI):** Định danh xác định vị trí duy nhất của mỗi ô trên trang tính theo quy tắc ghép tên cột với tên hàng (`<tên cột><tên hàng>`), ví dụ `A1`, `B3`, `C10`.
+- **Bối cảnh:** Tin học lớp 7, Bài 6 (Mục 1): dùng để xác định vị trí ô dữ liệu và tham chiếu trong các công thức, hàm bảng tính.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 29; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 30; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 30, 31
+
+### cell border formatting
+- **Tiếng Việt:** Kẻ đường viền ô và khung bao quanh vùng dữ liệu
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The configuration of line styles and colors for the outer frame (`Outline`) and inner gridlines (`Inside`) of a cell range in the `Border` tab of the `Format Cells` dialog, ensuring borders appear when printed since default screen gridlines are not printed.
+- **Giải thích (VI):** Thiết lập kiểu đường kẻ, màu sắc cho khung bao ngoài (`Outline`) và đường viền ô bên trong (`Inside`) của vùng dữ liệu tại trang `Border` trong cửa sổ `Format Cells`, giúp đường kẻ hiển thị rõ khi in vì lưới ô mặc định trên màn hình không in ra giấy.
+- **Bối cảnh:** Tin học lớp 7, Bài 10 (Mục 1.b): hoàn thiện trình bày bảng dữ liệu trước khi in ấn.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B10 (Mục 1.a), tr. 52; SGK Tin học 7 KNTT, Chủ đề 04, B10 (Mục 1.b), tr. 52
+
+### cell merging
+- **Tiếng Việt:** Gộp các ô của một vùng dữ liệu (gộp ô)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The operation of combining multiple adjacent cells in a selected range into a single cell using the `Home/Alignment/Merge & Center` command. The resulting cell retains the address and data of the leftmost first cell in the merged range, while data in the other cells is deleted.
+- **Giải thích (VI):** Thao tác kết hợp nhiều ô liền kề trong vùng dữ liệu đang chọn thành một ô duy nhất bằng lệnh `Home/Alignment/Merge & Center`. Ô kết quả mang địa chỉ và giữ lại dữ liệu của ô đầu tiên bên trái vùng gộp, còn dữ liệu tại các ô khác bị xoá.
+- **Bối cảnh:** Tin học lớp 7, Bài 9 (Mục 2.b): trình bày tiêu đề chung căn giữa phía trên nhiều cột hoặc nhóm dữ liệu trên bảng tính.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B9 (Mục 2.a), tr. 48; SGK Tin học 7 KNTT, Chủ đề 04, B9 (Mục 2.b), tr. 48
+
+### cell range
+- **Tiếng Việt:** Vùng dữ liệu (vùng)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A group of adjacent spreadsheet cells forming a rectangular block on a worksheet.
+- **Giải thích (VI):** Tập hợp nhiều ô tính liền kề tạo thành một khối hình chữ nhật trên trang tính.
+- **Bối cảnh:**
+  - Tin học lớp 7, Bài 6 (Mục 1): khối ô liền kề được đánh dấu chọn để định dạng, sao chép, in ấn hoặc truyền làm tham số hàm.
+  - *Lưu ý:* Phân biệt với vùng nhập dữ liệu trên thanh công cụ bảng tính và vùng tìm kiếm trong thuật toán tìm kiếm.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 28; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 29; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 30
+
 ### central processing unit
 - **Tiếng Việt:** Bộ xử lí trung tâm (CPU; bộ xử lí; Central Processing Unit)
 - **Chuyên ngành gốc:** Tin học
@@ -928,6 +1003,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Đơn vị cấu thành văn bản trong tin học (chữ cái, chữ số, dấu câu, kí hiệu), phân biệt với nhân vật văn học.
   - *Lưu ý:* Không nhầm với 'Nhân vật' (`character (literature)`) trong Ngữ văn.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 05, B24, tr. 119; SGK Tin học 10 KNTT, Chủ đề 05, B24 (Mục 1), tr. 119; SGK Tin học 10 KNTT, Chủ đề 05, B24 (Mục 1), tr. 120; SGK Tin học 6 KNTT, Chủ đề 01, B3, tr. 13; SGK Tin học 6 KNTT, Chủ đề 01, B3 (Mục 1), tr. 14; SGK Tin học 6 KNTT, Chủ đề 01, B3 (Mục 1), tr. 14, 15
+
+### character comparison convention
+- **Tiếng Việt:** Quy ước so sánh kí tự
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The ordering rule applied when searching and sorting text data, whereby a character appearing earlier in the alphabet is considered smaller than a character appearing later.
+- **Giải thích (VI):** Quy tắc xác định thứ tự lớn bé khi tìm kiếm và sắp xếp dữ liệu dạng chữ, theo đó kí tự đứng trước trong bảng chữ cái có giá trị nhỏ hơn kí tự đứng sau.
+- **Bối cảnh:** Tin học lớp 7, Bài 15 (Mục 1): đối chiếu thứ tự từ điển khi thực hiện tìm kiếm nhị phân trên danh sách tên người hoặc từ vựng.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 05, B15 (Mục 1), tr. 76; SGK Tin học 7 KNTT, Chủ đề 05, B15 (Mục 2), tr. 76; SGK Tin học 7 KNTT, Chủ đề 05, B15 (Mục 2), tr. 76, 77
 
 ### character formatting
 - **Tiếng Việt:** Định dạng kí tự
@@ -1037,15 +1120,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tin học ICT 12 KNTT, Chủ đề 06, B22 (Mục 1.b), tr. 119; SGK Tin học ICT 12 KNTT, Chủ đề 06, B22 (Mục 2), tr. 119; SGK Tin học ICT 12 KNTT, Chủ đề 06, B22 (Mục 2), tr. 119, 120
 
 ### cloud computing
-- **Tiếng Việt:** Điện toán đám mây
+- **Tiếng Việt:** Điện toán đám mây (Công nghệ đám mây)
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** A computing model for delivering Information Technology resources on demand over the Internet under a pay-as-you-go pricing policy, comprising three primary service models: SaaS, PaaS, and IaaS.
 - **Giải thích (VI):** Mô hình phân phối các tài nguyên Công nghệ thông tin theo nhu cầu qua Internet với chính sách thanh toán dựa trên mức độ sử dụng, bao gồm ba loại hình dịch vụ chủ yếu là SaaS, PaaS và IaaS.
 - **Giải thích khác (SGK Tin học CS 12):** EN: A model of delivering network-based computing resources, including diverse storage, processing services, and technological infrastructure on demand. In data science, this platform enables storing and analyzing big data without direct investment in costly hardware or physical infrastructure. / VI: Mô hình cung cấp tài nguyên tính toán qua mạng, bao gồm các dịch vụ lưu trữ, xử lí và cơ sở hạ tầng công nghệ đa dạng theo nhu cầu sử dụng. Trong Khoa học dữ liệu, nền tảng này cho phép triển khai lưu trữ và phân tích dữ liệu lớn mà không cần đầu tư trực tiếp vào phần cứng hay hạ tầng vật lí đắt tiền.
+- **Giải thích khác (SGK Tin học 7):** EN: Technology in which data, application software, and even operating systems are hosted on Internet servers, enabling users to store, back up remotely, and access data from any Internet-connected computer. / VI: Công nghệ đặt dữ liệu, phần mềm ứng dụng và thậm chí cả hệ điều hành trên các máy chủ trên Internet, cho phép lưu trữ, sao lưu từ xa và truy cập dữ liệu từ bất kì máy tính nào có kết nối Internet.
 - **Bối cảnh:**
   - Tin học lớp 10, Bài 8 (Mục 3.b): Khái niệm tổng quát và ba loại hình dịch vụ chủ yếu của điện toán đám mây.
   - Tin học lớp 12, Bài 27 (Mục 1): Nền tảng hạ tầng tính toán và lưu trữ hỗ trợ triển khai các dự án Khoa học dữ liệu.
-- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B8 (Mục 3.a), tr. 40; SGK Tin học 10 KNTT, Chủ đề 02, B8 (Mục 3.b), tr. 41; SGK Tin học 10 KNTT, Chủ đề 02, B8 (Mục 3.c), tr. 41; SGK Tin học CS 12 KNTT, Chủ đề 07, B27 (Mục 1), tr. 146
+  - Tin học lớp 7, Bài 3 (Mục 2.a): ứng dụng lưu trữ trực tuyến và sao lưu từ xa, phân tích ưu nhược điểm so với thiết bị lưu trữ vật lí.
+- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B8 (Mục 3.a), tr. 40; SGK Tin học 10 KNTT, Chủ đề 02, B8 (Mục 3.b), tr. 41; SGK Tin học 10 KNTT, Chủ đề 02, B8 (Mục 3.c), tr. 41; SGK Tin học CS 12 KNTT, Chủ đề 07, B27 (Mục 1), tr. 146; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 1), tr. 14; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2), tr. 14; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.a), tr. 14; SGK Tin học 7 KNTT, Bảng giải thích thuật ngữ, tr. 83
 
 ### cloud drive
 - **Tiếng Việt:** Ổ đĩa trực tuyến
@@ -1385,6 +1470,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Chỉ nhóm mẫu bố cục khối dựng sẵn (Content Blocks) trong Google Sites, phân biệt với phần tử mức khối (block-level element) trong CSS.
 - **Nguồn:** SGK Tin học ICT 12 KNTT, Chủ đề 07, B25, tr. 140; SGK Tin học ICT 12 KNTT, Chủ đề 07, B25, tr. 143
 
+### content slide
+- **Tiếng Việt:** Trang nội dung (Title and Content)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The slides following the title slide in a presentation, typically consisting of a slide title box at the top and a detailed content area below.
+- **Giải thích (VI):** Các trang chiếu tiếp theo sau trang tiêu đề trong bài trình chiếu, thường gồm khung tiêu đề trang ở phía trên và vùng trình bày chi tiết nội dung ở phía dưới.
+- **Bối cảnh:** Tin học lớp 7, Bài 11 (Mục 2): nhóm trang triển khai từng ý chính của bài báo cáo trình chiếu.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B11, tr. 55; SGK Tin học 7 KNTT, Chủ đề 04, B11 (Mục 1), tr. 56; SGK Tin học 7 KNTT, Chủ đề 04, B11 (Mục 2), tr. 56
+
+### content-filtering software
+- **Tiếng Việt:** Phần mềm chặn truy cập trang web xấu
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A software tool that monitors and blocks access to websites containing harmful or age-inappropriate content, helping protect users while browsing online.
+- **Giải thích (VI):** Công cụ phần mềm giúp kiểm soát và ngăn chặn việc truy cập vào các trang web chứa nội dung độc hại, không phù hợp lứa tuổi nhằm bảo vệ an toàn cho người sử dụng trên mạng.
+- **Bối cảnh:** Tin học lớp 7, Bài 5 (Mục 2): biện pháp kĩ thuật kết hợp với ý thức tự giác và sự hỗ trợ của người lớn để truy cập mạng an toàn.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 1), tr. 24; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 2), tr. 24; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 2), tr. 24, 25
+
 ### context menu
 - **Tiếng Việt:** Bảng chọn tắt
 - **Chuyên ngành gốc:** Tin học
@@ -1433,6 +1534,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 6, Bài 5 (Mục 2): Phân biệt bốn đặc điểm chính của Internet với các đặc điểm bổ sung của thông tin trực tuyến.
 - **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 02, B5 (Mục 2), tr. 24; SGK Tin học 6 KNTT, Chủ đề 02, B5 (Mục 3), tr. 24, 25
 
+### core functions of an operating system
+- **Tiếng Việt:** Chức năng cơ bản của hệ điều hành
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The three primary responsibilities of an operating system: managing hardware devices and data to coordinate smooth operation; providing and managing the user interface for human-computer interaction; and providing and managing the environment for running application software.
+- **Giải thích (VI):** Ba nhóm nhiệm vụ trọng tâm của hệ điều hành gồm: quản lí thiết bị phần cứng và dữ liệu để phối hợp hoạt động nhịp nhàng; cung cấp và quản lí giao diện trao đổi thông tin giữa người sử dụng với máy tính; cung cấp và quản lí môi trường chạy các phần mềm ứng dụng.
+- **Bối cảnh:** Tin học lớp 7, Bài 2 (Mục 1): xác định vai trò điều phối thiết bị, dữ liệu, giao diện và phần mềm ứng dụng của hệ điều hành.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B2, tr. 10; SGK Tin học 7 KNTT, Chủ đề 01, B2 (Mục 1), tr. 10; SGK Tin học 7 KNTT, Chủ đề 01, B2 (Mục 1), tr. 10, 11
+
+### core functions of social networks
+- **Tiếng Việt:** Chức năng cơ bản của mạng xã hội
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** Features that enable users to connect, socialize, share, and discuss topics of interest through personal profiles, private messages, comments, text/photo/video posts, and study or online gaming activities.
+- **Giải thích (VI):** Các tính năng giúp người sử dụng kết nối, giao lưu, chia sẻ và thảo luận những vấn đề quan tâm thông qua hồ sơ cá nhân, tin nhắn riêng tư, nhận xét, đăng tải ảnh, video, thảo luận học tập hoặc chơi trò chơi trực tuyến.
+- **Bối cảnh:** Tin học lớp 7, Bài 4 (Mục 1.b): nhận biết các phương thức giao tiếp và chia sẻ thông tin trên trang mạng xã hội.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 19; SGK Tin học 7 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 19, 20
+
 ### corner node
 - **Tiếng Việt:** Điểm neo góc (corner node)
 - **Chuyên ngành gốc:** Tin học
@@ -1440,6 +1557,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Điểm neo nối giữa các đoạn trên đối tượng đường (thể hiện bởi hình thoi trong Inkscape) không bắt buộc hai đường chỉ hướng của hai đoạn kề nhau phải cùng phương, tạo góc nhọn hoặc điểm gãy hướng.
 - **Bối cảnh:** Tin học lớp 10, Bài 14 (Mục 2): điểm nối tạo góc nhọn hoặc điểm gãy hướng trên đối tượng đường.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 04, B14 (Mục 1), tr. 76; SGK Tin học 10 KNTT, Chủ đề 04, B14 (Mục 2), tr. 76; SGK Tin học 10 KNTT, Chủ đề 04, B14 (Mục 2), tr. 76, 77
+
+### COUNT function
+- **Tiếng Việt:** COUNT (hàm COUNT)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A spreadsheet function with the syntax `COUNT(v1, v2, ...)` that counts the number of numeric values in the specified cells, ranges, or argument list while ignoring text and empty cells.
+- **Giải thích (VI):** Hàm trong phần mềm bảng tính có cú pháp `COUNT(v1, v2, ...)`, dùng để đếm số lượng các giá trị kiểu số có trong các ô, vùng hoặc danh sách tham số và bỏ qua ô văn bản hoặc ô trống.
+- **Bối cảnh:** Tin học lớp 7, Bài 8 (Mục 2): hàm thống kê số lượng ô chứa dữ liệu số trong vùng dữ liệu trên bảng tính.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 2), tr. 41; SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 2), tr. 42; SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 3), tr. 42
 
 ### creating questions in Google Forms
 - **Tiếng Việt:** Tạo câu hỏi trong Google Forms
@@ -1693,10 +1818,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Acts of psychological intimidation in cyberspace ranging from insults and humiliation to threats of exposing personal data, fabrication, defamation, extortion, or coercion into wrongdoing. Because it can occur persistently, anonymously, and before large commenting audiences, it inflicts severe psychological pressure that may lead victims to self-isolation, depression, and negative behaviors.
 - **Giải thích (VI):** Hành vi khủng bố tinh thần trên không gian mạng từ mức độ xỉ vả, lăng nhục đến đe doạ tung thông tin cá nhân, bịa đặt, vu khống, tống tiền hoặc ép buộc làm điều xấu. Do có thể diễn ra dai dẳng, ẩn danh và thu hút đông người bình luận, hành vi này gây áp lực tâm lí nặng nề, dễ dẫn đến tự cô lập, trầm cảm và các hành vi tiêu cực ở nạn nhân.
 - **Giải thích khác (SGK Tin học 6):** EN: Malicious behavior exploiting the online environment to deceive, lure, threaten, or intimidate victims, causing shame or fear and negatively affecting their health and psychology. / VI: Hành vi của kẻ xấu lợi dụng môi trường mạng để lừa đảo, dụ dỗ, đe doạ hoặc uy hiếp nạn nhân, gây cảm giác xấu hổ, sợ hãi và ảnh hưởng tiêu cực đến sức khoẻ, tâm lí.
+- **Giải thích khác (SGK Tin học 7):** EN: Aggressive, intentional online behavior aimed at threatening or harming others through actions such as spreading false rumors, posting disparaging messages on forums, or sharing someone's personal photos and information without consent. / VI: Hành vi hung hăng, cố ý đe doạ hoặc làm tổn thương người khác trên mạng thông qua các hình thức như phát tán tin đồn sai sự thật, để lại tin nhắn nói xấu trên diễn đàn hoặc chia sẻ ảnh, thông tin cá nhân của người khác khi chưa được đồng ý.
 - **Bối cảnh:**
   - Tin học lớp 10, Bài 9 (Mục 1): Nhận diện đặc điểm, tác hại tâm lí và các biện pháp phòng chống vấn nạn bắt nạt qua mạng.
   - Tin học lớp 6, Bài 9 (Mục 1, 2): Nguy cơ mất an toàn đối với người dùng khi giao tiếp với người lạ trên Internet, cần chia sẻ ngay với người lớn tin cậy khi gặp phải.
-- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 1), tr. 45; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2), tr. 45; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2), tr. 45, 46; SGK Tin học 6 KNTT, Chủ đề 04, B9 (Mục 1), tr. 42; SGK Tin học 6 KNTT, Chủ đề 04, B9 (Mục 1), tr. 43; SGK Tin học 6 KNTT, Chủ đề 04, B9 (Mục 2), tr. 43, 44
+  - Tin học lớp 7, Bài 5 (Mục 1, 3): nhận diện các hành vi bắt nạt qua mạng và tìm sự giúp đỡ từ bố mẹ, thầy cô khi gặp phải.
+- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 1), tr. 45; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2), tr. 45; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2), tr. 45, 46; SGK Tin học 6 KNTT, Chủ đề 04, B9 (Mục 1), tr. 42; SGK Tin học 6 KNTT, Chủ đề 04, B9 (Mục 1), tr. 43; SGK Tin học 6 KNTT, Chủ đề 04, B9 (Mục 2), tr. 43, 44; SGK Tin học 7 KNTT, Chủ đề 03, B5, tr. 23; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 1), tr. 24; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 2), tr. 25; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 3), tr. 26
 
 ### cybersecurity
 - **Tiếng Việt:** An ninh mạng
@@ -1740,6 +1867,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hành vi tự ý sao chép, lấy, phát tán hoặc sửa đổi trái phép các sản phẩm dữ liệu và phần mềm được số hoá, đặc biệt trên môi trường mạng, gây thiệt hại trực tiếp cho chủ sở hữu quyền tác giả.
 - **Bối cảnh:** Tin học lớp 10, Bài 11 (Mục 1): Cảnh báo nguy cơ xâm phạm quyền sở hữu đối với các sản phẩm số hoá và phần mềm trên Internet.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 03, B11 (Mục 1), tr. 56; SGK Tin học 10 KNTT, Chủ đề 03, B11 (Mục 1), tr. 56, 57
+
+### data backup
+- **Tiếng Việt:** Sao lưu dữ liệu
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The process of creating copies of files and folders and storing them on a secondary storage device or location so that data can be restored if the original is lost or damaged.
+- **Giải thích (VI):** Việc tạo ra bản sao của các tệp và thư mục rồi lưu trữ lên một thiết bị hoặc vị trí dự phòng để có thể khôi phục lại dữ liệu khi bản gốc bị mất hoặc bị hỏng.
+- **Bối cảnh:** Tin học lớp 7, Bài 3 (Mục 2.a): biện pháp dự phòng thường xuyên giúp phục hồi dữ liệu khi xảy ra sự cố với bản gốc.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 1), tr. 14; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2), tr. 14; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.a), tr. 14
 
 ### data backup copy
 - **Tiếng Việt:** Bản sao lưu dữ liệu dự phòng
@@ -1789,6 +1924,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 12, Bài 25 (Mục 1): Cơ sở thông tin mà thuật toán Học máy tự rút trích từ dữ liệu thay cho quy tắc lập trình thủ công.
 - **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 07, B25 (Mục 1), tr. 135; SGK Tin học CS 12 KNTT, Bảng giải thích thuật ngữ, tr. 164
 
+### data formatting
+- **Tiếng Việt:** Định dạng dữ liệu
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The configuration of how data is visually presented (such as font, color, alignment, or number and date display formats) without altering its underlying value, helping users easily observe and distinguish different data.
+- **Giải thích (VI):** Việc thiết lập cách thức thể hiện của dữ liệu (phông chữ, màu sắc, căn lề, khuôn dạng hiển thị số hoặc ngày tháng) mà không làm thay đổi giá trị gốc, giúp người dùng dễ quan sát và phân biệt các dữ liệu khác nhau.
+- **Bối cảnh:** Tin học lớp 7, Bài 6 (Mục 2.c), Bài 9 (Mục 1): trình bày dữ liệu trên trang tính rõ ràng, trực quan và giữ nguyên giá trị lưu trữ.
+- **Nguồn:** SGK Tin học 7 KNTT, Bảng giải thích thuật ngữ, tr. 83; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 2), tr. 31; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 2.c), tr. 32
+
 ### data independence
 - **Tiếng Việt:** Tính độc lập dữ liệu (tính độc lập)
 - **Chuyên ngành gốc:** Tin học
@@ -1804,6 +1947,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Mô đun con đảm nhiệm việc đọc và tách dữ liệu từ tệp đầu vào để cung cấp cho bước xử lí của chương trình. Trong bài toán tính điểm vận động viên, mô đun này được thiết lập bằng hàm `nhapDL()` nhận tham số là tên tệp dữ liệu, tách phần tử đầu mỗi dòng làm mã số vận động viên đưa vào mảng `DS`, phần còn lại làm dãy điểm đưa vào mảng `Diem` và trả về hai mảng đó.
 - **Bối cảnh:** Tin học lớp 11, Bài 29 (Mục b): Thiết kế hàm nhapDL() đọc dữ liệu vận động viên từ tệp SeaGames.inp.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B29, tr. 133
+
+### data management
+- **Tiếng Việt:** Quản lí dữ liệu
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The activity of organizing, arranging, adding, renaming, copying, moving, and deleting files and folders on storage drives to enable fast and convenient data retrieval.
+- **Giải thích (VI):** Hoạt động tổ chức, sắp xếp, bổ sung, đổi tên, sao chép, di chuyển và xoá bỏ các tệp, thư mục trên ổ cứng nhằm giúp việc tra cứu, tìm kiếm dữ liệu nhanh chóng khi cần.
+- **Bối cảnh:** Tin học lớp 7, Bài 3 (Mục 3): thực hành các thao tác tổ chức cây thư mục và tệp trên ổ đĩa máy tính.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 3), tr. 16; SGK Tin học 7 KNTT, Bảng giải thích thuật ngữ, tr. 83
 
 ### data manipulation
 - **Tiếng Việt:** Thao tác dữ liệu
@@ -1860,6 +2011,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bước tiền xử lí trong quy trình xây dựng ứng dụng Học máy (tương ứng với làm sạch dữ liệu), bao gồm các thao tác loại bỏ dữ liệu nhiễu, bổ sung giá trị bị thiếu, chuyển đổi dữ liệu về định dạng phù hợp và giảm kích thước dữ liệu khi cần thiết. Cùng với thu thập dữ liệu, bước này thường thực hiện lặp lại nhiều lần để tạo ra bộ dữ liệu đạt chuẩn cho huấn luyện và kiểm thử.
 - **Bối cảnh:** Tin học lớp 12, Bài 25 (Mục 1): Bước thứ hai trong quy trình 5 bước xây dựng ứng dụng Học máy.
 - **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 07, B25 (Mục 1), tr. 135; SGK Tin học CS 12 KNTT, Bảng giải thích thuật ngữ, tr. 164
+
+### data protection
+- **Tiếng Việt:** Bảo vệ dữ liệu
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A set of activities and measures (such as data backup, account password protection, and antivirus software use) aimed at safeguarding data against loss, corruption, or unauthorized access.
+- **Giải thích (VI):** Hoạt động và tập hợp các biện pháp (như sao lưu dữ liệu, đặt mật khẩu tài khoản, dùng phần mềm chống virus) nhằm giữ an toàn cho dữ liệu, ngăn ngừa dữ liệu bị mất, bị hỏng hoặc bị truy cập trái phép.
+- **Bối cảnh:** Tin học lớp 7, Bài 3 (Mục 2): mục tiêu và các giải pháp phòng ngừa rủi ro khi lưu trữ dữ liệu trên máy tính và Internet.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 1), tr. 14; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2), tr. 14; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.a), tr. 14; SGK Tin học 7 KNTT, Bảng giải thích thuật ngữ, tr. 83
 
 ### data redundancy
 - **Tiếng Việt:** Dư thừa dữ liệu
@@ -2161,6 +2320,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với cơ sở dữ liệu (chỉ là tập hợp dữ liệu) và hệ quản trị cơ sở dữ liệu (chỉ là phần mềm quản trị).
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 04, B12 (Mục 2), tr. 61; SGK Tin học CS 11 KNTT, Chủ đề 04, B12 (Mục 3.a), tr. 61; SGK Tin học CS 11 KNTT, Chủ đề 04, B12 (Mục 3.b), tr. 62
 
+### date formatting
+- **Tiếng Việt:** Định dạng dữ liệu ngày tháng
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The configuration in the `Date` category of the `Format Cells` dialog that changes the on-screen date display format (for example, from the default `mm/dd/yyyy` to `dd/mm/yyyy`), while data entry still follows the software's default order.
+- **Giải thích (VI):** Thiết lập trong mục `Date` của cửa sổ `Format Cells` để thay đổi khuôn dạng hiển thị ngày tháng trên màn hình (ví dụ từ mặc định `mm/dd/yyyy` sang `dd/mm/yyyy`), trong khi thao tác nhập dữ liệu vẫn tuân theo thứ tự mặc định của phần mềm.
+- **Bối cảnh:** Tin học lớp 7, Bài 9 (Mục 1.c): chuyển đổi cách hiển thị ngày tháng trên bảng tính sang kiểu `dd/mm/yyyy` quen thuộc tại Việt Nam.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B9 (Mục 1.a), tr. 46; SGK Tin học 7 KNTT, Chủ đề 04, B9 (Mục 1.b), tr. 46; SGK Tin học 7 KNTT, Chủ đề 04, B9 (Mục 1.c), tr. 46
+
 ### DBMS installation and updating
 - **Tiếng Việt:** Cài đặt và cập nhật các hệ QTCSDL
 - **Chuyên ngành gốc:** Tin học
@@ -2263,6 +2430,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 11, Bài 5 (Mục 2.b): bước xác thực và trao đổi tham số bắt buộc trước lần kết nối Bluetooth đầu tiên.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B5 (Mục 2.b), tr. 31
 
+### device safety
+- **Tiếng Việt:** An toàn thiết bị
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A set of rules for proper computer use and maintenance (reading manufacturer instructions, connecting cables to matching ports before powering on, and keeping the workspace clean and dry) to prevent hardware damage and ensure electrical and data safety.
+- **Giải thích (VI):** Hệ thống quy tắc sử dụng và bảo quản máy tính đúng cách (đọc kĩ hướng dẫn của nhà sản xuất, kết nối đúng cổng trước khi cấp nguồn điện, giữ nơi làm việc gọn gàng, sạch sẽ, khô ráo) nhằm phòng tránh sự cố phần cứng, đảm bảo an toàn điện và an toàn dữ liệu.
+- **Bối cảnh:** Tin học lớp 7, Bài 1 (Mục 2): nguyên tắc lắp đặt và thao tác an toàn khi kết nối, sử dụng các thiết bị máy tính.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 2), tr. 8; SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 2), tr. 8, 9
+
 ### dial-up modem
 - **Tiếng Việt:** Modem quay số
 - **Chuyên ngành gốc:** Tin học
@@ -2278,6 +2453,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Dạng dữ liệu âm thanh đã qua số hoá bằng cách biểu diễn xấp xỉ tín hiệu âm thanh tương tự thành dãy giá trị số rời rạc để máy tính lưu trữ và xử lí hiệu quả.
 - **Bối cảnh:** Tin học lớp 10, Bài 6 (Mục 1): Dạng lưu trữ số hoá của âm thanh trong máy tính.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 01, B6, tr. 28; SGK Tin học 10 KNTT, Chủ đề 01, B6 (Mục 1), tr. 28; SGK Tin học 10 KNTT, Chủ đề 01, B6 (Mục 1.a), tr. 28
+
+### digital camcorder
+- **Tiếng Việt:** Máy ghi hình kĩ thuật số
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** An input device that captures digital images and video while also providing built-in storage and basic image and video processing functions.
+- **Giải thích (VI):** Thiết bị vào thu nhận hình ảnh và video dạng số, đồng thời tích hợp khả năng lưu trữ và thực hiện một số chức năng xử lí ảnh, xử lí video đơn giản.
+- **Bối cảnh:** Tin học lớp 7, Bài 1 (Mục 1): ví dụ thiết bị vào có thêm chức năng lưu trữ và xử lí dữ liệu.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 7
 
 ### digital citizen
 - **Tiếng Việt:** Công dân số
@@ -2425,6 +2608,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Chỉ thời gian chuyển màu điểm ảnh của màn hình hiển thị, phân biệt với thời gian phản hồi của hệ điều hành hoặc mạng máy tính.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B5 (Mục 1.a), tr. 28; SGK Tin học CS 11 KNTT, Chủ đề 01, B5 (Mục 1.b), tr. 28; SGK Tin học CS 11 KNTT, Chủ đề 01, B5 (Mục 1.b), tr. 28, 29
 
+### distinction between operating systems and application software
+- **Tiếng Việt:** Phân biệt hệ điều hành và phần mềm ứng dụng
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The fundamental operational difference in software roles: an operating system directly manages hardware, must be installed first, and provides the platform environment, whereas application software is installed optionally as needed, runs on top of the operating system, and interacts with hardware through it.
+- **Giải thích (VI):** Sự khác nhau cốt lõi về vai trò vận hành: hệ điều hành trực tiếp quản lí phần cứng, bắt buộc cài đặt đầu tiên và tạo môi trường nền tảng; phần mềm ứng dụng cài đặt tuỳ nhu cầu người dùng, chạy phụ thuộc trên hệ điều hành và tương tác với phần cứng thông qua hệ điều hành.
+- **Bối cảnh:** Tin học lớp 7, Bài 2 (Mục 2): so sánh hệ điều hành và phần mềm ứng dụng theo mối quan hệ với phần cứng, tính bắt buộc và sự phụ thuộc.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B2 (Mục 2), tr. 12
+
 ### distributed database
 - **Tiếng Việt:** Cơ sở dữ liệu phân tán (CSDL phân tán)
 - **Chuyên ngành gốc:** Tin học
@@ -2442,6 +2633,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tin học lớp 11, Bài 12 (Mục 3.b): Khái niệm và cấu trúc của hệ cơ sở dữ liệu phân tán trên mạng máy tính.
   - *Lưu ý:* Phân biệt với hệ CSDL tập trung nhưng xử lí dữ liệu phân tán (mô hình máy chủ tệp), nơi toàn bộ CSDL chỉ đặt trên một máy chủ tệp duy nhất.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 04, B12 (Mục 3.b), tr. 62; SGK Tin học CS 11 KNTT, Chủ đề 04, B12 (Mục 3.b), tr. 62, 63; SGK Tin học CS 11 KNTT, Chủ đề 04, B12 (Mục 3.b), tr. 63
+
+### diversity of input-output devices
+- **Tiếng Việt:** Sự đa dạng của thiết bị vào – ra
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The wide variety in types, designs, and functions of input-output devices tailored to meet different user needs. Many devices integrate both input and output capabilities or perform additional data storage and processing functions.
+- **Giải thích (VI):** Đặc điểm phong phú về chủng loại, thiết kế và công dụng của các thiết bị vào – ra nhằm đáp ứng những nhu cầu khác nhau của người sử dụng. Nhiều thiết bị tích hợp cả hai chức năng vào và ra hoặc thực hiện thêm chức năng lưu trữ, xử lí dữ liệu.
+- **Bối cảnh:** Tin học lớp 7, Bài 1 (Mục 1): nhận biết các thiết bị vào – ra đa năng ngoài bàn phím, chuột và màn hình thông dụng.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 6; SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 6, 7
 
 ### document formatting
 - **Tiếng Việt:** Định dạng văn bản
@@ -2519,6 +2718,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 11, Bài 5 (Mục 1.b): phân loại máy in cơ học qua băng mực chuyên dùng cho hoá đơn nhiều liên.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B5 (Mục 1.a), tr. 28; SGK Tin học CS 11 KNTT, Chủ đề 01, B5 (Mục 1.b), tr. 28; SGK Tin học CS 11 KNTT, Chủ đề 01, B5 (Mục 1.b), tr. 28, 29
 
+### dual nature of social networks
+- **Tiếng Việt:** Tính hai mặt của mạng xã hội
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The characteristic of offering positive benefits (connecting friends, updating information, and learning knowledge and skills) while posing negative risks when misused (such as spreading fake news, cyberbullying, or violating legal and minimum-age regulations).
+- **Giải thích (VI):** Đặc điểm vừa mang lại lợi ích tích cực (kết nối bạn bè, tiếp nhận thông tin, học hỏi kiến thức, kĩ năng) vừa gây hậu quả tiêu cực nếu sử dụng sai mục đích (như đăng tin giả, đe doạ, bắt nạt hoặc vi phạm quy định pháp luật và độ tuổi tham gia).
+- **Bối cảnh:** Tin học lớp 7, Bài 4 (Mục 1.b): cân nhắc độ tuổi quy định (phổ biến từ 13 tuổi trở lên) và trách nhiệm khi tham gia mạng xã hội.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 19; SGK Tin học 7 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 19, 20
+
 ### Duplicate display mode
 - **Tiếng Việt:** Duplicate (Sao chép)
 - **Chuyên ngành gốc:** Tin học
@@ -2526,6 +2733,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chế độ hiển thị đa màn hình trong đó màn hình mở rộng tái hiện đồng thời bản sao nội dung giống hệt màn hình máy tính, thường với kích thước hiển thị lớn hơn.
 - **Bối cảnh:** Tin học lớp 12, Bài 22 (Mục 2, Nhiệm vụ 1): Chế độ trình chiếu đồng thời cùng một nội dung trên cả màn hình máy tính và màn hình mở rộng.
 - **Nguồn:** SGK Tin học ICT 12 KNTT, Chủ đề 06, B22 (Mục 2), tr. 120; SGK Tin học ICT 12 KNTT, Chủ đề 06, B22 (Mục 2), tr. 120, 121
+
+### dynamic presentation effect
+- **Tiếng Việt:** Hiệu ứng động
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The manner and timing in which slides and slide objects appear during a slide show, encompassing both slide transitions and object animations to make presentations engaging and effective in conveying information.
+- **Giải thích (VI):** Cách thức và thời điểm xuất hiện của các trang chiếu cũng như các đối tượng trên trang khi trình chiếu, bao gồm hiệu ứng chuyển trang chiếu và hiệu ứng cho đối tượng nhằm giúp bài trình bày sinh động, thu hút và truyền đạt thông tin hiệu quả.
+- **Bối cảnh:** Tin học lớp 7, Bài 13 (Mục 1): sử dụng có chọn lọc các hiệu ứng chuyển động để tăng hiệu quả thuyết trình.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B13, tr. 68; SGK Tin học 7 KNTT, Chủ đề 04, B13 (Mục 1), tr. 68; SGK Tin học 7 KNTT, Chủ đề 04, B13 (Mục 1), tr. 69
 
 ### dynamic routing
 - **Tiếng Việt:** Định tuyến động
@@ -2726,6 +2941,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 10, Bài 29 (Mục 1, Mục 2): nhận biết và kiểm soát các mã lỗi ngoại lệ khi thực thi chương trình Python.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 05, B29 (Mục 1), tr. 142; SGK Tin học 10 KNTT, Chủ đề 05, B29 (Mục 2), tr. 143; SGK Tin học 10 KNTT, Bảng giải thích thuật ngữ, tr. 167
 
+### executable program file
+- **Tiếng Việt:** Tệp chương trình máy tính (tệp chương trình)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A file storing a computer program on a storage device (typically having extensions such as .exe, .com, .bat, or .msi in Windows), which should not be arbitrarily moved or deleted to avoid disrupting system or software operation.
+- **Giải thích (VI):** Tệp lưu trữ chương trình máy tính trên thiết bị nhớ (trong hệ điều hành Windows thường có phần mở rộng .exe, .com, .bat, .msi), cần giữ nguyên vị trí và không tự ý xoá để tránh gây lỗi hoạt động cho máy tính.
+- **Bối cảnh:** Tin học lớp 7, Bài 3 (Mục 1): nhận diện phần mở rộng của tệp chương trình trên Windows và lưu ý an toàn khi quản lí tệp.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 1), tr. 14; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2), tr. 14; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.a), tr. 14
+
 ### execution time unit
 - **Tiếng Việt:** Đơn vị thời gian (đơn vị thời gian thực hiện chương trình)
 - **Chuyên ngành gốc:** Tin học
@@ -2888,6 +3111,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Đơn vị lưu trữ thông tin trên thiết bị nhớ của máy tính.
 - **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 01, B3 (Mục 1), tr. 15; SGK Tin học 6 KNTT, Chủ đề 01, B3 (Mục 2), tr. 15; SGK Tin học 6 KNTT, Chủ đề 01, B3 (Mục 2), tr. 15, 16
 
+### file and folder naming
+- **Tiếng Việt:** Đặt tên tệp và thư mục
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The practice of classifying data systematically and assigning simple, clear, memorable names to files and folders that reflect their contents to facilitate fast retrieval and group collaboration.
+- **Giải thích (VI):** Quy tắc phân loại dữ liệu có trật tự và đặt tên cho tệp, thư mục một cách đơn giản, dễ hiểu, dễ nhớ, phản ánh đúng nội dung bên trong để thuận tiện tìm kiếm và làm việc nhóm.
+- **Bối cảnh:** Tin học lớp 7, Bài 3 (Mục 1): nguyên tắc xây dựng cây thư mục và đặt tên tệp khoa học khi lưu trữ dữ liệu.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B3, tr. 13; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 1), tr. 13; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 1), tr. 13, 14
+
 ### File Explorer
 - **Tiếng Việt:** File Explorer
 - **Chuyên ngành gốc:** Tin học
@@ -2895,6 +3126,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tiện ích quản lí tệp và thư mục tích hợp sẵn trong hệ điều hành Windows, cho phép người dùng xem cấu trúc lưu trữ và thực hiện các thao tác tạo mới, đổi tên, di chuyển, xoá hoặc mở tệp và thư mục.
 - **Bối cảnh:** Tin học lớp 11, Bài 2 (Nhiệm vụ 1): Công cụ thực hành quản lí tệp và thư mục trên hệ điều hành Windows.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B2, tr. 11; SGK Tin học CS 11 KNTT, Chủ đề 01, B2, tr. 11, 12; SGK Tin học CS 11 KNTT, Chủ đề 01, B2, tr. 13
+
+### file extension
+- **Tiếng Việt:** Phần mở rộng (phần mở rộng của tên tệp)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The sequence of characters following the last period in a filename (such as .docx, .jpg, .exe, or .sb3), used to identify the file type and indicate which application software can open or process the file.
+- **Giải thích (VI):** Dãy kí tự đứng sau dấu chấm cuối cùng trong tên tệp (như .docx, .jpg, .exe, .sb3), dùng để nhận biết loại tệp và xác định phần mềm ứng dụng có thể mở hoặc xử lí tệp đó.
+- **Bối cảnh:** Tin học lớp 7, Bài 2 (Mục 2): dựa vào phần mở rộng của tên tệp để nhận diện loại tệp và phần mềm tương thích.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B2 (Mục 1), tr. 11; SGK Tin học 7 KNTT, Chủ đề 01, B2 (Mục 2), tr. 11; SGK Tin học 7 KNTT, Chủ đề 01, B2 (Mục 2), tr. 11, 12
+
+### file format
+- **Tiếng Việt:** Loại tệp (định dạng tệp)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A classification of files based on the storage format of specific information types (text, images, audio, or programs), identified by the file extension and associated with compatible application software.
+- **Giải thích (VI):** Phân loại tệp dữ liệu theo định dạng lưu trữ của từng loại thông tin (văn bản, hình ảnh, âm thanh, chương trình), nhận biết thông qua phần mở rộng của tên tệp và gắn với các phần mềm ứng dụng hỗ trợ xử lí tương ứng.
+- **Bối cảnh:** Tin học lớp 7, Bài 2 (Mục 2): ghép nối các loại tệp dữ liệu với phần mở rộng và phần mềm ứng dụng phù hợp.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B2 (Mục 2), tr. 11; SGK Tin học 7 KNTT, Chủ đề 01, B2 (Mục 2), tr. 12
 
 ### file fragmentation
 - **Tiếng Việt:** Phân mảnh
@@ -2905,6 +3152,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tin học lớp 11, Bài 2 (Nhiệm vụ 2): Nguyên nhân làm giảm tốc độ truy cập đĩa cứng từ tính và lí do cần hợp mảnh đĩa.
   - *Lưu ý:* Hiện tượng phân mảnh tệp lưu trữ trên đĩa cứng từ tính, phân biệt với phân mảnh gói tin mạng hoặc sinh sản phân mảnh trong sinh học.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B2, tr. 13; SGK Tin học CS 11 KNTT, Chủ đề 01, B2, tr. 13, 14
+
+### file manager
+- **Tiếng Việt:** Ứng dụng quản lí tệp (File Explorer; Windows Explorer)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** An operating system utility used to display the contents of drives and folders and assist users in organizing and managing files and folders on a computer.
+- **Giải thích (VI):** Công cụ phần mềm của hệ điều hành dùng để hiển thị nội dung các ổ đĩa, thư mục và hỗ trợ người sử dụng tổ chức, sắp xếp các thư mục và tệp trên ổ cứng.
+- **Bối cảnh:** Tin học lớp 7, Bài 3 (Mục 3): công cụ quản lí tệp và thư mục trên hệ điều hành Windows (File Explorer trên Windows 10, Windows Explorer từ Windows 7 trở về trước).
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.c), tr. 16; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 3), tr. 16; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 3.a), tr. 16, 17
 
 ### file object
 - **Tiếng Việt:** Đối tượng tệp
@@ -3103,6 +3358,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 12, Bài 6 (Mục 2.a): Hướng dẫn các biện pháp tự rèn luyện thói quen giao tiếp văn minh trong môi trường số.
 - **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 03, B6 (Mục 2.a), tr. 37; SGK Tin học CS 12 KNTT, Chủ đề 03, B6 (Mục 2.b), tr. 37, 38; SGK Tin học ICT 12 KNTT, Chủ đề 03, B6 (Mục 2.a), tr. 37
 
+### formula bar
+- **Tiếng Việt:** Vùng nhập dữ liệu
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The bar located above the worksheet grid in a spreadsheet software interface where users directly enter or edit cell data and formulas.
+- **Giải thích (VI):** Thanh công cụ nằm phía trên khu vực trang tính trong giao diện phần mềm bảng tính, là nơi thực hiện trực tiếp việc nhập hoặc chỉnh sửa dữ liệu và công thức của ô tính.
+- **Bối cảnh:** Tin học lớp 7, Bài 6 (Mục 1, 2.a): nhận diện thành phần giao diện dùng để nhập và sửa dữ liệu trực tiếp trong bảng tính.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 29; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 29, 30; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 2.a), tr. 31
+
+### formula copying
+- **Tiếng Việt:** Sao chép công thức
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The operation of duplicating a cell containing a formula to another location on a worksheet, during which the software automatically adjusts referenced cell addresses to preserve their relative positions to the formula cell.
+- **Giải thích (VI):** Thao tác nhân bản ô chứa công thức sang vị trí khác trên trang tính, trong đó phần mềm tự động điều chỉnh các địa chỉ ô tham chiếu để giữ nguyên vị trí tương đối so với ô chứa công thức.
+- **Bối cảnh:** Tin học lớp 7, Bài 7 (Mục 3): tính toán nhanh hàng loạt dòng hoặc cột dữ liệu có cùng quy tắc trên bảng tính.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B7 (Mục 3), tr. 36; SGK Tin học 7 KNTT, Chủ đề 04, B7 (Mục 3), tr. 37; SGK Tin học 7 KNTT, Chủ đề 04, B7 (Mục 4), tr. 37
+
 ### fragment identifier
 - **Tiếng Việt:** Mã định danh đoạn
 - **Chuyên ngành gốc:** Tin học
@@ -3124,15 +3395,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B3 (Mục 1), tr. 15; SGK Tin học CS 11 KNTT, Chủ đề 01, B3 (Mục 1.a), tr. 16; SGK Tin học CS 11 KNTT, Chủ đề 01, B3 (Mục 1.b), tr. 16
 
 ### function (computer science)
-- **Tiếng Việt:** Hàm (chương trình con)
+- **Tiếng Việt:** Hàm (chương trình con; hàm trong bảng tính; hàm số)
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** A group of related statements packaged as an independent unit (subprogram) in Python to perform a specific task and be reused multiple times via function calls.
 - **Giải thích (VI):** Nhóm các câu lệnh có liên quan được đóng gói thành một đơn vị độc lập (chương trình con) trong Python để thực hiện một tác vụ cụ thể và có thể tái sử dụng nhiều lần thông qua lời gọi hàm.
+- **Giải thích khác (SGK Tin học 7):** EN: A predefined formula or combination of formulas in spreadsheet software, specified by its name, purpose, and arguments to perform calculations on given data values. / VI: Công thức hoặc sự kết hợp nhiều công thức đã định nghĩa sẵn từ trước trong phần mềm bảng tính, xác định bởi tên hàm, ý nghĩa hàm và các tham số để thực hiện tính toán với dữ liệu cụ thể.
 - **Bối cảnh:**
   - Tin học lớp 10, Bài 26 (Mục 1): khái niệm hàm và vai trò của chương trình con trong tổ chức chương trình Python.
+  - Tin học lớp 7, Bài 8 (Mục 1): công cụ tính toán định nghĩa sẵn giúp viết công thức ngắn gọn và chính xác trên bảng tính.
   - *Lưu ý:* Trong Tin học, hàm là đơn vị chương trình con thực thi tác vụ lập trình, phân biệt với khái niệm hàm số trong Toán học.
   - *Lưu ý:* Không nhầm với 'Hàm số' (`function`) trong Toán học.
-- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 05, B26, tr. 127; SGK Tin học 10 KNTT, Chủ đề 05, B26 (Mục 1), tr. 127; SGK Tin học 10 KNTT, Chủ đề 05, B26 (Mục 1), tr. 127, 128
+  - *Lưu ý:* Trong bảng tính là công thức định nghĩa sẵn như `SUM`, `AVERAGE`; phân biệt với hàm số trong toán học và chương trình con (function) trong lập trình.
+- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 05, B26, tr. 127; SGK Tin học 10 KNTT, Chủ đề 05, B26 (Mục 1), tr. 127; SGK Tin học 10 KNTT, Chủ đề 05, B26 (Mục 1), tr. 127, 128; SGK Tin học 7 KNTT, Chủ đề 04, B8, tr. 39; SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 1), tr. 39; SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 1), tr. 39, 40
 
 ### function definition
 - **Tiếng Việt:** Định nghĩa hàm với từ khoá def
@@ -3151,6 +3425,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tin học lớp 10, Bài 26 (Mục 1): cách gọi tổng quát dữ liệu truyền trong cặp ngoặc tròn của câu lệnh gọi hàm Python.
   - *Lưu ý:* Ở Bài 26, SGK gọi chung các thành phần trong ngoặc khi gọi hàm là tham số của hàm; sang Bài 27, khái niệm này được tách rõ thành tham số (parameter) trong khai báo hàm và đối số (argument) khi gọi hàm.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 05, B26 (Mục 1), tr. 128; SGK Tin học 10 KNTT, Chủ đề 05, B26 (Mục 2), tr. 128; SGK Tin học 10 KNTT, Chủ đề 05, B26 (Mục 2), tr. 128, 129
+
+### game controller
+- **Tiếng Việt:** Bộ điều khiển game
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A specialized input device used to send commands to a computer to control objects in video games.
+- **Giải thích (VI):** Thiết bị vào chuyên dụng dùng để đưa mệnh lệnh vào máy tính nhằm điều khiển các đối tượng trong trò chơi trên máy tính.
+- **Bối cảnh:** Tin học lớp 7, Bài 1 (Mục 1): ví dụ thiết bị vào chuyên dụng phục vụ trò chơi trên máy tính.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 6; SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 6, 7
 
 ### game development
 - **Tiếng Việt:** Phát triển games
@@ -3209,17 +3491,6 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Từ khoá trong Python dùng để khai báo lại một biến bên ngoài ở ngay trong thân hàm, cho phép các câu lệnh bên trong hàm tác động và làm thay đổi trực tiếp giá trị của biến toàn cục đó.
 - **Bối cảnh:** Tin học lớp 10, Bài 28 (Mục 2): mở rộng phạm vi tác động của hàm lên biến đã khai báo bên ngoài hàm.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 05, B28 (Mục 2), tr. 138; SGK Tin học 10 KNTT, Chủ đề 05, B28 (Mục 2), tr. 138, 139
-
-### Global Positioning System
-- **Tiếng Việt:** Hệ thống định vị toàn cầu (GPS)
-- **Chuyên ngành gốc:** Tin học
-- **Giải thích (EN):** A satellite-based system that continuously broadcasts radio signals to Earth, enabling receiving devices to process signals and determine precise geographic coordinates. It is widely applied in route navigation and automated guidance for autonomous vehicles.
-- **Giải thích (VI):** Hệ thống mạng vệ tinh liên tục phát tín hiệu sóng xuống mặt đất để các thiết bị thu định vị xử lí và xác định chính xác toạ độ địa lí. Hệ thống này được ứng dụng rộng rãi trong tìm đường và dẫn đường tự động cho các phương tiện giao thông tự lái.
-- **Giải thích khác (SGK Địa lí 10):** EN: A satellite-based positioning system that determines the precise location of any object on the Earth's surface using signals transmitted from orbiting artificial satellites to GPS receivers. Once position is established, receivers can also calculate travel speed, movement direction, and distance to a destination. / VI: Hệ thống xác định vị trí chính xác của bất kì đối tượng nào trên bề mặt Trái Đất dựa trên tín hiệu phát từ các vệ tinh nhân tạo bay theo quỹ đạo chính xác xuống các trạm thu GPS. Sau khi xác định vị trí, trạm thu còn tính toán được tốc độ di chuyển, hướng chuyển động và khoảng cách tới điểm đến.
-- **Bối cảnh:**
-  - Tin học lớp 12, Bài 23 (Mục 2.a): Ứng dụng mạng vệ tinh trong xác định toạ độ và dẫn đường tự động.
-  - Địa lí lớp 10, Bài 3 (Mục 2.a): Tìm hiểu khái niệm và nguyên lí định vị vệ tinh của hệ thống GPS.
-- **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 06, B23 (Mục 2.a), tr. 126; SGK Địa lí 10 KNTT, Phần hai, B3, tr. 12; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 1), tr. 12; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.a), tr. 12; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.a), tr. 13
 
 ### global reach
 - **Tiếng Việt:** Tính toàn cầu
@@ -3445,6 +3716,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 6, Bài 3 (Mục 2): Khảo sát dung lượng của ổ đĩa cứng khi quản lí tệp và ổ đĩa trên máy tính.
 - **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 01, B3 (Mục 2), tr. 16
 
+### harmful online content
+- **Tiếng Việt:** Thông tin có nội dung xấu trên mạng
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** Harmful, unlawful, or age-inappropriate material on the Internet (such as pornography, gambling, addictive substances, or incitement to violence) that users should avoid, close immediately if encountered accidentally, and report to trusted adults.
+- **Giải thích (VI):** Các thông tin độc hại hoặc không phù hợp với lứa tuổi trên Internet (như nội dung khiêu dâm, cờ bạc, chất gây nghiện, kích động bạo lực) mà người sử dụng cần tránh xa, đóng ngay khi vô tình mở phải và báo cho người lớn hỗ trợ.
+- **Bối cảnh:** Tin học lớp 7, Bài 5 (Mục 2): nhận diện nội dung độc hại trên web và cách xử lí an toàn khi vô tình truy cập.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 1), tr. 24; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 2), tr. 24; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 2), tr. 24, 25
+
 ### harms and risks of Internet use
 - **Tiếng Việt:** Tác hại và nguy cơ khi sử dụng Internet
 - **Chuyên ngành gốc:** Tin học
@@ -3482,13 +3761,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong Google Sites, chỉ kiểu kích thước chiều cao vùng đầu trang (Header type), không phải cấp độ thẻ tiêu đề văn bản (Heading).
 - **Nguồn:** SGK Tin học ICT 12 KNTT, Chủ đề 07, B24, tr. 135; SGK Tin học ICT 12 KNTT, Chủ đề 07, B24, tr. 137
 
+### hiding and unhiding rows and columns
+- **Tiếng Việt:** Ẩn, hiện hàng và cột
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The operation of temporarily concealing selected rows or columns with the `Hide` command to make a spreadsheet more compact without deleting data, and restoring their display at any time with the `Unhide` command.
+- **Giải thích (VI):** Thao tác tạm thời che giấu một số hàng hoặc cột bằng lệnh `Hide` để làm gọn bảng tính mà không xoá mất dữ liệu, và khôi phục hiển thị bất cứ lúc nào bằng lệnh `Unhide`.
+- **Bối cảnh:** Tin học lớp 7, Bài 9 (Mục 2.a): thu gọn tạm thời các hàng, cột trung gian để dễ quan sát bảng tính.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B9 (Mục 2.a), tr. 48; SGK Tin học 7 KNTT, Chủ đề 04, B9 (Mục 2.b), tr. 48
+
 ### hierarchical topology
-- **Tiếng Việt:** Cấu trúc phân cấp
+- **Tiếng Việt:** Cấu trúc phân cấp (danh sách kí hiệu đầu dòng nhiều cấp)
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** A widely used hybrid network topology organized into multiple tiers as a star of stars, where lower tiers connect end devices within each zone in a star layout and upper tiers interconnect those zones centrally. This architecture is well suited for larger local area networks containing many computers.
 - **Giải thích (VI):** Dạng cấu trúc mạng hỗn hợp thông dụng tổ chức theo nhiều tầng theo nguyên tắc hình sao của các hình sao, trong đó tầng dưới kết nối hình sao các thiết bị đầu cuối theo từng khu vực và tầng trên liên kết tập trung các khu vực lại với nhau. Kiến trúc này rất phù hợp cho các mạng cục bộ quy mô lớn có nhiều máy tính.
-- **Bối cảnh:** Tin học lớp 12, Bài 24 (Bước 2): Mô hình kết nối nhiều tầng áp dụng cho mạng cục bộ trường học quy mô khoảng 100 máy tính.
-- **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 06, B24, tr. 130
+- **Giải thích khác (SGK Tin học 7):** EN: A content presentation structure consisting of a multi-tier list organized from the highest level down to the lowest level, giving documents and slides a coherent, clear, and manageable layout. / VI: Cấu trúc trình bày nội dung dưới dạng danh sách nhiều cấp tổ chức từ cấp cao nhất đến cấp dưới cùng, giúp văn bản và trang chiếu có bố cục mạch lạc, dễ hiểu và dễ quản lí.
+- **Bối cảnh:**
+  - Tin học lớp 12, Bài 24 (Bước 2): Mô hình kết nối nhiều tầng áp dụng cho mạng cục bộ trường học quy mô khoảng 100 máy tính.
+  - Tin học lớp 7, Bài 11 (Mục 3): tổ chức các ý lớn, ý nhỏ trên trang chiếu bằng công cụ tăng, giảm bậc phân cấp.
+  - *Lưu ý:* Trong soạn thảo và trình chiếu là danh sách nhiều cấp đầu dòng; phân biệt với cấu trúc cây thư mục trong hệ điều hành.
+- **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 06, B24, tr. 130; SGK Tin học 7 KNTT, Chủ đề 04, B11, tr. 55; SGK Tin học 7 KNTT, Chủ đề 04, B11 (Mục 2), tr. 57; SGK Tin học 7 KNTT, Chủ đề 04, B11 (Mục 3), tr. 57
 
 ### high-level programming language
 - **Tiếng Việt:** Ngôn ngữ bậc cao (ngôn ngữ lập trình bậc cao)
@@ -3905,6 +4196,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 6, Bài 16 (Mục 1): dạng cấu trúc rẽ nhánh có đủ hai nhánh hành động ứng với trường hợp điều kiện đúng và điều kiện sai.
 - **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 06, B16 (Mục 1), tr. 75
 
+### illustrative image
+- **Tiếng Việt:** Ảnh minh hoạ
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** An image inserted onto a slide to visually illustrate the presented content, selected to match the topic with aesthetic quality and positioned and sized harmoniously with the text.
+- **Giải thích (VI):** Hình ảnh chèn vào trang chiếu nhằm minh hoạ trực quan cho nội dung trình bày, cần lựa chọn phù hợp với chủ đề, đảm bảo tính thẩm mĩ và đặt ở vị trí, kích thước hài hoà với văn bản.
+- **Bối cảnh:** Tin học lớp 7, Bài 12 (Mục 1): lựa chọn và bố trí hình ảnh trực quan giúp bài trình chiếu sinh động, thu hút người xem.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B12, tr. 61; SGK Tin học 7 KNTT, Chủ đề 04, B12 (Mục 1), tr. 61; SGK Tin học 7 KNTT, Chủ đề 04, B12 (Mục 1), tr. 61, 62
+
 ### image digitization
 - **Tiếng Việt:** Số hoá hình ảnh
 - **Chuyên ngành gốc:** Tin học
@@ -4215,8 +4514,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** A hardware component responsible for information acquisition by feeding external data into a computer, such as a keyboard, mouse, or scanner.
 - **Giải thích (VI):** Thành phần phần cứng đảm nhiệm chức năng thu nhận thông tin bằng cách đưa dữ liệu từ bên ngoài vào máy tính, chẳng hạn như bàn phím, chuột hoặc máy quét.
-- **Bối cảnh:** Tin học lớp 6, Bài 2 (Mục 2): Xác định nhóm thiết bị đảm nhiệm bước thu nhận thông tin của máy tính.
-- **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 01, B2 (Mục 2), tr. 11; SGK Tin học 6 KNTT, Chủ đề 01, B2 (Mục 2), tr. 11, 12; SGK Tin học 6 KNTT, Chủ đề 01, B2 (Mục 2), tr. 12
+- **Giải thích khác (SGK Tin học 7):** EN: A computer hardware component used to receive external information and enter data and commands into a computer for processing (such as a keyboard, mouse, or microphone). / VI: Thành phần phần cứng của máy tính dùng để tiếp nhận thông tin từ bên ngoài, nhập dữ liệu và mệnh lệnh vào máy tính để xử lí (như bàn phím, chuột, micro).
+- **Bối cảnh:**
+  - Tin học lớp 6, Bài 2 (Mục 2): Xác định nhóm thiết bị đảm nhiệm bước thu nhận thông tin của máy tính.
+  - Tin học lớp 7, Bài 1 (Mục 1): nhận diện vai trò và ví dụ các thiết bị tiếp nhận thông tin từ bên ngoài đưa vào máy tính.
+- **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 01, B2 (Mục 2), tr. 11; SGK Tin học 6 KNTT, Chủ đề 01, B2 (Mục 2), tr. 11, 12; SGK Tin học 6 KNTT, Chủ đề 01, B2 (Mục 2), tr. 12; SGK Tin học 7 KNTT, Chủ đề 01, B1, tr. 5; SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 5; SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 5, 6
 
 ### input function
 - **Tiếng Việt:** Lệnh input()
@@ -4327,12 +4629,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B8 (Mục 1.b), tr. 69; SGK Lịch sử 10 KNTT, Chủ đề 04, B8 (Mục 1.b), tr. 70; SGK Lịch sử 10 KNTT, Chủ đề 04, B8 (Mục 1.b), tr. 70, 71; SGK Tin học 10 KNTT, Chủ đề 01, B2 (Mục 1), tr. 11; SGK Tin học 10 KNTT, Chủ đề 01, B2 (Mục 1.a), tr. 11; SGK Tin học 10 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 12; SGK Tin học 10 KNTT, Chủ đề 02, B8, tr. 38; SGK Tin học 10 KNTT, Chủ đề 02, B8 (Mục 1), tr. 38; SGK Tin học 10 KNTT, Chủ đề 02, B8 (Mục 1), tr. 38, 39; SGK Tin học 6 KNTT, Chủ đề 02, B5, tr. 22; SGK Tin học 6 KNTT, Chủ đề 02, B5 (Mục 1), tr. 22; SGK Tin học 6 KNTT, Chủ đề 02, B5 (Mục 1), tr. 22, 23
 
 ### Internet addiction
-- **Tiếng Việt:** Nghiện mạng
+- **Tiếng Việt:** Nghiện mạng (Bệnh nghiện Internet; nghiện Internet)
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** A condition of spending excessive time on the Internet, particularly playing video games continuously to the point of dependence, severely harming physical and mental health and potentially causing stroke.
 - **Giải thích (VI):** Tình trạng dành quá nhiều thời gian sử dụng Internet, đặc biệt là chơi trò chơi điện tử liên tục đến mức lệ thuộc, gây ảnh hưởng nghiêm trọng tới sức khoẻ thể chất và tinh thần, thậm chí có thể dẫn đến đột quỵ.
-- **Bối cảnh:** Tin học lớp 10, Bài 9 (Mục 1): Cảnh báo tác hại đối với sức khoẻ của việc sử dụng Internet và chơi trò chơi điện tử quá mức.
-- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 1), tr. 45; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2), tr. 45; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2), tr. 45, 46
+- **Giải thích khác (SGK Tin học 7):** EN: A condition of excessive Internet use, such as compulsive gaming or continuous social media usage, that harms physical and mental health, academic performance, and relationships with family and friends. / VI: Tình trạng lạm dụng Internet như chơi trò chơi điện tử quá nhiều hoặc sử dụng mạng xã hội liên tục, gây ảnh hưởng xấu tới sức khoẻ thể chất, tinh thần, kết quả học tập và mối quan hệ giao tiếp với gia đình, bạn bè.
+- **Bối cảnh:**
+  - Tin học lớp 10, Bài 9 (Mục 1): Cảnh báo tác hại đối với sức khoẻ của việc sử dụng Internet và chơi trò chơi điện tử quá mức.
+  - Tin học lớp 7, Bài 5 (Mục 3): nhận biết các biểu hiện và tác hại của việc không kiểm soát thời gian sử dụng Internet.
+- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 1), tr. 45; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2), tr. 45; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2), tr. 45, 46; SGK Tin học 7 KNTT, Chủ đề 03, B5, tr. 23; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 2), tr. 25; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 3), tr. 25; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 3), tr. 26
+
+### Internet addiction prevention
+- **Tiếng Việt:** Phòng tránh bệnh nghiện Internet
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** Proactive measures to regulate online habits, including spending time sharing with family and friends, keeping Internet-connected devices out of private bedrooms, limiting screen time, and pursuing healthy offline hobbies.
+- **Giải thích (VI):** Các biện pháp kiểm soát thói quen sử dụng mạng gồm: dành thời gian chia sẻ với người thân và bạn bè, hạn chế để thiết bị kết nối Internet trong phòng riêng, giới hạn thời gian sử dụng và theo đuổi các sở thích lành mạnh ít liên quan đến thiết bị điện tử.
+- **Bối cảnh:** Tin học lớp 7, Bài 5 (Mục 3): vận dụng bốn nhóm giải pháp (Chia sẻ, Rời xa, Giới hạn, Theo đuổi) để sử dụng Internet điều độ.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 3), tr. 26; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 3), tr. 27
 
 ### Internet and online gaming addiction
 - **Tiếng Việt:** Nghiện Internet, nghiện trò chơi trên mạng
@@ -4659,8 +4972,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** Search method and algorithm on a list of $n$ elements $A[0], A[1], \dots, A[n-1]$ that examines elements sequentially from beginning to end to locate an element equal to a given target key $K$. The algorithm returns the index $i$ satisfying $A[i] = K$ upon finding a match, or returns $-1$ if the entire sequence is traversed without a match.
 - **Giải thích (VI):** Phương pháp và thuật toán tìm kiếm trên một danh sách gồm $n$ phần tử $A[0], A[1], \dots, A[n-1]$ bằng cách duyệt lần lượt từng phần tử từ đầu đến cuối dãy để tìm phần tử có giá trị bằng khóa $K$ cho trước. Thuật toán trả về chỉ số $i$ thỏa mãn $A[i] = K$ ngay khi tìm thấy hoặc trả về $-1$ nếu duyệt hết dãy mà không gặp.
-- **Bối cảnh:** Tin học lớp 11, Bài 19 (Mục 2): tìm kiếm tuần tự phần tử bằng giá trị K trên dãy bất kì chưa cần sắp xếp.
-- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 1), tr. 90; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 2), tr. 90; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 2), tr. 90, 91; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 2), tr. 91; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 3), tr. 91
+- **Giải thích khác (SGK Tin học 7):** EN: A search algorithm that compares the target value sequentially against each element from the beginning to the end of a list using a loop structure, terminating when a matching element is found or the list is exhausted. / VI: Thuật toán tìm kiếm thực hiện đối chiếu giá trị cần tìm lần lượt từng phần tử từ đầu đến cuối danh sách theo cấu trúc lặp, dừng lại khi tìm thấy phần tử thoả mãn hoặc khi đã xét hết danh sách.
+- **Bối cảnh:**
+  - Tin học lớp 11, Bài 19 (Mục 2): tìm kiếm tuần tự phần tử bằng giá trị K trên dãy bất kì chưa cần sắp xếp.
+  - Tin học lớp 7, Bài 14 (Mục 1): tìm kiếm dữ liệu trên danh sách bất kì chưa cần sắp xếp trước.
+  - *Lưu ý:* Tên tương đương trong khoa học máy tính là tìm kiếm tuyến tính (linear search); áp dụng cho cả danh sách chưa sắp xếp, khác với tìm kiếm nhị phân đòi hỏi danh sách đã sắp xếp.
+- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 1), tr. 90; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 2), tr. 90; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 2), tr. 90, 91; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 2), tr. 91; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 3), tr. 91; SGK Tin học 7 KNTT, Chủ đề 05, B14 (Mục 1), tr. 71; SGK Tin học 7 KNTT, Chủ đề 05, B14 (Mục 1), tr. 72; SGK Tin học 7 KNTT, Chủ đề 05, B14 (Mục 1), tr. 73
 
 ### linear time complexity
 - **Tiếng Việt:** Độ phức tạp tuyến tính
@@ -4775,6 +5092,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại mạng máy tính có phạm vi địa lí nhỏ như trong một gia đình, trường học hay cơ quan, kết nối trực tiếp các thiết bị qua Hub, Switch hoặc Wifi và thuộc quyền sở hữu của một cá nhân hay tổ chức xác định.
 - **Bối cảnh:** Tin học lớp 10, Bài 8 (Mục 1): Phân loại mạng máy tính theo phạm vi địa lí và so sánh mạng cục bộ với Internet.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B8, tr. 38; SGK Tin học 10 KNTT, Chủ đề 02, B8 (Mục 1), tr. 38; SGK Tin học 10 KNTT, Chủ đề 02, B8 (Mục 1), tr. 38, 39
+
+### local backup
+- **Tiếng Việt:** Sao lưu cục bộ
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A backup method that stores data copies on the same computer as the original or on local storage media (such as external hard drives or USB flash drives), enabling fast recovery while carrying the risk of losing the backup if the device is damaged or lost.
+- **Giải thích (VI):** Hình thức sao lưu đặt bản sao dữ liệu trên cùng máy tính chứa bản gốc hoặc trên thiết bị lưu trữ tại chỗ (như ổ cứng ngoài, thẻ nhớ USB), cho phép khôi phục nhanh chóng nhưng tiềm ẩn rủi ro mất cả bản sao nếu thiết bị hỏng hoặc thất lạc.
+- **Bối cảnh:** Tin học lớp 7, Bài 3 (Mục 2.a): phân biệt sao lưu tại chỗ với sao lưu từ xa khi lựa chọn thiết bị lưu trữ.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 1), tr. 14; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2), tr. 14; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.a), tr. 14
 
 ### local database
 - **Tiếng Việt:** CSDL cục bộ
@@ -4995,8 +5320,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** Software written with malicious intent to harm computer users and cause undesirable effects, encompassing major categories such as computer viruses, worms, and trojans.
 - **Giải thích (VI):** Phần mềm được viết ra với ý đồ xấu nhằm gây hại và tạo ra các tác động không mong muốn cho người dùng máy tính, bao gồm các nhóm chính như virus, sâu máy tính (worm) và phần mềm nội gián (trojan).
-- **Bối cảnh:** Tin học lớp 10, Bài 9 (Mục 2): Định nghĩa khái quát các loại phần mềm gây mất an toàn thông tin trên máy tính và mạng.
-- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 1), tr. 45; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2), tr. 45; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2), tr. 45, 46
+- **Giải thích khác (SGK Tin học 7):** EN: Harmful computer programs (such as viruses, worms, and spyware) capable of infiltrating systems, corrupting data, and disrupting normal software operations. / VI: Các chương trình gây hại (như virus máy tính, sâu máy tính, phần mềm gián điệp) có khả năng xâm nhập, làm hỏng dữ liệu và gây lỗi cho các chương trình trong máy tính.
+- **Bối cảnh:**
+  - Tin học lớp 10, Bài 9 (Mục 2): Định nghĩa khái quát các loại phần mềm gây mất an toàn thông tin trên máy tính và mạng.
+  - Tin học lớp 7, Bài 3 (Mục 2.c): nhận diện các tác nhân phần mềm đe doạ an toàn dữ liệu trên máy tính.
+- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 1), tr. 45; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2), tr. 45; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2), tr. 45, 46; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.a), tr. 15; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.b), tr. 15; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.c), tr. 15
+
+### MAX function
+- **Tiếng Việt:** MAX (hàm MAX)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A spreadsheet function with the syntax `MAX(v1, v2, ...)` that finds the largest numeric value among the arguments while ignoring text and empty cells.
+- **Giải thích (VI):** Hàm trong phần mềm bảng tính có cú pháp `MAX(v1, v2, ...)`, dùng để tìm giá trị lớn nhất trong các giá trị số thuộc danh sách tham số và bỏ qua ô văn bản hoặc ô trống.
+- **Bối cảnh:** Tin học lớp 7, Bài 8 (Mục 2): hàm xác định giá trị số lớn nhất trong các ô hoặc vùng dữ liệu.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 2), tr. 41; SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 2), tr. 42; SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 3), tr. 42
 
 ### Melissa worm
 - **Tiếng Việt:** Sâu Melissa
@@ -5046,6 +5382,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 10, Bài 22 (Mục 3): Giới thiệu khái niệm phương thức gắn với kiểu dữ liệu và thao tác thêm phần tử bằng `append()`.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 05, B22 (Mục 2), tr. 113; SGK Tin học 10 KNTT, Chủ đề 05, B22 (Mục 3), tr. 113; SGK Tin học 10 KNTT, Chủ đề 05, B22 (Mục 3), tr. 113, 114
 
+### microphone
+- **Tiếng Việt:** Micro
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** An audio input device that captures external sound and transmits it into a computer to be encoded as digital data.
+- **Giải thích (VI):** Thiết bị vào làm việc với thông tin dạng âm thanh, có chức năng thu nhận âm thanh từ bên ngoài và chuyển vào máy tính để mã hoá thành dữ liệu số.
+- **Bối cảnh:** Tin học lớp 7, Bài 1 (Mục 1): ví dụ thiết bị vào làm việc với thông tin dạng âm thanh.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B1, tr. 5; SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 5; SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 5, 6
+
 ### Microsoft Windows
 - **Tiếng Việt:** Windows
 - **Chuyên ngành gốc:** Tin học
@@ -5053,6 +5397,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hệ điều hành thương mại có giao diện đồ hoạ của hãng Microsoft dành cho dòng máy tính cá nhân PC, có khả năng đa nhiệm, hỗ trợ cơ chế plug & play và chiếm thị phần phổ biến nhất trên máy tính cá nhân.
 - **Bối cảnh:** Tin học lớp 11, Bài 1 (Mục 1.a): Lịch sử phát triển và đặc điểm của hệ điều hành thương mại phổ biến nhất trên máy tính cá nhân.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B1 (Mục 1), tr. 6; SGK Tin học CS 11 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 6; SGK Tin học CS 11 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 6, 7
+
+### MIN function
+- **Tiếng Việt:** MIN (hàm MIN)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A spreadsheet function with the syntax `MIN(v1, v2, ...)` that finds the smallest numeric value among the arguments while ignoring text and empty cells.
+- **Giải thích (VI):** Hàm trong phần mềm bảng tính có cú pháp `MIN(v1, v2, ...)`, dùng để tìm giá trị nhỏ nhất trong các giá trị số thuộc danh sách tham số và bỏ qua ô văn bản hoặc ô trống.
+- **Bối cảnh:** Tin học lớp 7, Bài 8 (Mục 2): hàm xác định giá trị số bé nhất trong các ô hoặc vùng dữ liệu.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 2), tr. 41; SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 2), tr. 42; SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 3), tr. 42
 
 ### mind map
 - **Tiếng Việt:** Sơ đồ tư duy
@@ -5246,6 +5598,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 12, Bài 1 (Mục 2): Ví dụ lịch sử tiêu biểu về ứng dụng hệ chuyên gia trong chẩn đoán và điều trị y khoa.
 - **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 01, B1 (Mục 1), tr. 7; SGK Tin học CS 12 KNTT, Chủ đề 01, B1 (Mục 2), tr. 7; SGK Tin học CS 12 KNTT, Chủ đề 01, B1 (Mục 2), tr. 7, 8; SGK Tin học ICT 12 KNTT, Chủ đề 01, B1 (Mục 1), tr. 7
 
+### name box
+- **Tiếng Việt:** Hộp địa chỉ
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** An interface element in spreadsheet software located to the left of the data entry bar that always displays the address of the active cell on the worksheet.
+- **Giải thích (VI):** Thành phần trên giao diện phần mềm bảng tính nằm ở bên trái vùng nhập dữ liệu, luôn hiển thị địa chỉ của ô hiện thời trên trang tính.
+- **Bối cảnh:**
+  - Tin học lớp 7, Bài 6 (Mục 1): thành phần giao diện giúp nhận biết nhanh vị trí ô hiện thời trên trang tính.
+  - *Lưu ý:* Phân biệt với thanh địa chỉ (address bar) trên trình duyệt web.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 29; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 29, 30
+
 ### NameError
 - **Tiếng Việt:** NameError
 - **Chuyên ngành gốc:** Tin học
@@ -5261,6 +5623,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Kĩ thuật giới hạn số lượng kết quả trả về của máy tìm kiếm để sát với nội dung cần tìm hơn bằng cách chọn từ khoá cụ thể, đặt cụm từ khoá trong dấu ngoặc kép (" ") hoặc dùng dấu cộng (+), dấu trừ (–).
 - **Bối cảnh:** Tin học lớp 6, Bài 7 (Mục 1): Kĩ thuật sử dụng dấu ngoặc kép và kí hiệu hỗ trợ để lọc bớt các liên kết không sát nội dung cần tìm.
 - **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 03, B7 (Mục 1), tr. 33
+
+### natural-language description of binary search
+- **Tiếng Việt:** Mô tả thuật toán tìm kiếm nhị phân
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The five-step natural-language specification of binary search on an ascending list: checking for an empty search range to terminate (Step 1), finding the midpoint (Step 2), comparing the target value with the middle element to report a match (Step 3) or narrow the search range to the first or second half (Step 4), and repeating from Step 1 (Step 5).
+- **Giải thích (VI):** Cách liệt kê 5 bước bằng ngôn ngữ tự nhiên của thuật toán tìm kiếm nhị phân trên dãy tăng dần: kiểm tra vùng tìm kiếm rỗng để kết thúc (Bước 1), xác định vị trí giữa (Bước 2), đối chiếu giá trị cần tìm với phần tử giữa để báo tìm thấy (Bước 3) hoặc thu hẹp vùng tìm kiếm về nửa trước hay nửa sau (Bước 4) rồi lặp lại từ Bước 1 (Bước 5).
+- **Bối cảnh:** Tin học lớp 7, Bài 15 (Mục 1): trình bày tuần tự các bước thực hiện tìm kiếm nhị phân bằng lời.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 05, B15 (Mục 1), tr. 76; SGK Tin học 7 KNTT, Chủ đề 05, B15 (Mục 2), tr. 76; SGK Tin học 7 KNTT, Chủ đề 05, B15 (Mục 2), tr. 76, 77
+
+### natural-language description of bubble sort
+- **Tiếng Việt:** Mô tả thuật toán sắp xếp nổi bọt
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A step-by-step natural-language specification for sorting a numerical sequence in ascending order via bubble sort using loops that iterate from the first position to the position immediately before the last element. In the loop for each target position, the procedure scans backward from the end of the sequence to that position, comparing each pair of adjacent elements and swapping them whenever the later element is smaller than the earlier one so that the smallest remaining element rises into the target position.
+- **Giải thích (VI):** Cách liệt kê tuần tự bằng ngôn ngữ tự nhiên các bước sắp xếp dãy số tăng dần theo kiểu nổi bọt thông qua các vòng lặp xét lần lượt từ vị trí đầu tiên đến vị trí ngay trước phần tử cuối cùng. Trong vòng lặp ứng với mỗi vị trí đang xét, thuật toán duyệt từ cuối dãy ngược lên vị trí đó để so sánh từng cặp phần tử đứng cạnh nhau và đổi chỗ nếu phần tử đứng sau nhỏ hơn phần tử đứng trước, đưa phần tử nhỏ nhất còn lại nổi lên đúng vị trí đang xét.
+- **Bối cảnh:** Tin học lớp 7, Bài 16 (Mục 1): trình bày quy trình từng bước bằng ngôn ngữ tự nhiên để học sinh mô phỏng thuật toán sắp xếp nổi bọt theo thứ tự tăng dần.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 05, B16 (Mục 1), tr. 80
+
+### natural-language description of selection sort
+- **Tiếng Việt:** Mô tả thuật toán sắp xếp chọn
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A step-by-step natural-language specification for sorting a numerical sequence from smallest to largest via selection sort, executed through loops from the first element to the element immediately before the last one. In the loop for each target position, the procedure compares every subsequent element (from the next position through the end of the sequence) with the element at the target position and swaps them whenever the compared element is smaller, placing the smallest remaining element into that position.
+- **Giải thích (VI):** Cách liệt kê tuần tự bằng ngôn ngữ tự nhiên các bước sắp xếp dãy số theo thứ tự từ nhỏ đến lớn bằng thuật toán sắp xếp chọn, thực hiện qua các vòng lặp lần lượt từ phần tử đầu tiên đến phần tử ngay trước phần tử cuối cùng. Trong vòng lặp tại mỗi vị trí đang xét, thuật toán so sánh từng phần tử đứng sau (từ vị trí kế tiếp đến cuối dãy) với phần tử tại vị trí đang xét và hoán đổi chúng nếu phần tử được xét nhỏ hơn, đưa phần tử nhỏ nhất còn lại về đúng vị trí đó.
+- **Bối cảnh:** Tin học lớp 7, Bài 16 (Mục 2): trình bày quy trình từng bước bằng ngôn ngữ tự nhiên để sắp xếp dãy số theo thứ tự từ nhỏ đến lớn bằng thuật toán sắp xếp chọn.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 05, B16 (Mục 2), tr. 81; SGK Tin học 7 KNTT, Chủ đề 05, B16 (Mục 2), tr. 81, 82
+
+### natural-language description of sequential search
+- **Tiếng Việt:** Mô tả thuật toán tìm kiếm tuần tự
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The five-step natural-language specification of sequential search: starting at the first element (Step 1), comparing the current element with the target value to either report found with its position (Steps 2 and 4) or check whether the end of the list is reached to repeat with the next element or report not found (Steps 3 and 5).
+- **Giải thích (VI):** Cách liệt kê 5 bước bằng ngôn ngữ tự nhiên của thuật toán tìm kiếm tuần tự: bắt đầu xét từ phần tử đầu tiên (Bước 1), so sánh phần tử đang xét với giá trị cần tìm để chuyển đến kết luận tìm thấy kèm vị trí (Bước 2, Bước 4) hoặc kiểm tra hết danh sách để lặp lại với phần tử kế tiếp hay kết luận không tìm thấy (Bước 3, Bước 5).
+- **Bối cảnh:** Tin học lớp 7, Bài 14 (Mục 1): biểu diễn từng bước thực hiện thuật toán tìm kiếm tuần tự bằng lời trước khi minh hoạ hoặc lập trình.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 05, B14 (Mục 1), tr. 72; SGK Tin học 7 KNTT, Chủ đề 05, B14 (Mục 1), tr. 73
 
 ### navigation bar
 - **Tiếng Việt:** Thanh điều hướng (navigation bar)
@@ -5307,6 +5701,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 11, Bài 17 (Mục 2): cơ chế danh sách lồng nhau của Python dùng để lưu trữ bảng điểm và cấu trúc hai chiều.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B17 (Mục 2), tr. 83; SGK Tin học CS 11 KNTT, Chủ đề 06, B17 (Mục 2), tr. 83, 84
 
+### netiquette
+- **Tiếng Việt:** Ứng xử có văn hoá qua mạng
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** Standards of polite, respectful, and civilized conduct when communicating online, guided by the principle of refraining from any online speech or behavior one would not use in person.
+- **Giải thích (VI):** Chuẩn mực sử dụng ngôn ngữ lịch sự, văn minh và tôn trọng mọi người khi giao tiếp trên mạng, tuân theo nguyên tắc không có lời nói hay cách hành xử qua mạng mà bản thân không thực hiện khi gặp trực tiếp.
+- **Bối cảnh:** Tin học lớp 7, Bài 5 (Mục 1): quy tắc sử dụng ngôn ngữ văn minh, tôn trọng quyền riêng tư và bảo vệ tài khoản khi tham gia mạng.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 1), tr. 23; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 1), tr. 24; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 2), tr. 24
+
 ### network
 - **Tiếng Việt:** Mạng lưới
 - **Chuyên ngành gốc:** Tin học
@@ -5316,6 +5718,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tin học lớp 6, Bài 4 (Mục 1): Nêu hai đặc điểm kết nối và chia sẻ của mạng lưới trong đời sống để dẫn nhập khái niệm mạng máy tính.
   - *Lưu ý:* Khái niệm mạng lưới liên kết tổng quát (giao thông, điện, nước, viễn thông) làm cơ sở dẫn nhập cho mạng máy tính.
 - **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 02, B4, tr. 18; SGK Tin học 6 KNTT, Chủ đề 02, B4 (Mục 1), tr. 19
+
+### network access
+- **Tiếng Việt:** Truy cập mạng
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The use of an endpoint device (such as a computer or smartphone) to join a computer network and connect to the Internet to retrieve information or use online services such as email and the web.
+- **Giải thích (VI):** Việc sử dụng thiết bị đầu cuối để tham gia mạng máy tính và kết nối Internet nhằm khai thác thông tin hoặc sử dụng các dịch vụ trực tuyến như thư điện tử, web.
+- **Bối cảnh:** Tin học lớp 7, Bài 5 (Mục 2): hoạt động kết nối Internet và nguyên tắc lựa chọn trang thông tin phù hợp lứa tuổi.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 1), tr. 24; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 2), tr. 24; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 2), tr. 24, 25
 
 ### network administration
 - **Tiếng Việt:** Quản trị mạng
@@ -5503,6 +5913,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 11, Bài 4 (Mục 2.a): sơ đồ mạch dùng rơ le thường đóng minh hoạ phép phủ định lôgic.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 25; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.b), tr. 25
 
+### number formatting
+- **Tiếng Việt:** Định dạng dữ liệu số
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The configuration of how integers or real numbers are displayed in a spreadsheet via the `Format Cells` dialog (`Number` group), including setting the number of decimal places and thousand or million separators.
+- **Giải thích (VI):** Thiết lập cách hiển thị số nguyên hoặc số thực trên bảng tính thông qua cửa sổ `Format Cells` (nhóm lệnh `Number`), bao gồm quy định số chữ số thập phân và dấu phân tách hàng nghìn, hàng triệu.
+- **Bối cảnh:** Tin học lớp 7, Bài 9 (Mục 1.a): trình bày các cột số liệu trung bình hoặc chi phí tiền tệ dễ đọc, dễ so sánh.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B9, tr. 45; SGK Tin học 7 KNTT, Chủ đề 04, B9 (Mục 1), tr. 45; SGK Tin học 7 KNTT, Chủ đề 04, B9 (Mục 1.a), tr. 45, 46
+
+### object animation
+- **Tiếng Việt:** Hiệu ứng cho đối tượng
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A type of dynamic effect configured on the `Animations` tab that controls the manner, sequence, and timing of appearance for individual objects (such as text, images, or charts) on a slide.
+- **Giải thích (VI):** Loại hiệu ứng động thiết lập trên thẻ `Animations` dùng để điều khiển cách thức, thứ tự và thời điểm xuất hiện của từng đối tượng cụ thể (văn bản, hình ảnh, biểu đồ,...) trên một trang chiếu.
+- **Bối cảnh:**
+  - Tin học lớp 7, Bài 13 (Mục 1, 2.a): làm nổi bật từng phần nội dung trên trang chiếu theo mạch thuyết trình.
+  - *Lưu ý:* Áp dụng cho từng thành phần bên trong trang chiếu (`Animations`); phân biệt với hiệu ứng chuyển trang chiếu (`Transitions`) áp dụng khi đổi giữa các trang.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B13, tr. 68; SGK Tin học 7 KNTT, Chủ đề 04, B13 (Mục 1), tr. 68; SGK Tin học 7 KNTT, Chủ đề 04, B13 (Mục 1), tr. 68, 69
+
 ### object grouping
 - **Tiếng Việt:** Group (lệnh nhóm đối tượng)
 - **Chuyên ngành gốc:** Tin học
@@ -5581,12 +6009,31 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 02, B5 (Mục 1), tr. 23; SGK Tin học 6 KNTT, Chủ đề 02, B5 (Mục 2), tr. 23; SGK Tin học 6 KNTT, Chủ đề 02, B5 (Mục 2), tr. 23, 24; SGK Tin học 6 KNTT, Chủ đề 04, B9 (Mục 3), tr. 45; SGK Tin học 6 KNTT, Chủ đề 04, B9 (Mục 3), tr. 45, 46
 
 ### online communication
-- **Tiếng Việt:** Giao tiếp trong không gian mạng (giao tiếp trực tuyến)
+- **Tiếng Việt:** Giao tiếp trong không gian mạng (giao tiếp trực tuyến; Giao tiếp qua mạng)
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** The exchange of information and interaction among people via network-based software and services (such as email, instant messaging, video calls, and social media), which can take place anytime and anywhere with network connectivity.
 - **Giải thích (VI):** Hình thức trao đổi thông tin và tương tác giữa con người thông qua các phần mềm, dịch vụ trên mạng máy tính (như thư điện tử, nhắn tin nhanh, gọi video, mạng xã hội), có thể thực hiện mọi lúc, mọi nơi khi có kết nối mạng.
-- **Bối cảnh:** Tin học lớp 12, Bài 6 (Mục 1.b): Nhận diện đặc trưng của hoạt động giao tiếp trực tuyến so với giao tiếp trực tiếp truyền thống.
-- **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 03, B6, tr. 34; SGK Tin học CS 12 KNTT, Chủ đề 03, B6 (Mục 1), tr. 34; SGK Tin học CS 12 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 34; SGK Tin học ICT 12 KNTT, Chủ đề 03, B6, tr. 34
+- **Giải thích khác (SGK Tin học 7):** EN: Human interaction and information exchange over the Internet via methods such as email, messaging, online chat, forums, and social networks, characterized by broad and diverse reach that is harder to control than face-to-face communication. / VI: Hoạt động trao đổi thông tin và tương tác qua Internet bằng các phương thức như thư điện tử, nhắn tin, trò chuyện trực tuyến, diễn đàn và mạng xã hội, có phạm vi quan hệ rộng và đa dạng nhưng khó kiểm soát hơn trong đời thực.
+- **Bối cảnh:**
+  - Tin học lớp 12, Bài 6 (Mục 1.b): Nhận diện đặc trưng của hoạt động giao tiếp trực tuyến so với giao tiếp trực tiếp truyền thống.
+  - Tin học lớp 7, Bài 5 (Mục 1): phân biệt đặc điểm của giao tiếp qua mạng so với giao tiếp gặp gỡ trực tiếp trong đời thực.
+- **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 03, B6, tr. 34; SGK Tin học CS 12 KNTT, Chủ đề 03, B6 (Mục 1), tr. 34; SGK Tin học CS 12 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 34; SGK Tin học ICT 12 KNTT, Chủ đề 03, B6, tr. 34; SGK Tin học 7 KNTT, Chủ đề 03, B5, tr. 23; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 1), tr. 23; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 1), tr. 23, 24
+
+### online communication channel
+- **Tiếng Việt:** Kênh trao đổi thông tin trên Internet
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** Online services and platforms on the Internet (such as email, forums, and social networks) that enable users to exchange and continuously update information in various forms including text, images, audio, video, and software.
+- **Giải thích (VI):** Các phương tiện và dịch vụ trực tuyến trên Internet (như thư điện tử, diễn đàn, mạng xã hội) cho phép người sử dụng trao đổi và cập nhật liên tục thông tin ở nhiều dạng như văn bản, hình ảnh, âm thanh, video và phần mềm.
+- **Bối cảnh:** Tin học lớp 7, Bài 4 (Mục 1.a): nhận diện các kênh trao đổi thông tin thông dụng và sự đa dạng của thông tin trên Internet.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 02, B4, tr. 18; SGK Tin học 7 KNTT, Chủ đề 02, B4 (Mục 1), tr. 18; SGK Tin học 7 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 18
+
+### online forum
+- **Tiếng Việt:** Diễn đàn (Forum)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** An online communication platform where participants asynchronously discuss and share knowledge on specific topics, with posts or comments receiving replies either immediately or after a period of time.
+- **Giải thích (VI):** Kênh trao đổi thông tin trực tuyến nơi mọi người cùng thảo luận và chia sẻ kiến thức về một chủ đề xác định theo hình thức không trực tiếp, trong đó bài viết hoặc ý kiến có thể nhận phản hồi ngay hoặc sau một khoảng thời gian.
+- **Bối cảnh:** Tin học lớp 7, Bài 4 (Mục 1.a, 1.b): kênh thảo luận học tập và chia sẻ kiến thức theo chủ đề trên Internet (như diễn đàn Scratch).
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 02, B4, tr. 18; SGK Tin học 7 KNTT, Chủ đề 02, B4 (Mục 1), tr. 18; SGK Tin học 7 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 18; SGK Tin học 7 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 19
 
 ### online fraud
 - **Tiếng Việt:** Lừa đảo trên mạng (lừa đảo qua mạng)
@@ -5595,6 +6042,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hành vi lợi dụng không gian mạng với các thủ đoạn tinh vi để lừa gạt và gây thiệt hại lớn cho người khác, chẳng hạn sao chép hình ảnh, tin tức nhằm lập tài khoản mạng xã hội giả mạo rồi vay mượn để chiếm đoạt tài sản.
 - **Bối cảnh:** Tin học lớp 10, Bài 9 (Mục 1) và Bài 11 (Mục 1): Phân tích nguy cơ mất an toàn và hành vi vi phạm phổ biến khi giao tiếp trên không gian mạng.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B9, tr. 44; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 1), tr. 44; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 1), tr. 44, 45; SGK Tin học 10 KNTT, Chủ đề 03, B11 (Mục 1), tr. 56; SGK Tin học 10 KNTT, Chủ đề 03, B11 (Mục 1), tr. 56, 57
+
+### online gaming addiction
+- **Tiếng Việt:** Nghiện trò chơi trực tuyến
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A common form of Internet addiction caused by spending excessive time playing online games under pressure to achieve in-game goals, resulting in health decline, irritability, social withdrawal, and restlessness when unable to play.
+- **Giải thích (VI):** Hệ quả phổ biến của nghiện Internet do chơi trò chơi trực tuyến quá nhiều dưới áp lực đạt mục tiêu trong trò chơi, dẫn đến suy giảm sức khoẻ, tâm trạng dễ cáu gắt, ít nói và cảm thấy bồn chồn, khó chịu khi không được chơi.
+- **Bối cảnh:** Tin học lớp 7, Bài 5 (Mục 3): phân tích nguyên nhân tâm lí và tác hại thể chất, tinh thần của việc lạm dụng trò chơi trực tuyến.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 03, B5, tr. 23; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 3), tr. 26; SGK Tin học 7 KNTT, Chủ đề 03, B5 (Mục 3), tr. 26, 27
 
 ### online learning platform
 - **Tiếng Việt:** Nền tảng học tập trực tuyến
@@ -5637,15 +6092,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tin học CS 12 KNTT, Bảng giải thích thuật ngữ, tr. 164; SGK Tin học CS 12 KNTT, Chủ đề 01, B2 (Mục 2), tr. 11; SGK Tin học ICT 12 KNTT, Bảng giải thích thuật ngữ, tr. 156
 
 ### operating system
-- **Tiếng Việt:** Hệ điều hành (OS)
+- **Tiếng Việt:** Hệ điều hành (OS; Operating System)
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** System software that manages information, controls hardware resources, coordinates computer processing tasks, and provides a user interface.
 - **Giải thích (VI):** Phần mềm hệ thống thực hiện chức năng quản lí thông tin, quản lí phần cứng, điều phối các tiến trình xử lí của máy tính và cung cấp giao diện làm việc cho người dùng.
 - **Giải thích khác (SGK Tin học CS 11):** EN: System software that manages, controls, and coordinates the operations of all hardware and software within a computer system. An operating system acts as an intermediary providing a user interface and a service environment for running application software to optimize computer utilization. / VI: Phần mềm hệ thống có chức năng quản lí, điều hành và phối hợp hoạt động của toàn bộ phần cứng và phần mềm trong hệ thống máy tính. Hệ điều hành đóng vai trò trung gian cung cấp giao diện giao tiếp cho người dùng và môi trường dịch vụ để chạy các phần mềm ứng dụng nhằm tối ưu hoá hiệu suất sử dụng máy tính.
+- **Giải thích khác (SGK Tin học 7):** EN: System software that manages and controls overall computer operations, manages data, provides an interactive environment for users, and supplies a runtime environment for application software. / VI: Phần mềm hệ thống quản lí và điều khiển hoạt động chung của máy tính, quản lí dữ liệu, cung cấp môi trường tương tác cho con người và môi trường chạy các phần mềm ứng dụng.
 - **Bối cảnh:**
   - Tin học lớp 10, Bài 2 (Mục 2.b): Thành tựu phát triển phần mềm hệ thống nền tảng của ngành tin học.
   - Tin học lớp 11, Bài 1 (Mục 1, 3): Định nghĩa và vai trò trung gian của hệ điều hành giữa phần cứng, phần mềm ứng dụng và người dùng.
-- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 01, B2 (Mục 2.a), tr. 14; SGK Tin học 10 KNTT, Chủ đề 01, B2 (Mục 2.b), tr. 14; SGK Tin học 10 KNTT, Chủ đề 01, B2 (Mục 2.b), tr. 14, 15; SGK Tin học CS 11 KNTT, Chủ đề 01, B1, tr. 5; SGK Tin học CS 11 KNTT, Chủ đề 01, B1 (Mục 1), tr. 5; SGK Tin học CS 11 KNTT, Chủ đề 01, B1 (Mục 1), tr. 5, 6
+  - Tin học lớp 7, Bài 2 (Mục 1): phần mềm hệ thống thiết yếu trên máy tính (Windows, Mac OS, Linux) và thiết bị di động (iOS, Android).
+- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 01, B2 (Mục 2.a), tr. 14; SGK Tin học 10 KNTT, Chủ đề 01, B2 (Mục 2.b), tr. 14; SGK Tin học 10 KNTT, Chủ đề 01, B2 (Mục 2.b), tr. 14, 15; SGK Tin học CS 11 KNTT, Chủ đề 01, B1, tr. 5; SGK Tin học CS 11 KNTT, Chủ đề 01, B1 (Mục 1), tr. 5; SGK Tin học CS 11 KNTT, Chủ đề 01, B1 (Mục 1), tr. 5, 6; SGK Tin học 7 KNTT, Chủ đề 01, B2, tr. 10; SGK Tin học 7 KNTT, Chủ đề 01, B2 (Mục 1), tr. 10; SGK Tin học 7 KNTT, Chủ đề 01, B2 (Mục 1), tr. 10, 11
 
 ### operating system functional groups
 - **Tiếng Việt:** Các nhóm chức năng của hệ điều hành
@@ -5697,8 +6154,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** A hardware component that delivers data from a computer to the user in order to transmit or share information, such as a monitor, printer, or plotter.
 - **Giải thích (VI):** Thành phần phần cứng đưa dữ liệu từ máy tính ra ngoài cho người sử dụng nhằm truyền tải hoặc chia sẻ thông tin, chẳng hạn như màn hình, máy in hoặc máy vẽ.
-- **Bối cảnh:** Tin học lớp 6, Bài 2 (Mục 2): Phân biệt nhóm thiết bị xuất thông tin với nhóm thiết bị vào của máy tính.
-- **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 01, B2 (Mục 2), tr. 11; SGK Tin học 6 KNTT, Chủ đề 01, B2 (Mục 2), tr. 11, 12; SGK Tin học 6 KNTT, Chủ đề 01, B2 (Mục 2), tr. 12
+- **Giải thích khác (SGK Tin học 7):** EN: A computer hardware component used to receive data from a computer and present information externally in a human-perceivable form (such as a monitor, printer, or speaker). / VI: Thành phần phần cứng của máy tính dùng để nhận dữ liệu từ máy tính và thể hiện thông tin ra bên ngoài dưới dạng con người nhận biết được (như màn hình, máy in, loa).
+- **Bối cảnh:**
+  - Tin học lớp 6, Bài 2 (Mục 2): Phân biệt nhóm thiết bị xuất thông tin với nhóm thiết bị vào của máy tính.
+  - Tin học lớp 7, Bài 1 (Mục 1): nhận diện vai trò và ví dụ các thiết bị xuất kết quả xử lí từ máy tính ra bên ngoài.
+- **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 01, B2 (Mục 2), tr. 11; SGK Tin học 6 KNTT, Chủ đề 01, B2 (Mục 2), tr. 11, 12; SGK Tin học 6 KNTT, Chủ đề 01, B2 (Mục 2), tr. 12; SGK Tin học 7 KNTT, Chủ đề 01, B1, tr. 5; SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 5; SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 5, 6
 
 ### owner
 - **Tiếng Việt:** Chủ sở hữu
@@ -5797,8 +6257,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** A secret string of characters set by a user when registering an account, used alongside a username to authenticate access to the account or email mailbox.
 - **Giải thích (VI):** Chuỗi kí tự bí mật do người sử dụng tự đặt khi đăng kí tài khoản, dùng kèm với tên đăng nhập để xác thực quyền truy cập vào tài khoản hoặc hộp thư điện tử.
-- **Bối cảnh:** Tin học lớp 6, Bài 8 (Mục 1, 3): Thông tin bảo mật cần giữ kín để ngăn người khác truy cập trái phép vào hộp thư điện tử.
-- **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 03, B8 (Mục 1), tr. 37; SGK Tin học 6 KNTT, Chủ đề 03, B8 (Mục 2), tr. 37; SGK Tin học 6 KNTT, Chủ đề 03, B8 (Mục 2), tr. 37, 38
+- **Giải thích khác (SGK Tin học 7):** EN: A secret string of characters associated with a user account on a computer or the Internet, serving as a changeable security feature to prevent unauthorized access to data. / VI: Chuỗi kí tự bí mật gắn với tài khoản người sử dụng trên máy tính hoặc Internet, đóng vai trò tính năng bảo mật có thể thay đổi được để ngăn chặn người khác truy cập dữ liệu trái phép.
+- **Bối cảnh:**
+  - Tin học lớp 6, Bài 8 (Mục 1, 3): Thông tin bảo mật cần giữ kín để ngăn người khác truy cập trái phép vào hộp thư điện tử.
+  - Tin học lớp 7, Bài 3 (Mục 2.b): biện pháp bảo mật tài khoản cá nhân trên máy tính và môi trường mạng.
+- **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 03, B8 (Mục 1), tr. 37; SGK Tin học 6 KNTT, Chủ đề 03, B8 (Mục 2), tr. 37; SGK Tin học 6 KNTT, Chủ đề 03, B8 (Mục 2), tr. 37, 38; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.a), tr. 15; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.b), tr. 15; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.c), tr. 15
 
 ### path Boolean operation
 - **Tiếng Việt:** Phép ghép
@@ -5899,6 +6362,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Công cụ vẽ trên hộp công cụ của Inkscape dùng để khởi tạo đối tượng dạng đường bằng cách chọn kiểu đường, nháy hoặc kéo thả chuột đặt các điểm neo, rồi nhấn phím Enter hoặc nháy đúp chuột tại điểm neo cuối cùng để kết thúc.
 - **Bối cảnh:** Tin học lớp 10, Bài 14 (Mục 1): công cụ vẽ đối tượng đường bằng cách đặt các điểm neo liên tiếp trên vùng làm việc.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 04, B14 (Mục 1), tr. 76; SGK Tin học 10 KNTT, Chủ đề 04, B14 (Mục 2), tr. 76; SGK Tin học 10 KNTT, Chủ đề 04, B14 (Mục 2), tr. 76, 77
+
+### percentage formatting
+- **Tiếng Việt:** Định dạng dữ liệu kiểu phần trăm
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The application of the `Percentage` style under `Number` in the `Format Cells` dialog to display a ratio value $a/b$ in a cell range as a percentage $(a/b) \times 100\%$.
+- **Giải thích (VI):** Thiết lập kiểu `Percentage` trong mục `Number` của cửa sổ `Format Cells` để hiển thị giá trị tỉ lệ $a/b$ trong vùng dữ liệu dưới dạng số phần trăm $(a/b) \times 100\%$.
+- **Bối cảnh:** Tin học lớp 7, Bài 9 (Mục 1.b): biểu diễn trực quan các cột tỉ lệ hoàn thành công việc trên trang tính dưới dạng phần trăm.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B9 (Mục 1.a), tr. 46; SGK Tin học 7 KNTT, Chủ đề 04, B9 (Mục 1.b), tr. 46; SGK Tin học 7 KNTT, Chủ đề 04, B9 (Mục 1.c), tr. 46
 
 ### perception ability
 - **Tiếng Việt:** Khả năng nhận thức
@@ -6097,6 +6568,34 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 11, Bài 15 (Mục 2.a): Các sự cố nguồn điện thường gặp và biện pháp phòng ngừa để bảo vệ cơ sở dữ liệu.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 04, B15 (Mục 1), tr. 75; SGK Tin học CS 11 KNTT, Chủ đề 04, B15 (Mục 2), tr. 75; SGK Tin học CS 11 KNTT, Chủ đề 04, B15 (Mục 2.a), tr. 75
 
+### presentation slide
+- **Tiếng Việt:** Trang chiếu (slide)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** An individually numbered page that makes up a presentation, containing information to be displayed such as text, images, audio, charts, or video.
+- **Giải thích (VI):** Trang đơn lẻ đánh số thứ tự cấu thành một bài trình chiếu, chứa các thông tin cần trình bày như văn bản, hình ảnh, âm thanh, biểu đồ hoặc video.
+- **Bối cảnh:**
+  - Tin học lớp 7, Bài 11 (Mục 1, 2): đơn vị trang cấu thành tệp bài trình chiếu, bao gồm trang tiêu đề và các trang nội dung.
+  - *Lưu ý:* Phân biệt với trang tính (worksheet) trong phần mềm bảng tính và trang văn bản trong phần mềm soạn thảo.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B11, tr. 55; SGK Tin học 7 KNTT, Chủ đề 04, B11 (Mục 1), tr. 55; SGK Tin học 7 KNTT, Chủ đề 04, B11 (Mục 1), tr. 55, 56
+
+### presentation software
+- **Tiếng Việt:** Phần mềm trình chiếu
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** Application software designed to present multimedia information (text, images, audio, charts, and video) in slide show form, featuring two core functions: creating presentations saved as files and projecting them onto a screen.
+- **Giải thích (VI):** Phần mềm ứng dụng thiết kế để trình bày thông tin đa phương tiện (văn bản, hình ảnh, âm thanh, biểu đồ, video) dưới hình thức trình chiếu, với hai chức năng cơ bản là tạo bài trình chiếu lưu thành tệp và trình chiếu lên màn hình hoặc màn chiếu.
+- **Bối cảnh:** Tin học lớp 7, Bài 11 (Mục 1): công cụ tạo và trình bày báo cáo phục vụ dạy học, hội thảo, hội nghị và quảng cáo.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B11, tr. 55; SGK Tin học 7 KNTT, Chủ đề 04, B11 (Mục 1), tr. 55; SGK Tin học 7 KNTT, Chủ đề 04, B11 (Mục 1), tr. 55, 56
+
+### presentation theme
+- **Tiếng Việt:** Mẫu định dạng (theme)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A predesigned overall styling package in the `Themes` group of the `Design` tab that uniformly defines colors, fonts, backgrounds, and effects for slides, enabling rapid creation of professional presentations.
+- **Giải thích (VI):** Bộ thiết kế tổng thể có sẵn trong nhóm `Themes` của thẻ `Design` quy định đồng bộ màu sắc, phông chữ, nền và hiệu ứng cho các trang chiếu, giúp tạo bài trình chiếu chuyên nghiệp và tiết kiệm thời gian.
+- **Bối cảnh:**
+  - Tin học lớp 7, Bài 12 (Mục 3.c): áp dụng thiết kế thẩm mĩ đồng bộ cho một số hoặc toàn bộ trang chiếu trong bài trình chiếu.
+  - *Lưu ý:* Quy định phong cách thẩm mĩ tổng thể (`Theme`); phân biệt với mẫu bố trí nội dung (`Layout`) quy định vị trí các khung chứa trên trang chiếu.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B12 (Mục 3.c), tr. 65; SGK Tin học 7 KNTT, Chủ đề 04, B12 (Mục 3.d), tr. 65; SGK Tin học 7 KNTT, Chủ đề 04, B12 (Mục 3.e), tr. 67
+
 ### primary key
 - **Tiếng Việt:** Khoá chính (khoá chính của bảng)
 - **Chuyên ngành gốc:** Tin học
@@ -6162,6 +6661,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hình thức lừa đảo bất ngờ gửi thông báo giả về việc trúng thưởng hoặc nhận phiếu mua hàng giá trị cao, đồng thời yêu cầu nạn nhân nộp trước một khoản phí để chiếm đoạt số tiền đó.
 - **Bối cảnh:** Tin học lớp 11, Bài 9 (Mục 1.b): Dạng lừa đảo thông báo trúng thưởng, khuyến mại giả để chiếm đoạt tiền phí trả trước.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 03, B9 (Mục 1.b), tr. 45; SGK Tin học CS 11 KNTT, Chủ đề 03, B9 (Mục 1.b), tr. 45, 46
+
+### problem decomposition
+- **Tiếng Việt:** Chia bài toán thành những bài toán nhỏ hơn (chia một bài toán thành những bài toán nhỏ hơn)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A problem-solving approach that breaks a problem down or reduces it to simpler or smaller subproblems, making the problem easier to solve and the resulting algorithm easier to describe and execute. This approach is demonstrated when solving sorting problems through the value-swapping subproblem or when halving the search range at each iteration in binary search.
+- **Giải thích (VI):** Phương pháp giải quyết bài toán bằng cách tách hoặc quy việc giải bài toán ban đầu về những bài toán con đơn giản hơn hoặc có phạm vi nhỏ hơn, giúp việc tìm lời giải dễ dàng hơn và việc mô tả thuật toán trở nên dễ hiểu, dễ thực hiện hơn. Cách tiếp cận này thể hiện khi giải bài toán sắp xếp dựa trên bài toán hoán đổi giá trị hai phần tử, hoặc khi thu hẹp vùng tìm kiếm chỉ còn một nửa sau mỗi lần lặp trong tìm kiếm nhị phân.
+- **Bối cảnh:** Tin học lớp 7, Bài 16 (Mục 3): đúc kết tư duy phân rã bài toán qua ví dụ dùng phép hoán đổi trong sắp xếp và thu hẹp vùng tìm kiếm trong tìm kiếm nhị phân.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 05, B16 (Mục 3), tr. 82
 
 ### problem-solving ability
 - **Tiếng Việt:** Khả năng giải quyết vấn đề
@@ -6278,10 +6785,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** A display device that projects images, text, and multimedia content from a computer or digital source onto a large screen, typically equipped with connection ports such as VGA and HDMI alongside onboard buttons for selecting input ports.
 - **Giải thích (VI):** Thiết bị hiển thị chuyên chiếu hình ảnh, văn bản và tư liệu đa phương tiện từ máy tính hoặc nguồn phát số lên màn chiếu lớn, thường trang bị các cổng kết nối như VGA, HDMI và dùng nút điều khiển trên thân máy để chọn cổng tín hiệu vào.
+- **Giải thích khác (SGK Tin học 7):** EN: A visual output device used to display computer screen content onto a projection screen. / VI: Thiết bị ra làm việc với thông tin dạng hình ảnh, dùng để hiển thị nội dung màn hình máy tính lên màn chiếu.
 - **Bối cảnh:**
   - Tin học lớp 12, Bài 22 (Mục 1a, Mục 2): Giới thiệu và thực hành kết nối máy tính với máy chiếu qua cáp tín hiệu để trình chiếu nội dung.
+  - Tin học lớp 7, Bài 1 (Mục 1): ví dụ thiết bị ra trình chiếu thông tin dạng hình ảnh từ máy tính.
   - *Lưu ý:* Phân biệt với các thiết bị hiển thị trực tiếp trên bề mặt màn hình cùng nhóm trong bài học như ti vi, bảng cảm ứng và bảng LED.
-- **Nguồn:** SGK Tin học ICT 12 KNTT, Chủ đề 06, B22, tr. 118; SGK Tin học ICT 12 KNTT, Chủ đề 06, B22 (Mục 1), tr. 118; SGK Tin học ICT 12 KNTT, Chủ đề 06, B22 (Mục 1.a), tr. 118
+- **Nguồn:** SGK Tin học ICT 12 KNTT, Chủ đề 06, B22, tr. 118; SGK Tin học ICT 12 KNTT, Chủ đề 06, B22 (Mục 1), tr. 118; SGK Tin học ICT 12 KNTT, Chủ đề 06, B22 (Mục 1.a), tr. 118; SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 6; SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 6, 7
 
 ### pseudo-element
 - **Tiếng Việt:** Phần tử giả (pseudo-element)
@@ -6399,6 +6908,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 11, Bài 4 (Mục 1.b): bộ nhớ trong khả biến lưu dữ liệu tạm thời khi thực thi chương trình.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 1), tr. 22; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 1.a), tr. 22; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 1.b), tr. 22
 
+### range address
+- **Tiếng Việt:** Địa chỉ vùng
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The notation specifying the location of a cell range on a worksheet, written as the top-left cell address and the bottom-right cell address separated by a colon (`:`), such as `B4:E11`.
+- **Giải thích (VI):** Cách kí hiệu vị trí của một vùng dữ liệu trên trang tính, viết bằng địa chỉ ô góc trên bên trái và địa chỉ ô góc dưới bên phải ngăn cách bởi dấu hai chấm (`:`), ví dụ `B4:E11`.
+- **Bối cảnh:** Tin học lớp 7, Bài 6 (Mục 1): quy ước viết tham chiếu đến một vùng dữ liệu trong công thức và hàm tính toán.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 30; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 30, 31; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 31
+
 ### range function
 - **Tiếng Việt:** Lệnh tạo vùng giá trị (lệnh range())
 - **Chuyên ngành gốc:** Tin học
@@ -6513,6 +7030,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 11, Bài 1 (Mục 3): Mô hình phân tầng vai trò giữa phần cứng, hệ điều hành, phần mềm ứng dụng và người sử dụng.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B1 (Mục 3), tr. 9
 
+### relationship between sorting and searching
+- **Tiếng Việt:** Mối liên quan giữa sắp xếp và tìm kiếm
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A data processing principle stating that pre-sorting a list enables the application of binary search to halve the search scope at each iteration, making searching significantly faster than sequential search.
+- **Giải thích (VI):** Nguyên lí trong xử lí dữ liệu khẳng định việc sắp xếp trước danh sách tạo điều kiện áp dụng thuật toán tìm kiếm nhị phân để thu hẹp một nửa phạm vi tìm kiếm sau mỗi bước lặp, giúp quá trình tìm kiếm diễn ra nhanh hơn nhiều so với tìm kiếm tuần tự.
+- **Bối cảnh:** Tin học lớp 7, Bài 15 (Mục 2): giải thích vai trò của việc sắp xếp dữ liệu đối với tốc độ tra cứu thông tin.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 05, B15 (Mục 2), tr. 77
+
 ### relative independence of information and data
 - **Tiếng Việt:** Tính độc lập tương đối (tính độc lập tương đối giữa thông tin và dữ liệu)
 - **Chuyên ngành gốc:** Tin học
@@ -6528,6 +7053,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại đường dẫn mô tả cách truy cập tài liệu đích xuất phát từ vị trí của tài liệu hiện tại mà không cần khai báo giao thức hay tên miền. Đường dẫn tương đối chỉ gồm tên đường dẫn tới tệp cần truy cập và thường dùng cho các tài nguyên nằm trên cùng một website hoặc máy chủ.
 - **Bối cảnh:** Tin học lớp 12, Bài 10 (Mục 1): Tham chiếu tới các trang và tệp nằm trong cùng một website.
 - **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 04, B10 (Mục 1), tr. 57; SGK Tin học CS 12 KNTT, Chủ đề 04, B10 (Mục 1), tr. 58; SGK Tin học CS 12 KNTT, Chủ đề 04, B10 (Mục 2), tr. 58; SGK Tin học ICT 12 KNTT, Chủ đề 04, B10 (Mục 1), tr. 57
+
+### remote backup
+- **Tiếng Việt:** Sao lưu từ xa
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A backup method that stores data copies outside the computer holding the original (on another computer or over the Internet via cloud technology), keeping the backup safe even if the original computer fails.
+- **Giải thích (VI):** Hình thức sao lưu đặt bản sao dữ liệu bên ngoài máy tính chứa bản gốc (trên một máy tính khác hoặc đưa lên Internet nhờ công nghệ đám mây), giúp giữ an toàn cho bản sao ngay cả khi máy tính gốc gặp sự cố.
+- **Bối cảnh:** Tin học lớp 7, Bài 3 (Mục 2.a): hình thức sao lưu dữ liệu qua mạng và đám mây để phòng tránh rủi ro hỏng thiết bị gốc.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 1), tr. 14; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2), tr. 14; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.a), tr. 14
 
 ### remote smart home device control
 - **Tiếng Việt:** Kết nối và điều khiển thiết bị nhà thông minh qua Internet
@@ -6813,12 +7346,33 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 02, B7, tr. 38
 
 ### search problem
-- **Tiếng Việt:** Bài toán tìm kiếm (miền dữ liệu)
+- **Tiếng Việt:** Bài toán tìm kiếm (miền dữ liệu; thuật toán tìm kiếm)
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** Fundamental and important class of problems in computer science that requires identifying objects or values satisfying a given criterion within a specified data domain. Designing an algorithm to solve a search problem depends directly on the structure of the target data domain and the specific search criterion.
 - **Giải thích (VI):** Lớp bài toán cơ bản và quan trọng của Tin học yêu cầu xác định các đối tượng hoặc giá trị thoả mãn tiêu chí cho trước trong một miền dữ liệu nhất định. Việc thiết kế thuật toán giải bài toán tìm kiếm phụ thuộc trực tiếp vào cấu trúc của miền dữ liệu cần tìm và tiêu chí tìm kiếm cụ thể.
-- **Bối cảnh:** Tin học lớp 11, Bài 19 (Mục 1): xác định miền dữ liệu và kết quả nghiệm của các bài toán tìm kiếm thực tế.
-- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B19, tr. 89; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 1), tr. 89; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 1), tr. 89, 90
+- **Giải thích khác (SGK Tin học 7):** EN: A computational problem of determining the position or associated information of a target item (output) given a data list and a search key (input), solved efficiently using search algorithms. / VI: Bài toán xác định vị trí hoặc thông tin liên quan của một đối tượng cần tìm (đầu ra) từ một danh sách dữ liệu cho trước và giá trị khoá cần tìm (đầu vào), giải quyết hiệu quả thông qua các thuật toán tìm kiếm.
+- **Bối cảnh:**
+  - Tin học lớp 11, Bài 19 (Mục 1): xác định miền dữ liệu và kết quả nghiệm của các bài toán tìm kiếm thực tế.
+  - Tin học lớp 7, Bài 14 (Mục 1): xác định đầu vào và đầu ra khi tra cứu dữ liệu trong danh sách.
+- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B19, tr. 89; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 1), tr. 89; SGK Tin học CS 11 KNTT, Chủ đề 06, B19 (Mục 1), tr. 89, 90; SGK Tin học 7 KNTT, Chủ đề 05, B14, tr. 71; SGK Tin học 7 KNTT, Chủ đề 05, B14 (Mục 1), tr. 71; SGK Tin học 7 KNTT, Chủ đề 05, B14 (Mục 1), tr. 71, 72
+
+### search range
+- **Tiếng Việt:** Vùng tìm kiếm
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The segment of a sorted list currently examined at each iteration of a binary search algorithm. Initially spanning the entire list, it narrows after each unsuccessful comparison to either the preceding half or the succeeding half (excluding the inspected middle position).
+- **Giải thích (VI):** Đoạn danh sách đã sắp xếp mà thuật toán tìm kiếm nhị phân đang xét tại mỗi bước lặp. Ban đầu vùng này là toàn bộ danh sách, sau mỗi bước chưa tìm thấy sẽ thu hẹp còn nửa trước hoặc nửa sau (không bao gồm vị trí giữa đã xét).
+- **Bối cảnh:**
+  - Tin học lớp 7, Bài 15 (Mục 1): xác định phạm vi phần tử còn lại cần xét qua từng lần chia đôi trong tìm kiếm nhị phân.
+  - *Lưu ý:* Phân biệt với vùng dữ liệu (cell range) trên trang tính điện tử.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 05, B15 (Mục 1), tr. 76; SGK Tin học 7 KNTT, Chủ đề 05, B15 (Mục 2), tr. 76; SGK Tin học 7 KNTT, Chủ đề 05, B15 (Mục 2), tr. 76, 77
+
+### search range midpoint
+- **Tiếng Việt:** Vị trí giữa của vùng tìm kiếm (vị trí giữa)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The index of the pivot element that divides the search range into a preceding half and a succeeding half in binary search, calculated as the integer part of $(\text{first position} + \text{last position})/2$.
+- **Giải thích (VI):** Chỉ số phần tử mốc chia vùng tìm kiếm thành nửa trước và nửa sau trong thuật toán tìm kiếm nhị phân, xác định bằng phần nguyên của $(\text{vị trí đầu} + \text{vị trí cuối})/2$.
+- **Bối cảnh:** Tin học lớp 7, Bài 15 (Mục 1): công thức chọn phần tử so sánh ở giữa cho cả vùng tìm kiếm có số lượng phần tử chẵn hoặc lẻ.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 05, B15 (Mục 1), tr. 76; SGK Tin học 7 KNTT, Chủ đề 05, B15 (Mục 2), tr. 76; SGK Tin học 7 KNTT, Chủ đề 05, B15 (Mục 2), tr. 76, 77
 
 ### search results
 - **Tiếng Việt:** Kết quả tìm kiếm
@@ -6870,8 +7424,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** Sorting algorithm that runs a loop with index $i$ from $0$ to $n - 2$, at each iteration selecting the minimum element in the subarray $A[i], A[i+1], \dots, A[n-1]$ and swapping it with $A[i]$.
 - **Giải thích (VI):** Thuật toán sắp xếp thực hiện vòng lặp cho chỉ số $i$ chạy từ $0$ đến $n - 2$, tại mỗi bước lặp tìm phần tử nhỏ nhất trong dãy con $A[i], A[i+1], \dots, A[n-1]$ rồi đổi chỗ phần tử đó với $A[i]$.
-- **Bối cảnh:** Tin học lớp 11, Bài 21 (Mục 2): ý tưởng mô phỏng và cài đặt hàm SelectionSort(A) để sắp xếp dãy số tăng dần.
-- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B21 (Mục 2), tr. 100; SGK Tin học CS 11 KNTT, Chủ đề 06, B21 (Mục 2), tr. 101; SGK Tin học CS 11 KNTT, Chủ đề 06, B21 (Mục 2), tr. 102
+- **Giải thích khác (SGK Tin học 7):** EN: A sorting algorithm that examines each position sequentially from the beginning to the end of a sequence, directly comparing the element at the current position with each element after it and swapping them whenever they are out of order. When sorting in ascending order, completing the loop at each position places the smallest element among the remaining elements into that position. / VI: Thuật toán sắp xếp thực hiện bằng cách xét lần lượt từng vị trí từ đầu đến cuối dãy, so sánh trực tiếp phần tử ở vị trí đang xét với từng phần tử ở phía sau nó và hoán đổi ngay nếu chúng chưa đúng thứ tự. Khi sắp xếp theo thứ tự tăng dần, kết thúc mỗi vòng lặp tại một vị trí, phần tử nhỏ nhất trong số các phần tử còn lại phía sau được đưa về đúng vị trí đang xét.
+- **Bối cảnh:**
+  - Tin học lớp 11, Bài 21 (Mục 2): ý tưởng mô phỏng và cài đặt hàm SelectionSort(A) để sắp xếp dãy số tăng dần.
+  - Tin học lớp 7, Bài 16 (Mục 2): định nghĩa và mô phỏng cách chọn phần tử nhỏ nhất đưa dần về từng vị trí từ đầu đến cuối dãy, đối sánh với sắp xếp nổi bọt.
+- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B21 (Mục 2), tr. 100; SGK Tin học CS 11 KNTT, Chủ đề 06, B21 (Mục 2), tr. 101; SGK Tin học CS 11 KNTT, Chủ đề 06, B21 (Mục 2), tr. 102; SGK Tin học 7 KNTT, Chủ đề 05, B16 (Mục 2), tr. 80; SGK Tin học 7 KNTT, Chủ đề 05, B16 (Mục 2), tr. 81; SGK Tin học 7 KNTT, Chủ đề 05, B16 (Mục 2), tr. 82
 
 ### selection sort principle
 - **Tiếng Việt:** Ý tưởng của thuật toán sắp xếp chọn
@@ -7018,6 +7575,60 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với tiêu đề trang (dòng chữ lớn giới thiệu chủ đề trên ảnh nền đầu trang) và tên tệp dự án lưu trên Google Drive.
 - **Nguồn:** SGK Tin học ICT 12 KNTT, Chủ đề 07, B23, tr. 126; SGK Tin học ICT 12 KNTT, Chủ đề 07, B23 (Mục 1), tr. 126; SGK Tin học ICT 12 KNTT, Chủ đề 07, B23 (Mục 1.a), tr. 126
 
+### slide image formatting
+- **Tiếng Việt:** Định dạng cho hình ảnh trên trang chiếu
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A set of editing operations applied to an image inserted onto a slide, including adjusting position and size, cropping or rotating, adding border frames, and changing layer order so text is not obscured.
+- **Giải thích (VI):** Tập hợp các thao tác chỉnh sửa hình ảnh sau khi chèn vào trang chiếu gồm thay đổi vị trí, kích thước, cắt hoặc quay hình, kẻ đường viền khung và sắp xếp thứ tự lớp hiển thị để không che khuất văn bản.
+- **Bối cảnh:** Tin học lớp 7, Bài 12 (Mục 3.e): xử lí lớp hiển thị, khung viền và kích thước ảnh minh hoạ hài hoà với nội dung trang chiếu.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B12 (Mục 3), tr. 63; SGK Tin học 7 KNTT, Chủ đề 04, B12 (Mục 3.e), tr. 66; SGK Tin học 7 KNTT, Chủ đề 04, B12 (Mục 3.e), tr. 66, 67
+
+### slide layout
+- **Tiếng Việt:** Mẫu bố trí nội dung trang trình chiếu (layout)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A predesigned template specifying the arrangement of title, text, and object placeholders on a slide, which users can apply consistently, switch via the `Layout` command, or customize to fit their content.
+- **Giải thích (VI):** Khuôn mẫu thiết kế sẵn quy định vị trí sắp xếp các khung tiêu đề, văn bản và đối tượng trên trang chiếu, cho phép người dùng chọn áp dụng thống nhất, thay đổi bằng lệnh `Layout` hoặc tự điều chỉnh phù hợp với nội dung.
+- **Bối cảnh:**
+  - Tin học lớp 7, Bài 11 (Mục 2): chọn bố cục sắp xếp các phần tử trên trang chiếu (phân biệt với mẫu định dạng màu sắc, phông chữ `Theme`).
+  - *Lưu ý:* Quy định bố cục khung nội dung (`Layout`); phân biệt với mẫu định dạng (`Theme`) quy định bảng màu, phông chữ và nền trang chiếu.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B11 (Mục 1), tr. 56; SGK Tin học 7 KNTT, Chủ đề 04, B11 (Mục 2), tr. 56; SGK Tin học 7 KNTT, Chủ đề 04, B11 (Mục 2), tr. 56, 57
+
+### slide object
+- **Tiếng Việt:** Các đối tượng trên trang chiếu
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** Content elements placed on a presentation slide—including text, images, tables, diagrams, audio, or video—that can be arranged, formatted, and assigned animation effects.
+- **Giải thích (VI):** Các thành phần nội dung đưa vào trang chiếu gồm văn bản, hình ảnh, bảng biểu, sơ đồ, âm thanh hoặc video, có thể sắp xếp bố cục, định dạng và gán hiệu ứng động.
+- **Bối cảnh:** Tin học lớp 7, Bài 12 (Mục 1, 2), Bài 13 (Mục 1): các thành phần trực quan được chèn, định dạng và tạo hiệu ứng trên trang chiếu.
+- **Nguồn:** SGK Tin học 7 KNTT, Bảng giải thích thuật ngữ, tr. 83; SGK Tin học 7 KNTT, Chủ đề 04, B13 (Mục 1), tr. 68; SGK Tin học 7 KNTT, Chủ đề 04, B13 (Mục 1), tr. 69
+
+### slide text formatting
+- **Tiếng Việt:** Định dạng văn bản trên trang chiếu
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The consistent and legible configuration of font, font size, font style, text color, and alignment for concise text on a slide to emphasize the main message of each slide.
+- **Giải thích (VI):** Việc thiết lập phông chữ, cỡ chữ, kiểu chữ, màu chữ và căn lề thống nhất, dễ đọc cho văn bản cô đọng trên trang chiếu nhằm làm nổi bật thông điệp chính của từng trang.
+- **Bối cảnh:** Tin học lớp 7, Bài 12 (Mục 2): nguyên tắc trình bày chữ dễ đọc, tương phản với nền và cô đọng một ý chính trên mỗi trang chiếu.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B12 (Mục 1), tr. 62; SGK Tin học 7 KNTT, Chủ đề 04, B12 (Mục 2), tr. 62; SGK Tin học 7 KNTT, Chủ đề 04, B12 (Mục 2), tr. 62, 63
+
+### slide title
+- **Tiếng Việt:** Tiêu đề trang
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A text element placed at the top of each content slide to highlight the main idea presented on that slide.
+- **Giải thích (VI):** Thành phần văn bản đặt ở phía trên đầu mỗi trang nội dung nhằm nêu bật ý chính cần trình bày trên trang chiếu đó.
+- **Bối cảnh:**
+  - Tin học lớp 7, Bài 11 (Mục 2): giúp người xem nắm bắt nhanh nội dung trọng tâm của từng trang chiếu.
+  - *Lưu ý:* Là dòng tiêu đề của từng trang nội dung đơn lẻ; phân biệt với trang tiêu đề (title slide) là toàn bộ trang mở đầu bài trình chiếu.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B11, tr. 55; SGK Tin học 7 KNTT, Chủ đề 04, B11 (Mục 1), tr. 56; SGK Tin học 7 KNTT, Chủ đề 04, B11 (Mục 2), tr. 56
+
+### slide transition
+- **Tiếng Việt:** Hiệu ứng chuyển trang chiếu
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A type of dynamic effect configured on the `Transitions` tab that determines how a slide appears in place of the preceding slide when advancing during a presentation.
+- **Giải thích (VI):** Loại hiệu ứng động thiết lập trên thẻ `Transitions` quy định cách thức một trang chiếu xuất hiện thay thế trang trước đó khi chuyển trang trong quá trình trình chiếu.
+- **Bối cảnh:**
+  - Tin học lớp 7, Bài 13 (Mục 1, 2.b): tạo sự chuyển tiếp mượt mà và thống nhất giữa các trang chiếu.
+  - *Lưu ý:* Áp dụng cho toàn bộ trang chiếu khi chuyển trang (`Transitions`); phân biệt với hiệu ứng cho đối tượng (`Animations`).
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B13, tr. 68; SGK Tin học 7 KNTT, Chủ đề 04, B13 (Mục 1), tr. 68; SGK Tin học 7 KNTT, Chủ đề 04, B13 (Mục 1), tr. 68, 69
+
 ### slow down principle
 - **Tiếng Việt:** Hãy chậm lại
 - **Chuyên ngành gốc:** Tin học
@@ -7091,6 +7702,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 12, Bài 22 (Mục 1b): Giải thích trình tự kết nối lần đầu và cách duy trì liên lạc qua đám mây của thiết bị nhà thông minh.
 - **Nguồn:** SGK Tin học ICT 12 KNTT, Chủ đề 06, B22 (Mục 1.b), tr. 119; SGK Tin học ICT 12 KNTT, Chủ đề 06, B22 (Mục 2), tr. 119; SGK Tin học ICT 12 KNTT, Chủ đề 06, B22 (Mục 2), tr. 119, 120
 
+### smart speaker
+- **Tiếng Việt:** Loa thông minh
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** An audio device with wireless connectivity to computers, smartphones, or the Internet for data exchange that both receives voice commands and responds with spoken or audio output.
+- **Giải thích (VI):** Thiết bị âm thanh có kết nối không dây với máy tính, điện thoại thông minh hoặc Internet để trao đổi dữ liệu, vừa nhận lệnh bằng giọng nói vừa phản hồi và phát âm thanh ra bên ngoài.
+- **Bối cảnh:** Tin học lớp 7, Bài 1 (Mục 1): ví dụ thiết bị vào – ra kết hợp kết nối mạng không dây và tương tác bằng giọng nói.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 7
+
 ### smart switch
 - **Tiếng Việt:** Công tắc thông minh
 - **Chuyên ngành gốc:** Tin học
@@ -7122,6 +7741,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Điểm neo nối giữa các đoạn trên đối tượng đường (thể hiện bởi hình vuông hoặc hình tròn trong Inkscape) có hai đường chỉ hướng của hai đoạn kề nhau luôn trùng phương, tạo độ uốn cong trơn tru.
 - **Bối cảnh:** Tin học lớp 10, Bài 14 (Mục 2): điểm nối tạo độ uốn cong trơn tru giữa hai đoạn liền kề trên đối tượng đường.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 04, B14 (Mục 1), tr. 76; SGK Tin học 10 KNTT, Chủ đề 04, B14 (Mục 2), tr. 76; SGK Tin học 10 KNTT, Chủ đề 04, B14 (Mục 2), tr. 76, 77
+
+### social network
+- **Tiếng Việt:** Mạng xã hội
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** An online community on the Internet (commonly organized as websites or applications such as Facebook, Zalo, YouTube, or Instagram) where people connect, share content, and interact in multiple ways.
+- **Giải thích (VI):** Cộng đồng trực tuyến trên Internet (thường tổ chức dưới dạng các website hoặc ứng dụng như Facebook, Zalo, YouTube, Instagram) nơi mọi người kết nối, chia sẻ nội dung và tương tác với nhau theo nhiều hình thức.
+- **Bối cảnh:** Tin học lớp 7, Bài 4 (Mục 1.b): khái niệm mạng xã hội và phân loại một số mạng xã hội phổ biến theo mục đích sử dụng.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 02, B4, tr. 18; SGK Tin học 7 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 18; SGK Tin học 7 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 19
 
 ### soft skills
 - **Tiếng Việt:** Kĩ năng mềm
@@ -7246,12 +7873,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 1.b), tr. 23; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 1.c), tr. 23; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2), tr. 23
 
 ### sorting problem
-- **Tiếng Việt:** Bài toán sắp xếp (bài toán sắp xếp cơ bản)
+- **Tiếng Việt:** Bài toán sắp xếp (bài toán sắp xếp cơ bản; thuật toán sắp xếp)
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** Fundamental problem in computer science requiring the rearrangement of a sequence $A$ of $n$ elements $A[0], A[1], \dots, A[n-1]$ so that the elements satisfy a specified order, canonically non-decreasing order $A[0] \le A[1] \le \dots \le A[n-1]$.
 - **Giải thích (VI):** Bài toán cơ bản trong Tin học yêu cầu hoán đổi vị trí các phần tử của dãy $A$ gồm $n$ phần tử $A[0], A[1], \dots, A[n-1]$ sao cho dãy thỏa mãn một thứ tự xác định, dạng chuẩn là thứ tự không giảm $A[0] \le A[1] \le \dots \le A[n-1]$.
-- **Bối cảnh:** Tin học lớp 11, Bài 21 (Mục 1): phát biểu bài toán sắp xếp cơ bản làm tiền đề cho tìm kiếm nhị phân và các thuật toán sắp xếp đơn giản.
-- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B21, tr. 99; SGK Tin học CS 11 KNTT, Chủ đề 06, B21 (Mục 1), tr. 99; SGK Tin học CS 11 KNTT, Chủ đề 06, B21 (Mục 1), tr. 99, 100
+- **Giải thích khác (SGK Tin học 7):** EN: A data-processing problem that requires arranging the elements of an unordered list into a required order (such as ascending order) to facilitate searching. Computers solve this problem using various sorting algorithms upon user request, for instance when sorting grade averages in a spreadsheet or file names in a folder. / VI: Bài toán xử lí dữ liệu yêu cầu sắp đặt các phần tử của một danh sách chưa có thứ tự về đúng thứ tự yêu cầu (chẳng hạn theo thứ tự tăng dần) nhằm giúp việc tìm kiếm được thực hiện dễ dàng. Máy tính giải quyết bài toán này bằng nhiều thuật toán sắp xếp khác nhau theo yêu cầu của người sử dụng, ví dụ khi sắp xếp điểm trung bình trong bảng tính hoặc tên tệp trong thư mục.
+- **Bối cảnh:**
+  - Tin học lớp 11, Bài 21 (Mục 1): phát biểu bài toán sắp xếp cơ bản làm tiền đề cho tìm kiếm nhị phân và các thuật toán sắp xếp đơn giản.
+  - Tin học lớp 7, Bài 16 (Mục 1): giới thiệu nhu cầu sắp xếp dữ liệu trên máy tính để hỗ trợ tìm kiếm và dẫn dắt vào các thuật toán sắp xếp cụ thể.
+- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B21, tr. 99; SGK Tin học CS 11 KNTT, Chủ đề 06, B21 (Mục 1), tr. 99; SGK Tin học CS 11 KNTT, Chủ đề 06, B21 (Mục 1), tr. 99, 100; SGK Tin học 7 KNTT, Chủ đề 05, B16, tr. 78; SGK Tin học 7 KNTT, Chủ đề 05, B16 (Mục 1), tr. 78; SGK Tin học 7 KNTT, Chủ đề 05, B16 (Mục 1), tr. 78, 79
 
 ### source code
 - **Tiếng Việt:** Mã nguồn
@@ -7287,6 +7917,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 10, Bài 11 (Mục 1): Phân biệt hoạt động quảng cáo hợp pháp với hành vi gửi thư rác, tin nhắn rác gây quấy nhiễu trên mạng.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 03, B11 (Mục 1), tr. 56; SGK Tin học 10 KNTT, Chủ đề 03, B11 (Mục 1), tr. 56, 57
 
+### speaker
+- **Tiếng Việt:** Loa
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** An audio output device that receives data from a computer and outputs it externally as audible sound.
+- **Giải thích (VI):** Thiết bị ra làm việc với thông tin dạng âm thanh, có chức năng nhận dữ liệu từ máy tính và phát ra bên ngoài dưới dạng âm thanh nghe thấy được.
+- **Bối cảnh:** Tin học lớp 7, Bài 1 (Mục 1): ví dụ thiết bị ra làm việc với thông tin dạng âm thanh.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B1, tr. 5; SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 5; SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 5, 6
+
 ### spot check principle
 - **Tiếng Việt:** Kiểm tra ngay
 - **Chuyên ngành gốc:** Tin học
@@ -7294,6 +7932,58 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nguyên tắc thứ hai trong phòng tránh lừa đảo trên không gian số, yêu cầu người dùng chủ động tra cứu thông tin độc lập như số điện thoại, trang web hoặc địa chỉ chính thức của cơ quan, tổ chức mà người gửi mạo danh để liên hệ xác minh trực tiếp.
 - **Bối cảnh:** Tin học lớp 11, Bài 9 (Mục 1.a): Nguyên tắc thứ hai trong ba nguyên tắc nhận biết và phòng tránh lừa đảo trên không gian số.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 03, B9 (Mục 1.a), tr. 44; SGK Tin học CS 11 KNTT, Chủ đề 03, B9 (Mục 1.b), tr. 44; SGK Tin học CS 11 KNTT, Chủ đề 03, B9 (Mục 1.b), tr. 44, 45
+
+### spreadsheet cell
+- **Tiếng Việt:** Ô tính (ô)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The basic unit on a worksheet formed by the intersection of a row and a column, used to store and display text, numbers, dates, or formulas.
+- **Giải thích (VI):** Đơn vị cơ bản trên trang tính tạo bởi giao của một hàng và một cột, dùng để lưu trữ và hiển thị dữ liệu dạng văn bản, số, ngày tháng hoặc công thức.
+- **Bối cảnh:**
+  - Tin học lớp 7, Bài 6 (Mục 1, 2.b): đơn vị lưu trữ dữ liệu cơ bản trên lưới trang tính điện tử.
+  - *Lưu ý:* Trong phần mềm bảng tính là ô trên lưới trang tính; phân biệt với tế bào (cell) trong sinh học hoặc ô nhớ trong kiến trúc máy tính.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 29; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 29, 30; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 2.b), tr. 31
+
+### spreadsheet data type
+- **Tiếng Việt:** Kiểu dữ liệu trên bảng tính
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A classification of data entered into a cell that spreadsheet software automatically recognizes and displays in a default format, comprising four basic types: text, number, date, and formula.
+- **Giải thích (VI):** Phân loại dữ liệu nhập vào ô tính mà phần mềm bảng tính tự động nhận biết và hiển thị theo khuôn dạng mặc định, gồm bốn kiểu cơ bản là văn bản, số, ngày tháng và công thức.
+- **Bối cảnh:** Tin học lớp 7, Bài 7 (Mục 1): nhận biết và phân biệt các dạng dữ liệu cơ bản trong ô tính (mặc định văn bản căn trái, số và ngày tháng căn phải).
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B7, tr. 34; SGK Tin học 7 KNTT, Chủ đề 04, B7 (Mục 1), tr. 34; SGK Tin học 7 KNTT, Chủ đề 04, B7 (Mục 1), tr. 34, 35
+
+### spreadsheet formula
+- **Tiếng Việt:** Công thức
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A mathematical expression entered directly into a cell starting with an equals sign (`=`), containing numbers, cell addresses, operators (`+`, `–`, `*`, `/`, `^`), and parentheses to perform rapid calculations in a spreadsheet.
+- **Giải thích (VI):** Biểu thức toán học nhập trực tiếp vào ô tính bắt đầu bằng dấu `=`, chứa các số, địa chỉ ô, phép toán (`+`, `–`, `*`, `/`, `^`) và dấu ngoặc tròn để thực hiện tính toán nhanh chóng trên bảng tính.
+- **Bối cảnh:**
+  - Tin học lớp 7, Bài 7 (Mục 1, 2): nhập biểu thức tính toán vào ô tính theo đúng kí hiệu và thứ tự thực hiện phép toán.
+  - *Lưu ý:* Trong phần mềm bảng tính luôn bắt đầu bằng dấu `=`; phân biệt với công thức toán học tổng quát hoặc công thức hoá học.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B7, tr. 34; SGK Tin học 7 KNTT, Chủ đề 04, B7 (Mục 1), tr. 34; SGK Tin học 7 KNTT, Chủ đề 04, B7 (Mục 1), tr. 34, 35
+
+### spreadsheet function syntax
+- **Tiếng Việt:** Cú pháp nhập hàm (cách sử dụng hàm)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The rule for entering a function into a cell in the form `= <function name>(<arguments>)`, where the function name is case-insensitive and arguments may be numbers, cell addresses, or range addresses.
+- **Giải thích (VI):** Quy tắc viết hàm vào ô tính theo mẫu `= <tên hàm>(<các tham số>)`, trong đó tên hàm không phân biệt chữ hoa hay chữ thường và các tham số có thể là số, địa chỉ ô hoặc địa chỉ vùng dữ liệu.
+- **Bối cảnh:** Tin học lớp 7, Bài 8 (Mục 1): quy tắc gõ đúng tên hàm và danh sách tham số khi thực hiện tính toán trên trang tính.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 1), tr. 40; SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 1), tr. 41; SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 2), tr. 41
+
+### spreadsheet printing
+- **Tiếng Việt:** In dữ liệu trong bảng tính
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The operation of outputting a selected cell range, the active worksheet, or the entire workbook to a printer via the `File/Print` command, allowing configuration of copies, printer, page orientation, and paper size before printing.
+- **Giải thích (VI):** Thao tác xuất dữ liệu của vùng đang chọn, trang tính hiện thời hoặc toàn bộ bảng tính ra máy in bằng lệnh `File/Print`, cho phép thiết lập số bản in, máy in, hướng giấy và cỡ giấy trước khi in.
+- **Bối cảnh:** Tin học lớp 7, Bài 10 (Mục 2): kiểm tra bố cục trang và in dữ liệu bảng tính ra giấy.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B10 (Mục 2), tr. 53; SGK Tin học 7 KNTT, Chủ đề 04, B10 (Mục 3), tr. 53; SGK Tin học 7 KNTT, Chủ đề 04, B10 (Mục 3.a), tr. 53
+
+### spreadsheet software
+- **Tiếng Việt:** Phần mềm bảng tính (chương trình bảng tính; phần mềm bảng tính điện tử)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** Application software (such as Microsoft Excel, Google Sheets, or Libre Calc) used to present information concisely in tabular form, perform calculations, create charts from data, and automatically recalculate results whenever source data changes.
+- **Giải thích (VI):** Phần mềm ứng dụng (như Microsoft Excel, Google Sheets, Libre Calc) giúp trình bày thông tin cô đọng dưới dạng bảng, thực hiện các tính toán phổ biến, vẽ biểu đồ minh hoạ số liệu và tự động cập nhật kết quả tính toán khi dữ liệu gốc thay đổi.
+- **Bối cảnh:** Tin học lớp 7, Bài 6 (Mục 1): giới thiệu chức năng cốt lõi và giao diện chung của các chương trình bảng tính điện tử.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B6, tr. 28; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 28; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 28, 29
 
 ### spyware
 - **Tiếng Việt:** Spyware (phần mềm gián điệp)
@@ -7355,6 +8045,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tin học lớp 10, Bài 12 (Mục 2.b): thanh thông tin trạng thái ở cạnh dưới cửa sổ làm việc của Inkscape.
   - Tin học lớp 11, Bài 2 (Nhiệm vụ 1): Thành phần giao diện giúp người dùng quan sát nhanh các thông số hoạt động của hệ thống.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 01, B7 (Mục 2), tr. 35; SGK Tin học 10 KNTT, Chủ đề 01, B7 (Mục 2), tr. 35, 36; SGK Tin học 10 KNTT, Chủ đề 04, B12 (Mục 2), tr. 65; SGK Tin học 10 KNTT, Chủ đề 04, B12 (Mục 2.a), tr. 65; SGK Tin học 10 KNTT, Chủ đề 04, B12 (Mục 2.b), tr. 65; SGK Tin học CS 11 KNTT, Chủ đề 01, B2, tr. 11; SGK Tin học CS 11 KNTT, Chủ đề 01, B2, tr. 11, 12
+
+### status box
+- **Tiếng Việt:** Hộp trạng thái
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** An input area on a social network interface that allows users to compose text and attach photos or videos from their computer to publish and share content.
+- **Giải thích (VI):** Vùng nhập liệu trên giao diện trang mạng xã hội cho phép người sử dụng nhập nội dung văn bản và đính kèm ảnh, video từ máy tính để đăng tải, chia sẻ lên trang cá nhân.
+- **Bối cảnh:** Tin học lớp 7, Bài 4 (Mục 2.b): thao tác nhập và đăng bài chia sẻ nội dung trên trang mạng xã hội cá nhân.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 02, B4 (Mục 2.b), tr. 21; SGK Tin học 7 KNTT, Chủ đề 02, B4 (Mục 2.c), tr. 21; SGK Tin học 7 KNTT, Chủ đề 02, B4 (Mục 2.c), tr. 21, 22
 
 ### stepwise refinement
 - **Tiếng Việt:** Phương pháp làm mịn dần (phương pháp làm mịn dần trong thiết kế chương trình)
@@ -7441,8 +8139,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Tin học
 - **Giải thích (EN):** A password of sufficient length that combines uppercase letters, lowercase letters, digits, and special characters so that it is difficult for computer programs to crack or for others to guess.
 - **Giải thích (VI):** Mật khẩu có độ dài đủ lớn và kết hợp chữ cái viết hoa, chữ cái viết thường, chữ số cùng kí tự đặc biệt để khó bị chương trình máy tính dò tìm hoặc bị người khác đoán biết.
-- **Bối cảnh:** Tin học lớp 6, Bài 9 (Mục 3): Biện pháp kĩ thuật quan trọng để bảo vệ tài khoản cá nhân trên Internet.
-- **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 04, B9 (Mục 3), tr. 45; SGK Tin học 6 KNTT, Chủ đề 04, B9 (Mục 3), tr. 45, 46; SGK Tin học 6 KNTT, Chủ đề 04, B9 (Mục 3), tr. 46
+- **Giải thích khác (SGK Tin học 7):** EN: A high-security password that is typically at least eight characters long, combines digits, uppercase letters, lowercase letters, and special symbols (such as @ or #), and is not a common, easily guessed word. / VI: Mật khẩu có độ an toàn cao, thường dài ít nhất tám kí tự, kết hợp cả chữ số, chữ in hoa, chữ thường và kí hiệu đặc biệt (như @, #), đồng thời không phải là một từ thông thường dễ đoán.
+- **Bối cảnh:**
+  - Tin học lớp 6, Bài 9 (Mục 3): Biện pháp kĩ thuật quan trọng để bảo vệ tài khoản cá nhân trên Internet.
+  - Tin học lớp 7, Bài 3 (Mục 2.b): tiêu chí thiết lập mật khẩu an toàn cho tài khoản người sử dụng.
+- **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 04, B9 (Mục 3), tr. 45; SGK Tin học 6 KNTT, Chủ đề 04, B9 (Mục 3), tr. 45, 46; SGK Tin học 6 KNTT, Chủ đề 04, B9 (Mục 3), tr. 46; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.a), tr. 15; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.b), tr. 15; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.c), tr. 15
 
 ### Structured Query Language
 - **Tiếng Việt:** SQL (Structured Query Language; ngôn ngữ truy vấn có cấu trúc; Ngôn ngữ truy vấn SQL)
@@ -7486,6 +8187,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Các chủ đề thành phần được triển khai toả ra từ chủ đề chính trong sơ đồ tư duy và có thể tiếp tục mở rộng thành các nhánh con chi tiết bằng từ khoá hoặc hình ảnh.
 - **Bối cảnh:** Tin học lớp 6, Bài 10 (Mục 1, 2): Các nhánh nội dung chính triển khai trực tiếp từ chủ đề trung tâm của sơ đồ tư duy.
 - **Nguồn:** SGK Tin học 6 KNTT, Chủ đề 05, B10, tr. 48; SGK Tin học 6 KNTT, Chủ đề 05, B10 (Mục 1), tr. 48; SGK Tin học 6 KNTT, Chủ đề 05, B10 (Mục 1), tr. 48, 49
+
+### SUM function
+- **Tiếng Việt:** SUM (hàm SUM)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A spreadsheet function with the syntax `SUM(v1, v2, ...)` that calculates the sum of numeric values in its argument list (including numbers, cell addresses, or cell ranges) while ignoring text and empty cells.
+- **Giải thích (VI):** Hàm trong phần mềm bảng tính có cú pháp `SUM(v1, v2, ...)`, dùng để tính tổng các giá trị số trong danh sách tham số (gồm số, địa chỉ ô hoặc vùng dữ liệu) và bỏ qua ô văn bản hoặc ô trống.
+- **Bối cảnh:** Tin học lớp 7, Bài 8 (Mục 1, 2): hàm cơ bản dùng để tính tổng các dãy số liệu trên trang tính.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 1), tr. 39; SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 1), tr. 40; SGK Tin học 7 KNTT, Chủ đề 04, B8 (Mục 2), tr. 41
 
 ### supercomputer
 - **Tiếng Việt:** Siêu máy tính
@@ -7717,6 +8426,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 11, Bài 23 (Mục 3): công cụ đo thực nghiệm thời gian thực thi hàm InsertionSort(A) trong Python.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B23 (Mục 3), tr. 109; SGK Tin học CS 11 KNTT, Chủ đề 06, B23 (Mục 3), tr. 109, 110; SGK Tin học CS 11 KNTT, Chủ đề 06, B23 (Mục 3), tr. 110
 
+### title slide
+- **Tiếng Việt:** Trang tiêu đề (Title Slide)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The opening first slide of a presentation, used to introduce the main topic along with supplementary details such as author name, date, and venue to capture the audience's attention.
+- **Giải thích (VI):** Trang chiếu đầu tiên mở đầu bài trình chiếu, dùng để giới thiệu chủ đề chính cùng các thông tin bổ sung như tên tác giả, ngày và địa điểm trình bày nhằm thu hút sự chú ý của người nghe.
+- **Bối cảnh:** Tin học lớp 7, Bài 11 (Mục 2): trang mở đầu mặc định của bài trình chiếu, phân biệt với các trang nội dung theo sau.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B11, tr. 55; SGK Tin học 7 KNTT, Chủ đề 04, B11 (Mục 1), tr. 56; SGK Tin học 7 KNTT, Chủ đề 04, B11 (Mục 2), tr. 56
+
 ### tool control bar
 - **Tiếng Việt:** Thanh điều khiển thuộc tính (Tool control bar)
 - **Chuyên ngành gốc:** Tin học
@@ -7732,6 +8449,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Khu vực giao diện chứa nhóm công cụ làm việc chính và cơ bản của phần mềm đồ hoạ, dùng để khởi tạo, vẽ, chọn và điều chỉnh các đối tượng đồ hoạ.
 - **Bối cảnh:** Tin học lớp 10, Bài 12 (Mục 2.b): thanh công cụ làm việc chính được sử dụng nhiều nhất trong Inkscape.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 04, B12 (Mục 2), tr. 65; SGK Tin học 10 KNTT, Chủ đề 04, B12 (Mục 2.a), tr. 65; SGK Tin học 10 KNTT, Chủ đề 04, B12 (Mục 2.b), tr. 65
+
+### touch screen
+- **Tiếng Việt:** Màn hình cảm ứng (touch screen)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A combined input and output device that both displays visual content and detects the position and movement of a finger on its surface to select objects or execute commands like a computer mouse.
+- **Giải thích (VI):** Thiết bị tích hợp cả chức năng của thiết bị ra và thiết bị vào, vừa hiển thị hình ảnh vừa phát hiện vị trí và sự di chuyển của ngón tay trên bề mặt để chọn đối tượng hoặc thực hiện lệnh tương tự chuột máy tính.
+- **Bối cảnh:** Tin học lớp 7, Bài 1 (Mục 1): thiết bị tích hợp đồng thời hai chức năng vào và ra, có thể thay thế chuột máy tính.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 6; SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 7
+
+### touchpad
+- **Tiếng Việt:** Tấm cảm ứng (touchpad)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** An input device typically built into the keyboard area of a laptop that senses finger position and movement on its surface to control the screen pointer like a standard mouse.
+- **Giải thích (VI):** Thiết bị vào thường đặt trên vùng bàn phím của máy tính xách tay, có khả năng nhận biết vị trí và sự di chuyển của ngón tay trên bề mặt để điều khiển con trỏ trên màn hình giống như chuột máy tính.
+- **Bối cảnh:** Tin học lớp 7, Bài 1 (Mục 1): thiết bị vào tích hợp trên máy tính xách tay dùng thay thế chuột thông thường.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 1), tr. 7
 
 ### training data
 - **Tiếng Việt:** Dữ liệu huấn luyện
@@ -7894,6 +8627,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tin học lớp 12, Bài 23 (Mục 1a): Địa chỉ truy cập trang web hoặc website trên trình duyệt Internet.
 - **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 04, B10, tr. 57; SGK Tin học CS 12 KNTT, Chủ đề 04, B10 (Mục 1), tr. 57; SGK Tin học CS 12 KNTT, Chủ đề 04, B10 (Mục 1), tr. 57, 58; SGK Tin học ICT 12 KNTT, Chủ đề 04, B10, tr. 57; SGK Tin học ICT 12 KNTT, Chủ đề 07, B23 (Mục 1.a), tr. 127; SGK Tin học ICT 12 KNTT, Chủ đề 07, B23 (Mục 1.b), tr. 127; SGK Tin học ICT 12 KNTT, Chủ đề 07, B23 (Mục 1.b), tr. 127, 128
 
+### Universal Serial Bus
+- **Tiếng Việt:** Chuẩn kết nối USB (USB)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A common computer port standard used to connect various peripherals and storage devices (such as keyboards, mice, and USB flash drives), requiring compatible connectors to prevent short circuits and hardware damage.
+- **Giải thích (VI):** Chuẩn cổng kết nối thông dụng trên máy tính dùng để ghép nối nhiều loại thiết bị ngoại vi và thiết bị lưu trữ (như bàn phím, chuột, thẻ nhớ USB); cần cắm đúng đầu nối tương thích để tránh chập điện làm hỏng thiết bị.
+- **Bối cảnh:** Tin học lớp 7, Bài 1 (Mục 2): nhận diện cổng kết nối đa dụng trên thân máy tính và lưu ý cắm đúng đầu nối an toàn.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 2), tr. 8; SGK Tin học 7 KNTT, Chủ đề 01, B1 (Mục 2), tr. 8, 9
+
 ### UNIX
 - **Tiếng Việt:** UNIX
 - **Chuyên ngành gốc:** Tin học
@@ -7933,6 +8674,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Họ cổng kết nối truyền dữ liệu tuần tự, đa năng và tốc độ cao trên máy tính, dùng để ghép nối hầu hết các thiết bị ngoại vi và bộ nhớ ngoài. Chuẩn USB đã thay thế nhiều cổng chuyên biệt cũ như cổng COM, cổng song song (Parallel) cho máy in và cổng PS/2 cho bàn phím, chuột.
 - **Bối cảnh:** Tin học lớp 11, Bài 5 (Mục 2.a): họ cổng kết nối ngoại vi tuần tự đa năng phổ biến nhất hiện nay.
 - **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B5 (Mục 1), tr. 27; SGK Tin học CS 11 KNTT, Chủ đề 01, B5 (Mục 2.a), tr. 30; SGK Tin học CS 11 KNTT, Chủ đề 01, B5 (Mục 2.b), tr. 30
+
+### user interface
+- **Tiếng Việt:** Giao diện
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** The environment for information exchange and direct interaction between a user and a computer, provided and managed by an operating system or software.
+- **Giải thích (VI):** Môi trường trao đổi thông tin và tương tác trực tiếp giữa người sử dụng với máy tính do hệ điều hành hoặc phần mềm cung cấp và quản lí.
+- **Bối cảnh:**
+  - Tin học lớp 7, Bài 2 (Mục 1): môi trường tương tác giữa con người và máy tính do hệ điều hành quản lí.
+  - *Lưu ý:* Trong Bài 2 chỉ giao diện người dùng (user interface) giữa con người và máy tính, phân biệt với cổng giao tiếp phần cứng.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B2, tr. 10; SGK Tin học 7 KNTT, Chủ đề 01, B2 (Mục 1), tr. 10; SGK Tin học 7 KNTT, Chủ đề 01, B2 (Mục 1), tr. 10, 11
 
 ### user interface development
 - **Tiếng Việt:** Phát triển giao diện người dùng
@@ -7981,6 +8732,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chuẩn cáp mạng xoắn đôi gồm bốn đôi dây đồng xoắn và chuẩn đầu cắm, cổng giao tiếp vật lí phổ biến trong mạng cục bộ (LAN). Khi thiết lập kết nối vật lí có dây, hai đầu giắc cắm RJ45 của sợi cáp UTP lần lượt gắn vào cổng RJ45 trên máy tính và cổng RJ45 trên switch, hub hoặc cổng LAN của router.
 - **Bối cảnh:** Tin học lớp 12, Bài 3 (Mục 2): Thực hành kết nối vật lí máy tính vào mạng cục bộ bằng cáp mạng có dây.
 - **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 02, B3 (Mục 1.d), tr. 18; SGK Tin học CS 12 KNTT, Chủ đề 02, B3 (Mục 2), tr. 18; SGK Tin học CS 12 KNTT, Chủ đề 02, B3 (Mục 2), tr. 18, 19; SGK Tin học ICT 12 KNTT, Chủ đề 02, B3 (Mục 1.d), tr. 18
+
+### value swapping problem
+- **Tiếng Việt:** Bài toán hoán đổi giá trị (hoán đổi giá trị hai phần tử; hoán đổi)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A simple problem that requires exchanging the values of two elements by using an intermediate third component, illustrated by using an empty third cup to swap the liquids held in two cups. The solution to this smaller subproblem is applied repeatedly to solve the sorting problem in both bubble sort and selection sort.
+- **Giải thích (VI):** Bài toán đơn giản yêu cầu đổi chỗ giá trị của hai phần tử cho nhau bằng cách sử dụng thêm một thành phần trung gian, được minh hoạ qua việc dùng thêm chiếc cốc rỗng thứ ba để đổi chỗ hai chất lỏng trong hai cốc. Lời giải của bài toán nhỏ này được sử dụng lặp lại nhiều lần để giải quyết bài toán sắp xếp trong cả thuật toán sắp xếp nổi bọt và thuật toán sắp xếp chọn.
+- **Bối cảnh:** Tin học lớp 7, Bài 16 (Khởi động, Mục 3): minh hoạ thao tác đổi chỗ qua chiếc cốc rỗng trung gian và vai trò làm bài toán con trong các thuật toán sắp xếp.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 05, B16, tr. 78; SGK Tin học 7 KNTT, Chủ đề 05, B16 (Mục 1), tr. 78; SGK Tin học 7 KNTT, Chủ đề 05, B16 (Mục 1), tr. 78, 79; SGK Tin học 7 KNTT, Chủ đề 05, B16 (Mục 3), tr. 82
 
 ### ValueError
 - **Tiếng Việt:** ValueError
@@ -8127,6 +8886,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Sâu máy tính tống tiền xuất hiện năm 2017, thực hiện mã hoá toàn bộ dữ liệu trên đĩa cứng của nạn nhân và đòi tiền chuộc để cung cấp công cụ giải mã.
 - **Bối cảnh:** Tin học lớp 10, Bài 9 (Mục 2.b): Ví dụ điển hình về sâu máy tính mã hoá dữ liệu để tống tiền người dùng.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2), tr. 46; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2.a), tr. 46; SGK Tin học 10 KNTT, Chủ đề 02, B9 (Mục 2.b), tr. 46
+
+### weak password
+- **Tiếng Việt:** Mật khẩu yếu
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** An easily guessed password created from familiar personal details (such as one's own name, a relative's name, date of birth, or phone number) or simple common sequences (such as 12345678).
+- **Giải thích (VI):** Mật khẩu dễ bị người khác đoán ra do đặt theo thông tin cá nhân quen thuộc (như tên bản thân, tên người thân, ngày sinh, số điện thoại) hoặc dãy kí tự đơn giản phổ biến (như 12345678).
+- **Bối cảnh:** Tin học lớp 7, Bài 3 (Mục 2.b): nhận diện các kiểu mật khẩu kém an toàn cần tránh khi bảo vệ tài khoản.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.a), tr. 15; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.b), tr. 15; SGK Tin học 7 KNTT, Chủ đề 01, B3 (Mục 2.c), tr. 15
 
 ### web application development
 - **Tiếng Việt:** Phát triển ứng dụng trên web
@@ -8448,6 +9215,44 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Mô hình tương tác và kiểm soát mạng ngang hàng trong đó các máy tính độc lập, không có máy chủ nào điều khiển máy tính khác và không đòi hỏi quản trị tập trung phức tạp. Trong mô hình này, tài khoản người dùng phải tạo riêng trên từng máy tính và người dùng sử dụng máy nào thì đăng nhập trực tiếp theo tài khoản trên máy đó.
 - **Bối cảnh:** Tin học lớp 12, Bài 24 (Bước 2): Lựa chọn mô hình kiểm soát mạng đơn giản trong thiết kế logic, đối sánh với mô hình miền.
 - **Nguồn:** SGK Tin học CS 12 KNTT, Chủ đề 06, B24, tr. 129, 130
+
+### worksheet
+- **Tiếng Việt:** Trang tính
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A grid of rows and columns used to store and display data within a spreadsheet workbook; each workbook can contain multiple worksheets whose names appear at the bottom of the window.
+- **Giải thích (VI):** Đơn vị lưu trữ và hiển thị dữ liệu dưới dạng lưới gồm các hàng và cột bên trong một bảng tính; mỗi bảng tính có thể chứa nhiều trang tính với tên trang tính nằm ở phía dưới cửa sổ bảng tính.
+- **Bối cảnh:**
+  - Tin học lớp 7, Bài 6 (Mục 1): phân biệt trang tính (lưới hàng và cột như Sheet1, Sheet2) với toàn bộ tệp bảng tính.
+  - *Lưu ý:* Phân biệt trang tính (worksheet/sheet — một lưới hàng và cột) với bảng tính (workbook/spreadsheet — tệp chứa một hoặc nhiều trang tính).
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 29; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 29, 30; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 30
+
+### worksheet column
+- **Tiếng Việt:** Cột của trang tính (cột)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A vertical component of the data grid on a worksheet, labeled alphabetically with letters A, B, C,... from left to right in the column header row at the top.
+- **Giải thích (VI):** Thành phần thẳng đứng của lưới dữ liệu trên trang tính, nhận tên là các chữ cái A, B, C,... theo thứ tự từ trái sang phải ở hàng ghi tên cột phía trên.
+- **Bối cảnh:**
+  - Tin học lớp 7, Bài 6 (Mục 1): thành phần thẳng đứng cấu tạo nên lưới trang tính và đứng trước tên hàng trong địa chỉ ô.
+  - *Lưu ý:* Phân biệt với trường dữ liệu (column) trong cơ sở dữ liệu hoặc cột của ma trận trong toán học.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 29; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 29, 30; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 30
+
+### worksheet operations
+- **Tiếng Việt:** Các thao tác với trang tính
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A set of operations for managing worksheets within a workbook, including creating, inserting (`Insert/Worksheet`), renaming, deleting (`Delete`), dragging to reorder, and moving or copying (`Move or Copy`).
+- **Giải thích (VI):** Tập hợp các thao tác quản lí trang tính trong tệp bảng tính gồm tạo mới, chèn thêm (`Insert/Worksheet`), đổi tên, xoá (`Delete`), kéo thả thay đổi thứ tự và di chuyển hoặc sao chép (`Move or Copy`).
+- **Bối cảnh:** Tin học lớp 7, Bài 10 (Mục 1.a): tổ chức và sắp xếp danh sách các trang tính ở phía dưới cửa sổ bảng tính.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B10 (Mục 1.a), tr. 52; SGK Tin học 7 KNTT, Chủ đề 04, B10 (Mục 1.b), tr. 52
+
+### worksheet row
+- **Tiếng Việt:** Hàng của trang tính (hàng)
+- **Chuyên ngành gốc:** Tin học
+- **Giải thích (EN):** A horizontal component of the data grid on a worksheet, labeled sequentially with numbers 1, 2, 3,... from top to bottom in the row header column on the left.
+- **Giải thích (VI):** Thành phần nằm ngang của lưới dữ liệu trên trang tính, nhận tên là các số thứ tự 1, 2, 3,... tăng dần từ trên xuống dưới ở cột ghi tên hàng bên trái.
+- **Bối cảnh:**
+  - Tin học lớp 7, Bài 6 (Mục 1): thành phần nằm ngang cấu tạo nên lưới trang tính và kết hợp với tên cột để xác định địa chỉ ô.
+  - *Lưu ý:* Phân biệt với bản ghi (row) trong cơ sở dữ liệu quan hệ hoặc hàng của ma trận trong toán học.
+- **Nguồn:** SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 29; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 29, 30; SGK Tin học 7 KNTT, Chủ đề 04, B6 (Mục 1), tr. 30
 
 ### World Wide Web
 - **Tiếng Việt:** Mạng lưới toàn cầu (World Wide Web; WWW; Mạng thông tin toàn cầu)

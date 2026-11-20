@@ -1,0 +1,886 @@
+{
+  "unit": "khoa_hoc_tu_nhien_7",
+  "subject": "khoa_hoc_tu_nhien",
+  "subject_name": "Khoa học tự nhiên",
+  "grade": 7,
+  "files": [
+    {
+      "file": "SGK Khoa hoc tu nhien 7.pdf",
+      "volume": null,
+      "page_count": 182,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+      "pdf_pages": [
+        5,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c01",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương I",
+      "number": 1,
+      "title": "Nguyên tử • Sơ lược về bảng tuần hoàn các nguyên tố hoá học",
+      "dir": "Chuong-01-Nguyen-tu-So-luoc-ve-bang-tuan-hoan",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Phương pháp và kĩ năng học tập môn Khoa học tự nhiên",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Phuong-phap-va-ki-nang-hoc-tap-mon-Khoa-hoc-tu.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            7,
+            14
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Nguyên tử",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Nguyen-tu.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            15,
+            19
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Nguyên tố hoá học",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Nguyen-to-hoa-hoc.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            20,
+            23
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Sơ lược về bảng tuần hoàn các nguyên tố hoá học",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-So-luoc-ve-bang-tuan-hoan-cac-nguyen-to-hoa-hoc.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            24,
+            32
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c02",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương II",
+      "number": 2,
+      "title": "Phân tử • Liên kết hoá học",
+      "dir": "Chuong-02-Phan-tu-Lien-ket-hoa-hoc",
+      "children": [
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Phân tử – Đơn chất – Hợp chất",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Phan-tu-Don-chat-Hop-chat.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            33,
+            36
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Giới thiệu về liên kết hoá học",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Gioi-thieu-ve-lien-ket-hoa-hoc.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            37,
+            40
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Hoá trị và công thức hoá học",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Hoa-tri-va-cong-thuc-hoa-hoc.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            41,
+            45
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c03",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương III",
+      "number": 3,
+      "title": "Tốc độ",
+      "dir": "Chuong-03-Toc-do",
+      "children": [
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Tốc độ chuyển động",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Toc-do-chuyen-dong.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            46,
+            49
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Đo tốc độ",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Do-toc-do.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            50,
+            53
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Đồ thị quãng đường – thời gian",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Do-thi-quang-duong-thoi-gian.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            54,
+            56
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Thảo luận về ảnh hưởng của tốc độ trong an toàn giao thông",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Thao-luan-ve-anh-huong-cua-toc-do-trong-an-toan.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            57,
+            60
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c04",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương IV",
+      "number": 4,
+      "title": "Âm thanh",
+      "dir": "Chuong-04-Am-thanh",
+      "children": [
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Sóng âm",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Song-am.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            61,
+            64
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Độ to và độ cao của âm",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Do-to-va-do-cao-cua-am.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            65,
+            68
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Phản xạ âm, chống ô nhiễm tiếng ồn",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-Phan-xa-am-chong-o-nhiem-tieng-on.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            69,
+            72
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c05",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương V",
+      "number": 5,
+      "title": "Ánh sáng",
+      "dir": "Chuong-05-Anh-sang",
+      "children": [
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Năng lượng ánh sáng. Tia sáng, vùng tối",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Nang-luong-anh-sang-Tia-sang-vung-toi.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            73,
+            78
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Sự phản xạ ánh sáng",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Su-phan-xa-anh-sang.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            79,
+            82
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Ảnh của vật qua gương phẳng",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Anh-cua-vat-qua-guong-phang.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            83,
+            86
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c06",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VI",
+      "number": 6,
+      "title": "Từ",
+      "dir": "Chuong-06-Tu",
+      "children": [
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Nam châm",
+          "lesson_type": "ly_thuyet",
+          "file": "B18-Nam-cham.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            87,
+            90
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Từ trường",
+          "lesson_type": "ly_thuyet",
+          "file": "B19-Tu-truong.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            91,
+            96
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Chế tạo nam châm điện đơn giản",
+          "lesson_type": "ly_thuyet",
+          "file": "B20-Che-tao-nam-cham-dien-don-gian.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            97,
+            99
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c07",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VII",
+      "number": 7,
+      "title": "Trao đổi chất và chuyển hoá năng lượng ở sinh vật",
+      "dir": "Chuong-07-Trao-doi-chat-va-chuyen-hoa-nang-luong",
+      "children": [
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Khái quát về trao đổi chất và chuyển hoá năng lượng",
+          "lesson_type": "ly_thuyet",
+          "file": "B21-Khai-quat-ve-trao-doi-chat-va-chuyen-hoa-nang.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            100,
+            101
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Quang hợp ở thực vật",
+          "lesson_type": "ly_thuyet",
+          "file": "B22-Quang-hop-o-thuc-vat.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            102,
+            104
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Một số yếu tố ảnh hưởng đến quang hợp",
+          "lesson_type": "ly_thuyet",
+          "file": "B23-Mot-so-yeu-to-anh-huong-den-quang-hop.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            105,
+            108
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 24",
+          "number": 24,
+          "title": "Thực hành: Chứng minh quang hợp ở cây xanh",
+          "lesson_type": "thuc_hanh",
+          "file": "B24-Thuc-hanh-Chung-minh-quang-hop-o-cay-xanh.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            109,
+            111
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Hô hấp tế bào",
+          "lesson_type": "ly_thuyet",
+          "file": "B25-Ho-hap-te-bao.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            112,
+            113
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b26",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 26",
+          "number": 26,
+          "title": "Một số yếu tố ảnh hưởng đến hô hấp tế bào",
+          "lesson_type": "ly_thuyet",
+          "file": "B26-Mot-so-yeu-to-anh-huong-den-ho-hap-te-bao.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            114,
+            116
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b27",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 27",
+          "number": 27,
+          "title": "Thực hành: Hô hấp ở thực vật",
+          "lesson_type": "thuc_hanh",
+          "file": "B27-Thuc-hanh-Ho-hap-o-thuc-vat.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            117,
+            118
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b28",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 28",
+          "number": 28,
+          "title": "Trao đổi khí ở sinh vật",
+          "lesson_type": "ly_thuyet",
+          "file": "B28-Trao-doi-khi-o-sinh-vat.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            119,
+            122
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b29",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 29",
+          "number": 29,
+          "title": "Vai trò của nước và chất dinh dưỡng đối với sinh vật",
+          "lesson_type": "ly_thuyet",
+          "file": "B29-Vai-tro-cua-nuoc-va-chat-dinh-duong-doi-voi-sinh.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            123,
+            127
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b30",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 30",
+          "number": 30,
+          "title": "Trao đổi nước và chất dinh dưỡng ở thực vật",
+          "lesson_type": "ly_thuyet",
+          "file": "B30-Trao-doi-nuoc-va-chat-dinh-duong-o-thuc-vat.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            128,
+            131
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b31",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 31",
+          "number": 31,
+          "title": "Trao đổi nước và chất dinh dưỡng ở động vật",
+          "lesson_type": "ly_thuyet",
+          "file": "B31-Trao-doi-nuoc-va-chat-dinh-duong-o-dong-vat.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            132,
+            136
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b32",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 32",
+          "number": 32,
+          "title": "Thực hành: Chứng minh thân vận chuyển nước và lá thoát hơi nước",
+          "lesson_type": "thuc_hanh",
+          "file": "B32-Thuc-hanh-Chung-minh-than-van-chuyen-nuoc-va-la.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            137,
+            138
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c08",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VIII",
+      "number": 8,
+      "title": "Cảm ứng ở sinh vật",
+      "dir": "Chuong-08-Cam-ung-o-sinh-vat",
+      "children": [
+        {
+          "id": "b33",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 33",
+          "number": 33,
+          "title": "Cảm ứng ở sinh vật và tập tính ở động vật",
+          "lesson_type": "ly_thuyet",
+          "file": "B33-Cam-ung-o-sinh-vat-va-tap-tinh-o-dong-vat.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            139,
+            141
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b34",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 34",
+          "number": 34,
+          "title": "Vận dụng hiện tượng cảm ứng ở sinh vật vào thực tiễn",
+          "lesson_type": "ly_thuyet",
+          "file": "B34-Van-dung-hien-tuong-cam-ung-o-sinh-vat-vao-thuc.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            142,
+            145
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b35",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 35",
+          "number": 35,
+          "title": "Thực hành: Cảm ứng ở sinh vật",
+          "lesson_type": "thuc_hanh",
+          "file": "B35-Thuc-hanh-Cam-ung-o-sinh-vat.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            146,
+            148
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c09",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương IX",
+      "number": 9,
+      "title": "Sinh trưởng và phát triển ở sinh vật",
+      "dir": "Chuong-09-Sinh-truong-va-phat-trien-o-sinh-vat",
+      "children": [
+        {
+          "id": "b36",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 36",
+          "number": 36,
+          "title": "Khái quát về sinh trưởng và phát triển ở sinh vật",
+          "lesson_type": "ly_thuyet",
+          "file": "B36-Khai-quat-ve-sinh-truong-va-phat-trien-o-sinh-vat.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            149,
+            151
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b37",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 37",
+          "number": 37,
+          "title": "Ứng dụng sinh trưởng và phát triển ở sinh vật vào thực tiễn",
+          "lesson_type": "ly_thuyet",
+          "file": "B37-Ung-dung-sinh-truong-va-phat-trien-o-sinh-vat-vao.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            152,
+            156
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b38",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 38",
+          "number": 38,
+          "title": "Thực hành: Quan sát, mô tả sự sinh trưởng và phát triển ở một số sinh vật",
+          "lesson_type": "thuc_hanh",
+          "file": "B38-Thuc-hanh-Quan-sat-mo-ta-su-sinh-truong-va-phat.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            157,
+            158
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c10",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương X",
+      "number": 10,
+      "title": "Sinh sản ở sinh vật",
+      "dir": "Chuong-10-Sinh-san-o-sinh-vat",
+      "children": [
+        {
+          "id": "b39",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 39",
+          "number": 39,
+          "title": "Sinh sản vô tính ở sinh vật",
+          "lesson_type": "ly_thuyet",
+          "file": "B39-Sinh-san-vo-tinh-o-sinh-vat.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            159,
+            164
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b40",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 40",
+          "number": 40,
+          "title": "Sinh sản hữu tính ở sinh vật",
+          "lesson_type": "ly_thuyet",
+          "file": "B40-Sinh-san-huu-tinh-o-sinh-vat.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            165,
+            169
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b41",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 41",
+          "number": 41,
+          "title": "Một số yếu tố ảnh hưởng và điều hoà, điều khiển sinh sản ở sinh vật",
+          "lesson_type": "ly_thuyet",
+          "file": "B41-Mot-so-yeu-to-anh-huong-va-dieu-hoa-dieu-khien.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            170,
+            173
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b42",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 42",
+          "number": 42,
+          "title": "Cơ thể sinh vật là một thể thống nhất",
+          "lesson_type": "ly_thuyet",
+          "file": "B42-Co-the-sinh-vat-la-mot-the-thong-nhat.md",
+          "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+          "pdf_pages": [
+            174,
+            175
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Giải thích một số thuật ngữ dùng trong sách",
+      "file": "Giai-thich-mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK Khoa hoc tu nhien 7.pdf",
+      "pdf_pages": [
+        176,
+        180
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "Độ lệch trang in cố định printed_offset = 1 xuyên suốt toàn sách (PDF 3 = trang in 2 Hướng dẫn sử dụng sách, PDF 5–6 = trang in 4–5 Mục lục, PDF 7..180 = trang in 6..179; PDF 1–2 là bìa và trang tên sách, PDF 181–182 là trang bản quyền và bìa sau).",
+    "Bài 1 (Phương pháp và kĩ năng học tập môn Khoa học tự nhiên, trang in 6–13, PDF 7–14) là bài mở đầu đứng trước Chương I nên được xếp làm bài đầu tiên trong nhóm Chương I theo chuẩn hoa_10 và lich_su_va_dia_ly_6.",
+    "Tiêu đề Chương I..X nằm ngay đầu trang mở đầu của bài học đầu tiên trong chương (không tách trang bìa chương riêng)."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-20",
+      "scope": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "c07",
+        "c08",
+        "c09",
+        "c10"
+      ],
+      "terms": 224,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ 10 Chương, 42 Bài học và Bảng giải thích một số thuật ngữ dùng trong sách (224 thuật ngữ: 67 in_source, 155 [mô tả], 2 Ngoài nguồn, 10 ghi chú nguồn đóng; 194 hình minh hoạ): lấy mẫu phân tầng 30 mục (10 mục in_source: Lực từ, Phản xạ gương, Siêu âm, Tốc độ, Pháp tuyến, Electron, Quy tắc hoá trị, Số đơn vị điện tích hạt nhân, Cường độ hô hấp, Nam châm điện; 10 mục [mô tả]: Nhị hoa, Độ cao của âm, Ion, Đường dẫn khí, Tính chất từ của nam châm, Biện pháp chống ô nhiễm tiếng ồn, Động vật đẻ con, Mô phân sinh đỉnh, Tập tính, Biên độ của sóng âm; và 10 hình minh hoạ: H7-khoa_hoc_tu_nhien-b04-07, b16-02, b03-01, b06-02, b40-01, b18-01, b31-02, b19-10, b19-02, b16-06). Toàn bộ 30/30 mục mẫu khớp 100% với trang sách gốc (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-20: Hoàn thành 100% khoa_hoc_tu_nhien_7 từ Cổng 0 đến Cổng 4 (10 Chương, 42 Bài học, Giải thích một số thuật ngữ dùng trong sách, 194 hình minh hoạ, 10 từ điển với 224 thuật ngữ, 0 lỗi)."
+}

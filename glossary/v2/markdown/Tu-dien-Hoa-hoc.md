@@ -470,13 +470,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 12, Bài 8 (Mục I.2, IV, VI.2): Phân biệt amine thơm có nhóm amine gắn trực tiếp vào vòng benzene với các amine thơm gắn qua mạch nhánh.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 03, B8 (Mục I.2), tr. 36; SGK Hóa học 12 KNTT, Chương 03, B8 (Mục I.3), tr. 36; SGK Hóa học 12 KNTT, Chương 03, B8 (Mục I.4), tr. 36
 
+### atom
+- **Tiếng Việt:** Nguyên tử
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** An extremely small particle that makes up substances, consisting of a positively charged central nucleus and a negatively charged electron shell system. Because an atom is electrically neutral, the total number of protons in its nucleus always equals the total number of electrons in its shell system.
+- **Giải thích (VI):** Hạt vô cùng nhỏ tạo nên các chất, gồm hạt nhân mang điện tích dương ở tâm và vỏ nguyên tử mang điện tích âm. Nguyên tử trung hoà về điện nên tổng số hạt proton trong hạt nhân luôn bằng tổng số hạt electron ở vỏ nguyên tử.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 2 (Mục I, III): Đơn vị cấu tạo cơ bản của chất dùng để giải thích thành phần hạt nhân, vỏ electron và tính trung hoà điện.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2, tr. 14; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục I), tr. 14; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục II), tr. 15
+
 ### atomic mass
 - **Tiếng Việt:** Khối lượng nguyên tử
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** The total mass of all protons, neutrons, and electrons contained in a single atom. Because the mass of electrons is negligible, atomic mass is concentrated almost entirely in the nucleus and is commonly expressed in $\text{amu}$.
 - **Giải thích (VI):** Tổng khối lượng của tất cả các hạt proton, neutron và electron có trong một nguyên tử. Do khối lượng electron rất nhỏ không đáng kể nên khối lượng nguyên tử tập trung hầu hết ở hạt nhân và thường được biểu thị theo đơn vị $\text{amu}$.
-- **Bối cảnh:** Hóa học lớp 10, Bài 1 (Mục II.2): Tính khối lượng thực (theo kg) hoặc theo đơn vị amu của nguyên tử từ các hạt cấu tạo.
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B1 (Mục II.1), tr. 15; SGK Hóa học 10 KNTT, Chương 01, B1 (Mục II.2), tr. 15; SGK Hóa học 10 KNTT, Chương 01, B1 (Mục III), tr. 16
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: The total mass of the protons and neutrons in the nucleus and the electrons in the shell system of an atom, typically expressed in atomic mass units ($\text{amu}$). Because the mass of electrons is negligible ($0.00055\text{ amu}$), atomic mass is concentrated almost entirely in the nucleus and is approximately equal to the nuclear mass. / VI: Tổng khối lượng của các hạt proton, neutron trong hạt nhân và các hạt electron ở vỏ nguyên tử, thường tính theo đơn vị $\text{amu}$. Vì khối lượng electron rất nhỏ ($0,00055\text{ amu}$) nên khối lượng nguyên tử tập trung hầu hết ở hạt nhân và xấp xỉ bằng khối lượng hạt nhân.
+- **Bối cảnh:**
+  - Hóa học lớp 10, Bài 1 (Mục II.2): Tính khối lượng thực (theo kg) hoặc theo đơn vị amu của nguyên tử từ các hạt cấu tạo.
+  - Khoa học tự nhiên lớp 7, Bài 2 (Mục IV) và Bài 4 (Mục II.1): Tính gần đúng theo tổng số hạt proton và neutron và tra cứu thông tin trong ô nguyên tố của bảng tuần hoàn.
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B1 (Mục II.1), tr. 15; SGK Hóa học 10 KNTT, Chương 01, B1 (Mục II.2), tr. 15; SGK Hóa học 10 KNTT, Chương 01, B1 (Mục III), tr. 16; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178
+
+### atomic model
+- **Tiếng Việt:** Mô hình nguyên tử
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A representational model simulating the internal structure of an atom and the arrangement of its constituent subatomic particles. The Rutherford–Bohr atomic model depicts a positively charged central nucleus surrounded by electrons moving in distinct shells.
+- **Giải thích (VI):** Hình thức biểu diễn mô phỏng cấu tạo của nguyên tử và sự phân bố các hạt thành phần bên trong nguyên tử. Mô hình nguyên tử của Rơ-dơ-pho – Bo biểu diễn hạt nhân mang điện tích dương ở tâm và các electron chuyển động xung quanh hạt nhân theo từng lớp.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 2 (Mục II): Dùng sơ đồ mô hình Rơ-dơ-pho – Bo để xác định số proton, số lớp electron và số electron lớp ngoài cùng của nguyên tử.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục II), tr. 15
 
 ### atomic orbital
 - **Tiếng Việt:** Orbital nguyên tử (AO)
@@ -499,10 +518,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** The region surrounding the atomic nucleus that contains negatively charged electrons moving rapidly around the nucleus.
 - **Giải thích (VI):** Phần không gian bao quanh hạt nhân nguyên tử, chứa các hạt electron mang điện tích âm chuyển động rất nhanh xung quanh hạt nhân.
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: The negatively charged outer region surrounding the atomic nucleus, composed of moving electrons arranged in successive shells from the inside outward. / VI: Phần mang điện tích âm bao quanh hạt nhân nguyên tử, cấu tạo từ các hạt electron chuyển động và sắp xếp thành từng lớp từ trong ra ngoài.
 - **Bối cảnh:**
   - Hóa học lớp 10, Bài 1 (Mục I): Phân biệt hai bộ phận cấu tạo chính của nguyên tử là hạt nhân và vỏ nguyên tử.
+  - Khoa học tự nhiên lớp 7, Bài 2 (Mục III.2): Phân tích sự phân bố electron trên vỏ nguyên tử để suy ra cấu tạo nguyên tử và tính chất hoá học.
   - *Lưu ý:* Phân biệt 'vỏ nguyên tử' (atomic shell — toàn bộ phần vỏ chứa tất cả các electron bao quanh hạt nhân) với 'lớp electron' (electron shell — từng lớp năng lượng K, L, M,... cấu thành nên vỏ nguyên tử).
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B1 (Mục I), tr. 14; SGK Hóa học 10 KNTT, Chương 01, B1 (Mục II.2), tr. 15; SGK Hóa học 10 KNTT, Chương 01, B1 (Mục III), tr. 16
+  - *Lưu ý:* Chỉ toàn bộ phần vỏ chứa tất cả các lớp electron của nguyên tử, phân biệt với từng lớp electron riêng lẻ (electron shell).
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B1 (Mục I), tr. 14; SGK Hóa học 10 KNTT, Chương 01, B1 (Mục II.2), tr. 15; SGK Hóa học 10 KNTT, Chương 01, B1 (Mục III), tr. 16; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 179; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục III.2), tr. 17; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục III.2), tr. 18
 
 ### atomic size
 - **Tiếng Việt:** Kích thước của nguyên tử
@@ -666,17 +688,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.b), tr. 19; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục II.1), tr. 19; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục II.1), tr. 19, 20
 
 ### carbohydrate
-- **Tiếng Việt:** Carbohydrate (saccharide; glucide)
+- **Tiếng Việt:** Carbohydrate (saccharide; glucide; chất bột đường)
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A class of polyfunctional organic compounds commonly represented by the general formula $\text{C}_n(\text{H}_2\text{O})_m$, comprising three main subclasses: monosaccharides, disaccharides, and polysaccharides.
 - **Giải thích (VI):** Nhóm hợp chất hữu cơ tạp chức thường có công thức chung $\text{C}_n(\text{H}_2\text{O})_m$, bao gồm ba phân nhóm chính là monosaccharide, disaccharide và polysaccharide.
 - **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A group of organic substances comprising starch, sugar, and dietary fiber, mostly of plant origin. It serves as the primary source of energy for the body's vital activities. / VI: Nhóm chất hữu cơ bao gồm tinh bột, đường và chất xơ, phần lớn có nguồn gốc từ thực vật. Đây là nguồn cung cấp năng lượng chính cho các hoạt động sống của cơ thể.
 - **Giải thích khác (SGK Sinh học 10):** EN: A class of biomolecules composed of carbon, hydrogen, and oxygen in a 1 : 2 : 1 ratio with the general formula Cₙ(H₂O)ₘ, classified into monosaccharides, disaccharides, and polysaccharides. They primarily function to supply and store energy and to serve as structural materials for various cellular components. / VI: Nhóm phân tử sinh học được cấu tạo từ ba nguyên tố C, H và O theo tỉ lệ 1 : 2 : 1 với công thức chung Cₙ(H₂O)ₘ, được chia thành đường đơn, đường đôi và đường đa. Nhóm chất này giữ chức năng chính là cung cấp, dự trữ năng lượng và làm nguyên liệu cấu trúc nên nhiều thành phần của tế bào.
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: A major class of organic nutrients required in large quantities from food by animals, serving as the primary source of energy for bodily activities. / VI: Nhóm chất dinh dưỡng hữu cơ mà cơ thể động vật cần thu nhận với lượng lớn từ thức ăn, đóng vai trò là nguồn cung cấp năng lượng chủ yếu cho mọi hoạt động sống của cơ thể.
 - **Bối cảnh:**
   - Hóa học lớp 12, Bài 4 (Mục I.1, I.2): Khái niệm chung và phân loại các hợp chất đường, tinh bột và cellulose.
   - Khoa học tự nhiên lớp 6, Bài 15 (Mục II.1): Nhóm chất dinh dưỡng chính có trong lương thực và các loại quả ngọt, rau xanh.
   - Sinh học lớp 10, Bài 5 (Mục II.1, II.4): Cấu tạo, phân loại và vai trò của nhóm carbohydrate trong tế bào.
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 02, B4, tr. 20; SGK Hóa học 12 KNTT, Chương 02, B4 (Mục I.1), tr. 20; SGK Hóa học 12 KNTT, Chương 02, B4 (Mục I.2), tr. 21; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục I), tr. 53; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.1), tr. 53; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục III), tr. 55; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.1), tr. 29; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 39, 40
+  - Khoa học tự nhiên lớp 7, Bài 29 (Mục III.2) và Bài 31 (Mục IV.1): chức năng cung cấp năng lượng của chất bột đường trong chế độ dinh dưỡng.
+- **Nguồn:** SGK Hóa học 12 KNTT, Chương 02, B4, tr. 20; SGK Hóa học 12 KNTT, Chương 02, B4 (Mục I.1), tr. 20; SGK Hóa học 12 KNTT, Chương 02, B4 (Mục I.2), tr. 21; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục I), tr. 53; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.1), tr. 53; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục III), tr. 55; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.1), tr. 29; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 39, 40; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125, 126; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 126
 
 ### carbon chain
 - **Tiếng Việt:** Mạch carbon
@@ -827,8 +851,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** The combination of atoms to form more stable molecules or crystals with lower energy than that of the separate atoms.
 - **Giải thích (VI):** Sự kết hợp giữa các nguyên tử tạo thành phân tử hay tinh thể bền vững hơn và có mức năng lượng thấp hơn so với các nguyên tử riêng rẽ.
-- **Bối cảnh:** Hóa học lớp 10, Bài 10 (Mục I): Khái niệm nền tảng mở đầu chương Liên kết hoá học, giải thích xu hướng đạt cấu hình electron bền vững của khí hiếm.
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 03, B10, tr. 49; SGK Hóa học 10 KNTT, Chương 03, B10 (Mục I), tr. 49; SGK Hóa học 10 KNTT, Chương 03, B10 (Mục II), tr. 50
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: The union between atoms formed by losing, gaining, or sharing electrons so as to achieve a stable outermost electron shell like that of a noble gas atom. / VI: Sự kết hợp giữa các nguyên tử thông qua quá trình nhường, nhận hoặc dùng chung electron nhằm đạt được lớp electron ngoài cùng bền vững giống nguyên tử khí hiếm.
+- **Bối cảnh:**
+  - Hóa học lớp 10, Bài 10 (Mục I): Khái niệm nền tảng mở đầu chương Liên kết hoá học, giải thích xu hướng đạt cấu hình electron bền vững của khí hiếm.
+  - Khoa học tự nhiên lớp 7, Bài 6 (Mục I, II, III): Khái niệm nền tảng để tìm hiểu sự hình thành liên kết ion và liên kết cộng hoá trị trong phân tử.
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 03, B10, tr. 49; SGK Hóa học 10 KNTT, Chương 03, B10 (Mục I), tr. 49; SGK Hóa học 10 KNTT, Chương 03, B10 (Mục II), tr. 50; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6, tr. 36; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục I), tr. 36; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục III.2), tr. 39
+
+### chemical compound
+- **Tiếng Việt:** Hợp chất
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A chemical substance composed of two or more different chemical elements, encompassing inorganic compounds and organic compounds.
+- **Giải thích (VI):** Chất tạo nên từ hai hay nhiều nguyên tố hoá học khác nhau, bao gồm hợp chất vô cơ và hợp chất hữu cơ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 5 (Mục I.2): Phân loại chất dựa theo thành phần nguyên tố hoá học, đối lập với đơn chất.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176, 177
 
 ### chemical corrosion
 - **Tiếng Việt:** Ăn mòn hoá học
@@ -843,8 +878,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A set of atoms having the same nuclear charge number ($Z$). Because they possess the same number of electrons in their atomic shells, atoms belonging to the same chemical element exhibit identical chemical properties.
 - **Giải thích (VI):** Tập hợp các nguyên tử có cùng số đơn vị điện tích hạt nhân ($Z$). Do có cùng số electron ở vỏ nguyên tử nên các nguyên tử thuộc cùng một nguyên tố hoá học có tính chất hoá học giống nhau.
-- **Bối cảnh:** Hóa học lớp 10, Bài 2 (Mục I): Phân biệt khái niệm nguyên tố hoá học với từng đồng vị cụ thể có số neutron khác nhau.
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B2, tr. 17; SGK Hóa học 10 KNTT, Chương 01, B2 (Mục I), tr. 17; SGK Hóa học 10 KNTT, Chương 01, B2 (Mục II), tr. 17
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: A set of atoms having the same number of protons in their atomic nuclei. Atoms belonging to the same chemical element share identical chemical properties even though they may differ in their number of neutrons. / VI: Tập hợp những nguyên tử có cùng số hạt proton trong hạt nhân. Các nguyên tử thuộc cùng một nguyên tố hoá học có tính chất hoá học giống nhau dù có thể khác nhau về số hạt neutron.
+- **Bối cảnh:**
+  - Hóa học lớp 10, Bài 2 (Mục I): Phân biệt khái niệm nguyên tố hoá học với từng đồng vị cụ thể có số neutron khác nhau.
+  - Khoa học tự nhiên lớp 7, Bài 3 (Mục I): Nhận biết và phân loại các nguyên tử thuộc cùng một nguyên tố dựa vào số proton trong hạt nhân.
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B2, tr. 17; SGK Hóa học 10 KNTT, Chương 01, B2 (Mục I), tr. 17; SGK Hóa học 10 KNTT, Chương 01, B2 (Mục II), tr. 17; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177
 
 ### chemical equilibrium
 - **Tiếng Việt:** Cân bằng hoá học
@@ -853,6 +891,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Trạng thái cân bằng động của phản ứng thuận nghịch khi tốc độ phản ứng thuận bằng tốc độ phản ứng nghịch. Ở trạng thái này, các chất đầu và sản phẩm vẫn liên tục chuyển hoá lẫn nhau với tốc độ bằng nhau nên nồng độ các chất trong hệ không thay đổi.
 - **Bối cảnh:** Hóa học lớp 11, Bài 1 (Mục II.1): Giải thích bản chất cân bằng động của các phản ứng thuận nghịch trong tự nhiên, cơ thể người và sản xuất công nghiệp.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 01, B1 (Mục II.1), tr. 9; SGK Hóa học 11 KNTT, Chương 01, B1 (Mục II.2.a), tr. 9; SGK Hóa học 11 KNTT, Chương 01, B1 (Mục II.2.a), tr. 9, 10
+
+### chemical formula
+- **Tiếng Việt:** Công thức hoá học
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A symbolic representation of a substance's composition using the chemical symbols of one or more elements accompanied by integer subscripts to the lower right of each symbol. A chemical formula indicates the constituent elements, the number or ratio of atoms in a molecule, and the molecular mass of the substance.
+- **Giải thích (VI):** Cách biểu diễn thành phần của một chất bằng kí hiệu hoá học của một hay nhiều nguyên tố kèm theo chỉ số nguyên ở chân bên phải mỗi kí hiệu. Công thức hoá học cho biết các nguyên tố tạo nên chất, số lượng hoặc tỉ lệ số nguyên tử trong phân tử và khối lượng phân tử của chất.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 7 (Mục I, III): Biểu diễn ngắn gọn đơn chất, hợp chất và tính toán thành phần nguyên tố.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178
+
+### chemical formula of a compound
+- **Tiếng Việt:** Công thức hoá học của hợp chất
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** The symbolic representation of a compound consisting of the chemical symbols of its two or more constituent elements with integer right subscripts indicating the number of atoms of each element in the molecule (a subscript of $1$ is omitted).
+- **Giải thích (VI):** Cách biểu diễn hợp chất gồm kí hiệu hoá học của hai hay nhiều nguyên tố tạo nên chất kèm theo các chỉ số nguyên ở chân bên phải mỗi kí hiệu để chỉ số nguyên tử của từng nguyên tố trong phân tử (chỉ số bằng $1$ không ghi).
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 7 (Mục I, III.1): Biểu diễn thành phần phân tử hợp chất (như CH₄, NaCl, CaCO₃) và lập công thức dựa vào quy tắc hoá trị.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7, tr. 40; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục I), tr. 40; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục I), tr. 40, 41
+
+### chemical formula of an elemental substance
+- **Tiếng Việt:** Công thức hoá học của đơn chất
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** The symbolic representation of an elemental substance using a single element's symbol: identical to the element symbol for metals, noble gases, and certain nonmetals (such as Cu, Fe, He, C), or accompanied by a right subscript for nonmetals whose molecules consist of multiple bonded atoms (such as H₂, O₂, O₃).
+- **Giải thích (VI):** Cách biểu diễn đơn chất chỉ gồm kí hiệu hoá học của một nguyên tố: trùng với kí hiệu nguyên tố đối với kim loại, khí hiếm và một số phi kim (như Cu, Fe, He, C), hoặc kèm chỉ số ở chân bên phải đối với các phi kim có phân tử gồm nhiều nguyên tử liên kết với nhau (như H₂, O₂, O₃).
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 7 (Mục I): Quy tắc viết công thức hoá học của đơn chất, phân biệt với công thức hoá học của hợp chất.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7, tr. 40; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục I), tr. 40; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục I), tr. 40, 41
 
 ### chemical property
 - **Tiếng Việt:** Tính chất hoá học
@@ -869,6 +931,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Thứ tự liên kết xác định giữa các nguyên tử theo đúng hoá trị trong phân tử chất hữu cơ; sự thay đổi thứ tự liên kết đó sẽ tạo ra chất khác.
 - **Bối cảnh:** Hóa học lớp 11, Bài 13 (Mục I): Giải thích vì sao ethanol (CH₃–CH₂–OH) và dimethyl ether (CH₃–O–CH₃) có cùng công thức phân tử C₂H₆O nhưng khác hẳn nhau về tính chất.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B13 (Mục I), tr. 74; SGK Hóa học 11 KNTT, Chương 03, B13 (Mục I), tr. 74, 75
+
+### chemical symbol
+- **Tiếng Việt:** Kí hiệu hoá học của nguyên tố (kí hiệu hoá học; kí hiệu nguyên tố hoá học)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A shorthand representation of a chemical element using one or two letters derived from its international or Latin name, in which the first letter is capitalized and the second letter (if present) is written in lowercase.
+- **Giải thích (VI):** Cách biểu diễn ngắn gọn nguyên tố hoá học bằng một hoặc hai chữ cái trích từ tên gọi quốc tế hoặc tên Latin của nguyên tố, trong đó chữ cái đầu viết in hoa và chữ cái thứ hai (nếu có) viết thường.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 3 (Mục II.2): Dùng thống nhất để biểu diễn nguyên tố và nguyên tử của nguyên tố đó trong bảng tuần hoàn và công thức hoá học.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178
 
 ### chemistry
 - **Tiếng Việt:** Hoá học
@@ -1120,10 +1190,20 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A strong chemical bond between two atoms formed by the sharing of one or more pairs of electrons. In cells, this type of bond forms molecules such as H₂O, carbon skeletons, and linkages joining monomers in biomolecules (such as glycosidic and peptide bonds).
 - **Giải thích (VI):** Liên kết hoá học bền vững giữa hai nguyên tử được hình thành bằng sự dùng chung một hoặc nhiều cặp electron. Trong tế bào, loại liên kết này tạo nên các phân tử như H₂O, bộ khung carbon và các liên kết nối những đơn phân trong phân tử sinh học (như liên kết glycosidic, liên kết peptide).
 - **Giải thích khác (SGK Hóa học 10):** EN: A chemical bond formed between two atoms through the sharing of one or more pairs of valence electrons, typically occurring between non-metal atoms. / VI: Liên kết hoá học hình thành giữa hai nguyên tử thông qua sự dùng chung một hay nhiều cặp electron hoá trị, thường xuất hiện giữa các nguyên tử phi kim.
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: A chemical bond between two atoms formed by sharing one or more pairs of electrons to attain a stable noble gas electron shell. / VI: Liên kết hoá học giữa hai nguyên tử hình thành bằng sự dùng chung một hay nhiều cặp electron để đạt cấu trúc vỏ electron bền vững giống khí hiếm.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 4 (Mục II, III.1) và Bài 5 (Mục II.1.b, II.3.b): Liên kết cấu tạo nên phân tử nước, bộ khung carbon và các phân tử sinh học.
   - Hóa học lớp 10, Bài 12 (Mục I): Phân biệt với liên kết ion dựa trên cơ chế góp chung electron thay vì nhường – nhận hoàn toàn electron.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B4 (Mục II), tr. 24, 25; SGK Sinh học 10 KNTT, Chương 01, B4 (Mục III.1), tr. 26; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.1.b), tr. 29; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.b), tr. 34, 35; SGK Hóa học 10 KNTT, Chương 03, B12 (Mục I), tr. 55; SGK Hóa học 10 KNTT, Chương 03, B12 (Mục I.2), tr. 57; SGK Hóa học 10 KNTT, Chương 03, B12 (Mục I.3), tr. 57
+  - Khoa học tự nhiên lớp 7, Bài 6 (Mục III): Giải thích sự hình thành các phân tử đơn chất phi kim (H₂, O₂, N₂) và hợp chất cộng hoá trị (H₂O, CO₂, NH₃).
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B4 (Mục II), tr. 24, 25; SGK Sinh học 10 KNTT, Chương 01, B4 (Mục III.1), tr. 26; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.1.b), tr. 29; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.b), tr. 34, 35; SGK Hóa học 10 KNTT, Chương 03, B12 (Mục I), tr. 55; SGK Hóa học 10 KNTT, Chương 03, B12 (Mục I.2), tr. 57; SGK Hóa học 10 KNTT, Chương 03, B12 (Mục I.3), tr. 57; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178
+
+### covalent substance
+- **Tiếng Việt:** Chất cộng hoá trị (hợp chất cộng hoá trị)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A substance formed through covalent bonds between atoms in its molecules, including both covalent elemental substances and covalent compounds. Under normal conditions, covalent substances may exist as gases, liquids, or solids and generally have low melting and boiling points.
+- **Giải thích (VI):** Chất tạo thành nhờ các liên kết cộng hoá trị giữa các nguyên tử trong phân tử, bao gồm cả đơn chất và hợp chất cộng hoá trị. Ở điều kiện thường, chất cộng hoá trị có thể ở thể khí, lỏng hoặc rắn và thường có nhiệt độ nóng chảy, nhiệt độ sôi thấp.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 6 (Mục III.2): Phân biệt bản chất liên kết và tính chất vật lí của các chất như nước, đường ăn, khí oxygen với hợp chất ion.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục III.2), tr. 39
 
 ### cracking of alkanes
 - **Tiếng Việt:** Cracking alkane
@@ -1458,8 +1538,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A group of electrons in the atomic shell having nearly equal energy levels, ordered outward from the nucleus by principal index $n = 1, 2, 3, \dots, 7$ corresponding to letter designations $\text{K}, \text{L}, \text{M}, \text{N}, \text{O}, \text{P}, \text{Q}$. For $n \le 4$, the $n$th shell contains $n$ subshells and $n^2$ atomic orbitals.
 - **Giải thích (VI):** Tập hợp các electron trong vỏ nguyên tử có mức năng lượng gần bằng nhau, được sắp xếp từ gần hạt nhân ra ngoài theo số thứ tự $n = 1, 2, 3, \dots, 7$ ứng với tên gọi $\text{K}, \text{L}, \text{M}, \text{N}, \text{O}, \text{P}, \text{Q}$. Với $n \le 4$, lớp thứ $n$ có $n$ phân lớp và $n^2$ orbital nguyên tử.
-- **Bối cảnh:** Hóa học lớp 10, Bài 3 (Mục II.1): Phân chia cấu trúc vỏ nguyên tử theo mức năng lượng và xác định số thứ tự chu kì trong bảng tuần hoàn.
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B3 (Mục II.2), tr. 23; SGK Hóa học 10 KNTT, Chương 01, B3 (Mục II.3), tr. 23; SGK Hóa học 10 KNTT, Chương 01, B3 (Mục III), tr. 23
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: A grouping of electrons in an atom's shell system moving around the nucleus at a comparable distance and nuclear attraction level according to Bohr's atomic model. Electrons fill shells sequentially from the innermost outward (up to 2 electrons in the first shell and 8 in the second), with the outermost shell determining the atom's chemical properties. / VI: Tập hợp các electron ở vỏ nguyên tử chuyển động xung quanh hạt nhân ở cùng mức khoảng cách và mức độ bị hạt nhân hút theo mô hình nguyên tử của Bo. Các electron sắp xếp theo thứ tự từ trong ra ngoài (lớp thứ nhất tối đa 2 electron, lớp thứ hai tối đa 8 electron), trong đó lớp ngoài cùng quyết định tính chất hoá học của nguyên tử.
+- **Bối cảnh:**
+  - Hóa học lớp 10, Bài 3 (Mục II.1): Phân chia cấu trúc vỏ nguyên tử theo mức năng lượng và xác định số thứ tự chu kì trong bảng tuần hoàn.
+  - Khoa học tự nhiên lớp 7, Bài 2 (Mục II, III.2) và Bài 4 (Mục II.2): Dùng số lớp electron để xác định số thứ tự chu kì của nguyên tố trong bảng tuần hoàn.
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B3 (Mục II.2), tr. 23; SGK Hóa học 10 KNTT, Chương 01, B3 (Mục II.3), tr. 23; SGK Hóa học 10 KNTT, Chương 01, B3 (Mục III), tr. 23; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục II), tr. 15; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục II), tr. 15, 16; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục II), tr. 16
 
 ### electron subshell
 - **Tiếng Việt:** Phân lớp electron
@@ -1510,6 +1593,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Hóa học lớp 12, Bài 20 (Mục II.3.b): điều chế kim loại hoạt động trung bình và yếu trong các phương pháp tách kim loại.
   - *Lưu ý:* Xét riêng dưới góc độ phương pháp luyện kim tách kim loại từ dung dịch muối; phân biệt với quá trình "Điện phân dung dịch" nói chung ở Bài 16 (áp dụng cho cả điều chế hoá chất phi kim và hợp chất như Cl₂, NaOH, nước Javel).
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 06, B20 (Mục II.3.a), tr. 96; SGK Hóa học 12 KNTT, Chương 06, B20 (Mục II.3.b), tr. 96; SGK Hóa học 12 KNTT, Chương 06, B20 (Mục II.3.c), tr. 96
+
+### elemental substance
+- **Tiếng Việt:** Đơn chất
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A pure chemical substance composed of only one chemical element, including metallic, nonmetallic, and noble gas elemental substances.
+- **Giải thích (VI):** Chất tạo nên từ một nguyên tố hoá học duy nhất, bao gồm các đơn chất kim loại, phi kim và khí hiếm.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 7, Bài 5 (Mục I.1): Phân loại chất dựa theo thành phần nguyên tố hoá học, đối lập với hợp chất.
+  - *Lưu ý:* Phân biệt với nguyên tố hoá học (chemical element – tập hợp các nguyên tử cùng số hạt proton) và hợp chất (chemical compound – chất tạo nên từ hai nguyên tố trở lên).
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176, 177
 
 ### elementary reaction
 - **Tiếng Việt:** Phản ứng đơn giản
@@ -1894,10 +1987,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A vertical column (or set of columns) of chemical elements in the periodic table whose atoms have similar electron configurations and therefore exhibit closely related chemical properties. The periodic table comprises $18$ columns divided into $8$ A groups (IA to VIIIA) and $8$ B groups (IB to VIIIB, with Group VIIIB spanning $3$ columns).
 - **Giải thích (VI):** Tập hợp các nguyên tố hoá học được xếp thành cột dọc trong bảng tuần hoàn do nguyên tử có cấu hình electron tương tự nhau và có tính chất hoá học gần giống nhau. Bảng tuần hoàn hiện có $18$ cột, chia thành $8$ nhóm A (từ IA đến VIIIA) và $8$ nhóm B (từ IB đến VIIIB, riêng nhóm VIIIB gồm $3$ cột).
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: A vertical column of elements with similar chemical properties in the periodic table, arranged in order of increasing nuclear charge from top to bottom, comprising 8 A groups (IA to VIIIA) and 8 B groups (IB to VIIIB). Atoms of elements within the same A group have an equal number of outermost-shell electrons matching the group number (except He). / VI: Cột dọc các nguyên tố có tính chất hoá học gần giống nhau trong bảng tuần hoàn, xếp theo chiều điện tích hạt nhân tăng dần từ trên xuống dưới, gồm 8 nhóm A (từ IA đến VIIIA) và 8 nhóm B (từ IB đến VIIIB). Nguyên tử các nguyên tố trong cùng một nhóm A có số electron lớp ngoài cùng bằng nhau và bằng số thứ tự của nhóm (trừ He).
 - **Bối cảnh:**
   - Hóa học lớp 10, Bài 5 (Mục III.3): Phân chia các cột nguyên tố trong bảng tuần hoàn và suy đoán tính chất hoá học tương tự theo cột.
+  - Khoa học tự nhiên lớp 7, Bài 4 (Mục II.3): Sử dụng số thứ tự nhóm A để suy ra số electron lớp ngoài cùng và dự đoán tính chất tương đồng của các nguyên tố.
   - *Lưu ý:* Thuật ngữ trong hoá học chỉ cột dọc các nguyên tố có cấu hình electron tương tự trong bảng tuần hoàn (chia thành 8 nhóm A và 8 nhóm B).
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 02, B5 (Mục I), tr. 30; SGK Hóa học 10 KNTT, Chương 02, B5 (Mục II), tr. 31; SGK Hóa học 10 KNTT, Chương 02, B5 (Mục III.2), tr. 32
+  - *Lưu ý:* Chỉ nhóm nguyên tố trong bảng tuần hoàn hoá học.
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 02, B5 (Mục I), tr. 30; SGK Hóa học 10 KNTT, Chương 02, B5 (Mục II), tr. 31; SGK Hóa học 10 KNTT, Chương 02, B5 (Mục III.2), tr. 32; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục I), tr. 23; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục I), tr. 25; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.3), tr. 28
 
 ### gypsum
 - **Tiếng Việt:** Thạch cao
@@ -2212,6 +2308,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 12, Bài 28 (Mục I): Phân biệt phần phức chất nằm trong dấu móc vuông với các ion cầu ngoại nằm ngoài dấu móc vuông.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 08, B28 (Mục I), tr. 135; SGK Hóa học 12 KNTT, Chương 08, B28 (Mục II), tr. 135
 
+### inorganic compound
+- **Tiếng Việt:** Hợp chất vô cơ
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A class of chemical compounds comprising carbon-free compounds as well as certain simple carbon-containing compounds such as carbon dioxide and carbonates (for example, water, table salt, and calcium carbonate).
+- **Giải thích (VI):** Nhóm hợp chất hoá học bao gồm các hợp chất không chứa nguyên tố carbon và một số hợp chất đơn giản của carbon như carbon dioxide hoặc các muối carbonate (ví dụ: nước, muối ăn, calcium carbonate).
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 5 (Mục I.2) và Bài 7 (Mục II.2): Phân loại hợp chất trong tự nhiên và áp dụng quy tắc hoá trị.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục I.2), tr. 34; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.1), tr. 34; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.1), tr. 34, 35
+
 ### instantaneous reaction rate
 - **Tiếng Việt:** Tốc độ tức thời của phản ứng (tốc độ tức thời; Tốc độ phản ứng tức thời)
 - **Chuyên ngành gốc:** Hóa học
@@ -2223,6 +2327,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Toán học lớp 12, Bài 5 (Mục 1): Ứng dụng đạo hàm để tính tốc độ biến thiên nồng độ chất trong phản ứng hoá học.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 06, B19 (Mục I.2), tr. 94; SGK Toán 12 KNTT Tập 1, Chương 01, B5, tr. 33; SGK Toán 12 KNTT Tập 1, Chương 01, B5 (Mục 1), tr. 33; SGK Toán 12 KNTT Tập 1, Chương 01, B5 (Mục 1), tr. 33, 34
 
+### International Union of Pure and Applied Chemistry
+- **Tiếng Việt:** IUPAC (Liên minh Quốc tế về Hoá học cơ bản và Hoá học ứng dụng)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** The international scientific organization that establishes globally standardized rules for the nomenclature, names, and symbols of chemical elements as well as chemical terminology.
+- **Giải thích (VI):** Tổ chức khoa học quốc tế ban hành quy định thống nhất trên toàn thế giới về danh pháp tên gọi và kí hiệu của các nguyên tố cũng như các thuật ngữ hoá học.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 3 (Mục II.1): Quy chuẩn đọc và viết tên các nguyên tố hoá học bằng danh pháp quốc tế trong chương trình phổ thông.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 01, B3 (Mục I), tr. 20; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B3 (Mục II.1), tr. 20; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B3 (Mục II.2), tr. 20
+
 ### iodine
 - **Tiếng Việt:** Iodine
 - **Chuyên ngành gốc:** Hóa học
@@ -2231,6 +2343,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 5 (Mục II.2, III.3): Thuốc thử phát hiện sự hình thành tinh bột trên lá cây trong thí nghiệm quang hợp.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B5 (Mục II.2), tr. 35; SGK Sinh học 11 KNTT, Chương 01, B5 (Mục III.3.a), tr. 36; SGK Sinh học 11 KNTT, Chương 01, B5 (Mục III.3.b), tr. 36
 
+### iodine solution
+- **Tiếng Việt:** Dung dịch iodine (thuốc thử tinh bột)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A solution containing iodine used as a specific reagent to detect starch. When iodine solution is added to a sample containing starch, the starch turns bluish-purple.
+- **Giải thích (VI):** Dung dịch chứa iodine dùng làm thuốc thử đặc trưng để nhận biết tinh bột. Khi nhỏ dung dịch iodine vào mẫu vật chứa tinh bột, tinh bột chuyển thành màu xanh tím.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 24 (Mục I.2, II.1): hoá chất dùng để chứng minh sự tạo thành tinh bột trong lá cây khi quang hợp.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B24 (Mục I.1), tr. 108; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B24 (Mục I.2), tr. 108; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B24 (Mục II.1), tr. 108
+
 ### iodoform reaction
 - **Tiếng Việt:** Phản ứng tạo iodoform (phản ứng iodoform)
 - **Chuyên ngành gốc:** Hóa học
@@ -2238,6 +2358,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phản ứng hoá học giữa aldehyde hoặc ketone có nhóm methyl cạnh nhóm carbonyl (CH₃–CO–) với iodine (I₂) trong môi trường kiềm tạo thành kết tủa iodoform (CHI₃) màu vàng, dùng để nhận biết các hợp chất chứa nhóm CH₃–CO–.
 - **Bối cảnh:** Hóa học lớp 11, Bài 23 (Mục IV.4): phản ứng nhận biết ethanal và các methyl ketone qua hiện tượng kết tủa vàng CHI₃.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 06, B23 (Mục IV.3), tr. 142; SGK Hóa học 11 KNTT, Chương 06, B23 (Mục IV.4), tr. 142; SGK Hóa học 11 KNTT, Chương 06, B23 (Mục VI), tr. 144
+
+### ion
+- **Tiếng Việt:** Ion (ion dương; ion âm)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** An electrically charged particle formed when a neutral atom loses or gains electrons to attain a stable electron shell. Losing electrons produces a positive ion (cation), gaining electrons produces a negative ion (anion), and the ionic charge is written as a right superscript to the chemical symbol.
+- **Giải thích (VI):** Phần tử mang điện hình thành khi nguyên tử trung hoà nhường hoặc nhận electron để đạt vỏ electron bền vững. Nguyên tử nhường electron tạo thành ion dương, nguyên tử nhận electron tạo thành ion âm và điện tích ion được ghi ở phía trên, bên phải kí hiệu hoá học.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 6 (Mục II): Phần tử cấu thành liên kết ion và hợp chất ion như muối ăn (NaCl), magnesium oxide (MgO).
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục II), tr. 37; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục III.2), tr. 39; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177
 
 ### ion-exchange resin
 - **Tiếng Việt:** Nhựa trao đổi ion
@@ -2252,16 +2380,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A chemical bond formed by electrostatic attraction between oppositely charged ions in a molecule or crystal. This bond typically forms between atoms of a typical metal and a typical non-metal.
 - **Giải thích (VI):** Liên kết hoá học hình thành do lực hút tĩnh điện giữa các ion mang điện tích trái dấu trong phân tử hoặc tinh thể. Liên kết này thường xuất hiện giữa nguyên tử kim loại điển hình và nguyên tử phi kim điển hình.
-- **Bối cảnh:** Hóa học lớp 10, Bài 11 (Mục II): Giải thích sự tạo thành các hợp chất như NaCl, CaCl₂, MgO từ sự nhường và nhận electron giữa kim loại và phi kim.
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 03, B11 (Mục I), tr. 52; SGK Hóa học 10 KNTT, Chương 03, B11 (Mục II), tr. 52; SGK Hóa học 10 KNTT, Chương 03, B11 (Mục III.2), tr. 54
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: A chemical bond formed by the attraction between oppositely charged ions resulting from the transfer of electrons between atoms. / VI: Liên kết hoá học hình thành do lực hút giữa các ion mang điện trái dấu được tạo ra từ quá trình nhường và nhận electron giữa các nguyên tử.
+- **Bối cảnh:**
+  - Hóa học lớp 10, Bài 11 (Mục II): Giải thích sự tạo thành các hợp chất như NaCl, CaCl₂, MgO từ sự nhường và nhận electron giữa kim loại và phi kim.
+  - Khoa học tự nhiên lớp 7, Bài 6 (Mục II): Giải thích sự hình thành phân tử hợp chất ion như sodium chloride (NaCl) và magnesium oxide (MgO), phân biệt với liên kết cộng hoá trị.
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 03, B11 (Mục I), tr. 52; SGK Hóa học 10 KNTT, Chương 03, B11 (Mục II), tr. 52; SGK Hóa học 10 KNTT, Chương 03, B11 (Mục III.2), tr. 54; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục II), tr. 37
 
 ### ionic compound
 - **Tiếng Việt:** Hợp chất ion
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A chemical compound composed of positive and negative ions held together by ionic bonds. Under standard conditions, such compounds are typically hard yet brittle solids with high melting and boiling points that conduct electricity when molten or dissolved in solution, though not in the solid state.
 - **Giải thích (VI):** Hợp chất hoá học tạo nên từ các ion dương và ion âm liên kết với nhau bằng liên kết ion. Ở điều kiện thường, các hợp chất này thường ở thể rắn, cứng nhưng giòn, có nhiệt độ nóng chảy và nhiệt độ sôi cao, dẫn điện khi nóng chảy hoặc khi tan trong dung dịch nhưng không dẫn điện ở trạng thái rắn.
-- **Bối cảnh:** Hóa học lớp 10, Bài 11 (Mục II, III.2): Liên hệ bản chất lực hút tĩnh điện bền vững trong tinh thể ion với các tính chất vật lí đặc trưng của muối ăn NaCl và các muối vô cơ.
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 03, B11 (Mục I), tr. 51; SGK Hóa học 10 KNTT, Chương 03, B11 (Mục I), tr. 52; SGK Hóa học 10 KNTT, Chương 03, B11 (Mục II), tr. 52
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: A chemical compound composed of positive and negative ions held together by ionic bonds. Under normal conditions, ionic compounds are solids with low volatility and high melting points that form electrically conductive solutions when dissolved in water. / VI: Hợp chất tạo thành bởi các ion dương và ion âm gắn kết với nhau bằng liên kết ion. Ở điều kiện thường, các hợp chất ion tồn tại ở thể rắn, khó bay hơi, khó nóng chảy và khi tan trong nước tạo thành dung dịch dẫn điện.
+- **Bối cảnh:**
+  - Hóa học lớp 10, Bài 11 (Mục II, III.2): Liên hệ bản chất lực hút tĩnh điện bền vững trong tinh thể ion với các tính chất vật lí đặc trưng của muối ăn NaCl và các muối vô cơ.
+  - Khoa học tự nhiên lớp 7, Bài 6 (Mục II): Nhận biết cấu tạo và tính chất đặc trưng của muối ăn cùng các hợp chất ion, đối chiếu với chất cộng hoá trị.
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 03, B11 (Mục I), tr. 51; SGK Hóa học 10 KNTT, Chương 03, B11 (Mục I), tr. 52; SGK Hóa học 10 KNTT, Chương 03, B11 (Mục II), tr. 52; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục II), tr. 37
 
 ### ionic crystal lattice
 - **Tiếng Việt:** Mạng tinh thể ion (tinh thể ion)
@@ -2412,8 +2546,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A clear chemical solution capable of absorbing CO₂ gas to form a precipitate (appearing as a cloudy film on the liquid surface), commonly used as a reagent to detect CO₂ released during respiration in germinating seeds.
 - **Giải thích (VI):** Hoá chất dạng dung dịch trong suốt có khả năng hấp thụ khí CO₂ để tạo thành kết tủa (xuất hiện lớp váng đục trên bề mặt cốc dung dịch), thường được dùng trong thí nghiệm phát hiện CO₂ sinh ra từ quá trình hô hấp của hạt nảy mầm.
-- **Bối cảnh:** Sinh học lớp 11, Bài 7 (Mục II.2, III.1, III.2): Hoá chất dùng làm thuốc thử phát hiện khí CO₂ thải ra từ hô hấp thực vật trong thí nghiệm thực hành.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B7 (Mục II.2), tr. 44; SGK Sinh học 11 KNTT, Chương 01, B7 (Mục III.1), tr. 44; SGK Sinh học 11 KNTT, Chương 01, B7 (Mục III.2), tr. 45
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: A clear chemical solution that reacts with CO₂ gas to form a cloudy precipitate, used in biological experiments to detect CO₂ released during respiration. / VI: Dung dịch hoá chất trong suốt có tính chất tác dụng với khí CO₂ tạo thành chất kết tủa gây vẩn đục, dùng trong thí nghiệm sinh học để phát hiện sự thải khí CO₂ của quá trình hô hấp.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 7 (Mục II.2, III.1, III.2): Hoá chất dùng làm thuốc thử phát hiện khí CO₂ thải ra từ hô hấp thực vật trong thí nghiệm thực hành.
+  - Khoa học tự nhiên lớp 7, Bài 27 (Mục I.2, II): hoá chất dùng để chứng minh hạt nảy mầm thải ra khí CO₂ khi hô hấp.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B7 (Mục II.2), tr. 44; SGK Sinh học 11 KNTT, Chương 01, B7 (Mục III.1), tr. 44; SGK Sinh học 11 KNTT, Chương 01, B7 (Mục III.2), tr. 45; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B27 (Mục I.1), tr. 116; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B27 (Mục I.2), tr. 116; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B27 (Mục II), tr. 116
 
 ### lipid
 - **Tiếng Việt:** Lipid (chất béo)
@@ -2422,11 +2559,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nhóm hợp chất hữu cơ có trong tế bào sống, không tan trong nước nhưng tan trong dung môi hữu cơ không phân cực. Dựa trên cấu tạo phân tử, nhóm chất này bao gồm chất béo, sáp, steroid và phospholipid.
 - **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A nutrient that serves as an energy reserve in the body, provides insulation against cold, and aids the absorption of fat-soluble vitamins. It occurs in processed products such as butter and vegetable oil as well as natural foods like milk, egg yolk, meat, fish, peanuts, and sesame. / VI: Chất dinh dưỡng đóng vai trò dự trữ năng lượng trong cơ thể, chống lạnh và hỗ trợ hấp thụ các vitamin tan trong chất béo. Chất này có trong các sản phẩm chế biến như bơ, dầu thực vật và thực phẩm tự nhiên như sữa, lòng đỏ trứng, thịt, cá, lạc, vừng.
 - **Giải thích khác (SGK Sinh học 10):** EN: A structurally diverse group of biomolecules (including fats and oils, phospholipids, steroids, carotenoids, waxes, and vitamins A, D, E, and K) sharing a hydrophobic nature due to abundant nonpolar C–H bonds and few oxygen atoms. They primarily function in long-term energy storage, cell membrane structure, and various physiological processes. / VI: Nhóm phân tử sinh học đa dạng về cấu trúc (gồm mỡ và dầu, phospholipid, steroid, carotenoid, sáp và các vitamin A, D, E, K) nhưng có đặc tính chung là kị nước do chứa nhiều liên kết C–H không phân cực và ít nguyên tử oxygen. Chúng giữ chức năng chủ yếu là dự trữ năng lượng dài hạn, cấu tạo màng tế bào và tham gia nhiều hoạt động sinh lí khác.
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: A major class of organic nutrients required in large amounts by animals, functioning to store energy, insulate the body against heat loss, and act as a solvent enabling the absorption of certain vitamins. / VI: Nhóm chất dinh dưỡng hữu cơ mà cơ thể động vật cần với lượng lớn, có vai trò dự trữ năng lượng, chống mất nhiệt cho cơ thể và làm dung môi hoà tan một số loại vitamin để cơ thể hấp thụ.
 - **Bối cảnh:**
   - Hóa học lớp 12, Bài 1 (Mục II.1): Khái niệm chung về nhóm hợp chất lipid và vị trí phân loại của chất béo trong nhóm này.
   - Khoa học tự nhiên lớp 6, Bài 15 (Mục II.2.b): Nhóm chất béo dự trữ năng lượng có trong dầu thực vật, mỡ động vật và các loại hạt có dầu.
   - Sinh học lớp 10, Bài 5 (Mục II.2, II.4): Đặc tính kị nước, phân loại và vai trò của nhóm lipid trong tế bào.
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 01, B1 (Mục I.6), tr. 10; SGK Hóa học 12 KNTT, Chương 01, B1 (Mục II.1), tr. 10; SGK Hóa học 12 KNTT, Chương 01, B1 (Mục II.1), tr. 10, 11; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.a), tr. 54; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.b), tr. 54; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.c), tr. 54; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.2), tr. 31; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 39, 40
+  - Khoa học tự nhiên lớp 7, Bài 29 (Mục III.2) và Bài 31 (Mục IV.1): vai trò sinh học của chất béo trong cơ thể động vật và dinh dưỡng ở người.
+- **Nguồn:** SGK Hóa học 12 KNTT, Chương 01, B1 (Mục I.6), tr. 10; SGK Hóa học 12 KNTT, Chương 01, B1 (Mục II.1), tr. 10; SGK Hóa học 12 KNTT, Chương 01, B1 (Mục II.1), tr. 10, 11; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.a), tr. 54; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.b), tr. 54; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.c), tr. 54; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.2), tr. 31; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 39, 40; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125, 126; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 126
 
 ### liquefied natural gas
 - **Tiếng Việt:** LNG (Liquefied Natural Gas; khí thiên nhiên hoá lỏng)
@@ -2476,6 +2615,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 26 (Mục IV): Tìm hiểu nguồn điện hiện đại dùng trong thiết bị điện tử di động và phương tiện giao thông chạy điện.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B26 (Mục IV), tr. 113
 
+### long period
+- **Tiếng Việt:** Chu kì lớn
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** Any of the four lower periods (periods 4, 5, 6, and 7) in the periodic table of elements, containing a larger number of elements than the short periods (with periods 6 and 7 also including the lanthanide and actinide series placed at the bottom of the table).
+- **Giải thích (VI):** Nhóm bốn chu kì phía dưới (chu kì 4, chu kì 5, chu kì 6 và chu kì 7) trong bảng tuần hoàn các nguyên tố hoá học, chứa số lượng nguyên tố nhiều hơn các chu kì nhỏ (riêng chu kì 6 và 7 có thêm họ lanthanide và actinide xếp cuối bảng).
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 4 (Mục II.2): Phân biệt với các chu kì nhỏ (chu kì 1, 2, 3) khi nhận diện cấu trúc hàng ngang của bảng tuần hoàn.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.1), tr. 26; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.2), tr. 26; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.2), tr. 26, 27
+
 ### maceration
 - **Tiếng Việt:** Phương pháp ngâm chiết
 - **Chuyên ngành gốc:** Hóa học
@@ -2515,6 +2662,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quy tắc xác định hướng ưu tiên khi cộng một tác nhân không đối xứng $\text{HX}$ (như $\text{HBr}$, $\text{HCl}$, $\text{HI}$, $\text{HOH}$) vào liên kết bội: nguyên tử hydrogen ưu tiên cộng vào nguyên tử carbon mang liên kết bội có nhiều hydrogen hơn và phần $\text{X}$ cộng vào nguyên tử carbon có ít hydrogen hơn.
 - **Bối cảnh:** Hóa học lớp 11, Bài 16 (Mục IV.1.d): Xác định sản phẩm chính khi cộng acid HX hoặc cộng nước vào alkene và alkyne không đối xứng.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 04, B16 (Mục IV.1.c), tr. 97; SGK Hóa học 11 KNTT, Chương 04, B16 (Mục IV.1.d), tr. 97; SGK Hóa học 11 KNTT, Chương 04, B16 (Mục IV.2), tr. 97
+
+### mass percentage of an element in a compound
+- **Tiếng Việt:** Phần trăm khối lượng nguyên tố trong hợp chất
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A quantity expressing the mass ratio as a percentage of each element relative to the molecular mass of a compound, calculated by the formula $\%\text{ mass of element} = \frac{\text{atomic mass} \cdot \text{number of atoms of element} \cdot 100\%}{\text{molecular mass}}$.
+- **Giải thích (VI):** Đại lượng biểu thị tỉ lệ phần trăm khối lượng của mỗi nguyên tố so với khối lượng phân tử hợp chất, xác định theo công thức $\%\text{ khối lượng nguyên tố} = \frac{\text{khối lượng nguyên tử} \cdot \text{số nguyên tử của nguyên tố} \cdot 100\%}{\text{khối lượng phân tử}}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 7 (Mục I, III.2): Bài toán tính thành phần phần trăm các nguyên tố từ công thức hoá học (như hàm lượng dinh dưỡng trong phân bón).
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục I), tr. 41; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục II.1), tr. 41; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục II.1), tr. 41, 42
 
 ### mass spectrometry (chemistry)
 - **Tiếng Việt:** Phổ khối lượng (phổ khối)
@@ -2611,6 +2766,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 12, Bài 18 (Mục II.1): mô tả cấu tạo mạng tinh thể để giải thích liên kết và tính chất vật lí chung của kim loại.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 06, B18, tr. 87; SGK Hóa học 12 KNTT, Chương 06, B18 (Mục I), tr. 87; SGK Hóa học 12 KNTT, Chương 06, B18 (Mục II.1), tr. 87
 
+### metallic element
+- **Tiếng Việt:** Nguyên tố kim loại (kim loại)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A class of more than 90 chemical elements located in the lower-left region of the periodic table, encompassing most elements of groups IA, IIA, and IIIA, some elements of groups IVA, VA, and VIA, all B-group elements, and the lanthanide and actinide series. Metal atoms tend to lose electrons to achieve a stable noble-gas outer electron configuration.
+- **Giải thích (VI):** Tập hợp hơn 90 nguyên tố hoá học nằm ở vùng góc dưới bên trái bảng tuần hoàn, gồm hầu hết các nguyên tố nhóm IA, IIA, IIIA, một số nguyên tố nhóm IVA, VA, VIA, toàn bộ các nhóm B cùng hai họ lanthanide và actinide. Nguyên tử kim loại có xu hướng nhường electron để đạt lớp electron ngoài cùng bền vững giống khí hiếm.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 4 (Mục III.1): Nhận biết vị trí các kim loại (thể hiện bằng ô màu xanh trong bảng tuần hoàn) và ứng dụng của Al, Fe, Cu, Au trong đời sống.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục I), tr. 25; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.3), tr. 28; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.3), tr. 29
+
 ### metallic lustre
 - **Tiếng Việt:** Ánh kim
 - **Chuyên ngành gốc:** Hóa học
@@ -2651,6 +2814,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 11, Bài 12 (Mục I.1): Phân biệt với công thức tổng quát (chỉ nêu thành phần nguyên tố) và công thức đơn giản nhất (chỉ nêu tỉ lệ nguyên tử tối giản).
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B12 (Mục I.1), tr. 70
 
+### molecular mass
+- **Tiếng Việt:** Khối lượng phân tử
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A quantity equal to the sum of the atomic masses of all atoms constituting a molecule of a substance, expressed in atomic mass units ($\text{amu}$).
+- **Giải thích (VI):** Đại lượng bằng tổng khối lượng của tất cả các nguyên tử tạo nên một phân tử chất đó, tính theo đơn vị khối lượng nguyên tử ($\text{amu}$).
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 5 (Mục II.2) và Bài 7 (Mục I): Tính khối lượng phân tử từ bảng tuần hoàn và xác định phần trăm khối lượng nguyên tố trong hợp chất.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.1), tr. 35; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.2), tr. 35
+
 ### molecular structure of alkanes
 - **Tiếng Việt:** Đặc điểm cấu tạo của alkane
 - **Chuyên ngành gốc:** Hóa học
@@ -2677,6 +2848,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Hóa học lớp 11, Bài 16 (Mục II.1): Giải thích khả năng phản ứng cộng đặc trưng của alkene dựa vào liên kết π kém bền trong liên kết đôi C=C.
   - Hóa học lớp 11, Bài 16 (Mục II.2): Cơ sở cấu tạo giải thích khả năng cộng tối đa hai phân tử tác nhân vào liên kết ba của alkyne.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 04, B16 (Mục II.1), tr. 95; SGK Hóa học 11 KNTT, Chương 04, B16 (Mục II.2), tr. 95; SGK Hóa học 11 KNTT, Chương 04, B16 (Mục III), tr. 95
+
+### molecule of a compound
+- **Tiếng Việt:** Phân tử hợp chất
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A molecule formed by atoms of two or more different chemical elements bonded together.
+- **Giải thích (VI):** Phân tử cấu tạo từ các nguyên tử của hai hay nhiều nguyên tố hoá học khác nhau liên kết với nhau.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 5 (Mục II.1): Phân biệt cấu tạo phân tử của hợp chất (như nước, methane) với phân tử đơn chất.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục I.2), tr. 34; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.1), tr. 34; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.1), tr. 34, 35
+
+### molecule of an elemental substance
+- **Tiếng Việt:** Phân tử đơn chất
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A molecule formed by atoms of the same chemical element bonded together.
+- **Giải thích (VI):** Phân tử cấu tạo từ các nguyên tử của cùng một nguyên tố hoá học liên kết với nhau.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 5 (Mục II.1): Phân biệt cấu tạo phân tử của đơn chất (như khí nitrogen, oxygen) với phân tử hợp chất.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục I.2), tr. 34; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.1), tr. 34; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.1), tr. 34, 35
 
 ### molten-salt electrolysis
 - **Tiếng Việt:** Điện phân nóng chảy (đpnc)
@@ -2861,12 +3048,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 02, B6, tr. 38; SGK Hóa học 11 KNTT, Chương 02, B6 (Mục I.1), tr. 38; SGK Hóa học 11 KNTT, Chương 02, B6 (Mục I.2), tr. 38
 
 ### noble gas
-- **Tiếng Việt:** Khí hiếm
+- **Tiếng Việt:** Khí hiếm (Nguyên tố khí hiếm)
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** Chemical elements whose atoms possess $8$ outermost electrons (except helium, which has $2$), conferring a highly stable electron configuration so that they scarcely participate in chemical reactions.
 - **Giải thích (VI):** Các nguyên tố hoá học mà nguyên tử có $8$ electron ở lớp ngoài cùng (riêng helium có $2$ electron lớp ngoài cùng), có cấu hình rất bền vững nên hầu như không tham gia vào các phản ứng hoá học.
-- **Bối cảnh:** Hóa học lớp 10, Bài 3 (Mục III.3): Nhận diện các nguyên tử bền vững hầu như không tham gia phản ứng hoá học dựa vào số electron lớp ngoài cùng.
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B3 (Mục III.3), tr. 25
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: A group of 7 chemical elements occupying group VIIIA of the periodic table (He, Ne, Ar, Kr, Xe, Rn, and Og), possessing a stable outermost electron shell of 8 electrons (or 2 electrons for He) and consequently exhibiting very low chemical reactivity. / VI: Nhóm 7 nguyên tố hoá học nằm ở cột nhóm VIIIA của bảng tuần hoàn (gồm He, Ne, Ar, Kr, Xe, Rn, Og), có lớp electron ngoài cùng bền vững với 8 electron (riêng He có 2 electron) nên rất khó bị biến đổi hoá học.
+- **Bối cảnh:**
+  - Hóa học lớp 10, Bài 3 (Mục III.3): Nhận diện các nguyên tử bền vững hầu như không tham gia phản ứng hoá học dựa vào số electron lớp ngoài cùng.
+  - Khoa học tự nhiên lớp 7, Bài 4 (Mục III.3): Nhận diện các nguyên tố khí hiếm ở nhóm VIIIA (ô màu vàng trong bảng tuần hoàn) và giải thích độ bền hoá học của lớp vỏ electron.
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B3 (Mục III.3), tr. 25; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục I), tr. 25; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.3), tr. 28; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục III.3), tr. 31
+
+### noble gas electron configuration
+- **Tiếng Việt:** Cấu trúc electron bền vững của khí hiếm
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** An atomic shell arrangement having $8$ electrons in the outermost shell (or $2$ electrons in helium), enabling noble gases to exist stably as monatomic species resistant to chemical change under normal conditions.
+- **Giải thích (VI):** Cấu hình vỏ nguyên tử có lớp electron ngoài cùng chứa $8$ electron (riêng nguyên tử helium chứa $2$ electron), giúp các khí hiếm tồn tại bền vững dưới dạng đơn nguyên tử và khó bị biến đổi hoá học ở điều kiện thường.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 6 (Mục I): Cơ sở giải thích xu hướng nhường, nhận hoặc dùng chung electron của các nguyên tử khi hình thành liên kết hoá học.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6, tr. 36; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục I), tr. 36; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục III.1), tr. 38
 
 ### nomenclature of arenes and aryl groups
 - **Tiếng Việt:** Công thức cấu tạo và danh pháp một số arene, gốc aryl
@@ -2908,13 +3106,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 10, Bài 12 (Mục I.3, II): Xét trong các đơn chất phi kim hai nguyên tử như H₂, Cl₂, O₂, N₂ hoặc các liên kết có độ âm điện hai nguyên tử xấp xỉ nhau.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 03, B12 (Mục I.2), tr. 57; SGK Hóa học 10 KNTT, Chương 03, B12 (Mục I.3), tr. 57; SGK Hóa học 10 KNTT, Chương 03, B12 (Mục I.3), tr. 57, 58
 
+### nonmetallic element
+- **Tiếng Việt:** Nguyên tố phi kim (phi kim)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A class of fewer than 20 chemical elements situated mainly in the upper-right region of the periodic table (along with hydrogen in group IA), including most elements of groups VIIA, VIA, and VA and several elements of groups IVA and IIIA. At standard conditions they exist as solids, liquids, or gases, and nonmetal atoms tend to gain electrons to achieve a stable noble-gas outer shell.
+- **Giải thích (VI):** Tập hợp chưa đến 20 nguyên tố hoá học nằm chủ yếu ở góc trên bên phải bảng tuần hoàn (cùng nguyên tố H ở nhóm IA), gồm hầu hết các nguyên tố nhóm VIIA, VIA, VA và một số nguyên tố nhóm IVA, IIIA. Ở điều kiện thường chúng tồn tại ở thể rắn, lỏng hoặc khí và nguyên tử phi kim có xu hướng nhận electron để đạt lớp vỏ bền vững giống khí hiếm.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 4 (Mục III.2): Nhận biết vị trí các phi kim (thể hiện bằng ô màu hồng trong bảng tuần hoàn) và vai trò của O, Cl, S, C trong tự nhiên và đời sống.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục I), tr. 25; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.3), tr. 28; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục III.1), tr. 30
+
 ### nuclear charge number
-- **Tiếng Việt:** Số đơn vị điện tích hạt nhân ($Z$)
+- **Tiếng Việt:** Số đơn vị điện tích hạt nhân ($Z$; Z)
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A characteristic quantity of an atomic nucleus (symbol $Z$) equal to the number of protons in the nucleus and equal to the number of electrons in the shell of an electrically neutral atom.
 - **Giải thích (VI):** Đại lượng đặc trưng cho hạt nhân nguyên tử (kí hiệu $Z$), có giá trị bằng số hạt proton trong hạt nhân và bằng số hạt electron ở vỏ của nguyên tử trung hoà điện.
-- **Bối cảnh:** Hóa học lớp 10, Bài 1 (Mục III): Xác định mối liên hệ giữa điện tích hạt nhân, số proton, số electron và số khối.
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B1 (Mục III), tr. 16; SGK Hóa học 10 KNTT, Chương 01, B2, tr. 17; SGK Hóa học 10 KNTT, Chương 01, B2 (Mục I), tr. 17
+- **Bối cảnh:**
+  - Hóa học lớp 10, Bài 1 (Mục III): Xác định mối liên hệ giữa điện tích hạt nhân, số proton, số electron và số khối.
+  - Khoa học tự nhiên lớp 7, Bài 2 (Mục III.1) và Bài 4 (Mục II.1): Liên hệ trực tiếp với số hiệu nguyên tử và chiều sắp xếp các nguyên tố trong bảng tuần hoàn.
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B1 (Mục III), tr. 16; SGK Hóa học 10 KNTT, Chương 01, B2, tr. 17; SGK Hóa học 10 KNTT, Chương 01, B2 (Mục I), tr. 17; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 179; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B2 (Mục III.1), tr. 16
 
 ### nucleophilic substitution of halogen atom
 - **Tiếng Việt:** Phản ứng thế nguyên tử halogen
@@ -3036,8 +3244,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A chemical compound of the element carbon, excluding certain inorganic carbon compounds such as carbon monoxide, carbon dioxide, carbonate salts, cyanides, and carbides.
 - **Giải thích (VI):** Hợp chất hoá học của nguyên tố carbon, ngoại trừ một số hợp chất vô cơ như carbon monoxide, carbon dioxide, muối carbonate, hợp chất cyanide và carbide.
-- **Bối cảnh:** Hóa học lớp 11, Bài 10 (Mục I.1): Khái niệm mở đầu phần hoá học hữu cơ, phân biệt chất hữu cơ với các hợp chất vô cơ chứa carbon.
-- **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B10 (Mục I.1), tr. 57; SGK Hóa học 11 KNTT, Chương 03, B10 (Mục I.1), tr. 57, 58
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: A chemical compound of carbon, excluding certain carbon-containing inorganic compounds such as carbon dioxide and carbonates (for example, hydrocarbons, glucose, sucrose, and proteins). / VI: Hợp chất hoá học của nguyên tố carbon, ngoại trừ một số hợp chất vô cơ chứa carbon như carbon dioxide và các muối carbonate (ví dụ: hydrocarbon, glucose, saccharose, protein).
+- **Bối cảnh:**
+  - Hóa học lớp 11, Bài 10 (Mục I.1): Khái niệm mở đầu phần hoá học hữu cơ, phân biệt chất hữu cơ với các hợp chất vô cơ chứa carbon.
+  - Khoa học tự nhiên lớp 7, Bài 5 (Mục I.2): Nhận biết nhóm hợp chất cấu tạo nên cơ thể sống và nhiên liệu, phân biệt với hợp chất vô cơ.
+- **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B10 (Mục I.1), tr. 57; SGK Hóa học 11 KNTT, Chương 03, B10 (Mục I.1), tr. 57, 58; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục I.2), tr. 34
 
 ### orientation rule in alkylbenzene substitution
 - **Tiếng Việt:** Quy tắc thế
@@ -3211,8 +3422,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** An individual cell dedicated to a single chemical element in the periodic table, whose ordinal number equals the element's atomic number ($Z$) and which displays essential data such as the atomic number, element symbol, element name, and average atomic mass.
 - **Giải thích (VI):** Đơn vị ô cơ bản dành riêng cho mỗi nguyên tố hoá học trong bảng tuần hoàn, có số thứ tự đúng bằng số hiệu nguyên tử ($Z$) của nguyên tố đó và ghi các thông tin quan trọng như số hiệu nguyên tử, kí hiệu nguyên tố, tên nguyên tố, nguyên tử khối trung bình.
-- **Bối cảnh:** Hóa học lớp 10, Bài 5 (Mục III.1): Tra cứu thông tin cơ bản của nguyên tố và suy ra số hiệu nguyên tử từ số thứ tự ô.
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 02, B5 (Mục I), tr. 31; SGK Hóa học 10 KNTT, Chương 02, B5 (Mục II), tr. 31; SGK Hóa học 10 KNTT, Chương 02, B5 (Mục III.1), tr. 31
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: An individual box corresponding to a single chemical element in the periodic table, displaying four essential pieces of information: chemical symbol, element name, atomic number, and atomic mass. / VI: Đơn vị ô cơ bản ứng với mỗi nguyên tố hoá học trong bảng tuần hoàn, cung cấp bốn thông tin cơ bản gồm kí hiệu hoá học, tên nguyên tố, số hiệu nguyên tử và khối lượng nguyên tử.
+- **Bối cảnh:**
+  - Hóa học lớp 10, Bài 5 (Mục III.1): Tra cứu thông tin cơ bản của nguyên tố và suy ra số hiệu nguyên tử từ số thứ tự ô.
+  - Khoa học tự nhiên lớp 7, Bài 4 (Mục II.1): Đọc thông tin từ ô nguyên tố để suy ra số thứ tự, số proton, số electron và khối lượng nguyên tử.
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 02, B5 (Mục I), tr. 31; SGK Hóa học 10 KNTT, Chương 02, B5 (Mục II), tr. 31; SGK Hóa học 10 KNTT, Chương 02, B5 (Mục III.1), tr. 31; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178, 179; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục I), tr. 25
+
+### periodic table of elements
+- **Tiếng Việt:** Bảng tuần hoàn các nguyên tố hoá học (bảng tuần hoàn)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A tabular classification arranging the 118 known chemical elements into element cells in order of increasing nuclear charge. Elements in the same horizontal row (period) have the same number of electron shells, while elements in the same vertical column (group) exhibit similar chemical properties.
+- **Giải thích (VI):** Bảng phân loại sắp xếp 118 nguyên tố hoá học đã biết vào các ô nguyên tố theo chiều tăng dần của điện tích hạt nhân nguyên tử. Trong bảng, các nguyên tố cùng hàng ngang (chu kì) có cùng số lớp electron và các nguyên tố cùng cột dọc (nhóm) có tính chất hoá học gần giống nhau.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 4 (Mục I, II): Công cụ tra cứu vị trí, cấu tạo nguyên tử và phân loại kim loại, phi kim, khí hiếm.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178
 
 ### periodic trends in acid-base character of oxides and hydroxides
 - **Tiếng Việt:** Xu hướng biến đổi tính acid – base của oxide và hydroxide theo chu kì
@@ -3395,6 +3617,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 4 (Mục III.1, III.2): Đặc tính hoá lí nền tảng quy định vai trò sinh học của nước đối với tế bào.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B4 (Mục III.1), tr. 26; SGK Sinh học 10 KNTT, Chương 01, B4 (Mục III.2), tr. 27
 
+### polarity of water molecule
+- **Tiếng Việt:** Tính phân cực của phân tử nước
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** The property of a water molecule arising because the shared electron pairs in its covalent bonds are shifted toward the oxygen atom, giving the oxygen end a negative charge and the hydrogen end a positive charge. This characteristic causes water molecules to attract one another and other polar molecules, making water an effective solvent for many substances in living organisms.
+- **Giải thích (VI):** Tính chất của phân tử nước hình thành khi các cặp electron trong liên kết cộng hoá trị bị lệch về phía nguyên tử oxygen, làm đầu mang nguyên tử oxygen tích điện âm còn đầu mang các nguyên tử hydrogen tích điện dương. Đặc điểm này khiến các phân tử nước hút lẫn nhau và hút các phân tử phân cực khác, giúp nước trở thành dung môi hoà tan nhiều chất trong cơ thể.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 29 (Mục I): giải thích cấu tạo phân tử nước và cơ sở giúp nước đóng vai trò dung môi hoà tan, vận chuyển các chất trong cơ thể sinh vật.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29, tr. 122; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục I), tr. 122
+
 ### polyacrylonitrile fibre
 - **Tiếng Việt:** Tơ nitron (olon)
 - **Chuyên ngành gốc:** Hóa học
@@ -3546,11 +3776,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hợp chất cao phân tử cấu tạo từ một hay nhiều chuỗi polypeptide gồm các đơn vị α-amino acid liên kết với nhau theo một trật tự nhất định. Protein dạng hình sợi không tan trong nước, còn protein dạng hình cầu tan được trong nước tạo dung dịch keo.
 - **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A nutrient responsible for building, maintaining, and developing the body, participating in all vital functions and nutrient metabolism. It is abundant in meat, fish, eggs, milk, and legumes such as beans and peas. / VI: Chất dinh dưỡng đóng vai trò cấu tạo, duy trì và phát triển cơ thể, tham gia vào mọi chức năng sống cũng như quá trình chuyển hoá các chất dinh dưỡng. Chất này có nhiều trong thịt, cá, trứng, sữa và các loại hạt như đậu, đỗ.
 - **Giải thích khác (SGK Sinh học 10):** EN: A biological macromolecule built as a polymer from 20 types of amino acid monomers, whose diversity and specificity are determined by the number, composition, sequence of amino acids, and three-dimensional conformation. It participates in nearly all cellular activities, performing structural, catalytic, defensive, contractile, transport, receptor, and regulatory functions. / VI: Đại phân tử sinh học được cấu tạo theo nguyên tắc đa phân từ 20 loại đơn phân amino acid, có tính đa dạng và đặc thù do số lượng, thành phần, trình tự sắp xếp các amino acid và cấu hình không gian ba chiều quy định. Phân tử này tham gia hầu hết các hoạt động sống của tế bào với các chức năng cấu trúc, xúc tác, bảo vệ, vận động, vận chuyển, tiếp nhận thông tin và điều hoà.
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: A major class of organic nutrients required in large amounts by animals, serving as structural components of cells and tissues while facilitating metabolism and energy transformation. / VI: Nhóm chất dinh dưỡng hữu cơ mà cơ thể động vật cần với lượng lớn, giữ vai trò cấu tạo nên tế bào và cơ thể, đồng thời giúp các quá trình trao đổi chất và chuyển hoá năng lượng diễn ra thuận lợi.
 - **Bối cảnh:**
   - Hóa học lớp 12, Bài 10 (Mục I.1, I.2): Cấu tạo, tính chất vật lí và vai trò sinh học thiết yếu của hợp chất cao phân tử chứa nitrogen.
   - Khoa học tự nhiên lớp 6, Bài 15 (Mục II.2.a): Dưỡng chất thiết yếu xây dựng cấu trúc cơ thể có trong thực phẩm nguồn gốc động vật và thực vật.
   - Sinh học lớp 10, Bài 5 (Mục II.3, II.4): Cấu trúc bốn bậc và chức năng sinh học đa dạng của protein trong tế bào.
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 03, B10 (Mục I.1), tr. 46, 47; SGK Hóa học 12 KNTT, Chương 03, B10 (Mục I.2), tr. 47; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.a), tr. 54; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.b), tr. 54; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.c), tr. 54; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.a), tr. 34; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.b), tr. 34; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 39, 40
+  - Khoa học tự nhiên lớp 7, Bài 29 (Mục III.2) và Bài 31 (Mục IV.1): vai trò của chất đạm trong khẩu phần dinh dưỡng của động vật và con người.
+- **Nguồn:** SGK Hóa học 12 KNTT, Chương 03, B10 (Mục I.1), tr. 46, 47; SGK Hóa học 12 KNTT, Chương 03, B10 (Mục I.2), tr. 47; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.a), tr. 54; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.b), tr. 54; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.2.c), tr. 54; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.a), tr. 34; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.b), tr. 34; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 39, 40; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.1), tr. 124; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125, 126
 
 ### protein coagulation
 - **Tiếng Việt:** Phản ứng đông tụ (sự đông tụ protein)
@@ -3880,6 +4112,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 12, Bài 13 (Mục III.2, III.3.c): Phân loại tơ hoá học có nguồn gốc từ polymer tự nhiên, phân biệt với tơ tổng hợp.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 04, B13 (Mục III.2), tr. 59; SGK Hóa học 12 KNTT, Chương 04, B13 (Mục III.3.c), tr. 61
 
+### shared electron pair
+- **Tiếng Việt:** Cặp electron dùng chung
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A pair of electrons contributed and shared jointly by two atoms when forming a covalent bond. In covalent substances, the number of shared electron pairs formed by an atom with other atoms determines the valence of that element.
+- **Giải thích (VI):** Cặp electron do hai nguyên tử cùng đóng góp và sở hữu chung khi tạo lập liên kết cộng hoá trị. Trong chất cộng hoá trị, số cặp electron dùng chung của một nguyên tử với các nguyên tử khác biểu thị hoá trị của nguyên tố đó.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 6 (Mục III) và Bài 7 (Mục II.1): Mô tả cơ chế liên kết cộng hoá trị và xác định hoá trị của nguyên tố trong hợp chất cộng hoá trị.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục III), tr. 38; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục III.1), tr. 38; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục III.2), tr. 39
+
+### short period
+- **Tiếng Việt:** Chu kì nhỏ
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** Any of the first three periods (periods 1, 2, and 3) in the periodic table of elements, comprising period 1 with 2 elements and periods 2 and 3 with 8 elements each.
+- **Giải thích (VI):** Nhóm ba chu kì đầu tiên (chu kì 1, chu kì 2 và chu kì 3) trong bảng tuần hoàn các nguyên tố hoá học, gồm chu kì 1 có 2 nguyên tố và các chu kì 2, 3 mỗi chu kì có 8 nguyên tố.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 4 (Mục II.2): Phân biệt với các chu kì lớn (chu kì 4, 5, 6, 7) khi khảo sát cấu trúc bảng tuần hoàn.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.1), tr. 26; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.2), tr. 26; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.2), tr. 26, 27
+
 ### side-chain oxidation of alkylbenzenes
 - **Tiếng Việt:** Phản ứng oxi hoá nhóm alkyl của arene
 - **Chuyên ngành gốc:** Hóa học
@@ -4113,11 +4361,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Polysaccharide thiên nhiên có công thức phân tử (C₆H₁₀O₅)ₙ, cấu thành từ hai loại phân tử là amylose và amylopectin. Hợp chất này bị thuỷ phân hoàn toàn bởi acid hoặc enzyme tạo thành glucose và cho phản ứng màu xanh tím đặc trưng với iodine.
 - **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A carbohydrate substance that forms the main component of staple foods such as rice, wheat, corn, sweet potatoes, and cassava. During digestion, it is converted into sugar and subsequently into water and carbon dioxide while releasing primary energy for living organisms. / VI: Chất thuộc nhóm carbohydrate tạo nên thành phần chính của các loại lương thực như gạo, lúa mì, ngô, khoai, sắn. Khi tiêu hoá trong cơ thể, chất này chuyển hoá thành đường rồi tạo ra nước, khí carbon dioxide và giải phóng nguồn năng lượng chính cho sinh vật sống.
 - **Giải thích khác (SGK Sinh học 10):** EN: A polysaccharide composed of hundreds to thousands of glucose monomers with a generally sparsely branched structure, serving as the primary energy storage carbohydrate in plants. / VI: Loại đường đa được cấu tạo từ hàng trăm đến hàng nghìn đơn phân glucose với cấu trúc mạch nhìn chung ít phân nhánh, đóng vai trò là nguồn dự trữ năng lượng ở thực vật.
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: A characteristic storage organic compound in plants, formed by the linkage of glucose molecules produced during photosynthesis. The presence of starch in leaves can be detected using iodine solution, which turns it bluish-purple. / VI: Chất hữu cơ dự trữ đặc trưng ở thực vật, hình thành từ sự liên kết giữa các phân tử glucose tạo ra trong quá trình quang hợp. Sự có mặt của tinh bột trong lá cây có thể nhận biết bằng thuốc thử dung dịch iodine nhờ hiện tượng chuyển màu xanh tím.
 - **Bối cảnh:**
   - Hóa học lớp 12, Bài 6 (Mục I.1, II.1): Cấu tạo, tính chất hoá học và vai trò dinh dưỡng của polysaccharide dự trữ ở thực vật.
   - Khoa học tự nhiên lớp 6, Bài 15 (Mục II.1): Thành phần dinh dưỡng chủ yếu trong các loại ngũ cốc và củ giàu năng lượng.
   - Sinh học lớp 10, Bài 5 (Mục II.1.c) và Bài 6 (Mục I): Đường đa dự trữ năng lượng ở thực vật và đối tượng nhận biết trong thực hành.
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 02, B6, tr. 28; SGK Hóa học 12 KNTT, Chương 02, B6 (Mục I.1), tr. 28; SGK Hóa học 12 KNTT, Chương 02, B6 (Mục I.2), tr. 29; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục I), tr. 53; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.1), tr. 53; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.1.c), tr. 30; SGK Sinh học 10 KNTT, Chương 01, B6 (Mục I), tr. 41
+  - Khoa học tự nhiên lớp 7, Bài 22 (Mục I.2, I.3): sản phẩm hữu cơ dự trữ của quá trình quang hợp và đối tượng nhận biết trong thí nghiệm thực hành ở Bài 24.
+- **Nguồn:** SGK Hóa học 12 KNTT, Chương 02, B6, tr. 28; SGK Hóa học 12 KNTT, Chương 02, B6 (Mục I.1), tr. 28; SGK Hóa học 12 KNTT, Chương 02, B6 (Mục I.2), tr. 29; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục I), tr. 53; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục II.1), tr. 53; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.1.c), tr. 30; SGK Sinh học 10 KNTT, Chương 01, B6 (Mục I), tr. 41; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B22, tr. 101; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B22 (Mục I), tr. 101; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B22 (Mục I.1), tr. 101
 
 ### starch paste
 - **Tiếng Việt:** Hồ tinh bột
@@ -4547,6 +4797,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 12, Bài 13 (Mục V.2.c): điều chế và ứng dụng của keo dán tổng hợp trong công nghiệp gỗ và chất dẻo.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 04, B13 (Mục V.1), tr. 63; SGK Hóa học 12 KNTT, Chương 04, B13 (Mục V.2.a), tr. 63; SGK Hóa học 12 KNTT, Chương 04, B13 (Mục V.2.b), tr. 63
 
+### valence
+- **Tiếng Việt:** Hoá trị
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A number expressing the combining capacity of an atom of one element with atoms of other elements, denoted by Roman numerals with hydrogen assigned valence I and oxygen assigned valence II by convention. In covalent substances, the valence of an element equals the number of electron pairs its atom shares with other atoms.
+- **Giải thích (VI):** Con số biểu thị khả năng liên kết của nguyên tử nguyên tố này với nguyên tử nguyên tố khác, kí hiệu bằng chữ số La Mã và xác định theo quy ước hydrogen có hoá trị I, oxygen có hoá trị II. Trong chất cộng hoá trị, hoá trị của một nguyên tố bằng số cặp electron dùng chung của nguyên tử nguyên tố đó với các nguyên tử khác.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 7 (Mục II.1): Xác định khả năng liên kết của nguyên tố và lập công thức hoá học của hợp chất.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7, tr. 40; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục I), tr. 40; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục I), tr. 41
+
 ### valence electron
 - **Tiếng Việt:** Electron hoá trị
 - **Chuyên ngành gốc:** Hóa học
@@ -4557,6 +4815,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Hóa học lớp 10, Bài 5 (Mục II, III.3): Cơ sở xếp các nguyên tố vào cùng một cột (nhóm) trong bảng tuần hoàn.
   - Hóa học lớp 10, Bài 10 (Mục I): Dùng để biểu diễn kí hiệu chấm electron của nguyên tử và vận dụng quy tắc octet khi lập công thức phân tử.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 02, B5 (Mục I), tr. 31; SGK Hóa học 10 KNTT, Chương 02, B5 (Mục II), tr. 31; SGK Hóa học 10 KNTT, Chương 02, B5 (Mục III.1), tr. 31; SGK Hóa học 10 KNTT, Chương 03, B10, tr. 49; SGK Hóa học 10 KNTT, Chương 03, B10 (Mục I), tr. 49; SGK Hóa học 10 KNTT, Chương 03, B10 (Mục II), tr. 50
+
+### valence of a polyatomic group
+- **Tiếng Việt:** Hoá trị của nhóm nguyên tử
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A number expressing the combining capacity of an entire group of bonded atoms (such as OH, NO₃, SO₄, CO₃, or PO₄) with other atoms or groups, determined in the same manner as the valence of a single element.
+- **Giải thích (VI):** Con số biểu thị khả năng liên kết của cả một nhóm nguyên tử (như OH, NO₃, SO₄, CO₃, PO₄) với nguyên tử hay nhóm nguyên tử khác, xác định tương tự như hoá trị của một nguyên tố độc lập.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 7 (Mục II.2, III.1): Tra cứu Bảng 7.3 và vận dụng quy tắc hoá trị để lập công thức hoá học của acid, base và muối.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục II.2), tr. 43; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục III.1), tr. 43; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục III.1), tr. 43, 44
+
+### valence rule
+- **Tiếng Việt:** Quy tắc hoá trị
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** The rule relating subscripts and valences in a chemical formula: the product of the subscript and valence of one element (or polyatomic group) equals the product of the subscript and valence of the other element (or polyatomic group). This rule is primarily applied to inorganic compounds to determine valences or derive chemical formulas.
+- **Giải thích (VI):** Quy tắc xác định mối quan hệ giữa chỉ số và hoá trị trong công thức hoá học: tích của chỉ số và hoá trị của nguyên tố (hoặc nhóm nguyên tử) này bằng tích của chỉ số và hoá trị của nguyên tố (hoặc nhóm nguyên tử) kia. Quy tắc này chủ yếu áp dụng cho các hợp chất vô cơ để tính hoá trị hoặc lập công thức hoá học.
+- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 7 (Mục II.2, III.1): Vận dụng tính hoá trị chưa biết của nguyên tố và lập công thức hoá học của hợp chất vô cơ.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178, 179; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B7 (Mục II.2), tr. 42
 
 ### van der Waals interaction
 - **Tiếng Việt:** Tương tác van der Waals

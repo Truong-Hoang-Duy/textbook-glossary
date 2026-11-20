@@ -1,0 +1,1430 @@
+{
+  "unit": "toan_7",
+  "subject": "toan",
+  "subject_name": "Toán",
+  "grade": 7,
+  "files": [
+    {
+      "file": "SGK Toan 7 Tap 1.pdf",
+      "volume": 1,
+      "page_count": 121,
+      "printed_offset": 1
+    },
+    {
+      "file": "SGK Toan 7 Tap 2.pdf",
+      "volume": 2,
+      "page_count": 117,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan-tap-1",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Toan 7 Tap 1.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Toan 7 Tap 1.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-1",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục (Tập một)",
+      "file": null,
+      "source_file": "SGK Toan 7 Tap 1.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c01",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương I",
+      "number": 1,
+      "title": "Số hữu tỉ",
+      "dir": "Chuong-01-So-huu-ti",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Tập hợp các số hữu tỉ",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Tap-hop-cac-so-huu-ti.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            6,
+            10
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Cộng, trừ, nhân, chia số hữu tỉ",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Cong-tru-nhan-chia-so-huu-ti.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            11,
+            14
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c01-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 14)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C01-01-Luyen-tap-chung.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            15,
+            16
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Luỹ thừa với số mũ tự nhiên của một số hữu tỉ",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Luy-thua-voi-so-mu-tu-nhien-cua-mot-so-huu-ti.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            17,
+            20
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Thứ tự thực hiện các phép tính. Quy tắc chuyển vế",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Thu-tu-thuc-hien-cac-phep-tinh-Quy-tac-chuyen.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            21,
+            23
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c01-02",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 23)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C01-02-Luyen-tap-chung.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            24,
+            25
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương I",
+          "lesson_type": "on_tap",
+          "file": "BT-C01-Bai-tap-cuoi-chuong-I.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            26,
+            26
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c02",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương II",
+      "number": 2,
+      "title": "Số thực",
+      "dir": "Chuong-02-So-thuc",
+      "children": [
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Làm quen với số thập phân vô hạn tuần hoàn",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Lam-quen-voi-so-thap-phan-vo-han-tuan-hoan.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            27,
+            29
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Số vô tỉ. Căn bậc hai số học",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-So-vo-ti-Can-bac-hai-so-hoc.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            30,
+            33
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Tập hợp các số thực",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Tap-hop-cac-so-thuc.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            34,
+            37
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c02",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 37)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C02-Luyen-tap-chung.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            38,
+            39
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c02",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương II",
+          "lesson_type": "on_tap",
+          "file": "BT-C02-Bai-tap-cuoi-chuong-II.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            40,
+            40
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c03",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương III",
+      "number": 3,
+      "title": "Góc và đường thẳng song song",
+      "dir": "Chuong-03-Goc-va-duong-thang-song-song",
+      "children": [
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Góc ở vị trí đặc biệt. Tia phân giác của một góc",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Goc-o-vi-tri-dac-biet-Tia-phan-giac-cua-mot.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            41,
+            46
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Hai đường thẳng song song và dấu hiệu nhận biết",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Hai-duong-thang-song-song-va-dau-hieu-nhan.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            47,
+            50
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c03-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 50)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C03-01-Luyen-tap-chung.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            51,
+            51
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Tiên đề Euclid. Tính chất của hai đường thẳng song song",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Tien-de-Euclid-Tinh-chat-cua-hai-duong-thang.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            52,
+            55
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Định lí và chứng minh định lí",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Dinh-li-va-chung-minh-dinh-li.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            56,
+            58
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c03-02",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 58)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C03-02-Luyen-tap-chung.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            59,
+            59
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c03",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương III",
+          "lesson_type": "on_tap",
+          "file": "BT-C03-Bai-tap-cuoi-chuong-III.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            60,
+            60
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c04",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương IV",
+      "number": 4,
+      "title": "Tam giác bằng nhau",
+      "dir": "Chuong-04-Tam-giac-bang-nhau",
+      "children": [
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Tổng các góc trong một tam giác",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Tong-cac-goc-trong-mot-tam-giac.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            61,
+            63
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Hai tam giác bằng nhau. Trường hợp bằng nhau thứ nhất của tam giác",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Hai-tam-giac-bang-nhau-Truong-hop-bang-nhau.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            64,
+            68
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c04-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 68)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C04-01-Luyen-tap-chung.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            69,
+            70
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Trường hợp bằng nhau thứ hai và thứ ba của tam giác",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-Truong-hop-bang-nhau-thu-hai-va-thu-ba-cua.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            71,
+            74
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c04-02",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 74)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C04-02-Luyen-tap-chung.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            75,
+            75
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Các trường hợp bằng nhau của tam giác vuông",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Cac-truong-hop-bang-nhau-cua-tam-giac-vuong.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            76,
+            80
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Tam giác cân. Đường trung trực của đoạn thẳng",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Tam-giac-can-Duong-trung-truc-cua-doan-thang.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            81,
+            85
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c04-03",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 85)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C04-03-Luyen-tap-chung.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            86,
+            87
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c04",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương IV",
+          "lesson_type": "on_tap",
+          "file": "BT-C04-Bai-tap-cuoi-chuong-IV.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            88,
+            88
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c05",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương V",
+      "number": 5,
+      "title": "Thu thập và biểu diễn dữ liệu",
+      "dir": "Chuong-05-Thu-thap-va-bieu-dien-du-lieu",
+      "children": [
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Thu thập và phân loại dữ liệu",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Thu-thap-va-phan-loai-du-lieu.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            89,
+            93
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Biểu đồ hình quạt tròn",
+          "lesson_type": "ly_thuyet",
+          "file": "B18-Bieu-do-hinh-quat-tron.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            94,
+            100
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Biểu đồ đoạn thẳng",
+          "lesson_type": "ly_thuyet",
+          "file": "B19-Bieu-do-doan-thang.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            101,
+            106
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c05",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 106)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C05-Luyen-tap-chung.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            107,
+            108
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c05",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương V",
+          "lesson_type": "on_tap",
+          "file": "BT-C05-Bai-tap-cuoi-chuong-V.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            109,
+            110
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-01",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Vẽ hình đơn giản với phần mềm GeoGebra",
+          "lesson_type": "thuc_hanh",
+          "file": "HD01-Ve-hinh-don-gian-voi-phan-mem-GeoGebra.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            111,
+            115
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-02",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Dân số và cơ cấu dân số Việt Nam",
+          "lesson_type": "thuc_hanh",
+          "file": "HD02-Dan-so-va-co-cau-dan-so-Viet-Nam.md",
+          "source_file": "SGK Toan 7 Tap 1.pdf",
+          "pdf_pages": [
+            116,
+            118
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu thuật ngữ (Tập một)",
+      "file": null,
+      "source_file": "SGK Toan 7 Tap 1.pdf",
+      "pdf_pages": [
+        119,
+        119
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ (Tập một)",
+      "file": "Bang-giai-thich-thuat-ngu-Tap-1.md",
+      "source_file": "SGK Toan 7 Tap 1.pdf",
+      "pdf_pages": [
+        120,
+        120
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "huong-dan-tap-2",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách (Tập hai)",
+      "file": null,
+      "source_file": "SGK Toan 7 Tap 2.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-2",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục (Tập hai)",
+      "file": null,
+      "source_file": "SGK Toan 7 Tap 2.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c06",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VI",
+      "number": 6,
+      "title": "Tỉ lệ thức và đại lượng tỉ lệ",
+      "dir": "Chuong-06-Ti-le-thuc-va-dai-luong-ti-le",
+      "children": [
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Tỉ lệ thức",
+          "lesson_type": "ly_thuyet",
+          "file": "B20-Ti-le-thuc.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            5,
+            8
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Tính chất của dãy tỉ số bằng nhau",
+          "lesson_type": "ly_thuyet",
+          "file": "B21-Tinh-chat-cua-day-ti-so-bang-nhau.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            9,
+            10
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c06-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 10)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C06-01-Luyen-tap-chung.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            11,
+            11
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Đại lượng tỉ lệ thuận",
+          "lesson_type": "ly_thuyet",
+          "file": "B22-Dai-luong-ti-le-thuan.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            12,
+            15
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Đại lượng tỉ lệ nghịch",
+          "lesson_type": "ly_thuyet",
+          "file": "B23-Dai-luong-ti-le-nghich.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            16,
+            19
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c06-02",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 19)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C06-02-Luyen-tap-chung.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            20,
+            21
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c06",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương VI",
+          "lesson_type": "on_tap",
+          "file": "BT-C06-Bai-tap-cuoi-chuong-VI.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            22,
+            22
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c07",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VII",
+      "number": 7,
+      "title": "Biểu thức đại số và đa thức một biến",
+      "dir": "Chuong-07-Bieu-thuc-dai-so-va-da-thuc-mot-bien",
+      "children": [
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 24",
+          "number": 24,
+          "title": "Biểu thức đại số",
+          "lesson_type": "ly_thuyet",
+          "file": "B24-Bieu-thuc-dai-so.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            23,
+            25
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Đa thức một biến",
+          "lesson_type": "ly_thuyet",
+          "file": "B25-Da-thuc-mot-bien.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            26,
+            31
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b26",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 26",
+          "number": 26,
+          "title": "Phép cộng và phép trừ đa thức một biến",
+          "lesson_type": "ly_thuyet",
+          "file": "B26-Phep-cong-va-phep-tru-da-thuc-mot-bien.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            32,
+            34
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c07-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 34)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C07-01-Luyen-tap-chung.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            35,
+            36
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b27",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 27",
+          "number": 27,
+          "title": "Phép nhân đa thức một biến",
+          "lesson_type": "ly_thuyet",
+          "file": "B27-Phep-nhan-da-thuc-mot-bien.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            37,
+            39
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b28",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 28",
+          "number": 28,
+          "title": "Phép chia đa thức một biến",
+          "lesson_type": "ly_thuyet",
+          "file": "B28-Phep-chia-da-thuc-mot-bien.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            40,
+            44
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c07-02",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 44)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C07-02-Luyen-tap-chung.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            45,
+            46
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c07",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương VII",
+          "lesson_type": "on_tap",
+          "file": "BT-C07-Bai-tap-cuoi-chuong-VII.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            47,
+            47
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c08",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VIII",
+      "number": 8,
+      "title": "Làm quen với biến cố và xác suất của biến cố",
+      "dir": "Chuong-08-Lam-quen-voi-bien-co-va-xac-suat-cua",
+      "children": [
+        {
+          "id": "b29",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 29",
+          "number": 29,
+          "title": "Làm quen với biến cố",
+          "lesson_type": "ly_thuyet",
+          "file": "B29-Lam-quen-voi-bien-co.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            48,
+            51
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b30",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 30",
+          "number": 30,
+          "title": "Làm quen với xác suất của biến cố",
+          "lesson_type": "ly_thuyet",
+          "file": "B30-Lam-quen-voi-xac-suat-cua-bien-co.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            52,
+            56
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c08",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 56)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C08-Luyen-tap-chung.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            57,
+            58
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c08",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương VIII",
+          "lesson_type": "on_tap",
+          "file": "BT-C08-Bai-tap-cuoi-chuong-VIII.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            59,
+            59
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c09",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương IX",
+      "number": 9,
+      "title": "Quan hệ giữa các yếu tố trong một tam giác",
+      "dir": "Chuong-09-Quan-he-giua-cac-yeu-to-trong-mot-tam",
+      "children": [
+        {
+          "id": "b31",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 31",
+          "number": 31,
+          "title": "Quan hệ giữa góc và cạnh đối diện trong một tam giác",
+          "lesson_type": "ly_thuyet",
+          "file": "B31-Quan-he-giua-goc-va-canh-doi-dien-trong-mot.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            60,
+            63
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b32",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 32",
+          "number": 32,
+          "title": "Quan hệ giữa đường vuông góc và đường xiên",
+          "lesson_type": "ly_thuyet",
+          "file": "B32-Quan-he-giua-duong-vuong-goc-va-duong-xien.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            64,
+            66
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b33",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 33",
+          "number": 33,
+          "title": "Quan hệ giữa ba cạnh của một tam giác",
+          "lesson_type": "ly_thuyet",
+          "file": "B33-Quan-he-giua-ba-canh-cua-mot-tam-giac.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            67,
+            70
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c09-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 70)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C09-01-Luyen-tap-chung.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            71,
+            72
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b34",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 34",
+          "number": 34,
+          "title": "Sự đồng quy của ba đường trung tuyến, ba đường phân giác trong một tam giác",
+          "lesson_type": "ly_thuyet",
+          "file": "B34-Su-dong-quy-cua-ba-duong-trung-tuyen-ba-duong.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            73,
+            77
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b35",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 35",
+          "number": 35,
+          "title": "Sự đồng quy của ba đường trung trực, ba đường cao trong một tam giác",
+          "lesson_type": "ly_thuyet",
+          "file": "B35-Su-dong-quy-cua-ba-duong-trung-truc-ba-duong.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            78,
+            82
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c09-02",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 82)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C09-02-Luyen-tap-chung.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            83,
+            84
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c09",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương IX",
+          "lesson_type": "on_tap",
+          "file": "BT-C09-Bai-tap-cuoi-chuong-IX.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            85,
+            85
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c10",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương X",
+      "number": 10,
+      "title": "Một số hình khối trong thực tiễn",
+      "dir": "Chuong-10-Mot-so-hinh-khoi-trong-thuc-tien",
+      "children": [
+        {
+          "id": "b36",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 36",
+          "number": 36,
+          "title": "Hình hộp chữ nhật và hình lập phương",
+          "lesson_type": "ly_thuyet",
+          "file": "B36-Hinh-hop-chu-nhat-va-hinh-lap-phuong.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            86,
+            92
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "lt-c10-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập (trang 92)",
+          "lesson_type": "on_tap",
+          "file": "LT-C10-01-Luyen-tap.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            93,
+            94
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b37",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 37",
+          "number": 37,
+          "title": "Hình lăng trụ đứng tam giác và hình lăng trụ đứng tứ giác",
+          "lesson_type": "ly_thuyet",
+          "file": "B37-Hinh-lang-tru-dung-tam-giac-va-hinh-lang-tru.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            95,
+            100
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "lt-c10-02",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập (trang 100)",
+          "lesson_type": "on_tap",
+          "file": "LT-C10-02-Luyen-tap.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            101,
+            102
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c10",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương X",
+          "lesson_type": "on_tap",
+          "file": "BT-C10-Bai-tap-cuoi-chuong-X.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            103,
+            103
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-03",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Đại lượng tỉ lệ trong đời sống",
+          "lesson_type": "thuc_hanh",
+          "file": "HD03-Dai-luong-ti-le-trong-doi-song.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            104,
+            106
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-04",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Vòng quay may mắn",
+          "lesson_type": "thuc_hanh",
+          "file": "HD04-Vong-quay-may-man.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            107,
+            108
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-05",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Hộp quà và chân đế lịch để bàn của em",
+          "lesson_type": "thuc_hanh",
+          "file": "HD05-Hop-qua-va-chan-de-lich-de-ban-cua-em.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            109,
+            110
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "on-tap-cuoi-nam",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập ôn tập cuối năm",
+          "lesson_type": "on_tap",
+          "file": "On-tap-cuoi-nam.md",
+          "source_file": "SGK Toan 7 Tap 2.pdf",
+          "pdf_pages": [
+            111,
+            114
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu thuật ngữ (Tập hai)",
+      "file": null,
+      "source_file": "SGK Toan 7 Tap 2.pdf",
+      "pdf_pages": [
+        115,
+        115
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ (Tập hai)",
+      "file": "Bang-giai-thich-thuat-ngu-Tap-2.md",
+      "source_file": "SGK Toan 7 Tap 2.pdf",
+      "pdf_pages": [
+        116,
+        116
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Toán 7 – KNTT gồm 2 tập: Tập một (121 trang PDF, Chương I–V, Bài 1–19, 8 Luyện tập chung, 5 Bài tập cuối chương, 2 Hoạt động thực hành trải nghiệm và Bảng giải thích thuật ngữ ở trang in 119) và Tập hai (117 trang PDF, Chương VI–X, Bài 20–37, 7 Luyện tập chung + 2 Luyện tập ở Chương X, 5 Bài tập cuối chương, 3 Hoạt động thực hành trải nghiệm, Bài tập ôn tập cuối năm và Bảng giải thích thuật ngữ ở trang in 115), độ lệch cố định printed_offset = 1 xuyên suốt cả hai tập.",
+    "Hai file PDF gốc trong sgk/khoi_7/toan_7/ ban đầu mang tên SGV Toan 7 Tap 1/2.pdf do gõ nhầm tiền tố khi tải nhưng nội dung bên trong là 100% SGK Toán 7 Tập một và Tập hai – KNTT; đã tạo hardlink SGK Toan 7 Tap 1/2.pdf để khớp chuẩn schema."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-20",
+      "scope": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "c07",
+        "c08",
+        "c09",
+        "c10"
+      ],
+      "terms": 210,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ 10 Chương, 71 bài học/luyện tập/hoạt động thực hành và 2 Bảng giải thích thuật ngữ (210 thuật ngữ, 406 hình minh hoạ): lấy mẫu phân tầng 30 mục (10 mục in_source: Góc xen giữa hai cạnh, Hai đại lượng tỉ lệ nghịch, Dữ liệu định tính và dữ liệu định lượng, Tam giác vuông, Hai đường thẳng vuông góc, Tổng của hai đa thức, Tập hợp các số thực, Nghiệm của đa thức một biến, Pound, Góc ngoài của tam giác; 10 mục [mô tả]: Diện tích xung quanh của hình lập phương, Tam thức bậc hai, Hình lăng trụ đứng tứ giác, Hình lăng trụ đứng tam giác, Tính chất của đường trung trực, Tính chất của hai góc đối đỉnh, Chia đơn thức cho đơn thức, Tính chất của hai đại lượng tỉ lệ thuận, Độ dốc của biểu đồ đoạn thẳng, Diện tích xung quanh của hình lăng trụ đứng; và 10 hình minh hoạ: H7-toan-b33-03, bt-c09-04, bt-c08-01, ltc-c04-02-02, b08-03, b05-03, b08-17, b37-05, b16-10, b32-06). Toàn bộ 30/30 mục mẫu khớp 100% với trang sách gốc (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-20: Hoàn thành 100% toan_7 từ Cổng 0 đến Cổng 4 (10 Chương, 71 bài học, 2 Bảng giải thích thuật ngữ, 406 hình minh hoạ, 10 từ điển với 210 thuật ngữ, 0 lỗi)."
+}

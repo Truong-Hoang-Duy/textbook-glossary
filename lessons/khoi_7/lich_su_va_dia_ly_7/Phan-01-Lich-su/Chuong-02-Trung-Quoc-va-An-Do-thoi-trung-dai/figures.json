@@ -1,0 +1,50 @@
+{
+  "H7-lich_su_va_dia_ly-ls-b04-01": {
+    "pdf_page": 25,
+    "bbox": [55, 438, 541, 774]
+  },
+  "H7-lich_su_va_dia_ly-ls-b04-02": {
+    "pdf_page": 27,
+    "bbox": [293, 223, 471, 395]
+  },
+  "H7-lich_su_va_dia_ly-ls-b04-03": {
+    "pdf_page": 27,
+    "bbox": [125, 514, 463, 779]
+  },
+  "H7-lich_su_va_dia_ly-ls-b04-04": {
+    "pdf_page": 28,
+    "bbox": [84, 309, 368, 500]
+  },
+  "H7-lich_su_va_dia_ly-ls-b04-05": {
+    "pdf_page": 29,
+    "bbox": [223, 218, 541, 447]
+  },
+  "H7-lich_su_va_dia_ly-ls-b05-01": {
+    "pdf_page": 30,
+    "bbox": [54, 437, 541, 775]
+  },
+  "H7-lich_su_va_dia_ly-ls-b05-02": {
+    "pdf_page": 31,
+    "bbox": [392, 110, 595, 366],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh Hình 2 tràn sát mép phải trang sách"
+  },
+  "H7-lich_su_va_dia_ly-ls-b05-03": {
+    "pdf_page": 32,
+    "bbox": [391, 224, 542, 449]
+  },
+  "H7-lich_su_va_dia_ly-ls-b05-04": {
+    "pdf_page": 32,
+    "bbox": [55, 456, 534, 736]
+  },
+  "H7-lich_su_va_dia_ly-ls-b05-05": {
+    "pdf_page": 33,
+    "bbox": [54, 575, 542, 777]
+  },
+  "H7-lich_su_va_dia_ly-ls-b05-06": {
+    "pdf_page": 34,
+    "bbox": [0, 98, 374, 370],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh Hình 5 tràn sát mép trái trang sách"
+  }
+}

@@ -1,0 +1,3758 @@
+{
+  "meta": {
+    "schema_version": "2.3",
+    "unit": "tin_hoc_7",
+    "subject": "tin_hoc",
+    "profile": "tin_hoc",
+    "subject_name": "Tin học",
+    "grade": 7,
+    "generated_at": "2026-11-20",
+    "counts": {
+      "lessons": 16,
+      "terms": 111,
+      "terms_described": 44,
+      "terms_out_of_source": 0,
+      "open_notes": 0
+    }
+  },
+  "source": {
+    "book_type": "sgk",
+    "series": "Kết nối tri thức với cuộc sống",
+    "publisher": "NXB Giáo dục Việt Nam",
+    "files": [
+      {
+        "file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+        "volume": null,
+        "page_count": 86,
+        "printed_offset": 1
+      }
+    ]
+  },
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "printed_pages": [
+        2,
+        2
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "printed_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "printed_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "cd01",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 1",
+      "number": 1,
+      "title": "Máy tính và cộng đồng",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Thiết bị vào – ra",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-01-May-tinh-va-cong-dong/B01-Thiet-bi-vao-ra.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            6,
+            10
+          ],
+          "printed_pages": [
+            5,
+            9
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này em sẽ:",
+            "items": [
+              "Biết và nhận ra được các thiết bị vào – ra có nhiều loại, hình dạng khác nhau.",
+              "Biết được chức năng của các thiết bị vào – ra trong thu nhận, lưu trữ, xử lí và truyền thông tin.",
+              "Thực hiện đúng các thao tác với các thiết bị thông dụng của máy tính.",
+              "Nêu được ví dụ cụ thể về những thao tác không đúng cách sẽ gây ra lỗi cho thiết bị và hệ thống xử lí thông tin."
+            ],
+            "pdf_page": 6
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-tin_hoc-b01-01",
+              "file": "Chu-de-01-May-tinh-va-cong-dong/img/H7-tin_hoc-b01-01.png",
+              "caption": "Hình 1.1. Micro và loa",
+              "pdf_page": 6
+            },
+            {
+              "id": "H7-tin_hoc-b01-02",
+              "file": "Chu-de-01-May-tinh-va-cong-dong/img/H7-tin_hoc-b01-02.png",
+              "caption": "Hình 1.2. Thiết bị vào – ra",
+              "pdf_page": 7
+            },
+            {
+              "id": "H7-tin_hoc-b01-03",
+              "file": "Chu-de-01-May-tinh-va-cong-dong/img/H7-tin_hoc-b01-03.png",
+              "caption": "Hình 1.3. Sự đa dạng của thiết bị vào – ra",
+              "pdf_page": 7
+            },
+            {
+              "id": "H7-tin_hoc-b01-04",
+              "file": "Chu-de-01-May-tinh-va-cong-dong/img/H7-tin_hoc-b01-04.png",
+              "caption": "Hình 1.4a. Loa thông minh",
+              "pdf_page": 8
+            },
+            {
+              "id": "H7-tin_hoc-b01-05",
+              "file": "Chu-de-01-May-tinh-va-cong-dong/img/H7-tin_hoc-b01-05.png",
+              "caption": "Hình 1.4b. Máy ghi hình kĩ thuật số",
+              "pdf_page": 8
+            },
+            {
+              "id": "H7-tin_hoc-b01-06",
+              "file": "Chu-de-01-May-tinh-va-cong-dong/img/H7-tin_hoc-b01-06.png",
+              "caption": "Hình 1.5. Cổng kết nối của máy tính và các đầu nối thiết bị",
+              "pdf_page": 9
+            }
+          ]
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Phần mềm máy tính",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-01-May-tinh-va-cong-dong/B02-Phan-mem-may-tinh.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            11,
+            13
+          ],
+          "printed_pages": [
+            10,
+            12
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này em sẽ:",
+            "items": [
+              "Giải thích được sơ lược chức năng điều khiển và quản lí của hệ điều hành.",
+              "Phân biệt được hệ điều hành với phần mềm ứng dụng.",
+              "Nêu được tên một số phần mềm ứng dụng đã sử dụng.",
+              "Giải thích được phần mở rộng của tên tệp, cho biết tệp thuộc loại gì, nêu được ví dụ minh hoạ."
+            ],
+            "pdf_page": 11
+          },
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Quản lí dữ liệu trong máy tính",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-01-May-tinh-va-cong-dong/B03-Quan-li-du-lieu-trong-may-tinh.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            14,
+            18
+          ],
+          "printed_pages": [
+            13,
+            17
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này em sẽ:",
+            "items": [
+              "Thao tác thành thạo với tệp và thư mục: tạo, sao chép, di chuyển, đổi tên, xoá tệp và thư mục.",
+              "Biết được tệp chương trình cũng là dữ liệu, có thể được lưu trữ trong máy tính.",
+              "Nêu được ví dụ về biện pháp bảo vệ dữ liệu như sao lưu, phòng chống virus,..."
+            ],
+            "pdf_page": 14
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-tin_hoc-b03-01",
+              "file": "Chu-de-01-May-tinh-va-cong-dong/img/H7-tin_hoc-b03-01.png",
+              "caption": "Hình 3.1. Thư mục và tệp",
+              "pdf_page": 14
+            },
+            {
+              "id": "H7-tin_hoc-b03-02",
+              "file": "Chu-de-01-May-tinh-va-cong-dong/img/H7-tin_hoc-b03-02.png",
+              "caption": "Hình 3.2. Biểu tượng của một số phần mềm chống virus",
+              "pdf_page": 16
+            },
+            {
+              "id": "H7-tin_hoc-b03-03",
+              "file": "Chu-de-01-May-tinh-va-cong-dong/img/H7-tin_hoc-b03-03.png",
+              "caption": "Hình 3.3. Sơ đồ cây thư mục",
+              "pdf_page": 17
+            },
+            {
+              "id": "H7-tin_hoc-b03-04",
+              "file": "Chu-de-01-May-tinh-va-cong-dong/img/H7-tin_hoc-b03-04.png",
+              "caption": "Hình 3.4. Đổi tên thư mục",
+              "pdf_page": 18
+            },
+            {
+              "id": "H7-tin_hoc-b03-05",
+              "file": "Chu-de-01-May-tinh-va-cong-dong/img/H7-tin_hoc-b03-05.png",
+              "caption": "Hình 3.5. Các thư mục được tạo",
+              "pdf_page": 18
+            },
+            {
+              "id": "H7-tin_hoc-b03-06",
+              "file": "Chu-de-01-May-tinh-va-cong-dong/img/H7-tin_hoc-b03-06.png",
+              "caption": "Hình 3.6. Các lệnh đổi tên, sao chép, xoá,... thư mục",
+              "pdf_page": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd02",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 2",
+      "number": 2,
+      "title": "Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
+      "children": [
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Mạng xã hội và một số kênh trao đổi thông tin trên Internet",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-02-To-chuc-luu-tru-tim-kiem-va-trao-doi/B04-Mang-xa-hoi-va-mot-so-kenh-trao-doi-thong-tin.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            19,
+            23
+          ],
+          "printed_pages": [
+            18,
+            22
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này em sẽ:",
+            "items": [
+              "Nêu được tên một kênh trao đổi thông tin thông dụng trên Internet và loại thông tin trao đổi trên kênh đó.",
+              "Nêu được một số chức năng cơ bản của mạng xã hội. Nhận biết được một số website là mạng xã hội.",
+              "Sử dụng được một số chức năng cơ bản của một mạng xã hội để giao lưu và chia sẻ thông tin.",
+              "Nêu được ví dụ cụ thể về hậu quả của việc sử dụng thông tin vào mục đích sai trái."
+            ],
+            "pdf_page": 19
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-tin_hoc-b04-01",
+              "file": "Chu-de-02-To-chuc-luu-tru-tim-kiem-va-trao-doi/img/H7-tin_hoc-b04-01.png",
+              "caption": "Hình 4.1. Tạo tài khoản",
+              "pdf_page": 21
+            },
+            {
+              "id": "H7-tin_hoc-b04-02",
+              "file": "Chu-de-02-To-chuc-luu-tru-tim-kiem-va-trao-doi/img/H7-tin_hoc-b04-02.png",
+              "caption": "Hình 4.2. Trang Facebook cá nhân",
+              "pdf_page": 22
+            },
+            {
+              "id": "H7-tin_hoc-b04-03",
+              "file": "Chu-de-02-To-chuc-luu-tru-tim-kiem-va-trao-doi/img/H7-tin_hoc-b04-03.png",
+              "caption": "Hình 4.3. Nhập nội dung chia sẻ",
+              "pdf_page": 22
+            },
+            {
+              "id": "H7-tin_hoc-b04-04",
+              "file": "Chu-de-02-To-chuc-luu-tru-tim-kiem-va-trao-doi/img/H7-tin_hoc-b04-04.png",
+              "caption": "Hình 4.4. Tìm bạn trên Facebook",
+              "pdf_page": 22
+            },
+            {
+              "id": "H7-tin_hoc-b04-05",
+              "file": "Chu-de-02-To-chuc-luu-tru-tim-kiem-va-trao-doi/img/H7-tin_hoc-b04-05.png",
+              "caption": "Hình 4.5. Kết quả tìm kiếm",
+              "pdf_page": 23
+            },
+            {
+              "id": "H7-tin_hoc-b04-06",
+              "file": "Chu-de-02-To-chuc-luu-tru-tim-kiem-va-trao-doi/img/H7-tin_hoc-b04-06.png",
+              "caption": "Hình 4.6. Gửi yêu cầu kết bạn",
+              "pdf_page": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd03",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 3",
+      "number": 3,
+      "title": "Đạo đức, pháp luật và văn hoá trong môi trường số",
+      "children": [
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Ứng xử trên mạng",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-03-Dao-duc-phap-luat-va-van-hoa-trong-moi/B05-Ung-xu-tren-mang.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            24,
+            28
+          ],
+          "printed_pages": [
+            23,
+            27
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này em sẽ:",
+            "items": [
+              "Thực hiện được giao tiếp qua mạng theo đúng quy tắc và bằng ngôn ngữ lịch sự, thể hiện ứng xử có văn hoá.",
+              "Nêu được ví dụ truy cập không hợp lệ vào các nguồn thông tin; biết cách ứng xử hợp lí khi gặp những thông tin trên mạng có nội dung xấu, không phù hợp lứa tuổi.",
+              "Biết được tác hại của bệnh nghiện Internet, từ đó có ý thức phòng tránh.",
+              "Biết nhờ người lớn giúp đỡ, tư vấn khi cần thiết trong quá trình ứng xử trên mạng."
+            ],
+            "pdf_page": 24
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-tin_hoc-b05-01",
+              "file": "Chu-de-03-Dao-duc-phap-luat-va-van-hoa-trong-moi/img/H7-tin_hoc-b05-01.png",
+              "caption": "Hình 5.1. Cần tránh xa những trang thông tin có nội dung không phù hợp",
+              "pdf_page": 26
+            },
+            {
+              "id": "H7-tin_hoc-b05-02",
+              "file": "Chu-de-03-Dao-duc-phap-luat-va-van-hoa-trong-moi/img/H7-tin_hoc-b05-02.png",
+              "caption": "Hình 5.2. Nhắn tin nói xấu người khác là một hình thức bắt nạt trên mạng",
+              "pdf_page": 27
+            },
+            {
+              "id": "H7-tin_hoc-b05-03",
+              "file": "Chu-de-03-Dao-duc-phap-luat-va-van-hoa-trong-moi/img/H7-tin_hoc-b05-03.png",
+              "caption": "Hình 5.3. Người nghiện trò chơi trực tuyến sẽ bị tàn phá sức khoẻ thể chất và tinh thần",
+              "pdf_page": 27
+            },
+            {
+              "id": "H7-tin_hoc-b05-04",
+              "file": "Chu-de-03-Dao-duc-phap-luat-va-van-hoa-trong-moi/img/H7-tin_hoc-b05-04.png",
+              "caption": "(sách không đánh số, hình minh hoạ cái cây ở Hoạt động 5)",
+              "pdf_page": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd04",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 4",
+      "number": 4,
+      "title": "Ứng dụng tin học",
+      "children": [
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Làm quen với phần mềm bảng tính",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-04-Ung-dung-tin-hoc/B06-Lam-quen-voi-phan-mem-bang-tinh.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            29,
+            34
+          ],
+          "printed_pages": [
+            28,
+            33
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này em sẽ:",
+            "items": [
+              "Nêu được một số chức năng cơ bản của phần mềm bảng tính.",
+              "Thực hiện được một số thao tác đơn giản: chọn phông chữ, căn chỉnh dữ liệu trong ô tính, thay đổi độ rộng cột."
+            ],
+            "pdf_page": 29
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-tin_hoc-b06-01",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b06-01.png",
+              "caption": "Hình 6.1. Giao diện phần mềm bảng tính điện tử",
+              "pdf_page": 30
+            },
+            {
+              "id": "H7-tin_hoc-b06-02",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b06-02.png",
+              "caption": "Hình 6.2. Ô và địa chỉ ô",
+              "pdf_page": 31
+            },
+            {
+              "id": "H7-tin_hoc-b06-03",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b06-03.png",
+              "caption": "Hình 6.3. Vùng dữ liệu",
+              "pdf_page": 31
+            },
+            {
+              "id": "H7-tin_hoc-b06-04",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b06-04.png",
+              "caption": "Hình 6.4. Cách nhập dữ liệu",
+              "pdf_page": 32
+            },
+            {
+              "id": "H7-tin_hoc-b06-05",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b06-05.png",
+              "caption": "Hình 6.5. Hiển thị dữ liệu",
+              "pdf_page": 32
+            },
+            {
+              "id": "H7-tin_hoc-b06-06",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b06-06.png",
+              "caption": "Hình 6.6. Các lệnh định dạng dữ liệu",
+              "pdf_page": 33
+            },
+            {
+              "id": "H7-tin_hoc-b06-07",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b06-07.png",
+              "caption": "Hình 6.7. Bảng dữ liệu khảo sát cho dự án Trường học xanh",
+              "pdf_page": 33
+            },
+            {
+              "id": "H7-tin_hoc-b06-08",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b06-08.png",
+              "caption": "Hình 6.8. Bảng dữ liệu sau khi hoàn thành",
+              "pdf_page": 34
+            }
+          ]
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Tính toán tự động trên bảng tính",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-04-Ung-dung-tin-hoc/B07-Tinh-toan-tu-dong-tren-bang-tinh.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            35,
+            39
+          ],
+          "printed_pages": [
+            34,
+            38
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này em sẽ:",
+            "items": [
+              "Nhận biết được một số kiểu dữ liệu trên bảng tính.",
+              "Sử dụng được công thức và dùng được địa chỉ trong công thức, tạo được bảng tính đơn giản có số liệu tính toán bằng công thức.",
+              "Giải thích được việc đưa các công thức vào bảng tính là một cách điều khiển tính toán tự động trên dữ liệu."
+            ],
+            "pdf_page": 35
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-tin_hoc-b07-01",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b07-01.png",
+              "caption": "Hình 7.1. Dữ liệu văn bản, số, thời gian",
+              "pdf_page": 35
+            },
+            {
+              "id": "H7-tin_hoc-b07-02",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b07-02.png",
+              "caption": "Hình 7.2. Dữ liệu là biểu thức toán học bắt đầu bằng dấu “=”",
+              "pdf_page": 35
+            },
+            {
+              "id": "H7-tin_hoc-b07-03",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b07-03.png",
+              "caption": "Hình 7.3. Công thức (cách 1)",
+              "pdf_page": 36
+            },
+            {
+              "id": "H7-tin_hoc-b07-04",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b07-04.png",
+              "caption": "Hình 7.4. Công thức (cách 2)",
+              "pdf_page": 36
+            },
+            {
+              "id": "H7-tin_hoc-b07-05",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b07-05.png",
+              "caption": "Hình 7.5. Nhập công thức tính nửa chu vi tam giác ABC vào ô C6",
+              "pdf_page": 37
+            },
+            {
+              "id": "H7-tin_hoc-b07-06",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b07-06.png",
+              "caption": "Hình 7.6. Nhập công thức tính chu vi và diện tích hình tròn vào các ô C5, C6",
+              "pdf_page": 37
+            },
+            {
+              "id": "H7-tin_hoc-b07-07",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b07-07.png",
+              "caption": "Hình 7.7. Nhập công thức tại ô C4",
+              "pdf_page": 37
+            },
+            {
+              "id": "H7-tin_hoc-b07-08",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b07-08.png",
+              "caption": "Hình 7.8. Sao chép công thức xuống các ô E5, E6",
+              "pdf_page": 37
+            },
+            {
+              "id": "H7-tin_hoc-b07-09",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b07-09.png",
+              "caption": "Hình 7.9. Trang tính 2. Dự kiến số lượng cây",
+              "pdf_page": 38
+            },
+            {
+              "id": "H7-tin_hoc-b07-10",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b07-10.png",
+              "caption": "Hình 7.10. Trang tính 3. Tìm hiểu giống cây",
+              "pdf_page": 39
+            },
+            {
+              "id": "H7-tin_hoc-b07-11",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b07-11.png",
+              "caption": "Hình 7.11. Dữ liệu diện tính rừng",
+              "pdf_page": 39
+            }
+          ]
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Công cụ hỗ trợ tính toán",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-04-Ung-dung-tin-hoc/B08-Cong-cu-ho-tro-tinh-toan.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            40,
+            45
+          ],
+          "printed_pages": [
+            39,
+            44
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này em sẽ:",
+            "items": [
+              "Thực hiện được một số phép toán thông dụng, sử dụng được một số hàm đơn giản như MAX, MIN, SUM, AVERAGE, COUNT,..."
+            ],
+            "pdf_page": 40
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-tin_hoc-b08-01",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b08-01.png",
+              "caption": "Hình 8.1. Hàm SUM",
+              "pdf_page": 40
+            },
+            {
+              "id": "H7-tin_hoc-b08-02",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b08-02.png",
+              "caption": "Hình 8.2. Hàm AVERAGE",
+              "pdf_page": 40
+            },
+            {
+              "id": "H7-tin_hoc-b08-03",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b08-03.png",
+              "caption": "Hình 8.3. Chuẩn bị nhập hàm",
+              "pdf_page": 41
+            },
+            {
+              "id": "H7-tin_hoc-b08-04",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b08-04.png",
+              "caption": "Hình 8.4. Vị trí nhập hàm",
+              "pdf_page": 41
+            },
+            {
+              "id": "H7-tin_hoc-b08-05",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b08-05.png",
+              "caption": "Hình 8.5. Các yêu cầu cần tính toán",
+              "pdf_page": 42
+            },
+            {
+              "id": "H7-tin_hoc-b08-06",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b08-06.png",
+              "caption": "Hình 8.6. Trang tính 4",
+              "pdf_page": 44
+            },
+            {
+              "id": "H7-tin_hoc-b08-07",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b08-07.png",
+              "caption": "Hình 8.7. Kết quả trang tính 4",
+              "pdf_page": 45
+            }
+          ]
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Trình bày bảng tính",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-04-Ung-dung-tin-hoc/B09-Trinh-bay-bang-tinh.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            46,
+            51
+          ],
+          "printed_pages": [
+            45,
+            50
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này em sẽ:",
+            "items": [
+              "Biết và thực hiện được một số chức năng định dạng dữ liệu số và trình bày bảng tính.",
+              "Áp dụng được một số hàm tính toán dữ liệu như SUM, COUNT, AVERAGE, MIN, MAX vào dự án Trường học xanh."
+            ],
+            "pdf_page": 46
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-tin_hoc-b09-01",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b09-01.png",
+              "caption": "Hình 9.1. Một bảng dữ liệu của dự án Trường học xanh",
+              "pdf_page": 46
+            },
+            {
+              "id": "H7-tin_hoc-b09-02",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b09-02.png",
+              "caption": "Hình 9.2. Cửa sổ Format Cells",
+              "pdf_page": 47
+            },
+            {
+              "id": "H7-tin_hoc-b09-03",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b09-03.png",
+              "caption": "Hình 9.3. Cột E được tính theo công thức = Số cây đã trồng/Số cây dự kiến — Hình 9.4. Sau khi định dạng kiểu dữ liệu phần trăm (percentage)",
+              "pdf_page": 47
+            },
+            {
+              "id": "H7-tin_hoc-b09-04",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b09-04.png",
+              "caption": "Hình 9.5. Cách thiết lập hiển thị ngày tháng của Việt Nam",
+              "pdf_page": 48
+            },
+            {
+              "id": "H7-tin_hoc-b09-05",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b09-05.png",
+              "caption": "Hình 9.6. Dữ liệu ngày tháng với các phép toán cộng, trừ",
+              "pdf_page": 48
+            },
+            {
+              "id": "H7-tin_hoc-b09-06",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b09-06.png",
+              "caption": "Hình 9.7. Ẩn hàng và cột",
+              "pdf_page": 49
+            },
+            {
+              "id": "H7-tin_hoc-b09-07",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b09-07.png",
+              "caption": "Hình 9.8. Trước khi gộp ô",
+              "pdf_page": 49
+            },
+            {
+              "id": "H7-tin_hoc-b09-08",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b09-08.png",
+              "caption": "Hình 9.9. Sau khi gộp ô",
+              "pdf_page": 49
+            },
+            {
+              "id": "H7-tin_hoc-b09-09",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b09-09.png",
+              "caption": "Hình 9.10. Chọn các ô của vùng dữ liệu A2:B3 — Hình 9.11.Sau khi gộp, ô đã gộp có địa chỉ là A2",
+              "pdf_page": 49
+            },
+            {
+              "id": "H7-tin_hoc-b09-10",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b09-10.png",
+              "caption": "Hình 9.12. Dữ liệu và tiến độ thực tế",
+              "pdf_page": 50
+            },
+            {
+              "id": "H7-tin_hoc-b09-11",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b09-11.png",
+              "caption": "Hình 9.13. Trang tính 5. Tổng kết",
+              "pdf_page": 51
+            }
+          ]
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Hoàn thiện bảng tính",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-04-Ung-dung-tin-hoc/B10-Hoan-thien-bang-tinh.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            52,
+            55
+          ],
+          "printed_pages": [
+            51,
+            54
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này em sẽ:",
+            "items": [
+              "Thực hiện được các thao tác hoàn thiện bảng tính.",
+              "Thực hành hoàn thiện dự án.",
+              "Sử dụng được bảng tính điện tử để giải quyết một vài công việc cụ thể đơn giản."
+            ],
+            "pdf_page": 52
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-tin_hoc-b10-01",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b10-01.png",
+              "caption": "Hình 10.1a. Dữ liệu trong phần mềm bảng tính",
+              "pdf_page": 52
+            },
+            {
+              "id": "H7-tin_hoc-b10-02",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b10-02.png",
+              "caption": "Hình 10.1b. Dữ liệu khi in ra",
+              "pdf_page": 52
+            },
+            {
+              "id": "H7-tin_hoc-b10-03",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b10-03.png",
+              "caption": "Hình 10.2. Tạo mới trang tính",
+              "pdf_page": 52
+            },
+            {
+              "id": "H7-tin_hoc-b10-04",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b10-04.png",
+              "caption": "Hình 10.3. Cửa sổ Move or Copy",
+              "pdf_page": 53
+            },
+            {
+              "id": "H7-tin_hoc-b10-05",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b10-05.png",
+              "caption": "Hình 10.4. Cửa sổ Format Cells",
+              "pdf_page": 53
+            },
+            {
+              "id": "H7-tin_hoc-b10-06",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b10-06.png",
+              "caption": "Hình 10.5. Nhập các thông số để in và xem kết quả trước khi in",
+              "pdf_page": 54
+            },
+            {
+              "id": "H7-tin_hoc-b10-07",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b10-07.png",
+              "caption": "Hình 10.6. Hoàn thiện dữ liệu dự án Trường học xanh",
+              "pdf_page": 55
+            }
+          ]
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Tạo bài trình chiếu",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-04-Ung-dung-tin-hoc/B11-Tao-bai-trinh-chieu.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            56,
+            61
+          ],
+          "printed_pages": [
+            55,
+            60
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này em sẽ:",
+            "items": [
+              "Nêu được một số chức năng cơ bản của phần mềm trình chiếu.",
+              "Tạo được một bài báo cáo có tiêu đề, cấu trúc phân cấp."
+            ],
+            "pdf_page": 56
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-tin_hoc-b11-01",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b11-01.png",
+              "caption": "Hình 11.1. Trang tiêu đề",
+              "pdf_page": 59
+            },
+            {
+              "id": "H7-tin_hoc-b11-02",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b11-02.png",
+              "caption": "Hình 11.2. Trang nội dung",
+              "pdf_page": 59
+            },
+            {
+              "id": "H7-tin_hoc-b11-03",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b11-03.png",
+              "caption": "Hình 11.3. Ví dụ trang tiêu đề",
+              "pdf_page": 60
+            },
+            {
+              "id": "H7-tin_hoc-b11-04",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b11-04.png",
+              "caption": "Hình 11.4. Ví dụ trang nội dung",
+              "pdf_page": 60
+            },
+            {
+              "id": "H7-tin_hoc-b11-05",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b11-05.png",
+              "caption": "Hình 11.5. Chọn các dòng cần tăng cấp",
+              "pdf_page": 60
+            },
+            {
+              "id": "H7-tin_hoc-b11-06",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b11-06.png",
+              "caption": "Hình 11.6. Kết quả nhận được sau khi nhấn phím Tab",
+              "pdf_page": 60
+            },
+            {
+              "id": "H7-tin_hoc-b11-07",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b11-07.png",
+              "caption": "Hình 11.7. Trang chiếu khi chưa phân cấp",
+              "pdf_page": 60
+            },
+            {
+              "id": "H7-tin_hoc-b11-08",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b11-08.png",
+              "caption": "Hình 11.8. Trang chiếu sau khi phân cấp",
+              "pdf_page": 60
+            },
+            {
+              "id": "H7-tin_hoc-b11-09",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b11-09.png",
+              "caption": "Hình 11.9. Trang chiếu sau khi thay đổi hình dạng và màu sắc của các kí hiệu đầu dòng",
+              "pdf_page": 61
+            }
+          ]
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Định dạng đối tượng trên trang chiếu",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-04-Ung-dung-tin-hoc/B12-Dinh-dang-doi-tuong-tren-trang-chieu.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            62,
+            68
+          ],
+          "printed_pages": [
+            61,
+            67
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này em sẽ:",
+            "items": [
+              "Sao chép được dữ liệu từ tệp văn bản sang trang trình chiếu.",
+              "Đưa được hình ảnh minh hoạ vào bài trình chiếu.",
+              "Biết sử dụng các định dạng cho văn bản, ảnh minh hoạ một cách hợp lí."
+            ],
+            "pdf_page": 62
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-tin_hoc-b12-01",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b12-01.png",
+              "caption": "Hình 12.1. Lệnh Copy và Paste trong thẻ Home",
+              "pdf_page": 64
+            },
+            {
+              "id": "H7-tin_hoc-b12-02",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b12-02.png",
+              "caption": "Hình 12.2. Chọn phần dữ liệu cần sao chép trong tệp văn bản",
+              "pdf_page": 64
+            },
+            {
+              "id": "H7-tin_hoc-b12-03",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b12-03.png",
+              "caption": "Hình 12.3. Dữ liệu được sao chép vào trang chiếu",
+              "pdf_page": 65
+            },
+            {
+              "id": "H7-tin_hoc-b12-04",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b12-04.png",
+              "caption": "Hình 12.4. Các lệnh định dạng văn bản trên thẻ Home",
+              "pdf_page": 65
+            },
+            {
+              "id": "H7-tin_hoc-b12-05",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b12-05.png",
+              "caption": "Hình 12.5. Trang chiếu sau khi định dạng, biên tập",
+              "pdf_page": 65
+            },
+            {
+              "id": "H7-tin_hoc-b12-06",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b12-06.png",
+              "caption": "Hình 12.6. Cách áp dụng mẫu định dạng",
+              "pdf_page": 66
+            },
+            {
+              "id": "H7-tin_hoc-b12-07",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b12-07.png",
+              "caption": "Hình 12.7. Hình ảnh che nội dung văn bản",
+              "pdf_page": 67
+            },
+            {
+              "id": "H7-tin_hoc-b12-08",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b12-08.png",
+              "caption": "Hình 12.8. Kết quả sau khi thay đổi lớp của hình ảnh",
+              "pdf_page": 67
+            },
+            {
+              "id": "H7-tin_hoc-b12-09",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b12-09.png",
+              "caption": "Hình 12.9. Cách thay đổi kích thước hình ảnh",
+              "pdf_page": 67
+            },
+            {
+              "id": "H7-tin_hoc-b12-10",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b12-10.png",
+              "caption": "Hình 12.10. Trang chiếu kết quả",
+              "pdf_page": 68
+            }
+          ]
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Thực hành tổng hợp: Hoàn thiện bài trình chiếu",
+          "lesson_type": "thuc_hanh",
+          "file": "Chu-de-04-Ung-dung-tin-hoc/B13-Thuc-hanh-tong-hop-Hoan-thien-bai-trinh-chieu.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            69,
+            71
+          ],
+          "printed_pages": [
+            68,
+            70
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này em sẽ:",
+            "items": [
+              "Biết đưa hiệu ứng động vào bài trình chiếu và sử dụng hiệu ứng một cách hợp lí.",
+              "Biết cách tổng hợp, sắp xếp các nội dung đã có thành một bài trình chiếu hoàn chỉnh."
+            ],
+            "pdf_page": 69
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-tin_hoc-b13-01",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b13-01.png",
+              "caption": "Hình 13.1. Tạo hiệu ứng cho đối tượng",
+              "pdf_page": 70
+            },
+            {
+              "id": "H7-tin_hoc-b13-02",
+              "file": "Chu-de-04-Ung-dung-tin-hoc/img/H7-tin_hoc-b13-02.png",
+              "caption": "Hình 13.2. Tạo hiệu ứng cho trang chiếu",
+              "pdf_page": 71
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd05",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 5",
+      "number": 5,
+      "title": "Giải quyết vấn đề với sự trợ giúp của máy tính",
+      "children": [
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Thuật toán tìm kiếm tuần tự",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-05-Giai-quyet-van-de-voi-su-tro-giup-cua/B14-Thuat-toan-tim-kiem-tuan-tu.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            72,
+            74
+          ],
+          "printed_pages": [
+            71,
+            73
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này em sẽ:",
+            "items": [
+              "Giải thích được thuật toán tìm kiếm tuần tự.",
+              "Biểu diễn và mô phỏng được hoạt động của thuật toán tìm kiếm tuần tự trên một bộ dữ liệu vào có kích thước nhỏ."
+            ],
+            "pdf_page": 72
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-tin_hoc-b14-01",
+              "file": "Chu-de-05-Giai-quyet-van-de-voi-su-tro-giup-cua/img/H7-tin_hoc-b14-01.png",
+              "caption": "Hình 14.1. Sơ đồ khối mô tả thuật toán tìm kiếm tuần tự địa chỉ khách hàng",
+              "pdf_page": 73
+            }
+          ]
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Thuật toán tìm kiếm nhị phân",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-05-Giai-quyet-van-de-voi-su-tro-giup-cua/B15-Thuat-toan-tim-kiem-nhi-phan.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            75,
+            78
+          ],
+          "printed_pages": [
+            74,
+            77
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này em sẽ:",
+            "items": [
+              "Giải thích được thuật toán tìm kiếm nhị phân.",
+              "Biểu diễn và mô phỏng được hoạt động của thuật toán tìm kiếm nhị phân trên một bộ dữ liệu vào có kích thước nhỏ.",
+              "Giải thích được mối liên quan giữa sắp xếp và tìm kiếm, nêu được ví dụ minh hoạ."
+            ],
+            "pdf_page": 75
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-tin_hoc-b15-01",
+              "file": "Chu-de-05-Giai-quyet-van-de-voi-su-tro-giup-cua/img/H7-tin_hoc-b15-01.png",
+              "caption": "Hình 15.1. Danh sách khách hàng",
+              "pdf_page": 75
+            },
+            {
+              "id": "H7-tin_hoc-b15-02",
+              "file": "Chu-de-05-Giai-quyet-van-de-voi-su-tro-giup-cua/img/H7-tin_hoc-b15-02.png",
+              "caption": "Hình 15.2. Vùng tìm kiếm",
+              "pdf_page": 77
+            }
+          ]
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Thuật toán sắp xếp",
+          "lesson_type": "ly_thuyet",
+          "file": "Chu-de-05-Giai-quyet-van-de-voi-su-tro-giup-cua/B16-Thuat-toan-sap-xep.md",
+          "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+          "pdf_pages": [
+            79,
+            83
+          ],
+          "printed_pages": [
+            78,
+            82
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này em sẽ:",
+            "items": [
+              "Giải thích được một vài thuật toán sắp xếp cơ bản.",
+              "Biểu diễn và mô phỏng được hoạt động của thuật toán sắp xếp với bộ dữ liệu đầu vào có kích thước nhỏ.",
+              "Nêu được ý nghĩa của việc chia một bài toán thành những bài toán nhỏ hơn."
+            ],
+            "pdf_page": 79
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H7-tin_hoc-b16-01",
+              "file": "Chu-de-05-Giai-quyet-van-de-voi-su-tro-giup-cua/img/H7-tin_hoc-b16-01.png",
+              "caption": "Hình 16.1. Hoán đổi",
+              "pdf_page": 79
+            },
+            {
+              "id": "H7-tin_hoc-b16-02",
+              "file": "Chu-de-05-Giai-quyet-van-de-voi-su-tro-giup-cua/img/H7-tin_hoc-b16-02.png",
+              "caption": "Hình 16.2. Vòng lặp thứ nhất của thuật toán nổi bọt",
+              "pdf_page": 80
+            },
+            {
+              "id": "H7-tin_hoc-b16-03",
+              "file": "Chu-de-05-Giai-quyet-van-de-voi-su-tro-giup-cua/img/H7-tin_hoc-b16-03.png",
+              "caption": "Hình 16.3. Vòng lặp thứ hai của thuật toán nổi bọt",
+              "pdf_page": 80
+            },
+            {
+              "id": "H7-tin_hoc-b16-04",
+              "file": "Chu-de-05-Giai-quyet-van-de-voi-su-tro-giup-cua/img/H7-tin_hoc-b16-04.png",
+              "caption": "Hình 16.4. Vòng lặp thứ ba của thuật toán nổi bọt",
+              "pdf_page": 80
+            },
+            {
+              "id": "H7-tin_hoc-b16-05",
+              "file": "Chu-de-05-Giai-quyet-van-de-voi-su-tro-giup-cua/img/H7-tin_hoc-b16-05.png",
+              "caption": "Hình 16.5. Mô phỏng thuật toán sắp xếp chọn",
+              "pdf_page": 82
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bang-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ",
+      "file": "Bang-giai-thich-thuat-ngu.md",
+      "source_file": "SGK Tin học 7 - Ket noi tri thuc voi cuoc song.pdf",
+      "pdf_pages": [
+        84,
+        84
+      ],
+      "printed_pages": [
+        83,
+        83
+      ],
+      "status": "verified"
+    }
+  ],
+  "dictionaries": [
+    {
+      "file": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "name": "tu-dien-tin-hoc-7-chu-de-1",
+      "title": "TỪ ĐIỂN THUẬT NGỮ TIN HỌC 7 — CHỦ ĐỀ 1: MÁY TÍNH VÀ CỘNG ĐỒNG",
+      "group_id": "cd01",
+      "lesson_ids": [
+        "b01",
+        "b02",
+        "b03"
+      ],
+      "conventions": [
+        "Thuật ngữ được trình bày theo từng bài học của Chủ đề 1. Máy tính và cộng đồng (Bài 1–3), bám sát nguyên văn SGK Tin học 7 (Kết nối tri thức với cuộc sống) và tích hợp 100% các mục thuộc Chủ đề 1 (trang 5–17) trong Bảng giải thích thuật ngữ cuối sách.",
+        "Cột **Bối cảnh sử dụng** ghi tiền tố `[mô tả]` đối với các khái niệm được SGK diễn giải trong đoạn văn nhưng không in đậm thành mục định nghĩa riêng.",
+        "Các thuật ngữ chỉ nhắc tên trong bài và được định nghĩa ở chủ đề sau được ghi theo mẫu `Ngoài nguồn — chưa định nghĩa trong ... Xem: ...`."
+      ],
+      "status": "verified",
+      "created": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "file": "Tu-dien-Tin-hoc-7-Chu-de-2.md",
+      "name": "tu-dien-tin-hoc-7-chu-de-2",
+      "title": "TỪ ĐIỂN THUẬT NGỮ TIN HỌC 7 — CHỦ ĐỀ 2: TỔ CHỨC LƯU TRỮ, TÌM KIẾM VÀ TRAO ĐỔI THÔNG TIN",
+      "group_id": "cd02",
+      "lesson_ids": [
+        "b04"
+      ],
+      "conventions": [
+        "Thuật ngữ được trình bày theo bài học của Chủ đề 2. Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (Bài 4), bám sát nguyên văn SGK Tin học 7 (Kết nối tri thức với cuộc sống) và đối chiếu Bảng giải thích thuật ngữ cuối sách (trang 18–22 không có mục riêng trong bảng cuối sách).",
+        "Cột **Bối cảnh sử dụng** ghi tiền tố `[mô tả]` đối với các khái niệm được SGK diễn giải trong đoạn văn nhưng không in đậm thành mục định nghĩa riêng.",
+        "Các thuật ngữ chỉ nhắc tên trong bài và được định nghĩa ở chủ đề sau được ghi theo mẫu `Ngoài nguồn — chưa định nghĩa trong ... Xem: ...`."
+      ],
+      "status": "verified",
+      "created": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "file": "Tu-dien-Tin-hoc-7-Chu-de-3.md",
+      "name": "tu-dien-tin-hoc-7-chu-de-3",
+      "title": "TỪ ĐIỂN THUẬT NGỮ TIN HỌC 7 — CHỦ ĐỀ 3: ĐẠO ĐỨC, PHÁP LUẬT VÀ VĂN HOÁ TRONG MÔI TRƯỜNG SỐ",
+      "group_id": "cd03",
+      "lesson_ids": [
+        "b05"
+      ],
+      "conventions": [
+        "Thuật ngữ được trình bày theo bài học của Chủ đề 3. Đạo đức, pháp luật và văn hoá trong môi trường số (Bài 5), bám sát nguyên văn SGK Tin học 7 (Kết nối tri thức với cuộc sống) và tích hợp 100% mục thuộc Chủ đề 3 (trang 23–27) trong Bảng giải thích thuật ngữ cuối sách.",
+        "Cột **Bối cảnh sử dụng** ghi tiền tố `[mô tả]` đối với các khái niệm được SGK diễn giải trong đoạn văn nhưng không in đậm thành mục định nghĩa riêng.",
+        "Các thuật ngữ chỉ nhắc tên trong bài và được định nghĩa ở chủ đề sau được ghi theo mẫu `Ngoài nguồn — chưa định nghĩa trong ... Xem: ...`."
+      ],
+      "status": "verified",
+      "created": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "file": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "name": "tu-dien-tin-hoc-7-chu-de-4",
+      "title": "TỪ ĐIỂN THUẬT NGỮ TIN HỌC 7 — CHỦ ĐỀ 4: ỨNG DỤNG TIN HỌC",
+      "group_id": "cd04",
+      "lesson_ids": [
+        "b06",
+        "b07",
+        "b08",
+        "b09",
+        "b10",
+        "b11",
+        "b12",
+        "b13"
+      ],
+      "conventions": [
+        "Thuật ngữ được trình bày theo từng bài học của Chủ đề 4. Ứng dụng tin học (Bài 6–13), bám sát nguyên văn SGK Tin học 7 (Kết nối tri thức với cuộc sống) và tích hợp 100% các mục tương ứng trong Bảng giải thích thuật ngữ cuối sách (trang in 83 | PDF 84).",
+        "Cột **Bối cảnh sử dụng** ghi tiền tố `[mô tả]` đối với các thuật ngữ được SGK diễn giải trong đoạn văn nhưng không in đậm thành mục định nghĩa riêng.",
+        "Các công thức, hàm bảng tính (`SUM`, `AVERAGE`, `MIN`, `MAX`, `COUNT`), địa chỉ ô/vùng (`B4:E11`, `C4:I8`) và các lệnh trên giao diện phần mềm tiếng Anh (`Home`, `Format Cells`, `Merge & Center`, `Design`, `Animations`, `Transitions`,...) được giữ nguyên đúng như SGK."
+      ],
+      "status": "verified",
+      "created": "2026-11-20",
+      "updated": "2026-11-20"
+    },
+    {
+      "file": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "name": "tu-dien-tin-hoc-7-chu-de-5",
+      "title": "TỪ ĐIỂN THUẬT NGỮ TIN HỌC 7 — CHỦ ĐỀ 5: GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH",
+      "group_id": "cd05",
+      "lesson_ids": [
+        "b14",
+        "b15",
+        "b16"
+      ],
+      "conventions": [
+        "Thuật ngữ được trình bày theo từng bài học của Chủ đề 5. Giải quyết vấn đề với sự trợ giúp của máy tính (Bài 14–16), bám sát nguyên văn SGK Tin học 7 (Kết nối tri thức với cuộc sống).",
+        "Cột **Bối cảnh sử dụng** ghi tiền tố `[mô tả]` đối với các thuật ngữ, bài toán và quy trình mô tả thuật toán được SGK diễn giải trong đoạn văn hoặc khung ghi chú nhưng không in đậm thành mục định nghĩa riêng."
+      ],
+      "status": "verified",
+      "created": "2026-11-20",
+      "updated": "2026-11-20"
+    }
+  ],
+  "terms": [
+    {
+      "id": "tin-hoc-7-thiet-bi-vao",
+      "term": "Thiết bị vào",
+      "aliases": [],
+      "english": "Input device",
+      "notation": null,
+      "meaning": "Thiết bị vào được dùng để nhập dữ liệu và mệnh lệnh vào máy tính; được dùng để đưa thông tin vào máy tính như bàn phím, chuột, micro,...",
+      "usage_context": "Bài 1, mục 1 (trang 5 và 7, PDF 6 và 8) — định nghĩa và ví dụ các thiết bị tiếp nhận thông tin từ bên ngoài đưa vào máy tính.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1",
+        "pdf_page": 6,
+        "printed_page": 5
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-thiet-bi-ra",
+      "term": "Thiết bị ra",
+      "aliases": [],
+      "english": "Output device",
+      "notation": null,
+      "meaning": "Thiết bị ra gửi thông tin từ máy tính ra để con người nhận biết được; được dùng để đưa dữ liệu từ máy tính ra bên ngoài như màn hình, máy in, loa,...",
+      "usage_context": "Bài 1, mục 1 (trang 5 và 7, PDF 6 và 8) — định nghĩa và ví dụ các thiết bị thể hiện kết quả xử lí từ máy tính ra bên ngoài.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1",
+        "pdf_page": 6,
+        "printed_page": 5
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-micro",
+      "term": "Micro",
+      "aliases": [],
+      "english": "Microphone",
+      "notation": null,
+      "meaning": "Micro là thiết bị vào. Micro thu nhận âm thanh và chuyển vào máy tính để mã hoá thành dữ liệu số.",
+      "usage_context": "Bài 1, mục 1 (trang 5, PDF 6) — thiết bị vào làm việc với thông tin dạng âm thanh.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1",
+        "pdf_page": 6,
+        "printed_page": 5
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-loa",
+      "term": "Loa",
+      "aliases": [],
+      "english": "Speaker",
+      "notation": null,
+      "meaning": "Loa là thiết bị ra. Loa nhận dữ liệu từ máy tính, thể hiện ra bên ngoài dưới dạng âm thanh mà chúng ta có thể nghe thấy.",
+      "usage_context": "Bài 1, mục 1 (trang 5, PDF 6) — thiết bị ra làm việc với thông tin dạng âm thanh.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1",
+        "pdf_page": 6,
+        "printed_page": 5
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-su-da-dang-cua-thiet-bi-vao-ra",
+      "term": "Sự đa dạng của thiết bị vào – ra",
+      "aliases": [],
+      "english": "Diversity of input–output devices",
+      "notation": null,
+      "meaning": "Trên thực tế, thiết bị vào – ra được thiết kế rất đa dạng đáp ứng được những nhu cầu khác nhau của người sử dụng; một số thiết bị vào – ra còn thực hiện cả chức năng lưu trữ, xử lí dữ liệu.",
+      "usage_context": "Bài 1, mục 1 (trang 6–7, PDF 7–8) — nhận diện nhiều chủng loại thiết bị vào – ra có hình dạng và công dụng phong phú ngoài bàn phím, chuột, màn hình thông dụng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1",
+        "pdf_page": 7,
+        "printed_page": 6
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-may-chieu",
+      "term": "Máy chiếu",
+      "aliases": [],
+      "english": "Projector",
+      "notation": null,
+      "meaning": "Máy chiếu là thiết bị ra, dùng để hiển thị nội dung màn hình máy tính lên màn chiếu.",
+      "usage_context": "Bài 1, mục 1 (trang 6, PDF 7) — ví dụ thiết bị ra làm việc với dạng thông tin hình ảnh.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1",
+        "pdf_page": 7,
+        "printed_page": 6
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-bo-dieu-khien-game",
+      "term": "Bộ điều khiển game",
+      "aliases": [],
+      "english": "Gamepad / Game controller",
+      "notation": null,
+      "meaning": "Bộ điều khiển game là thiết bị đưa mệnh lệnh vào máy tính để điều khiển đối tượng trong một số trò chơi trên máy tính.",
+      "usage_context": "Bài 1, mục 1 (trang 6, PDF 7) — ví dụ thiết bị vào chuyên dụng cho trò chơi trên máy tính.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1",
+        "pdf_page": 7,
+        "printed_page": 6
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-man-hinh-cam-ung",
+      "term": "Màn hình cảm ứng",
+      "aliases": [
+        "touch screen"
+      ],
+      "english": "Touch screen",
+      "notation": null,
+      "meaning": "Màn hình cảm ứng (touch screen) không chỉ là thiết bị ra mà còn là thiết bị vào. Màn hình cảm ứng phát hiện vị trí và sự di chuyển của ngón tay trên bề mặt, giúp em chọn đối tượng hoặc thực hiện một lệnh như em đang sử dụng chuột.",
+      "usage_context": "Bài 1, mục 1 (trang 7, PDF 8) — thiết bị tích hợp cả hai chức năng vào và ra, có thể thay thế chuột máy tính.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1",
+        "pdf_page": 8,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-tam-cam-ung",
+      "term": "Tấm cảm ứng",
+      "aliases": [
+        "touchpad"
+      ],
+      "english": "Touchpad",
+      "notation": null,
+      "meaning": "Tấm cảm ứng (touchpad) có thể nhận biết vị trí và sự di chuyển của ngón tay người trên bề mặt đó và thể hiện trên màn hình. Tấm cảm ứng thường chiếm một vùng trên bàn phím máy tính xách tay, có chức năng giống như chuột máy tính thông thường.",
+      "usage_context": "Bài 1, mục 1 (trang 7, PDF 8) — thiết bị vào trên máy tính xách tay dùng thay thế chuột thông thường.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1",
+        "pdf_page": 8,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-loa-thong-minh",
+      "term": "Loa thông minh",
+      "aliases": [],
+      "english": "Smart speaker",
+      "notation": null,
+      "meaning": "Loa thông minh là thiết bị ra, đồng thời có kết nối không dây với máy tính, điện thoại thông minh, Internet,... để trao đổi dữ liệu; có thể nhận lệnh bằng giọng nói (hỏi giờ, hỏi thời tiết, yêu cầu phát bài hát,...) và trả lời cũng bằng giọng nói.",
+      "usage_context": "Bài 1, mục 1 (trang 7, PDF 8) — thiết bị vừa phát âm thanh ra ngoài vừa nhận lệnh giọng nói và trao đổi dữ liệu qua mạng không dây.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1",
+        "pdf_page": 8,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-may-ghi-hinh-ki-thuat-so",
+      "term": "Máy ghi hình kĩ thuật số",
+      "aliases": [],
+      "english": "Digital camcorder",
+      "notation": null,
+      "meaning": "Một chiếc máy ảnh hay máy ghi hình kĩ thuật số không chỉ là thiết bị vào mà còn có thể lưu trữ và thực hiện một số chức năng xử lí ảnh, xử lí video đơn giản.",
+      "usage_context": "Bài 1, mục 1 (trang 7, PDF 8) — ví dụ thiết bị vào có thêm chức năng lưu trữ và xử lí dữ liệu.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1",
+        "pdf_page": 8,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-an-toan-thiet-bi",
+      "term": "An toàn thiết bị",
+      "aliases": [],
+      "english": "Device safety",
+      "notation": null,
+      "meaning": "Khi sử dụng máy tính, em cần tuân theo những quy tắc an toàn để không gây ra lỗi: đọc kĩ hướng dẫn của nhà sản xuất trước khi sử dụng thiết bị, kết nối các thiết bị đúng cách, giữ gìn nơi làm việc với máy tính gọn gàng, ngăn nắp, vệ sinh, khô ráo.",
+      "usage_context": "Bài 1, mục 2 (trang 8–9, PDF 9–10) — nguyên tắc kết nối và thao tác an toàn để bảo vệ thiết bị, an toàn điện và an toàn dữ liệu.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "2",
+        "pdf_page": 9,
+        "printed_page": 8
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-chuan-ket-noi-usb",
+      "term": "Chuẩn kết nối USB",
+      "aliases": [
+        "USB"
+      ],
+      "english": "Universal Serial Bus (USB)",
+      "notation": null,
+      "meaning": "Cổng chuẩn kết nối USB được sử dụng cho nhiều thiết bị; tuy nhiên, nếu cắm nhầm đầu kết nối khác vào cổng này có thể gây ra chập điện làm hỏng thiết bị.",
+      "usage_context": "Bài 1, mục 2 (trang 8, PDF 9) — cổng kết nối thông dụng trên thân máy tính để lắp bàn phím, chuột, thẻ nhớ USB,...",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "2",
+        "pdf_page": 9,
+        "printed_page": 8
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-he-dieu-hanh",
+      "term": "Hệ điều hành",
+      "aliases": [
+        "Operating System"
+      ],
+      "english": "Operating System (OS)",
+      "notation": null,
+      "meaning": "Hệ điều hành là phần mềm hệ thống quản lí và điều khiển hoạt động chung của máy tính, quản lí dữ liệu, cung cấp cho con người môi trường tương tác với máy tính và chạy các phần mềm ứng dụng.",
+      "usage_context": "Bài 2, Khởi động và mục 1 (trang 10–11, PDF 11–12) và Bảng giải thích thuật ngữ (trang 83, PDF 84) — phần mềm bắt buộc cài đặt đầu tiên trên máy tính (Windows, Mac OS, Linux,...) và thiết bị di động (iOS, Android,...).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": null,
+        "pdf_page": 11,
+        "printed_page": 10
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-chuc-nang-co-ban-cua-he-dieu-hanh",
+      "term": "Chức năng cơ bản của hệ điều hành",
+      "aliases": [],
+      "english": "Core functions of an operating system",
+      "notation": null,
+      "meaning": "Những chức năng cơ bản của hệ điều hành là: quản lí các thiết bị và dữ liệu của máy tính, điều khiển chúng phối hợp hoạt động nhịp nhàng với nhau; cung cấp và quản lí môi trường trao đổi thông tin (giao diện) giữa người sử dụng và máy tính; cung cấp, quản lí môi trường cho phép người sử dụng chạy các phần mềm ứng dụng trên máy tính.",
+      "usage_context": "Bài 2, mục 1 (trang 10, PDF 11) — ba nhóm chức năng điều khiển và quản lí cốt lõi của hệ điều hành.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "1",
+        "pdf_page": 11,
+        "printed_page": 10
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-giao-dien",
+      "term": "Giao diện",
+      "aliases": [],
+      "english": "Interface / User interface",
+      "notation": null,
+      "meaning": "Môi trường trao đổi thông tin (giao diện) giữa người sử dụng và máy tính do hệ điều hành cung cấp và quản lí.",
+      "usage_context": "Bài 2, mục 1 (trang 10, PDF 11) — môi trường tương tác giữa con người với máy tính.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "1",
+        "pdf_page": 11,
+        "printed_page": 10
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-phan-mem-ung-dung",
+      "term": "Phần mềm ứng dụng",
+      "aliases": [
+        "Application Software"
+      ],
+      "english": "Application Software",
+      "notation": null,
+      "meaning": "Phần mềm ứng dụng là các chương trình máy tính cho phép người sử dụng thực hiện những công việc cụ thể và thường xử lí những loại dữ liệu cụ thể.",
+      "usage_context": "Bài 2, Khởi động và mục 2 (trang 10, 11–12, PDF 11, 12–13) — các phần mềm soạn thảo văn bản, sơ đồ tư duy, lập trình Scratch, trình duyệt, xử lí ảnh,... chạy trực tuyến hoặc cài đặt trên đĩa cứng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": null,
+        "pdf_page": 11,
+        "printed_page": 10
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-phan-mo-rong",
+      "term": "Phần mở rộng",
+      "aliases": [
+        "phần mở rộng của tên tệp"
+      ],
+      "english": "File extension",
+      "notation": null,
+      "meaning": "Phần mở rộng gồm những kí tự sau dấu chấm cuối cùng trong tên tệp, giúp nhận biết loại tệp và cho biết phần mềm ứng dụng nào có thể được dùng với nó.",
+      "usage_context": "Bài 2, mục 2 (trang 11–12, PDF 12–13) — thông thường có từ một đến ba kí tự hoặc nhiều hơn như `.doc`, `.docx`, `.html`, `.jpg`, `.exe`, `.sb3`, `.pptx`.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2",
+        "pdf_page": 12,
+        "printed_page": 11
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-loai-tep",
+      "term": "Loại tệp",
+      "aliases": [
+        "định dạng tệp"
+      ],
+      "english": "File type / File format",
+      "notation": null,
+      "meaning": "Loại tệp được nhận biết nhờ phần mở rộng, gồm những kí tự sau dấu chấm cuối cùng trong tên tệp. Loại tệp cũng cho biết phần mềm ứng dụng nào có thể được dùng với nó.",
+      "usage_context": "Bài 2, mục 2 (trang 11–12, PDF 12–13) — mỗi phần mềm ứng dụng hỗ trợ tạo và xử lí một số loại dữ liệu nhất định với định dạng tệp riêng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2",
+        "pdf_page": 13,
+        "printed_page": 12
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-phan-biet-he-dieu-hanh-va-phan-mem-ung-dung",
+      "term": "Phân biệt hệ điều hành và phần mềm ứng dụng",
+      "aliases": [],
+      "english": "Distinguishing operating systems and application software",
+      "notation": null,
+      "meaning": "Hệ điều hành là phần mềm được sử dụng để quản lí các thành phần của máy tính và điều khiển máy tính hoạt động (trực tiếp quản lí phần cứng, phải cài đặt đầu tiên, tạo môi trường chạy ứng dụng); phần mềm ứng dụng được dùng để thực hiện yêu cầu xử lí thông tin cụ thể của người sử dụng (tương tác phần cứng qua hệ điều hành, cài đặt tuỳ nhu cầu, chạy trong môi trường hệ điều hành).",
+      "usage_context": "Bài 2, mục 2 và Bảng 2.1 (trang 12, PDF 13) — so sánh hệ điều hành với phần mềm ứng dụng theo các tiêu chí tương tác phần cứng, sự cần thiết, sự phụ thuộc và ví dụ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2",
+        "pdf_page": 13,
+        "printed_page": 12
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-dat-ten-tep-va-thu-muc",
+      "term": "Đặt tên tệp và thư mục",
+      "aliases": [],
+      "english": "Naming files and folders",
+      "notation": null,
+      "meaning": "Trước khi lưu trữ, dữ liệu cần được phân loại để việc lưu trữ có trật tự; tên tệp và thư mục cần được đặt đơn giản, dễ hiểu, dễ nhớ, cho ta biết trong đó chứa những gì.",
+      "usage_context": "Bài 3, mục 1 (trang 13–14, PDF 14–15) — nguyên tắc tổ chức phân loại và đặt tên tệp, thư mục để dễ dàng tìm kiếm, đặc biệt khi làm dự án nhóm.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 14,
+        "printed_page": 13
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-tep-chuong-trinh-may-tinh",
+      "term": "Tệp chương trình máy tính",
+      "aliases": [
+        "tệp chương trình"
+      ],
+      "english": "Program file / Executable file",
+      "notation": null,
+      "meaning": "Chương trình máy tính được lưu trữ trên thiết bị nhớ giống như một tệp dữ liệu. Tệp chương trình máy tính trong hệ điều hành Windows thường có phần mở rộng .exe, .com, .bat, .msi.",
+      "usage_context": "Bài 3, mục 1 (trang 13–14, PDF 14–15) — lưu ý không xoá hay di chuyển tệp chương trình nếu không có lí do xác đáng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "1",
+        "pdf_page": 15,
+        "printed_page": 14
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-bao-ve-du-lieu",
+      "term": "Bảo vệ dữ liệu",
+      "aliases": [],
+      "english": "Data protection",
+      "notation": null,
+      "meaning": "Hoạt động nhằm mục đích bảo vệ, không để dữ liệu bị mất, bị hỏng hay bị truy cập trái phép.",
+      "usage_context": "Bài 3, mục 2 (trang 14, PDF 15) và Bảng giải thích thuật ngữ (trang 83, PDF 84) — mục đích chung của các biện pháp sao lưu dữ liệu, đặt mật khẩu tài khoản và dùng phần mềm chống virus.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2",
+        "pdf_page": 15,
+        "printed_page": 14
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-sao-luu-du-lieu",
+      "term": "Sao lưu dữ liệu",
+      "aliases": [],
+      "english": "Data backup",
+      "notation": null,
+      "meaning": "Sao lưu dữ liệu là tạo ra bản sao các tệp và thư mục rồi lưu chúng lên một thiết bị lưu trữ. Thiết bị lưu trữ đó cho phép em khôi phục lại dữ liệu nếu có điều gì đó xảy ra với bản gốc.",
+      "usage_context": "Bài 3, mục 2a (trang 14, PDF 15) và Bảng giải thích thuật ngữ (trang 83, PDF 84) — biện pháp sao lưu thường xuyên để phòng ngừa mất hoặc hỏng dữ liệu gốc.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2.a",
+        "pdf_page": 15,
+        "printed_page": 14
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-sao-luu-cuc-bo",
+      "term": "Sao lưu cục bộ",
+      "aliases": [],
+      "english": "Local backup",
+      "notation": null,
+      "meaning": "Sao lưu cục bộ là bản sao được đặt trên cùng máy tính chứa bản gốc hoặc trên các thiết bị lưu trữ như ổ cứng ngoài, USB,... Cách sao lưu này hữu ích vì có thể phục hồi nhanh chóng.",
+      "usage_context": "Bài 3, mục 2a (trang 14, PDF 15) — hình thức sao lưu tại chỗ nhưng có rủi ro mất cả bản sao nếu thiết bị lưu trữ hỏng hoặc máy tính thất lạc.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2.a",
+        "pdf_page": 15,
+        "printed_page": 14
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-sao-luu-tu-xa",
+      "term": "Sao lưu từ xa",
+      "aliases": [],
+      "english": "Remote backup",
+      "notation": null,
+      "meaning": "Sao lưu từ xa là bản sao được đặt bên ngoài máy tính chứa bản gốc. Bản sao có thể lưu ở một máy tính khác, hoặc đưa lên Internet nhờ công nghệ đám mây.",
+      "usage_context": "Bài 3, mục 2a (trang 14, PDF 15) — hình thức sao lưu giúp bản sao vẫn an toàn ngay cả khi máy tính gốc bị hỏng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2.a",
+        "pdf_page": 15,
+        "printed_page": 14
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-cong-nghe-dam-may",
+      "term": "Công nghệ đám mây",
+      "aliases": [],
+      "english": "Cloud technology / Cloud computing",
+      "notation": null,
+      "meaning": "Cách nói ẩn dụ về công nghệ, trong đó dữ liệu và phần mềm ứng dụng, thậm chí cả hệ điều hành được đặt trên máy chủ trên Internet.",
+      "usage_context": "Bài 3, mục 2a, Bảng 3.1 (trang 14–15, PDF 15–16) và Bảng giải thích thuật ngữ (trang 83, PDF 84) — phương thức lưu trữ và sao lưu từ xa truy cập được từ bất kì máy tính nào có kết nối Internet.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2.a",
+        "pdf_page": 15,
+        "printed_page": 14
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-mat-khau",
+      "term": "Mật khẩu",
+      "aliases": [],
+      "english": "Password",
+      "notation": null,
+      "meaning": "Mật khẩu là một tính năng bảo mật và có thể được thay đổi để người khác khó đoán.",
+      "usage_context": "Bài 3, mục 2b (trang 15, PDF 16) — đặt mật khẩu bí mật cho tài khoản người sử dụng để tránh bị truy cập trái phép.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2.b",
+        "pdf_page": 16,
+        "printed_page": 15
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-mat-khau-manh",
+      "term": "Mật khẩu mạnh",
+      "aliases": [],
+      "english": "Strong password",
+      "notation": null,
+      "meaning": "Mật khẩu mạnh thường là dãy dài ít nhất tám kí tự; bao gồm cả chữ số, chữ in hoa, chữ thường và các kí hiệu đặc biệt như @, #,...; không phải là một từ thông thường.",
+      "usage_context": "Bài 3, mục 2b (trang 15, PDF 16) — tiêu chí đặt mật khẩu an toàn, khó bị đoán.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2.b",
+        "pdf_page": 16,
+        "printed_page": 15
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-mat-khau-yeu",
+      "term": "Mật khẩu yếu",
+      "aliases": [],
+      "english": "Weak password",
+      "notation": null,
+      "meaning": "Mật khẩu yếu có thể là tên mình hoặc tên người thân, từ đặc biệt như “12345678”, số điện thoại hoặc ngày sinh.",
+      "usage_context": "Bài 3, mục 2b (trang 15, PDF 16) — các dạng mật khẩu dễ đoán cần tránh sử dụng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2.b",
+        "pdf_page": 16,
+        "printed_page": 15
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-phan-mem-doc-hai",
+      "term": "Phần mềm độc hại",
+      "aliases": [],
+      "english": "Malware",
+      "notation": null,
+      "meaning": "Phần mềm độc hại có thể làm hỏng dữ liệu và các chương trình trong máy tính. Phần mềm độc hại có nhiều loại khác nhau như virus, sâu, phần mềm gián điệp,...",
+      "usage_context": "Bài 3, mục 2c (trang 15, PDF 16) — mối nguy gây mất an toàn dữ liệu và chương trình máy tính.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2.c",
+        "pdf_page": 16,
+        "printed_page": 15
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-phan-mem-chong-virus",
+      "term": "Phần mềm chống virus",
+      "aliases": [],
+      "english": "Antivirus software",
+      "notation": null,
+      "meaning": "Phần mềm chống virus được thiết kế để phát hiện và diệt virus; phát hiện và chặn các cuộc tấn công từ phần mềm độc hại.",
+      "usage_context": "Bài 3, mục 2c (trang 15, PDF 16) — công cụ bảo vệ máy tính (như Windows Defender, Kaspersky, AVG, Avira, Avast, Bkav) cần thường xuyên hoạt động và cập nhật.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2.c",
+        "pdf_page": 16,
+        "printed_page": 15
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-quan-li-du-lieu",
+      "term": "Quản lí dữ liệu",
+      "aliases": [],
+      "english": "Data management",
+      "notation": null,
+      "meaning": "Tổ chức, sắp xếp, bổ sung, xóa bỏ và đổi tên tệp và thư mục trên ổ cứng để dễ tìm kiếm khi cần.",
+      "usage_context": "Bài 3, mục 3 (trang 16–17, PDF 17–18) và Bảng giải thích thuật ngữ (trang 83, PDF 84) — các thao tác tạo, đổi tên, di chuyển, sao chép, xoá tệp và thư mục trên máy tính.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 84,
+        "printed_page": 83
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-ung-dung-quan-li-tep",
+      "term": "Ứng dụng quản lí tệp",
+      "aliases": [
+        "File Explorer",
+        "Windows Explorer"
+      ],
+      "english": "File manager (File Explorer; Windows Explorer)",
+      "notation": null,
+      "meaning": "Ứng dụng quản lí tệp có chức năng hiển thị nội dung của các thư mục và giúp em tổ chức, sắp xếp các thư mục và các tệp trên ổ cứng. Trong Windows 10 ứng dụng này là File Explorer; từ Windows 7 trở về trước có tên là Windows Explorer.",
+      "usage_context": "Bài 3, mục 3 (trang 16, PDF 17) — công cụ hệ thống dùng để điều hướng và thực hiện các thao tác quản lí tệp, thư mục.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "3",
+        "pdf_page": 17,
+        "printed_page": 16
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-kenh-trao-doi-thong-tin-tren-internet",
+      "term": "Kênh trao đổi thông tin trên Internet",
+      "aliases": [],
+      "english": "Online communication channels",
+      "notation": null,
+      "meaning": "Một số kênh trao đổi thông tin phổ biến trên Internet hiện nay là: thư điện tử, diễn đàn (Forum), mạng xã hội,... Thông tin trên Internet được liên tục cập nhật, chúng tồn tại với nhiều dạng khác nhau như dạng văn bản, hình ảnh, âm thanh, video, phần mềm,...",
+      "usage_context": "Bài 4, mục 1a và hộp kiến thức (trang 18–19, PDF 19–20) — nhận diện các kênh trao đổi thông tin thông dụng và các dạng thông tin trao đổi trên đó.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "1.a",
+        "pdf_page": 19,
+        "printed_page": 18
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-dien-dan",
+      "term": "Diễn đàn",
+      "aliases": [
+        "Forum"
+      ],
+      "english": "Forum",
+      "notation": null,
+      "meaning": "Nơi mọi người có thể cùng nhau thảo luận, chia sẻ kiến thức về một chủ đề nào đó. Là hình thức thảo luận không trực tiếp, bài viết hoặc ý kiến của bạn có thể nhận được phản hồi ngay, cũng có khi vài ngày hoặc lâu hơn.",
+      "usage_context": "Bài 4, mục 1a và Bảng 4.1 (trang 18–19, PDF 19–20) — một kênh trao đổi thông tin và thảo luận học tập phổ biến trên Internet (ví dụ diễn đàn trên Scratch).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "1.a",
+        "pdf_page": 19,
+        "printed_page": 18
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-mang-xa-hoi",
+      "term": "Mạng xã hội",
+      "aliases": [],
+      "english": "Social network",
+      "notation": null,
+      "meaning": "Mạng xã hội là một cộng đồng trực tuyến để mọi người có thể tương tác với nhau. Cách tổ chức mạng xã hội phổ biến nhất để người sử dụng tham gia là dưới dạng các website.",
+      "usage_context": "Bài 4, mục 1b (trang 19, PDF 20) — định nghĩa mạng xã hội và hình thức tổ chức phổ biến dưới dạng website (Facebook, Zalo, YouTube, Instagram, Scratch,...).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "1.b",
+        "pdf_page": 20,
+        "printed_page": 19
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-chuc-nang-co-ban-cua-mang-xa-hoi",
+      "term": "Chức năng cơ bản của mạng xã hội",
+      "aliases": [],
+      "english": "Core functions of social networks",
+      "notation": null,
+      "meaning": "Mạng xã hội giúp người sử dụng kết nối, giao lưu, chia sẻ và thảo luận các vấn đề mà họ quan tâm; cung cấp những cách thức giao tiếp khác nhau như tin nhắn riêng tư, đưa ra nhận xét trên trang của bạn bè, đăng ảnh và video lên, thảo luận học tập, chơi trò chơi trực tuyến,...",
+      "usage_context": "Bài 4, mục 1b và hộp kiến thức (trang 19–20, PDF 20–21) — các chức năng tương tác, giao lưu và chia sẻ thông tin của mạng xã hội.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "1.b",
+        "pdf_page": 20,
+        "printed_page": 19
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-tinh-hai-mat-cua-mang-xa-hoi",
+      "term": "Tính hai mặt của mạng xã hội",
+      "aliases": [],
+      "english": "Dual nature of social networks",
+      "notation": null,
+      "meaning": "Mạng xã hội luôn có tính hai mặt, tốt và xấu: giúp kết nối bạn bè, tiếp nhận thông tin, học hỏi kiến thức, kĩ năng, nhưng nếu sử dụng vào mục đích sai trái như đăng thông tin giả, đe doạ, bắt nạt, chia sẻ đề thi,... sẽ gây hậu quả cho người khác và bản thân. Một số mạng xã hội quy định độ tuổi tối thiểu tham gia phổ biến là từ 13 tuổi trở lên.",
+      "usage_context": "Bài 4, mục 1b (trang 19–20, PDF 20–21) — lưu ý cân nhắc độ tuổi, tuân thủ quy định pháp luật và phòng tránh hậu quả khi sử dụng mạng xã hội vào mục đích sai trái.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "1.b",
+        "pdf_page": 20,
+        "printed_page": 19
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-hop-trang-thai",
+      "term": "Hộp trạng thái",
+      "aliases": [],
+      "english": "Status box",
+      "notation": null,
+      "meaning": "Em có thể nhập nội dung văn bản vào hộp trạng thái hoặc có thể thêm ảnh, video từ máy tính của mình bằng cách nháy chuột vào Ảnh/Video, rồi nháy chuột vào nút Đăng/Post để hoàn thành việc chia sẻ nội dung.",
+      "usage_context": "Bài 4, mục 2b (trang 21, PDF 22) — vùng nhập nội dung văn bản, ảnh, video để đăng bài chia sẻ trên trang mạng xã hội cá nhân.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "2.b",
+        "pdf_page": 22,
+        "printed_page": 21
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-2.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-giao-tiep-qua-mang",
+      "term": "Giao tiếp qua mạng",
+      "aliases": [],
+      "english": "Online communication",
+      "notation": null,
+      "meaning": "Một số phương thức giao tiếp qua mạng phổ biến là: gửi và nhận thư điện tử, gửi và nhận tin nhắn, nói chuyện trực tuyến thông qua các ứng dụng, trên các diễn đàn, trên mạng xã hội,... Các mối quan hệ qua mạng thường có phạm vi rộng, đa dạng và khó kiểm soát hơn trong đời thực.",
+      "usage_context": "Bài 5, mục 1 (trang 23, PDF 24) — các phương thức giao tiếp trên Internet và đặc điểm khác biệt so với giao tiếp trực tiếp.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "1",
+        "pdf_page": 24,
+        "printed_page": 23
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-ung-xu-co-van-hoa-qua-mang",
+      "term": "Ứng xử có văn hoá qua mạng",
+      "aliases": [],
+      "english": "Civilized online behavior / Netiquette",
+      "notation": null,
+      "meaning": "Luôn sử dụng ngôn ngữ lịch sự và ứng xử có văn hoá khi tham gia giao tiếp qua mạng. Không nên có lời nói, cách ứng xử nào qua mạng mà em không thực hiện như vậy khi gặp trực tiếp!",
+      "usage_context": "Bài 5, mục 1 (trang 24, PDF 25) — quy tắc cốt lõi khi giao tiếp qua mạng: tôn trọng mọi người, bảo vệ tài khoản cá nhân, nhờ bố mẹ và thầy cô hỗ trợ khi gặp vấn đề.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "1",
+        "pdf_page": 25,
+        "printed_page": 24
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-truy-cap-mang",
+      "term": "Truy cập mạng",
+      "aliases": [],
+      "english": "Network access",
+      "notation": null,
+      "meaning": "Sử dụng thiết bị đầu cuối để tham gia mạng máy tính, có thể kết nối với Internet để sử dụng các dịch vụ như eMail, web,...",
+      "usage_context": "Bài 5, mục 2 (trang 24, PDF 25) và Bảng giải thích thuật ngữ (trang 83, PDF 84) — hoạt động kết nối và khai thác thông tin, dịch vụ trên mạng máy tính và Internet.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "2",
+        "pdf_page": 25,
+        "printed_page": 24
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-thong-tin-co-noi-dung-xau-tren-mang",
+      "term": "Thông tin có nội dung xấu trên mạng",
+      "aliases": [],
+      "english": "Harmful online content",
+      "notation": null,
+      "meaning": "Nhiều trang web chứa nội dung xấu, thông tin không phù hợp với lứa tuổi mà chúng ta cần tránh như nội dung khiêu dâm, cờ bạc, chất gây nghiện, kích động bạo lực,... Cần chỉ truy cập trang web phù hợp lứa tuổi, hỏi ý kiến người lớn khi cần thiết và đóng ngay trang có nội dung xấu nếu vô tình truy cập vào.",
+      "usage_context": "Bài 5, mục 2 (trang 24–25, PDF 25–26) — nhận diện và cách ứng xử hợp lí khi gặp nguồn thông tin xấu, không phù hợp lứa tuổi trên mạng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "2",
+        "pdf_page": 25,
+        "printed_page": 24
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-phan-mem-chan-truy-cap-trang-web-xau",
+      "term": "Phần mềm chặn truy cập trang web xấu",
+      "aliases": [],
+      "english": "Content-filtering software / Website blocker",
+      "notation": null,
+      "meaning": "Sử dụng phần mềm chặn truy cập trang web xấu là một cách bảo vệ người sử dụng trên mạng; học sinh nên nhờ người lớn cài phần mềm chặn truy cập các trang web xấu bên cạnh việc tự xây dựng ý thức tốt cho bản thân.",
+      "usage_context": "Bài 5, mục 2 (trang 24–25, PDF 25–26) — biện pháp kĩ thuật hỗ trợ ngăn chặn truy cập không hợp lệ vào các trang web độc hại.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "2",
+        "pdf_page": 25,
+        "printed_page": 24
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-benh-nghien-internet",
+      "term": "Bệnh nghiện Internet",
+      "aliases": [
+        "nghiện Internet"
+      ],
+      "english": "Internet addiction",
+      "notation": null,
+      "meaning": "Chơi trò chơi điện tử quá nhiều, sử dụng mạng xã hội liên tục làm ảnh hưởng tới mối quan hệ với gia đình và bạn bè, tới việc học tập của bản thân thì được coi là biểu hiện của bệnh nghiện Internet. Nghiện Internet gây ảnh hưởng xấu tới sức khoẻ thể chất, tinh thần, kết quả học tập và khả năng giao tiếp với mọi người xung quanh.",
+      "usage_context": "Bài 5, mục 3 (trang 25–26, PDF 26–27) — nhận diện biểu hiện và các tác hại nghiêm trọng của việc lạm dụng Internet.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "3",
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-bat-nat-tren-mang",
+      "term": "Bắt nạt trên mạng",
+      "aliases": [],
+      "english": "Cyberbullying",
+      "notation": null,
+      "meaning": "Hành vi hung hăng, cố ý làm tổn thương hoặc đe doạ nhằm vào người khác trên mạng, biểu hiện dưới nhiều hình thức như phát tán tin đồn không đúng về người khác; để lại tin nhắn nói xấu người khác trong diễn đàn; chia sẻ ảnh và thông tin cá nhân của người khác mà không được sự đồng ý.",
+      "usage_context": "Bài 5, mục 3 (trang 25–26, PDF 26–27) — nguy cơ tiêu cực trên môi trường mạng cần phòng tránh và tìm sự hỗ trợ của người lớn khi gặp phải.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "3",
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-nghien-tro-choi-truc-tuyen",
+      "term": "Nghiện trò chơi trực tuyến",
+      "aliases": [],
+      "english": "Online gaming addiction",
+      "notation": null,
+      "meaning": "Nhiều người nghiện Internet từ việc chơi trò chơi trực tuyến quá nhiều, phải đối mặt với áp lực chơi trong thời gian dài để đạt mục tiêu trò chơi đưa ra, dẫn đến tâm trạng dễ cáu gắt, lầm lì, ít nói và cảm thấy thiếu thốn, bồn chồn, khó chịu những lúc không được chơi.",
+      "usage_context": "Bài 5, mục 3 (trang 26, PDF 27) — một hệ quả phổ biến của nghiện Internet tàn phá sức khoẻ thể chất và tinh thần.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "3",
+        "pdf_page": 27,
+        "printed_page": 26
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-phong-tranh-benh-nghien-internet",
+      "term": "Phòng tránh bệnh nghiện Internet",
+      "aliases": [],
+      "english": "Preventing Internet addiction",
+      "notation": null,
+      "meaning": "Dành thời gian với người thân và bạn bè, hạn chế để thiết bị kết nối Internet trong phòng riêng, giới hạn thời gian sử dụng, theo đuổi những sở thích không liên quan quá nhiều đến thiết bị điện tử là những cách thức tốt để phòng tránh nguy cơ nghiện Internet.",
+      "usage_context": "Bài 5, mục 3 (trang 27, PDF 28) — bốn nhóm lời khuyên (Chia sẻ, Rời xa, Giới hạn, Theo đuổi) giúp quản lí thời gian sử dụng mạng an toàn, hợp lí.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "3",
+        "pdf_page": 28,
+        "printed_page": 27
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-3.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-phan-mem-bang-tinh",
+      "term": "Phần mềm bảng tính",
+      "aliases": [
+        "chương trình bảng tính",
+        "phần mềm bảng tính điện tử"
+      ],
+      "english": "Spreadsheet software",
+      "notation": null,
+      "meaning": "Phần mềm bảng tính là phần mềm ứng dụng giúp trình bày thông tin dưới dạng bảng một cách cô đọng và dễ so sánh, thực hiện các tính toán phổ biến (tính tổng, trung bình cộng, xác định giá trị lớn nhất, nhỏ nhất,...), vẽ các biểu đồ minh hoạ các số liệu tương ứng; nếu dữ liệu gốc thay đổi, kết quả tính toán trên các số liệu đó sẽ được tự động cập nhật.",
+      "usage_context": "Bài 6, mục 1 (trang 28–29) — giới thiệu chức năng cơ bản và các phần mềm bảng tính phổ biến như Google Sheets, Microsoft Excel, Libre Calc.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1",
+        "pdf_page": 29,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-vung-nhap-du-lieu",
+      "term": "Vùng nhập dữ liệu",
+      "aliases": [],
+      "english": "Formula bar",
+      "notation": null,
+      "meaning": "Vùng nhập dữ liệu là nơi thực hiện trực tiếp việc nhập dữ liệu vào bảng tính.",
+      "usage_context": "Bài 6, mục 1 và mục 2.a–b (trang 29, 31) — thanh nằm phía trên trang tính dùng để nhập trực tiếp hoặc chỉnh sửa dữ liệu, công thức của ô hiện thời.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 29
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-trang-tinh",
+      "term": "Trang tính",
+      "aliases": [],
+      "english": "Worksheet / Sheet",
+      "notation": null,
+      "meaning": "Dữ liệu được lưu trữ trong các trang tính. Mỗi bảng tính có thể chứa nhiều trang tính. Mỗi trang tính là một lưới dữ liệu gồm các hàng và cột. Tên của trang tính nằm ở phía dưới cửa sổ bảng tính.",
+      "usage_context": "Bài 6, mục 1 (trang 29) và Bài 10, mục 1.a (trang 51–52) — đơn vị lưới dữ liệu (mặc định `Sheet1`, `Sheet2`,...) bên trong một tệp bảng tính.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 29
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-hang-cua-trang-tinh",
+      "term": "Hàng của trang tính",
+      "aliases": [
+        "hàng"
+      ],
+      "english": "Row",
+      "notation": null,
+      "meaning": "Các hàng của trang tính được đặt tên bằng các số: 1, 2, 3,... theo thứ tự từ trên xuống dưới.",
+      "usage_context": "Bài 6, mục 1 (trang 29) — thành phần nằm ngang của trang tính, có tên số hiển thị ở cột ghi tên hàng bên trái.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 29
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-cot-cua-trang-tinh",
+      "term": "Cột của trang tính",
+      "aliases": [
+        "cột"
+      ],
+      "english": "Column",
+      "notation": null,
+      "meaning": "Các cột của trang tính được đặt tên bằng các chữ cái: A, B, C,... theo thứ tự từ trái sang phải.",
+      "usage_context": "Bài 6, mục 1 (trang 29) — thành phần thẳng đứng của trang tính, có tên chữ cái hiển thị ở hàng ghi tên cột phía trên.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 29
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-o-tinh",
+      "term": "Ô tính",
+      "aliases": [
+        "ô"
+      ],
+      "english": "Cell",
+      "notation": null,
+      "meaning": "Giao của một hàng và một cột trên trang tính tạo thành một ô tính (gọi tắt là ô).",
+      "usage_context": "Bài 6, mục 1 (trang 29) — đơn vị cơ bản trên trang tính dùng để lưu trữ văn bản, số, ngày tháng hoặc công thức.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 29
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-o-hien-thoi",
+      "term": "Ô hiện thời",
+      "aliases": [],
+      "english": "Active cell / Current cell",
+      "notation": null,
+      "meaning": "Luôn có một ô tính là ô hiện thời mà chúng ta đang quan sát, đang nhập dữ liệu hoặc tính toán. Ô hiện thời luôn được đóng khung. Địa chỉ của ô hiện thời luôn hiển thị tại hộp địa chỉ nằm bên trái vùng nhập dữ liệu.",
+      "usage_context": "Bài 6, mục 1 (trang 29–30) — ô đang được chọn trên trang tính (hoặc ô chọn đầu tiên khi kéo thả chọn một vùng).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 29
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-hop-dia-chi",
+      "term": "Hộp địa chỉ",
+      "aliases": [],
+      "english": "Name box",
+      "notation": null,
+      "meaning": "Địa chỉ của ô hiện thời luôn hiển thị tại hộp địa chỉ nằm bên trái vùng nhập dữ liệu.",
+      "usage_context": "Bài 6, mục 1 (trang 29) — ô nằm bên trái vùng nhập dữ liệu trên giao diện bảng tính cho biết địa chỉ của ô hiện thời.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1",
+        "pdf_page": 30,
+        "printed_page": 29
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-dia-chi-cua-o",
+      "term": "Địa chỉ của ô",
+      "aliases": [
+        "địa chỉ ô"
+      ],
+      "english": "Cell address / Cell reference",
+      "notation": null,
+      "meaning": "Mỗi ô trên trang tính được đánh địa chỉ theo cột và hàng, ví dụ A1, B3, C10,... Địa chỉ của ô được quy định là tên cột ghép với tên hàng: `<địa chỉ ô> = <tên cột> <tên hàng>`.",
+      "usage_context": "Bài 6, mục 1 (trang 30–31) — cách xác định vị trí duy nhất của từng ô trên trang tính và tham chiếu trong công thức.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1",
+        "pdf_page": 31,
+        "printed_page": 30
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-vung-du-lieu",
+      "term": "Vùng dữ liệu",
+      "aliases": [
+        "vùng"
+      ],
+      "english": "Data range / Cell range",
+      "notation": null,
+      "meaning": "Nhiều ô liền kề tạo thành hình chữ nhật trên trang tính được gọi là vùng dữ liệu (gọi tắt là vùng).",
+      "usage_context": "Bài 6, mục 1 (trang 30–31) — khối các ô hình chữ nhật liền kề được chọn để định dạng, sao chép hoặc đưa vào tham số hàm.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1",
+        "pdf_page": 31,
+        "printed_page": 30
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-dia-chi-vung",
+      "term": "Địa chỉ vùng",
+      "aliases": [],
+      "english": "Range address",
+      "notation": null,
+      "meaning": "Vùng dữ liệu được đánh địa chỉ theo địa chỉ của ô góc trên bên trái và ô góc dưới bên phải, cách nhau bởi dấu \":\". Ví dụ B4:E11 là một địa chỉ của một vùng dữ liệu.",
+      "usage_context": "Bài 6, mục 1 (trang 30–31) — quy ước viết địa chỉ vùng dữ liệu theo mẫu `<địa chỉ ô góc trên bên trái> : <địa chỉ ô góc dưới bên phải>`.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "1",
+        "pdf_page": 31,
+        "printed_page": 30
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-kieu-du-lieu-tren-bang-tinh",
+      "term": "Kiểu dữ liệu trên bảng tính",
+      "aliases": [],
+      "english": "Data types in a spreadsheet",
+      "notation": null,
+      "meaning": "Khi nhập dữ liệu vào các ô trong trang tính, phần mềm sẽ tự động nhận biết được kiểu dữ liệu đã nhập và hiển thị theo khuôn dạng mặc định. Dữ liệu trong ô tính có thể thuộc kiểu văn bản, số, ngày tháng và công thức.",
+      "usage_context": "Bài 7, mục 1 (trang 34–35) — phân loại dữ liệu cơ bản trong ô tính (mặc định văn bản căn trái; số và ngày tháng căn phải).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "1",
+        "pdf_page": 35,
+        "printed_page": 34
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-cong-thuc",
+      "term": "Công thức",
+      "aliases": [],
+      "english": "Formula",
+      "notation": null,
+      "meaning": "Công thức có dạng các biểu thức toán học được nhập trực tiếp vào ô tính để thực hiện các tính toán với dữ liệu một cách nhanh chóng. Muốn nhập công thức cần gõ dấu “=” đầu tiên, sau đó gõ biểu thức chứa các số, địa chỉ ô, phép toán (`+`, `–`, `*`, `/`, `^`) và các dấu ngoặc tròn.",
+      "usage_context": "Bài 7, mục 1–2 (trang 34–35) — biểu thức bắt đầu bằng dấu `=` trong ô tính tuân theo thứ tự thực hiện phép toán giống như trong toán học.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "1",
+        "pdf_page": 35,
+        "printed_page": 34
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-tinh-toan-tu-dong",
+      "term": "Tính toán tự động",
+      "aliases": [
+        "tự động tính toán"
+      ],
+      "english": "Automatic calculation",
+      "notation": null,
+      "meaning": "Khi nhập công thức vào ô tính, nếu tính toán với giá trị từ các ô dữ liệu khác thì trong công thức cần ghi địa chỉ của ô dữ liệu tương ứng; công thức sẽ tự động cập nhật nếu các dữ liệu có liên quan thay đổi.",
+      "usage_context": "Bài 7, mục 2–3 (trang 35–37) — đặc trưng ưu việt của phần mềm bảng tính khi dùng địa chỉ ô trong công thức và khi sao chép công thức.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "2",
+        "pdf_page": 36,
+        "printed_page": 35
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-sao-chep-cong-thuc",
+      "term": "Sao chép công thức",
+      "aliases": [],
+      "english": "Copying formulas",
+      "notation": null,
+      "meaning": "Khi sao chép một ô có công thức chứa địa chỉ, các địa chỉ được điều chỉnh để giữ nguyên vị trí tương đối giữa ô chứa công thức và ô có địa chỉ trong công thức. Chức năng tính toán tự động của phần mềm bảng tính còn được thể hiện khi sao chép công thức.",
+      "usage_context": "Bài 7, mục 3 (trang 36–37) — thao tác dùng `Ctrl+C` và `Ctrl+V` để tính nhanh hàng loạt dữ liệu cùng quy tắc trên bảng tính.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "3",
+        "pdf_page": 38,
+        "printed_page": 37
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-ham",
+      "term": "Hàm",
+      "aliases": [
+        "hàm trong bảng tính",
+        "hàm số"
+      ],
+      "english": "Function",
+      "notation": null,
+      "meaning": "Trong phần mềm bảng tính, hàm là công thức (hoặc kết hợp nhiều công thức) được định nghĩa từ trước. Hàm được sử dụng để thực hiện tính toán theo công thức với các giá trị dữ liệu cụ thể.",
+      "usage_context": "Bài 8, Khởi động và mục 1 (trang 39–40) — công cụ tính toán định nghĩa sẵn xác định bởi tên hàm, ý nghĩa hàm và danh sách các tham số.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": null,
+        "pdf_page": 40,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-cu-phap-nhap-ham",
+      "term": "Cú pháp nhập hàm",
+      "aliases": [
+        "cách sử dụng hàm"
+      ],
+      "english": "Function syntax",
+      "notation": null,
+      "meaning": "Cách nhập hàm tương tự như cách nhập công thức. Cú pháp nhập hàm: `= <tên hàm>(<các tham số>)`. Cần nhập chính xác tên của hàm và các tham số của hàm; tên hàm có thể dùng chữ in hoa hoặc in thường.",
+      "usage_context": "Bài 8, mục 1 (trang 40–41) — quy tắc viết công thức hàm với các tham số là số, địa chỉ ô hoặc địa chỉ vùng dữ liệu cách nhau bởi dấu `,` hoặc `;`.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "1",
+        "pdf_page": 42,
+        "printed_page": 41
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-sum",
+      "term": "SUM",
+      "aliases": [
+        "hàm SUM"
+      ],
+      "english": "SUM function",
+      "notation": null,
+      "meaning": "Tính tổng các giá trị số có trong các ô, vùng hoặc số có trong danh sách v1, v2,... với cách viết `SUM(v1,v2,...)`.",
+      "usage_context": "Bài 8, mục 1–2, Bảng 8.2 (trang 39–42) — hàm thông dụng tính tổng các ô chứa dữ liệu số, bỏ qua ô chứa văn bản hoặc ô trống.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2",
+        "pdf_page": 43,
+        "printed_page": 42
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-average",
+      "term": "AVERAGE",
+      "aliases": [
+        "hàm AVERAGE"
+      ],
+      "english": "AVERAGE function",
+      "notation": null,
+      "meaning": "Tính trung bình các giá trị số có trong các ô, vùng hoặc số có trong danh sách v1, v2,... với cách viết `AVERAGE(v1,v2,...)`.",
+      "usage_context": "Bài 8, mục 1–2, Bảng 8.2 (trang 39, 41–42) — hàm tính giá trị trung bình cộng của các ô chứa dữ liệu số, bỏ qua ô văn bản hoặc ô trống.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2",
+        "pdf_page": 43,
+        "printed_page": 42
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-min",
+      "term": "MIN",
+      "aliases": [
+        "hàm MIN"
+      ],
+      "english": "MIN function",
+      "notation": null,
+      "meaning": "Tìm giá trị nhỏ nhất trong các giá trị số có trong các ô, vùng hoặc số có trong danh sách v1, v2,... với cách viết `MIN(v1,v2,...)`.",
+      "usage_context": "Bài 8, mục 2, Bảng 8.2 (trang 41–42) — hàm xác định giá trị số nhỏ nhất trong danh sách tham số, bỏ qua ô văn bản hoặc ô trống.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2",
+        "pdf_page": 43,
+        "printed_page": 42
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-max",
+      "term": "MAX",
+      "aliases": [
+        "hàm MAX"
+      ],
+      "english": "MAX function",
+      "notation": null,
+      "meaning": "Tìm giá trị lớn nhất trong các giá trị số có trong các ô, vùng hoặc số có trong danh sách v1, v2,... với cách viết `MAX(v1,v2,...)`.",
+      "usage_context": "Bài 8, mục 2, Bảng 8.2 (trang 41–42) — hàm xác định giá trị số lớn nhất trong danh sách tham số, bỏ qua ô văn bản hoặc ô trống.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2",
+        "pdf_page": 43,
+        "printed_page": 42
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-count",
+      "term": "COUNT",
+      "aliases": [
+        "hàm COUNT"
+      ],
+      "english": "COUNT function",
+      "notation": null,
+      "meaning": "Đếm số các giá trị là số có trong các ô, vùng hoặc số có trong danh sách v1, v2,... với cách viết `COUNT(v1,v2,...)`.",
+      "usage_context": "Bài 8, mục 2, Bảng 8.2 (trang 41–42) và Bài 9, mục 3 (trang 49) — hàm đếm số lượng các ô chứa dữ liệu số, bỏ qua ô văn bản hoặc ô trống.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2",
+        "pdf_page": 43,
+        "printed_page": 42
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-dinh-dang-du-lieu",
+      "term": "Định dạng dữ liệu",
+      "aliases": [],
+      "english": "Data formatting",
+      "notation": null,
+      "meaning": "Thiết lập cách thức thể hiện của dữ liệu, để người dùng dễ quan sát và phân biệt những dữ liệu khác nhau.",
+      "usage_context": "Bài 6, mục 2.c (trang 32), Bài 8, mục 3.e (trang 44), Bài 9, mục 1 (trang 45–47) và Bảng giải thích thuật ngữ (trang 83) — thiết lập phông chữ, kiểu chữ, màu sắc, căn lề và khuôn dạng hiển thị số mà không làm thay đổi giá trị dữ liệu gốc.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 84,
+        "printed_page": 83
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-dinh-dang-du-lieu-so",
+      "term": "Định dạng dữ liệu số",
+      "aliases": [],
+      "english": "Number formatting",
+      "notation": null,
+      "meaning": "Tất cả các phần mềm bảng tính đều cho phép thiết lập cách định dạng thể hiện các số nguyên hoặc số thực. Có thể định dạng dữ liệu số theo các kiểu khác nhau như xác định số chữ số thập phân, phân tách hàng nghìn, hàng triệu,... trong cửa sổ Format Cells.",
+      "usage_context": "Bài 9, mục 1.a (trang 45–47) — mở cửa sổ `Format Cells` từ nhóm lệnh `Number` của thẻ `Home` để quy định số chữ số thập phân và dấu `,` ngăn cách hàng nghìn.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "1.a",
+        "pdf_page": 46,
+        "printed_page": 45
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-dinh-dang-du-lieu-kieu-phan-tram",
+      "term": "Định dạng dữ liệu kiểu phần trăm",
+      "aliases": [],
+      "english": "Percentage formatting",
+      "notation": null,
+      "meaning": "Phần mềm bảng tính có lệnh để hiển thị các giá trị (là tỉ lệ giữa hai số a, b nào đó) để giá trị này thể hiện trên bảng tính là số phần trăm. Thao tác thực hiện: đánh dấu vùng dữ liệu, trong cửa sổ Format Cells, chọn Number, chọn kiểu Percentage, nháy chuột chọn OK.",
+      "usage_context": "Bài 9, mục 1.b (trang 46) — hiển thị tỉ lệ `a/b` thành số phần trăm `(a/b) × 100(%)` trên bảng tính.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "1.b",
+        "pdf_page": 47,
+        "printed_page": 46
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-dinh-dang-du-lieu-ngay-thang",
+      "term": "Định dạng dữ liệu ngày tháng",
+      "aliases": [],
+      "english": "Date formatting",
+      "notation": null,
+      "meaning": "Các phần mềm bảng tính cho phép nhập dữ liệu ngày tháng theo khuôn dạng: mm/dd/yyyy và mặc định thể hiện trên màn hình dưới dạng \"mm/dd/yyyy\". Muốn thay đổi lại cách thể hiện ngày tháng (ví dụ kiểu dd/mm/yyyy của Việt Nam), đánh dấu vùng dữ liệu và thiết lập trong mục Date của cửa sổ Format Cells; việc chỉnh sửa chỉ thay đổi cách hiển thị, còn việc nhập dữ liệu vẫn cần tuân theo thứ tự mặc định của phần mềm.",
+      "usage_context": "Bài 9, mục 1.c (trang 46–47) — thiết lập kiểu hiển thị ngày tháng của Việt Nam (`dd/mm/yyyy`) trong `Format Cells`.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "1.c",
+        "pdf_page": 47,
+        "printed_page": 46
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-an-hien-hang-va-cot",
+      "term": "Ẩn, hiện hàng và cột",
+      "aliases": [],
+      "english": "Hide and Unhide rows and columns",
+      "notation": null,
+      "meaning": "Trong khi làm việc, một số hàng hoặc cột của bảng tính có thể ẩn đi với mục đích làm gọn bảng tính, dễ quan sát (chọn hàng hoặc cột, nháy nút phải chuột và chọn Hide). Khi cần có thể hiển thị lại các hàng, cột đã ẩn bất cứ lúc nào (chọn các hàng, cột xung quanh vị trí bị ẩn, nháy nút phải chuột và chọn Unhide).",
+      "usage_context": "Bài 9, mục 2.a (trang 48) — thao tác làm gọn bảng tính tạm thời mà không xoá mất dữ liệu trong các hàng, cột đó.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2.a",
+        "pdf_page": 49,
+        "printed_page": 48
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-gop-cac-o-cua-mot-vung-du-lieu",
+      "term": "Gộp các ô của một vùng dữ liệu",
+      "aliases": [
+        "gộp ô"
+      ],
+      "english": "Merge & Center",
+      "notation": null,
+      "meaning": "Đánh dấu vùng dữ liệu (các ô muốn gộp), chọn Home/Alignment/Merge & Center. Sau khi gộp, ô kết quả sẽ có địa chỉ là ô đầu tiên bên trái của vùng đã gộp và lưu kết quả của ô này. Dữ liệu trong các ô khác sẽ bị xoá khi gộp.",
+      "usage_context": "Bài 9, mục 2.b (trang 48) và Bài 10, mục 3.b (trang 54) — gộp nhiều ô liền kề thành một ô chung để trình bày tiêu đề hoặc nhóm dữ liệu cùng loại.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2.b",
+        "pdf_page": 49,
+        "printed_page": 48
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-cac-thao-tac-voi-trang-tinh",
+      "term": "Các thao tác với trang tính",
+      "aliases": [],
+      "english": "Worksheet operations",
+      "notation": null,
+      "meaning": "Người sử dụng có thể thực hiện các thao tác đa dạng trên trang tính của bảng tính: đổi tên, tạo mới, chèn, sao chép, di chuyển hoặc xoá một trang tính.",
+      "usage_context": "Bài 10, mục 1.a (trang 51–52) — quản lí danh sách các trang tính ở phía dưới cửa sổ bảng tính (`Delete`, `Insert/Worksheet`, `Move or Copy`, kéo thả đổi thứ tự).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "1.b",
+        "pdf_page": 53,
+        "printed_page": 52
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-ke-duong-vien-o-va-khung-bao-quanh-vung-du-lieu",
+      "term": "Kẻ đường viền ô và khung bao quanh vùng dữ liệu",
+      "aliases": [],
+      "english": "Cell borders",
+      "notation": null,
+      "meaning": "Trên màn hình máy tính mỗi trang tính là một lưới các ô nhưng mặc định khi in dữ liệu thì các đường lưới không được in ra. Vì vậy, trước khi in dữ liệu của bảng tính cần kẻ đường viền ô và khung bao quanh vùng dữ liệu nếu cần bằng trang Border trong cửa sổ Format Cells.",
+      "usage_context": "Bài 10, mục 1.b (trang 52) — thiết lập kiểu đường kẻ, màu sắc, khung ngoài (`Outline`) và đường viền ô bên trong (`Inside`) trước khi in hoặc trình bày dữ liệu.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "1.b",
+        "pdf_page": 53,
+        "printed_page": 52
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-in-du-lieu-trong-bang-tinh",
+      "term": "In dữ liệu trong bảng tính",
+      "aliases": [],
+      "english": "Printing a spreadsheet",
+      "notation": null,
+      "meaning": "Có thể in trang tính hiện thời, hoặc toàn bộ bảng tính, hoặc có thể chỉ in vùng dữ liệu đang chọn, phần mềm sẽ tự động tính toán để in bằng cách đánh dấu vùng dữ liệu muốn in và thực hiện lệnh File/Print.",
+      "usage_context": "Bài 10, mục 2 (trang 53) — chọn số bản in, máy in, vùng in, hướng giấy, kích thước giấy và xem trước kết quả trong hộp thoại `Print`.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 54,
+        "printed_page": 53
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-phan-mem-trinh-chieu",
+      "term": "Phần mềm trình chiếu",
+      "aliases": [],
+      "english": "Presentation software",
+      "notation": null,
+      "meaning": "Phần mềm trình chiếu là phần mềm được thiết kế để cho phép người sử dụng trình bày thông tin như văn bản, hình ảnh, âm thanh và video dưới hình thức trình chiếu một cách hấp dẫn và hiệu quả.",
+      "usage_context": "Bài 11, mục 1 (trang 55–56) — phần mềm có hai chức năng cơ bản là tạo bài trình chiếu và trình chiếu phục vụ hội thảo, hội nghị, dạy học, quảng cáo.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "1",
+        "pdf_page": 56,
+        "printed_page": 55
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-trang-chieu",
+      "term": "Trang chiếu",
+      "aliases": [
+        "slide"
+      ],
+      "english": "Slide",
+      "notation": null,
+      "meaning": "Mỗi bài trình chiếu gồm một hay nhiều trang chiếu (slide) được đánh số thứ tự. Thông tin trên mỗi trang có thể là văn bản, âm thanh, hình ảnh, biểu đồ hay video.",
+      "usage_context": "Bài 11, mục 1–2 (trang 55–56) — từng trang đơn lẻ cấu thành bài trình chiếu, gồm trang tiêu đề và các trang nội dung.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "1",
+        "pdf_page": 56,
+        "printed_page": 55
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-trang-tieu-de",
+      "term": "Trang tiêu đề",
+      "aliases": [
+        "Title Slide"
+      ],
+      "english": "Title slide",
+      "notation": null,
+      "meaning": "Trang tiêu đề (Title Slide) là trang đầu tiên, cho biết chủ đề của bài trình chiếu và còn có thêm thông tin như tên tác giả, ngày trình bày, địa điểm trình bày,... Trang này được ví như cổng vào bài trình chiếu, thu hút sự chú ý của người nghe ngay từ đầu.",
+      "usage_context": "Bài 11, mục 2 và mục 4.a (trang 56, 58) — trang mở đầu tự động tạo khi khởi động phần mềm trình chiếu.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "2",
+        "pdf_page": 57,
+        "printed_page": 56
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-trang-noi-dung",
+      "term": "Trang nội dung",
+      "aliases": [
+        "Title and Content"
+      ],
+      "english": "Content slide",
+      "notation": null,
+      "meaning": "Trang nội dung thường có tiêu đề trang và nội dung (Title and Content). Tiêu đề trang được viết dưới dạng văn bản ở trên đầu mỗi trang làm nổi bật nội dung cần trình bày.",
+      "usage_context": "Bài 11, mục 2 và mục 4.a (trang 56, 58) — các trang trình bày chi tiết từng phần nội dung tiếp theo sau trang tiêu đề của bài trình chiếu.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "2",
+        "pdf_page": 57,
+        "printed_page": 56
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-tieu-de-trang",
+      "term": "Tiêu đề trang",
+      "aliases": [],
+      "english": "Slide title",
+      "notation": null,
+      "meaning": "Tiêu đề trang được viết dưới dạng văn bản ở trên đầu mỗi trang. Tiêu đề trang là thành phần làm nổi bật nội dung cần trình bày.",
+      "usage_context": "Bài 11, mục 2 (trang 56) — dòng tiêu đề đặt trên đầu các trang nội dung giúp người nghe nắm bắt nhanh ý chính của trang.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "2",
+        "pdf_page": 57,
+        "printed_page": 56
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-mau-bo-tri-noi-dung-trang-trinh-chieu",
+      "term": "Mẫu bố trí nội dung trang trình chiếu",
+      "aliases": [
+        "layout"
+      ],
+      "english": "Slide layout",
+      "notation": null,
+      "meaning": "Các phần mềm trình chiếu có sẵn các mẫu bố trí nội dung. Người sử dụng có thể sử dụng các mẫu này hoặc thay đổi bố trí nội dung của trang sao cho phù hợp, hoặc tự tạo mẫu bố trí cho trang chiếu.",
+      "usage_context": "Bài 11, mục 2 và mục 4.a (trang 56, 58) — bố cục sắp xếp các khung tiêu đề và nội dung trên trang chiếu (lệnh `Layout`).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "2",
+        "pdf_page": 57,
+        "printed_page": 56
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-cau-truc-phan-cap",
+      "term": "Cấu trúc phân cấp",
+      "aliases": [
+        "danh sách kí hiệu đầu dòng nhiều cấp"
+      ],
+      "english": "Hierarchical structure / Multilevel list",
+      "notation": null,
+      "meaning": "Một cấu trúc gồm danh sách nhiều cấp, được tổ chức từ cấp cao nhất đến cấp dưới cùng.",
+      "usage_context": "Bài 11, mục 3 và mục 4.b (trang 57, 59–60) và Bảng giải thích thuật ngữ (trang 83) — công cụ trình bày danh sách nhiều cấp (`Increase List Level`/`Tab`, `Decrease List Level`/`Shift+Tab`) giúp nội dung có bố cục mạch lạc, dễ hiểu và quản lí nội dung tốt hơn.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "3",
+        "pdf_page": 58,
+        "printed_page": 57
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-cac-doi-tuong-tren-trang-chieu",
+      "term": "Các đối tượng trên trang chiếu",
+      "aliases": [],
+      "english": "Slide objects",
+      "notation": null,
+      "meaning": "Thành phần của trang chiếu gồm văn bản, hình ảnh, bảng, sơ đồ,...",
+      "usage_context": "Bài 12 (trang 61–67), Bài 13 (trang 68–70) và Bảng giải thích thuật ngữ (trang 83) — các thành phần nội dung được đưa vào, sắp xếp bố cục, định dạng và gán hiệu ứng trên trang chiếu.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-thuat-ngu",
+        "section": null,
+        "pdf_page": 84,
+        "printed_page": 83
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-anh-minh-hoa",
+      "term": "Ảnh minh hoạ",
+      "aliases": [],
+      "english": "Illustration image",
+      "notation": null,
+      "meaning": "Hình ảnh thường được dùng để minh hoạ cho nội dung bài trình chiếu, nhờ đó bài trình chiếu trở nên trực quan, ấn tượng và hấp dẫn hơn. Nên lựa chọn hình ảnh phù hợp với nội dung bài trình chiếu và có tính thẩm mĩ; kích thước hình ảnh và vị trí đặt trên trang chiếu cần hợp lí.",
+      "usage_context": "Bài 12, mục 1 và mục 3.d (trang 61, 65) — lựa chọn và chèn hình ảnh (`Insert/Pictures`) kết hợp hài hoà với văn bản và lưu ý bản quyền hình ảnh.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "1",
+        "pdf_page": 62,
+        "printed_page": 61
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-dinh-dang-van-ban-tren-trang-chieu",
+      "term": "Định dạng văn bản trên trang chiếu",
+      "aliases": [],
+      "english": "Text formatting on a slide",
+      "notation": null,
+      "meaning": "Định dạng văn bản trong phần mềm trình chiếu tương tự như trong phần mềm soạn thảo. Nên chọn phông chữ, cỡ chữ, kiểu chữ, màu chữ, nền,... thống nhất và phù hợp, để làm nổi bật thông điệp chính của trang. Nội dung trình bày nên cô đọng. Mỗi trang chiếu chỉ nên tập trung vào một ý chính.",
+      "usage_context": "Bài 12, mục 2 và mục 3.b (trang 62, 64) — nguyên tắc và công cụ định dạng chữ, căn lề, giãn dòng trên thẻ `Home` để tạo bài trình bày chuyên nghiệp (mỗi trang khoảng 5 đến 7 dòng).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "2",
+        "pdf_page": 63,
+        "printed_page": 62
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-mau-dinh-dang",
+      "term": "Mẫu định dạng",
+      "aliases": [
+        "theme"
+      ],
+      "english": "Theme",
+      "notation": null,
+      "meaning": "Phần mềm trình chiếu cung cấp nhiều mẫu định dạng (theme) đã được thiết kế sẵn, được hiển thị trực quan trong nhóm Themes của thẻ Design giúp việc tạo bài trình chiếu hấp dẫn, chuyên nghiệp, dễ dàng, thuận tiện và tiết kiệm thời gian.",
+      "usage_context": "Bài 12, mục 3.c (trang 65) — thiết kế tổng thể sẵn có về màu sắc, phông chữ, hiệu ứng và nền áp dụng cho một số hoặc toàn bộ các trang chiếu.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "3.c",
+        "pdf_page": 66,
+        "printed_page": 65
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-dinh-dang-cho-hinh-anh-tren-trang-chieu",
+      "term": "Định dạng cho hình ảnh trên trang chiếu",
+      "aliases": [],
+      "english": "Image formatting on a slide",
+      "notation": null,
+      "meaning": "Sau khi chèn hình ảnh vào trang chiếu, em có thể sử dụng các công cụ để: thay đổi vị trí và kích thước, thêm đường viền tạo khung, thay đổi lớp, cắt hình, quay hình,...",
+      "usage_context": "Bài 12, mục 3.e (trang 66–67) — điều chỉnh lớp hiển thị (`Send Backward`, `Bring Forward`), vị trí, kích thước và đường viền (`Picture Border`) để hình ảnh không che mất văn bản và hài hoà với trang chiếu.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "3.e",
+        "pdf_page": 67,
+        "printed_page": 66
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-hieu-ung-dong",
+      "term": "Hiệu ứng động",
+      "aliases": [],
+      "english": "Dynamic effects / Animation and transition effects",
+      "notation": null,
+      "meaning": "Hiệu ứng động là cách thức và thời điểm xuất hiện của các trang chiếu và các đối tượng trên trang khi trình chiếu. Sử dụng hiệu ứng động một cách có chọn lọc giúp cho bài trình chiếu trở nên sinh động và hấp dẫn hơn, thu hút sự chú ý của người xem và tạo hiệu quả tốt trong việc truyền đạt thông tin.",
+      "usage_context": "Bài 13, mục 1 (trang 68–69) và Bảng giải thích thuật ngữ (trang 83) — khái niệm chung bao gồm hiệu ứng cho đối tượng và hiệu ứng chuyển trang chiếu.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "1",
+        "pdf_page": 70,
+        "printed_page": 69
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-hieu-ung-cho-doi-tuong",
+      "term": "Hiệu ứng cho đối tượng",
+      "aliases": [],
+      "english": "Object animation",
+      "notation": null,
+      "meaning": "Hiệu ứng cho các đối tượng trên trang chiếu, gọi là hiệu ứng cho đối tượng.",
+      "usage_context": "Bài 13, mục 1 và mục 2.a (trang 68–69) — hiệu ứng điều khiển cách thức, thứ tự và thời lượng xuất hiện của văn bản, hình ảnh,... trên thẻ `Animations`.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "1",
+        "pdf_page": 69,
+        "printed_page": 68
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-hieu-ung-chuyen-trang-chieu",
+      "term": "Hiệu ứng chuyển trang chiếu",
+      "aliases": [],
+      "english": "Slide transition",
+      "notation": null,
+      "meaning": "Hiệu ứng cho các trang chiếu, gọi là hiệu ứng chuyển trang chiếu.",
+      "usage_context": "Bài 13, mục 1 và mục 2.b (trang 68, 70) — hiệu ứng xuất hiện khi chuyển giữa các trang chiếu được thiết lập thống nhất trên thẻ `Transitions`.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b13",
+        "section": "1",
+        "pdf_page": 69,
+        "printed_page": 68
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-bai-toan-tim-kiem",
+      "term": "Bài toán tìm kiếm",
+      "aliases": [
+        "thuật toán tìm kiếm"
+      ],
+      "english": "Search problem (Search algorithm)",
+      "notation": null,
+      "meaning": "Trong tình huống khởi động, công việc mà An cần làm có thể nêu thành bài toán tìm kiếm như sau: Đầu vào: danh sách khách hàng; họ tên khách hàng cần tìm. Đầu ra: địa chỉ của khách hàng cần tìm.",
+      "usage_context": "Bài 14, mục 1 (trang 71, PDF 72) — xác định đầu vào và đầu ra của bài toán tìm kiếm dữ liệu trong danh sách để thu được thông tin cần thiết một cách hiệu quả.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b14",
+        "section": "1",
+        "pdf_page": 72,
+        "printed_page": 71
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-thuat-toan-tim-kiem-tuan-tu",
+      "term": "Thuật toán tìm kiếm tuần tự",
+      "aliases": [
+        "tìm kiếm tuần tự"
+      ],
+      "english": "Sequential search algorithm (Linear search)",
+      "notation": null,
+      "meaning": "Thuật toán tìm kiếm tuần tự thực hiện tìm lần lượt từ đầu đến cuối danh sách, chừng nào chưa tìm thấy và chưa tìm hết thì còn tìm tiếp.",
+      "usage_context": "Bài 14, mục 1 (trang 71–73, PDF 72–74) — định nghĩa và sơ đồ khối (Hình 14.1) của thuật toán tìm kiếm lần lượt từng phần tử từ đầu đến cuối danh sách sử dụng cấu trúc lặp với hai điều kiện dừng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b14",
+        "section": "1",
+        "pdf_page": 74,
+        "printed_page": 73
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-mo-ta-thuat-toan-tim-kiem-tuan-tu",
+      "term": "Mô tả thuật toán tìm kiếm tuần tự",
+      "aliases": [],
+      "english": "Natural-language description of sequential search",
+      "notation": null,
+      "meaning": "Bước 1. Xét phần tử đầu tiên của danh sách. Bước 2. Nếu giá trị của phần tử đang xét bằng giá trị cần tìm thì chuyển sang Bước 4, nếu không thì thực hiện bước tiếp theo (Bước 3). Bước 3. Kiểm tra đã hết danh sách chưa. Nếu đã hết danh sách thì chuyển sang Bước 5, nếu chưa thì lặp lại từ Bước 2. Bước 4. Trả lời “Tìm thấy” và chỉ ra vị trí phần tử tìm được; Kết thúc. Bước 5. Trả lời “không tìm thấy”; Kết thúc.",
+      "usage_context": "Bài 14, mục 1 (trang 73, PDF 74) — 5 bước liệt kê thuật toán tìm kiếm tuần tự bằng ngôn ngữ tự nhiên.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b14",
+        "section": "1",
+        "pdf_page": 74,
+        "printed_page": 73
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-thuat-toan-tim-kiem-nhi-phan",
+      "term": "Thuật toán tìm kiếm nhị phân",
+      "aliases": [
+        "tìm kiếm nhị phân",
+        "chia đôi"
+      ],
+      "english": "Binary search algorithm (Binary search)",
+      "notation": null,
+      "meaning": "Thực hiện trên danh sách đã được sắp xếp. Bắt đầu từ vị trí ở giữa danh sách. Tại mỗi bước, so sánh giá trị cần tìm với giá trị của vị trí giữa danh sách, nếu lớn hơn thì tìm trong nửa sau của danh sách, nếu nhỏ hơn thì tìm trong nửa trước của danh sách, nếu bằng thì dừng lại. Chừng nào chưa tìm thấy và chưa hết danh sách thì còn tìm tiếp.",
+      "usage_context": "Bài 15, mục 1 (trang 74–76, PDF 75–77) — định nghĩa và minh hoạ hoạt động thu hẹp phạm vi tìm kiếm chỉ còn một nửa tại mỗi bước lặp trên danh sách đã sắp xếp (Hình 15.1).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "1",
+        "pdf_page": 77,
+        "printed_page": 76
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-vung-tim-kiem",
+      "term": "Vùng tìm kiếm",
+      "aliases": [],
+      "english": "Search range (Search interval)",
+      "notation": null,
+      "meaning": "Trong phần mô tả sau đây, ta giả sử danh sách (dãy) đã được sắp xếp theo thứ tự từ nhỏ đến lớn và gọi vùng tìm kiếm là đoạn danh sách mà thuật toán tìm kiếm trên đó. Ban đầu, vùng tìm kiếm là toàn bộ danh sách.",
+      "usage_context": "Bài 15, mục 1 (trang 76, PDF 77) — đoạn danh sách đang được xét trong mỗi bước lặp của thuật toán tìm kiếm nhị phân, được chia thành nửa trước và nửa sau không gồm phần tử giữa (Hình 15.2).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "1",
+        "pdf_page": 77,
+        "printed_page": 76
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-vi-tri-giua-cua-vung-tim-kiem",
+      "term": "Vị trí giữa của vùng tìm kiếm",
+      "aliases": [
+        "vị trí giữa"
+      ],
+      "english": "Middle position",
+      "notation": null,
+      "meaning": "Vị trí giữa của vùng tìm kiếm bằng phần nguyên của (vị trí đầu + vị trí cuối)/2.",
+      "usage_context": "Bài 15, mục 1 (trang 76, PDF 77) — công thức xác định vị trí phần tử ở giữa để chia vùng tìm kiếm thành hai nửa trong cả trường hợp lẻ hoặc chẵn phần tử.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "1",
+        "pdf_page": 77,
+        "printed_page": 76
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-mo-ta-thuat-toan-tim-kiem-nhi-phan",
+      "term": "Mô tả thuật toán tìm kiếm nhị phân",
+      "aliases": [],
+      "english": "Natural-language description of binary search",
+      "notation": null,
+      "meaning": "Bước 1. Nếu vùng tìm kiếm không có phần tử nào thì kết luận không tìm thấy và thuật toán kết thúc. Bước 2. Xác định vị trí giữa của vùng tìm kiếm. Vị trí này chia vùng tìm kiếm thành hai nửa: nửa trước và nửa sau vị trí giữa. Bước 3. Nếu giá trị cần tìm bằng giá trị của vị trí giữa thì kết luận “giá trị cần tìm xuất hiện tại vị trí giữa” và kết thúc. Bước 4. Nếu giá trị cần tìm nhỏ hơn giá trị của vị trí giữa thì vùng tìm kiếm mới được thu hẹp lại, chỉ còn nửa trước của dãy; ngược lại vùng tìm kiếm mới được thu hẹp lại, chỉ còn nửa sau của dãy. Bước 5. Lặp lại từ Bước 1 đến Bước 4 cho đến khi tìm thấy giá trị cần tìm (Bước 3) hoặc vùng tìm kiếm không còn phần tử nào (Bước 1).",
+      "usage_context": "Bài 15, mục 1 (trang 76, PDF 77) — 5 bước liệt kê thuật toán tìm kiếm nhị phân bằng ngôn ngữ tự nhiên trên dãy đã sắp xếp tăng dần.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "1",
+        "pdf_page": 77,
+        "printed_page": 76
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-quy-uoc-so-sanh-ki-tu",
+      "term": "Quy ước so sánh kí tự",
+      "aliases": [],
+      "english": "Character comparison convention",
+      "notation": null,
+      "meaning": "Trong trường hợp so sánh kí tự thì kí tự đứng trước là “nhỏ hơn” kí tự đứng sau trong bảng chữ cái.",
+      "usage_context": "Bài 15, mục 1 (trang 76, PDF 77) — quy tắc so sánh thứ tự chữ cái khi áp dụng thuật toán tìm kiếm nhị phân cho dữ liệu dạng tên hoặc từ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "1",
+        "pdf_page": 77,
+        "printed_page": 76
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-moi-lien-quan-giua-sap-xep-va-tim-kiem",
+      "term": "Mối liên quan giữa sắp xếp và tìm kiếm",
+      "aliases": [],
+      "english": "Relationship between sorting and searching",
+      "notation": null,
+      "meaning": "Sắp xếp giúp cho việc tìm kiếm được thực hiện nhanh hơn. Nhờ việc danh sách đã được sắp xếp, tại mỗi bước, thuật toán tìm kiếm nhị phân thu hẹp được phạm vi tìm kiếm chỉ còn một nửa.",
+      "usage_context": "Bài 15, mục 2 (trang 76–77, PDF 77–78) — giải thích ưu điểm về tốc độ của tìm kiếm nhị phân so với tìm kiếm tuần tự khi dữ liệu đầu vào đã được sắp xếp.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b15",
+        "section": "2",
+        "pdf_page": 78,
+        "printed_page": 77
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-bai-toan-sap-xep",
+      "term": "Bài toán sắp xếp",
+      "aliases": [
+        "thuật toán sắp xếp"
+      ],
+      "english": "Sorting problem (Sorting algorithm)",
+      "notation": null,
+      "meaning": "Máy tính cũng thường xuyên phải thực hiện thuật toán sắp xếp khi người sử dụng yêu cầu. Ví dụ: Sắp xếp điểm trung bình của học sinh trong lớp bằng chương trình bảng tính; Sắp xếp tên tệp trong thư mục;... Có nhiều thuật toán sắp xếp khác nhau.",
+      "usage_context": "Bài 16, mục 1 (trang 78, PDF 79) — bài toán đưa các phần tử của dãy dữ liệu về đúng thứ tự yêu cầu (tăng dần hoặc giảm dần) để hỗ trợ tra cứu, tìm kiếm dễ dàng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "1",
+        "pdf_page": 79,
+        "printed_page": 78
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-thuat-toan-sap-xep-noi-bot",
+      "term": "Thuật toán sắp xếp nổi bọt",
+      "aliases": [
+        "sắp xếp nổi bọt"
+      ],
+      "english": "Bubble sort algorithm (Bubble sort)",
+      "notation": null,
+      "meaning": "Nổi bọt là thuật toán sắp xếp được thực hiện bằng cách hoán đổi nhiều lần các phần tử liền kề nếu giá trị của chúng không đúng thứ tự.",
+      "usage_context": "Bài 16, mục 1 (trang 78–80, PDF 79–81) — định nghĩa và mô phỏng các vòng lặp đưa phần tử nhỏ nhất chưa xét “nổi” dần từ cuối dãy lên đầu dãy (Hình 16.2–16.4).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "1",
+        "pdf_page": 79,
+        "printed_page": 78
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-mo-ta-thuat-toan-sap-xep-noi-bot",
+      "term": "Mô tả thuật toán sắp xếp nổi bọt",
+      "aliases": [],
+      "english": "Natural-language description of bubble sort",
+      "notation": null,
+      "meaning": "Với phần tử đầu tiên, thực hiện một vòng lặp: so sánh hai phần tử đứng cạnh nhau theo thứ tự từ cuối dãy lên phần tử đầu tiên; nếu phần tử đứng sau nhỏ hơn phần tử đứng trước thì đổi chỗ chúng cho nhau; cuối vòng lặp nhận được dãy số với phần tử nhỏ nhất nổi lên vị trí đầu tiên. Thực hiện tương tự với phần tử thứ hai, thứ ba, thứ tư,... đến phần tử trước phần tử cuối cùng để nhận được dãy số đã được sắp xếp theo thứ tự từ nhỏ đến lớn.",
+      "usage_context": "Bài 16, mục 1 (trang 80, PDF 81) — các bước liệt kê thuật toán sắp xếp nổi bọt theo thứ tự tăng dần bằng ngôn ngữ tự nhiên.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "1",
+        "pdf_page": 81,
+        "printed_page": 80
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-thuat-toan-sap-xep-chon",
+      "term": "Thuật toán sắp xếp chọn",
+      "aliases": [
+        "sắp xếp chọn"
+      ],
+      "english": "Selection sort algorithm (Selection sort)",
+      "notation": null,
+      "meaning": "Thuật toán sắp xếp chọn xét từng vị trí từ đầu đến cuối dãy, so sánh trực tiếp phần tử ở vị trí được xét với những phần tử ở phía sau nó và hoán đổi nếu chúng chưa đúng thứ tự.",
+      "usage_context": "Bài 16, mục 2 (trang 80–82, PDF 81–83) — định nghĩa và mô phỏng hoạt động chọn đưa phần tử nhỏ nhất trong các phần tử phía sau về từng vị trí từ đầu đến cuối dãy (Hình 16.5).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "2",
+        "pdf_page": 83,
+        "printed_page": 82
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-mo-ta-thuat-toan-sap-xep-chon",
+      "term": "Mô tả thuật toán sắp xếp chọn",
+      "aliases": [],
+      "english": "Natural-language description of selection sort",
+      "notation": null,
+      "meaning": "Với phần tử đầu tiên, thực hiện một vòng lặp: so sánh từng phần tử (kể từ phần tử thứ hai đến phần tử cuối cùng) với phần tử đầu tiên; nếu phần tử được xét nhỏ hơn phần tử đầu tiên thì hoán đổi nó với phần tử đầu tiên; cuối vòng lặp, nhận được dãy số với phần tử nhỏ nhất được đưa về vị trí đầu tiên. Thực hiện tương tự với phần tử thứ hai, thứ ba, thứ tư,... đến phần tử trước phần tử cuối cùng để nhận được dãy số đã được sắp xếp theo thứ tự từ nhỏ đến lớn.",
+      "usage_context": "Bài 16, mục 2 (trang 81, PDF 82) — các bước liệt kê thuật toán sắp xếp chọn theo thứ tự từ nhỏ đến lớn bằng ngôn ngữ tự nhiên.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "2",
+        "pdf_page": 82,
+        "printed_page": 81
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-bai-toan-hoan-doi-gia-tri",
+      "term": "Bài toán hoán đổi giá trị",
+      "aliases": [
+        "hoán đổi giá trị hai phần tử",
+        "hoán đổi"
+      ],
+      "english": "Swap problem (Swapping two elements)",
+      "notation": null,
+      "meaning": "Trong quá trình thực hiện cả hai thuật toán sắp xếp nổi bọt và sắp xếp chọn, ta đều thấy xuất hiện nhiều lần thuật toán đơn giản hơn: hoán đổi giá trị hai phần tử. Như vậy, bài toán sắp xếp đã được giải quyết dựa trên lời giải của bài toán nhỏ hơn là bài toán hoán đổi giá trị.",
+      "usage_context": "Bài 16, Khởi động và mục 3 (trang 78, 82; PDF 79, 83) — bài toán con đổi chỗ giá trị của hai phần tử thông qua phần tử trung gian (Hình 16.1), được sử dụng lặp lại trong các thuật toán sắp xếp.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "3",
+        "pdf_page": 83,
+        "printed_page": 82
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "note_ids": []
+    },
+    {
+      "id": "tin-hoc-7-chia-bai-toan-thanh-nhung-bai-toan-nho-hon",
+      "term": "Chia bài toán thành những bài toán nhỏ hơn",
+      "aliases": [
+        "chia một bài toán thành những bài toán nhỏ hơn",
+        "chia để trị"
+      ],
+      "english": "Problem decomposition (Divide and conquer)",
+      "notation": null,
+      "meaning": "Việc chia một bài toán thành những bài toán nhỏ hơn giúp việc giải bài toán đó dễ dàng hơn, đồng thời việc mô tả thuật toán dễ hiểu và dễ thực hiện hơn.",
+      "usage_context": "Bài 16, mục 3 (trang 82, PDF 83) — phương pháp giải quyết bài toán dựa trên lời giải của những bài toán nhỏ hơn (như thu hẹp vùng tìm kiếm còn một nửa trong tìm kiếm nhị phân hoặc sử dụng bài toán hoán đổi giá trị trong sắp xếp).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b16",
+        "section": "3",
+        "pdf_page": 83,
+        "printed_page": 82
+      },
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "note_ids": []
+    }
+  ],
+  "source_notes": [
+    {
+      "id": "tu-dien-tin-hoc-7-chu-de-1#1",
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "number": 1,
+      "status": "closed",
+      "lesson_id": null,
+      "section": null,
+      "pdf_page": null,
+      "term_ids": [
+        "tin-hoc-7-he-dieu-hanh"
+      ],
+      "issue": "5 mục thuộc Chủ đề 1",
+      "resolution": "Đã tích hợp đầy đủ 100% ở dạng in_source vào Bài 2 và Bài 3",
+      "resolved_on": "2026-11-20"
+    },
+    {
+      "id": "tu-dien-tin-hoc-7-chu-de-1#2",
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-1.md",
+      "number": 2,
+      "status": "closed",
+      "lesson_id": null,
+      "section": null,
+      "pdf_page": null,
+      "term_ids": [
+        "tin-hoc-7-sao-luu-du-lieu"
+      ],
+      "issue": "Bản in cuối sách bị cụt chữ cuối câu (“lưu chúng lên một thiết bị lưu”) so với trang 14 (“lưu chúng lên một thiết bị lưu trữ”)",
+      "resolution": "Đã dùng câu đầy đủ ở trang 14 trong bảng từ điển Bài 3",
+      "resolved_on": "2026-11-20"
+    },
+    {
+      "id": "tu-dien-tin-hoc-7-chu-de-2#1",
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-2.md",
+      "number": 1,
+      "status": "closed",
+      "lesson_id": null,
+      "section": null,
+      "pdf_page": null,
+      "term_ids": [],
+      "issue": "Đối chiếu toàn bộ 10 mục trong Bảng giải thích thuật ngữ cuối sách",
+      "resolution": "Không có mục nào thuộc phạm vi trang 18–22 của Chủ đề 2",
+      "resolved_on": "2026-11-20"
+    },
+    {
+      "id": "tu-dien-tin-hoc-7-chu-de-3#1",
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-3.md",
+      "number": 1,
+      "status": "closed",
+      "lesson_id": null,
+      "section": null,
+      "pdf_page": null,
+      "term_ids": [
+        "tin-hoc-7-truy-cap-mang"
+      ],
+      "issue": "1 mục thuộc Chủ đề 3",
+      "resolution": "Đã tích hợp đầy đủ 100% ở dạng in_source vào Bài 5",
+      "resolved_on": "2026-11-20"
+    },
+    {
+      "id": "tu-dien-tin-hoc-7-chu-de-4#1",
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "number": 1,
+      "status": "closed",
+      "lesson_id": null,
+      "section": null,
+      "pdf_page": 84,
+      "term_ids": [
+        "tin-hoc-7-dinh-dang-du-lieu"
+      ],
+      "issue": "Bảng giải thích thuật ngữ cuối sách (trang 83) ghi số trang tham chiếu là trang 44 (nơi có mục 3.e \"Định dạng dữ liệu cho trang tính\" của Bài 8), trong khi nội dung lí thuyết trình bày ở Bài 6 mục 2.c (trang 32) và Bài 9 mục 1 (trang 45–47)",
+      "resolution": "Đã đối chiếu ảnh gốc và tích hợp đầy đủ dưới mục Bài 9 kèm dẫn chiếu tới Bài 6, Bài 8 và Bảng giải thích thuật ngữ",
+      "resolved_on": "2026-11-20"
+    },
+    {
+      "id": "tu-dien-tin-hoc-7-chu-de-4#2",
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "number": 2,
+      "status": "closed",
+      "lesson_id": "b07",
+      "section": "3",
+      "pdf_page": 37,
+      "term_ids": [],
+      "issue": "Chú thích Hình 7.7 in \"Hình 7.7. Nhập công thức tại ô C4\" (dù ô hiện thời trong hình là E4) và chú thích Hình 7.11 (pdf:39) in \"Hình 7.11. Dữ liệu diện tính rừng\"",
+      "resolution": "Đã đối chiếu ảnh trang gốc và giữ nguyên văn theo quy tắc Tầng 1",
+      "resolved_on": "2026-11-20"
+    },
+    {
+      "id": "tu-dien-tin-hoc-7-chu-de-4#3",
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-4.md",
+      "number": 3,
+      "status": "closed",
+      "lesson_id": "b10",
+      "section": "3.a",
+      "pdf_page": 54,
+      "term_ids": [],
+      "issue": "Sách in \"Sửa tên các dòng đầu của trang tính như Hình 10.7.\" trong khi hình minh hoạ kế tiếp ở trang sau mang số hiệu \"Hình 10.6\"",
+      "resolution": "Đã đối chiếu ảnh trang gốc và giữ nguyên văn theo quy tắc Tầng 1",
+      "resolved_on": "2026-11-20"
+    },
+    {
+      "id": "tu-dien-tin-hoc-7-chu-de-5#1",
+      "dictionary": "Tu-dien-Tin-hoc-7-Chu-de-5.md",
+      "number": 1,
+      "status": "closed",
+      "lesson_id": null,
+      "section": null,
+      "pdf_page": null,
+      "term_ids": [],
+      "issue": "Đã đối chiếu toàn bộ 10 mục trong Bảng giải thích thuật ngữ cuối sách (trang in 10–68 thuộc Chủ đề 1–4)",
+      "resolution": "Không có mục nào thuộc Chủ đề 5 (trang in 71–82), toàn bộ thuật ngữ của Chủ đề 5 được trích xuất trực tiếp từ nội dung Bài 14–16",
+      "resolved_on": "2026-11-20"
+    }
+  ]
+}

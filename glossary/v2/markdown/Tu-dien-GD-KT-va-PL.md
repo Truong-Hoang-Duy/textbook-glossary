@@ -362,8 +362,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Giáo dục Kinh tế và Pháp luật
 - **Giải thích (EN):** A periodic bank deposit interest scheme in which depositing an initial principal of $A$ monetary units at an annual compound interest rate of $r\%$ yields a total accumulated amount after $n$ years given by the formula $T = A \cdot (1 + r\%)^n$.
 - **Giải thích (VI):** Hình thức tính lãi tiền gửi ngân hàng theo chu kì, trong đó khi gửi số vốn ban đầu $A$ đồng với lãi suất kép $r\%/\text{năm}$ thì sau $n$ năm tổng số tiền nhận được tính theo công thức $T = A \cdot (1 + r\%)^n$.
-- **Bối cảnh:** Toán học lớp 10, Tìm hiểu một số kiến thức về tài chính (Mục 1): tính tổng số tiền tiết kiệm nhận được sau nhiều kì hạn gửi ngân hàng.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 05, Tìm hiểu một số kiến thức về tài chính (Mục 1), tr. 92; SGK Toán 10 KNTT Tập 1, Chương 05, Tìm hiểu một số kiến thức về tài chính (Mục 1), tr. 92, 94
+- **Giải thích khác (SGK Toán 7 Tập 2):** EN: A method of calculating interest in which, after each compounding period (such as each year at rate $r\%$), the interest earned in that period is added to the previous principal to form a new principal for calculating interest in the next period. / VI: Phương thức tính lãi mà cứ sau mỗi kì (chẳng hạn mỗi năm với lãi suất $r\%$), số tiền lãi của kì đó cộng vào số tiền gốc cũ để tạo thành số tiền gốc mới dùng tính lãi cho kì tiếp theo.
+- **Bối cảnh:**
+  - Toán học lớp 10, Tìm hiểu một số kiến thức về tài chính (Mục 1): tính tổng số tiền tiết kiệm nhận được sau nhiều kì hạn gửi ngân hàng.
+  - Toán học lớp 7, Hoạt động thực hành trải nghiệm – Đại lượng tỉ lệ trong đời sống (Mục 2): Tính tiền gửi tiết kiệm, đầu tư tài chính và áp dụng Quy tắc 72.
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 05, Tìm hiểu một số kiến thức về tài chính (Mục 1), tr. 92; SGK Toán 10 KNTT Tập 1, Chương 05, Tìm hiểu một số kiến thức về tài chính (Mục 1), tr. 92, 94; SGK Toán 7 KNTT Tập 2, Chương 10, Đại lượng tỉ lệ trong đời sống (Mục 2), tr. 105
 
 ### compulsory health insurance
 - **Tiếng Việt:** Bảo hiểm y tế bắt buộc
@@ -1742,16 +1745,6 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Là yếu tố vật chất con người dựa vào để tác động (như công cụ, máy móc); phân biệt với đối tượng lao động là vật bị biến đổi.
 - **Nguồn:** SGK GD KT&PL 10 KNTT, Bảng giải thích thuật ngữ, tr. 153; SGK GD KT&PL 10 KNTT, Bảng giải thích thuật ngữ, tr. 153, 154
 
-### means of production
-- **Tiếng Việt:** Tư liệu sản xuất
-- **Chuyên ngành gốc:** Giáo dục Kinh tế và Pháp luật
-- **Giải thích (EN):** Material conditions necessary to organize production, consisting of means of labor and subjects of labor.
-- **Giải thích (VI):** Điều kiện vật chất cần thiết để tổ chức sản xuất, bao gồm hai bộ phận cấu thành là tư liệu lao động và đối tượng lao động.
-- **Bối cảnh:**
-  - Giáo dục Kinh tế và Pháp luật lớp 10, Bảng giải thích thuật ngữ (Phần Giáo dục kinh tế): Yếu tố vật chất nền tảng kết hợp với sức lao động để tổ chức sản xuất.
-  - *Lưu ý:* Bao gồm cả tư liệu lao động và đối tượng lao động; phân biệt với tư liệu tiêu dùng phục vụ trực tiếp đời sống sinh hoạt.
-- **Nguồn:** SGK GD KT&PL 10 KNTT, Bảng giải thích thuật ngữ, tr. 153; SGK GD KT&PL 10 KNTT, Bảng giải thích thuật ngữ, tr. 153, 154
-
 ### means of production market
 - **Tiếng Việt:** Thị trường tư liệu sản xuất
 - **Chuyên ngành gốc:** Giáo dục Kinh tế và Pháp luật
@@ -2430,6 +2423,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chức năng trọng yếu của ngân sách nhà nước trong việc cung cấp tài chính duy trì bộ máy nhà nước, định hướng phát triển sản xuất để hình thành cơ cấu kinh tế hợp lí, điều tiết thị trường (bình ổn giá, kiềm chế lạm phát), điều tiết thu nhập qua thuế và phúc lợi xã hội, tạo lập quỹ dự trữ quốc gia, và thúc đẩy đối ngoại, hội nhập quốc tế.
 - **Bối cảnh:** Giáo dục Kinh tế và Pháp luật lớp 10, Bài 5 (Mục 2): Khái quát tác động toàn diện của ngân sách nhà nước đối với quản lí vĩ mô, an sinh xã hội và đối ngoại.
 - **Nguồn:** SGK GD KT&PL 10 KNTT, Chủ đề 03, B5, tr. 26; SGK GD KT&PL 10 KNTT, Chủ đề 03, B5 (Mục 2), tr. 30; SGK GD KT&PL 10 KNTT, Chủ đề 03, B5 (Mục 3), tr. 30
+
+### Rule of 72
+- **Tiếng Việt:** Quy tắc 72
+- **Chuyên ngành gốc:** Giáo dục Kinh tế và Pháp luật
+- **Giải thích (EN):** A mental calculation rule in finance used to estimate the time required for an initial investment to double at a fixed annual compound interest rate. It is given by the formula $t = \frac{72}{r}$, where $t$ is the time in years and $r\%$ per year is the compound interest rate.
+- **Giải thích (VI):** Quy tắc tính nhẩm trong tài chính dùng để ước tính khoảng thời gian cần thiết để vốn đầu tư ban đầu tăng gấp đôi theo mức lãi suất kép cố định hằng năm. Công thức ước tính là $t = \frac{72}{r}$, trong đó $t$ là thời gian tính bằng năm và $r\%$ mỗi năm là lãi suất kép.
+- **Bối cảnh:** Toán học lớp 7, Hoạt động thực hành trải nghiệm – Đại lượng tỉ lệ trong đời sống (Mục 2): Vận dụng đại lượng tỉ lệ nghịch để ước tính thời gian tăng gấp đôi vốn đầu tư.
+- **Nguồn:** SGK Toán 7 KNTT Tập 2, Chương 10, Đại lượng tỉ lệ trong đời sống (Mục 2), tr. 105
 
 ### safe consumption
 - **Tiếng Việt:** Tiêu dùng an toàn
