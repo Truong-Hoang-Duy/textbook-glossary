@@ -1,0 +1,34 @@
+{
+  "H8-toan-b30-01": {
+    "pdf_page": 61,
+    "bbox": [402, 274, 564, 348]
+  },
+  "H8-toan-b30-02": {
+    "pdf_page": 61,
+    "bbox": [409, 472, 551, 581]
+  },
+  "H8-toan-b31-01": {
+    "pdf_page": 65,
+    "bbox": [412, 203, 548, 357]
+  },
+  "H8-toan-b31-02": {
+    "pdf_page": 66,
+    "bbox": [415, 657, 532, 789],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên phải khung chữ nhật bao Hình 8.2 chạm nhẹ vào ô nền màu xanh của số trang 65 ở góc chân trang"
+  },
+  "H8-toan-b31-03": {
+    "pdf_page": 67,
+    "bbox": [398, 393, 563, 550],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Dòng văn bản ở cuối Bài 8.7 chạy sát ngay dưới chân nhân vật bên trái Hình 8.3, không có khung chữ nhật nào bao trọn hình và chú thích Hình 8.3 mà không chạm chữ 'cố sau:'"
+  },
+  "H8-toan-b32-01": {
+    "pdf_page": 68,
+    "bbox": [386, 224, 554, 340]
+  },
+  "H8-toan-bt-c08-01": {
+    "pdf_page": 77,
+    "bbox": [384, 562, 563, 674]
+  }
+}

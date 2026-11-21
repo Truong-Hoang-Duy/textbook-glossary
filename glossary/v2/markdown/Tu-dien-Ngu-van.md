@@ -81,6 +81,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Ngữ văn lớp 12, Bài 6 (Mục Tri thức ngữ văn, Thực hành tiếng Việt): Phân tích thái độ đề cao chân lí, chính nghĩa trong văn chính luận và văn bản nghị luận.
 - **Nguồn:** SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B6, tr. 5; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B6, tr. 5, 6; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B6 (Mục II.3), tr. 17
 
+### affirmative sentence
+- **Tiếng Việt:** Câu khẳng định
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A sentence confirming the existence of an entity, attribute, or occurrence, ordinarily lacking grammatical markers of negation. Sentences employing double negation (such as không phải không) or counterfactual supposition to reinforce a positive claim also function as affirmative sentences.
+- **Giải thích (VI):** Câu xác nhận sự tồn tại của một đối tượng hay một diễn biến nào đó, thông thường không chứa phương tiện đánh dấu sự phủ định. Những câu dùng hai từ phủ định đi liền nhau (như không phải không) hoặc nêu giả định nhằm khẳng định vấn đề vẫn thuộc câu khẳng định.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 9 (Mục Thực hành tiếng Việt): nhận diện câu khẳng định trong văn bản thông tin và đối chiếu với câu phủ định.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 88; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 88, 89; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 101
+
 ### alternating rhyme
 - **Tiếng Việt:** Vần cách
 - **Chuyên ngành gốc:** Ngữ văn
@@ -179,11 +187,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A generalized assertion expressing the author's viewpoint on the central thesis, forming a structured sequence of points that develops specific facets of the issue under discussion.
 - **Giải thích (VI):** Ý kiến khái quát thể hiện tư tưởng, quan điểm của tác giả đối với luận đề, hợp thành hệ thống ý giúp triển khai và làm sáng tỏ từng khía cạnh cụ thể của vấn đề nghị luận.
 - **Giải thích khác (SGK Ngữ văn 11 Tập 1):** EN: A constituent proposition in an argumentative text that unites reasoning and evidence to elucidate a specific aspect and maintain the consistency of the central thesis. / VI: Thành tố cấu thành hệ thống lập luận của văn bản nghị luận, kết hợp thống nhất giữa lí lẽ và bằng chứng nhằm làm rõ từng khía cạnh và thể hiện tính nhất quán của luận đề.
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: The main points that develop different facets of the central thesis in an argumentative text, clearly expressing the writer's specific viewpoint on the issue under discussion. / VI: Các ý chính triển khai những khía cạnh khác nhau của luận đề trong văn bản nghị luận, qua đó thể hiện rõ quan điểm, ý kiến cụ thể của người viết về vấn đề bàn luận.
+- **Giải thích khác (SGK Ngữ văn 8 Tập 2):** EN: A principal claim developed to specify the central thesis in a literary argumentative text, formulated according to the attributes of the literary subject such as a work's thematic content and artistic form. / VI: Những ý chính được triển khai nhằm cụ thể hoá luận đề trong văn bản nghị luận văn học, xác lập dựa trên đặc điểm của đối tượng bàn luận như phương diện nội dung và nghệ thuật của tác phẩm.
 - **Bối cảnh:**
   - Ngữ văn lớp 10, Bài 3 (Mục Tri thức ngữ văn): phân tích hệ thống ý triển khai luận đề trong bài văn nghị luận.
   - Ngữ văn lớp 11, Bài 3 (Mục Tri thức ngữ văn): Phân tích hệ thống luận điểm làm sáng tỏ luận đề trong Cầu hiền chiếu, Tôi có một ước mơ và Một thời đại trong thi ca.
+  - Ngữ văn lớp 8, Bài 3 (Mục Tri thức ngữ văn): Xác định hệ thống luận điểm triển khai luận đề khi đọc hiểu và viết văn bản nghị luận.
+  - Ngữ văn lớp 8, Bài 8 (Mục Tri thức ngữ văn): phân tích hệ thống luận điểm làm sáng tỏ luận đề trong bài nghị luận văn học.
   - *Lưu ý:* Phân biệt với luận đề (vấn đề trọng tâm bao trùm văn bản) và luận cứ (lí lẽ, bằng chứng cụ thể làm chỗ dựa cho luận điểm).
-- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 72; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 73; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 73, 74; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 75; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 75, 76; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 76
+  - *Lưu ý:* Xét riêng trong văn bản nghị luận văn học (Bài 8), nơi hệ thống luận điểm thường bám sát đặc trưng nội dung và nghệ thuật của đối tượng văn học.
+- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 72; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 73; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 73, 74; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 75; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 75, 76; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 76; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 58; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 58, 59; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 67; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 59; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 65
+
+### argumentative essay on a real-life issue
+- **Tiếng Việt:** Bài văn nghị luận về một vấn đề đời sống (nghị luận về một vấn đề đời sống)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A social argumentative essay type addressing a phenomenon or issue in real life (such as the individual's relationship with community and country, or a modern social vice), introducing and explaining why the issue merits discussion before defending a clear viewpoint with convincing reasoning and diverse evidence. The essay also engages with hypothetical counterarguments to reinforce the writer's stance and concludes with the issue's significance and a course of action.
+- **Giải thích (VI):** Kiểu bài nghị luận xã hội bàn về một hiện tượng, vấn đề trong đời sống (như mối quan hệ giữa cá nhân với cộng đồng, đất nước hoặc một thói xấu trong xã hội hiện đại), trong đó nêu và giải thích tầm quan trọng của vấn đề rồi trình bày rõ quan điểm cá nhân bằng hệ thống lí lẽ thuyết phục, bằng chứng đa dạng. Bài viết đồng thời đối thoại với các ý kiến trái chiều (giả định) để khẳng định lập trường và rút ra ý nghĩa của vấn đề cùng phương hướng hành động.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 3 (Mục Viết): Thực hành viết bài văn nghị luận về con người trong mối quan hệ với cộng đồng, đất nước và nghị luận về một thói xấu trong xã hội hiện đại ở Bài 5.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 71; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3 (Mục Viết), tr. 71; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3 (Mục Viết), tr. 71, 72
 
 ### argumentative essay on a work of art
 - **Tiếng Việt:** Viết văn bản nghị luận về một tác phẩm nghệ thuật
@@ -322,6 +343,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Chỉ cá tính sáng tạo và dấu ấn chủ quan của tác giả trong văn học, phân biệt với khái niệm "bản ngã" (ego) trong tâm lí học.
 - **Nguồn:** SGK Ngữ văn 7 KNTT Tập 1, Tập một, B5, tr. 106; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B5, tr. 106, 107; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B5, tr. 115
 
+### book introduction text
+- **Tiếng Việt:** Văn bản giới thiệu một cuốn sách
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A subtype of informational text objectively presenting a book's general attributes—including title, author, genre, topic, theme, structure, content summary, and publication details. It also highlights the author's perspective on life and the book's notable contributions or fresh appeal, optionally adding brief reviewer remarks without extended argumentative analysis.
+- **Giải thích (VI):** Tiểu loại văn bản thông tin trình bày khách quan những đặc điểm chung của cuốn sách gồm nhan đề, tác giả, loại và thể loại, đề tài, chủ đề, bố cục, nội dung chính tóm tắt cùng thông tin xuất bản. Văn bản đồng thời nêu cách nhìn của tác giả về đời sống và những giá trị, điểm mới thú vị của sách, có thể kèm đánh giá ngắn gọn của người viết nhưng không bàn luận sâu như văn bản nghị luận.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 10 (Mục Tri thức ngữ văn): nhận biết và phân tích đặc điểm của văn bản thông tin qua lời giới thiệu cuốn sách Nhóc Ni-cô-la: những chuyện chưa kể.
+  - *Lưu ý:* Là kiểu văn bản thông tin khách quan giới thiệu sách (đối tượng đọc hiểu), phân biệt với bài văn nghị luận phân tích tác phẩm văn học.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B10, tr. 116; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B10, tr. 116, 117
+
 ### cardinal numeral
 - **Tiếng Việt:** Số từ chỉ số lượng (số từ chỉ số lượng xác định; số từ chỉ số lượng ước chừng)
 - **Chuyên ngành gốc:** Ngữ văn
@@ -360,11 +391,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The overarching issue, idea, or viewpoint examined throughout an argumentative text, often signaled directly in the title.
 - **Giải thích (VI):** Vấn đề, tư tưởng hoặc quan niệm trọng tâm xuyên suốt toàn bộ văn bản nghị luận mà người viết tập trung bàn bạc, làm sáng tỏ, thường hiện diện ngay từ nhan đề.
 - **Giải thích khác (SGK Ngữ văn 11 Tập 1):** EN: The overarching central component of an argumentative text that directs the development of the entire system of claims. / VI: Thành tố có tính chất bao trùm trong văn bản nghị luận, giữ chức năng định hướng việc triển khai hệ thống các luận điểm.
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: The overarching central issue discussed throughout an argumentative text, with each argumentative text typically having a single central thesis. It may be stated explicitly in the title or specific sentences, or synthesized from the entire content of the text. / VI: Vấn đề trung tâm mang tính bao trùm, xuyên suốt được đưa ra bàn luận trong một văn bản nghị luận (mỗi văn bản nghị luận thường chỉ có một luận đề). Luận đề có thể hiển thị trực tiếp ở nhan đề, ở một số câu văn hoặc được khái quát từ toàn bộ nội dung văn bản.
+- **Giải thích khác (SGK Ngữ văn 8 Tập 2):** EN: The central literary issue (concerning a work, author, genre, and so forth) examined throughout a literary argumentative text. It is typically stated in the title or opening section, or inferred from the text as a whole. / VI: Vấn đề chính thuộc lĩnh vực văn học (về tác phẩm, tác giả, thể loại,...) được bàn luận xuyên suốt văn bản nghị luận văn học. Yếu tố này thường thể hiện ở nhan đề, phần mở đầu hoặc được suy luận từ toàn bộ văn bản.
 - **Bối cảnh:**
   - Ngữ văn lớp 10, Bài 3 (Mục Tri thức ngữ văn): xác định vấn đề trọng tâm xuyên suốt văn bản nghị luận.
   - Ngữ văn lớp 11, Bài 3 (Mục Tri thức ngữ văn): Xác định vấn đề trọng tâm bao trùm và mối quan hệ chi phối của luận đề đối với các luận điểm.
+  - Ngữ văn lớp 8, Bài 3 (Mục Tri thức ngữ văn): Nhận biết vấn đề bao trùm, xuyên suốt trong các văn bản nghị luận như Hịch tướng sĩ, Tinh thần yêu nước của nhân dân ta.
+  - Ngữ văn lớp 8, Bài 8 (Mục Tri thức ngữ văn): xác định vấn đề trung tâm được bàn luận trong các văn bản nghị luận văn học.
   - *Lưu ý:* Phân biệt với luận điểm (từng ý kiến khái quát của tác giả nhằm triển khai, làm rõ các khía cạnh cụ thể của luận đề).
-- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 73; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 73, 74; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 76; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 75; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 75, 76; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 89
+  - *Lưu ý:* Xét riêng trong văn bản nghị luận văn học (Bài 8), cụ thể hoá khái niệm luận đề chung vào đối tượng tác giả, tác phẩm và thể loại văn học.
+- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 73; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 73, 74; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 76; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 75; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 75, 76; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 89; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 58; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 58, 59; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3 (Mục 3), tr. 77; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 59; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 65
 
 ### character (literature)
 - **Tiếng Việt:** Nhân vật
@@ -411,6 +447,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với lời người kể chuyện (phần ngôn từ dẫn dắt, miêu tả và bình luận của chủ thể trần thuật).
   - *Lưu ý:* Phân biệt với lời người kể chuyện là phần ngôn từ kể, tả và bình luận thuộc về chủ thể trần thuật.
 - **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 162; SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 162, 163; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B4, tr. 98; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B7, tr. 38; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B7, tr. 38, 39; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B7 (Mục CỦNG CỐ, MỞ RỘNG), tr. 69; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B1, tr. 10; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B1, tr. 10, 11; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B1, tr. 48; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12, 13; SGK Ngữ văn 6 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 147
+
+### character system
+- **Tiếng Việt:** Thế giới nhân vật (nhân vật)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** The ensemble of figures selected and portrayed by a writer in a literary work according to specific artistic intent alongside diverse social relationships. In historical fiction, central characters are typically monarchs, heroes, or notable figures seen through the author's distinctive interpretation of history, whereas in comedy and humorous tales, protagonists usually embody criticized vices and become objects of ridicule.
+- **Giải thích (VI):** Tập hợp các con người được nhà văn lựa chọn và khắc hoạ trong tác phẩm văn học theo dụng ý nghệ thuật riêng cùng những mối quan hệ xã hội đa dạng. Trong truyện lịch sử, nhân vật trung tâm thường là vua chúa, anh hùng, danh nhân hiện lên qua cách lí giải độc đáo của tác giả; còn trong hài kịch và truyện cười, nhân vật chính thường tiêu biểu cho các thói xấu bị phê phán, chế giễu.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 1 (Mục Tri thức ngữ văn): Phân tích thế giới nhân vật trong truyện lịch sử và đối chiếu với nhân vật trong hài kịch, truyện cười ở Bài 5.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 8; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 9; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 9, 10
 
 ### character traits
 - **Tiếng Việt:** Đặc điểm nhân vật
@@ -580,13 +624,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Chỉ phép liên kết câu và đoạn trong ngôn ngữ học văn bản, phân biệt với phương pháp thế (substitution method) trong Toán học hoặc phản ứng thế (substitution reaction) trong Hóa học.
 - **Nguồn:** SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B8, tr. 55; SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B8, tr. 59; SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B8, tr. 59, 60
 
+### combined deductive-inductive paragraph
+- **Tiếng Việt:** Đoạn văn phối hợp (phối hợp)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A paragraph structure that combines deductive organization at the beginning with inductive organization at the end (following a generalize–analyze–synthesize progression), featuring topic sentences at both the opening and closing positions.
+- **Giải thích (VI):** Kiểu đoạn văn kết hợp phương thức diễn dịch ở phần đầu với phương thức quy nạp ở phần cuối (theo mạch khái quát – phân tích – tổng hợp), có câu chủ đề đặt ở cả đầu đoạn và cuối đoạn.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 3 (Mục Tri thức ngữ văn): Nhận biết cấu trúc hai câu chủ đề đầu – cuối của đoạn văn phối hợp và thực hành viết đoạn văn phối hợp.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 58; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 59; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 59, 60
+
 ### comedy
 - **Tiếng Việt:** Hài kịch
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** A dramatic genre that employs laughter arising from incongruities and absurdities (between ends and means, essence and appearance, ambition and capability) to ridicule vices and phenomena that deviate from wholesome community norms. Aiming toward a cheerful resolution that affirms a healthy, progressive way of life, it comprises two main subtypes: comedy of character and comedy of situation.
 - **Giải thích (VI):** Thể loại kịch sử dụng tiếng cười nảy sinh từ sự vênh lệch, bất hợp lí (giữa mục đích và phương tiện, bản chất và biểu hiện, tham vọng và năng lực) để chế giễu những thói tật, hiện tượng đi chệch chuẩn mực tốt đẹp của cộng đồng. Thể loại này hướng tới kết cục vui vẻ nhằm khẳng định lối sống lành mạnh, tiến bộ và gồm hai loại chính là hài kịch tính cách và hài kịch tình huống.
-- **Bối cảnh:** Ngữ văn lớp 12, Bài 5 (Mục Tri thức ngữ văn): Khái niệm trung tâm khi đọc hiểu văn bản hài kịch và phân biệt với bi kịch, chính kịch.
-- **Nguồn:** SGK Ngữ văn 12 KNTT Tập 1, Tập một, B5, tr. 130; SGK Ngữ văn 12 KNTT Tập 1, Tập một, B5, tr. 130, 131; SGK Ngữ văn 12 KNTT Tập 1, Tập một, B5, tr. 131
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: A genre of drama that uses laughter across varied nuances to ridicule and criticize vice, absurdity, and backwardness in contrast with progressive, admirable norms. Comedy typically explores the conflict between inner reality and outer appearance through comic dramatic action, contrasting colloquial dialogue, and satirical techniques such as exaggeration, disguise, misunderstanding, wordplay, and parody. / VI: Thể loại kịch dùng tiếng cười với nhiều cung bậc, sắc thái để giễu cợt, phê phán cái xấu xa, lố bịch, lạc hậu đối lập với những chuẩn mực tốt đẹp, tiến bộ. Hài kịch thường khai thác xung đột giữa cái bên trong với cái bên ngoài thông qua hành động kịch, lời thoại khẩu ngữ đối nghịch và các thủ pháp trào phúng như phóng đại, cải trang, hiểu lầm, chơi chữ, nhại.
+- **Bối cảnh:**
+  - Ngữ văn lớp 12, Bài 5 (Mục Tri thức ngữ văn): Khái niệm trung tâm khi đọc hiểu văn bản hài kịch và phân biệt với bi kịch, chính kịch.
+  - Ngữ văn lớp 8, Bài 5 (Mục Tri thức ngữ văn): Đọc hiểu văn bản hài kịch Trưởng giả học làm sang và đối sánh với truyện cười, thơ trào phúng.
+- **Nguồn:** SGK Ngữ văn 12 KNTT Tập 1, Tập một, B5, tr. 130; SGK Ngữ văn 12 KNTT Tập 1, Tập một, B5, tr. 130, 131; SGK Ngữ văn 12 KNTT Tập 1, Tập một, B5, tr. 131; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 99; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100, 101
 
 ### comic action
 - **Tiếng Việt:** Hành động trong hài kịch
@@ -813,6 +868,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Ngữ văn lớp 11, Bài 8 (Mục Nói và nghe): Tổ chức phiên tranh biện theo nhóm tán thành và phản đối về các vấn đề thiết thực của đời sống hiện đại.
 - **Nguồn:** SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B8, tr. 86; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B8, tr. 86, 87
 
+### declarative sentence
+- **Tiếng Việt:** Câu kể (câu trần thuật)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** The most fundamental and common sentence type classified by communicative purpose, primarily serving to narrate, inform, state judgments, or describe, while occasionally used indirectly to make requests or express feelings. In writing, it usually ends with a period, and sometimes with an exclamation mark or an ellipsis.
+- **Giải thích (VI):** Kiểu câu cơ bản và phổ biến nhất trong giao tiếp phân loại theo mục đích nói, đảm nhiệm chức năng chính là kể, nhận định, thông báo, miêu tả, ngoài ra đôi khi dùng để yêu cầu, đề nghị hay bộc lộ cảm xúc. Khi viết, câu kể thường kết thúc bằng dấu chấm, cũng có khi bằng dấu chấm than hay dấu chấm lửng.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 9 (Mục Thực hành tiếng Việt): phân biệt câu kể với câu hỏi, câu khiến, câu cảm theo hình thức và mục đích giao tiếp.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 88; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 88, 89; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 93
+
+### deductive organization
+- **Tiếng Việt:** Diễn dịch (đoạn văn diễn dịch)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A method of organizing arguments and paragraphs that progresses from the general to the specific, and from the abstract to the concrete. In a deductive paragraph, the topic sentence is placed at the beginning to state the general idea, while subsequent sentences analyze and substantiate it.
+- **Giải thích (VI):** Phương thức tổ chức lập luận và triển khai đoạn văn theo trình tự đi từ cái chung đến cái riêng, từ khái quát đến cụ thể. Trong đoạn văn diễn dịch, câu chủ đề đặt ở đầu đoạn nêu ý khái quát, còn các câu tiếp theo phân tích, chứng minh làm rõ ý đó.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 3 (Mục Tri thức ngữ văn): Nhận biết đoạn văn diễn dịch có câu chủ đề ở đầu đoạn và thực hành viết đoạn văn theo lối diễn dịch.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 58; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 58, 59; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 59
+
 ### demonstration
 - **Tiếng Việt:** Chứng minh
 - **Chuyên ngành gốc:** Ngữ văn
@@ -840,6 +911,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Kiểu bài văn miêu tả tái hiện một cảnh sinh hoạt của con người theo trình tự từ giới thiệu, tả bao quát quang cảnh chung (không gian, thời gian, hoạt động chính) đến tả hoạt động cụ thể bằng từ ngữ sinh động, kết hợp nêu cảm nghĩ của người viết.
 - **Bối cảnh:** Ngữ văn lớp 6, Bài 5 (Mục Viết): thực hành viết bài văn tả cảnh sinh hoạt.
 - **Nguồn:** SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 133; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5 (Mục Viết), tr. 133; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5 (Mục Viết), tr. 133, 134
+
+### descriptive negative sentence
+- **Tiếng Việt:** Câu phủ định miêu tả (phủ định miêu tả)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A subtype of negative sentence that uses negative markers to report or confirm the absence of a particular entity, event, property, or relationship.
+- **Giải thích (VI):** Tiểu loại câu phủ định dùng từ ngữ phủ định để thông báo, xác nhận không có sự vật, sự việc, tính chất hoặc quan hệ nào đó.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 9 (Mục Thực hành tiếng Việt): phân biệt chức năng thông báo của câu phủ định miêu tả với chức năng tranh luận của câu phủ định bác bỏ.
+  - *Lưu ý:* Phân biệt với câu phủ định bác bỏ vốn dùng để phản bác lại một ý kiến, nhận định trước đó.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 88; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 101
 
 ### devices for enhancing affirmative quality
 - **Tiếng Việt:** Biện pháp làm tăng tính khẳng định
@@ -904,24 +985,49 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** The pervasive emotional state and evaluative attitude running throughout an entire literary work toward the life issues it addresses. It governs the choice of artistic form and exerts a powerful emotional impact on the audience.
 - **Giải thích (VI):** Trạng thái tình cảm và thái độ đánh giá mãnh liệt thấm nhuần xuyên suốt toàn bộ tác phẩm trước những vấn đề đời sống mà nhà văn đặt ra. Yếu tố này chi phối việc lựa chọn hình thức nghệ thuật và tạo sức truyền cảm sâu rộng tới người tiếp nhận.
-- **Bối cảnh:** Ngữ văn lớp 10, Bài 7 (Mục Tri thức ngữ văn): Nhận diện mạch cảm xúc nhân đạo, ngợi ca hoặc phê phán bao trùm toàn bộ tác phẩm văn học.
-- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B7, tr. 38; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B7, tr. 38, 39; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B7, tr. 58
+- **Giải thích khác (SGK Ngữ văn 8 Tập 2):** EN: A profound, intense emotional state that pervades and governs the entire portrayal of life and humanity as well as the choice of artistic form in a literary work. / VI: Tình cảm sâu sắc, mãnh liệt chi phối toàn bộ cách thể hiện đời sống, con người và sự lựa chọn hình thức nghệ thuật trong một tác phẩm văn học.
+- **Bối cảnh:**
+  - Ngữ văn lớp 10, Bài 7 (Mục Tri thức ngữ văn): Nhận diện mạch cảm xúc nhân đạo, ngợi ca hoặc phê phán bao trùm toàn bộ tác phẩm văn học.
+  - Ngữ văn lớp 8, Bài 7 (Mục Tri thức ngữ văn): nhận biết cảm hứng chủ đạo xuyên suốt các bài thơ viết về người lính thời kháng chiến.
+- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B7, tr. 38; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B7, tr. 38, 39; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B7, tr. 58; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B7, tr. 36; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B7, tr. 37; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B7, tr. 39
+
+### drama
+- **Tiếng Việt:** Kịch
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A synthetic art form belonging to both theater and literature that represents life through dramatic conflict, action, and character dialogue, with the script constituting its literary dimension.
+- **Giải thích (VI):** Loại hình nghệ thuật tổng hợp vừa thuộc nghệ thuật sân khấu vừa thuộc văn học, phản ánh đời sống thông qua xung đột, hành động và lời thoại của nhân vật, trong đó văn bản kịch bản là phương diện văn học của kịch.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 5 (Mục Tri thức ngữ văn): Nhận biết đặc trưng kịch bản văn học khi đọc hiểu thể loại hài kịch.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 99; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100, 101
 
 ### dramatic action
 - **Tiếng Việt:** Hành động kịch
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** The organized system of actions in a dramatic text tied to characters' stage activities, functioning to propel dramatic conflict forward and reveal character traits.
 - **Giải thích (VI):** Hệ thống hành động tổ chức trong văn bản kịch gắn liền với hoạt động của các nhân vật, giữ chức năng thúc đẩy xung đột kịch phát triển và làm phát lộ tính cách nhân vật.
-- **Bối cảnh:** Ngữ văn lớp 11, Bài 5 (Mục Tri thức ngữ văn): Phân tích vai trò thúc đẩy xung đột và khắc hoạ tính cách của hành động kịch trong các hồi, cảnh kịch.
-- **Nguồn:** SGK Ngữ văn 11 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 159; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B5, tr. 126; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B5, tr. 131
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: The system of activities, behaviors, gestures, and spoken interactions performed by characters on stage to unfold and concretize dramatic conflict. In comedy, dramatic action revolves around ironic events and comic situations that expose characters' absurd traits and provoke critical laughter. / VI: Hệ thống các hoạt động, ứng xử, cử chỉ và lời thoại của nhân vật trên sân khấu nhằm triển khai và cụ thể hoá xung đột kịch. Trong hài kịch, hành động kịch xoay quanh các sự việc, tình huống trớ trêu để bộc lộ tính cách lố bịch của nhân vật và tạo tiếng cười phê phán.
+- **Bối cảnh:**
+  - Ngữ văn lớp 11, Bài 5 (Mục Tri thức ngữ văn): Phân tích vai trò thúc đẩy xung đột và khắc hoạ tính cách của hành động kịch trong các hồi, cảnh kịch.
+  - Ngữ văn lớp 8, Bài 5 (Mục Tri thức ngữ văn): Phân tích hành động kịch của các nhân vật xoay quanh tình huống mặc lễ phục của ông Giuốc-đanh trong trích đoạn Trưởng giả học làm sang.
+- **Nguồn:** SGK Ngữ văn 11 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 159; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B5, tr. 126; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B5, tr. 131; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100, 101
 
 ### dramatic conflict
-- **Tiếng Việt:** Xung đột kịch (xung đột trong bi kịch)
+- **Tiếng Việt:** Xung đột kịch (xung đột trong bi kịch; Xung đột)
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** A sharp contradiction leading to clashes between characters or character groups in a dramatic work, revealing the playwright's ideas and artistic insights into life. Specifically in tragedy, it represents an acute clash between the free moral choice of a strong personality and necessity embodied in fate, human nature, historical prejudice, or social reality.
 - **Giải thích (VI):** Mâu thuẫn dẫn đến sự đụng độ giữa các nhân vật hay nhóm nhân vật trong tác phẩm kịch, làm phát lộ tư tưởng, quan điểm và những phát hiện của tác giả về đời sống. Riêng trong bi kịch, đây là mâu thuẫn gay gắt giữa lựa chọn hành động tự do của một nhân cách mạnh mẽ với cái tất yếu thể hiện qua định mệnh, bản tính tự nhiên, định kiến thời đại hoặc thực tại xã hội.
-- **Bối cảnh:** Ngữ văn lớp 11, Bài 5 (Mục Tri thức ngữ văn): Phân tích bản chất các mâu thuẫn không thể điều hoà trong vở Hăm-lét và Vũ Như Tô.
-- **Nguồn:** SGK Ngữ văn 11 KNTT Tập 1, Tập một, B5, tr. 125; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B5, tr. 126; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B5, tr. 126, 127
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: The central opposition or contradiction that drives a play's plot forward and reveals character traits through dramatic action. In comedy, its most common form is the incongruity between inner reality and outward pretension, manifested through humorous events and situations. / VI: Sự mâu thuẫn, đối lập thúc đẩy sự phát triển của cốt truyện kịch và bộc lộ tính cách nhân vật thông qua chuỗi hành động kịch. Trong hài kịch, hình thức xung đột phổ biến nhất là sự không tương xứng giữa thực chất bên trong với vẻ hào nhoáng bên ngoài, thể hiện qua các sự việc, tình huống gây cười.
+- **Bối cảnh:**
+  - Ngữ văn lớp 11, Bài 5 (Mục Tri thức ngữ văn): Phân tích bản chất các mâu thuẫn không thể điều hoà trong vở Hăm-lét và Vũ Như Tô.
+  - Ngữ văn lớp 8, Bài 5 (Mục Tri thức ngữ văn): Nhận biết và phân tích xung đột giữa thực chất kệch cỡm bên trong với tham vọng học đòi sang trọng bên ngoài trong văn bản hài kịch.
+- **Nguồn:** SGK Ngữ văn 11 KNTT Tập 1, Tập một, B5, tr. 125; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B5, tr. 126; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B5, tr. 126, 127; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100, 101; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5 (Mục 3), tr. 123
+
+### dramatic dialogue
+- **Tiếng Việt:** Lời đối thoại (lời thoại)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** Reciprocal speech between characters in a dramatic text; in comedy specifically, dramatic dialogue is strongly colloquial and structured around contrasting contents.
+- **Giải thích (VI):** Lời nói qua lại giữa các nhân vật trong văn bản kịch; riêng ở hài kịch, lời đối thoại mang đậm tính khẩu ngữ và có cấu trúc dựa trên những nội dung đối nghịch.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 5 (Mục Tri thức ngữ văn): nhận xét đặc điểm lời thoại nhân vật trong văn bản hài kịch Trưởng giả học làm sang.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100, 101; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 101
 
 ### dramatic speech
 - **Tiếng Việt:** Lời thoại
@@ -958,6 +1064,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Ngữ văn lớp 7, Bài 7 (Mục Tri thức ngữ văn, Thực hành tiếng Việt): nhận biết công dụng và đặt câu có sử dụng dấu chấm lửng.
   - *Lưu ý:* Chỉ dấu câu gồm ba chấm liền nhau (...), phân biệt với phép tỉnh lược (grammatical ellipsis) trong cấu trúc cú pháp hoặc đường ê-líp (ellipse) trong Toán học.
 - **Nguồn:** SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B7, tr. 25; SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B7, tr. 26; SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B7, tr. 41
+
+### emotional flow
+- **Tiếng Việt:** Mạch cảm xúc
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** The sequential progression and shifting nuances of feelings expressed throughout a poem, especially in lyric poetry. Artistically organized, this progression preserves natural emotional authenticity while governing the thematic and formal development of the work.
+- **Giải thích (VI):** Trình tự diễn biến qua nhiều cung bậc và sắc thái khác nhau của cảm xúc bộc lộ trong thơ, nhất là thơ trữ tình. Yếu tố này được tổ chức nghệ thuật nhằm vừa giữ trọn tính tự nhiên của cảm xúc vừa chi phối các yếu tố nội dung và hình thức của bài thơ.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 7 (Mục Tri thức ngữ văn): xác định sự vận động của mạch cảm xúc trong các bài thơ trữ tình hiện đại.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B7, tr. 36; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B7, tr. 37; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B7, tr. 39
+
+### emotive interjection
+- **Tiếng Việt:** Thán từ bộc lộ trực tiếp tình cảm, cảm xúc
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A subtype of interjection used specifically to express the speaker's or writer's emotional states—such as joy, surprise, regret, or sorrow—directly (for example: a, ái, ôi, ơ, ô hay, than ôi, trời ơi).
+- **Giải thích (VI):** Tiểu loại thán từ chuyên dùng để biểu thị trực tiếp các trạng thái tình cảm, cảm xúc như vui mừng, ngạc nhiên, tiếc nuối của người nói hoặc người viết (như a, ái, ôi, ơ, ô hay, than ôi, trời ơi).
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 6 (Mục Thực hành tiếng Việt): chỉ ra sắc thái cảm xúc của các thán từ trong truyện ngắn Lặng lẽ Sa Pa.
+  - *Lưu ý:* Phân biệt với thán từ gọi – đáp vốn dùng để cất lời gọi hoặc đáp lời trong hội thoại.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6, tr. 23; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6, tr. 23, 24
+
+### emphatic particle
+- **Tiếng Việt:** Trợ từ
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A function word accompanying a specific word or phrase in a sentence to add emphasis (such as chính, ngay, cả) or to express an evaluative attitude toward the entity or event denoted (such as những, chỉ, có).
+- **Giải thích (VI):** Từ chuyên đi kèm một từ ngữ nào đó trong câu để nhấn mạnh (như cả, ngay, chính) hoặc biểu thị thái độ đánh giá về sự vật, sự việc do từ ngữ đó đề cập (như những, chỉ, có).
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 6 (Mục Thực hành tiếng Việt): nhận biết đặc điểm, tác dụng nhấn mạnh hoặc đánh giá của trợ từ và đặt câu có sử dụng trợ từ.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6, tr. 4; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6, tr. 5; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6, tr. 14; SGK Ngữ văn 8 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 135
 
 ### end rhyme
 - **Tiếng Việt:** Vần chân
@@ -1062,8 +1194,34 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** Examples drawn from real life or other sources to substantiate reasoning in an argumentative text.
 - **Giải thích (VI):** Những ví dụ được lấy từ thực tế đời sống hoặc từ các nguồn khác để chứng minh cho lí lẽ trong văn bản nghị luận.
-- **Bối cảnh:** Ngữ văn lớp 6, Bài 8 (Mục Tri thức ngữ văn): nhận diện và lựa chọn bằng chứng xác thực để tăng sức thuyết phục cho lí lẽ.
-- **Nguồn:** SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 61; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 61, 62
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: Concrete facts, figures, or examples drawn from reality or texts to substantiate reasoning and clarify supporting claims in an argumentative work. Within a hierarchical argumentative structure, authentic and diverse evidence strengthens the persuasiveness of the writer's viewpoint. / VI: Những sự việc, số liệu, dẫn chứng cụ thể từ thực tế hoặc sách vở được đưa vào văn bản nghị luận để chứng minh cho lí lẽ và làm sáng tỏ luận điểm. Trong hệ thống lập luận có tính tầng bậc, bằng chứng xác thực và đa dạng giúp tăng sức thuyết phục cho ý kiến của người viết.
+- **Giải thích khác (SGK Ngữ văn 8 Tập 2):** EN: Sentences, poetic lines, details, and images quoted from a literary work, or related documentary materials concerning the author, work, or genre, cited in a literary argumentative text to substantiate main arguments. / VI: Những câu văn, đoạn văn, dòng thơ, chi tiết, hình ảnh dẫn từ tác phẩm văn học hoặc các tài liệu, trích dẫn liên quan đến tác giả, tác phẩm, thể loại dùng để làm sáng tỏ luận điểm trong văn bản nghị luận văn học.
+- **Bối cảnh:**
+  - Ngữ văn lớp 6, Bài 8 (Mục Tri thức ngữ văn): nhận diện và lựa chọn bằng chứng xác thực để tăng sức thuyết phục cho lí lẽ.
+  - Ngữ văn lớp 8, Bài 3 (Mục Tri thức ngữ văn): Nhận biết vai trò của bằng chứng trong hệ thống lập luận và lựa chọn bằng chứng đa dạng khi viết bài văn nghị luận.
+  - Ngữ văn lớp 8, Bài 8 (Mục Tri thức ngữ văn): lựa chọn, trích dẫn và phân tích bằng chứng tiêu biểu từ tác phẩm khi nghị luận văn học.
+  - *Lưu ý:* Xét riêng trong văn bản nghị luận văn học (Bài 8), lấy dẫn chứng trực tiếp từ ngôn từ, hình tượng tác phẩm và tư liệu văn học thay vì số liệu, sự việc thực tế xã hội.
+- **Nguồn:** SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 61; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 61, 62; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 58; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 58, 59; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 60; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 59; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 63
+
+### exclamatory constituent
+- **Tiếng Việt:** Thành phần cảm thán
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A type of isolated constituent used to directly express the speaker's or writer's emotional states such as joy, sadness, surprise, or anger (typically marked by interjections like chao ôi, trời ơi, ôi, ơ).
+- **Giải thích (VI):** Một loại thành phần biệt lập dùng để bộc lộ trực tiếp tình cảm, cảm xúc như vui, buồn, ngạc nhiên hay tức giận của người nói, người viết (ví dụ: chao ôi, trời ơi, ôi, ơ).
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 8 (Mục Thực hành tiếng Việt): nhận diện thành phần cảm thán trong câu văn và nêu sắc thái cảm xúc được biểu lộ.
+  - *Lưu ý:* Là chức năng cú pháp của từ ngữ biệt lập trong câu, phân biệt với thán từ (xét theo từ loại) và câu cảm (xét toàn câu theo mục đích nói).
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60, 61; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 66
+
+### exclamatory sentence
+- **Tiếng Việt:** Câu cảm (câu cảm thán)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A sentence type classified by communicative purpose used to directly express the speaker's or writer's emotions, typically featuring exclamatory expressions such as ôi, than ôi, hỡi ôi, chao ôi, trời ơi, thay, biết bao, xiết bao, biết chừng nào. In written texts, it usually ends with an exclamation mark.
+- **Giải thích (VI):** Kiểu câu phân loại theo mục đích nói dùng để bộc lộ trực tiếp cảm xúc của người nói hay người viết, thường xuất hiện những từ ngữ cảm thán như ôi, than ôi, hỡi ôi, chao ôi, trời ơi, thay, biết bao, xiết bao, biết chừng nào. Trên văn bản viết, câu cảm thường kết thúc bằng dấu chấm than.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 9 (Mục Thực hành tiếng Việt): nhận biết câu cảm trong giao tiếp và lưu ý hạn chế lạm dụng câu cảm khi viết văn bản thuyết minh.
+  - *Lưu ý:* Là kiểu câu xét toàn diện theo mục đích nói, phân biệt với thành phần cảm thán chỉ là một bộ phận biệt lập nằm trong câu.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 88; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 88, 89; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 93
 
 ### expansion of main constituents and adverbials with phrases
 - **Tiếng Việt:** Mở rộng thành phần chính và trạng ngữ của câu bằng cụm từ
@@ -1091,6 +1249,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Chỉ thao tác nghị luận bổ trợ dùng để cắt nghĩa khái niệm và vấn đề trong văn bản nghị luận.
 - **Nguồn:** SGK Ngữ văn 12 KNTT Tập 1, Tập một, B3, tr. 63; SGK Ngữ văn 12 KNTT Tập 1, Tập một, B3, tr. 63, 64; SGK Ngữ văn 12 KNTT Tập 1, Tập một, B3, tr. 68
 
+### explicit meaning
+- **Tiếng Việt:** Nghĩa tường minh
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** The portion of communicated meaning expressed directly through the literal words present in a sentence.
+- **Giải thích (VI):** Phần nội dung thông báo được diễn đạt trực tiếp bằng hệ thống từ ngữ hiện diện trong câu.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 5 (Mục Thực hành tiếng Việt): nhận diện nghĩa trực tiếp của câu và đối chiếu với nghĩa hàm ẩn.
+  - *Lưu ý:* Đối lập với nghĩa hàm ẩn là phần nghĩa không nói trực tiếp bằng từ ngữ mà phải suy ra từ câu và ngữ cảnh.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100, 101; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 113
+
 ### expository element
 - **Tiếng Việt:** Thuyết minh (yếu tố thuyết minh; yếu tố thuyết minh trong văn nghị luận)
 - **Chuyên ngành gốc:** Ngữ văn
@@ -1101,13 +1269,34 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong phạm vi Bài 3 Ngữ văn 11, thuật ngữ chỉ yếu tố bổ trợ trong văn bản nghị luận, phân biệt với văn bản thông tin hoặc văn bản thuyết minh độc lập.
 - **Nguồn:** SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 76; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 76, 77; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 79
 
+### expository essay explaining a natural phenomenon
+- **Tiếng Việt:** Bài văn thuyết minh giải thích một hiện tượng tự nhiên
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** An expository essay type presenting reliable scientific knowledge to clarify a natural phenomenon in a logical sequence: naming the phenomenon, describing its core manifestations, providing sound grounds for explanation, and detailing its impacts on human life. The essay may integrate non-verbal media with properly cited captions and sources.
+- **Giải thích (VI):** Kiểu bài viết thuyết minh làm sáng tỏ một hiện tượng tự nhiên theo mạch lô-gíc: nêu hiện tượng và các biểu hiện cơ bản, trình bày căn cứ xác đáng để giải thích nguyên nhân, bản chất và chỉ rõ tác động của hiện tượng đối với cuộc sống con người. Bài viết có thể kết hợp đúng vị trí các phương tiện phi ngôn ngữ có ghi đầy đủ tên và xuất xứ.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 9 (Mục Viết): thực hành viết và rà soát bài văn thuyết minh giải thích một hiện tượng tự nhiên.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 102; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 102, 103; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9 (Mục 3), tr. 105
+
+### expository essay introducing a book
+- **Tiếng Việt:** Bài văn thuyết minh giới thiệu một cuốn sách
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** An expository essay type providing essential identifying information about a book (title, author, genre, topic, theme, structure, and content summary) alongside the author's perspective on life. The essay highlights notable values and fresh contributions while emphasizing appealing qualities that inspire readers to explore the book.
+- **Giải thích (VI):** Kiểu bài viết thuyết minh cung cấp những thông tin cơ bản để nhận diện cuốn sách (nhan đề, tác giả, loại và thể loại, đề tài, chủ đề, bố cục, nội dung chính tóm tắt) và trình bày cách nhìn của tác giả về đời sống. Bài viết đồng thời nêu những giá trị, đóng góp nổi bật hoặc điểm mới thú vị và nhấn mạnh các đặc điểm gợi hứng thú đọc, tìm hiểu cuốn sách.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 10 (Mục Viết): thực hành viết bài văn thuyết minh giới thiệu một cuốn sách yêu thích.
+  - *Lưu ý:* Là kiểu bài tập làm văn phần Viết, phân biệt với hoạt động nói trình bày bài giới thiệu ngắn về cuốn sách ở phần Nói và nghe.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B10 (Mục Viết), tr. 123; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B10 (Mục Viết), tr. 123, 124
+
 ### expository text
 - **Tiếng Việt:** Văn bản thuyết minh (thuyết minh)
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** A text type belonging to the category of informational texts, primarily used to introduce, present, provide information about, or explain an object, phenomenon, or event.
 - **Giải thích (VI):** Kiểu văn bản thuộc loại văn bản thông tin, chủ yếu dùng để giới thiệu, trình bày, cung cấp thông tin hoặc giải thích về một sự vật, hiện tượng hay sự kiện.
-- **Bối cảnh:** Ngữ văn lớp 6, Bài 6 (Mục Viết): thực hành viết bài văn thuyết minh thuật lại một sự kiện sinh hoạt văn hoá.
-- **Nguồn:** SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 16; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6 (Mục Viết), tr. 16; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6 (Mục Viết), tr. 16, 17
+- **Giải thích khác (SGK Ngữ văn 8 Tập 2):** EN: A text type that provides focused information about a specific subject (such as a phenomenon, event, incident, or product), enabling the reader to gain a relatively complete understanding of that subject. / VI: Loại văn bản cung cấp các thông tin tập trung về một đối tượng nào đó (hiện tượng, sự việc, sự kiện, sản phẩm,...), giúp người tiếp nhận có được hiểu biết tương đối trọn vẹn về đối tượng.
+- **Bối cảnh:**
+  - Ngữ văn lớp 6, Bài 6 (Mục Viết): thực hành viết bài văn thuyết minh thuật lại một sự kiện sinh hoạt văn hoá.
+  - Ngữ văn lớp 8, Bài 9 và Bài 10 (Mục Viết): tạo lập văn bản thuyết minh giải thích một hiện tượng tự nhiên và giới thiệu một cuốn sách.
+- **Nguồn:** SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 16; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6 (Mục Viết), tr. 16; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6 (Mục Viết), tr. 16, 17; SGK Ngữ văn 8 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 135
 
 ### expository writing on a contemporary social issue
 - **Tiếng Việt:** Viết văn bản thuyết minh về một vấn đề của xã hội đương đại
@@ -1233,6 +1422,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Ngữ văn lớp 6, Bài 6 (Mục Tri thức ngữ văn): nhận biết vai trò của tưởng tượng và hư cấu trong truyền thuyết và truyện cổ tích.
 - **Nguồn:** SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B7, tr. 33; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B7, tr. 34; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B7, tr. 34, 35; SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130; SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130, 131; SGK Ngữ văn 6 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 131
 
+### film or book introduction text
+- **Tiếng Việt:** Văn bản giới thiệu một bộ phim hoặc một cuốn sách (văn bản giới thiệu một bộ phim)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A type of informational text presenting general background and notable features of a film or book for promotional purposes, helping audiences and readers approach and engage with the work effectively.
+- **Giải thích (VI):** Loại văn bản thông tin cung cấp tri thức khái quát và đặc điểm nổi bật về một bộ phim hoặc một cuốn sách nhằm mục đích quảng bá, giúp khán giả, độc giả có được sự tiếp nhận thuận lợi đối với tác phẩm đó.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 9 (Mục Tri thức ngữ văn): đọc hiểu văn bản giới thiệu loạt phim tài liệu Hành tinh của chúng ta và mở rộng sang văn bản giới thiệu sách.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 87; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 87, 88; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9 (Mục 3), tr. 114
+
 ### first-person narrator
 - **Tiếng Việt:** Người kể chuyện ngôi thứ nhất
 - **Chuyên ngành gốc:** Ngữ văn
@@ -1322,6 +1519,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Ngữ văn lớp 11, Bài 1 (Mục Tri thức ngữ văn): Phân tích sự cộng hưởng giữa lời người kể chuyện và lời nhân vật trong Vợ nhặt và Chí Phèo.
 - **Nguồn:** SGK Ngữ văn 11 KNTT Tập 1, Tập một, B1, tr. 10; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B1, tr. 10, 11; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 90
 
+### free verse
+- **Tiếng Việt:** Thơ tự do
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A modern poetic form distinguished from metrical verse by its unconstrained formal structure, imposing no fixed limits on syllables per line, lines per poem, or rhyme schemes while allowing flexible rhythmic variation. This formal freedom enables poets to express thoughts and varied emotions expansively.
+- **Giải thích (VI):** Thể thơ hiện đại phân biệt với các thể thơ cách luật ở sự tự do của hình thức: không hạn định số tiếng trong câu, số câu trong bài, không bắt buộc về vần và có nhịp điệu biến hoá đa dạng. Hình thức linh hoạt này giúp nhà thơ bộc lộ phóng khoáng dòng tư tưởng và cảm xúc.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 7 (Mục Tri thức ngữ văn): đọc hiểu các bài thơ Đồng chí, Lá đỏ, Bài thơ về tiểu đội xe không kính và tập làm thơ tự do.
+  - *Lưu ý:* Phân biệt với các thể thơ cách luật (như lục bát, thất ngôn bát cú hay tứ tuyệt Đường luật) vốn có quy định chặt chẽ về niêm, luật, vần và số chữ.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B7, tr. 36; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B7, tr. 37; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B7, tr. 39; SGK Ngữ văn 8 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 135
+
 ### functional text
 - **Tiếng Việt:** Văn bản nhật dụng
 - **Chuyên ngành gốc:** Ngữ văn
@@ -1339,6 +1546,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Kiểu loại văn bản gắn với nghi lễ đời sống có chức năng tế vong hồn, ca tụng và tưởng nhớ công đức người đã khuất, có thể viết bằng văn xuôi, văn vần, biền văn hoặc phối hợp nhiều thể văn với ngôn từ trang nghiêm, chân thành. Cấu trúc nội dung bài văn tế thường gồm ba phần chính là Tán (ca ngợi công đức), Thán (khái quát sự nghiệp, tài đức) và Ai (bày tỏ niềm thương tiếc, kính trọng đối với người được tế).
 - **Bối cảnh:** Ngữ văn lớp 11, Bài 9 (Mục Đọc): Phân tích bố cục và cảm hứng bi tráng của thể loại qua tác phẩm Văn tế nghĩa sĩ Cần Giuộc của Nguyễn Đình Chiểu.
 - **Nguồn:** SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B9, tr. 105; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B9, tr. 105, 106; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B9, tr. 106
+
+### group discussion on a real-life issue
+- **Tiếng Việt:** Thảo luận về một vấn đề trong đời sống (Thảo luận ý kiến về một vấn đề trong đời sống; thảo luận về một vấn đề trong đời sống phù hợp với lứa tuổi)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A collaborative speaking and listening activity conducted in groups or as a class, guided by a moderator and recorded by a note-taker, to examine an age-appropriate real-life issue. Participants take turns presenting reasoned, evidence-based viewpoints, responding to prior speakers' opinions, and synthesizing key discussion points to build deeper understanding and appropriate action.
+- **Giải thích (VI):** Hoạt động nói và nghe trao đổi theo nhóm hoặc lớp dưới sự dẫn dắt của người điều hành và ghi chép của thư kí nhằm làm sáng tỏ một vấn đề đời sống phù hợp với lứa tuổi. Các thành viên lần lượt nêu ý kiến có lí lẽ, bằng chứng thuyết phục, phản hồi quan điểm của người phát biểu trước và tổng hợp kết quả thảo luận để thống nhất nhận thức, thái độ, hành động.
+- **Giải thích khác (SGK Ngữ văn 8 Tập 2):** EN: A collaborative speaking and listening activity moderated by a chair and recorded by a secretary to build a comprehensive, insightful view on an age-appropriate real-life issue. Participants prepare beforehand, present distinct viewpoints backed by convincing reasoning and evidence, avoid repeating prior points, and respect differing opinions. / VI: Hoạt động nói và nghe theo nhóm dưới sự điều hành của người chủ trì và ghi chép của thư kí nhằm xây dựng cái nhìn toàn diện, sâu sắc về một vấn đề đời sống phù hợp với lứa tuổi. Mỗi cá nhân cần chuẩn bị trước nội dung, nêu quan điểm riêng bằng lí lẽ, bằng chứng thuyết phục, tránh lặp lại ý kiến trùng lặp và tôn trọng sự khác biệt.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 3 (Mục Nói và nghe): Tổ chức thảo luận nhóm, lớp về ý thức trách nhiệm đối với cộng đồng của học sinh.
+  - Ngữ văn lớp 8, Bài 7 (Mục Nói và nghe): thảo luận nhóm về vấn đề đời sống được gợi ra từ tác phẩm văn học hoặc thực tiễn sinh hoạt lứa tuổi.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3 (Mục 2), tr. 75; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3 (Mục 3), tr. 75; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3 (Mục 1), tr. 75; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B7, tr. 36; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B7 (Mục 1), tr. 55; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9 (Mục 3), tr. 109
 
 ### haiku
 - **Tiếng Việt:** Hai-cư
@@ -1363,6 +1581,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Thể thơ nội sinh của văn học Việt Nam hình thành từ khoảng thế kỉ XVII và đạt đỉnh cao ở thế kỉ XVIII – XIX, vốn là phần lời của điệu hát nói chủ đạo trong nghệ thuật ca trù (hát ả đào, cô đầu). Thể thơ này kết hợp song thất lục bát, lục bát với lối nói lối dân ca, có hình thức phóng khoáng về số câu, số chữ và cách gieo vần nên thường được các nhà Nho tài tử dùng để giãi bày cá tính và tâm hồn tự do.
 - **Bối cảnh:** Ngữ văn lớp 11, Bài 9 (Mục Đọc): Nhận diện đặc trưng thể loại phóng khoáng và cốt cách tài tử của Nguyễn Công Trứ trong kiệt tác Bài ca ngất ngưởng.
 - **Nguồn:** SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B9, tr. 96; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B9, tr. 97; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B9, tr. 97, 98
+
+### historical fiction
+- **Tiếng Việt:** Truyện lịch sử
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A narrative work written in prose or verse that draws on historical subjects with varying degrees of fictionalization to vividly recreate events, characters, and social scenes of a specific historical period while conveying contemporary messages.
+- **Giải thích (VI):** Tác phẩm tự sự viết bằng văn xuôi hoặc văn vần, khai thác đề tài lịch sử với các mức độ hư cấu khác nhau nhằm tái hiện sinh động những sự kiện, nhân vật và bức tranh xã hội ở một giai đoạn lịch sử cụ thể, qua đó gửi gắm thông điệp hiện đại.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 1 (Mục Tri thức ngữ văn): Đọc hiểu các văn bản truyện lịch sử như Lá cờ thêu sáu chữ vàng, Quang Trung đại phá quân Thanh và giới thiệu một cuốn truyện lịch sử.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 8; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 9; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 9, 10
+
+### historical setting
+- **Tiếng Việt:** Bối cảnh lịch sử (bối cảnh)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** The totality of fundamental elements—such as national political conditions and scenes of human life in a past era—recreated by the writer within a literary work. Through the author's imagination, fictionalization, and descriptive art, historical time and space appear vividly as if unfolding in the present.
+- **Giải thích (VI):** Tổng thể các yếu tố cơ bản như tình hình chính trị của quốc gia, dân tộc và khung cảnh sinh hoạt của con người ở một thời đại trong quá khứ được nhà văn tái hiện trong tác phẩm. Qua trí tưởng tượng, hư cấu và nghệ thuật miêu tả của tác giả, không gian và thời gian lịch sử hiện lên sống động như đang diễn ra.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 1 (Mục Tri thức ngữ văn): Xác định bối cảnh thời đại trong truyện lịch sử, thơ và phân biệt với bối cảnh cường điệu, bất ngờ trong truyện cười ở Bài 5.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 9; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 9, 10; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 15
 
 ### Ho Chi Minh's artistic style
 - **Tiếng Việt:** Phong cách nghệ thuật của Hồ Chí Minh
@@ -1412,6 +1646,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Ngữ văn lớp 6, Bài 4 (Mục Thực hành tiếng Việt): nhận diện từ đồng âm và phân biệt với từ đa nghĩa.
 - **Nguồn:** SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97, 98; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 101
 
+### homonymy
+- **Tiếng Việt:** Hiện tượng đồng âm (hiện tượng đồng âm giữa một số yếu tố Hán Việt)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A linguistic phenomenon in which words or word-forming elements—especially Sino-Vietnamese morphemes—share identical pronunciation while having completely distinct, unrelated meanings.
+- **Giải thích (VI):** Hiện tượng các từ hoặc yếu tố cấu tạo từ (đặc biệt là các yếu tố Hán Việt) có hình thức ngữ âm trùng nhau hoàn toàn nhưng nghĩa khác xa nhau và không có mối liên hệ nào với nhau.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 4 (Mục Thực hành tiếng Việt): Phân biệt nghĩa của các yếu tố Hán Việt đồng âm khác nghĩa (như gian, nam, thuỷ, giai, giới) để dùng từ chính xác.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 84; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 84, 85
+
+### humor
+- **Tiếng Việt:** Hài hước
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A comic tone in satirical literature characterized by light, witty playfulness combined with unconventional, free-spirited elements that break familiar molds or rise above difficult circumstances.
+- **Giải thích (VI):** Giọng điệu của tiếng cười trào phúng biểu hiện qua lối đùa cợt nhẹ nhàng, hóm hỉnh kết hợp với những yếu tố khác lạ, phóng túng nhằm phá vỡ các khuôn khổ quen thuộc hoặc vượt lên cảnh ngộ thực tại.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 4 (Mục Đọc): Nhận diện giọng điệu hài hước và phân biệt với mỉa mai – châm biếm, đả kích trong thơ trào phúng.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 81; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 88; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 88, 89
+
+### humorous tale
+- **Tiếng Việt:** Truyện cười
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A short narrative genre (prevalent in folklore and also found in written literature) that employs comic devices for entertainment and for ridiculing vices or unnatural and improper social phenomena. Its plot typically centers on ironic situations or paradoxes in an exaggerated, unexpected setting with colloquial, implication-rich language.
+- **Giải thích (VI):** Thể loại tự sự có dung lượng nhỏ (phổ biến trong văn học dân gian và có cả ở văn học viết), sử dụng nhiều thủ pháp gây cười nhằm giải trí và chế giễu những thói hư tật xấu, hiện tượng trái tự nhiên hoặc trái thuần phong mĩ tục. Cốt truyện thường tập trung vào tình huống trớ trêu, nghịch lí trong bối cảnh cường điệu, bất ngờ với ngôn ngữ dân dã, nhiều ẩn ý.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 5 (Mục Tri thức ngữ văn): đọc hiểu chùm truyện cười dân gian Việt Nam và truyện cười hiện đại.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 99; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100, 101
+
 ### hyperbole
 - **Tiếng Việt:** Nói quá (biện pháp tu từ nói quá)
 - **Chuyên ngành gốc:** Ngữ văn
@@ -1421,6 +1679,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Ngữ văn lớp 7, Bài 6 (Mục Thực hành tiếng Việt): Phân tích tác dụng của phép nói quá và phân biệt nói quá với nói khoác.
   - *Lưu ý:* Phân biệt với "nói khoác" (lối nói phóng đại sai sự thật nhằm khoe khoang hoặc đánh lừa người nghe).
 - **Nguồn:** SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B6, tr. 4; SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B6, tr. 5; SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B6, tr. 13
+
+### ideophonic word
+- **Tiếng Việt:** Từ tượng hình
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A word that evokes the visual image, appearance, posture, or state of an object, possessing strong imagery and expressive value that makes the depicted subject appear concrete and vivid.
+- **Giải thích (VI):** Từ gợi tả hình ảnh, dáng vẻ, trạng thái của sự vật, có giá trị gợi hình cao và giàu tính biểu cảm, giúp đối tượng miêu tả hiện lên cụ thể, sinh động.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 2 (Mục Tri thức ngữ văn): Xác định và phân tích giá trị gợi hình, biểu cảm của từ tượng hình trong thơ văn.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 40; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 40, 41; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 42
 
 ### idiom
 - **Tiếng Việt:** Thành ngữ
@@ -1439,6 +1705,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hai bộ sử thi cổ đại của Hô-me bắt nguồn từ đề tài thần thoại, vừa đặt nền móng cho nền văn học Hy Lạp – La Mã và phương Tây, vừa là nguồn tư liệu quý giá để tìm hiểu lịch sử cổ đại.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 1.b): Tác phẩm mở đầu và đặt nền móng cho thành tựu văn học Hy Lạp – La Mã cổ đại.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 51
+
+### imperative sentence
+- **Tiếng Việt:** Câu khiến (câu cầu khiến)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A sentence type classified by communicative purpose used to issue commands, requests, suggestions, or advice, typically containing imperative markers such as hãy, đừng, chớ, đi, thôi, nào. In writing, it ends with an exclamation mark or a period depending on the degree of emphasis.
+- **Giải thích (VI):** Kiểu câu phân loại theo mục đích nói dùng để ra mệnh lệnh, yêu cầu, đề nghị hoặc khuyên bảo, thường có các từ cầu khiến như hãy, đừng, chớ, đi, thôi, nào. Khi viết, câu khiến kết thúc bằng dấu chấm than hoặc dấu chấm tuỳ vào mức độ nhấn mạnh của ý cầu khiến.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 9 (Mục Thực hành tiếng Việt): nhận diện dấu hiệu hình thức và tác dụng giao tiếp của câu khiến trong đối thoại và diễn từ.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 88; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 88, 89; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 93
+
+### imperial edict
+- **Tiếng Việt:** Chiếu
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A feudal administrative prose genre promulgated by a monarch, carrying authoritative force tied to major state policies and affairs. Many imperial edicts not only issue sovereign decrees but also embody strong persuasive power, literary merit, and ideological depth.
+- **Giải thích (VI):** Thể văn hành chính thời phong kiến do nhà vua ban bố, mang tính chất mệnh lệnh gắn liền với những quyết sách, hoạt động trọng đại của nhà nước. Nhiều bài chiếu không chỉ thực hiện chức năng ban bố mệnh lệnh mà còn giàu sức thuyết phục và đậm giá trị văn chương, tư tưởng.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 3 (Mục Thực hành đọc): Đọc hiểu hệ thống luận điểm, lí lẽ, bằng chứng trong văn bản Chiếu dời đô của Lý Công Uẩn.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 60; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3 (Mục 3), tr. 78; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3 (Mục 3), tr. 78, 79
+
+### implicit meaning
+- **Tiếng Việt:** Nghĩa hàm ẩn
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** The portion of meaning not stated directly in words that the receiver must infer from the explicit meaning of the sentence, the meanings of its words, and the communicative context.
+- **Giải thích (VI):** Phần nghĩa không biểu đạt trực tiếp bằng từ ngữ mà người tiếp nhận phải suy luận mới nắm bắt được dựa trên nghĩa tường minh của cả câu, nghĩa của từ ngữ trong câu và ngữ cảnh sử dụng câu.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 5 (Mục Thực hành tiếng Việt): giải mã nghĩa hàm ẩn trong lời thoại hài kịch, truyện cười, ca dao và tục ngữ.
+  - *Lưu ý:* Phân biệt với nghĩa tường minh là phần nghĩa được diễn đạt trực tiếp bằng từ ngữ trong câu.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100, 101; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 113
 
 ### incident report
 - **Tiếng Việt:** Văn bản tường trình
@@ -1466,6 +1758,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với trích dẫn trực tiếp là cách chép nguyên văn câu chữ bản gốc và đặt trong dấu ngoặc kép.
 - **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B4, tr. 98; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B4, tr. 98, 99
 
+### inductive organization
+- **Tiếng Việt:** Quy nạp (đoạn văn quy nạp)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A method of organizing arguments and paragraphs that progresses from the specific to the general, and from the concrete to the abstract. In an inductive paragraph, initial sentences present specific details, reasons, and examples leading up to a concluding topic sentence that generalizes the main idea.
+- **Giải thích (VI):** Phương thức tổ chức lập luận và triển khai đoạn văn theo trình tự đi từ cái riêng đến cái chung, từ cụ thể đến khái quát. Trong đoạn văn quy nạp, các câu đầu nêu những chi tiết, lí lẽ, dẫn chứng cụ thể để dẫn tới câu chủ đề khái quát ý toàn đoạn đặt ở cuối đoạn.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 3 (Mục Tri thức ngữ văn): Nhận biết đoạn văn quy nạp có câu chủ đề ở cuối đoạn và thực hành viết đoạn văn theo lối quy nạp.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 58; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 58, 59; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 59
+
 ### infographic
 - **Tiếng Việt:** Infographic (đồ hoạ thông tin)
 - **Chuyên ngành gốc:** Ngữ văn
@@ -1489,11 +1789,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại văn bản có chức năng chính là truyền tải thông tin xác thực, khách quan và có thể kiểm chứng thông qua ngôn ngữ sáng rõ, đơn nghĩa kết hợp cùng các phương tiện trực quan như hình ảnh, sơ đồ, biểu đồ. Trong đời sống, loại văn bản này tồn tại đa dạng dưới dạng bản tin, báo cáo, thông báo, thư từ và có thể lồng ghép yếu tố tự sự, miêu tả, biểu cảm hay nghị luận để tăng hiệu quả tiếp nhận.
 - **Giải thích khác (SGK Ngữ văn 12 Tập 2):** EN: A text type whose primary purpose is to provide new, reliable information about objects and phenomena based on rich, accurate, and objective data. In an informational text, the author's stance, attitude, and viewpoint are conveyed indirectly through the selection, organization, presentation, analysis, and evaluation of data. / VI: Loại văn bản lấy việc cung cấp thông tin mới, đáng tin cậy về sự vật, hiện tượng làm mục đích chính, dựa trên hệ thống dữ liệu phong phú, chính xác và khách quan. Trong văn bản thông tin, lập trường, thái độ và quan điểm của tác giả thường bộc lộ gián tiếp qua cách chọn lọc, sắp xếp, trình bày, phân tích và đánh giá dữ liệu.
 - **Giải thích khác (SGK Ngữ văn 6 Tập 2):** EN: A category of text whose primary function is to provide information about objects, phenomena, or events. / VI: Loại văn bản có chức năng chủ yếu là cung cấp thông tin về các sự vật, hiện tượng hoặc sự kiện.
+- **Giải thích khác (SGK Ngữ văn 8 Tập 2):** EN: A text type whose primary purpose is to provide verifiable information about entities, events, or phenomena in nature and society, placing paramount importance on objectivity in both content and presentation. Where the author includes subjective evaluations to orient values, those opinions must remain separate from the objective information. / VI: Loại văn bản có mục đích chính là cung cấp thông tin xác thực về một sự vật, sự việc hoặc hiện tượng trong tự nhiên và xã hội, đề cao tính khách quan của bản thân thông tin và cách đưa tin. Nếu tác giả lồng ghép ý kiến đánh giá chủ quan để định hướng giá trị thì phần ý kiến đó phải đặt độc lập với phần thông tin khách quan.
 - **Bối cảnh:**
   - Ngữ văn lớp 10, Bài 8 (Mục Tri thức ngữ văn): Đọc hiểu cách triển khai dữ liệu và phương tiện phi ngôn ngữ trong các văn bản báo chí, văn hóa và khoa học.
   - Ngữ văn lớp 12, Bài 8 (Mục Tri thức ngữ văn): đọc hiểu và tạo lập các văn bản thông tin tổng hợp có sử dụng dữ liệu sơ cấp và dữ liệu thứ cấp.
   - Ngữ văn lớp 6, Bài 6 (Mục Tri thức ngữ văn): đọc hiểu và tạo lập văn bản thông tin.
-- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B8, tr. 73; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B8, tr. 73, 74; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B8, tr. 74; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 63; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 63, 64; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 64; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 5; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 5, 6; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6 (Mục Viết), tr. 16
+  - Ngữ văn lớp 8, Bài 9 (Mục Tri thức ngữ văn): đọc hiểu mục đích và mối quan hệ giữa thông tin khách quan với ý kiến chủ quan trong văn bản thông tin.
+- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B8, tr. 73; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B8, tr. 73, 74; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B8, tr. 74; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 63; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 63, 64; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 64; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 5; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6, tr. 5, 6; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B6 (Mục Viết), tr. 16; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 86; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 87; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 87, 88
 
 ### inner world
 - **Tiếng Việt:** Thế giới nội tâm (thế giới nội tâm của nhân vật)
@@ -1514,6 +1816,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Ngữ văn lớp 11, Bài 6 (Mục Đọc): Phân tích diễn biến tâm trạng phức tạp của nhân vật Thuý Kiều trong đoạn trích Trao duyên (Truyện Kiều).
 - **Nguồn:** SGK Ngữ văn 11 KNTT Tập 1, Tập một, B1, tr. 10; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B1, tr. 10, 11; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 90; SGK Ngữ văn 11 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 127; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B6 (Mục II.2), tr. 11; SGK Ngữ văn 11 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 126
 
+### interjection
+- **Tiếng Việt:** Thán từ
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A word used to directly express the speaker's or writer's emotions and feelings or to call and respond in communication. In spoken language, interjections are typically accompanied by intonation, facial expressions, and gestures matching the expressed emotion.
+- **Giải thích (VI):** Từ dùng để bộc lộ trực tiếp tình cảm, cảm xúc của người nói, người viết hoặc dùng để gọi – đáp trong giao tiếp. Khi nói, việc sử dụng thán từ thường đi kèm ngữ điệu, nét mặt và cử chỉ tương ứng với cảm xúc biểu thị.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 6 (Mục Thực hành tiếng Việt): nhận diện đặc điểm và chức năng của thán từ trong lời thoại nhân vật và giao tiếp hằng ngày.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6, tr. 4; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6, tr. 5; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6, tr. 23
+
 ### internal point of view
 - **Tiếng Việt:** Điểm nhìn bên trong
 - **Chuyên ngành gốc:** Ngữ văn
@@ -1529,6 +1839,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại văn bản thông tin có đòi hỏi riêng về thể thức, nêu những yêu cầu, quy định của một đơn vị, cơ quan nhằm đảm bảo an ninh hoặc sự hoạt động thông suốt của đơn vị, cơ quan đó.
 - **Bối cảnh:** Ngữ văn lớp 10, Bài 8 (Mục Tri thức ngữ văn, Viết): Nhận biết thể thức và thực hành viết bản nội quy ở cơ quan, đơn vị hoặc nơi công cộng.
 - **Nguồn:** SGK Ngữ văn 10 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130; SGK Ngữ văn 10 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 130, 131; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B8, tr. 74
+
+### interrogative sentence
+- **Tiếng Việt:** Câu hỏi (câu nghi vấn)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A sentence type classified by communicative purpose whose primary function is to ask questions, typically containing interrogative words (such as ai, gì, nào, sao, đâu, bao giờ, à, ư, hả, có... không, đã... chưa) or the disjunctive conjunction hay and ending with a question mark in writing. In actual communication, the interrogative form may also be used indirectly to make requests or express emotions.
+- **Giải thích (VI):** Kiểu câu phân loại theo mục đích nói chủ yếu dùng để hỏi, thường chứa các từ nghi vấn (như ai, gì, nào, sao, đâu, bao giờ, à, ư, hả, có... không, đã... chưa) hoặc từ hay nối các vế lựa chọn và kết thúc bằng dấu chấm hỏi khi viết. Trong thực tế giao tiếp, hình thức câu hỏi còn có thể mượn để cầu khiến hoặc bộc lộ cảm xúc.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 9 (Mục Thực hành tiếng Việt): nhận biết đặc điểm hình thức và chức năng trực tiếp, gián tiếp của câu hỏi trong văn bản.
+  - *Lưu ý:* Là kiểu câu ngữ pháp phân loại theo mục đích nói, phân biệt với câu hỏi tu từ xét như một biện pháp nghệ thuật.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 86; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 88; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 88, 89
+
+### invective
+- **Tiếng Việt:** Đả kích
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A vehement register of satirical laughter characterized by fierce repudiation of its target through direct, sometimes blunt or colloquial language. Invective clearly expresses the author's moral and existential stance in order to condemn and warn against widespread moral degradation in society.
+- **Giải thích (VI):** Cấp độ quyết liệt của tiếng cười trào phúng mang giọng điệu phủ nhận gay gắt đối tượng bằng ngôn từ trực diện, đôi khi suồng sã, thô mộc. Tiếng cười đả kích thể hiện rõ quan niệm nhân sinh, đạo đức của tác giả nhằm lên án và cảnh tỉnh sự tha hoá đạo đức trong xã hội.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 4 (Mục Đọc): Nhận diện giọng điệu đả kích gay gắt trong các bài thơ trào phúng phê phán sự suy đồi đạo đức xã hội.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 81; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 88; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 90
+
+### isolated constituent
+- **Tiếng Việt:** Thành phần biệt lập
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A sentence element that does not participate in the core syntactic structure or propositional event meaning of a clause, serving instead to express modality, convey emotion, establish vocative-responsive interaction, or add parenthetical information.
+- **Giải thích (VI):** Thành phần không nằm trong cấu trúc cú pháp cơ bản của câu và không tham gia diễn đạt nghĩa sự việc của câu, dùng để biểu đạt nghĩa tình thái, cảm thán, tạo lập quan hệ gọi – đáp hoặc bổ sung chi tiết chêm xen.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 8 (Mục Thực hành tiếng Việt): nhận biết đặc điểm ngữ pháp và chức năng của bốn loại thành phần biệt lập trong câu.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 59; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 66; SGK Ngữ văn 8 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 135
 
 ### legend
 - **Tiếng Việt:** Truyền thuyết
@@ -1551,8 +1887,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** The semantic content denoting entities, actions, properties, or relations that a word expresses in linguistic communication.
 - **Giải thích (VI):** Phần nội dung chỉ sự vật, hoạt động, tính chất hoặc quan hệ mà từ biểu thị trong giao tiếp ngôn ngữ.
-- **Bối cảnh:** Ngữ văn lớp 11, Bài 9 (Mục Tri thức ngữ văn và Thực hành tiếng Việt): Nắm vững bản chất nội dung của từ để giải nghĩa chính xác từ Hán Việt, từ cổ và từ địa phương trong văn bản.
-- **Nguồn:** SGK Ngữ văn 11 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 127; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B9, tr. 94; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B9, tr. 98
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: The conceptual content—denoting objects, actions, qualities, or relations—expressed by a word, which may encompass both its core denotative meaning and supplementary nuances reflecting the user's attitude or emotion. / VI: Phần nội dung chỉ sự vật, hoạt động, tính chất, quan hệ,... mà từ biểu thị, có thể bao gồm cả nghĩa cơ bản lẫn sắc thái nghĩa bổ sung thể hiện thái độ, cảm xúc của người dùng.
+- **Bối cảnh:**
+  - Ngữ văn lớp 11, Bài 9 (Mục Tri thức ngữ văn và Thực hành tiếng Việt): Nắm vững bản chất nội dung của từ để giải nghĩa chính xác từ Hán Việt, từ cổ và từ địa phương trong văn bản.
+  - Ngữ văn lớp 8, Bài 4 (Mục Tri thức ngữ văn): Giải thích nghĩa của từ ngữ, thành ngữ Hán Việt và phân biệt sắc thái nghĩa của từ ngữ trong văn cảnh.
+- **Nguồn:** SGK Ngữ văn 11 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 127; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B9, tr. 94; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B9, tr. 98; SGK Ngữ văn 8 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 130; SGK Ngữ văn 8 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 130, 131; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 81
 
 ### lexical repetition
 - **Tiếng Việt:** Phép lặp
@@ -1580,23 +1919,37 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Ngữ văn lớp 12, Bài 4 (Mục Tri thức ngữ văn): Nhận diện đặc trưng từ ngữ, điển cố và sự đan xen văn xuôi với văn vần trong truyện truyền kì.
 - **Nguồn:** SGK Ngữ văn 12 KNTT Tập 1, Tập một, B4, tr. 93; SGK Ngữ văn 12 KNTT Tập 1, Tập một, B4, tr. 93, 94
 
+### listening and summarizing a presentation
+- **Tiếng Việt:** Nghe và tóm tắt nội dung thuyết trình của người khác
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** The activity of listening attentively to keywords and emphasized or repeated information in order to grasp a speaker's viewpoint on a topic. The listener simultaneously records the main points concisely and accurately using diagrammatic symbols while noting personal questions and reflections for subsequent discussion.
+- **Giải thích (VI):** Hoạt động lắng nghe, theo dõi từ khoá và những thông tin nhấn mạnh hoặc lặp lại nhằm nắm bắt ý kiến của người nói về vấn đề thuyết trình. Người nghe đồng thời ghi tóm tắt ngắn gọn, chính xác các nội dung chính kết hợp kí hiệu sơ đồ và ghi chú thắc mắc, suy nghĩ riêng để chuẩn bị trao đổi.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 5 (Mục Nói và nghe): thực hành lắng nghe và lập bản tóm tắt nội dung trình bày của người khác về một vấn đề xã hội.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5 (Mục 1), tr. 119; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5 (Mục 2), tr. 119; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5 (Mục 3), tr. 119
+
 ### literary analysis essay
-- **Tiếng Việt:** Văn bản nghị luận phân tích một tác phẩm văn học
+- **Tiếng Việt:** Văn bản nghị luận phân tích một tác phẩm văn học (Bài văn phân tích một tác phẩm văn học; phân tích một tác phẩm văn học)
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** A type of argumentative text in which the writer clarifies and discusses the content and formal features of a literary work in relation to its author, context of composition, and era, thereby generalizing the work's overall value. Its argumentation combines reasoning (evaluative claims about the work's content and form) with textual evidence consisting of sentences, passages, or details quoted verbatim or summarized from the work.
 - **Giải thích (VI):** Loại văn bản nghị luận trong đó người viết làm rõ, bàn luận về đặc điểm nội dung và hình thức của một tác phẩm văn học trong mối quan hệ với tác giả, hoàn cảnh sáng tác, thời đại, qua đó khái quát giá trị chung của tác phẩm. Hệ thống lập luận của văn bản kết hợp lí lẽ (ý kiến đánh giá về nội dung, hình thức tác phẩm) với bằng chứng là các câu, đoạn, chi tiết trích dẫn nguyên văn hoặc lược thuật từ tác phẩm.
-- **Bối cảnh:** Ngữ văn lớp 7, Bài 10 (Mục Tri thức ngữ văn, Đọc): nhận biết mối quan hệ giữa đặc điểm, lí lẽ và bằng chứng với mục đích phân tích tác phẩm văn học.
-- **Nguồn:** SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B10, tr. 102; SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B10, tr. 102, 103; SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B10, tr. 106
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: A literary argumentative essay type that elucidates the distinctive content and artistic features of a literary work, such as a Tang-style regulated poem or a satirical poem. The essay briefly introduces the author, the work, and an overall assessment, then analyzes its core content and theme alongside key artistic elements (prosody, language, rhetorical devices) before affirming the work's significance. / VI: Kiểu bài nghị luận văn học làm rõ những nét đặc sắc về nội dung và hình thức nghệ thuật của một tác phẩm (như bài thơ Đường luật hoặc bài thơ trào phúng). Bài viết giới thiệu khái quát tác giả, tác phẩm và nhận định chung, sau đó phân tích nội dung, chủ đề gắn với các yếu tố nghệ thuật tiêu biểu (thi luật, ngôn ngữ, biện pháp tu từ,...) và khẳng định vị trí, ý nghĩa của tác phẩm.
+- **Bối cảnh:**
+  - Ngữ văn lớp 7, Bài 10 (Mục Tri thức ngữ văn, Đọc): nhận biết mối quan hệ giữa đặc điểm, lí lẽ và bằng chứng với mục đích phân tích tác phẩm văn học.
+  - Ngữ văn lớp 8, Bài 2 (Mục Viết): Thực hành viết bài văn phân tích một bài thơ thất ngôn bát cú, tứ tuyệt Đường luật và mở rộng sang phân tích thơ trào phúng ở Bài 4.
+- **Nguồn:** SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B10, tr. 102; SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B10, tr. 102, 103; SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B10, tr. 106; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 48; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2 (Mục Viết), tr. 48; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2 (Mục Viết), tr. 48, 49
 
 ### literary argumentation
 - **Tiếng Việt:** Nghị luận văn học (văn bản nghị luận văn học; bài nghị luận văn học)
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** A subgenre of argumentative writing that addresses literary topics—such as authors, works, or genres—and uses reasoning and evidence to clarify those topics. In literary argumentation, reasoning consists of the writer's specific observations on the literary issue, while evidence is typically drawn from literary works.
 - **Giải thích (VI):** Một loại văn nghị luận bàn về các vấn đề văn học như tác giả, tác phẩm, thể loại và sử dụng lí lẽ cùng bằng chứng để làm sáng tỏ vấn đề đó. Trong nghị luận văn học, lí lẽ là những nhận xét cụ thể của người viết về vấn đề văn học, còn bằng chứng thường lấy từ tác phẩm văn học.
+- **Giải thích khác (SGK Ngữ văn 8 Tập 2):** EN: A type of argumentative text in which the writer presents viewpoints, reflections, and evaluations concerning a literary issue such as an author, work, genre, movement, or literary reception. Such texts require coherent organization with a clear central thesis, supporting points, sound reasoning, and convincing evidence. / VI: Loại văn bản nghị luận trong đó người viết trình bày quan điểm, suy nghĩ và sự đánh giá của mình về một vấn đề thuộc lĩnh vực văn học như tác giả, tác phẩm, thể loại, trào lưu hay sự tiếp nhận. Văn bản cần tổ chức hợp lí với luận đề, luận điểm rõ ràng, lí lẽ xác đáng và bằng chứng thuyết phục.
 - **Bối cảnh:**
   - Ngữ văn lớp 6, Bài 10 (Mục Thách thức đầu tiên): nhận biết đặc điểm của văn bản nghị luận văn học bàn về tác giả và tác phẩm.
+  - Ngữ văn lớp 8, Bài 8 (Mục Tri thức ngữ văn): đọc hiểu các bài phê bình, tiểu luận bàn về nhà thơ, tác phẩm và ý nghĩa của việc đọc văn.
   - *Lưu ý:* Trong chương trình Ngữ văn phổ thông Việt Nam, 'nghị luận văn học' ('literary argumentation') là phân loại văn nghị luận song hành với 'nghị luận xã hội', gần gũi nhưng rộng hơn 'phê bình văn học' ('literary criticism') chuyên sâu.
-- **Nguồn:** SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B10 (Mục 3), tr. 116; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B10 (Mục 3), tr. 116, 117
+  - *Lưu ý:* Phân biệt với nghị luận xã hội vốn bàn luận về các tư tưởng đạo lí hoặc hiện tượng đời sống xã hội.
+- **Nguồn:** SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B10 (Mục 3), tr. 116; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B10 (Mục 3), tr. 116, 117; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 59; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60, 61
 
 ### literary character
 - **Tiếng Việt:** Nhân vật (Nhân vật văn học)
@@ -1631,13 +1984,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Chỉ hình ảnh ngôn từ gợi ra trong trí tưởng tượng qua tác phẩm văn học, phân biệt với hình ảnh thị giác hay đồ hoạ.
 - **Nguồn:** SGK Ngữ văn 7 KNTT Tập 1, Tập một, B4, tr. 89; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B4, tr. 89, 90; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B4, tr. 90
 
+### literary imagination
+- **Tiếng Việt:** Tưởng tượng (tưởng tượng trong tiếp nhận văn học)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** An essential mental activity in both literary creation and reception: enabling the writer to transform real-life experience into vivid fictional imagery while allowing the reader to actively reconstruct and visualize the space, time, characters, and emotions encoded in the text.
+- **Giải thích (VI):** Hoạt động tinh thần thiết yếu trong cả sáng tạo lẫn tiếp nhận văn học: giúp nhà văn từ vốn sống hiện thực hư cấu nên thế giới hình tượng sống động, đồng thời thể hiện tính tích cực của người đọc khi làm sống dậy cụ thể không gian, thời gian, nhân vật và cảm xúc mã hoá trong tác phẩm.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 8 và Bài 10 (Mục Tri thức ngữ văn): phân tích vai trò của trí tưởng tượng trong quá trình nhà văn sáng tác và độc giả tiếp nhận tác phẩm.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B7, tr. 41; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B7, tr. 41, 42; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B7 (Mục 1), tr. 50; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B10, tr. 116
+
 ### literary language
-- **Tiếng Việt:** Ngôn ngữ văn học
+- **Tiếng Việt:** Ngôn ngữ văn học (Ngôn ngữ; ngôn ngữ nhân vật)
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** The specialized expressive medium of literary creation, developed from everyday common language through the inspired artistic labor of writers. Its two core attributes are figurativeness and aesthetic quality, which govern precision, polysemy, vividness, expressiveness, and individualization.
 - **Giải thích (VI):** Ngôn ngữ biểu đạt đặc thù của sáng tác văn học, hình thành trên cơ sở ngôn ngữ chung của đời sống nhờ lao động tinh thần sáng tạo và đầy cảm hứng của nhà văn. Hai tính chất quan trọng nhất của ngôn ngữ văn học là tính hình tượng và tính thẩm mĩ, chi phối tính chính xác, tính đa nghĩa, tính tạo hình, tính biểu cảm và tính cá thể hoá.
-- **Bối cảnh:** Ngữ văn lớp 11, Bài 2 (Mục Tri thức ngữ văn): Phân tích phẩm chất thẩm mĩ, tính hình tượng và sự sáng tạo ngôn từ trong tác phẩm văn chương.
-- **Nguồn:** SGK Ngữ văn 11 KNTT Tập 1, Tập một, B2, tr. 55; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B2, tr. 55, 56; SGK Ngữ văn 11 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 158
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: The verbal medium of expression in a literary work, encompassing both narrator discourse and character speech. In historical fiction, language—especially character speech—must fit the depicted era and reflect each figure's social status and individuality, whereas in humorous tales it is typically rustic, colloquial, and rich in implication. / VI: Phương tiện biểu đạt bằng lời văn trong tác phẩm văn học, bao gồm lời người kể chuyện và lời nhân vật. Trong truyện lịch sử, ngôn ngữ (nhất là ngôn ngữ nhân vật) phải phù hợp với thời đại được miêu tả, thể hiện rõ vị thế xã hội và tính cách từng đối tượng; còn trong truyện cười, ngôn ngữ thường mộc mạc, dân dã và giàu ẩn ý.
+- **Bối cảnh:**
+  - Ngữ văn lớp 11, Bài 2 (Mục Tri thức ngữ văn): Phân tích phẩm chất thẩm mĩ, tính hình tượng và sự sáng tạo ngôn từ trong tác phẩm văn chương.
+  - Ngữ văn lớp 8, Bài 1 (Mục Tri thức ngữ văn): Nhận xét màu sắc lịch sử của ngôn ngữ nhân vật trong truyện lịch sử và ngôn ngữ dân dã trong truyện cười ở Bài 5.
+- **Nguồn:** SGK Ngữ văn 11 KNTT Tập 1, Tập một, B2, tr. 55; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B2, tr. 55, 56; SGK Ngữ văn 11 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 158; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 9; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 9, 10; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 15
 
 ### literary nonfiction
 - **Tiếng Việt:** Kí
@@ -1650,6 +2014,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Ngữ văn lớp 6, Bài 5 (Mục Tri thức ngữ văn): nhận diện đặc trưng thể loại kí trong văn học.
   - *Lưu ý:* Chỉ nhóm thể loại văn xuôi nghệ thuật phi hư cấu (tuỳ bút, tản văn, phóng sự, hồi kí); phân biệt với khái niệm phi hư cấu (nonfiction) nói chung.
 - **Nguồn:** SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B7, tr. 33; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B7, tr. 33, 34; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B7, tr. 34; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 118; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 119; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B5, tr. 119, 120
+
+### literary reception
+- **Tiếng Việt:** Tiếp nhận văn bản văn học (quá trình tiếp nhận)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** The reader's activity of reading, imagining, and appreciating the thematic and artistic values of a literary text, representing an active response that sustains the living existence of the work. Grounded in textual features yet shaped by each reader's life experience and context, this process continually enriches and expands a work's meaning across eras.
+- **Giải thích (VI):** Hoạt động đọc, tưởng tượng và cảm nhận giá trị nội dung, nghệ thuật của độc giả đối với văn bản văn học, thể hiện sự hồi đáp tích cực làm nên đời sống văn học. Gắn liền với đặc điểm văn bản nhưng phụ thuộc vào vốn sống và hoàn cảnh riêng của mỗi người đọc, quá trình này giúp ý nghĩa tác phẩm không ngừng mở rộng qua từng thời đại.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 8 (Mục Tri thức ngữ văn): tìm hiểu bản chất của việc đọc văn và tôn trọng sự đa dạng trong cách tiếp nhận tác phẩm văn học.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 59; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 8 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 135
 
 ### literary text
 - **Tiếng Việt:** Văn bản văn học
@@ -1816,6 +2188,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Ngữ văn lớp 6, Bài 4 (Mục Thực hành tiếng Việt): nhận biết phép hoán dụ và phân biệt với phép ẩn dụ.
 - **Nguồn:** SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97, 98; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 108
 
+### military proclamation
+- **Tiếng Việt:** Hịch
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A classical argumentative prose genre typically issued by monarchs or military commanders to persuade and rally subordinates against an enemy in wartime (or composed by commoners calling for resistance against foreign invaders or ruling classes). A call-to-arms proclamation generally unfolds in three main parts: establishing ideological grounds, analyzing actual conditions to contrast one's just cause with the enemy's injustice, and delivering an exhortation to action.
+- **Giải thích (VI):** Thể văn nghị luận cổ thường do vua chúa, tướng lĩnh dùng để thuyết phục, khích lệ tướng sĩ và người dưới quyền đứng lên chống kẻ thù trong bối cảnh chiến tranh (hoặc do nhân dân sáng tác kêu gọi chống ngoại xâm, giai cấp thống trị). Một bài hịch đánh giặc thường triển khai ba nội dung chính: nêu căn cứ của lập trường, phân tích tình hình thực tế để làm rõ chính nghĩa của ta và phi nghĩa của địch, rồi đưa ra lời kêu gọi, khuyến dụ.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 3 (Mục Đọc): Đọc hiểu đặc trưng thể loại và nghệ thuật lập luận trong văn bản Hịch tướng sĩ của Trần Quốc Tuấn.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 59; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 59, 60; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 60
+
 ### Ming-Qing novels
 - **Tiếng Việt:** Tiểu thuyết thời Minh – Thanh
 - **Chuyên ngành gốc:** Ngữ văn
@@ -1874,6 +2254,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Ngữ văn lớp 7, Bài 2 (Mục Tri thức ngữ văn): Nhận biết sự phối hợp linh hoạt các kiểu vần trong bài thơ.
 - **Nguồn:** SGK Ngữ văn 7 KNTT Tập 1, Tập một, B2, tr. 39; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B2, tr. 39, 40; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B2 (Mục 1), tr. 49
 
+### modal constituent
+- **Tiếng Việt:** Thành phần tình thái
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A type of isolated constituent used to express the speaker's or writer's attitude, perspective, and degree of certainty regarding the event stated in the sentence (commonly marked by expressions such as chắc chắn, chắc hẳn, dường như, hình như, có lẽ).
+- **Giải thích (VI):** Một loại thành phần biệt lập thể hiện thái độ, cách đánh giá và mức độ tin cậy của người nói hoặc người viết đối với sự việc nêu trong câu (ví dụ: chắc chắn, chắc hẳn, dường như, hình như, có lẽ).
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 8 (Mục Thực hành tiếng Việt): xác định thành phần tình thái và mức độ tin cậy của sự việc được đề cập trong câu.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60, 61; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 66
+
 ### mode of transmission
 - **Tiếng Việt:** Phương thức lưu truyền
 - **Chuyên ngành gốc:** Ngữ văn
@@ -1921,6 +2309,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Lời của nhân vật hoặc một người tự nói với chính mình dưới dạng nghĩ thầm trong đầu hoặc phát ra thành tiếng.
 - **Bối cảnh:** Ngữ văn lớp 6, Bài 3 (Mục Tri thức ngữ văn): phân biệt lời độc thoại với lời đối thoại của nhân vật trong truyện.
 - **Nguồn:** SGK Ngữ văn 6 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 148; SGK Ngữ văn 6 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 148, 149; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B3, tr. 66
+
+### multi-strand plot
+- **Tiếng Việt:** Cốt truyện đa tuyến
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A plot structure developing at least two concurrent storylines with complex, interwoven events to depict multiple facets of life and the character development of diverse character lines. This plot type is commonly used in modern novels.
+- **Giải thích (VI):** Kiểu cốt truyện tồn tại đồng thời ít nhất hai mạch sự kiện với hệ thống tình tiết phức tạp, chồng chéo nhằm tái hiện nhiều bình diện đời sống và quá trình phát triển tính cách của nhiều tuyến nhân vật. Kiểu cốt truyện này thường xuất hiện trong tiểu thuyết hiện đại.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 6 (Mục Tri thức ngữ văn): phân tích cấu trúc cốt truyện đa tuyến kiểu truyện lồng truyện trong văn bản Mắt sói.
+  - *Lưu ý:* Đối lập với cốt truyện đơn tuyến chỉ gồm một mạch sự kiện tập trung vào một hoặc vài nhân vật chính.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6, tr. 4; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6, tr. 5; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6, tr. 13
 
 ### multi-thematic literary text
 - **Tiếng Việt:** Văn bản văn học có nhiều chủ đề
@@ -1989,6 +2387,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Ngữ văn lớp 11, Bài 3 (Mục Tri thức ngữ văn): Nhận biết vai trò dẫn chuyện làm bằng chứng của yếu tố tự sự trong văn bản nghị luận.
   - *Lưu ý:* Xét với tư cách yếu tố bổ trợ trong văn bản nghị luận, phân biệt với 'loại hình tự sự' (narrative mode) là một loại hình tác phẩm văn học.
 - **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 163; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3 (Mục CỦNG CỐ, MỞ RỘNG), tr. 94; SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 161; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 76; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 76, 77; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B3, tr. 90
+
+### narrative essay recounting a trip
+- **Tiếng Việt:** Bài văn kể lại một chuyến đi
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A narrative essay type that recounts a visit to a historical or cultural site associated with past events or national figures, introducing the purpose of the trip and narrating its progression across destinations and main activities. The essay combines descriptive and expressive elements to highlight the site's scenery, architecture, and people alongside the writer's impressions, emotions, and reflections.
+- **Giải thích (VI):** Kiểu bài tự sự thuật lại một chuyến tham quan di tích lịch sử, văn hoá gắn với sự kiện quá khứ hoặc danh nhân đất nước, trong đó giới thiệu lí do, mục đích và kể lại diễn biến hành trình theo trình tự các điểm đến, hoạt động chính. Bài viết kết hợp yếu tố miêu tả và biểu cảm để làm nổi bật đặc điểm phong cảnh, kiến trúc, con người nơi di tích cùng ấn tượng, cảm xúc, suy nghĩ của người viết.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 1 (Mục Viết): Thực hành viết bài văn kể lại một chuyến tham quan di tích lịch sử, văn hoá để lại ấn tượng sâu sắc.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 28; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1 (Mục Viết), tr. 28; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1 (Mục Viết), tr. 28, 29
 
 ### narrative essay recounting a true event related to a historical figure
 - **Tiếng Việt:** Bài văn kể lại sự việc có thật liên quan đến một nhân vật lịch sử
@@ -2089,6 +2495,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với lời nhân vật là ngôn từ trực tiếp hoặc gián tiếp gắn liền với ý thức và giọng điệu riêng của nhân vật trong truyện.
 - **Nguồn:** SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B7, tr. 38; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B7, tr. 38, 39; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B7, tr. 58; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B1, tr. 10; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B1, tr. 10, 11; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 12, 13; SGK Ngữ văn 6 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 147
 
+### natural phenomenon explanatory text
+- **Tiếng Việt:** Văn bản giải thích một hiện tượng tự nhiên
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A type of informational text common in journalism and scientific literature that clarifies the nature, causes, and positive or negative human impacts of a natural phenomenon. Such texts typically describe characteristic manifestations—often supported by reliable visual evidence—before explaining them through scientific grounds and reasoning.
+- **Giải thích (VI):** Loại văn bản thông tin phổ biến trên báo chí và tài liệu khoa học nhằm làm sáng tỏ bản chất, nguyên nhân xuất hiện cùng những tác động tích cực hoặc tiêu cực của một hiện tượng tự nhiên đối với đời sống con người. Trước khi giải thích bằng căn cứ và lập luận khoa học, văn bản thường miêu tả các biểu hiện điển hình kèm hình ảnh trực quan từ nguồn đáng tin cậy.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 9 (Mục Tri thức ngữ văn): đọc hiểu cách triển khai thông tin và phương tiện phi ngôn ngữ trong văn bản giải thích hiện tượng lũ ở miền châu thổ sông Cửu Long.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 87; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 87, 88; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 92
+
 ### negating quality
 - **Tiếng Việt:** Tính phủ định
 - **Chuyên ngành gốc:** Ngữ văn
@@ -2096,6 +2510,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đặc trưng lập trường trong văn bản nghị luận gắn với mục đích phản bác những luận đề, quan điểm, cách ứng xử, lựa chọn hoặc niềm tin mà tác giả cho là sai trái, không phù hợp, luôn đặt trên cơ sở thái độ khẳng định một giá trị đúng đắn đối lập.
 - **Bối cảnh:** Ngữ văn lớp 12, Bài 6 (Mục Tri thức ngữ văn, Thực hành tiếng Việt): Phân tích thái độ bác bỏ luận điệu sai trái trong văn chính luận và văn bản nghị luận.
 - **Nguồn:** SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B6, tr. 5; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B6, tr. 5, 6; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B6 (Mục II.3), tr. 17
+
+### negative sentence
+- **Tiếng Việt:** Câu phủ định
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A sentence containing negative markers (such as không, chẳng, chả, chưa, không phải là, đâu phải là, đâu có) used to confirm the absence of an entity, event, property, or relation, or to refute an opinion or claim. Sentences combining double negation (such as không phải không biết) convey an affirmative meaning rather than functioning as negative sentences.
+- **Giải thích (VI):** Câu chứa những từ ngữ phủ định (như không, chẳng, chả, chưa, không phải là, đâu phải là, đâu có) dùng để thông báo, xác nhận không có sự vật, sự việc, tính chất, quan hệ nào đó hoặc để phản bác một ý kiến, nhận định. Câu có hai từ phủ định đi liền nhau theo mô hình như không phải không biết mang nghĩa khẳng định chứ không phải câu phủ định.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 9 (Mục Thực hành tiếng Việt): nhận biết câu phủ định và phân biệt với câu khẳng định sử dụng cấu trúc hai từ phủ định.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 88; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 88, 89; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 101
 
 ### New Poetry movement
 - **Tiếng Việt:** Phong trào Thơ mới
@@ -2195,6 +2617,54 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với danh từ chỉ đơn vị gắn với ý nghĩa số lượng (như đôi, chục, tá — vốn kết hợp được với số từ ở trước và từ chỉ định ở sau).
 - **Nguồn:** SGK Ngữ văn 7 KNTT Tập 1, Tập một, B3, tr. 58; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B3, tr. 58, 59; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B3, tr. 64
 
+### objective evidence
+- **Tiếng Việt:** Bằng chứng khách quan
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** Verifiable, factual evidence used in an argumentative text to strengthen the weight and persuasiveness of reasoning, distinguished from the writer's subjective opinions or evaluations.
+- **Giải thích (VI):** Loại bằng chứng có thật và có thể kiểm chứng trong thực tế, dùng trong văn bản nghị luận để làm tăng sức nặng và tính thuyết phục cho lí lẽ, phân biệt với ý kiến hay đánh giá chủ quan của người viết.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 3 (Mục Đọc): Phân biệt bằng chứng khách quan có thể kiểm chứng với ý kiến, đánh giá chủ quan của người viết trong văn bản nghị luận.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 130; SGK Ngữ văn 8 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 130, 131; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 67
+
+### objective information
+- **Tiếng Việt:** Thông tin khách quan (thông tin khách quan trong văn bản thông tin)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** The foundational component of an informational text, providing specific, truthful, and verifiable data that grounds any evaluation of the subject. Such data is gathered through documentary research and field observation structured around the key questions Who, What, When, Where, and How.
+- **Giải thích (VI):** Thành phần cơ bản của văn bản thông tin, đưa đến những dữ liệu cụ thể, trung thực, có thể kiểm chứng để làm chỗ dựa cho toàn bộ đánh giá về đối tượng. Các thông tin này được thu thập qua tra cứu tài liệu và tiếp cận thực tế xoay quanh các câu hỏi then chốt: Ai, Cái gì, Khi nào, Ở đâu và Như thế nào.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 9 (Mục Tri thức ngữ văn): phân biệt dữ liệu khách quan có thể kiểm chứng với ý kiến đánh giá chủ quan của người viết.
+  - *Lưu ý:* Phân biệt với ý kiến chủ quan là những nhận xét, đánh giá mang quan điểm riêng của tác giả về đối tượng.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 87; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 87, 88; SGK Ngữ văn 8 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 135
+
+### onomatopoeic word
+- **Tiếng Việt:** Từ tượng thanh
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A word that imitates natural or human sounds according to the phonological conventions of a given language, evoking vivid auditory impressions and expressive nuances in description.
+- **Giải thích (VI):** Từ mô phỏng âm thanh của tự nhiên hoặc của con người theo cách riêng của từng ngôn ngữ, có giá trị gợi âm thanh sống động và giàu tính biểu cảm trong miêu tả.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 2 (Mục Tri thức ngữ văn): Nhận diện và phân tích tác dụng gợi âm thanh, biểu cảm của từ tượng thanh trong văn bản văn học.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 40; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 40, 41; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 42
+
+### opinion presentation on a social issue
+- **Tiếng Việt:** Trình bày ý kiến về một vấn đề xã hội
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A speaking and listening activity in which a speaker expresses personal views and evaluations on a social issue supported by convincing reasoning and evidence. During delivery, the speaker combines body language (gestures, posture, facial expressions) with appropriate intonation to enhance persuasiveness and engage listeners.
+- **Giải thích (VI):** Hoạt động nói và nghe nêu nhận xét, đánh giá của cá nhân về một vấn đề xã hội dựa trên hệ thống lí lẽ và bằng chứng thuyết phục. Khi trình bày, người nói kết hợp sử dụng ngôn ngữ cơ thể (cử chỉ, điệu bộ, nét mặt) và điều chỉnh ngữ điệu phù hợp để tăng sức thuyết phục và tương tác với người nghe.
+- **Giải thích khác (SGK Ngữ văn 8 Tập 2):** EN: A speaking activity aimed at persuading listeners to agree with the speaker's viewpoint on a social issue (such as the role of literature in contemporary life) through clear main points, reasoning, and evidence. The speaker coordinates vocal delivery, facial expressions, and gestures while anticipating counterarguments for constructive dialogue. / VI: Hoạt động nói thuyết phục người nghe đồng tình với ý kiến của người trình bày về một vấn đề xã hội (như vai trò của văn học trong đời sống hiện nay) thông qua hệ thống luận điểm, lí lẽ và bằng chứng rõ ràng. Người nói kết hợp điều chỉnh giọng điệu, nét mặt, cử chỉ phù hợp và dự kiến các ý kiến phản biện để trao đổi, đối thoại.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 2 (Mục Nói và nghe): Trình bày và trao đổi ý kiến về sản phẩm văn hoá truyền thống, ý nghĩa tiếng cười (Bài 4) hoặc một thói xấu trong xã hội hiện đại (Bài 5).
+  - Ngữ văn lớp 8, Bài 8 (Mục Nói và nghe): thực hành trình bày và bảo vệ ý kiến về vai trò của văn học trong đời sống hiện nay.
+  - *Lưu ý:* Ở Bài 8, kĩ năng này gắn với chủ đề vai trò của văn học trong đời sống hiện nay và chú trọng khâu dự kiến phản biện để đối thoại với người nghe.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2 (Mục 3), tr. 53; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2 (Mục 1), tr. 53; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4 (Mục 3), tr. 96; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 59; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8 (Mục 3), tr. 81
+
+### oral book introduction
+- **Tiếng Việt:** Giới thiệu một cuốn sách
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A speaking activity presenting a concise overview of a favorite book to capture listeners' attention and inspire reading interest. The speaker prepares an outline highlighting the book's title, background of creation, distinctive thematic and artistic features, and reader appeal, supported by appropriate non-verbal media.
+- **Giải thích (VI):** Hoạt động nói trình bày bài giới thiệu ngắn về cuốn sách yêu thích nhằm thu hút sự chú ý đối với tác phẩm và khơi gợi hứng thú đọc sách của người nghe. Người trình bày cần lập dàn ý, nhấn mạnh tên sách, hoàn cảnh ra đời, đặc điểm nổi bật về nội dung và nghệ thuật cùng sức hút đối với độc giả, kết hợp phương tiện phi ngôn ngữ phù hợp.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 6 và Bài 10 (Mục Nói và nghe): thực hành thuyết trình giới thiệu cuốn sách yêu thích trong dự án đọc sách và ngày hội với sách.
+  - *Lưu ý:* Là hoạt động thuyết trình trực tiếp (Nói và nghe), phân biệt với bài văn thuyết minh giới thiệu một cuốn sách bằng hình thức viết.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B10, tr. 116; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B10, tr. 117; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B10 (Mục 1), tr. 127; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B10 (Mục 3), tr. 127
+
 ### oral presentation of a literary work
 - **Tiếng Việt:** Giới thiệu một tác phẩm văn học
 - **Chuyên ngành gốc:** Ngữ văn
@@ -2253,6 +2723,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Không nhầm với 'Đoạn văn bản' (`HTML paragraph`) trong Tin học.
 - **Nguồn:** SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 88; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 88, 89; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B9, tr. 93
 
+### parallel paragraph
+- **Tiếng Việt:** Đoạn văn song song (song song)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A paragraph structure without an explicit topic sentence, in which coordinate sentences present different content aspects that collectively converge to illuminate a shared theme.
+- **Giải thích (VI):** Kiểu đoạn văn không có câu chủ đề, trong đó các câu văn có mối quan hệ bình đẳng, mỗi câu nêu một khía cạnh nội dung khác nhau nhưng tất cả cùng hướng tới làm rõ một chủ đề chung.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 3 (Mục Tri thức ngữ văn): Nhận biết đặc điểm không có câu chủ đề của đoạn văn song song và thực hành viết đoạn văn song song.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 58; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 59; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 59, 60
+
 ### parallel prose
 - **Tiếng Việt:** Biền văn (văn biền ngẫu)
 - **Chuyên ngành gốc:** Ngữ văn
@@ -2262,6 +2740,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Ngữ văn lớp 10, Bài 6 (Mục Đọc văn bản 2): Phân tích nhịp điệu cân xứng và nghệ thuật đối ngẫu trong Bình Ngô đại cáo.
   - *Lưu ý:* Phân biệt với vận văn (văn vần) và tản văn (văn xuôi) trong hệ thống phân loại thể văn truyền thống thời trung đại.
 - **Nguồn:** SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B6 (Mục II.2), tr. 20; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B6 (Mục II.2), tr. 20, 21; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B6 (Mục II.2), tr. 21
+
+### parenthetical constituent
+- **Tiếng Việt:** Thành phần chêm xen (phụ chú)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A type of isolated constituent used to annotate, supplement, or clarify a specific entity or detail within a sentence. In writing, it is typically enclosed in parentheses, between dashes or commas, between a dash and a comma, or placed after a colon.
+- **Giải thích (VI):** Một loại thành phần biệt lập dùng để bổ sung, làm rõ thêm một đối tượng hoặc chi tiết nào đó trong câu. Khi viết, thành phần này thường đặt trong dấu ngoặc đơn, giữa hai dấu gạch ngang, hai dấu phẩy, giữa dấu gạch ngang và dấu phẩy hoặc sau dấu hai chấm.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 8 (Mục Thực hành tiếng Việt): nhận diện dấu hiệu hình thức và nội dung bổ sung của thành phần chêm xen trong câu.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60, 61; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 70
 
 ### parenthetical insertion
 - **Tiếng Việt:** Chêm xen (biện pháp chêm xen)
@@ -2286,6 +2772,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại văn bản nghị luận trình bày những suy ngẫm, quan điểm và chủ kiến của người viết về chính mình thông qua lập luận chặt chẽ và bằng chứng đáng tin cậy. Nội dung bài luận thường xoay quanh nhận thức bản thân là ai, ước mơ, niềm tin, giá trị sống, thế mạnh cá nhân, mối quan hệ với người khác và thế giới tự nhiên cũng như tác động từ những lựa chọn của bản thân.
 - **Bối cảnh:** Ngữ văn lớp 10, Bài 9 (Mục Tri thức ngữ văn, Viết): Thực hành viết bài luận chia sẻ trải nghiệm, niềm tin, giá trị sống và quan điểm của bản thân.
 - **Nguồn:** SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B9, tr. 99; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B9, tr. 99, 100; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B9, tr. 100
+
+### petition document
+- **Tiếng Việt:** Văn bản kiến nghị
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A formal document used by an individual or collective to submit opinions and requests to competent authorities seeking resolution of a real-life incident or problem. Properly formatted, it states the petitioner's identity, background context, the issue and its negative impacts, proposed solutions, and a request for official action.
+- **Giải thích (VI):** Loại văn bản đảm nhiệm chức năng bày tỏ ý kiến, đề đạt nguyện vọng của cá nhân hoặc tập thể lên các cấp có thẩm quyền nhằm yêu cầu giải quyết một sự việc, sự cố, bất cập trong đời sống. Văn bản cần nêu xác thực thông tin người viết, bối cảnh, nội dung vấn đề và tác động tiêu cực, đồng thời đề xuất giải pháp khắc phục và bày tỏ mong muốn được quan tâm xử lí.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 9 (Mục Viết): thực hành soạn thảo văn bản kiến nghị đúng quy cách về một vấn đề đời sống cần khắc phục.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9 (Mục 3), tr. 105; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 105; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 105, 106
 
 ### phoneme
 - **Tiếng Việt:** Đơn vị tiếng (phoneme)
@@ -2327,11 +2821,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A structural component of narrative works (such as myths, epics, fairy tales, short stories, and novels) and drama, formed by a single event or a linked sequence of events.
 - **Giải thích (VI):** Thành tố cấu trúc của tác phẩm tự sự (thần thoại, sử thi, cổ tích, truyện ngắn, tiểu thuyết) và kịch, hình thành từ một sự kiện hoặc một chuỗi sự kiện liên kết với nhau.
 - **Giải thích khác (SGK Ngữ văn 6 Tập 1):** EN: A key element of narrative fiction consisting of a sequence of main events with a beginning and an ending, arranged in a specific order (typically chronological order). / VI: Yếu tố quan trọng của truyện kể, gồm chuỗi các sự kiện chính có mở đầu và kết thúc, được sắp xếp theo một trật tự nhất định (thường là trình tự thời gian).
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: A system of events in a narrative work recreated, fictionalized, and arranged according to the writer's artistic intent to express a specific theme or idea. In historical fiction, the plot is typically grounded in actual past events, whereas in humorous tales it is concise and centered on ironic, absurd situations that provoke laughter. / VI: Hệ thống các sự kiện trong tác phẩm tự sự được nhà văn tái tạo, hư cấu và sắp xếp theo ý đồ nghệ thuật nhằm thể hiện một chủ đề, tư tưởng nhất định. Trong truyện lịch sử, cốt truyện thường dựa trên các sự kiện có thật trong quá khứ; còn trong truyện cười, cốt truyện ngắn gọn và tập trung vào các tình huống trớ trêu, nghịch lí gây cười.
 - **Bối cảnh:**
   - Ngữ văn lớp 10, Bài 1 (Mục Tri thức ngữ văn): nhận diện và phân tích chuỗi sự kiện kiến tạo tác phẩm tự sự, phân biệt với câu chuyện và truyện kể.
   - Ngữ văn lớp 6, Bài 1 (Mục Tri thức ngữ văn): tóm lược chuỗi sự kiện chính trong truyện kể.
+  - Ngữ văn lớp 8, Bài 1 (Mục Tri thức ngữ văn): Nhận biết đặc điểm tổ chức sự kiện của cốt truyện trong truyện lịch sử và đối sánh với cốt truyện trong truyện cười ở Bài 5.
   - *Lưu ý:* Phân biệt với câu chuyện (khối thống nhất của nhân vật, bối cảnh, diễn biến sự việc) và truyện kể (chỉnh thể văn bản kết hợp mạch kể sự kiện với chi tiết và lời văn nghệ thuật).
-- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B1, tr. 9; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B1, tr. 9, 10; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B1, tr. 10; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11, 12; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1 (Mục 2), tr. 35
+- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B1, tr. 9; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B1, tr. 9, 10; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B1, tr. 10; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11, 12; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1 (Mục 2), tr. 35; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 9; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 9, 10; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1 (Mục 1), tr. 33
+
+### poetic composition
+- **Tiếng Việt:** Bố cục (bố cục bài thơ thất ngôn bát cú)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** The coherent structural organization of parts within a literary work; in a seven-syllable eight-line regulated poem, the four couplets typically correspond to four sections: introduction (unpacking the title's idea), elucidation (depicting key aspects of the subject), argumentation (expanding reflections), and conclusion (synthesizing the poem's spirit). In reading comprehension, such a poem may also be divided into two parts of four and four lines, or six and two lines.
+- **Giải thích (VI):** Cách tổ chức, sắp xếp các phần trong tác phẩm văn học theo một trật tự mạch lạc; ở bài thơ thất ngôn bát cú Đường luật, bốn cặp câu thường ứng với bốn phần: đề (mở ý từ nhan đề), thực (nêu khía cạnh chính của đối tượng), luận (mở rộng suy nghĩ) và kết (thâu tóm tinh thần toàn bài). Khi đọc hiểu, bài thơ thất ngôn bát cú cũng có thể chia thành hai phần theo cấu trúc bốn câu đầu – bốn câu cuối hoặc sáu câu đầu – hai câu cuối.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 2 (Mục Tri thức ngữ văn): Xác định bố cục đề – thực – luận – kết hoặc các cách chia mạch ý khi đọc hiểu và phân tích thơ Đường luật.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39, 40; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 41
 
 ### poetic conception
 - **Tiếng Việt:** Tứ thơ (Cấu tứ; cấu tứ trong thơ; tứ)
@@ -2407,8 +2911,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** The system of formal rules governing linguistic organization in poetry, encompassing rhyme, rhythm, tonal harmony, parallelism, syllable count per line, and line count per poem.
 - **Giải thích (VI):** Hệ thống quy tắc tổ chức ngôn từ trong thơ ca, bao gồm các quy định về gieo vần, ngắt nhịp, hoà phối thanh điệu, phép đối, số tiếng trên một dòng và số dòng trong toàn bài.
-- **Bối cảnh:** Ngữ văn lớp 10, Bài 2 (Mục Tri thức ngữ văn): khảo sát quy tắc hình thức của từng thể thơ truyền thống và hiện đại.
-- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 43; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44, 45
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: The system of strict rules and conventions governing the formal elements of a regulated poem, including composition, tonal regulation, tonal adhesion, rhyme, rhythm, and parallelism. / VI: Hệ thống những quy định, quy tắc chặt chẽ dùng để tổ chức các yếu tố hình thức trong một bài thơ cách luật, bao gồm bố cục, luật bằng trắc, niêm, vần, nhịp và đối.
+- **Bối cảnh:**
+  - Ngữ văn lớp 10, Bài 2 (Mục Tri thức ngữ văn): khảo sát quy tắc hình thức của từng thể thơ truyền thống và hiện đại.
+  - Ngữ văn lớp 8, Bài 2 (Mục Đọc và Viết): Nhận diện và phân tích quy tắc thi luật trong các bài thơ thất ngôn bát cú và tứ tuyệt Đường luật.
+- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 43; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44, 45; SGK Ngữ văn 8 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 131; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 41; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2 (Mục Viết), tr. 48
 
 ### poetic rhythm
 - **Tiếng Việt:** Nhịp điệu (Nhịp; nhịp thơ; nhịp trong thơ)
@@ -2417,13 +2924,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hệ thống những điểm ngắt hoặc ngừng theo chu kì trên văn bản do tác giả chủ động bố trí, kết hợp sự lặp lại có biến đổi của các yếu tố ngôn ngữ và hình ảnh nhằm gợi nhịp vận động của sự sống và biểu đạt cảm nhận thẩm mĩ.
 - **Giải thích khác (SGK Ngữ văn 6 Tập 1):** EN: The pattern of rhythmic pauses dividing syllable groups within a poetic line to create cadence; luc bat verse typically uses even-numbered rhythm patterns such as 2/2/2, 2/4, or 4/4. / VI: Cách ngắt quãng hơi theo từng cụm tiếng trong dòng thơ để tạo tiết tấu; riêng thơ lục bát thường ngắt nhịp chẵn như 2/2/2, 2/4 hoặc 4/4.
 - **Giải thích khác (SGK Ngữ văn 7 Tập 1):** EN: A fundamental structural element of poetry perceived through the system of pauses and breaks distributed within or between poetic lines, governed by emotional content and the rules of each poetic form. / VI: Yếu tố cấu tạo cơ bản của thơ, nhận biết qua hệ thống những điểm ngắt, điểm ngừng được phân bố trên dòng thơ hoặc giữa các dòng thơ theo sự chi phối của nội dung cảm xúc và quy định riêng của từng thể thơ.
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: The pattern of pauses within poetic lines that creates cadence in a poem; in seven-syllable eight-line regulated verse, seven-syllable lines are typically paused in a 4/3 rhythm. / VI: Cách ngắt quãng dòng thơ tạo tiết tấu cho bài thơ; trong thơ thất ngôn bát cú Đường luật, các câu thơ bảy chữ thường ngắt theo nhịp 4/3.
 - **Bối cảnh:**
   - Ngữ văn lớp 10, Bài 2 (Mục Tri thức ngữ văn): phân tích cách ngắt nhịp và sự vận động của mạch cảm xúc trong bài thơ.
   - Ngữ văn lớp 6, Bài 4 (Mục Tri thức ngữ văn): nhận xét cách ngắt nhịp chẵn và biến đổi nhịp trong ca dao, thơ lục bát.
   - Ngữ văn lớp 7, Bài 4 (Mục Tri thức ngữ văn): Nhận biết nhịp thơ và mối liên hệ với mạch cảm xúc của bài thơ.
+  - Ngữ văn lớp 8, Bài 2 (Mục Tri thức ngữ văn): Nhận xét cách ngắt nhịp 4/3 và những chỗ ngắt nhịp đặc biệt tạo hiệu quả biểu cảm trong thơ Đường luật.
   - *Lưu ý:* Phân biệt với nhạc điệu (tổng hoà hiệu ứng âm hưởng tạo nên từ vần, nhịp, điệp và phối thanh bằng – trắc).
   - *Lưu ý:* Trong Bài 4 Ngữ văn 6, khái niệm nhịp được minh hoạ trọng tâm qua cách ngắt nhịp chẵn của thể thơ lục bát.
-- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 43; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44, 45; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97, 98; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 98; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B4, tr. 89; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B4, tr. 91; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B4, tr. 92
+- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 43; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44, 45; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97, 98; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 98; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B4, tr. 89; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B4, tr. 91; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B4, tr. 92; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39, 40; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 41
 
 ### poetry
 - **Tiếng Việt:** Thơ
@@ -2572,10 +3081,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** Logical explanations put forward by a writer or speaker in an argumentative text to affirm their opinion.
 - **Giải thích (VI):** Những lời diễn giải có lí mà người viết hoặc người nói đưa ra trong văn bản nghị luận để khẳng định ý kiến của mình.
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: Logically grounded explanations and analyses used to clarify and substantiate a supporting claim in an argumentative text. Within the hierarchical structure of argumentation, reasoning elaborates on a claim and is substantiated by concrete evidence. / VI: Những diễn giải, phân tích có cơ sở lô-gíc dùng để làm sáng tỏ và tạo sức thuyết phục cho luận điểm trong văn bản nghị luận. Trong cấu trúc tầng bậc của lập luận, lí lẽ cụ thể hoá luận điểm và được chứng minh bằng các bằng chứng xác thực.
+- **Giải thích khác (SGK Ngữ văn 8 Tập 2):** EN: The writer's analytical explanations regarding the characteristics of a literary work, author, or genre used to substantiate main arguments in a literary argumentative text. Such reasoning may weave in expressive nuances yet must remain rigorous and concise rather than rambling or purely subjective. / VI: Những diễn giải, phân tích của người viết về đặc điểm của tác phẩm, tác giả hoặc thể loại nhằm làm rõ luận điểm trong văn bản nghị luận văn học. Lí lẽ có thể đan xen yếu tố biểu cảm nhưng cần chặt chẽ, khúc chiết, tránh dài dòng và cảm tính.
 - **Bối cảnh:**
   - Ngữ văn lớp 6, Bài 8 (Mục Tri thức ngữ văn): phân tích mối liên hệ giữa ý kiến, lí lẽ và bằng chứng trong văn bản nghị luận.
+  - Ngữ văn lớp 8, Bài 3 (Mục Tri thức ngữ văn): Phân tích mối quan hệ tầng bậc giữa luận đề, luận điểm, lí lẽ và bằng chứng trong văn bản nghị luận.
+  - Ngữ văn lớp 8, Bài 8 (Mục Tri thức ngữ văn): nhận diện và vận dụng lí lẽ xác đáng khi đọc hiểu và viết bài phân tích tác phẩm văn học.
   - *Lưu ý:* Trong cấu trúc văn nghị luận GDPT 2018 (ý kiến – lí lẽ – bằng chứng), 'lí lẽ' tương ứng với 'reasoning' trong mô hình lập luận quốc tế (claim – reasoning – evidence), phân biệt với 'lập luận' ('argumentation') chỉ toàn bộ quá trình triển khai luận điểm.
-- **Nguồn:** SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 61; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 61, 62
+  - *Lưu ý:* Xét riêng trong văn bản nghị luận văn học (Bài 8), cho phép đan xen sắc thái biểu cảm thẩm mĩ nhưng vẫn giữ tính lô-gíc, khúc chiết.
+- **Nguồn:** SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 61; SGK Ngữ văn 6 KNTT Tập 2, Tập hai, B8, tr. 61, 62; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 58; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 58, 59; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 60; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 59; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 63
 
 ### reasoning and evidence
 - **Tiếng Việt:** Lí lẽ, bằng chứng (luận cứ)
@@ -2584,6 +3098,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hai thành tố cơ bản hợp thành luận cứ nhằm chứng minh cho luận điểm trong văn bản nghị luận. Trong đó, lí lẽ hình thành từ suy luận logic để giải thích, triển khai luận điểm; bằng chứng là những dẫn liệu cụ thể, xác thực từ thực tiễn hoặc sách báo nhằm khẳng định tính thuyết phục của lí lẽ.
 - **Bối cảnh:** Ngữ văn lớp 10, Bài 3 (Mục Tri thức ngữ văn): đánh giá độ chặt chẽ của suy luận và tính xác thực của dẫn chứng trong lập luận.
 - **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 73; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 73, 74; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 81
+
+### receiving subject
+- **Tiếng Việt:** Chủ thể tiếp nhận
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** The reader of a literary work acting as an active counterpart and co-creator alongside the author (the creative subject). Drawing on personal context, life experience, knowledge, and lived background, each receiving subject forms distinct interpretations and uncovers new layers of meaning in the text.
+- **Giải thích (VI):** Người đọc văn bản văn học trong mối quan hệ đối sánh và đồng sáng tạo với tác giả (chủ thể sáng tạo). Dựa trên hoàn cảnh tiếp nhận, vốn sống, hiểu biết và trải nghiệm riêng, mỗi chủ thể tiếp nhận lựa chọn cách cảm nhận riêng và có khả năng phát hiện những giá trị, ý nghĩa mới của văn bản.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 8 (Mục Tri thức ngữ văn): nhận thức vai trò chủ động, sáng tạo của người đọc đối với đời sống tác phẩm văn học.
+  - *Lưu ý:* Phân biệt với chủ thể sáng tạo là nhà văn, nhà thơ — người trực tiếp viết nên văn bản văn học.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60, 61
 
 ### recording form of literary nonfiction
 - **Tiếng Việt:** Hình thức ghi chép của kí
@@ -2611,6 +3135,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Chỉ nguồn học liệu và danh mục trích dẫn cuối văn bản, phân biệt với tham chiếu ô hoặc tham chiếu biến (reference) trong Tin học.
 - **Nguồn:** SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B9, tr. 77; SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B9, tr. 77, 78; SGK Ngữ văn 7 KNTT Tập 2, Tập hai, B9, tr. 81
 
+### reflective paragraph on a free-verse poem
+- **Tiếng Việt:** Đoạn văn ghi lại cảm nghĩ về một bài thơ tự do
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A paragraph expressing the writer's impressions, emotions, and reflections on a free-verse poem, opening with an introduction to the author, the poem, and an overall impression. It focuses on responses to content and artistry—highlighting how free verse shapes the emotional flow—before concluding with a synthesis of feelings.
+- **Giải thích (VI):** Đoạn văn trình bày ấn tượng, cảm xúc và suy nghĩ của người viết về một bài thơ tự do, mở đầu bằng việc giới thiệu tác giả, bài thơ và nêu cảm nghĩ chung. Đoạn văn tập trung làm rõ cảm nhận về nội dung, nghệ thuật cùng tác dụng của thể thơ tự do trong việc thể hiện mạch cảm xúc trước khi khái quát lại cảm nghĩ toàn bài.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 7 (Mục Viết): thực hành viết đoạn văn bộc lộ cảm nghĩ về nội dung và nghệ thuật của một bài thơ tự do.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B7, tr. 36; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B7, tr. 51
+
 ### refutation
 - **Tiếng Việt:** Bác bỏ
 - **Chuyên ngành gốc:** Ngữ văn
@@ -2618,6 +3150,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Thao tác nghị luận đặc thù chỉ ra sự sai lầm, phiến diện hoặc thiếu chính xác của một quan điểm, ý kiến nhằm củng cố điều mà người viết khẳng định là lẽ phải, chân lí.
 - **Bối cảnh:** Ngữ văn lớp 12, Bài 3 (Mục Tri thức ngữ văn): Phản biện các quan niệm sai lệch, phiến diện để bảo vệ luận điểm đúng đắn trong văn bản nghị luận.
 - **Nguồn:** SGK Ngữ văn 12 KNTT Tập 1, Tập một, B3, tr. 62; SGK Ngữ văn 12 KNTT Tập 1, Tập một, B3, tr. 62, 63; SGK Ngữ văn 12 KNTT Tập 1, Tập một, B3, tr. 63
+
+### refutative negative sentence
+- **Tiếng Việt:** Câu phủ định bác bỏ (phủ định bác bỏ)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A subtype of negative sentence containing negative markers used in dialogue or debate to refute a stated opinion or claim.
+- **Giải thích (VI):** Tiểu loại câu phủ định có xuất hiện từ ngữ phủ định, dùng trong giao tiếp hoặc tranh luận để phản bác một ý kiến, một nhận định.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 9 (Mục Thực hành tiếng Việt): nhận diện câu phủ định bác bỏ trong đối thoại và văn bản nghị luận, thông tin.
+  - *Lưu ý:* Phân biệt với câu phủ định miêu tả vốn chỉ thông báo khách quan việc không có sự vật, tính chất hay quan hệ.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 88; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B9, tr. 101
 
 ### regional dialect
 - **Tiếng Việt:** Ngôn ngữ các vùng miền (ngôn ngữ vùng miền; phương ngữ)
@@ -2695,20 +3237,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Ngữ văn lớp 12, Bài 6 (Mục Tri thức ngữ văn): Nhận diện tính đặc thù của thơ văn cách mạng Việt Nam qua các sáng tác tiêu biểu của Hồ Chí Minh.
 - **Nguồn:** SGK Ngữ văn 12 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 133; SGK Ngữ văn 12 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 133, 134; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B6, tr. 5
 
+### rhetorical question
+- **Tiếng Việt:** Câu hỏi tu từ
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A sentence possessing the full formal features of an ordinary question yet used not to seek information but to achieve aesthetic expression, functioning as a common artistic device in literary texts.
+- **Giải thích (VI):** Câu có đầy đủ đặc điểm hình thức của câu hỏi thông thường nhưng không nhằm mục đích tìm kiếm thông tin mà hướng tới mục đích thẩm mĩ, đóng vai trò như một biện pháp nghệ thuật thường dùng trong văn bản văn học.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 5 (Mục Thực hành tiếng Việt): nhận biết và phân tích tác dụng của câu hỏi tu từ trong giao tiếp và tác phẩm văn học.
+  - *Lưu ý:* Phân biệt với câu hỏi thông thường vốn nhằm mục đích nêu điều chưa biết để người nghe trả lời thông tin.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100, 101; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 107
+
 ### rhyme
-- **Tiếng Việt:** Vần thơ (vần)
+- **Tiếng Việt:** Vần thơ (vần; vần trong thơ Đường luật)
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** The patterned acoustic resonance between syllables positioned within or at the end of poetic lines, serving to link lines together and shape the poem's rhythm, musicality, and tone.
 - **Giải thích (VI):** Hiện tượng cộng hưởng, hoà âm theo quy luật giữa một số âm tiết nằm ở giữa hoặc cuối các dòng thơ, giữ vai trò liên kết dòng thơ và kiến tạo nhịp điệu, nhạc điệu cùng giọng điệu cho tác phẩm.
 - **Giải thích khác (SGK Ngữ văn 6 Tập 1):** EN: The pattern of sound correspondence between syllables at specific positions across poetic lines. In luc bat verse, the final syllable of the six-syllable line rhymes with the sixth syllable of the eight-syllable line, while the final syllable of the eight-syllable line rhymes with the final syllable of the next six-syllable line. / VI: Quy tắc hiệp âm giữa các tiếng ở những vị trí xác định trong các dòng thơ. Trong thơ lục bát, tiếng cuối của dòng sáu vần với tiếng thứ sáu của dòng tám, còn tiếng cuối của dòng tám vần với tiếng cuối của dòng sáu tiếp theo.
 - **Giải thích khác (SGK Ngữ văn 7 Tập 1):** EN: An essential structural element of a poem fulfilling harmonic and cohesive functions, identified through the repetition of syllabic rhyme finals at specific positions across a sequence of poetic lines. / VI: Yếu tố cấu tạo quan trọng của bài thơ đảm bảo chức năng hoà thanh và liên kết, được nhận biết nhờ sự lặp lại bộ phận vần trong những âm tiết khác nhau nằm ở các vị trí nhất định trong chuỗi dòng thơ.
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: Phonetic correspondence between syllables at the end of poetic lines to create musicality and link lines together; a seven-syllable eight-line regulated poem uses a single level-tone monorhyme at the final syllable of lines 1, 2, 4, 6, and 8 (with rhyming in the first line being optional). / VI: Sự hoà âm giữa các tiếng ở vị trí cuối dòng thơ nhằm tạo nhạc điệu và liên kết câu thơ; trong bài thơ thất ngôn bát cú Đường luật, cả bài chỉ gieo độc vận một vần bằng ở chữ cuối các câu 1, 2, 4, 6, 8 (riêng câu thứ nhất có thể linh hoạt không gieo vần).
 - **Bối cảnh:**
   - Ngữ văn lớp 10, Bài 2 (Mục Tri thức ngữ văn): nhận diện cách gieo vần và phân tích hiệu quả nhạc tính trong tác phẩm thơ.
   - Ngữ văn lớp 6, Bài 4 (Mục Tri thức ngữ văn): nhận biết quy tắc hiệp vần trong thể thơ lục bát.
   - Ngữ văn lớp 7, Bài 2 (Mục Tri thức ngữ văn): Nhận xét cách gieo vần trong bài thơ bốn chữ, năm chữ và thơ trữ tình.
+  - Ngữ văn lớp 8, Bài 2 (Mục Tri thức ngữ văn): Nhận biết quy tắc gieo độc vận vần bằng ở chữ cuối các câu chẵn và câu đầu trong thơ Đường luật.
   - *Lưu ý:* Trong Bài 4 Ngữ văn 6, khái niệm vần được trình bày trực tiếp qua quy tắc gieo vần lưng và vần chân của thể thơ lục bát.
   - *Lưu ý:* Chỉ vần thơ đảm nhiệm chức năng hoà thanh trong thi pháp học, phân biệt với bộ phận vần của âm tiết trong ngữ âm học.
-- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44, 45; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 48; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97, 98; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 100; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B4, tr. 92; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B4, tr. 92, 93; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B4, tr. 96
+- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44, 45; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 48; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97, 98; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 100; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B4, tr. 92; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B4, tr. 92, 93; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B4, tr. 96; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39, 40; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 41
 
 ### rhythmic pausing
 - **Tiếng Việt:** Ngắt nhịp
@@ -2759,8 +3313,27 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** A set of artistic techniques that provoke derisive, ironic, or satirical laughter to diminish a criticized target by constructing awkward misunderstandings, exaggerating laughable vices, gestures, mannerisms, and speech, or creating comic contrasts.
 - **Giải thích (VI):** Hệ thống cách thức nghệ thuật làm bật lên tiếng cười giễu cợt, mỉa mai, châm biếm nhằm hạ thấp đối tượng phê phán thông qua việc tạo tình huống oái oăm, hiểu lầm trớ trêu, phóng đại nét đáng cười trong thói tật, cử chỉ, điệu bộ, ngôn ngữ hoặc tạo sự tương phản gây cười.
-- **Bối cảnh:** Ngữ văn lớp 12, Bài 5 (Mục Tri thức ngữ văn): Phân tích các phương thức nghệ thuật gây cười và phê phán thói hư tật xấu trong hài kịch.
-- **Nguồn:** SGK Ngữ văn 12 KNTT Tập 1, Tập một, B5, tr. 131; SGK Ngữ văn 12 KNTT Tập 1, Tập một, B5, tr. 131, 132; SGK Ngữ văn 12 KNTT Tập 1, Tập một, B5, tr. 139
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: An artistic technique used to generate critical laughter in satirical works or texts with comic elements, combining an author's individual creativity with widely shared conventions. Common forms include dramatic situations, disguise, comic gestures, exaggeration, wordplay, misunderstanding, unfinished lines, and parody. / VI: Cách thức nghệ thuật nhằm tạo ra tiếng cười trong tác phẩm trào phúng hoặc tác phẩm có yếu tố hài, vừa thể hiện sáng tạo riêng của tác giả vừa mang tính phổ biến. Các hình thức thường gặp gồm tạo tình huống kịch tính, cải trang, điệu bộ gây cười, phóng đại, chơi chữ, gây hiểu lầm, thoại bỏ lửng và nhại.
+- **Bối cảnh:**
+  - Ngữ văn lớp 12, Bài 5 (Mục Tri thức ngữ văn): Phân tích các phương thức nghệ thuật gây cười và phê phán thói hư tật xấu trong hài kịch.
+  - Ngữ văn lớp 8, Bài 5 (Mục Tri thức ngữ văn): phân tích các thủ pháp gây cười trong hài kịch và truyện cười.
+- **Nguồn:** SGK Ngữ văn 12 KNTT Tập 1, Tập một, B5, tr. 131; SGK Ngữ văn 12 KNTT Tập 1, Tập một, B5, tr. 131, 132; SGK Ngữ văn 12 KNTT Tập 1, Tập một, B5, tr. 139; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 100, 101; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B5, tr. 106
+
+### satirical irony
+- **Tiếng Việt:** Mỉa mai – châm biếm
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A comic tone and technique in satirical literature that constructs absurd situations, inverts normal order, or employs antiphrasis to feign praise or seriousness toward the unreasonable. Satirical irony delivers pointed criticism to expose and purge vices such as arrogance, complacency, greed, and hypocrisy.
+- **Giải thích (VI):** Giọng điệu và thủ pháp của tiếng cười trào phúng tạo dựng những tình huống vô lí, đảo lộn trật tự thông thường hoặc dùng lối nói ngược giả như khen ngợi, nghiêm túc trước điều phi lí. Tiếng cười mỉa mai – châm biếm mang tính phê phán sâu cay nhằm vạch trần, thanh lọc những thói hư tật xấu như kiêu căng, tự mãn, keo kiệt, đạo đức giả.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 4 (Mục Đọc): Nhận diện giọng điệu và thủ pháp mỉa mai – châm biếm qua tình huống trớ trêu, phản ngữ trong thơ trào phúng.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 88; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 89; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 89, 90
+
+### satirical poetry
+- **Tiếng Việt:** Thơ trào phúng
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A body of poetry that employs laughter across multiple tonal registers—from light humor and irony to scathing invective—to criticize vulgarity, backwardness, hypocrisy, and vice in life, guiding readers toward aesthetic and humanistic values. Satirical poetry flexibly utilizes comic techniques and rhetorical devices such as simile, metaphor, hyperbole, and antiphrasis.
+- **Giải thích (VI):** Bộ phận thơ sử dụng tiếng cười với nhiều cung bậc giọng điệu (từ hài hước, mỉa mai – châm biếm nhẹ nhàng đến đả kích mạnh mẽ, sâu cay) để phê phán cái thô kệch, lạc hậu, giả dối, xấu xa trong đời sống, qua đó hướng con người tới các giá trị thẩm mĩ và nhân văn. Thơ trào phúng vận dụng linh hoạt các thủ pháp gây cười và biện pháp tu từ như so sánh, ẩn dụ, nói quá, phản ngữ.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 4 (Mục Tri thức ngữ văn): Đọc hiểu và phân tích các bài thơ trào phúng như Lễ xướng danh khoa Đinh Dậu, Lai Tân, Đề đền Sầm Nghi Đống.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 80; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 81; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 81, 82
 
 ### science fiction
 - **Tiếng Việt:** Truyện khoa học viễn tưởng
@@ -2778,6 +3351,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Ngữ văn lớp 12, Bài 8 (Mục Tri thức ngữ văn): nhận diện và thẩm định độ tin cậy của dữ liệu dẫn lại từ tài liệu có trước trong văn bản thông tin.
 - **Nguồn:** SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 64; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B8, tr. 64, 65; SGK Ngữ văn 12 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 132
 
+### semantic nuance
+- **Tiếng Việt:** Sắc thái nghĩa của từ ngữ (sắc thái nghĩa)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** The supplementary layer of meaning beyond a word's core denotation that conveys the speaker's or writer's attitude, emotion, or evaluation toward the referent or communicative context (such as formal, intimate, colloquial, positive, or negative nuances).
+- **Giải thích (VI):** Phần nghĩa bổ sung cho nghĩa cơ bản của từ ngữ, thể hiện thái độ, cảm xúc, cách đánh giá của người nói (người viết) đối với đối tượng hoặc hoàn cảnh giao tiếp (như sắc thái trang trọng, thân mật, suồng sã, tích cực, tiêu cực).
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 4 (Mục Tri thức ngữ văn): Phân biệt các sắc thái nghĩa của từ ngữ và lựa chọn từ ngữ phù hợp với ngữ cảnh giao tiếp, sáng tác.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 81; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 81, 82; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 86
+
 ### semicolon
 - **Tiếng Việt:** Dấu chấm phẩy
 - **Chuyên ngành gốc:** Ngữ văn
@@ -2793,6 +3374,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Lỗi ngữ pháp xảy ra khi tổ hợp từ viết ra mới chỉ là một cụm từ, thiếu cả chủ ngữ lẫn vị ngữ nên chưa hình thành nội dung thông tin trọn vẹn của câu. Lỗi này khắc phục bằng cách dựa vào ngữ cảnh để bổ sung đầy đủ thành phần nòng cốt cho câu.
 - **Bối cảnh:** Ngữ văn lớp 11, Bài 4 (Mục Thực hành tiếng Việt): Nhận diện lỗi viết cụm từ chưa thành câu và phân biệt với câu rút gọn, câu đặc biệt có giá trị tu từ trong văn học.
 - **Nguồn:** SGK Ngữ văn 11 KNTT Tập 1, Tập một, B4, tr. 113; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B4, tr. 113, 114
+
+### seven-syllable eight-line regulated verse
+- **Tiếng Việt:** Thất ngôn bát cú (thất ngôn bát cú Đường luật; bát cú Đường luật)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** The foundational and most representative form of Tang-style regulated verse, consisting of eight lines of seven syllables each and governed by strict rules of structure, tonal adhesion, tonal regulation, rhyme, rhythm, and parallelism. It takes the couplet of two closely related lines as its basic unit, with parallelism mandatory in the two middle couplets (lines 3–4 and 5–6).
+- **Giải thích (VI):** Thể thơ cơ bản và tiêu biểu nhất của thơ Đường luật, gồm 8 câu, mỗi câu 7 chữ (tiếng), tuân thủ quy định chặt chẽ về bố cục, niêm, luật bằng trắc, vần, nhịp và đối. Bài thơ lấy liên (cặp 2 câu có quan hệ gắn bó) làm đơn vị cơ bản, trong đó hai liên giữa (cặp câu 3 – 4 và 5 – 6) bắt buộc phải đối nhau.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 2 (Mục Tri thức ngữ văn): Đọc hiểu và viết bài văn phân tích các bài thơ thất ngôn bát cú Đường luật như Thu điếu, Qua Đèo Ngang, Lễ xướng danh khoa Đinh Dậu.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39, 40; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 41
+
+### seven-syllable regulated quatrain
+- **Tiếng Việt:** Thất ngôn tứ tuyệt
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A poetic form within Tang-style regulated verse consisting of four lines of seven syllables each, adhering to strict rules of tonal harmony, adhesion, rhyme, and rhythm, with a compact structure in which each line fulfills a distinct function (initiation, continuation, transition, and synthesis).
+- **Giải thích (VI):** Thể thơ thuộc hệ thống thơ Đường luật, gồm 4 câu, mỗi câu 7 chữ (tiếng), tuân thủ quy tắc hoà thanh, niêm, vần, nhịp chặt chẽ và có bố cục hàm súc mà mỗi câu đảm nhiệm một chức năng riêng (khởi, thừa, chuyển, hợp).
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 4 (Mục Đọc và Viết): Nhận biết đặc điểm hình thức và bố cục bốn câu thất ngôn của các bài thơ Lai Tân, Đề đền Sầm Nghi Đống.
+  - *Lưu ý:* Là dạng bảy chữ của thể tứ tuyệt Đường luật; phân biệt với "Tứ tuyệt Đường luật" nói chung (gồm cả thể năm chữ và bảy chữ).
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 131; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 80
+
+### short book presentation
+- **Tiếng Việt:** Trình bày bài giới thiệu ngắn về một cuốn sách
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A speaking and listening activity that shares essential information about a book—such as a historical fiction work—to spark interest and encourage listeners to read it. The presentation outlines publication details, summarizes the historical setting, plot, and characters, and offers brief remarks on artistic highlights alongside the speaker's personal reflections.
+- **Giải thích (VI):** Hoạt động nói và nghe chia sẻ thông tin cơ bản về một cuốn sách (như cuốn truyện lịch sử đã đọc) nhằm khơi gợi hứng thú và khuyến khích người nghe tìm đọc tác phẩm. Bài nói giới thiệu khái quát thông tin xuất bản, tóm lược bối cảnh, cốt truyện và hệ thống nhân vật, đồng thời nhận xét ngắn gọn nét đặc sắc nghệ thuật cùng suy nghĩ của người trình bày.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 1 (Mục Nói và nghe): Trình bày và trao đổi bài giới thiệu ngắn về một cuốn truyện lịch sử đã đọc.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1 (Mục 3), tr. 33; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1 (Mục 1), tr. 33
 
 ### simple word
 - **Tiếng Việt:** Từ đơn
@@ -2815,8 +3422,28 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** A simple plot structure organized along a single narrative thread revolving around one main character or central event.
 - **Giải thích (VI):** Kiểu cốt truyện có cấu trúc giản dị, tập trung triển khai theo một mạch sự việc xoay quanh một nhân vật hoặc một sự kiện chính.
-- **Bối cảnh:** Ngữ văn lớp 10, Bài 1 (Mục Tri thức ngữ văn): nhận diện đặc điểm cấu trúc cốt truyện của thể loại thần thoại.
-- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 162; SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 162, 163; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B1, tr. 10
+- **Giải thích khác (SGK Ngữ văn 8 Tập 2):** EN: A plot structure consisting of a single, relatively simple sequence of events focused on portraying the character development of one or a few protagonists. This plot type commonly appears in short stories, novellas, and most dramatic scripts. / VI: Kiểu cốt truyện chỉ có một mạch sự kiện tương đối đơn giản, tập trung thể hiện quá trình phát triển tính cách của một hoặc một vài nhân vật chính. Kiểu cốt truyện này thường dùng để xây dựng truyện ngắn, truyện vừa và phần lớn kịch bản văn học.
+- **Bối cảnh:**
+  - Ngữ văn lớp 10, Bài 1 (Mục Tri thức ngữ văn): nhận diện đặc điểm cấu trúc cốt truyện của thể loại thần thoại.
+  - Ngữ văn lớp 8, Bài 6 (Mục Tri thức ngữ văn): nhận biết và phân tích kiểu cốt truyện một mạch sự kiện trong truyện ngắn Lặng lẽ Sa Pa.
+  - *Lưu ý:* Đối lập với cốt truyện đa tuyến vốn triển khai đồng thời từ hai mạch sự kiện trở lên.
+- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 162; SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 162, 163; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B1, tr. 10; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6, tr. 4; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6, tr. 5; SGK Ngữ văn 8 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 134
+
+### Sino-Vietnamese morpheme
+- **Tiếng Việt:** Yếu tố Hán Việt
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A word-forming unit corresponding to each meaningful Sino-origin syllable within compound Sino-Vietnamese words, which typically cannot function independently as a simple word but combines with other morphemes to form words or idioms.
+- **Giải thích (VI):** Đơn vị cấu tạo từ ứng với mỗi tiếng mang nghĩa gốc Hán nằm trong các từ phức Hán Việt, thường không có khả năng hoạt động độc lập như một từ đơn mà kết hợp với yếu tố khác để tạo từ hoặc thành ngữ.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 4 (Mục Tri thức ngữ văn): Nhận diện và giải nghĩa các yếu tố Hán Việt thông dụng để suy ra nghĩa của từ phức và thành ngữ Hán Việt.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 81; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 81, 82; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 84
+
+### Sino-Vietnamese word
+- **Tiếng Việt:** Từ Hán Việt
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A stratum of Chinese-origin vocabulary in Vietnamese, typically comprising compound words formed from bound Sino-Vietnamese morphemes that cannot stand alone as simple words (e.g., sĩ tử, nhân văn, nhân đạo, hải phận). Such words generally carry formal, archaic, or abstract, generalized nuances.
+- **Giải thích (VI):** Bộ phận từ ngữ gốc Hán trong tiếng Việt (tiêu biểu là nhóm các từ phức cấu tạo từ những yếu tố gốc Hán không có khả năng dùng độc lập như từ đơn, ví dụ: sĩ tử, nhân văn, nhân đạo, hải phận,...). Lớp từ này thường mang sắc thái trang trọng, cổ kính hoặc khái quát, trừu tượng.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 4 (Mục Tri thức ngữ văn): Giải nghĩa và lựa chọn sử dụng từ Hán Việt phù hợp với sắc thái cổ kính, trang trọng hoặc khái quát trong thơ văn.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 81; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 81, 82; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B4, tr. 84
 
 ### six-syllable verse line
 - **Tiếng Việt:** Câu thơ lục ngôn (trong bài thất ngôn bát cú)
@@ -2833,6 +3460,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tiểu loại văn bản nghị luận bàn về những hiện tượng đời sống xã hội hoặc vấn đề tư tưởng, đạo lí nhận được sự quan tâm rộng rãi, nhằm khơi gợi sự hồi đáp tích cực từ người tiếp nhận. Bài viết không đi vào lĩnh vực chuyên môn hẹp mà thuyết phục bằng luận đề rõ ràng, hệ thống luận điểm tường minh cùng lí lẽ, bằng chứng xác đáng.
 - **Bối cảnh:** Ngữ văn lớp 10, Bài 3 (Mục Tri thức ngữ văn): đọc hiểu và thực hành viết bài văn bàn luận về một vấn đề xã hội hoặc tư tưởng, đạo lí.
 - **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 73; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B3, tr. 73, 74
+
+### social jargon
+- **Tiếng Việt:** Biệt ngữ xã hội
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** Words and expressions with distinctive phonetic or semantic features formed through specific conventions of content and expression within a particular social group. Such vocabulary is used only within a narrow scope, reflecting the characteristic communication style of that social stratum or group.
+- **Giải thích (VI):** Những từ ngữ có đặc điểm riêng về ngữ âm hoặc ngữ nghĩa, hình thành dựa trên quy ước riêng về nội dung và hình thức biểu đạt của một nhóm xã hội nhất định. Lớp từ ngữ này chỉ sử dụng trong phạm vi hẹp, thể hiện đặc điểm giao tiếp đặc thù của tầng lớp hoặc nhóm người đó.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 1 (Mục Tri thức ngữ văn): Nhận biết đặc điểm, phạm vi sử dụng và tác dụng khắc hoạ đời sống xã hội của biệt ngữ xã hội trong giao tiếp và văn học.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 10; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 10, 11; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 16
 
 ### sonnet
 - **Tiếng Việt:** Xon-nê
@@ -2888,6 +3523,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với truyện kể (hình thức văn bản nghệ thuật triển khai mạch kể, chi tiết và lời văn).
   - *Lưu ý:* Trong tự sự học, 'câu chuyện' (story/fabula) chỉ chuỗi sự kiện theo trật tự thời gian, phân biệt với 'truyện kể' (narrative/syuzhet) là cách tổ chức và trần thuật câu chuyện đó trong văn bản.
 - **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 162; SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 162, 163; SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 163; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B1, tr. 9; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B1, tr. 9, 10; SGK Ngữ văn 11 KNTT Tập 1, Tập một, B1, tr. 10
+
+### story analysis essay
+- **Tiếng Việt:** Bài văn phân tích một tác phẩm truyện (bài văn phân tích một tác phẩm văn học)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** An argumentative essay type that elucidates the theme and distinctive artistic features of a narrative work through elements such as plot, characterization, narrative point of view, and language. The essay introduces the author and work, summarizes the main content and overall thesis, analyzes textual evidence, and affirms the work's significance.
+- **Giải thích (VI):** Kiểu bài văn nghị luận làm sáng tỏ chủ đề và những nét đặc sắc về hình thức nghệ thuật của tác phẩm truyện qua các yếu tố như cốt truyện, nghệ thuật xây dựng nhân vật, ngôi kể và ngôn ngữ. Bài viết cần giới thiệu tác giả, tác phẩm, nêu nội dung chính và ý kiến khái quát, phân tích các bằng chứng từ văn bản và khẳng định ý nghĩa, giá trị của truyện.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 6 (Mục Viết): thực hành viết bài văn phân tích chủ đề và đặc sắc nghệ thuật của một tác phẩm truyện.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6, tr. 26; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6 (Mục Viết), tr. 26; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6 (Mục Viết), tr. 26, 27
 
 ### storyline in lyric poetry
 - **Tiếng Việt:** Câu chuyện trong thơ trữ tình
@@ -3004,6 +3647,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Ngữ văn lớp 10, Bài 2 (Mục Đọc): nhận diện dấu ấn tượng trưng trong ngôn ngữ và hình ảnh thơ Hàn Mặc Tử.
 - **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 162; SGK Ngữ văn 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 162, 163; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 51
 
+### syntactic inversion
+- **Tiếng Việt:** Đảo ngữ (biện pháp tu từ đảo ngữ)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A rhetorical device that alters the conventional word order within a phrase or clause relative to standard syntactic patterns. This rearrangement emphasizes specific qualities, actions, or states of things and phenomena, creating a vivid impression and expressing the writer's or speaker's emotions and perspective.
+- **Giải thích (VI):** Biện pháp tu từ thay đổi trật tự thông thường của các từ ngữ trong cụm từ hoặc câu so với những mô hình cú pháp phổ biến. Cách sắp xếp này nhằm nhấn mạnh đặc điểm, hoạt động, trạng thái của sự vật, hiện tượng, gợi ấn tượng sắc nét và thể hiện cảm xúc, đánh giá riêng của người viết (người nói).
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 2 (Mục Tri thức ngữ văn): Nhận biết đảo ngữ trong cụm từ, trong câu và phân tích hiệu quả biểu đạt trong thơ Đường luật, thơ trào phúng.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 40; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 40, 41; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 45
+
 ### Tang poetry
 - **Tiếng Việt:** Đường thi
 - **Chuyên ngành gốc:** Ngữ văn
@@ -3012,13 +3663,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.3.b): Thành tựu văn học tiêu biểu của văn minh Trung Hoa thời trung đại.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 45
 
+### Tang-style quatrain
+- **Tiếng Việt:** Tứ tuyệt Đường luật
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A Tang-style regulated verse form consisting of four lines per poem, with five or seven syllables per line, following the same basic prosodic rules as eight-line regulated verse except that parallelism is not mandatory. Its structure typically unfolds across four stages: initiation (opening the idea), continuation (developing the idea), transition (shifting direction), and synthesis (concluding the whole poem's meaning).
+- **Giải thích (VI):** Thể thơ Đường luật gồm bốn câu mỗi bài, mỗi câu năm chữ hoặc bảy chữ, tuân theo các quy định về luật thơ cơ bản như thất ngôn bát cú nhưng không bắt buộc phải đối. Bố cục bài thơ thường triển khai theo bốn phần: khởi (mở ý), thừa (tiếp nối, phát triển ý), chuyển (chuyển hướng ý) và hợp (thâu tóm ý tứ toàn bài).
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 2 (Mục Tri thức ngữ văn): Đọc hiểu và phân tích các bài thơ tứ tuyệt Đường luật như Thiên Trường vãn vọng, Nam quốc sơn hà.
+  - *Lưu ý:* Bao gồm cả ngũ ngôn tứ tuyệt (5 chữ) và thất ngôn tứ tuyệt (7 chữ); phân biệt với mục từ hẹp hơn là "Thất ngôn tứ tuyệt" chỉ xét riêng thể 4 câu 7 chữ.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39, 40; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 45
+
 ### Tang-style regulated verse
 - **Tiếng Việt:** Đường luật (thơ Đường luật)
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** A system of five-syllable or seven-syllable poetic forms governed by strict prosodic rules codified during the Tang dynasty, including tonal alternation, tonal adhesion, rhyme, and parallelism.
 - **Giải thích (VI):** Hệ thống thể thơ ngũ ngôn hoặc thất ngôn tuân thủ nghiêm ngặt các nguyên tắc thi luật xác lập từ thời Đường như luật bằng trắc, niêm, vần và phép đối.
-- **Bối cảnh:** Ngữ văn lớp 10, Bài 2 (Mục Đọc): phân tích thi luật và cấu trúc các bài thơ trung đại Trung Quốc, Việt Nam.
-- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 47; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 48; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 48, 49
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: A category of regulated verse composed according to strict rules of tonal harmony, tonal adhesion, parallelism, rhyme, and rhythm established during China's Tang dynasty, comprising two main forms: eight-line regulated verse and regulated quatrains. Tang-style regulated verse features concise, evocative language and a suggestive landscape-depicting style imbued with emotion. / VI: Loại thơ cách luật viết theo hệ thống quy tắc nghiêm ngặt về hoà thanh, niêm, đối, vần và nhịp định hình từ thời nhà Đường (Trung Quốc), gồm hai thể chính là bát cú Đường luật (luật thi) và tứ tuyệt Đường luật (tuyệt cú). Thơ Đường luật có ngôn ngữ cô đọng, hàm súc và bút pháp tả cảnh giàu tính gợi, ngụ tình.
+- **Bối cảnh:**
+  - Ngữ văn lớp 10, Bài 2 (Mục Đọc): phân tích thi luật và cấu trúc các bài thơ trung đại Trung Quốc, Việt Nam.
+  - Ngữ văn lớp 8, Bài 2 (Mục Tri thức ngữ văn): Đọc hiểu và phân tích các bài thơ Đường luật chữ Hán và chữ Nôm như Thu điếu, Thiên Trường vãn vọng, Qua Đèo Ngang.
+- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 47; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 48; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 48, 49; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 38; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39, 40
 
 ### technical term
 - **Tiếng Việt:** Thuật ngữ
@@ -3072,6 +3736,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Chỉ hoạt động, thao tác rút gọn nội dung văn bản gốc, phân biệt với sản phẩm "văn bản tóm tắt" (summary text).
 - **Nguồn:** SGK Ngữ văn 7 KNTT Tập 1, Tập một, B1, tr. 10; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B1, tr. 22; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B1, tr. 22, 23
 
+### text title
+- **Tiếng Việt:** Nhan đề
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** The component placed at the very beginning of a text to name it, mark its opening, and capture the reader's attention. Whereas titles of informational and argumentative texts typically convey explicit, generalized meanings, titles of literary works are often implicit and evocative, hinting at topic, theme, character, or genre.
+- **Giải thích (VI):** Thành phần đặt ở vị trí đầu tiên trong cấu tạo văn bản nhằm định danh, đánh dấu sự bắt đầu của văn bản và thu hút sự chú ý của người đọc. Khác với nhan đề văn bản nghị luận và văn bản thông tin thường mang nghĩa tường minh, khái quát, nhan đề văn bản văn học thường mang nghĩa hàm ẩn, gợi hình tượng và gợi mở thể loại, đề tài, chủ đề hoặc nhân vật.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 10 (Mục Tri thức ngữ văn): giải mã ý nghĩa nhan đề tác phẩm và thực hành đặt nhan đề để sáng tạo tác phẩm mới.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B10, tr. 116; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B10, tr. 116, 117; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B10, tr. 117
+
 ### text type
 - **Tiếng Việt:** Kiểu văn bản
 - **Chuyên ngành gốc:** Ngữ văn
@@ -3115,14 +3787,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B9, tr. 92; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B9, tr. 92, 93
 
 ### theme
-- **Tiếng Việt:** Chủ đề
+- **Tiếng Việt:** Chủ đề (chủ đề của tác phẩm văn học)
 - **Chuyên ngành gốc:** Ngữ văn
 - **Giải thích (EN):** The central issue and primary aspect of the subject matter that serves as the overarching conceptual thread running through an entire literary work. A theme reflects the writer's distinctive discoveries about life, depth of thought, and creative individuality, serving as a foremost factor in shaping the work's ideological value.
 - **Giải thích (VI):** Vấn đề trọng tâm và phương diện chính yếu của đề tài, đóng vai trò là mạch tư tưởng quán xuyến toàn bộ tác phẩm văn học. Chủ đề thể hiện sự tìm tòi, phát hiện riêng về cuộc sống cùng chiều sâu tư tưởng và cá tính sáng tạo của nhà văn, giữ vị trí hàng đầu trong việc tạo nên giá trị tư tưởng cho tác phẩm.
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: The central issue, core meaning, or primary message posed by the author within a literary work. A theme is typically not stated directly but recognized and synthesized by the reader through the unified expression of all constituent elements of the work. / VI: Vấn đề trung tâm, ý nghĩa cốt lõi hay thông điệp chính mà tác giả đặt ra trong tác phẩm văn học. Chủ đề thường không bộc lộ trực tiếp mà được người đọc nhận biết, khái quát thông qua sự biểu đạt thống nhất của toàn bộ các yếu tố cấu thành tác phẩm.
 - **Bối cảnh:**
   - Ngữ văn lớp 12, Bài 9 (Mục Tri thức ngữ văn): xác định vấn đề trung tâm quán xuyến trong các tác phẩm văn học như Vội vàng, Trở về, Hồn Trương Ba, da hàng thịt.
+  - Ngữ văn lớp 8, Bài 1 (Mục Tri thức ngữ văn): Khái quát vấn đề trung tâm và nêu căn cứ xác định chủ đề khi đọc hiểu truyện lịch sử, thơ Đường luật và thơ trào phúng.
   - *Lưu ý:* Chỉ chủ đề của tác phẩm văn học, phân biệt với đề tài (phạm vi hiện thực được miêu tả) và giao diện chủ đề trong Tin học.
-- **Nguồn:** SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B9, tr. 92; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B9, tr. 92, 93; SGK Ngữ văn 12 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 132
+- **Nguồn:** SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B9, tr. 92; SGK Ngữ văn 12 KNTT Tập 2, Tập hai, B9, tr. 92, 93; SGK Ngữ văn 12 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 132; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 8; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 9; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B1, tr. 9, 10
 
 ### third-person narrator
 - **Tiếng Việt:** Người kể chuyện ngôi thứ ba
@@ -3138,6 +3812,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với người kể chuyện ngôi thứ nhất là người kể tự xưng "tôi" và thường gắn với phạm vi tri nhận hạn tri.
 - **Nguồn:** SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B7, tr. 38; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B7, tr. 38, 39; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B7, tr. 45; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B1, tr. 11, 12; SGK Ngữ văn 6 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 147; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B3, tr. 58; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B3, tr. 58, 59; SGK Ngữ văn 7 KNTT Tập 1, Tập một, B3, tr. 71
 
+### tonal adhesion
+- **Tiếng Việt:** Niêm
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A fundamental prosodic rule requiring tonal bonding between adjacent couplets in a Tang-style regulated poem through tonal correspondence between the second line of a preceding couplet and the first line of the following couplet (at least at the 2nd, 4th, and 6th syllables). In a seven-syllable eight-line poem, line pairs 2–3, 4–5, 6–7, and 1–8 must share the same tone category at the 2nd syllable.
+- **Giải thích (VI):** Quy định cơ bản về sự kết dính thanh điệu giữa hai liên thơ liền nhau trong bài thơ Đường luật thông qua sự tương đồng thanh điệu giữa câu cuối của liên trước với câu đầu của liên sau (ít nhất ở các chữ thứ 2, 4, 6). Trong bài thất ngôn bát cú, các cặp câu 2 – 3, 4 – 5, 6 – 7 và 1 – 8 phải cùng thanh ở chữ thứ 2.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 2 (Mục Tri thức ngữ văn): Kiểm tra quy tắc niêm kết dính thanh điệu giữa các cặp câu khi đọc hiểu thơ Đường luật.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39, 40; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 41
+
 ### tonal pattern
 - **Tiếng Việt:** Thanh điệu
 - **Chuyên ngành gốc:** Ngữ văn
@@ -3147,6 +3829,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Ngữ văn lớp 6, Bài 4 (Mục Tri thức ngữ văn): vận dụng luật bằng trắc khi đọc hiểu và tập làm thơ lục bát.
   - *Lưu ý:* Trong Bài 4 Ngữ văn 6, thuật ngữ chỉ quy tắc phối thanh bằng – trắc trong thể thơ lục bát, phân biệt với khái niệm thanh điệu âm vị học của tiếng Việt nói chung.
 - **Nguồn:** SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 97, 98; SGK Ngữ văn 6 KNTT Tập 1, Tập một, B4, tr. 100
+
+### tonal regulation
+- **Tiếng Việt:** Luật (luật bằng trắc)
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** The mandatory system of tonal arrangement in Tang-style regulated verse that creates harmonious alternation between level and oblique tones at the 2nd, 4th, and 6th syllables within a line and tonal opposition between two lines of the same couplet. Depending on whether the 2nd syllable of the first line carries a level or oblique tone, the poem follows level-tone or oblique-tone regulation; in a broader sense, the term refers to all formal rules of an eight-line regulated poem.
+- **Giải thích (VI):** Hệ thống quy định bắt buộc về sự phối hợp thanh điệu trong thơ Đường luật, tạo nên sự luân phiên hài hoà giữa thanh bằng và thanh trắc ở các chữ thứ 2, 4, 6 trong từng câu và sự đối lập bằng – trắc giữa hai câu cùng liên. Căn cứ vào chữ thứ 2 của câu đầu tiên mang thanh bằng hay thanh trắc, bài thơ thuộc luật bằng hoặc luật trắc; theo nghĩa rộng, thuật ngữ này còn chỉ toàn bộ quy tắc hình thức của bài thơ bát cú Đường luật.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 2 (Mục Tri thức ngữ văn): Xác định luật bằng, luật trắc và sự hoà thanh ở các vị trí chữ thứ 2, 4, 6 trong bài thơ Đường luật.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 38; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39, 40
+
+### topic sentence
+- **Tiếng Việt:** Câu chủ đề
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A sentence that expresses the overarching main idea of an entire paragraph. Its presence or absence, as well as its placement at the beginning or end of a paragraph, serves as the basis for distinguishing deductive, inductive, parallel, and combined paragraph structures.
+- **Giải thích (VI):** Câu văn mang nội dung khái quát, thể hiện ý chính bao trùm của cả đoạn văn. Sự xuất hiện hay vắng mặt cùng vị trí đứng đầu hoặc cuối đoạn của câu chủ đề là căn cứ phân biệt các kiểu đoạn văn diễn dịch, quy nạp, song song và phối hợp.
+- **Bối cảnh:** Ngữ văn lớp 8, Bài 3 (Mục Tri thức ngữ văn): Xác định câu chủ đề để nhận diện kiểu đoạn văn và thực hành viết câu chủ đề cho đoạn văn nghị luận.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 58; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 58, 59; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B3, tr. 59
 
 ### traditional play storyline
 - **Tiếng Việt:** Tích truyện (tích trò)
@@ -3220,11 +3918,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A stylistic device that arranges discourse into two balanced, paired clauses corresponding in both meaning and wording. Depending on whether the paired ideas reinforce or contrast with one another, it is divided into complementary parallelism and antithetical parallelism.
 - **Giải thích (VI):** Thủ pháp tổ chức lời văn thành hai vế cân xứng và sóng đôi với nhau cả về phương diện ngữ nghĩa lẫn hình thức ngôn từ. Dựa theo quan hệ thuận chiều hay tương phản về ý và lời, thủ pháp này chia thành hai dạng là đối cân và đối chọi.
 - **Giải thích khác (SGK Ngữ văn 11 Tập 2):** EN: A rhetorical device that pairs words of the same part of speech or clauses of matching grammatical structure to highlight similarity or contrast in meaning while creating rhythm and symmetrical beauty. This device can operate within a phrase, between two clauses of a single sentence, or across two adjacent lines of verse or prose sentences. / VI: Biện pháp tu từ đặt sóng đôi những từ ngữ cùng từ loại hoặc những câu cùng cấu trúc nhằm nhấn mạnh sự tương đồng hay tương phản giữa các nội dung biểu đạt, đồng thời tạo nhịp điệu và vẻ đẹp cân xứng cho lời văn. Biện pháp này có thể thực hiện ngay trong một cụm từ, hai vế của một câu hoặc giữa hai câu thơ, câu văn liền kề nhau.
+- **Giải thích khác (SGK Ngữ văn 8 Tập 1):** EN: A fundamental rule of seven-syllable eight-line regulated verse requiring balanced correspondence between the two lines of the second couplet (lines 3–4) and third couplet (lines 5–6). This symmetry operates simultaneously through content focused on a shared theme, parallel syntax, rhythm, and word classes, and contrasting tones (at least at the 2nd, 4th, and 6th syllables). / VI: Quy định cơ bản của thơ thất ngôn bát cú Đường luật đòi hỏi sự hô ứng cân xứng giữa hai câu trong liên thực (câu 3 – 4) và liên luận (câu 5 – 6). Sự tương ứng này thể hiện đồng thời ở nội dung cùng hướng về một tiêu điểm, cấu trúc cú pháp, nhịp ngắt và từ loại tương đồng, còn thanh điệu tương phản nhau (ít nhất ở các vị trí chữ thứ 2, 4, 6).
 - **Bối cảnh:**
   - Ngữ văn lớp 10, Bài 2 (Mục Tri thức ngữ văn): phân tích nghệ thuật tổ chức câu thơ cân xứng trong thơ Đường luật.
   - Ngữ văn lớp 11, Bài 6 (Mục Tri thức ngữ văn và Thực hành tiếng Việt): Nhận diện tiểu đối và trường đối trong thơ Đường luật, ngâm khúc, văn biền ngẫu và Truyện Kiều.
+  - Ngữ văn lớp 8, Bài 2 (Mục Tri thức ngữ văn): Phân tích nghệ thuật đối ở hai câu thực và hai câu luận trong thơ thất ngôn bát cú Đường luật.
   - *Lưu ý:* Thuật ngữ tu từ học chỉ phép sóng đôi cân xứng về từ loại và cấu trúc câu; phân biệt với quan hệ song song (parallelism) trong Toán học.
-- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44, 45; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 46; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B6, tr. 5; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B6, tr. 6; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B6 (Mục I), tr. 6
+- **Nguồn:** SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 44, 45; SGK Ngữ văn 10 KNTT Tập 1, Tập một, B2, tr. 46; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B6, tr. 5; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B6, tr. 6; SGK Ngữ văn 11 KNTT Tập 2, Tập hai, B6 (Mục I), tr. 6; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 39, 40; SGK Ngữ văn 8 KNTT Tập 1, Tập một, B2, tr. 40
 
 ### verse narrative
 - **Tiếng Việt:** Truyện thơ
@@ -3257,6 +3957,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bộ phận văn học viết của dân tộc hình thành và phát triển từ thế kỉ X đến hết thế kỉ XIX bằng chữ Hán và chữ Nôm, vừa kế thừa mạch nguồn dân gian vừa tiếp thu sáng tạo tinh hoa văn học cổ điển khu vực. Nền văn học này mang đặc trưng nổi bật về tính quy phạm, đồng thời kết tinh sâu sắc tinh thần yêu nước và tư tưởng nhân văn, nhân đạo.
 - **Bối cảnh:** Ngữ văn lớp 10, Bài 6 (Mục Tri thức ngữ văn): Khái quát bối cảnh lịch sử, văn tự và đặc trưng thẩm mĩ của thơ văn trung đại Việt Nam.
 - **Nguồn:** SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B6, tr. 4; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B6, tr. 4, 5; SGK Ngữ văn 10 KNTT Tập 2, Tập hai, B6, tr. 5
+
+### vocative interjection
+- **Tiếng Việt:** Thán từ gọi – đáp
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A subtype of interjection used to address someone or respond to another speaker in conversation (for example: ơi, vâng, dạ, ừ), thereby conveying communicative attitudes such as politeness or familiarity.
+- **Giải thích (VI):** Tiểu loại thán từ dùng để cất lời gọi hoặc đáp lại lời người khác trong hội thoại (như ơi, vâng, dạ, ừ), qua đó thể hiện thái độ giao tiếp như lễ phép hoặc thân mật.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 6 (Mục Thực hành tiếng Việt): nhận diện các thán từ dùng để gọi và đáp trong hội thoại của nhân vật.
+  - *Lưu ý:* Là từ loại xét ở cấp độ từ vựng; khi đi vào câu để tạo lập hoặc duy trì giao tiếp thì đảm nhiệm chức năng thành phần gọi – đáp.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6, tr. 23; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B6, tr. 23, 24
+
+### vocative-responsive constituent
+- **Tiếng Việt:** Thành phần gọi – đáp
+- **Chuyên ngành gốc:** Ngữ văn
+- **Giải thích (EN):** A type of isolated constituent used to initiate or maintain communicative interaction between speaker and listener, typically marked by calling or responding words such as ơi, thưa, dạ, vâng.
+- **Giải thích (VI):** Một loại thành phần biệt lập dùng để tạo lập hoặc duy trì quan hệ giao tiếp, thường đánh dấu bằng những từ ngữ gọi – đáp như ơi, thưa, dạ, vâng.
+- **Bối cảnh:**
+  - Ngữ văn lớp 8, Bài 8 (Mục Thực hành tiếng Việt): xác định thành phần gọi – đáp và vai trò tạo lập hoặc duy trì giao tiếp trong lời thoại.
+  - *Lưu ý:* Xét ở bình diện thành phần biệt lập của câu, phân biệt với thán từ gọi – đáp xét ở bình diện từ loại.
+- **Nguồn:** SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 60, 61; SGK Ngữ văn 8 KNTT Tập 2, Tập hai, B8, tr. 69
 
 ### word order
 - **Tiếng Việt:** Trật tự từ

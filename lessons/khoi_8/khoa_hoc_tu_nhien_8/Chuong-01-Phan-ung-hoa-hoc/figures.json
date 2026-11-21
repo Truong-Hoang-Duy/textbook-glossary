@@ -1,0 +1,96 @@
+{
+  "H8-khoa_hoc_tu_nhien-b01-01": {
+    "pdf_page": 8,
+    "bbox": [49, 394, 376, 556]
+  },
+  "H8-khoa_hoc_tu_nhien-b01-02": {
+    "pdf_page": 9,
+    "bbox": [50, 332, 500, 550]
+  },
+  "H8-khoa_hoc_tu_nhien-b01-03": {
+    "pdf_page": 10,
+    "bbox": [208, 204, 494, 323]
+  },
+  "H8-khoa_hoc_tu_nhien-b01-04": {
+    "pdf_page": 10,
+    "bbox": [291, 399, 510, 544]
+  },
+  "H8-khoa_hoc_tu_nhien-b01-05": {
+    "pdf_page": 11,
+    "bbox": [268, 48, 500, 198]
+  },
+  "H8-khoa_hoc_tu_nhien-b01-06": {
+    "pdf_page": 11,
+    "bbox": [54, 304, 349, 490]
+  },
+  "H8-khoa_hoc_tu_nhien-b01-07": {
+    "pdf_page": 11,
+    "bbox": [358, 478, 511, 611]
+  },
+  "H8-khoa_hoc_tu_nhien-b01-08": {
+    "pdf_page": 12,
+    "bbox": [50, 85, 483, 196],
+    "allow_edge_ink": true,
+    "edge_ink_note": "đỉnh bóng đèn 3 V ở góc phải trên nhô cao sát dòng chữ giới thiệu Hình 1.8 phía trên"
+  },
+  "H8-khoa_hoc_tu_nhien-b01-09": {
+    "pdf_page": 12,
+    "bbox": [54, 289, 484, 402],
+    "allow_edge_ink": true,
+    "edge_ink_note": "biểu tượng bàn tay của hộp hoạt động phía dưới nhô cao ngang cạnh dưới nhãn Hình 1.9"
+  },
+  "H8-khoa_hoc_tu_nhien-b02-01": {
+    "pdf_page": 13,
+    "bbox": [149, 524, 410, 674]
+  },
+  "H8-khoa_hoc_tu_nhien-b02-02": {
+    "pdf_page": 14,
+    "bbox": [349, 105, 488, 316]
+  },
+  "H8-khoa_hoc_tu_nhien-b02-03": {
+    "pdf_page": 15,
+    "bbox": [90, 209, 450, 381]
+  },
+  "H8-khoa_hoc_tu_nhien-b02-04": {
+    "pdf_page": 15,
+    "bbox": [355, 532, 504, 676]
+  },
+  "H8-khoa_hoc_tu_nhien-b02-05": {
+    "pdf_page": 16,
+    "bbox": [277, 626, 495, 728]
+  },
+  "H8-khoa_hoc_tu_nhien-b03-01": {
+    "pdf_page": 18,
+    "bbox": [63, 514, 485, 690]
+  },
+  "H8-khoa_hoc_tu_nhien-b04-01": {
+    "pdf_page": 22,
+    "bbox": [73, 461, 466, 580]
+  },
+  "H8-khoa_hoc_tu_nhien-b05-01": {
+    "pdf_page": 27,
+    "bbox": [100, 81, 460, 172]
+  },
+  "H8-khoa_hoc_tu_nhien-b07-01": {
+    "pdf_page": 33,
+    "bbox": [68, 413, 240, 556]
+  },
+  "H8-khoa_hoc_tu_nhien-b07-02": {
+    "pdf_page": 33,
+    "bbox": [308, 413, 485, 556]
+  },
+  "H8-khoa_hoc_tu_nhien-b07-03": {
+    "pdf_page": 34,
+    "bbox": [351, 416, 492, 565]
+  },
+  "H8-khoa_hoc_tu_nhien-b07-04": {
+    "pdf_page": 34,
+    "bbox": [354, 570, 489, 711]
+  },
+  "H8-khoa_hoc_tu_nhien-b07-05": {
+    "pdf_page": 35,
+    "bbox": [356, 208, 486, 421],
+    "allow_edge_ink": true,
+    "edge_ink_note": "cán thìa thuỷ tinh phía trên nhô cao ngang dòng câu hỏi mục II.3 bên trái"
+  }
+}

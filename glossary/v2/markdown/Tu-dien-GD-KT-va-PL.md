@@ -199,6 +199,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Giáo dục Kinh tế và Pháp luật lớp 12, Bài 2 (Mục 2): cấp độ hội nhập kinh tế quốc tế xác lập trực tiếp giữa hai quốc gia.
 - **Nguồn:** SGK GD KT&PL 12 KNTT, Chủ đề 02, B2 (Mục 2), tr. 21; SGK GD KT&PL 12 KNTT, Chủ đề 02, B2 (Mục 2), tr. 21, 22; SGK GD KT&PL 12 KNTT, Chủ đề 02, B2 (Mục 2), tr. 24
 
+### book value
+- **Tiếng Việt:** Giá trị sổ sách
+- **Chuyên ngành gốc:** Giáo dục Kinh tế và Pháp luật
+- **Giải thích (EN):** The value of an asset recorded and used by a company to prepare its balance sheet in financial theory.
+- **Giải thích (VI):** Giá trị của một tài sản mà doanh nghiệp hoặc công ty ghi nhận và sử dụng để lập bảng cân đối kế toán trong lí thuyết tài chính.
+- **Bối cảnh:** Toán học lớp 8, Hoạt động thực hành trải nghiệm (Một vài ứng dụng của hàm số bậc nhất trong tài chính): Biểu diễn sự thay đổi giá trị tài sản theo thời gian bằng hàm số bậc nhất.
+- **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 10, Một vài ứng dụng của hàm số bậc nhất trong tài chính, tr. 126
+
 ### branch of law
 - **Tiếng Việt:** Ngành luật
 - **Chuyên ngành gốc:** Giáo dục Kinh tế và Pháp luật
@@ -1006,6 +1014,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 22 (Mục 2): chỉ tiêu đánh giá mức thu nhập trung bình và mức sống dân cư của một quốc gia.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B22 (Mục 2), tr. 66
 
+### gender equality
+- **Tiếng Việt:** Bình đẳng giới
+- **Chuyên ngành gốc:** Giáo dục Kinh tế và Pháp luật
+- **Giải thích (EN):** A social and legal principle ensuring that men and women hold equal status and roles, are afforded conditions and opportunities to develop their capabilities for the advancement of the community and family, and equally enjoy the fruits of that development.
+- **Giải thích (VI):** Nguyên tắc xã hội và pháp lí bảo đảm nam, nữ có vị trí, vai trò ngang nhau, có điều kiện và cơ hội phát huy năng lực cho sự phát triển của cộng đồng, gia đình và thụ hưởng như nhau thành quả của sự phát triển đó.
+- **Bối cảnh:** Tin học lớp 8, Bài 16 (Mục 2): Cơ sở nhận thức về quyền và cơ hội bình đẳng của phụ nữ và trẻ em gái trong học tập, sử dụng máy tính và làm việc trong ngành tin học.
+- **Nguồn:** SGK Tin học 8 KNTT, Bảng giải thích thuật ngữ, tr. 95; SGK Tin học 8 KNTT, Chủ đề 06, B16 (Mục 2), tr. 93; SGK Tin học 8 KNTT, Chủ đề 06, B16 (Mục 2), tr. 94
+
 ### general partner
 - **Tiếng Việt:** Thành viên hợp danh
 - **Chuyên ngành gốc:** Giáo dục Kinh tế và Pháp luật
@@ -1791,16 +1807,6 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Giao dịch vốn ngắn hạn và tiền tệ; phân biệt với thị trường chứng khoán giao dịch cổ phiếu, trái phiếu và giấy tờ có giá dài hạn.
 - **Nguồn:** SGK GD KT&PL 10 KNTT, Chủ đề 02, B3 (Mục 1), tr. 18; SGK GD KT&PL 10 KNTT, Chủ đề 02, B3 (Mục 2), tr. 18
 
-### monopoly
-- **Tiếng Việt:** Độc quyền
-- **Chuyên ngành gốc:** Giáo dục Kinh tế và Pháp luật
-- **Giải thích (EN):** The exclusive possession and control of an economic or political activity by a single actor without sharing it with others, exemplified by state business monopolies or capitalist monopoly corporations.
-- **Giải thích (VI):** Tình trạng chiếm giữ hoàn toàn cho riêng một chủ thể và không chia sẻ cho ai trong hoạt động kinh tế hoặc chính trị, tiêu biểu như độc quyền kinh doanh của nhà nước hoặc công ti tư bản độc quyền.
-- **Bối cảnh:**
-  - Lịch sử lớp 11, Bài 2 (Mục 2.c): Chỉ sự chi phối kinh tế của các công ti tư bản độc quyền cuối thế kỉ XIX – đầu thế kỉ XX, đồng thời dùng cho độc quyền thương mại của Nhà nước phong kiến Anh hay độc quyền lãnh đạo của tư sản Pháp (Bài 1).
-  - *Lưu ý:* Bao hàm cả độc quyền kinh tế (nhà nước hoặc công ti tư bản độc quyền) và độc quyền chính trị (nắm trọn quyền lãnh đạo cách mạng).
-- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92
-
 ### moral rights
 - **Tiếng Việt:** Quyền nhân thân
 - **Chuyên ngành gốc:** Giáo dục Kinh tế và Pháp luật
@@ -2028,6 +2034,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cơ quan thực hành quyền công tố và kiểm sát hoạt động tư pháp của nước Cộng hoà xã hội chủ nghĩa Việt Nam theo Điều 107 Hiến pháp năm 2013, gồm Viện kiểm sát nhân dân tối cao và các Viện kiểm sát khác do luật định. Viện kiểm sát nhân dân có nhiệm vụ bảo vệ pháp luật, quyền con người, quyền công dân, chế độ xã hội chủ nghĩa, lợi ích của Nhà nước và quyền, lợi ích hợp pháp của tổ chức, cá nhân, góp phần bảo đảm pháp luật được chấp hành nghiêm chỉnh và thống nhất.
 - **Bối cảnh:** Giáo dục Kinh tế và Pháp luật lớp 10, Bài 22 (Mục 2) và Bài 18 (Mục 2.c): Vị trí, chức năng, cơ cấu tổ chức và hoạt động của hệ thống Viện kiểm sát nhân dân.
 - **Nguồn:** SGK GD KT&PL 10 KNTT, Chủ đề 08, B18 (Mục 2.c), tr. 112, 113; SGK GD KT&PL 10 KNTT, Chủ đề 09, B22 (Mục 2.a), tr. 142, 143
+
+### periodic compound interest
+- **Tiếng Việt:** Lãi kép theo định kì (lãi kép)
+- **Chuyên ngành gốc:** Giáo dục Kinh tế và Pháp luật
+- **Giải thích (EN):** A periodic interest calculation method used by banks in which, if the depositor does not withdraw the interest at maturity, that interest is added to the principal to earn interest in the next period.
+- **Giải thích (VI):** Thể thức tính lãi suất theo định kì của ngân hàng, trong đó nếu đến kì hạn người gửi không rút tiền lãi ra thì số tiền lãi đó được cộng gộp vào tiền vốn để tính lãi cho kì kế tiếp.
+- **Bối cảnh:** Toán học lớp 8, Hoạt động thực hành trải nghiệm (Công thức lãi kép): Cơ sở thực tiễn để thiết lập biểu thức luỹ thừa tính tổng tiền nhận được sau nhiều kì gửi.
+- **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 05, Công thức lãi kép, tr. 111; SGK Toán 8 KNTT Tập 1, Chương 05, Công thức lãi kép, tr. 112
 
 ### periodic rent
 - **Tiếng Việt:** Tiền thuê định kì
@@ -2761,6 +2775,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với văn bản dưới luật (do các cơ quan nhà nước có thẩm quyền khác ban hành trên cơ sở cụ thể hoá văn bản luật).
 - **Nguồn:** SGK GD KT&PL 10 KNTT, Chủ đề 07, B12 (Mục 1), tr. 77; SGK GD KT&PL 10 KNTT, Chủ đề 07, B12 (Mục 2.a), tr. 78; SGK GD KT&PL 10 KNTT, Chủ đề 07, B12 (Mục 2.a), tr. 79
 
+### straight-line depreciation
+- **Tiếng Việt:** Khấu hao đường thẳng (phương pháp khấu hao đường thẳng)
+- **Chuyên ngành gốc:** Giáo dục Kinh tế và Pháp luật
+- **Giải thích (EN):** An asset depreciation method in which the value of an asset decreases by a fixed amount each year, with the annual reduction determined by the asset's useful life.
+- **Giải thích (VI):** Phương pháp khấu hao tài sản trong đó giá trị của tài sản giảm đi một lượng cố định qua mỗi năm, với mức suy giảm phụ thuộc vào thời gian sử dụng hữu ích của tài sản đó.
+- **Bối cảnh:** Toán học lớp 8, Hoạt động thực hành trải nghiệm (Một vài ứng dụng của hàm số bậc nhất trong tài chính): Mô hình hoá giá trị còn lại của tài sản theo thời gian sử dụng bằng hàm số bậc nhất.
+- **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 10, Một vài ứng dụng của hàm số bậc nhất trong tài chính, tr. 126
+
 ### strict formal definiteness of law
 - **Tiếng Việt:** Tính xác định chặt chẽ về mặt hình thức
 - **Chuyên ngành gốc:** Giáo dục Kinh tế và Pháp luật
@@ -2836,6 +2858,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Dãy số định danh gồm 10 chữ số hoặc 13 chữ số và kí tự khác do cơ quan thuế cấp cho người nộp thuế để sử dụng trong công tác quản lí thuế.
 - **Bối cảnh:** Giáo dục Kinh tế và Pháp luật lớp 12, Bảng giải thích thuật ngữ: mã định danh do cơ quan thuế cấp để theo dõi, kê khai và thực hiện nghĩa vụ thuế của người nộp thuế.
 - **Nguồn:** SGK GD KT&PL 12 KNTT, Bảng giải thích thuật ngữ, tr. 138
+
+### term deposit
+- **Tiếng Việt:** Tiết kiệm có kì hạn
+- **Chuyên ngành gốc:** Giáo dục Kinh tế và Pháp luật
+- **Giải thích (EN):** A common form of savings in which a customer deposits money into a bank for specified fixed periods to save and earn a profit from interest.
+- **Giải thích (VI):** Hình thức gửi tiết kiệm phổ biến trong đó khách hàng gửi các khoản tiền để dành vào ngân hàng theo những kì hạn xác định nhằm mục đích tiết kiệm và nhận về khoản lợi nhuận từ tiền lãi.
+- **Bối cảnh:** Toán học lớp 8, Hoạt động thực hành trải nghiệm (Công thức lãi kép): Bối cảnh tài chính thực tế khi vận dụng công thức tính tiền vốn và lãi sau nhiều kì gửi ngân hàng.
+- **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 05, Công thức lãi kép, tr. 111; SGK Toán 8 KNTT Tập 1, Chương 05, Công thức lãi kép, tr. 111, 112; SGK Toán 8 KNTT Tập 1, Chương 05, Công thức lãi kép, tr. 112
 
 ### territorial sea (economics)
 - **Tiếng Việt:** Vùng lãnh hải

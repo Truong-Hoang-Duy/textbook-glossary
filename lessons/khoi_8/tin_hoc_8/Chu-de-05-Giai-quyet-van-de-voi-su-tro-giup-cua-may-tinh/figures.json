@@ -1,0 +1,104 @@
+{
+  "H8-tin_hoc-b12-01": {
+    "pdf_page": 74,
+    "bbox": [380, 327, 529, 452]
+  },
+  "H8-tin_hoc-b12-02": {
+    "pdf_page": 74,
+    "bbox": [392, 595, 545, 740]
+  },
+  "H8-tin_hoc-b12-03": {
+    "pdf_page": 75,
+    "bbox": [111, 180, 488, 500]
+  },
+  "H8-tin_hoc-b12-04": {
+    "pdf_page": 76,
+    "bbox": [438, 64, 558, 354]
+  },
+  "H8-tin_hoc-b12-05": {
+    "pdf_page": 76,
+    "bbox": [310, 527, 419, 613]
+  },
+  "H8-tin_hoc-b12-06": {
+    "pdf_page": 76,
+    "bbox": [424, 448, 545, 654]
+  },
+  "H8-tin_hoc-b13-01": {
+    "pdf_page": 77,
+    "bbox": [122, 415, 287, 490]
+  },
+  "H8-tin_hoc-b13-02": {
+    "pdf_page": 77,
+    "bbox": [352, 414, 479, 490]
+  },
+  "H8-tin_hoc-b13-03": {
+    "pdf_page": 77,
+    "bbox": [438, 530, 551, 639]
+  },
+  "H8-tin_hoc-b13-04": {
+    "pdf_page": 80,
+    "bbox": [335, 64, 553, 397]
+  },
+  "H8-tin_hoc-b14-01": {
+    "pdf_page": 81,
+    "bbox": [92, 601, 525, 794]
+  },
+  "H8-tin_hoc-b14-02": {
+    "pdf_page": 82,
+    "bbox": [69, 299, 545, 507]
+  },
+  "H8-tin_hoc-b14-03": {
+    "pdf_page": 82,
+    "bbox": [72, 642, 534, 809]
+  },
+  "H8-tin_hoc-b14-04": {
+    "pdf_page": 83,
+    "bbox": [55, 249, 545, 515]
+  },
+  "H8-tin_hoc-b14-05": {
+    "pdf_page": 84,
+    "bbox": [192, 226, 396, 451]
+  },
+  "H8-tin_hoc-b14-06": {
+    "pdf_page": 84,
+    "bbox": [84, 600, 523, 798]
+  },
+  "H8-tin_hoc-b14-07": {
+    "pdf_page": 85,
+    "bbox": [77, 183, 526, 487]
+  },
+  "H8-tin_hoc-b14-08": {
+    "pdf_page": 86,
+    "bbox": [70, 152, 545, 440]
+  },
+  "H8-tin_hoc-b14-09": {
+    "pdf_page": 86,
+    "bbox": [92, 541, 243, 792]
+  },
+  "H8-tin_hoc-b14-10": {
+    "pdf_page": 86,
+    "bbox": [296, 527, 546, 793]
+  },
+  "H8-tin_hoc-b15-01": {
+    "pdf_page": 87,
+    "bbox": [326, 290, 539, 582]
+  },
+  "H8-tin_hoc-b15-02": {
+    "pdf_page": 89,
+    "bbox": [311, 335, 545, 474]
+  },
+  "H8-tin_hoc-b15-03": {
+    "pdf_page": 90,
+    "bbox": [243, 83, 508, 291],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chú thích Hình 15.3 mở rộng sang trái tới x=240, chồng lấn theo phương ngang với lề phải cột chữ câu hỏi bên trái (x<=250)"
+  },
+  "H8-tin_hoc-b15-04": {
+    "pdf_page": 90,
+    "bbox": [255, 357, 565, 784]
+  },
+  "H8-tin_hoc-b15-05": {
+    "pdf_page": 91,
+    "bbox": [164, 368, 440, 545]
+  }
+}

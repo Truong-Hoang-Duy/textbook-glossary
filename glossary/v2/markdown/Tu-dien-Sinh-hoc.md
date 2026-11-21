@@ -151,13 +151,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 2 (Mục III.4.b): Vị trí đầu tiên trong lộ trình di chuyển A → P → E của tRNA bên trong ribosome khi dịch mã.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.b), tr. 15
 
+### abiotic component
+- **Tiếng Việt:** Thành phần vô sinh
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The non-living structural part of an ecosystem, encompassing physical and chemical abiotic factors such as light, climate, soil, and water, along with organic detritus.
+- **Giải thích (VI):** Bộ phận cấu trúc không sống của một hệ sinh thái, bao gồm các nhân tố vô sinh như ánh sáng, khí hậu, đất, nước cùng xác sinh vật trong môi trường.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 44 (Mục I.2): Phân tích cấu trúc của một hệ sinh thái; phân biệt với thành phần hữu sinh.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44, tr. 180; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.1), tr. 180; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.2), tr. 180
+
 ### abiotic factor
-- **Tiếng Việt:** Nhân tố vô sinh
+- **Tiếng Việt:** Nhân tố vô sinh (Nhân tố sinh thái vô sinh)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A group of ecological factors comprising all non-living physical and chemical components of the natural environment that affect organisms, such as light, temperature, water, climate, and soil. These factors directly govern metabolism, morphology, physiology, behavior, and species distribution.
 - **Giải thích (VI):** Nhóm nhân tố sinh thái bao gồm toàn bộ các yếu tố vật lí và hoá học của môi trường tự nhiên tác động đến đời sống sinh vật như ánh sáng, nhiệt độ, nước, khí hậu và thổ nhưỡng. Các yếu tố này chi phối trực tiếp quá trình trao đổi chất, hình thái, sinh lí, tập tính và sự phân bố của sinh vật.
-- **Bối cảnh:** Sinh học lớp 12, Bài 23 (Mục II.1, II.2): Nhóm nhân tố sinh thái không sống của môi trường tự nhiên, phân biệt với nhân tố hữu sinh.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B23 (Mục II.1), tr. 123; SGK Sinh học 12 KNTT, Chương 06, B23 (Mục II.2), tr. 123
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: Non-living physical and chemical elements of the environment, such as light, temperature, humidity, wind, soil, and water, that continuously influence the morphology, physiology, and orientation of organisms. / VI: Nhóm các yếu tố không sống của môi trường như ánh sáng, nhiệt độ, độ ẩm, gió, đất và nước, tác động thường xuyên tới hình thái, hoạt động sinh lí và sự định hướng của sinh vật.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 23 (Mục II.1, II.2): Nhóm nhân tố sinh thái không sống của môi trường tự nhiên, phân biệt với nhân tố hữu sinh.
+  - Khoa học tự nhiên lớp 8, Bài 41 (Mục II.1, II.2.a): Phân biệt nhóm yếu tố không sống với nhân tố sinh thái hữu sinh khi phân tích môi trường.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B23 (Mục II.1), tr. 123; SGK Sinh học 12 KNTT, Chương 06, B23 (Mục II.2), tr. 123; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục I.2), tr. 171; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục II.1), tr. 171; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục II.2.a), tr. 172
+
+### ABO blood group system
+- **Tiếng Việt:** Hệ nhóm máu ABO
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The most common human blood classification system comprising four groups—A, B, AB, and O—defined by two surface antigens (A, B) on red blood cells and two plasma antibodies ($\alpha$, $\beta$). Within this system, antibody $\alpha$ agglutinates antigen A and antibody $\beta$ agglutinates antigen B.
+- **Giải thích (VI):** Hệ thống phân loại nhóm máu phổ biến nhất ở người gồm bốn nhóm A, B, AB và O, xác định dựa trên hai loại kháng nguyên (A, B) trên bề mặt hồng cầu và hai loại kháng thể ($\alpha$, $\beta$) trong huyết tương. Trong hệ này, kháng thể $\alpha$ gây kết dính kháng nguyên A và kháng thể $\beta$ gây kết dính kháng nguyên B.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục I.3a): xác định thành phần kháng nguyên, kháng thể của từng nhóm máu và lập sơ đồ truyền máu.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.3.a), tr. 137; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.3.b), tr. 137; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục II.1), tr. 137, 138
 
 ### abscisic acid
 - **Tiếng Việt:** Abscisic acid (ABA)
@@ -178,16 +197,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 2 (Mục III.2): nguồn dinh dưỡng nitrogen trực tiếp cho thực vật, phân biệt với nitrogen phân tử (N₂) và nitrogen hữu cơ cây chưa hấp thụ trực tiếp được.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B2 (Mục III.2), tr. 16; SGK Sinh học 11 KNTT, Chương 01, B2 (Mục V.2), tr. 21
 
+### acne
+- **Tiếng Việt:** Mụn trứng cá
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An inflammatory skin condition caused by hair follicles becoming clogged with dead skin cells or excess sebum along with bacterial infection and skin damage. It commonly appears during puberty in forms such as papules, pustules, whiteheads, and blackheads.
+- **Giải thích (VI):** Tình trạng viêm nhiễm và tổn thương trên da do nang lông bị bít tắc bởi tế bào chết hoặc chất nhờn tiết ra quá nhiều kết hợp với vi khuẩn gây viêm. Bệnh thường xuất hiện nhiều ở độ tuổi dậy thì, gồm các dạng mụn sần, mụn mủ, mụn đầu trắng, mụn đầu đen.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 39 (Mục I.2a): Nguyên nhân hình thành mụn trứng cá ở tuổi dậy thì và cách chăm sóc da khoa học.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.1.b), tr. 161; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.2.a), tr. 161; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.2.b), tr. 161
+
 ### acquired immunodeficiency syndrome
 - **Tiếng Việt:** Hội chứng suy giảm miễn dịch mắc phải (AIDS)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A human clinical syndrome caused by HIV attacking and destroying immune system cells (such as T4 lymphocytes and macrophages), severely impairing the body's immune defense. The condition progresses through three stages (acute infection, asymptomatic stage, and symptomatic end stage), leaving patients vulnerable to opportunistic diseases that lead to exhaustion and death.
 - **Giải thích (VI):** Hội chứng bệnh lí ở người do virus HIV tấn công và phá huỷ các tế bào của hệ miễn dịch (như tế bào bạch cầu T4, đại thực bào), làm suy giảm nghiêm trọng khả năng bảo vệ cơ thể. Bệnh tiến triển qua ba giai đoạn (sơ nhiễm, không triệu chứng và giai đoạn cuối), khiến người bệnh dễ mắc các bệnh cơ hội dẫn đến suy kiệt và tử vong.
 - **Giải thích khác (SGK Sinh học 11):** EN: A human clinical syndrome caused by the retrovirus HIV invading, multiplying within, and destroying helper T cells, progressively weakening both humoral and cell-mediated immune responses. The resulting loss of defense against infections and cancer allows multiple opportunistic diseases to develop simultaneously. / VI: Hội chứng bệnh lí ở người do retrovirus HIV xâm nhập, tăng sinh và phá huỷ tế bào T hỗ trợ, làm suy yếu dần cả đáp ứng miễn dịch dịch thể lẫn miễn dịch tế bào. Sự suy giảm khả năng chống nhiễm trùng và ung thư khiến nhiều bệnh cơ hội cùng lúc phát sinh trên người bệnh.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: An acquired immunodeficiency condition caused by HIV, transmitted through unprotected sexual contact, blood, or from mother to child. HIV attacks T lymphocytes and weakens immune defense, leaving patients vulnerable to fatal opportunistic infections such as tuberculosis or pneumonia. / VI: Hội chứng suy giảm miễn dịch mắc phải do virus HIV gây ra, lây truyền qua quan hệ tình dục không an toàn, đường máu hoặc từ mẹ sang con. Virus HIV tấn công các tế bào lympho T làm suy giảm khả năng miễn dịch, khiến người bệnh dễ tử vong vì các bệnh nhiễm trùng như lao hoặc viêm phổi.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 25 (Mục II.1): Hội chứng suy giảm miễn dịch điển hình ở người do virus HIV gây ra, lây truyền qua đường máu, đường tình dục và từ mẹ sang con.
   - Sinh học lớp 11, Bài 12 (Mục V.1): Hội chứng suy sụp chức năng hệ miễn dịch mắc phải do nhiễm virus HIV.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 07, B25 (Mục II.1), tr. 147; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục II.1.b), tr. 147; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục II.1.c), tr. 148; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục V.1), tr. 78
+  - Khoa học tự nhiên lớp 8, Bài 40 (Mục IV.1): Cơ chế gây suy giảm miễn dịch và các con đường lây truyền HIV/AIDS.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 07, B25 (Mục II.1), tr. 147; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục II.1.b), tr. 147; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục II.1.c), tr. 148; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục V.1), tr. 78; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục IV.1), tr. 168; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục IV.2), tr. 168; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục IV.2), tr. 168, 169
 
 ### action potential
 - **Tiếng Việt:** Điện thế hoạt động (xung thần kinh; xung điện)
@@ -196,6 +225,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Sự biến đổi điện thế qua màng tế bào thần kinh khi bị kích thích, diễn ra qua ba giai đoạn liên tiếp gồm khử cực, đảo cực và tái phân cực. Xung thần kinh này không dừng lại tại điểm phát sinh mà lan truyền dọc theo sợi thần kinh (lan truyền liên tiếp trên sợi không có bao myelin hoặc nhảy cóc qua các eo Ranvier trên sợi có bao myelin).
 - **Bối cảnh:** Sinh học lớp 11, Bài 17 (Mục II.2.a, II.2.b): Tín hiệu điện sinh học mã hoá và dẫn truyền thông tin dọc sợi thần kinh ở động vật.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B17 (Mục II.2.a), tr. 102; SGK Sinh học 11 KNTT, Chương 02, B17 (Mục II.2.b), tr. 103
+
+### activation
+- **Tiếng Việt:** Hoạt hoá
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The process by which a biological structure or cell transitions from an inactive or weakly active state to a more active functional state. During an immune response, a B lymphocyte recognizing its matching antigen undergoes activation to become a lymphoblast.
+- **Giải thích (VI):** Quá trình chuyển đổi của một cấu trúc sinh học hoặc tế bào từ trạng thái không hoạt động hay kém hoạt động sang trạng thái hoạt động mạnh hơn. Trong đáp ứng miễn dịch, tế bào lympho B sau khi nhận diện kháng nguyên tương ứng sẽ chuyển sang trạng thái hoạt hoá để trở thành nguyên bào lympho.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 33 (Mục I.2a) và Bảng giải thích thuật ngữ: mô tả bước khởi đầu đáp ứng của tế bào lympho B khi gặp kháng nguyên.
+  - *Lưu ý:* Trong sinh học lớp 8, thuật ngữ chỉ sự hoạt hoá tế bào miễn dịch (lymphocyte activation), phân biệt với năng lượng hoạt hoá (activation energy) trong hoá học hoặc hàm kích hoạt (activation function) trong tin học.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195, 196; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.2.a), tr. 136
+
+### active immunity
+- **Tiếng Việt:** Miễn dịch chủ động
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An immune response in which the body actively produces specific antibodies in the presence of a foreign antigen, such as graft rejection in skin transplantation.
+- **Giải thích (VI):** Đáp ứng miễn dịch trong đó cơ thể tự sản xuất kháng thể đặc hiệu trước sự hiện diện của một kháng nguyên lạ, chẳng hạn phản ứng thải mảnh ghép trong phẫu thuật ghép da.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 39 (Mục II.3.b): Cơ chế phản ứng thải mảnh ghép khi cấy ghép da và ghép tạng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục II.3.b), tr. 164
 
 ### active site
 - **Tiếng Việt:** Trung tâm hoạt động
@@ -247,6 +294,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 12 (Mục II, IV): Phòng tuyến miễn dịch chuyên biệt ở động vật có xương sống.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B12 (Mục II), tr. 73; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV), tr. 75; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.3), tr. 76
 
+### addictive substance
+- **Tiếng Việt:** Chất gây nghiện đối với hệ thần kinh
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A substance that stimulates the nervous system (such as nicotine in tobacco, ethanol in alcohol, or narcotics), altering normal body functions and causing dependence, cravings, and addiction to varying degrees.
+- **Giải thích (VI):** Chất kích thích thần kinh (như nicotine trong thuốc lá, ethanol trong rượu, các chất ma tuý) làm thay đổi chức năng bình thường của cơ thể, khiến cơ thể phụ thuộc và xuất hiện cảm giác thèm, nhớ, nghiện ở các mức độ khác nhau.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 37 (Mục I.2b): Tác hại của rượu, bia, thuốc lá và ma tuý đối với sức khoẻ hệ thần kinh.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục I.2.a), tr. 153; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục I.2.b), tr. 153; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II), tr. 153
+
 ### additive gene interaction
 - **Tiếng Việt:** Tương tác cộng gộp
 - **Chuyên ngành gốc:** Sinh học
@@ -255,6 +310,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 9 (Mục II.2): Cơ chế di truyền đa gene quy định các tính trạng số lượng như chiều cao, màu da ở người.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B9 (Mục II.2), tr. 48
 
+### adolescent reproductive health care
+- **Tiếng Việt:** Bảo vệ sức khoẻ sinh sản vị thành niên (bảo vệ sức khoẻ vị thành niên)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A set of practices for maintaining and safeguarding reproductive health during adolescence through a healthy lifestyle, appropriate physical exercise, and proper genital hygiene. It also encompasses awareness of sexual abuse prevention, unintended pregnancy prevention, and protection against sexually transmitted infections.
+- **Giải thích (VI):** Hệ thống các biện pháp chăm sóc và giữ gìn sức khoẻ sinh sản ở lứa tuổi vị thành niên thông qua việc xây dựng lối sống lành mạnh, tập luyện thể dục thể thao phù hợp và vệ sinh cơ quan sinh dục sạch sẽ. Hoạt động này bao gồm cả việc trang bị kiến thức phòng ngừa xâm hại tình dục, tránh mang thai ngoài ý muốn và phòng chống các bệnh lây truyền qua đường sinh dục.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 40 (Mục IV.2): Giáo dục lối sống lành mạnh và kĩ năng tự bảo vệ sức khoẻ sinh sản ở tuổi học đường.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục IV.1), tr. 168; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục IV.2), tr. 168; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục IV.2), tr. 168, 169
+
 ### ADP
 - **Tiếng Việt:** ADP (adenosine diphosphate)
 - **Chuyên ngành gốc:** Sinh học
@@ -262,6 +325,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hợp chất hữu cơ gồm phân tử adenine, đường ribose và hai gốc phosphate, hình thành khi liên kết phosphate cao năng ngoài cùng của ATP bị phá vỡ kèm theo giải phóng năng lượng. Trong tế bào sống, ADP có thể gắn thêm gốc phosphate để tái tổng hợp thành ATP trong chu trình chuyển hoá năng lượng.
 - **Bối cảnh:** Sinh học lớp 10, Bài 13 (Mục I.2, Hình 13.1): Sản phẩm phân giải một gốc phosphate của ATP và là tiền chất tái tổng hợp ATP trong tế bào.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 04, B13 (Mục I.2), tr. 79; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục I.3), tr. 80
+
+### adrenal gland
+- **Tiếng Việt:** Tuyến trên thận
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An endocrine gland that secretes adrenaline and noradrenaline to increase heart rate, constrict blood vessels, accelerate breathing, dilate bronchi, and help raise decreased blood glucose, while also secreting other hormones that regulate blood glucose, sodium and potassium salts, and male sexual characteristics.
+- **Giải thích (VI):** Tuyến nội tiết tiết ra adrenaline và noradrenaline giúp tăng nhịp tim, co mạch, tăng nhịp hô hấp, dãn phế quản và góp phần tăng đường huyết khi đường huyết giảm; đồng thời tiết các hormone khác điều hoà nồng độ glucose, muối sodium, potassium trong máu và điều hoà sinh dục nam.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 38 (Mục I.4): Vai trò của hormone tuyến trên thận trong đáp ứng sinh lí và cân bằng muối khoáng, đường huyết.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.1), tr. 158; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.2), tr. 158; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.3), tr. 158
 
 ### adult stem cell
 - **Tiếng Việt:** Tế bào gốc trưởng thành (tế bào gốc đa tiềm năng)
@@ -299,13 +370,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 3 (Mục III.2): Phương pháp canh tác không cần đất cung cấp dung dịch khoáng dạng sương cho rễ cây.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B3 (Mục III.2.a), tr. 25
 
+### age pyramid
+- **Tiếng Việt:** Tháp tuổi
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A pyramidal diagram representing the proportions of pre-reproductive, reproductive, and post-reproductive age groups in a population. Based on its shape, it reflects three population states: expanding, stable, and declining pyramids.
+- **Giải thích (VI):** Biểu đồ hình tháp biểu thị cấu trúc các nhóm tuổi (trước sinh sản, sinh sản và sau sinh sản) của một quần thể sinh vật. Dựa vào hình dạng tháp, quần thể chia thành ba dạng trạng thái gồm tháp phát triển, tháp ổn định và tháp suy thoái.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 42 (Mục II.4): Công cụ trực quan nhận diện xu hướng biến đổi kích thước của quần thể sinh vật.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II.1), tr. 175; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II.2), tr. 175; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II.3), tr. 175
+
 ### age structure
-- **Tiếng Việt:** Nhóm tuổi
+- **Tiếng Việt:** Nhóm tuổi (thành phần nhóm tuổi; cấu trúc nhóm tuổi)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A structural characteristic of populations in multi-year species that classifies individuals by reproductive status into pre-reproductive, reproductive, and post-reproductive age groups. The relative proportions of these three groups (commonly depicted as age pyramids) allow assessment of current status and prediction of future population growth trends.
 - **Giải thích (VI):** Đặc trưng cấu trúc của quần thể ở các loài sống nhiều năm, phân chia các cá thể theo tiêu chí sinh sản thành ba nhóm: tuổi trước sinh sản, tuổi sinh sản và tuổi sau sinh sản. Tương quan giữa ba nhóm tuổi này (thường biểu diễn qua tháp tuổi) cho phép đánh giá thực trạng và dự báo xu hướng phát triển của quần thể trong tương lai.
-- **Bối cảnh:** Sinh học lớp 12, Bài 24 (Mục II.5): Đặc trưng cơ bản của quần thể dùng để xây dựng tháp tuổi, dự báo biến động dân số và định mức khai thác, bảo tồn sinh vật.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B24 (Mục II.5), tr. 132; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục V.2), tr. 136; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục V.3), tr. 136
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A cohort of individuals at the same age or developmental stage with distinct ecological roles in a population, comprising pre-reproductive, reproductive, and post-reproductive groups. The relative proportions of these groups form the population's age structure and are represented by age pyramids. / VI: Tập hợp các cá thể có cùng độ tuổi hoặc giai đoạn sinh trưởng mang ý nghĩa sinh thái riêng trong quần thể, bao gồm nhóm tuổi trước sinh sản, nhóm tuổi sinh sản và nhóm tuổi sau sinh sản. Tương quan tỉ lệ giữa các nhóm tuổi này tạo nên cấu trúc tuổi của quần thể và biểu thị qua các kiểu tháp tuổi.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 24 (Mục II.5): Đặc trưng cơ bản của quần thể dùng để xây dựng tháp tuổi, dự báo biến động dân số và định mức khai thác, bảo tồn sinh vật.
+  - Khoa học tự nhiên lớp 8, Bài 42 (Mục II.4): Phân tích thành phần tuổi để đánh giá trạng thái phát triển và khai thác hợp lí quần thể.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B24 (Mục II.5), tr. 132; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục V.2), tr. 136; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục V.3), tr. 136; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II), tr. 174; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II.1), tr. 175; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II.2), tr. 175
 
 ### air capillary
 - **Tiếng Việt:** Mao mạch khí
@@ -343,8 +425,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The series of passages and cavities in humans that conduct air from the outside environment into the lungs during inhalation and out of the lungs during exhalation, comprising the nasal cavity, pharynx, larynx, trachea, and bronchi.
 - **Giải thích (VI):** Hệ thống các ống và khoang dẫn không khí đi từ môi trường ngoài vào phổi khi hít vào và từ phổi ra ngoài khi thở ra ở người, bao gồm khoang mũi, hầu, thanh quản, khí quản và phế quản.
-- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 28 (Mục III.2): mô tả đường đi của không khí qua các cơ quan thuộc hệ hô hấp ở người và tác hại khi đường dẫn khí bị tắc nghẽn.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.1), tr. 120; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.2), tr. 120; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.2), tr. 120, 121
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The part of the human respiratory system consisting of the nose, pharynx, larynx, trachea, and bronchi. The respiratory tract conducts air into and out of the lungs, filters dust, moistens and warms incoming air, and protects the lungs from harmful environmental agents. / VI: Bộ phận của hệ hô hấp ở người gồm mũi, họng, thanh quản, khí quản và phế quản. Đường dẫn khí có chức năng dẫn khí ra vào phổi, ngăn bụi, làm ẩm, làm ấm không khí đi vào phổi và bảo vệ phổi khỏi các tác nhân có hại từ môi trường.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 7, Bài 28 (Mục III.2): mô tả đường đi của không khí qua các cơ quan thuộc hệ hô hấp ở người và tác hại khi đường dẫn khí bị tắc nghẽn.
+  - Khoa học tự nhiên lớp 8, Bài 34 (Mục I.1, I.2): Cấu tạo và chức năng của bộ phận dẫn khí trong hệ hô hấp ở người, phân biệt với cơ quan trao đổi khí là phổi.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.1), tr. 120; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.2), tr. 120; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.2), tr. 120, 121; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34, tr. 142; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.1), tr. 142; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.2), tr. 143
 
 ### algae
 - **Tiếng Việt:** Tảo (rong biển)
@@ -367,8 +452,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A species occurring in an area outside its natural habitat after being introduced from another region or country. When encountering favorable ecological conditions and lacking control by predators, competitors, or pathogens, an alien species can proliferate rapidly, outcompete native species, and alter community structure.
 - **Giải thích (VI):** Loài sinh vật xuất hiện ở một khu vực vốn không phải môi trường sống tự nhiên của chúng mà được di nhập từ vùng hoặc quốc gia khác đến. Khi gặp điều kiện sinh thái phù hợp và thiếu sự khống chế của sinh vật tiêu thụ, loài cạnh tranh hay tác nhân gây bệnh, loài ngoại lai có thể sinh sản nhanh, cạnh tranh lấn át loài bản địa và làm thay đổi cấu trúc quần xã.
-- **Bối cảnh:** Sinh học lớp 12, Bài 26 (Mục IV.1): Yếu tố tác động đến quần xã sinh vật; gồm cả loài nhập nội có giá trị kinh tế (ca cao, mắc ca) và loài xâm hại gây tiêu cực cho loài bản địa (ốc bươu vàng, trinh nữ móc).
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục IV.1), tr. 147
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: An organism species that appears and proliferates in an area outside its natural habitat range, posing a serious threat to native ecosystems and biodiversity. / VI: Loài sinh vật xuất hiện và phát triển ở khu vực vốn không phải là khu vực sống tự nhiên của chúng, đe doạ nghiêm trọng đến hệ sinh thái bản địa và đa dạng sinh học.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 26 (Mục IV.1): Yếu tố tác động đến quần xã sinh vật; gồm cả loài nhập nội có giá trị kinh tế (ca cao, mắc ca) và loài xâm hại gây tiêu cực cho loài bản địa (ốc bươu vàng, trinh nữ móc).
+  - Khoa học tự nhiên lớp 8, Bài 46 (Mục II): Tác nhân sinh học gây mất cân bằng tự nhiên và suy giảm đa dạng sinh học bản địa.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục IV.1), tr. 147; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục II), tr. 190
 
 ### alimentary canal
 - **Tiếng Việt:** Ống tiêu hoá
@@ -424,10 +512,20 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Tiny air sacs forming the gas exchange surface in the lungs of amphibians, reptiles, and mammals, surrounded by a dense network of blood capillaries where blood exchanges O₂ and CO₂ with air entering and leaving the lungs. Human lungs contain millions of alveoli, creating a total gas exchange surface area of 100–120 m².
 - **Giải thích (VI):** Các túi khí nhỏ tạo nên bề mặt trao đổi khí ở phổi của Lưỡng cư, Bò sát và Thú, có hệ thống mao mạch máu bao quanh dày đặc để máu trao đổi khí O₂ và CO₂ với dòng không khí ra vào phổi. Ở người, hàng triệu phế nang tạo ra tổng diện tích bề mặt trao đổi khí rất lớn (từ 100 đến 120 m²).
 - **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: The smallest respiratory unit in the lungs, structured as tiny air sacs located at the ends of the finest air passages. Within the alveoli, O₂ diffuses into the blood to supply body cells while CO₂ diffuses from the blood into the alveoli to be exhaled. / VI: Đơn vị hô hấp nhỏ nhất trong phổi, cấu tạo gồm những túi khí nằm ở tận cùng của các ống dẫn khí nhỏ nhất. Tại phế nang diễn ra sự khuếch tán khí O₂ vào máu để cung cấp cho tế bào và khuếch tán khí CO₂ từ máu ra phế nang để thải ra ngoài.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A tiny sac-like structural unit of the lung where gas exchange directly takes place. Each alveolus is surrounded by a dense network of blood vessels that facilitates gas exchange between alveolar air and blood. / VI: Đơn vị cấu tạo dạng túi nhỏ của phổi, nơi trực tiếp diễn ra quá trình trao đổi khí. Phế nang có hệ thống mạch máu dày đặc bao bọc xung quanh giúp sự trao đổi khí giữa phế nang và máu diễn ra dễ dàng.
 - **Bối cảnh:**
   - Sinh học lớp 11, Bài 9 (Mục II.4): Cấu trúc túi khí tạo nên bề mặt trao đổi khí ở phổi Lưỡng cư, Bò sát, Thú và người.
   - Khoa học tự nhiên lớp 7, Bài 28 (Mục III.2): cấu trúc thực hiện trao đổi khí trực tiếp giữa phổi và máu trong hệ hô hấp ở người.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B9 (Mục II.4), tr. 57; SGK Sinh học 11 KNTT, Chương 01, B9 (Mục II.4), tr. 58; SGK Sinh học 11 KNTT, Bảng giải thích thuật ngữ, tr. 187; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.1), tr. 120; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.2), tr. 120; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.2), tr. 120, 121
+  - Khoa học tự nhiên lớp 8, Bài 34 (Mục I.1): Cấu trúc vi thể trong phổi trực tiếp thực hiện trao đổi khí với mao mạch máu.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B9 (Mục II.4), tr. 57; SGK Sinh học 11 KNTT, Chương 01, B9 (Mục II.4), tr. 58; SGK Sinh học 11 KNTT, Bảng giải thích thuật ngữ, tr. 187; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.1), tr. 120; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.2), tr. 120; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.2), tr. 120, 121; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34, tr. 142; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.1), tr. 142; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục II.2), tr. 143
+
+### Alzheimer's disease
+- **Tiếng Việt:** Bệnh Alzheimer
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A neurological disorder common in older adults, causing characteristic symptoms such as memory loss, reduced language ability, confusion, and poor functional capacity.
+- **Giải thích (VI):** Bệnh rối loạn thần kinh thường gặp ở người cao tuổi, gây ra các triệu chứng phổ biến như mất trí nhớ, giảm khả năng ngôn ngữ, lẩm cẩm và khả năng hoạt động kém.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 37 (Mục I.2a): Phân biệt triệu chứng suy giảm trí nhớ của bệnh Alzheimer với rối loạn vận động của bệnh Parkinson.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục I.2.a), tr. 153; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục I.2.b), tr. 153; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II), tr. 153
 
 ### ammonium assimilation
 - **Tiếng Việt:** Đồng hoá ammonium
@@ -507,6 +605,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 12 (Mục IV.5): Biến chứng cấp tính nặng nhất của phản ứng dị ứng cần cấp cứu y tế kịp thời.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.5), tr. 78
 
+### anemia
+- **Tiếng Việt:** Thiếu máu
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A pathological condition marked by a decrease in red blood cell count or hemoglobin concentration, reducing the oxygen-carrying capacity of the blood. Common symptoms include fatigue, pale skin, and rapid heartbeat.
+- **Giải thích (VI):** Tình trạng bệnh lí suy giảm số lượng tế bào hồng cầu hoặc hàm lượng huyết sắc tố (hemoglobin), làm giảm khả năng vận chuyển oxygen của máu. Người thiếu máu thường có biểu hiện mệt mỏi, da xanh xao và tim đập nhanh.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục III.1): nhận biết triệu chứng chung và phân loại các nguyên nhân gây thiếu máu.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục II.1), tr. 138; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục II.2), tr. 138; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục III.1), tr. 138
+
 ### aneuploidy
 - **Tiếng Việt:** Đột biến lệch bội (đột biến dị bội)
 - **Chuyên ngành gốc:** Sinh học
@@ -574,10 +680,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The process by which animals and humans obtain essential nutrients in the form of food and synthesize them into living matter of the body to sustain survival and growth. It comprises four sequential stages: food intake, digestion, nutrient absorption, and assimilation.
 - **Giải thích (VI):** Quá trình động vật và người lấy các chất dinh dưỡng cần thiết dưới dạng thức ăn rồi tổng hợp thành chất sống của cơ thể, đảm bảo cho cơ thể tồn tại và phát triển. Quá trình này gồm bốn giai đoạn: lấy thức ăn, tiêu hoá thức ăn, hấp thụ chất dinh dưỡng và đồng hoá các chất.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The biological process encompassing the intake, transformation, and utilization of nutrients to sustain life and support growth of the organism. / VI: Quá trình sinh học bao gồm việc thu nhận, biến đổi và sử dụng các chất dinh dưỡng nhằm duy trì sự sống và sự phát triển của cơ thể.
 - **Bối cảnh:**
   - Sinh học lớp 11, Bài 8 (Mục I): Khái niệm khái quát về quá trình thu nhận và chuyển hoá thức ăn gồm bốn giai đoạn ở động vật và người.
+  - Khoa học tự nhiên lớp 8, Bài 32 (Mục I): làm rõ mối quan hệ giữa hoạt động của hệ tiêu hoá và quá trình dinh dưỡng ở người.
   - *Lưu ý:* Trong Bài 8, thuật ngữ chỉ dinh dưỡng dị dưỡng qua thức ăn ở động vật và người; cần phân biệt với dinh dưỡng ở thực vật (Bài 2) là quá trình hấp thụ nước, chất khoáng và đồng hoá chúng thành chất sống.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I), tr. 46; SGK Sinh học 11 KNTT, Chương 01, B8 (Mục II.3), tr. 52
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I), tr. 46; SGK Sinh học 11 KNTT, Chương 01, B8 (Mục II.3), tr. 52; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32, tr. 128; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục I), tr. 128; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.1), tr. 129
 
 ### Animalia
 - **Tiếng Việt:** Giới Động vật (Animalia)
@@ -637,10 +745,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A protein molecule secreted by white blood cells that defends the body against pathogens (such as bacteria and viruses) and foreign antigens invading from the external environment.
 - **Giải thích (VI):** Phân tử protein do tế bào bạch cầu tiết ra, giữ chức năng bảo vệ cơ thể bằng cách chống lại các tác nhân gây bệnh (như vi khuẩn, virus) và các phân tử kháng nguyên lạ từ môi trường ngoài xâm nhập vào cơ thể.
 - **Giải thích khác (SGK Sinh học 11):** EN: An immune protein (free antigen receptor) produced and secreted into the blood by plasma cells of a B cell lineage, possessing a recognition site that binds specifically to an antigen via its corresponding epitope in a lock-and-key manner. Antibodies circulate in the blood and eliminate pathogens through multiple mechanisms during humoral immunity. / VI: Protein miễn dịch (thụ thể kháng nguyên tự do) do tương bào thuộc dòng tế bào B sản sinh và đưa vào máu, có vùng nhận diện gắn đặc hiệu với kháng nguyên qua quyết định kháng nguyên tương ứng như chìa khoá với ổ khoá. Kháng thể lưu hành trong máu và tham gia tiêu diệt mầm bệnh trong đáp ứng miễn dịch dịch thể theo nhiều cách khác nhau.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A protein molecule produced by B lymphocytes (differentiated into plasma cells) to counteract invading antigens. Antibodies bind specifically to matching antigens via a lock-and-key mechanism to destroy microorganisms or neutralize their toxins. / VI: Phân tử protein do tế bào bạch cầu lympho B (biệt hoá thành tương bào) sản xuất nhằm chống lại các kháng nguyên xâm nhập. Kháng thể gắn đặc hiệu với kháng nguyên tương ứng theo cơ chế chìa khoá và ổ khoá để tiêu diệt vi sinh vật hoặc làm bất hoạt độc tố của chúng.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 5 (Mục II.3.a): Chức năng bảo vệ và miễn dịch của protein đối với cơ thể.
   - Sinh học lớp 11, Bài 12 (Mục IV.2, IV.3): Tác nhân protein lưu hành trong máu thực hiện đáp ứng miễn dịch dịch thể.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.a), tr. 34; SGK Sinh học 10 KNTT, Bảng giải thích thuật ngữ, tr. 158, 159; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.2), tr. 76; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.3), tr. 77
+  - Khoa học tự nhiên lớp 8, Bài 33 (Mục I.2a, I.3a): tìm hiểu cơ chế miễn dịch dịch thể và hiện tượng kết dính hồng cầu khi truyền máu khác nhóm.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.a), tr. 34; SGK Sinh học 10 KNTT, Bảng giải thích thuật ngữ, tr. 158, 159; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.2), tr. 76; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.3), tr. 77; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.2.a), tr. 136; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.2.b), tr. 136; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.3.a), tr. 137
 
 ### anticodon
 - **Tiếng Việt:** Anticodon (bộ ba đối mã)
@@ -655,8 +765,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A foreign molecule (mostly macromolecules such as proteins, polypeptides, or polysaccharides) that triggers a specific immune response upon entering the body. Antigens often protrude from the surface of pathogens or foreign cells (transplanted tissues), or occur as bacterial toxins and snake venoms.
 - **Giải thích (VI):** Phân tử ngoại lai (hầu hết là các đại phân tử như protein, polypeptide, polysaccharide) gây ra đáp ứng miễn dịch đặc hiệu khi xâm nhập vào cơ thể. Kháng nguyên thường nhô ra từ bề mặt mầm bệnh, tế bào lạ (mô cấy truyền) hoặc tồn tại dưới dạng độc tố của vi khuẩn, nọc độc của rắn.
-- **Bối cảnh:** Sinh học lớp 11, Bài 12 (Mục IV.1): Khái niệm kháng nguyên và bản chất phân tử của tác nhân kích thích đáp ứng miễn dịch đặc hiệu ở động vật.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.1), tr. 75
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A substance capable of stimulating the immune system to produce corresponding antibodies upon entering the body, or occurring specifically on cell surfaces such as red blood cells. Antigens bind specifically to their matching antibodies via a lock-and-key mechanism. / VI: Chất có khả năng kích thích hệ miễn dịch của cơ thể sản sinh ra các kháng thể tương ứng khi xâm nhập vào cơ thể, hoặc hiện diện đặc trưng trên bề mặt tế bào như hồng cầu. Kháng nguyên kết hợp đặc hiệu với kháng thể tương ứng theo cơ chế chìa khoá và ổ khoá.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 12 (Mục IV.1): Khái niệm kháng nguyên và bản chất phân tử của tác nhân kích thích đáp ứng miễn dịch đặc hiệu ở động vật.
+  - Khoa học tự nhiên lớp 8, Bài 33 (Mục I.2a, I.3a): giải thích cơ chế phản ứng miễn dịch và cơ sở phân loại hệ nhóm máu ABO.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.1), tr. 75; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.2.a), tr. 136; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.2.b), tr. 136; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.3.a), tr. 137
 
 ### antigen receptor
 - **Tiếng Việt:** Thụ thể kháng nguyên
@@ -732,6 +845,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 10 (Mục II.1.b): Ví dụ điển hình minh hoạ tính đặc thù và hiệu suất cao của kênh protein trên màng tế bào.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 03, B10 (Mục II.1.b), tr. 66
 
+### aquatic environment
+- **Tiếng Việt:** Môi trường nước
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** One of the four primary living environments of organisms, encompassing freshwater, brackish water, and marine habitats.
+- **Giải thích (VI):** Một trong bốn loại môi trường sống chủ yếu của sinh vật, bao gồm các vùng nước ngọt, nước lợ và nước mặn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 41 (Mục I.2): Phân loại các môi trường sống chủ yếu; phân biệt với môi trường trên cạn, môi trường trong đất và môi trường sinh vật.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục I.2), tr. 171; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục II.1), tr. 171
+
 ### Archaea
 - **Tiếng Việt:** Archaea (cổ khuẩn; vi khuẩn cổ)
 - **Chuyên ngành gốc:** Sinh học
@@ -772,8 +893,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** An ecosystem created and managed by humans, such as rice paddies, fishponds, planted forests, or cities. Artificial ecosystems have low species richness, loose interactions among components, and low stability, requiring supplemental matter and energy inputs from humans to be maintained.
 - **Giải thích (VI):** Hệ sinh thái do con người tạo ra và kiểm soát như ruộng lúa, ao nuôi cá, rừng trồng hay thành phố. Kiểu hệ sinh thái này có số lượng loài ít, tương tác giữa các thành phần lỏng lẻo, tính ổn định thấp và phụ thuộc vào nguồn vật chất, năng lượng do con người bổ sung để duy trì.
-- **Bối cảnh:** Sinh học lớp 12, Bài 28 (Mục II.2): Phân loại hệ sinh thái gắn với hoạt động sản xuất nông – lâm – ngư nghiệp và đô thị hoá của con người.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 153; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 153, 154; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 154
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A group of ecosystems formed through human activities, typically including agricultural fields, planted forests, residential areas, urban areas, and fish ponds. / VI: Nhóm hệ sinh thái hình thành nhờ hoạt động của con người, tiêu biểu như hệ sinh thái đồng ruộng, rừng trồng, khu dân cư, khu đô thị và ao nuôi cá.
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: A category of ecosystems created and maintained through human agricultural, forestry, and aquacultural production activities. In Vietnam, these include crop fields, specialized farming zones, aquaculture areas, and plantation forests, which continue to expand and cover approximately one-quarter of the national territory. / VI: Nhóm hệ sinh thái hình thành và phát triển thông qua hoạt động sản xuất nông nghiệp, lâm nghiệp và thuỷ sản của con người. Tại Việt Nam, các hệ sinh thái này gồm đồng ruộng, vùng chuyên canh, vùng nuôi trồng thuỷ sản và rừng trồng, ngày càng mở rộng và chiếm khoảng 1/4 diện tích lãnh thổ.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 28 (Mục II.2): Phân loại hệ sinh thái gắn với hoạt động sản xuất nông – lâm – ngư nghiệp và đô thị hoá của con người.
+  - Khoa học tự nhiên lớp 8, Bài 44 (Mục I.3): Phân loại các hệ sinh thái do con người tạo dựng đối sánh với hệ sinh thái tự nhiên.
+  - Lịch sử và Địa lí lớp 8, Bài 10 (Mục 1): Nhận diện vai trò và phạm vi mở rộng của các hệ sinh thái gắn với sản xuất ở Việt Nam.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 153; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 153, 154; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 154; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.3), tr. 181; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.3), tr. 181, 182; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 141; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 143; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 143
 
 ### artificial fertilization
 - **Tiếng Việt:** Thụ tinh nhân tạo
@@ -786,6 +912,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Khoa học tự nhiên lớp 7, Bài 40 (Mục IV) và Bài 41 (Mục III.2): Biện pháp điều khiển sinh sản giúp tăng nhanh số lượng và chất lượng con giống trong chăn nuôi.
   - *Lưu ý:* Trong chăn nuôi ở cấp THCS, thuật ngữ này chỉ chung các kĩ thuật hỗ trợ thụ tinh có bàn tay con người (bao gồm gieo tinh nhân tạo và thụ tinh trong ống nghiệm).
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B27 (Mục III.1.a), tr. 178; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục III.4), tr. 180; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B40 (Mục IV), tr. 168; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B41 (Mục III.2), tr. 171
+
+### artificial immunity
+- **Tiếng Việt:** Miễn dịch nhân tạo
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A form of specific immunity that protects the body against a particular pathogen, established deliberately through vaccination or following exposure to the infectious agent.
+- **Giải thích (VI):** Loại miễn dịch mang tính đặc hiệu giúp cơ thể chống lại một tác nhân gây bệnh xác định, hình thành chủ động nhờ biện pháp tiêm vaccine hoặc sau khi cơ thể tiếp xúc với mầm bệnh.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục I.2b) và Bảng giải thích thuật ngữ: cơ sở khoa học của việc tiêm chủng vaccine phòng bệnh cho người và vật nuôi.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.2.b), tr. 136
 
 ### artificial pollination
 - **Tiếng Việt:** Thụ phấn nhân tạo
@@ -854,6 +988,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 18 (Mục V.4): Nhóm hình thức học tập chủ yếu của động vật tạo lập các mối liên kết mới trong hệ thần kinh.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B18 (Mục V.4), tr. 120; SGK Sinh học 11 KNTT, Chương 02, B18 (Mục VIII.2), tr. 123
 
+### astigmatism
+- **Tiếng Việt:** Loạn thị
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A refractive error of the eye caused by irregular deformation of the cornea so that incoming light rays converge at multiple points rather than focusing on the retina, resulting in blurred vision; it is corrected by wearing appropriate prescription glasses.
+- **Giải thích (VI):** Tật khúc xạ ở mắt do giác mạc bị biến dạng không đều khiến các tia sáng đi vào mắt hội tụ ở nhiều điểm, hình ảnh của vật không thể hội tụ ở màng lưới làm mắt nhìn mờ, nhoè; khắc phục bằng cách đeo kính thuốc phù hợp.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 37 (Mục II.1c): Phân biệt tật loạn thị do biến dạng giác mạc với cận thị và viễn thị.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.c), tr. 154; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.c), tr. 155; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.2.a), tr. 155
+
 ### asymptomatic stage
 - **Tiếng Việt:** Giai đoạn không triệu chứng
 - **Chuyên ngành gốc:** Sinh học
@@ -861,6 +1003,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Giai đoạn thứ hai của quá trình nhiễm HIV ở người, thường kéo dài từ 1 đến 10 năm tuỳ từng bệnh nhân, trong đó số lượng tế bào bạch cầu lympho T4 giảm dần nhưng người bệnh vẫn chưa biểu hiện triệu chứng lâm sàng.
 - **Bối cảnh:** Sinh học lớp 10, Bài 25 (Mục II.1.c): Giai đoạn thứ hai trong ba giai đoạn tiến triển bệnh ở người nhiễm HIV, nối tiếp sau giai đoạn sơ nhiễm.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 07, B25 (Mục II.1.c), tr. 148
+
+### atherosclerosis
+- **Tiếng Việt:** Xơ vữa động mạch
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A vascular disease occurring when excess blood cholesterol combines with Ca²⁺ ions and infiltrates arterial walls, narrowing the vessel lumen and reducing arterial elasticity. This condition raises blood pressure, impedes blood flow, and promotes blood clot formation that can occlude vessels.
+- **Giải thích (VI):** Bệnh lí mạch máu xảy ra khi cholesterol dư thừa trong máu kết hợp với ion Ca²⁺ ngấm vào thành mạch, làm hẹp lòng mạch và mất tính đàn hồi của động mạch. Tình trạng này gây tăng huyết áp, cản trở dòng máu và dễ hình thành cục máu đông gây tắc mạch.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục III.3): giải thích cơ chế tắc động mạch vành gây đau tim và tắc động mạch não gây đột quỵ.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục III.3), tr. 139; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục IV.1), tr. 139; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục IV.2), tr. 139
 
 ### ATP
 - **Tiếng Việt:** ATP (adenosine triphosphate)
@@ -1061,10 +1211,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The richness of living organisms in nature, expressed most clearly by the number of species. Biodiversity sustains and stabilizes life on Earth and supports sustainable human development by providing stable water, food supplies, and a favorable living environment.
 - **Giải thích (VI):** Sự phong phú của thế giới sinh vật biểu thị rõ nét nhất ở số lượng loài sinh vật trong tự nhiên. Đa dạng sinh học giúp duy trì, ổn định sự sống trên Trái Đất và đảm bảo sự phát triển bền vững của con người qua việc cung cấp nguồn nước, lương thực, thực phẩm cùng môi trường sống thuận lợi.
 - **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The richness and variety of genetic resources, living species, and ecosystems in nature. / VI: Sự phong phú về nguồn gen, thành phần loài sinh vật và các hệ sinh thái trong tự nhiên.
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: The variety and richness of living nature encompassing three levels: diversity within species (genetic diversity), diversity among species (species diversity), and diversity of ecosystems (ecosystem diversity). / VI: Sự đa dạng và phong phú của giới tự nhiên, bao gồm đa dạng trong nội bộ loài (đa dạng di truyền hay đa dạng gene), đa dạng giữa các loài (đa dạng loài) và đa dạng các hệ sinh thái.
 - **Bối cảnh:**
   - Khoa học tự nhiên lớp 6, Bài 38 (Mục I, II): nhận thức vai trò của đa dạng sinh học trong tự nhiên, thực tiễn và sự cần thiết phải bảo vệ đa dạng sinh học.
   - Lịch sử và Địa lí lớp 6, Bài 24 (Mục 2): Giá trị sinh học cốt lõi cần được giữ gìn trong rừng nhiệt đới và các hệ sinh thái tự nhiên.
-- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B38, tr. 135; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B38 (Mục I), tr. 135; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B38 (Mục II.1), tr. 135; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 2), tr. 174
+  - Lịch sử và Địa lí lớp 8, Bài 2 (Mục 3.b): yêu cầu bảo tồn sự phong phú của sinh vật và các hệ sinh thái trong quá trình khai thác kinh tế đồi núi, đồng bằng và biển đảo.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B38, tr. 135; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B38 (Mục I), tr. 135; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B38 (Mục II.1), tr. 135; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 2), tr. 174; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 173; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3.b), tr. 108
 
 ### bioethics
 - **Tiếng Việt:** Đạo đức sinh học
@@ -1116,6 +1268,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 25 (Mục I): Khái niệm nền tảng mở đầu chủ đề phân loại thế giới sống.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25, tr. 86; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục I), tr. 86; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B25 (Mục II), tr. 87
 
+### biological control
+- **Tiếng Việt:** Khống chế sinh học
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A phenomenon in a biological community in which the population size of one species is restrained within a certain level by another population and vice versa. This phenomenon provides the basis for using natural enemies to control pests and diseases in agriculture.
+- **Giải thích (VI):** Hiện tượng số lượng cá thể của một quần thể trong quần xã bị kìm hãm ở mức nhất định bởi quần thể khác và ngược lại. Hiện tượng này là cơ sở ứng dụng thiên địch để phòng trừ sinh vật gây hại hoặc dịch bệnh trong nông nghiệp.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 46 (Mục I.2): Cơ chế điều hoà số lượng cá thể giữa các loài trong quần xã và cơ sở ứng dụng thiên địch trong nông nghiệp.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I), tr. 188; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.2), tr. 189
+
 ### biological evolution
 - **Tiếng Việt:** Tiến hoá sinh học
 - **Chuyên ngành gốc:** Sinh học
@@ -1164,8 +1324,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A large geographic region on Earth characterized by similar climatic conditions and a shared distinctive type of vegetation and biota. Biomes make up the biosphere and are divided into two major categories: terrestrial biomes (such as tropical forests, grasslands, and tundra) and aquatic biomes (freshwater and marine).
 - **Giải thích (VI):** Khu vực địa lí rộng lớn trên Trái Đất có các đặc điểm tương tự nhau về khí hậu và có cùng một loại thảm thực vật, sinh vật đặc trưng. Các khu sinh học hợp thành sinh quyển và được chia thành hai nhóm lớn gồm khu sinh học trên cạn (như rừng nhiệt đới, thảo nguyên, đồng rêu hàn đới,...) và khu sinh học dưới nước (nước ngọt, nước mặn).
-- **Bối cảnh:** Sinh học lớp 12, Bài 31 (Mục I.2): Đơn vị cấu thành sinh quyển phản ánh sự phân bố của đa dạng sinh vật theo vĩ độ và điều kiện khí hậu trên Trái Đất.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B31 (Mục I.2.a), tr. 166; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục I.2.b), tr. 167; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục II.2), tr. 171
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A major ecosystem characteristic of a geographic region with distinct climatic conditions on Earth, classified into terrestrial biomes, freshwater biomes, and marine biomes. / VI: Hệ sinh thái lớn đặc trưng cho từng vùng địa lí có điều kiện khí hậu không đồng nhất trên Trái Đất, chia thành ba nhóm gồm khu sinh học trên cạn, khu sinh học nước ngọt và khu sinh học biển.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 31 (Mục I.2): Đơn vị cấu thành sinh quyển phản ánh sự phân bố của đa dạng sinh vật theo vĩ độ và điều kiện khí hậu trên Trái Đất.
+  - Khoa học tự nhiên lớp 8, Bài 45 (Mục II): Phân chia các hệ sinh thái đặc trưng theo vùng địa lí và điều kiện khí hậu trong sinh quyển.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B31 (Mục I.2.a), tr. 166; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục I.2.b), tr. 167; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục II.2), tr. 171; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II), tr. 186
 
 ### biomimetics
 - **Tiếng Việt:** Phỏng sinh học (bắt chước sinh học; công nghệ phỏng sinh học)
@@ -1192,11 +1355,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The highest level of biological organization encompassing all ecosystems on Earth and composed of major biomes. The biosphere functions as a self-regulating global ecosystem in dynamic equilibrium, in which living organisms and abiotic factors are tightly interconnected through biogeochemical cycles.
 - **Giải thích (VI):** Cấp độ tổ chức sống lớn nhất bao gồm toàn bộ các hệ sinh thái trên Trái Đất, được cấu thành từ các khu sinh học. Sinh quyển vận hành như một hệ sinh thái quy mô toàn cầu có khả năng tự điều chỉnh ở trạng thái cân bằng động, trong đó sinh vật và các nhân tố vô sinh gắn kết chặt chẽ thông qua các chu trình sinh – địa – hoá.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A global ecosystem encompassing all living organisms on Earth together with abiotic environmental factors across the soil layer (lithosphere), air layer (atmosphere), and ocean water layer (hydrosphere). / VI: Hệ sinh thái khổng lồ bao gồm toàn bộ sinh vật sống trên Trái Đất cùng với các nhân tố vô sinh của môi trường thuộc lớp đất (thạch quyển), lớp không khí (khí quyển) và lớp nước đại dương (thuỷ quyển).
 - **Giải thích khác (SGK Địa lí 10):** EN: A constituent sphere of the Earth's outer envelope where life exists, encompassing the lower atmosphere (troposphere), the entire hydrosphere, and the upper part of the lithosphere. Its upper boundary reaches the atmospheric ozone layer, while its lower boundary extends to the deepest ocean trenches and stops at the base of the weathering crust on land. / VI: Bộ phận cấu tạo nên lớp vỏ Trái Đất nơi có sự sống tồn tại, bao gồm phần thấp của khí quyển (tầng đối lưu), toàn bộ thuỷ quyển và phần trên của thạch quyển. Ranh giới phía trên tiếp xúc với lớp ô-dôn của khí quyển, còn ranh giới phía dưới xuống tận đáy sâu của các hố đại dương và dừng lại ở đáy lớp vỏ phong hoá trên đất liền.
 - **Bối cảnh:**
   - Sinh học lớp 12, Bài 28 (Mục I.1) và Bài 31 (Mục I.1): Cấp độ tổ chức sống cao nhất của hành tinh, nơi biến đổi môi trường ở một khu vực đều có thể tác động đến môi trường toàn cầu.
+  - Khoa học tự nhiên lớp 8, Bài 45 (Mục I): Hệ thống tự nhiên toàn cầu gắn kết sinh vật với môi trường qua trao đổi chất và chuyển hoá năng lượng.
   - Địa lí lớp 10, Bài 15 (Mục 1): Định nghĩa khái niệm, phạm vi và giới hạn của sinh quyển.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B28 (Mục I.1), tr. 152; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục I.1), tr. 165; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục I.2.a), tr. 166; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục II.2), tr. 171; SGK Địa lí 10 KNTT, Phần hai, B15, tr. 47; SGK Địa lí 10 KNTT, Phần hai, B15 (Mục 1), tr. 47
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B28 (Mục I.1), tr. 152; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục I.1), tr. 165; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục I.2.a), tr. 166; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục II.2), tr. 171; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45, tr. 185; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục I), tr. 185; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.3), tr. 187; SGK Địa lí 10 KNTT, Phần hai, B15, tr. 47; SGK Địa lí 10 KNTT, Phần hai, B15 (Mục 1), tr. 47
 
 ### biosynthesis
 - **Tiếng Việt:** Sinh tổng hợp (Quá trình đồng hoá; Giai đoạn tổng hợp; tổng hợp)
@@ -1209,13 +1374,34 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 10, Bài 24 (Mục II): Giai đoạn thứ ba trong 5 giai đoạn nhân lên của virus, tạo ra các bản sao nucleic acid và vỏ protein mới bên trong tế bào chủ.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 06, B21 (Mục I.1), tr. 122; SGK Sinh học 10 KNTT, Chương 07, B24 (Mục II), tr. 143; SGK Sinh học 10 KNTT, Chương 07, B24 (Mục II), tr. 144
 
+### biotic component
+- **Tiếng Việt:** Thành phần hữu sinh
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The living structural part of an ecosystem comprising all species within its biological community, categorized by nutritional role into three groups: producers, consumers, and decomposers.
+- **Giải thích (VI):** Bộ phận cấu trúc sống của hệ sinh thái bao gồm toàn bộ các loài sinh vật trong quần xã, phân chia theo vai trò dinh dưỡng thành ba nhóm là sinh vật sản xuất, sinh vật tiêu thụ và sinh vật phân giải.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 44 (Mục I.2): Phân tích cấu trúc quần xã trong hệ sinh thái; đối lập với thành phần vô sinh.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44, tr. 180; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.1), tr. 180; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.2), tr. 180
+
+### biotic environment
+- **Tiếng Việt:** Môi trường sinh vật
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** One of the four primary living environments, consisting of the bodies of plants, animals, and humans that serve as living space and nutrient sources for other organisms such as parasites or symbionts.
+- **Giải thích (VI):** Một trong bốn loại môi trường sống chủ yếu, chính là cơ thể của thực vật, động vật và con người, nơi cung cấp chỗ ở và nguồn dinh dưỡng cho các sinh vật khác như sinh vật kí sinh hoặc cộng sinh.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 41 (Mục I.2): Phân loại bốn môi trường sống chủ yếu của sinh vật; phân biệt với nhân tố sinh thái hữu sinh.
+  - *Lưu ý:* Trong phân loại bốn môi trường sống của SGK Khoa học tự nhiên 8, môi trường sinh vật chỉ cơ thể sinh vật làm nơi sống cho sinh vật khác, không đồng nhất với nhóm nhân tố sinh thái hữu sinh.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục I.2), tr. 171; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục II.1), tr. 171
+
 ### biotic factor
-- **Tiếng Việt:** Nhân tố hữu sinh
+- **Tiếng Việt:** Nhân tố hữu sinh (Nhân tố sinh thái hữu sinh)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A group of ecological factors consisting of living organisms sharing an environment and interacting through relationships such as symbiosis, cooperation, parasitism, and predation. Within this group, humans exert a profound influence on both abiotic and other biotic factors.
 - **Giải thích (VI):** Nhóm nhân tố sinh thái gồm các loài sinh vật cùng chung sống trong môi trường, tác động qua lại thông qua những mối quan hệ như cộng sinh, hợp tác, kí sinh hay vật ăn thịt – con mồi. Trong nhóm này, con người là nhân tố có ảnh hưởng sâu rộng đến cả các nhân tố vô sinh lẫn hữu sinh khác.
-- **Bối cảnh:** Sinh học lớp 12, Bài 23 (Mục II.1): Nhóm nhân tố sinh thái sống tác động lên sinh vật, phân biệt với nhân tố vô sinh.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B23 (Mục II.1), tr. 123
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: Living elements of the environment, including humans and other organisms, that interact through intraspecific and interspecific relationships of mutual support or competition. Within this group, humans exert the greatest influence on the lives of many species. / VI: Nhóm các yếu tố sống của môi trường bao gồm con người và các loài sinh vật khác, tác động qua lại thông qua các mối quan hệ hỗ trợ hoặc cạnh tranh cùng loài và khác loài. Trong nhóm này, con người là nhân tố có ảnh hưởng lớn nhất đến đời sống của nhiều loài sinh vật.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 23 (Mục II.1): Nhóm nhân tố sinh thái sống tác động lên sinh vật, phân biệt với nhân tố vô sinh.
+  - Khoa học tự nhiên lớp 8, Bài 41 (Mục II.1, II.2.b): Phân biệt nhóm yếu tố sống với nhân tố sinh thái vô sinh trong môi trường.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B23 (Mục II.1), tr. 123; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục I.2), tr. 171; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục II.1), tr. 171; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục II.2.b), tr. 172
 
 ### bird
 - **Tiếng Việt:** Lớp Chim (Chim)
@@ -1260,6 +1446,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 8 (Mục I, II.1): Bối cảnh lịch sử trước Mendel và cơ sở thực nghiệm bác bỏ quan niệm di truyền hòa trộn.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B8 (Mục I), tr. 40; SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.1), tr. 42
 
+### blood
+- **Tiếng Việt:** Máu
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The bodily fluid circulating within the cardiovascular system, composed of blood plasma (about 55% by volume) and formed elements including red blood cells, white blood cells, and platelets (about 45% by volume). It functions to transport substances and protect the body.
+- **Giải thích (VI):** Phần dịch lỏng lưu thông trong hệ tuần hoàn của cơ thể, cấu tạo gồm huyết tương (chiếm khoảng 55% thể tích) và các tế bào máu gồm hồng cầu, bạch cầu, tiểu cầu (chiếm khoảng 45% thể tích). Máu đảm nhận chức năng vận chuyển các chất và bảo vệ cơ thể.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục I.1): phân tích thành phần cấu tạo và vai trò sinh lí của máu ở người.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33, tr. 135; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.1), tr. 135; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.2.b), tr. 136
+
 ### blood flow velocity
 - **Tiếng Việt:** Vận tốc máu
 - **Chuyên ngành gốc:** Sinh học
@@ -1268,13 +1462,42 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 10 (Mục IV.2.b): Sự vận chuyển máu và mối tương quan với tổng tiết diện hệ mạch.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B10 (Mục IV.2.b), tr. 65; SGK Sinh học 11 KNTT, Chương 01, B10 (Mục VI.3), tr. 68
 
+### blood group
+- **Tiếng Việt:** Nhóm máu
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A classification of red blood cells based on the presence or absence of specific antigenic characteristics on the red blood cell surface.
+- **Giải thích (VI):** Phân nhóm các tế bào hồng cầu dựa trên sự hiện diện hay vắng mặt của các đặc tính kháng nguyên đặc trưng trên bề mặt hồng cầu.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục I.3): cơ sở phân loại máu ở người phục vụ xét nghiệm và truyền máu an toàn.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.3.a), tr. 137; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.3.b), tr. 137; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục II.1), tr. 137, 138
+
+### blood plasma
+- **Tiếng Việt:** Huyết tương
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The liquid component accounting for approximately 55% of blood volume, consisting mainly of water and dissolved solutes. Blood plasma maintains blood fluidity for smooth circulation and transports nutrients, essential substances, and metabolic wastes.
+- **Giải thích (VI):** Thành phần dịch lỏng chiếm khoảng 55% thể tích máu, gồm chủ yếu là nước và các chất hoà tan. Huyết tương duy trì máu ở trạng thái lỏng để lưu thông dễ dàng trong mạch, đồng thời vận chuyển chất dinh dưỡng, các chất cần thiết và chất thải.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 33 (Mục I.1, I.3a): nhận biết vai trò vận chuyển của huyết tương và sự hiện diện của kháng thể nhóm máu trong huyết tương.
+  - *Lưu ý:* Chỉ phần dịch lỏng của máu (blood plasma), phân biệt với tương bào (plasma cell) trong miễn dịch học và trạng thái plasma của vật chất trong vật lí.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33, tr. 135; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.1), tr. 135; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.3.a), tr. 137
+
 ### blood pressure
 - **Tiếng Việt:** Huyết áp
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The force exerted by circulating blood against blood vessel walls generated by the rhythmic pumping of the heart; it is highest in the aorta and progressively decreases through capillaries to the venae cavae.
 - **Giải thích (VI):** Áp lực của dòng máu tác động lên thành mạch do hoạt động co bóp theo chu kì của tim tạo ra; đại lượng này đạt mức cao nhất ở động mạch chủ rồi giảm dần qua mao mạch đến tĩnh mạch chủ.
-- **Bối cảnh:** Sinh học lớp 11, Bài 10 (Mục IV.2.a, V) và Bài 11 (Mục III.2): Động lực vận chuyển máu trong hệ mạch, điều hoà tim mạch và thực hành đo huyết áp.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B10 (Mục IV.2.a), tr. 65; SGK Sinh học 11 KNTT, Chương 01, B10 (Mục VI.3), tr. 68
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The pressure exerted by circulating blood against the walls of blood vessels. In healthy adults, minimum blood pressure ranges from $60\text{ mmHg}$ to below $90\text{ mmHg}$ and maximum blood pressure ranges from $90\text{ mmHg}$ to below $140\text{ mmHg}$. / VI: Áp lực của dòng máu tác động lên thành mạch khi lưu thông trong hệ tuần hoàn. Ở người bình thường, chỉ số huyết áp tối thiểu nằm trong khoảng từ $60\text{ mmHg}$ đến dưới $90\text{ mmHg}$ và huyết áp tối đa từ $90\text{ mmHg}$ đến dưới $140\text{ mmHg}$.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 10 (Mục IV.2.a, V) và Bài 11 (Mục III.2): Động lực vận chuyển máu trong hệ mạch, điều hoà tim mạch và thực hành đo huyết áp.
+  - Khoa học tự nhiên lớp 8, Bài 33 (Mục III.2, IV.4) và Bảng giải thích thuật ngữ: thực hành đo huyết áp và theo dõi sức khoẻ hệ tim mạch.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B10 (Mục IV.2.a), tr. 65; SGK Sinh học 11 KNTT, Chương 01, B10 (Mục VI.3), tr. 68; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195, 196; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục III.2), tr. 138
+
+### blood transfusion
+- **Tiếng Việt:** Truyền máu
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A medical procedure that transfers blood from a donor into a recipient's circulatory system to replenish lost blood. Transfusions prioritize matching blood groups; when cross-group transfusion is required, antibodies in the recipient's plasma must not agglutinate the antigens on the transfused donor red blood cells.
+- **Giải thích (VI):** Thủ thuật y học đưa máu từ người hiến sang hệ tuần hoàn của người nhận để bù đắp lượng máu thiếu hụt. Quá trình truyền máu ưu tiên thực hiện cùng nhóm máu; trường hợp truyền khác nhóm phải tuân thủ nguyên tắc không để kháng thể trong huyết tương người nhận gây kết dính kháng nguyên trên hồng cầu máu truyền vào.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục I.3b): vận dụng nguyên tắc không gây kết dính hồng cầu để xác định chiều truyền máu an toàn trong hệ ABO.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.3.a), tr. 137; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.3.b), tr. 137; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục II.1), tr. 137, 138
 
 ### blood vessel system
 - **Tiếng Việt:** Hệ thống mạch máu
@@ -1291,6 +1514,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hình thức trao đổi khí trong đó khí O₂ và CO₂ khuếch tán trực tiếp qua toàn bộ bề mặt cơ thể hoặc da ẩm ướt, gặp ở động vật chưa có cơ quan trao đổi khí chuyên hoá (như ngành Ruột khoang, Giun dẹp) và cả ở một số động vật có cơ quan chuyên hoá như Giun đốt, ếch.
 - **Bối cảnh:** Sinh học lớp 11, Bài 9 (Mục II.1): Hình thức trao đổi khí trực tiếp qua thành cơ thể hoặc da ẩm ướt ở động vật.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B9 (Mục II.1), tr. 55
+
+### body temperature
+- **Tiếng Việt:** Thân nhiệt
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The temperature of the body, which in a healthy human is approximately $37\text{ }^\circ\text{C}$ and fluctuates by no more than $0.5\text{ }^\circ\text{C}$. This temperature varies across body regions, being highest in the liver, followed by the blood, and lowest in the skin.
+- **Giải thích (VI):** Nhiệt độ của cơ thể, ở người bình thường đạt khoảng $37\text{ }^\circ\text{C}$ và dao động không quá $0,5\text{ }^\circ\text{C}$. Mức nhiệt này phân bố khác nhau giữa các vùng trong cơ thể, cao nhất ở gan, tiếp đến là máu và thấp nhất ở da.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 39 (Mục II.1): Khái niệm và thực hành đo nhiệt độ cơ thể người để theo dõi sức khoẻ.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục II.1), tr. 162; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.1.b), tr. 161; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.2.b), tr. 162; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.3), tr. 162
 
 ### bony fish
 - **Tiếng Việt:** Lớp Cá xương (Cá xương)
@@ -1572,12 +1803,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quá trình biến đổi các tế bào từ dạng chung chưa phân hoá (như tế bào hợp tử hoặc tế bào gốc) trở thành các tế bào chuyên hoá có hình thái và chức năng đặc thù để cấu tạo nên các mô và cơ quan của cơ thể.
 - **Giải thích khác (SGK Sinh học 11):** EN: Process by which cells modify their structure and specialize in function during individual development. This process works alongside growth as the foundation for forming specialized tissues, organs, and organ systems in plants and animals. / VI: Quá trình các tế bào thay đổi cấu trúc và chuyên hoá về chức năng trong quá trình phát triển của cá thể. Quá trình này gắn liền với sinh trưởng và là cơ sở để hình thành các mô, cơ quan và hệ cơ quan đặc trưng ở thực vật và động vật.
 - **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The process by which generalized cells transform into cells specialized in morphology and function to build the tissues and organs of an organism. Many cell types lose their capacity to divide after completing this specialization. / VI: Quá trình biến đổi các tế bào từ dạng chung trở thành những tế bào đặc thù về hình thái và chức năng nhằm xây dựng nên các mô và cơ quan của cơ thể. Nhiều loại tế bào sau khi hoàn tất quá trình này sẽ không còn khả năng phân chia sinh sản.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The biological process in which daughter cells develop specialized structures and functions distinct from those of the parent cell, giving rise to a new cell type. / VI: Hiện tượng các tế bào con sinh ra biến đổi để mang cấu trúc và chức năng chuyên hoá khác với tế bào mẹ ban đầu, tạo nên một loại tế bào mới.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 19 (Mục I.2): Quá trình phát triển từ tế bào gốc hoặc hợp tử thành các tế bào chuyên hoá của cơ thể đa bào.
   - Sinh học lớp 11, Bài 19 (Mục I.2, II): Một trong ba quá trình cấu thành và là dấu hiệu đặc trưng của sự phát triển ở sinh vật.
   - Khoa học tự nhiên lớp 6, Bài 20 (Mục III): Giải thích vì sao chỉ một số nhóm tế bào nhất định trong cơ thể đa bào còn giữ khả năng sinh sản.
+  - Khoa học tự nhiên lớp 8, Bài 33 (Mục I.2a) và Bảng giải thích thuật ngữ: giải thích sự chuyển đổi từ nguyên bào lympho thành tương bào tiết kháng thể.
   - *Lưu ý:* Trong Sinh học, thuật ngữ này chỉ sự biệt hoá tế bào (cell differentiation), phân biệt với phép lấy vi phân hoặc đạo hàm (differentiation) trong Toán học.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B17 (Mục III), tr. 106; SGK Sinh học 10 KNTT, Chương 05, B19 (Mục I.2), tr. 110; SGK Sinh học 10 KNTT, Chương 05, B19 (Mục I.3), tr. 113; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục I.2), tr. 125; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục II), tr. 126; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B20 (Mục III), tr. 72; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
+  - *Lưu ý:* Thuật ngữ sinh học tế bào (cell differentiation), phân biệt với phép lấy vi phân hoặc đạo hàm (differentiation) trong toán học.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B17 (Mục III), tr. 106; SGK Sinh học 10 KNTT, Chương 05, B19 (Mục I.2), tr. 110; SGK Sinh học 10 KNTT, Chương 05, B19 (Mục I.3), tr. 113; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục I.2), tr. 125; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục II), tr. 126; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B20 (Mục III), tr. 72; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195, 196; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196
 
 ### cell division
 - **Tiếng Việt:** Sự sinh sản của tế bào (sự phân chia của tế bào; phân bào)
@@ -1767,16 +2001,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A species distributed exclusively or concentrated abundantly in certain specific habitats, contributing to shaping the species composition and diversity of the community. In many cases, a characteristic species simultaneously serves as the dominant species of that community.
 - **Giải thích (VI):** Loài chỉ phân bố hoặc tập trung nhiều ở một số sinh cảnh nhất định, góp phần chi phối thành phần loài và độ đa dạng của quần xã. Trong nhiều trường hợp, loài đặc trưng đồng thời cũng là loài ưu thế của quần xã đó.
-- **Bối cảnh:** Sinh học lớp 12, Bài 26 (Mục II.1): Đặc trưng thành phần loài của quần xã; ví dụ các loài đước, sú, vẹt ở quần xã rừng ngập mặn ven biển.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.1), tr. 142; SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.1), tr. 143
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A species found exclusively in a particular biological community or occurring in much greater abundance than other species there, serving to distinguish that community from others. / VI: Loài sinh vật chỉ phân bố ở một quần xã nhất định hoặc có số lượng nhiều hơn hẳn các loài khác, giúp phân biệt quần xã đó với các quần xã khác.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 26 (Mục II.1): Đặc trưng thành phần loài của quần xã; ví dụ các loài đước, sú, vẹt ở quần xã rừng ngập mặn ven biển.
+  - Khoa học tự nhiên lớp 8, Bài 43 (Mục II): Dấu hiệu nhận diện đặc trưng thành phần loài của một quần xã; phân biệt với loài ưu thế.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.1), tr. 142; SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.1), tr. 143; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B43 (Mục II), tr. 178; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B43 (Mục II), tr. 178, 179; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B43 (Mục II), tr. 179
 
 ### chemical digestion
 - **Tiếng Việt:** Tiêu hoá hoá học
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The enzymatic breakdown of complex nutrients in food (such as carbohydrates, proteins, and lipids) into absorbable simple molecules through the action of enzymes and digestive juices secreted by digestive glands under neural and hormonal regulation.
 - **Giải thích (VI):** Quá trình phân giải các chất dinh dưỡng phức tạp trong thức ăn (như carbohydrate, protein, lipid) thành các phân tử đơn giản có thể hấp thụ được nhờ tác dụng của các enzyme và dịch tiêu hoá do các tuyến tiêu hoá tiết ra dưới sự điều khiển của hệ thần kinh và hormone.
-- **Bối cảnh:** Sinh học lớp 11, Bài 8 (Mục I.2.c): Quá trình thuỷ phân chất dinh dưỡng phức tạp nhờ enzyme trong ống tiêu hoá.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.2.c), tr. 48; SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.2.c), tr. 49
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The enzymatic breakdown of complex food molecules by digestive juices into simple substances absorbable by the body. It begins in the oral cavity (salivary amylase converting cooked starch into maltose), continues in the stomach (pepsin breaking down proteins), and is completed in the small intestine via bile, pancreatic juice, and intestinal juice. / VI: Hình thức biến đổi thức ăn nhờ tác dụng của các dịch tiêu hoá và enzyme chuyên biệt để phân giải các hợp chất phức tạp thành chất đơn giản mà cơ thể hấp thụ được. Quá trình này khởi đầu ở khoang miệng (enzyme amylase phân giải tinh bột chín thành đường maltose), tiếp diễn ở dạ dày (enzyme pepsin phân giải protein) và hoàn tất ở ruột non nhờ dịch mật, dịch tuỵ và dịch ruột.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 8 (Mục I.2.c): Quá trình thuỷ phân chất dinh dưỡng phức tạp nhờ enzyme trong ống tiêu hoá.
+  - Khoa học tự nhiên lớp 8, Bài 32 (Mục II.2): giải thích cơ chế phân giải thức ăn tại khoang miệng, dạ dày và ruột non.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.2.c), tr. 48; SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.2.c), tr. 49; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.1), tr. 129; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.2.a), tr. 129; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.2.b), tr. 129
 
 ### chemical evolution
 - **Tiếng Việt:** Tiến hoá hoá học
@@ -1892,8 +2132,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A water-insoluble steroid that serves as an essential structural component of cell membranes and as a precursor for synthesizing sex hormones such as testosterone and estrogen. In the bloodstream, it is transported by binding to specific proteins in the form of lipoproteins.
 - **Giải thích (VI):** Một loại steroid không tan trong nước giữ vai trò là thành phần cấu trúc quan trọng của màng tế bào và là tiền chất tổng hợp các hormone sinh dục như testosterone và estrogen. Trong máu, phân tử này được vận chuyển nhờ liên kết với các protein đặc hiệu dưới dạng lipoprotein.
-- **Bối cảnh:** Sinh học lớp 10, Bài 5 (Mục II.2.c): Vai trò cấu trúc, sinh lí của cholesterol và mối liên hệ với sức khoẻ tim mạch.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.2.c), tr. 33
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A type of lipid present in the blood that participates in nerve fiber function and the synthesis of certain hormones essential for normal bodily activity. Excessively high blood levels of this lipid increase the risk of atherosclerosis. / VI: Một loại lipid có trong máu, tham gia vào hoạt động của tế bào sợi thần kinh và quá trình tổng hợp một số loại hormone giúp cơ thể hoạt động bình thường. Khi hàm lượng chất này trong máu vượt ngưỡng bình thường sẽ gây nguy cơ xơ vữa động mạch.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 5 (Mục II.2.c): Vai trò cấu trúc, sinh lí của cholesterol và mối liên hệ với sức khoẻ tim mạch.
+  - Khoa học tự nhiên lớp 8, Bài 33 (Mục III.3) và Bảng giải thích thuật ngữ: đánh giá hai mặt vai trò sinh lí và nguy cơ tim mạch khi dư thừa cholesterol.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.2.c), tr. 33; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195, 196; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục III.3), tr. 139
 
 ### chromatid
 - **Tiếng Việt:** Chromatid (nhiễm sắc tử chị em; chromatid chị em)
@@ -1927,6 +2170,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 7 (Mục I, II): Cấu trúc siêu hiển vi qua các kì phân bào và chức năng di truyền của nhiễm sắc thể.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B7 (Mục I), tr. 36; SGK Sinh học 12 KNTT, Chương 02, B7 (Mục I), tr. 37; SGK Sinh học 12 KNTT, Chương 02, B7 (Mục II.1), tr. 38
 
+### chyle
+- **Tiếng Việt:** Nhũ chấp
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A milky bodily fluid composed of lymph and free fats formed in the small intestine during nutrient absorption. This fluid is transported through lacteals within the lymphatic vascular system.
+- **Giải thích (VI):** Chất dịch màu trắng đục như sữa gồm bạch huyết và các chất béo tự do hình thành tại ruột non trong quá trình hấp thụ chất dinh dưỡng. Dịch này di chuyển bên trong các mạch nhũ chấp thuộc hệ mạch bạch huyết.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 32 (Mục VI.3) và Bảng giải thích thuật ngữ: giải thích con đường hấp thụ và vận chuyển lipid tại ruột non.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục VI.3), tr. 134
+
 ### cilium
 - **Tiếng Việt:** Lông
 - **Chuyên ngành gốc:** Sinh học
@@ -1951,10 +2202,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The transport organ system in animals consisting of circulatory fluid, the heart, and a blood vessel system, responsible for moving nutrients, O₂, and other substances among body parts to sustain life processes.
 - **Giải thích (VI):** Hệ cơ quan vận chuyển ở động vật cấu tạo từ dịch tuần hoàn, tim và hệ thống mạch máu, đảm nhận chức năng luân chuyển chất dinh dưỡng, O₂ và các chất khác giữa các bộ phận nhằm duy trì hoạt động sống của cơ thể.
 - **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: The organ system that transports substances throughout the animal body via blood flowing through a network of arteries, capillaries, and veins propelled by the heart. It delivers oxygen and nutrients to nourish cells while carrying CO₂ and metabolic wastes to the lungs and excretory organs for elimination. / VI: Hệ cơ quan thực hiện chức năng vận chuyển các chất trong cơ thể động vật thông qua dòng máu lưu thông trong mạng lưới động mạch, mao mạch và tĩnh mạch nhờ hoạt động bơm của tim. Hệ tuần hoàn đưa oxygen và chất dinh dưỡng tới nuôi các tế bào, đồng thời vận chuyển khí CO₂ và các sản phẩm bài tiết đến phổi cùng cơ quan bài tiết để thải ra ngoài.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The organ system consisting of the heart (acting as a suction-and-pressure pump) and a closed network of blood vessels. It transports nutrients, gases, and other substances to cells and tissues throughout the body via the systemic and pulmonary circuits. / VI: Hệ cơ quan gồm tim (đóng vai trò bơm hút và đẩy máu) và hệ mạch máu khép kín. Hệ tuần hoàn vận chuyển chất dinh dưỡng, chất khí và các chất khác đến tế bào, mô của cơ thể thông qua vòng tuần hoàn lớn và vòng tuần hoàn nhỏ.
 - **Bối cảnh:**
   - Sinh học lớp 11, Bài 10 (Mục I): Khái quát cấu tạo và chức năng hệ cơ quan vận chuyển ở động vật.
   - Khoa học tự nhiên lớp 7, Bài 31 (Mục III, IV.2): vai trò trung chuyển vật chất của hệ tuần hoàn và các biện pháp bảo vệ sức khoẻ tim mạch.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B1 (Mục II.1), tr. 6; SGK Sinh học 11 KNTT, Chương 01, B10 (Mục I), tr. 61; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31 (Mục II), tr. 133; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31 (Mục III), tr. 133; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31 (Mục IV.2), tr. 135
+  - Khoa học tự nhiên lớp 8, Bài 33 (Mục II): phân tích cấu tạo tim mạch và đường đi của máu trong hai vòng tuần hoàn.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B1 (Mục II.1), tr. 6; SGK Sinh học 11 KNTT, Chương 01, B10 (Mục I), tr. 61; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31 (Mục II), tr. 133; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31 (Mục III), tr. 133; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31 (Mục IV.2), tr. 135; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.3.a), tr. 137; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.3.b), tr. 137; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục II.1), tr. 137, 138
 
 ### classical conditioning
 - **Tiếng Việt:** Điều kiện hoá đáp ứng
@@ -1995,6 +2248,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nhóm nấm đặc trưng bởi hình thức sinh sản bằng bào tử đảm, bao gồm các đại diện quen thuộc như nấm rơm, nấm hương, nấm sò và nấm linh chi.
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 32 (Mục I): Phân nhóm nấm theo cơ quan tạo bào tử, phân biệt với nấm túi và nấm tiếp hợp.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B32, tr. 108; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B32 (Mục I), tr. 108
+
+### clumped dispersion
+- **Tiếng Việt:** Phân bố theo nhóm
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A spatial distribution pattern in which individuals of a population aggregate in patches at favorable sites, occurring where living conditions are unevenly distributed and individuals exhibit group-living behavior.
+- **Giải thích (VI):** Kiểu phân bố trong đó các cá thể của quần thể tập trung thành từng cụm ở những nơi thuận lợi, xuất hiện khi điều kiện sống phân bố không đều và các cá thể có tập tính sống theo nhóm.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 42 (Mục II.5): Phân biệt với phân bố đều và phân bố ngẫu nhiên trong quần thể.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II.5), tr. 176; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục III), tr. 176
 
 ### cnidarian
 - **Tiếng Việt:** Ruột khoang (ngành Ruột khoang)
@@ -2094,6 +2355,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 16 (Mục II.1): phương pháp lai tạo trong chăn nuôi và trồng trọt nhằm khai thác ưu thế lai ở con lai.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 03, B16 (Mục II.1), tr. 85
 
+### common cold
+- **Tiếng Việt:** Cảm lạnh
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A viral respiratory tract infection to which the body becomes susceptible during rainy, cold, or suddenly changing weather conditions.
+- **Giải thích (VI):** Bệnh nhiễm trùng đường hô hấp do virus gây ra, thường dễ mắc phải khi trời mưa, lạnh hoặc khi thời tiết thay đổi đột ngột.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 39 (Mục II.3.b): Phòng chống bệnh đường hô hấp khi thời tiết lạnh hoặc thay đổi đột ngột; phân biệt với cảm nóng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục II.3.b), tr. 164; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục II.3), tr. 164
+
 ### common name
 - **Tiếng Việt:** Tên địa phương
 - **Chuyên ngành gốc:** Sinh học
@@ -2111,12 +2380,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.1), tr. 18; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.2), tr. 18, 19
 
 ### community diversity
-- **Tiếng Việt:** Độ đa dạng của quần xã
+- **Tiếng Việt:** Độ đa dạng của quần xã (độ đa dạng)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The richness of species composition and the abundance of individuals of each species within an ecological community. Community diversity reflects the fluctuation, stability, or degradation of a community; higher diversity confers greater stability because species at the same trophic level can replace one another in the food web.
 - **Giải thích (VI):** Mức độ phong phú về thành phần loài và số lượng cá thể của mỗi loài trong quần xã sinh vật. Độ đa dạng phản ánh trạng thái biến động, ổn định hay suy thoái của quần xã; độ đa dạng càng cao thì tính ổn định càng lớn do các loài cùng bậc dinh dưỡng có thể thay thế nhau trong lưới thức ăn.
-- **Bối cảnh:** Sinh học lớp 12, Bài 26 (Mục II.2): Đặc trưng cơ bản của quần xã, thường giảm dần từ vĩ độ thấp lên vĩ độ cao, từ chân núi lên đỉnh núi, từ bờ ra khơi xa và từ tầng nước mặt xuống tầng sâu.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.2), tr. 143; SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.2), tr. 143, 144
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A fundamental characteristic of a biological community expressed by the richness in the number of species and the abundance of individuals within each species. The greater the number of species and individuals per species, the higher the diversity of the community. / VI: Đặc trưng cơ bản của quần xã sinh vật thể hiện qua mức độ phong phú về số lượng loài và số lượng cá thể của mỗi loài trong quần xã. Số lượng loài và số lượng cá thể của mỗi loài càng lớn thì độ đa dạng của quần xã càng cao.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 26 (Mục II.2): Đặc trưng cơ bản của quần xã, thường giảm dần từ vĩ độ thấp lên vĩ độ cao, từ chân núi lên đỉnh núi, từ bờ ra khơi xa và từ tầng nước mặt xuống tầng sâu.
+  - Khoa học tự nhiên lớp 8, Bài 43 (Mục II): Tiêu chí so sánh mức độ phong phú và ổn định giữa các quần xã sinh vật khác nhau.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.2), tr. 143; SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.2), tr. 143, 144; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B43 (Mục II), tr. 178; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B43 (Mục II), tr. 178, 179; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B43 (Mục III), tr. 179
 
 ### companion cell
 - **Tiếng Việt:** Tế bào kèm
@@ -2189,15 +2461,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Thuật ngữ thực vật học chỉ cơ quan sinh sản của thực vật hạt trần (strobilus/cone), phân biệt với khối hình nón trong hình học.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 118; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 118, 119; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 119
 
+### conjunctivitis
+- **Tiếng Việt:** Bệnh đau mắt đỏ
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An eye infection caused by pathogens such as Adenovirus or Staphylococcus bacteria, characterized by symptoms including eye redness, tearing, heavy eye discharge, and a gritty sensation.
+- **Giải thích (VI):** Bệnh nhiễm trùng mắt do virus Adeno, vi khuẩn Staphylococcus,... gây nên, biểu hiện qua các triệu chứng đỏ mắt, chảy nước mắt, có nhiều ghèn (dử) mắt và cộm mắt.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 37 (Mục II.1c): Bệnh viêm nhiễm phổ biến ở mắt có khả năng lây lan và cách giữ vệ sinh phòng tránh.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.a), tr. 154; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.b), tr. 154; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.c), tr. 154
+
 ### consumer
 - **Tiếng Việt:** Sinh vật tiêu thụ
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Organisms (primarily animals) that utilize pre-existing energy stored in organic matter derived from other organisms to sustain their life activities. Within food chains, they occupy successive links such as primary consumers (herbivores), secondary consumers (carnivores), and higher-order consumers.
 - **Giải thích (VI):** Nhóm sinh vật (chủ yếu là động vật) sử dụng nguồn năng lượng có sẵn trong các chất hữu cơ từ những sinh vật khác cho các hoạt động sống. Trong chuỗi thức ăn, chúng tham gia vào các mắt xích nối tiếp nhau như sinh vật tiêu thụ bậc 1 (động vật ăn thực vật), sinh vật tiêu thụ bậc 2 (động vật ăn thịt) và các cấp tiếp theo.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The group of organisms in an ecosystem unable to synthesize their own organic matter that obtain organic nutrients from food, including herbivores, carnivores, and omnivores. / VI: Nhóm sinh vật trong hệ sinh thái không có khả năng tự tổng hợp chất hữu cơ mà phải lấy chất hữu cơ từ nguồn thức ăn có sẵn, bao gồm động vật ăn thực vật, động vật ăn động vật và động vật ăn tạp.
 - **Bối cảnh:**
   - Sinh học lớp 12, Bài 26 (Mục II.4) và Bài 29 (Mục II.1, II.3): Thành phần trong cấu trúc dinh dưỡng của quần xã; lưu ý sinh vật tiêu thụ bậc 1 ứng với bậc dinh dưỡng cấp 2 trong chuỗi thức ăn khởi đầu bằng sinh vật sản xuất.
+  - Khoa học tự nhiên lớp 8, Bài 44 (Mục I.2): Phân nhóm thành phần hữu sinh và xác định các bậc tiêu thụ trong chuỗi, lưới thức ăn.
   - *Lưu ý:* Không nhầm với 'Chủ thể tiêu dùng' (`consumer (economics)`) trong Giáo dục Kinh tế và Pháp luật.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.4), tr. 144; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.1), tr. 156; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.3), tr. 157
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.4), tr. 144; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.1), tr. 156; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.3), tr. 157; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44, tr. 180; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.1), tr. 180; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.2), tr. 180
 
 ### continuous culture medium
 - **Tiếng Việt:** Môi trường nuôi cấy liên tục
@@ -2214,6 +2496,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đặc điểm chung của thế giới sống thể hiện ở sự sinh sôi, biến đổi thích nghi và tiếp diễn liên tục qua hàng tỉ năm, tạo nên sinh giới vô cùng đa dạng nhưng vẫn mang nhiều đặc điểm chung. Quá trình này diễn ra nhờ thông tin di truyền trong DNA được truyền đạt tương đối chính xác qua các tế bào và thế hệ nhưng luôn phát sinh đột biến, để môi trường sống lựa chọn những kiểu hình thích nghi nhất.
 - **Bối cảnh:** Sinh học lớp 10, Bài 3 (Mục II.3): Đặc điểm chung thứ ba của thế giới sống tạo nên sự đa dạng và thống nhất của sinh giới.
 - **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục II.3), tr. 21
+
+### contraception
+- **Tiếng Việt:** Tránh thai (nguyên tắc tránh thai; biện pháp tránh thai)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The deliberate prevention of unintended pregnancy based on three principles: inhibiting egg maturation and ovulation, preventing sperm from meeting the egg, or preventing implantation of a fertilized egg. Common methods include using condoms, taking daily oral contraceptives, and using intrauterine devices.
+- **Giải thích (VI):** Việc chủ động ngăn ngừa mang thai ngoài ý muốn dựa trên ba nguyên tắc: ngăn không cho trứng chín và rụng, ngăn tinh trùng gặp trứng hoặc chống sự làm tổ của trứng đã thụ tinh. Các biện pháp phổ biến gồm sử dụng bao cao su, uống thuốc tránh thai hằng ngày và đặt vòng tránh thai.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 40 (Mục III.2): Nguyên tắc và biện pháp phòng tránh mang thai ngoài ý muốn.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục III.1), tr. 167; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục III.2), tr. 167; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục IV.2), tr. 169
 
 ### contraceptive methods
 - **Tiếng Việt:** Các biện pháp tránh thai
@@ -2289,8 +2579,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** An endocrine structure formed within the ovary from the remaining tissue of an ovarian follicle after ovulation. It secretes estrogen and progesterone to stimulate further development of the uterine lining in preparation for zygote implantation, while exerting negative feedback on the hypothalamus and pituitary gland to reduce GnRH, FSH, and LH secretion.
 - **Giải thích (VI):** Cấu trúc nội tiết hình thành trong buồng trứng từ phần còn lại của nang trứng sau khi trứng rụng. Thể vàng tiết hormone estrogen và progesterone kích thích niêm mạc tử cung tiếp tục phát triển để chuẩn bị đón hợp tử làm tổ, đồng thời gây liên hệ ngược ức chế vùng dưới đồi và tuyến yên giảm tiết GnRH, FSH và LH.
-- **Bối cảnh:** Sinh học lớp 11, Bài 27 (Mục II.2.a, II.3.b) và Bảng giải thích thuật ngữ: Cấu trúc nội tiết tạm thời ở buồng trứng sau khi trứng rụng.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.2.a), tr. 174; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.3.b), tr. 177; SGK Sinh học 11 KNTT, Bảng giải thích thuật ngữ, tr. 187
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A temporary endocrine gland formed from the remaining ovarian follicle after ovulation that secretes progesterone to maintain the uterine lining. If the egg is unfertilized, this structure degenerates about 14 days after ovulation. / VI: Tuyến nội tiết tạm thời phát triển từ phần còn lại của nang trứng sau khi trứng rụng, có vai trò tiết hormone progesterone để duy trì lớp niêm mạc tử cung. Nếu trứng không thụ tinh, cấu trúc này sẽ tiêu giảm sau khoảng 14 ngày kể từ khi trứng rụng.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 27 (Mục II.2.a, II.3.b) và Bảng giải thích thuật ngữ: Cấu trúc nội tiết tạm thời ở buồng trứng sau khi trứng rụng.
+  - Khoa học tự nhiên lớp 8, Bài 40 (Mục III.1): Vai trò nội tiết điều hoà niêm mạc tử cung trong thai kì và chu kì kinh nguyệt.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.2.a), tr. 174; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.3.b), tr. 177; SGK Sinh học 11 KNTT, Bảng giải thích thuật ngữ, tr. 187; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục III.1), tr. 167
 
 ### cortical reaction
 - **Tiếng Việt:** Phản ứng vỏ
@@ -2509,6 +2802,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 4 (Mục II.2.b, II.3, III.2): Nhóm thực vật nhiệt đới và cận nhiệt đới thích nghi với cường độ ánh sáng mạnh, nhiệt độ cao và cho năng suất cao.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B4 (Mục II.2.b), tr. 29; SGK Sinh học 11 KNTT, Chương 01, B4 (Mục II.3), tr. 29; SGK Sinh học 11 KNTT, Chương 01, B4 (Mục III.2), tr. 31
 
+### daily ration
+- **Tiếng Việt:** Khẩu phần ăn
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The total amount of food supplied to the body in a single day. Formulating a daily ration requires meeting nutritional needs appropriate to age and physiological state, balancing nutrient proportions, and providing sufficient energy.
+- **Giải thích (VI):** Tổng lượng thức ăn cung cấp cho cơ thể trong một ngày. Việc xây dựng khẩu phần ăn phải đảm bảo đáp ứng đủ nhu cầu dinh dưỡng theo độ tuổi và trạng thái sinh lí, cân đối thành phần các nhóm chất và cung cấp đủ năng lượng.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 32 (Mục IV): vận dụng bảng nhu cầu dinh dưỡng khuyến nghị để tính toán và lập chế độ ăn hợp lí.
+  - *Lưu ý:* Trong sinh học và dinh dưỡng học, khẩu phần ăn chỉ định mức thức ăn hằng ngày của một cá thể, phân biệt với khẩu phần cấp phát hậu cần trong ngữ cảnh quân sự hoặc cứu trợ.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục IV), tr. 131; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục IV), tr. 131, 132; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục IV), tr. 132
+
 ### day-neutral plant
 - **Tiếng Việt:** Thực vật trung tính
 - **Chuyên ngành gốc:** Sinh học
@@ -2530,8 +2833,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Organisms (primarily bacteria and fungi) capable of converting organic compounds back into inorganic substances returned to the environment, thereby closing the material cycle of the community and ecosystem.
 - **Giải thích (VI):** Nhóm sinh vật (chủ yếu là vi khuẩn và nấm) có khả năng chuyển hoá các hợp chất hữu cơ thành các chất vô cơ trả lại môi trường, qua đó khép kín vòng tuần hoàn vật chất của quần xã và hệ sinh thái.
-- **Bối cảnh:** Sinh học lớp 12, Bài 26 (Mục II.4) và Bài 27 (Mục II.2, III): Một trong ba nhóm chức năng cấu thành cấu trúc dinh dưỡng của quần xã sinh vật.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.4), tr. 144; SGK Sinh học 12 KNTT, Chương 07, B27 (Mục II.2), tr. 150; SGK Sinh học 12 KNTT, Chương 07, B27 (Mục III), tr. 151
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A group of biotic organisms in an ecosystem that break down dead organisms and biological waste into inorganic substances, typically including fungi and most bacteria. / VI: Nhóm sinh vật hữu sinh trong hệ sinh thái có chức năng phân giải xác và chất thải của sinh vật thành các chất vô cơ, tiêu biểu như nấm và hầu hết vi khuẩn.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 26 (Mục II.4) và Bài 27 (Mục II.2, III): Một trong ba nhóm chức năng cấu thành cấu trúc dinh dưỡng của quần xã sinh vật.
+  - Khoa học tự nhiên lớp 8, Bài 44 (Mục I.2): Nhóm sinh vật hữu sinh khép kín vòng tuần hoàn vật chất trong hệ sinh thái.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.4), tr. 144; SGK Sinh học 12 KNTT, Chương 07, B27 (Mục II.2), tr. 150; SGK Sinh học 12 KNTT, Chương 07, B27 (Mục III), tr. 151; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.2), tr. 180; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.2), tr. 181
 
 ### deductive reasoning
 - **Tiếng Việt:** Diễn giải (suy luận diễn giải)
@@ -2558,6 +2864,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bộ phận phân nhánh của tế bào thần kinh (mỗi neuron có từ một đến hàng nghìn sợi nhánh), có chức năng tiếp nhận thông tin kích thích và dẫn truyền về thân neuron. Sự tăng số lượng nhánh nhỏ của sợi nhánh góp phần tăng cường liên hệ thần kinh khi hình thành phản xạ có điều kiện.
 - **Bối cảnh:** Sinh học lớp 11, Bài 17 (Mục II.1, III.4.d): Phân biệt với sợi trục (bộ phận dẫn truyền xung thần kinh đi ra khỏi thân neuron đến tế bào khác).
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B17 (Mục II.1), tr. 102; SGK Sinh học 11 KNTT, Chương 02, B17 (Mục III.4.d), tr. 112
+
+### dental caries
+- **Tiếng Việt:** Sâu răng
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A condition involving bacterial damage to the hard tissues of the teeth, resulting in the formation of small cavities on the tooth surface. As cavities widen and deepen into the tooth structure, they cause pain and impair chewing.
+- **Giải thích (VI):** Tình trạng tổn thương phần mô cứng của răng do vi khuẩn gây ra, dẫn đến hình thành các lỗ nhỏ trên bề mặt răng. Khi lỗ sâu lan rộng và ăn sâu vào cấu trúc răng sẽ gây đau nhức và cản trở hoạt động nhai.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 32 (Mục III.1): tìm hiểu bệnh lí răng miệng phổ biến và biện pháp vệ sinh phòng ngừa.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.2.d), tr. 130; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục III.1), tr. 130; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục III.2), tr. 130
 
 ### dental plaque
 - **Tiếng Việt:** Mảng bám
@@ -2604,6 +2918,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Khoa học tự nhiên lớp 7, Bài 36 (Mục I.1, I.2): Nhận diện các dấu hiệu biến đổi hình thái, phân hoá cơ quan trong vòng đời thực vật, động vật và phân biệt với sinh trưởng.
   - *Lưu ý:* Chỉ quá trình biến đổi tổng hợp trong vòng đời cơ thể sinh vật, phân biệt với phát triển kinh tế - xã hội hoặc phát triển phần mềm.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B19 (Mục I.1), tr. 125; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục II), tr. 126; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục III.2), tr. 128; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.1), tr. 148, 149; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.2), tr. 149
+
+### diabetes mellitus
+- **Tiếng Việt:** Đái tháo đường (tiểu đường; đái đường)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A disorder of blood glucose metabolism primarily caused by insulin deficiency or reduced insulin effectiveness in regulating blood sugar, causing elevated blood glucose to be excreted in urine. Patients commonly exhibit increased eating, drinking, urination, and weight loss, with risks of serious complications such as blindness, nerve damage, and skin necrosis.
+- **Giải thích (VI):** Bệnh rối loạn chuyển hoá glucose trong máu chủ yếu do thiếu hormone insulin hoặc insulin tiết ra bị giảm tác dụng điều hoà đường huyết, dẫn đến glucose trong máu tăng cao và thải ra ngoài qua nước tiểu. Người bệnh thường có triệu chứng ăn nhiều, uống nhiều, đi tiểu nhiều, sụt cân và có thể gặp biến chứng mù loà, tổn thương dây thần kinh, hoại tử da.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 38 (Mục II.1): Bệnh lí nội tiết phổ biến liên quan đến rối loạn điều hoà đường huyết của tuyến tuỵ.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục II.1), tr. 159; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục II.2), tr. 159; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B36 (Mục II), tr. 151
 
 ### diastole
 - **Tiếng Việt:** Tâm trương
@@ -2656,18 +2978,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The process of breaking down food containing structurally complex nutrients into small, simple molecules that the body can absorb, occurring either inside cells (intracellular digestion) or outside cells (extracellular digestion).
 - **Giải thích (VI):** Quá trình biến đổi thức ăn chứa các chất dinh dưỡng có cấu tạo phức tạp thành các phân tử nhỏ, đơn giản mà cơ thể có thể hấp thụ được, diễn ra bên trong tế bào (tiêu hoá nội bào) hoặc bên ngoài tế bào (tiêu hoá ngoại bào).
 - **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: The physiological process occurring within the digestive tract that breaks down complex nutrients in food (such as carbohydrates, proteins, and lipids) into simple substances that the animal body can absorb into the blood. / VI: Quá trình biến đổi các chất dinh dưỡng phức tạp trong thức ăn (như carbohydrate, protein, lipid) thành những chất đơn giản diễn ra trong ống tiêu hoá để cơ thể động vật có thể hấp thụ vào máu.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The process of breaking down complex food into simple nutrients that can be absorbed by the body while eliminating indigestible waste. In humans, this process occurs from the oral cavity to the intestines, taking place primarily in the small intestine. / VI: Quá trình biến đổi thức ăn có kích thước lớn thành các chất dinh dưỡng đơn giản mà cơ thể hấp thụ được, đồng thời loại bỏ chất thải ra ngoài. Ở người, quá trình này diễn ra từ khoang miệng đến ruột và tập trung chủ yếu tại ruột non.
 - **Bối cảnh:**
   - Sinh học lớp 11, Bài 8 (Mục I.2): Giai đoạn thứ hai biến đổi thức ăn phức tạp thành chất đơn giản trong quá trình dinh dưỡng ở động vật.
   - Khoa học tự nhiên lớp 7, Bài 31 (Mục I): giai đoạn trung tâm trong con đường thu nhận, biến đổi và hấp thụ thức ăn ở động vật và người.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.2), tr. 47; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31, tr. 131; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31 (Mục I), tr. 131; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31 (Mục I), tr. 131, 132
+  - Khoa học tự nhiên lớp 8, Bài 32 (Mục II.2): phân tích sự phối hợp giữa biến đổi cơ học và biến đổi hoá học dọc ống tiêu hoá.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.2), tr. 47; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31, tr. 131; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31 (Mục I), tr. 131; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31 (Mục I), tr. 131, 132; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục I), tr. 128; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.1), tr. 129; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.2.a), tr. 129
 
 ### digestive system
 - **Tiếng Việt:** Hệ tiêu hoá (ống tiêu hoá; cơ quan tiêu hoá)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The organ system in animals and humans responsible for processing dietary nutrients through three consecutive stages: ingestion of food, digestion and absorption of simple nutrients into the body, and elimination of unabsorbed waste through the anus.
 - **Giải thích (VI):** Hệ cơ quan ở động vật và người đảm nhận quá trình trao đổi chất dinh dưỡng từ thức ăn qua ba giai đoạn liên tiếp: ăn (thu nhận thức ăn), tiêu hoá và hấp thụ chất dinh dưỡng đơn giản vào cơ thể, và thải các chất cặn bã không hấp thụ qua hậu môn.
-- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 31 (Mục I, IV.2): con đường thu nhận, tiêu hoá thức ăn và các biện pháp vệ sinh an toàn thực phẩm bảo vệ hệ tiêu hoá.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31, tr. 131; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31 (Mục I), tr. 131; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31 (Mục I), tr. 131, 132
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The organ system consisting of the digestive tract (mouth, pharynx, esophagus, stomach, small intestine, large intestine, anus) and digestive glands (salivary glands, pancreas, liver, gallbladder). It breaks down food into absorbable nutrients and eliminates indigestible waste from the body. / VI: Hệ cơ quan gồm ống tiêu hoá (miệng, hầu, thực quản, dạ dày, ruột non, ruột già, hậu môn) và các tuyến tiêu hoá (tuyến nước bọt, tuỵ, gan, mật). Hệ tiêu hoá thực hiện chức năng biến đổi thức ăn thành các chất dinh dưỡng có thể hấp thụ được và thải chất cặn bã ra khỏi cơ thể.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 7, Bài 31 (Mục I, IV.2): con đường thu nhận, tiêu hoá thức ăn và các biện pháp vệ sinh an toàn thực phẩm bảo vệ hệ tiêu hoá.
+  - Khoa học tự nhiên lớp 8, Bài 32 (Mục II.1): xác định cấu tạo và đường đi của thức ăn qua các cơ quan trong hệ tiêu hoá.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31, tr. 131; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31 (Mục I), tr. 131; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31 (Mục I), tr. 131, 132; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục I), tr. 128; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.1), tr. 129; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.2.a), tr. 129
 
 ### digestive vacuole
 - **Tiếng Việt:** Không bào tiêu hoá
@@ -2809,8 +3136,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A species that has the largest number of individuals or the highest biomass within an ecological community. Such species exert a major influence on community structure by providing food and habitat or modifying ecological factors through their life activities.
 - **Giải thích (VI):** Loài có số lượng cá thể lớn nhất hoặc sinh khối cao nhất trong quần xã. Loài này có ảnh hưởng lớn đến cấu trúc quần xã thông qua việc cung cấp thức ăn, nơi ở hoặc làm thay đổi các nhân tố sinh thái qua hoạt động sống.
-- **Bối cảnh:** Sinh học lớp 12, Bài 26 (Mục II.1): Đặc trưng thành phần loài của quần xã; ví dụ các loài cây thân gỗ lớn trong rừng mưa nhiệt đới hoặc các loài cỏ trên đồng cỏ.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.1), tr. 142; SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.1), tr. 143
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A species in a biological community that has high abundance, strong ecological activity, and an important role influencing other species in the community. / VI: Loài sinh vật có số lượng cá thể nhiều, hoạt động mạnh và đóng vai trò quan trọng chi phối các loài khác trong quần xã.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 26 (Mục II.1): Đặc trưng thành phần loài của quần xã; ví dụ các loài cây thân gỗ lớn trong rừng mưa nhiệt đới hoặc các loài cỏ trên đồng cỏ.
+  - Khoa học tự nhiên lớp 8, Bài 43 (Mục II): Đặc trưng thành phần loài của quần xã sinh vật; phân biệt với loài đặc trưng.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.1), tr. 142; SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.1), tr. 143; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B43 (Mục II), tr. 178; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B43 (Mục II), tr. 178, 179; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B43 (Mục II), tr. 179
 
 ### double circulatory system
 - **Tiếng Việt:** Hệ tuần hoàn kép
@@ -2868,6 +3198,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 2 (Mục III.4.b): Vị trí cuối cùng trong lộ trình A → P → E của tRNA trên ribosome khi kéo dài chuỗi polypeptide.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.b), tr. 15
 
+### ear
+- **Tiếng Việt:** Tai
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The sound-receiving organ of the auditory system composed of three parts: the outer ear (pinna and ear canal), the middle ear (eardrum, auditory ossicles, and Eustachian tube connecting to the oral cavity), and the inner ear (cochlea containing sound receptors connected to the auditory nerve leading to the brain).
+- **Giải thích (VI):** Cơ quan thu nhận âm thanh gồm ba phần: tai ngoài (vành tai và ống tai), tai giữa (màng nhĩ, chuỗi xương tai và vòi tai thông với khoang miệng) và tai trong (ốc tai chứa cơ quan thụ cảm âm thanh nối với dây thần kinh thính giác đi về não).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 37 (Mục II.2a): Cấu tạo giải phẫu ba phần của tai phục vụ dẫn truyền sóng âm và cân bằng áp suất.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.c), tr. 155; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.2.a), tr. 155; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.2.a), tr. 155, 156
+
 ### early childbearing
 - **Tiếng Việt:** Đẻ sớm
 - **Chuyên ngành gốc:** Sinh học
@@ -2886,13 +3224,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 22 (Mục III.1.b): Hormone điều hoà lột xác và biến thái ở động vật không xương sống, phối hợp tác động với hormone juvenile.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B22 (Mục III.1.b), tr. 149
 
+### ecological balance
+- **Tiếng Việt:** Cân bằng tự nhiên
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The natural state of stability across supra-organismal levels of biological organization aimed at optimal adaptation to living conditions, manifested through population equilibrium, biological control in communities, and ecosystem balance.
+- **Giải thích (VI):** Trạng thái ổn định tự nhiên của các cấp độ tổ chức sống trên cơ thể nhằm hướng tới sự thích nghi cao nhất với điều kiện sống, biểu hiện ở trạng thái cân bằng của quần thể, khống chế sinh học trong quần xã và cân bằng tự nhiên trong hệ sinh thái.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 46 (Mục I): Khái niệm chung về trạng thái ổn định động ở các cấp độ quần thể, quần xã và hệ sinh thái.
+  - *Lưu ý:* Khái niệm bao quát trạng thái ổn định tự nhiên ở mọi cấp độ tổ chức sống trên cơ thể, phân biệt với biểu hiện cụ thể ở cấp hệ sinh thái (ecosystem balance).
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46, tr. 188; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I), tr. 188
+
 ### ecological community
 - **Tiếng Việt:** Quần xã sinh vật
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** An assemblage of populations of different species living together in a defined space and time, bound as a unified whole through trophic and habitat relationships. A community functions as a self-regulating open system through continuous matter exchange and energy transformation, progressing toward a balanced and relatively stable state over time.
 - **Giải thích (VI):** Tập hợp các quần thể của nhiều loài khác nhau cùng sống trong một không gian và thời gian nhất định, gắn bó với nhau như một thể thống nhất qua mối quan hệ dinh dưỡng và nơi ở. Quần xã là một hệ mở có khả năng tự điều chỉnh thông qua sự trao đổi vật chất và chuyển hoá năng lượng, tiến tới trạng thái cân bằng và tương đối ổn định theo thời gian.
-- **Bối cảnh:** Sinh học lớp 12, Bài 26 (Mục I): Khái niệm nền tảng mở đầu chương sinh thái học quần xã, phân biệt với cấp độ quần thể (cùng loài) và hệ sinh thái (gồm cả quần xã và sinh cảnh).
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục I), tr. 141; SGK Sinh học 12 KNTT, Chương 07, B26 (Mục I), tr. 141, 142
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: An assemblage of populations belonging to different species living together within a defined space and time. Because the organisms within it are closely interconnected as an integrated whole, the assemblage maintains a relatively stable structure. / VI: Tập hợp các quần thể sinh vật thuộc nhiều loài khác nhau cùng sinh sống trong một khoảng không gian và thời gian nhất định. Các sinh vật trong tập hợp này gắn bó mật thiết với nhau như một thể thống nhất nên tạo thành cấu trúc tương đối ổn định.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 26 (Mục I): Khái niệm nền tảng mở đầu chương sinh thái học quần xã, phân biệt với cấp độ quần thể (cùng loài) và hệ sinh thái (gồm cả quần xã và sinh cảnh).
+  - Khoa học tự nhiên lớp 8, Bài 43 (Mục I): Cấp độ tổ chức sống cao hơn quần thể sinh vật và cấu thành phần hữu sinh của hệ sinh thái.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục I), tr. 141; SGK Sinh học 12 KNTT, Chương 07, B26 (Mục I), tr. 141, 142; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B43, tr. 177; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B43 (Mục I), tr. 177; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B43 (Mục II), tr. 178
 
 ### ecological efficiency
 - **Tiếng Việt:** Hiệu suất sinh thái
@@ -2907,8 +3258,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Any environmental factor that directly or indirectly affects the life of organisms, categorized into abiotic and biotic factors. These factors act according to specific ecological laws and serve as agents of natural selection shaping morphological, physiological, and behavioral adaptations in organisms.
 - **Giải thích (VI):** Nhân tố của môi trường có tác động trực tiếp hoặc gián tiếp đến đời sống của sinh vật, bao gồm nhóm nhân tố vô sinh và nhóm nhân tố hữu sinh. Các nhân tố này tác động tuân theo những quy luật sinh thái xác định và đóng vai trò là tác nhân chọn lọc tự nhiên hình thành các đặc điểm thích nghi về hình thái, sinh lí và tập tính ở sinh vật.
-- **Bối cảnh:** Sinh học lớp 12, Bài 23 (Mục II): Phân loại và vai trò của các yếu tố môi trường tác động lên đời sống sinh vật.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B23 (Mục II.1), tr. 123; SGK Sinh học 12 KNTT, Chương 06, B23 (Mục II.2), tr. 123; SGK Sinh học 12 KNTT, Chương 06, B23 (Mục III), tr. 125
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: An environmental element that directly or indirectly affects the survival and development of organisms, classified into two main groups: abiotic factors and biotic factors. / VI: Yếu tố của môi trường tác động trực tiếp hoặc gián tiếp đến sự tồn tại và phát triển của sinh vật, phân thành hai nhóm chính là nhân tố sinh thái vô sinh và nhân tố sinh thái hữu sinh.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 23 (Mục II): Phân loại và vai trò của các yếu tố môi trường tác động lên đời sống sinh vật.
+  - Khoa học tự nhiên lớp 8, Bài 41 (Mục II.1): Khái niệm và phân nhóm các yếu tố môi trường tác động lên đời sống sinh vật.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B23 (Mục II.1), tr. 123; SGK Sinh học 12 KNTT, Chương 06, B23 (Mục II.2), tr. 123; SGK Sinh học 12 KNTT, Chương 06, B23 (Mục III), tr. 125; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục I.2), tr. 171; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục II.1), tr. 171; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục III), tr. 172
 
 ### ecological niche
 - **Tiếng Việt:** Ổ sinh thái
@@ -2923,8 +3277,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A diagram of stacked horizontal bars (with the first trophic level at the base) representing the total number of individuals, biomass, or energy of all organisms at each trophic level. Ecological pyramids include pyramids of numbers, pyramids of biomass, and pyramids of energy, among which energy pyramids always have a standard upright shape with a broad base.
 - **Giải thích (VI):** Biểu đồ gồm các hình chữ nhật xếp chồng lên nhau (với đáy tháp là bậc dinh dưỡng cấp 1) thể hiện độ lớn về số lượng, sinh khối hoặc năng lượng của tất cả sinh vật ở mỗi bậc dinh dưỡng. Tháp sinh thái gồm ba loại là tháp số lượng, tháp sinh khối và tháp năng lượng, trong đó tháp năng lượng luôn có dạng chuẩn đáy rộng đỉnh hẹp.
-- **Bối cảnh:** Sinh học lớp 12, Bài 29 (Mục III.3.b): Công cụ mô tả định lượng mối quan hệ dinh dưỡng và hiệu quả truyền vật chất, năng lượng giữa các bậc dinh dưỡng trong hệ sinh thái.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3.b), tr. 159; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3), tr. 160
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A pyramidal model used to assess trophic levels in the food chains and food webs of a biological community, comprising three types: pyramid of numbers, pyramid of biomass, and pyramid of energy. / VI: Mô hình hình tháp dùng để đánh giá mức độ dinh dưỡng trong chuỗi và lưới thức ăn của quần xã sinh vật, gồm ba loại là tháp số lượng, tháp sinh khối và tháp năng lượng.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 29 (Mục III.3.b): Công cụ mô tả định lượng mối quan hệ dinh dưỡng và hiệu quả truyền vật chất, năng lượng giữa các bậc dinh dưỡng trong hệ sinh thái.
+  - Khoa học tự nhiên lớp 8, Bài 44 (Mục II.1c): Đánh giá mức độ dinh dưỡng giữa các bậc mắt xích trong chuỗi và lưới thức ăn.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3.b), tr. 159; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3), tr. 160; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1), tr. 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1.c), tr. 182
 
 ### ecological succession
 - **Tiếng Việt:** Diễn thế sinh thái
@@ -2939,8 +3296,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The specific range of values of an ecological factor within which an organism can survive and develop stably over time, encompassing an optimum range and zones of physiological stress bounded by lethal limits. The breadth of a species' tolerance ranges across environmental factors determines how widely or narrowly it is distributed.
 - **Giải thích (VI):** Khoảng giá trị xác định của một nhân tố sinh thái mà trong đó sinh vật có thể tồn tại và phát triển ổn định theo thời gian, bao gồm khoảng thuận lợi và các khoảng ức chế nằm giữa hai điểm gây chết. Độ rộng giới hạn sinh thái đối với các nhân tố môi trường quyết định phạm vi phân bố rộng hay hẹp của mỗi loài.
-- **Bối cảnh:** Sinh học lớp 12, Bài 23 (Mục III.1): Quy luật giới hạn sinh thái mô tả khả năng chịu đựng và vùng phân bố của loài đối với từng nhân tố môi trường.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B23 (Mục III.1), tr. 125; SGK Sinh học 12 KNTT, Chương 06, B23 (Mục IV), tr. 127
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The defined interval of values of an ecological factor, bounded by lower and upper limits, within which an organism can survive and develop stably over time. Beyond this tolerance interval at the lethal limits, the organism cannot survive. / VI: Khoảng giá trị xác định của một nhân tố sinh thái (từ giới hạn dưới đến giới hạn trên) mà trong đó sinh vật có thể tồn tại và phát triển ổn định theo thời gian. Vượt ra ngoài khoảng chịu đựng này tới các điểm gây chết, sinh vật không thể tồn tại.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 23 (Mục III.1): Quy luật giới hạn sinh thái mô tả khả năng chịu đựng và vùng phân bố của loài đối với từng nhân tố môi trường.
+  - Khoa học tự nhiên lớp 8, Bài 41 (Mục III): Cơ sở sinh thái học xác định vùng phân bố, thời vụ nuôi trồng của các loài sinh vật.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B23 (Mục III.1), tr. 125; SGK Sinh học 12 KNTT, Chương 06, B23 (Mục IV), tr. 127; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục II.2.a), tr. 172; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục II.2.b), tr. 172; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục III), tr. 172
 
 ### ecosystem
 - **Tiếng Việt:** Hệ sinh thái
@@ -2949,11 +3309,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cấp độ tổ chức sống cơ bản tạo nên từ sự tương tác giữa các quần xã sinh vật với nhau và với môi trường sống của chúng.
 - **Giải thích khác (SGK Sinh học 12):** EN: A level of biological organization comprising an ecological community and its abiotic habitat (biotope), whose structural components interact as a unified and relatively stable whole. An ecosystem operates as a self-regulating open system in dynamic equilibrium through material cycling and energy flow. / VI: Cấp độ tổ chức sống bao gồm quần xã sinh vật và sinh cảnh, trong đó các thành phần cấu trúc tác động qua lại và gắn bó với nhau như một thể thống nhất tương đối ổn định. Hệ sinh thái là một hệ thống mở có khả năng tự điều chỉnh ở trạng thái cân bằng động thông qua vòng tuần hoàn vật chất và dòng năng lượng.
 - **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A complete and relatively stable biological system comprising biological communities together with their living environment. / VI: Hệ thống sinh học hoàn chỉnh và tương đối ổn định bao gồm các quần xã sinh vật cùng môi trường sống của chúng.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: An integrated system comprising a biological community and its abiotic living environment, in which organisms continuously interact with one another and with abiotic factors to form biological cycles. / VI: Hệ thống hoàn chỉnh bao gồm quần xã sinh vật và môi trường sống vô sinh của chúng, trong đó các sinh vật luôn tác động lẫn nhau và tác động qua lại với các nhân tố vô sinh tạo thành chu trình sinh học.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 3 (Mục I.1, I.2): Cấp độ tổ chức sống cơ bản trên cấp quần xã.
   - Sinh học lớp 12, Bài 28 (Mục I.1): Khái niệm trung tâm của sinh thái học hệ sinh thái, có kích thước đa dạng từ rất nhỏ (vườn hoa, ao hồ) đến lớn nhất là sinh quyển.
   - Khoa học tự nhiên lớp 6, Bài 36 (Mục III.1) và Bài 38 (Mục I): tìm hiểu mối quan hệ giữa các loài sinh vật và môi trường trong hệ sinh thái trên cạn và dưới nước.
-- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.1), tr. 18; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.2), tr. 18, 19; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục I.1), tr. 152; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 154; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129, 130; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194
+  - Khoa học tự nhiên lớp 8, Bài 44 (Mục I.1): Cấp độ tổ chức sống bao hàm cả quần xã sinh vật và sinh cảnh vô sinh.
+  - Lịch sử và Địa lí lớp 8, Bài 1 (Mục 3) và Bài 2 (Mục 3.a, 3.b): phân tích sự phân hoá các hệ sinh thái rừng theo đai cao và các hệ sinh thái biển, ven biển ở Việt Nam.
+- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.1), tr. 18; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.2), tr. 18, 19; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục I.1), tr. 152; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 154; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129, 130; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44, tr. 180; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.1), tr. 180; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.2), tr. 180; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 173; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B1 (Mục 3), tr. 95; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3.a), tr. 105
+
+### ecosystem balance
+- **Tiếng Việt:** Cân bằng tự nhiên trong hệ sinh thái
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The natural state of stability within an ecosystem, manifested through the distribution of populations suited to living conditions, trophic relationships among species in the community, and periodic daily or seasonal changes that maintain balance with the environment.
+- **Giải thích (VI):** Trạng thái ổn định tự nhiên của hệ sinh thái, thể hiện ở sự phân bố các quần thể phù hợp với điều kiện sống, mối quan hệ dinh dưỡng giữa các loài trong quần xã và sự biến đổi theo chu kì ngày đêm hoặc chu kì mùa nhằm đảm bảo cân bằng với môi trường.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 46 (Mục I.3): Biểu hiện của cân bằng tự nhiên ở cấp hệ sinh thái qua sự phân tầng và quan hệ dinh dưỡng.
+  - *Lưu ý:* Biểu hiện cụ thể của cân bằng tự nhiên (ecological balance) xét riêng ở cấp độ hệ sinh thái.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.3), tr. 189; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.3), tr. 189, 190
 
 ### ectopic pregnancy
 - **Tiếng Việt:** Chửa ngoài dạ con (mang thai ngoài tử cung)
@@ -3077,6 +3450,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 33 (Mục I.2): Bảo tồn đa dạng sinh vật và xác định các đối tượng sinh vật được ưu tiên bảo vệ.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 08, B33 (Mục I.2), tr. 176; SGK Sinh học 12 KNTT, Bảng giải thích thuật ngữ, tr. 194
 
+### endocrine gland
+- **Tiếng Việt:** Tuyến nội tiết
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An organ that secretes hormones transported through the bloodstream to target organs to regulate organ functions and maintain internal stability. Abnormal activity of an endocrine gland affects growth and development and can cause diseases in the body.
+- **Giải thích (VI):** Cơ quan tiết ra hormone vận chuyển theo đường máu đến cơ quan đích giúp điều khiển, điều hoà hoạt động của các cơ quan và duy trì sự ổn định môi trường trong cơ thể. Khi tuyến nội tiết hoạt động không bình thường sẽ ảnh hưởng đến quá trình sinh trưởng, phát triển và có thể gây bệnh cho cơ thể.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 38 (Mục I): Đặc điểm chức năng của các tuyến tiết hormone trong hệ nội tiết ở người.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38, tr. 157; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I), tr. 157; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.1), tr. 158
+
 ### endocrine signaling
 - **Tiếng Việt:** Truyền tin nội tiết
 - **Chuyên ngành gốc:** Sinh học
@@ -3084,6 +3465,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phương thức truyền tin khoảng cách xa trong cơ thể đa bào, trong đó các phân tử tín hiệu là hormone được tiết vào máu để truyền tới các tế bào đích ở xa.
 - **Bối cảnh:** Sinh học lớp 10, Bài 12 (Mục I): Một trong bốn phương thức truyền tin chủ yếu giữa các tế bào trong cơ thể đa bào (Hình 12.1c).
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 03, B12 (Mục I), tr. 73; SGK Sinh học 10 KNTT, Chương 03, B12 (Mục I), tr. 74
+
+### endocrine system
+- **Tiếng Việt:** Hệ nội tiết
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The system of endocrine glands in the human body (such as the pituitary, thyroid, pancreas, adrenal glands, and gonads) that secrete hormones transported via the bloodstream to target organs to control and regulate organ activities and maintain internal homeostasis.
+- **Giải thích (VI):** Hệ thống các tuyến nội tiết trong cơ thể người (như tuyến yên, tuyến giáp, tuyến tuỵ, tuyến trên thận và tuyến sinh dục) tiết ra hormone vận chuyển theo đường máu đến cơ quan đích giúp điều khiển, điều hoà hoạt động của các cơ quan và duy trì sự ổn định của môi trường trong cơ thể.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 38 (Mục I): Cơ chế điều hoà thể dịch bằng hormone thông qua hệ thống các tuyến nội tiết ở người.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38, tr. 157; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I), tr. 157; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục II.2), tr. 159
 
 ### endomembrane system
 - **Tiếng Việt:** Hệ thống nội màng
@@ -3140,6 +3529,20 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Độc tố sinh ra khi một số phân tử lipopolysaccharide thuộc lớp màng ngoài của vi khuẩn Gram âm bị phân huỷ lúc tế bào vi khuẩn chết, có thể gây nguy hiểm đến tính mạng con người.
 - **Bối cảnh:** Sinh học lớp 10, Bài 7 (Mục II.2): Đặc điểm gây độc của màng ngoài ở vi khuẩn Gram âm.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.2), tr. 46
+
+### environmental pollution
+- **Tiếng Việt:** Ô nhiễm môi trường
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The alteration of the physical, chemical, or biological properties of environmental components in violation of technical environmental regulations and standards, causing adverse effects on human health, living organisms, and nature.
+- **Giải thích (VI):** Sự biến đổi tính chất vật lí, hoá học, sinh học của thành phần môi trường không phù hợp với quy chuẩn kĩ thuật môi trường và tiêu chuẩn môi trường, gây ảnh hưởng xấu đến sức khoẻ con người, sinh vật và tự nhiên.
+- **Giải thích khác (SGK Địa lí 12):** EN: The adverse alteration of living-environment quality caused by waste accumulation across air, water, and soil media. In Vietnam, pollution is increasingly acute in the air (particularly fine particulate matter in major cities and industrial zones) and in water bodies (across certain river sections, groundwater, and marine waters). / VI: Tình trạng biến đổi bất lợi chất lượng không gian sống do tác động của các chất thải đối với môi trường không khí, nước và đất. Tại Việt Nam, mức độ ô nhiễm ngày càng gia tăng ở một số khu vực, đáng chú ý nhất là ô nhiễm không khí (đặc biệt là bụi mịn tại các thành phố lớn, khu công nghiệp) và ô nhiễm nước (ở một số đoạn sông, nước ngầm, nước biển).
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: An adverse alteration in the properties of the natural environment (air, water, and soil) that violates environmental standards, typically resulting from the release of dust, emissions, liquid effluents, and solid waste. / VI: Sự biến đổi tính chất của môi trường tự nhiên (khí quyển, nước, đất) theo hướng xấu đi và vi phạm các tiêu chuẩn môi trường, thường phát sinh khi bụi, khí thải, chất thải lỏng và chất thải rắn bị xả vào tự nhiên.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 47 (Mục II.1): Sự suy giảm chất lượng môi trường sống do chất thải, hoá chất bảo vệ thực vật, chất phóng xạ và vi sinh vật gây bệnh.
+  - Địa lí lớp 10, Bài 39 (Mục 1.b, Em có biết?): Giải thích khái niệm ô nhiễm môi trường dựa trên sự biến đổi tính chất thành phần môi trường không phù hợp quy chuẩn.
+  - Địa lí lớp 12, Bài 5 (Mục II.1): Phân tích hiện trạng và nguyên nhân ô nhiễm không khí, nước và đất ở Việt Nam.
+  - Lịch sử và Địa lí lớp 6, Bài 28 (Mục 2): Phân tích tác động tiêu cực của sản xuất và sinh hoạt con người làm suy giảm chất lượng môi trường sống.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục II.1), tr. 192; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục II.2.a), tr. 192; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.b), tr. 109; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 2.a), tr. 109; SGK Địa lí 12 KNTT, Phần 1, B5, tr. 28; SGK Địa lí 12 KNTT, Phần 1, B5 (Mục I.2), tr. 30; SGK Địa lí 12 KNTT, Phần 1, B5 (Mục I.3), tr. 30; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 2), tr. 186
 
 ### enzyme
 - **Tiếng Việt:** Enzyme
@@ -3199,6 +3602,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hiện tượng kiểu hình mới xuất hiện do sự thay đổi biểu hiện của gene (như gắn thêm nhóm methyl CH₃ vào vị trí cytosine) có thể truyền lại cho thế hệ sau mà trình tự nucleotide trong gene không bị thay đổi.
 - **Bối cảnh:** Sinh học lớp 12, Bài 3 (Mục II.2): Tác động của chế độ ăn giàu nhóm methyl lên sự biểu hiện gene qua các thế hệ (mục Em có biết).
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B3 (Mục II.2), tr. 22
+
+### epilepsy
+- **Tiếng Việt:** Bệnh động kinh
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A disorder of the central nervous system arising from genetic factors, trauma, or brain diseases, commonly manifesting as seizures, abnormal behaviors, and occasional loss of consciousness.
+- **Giải thích (VI):** Bệnh lí do rối loạn hệ thần kinh trung ương có thể xuất phát từ yếu tố di truyền, chấn thương hoặc các bệnh về não, biểu hiện phổ biến bằng co giật, hành vi bất thường và đôi lúc mất ý thức.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 37 (Mục I.2a): Nhận biết nguyên nhân, triệu chứng co giật do rối loạn thần kinh trung ương và cách phòng bệnh.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục I.2.a), tr. 153; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục I.2.b), tr. 153; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II), tr. 153
 
 ### epistasis
 - **Tiếng Việt:** Tương tác át chế
@@ -3295,6 +3706,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 20 (Mục III.2) và Bài 21 (Mục IV, IV.1): Phân loại vi sinh vật theo cấu tạo tế bào, đối lập với vi sinh vật nhân sơ.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 06, B20 (Mục III.2), tr. 121; SGK Sinh học 10 KNTT, Chương 06, B21 (Mục IV), tr. 128; SGK Sinh học 10 KNTT, Chương 06, B21 (Mục IV.1), tr. 128
 
+### Eustachian tube
+- **Tiếng Việt:** Vòi tai
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An anatomical canal connecting the middle ear to the nasopharynx that regulates and equalizes air pressure on both sides of the eardrum. When sudden external pressure changes cause ear popping, swallowing or yawning widens the tube to restore pressure balance.
+- **Giải thích (VI):** Ống nối tai giữa với vòm mũi và họng, có chức năng điều hoà và cân bằng áp suất không khí ở hai bên màng nhĩ. Khi áp suất môi trường thay đổi đột ngột gây ù tai, cử động nuốt hoặc ngáp làm vòi tai mở rộng để khôi phục sự cân bằng áp suất.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 16 (Mục II.2.a): Giải thích hiện tượng ù tai và tiếng động trong tai khi máy bay cất cánh, hạ cánh hoặc khi leo núi cao.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.1.b), tr. 70; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2), tr. 70; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2.a), tr. 70
+
 ### eutrophication
 - **Tiếng Việt:** Hiện tượng phú dưỡng (Phì dưỡng; phú dưỡng)
 - **Chuyên ngành gốc:** Sinh học
@@ -3331,6 +3750,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 11, Bài 13 (Mục I): Khái niệm và vai trò của quá trình đào thải sản phẩm chuyển hoá trong việc duy trì cân bằng nội môi.
   - *Lưu ý:* Chỉ sự đào thải các sản phẩm chuyển hoá dư thừa hoặc độc hại ra khỏi cơ thể; phân biệt với sự tiết (secretion) các chất hữu ích như hormone, enzyme.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B13 (Mục I), tr. 80
+
+### excretory system
+- **Tiếng Việt:** Hệ bài tiết
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The set of organs that filter and eliminate cellular metabolic waste products and potentially toxic substances from the body into the external environment. The main excretory organs include the lungs, skin, and kidneys, with the kidneys excreting up to 90% of waste products.
+- **Giải thích (VI):** Tập hợp các cơ quan có chức năng lọc và thải ra môi trường ngoài các chất cặn bã sinh ra từ quá trình trao đổi chất của tế bào cùng các chất có thể gây độc cho cơ thể. Các cơ quan tham gia bài tiết chủ yếu gồm phổi, da và thận, trong đó thận thải tới 90% sản phẩm bài tiết.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 35 (Mục I.1): Khái quát chức năng bài tiết chung của cơ thể thông qua phổi, da và thận.
+  - *Lưu ý:* Phân biệt với hệ bài tiết nước tiểu (chỉ bao gồm thận, ống dẫn nước tiểu, bóng đái và ống đái chuyên trách lọc máu tạo và thải nước tiểu).
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35, tr. 146; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục I.1), tr. 146; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục I.2), tr. 146
 
 ### exocytosis
 - **Tiếng Việt:** Xuất bào
@@ -3467,6 +3896,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 13 (Mục II.4, Hình 13.7): Cơ chế tự điều chỉnh tốc độ chuyển hoá vật chất và năng lượng thông qua ức chế enzyme đầu chuỗi của tế bào.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 04, B13 (Mục II.4), tr. 83
 
+### female reproductive organs
+- **Tiếng Việt:** Cơ quan sinh dục nữ
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The set of reproductive structures in females comprising two ovaries in the abdominal cavity, oviducts, uterus, and vagina, along with accessory glands such as the vestibular glands. The ovaries produce eggs, the oviducts serve as the site of fertilization, the uterus nourishes the developing fetus, and the vagina receives sperm and forms the birth canal.
+- **Giải thích (VI):** Tập hợp các bộ phận sinh sản ở nữ giới bao gồm hai buồng trứng nằm trong khoang bụng, ống dẫn trứng, tử cung, âm đạo và tuyến sinh dục phụ như tuyến tiền đình. Buồng trứng sản sinh trứng, ống dẫn trứng là nơi diễn ra sự thụ tinh, tử cung nuôi dưỡng thai nhi phát triển, còn âm đạo tiếp nhận tinh trùng và là đường ra của trẻ khi sinh.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 40 (Mục I.2): Cấu tạo và chức năng từng bộ phận trong hệ sinh dục nữ ở người.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục I.2), tr. 166; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục II.1), tr. 166; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục II.2), tr. 166
+
 ### fermentation
 - **Tiếng Việt:** Lên men
 - **Chuyên ngành gốc:** Sinh học
@@ -3489,17 +3926,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục I), tr. 115; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II), tr. 117; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 118
 
 ### fertilization
-- **Tiếng Việt:** Thụ tinh
+- **Tiếng Việt:** Thụ tinh (Sự thụ tinh)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The process in which a male gamete (n) and a female gamete (n) fuse to form a diploid zygote (2n), thereby restoring the species-specific 2n chromosome set. Together with meiosis and mitosis, fertilization forms the basis of sexual reproduction, maintaining chromosome stability and generating genetic variation across generations.
 - **Giải thích (VI):** Quá trình kết hợp giữa giao tử đực (n) và giao tử cái (n) tạo thành hợp tử lưỡng bội (2n), qua đó khôi phục bộ nhiễm sắc thể 2n đặc trưng của loài. Cùng với giảm phân và nguyên phân, thụ tinh là cơ chế nền tảng của sinh sản hữu tính giúp duy trì ổn định bộ nhiễm sắc thể và tạo biến dị tổ hợp qua các thế hệ.
 - **Giải thích khác (SGK Sinh học 11):** EN: The fusion of a haploid (n) male gamete and a haploid (n) female gamete to form a diploid (2n) zygote carrying half its chromosomes from the male parent and half from the female parent. In angiosperms, fertilization occurs within the embryo sac as double fertilization via a pollen tube delivering sperm cells to the ovule; in animals, a sperm fuses with an egg through external or internal fertilization (occurring in the outer third of the oviduct in humans). / VI: Quá trình kết hợp giữa giao tử đực đơn bội (n) và giao tử cái đơn bội (n) tạo thành hợp tử lưỡng bội (2n) mang một nửa số lượng nhiễm sắc thể từ bố và một nửa từ mẹ. Ở thực vật hạt kín, thụ tinh diễn ra trong túi phôi dưới dạng thụ tinh kép nhờ ống phấn dẫn tinh tử tới noãn; ở động vật, tinh trùng kết hợp với trứng qua thụ tinh ngoài hoặc thụ tinh trong (ở người diễn ra tại 1/3 ống dẫn trứng tính từ loa vòi trứng).
 - **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: The process in which a male gamete fuses with a female gamete to form a zygote, essentially consisting of the fusion of their nuclei. In animals, this process occurs through either external fertilization or internal fertilization. / VI: Quá trình kết hợp giữa giao tử đực và giao tử cái tạo thành hợp tử, bản chất là sự hợp nhất nhân của hai giao tử này. Ở động vật, quá trình này diễn ra theo hình thức thụ tinh ngoài hoặc thụ tinh trong.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The process in which a single sperm fuses with an egg to form a zygote. In humans, this process takes place in the oviduct before the zygote divides into an embryo and travels toward the uterus. / VI: Quá trình một tinh trùng kết hợp với một trứng tạo thành hợp tử. Ở người, quá trình này diễn ra tại ống dẫn trứng trước khi hợp tử phân chia tạo thành phôi và di chuyển về tử cung.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 17 (Mục III): Cơ chế phối hợp với giảm phân và nguyên phân duy trì bộ nhiễm sắc thể 2n của loài sinh sản hữu tính.
   - Sinh học lớp 11, Bài 25 (Mục II.2.b) và Bài 27 (Mục II.2.b): Giai đoạn trọng tâm của sinh sản hữu tính khôi phục bộ nhiễm sắc thể lưỡng bội ở thực vật và động vật.
   - Khoa học tự nhiên lớp 7, Bài 40 (Mục II.2, III): Giai đoạn cốt lõi của sinh sản hữu tính ở thực vật có hoa và động vật, phân biệt với quá trình thụ phấn.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B17 (Mục I.3), tr. 105; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục III), tr. 106; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục III), tr. 107; SGK Sinh học 11 KNTT, Chương 04, B25 (Mục II.2.b), tr. 164; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.2.b), tr. 174; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục III.4), tr. 180; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B40 (Mục II.2), tr. 165; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B40 (Mục II.2), tr. 166; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B40 (Mục III), tr. 166
+  - Khoa học tự nhiên lớp 8, Bài 40 (Mục II.1): Giai đoạn mở đầu tạo hợp tử ở người; phân biệt với sự thụ thai.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B17 (Mục I.3), tr. 105; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục III), tr. 106; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục III), tr. 107; SGK Sinh học 11 KNTT, Chương 04, B25 (Mục II.2.b), tr. 164; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.2.b), tr. 174; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục III.4), tr. 180; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B40 (Mục II.2), tr. 165; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B40 (Mục II.2), tr. 166; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B40 (Mục III), tr. 166; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục I.2), tr. 166; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục II.1), tr. 166; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục II.2), tr. 166
 
 ### fetal stage
 - **Tiếng Việt:** Giai đoạn thai
@@ -3516,6 +3955,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tình trạng thân nhiệt tăng lên và duy trì cao hơn mức bình thường khi chất gây sốt do đại thực bào tiết ra kích thích trung khu điều hoà thân nhiệt ở vùng dưới đồi làm cơ thể tăng sinh nhiệt. Đáp ứng này giúp ức chế vi khuẩn, virus tăng sinh, làm gan tăng nhận sắt từ máu và tăng cường thực bào của bạch cầu, nhưng sốt cao trên 39 °C có thể gây co giật, hôn mê hoặc tử vong.
 - **Bối cảnh:** Sinh học lớp 11, Bài 12 (Mục III.2): Đáp ứng bảo vệ toàn thân trong miễn dịch không đặc hiệu và giới hạn nguy hiểm khi sốt cao.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B12 (Mục III.2), tr. 74; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục III.2), tr. 75
+
+### fibroblast
+- **Tiếng Việt:** Nguyên bào sợi
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An oval-shaped cell found in connective tissue capable of dividing and differentiating into fibrocytes as well as synthesizing collagen to form collagen fibers. This cell plays a vital role in skin regeneration and wound healing.
+- **Giải thích (VI):** Loại tế bào dạng bầu dục nằm trong mô liên kết, có khả năng phân chia và phân hoá tạo ra các tế bào sợi cũng như tổng hợp collagen tạo nên sợi collagen. Tế bào này đóng vai trò quan trọng trong quá trình tái tạo da và làm lành các tổn thương da.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 39 (Mục II.3.b): Công nghệ nhân nuôi và cấy tế bào phục vụ tái tạo da, điều trị bỏng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục II.3.b), tr. 164
 
 ### filter feeding
 - **Tiếng Việt:** Ăn lọc
@@ -3605,18 +4052,31 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A linear sequence of species linked by feeding relationships, in which each species acts as a link that consumes the preceding link and is consumed by the succeeding link. In nature, there are two main types: chains starting with producers and chains starting with detritivores.
 - **Giải thích (VI):** Một dãy các loài sinh vật có mối quan hệ dinh dưỡng nối tiếp nhau, trong đó mỗi loài là một mắt xích vừa tiêu thụ mắt xích phía trước vừa bị mắt xích phía sau tiêu thụ. Trong tự nhiên có hai loại chuỗi thức ăn gồm chuỗi khởi đầu bằng sinh vật sản xuất và chuỗi khởi đầu bằng sinh vật ăn mùn bã hữu cơ.
 - **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A sequence of multiple species linked by nutritional relationships, in which each preceding species serves as food for the succeeding species. / VI: Dãy gồm nhiều loài sinh vật có quan hệ dinh dưỡng với nhau, trong đó loài đứng trước là thức ăn của loài đứng sau.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A sequence of multiple species connected by feeding relationships, through which matter exchange occurs within a biological community. / VI: Dãy gồm nhiều loài sinh vật có quan hệ dinh dưỡng với nhau, qua đó thực hiện quá trình trao đổi chất trong quần xã sinh vật.
 - **Bối cảnh:**
   - Sinh học lớp 12, Bài 29 (Mục II.1): Biểu diễn đường truyền vật chất và năng lượng giữa các loài trong quần xã sinh vật.
   - Khoa học tự nhiên lớp 6, Bài 36 (Mục III.1): giải thích vai trò của động vật như mắt xích dinh dưỡng duy trì trạng thái cân bằng sinh thái trong tự nhiên.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.1), tr. 156; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3), tr. 160; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129, 130; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
+  - Khoa học tự nhiên lớp 8, Bài 44 (Mục II.1a): Con đường trao đổi chất qua mối quan hệ thức ăn nối tiếp giữa các loài trong quần xã sinh vật.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.1), tr. 156; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3), tr. 160; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129, 130; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1), tr. 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1.a), tr. 182
+
+### food safety and hygiene
+- **Tiếng Việt:** An toàn vệ sinh thực phẩm (vệ sinh an toàn thực phẩm)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The application of proper selection, processing, and storage practices to keep food free from pathogenic microorganisms, chemical toxins, and spoilage.
+- **Giải thích (VI):** Việc thực hiện các biện pháp trong lựa chọn, chế biến và bảo quản nhằm giữ cho thực phẩm không bị nhiễm vi sinh vật gây bệnh, nhiễm chất độc hoá học hoặc bị biến chất, ôi thiu.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 32 (Mục V, VI.2): phòng chống ngộ độc thực phẩm và các bệnh lây truyền qua đường tiêu hoá.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục V), tr. 133; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục VI.1), tr. 133; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục VI.2.a), tr. 133
 
 ### food web
 - **Tiếng Việt:** Lưới thức ăn
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** An interconnected network of food chains within a community linked together through shared species acting as common links. The greater the number of species in a community, the more complex its food web and the more stable its community structure.
 - **Giải thích (VI):** Tập hợp các chuỗi thức ăn trong quần xã được kết nối với nhau thông qua những loài là mắt xích chung. Quần xã có số lượng loài càng lớn thì lưới thức ăn càng phức tạp và cấu trúc quần xã càng ổn định.
-- **Bối cảnh:** Sinh học lớp 12, Bài 29 (Mục II.2): Phản ánh mối quan hệ dinh dưỡng đan xen thực tế và mức độ ổn định của quần xã, hệ sinh thái.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.2), tr. 156; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.2), tr. 156, 157; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3), tr. 160
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A network of interconnected food chains in a biological community sharing common links, formed when individual species participate simultaneously in multiple food chains. / VI: Tập hợp các chuỗi thức ăn trong quần xã sinh vật có nhiều mắt xích chung, hình thành khi một loài tham gia đồng thời vào nhiều chuỗi thức ăn khác nhau.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 29 (Mục II.2): Phản ánh mối quan hệ dinh dưỡng đan xen thực tế và mức độ ổn định của quần xã, hệ sinh thái.
+  - Khoa học tự nhiên lớp 8, Bài 44 (Mục II.1b): Biểu diễn mối quan hệ dinh dưỡng đan xen giữa các chuỗi thức ăn trong quần xã sinh vật.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.2), tr. 156; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.2), tr. 156, 157; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3), tr. 160; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1), tr. 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1.b), tr. 182
 
 ### foodstuff
 - **Tiếng Việt:** Thực phẩm
@@ -3663,6 +4123,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 11, Bài 27 (Mục I.3): Hình thức sinh sản vô tính ở Giun dẹp, Bọt biển và sao biển.
   - Khoa học tự nhiên lớp 7, Bài 39 (Mục II.3b): Phân biệt với nảy chồi và trinh sản khi phân loại các hình thức sinh sản vô tính ở động vật.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B24 (Mục IV), tr. 157; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục I.3), tr. 171; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục III.4), tr. 180; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B39 (Mục II.a), tr. 160; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B39 (Mục II.b), tr. 160; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B39 (Mục II.c), tr. 160
+
+### freshwater biome
+- **Tiếng Việt:** Khu sinh học nước ngọt
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of biomes in freshwater environments, divided into two main zones: standing-water habitats (ponds, lakes, marshes) and flowing-water habitats (rivers, streams).
+- **Giải thích (VI):** Nhóm khu sinh học ở môi trường nước ngọt, chia thành hai khu vực chính là khu vực nước đứng (ao, hồ, đầm) và khu vực nước chảy (sông, suối).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 45 (Mục II.2): Phân loại các khu sinh học dưới nước ngọt theo trạng thái đứng hoặc chảy của dòng nước.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II), tr. 186; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.2), tr. 186
 
 ### fruit formation
 - **Tiếng Việt:** Quá trình hình thành quả (quả)
@@ -4060,6 +4528,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 30 (Mục III): Vấn đề môi trường toàn cầu tác động sâu sắc đến diễn thế sinh thái, đa dạng sinh vật và đời sống con người.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B30 (Mục III), tr. 163; SGK Sinh học 12 KNTT, Chương 07, B30 (Mục III), tr. 163, 164
 
+### glomerular capsule
+- **Tiếng Việt:** Nang cầu thận
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A sac-like structure enclosing the glomerulus within a nephron of the kidney.
+- **Giải thích (VI):** Cấu trúc dạng túi bao bọc bên ngoài cầu thận thuộc đơn vị chức năng của thận.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 35 (Mục I.2): Thành phần giải phẫu bao quanh búi mao mạch cầu thận trong đơn vị chức năng của thận.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35, tr. 146; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục I.1), tr. 146; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục I.2), tr. 146
+
 ### glomerular filtrate
 - **Tiếng Việt:** Dịch lọc cầu thận (nước tiểu đầu)
 - **Chuyên ngành gốc:** Sinh học
@@ -4067,6 +4543,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chất dịch được tạo thành từ quá trình lọc máu tại cầu thận của các nephron (khoảng 180 L mỗi ngày ở người trưởng thành). Dịch lọc cầu thận có thành phần tương tự máu nhưng không chứa các tế bào máu và protein huyết tương.
 - **Bối cảnh:** Sinh học lớp 11, Bài 13 (Mục II.2): Sản phẩm giai đoạn lọc máu đầu tiên ở cầu thận trước khi được tái hấp thụ và bài tiết tiếp ở ống thận.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B13 (Mục II.2), tr. 81
+
+### glomerulonephritis
+- **Tiếng Việt:** Bệnh viêm cầu thận
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A kidney disease caused by streptococcal bacteria, typically manifesting with symptoms such as edema, hypertension, anemia, and blood in the urine.
+- **Giải thích (VI):** Bệnh lí ở thận do liên cầu khuẩn gây nên, thường biểu hiện qua các triệu chứng phù nề, tăng huyết áp, thiếu máu và có lẫn máu trong nước tiểu.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 35 (Mục II.2): Tác nhân vi khuẩn gây tổn thương cầu thận và cách phòng tránh nhiễm khuẩn đường mũi, họng, ngoài da.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục I.2), tr. 147; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục II.1), tr. 147; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục II.2), tr. 147
+
+### glomerulus
+- **Tiếng Việt:** Cầu thận
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A dense tuft of capillaries within the nephron of the kidney, closely lined by a filtration membrane with tiny pores measuring 30 Å to 40 Å in diameter to filter blood.
+- **Giải thích (VI):** Búi mao mạch máu dày đặc nằm trong đơn vị chức năng của thận, có màng lọc với các lỗ nhỏ đường kính từ 30 Å đến 40 Å bám sát thành mao mạch để lọc máu.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 35 (Mục I.2): Cấu trúc lọc máu trong đơn vị chức năng của thận, nằm bên trong nang cầu thận.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35, tr. 146; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục I.1), tr. 146; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục I.2), tr. 146
 
 ### glutamine
 - **Tiếng Việt:** Glutamine (glutamin)
@@ -4135,6 +4627,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 8 (Mục II.7): Dạng peroxysome chuyển hoá acid béo ở tế bào thực vật.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.7), tr. 52
 
+### goiter
+- **Tiếng Việt:** Bướu cổ (bệnh bướu cổ do thiếu iodine)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An enlargement of the thyroid gland caused by iodine deficiency that prevents thyroxine (TH) secretion, prompting the pituitary gland to secrete TSH to intensify thyroid activity. The disease causes stunted growth and delayed intellectual development in children, as well as memory decline and reduced nervous activity in adults.
+- **Giải thích (VI):** Tình trạng phì đại tuyến giáp do cơ thể thiếu iodine dẫn đến hormone TH không tiết ra được, khiến tuyến yên tiết TSH tăng cường hoạt động của tuyến giáp. Bệnh làm trẻ chậm lớn, trí tuệ chậm phát triển, đồng thời gây giảm sút trí nhớ và suy giảm hoạt động thần kinh ở người lớn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 38 (Mục II.2): Cơ chế phì đại tuyến giáp do thiếu hụt iodine và biện pháp bổ sung muối có iodine trong ăn uống.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục II.1), tr. 159; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục II.2), tr. 159
+
 ### golden rice
 - **Tiếng Việt:** Lúa vàng
 - **Chuyên ngành gốc:** Sinh học
@@ -4150,6 +4650,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bào quan thuộc hệ thống nội màng gồm các túi màng dẹp xếp song song nhưng tách rời nhau. Đây là trung tâm tiếp nhận, chế biến (như gắn thêm chuỗi đường tạo glycoprotein), lắp ráp, đóng gói các phân tử protein, lipid vào túi vận chuyển rồi phân phối đến các vị trí trong hoặc ngoài tế bào.
 - **Bối cảnh:** Sinh học lớp 10, Bài 8 (Mục II.4): Bào quan chế biến, đóng gói và phân phối sản phẩm của tế bào nhân thực.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.4), tr. 50; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.6), tr. 52
+
+### gonad
+- **Tiếng Việt:** Tuyến sinh dục
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The reproductive glands comprising the testes in males (secreting testosterone to stimulate sperm production) and the ovaries in females (secreting estrogen to stimulate egg development and ovulation), with both hormones causing bodily changes during puberty in males and females.
+- **Giải thích (VI):** Nhóm tuyến gồm tinh hoàn ở nam (tiết hormone testosterone kích thích sự sinh tinh trùng) và buồng trứng ở nữ (tiết hormone estrogen kích thích sự phát triển và rụng trứng); cả hai hormone này đều gây ra những biến đổi cơ thể ở tuổi dậy thì của nam và nữ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 38 (Mục I.5): Chức năng nội tiết của tinh hoàn và buồng trứng đối với sinh sản và sự phát triển tuổi dậy thì.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.1), tr. 158; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.2), tr. 158; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.3), tr. 158
+
+### gonorrhea
+- **Tiếng Việt:** Bệnh lậu
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A sexually transmitted infection caused by the diplococcus bacterium Neisseria gonorrhoeae through unprotected sexual contact or mother-to-child transmission. A characteristic symptom in infected individuals is white or greenish purulent discharge from the genitals.
+- **Giải thích (VI):** Bệnh lây truyền qua đường sinh dục do song cầu khuẩn Neisseria gonorrhoeae gây ra khi quan hệ tình dục không an toàn hoặc lây truyền từ mẹ sang con. Triệu chứng điển hình ở người mắc bệnh là xuất hiện mủ màu trắng hoặc xanh tại bộ phận sinh dục.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 40 (Mục IV.1): Nhận biết tác nhân, triệu chứng và phòng tránh bệnh lây truyền qua đường sinh dục.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục IV.1), tr. 168; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục IV.2), tr. 168; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục IV.2), tr. 168, 169
 
 ### grafting
 - **Tiếng Việt:** Ghép (cành ghép; mắt ghép; gốc ghép)
@@ -4335,8 +4851,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The sound-sensing modality originating in the auditory structures of the ear (outer ear, middle ear, and cochlea), enabling animals to locate prey, detect predators, find mates, and signal danger. Sound waves traveling down the ear canal vibrate the tympanic membrane and middle-ear ossicles, generating pressure waves in the cochlea that stimulate hair cells to send action potentials to the temporal lobe of the cerebral cortex.
 - **Giải thích (VI):** Cảm giác âm thanh khởi đầu từ cơ quan thính giác ở tai (tai ngoài, tai giữa và ốc tai), giúp động vật định hướng săn mồi, phát hiện kẻ thù, tìm bạn tình và báo động nguy hiểm. Sóng âm truyền qua ống tai làm rung màng nhĩ và chuỗi xương tai giữa, tạo sóng áp lực trong ốc tai kích thích các tế bào có lông phát sinh xung thần kinh truyền về thuỳ thái dương của vỏ não.
-- **Bối cảnh:** Sinh học lớp 11, Bài 17 (Mục III.5): Chức năng tiếp nhận âm thanh của tai, trình bày song song với chức năng giữ thăng bằng của cơ quan tiền đình ở tai trong.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B17 (Mục III.5), tr. 108; SGK Sinh học 11 KNTT, Chương 02, B17 (Mục III.5), tr. 109
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The sensory system consisting of the ears, auditory nerves, and auditory region in the brain, functioning to receive sounds from the environment and transmit signals to the brain for sound recognition. / VI: Giác quan có cấu tạo gồm tai, dây thần kinh thính giác và vùng thính giác ở não, thực hiện chức năng thu nhận âm thanh từ môi trường và truyền lên não xử lí giúp nhận biết âm thanh.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 17 (Mục III.5): Chức năng tiếp nhận âm thanh của tai, trình bày song song với chức năng giữ thăng bằng của cơ quan tiền đình ở tai trong.
+  - Khoa học tự nhiên lớp 8, Bài 37 (Mục II.2a): Cấu tạo tổng thể và chức năng cảm nhận âm thanh của cơ quan phân tích thính giác ở người.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B17 (Mục III.5), tr. 108; SGK Sinh học 11 KNTT, Chương 02, B17 (Mục III.5), tr. 109; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II), tr. 153; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.c), tr. 155; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.2.a), tr. 155
 
 ### heart
 - **Tiếng Việt:** Tim
@@ -4362,13 +4881,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 10 (Mục III.1, VI.3): Cấu tạo tim người và Thú cùng một số bệnh lí tim mạch thường gặp.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B10 (Mục III.1), tr. 63; SGK Sinh học 11 KNTT, Chương 01, B10 (Mục VI.3), tr. 67
 
+### heatstroke
+- **Tiếng Việt:** Cảm nóng (say nắng)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A thermoregulatory disorder that occurs when prolonged exposure to strong sunlight affects the body's thermoregulatory center at the nape of the neck.
+- **Giải thích (VI):** Tình trạng rối loạn điều hoà thân nhiệt xảy ra khi cơ thể ở ngoài trời nắng quá lâu làm trung tâm điều hoà thân nhiệt ở vùng gáy bị tác động.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 39 (Mục II.3.b): Nhận biết nguyên nhân và biện pháp phòng chống rối loạn thân nhiệt khi nắng nóng; phân biệt với cảm lạnh.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục II.3.b), tr. 164; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục II.3), tr. 164
+
 ### heliophyte
 - **Tiếng Việt:** Cây ưa sáng
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A group of plants with a high light requirement, adapted to grow and photosynthesize effectively in open habitats with strong light intensity (such as casuarina, pine, maize, bougainvillea, and coconut).
 - **Giải thích (VI):** Nhóm thực vật có nhu cầu ánh sáng cao, thích nghi sống và quang hợp hiệu quả ở những nơi quang đãng, có cường độ ánh sáng mạnh (như phi lao, thông, ngô, hoa giấy, dừa).
-- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 23 (Mục I.1): phân loại thực vật theo nhu cầu ánh sáng khi xét ảnh hưởng của ánh sáng đến quang hợp, đối lập với cây ưa bóng.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B23, tr. 104; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B23 (Mục I.1), tr. 104
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A group of plants adapted to high light intensity that typically grow and thrive in open, sunlit areas. / VI: Nhóm thực vật thích nghi với điều kiện chiếu sáng mạnh, thường sinh trưởng và phát triển tốt ở những nơi quang đãng, trống trải.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 7, Bài 23 (Mục I.1): phân loại thực vật theo nhu cầu ánh sáng khi xét ảnh hưởng của ánh sáng đến quang hợp, đối lập với cây ưa bóng.
+  - Khoa học tự nhiên lớp 8, Bài 41 (Mục II.2.a): Minh hoạ sự thích nghi của thực vật với nhân tố ánh sáng; đối lập với cây ưa bóng.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B23, tr. 104; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B23 (Mục I.1), tr. 104; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục II.2.a), tr. 172; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục II.2.b), tr. 172; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục III), tr. 172
 
 ### helper T cell
 - **Tiếng Việt:** Tế bào T hỗ trợ
@@ -4377,6 +4907,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại tế bào lympho T được hoạt hoá khi tiếp nhận kháng nguyên từ tế bào trình diện kháng nguyên, sau đó phân chia tạo dòng tế bào T hỗ trợ và dòng tế bào T hỗ trợ nhớ. Các tế bào T hỗ trợ tiết cytokine để hoạt hoá tế bào B và tế bào T độc, qua đó khởi phát cả miễn dịch dịch thể lẫn miễn dịch tế bào.
 - **Bối cảnh:** Sinh học lớp 11, Bài 12 (Mục IV.3, V.1): Tế bào điều phối trung tâm của đáp ứng miễn dịch đặc hiệu và là tế bào đích bị virus HIV phá huỷ.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.3), tr. 76; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.3), tr. 77; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục V.1), tr. 78
+
+### hemodialysis
+- **Tiếng Việt:** Chạy thận nhân tạo
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A medical procedure that uses a dialysis machine to filter blood and remove toxins and waste products from the body when impaired kidney function can no longer perform this task.
+- **Giải thích (VI):** Phương pháp sử dụng máy chạy thận để lọc máu, giúp thải các chất độc và chất thải ra khỏi cơ thể khi chức năng của thận bị suy giảm không thể thực hiện nhiệm vụ này.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 35 (Mục III.2): Ứng dụng thiết bị lọc máu ngoài cơ thể để duy trì sự sống cho bệnh nhân suy thận.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35, tr. 146; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục II.3), tr. 148; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục III.1), tr. 148
+
+### hemoglobin
+- **Tiếng Việt:** Huyết sắc tố (hemoglobin; Hb)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A complex iron-containing red protein located within the red blood cells of humans and other mammals. Hemoglobin binds and transports oxygen throughout the body.
+- **Giải thích (VI):** Loại protein phức tạp chứa nguyên tố sắt, có màu đỏ và nằm trong tế bào hồng cầu của người cùng các loài thú. Huyết sắc tố giữ vai trò liên kết và vận chuyển khí oxygen đi nuôi cơ thể.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục III.1) và Bảng giải thích thuật ngữ: giải thích vai trò của sắt đối với quá trình tạo máu và nguyên nhân bệnh thiếu máu.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195, 196; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục III.1), tr. 138
+
+### hemorrhagic anemia
+- **Tiếng Việt:** Thiếu máu do chảy máu
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A form of anemia resulting from excessive blood loss from the vascular system, such as following severe injury or during menstruation.
+- **Giải thích (VI):** Dạng thiếu máu xảy ra khi cơ thể mất một lượng máu quá lớn ra khỏi hệ mạch, chẳng hạn khi bị thương nặng hoặc trong kì kinh nguyệt.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục III.1, IV.3): phân biệt với thiếu máu dinh dưỡng và liên hệ kĩ năng sơ cứu cầm máu kịp thời.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục II.1), tr. 138; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục II.2), tr. 138; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục III.1), tr. 138
 
 ### hereditary factor
 - **Tiếng Việt:** Nhân tố di truyền
@@ -4462,15 +5016,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B26 (Mục II.b), tr. 115; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B26 (Mục II.c), tr. 115
 
 ### homeostasis
-- **Tiếng Việt:** Sự cân bằng nội môi (cân bằng nội môi)
+- **Tiếng Việt:** Sự cân bằng nội môi (cân bằng nội môi; Cân bằng môi trường trong của cơ thể)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The self-regulatory ability to maintain stable internal environment conditions—such as body temperature, pH, blood glucose, and essential ion concentrations—despite fluctuations in the external environment.
 - **Giải thích (VI):** Khả năng tự điều chỉnh nhằm duy trì môi trường bên trong cơ thể (như thân nhiệt, pH, đường huyết, nồng độ các ion quan trọng) ở trạng thái tương đối ổn định trước sự thay đổi của môi trường bên ngoài.
 - **Giải thích khác (SGK Sinh học 11):** EN: The state in which physical and chemical conditions of the body's internal environment (such as blood osmotic pressure, arterial pH, and blood glucose concentration) are maintained stable so that cells and organs function normally. It represents a dynamic equilibrium in which internal parameters fluctuate around a set range in response to internal and external stimuli. / VI: Trạng thái duy trì ổn định các điều kiện lí, hoá của môi trường trong cơ thể (như áp suất thẩm thấu, pH máu, nồng độ glucose máu), đảm bảo cho các tế bào và cơ quan hoạt động bình thường. Đây là trạng thái cân bằng động, trong đó các chỉ số nội môi dao động xung quanh một khoảng giá trị xác định trước các kích thích bên trong và bên ngoài.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The maintenance of stable conditions within the body's internal environment (such as blood concentrations of glucose, sodium chloride, urea, uric acid, and pH), ensuring that life processes of the body take place normally. / VI: Sự duy trì tính ổn định của môi trường trong cơ thể (như các chỉ số nồng độ glucose, sodium chloride, urea, uric acid và pH trong máu), đảm bảo cho các hoạt động sống của cơ thể diễn ra bình thường.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 3 (Mục II.2): Biểu hiện của khả năng tự điều chỉnh ở cơ thể sống (như duy trì thân nhiệt, pH, đường huyết ở người).
   - Sinh học lớp 11, Bài 13 (Mục III.1): Trạng thái cân bằng động các chỉ số sinh lí – hoá sinh của nội môi ở người và động vật.
-- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục II.2), tr. 20; SGK Sinh học 11 KNTT, Chương 01, B13 (Mục III.1), tr. 82
+  - Khoa học tự nhiên lớp 8, Bài 36 (Mục II): Vai trò duy trì ổn định các chỉ số sinh hoá máu và nguy cơ bệnh lí khi mất cân bằng nội môi.
+- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục II.2), tr. 20; SGK Sinh học 11 KNTT, Chương 01, B13 (Mục III.1), tr. 82; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B36, tr. 150; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B36 (Mục I), tr. 150; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B36 (Mục II), tr. 150, 151
 
 ### homeostatic control system
 - **Tiếng Việt:** Hệ thống điều hoà cân bằng nội môi
@@ -4526,10 +5082,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A biological signaling compound of protein or lipid nature (such as the steroids testosterone and estrogen) that regulates gene activity within cells as well as organismal development and physiological functions.
 - **Giải thích (VI):** Hợp chất tín hiệu sinh học có bản chất là protein hoặc lipid (như các steroid testosterone, estrogen), đóng vai trò điều hoà hoạt động của gene trong tế bào cũng như điều hoà sự phát triển và các chức năng sinh lí của cơ thể.
 - **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: A substance secreted by a plant or animal body that regulates growth, metabolism, reproduction, and other vital biological activities. / VI: Chất do cơ thể thực vật hoặc động vật tiết ra, có tác dụng điều hoà sự sinh trưởng, trao đổi chất, sinh sản và các hoạt động sống khác của cơ thể.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A chemical substance secreted by endocrine glands and transported via the bloodstream to target organs to regulate organ activities and maintain internal stability. Because hormones have high biological activity, even a small amount produces a distinct physiological effect. / VI: Chất hoá học do các tuyến nội tiết tiết ra và vận chuyển theo đường máu đến cơ quan đích giúp điều khiển, điều hoà hoạt động của các cơ quan, duy trì sự ổn định của môi trường trong cơ thể. Hormone có hoạt tính sinh học cao nên chỉ cần một lượng nhỏ cũng gây hiệu quả rõ rệt.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 5 (Mục II.2.c, II.3.a): Chức năng điều hoà sinh lí của các phân tử có bản chất protein hoặc steroid.
   - Khoa học tự nhiên lớp 7, Bài 41 (Mục I.1, II): Yếu tố bên trong ảnh hưởng và tham gia điều hoà, điều khiển sinh sản ở thực vật và động vật.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.2.c), tr. 33; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.a), tr. 34; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B41, tr. 169; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B41 (Mục I.1), tr. 169; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B41 (Mục I.2), tr. 169
+  - Khoa học tự nhiên lớp 8, Bài 38 (Mục I): Bản chất, con đường vận chuyển qua máu và đặc tính hoạt tính sinh học cao của sản phẩm tuyến nội tiết.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.2.c), tr. 33; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.a), tr. 34; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B41, tr. 169; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B41 (Mục I.1), tr. 169; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B41 (Mục I.2), tr. 169; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38, tr. 157; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I), tr. 157; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.1), tr. 158
 
 ### host range
 - **Tiếng Việt:** Phổ vật chủ
@@ -4538,6 +5096,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tập hợp các loài sinh vật mà một loại virus nhất định có thể xâm nhập và lây nhiễm. Tuỳ loại virus, tập hợp này có thể rộng (gồm nhiều loài khác nhau) hoặc hẹp (chỉ giới hạn ở một loài, thậm chí một loại tế bào thuộc một mô nhất định).
 - **Bối cảnh:** Sinh học lớp 10, Bài 24 (Mục I) và Bài 25 (Mục II.3): Phản ánh tính đặc hiệu kí sinh của virus và làm cơ sở đề xuất biện pháp cách li, phòng chống dịch bệnh.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 07, B24 (Mục I), tr. 142; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục II.3), tr. 151
+
+### human body
+- **Tiếng Việt:** Cơ thể người
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The complete living structure of a human being comprising the head, neck, trunk, two arms, and two legs. It is covered externally by skin overlying subcutaneous fat, muscles, and bones, housing internal organ systems that function in coordination.
+- **Giải thích (VI):** Chỉnh thể sống của con người gồm các phần đầu, cổ, thân, hai tay và hai chân. Bên ngoài cơ thể có lớp da bao bọc, tiếp đến là lớp mỡ dưới da, cơ và xương cùng các hệ cơ quan phối hợp hoạt động thống nhất.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 30 (Mục I): nhận diện cấu tạo khái quát các phần và lớp cấu trúc bên ngoài của cơ thể.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B30, tr. 123; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B30 (Mục I), tr. 123; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B30 (Mục II), tr. 123, 124
 
 ### human genetics
 - **Tiếng Việt:** Di truyền học người
@@ -4575,6 +5141,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 25 (Mục II.1): Tác nhân virus gây hội chứng suy giảm miễn dịch mắc phải (AIDS) ở người, có tốc độ biến đổi nhanh gây khó khăn cho việc tạo vaccine và điều trị.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 07, B25 (Mục II.1), tr. 147; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục II.1.a), tr. 147; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục II.1.b), tr. 147; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục II.1.c), tr. 148
 
+### human organ system
+- **Tiếng Việt:** Hệ cơ quan trong cơ thể người
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of organs working together to perform a specific vital function in close coordination with other systems in the human body. The human body comprises the musculoskeletal, circulatory, respiratory, digestive, excretory, nervous and sensory, endocrine, and reproductive systems.
+- **Giải thích (VI):** Tập hợp các cơ quan phối hợp thực hiện một chức năng sống nhất định và liên hệ chặt chẽ với các hệ cơ quan khác trong cơ thể người. Cơ thể người gồm hệ vận động, hệ tuần hoàn, hệ hô hấp, hệ tiêu hoá, hệ bài tiết, hệ thần kinh và các giác quan, hệ nội tiết và hệ sinh dục.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 30 (Mục II): phân biệt thành phần và vai trò chính của các hệ cơ quan trong cơ thể.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B30, tr. 123; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B30 (Mục I), tr. 123; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B30 (Mục II), tr. 123, 124
+
 ### humoral immunity
 - **Tiếng Việt:** Miễn dịch dịch thể
 - **Chuyên ngành gốc:** Sinh học
@@ -4606,6 +5180,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Trường hợp đặc biệt của hướng hoá, thể hiện qua phản ứng sinh trưởng định hướng của cơ quan thực vật đối với sự phân bố không đồng đều của nước trong môi trường đất. Hệ rễ có tính hướng nước dương, sinh trưởng hướng về phía nguồn nước nhằm đảm bảo cho cây thích nghi với việc tìm kiếm nước.
 - **Bối cảnh:** Sinh học lớp 11, Bài 15 (Mục II.1.a): Kiểu hướng động đặc thù của hệ rễ thực vật đối với nguồn nước trong đất.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B15 (Mục II.1.a), tr. 92
+
+### hyperopia
+- **Tiếng Việt:** Viễn thị
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A refractive error of the eye caused by an overly short eyeball or an aging, flattened lens that cannot bulge easily, causing images of objects to lie behind the retina. A hyperopic eye sees only distant objects clearly and requires appropriate converging lenses to bring the image onto the retina.
+- **Giải thích (VI):** Tật khúc xạ ở mắt do cầu mắt quá ngắn hoặc thể thuỷ tinh bị lão hoá xẹp xuống khó phồng lên, khiến ảnh của vật nằm ở phía sau màng lưới. Mắt viễn thị chỉ nhìn rõ các vật ở xa và khắc phục bằng cách đeo kính hội tụ (kính lão) phù hợp giúp kéo ảnh về đúng màng lưới.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 37 (Mục II.1c): Nguyên nhân, vị trí tạo ảnh sau màng lưới và biện pháp đeo kính hội tụ khắc phục viễn thị.
+  - *Lưu ý:* Phân biệt với cận thị (ảnh của vật ở xa nằm phía trước màng lưới, khắc phục bằng kính phân kì).
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.c), tr. 154; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.c), tr. 155; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.2.a), tr. 155
+
+### hypertension
+- **Tiếng Việt:** Bệnh huyết áp cao
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A chronic cardiovascular disorder in which persistently elevated blood pressure damages the structure of arterial walls. Unlike transient blood pressure spikes during exercise, strong emotion, or fever, this condition is often linked to diets excessive in salt, sugar, or fats.
+- **Giải thích (VI):** Bệnh lí tim mạch xảy ra khi tình trạng huyết áp tăng cao kéo dài làm tổn thương cấu trúc thành động mạch. Bệnh khác với hiện tượng tăng huyết áp nhất thời khi vận động mạnh, xúc động hay bị sốt, và thường liên quan đến chế độ ăn thừa muối, đường hoặc chất béo.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục III.2): phân biệt tăng huyết áp sinh lí tạm thời với bệnh lí và đề xuất chế độ sinh hoạt phòng bệnh.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục II.1), tr. 138; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục II.2), tr. 138; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục III.1), tr. 138
 
 ### hyperthermophile
 - **Tiếng Việt:** Vi sinh vật siêu ưa nhiệt
@@ -4664,8 +5256,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The ability of the body to defend itself against disease-causing agents (such as bacteria, viruses, fungi, and parasites), keeping the organism healthy and free from disease.
 - **Giải thích (VI):** Khả năng của cơ thể chống lại các tác nhân gây bệnh (như vi khuẩn, virus, nấm, kí sinh trùng,...), đảm bảo cho cơ thể khoẻ mạnh và không mắc bệnh.
-- **Bối cảnh:** Sinh học lớp 11, Bài 12 (Mục II): Khái quát năng lực bảo vệ cơ thể chống lại mầm bệnh ở người và động vật.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B12 (Mục II), tr. 73
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The body's ability to recognize and resist invading pathogens and their toxins to prevent disease. In humoral immune responses, antigen-activated B lymphocytes proliferate and differentiate into antibody-secreting plasma cells and memory B cells that mount rapid responses upon subsequent exposure. / VI: Khả năng cơ thể nhận diện, chống lại các mầm bệnh xâm nhập và độc tố của chúng để bảo vệ cơ thể khỏi bị bệnh. Trong đáp ứng miễn dịch dịch thể, tế bào lympho B nhận diện kháng nguyên sẽ hoạt hoá, phân bào và biệt hoá thành tương bào tiết kháng thể cùng tế bào lympho B nhớ giúp đáp ứng nhanh ở những lần xâm nhập sau.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 12 (Mục II): Khái quát năng lực bảo vệ cơ thể chống lại mầm bệnh ở người và động vật.
+  - Khoa học tự nhiên lớp 8, Bài 33 (Mục I.2): phân tích cơ chế bảo vệ cơ thể của bạch cầu và ứng dụng tiêm chủng phòng bệnh.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B12 (Mục II), tr. 73; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.2.a), tr. 136; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.2.b), tr. 136; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196
+
+### implantation
+- **Tiếng Việt:** Sự thụ thai (thụ thai)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The process in which the embryo travels from the oviduct to the uterus and embeds into the uterine lining to establish pregnancy and develop into a fetus.
+- **Giải thích (VI):** Quá trình phôi di chuyển từ ống dẫn trứng đến tử cung và bám vào lớp niêm mạc tử cung để làm tổ, phát triển thành thai nhi.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 40 (Mục II.2): Giai đoạn phôi làm tổ ở tử cung sau khi thụ tinh.
+  - *Lưu ý:* Trong SGK Khoa học tự nhiên 8, sự thụ thai xác định tại thời điểm phôi bám vào niêm mạc tử cung để làm tổ, phân biệt với sự thụ tinh xảy ra ở ống dẫn trứng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục I.2), tr. 166; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục II.1), tr. 166; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục II.2), tr. 166
 
 ### imprinting
 - **Tiếng Việt:** In vết
@@ -4682,8 +5287,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** An assisted reproductive technique (used to treat infertility in humans and applied in animal reproductive control) in which eggs and sperm are fertilized outside the body in vitro to form embryos, which are subsequently transferred into the uterus to implant and develop into fetuses. Fertilization can be achieved either by mixing an egg with multiple sperm or by injecting a single sperm directly into the cytoplasm of an egg.
 - **Giải thích (VI):** Phương pháp hỗ trợ sinh sản (điều trị hiếm muộn ở người và ứng dụng trong điều khiển sinh sản ở động vật), trong đó trứng và tinh trùng được cho thụ tinh bên ngoài cơ thể trong ống nghiệm để tạo thành phôi, sau đó phôi được chuyển vào buồng tử cung để làm tổ và phát triển thành thai nhi. Sự thụ tinh có thể thực hiện bằng cách trộn trứng với nhiều tinh trùng hoặc tiêm trực tiếp một tinh trùng vào tế bào chất của một trứng.
-- **Bối cảnh:** Sinh học lớp 11, Bài 27 (Mục III.3, III.4): Phương pháp hỗ trợ sinh sản điều trị hiếm muộn ở người và nhân giống ở động vật.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B27 (Mục III.3), tr. 178; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục III.4), tr. 180
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: An assisted reproductive technology for couples unable to conceive naturally, in which sperm and eggs are combined in vitro to form embryos. After about 2 to 5 days of culture, the embryo is transferred into the mother's uterus to develop into a fetus. / VI: Kĩ thuật hỗ trợ sinh sản dành cho các cặp vợ chồng không có khả năng sinh sản tự nhiên bằng cách cho tinh trùng và trứng kết hợp trong ống nghiệm để tạo thành phôi. Sau khoảng 2 đến 5 ngày nuôi cấy trong ống nghiệm, phôi sẽ chuyển vào tử cung của người mẹ để phát triển thành thai nhi.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 27 (Mục III.3, III.4): Phương pháp hỗ trợ sinh sản điều trị hiếm muộn ở người và nhân giống ở động vật.
+  - Khoa học tự nhiên lớp 8, Bài 40 (Mục IV.2): Ứng dụng y học hiện đại hỗ trợ điều trị hiếm muộn ở người.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B27 (Mục III.3), tr. 178; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục III.4), tr. 180; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục IV.2), tr. 169
 
 ### in vitro propagation
 - **Tiếng Việt:** Nhân giống in vitro (vi nhân giống)
@@ -4844,12 +5452,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.1), tr. 18; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.2), tr. 18, 19
 
 ### internal environment
-- **Tiếng Việt:** Nội môi
+- **Tiếng Việt:** Nội môi (Môi trường trong của cơ thể)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The fluid environment inside an animal's body composed of blood, lymph, and interstitial (tissue) fluid, in which cells directly exchange materials and carry out life activities.
 - **Giải thích (VI):** Môi trường dịch thể bên trong cơ thể động vật được hợp thành bởi máu, bạch huyết và dịch mô, nơi các tế bào trực tiếp trao đổi chất và duy trì hoạt động sống.
-- **Bối cảnh:** Sinh học lớp 11, Bài 13 (Mục III.1): Khái niệm môi trường trong cơ thể làm cơ sở cho cơ chế cân bằng nội môi.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B13 (Mục III.1), tr. 82
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The fluid environment inside the human body consisting of blood, interstitial fluid, and lymph. It continuously interacts with the external environment through organ systems such as the digestive, circulatory, and respiratory systems, as well as the skin. / VI: Môi trường dịch lỏng bên trong cơ thể người bao gồm máu, nước mô và bạch huyết. Môi trường này thường xuyên liên hệ với môi trường ngoài thông qua các hệ cơ quan như hệ tiêu hoá, hệ tuần hoàn, hệ hô hấp và da.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 13 (Mục III.1): Khái niệm môi trường trong cơ thể làm cơ sở cho cơ chế cân bằng nội môi.
+  - Khoa học tự nhiên lớp 8, Bài 36 (Mục I): Các thành phần dịch thể bao quanh tế bào và mối liên hệ trao đổi chất với môi trường ngoài.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B13 (Mục III.1), tr. 82; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B36, tr. 150; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B36 (Mục I), tr. 150; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B36 (Mục II), tr. 150, 151
 
 ### internal fertilization
 - **Tiếng Việt:** Thụ tinh trong
@@ -4951,6 +5562,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 10 (Mục II.1.c): Phân loại môi trường cân bằng nồng độ chất tan với tế bào, ứng dụng trong sử dụng nước muối sinh lí.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 03, B10 (Mục II.1.c), tr. 67; SGK Sinh học 10 KNTT, Chương 03, B10 (Mục II.1), tr. 67
 
+### joint
+- **Tiếng Việt:** Khớp xương
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The site of contact and articulation between the ends of bones in the skeleton. Many joints act as fulcrums in lever-like connections between bones, enabling flexible movement and load-bearing during locomotion.
+- **Giải thích (VI):** Vị trí tiếp giáp và liên kết giữa các đầu xương trong bộ xương. Nhiều khớp xương đóng vai trò điểm tựa trong kết nối kiểu đòn bẩy giữa các xương, giúp cơ thể cử động linh hoạt và chịu tải khi vận động.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 31 (Mục I.1, I.2): nhận biết vị trí kết nối giữa các xương và liên hệ nguyên tắc đòn bẩy trong cơ thể người.
+  - *Lưu ý:* Thuật ngữ giải phẫu học chỉ nơi tiếp giáp giữa các xương, phân biệt với khớp nối cơ khí trong kĩ thuật hoặc khe nứt đá (joint) trong địa chất.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31, tr. 125; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31 (Mục I.1), tr. 125; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31 (Mục I.2), tr. 125
+
 ### juvenile hormone
 - **Tiếng Việt:** Juvenile (hormone juvenile)
 - **Chuyên ngành gốc:** Sinh học
@@ -5006,6 +5627,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bệnh lí hình thành khối rắn trong thận do các chất thải trong nước tiểu kết tụ và lắng đọng lâu ngày (thường thuận lợi khi uống ít nước hoặc ăn thừa protein động vật làm tăng uric acid và calcium niệu). Sỏi thận gây tổn thương mô thận, cản trở hoặc làm tắc đường lưu thông nước tiểu, dẫn đến đau đớn, ngộ độc, hôn mê hoặc tử vong.
 - **Bối cảnh:** Sinh học lớp 11, Bài 13 (Mục IV.1, IV.2): Bệnh lí lắng đọng kết tinh đường tiết niệu gắn liền với chế độ ăn uống và sinh hoạt.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B13 (Mục IV.1.a), tr. 84; SGK Sinh học 11 KNTT, Chương 01, B13 (Mục IV.1.b), tr. 84; SGK Sinh học 11 KNTT, Chương 01, B13 (Mục IV.2), tr. 85
+
+### kidney transplantation
+- **Tiếng Việt:** Ghép thận
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A surgical medical procedure in which a healthy, normally functioning kidney is transplanted into a patient's body to replace a kidney with impaired or lost function.
+- **Giải thích (VI):** Phương pháp y học ghép vào cơ thể người bệnh một quả thận hoạt động bình thường nhằm thay thế cho thận bị suy giảm hoặc không còn chức năng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 35 (Mục III.1): Thành tựu y học trong điều trị thay thế thận cho người mắc bệnh suy thận nặng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35, tr. 146; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục II.3), tr. 148; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục III.1), tr. 148
 
 ### kingdom
 - **Tiếng Việt:** Giới sinh vật (giới)
@@ -5224,6 +5853,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 2 (Mục II.1): Thiết bị nghiên cứu cấp độ tế bào phổ biến tại trường phổ thông.
 - **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B2 (Mục II.1), tr. 14
 
+### light reception in the eye
+- **Tiếng Việt:** Quá trình thu nhận ánh sáng ở mắt
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The mechanism of visual perception in which light reflected from an object refracts through the cornea and lens onto the retina, stimulating visual receptor cells and transmitting impulses along the optic nerve to the brain.
+- **Giải thích (VI):** Cơ chế tạo cảm nhận hình ảnh khi ánh sáng phản chiếu từ vật khúc xạ qua giác mạc và thể thuỷ tinh tới màng lưới, tác động lên tế bào thụ cảm thị giác gây hưng phấn và truyền theo dây thần kinh thị giác tới não.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 37 (Mục II.1b): Đường đi của tia sáng qua hệ quang học của cầu mắt và sự dẫn truyền xung thần kinh thị giác.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.a), tr. 154; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.b), tr. 154; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.c), tr. 154
+
 ### light saturation point
 - **Tiếng Việt:** Điểm bão hoà ánh sáng (Iₘ)
 - **Chuyên ngành gốc:** Sinh học
@@ -5301,8 +5938,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The totality of surrounding factors that influence the survival, growth, development, and reproduction of an organism. It serves as the space from which organisms obtain resources and into which they release wastes, while its properties can in turn be modified by the organisms' life activities.
 - **Giải thích (VI):** Tập hợp toàn bộ các nhân tố bao quanh sinh vật, có ảnh hưởng đến sự tồn tại, sinh trưởng, phát triển và sinh sản của chúng. Đây vừa là không gian cung cấp nguồn sống và tiếp nhận chất thải của sinh vật, vừa có thể bị biến đổi tính chất thông qua chính hoạt động sống của sinh vật.
-- **Bối cảnh:** Sinh học lớp 12, Bài 23 (Mục I): Khái niệm mở đầu về các loại môi trường sống của sinh vật (cạn, nước, đất, sinh vật) và mối tác động qua lại giữa sinh vật với môi trường.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B23 (Mục I), tr. 122; SGK Sinh học 12 KNTT, Chương 06, B23 (Mục I), tr. 122, 123
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The place where organisms live, encompassing all surrounding factors that directly or indirectly affect their survival and development. / VI: Nơi sinh sống của sinh vật, bao gồm tất cả các nhân tố xung quanh tác động trực tiếp hoặc gián tiếp đến sự tồn tại và phát triển của chúng.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 23 (Mục I): Khái niệm mở đầu về các loại môi trường sống của sinh vật (cạn, nước, đất, sinh vật) và mối tác động qua lại giữa sinh vật với môi trường.
+  - Khoa học tự nhiên lớp 8, Bài 41 (Mục I.1): Khái niệm nền tảng mở đầu sinh thái học về mối quan hệ giữa sinh vật với ngoại cảnh.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B23 (Mục I), tr. 122; SGK Sinh học 12 KNTT, Chương 06, B23 (Mục I), tr. 122, 123; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41, tr. 170; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục I.1), tr. 170; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục I.2), tr. 171
 
 ### living thing
 - **Tiếng Việt:** Vật sống
@@ -5343,8 +5983,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The specialized gas exchange organ of terrestrial vertebrates such as reptiles, birds, and mammals, also present in amphibians (though with few alveoli, so amphibians rely mainly on cutaneous gas exchange). In humans and mammals, lungs contain millions of alveoli providing an extensive exchange surface, whereas bird lungs lack alveoli and instead consist of air capillaries connected to air sacs.
 - **Giải thích (VI):** Cơ quan trao đổi khí chuyên hoá của nhiều động vật có xương sống trên cạn như Bò sát, Chim, Thú và có mặt ở Lưỡng cư (nhưng ít phế nang nên lưỡng cư trao đổi khí chủ yếu qua da). Ở người và Thú, phổi được tạo thành từ hàng triệu phế nang có diện tích bề mặt rất lớn; riêng phổi Chim không có phế nang mà gồm các mao mạch khí thông với hệ thống túi khí.
-- **Bối cảnh:** Sinh học lớp 11, Bài 9 (Mục II.4): Cơ quan trao đổi khí chuyên hoá của các lớp động vật có xương sống sống trên cạn.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B9 (Mục II.4), tr. 57; SGK Sinh học 11 KNTT, Chương 01, B9 (Mục II.4), tr. 58
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The gas-exchange organ of the human respiratory system consisting of two lungs made up of numerous alveoli. The lungs carry out gas exchange between the external environment and blood within the pulmonary capillaries. / VI: Cơ quan trao đổi khí của hệ hô hấp ở người gồm hai lá phổi có cấu tạo từ nhiều phế nang. Phổi thực hiện chức năng trao đổi khí giữa môi trường ngoài và máu trong hệ thống mao mạch phổi.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 9 (Mục II.4): Cơ quan trao đổi khí chuyên hoá của các lớp động vật có xương sống sống trên cạn.
+  - Khoa học tự nhiên lớp 8, Bài 34 (Mục I.1, I.2): Cấu tạo và vai trò trao đổi khí của hai lá phổi trong hệ hô hấp ở người.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B9 (Mục II.4), tr. 57; SGK Sinh học 11 KNTT, Chương 01, B9 (Mục II.4), tr. 58; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34, tr. 142; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.1), tr. 142; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.2), tr. 143
 
 ### lymphatic circulatory system
 - **Tiếng Việt:** Hệ tuần hoàn bạch huyết
@@ -5353,6 +5996,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hệ thống tuần hoàn hoạt động phối hợp bên cạnh hệ tuần hoàn máu, đảm nhận chức năng tiếp nhận lipid hấp thụ từ ruột non và thu hồi dịch mô để đưa trở về hệ tuần hoàn máu.
 - **Bối cảnh:** Sinh học lớp 11, Bài 10 (Mục V): Vai trò bổ trợ của tuần hoàn bạch huyết đối với tuần hoàn máu và hấp thụ lipid.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B10 (Mục V), tr. 66
+
+### lymphoblast
+- **Tiếng Việt:** Nguyên bào lympho
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An immature form of lymphocyte generated when a lymphocyte recognizes an antigen and undergoes activation. It subsequently proliferates by cell division and differentiates into antibody-producing plasma cells.
+- **Giải thích (VI):** Dạng tế bào lympho ở trạng thái chưa trưởng thành, hình thành khi tế bào lympho nhận diện kháng nguyên và được hoạt hoá. Tế bào này tiếp tục phân bào và biệt hoá để tạo thành tương bào sản xuất kháng thể.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục I.2a) và Bảng giải thích thuật ngữ: giai đoạn trung gian trong sơ đồ cơ chế miễn dịch ở người.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.2.a), tr. 136
 
 ### lysogenic cycle
 - **Tiếng Việt:** Chu kì tiềm tan
@@ -5413,6 +6064,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 12 (Mục III.2, IV.3): Tế bào bạch cầu giữ vai trò cầu nối giữa miễn dịch không đặc hiệu và miễn dịch đặc hiệu.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B12 (Mục III.2), tr. 74; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.3), tr. 76
 
+### male reproductive organs
+- **Tiếng Việt:** Cơ quan sinh dục nam
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The set of reproductive structures in males comprising two testes located in the scrotum, epididymides, vas deferens, seminal vesicles, urethra, and penis, along with accessory glands including the prostate and bulbourethral glands. The testes produce sperm at an optimal temperature of about $35\text{ }^\circ\text{C}$, the epididymis matures sperm, and the seminal vesicles store and nourish them.
+- **Giải thích (VI):** Tập hợp các bộ phận sinh sản ở nam giới gồm hai tinh hoàn nằm trong bìu, mào tinh, ống dẫn tinh, túi tinh, ống đái, dương vật cùng các tuyến phụ như tuyến tiền liệt và tuyến hành. Trong đó, tinh hoàn sản sinh tinh trùng ở nhiệt độ thích hợp khoảng $35\text{ }^\circ\text{C}$, mào tinh hoàn thiện tinh trùng và túi tinh chứa, nuôi dưỡng tinh trùng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 40 (Mục I.1): Cấu tạo và chức năng từng bộ phận trong hệ sinh dục nam ở người.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40, tr. 165; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục I), tr. 165; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục I.1), tr. 165
+
 ### malignant tumor
 - **Tiếng Việt:** U ác tính
 - **Chuyên ngành gốc:** Sinh học
@@ -5428,6 +6087,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Lớp động vật có tổ chức cao nhất trong các lớp động vật có xương sống, hô hấp bằng phổi, cơ thể thường phủ lông mao, hầu hết đẻ con và nuôi con bằng sữa tiết ra từ tuyến vú.
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 36 (Mục II.2): nhận diện lớp động vật có xương sống có tổ chức cao qua các đại diện như thỏ, bò, voi, lợn, cá heo và cá voi.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129, 130
+
+### marine biome
+- **Tiếng Việt:** Khu sinh học biển
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of biomes in marine environments where organisms are distributed differently by depth (surface layer with plankton, middle layer with nekton, bottom layer with benthic animals) and horizontally (coastal zone and pelagic zone).
+- **Giải thích (VI):** Nhóm khu sinh học ở môi trường nước biển có sự phân bố sinh vật khác nhau theo chiều sâu (tầng nước mặt với sinh vật nổi, tầng giữa với sinh vật tự bơi, tầng dưới cùng với động vật đáy) và theo chiều ngang (vùng ven bờ và vùng khơi).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 45 (Mục II.3): Sự phân bố sinh vật theo tầng sâu và vùng ngang trong các biển và đại dương.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II), tr. 186; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.3), tr. 187
 
 ### mark and recapture
 - **Tiếng Việt:** Đánh dấu và bắt lại (phương pháp Petersen; ước lượng Petersen)
@@ -5458,8 +6125,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The physical processing of food within the alimentary canal driven by the chewing action of the mouth and tongue and contractions of smooth muscle layers in the canal wall under neural and hormonal control, which breaks food into smaller pieces, mixes it with digestive juices, and propels it along the tract.
 - **Giải thích (VI):** Quá trình biến đổi vật lí thức ăn trong ống tiêu hoá nhờ hoạt động của miệng, lưỡi và sự co dãn của các lớp cơ trơn trên thành ống tiêu hoá dưới sự điều khiển của hệ thần kinh và hormone, giúp làm nhỏ thức ăn, nhào trộn với dịch tiêu hoá và đẩy thức ăn dịch chuyển dọc ống tiêu hoá.
-- **Bối cảnh:** Sinh học lớp 11, Bài 8 (Mục I.2.c): Quá trình làm nhỏ và nhào trộn thức ăn phối hợp với tiêu hoá hoá học trong ống tiêu hoá.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.2.c), tr. 48; SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.2.c), tr. 49
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The physical breakdown of food through chewing and grinding by the teeth, mixing by the tongue in the oral cavity, and churning contractions of the stomach. This process reduces food into smaller particles and mixes it thoroughly with digestive juices. / VI: Hình thức biến đổi vật lí thức ăn thông qua hoạt động nhai, nghiền của răng, đảo trộn của lưỡi ở khoang miệng và sự co bóp của dạ dày. Quá trình này làm nhỏ, nhuyễn thức ăn và giúp thức ăn thấm đều dịch tiêu hoá.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 8 (Mục I.2.c): Quá trình làm nhỏ và nhào trộn thức ăn phối hợp với tiêu hoá hoá học trong ống tiêu hoá.
+  - Khoa học tự nhiên lớp 8, Bài 32 (Mục II.2): phân biệt với tiêu hoá hoá học có sự tham gia của các enzyme tiêu hoá.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.2.c), tr. 48; SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.2.c), tr. 49; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.1), tr. 129; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.2.a), tr. 129; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.2.b), tr. 129
 
 ### mechanoreceptor
 - **Tiếng Việt:** Thụ thể cơ học
@@ -5524,6 +6194,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quá trình vận chuyển có chọn lọc các chất ra, vào tế bào qua màng tế bào nhằm cung cấp nguyên liệu cho các hoạt động sống và đào thải các sản phẩm phế thải ra môi trường. Quá trình này diễn ra theo ba cơ chế chính gồm vận chuyển thụ động, vận chuyển chủ động và vận chuyển nhờ biến dạng màng tế bào.
 - **Bối cảnh:** Sinh học lớp 10, Bài 10 (Mục I): Khái niệm trung tâm về sự vận chuyển có chọn lọc các chất qua màng sinh chất của tế bào.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 03, B10 (Mục I), tr. 64; SGK Sinh học 10 KNTT, Chương 03, B10 (Mục II.3), tr. 70; SGK Sinh học 10 KNTT, Chương 03, Sơ đồ tóm tắt kiến thức chương 3, tr. 77
+
+### menstruation
+- **Tiếng Việt:** Hiện tượng kinh nguyệt (chu kì kinh nguyệt)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The periodic shedding of the uterine lining accompanied by ruptured blood vessels and bleeding in non-pregnant females. This occurs when an egg goes unfertilized, causing the corpus luteum to degenerate 14 days after ovulation and leading to a drop in progesterone levels.
+- **Giải thích (VI):** Hiện tượng lớp niêm mạc tử cung bong ra gây đứt mạch máu và chảy máu theo chu kì ở nữ giới không mang thai. Quá trình này xảy ra khi trứng không thụ tinh, làm thể vàng tiêu giảm sau 14 ngày kể từ lúc trứng rụng và kéo theo sự suy giảm nồng độ hormone progesterone.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 40 (Mục III.1): Sinh lí sinh sản theo chu kì ở nữ giới từ tuổi dậy thì.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục III.1), tr. 167; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục III.2), tr. 167; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục IV.2), tr. 169
 
 ### meristem
 - **Tiếng Việt:** Mô phân sinh
@@ -5892,6 +6570,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 10 (Mục II.2): Ví dụ thực tế về bơm vận chuyển chủ động gây hiện tượng kháng thuốc ở tế bào ung thư.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 03, B10 (Mục II.2), tr. 68
 
+### muscular system
+- **Tiếng Việt:** Hệ cơ
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The system of approximately 600 muscles in the human body attached to bones via connective tissues such as tendons and ligaments. Muscle contraction and relaxation pull on bones across joints, enabling body movement and locomotion.
+- **Giải thích (VI):** Tập hợp khoảng 600 cơ trong cơ thể người, bám vào xương thông qua các mô liên kết như gân và dây chằng. Hoạt động co và dãn của cơ làm xương cử động quanh khớp, giúp cơ thể vận động và di chuyển.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 31 (Mục I.1, I.2): phân tích sự phối hợp co dãn của cơ và xương khi thực hiện cử động.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31, tr. 125; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31 (Mục I.1), tr. 125; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31 (Mục I.2), tr. 125
+
+### musculoskeletal system
+- **Tiếng Việt:** Hệ vận động
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The human organ system composed of the skeleton and the muscular system. It functions to maintain body shape, protect internal organs, and enable locomotion and movement.
+- **Giải thích (VI):** Hệ cơ quan ở người cấu tạo gồm bộ xương và hệ cơ. Hệ vận động thực hiện chức năng định hình cơ thể, bảo vệ các nội quan và giúp cơ thể di chuyển, vận động.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 31 (Mục I): tìm hiểu cấu tạo và chức năng phối hợp giữa xương và cơ trong hoạt động vận động.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31, tr. 125; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31 (Mục I.1), tr. 125; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31 (Mục I.2), tr. 125
+
 ### mutagen
 - **Tiếng Việt:** Tác nhân đột biến
 - **Chuyên ngành gốc:** Sinh học
@@ -5923,6 +6617,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Lớp vỏ có tính chất cách điện bao bọc gián đoạn quanh sợi trục của nhiều tế bào thần kinh, để hở các đoạn nhỏ tại các eo Ranvier. Cấu trúc cách điện này giúp điện thế hoạt động lan truyền theo lối nhảy cóc từ eo Ranvier này sang eo Ranvier kế tiếp với tốc độ nhanh hơn nhiều so với sợi thần kinh không có bao myelin.
 - **Bối cảnh:** Sinh học lớp 11, Bài 17 (Mục II.1, II.2.b): Giải thích sự khác biệt về cách thức và tốc độ dẫn truyền xung thần kinh giữa sợi có bao myelin và sợi không có bao myelin.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B17 (Mục II.1), tr. 102; SGK Sinh học 11 KNTT, Chương 02, B17 (Mục II.2.b), tr. 103
+
+### myopia
+- **Tiếng Việt:** Cận thị
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A refractive error of the eye caused by a congenitally elongated eyeball or prolonged close-up viewing in dim light that makes the lens bulge and lose elasticity, causing images of distant objects to form in front of the retina. A myopic eye sees only nearby objects clearly and requires appropriate diverging lenses to shift the image back onto the retina.
+- **Giải thích (VI):** Tật khúc xạ ở mắt do bẩm sinh cầu mắt dài hoặc do nhìn gần trong ánh sáng yếu lâu ngày làm thể thuỷ tinh phồng lên, mất dần khả năng đàn hồi, khiến ảnh của vật ở phía trước màng lưới. Mắt cận thị chỉ nhìn rõ các vật ở gần mà không nhìn rõ vật ở xa và khắc phục bằng cách đeo kính phân kì (kính cận) phù hợp giúp ảnh lùi về đúng màng lưới.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 37 (Mục II.1c): Nguyên nhân, vị trí tạo ảnh trước màng lưới và cách khắc phục tật cận thị học đường.
+  - *Lưu ý:* Phân biệt với viễn thị (ảnh của vật nằm phía sau màng lưới, khắc phục bằng kính hội tụ).
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.a), tr. 154; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.b), tr. 154; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.c), tr. 154
 
 ### NADH and FADH₂
 - **Tiếng Việt:** NADH, FADH₂
@@ -5972,8 +6676,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** An ecosystem that forms and persists in nature (terrestrial or aquatic) with little or no human intervention. Natural ecosystems typically exhibit high species diversity and stability, rely on naturally available matter and energy, and self-regulate according to natural laws.
 - **Giải thích (VI):** Hệ sinh thái hình thành và tồn tại trong tự nhiên (trên cạn hoặc dưới nước), ít hoặc không chịu sự can thiệp của con người. Kiểu hệ sinh thái này thường có độ đa dạng loài lớn, tính ổn định cao, sử dụng nguồn vật chất và năng lượng sẵn có trong môi trường và tự điều chỉnh theo các quy luật tự nhiên.
-- **Bối cảnh:** Sinh học lớp 12, Bài 28 (Mục II.1): Phân loại hệ sinh thái đối lập với hệ sinh thái nhân tạo; ví dụ rừng mưa nhiệt đới, rừng ngập mặn, rạn san hô, sông, hồ tự nhiên.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.1), tr. 153; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 154
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A group of ecosystems that form and exist naturally, comprising terrestrial ecosystems (such as tropical rainforests and deserts) and aquatic ecosystems, including freshwater (lakes, rivers, streams) and marine ecosystems (open oceans, mangroves, coral reefs). / VI: Nhóm hệ sinh thái hình thành và tồn tại trong tự nhiên, bao gồm các hệ sinh thái trên cạn (như rừng mưa nhiệt đới, sa mạc) và các hệ sinh thái dưới nước gồm nước ngọt (hồ, sông, suối) và nước mặn (biển khơi, rừng ngập mặn, rạn san hô).
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 28 (Mục II.1): Phân loại hệ sinh thái đối lập với hệ sinh thái nhân tạo; ví dụ rừng mưa nhiệt đới, rừng ngập mặn, rạn san hô, sông, hồ tự nhiên.
+  - Khoa học tự nhiên lớp 8, Bài 44 (Mục I.3): Phân loại các kiểu hệ sinh thái hình thành sẵn trong tự nhiên đối sánh với hệ sinh thái nhân tạo.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.1), tr. 153; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 154; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.3), tr. 181; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.3), tr. 181, 182
+
+### natural enemy
+- **Tiếng Việt:** Thiên địch
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** Naturally occurring organisms capable of suppressing pests or pathogens through biological control, used in agriculture as an alternative to chemical pesticides to protect crops and maintain ecological balance.
+- **Giải thích (VI):** Các loài sinh vật tự nhiên có khả năng kìm hãm sinh vật gây hại hoặc tác nhân gây bệnh dựa trên hiện tượng khống chế sinh học, được sử dụng trong nông nghiệp thay cho thuốc hoá học để bảo vệ mùa màng và duy trì cân bằng tự nhiên.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 46 (Mục I.2): Biện pháp sinh học ứng dụng hiện tượng khống chế sinh học để bảo vệ mùa màng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.2), tr. 189
 
 ### natural killer cell
 - **Tiếng Việt:** Tế bào giết tự nhiên
@@ -6007,13 +6722,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 15 (Mục II.1.a): Đối lập với hướng động dương khi xét chiều vận động của cơ quan thực vật so với hướng kích thích.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B15 (Mục II.1.a), tr. 91; SGK Sinh học 11 KNTT, Chương 02, B15 (Mục II.1.a), tr. 92
 
+### nephrolithiasis
+- **Tiếng Việt:** Bệnh sỏi thận
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An excretory disorder occurring when substances such as calcium oxalate, phosphate salts, or urate salts accumulate at high concentrations in the kidneys and crystallize into stones under suitable pH conditions. It causes symptoms including lower back and flank pain, urinary incontinence, frequent painful urination, or blood in the urine.
+- **Giải thích (VI):** Bệnh lí hệ bài tiết xảy ra khi các chất như calcium oxalate, muối phosphate, muối urate tích tụ trong thận với nồng độ cao và gặp điều kiện pH thích hợp tạo thành sỏi. Người bệnh có triệu chứng đau lưng và hai bên hông, tiểu són, tiểu dắt hoặc có lẫn máu trong nước tiểu.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 35 (Mục II.1): Nguyên nhân hình thành sỏi trong thận, triệu chứng nhận biết và biện pháp uống đủ nước để phòng bệnh.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục I.2), tr. 147; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục II.1), tr. 147; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục II.2), tr. 147
+
 ### nephron
-- **Tiếng Việt:** Nephron (đơn vị thận)
+- **Tiếng Việt:** Nephron (đơn vị thận; Đơn vị chức năng của thận)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The structural and functional unit of the kidney (numbering about one million per human kidney), consisting of a renal corpuscle (glomerulus) and a renal tubule arranged across the renal cortex and medulla. Within each nephron, blood filtration forms glomerular filtrate, followed by nutrient reabsorption and waste secretion to produce urine delivered to collecting ducts.
 - **Giải thích (VI):** Đơn vị cấu tạo và chức năng của thận (khoảng một triệu đơn vị trong mỗi quả thận người), gồm cầu thận và ống thận phân bố tạo nên phần vỏ và phần tuỷ thận. Tại nephron diễn ra quá trình lọc máu tạo dịch lọc cầu thận, tiếp theo là tái hấp thụ chất dinh dưỡng và tiết chất thải để hình thành nước tiểu dẫn vào ống góp.
-- **Bối cảnh:** Sinh học lớp 11, Bài 13 (Mục II.1, II.2): Đơn vị vi thể trực tiếp thực hiện quá trình tạo nước tiểu ở thận.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B13 (Mục II.1), tr. 81; SGK Sinh học 11 KNTT, Chương 01, B13 (Mục II.2), tr. 81
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The microscopic structural and functional unit of the kidney that filters blood and forms urine, composed of a glomerulus and a renal tubule. Each human kidney contains approximately one million nephrons. / VI: Cấu trúc vi thể thực hiện chức năng lọc máu và tạo nước tiểu của thận, có cấu tạo từ cầu thận và ống thận. Mỗi quả thận ở người gồm khoảng 1 triệu đơn vị chức năng.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 13 (Mục II.1, II.2): Đơn vị vi thể trực tiếp thực hiện quá trình tạo nước tiểu ở thận.
+  - Khoa học tự nhiên lớp 8, Bài 35 (Mục I.2): Cấu tạo bên trong của thận giúp thực hiện quá trình lọc máu thải nước tiểu.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B13 (Mục II.1), tr. 81; SGK Sinh học 11 KNTT, Chương 01, B13 (Mục II.2), tr. 81; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35, tr. 146; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục I.1), tr. 146; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục I.2), tr. 146
 
 ### nerve
 - **Tiếng Việt:** Dây thần kinh
@@ -6030,6 +6756,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Dạng hệ thần kinh đơn giản gặp ở động vật có cơ thể đối xứng toả tròn (như ngành Ruột khoang), trong đó các tế bào thần kinh phân bố rải rác khắp cơ thể và liên kết với nhau thành mạng lưới. Khi một điểm bị kích thích, xung thần kinh lan truyền khắp mạng lưới làm toàn bộ cơ thể động vật co lại để phản ứng.
 - **Bối cảnh:** Sinh học lớp 11, Bài 17 (Mục I.1): Một trong ba dạng hệ thần kinh chính ở động vật, đặc trưng bởi phản ứng toàn thân thay vì phản ứng cục bộ.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B17 (Mục I.1), tr. 100; SGK Sinh học 11 KNTT, Chương 02, B17 (Mục I.1), tr. 101
+
+### nervous system
+- **Tiếng Việt:** Hệ thần kinh
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A tubular organ system in humans consisting of the central division (brain and spinal cord, which plays the dominant role) and the peripheral division (nerves and ganglia). The nervous system controls, regulates, and coordinates the activities of organs and organ systems into an integrated whole.
+- **Giải thích (VI):** Hệ cơ quan dạng hình ống ở người gồm bộ phận trung ương (não và tuỷ sống, giữ vai trò chủ đạo) và bộ phận ngoại biên (các dây thần kinh và hạch thần kinh). Hệ thần kinh có chức năng điều khiển, điều hoà và phối hợp hoạt động của các cơ quan, hệ cơ quan trong cơ thể thành một thể thống nhất.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 37 (Mục I.1): Cấu tạo giải phẫu và chức năng điều khiển, phối hợp hoạt động sống của cơ thể người.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37, tr. 152; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục I.1), tr. 152; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục I.2.a), tr. 153
 
 ### neuron
 - **Tiếng Việt:** Tế bào thần kinh (neuron)
@@ -6216,8 +6950,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Chemical substances taken in from the environment by organisms to supply building materials for cells and energy for life processes. In plants, nutrients are mineral elements absorbed mainly from soil; in animals, nutrients comprise proteins, carbohydrates, lipids, vitamins, and minerals.
 - **Giải thích (VI):** Các chất hoá học mà cơ thể sinh vật thu nhận từ môi trường để cung cấp nguyên liệu cấu tạo tế bào và năng lượng cho các quá trình sống. Ở thực vật, chất dinh dưỡng là các chất khoáng hấp thụ chủ yếu từ đất; ở động vật, chất dinh dưỡng gồm protein, carbohydrate, lipid, vitamin và chất khoáng.
-- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 29 (Mục III): vai trò chung và phân nhóm các chất dinh dưỡng thiết yếu ở thực vật và động vật.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục II), tr. 123; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III), tr. 123, 124; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.1), tr. 124
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: Substances present in food that the body uses as building materials for cells and tissues and as energy sources for vital activities. Essential nutrient groups in humans include carbohydrates, proteins, fats (lipids), vitamins, and minerals. / VI: Các chất có trong thức ăn mà cơ thể sử dụng làm nguyên liệu cấu tạo tế bào, mô và cung cấp năng lượng cho các hoạt động sống. Các nhóm chất dinh dưỡng thiết yếu ở người gồm carbohydrate, protein, chất béo (lipid), vitamin và chất khoáng.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 7, Bài 29 (Mục III): vai trò chung và phân nhóm các chất dinh dưỡng thiết yếu ở thực vật và động vật.
+  - Khoa học tự nhiên lớp 8, Bài 32 (Mục I): phân biệt chất dinh dưỡng với quá trình dinh dưỡng và xây dựng chế độ ăn cân đối.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục II), tr. 123; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III), tr. 123, 124; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.1), tr. 124; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32, tr. 128; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục I), tr. 128; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.1), tr. 129
 
 ### nutrient absorption
 - **Tiếng Việt:** Hấp thụ (hấp thụ chất dinh dưỡng)
@@ -6228,6 +6965,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 11, Bài 8 (Mục I.3): Giai đoạn thứ ba đưa chất dinh dưỡng từ ruột non vào máu và bạch huyết trong quá trình dinh dưỡng ở động vật.
   - *Lưu ý:* Trong Bài 8, thuật ngữ chỉ sự hấp thụ chất dinh dưỡng ở cơ quan tiêu hoá động vật; cần phân biệt với quá trình rễ hấp thụ nước và chất khoáng ở thực vật (Bài 2) hoặc hiện tượng hấp thụ ánh sáng, hoá chất trong Vật lí và Hoá học.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.3), tr. 49; SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.3), tr. 50
+
+### nutritional anemia
+- **Tiếng Việt:** Thiếu máu dinh dưỡng
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A form of anemia caused by dietary iron deficiency that prevents the body from synthesizing sufficient hemoglobin for red blood cells.
+- **Giải thích (VI):** Dạng bệnh thiếu máu phát sinh do chế độ ăn thiếu hụt sắt làm cơ thể không tổng hợp đủ lượng huyết sắc tố (hemoglobin) cần thiết cho hồng cầu.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục III.1): giải thích tầm quan trọng của việc bổ sung thực phẩm giàu sắt trong khẩu phần ăn.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục II.1), tr. 138; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục II.2), tr. 138; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục III.1), tr. 138
 
 ### obesity
 - **Tiếng Việt:** Béo phì
@@ -6435,6 +7180,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 10 (Mục II.1.c): Yếu tố chi phối tốc độ thẩm thấu của nước qua màng tế bào, ví dụ ở các tế bào rễ cây.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 03, B10 (Mục II.1.c), tr. 66
 
+### osteoporosis
+- **Tiếng Việt:** Bệnh loãng xương
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A musculoskeletal disorder characterized by reduced bone mineral density due to insufficient bone-building minerals such as calcium and phosphorus. Commonly affecting older adults, it makes bones porous and brittle, increasing the risk of fracture upon injury.
+- **Giải thích (VI):** Bệnh lí ở hệ vận động xảy ra khi mật độ chất khoáng trong xương suy giảm do thiếu hụt nguyên liệu kiến tạo xương như calcium và phosphorus. Bệnh thường gặp ở người cao tuổi, làm xương trở nên xốp, giòn và tăng nguy cơ gãy xương khi chấn thương.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 31 (Mục II.2): giải thích vai trò của dinh dưỡng giàu khoáng chất đối với độ bền chắc của xương.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31 (Mục I.2), tr. 126; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31 (Mục II.1), tr. 126; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31 (Mục II.2), tr. 126
+
+### otitis media
+- **Tiếng Việt:** Bệnh viêm tai giữa
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** Bacterial damage and inflammation of the middle ear caused by contaminated water entering the ear, infected earwax, cerebral ischemia, cold exposure, or complications of nose and throat diseases. Common symptoms include earache, headache, hearing loss, foul-smelling fluid discharge from the ear, and sometimes mild fever and sore throat.
+- **Giải thích (VI):** Tình trạng tổn thương và viêm nhiễm tai giữa do vi khuẩn, xuất phát từ nước bẩn lọt vào tai, ráy tai nhiễm khuẩn, thiếu máu não, nhiễm lạnh hoặc biến chứng từ các bệnh vùng mũi, họng. Bệnh thường gây đau tai, nhức đầu, suy giảm thính giác, chảy dịch lỏng và hôi từ tai, có thể kèm sốt nhẹ và đau họng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 37 (Mục II.2b): Nguyên nhân, biểu hiện và biện pháp giữ vệ sinh phòng bệnh viêm nhiễm tai giữa.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.2.a), tr. 156; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.2.b), tr. 156; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.2), tr. 156
+
 ### outer membrane
 - **Tiếng Việt:** Màng ngoài
 - **Chuyên ngành gốc:** Sinh học
@@ -6450,8 +7211,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A structure within the ovary composed of a single oocyte surrounded by granulosa cells and theca cells. During development under pituitary hormone stimulation, the granulosa cells secrete estrogen to stimulate endometrial growth, and the remaining follicular tissue after ovulation transforms into the corpus luteum.
 - **Giải thích (VI):** Cấu trúc nằm trong buồng trứng, cấu tạo từ một noãn bào được bao quanh bởi nhiều tế bào hạt và các tế bào vỏ nang. Trong quá trình phát triển dưới tác dụng của hormone tuyến yên, các tế bào hạt của nang trứng tiết hormone estrogen kích thích niêm mạc tử cung phát triển, và phần nang trứng còn lại sau khi trứng rụng sẽ biến đổi thành thể vàng.
-- **Bối cảnh:** Sinh học lớp 11, Bài 27 (Mục II.2.a, II.3.b) và Bảng giải thích thuật ngữ: Cấu trúc chứa noãn bào và tiết hormone estrogen trong buồng trứng.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.2.a), tr. 173; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.2.a), tr. 174; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.3.b), tr. 177; SGK Sinh học 11 KNTT, Bảng giải thích thuật ngữ, tr. 187
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: An enclosing structure within the ovary that contains an egg cell inside. After ovulation, the remaining follicular wall develops into the corpus luteum. / VI: Cấu trúc vỏ bọc nằm trong buồng trứng chứa tế bào trứng ở bên trong. Sau khi trứng chín và rụng, phần vỏ bọc còn lại sẽ phát triển thành thể vàng.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 27 (Mục II.2.a, II.3.b) và Bảng giải thích thuật ngữ: Cấu trúc chứa noãn bào và tiết hormone estrogen trong buồng trứng.
+  - Khoa học tự nhiên lớp 8, Bài 40 (Mục III.1): Biến đổi tại buồng trứng gắn với sự rụng trứng và chu kì kinh nguyệt.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.2.a), tr. 173; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.2.a), tr. 174; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.3.b), tr. 177; SGK Sinh học 11 KNTT, Bảng giải thích thuật ngữ, tr. 187; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục III.1), tr. 167
 
 ### oviparity
 - **Tiếng Việt:** Đẻ trứng
@@ -6509,6 +7273,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 16 (Mục III.2): Ví dụ điển hình về gene ức chế khối u tham gia kiểm soát chu kì tế bào.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B16 (Mục III.2), tr. 102
 
+### pancreas
+- **Tiếng Việt:** Tuyến tuỵ (tuyến pha)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A mixed gland performing both exocrine functions (secreting digestive juice into the duodenum) and endocrine functions by secreting two antagonistic hormones: insulin (converting blood glucose into glycogen stored in the liver to lower elevated blood glucose) and glucagon (having the opposite effect).
+- **Giải thích (VI):** Tuyến pha vừa thực hiện chức năng ngoại tiết (tiết dịch tiêu hoá đổ vào tá tràng) vừa thực hiện chức năng nội tiết thông qua việc tiết hai loại hormone điều hoà đường huyết là insulin (chuyển hoá glucose trong máu thành glycogen dự trữ ở gan làm giảm đường huyết khi tăng) và glucagon (có tác dụng ngược lại).
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 38 (Mục I.3): Cơ chế điều hoà ổn định nồng độ glucose trong máu nhờ hai hormone của tuyến tuỵ.
+  - *Lưu ý:* Khác với các tuyến thuần nội tiết như tuyến yên hay tuyến giáp, tuyến tuỵ là tuyến pha vì có cả chức năng ngoại tiết thuộc hệ tiêu hoá.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.1), tr. 158; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.2), tr. 158; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.3), tr. 158
+
 ### paracrine signaling
 - **Tiếng Việt:** Truyền tin cận tiết
 - **Chuyên ngành gốc:** Sinh học
@@ -6524,6 +7298,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tổ hợp kiểu hình ở đời con giống với kiểu hình của bố mẹ, hình thành từ các giao tử liên kết không xảy ra hoán vị gene và chiếm tỉ lệ lớn hơn so với kiểu tái tổ hợp trong phép lai phân tích các gene liên kết.
 - **Bối cảnh:** Sinh học lớp 12, Bài 11 (Mục II.1.a): Phân biệt nhóm kiểu hình giữ nguyên tổ hợp liên kết của bố mẹ với kiểu tái tổ hợp.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B11 (Mục II.1.a), tr. 56
+
+### Parkinson's disease
+- **Tiếng Việt:** Bệnh Parkinson
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A neurological disorder caused by nerve cell degeneration resulting from aging, infection (encephalitis), or neurotoxicity. It impairs motor function, leading to symptoms such as hand tremors, loss of balance, and difficulty moving.
+- **Giải thích (VI):** Bệnh lí thần kinh do thoái hoá tế bào thần kinh xuất phát từ tuổi cao, nhiễm khuẩn (viêm não) hoặc nhiễm độc thần kinh. Bệnh làm suy giảm chức năng vận động, dẫn đến các triệu chứng run tay, mất thăng bằng và khó khăn khi di chuyển.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 37 (Mục I.2a): Bệnh thoái hoá thần kinh gây rối loạn vận động thường gặp ở người cao tuổi.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục I.2.a), tr. 153; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục I.2.b), tr. 153; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II), tr. 153
 
 ### parthenogenesis
 - **Tiếng Việt:** Trinh sinh (Trinh sản)
@@ -6591,6 +7373,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Enzyme tiêu hoá có trong dịch vị dạ dày, hoạt động phối hợp với HCl để phân giải protein trong thức ăn thành các chuỗi peptide.
 - **Bối cảnh:** Sinh học lớp 11, Bài 8 (Mục I.2.c): Enzyme khởi đầu quá trình tiêu hoá hoá học protein trong dịch vị dạ dày.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.2.c), tr. 48
+
+### peptic ulcer disease
+- **Tiếng Việt:** Viêm loét dạ dày – tá tràng (đau dạ dày)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A gastrointestinal disease characterized by erosion, inflammation, and ulceration of the mucosal lining of the stomach or duodenum. It is primarily caused by Helicobacter pylori infection, excessive alcohol consumption, or irregular dietary and lifestyle habits.
+- **Giải thích (VI):** Bệnh lí đường tiêu hoá đặc trưng bởi sự bào mòn, viêm và loét lớp niêm mạc của dạ dày hoặc tá tràng. Nguyên nhân chủ yếu do nhiễm vi khuẩn Helicobacter pylori, lạm dụng đồ uống có cồn hoặc chế độ ăn uống, sinh hoạt thiếu điều độ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 32 (Mục III.2): nhận diện nguyên nhân gây tổn thương niêm mạc ống tiêu hoá và cách phòng bệnh.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.2.d), tr. 130; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục III.1), tr. 130; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục III.2), tr. 130
 
 ### peptidoglycan
 - **Tiếng Việt:** Peptidoglycan
@@ -6845,13 +7635,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 40 (Mục II.1, II.2): Xác định vị trí tiếp nhận hạt phấn, nơi diễn ra thụ tinh và sự hình thành hạt, quả.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 10, B40, tr. 164; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B40 (Mục I), tr. 164; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B40 (Mục II.1), tr. 164, 165
 
+### pituitary gland
+- **Tiếng Việt:** Tuyến yên
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An endocrine gland that secretes hormones stimulating the activity of many other endocrine glands in the body, while also secreting hormones affecting muscle and bone growth, water exchange in the kidneys, uterine smooth muscle contraction, and milk secretion in mammary glands.
+- **Giải thích (VI):** Tuyến nội tiết tiết ra các hormone kích thích hoạt động của nhiều tuyến nội tiết khác trong cơ thể, đồng thời tiết hormone ảnh hưởng đến sự tăng trưởng của cơ và xương, sự trao đổi nước ở thận, sự co thắt cơ trơn ở tử cung và tiết sữa ở tuyến vú.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 38 (Mục I.1): Vai trò điều khiển trung tâm của tuyến yên đối với sự sinh trưởng và các tuyến nội tiết khác.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.1), tr. 158; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.2), tr. 158; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.3), tr. 158
+
 ### placenta
 - **Tiếng Việt:** Nhau thai
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** An organ formed in the uterus during pregnancy in humans and viviparous mammals that supplies nutrients and O₂ from maternal blood to the fetus and removes excretory wastes from the fetus. It also functions as an endocrine structure that produces pregnancy-maintaining hormones and secretes prostaglandin to assist oxytocin in stimulating uterine contractions during childbirth.
 - **Giải thích (VI):** Cơ quan hình thành trong tử cung khi mang thai ở người và Thú đẻ con, đảm nhận việc cung cấp chất dinh dưỡng, O₂ từ máu mẹ cho thai và loại bỏ chất bài tiết ra khỏi thai. Nhau thai đồng thời là cấu trúc nội tiết sản sinh các hormone duy trì thai và tiết prostaglandin hỗ trợ oxytocin kích thích tử cung co bóp khi sinh con.
-- **Bối cảnh:** Sinh học lớp 11, Bài 27 (Mục II.1.c, II.2.c, II.2.d) và Bảng giải thích thuật ngữ: Cơ quan trao đổi chất giữa mẹ với thai nhi và tiết hormone trong thai kì.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.1.c), tr. 172; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.2.c), tr. 174, 175; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.2.d), tr. 175; SGK Sinh học 11 KNTT, Bảng giải thích thuật ngữ, tr. 187
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: An organ formed at the site where the embryo attaches to the uterine lining, carrying out metabolic exchange between the mother's body and the fetus to support fetal development. / VI: Cơ quan hình thành tại vị trí phôi bám vào niêm mạc tử cung, thực hiện trao đổi chất giữa cơ thể mẹ và phôi thai để giúp thai nhi phát triển.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 27 (Mục II.1.c, II.2.c, II.2.d) và Bảng giải thích thuật ngữ: Cơ quan trao đổi chất giữa mẹ với thai nhi và tiết hormone trong thai kì.
+  - Khoa học tự nhiên lớp 8, Bài 40 (Mục II.2): Sự phát triển của phôi thai trong tử cung người mẹ.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.1.c), tr. 172; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.2.c), tr. 174, 175; SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.2.d), tr. 175; SGK Sinh học 11 KNTT, Bảng giải thích thuật ngữ, tr. 187; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục I.2), tr. 166; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục II.1), tr. 166; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục II.2), tr. 166
 
 ### plant cell
 - **Tiếng Việt:** Tế bào thực vật
@@ -6946,8 +7747,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** An immune effector cell formed through the proliferation and differentiation of activated B cells during a humoral immune response. Plasma cells specialize in producing and secreting into the blood identical antibodies that bind specifically to the corresponding epitope.
 - **Giải thích (VI):** Tế bào miễn dịch được hình thành từ quá trình tăng sinh và biệt hoá của tế bào B đã hoạt hoá trong đáp ứng miễn dịch dịch thể. Tương bào chuyên sản sinh và tiết vào máu các kháng thể đồng nhất có khả năng gắn đặc hiệu với quyết định kháng nguyên tương ứng.
-- **Bối cảnh:** Sinh học lớp 11, Bài 12 (Mục IV.2, IV.3): Dòng tế bào biệt hoá từ tế bào B có chức năng tiết kháng thể trong miễn dịch dịch thể.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.2), tr. 76; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.3), tr. 77
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A specialized white blood cell that develops and differentiates from an antigen-stimulated B lymphocyte. Plasma cells synthesize and secrete immune antibodies to destroy microorganisms or neutralize their toxins. / VI: Loại tế bào bạch cầu phát triển và biệt hoá từ tế bào lympho B sau khi nhận diện kháng nguyên. Tương bào chuyên trách sản xuất và tiết các kháng thể miễn dịch để tiêu diệt vi sinh vật hoặc làm bất hoạt độc tố của chúng.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 12 (Mục IV.2, IV.3): Dòng tế bào biệt hoá từ tế bào B có chức năng tiết kháng thể trong miễn dịch dịch thể.
+  - Khoa học tự nhiên lớp 8, Bài 33 (Mục I.2a) và Bảng giải thích thuật ngữ: xác định tế bào trực tiếp tạo kháng thể trong đáp ứng miễn dịch.
+  - *Lưu ý:* Chỉ tế bào tiết kháng thể (plasma cell), không nhầm với huyết tương (blood plasma) là phần dịch lỏng của máu.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.2), tr. 76; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.3), tr. 77; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.2.a), tr. 136
 
 ### plasma membrane
 - **Tiếng Việt:** Màng tế bào (màng sinh chất)
@@ -6987,6 +7792,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 10 (Mục II.1.c) và Bài 11 (Mục III.1): Hiện tượng mất nước của tế bào thực vật trong môi trường ưu trương, ngược với phản co nguyên sinh.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 03, B10 (Mục II.1.c), tr. 66; SGK Sinh học 10 KNTT, Chương 03, B11 (Mục III.1), tr. 71
 
+### platelet
+- **Tiếng Việt:** Tiểu cầu
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A formed element of blood that protects the body against blood loss by mediating the blood clotting mechanism when blood vessels are injured.
+- **Giải thích (VI):** Thành phần hữu hình của máu tham gia bảo vệ cơ thể chống mất máu thông qua cơ chế làm đông máu khi thành mạch bị tổn thương.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục I.1): phân biệt chức năng đông máu của tiểu cầu với chức năng của hồng cầu và bạch cầu.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33, tr. 135; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.1), tr. 135; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục V.3), tr. 141
+
 ### ploidy level
 - **Tiếng Việt:** Mức bội thể
 - **Chuyên ngành gốc:** Sinh học
@@ -6994,6 +7807,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Số lượng bộ nhiễm sắc thể đơn bội (n) có trong tế bào của cơ thể sinh vật (như đơn bội n, lưỡng bội 2n hoặc các mức đa bội 3n, 4n, 6n).
 - **Bối cảnh:** Sinh học lớp 12, Bài 10 (Mục I.2) và Bài 12 (Mục III.2.b): Cơ chế xác định giới tính theo mức bội thể ở ong, kiến và phân loại các thể đột biến đa bội.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B10 (Mục I.2), tr. 51; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục III.2.b), tr. 64
+
+### pneumonia
+- **Tiếng Việt:** Viêm phổi
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A lung disease occurring when airborne viruses, bacteria, fungi, or chemicals invade the lungs, causing the alveoli to become inflamed and secrete excess fluid, thereby impairing gas exchange.
+- **Giải thích (VI):** Bệnh lí ở phổi xảy ra khi virus, vi khuẩn, nấm hoặc hoá chất trong không khí xâm nhập vào phổi làm các phế nang bị viêm và tiết nhiều dịch, gây cản trở chức năng trao đổi khí.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 34 (Mục II.2): Nhận biết nguyên nhân và tác hại của tình trạng tổn thương phế nang đối với trao đổi khí.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.2), tr. 143; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.2.a), tr. 143; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.2.b), tr. 143
 
 ### poikilotherm
 - **Tiếng Việt:** Sinh vật biến nhiệt (Động vật biến nhiệt)
@@ -7117,27 +7938,47 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cấp độ tổ chức sống cơ bản gồm tập hợp các cá thể của cùng một loài sống trong một khu vực địa lí nhất định và vào một thời điểm nhất định.
 - **Giải thích khác (SGK Sinh học 12):** EN: A group of interbreeding individuals of the same species living in the same geographical area at the same time and sharing a common gene pool. Different populations of the same species that are relatively isolated under different environmental conditions can maintain distinct genetic structures. / VI: Tập hợp các cá thể cùng loài, có khả năng giao phối với nhau, cùng sống trong một khu vực địa lí tại cùng một thời điểm và có chung một vốn gene. Các quần thể khác nhau của cùng một loài sống cách li tương đối trong những điều kiện môi trường khác nhau có thể duy trì sự khác biệt về cấu trúc di truyền.
 - **Giải thích khác (SGK Sinh học 12):** EN: A group of conspecific individuals inhabiting a defined space at a given time that are capable of reproducing (sexually or asexually) to produce fertile offspring. It functions as an open system continuously exchanging matter and energy with the environment while maintaining structural integrity through cooperative and competitive interactions among individuals. / VI: Tập hợp các cá thể cùng loài, cùng sinh sống trong một khoảng không gian và thời gian xác định, có khả năng sinh sản (hữu tính hoặc vô tính) để tạo ra các thế hệ mới hữu thụ. Đây là một hệ thống mở thường xuyên trao đổi vật chất, năng lượng với môi trường và duy trì cấu trúc hoàn chỉnh nhờ mối quan hệ hỗ trợ và cạnh tranh giữa các cá thể.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A group of individuals of the same species inhabiting a defined area at a specific time and capable of reproducing to generate new generations. It represents the lowest level of biological organization above the individual organism. / VI: Tập hợp các cá thể cùng loài cùng sinh sống trong một khoảng không gian xác định, vào một thời điểm nhất định và có khả năng sinh sản tạo ra những thế hệ mới. Đây là cấp độ tổ chức thấp nhất trong các cấp độ tổ chức sống trên cơ thể.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 3 (Mục I.1, I.2): Cấp độ tổ chức sống cơ bản trên cấp cơ thể và dưới cấp quần xã.
   - Sinh học lớp 12, Bài 18 (Mục I.1): Khái niệm quần thể xét dưới góc độ di truyền học, nhấn mạnh khả năng giao phối và cấu trúc di truyền đặc trưng của mỗi quần thể.
   - Sinh học lớp 12, Bài 24 (Mục I.1): Đơn vị cấu trúc cơ bản của loài trong tự nhiên và đối tượng trung tâm của sinh thái học quần thể.
+  - Khoa học tự nhiên lớp 8, Bài 42 (Mục I): Nhận diện một quần thể trong tự nhiên hoặc nhân tạo; phân biệt với tập hợp cá thể ngẫu nhiên và quần xã sinh vật.
   - *Lưu ý:* Xét dưới góc độ di truyền học quần thể (nhấn mạnh khả năng giao phối hữu tính và vốn gene chung); phân biệt với góc độ sinh thái học và khái niệm tổng thể thống kê (statistical population) trong Toán học.
   - *Lưu ý:* Trong sinh học dùng để chỉ tập hợp cá thể cùng loài (quần thể); cần phân biệt với 'tổng thể' (statistical population) trong toán thống kê.
   - *Lưu ý:* Không nhầm với 'Dân cư' (`population (geography)`) trong Địa lí.
-- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.1), tr. 18; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.2), tr. 18, 19; SGK Sinh học 12 KNTT, Chương 04, B18 (Mục I.1), tr. 91; SGK Sinh học 12 KNTT, Chương 04, B18 (Mục I.2), tr. 92; SGK Sinh học 12 KNTT, Chương 04, Sơ đồ tóm tắt kiến thức chương 4, tr. 96; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục I.1), tr. 128; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục I.1), tr. 128, 129; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục I.2), tr. 129
+- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.1), tr. 18; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.2), tr. 18, 19; SGK Sinh học 12 KNTT, Chương 04, B18 (Mục I.1), tr. 91; SGK Sinh học 12 KNTT, Chương 04, B18 (Mục I.2), tr. 92; SGK Sinh học 12 KNTT, Chương 04, Sơ đồ tóm tắt kiến thức chương 4, tr. 96; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục I.1), tr. 128; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục I.1), tr. 128, 129; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục I.2), tr. 129; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42, tr. 174; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục I), tr. 174; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II), tr. 174
 
 ### population density
-- **Tiếng Việt:** Mật độ cá thể
+- **Tiếng Việt:** Mật độ cá thể (Mật độ cá thể của quần thể; mật độ cá thể trong quần thể)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The number of individuals in a population per unit area or volume, indicating the intensity of resource exploitation by the population. Population density fluctuates and self-regulates through shifts in reproduction, mortality, and emigration driven by resource availability, competition, disease, and predation.
 - **Giải thích (VI):** Số lượng cá thể của quần thể tính trên một đơn vị diện tích hay thể tích sống, biểu thị mức độ khai thác nguồn sống của quần thể. Mật độ cá thể biến đổi và tự điều chỉnh thông qua sự thay đổi tỉ lệ sinh sản, tử vong và xuất cư phụ thuộc vào nguồn sống, mức độ cạnh tranh, dịch bệnh và kẻ thù tự nhiên.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The number of individual organisms per unit area (such as $\text{m}^2$ or $\text{ha}$) or per unit volume (such as $\text{m}^3$) occupied by a population. / VI: Số lượng cá thể sinh vật tính trên một đơn vị diện tích (như $\text{m}^2$, $\text{ha}$) hoặc một đơn vị thể tích (như $\text{m}^3$) của quần thể.
 - **Bối cảnh:**
   - Sinh học lớp 12, Bài 24 (Mục II.1): Đặc trưng cơ bản của quần thể được ứng dụng để xác định mật độ gieo trồng, chăn nuôi và nuôi trồng thuỷ sản hợp lí.
+  - Khoa học tự nhiên lớp 8, Bài 42 (Mục II.2): Tính toán mật độ nuôi trồng hợp lí trong nông, lâm, ngư nghiệp; phân biệt với kích thước quần thể.
   - *Lưu ý:* Phân biệt với kích thước quần thể (tổng số cá thể, sinh khối hoặc năng lượng trong toàn bộ khu phân bố của quần thể).
   - *Lưu ý:* Không nhầm với 'Mật độ dân số' (`population density (geography)`) trong Địa lí.
   - *Lưu ý:* Không nhầm với 'Mật độ dân số' (`population density (geography)`) trong Địa lí.
   - *Lưu ý:* Không nhầm với 'Mật độ dân số' (`population density (geography)`) trong Địa lí.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B24 (Mục II.1), tr. 130; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục V.1), tr. 136
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B24 (Mục II.1), tr. 130; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục V.1), tr. 136; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II), tr. 174; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II.1), tr. 175; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II.2), tr. 175
+
+### population dispersion
+- **Tiếng Việt:** Kiểu phân bố cá thể trong quần thể (phân bố cá thể trong quần thể)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The spatial arrangement of individuals within a population, governed by the distribution of living conditions and interactions among individuals. Three primary patterns occur in nature: uniform dispersion, clumped dispersion, and random dispersion.
+- **Giải thích (VI):** Cách thức sắp xếp vị trí trong không gian của các cá thể thuộc cùng một quần thể, phụ thuộc vào sự phân bố nguồn sống và mối quan hệ giữa các cá thể. Trong tự nhiên có ba kiểu phân bố cơ bản gồm phân bố đều, phân bố theo nhóm và phân bố ngẫu nhiên.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 42 (Mục II.5): Đặc trưng không gian của quần thể sinh vật.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II.5), tr. 176; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục III), tr. 176
+
+### population equilibrium
+- **Tiếng Việt:** Trạng thái cân bằng của quần thể
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A state in which a population maintains a stable number of individuals suited to the environment's capacity to supply resources through self-regulation when individual numbers fall too low or rise too high.
+- **Giải thích (VI):** Trạng thái quần thể có số lượng cá thể ổn định và phù hợp với khả năng cung cấp nguồn sống của môi trường nhờ cơ chế tự điều chỉnh khi số cá thể giảm xuống quá thấp hoặc tăng lên quá cao.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 46 (Mục I.1): Biểu hiện của cân bằng tự nhiên thông qua khả năng tự điều chỉnh số lượng cá thể của quần thể.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I), tr. 188; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.1), tr. 188
 
 ### population genetics
 - **Tiếng Việt:** Di truyền học quần thể
@@ -7158,16 +7999,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B24 (Mục III.1), tr. 133; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục III.2), tr. 133
 
 ### population size
-- **Tiếng Việt:** Kích thước quần thể
+- **Tiếng Việt:** Kích thước quần thể (Kích thước của quần thể)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The total number of individuals (or total biomass or energy) present across a population's entire distribution area, reflecting its stability and developmental potential. In nature, this quantity typically fluctuates between the minimum viable size (required to avoid population decline) and the maximum size supported by the environment's carrying capacity.
 - **Giải thích (VI):** Tổng số lượng cá thể (hoặc tổng sinh khối, tổng năng lượng) hiện diện trong toàn bộ khu vực phân bố của quần thể, phản ánh mức độ ổn định và tiềm năng phát triển của quần thể. Trong tự nhiên, đại lượng này thường dao động giữa kích thước tối thiểu (ngưỡng duy trì sự tồn tại không bị suy vong) và kích thước tối đa (phù hợp với sức chứa của môi trường).
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The total number of individuals distributed within the living space of a population. For microbial populations with vast numbers of individuals, this characteristic is measured by biomass (such as milligrams or grams) rather than individual counts. / VI: Tổng số lượng các cá thể phân bố trong khoảng không gian sống của quần thể. Đối với quần thể vi sinh vật có số lượng cá thể rất lớn, đại lượng này xác định bằng sinh khối (như miligam, gam) thay vì đếm số lượng cá thể.
 - **Bối cảnh:**
   - Sinh học lớp 12, Bài 24 (Mục II.2): Đặc trưng cơ bản của quần thể làm cơ sở đánh giá nguy cơ tuyệt chủng, bảo tồn loài nguy cấp và khai thác hợp lí tài nguyên sinh vật.
+  - Khoa học tự nhiên lớp 8, Bài 42 (Mục II.1): Đặc trưng cơ bản của quần thể sinh vật; phân biệt với mật độ cá thể của quần thể.
   - *Lưu ý:* Phân biệt với mật độ cá thể (số lượng cá thể tính trên một đơn vị diện tích hoặc thể tích).
   - *Lưu ý:* Không nhầm với 'Quy mô dân số' (`population size (geography)`) trong Địa lí.
   - *Lưu ý:* Không nhầm với 'Quy mô dân số' (`population size (geography)`) trong Địa lí.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B24 (Mục II.2), tr. 131
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B24 (Mục II.2), tr. 131; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42, tr. 174; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục I), tr. 174; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II), tr. 174
 
 ### positive tropism
 - **Tiếng Việt:** Hướng động dương
@@ -7270,10 +8113,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Autotrophic organisms (including plants and certain autotrophic microorganisms) capable of converting solar energy or chemical reaction energy into chemical energy stored in synthesized organic compounds via photosynthesis or chemoautotrophy. They occupy the first trophic level, initiating the flow of energy and matter into the community.
 - **Giải thích (VI):** Nhóm sinh vật tự dưỡng (gồm thực vật và một số vi sinh vật tự dưỡng) có khả năng chuyển hoá năng lượng ánh sáng mặt trời hoặc năng lượng từ các phản ứng hoá học thành năng lượng hoá học tích luỹ trong các hợp chất hữu cơ thông qua quang hợp hoặc hoá tự dưỡng. Nhóm này giữ vai trò bậc dinh dưỡng cấp 1, mở đầu dòng năng lượng và vật chất đi vào quần xã.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The group of organisms in an ecosystem capable of using light energy to synthesize organic matter, exemplified by plants and algae. They serve as the first link capturing solar energy and transferring it into the biological community. / VI: Nhóm sinh vật trong hệ sinh thái có khả năng sử dụng quang năng để tổng hợp nên chất hữu cơ, tiêu biểu như các loài thực vật và tảo. Đây là mắt xích đầu tiên tiếp nhận và truyền năng lượng ánh sáng mặt trời vào quần xã sinh vật.
 - **Bối cảnh:**
   - Sinh học lớp 12, Bài 26 (Mục II.4) và Bài 29 (Mục II.1, II.3): Thành phần mở đầu cấu trúc dinh dưỡng của quần xã và hệ sinh thái.
+  - Khoa học tự nhiên lớp 8, Bài 44 (Mục I.2, II.2): Xác định vai trò mở đầu chuỗi thức ăn trong hệ sinh thái; phân biệt với sinh vật tiêu thụ và sinh vật phân giải.
   - *Lưu ý:* Không nhầm với 'Chủ thể sản xuất' (`producer (economics)`) trong Giáo dục Kinh tế và Pháp luật.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.4), tr. 144; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.1), tr. 156; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.3), tr. 157
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.4), tr. 144; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.1), tr. 156; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.3), tr. 157; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44, tr. 180; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.1), tr. 180; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.2), tr. 180
 
 ### prokaryotic cell
 - **Tiếng Việt:** Tế bào nhân sơ
@@ -7411,6 +8256,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 22 (Mục I.1, IV, V): Giai đoạn trưởng thành sinh dục ở người, gắn với giáo dục giới tính và chăm sóc sức khoẻ vị thành niên.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B22 (Mục I.1), tr. 145; SGK Sinh học 11 KNTT, Chương 03, B22 (Mục IV), tr. 150; SGK Sinh học 11 KNTT, Chương 03, B22 (Mục V), tr. 152
 
+### pulmonary and cellular gas exchange
+- **Tiếng Việt:** Trao đổi khí ở phổi và tế bào
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The process of transporting gases between alveoli and blood in the lungs and between blood and body cells via diffusion.
+- **Giải thích (VI):** Quá trình vận chuyển các chất khí qua lại giữa phế nang với máu ở phổi và giữa máu với các tế bào trong cơ thể theo cơ chế khuếch tán.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 34 (Mục I.2b): Cơ chế khuếch tán chất khí giữa phế nang, máu và tế bào trong quá trình hô hấp.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.2), tr. 143; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.2.a), tr. 143; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.2.b), tr. 143
+
 ### pulmonary circulation
 - **Tiếng Việt:** Vòng tuần hoàn nhỏ
 - **Chuyên ngành gốc:** Sinh học
@@ -7426,6 +8279,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hình thức trao đổi khí của động vật có xương sống trên cạn, thực hiện qua sự khuếch tán O₂ và CO₂ giữa dòng không khí trong các phế nang (ở Lưỡng cư, Bò sát, Thú) hoặc các mao mạch khí (ở Chim) với máu trong hệ thống mao mạch bao quanh. Quá trình thông khí cho phổi diễn ra nhờ hoạt động của các cơ hô hấp làm thay đổi thể tích lồng ngực hoặc khoang thân (phối hợp với hệ thống túi khí ở Chim).
 - **Bối cảnh:** Sinh học lớp 11, Bài 9 (Mục II.4): Phương thức khuếch tán khí và thông khí qua phổi ở các lớp động vật có xương sống trên cạn.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B9 (Mục II.4), tr. 57; SGK Sinh học 11 KNTT, Chương 01, B9 (Mục II.4), tr. 58
+
+### pulmonary tuberculosis
+- **Tiếng Việt:** Lao phổi
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An infectious disease caused by the bacterium Mycobacterium tuberculosis invading the lungs, destroying lung tissues and blood vessels to cause bleeding and mucus secretion. It manifests with chest pain, persistent cough (sometimes coughing up blood), low-grade afternoon fever, and weight loss, and spreads easily via the respiratory route during close contact.
+- **Giải thích (VI):** Bệnh truyền nhiễm do vi khuẩn Mycobacterium tuberculosis xâm nhập vào phổi, phá huỷ các mô và mạch máu trong phổi gây chảy máu và tiết chất nhầy. Bệnh biểu hiện qua đau ngực, ho khạc kéo dài (có thể ra máu), sốt nhẹ về chiều, sút cân và dễ lây lan qua đường hô hấp khi tiếp xúc gần với người bệnh.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 34 (Mục II.3): Tìm hiểu tác nhân vi khuẩn gây bệnh lao phổi, triệu chứng và con đường lây truyền qua đường hô hấp.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục II.3), tr. 144; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục III), tr. 144; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục IV.1), tr. 144
+
+### pulmonary ventilation
+- **Tiếng Việt:** Thông khí ở phổi
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The process of moving air into and out of the lungs through breathing movements consisting of inhalation and exhalation. During breathing movements, coordinated muscle and bone activity increases or decreases the volume of the thoracic cavity.
+- **Giải thích (VI):** Quá trình lưu thông không khí ra và vào phổi nhờ các cử động hô hấp gồm hít vào và thở ra. Khi thực hiện cử động hô hấp, sự phối hợp hoạt động của cơ và xương làm tăng hoặc giảm thể tích lồng ngực.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 34 (Mục I.2a): Cơ chế thay đổi thể tích lồng ngực giúp không khí lưu thông qua phổi khi hít vào và thở ra.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.2), tr. 143; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.2.a), tr. 143; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.2.b), tr. 143
 
 ### pupa
 - **Tiếng Việt:** Nhộng
@@ -7466,6 +8335,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tính trạng đa gene do nhiều gene tương tác cộng gộp cùng quy định, tạo ra dãy biến thiên liên tục với nhiều mức độ kiểu hình (ví dụ: chiều cao, màu da ở người; tốc độ sinh trưởng, cân nặng, năng suất ở vật nuôi và cây trồng).
 - **Bối cảnh:** Sinh học lớp 12, Bài 9 (Mục II.2): Các tính trạng kinh tế và hình thái chịu sự chi phối của nhiều gene cộng gộp.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B9 (Mục II.2), tr. 48
+
+### random dispersion
+- **Tiếng Việt:** Phân bố ngẫu nhiên
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A spatial distribution pattern in which each individual's position is independent of others without a fixed pattern, occurring where living conditions are relatively uniform and individuals do not compete intensely.
+- **Giải thích (VI):** Kiểu phân bố trong đó vị trí của mỗi cá thể trong quần thể không theo quy luật cố định, xuất hiện khi điều kiện sống phân bố tương đối đồng đều và giữa các cá thể không có sự cạnh tranh gay gắt.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 42 (Mục II.5): Phân biệt với phân bố đều và phân bố theo nhóm trong quần thể.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II.5), tr. 176; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục III), tr. 176
 
 ### random mating population
 - **Tiếng Việt:** Quần thể ngẫu phối
@@ -7563,6 +8440,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 11 (Mục II.1.b, III): Đại lượng định lượng mức độ hoán vị gene và đo khoảng cách tương đối trên bản đồ liên kết.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B11 (Mục II.1.b), tr. 57; SGK Sinh học 12 KNTT, Chương 02, B11 (Mục III.1), tr. 58; SGK Sinh học 12 KNTT, Bảng giải thích thuật ngữ, tr. 195
 
+### red blood cell
+- **Tiếng Việt:** Hồng cầu
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A type of blood cell containing red hemoglobin that transports oxygen and carbon dioxide throughout the body. Its cell membrane also carries specific surface antigens that determine blood groups.
+- **Giải thích (VI):** Loại tế bào máu chứa huyết sắc tố (hemoglobin) tạo màu đỏ cho máu, đảm nhận chức năng vận chuyển khí oxygen và carbon dioxide trong cơ thể. Bề mặt màng hồng cầu còn mang các kháng nguyên đặc trưng quyết định nhóm máu.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục I.1, I.3a, III.1): giải thích cơ chế vận chuyển khí, xác định hệ nhóm máu ABO và bệnh thiếu máu.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33, tr. 135; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.1), tr. 135; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.3.a), tr. 137
+
 ### red tide
 - **Tiếng Việt:** Thuỷ triều đỏ
 - **Chuyên ngành gốc:** Sinh học
@@ -7644,6 +8529,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 2 (Mục III.4.b): Cơ chế kết thúc dịch mã khi ribosome di chuyển tới bộ ba kết thúc trên mRNA.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.b), tr. 16
 
+### renal failure
+- **Tiếng Việt:** Bệnh suy thận
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A condition of impaired or lost kidney function resulting from causes such as diabetes mellitus, hypertension, blood loss, or other kidney diseases. Patients commonly experience nausea, fatigue, insomnia, edema, and high blood pressure.
+- **Giải thích (VI):** Tình trạng suy giảm hoặc mất chức năng hoạt động của thận do các nguyên nhân như đái tháo đường, tăng huyết áp, mất máu hoặc các bệnh lí khác về thận. Người bệnh thường có triệu chứng buồn nôn, mệt mỏi, mất ngủ, phù nề và huyết áp cao.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 35 (Mục II.3): Nguyên nhân, biểu hiện suy giảm chức năng lọc máu của thận và cơ sở ứng dụng ghép thận hoặc chạy thận nhân tạo.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35, tr. 146; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục I.2), tr. 147; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục II.1), tr. 147
+
 ### replacement fertility rate
 - **Tiếng Việt:** Tỉ lệ sinh thay thế
 - **Chuyên ngành gốc:** Sinh học
@@ -7719,6 +8612,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 21 (Mục IV.1, IV.2): Tiêu chuẩn cốt lõi xác nhận sự hình thành loài sinh học mới (khác khu vực địa lí hoặc cùng khu vực địa lí).
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B21 (Mục IV.1), tr. 109; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục IV.2.a), tr. 110; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục IV.2), tr. 112
 
+### reproductive system
+- **Tiếng Việt:** Hệ sinh dục
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The organ system responsible for perpetuating the species through reproduction. In humans, the male reproductive system primarily produces sperm, whereas the female reproductive system produces eggs and protects and nourishes the fetus until birth.
+- **Giải thích (VI):** Hệ cơ quan đảm nhận chức năng duy trì nòi giống thông qua quá trình sinh sản. Ở người, hệ sinh dục nam có chức năng chính là sản sinh tinh trùng, còn hệ sinh dục nữ sản sinh trứng, đồng thời bảo vệ và nuôi dưỡng thai nhi cho đến khi sinh ra.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 40 (Mục I): Khái quát cấu tạo và chức năng sinh sản ở người.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40, tr. 165; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục I), tr. 165; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục I.1), tr. 165
+
 ### reptile
 - **Tiếng Việt:** Lớp Bò sát (Bò sát)
 - **Chuyên ngành gốc:** Sinh học
@@ -7764,8 +8665,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The organ system responsible for gas exchange between the body and the external environment, consisting in humans of the airway and the two lungs. Through inhalation and exhalation, the respiratory system brings O₂-rich air into the lungs to supply cells and expels CO₂ from the blood to the outside environment.
 - **Giải thích (VI):** Hệ cơ quan đảm nhận chức năng trao đổi khí giữa cơ thể với môi trường ngoài, ở người bao gồm đường dẫn khí và hai lá phổi. Qua động tác hít vào và thở ra, hệ hô hấp đưa không khí giàu O₂ vào phổi để cung cấp cho tế bào và thải khí CO₂ từ máu ra ngoài môi trường.
-- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 28 (Mục III.2): cấu trúc tổng thể và cơ chế trao đổi khí của hệ hô hấp ở người.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.1), tr. 120; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.2), tr. 120; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.2), tr. 120, 121
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The human organ system comprising the airway (nose, pharynx, larynx, trachea, bronchi) and the two lungs containing numerous alveoli for gas exchange. Coordinated action of the airway and lungs ensures air ventilation, taking in O₂ from the environment and expelling CO₂ from the body. / VI: Hệ cơ quan ở người gồm đường dẫn khí (mũi, họng, thanh quản, khí quản, phế quản) và cơ quan trao đổi khí là hai lá phổi chứa nhiều phế nang. Sự phối hợp giữa đường dẫn khí và phổi đảm bảo chức năng lưu thông không khí, lấy khí O₂ từ môi trường và thải khí CO₂ ra khỏi cơ thể.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 7, Bài 28 (Mục III.2): cấu trúc tổng thể và cơ chế trao đổi khí của hệ hô hấp ở người.
+  - Khoa học tự nhiên lớp 8, Bài 34 (Mục I.1, I.2): phân tích cấu tạo thích nghi của đường dẫn khí và các phế nang trong trao đổi khí.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.1), tr. 120; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.2), tr. 120; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.2), tr. 120, 121; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34, tr. 142; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.1), tr. 142; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.2), tr. 143
+
+### respiratory tract infection
+- **Tiếng Việt:** Viêm đường hô hấp
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of inflammatory conditions affecting organs of the respiratory tract—such as rhinitis, pharyngitis, and bronchitis—primarily caused by inhaling polluted air containing microorganisms (bacteria or viruses) or harmful substances.
+- **Giải thích (VI):** Nhóm bệnh viêm nhiễm các cơ quan thuộc đường dẫn khí như viêm mũi, viêm họng, viêm phế quản, chủ yếu do hít phải không khí ô nhiễm chứa vi sinh vật (vi khuẩn, virus) hoặc các chất có hại.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 34 (Mục II.1): Tìm hiểu nguyên nhân và biện pháp phòng tránh các bệnh lí phổ biến ở đường dẫn khí.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.2), tr. 143; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.2.a), tr. 143; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.2.b), tr. 143
 
 ### response to stimuli
 - **Tiếng Việt:** Cảm ứng ở sinh vật (cảm ứng)
@@ -7843,6 +8755,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hợp chất hữu cơ đóng vai trò là chất nhận CO₂ đầu tiên trong chu trình Calvin để tạo thành 3-PGA, đồng thời được tái tạo liên tục từ một phần G3P sinh ra trong chu trình.
 - **Bối cảnh:** Sinh học lớp 11, Bài 4 (Mục II.2.a): Chất nhận CO₂ đầu tiên và được tái tạo ở cuối chu trình C₃.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B4 (Mục II.2.a), tr. 29
+
+### ringworm
+- **Tiếng Việt:** Bệnh hắc lào
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A fungal skin disease that commonly occurs in hot, humid environments, causing round, scaly skin lesions and itching around the buttocks, groin, and armpits.
+- **Giải thích (VI):** Bệnh ngoài da do nấm gây ra, thường xảy ra trong điều kiện môi trường nóng ẩm, làm xuất hiện các vùng da tổn thương có dạng tròn, đóng vảy và ngứa ở vùng mông, bẹn, nách.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 39 (Mục I.2a): Nhận biết triệu chứng tổn thương da dạng vòng do nấm và cách giữ vệ sinh phòng bệnh ngoài da.
+  - *Lưu ý:* Phân biệt với bệnh lang ben (cũng do nấm gây ra trong môi trường nóng ẩm nhưng biểu hiện thành các vùng da lốm đốm trắng hơn bình thường).
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.1.b), tr. 161; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.2.a), tr. 161; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.2.b), tr. 161
 
 ### RNA
 - **Tiếng Việt:** Ribonucleic acid (RNA)
@@ -7985,8 +8907,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A group of plants with a lower light requirement, adapted to grow and photosynthesize in shaded habitats or under weak light (such as wild betel and betel pepper).
 - **Giải thích (VI):** Nhóm thực vật có nhu cầu ánh sáng thấp hơn, thích nghi sống và quang hợp ở những nơi bóng râm hoặc có ánh sáng yếu (như lá lốt, trầu không).
-- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 23 (Mục I.1): phân loại thực vật theo nhu cầu ánh sáng và ứng dụng chọn cây cảnh trồng trong nhà, đối lập với cây ưa sáng.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B23, tr. 104; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B23 (Mục I.1), tr. 104
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A group of plants adapted to low light or diffuse illumination that typically grow better beneath the canopy of other plants than in open areas. / VI: Nhóm thực vật thích nghi với điều kiện chiếu sáng yếu hoặc ánh sáng tán xạ, thường sinh trưởng tốt dưới tán các cây khác hơn là ở nơi trống trải.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 7, Bài 23 (Mục I.1): phân loại thực vật theo nhu cầu ánh sáng và ứng dụng chọn cây cảnh trồng trong nhà, đối lập với cây ưa sáng.
+  - Khoa học tự nhiên lớp 8, Bài 41 (Mục II.2.a): Giải thích cơ sở trồng xen canh hoặc trồng cây dưới tán rừng; đối lập với cây ưa sáng.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B23, tr. 104; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B23 (Mục I.1), tr. 104; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục II.2.a), tr. 172; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục II.2.b), tr. 172; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục III), tr. 172
 
 ### secondary growth
 - **Tiếng Việt:** Sinh trưởng thứ cấp
@@ -8098,6 +9023,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 25 (Mục I.2.a, I.2.b) và Bảng giải thích thuật ngữ: Tiêu chuẩn chọn vật liệu cành trong nhân giống vô tính cây trồng.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B25 (Mục I.2.a), tr. 160; SGK Sinh học 11 KNTT, Chương 04, B25 (Mục I.2.b), tr. 160; SGK Sinh học 11 KNTT, Bảng giải thích thuật ngữ, tr. 187
 
+### sense
+- **Tiếng Việt:** Giác quan
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** One of the five physiological faculties in humans—vision, hearing, touch, taste, and smell—that enable the body to detect external and internal stimuli and adapt to the surrounding environment.
+- **Giải thích (VI):** Hệ thống thu nhận cảm giác ở người (gồm năm giác quan là thị giác, thính giác, xúc giác, vị giác và khứu giác) giúp cơ thể nhận biết các kích thích từ bên ngoài hoặc bên trong, đảm bảo cho cơ thể thích nghi với môi trường xung quanh.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 37 (Mục II): Vai trò chung của các giác quan trong tiếp nhận kích thích giúp cơ thể thích nghi với môi trường.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục I.2.a), tr. 153; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục I.2.b), tr. 153; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II), tr. 153
+
 ### sensory receptor
 - **Tiếng Việt:** Thụ thể cảm giác
 - **Chuyên ngành gốc:** Sinh học
@@ -8135,8 +9068,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The proportional ratio of male to female individuals within a population, typically approximating 1 : 1 in nature though subject to variation depending on species traits, developmental stage, and environmental conditions such as temperature or nutrition. In sexually reproducing species, this characteristic indicates the reproductive potential of the population.
 - **Giải thích (VI):** Tương quan tỉ lệ giữa số lượng cá thể đực và số lượng cá thể cái trong quần thể, thường xấp xỉ 1 : 1 trong tự nhiên nhưng có thể biến đổi tuỳ thuộc vào đặc điểm loài, giai đoạn phát triển và các yếu tố môi trường như nhiệt độ hay dinh dưỡng. Ở các loài sinh sản hữu tính, đặc trưng này biểu thị tiềm năng sinh sản của quần thể.
-- **Bối cảnh:** Sinh học lớp 12, Bài 24 (Mục II.4): Đặc trưng cơ bản của quần thể phản ánh tiềm năng sinh sản và được ứng dụng trong chăn nuôi, bảo tồn và nghiên cứu dân số.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B24 (Mục II.4), tr. 132; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục V.1), tr. 136
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The ratio between the number of male individuals and the number of female individuals within a population. It is a key characteristic ensuring reproductive efficiency and may vary over time or with living conditions. / VI: Tỉ lệ giữa số lượng cá thể đực và số lượng cá thể cái trong quần thể. Đây là đặc trưng quan trọng bảo đảm hiệu quả sinh sản của quần thể và có thể thay đổi theo thời gian hoặc điều kiện sống.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 24 (Mục II.4): Đặc trưng cơ bản của quần thể phản ánh tiềm năng sinh sản và được ứng dụng trong chăn nuôi, bảo tồn và nghiên cứu dân số.
+  - Khoa học tự nhiên lớp 8, Bài 42 (Mục II.3): Đặc trưng đánh giá tiềm năng sinh sản của quần thể và ứng dụng trong chăn nuôi.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B24 (Mục II.4), tr. 132; SGK Sinh học 12 KNTT, Chương 06, B24 (Mục V.1), tr. 136; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II), tr. 174; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II.1), tr. 175; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II.2), tr. 175
 
 ### sex-linked inheritance
 - **Tiếng Việt:** Di truyền liên kết với giới tính
@@ -8253,6 +9189,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 10 (Mục III.2.a): Cấu trúc chủ nhịp phát xung điện trong hệ dẫn truyền tim.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B10 (Mục III.2.a), tr. 64
 
+### skeleton
+- **Tiếng Việt:** Bộ xương
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The supporting framework of the body consisting of approximately 206 bones in an adult human, divided into skull bones, trunk bones, and limb bones. Bones are composed of minerals for rigidity and organic matter for flexibility, maintaining body shape and protecting internal structures.
+- **Giải thích (VI):** Khung nâng đỡ của cơ thể gồm khoảng 206 xương ở người trưởng thành, chia thành ba phần là xương đầu, xương thân và xương chi. Xương cấu tạo từ chất khoáng tạo độ bền chắc và chất hữu cơ tạo tính mềm dẻo, giúp định hình và bảo vệ cơ thể.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 31 (Mục I.1, I.2): phân loại các phần của bộ xương và giải thích vai trò của thành phần hoá học trong xương.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31, tr. 125; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31 (Mục I.1), tr. 125; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31 (Mục I.2), tr. 125
+
+### skin
+- **Tiếng Việt:** Da
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The outer covering of the human body composed of the epidermis, dermis, and subcutaneous fat layer. The skin protects the body against adverse environmental factors, participates in thermoregulation, detects environmental stimuli via sensory receptors, and performs excretion through sweat glands.
+- **Giải thích (VI):** Lớp vỏ bọc bên ngoài cơ thể người có cấu tạo gồm lớp biểu bì, lớp bì và lớp mỡ dưới da. Da thực hiện chức năng bảo vệ cơ thể chống lại các yếu tố bất lợi của môi trường, tham gia điều hoà thân nhiệt, nhận biết kích thích nhờ thụ quan và bài tiết qua tuyến mồ hôi.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 39 (Mục I.1a, I.1b): Cấu tạo ba lớp của da và vai trò bảo vệ, cảm giác, bài tiết, điều hoà thân nhiệt ở người.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39, tr. 160; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.1.a), tr. 160; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.1.b), tr. 161
+
+### skin grafting
+- **Tiếng Việt:** Ghép da
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A medical procedure in which a piece of skin is taken from one area of the body and moved or transplanted to another area that needs it, helping treat severe skin damage caused by burns or skin infections.
+- **Giải thích (VI):** Phương pháp y học lấy một phần da trên cơ thể để di chuyển hoặc cấy ghép đến vùng khác trên cơ thể cần chúng, giúp cứu chữa các trường hợp da bị tổn thương nặng do bỏng hoặc nhiễm trùng da.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 39 (Mục I.3): Ứng dụng thành tựu chăm sóc, bảo vệ và phục hồi da bị tổn thương trong y học.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.2.b), tr. 162; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.3), tr. 162; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục II.1), tr. 162
+
 ### small interfering RNA
 - **Tiếng Việt:** siRNA (RNA can thiệp nhỏ)
 - **Chuyên ngành gốc:** Sinh học
@@ -8301,6 +9261,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 10 (Mục II.2): Ví dụ điển hình về protein bơm sử dụng năng lượng ATP trong vận chuyển chủ động qua màng tế bào.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 03, B10 (Mục II.2), tr. 68
 
+### soil environment
+- **Tiếng Việt:** Môi trường trong đất
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** One of the four primary living environments of organisms, consisting of subterranean soil layers inhabited by soil-dwelling organisms.
+- **Giải thích (VI):** Một trong bốn loại môi trường sống chủ yếu của sinh vật, bao gồm các lớp đất trong lòng đất nơi các sinh vật đất cư trú.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 41 (Mục I.2): Phân loại các môi trường sống chủ yếu; phân biệt với môi trường trên cạn, môi trường nước và môi trường sinh vật.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục I.2), tr. 171; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục II.1), tr. 171
+
 ### somatic cell hybridization
 - **Tiếng Việt:** Lai tế bào sinh dưỡng
 - **Chuyên ngành gốc:** Sinh học
@@ -8308,6 +9276,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Kĩ thuật dung hợp hai tế bào sinh dưỡng thuộc hai loài thực vật khác nhau sau khi đã loại bỏ thành cellulose để tạo tế bào lai, rồi nuôi cấy tế bào lai trong môi trường đặc biệt cho phân chia và tái sinh thành cây lai khác loài. Kĩ thuật này tạo ra giống cây mới mang đặc điểm của cả hai loài mà phương pháp lai tạo thông thường không thực hiện được.
 - **Bối cảnh:** Sinh học lớp 10, Bài 19 (Mục II.3.b): Một trong ba kĩ thuật chủ yếu của công nghệ tế bào thực vật dùng tạo cây lai khác loài.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B19 (Mục II.3), tr. 113; SGK Sinh học 10 KNTT, Chương 05, B19 (Mục II.3.b), tr. 114
+
+### sound reception in the ear
+- **Tiếng Việt:** Quá trình thu nhận âm thanh ở tai
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The mechanism of sound perception via sound-wave transmission: the pinna collects sound waves through the ear canal to vibrate the eardrum, acting on the ossicles to vibrate membranes and fluid in the cochlea, which excites sound receptors to send nerve impulses along the auditory nerve to the brain.
+- **Giải thích (VI):** Cơ chế thu nhận âm thanh theo sự truyền sóng âm: vành tai hứng âm thanh truyền qua ống tai làm rung màng nhĩ, tác động vào chuỗi xương tai làm rung các màng và dịch trong ốc tai, gây hưng phấn cơ quan thụ cảm làm xuất hiện xung thần kinh đi theo dây thần kinh thính giác về não.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 37 (Mục II.2a): Sơ đồ dẫn truyền rung động âm thanh từ vành tai đến cơ quan thụ cảm ở ốc tai và lên não.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.c), tr. 155; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.2.a), tr. 155; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.2.a), tr. 155, 156
 
 ### spatial structure (ecology)
 - **Tiếng Việt:** Cấu trúc không gian
@@ -8370,6 +9346,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quá trình hình thành giao tử đực (tinh trùng) diễn ra trong ống sinh tinh của hai tinh hoàn, bắt đầu từ tinh nguyên bào trải qua nguyên phân và giảm phân. Ở người, quá trình từ tinh nguyên bào tạo thành tinh trùng mất khoảng 64 ngày với sản lượng khoảng 120 triệu tinh trùng mỗi ngày và giảm dần theo tuổi.
 - **Bối cảnh:** Sinh học lớp 11, Bài 27 (Mục II.2.a): Quá trình tạo tinh trùng từ tinh nguyên bào trong ống sinh tinh ở người và động vật.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.2.a), tr. 172, 173
+
+### sphygmomanometer
+- **Tiếng Việt:** Huyết áp kế (huyết áp kế đồng hồ)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A medical instrument used to measure arterial blood pressure, commonly including aneroid and mercury sphygmomanometers. An aneroid sphygmomanometer consists of an inflatable rubber bladder inside a cloth cuff wrapped around the arm, connected via rubber tubing to a dial manometer and a rubber bulb with a release valve.
+- **Giải thích (VI):** Thiết bị y tế dùng để đo huyết áp của cơ thể, phổ biến gồm huyết áp kế đồng hồ và huyết áp kế thuỷ ngân. Huyết áp kế đồng hồ gồm bao cao su bọc trong băng vải quấn quanh cánh tay, nối qua ống cao su với áp kế đồng hồ và quả bóp cao su có van điều chỉnh.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 1 (Mục III.2): Giới thiệu cấu tạo và thao tác sử dụng huyết áp kế đồng hồ phục vụ thực hành đo huyết áp ở người.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.2), tr. 8
+
+### spinal curvature disorder
+- **Tiếng Việt:** Tật cong vẹo cột sống
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A deformity in which the spine loses its normal alignment, with vertebrae rotated laterally or curved excessively forward or backward. It commonly results from prolonged improper posture, frequent heavy lifting, trauma, or rickets.
+- **Giải thích (VI):** Tình trạng biến dạng khiến cột sống mất trạng thái bình thường, các đốt sống bị xoay lệch sang một bên hoặc cong quá mức về phía trước hay phía sau. Tình trạng này thường phát sinh do tư thế sinh hoạt sai kéo dài, mang vác nặng thường xuyên, tai nạn hoặc bệnh còi xương.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 31 (Mục II.1): nhận biết nguyên nhân và đề xuất biện pháp rèn luyện tư thế đúng để phòng tránh tật học đường.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31 (Mục I.2), tr. 126; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31 (Mục II.1), tr. 126; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31 (Mục II.2), tr. 126
 
 ### spindle apparatus
 - **Tiếng Việt:** Thoi phân bào
@@ -8550,6 +9542,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 2 (Mục III.4.a, III.4.b) và Bài 4 (Mục III.2): Tín hiệu dừng dịch mã trên mRNA; đột biến làm xuất hiện bộ ba kết thúc sớm có thể làm thay đổi kiểu hình sinh vật.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.a), tr. 14; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.b), tr. 15, 16; SGK Sinh học 12 KNTT, Chương 01, B4 (Mục III.2), tr. 25
 
+### stroke
+- **Tiếng Việt:** Đột quỵ
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A life-threatening medical emergency occurring when blood supply to the brain is abruptly interrupted, such as by a blood clot occluding a cerebral artery. Typical sudden warning signs include limb numbness, facial drooping, speech difficulty, severe headache, loss of balance, or coma.
+- **Giải thích (VI):** Tình trạng cấp cứu y khoa nguy hiểm xảy ra khi dòng máu nuôi não bị gián đoạn đột ngột, chẳng hạn do cục máu đông làm tắc động mạch não. Người bị đột quỵ thường xuất hiện đột ngột các dấu hiệu như tê bì tay chân, méo miệng, mất khả năng nói, đau đầu dữ dội, mất thăng bằng hoặc hôn mê.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 33 (Mục III.3, IV.3b): nhận biết sớm dấu hiệu đột quỵ và thực hiện sơ cứu ban đầu đúng cách.
+  - *Lưu ý:* Thuật ngữ y học chỉ tai biến mạch máu não (cerebrovascular stroke), phân biệt với kì hoặc hành trình pít-tông (stroke) của động cơ đốt trong.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục III.3), tr. 139; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục IV.1), tr. 139; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục IV.3.a), tr. 140
+
 ### stroke volume
 - **Tiếng Việt:** Thể tích tâm thu
 - **Chuyên ngành gốc:** Sinh học
@@ -8713,6 +9715,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 37 (Mục II): Vận dụng các chất điều hoà sinh trưởng nhân tạo nhằm tăng năng suất nông nghiệp đi đôi với bảo đảm an toàn thực phẩm.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 09, B37 (Mục II.b), tr. 153, 154
 
+### syphilis
+- **Tiếng Việt:** Bệnh giang mai
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A sexually transmitted infection caused by the spirochete bacterium Treponema pallidum, transmitted through unprotected sexual contact or from mother to child. Patients typically develop genital ulcers and, in later stages, may suffer damage to the heart, liver, and nervous system.
+- **Giải thích (VI):** Bệnh lây truyền qua đường sinh dục do xoắn khuẩn Treponema pallidum gây ra, xâm nhập qua quan hệ tình dục không an toàn hoặc truyền từ mẹ sang con. Người bệnh thường xuất hiện vết loét ở cơ quan sinh dục và ở giai đoạn muộn có thể bị tổn thương tim, gan, hệ thần kinh.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 40 (Mục IV.1): Tác nhân, triệu chứng và đường lây của các bệnh lây truyền qua đường sinh dục.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục IV.1), tr. 168; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục IV.2), tr. 168; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B40 (Mục IV.2), tr. 168, 169
+
 ### systemic circulation
 - **Tiếng Việt:** Vòng tuần hoàn lớn
 - **Chuyên ngành gốc:** Sinh học
@@ -8760,6 +9770,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cảm giác tiếp xúc giúp động vật nhận biết các đặc tính bề mặt, hình dạng và kích thước của vật (như trơn nhẵn, thô ráp, tròn vuông, to nhỏ). Giác quan này khởi phát các phản ứng thích hợp như giữ vật chính xác, tránh trượt ngã, lựa chọn thức ăn hoặc phản xạ nuốt khi thức ăn trong khoang miệng đã được nghiền nhỏ và tạo viên.
 - **Bối cảnh:** Sinh học lớp 11, Bài 17 (Mục III.3, Bảng 17.2): Một trong năm giác quan cơ bản ở động vật, phối hợp chặt chẽ với hệ vận động và tiêu hoá.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B17 (Mục III.3), tr. 107
+
+### target organ
+- **Tiếng Việt:** Cơ quan đích
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A specific organ or endocrine gland acted upon by a particular hormone because its cells possess specific receptors to receive that hormone (for example, the thyroid gland is the target organ of TSH secreted by the pituitary gland).
+- **Giải thích (VI):** Cơ quan hoặc tuyến nội tiết chịu tác động xác định của một loại hormone nhờ các tế bào mang thụ thể đặc hiệu tiếp nhận hormone đó (ví dụ: tuyến giáp là cơ quan đích của hormone TSH do tuyến yên tiết ra).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 38 (Mục I): Giải thích tính đặc hiệu tác dụng của từng loại hormone dù cùng được vận chuyển chung trong máu.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195, 196; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I), tr. 157
 
 ### targeted drug
 - **Tiếng Việt:** Thuốc hướng đích
@@ -8844,6 +9862,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 2 (Mục I.2, III.1): Vùng cuối trong ba vùng cấu trúc của gene mang tín hiệu dừng phiên mã, cần phân biệt với bộ ba kết thúc dừng dịch mã trên mRNA.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục I.2), tr. 9; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.1), tr. 11
 
+### terrestrial biome
+- **Tiếng Việt:** Khu sinh học trên cạn
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of land-based biomes determined by the climatic characteristics (temperature and moisture) of each geographic region with specifically adapted organisms, ranging from polar to tropical zones such as tundra, boreal coniferous forest, temperate forest, temperate grassland, savanna, desert, and tropical rainforest.
+- **Giải thích (VI):** Nhóm khu sinh học phân bố trên đất liền theo đặc tính khí hậu (nhiệt độ, độ ẩm) của mỗi vùng địa lí với các sinh vật thích nghi đặc trưng, trải dài từ vùng cực đến vùng nhiệt đới như đồng rêu hàn đới, rừng lá kim phương bắc, rừng ôn đới, đồng cỏ ôn đới, savan, sa mạc và rừng mưa nhiệt đới.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 45 (Mục II.1): Các khu sinh học chính phân bố trên đất liền theo vĩ độ và điều kiện nhiệt ẩm.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II), tr. 186; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.1), tr. 186
+
+### terrestrial environment
+- **Tiếng Việt:** Môi trường trên cạn (môi trường cạn)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** One of the four primary living environments of organisms, comprising the land surface and the surrounding atmosphere.
+- **Giải thích (VI):** Một trong bốn loại môi trường sống chủ yếu của sinh vật, bao gồm bề mặt đất và lớp khí quyển bao quanh Trái Đất.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 41 (Mục I.2): Phân loại các môi trường sống chủ yếu; phân biệt với môi trường nước, môi trường trong đất và môi trường sinh vật.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục I.2), tr. 171; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B41 (Mục II.1), tr. 171
+
 ### territoriality
 - **Tiếng Việt:** Bảo vệ lãnh thổ (tập tính bảo vệ lãnh thổ)
 - **Chuyên ngành gốc:** Sinh học
@@ -8884,6 +9918,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 17 (Mục III.2, Bảng 17.1) và Bài 18 (Mục I.2): Thụ thể tham gia trực tiếp vào các phản xạ và tập tính điều hoà thân nhiệt ở động vật.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B17 (Mục III.2), tr. 107
 
+### thermoregulation
+- **Tiếng Việt:** Điều hoà thân nhiệt
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The physiological process of maintaining body temperature stable around a set value so that life processes proceed normally. This process is directed primarily by the nervous system, with the skin playing the most important role through vasodilation or vasoconstriction, sweating, and piloerection, alongside shivering in cold conditions.
+- **Giải thích (VI):** Quá trình duy trì thân nhiệt ổn định quanh một giá trị nhất định để các hoạt động sống trong cơ thể diễn ra bình thường. Hoạt động này do hệ thần kinh giữ vai trò chủ đạo và da giữ vai trò quan trọng nhất thông qua sự co dãn mạch máu dưới da, tiết mồ hôi, co dãn cơ chân lông kết hợp với phản xạ run khi trời lạnh.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 39 (Mục II.2): Cơ chế phối hợp giữa hệ thần kinh và da nhằm giữ ổn định nhiệt độ cơ thể khi môi trường thay đổi.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.1.b), tr. 161; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.2.b), tr. 162; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.3), tr. 162
+
 ### thigmotropism
 - **Tiếng Việt:** Hướng tiếp xúc (Cảm ứng hướng tiếp xúc; tính hướng tiếp xúc)
 - **Chuyên ngành gốc:** Sinh học
@@ -8905,6 +9947,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 10, Bài 8 (Mục II.9): Hệ thống túi màng quang hợp bên trong lục lạp.
   - Sinh học lớp 11, Bài 4 (Mục I.3.b, II): Cấu trúc màng trong lục lạp nơi phân bố hệ sắc tố quang hợp và diễn ra pha sáng.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.9), tr. 53; SGK Sinh học 11 KNTT, Chương 01, B4 (Mục I.3.b), tr. 27; SGK Sinh học 11 KNTT, Chương 01, B4 (Mục II), tr. 28
+
+### thyroid gland
+- **Tiếng Việt:** Tuyến giáp
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An endocrine gland that secretes iodine-containing thyroxine (TH), which plays a vital role in cellular metabolism and energy conversion, and calcitonin, which participates in regulating blood calcium and phosphorus levels.
+- **Giải thích (VI):** Tuyến nội tiết tiết ra hormone thyroxine (TH) chứa iodine có vai trò quan trọng đối với quá trình trao đổi chất và chuyển hoá năng lượng trong tế bào, đồng thời tiết hormone calcitonin tham gia điều hoà calcium và phosphorus trong máu.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 38 (Mục I.2): Chức năng chuyển hoá của tuyến giáp và cơ sở giải thích vai trò của iodine trong khẩu phần ăn.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.1), tr. 158; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.2), tr. 158; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B38 (Mục I.3), tr. 158
 
 ### thyroxine
 - **Tiếng Việt:** Thyroxine
@@ -8929,6 +9979,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Kiểu mối nối giữa các tế bào động vật, trong đó các tế bào cạnh nhau được ghép sát bằng các loại protein đặc biệt khiến các chất không thể lọt qua khe hở giữa các tế bào. Cấu trúc này buộc các chất phải đi qua màng sinh chất (như ở tế bào niêm mạc ruột), giúp tế bào chọn lọc chất cần thiết và tránh hấp thụ chất có hại.
 - **Bối cảnh:** Sinh học lớp 10, Bài 8 (Mục II.14.b): Liên kết giữa các tế bào động vật trong mô, điển hình ở tế bào niêm mạc ruột người.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14.b), tr. 58
+
+### tinea versicolor
+- **Tiếng Việt:** Bệnh lang ben
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A fungal skin disease that commonly occurs in hot, humid environments and produces mottled patches of skin lighter than normal.
+- **Giải thích (VI):** Bệnh ngoài da do nấm gây ra, thường xảy ra trong điều kiện môi trường nóng ẩm và tạo ra các vùng da lốm đốm trắng hơn bình thường.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 39 (Mục I.2a): Nhận biết bệnh nấm da gây đốm trắng và biện pháp vệ sinh cá nhân phòng tránh.
+  - *Lưu ý:* Phân biệt với bệnh hắc lào (tổn thương da có dạng tròn, đóng vảy và ngứa nhiều).
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.1.b), tr. 161; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.2.a), tr. 161; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B39 (Mục I.2.b), tr. 161
+
+### tinnitus
+- **Tiếng Việt:** Bệnh ù tai
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An auditory condition in which a person cannot hear sounds clearly and constantly perceives a buzzing sound in the ear, resulting from loud noise exposure, explosions, earwax blockage, foreign objects in the ear, or cerebral ischemia.
+- **Giải thích (VI):** Tình trạng rối loạn thính giác khiến người bệnh không nghe rõ âm thanh và luôn nghe thấy tiếng “ù ù” trong tai, do làm việc trong môi trường tiếng ồn lớn, nghe tiếng bom mìn nổ, ráy tai nhiều gây tắc nghẽn, có dị vật ở tai hoặc thiếu máu não.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 37 (Mục II.2b): Tác hại của ô nhiễm tiếng ồn và các tổn thương tai dẫn đến suy giảm khả năng nghe.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.2.a), tr. 156; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.2.b), tr. 156; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.2), tr. 156
 
 ### tissue
 - **Tiếng Việt:** Mô
@@ -9224,6 +10292,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 22 (Mục II): Phân biệt với cơ thể đa bào dựa vào số lượng tế bào cấu tạo nên cơ thể.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 06, B22 (Mục I), tr. 76; SGK Khoa học tự nhiên 6 KNTT, Chương 06, B22 (Mục II), tr. 76; SGK Khoa học tự nhiên 6 KNTT, Chương 06, B22 (Mục II), tr. 76, 77
 
+### uniform dispersion
+- **Tiếng Việt:** Phân bố đều
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A spatial distribution pattern in which individuals of a population are evenly spaced, occurring where living conditions are uniformly distributed and intense competition exists among individuals.
+- **Giải thích (VI):** Kiểu phân bố trong đó các cá thể của quần thể sắp xếp cách đều nhau trong không gian, xuất hiện khi điều kiện sống phân bố đồng đều và giữa các cá thể có sự cạnh tranh gay gắt.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 42 (Mục II.5): Phân biệt với phân bố theo nhóm và phân bố ngẫu nhiên trong quần thể.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II.5), tr. 176; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục III), tr. 176
+
 ### unisexual flower
 - **Tiếng Việt:** Hoa đơn tính
 - **Chuyên ngành gốc:** Sinh học
@@ -9243,6 +10319,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 2 (Mục III.4.a): Đặc điểm dùng chung của mã di truyền ở sinh giới và ngoại lệ ở DNA ti thể người.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.a), tr. 14
 
+### urinary system
+- **Tiếng Việt:** Hệ bài tiết nước tiểu
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The human organ system responsible for filtering blood to form and excrete urine, consisting of two kidneys, ureters, urinary bladder, and urethra, among which the kidneys play the most vital role.
+- **Giải thích (VI):** Hệ cơ quan thực hiện chức năng lọc máu tạo thành và thải nước tiểu ở người, cấu tạo gồm hai quả thận, ống dẫn nước tiểu, bóng đái và ống đái, trong đó thận giữ vai trò quan trọng nhất.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 35 (Mục I.2): Cấu tạo giải phẫu các cơ quan tham gia tạo và dẫn thải nước tiểu ở người.
+  - *Lưu ý:* Là bộ phận trọng tâm của hệ bài tiết, phân biệt với các cơ quan bài tiết khác như phổi (thải khí CO₂) và da (thải mồ hôi).
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35, tr. 146; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục I.1), tr. 146; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B35 (Mục I.2), tr. 146
+
 ### vaccine
 - **Tiếng Việt:** Vaccine
 - **Chuyên ngành gốc:** Sinh học
@@ -9250,11 +10336,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chế phẩm sinh học dùng để phòng ngừa hiệu quả các bệnh truyền nhiễm (như bệnh do virus), trong đó một phương thức sản xuất là biến đổi chủng virus gây bệnh rồi đưa vào cơ thể người hoặc vật nuôi nhằm kích thích tạo kháng thể chống lại tác nhân gây bệnh khi bị tấn công.
 - **Giải thích khác (SGK Sinh học 11):** EN: A biological preparation (typically an injectable solution) containing processed, non-pathogenic antigens such as killed or attenuated bacteria and viruses, recombinant antigenic proteins, or pathogen protein-encoding genes and RNA. Vaccination actively induces a primary immune response and establishes immunological memory to prevent infectious diseases in humans and livestock. / VI: Chế phẩm sinh học (thường ở dạng dung dịch tiêm) chứa kháng nguyên đã được xử lí không còn khả năng gây bệnh, chẳng hạn vi khuẩn, virus đã chết hoặc suy yếu, protein kháng nguyên tái tổ hợp hay gene, RNA mã hoá protein của mầm bệnh. Tiêm chủng vaccine giúp chủ động kích thích đáp ứng miễn dịch nguyên phát và hình thành trí nhớ miễn dịch để phòng bệnh ở người và vật nuôi.
 - **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A biological preparation produced from killed or weakened pathogenic bacteria or viruses, administered into the body to help it recognize pathogens in advance and actively prevent infectious diseases. / VI: Chế phẩm sinh học tạo ra từ chính những vi khuẩn hoặc virus gây bệnh đã chết hoặc được làm suy yếu, đưa vào cơ thể nhằm giúp cơ thể nhận diện trước mầm bệnh và chủ động phòng tránh các bệnh truyền nhiễm.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A biological preparation containing killed or weakened pathogens used to induce artificial immunity in the body. Once administered, a vaccine stimulates white blood cells to produce antibodies that persist in the blood to provide specific protection against the corresponding disease. / VI: Chế phẩm sinh học chứa mầm bệnh đã chết hoặc suy yếu dùng để tạo miễn dịch nhân tạo cho cơ thể. Khi đưa vào cơ thể, vaccine kích thích tế bào bạch cầu tạo ra kháng thể tồn tại trong máu giúp phòng ngừa đặc hiệu bệnh tương ứng.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 25 (Mục II.2, III.1): Thành tựu ứng dụng nghiên cứu virus quan trọng nhất trong y học và thú y nhằm chủ động phòng chống dịch bệnh truyền nhiễm.
   - Sinh học lớp 11, Bài 12 (Mục IV.4): Ứng dụng cơ chế trí nhớ miễn dịch để chủ động phòng các bệnh truyền nhiễm do virus và vi khuẩn.
   - Khoa học tự nhiên lớp 6, Bài 29 (Mục IV.2): Biện pháp chủ động và hữu hiệu nhất để phòng ngừa các bệnh truyền nhiễm do virus và vi khuẩn.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 07, B25 (Mục II.2.c), tr. 150; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục III.1), tr. 152; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục III.3), tr. 154; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.4), tr. 77; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục V.3), tr. 79; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B29 (Mục III), tr. 99; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B29 (Mục IV.2), tr. 101
+  - Khoa học tự nhiên lớp 8, Bài 33 (Mục I.2b): giải thích cơ chế tác dụng và ý nghĩa của tiêm phòng vaccine.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 07, B25 (Mục II.2.c), tr. 150; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục III.1), tr. 152; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục III.3), tr. 154; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.4), tr. 77; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục V.3), tr. 79; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B29 (Mục III), tr. 99; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B29 (Mục IV.2), tr. 101; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.2.a), tr. 136; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.2.b), tr. 136; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196
 
 ### vacuole
 - **Tiếng Việt:** Không bào
@@ -9298,6 +10386,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nhóm thực vật có rễ, thân, lá thật và trong cơ thể có hệ mạch dẫn, bao gồm thực vật không hạt (ngành Dương xỉ) và thực vật có hạt (ngành Hạt trần, ngành Hạt kín).
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 34 (Mục II.2): Nhóm phân loại lớn của giới Thực vật, phân biệt với thực vật không có mạch (ngành Rêu).
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II), tr. 117; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.1), tr. 117; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 117, 118
+
+### vascular system
+- **Tiếng Việt:** Hệ mạch
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The closed tubular network of blood vessels in the body comprising arteries, capillaries, and veins. Arteries carry blood from the heart to capillary beds for the exchange of water, gases, and solutes with cells, after which veins return blood to the heart.
+- **Giải thích (VI):** Hệ thống ống dẫn máu khép kín trong cơ thể gồm động mạch, mao mạch và tĩnh mạch. Động mạch dẫn máu từ tim đến lưới mao mạch để thực hiện trao đổi nước, chất khí và các chất với tế bào, sau đó tĩnh mạch dẫn máu trở về tim.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 33 (Mục II.1, IV.3): phân biệt chức năng của ba loại mạch máu và vận dụng trong sơ cứu cầm máu.
+  - *Lưu ý:* Trong giải phẫu người, hệ mạch chỉ hệ thống mạch máu (blood vascular system), phân biệt với hệ mạch dẫn (xylem và phloem) ở thực vật có mạch.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.3.a), tr. 137; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.3.b), tr. 137; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục II.1), tr. 137, 138
 
 ### vector (molecular biology)
 - **Tiếng Việt:** Vector (thể truyền)
@@ -9449,8 +10547,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The light-sensing modality originating in the eye that enables animals to perceive the image and color of objects. Light passing through the eye's refractive media (cornea, aqueous humor, lens, and vitreous humor) stimulates rod and cone cells in the retina, generating nerve impulses transmitted via bipolar and ganglion cells along the optic nerve to the visual cortex in the occipital lobe.
 - **Giải thích (VI):** Cảm giác ánh sáng khởi đầu từ mắt giúp động vật cảm nhận hình ảnh và màu sắc của vật. Ánh sáng đi qua hệ khúc xạ của mắt (giác mạc, thuỷ dịch, thuỷ tinh thể, dịch kính) kích thích tế bào que và tế bào nón ở màng lưới, làm phát sinh xung thần kinh truyền qua tế bào lưỡng cực, tế bào hạch rồi theo dây thần kinh thị giác về vùng thị giác ở thuỳ chẩm vỏ não.
-- **Bối cảnh:** Sinh học lớp 11, Bài 17 (Mục III.4): Cơ chế thu nhận, chuyển đổi và dẫn truyền tín hiệu ánh sáng từ cầu mắt về vỏ não.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B17 (Mục III.4), tr. 107
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The sensory system consisting of the eyes, optic nerves, and visual region in the brain, functioning to observe and capture images and colors of objects and phenomena for the brain to recognize and process. / VI: Giác quan có cấu tạo gồm mắt, dây thần kinh thị giác và vùng thị giác ở não, thực hiện chức năng quan sát, thu nhận hình ảnh và màu sắc của sự vật, hiện tượng giúp não nhận biết và xử lí thông tin.
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 17 (Mục III.4): Cơ chế thu nhận, chuyển đổi và dẫn truyền tín hiệu ánh sáng từ cầu mắt về vỏ não.
+  - Khoa học tự nhiên lớp 8, Bài 37 (Mục II.1a): Cấu tạo và chức năng thu nhận, xử lí thông tin hình ảnh ở người.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B17 (Mục III.4), tr. 107; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục I.2.a), tr. 153; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục I.2.b), tr. 153; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II), tr. 153
 
 ### vitamin
 - **Tiếng Việt:** Vitamin
@@ -9502,6 +10603,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Kĩ thuật làm tiêu bản hiển vi có thao tác đơn giản và tiến hành nhanh bằng cách đặt mẫu trên lam kính đậy lamen hoặc dùng lam kính lõm nhằm quan sát trạng thái sống và khả năng di động của tế bào vi khuẩn.
 - **Bối cảnh:** Sinh học lớp 10, Bài 20 (Mục III.1): Kĩ thuật làm tiêu bản không cố định dùng trong phương pháp quan sát vi sinh vật.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 06, B20 (Mục III.1), tr. 119
+
+### white blood cell
+- **Tiếng Việt:** Bạch cầu
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A type of blood cell responsible for defending the body by recognizing and destroying invading pathogens and mounting immune responses.
+- **Giải thích (VI):** Loại tế bào máu thực hiện chức năng bảo vệ cơ thể thông qua việc nhận diện, tiêu diệt mầm bệnh xâm nhập và tạo đáp ứng miễn dịch.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục I.1, I.2): tìm hiểu vai trò của tế bào lympho B trong sản xuất kháng thể bảo vệ cơ thể.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33, tr. 135; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.1), tr. 135; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.2.a), tr. 136
 
 ### X-chromosome inactivation
 - **Tiếng Việt:** Bất hoạt nhiễm sắc thể X (bất hoạt NST X)

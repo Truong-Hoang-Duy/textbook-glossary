@@ -1,0 +1,28 @@
+{
+  "H8-lich_su_va_dia_ly-ls-b13-01": {
+    "pdf_page": 58,
+    "bbox": [334, 381, 503, 487]
+  },
+  "H8-lich_su_va_dia_ly-ls-b13-02": {
+    "pdf_page": 58,
+    "bbox": [80, 595, 506, 727]
+  },
+  "H8-lich_su_va_dia_ly-ls-b13-03": {
+    "pdf_page": 59,
+    "bbox": [61, 56, 313, 262]
+  },
+  "H8-lich_su_va_dia_ly-ls-b13-04": {
+    "pdf_page": 60,
+    "bbox": [391, 542, 507, 712]
+  },
+  "H8-lich_su_va_dia_ly-ls-b13-05": {
+    "pdf_page": 61,
+    "bbox": [0, 0, 547, 280],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh Hình 13.5 tràn sát mép trên, mép trái và mép phải trang sách"
+  },
+  "H8-lich_su_va_dia_ly-ls-b13-06": {
+    "pdf_page": 61,
+    "bbox": [261, 288, 490, 471]
+  }
+}

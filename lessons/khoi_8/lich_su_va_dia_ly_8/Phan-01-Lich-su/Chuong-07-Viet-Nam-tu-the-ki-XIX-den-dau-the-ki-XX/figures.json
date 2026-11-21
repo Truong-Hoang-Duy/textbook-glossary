@@ -1,0 +1,128 @@
+{
+  "H8-lich_su_va_dia_ly-ls-b16-01": {
+    "pdf_page": 71,
+    "bbox": [283, 368, 478, 510],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên phải khung chạm kí hiệu kết thúc phần Mở đầu (hai vạch cam) đặt sát chú thích Hình 16.1"
+  },
+  "H8-lich_su_va_dia_ly-ls-b16-02": {
+    "pdf_page": 72,
+    "bbox": [364, 56, 507, 252]
+  },
+  "H8-lich_su_va_dia_ly-ls-b16-03": {
+    "pdf_page": 72,
+    "bbox": [123, 262, 440, 725]
+  },
+  "H8-lich_su_va_dia_ly-ls-b16-04": {
+    "pdf_page": 73,
+    "bbox": [291, 305, 490, 415]
+  },
+  "H8-lich_su_va_dia_ly-ls-b16-05": {
+    "pdf_page": 74,
+    "bbox": [84, 355, 305, 513]
+  },
+  "H8-lich_su_va_dia_ly-ls-b16-06": {
+    "pdf_page": 74,
+    "bbox": [0, 517, 547, 768],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh Hình 16.6 tràn sát mép trái, phải và dưới trang sách"
+  },
+  "H8-lich_su_va_dia_ly-ls-b16-07": {
+    "pdf_page": 76,
+    "bbox": [173, 57, 507, 419]
+  },
+  "H8-lich_su_va_dia_ly-ls-b17-01": {
+    "pdf_page": 77,
+    "bbox": [105, 535, 424, 716]
+  },
+  "H8-lich_su_va_dia_ly-ls-b17-02": {
+    "pdf_page": 78,
+    "bbox": [75, 56, 507, 469]
+  },
+  "H8-lich_su_va_dia_ly-ls-b17-03": {
+    "pdf_page": 79,
+    "bbox": [63, 158, 163, 275]
+  },
+  "H8-lich_su_va_dia_ly-ls-b17-04": {
+    "pdf_page": 79,
+    "bbox": [290, 296, 490, 457]
+  },
+  "H8-lich_su_va_dia_ly-ls-b17-05": {
+    "pdf_page": 79,
+    "bbox": [63, 461, 221, 580]
+  },
+  "H8-lich_su_va_dia_ly-ls-b17-06": {
+    "pdf_page": 79,
+    "bbox": [392, 587, 490, 703]
+  },
+  "H8-lich_su_va_dia_ly-ls-b17-07": {
+    "pdf_page": 80,
+    "bbox": [346, 188, 489, 378]
+  },
+  "H8-lich_su_va_dia_ly-ls-b17-08": {
+    "pdf_page": 81,
+    "bbox": [382, 56, 491, 212]
+  },
+  "H8-lich_su_va_dia_ly-ls-b17-09": {
+    "pdf_page": 81,
+    "bbox": [62, 248, 491, 718]
+  },
+  "H8-lich_su_va_dia_ly-ls-b17-10": {
+    "pdf_page": 82,
+    "bbox": [79, 396, 507, 689]
+  },
+  "H8-lich_su_va_dia_ly-ls-b18-01": {
+    "pdf_page": 84,
+    "bbox": [325, 242, 486, 342]
+  },
+  "H8-lich_su_va_dia_ly-ls-b18-02": {
+    "pdf_page": 84,
+    "bbox": [273, 528, 376, 690]
+  },
+  "H8-lich_su_va_dia_ly-ls-b18-03": {
+    "pdf_page": 84,
+    "bbox": [383, 528, 507, 690]
+  },
+  "H8-lich_su_va_dia_ly-ls-b18-04": {
+    "pdf_page": 85,
+    "bbox": [96, 76, 435, 501],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên phải khung chạm mép trên ảnh Hình 18.5 đặt sát dòng chú thích Hình 18.4"
+  },
+  "H8-lich_su_va_dia_ly-ls-b18-05": {
+    "pdf_page": 85,
+    "bbox": [347, 495, 489, 635]
+  },
+  "H8-lich_su_va_dia_ly-ls-b18-06": {
+    "pdf_page": 86,
+    "bbox": [380, 56, 509, 226]
+  },
+  "H8-lich_su_va_dia_ly-ls-b18-07": {
+    "pdf_page": 86,
+    "bbox": [375, 535, 507, 700]
+  },
+  "H8-lich_su_va_dia_ly-ls-b18-08": {
+    "pdf_page": 87,
+    "bbox": [201, 56, 490, 253]
+  },
+  "H8-lich_su_va_dia_ly-ls-b19-01": {
+    "pdf_page": 89,
+    "bbox": [62, 55, 273, 226]
+  },
+  "H8-lich_su_va_dia_ly-ls-b19-02": {
+    "pdf_page": 89,
+    "bbox": [314, 352, 490, 502]
+  },
+  "H8-lich_su_va_dia_ly-ls-b19-03": {
+    "pdf_page": 90,
+    "bbox": [379, 271, 503, 427]
+  },
+  "H8-lich_su_va_dia_ly-ls-b19-04": {
+    "pdf_page": 90,
+    "bbox": [380, 575, 506, 716]
+  },
+  "H8-lich_su_va_dia_ly-ls-b19-05": {
+    "pdf_page": 91,
+    "bbox": [102, 385, 450, 639]
+  }
+}

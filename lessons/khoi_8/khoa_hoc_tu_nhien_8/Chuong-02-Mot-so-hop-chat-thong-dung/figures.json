@@ -1,0 +1,48 @@
+{
+  "H8-khoa_hoc_tu_nhien-b08-01": {
+    "pdf_page": 39,
+    "bbox": [116, 47, 449, 302]
+  },
+  "H8-khoa_hoc_tu_nhien-b08-02": {
+    "pdf_page": 39,
+    "bbox": [60, 401, 494, 538]
+  },
+  "H8-khoa_hoc_tu_nhien-b08-03": {
+    "pdf_page": 40,
+    "bbox": [69, 102, 364, 292]
+  },
+  "H8-khoa_hoc_tu_nhien-b09-01": {
+    "pdf_page": 42,
+    "bbox": [57, 510, 463, 685]
+  },
+  "H8-khoa_hoc_tu_nhien-b09-02": {
+    "pdf_page": 43,
+    "bbox": [83, 452, 484, 675]
+  },
+  "H8-khoa_hoc_tu_nhien-b09-03": {
+    "pdf_page": 44,
+    "bbox": [126, 254, 428, 448]
+  },
+  "H8-khoa_hoc_tu_nhien-b11-01": {
+    "pdf_page": 52,
+    "bbox": [67, 214, 489, 472]
+  },
+  "H8-khoa_hoc_tu_nhien-b11-02": {
+    "pdf_page": 54,
+    "bbox": [68, 101, 473, 282]
+  },
+  "H8-khoa_hoc_tu_nhien-b12-01": {
+    "pdf_page": 56,
+    "bbox": [350, 128, 493, 210]
+  },
+  "H8-khoa_hoc_tu_nhien-b12-02": {
+    "pdf_page": 56,
+    "bbox": [350, 347, 493, 453],
+    "allow_edge_ink": true,
+    "edge_ink_note": "nét dưới chữ g của dòng nơi ăn uống trong hộp Em có biết chạm sát mép trên ảnh Hình 12.2 (cách 1 pt)"
+  },
+  "H8-khoa_hoc_tu_nhien-b12-03": {
+    "pdf_page": 57,
+    "bbox": [379, 245, 491, 456]
+  }
+}

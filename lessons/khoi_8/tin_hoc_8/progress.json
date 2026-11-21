@@ -1,0 +1,485 @@
+{
+  "unit": "tin_hoc_8",
+  "subject": "tin_hoc",
+  "subject_name": "Tin học",
+  "grade": 8,
+  "files": [
+    {
+      "file": "SGK TIN HOC 8 - KNTT.pdf",
+      "volume": null,
+      "page_count": 99,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "cd01",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 1",
+      "number": 1,
+      "title": "Máy tính và cộng đồng",
+      "dir": "Chu-de-01-May-tinh-va-cong-dong",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Lược sử công cụ tính toán",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Luoc-su-cong-cu-tinh-toan.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            6,
+            10
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd02",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 2",
+      "number": 2,
+      "title": "Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
+      "dir": "Chu-de-02-To-chuc-luu-tru-tim-kiem-va-trao-doi-thong-tin",
+      "children": [
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Thông tin trong môi trường số",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Thong-tin-trong-moi-truong-so.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            11,
+            14
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Thực hành: Khai thác thông tin số",
+          "lesson_type": "thuc_hanh",
+          "file": "B03-Thuc-hanh-Khai-thac-thong-tin-so.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            15,
+            18
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd03",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 3",
+      "number": 3,
+      "title": "Đạo đức, pháp luật và văn hoá trong môi trường số",
+      "dir": "Chu-de-03-Dao-duc-phap-luat-va-van-hoa-trong-moi-truong-so",
+      "children": [
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Đạo đức và văn hoá trong sử dụng công nghệ kĩ thuật số",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Dao-duc-va-van-hoa-trong-su-dung-cong-nghe-ki.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            19,
+            21
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd04",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 4",
+      "number": 4,
+      "title": "Ứng dụng tin học",
+      "dir": "Chu-de-04-Ung-dung-tin-hoc",
+      "children": [
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Sử dụng bảng tính giải quyết bài toán thực tế",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Su-dung-bang-tinh-giai-quyet-bai-toan-thuc-te.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            22,
+            27
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Sắp xếp và lọc dữ liệu",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Sap-xep-va-loc-du-lieu.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            28,
+            32
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Trực quan hoá dữ liệu",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Truc-quan-hoa-du-lieu.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            33,
+            36
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08a",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8a",
+          "number": 8,
+          "title": "Làm việc với danh sách dạng liệt kê và hình ảnh trong văn bản",
+          "lesson_type": "ly_thuyet",
+          "file": "B08A-Lam-viec-voi-danh-sach-dang-liet-ke-va-hinh-anh.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            37,
+            42
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09a",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9a",
+          "number": 9,
+          "title": "Tạo đầu trang, chân trang cho văn bản",
+          "lesson_type": "ly_thuyet",
+          "file": "B09A-Tao-dau-trang-chan-trang-cho-van-ban.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            43,
+            46
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10a",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10a",
+          "number": 10,
+          "title": "Định dạng nâng cao cho trang chiếu",
+          "lesson_type": "ly_thuyet",
+          "file": "B10A-Dinh-dang-nang-cao-cho-trang-chieu.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            47,
+            51
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11a",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11a",
+          "number": 11,
+          "title": "Sử dụng bản mẫu tạo bài trình chiếu",
+          "lesson_type": "ly_thuyet",
+          "file": "B11A-Su-dung-ban-mau-tao-bai-trinh-chieu.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            52,
+            56
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08b",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8b",
+          "number": 8,
+          "title": "Phần mềm chỉnh sửa ảnh",
+          "lesson_type": "ly_thuyet",
+          "file": "B08B-Phan-mem-chinh-sua-anh.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            57,
+            62
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09b",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9b",
+          "number": 9,
+          "title": "Thay đổi khung hình, kích thước ảnh",
+          "lesson_type": "ly_thuyet",
+          "file": "B09B-Thay-doi-khung-hinh-kich-thuoc-anh.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            63,
+            66
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10b",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10b",
+          "number": 10,
+          "title": "Thêm văn bản, tạo hiệu ứng cho ảnh",
+          "lesson_type": "ly_thuyet",
+          "file": "B10B-Them-van-ban-tao-hieu-ung-cho-anh.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            67,
+            70
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11b",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11b",
+          "number": 11,
+          "title": "Thực hành tổng hợp",
+          "lesson_type": "thuc_hanh",
+          "file": "B11B-Thuc-hanh-tong-hop.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            71,
+            73
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd05",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 5",
+      "number": 5,
+      "title": "Giải quyết vấn đề với sự trợ giúp của máy tính",
+      "dir": "Chu-de-05-Giai-quyet-van-de-voi-su-tro-giup-cua-may-tinh",
+      "children": [
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Từ thuật toán đến chương trình",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Tu-thuat-toan-den-chuong-trinh.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            74,
+            76
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Biểu diễn dữ liệu",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Bieu-dien-du-lieu.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            77,
+            80
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Cấu trúc điều khiển",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-Cau-truc-dieu-khien.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            81,
+            86
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Gỡ lỗi",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Go-loi.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            87,
+            91
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd06",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 6",
+      "number": 6,
+      "title": "Hướng nghiệp với Tin học",
+      "dir": "Chu-de-06-Huong-nghiep-voi-Tin-hoc",
+      "children": [
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Tin học với nghề nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Tin-hoc-voi-nghe-nghiep.md",
+          "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+          "pdf_pages": [
+            92,
+            95
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ",
+      "file": "Bang-giai-thich-thuat-ngu.md",
+      "source_file": "SGK TIN HOC 8 - KNTT.pdf",
+      "pdf_pages": [
+        96,
+        96
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "Độ lệch trang in cố định printed_offset = 1 xuyên suốt toàn sách (PDF 3..96 = trang in 2..95; PDF 1–2 là bìa và trang tên sách, PDF 97–99 là trang bản quyền và bìa sau).",
+    "Chủ đề 4 (Ứng dụng tin học) gồm 3 bài chung (Bài 5–7) và hai chủ đề con lựa chọn: a. Soạn thảo văn bản và trình chiếu nâng cao (Bài 8a–11a, trang in 36–55) và b. Làm quen với phần mềm chỉnh sửa ảnh (Bài 8b–11b, trang in 56–72); cả 11 bài được thu thập đầy đủ nguyên văn trong nhóm Chủ đề 4."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-21",
+      "scope": [
+        "cd01",
+        "cd02",
+        "cd03",
+        "cd04",
+        "cd05",
+        "cd06"
+      ],
+      "terms": 134,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ 6 Chủ đề, 20 Bài học (gồm cả hai nhánh lựa chọn 8a–11a và 8b–11b ở Chủ đề 4) và Bảng giải thích thuật ngữ cuối sách (134 thuật ngữ: 96 in_source, 38 [mô tả], 0 Ngoài nguồn, 12 ghi chú nguồn đóng; 133 hình minh hoạ): lấy mẫu phân tầng 30 mục (10 mục in_source: Công cụ thay đổi kích thước ảnh, Thông tin không đáng tin cậy, Biểu đồ cột, Đầu trang, Kiểu dữ liệu, Bóng bán dẫn, Vẽ hình đồ hoạ trong văn bản, ENIAC, Hệ thống ghi số thập phân, Xác định nguồn thông tin; 10 mục [mô tả]: Chia sẻ bài trình chiếu trong môi trường số, Kiểu xâu kí tự, Kiểu số, Ada Lovelace, Nghề thuộc lĩnh vực tin học, Bình đẳng giới trong sử dụng máy tính và ứng dụng tin học, Phép toán kết hợp, Biểu hiện vi phạm khi sử dụng công nghệ kĩ thuật số, Phân tích lôgic để tìm lỗi, Chèn văn bản vào ảnh; và 10 hình minh hoạ: H8-tin_hoc-b06-07, b10a-04, b11b-05, b05-04, b14-05, b05-05, b09b-03, b07-07, b06-01, b10a-01). Toàn bộ 30/30 mục mẫu khớp 100% với trang sách gốc (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-21: Hoàn thành 100% tin_hoc_8 từ Cổng 0 đến Cổng 4 (6 Chủ đề, 20 Bài học, Bảng giải thích thuật ngữ cuối sách, 133 hình minh hoạ, 6 từ điển với 134 thuật ngữ, 0 lỗi)."
+}

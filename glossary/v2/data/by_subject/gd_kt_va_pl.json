@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Giáo dục Kinh tế và Pháp luật",
-    "generated_at": "2026-11-20T08:29:13Z",
+    "generated_at": "2026-11-21T02:59:28Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -17,18 +17,18 @@
       "Tu-dien-Vat-li.md"
     ],
     "counts": {
-      "entries": 379,
+      "entries": 385,
       "by_origin_discipline": {
-        "Giáo dục Kinh tế và Pháp luật": 349,
-        "Lịch sử": 6,
+        "Giáo dục Kinh tế và Pháp luật": 353,
+        "Lịch sử": 8,
         "Sinh học": 1,
         "Tin học": 4,
         "Tiếng Anh": 3,
         "Toán học": 1,
         "Địa lí": 15
       },
-      "multi_context_entries": 301,
-      "alt_explanation_entries": 23
+      "multi_context_entries": 307,
+      "alt_explanation_entries": 24
     }
   },
   "entries": [
@@ -1365,6 +1365,42 @@
           "section": "2",
           "printed_pages": [
             24
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-GD-KT-va-PL.md"
+    },
+    {
+      "id": "gd-kt-va-pl-book-value",
+      "term_en": "book value",
+      "term_vi": "Giá trị sổ sách",
+      "term_vi_display": "Giá trị sổ sách",
+      "aliases_vi": [],
+      "origin_discipline": "Giáo dục Kinh tế và Pháp luật",
+      "explanation_en": "The value of an asset recorded and used by a company to prepare its balance sheet in financial theory.",
+      "explanation_vi": "Giá trị của một tài sản mà doanh nghiệp hoặc công ty ghi nhận và sử dụng để lập bảng cân đối kế toán trong lí thuyết tài chính.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Toán học lớp 8, Hoạt động thực hành trải nghiệm (Một vài ứng dụng của hàm số bậc nhất trong tài chính): Biểu diễn sự thay đổi giá trị tài sản theo thời gian bằng hàm số bậc nhất.",
+          "disciplines": [
+            "Toán học"
+          ],
+          "grade": 8,
+          "lesson_ref": null
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Toán 8 KNTT Tập 2, Chương 10, Một vài ứng dụng của hàm số bậc nhất trong tài chính, tr. 126",
+          "book": "SGK Toán 8 KNTT Tập 2",
+          "unit": "toan_8",
+          "group": "Chương 10",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            126
           ]
         }
       ],
@@ -3251,6 +3287,15 @@
           "lesson_ref": "Bài 1"
         },
         {
+          "raw": "Lịch sử và Địa lí lớp 8, Bài 11 (Mục 2): Xác định vị trí và chiều rộng các vùng biển của Việt Nam trên sơ đồ mặt cắt khái quát.",
+          "disciplines": [
+            "Địa lí",
+            "Lịch sử"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 11"
+        },
+        {
           "raw": "Giáo dục Kinh tế và Pháp luật lớp 12, Bài 15 (Mục 3.b): vùng biển tiếp liền ngoài lãnh hải nơi quốc gia ven biển thực hiện quyền chủ quyền và quyền kiểm soát chuyên biệt.",
           "disciplines": [
             "Giáo dục Kinh tế và Pháp luật"
@@ -3293,6 +3338,40 @@
           "printed_pages": [
             7,
             8
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149",
+          "book": "SGK Lịch sử và Địa lí 8 KNTT",
+          "unit": "ls_va_dl_8",
+          "group": "Phần Địa lí, Chương 04",
+          "lesson": "B11",
+          "section": "2",
+          "printed_pages": [
+            149
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149, 150",
+          "book": "SGK Lịch sử và Địa lí 8 KNTT",
+          "unit": "ls_va_dl_8",
+          "group": "Phần Địa lí, Chương 04",
+          "lesson": "B11",
+          "section": "2",
+          "printed_pages": [
+            149,
+            150
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 150",
+          "book": "SGK Lịch sử và Địa lí 8 KNTT",
+          "unit": "ls_va_dl_8",
+          "group": "Phần Địa lí, Chương 04",
+          "lesson": "B11",
+          "section": "2",
+          "printed_pages": [
+            150
           ]
         },
         {
@@ -6374,6 +6453,15 @@
           "lesson_ref": "Bài 1"
         },
         {
+          "raw": "Lịch sử và Địa lí lớp 8, Bài 11 (Mục 2): Phân biệt phạm vi tính chiều rộng của vùng đặc quyền kinh tế với lãnh hải và vùng tiếp giáp lãnh hải.",
+          "disciplines": [
+            "Địa lí",
+            "Lịch sử"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 11"
+        },
+        {
           "raw": "Giáo dục Kinh tế và Pháp luật lớp 12, Bài 15 (Mục 3.b): vùng biển thuộc quyền chủ quyền của quốc gia ven biển (không thuộc chủ quyền lãnh thổ tuyệt đối), phân biệt với vùng lãnh hải.",
           "disciplines": [
             "Địa lí",
@@ -6427,6 +6515,40 @@
           "printed_pages": [
             7,
             8
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 146",
+          "book": "SGK Lịch sử và Địa lí 8 KNTT",
+          "unit": "ls_va_dl_8",
+          "group": "Phần Địa lí, Chương 04",
+          "lesson": "B11",
+          "section": "2",
+          "printed_pages": [
+            146
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149",
+          "book": "SGK Lịch sử và Địa lí 8 KNTT",
+          "unit": "ls_va_dl_8",
+          "group": "Phần Địa lí, Chương 04",
+          "lesson": "B11",
+          "section": "2",
+          "printed_pages": [
+            149
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149, 150",
+          "book": "SGK Lịch sử và Địa lí 8 KNTT",
+          "unit": "ls_va_dl_8",
+          "group": "Phần Địa lí, Chương 04",
+          "lesson": "B11",
+          "section": "2",
+          "printed_pages": [
+            149,
+            150
           ]
         },
         {
@@ -7379,6 +7501,64 @@
           "section": "2",
           "printed_pages": [
             66
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-GD-KT-va-PL.md"
+    },
+    {
+      "id": "gd-kt-va-pl-gender-equality",
+      "term_en": "gender equality",
+      "term_vi": "Bình đẳng giới",
+      "term_vi_display": "Bình đẳng giới",
+      "aliases_vi": [],
+      "origin_discipline": "Giáo dục Kinh tế và Pháp luật",
+      "explanation_en": "A social and legal principle ensuring that men and women hold equal status and roles, are afforded conditions and opportunities to develop their capabilities for the advancement of the community and family, and equally enjoy the fruits of that development.",
+      "explanation_vi": "Nguyên tắc xã hội và pháp lí bảo đảm nam, nữ có vị trí, vai trò ngang nhau, có điều kiện và cơ hội phát huy năng lực cho sự phát triển của cộng đồng, gia đình và thụ hưởng như nhau thành quả của sự phát triển đó.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Tin học lớp 8, Bài 16 (Mục 2): Cơ sở nhận thức về quyền và cơ hội bình đẳng của phụ nữ và trẻ em gái trong học tập, sử dụng máy tính và làm việc trong ngành tin học.",
+          "disciplines": [
+            "Tin học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 16"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Tin học 8 KNTT, Bảng giải thích thuật ngữ, tr. 95",
+          "book": "SGK Tin học 8 KNTT",
+          "unit": "tin_hoc_8",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            95
+          ]
+        },
+        {
+          "raw": "SGK Tin học 8 KNTT, Chủ đề 06, B16 (Mục 2), tr. 93",
+          "book": "SGK Tin học 8 KNTT",
+          "unit": "tin_hoc_8",
+          "group": "Chủ đề 06",
+          "lesson": "B16",
+          "section": "2",
+          "printed_pages": [
+            93
+          ]
+        },
+        {
+          "raw": "SGK Tin học 8 KNTT, Chủ đề 06, B16 (Mục 2), tr. 94",
+          "book": "SGK Tin học 8 KNTT",
+          "unit": "tin_hoc_8",
+          "group": "Chủ đề 06",
+          "lesson": "B16",
+          "section": "2",
+          "printed_pages": [
+            94
           ]
         }
       ],
@@ -8667,7 +8847,13 @@
       "origin_discipline": "Lịch sử",
       "explanation_en": "A policy through which powerful states or nations seek to expand and maintain control or influence over weaker states or nations.",
       "explanation_vi": "Chính sách mở rộng và duy trì quyền kiểm soát hoặc ảnh hưởng của các quốc gia, dân tộc hùng mạnh đối với các quốc gia, dân tộc yếu hơn.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Lịch sử và Địa lí 8",
+          "explanation_en": "A stage of capitalism emerging in the late 19th and early 20th centuries, marked by the concentration of production and capital into large monopolies that dominated the economy and socio-political life alongside the rise of finance capital. It was simultaneously characterized by Western capitalist powers intensifying colonial conquest, exploitation, and extraction.",
+          "explanation_vi": "Giai đoạn phát triển của chủ nghĩa tư bản hình thành vào cuối thế kỉ XIX – đầu thế kỉ XX, gắn với quá trình tập trung sản xuất và tư bản tạo nên các công ti độc quyền lũng đoạn kinh tế, chi phối đời sống chính trị – xã hội cùng sự ra đời của tư bản tài chính. Giai đoạn này đồng thời mang đặc trưng là việc các nước tư bản phương Tây ráo riết đẩy mạnh xâm lược, khai thác và bóc lột thuộc địa."
+        }
+      ],
       "contexts": [
         {
           "raw": "Lịch sử lớp 11, Bài 2 (Mục 2.a): Hệ quả gắn liền với quá trình các nước tư bản phương Tây đẩy mạnh xâm lược thuộc địa nhằm tìm kiếm thị trường, thu lợi nhuận và đầu tư tư bản cuối thế kỉ XIX – đầu thế kỉ XX.",
@@ -8677,6 +8863,15 @@
           ],
           "grade": 11,
           "lesson_ref": "Bài 2"
+        },
+        {
+          "raw": "Lịch sử và Địa lí lớp 8, Bài 10 (Mục 1): Quá trình chuyển biến của chủ nghĩa tư bản ở các nước Âu – Mỹ từ tự do cạnh tranh sang giai đoạn đế quốc chủ nghĩa.",
+          "disciplines": [
+            "Địa lí",
+            "Lịch sử"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 10"
         }
       ],
       "disambiguation_notes": [],
@@ -8690,6 +8885,17 @@
           "section": null,
           "printed_pages": [
             91
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45",
+          "book": "SGK Lịch sử và Địa lí 8 KNTT",
+          "unit": "ls_va_dl_8",
+          "group": "Phần Lịch sử, Chương 04",
+          "lesson": "B10",
+          "section": "1",
+          "printed_pages": [
+            45
           ]
         }
       ],
@@ -11106,6 +11312,67 @@
       "markdown_file": "Tu-dien-GD-KT-va-PL.md"
     },
     {
+      "id": "lich-su-legal-basis-for-protecting-vietnam-s-maritime-sovereignty",
+      "term_en": "legal basis for protecting Vietnam's maritime sovereignty",
+      "term_vi": "Cơ sở pháp lí bảo vệ chủ quyền biển đảo của Việt Nam",
+      "term_vi_display": "Cơ sở pháp lí bảo vệ chủ quyền biển đảo của Việt Nam",
+      "aliases_vi": [],
+      "origin_discipline": "Lịch sử",
+      "explanation_en": "The system of domestic legislation enacted by Vietnam on the foundation of the 1982 United Nations Convention on the Law of the Sea to affirm and safeguard the nation's sovereignty, rights, and legitimate interests in the East Sea, notably the 2003 Law on National Borders and the 2012 Law of the Sea of Vietnam.",
+      "explanation_vi": "Hệ thống văn bản pháp luật quốc gia do Việt Nam xây dựng trên nền tảng Công ước của Liên hợp quốc về Luật Biển 1982 nhằm khẳng định và bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của đất nước trên Biển Đông, tiêu biểu là Luật Biên giới quốc gia năm 2003 và Luật Biển Việt Nam năm 2012.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Lịch sử và Địa lí lớp 8, Chủ đề chung 2 (Mục 3.b): hệ thống pháp luật quốc gia khẳng định chủ quyền, quyền chủ quyền và quyền tài phán trên biển của Việt Nam.",
+          "disciplines": [
+            "Địa lí",
+            "Lịch sử",
+            "Giáo dục Kinh tế và Pháp luật"
+          ],
+          "grade": 8,
+          "lesson_ref": null
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 3.b), tr. 167",
+          "book": "SGK Lịch sử và Địa lí 8 KNTT",
+          "unit": "ls_va_dl_8",
+          "group": "Chủ đề chung, Chủ đề chung 2 (Mục 3.b)",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            167
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 4), tr. 167",
+          "book": "SGK Lịch sử và Địa lí 8 KNTT",
+          "unit": "ls_va_dl_8",
+          "group": "Chủ đề chung, Chủ đề chung 2 (Mục 4)",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            167
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 4), tr. 167, 168",
+          "book": "SGK Lịch sử và Địa lí 8 KNTT",
+          "unit": "ls_va_dl_8",
+          "group": "Chủ đề chung, Chủ đề chung 2 (Mục 4)",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            167,
+            168
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Lich-su.md"
+    },
+    {
       "id": "gd-kt-va-pl-legal-institution",
       "term_en": "legal institution",
       "term_vi": "Chế định pháp luật",
@@ -12780,42 +13047,55 @@
       "markdown_file": "Tu-dien-GD-KT-va-PL.md"
     },
     {
-      "id": "gd-kt-va-pl-monopoly",
-      "term_en": "monopoly",
-      "term_vi": "Độc quyền",
-      "term_vi_display": "Độc quyền",
+      "id": "lich-su-monopolization",
+      "term_en": "monopolization",
+      "term_vi": "Lũng đoạn",
+      "term_vi_display": "Lũng đoạn",
       "aliases_vi": [],
-      "origin_discipline": "Giáo dục Kinh tế và Pháp luật",
-      "explanation_en": "The exclusive possession and control of an economic or political activity by a single actor without sharing it with others, exemplified by state business monopolies or capitalist monopoly corporations.",
-      "explanation_vi": "Tình trạng chiếm giữ hoàn toàn cho riêng một chủ thể và không chia sẻ cho ai trong hoạt động kinh tế hoặc chính trị, tiêu biểu như độc quyền kinh doanh của nhà nước hoặc công ti tư bản độc quyền.",
+      "origin_discipline": "Lịch sử",
+      "explanation_en": "The concentration of exclusive privileges to control production and business operations within one or several economic sectors. The term also denotes dominating and manipulating markets as well as socio-political life to serve the private interests of major capitalist groups.",
+      "explanation_vi": "Việc tập trung mọi đặc quyền để khống chế hoạt động sản xuất, kinh doanh trong một hoặc vài ngành kinh tế. Khái niệm này còn chỉ sự chi phối, thao túng thị trường và đời sống chính trị – xã hội nhằm phục vụ mục đích, quyền lợi riêng của các tập đoàn tư bản lớn.",
       "alt_explanations": [],
       "contexts": [
         {
-          "raw": "Lịch sử lớp 11, Bài 2 (Mục 2.c): Chỉ sự chi phối kinh tế của các công ti tư bản độc quyền cuối thế kỉ XIX – đầu thế kỉ XX, đồng thời dùng cho độc quyền thương mại của Nhà nước phong kiến Anh hay độc quyền lãnh đạo của tư sản Pháp (Bài 1).",
+          "raw": "Lịch sử và Địa lí lớp 8, Bài 10 (Mục 1): Mô tả việc các công ti độc quyền khống chế thị trường, nền kinh tế và đời sống chính trị ở các nước đế quốc.",
           "disciplines": [
-            "Lịch sử"
+            "Địa lí",
+            "Lịch sử",
+            "Giáo dục Kinh tế và Pháp luật"
           ],
-          "grade": 11,
-          "lesson_ref": "Bài 2"
+          "grade": 8,
+          "lesson_ref": "Bài 10"
         }
       ],
       "disambiguation_notes": [
-        "Bao hàm cả độc quyền kinh tế (nhà nước hoặc công ti tư bản độc quyền) và độc quyền chính trị (nắm trọn quyền lãnh đạo cách mạng)."
+        "Nhấn mạnh hành vi tập trung đặc quyền để khống chế ngành và chi phối vì lợi ích riêng, gắn với sự trỗi dậy của các công ti độc quyền."
       ],
       "sources": [
         {
-          "raw": "SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92",
-          "book": "SGK Lịch sử 11 KNTT",
-          "unit": "lich_su_11",
+          "raw": "SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45",
+          "book": "SGK Lịch sử và Địa lí 8 KNTT",
+          "unit": "ls_va_dl_8",
+          "group": "Phần Lịch sử, Chương 04",
+          "lesson": "B10",
+          "section": "1",
+          "printed_pages": [
+            45
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172",
+          "book": "SGK Lịch sử và Địa lí 8 KNTT",
+          "unit": "ls_va_dl_8",
           "group": null,
           "lesson": "Bảng giải thích thuật ngữ",
           "section": null,
           "printed_pages": [
-            92
+            172
           ]
         }
       ],
-      "markdown_file": "Tu-dien-GD-KT-va-PL.md"
+      "markdown_file": "Tu-dien-Lich-su.md"
     },
     {
       "id": "gd-kt-va-pl-moral-rights",
@@ -14279,6 +14559,55 @@
           "printed_pages": [
             142,
             143
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-GD-KT-va-PL.md"
+    },
+    {
+      "id": "gd-kt-va-pl-periodic-compound-interest",
+      "term_en": "periodic compound interest",
+      "term_vi": "Lãi kép theo định kì",
+      "term_vi_display": "Lãi kép theo định kì (lãi kép)",
+      "aliases_vi": [
+        "lãi kép"
+      ],
+      "origin_discipline": "Giáo dục Kinh tế và Pháp luật",
+      "explanation_en": "A periodic interest calculation method used by banks in which, if the depositor does not withdraw the interest at maturity, that interest is added to the principal to earn interest in the next period.",
+      "explanation_vi": "Thể thức tính lãi suất theo định kì của ngân hàng, trong đó nếu đến kì hạn người gửi không rút tiền lãi ra thì số tiền lãi đó được cộng gộp vào tiền vốn để tính lãi cho kì kế tiếp.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Toán học lớp 8, Hoạt động thực hành trải nghiệm (Công thức lãi kép): Cơ sở thực tiễn để thiết lập biểu thức luỹ thừa tính tổng tiền nhận được sau nhiều kì gửi.",
+          "disciplines": [
+            "Toán học"
+          ],
+          "grade": 8,
+          "lesson_ref": null
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Toán 8 KNTT Tập 1, Chương 05, Công thức lãi kép, tr. 111",
+          "book": "SGK Toán 8 KNTT Tập 1",
+          "unit": "toan_8",
+          "group": "Chương 05",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            111
+          ]
+        },
+        {
+          "raw": "SGK Toán 8 KNTT Tập 1, Chương 05, Công thức lãi kép, tr. 112",
+          "book": "SGK Toán 8 KNTT Tập 1",
+          "unit": "toan_8",
+          "group": "Chương 05",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            112
           ]
         }
       ],
@@ -18764,6 +19093,44 @@
       "markdown_file": "Tu-dien-GD-KT-va-PL.md"
     },
     {
+      "id": "gd-kt-va-pl-straight-line-depreciation",
+      "term_en": "straight-line depreciation",
+      "term_vi": "Khấu hao đường thẳng",
+      "term_vi_display": "Khấu hao đường thẳng (phương pháp khấu hao đường thẳng)",
+      "aliases_vi": [
+        "phương pháp khấu hao đường thẳng"
+      ],
+      "origin_discipline": "Giáo dục Kinh tế và Pháp luật",
+      "explanation_en": "An asset depreciation method in which the value of an asset decreases by a fixed amount each year, with the annual reduction determined by the asset's useful life.",
+      "explanation_vi": "Phương pháp khấu hao tài sản trong đó giá trị của tài sản giảm đi một lượng cố định qua mỗi năm, với mức suy giảm phụ thuộc vào thời gian sử dụng hữu ích của tài sản đó.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Toán học lớp 8, Hoạt động thực hành trải nghiệm (Một vài ứng dụng của hàm số bậc nhất trong tài chính): Mô hình hoá giá trị còn lại của tài sản theo thời gian sử dụng bằng hàm số bậc nhất.",
+          "disciplines": [
+            "Toán học"
+          ],
+          "grade": 8,
+          "lesson_ref": null
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Toán 8 KNTT Tập 2, Chương 10, Một vài ứng dụng của hàm số bậc nhất trong tài chính, tr. 126",
+          "book": "SGK Toán 8 KNTT Tập 2",
+          "unit": "toan_8",
+          "group": "Chương 10",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            126
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-GD-KT-va-PL.md"
+    },
+    {
       "id": "gd-kt-va-pl-strict-formal-definiteness-of-law",
       "term_en": "strict formal definiteness of law",
       "term_vi": "Tính xác định chặt chẽ về mặt hình thức",
@@ -19403,6 +19770,65 @@
           "section": null,
           "printed_pages": [
             138
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-GD-KT-va-PL.md"
+    },
+    {
+      "id": "gd-kt-va-pl-term-deposit",
+      "term_en": "term deposit",
+      "term_vi": "Tiết kiệm có kì hạn",
+      "term_vi_display": "Tiết kiệm có kì hạn",
+      "aliases_vi": [],
+      "origin_discipline": "Giáo dục Kinh tế và Pháp luật",
+      "explanation_en": "A common form of savings in which a customer deposits money into a bank for specified fixed periods to save and earn a profit from interest.",
+      "explanation_vi": "Hình thức gửi tiết kiệm phổ biến trong đó khách hàng gửi các khoản tiền để dành vào ngân hàng theo những kì hạn xác định nhằm mục đích tiết kiệm và nhận về khoản lợi nhuận từ tiền lãi.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Toán học lớp 8, Hoạt động thực hành trải nghiệm (Công thức lãi kép): Bối cảnh tài chính thực tế khi vận dụng công thức tính tiền vốn và lãi sau nhiều kì gửi ngân hàng.",
+          "disciplines": [
+            "Toán học"
+          ],
+          "grade": 8,
+          "lesson_ref": null
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Toán 8 KNTT Tập 1, Chương 05, Công thức lãi kép, tr. 111",
+          "book": "SGK Toán 8 KNTT Tập 1",
+          "unit": "toan_8",
+          "group": "Chương 05",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            111
+          ]
+        },
+        {
+          "raw": "SGK Toán 8 KNTT Tập 1, Chương 05, Công thức lãi kép, tr. 111, 112",
+          "book": "SGK Toán 8 KNTT Tập 1",
+          "unit": "toan_8",
+          "group": "Chương 05",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            111,
+            112
+          ]
+        },
+        {
+          "raw": "SGK Toán 8 KNTT Tập 1, Chương 05, Công thức lãi kép, tr. 112",
+          "book": "SGK Toán 8 KNTT Tập 1",
+          "unit": "toan_8",
+          "group": "Chương 05",
+          "lesson": null,
+          "section": null,
+          "printed_pages": [
+            112
           ]
         }
       ],

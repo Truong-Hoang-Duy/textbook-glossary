@@ -5,6 +5,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 
 ---
 
+### abrasion coast
+- **Tiếng Việt:** Bờ biển mài mòn
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A coastal landform type developed along mountain spurs meeting the sea and offshore islands shaped by wave erosion (notably from Da Nang to Vung Tau), featuring an indented shoreline with sheltered deep-water bays, coves, and sandy beaches well suited for deep-water ports and coastal tourism.
+- **Giải thích (VI):** Kiểu địa hình bờ biển hình thành tại các vùng chân núi ăn sát biển và hải đảo (tiêu biểu là đoạn từ Đà Nẵng đến Vũng Tàu), có đường bờ rất khúc khuỷu với nhiều vũng, vịnh nước sâu kín gió và bãi cát, thuận lợi xây dựng cảng nước sâu và phát triển du lịch biển.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 2.c): đặc điểm và thế mạnh kinh tế của kiểu bờ biển mài mòn ở miền Trung và hải đảo Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.c), tr. 105; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3.a), tr. 105; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3.a), tr. 105, 106
+
 ### absolute elevation
 - **Tiếng Việt:** Độ cao tuyệt đối
 - **Chuyên ngành gốc:** Địa lí
@@ -197,8 +205,34 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The atmospheric space overlying Vietnam's territory, delimited on land by national borders and at sea by the outer limit of the territorial sea together with the space above islands.
 - **Giải thích (VI):** Khoảng không gian bao trùm lên lãnh thổ Việt Nam, được xác định trên đất liền bằng các đường biên giới quốc gia và trên biển bằng ranh giới phía ngoài của lãnh hải cùng không gian của các đảo.
-- **Bối cảnh:** Địa lí lớp 12, Bài 1 (Mục I.2): Xác định ranh giới vùng trời quốc gia trên phần đất liền, vùng biển và hải đảo.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1, tr. 5; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 8
+- **Bối cảnh:**
+  - Địa lí lớp 12, Bài 1 (Mục I.2): Xác định ranh giới vùng trời quốc gia trên phần đất liền, vùng biển và hải đảo.
+  - Lịch sử và Địa lí lớp 8, Bài 1 (Mục 2): xác định ranh giới bộ phận không gian vùng trời thuộc chủ quyền quốc gia Việt Nam.
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1, tr. 5; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 8; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 95; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B1 (Mục 3), tr. 95; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B1 (Mục 3), tr. 95, 96
+
+### alluvial soil group
+- **Tiếng Việt:** Nhóm đất phù sa (đất phù sa)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A major soil group accounting for about 24% of Vietnam's natural land area, formed by fluvial and marine sediment deposition in the Red River Delta, the Mekong Delta, and the Central coastal plains. Generally fertile and nutrient-rich, these soils are well suited for food crops, annual industrial crops, fruit trees, and aquaculture.
+- **Giải thích (VI):** Nhóm đất chiếm khoảng 24% diện tích đất tự nhiên của Việt Nam, hình thành từ sản phẩm bồi đắp của phù sa sông và phù sa biển tại đồng bằng sông Hồng, đồng bằng sông Cửu Long và các đồng bằng duyên hải miền Trung. Đất nhìn chung có độ phì cao và rất giàu chất dinh dưỡng, thuận lợi phát triển cây lương thực, cây công nghiệp hằng năm, cây ăn quả và thuỷ sản.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 9 (Mục 2.b): Đánh giá đặc điểm và giá trị kinh tế của nhóm đất chính ở các vùng đồng bằng Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 1), tr. 135; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 137; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 137, 138
+
+### alluvial soils of the Mekong Delta
+- **Tiếng Việt:** Đất phù sa ở đồng bằng sông Cửu Long (đất phù sa ngọt; đất phèn; đất mặn)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The sedimentary soils of the Mekong Delta differentiated into three main categories according to hydrological and coastal conditions. Highly fertile freshwater alluvial soils extend along the Tien and Hau rivers, acid sulfate soils concentrate in Dong Thap Muoi, the Long Xuyen Quadrangle, and the central Ca Mau Peninsula, and saline soils form a coastal belt.
+- **Giải thích (VI):** Tập hợp các loại đất bồi tụ tại châu thổ sông Cửu Long phân hoá thành ba loại chính gắn với điều kiện thuỷ văn và ven biển. Đất phù sa ngọt có độ phì cao phân bố thành dải dọc sông Tiền và sông Hậu, đất phèn tập trung ở Đồng Tháp Mười, Tứ giác Long Xuyên và trung tâm bán đảo Cà Mau, còn đất mặn phân bố thành dải ven biển.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 9 (Mục 2.b): Xác định sự phân bố của đất phù sa ngọt, đất phèn và đất mặn ở đồng bằng sông Cửu Long.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 137; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 137, 138; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 138
+
+### alluvial soils of the Red River Delta
+- **Tiếng Việt:** Đất phù sa ở đồng bằng sông Hồng (đất ngoài đê; đất bãi bồi; đất trong đê)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The alluvial soils of the Red River Delta characterized by low acidity, friable texture, and rich nutrient content. Under the influence of the flood-control dike system, they are differentiated into two main types: outside-dike floodplain soils replenished annually with fresh silt, and inside-dike soils no longer receiving annual natural siltation.
+- **Giải thích (VI):** Bộ phận đất phù sa ở châu thổ sông Hồng có đặc tính ít chua, tơi xốp và giàu chất dinh dưỡng. Dưới tác động của hệ thống đê ngăn lũ, đất chia thành hai loại chính gồm đất ngoài đê (đất bãi bồi) tiếp tục nhận phù sa bồi đắp hằng năm và đất trong đê không nhận phù sa bồi đắp tự nhiên hằng năm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 9 (Mục 2.b): Phân biệt đất trong đê và đất ngoài đê trong nhóm đất phù sa đồng bằng sông Hồng.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 137; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 137, 138
 
 ### alternation of day and night
 - **Tiếng Việt:** Sự luân phiên ngày đêm (Ngày đêm luân phiên)
@@ -299,6 +333,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 3 (Mục 2.b): Khai thác các tính năng định vị, dẫn đường và quản lí giao thông của GPS và bản đồ số trong đời sống.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.a), tr. 13; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.b), tr. 13; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.b), tr. 13, 14
 
+### aquatic natural ecosystem
+- **Tiếng Việt:** Hệ sinh thái tự nhiên dưới nước
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A category of natural ecosystems occurring in water environments, comprising marine (including brackish) and freshwater ecosystems. In Vietnam, this group includes inland river, stream, lake, pond, and swamp ecosystems alongside coastal and marine ecosystems such as mangrove forests, seagrass beds, coral reefs, coastal lagoons, and depth-stratified marine zones.
+- **Giải thích (VI):** Nhóm hệ sinh thái tự nhiên hình thành trong môi trường nước, bao gồm hệ sinh thái nước mặn (kể cả vùng nước lợ) và hệ sinh thái nước ngọt. Ở Việt Nam, nhóm này gồm các hệ sinh thái sông, suối, hồ, ao, đầm nội địa cùng các hệ sinh thái ven bờ và biển như rừng ngập mặn, cỏ biển, rạn san hô, đầm phá và các vùng nước biển theo độ sâu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 10 (Mục 1): Phân biệt hệ sinh thái nước ngọt và hệ sinh thái nước mặn, nước lợ ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 141; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 143; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 143
+
 ### Arabica coffee
 - **Tiếng Việt:** Cà phê A-ra-bi-ca
 - **Chuyên ngành gốc:** Địa lí
@@ -306,6 +348,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Giống cà phê đặc sản có nguồn gốc bản địa từ châu Phi, nổi tiếng thế giới nhờ hương vị thơm ngon và là mặt hàng cây công nghiệp xuất khẩu chủ lực của nhiều quốc gia thuộc môi trường nhiệt đới ẩm châu Phi.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 2): cây công nghiệp xuất khẩu tiêu biểu trong khai thác nông nghiệp ở môi trường nhiệt đới châu Phi.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 136
+
+### archipelago
+- **Tiếng Việt:** Quần đảo
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A collection of islands, including parts of islands, interconnecting waters, and other closely interrelated natural features.
+- **Giải thích (VI):** Tập hợp các đảo, bao gồm cả bộ phận của các đảo, vùng nước tiếp liền và những thành phần tự nhiên khác có liên quan chặt chẽ với nhau.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 2): Nhận diện cấu trúc tự nhiên – pháp lí của quần đảo Hoàng Sa, quần đảo Trường Sa và các quần đảo ven bờ.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 147; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149, 150
 
 ### area mental map
 - **Tiếng Việt:** Lược đồ trí nhớ một khu vực (lược đồ trí nhớ về một khu vực; lược đồ một khu vực)
@@ -332,6 +382,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bộ phận của môi trường sống của con người bao gồm tất cả các yếu tố do con người tạo ra như cơ sở hạ tầng và các khu đô thị, có ảnh hưởng tới đời sống và sự phát triển của con người.
 - **Bối cảnh:** Địa lí lớp 10, Bài 39 (Mục 1.a): Phân loại thành phần môi trường do con người tạo ra, phân biệt với môi trường tự nhiên và môi trường xã hội.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B39, tr. 108; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.a), tr. 108; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.b), tr. 108
+
+### artificial landforms
+- **Tiếng Việt:** Địa hình nhân tạo
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Landforms created or modified on the Earth's natural surface through human activities such as resource extraction, infrastructure construction, and economic development, exemplified by dikes, dams, canals, and mine workings.
+- **Giải thích (VI):** Các dạng địa hình do hoạt động khai thác tài nguyên thiên nhiên, xây dựng công trình và phát triển kinh tế của con người tạo lập hoặc làm biến đổi bề mặt địa hình tự nhiên, tiêu biểu như hệ thống đê, đập thuỷ lợi – thuỷ điện, kênh đào và hầm mỏ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 1.d): tác động ngày càng mạnh mẽ của con người làm biến đổi bề mặt địa hình Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1.c), tr. 99; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1.d), tr. 99
 
 ### ASEAN Economic Community
 - **Tiếng Việt:** Cộng đồng Kinh tế ASEAN (AEC)
@@ -408,10 +466,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The layer of air surrounding Earth that is constantly influenced by the cosmos, primarily the Sun. Its main constituent is air, a mixture of gases dominated by nitrogen (78.1%), oxygen (20.9%), and other gases (argon, carbon dioxide, water vapor, etc.), along with dust and impurities.
 - **Giải thích (VI):** Lớp không khí bao quanh Trái Đất, luôn chịu ảnh hưởng của Vũ Trụ mà trước hết là Mặt Trời. Thành phần chính của khí quyển là không khí gồm hỗn hợp các chất khí như ni-tơ (78,1%), o-xy (20,9%), các chất khí khác (ác-gông, các-bo-nic, hơi nước,...) cùng bụi và tạp chất.
 - **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The layer of air surrounding the Earth, in which air density becomes increasingly thin at higher altitudes. The atmosphere is divided into the troposphere, the stratosphere, and the upper atmospheric layers. / VI: Lớp không khí bao quanh Trái Đất, có mật độ không khí càng lên cao càng loãng. Khí quyển chia thành tầng đối lưu, tầng bình lưu và các tầng cao của khí quyển.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The layer of air thousands of kilometers thick surrounding the Earth. / VI: Lớp không khí dày tới hàng nghìn kilômét bao bọc xung quanh Trái Đất.
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 9 (Mục 1): Định nghĩa khí quyển và trình bày thành phần các chất khí cấu tạo nên khí quyển.
   - Lịch sử và Địa lí lớp 6, Bài 15 (Mở đầu, Mục 2): khái niệm chung và cấu trúc phân tầng của lớp vỏ khí bao quanh Trái Đất.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9, tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28, 29; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15, tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 1), tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 142, 143
+  - Khoa học tự nhiên lớp 8, Bài 16 (Mục II.1.a): Cơ sở hình thành áp suất khí quyển tác dụng lên Trái Đất và mọi vật trên bề mặt Trái Đất.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9, tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28, 29; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15, tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 1), tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 142, 143; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục I.2), tr. 69; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.1.a), tr. 69; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.1.b), tr. 69
 
 ### atmospheric layers
 - **Tiếng Việt:** Các tầng khí quyển
@@ -421,7 +481,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 2): cơ sở phân chia và thứ tự các tầng trong lớp vỏ khí của Trái Đất.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15, tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 1), tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 142, 143
 
-### atmospheric pressure
+### atmospheric pressure (geography)
 - **Tiếng Việt:** Khí áp (khí áp bề mặt Trái Đất)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The compressive force exerted by air on Earth's surface, with a standard sea-level average of 760 mmHg (equivalent to 1,013 mb). Atmospheric pressure varies with changes in air density driven by temperature, altitude, humidity, and air composition.
@@ -430,6 +490,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 9 (Mục 3.a): Định nghĩa khí áp, giá trị khí áp tiêu chuẩn và giải thích các nguyên nhân làm thay đổi khí áp.
   - Lịch sử và Địa lí lớp 6, Bài 15 (Mục 4): khái niệm sức ép khí quyển và cơ sở hình thành sự chuyển động của gió.
+  - *Lưu ý:* Không nhầm với 'Áp suất khí quyển' (`atmospheric pressure`) trong Vật lí.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9, tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.a), tr. 31; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 4.a), tr. 33; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15, tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 4), tr. 144; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 5), tr. 145
 
 ### Australian continent
@@ -480,6 +541,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 28 (Mục II.4): Tiềm năng và hiện trạng khai thác, chế biến quặng bô-xít ở vùng Tây Nguyên.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B28 (Mục II.3.b), tr. 132; SGK Địa lí 12 KNTT, Phần 4, B28 (Mục II.4), tr. 132
 
+### bay
+- **Tiếng Việt:** Vịnh
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A body of water forming part of a large lake, sea, or ocean that indents noticeably into the land while maintaining open circulation and water exchange with the main water body outside (such as the Gulf of Tonkin, Ha Long Bay, and Van Phong Bay).
+- **Giải thích (VI):** Một bộ phận của hồ lớn, biển hoặc đại dương ăn khá sâu vào đất liền nhưng vẫn có sự lưu thông, trao đổi nước với phần nước bên ngoài (như vịnh Bắc Bộ, vịnh Hạ Long, vịnh Vân Phong).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 1.a, 2.c): nhận diện dạng thuỷ vực ven bờ phổ biến tại các đoạn bờ biển mài mòn hoặc vùng núi đá vôi ngập biển.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 173; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1.a), tr. 97; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.a), tr. 100
+
 ### biodiversity conservation in Europe
 - **Tiếng Việt:** Bảo vệ đa dạng sinh học ở châu Âu
 - **Chuyên ngành gốc:** Địa lí
@@ -487,6 +556,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hoạt động giữ gìn các hệ sinh thái trên cạn và dưới nước của các quốc gia châu Âu thông qua việc ban hành nhiều chính sách bảo vệ, phát triển rừng bền vững và giảm thiểu các nguyên nhân gây ô nhiễm môi trường nước, môi trường đất.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 3 (Mục 2): hoạt động bảo tồn các hệ sinh thái trên cạn và dưới nước ở châu Âu.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1.b), tr. 105; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2), tr. 105
+
+### biodiversity conservation measures in Vietnam
+- **Tiếng Việt:** Biện pháp bảo tồn đa dạng sinh học ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A comprehensive set of actions aimed at protecting and restoring natural ecosystems, rare species, and genetic resources in Vietnam. Key measures include establishing national parks and nature reserves, reforesting and protecting natural forests, curbing deforestation, illegal wildlife hunting, and overfishing, treating waste to reduce habitat pollution, and raising public awareness.
+- **Giải thích (VI):** Hệ thống giải pháp nhằm bảo vệ và khôi phục các hệ sinh thái tự nhiên, động thực vật quý hiếm và nguồn gen tại Việt Nam. Các biện pháp chủ yếu gồm xây dựng vườn quốc gia và khu bảo tồn thiên nhiên, tăng cường trồng và bảo vệ rừng tự nhiên, ngăn chặn phá rừng, săn bắt trái phép và đánh bắt thuỷ sản quá mức, xử lí chất thải giảm ô nhiễm môi trường sống và nâng cao ý thức người dân.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 10 (Mục 2): Đề xuất các hành động thiết thực để bảo vệ giới sinh vật và môi trường tự nhiên ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 144
+
+### biodiversity decline in Vietnam
+- **Tiếng Việt:** Suy giảm đa dạng sinh học ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The severe deterioration of individual populations, species richness, genetic resources, and natural ecosystems in Vietnam. Driven by climate change alongside human activities such as deforestation, shifting cultivation, illegal wildlife exploitation, overfishing, pollution, and invasive species, it threatens many rare species with extinction and has largely reduced primary forests to secondary forests while endangering mangrove and marine ecosystems.
+- **Giải thích (VI):** Quá trình suy thoái nghiêm trọng về số lượng cá thể, thành phần loài, nguồn gen và các hệ sinh thái tự nhiên ở Việt Nam. Tác động của biến đổi khí hậu cùng các hoạt động phá rừng, đốt nương rẫy, khai thác quá mức, gây ô nhiễm môi trường và du nhập loài ngoại lai đã đẩy nhiều loài quý hiếm tới nguy cơ tuyệt chủng, làm rừng nguyên sinh chỉ còn chủ yếu là rừng thứ sinh và đe doạ rừng ngập mặn, hệ sinh thái biển.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 10 (Mục 2): Phân tích thực trạng và nguyên nhân làm suy giảm đa dạng sinh học để chứng minh tính cấp thiết của công tác bảo tồn.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 143; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 143, 144
+
+### biodiversity in Vietnam
+- **Tiếng Việt:** Đa dạng sinh học ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The biological richness of Vietnam's flora and fauna manifested across three levels: species composition, genetic diversity, and ecosystem types. Ranked among the world's 16 most biodiverse countries, Vietnam hosts over 50,000 identified species, including numerous rare and precious plants and animals with abundant populations within species.
+- **Giải thích (VI):** Sự phong phú của giới sinh vật Việt Nam thể hiện đồng thời ở ba cấp độ gồm thành phần loài, gen di truyền và kiểu hệ sinh thái. Thuộc nhóm 16 quốc gia có đa dạng sinh học cao nhất thế giới, Việt Nam có hơn 50 000 loài đã xác định với nhiều loài động, thực vật quý hiếm cùng số lượng cá thể phong phú trong mỗi loài.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 10 (Mục 1): Chứng minh sự đa dạng cao về loài, nguồn gen và hệ sinh thái của sinh vật Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10, tr. 141; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 141; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 141, 142
 
 ### biological resource depletion
 - **Tiếng Việt:** Suy giảm tài nguyên sinh vật
@@ -657,6 +750,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Khu vực nội lục duy nhất của châu Á không giáp đại dương, rộng hơn 4 triệu km² với địa hình thấp dần từ hệ thống núi cao phía đông (Pa-mia, Thiên Sơn, An-tai) sang các cao nguyên, đồng bằng phía tây tới hồ Ca-xpi. Khu vực có khí hậu ôn đới lục địa khô hạn, hai sông lớn Xưa Đa-ri-a và A-mu Đa-ri-a đổ vào hồ A-ran cùng nguồn khoáng sản giàu dầu mỏ, than đá và kim loại.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 2.b): đặc điểm tự nhiên của khu vực nội lục nằm ở trung tâm lục địa Á – Âu.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.b), tr. 120
+
+### Central coastal plains of Vietnam
+- **Tiếng Việt:** Các đồng bằng duyên hải miền Trung
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A chain of coastal plains in central Vietnam totaling about 15,000 km², fragmented into narrow lowlands by transverse mountain spurs reaching the sea (the largest being the Thanh Hoa Plain at 3,100 km²). Their soils are less fertile than those of the two major river deltas due to mixed fluvial and marine alluvial origins and the widespread presence of coastal sand dunes.
+- **Giải thích (VI):** Dải đồng bằng ven biển miền Trung có tổng diện tích khoảng 15 000 km², bị các nhánh núi đâm ngang ăn sát ra biển chia cắt thành nhiều đồng bằng nhỏ hẹp (rộng nhất là đồng bằng Thanh Hoá rộng 3 100 km²). Đất đai ở đây kém màu mỡ hơn hai đồng bằng châu thổ hạ lưu sông do có nguồn gốc hỗn hợp từ phù sa sông và phù sa biển, trong đồng bằng có nhiều cồn cát.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 2.b): đặc điểm chia cắt địa hình và nguồn gốc đất của dải đồng bằng ven biển miền Trung.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.b), tr. 103; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.b), tr. 104
 
 ### Central Highlands
 - **Tiếng Việt:** Tây Nguyên
@@ -830,16 +931,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Long-term alteration of climate driven by natural conditions and human activities. Its primary manifestations include global warming, sea-level rise, and an increase in extreme hydrometeorological events.
 - **Giải thích (VI):** Sự thay đổi của khí hậu trong khoảng thời gian dài dưới tác động của điều kiện tự nhiên và hoạt động của con người. Biểu hiện chính gồm sự nóng lên toàn cầu, mực nước biển dâng và sự gia tăng các hiện tượng khí tượng thuỷ văn cực đoan.
-- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 17 (Mục 3.a): nhận diện khái niệm, nguyên nhân và các biểu hiện chủ yếu của biến đổi khí hậu.
-- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.a), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.b), tr. 151, 152
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: Changes in the average values of climatic elements (such as temperature, humidity, and precipitation) between periods lasting from several decades to centuries, caused primarily by human activities. / VI: Sự thay đổi giá trị trung bình của các yếu tố khí hậu (như nhiệt độ, độ ẩm, lượng mưa) giữa các giai đoạn kéo dài từ vài thập kỉ đến hàng thế kỉ, có nguyên nhân chủ yếu từ tác động của con người.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 17 (Mục 3.a): nhận diện khái niệm, nguyên nhân và các biểu hiện chủ yếu của biến đổi khí hậu.
+  - Khoa học tự nhiên lớp 8, Bài 47 (Mục III.1): Sự biến đổi dài hạn của các yếu tố khí hậu toàn cầu và các biện pháp thích ứng tại địa phương.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.a), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.b), tr. 151, 152; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục III.1), tr. 194; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục III.2), tr. 194
+
+### climate change adaptation
+- **Tiếng Việt:** Thích ứng với biến đổi khí hậu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The adjustment of natural systems and human activities to suit new or altered environmental conditions, thereby reducing harm or utilizing beneficial opportunities from current and future climatic impacts. Typical measures include adjusting cropping calendars and resilient varieties, upgrading water-control infrastructure, and adopting advanced production technologies.
+- **Giải thích (VI):** Sự điều chỉnh các hệ thống tự nhiên và hoạt động của con người để phù hợp với môi trường mới hoặc bị thay đổi, qua đó giảm tác hại hoặc tận dụng mặt có lợi trước tác động thực tại và tương lai của khí hậu. Các biện pháp tiêu biểu gồm thay đổi cơ cấu mùa vụ và giống cây trồng, vật nuôi, nâng cấp hệ thống thuỷ lợi và ứng dụng công nghệ sản xuất tiên tiến.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 8 (Mục 3): Vận dụng các giải pháp điều chỉnh sản xuất nông nghiệp, công nghiệp, dịch vụ và đời sống trước biến đổi khí hậu.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B8 (Mục 3), tr. 132; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B8 (Mục 3), tr. 132, 133; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B8 (Mục 3), tr. 133
+
+### climate change mitigation
+- **Tiếng Việt:** Giảm nhẹ biến đổi khí hậu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Actions aimed at reducing the magnitude or intensity of greenhouse gas emissions into the atmosphere. Key measures include conserving energy and water, expanding renewable energy sources, afforestation and forest protection, and sorting and treating waste.
+- **Giải thích (VI):** Nhóm hoạt động nhằm cắt giảm mức độ hoặc cường độ phát thải khí nhà kính vào khí quyển. Các giải pháp chủ yếu bao gồm tiết kiệm năng lượng và nước, phát triển năng lượng tái tạo, trồng và bảo vệ rừng cùng với phân loại, xử lí chất thải.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 8 (Mục 3): Phân biệt các giải pháp hạn chế nguyên nhân gây phát thải khí nhà kính với các giải pháp thích ứng.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B8 (Mục 3), tr. 132; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B8 (Mục 3), tr. 132, 133
 
 ### climate change response
 - **Tiếng Việt:** Ứng phó với biến đổi khí hậu
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Human actions aimed at adapting to the impacts of climate change and mitigating its progression.
 - **Giải thích (VI):** Các hoạt động của con người nhằm thích ứng với tác động của biến đổi khí hậu và giảm nhẹ mức độ biến đổi khí hậu.
-- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 17 (Mục 3.b): đề xuất các giải pháp giảm phát thải khí nhà kính và thích ứng với biến đổi khí hậu.
-- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: The comprehensive set of coordinated human actions undertaken both to adapt to changing climatic conditions and to mitigate the drivers of climate change in order to ensure sustainable development. / VI: Tổng thể các hoạt động của con người triển khai đồng bộ nhằm vừa thích ứng với biến đổi khí hậu, vừa giảm nhẹ các tác nhân gây ra biến đổi khí hậu để bảo đảm phát triển bền vững.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 17 (Mục 3.b): đề xuất các giải pháp giảm phát thải khí nhà kính và thích ứng với biến đổi khí hậu.
+  - Lịch sử và Địa lí lớp 8, Bài 8 (Mục 3): Khái quát hai nhóm giải pháp đồng bộ trước biến đổi khí hậu gồm giảm nhẹ và thích ứng.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B8 (Mục 3), tr. 132; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B8 (Mục 3), tr. 132, 133; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B8 (Mục 3), tr. 133
 
 ### climate change response in Europe
 - **Tiếng Việt:** Ứng phó với biến đổi khí hậu ở châu Âu
@@ -945,6 +1068,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 18 (Mục II.2): Sự phân hoá đa dạng các đới và kiểu khí hậu trên lãnh thổ Hoa Kỳ.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B18 (Mục II.1), tr. 83; SGK Địa lí 11 KNTT, Phần hai, B18 (Mục II.2), tr. 83
 
+### climate of Vietnam's seas and islands
+- **Tiếng Việt:** Khí hậu vùng biển đảo Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The tropical monsoon climatic regime over Vietnam's seas and islands featuring mean annual air temperatures of 23–28 °C, a smaller annual temperature range than on land, and annual rainfall exceeding 1,100 mm. Strong marine winds reverse seasonally (northeast from October to April, southeast from May to September), accompanied by frequent natural hazards including typhoons (averaging 3–4 direct landfalls per year), tropical depressions, and waterspouts.
+- **Giải thích (VI):** Chế độ khí hậu nhiệt đới gió mùa trên vùng biển đảo Việt Nam với nhiệt độ không khí trung bình năm dao động 23–28 °C, biên độ nhiệt năm nhỏ hơn trên đất liền và lượng mưa trên 1 100 mm/năm. Gió trên biển thổi mạnh, đổi hướng theo mùa (đông bắc từ tháng 10 đến tháng 4 năm sau, đông nam từ tháng 5 đến tháng 9) và khu vực thường chịu nhiều thiên tai như bão (trung bình 3–4 cơn/năm trực tiếp đổ bộ), áp thấp nhiệt đới, lốc.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 3.b): Phân tích đặc điểm nhiệt, mưa, hoàn lưu gió và thiên tai trên vùng biển đảo Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 3.a), tr. 152; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 3.b), tr. 152; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 3.c), tr. 152
+
 ### climate of Western China
 - **Tiếng Việt:** Khí hậu miền Tây Trung Quốc
 - **Chuyên ngành gốc:** Địa lí
@@ -970,15 +1101,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B10 (Mục 1), tr. 35
 
 ### climograph
-- **Tiếng Việt:** Biểu đồ nhiệt độ và lượng mưa (Biểu đồ nhiệt độ, lượng mưa)
+- **Tiếng Việt:** Biểu đồ nhiệt độ và lượng mưa (Biểu đồ nhiệt độ, lượng mưa; Biểu đồ khí hậu)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A climatic chart combining a line graph of monthly mean temperatures (°C) with a bar graph of monthly precipitation (mm) and total mean annual precipitation recorded at a meteorological station. It is used to analyze monthly temperature extremes, annual temperature range, total precipitation, and rainfall regime to identify specific climate types.
 - **Giải thích (VI):** Dạng biểu đồ khí hậu kết hợp đường biểu diễn nhiệt độ trung bình các tháng (°C) với cột biểu diễn lượng mưa các tháng trong năm (mm) và tổng lượng mưa trung bình năm tại một trạm khí tượng. Biểu đồ này dùng để phân tích nhiệt độ tháng cao nhất, tháng thấp nhất, biên độ nhiệt độ năm, tổng lượng mưa và chế độ mưa nhằm nhận diện các kiểu khí hậu.
 - **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A combined chart illustrating the progression of temperature (°C) and precipitation (mm) at a location across the months of the year using a red curve, blue bars, two vertical axes with measurement units, and a horizontal time axis. From the chart, readers determine monthly extremes, annual temperature range, and mean annual values of temperature and precipitation. / VI: Biểu đồ kết hợp biểu diễn diễn biến nhiệt độ (°C) và lượng mưa (mm) tại một địa điểm qua các tháng trong năm bằng đường biểu diễn màu đỏ, các cột màu xanh cùng hai trục dọc ghi đơn vị đo và trục ngang chỉ thời gian. Qua biểu đồ, người đọc xác định các cực trị tháng, biên độ nhiệt độ năm và giá trị trung bình năm của nhiệt độ, lượng mưa.
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: A combined bar-and-line chart used to visually represent monthly temperature and precipitation regimes throughout the year at a meteorological station. Monthly precipitation totals are plotted as vertical bars, while monthly mean temperatures are plotted as a continuous line. / VI: Dạng biểu đồ kết hợp cột và đường dùng để thể hiện trực quan chế độ nhiệt và chế độ mưa theo các tháng trong năm tại một trạm khí tượng. Trên biểu đồ, lượng mưa trung bình các tháng biểu diễn bằng cột và nhiệt độ trung bình các tháng biểu diễn bằng đường.
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 10 (Mục 2): Phân tích diễn biến nhiệt độ và lượng mưa của các trạm khí tượng tiêu biểu cho từng kiểu khí hậu.
   - Lịch sử và Địa lí lớp 6, Bài 18 (Mục 1, 2): thực hành nhận biết cấu tạo và phân tích biểu đồ nhiệt độ, lượng mưa của các địa điểm thuộc các đới khí hậu khác nhau.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B10 (Mục 1), tr. 35; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B18 (Mục 1), tr. 153; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B18 (Mục 2), tr. 153
+  - Lịch sử và Địa lí lớp 8, Bài 5 (Mục Thực hành): Vẽ và phân tích biểu đồ nhiệt độ, lượng mưa của các trạm khí tượng ở Việt Nam.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B10 (Mục 1), tr. 35; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B18 (Mục 1), tr. 153; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B18 (Mục 2), tr. 153; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B5, tr. 118
 
 ### cloud (geography)
 - **Tiếng Việt:** Mây
@@ -1119,8 +1252,9 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích khác (SGK GD KT&PL 12):** EN: A maritime zone adjacent to and seaward of the territorial sea with a breadth of 12 nautical miles, belonging to the maritime zones under the sovereign rights of the coastal state. Within this zone, the coastal state may exercise necessary control to prevent and punish infringements of its customs, fiscal, sanitary, or immigration laws and regulations committed within its territory or territorial sea. / VI: Vùng biển tiếp liền phía ngoài lãnh hải có chiều rộng 12 hải lí, thuộc các vùng biển có quyền chủ quyền của quốc gia ven biển. Tại vùng này, quốc gia ven biển được thi hành sự kiểm soát cần thiết nhằm ngăn ngừa và trừng trị các vi phạm đối với pháp luật và quy định về hải quan, thuế khoá, y tế hoặc nhập cư xảy ra trên lãnh thổ hay trong lãnh hải của mình.
 - **Bối cảnh:**
   - Địa lí lớp 12, Bài 1 (Mục I.2): Xác định vị trí và chiều rộng của vùng tiếp giáp lãnh hải Việt Nam.
+  - Lịch sử và Địa lí lớp 8, Bài 11 (Mục 2): Xác định vị trí và chiều rộng các vùng biển của Việt Nam trên sơ đồ mặt cắt khái quát.
   - Giáo dục Kinh tế và Pháp luật lớp 12, Bài 15 (Mục 3.b): vùng biển tiếp liền ngoài lãnh hải nơi quốc gia ven biển thực hiện quyền chủ quyền và quyền kiểm soát chuyên biệt.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7, 8; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.a), tr. 121; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.b), tr. 121, 122
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7, 8; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149, 150; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 150; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.a), tr. 121; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.b), tr. 121, 122
 
 ### continent
 - **Tiếng Việt:** Châu lục
@@ -1188,6 +1322,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Khái niệm pháp lí về vùng thềm lục địa theo Điều 76 Công ước Luật Biển năm 1982 (xác định theo khoảng cách 200–350 hải lí và mép ngoài rìa lục địa), phân biệt với thềm lục địa tự nhiên xác định theo độ sâu địa hình trong địa chất – địa lí học.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 8; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục II.1), tr. 8; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.a), tr. 121; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.b), tr. 121, 122
 
+### continental shelf of Vietnam
+- **Tiếng Việt:** Thềm lục địa Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The submarine geomorphic continuation of Vietnam's landmass beneath the sea, exhibiting clear spatial differentiation: shallow and broad off Northern and Southern Vietnam, but deeper and narrower off the central coast.
+- **Giải thích (VI):** Bộ phận địa hình dưới đáy biển tiếp nối bờ biển đất liền của Việt Nam, phân hoá rõ rệt theo không gian: nông và mở rộng tại vùng biển Bắc Bộ và Nam Bộ, nhưng sâu hơn và thu hẹp tại vùng biển miền Trung.
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: The seabed and subsoil of the submarine areas adjacent to and beyond Vietnam's territorial sea, extending throughout the natural prolongation of its mainland territory, islands, and archipelagos to the outer edge of the continental margin. / VI: Phần đáy biển và lòng đất dưới đáy biển tiếp liền và nằm ngoài lãnh hải Việt Nam, trải trên toàn bộ phần kéo dài tự nhiên của lãnh thổ đất liền, các đảo và quần đảo của Việt Nam cho đến mép ngoài của rìa lục địa.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 8, Bài 2 (Mục 2.c): đặc điểm hình thái địa hình đáy biển ven bờ gắn với tiềm năng khai thác dầu khí và thuỷ sản.
+  - Lịch sử và Địa lí lớp 8, Bài 11 (Mục 2): Xác định bộ phận đáy biển và lòng đất dưới đáy biển thuộc quyền chủ quyền của Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.c), tr. 105; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3.a), tr. 105; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3.a), tr. 105, 106; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149, 150
+
 ### contour interval
 - **Tiếng Việt:** Khoảng cao đều
 - **Chuyên ngành gốc:** Địa lí
@@ -1238,6 +1383,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với Hội đồng châu Âu (European Council) gồm nguyên thủ các nước thành viên quyết định đường lối chính trị chung.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39, 40
 
+### cove
+- **Tiếng Việt:** Vũng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A small, sheltered bay indenting into the coast, typically bounded on the seaward side by rocky headlands, islands, or sandbars so that its calm waters are protected from waves and winds, providing favorable anchorage for vessels.
+- **Giải thích (VI):** Vịnh nhỏ nơi phần biển ăn sâu vào đất liền, thường có mũi đá, đảo hoặc doi cát giới hạn ở phía ngoài nên mặt nước tương đối kín, ít chịu ảnh hưởng của sóng gió và thuận lợi cho tàu thuyền neo đậu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 2.c, 3.b): phân biệt vũng với vịnh và đánh giá điều kiện tự nhiên xây dựng cảng nước sâu dọc bờ biển miền Trung.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 173; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.c), tr. 105; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3.b), tr. 107
+
 ### crop production
 - **Tiếng Việt:** Ngành trồng trọt
 - **Chuyên ngành gốc:** Địa lí
@@ -1278,6 +1431,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 20 (Mục III.2): Đặc điểm tôn giáo, bản sắc văn hoá và thành tựu khoa học – nghệ thuật của Liên bang Nga.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B20 (Mục III.1), tr. 103; SGK Địa lí 11 KNTT, Phần hai, B20 (Mục III.2), tr. 103; SGK Địa lí 11 KNTT, Phần hai, B20 (Mục III.2), tr. 103, 104
 
+### Cuu Long River system
+- **Tiếng Việt:** Hệ thống sông Cửu Long (hạ lưu sông Mê Công)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The lower section of the Mekong River flowing over 230 km through Vietnam, consisting of two main branches—the Tien and Hau rivers—which currently empty into the East Sea through eight estuaries, along with an intricate network of rivers and canals across the delta. The system carries a vast sediment load and a total annual discharge of 507 billion m³/year, accounting for 60.4% of the total surface runoff of all rivers in Vietnam.
+- **Giải thích (VI):** Phần hạ lưu sông Mê Công chảy trên lãnh thổ Việt Nam dài hơn 230 km, gồm hai nhánh chính là sông Tiền và sông Hậu hiện đổ ra Biển Đông qua tám cửa sông cùng mạng lưới sông ngòi, kênh rạch chằng chịt trên bề mặt châu thổ. Hệ thống sông này có tổng lượng phù sa rất lớn và tổng lượng dòng chảy đạt 507 tỉ m³/năm, chiếm 60,4% tổng lượng nước của tất cả sông ngòi ở Việt Nam.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Chủ đề chung 1 (Mục 2.a): vai trò của sông Tiền, sông Hậu và mạng lưới kênh rạch đối với châu thổ sông Cửu Long.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1, tr. 157; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1.b), tr. 159; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.a), tr. 159
+
 ### degradation and depletion of natural resources
 - **Tiếng Việt:** Suy thoái và cạn kiệt tài nguyên thiên nhiên
 - **Chuyên ngành gốc:** Địa lí
@@ -1301,6 +1462,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quá trình ngoại lực tích tụ các vật liệu sau vận chuyển để tạo ra các dạng địa hình bồi tụ như đồng bằng, bãi bồi.
 - **Bối cảnh:** Địa lí lớp 10, Bài 7 (Mục 2.b): Phân tích cơ chế tích tụ vật liệu hình thành các dạng địa hình bồi tụ.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 2.b), tr. 26
+
+### depositional coast
+- **Tiếng Việt:** Bờ biển bồi tụ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A coastal landform type developed at sediment-rich river deltas (such as the Red River and Mekong deltas), characterized by low, flat relief, extensive mudflats, and thriving mangrove forests favorable for aquaculture.
+- **Giải thích (VI):** Kiểu địa hình bờ biển hình thành tại các vùng châu thổ cửa sông giàu phù sa bồi đắp (như châu thổ sông Hồng và sông Cửu Long), đặc trưng bởi địa hình thấp phẳng, nhiều bãi bùn rộng và rừng cây ngập mặn phát triển, thuận lợi cho nuôi trồng thuỷ sản.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 2.c): phân biệt hai kiểu địa hình bờ biển chủ yếu của Việt Nam và giá trị khai thác kinh tế.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.c), tr. 105; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3.a), tr. 105; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3.a), tr. 105, 106
 
 ### desert environment
 - **Tiếng Việt:** Môi trường hoang mạc
@@ -1520,10 +1689,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A major sea in the western Pacific Ocean extending from approximately 3°S to 26°N latitude and 100°E to 121°E longitude over an area of 3.44 million km² (second largest in the Pacific and third largest globally), encompassing two major gulfs: the Gulf of Tonkin and the Gulf of Thailand. Characterized by a tropical monsoon climate with an average salinity of 32–33‰ and seasonally reversing ocean currents, it is rich in mineral, biological, and tourism resources.
 - **Giải thích (VI):** Biển lớn nằm ở phía tây Thái Bình Dương, trải dài từ khoảng vĩ độ 3°N đến 26°B và kinh độ 100°Đ đến 121°Đ với diện tích 3,44 triệu km² (lớn thứ hai ở Thái Bình Dương và thứ ba trên thế giới), gồm hai vịnh biển lớn là vịnh Bắc Bộ và vịnh Thái Lan. Vùng biển này mang tính chất nhiệt đới gió mùa với độ muối trung bình 32 – 33‰, các dòng biển thay đổi theo mùa và giàu tài nguyên khoáng sản, sinh vật, du lịch.
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: A relatively enclosed marginal sea of the Pacific Ocean extending from approximately 3°S to 26°N latitude and 100°E to 121°E longitude, covering about 3.44 million km² as the second largest sea in the Pacific and third largest in the world. It is shared by Vietnam and eight other countries: China, the Philippines, Indonesia, Brunei, Malaysia, Singapore, Thailand, and Cambodia. / VI: Biển tương đối kín thuộc Thái Bình Dương trải rộng từ khoảng vĩ độ 3°N đến 26°B và từ khoảng kinh độ 100°Đ đến 121°Đ, có diện tích khoảng 3,44 triệu km² (lớn thứ hai ở Thái Bình Dương và thứ ba trên thế giới). Các quốc gia có chung vùng biển này với Việt Nam gồm Trung Quốc, Phi-líp-pin, In-đô-nê-xi-a, Bru-nây, Ma-lai-xi-a, Xin-ga-po, Thái Lan và Cam-pu-chia.
 - **Bối cảnh:**
   - Địa lí lớp 12, Bài 33 (Mục I.1): Vị trí, phạm vi và đặc điểm tự nhiên, tài nguyên thiên nhiên của Biển Đông.
+  - Lịch sử và Địa lí lớp 8, Bài 11 (Mục 1): Xác định vị trí địa lí, quy mô diện tích của Biển Đông và các quốc gia có chung Biển Đông với Việt Nam.
   - *Lưu ý:* Trong tiếng Anh hành chính và giáo dục tại Việt Nam dùng chuẩn là East Sea (hoặc Bien Dong); trong tài liệu địa lí và hàng hải quốc tế thường ghi là South China Sea.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B33, tr. 165; SGK Địa lí 12 KNTT, Phần 4, B33 (Mục I.1), tr. 165; SGK Địa lí 12 KNTT, Phần 4, B33 (Mục I.2), tr. 165
+  - *Lưu ý:* Trong tài liệu địa lí và bản đồ quốc tế tiếng Anh, Biển Đông còn phổ biến với tên gọi South China Sea.
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B33, tr. 165; SGK Địa lí 12 KNTT, Phần 4, B33 (Mục I.1), tr. 165; SGK Địa lí 12 KNTT, Phần 4, B33 (Mục I.2), tr. 165; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11, tr. 145; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 1), tr. 145; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 1), tr. 145, 146
 
 ### Eastern Asia
 - **Tiếng Việt:** Khu vực Đông Á
@@ -1810,13 +1982,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 11 (Mục 1): phân biệt tác nhân kiến tạo từ trong lòng Trái Đất với quá trình ngoại sinh.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11, tr. 131; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11 (Mục 1), tr. 131; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 132
 
+### endogenous mineral deposits
+- **Tiếng Việt:** Mỏ khoáng sản nội sinh
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Mineral deposits formed by internal geological processes in zones of deep faulting, intense folding, and intrusive or extrusive magmatic activity, concentrated in Vietnam across the Northeast and Northwest mountainous regions and the Truong Son Range.
+- **Giải thích (VI):** Các mỏ khoáng sản hình thành dưới tác động của nội lực địa chất tại những khu vực có đứt gãy sâu, uốn nếp mạnh và hoạt động mac-ma xâm nhập hoặc phun trào, phân bố tập trung ở vùng núi Đông Bắc, vùng núi Tây Bắc và dãy Trường Sơn.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 3 (Mục 1): giải thích nguồn gốc hình thành và sự phân bố khoáng sản theo các đới kiến tạo địa chất.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1), tr. 110; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2), tr. 110; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2), tr. 110, 111
+
 ### energy minerals
 - **Tiếng Việt:** Khoáng sản năng lượng (khoáng sản nhiên liệu)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A group of mineral resources, including coal and petroleum, extracted for use as fuel in the energy industry and as raw materials in the chemical industry.
 - **Giải thích (VI):** Nhóm khoáng sản gồm các loại như than đá, dầu mỏ, khai thác để làm nhiên liệu cho ngành công nghiệp năng lượng và nguyên liệu cho công nghiệp hoá chất.
-- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 2): phân loại ba nhóm khoáng sản chính theo công dụng kinh tế.
-- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2), tr. 137
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: A category of mineral resources classified by use as fuel for industrial production and national energy security, represented in Vietnam mainly by coal (concentrated in the Quang Ninh coal basin), crude oil, and natural gas (distributed chiefly on the southeastern continental shelf). / VI: Nhóm khoáng sản phân loại theo công dụng dùng làm nhiên liệu cung cấp năng lượng cho sản xuất công nghiệp và bảo đảm an ninh năng lượng quốc gia, tiêu biểu ở Việt Nam gồm than đá (tập trung ở bể than Quảng Ninh), dầu mỏ và khí tự nhiên (phân bố chủ yếu ở vùng thềm lục địa phía đông nam).
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 13 (Mục 2): phân loại ba nhóm khoáng sản chính theo công dụng kinh tế.
+  - Lịch sử và Địa lí lớp 8, Bài 3 (Mục 1, 2): phân loại cơ cấu khoáng sản theo công dụng và xác định vùng phân bố các mỏ nhiên liệu trọng điểm của Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2), tr. 137; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B3, tr. 109; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1), tr. 109; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1), tr. 109, 110
 
 ### energy security
 - **Tiếng Việt:** An ninh năng lượng
@@ -1851,19 +2034,6 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Những biến đổi của môi trường tự nhiên do hoạt động sản xuất công nghiệp gây ra, đặc biệt là việc xả chất thải rắn, lỏng, khí làm phá vỡ chu trình cân bằng vật chất khi sử dụng công nghệ lạc hậu. Khí thải và việc đốt nhiên liệu hoá thạch gây ô nhiễm không khí, hiệu ứng nhà kính và biến đổi khí hậu, trong khi nước thải chứa hoá chất độc hại chưa qua xử lí làm ô nhiễm nghiêm trọng môi trường nước và đất.
 - **Bối cảnh:** Địa lí lớp 10, Bài 31 (Mục 1): phân tích hệ quả ô nhiễm không khí, nước, đất và biến đổi khí hậu từ chất thải công nghiệp.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 1), tr. 88
-
-### environmental pollution
-- **Tiếng Việt:** Ô nhiễm môi trường
-- **Chuyên ngành gốc:** Địa lí
-- **Giải thích (EN):** The alteration of the physical, chemical, and biological properties of environmental components in violation of environmental technical regulations and standards, causing adverse impacts on human health, organisms, and nature.
-- **Giải thích (VI):** Sự biến đổi tính chất vật lí, hoá học, sinh học của thành phần môi trường không phù hợp với quy chuẩn kĩ thuật môi trường và tiêu chuẩn môi trường, gây ảnh hưởng xấu đến sức khoẻ con người, sinh vật và tự nhiên.
-- **Giải thích khác (SGK Địa lí 12):** EN: The adverse alteration of living-environment quality caused by waste accumulation across air, water, and soil media. In Vietnam, pollution is increasingly acute in the air (particularly fine particulate matter in major cities and industrial zones) and in water bodies (across certain river sections, groundwater, and marine waters). / VI: Tình trạng biến đổi bất lợi chất lượng không gian sống do tác động của các chất thải đối với môi trường không khí, nước và đất. Tại Việt Nam, mức độ ô nhiễm ngày càng gia tăng ở một số khu vực, đáng chú ý nhất là ô nhiễm không khí (đặc biệt là bụi mịn tại các thành phố lớn, khu công nghiệp) và ô nhiễm nước (ở một số đoạn sông, nước ngầm, nước biển).
-- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: An adverse alteration in the properties of the natural environment (air, water, and soil) that violates environmental standards, typically resulting from the release of dust, emissions, liquid effluents, and solid waste. / VI: Sự biến đổi tính chất của môi trường tự nhiên (khí quyển, nước, đất) theo hướng xấu đi và vi phạm các tiêu chuẩn môi trường, thường phát sinh khi bụi, khí thải, chất thải lỏng và chất thải rắn bị xả vào tự nhiên.
-- **Bối cảnh:**
-  - Địa lí lớp 10, Bài 39 (Mục 1.b, Em có biết?): Giải thích khái niệm ô nhiễm môi trường dựa trên sự biến đổi tính chất thành phần môi trường không phù hợp quy chuẩn.
-  - Địa lí lớp 12, Bài 5 (Mục II.1): Phân tích hiện trạng và nguyên nhân ô nhiễm không khí, nước và đất ở Việt Nam.
-  - Lịch sử và Địa lí lớp 6, Bài 28 (Mục 2): Phân tích tác động tiêu cực của sản xuất và sinh hoạt con người làm suy giảm chất lượng môi trường sống.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.b), tr. 109; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 2.a), tr. 109; SGK Địa lí 12 KNTT, Phần 1, B5, tr. 28; SGK Địa lí 12 KNTT, Phần 1, B5 (Mục I.2), tr. 30; SGK Địa lí 12 KNTT, Phần 1, B5 (Mục I.3), tr. 30; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 2), tr. 186
 
 ### environmental protection
 - **Tiếng Việt:** Bảo vệ môi trường
@@ -1956,10 +2126,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích khác (SGK Lịch sử 12):** EN: A maritime zone beyond and adjacent to the territorial sea that, together with the territorial sea, extends 200 nautical miles from the baseline. Within this zone, the coastal state exercises sovereign rights and holds exclusive rights to exploit and utilize marine resources. / VI: Vùng biển nằm ngoài và tiếp liền với lãnh hải, hợp với lãnh hải thành một vùng biển có chiều rộng 200 hải lí tính từ đường cơ sở. Trong vùng biển này, quốc gia ven biển thực hiện quyền chủ quyền và có đặc quyền khai thác, sử dụng các tài nguyên biển.
 - **Bối cảnh:**
   - Địa lí lớp 12, Bài 1 (Mục I.2): Xác định phạm vi vùng đặc quyền kinh tế tính từ đường cơ sở của Việt Nam.
+  - Lịch sử và Địa lí lớp 8, Bài 11 (Mục 2): Phân biệt phạm vi tính chiều rộng của vùng đặc quyền kinh tế với lãnh hải và vùng tiếp giáp lãnh hải.
   - Giáo dục Kinh tế và Pháp luật lớp 12, Bài 15 (Mục 3.b): vùng biển thuộc quyền chủ quyền của quốc gia ven biển (không thuộc chủ quyền lãnh thổ tuyệt đối), phân biệt với vùng lãnh hải.
   - Lịch sử lớp 12, Bài 9 (Mục 2.c): Giải thích khái niệm pháp lí biển trong Tuyên bố ngày 12 – 5 – 1977 của Chính phủ Việt Nam và Công ước Liên hợp quốc về Luật Biển năm 1982.
   - *Lưu ý:* Chiều rộng 200 hải lí được tính từ đường cơ sở (hợp với 12 hải lí của lãnh hải), không phải tính cộng thêm 200 hải lí từ ranh giới ngoài của lãnh hải.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7, 8; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 2), tr. 116; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.a), tr. 121; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.b), tr. 121; SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.c), tr. 57
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7, 8; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 146; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149, 150; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 2), tr. 116; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.a), tr. 121; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.b), tr. 121; SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.c), tr. 57
 
 ### exogenic force
 - **Tiếng Việt:** Ngoại lực
@@ -1976,6 +2147,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Các quá trình địa chất xảy ra ở bên ngoài, trên bề mặt Trái Đất. Quá trình ngoại sinh có xu hướng phá vỡ, san bằng các địa hình do nội sinh tạo nên và đồng thời hình thành các dạng địa hình mới.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 11 (Mục 1): phân biệt tác động phá huỷ, san bằng địa hình trên bề mặt Trái Đất với quá trình nội sinh.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11, tr. 131; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11 (Mục 1), tr. 131; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 132
+
+### exogenous mineral deposits
+- **Tiếng Việt:** Mỏ khoáng sản ngoại sinh
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Mineral deposits formed by external sedimentary processes through deposition and accumulation of ore-bearing materials derived from ancient folded terrains in shallow seas, coastal zones, or low-lying basins.
+- **Giải thích (VI):** Các mỏ khoáng sản hình thành từ quá trình trầm tích, bồi đắp và lắng đọng vật liệu có nguồn gốc từ các vùng uốn nếp cổ chứa quặng tại các vùng biển nông, vùng bờ biển hoặc các vùng trũng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 3 (Mục 1): phân biệt nguồn gốc hình thành mỏ khoáng sản ngoại sinh với mỏ khoáng sản nội sinh.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1), tr. 110; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2), tr. 110; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2), tr. 110, 111
 
 ### exploration and research history of Antarctica
 - **Tiếng Việt:** Lịch sử khám phá và nghiên cứu châu Nam Cực
@@ -2149,15 +2328,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Khác với sản xuất hộ nông dân nhỏ lẻ, trang trại đòi hỏi quy mô ruộng đất và các yếu tố sản xuất tập trung đủ lớn, vận hành tự chủ theo cơ chế sản xuất hàng hoá.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.b), tr. 76; SGK Địa lí 12 KNTT, Phần 3, B13, tr. 62; SGK Địa lí 12 KNTT, Phần 3, B13 (Mục I), tr. 62, 63
 
+### ferrallitic soil group
+- **Tiếng Việt:** Nhóm đất feralit (đất feralit)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The largest soil group in Vietnam, covering over 65% of the natural land area across midlands and mountains up to elevations of about 1,600–1,700 m. Rich in iron and aluminum oxides, these reddish-yellow soils have a thick, well-aerated, permeable weathering layer but are acidic and low in bases and humus, with basalt- and limestone-derived varieties exhibiting the highest fertility.
+- **Giải thích (VI):** Nhóm đất chiếm hơn 65% diện tích đất tự nhiên của Việt Nam, phân bố ở vùng trung du và miền núi từ độ cao khoảng 1 600–1 700 m trở xuống. Đất có màu đỏ vàng nhờ giàu ôxít sắt và ôxít nhôm, lớp vỏ phong hoá dày, thoáng khí, dễ thoát nước nhưng chua, nghèo chất badơ và mùn; trong đó đất hình thành trên đá badan và đá vôi có độ phì cao nhất.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 9 (Mục 2.a): Phân tích phân bố, đặc tính và giá trị sử dụng của nhóm đất chính ở vùng đồi núi Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 1), tr. 134; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 1), tr. 135; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.a), tr. 135
+
 ### ferrallitization
 - **Tiếng Việt:** Quá trình feralit
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The characteristic soil-forming process of humid tropical climates, occurring intensely in low hills and mountains on acidic parent rock where high heat and moisture drive strong weathering to form a thick soil layer. Heavy rainfall leaches soluble bases (Ca²⁺, Mg²⁺, Na⁺, K⁺), acidifying the soil while accumulating iron oxide (Fe₂O₃) and aluminum oxide (Al₂O₃).
 - **Giải thích (VI):** Quá trình hình thành đất đặc trưng của vùng khí hậu nhiệt đới ẩm, diễn ra mạnh ở vùng đồi núi thấp trên đá mẹ a-xít dưới điều kiện nhiệt ẩm cao làm phong hoá mạnh tạo lớp đất dày. Mưa nhiều rửa trôi các chất badơ dễ tan (Ca²⁺, Mg²⁺, Na⁺, K⁺) làm đất chua, đồng thời tích tụ ôxit sắt (Fe₂O₃) và ôxit nhôm (Al₂O₃).
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: The characteristic soil-forming process of Vietnam's tropical humid monsoon climate acting upon a thick weathering crust. Heavy, seasonally concentrated rainfall intensely leaches soluble bases while accumulating iron and aluminum oxides, producing typical reddish-yellow ferrallitic soils. / VI: Quá trình hình thành đất đặc trưng của vùng khí hậu nhiệt đới ẩm gió mùa ở Việt Nam trên lớp vỏ phong hoá dày. Lượng mưa lớn và tập trung theo mùa làm rửa trôi mạnh các chất badơ dễ hoà tan, đồng thời tích luỹ ôxít sắt và ôxít nhôm tạo nên các loại đất feralit màu đỏ vàng điển hình.
 - **Bối cảnh:**
   - Địa lí lớp 12, Bài 2 (Mục I.4): Giải thích cơ chế hình thành đất đặc trưng vùng nhiệt đới ẩm ở Việt Nam.
+  - Lịch sử và Địa lí lớp 8, Bài 9 (Mục 1): Chứng minh tính chất nhiệt đới gió mùa của lớp phủ thổ nhưỡng Việt Nam.
   - *Lưu ý:* Chỉ cơ chế phong hoá, rửa trôi và tích tụ hình thành đất; sản phẩm thổ nhưỡng tạo thành là đất feralit đỏ vàng.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I.3), tr. 15; SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I.4), tr. 15; SGK Địa lí 12 KNTT, Phần 1, B2 (Mục II.1), tr. 15
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I.3), tr. 15; SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I.4), tr. 15; SGK Địa lí 12 KNTT, Phần 1, B2 (Mục II.1), tr. 15; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9, tr. 134; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 1), tr. 134; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 1), tr. 134, 135
 
 ### finance and banking of China
 - **Tiếng Việt:** Tài chính ngân hàng Trung Quốc
@@ -2591,6 +2780,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 18 (Mục I): Đánh giá ý nghĩa vị trí địa lí đối với giao thương và phát triển kinh tế Hoa Kỳ.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B18, tr. 81; SGK Địa lí 11 KNTT, Phần hai, B18 (Mục I), tr. 81
 
+### geographical location of Vietnam
+- **Tiếng Việt:** Vị trí địa lí Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Vietnam's spatial position on the eastern edge of the Indochinese Peninsula near the center of Southeast Asia, with its mainland extending from 23°23'N to 8°34'N latitude and from 102°09'E to 109°24'E longitude (and its maritime area reaching roughly 6°50'N and from about 101°E to beyond 117°20'E). Situated entirely within the Northern Hemisphere intertropical zone of monsoon Asia where land meets ocean, it lies adjacent to the Pacific and Mediterranean metallogenic belts and sits at the crossroads of international maritime and air routes linking mainland and insular Southeast Asia.
+- **Giải thích (VI):** Vị trí không gian của Việt Nam nằm ở rìa phía đông bán đảo Đông Dương, gần trung tâm khu vực Đông Nam Á, với phần đất liền trải dài từ vĩ độ 23°23'B đến 8°34'B và từ kinh độ 102°09'Đ đến 109°24'Đ (vùng biển mở rộng tới khoảng vĩ độ 6°50'B và kinh độ từ khoảng 101°Đ đến trên 117°20'Đ). Lãnh thổ nằm hoàn toàn trong vùng nội chí tuyến bán cầu Bắc thuộc khu vực châu Á gió mùa, nơi tiếp giáp giữa đất liền và đại dương, liền kề hai vành đai sinh khoáng Thái Bình Dương và Địa Trung Hải, đồng thời nằm trên ngã tư đường hàng hải, hàng không quốc tế nối Đông Nam Á lục địa với Đông Nam Á hải đảo.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 1 (Mục 1): xác định hệ toạ độ, phạm vi tiếp giáp và đặc điểm vị trí tự nhiên – giao thông của lãnh thổ Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B1, tr. 93; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 93; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 93, 94
+
 ### geographical skills
 - **Tiếng Việt:** Kĩ năng địa lí
 - **Chuyên ngành gốc:** Địa lí
@@ -2756,14 +2953,6 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 40 (Mục 2.a): Định nghĩa khái niệm và mục tiêu cốt lõi của tăng trưởng xanh.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 1.b), tr. 112; SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 2.a), tr. 112; SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 2.b), tr. 112
 
-### greenhouse effect
-- **Tiếng Việt:** Hiệu ứng nhà kính
-- **Chuyên ngành gốc:** Địa lí
-- **Giải thích (EN):** The warming of Earth's atmosphere occurring when sunlight heats the Earth's surface and the heat radiated back into the atmosphere is absorbed and trapped by carbon dioxide and certain other gases rather than escaping into space.
-- **Giải thích (VI):** Hiện tượng gia tăng nhiệt độ khí quyển Trái Đất khi ánh sáng mặt trời làm mặt đất nóng lên và lượng hơi nóng phát tán trở lại khí quyển bị khí carbon dioxide cùng một số khí khác hấp thụ, giữ lại mà không thoát ra ngoài vũ trụ được.
-- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 34 (Mục III.1): Giải thích vai trò của thực vật trong việc hấp thụ khí carbon dioxide và thoát hơi nước giúp điều hoà khí hậu, giảm hiệu ứng nhà kính.
-- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 119; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục III.1), tr. 119; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục III.1), tr. 119, 120
-
 ### greenhouse gas
 - **Tiếng Việt:** Khí nhà kính
 - **Chuyên ngành gốc:** Địa lí
@@ -2807,6 +2996,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 20 (Mục 2): tìm hiểu sự hình thành và vai trò của nguồn nước ngầm đối với tự nhiên và đời sống.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B11, tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 1), tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.a), tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.d), tr. 40; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20, tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 2), tr. 161
 
+### groundwater in Vietnam
+- **Tiếng Việt:** Nước ngầm ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Subsurface water resources with relatively abundant reserves distributed widely across Vietnam. They serve as an essential water supply for domestic use, industry, wellness tourism (hot springs and mineral waters), and agricultural production, especially in surface-water-scarce regions such as the Central Highlands and the South Central Coast.
+- **Giải thích (VI):** Nguồn nước tích trữ dưới bề mặt đất có trữ lượng khá phong phú và phân bố rộng khắp trên lãnh thổ Việt Nam. Đây là nguồn cung cấp nước thiết yếu cho sinh hoạt, công nghiệp, du lịch nghỉ dưỡng (suối nước nóng, nước khoáng) và sản xuất nông nghiệp, đặc biệt tại các vùng khan hiếm nước mặt như Tây Nguyên và duyên hải Nam Trung Bộ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 6 (Mục 3): Phân tích vai trò của nguồn nước ngầm đối với sản xuất và sinh hoạt ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B6 (Mục 2), tr. 125; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B6 (Mục 3), tr. 125
+
 ### groundwater spring
 - **Tiếng Việt:** Vết lộ nước ngầm (vết lộ)
 - **Chuyên ngành gốc:** Địa lí
@@ -2830,6 +3027,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Liên minh kinh tế khu vực thành lập năm 1981 bao gồm sáu quốc gia ở bán đảo A-ráp là A-rập Xê-út, Các Tiểu vương quốc A-rập Thống nhất, Ba-ranh, Cô-oét, Ô-man và Ca-ta. Liên minh ra đời nhằm cùng ứng phó với tình trạng biến động giá dầu và các thoả thuận cắt giảm sản lượng dầu thô của OPEC.
 - **Bối cảnh:** Địa lí lớp 11, Bài 17 (Mục 4): Liên kết kinh tế khu vực của các quốc gia sản xuất dầu mỏ vùng Vịnh tại Tây Nam Á.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B17 (Mục 4), tr. 80
+
+### Gulf of Tonkin delimitation line
+- **Tiếng Việt:** Đường phân định vịnh Bắc Bộ (Hiệp định Phân định vịnh Bắc Bộ)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The maritime boundary established under the Agreement on the Delimitation of the Gulf of Tonkin signed on December 25, 2000 between Vietnam and China to delimit the territorial seas, exclusive economic zones, and continental shelves of the two countries in the Gulf. It consists of straight segments sequentially connecting 21 specified coordinate points.
+- **Giải thích (VI):** Đường ranh giới trên biển xác lập theo Hiệp định Phân định vịnh Bắc Bộ kí ngày 25-12-2000 giữa Việt Nam và Trung Quốc nhằm xác định biên giới lãnh hải, vùng đặc quyền kinh tế và thềm lục địa của hai nước trong vịnh Bắc Bộ. Đường này gồm các đoạn thẳng nối tuần tự qua 21 điểm toạ độ xác định.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 2): Xác định đường phân định vùng biển giữa Việt Nam và Trung Quốc trong vịnh Bắc Bộ trên bản đồ.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149, 150
 
 ### high-tech forestry zone in the North Central Coast
 - **Tiếng Việt:** Khu lâm nghiệp ứng dụng công nghệ cao ở Bắc Trung Bộ
@@ -2895,6 +3100,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 11, Bài 1 (Mục I): Nội dung phản ánh và các ngưỡng phân loại trình độ phát triển con người của Liên hợp quốc.
   - Giáo dục Kinh tế và Pháp luật lớp 12, Bài 1 (Mục 2.a): chỉ tiêu đánh giá tiến bộ xã hội và chất lượng phát triển con người của quốc gia.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B1, tr. 5; SGK Địa lí 11 KNTT, Phần một, B1 (Mục I), tr. 5; SGK Địa lí 11 KNTT, Phần một, B1 (Mục I), tr. 5, 6; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 2.a), tr. 11; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 2.a), tr. 11, 12; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 2.a), tr. 12
+
+### humic mountain soil group
+- **Tiếng Việt:** Nhóm đất mùn trên núi (đất mùn trên núi)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A soil group distributed sporadically in high mountainous areas at elevations of about 1,600–1,700 m and above under subtropical and temperate montane climates. Low temperatures slow rock weathering and organic matter decomposition, resulting in humus-rich soils with thin profiles on steep slopes.
+- **Giải thích (VI):** Nhóm đất phân bố rải rác ở các vùng núi có độ cao từ khoảng 1 600–1 700 m trở lên trong điều kiện khí hậu cận nhiệt đới và ôn đới núi cao. Nhiệt độ thấp làm chậm quá trình phong hoá và phân giải chất hữu cơ khiến đất giàu mùn, trong khi địa hình cao và dốc lớn làm tầng đất mỏng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 9 (Mục 2.c): Giải thích đặc điểm giàu mùn, tầng mỏng của nhóm đất đai cao ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 138; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.c), tr. 138; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 3), tr. 138
+
+### humid nature of Vietnam's climate
+- **Tiếng Việt:** Tính chất ẩm của khí hậu Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A fundamental characteristic of Vietnam's tropical humid monsoon climate manifested through abundant moisture year-round. Mean annual relative humidity exceeds 80%, and mean annual precipitation is high, ranging from 1,500 to 2,000 mm/year.
+- **Giải thích (VI):** Đặc trưng cơ bản của khí hậu nhiệt đới ẩm gió mùa ở Việt Nam thể hiện qua nguồn ẩm dồi dào quanh năm. Độ ẩm không khí trung bình năm đạt trên 80% và tổng lượng mưa trung bình năm lớn, dao động từ 1 500 đến 2 000 mm/năm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 4 (Mục 1.b): Phân tích đặc điểm độ ẩm và lượng mưa của khí hậu nhiệt đới ẩm gió mùa ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 1.a), tr. 114; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 1.b), tr. 114; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 1.c), tr. 114
+
+### hydrological regime of the Cuu Long River
+- **Tiếng Việt:** Chế độ nước sông Cửu Long
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The simple and well-regulated annual flow pattern of the Cuu Long River, divided into two seasons moderated by the long, pinnate-shaped Mekong basin and the natural regulation of Tonle Sap Lake. The flood season lasts 5 months (July to November) and accounts for about 80% of annual discharge with slow flood rise and recession, while the dry season lasts 7 months (December to June) and accounts for about 20% of annual discharge.
+- **Giải thích (VI):** Nhịp điệu dòng chảy đơn giản và điều hoà của sông Cửu Long trong năm, phân thành hai mùa rõ rệt nhờ lưu vực sông Mê Công dài, có dạng lông chim và sự điều tiết của hồ Tôn-lê Sáp. Mùa lũ kéo dài 5 tháng (từ tháng 7 đến tháng 11), chiếm khoảng 80% lưu lượng cả năm với mực nước dâng và rút chậm; mùa cạn kéo dài 7 tháng (từ tháng 12 đến tháng 6 năm sau), chiếm khoảng 20% lưu lượng cả năm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Chủ đề chung 1 (Mục 2.b): đặc điểm chế độ nước điều hoà của sông Cửu Long so với sông Hồng.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.a), tr. 160; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 160; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 3.b), tr. 163
+
+### hydrological regime of the Red River
+- **Tiếng Việt:** Chế độ nước sông Hồng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The annual flow pattern of the Red River associated with its fan-shaped river network, distinctly divided into one flood season and one dry season. The flood season lasts 5 months (June to October) and accounts for about 75% of annual discharge with rapid, sudden flood surges, while the dry season lasts 7 months (November to May), accounting for only about 25% of annual discharge with markedly low water levels.
+- **Giải thích (VI):** Nhịp điệu dòng chảy trong năm của sông Hồng gắn với mạng lưới sông hình nan quạt, phân thành một mùa lũ và một mùa cạn rõ rệt. Mùa lũ kéo dài 5 tháng (từ tháng 6 đến tháng 10), chiếm khoảng 75% lưu lượng cả năm với các đợt lũ lên nhanh và đột ngột; mùa cạn kéo dài 7 tháng (từ tháng 11 đến tháng 5 năm sau), chỉ chiếm khoảng 25% lưu lượng cả năm với mực nước hạ thấp rõ rệt.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Chủ đề chung 1 (Mục 1.b): phân tích tính phân mùa lũ – cạn của sông Hồng gắn với mạng lưới sông hình nan quạt.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1.a), tr. 158; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1.b), tr. 158; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1.b), tr. 158, 159
 
 ### hydropower in the Northern Midlands and Mountains
 - **Tiếng Việt:** Thuỷ điện ở Trung du và miền núi Bắc Bộ
@@ -2966,6 +3203,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 10, Bài 19 (Mục 2.b): Chỉ tiêu thành phần phản ánh lượng người chuyển đến trong gia tăng dân số cơ học.
   - *Lưu ý:* Không nhầm với 'Hệ số nhập cư' (`immigration rate`) trong Sinh học.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.b), tr. 56
+
+### impact of climate change on Vietnam's climate
+- **Tiếng Việt:** Tác động của biến đổi khí hậu đối với khí hậu Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The shift toward more severe climatic conditions in Vietnam driven by global climate change. Between 1958 and 2018, the national mean annual temperature rose by 0.89 °C, annual total precipitation fluctuated, and extreme weather events such as heatwaves, intense typhoons, heavy downpours, and severe cold spells increased.
+- **Giải thích (VI):** Sự biến đổi theo hướng khắc nghiệt hơn của các yếu tố khí hậu ở Việt Nam dưới ảnh hưởng của biến đổi khí hậu toàn cầu. Trong giai đoạn 1958–2018, nhiệt độ trung bình năm toàn quốc tăng 0,89 °C, tổng lượng mưa năm có sự biến động và các hiện tượng thời tiết cực đoan như nắng nóng, bão mạnh, mưa lớn, rét đậm, rét hại gia tăng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 8 (Mục 1): Phân tích xu thế biến đổi nhiệt độ, lượng mưa và thiên tai khí tượng ở Việt Nam giai đoạn 1958–2018.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B8, tr. 130; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B8 (Mục 1), tr. 130; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B8 (Mục 1), tr. 130, 131
+
+### impact of climate change on Vietnam's hydrology
+- **Tiếng Việt:** Tác động của biến đổi khí hậu đối với thuỷ văn Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Alterations in river discharge and hydrological regimes in Vietnam resulting from fluctuating annual precipitation under climate change. Seasonal discharge disparities have intensified, worsening flash floods in mountainous areas and inundation in plains during the flood season while reducing dry-season flows in several basins and heightening water scarcity risks.
+- **Giải thích (VI):** Những biến động về lưu lượng và chế độ nước sông ở Việt Nam bắt nguồn từ sự biến động tổng lượng mưa trung bình năm khi khí hậu thay đổi. Chênh lệch lưu lượng nước giữa hai mùa gia tăng, làm trầm trọng thêm lũ quét ở miền núi và ngập lụt ở đồng bằng vào mùa lũ, đồng thời suy giảm nguồn nước ở một số lưu vực gây nguy cơ thiếu nước vào mùa khô.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 8 (Mục 2): Giải thích mối liên hệ giữa biến đổi khí hậu với tình trạng lũ lụt mùa mưa và khô hạn mùa cạn trên các lưu vực sông.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B8 (Mục 1), tr. 131; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2), tr. 131
+
+### impact of climate on agricultural production in Vietnam
+- **Tiếng Việt:** Ảnh hưởng của khí hậu đối với sản xuất nông nghiệp ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The dual influence of the tropical humid monsoon climate on crop cultivation and livestock farming in Vietnam. Abundant heat and moisture combined with seasonal, latitudinal, and altitudinal climatic differentiation enable year-round cultivation, multiple cropping, and diverse agricultural products (tropical, subtropical, and temperate), whereas meteorological hazards (typhoons, floods, droughts, severe cold, frost) and pests cause substantial damage.
+- **Giải thích (VI):** Tác động hai mặt của khí hậu nhiệt đới ẩm gió mùa đến hoạt động trồng trọt và chăn nuôi ở Việt Nam. Nguồn nhiệt ẩm dồi dào cùng sự phân hoá khí hậu theo mùa, theo chiều bắc – nam và theo đai cao cho phép canh tác quanh năm, tăng vụ và đa dạng hoá nông sản (nhiệt đới, cận nhiệt, ôn đới), song thiên tai khí tượng (bão, lũ, hạn hán, rét hại, sương muối) và sâu bệnh cũng gây nhiều thiệt hại.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 7 (Mục 1): Đánh giá thuận lợi và khó khăn của tài nguyên khí hậu đối với nền nông nghiệp Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B7, tr. 126; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B7 (Mục 1), tr. 126; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B7 (Mục 1), tr. 126, 127
+
+### impact of climate on tourism in Vietnam
+- **Tiếng Việt:** Ảnh hưởng của khí hậu đối với hoạt động du lịch ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The direct influence of Vietnam's tropical humid monsoon climate and its spatial-temporal differentiation on tourist destinations, tourism types, and seasonality. Cool montane climates favor year-round resort tourism, whereas north–south thermal differentiation restricts northern beach tourism mainly to summer while enabling nearly year-round beach activities in the South.
+- **Giải thích (VI):** Tác động trực tiếp của khí hậu nhiệt đới ẩm gió mùa và sự phân hoá khí hậu ở Việt Nam đến sự hình thành điểm du lịch, loại hình và mùa vụ du lịch. Khí hậu mát mẻ vùng núi cao thuận lợi cho nghỉ dưỡng quanh năm, trong khi sự phân hoá nhiệt độ bắc – nam làm cho du lịch biển miền Bắc mang tính mùa vụ vào mùa hạ còn miền Nam diễn ra gần như quanh năm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 7 (Mục 2): Phân tích vai trò của khí hậu đối với các trung tâm nghỉ dưỡng núi cao và du lịch biển ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B7 (Mục 1), tr. 127; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2), tr. 127; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2), tr. 127, 128
 
 ### impact of nature on human life
 - **Tiếng Việt:** Tác động của thiên nhiên đến đời sống con người
@@ -3234,6 +3503,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 20 (Mục 1.b): giải thích ý nghĩa kinh tế và môi trường của việc khai thác đa mục đích nước sông, hồ.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 159; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.b), tr. 159; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.b), tr. 159, 160
 
+### integrated use of river water resources
+- **Tiếng Việt:** Sử dụng tổng hợp tài nguyên nước sông
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A multi-purpose approach to exploiting water resources within a river basin to simultaneously meet the demands of multiple economic sectors, enhance economic efficiency, and minimize water waste. This approach also safeguards water resources, preserves basin ecosystems, and supports disaster prevention against storms and floods under climate change.
+- **Giải thích (VI):** Phương thức khai thác đa mục đích nguồn nước trên một lưu vực sông nhằm đáp ứng đồng thời nhu cầu của các ngành kinh tế, nâng cao hiệu quả kinh tế và hạn chế lãng phí nước. Cách tiếp cận này đồng thời gắn với bảo vệ tài nguyên nước, duy trì hệ sinh thái lưu vực và phòng chống thiên tai như bão, lũ trong bối cảnh biến đổi khí hậu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 7 (Mục 3): Giải thích tầm quan trọng của việc khai thác tổng hợp nước ở các lưu vực sông lớn của Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2), tr. 128; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B7 (Mục 3), tr. 128; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B7 (Mục 3), tr. 128, 129
+
 ### integrated water resource utilization
 - **Tiếng Việt:** Khai thác tổng hợp tài nguyên nước
 - **Chuyên ngành gốc:** Địa lí
@@ -3273,9 +3550,10 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Vùng nước tiếp giáp với bờ biển, nằm ở phía trong đường cơ sở và thuộc bộ phận lãnh thổ của Việt Nam.
 - **Bối cảnh:**
   - Địa lí lớp 12, Bài 1 (Mục I.2): Xác định phạm vi và vị trí pháp lí của nội thuỷ so với đường cơ sở trong vùng biển Việt Nam.
+  - Lịch sử và Địa lí lớp 8, Bài 11 (Mục 2): Phân biệt vị trí và quy chế của nội thuỷ với các vùng biển nằm phía ngoài đường cơ sở.
   - *Lưu ý:* Nằm ở phía trong đường cơ sở (giữa bờ biển và đường cơ sở), phân biệt với lãnh hải nằm ở phía ngoài đường cơ sở.
   - *Lưu ý:* Không nhầm với 'Vùng nội thuỷ' (`internal waters (economics)`) trong Giáo dục Kinh tế và Pháp luật.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7, 8
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7, 8; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 146; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149, 150
 
 ### International Date Line
 - **Tiếng Việt:** Đường chuyển ngày quốc tế
@@ -3307,6 +3585,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 10, Bài 5 (Mục II.2.b): Ảnh hưởng của tôn giáo đối với các công trình kiến trúc thánh đường, cung điện ở Ấn Độ thời trung đại.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 116; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 42; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144
 
+### island
+- **Tiếng Việt:** Đảo
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A naturally formed area of land surrounded by water that remains above the water surface when the tide rises.
+- **Giải thích (VI):** Vùng đất tự nhiên có nước bao bọc xung quanh và vẫn nằm ở trên mặt nước khi thuỷ triều lên.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 2): Xác định khái niệm địa lí – pháp lí về hệ thống đảo trong vùng biển Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 147; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149, 150
+
 ### island and archipelago system of Vietnam
 - **Tiếng Việt:** Hệ thống đảo và quần đảo của Việt Nam
 - **Chuyên ngành gốc:** Địa lí
@@ -3322,6 +3608,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bộ phận của châu Đại Dương nằm ở trung tâm Thái Bình Dương, bao gồm bốn khu vực là Mê-la-nê-di, Mi-crô-nê-di, Pô-li-nê-di và Niu Di-len. Vùng này trải rộng trên không gian đại dương lớn với số lượng đảo rất nhiều nhưng hầu hết là đảo nhỏ, tổng diện tích khoảng 1 triệu km².
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 1): bốn khu vực quần đảo trên Thái Bình Dương hợp cùng lục địa Ô-xtrây-li-a tạo nên châu Đại Dương.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 1), tr. 157; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.a), tr. 157; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.a), tr. 157, 158
+
+### island, archipelago, and island-district system of Vietnam
+- **Tiếng Việt:** Hệ thống đảo, quần đảo và huyện đảo của Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The system of thousands of large and small islands within Vietnam's maritime area, notably including the Hoang Sa (Paracel) and Truong Sa (Spratly) archipelagos in the central East Sea. Several islands and archipelagos are organized as district-level administrative units (island districts and island cities) under coastal provinces and municipalities to support economic development and safeguard maritime sovereignty.
+- **Giải thích (VI):** Tập hợp hàng nghìn hòn đảo lớn nhỏ nằm trong vùng biển Việt Nam, tiêu biểu là hai quần đảo Hoàng Sa và Trường Sa ở giữa Biển Đông. Nhiều đảo và quần đảo hiện nay được tổ chức thành các đơn vị hành chính cấp huyện (huyện đảo, thành phố đảo) trực thuộc các tỉnh, thành phố ven biển nhằm phục vụ phát triển kinh tế và bảo vệ chủ quyền biển đảo.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Chủ đề chung 2 (Mục 1): tổ chức lãnh thổ và hành chính đối với hệ thống đảo, quần đảo của Việt Nam trên Biển Đông.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2, tr. 164; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1), tr. 164; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1), tr. 164, 165
 
 ### isthmus
 - **Tiếng Việt:** Eo đất
@@ -3362,6 +3656,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Dạng địa hình đặc trưng hình thành tại các khu vực đá vôi do quá trình phong hoá diễn ra mạnh mẽ dưới điều kiện khí hậu nhiệt đới nóng ẩm. Ở Việt Nam, địa hình này tạo nên các dạng hang động, thung khô và cánh đồng các-xtơ điển hình tại Quảng Bình, Hà Giang, Ninh Bình.
 - **Bối cảnh:** Địa lí lớp 12, Bài 2 (Mục I.2): Trình bày biểu hiện phong hoá nhiệt đới ẩm trên địa hình đá vôi ở Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I.1), tr. 14; SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I.2), tr. 14; SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I.3), tr. 14
+
+### karst topography in Vietnam
+- **Tiếng Việt:** Địa hình các-xtơ ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A distinctive limestone landform assemblage in Vietnam shaped under a hot, rainy tropical humid monsoon climate that drives intense limestone dissolution, while groundwater erosion carves deep into limestone massifs to form large cave systems, karst poljes, and valleys.
+- **Giải thích (VI):** Dạng địa hình đá vôi độc đáo hình thành dưới tác động của khí hậu nhiệt đới ẩm gió mùa có nhiệt độ cao và lượng mưa lớn thúc đẩy quá trình hoà tan đá vôi mạnh mẽ, đồng thời nước ngầm xâm thực sâu vào lòng núi đá tạo nên hệ thống hang động lớn, cánh đồng và thung lũng các-xtơ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 1.d): biểu hiện tác động của khí hậu nhiệt đới ẩm gió mùa lên vùng đá vôi tạo nên cảnh quan đặc sắc ở Đông Bắc, Tây Bắc và Bắc Trung Bộ.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1.c), tr. 99; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1.d), tr. 99
 
 ### key economic region
 - **Tiếng Việt:** Vùng kinh tế trọng điểm
@@ -3456,6 +3758,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 20 (Mục II.3): Hồ nước ngọt tiêu biểu trong hệ thống thuỷ văn của Liên bang Nga.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B20 (Mục II.1), tr. 99; SGK Địa lí 11 KNTT, Phần hai, B20 (Mục II.2), tr. 99; SGK Địa lí 11 KNTT, Phần hai, B20 (Mục II.3), tr. 99
 
+### lakes and lagoons in Vietnam
+- **Tiếng Việt:** Hồ, đầm ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The system of surface standing-water bodies in Vietnam comprising numerous natural lakes and coastal lagoons formed in depressions under high rainfall, alongside artificial reservoirs for irrigation, hydropower, and urban water regulation. These water bodies play a vital role in agricultural water supply, aquaculture, hydropower generation, industry, tourism, flow regulation, and domestic use.
+- **Giải thích (VI):** Hệ thống các thuỷ vực nước mặt gồm nhiều hồ, đầm tự nhiên tại các vùng trũng, ven biển hình thành nhờ lượng mưa lớn và các hồ nhân tạo (hồ thuỷ lợi, thuỷ điện, điều hoà) ở Việt Nam. Nguồn nước này giữ vai trò quan trọng trong cấp nước nông nghiệp, nuôi trồng thuỷ sản, phát triển thuỷ điện, công nghiệp, du lịch, điều tiết dòng chảy và phục vụ sinh hoạt.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 6 (Mục 2): Đánh giá vai trò kinh tế – xã hội và môi trường của hệ thống hồ, đầm tự nhiên và nhân tạo ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 124; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B6 (Mục 2), tr. 124; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B6 (Mục 2), tr. 124, 125
+
 ### land and sea breezes
 - **Tiếng Việt:** Gió đất và gió biển
 - **Chuyên ngành gốc:** Địa lí
@@ -3472,15 +3782,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 5 (Mục I.1): Trình bày biểu hiện và nguyên nhân suy giảm tài nguyên đất ở Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B5, tr. 28; SGK Địa lí 12 KNTT, Phần 1, B5 (Mục I.1), tr. 28; SGK Địa lí 12 KNTT, Phần 1, B5 (Mục I.1), tr. 28, 29
 
+### land degradation in Vietnam
+- **Tiếng Việt:** Thoái hoá đất ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The decline in soil fertility and land quality across approximately 10 million hectares (about 30% of Vietnam's total area) caused by natural factors and human activities. Major manifestations include erosion, leaching, and nutrient depletion in uplands, desertification risks on the South Central Coast, and salinization, acidification, and waterlogging in coastal and estuarine lowlands.
+- **Giải thích (VI):** Tình trạng suy giảm độ phì và chất lượng tài nguyên đất ở Việt Nam trên diện tích khoảng 10 triệu ha (chiếm khoảng 30% diện tích cả nước) dưới tác động của tự nhiên và con người. Các biểu hiện chính gồm xói mòn, rửa trôi, bạc màu ở trung du và miền núi, nguy cơ hoang mạc hoá ở duyên hải Nam Trung Bộ và nhiễm mặn, nhiễm phèn, ngập úng ở vùng cửa sông, ven biển.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 9 (Mục 3): Phân tích thực trạng, biểu hiện và nguyên nhân suy thoái tài nguyên đất ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 138; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.c), tr. 138; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 3), tr. 138
+
 ### land territory of Vietnam
 - **Tiếng Việt:** Vùng đất Việt Nam (vùng đất)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The territorial component comprising the entire mainland bounded by Vietnam's national borders with neighboring countries and the emergent land of thousands of islands in the East Sea, with a total administrative area exceeding 331 thousand km².
 - **Giải thích (VI):** Bộ phận lãnh thổ bao gồm toàn bộ phần đất liền được xác định trong phạm vi đường biên giới của Việt Nam với các nước láng giềng cùng phần đất nổi của hàng nghìn hòn đảo trên Biển Đông, có tổng diện tích các đơn vị hành chính hơn 331 nghìn km².
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: One of the three integral components forming the unified territory of Vietnam, comprising the entire mainland together with all islands and archipelagos in the East Sea (including the Hoang Sa and Truong Sa archipelagos). The total administrative land area is 331,344 km² (as of 2021), bounded by over 4,600 km of land borders shared with China, Laos, and Cambodia. / VI: Một trong ba bộ phận cấu thành khối lãnh thổ thống nhất và toàn vẹn của Việt Nam, bao gồm toàn bộ phần đất liền cùng các đảo, quần đảo trên Biển Đông (trong đó có quần đảo Hoàng Sa và quần đảo Trường Sa). Tổng diện tích đất của các đơn vị hành chính đạt 331 344 km² (năm 2021) với đường biên giới trên đất liền dài hơn 4 600 km tiếp giáp Trung Quốc, Lào và Cam-pu-chia.
 - **Bối cảnh:**
   - Địa lí lớp 12, Bài 1 (Mục I.2): Xác định phạm vi và quy mô diện tích bộ phận vùng đất trong lãnh thổ Việt Nam.
+  - Lịch sử và Địa lí lớp 8, Bài 1 (Mục 2): xác định quy mô và phạm vi bộ phận vùng đất trong cấu trúc lãnh thổ quốc gia Việt Nam.
   - *Lưu ý:* Không chỉ gồm phần đất liền mà còn bao gồm phần đất nổi của hàng nghìn hòn đảo trên Biển Đông.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1, tr. 5; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1, tr. 5; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 94; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 94; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 94, 95
 
 ### landform
 - **Tiếng Việt:** Dạng địa hình
@@ -3864,6 +4184,50 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 3 (Mục 1): Vận dụng các nguyên tắc đọc, phân tích và đối chiếu bản đồ trong học tập địa lí và đời sống.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B3, tr. 12; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 1), tr. 12; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.a), tr. 12
 
+### marine and continental shelf mineral resources of Vietnam
+- **Tiếng Việt:** Tài nguyên khoáng sản biển và thềm lục địa Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The diverse mineral wealth distributed across Vietnam's marine waters and continental shelf, most notably oil and natural gas concentrated in the Song Hong, Phu Khanh, Cuu Long, Nam Con Son, Malay–Tho Chu, and Tu Chinh–Vung May sedimentary basins as well as the Hoang Sa and Truong Sa basin groups. Along the coast, submarine slopes, and seabed lie 35 other mineral types, most valuably titanium, silica sand, sea salt, and promising methane hydrate reserves.
+- **Giải thích (VI):** Nguồn khoáng sản đa dạng phân bố ở vùng biển và thềm lục địa Việt Nam, nổi bật nhất là dầu mỏ và khí tự nhiên tập trung tại các bể trầm tích Sông Hồng, Phú Khánh, Cửu Long, Nam Côn Sơn, Malay – Thổ Chu, Tư Chính – Vũng Mây cùng nhóm bể Hoàng Sa và Trường Sa. Dọc vùng ven biển, sườn bờ và đáy biển còn có 35 loại khoáng sản khác, có giá trị nhất là ti-tan, cát thuỷ tinh, muối biển và nguồn băng cháy giàu tiềm năng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 12 (Mục 2): tiềm năng dầu khí ở thềm lục địa và khoáng sản ven biển Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 2), tr. 156
+
+### marine and island environment
+- **Tiếng Việt:** Môi trường biển đảo
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A component of the human living environment encompassing natural elements (coastlines, seabeds, seawater, and marine biodiversity) and artificial elements (construction works and production facilities along coasts, at sea, and on islands). This space is characterized by the indivisible continuity of marine waters and the isolated, small-scale, sensitive nature of islands that makes them highly vulnerable to degradation from human impacts.
+- **Giải thích (VI):** Một bộ phận của môi trường sống con người bao gồm các yếu tố tự nhiên (bờ biển, đáy biển, nước biển, đa dạng sinh học biển) và các yếu tố nhân tạo (công trình xây dựng, cơ sở sản xuất ven biển, trên biển và hải đảo). Không gian này mang tính thống nhất không thể chia cắt của vùng biển và tính biệt lập, diện tích nhỏ, nhạy cảm, dễ suy thoái của hệ thống đảo trước tác động con người.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 12 (Mục 1.a): khái niệm và đặc điểm đặc thù của môi trường biển đảo so với đất liền.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 1.a), tr. 154
+
+### marine and island environmental degradation
+- **Tiếng Việt:** Suy thoái môi trường biển đảo
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The decline in both the quality and quantity of marine and island environmental components, causing adverse effects on humans and living organisms.
+- **Giải thích (VI):** Sự suy giảm đồng thời về chất lượng và số lượng của các thành phần thuộc môi trường biển đảo, gây ảnh hưởng xấu đối với con người và sinh vật.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 8, Bài 12 (Mục 1.b): nhận diện sự suy giảm chất lượng, số lượng thành phần môi trường biển đảo và phân biệt với ô nhiễm môi trường.
+  - *Lưu ý:* Phân biệt với ô nhiễm môi trường biển đảo (sự biến đổi thành phần môi trường vượt tiêu chuẩn cho phép).
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 1.b), tr. 154
+
+### marine and island environmental pollution
+- **Tiếng Việt:** Ô nhiễm môi trường biển đảo
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The alteration of marine and island environmental components beyond permissible environmental standards, causing adverse effects on human health and living organisms.
+- **Giải thích (VI):** Sự biến đổi tính chất của các thành phần môi trường biển đảo không phù hợp với tiêu chuẩn môi trường cho phép, gây ảnh hưởng xấu đối với con người và sinh vật.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 8, Bài 12 (Mục 1.b): nhận diện hiện tượng ô nhiễm và phân biệt với suy thoái môi trường biển đảo.
+  - *Lưu ý:* Phân biệt với suy thoái môi trường biển đảo (sự suy giảm đồng thời về chất lượng và số lượng của thành phần môi trường).
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 1.b), tr. 154
+
+### marine and island topography of Vietnam
+- **Tiếng Việt:** Địa hình vùng biển đảo Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The natural geomorphic structure of Vietnam's seas and islands comprising coastlines, the continental shelf, and island systems. Coastal landforms are diverse (estuarine bays, abrasion coasts, deltas, sandy beaches, dunes, lagoons, deep-water bays); the continental shelf is shallow and flat in the North and South but narrow and deep off Central Vietnam; and the islands include the Hoang Sa and Truong Sa archipelagos alongside nearshore islands (largest being Phu Quoc and Cat Ba, predominantly karstic limestone in the North and coral-formed in the South).
+- **Giải thích (VI):** Cấu trúc địa hình tự nhiên vùng biển đảo Việt Nam gồm ba bộ phận gắn kết là địa hình ven biển, thềm lục địa và hải đảo. Địa hình ven biển đa dạng (vịnh cửa sông, bờ biển mài mòn, tam giác châu, bãi cát phẳng, cồn cát, đầm phá, vũng vịnh nước sâu); thềm lục địa nông, bằng phẳng ở phía bắc và phía nam nhưng hẹp, sâu ở miền Trung; hệ thống đảo gồm hai quần đảo Hoàng Sa, Trường Sa cùng các đảo ven bờ (lớn nhất là Phú Quốc, Cát Bà; phía bắc phổ biến đảo đá vôi các-xtơ, phía nam nhiều đảo san hô).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 3.a): Trình bày đặc điểm tự nhiên của địa hình ven biển, thềm lục địa và hải đảo Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 151; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 3.a), tr. 151, 152
+
 ### marine biodiversity
 - **Tiếng Việt:** Sự đa dạng của sinh vật dưới đại dương
 - **Chuyên ngành gốc:** Địa lí
@@ -3871,6 +4235,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Sự phong phú và phân hoá về thành phần loài sinh vật sống trong các biển và đại dương theo vĩ độ và độ sâu, xuất phát từ sự chênh lệch về nhiệt độ, độ muối, áp suất, ánh sáng và nồng độ oxy trong nước.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 23 (Mục 1): Giải thích sự phân bố phong phú của các loài sinh vật ở các vùng biển và tầng độ sâu đại dương.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B23, tr. 171; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B23 (Mục 1), tr. 171
+
+### marine biological resources of Vietnam
+- **Tiếng Việt:** Tài nguyên sinh vật biển Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The rich and highly biodiverse living resources in Vietnam's waters, comprising over 2,000 fish species (about 110 of high economic value), nutritious crustaceans and mollusks (shrimp, squid, sea cucumbers), and coastal intertidal seaweeds. In 2019, Vietnam's marine fishery reserves reached 3.87 million tonnes with an exploitable potential of nearly 1.55 million tonnes.
+- **Giải thích (VI):** Nguồn lợi sinh vật phong phú và có tính đa dạng sinh học cao trong vùng biển Việt Nam, gồm hơn 2 000 loài cá (khoảng 110 loài có giá trị kinh tế cao), nhiều loài giáp xác, thân mềm giàu dinh dưỡng (tôm, mực, hải sâm) và các loài rong biển vùng triều ven bờ. Năm 2019, trữ lượng thuỷ sản biển của nước ta đạt 3,87 triệu tấn với khả năng khai thác gần 1,55 triệu tấn.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 12 (Mục 2): tiềm năng đa dạng sinh học và nguồn lợi thuỷ sản của vùng biển Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 2), tr. 155
 
 ### marine economy in the South Central Coast
 - **Tiếng Việt:** Kinh tế biển ở Duyên hải Nam Trung Bộ
@@ -3936,6 +4308,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 18 (Mục II.6): Tiềm năng vùng biển và thềm lục địa đối với phát triển kinh tế biển Hoa Kỳ.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B18 (Mục II.6), tr. 85; SGK Địa lí 11 KNTT, Phần hai, B18 (Mục III.1), tr. 85
 
+### marine tourism resources of Vietnam
+- **Tiếng Việt:** Tài nguyên du lịch biển Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The ensemble of favorable natural landscape conditions for coastal and island tourism development in Vietnam, featuring a long coastline with scenic sandy beaches, bays, caves, clear seawater, rich marine ecosystems, and diverse island scenery. Prominent marine tourism destinations include Ha Long Bay, Cat Ba, My Khe, Quy Nhon, Nha Trang, Mui Ne, Con Dao, and Phu Quoc.
+- **Giải thích (VI):** Tổng thể các điều kiện cảnh quan tự nhiên thuận lợi cho phát triển du lịch ven biển và hải đảo Việt Nam, bao gồm đường bờ biển dài có nhiều bãi cát, vịnh, hang động đẹp, nước biển trong xanh, hệ sinh thái phong phú và thiên nhiên đảo đa dạng. Các địa điểm thu hút du lịch biển tiêu biểu gồm vịnh Hạ Long, Cát Bà, Mỹ Khê, Quy Nhơn, Nha Trang, Mũi Né, Côn Đảo và Phú Quốc.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 12 (Mục 2): thế mạnh cảnh quan tự nhiên ven biển và hải đảo phục vụ phát triển kinh tế du lịch.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 2), tr. 156
+
 ### marine transgression
 - **Tiếng Việt:** Biển tiến
 - **Chuyên ngành gốc:** Địa lí
@@ -3960,6 +4340,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 20 (Mục I.4, I.5): sự phát triển và phân bố hệ thống cảng biển, cảng hàng không và các tuyến vận tải quốc tế của Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I.4), tr. 85, 86; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I.5), tr. 87
 
+### maritime baseline
+- **Tiếng Việt:** Đường cơ sở
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The legal reference line used to determine the breadth of the territorial sea and the extent of other maritime zones of a coastal state. For mainland Vietnam, it is a segmented straight line sequentially connecting basepoints from Point 0 to Point A11.
+- **Giải thích (VI):** Đường ranh giới pháp lí dùng làm căn cứ để xác định phạm vi, chiều rộng của lãnh hải và các vùng biển khác thuộc quốc gia ven biển. Đối với phần lục địa Việt Nam, đây là đường thẳng gãy khúc nối liền các điểm chuẩn từ điểm 0 đến điểm A11.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 8, Bài 11 (Mục 2): Xác định mốc tính chiều rộng lãnh hải, vùng tiếp giáp lãnh hải và vùng đặc quyền kinh tế của Việt Nam.
+  - *Lưu ý:* Thuật ngữ pháp lí – địa lí biển dùng để xác định các vùng biển quốc gia, phân biệt với đường cơ sở trong trắc địa hoặc thống kê.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 147; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 147, 148; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 148
+
 ### Maritime Southeast Asia
 - **Tiếng Việt:** Đông Nam Á hải đảo
 - **Chuyên ngành gốc:** Địa lí
@@ -3973,8 +4363,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The maritime component of Vietnam's territory in the East Sea covering approximately 1 million km², bordering the maritime zones of eight countries (China, the Philippines, Malaysia, Brunei, Indonesia, Singapore, Cambodia, and Thailand). It consists of five zones: internal waters, territorial sea, contiguous zone, exclusive economic zone, and continental shelf.
 - **Giải thích (VI):** Bộ phận lãnh thổ trên Biển Đông của Việt Nam có diện tích khoảng 1 triệu km², tiếp giáp với vùng biển của tám quốc gia (Trung Quốc, Phi-líp-pin, Ma-lai-xi-a, Bru-nây, In-đô-nê-xi-a, Xin-ga-po, Cam-pu-chia và Thái Lan). Cấu trúc vùng biển bao gồm năm bộ phận là nội thuỷ, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa.
-- **Bối cảnh:** Địa lí lớp 12, Bài 1 (Mục I.2): Trình bày quy mô diện tích, các quốc gia tiếp giáp và năm bộ phận cấu thành vùng biển Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7, 8
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: The maritime component in the East Sea that, together with the land territory and airspace, forms the unified national territory of Vietnam, covering approximately 1 million km² (more than three times the mainland area and nearly 30% of the East Sea), bordered by a 3,260 km coastline stretching from Mong Cai (Quang Ninh) to Ha Tien (Kien Giang) and containing thousands of islands. / VI: Bộ phận lãnh thổ trên Biển Đông hợp thành khối lãnh thổ thống nhất của Việt Nam cùng với vùng đất và vùng trời, có diện tích khoảng 1 triệu km² (gấp hơn 3 lần diện tích đất liền và chiếm gần 30% diện tích Biển Đông), gắn với đường bờ biển dài 3 260 km từ Móng Cái (Quảng Ninh) đến Hà Tiên (Kiên Giang) và hàng nghìn hòn đảo lớn nhỏ.
+- **Bối cảnh:**
+  - Địa lí lớp 12, Bài 1 (Mục I.2): Trình bày quy mô diện tích, các quốc gia tiếp giáp và năm bộ phận cấu thành vùng biển Việt Nam.
+  - Lịch sử và Địa lí lớp 8, Bài 1 (Mục 2): quy mô diện tích và chiều dài bờ biển của bộ phận vùng biển trong phạm vi lãnh thổ Việt Nam.
+  - *Lưu ý:* Chỉ bộ phận vùng biển trong cấu trúc ba hợp phần lãnh thổ quốc gia (vùng đất, vùng biển, vùng trời); phân biệt với mục từ phân định 5 vùng biển cụ thể theo Luật Biển Việt Nam năm 2012.
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7, 8; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 94; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 95; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B1 (Mục 3), tr. 95
 
 ### maritime transport
 - **Tiếng Việt:** Đường biển
@@ -3983,6 +4377,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại hình giao thông đường thuỷ quốc tế đảm nhiệm tới 3/5 tổng khối lượng luân chuyển hàng hoá toàn cầu (chủ yếu là dầu mỏ và sản phẩm dầu mỏ), với đội tàu công-te-nơ ngày càng phát triển. Các tuyến hàng hải sôi động nhất kết nối châu Âu với châu Á – Thái Bình Dương và hai bờ Đại Tây Dương, tập trung những cảng biển lớn nhất thế giới tại châu Á như Thượng Hải, Xin-ga-po, Ninh Ba – Chu Sơn, Thâm Quyến và Bu-san.
 - **Bối cảnh:** Địa lí lớp 10, Bài 34 (Mục 3.d): phân tích vai trò chủ lực trong luân chuyển hàng hoá quốc tế và sự phân bố cảng biển lớn.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.c), tr. 96; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.d), tr. 96, 97; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.d), tr. 97
+
+### maritime zones of Vietnam under the 2012 Law of the Sea of Vietnam
+- **Tiếng Việt:** Vùng biển Việt Nam theo Luật Biển Việt Nam năm 2012
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The five maritime zones under Vietnam's sovereignty, sovereign rights, and national jurisdiction in the East Sea as stipulated by the 2012 Law of the Sea of Vietnam, comprising internal waters, the territorial sea, the contiguous zone, the exclusive economic zone, and the continental shelf. These zones extend to the outer limits of the exclusive economic zone and continental shelf, covering roughly 1 million km²—more than three times the mainland area.
+- **Giải thích (VI):** Hệ thống năm vùng biển thuộc chủ quyền, quyền chủ quyền và quyền tài phán quốc gia của Việt Nam trên Biển Đông theo Luật Biển Việt Nam năm 2012, bao gồm: nội thuỷ, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa. Phạm vi vùng biển này mở rộng tới ranh giới ngoài của vùng đặc quyền kinh tế và thềm lục địa với diện tích khoảng 1 triệu km², gấp hơn ba lần diện tích đất liền.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 8, Chủ đề chung 2 (Mục 1): phạm vi các vùng biển thuộc chủ quyền, quyền chủ quyền và quyền tài phán quốc gia của Việt Nam.
+  - *Lưu ý:* Phân biệt góc độ phân định pháp lí 5 bộ phận vùng biển theo Luật Biển Việt Nam năm 2012 với khái niệm phạm vi địa lí tổng quát của vùng biển Việt Nam trong cấu trúc lãnh thổ quốc gia.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2, tr. 164; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1), tr. 164; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1), tr. 164, 165
 
 ### marsupials
 - **Tiếng Việt:** Thú có túi
@@ -4081,12 +4485,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 1.b), tr. 78; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 1.b), tr. 78, 79
 
 ### Mekong River Delta
-- **Tiếng Việt:** Đồng bằng sông Cửu Long
+- **Tiếng Việt:** Đồng bằng sông Cửu Long (đồng bằng châu thổ sông Cửu Long; châu thổ sông Cửu Long)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Vietnam's southernmost socio-economic region and largest alluvial delta covering 40.9 thousand km², comprising Can Tho City and twelve provinces (Long An, Vinh Long, Tien Giang, Ben Tre, Hau Giang, Soc Trang, Tra Vinh, Bac Lieu, Dong Thap, An Giang, Kien Giang, and Ca Mau). Bordering the Southeast Region and Cambodia and surrounded on three sides by expansive seas near international shipping crossroads, it holds a strategic position for economic development and national defense and security.
 - **Giải thích (VI):** Vùng kinh tế – xã hội và đồng bằng châu thổ lớn nhất ở cực nam Việt Nam với diện tích 40,9 nghìn km², gồm thành phố Cần Thơ và 12 tỉnh (Long An, Vĩnh Long, Tiền Giang, Bến Tre, Hậu Giang, Sóc Trăng, Trà Vinh, Bạc Liêu, Đồng Tháp, An Giang, Kiên Giang, Cà Mau). Vùng tiếp giáp Đông Nam Bộ và Cam-pu-chia, có biển rộng bao quanh ba phía gần ngã tư đường hàng hải quốc tế, giữ vị trí quan trọng về phát triển kinh tế và quốc phòng an ninh.
-- **Bối cảnh:** Địa lí lớp 12, Bài 30 (Mục I.1): Vị trí địa lí, phạm vi lãnh thổ và đặc điểm khái quát của vùng Đồng bằng sông Cửu Long.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B30, tr. 145; SGK Địa lí 12 KNTT, Phần 4, B30 (Mục I.1), tr. 145; SGK Địa lí 12 KNTT, Phần 4, B30 (Mục I.2), tr. 145
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: The largest river delta in Vietnam, covering over 40,000 km² built up by alluvium from the Mekong River system, encompassing both areas directly influenced by the Tien and Hau rivers and adjacent alluvial areas such as the Ca Mau Peninsula. Its surface is low and relatively flat (averaging 2–3 m in elevation in the lower delta, with large depressions such as Dong Thap Muoi and the Long Xuyen Quadrangle), lacks major flood-control river dikes, and features a dense network of natural and artificial canals for drainage and flushing out alum and salinity. / VI: Đồng bằng châu thổ lớn nhất ở Việt Nam với diện tích trên 40 000 km² do phù sa hệ thống sông Mê Công bồi đắp, bao gồm phần đất chịu tác động trực tiếp của sông Tiền, sông Hậu và phần đất phù sa nằm ngoài phạm vi đó như bán đảo Cà Mau. Bề mặt đồng bằng thấp, tương đối bằng phẳng (hạ châu thổ cao trung bình 2 – 3 m, có các vùng trũng lớn như Đồng Tháp Mười, Tứ giác Long Xuyên), không có đê lớn ngăn lũ nhưng có mạng lưới kênh rạch tự nhiên và nhân tạo dày đặc giúp tiêu nước, thau chua, rửa mặn.
+- **Bối cảnh:**
+  - Địa lí lớp 12, Bài 30 (Mục I.1): Vị trí địa lí, phạm vi lãnh thổ và đặc điểm khái quát của vùng Đồng bằng sông Cửu Long.
+  - Lịch sử và Địa lí lớp 8, Bài 2 (Mục 2.b) và Chủ đề chung 1 (Mục 2.a): quy mô, phạm vi bồi đắp và đặc điểm địa hình đồng bằng châu thổ sông Cửu Long.
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B30, tr. 145; SGK Địa lí 12 KNTT, Phần 4, B30 (Mục I.1), tr. 145; SGK Địa lí 12 KNTT, Phần 4, B30 (Mục I.2), tr. 145; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1, tr. 157; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1.b), tr. 159; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.a), tr. 159; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.b), tr. 103; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.b), tr. 103, 104; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.b), tr. 104
+
+### Mekong River system
+- **Tiếng Việt:** Hệ thống sông Mê Công
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A major international river system flowing through six countries whose section in Vietnam exceeds 230 km in length, featuring a pinnate network with 286 tributaries (largest being the Srepok River), two main distributaries (the Tien and Hau rivers), and dense canals. Its flow regime consists of a flood season from July to November (accounting for about 80% of annual discharge, rising and receding gradually through natural regulation by Tonle Sap Lake) and a low-water season from December to June.
+- **Giải thích (VI):** Hệ thống sông lớn chảy qua 6 quốc gia với phần trên lãnh thổ Việt Nam dài hơn 230 km, có mạng lưới hình lông chim gồm 286 phụ lưu (lớn nhất là sông Srê Pốk), hai chi lưu chính là sông Tiền, sông Hậu cùng kênh rạch chằng chịt. Chế độ nước chia thành mùa lũ từ tháng 7 đến tháng 11 (chiếm khoảng 80% lượng nước năm, lên và xuống chậm nhờ sự điều tiết của hồ Tôn-lê Sáp) và mùa cạn từ tháng 12 đến tháng 6 năm sau.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 6 (Mục 1.b): Phân tích đặc điểm mạng lưới và chế độ nước điều hoà của hệ thống sông lớn nhất ở Nam Bộ.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 121; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 122; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 122, 123
 
 ### mental map
 - **Tiếng Việt:** Lược đồ trí nhớ
@@ -4119,8 +4534,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A group of mineral resources comprising mineral substances extracted to obtain metals through metallurgical processes. It includes ferrous metals (such as iron, manganese, and chromium) and non-ferrous metals (such as copper and lead), providing raw materials for producing pig iron, steel, and non-ferrous metals.
 - **Giải thích (VI):** Nhóm khoáng sản bao gồm các khoáng chất khai thác nhằm thu được kim loại thông qua quá trình luyện kim. Nhóm này gồm kim loại đen (sắt, man-gan, crôm,...) và kim loại màu (đồng, chì,...), cung cấp nguyên liệu để sản xuất gang, thép và các kim loại màu.
-- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 2): nhận diện nhóm khoáng sản nguyên liệu cho công nghiệp luyện kim đen và luyện kim màu.
-- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2), tr. 137; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: A category of mineral resources supplying ore raw materials for metallurgy, divided into ferrous metals (iron, manganese, chromium) and non-ferrous metals (copper, lead, zinc, nickel, bauxite, tin, titanium, gold, etc.). / VI: Nhóm khoáng sản cung cấp quặng nguyên liệu cho ngành công nghiệp luyện kim, chia thành hai phân nhóm gồm kim loại đen (sắt, man-gan, crôm) và kim loại màu (đồng, chì, kẽm, ni-ken, bô-xít, thiếc, ti-tan, vàng,...).
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 13 (Mục 2): nhận diện nhóm khoáng sản nguyên liệu cho công nghiệp luyện kim đen và luyện kim màu.
+  - Lịch sử và Địa lí lớp 8, Bài 3 (Mục 1): phân loại khoáng sản theo công dụng làm nguyên liệu cho ngành công nghiệp luyện kim đen và luyện kim màu.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2), tr. 137; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B3, tr. 109; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1), tr. 109; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1), tr. 109, 110
 
 ### metamorphic rock
 - **Tiếng Việt:** Đá biến chất
@@ -4573,8 +4991,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A group of mineral formations neither smelted into metals or alloys nor used as fuel. Typical examples such as rock salt, quartz, and limestone are commonly used as raw materials for producing fertilizers, ceramics, and building materials.
 - **Giải thích (VI):** Nhóm thành tạo khoáng vật không dùng để luyện ra kim loại, hợp kim và không dùng làm chất đốt. Các khoáng sản tiêu biểu như muối mỏ, thạch anh, đá vôi thường dùng làm nguyên liệu sản xuất phân bón, gốm sứ và vật liệu xây dựng.
-- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 13 (Mục 2): phân biệt nhóm khoáng sản phi kim loại với khoáng sản năng lượng và khoáng sản kim loại.
-- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2), tr. 137; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: A category of mineral resources used directly or after processing for fertilizers, ceramics, construction materials, and daily needs rather than metal smelting, represented in Vietnam by gemstones, apatite, clay, kaolin, limestone, construction sand and gravel, and mineral water. / VI: Nhóm khoáng sản dùng trực tiếp hoặc qua chế biến để sản xuất phân bón, gốm sứ, vật liệu xây dựng và phục vụ đời sống thay vì luyện kim, tiêu biểu ở Việt Nam gồm đá quý, a-pa-tít, sét, cao lanh, đá vôi, cát sỏi xây dựng và nước khoáng.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 13 (Mục 2): phân biệt nhóm khoáng sản phi kim loại với khoáng sản năng lượng và khoáng sản kim loại.
+  - Lịch sử và Địa lí lớp 8, Bài 3 (Mục 1): phân loại nhóm khoáng sản phục vụ sản xuất vật liệu xây dựng, hoá chất phân bón và tiêu dùng.
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2), tr. 137; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B3, tr. 109; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1), tr. 109; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1), tr. 109, 110
 
 ### non-renewable resources
 - **Tiếng Việt:** Tài nguyên không thể tái tạo
@@ -4618,6 +5039,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 2 (Mục I.1): Trình bày nguồn gốc, phạm vi hoạt động và tính chất thời tiết mùa đông ở miền Bắc Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I.1), tr. 11; SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I.1), tr. 11, 12; SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I.1), tr. 12
 
+### Northeast mountainous region of Vietnam
+- **Tiếng Việt:** Vùng núi Đông Bắc
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A low-mountainous region on the left bank of the Red River stretching from the Con Voi Range to the coastal hills of Quang Ninh, with average elevations generally below 1,000 m. Its terrain is characterized by four major mountain arcs (Song Gam, Ngan Son, Bac Son, and Dong Trieu), widespread karst landscapes, and extensive midland hill zones.
+- **Giải thích (VI):** Vùng đồi núi thấp nằm ở phía bờ trái của sông Hồng, trải từ dãy núi Con Voi đến vùng đồi núi ven biển Quảng Ninh với độ cao trung bình phổ biến dưới 1 000 m. Địa hình đặc trưng bởi bốn cánh cung núi lớn (Sông Gâm, Ngân Sơn, Bắc Sơn, Đông Triều), địa hình các-xtơ phổ biến và vùng đồi trung du phát triển mở rộng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 2.a): một trong bốn vùng địa hình đồi núi của Việt Nam, nổi bật với hướng núi vòng cung và dải đồi trung du rộng.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1.b), tr. 97; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.a), tr. 100; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.a), tr. 100, 101
+
 ### Northern Asia
 - **Tiếng Việt:** Khu vực Bắc Á
 - **Chuyên ngành gốc:** Địa lí
@@ -4625,6 +5054,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Khu vực địa lí ở cực bắc châu Á bao gồm toàn bộ vùng Xi-bia của Nga với ba bộ phận địa hình chính là đồng bằng Tây Xi-bia, cao nguyên Trung Xi-bia và miền núi Đông Xi-bia. Nơi đây có khí hậu lục địa lạnh giá khắc nghiệt, nhiều sông lớn giàu thuỷ năng (Ô-bi, I-ê-nít-xây, Lê-na), rừng lá kim rộng lớn và trữ lượng khoáng sản phong phú.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 2.a): đặc điểm tự nhiên và tài nguyên của khu vực cực bắc châu Á.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 1), tr. 119; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.a), tr. 119; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.a), tr. 119, 120
+
+### Northern climatic region of Vietnam
+- **Tiếng Việt:** Miền khí hậu phía Bắc
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The mainland climatic region of Vietnam extending northward from the Bach Ma Range, characterized by a mean annual temperature above 20 °C and an annual temperature range of 9 °C or more. Under the influence of the Northeast monsoon, it experiences a cold winter lasting 2–3 months with monthly mean temperatures below 18 °C (relatively dry in early winter, humid in late winter) and a hot, humid, rainy summer.
+- **Giải thích (VI):** Miền khí hậu trên phần đất liền Việt Nam trải dài từ dãy Bạch Mã trở ra Bắc, có nhiệt độ trung bình năm trên 20 °C và biên độ nhiệt năm từ 9 °C trở lên. Dưới ảnh hưởng của gió mùa Đông Bắc, miền có mùa đông lạnh kéo dài 2–3 tháng với nhiệt độ trung bình tháng dưới 18 °C (nửa đầu tương đối khô, nửa cuối ẩm ướt) và mùa hạ nóng ẩm, mưa nhiều.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 4 (Mục 2.a): Phân biệt sự phân hoá khí hậu theo chiều bắc – nam trên phần đất liền Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 2.a), tr. 116; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 2.b), tr. 116; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 2.c), tr. 116
 
 ### Northern Dynamic Zone
 - **Tiếng Việt:** Vùng động lực phía bắc
@@ -4676,6 +5113,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Ranh giới tự nhiên phân chia phần lãnh thổ phía Bắc với phần lãnh thổ phía Nam là dãy núi Bạch Mã.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B3, tr. 17; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục I.1), tr. 17; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục I.1), tr. 17, 18
 
+### Northern Truong Son mountainous region
+- **Tiếng Việt:** Vùng núi Trường Sơn Bắc
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A mountainous region extending roughly 600 km in a northwest–southeast direction from south of the Ca River to the Bach Ma Range, with an average elevation of around 1,000 m and a few peaks above 2,000 m such as Pu Xai Lai Leng (2,711 m) and Rao Co (2,235 m). It features parallel ridges and transverse mountain spurs jutting out to the coast, dividing the central coastal plains.
+- **Giải thích (VI):** Vùng núi kéo dài khoảng 600 km theo hướng tây bắc – đông nam từ phía nam sông Cả tới dãy Bạch Mã, có độ cao trung bình khoảng 1 000 m với một số ít đỉnh trên 2 000 m như Pu Xai Lai Leng (2 711 m) và Rào Cỏ (2 235 m). Dãy núi có một số nhánh đâm ngang ra sát biển, chia cắt dải đồng bằng duyên hải miền Trung.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 2.a): đặc điểm phạm vi, hướng núi và cấu trúc địa hình vùng núi Trường Sơn Bắc.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.a), tr. 101; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.a), tr. 101, 102; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.a), tr. 102
+
 ### Northwest and North Central natural region
 - **Tiếng Việt:** Miền Tây Bắc và Bắc Trung Bộ
 - **Chuyên ngành gốc:** Địa lí
@@ -4683,6 +5128,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Miền địa lí tự nhiên trải dài từ bờ phải sông Hồng tới dãy núi Bạch Mã, gồm khu vực Tây Bắc, Bắc Trung Bộ và vùng biển duyên hải từ Thanh Hoá đến Thừa Thiên Huế. Địa hình núi cao và núi trung bình chiếm ưu thế, bị chia cắt mạnh và hiểm trở nhất nước ta theo hướng tây bắc – đông nam, ảnh hưởng của gió mùa Đông Bắc giảm sút, hội tụ nhiều luồng sinh vật và có các khoáng sản sắt, đồng, a-pa-tít, crôm, thiếc.
 - **Bối cảnh:** Địa lí lớp 12, Bài 3 (Mục II.2): Trình bày phạm vi ranh giới và đặc điểm tự nhiên nổi bật của miền Tây Bắc và Bắc Trung Bộ.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B3 (Mục II.1), tr. 22; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục II.2), tr. 22; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục II.2), tr. 22, 23
+
+### Northwest mountainous region of Vietnam
+- **Tiếng Việt:** Vùng núi Tây Bắc
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The mountainous region situated between the Red River and the Ca River, possessing the highest and most rugged terrain in Vietnam with average elevations of 1,000–2,000 m and numerous peaks exceeding 2,000 m (highest being Mount Fansipan at 3,147 m in the Hoang Lien Son Range). Deeply dissected, it features high mountain ranges (Hoang Lien Son, Pu Den Dinh) and rugged plateaus running parallel in a northwest–southeast direction, interspersed with karst basins and valleys.
+- **Giải thích (VI):** Vùng núi nằm giữa sông Hồng và sông Cả, có địa hình cao và đồ sộ nhất Việt Nam với độ cao trung bình 1 000 – 2 000 m và nhiều đỉnh vượt trên 2 000 m (cao nhất là đỉnh Phan-xi-păng 3 147 m thuộc dãy Hoàng Liên Sơn). Địa hình bị chia cắt mạnh, gồm các dãy núi cao (Hoàng Liên Sơn, Pu Đen Đinh) và các cao nguyên hiểm trở chạy song song theo hướng tây bắc – đông nam xen lẫn các cánh đồng, thung lũng các-xtơ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 2.a): vùng núi cao nhất Việt Nam với hướng địa hình tây bắc – đông nam điển hình.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.a), tr. 100; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.a), tr. 101; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.a), tr. 101, 102
 
 ### north–south natural differentiation in Central and South America
 - **Tiếng Việt:** Sự phân hoá tự nhiên theo chiều bắc – nam ở Trung và Nam Mỹ
@@ -4785,6 +5238,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 16 (Mục I.2): đặc điểm công nghệ, tình hình phát triển và phân bố ngành dầu khí ở Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B16 (Mục I.2), tr. 71
 
+### old alluvial terrace
+- **Tiếng Việt:** Thềm phù sa cổ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Stepped tracts of land formed by alluvial deposition from ancient rivers over geological time or situated along the outer margins of recent alluvial plains (such as old alluvial terraces reaching up to 200 m in elevation in Southeastern Vietnam).
+- **Giải thích (VI):** Các dải đất bậc thềm hình thành do sự bồi đắp phù sa của các dòng sông cổ hoặc nằm ở rìa ngoài vùng đất phù sa mới (như các bậc thềm phù sa cổ cao tới 200 m ở vùng bán bình nguyên Đông Nam Bộ).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 2.a): thành phần cấu tạo địa hình phổ biến trên vùng bán bình nguyên Đông Nam Bộ.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 173; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.a), tr. 101
+
 ### old mountain
 - **Tiếng Việt:** Núi già
 - **Chuyên ngành gốc:** Địa lí
@@ -4844,12 +5305,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B4, tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 1), tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 15
 
 ### ozone layer
-- **Tiếng Việt:** Lớp ô-dôn
+- **Tiếng Việt:** Lớp ô-dôn (Tầng ozone)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A gaseous layer located within the stratosphere of the atmosphere that absorbs most ultraviolet radiation to protect life on Earth.
 - **Giải thích (VI):** Lớp khí nằm trong tầng bình lưu của khí quyển, có chức năng hấp thụ phần lớn bức xạ cực tím nhằm bảo vệ sự sống trên Trái Đất.
-- **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 2): vai trò bảo vệ sự sống trên Trái Đất của tầng bình lưu.
-- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 143
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: An ozone-rich (O₃) atmospheric layer located in Earth's stratosphere at altitudes from 15 km to 35 km that absorbs most ultraviolet (UV) radiation from the Sun. / VI: Lớp khí quyển chứa khí ozone (O₃) nằm trong tầng bình lưu của Trái Đất ở độ cao từ 15 km đến 35 km, có tác dụng hấp thụ phần lớn các tia cực tím (UV) từ Mặt Trời.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 6, Bài 15 (Mục 2): vai trò bảo vệ sự sống trên Trái Đất của tầng bình lưu.
+  - Khoa học tự nhiên lớp 8, Bài 47 (Mục IV): Lớp khí quyển bảo vệ sinh vật khỏi bức xạ cực tím cần được bảo tồn trước các chất gây suy giảm tầng ozone (ODS).
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 143; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục IV), tr. 194
 
 ### Pacific Ocean
 - **Tiếng Việt:** Thái Bình Dương
@@ -4903,6 +5367,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Sự bình yên, tự do và hạnh phúc trong quan hệ giữa con người và các quốc gia với nhau. Hiện nay, hoà bình thế giới vẫn đối mặt với nhiều mối đe doạ như chiến tranh, xung đột vũ trang, nội chiến, tranh chấp biên giới lãnh thổ, đói nghèo và biến đổi khí hậu.
 - **Bối cảnh:** Địa lí lớp 11, Bài 4 (Mục II.2): Khái niệm hoà bình và sự cần thiết phải chung tay bảo vệ hoà bình trên thế giới.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B4, tr. 14; SGK Địa lí 11 KNTT, Phần một, B4 (Mục I.1), tr. 14; SGK Địa lí 11 KNTT, Phần một, B4 (Mục II.1), tr. 16
+
+### peneplain
+- **Tiếng Việt:** Bán bình nguyên
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A transitional land zone between uplands and plains characterized by a low, relatively flat surface formed through prolonged erosion of hills and mountains by rain and floodwaters (exemplified in Vietnam by the Southeastern peneplain).
+- **Giải thích (VI):** Vùng đất chuyển tiếp giữa miền đồi núi và miền đồng bằng, có bề mặt thấp và tương đối bằng phẳng hình thành do quá trình bào mòn đồi núi lâu dài của mưa lũ (tiêu biểu ở Việt Nam là vùng bán bình nguyên Đông Nam Bộ).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 2.a): dạng địa hình chuyển tiếp giữa vùng núi, cao nguyên Trường Sơn Nam với đồng bằng sông Cửu Long ở Đông Nam Bộ.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 173; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.a), tr. 101
 
 ### peninsula
 - **Tiếng Việt:** Bán đảo
@@ -5395,6 +5867,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 1 (Mục 1): mốc quy ước 0° để đánh số các kinh tuyến đông, kinh tuyến tây và tính kinh độ.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1, tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 103
 
+### protection of Vietnam's marine and island environment
+- **Tiếng Việt:** Bảo vệ môi trường biển đảo Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An integrated system of measures aimed at preventing and mitigating pollution and degradation in Vietnam's marine and island areas through environmental policies and legislation, technological monitoring and treatment, public awareness campaigns, and practical coastal ecosystem conservation activities.
+- **Giải thích (VI):** Hệ thống giải pháp tổng hợp nhằm ngăn ngừa, giảm thiểu ô nhiễm và suy thoái môi trường vùng biển đảo Việt Nam thông qua hoàn thiện cơ chế chính sách, pháp luật, ứng dụng khoa học công nghệ kiểm soát và xử lí môi trường, kết hợp tuyên truyền nâng cao nhận thức cộng đồng cùng các hoạt động thiết thực giữ gìn hệ sinh thái biển.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 12 (Mục 1.b): các nhóm giải pháp quản lí, khoa học công nghệ và hành động thiết thực giữ gìn môi trường biển đảo.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 1.b), tr. 155
+
 ### public services
 - **Tiếng Việt:** Dịch vụ công
 - **Chuyên ngành gốc:** Địa lí
@@ -5437,13 +5917,34 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Ở phần giải thích cơ chế hình thành (Mục 4.a), 'mưa' chỉ mưa dạng hạt nước lỏng (rain); khi xét tổng lượng nước rơi ('lượng mưa'), SGK dùng chung cho giáng thuỷ (precipitation).
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9, tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 1), tr. 28; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 3.b), tr. 32; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 4.a), tr. 33
 
+### rainy season
+- **Tiếng Việt:** Mùa mưa
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The wet period of the year in a given locality, defined quantitatively as a span of three or more consecutive months each recording monthly precipitation above 100 mm.
+- **Giải thích (VI):** Thời kì tập trung mưa nhiều trong năm tại một địa phương, xác định khi có từ 3 tháng liên tục trở lên đạt lượng mưa trung bình tháng trên 100 mm.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 8, Bài 5 (Mục Thực hành): Xác định thời gian mùa mưa khi đọc bảng số liệu và phân tích biểu đồ khí hậu.
+  - *Lưu ý:* Trong thực hành phân tích biểu đồ khí hậu ở Việt Nam, mùa mưa xác định theo tiêu chí định lượng có ít nhất 3 tháng liên tiếp đạt lượng mưa trên 100 mm/tháng.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B5, tr. 118
+
+### rational use of mineral resources in Vietnam
+- **Tiếng Việt:** Sử dụng hợp lí tài nguyên khoáng sản ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A strategic orientation and set of sustainable management measures addressing outdated extraction technology, resource waste, environmental degradation, and the risk of mineral depletion in Vietnam. Core measures include advancing geological exploration, investing in modern integrated mining and processing technologies, restricting raw mineral exports, conserving unexploited reserves alongside economical use, minimizing environmental impacts, and strengthening legal education and enforcement.
+- **Giải thích (VI):** Định hướng và hệ thống giải pháp quản lí, khai thác bền vững nhằm khắc phục tình trạng công nghệ lạc hậu, gây lãng phí, ô nhiễm môi trường và nguy cơ cạn kiệt nguồn khoáng sản của Việt Nam. Các giải pháp trọng tâm gồm phát triển điều tra thăm dò, đầu tư công nghệ khai thác – chế biến hiện đại đồng bộ, đẩy mạnh công nghiệp chế biến và hạn chế xuất khẩu khoáng sản thô, bảo vệ khoáng sản chưa khai thác đi đôi với sử dụng tiết kiệm, giảm thiểu tác động xấu tới môi trường và tăng cường tuyên truyền, giáo dục pháp luật về khoáng sản.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 3 (Mục 3): các giải pháp khai thác tiết kiệm, hiệu quả và bảo vệ môi trường đối với tài nguyên khoáng sản.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B3 (Mục 3), tr. 112
+
 ### Red River Delta
-- **Tiếng Việt:** Đồng bằng sông Hồng
+- **Tiếng Việt:** Đồng bằng sông Hồng (châu thổ sông Hồng; đồng bằng châu thổ sông Hồng)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A strategic socio-economic region in northern Vietnam comprising two centrally governed municipalities (Hanoi and Hai Phong) and nine provinces across 21.3 thousand km² (in 2021), bordering China, the Gulf of Tonkin, and neighboring regions. Anchored by the national capital Hanoi and a long history of territorial settlement, the region leads Vietnam in both total population (23.2 million) and population density (1,091 persons/km² in 2021).
 - **Giải thích (VI):** Vùng kinh tế – xã hội chiến lược ở miền Bắc Việt Nam bao gồm 2 thành phố trực thuộc Trung ương (Hà Nội, Hải Phòng) và 9 tỉnh với diện tích 21,3 nghìn km² (năm 2021), tiếp giáp Trung Quốc, vịnh Bắc Bộ và các vùng lân cận. Vùng có lịch sử khai thác lãnh thổ lâu đời, có Thủ đô Hà Nội là trung tâm chính trị, kinh tế, văn hoá của cả nước, đồng thời có số dân đông nhất (23,2 triệu người) và mật độ dân số cao nhất cả nước (1 091 người/km² năm 2021).
-- **Bối cảnh:** Địa lí lớp 12, Bài 24 (Mục I): vị trí địa lí, phạm vi lãnh thổ và đặc điểm dân cư vùng Đồng bằng sông Hồng.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B24, tr. 103; SGK Địa lí 12 KNTT, Phần 4, B24 (Mục I.1), tr. 103; SGK Địa lí 12 KNTT, Phần 4, B24 (Mục I.2), tr. 103, 104
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: The second-largest river delta in Vietnam, covering about 15,000 km² in a triangular shape with its apex at Viet Tri (Phu Tho) and its base along the coastline from Quang Yen (Quang Ninh) to the Day River mouth (Ninh Binh), formed mainly by alluvial deposition from the Red River system combined with tides and sea waves. Flood-control dike systems built along the riverbanks divide the delta surface into low-lying enclosed basins and prevent natural alluvial deposition inside the dikes. / VI: Đồng bằng châu thổ lớn thứ hai ở Việt Nam với diện tích khoảng 15 000 km², có dạng tam giác đỉnh ở Việt Trì (Phú Thọ) và đáy là đường bờ biển từ Quảng Yên (Quảng Ninh) đến cửa sông Đáy (Ninh Bình), hình thành chủ yếu do phù sa hệ thống sông Hồng bồi đắp kết hợp tác động của thuỷ triều và sóng biển. Hệ thống đê chống lũ dọc hai bên bờ sông chia cắt bề mặt đồng bằng thành nhiều ô trũng và làm khu vực trong đê không còn nhận phù sa bồi đắp tự nhiên.
+- **Bối cảnh:**
+  - Địa lí lớp 12, Bài 24 (Mục I): vị trí địa lí, phạm vi lãnh thổ và đặc điểm dân cư vùng Đồng bằng sông Hồng.
+  - Lịch sử và Địa lí lớp 8, Bài 2 (Mục 2.b) và Chủ đề chung 1 (Mục 1.a): quy mô, nguồn gốc hình thành và đặc điểm địa hình đồng bằng châu thổ sông Hồng.
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B24, tr. 103; SGK Địa lí 12 KNTT, Phần 4, B24 (Mục I.1), tr. 103; SGK Địa lí 12 KNTT, Phần 4, B24 (Mục I.2), tr. 103, 104; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1, tr. 157; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1.a), tr. 157; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1.a), tr. 157, 158; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.b), tr. 103; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.b), tr. 103, 104; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3.b), tr. 107
 
 ### Red River flow regime
 - **Tiếng Việt:** Chế độ nước của sông Hồng
@@ -5452,6 +5953,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đặc điểm biến đổi lưu lượng nước theo mùa của sông Hồng (tại trạm Hà Nội), phân chia thành hai mùa rõ rệt dựa trên giá trị lưu lượng trung bình tháng trong năm (khoảng 3 263,6 m³/s). Mùa lũ kéo dài từ tháng 6 đến tháng 10 (cao nhất vào tháng 7 đạt 7 300 m³/s), còn mùa cạn kéo dài từ tháng 11 đến tháng 5 năm sau (thấp nhất vào tháng 3 đạt 1 215 m³/s).
 - **Bối cảnh:** Địa lí lớp 10, Bài 13 (Thực hành): Xử lí số liệu lưu lượng nước trung bình tháng tại trạm Hà Nội để vẽ biểu đồ và xác định mùa lũ, mùa cạn của sông Hồng.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B13, tr. 44
+
+### Red River system
+- **Tiếng Việt:** Hệ thống sông Hồng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** One of the two largest river systems in Vietnam, consisting of the Red River main stem (556 km within Vietnam), hundreds of tributaries of various orders (largest being the Da and Lo rivers), and dozens of distributaries (such as the Tra Ly and Day rivers). The system has a total annual discharge of about 112 billion m³/year and an abundant sediment load of roughly 120 million tonnes/year.
+- **Giải thích (VI):** Một trong hai hệ thống sông lớn nhất ở Việt Nam, gồm dòng chính là sông Hồng (đoạn chảy qua Việt Nam dài 556 km), hàng trăm phụ lưu các cấp (lớn nhất là sông Đà và sông Lô) cùng hàng chục chi lưu (như sông Trà Lý, sông Đáy). Hệ thống sông này có tổng lượng dòng chảy khoảng 112 tỉ m³/năm và lượng phù sa phong phú khoảng 120 triệu tấn/năm.
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: The representative river system of Northern Vietnam and the second largest in the country, with a 556 km main stem within Vietnam joining major tributaries such as the Da and Lo rivers in a fan-shaped network converging at Viet Tri (Phu Tho). Its flow regime comprises a flood season from June to October (accounting for about 75% of annual discharge, with rapid runoff concentration prone to flooding) and a low-water season from November to May. / VI: Hệ thống sông tiêu biểu của Bắc Bộ và lớn thứ hai ở Việt Nam, có dòng chính trên lãnh thổ Việt Nam dài 556 km hợp với các phụ lưu lớn như sông Đà, sông Lô thành mạng lưới hình nan quạt hội tụ tại Việt Trì (Phú Thọ). Chế độ nước gồm mùa lũ từ tháng 6 đến tháng 10 (chiếm khoảng 75% tổng lượng nước năm, tập trung nhanh dễ gây lũ lụt) và mùa cạn từ tháng 11 đến tháng 5 năm sau.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 8, Chủ đề chung 1 (Mục 1.a): đặc điểm mạng lưới, lưu lượng dòng chảy và lượng phù sa bồi đắp châu thổ sông Hồng.
+  - Lịch sử và Địa lí lớp 8, Bài 6 (Mục 1.b): Phân tích đặc điểm mạng lưới hình nan quạt và chế độ nước của hệ thống sông lớn ở Bắc Bộ.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1, tr. 157; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1.a), tr. 157; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1.a), tr. 157, 158; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 121; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 121, 122
 
 ### red-yellow ferrallitic soil
 - **Tiếng Việt:** Đất feralit đỏ vàng
@@ -5570,6 +6082,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 20 (Mục 1.a): nhận diện cấu trúc các bộ phận hợp thành một hệ thống sông trên mô hình.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20, tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158, 159
 
+### river terrace
+- **Tiếng Việt:** Bậc thềm sông
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A small-scale stepped landform along a river valley formed by the erosional or depositional action of flowing water across stages of tectonic uplift and topographic stepping.
+- **Giải thích (VI):** Bậc địa hình nhỏ ven thung lũng sông hình thành do quá trình xâm thực hoặc tích tụ của dòng chảy qua các giai đoạn nâng cao và phân bậc địa hình.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 1.c): một trong các bậc địa hình nhỏ phản ánh tính chất phân bậc rõ rệt của địa hình Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 173; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1.c), tr. 99
+
 ### rivers and lakes of China
 - **Tiếng Việt:** Sông, hồ Trung Quốc
 - **Chuyên ngành gốc:** Địa lí
@@ -5617,6 +6137,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Mạng lưới thuỷ văn nội địa của Hoa Kỳ gồm nhiều sông lớn chảy chủ yếu ra Đại Tây Dương và Thái Bình Dương (Mi-xi-xi-pi, Mít-xu-ri, Cô-lô-ra-đô, Cô-lum-bi-a) có chế độ nước phức tạp cùng nhiều hồ lớn, nổi bật là vùng Ngũ Hồ. Hệ thống sông, hồ này mang lại giá trị nhiều mặt về thuỷ lợi, cung cấp nước sinh hoạt, giao thông đường thuỷ, thuỷ điện, đánh cá, điều hoà khí hậu và du lịch.
 - **Bối cảnh:** Địa lí lớp 11, Bài 18 (Mục II.3): Đặc điểm mạng lưới sông, hồ và vai trò đối với kinh tế – đời sống ở Hoa Kỳ.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B18 (Mục II.3), tr. 84; SGK Địa lí 11 KNTT, Phần hai, B18 (Mục II.4), tr. 84; SGK Địa lí 11 KNTT, Phần hai, B18 (Mục II.5), tr. 84
+
+### rivers of Vietnam
+- **Tiếng Việt:** Sông ngòi Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The dense network of perennial watercourses across Vietnam comprising 2,360 rivers over 10 km in length (mostly small rivers), flowing mainly in northwest–southeast and arcuate directions. These rivers carry a large total water volume (over 800 billion m³/year) and heavy silt load (about 200 million tonnes/year), with a flow regime sharply divided into flood and low-water seasons, the flood season accounting for 70–80% of annual discharge.
+- **Giải thích (VI):** Mạng lưới dòng chảy thường xuyên dày đặc trên lãnh thổ Việt Nam gồm 2 360 con sông dài trên 10 km (chủ yếu là sông nhỏ), chảy theo hai hướng chính là tây bắc – đông nam và vòng cung. Sông ngòi có tổng lượng nước lớn (hơn 800 tỉ m³/năm), giàu phù sa (khoảng 200 triệu tấn/năm) và chế độ nước phân thành hai mùa rõ rệt với mùa lũ chiếm 70–80% tổng lượng nước cả năm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 6 (Mục 1.a): Khái quát đặc điểm chung về mạng lưới, hướng chảy và chế độ nước sông ngòi Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B6, tr. 119; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 119; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 119, 120
 
 ### road and railway transport in Vietnam
 - **Tiếng Việt:** Đường ô tô và đường sắt ở Việt Nam
@@ -5881,6 +6409,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 10, Bài 5 (Mục 2.b): Giải thích nguyên nhân sinh ra các mùa trong năm và sự phân hoá mùa theo vĩ độ, bán cầu.
   - Lịch sử và Địa lí lớp 6, Bài 8 (Mục 2.a): sự phân chia thời gian trong năm theo đặc điểm thời tiết, khí hậu và sự khác biệt theo vĩ độ.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 2), tr. 19; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 2.a), tr. 19; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 2.a), tr. 20; SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 2.b), tr. 20; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B8, tr. 122; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2.a), tr. 123
+
+### seasonal ocean currents in Vietnam's sea
+- **Tiếng Việt:** Dòng biển theo mùa ở vùng biển Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The coastal ocean current system in Vietnam's waters that changes both flow direction and intensity across the two monsoon seasons. In winter, currents flow strongly from northeast to southwest, whereas in summer they reverse to flow from southwest to northeast with weaker intensity.
+- **Giải thích (VI):** Hệ thống dòng biển ven bờ ở vùng biển Việt Nam thay đổi cả về hướng chảy và cường độ theo hai mùa gió. Vào mùa đông, dòng biển chảy mạnh theo hướng đông bắc – tây nam; sang mùa hạ, dòng biển chảy ngược lại theo hướng tây nam – đông bắc với cường độ yếu hơn mùa đông.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 3.c): Trình bày đặc điểm hải văn nổi bật gắn với chế độ gió mùa trên Biển Đông.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 3.a), tr. 152; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 3.b), tr. 152; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 3.c), tr. 152
 
 ### seasonal variation in length of day and night
 - **Tiếng Việt:** Hiện tượng ngày – đêm dài ngắn theo mùa
@@ -6233,6 +6769,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 22 (Mục 2): Phân tích cấu tạo vật chất và tỉ lệ các hợp phần chính trong lớp đất.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22, tr. 168; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 1), tr. 168; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B22 (Mục 2), tr. 168
 
+### soil degradation control measures
+- **Tiếng Việt:** Biện pháp chống thoái hoá đất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A set of soil protection and fertility restoration practices aimed at sustaining agricultural and forestry production. Core measures include protecting watershed and coastal forests while reforesting barren hills to curb erosion, strengthening sea dikes and irrigation works to prevent salinization, acidification, and drought, and applying organic fertilizers to enrich soil nutrients and microorganisms.
+- **Giải thích (VI):** Hệ thống giải pháp giảm thiểu suy thoái và phục hồi độ phì của đất nhằm bảo đảm sản xuất nông, lâm nghiệp bền vững. Các biện pháp trọng tâm gồm bảo vệ rừng phòng hộ và trồng cây phủ xanh đất trống đồi núi trọc để hạn chế xói mòn, củng cố đê biển và thuỷ lợi để ngăn mặn hoá, phèn hoá, khô hạn, đồng thời bón phân hữu cơ để bổ sung dinh dưỡng và vi sinh vật cho đất.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 9 (Mục 3): Đề xuất giải pháp cải tạo và sử dụng bền vững tài nguyên đất tại các vùng sinh thái ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 3), tr. 139; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 3), tr. 139, 140
+
 ### soil fertility
 - **Tiếng Việt:** Độ phì của đất (Độ phì)
 - **Chuyên ngành gốc:** Địa lí
@@ -6336,6 +6880,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 2.d): đặc điểm địa hình, khí hậu nhiệt đới gió mùa và thuỷ văn của khu vực Nam Á.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.d), tr. 122
 
+### Southern climatic region of Vietnam
+- **Tiếng Việt:** Miền khí hậu phía Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The mainland climatic region of Vietnam extending southward from the Bach Ma Range, featuring year-round warm conditions with a mean annual temperature above 25 °C and no month below 20 °C. Its mean annual temperature range is less than 9 °C, and the climate is distinctly divided into a rainy season and a dry season.
+- **Giải thích (VI):** Miền khí hậu trên phần đất liền Việt Nam nằm từ dãy Bạch Mã trở vào Nam, mang tính chất nóng quanh năm với nhiệt độ trung bình năm trên 25 °C và không có tháng nào dưới 20 °C. Biên độ nhiệt độ trung bình năm nhỏ hơn 9 °C và chế độ khí hậu phân hoá thành hai mùa mưa, khô rõ rệt.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 4 (Mục 2.a): Đối chiếu đặc điểm nhiệt, ẩm của miền khí hậu phía Nam với miền khí hậu phía Bắc.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 2.a), tr. 116; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 2.b), tr. 116; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 2.c), tr. 116
+
 ### Southern Hemisphere
 - **Tiếng Việt:** Bán cầu Nam
 - **Chuyên ngành gốc:** Địa lí
@@ -6370,6 +6922,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bộ phận lãnh thổ Việt Nam nằm từ dãy núi Bạch Mã trở vào phía Nam, mang khí hậu cận xích đạo gió mùa với nền nhiệt độ cao (trung bình năm trên 25°C), biên độ nhiệt độ năm không quá 4 – 5°C và phân thành hai mùa mưa, khô. Cảnh quan thiên nhiên tiêu biểu là đới rừng cận xích đạo gió mùa.
 - **Bối cảnh:** Địa lí lớp 12, Bài 3 (Mục I.1): Phân tích đặc điểm khí hậu và cảnh quan phần lãnh thổ từ dãy núi Bạch Mã trở vào phía Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B3, tr. 17; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục I.1), tr. 17; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục I.1), tr. 17, 18
+
+### Southern Truong Son mountainous region
+- **Tiếng Việt:** Vùng núi Trường Sơn Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A mountain-and-plateau region south of the Bach Ma Range with a higher average elevation than Northern Truong Son, curving in an arc with markedly asymmetric eastern and western slopes. Its relief features high mountain massifs with peaks over 2,000 m in the north and south, broad stepped basaltic plateaus in the west, and the Southeastern peneplain transitioning toward the delta.
+- **Giải thích (VI):** Vùng núi và cao nguyên nằm ở phía nam dãy Bạch Mã, có độ cao trung bình lớn hơn Trường Sơn Bắc, chạy theo hướng vòng cung với hai sườn đông và tây không đối xứng. Địa hình nổi bật với các khối núi cao nhiều đỉnh trên 2 000 m ở phía bắc và phía nam vùng, các cao nguyên rộng lớn xếp tầng phủ đất đỏ badan và địa hình bán bình nguyên Đông Nam Bộ chuyển tiếp xuống miền đồng bằng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 2.a): đặc điểm bất đối xứng hai sườn và cấu trúc khối núi – cao nguyên xếp tầng của vùng núi Trường Sơn Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.a), tr. 101; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.a), tr. 101, 102; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.a), tr. 102
 
 ### Southwest monsoon
 - **Tiếng Việt:** Gió mùa Tây Nam
@@ -6506,6 +7066,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 3 (Mục I.3): Trình bày đặc điểm tự nhiên của đai cận nhiệt đới gió mùa trên núi ở Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B3 (Mục I.3), tr. 20; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục II.1), tr. 20; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục II.1), tr. 20, 21
 
+### subtropical monsoon montane climatic belt
+- **Tiếng Việt:** Đai khí hậu cận nhiệt đới gió mùa trên núi
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The middle altitudinal climatic belt distributed from above 600–700 m in the North (or above 900–1,000 m in the South) to below 2,600 m. Within this belt, the climate is cool with monthly mean temperatures remaining below 25 °C, accompanied by increased precipitation and humidity compared to lower elevations.
+- **Giải thích (VI):** Đai khí hậu chuyển tiếp theo độ cao phân bố từ trên 600–700 m ở miền Bắc (hoặc trên 900–1 000 m ở miền Nam) đến dưới 2 600 m. Trong đai này, khí hậu mát mẻ với nhiệt độ trung bình các tháng đều dưới 25 °C, đồng thời lượng mưa và độ ẩm tăng lên so với đai thấp.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 4 (Mục 2.c): Phân tích sự thay đổi nhiệt độ, độ ẩm và lượng mưa theo đai cao ở vùng núi Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 2.a), tr. 116; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 2.b), tr. 116; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 2.c), tr. 116
+
 ### Suez Canal
 - **Tiếng Việt:** Kênh Xuy-ê
 - **Chuyên ngành gốc:** Địa lí
@@ -6513,6 +7081,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tuyến kênh đào hàng hải huyết mạch nối liền Địa Trung Hải với Ấn Độ Dương tại khu vực tiếp giáp của Tây Nam Á. Tuyến kênh giữ vai trò đặc biệt quan trọng đối với giao thông hàng hải quốc tế nhờ rút ngắn đáng kể quãng đường di chuyển giữa các khu vực ven Đại Tây Dương và các khu vực ven Ấn Độ Dương.
 - **Bối cảnh:** Địa lí lớp 11, Bài 15 (Mục I): Làm rõ lợi thế giao thông hàng hải quốc tế trong vị trí địa lí khu vực Tây Nam Á.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục I), tr. 67
+
+### summer monsoon in Vietnam
+- **Tiếng Việt:** Gió mùa hạ ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A seasonal wind circulation operating in Vietnam from May to October, blowing predominantly from the southwest. In early summer, winds from the northern Indian Ocean bring heavy rain to the South and the Central Highlands while causing hot, dry foehn conditions east of the Truong Son Range and in the southern Northwest; in mid-to-late summer, the southwest monsoon from the Southern Hemisphere combines with the Intertropical Convergence Zone to produce hot, humid, and rainy weather nationwide.
+- **Giải thích (VI):** Hoàn lưu gió theo mùa hoạt động ở Việt Nam từ tháng 5 đến tháng 10 với hướng chủ yếu là tây nam. Đầu mùa hạ, gió từ Bắc Ấn Độ Dương gây mưa lớn cho Nam Bộ và Tây Nguyên nhưng tạo thời tiết khô nóng (hiệu ứng phơn) ở phía đông dãy Trường Sơn và nam Tây Bắc; vào giữa và cuối mùa hạ, gió mùa Tây Nam từ bán cầu Nam kết hợp dải hội tụ nhiệt đới gây mưa nhiều và thời tiết nóng ẩm trên cả nước.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 4 (Mục 1.c): Giải thích cơ chế gây mưa lớn trên cả nước và hiện tượng gió Tây khô nóng vào mùa hạ.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 1.a), tr. 114; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 1.b), tr. 114; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 1.c), tr. 114
 
 ### Sun Belt
 - **Tiếng Việt:** Vành đai Mặt Trời
@@ -6627,6 +7203,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 3 (Mục I.3): Trình bày đặc điểm tự nhiên của đai cao nhất từ 2 600 m trở lên ở Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B3 (Mục I.3), tr. 20; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục II.1), tr. 20; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục II.1), tr. 20, 21
 
+### temperate monsoon montane climatic belt
+- **Tiếng Việt:** Đai khí hậu ôn đới gió mùa trên núi
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The highest altitudinal climatic belt in Vietnam's natural zonation, occurring in mountainous areas at elevations of 2,600 m and above. It exhibits a cool-to-cold montane temperate climate year-round, with monthly mean temperatures remaining below 15 °C in every month.
+- **Giải thích (VI):** Đai khí hậu cao nhất trong hệ thống đai cao tự nhiên ở Việt Nam, phân bố ở các vùng núi có độ cao từ 2 600 m trở lên. Khí hậu mang tính chất ôn đới núi cao lạnh quanh năm với nhiệt độ trung bình tất cả các tháng đều dưới 15 °C.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 4 (Mục 2.c): Xác định đai khí hậu trên các vùng núi cao từ 2 600 m trở lên ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 2.c), tr. 117
+
 ### temperate steppe chernozem
 - **Tiếng Việt:** Đất đen thảo nguyên ôn đới
 - **Chuyên ngành gốc:** Địa lí
@@ -6704,6 +7288,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 1 (Mục 1): sử dụng mô hình không gian ba chiều của Trái Đất để xác định hai cực, hệ thống kinh, vĩ tuyến và các bán cầu.
   - *Lưu ý:* Phân biệt với bản đồ (map) là hình vẽ thu nhỏ bề mặt Trái Đất lên mặt phẳng.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1, tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 103
+
+### terrestrial natural ecosystem
+- **Tiếng Việt:** Hệ sinh thái tự nhiên trên cạn
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A category of natural ecosystems established on land, encompassing forest and vegetation types differentiated by climate and topography. In Vietnam, dense multi-layered tropical rainforests and tropical monsoon forests with rich species composition predominate, alongside shrubby grasslands, subtropical forests, and montane temperate forests.
+- **Giải thích (VI):** Nhóm hệ sinh thái tự nhiên hình thành trên đất liền, bao gồm các kiểu rừng và thảm thực vật phân hoá theo điều kiện khí hậu, địa hình. Ở Việt Nam, phổ biến nhất là rừng mưa nhiệt đới và rừng nhiệt đới gió mùa rậm rạp nhiều tầng, giàu thành phần loài, bên cạnh các hệ sinh thái trảng cỏ cây bụi, rừng cận nhiệt và rừng ôn đới núi cao.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 10 (Mục 1): Phân loại các kiểu hệ sinh thái tự nhiên trên đất liền trong cấu trúc đa dạng sinh học Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10, tr. 141; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 141; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 141, 142
 
 ### terrestrial plant diversity
 - **Tiếng Việt:** Sự đa dạng của thực vật trên lục địa
@@ -6816,9 +7408,10 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Vùng biển có chiều rộng 12 hải lí tính từ đường cơ sở hướng ra phía biển. Ranh giới ngoài của vùng biển này là đường biên giới quốc gia trên biển của Việt Nam.
 - **Bối cảnh:**
   - Địa lí lớp 12, Bài 1 (Mục I.2): Xác định chiều rộng lãnh hải và đường biên giới quốc gia trên biển của Việt Nam.
+  - Lịch sử và Địa lí lớp 8, Bài 11 (Mục 2): Xác định phạm vi lãnh hải và đường biên giới quốc gia trên biển của Việt Nam.
   - *Lưu ý:* Tính từ đường cơ sở ra phía biển rộng 12 hải lí, phân biệt với vùng tiếp giáp lãnh hải rộng 12 hải lí tính từ ranh giới ngoài của lãnh hải.
   - *Lưu ý:* Không nhầm với 'Vùng lãnh hải' (`territorial sea (economics)`) trong Giáo dục Kinh tế và Pháp luật.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7, 8
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7, 8; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 146; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 147; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 148
 
 ### territory of Vietnam
 - **Tiếng Việt:** Lãnh thổ Việt Nam
@@ -6868,6 +7461,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 30 (Mục II.1.a): Đặc điểm phân bố và giá trị sử dụng hợp lí của ba nhóm đất chính ở Đồng bằng sông Cửu Long.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B30, tr. 145; SGK Địa lí 12 KNTT, Phần 4, B30 (Mục I.1), tr. 145; SGK Địa lí 12 KNTT, Phần 4, B30 (Mục I.2), tr. 145
 
+### Thu Bon River system
+- **Tiếng Việt:** Hệ thống sông Thu Bồn
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A representative river system of Central Vietnam with a total length of 205 km and 78 tributaries over 10 km long, characterized by short, steep streams forming a fan-shaped network. Its flow regime features an autumn–winter flood season from September to December (accounting for about 65% of annual discharge, with rapid and sudden flood peaks) and a low-water season from January to August.
+- **Giải thích (VI):** Hệ thống sông tiêu biểu ở miền Trung Việt Nam có tổng chiều dài 205 km và 78 phụ lưu dài trên 10 km, đặc trưng bởi các sông suối ngắn, dốc hợp thành mạng lưới dạng nan quạt. Chế độ nước phân hoá thành mùa lũ lệch về thu đông từ tháng 9 đến tháng 12 (chiếm khoảng 65% lượng nước cả năm, lũ lên nhanh và đột ngột) và mùa cạn từ tháng 1 đến tháng 8.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 6 (Mục 1.b): Minh hoạ đặc điểm sông ngòi ngắn, dốc và mùa lũ thu đông của khu vực miền Trung.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 122; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 122, 123
+
+### tidal regime along Vietnam's coast
+- **Tiếng Việt:** Chế độ thuỷ triều dọc bờ biển Việt Nam (chế độ nhật triều đều)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The diverse pattern of tidal fluctuations along Vietnam's coastline comprising regular diurnal, irregular diurnal, semidiurnal, and irregular semidiurnal tides, most typically characterized by the regular diurnal tide (one high water and one low water per lunar day, especially in the Gulf of Tonkin). Tidal amplitude varies by coastal stretch, reaching its highest level from Quang Ninh to Thanh Hoa and its lowest along the Mekong Delta coast.
+- **Giải thích (VI):** Đặc trưng dao động thuỷ triều đa dạng ven bờ biển Việt Nam gồm nhật triều đều, nhật triều không đều, bán nhật triều và bán nhật triều không đều, trong đó điển hình nhất là nhật triều đều (một lần nước lên và một lần nước xuống mỗi ngày đêm, đặc biệt ở vịnh Bắc Bộ). Độ cao triều thay đổi theo từng đoạn bờ biển, đạt mức cao nhất từ Quảng Ninh đến Thanh Hoá và thấp nhất ở vùng biển ven bờ đồng bằng sông Cửu Long.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 3.c): đặc điểm hải văn nổi bật dọc bờ biển Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 3.c), tr. 152
+
 ### tide
 - **Tiếng Việt:** Thuỷ triều
 - **Chuyên ngành gốc:** Địa lí
@@ -6886,6 +7495,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Dạng địa hình đặc trưng ở vùng Tây Nguyên gồm hệ thống các cao nguyên phân bố ở những bậc độ cao khác nhau như Kon Tum, Pleiku, Đắk Lắk, Lâm Viên, Mơ Nông và Di Linh. Bề mặt địa hình tương đối bằng phẳng kết hợp với diện tích đất badan rộng lớn tạo thuận lợi để quy hoạch các vùng chuyên canh cây công nghiệp quy mô lớn, tập trung cao.
 - **Bối cảnh:** Địa lí lớp 12, Bài 28 (Mục II.1.a): Đặc điểm địa hình và đất tạo thế mạnh phát triển cây công nghiệp lâu năm và thuỷ điện ở Tây Nguyên.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B28, tr. 126; SGK Địa lí 12 KNTT, Phần 4, B28 (Mục I.1), tr. 126; SGK Địa lí 12 KNTT, Phần 4, B28 (Mục I.2), tr. 126; SGK Địa lí 12 KNTT, Phần 4, B28 (Mục II.1.a), tr. 128
+
+### topographic barrier
+- **Tiếng Việt:** Bức chắn địa hình
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Major mountain ranges oriented across the path of prevailing monsoon winds, altering thermal and moisture conditions and creating distinct natural differentiation between opposite slopes or adjacent climatic regions (such as the Hoang Lien Son, Truong Son, and Bach Ma ranges).
+- **Giải thích (VI):** Các dãy núi lớn nằm chắn ngang hướng di chuyển của các luồng gió mùa, làm biến đổi chế độ nhiệt ẩm và tạo nên sự phân hoá thiên nhiên rõ rệt giữa các sườn núi hoặc các miền khí hậu (như dãy Hoàng Liên Sơn, dãy Trường Sơn và dãy Bạch Mã).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 3.a): giải thích vai trò của hướng núi đối với sự phân hoá khí hậu và tự nhiên giữa Đông Bắc – Tây Bắc, Đông – Tây Trường Sơn và Bắc – Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3.a), tr. 106; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3.b), tr. 106; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3.b), tr. 106, 107
 
 ### topographic profile
 - **Tiếng Việt:** Lát cắt địa hình
@@ -7190,6 +7807,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 2 (Mục I.1): Phân tích các biểu hiện về nhiệt, ẩm và hoàn lưu gió của khí hậu Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B2, tr. 10; SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I), tr. 10; SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I.1), tr. 10
 
+### tropical humid monsoon nature in Vietnam
+- **Tiếng Việt:** Thiên nhiên nhiệt đới ẩm gió mùa ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The fundamental natural character of Vietnam shaped by its location entirely within the Northern Hemisphere tropical zone, inside the Asian monsoon region, and under strong marine influence from the East Sea. Abundant heat and moisture with two distinct seasons per year sustain tropical monsoon forest ecosystems on ferralitic soils as the country's representative landscape.
+- **Giải thích (VI):** Đặc điểm tổng hợp cơ bản của tự nhiên Việt Nam hình thành do vị trí nằm hoàn toàn trong đới nóng bán cầu Bắc, thuộc khu vực gió mùa châu Á và chịu ảnh hưởng sâu sắc của Biển Đông. Khí hậu có nền nhiệt ẩm dồi dào, phân thành hai mùa rõ rệt trong năm, tạo điều kiện cho hệ sinh thái rừng nhiệt đới gió mùa phát triển trên đất feralit trở thành cảnh quan tiêu biểu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 1 (Mục 3): phân tích ảnh hưởng của vị trí địa lí và phạm vi lãnh thổ đến sự hình thành đặc điểm cơ bản của thiên nhiên Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 95; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B1 (Mục 3), tr. 95; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B1 (Mục 3), tr. 95, 96
+
 ### tropical monsoon altitudinal belt
 - **Tiếng Việt:** Đai nhiệt đới gió mùa
 - **Chuyên ngành gốc:** Địa lí
@@ -7200,6 +7825,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Giới hạn độ cao của đai ở miền Bắc (từ khoảng 600 – 700 m trở xuống) thấp hơn so với ở miền Nam (từ khoảng 900 – 1 000 m trở xuống).
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B3 (Mục I.2), tr. 19; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục I.3), tr. 19; SGK Địa lí 12 KNTT, Phần 1, B3 (Mục I.3), tr. 19, 20
 
+### tropical monsoon climatic belt
+- **Tiếng Việt:** Đai khí hậu nhiệt đới gió mùa
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The lowest altitudinal climatic belt in Vietnam, extending up to elevations of 600–700 m in the North and 900–1,000 m in the South. It features hot summers with monthly mean temperatures consistently above 25 °C, while humidity and precipitation vary by locality.
+- **Giải thích (VI):** Đai khí hậu thấp nhất trong sự phân hoá theo độ cao ở Việt Nam, giới hạn đến độ cao 600–700 m ở miền Bắc và 900–1 000 m ở miền Nam. Đai này có mùa hạ nóng với nhiệt độ trung bình các tháng mùa hạ đều trên 25 °C, trong khi độ ẩm và lượng mưa thay đổi tuỳ theo khu vực.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 4 (Mục 2.c): Xác định sự phân hoá khí hậu theo độ cao địa hình ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 2.a), tr. 116; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 2.b), tr. 116; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 2.c), tr. 116
+
 ### tropical monsoon forest
 - **Tiếng Việt:** Rừng nhiệt đới gió mùa
 - **Chuyên ngành gốc:** Địa lí
@@ -7207,6 +7840,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Kiểu rừng nhiệt đới phát triển ở những khu vực có một mùa mưa và một mùa khô rõ rệt như Đông Nam Á và Đông Ấn Độ. Cây trong rừng thấp hơn, ít tầng tán hơn so với rừng mưa nhiệt đới và phần lớn rụng lá vào mùa khô.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 24 (Mục 1): Nhận diện kiểu rừng nhiệt đới thích nghi với chế độ mưa theo mùa, phổ biến ở khu vực Đông Nam Á.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24, tr. 173; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 1), tr. 173; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 1), tr. 173, 174
+
+### tropical nature of Vietnam's climate
+- **Tiếng Việt:** Tính chất nhiệt đới của khí hậu Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The year-round high thermal and solar radiation regime of Vietnam's climate resulting from the country's location entirely within the Northern Hemisphere intertropical zone. It is manifested by mean annual air temperatures exceeding 20 °C nationwide (except in high mountains) and increasing from north to south, 1,400–3,000 sunshine hours per year, and an annual radiation balance of 70–100 kcal/cm²/year.
+- **Giải thích (VI):** Đặc trưng nền nhiệt và bức xạ cao quanh năm của khí hậu Việt Nam do lãnh thổ nằm hoàn toàn trong vùng nội chí tuyến bán cầu Bắc. Biểu hiện cụ thể gồm nhiệt độ không khí trung bình năm trên cả nước đều lớn hơn 20 °C (trừ vùng núi cao) và tăng dần từ bắc vào nam, số giờ nắng đạt 1 400 – 3 000 giờ/năm và cán cân bức xạ đạt 70 – 100 kcal/cm²/năm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 4 (Mục 1.a): biểu hiện thứ nhất cấu thành tính chất nhiệt đới ẩm gió mùa của khí hậu Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4, tr. 113; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 1.a), tr. 113; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 1.a), tr. 113, 114
 
 ### tropical rainforest
 - **Tiếng Việt:** Rừng mưa nhiệt đới
@@ -7311,6 +7952,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Toàn bộ không gian và thời gian vô tận tồn tại xung quanh con người, chứa vô số thiên hà cùng hàng trăm tỉ ngôi sao, các thiên thể, khí và bụi.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 6 (Mục 1): nhận thức khoảng không gian vô tận chứa vô số thiên hà, trong đó có dải Ngân Hà.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B6, tr. 116; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1), tr. 116
+
+### upwelling
+- **Tiếng Việt:** Nước trồi
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An oceanographic phenomenon in which deep seawater rises to the surface, driven by winds drawing surface water offshore, winds blowing parallel to the coastline, or continental slope topography. By bringing nutrient-rich waters upward, this process plays a major role in the distribution of productive fishing and shrimping grounds.
+- **Giải thích (VI):** Hiện tượng hải văn trong đó nước biển ở tầng sâu trồi lên tầng mặt dưới tác động của gió hút lớp nước mặt từ bờ ra khơi, gió thổi song song với đường bờ biển hoặc ảnh hưởng của địa hình sườn dốc lục địa. Quá trình này mang theo nguồn dinh dưỡng cho sinh vật biển và có ý nghĩa lớn đối với sự phân bố các bãi cá, bãi tôm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 3.c): Giải thích mối liên hệ giữa chế độ hải văn trên Biển Đông với sự phân bố các ngư trường lớn.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 173; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 3.c), tr. 152
 
 ### urban area
 - **Tiếng Việt:** Đô thị
@@ -7607,6 +8256,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Sự chuyển động của không khí từ nơi có khí áp cao về nơi có khí áp thấp. Gió có hai yếu tố đặc trưng là tốc độ gió (đo bằng m/s hoặc km/h) và hướng gió (xác định theo hướng nơi gió xuất phát).
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 5): nguyên nhân hình thành gió và cách xác định tốc độ, hướng gió.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15, tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 5), tr. 145; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192
+
+### winter monsoon in Vietnam
+- **Tiếng Việt:** Gió mùa đông ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A seasonal wind circulation operating in Vietnam from November to April of the following year with distinct regional differentiation. In the North, cold air masses moving southward create a cold winter (cold and dry in early winter, cold and humid in late winter); south of the Bach Ma Range, northeast Northern Hemisphere trade winds prevail, bringing rain to the South Central coast while the Central Highlands and the South remain hot and dry.
+- **Giải thích (VI):** Hoàn lưu gió theo mùa hoạt động ở Việt Nam từ tháng 11 đến tháng 4 năm sau với sự phân hoá rõ rệt giữa hai miền. Ở miền Bắc, khối khí lạnh từ phía Bắc tràn xuống tạo mùa đông lạnh (nửa đầu lạnh khô, nửa cuối lạnh ẩm); từ phía nam dãy Bạch Mã trở vào, Tín phong bán cầu Bắc hướng đông bắc chiếm ưu thế gây mưa cho vùng biển Nam Trung Bộ và thời tiết nóng khô ở Tây Nguyên, Nam Bộ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 4 (Mục 1.c): Phân tích tính chất gió mùa và sự khác biệt thời tiết Bắc – Nam vào mùa đông ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 1.a), tr. 114; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 1.b), tr. 114; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B4 (Mục 1.c), tr. 114
 
 ### World Ocean
 - **Tiếng Việt:** Đại dương thế giới

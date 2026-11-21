@@ -1,0 +1,124 @@
+{
+  "H8-khoa_hoc_tu_nhien-b20-01": {
+    "pdf_page": 86,
+    "bbox": [318, 395, 484, 582]
+  },
+  "H8-khoa_hoc_tu_nhien-b20-02": {
+    "pdf_page": 87,
+    "bbox": [98, 249, 456, 386]
+  },
+  "H8-khoa_hoc_tu_nhien-b20-03": {
+    "pdf_page": 88,
+    "bbox": [288, 457, 480, 604]
+  },
+  "H8-khoa_hoc_tu_nhien-b20-04": {
+    "pdf_page": 89,
+    "bbox": [287, 58, 480, 215]
+  },
+  "H8-khoa_hoc_tu_nhien-b21-01": {
+    "pdf_page": 90,
+    "bbox": [140, 310, 404, 413]
+  },
+  "H8-khoa_hoc_tu_nhien-b21-02": {
+    "pdf_page": 91,
+    "bbox": [75, 210, 478, 408]
+  },
+  "H8-khoa_hoc_tu_nhien-b21-03": {
+    "pdf_page": 91,
+    "bbox": [138, 479, 418, 637]
+  },
+  "H8-khoa_hoc_tu_nhien-b21-04": {
+    "pdf_page": 92,
+    "bbox": [331, 166, 472, 350]
+  },
+  "H8-khoa_hoc_tu_nhien-b22-01": {
+    "pdf_page": 93,
+    "bbox": [331, 238, 485, 296]
+  },
+  "H8-khoa_hoc_tu_nhien-b22-02": {
+    "pdf_page": 93,
+    "bbox": [345, 358, 500, 473]
+  },
+  "H8-khoa_hoc_tu_nhien-b22-03": {
+    "pdf_page": 93,
+    "bbox": [69, 514, 498, 715]
+  },
+  "H8-khoa_hoc_tu_nhien-b22-04": {
+    "pdf_page": 94,
+    "bbox": [63, 48, 493, 444]
+  },
+  "H8-khoa_hoc_tu_nhien-b22-05": {
+    "pdf_page": 94,
+    "bbox": [156, 523, 370, 659]
+  },
+  "H8-khoa_hoc_tu_nhien-b22-06": {
+    "pdf_page": 95,
+    "bbox": [132, 128, 426, 232]
+  },
+  "H8-khoa_hoc_tu_nhien-b22-07": {
+    "pdf_page": 95,
+    "bbox": [380, 319, 474, 398]
+  },
+  "H8-khoa_hoc_tu_nhien-b22-08": {
+    "pdf_page": 95,
+    "bbox": [360, 416, 494, 529]
+  },
+  "H8-khoa_hoc_tu_nhien-b22-09": {
+    "pdf_page": 95,
+    "bbox": [386, 545, 476, 687]
+  },
+  "H8-khoa_hoc_tu_nhien-b22-10": {
+    "pdf_page": 96,
+    "bbox": [363, 124, 481, 205]
+  },
+  "H8-khoa_hoc_tu_nhien-b23-01": {
+    "pdf_page": 97,
+    "bbox": [120, 450, 427, 597]
+  },
+  "H8-khoa_hoc_tu_nhien-b23-02": {
+    "pdf_page": 98,
+    "bbox": [314, 64, 484, 238]
+  },
+  "H8-khoa_hoc_tu_nhien-b23-03": {
+    "pdf_page": 98,
+    "bbox": [315, 386, 476, 520]
+  },
+  "H8-khoa_hoc_tu_nhien-b23-04": {
+    "pdf_page": 99,
+    "bbox": [327, 60, 490, 304]
+  },
+  "H8-khoa_hoc_tu_nhien-b23-05": {
+    "pdf_page": 99,
+    "bbox": [281, 482, 499, 660]
+  },
+  "H8-khoa_hoc_tu_nhien-b24-01": {
+    "pdf_page": 101,
+    "bbox": [319, 362, 478, 514]
+  },
+  "H8-khoa_hoc_tu_nhien-b24-02": {
+    "pdf_page": 101,
+    "bbox": [232, 698, 336, 740]
+  },
+  "H8-khoa_hoc_tu_nhien-b24-03": {
+    "pdf_page": 102,
+    "bbox": [321, 276, 476, 428]
+  },
+  "H8-khoa_hoc_tu_nhien-b24-04": {
+    "pdf_page": 102,
+    "bbox": [226, 697, 330, 738]
+  },
+  "H8-khoa_hoc_tu_nhien-b25-01": {
+    "pdf_page": 104,
+    "bbox": [314, 495, 510, 622]
+  },
+  "H8-khoa_hoc_tu_nhien-b25-02": {
+    "pdf_page": 105,
+    "bbox": [308, 39, 508, 193]
+  },
+  "H8-khoa_hoc_tu_nhien-b25-03": {
+    "pdf_page": 106,
+    "bbox": [81, 115, 466, 299],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Dòng chữ cuối đoạn văn phía trên bên trái (y=108–118) thấp hơn đỉnh dây nối Hình 25.3b bên phải (y=112)"
+  }
+}

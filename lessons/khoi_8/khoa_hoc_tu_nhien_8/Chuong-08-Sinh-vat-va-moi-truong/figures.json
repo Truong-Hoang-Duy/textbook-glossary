@@ -1,0 +1,102 @@
+{
+  "H8-khoa_hoc_tu_nhien-b41-01": {
+    "pdf_page": 172,
+    "bbox": [115, 477, 430, 660]
+  },
+  "H8-khoa_hoc_tu_nhien-b41-02": {
+    "pdf_page": 173,
+    "bbox": [74, 218, 492, 530]
+  },
+  "H8-khoa_hoc_tu_nhien-b41-03": {
+    "pdf_page": 174,
+    "bbox": [66, 474, 470, 660]
+  },
+  "H8-khoa_hoc_tu_nhien-b41-04": {
+    "pdf_page": 175,
+    "bbox": [90, 160, 495, 333]
+  },
+  "H8-khoa_hoc_tu_nhien-b42-01": {
+    "pdf_page": 176,
+    "bbox": [146, 387, 400, 570]
+  },
+  "H8-khoa_hoc_tu_nhien-b42-02": {
+    "pdf_page": 177,
+    "bbox": [273, 44, 496, 188]
+  },
+  "H8-khoa_hoc_tu_nhien-b42-03": {
+    "pdf_page": 177,
+    "bbox": [303, 566, 502, 716]
+  },
+  "H8-khoa_hoc_tu_nhien-b42-04": {
+    "pdf_page": 178,
+    "bbox": [299, 285, 496, 438]
+  },
+  "H8-khoa_hoc_tu_nhien-b43-01": {
+    "pdf_page": 179,
+    "bbox": [81, 368, 482, 633]
+  },
+  "H8-khoa_hoc_tu_nhien-b43-02": {
+    "pdf_page": 180,
+    "bbox": [65, 219, 485, 585]
+  },
+  "H8-khoa_hoc_tu_nhien-b44-01": {
+    "pdf_page": 183,
+    "bbox": [55, 38, 503, 221]
+  },
+  "H8-khoa_hoc_tu_nhien-b44-02": {
+    "pdf_page": 183,
+    "bbox": [126, 480, 428, 722],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Mép trên ảnh (y=477) sát ngay dưới dấu phẩy của dòng văn bản phía trên (y=476)"
+  },
+  "H8-khoa_hoc_tu_nhien-b44-03": {
+    "pdf_page": 184,
+    "bbox": [105, 290, 452, 410],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đầu cánh đại bàng bên phải vươn cao ngang dòng câu hỏi thứ hai phía trên bên trái"
+  },
+  "H8-khoa_hoc_tu_nhien-b44-04": {
+    "pdf_page": 184,
+    "bbox": [196, 544, 516, 692]
+  },
+  "H8-khoa_hoc_tu_nhien-b44-05": {
+    "pdf_page": 185,
+    "bbox": [96, 160, 472, 432]
+  },
+  "H8-khoa_hoc_tu_nhien-b45-01": {
+    "pdf_page": 187,
+    "bbox": [155, 413, 400, 637]
+  },
+  "H8-khoa_hoc_tu_nhien-b45-02": {
+    "pdf_page": 188,
+    "bbox": [104, 202, 460, 481]
+  },
+  "H8-khoa_hoc_tu_nhien-b45-03": {
+    "pdf_page": 189,
+    "bbox": [128, 115, 455, 372]
+  },
+  "H8-khoa_hoc_tu_nhien-b46-01": {
+    "pdf_page": 190,
+    "bbox": [72, 468, 488, 671]
+  },
+  "H8-khoa_hoc_tu_nhien-b46-02": {
+    "pdf_page": 191,
+    "bbox": [91, 144, 465, 287]
+  },
+  "H8-khoa_hoc_tu_nhien-b46-03": {
+    "pdf_page": 191,
+    "bbox": [68, 446, 286, 688]
+  },
+  "H8-khoa_hoc_tu_nhien-b46-04": {
+    "pdf_page": 191,
+    "bbox": [299, 437, 502, 688]
+  },
+  "H8-khoa_hoc_tu_nhien-b47-01": {
+    "pdf_page": 194,
+    "bbox": [297, 49, 498, 249]
+  },
+  "H8-khoa_hoc_tu_nhien-b47-02": {
+    "pdf_page": 195,
+    "bbox": [79, 153, 488, 293]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "H8-lich_su_va_dia_ly-ls-b10-01": {
+    "pdf_page": 46,
+    "bbox": [81, 465, 492, 738]
+  },
+  "H8-lich_su_va_dia_ly-ls-b10-02": {
+    "pdf_page": 47,
+    "bbox": [296, 455, 489, 634]
+  },
+  "H8-lich_su_va_dia_ly-ls-b10-03": {
+    "pdf_page": 48,
+    "bbox": [303, 0, 547, 245],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh Hình 10.3 tràn sát mép trên và mép phải trang sách"
+  },
+  "H8-lich_su_va_dia_ly-ls-b10-04": {
+    "pdf_page": 48,
+    "bbox": [301, 252, 497, 437]
+  },
+  "H8-lich_su_va_dia_ly-ls-b11-01": {
+    "pdf_page": 50,
+    "bbox": [220, 357, 362, 495]
+  },
+  "H8-lich_su_va_dia_ly-ls-b11-02": {
+    "pdf_page": 50,
+    "bbox": [370, 356, 504, 496],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chú thích Hình 11.2 nằm sát kí hiệu gạch cam cuối phần Mở đầu ở góc dưới bên phải"
+  },
+  "H8-lich_su_va_dia_ly-ls-b11-03": {
+    "pdf_page": 50,
+    "bbox": [264, 532, 506, 724]
+  },
+  "H8-lich_su_va_dia_ly-ls-b11-04": {
+    "pdf_page": 53,
+    "bbox": [265, 57, 490, 232]
+  },
+  "H8-lich_su_va_dia_ly-ls-b12-01": {
+    "pdf_page": 54,
+    "bbox": [84, 330, 291, 480]
+  },
+  "H8-lich_su_va_dia_ly-ls-b12-02": {
+    "pdf_page": 54,
+    "bbox": [302, 329, 506, 485]
+  },
+  "H8-lich_su_va_dia_ly-ls-b12-03": {
+    "pdf_page": 54,
+    "bbox": [300, 568, 506, 729]
+  },
+  "H8-lich_su_va_dia_ly-ls-b12-04": {
+    "pdf_page": 55,
+    "bbox": [62, 212, 491, 334]
+  },
+  "H8-lich_su_va_dia_ly-ls-b12-05": {
+    "pdf_page": 56,
+    "bbox": [109, 360, 450, 568]
+  }
+}

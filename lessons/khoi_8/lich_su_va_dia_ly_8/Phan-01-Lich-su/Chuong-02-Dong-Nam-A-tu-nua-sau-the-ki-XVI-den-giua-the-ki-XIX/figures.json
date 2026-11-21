@@ -1,0 +1,20 @@
+{
+  "H8-lich_su_va_dia_ly-ls-b04-01": {
+    "pdf_page": 21,
+    "bbox": [292, 422, 478, 604],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới phải khung chữ nhật bao trọn chú thích (tranh vẽ) chạm đỉnh kí hiệu gạch đôi màu cam cuối phần Mở đầu"
+  },
+  "H8-lich_su_va_dia_ly-ls-b04-02": {
+    "pdf_page": 22,
+    "bbox": [115, 55, 450, 270]
+  },
+  "H8-lich_su_va_dia_ly-ls-b04-03": {
+    "pdf_page": 23,
+    "bbox": [55, 177, 493, 715]
+  },
+  "H8-lich_su_va_dia_ly-ls-b04-04": {
+    "pdf_page": 24,
+    "bbox": [268, 239, 510, 451]
+  }
+}

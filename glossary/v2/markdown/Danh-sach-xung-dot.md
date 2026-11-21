@@ -12,6 +12,8 @@ Các trường hợp trùng tên Tiếng Việt nhưng khác bản chất khái 
 | negative electrode | Cực âm | Đồng âm Tiếng Việt liên môn | `negative terminal` (Vật lí) vs `negative electrode` (Hóa học) | Đã đóng (tách theo chuyên ngành) |
 | positive electrode | Cực dương | Đồng âm Tiếng Việt liên môn | `positive terminal` (Vật lí) vs `positive electrode` (Hóa học) | Đã đóng (tách theo chuyên ngành) |
 | malleability | Tính dẻo | Đồng âm Tiếng Việt liên môn | `plasticity` (Vật lí) vs `malleability` (Hóa học) | Đã đóng (tách theo chuyên ngành) |
+| macronutrient | Nguyên tố đa lượng | Đồng âm Tiếng Việt liên môn | `macronutrient element` (Hóa học) vs `macronutrient` (Sinh học) | Đã đóng (tách theo chuyên ngành) |
+| trace element | Nguyên tố vi lượng | Đồng âm Tiếng Việt liên môn | `micronutrient element` (Hóa học) vs `trace element` (Sinh học) | Đã đóng (tách theo chuyên ngành) |
 | light microscope | Kính hiển vi quang học | Đồng âm Tiếng Việt liên môn | `optical microscope` (Vật lí) vs `light microscope` (Sinh học) | Đã đóng (tách theo chuyên ngành) |
 | computer virus | Virus | Đồng âm Tiếng Việt liên môn | `virus` (Sinh học) vs `computer virus` (Tin học) | Đã đóng (tách theo chuyên ngành) |
 | layer | Lớp | Đồng âm Tiếng Việt liên môn | `digit period` (Toán học) vs `layer` (Tin học) | Đã đóng (tách theo chuyên ngành) |
@@ -21,8 +23,10 @@ Các trường hợp trùng tên Tiếng Việt nhưng khác bản chất khái 
 | Big-O sum rule | Quy tắc cộng | Đồng âm Tiếng Việt liên môn | `rule of sum` (Toán học) vs `Big-O sum rule` (Tin học) | Đã đóng (tách theo chuyên ngành) |
 | Big-O product rule | Quy tắc nhân | Đồng âm Tiếng Việt liên môn | `rule of product` (Toán học) vs `Big-O product rule` (Tin học) | Đã đóng (tách theo chuyên ngành) |
 | table row | Hàng | Đồng âm Tiếng Việt liên môn | `digit place` (Toán học) vs `table row` (Tin học) | Đã đóng (tách theo chuyên ngành) |
+| expression | Biểu thức | Đồng âm Tiếng Việt liên môn | `mathematical expression` (Toán học) vs `expression` (Tin học) | Đã đóng (tách theo chuyên ngành) |
 | endogenic force | Nội lực | Đồng âm Tiếng Việt liên môn | `internal force` (Vật lí) vs `endogenic force` (Địa lí) | Đã đóng (tách theo chuyên ngành) |
 | exogenic force | Ngoại lực | Đồng âm Tiếng Việt liên môn | `external force` (Vật lí) vs `exogenic force` (Địa lí) | Đã đóng (tách theo chuyên ngành) |
+| maritime baseline | Đường cơ sở | Đồng âm Tiếng Việt liên môn | `typographic baseline` (Tin học) vs `maritime baseline` (Địa lí) | Đã đóng (tách theo chuyên ngành) |
 | equal-field system | Chế độ quân điền | Đồng âm Tiếng Việt nội môn (Lịch sử) | Khác khái niệm giữa `equal-field land distribution system` và `equal-field system` | Đã đóng (giữ 2 mục riêng) |
 | service | Dịch vụ | Đồng âm Tiếng Việt liên môn | `services` (Địa lí) vs `service` (Giáo dục Kinh tế và Pháp luật) | Đã đóng (tách theo chuyên ngành) |
 | right of use | Quyền sử dụng | Đồng âm Tiếng Việt liên môn | `software license` (Tin học) vs `right of use` (Giáo dục Kinh tế và Pháp luật) | Đã đóng (tách theo chuyên ngành) |
@@ -32,3 +36,5 @@ Các trường hợp trùng tên Tiếng Việt nhưng khác bản chất khái 
 | minutes | Biên bản | Đồng âm Tiếng Việt liên môn | `log file` (Tin học) vs `minutes` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |
 | artistic time | Thời gian | Đồng âm Tiếng Việt liên môn | `time` (Vật lí) vs `artistic time` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |
 | cohesion | Liên kết | Đồng âm Tiếng Việt liên môn | `join operation` (Tin học) vs `cohesion` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |
+| tonal regulation | Luật | Đồng âm Tiếng Việt liên môn | `statute` (Giáo dục Kinh tế và Pháp luật) vs `tonal regulation` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |
+| military proclamation | Hịch | Đồng âm Tiếng Việt liên môn | `call-to-arms proclamation` (Lịch sử) vs `military proclamation` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |

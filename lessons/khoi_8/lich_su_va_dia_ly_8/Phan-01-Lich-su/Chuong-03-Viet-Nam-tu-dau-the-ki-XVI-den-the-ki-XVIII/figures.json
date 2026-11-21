@@ -1,0 +1,80 @@
+{
+  "H8-lich_su_va_dia_ly-ls-b05-01": {
+    "pdf_page": 25,
+    "bbox": [318, 329, 481, 440],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới phải khung ảnh chạm đỉnh kí hiệu gạch đôi màu cam cuối phần Mở đầu; chú thích in bên trái dưới đoạn Mở đầu"
+  },
+  "H8-lich_su_va_dia_ly-ls-b05-02": {
+    "pdf_page": 26,
+    "bbox": [129, 275, 436, 724]
+  },
+  "H8-lich_su_va_dia_ly-ls-b05-03": {
+    "pdf_page": 27,
+    "bbox": [288, 516, 480, 727]
+  },
+  "H8-lich_su_va_dia_ly-ls-b06-01": {
+    "pdf_page": 29,
+    "bbox": [358, 333, 483, 500]
+  },
+  "H8-lich_su_va_dia_ly-ls-b06-02": {
+    "pdf_page": 30,
+    "bbox": [77, 54, 511, 268]
+  },
+  "H8-lich_su_va_dia_ly-ls-b06-03": {
+    "pdf_page": 30,
+    "bbox": [289, 487, 510, 724]
+  },
+  "H8-lich_su_va_dia_ly-ls-b07-01": {
+    "pdf_page": 33,
+    "bbox": [39, 217, 493, 710]
+  },
+  "H8-lich_su_va_dia_ly-ls-b07-02": {
+    "pdf_page": 34,
+    "bbox": [241, 473, 510, 707]
+  },
+  "H8-lich_su_va_dia_ly-ls-b08-01": {
+    "pdf_page": 36,
+    "bbox": [254, 321, 485, 502]
+  },
+  "H8-lich_su_va_dia_ly-ls-b08-02": {
+    "pdf_page": 37,
+    "bbox": [90, 208, 463, 433]
+  },
+  "H8-lich_su_va_dia_ly-ls-b08-03": {
+    "pdf_page": 37,
+    "bbox": [60, 505, 485, 626]
+  },
+  "H8-lich_su_va_dia_ly-ls-b08-04": {
+    "pdf_page": 38,
+    "bbox": [214, 273, 509, 455]
+  },
+  "H8-lich_su_va_dia_ly-ls-b08-05": {
+    "pdf_page": 39,
+    "bbox": [231, 308, 493, 705]
+  },
+  "H8-lich_su_va_dia_ly-ls-b08-06": {
+    "pdf_page": 40,
+    "bbox": [77, 54, 510, 307]
+  },
+  "H8-lich_su_va_dia_ly-ls-b08-07": {
+    "pdf_page": 41,
+    "bbox": [60, 193, 312, 354]
+  },
+  "H8-lich_su_va_dia_ly-ls-b09-01": {
+    "pdf_page": 43,
+    "bbox": [320, 52, 492, 286]
+  },
+  "H8-lich_su_va_dia_ly-ls-b09-02": {
+    "pdf_page": 43,
+    "bbox": [111, 437, 442, 634]
+  },
+  "H8-lich_su_va_dia_ly-ls-b09-03": {
+    "pdf_page": 44,
+    "bbox": [244, 243, 510, 419]
+  },
+  "H8-lich_su_va_dia_ly-ls-b09-04": {
+    "pdf_page": 45,
+    "bbox": [325, 190, 493, 474]
+  }
+}

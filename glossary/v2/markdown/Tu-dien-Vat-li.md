@@ -32,6 +32,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục IV): đại lượng cơ sở để tính liều hấp thụ phóng xạ hiệu dụng trong đánh giá an toàn bức xạ.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 112; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 113
 
+### AC-DC power supply
+- **Tiếng Việt:** Biến áp nguồn
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A laboratory electrical device that converts $220\text{ V}$ alternating voltage into low-voltage alternating current (AC) or direct current (DC) outputs ($3\text{ V}$ to $24\text{ V}$) to ensure safety during experiments.
+- **Giải thích (VI):** Thiết bị điện trong phòng thí nghiệm có chức năng chuyển đổi điện áp xoay chiều $220\text{ V}$ thành điện áp xoay chiều (AC) hoặc điện áp một chiều (DC) có giá trị nhỏ ($3\text{ V}$ đến $24\text{ V}$), đảm bảo an toàn khi làm thí nghiệm.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 1 (Mục III.3.b): Sử dụng đầu ra một chiều (DC) với chốt đỏ là cực dương và chốt đen là cực âm khi lắp mạch điện thí nghiệm.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.b), tr. 9
+
 ### accelerated motion
 - **Tiếng Việt:** Chuyển động nhanh dần
 - **Chuyên ngành gốc:** Vật lí
@@ -92,6 +100,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Vật lí lớp 10, Bài 19 (Mục II): Ứng dụng tối ưu hóa hình dạng phương tiện giao thông để giảm lực cản không khí và tiết kiệm nhiên liệu.
   - Khoa học tự nhiên lớp 6, Bài 45 (Mục II): ứng dụng giảm lực cản môi trường trong thiết kế mũ đua xe đạp và giải thích hình dạng cơ thể động vật dưới nước.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B19 (Mục II), tr. 79; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B45 (Mục II), tr. 161
+
+### air pressure
+- **Tiếng Việt:** Áp suất không khí
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The pressure formed within an air medium, which directly affects living organisms and is applied in technical devices such as suction cups, spray bottles, and hovercrafts.
+- **Giải thích (VI):** Áp suất hình thành bên trong môi trường không khí, có ảnh hưởng trực tiếp tới hoạt động sống của sinh vật và được ứng dụng trong nhiều dụng cụ kĩ thuật như giác mút, bình xịt, tàu đệm khí.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 16 (Mục II.2): Khái niệm rộng bao gồm cả áp suất khí quyển tự nhiên và áp suất của khối không khí bên trong các dụng cụ, thiết bị.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.1.b), tr. 70; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2), tr. 70; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2.a), tr. 70
 
 ### air resistance
 - **Tiếng Việt:** Lực cản của không khí
@@ -173,6 +189,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 17 (Mục II.1): biểu thức điện áp tức thời đặt vào hai đầu đoạn mạch xoay chiều.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B17 (Mục I), tr. 73; SGK Vật lí 12 KNTT, Chương 03, B17 (Mục II.1), tr. 73; SGK Vật lí 12 KNTT, Chương 03, B17 (Mục II.1), tr. 73, 74
 
+### ammeter
+- **Tiếng Việt:** Ampe kế
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An electrical measuring instrument used to measure the electric current flowing in a circuit. In use, the current must be estimated to select an appropriate measurement range without exceeding the maximum limit, with proper connection of positive and negative terminals.
+- **Giải thích (VI):** Dụng cụ đo điện dùng để đo cường độ dòng điện chạy trong mạch điện. Khi sử dụng, cần ước lượng cường độ dòng điện để chọn thang đo phù hợp không vượt quá giới hạn đo và mắc đúng chốt dương, chốt âm.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 1 (Mục III.3.c) và Bài 24 (Mục I): Dụng cụ đo cường độ dòng điện mắc trong mạch điện thí nghiệm một chiều.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.c), tr. 9; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195
+
 ### amorphous solid
 - **Tiếng Việt:** Chất rắn vô định hình
 - **Chuyên ngành gốc:** Vật lí
@@ -182,12 +206,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2), tr. 8; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2.a), tr. 8
 
 ### ampere
-- **Tiếng Việt:** Ampe
+- **Tiếng Việt:** Ampe (A)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The SI unit of electric current intensity (symbol $\text{A}$), corresponding to a steady current in which a charge of $1\text{ C}$ passes through the cross-section of a conductor each second.
 - **Giải thích (VI):** Đơn vị đo cường độ dòng điện trong hệ SI (kí hiệu $\text{A}$), tương ứng với dòng điện không đổi có điện lượng $1\text{ C}$ chuyển qua tiết diện thẳng của dây dẫn trong mỗi giây.
-- **Bối cảnh:** Vật lí lớp 11, Bài 22 (Mục I.2): Đơn vị chuẩn khi đo và tính toán cường độ dòng điện chạy qua vật dẫn.
-- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B22 (Mục I.1), tr. 91; SGK Vật lí 11 KNTT, Chương 04, B22 (Mục I.2), tr. 92; SGK Vật lí 11 KNTT, Chương 04, B22 (Mục II.1), tr. 92
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The standard SI unit of electric current intensity, symbolized as $\text{A}$. For measuring small currents, the submultiple unit milliampere ($\text{mA}$) is also used, where $1\text{ A} = 1000\text{ mA}$. / VI: Đơn vị đo chuẩn của cường độ dòng điện trong hệ SI, kí hiệu là $\text{A}$. Để đo các dòng điện nhỏ, người ta còn dùng ước số miliampe ($\text{mA}$) với $1\text{ A} = 1000\text{ mA}$.
+- **Bối cảnh:**
+  - Vật lí lớp 11, Bài 22 (Mục I.2): Đơn vị chuẩn khi đo và tính toán cường độ dòng điện chạy qua vật dẫn.
+  - Khoa học tự nhiên lớp 8, Bài 24 (Mục I.2): đơn vị đọc số chỉ cường độ dòng điện trên ampe kế và đánh giá ngưỡng dòng điện gây nguy hiểm cho cơ thể.
+  - *Lưu ý:* Miliampe ($\text{mA}$) là đơn vị ước của ampe ($1\text{ A} = 1000\text{ mA}$), không phải tên đồng nghĩa của ampe.
+- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B22 (Mục I.1), tr. 91; SGK Vật lí 11 KNTT, Chương 04, B22 (Mục I.2), tr. 92; SGK Vật lí 11 KNTT, Chương 04, B22 (Mục II.1), tr. 92; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B24, tr. 99; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B24 (Mục I.1), tr. 99; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B24 (Mục I.2), tr. 99
 
 ### Ampere's force law
 - **Tiếng Việt:** Định luật Am-pe
@@ -274,6 +302,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 31 (Mục II.2): Xác định tốc độ quay của bán kính quỹ đạo và mối liên hệ với tốc độ dài.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 06, B31 (Mục II.1), tr. 121; SGK Vật lí 10 KNTT, Chương 06, B31 (Mục II.2), tr. 121; SGK Vật lí 10 KNTT, Chương 06, B31 (Mục III), tr. 121
 
+### anomalous expansion of water
+- **Tiếng Việt:** Sự nở vì nhiệt đặc biệt của nước
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The unusual volume-temperature behavior of water, in which its volume decreases (density increases) as temperature rises from $0\text{ }^\circ\text{C}$ to $4\text{ }^\circ\text{C}$, whereas its volume increases (density decreases) from $4\text{ }^\circ\text{C}$ to $8\text{ }^\circ\text{C}$. Water reaches its maximum density at $4\text{ }^\circ\text{C}$.
+- **Giải thích (VI):** Tính chất biến đổi thể tích khác thường của nước theo nhiệt độ, trong đó khi tăng từ $0\text{ }^\circ\text{C}$ đến $4\text{ }^\circ\text{C}$ thì thể tích giảm (khối lượng riêng tăng), còn khi tăng từ $4\text{ }^\circ\text{C}$ đến $8\text{ }^\circ\text{C}$ thì thể tích tăng (khối lượng riêng giảm). Nước đạt khối lượng riêng lớn nhất tại nhiệt độ $4\text{ }^\circ\text{C}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 29 (Mục II): giải thích hiện tượng lớp nước dưới đáy hồ duy trì ở $4\text{ }^\circ\text{C}$ giúp thuỷ sản sinh sống khi nhiệt độ ngoài trời xuống dưới $0\text{ }^\circ\text{C}$.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29 (Mục II), tr. 120; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29 (Mục III), tr. 120; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29 (Mục III), tr. 120, 121
+
 ### antiphase oscillations
 - **Tiếng Việt:** Hai dao động ngược pha
 - **Chuyên ngành gốc:** Vật lí
@@ -299,6 +335,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Khoa học tự nhiên lớp 6, Bài 40 (Mục I): xác định vật gây ra lực và vật chịu lực trong các tương tác đẩy, kéo.
   - *Lưu ý:* Phân biệt với "tác dụng của lực" (effects of force) là kết quả biến đổi chuyển động hoặc hình dạng xảy ra trên vật chịu lực.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B40, tr. 144; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B40 (Mục I), tr. 144; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B40 (Mục II.1), tr. 145
+
+### Archimedes' principle
+- **Tiếng Việt:** Định luật Archimedes (định luật Acsimet)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A physical law stating that any object placed in a liquid experiences a vertically upward buoyant force of magnitude $F_{\text{A}} = d \cdot V$, where $d$ is the specific weight of the liquid ($\text{N/m}^3$) and $V$ is the volume of liquid displaced by the object ($\text{m}^3$).
+- **Giải thích (VI):** Định luật vật lí khẳng định mọi vật đặt trong chất lỏng đều chịu tác dụng của một lực đẩy hướng thẳng đứng từ dưới lên trên có độ lớn $F_{\text{A}} = d \cdot V$, trong đó $d$ là trọng lượng riêng của chất lỏng ($\text{N/m}^3$) và $V$ là thể tích phần chất lỏng bị vật chiếm chỗ ($\text{m}^3$).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 17 (Mục II.2): Tính độ lớn lực đẩy Archimedes, thiết kế tàu thuyền rỗng nổi trên mặt nước và giải thích nguyên lí của tỉ trọng kế.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B17 (Mục II.2), tr. 75; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B14 (Mục III.3), tr. 62
 
 ### armature
 - **Tiếng Việt:** Phần ứng
@@ -339,6 +383,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Lĩnh vực chủ yếu của khoa học tự nhiên chuyên nghiên cứu về các thiên thể trong vũ trụ.
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 1 (Mục III): giới thiệu lĩnh vực nghiên cứu bầu trời và các thiên thể của khoa học tự nhiên.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục III), tr. 8; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục IV), tr. 10
+
+### atmospheric pressure
+- **Tiếng Việt:** Áp suất khí quyển
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The pressure exerted in all directions by the Earth's surrounding air layer (atmosphere) on the Earth and all objects on it.
+- **Giải thích (VI):** Áp suất do lớp không khí bao quanh Trái Đất (khí quyển) tác dụng theo mọi phương lên Trái Đất và mọi vật trên Trái Đất.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 16 (Mục II.1): Giải thích các hiện tượng thực tế như nước không chảy ra khỏi ống thuỷ tinh bịt kín một đầu hoặc hộp sữa giấy bị bẹp khi hút hết khí.
+  - *Lưu ý:* Không nhầm với 'Khí áp' (`atmospheric pressure (geography)`) trong Địa lí.
+  - *Lưu ý:* Không nhầm với 'Khí áp' (`atmospheric pressure (geography)`) trong Địa lí.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục I.2), tr. 69; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.1.a), tr. 69; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.1.b), tr. 69
 
 ### atomic mass unit
 - **Tiếng Việt:** Đơn vị khối lượng nguyên tử (amu)
@@ -471,6 +526,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục I.3.b): dạng phân rã giữ nguyên số khối của hạt nhân nhưng thay đổi điện tích hạt nhân một đơn vị.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.b), tr. 106; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục III.1), tr. 110
 
+### bimetallic strip
+- **Tiếng Việt:** Băng kép
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A component consisting of two strips of different metals firmly bonded together along their length, operating based on the unequal thermal expansion of solids. When heated, the strip bends toward the metal with lower thermal expansion to automatically open or close an electrical circuit.
+- **Giải thích (VI):** Bộ phận gồm hai thanh kim loại có bản chất khác nhau ghép chặt vào nhau dọc theo chiều dài, hoạt động dựa trên sự nở vì nhiệt khác nhau của các chất rắn. Khi hơ nóng, băng kép uốn cong về phía kim loại nở vì nhiệt ít hơn để đóng ngắt tự động mạch điện.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 29 (Mục I, IV.1): ứng dụng đóng ngắt tự động trong các dụng cụ dùng điện như bàn là và chuông báo cháy.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29 (Mục I), tr. 119; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29 (Mục III), tr. 121; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29 (Mục IV.1), tr. 121
+
 ### binding energy per nucleon
 - **Tiếng Việt:** Năng lượng liên kết riêng
 - **Chuyên ngành gốc:** Vật lí
@@ -543,24 +606,33 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The ceaseless, random motion of microscopic suspended particles driven by collisions with molecules of a surrounding liquid or gas, such as pollen grains in water (observed by Brown in 1827) or smoke particles in air. Higher medium temperatures increase the speed of random molecular motion, causing the suspended particles to move faster.
 - **Giải thích (VI):** Chuyển động hỗn loạn, không ngừng của các hạt rất nhỏ lơ lửng dưới tác dụng va chạm của các phân tử chất lỏng hoặc chất khí, như hạt phấn hoa trong nước (do Brown quan sát năm 1827) hay hạt khói trong không khí. Nhiệt độ của môi trường càng cao thì các phân tử chuyển động hỗn loạn càng nhanh làm các hạt nhỏ chuyển động càng nhanh.
-- **Bối cảnh:** Vật lí lớp 12, Bài 1 (Mục I) và Bài 8 (Mục I.1): bằng chứng thực nghiệm trong chất lỏng và chất khí chứng tỏ các phân tử chuyển động hỗn loạn, không ngừng.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B1, tr. 6; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục I), tr. 6; SGK Vật lí 12 KNTT, Chương 02, B8, tr. 34; SGK Vật lí 12 KNTT, Chương 02, B8 (Mục I.1), tr. 34; SGK Vật lí 12 KNTT, Chương 02, B8 (Mục I.1), tr. 34, 35
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The ceaseless, random motion in all directions of tiny particles suspended in a liquid or gas (such as pollen grains in water), discovered by Robert Brown in 1827. This phenomenon is caused by continuous collisions from surrounding fluid molecules and becomes faster as temperature increases. / VI: Chuyển động hỗn loạn, không ngừng về mọi hướng của các hạt nhỏ lơ lửng trong chất lỏng hoặc chất khí (như hạt phấn hoa trong nước) do Robert Brown phát hiện năm 1827. Hiện tượng này gây ra bởi sự va chạm liên tục của các phân tử môi trường xung quanh và diễn ra càng nhanh khi nhiệt độ càng cao.
+- **Bối cảnh:**
+  - Vật lí lớp 12, Bài 1 (Mục I) và Bài 8 (Mục I.1): bằng chứng thực nghiệm trong chất lỏng và chất khí chứng tỏ các phân tử chuyển động hỗn loạn, không ngừng.
+  - Khoa học tự nhiên lớp 8, Bài 26 (Mục I): bằng chứng thực nghiệm chứng tỏ các phân tử chuyển động hỗn loạn không ngừng và phụ thuộc nhiệt độ.
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B1, tr. 6; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục I), tr. 6; SGK Vật lí 12 KNTT, Chương 02, B8, tr. 34; SGK Vật lí 12 KNTT, Chương 02, B8 (Mục I.1), tr. 34; SGK Vật lí 12 KNTT, Chương 02, B8 (Mục I.1), tr. 34, 35; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục I), tr. 106; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục II), tr. 106
 
 ### buoyant force
-- **Tiếng Việt:** Lực đẩy Archimedes
+- **Tiếng Việt:** Lực đẩy Archimedes (lực đẩy Acsimet)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A special case of lift force exerted vertically upward by a fluid on a stationary object immersed in it. Its magnitude is given by $F_A = \rho \cdot g \cdot V$, where $\rho$ is the fluid density, $g$ is the gravitational acceleration, and $V$ is the volume of fluid displaced by the object.
 - **Giải thích (VI):** Trường hợp riêng của lực nâng do chất lưu tác dụng hướng thẳng đứng từ dưới lên vào vật đặt đứng yên trong chất lưu. Độ lớn của lực đẩy Archimedes tính theo công thức $F_A = \rho \cdot g \cdot V$, với $\rho$ là khối lượng riêng của chất lưu, $g$ là gia tốc trọng trường và $V$ là thể tích phần chất lưu bị vật chiếm chỗ.
-- **Bối cảnh:** Vật lí lớp 10, Bài 19 (Mục II): Tính lực nâng tĩnh tác dụng lên vật nhúng trong chất lỏng hoặc chất khí.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B19 (Mục I.2), tr. 78; SGK Vật lí 10 KNTT, Chương 03, B19 (Mục II), tr. 78; SGK Vật lí 10 KNTT, Chương 03, B19 (Mục II), tr. 78, 79
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: An upward force exerted by a liquid (or gas) on any object immersed in it, acting vertically upward opposite to the direction of gravity. / VI: Lực đẩy do chất lỏng (hoặc chất khí) tác dụng lên mọi vật nhúng trong nó, có phương thẳng đứng và chiều hướng từ dưới lên trên (ngược chiều với trọng lực).
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 19 (Mục II): Tính lực nâng tĩnh tác dụng lên vật nhúng trong chất lỏng hoặc chất khí.
+  - Khoa học tự nhiên lớp 8, Bài 17 (Mục I): Xác định phương, chiều của lực đẩy lên vật nhúng trong chất lỏng và giải thích sự nổi, chìm của vật.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B19 (Mục I.2), tr. 78; SGK Vật lí 10 KNTT, Chương 03, B19 (Mục II), tr. 78; SGK Vật lí 10 KNTT, Chương 03, B19 (Mục II), tr. 78, 79; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B17, tr. 73; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B17 (Mục I), tr. 73; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B17 (Mục I), tr. 73, 74
 
 ### calorimeter
-- **Tiếng Việt:** Nhiệt lượng kế
+- **Tiếng Việt:** Nhiệt lượng kế (Bình nhiệt lượng kế)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** An apparatus used to measure the amount of heat absorbed or released during physical processes or chemical reactions. In experimental thermochemistry, the temperature change of water inside the calorimeter is used to determine the heat exchanged and the enthalpy change of a reaction.
 - **Giải thích (VI):** Dụng cụ dùng để đo nhiệt lượng thu vào hoặc toả ra trong các quá trình vật lí hoặc phản ứng hoá học. Trong thực nghiệm nhiệt hoá học, sự thay đổi nhiệt độ của nước trong nhiệt lượng kế giúp xác định nhiệt lượng trao đổi và biến thiên enthalpy của phản ứng.
-- **Bối cảnh:** Hóa học lớp 10, Bài 17 (Mục IV): Xác định biến thiên enthalpy của phản ứng bằng thực nghiệm thông qua độ biến thiên nhiệt độ của nước trong bình đo.
-- **Nguồn:** SGK Hóa học 10 KNTT, Bảng giải thích thuật ngữ, tr. 119; SGK Hóa học 10 KNTT, Chương 05, B17 (Mục IV), tr. 87
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: An experimental apparatus used for measuring thermal energy, equipped internally with a heating coil to convert electrical energy into thermal energy and a stirrer to equalize the water temperature inside the vessel. / VI: Dụng cụ thí nghiệm dùng trong phép đo năng lượng nhiệt, bên trong có lắp dây đốt để chuyển hoá năng lượng điện thành năng lượng nhiệt và que khuấy để làm đồng đều nhiệt độ của nước trong bình.
+- **Bối cảnh:**
+  - Hóa học lớp 10, Bài 17 (Mục IV): Xác định biến thiên enthalpy của phản ứng bằng thực nghiệm thông qua độ biến thiên nhiệt độ của nước trong bình đo.
+  - Khoa học tự nhiên lớp 8, Bài 27 (Mục I, II): thực hành đo năng lượng nhiệt cung cấp để đun nóng nước kết hợp với joulemeter và nhiệt kế.
+- **Nguồn:** SGK Hóa học 10 KNTT, Bảng giải thích thuật ngữ, tr. 119; SGK Hóa học 10 KNTT, Chương 05, B17 (Mục IV), tr. 87; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B27, tr. 109; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B27 (Mục I), tr. 109; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B27 (Mục II), tr. 109, 110
 
 ### capacitance
 - **Tiếng Việt:** Điện dung của tụ điện (điện dung)
@@ -742,6 +814,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 22 (Mục II.2): Xác định mối liên hệ vi mô giữa cường độ dòng điện và mật độ electron tự do trong dây dẫn kim loại.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B22 (Mục II.2), tr. 93; SGK Vật lí 11 KNTT, Chương 04, B22 (Mục II.3), tr. 93; SGK Vật lí 11 KNTT, Chương 04, B22 (Mục II.3), tr. 93, 94
 
+### charged object
+- **Tiếng Việt:** Vật nhiễm điện (vật mang điện tích)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An object carrying an electric charge (such as after being rubbed), characterized by its ability to attract light objects like paper scraps and cause the metal leaves of an electroscope to diverge.
+- **Giải thích (VI):** Vật mang điện tích (như sau khi bị cọ xát), thể hiện qua tính chất hút được các vật nhẹ khác như mẩu giấy vụn và làm xoè hai lá kim loại của điện nghiệm.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 20 (Mục I): Khảo sát hiện tượng nhiễm điện do cọ xát của đũa nhựa với vải len, đũa thuỷ tinh với vải lụa và lược nhựa với tóc khô.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B20, tr. 84; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B20 (Mục I), tr. 84; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B20 (Mục I), tr. 84, 85
+
+### charging by friction
+- **Tiếng Việt:** Sự nhiễm điện do cọ xát (hiện tượng nhiễm điện do cọ xát)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phenomenon in which an insulating object becomes electrically charged after being rubbed and can attract other objects due to the transfer of electrons between the two rubbing bodies. The object gaining electrons becomes negatively charged ($-$), whereas the object losing electrons becomes positively charged ($+$).
+- **Giải thích (VI):** Hiện tượng vật cách điện sau khi bị cọ xát trở nên mang điện và có khả năng hút các vật khác do sự dịch chuyển electron giữa hai vật tiếp xúc. Vật nhận thêm electron sẽ nhiễm điện âm ($-$), còn vật mất bớt electron sẽ nhiễm điện dương ($+$).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 20 (Mục I, II): giải thích hiện tượng cánh quạt bám bụi, vải khô bám bụi bông và đám mây dông tích điện.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B20 (Mục I), tr. 84; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B20 (Mục II), tr. 86; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B20 (Mục II), tr. 86, 87
+
 ### Charles's law
 - **Tiếng Việt:** Định luật Charles
 - **Chuyên ngành gốc:** Vật lí
@@ -749,6 +837,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Định luật thực nghiệm khẳng định rằng khi áp suất của một khối lượng khí xác định giữ không đổi thì thể tích $V$ của khí tỉ lệ thuận với nhiệt độ tuyệt đối $T$ của nó, biểu diễn bởi hệ thức $\frac{V}{T} = \text{hằng số}$ hay $\frac{V_1}{T_1} = \frac{V_2}{T_2}$.
 - **Bối cảnh:** Vật lí lớp 12, Bài 10 (Mục I.3): mối quan hệ giữa thể tích và nhiệt độ tuyệt đối của khí lí tưởng trong quá trình đẳng áp.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 02, B10 (Mục I.3), tr. 42; SGK Vật lí 12 KNTT, Chương 02, B10 (Mục II), tr. 43; SGK Vật lí 12 KNTT, Chương 02, B10 (Mục III), tr. 43
+
+### chemical effect of electric current
+- **Tiếng Việt:** Tác dụng hoá học của dòng điện (tác dụng hoá học)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phenomenon in which an electric current passing through an electrolyte solution causes chemical changes and separates substances from the solution, such as depositing metallic copper from a CuSO₄ solution onto the negative electrode.
+- **Giải thích (VI):** Hiện tượng dòng điện khi chạy qua dung dịch điện phân làm biến đổi hoá học và tách các chất ra khỏi dung dịch, chẳng hạn tách kim loại đồng từ dung dịch CuSO₄ bám lên điện cực âm.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 23 (Mục III): thí nghiệm điện phân dung dịch muối đồng và cơ sở của kĩ thuật mạ điện.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục III), tr. 97; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục IV), tr. 98
 
 ### chemical energy
 - **Tiếng Việt:** Năng lượng hoá học (hoá năng)
@@ -760,6 +856,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Khoa học tự nhiên lớp 6, Bài 47 (Mục I, II): phân loại dạng năng lượng dự trữ trong thực phẩm, nhiên liệu, que diêm, pháo hoa và pin.
   - Sinh học lớp 11, Bài 1 (Mục III.1, III.2): dạng năng lượng dự trữ trong liên kết hoá học của chất hữu cơ và ATP.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục I), tr. 165; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III.1), tr. 6; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III.1), tr. 7; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III.2), tr. 7
+
+### circuit breaker
+- **Tiếng Việt:** Cầu dao tự động
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A circuit protection device that automatically interrupts the circuit when the electric current exceeds the permissible limit. After inspection and fault repair, it can be reset to restore circuit operation.
+- **Giải thích (VI):** Thiết bị bảo vệ mạch điện có chức năng tự động ngắt mạch khi dòng điện chạy trong mạch tăng vượt mức cho phép. Sau khi kiểm tra và sửa chữa sự cố, cầu dao có thể đóng lại để mạch điện tiếp tục hoạt động.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 22 (Mục II): thiết bị bảo vệ an toàn có khả năng đóng lại sau sự cố trong mạng điện gia đình.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục I), tr. 93; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục II), tr. 93; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục II), tr. 93, 94
+
+### circuit diagram
+- **Tiếng Việt:** Sơ đồ mạch điện
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A graphical representation using standard symbols to depict circuit components and their interconnections in order to describe an electric circuit simply and guide accurate assembly.
+- **Giải thích (VI):** Hình vẽ sử dụng các kí hiệu quy ước để biểu thị các bộ phận và cách kết nối của chúng nhằm mô tả đơn giản một mạch điện và hướng dẫn lắp mạch đúng yêu cầu.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 22 (Mục I): biểu diễn cấu trúc mạch điện bằng kí hiệu chuẩn và lắp mạch điện thực hành.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22, tr. 91; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục I), tr. 91; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục I), tr. 91, 92
 
 ### circular motion
 - **Tiếng Việt:** Chuyển động tròn
@@ -926,6 +1038,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 24 (Mục I.1): Phân tích sự tắt nhanh dòng điện giữa hai quả cầu tích điện nối với nhau và điều kiện để dòng điện tồn tại lâu dài.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B24, tr. 102; SGK Vật lí 11 KNTT, Chương 04, B24 (Mục I.1), tr. 102; SGK Vật lí 11 KNTT, Chương 04, B24 (Mục I.2), tr. 102
 
+### conditions for floating and sinking
+- **Tiếng Việt:** Điều kiện định tính về vật nổi, vật chìm (điều kiện vật nổi; vật chìm)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The criteria determining whether an object in a liquid floats or sinks: the object sinks when the buoyant force is less than its weight ($F_{\text{A}} < P$) and rises to float when the buoyant force exceeds its weight ($F_{\text{A}} > P$). In terms of specific weight, a solid object sinks if its specific weight exceeds that of the liquid and floats if its specific weight is smaller.
+- **Giải thích (VI):** Quy tắc xác định trạng thái nổi hay chìm của một vật đặt trong lòng chất lỏng: vật chìm xuống khi lực đẩy Archimedes nhỏ hơn trọng lượng của vật ($F_{\text{A}} < P$) và nổi lên khi lực đẩy Archimedes lớn hơn trọng lượng của vật ($F_{\text{A}} > P$). Xét theo trọng lượng riêng, vật đặc chìm xuống nếu trọng lượng riêng của vật lớn hơn trọng lượng riêng chất lỏng và nổi lên nếu nhỏ hơn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 17 (Mục I, II.2): Dự đoán và giải thích hiện tượng vật nổi hay chìm dựa trên so sánh lực hoặc trọng lượng riêng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B17 (Mục I), tr. 73; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B17 (Mục II.2), tr. 75
+
 ### connecting skill
 - **Tiếng Việt:** Kĩ năng liên kết
 - **Chuyên ngành gốc:** Vật lí
@@ -965,6 +1085,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bộ phận điều chỉnh trong lò phản ứng hạt nhân chứa các chất hấp thụ mạnh neutron nhiệt (có động năng dưới $0,1\text{ eV}$) như Bo hoặc Cd. Khi số neutron tăng vượt mức ($k > 1$), các thanh này được đưa ngập sâu vào vùng chứa nhiên liệu phân hạch để hấp thụ neutron thừa, giữ cho hệ số nhân neutron ổn định ở $k = 1$.
 - **Bối cảnh:** Vật lí lớp 12, Bài 24 (Mục I): cơ cấu điều tiết mật độ neutron nhiệt để kiểm soát công suất và đảm bảo an toàn cho lò phản ứng hạt nhân.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B24 (Mục I), tr. 115; SGK Vật lí 12 KNTT, Chương 04, B24 (Mục I), tr. 115, 116
+
+### convection
+- **Tiếng Việt:** Đối lưu (sự đối lưu)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A characteristic mode of heat transfer in liquids and gases carried out by fluid currents moving from warmer regions to cooler regions.
+- **Giải thích (VI):** Hình thức truyền năng lượng nhiệt đặc trưng của chất lỏng và chất khí thông qua các dòng chất lưu di chuyển từ vùng nóng hơn đến vùng lạnh hơn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 28 (Mục II.2): hình thức truyền nhiệt chính trong chất lỏng và chất khí, phân biệt với dẫn nhiệt và bức xạ nhiệt.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục II.2), tr. 114; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.1), tr. 115; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.2), tr. 115
+
+### convection current
+- **Tiếng Việt:** Dòng đối lưu
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** Oppositely moving streams of warm and cool liquid or gas driven by temperature differences, in which heated fluid rises upward while cooler fluid sinks downward.
+- **Giải thích (VI):** Các dòng chất lỏng hoặc chất khí nóng và lạnh di chuyển ngược chiều nhau khi có sự chênh lệch nhiệt độ, trong đó dòng chất lưu nhận nhiệt nóng lên đi lên trên còn dòng chất lưu lạnh hơn đi xuống dưới.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 28 (Mục II.2): giải thích cơ chế làm nóng toàn bộ lượng nước khi đun từ đáy bình và sự lưu thông không khí.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục II.1), tr. 114; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục II.2), tr. 114; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III), tr. 114
 
 ### coordinate axes
 - **Tiếng Việt:** Trục toạ độ (hai trục toạ độ)
@@ -1137,8 +1273,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A physical quantity equal to the mass per unit volume of a substance, defined by the formula $\rho = \frac{m}{V}$. Its SI unit is $\text{kg/m}^3$ (with $\text{g/cm}^3$ also commonly used, where $1\text{ g/cm}^3 = 1\,000\text{ kg/m}^3$).
 - **Giải thích (VI):** Đại lượng vật lí bằng khối lượng của một đơn vị thể tích chất đó, xác định theo công thức $\rho = \frac{m}{V}$. Đơn vị trong hệ SI là $\text{kg/m}^3$ (hoặc thường dùng $\text{g/cm}^3$ với $1\text{ g/cm}^3 = 1\,000\text{ kg/m}^3$).
-- **Bối cảnh:** Vật lí lớp 10, Bài 34 (Mục I): Tính khối lượng riêng của các chất rắn, lỏng, khí và thiết lập công thức áp suất chất lỏng.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 07, B34, tr. 131; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục I), tr. 131; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục II.1.a), tr. 131
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A physical quantity representing the mass per unit volume of a substance, determined by the ratio of an object's mass $m$ to its volume $V$ according to the formula $D = \dfrac{m}{V}$. / VI: Đại lượng vật lí cho biết khối lượng của một đơn vị thể tích một chất, xác định bằng thương số giữa khối lượng $m$ và thể tích $V$ của vật làm bằng chất đó theo công thức $D = \dfrac{m}{V}$.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 34 (Mục I): Tính khối lượng riêng của các chất rắn, lỏng, khí và thiết lập công thức áp suất chất lỏng.
+  - Khoa học tự nhiên lớp 8, Bài 13 (Mục II): So sánh mức độ nặng nhẹ của các chất có cùng thể tích và tính toán khối lượng hoặc thể tích vật.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 07, B34, tr. 131; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục I), tr. 131; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục II.1.a), tr. 131; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B13 (Mục I), tr. 57; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B13 (Mục II), tr. 57; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B13 (Mục II), tr. 57, 58
 
 ### deuterium
 - **Tiếng Việt:** Deuterium (hydrogen nặng)
@@ -1199,6 +1338,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Khoa học tự nhiên lớp 7, Bài 1 (Mục III.2): Sử dụng kết hợp với cổng quang điện để đo khoảng thời gian $\Delta t$ rất ngắn trong các thí nghiệm chuyển động.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 02, B6, tr. 30; SGK Vật lí 10 KNTT, Chương 02, B6 (Mục I), tr. 30; SGK Vật lí 10 KNTT, Chương 02, B6 (Mục II), tr. 30; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176, 177
 
+### diode
+- **Tiếng Việt:** Điốt
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An electronic component exhibiting unidirectional conductivity, allowing electric current to pass through it in only one direction while blocking it in the reverse direction.
+- **Giải thích (VI):** Linh kiện điện tử có tính dẫn điện một chiều, chỉ cho phép dòng điện đi qua nó theo một chiều xác định mà không cho đi qua theo chiều ngược lại.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 1 (Mục III.3.e): Khái niệm cơ sở giải thích nguyên lí phân cực âm – dương của các linh kiện bán dẫn trong mạch điện một chiều.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.e), tr. 10; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195
+
+### direct current
+- **Tiếng Việt:** Dòng điện một chiều
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An electric current that flows in a constant, unchanging direction in a circuit, typically supplied by a battery or an accumulator.
+- **Giải thích (VI):** Dòng điện có chiều chuyển dời không đổi trong mạch điện, tiêu biểu là dòng điện do pin hoặc acquy cung cấp.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 22 (Mục I): xác định tính chất dòng điện trong các mạch điện dùng nguồn pin hoặc acquy.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục I), tr. 93; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục II), tr. 93; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục II), tr. 93, 94
+
 ### direct measurement
 - **Tiếng Việt:** Phép đo trực tiếp
 - **Chuyên ngành gốc:** Vật lí
@@ -1208,12 +1363,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B3, tr. 17; SGK Vật lí 10 KNTT, Chương 01, B3 (Mục I), tr. 17; SGK Vật lí 10 KNTT, Chương 01, B3 (Mục II.1.a), tr. 17
 
 ### direction of electric current
-- **Tiếng Việt:** Chiều dòng điện
+- **Tiếng Việt:** Chiều dòng điện (quy ước chiều dòng điện)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The conventional direction of electric current flowing in a closed circuit, directed from the positive terminal through the conductors and electrical devices to the negative terminal of the power source.
 - **Giải thích (VI):** Chiều quy ước của dòng điện chạy trong mạch điện kín, hướng từ cực dương qua dây dẫn và các thiết bị điện tới cực âm của nguồn điện.
-- **Bối cảnh:** Vật lí lớp 11, Bài 22 (Mục II.1): Quy ước chiều dòng điện trên sơ đồ mạch điện và phân biệt với chiều dịch chuyển của các electron tự do.
-- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B22 (Mục I.2), tr. 92; SGK Vật lí 11 KNTT, Chương 04, B22 (Mục II.1), tr. 92
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The conventionally defined direction of electric current in a closed circuit, running from the positive terminal ($+$) of the power source through connecting wires and electrical loads to the negative terminal ($-$) of the power source. / VI: Chiều quy ước của dòng điện chạy trong mạch kín, đi từ cực dương ($+$) của nguồn điện qua dây nối và các dụng cụ tiêu thụ điện tới cực âm ($-$) của nguồn điện.
+- **Bối cảnh:**
+  - Vật lí lớp 11, Bài 22 (Mục II.1): Quy ước chiều dòng điện trên sơ đồ mạch điện và phân biệt với chiều dịch chuyển của các electron tự do.
+  - Khoa học tự nhiên lớp 8, Bài 22 (Mục I): biểu diễn mũi tên chỉ chiều dòng điện trên sơ đồ mạch điện một chiều.
+- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B22 (Mục I.2), tr. 92; SGK Vật lí 11 KNTT, Chương 04, B22 (Mục II.1), tr. 92; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục I), tr. 93; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục II), tr. 93; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục II), tr. 93, 94
 
 ### direction of wave propagation
 - **Tiếng Việt:** Phương truyền sóng
@@ -1441,8 +1599,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** An acoustic signaling device built around an electromagnet working together with a push-button switch, an elastic metal contact, a striker arm, and a bell gong. When the button is pressed, the circuit repeatedly opens and closes as the electromagnet's magnetic field switches on and off, causing the striker to hit the gong continuously and produce a ringing sound.
 - **Giải thích (VI):** Thiết bị phát tín hiệu âm thanh có bộ phận cơ bản là nam châm điện phối hợp với nút bấm, tiếp điểm kim loại đàn hồi, cần gõ và quả chuông. Khi ấn nút bấm, mạch điện đóng ngắt tự động liên tục theo sự xuất hiện và mất đi của từ trường ở nam châm điện, làm cần gõ đập liên tiếp vào quả chuông tạo ra tiếng kêu.
-- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 20 (Mục II): ví dụ ứng dụng thực tế tính chất đóng ngắt từ trường của nam châm điện.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 06, B20 (Mục II), tr. 98
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: An electrical device that utilizes the action of an electromagnet to produce an audible sound signal when an electric current passes through it. / VI: Thiết bị điện ứng dụng hoạt động của nam châm điện để phát ra tín hiệu âm thanh khi có dòng điện chạy qua.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 7, Bài 20 (Mục II): ví dụ ứng dụng thực tế tính chất đóng ngắt từ trường của nam châm điện.
+  - Khoa học tự nhiên lớp 8, Bài 22 (Mục I, II): thiết bị phát tín hiệu báo hiệu hoặc cảnh báo bằng âm thanh trong mạch điện.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 06, B20 (Mục II), tr. 98; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục I), tr. 92; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục II), tr. 93; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục II), tr. 94
+
+### electric circuit
+- **Tiếng Việt:** Mạch điện (mạch điện đơn giản)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An assembly consisting of a power source and electrical energy-consuming devices (along with control switches) interconnected by conducting wires to form a closed loop.
+- **Giải thích (VI):** Tập hợp gồm nguồn điện và các thiết bị tiêu thụ năng lượng điện (cùng công tắc điều khiển) được kết nối với nhau bằng dây dẫn tạo thành một mạch kín.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 22 (Mục I): nhận diện các bộ phận cơ bản và điều kiện mạch kín để thiết bị điện hoạt động.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22, tr. 91; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục I), tr. 91; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục I), tr. 91, 92
 
 ### electric constant
 - **Tiếng Việt:** Hằng số điện
@@ -1451,6 +1620,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hằng số vật lí cơ bản xuất hiện trong định luật Coulomb đối với các điện tích điểm đặt trong chân không, kí hiệu $\varepsilon_0$, có giá trị $\varepsilon_0 = 8,85 \cdot 10^{-12}\text{ C}^2/\text{Nm}^2$ và liên hệ với hệ số tỉ lệ tĩnh điện qua công thức $k = \frac{1}{4\pi\varepsilon_0}$.
 - **Bối cảnh:** Vật lí lớp 11, Bài 16 (Mục II.2): Xác định hệ số tỉ lệ trong công thức lực tương tác tĩnh điện và cường độ điện trường trong chân không.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B16 (Mục II.2), tr. 63; SGK Vật lí 11 KNTT, Chương 03, B16 (Mục III.1), tr. 63; SGK Vật lí 11 KNTT, Chương 03, B16 (Mục III.2), tr. 63, 64
+
+### electric current
+- **Tiếng Việt:** Dòng điện
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The directed flow of electrically charged particles through a conductor.
+- **Giải thích (VI):** Dòng chuyển dời có hướng của các hạt mang điện qua vật dẫn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 21 (Mục I.1): khái niệm nền tảng mở đầu phần điện học về bản chất hạt mang điện chuyển dịch có hướng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21, tr. 88; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục I.1), tr. 88; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục I.2), tr. 88
 
 ### electric current in a metallic conductor
 - **Tiếng Việt:** Dòng điện chạy trong dây dẫn kim loại
@@ -1465,8 +1642,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A physical quantity characterizing the strength of an electric current, equal to the magnitude of electric charge $\Delta q$ passing through a conductor's cross-section per unit time, $I = \frac{\Delta q}{\Delta t}$ (SI unit ampere, $\text{A}$). In a metallic conductor of cross-sectional area $S$ with free-electron density $n$ drifting at speed $v$, it is given by $I = Snve$.
 - **Giải thích (VI):** Đại lượng vật lí đặc trưng cho tác dụng mạnh yếu của dòng điện, bằng độ lớn điện lượng $\Delta q$ chuyển qua tiết diện thẳng của dây dẫn trong một đơn vị thời gian theo công thức $I = \frac{\Delta q}{\Delta t}$ (đơn vị hệ SI là ampe, $\text{A}$). Trong dây dẫn kim loại tiết diện thẳng $S$ có mật độ electron tự do $n$ chuyển động có hướng với tốc độ $v$, cường độ dòng điện thoả mãn $I = Snve$.
-- **Bối cảnh:** Vật lí lớp 11, Bài 22 (Mục I.2, II.2): Xác định độ mạnh yếu của dòng điện theo điện lượng dịch chuyển và thông số vi mô của hạt tải điện.
-- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B22, tr. 91; SGK Vật lí 11 KNTT, Chương 04, B22 (Mục I.1), tr. 91; SGK Vật lí 11 KNTT, Chương 04, B22 (Mục I.2), tr. 92
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A physical quantity (symbol $I$) characterizing the strength or weakness of an electric current's effects, determined by the reading of an ammeter. Its standard unit of measurement is the ampere ($\text{A}$) or the submultiple milliampere ($\text{mA}$). / VI: Đại lượng vật lí (kí hiệu $I$) đặc trưng cho mức độ tác dụng mạnh hay yếu của dòng điện, được xác định bằng số chỉ của ampe kế. Đơn vị đo chuẩn của cường độ dòng điện là ampe ($\text{A}$) hoặc ước số miliampe ($\text{mA}$).
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A physical quantity (symbol $I$) characterizing the strength or weakness of an electric current, whose value is directly measured by the reading of an ammeter. / VI: Đại lượng vật lí (kí hiệu $I$) đặc trưng cho mức độ mạnh, yếu của dòng điện, có giá trị được xác định trực tiếp bằng số chỉ của ampe kế.
+- **Bối cảnh:**
+  - Vật lí lớp 11, Bài 22 (Mục I.2, II.2): Xác định độ mạnh yếu của dòng điện theo điện lượng dịch chuyển và thông số vi mô của hạt tải điện.
+  - Khoa học tự nhiên lớp 8, Bài 1 (Mục III.3.c) và Bài 24 (Mục I.2): Đại lượng đo bằng ampe kế để khảo sát độ mạnh yếu của dòng điện qua bóng đèn và các thiết bị điện.
+  - Khoa học tự nhiên lớp 8, Bài 24 (Mục I.2): đo mức độ mạnh yếu của dòng điện chạy qua mạch bằng ampe kế.
+- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B22, tr. 91; SGK Vật lí 11 KNTT, Chương 04, B22 (Mục I.1), tr. 91; SGK Vật lí 11 KNTT, Chương 04, B22 (Mục I.2), tr. 92; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B24 (Mục I.1), tr. 99; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B24 (Mục I.2), tr. 99; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B24, tr. 99
 
 ### electric field
 - **Tiếng Việt:** Điện trường
@@ -1545,8 +1727,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A physical quantity equal to the difference between the electric potential at point M and that at point N in an electric field, $U_{MN} = V_M - V_N$, measured in volts ($\text{V}$). It determines the work involved in moving a charge $q$ between the two points via $A_{MN} = U_{MN}q$.
 - **Giải thích (VI):** Đại lượng đo bằng hiệu giữa điện thế tại điểm M và điện thế tại điểm N trong điện trường theo công thức $U_{MN} = V_M - V_N$, có đơn vị là vôn ($\text{V}$). Đại lượng này cho phép xác định công dịch chuyển điện tích $q$ giữa hai điểm qua hệ thức $A_{MN} = U_{MN}q$.
-- **Bối cảnh:** Vật lí lớp 11, Bài 20 (Mục I, II): Đo lường sự chênh lệch điện thế và tính công dịch chuyển điện tích giữa hai điểm.
-- **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B20, tr. 79; SGK Vật lí 11 KNTT, Chương 03, B20 (Mục I), tr. 79; SGK Vật lí 11 KNTT, Chương 03, B20 (Mục I), tr. 79, 80
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A physical quantity (symbol $U$) characterizing the ability of a power source to drive an electric current in a circuit. The voltage across the two terminals of a power source or across an electrical device is measured using a voltmeter. / VI: Đại lượng vật lí (kí hiệu $U$) đặc trưng cho khả năng sinh ra dòng điện của nguồn điện khi mắc vào mạch. Hiệu điện thế giữa hai cực của nguồn điện hoặc giữa hai đầu thiết bị điện được đo bằng vôn kế.
+- **Bối cảnh:**
+  - Vật lí lớp 11, Bài 20 (Mục I, II): Đo lường sự chênh lệch điện thế và tính công dịch chuyển điện tích giữa hai điểm.
+  - Khoa học tự nhiên lớp 8, Bài 24 (Mục II.1, II.2): nhận biết giá trị điện áp định mức trên pin, acquy và mạng điện gia đình $220\text{ V}$.
+- **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B20, tr. 79; SGK Vật lí 11 KNTT, Chương 03, B20 (Mục I), tr. 79; SGK Vật lí 11 KNTT, Chương 03, B20 (Mục I), tr. 79, 80; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B24, tr. 99; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B24 (Mục I.2), tr. 100; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B24 (Mục II.1), tr. 100
 
 ### electric potential energy
 - **Tiếng Việt:** Thế năng của điện tích trong điện trường (thế năng điện)
@@ -1577,8 +1762,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A device that creates and maintains a potential difference between its positive ($+$) and negative ($-$) terminals to sustain a continuous electric current in a closed circuit, even while current flows through conductors connecting its terminals.
 - **Giải thích (VI):** Thiết bị tạo ra và duy trì hiệu điện thế giữa hai cực là cực dương ($+$) và cực âm ($-$) nhằm duy trì dòng điện lâu dài trong mạch ngay cả khi có dòng điện chạy qua các vật dẫn nối liền hai cực của nó.
-- **Bối cảnh:** Vật lí lớp 11, Bài 24 (Mục I.2): Thiết bị cung cấp năng lượng điện và duy trì dòng điện lâu dài trong mạch điện.
-- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B24, tr. 102; SGK Vật lí 11 KNTT, Chương 04, B24 (Mục I.1), tr. 102; SGK Vật lí 11 KNTT, Chương 04, B24 (Mục I.2), tr. 102
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A device capable of supplying electrical energy to maintain an electric current in a circuit so that electrical appliances can operate. Common power sources such as batteries and accumulators have two terminals: a positive terminal ($+$) and a negative terminal ($-$). / VI: Thiết bị có khả năng cung cấp năng lượng điện nhằm duy trì dòng điện trong mạch để các dụng cụ điện hoạt động. Các nguồn điện thông dụng như pin và acquy có hai cực gồm cực dương ($+$) và cực âm ($-$).
+- **Bối cảnh:**
+  - Vật lí lớp 11, Bài 24 (Mục I.2): Thiết bị cung cấp năng lượng điện và duy trì dòng điện lâu dài trong mạch điện.
+  - Khoa học tự nhiên lớp 8, Bài 21 (Mục I.2): nhận biết vai trò và hai cực của các nguồn điện đơn giản như pin, acquy.
+- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B24, tr. 102; SGK Vật lí 11 KNTT, Chương 04, B24 (Mục I.1), tr. 102; SGK Vật lí 11 KNTT, Chương 04, B24 (Mục I.2), tr. 102; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21, tr. 88; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục I.1), tr. 88; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục I.2), tr. 88
 
 ### electric shock
 - **Tiếng Việt:** Sốc điện (điện giật)
@@ -1606,6 +1794,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 12, Bài 19 (Mục I.2): giải thích cơ chế dẫn điện của kim loại (Ag > Cu > Au > Al) và ứng dụng làm dây dẫn điện.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 06, B19 (Mục I.1), tr. 90; SGK Hóa học 12 KNTT, Chương 06, B19 (Mục I.2), tr. 90; SGK Hóa học 12 KNTT, Chương 06, B19 (Mục I.3), tr. 90
 
+### electrical conductor
+- **Tiếng Việt:** Vật dẫn điện
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An object or material that allows electric current to flow through it, commonly including objects made of metals such as copper and aluminium, or pencil lead.
+- **Giải thích (VI):** Vật cho phép dòng điện chạy qua, thường gặp là các vật làm bằng kim loại như đồng, nhôm hoặc ruột bút chì.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 21 (Mục II): phân biệt vật liệu dẫn điện với vật liệu cách điện trong mạch điện và thiết bị điện.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục II), tr. 89; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục II), tr. 89, 90; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục II), tr. 90
+
 ### electrical energy
 - **Tiếng Việt:** Điện năng (Năng lượng điện)
 - **Chuyên ngành gốc:** Vật lí
@@ -1625,15 +1821,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 25 (Mục I): Tính điện năng tiêu thụ của đoạn mạch và các thiết bị dùng điện.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B25, tr. 106; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục I), tr. 106; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục I), tr. 106, 107
 
+### electrical insulator
+- **Tiếng Việt:** Vật không dẫn điện (vật cách điện)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An object or material that does not allow electric current to flow through it, commonly including objects made of plastic, rubber, dry wood, glass, or porcelain.
+- **Giải thích (VI):** Vật không cho phép dòng điện chạy qua, thường gặp là các vật làm bằng nhựa, cao su, gỗ khô, thuỷ tinh hoặc sứ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 21 (Mục II): lựa chọn vật liệu cách điện đảm bảo an toàn trong chế tạo và sử dụng thiết bị điện.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục II), tr. 89; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục II), tr. 89, 90; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục II), tr. 90
+
 ### electrical resistance
 - **Tiếng Việt:** Điện trở
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A physical quantity denoted by $R$, characterizing the degree to which a conductor opposes electric current (opposes the directed motion of electric charges) and defined by the ratio $R = \frac{U}{I}$, where $U$ is the voltage across the conductor and $I$ is the current flowing through it.
 - **Giải thích (VI):** Đại lượng vật lí kí hiệu $R$, đặc trưng cho mức độ cản trở dòng điện (cản trở sự dịch chuyển của các điện tích) của vật dẫn và xác định bằng thương số $R = \frac{U}{I}$, trong đó $U$ là hiệu điện thế giữa hai đầu vật dẫn và $I$ là cường độ dòng điện chạy qua nó.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A physical quantity characterizing the opposition of a conductor to the flow of electric current. In electric circuits, the term also refers to a circuit component (symbol $R$, resistor) used to limit current and protect devices such as LEDs. / VI: Đại lượng vật lí đặc trưng cho tính chất cản trở dòng điện của một vật dẫn. Trong mạch điện, thuật ngữ này còn chỉ linh kiện (kí hiệu $R$) dùng để hạn chế dòng điện và bảo vệ các thiết bị điện như đèn LED.
 - **Bối cảnh:**
   - Vật lí lớp 11, Bài 23 (Mục I.2): Đại lượng đặc trưng cho tính cản trở dòng điện của vật dẫn trong mạch điện.
+  - Khoa học tự nhiên lớp 8, Bài 22 (Mục I) và Bài 23 (Mục I, II): kí hiệu trong sơ đồ mạch điện và vai trò bảo vệ linh kiện trong thí nghiệm.
   - *Lưu ý:* Chỉ đại lượng vật lí $R = \frac{U}{I}$ đặc trưng cho mức độ cản trở dòng điện, phân biệt với linh kiện điện trở (resistor) mắc trong mạch.
-- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B23, tr. 95; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.2), tr. 96; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.3), tr. 96
+  - *Lưu ý:* Trong SGK Khoa học tự nhiên 8, "điện trở" vừa chỉ đại lượng đặc trưng cho sự cản trở dòng điện (electrical resistance) vừa chỉ linh kiện điện trở trong sơ đồ mạch điện (resistor).
+- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B23, tr. 95; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.2), tr. 96; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.3), tr. 96; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195, 196; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục I), tr. 92
 
 ### electrical resistivity
 - **Tiếng Việt:** Điện trở suất
@@ -1738,6 +1945,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Mô hình cấu trúc nguyên tử hiện đại dựa trên lí thuyết cơ học lượng tử của Erwin Schrödinger, trong đó các electron không chuyển động theo quỹ đạo xác định mà có thể xuất hiện ở mọi vị trí trong không gian nguyên tử với mật độ xác suất biểu diễn bằng các đám mây electron. Mô hình này giải thích được sự hình thành quang phổ vạch của nhiều loại nguyên tử khác nhau.
 - **Bối cảnh:** Vật lí lớp 12, Bài 21 (Mục I): mô hình nguyên tử hiện đại khắc phục hạn chế của mô hình Rutherford và mẫu nguyên tử Bohr.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B21 (Mục I), tr. 93; SGK Vật lí 12 KNTT, Chương 04, B21 (Mục II.1), tr. 93; SGK Vật lí 12 KNTT, Chương 04, B21 (Mục II.1), tr. 93, 94
+
+### electroplating
+- **Tiếng Việt:** Mạ điện
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A process applying the chemical effect of electric current to coat a thin layer of metal onto the surface of an object. During the process, the object to be plated is connected to the negative terminal, the plating metal to the positive terminal of the power source, and both are immersed in a suitable electrolyte solution.
+- **Giải thích (VI):** Phương pháp ứng dụng tác dụng hoá học của dòng điện để phủ một lớp kim loại mỏng lên bề mặt vật cần mạ. Khi thực hiện, vật cần mạ được nối với cực âm, tấm kim loại mạ nối với cực dương của nguồn điện và cả hai cùng nhúng trong dung dịch điện phân thích hợp.
+- **Giải thích khác (SGK Hóa học 12):** EN: An electrolytic method using a salt solution of the plating metal with the object to be coated as the cathode and a bar of the plating metal as the anode, whereby metal ions are reduced to form a solid metallic coating over the object's surface for decoration or corrosion protection. / VI: Phương pháp ứng dụng sự điện phân dung dịch muối của kim loại mạ với vật cần mạ làm cathode và thanh kim loại mạ làm anode, trong đó ion kim loại bị khử tạo thành lớp kim loại rắn bao phủ trên bề mặt vật cần mạ nhằm trang trí hoặc chống ăn mòn.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 23 (Mục IV): ứng dụng thực tế của tác dụng hoá học của dòng điện để chống gỉ và trang trí bề mặt kim loại.
+  - Hóa học lớp 12, Bài 16 (Mục II.3): ứng dụng thực tiễn của quá trình điện phân trong gia công và bảo vệ bề mặt kim loại.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục IV), tr. 98; SGK Hóa học 12 KNTT, Chương 05, B16 (Mục II.2), tr. 83; SGK Hóa học 12 KNTT, Chương 05, B16 (Mục II.3), tr. 83; SGK Hóa học 12 KNTT, Chương 05, B16 (Mục II.3), tr. 83, 84
+
+### electroscope
+- **Tiếng Việt:** Điện nghiệm
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An instrument used to detect whether an object is electrically charged, consisting of a metal rod with a metal knob at the top and two thin metal leaves at the bottom enclosed in a glass-fronted case. When a charged object touches the knob, the two leaves acquire like charges and diverge, with a larger divergence angle indicating a stronger charge.
+- **Giải thích (VI):** Dụng cụ dùng để phát hiện trạng thái nhiễm điện của vật, cấu tạo gồm một thanh kim loại gắn quả cầu kim loại ở đầu trên và hai lá kim loại mỏng ở đầu dưới đặt trong hộp kín có mặt kính. Khi vật nhiễm điện chạm vào quả cầu, hai lá kim loại tích điện cùng dấu và đẩy nhau xoè ra với góc xoè càng lớn khi vật nhiễm điện càng mạnh.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 20 (Mục II) và Bài 21 (Mục I.1): kiểm tra sự nhiễm điện của vật và minh hoạ sự dịch chuyển hạt mang điện giữa hai vật.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B20 (Mục II), tr. 87; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21, tr. 88; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục I.1), tr. 88
 
 ### electrostatic painting
 - **Tiếng Việt:** Sơn tĩnh điện (sơn khô tĩnh điện)
@@ -2026,6 +2252,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 2 (Mục II.2): thiết lập phương trình cân bằng năng lượng cho các quá trình nhiệt động và giải thích nguyên tắc động cơ nhiệt.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B2 (Mục II.2), tr. 12; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục II.2), tr. 12, 13; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục II.2), tr. 13
 
+### first-class lever
+- **Tiếng Việt:** Đòn bẩy loại 1
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A class of lever in which the fulcrum $O$ is located between the points of application $O_1$ and $O_2$ of the two forces $F_1$ and $F_2$, reversing the direction of the applied force (such as a claw hammer, pliers, scissors, or a hand water pump).
+- **Giải thích (VI):** Loại đòn bẩy có điểm tựa $O$ nằm trong khoảng giữa hai điểm đặt $O_1$ và $O_2$ của hai lực $F_1$ và $F_2$, giúp làm thay đổi hướng của lực tác dụng (như búa nhổ đinh, kìm, kéo cắt, máy bơm nước bằng tay).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 19 (Mục II, III): Phân biệt với đòn bẩy có điểm tựa nằm ngoài khoảng giữa hai điểm đặt lực và nhận diện trong dụng cụ lao động, cơ thể người.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục I), tr. 80; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục II), tr. 80; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục II), tr. 80, 81
+
 ### fission product
 - **Tiếng Việt:** Sản phẩm phân hạch
 - **Chuyên ngành gốc:** Vật lí
@@ -2040,10 +2274,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A general term referring to substances capable of flowing, including liquids and gases. When an object is immersed in or moves through a fluid medium, the fluid exerts drag and lift forces on the object.
 - **Giải thích (VI):** Thuật ngữ chung chỉ các chất có khả năng chảy được, bao gồm chất lỏng và chất khí. Khi một vật đặt trong hoặc chuyển động trong môi trường chất lưu, chất lưu tác dụng lực cản và lực nâng lên vật đó.
 - **Giải thích khác (SGK Vật lí 10):** EN: A general term referring to substances in the liquid and gaseous states (such as water and air). Any object moving through a fluid experiences a drag force opposing its motion, while a static fluid exerts depth-dependent pressure. / VI: Thuật ngữ chung chỉ các chất ở thể lỏng và thể khí (như nước, không khí). Mọi vật chuyển động trong chất lưu đều chịu tác dụng của lực cản ngược hướng chuyển động, còn chất lưu đứng yên gây ra áp suất phụ thuộc độ sâu.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A collective term for substances in the liquid and gaseous states, characterized by poor thermal conduction but effective heat transfer via convection. / VI: Thuật ngữ chung chỉ các chất ở thể lỏng và thể khí, có đặc điểm dẫn nhiệt kém nhưng truyền nhiệt tốt bằng hình thức đối lưu.
 - **Bối cảnh:**
   - Vật lí lớp 10, Bài 19 (Mục I.1): Xác định môi trường vật chất (như nước, không khí) tác dụng lực cản và lực nâng lên vật.
   - Vật lí lớp 10, Bài 19 (Mục I.1) và Bài 34 (Mục III.3): Khái niệm chung chỉ chất lỏng và chất khí khi khảo sát lực cản chất lưu và phương trình cơ bản của chất lưu đứng yên.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B19, tr. 77; SGK Vật lí 10 KNTT, Chương 03, B19 (Mục I.1), tr. 77; SGK Vật lí 10 KNTT, Chương 03, B19 (Mục I.2), tr. 77; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục III.3), tr. 134
+  - Khoa học tự nhiên lớp 8, Bài 28 (Mục II.2): khảo sát môi trường xảy ra hiện tượng truyền nhiệt bằng các dòng đối lưu.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B19, tr. 77; SGK Vật lí 10 KNTT, Chương 03, B19 (Mục I.1), tr. 77; SGK Vật lí 10 KNTT, Chương 03, B19 (Mục I.2), tr. 77; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục III.3), tr. 134; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục II.1), tr. 114; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục II.2), tr. 114; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III), tr. 114
 
 ### fluid drag
 - **Tiếng Việt:** Lực cản của chất lưu
@@ -2205,6 +2441,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 12 (Mục II.2): Đại lượng đo trực tiếp trên màn giao thoa để tính bước sóng ánh sáng theo hệ thức $\lambda = \frac{ia}{D}$.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 02, B12 (Mục II.1), tr. 50; SGK Vật lí 11 KNTT, Chương 02, B12 (Mục II.2), tr. 50; SGK Vật lí 11 KNTT, Chương 02, B12 (Mục II.2), tr. 50, 51
 
+### fulcrum
+- **Tiếng Việt:** Điểm tựa (điểm tựa O; trục quay)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The fixed support point or axis of rotation, commonly denoted $O$, around which a lever pivots when forces are applied.
+- **Giải thích (VI):** Vị trí xác định có trục quay đi qua mà đòn bẩy quay xung quanh khi chịu tác dụng lực, thường kí hiệu là $O$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 19 (Mục I, II): Xác định vị trí điểm tựa $O$ so với điểm đặt của hai lực để phân biệt các loại đòn bẩy.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục I), tr. 79; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục I), tr. 80; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục II), tr. 80
+
 ### full moon
 - **Tiếng Việt:** Trăng tròn
 - **Chuyên ngành gốc:** Vật lí
@@ -2213,6 +2457,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 53 (Mục I.2): đối chiếu với pha Không Trăng và xác định vị trí của Mặt Trăng ở giữa Tuần Trăng trên Hình 53.2.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B53 (Mục I.2), tr. 184
 
+### function of a lever
+- **Tiếng Việt:** Tác dụng của đòn bẩy
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The mechanical utility of a lever under a turning force, including the ability to change the direction of an applied force and provide a mechanical advantage in force when the lever arm of the effort exceeds that of the load.
+- **Giải thích (VI):** Công dụng cơ học của đòn bẩy khi chịu lực làm quay, bao gồm khả năng làm thay đổi hướng tác dụng của lực và tạo lợi về lực khi khoảng cách từ điểm tựa đến giá của lực tác dụng lớn hơn khoảng cách đến giá của lực nâng vật.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 19 (Mục I): Khảo sát bằng thực nghiệm sự đổi hướng lực và điều kiện lợi về lực khi nâng vật nặng bằng thanh cứng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19, tr. 79; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục I), tr. 79; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục I), tr. 79, 80
+
 ### fundamental equation of fluid statics
 - **Tiếng Việt:** Phương trình cơ bản của chất lưu đứng yên
 - **Chuyên ngành gốc:** Vật lí
@@ -2220,6 +2472,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phương trình biểu diễn độ chênh lệch áp suất giữa hai điểm có độ sâu $h_1$ và $h_2$ trong lòng chất lưu đứng yên có khối lượng riêng $\rho$ theo hệ thức $p_N - p_M = \rho \cdot g \cdot (h_1 - h_2)$ hay $\Delta p = \rho \cdot g \cdot \Delta h$.
 - **Bối cảnh:** Vật lí lớp 10, Bài 34 (Mục III.3): Tính độ chênh lệch áp suất giữa hai độ sâu khác nhau trong chất lưu đứng yên và chứng minh định luật Archimedes.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 07, B34 (Mục III.2), tr. 134; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục III.3), tr. 134; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục III.3), tr. 134, 135
+
+### fuse
+- **Tiếng Việt:** Cầu chì
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A circuit protection device whose core element is a short lead-alloy wire with a lower melting point than other metals. When the current in the circuit suddenly rises excessively, the wire melts and breaks the circuit.
+- **Giải thích (VI):** Thiết bị bảo vệ mạch điện có bộ phận cơ bản là một đoạn dây chì nóng chảy ở nhiệt độ thấp so với các kim loại khác. Khi dòng điện trong mạch đột ngột tăng quá mức, dây chì tự nóng chảy để ngắt mạch điện.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 22 (Mục II): thiết bị an toàn tự ngắt mạch khi xảy ra sự cố quá dòng trong mạng điện.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục I), tr. 93; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục II), tr. 93; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục II), tr. 93, 94
 
 ### galaxy
 - **Tiếng Việt:** Thiên hà
@@ -2365,6 +2625,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Khoa học tự nhiên lớp 6, Bài 47 (Mục II): nhận diện năng lượng dự trữ theo độ cao như nước trong hồ chứa thuỷ điện, cánh diều trên trời hoặc búa máy nâng cao.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B25 (Mục I.2), tr. 100; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 100; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 100, 101; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.1), tr. 22; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.2), tr. 22; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.2), tr. 22, 23; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 167
 
+### greenhouse effect
+- **Tiếng Việt:** Hiệu ứng nhà kính (hiệu ứng nhà kính khí quyển)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phenomenon in which glass panels of a greenhouse or the Earth's atmosphere allow intense solar thermal radiation to pass through while trapping weaker terrestrial thermal radiation, warming the interior space or the Earth's surface and surrounding air. In the atmosphere, carbon dioxide (CO₂) plays the most significant role in causing this effect.
+- **Giải thích (VI):** Hiện tượng lớp kính của nhà trồng cây hoặc bầu khí quyển cho bức xạ nhiệt mạnh của Mặt Trời truyền qua nhưng giữ lại bức xạ nhiệt yếu phát ra từ mặt đất, làm không gian bên trong hoặc bề mặt Trái Đất và không khí bao quanh nóng lên. Trong khí quyển, khí carbon dioxide (CO₂) đóng vai trò quan trọng nhất gây ra hiệu ứng này.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The atmospheric warming phenomenon on Earth intensified by gas emissions from industrial and domestic activities (such as CO, SO₂, CO₂, and NO₂), causing environmental changes and adverse impacts on living organisms. / VI: Hiện tượng làm ấm bầu khí quyển Trái Đất gia tăng do các chất khí thải từ hoạt động công nghiệp và sinh hoạt (như CO, SO₂, CO₂, NO₂), gây biến đổi môi trường và ảnh hưởng không tốt tới cơ thể sinh vật.
+- **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The warming of Earth's atmosphere occurring when sunlight heats the Earth's surface and the heat radiated back into the atmosphere is absorbed and trapped by carbon dioxide and certain other gases rather than escaping into space. / VI: Hiện tượng gia tăng nhiệt độ khí quyển Trái Đất khi ánh sáng mặt trời làm mặt đất nóng lên và lượng hơi nóng phát tán trở lại khí quyển bị khí carbon dioxide cùng một số khí khác hấp thụ, giữ lại mà không thoát ra ngoài vũ trụ được.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 28 (Mục III.3): phân tích sự truyền bức xạ nhiệt qua khí quyển và các biện pháp giảm phát thải CO₂ bảo vệ môi trường.
+  - Khoa học tự nhiên lớp 8, Bài 47 (Mục II.2a): Hệ quả môi trường từ sự gia tăng khí thải công nghiệp và sinh hoạt trong bầu khí quyển.
+  - Khoa học tự nhiên lớp 6, Bài 34 (Mục III.1): Giải thích vai trò của thực vật trong việc hấp thụ khí carbon dioxide và thoát hơi nước giúp điều hoà khí hậu, giảm hiệu ứng nhà kính.
+  - *Lưu ý:* Thuật ngữ dùng cho cả tác dụng giữ nhiệt của nhà lợp kính trong nông nghiệp và hiệu ứng giữ bức xạ nhiệt của bầu khí quyển Trái Đất.
+  - *Lưu ý:* Xét dưới góc độ hệ quả ô nhiễm không khí do khí thải công nghiệp và sinh hoạt ở Bài 47, bổ sung cho cơ chế bức xạ nhiệt ở Bài 28.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.2), tr. 116; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.3.a), tr. 116; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.3.b), tr. 116; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục II.2.a), tr. 192; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 119; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục III.1), tr. 119; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục III.1), tr. 119, 120
+
 ### half moon
 - **Tiếng Việt:** Bán nguyệt
 - **Chuyên ngành gốc:** Vật lí
@@ -2405,10 +2680,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The quantitative measure of thermal energy transferred from one body to another during a heat transfer process, denoted by $Q$ and measured in joules ($\text{J}$). This quantity is defined strictly for a transfer process; without heat transfer, no heat exists.
 - **Giải thích (VI):** Số đo phần năng lượng nhiệt truyền từ vật này sang vật khác trong quá trình truyền nhiệt, kí hiệu là $Q$ và có đơn vị là jun ($\text{J}$). Đại lượng này chỉ xác định gắn liền với quá trình truyền nhiệt; khi không có quá trình truyền nhiệt thì không có nhiệt lượng.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The amount of thermal energy gained or lost by an object during a heat transfer process (symbol $Q$). The heat required to raise the temperature of a mass $m\text{ (kg)}$ of water from $t_1\text{ (}^\circ\text{C)}$ to $t_2\text{ (}^\circ\text{C)}$ is given by $Q = mc(t_2 - t_1)$, where $c$ is the specific heat capacity. / VI: Phần nhiệt năng mà vật nhận thêm hay mất bớt trong quá trình truyền nhiệt (kí hiệu $Q$). Nhiệt lượng cần cung cấp để khối lượng $m\text{ (kg)}$ nước tăng nhiệt độ từ $t_1\text{ (}^\circ\text{C)}$ lên $t_2\text{ (}^\circ\text{C)}$ xác định theo công thức $Q = mc(t_2 - t_1)$, với $c$ là nhiệt dung riêng.
 - **Bối cảnh:**
   - Vật lí lớp 12, Bài 2 (Mục II.2): phân biệt nhiệt lượng trao đổi ($Q$) với nội năng của vật ($U$) trong định luật I nhiệt động lực học.
+  - Khoa học tự nhiên lớp 8, Bài 27 (Mục II): tính toán năng lượng nhiệt cần thiết để đun nóng một lượng nước xác định.
   - *Lưu ý:* Nhiệt lượng ($Q$) là số đo năng lượng trao đổi trong quá trình truyền nhiệt, không phải là dạng năng lượng dự trữ sẵn trong vật như nội năng ($U$).
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B2 (Mục II.2), tr. 12; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục II.2), tr. 12, 13; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục II.2), tr. 13
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B2 (Mục II.2), tr. 12; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục II.2), tr. 12, 13; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục II.2), tr. 13; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B27, tr. 109; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B27 (Mục I), tr. 109; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B27 (Mục II), tr. 109; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B27 (Mục II), tr. 111
 
 ### heat engine
 - **Tiếng Việt:** Động cơ nhiệt
@@ -2425,6 +2702,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Một trong hai cách làm thay đổi nội năng của vật mà không có sự thực hiện công, diễn ra thông qua sự trao đổi trực tiếp năng lượng nhiệt (đặc trưng bởi nhiệt lượng $Q$) khi các vật có chênh lệch nhiệt độ tiếp xúc hoặc bức xạ nhiệt với nhau.
 - **Bối cảnh:** Vật lí lớp 12, Bài 2 (Mục II.1): phân biệt quá trình truyền năng lượng nhiệt với quá trình thực hiện công.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B2 (Mục I.1), tr. 10; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục I.2), tr. 11; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục II.1), tr. 11
+
+### heating effect of electric current
+- **Tiếng Việt:** Tác dụng nhiệt của dòng điện (tác dụng nhiệt)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phenomenon in which an electrical conductor heats up when an electric current flows through it, reflecting the conversion of electrical energy into thermal energy.
+- **Giải thích (VI):** Hiện tượng vật dẫn điện nóng lên khi có dòng điện chạy qua, phản ánh sự chuyển hoá năng lượng điện thành năng lượng nhiệt.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 23 (Mục I) và Bài 27: giải thích nguyên lí hoạt động của bàn là, bếp điện và dây đốt bình nhiệt lượng kế.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23, tr. 95; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục I), tr. 95; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục II), tr. 95, 96
 
 ### heliocentrism
 - **Tiếng Việt:** Thuyết Nhật tâm
@@ -2502,6 +2787,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bộ phận chính của động cơ nhiệt có nhiệt độ cao $T_1$ ($T_1 > T_2$), đóng vai trò cung cấp nhiệt lượng cho tác nhân của động cơ giãn nở sinh công.
 - **Bối cảnh:** Vật lí lớp 12, Bài 2 (Mục II.2): bộ phận cấp nhiệt trong sơ đồ nguyên tắc hoạt động của động cơ nhiệt.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B2 (Mục II.2), tr. 13, 14
+
+### hovercraft
+- **Tiếng Việt:** Tàu đệm khí
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A transport vehicle that uses high-powered fans to pump air and create a high-pressure air cushion between its hull and the ground or water surface. This high-pressure cushion lifts the craft clear of the surface, minimizing friction during movement.
+- **Giải thích (VI):** Phương tiện giao thông sử dụng hệ thống quạt công suất lớn bơm không khí tạo vùng khí nén áp suất cao giữa đáy tàu và mặt đất hoặc mặt nước. Lớp đệm khí áp suất cao nâng thân tàu tách khỏi bề mặt tiếp xúc, giúp giảm thiểu lực ma sát khi tàu di chuyển.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 16 (Mục II.2.b): Ứng dụng áp suất không khí nén trong kĩ thuật giao thông thuỷ bộ.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2.a), tr. 71; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2.b), tr. 71; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2.b), tr. 71, 72
+
+### hydraulic press
+- **Tiếng Việt:** Máy nén thuỷ lực
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A mechanical device consisting of two interconnected cylinders of different cross-sectional areas filled with liquid, operating on the undiminished transmission of liquid pressure in all directions. Applying a small force to the smaller piston generates a much larger lifting force on the larger piston.
+- **Giải thích (VI):** Thiết bị kĩ thuật gồm hai pit-tông có tiết diện khác nhau thông nhau qua một khoang chứa chất lỏng, hoạt động dựa trên tính chất truyền nguyên vẹn áp suất theo mọi hướng của chất lỏng. Tác dụng một lực nhỏ lên pit-tông tiết diện nhỏ sẽ sinh ra lực nâng lớn hơn nhiều lần trên pit-tông tiết diện lớn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 16 (Mục I.2): Ứng dụng tính chất truyền áp suất chất lỏng để nâng các vật nặng như ô tô trong trạm sửa chữa.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục I.2), tr. 69; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.1.a), tr. 69; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.1.b), tr. 69
+
+### hydrometer
+- **Tiếng Việt:** Tỉ trọng kế (phù kế)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An instrument for measuring the density of liquids based on Archimedes' principle, consisting of a graduated stem and a weighted bulb that keeps it upright. When floating in equilibrium in a liquid, the liquid's density is read directly on the scale at the liquid surface.
+- **Giải thích (VI):** Dụng cụ đo khối lượng riêng của chất lỏng hoạt động dựa trên định luật Archimedes, gồm thân có thang đo chia độ và phần vật liệu đằm giúp giữ cân bằng thẳng đứng. Khi dụng cụ nổi cân bằng trong chất lỏng, giá trị khối lượng riêng được đọc trực tiếp tại vạch chia tiếp xúc với mặt thoáng chất lỏng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 14 (Mục III.3): Giới thiệu dụng cụ đo nhanh khối lượng riêng chất lỏng trong thực tế bên cạnh phương pháp cân khối lượng và đong thể tích.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B14 (Mục III.3), tr. 62; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B14 (Mục III.3), tr. 62, 63
 
 ### hydrostatics
 - **Tiếng Việt:** Thuỷ tĩnh học
@@ -2582,6 +2891,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tia sáng truyền từ nguồn sáng hoặc vật sáng chiếu trực tiếp vào mặt gương hay bề mặt phản xạ (thường quy ước kí hiệu là $SI$ với $I$ là điểm tới).
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 16 (Mục I): biểu diễn tia chiếu tới mặt gương để xác định điểm tới, mặt phẳng tới và góc tới.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16, tr. 78; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 78; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 78, 79
+
+### increasing and decreasing pressure
+- **Tiếng Việt:** Tăng, giảm áp suất
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The principle of adjusting pressure magnitude on solid surfaces by varying the pressing force $F$ or the contact area $S$ (according to $p = \dfrac{F}{S}$). For a gas in a container, pressure is increased either by adding more gas at a fixed volume or by reducing the container volume for a fixed amount of gas.
+- **Giải thích (VI):** Nguyên tắc điều chỉnh độ lớn áp suất bằng cách thay đổi độ lớn áp lực $F$ hoặc diện tích mặt bị ép $S$ đối với bề mặt chất rắn (dựa theo $p = \dfrac{F}{S}$). Đối với chất khí trong bình chứa, áp suất được làm tăng bằng cách bổ sung thêm khí vào bình có thể tích cố định hoặc giảm thể tích bình chứa một lượng khí nhất định.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 15 (Mục II.3): Giải thích cấu tạo mũi nhọn của đinh, cọc, lưỡi dao (tăng áp suất) và bản xích xe tăng, ván kê bánh xe trên đất lún (giảm áp suất).
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B15 (Mục II.2), tr. 66; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B15 (Mục II.3), tr. 66
 
 ### independence of wave propagation
 - **Tiếng Việt:** Sự độc lập của các sóng
@@ -2783,6 +3100,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 12 (Mục II.1): Hình ảnh giao thoa tổng thể thu được trên màn quan sát trong thí nghiệm Young.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 02, B12 (Mục II.1), tr. 50; SGK Vật lí 11 KNTT, Chương 02, B12 (Mục II.2), tr. 50; SGK Vật lí 11 KNTT, Chương 02, B12 (Mục II.2), tr. 50, 51
 
+### intermolecular and interatomic force
+- **Tiếng Việt:** Lực tương tác phân tử, nguyên tử (lực tương tác phân tử)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The attractive and repulsive forces acting simultaneously between the molecules and atoms constituting an object, giving rise to interaction potential energy that depends on the distance between them.
+- **Giải thích (VI):** Các lực hút và lực đẩy tồn tại đồng thời giữa các phân tử, nguyên tử cấu tạo nên vật, tạo ra thế năng tương tác phụ thuộc vào khoảng cách giữa chúng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 26 (Mục I, III.1.b): tính chất vi mô cơ bản của chất và cơ sở hình thành thế năng phân tử, nguyên tử.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26, tr. 105; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục I), tr. 105; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục I), tr. 105, 106
+
 ### intermolecular force
 - **Tiếng Việt:** Lực liên kết phân tử (lực liên kết)
 - **Chuyên ngành gốc:** Vật lí
@@ -2792,28 +3117,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B1, tr. 6; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục I), tr. 6; SGK Vật lí 12 KNTT, Chương 01, B1 (Mục III.2), tr. 9; SGK Vật lí 12 KNTT, Chương 02, B8 (Mục I.1), tr. 35; SGK Vật lí 12 KNTT, Chương 02, B8 (Mục I.2), tr. 35; SGK Vật lí 12 KNTT, Chương 02, B8 (Mục II), tr. 35
 
 ### intermolecular potential energy
-- **Tiếng Việt:** Thế năng tương tác phân tử (thế năng phân tử)
+- **Tiếng Việt:** Thế năng tương tác phân tử (thế năng phân tử; Thế năng tương tác phân tử, nguyên tử; nguyên tử)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The potential energy possessed by molecules due to their mutual interaction via intermolecular forces, which depends on intermolecular distance and constitutes one component of a body's internal energy.
 - **Giải thích (VI):** Dạng năng lượng mà các phân tử có được do tương tác với nhau bằng lực liên kết phân tử, phụ thuộc vào khoảng cách giữa các phân tử và là một thành phần cấu tạo nên nội năng của vật.
-- **Bối cảnh:** Vật lí lớp 12, Bài 2 (Mục I.1): thành phần năng lượng tương tác cấu tạo nên nội năng của vật.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B2, tr. 10; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục I.1), tr. 10; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục I.2), tr. 11
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The form of energy possessed by molecules and atoms due to their mutual interaction via attractive and repulsive intermolecular and interatomic forces, whose magnitude depends on the distance between them. / VI: Dạng năng lượng mà các phân tử, nguyên tử có được nhờ tương tác với nhau thông qua lực hút và lực đẩy phân tử, nguyên tử, có độ lớn phụ thuộc vào khoảng cách giữa chúng.
+- **Bối cảnh:**
+  - Vật lí lớp 12, Bài 2 (Mục I.1): thành phần năng lượng tương tác cấu tạo nên nội năng của vật.
+  - Khoa học tự nhiên lớp 8, Bài 26 (Mục III.1.b): thành phần thế năng vi mô kết hợp với động năng phân tử, nguyên tử tạo nên nội năng.
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B2, tr. 10; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục I.1), tr. 10; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục I.2), tr. 11; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục III.1.a), tr. 107; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục III.1.b), tr. 107; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục III.2), tr. 107
 
 ### internal combustion engine
 - **Tiếng Việt:** Động cơ đốt trong
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A pivotal motive-power invention of the Second Industrial Revolution that laid the direct foundation for the emergence and growth of automobile and aircraft manufacturing while strongly driving the petroleum extraction industry.
 - **Giải thích (VI):** Phát minh động lực quan trọng trong cuộc Cách mạng công nghiệp lần thứ hai, tạo tiền đề trực tiếp cho sự ra đời và phát triển của ngành chế tạo ô tô, máy bay, đồng thời thúc đẩy mạnh mẽ ngành khai thác dầu mỏ.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 7 (Mục 2.b): Phát minh động lực quan trọng thúc đẩy ngành chế tạo phương tiện giao thông và khai thác dầu mỏ trong Cách mạng công nghiệp lần thứ hai.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 64; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 64, 65
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: A pivotal 19th-century mechanical invention that converts fuel combustion directly into mechanical power to drive machinery. It laid the foundation for the invention and growth of automobiles and airplanes while strongly stimulating the petroleum extraction industry. / VI: Phát minh kĩ thuật cơ khí quan trọng trong thế kỉ XIX biến đổi năng lượng đốt nhiên liệu thành cơ năng vận hành máy móc. Thành tựu này tạo tiền đề cho sự ra đời và phát triển của ô tô, máy bay, đồng thời thúc đẩy mạnh mẽ ngành công nghiệp khai thác dầu mỏ.
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 7 (Mục 2.b): Phát minh động lực quan trọng thúc đẩy ngành chế tạo phương tiện giao thông và khai thác dầu mỏ trong Cách mạng công nghiệp lần thứ hai.
+  - Lịch sử và Địa lí lớp 8, Bài 13 (Mục 1.b): Thành tựu kĩ thuật trọng yếu thế kỉ XIX mở đường cho giao thông vận tải hiện đại.
+  - *Lưu ý:* Trong phân môn Lịch sử lớp 8, động cơ đốt trong được xét theo vai trò cách mạng hoá giao thông vận tải và công nghiệp dầu mỏ thế kỉ XIX.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 64; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 64, 65; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 58
 
 ### internal energy
 - **Tiếng Việt:** Nội năng
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The sum of the molecular kinetic energy and intermolecular potential energy of all molecules constituting a body, denoted by $U$ and measured in joules ($\text{J}$) in the SI system. The internal energy of a body depends on its temperature and volume.
 - **Giải thích (VI):** Tổng động năng và thế năng tương tác của các phân tử cấu tạo nên vật, kí hiệu là $U$ và có đơn vị trong hệ SI là jun ($\text{J}$). Nội năng của một vật phụ thuộc vào nhiệt độ và thể tích của vật đó.
-- **Bối cảnh:** Vật lí lớp 12, Bài 2 (Mục I.1): đại lượng trung tâm khảo sát sự biến đổi năng lượng trong nhiệt động lực học.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B2, tr. 10; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục I.1), tr. 10; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục I.2), tr. 11
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The sum of the kinetic energy and interaction potential energy of all molecules and atoms constituting an object. When an object is heated, its molecules and atoms move faster, causing its internal energy to increase. / VI: Tổng động năng và thế năng tương tác của các phân tử, nguyên tử cấu tạo nên vật. Khi vật nhận nhiệt và nóng lên, các phân tử, nguyên tử chuyển động nhanh hơn làm nội năng của vật tăng.
+- **Bối cảnh:**
+  - Vật lí lớp 12, Bài 2 (Mục I.1): đại lượng trung tâm khảo sát sự biến đổi năng lượng trong nhiệt động lực học.
+  - Khoa học tự nhiên lớp 8, Bài 26 (Mục III.2, III.3): đánh giá sự biến thiên năng lượng bên trong vật khi làm nóng hoặc làm lạnh.
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B2, tr. 10; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục I.1), tr. 10; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục I.2), tr. 11; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục III.1.a), tr. 107; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục III.1.b), tr. 107; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục III.2), tr. 107
 
 ### internal force
 - **Tiếng Việt:** Nội lực
@@ -2928,6 +3263,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phần năng lượng nhiệt $Q$ mà đoạn mạch chỉ có điện trở $R$ (đoạn mạch thuần điện trở) toả ra khi có dòng điện cường độ $I$ chạy qua dưới hiệu điện thế $U$ trong thời gian $t$, xác định bằng công thức $Q = I^2Rt = \frac{U^2}{R}t$.
 - **Bối cảnh:** Vật lí lớp 11, Bài 25 (Mục I): Tính nhiệt lượng toả ra trên các dụng cụ đun nóng và sưởi ấm bằng điện.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B25 (Mục I), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107, 108
+
+### joulemeter
+- **Tiếng Việt:** Joulemeter (Jun kế)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A multifunction digital electrical measuring instrument with an LED display used to measure current, voltage, power, and electrical energy supplied to a circuit via mode-selection, Start, and Reset buttons.
+- **Giải thích (VI):** Thiết bị đo điện đa năng có màn hình hiển thị số (LED), dùng để đo dòng điện, điện áp, công suất và năng lượng điện cung cấp cho mạch điện thông qua các nút cài đặt đại lượng đo, bắt đầu (Start) và đặt lại (Reset).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 1 (Mục III.3.d): Thiết bị đo năng lượng điện và các đại lượng điện cơ bản trong phòng thí nghiệm.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.d), tr. 9; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196
 
 ### Kelvin scale
 - **Tiếng Việt:** Thang nhiệt độ Kelvin (thang nhiệt độ tuyệt đối)
@@ -3122,8 +3465,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A simple machine operating on the principle of moment equilibrium about a fulcrum to modify the direction or magnitude of a force applied to an object. Levers are widely used in daily life and engineering, such as crowbars for lifting heavy loads or carrying poles.
 - **Giải thích (VI):** Loại máy cơ đơn giản hoạt động dựa trên quy tắc cân bằng moment lực quanh một điểm tựa nhằm biến đổi hướng hoặc độ lớn của lực tác dụng lên vật. Đòn bẩy có nhiều ứng dụng thiết thực trong đời sống và kĩ thuật như xà beng nâng vật nặng hoặc đòn gánh.
-- **Bối cảnh:** Vật lí lớp 10, Bài 22 (Mục II.4): Vận dụng quy tắc tổng hợp lực song song và quy tắc moment lực giải thích các loại máy cơ đơn giản.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B22 (Mục II.3), tr. 89; SGK Vật lí 10 KNTT, Chương 03, B22 (Mục II.4), tr. 89
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A simple machine consisting of a rigid bar (or suitably shaped rigid body) capable of rotating about a fixed axis passing through a fulcrum $O$. / VI: Loại máy cơ đơn giản gồm một thanh cứng (hoặc vật cứng có hình dạng phù hợp) có thể quay quanh một trục xác định đi qua điểm tựa $O$.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 22 (Mục II.4): Vận dụng quy tắc tổng hợp lực song song và quy tắc moment lực giải thích các loại máy cơ đơn giản.
+  - Khoa học tự nhiên lớp 8, Bài 19 (Mục I, II, III): Khái niệm nền tảng để phân loại đòn bẩy và phân tích các công cụ cơ học, bộ phận cơ thể người, xe đạp.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B22 (Mục II.3), tr. 89; SGK Vật lí 10 KNTT, Chương 03, B22 (Mục II.4), tr. 89; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195, 196; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục I), tr. 79
+
+### lever arm
+- **Tiếng Việt:** Cánh tay đòn
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The perpendicular distance from the fulcrum $O$ to the line of action of a force acting on a lever.
+- **Giải thích (VI):** Khoảng cách từ điểm tựa $O$ đến giá của lực tác dụng lên đòn bẩy.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 19 (Mục I): Xác định cánh tay đòn của từng lực để xét trạng thái cân bằng và độ lợi về lực của đòn bẩy.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19, tr. 79; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục I), tr. 79; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục I), tr. 79, 80
 
 ### lift force
 - **Tiếng Việt:** Lực nâng
@@ -3162,6 +3516,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 15 (Mục II.2, II.3): vẽ sơ đồ đường truyền ánh sáng để giải thích sự tạo thành vùng tối và sự phản xạ ánh sáng.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B15 (Mục II.1), tr. 74; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B15 (Mục II.2), tr. 74; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B15 (Mục II.3), tr. 74; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B15 (Mục III.2), tr. 77
 
+### light-emitting diode
+- **Tiếng Việt:** Đèn điôt phát quang (LED; Đèn LED; điốt phát quang)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An electronic component that emits light when forward-biased electric current flows through it, requiring its positive terminal ($+$) and negative terminal ($-$) to connect to the corresponding terminals of the power source. In experimental circuits, it must be connected in series with a suitable protective resistor to prevent damage.
+- **Giải thích (VI):** Linh kiện điện tử phát sáng khi có dòng điện chạy qua theo chiều thuận, với cực dương ($+$) nối vào cực dương và cực âm ($-$) nối vào cực âm của nguồn điện. Khi lắp mạch thí nghiệm, cần mắc nối tiếp đèn với một điện trở có giá trị thích hợp để bảo vệ đèn không bị hỏng.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A semiconductor diode component that emits light only when electric current passes through it in the forward direction from its positive terminal to its negative terminal. It is highly energy-efficient due to negligible heat loss and has a very long lifespan (up to $100\ 000$ hours). / VI: Linh kiện điốt phát quang chỉ phát sáng khi cho dòng điện chạy qua đúng chiều từ cực dương sang cực âm của đèn. Đèn rất tiết kiệm điện năng do nhiệt lượng toả ra không đáng kể và có tuổi thọ cao (lên đến $100\ 000$ giờ).
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 1 (Mục III.3.e): Thiết bị tiêu thụ và chỉ thị dòng điện một chiều trong các thí nghiệm điện.
+  - Khoa học tự nhiên lớp 8, Bài 23 (Mục II): khảo sát tính dẫn điện một chiều của đèn LED và ứng dụng chiếu sáng tiết kiệm điện, y học.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.e), tr. 10; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục II), tr. 96; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục III), tr. 96, 97; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục IV), tr. 98
+
 ### light-year
 - **Tiếng Việt:** Năm ánh sáng (ly)
 - **Chuyên ngành gốc:** Vật lí
@@ -3170,13 +3535,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 55 (Mục I, II): dùng để biểu diễn kích thước của Ngân Hà và khoảng cách từ hệ Mặt Trời đến tâm Ngân Hà, lưu ý đây là đơn vị đo khoảng cách chứ không phải đơn vị thời gian.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B55, tr. 190; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B55 (Mục I), tr. 190; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B55 (Mục I), tr. 190, 191
 
+### lighting effect of electric current
+- **Tiếng Việt:** Tác dụng phát sáng của dòng điện (tác dụng phát sáng)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The ability of an electric current to cause electric lamps to emit light when passing through them.
+- **Giải thích (VI):** Khả năng của dòng điện làm cho các loại đèn điện phát ra ánh sáng khi chạy qua chúng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 23 (Mục II): khảo sát sự phát sáng của đèn điện và ứng dụng chiếu sáng trong đời sống.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục II), tr. 95; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục II), tr. 96; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục IV), tr. 98
+
 ### lightning
 - **Tiếng Việt:** Sét
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A natural atmospheric electrical discharge occurring during thunderstorms when oppositely charged clouds generate strong electric fields and approach each other.
 - **Giải thích (VI):** Hiện tượng phóng điện tự nhiên trong khí quyển xảy ra trong cơn dông khi các đám mây nhiễm điện trái dấu tạo nên vùng điện trường mạnh và tiến lại gần nhau.
-- **Bối cảnh:** Vật lí lớp 11, Bài 17 (Mục II): Minh hoạ hiện tượng phóng điện trong vùng điện trường mạnh của khí quyển.
-- **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B17 (Mục II), tr. 67; SGK Vật lí 11 KNTT, Chương 03, B17 (Mục II), tr. 67, 68
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A natural electrical spark discharge accompanied by a brilliant flash of light that occurs when oppositely charged thunderclouds approach each other. / VI: Hiện tượng phóng tia lửa điện kèm theo ánh sáng chói loà xảy ra trong tự nhiên khi các đám mây dông tích điện trái dấu tiến lại gần nhau.
+- **Bối cảnh:**
+  - Vật lí lớp 11, Bài 17 (Mục II): Minh hoạ hiện tượng phóng điện trong vùng điện trường mạnh của khí quyển.
+  - Khoa học tự nhiên lớp 8, Bài 20 (Mục II): hiện tượng phóng điện trong khí quyển lúc mưa dông và các biện pháp phòng tránh sét đánh.
+- **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B17 (Mục II), tr. 67; SGK Vật lí 11 KNTT, Chương 03, B17 (Mục II), tr. 67, 68; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B20 (Mục II), tr. 86; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B20 (Mục II), tr. 86, 87
 
 ### line of action and sense of force
 - **Tiếng Việt:** Phương và chiều của lực
@@ -3185,6 +3561,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hai đặc trưng xác định hướng tác dụng trong không gian của lực, gồm đường thẳng mà lực tác dụng theo đó (phương, như nằm ngang hoặc thẳng đứng) và hướng cụ thể dọc theo phương đó (chiều, như từ trái sang phải hoặc từ trên xuống dưới).
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 41 (Mục I.3): phân biệt hai lực cùng phương cùng chiều với hai lực cùng phương ngược chiều như trong trò chơi kéo co.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.2), tr. 148; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.3), tr. 148; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.3), tr. 148, 149
+
+### line of action of a force
+- **Tiếng Việt:** Giá của lực
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The straight line containing the arrow vector that represents a force acting on an object.
+- **Giải thích (VI):** Đường thẳng chứa mũi tên biểu diễn lực tác dụng lên vật.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 18 (Mục I) và Bài 19 (Mục I): Xét vị trí tương đối với trục quay để xác định điều kiện làm quay vật và đo cánh tay đòn của lực.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 04, B18 (Mục I), tr. 77; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B18 (Mục II), tr. 77, 78; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B18 (Mục II), tr. 78
 
 ### linear displacement
 - **Tiếng Việt:** Li độ dài
@@ -3207,8 +3591,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The pressure acting in all directions at a point at depth $h$ below the free surface of a static liquid of density $\rho$, equal to the sum of the atmospheric pressure $p_a$ on the free surface and the liquid column pressure $\rho \cdot g \cdot h$, given by $p = p_a + \rho \cdot g \cdot h$.
 - **Giải thích (VI):** Áp suất tác dụng theo mọi hướng tại một điểm ở độ sâu $h$ so với mặt thoáng của chất lỏng đứng yên có khối lượng riêng $\rho$, bằng tổng áp suất khí quyển $p_a$ trên mặt thoáng và áp suất cột chất lỏng $\rho \cdot g \cdot h$ theo công thức $p = p_a + \rho \cdot g \cdot h$.
-- **Bối cảnh:** Vật lí lớp 10, Bài 34 (Mục III.1, III.2): Tính áp suất tổng cộng tác dụng lên đáy bình, thành bình hoặc vật nhúng chìm ở độ sâu $h$ trong chất lỏng đứng yên.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 07, B34, tr. 131; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục III.1), tr. 133; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục III.2), tr. 133; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục III.3), tr. 135
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The pressure exerted in all directions by a liquid on container walls, the bottom, and any object submerged within it. Within the same liquid, liquid pressure remains constant at all points at the same depth and increases with greater depth. / VI: Áp suất do chất lỏng tác dụng theo mọi phương lên thành bình, đáy bình và mọi vật đặt trong lòng nó. Trong cùng một chất lỏng, áp suất không đổi tại các vị trí có cùng độ sâu và càng tăng khi độ sâu càng lớn.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 34 (Mục III.1, III.2): Tính áp suất tổng cộng tác dụng lên đáy bình, thành bình hoặc vật nhúng chìm ở độ sâu $h$ trong chất lỏng đứng yên.
+  - Khoa học tự nhiên lớp 8, Bài 16 (Mục I.1): Phân biệt tính chất tác dụng theo mọi phương của áp suất chất lỏng với áp suất của vật rắn chỉ tác dụng theo phương của áp lực.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 07, B34, tr. 131; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục III.1), tr. 133; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục III.2), tr. 133; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục III.3), tr. 135; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục I.1), tr. 68; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục I.2), tr. 68; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2.b), tr. 72
 
 ### liquid state
 - **Tiếng Việt:** Thể lỏng
@@ -3682,6 +4069,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 1 (Mục IV.2): Phương pháp nghiên cứu phổ biến song hành cùng phương pháp thực nghiệm trong Vật lí.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B1 (Mục IV.2), tr. 11
 
+### molecular and atomic kinetic energy
+- **Tiếng Việt:** Động năng của phân tử, nguyên tử
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The form of energy possessed by molecules and atoms due to their ceaseless random motion, whose magnitude is greater when the particles move faster.
+- **Giải thích (VI):** Dạng năng lượng mà các phân tử, nguyên tử có được do chuyển động hỗn loạn không ngừng, có độ lớn càng cao khi các hạt chuyển động càng nhanh.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 26 (Mục III.1.a): một trong hai thành phần năng lượng vi mô cấu thành nội năng của vật.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục III.1.a), tr. 107; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục III.1.b), tr. 107; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục III.2), tr. 107
+
 ### molecular kinetic energy
 - **Tiếng Việt:** Động năng phân tử
 - **Chuyên ngành gốc:** Vật lí
@@ -3733,8 +4128,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A physical quantity characterizing the rotational effect of a force about an axis of rotation, defined as the product of the force magnitude $F$ and its moment arm $d$ according to $M = F \cdot d$. In the SI system, the unit of moment of force is the newton-meter ($\text{N}\cdot\text{m}$).
 - **Giải thích (VI):** Đại lượng vật lí đặc trưng cho tác dụng làm quay của lực đối với một trục quay, xác định bằng tích giữa độ lớn của lực $F$ và cánh tay đòn $d$ của nó theo công thức $M = F \cdot d$. Trong hệ SI, đơn vị của moment lực là niutơn mét ($\text{N}\cdot\text{m}$).
-- **Bối cảnh:** Vật lí lớp 10, Bài 21 (Mục I.2): Định lượng tác dụng làm quay vật rắn quanh một trục của một lực.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B21, tr. 83; SGK Vật lí 10 KNTT, Chương 03, B21 (Mục I.1), tr. 83; SGK Vật lí 10 KNTT, Chương 03, B21 (Mục I.2), tr. 83
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A physical quantity characterizing the turning effect of a force acting on an object about a fixed point or axis. The moment of a force increases as the magnitude of the force increases and as the distance from the rotation axis to the line of action increases. / VI: Đại lượng vật lí đặc trưng cho tác dụng làm quay của lực lên một vật quanh một điểm hoặc một trục cố định. Moment lực càng lớn khi độ lớn của lực càng lớn và khoảng cách từ trục quay đến giá của lực càng lớn.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 21 (Mục I.2): Định lượng tác dụng làm quay vật rắn quanh một trục của một lực.
+  - Khoa học tự nhiên lớp 8, Bài 18 (Mục II): So sánh định tính mức độ làm quay vật của các lực có độ lớn hoặc vị trí đặt lực khác nhau.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B21, tr. 83; SGK Vật lí 10 KNTT, Chương 03, B21 (Mục I.1), tr. 83; SGK Vật lí 10 KNTT, Chương 03, B21 (Mục I.2), tr. 83; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B18 (Mục II), tr. 78; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196
 
 ### momentum
 - **Tiếng Việt:** Động lượng
@@ -3767,6 +4165,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Thiết bị đo điện tích hợp các chức năng chính gồm đo điện trở, đo hiệu điện thế và đo cường độ dòng điện xoay chiều (AC) hoặc một chiều (DC). Khi sử dụng, người đo phải chọn đúng chức năng, thang đo phù hợp và cắm dây đo vào chốt cắm tương ứng với đại lượng cần đo.
 - **Bối cảnh:** Vật lí lớp 10, Bài 2 (Mục II.2): Thiết bị đo điện thông dụng cần tuân thủ quy tắc chọn thang đo và chốt cắm trong phòng thực hành.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B2 (Mục II.1), tr. 14; SGK Vật lí 10 KNTT, Chương 01, B2 (Mục II.2), tr. 14; SGK Vật lí 10 KNTT, Chương 01, B2 (Mục II.2), tr. 14, 15
+
+### musculoskeletal lever
+- **Tiếng Việt:** Đòn bẩy trong cơ thể người
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A system of bones, joints, and muscles in the human body operating as a mechanical lever, where the joint acts as the fulcrum and muscle contraction provides the effort force. Classic examples include the head pivoting on the top cervical vertebra via posterior neck muscles (first-class lever) and the forearm lifting a weight about the elbow joint via the biceps muscle (lever without force advantage, or third-class lever).
+- **Giải thích (VI):** Hệ thống xương, khớp và cơ trong cơ thể người phối hợp hoạt động theo nguyên lí đòn bẩy, trong đó khớp xương đóng vai trò điểm tựa và lực co cơ đóng vai trò lực tác dụng. Ví dụ điển hình là hộp sọ quay quanh đốt sống cổ trên cùng nhờ cơ sau gáy (đòn bẩy loại 1) và cẳng tay nâng vật quanh khớp khuỷu tay nhờ cơ bắp tay (đòn bẩy loại 2 không cho lợi về lực).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 19 (Mục III.2): Vận dụng kiến thức đòn bẩy để giải thích cử động cơ xương khớp và đề xuất tư thế ngồi học đúng tránh mỏi cổ.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục III.2), tr. 82; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục III.3), tr. 82, 83
 
 ### nanotechnology
 - **Tiếng Việt:** Công nghệ na-nô
@@ -3825,8 +4231,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** One of the two opposite types of electric charge in nature, having an algebraic value $q < 0$ and conventionally defined as the type of charge acquired by a plastic rod rubbed with cloth (or wool). Two negative charges repel each other, whereas a negative charge attracts a positive charge.
 - **Giải thích (VI):** Một trong hai loại điện tích trái dấu trong tự nhiên, có giá trị đại số $q < 0$, theo quy ước là loại điện tích xuất hiện trên thanh nhựa khi cọ xát vào vải (hoặc len). Hai điện tích âm đặt gần nhau thì đẩy nhau, và điện tích âm hút điện tích dương.
-- **Bối cảnh:** Vật lí lớp 11, Bài 16 (Mục I): Quy ước dấu điện tích để xác định chiều lực hút hoặc lực đẩy tĩnh điện giữa các vật nhiễm điện.
-- **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B16, tr. 61; SGK Vật lí 11 KNTT, Chương 03, B16 (Mục I), tr. 61; SGK Vật lí 11 KNTT, Chương 03, B16 (Mục I), tr. 61, 62
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The type of electric charge (symbol $-$) conventionally appearing on a plastic rod after being rubbed with woollen cloth, formed when an object gains extra electrons. A negative charge repels another negative charge and attracts a positive charge ($+$). / VI: Loại điện tích (kí hiệu $-$) theo quy ước xuất hiện trên đũa nhựa sau khi cọ xát vào mảnh vải len, hình thành khi vật nhận thêm electron. Điện tích âm đẩy điện tích âm và hút điện tích dương ($+$).
+- **Bối cảnh:**
+  - Vật lí lớp 11, Bài 16 (Mục I): Quy ước dấu điện tích để xác định chiều lực hút hoặc lực đẩy tĩnh điện giữa các vật nhiễm điện.
+  - Khoa học tự nhiên lớp 8, Bài 20 (Mục I, II): quy ước dấu điện tích và giải thích sự nhiễm điện âm khi vật nhận thêm electron.
+- **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B16, tr. 61; SGK Vật lí 11 KNTT, Chương 03, B16 (Mục I), tr. 61; SGK Vật lí 11 KNTT, Chương 03, B16 (Mục I), tr. 61, 62; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B20 (Mục I), tr. 85
 
 ### negative temperature
 - **Tiếng Việt:** Nhiệt độ âm
@@ -4237,6 +4646,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Cần phân biệt với hai lực trực đối (cặp lực và phản lực): hai lực cân bằng cùng đặt lên một vật nên triệt tiêu tác dụng của nhau, còn hai lực trực đối đặt lên hai vật khác nhau nên không cân bằng nhau.
 - **Nguồn:** SGK Vật lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 137; SGK Vật lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 137, 138
 
+### parallel connection
+- **Tiếng Việt:** Mắc song song (cách mắc song song)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A method of connecting electrical components across separate branches sharing the same two terminal nodes in a circuit. When measuring voltage, a voltmeter must be connected in parallel across the two terminals of the power source or target device, with its positive terminal ($+$) toward the positive side and negative terminal ($-$) toward the negative side.
+- **Giải thích (VI):** Cách kết nối các dụng cụ điện trên những nhánh rẽ riêng biệt có chung hai điểm đầu và cuối trong mạch điện. Khi đo hiệu điện thế, vôn kế phải mắc song song với hai cực nguồn điện hoặc hai đầu thiết bị cần đo, chốt dương ($+$) nối về phía cực dương và chốt âm ($-$) nối về phía cực âm.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 25 (Mục II.2): quy tắc mắc vôn kế để đo hiệu điện thế và phân biệt với cách mắc nối tiếp.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B25 (Mục II.2), tr. 104
+
 ### parallel-plate capacitor
 - **Tiếng Việt:** Tụ điện phẳng
 - **Chuyên ngành gốc:** Vật lí
@@ -4429,6 +4846,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Khoa học tự nhiên lớp 6, Bài 1 (Mục III): phân loại các hiện tượng về tương tác nam châm và truyền ánh sáng trong Bảng 1.1.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B1, tr. 7; SGK Vật lí 10 KNTT, Chương 01, B1 (Mục I), tr. 7; SGK Vật lí 10 KNTT, Chương 01, B1 (Mục II), tr. 7; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục III), tr. 8; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục IV), tr. 10
 
+### physiological effect of electric current
+- **Tiếng Việt:** Tác dụng sinh lí của dòng điện (tác dụng sinh lí)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phenomenon in which an electric current passing through a human or animal body causes muscle contractions and, if sufficiently strong, can lead to nerve paralysis, asphyxiation, or cardiac arrest.
+- **Giải thích (VI):** Hiện tượng dòng điện truyền qua cơ thể người hoặc động vật gây kích thích làm co giật cơ, và ở mức độ mạnh có thể gây tê liệt thần kinh, ngạt thở hoặc làm tim ngừng đập.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 23 (Mục IV): cảnh báo nguy cơ tai nạn điện giật và giải thích các quy tắc an toàn khi sử dụng điện.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục III), tr. 97; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục IV), tr. 97; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục IV), tr. 97, 98
+
 ### pitch
 - **Tiếng Việt:** Độ cao của âm
 - **Chuyên ngành gốc:** Vật lí
@@ -4532,8 +4957,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** One of the two opposite types of electric charge in nature, having an algebraic value $q > 0$ and conventionally defined as the type of charge acquired by a glass rod rubbed with wool (or silk). Two positive charges repel each other, whereas a positive charge attracts a negative charge.
 - **Giải thích (VI):** Một trong hai loại điện tích trái dấu trong tự nhiên, có giá trị đại số $q > 0$, theo quy ước là loại điện tích xuất hiện trên thanh thuỷ tinh khi cọ xát vào len (hoặc lụa). Hai điện tích dương đặt gần nhau thì đẩy nhau, và điện tích dương hút điện tích âm.
-- **Bối cảnh:** Vật lí lớp 11, Bài 16 (Mục I): Quy ước dấu điện tích để xác định chiều lực hút hoặc lực đẩy tĩnh điện giữa các vật nhiễm điện.
-- **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B16, tr. 61; SGK Vật lí 11 KNTT, Chương 03, B16 (Mục I), tr. 61; SGK Vật lí 11 KNTT, Chương 03, B16 (Mục I), tr. 61, 62
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The type of electric charge denoted by a plus sign ($+$), conventionally defined as the charge appearing on a glass rod after being rubbed with silk. At the atomic level, an electrically neutral object acquires a positive charge when it loses electrons. / VI: Loại điện tích kí hiệu bằng dấu ($+$), theo quy ước xuất hiện trên đũa thuỷ tinh sau khi cọ xát vào mảnh vải lụa. Về mặt cấu tạo nguyên tử, một vật trung hoà về điện khi mất bớt electron sẽ mang điện tích dương.
+- **Bối cảnh:**
+  - Vật lí lớp 11, Bài 16 (Mục I): Quy ước dấu điện tích để xác định chiều lực hút hoặc lực đẩy tĩnh điện giữa các vật nhiễm điện.
+  - Khoa học tự nhiên lớp 8, Bài 20 (Mục I, II): Quy ước dấu điện tích và giải thích sự nhiễm điện dương dựa trên sự dịch chuyển electron khi cọ xát.
+- **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B16, tr. 61; SGK Vật lí 11 KNTT, Chương 03, B16 (Mục I), tr. 61; SGK Vật lí 11 KNTT, Chương 03, B16 (Mục I), tr. 61, 62; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B20 (Mục I), tr. 85
 
 ### positive terminal
 - **Tiếng Việt:** Cực dương
@@ -4611,18 +5039,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The force $\vec{F}_N$ pressing against a surface in a direction perpendicular to the contact surface (for example, an object of weight $P$ resting on a plane inclined at angle $\alpha$ exerts a pressing force of magnitude $F_N = P \cdot \cos\alpha$).
 - **Giải thích (VI):** Lực ép $\vec{F}_N$ tác dụng lên mặt bị ép theo phương vuông góc với bề mặt tiếp xúc (ví dụ vật trọng lượng $P$ đặt trên mặt phẳng nghiêng góc $\alpha$ gây ra áp lực có độ lớn $F_N = P \cdot \cos\alpha$).
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A pressing force whose direction is perpendicular to the surface being pressed. / VI: Lực ép có phương vuông góc với bề mặt bị ép.
 - **Bối cảnh:**
   - Vật lí lớp 10, Bài 34 (Mục II.1): Xác định thành phần lực vuông góc với mặt bị ép để tính áp suất tác dụng lên bề mặt.
+  - Khoa học tự nhiên lớp 8, Bài 15 (Mục I): Nhận diện áp lực trong thực tế và phân biệt với lực kéo hoặc các lực tác dụng xiên góc lên bề mặt.
   - *Lưu ý:* Trong Vật lí, 'áp lực' là lực ép vuông góc lên mặt bị ép (đơn vị N), cần phân biệt với 'áp suất' (pressure, bằng áp lực chia diện tích bị ép, đơn vị Pa) vốn thường bị gọi nhầm là áp lực trong đời sống.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 07, B34, tr. 131; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục I), tr. 131; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục II.1.a), tr. 131; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục II.1.b), tr. 132
+  - *Lưu ý:* Trong KHTN 8, áp lực chỉ lực ép có phương vuông góc tác dụng lên mặt bị ép, cần phân biệt với phản lực pháp tuyến do mặt tựa tác dụng ngược lại lên vật trong cơ học THPT.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 07, B34, tr. 131; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục I), tr. 131; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục II.1.a), tr. 131; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục II.1.b), tr. 132; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B15, tr. 64; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B15 (Mục I), tr. 64; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B15 (Mục II.1), tr. 65
 
 ### pressure
 - **Tiếng Việt:** Áp suất
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A physical quantity characterizing the effect of a pressing force on a surface, equal in magnitude to the ratio of the perpendicular pressing force $F_N$ to the pressed surface area $S$, given by $p = \frac{F_N}{S}$.
 - **Giải thích (VI):** Đại lượng vật lí đặc trưng cho mức độ tác dụng của áp lực lên mặt bị ép, có độ lớn bằng thương số giữa độ lớn áp lực $F_N$ vuông góc với mặt bị ép và diện tích mặt bị ép $S$ theo công thức $p = \frac{F_N}{S}$.
-- **Bối cảnh:** Vật lí lớp 10, Bài 34 (Mục II.2): Đánh giá tác dụng của áp lực lên một đơn vị diện tích mặt bị ép.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 07, B34, tr. 131; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục I), tr. 131; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục II.1.b), tr. 132; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục II.2), tr. 132
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A physical quantity characterizing the effect of a pressing force on a surface, defined as the magnitude of the perpendicular force $F$ per unit pressed area $S$ according to the formula $p = \dfrac{F}{S}$. / VI: Đại lượng vật lí đặc trưng cho tác dụng của áp lực lên mặt bị ép, xác định bằng độ lớn của áp lực $F$ trên một đơn vị diện tích bị ép $S$ theo công thức $p = \dfrac{F}{S}$.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 34 (Mục II.2): Đánh giá tác dụng của áp lực lên một đơn vị diện tích mặt bị ép.
+  - Khoa học tự nhiên lớp 8, Bài 15 (Mục II.2): Giải thích mức độ biến dạng (độ lún) của mặt bị ép phụ thuộc đồng thời vào độ lớn áp lực và diện tích tiếp xúc.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 07, B34, tr. 131; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục I), tr. 131; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục II.1.b), tr. 132; SGK Vật lí 10 KNTT, Chương 07, B34 (Mục II.2), tr. 132; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B15 (Mục II.1), tr. 65; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B15 (Mục II.2), tr. 65; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B15 (Mục II.2), tr. 65, 66
+
+### pressure sprayer
+- **Tiếng Việt:** Bình xịt nước (bình xịt)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A liquid-spraying device that operates by compressing air to increase pressure inside a sealed container. Pumping compressed air into the bottle raises the internal air pressure, forcing water up the dip tube and out through the nozzle when the valve is opened.
+- **Giải thích (VI):** Dụng cụ phun chất lỏng hoạt động nhờ nén không khí để làm tăng áp suất bên trong bình chứa kín. Khi bơm nén không khí vào bình, áp suất khí tăng cao tạo áp lực đẩy nước qua ống dẫn thoát ra ngoài vòi phun ngay khi mở van.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 16 (Mục II.2.b): Ứng dụng tăng áp suất không khí nén trong đời sống và nông nghiệp (tưới cây, phun thuốc).
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2.a), tr. 71; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2.b), tr. 71; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2.b), tr. 71, 72
 
 ### primary coil
 - **Tiếng Việt:** Cuộn sơ cấp
@@ -4995,6 +5437,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Chỉ năng lượng toàn phần tương đối tính $E = mc^2$ của vật chuyển động trong vật lí hạt nhân và thuyết tương đối, phân biệt với cơ năng toàn phần trong cơ học cổ điển.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B22 (Mục II.2), tr. 99; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục II.3), tr. 99; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục II.3), tr. 99, 100
 
+### relay
+- **Tiếng Việt:** Rơle (relay)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An electrical device connected in a circuit to automatically open or close contacts, commonly used in automatic control circuits to switch large currents and protect the system.
+- **Giải thích (VI):** Thiết bị điện mắc trong mạch có tác dụng tự động đóng hoặc ngắt mạch điện, thường dùng trong các mạch điều khiển tự động để đóng, ngắt những dòng điện lớn và bảo vệ mạch.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 22 (Mục II): thiết bị đóng ngắt tự động và bảo vệ trong các mạch điều khiển điện.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục I), tr. 93; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục II), tr. 93; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục II), tr. 93, 94
+
 ### renewable energy
 - **Tiếng Việt:** Năng lượng tái tạo (nguồn năng lượng tái tạo)
 - **Chuyên ngành gốc:** Vật lí
@@ -5157,6 +5607,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 7 (Mục I): sử dụng làm đơn vị chuẩn để đo và quy đổi khoảng thời gian trong thí nghiệm và thể thao.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B7, tr. 22; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B7 (Mục I), tr. 22; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B7 (Mục II), tr. 22
 
+### second-class lever
+- **Tiếng Việt:** Đòn bẩy loại 2
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A class of lever in which the fulcrum $O$ lies outside the interval between the application points $O_1$ and $O_2$ of the two forces, with the applied effort $F_2$ positioned farther from the fulcrum $O$ than the load force $F_1$, thereby providing a mechanical advantage in force (such as a wheelbarrow, bottle opener, or nutcracker).
+- **Giải thích (VI):** Loại đòn bẩy có điểm tựa $O$ nằm ngoài khoảng giữa hai điểm đặt $O_1$, $O_2$ của hai lực, trong đó lực tác dụng $F_2$ nằm xa điểm tựa $O$ hơn lực $F_1$ nên luôn cho lợi về lực (như xe cút kít, dụng cụ mở nắp chai, kẹp làm vỡ vỏ hạt).
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 19 (Mục II): Phân biệt trường hợp cho lợi về lực ($F_2$ xa điểm tựa hơn $F_1$) với trường hợp không cho lợi về lực ($F_2$ gần điểm tựa hơn $F_1$).
+  - *Lưu ý:* SGK KHTN 8 KNTT chia đòn bẩy có điểm tựa nằm ngoài khoảng giữa hai lực thành hai trường hợp: đòn bẩy loại 2 cho lợi về lực (tương ứng second-class lever quốc tế) và đòn bẩy loại 2 không cho lợi về lực (còn nêu tên đòn bẩy loại 3, tương ứng third-class lever quốc tế).
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục I), tr. 80; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục II), tr. 80; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục II), tr. 80, 81
+
 ### secondary coil
 - **Tiếng Việt:** Cuộn thứ cấp
 - **Chuyên ngành gốc:** Vật lí
@@ -5180,6 +5640,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Thiết bị có khả năng phát hiện và thu nhận các tín hiệu, biến đổi từ môi trường xung quanh thành dữ liệu để các hệ thống thông minh như nhà thông minh hay mạng IoT tự động theo dõi và điều khiển thiết bị.
 - **Bối cảnh:** Tin học lớp 10, Bài 8 (Mục 4): Vai trò thu thập dữ liệu và kích hoạt tự động của cảm biến trong nhà thông minh và hệ thống IoT.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B8 (Mục 4), tr. 43
+
+### series connection
+- **Tiếng Việt:** Mắc nối tiếp (cách mắc nối tiếp)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A method of connecting electrical components end-to-end along a single circuit path so that the same electric current passes sequentially through each component. When measuring current, an ammeter must be connected in series with the target component such that current enters its positive terminal ($+$) and exits its negative terminal ($-$).
+- **Giải thích (VI):** Cách kết nối các dụng cụ điện liên tiếp nhau trên cùng một nhánh mạch để cùng một dòng điện lần lượt đi qua từng dụng cụ. Khi đo cường độ dòng điện, ampe kế phải mắc nối tiếp với dụng cụ cần đo sao cho dòng điện đi vào chốt dương ($+$) và đi ra từ chốt âm ($-$).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 25 (Mục II.2): quy tắc mắc ampe kế để đo cường độ dòng điện và phân biệt với cách mắc song song.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B25 (Mục II.2), tr. 104
 
 ### short circuit
 - **Tiếng Việt:** Hiện tượng đoản mạch (ngắn mạch)
@@ -5375,10 +5843,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A material-specific physical quantity equal to the heat required to raise the temperature of $1\text{ kg}$ of a substance by $1\text{ }^\circ\text{C}$ (or $1\text{ K}$). Denoted by $c$ and measured in $\text{J/(kg}\cdot\text{K)}$, it determines the heat exchanged during a temperature change via $Q = mc\Delta T$.
 - **Giải thích (VI):** Đại lượng đặc trưng cho bản chất của chất, có giá trị bằng nhiệt lượng cần truyền cho $1\text{ kg}$ chất đó để nhiệt độ của nó tăng thêm $1\text{ }^\circ\text{C}$ (hay $1\text{ K}$). Nhiệt dung riêng kí hiệu là $c$, đơn vị là $\text{J/(kg}\cdot\text{K)}$, dùng để tính nhiệt lượng làm thay đổi nhiệt độ của vật theo hệ thức $Q = mc\Delta T$.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A characteristic physical quantity of a substance (symbol $c$, in $\text{J/kg.K}$) in the heat formula $Q = mc(t_2 - t_1)$ when an object of mass $m\text{ (kg)}$ changes temperature from $t_1$ to $t_2$. For water, the specific heat capacity is $4180\text{ J/kg.K}$ and was first measured by James Prescott Joule. / VI: Đại lượng vật lí (kí hiệu $c$, đơn vị $\text{J/kg.K}$) đặc trưng cho chất trong công thức tính nhiệt lượng $Q = mc(t_2 - t_1)$ khi vật có khối lượng $m\text{ (kg)}$ thay đổi nhiệt độ từ $t_1$ đến $t_2$. Đối với nước, nhiệt dung riêng có giá trị bằng $4180\text{ J/kg.K}$ và được James Prescott Joule đo lần đầu tiên.
 - **Bối cảnh:**
   - Vật lí lớp 12, Bài 4 (Mục I.1, I.2): tính nhiệt lượng làm thay đổi nhiệt độ và ứng dụng trong thiết kế hệ thống làm mát, sưởi ấm.
+  - Khoa học tự nhiên lớp 8, Bài 27 (Mục II): hệ số tính toán nhiệt lượng cần cung cấp để đun nóng nước trong thí nghiệm.
   - *Lưu ý:* Không nhầm với 'Nhiệt dung đặc trưng' (`specific heat capacity (chemistry)`) trong Hóa học.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B4, tr. 20; SGK Vật lí 12 KNTT, Chương 01, B4 (Mục I.1), tr. 20; SGK Vật lí 12 KNTT, Chương 01, B4 (Mục I.2), tr. 20, 21
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B4, tr. 20; SGK Vật lí 12 KNTT, Chương 01, B4 (Mục I.1), tr. 20; SGK Vật lí 12 KNTT, Chương 01, B4 (Mục I.2), tr. 20, 21; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B27 (Mục II), tr. 111
 
 ### specific latent heat
 - **Tiếng Việt:** Ẩn nhiệt riêng
@@ -5403,6 +5873,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nhiệt lượng cần cung cấp để làm cho $1\text{ kg}$ một chất lỏng hoá hơi hoàn toàn ở một nhiệt độ xác định. Đại lượng này kí hiệu là $L$, có đơn vị $\text{J/kg}$ và xác định bởi công thức $L = \frac{Q}{m}$ (hay $Q = Lm$).
 - **Bối cảnh:** Vật lí lớp 12, Bài 6 (Mục I.1, I.2): tính nhiệt lượng trong quá trình chất lỏng hoá hơi ở nhiệt độ không đổi và thực hành đo nhiệt hoá hơi riêng của nước.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B6, tr. 27; SGK Vật lí 12 KNTT, Chương 01, B6 (Mục I.1), tr. 27; SGK Vật lí 12 KNTT, Chương 01, B6 (Mục I.2), tr. 27
+
+### specific weight
+- **Tiếng Việt:** Trọng lượng riêng
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A physical quantity representing the weight of one cubic meter of a substance, defined by the formula $d = \dfrac{P}{V}$, where $P$ is weight ($\text{N}$), $V$ is volume ($\text{m}^3$), and $d$ is measured in $\text{N/m}^3$.
+- **Giải thích (VI):** Đại lượng vật lí biểu thị trọng lượng của một mét khối một chất, xác định bằng công thức $d = \dfrac{P}{V}$, trong đó $P$ là trọng lượng ($\text{N}$), $V$ là thể tích ($\text{m}^3$) và $d$ có đơn vị là $\text{N/m}^3$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 13 (Mục II) và Bài 17 (Mục II.2): Phân biệt với khối lượng riêng và dùng trong công thức tính độ lớn lực đẩy Archimedes.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B13 (Mục II), tr. 58; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B17 (Mục II.2), tr. 75
 
 ### specular reflection
 - **Tiếng Việt:** Phản xạ gương (phản xạ; hiện tượng phản xạ)
@@ -5605,6 +6083,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 10 (Mục II.2.b): phương pháp thực nghiệm kiểm chứng quy luật quãng đường trong sự rơi tự do và phân tích chuyển động ném.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 02, B10 (Mục II.1), tr. 45; SGK Vật lí 10 KNTT, Chương 02, B10 (Mục II.2.a), tr. 45; SGK Vật lí 10 KNTT, Chương 02, B10 (Mục II.2.b), tr. 45
 
+### suction cup
+- **Tiếng Việt:** Giác mút
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A cup-shaped elastic device that adheres firmly to smooth flat surfaces through air pressure differentials. When pressed against a surface and released, its elasticity expands the internal cavity volume, reducing the internal air pressure below the external atmospheric pressure.
+- **Giải thích (VI):** Dụng cụ dạng phễu đàn hồi bám chặt lên mặt phẳng nhẵn nhờ sự chênh lệch áp suất không khí. Khi ấn sát giác mút vào bề mặt rồi thả tay, tính đàn hồi làm tăng thể tích khoang khí bên trong khiến áp suất trong giác mút giảm nhỏ hơn áp suất khí quyển bên ngoài.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 16 (Mục II.2.b): Ứng dụng sự chênh lệch giữa áp suất khí quyển bên ngoài và áp suất không khí bên trong để làm móc treo tường, kính.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2.a), tr. 71; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2.b), tr. 71; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2.b), tr. 71, 72
+
 ### sundial
 - **Tiếng Việt:** Đồng hồ mặt trời
 - **Chuyên ngành gốc:** Vật lí
@@ -5765,6 +6251,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 8 (Mục 1.a): Nền tảng lí thuyết khoa học đầu thế kỉ XX dẫn tới các phát minh của cuộc Cách mạng công nghiệp lần thứ ba.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 144; SGK Lịch sử 10 KNTT, Chủ đề 04, B8 (Mục 1.a), tr. 69
 
+### thermal conduction
+- **Tiếng Việt:** Dẫn nhiệt (hiện tượng dẫn nhiệt; sự dẫn nhiệt)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A mode of heat transfer in which thermal energy is passed directly from atoms or molecules with greater kinetic energy to neighbouring atoms or molecules with smaller kinetic energy through collisions. Solids (especially metals) conduct heat well, whereas liquids and gases conduct heat poorly.
+- **Giải thích (VI):** Hình thức truyền năng lượng nhiệt trực tiếp từ các nguyên tử, phân tử có động năng lớn hơn sang các nguyên tử, phân tử lân cận có động năng nhỏ hơn thông qua va chạm. Chất rắn (nhất là kim loại) dẫn nhiệt tốt, trong khi chất lỏng và chất khí dẫn nhiệt kém.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 28 (Mục I.1): hình thức truyền nhiệt chủ yếu trong chất rắn và cơ sở phân biệt với đối lưu, bức xạ nhiệt.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28, tr. 112; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục I.1), tr. 112; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục I.2), tr. 113
+
 ### thermal conductivity
 - **Tiếng Việt:** Tính dẫn nhiệt
 - **Chuyên ngành gốc:** Vật lí
@@ -5773,6 +6267,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 12, Bài 19 (Mục I.3): giải thích tính dẫn nhiệt của kim loại dựa trên electron tự do và ứng dụng chế tạo dụng cụ đun nấu.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 06, B19 (Mục I.1), tr. 90; SGK Hóa học 12 KNTT, Chương 06, B19 (Mục I.2), tr. 90; SGK Hóa học 12 KNTT, Chương 06, B19 (Mục I.3), tr. 90
 
+### thermal conductor
+- **Tiếng Việt:** Vật dẫn nhiệt (vật dẫn nhiệt tốt)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An object made of substances or materials capable of transferring thermal energy well by conduction, typically metals such as copper, aluminium, and steel.
+- **Giải thích (VI):** Vật được cấu tạo từ những chất hoặc vật liệu có khả năng truyền năng lượng nhiệt tốt thông qua dẫn nhiệt, tiêu biểu là các kim loại như đồng, nhôm và thép.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 28 (Mục I.2): lựa chọn vật liệu chế tạo các bộ phận cần truyền nhiệt nhanh như thân nồi, chảo kim loại.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục I.2), tr. 113; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục II.1), tr. 113, 114; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196
+
 ### thermal energy
 - **Tiếng Việt:** Nhiệt năng (Năng lượng nhiệt)
 - **Chuyên ngành gốc:** Vật lí
@@ -5780,11 +6282,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Dạng năng lượng gắn với chuyển động hỗn loạn không ngừng của các phân tử cấu tạo nên vật.
 - **Giải thích khác (SGK Sinh học 11):** EN: The form of energy associated with thermal motion, released during respiration and energy transformation in organisms. Thermal energy helps maintain body temperature so that life activities proceed normally before dissipating into the environment. / VI: Dạng năng lượng gắn với chuyển động nhiệt, được giải phóng trong quá trình hô hấp và chuyển hoá năng lượng của sinh vật. Nhiệt năng giúp duy trì nhiệt độ cơ thể để các hoạt động sống diễn ra bình thường trước khi toả ra môi trường.
 - **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: A form of energy generated from heat sources such as the Sun, gas stoves, incandescent light bulbs, or burning fuels. / VI: Dạng năng lượng sinh ra từ các nguồn nhiệt như Mặt Trời, bếp gas, bóng đèn sợi đốt hoặc nhiên liệu khi bị đốt cháy.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The form of energy possessed by every object due to the ceaseless, random thermal motion of its constituent molecules and atoms. When the temperature of an object increases, its thermal energy increases, and vice versa. / VI: Dạng năng lượng mà mọi vật đều có nhờ chuyển động nhiệt hỗn loạn không ngừng của các phân tử, nguyên tử cấu tạo nên vật. Khi nhiệt độ của vật tăng thì năng lượng nhiệt của vật tăng và ngược lại.
 - **Bối cảnh:**
   - Vật lí lớp 10, Bài 23 (Mục I): Phân loại các dạng năng lượng ở cấp độ vi mô và khảo sát sự chuyển hóa cơ năng thành nhiệt năng.
   - Sinh học lớp 11, Bài 1 (Mục III.3) và Bài 6 (Mục I.1, I.2): dạng năng lượng giải phóng từ hô hấp giúp duy trì thân nhiệt và toả ra môi trường.
   - Khoa học tự nhiên lớp 6, Bài 47 (Mục II): phân loại các dạng năng lượng phổ biến phát ra từ nguồn nhiệt.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B23, tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91, 92; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III.3), tr. 7; SGK Sinh học 11 KNTT, Chương 01, B6 (Mục I.1), tr. 38; SGK Sinh học 11 KNTT, Chương 01, B6 (Mục I.2), tr. 38; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195
+  - Khoa học tự nhiên lớp 8, Bài 26 (Mục II): giải thích vì sao mọi vật luôn có nhiệt năng và mối liên hệ giữa nhiệt năng với nhiệt độ.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B23, tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91, 92; SGK Sinh học 11 KNTT, Chương 01, B1 (Mục III.3), tr. 7; SGK Sinh học 11 KNTT, Chương 01, B6 (Mục I.1), tr. 38; SGK Sinh học 11 KNTT, Chương 01, B6 (Mục I.2), tr. 38; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26, tr. 105; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục I), tr. 106; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục II), tr. 106
 
 ### thermal equilibrium
 - **Tiếng Việt:** Trạng thái cân bằng nhiệt
@@ -5796,21 +6300,59 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Chỉ sự cân bằng nhiệt độ giữa các vật tiếp xúc nhau (Bài 3), phân biệt với trạng thái cân bằng vĩ mô ($p, V, T$ không đổi) của một lượng khí xác định (Bài 9).
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B3, tr. 15; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục I), tr. 15; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục I), tr. 15, 16
 
+### thermal expansion
+- **Tiếng Việt:** Sự nở vì nhiệt
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The increase in dimensions or volume of an object when its temperature rises (with corresponding contraction upon cooling). Across states of matter, gases expand thermally more than liquids, and liquids expand thermally more than solids.
+- **Giải thích (VI):** Sự tăng kích thước hoặc thể tích của vật khi nhiệt độ tăng lên (và ngược lại co lại khi lạnh đi). Xét theo thể của chất, chất khí nở vì nhiệt nhiều hơn chất lỏng và chất lỏng nở vì nhiệt nhiều hơn chất rắn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 29 (Mục I, II, III): quy luật biến đổi kích thước theo nhiệt độ của các chất rắn, lỏng, khí và ứng dụng kĩ thuật.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29 (Mục I), tr. 118; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29 (Mục II), tr. 119
+
+### thermal expansion of gases
+- **Tiếng Việt:** Sự nở vì nhiệt của chất khí
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phenomenon in which a gas expands when heated and contracts when cooled. Different gases undergo thermal expansion equally and expand much more than liquids and solids.
+- **Giải thích (VI):** Hiện tượng chất khí nở ra khi nóng lên và co lại khi lạnh đi. Các chất khí khác nhau nở vì nhiệt giống nhau và có mức độ nở vì nhiệt lớn hơn nhiều so với chất lỏng và chất rắn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 29 (Mục III, IV): ứng dụng trong chế tạo nhiệt kế chất khí và khí cầu.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29 (Mục III), tr. 120; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29 (Mục IV.1), tr. 121; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29 (Mục IV.2), tr. 122
+
 ### thermal expansion of liquids
 - **Tiếng Việt:** Sự nở vì nhiệt của chất lỏng
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The phenomenon in which the volume of a liquid increases upon heating; the higher the temperature, the greater the expansion of the liquid. This physical property serves as the operating principle for liquid-in-glass thermometers.
 - **Giải thích (VI):** Hiện tượng thể tích của chất lỏng tăng lên khi nóng lên; nhiệt độ càng cao thì chất lỏng nở ra càng nhiều. Tính chất vật lí này là cơ sở để chế tạo các loại nhiệt kế chất lỏng.
-- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 8 (Mục II.1): giải thích nguyên lí hoạt động của các loại nhiệt kế dùng chất lỏng như thuỷ ngân, rượu hoặc dầu.
-- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục I), tr. 25; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục II.1), tr. 25
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The phenomenon in which a liquid increases in volume when heated and decreases in volume when cooled. Different liquids expand thermally to different extents, expanding more than solids but less than gases. / VI: Hiện tượng chất lỏng tăng thể tích khi nóng lên và giảm thể tích khi lạnh đi. Các chất lỏng khác nhau có mức độ nở vì nhiệt khác nhau, nở vì nhiệt nhiều hơn chất rắn nhưng ít hơn chất khí.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 8 (Mục II.1): giải thích nguyên lí hoạt động của các loại nhiệt kế dùng chất lỏng như thuỷ ngân, rượu hoặc dầu.
+  - Khoa học tự nhiên lớp 8, Bài 29 (Mục II, IV): ứng dụng chế tạo nhiệt kế chất lỏng và giải thích nguyên nhân mực nước biển dâng khi Trái Đất nóng lên.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục I), tr. 25; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục II.1), tr. 25; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29 (Mục II), tr. 119; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29 (Mục II), tr. 120; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29 (Mục III), tr. 120
+
+### thermal expansion of solids
+- **Tiếng Việt:** Sự nở vì nhiệt của chất rắn
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phenomenon in which solid objects expand when heated and contract when cooled, at different rates depending on the material (for example, aluminium expands more than copper, and copper more than iron). When this expansion or contraction is obstructed, solids can exert very large forces on the obstacle.
+- **Giải thích (VI):** Hiện tượng các vật rắn tăng kích thước khi nóng lên và co lại khi lạnh đi, với mức độ dãn nở khác nhau tuỳ theo bản chất vật liệu (chẳng hạn nhôm nở vì nhiệt nhiều hơn đồng, đồng nhiều hơn sắt). Khi sự co dãn này bị ngăn cản, vật rắn có thể gây ra lực tác dụng rất lớn lên vật cản.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 29 (Mục I, IV): giải thích cấu tạo băng kép, sự thay đổi chiều cao tháp Eiffel và việc để khe hở trên đường ray tàu hoả.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29, tr. 118; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29 (Mục I), tr. 118; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B29 (Mục I), tr. 118, 119
+
+### thermal insulator
+- **Tiếng Việt:** Vật cách nhiệt (vật cách nhiệt tốt)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An object made of substances or materials that effectively impede heat conduction, typically including air, wool, wood, and plastic.
+- **Giải thích (VI):** Vật được cấu tạo từ những chất hoặc vật liệu có khả năng cản trở tốt sự dẫn nhiệt, tiêu biểu như không khí, len, gỗ và nhựa.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 28 (Mục I.2): ứng dụng làm cán xoong chảo, quần áo ấm mùa đông và vật liệu lợp mái nhà chống nóng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục I.2), tr. 113; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục II.1), tr. 113, 114; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196
 
 ### thermal motion
 - **Tiếng Việt:** Chuyển động nhiệt
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The ceaseless, random motion of the molecules and atoms constituting a body, directly linked to its temperature: the greater the average kinetic energy of this motion, the higher the body's temperature.
 - **Giải thích (VI):** Chuyển động hỗn loạn, không ngừng của các phân tử, nguyên tử cấu tạo nên vật, gắn liền với nhiệt độ của vật: động năng trung bình của chuyển động này càng lớn thì nhiệt độ của vật càng cao.
-- **Bối cảnh:** Vật lí lớp 12, Bài 3 (Mục II.1.b): giải thích bản chất vi mô của nhiệt độ và độ không tuyệt đối.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B3 (Mục II.1.b), tr. 16; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục II.1.b), tr. 18; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục II.2), tr. 18
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The ceaseless, random motion of the molecules and atoms constituting an object, which becomes faster as the temperature of the object increases. / VI: Chuyển động hỗn loạn không ngừng của các phân tử, nguyên tử cấu tạo nên vật, diễn ra càng nhanh khi nhiệt độ của vật càng cao.
+- **Bối cảnh:**
+  - Vật lí lớp 12, Bài 3 (Mục II.1.b): giải thích bản chất vi mô của nhiệt độ và độ không tuyệt đối.
+  - Khoa học tự nhiên lớp 8, Bài 26 (Mục II): liên hệ giữa tốc độ chuyển động vi mô của phân tử, nguyên tử với nhiệt độ và năng lượng nhiệt của vật.
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B3 (Mục II.1.b), tr. 16; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục II.1.b), tr. 18; SGK Vật lí 12 KNTT, Chương 01, B3 (Mục II.2), tr. 18; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục I), tr. 106; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục II), tr. 106; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B26 (Mục III.3), tr. 108
 
 ### thermal neutron
 - **Tiếng Việt:** Neutron nhiệt
@@ -5819,6 +6361,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hạt neutron chuyển động chậm có động năng nhỏ hơn $0,1\text{ eV}$, dễ dàng bị các hạt nhân nặng như $^{235}_{92}\text{U}$ hấp thụ để gây ra phản ứng phân hạch.
 - **Bối cảnh:** Vật lí lớp 12, Bài 22 (Mục III.1): tác nhân bắn phá kích thích sự phân hạch của hạt nhân $^{235}_{92}\text{U}$ trong thí nghiệm của Otto Hahn và trong lò phản ứng hạt nhân.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B22 (Mục II.3), tr. 100; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục III), tr. 100; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục III.1), tr. 100
+
+### thermal radiation
+- **Tiếng Việt:** Bức xạ nhiệt
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A mode of heat transfer via rectilinear thermal rays (predominantly infrared radiation) from a hot source to another object, capable of propagating even through a vacuum. Objects with rougher, darker surfaces absorb thermal radiation more strongly, whereas smoother, lighter-coloured surfaces reflect thermal rays more strongly.
+- **Giải thích (VI):** Hình thức truyền nhiệt bằng các tia nhiệt đi thẳng (chủ yếu là tia hồng ngoại) từ nguồn nóng tới vật khác, có thể truyền qua cả môi trường chân không. Vật có bề mặt càng xù xì, sẫm màu thì hấp thụ bức xạ nhiệt càng mạnh; bề mặt càng nhẵn, sáng màu thì phản xạ tia nhiệt càng mạnh.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 28 (Mục III.2): giải thích sự truyền nhiệt từ Mặt Trời tới Trái Đất, cách chọn màu trang phục và cấu tạo tráng bạc của ruột phích.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.1), tr. 115; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.2), tr. 115; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.2), tr. 115, 116
+
+### thermal ray
+- **Tiếng Việt:** Tia nhiệt
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** Energy-carrying thermal rays (predominantly infrared rays) that travel in straight lines, undergo reflection, are blocked by opaque obstacles, can propagate through a vacuum, and heat up objects that absorb them.
+- **Giải thích (VI):** Các tia mang năng lượng nhiệt (chủ yếu là tia hồng ngoại) có tính chất truyền thẳng, phản xạ, không truyền qua vật chắn sáng và truyền được cả trong chân không, làm nóng các vật hấp thụ chúng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 28 (Mục III.2): tác nhân mang năng lượng trong hiện tượng bức xạ nhiệt từ Mặt Trời hoặc nguồn nóng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.1), tr. 115; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.2), tr. 115; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.2), tr. 115, 116
 
 ### thermistor
 - **Tiếng Việt:** Điện trở nhiệt (nhiệt điện trở)
@@ -5897,6 +6455,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Nhấn mạnh cơ chế kích hoạt phản ứng tổng hợp hạt nhân bằng nhiệt độ cực cao ($10^7$ đến $10^8\text{ K}$), phân biệt với phản ứng tổng hợp hạt nhân thực hiện bằng máy gia tốc hạt.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B22 (Mục IV), tr. 102; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục IV), tr. 102, 103
 
+### third-class lever
+- **Tiếng Việt:** Đòn bẩy loại 2 không cho lợi về lực (đòn bẩy loại 3)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A class of lever in which the fulcrum $O$ lies outside the interval between the application points $O_1$ and $O_2$ of the two forces, with the applied effort $F_2$ positioned closer to the fulcrum $O$ than the load force $F_1$, thus providing no force advantage (such as a fishing rod, chopsticks, or the human forearm holding a weight).
+- **Giải thích (VI):** Loại đòn bẩy có điểm tựa $O$ nằm ngoài khoảng giữa hai điểm đặt $O_1$, $O_2$ của hai lực nhưng lực tác dụng $F_2$ đặt gần điểm tựa $O$ hơn lực $F_1$, do đó không cho lợi về lực (như cần câu cá, đôi đũa, cánh tay người khi cầm vật nặng).
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 19 (Mục II): Giải thích cấu tạo các dụng cụ thao tác linh hoạt như đũa, nhíp, cần câu cá và hoạt động của cánh tay người.
+  - *Lưu ý:* Trong hệ phân loại quốc tế, loại đòn bẩy có lực tác dụng nằm giữa điểm tựa và lực cản mang tên third-class lever (đòn bẩy loại 3); SGK KHTN 8 KNTT xếp trường hợp này vào nhóm điểm tựa nằm ngoài khoảng giữa hai lực (đòn bẩy loại 2 không cho lợi về lực) đồng thời ghi chú tên đòn bẩy loại 3.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục I), tr. 80; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục II), tr. 80; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B19 (Mục II), tr. 80, 81
+
 ### three-phase alternating current generator
 - **Tiếng Việt:** Máy phát điện xoay chiều ba pha
 - **Chuyên ngành gốc:** Vật lí
@@ -5920,6 +6488,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cường độ âm thanh nhỏ nhất mà tai người bình thường có thể phát hiện được, lấy làm cường độ tham chiếu chuẩn $I_0 = 10^{-12}\text{ W/m}^2$ ở tần số $1\,000\text{ Hz}$.
 - **Bối cảnh:** Toán học lớp 11, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2c): Giá trị cường độ âm chuẩn dùng làm mốc tham chiếu trong công thức tính mức cường độ âm.
 - **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2.b), tr. 101; SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2.c), tr. 101
+
+### thunder
+- **Tiếng Việt:** Sấm
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The loud explosive sound produced during a thunderstorm when air is intensely heated by an electrical spark discharge (lightning) and expands suddenly.
+- **Giải thích (VI):** Tiếng nổ lớn phát ra trong cơn dông do không khí bị nung nóng bởi nhiệt độ rất cao của tia lửa điện (tia sét) và dãn nở đột ngột.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 20 (Mục II): hiện tượng âm thanh đi kèm với tia sét trong cơn mưa dông.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B20 (Mục II), tr. 86; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B20 (Mục II), tr. 86, 87
 
 ### ticker-tape timer
 - **Tiếng Việt:** Đồng hồ cần rung (thiết bị đo thời gian bằng cần rung)
@@ -5972,6 +6548,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Vật lí lớp 12, Bài 18 (Mục I): ứng dụng hiện tượng cảm ứng điện từ để thay đổi điện áp xoay chiều trong truyền tải và tiêu thụ điện năng.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B20 (Mục I), tr. 80; SGK Vật lí 11 KNTT, Chương 03, B20 (Mục II), tr. 80; SGK Vật lí 11 KNTT, Chương 03, B20 (Mục II), tr. 80, 81; SGK Vật lí 12 KNTT, Chương 03, B18, tr. 78; SGK Vật lí 12 KNTT, Chương 03, B18 (Mục I), tr. 78; SGK Vật lí 12 KNTT, Chương 03, B18 (Mục I), tr. 78, 79
 
+### transistor
+- **Tiếng Việt:** Bóng bán dẫn
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An electronic component made from semiconductor materials with properties intermediate between conductors and insulators (such as germanium and silicon), used to switch and modulate electric current.
+- **Giải thích (VI):** Linh kiện điện tử chế tạo từ vật liệu bán dẫn có tính chất trung gian giữa dẫn điện và cách điện (như germani, silicon), dùng để chuyển đổi và điều chế dòng điện.
+- **Bối cảnh:** Tin học lớp 8, Bài 1 (Mục 2): Linh kiện thay thế đèn điện tử chân không giúp máy tính thế hệ thứ hai nhỏ gọn, tiết kiệm điện, tin cậy và nhanh hơn hàng chục lần.
+- **Nguồn:** SGK Tin học 8 KNTT, Chủ đề 01, B1 (Mục 2), tr. 7; SGK Tin học 8 KNTT, Chủ đề 01, B1 (Mục 2), tr. 7, 8; SGK Tin học 8 KNTT, Bảng giải thích thuật ngữ, tr. 95
+
+### transmission of pressure in liquids
+- **Tiếng Việt:** Sự truyền áp suất chất lỏng
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A physical property discovered by Pascal stating that an external pressure applied to a liquid is transmitted undiminished in all directions throughout the liquid.
+- **Giải thích (VI):** Tính chất vật lí do nhà bác học Pascal phát hiện, theo đó áp suất tác dụng từ bên ngoài vào chất lỏng sẽ được chất lỏng truyền đi nguyên vẹn theo mọi hướng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 16 (Mục I.2): Cơ sở lí thuyết giải thích nguyên lí hoạt động của máy nén thuỷ lực, kích thuỷ lực và phanh thuỷ lực.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục I.1), tr. 68; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục I.2), tr. 68; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục I.2), tr. 68, 69
+
 ### transverse wave
 - **Tiếng Việt:** Sóng ngang
 - **Chuyên ngành gốc:** Vật lí
@@ -5998,6 +6590,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 21 (Mục II.3): đồng vị siêu nặng của nguyên tố hydrogen, phân biệt với hydrogen thường ($^{1}_{1}\text{H}$) và deuterium ($^{2}_{1}\text{H}$).
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B21 (Mục II.2), tr. 95; SGK Vật lí 12 KNTT, Chương 04, B21 (Mục II.3), tr. 95
 
+### turning effect of a force
+- **Tiếng Việt:** Tác dụng làm quay của lực
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The capacity of an applied force to rotate an object about a fixed axis or point when its line of action neither intersects nor is parallel to the axis of rotation. This turning effect increases with a greater force magnitude and a larger perpendicular distance from the rotation axis to the line of action.
+- **Giải thích (VI):** Khả năng làm vật quay quanh một trục hoặc điểm cố định khi lực tác dụng có giá không song song và không cắt trục quay. Tác dụng làm quay càng lớn khi độ lớn của lực càng lớn và khoảng cách từ trục quay đến giá của lực càng xa.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 18 (Mục I, II): Giải thích vị trí lắp tay nắm cửa xa bản lề và cách vặn cờ-lê để làm quay đai ốc dễ dàng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 04, B18 (Mục I), tr. 76; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B18 (Mục I), tr. 77; SGK Khoa học tự nhiên 8 KNTT, Chương 04, B18 (Mục II), tr. 77, 78
+
 ### two concurrent forces
 - **Tiếng Việt:** Hai lực đồng quy
 - **Chuyên ngành gốc:** Vật lí
@@ -6005,6 +6605,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hệ hai lực $\vec{F}_1$ và $\vec{F}_2$ cùng tác dụng lên một vật và có giá đồng quy tại một điểm. Tác dụng của hai lực đồng quy có thể thay thế bằng một lực tổng hợp $\vec{F}$ duy nhất gây ra cùng hiệu quả tác dụng như hai lực thành phần.
 - **Bối cảnh:** Vật lí lớp 10, Bài 22 (Mục I.2): Thí nghiệm thực hành xác định hợp lực của hai lực đồng quy bằng lực kế và dây cao su.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B22, tr. 86; SGK Vật lí 10 KNTT, Chương 03, B22 (Mục I.1), tr. 86; SGK Vật lí 10 KNTT, Chương 03, B22 (Mục I.2), tr. 86
+
+### two types of electric charge
+- **Tiếng Việt:** Hai loại điện tích
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The classification of electric charge in nature into two opposite kinds: positive charge ($+$) and negative charge ($-$). Objects carrying like charges repel each other, whereas objects carrying unlike charges attract each other.
+- **Giải thích (VI):** Sự phân loại điện tích trong tự nhiên thành hai loại trái dấu gồm điện tích dương ($+$) và điện tích âm ($-$). Hai vật nhiễm điện cùng dấu thì đẩy nhau, hai vật nhiễm điện khác dấu thì hút nhau.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 20 (Mục I): Rút ra từ thí nghiệm tương tác giữa hai đũa nhựa cọ vào vải len và giữa đũa thuỷ tinh cọ vào vải lụa với đũa nhựa.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B20 (Mục I), tr. 85
 
 ### UHF radio wave
 - **Tiếng Việt:** Sóng UHF
@@ -6094,6 +6702,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 9 (Mục I): trường hợp chuyển động thẳng biến đổi đều khi gia tốc ngược chiều với vận tốc.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 02, B9, tr. 40; SGK Vật lí 10 KNTT, Chương 02, B9 (Mục I), tr. 40; SGK Vật lí 10 KNTT, Chương 02, B9 (Mục II), tr. 40
 
+### unit of density
+- **Tiếng Việt:** Đơn vị đo khối lượng riêng (đơn vị khối lượng riêng)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The measurement units used to express the density of a substance, most commonly $\text{kg/m}^3$ and $\text{g/cm}^3$ (or $\text{g/mL}$), related by the conversions $1\text{ kg/m}^3 = 0.001\text{ g/cm}^3$ and $1\text{ g/cm}^3 = 1\text{ g/mL}$.
+- **Giải thích (VI):** Hệ thống đơn vị dùng để biểu thị khối lượng riêng của một chất, thường dùng nhất là $\text{kg/m}^3$ và $\text{g/cm}^3$ (hoặc $\text{g/mL}$), liên hệ với nhau theo quy ước $1\text{ kg/m}^3 = 0{,}001\text{ g/cm}^3$ và $1\text{ g/cm}^3 = 1\text{ g/mL}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 13 (Mục II): Quy đổi đơn vị khi tính toán và tra cứu bảng khối lượng riêng của các chất rắn, chất lỏng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B13 (Mục I), tr. 57; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B13 (Mục II), tr. 57; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B13 (Mục II), tr. 57, 58
+
 ### unit of energy
 - **Tiếng Việt:** Đơn vị năng lượng (jun; joule; J)
 - **Chuyên ngành gốc:** Vật lí
@@ -6109,6 +6725,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đơn vị dùng để đo độ lớn của lực; trong Hệ đơn vị đo lường hợp pháp của Việt Nam, đơn vị lực là niutơn, kí hiệu là $\text{N}$ (đặt theo tên nhà bác học Isaac Newton).
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 41 (Mục I.2): ghi nhận và biểu diễn kết quả đo độ lớn của lực và trọng lượng.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.2), tr. 148; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.3), tr. 148; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B41 (Mục I.3), tr. 148, 149
+
+### unit of pressure
+- **Tiếng Việt:** Đơn vị đo áp suất (paxcan; Pa; niutơn trên mét vuông)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The measurement units used to express pressure, with the standard SI unit being the pascal ($\text{Pa}$), equal to one newton per square meter ($1\text{ Pa} = 1\text{ N/m}^2$). Other common units include the atmosphere ($1\text{ atm} = 1.013 \times 10^5\text{ Pa}$), millimeter of mercury ($1\text{ mmHg} = 133.3\text{ Pa}$), and bar ($1\text{ Bar} = 10^5\text{ Pa}$).
+- **Giải thích (VI):** Hệ thống đơn vị dùng để đo áp suất, trong đó đơn vị chuẩn là paxcan ($\text{Pa}$) tương đương niutơn trên mét vuông ($1\text{ Pa} = 1\text{ N/m}^2$). Các đơn vị thông dụng khác gồm atmôtphe ($1\text{ atm} = 1{,}013 \cdot 10^5\text{ Pa}$), milimét thuỷ ngân ($1\text{ mmHg} = 133{,}3\text{ Pa}$) và Bar ($1\text{ Bar} = 10^5\text{ Pa}$).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 15 (Mục II.2): Quy đổi các đơn vị đo áp suất khi giải bài tập áp suất bề mặt, áp suất chất lỏng và áp suất khí quyển.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B15 (Mục II.1), tr. 65; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B15 (Mục II.2), tr. 65; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B15 (Mục II.2), tr. 65, 66
 
 ### unit of speed
 - **Tiếng Việt:** Đơn vị đo tốc độ
@@ -6153,6 +6777,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 20 (Mục II): Vận dụng công thức tính công của điện trường dịch chuyển electron từ catôt sang anôt.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B20 (Mục I), tr. 80; SGK Vật lí 11 KNTT, Chương 03, B20 (Mục II), tr. 80; SGK Vật lí 11 KNTT, Chương 03, B20 (Mục II), tr. 80, 81
 
+### vacuum tube
+- **Tiếng Việt:** Đèn điện tử chân không
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An electronic component used to generate, amplify, and modify electrical signals by controlling the movement of electrons in a low-pressure space.
+- **Giải thích (VI):** Linh kiện điện tử dùng để tạo ra, khuếch đại và biến đổi tín hiệu điện bằng cách điều khiển chuyển động của các điện tử trong một khoảng không áp suất thấp.
+- **Bối cảnh:** Tin học lớp 8, Bài 1 (Mục 2): Thành phần điện tử chính thay thế rơ le điện cơ, mở đầu kỉ nguyên máy tính điện tử thế hệ thứ nhất.
+- **Nguồn:** SGK Tin học 8 KNTT, Chủ đề 01, B1 (Mục 2), tr. 7; SGK Tin học 8 KNTT, Chủ đề 01, B1 (Mục 2), tr. 7, 8; SGK Tin học 8 KNTT, Chủ đề 01, B1 (Mục 2), tr. 8
+
 ### vaporization
 - **Tiếng Việt:** Sự hoá hơi
 - **Chuyên ngành gốc:** Vật lí
@@ -6170,6 +6802,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại tụ điện có cấu tạo cho phép điều chỉnh thay đổi giá trị điện dung theo nhu cầu của mạch điện.
 - **Bối cảnh:** Vật lí lớp 11, Bài 21 (Mục II.1): Linh kiện điều chỉnh điện dung trong kĩ thuật vô tuyến và thiết bị điện tử.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B21 (Mục II.1), tr. 85
+
+### variable resistor
+- **Tiếng Việt:** Biến trở
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An electrical component consisting of a resistor whose resistance value can be varied (for instance by moving a sliding contact), used to adjust the electric current in an experimental circuit.
+- **Giải thích (VI):** Thiết bị điện thuộc loại điện trở có giá trị điện trở thay đổi được (chẳng hạn bằng cách dịch chuyển con chạy), dùng để điều chỉnh cường độ dòng điện trong mạch điện thí nghiệm.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 1 (Mục III.3.e) và Bài 24 (Mục I.1): Thiết bị sử dụng điện trong phòng thí nghiệm giúp thay đổi mức độ mạnh yếu của dòng điện trong mạch.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.e), tr. 10; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195
 
 ### vector quantity
 - **Tiếng Việt:** Đại lượng vectơ
@@ -6259,6 +6899,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 11 (Mục II.1): Vùng bức xạ điện từ mà mắt người nhìn thấy được trong thang sóng điện từ.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 02, B11 (Mục II), tr. 45; SGK Vật lí 11 KNTT, Chương 02, B11 (Mục II.1), tr. 45; SGK Vật lí 11 KNTT, Chương 02, B11 (Mục II.2), tr. 45
 
+### volt
+- **Tiếng Việt:** Vôn (V)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The standard SI unit of voltage (potential difference), symbolized as $\text{V}$. In practice, the submultiple unit millivolt ($\text{mV}$) and multiple unit kilovolt ($\text{kV}$) are also used, where $1\text{ mV} = 0.001\text{ V}$ and $1\text{ kV} = 1000\text{ V}$.
+- **Giải thích (VI):** Đơn vị đo chuẩn của hiệu điện thế (điện áp) trong hệ SI, kí hiệu là $\text{V}$. Trong thực tế, người ta còn dùng các đơn vị ước và bội là milivôn ($\text{mV}$) và kilôvôn ($\text{kV}$) với $1\text{ mV} = 0,001\text{ V}$ và $1\text{ kV} = 1000\text{ V}$.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 24 (Mục II.2): đơn vị đọc số chỉ trên vôn kế và ghi giá trị điện áp trên các nguồn điện, thiết bị điện.
+  - *Lưu ý:* Milivôn ($\text{mV}$) và kilôvôn ($\text{kV}$) lần lượt là đơn vị ước và bội của vôn, không phải tên đồng nghĩa của vôn.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B24, tr. 99; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B24 (Mục I.2), tr. 100; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B24 (Mục II.1), tr. 100
+
 ### voltage drop
 - **Tiếng Việt:** Độ giảm thế
 - **Chuyên ngành gốc:** Vật lí
@@ -6266,6 +6916,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tích số của cường độ dòng điện với điện trở của đoạn mạch ($IR$ ở mạch ngoài hoặc $Ir$ ở mạch trong); trong mạch điện kín, suất điện động của nguồn điện có giá trị bằng tổng các độ giảm thế ở mạch ngoài và mạch trong: $\mathcal{E} = IR + Ir$.
 - **Bối cảnh:** Vật lí lớp 11, Bài 24 (Mục II.2): Thiết lập công thức liên hệ giữa suất điện động của nguồn và hiệu điện thế mạch ngoài.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B24 (Mục II.2), tr. 104; SGK Vật lí 11 KNTT, Chương 04, B24 (Mục II.2), tr. 104, 105
+
+### voltaic cell
+- **Tiếng Việt:** Pin Von-ta
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The world's first electrochemical cell, invented by Alessandro Volta in 1800, capable of producing a steady direct current. It consists of a copper plate (positive electrode) and a zinc plate (negative electrode) immersed in a dilute acid solution.
+- **Giải thích (VI):** Nguồn điện hoá học đầu tiên trên thế giới do Alessandro Volta chế tạo năm 1800, có khả năng tạo ra dòng điện một chiều ổn định. Pin gồm hai bản kim loại đồng (cực dương) và kẽm (cực âm) nhúng trong dung dịch acid loãng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 21 (Mục II): tìm hiểu lịch sử nguồn điện một chiều và thực hành chế tạo pin đơn giản từ quả chanh với điện cực đồng, kẽm.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục II), tr. 90
+
+### voltmeter
+- **Tiếng Việt:** Vôn kế
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An electrical measuring instrument used to measure the electric potential difference (voltage) across two ends of a circuit segment or between the terminals of a power source. In use, the voltage must be estimated to select a suitable range and the positive and negative terminals must be connected properly.
+- **Giải thích (VI):** Dụng cụ đo điện dùng để đo hiệu điện thế giữa hai đầu đoạn mạch hoặc hai cực của nguồn điện. Khi sử dụng, cần ước lượng hiệu điện thế cần đo để chọn thang đo hợp lí và chú ý đấu đúng chốt dương, chốt âm.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 1 (Mục III.3.c): Phân biệt chức năng và cách chọn thang đo của vôn kế với ampe kế trong thí nghiệm điện.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.c), tr. 9; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196
 
 ### vortex electric field
 - **Tiếng Việt:** Điện trường xoáy

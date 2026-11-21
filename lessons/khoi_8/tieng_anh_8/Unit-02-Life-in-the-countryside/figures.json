@@ -1,0 +1,16 @@
+{
+  "H8-tieng_anh-u02-01": {
+    "pdf_page": 21,
+    "bbox": [314, 379, 543, 735],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Tranh nền cánh đồng ở cột trái lan sát mép trái ảnh a tại x=310 (3 điểm); giữ x0=314 (khung cắt x=310) để lấy trọn vẹn ảnh a và f"
+  },
+  "H8-tieng_anh-u02-02": {
+    "pdf_page": 26,
+    "bbox": [77, 155, 288, 254]
+  },
+  "H8-tieng_anh-u02-03": {
+    "pdf_page": 28,
+    "bbox": [58, 240, 289, 584]
+  }
+}

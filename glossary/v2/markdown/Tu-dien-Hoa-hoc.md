@@ -13,6 +13,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 12 (Mục III): áp dụng để hạn chế, thu gom và phân loại rác thải sinh hoạt trong gia đình nhằm tiết kiệm vật liệu và bảo vệ môi trường.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B12 (Mục III), tr. 45
 
+### 4R fertilization principle
+- **Tiếng Việt:** Quy tắc bón phân “4 đúng” (quy tắc “4 đúng”)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A fertilization guideline comprising four requirements—right rate, right type, right time, and right place—to match the absorption capacity of soil and crops while minimizing environmental pollution and chemical residues in food.
+- **Giải thích (VI):** Nguyên tắc sử dụng phân bón gồm bốn yêu cầu: đúng liều, đúng loại, đúng lúc và đúng nơi nhằm phù hợp với khả năng hấp thụ của đất và cây trồng, qua đó hạn chế ô nhiễm môi trường và tồn dư hoá chất trong nông sản.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 12 (Mục III): Biện pháp sử dụng phân bón an toàn, hiệu quả và bảo vệ môi trường đất, nước, không khí.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục III), tr. 55
+
 ### accumulator
 - **Tiếng Việt:** Acquy
 - **Chuyên ngành gốc:** Hóa học
@@ -20,6 +28,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nguồn điện hoá học thuộc loại pin thứ cấp (pin sạc), trong đó các chất phản ứng được tái tạo trong quá trình sạc bằng dòng điện một chiều, sử dụng phổ biến trong các phương tiện giao thông, thiết bị lưu điện và phát điện.
 - **Bối cảnh:** Hóa học lớp 12, Bài 15 (Mục IV): phân loại và đánh giá ưu, nhược điểm của các nguồn điện phổ biến trong đời sống.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 05, B15 (Mục IV), tr. 76; SGK Hóa học 12 KNTT, Chương 05, B15 (Mục IV), tr. 76, 77; SGK Hóa học 12 KNTT, Chương 05, B15 (Mục IV), tr. 77
+
+### acetic acid
+- **Tiếng Việt:** Acetic acid
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** An organic acid with the chemical formula CH₃COOH that is a colorless, sour-tasting liquid constituting the acidic component of vinegar at concentrations of $2 - 5\%$. It is used in food processing and in manufacturing pharmaceuticals, paints, and poly(vinyl acetate) fibers.
+- **Giải thích (VI):** Acid hữu cơ có công thức hoá học CH₃COOH, là chất lỏng không màu, có vị chua và là thành phần tạo độ chua của giấm ăn với nồng độ khoảng $2 - 5\%$. Hợp chất này được dùng trong chế biến thực phẩm, sản xuất dược phẩm, sơn và tơ sợi poly(vinyl acetate).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 8 (Mục III.3): Ví dụ tiêu biểu về acid hữu cơ yếu gần gũi trong đời sống và công nghiệp hoá chất.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục I), tr. 36; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục III.3), tr. 38
 
 ### acetone 80%
 - **Tiếng Việt:** Acetone 80%
@@ -34,10 +50,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A molecule or ion capable of donating a proton ($\text{H}^+$) to another species in a chemical reaction according to the Brønsted–Lowry theory (for example, HCl, CH₃COOH, the NH₄⁺ ion, or H₂O when reacting with NH₃).
 - **Giải thích (VI):** Phân tử hoặc ion có khả năng nhường proton ($\text{H}^+$) cho chất khác trong phản ứng hoá học theo thuyết Brønsted – Lowry (ví dụ HCl, CH₃COOH, ion NH₄⁺ hoặc H₂O khi tác dụng với NH₃).
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A chemical compound whose molecule consists of one or more hydrogen atoms bonded to an acid radical and yields H⁺ ions when dissolved in water. Aqueous acid solutions turn blue-purple litmus paper red and react with active metals (such as Mg, Fe, and Zn) to form a salt and hydrogen gas. / VI: Hợp chất hoá học mà phân tử gồm một hay nhiều nguyên tử hydrogen liên kết với gốc acid, khi tan trong nước phân li tạo ra ion H⁺. Dung dịch acid làm giấy quỳ tím chuyển sang màu đỏ và tác dụng được với một số kim loại (như Mg, Fe, Zn) tạo thành muối và khí hydrogen.
 - **Bối cảnh:**
   - Hóa học lớp 11, Bài 2 (Mục II.1): Nhận diện vai trò chất cho proton trong các cặp phản ứng thuận nghịch và một chiều.
+  - Khoa học tự nhiên lớp 8, Bài 8 (Mục I, II): Nhận diện công thức phân tử, tính chất hoá học đặc trưng của dung dịch acid và phân biệt với base.
   - *Lưu ý:* Định nghĩa theo thuyết Brønsted – Lowry trong chương trình Hóa học 11 (chất cho proton H⁺), mở rộng hơn định nghĩa ở cấp THCS (hợp chất phân li ra ion H⁺ trong nước).
-- **Nguồn:** SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.a), tr. 17; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.b), tr. 18; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.b), tr. 19; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục II.1), tr. 19
+- **Nguồn:** SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.a), tr. 17; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.b), tr. 18; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.b), tr. 19; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục II.1), tr. 19; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục I), tr. 35; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục I), tr. 36; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục II), tr. 36
 
 ### acid rain
 - **Tiếng Việt:** Mưa acid (hiện tượng mưa acid)
@@ -65,6 +83,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Môi trường dung dịch nước trong đó nồng độ ion H⁺ lớn hơn nồng độ ion OH⁻ ($[\text{H}^+] > [\text{OH}^-]$), tương ứng với $[\text{H}^+] > 10^{-7}\text{ mol/L}$ hay $\text{pH} < 7$ ở $25\text{ }^\circ\text{C}$.
 - **Bối cảnh:** Hóa học lớp 11, Bài 2 (Mục III.1): Phân loại môi trường của dịch vị dạ dày, nước chanh, đất chua và dung dịch các muối thuỷ phân như AlCl₃, FeCl₃.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 01, B2 (Mục III.1), tr. 21; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục III.2), tr. 22; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục III.4), tr. 23
+
+### acidic oxide
+- **Tiếng Việt:** Oxide acid
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A class of oxides capable of reacting with an aqueous base to form a salt and water (such as CO₂, SO₂, SO₃, or P₂O₅).
+- **Giải thích (VI):** Loại oxide có khả năng tác dụng với dung dịch base tạo thành muối và nước (như CO₂, SO₂, SO₃, P₂O₅).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 10 (Mục II.1): Phân loại oxide theo tính chất hoá học và giải thích hiện tượng hiệu ứng nhà kính, mưa acid.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 45; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục II.1), tr. 45
 
 ### acidity of carboxylic acids
 - **Tiếng Việt:** Tính acid của carboxylic acid
@@ -205,6 +231,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Mục từ xét riêng tính chất nhóm chức aldehyde của phân tử glucose trong chương carbohydrate Hóa học 12.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 02, B4 (Mục II.1), tr. 22; SGK Hóa học 12 KNTT, Chương 02, B4 (Mục II.2), tr. 22; SGK Hóa học 12 KNTT, Chương 02, B4 (Mục II.2.a), tr. 22; SGK Hóa học 12 KNTT, Chương 02, B4 (Mục II.2.b), tr. 23
 
+### alkali
+- **Tiếng Việt:** Kiềm (dung dịch kiềm; base kiềm)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A class of water-soluble bases that dissolve readily in water to form aqueous solutions containing OH⁻ ions, such as KOH, NaOH, and Ba(OH)₂. Alkaline solutions turn litmus paper blue and turn colorless phenolphthalein solution pink.
+- **Giải thích (VI):** Nhóm các base tan tốt trong nước tạo thành dung dịch chứa ion OH⁻ như KOH, NaOH, Ba(OH)₂. Dung dịch kiềm làm giấy quỳ tím chuyển sang màu xanh và làm dung dịch phenolphthalein không màu chuyển sang màu hồng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 9 (Mục I, II): Phân biệt nhóm base tan làm đổi màu chất chỉ thị với phần lớn các base không tan trong nước.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục I), tr. 39, 40; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục II), tr. 41
+
 ### alkali metal
 - **Tiếng Việt:** Kim loại kiềm
 - **Chuyên ngành gốc:** Hóa học
@@ -341,6 +375,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại phân bón hoá học phức hợp cung cấp đồng thời hai nguyên tố dinh dưỡng nitrogen và phosphorus cho cây trồng. Thành phần chính của ammophos gồm hai muối NH₄H₂PO₄ và (NH₄)₂HPO₄ được điều chế từ phản ứng giữa ammonia (NH₃) và phosphoric acid (H₃PO₄).
 - **Bối cảnh:** Hóa học lớp 11, Bài 5 (Mục I.3.a): Minh hoạ ứng dụng tính base của ammonia khi tác dụng với phosphoric acid trong công nghiệp sản xuất phân bón.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 02, B5 (Mục I.1), tr. 34; SGK Hóa học 11 KNTT, Chương 02, B5 (Mục I.2), tr. 34; SGK Hóa học 11 KNTT, Chương 02, B5 (Mục I.3.a), tr. 34
+
+### amphoteric oxide
+- **Tiếng Việt:** Oxide lưỡng tính
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A class of oxides capable of reacting with both aqueous acids and aqueous bases to form a salt and water (such as Al₂O₃ or ZnO).
+- **Giải thích (VI):** Loại oxide tác dụng được với cả dung dịch acid và dung dịch base để tạo thành muối và nước (như Al₂O₃, ZnO).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 10 (Mục II.3): Phân biệt với các oxide chỉ phản ứng với acid (oxide base) hoặc chỉ phản ứng với base (oxide acid).
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục II.1), tr. 46; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục II.2), tr. 46
 
 ### amphoteric property
 - **Tiếng Việt:** Tính chất lưỡng tính
@@ -561,6 +603,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 10, Bài 19 (Mục I.2): Tính tốc độ phản ứng trong một khoảng thời gian xác định dựa trên độ biến thiên nồng độ chất đầu (có dấu trừ để nhận giá trị dương) hoặc chất sản phẩm.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 06, B19 (Mục I.2), tr. 94; SGK Hóa học 10 KNTT, Chương 06, B19 (Mục III), tr. 100; SGK Hóa học 10 KNTT, Chương 06, B20 (Mục I), tr. 101
 
+### Avogadro number
+- **Tiếng Việt:** Số Avogadro
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A characteristic number (symbol $N_{\text{A}}$) representing the number of atoms contained in $12\text{ g}$ of carbon, equal to $6.022 \times 10^{23}$. Because of its immense magnitude, it is used exclusively for counting microscopic particles such as atoms and molecules.
+- **Giải thích (VI):** Hằng số đặc trưng (kí hiệu $N_{\text{A}}$) biểu thị số nguyên tử có trong $12\text{ g}$ carbon, có giá trị bằng $6,022 \cdot 10^{23}$. Do có giá trị rất lớn, con số này chỉ dùng để đếm các hạt vi mô như nguyên tử, phân tử.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 3 (Mục I.1): Cơ sở định nghĩa đơn vị lượng chất mol và quy đổi giữa số mol với số nguyên tử, phân tử.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B3 (Mục I.1), tr. 16; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B3 (Mục I.1), tr. 16, 17
+
 ### axial overlap
 - **Tiếng Việt:** Xen phủ trục
 - **Chuyên ngành gốc:** Hóa học
@@ -584,10 +634,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A molecule or ion capable of accepting a proton ($\text{H}^+$) from another species in a chemical reaction according to the Brønsted–Lowry theory (for example, OH⁻, NH₃, the CO₃²⁻ ion, or H₂O when reacting with HCl).
 - **Giải thích (VI):** Phân tử hoặc ion có khả năng nhận proton ($\text{H}^+$) từ chất khác trong phản ứng hoá học theo thuyết Brønsted – Lowry (ví dụ OH⁻, NH₃, ion CO₃²⁻ hoặc H₂O khi tác dụng với HCl).
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A chemical compound whose molecule consists of a metal atom bonded to one or more hydroxide groups (-OH, equal in number to the metal's valence) and yields OH⁻ ions when dissolved in water. Bases are named by combining the metal name (with Roman-numeral valence if multivalent) followed by hydroxide. / VI: Hợp chất hoá học mà phân tử gồm một nguyên tử kim loại liên kết với một hay nhiều nhóm hydroxide (-OH, có số nhóm bằng hoá trị của kim loại), khi tan trong nước tạo ra ion OH⁻. Tên của base được gọi theo quy tắc ghép tên kim loại (kèm hoá trị nếu kim loại có nhiều hoá trị) với từ hydroxide.
 - **Bối cảnh:**
   - Hóa học lớp 11, Bài 2 (Mục II.1): Nhận diện vai trò chất nhận proton của phân tử và anion trong các cân bằng acid – base.
+  - Khoa học tự nhiên lớp 8, Bài 9 (Mục I, II): Xác định thành phần công thức, danh pháp và phân loại thành base kiềm và base không tan.
   - *Lưu ý:* Định nghĩa theo thuyết Brønsted – Lowry trong chương trình Hóa học 11 (chất nhận proton H⁺), phân biệt với cơ số trong Toán học hoặc nitrogenous base trong Sinh học phân tử.
-- **Nguồn:** SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.b), tr. 18; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.b), tr. 19; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục II.1), tr. 19
+  - *Lưu ý:* Chỉ hợp chất hydroxide kim loại trong hoá học; phân biệt với cơ số của luỹ thừa hoặc cạnh đáy trong hình học.
+- **Nguồn:** SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.b), tr. 18; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.b), tr. 19; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục II.1), tr. 19; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục I), tr. 39; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục I), tr. 39, 40
 
 ### base hydrolysis of esters
 - **Tiếng Việt:** Phản ứng thuỷ phân ester trong môi trường base
@@ -612,6 +665,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Môi trường dung dịch nước trong đó nồng độ ion H⁺ nhỏ hơn nồng độ ion OH⁻ ($[\text{H}^+] < [\text{OH}^-]$), tương ứng với $[\text{H}^+] < 10^{-7}\text{ mol/L}$ hay $\text{pH} > 7$ ở $25\text{ }^\circ\text{C}$.
 - **Bối cảnh:** Hóa học lớp 11, Bài 2 (Mục III.1): Phân loại môi trường của nước vôi, nước biển, dung dịch xà phòng và dung dịch muối Na₂CO₃.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 01, B2 (Mục III.1), tr. 21; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục III.4), tr. 24; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục IV.1), tr. 24
+
+### basic oxide
+- **Tiếng Việt:** Oxide base
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A class of oxides capable of reacting with an aqueous acid to form a salt and water (such as CuO, Na₂O, CaO, or Fe₂O₃).
+- **Giải thích (VI):** Loại oxide có khả năng tác dụng với dung dịch acid tạo thành muối và nước (như CuO, Na₂O, CaO, Fe₂O₃).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 10 (Mục II.2): Phân loại oxide theo tính chất hoá học và ứng dụng khử chua đất trồng bằng vôi sống (CaO).
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục II.1), tr. 46; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục II.2), tr. 46
 
 ### basicity of amines
 - **Tiếng Việt:** Tính base của amine
@@ -758,8 +819,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A substance that increases the rate of a chemical reaction by providing multi-step pathways with lower activation energies, while remaining unchanged in mass and chemical identity after the reaction finishes (although particle size, shape, or porosity may change).
 - **Giải thích (VI):** Chất làm tăng tốc độ phản ứng hoá học bằng cách hướng phản ứng đi qua các giai đoạn có năng lượng hoạt hoá thấp hơn, nhưng giữ nguyên khối lượng và bản chất hoá học sau khi phản ứng kết thúc (dù kích thước, hình dạng hạt hoặc độ xốp có thể thay đổi).
-- **Bối cảnh:** Hóa học lớp 10, Bài 19 (Mục II.5): Ứng dụng trong phòng thí nghiệm, công nghiệp hoá chất và quá trình sinh hoá (enzyme) để tăng tốc độ phản ứng mà không bị tiêu hao sau phản ứng.
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 06, B19 (Mục II.2), tr. 97; SGK Hóa học 10 KNTT, Chương 06, B19 (Mục II.5), tr. 99; SGK Hóa học 10 KNTT, Chương 06, B19 (Mục III), tr. 100; SGK Hóa học 10 KNTT, Bảng giải thích thuật ngữ, tr. 119
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A substance that increases the rate of a chemical reaction while remaining unchanged in mass and chemical properties after the reaction finishes, such as MnO₂ in the decomposition of H₂O₂ or amylase enzyme in starch breakdown. / VI: Chất có tác dụng làm tăng tốc độ của phản ứng hoá học nhưng vẫn giữ nguyên khối lượng và bản chất hoá học sau khi phản ứng kết thúc, ví dụ như MnO₂ trong phản ứng phân huỷ H₂O₂ hoặc enzyme amylase phân giải tinh bột.
+- **Bối cảnh:**
+  - Hóa học lớp 10, Bài 19 (Mục II.5): Ứng dụng trong phòng thí nghiệm, công nghiệp hoá chất và quá trình sinh hoá (enzyme) để tăng tốc độ phản ứng mà không bị tiêu hao sau phản ứng.
+  - Khoa học tự nhiên lớp 8, Bài 7 (Mục II.4): Khảo sát vai trò đẩy nhanh tốc độ phản ứng của chất xúc tác vô cơ và xúc tác sinh học (enzyme).
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 06, B19 (Mục II.2), tr. 97; SGK Hóa học 10 KNTT, Chương 06, B19 (Mục II.5), tr. 99; SGK Hóa học 10 KNTT, Chương 06, B19 (Mục III), tr. 100; SGK Hóa học 10 KNTT, Bảng giải thích thuật ngữ, tr. 119; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B7 (Mục II.4), tr. 33; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B7 (Mục II.4), tr. 33, 34; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195
 
 ### cation
 - **Tiếng Việt:** Ion dương (cation)
@@ -857,6 +921,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Khoa học tự nhiên lớp 7, Bài 6 (Mục I, II, III): Khái niệm nền tảng để tìm hiểu sự hình thành liên kết ion và liên kết cộng hoá trị trong phân tử.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 03, B10, tr. 49; SGK Hóa học 10 KNTT, Chương 03, B10 (Mục I), tr. 49; SGK Hóa học 10 KNTT, Chương 03, B10 (Mục II), tr. 50; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6, tr. 36; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục I), tr. 36; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B6 (Mục III.2), tr. 39
 
+### chemical change
+- **Tiếng Việt:** Biến đổi hoá học
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A transformation of matter in which one or more new substances with properties different from the original substances are formed, such as fuel combustion, chemical decomposition, or chemical synthesis.
+- **Giải thích (VI):** Quá trình biến đổi của chất trong đó có sự tạo thành chất mới có tính chất khác với chất ban đầu, chẳng hạn như sự đốt cháy nhiên liệu, phân huỷ chất hoặc tổng hợp chất.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 2 (Mục I): Nhận diện các quá trình sinh ra chất mới trong tự nhiên và thí nghiệm, đối lập với biến đổi vật lí.
+  - *Lưu ý:* Phân biệt với biến đổi vật lí là quá trình chỉ thay đổi trạng thái hoặc hình dạng mà không tạo ra chất mới.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục I), tr. 12; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195
+
 ### chemical compound
 - **Tiếng Việt:** Hợp chất
 - **Chuyên ngành gốc:** Hóa học
@@ -884,6 +958,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Khoa học tự nhiên lớp 7, Bài 3 (Mục I): Nhận biết và phân loại các nguyên tử thuộc cùng một nguyên tố dựa vào số proton trong hạt nhân.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B2, tr. 17; SGK Hóa học 10 KNTT, Chương 01, B2 (Mục I), tr. 17; SGK Hóa học 10 KNTT, Chương 01, B2 (Mục II), tr. 17; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177
 
+### chemical equation
+- **Tiếng Việt:** Phương trình hoá học
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A concise symbolic representation of a chemical reaction using chemical formulas and stoichiometric coefficients such that the total number of atoms of each element on the reactant side (left of the arrow) equals that on the product side (right of the arrow). It indicates the ratios of atoms, molecules, and moles among the substances involved in the reaction.
+- **Giải thích (VI):** Biểu thức biểu diễn ngắn gọn phản ứng hoá học bằng công thức hoá học và hệ số thích hợp sao cho tổng số nguyên tử của mỗi nguyên tố ở vế chất tham gia (bên trái mũi tên) bằng tổng số nguyên tử của nguyên tố đó ở vế chất sản phẩm (bên phải mũi tên). Phương trình hoá học cho biết tỉ lệ số nguyên tử, số phân tử và tỉ lệ số mol giữa các chất trong phản ứng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 5 (Mục II): Lập qua 3 bước và dùng làm cơ sở xác định tỉ lệ mol trong các bài toán tính theo phương trình hoá học.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B5 (Mục II.1), tr. 26; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B5 (Mục II.2), tr. 27
+
 ### chemical equilibrium
 - **Tiếng Việt:** Cân bằng hoá học
 - **Chuyên ngành gốc:** Hóa học
@@ -891,6 +973,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Trạng thái cân bằng động của phản ứng thuận nghịch khi tốc độ phản ứng thuận bằng tốc độ phản ứng nghịch. Ở trạng thái này, các chất đầu và sản phẩm vẫn liên tục chuyển hoá lẫn nhau với tốc độ bằng nhau nên nồng độ các chất trong hệ không thay đổi.
 - **Bối cảnh:** Hóa học lớp 11, Bài 1 (Mục II.1): Giải thích bản chất cân bằng động của các phản ứng thuận nghịch trong tự nhiên, cơ thể người và sản xuất công nghiệp.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 01, B1 (Mục II.1), tr. 9; SGK Hóa học 11 KNTT, Chương 01, B1 (Mục II.2.a), tr. 9; SGK Hóa học 11 KNTT, Chương 01, B1 (Mục II.2.a), tr. 9, 10
+
+### chemical fertilizer
+- **Tiếng Việt:** Phân bón hoá học
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A chemical substance containing essential nutrient elements applied to crops to replenish soil nutrients and increase agricultural yield.
+- **Giải thích (VI):** Hoá chất có chứa các nguyên tố dinh dưỡng thiết yếu, dùng để bón cho cây nhằm bổ sung dinh dưỡng cho đất và nâng cao năng suất cây trồng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 12 (Mục I): Khái niệm chung cho các loại phân đạm, phân lân, phân kali, phân NPK và phân vi lượng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12, tr. 53; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 53; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 53, 54
 
 ### chemical formula
 - **Tiếng Việt:** Công thức hoá học
@@ -923,6 +1013,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Khả năng biến đổi của chất này thành chất khác, chẳng hạn khả năng bị phân huỷ khi đun nóng hoặc khả năng cháy tạo ra chất mới.
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 9 (Mục II): nhận diện qua các hiện tượng tạo ra chất mới như nung đá vôi thành vôi sống, đốt than đá tạo khí carbon dioxide hay đun nóng đường hoá nâu sẫm.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 02, B9 (Mục II), tr. 29; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195
+
+### chemical reaction
+- **Tiếng Việt:** Phản ứng hoá học
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A process in which one or more substances transform into different substances through the breaking of chemical bonds in reactant molecules and the formation of new bonds in product molecules. Its occurrence is typically indicated by a color change, gas evolution, precipitate formation, heat release, or light emission.
+- **Giải thích (VI):** Quá trình biến đổi từ chất này thành chất khác thông qua sự phá vỡ các liên kết trong phân tử chất đầu và hình thành các liên kết mới tạo ra phân tử mới. Sự xảy ra phản ứng thường nhận biết qua dấu hiệu đổi màu, thoát khí, xuất hiện kết tủa, toả nhiệt hoặc phát sáng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 2 (Mục II): Giải thích bản chất vi mô và dấu hiệu nhận biết sự tạo thành chất mới trong các thí nghiệm hoá học.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục II.1), tr. 12, 13; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục II.3), tr. 14
 
 ### chemical structure
 - **Tiếng Việt:** Cấu tạo hoá học
@@ -1379,6 +1477,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 10, Bài 12 (Mục I.2, III.2): Minh hoạ qua sự tạo thành phân tử O₂, CO₂ và liên kết giữa hai nguyên tử carbon trong phân tử ethylene C₂H₄.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 03, B12 (Mục I.2), tr. 57; SGK Hóa học 10 KNTT, Chương 03, B12 (Mục I.3), tr. 57; SGK Hóa học 10 KNTT, Chương 03, B12 (Mục I.3), tr. 57, 58
 
+### double displacement reaction
+- **Tiếng Việt:** Phản ứng trao đổi
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A chemical reaction in which two reacting compounds exchange their constituent components to form new compounds. In aqueous reactions between a salt and an acid, base, or another salt, the reaction occurs only if the products include at least one gas, insoluble substance, or slightly soluble substance.
+- **Giải thích (VI):** Phản ứng hoá học trong đó hai hợp chất tham gia trao đổi với nhau các thành phần cấu tạo để tạo ra những hợp chất mới. Trong dung dịch giữa muối với acid, base hoặc muối khác, phản ứng xảy ra khi sản phẩm có ít nhất một chất khí, chất không tan hoặc ít tan.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 11 (Mục III): Xét điều kiện xảy ra các phản ứng trong dung dịch của muối với acid, dung dịch base và dung dịch muối.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B11 (Mục III), tr. 51; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B11 (Mục IV), tr. 51
+
 ### duralumin
 - **Tiếng Việt:** Duralumin
 - **Chuyên ngành gốc:** Hóa học
@@ -1576,14 +1682,6 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 12, Bài 9 (Mục I.4.c): Phân tích và tách các amino acid dựa trên dạng tồn tại ion phụ thuộc vào pH của dung dịch.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 03, B9 (Mục I.4), tr. 43
 
-### electroplating
-- **Tiếng Việt:** Mạ điện
-- **Chuyên ngành gốc:** Hóa học
-- **Giải thích (EN):** An electrolytic method using a salt solution of the plating metal with the object to be coated as the cathode and a bar of the plating metal as the anode, whereby metal ions are reduced to form a solid metallic coating over the object's surface for decoration or corrosion protection.
-- **Giải thích (VI):** Phương pháp ứng dụng sự điện phân dung dịch muối của kim loại mạ với vật cần mạ làm cathode và thanh kim loại mạ làm anode, trong đó ion kim loại bị khử tạo thành lớp kim loại rắn bao phủ trên bề mặt vật cần mạ nhằm trang trí hoặc chống ăn mòn.
-- **Bối cảnh:** Hóa học lớp 12, Bài 16 (Mục II.3): ứng dụng thực tiễn của quá trình điện phân trong gia công và bảo vệ bề mặt kim loại.
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 05, B16 (Mục II.2), tr. 83; SGK Hóa học 12 KNTT, Chương 05, B16 (Mục II.3), tr. 83; SGK Hóa học 12 KNTT, Chương 05, B16 (Mục II.3), tr. 83, 84
-
 ### electrowinning
 - **Tiếng Việt:** Phương pháp điện phân dung dịch
 - **Chuyên ngành gốc:** Hóa học
@@ -1641,8 +1739,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A chemical reaction that absorbs energy in the form of heat from the surroundings into the reacting system, lowering the surrounding temperature and having a positive enthalpy change ($\Delta_r H > 0$).
 - **Giải thích (VI):** Phản ứng hoá học hấp thụ năng lượng dưới dạng nhiệt truyền từ môi trường xung quanh vào hệ phản ứng, làm giảm nhiệt độ môi trường và có biến thiên enthalpy dương ($\Delta_r H > 0$).
-- **Bối cảnh:** Hóa học lớp 10, Bài 17 (Mục I, II.3): Phân biệt với phản ứng toả nhiệt qua các ví dụ như nung đá vôi, nhiệt phân KMnO₄, nhiệt phân Cu(OH)₂ và hoà tan viên sủi vitamin C.
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 05, B17, tr. 81; SGK Hóa học 10 KNTT, Chương 05, B17 (Mục I), tr. 81; SGK Hóa học 10 KNTT, Chương 05, B17 (Mục I), tr. 81, 82
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A chemical reaction that absorbs energy in the form of heat from its surroundings throughout the course of the reaction, such as the calcination of limestone or the thermal decomposition of copper(II) hydroxide. / VI: Phản ứng hoá học hấp thụ năng lượng dưới dạng nhiệt từ môi trường xung quanh trong suốt quá trình phản ứng diễn ra, ví dụ như phản ứng nung đá vôi hoặc phân huỷ copper(II) hydroxide.
+- **Bối cảnh:**
+  - Hóa học lớp 10, Bài 17 (Mục I, II.3): Phân biệt với phản ứng toả nhiệt qua các ví dụ như nung đá vôi, nhiệt phân KMnO₄, nhiệt phân Cu(OH)₂ và hoà tan viên sủi vitamin C.
+  - Khoa học tự nhiên lớp 8, Bài 2 (Mục III.1): Phân biệt với phản ứng toả nhiệt thông qua dấu hiệu cần liên tục cung cấp nhiệt để duy trì phản ứng.
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 05, B17, tr. 81; SGK Hóa học 10 KNTT, Chương 05, B17 (Mục I), tr. 81; SGK Hóa học 10 KNTT, Chương 05, B17 (Mục I), tr. 81, 82; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục III.1), tr. 14; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196
 
 ### enthalpy change of reaction
 - **Tiếng Việt:** Biến thiên enthalpy của phản ứng (biến thiên enthalpy; nhiệt phản ứng; $\Delta_r H$)
@@ -1749,8 +1850,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A chemical reaction that releases energy in the form of heat from the reacting system to the surroundings, raising the surrounding temperature and having a negative enthalpy change ($\Delta_r H < 0$).
 - **Giải thích (VI):** Phản ứng hoá học giải phóng năng lượng dưới dạng nhiệt truyền từ hệ phản ứng ra môi trường xung quanh, làm tăng nhiệt độ môi trường và có biến thiên enthalpy âm ($\Delta_r H < 0$).
-- **Bối cảnh:** Hóa học lớp 10, Bài 17 (Mục I, II.3): Phân biệt với phản ứng thu nhiệt qua các ví dụ như đốt cháy nhiên liệu, phản ứng tôi vôi và phản ứng trung hoà acid – base.
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 05, B17, tr. 81; SGK Hóa học 10 KNTT, Chương 05, B17 (Mục I), tr. 81; SGK Hóa học 10 KNTT, Chương 05, B17 (Mục I), tr. 81, 82
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A chemical reaction that releases energy in the form of heat to its surroundings as it occurs, typically exemplified by the combustion of ethanol, coal, gasoline, oil, or gas. / VI: Phản ứng hoá học giải phóng năng lượng dưới dạng nhiệt ra môi trường xung quanh khi xảy ra, điển hình như các phản ứng đốt cháy cồn, than, xăng, dầu hoặc khí gas.
+- **Bối cảnh:**
+  - Hóa học lớp 10, Bài 17 (Mục I, II.3): Phân biệt với phản ứng thu nhiệt qua các ví dụ như đốt cháy nhiên liệu, phản ứng tôi vôi và phản ứng trung hoà acid – base.
+  - Khoa học tự nhiên lớp 8, Bài 2 (Mục III.1): Phân loại phản ứng theo sự trao đổi nhiệt năng với môi trường và ứng dụng cung cấp nhiệt trong đời sống, sản xuất.
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 05, B17, tr. 81; SGK Hóa học 10 KNTT, Chương 05, B17 (Mục I), tr. 81; SGK Hóa học 10 KNTT, Chương 05, B17 (Mục I), tr. 81, 82; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục III.1), tr. 14; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục III.2), tr. 14; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196
 
 ### extraction
 - **Tiếng Việt:** Chiết (phương pháp chiết)
@@ -2177,6 +2281,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 11, Bài 10 (Mục II): Bao gồm các hợp chất như dẫn xuất halogen, alcohol, aldehyde, ketone, carboxylic acid, ester, ether và amine.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B10 (Mục II), tr. 59
 
+### hydrochloric acid
+- **Tiếng Việt:** Hydrochloric acid
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** An aqueous solution of hydrogen chloride with the chemical formula HCl, existing as a colorless strongly acidic liquid. It occurs naturally in gastric juice to aid digestion and kill bacteria, and is widely used industrially for steel pickling, organic synthesis, and swimming-pool pH adjustment.
+- **Giải thích (VI):** Dung dịch nước của khí hydrogen chloride có công thức hoá học HCl, tồn tại ở dạng chất lỏng không màu có tính acid mạnh. Hợp chất này có mặt trong dịch vị dạ dày giúp tiêu hoá thức ăn, diệt khuẩn và được ứng dụng rộng rãi trong công nghiệp tẩy gỉ thép, tổng hợp chất hữu cơ, xử lí pH nước bể bơi.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 8 (Mục III.2): Tìm hiểu tính chất và vai trò sinh học – công nghiệp của dung dịch acid thông dụng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục I), tr. 35; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục III.2), tr. 37
+
 ### hydrogen bond
 - **Tiếng Việt:** Liên kết hydrogen
 - **Chuyên ngành gốc:** Hóa học
@@ -2315,6 +2427,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nhóm hợp chất hoá học bao gồm các hợp chất không chứa nguyên tố carbon và một số hợp chất đơn giản của carbon như carbon dioxide hoặc các muối carbonate (ví dụ: nước, muối ăn, calcium carbonate).
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 5 (Mục I.2) và Bài 7 (Mục II.2): Phân loại hợp chất trong tự nhiên và áp dụng quy tắc hoá trị.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục I.2), tr. 34; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.1), tr. 34; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục II.1), tr. 34, 35
+
+### insoluble base
+- **Tiếng Việt:** Base không tan
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** The majority group of bases (metal hydroxides) that do not dissolve in water, such as Mg(OH)₂, Cu(OH)₂, Fe(OH)₂, and Fe(OH)₃.
+- **Giải thích (VI):** Nhóm chiếm phần lớn các base (hydroxide kim loại) không tan được trong nước, chẳng hạn như Mg(OH)₂, Cu(OH)₂, Fe(OH)₂ và Fe(OH)₃.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 9 (Mục I, II): Tra cứu bảng tính tan để phân biệt với dung dịch kiềm, dù cả hai đều tham gia phản ứng trung hoà với acid.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục I), tr. 40; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục II), tr. 40, 41
 
 ### instantaneous reaction rate
 - **Tiếng Việt:** Tốc độ tức thời của phản ứng (tốc độ tức thời; Tốc độ phản ứng tức thời)
@@ -2490,6 +2610,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 10, Bài 12 (Mục III.2): Xảy ra giữa các orbital p song song khi hình thành liên kết đôi (như O₂, C₂H₄) và liên kết ba (như N₂, C₂H₂).
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 03, B12 (Mục III.1), tr. 61; SGK Hóa học 10 KNTT, Chương 03, B12 (Mục III.2), tr. 61; SGK Hóa học 10 KNTT, Chương 03, B12 (Mục IV), tr. 61
 
+### law of conservation of mass
+- **Tiếng Việt:** Định luật bảo toàn khối lượng
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A fundamental law of chemistry (independently established by Lomonosov and Lavoisier) stating that in a chemical reaction, the total mass of the products always equals the total mass of the reactants. This holds because chemical reactions only rearrange bonds between atoms while conserving the number of atoms of each element.
+- **Giải thích (VI):** Định luật cơ bản của hoá học (do Lomonosov và Lavoisier độc lập tìm ra) khẳng định trong một phản ứng hoá học, tổng khối lượng của các chất sản phẩm luôn bằng tổng khối lượng của các chất tham gia phản ứng. Cơ sở của định luật là trong phản ứng chỉ có liên kết giữa các nguyên tử thay đổi, còn số nguyên tử của mỗi nguyên tố vẫn giữ nguyên.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 5 (Mục I): Áp dụng để tính khối lượng của một chất khi biết khối lượng các chất còn lại trong phản ứng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B5 (Mục I.1), tr. 24; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B5 (Mục I.1), tr. 24, 25; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B5 (Mục I.2), tr. 25
+
 ### Le Chatelier's principle
 - **Tiếng Việt:** Nguyên lí chuyển dịch cân bằng Le Chatelier
 - **Chuyên ngành gốc:** Hóa học
@@ -2631,6 +2759,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 11, Bài 11 (Mục II.3): Ứng dụng thực tiễn của phương pháp chiết lỏng – rắn trong bào chế dược liệu và ngâm rượu thuốc truyền thống.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B11 (Mục II.3), tr. 66, 67
 
+### macronutrient element
+- **Tiếng Việt:** Nguyên tố đa lượng (nhóm nguyên tố đa lượng)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A group of essential chemical nutrient elements required in large quantities by crops (comprising N, P, and K) to build cells, regulate metabolic and physiological processes, and enhance resistance to adverse environmental conditions.
+- **Giải thích (VI):** Nhóm nguyên tố hoá học dinh dưỡng mà cây trồng cần với hàm lượng lớn (gồm N, P, K) để cấu tạo tế bào, điều chỉnh hoạt động trao đổi chất, sinh lí và tăng sức chống chịu trước điều kiện môi trường bất lợi.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 12 (Mục I): Phân biệt với nhóm nguyên tố trung lượng (Ca, Mg) và vi lượng (Zn, Cu, Fe, Mn) khi bổ sung phân bón cho cây trồng.
+  - *Lưu ý:* Trong hoá học phân bón (KHTN 8 Bài 12), nhóm nguyên tố đa lượng chỉ ba nguyên tố dinh dưỡng chính N, P, K (tách riêng nhóm trung lượng Ca, Mg), khác với cách phân chia trong sinh học tế bào xếp cả C, H, O, N, P, K, S, Ca, Mg vào nguyên tố đa lượng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12, tr. 53; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 53; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 53, 54
+
 ### main-group elements
 - **Tiếng Việt:** Các nhóm A (nhóm A)
 - **Chuyên ngành gốc:** Hóa học
@@ -2662,6 +2800,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quy tắc xác định hướng ưu tiên khi cộng một tác nhân không đối xứng $\text{HX}$ (như $\text{HBr}$, $\text{HCl}$, $\text{HI}$, $\text{HOH}$) vào liên kết bội: nguyên tử hydrogen ưu tiên cộng vào nguyên tử carbon mang liên kết bội có nhiều hydrogen hơn và phần $\text{X}$ cộng vào nguyên tử carbon có ít hydrogen hơn.
 - **Bối cảnh:** Hóa học lớp 11, Bài 16 (Mục IV.1.d): Xác định sản phẩm chính khi cộng acid HX hoặc cộng nước vào alkene và alkyne không đối xứng.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 04, B16 (Mục IV.1.c), tr. 97; SGK Hóa học 11 KNTT, Chương 04, B16 (Mục IV.1.d), tr. 97; SGK Hóa học 11 KNTT, Chương 04, B16 (Mục IV.2), tr. 97
+
+### mass percent concentration
+- **Tiếng Việt:** Nồng độ phần trăm
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A quantity (symbol $C\%$) indicating the mass in grams of solute contained in $100\text{ g}$ of solution, calculated by the formula $C\% = \frac{m_{\text{solute}}}{m_{\text{solution}}} \times 100\%$ where $m_{\text{solute}}$ is the solute mass and $m_{\text{solution}}$ is the solution mass.
+- **Giải thích (VI):** Đại lượng (kí hiệu $C\%$) cho biết số gam chất tan có trong $100\text{ g}$ dung dịch, được xác định theo công thức $C\% = \frac{m_{\text{ct}}}{m_{\text{dd}}} \cdot 100\%$ với $m_{\text{ct}}$ là khối lượng chất tan và $m_{\text{dd}}$ là khối lượng dung dịch.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 4 (Mục III.1, IV): Tính toán khối lượng chất tan, dung môi và thực hành pha chế dung dịch như nước muối sinh lí $0,9\%$.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục III.1), tr. 21; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục III.1), tr. 22; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục IV), tr. 23
 
 ### mass percentage of an element in a compound
 - **Tiếng Việt:** Phần trăm khối lượng nguyên tố trong hợp chất
@@ -2717,6 +2863,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Sự phá huỷ kim loại hoặc hợp kim dưới tác dụng của các chất trong môi trường, trong đó kim loại bị oxi hoá.
 - **Bối cảnh:** Hóa học lớp 12, Bài 22 (Mục I.1): bản chất oxi hoá – khử của hiện tượng gỉ sét, hư hại vật liệu kim loại trong tự nhiên.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 06, B22, tr. 102; SGK Hóa học 12 KNTT, Chương 06, B22 (Mục I.1), tr. 102; SGK Hóa học 12 KNTT, Chương 06, B22 (Mục I.2), tr. 102
+
+### metal oxide
+- **Tiếng Việt:** Oxide kim loại
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** An oxide compound composed of a metallic element bonded to oxygen, commonly formed through the direct chemical reaction of a metal with oxygen gas.
+- **Giải thích (VI):** Hợp chất oxide tạo bởi một nguyên tố kim loại liên kết với nguyên tố oxygen, thường thu được từ phản ứng hoá học trực tiếp giữa kim loại với khí oxygen.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 10 (Mục I): Nhóm oxide phân loại theo thành phần nguyên tố, đối lập với oxide phi kim.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44, 45
 
 ### metal recycling
 - **Tiếng Việt:** Tái chế kim loại
@@ -2787,8 +2941,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A solid methane hydrate substance formed under conditions of high pressure and low temperature, found in vast quantities deep beneath the Arctic seabed.
 - **Giải thích (VI):** Chất rắn dạng methane hydrate hình thành trong điều kiện áp suất cao và nhiệt độ thấp, tồn tại với lượng rất lớn ở sâu dưới đáy biển Bắc Cực.
-- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 14 (Mục III): Nguồn nhiên liệu tiềm năng được giới thiệu mở rộng trong phần tìm hiểu an ninh năng lượng.
-- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục II), tr. 51; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục III), tr. 51
+- **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: A solid crystalline compound formed from water and natural gas, predominantly methane compressed within a lattice of water crystals. This energy mineral occurs abundantly in deep-ocean seafloor sediments and holds significant potential for future use. / VI: Hợp chất rắn giữa nước và khí tự nhiên mà chủ yếu là khí mê-tan bị nén giữ bên trong cấu trúc tinh thể nước. Loại khoáng sản năng lượng này phân bố nhiều trong các lớp trầm tích ở đáy đại dương và có tiềm năng sử dụng lớn trong tương lai.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 14 (Mục III): Nguồn nhiên liệu tiềm năng được giới thiệu mở rộng trong phần tìm hiểu an ninh năng lượng.
+  - Lịch sử và Địa lí lớp 8, Bài 12 (Mục 2): loại khoáng sản năng lượng tiềm năng ở vùng biển và thềm lục địa Việt Nam.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục II), tr. 51; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục III), tr. 51; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 2), tr. 156; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 173
+
+### micronutrient element
+- **Tiếng Việt:** Nguyên tố vi lượng (nhóm nguyên tố vi lượng)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A group of essential chemical nutrient elements required in small quantities by crops (such as Zn, Mn, Fe, and Cu) that play an indispensable role in stimulating plant growth and metabolism.
+- **Giải thích (VI):** Nhóm nguyên tố hoá học dinh dưỡng mà cây trồng cần với hàm lượng nhỏ nhưng không thể thiếu (như Zn, Mn, Fe, Cu), có vai trò kích thích quá trình sinh trưởng và trao đổi chất của cây.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 12 (Mục I): Phân biệt với nhóm nguyên tố đa lượng và trung lượng trong thành phần dinh dưỡng bổ sung cho cây trồng.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12, tr. 53; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 53; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 53, 54
 
 ### mixture
 - **Tiếng Việt:** Hỗn hợp
@@ -2805,6 +2970,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phương pháp nghiên cứu sử dụng mô hình để mô tả và mô phỏng cấu tạo của các hạt vi mô không quan sát được bằng mắt thường (như phân tử, nguyên tử và các hạt nhỏ hơn) nhằm suy ra cấu tạo của các vật thể thực.
 - **Bối cảnh:** Hóa học lớp 10, Mở đầu (Mục III.4): Vận dụng phổ biến khi nghiên cứu cấu tạo nguyên tử, phân tử, liên kết hoá học và bảng tuần hoàn.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, Mở đầu (Mục III), tr. 11
+
+### molar concentration
+- **Tiếng Việt:** Nồng độ mol
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A quantity (symbol $C_{\text{M}}$) indicating the number of moles of solute contained in $1\text{ L}$ of solution, calculated via $C_{\text{M}} = \frac{n_{\text{solute}}}{V_{\text{solution}}}$ and expressed in $\text{mol/L}$ (commonly abbreviated as $\text{M}$).
+- **Giải thích (VI):** Đại lượng (kí hiệu $C_{\text{M}}$) cho biết số mol chất tan có trong $1\text{ L}$ dung dịch, được tính theo công thức $C_{\text{M}} = \frac{n_{\text{ct}}}{V_{\text{dd}}}$ với đơn vị là $\text{mol/L}$ (thường viết tắt là $\text{M}$).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 4 (Mục III.2): Biểu thị nồng độ các dung dịch hoá chất trong phòng thí nghiệm và tính toán lượng chất theo thể tích dung dịch.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục III.2), tr. 22; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục IV), tr. 23
+
+### molar mass
+- **Tiếng Việt:** Khối lượng mol
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** The mass in grams of $N_{\text{A}}$ atoms or molecules (i.e., $1\text{ mol}$) of a substance, denoted by $M$ and expressed in $\text{g/mol}$. It has the same numerical value as the atomic or molecular mass in $\text{amu}$ and relates substance mass $m$ and amount $n$ via $M = \frac{m}{n}$.
+- **Giải thích (VI):** Khối lượng của $N_{\text{A}}$ nguyên tử hoặc phân tử (tức $1\text{ mol}$) của một chất tính theo đơn vị gam, kí hiệu là $M$ và có đơn vị $\text{g/mol}$. Khối lượng mol có cùng trị số với khối lượng nguyên tử hoặc phân tử tính theo $\text{amu}$ và liên hệ với khối lượng chất $m$, số mol $n$ qua công thức $M = \frac{m}{n}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 3 (Mục I.2): Dùng để chuyển đổi qua lại giữa số mol và khối lượng chất trong các bài toán hoá học.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B3 (Mục I.2), tr. 17; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B3 (Mục I.2), tr. 17, 18
+
+### molar volume of a gas
+- **Tiếng Việt:** Thể tích mol của chất khí
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** The volume occupied by $N_{\text{A}}$ molecules ($1\text{ mol}$) of a gas under specified conditions of temperature and pressure. At the same temperature and pressure, all gases have equal molar volumes, equal to $24.79\text{ L/mol}$ under standard ambient conditions ($25\text{ }^\circ\text{C}$, $1\text{ bar}$).
+- **Giải thích (VI):** Thể tích chiếm bởi $N_{\text{A}}$ phân tử ($1\text{ mol}$) của một chất khí ở điều kiện nhiệt độ và áp suất xác định. Ở cùng điều kiện nhiệt độ và áp suất, mọi chất khí đều có thể tích mol bằng nhau và ở điều kiện chuẩn ($25\text{ }^\circ\text{C}$, $1\text{ bar}$) có giá trị bằng $24,79\text{ L/mol}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 3 (Mục I.3): Áp dụng công thức $V = 24,79 \cdot n$ để tính thể tích hoặc số mol chất khí ở điều kiện chuẩn.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B3 (Mục I.3), tr. 18
+
+### mole
+- **Tiếng Việt:** Mol
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** The unit of amount of substance in chemistry, corresponding to the quantity of a substance that contains $N_{\text{A}}$ ($6.022 \times 10^{23}$) atoms or molecules of that substance.
+- **Giải thích (VI):** Đơn vị đo lượng chất trong hoá học, tương ứng với lượng chất có chứa $N_{\text{A}}$ ($6,022 \cdot 10^{23}$) nguyên tử hoặc phân tử của chất đó.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 3 (Mục I.1): Đại lượng trung tâm dùng để tính toán khối lượng chất, thể tích khí, nồng độ dung dịch và phương trình hoá học.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B3 (Mục I.1), tr. 16; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196
 
 ### molecular formula
 - **Tiếng Việt:** Công thức phân tử
@@ -3007,6 +3204,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 11, Bài 2 (Mục III.1): Đánh giá môi trường của nước tinh khiết và dung dịch các muối không bị thuỷ phân như NaCl.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 01, B2 (Mục III.1), tr. 21
 
+### neutral oxide
+- **Tiếng Việt:** Oxide trung tính (oxide không tạo muối)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A class of oxides that react with neither aqueous acids nor aqueous bases and thus do not form salts (such as CO or NO).
+- **Giải thích (VI):** Loại oxide không tác dụng với cả dung dịch acid lẫn dung dịch base nên không tạo muối (như CO, NO).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 10 (Mục II.4): Nhóm thứ tư khi phân loại oxide theo tính chất hoá học, bên cạnh oxide acid, oxide base và oxide lưỡng tính.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục II.1), tr. 46; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục II.2), tr. 46
+
+### neutralization reaction
+- **Tiếng Việt:** Phản ứng trung hoà
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A chemical reaction between a base and an acid that produces a salt and water, such as the reaction of Ca(OH)₂ with H₂SO₄ to form CaSO₄ and H₂O.
+- **Giải thích (VI):** Phản ứng hoá học giữa base và acid tạo thành sản phẩm là muối và nước, ví dụ phản ứng giữa Ca(OH)₂ và H₂SO₄ tạo ra CaSO₄ và H₂O.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 9 (Mục II): Giải thích tính chất hoá học chung của base và các ứng dụng thực tế như khử chua đất hoặc bôi vôi vào vết ong, kiến đốt.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục II), tr. 41
+
 ### nitration of phenol
 - **Tiếng Việt:** Phản ứng nitro hoá của phenol
 - **Chuyên ngành gốc:** Hóa học
@@ -3038,6 +3251,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nguyên tố phi kim thuộc ô số 7, nhóm VA, chu kì 2 (độ âm điện 3,04), chiếm 78,1% thể tích khí quyển Trái Đất. Đơn chất N₂ là chất khí không màu, không mùi, rất ít tan trong nước, khá trơ ở nhiệt độ thường do phân tử có liên kết ba rất bền ($945\text{ kJ/mol}$), nhưng hoạt động hơn ở nhiệt độ cao và thể hiện cả tính oxi hoá lẫn tính khử.
 - **Bối cảnh:** Hóa học lớp 11, Bài 4 (Mục I): Khảo sát trạng thái tự nhiên, cấu tạo phân tử N₂, tính trơ hoá học ở điều kiện thường và các ứng dụng làm lạnh, bảo quản thực phẩm, tổng hợp ammonia.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 02, B4, tr. 29; SGK Hóa học 11 KNTT, Chương 02, B4 (Mục I), tr. 29; SGK Hóa học 11 KNTT, Chương 02, B4 (Mục II.1), tr. 30
+
+### nitrogen fertilizer
+- **Tiếng Việt:** Phân đạm
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A water-soluble chemical fertilizer that supplies nitrogen to crops in the form of nitrate salts (such as NaNO₃, Ca(NO₃)₂, or NH₄NO₃) or urea ((NH₂)₂CO). Nitrogen fertilizer promotes vigorous plant growth and the development of stems, roots, and leaves.
+- **Giải thích (VI):** Loại phân bón hoá học dễ tan trong nước dùng để cung cấp nguyên tố nitrogen cho cây trồng dưới dạng muối nitrate (như NaNO₃, Ca(NO₃)₂, NH₄NO₃) hoặc urea ((NH₂)₂CO). Phân đạm thúc đẩy mạnh quá trình sinh trưởng, giúp cây phát triển thân, rễ và lá.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 12 (Mục II.1): Tìm hiểu thành phần hoá học, tính tan và vai trò sinh lí của nhóm phân bón đơn cung cấp nitrogen.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 54; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục II.1), tr. 54; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục II.2), tr. 54
 
 ### nitrogen oxides
 - **Tiếng Việt:** Các oxide của nitrogen (NOₓ)
@@ -3090,6 +3311,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 10, Bài 3 (Mục III.3): Dự đoán tính phi kim của nguyên tố dựa trên số electron lớp ngoài cùng của nguyên tử.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B3 (Mục III.3), tr. 25
 
+### non-metal oxide
+- **Tiếng Việt:** Oxide phi kim
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A binary compound consisting of a non-metal element and oxygen, which can be formed from the reaction of a non-metal with oxygen (such as CO₂, SO₃, or P₂O₅).
+- **Giải thích (VI):** Hợp chất của hai nguyên tố gồm một nguyên tố phi kim và oxygen, có thể tạo thành từ phản ứng giữa phi kim với oxygen (như CO₂, SO₃, P₂O₅).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 10 (Mục I): Phân loại oxide theo thành phần nguyên tố, đối lập với oxide kim loại và gọi tên kèm tiền tố chỉ số nguyên tử.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10, tr. 44; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44, 45
+
 ### non-metallic character
 - **Tiếng Việt:** Tính phi kim
 - **Chuyên ngành gốc:** Hóa học
@@ -3113,6 +3342,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tập hợp chưa đến 20 nguyên tố hoá học nằm chủ yếu ở góc trên bên phải bảng tuần hoàn (cùng nguyên tố H ở nhóm IA), gồm hầu hết các nguyên tố nhóm VIIA, VIA, VA và một số nguyên tố nhóm IVA, IIIA. Ở điều kiện thường chúng tồn tại ở thể rắn, lỏng hoặc khí và nguyên tử phi kim có xu hướng nhận electron để đạt lớp vỏ bền vững giống khí hiếm.
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 4 (Mục III.2): Nhận biết vị trí các phi kim (thể hiện bằng ô màu hồng trong bảng tuần hoàn) và vai trò của O, Cl, S, C trong tự nhiên và đời sống.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục I), tr. 25; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục II.3), tr. 28; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B4 (Mục III.1), tr. 30
+
+### NPK fertilizer
+- **Tiếng Việt:** Phân NPK (phân bón hỗn hợp)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A compound mixed fertilizer simultaneously containing all three primary macronutrients—nitrogen (N), phosphorus (P), and potassium (K)—sometimes supplemented with secondary nutrients (Ca, Mg) and micronutrients (Zn, Cu).
+- **Giải thích (VI):** Loại phân bón hỗn hợp chứa đồng thời cả ba thành phần dinh dưỡng đa lượng gồm đạm (nitrogen), lân (phosphorus) và kali (potassium), đôi khi được bổ sung thêm nguyên tố trung lượng (Ca, Mg) và vi lượng (Zn, Cu).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 12 (Mục II.4): Phân biệt phân bón hỗn hợp đa dinh dưỡng với các loại phân bón đơn (chỉ chứa đạm, lân hoặc kali).
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 54; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục II.1), tr. 54; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục II.2), tr. 54
 
 ### nuclear charge number
 - **Tiếng Việt:** Số đơn vị điện tích hạt nhân ($Z$; Z)
@@ -3204,6 +3441,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 12, Bài 1 (Mục II.4): Phân biệt vị trí liên kết đôi và nguồn thực phẩm giàu omega-6 so với omega-3.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 01, B1 (Mục II.3.b), tr. 12; SGK Hóa học 12 KNTT, Chương 01, B1 (Mục II.4), tr. 12; SGK Hóa học 12 KNTT, Chương 01, B1 (Mục II.4), tr. 12, 13
 
+### oral rehydration solution
+- **Tiếng Việt:** Oresol
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A medical formulation used to prepare an aqueous solution for fluid and electrolyte replacement in the body, containing key solutes such as sodium chloride, sodium bicarbonate, potassium chloride, and glucose at specified molar concentrations.
+- **Giải thích (VI):** Chế phẩm tạo dung dịch y tế dùng để bù nước và điện giải cho cơ thể, chứa các chất tan chính gồm sodium chloride, sodium bicarbonate, potassium chloride và glucose pha theo nồng độ mol xác định.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 4 (Mục IV): Ví dụ thực tiễn về vai trò pha đúng nồng độ mol các chất tan trong dung dịch chăm sóc sức khoẻ.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục IV), tr. 23
+
 ### orbital box
 - **Tiếng Việt:** Ô orbital
 - **Chuyên ngành gốc:** Hóa học
@@ -3249,6 +3494,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Hóa học lớp 11, Bài 10 (Mục I.1): Khái niệm mở đầu phần hoá học hữu cơ, phân biệt chất hữu cơ với các hợp chất vô cơ chứa carbon.
   - Khoa học tự nhiên lớp 7, Bài 5 (Mục I.2): Nhận biết nhóm hợp chất cấu tạo nên cơ thể sống và nhiên liệu, phân biệt với hợp chất vô cơ.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B10 (Mục I.1), tr. 57; SGK Hóa học 11 KNTT, Chương 03, B10 (Mục I.1), tr. 57, 58; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Khoa học tự nhiên 7 KNTT, Chương 02, B5 (Mục I.2), tr. 34
+
+### organic fertilizer
+- **Tiếng Việt:** Phân bón hữu cơ (phân hữu cơ)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A fertilizer produced from the decomposition of organic waste (such as plant residues composted with microbial inoculants) that is rich in nutrients, improves soil friability, facilitates plant absorption, and is safe to use.
+- **Giải thích (VI):** Loại phân bón thu được từ quá trình phân huỷ các chất thải hữu cơ (như phụ phẩm thực vật ủ với chế phẩm vi sinh), giàu chất dinh dưỡng, giúp đất tơi xốp, cây dễ hấp thụ và an toàn khi sử dụng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 12 (Mục III): Giải pháp thay thế một phần phân bón hoá học và thực hành ủ rác thải hữu cơ thực vật với chế phẩm vi sinh.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục III), tr. 55
 
 ### orientation rule in alkylbenzene substitution
 - **Tiếng Việt:** Quy tắc thế
@@ -3317,6 +3570,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quá trình chất khử nhường electron trong phản ứng oxi hoá – khử, gắn liền với sự tăng số oxi hoá của nguyên tử.
 - **Bối cảnh:** Hóa học lớp 10, Bài 15 (Mục II.1, III): Biểu diễn dưới dạng bán phản ứng nhường electron (như C⁰ → C⁺⁴ + 4e) khi lập phương trình bằng phương pháp thăng bằng electron.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 04, B15 (Mục I.2), tr. 73; SGK Hóa học 10 KNTT, Chương 04, B15 (Mục II.1), tr. 73; SGK Hóa học 10 KNTT, Chương 04, B15 (Mục II.2), tr. 74
+
+### oxide
+- **Tiếng Việt:** Oxide
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A binary chemical compound composed of two elements, one of which is oxygen. Oxides can be classified by elemental composition (metal oxides and nonmetal oxides) or by chemical behavior (acidic, basic, amphoteric, and neutral oxides).
+- **Giải thích (VI):** Hợp chất hoá học tạo bởi hai nguyên tố, trong đó có một nguyên tố là oxygen. Oxide có thể phân loại theo thành phần nguyên tố (oxide kim loại, oxide phi kim) hoặc theo tính chất hoá học (oxide acid, oxide base, oxide lưỡng tính, oxide trung tính).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 10 (Mục I): Nhận diện công thức hoá học và phân loại hợp chất hai nguyên tố chứa oxygen.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44, 45
 
 ### oxidizing agent
 - **Tiếng Việt:** Chất oxi hoá
@@ -3400,6 +3661,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phản ứng phân cắt các liên kết peptide bởi nước dưới tác dụng của acid, base hoặc enzyme. Thuỷ phân không hoàn toàn tạo thành các peptide nhỏ hơn, còn thuỷ phân hoàn toàn tạo ra các α-amino acid cấu thành (hoặc muối tương ứng khi thực hiện trong môi trường acid hay base).
 - **Bối cảnh:** Hóa học lớp 12, Bài 9 (Mục II.3.a): Tính chất hoá học của peptide và xác định tỉ lệ mol acid hoặc base phản ứng khi thuỷ phân.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 03, B9 (Mục II.3.a), tr. 45
+
+### percent yield
+- **Tiếng Việt:** Hiệu suất của phản ứng (hiệu suất phản ứng)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A quantity (symbol $H$) evaluating the actual conversion efficiency of a chemical reaction, defined as the percentage ratio of the actual product amount ($m'$ or $n'$) to the theoretical product amount ($m$ or $n$) via $H = \frac{m'}{m} \times 100\% = \frac{n'}{n} \times 100\%$. When a reaction goes to completion without loss, the yield reaches $H = 100\%$.
+- **Giải thích (VI):** Đại lượng (kí hiệu $H$) đánh giá mức độ chuyển hoá thực tế của phản ứng hoá học, bằng tỉ số phần trăm giữa lượng sản phẩm thu được theo thực tế ($m'$ hoặc $n'$) và lượng sản phẩm tính theo lí thuyết ($m$ hoặc $n$) qua công thức $H = \frac{m'}{m} \cdot 100\% = \frac{n'}{n} \cdot 100\%$. Khi phản ứng xảy ra hoàn toàn và không thất thoát, hiệu suất đạt $H = 100\%$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 6 (Mục II): Tính hiệu suất phản ứng hoặc tính lượng nguyên liệu cần dùng và lượng sản phẩm thực tế thu được.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B6 (Mục II.1), tr. 29; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B6 (Mục II.2), tr. 29; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195
 
 ### periodic law
 - **Tiếng Việt:** Định luật tuần hoàn
@@ -3492,13 +3761,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 11, Bài 2 (Mục III.1): Tính toán và đánh giá độ acid, base của dung dịch hoá học, dịch sinh học, đất và nguồn nước.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 01, B2, tr. 16; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.1), tr. 17; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục I.2.a), tr. 17; SGK Hóa học 11 KNTT, Chương 01, B2 (Mục III.1), tr. 21
 
+### pH meter
+- **Tiếng Việt:** Thiết bị đo pH (máy đo pH; bút đo pH)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A specialized laboratory and practical instrument (including benchtop pH meters and pH pens) used to directly determine the pH value of a solution with high accuracy. When the electrode of the device is immersed in the test solution, the pH value is displayed directly on the screen.
+- **Giải thích (VI):** Dụng cụ chuyên dụng trong phòng thí nghiệm và thực tiễn (gồm máy đo pH, bút đo pH) dùng để xác định trực tiếp giá trị pH của dung dịch với độ chính xác cao. Khi nhúng điện cực của thiết bị vào dung dịch cần đo, giá trị pH sẽ hiển thị trực tiếp trên màn hình.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 1 (Mục III.1) và Bài 9 (Mục III): Sử dụng điện cực để đo độ acid – base của dung dịch khi cần độ chính xác cao hơn giấy pH.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.1), tr. 8; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục III), tr. 42
+
 ### pH scale
-- **Tiếng Việt:** Thang đo pH (độ pH)
+- **Tiếng Việt:** Thang đo pH (độ pH; Thang pH)
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A logarithmic scale measuring the acidity or basicity of a solution via the formula $\text{pH} = -\log[\text{H}^+]$, where $[\text{H}^+]$ is the hydrogen ion concentration in moles per liter ($\text{M}$). A solution with $\text{pH} = 7$ is neutral, $\text{pH} < 7$ is acidic, and $\text{pH} > 7$ is basic.
 - **Giải thích (VI):** Thang đo lôgarit đánh giá tính acid hoặc base của dung dịch theo công thức $\text{pH} = -\log[\text{H}^+]$, trong đó $[\text{H}^+]$ là nồng độ ion hydrogen tính bằng mol/lít ($\text{M}$). Dung dịch có $\text{pH} = 7$ mang tính trung tính, $\text{pH} < 7$ có tính acid và $\text{pH} > 7$ có tính base.
-- **Bối cảnh:** Toán học lớp 11, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2a): Ứng dụng lôgarit thập phân để tính độ pH và nồng độ ion hydrogen trong dung dịch.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2), tr. 100; SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2.a), tr. 100; SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2.b), tr. 100
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A numerical scale ranging from $1$ to $14$ used to evaluate the acidity or basicity of aqueous solutions and compare the relative strengths of equimolar acids or bases. On this scale, neutral solutions have $\text{pH} = 7$, acidic solutions have $\text{pH} < 7$, and alkaline solutions have $\text{pH} > 7$. / VI: Tập hợp các giá trị số từ $1$ đến $14$ dùng để đánh giá độ acid – base và so sánh độ mạnh của các dung dịch acid hoặc base cùng nồng độ. Trên thang này, dung dịch trung tính có $\text{pH} = 7$, dung dịch acid có $\text{pH} < 7$ và dung dịch kiềm có $\text{pH} > 7$.
+- **Bối cảnh:**
+  - Toán học lớp 11, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2a): Ứng dụng lôgarit thập phân để tính độ pH và nồng độ ion hydrogen trong dung dịch.
+  - Khoa học tự nhiên lớp 8, Bài 9 (Mục III): Đánh giá môi trường dung dịch trong phòng thí nghiệm, đất trồng, nguồn nước và dịch cơ thể.
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2), tr. 100; SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2.a), tr. 100; SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2.b), tr. 100; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục III), tr. 42; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục III), tr. 42, 43
 
 ### phenol
 - **Tiếng Việt:** Phenol
@@ -3517,6 +3797,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Ion âm có công thức C₆H₅O⁻ tạo thành khi phenol (C₆H₅OH) phân li trong nước hoặc tác dụng với dung dịch kiềm, muối carbonate.
 - **Bối cảnh:** Hóa học lớp 11, Bài 21 (Mục IV.1): sản phẩm ion tan trong nước tạo thành từ cân bằng phân li và phản ứng của phenol với kiềm.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 05, B21 (Mục II), tr. 130; SGK Hóa học 11 KNTT, Chương 05, B21 (Mục III), tr. 130; SGK Hóa học 11 KNTT, Chương 05, B21 (Mục IV.1), tr. 130
+
+### phosphate fertilizer
+- **Tiếng Việt:** Phân lân
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A chemical fertilizer that supplies phosphorus to crops, commonly used as fused calcium magnesium phosphate (Ca₃(PO₄)₂), single superphosphate (Ca(H₂PO₄)₂ and CaSO₄), or triple superphosphate (Ca(H₂PO₄)₂). Phosphate fertilizer stimulates root development, flowering, and fruiting, and is selected according to soil acidity.
+- **Giải thích (VI):** Loại phân bón hoá học cung cấp nguyên tố phosphorus cho cây trồng, thường gặp dưới dạng phân lân nung chảy (Ca₃(PO₄)₂), superphosphate đơn (Ca(H₂PO₄)₂ và CaSO₄) hoặc superphosphate kép (Ca(H₂PO₄)₂). Phân lân kích thích sự phát triển của bộ rễ, quá trình nở hoa và đậu quả, được lựa chọn tuỳ theo độ chua của đất.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 12 (Mục II.2): Phân biệt độ tan của các loại phân lân để dùng bón lót hoặc bón thúc phù hợp với từng loại đất.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 54; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục II.1), tr. 54; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục II.2), tr. 54
+
+### physical change
+- **Tiếng Việt:** Biến đổi vật lí
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A transformation of matter in which a substance only changes its physical state or form (such as dissolving, melting, freezing, or condensing) without forming any new chemical substance.
+- **Giải thích (VI):** Quá trình biến đổi của chất trong đó chất chỉ chuyển đổi giữa các trạng thái hoặc hình dạng (như hoà tan, nóng chảy, đông đặc, ngưng tụ) mà không có sự tạo thành chất mới.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 2 (Mục I): Phân biệt quá trình chuyển thể, hoà tan không sinh ra chất mới với biến đổi hoá học.
+  - *Lưu ý:* Phân biệt với biến đổi hoá học là quá trình biến đổi chất có sự tạo thành chất mới.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục I), tr. 11; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục I), tr. 11, 12; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195
 
 ### physical properties and natural occurrence of arenes
 - **Tiếng Việt:** Tính chất vật lí và trạng thái tự nhiên của arene
@@ -3713,6 +4011,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong pin Galvani, cực dương là cathode (nơi xảy ra quá trình khử); ngược lại, trong bình điện phân, cực dương là anode (nơi xảy ra quá trình oxi hoá).
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 05, B15 (Mục III.2), tr. 74; SGK Hóa học 12 KNTT, Chương 05, B15 (Mục III.2), tr. 74, 75; SGK Hóa học 12 KNTT, Chương 05, B15 (Mục III.2), tr. 75
 
+### potassium fertilizer
+- **Tiếng Việt:** Phân kali
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A fertilizer that supplies potassium to crops, typically containing KCl or K₂SO₄ salts as its main component (also found in plant ash and bat guano). Potassium fertilizer enhances water and nutrient absorption by roots, strengthens plant tissues, and improves cold tolerance.
+- **Giải thích (VI):** Loại phân bón cung cấp nguyên tố potassium (kali) cho cây trồng, thường chứa thành phần chính là muối KCl hoặc K₂SO₄ (cũng có trong tro thực vật và phân dơi). Phân kali giúp rễ tăng hấp thụ nước và dinh dưỡng, làm cây cứng cáp và tăng khả năng chịu lạnh.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 12 (Mục II.3): Tìm hiểu thành phần hoá học và tác dụng sinh lí của nhóm phân bón đơn cung cấp potassium.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 54; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục II.1), tr. 54; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục II.2), tr. 54
+
 ### preparation of alcohols
 - **Tiếng Việt:** Điều chế alcohol
 - **Chuyên ngành gốc:** Hóa học
@@ -3760,6 +4066,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cơ sở chung để tách riêng các chất ra khỏi hỗn hợp dựa trên sự khác nhau về tính chất của từng chất thành phần như độ nặng nhẹ, kích thước hạt, tính tan hoặc khả năng bay hơi.
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 17 (Mục I): Cơ sở lựa chọn các phương pháp lắng, gạn, lọc, cô cạn hoặc chiết để thu chất tinh khiết từ hỗn hợp.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17, tr. 60; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B17 (Mục I), tr. 60
+
+### product (chemistry)
+- **Tiếng Việt:** Sản phẩm (chất sản phẩm)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A new substance formed after the breaking and making of chemical bonds in a chemical reaction, increasing in amount as the reaction progresses.
+- **Giải thích (VI):** Chất mới được tạo thành sau quá trình phá vỡ và hình thành liên kết hoá học trong một phản ứng hoá học, có lượng tăng dần theo thời gian phản ứng diễn ra.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 2 (Mục II.1): Xác định các chất mới ghi ở bên phải mũi tên của phương trình phản ứng hoá học.
+  - *Lưu ý:* Chỉ chất mới sinh ra từ phản ứng hoá học; phân biệt với chất phản ứng (chất tham gia) hoặc khái niệm sản phẩm trong kinh tế.
+  - *Lưu ý:* Không nhầm với 'Tích' (`product`) trong Toán học.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục II.1), tr. 12; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục II.1), tr. 12, 13
 
 ### prompt nitrogen oxides
 - **Tiếng Việt:** NOₓ tức thời (prompt-NOₓ)
@@ -3864,6 +4181,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 13 (Mục I): phân loại thành nguyên liệu tự nhiên và nguyên liệu nhân tạo, đồng thời phân biệt với vật liệu trực tiếp tạo nên đồ dùng.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13, tr. 46; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục I), tr. 46; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B13 (Mục II), tr. 46
 
+### reactant
+- **Tiếng Việt:** Chất phản ứng (chất tham gia; chất đầu)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** An initial substance that undergoes transformation during a chemical reaction, decreasing in amount as the reaction proceeds. A reaction goes to completion when at least one reactant is completely consumed.
+- **Giải thích (VI):** Chất ban đầu bị biến đổi trong quá trình phản ứng hoá học, có lượng giảm dần khi phản ứng diễn ra. Phản ứng xảy ra hoàn toàn khi có ít nhất một chất phản ứng đã tác dụng hết.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 2 (Mục II.1): Xác định các chất đứng trước mũi tên trong phương trình phản ứng, phân biệt với chất sản phẩm.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục II.1), tr. 12; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục II.1), tr. 12, 13
+
 ### reaction of polyalcohols with copper(II) hydroxide
 - **Tiếng Việt:** Phản ứng riêng của polyalcohol với Cu(OH)₂
 - **Chuyên ngành gốc:** Hóa học
@@ -3887,8 +4212,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A quantity characterizing how fast or slow a chemical reaction proceeds, defined as the change in the amount of a reactant or product per unit of time (second, minute, hour, day, etc.). The amount of substance may be expressed in moles, molar concentration, mass, or volume.
 - **Giải thích (VI):** Đại lượng đặc trưng cho sự nhanh chậm của một phản ứng hoá học, xác định bằng độ biến thiên lượng chất đầu hoặc chất sản phẩm trong một đơn vị thời gian (giây, phút, giờ, ngày,...). Lượng chất có thể được biểu diễn bằng số mol, nồng độ mol, khối lượng hoặc thể tích.
-- **Bối cảnh:** Hóa học lớp 10, Bài 19 (Mục I.1): Đánh giá mức độ nhanh chậm của phản ứng hoá học và khảo sát sự phụ thuộc vào nồng độ, áp suất, nhiệt độ, diện tích bề mặt tiếp xúc và chất xúc tác.
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 06, B19, tr. 92; SGK Hóa học 10 KNTT, Chương 06, B19 (Mục I.1), tr. 92; SGK Hóa học 10 KNTT, Chương 06, B19 (Mục I.1), tr. 92, 93
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A quantity characterizing how fast or slow a chemical reaction proceeds. Reaction rate depends on factors such as reactant concentration, temperature, contact surface area, and the presence of a catalyst. / VI: Đại lượng đặc trưng cho sự diễn ra nhanh hay chậm của một phản ứng hoá học. Tốc độ phản ứng phụ thuộc vào các yếu tố như nồng độ, nhiệt độ, diện tích bề mặt tiếp xúc của chất tham gia và sự có mặt của chất xúc tác.
+- **Bối cảnh:**
+  - Hóa học lớp 10, Bài 19 (Mục I.1): Đánh giá mức độ nhanh chậm của phản ứng hoá học và khảo sát sự phụ thuộc vào nồng độ, áp suất, nhiệt độ, diện tích bề mặt tiếp xúc và chất xúc tác.
+  - Khoa học tự nhiên lớp 8, Bài 7 (Mục I, II): So sánh mức độ nhanh chậm giữa các phản ứng (như đốt cháy nhiên liệu và gỉ sắt) và điều khiển tốc độ phản ứng trong đời sống.
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 06, B19, tr. 92; SGK Hóa học 10 KNTT, Chương 06, B19 (Mục I.1), tr. 92; SGK Hóa học 10 KNTT, Chương 06, B19 (Mục I.1), tr. 92, 93; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B7 (Mục I), tr. 31; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B7 (Mục I), tr. 31, 32; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196
+
+### reaction scheme
+- **Tiếng Việt:** Sơ đồ của phản ứng (sơ đồ phản ứng hoá học)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A symbolic chemical expression obtained by replacing substance names in a word equation with their chemical formulas, connected by a dashed arrow prior to balancing atomic coefficients.
+- **Giải thích (VI):** Biểu thức hoá học thu được khi thay tên các chất trong phương trình dạng chữ bằng công thức hoá học tương ứng và nối hai vế bằng mũi tên nét đứt khi chưa cân bằng hệ số nguyên tử.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 8, Bài 5 (Mục II.1): Bước trung gian đầu tiên trước khi đặt hệ số cân bằng để lập phương trình hoá học hoàn chỉnh.
+  - *Lưu ý:* Phân biệt với phương trình hoá học là biểu thức đã được cân bằng tổng số nguyên tử của mỗi nguyên tố ở hai vế và dùng mũi tên nét liền.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B5 (Mục II.1), tr. 25; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B5 (Mục II.1), tr. 26
 
 ### redox reaction
 - **Tiếng Việt:** Phản ứng oxi hoá – khử
@@ -3955,6 +4293,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Khối lượng tương đối của một nguyên tử, cho biết khối lượng của nguyên tử đó nặng gấp bao nhiêu lần đơn vị khối lượng nguyên tử ($1\text{ amu}$). Do khối lượng proton và neutron đều xấp xỉ $1,0\text{ amu}$ còn khối lượng electron không đáng kể, nguyên tử khối có giá trị xấp xỉ bằng số khối ($A$).
 - **Bối cảnh:** Hóa học lớp 10, Bài 2 (Mục IV.1): Xác định khối lượng tương đối của từng đồng vị và làm cơ sở tính nguyên tử khối trung bình.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B2 (Mục IV.1), tr. 19; SGK Hóa học 10 KNTT, Chương 01, B2 (Mục IV.2), tr. 19; SGK Hóa học 10 KNTT, Chương 01, B2 (Mục IV.2), tr. 19, 20
+
+### relative density of gases
+- **Tiếng Việt:** Tỉ khối của chất khí (tỉ khối)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A dimensionless quantity indicating how many times heavier or lighter gas A is compared to gas B under identical conditions, defined by the molar mass ratio $d_{\text{A/B}} = \frac{M_{\text{A}}}{M_{\text{B}}}$. Relative to air ($M_{\text{air}} \approx 29\text{ g/mol}$), it is calculated as $d_{\text{A/air}} = \frac{M_{\text{A}}}{29}$.
+- **Giải thích (VI):** Đại lượng không thứ nguyên cho biết khí A nặng hay nhẹ hơn khí B bao nhiêu lần ở cùng điều kiện, xác định bằng tỉ số khối lượng mol $d_{\text{A/B}} = \frac{M_{\text{A}}}{M_{\text{B}}}$. Khi so sánh với không khí ($M_{\text{kk}} \approx 29\text{ g/mol}$), tỉ khối được tính theo công thức $d_{\text{A/kk}} = \frac{M_{\text{A}}}{29}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 3 (Mục II): So sánh khối lượng mol các khí để giải thích sự tích tụ khí trong tự nhiên và chọn cách thu khí trong phòng thí nghiệm.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B3 (Mục II), tr. 18
 
 ### reverse reaction
 - **Tiếng Việt:** Phản ứng nghịch
@@ -4036,6 +4382,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong Bài 3 (Mục III.1), khái niệm nguyên tố s được giới thiệu đối chiếu trực tiếp với nguyên tố p (nguyên tử có electron cuối cùng điền vào phân lớp p); phân loại đầy đủ bốn họ nguyên tố s, p, d, f được trình bày tại Bài 5 (Mục III.4.a).
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 01, B3 (Mục III.1), tr. 24; SGK Hóa học 10 KNTT, Chương 01, B3 (Mục III.2), tr. 24; SGK Hóa học 10 KNTT, Chương 01, B3 (Mục III.3), tr. 25
 
+### salt
+- **Tiếng Việt:** Muối
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A chemical compound formed when the H⁺ ions of an acid are replaced by metal ions or ammonium ions (NH₄⁺), consisting of metal (or NH₄⁺) cations combined with acid-radical anions. Aqueous salt solutions can react with metals, acids, bases, or other salts when reaction conditions are met.
+- **Giải thích (VI):** Hợp chất hoá học hình thành khi thay thế ion H⁺ của phân tử acid bằng ion kim loại hoặc ion ammonium (NH₄⁺), gồm cation kim loại (hoặc NH₄⁺) liên kết với anion gốc acid. Dung dịch muối có thể phản ứng với kim loại, acid, base hoặc muối khác khi thoả mãn điều kiện phản ứng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 11 (Mục I, III): Gọi tên muối theo tên kim loại kèm hoá trị (nếu nhiều hoá trị) ghép với tên gốc acid và xét tính chất hoá học của muối.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B11, tr. 48; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B11 (Mục I), tr. 48; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B11 (Mục I), tr. 48, 49
+
 ### salt bridge
 - **Tiếng Việt:** Cầu muối
 - **Chuyên ngành gốc:** Hóa học
@@ -4087,6 +4441,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại alcohol mà trong phân tử có một nhóm hydroxy (–OH) liên kết với gốc alkyl mạch hở, có công thức tổng quát là $\text{C}_n\text{H}_{2n+1}\text{OH}$ ($n \ge 1$).
 - **Bối cảnh:** Hóa học lớp 11, Bài 20 (Mục I.1): dãy đồng đẳng alcohol tiêu biểu gồm methanol, ethanol và các đồng đẳng kế tiếp.
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 05, B20, tr. 119; SGK Hóa học 11 KNTT, Chương 05, B20 (Mục I.1), tr. 119; SGK Hóa học 11 KNTT, Chương 05, B20 (Mục I.1), tr. 119, 120
+
+### saturated solution
+- **Tiếng Việt:** Dung dịch bão hoà
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A solution that cannot dissolve any further amount of the given solute at a specified temperature and pressure.
+- **Giải thích (VI):** Dung dịch không thể hoà tan thêm chất tan đang xét ở một điều kiện nhiệt độ và áp suất nhất định.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 4 (Mục I, II): Trạng thái giới hạn hoà tan dùng làm chuẩn để xác định độ tan của một chất trong nước.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục I), tr. 20; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục II), tr. 21
 
 ### Schweizer's reagent
 - **Tiếng Việt:** Nước Schweizer (nước Svayde)
@@ -4230,21 +4592,52 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 12, Bài 25 (Mục III.1.a): Phân biệt với nước cứng theo hàm lượng ion Ca²⁺ và Mg²⁺ trong nước.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 07, B25 (Mục II.3), tr. 123; SGK Hóa học 12 KNTT, Chương 07, B25 (Mục III.1.a), tr. 123; SGK Hóa học 12 KNTT, Chương 07, B25 (Mục III.1.b), tr. 123
 
+### solubility
+- **Tiếng Việt:** Độ tan
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A quantity characterizing the dissolving capacity of a substance in water (symbol $S$), defined as the maximum mass in grams of solute that dissolves in $100\text{ g}$ of water to form a saturated solution at a given temperature and pressure via $S = \frac{m_{\text{solute}}}{m_{\text{water}}} \times 100$ (in $\text{g/100 g}$ water). The solubility of most solids increases with temperature, whereas that of gases decreases as temperature rises or pressure drops.
+- **Giải thích (VI):** Đại lượng đặc trưng cho khả năng tan của một chất trong nước (kí hiệu $S$), bằng số gam chất đó hoà tan tối đa trong $100\text{ g}$ nước để tạo thành dung dịch bão hoà ở nhiệt độ và áp suất xác định theo công thức $S = \frac{m_{\text{ct}}}{m_{\text{nước}}} \cdot 100$ (đơn vị $\text{g/100 g}$ nước). Độ tan của phần lớn chất rắn tăng khi nhiệt độ tăng, còn độ tan của chất khí giảm khi nhiệt độ tăng hoặc áp suất giảm.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 4 (Mục II): Đánh giá mức độ tan tốt hay ít tan của các chất và giải thích sự thay đổi khả năng hoà tan theo nhiệt độ, áp suất.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục II), tr. 21; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục IV), tr. 23; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195
+
+### solubility table
+- **Tiếng Việt:** Bảng tính tan
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A reference chart indicating the water solubility of compounds (bases and salts) using standard symbols: soluble (t), slightly soluble (i, solubility $< 1\text{ g/100 g}$ water), insoluble (k, solubility $< 0.01\text{ g/100 g}$ water), and non-existent or decomposed by water (–).
+- **Giải thích (VI):** Bảng tra cứu khả năng tan trong nước của các hợp chất (base, muối) thông qua các kí hiệu chuẩn: t (dễ tan), i (ít tan, độ tan $< 1\text{ g/100 g}$ nước), k (không tan, độ tan $< 0{,}01\text{ g/100 g}$ nước) và (–) (không tồn tại hoặc bị nước phân huỷ).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 11 (Mục II): Tra cứu tính tan của base và muối trong nước để xác định điều kiện tạo kết tủa của phản ứng trao đổi.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B11 (Mục I), tr. 49; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B11 (Mục II), tr. 49; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục I), tr. 40
+
 ### solute
 - **Tiếng Việt:** Chất tan
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A solid, liquid, or gaseous substance that dissolves and distributes uniformly within a solvent to form a solution.
 - **Giải thích (VI):** Chất ở thể rắn, thể lỏng hoặc thể khí bị hoà tan và phân bố đồng đều trong dung môi để tạo thành dung dịch.
-- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 16 (Mục II, IV.1): Thành phần bị hoà tan trong dung dịch như đường, muối ăn, cồn hoặc khí carbon dioxide.
-- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục IV.1), tr. 58
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A substance dissolved in a solvent to form a homogeneous solution; prior to dissolution, a solute may exist in the solid, liquid, or gaseous state. / VI: Chất bị hoà tan trong dung môi để tạo thành dung dịch đồng nhất; chất tan có thể tồn tại ban đầu ở thể rắn, thể lỏng hoặc thể khí.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 16 (Mục II, IV.1): Thành phần bị hoà tan trong dung dịch như đường, muối ăn, cồn hoặc khí carbon dioxide.
+  - Khoa học tự nhiên lớp 8, Bài 4 (Mục I): Xác định lượng chất bị hoà tan làm cơ sở tính độ tan, nồng độ phần trăm và nồng độ mol.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục IV.1), tr. 58; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục I), tr. 20
 
 ### solution
 - **Tiếng Việt:** Dung dịch
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A homogeneous mixture of a solvent and one or more solutes, typically transparent because microscopic solute particles are uniformly dispersed throughout the solvent.
 - **Giải thích (VI):** Hỗn hợp đồng nhất của dung môi và chất tan, thường ở trạng thái trong suốt do các hạt chất tan vô cùng nhỏ phân bố đều trong dung môi.
-- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 16 (Mục II): Dạng hỗn hợp đồng nhất tiêu biểu trong thực tiễn như nước muối, giấm ăn, nước ngọt có gas.
-- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 56; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A homogeneous mixture formed when a solute is uniformly dispersed throughout a solvent, having a total mass equal to the sum of the masses of the solute and solvent. / VI: Hỗn hợp đồng nhất được tạo thành khi chất tan phân bố đều trong dung môi, có khối lượng bằng tổng khối lượng của chất tan và dung môi.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 16 (Mục II): Dạng hỗn hợp đồng nhất tiêu biểu trong thực tiễn như nước muối, giấm ăn, nước ngọt có gas.
+  - Khoa học tự nhiên lớp 8, Bài 4 (Mục I): Nhận biết hỗn hợp đồng nhất trong suốt để phân biệt với hỗn hợp không đồng nhất khi khuấy chất rắn vào nước.
+  - *Lưu ý:* Chỉ hỗn hợp đồng nhất trong hoá học; phân biệt với huyền phù, nhũ tương (hỗn hợp không đồng nhất) hoặc nghiệm trong toán học.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 56; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục I), tr. 20; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục IV), tr. 23
+
+### solution concentration
+- **Tiếng Việt:** Nồng độ dung dịch (nồng độ)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A quantitative measure indicating how concentrated or dilute a solution is based on the amount of solute contained in a specified quantity of solution, most commonly expressed as mass percent concentration ($C\%$) and molar concentration ($C_{\text{M}}$).
+- **Giải thích (VI):** Đại lượng định lượng cho biết mức độ đặc hay loãng của một dung dịch dựa trên lượng chất tan có trong một lượng dung dịch xác định, phổ biến nhất gồm nồng độ phần trăm ($C\%$) và nồng độ mol ($C_{\text{M}}$).
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 4 (Mục III): Khái niệm chung dùng trong tính toán và pha chế dung dịch theo độ đặc loãng yêu cầu.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4, tr. 20; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục III), tr. 21
 
 ### Solvay process
 - **Tiếng Việt:** Phương pháp Solvay
@@ -4259,8 +4652,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** A substance that acts as the dissolving medium for solutes to form a homogeneous solution.
 - **Giải thích (VI):** Chất đóng vai trò môi trường hoà tan các chất tan để tạo thành hỗn hợp đồng nhất là dung dịch.
-- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 16 (Mục II): Thành phần hoà tan chất tan trong dung dịch, phổ biến nhất là nước trong nước muối, nước đường.
-- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục IV.1), tr. 58
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The component of a solution capable of dissolving another substance (the solute) to form a homogeneous mixture; in everyday life and school laboratories, the most common solvent is liquid water. / VI: Thành phần của dung dịch có khả năng hoà tan chất khác (chất tan) để tạo thành hỗn hợp đồng nhất; trong thực tế và phòng thí nghiệm phổ thông, dung môi thường gặp nhất là nước ở thể lỏng.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 16 (Mục II): Thành phần hoà tan chất tan trong dung dịch, phổ biến nhất là nước trong nước muối, nước đường.
+  - Khoa học tự nhiên lớp 8, Bài 4 (Mục I): Xác định thành phần môi trường hoà tan khi pha chế và tính toán nồng độ dung dịch.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục III), tr. 57; SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục IV.1), tr. 58; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục I), tr. 20
 
 ### specific heat capacity (chemistry)
 - **Tiếng Việt:** Nhiệt dung đặc trưng
@@ -4301,10 +4697,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** The reference set of conditions in thermochemistry consisting of a pressure of $1\text{ bar}$ for gases, a concentration of $1\text{ mol/L}$ for solutes in solution, and a temperature usually chosen as $25\text{ }^\circ\text{C}$ ($298\text{ K}$).
 - **Giải thích (VI):** Hệ điều kiện quy chiếu trong nhiệt hoá học gồm áp suất $1\text{ bar}$ đối với chất khí, nồng độ $1\text{ mol/L}$ đối với chất tan trong dung dịch và nhiệt độ thường được chọn là $25\text{ }^\circ\text{C}$ ($298\text{ K}$).
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The reference condition of $25\text{ }^\circ\text{C}$ temperature and $1\text{ bar}$ pressure used for gas measurements and calculations. Under this condition, $1\text{ mol}$ of any gas occupies a volume of $24.79\text{ L}$, allowing the amount of gas to be calculated as $n = \frac{V}{24.79}$. / VI: Điều kiện quy chiếu về nhiệt độ ở $25\text{ }^\circ\text{C}$ và áp suất ở $1\text{ bar}$ dùng trong các phép đo và tính toán chất khí. Tại điều kiện này, $1\text{ mol}$ của bất kì chất khí nào cũng chiếm thể tích $24,79\text{ L}$, cho phép tính số mol khí theo công thức $n = \frac{V}{24,79}$.
 - **Bối cảnh:**
   - Hóa học lớp 10, Bài 17 (Mục II.2): Làm mốc điều kiện thống nhất để xác định và so sánh biến thiên enthalpy chuẩn ($\Delta_r H^0_{298}$) cũng như nhiệt tạo thành chuẩn ($\Delta_f H^0_{298}$) của các chất.
+  - Khoa học tự nhiên lớp 8, Bài 3 (Mục I.3) và Bài 6 (Mục I): Hệ quy chiếu chuẩn trong chương trình GDPT 2018 để tính thể tích chất khí tham gia hoặc tạo thành sau phản ứng.
   - *Lưu ý:* Phân biệt với điều kiện tiêu chuẩn trước đây ($0\text{ }^\circ\text{C}$, $1\text{ atm}$); trong nhiệt hoá học, điều kiện chuẩn quy định thêm nồng độ $1\text{ mol/L}$ đối với chất tan trong dung dịch.
-- **Nguồn:** SGK Hóa học 10 KNTT, Chương 05, B17 (Mục II.1), tr. 83; SGK Hóa học 10 KNTT, Chương 05, B17 (Mục II.2), tr. 83; SGK Hóa học 10 KNTT, Chương 05, B17 (Mục II.3), tr. 83
+- **Nguồn:** SGK Hóa học 10 KNTT, Chương 05, B17 (Mục II.1), tr. 83; SGK Hóa học 10 KNTT, Chương 05, B17 (Mục II.2), tr. 83; SGK Hóa học 10 KNTT, Chương 05, B17 (Mục II.3), tr. 83; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B3 (Mục I.3), tr. 18; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B6 (Mục I.2), tr. 29
 
 ### standard electrode
 - **Tiếng Việt:** Điện cực ở điều kiện chuẩn
@@ -4563,8 +4961,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Hóa học
 - **Giải thích (EN):** An inorganic compound (H₂SO₄, structural formula HO–SO₂–OH) that under standard conditions is a colorless, oily, nonvolatile, strongly hygroscopic liquid miscible with water in all proportions with intense heat release. Dilute H₂SO₄ exhibits all typical properties of a strong acid, whereas concentrated H₂SO₄ additionally acts as a powerful oxidizing agent (especially when heated) and a strong dehydrating agent that chars carbohydrates.
 - **Giải thích (VI):** Hợp chất vô cơ (H₂SO₄, cấu tạo HO–SO₂–OH) ở điều kiện thường là chất lỏng sánh như dầu, không màu, khó bay hơi, hút ẩm mạnh, tan vô hạn trong nước và toả rất nhiều nhiệt. Dung dịch H₂SO₄ loãng mang đầy đủ tính chất của một acid mạnh, trong khi dung dịch H₂SO₄ đặc thể hiện thêm tính oxi hoá mạnh (nhất là khi đun nóng) và tính háo nước làm than hoá các hợp chất carbohydrate.
-- **Bối cảnh:** Hóa học lớp 11, Bài 8 (Mục I): Phân biệt tính chất hoá học của H₂SO₄ loãng với H₂SO₄ đặc, quy tắc an toàn pha loãng (rót từ từ acid vào nước) và ứng dụng công nghiệp.
-- **Nguồn:** SGK Hóa học 11 KNTT, Chương 02, B8, tr. 48; SGK Hóa học 11 KNTT, Chương 02, B8 (Mục I.1), tr. 48; SGK Hóa học 11 KNTT, Chương 02, B8 (Mục I.2), tr. 49
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A strong inorganic acid with the chemical formula H₂SO₄ that, in pure form, is a colorless, nonvolatile, oily liquid nearly twice as dense as water, infinitely miscible with water with strong heat evolution. It is a leading industrial chemical widely used to manufacture fertilizers, detergents, paints, plastics, paper, and fibers. / VI: Hợp chất acid vô cơ mạnh có công thức hoá học H₂SO₄, ở dạng nguyên chất là chất lỏng không màu, không bay hơi, sánh như dầu ăn, nặng gần gấp hai lần nước, tan vô hạn trong nước và toả rất nhiều nhiệt. Đây là hoá chất công nghiệp quan trọng hàng đầu dùng sản xuất phân bón, chất tẩy rửa, sơn, chất dẻo, giấy và tơ sợi.
+- **Bối cảnh:**
+  - Hóa học lớp 11, Bài 8 (Mục I): Phân biệt tính chất hoá học của H₂SO₄ loãng với H₂SO₄ đặc, quy tắc an toàn pha loãng (rót từ từ acid vào nước) và ứng dụng công nghiệp.
+  - Khoa học tự nhiên lớp 8, Bài 8 (Mục III.1): Tìm hiểu tính chất vật lí, ứng dụng công nghiệp và quy tắc an toàn không tự ý pha loãng sulfuric acid đặc.
+- **Nguồn:** SGK Hóa học 11 KNTT, Chương 02, B8, tr. 48; SGK Hóa học 11 KNTT, Chương 02, B8 (Mục I.1), tr. 48; SGK Hóa học 11 KNTT, Chương 02, B8 (Mục I.2), tr. 49; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục I), tr. 35; SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục III.1), tr. 37
 
 ### surface coating
 - **Tiếng Việt:** Phương pháp phủ bề mặt
@@ -4771,6 +5172,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Hóa học lớp 10, Bài 12 (Mục I.3, III.2): Minh hoạ qua liên kết rất bền trong phân tử nitrogen N₂ và liên kết ba giữa hai nguyên tử carbon trong phân tử acetylene C₂H₂.
 - **Nguồn:** SGK Hóa học 10 KNTT, Chương 03, B12 (Mục I.2), tr. 57; SGK Hóa học 10 KNTT, Chương 03, B12 (Mục I.3), tr. 57; SGK Hóa học 10 KNTT, Chương 03, B12 (Mục I.3), tr. 57, 58
 
+### universal indicator
+- **Tiếng Việt:** Chất chỉ thị màu vạn năng (giấy pH)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A mixture of several dyes prepared in solution form or impregnated into paper strips (pH paper) used to estimate the pH of a solution through distinct color changes corresponding to standard pH intervals.
+- **Giải thích (VI):** Hỗn hợp gồm nhiều chất màu chế tạo ở dạng dung dịch hoặc tẩm trên giấy (giấy pH) dùng để xác định gần đúng giá trị pH của dung dịch dựa trên sự biến đổi màu sắc ứng với từng khoảng pH chuẩn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 9 (Mục III): Thực hành đo nhanh khoảng pH của các dung dịch thông dụng bằng cách đối chiếu với thang màu chuẩn.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục III), tr. 42
+
 ### unsaturated fatty acid
 - **Tiếng Việt:** Acid béo không bão hoà (acid béo không no)
 - **Chuyên ngành gốc:** Hóa học
@@ -4788,6 +5197,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Hóa học lớp 11, Bài 16 (Mục I.1): Phân loại hợp chất hydrocarbon dựa trên sự có mặt của liên kết bội kém bền trong phân tử.
   - *Lưu ý:* Phân biệt với hydrocarbon no (chỉ chứa liên kết đơn C–C như alkane) và arene (chứa vòng thơm benzene bền vững).
 - **Nguồn:** SGK Hóa học 11 KNTT, Chương 04, B16, tr. 92; SGK Hóa học 11 KNTT, Chương 04, B16 (Mục I.1), tr. 92; SGK Hóa học 11 KNTT, Chương 04, B16 (Mục I.2.b), tr. 93
+
+### unsaturated solution
+- **Tiếng Việt:** Dung dịch chưa bão hoà
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A solution that remains capable of dissolving additional amounts of the given solute at a specified temperature and pressure.
+- **Giải thích (VI):** Dung dịch vẫn còn khả năng hoà tan thêm chất tan đang xét khi giữ nguyên điều kiện nhiệt độ và áp suất xác định.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 4 (Mục I): Phân biệt trạng thái hoà tan của dung dịch trước khi đạt giới hạn bão hoà ở nhiệt độ, áp suất nhất định.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục I), tr. 20
 
 ### urea-formaldehyde adhesive
 - **Tiếng Việt:** Keo dán poly(urea-formaldehyde)
@@ -4903,6 +5320,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại tơ tự nhiên lấy từ lông một số loài động vật như cừu, dê, lạc đà, có thành phần chính là protein và có khả năng giữ nhiệt tốt.
 - **Bối cảnh:** Hóa học lớp 12, Bài 13 (Mục III.3.a): Tơ tự nhiên bản chất protein chứa liên kết peptide nên kém bền với nhiệt độ cao và xà phòng có tính kiềm mạnh.
 - **Nguồn:** SGK Hóa học 12 KNTT, Chương 04, B13 (Mục III.3.a), tr. 59
+
+### word equation
+- **Tiếng Việt:** Phương trình dạng chữ (phương trình phản ứng dạng chữ; phương trình chữ)
+- **Chuyên ngành gốc:** Hóa học
+- **Giải thích (EN):** A representation of a chemical reaction using the names of substances, conventionally placing the names of reactants to the left of a reaction arrow and the names of products to the right.
+- **Giải thích (VI):** Cách biểu diễn một phản ứng hoá học bằng tên gọi của các chất theo quy ước viết tên các chất phản ứng ở bên trái mũi tên chỉ chiều biến đổi và tên các chất sản phẩm ở bên phải mũi tên.
+- **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 2 (Mục II.1) và Bài 5 (Mục II.1): Mô tả định tính phản ứng hoá học bằng tên chất trước khi chuyển sang sơ đồ phản ứng và phương trình hoá học.
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục II.1), tr. 12; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B5 (Mục II.1), tr. 25
 
 ### Zaitsev's rule
 - **Tiếng Việt:** Quy tắc tách Zaitsev (quy tắc Zaitsev)

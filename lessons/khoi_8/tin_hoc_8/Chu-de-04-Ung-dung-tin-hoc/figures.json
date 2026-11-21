@@ -1,0 +1,824 @@
+{
+  "H8-tin_hoc-b05-01": {
+    "pdf_page": 22,
+    "bbox": [
+      63,
+      536,
+      538,
+      728
+    ]
+  },
+  "H8-tin_hoc-b05-02": {
+    "pdf_page": 23,
+    "bbox": [
+      73,
+      490,
+      524,
+      681
+    ]
+  },
+  "H8-tin_hoc-b05-03": {
+    "pdf_page": 24,
+    "bbox": [
+      83,
+      198,
+      515,
+      353
+    ]
+  },
+  "H8-tin_hoc-b05-04": {
+    "pdf_page": 24,
+    "bbox": [
+      328,
+      495,
+      543,
+      612
+    ]
+  },
+  "H8-tin_hoc-b05-05": {
+    "pdf_page": 26,
+    "bbox": [
+      98,
+      99,
+      536,
+      258
+    ]
+  },
+  "H8-tin_hoc-b05-06": {
+    "pdf_page": 27,
+    "bbox": [
+      171,
+      189,
+      445,
+      292
+    ]
+  },
+  "H8-tin_hoc-b05-07": {
+    "pdf_page": 27,
+    "bbox": [
+      283,
+      396,
+      545,
+      597
+    ]
+  },
+  "H8-tin_hoc-b06-01": {
+    "pdf_page": 28,
+    "bbox": [
+      247,
+      281,
+      568,
+      514
+    ]
+  },
+  "H8-tin_hoc-b06-02": {
+    "pdf_page": 29,
+    "bbox": [
+      310,
+      66,
+      545,
+      265
+    ]
+  },
+  "H8-tin_hoc-b06-03": {
+    "pdf_page": 29,
+    "bbox": [
+      69,
+      639,
+      531,
+      799
+    ]
+  },
+  "H8-tin_hoc-b06-04": {
+    "pdf_page": 30,
+    "bbox": [
+      141,
+      88,
+      462,
+      302
+    ]
+  },
+  "H8-tin_hoc-b06-05": {
+    "pdf_page": 30,
+    "bbox": [
+      58,
+      518,
+      541,
+      724
+    ]
+  },
+  "H8-tin_hoc-b06-06": {
+    "pdf_page": 31,
+    "bbox": [
+      286,
+      64,
+      546,
+      262
+    ]
+  },
+  "H8-tin_hoc-b06-07": {
+    "pdf_page": 31,
+    "bbox": [
+      286,
+      277,
+      546,
+      629
+    ]
+  },
+  "H8-tin_hoc-b06-08": {
+    "pdf_page": 31,
+    "bbox": [
+      286,
+      637,
+      546,
+      750
+    ]
+  },
+  "H8-tin_hoc-b06-09": {
+    "pdf_page": 32,
+    "bbox": [
+      199,
+      274,
+      545,
+      480
+    ]
+  },
+  "H8-tin_hoc-b07-01": {
+    "pdf_page": 33,
+    "bbox": [
+      67,
+      339,
+      272,
+      519
+    ]
+  },
+  "H8-tin_hoc-b07-02": {
+    "pdf_page": 33,
+    "bbox": [
+      312,
+      339,
+      546,
+      521
+    ]
+  },
+  "H8-tin_hoc-b07-03": {
+    "pdf_page": 34,
+    "bbox": [
+      55,
+      215,
+      313,
+      394
+    ]
+  },
+  "H8-tin_hoc-b07-04": {
+    "pdf_page": 34,
+    "bbox": [
+      326,
+      215,
+      546,
+      394
+    ]
+  },
+  "H8-tin_hoc-b07-05": {
+    "pdf_page": 34,
+    "bbox": [
+      317,
+      582,
+      546,
+      672
+    ]
+  },
+  "H8-tin_hoc-b07-06": {
+    "pdf_page": 35,
+    "bbox": [
+      107,
+      118,
+      494,
+      302
+    ]
+  },
+  "H8-tin_hoc-b07-07": {
+    "pdf_page": 35,
+    "bbox": [
+      109,
+      596,
+      491,
+      797
+    ]
+  },
+  "H8-tin_hoc-b07-08": {
+    "pdf_page": 36,
+    "bbox": [
+      390,
+      127,
+      546,
+      278
+    ]
+  },
+  "H8-tin_hoc-b07-09": {
+    "pdf_page": 36,
+    "bbox": [
+      93,
+      346,
+      503,
+      605
+    ]
+  },
+  "H8-tin_hoc-b08a-01": {
+    "pdf_page": 37,
+    "bbox": [
+      180,
+      397,
+      421,
+      692
+    ]
+  },
+  "H8-tin_hoc-b08a-02": {
+    "pdf_page": 38,
+    "bbox": [
+      55,
+      64,
+      289,
+      311
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Biểu tượng quyển sách mở của mục đọc hiểu bên trái nhô cao ngang dòng thứ hai của chú thích Hình 8a.2"
+  },
+  "H8-tin_hoc-b08a-03": {
+    "pdf_page": 38,
+    "bbox": [
+      312,
+      64,
+      545,
+      311
+    ]
+  },
+  "H8-tin_hoc-b08a-04": {
+    "pdf_page": 39,
+    "bbox": [
+      105,
+      121,
+      536,
+      265
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình nằm hoàn toàn trên nền xanh lam của hộp Câu hỏi nên bốn cạnh đều có màu nền hộp"
+  },
+  "H8-tin_hoc-b08a-05": {
+    "pdf_page": 39,
+    "bbox": [
+      100,
+      463,
+      306,
+      640
+    ]
+  },
+  "H8-tin_hoc-b08a-06": {
+    "pdf_page": 39,
+    "bbox": [
+      338,
+      463,
+      509,
+      640
+    ]
+  },
+  "H8-tin_hoc-b08a-07": {
+    "pdf_page": 40,
+    "bbox": [
+      103,
+      579,
+      506,
+      805
+    ]
+  },
+  "H8-tin_hoc-b08a-08": {
+    "pdf_page": 41,
+    "bbox": [
+      82,
+      83,
+      541,
+      231
+    ]
+  },
+  "H8-tin_hoc-b08a-09": {
+    "pdf_page": 41,
+    "bbox": [
+      85,
+      517,
+      516,
+      673
+    ]
+  },
+  "H8-tin_hoc-b08a-10": {
+    "pdf_page": 42,
+    "bbox": [
+      56,
+      130,
+      296,
+      270
+    ]
+  },
+  "H8-tin_hoc-b08a-11": {
+    "pdf_page": 42,
+    "bbox": [
+      305,
+      130,
+      546,
+      270
+    ]
+  },
+  "H8-tin_hoc-b09a-01": {
+    "pdf_page": 43,
+    "bbox": [
+      117,
+      304,
+      285,
+      535
+    ]
+  },
+  "H8-tin_hoc-b09a-02": {
+    "pdf_page": 43,
+    "bbox": [
+      316,
+      304,
+      485,
+      535
+    ]
+  },
+  "H8-tin_hoc-b09a-03": {
+    "pdf_page": 43,
+    "bbox": [
+      435,
+      655,
+      553,
+      806
+    ]
+  },
+  "H8-tin_hoc-b09a-04": {
+    "pdf_page": 44,
+    "bbox": [
+      89,
+      612,
+      527,
+      749
+    ]
+  },
+  "H8-tin_hoc-b09a-05": {
+    "pdf_page": 45,
+    "bbox": [
+      111,
+      319,
+      489,
+      582
+    ]
+  },
+  "H8-tin_hoc-b09a-06": {
+    "pdf_page": 45,
+    "bbox": [
+      130,
+      664,
+      486,
+      804
+    ]
+  },
+  "H8-tin_hoc-b09a-07": {
+    "pdf_page": 46,
+    "bbox": [
+      110,
+      523,
+      502,
+      804
+    ]
+  },
+  "H8-tin_hoc-b10a-01": {
+    "pdf_page": 47,
+    "bbox": [
+      95,
+      411,
+      311,
+      565
+    ]
+  },
+  "H8-tin_hoc-b10a-02": {
+    "pdf_page": 47,
+    "bbox": [
+      324,
+      411,
+      532,
+      565
+    ]
+  },
+  "H8-tin_hoc-b10a-03": {
+    "pdf_page": 49,
+    "bbox": [
+      87,
+      211,
+      545,
+      488
+    ]
+  },
+  "H8-tin_hoc-b10a-04": {
+    "pdf_page": 50,
+    "bbox": [
+      184,
+      65,
+      416,
+      156
+    ]
+  },
+  "H8-tin_hoc-b10a-05": {
+    "pdf_page": 50,
+    "bbox": [
+      70,
+      166,
+      546,
+      629
+    ]
+  },
+  "H8-tin_hoc-b10a-06": {
+    "pdf_page": 51,
+    "bbox": [
+      70,
+      147,
+      541,
+      458
+    ]
+  },
+  "H8-tin_hoc-b11a-01": {
+    "pdf_page": 52,
+    "bbox": [
+      55,
+      308,
+      546,
+      466
+    ]
+  },
+  "H8-tin_hoc-b11a-02": {
+    "pdf_page": 53,
+    "bbox": [
+      93,
+      179,
+      508,
+      449
+    ]
+  },
+  "H8-tin_hoc-b11a-03": {
+    "pdf_page": 54,
+    "bbox": [
+      235,
+      55,
+      556,
+      262
+    ]
+  },
+  "H8-tin_hoc-b11a-04": {
+    "pdf_page": 54,
+    "bbox": [
+      96,
+      320,
+      510,
+      799
+    ]
+  },
+  "H8-tin_hoc-b11a-05": {
+    "pdf_page": 55,
+    "bbox": [
+      55,
+      208,
+      545,
+      802
+    ]
+  },
+  "H8-tin_hoc-b11a-06": {
+    "pdf_page": 56,
+    "bbox": [
+      120,
+      208,
+      497,
+      423
+    ]
+  },
+  "H8-tin_hoc-b08b-01": {
+    "pdf_page": 58,
+    "bbox": [
+      75,
+      62,
+      295,
+      250
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh phải chạm đuôi mũi tên xanh nối sang Hình 8b.2"
+  },
+  "H8-tin_hoc-b08b-02": {
+    "pdf_page": 58,
+    "bbox": [
+      311,
+      62,
+      545,
+      250
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trái chạm đầu mũi tên xanh nối từ Hình 8b.1"
+  },
+  "H8-tin_hoc-b08b-03": {
+    "pdf_page": 58,
+    "bbox": [
+      297,
+      496,
+      530,
+      602
+    ]
+  },
+  "H8-tin_hoc-b08b-04": {
+    "pdf_page": 59,
+    "bbox": [
+      310,
+      108,
+      533,
+      283
+    ]
+  },
+  "H8-tin_hoc-b08b-05": {
+    "pdf_page": 59,
+    "bbox": [
+      193,
+      526,
+      407,
+      659
+    ]
+  },
+  "H8-tin_hoc-b08b-06": {
+    "pdf_page": 60,
+    "bbox": [
+      88,
+      90,
+      530,
+      172
+    ]
+  },
+  "H8-tin_hoc-b08b-07": {
+    "pdf_page": 60,
+    "bbox": [
+      402,
+      215,
+      516,
+      299
+    ]
+  },
+  "H8-tin_hoc-b08b-08": {
+    "pdf_page": 61,
+    "bbox": [
+      71,
+      263,
+      540,
+      577
+    ]
+  },
+  "H8-tin_hoc-b08b-09": {
+    "pdf_page": 61,
+    "bbox": [
+      278,
+      608,
+      553,
+      782
+    ]
+  },
+  "H8-tin_hoc-b08b-10": {
+    "pdf_page": 62,
+    "bbox": [
+      423,
+      57,
+      545,
+      184
+    ]
+  },
+  "H8-tin_hoc-b09b-01": {
+    "pdf_page": 63,
+    "bbox": [
+      97,
+      640,
+      506,
+      799
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh trái nhô cao sát dòng cuối '(Hình 9b.1).' của cột văn bản bên phải"
+  },
+  "H8-tin_hoc-b09b-02": {
+    "pdf_page": 64,
+    "bbox": [
+      118,
+      187,
+      460,
+      339
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh hoa hồng bên trái nhô cao ngang dòng chữ 'chất lượng hình ảnh.' ở cột phải"
+  },
+  "H8-tin_hoc-b09b-03": {
+    "pdf_page": 64,
+    "bbox": [
+      130,
+      508,
+      282,
+      639
+    ]
+  },
+  "H8-tin_hoc-b09b-04": {
+    "pdf_page": 64,
+    "bbox": [
+      362,
+      512,
+      462,
+      613
+    ]
+  },
+  "H8-tin_hoc-b09b-05": {
+    "pdf_page": 64,
+    "bbox": [
+      137,
+      658,
+      273,
+      777
+    ]
+  },
+  "H8-tin_hoc-b09b-06": {
+    "pdf_page": 64,
+    "bbox": [
+      363,
+      621,
+      468,
+      777
+    ]
+  },
+  "H8-tin_hoc-b09b-07": {
+    "pdf_page": 65,
+    "bbox": [
+      102,
+      240,
+      498,
+      586
+    ]
+  },
+  "H8-tin_hoc-b09b-08": {
+    "pdf_page": 66,
+    "bbox": [
+      95,
+      65,
+      282,
+      208
+    ]
+  },
+  "H8-tin_hoc-b09b-09": {
+    "pdf_page": 66,
+    "bbox": [
+      336,
+      65,
+      528,
+      208
+    ]
+  },
+  "H8-tin_hoc-b09b-10": {
+    "pdf_page": 66,
+    "bbox": [
+      350,
+      319,
+      545,
+      452
+    ]
+  },
+  "H8-tin_hoc-b09b-11": {
+    "pdf_page": 66,
+    "bbox": [
+      354,
+      458,
+      544,
+      615
+    ]
+  },
+  "H8-tin_hoc-b10b-01": {
+    "pdf_page": 67,
+    "bbox": [
+      86,
+      359,
+      545,
+      500
+    ]
+  },
+  "H8-tin_hoc-b10b-02": {
+    "pdf_page": 67,
+    "bbox": [
+      253,
+      648,
+      545,
+      782
+    ]
+  },
+  "H8-tin_hoc-b10b-03": {
+    "pdf_page": 68,
+    "bbox": [
+      89,
+      314,
+      510,
+      471
+    ]
+  },
+  "H8-tin_hoc-b10b-04": {
+    "pdf_page": 68,
+    "bbox": [
+      89,
+      549,
+      517,
+      705
+    ]
+  },
+  "H8-tin_hoc-b10b-05": {
+    "pdf_page": 69,
+    "bbox": [
+      108,
+      64,
+      491,
+      237
+    ]
+  },
+  "H8-tin_hoc-b10b-06": {
+    "pdf_page": 69,
+    "bbox": [
+      113,
+      514,
+      487,
+      801
+    ]
+  },
+  "H8-tin_hoc-b10b-07": {
+    "pdf_page": 70,
+    "bbox": [
+      332,
+      64,
+      545,
+      243
+    ]
+  },
+  "H8-tin_hoc-b10b-08": {
+    "pdf_page": 70,
+    "bbox": [
+      92,
+      254,
+      505,
+      589
+    ]
+  },
+  "H8-tin_hoc-b11b-01": {
+    "pdf_page": 71,
+    "bbox": [
+      86,
+      421,
+      340,
+      671
+    ]
+  },
+  "H8-tin_hoc-b11b-02": {
+    "pdf_page": 71,
+    "bbox": [
+      353,
+      524,
+      545,
+      671
+    ]
+  },
+  "H8-tin_hoc-b11b-03": {
+    "pdf_page": 71,
+    "bbox": [
+      207,
+      712,
+      408,
+      796
+    ]
+  },
+  "H8-tin_hoc-b11b-04": {
+    "pdf_page": 72,
+    "bbox": [
+      79,
+      99,
+      537,
+      379
+    ]
+  },
+  "H8-tin_hoc-b11b-05": {
+    "pdf_page": 72,
+    "bbox": [
+      103,
+      510,
+      513,
+      750
+    ]
+  },
+  "H8-tin_hoc-b11b-06": {
+    "pdf_page": 73,
+    "bbox": [
+      135,
+      353,
+      480,
+      601
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "H8-tieng_anh-u01-01": {
+    "pdf_page": 11,
+    "bbox": [308, 174, 540, 497]
+  },
+  "H8-tieng_anh-u01-02": {
+    "pdf_page": 13,
+    "bbox": [290, 280, 567, 785]
+  },
+  "H8-tieng_anh-u01-03": {
+    "pdf_page": 14,
+    "bbox": [312, 415, 574, 768]
+  },
+  "H8-tieng_anh-u01-04": {
+    "pdf_page": 16,
+    "bbox": [42, 160, 297, 361],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nền xám chuyển sắc của cụm tranh a–c trải liền tới dải lề xanh bên trái trang sách (x=25..46 đều có 15 điểm đậm); giữ x0=42 (khung cắt x=38) để lấy trọn vẹn tranh a và c mà không dính dải lề xanh"
+  },
+  "H8-tieng_anh-u01-05": {
+    "pdf_page": 18,
+    "bbox": [297, 413, 564, 790]
+  }
+}

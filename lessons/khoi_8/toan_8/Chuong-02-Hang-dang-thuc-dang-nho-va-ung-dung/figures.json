@@ -1,0 +1,36 @@
+{
+  "H8-toan-b06-01": {
+    "pdf_page": 30,
+    "bbox": [295, 599, 552, 747],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình đặt trên nền hoạ tiết khối lập phương màu cam trang mở đầu Chương II (trang PDF 30)"
+  },
+  "H8-toan-b06-02": {
+    "pdf_page": 31,
+    "bbox": [225, 618, 564, 783]
+  },
+  "H8-toan-b08-01": {
+    "pdf_page": 40,
+    "bbox": [134, 206, 457, 505]
+  },
+  "H8-toan-b09-01": {
+    "pdf_page": 43,
+    "bbox": [430, 566, 539, 639]
+  },
+  "H8-toan-b09-02": {
+    "pdf_page": 44,
+    "bbox": [58, 176, 553, 300]
+  },
+  "H8-toan-b09-03": {
+    "pdf_page": 45,
+    "bbox": [435, 586, 555, 740]
+  },
+  "H8-toan-ltc-c02-02-01": {
+    "pdf_page": 47,
+    "bbox": [214, 298, 314, 412]
+  },
+  "H8-toan-bt-c02-01": {
+    "pdf_page": 48,
+    "bbox": [376, 600, 553, 774]
+  }
+}

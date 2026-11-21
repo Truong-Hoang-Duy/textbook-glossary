@@ -3,7 +3,7 @@
     "schema_version": "2.0",
     "kind": "subject",
     "subject_filter": "Hóa học",
-    "generated_at": "2026-11-20T08:29:14Z",
+    "generated_at": "2026-11-21T02:59:28Z",
     "source_markdown_files": [
       "Tu-dien-Dia-li.md",
       "Tu-dien-GD-KT-va-PL.md",
@@ -17,17 +17,17 @@
       "Tu-dien-Vat-li.md"
     ],
     "counts": {
-      "entries": 637,
+      "entries": 687,
       "by_origin_discipline": {
-        "Hóa học": 581,
-        "Sinh học": 24,
+        "Hóa học": 628,
+        "Sinh học": 26,
         "Tin học": 1,
         "Toán học": 1,
-        "Vật lí": 26,
+        "Vật lí": 27,
         "Địa lí": 4
       },
-      "multi_context_entries": 540,
-      "alt_explanation_entries": 60
+      "multi_context_entries": 582,
+      "alt_explanation_entries": 77
     }
   },
   "entries": [
@@ -64,6 +64,44 @@
           "section": "III",
           "printed_pages": [
             45
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-4r-fertilization-principle",
+      "term_en": "4R fertilization principle",
+      "term_vi": "Quy tắc bón phân “4 đúng”",
+      "term_vi_display": "Quy tắc bón phân “4 đúng” (quy tắc “4 đúng”)",
+      "aliases_vi": [
+        "quy tắc “4 đúng”"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A fertilization guideline comprising four requirements—right rate, right type, right time, and right place—to match the absorption capacity of soil and crops while minimizing environmental pollution and chemical residues in food.",
+      "explanation_vi": "Nguyên tắc sử dụng phân bón gồm bốn yêu cầu: đúng liều, đúng loại, đúng lúc và đúng nơi nhằm phù hợp với khả năng hấp thụ của đất và cây trồng, qua đó hạn chế ô nhiễm môi trường và tồn dư hoá chất trong nông sản.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 12 (Mục III): Biện pháp sử dụng phân bón an toàn, hiệu quả và bảo vệ môi trường đất, nước, không khí.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 12"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục III), tr. 55",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "III",
+          "printed_pages": [
+            55
           ]
         }
       ],
@@ -123,6 +161,53 @@
           "section": "IV",
           "printed_pages": [
             77
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-acetic-acid",
+      "term_en": "acetic acid",
+      "term_vi": "Acetic acid",
+      "term_vi_display": "Acetic acid",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "An organic acid with the chemical formula CH₃COOH that is a colorless, sour-tasting liquid constituting the acidic component of vinegar at concentrations of $2 - 5\\%$. It is used in food processing and in manufacturing pharmaceuticals, paints, and poly(vinyl acetate) fibers.",
+      "explanation_vi": "Acid hữu cơ có công thức hoá học CH₃COOH, là chất lỏng không màu, có vị chua và là thành phần tạo độ chua của giấm ăn với nồng độ khoảng $2 - 5\\%$. Hợp chất này được dùng trong chế biến thực phẩm, sản xuất dược phẩm, sơn và tơ sợi poly(vinyl acetate).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 8 (Mục III.3): Ví dụ tiêu biểu về acid hữu cơ yếu gần gũi trong đời sống và công nghiệp hoá chất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 8"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục I), tr. 36",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B8",
+          "section": "I",
+          "printed_pages": [
+            36
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục III.3), tr. 38",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B8",
+          "section": "III.3",
+          "printed_pages": [
+            38
           ]
         }
       ],
@@ -195,7 +280,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A molecule or ion capable of donating a proton ($\\text{H}^+$) to another species in a chemical reaction according to the Brønsted–Lowry theory (for example, HCl, CH₃COOH, the NH₄⁺ ion, or H₂O when reacting with NH₃).",
       "explanation_vi": "Phân tử hoặc ion có khả năng nhường proton ($\\text{H}^+$) cho chất khác trong phản ứng hoá học theo thuyết Brønsted – Lowry (ví dụ HCl, CH₃COOH, ion NH₄⁺ hoặc H₂O khi tác dụng với NH₃).",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 8",
+          "explanation_en": "A chemical compound whose molecule consists of one or more hydrogen atoms bonded to an acid radical and yields H⁺ ions when dissolved in water. Aqueous acid solutions turn blue-purple litmus paper red and react with active metals (such as Mg, Fe, and Zn) to form a salt and hydrogen gas.",
+          "explanation_vi": "Hợp chất hoá học mà phân tử gồm một hay nhiều nguyên tử hydrogen liên kết với gốc acid, khi tan trong nước phân li tạo ra ion H⁺. Dung dịch acid làm giấy quỳ tím chuyển sang màu đỏ và tác dụng được với một số kim loại (như Mg, Fe, Zn) tạo thành muối và khí hydrogen."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 11, Bài 2 (Mục II.1): Nhận diện vai trò chất cho proton trong các cặp phản ứng thuận nghịch và một chiều.",
@@ -204,6 +295,14 @@
           ],
           "grade": 11,
           "lesson_ref": "Bài 2"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 8 (Mục I, II): Nhận diện công thức phân tử, tính chất hoá học đặc trưng của dung dịch acid và phân biệt với base.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 8"
         }
       ],
       "disambiguation_notes": [
@@ -252,6 +351,39 @@
           "section": "II.1",
           "printed_pages": [
             19
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục I), tr. 35",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B8",
+          "section": "I",
+          "printed_pages": [
+            35
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục I), tr. 36",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B8",
+          "section": "I",
+          "printed_pages": [
+            36
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục II), tr. 36",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B8",
+          "section": "II",
+          "printed_pages": [
+            36
           ]
         }
       ],
@@ -476,6 +608,64 @@
           "section": "III.4",
           "printed_pages": [
             23
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-acidic-oxide",
+      "term_en": "acidic oxide",
+      "term_vi": "Oxide acid",
+      "term_vi_display": "Oxide acid",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A class of oxides capable of reacting with an aqueous base to form a salt and water (such as CO₂, SO₂, SO₃, or P₂O₅).",
+      "explanation_vi": "Loại oxide có khả năng tác dụng với dung dịch base tạo thành muối và nước (như CO₂, SO₂, SO₃, P₂O₅).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 10 (Mục II.1): Phân loại oxide theo tính chất hoá học và giải thích hiện tượng hiệu ứng nhà kính, mưa acid.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 10"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "I",
+          "printed_pages": [
+            44
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 45",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "I",
+          "printed_pages": [
+            45
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục II.1), tr. 45",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "II.1",
+          "printed_pages": [
+            45
           ]
         }
       ],
@@ -1480,6 +1670,57 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-alkali",
+      "term_en": "alkali",
+      "term_vi": "Kiềm",
+      "term_vi_display": "Kiềm (dung dịch kiềm; base kiềm)",
+      "aliases_vi": [
+        "dung dịch kiềm",
+        "base kiềm"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A class of water-soluble bases that dissolve readily in water to form aqueous solutions containing OH⁻ ions, such as KOH, NaOH, and Ba(OH)₂. Alkaline solutions turn litmus paper blue and turn colorless phenolphthalein solution pink.",
+      "explanation_vi": "Nhóm các base tan tốt trong nước tạo thành dung dịch chứa ion OH⁻ như KOH, NaOH, Ba(OH)₂. Dung dịch kiềm làm giấy quỳ tím chuyển sang màu xanh và làm dung dịch phenolphthalein không màu chuyển sang màu hồng.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 9 (Mục I, II): Phân biệt nhóm base tan làm đổi màu chất chỉ thị với phần lớn các base không tan trong nước.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục I), tr. 39, 40",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "I",
+          "printed_pages": [
+            39,
+            40
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục II), tr. 41",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "II",
+          "printed_pages": [
+            41
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-alkali-metal",
       "term_en": "alkali metal",
       "term_vi": "Kim loại kiềm",
@@ -2341,6 +2582,64 @@
           "section": "I.3.a",
           "printed_pages": [
             34
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-amphoteric-oxide",
+      "term_en": "amphoteric oxide",
+      "term_vi": "Oxide lưỡng tính",
+      "term_vi_display": "Oxide lưỡng tính",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A class of oxides capable of reacting with both aqueous acids and aqueous bases to form a salt and water (such as Al₂O₃ or ZnO).",
+      "explanation_vi": "Loại oxide tác dụng được với cả dung dịch acid và dung dịch base để tạo thành muối và nước (như Al₂O₃, ZnO).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 10 (Mục II.3): Phân biệt với các oxide chỉ phản ứng với acid (oxide base) hoặc chỉ phản ứng với base (oxide acid).",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 10"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "I",
+          "printed_pages": [
+            44
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục II.1), tr. 46",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "II.1",
+          "printed_pages": [
+            46
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục II.2), tr. 46",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "II.2",
+          "printed_pages": [
+            46
           ]
         }
       ],
@@ -4533,6 +4832,54 @@
       "markdown_file": "Tu-dien-Tin-hoc.md"
     },
     {
+      "id": "hoa-hoc-avogadro-number",
+      "term_en": "Avogadro number",
+      "term_vi": "Số Avogadro",
+      "term_vi_display": "Số Avogadro",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A characteristic number (symbol $N_{\\text{A}}$) representing the number of atoms contained in $12\\text{ g}$ of carbon, equal to $6.022 \\times 10^{23}$. Because of its immense magnitude, it is used exclusively for counting microscopic particles such as atoms and molecules.",
+      "explanation_vi": "Hằng số đặc trưng (kí hiệu $N_{\\text{A}}$) biểu thị số nguyên tử có trong $12\\text{ g}$ carbon, có giá trị bằng $6,022 \\cdot 10^{23}$. Do có giá trị rất lớn, con số này chỉ dùng để đếm các hạt vi mô như nguyên tử, phân tử.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 3 (Mục I.1): Cơ sở định nghĩa đơn vị lượng chất mol và quy đổi giữa số mol với số nguyên tử, phân tử.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B3 (Mục I.1), tr. 16",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B3",
+          "section": "I.1",
+          "printed_pages": [
+            16
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B3 (Mục I.1), tr. 16, 17",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B3",
+          "section": "I.1",
+          "printed_pages": [
+            16,
+            17
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-axial-overlap",
       "term_en": "axial overlap",
       "term_vi": "Xen phủ trục",
@@ -4651,7 +4998,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A molecule or ion capable of accepting a proton ($\\text{H}^+$) from another species in a chemical reaction according to the Brønsted–Lowry theory (for example, OH⁻, NH₃, the CO₃²⁻ ion, or H₂O when reacting with HCl).",
       "explanation_vi": "Phân tử hoặc ion có khả năng nhận proton ($\\text{H}^+$) từ chất khác trong phản ứng hoá học theo thuyết Brønsted – Lowry (ví dụ OH⁻, NH₃, ion CO₃²⁻ hoặc H₂O khi tác dụng với HCl).",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 8",
+          "explanation_en": "A chemical compound whose molecule consists of a metal atom bonded to one or more hydroxide groups (-OH, equal in number to the metal's valence) and yields OH⁻ ions when dissolved in water. Bases are named by combining the metal name (with Roman-numeral valence if multivalent) followed by hydroxide.",
+          "explanation_vi": "Hợp chất hoá học mà phân tử gồm một nguyên tử kim loại liên kết với một hay nhiều nhóm hydroxide (-OH, có số nhóm bằng hoá trị của kim loại), khi tan trong nước tạo ra ion OH⁻. Tên của base được gọi theo quy tắc ghép tên kim loại (kèm hoá trị nếu kim loại có nhiều hoá trị) với từ hydroxide."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 11, Bài 2 (Mục II.1): Nhận diện vai trò chất nhận proton của phân tử và anion trong các cân bằng acid – base.",
@@ -4660,10 +5013,19 @@
           ],
           "grade": 11,
           "lesson_ref": "Bài 2"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 9 (Mục I, II): Xác định thành phần công thức, danh pháp và phân loại thành base kiềm và base không tan.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 9"
         }
       ],
       "disambiguation_notes": [
-        "Định nghĩa theo thuyết Brønsted – Lowry trong chương trình Hóa học 11 (chất nhận proton H⁺), phân biệt với cơ số trong Toán học hoặc nitrogenous base trong Sinh học phân tử."
+        "Định nghĩa theo thuyết Brønsted – Lowry trong chương trình Hóa học 11 (chất nhận proton H⁺), phân biệt với cơ số trong Toán học hoặc nitrogenous base trong Sinh học phân tử.",
+        "Chỉ hợp chất hydroxide kim loại trong hoá học; phân biệt với cơ số của luỹ thừa hoặc cạnh đáy trong hình học."
       ],
       "sources": [
         {
@@ -4697,6 +5059,29 @@
           "section": "II.1",
           "printed_pages": [
             19
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục I), tr. 39",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "I",
+          "printed_pages": [
+            39
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục I), tr. 39, 40",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "I",
+          "printed_pages": [
+            39,
+            40
           ]
         }
       ],
@@ -4860,6 +5245,64 @@
           "section": "IV.1",
           "printed_pages": [
             24
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-basic-oxide",
+      "term_en": "basic oxide",
+      "term_vi": "Oxide base",
+      "term_vi_display": "Oxide base",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A class of oxides capable of reacting with an aqueous acid to form a salt and water (such as CuO, Na₂O, CaO, or Fe₂O₃).",
+      "explanation_vi": "Loại oxide có khả năng tác dụng với dung dịch acid tạo thành muối và nước (như CuO, Na₂O, CaO, Fe₂O₃).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 10 (Mục II.2): Phân loại oxide theo tính chất hoá học và ứng dụng khử chua đất trồng bằng vôi sống (CaO).",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 10"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "I",
+          "printed_pages": [
+            44
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục II.1), tr. 46",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "II.1",
+          "printed_pages": [
+            46
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục II.2), tr. 46",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "II.2",
+          "printed_pages": [
+            46
           ]
         }
       ],
@@ -5455,12 +5898,20 @@
       "id": "vat-li-calorimeter",
       "term_en": "calorimeter",
       "term_vi": "Nhiệt lượng kế",
-      "term_vi_display": "Nhiệt lượng kế",
-      "aliases_vi": [],
+      "term_vi_display": "Nhiệt lượng kế (Bình nhiệt lượng kế)",
+      "aliases_vi": [
+        "Bình nhiệt lượng kế"
+      ],
       "origin_discipline": "Vật lí",
       "explanation_en": "An apparatus used to measure the amount of heat absorbed or released during physical processes or chemical reactions. In experimental thermochemistry, the temperature change of water inside the calorimeter is used to determine the heat exchanged and the enthalpy change of a reaction.",
       "explanation_vi": "Dụng cụ dùng để đo nhiệt lượng thu vào hoặc toả ra trong các quá trình vật lí hoặc phản ứng hoá học. Trong thực nghiệm nhiệt hoá học, sự thay đổi nhiệt độ của nước trong nhiệt lượng kế giúp xác định nhiệt lượng trao đổi và biến thiên enthalpy của phản ứng.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 8",
+          "explanation_en": "An experimental apparatus used for measuring thermal energy, equipped internally with a heating coil to convert electrical energy into thermal energy and a stirrer to equalize the water temperature inside the vessel.",
+          "explanation_vi": "Dụng cụ thí nghiệm dùng trong phép đo năng lượng nhiệt, bên trong có lắp dây đốt để chuyển hoá năng lượng điện thành năng lượng nhiệt và que khuấy để làm đồng đều nhiệt độ của nước trong bình."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 17 (Mục IV): Xác định biến thiên enthalpy của phản ứng bằng thực nghiệm thông qua độ biến thiên nhiệt độ của nước trong bình đo.",
@@ -5469,6 +5920,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 17"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 27 (Mục I, II): thực hành đo năng lượng nhiệt cung cấp để đun nóng nước kết hợp với joulemeter và nhiệt kế.",
+          "disciplines": [
+            "Vật lí"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 27"
         }
       ],
       "disambiguation_notes": [],
@@ -5493,6 +5952,40 @@
           "section": "IV",
           "printed_pages": [
             87
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 06, B27, tr. 109",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 06",
+          "lesson": "B27",
+          "section": null,
+          "printed_pages": [
+            109
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 06, B27 (Mục I), tr. 109",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 06",
+          "lesson": "B27",
+          "section": "I",
+          "printed_pages": [
+            109
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 06, B27 (Mục II), tr. 109, 110",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 06",
+          "lesson": "B27",
+          "section": "II",
+          "printed_pages": [
+            109,
+            110
           ]
         }
       ],
@@ -6069,7 +6562,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A substance that increases the rate of a chemical reaction by providing multi-step pathways with lower activation energies, while remaining unchanged in mass and chemical identity after the reaction finishes (although particle size, shape, or porosity may change).",
       "explanation_vi": "Chất làm tăng tốc độ phản ứng hoá học bằng cách hướng phản ứng đi qua các giai đoạn có năng lượng hoạt hoá thấp hơn, nhưng giữ nguyên khối lượng và bản chất hoá học sau khi phản ứng kết thúc (dù kích thước, hình dạng hạt hoặc độ xốp có thể thay đổi).",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 8",
+          "explanation_en": "A substance that increases the rate of a chemical reaction while remaining unchanged in mass and chemical properties after the reaction finishes, such as MnO₂ in the decomposition of H₂O₂ or amylase enzyme in starch breakdown.",
+          "explanation_vi": "Chất có tác dụng làm tăng tốc độ của phản ứng hoá học nhưng vẫn giữ nguyên khối lượng và bản chất hoá học sau khi phản ứng kết thúc, ví dụ như MnO₂ trong phản ứng phân huỷ H₂O₂ hoặc enzyme amylase phân giải tinh bột."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 19 (Mục II.5): Ứng dụng trong phòng thí nghiệm, công nghiệp hoá chất và quá trình sinh hoá (enzyme) để tăng tốc độ phản ứng mà không bị tiêu hao sau phản ứng.",
@@ -6078,6 +6577,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 19"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 7 (Mục II.4): Khảo sát vai trò đẩy nhanh tốc độ phản ứng của chất xúc tác vô cơ và xúc tác sinh học (enzyme).",
+          "disciplines": [
+            "Sinh học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 7"
         }
       ],
       "disambiguation_notes": [],
@@ -6124,6 +6631,40 @@
           "section": null,
           "printed_pages": [
             119
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B7 (Mục II.4), tr. 33",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B7",
+          "section": "II.4",
+          "printed_pages": [
+            33
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B7 (Mục II.4), tr. 33, 34",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B7",
+          "section": "II.4",
+          "printed_pages": [
+            33,
+            34
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            195
           ]
         }
       ],
@@ -6737,6 +7278,55 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-chemical-change",
+      "term_en": "chemical change",
+      "term_vi": "Biến đổi hoá học",
+      "term_vi_display": "Biến đổi hoá học",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A transformation of matter in which one or more new substances with properties different from the original substances are formed, such as fuel combustion, chemical decomposition, or chemical synthesis.",
+      "explanation_vi": "Quá trình biến đổi của chất trong đó có sự tạo thành chất mới có tính chất khác với chất ban đầu, chẳng hạn như sự đốt cháy nhiên liệu, phân huỷ chất hoặc tổng hợp chất.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 2 (Mục I): Nhận diện các quá trình sinh ra chất mới trong tự nhiên và thí nghiệm, đối lập với biến đổi vật lí.",
+          "disciplines": [
+            "Vật lí"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 2"
+        }
+      ],
+      "disambiguation_notes": [
+        "Phân biệt với biến đổi vật lí là quá trình chỉ thay đổi trạng thái hoặc hình dạng mà không tạo ra chất mới."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục I), tr. 12",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "I",
+          "printed_pages": [
+            12
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            195
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-chemical-compound",
       "term_en": "chemical compound",
       "term_vi": "Hợp chất",
@@ -7079,6 +7669,54 @@
       "markdown_file": "Tu-dien-Vat-li.md"
     },
     {
+      "id": "hoa-hoc-chemical-equation",
+      "term_en": "chemical equation",
+      "term_vi": "Phương trình hoá học",
+      "term_vi_display": "Phương trình hoá học",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A concise symbolic representation of a chemical reaction using chemical formulas and stoichiometric coefficients such that the total number of atoms of each element on the reactant side (left of the arrow) equals that on the product side (right of the arrow). It indicates the ratios of atoms, molecules, and moles among the substances involved in the reaction.",
+      "explanation_vi": "Biểu thức biểu diễn ngắn gọn phản ứng hoá học bằng công thức hoá học và hệ số thích hợp sao cho tổng số nguyên tử của mỗi nguyên tố ở vế chất tham gia (bên trái mũi tên) bằng tổng số nguyên tử của nguyên tố đó ở vế chất sản phẩm (bên phải mũi tên). Phương trình hoá học cho biết tỉ lệ số nguyên tử, số phân tử và tỉ lệ số mol giữa các chất trong phản ứng.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 5 (Mục II): Lập qua 3 bước và dùng làm cơ sở xác định tỉ lệ mol trong các bài toán tính theo phương trình hoá học.",
+          "disciplines": [
+            "Toán học",
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 5"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B5 (Mục II.1), tr. 26",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B5",
+          "section": "II.1",
+          "printed_pages": [
+            26
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B5 (Mục II.2), tr. 27",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B5",
+          "section": "II.2",
+          "printed_pages": [
+            27
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-chemical-equilibrium",
       "term_en": "chemical equilibrium",
       "term_vi": "Cân bằng hoá học",
@@ -7132,6 +7770,65 @@
           "printed_pages": [
             9,
             10
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-chemical-fertilizer",
+      "term_en": "chemical fertilizer",
+      "term_vi": "Phân bón hoá học",
+      "term_vi_display": "Phân bón hoá học",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A chemical substance containing essential nutrient elements applied to crops to replenish soil nutrients and increase agricultural yield.",
+      "explanation_vi": "Hoá chất có chứa các nguyên tố dinh dưỡng thiết yếu, dùng để bón cho cây nhằm bổ sung dinh dưỡng cho đất và nâng cao năng suất cây trồng.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 12 (Mục I): Khái niệm chung cho các loại phân đạm, phân lân, phân kali, phân NPK và phân vi lượng.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 12"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12, tr. 53",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": null,
+          "printed_pages": [
+            53
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 53",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            53
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 53, 54",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            53,
+            54
           ]
         }
       ],
@@ -7356,6 +8053,54 @@
           "section": null,
           "printed_pages": [
             195
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-chemical-reaction",
+      "term_en": "chemical reaction",
+      "term_vi": "Phản ứng hoá học",
+      "term_vi_display": "Phản ứng hoá học",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A process in which one or more substances transform into different substances through the breaking of chemical bonds in reactant molecules and the formation of new bonds in product molecules. Its occurrence is typically indicated by a color change, gas evolution, precipitate formation, heat release, or light emission.",
+      "explanation_vi": "Quá trình biến đổi từ chất này thành chất khác thông qua sự phá vỡ các liên kết trong phân tử chất đầu và hình thành các liên kết mới tạo ra phân tử mới. Sự xảy ra phản ứng thường nhận biết qua dấu hiệu đổi màu, thoát khí, xuất hiện kết tủa, toả nhiệt hoặc phát sáng.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 2 (Mục II): Giải thích bản chất vi mô và dấu hiệu nhận biết sự tạo thành chất mới trong các thí nghiệm hoá học.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 2"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục II.1), tr. 12, 13",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II.1",
+          "printed_pages": [
+            12,
+            13
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục II.3), tr. 14",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II.3",
+          "printed_pages": [
+            14
           ]
         }
       ],
@@ -10146,6 +10891,139 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "sinh-hoc-digestion",
+      "term_en": "digestion",
+      "term_vi": "Tiêu hoá",
+      "term_vi_display": "Tiêu hoá (hoạt động tiêu hoá)",
+      "aliases_vi": [
+        "hoạt động tiêu hoá"
+      ],
+      "origin_discipline": "Sinh học",
+      "explanation_en": "The process of breaking down food containing structurally complex nutrients into small, simple molecules that the body can absorb, occurring either inside cells (intracellular digestion) or outside cells (extracellular digestion).",
+      "explanation_vi": "Quá trình biến đổi thức ăn chứa các chất dinh dưỡng có cấu tạo phức tạp thành các phân tử nhỏ, đơn giản mà cơ thể có thể hấp thụ được, diễn ra bên trong tế bào (tiêu hoá nội bào) hoặc bên ngoài tế bào (tiêu hoá ngoại bào).",
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 7",
+          "explanation_en": "The physiological process occurring within the digestive tract that breaks down complex nutrients in food (such as carbohydrates, proteins, and lipids) into simple substances that the animal body can absorb into the blood.",
+          "explanation_vi": "Quá trình biến đổi các chất dinh dưỡng phức tạp trong thức ăn (như carbohydrate, protein, lipid) thành những chất đơn giản diễn ra trong ống tiêu hoá để cơ thể động vật có thể hấp thụ vào máu."
+        },
+        {
+          "source_label": "SGK Khoa học tự nhiên 8",
+          "explanation_en": "The process of breaking down complex food into simple nutrients that can be absorbed by the body while eliminating indigestible waste. In humans, this process occurs from the oral cavity to the intestines, taking place primarily in the small intestine.",
+          "explanation_vi": "Quá trình biến đổi thức ăn có kích thước lớn thành các chất dinh dưỡng đơn giản mà cơ thể hấp thụ được, đồng thời loại bỏ chất thải ra ngoài. Ở người, quá trình này diễn ra từ khoang miệng đến ruột và tập trung chủ yếu tại ruột non."
+        }
+      ],
+      "contexts": [
+        {
+          "raw": "Sinh học lớp 11, Bài 8 (Mục I.2): Giai đoạn thứ hai biến đổi thức ăn phức tạp thành chất đơn giản trong quá trình dinh dưỡng ở động vật.",
+          "disciplines": [
+            "Sinh học"
+          ],
+          "grade": 11,
+          "lesson_ref": "Bài 8"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 7, Bài 31 (Mục I): giai đoạn trung tâm trong con đường thu nhận, biến đổi và hấp thụ thức ăn ở động vật và người.",
+          "disciplines": [
+            "Sinh học"
+          ],
+          "grade": 7,
+          "lesson_ref": "Bài 31"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 32 (Mục II.2): phân tích sự phối hợp giữa biến đổi cơ học và biến đổi hoá học dọc ống tiêu hoá.",
+          "disciplines": [
+            "Vật lí",
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 32"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.2), tr. 47",
+          "book": "SGK Sinh học 11 KNTT",
+          "unit": "sinh_11",
+          "group": "Chương 01",
+          "lesson": "B8",
+          "section": "I.2",
+          "printed_pages": [
+            47
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31, tr. 131",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B31",
+          "section": null,
+          "printed_pages": [
+            131
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31 (Mục I), tr. 131",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B31",
+          "section": "I",
+          "printed_pages": [
+            131
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 7 KNTT, Chương 07, B31 (Mục I), tr. 131, 132",
+          "book": "SGK Khoa học tự nhiên 7 KNTT",
+          "unit": "khtn_7",
+          "group": "Chương 07",
+          "lesson": "B31",
+          "section": "I",
+          "printed_pages": [
+            131,
+            132
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục I), tr. 128",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 07",
+          "lesson": "B32",
+          "section": "I",
+          "printed_pages": [
+            128
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.1), tr. 129",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 07",
+          "lesson": "B32",
+          "section": "II.1",
+          "printed_pages": [
+            129
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.2.a), tr. 129",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 07",
+          "lesson": "B32",
+          "section": "II.2.a",
+          "printed_pages": [
+            129
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Sinh-hoc.md"
+    },
+    {
       "id": "hoa-hoc-dipeptide",
       "term_en": "dipeptide",
       "term_vi": "Dipeptide",
@@ -10477,6 +11355,53 @@
           "printed_pages": [
             57,
             58
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-double-displacement-reaction",
+      "term_en": "double displacement reaction",
+      "term_vi": "Phản ứng trao đổi",
+      "term_vi_display": "Phản ứng trao đổi",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A chemical reaction in which two reacting compounds exchange their constituent components to form new compounds. In aqueous reactions between a salt and an acid, base, or another salt, the reaction occurs only if the products include at least one gas, insoluble substance, or slightly soluble substance.",
+      "explanation_vi": "Phản ứng hoá học trong đó hai hợp chất tham gia trao đổi với nhau các thành phần cấu tạo để tạo ra những hợp chất mới. Trong dung dịch giữa muối với acid, base hoặc muối khác, phản ứng xảy ra khi sản phẩm có ít nhất một chất khí, chất không tan hoặc ít tan.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 11 (Mục III): Xét điều kiện xảy ra các phản ứng trong dung dịch của muối với acid, dung dịch base và dung dịch muối.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 11"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B11 (Mục III), tr. 51",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "III",
+          "printed_pages": [
+            51
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B11 (Mục IV), tr. 51",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "IV",
+          "printed_pages": [
+            51
           ]
         }
       ],
@@ -12097,16 +13022,30 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
-      "id": "hoa-hoc-electroplating",
+      "id": "vat-li-electroplating",
       "term_en": "electroplating",
       "term_vi": "Mạ điện",
       "term_vi_display": "Mạ điện",
       "aliases_vi": [],
-      "origin_discipline": "Hóa học",
-      "explanation_en": "An electrolytic method using a salt solution of the plating metal with the object to be coated as the cathode and a bar of the plating metal as the anode, whereby metal ions are reduced to form a solid metallic coating over the object's surface for decoration or corrosion protection.",
-      "explanation_vi": "Phương pháp ứng dụng sự điện phân dung dịch muối của kim loại mạ với vật cần mạ làm cathode và thanh kim loại mạ làm anode, trong đó ion kim loại bị khử tạo thành lớp kim loại rắn bao phủ trên bề mặt vật cần mạ nhằm trang trí hoặc chống ăn mòn.",
-      "alt_explanations": [],
+      "origin_discipline": "Vật lí",
+      "explanation_en": "A process applying the chemical effect of electric current to coat a thin layer of metal onto the surface of an object. During the process, the object to be plated is connected to the negative terminal, the plating metal to the positive terminal of the power source, and both are immersed in a suitable electrolyte solution.",
+      "explanation_vi": "Phương pháp ứng dụng tác dụng hoá học của dòng điện để phủ một lớp kim loại mỏng lên bề mặt vật cần mạ. Khi thực hiện, vật cần mạ được nối với cực âm, tấm kim loại mạ nối với cực dương của nguồn điện và cả hai cùng nhúng trong dung dịch điện phân thích hợp.",
+      "alt_explanations": [
+        {
+          "source_label": "SGK Hóa học 12",
+          "explanation_en": "An electrolytic method using a salt solution of the plating metal with the object to be coated as the cathode and a bar of the plating metal as the anode, whereby metal ions are reduced to form a solid metallic coating over the object's surface for decoration or corrosion protection.",
+          "explanation_vi": "Phương pháp ứng dụng sự điện phân dung dịch muối của kim loại mạ với vật cần mạ làm cathode và thanh kim loại mạ làm anode, trong đó ion kim loại bị khử tạo thành lớp kim loại rắn bao phủ trên bề mặt vật cần mạ nhằm trang trí hoặc chống ăn mòn."
+        }
+      ],
       "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 23 (Mục IV): ứng dụng thực tế của tác dụng hoá học của dòng điện để chống gỉ và trang trí bề mặt kim loại.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 23"
+        },
         {
           "raw": "Hóa học lớp 12, Bài 16 (Mục II.3): ứng dụng thực tiễn của quá trình điện phân trong gia công và bảo vệ bề mặt kim loại.",
           "disciplines": [
@@ -12118,6 +13057,17 @@
       ],
       "disambiguation_notes": [],
       "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục IV), tr. 98",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 05",
+          "lesson": "B23",
+          "section": "IV",
+          "printed_pages": [
+            98
+          ]
+        },
         {
           "raw": "SGK Hóa học 12 KNTT, Chương 05, B16 (Mục II.2), tr. 83",
           "book": "SGK Hóa học 12 KNTT",
@@ -12153,7 +13103,7 @@
           ]
         }
       ],
-      "markdown_file": "Tu-dien-Hoa-hoc.md"
+      "markdown_file": "Tu-dien-Vat-li.md"
     },
     {
       "id": "hoa-hoc-electrowinning",
@@ -12507,7 +13457,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A chemical reaction that absorbs energy in the form of heat from the surroundings into the reacting system, lowering the surrounding temperature and having a positive enthalpy change ($\\Delta_r H > 0$).",
       "explanation_vi": "Phản ứng hoá học hấp thụ năng lượng dưới dạng nhiệt truyền từ môi trường xung quanh vào hệ phản ứng, làm giảm nhiệt độ môi trường và có biến thiên enthalpy dương ($\\Delta_r H > 0$).",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 8",
+          "explanation_en": "A chemical reaction that absorbs energy in the form of heat from its surroundings throughout the course of the reaction, such as the calcination of limestone or the thermal decomposition of copper(II) hydroxide.",
+          "explanation_vi": "Phản ứng hoá học hấp thụ năng lượng dưới dạng nhiệt từ môi trường xung quanh trong suốt quá trình phản ứng diễn ra, ví dụ như phản ứng nung đá vôi hoặc phân huỷ copper(II) hydroxide."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 17 (Mục I, II.3): Phân biệt với phản ứng toả nhiệt qua các ví dụ như nung đá vôi, nhiệt phân KMnO₄, nhiệt phân Cu(OH)₂ và hoà tan viên sủi vitamin C.",
@@ -12516,6 +13472,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 17"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 2 (Mục III.1): Phân biệt với phản ứng toả nhiệt thông qua dấu hiệu cần liên tục cung cấp nhiệt để duy trì phản ứng.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 2"
         }
       ],
       "disambiguation_notes": [],
@@ -12552,6 +13516,28 @@
           "printed_pages": [
             81,
             82
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục III.1), tr. 14",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "III.1",
+          "printed_pages": [
+            14
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            196
           ]
         }
       ],
@@ -13748,7 +14734,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A chemical reaction that releases energy in the form of heat from the reacting system to the surroundings, raising the surrounding temperature and having a negative enthalpy change ($\\Delta_r H < 0$).",
       "explanation_vi": "Phản ứng hoá học giải phóng năng lượng dưới dạng nhiệt truyền từ hệ phản ứng ra môi trường xung quanh, làm tăng nhiệt độ môi trường và có biến thiên enthalpy âm ($\\Delta_r H < 0$).",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 8",
+          "explanation_en": "A chemical reaction that releases energy in the form of heat to its surroundings as it occurs, typically exemplified by the combustion of ethanol, coal, gasoline, oil, or gas.",
+          "explanation_vi": "Phản ứng hoá học giải phóng năng lượng dưới dạng nhiệt ra môi trường xung quanh khi xảy ra, điển hình như các phản ứng đốt cháy cồn, than, xăng, dầu hoặc khí gas."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 17 (Mục I, II.3): Phân biệt với phản ứng thu nhiệt qua các ví dụ như đốt cháy nhiên liệu, phản ứng tôi vôi và phản ứng trung hoà acid – base.",
@@ -13757,6 +14749,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 17"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 2 (Mục III.1): Phân loại phản ứng theo sự trao đổi nhiệt năng với môi trường và ứng dụng cung cấp nhiệt trong đời sống, sản xuất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 2"
         }
       ],
       "disambiguation_notes": [],
@@ -13793,6 +14793,39 @@
           "printed_pages": [
             81,
             82
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục III.1), tr. 14",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "III.1",
+          "printed_pages": [
+            14
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục III.2), tr. 14",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "III.2",
+          "printed_pages": [
+            14
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            196
           ]
         }
       ],
@@ -16781,6 +17814,53 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-hydrochloric-acid",
+      "term_en": "hydrochloric acid",
+      "term_vi": "Hydrochloric acid",
+      "term_vi_display": "Hydrochloric acid",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "An aqueous solution of hydrogen chloride with the chemical formula HCl, existing as a colorless strongly acidic liquid. It occurs naturally in gastric juice to aid digestion and kill bacteria, and is widely used industrially for steel pickling, organic synthesis, and swimming-pool pH adjustment.",
+      "explanation_vi": "Dung dịch nước của khí hydrogen chloride có công thức hoá học HCl, tồn tại ở dạng chất lỏng không màu có tính acid mạnh. Hợp chất này có mặt trong dịch vị dạ dày giúp tiêu hoá thức ăn, diệt khuẩn và được ứng dụng rộng rãi trong công nghiệp tẩy gỉ thép, tổng hợp chất hữu cơ, xử lí pH nước bể bơi.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 8 (Mục III.2): Tìm hiểu tính chất và vai trò sinh học – công nghiệp của dung dịch acid thông dụng.",
+          "disciplines": [
+            "Sinh học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 8"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục I), tr. 35",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B8",
+          "section": "I",
+          "printed_pages": [
+            35
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục III.2), tr. 37",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B8",
+          "section": "III.2",
+          "printed_pages": [
+            37
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-hydrogen-bond",
       "term_en": "hydrogen bond",
       "term_vi": "Liên kết hydrogen",
@@ -17854,6 +18934,54 @@
           "printed_pages": [
             34,
             35
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-insoluble-base",
+      "term_en": "insoluble base",
+      "term_vi": "Base không tan",
+      "term_vi_display": "Base không tan",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "The majority group of bases (metal hydroxides) that do not dissolve in water, such as Mg(OH)₂, Cu(OH)₂, Fe(OH)₂, and Fe(OH)₃.",
+      "explanation_vi": "Nhóm chiếm phần lớn các base (hydroxide kim loại) không tan được trong nước, chẳng hạn như Mg(OH)₂, Cu(OH)₂, Fe(OH)₂ và Fe(OH)₃.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 9 (Mục I, II): Tra cứu bảng tính tan để phân biệt với dung dịch kiềm, dù cả hai đều tham gia phản ứng trung hoà với acid.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục I), tr. 40",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "I",
+          "printed_pages": [
+            40
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục II), tr. 40, 41",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "II",
+          "printed_pages": [
+            40,
+            41
           ]
         }
       ],
@@ -19368,6 +20496,65 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-law-of-conservation-of-mass",
+      "term_en": "law of conservation of mass",
+      "term_vi": "Định luật bảo toàn khối lượng",
+      "term_vi_display": "Định luật bảo toàn khối lượng",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A fundamental law of chemistry (independently established by Lomonosov and Lavoisier) stating that in a chemical reaction, the total mass of the products always equals the total mass of the reactants. This holds because chemical reactions only rearrange bonds between atoms while conserving the number of atoms of each element.",
+      "explanation_vi": "Định luật cơ bản của hoá học (do Lomonosov và Lavoisier độc lập tìm ra) khẳng định trong một phản ứng hoá học, tổng khối lượng của các chất sản phẩm luôn bằng tổng khối lượng của các chất tham gia phản ứng. Cơ sở của định luật là trong phản ứng chỉ có liên kết giữa các nguyên tử thay đổi, còn số nguyên tử của mỗi nguyên tố vẫn giữ nguyên.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 5 (Mục I): Áp dụng để tính khối lượng của một chất khi biết khối lượng các chất còn lại trong phản ứng.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 5"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B5 (Mục I.1), tr. 24",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B5",
+          "section": "I.1",
+          "printed_pages": [
+            24
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B5 (Mục I.1), tr. 24, 25",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B5",
+          "section": "I.1",
+          "printed_pages": [
+            24,
+            25
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B5 (Mục I.2), tr. 25",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B5",
+          "section": "I.2",
+          "printed_pages": [
+            25
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-le-chatelier-s-principle",
       "term_en": "Le Chatelier's principle",
       "term_vi": "Nguyên lí chuyển dịch cân bằng Le Chatelier",
@@ -20470,6 +21657,69 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-macronutrient-element",
+      "term_en": "macronutrient element",
+      "term_vi": "Nguyên tố đa lượng",
+      "term_vi_display": "Nguyên tố đa lượng (nhóm nguyên tố đa lượng)",
+      "aliases_vi": [
+        "nhóm nguyên tố đa lượng"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A group of essential chemical nutrient elements required in large quantities by crops (comprising N, P, and K) to build cells, regulate metabolic and physiological processes, and enhance resistance to adverse environmental conditions.",
+      "explanation_vi": "Nhóm nguyên tố hoá học dinh dưỡng mà cây trồng cần với hàm lượng lớn (gồm N, P, K) để cấu tạo tế bào, điều chỉnh hoạt động trao đổi chất, sinh lí và tăng sức chống chịu trước điều kiện môi trường bất lợi.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 12 (Mục I): Phân biệt với nhóm nguyên tố trung lượng (Ca, Mg) và vi lượng (Zn, Cu, Fe, Mn) khi bổ sung phân bón cho cây trồng.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 12"
+        }
+      ],
+      "disambiguation_notes": [
+        "Trong hoá học phân bón (KHTN 8 Bài 12), nhóm nguyên tố đa lượng chỉ ba nguyên tố dinh dưỡng chính N, P, K (tách riêng nhóm trung lượng Ca, Mg), khác với cách phân chia trong sinh học tế bào xếp cả C, H, O, N, P, K, S, Ca, Mg vào nguyên tố đa lượng."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12, tr. 53",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": null,
+          "printed_pages": [
+            53
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 53",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            53
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 53, 54",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            53,
+            54
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-main-group-elements",
       "term_en": "main-group elements",
       "term_vi": "Các nhóm A",
@@ -20818,6 +22068,64 @@
       "markdown_file": "Tu-dien-Vat-li.md"
     },
     {
+      "id": "hoa-hoc-mass-percent-concentration",
+      "term_en": "mass percent concentration",
+      "term_vi": "Nồng độ phần trăm",
+      "term_vi_display": "Nồng độ phần trăm",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A quantity (symbol $C\\%$) indicating the mass in grams of solute contained in $100\\text{ g}$ of solution, calculated by the formula $C\\% = \\frac{m_{\\text{solute}}}{m_{\\text{solution}}} \\times 100\\%$ where $m_{\\text{solute}}$ is the solute mass and $m_{\\text{solution}}$ is the solution mass.",
+      "explanation_vi": "Đại lượng (kí hiệu $C\\%$) cho biết số gam chất tan có trong $100\\text{ g}$ dung dịch, được xác định theo công thức $C\\% = \\frac{m_{\\text{ct}}}{m_{\\text{dd}}} \\cdot 100\\%$ với $m_{\\text{ct}}$ là khối lượng chất tan và $m_{\\text{dd}}$ là khối lượng dung dịch.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 4 (Mục III.1, IV): Tính toán khối lượng chất tan, dung môi và thực hành pha chế dung dịch như nước muối sinh lí $0,9\\%$.",
+          "disciplines": [
+            "Toán học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục III.1), tr. 21",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "III.1",
+          "printed_pages": [
+            21
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục III.1), tr. 22",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "III.1",
+          "printed_pages": [
+            22
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục IV), tr. 23",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "IV",
+          "printed_pages": [
+            23
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-mass-percentage-of-an-element-in-a-compound",
       "term_en": "mass percentage of an element in a compound",
       "term_vi": "Phần trăm khối lượng nguyên tố trong hợp chất",
@@ -21145,7 +22453,13 @@
       "origin_discipline": "Sinh học",
       "explanation_en": "The physical processing of food within the alimentary canal driven by the chewing action of the mouth and tongue and contractions of smooth muscle layers in the canal wall under neural and hormonal control, which breaks food into smaller pieces, mixes it with digestive juices, and propels it along the tract.",
       "explanation_vi": "Quá trình biến đổi vật lí thức ăn trong ống tiêu hoá nhờ hoạt động của miệng, lưỡi và sự co dãn của các lớp cơ trơn trên thành ống tiêu hoá dưới sự điều khiển của hệ thần kinh và hormone, giúp làm nhỏ thức ăn, nhào trộn với dịch tiêu hoá và đẩy thức ăn dịch chuyển dọc ống tiêu hoá.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 8",
+          "explanation_en": "The physical breakdown of food through chewing and grinding by the teeth, mixing by the tongue in the oral cavity, and churning contractions of the stomach. This process reduces food into smaller particles and mixes it thoroughly with digestive juices.",
+          "explanation_vi": "Hình thức biến đổi vật lí thức ăn thông qua hoạt động nhai, nghiền của răng, đảo trộn của lưỡi ở khoang miệng và sự co bóp của dạ dày. Quá trình này làm nhỏ, nhuyễn thức ăn và giúp thức ăn thấm đều dịch tiêu hoá."
+        }
+      ],
       "contexts": [
         {
           "raw": "Sinh học lớp 11, Bài 8 (Mục I.2.c): Quá trình làm nhỏ và nhào trộn thức ăn phối hợp với tiêu hoá hoá học trong ống tiêu hoá.",
@@ -21155,6 +22469,14 @@
           ],
           "grade": 11,
           "lesson_ref": "Bài 8"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 32 (Mục II.2): phân biệt với tiêu hoá hoá học có sự tham gia của các enzyme tiêu hoá.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 32"
         }
       ],
       "disambiguation_notes": [],
@@ -21179,6 +22501,39 @@
           "section": "I.2.c",
           "printed_pages": [
             49
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.1), tr. 129",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 07",
+          "lesson": "B32",
+          "section": "II.1",
+          "printed_pages": [
+            129
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.2.a), tr. 129",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 07",
+          "lesson": "B32",
+          "section": "II.2.a",
+          "printed_pages": [
+            129
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.2.b), tr. 129",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 07",
+          "lesson": "B32",
+          "section": "II.2.b",
+          "printed_pages": [
+            129
           ]
         }
       ],
@@ -21320,6 +22675,54 @@
           "section": "I.2",
           "printed_pages": [
             102
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-metal-oxide",
+      "term_en": "metal oxide",
+      "term_vi": "Oxide kim loại",
+      "term_vi_display": "Oxide kim loại",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "An oxide compound composed of a metallic element bonded to oxygen, commonly formed through the direct chemical reaction of a metal with oxygen gas.",
+      "explanation_vi": "Hợp chất oxide tạo bởi một nguyên tố kim loại liên kết với nguyên tố oxygen, thường thu được từ phản ứng hoá học trực tiếp giữa kim loại với khí oxygen.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 10 (Mục I): Nhóm oxide phân loại theo thành phần nguyên tố, đối lập với oxide phi kim.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 10"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "I",
+          "printed_pages": [
+            44
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44, 45",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "I",
+          "printed_pages": [
+            44,
+            45
           ]
         }
       ],
@@ -21799,7 +23202,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A solid methane hydrate substance formed under conditions of high pressure and low temperature, found in vast quantities deep beneath the Arctic seabed.",
       "explanation_vi": "Chất rắn dạng methane hydrate hình thành trong điều kiện áp suất cao và nhiệt độ thấp, tồn tại với lượng rất lớn ở sâu dưới đáy biển Bắc Cực.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Lịch sử và Địa lí 8",
+          "explanation_en": "A solid crystalline compound formed from water and natural gas, predominantly methane compressed within a lattice of water crystals. This energy mineral occurs abundantly in deep-ocean seafloor sediments and holds significant potential for future use.",
+          "explanation_vi": "Hợp chất rắn giữa nước và khí tự nhiên mà chủ yếu là khí mê-tan bị nén giữ bên trong cấu trúc tinh thể nước. Loại khoáng sản năng lượng này phân bố nhiều trong các lớp trầm tích ở đáy đại dương và có tiềm năng sử dụng lớn trong tương lai."
+        }
+      ],
       "contexts": [
         {
           "raw": "Khoa học tự nhiên lớp 6, Bài 14 (Mục III): Nguồn nhiên liệu tiềm năng được giới thiệu mở rộng trong phần tìm hiểu an ninh năng lượng.",
@@ -21808,6 +23217,15 @@
           ],
           "grade": 6,
           "lesson_ref": "Bài 14"
+        },
+        {
+          "raw": "Lịch sử và Địa lí lớp 8, Bài 12 (Mục 2): loại khoáng sản năng lượng tiềm năng ở vùng biển và thềm lục địa Việt Nam.",
+          "disciplines": [
+            "Địa lí",
+            "Lịch sử"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 12"
         }
       ],
       "disambiguation_notes": [],
@@ -21832,6 +23250,89 @@
           "section": "III",
           "printed_pages": [
             51
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 2), tr. 156",
+          "book": "SGK Lịch sử và Địa lí 8 KNTT",
+          "unit": "ls_va_dl_8",
+          "group": "Phần Địa lí, Chương 04",
+          "lesson": "B12",
+          "section": "2",
+          "printed_pages": [
+            156
+          ]
+        },
+        {
+          "raw": "SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 173",
+          "book": "SGK Lịch sử và Địa lí 8 KNTT",
+          "unit": "ls_va_dl_8",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            173
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-micronutrient-element",
+      "term_en": "micronutrient element",
+      "term_vi": "Nguyên tố vi lượng",
+      "term_vi_display": "Nguyên tố vi lượng (nhóm nguyên tố vi lượng)",
+      "aliases_vi": [
+        "nhóm nguyên tố vi lượng"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A group of essential chemical nutrient elements required in small quantities by crops (such as Zn, Mn, Fe, and Cu) that play an indispensable role in stimulating plant growth and metabolism.",
+      "explanation_vi": "Nhóm nguyên tố hoá học dinh dưỡng mà cây trồng cần với hàm lượng nhỏ nhưng không thể thiếu (như Zn, Mn, Fe, Cu), có vai trò kích thích quá trình sinh trưởng và trao đổi chất của cây.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 12 (Mục I): Phân biệt với nhóm nguyên tố đa lượng và trung lượng trong thành phần dinh dưỡng bổ sung cho cây trồng.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 12"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12, tr. 53",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": null,
+          "printed_pages": [
+            53
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 53",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            53
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 53, 54",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            53,
+            54
           ]
         }
       ],
@@ -21969,6 +23470,186 @@
         }
       ],
       "markdown_file": "Tu-dien-Sinh-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-molar-concentration",
+      "term_en": "molar concentration",
+      "term_vi": "Nồng độ mol",
+      "term_vi_display": "Nồng độ mol",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A quantity (symbol $C_{\\text{M}}$) indicating the number of moles of solute contained in $1\\text{ L}$ of solution, calculated via $C_{\\text{M}} = \\frac{n_{\\text{solute}}}{V_{\\text{solution}}}$ and expressed in $\\text{mol/L}$ (commonly abbreviated as $\\text{M}$).",
+      "explanation_vi": "Đại lượng (kí hiệu $C_{\\text{M}}$) cho biết số mol chất tan có trong $1\\text{ L}$ dung dịch, được tính theo công thức $C_{\\text{M}} = \\frac{n_{\\text{ct}}}{V_{\\text{dd}}}$ với đơn vị là $\\text{mol/L}$ (thường viết tắt là $\\text{M}$).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 4 (Mục III.2): Biểu thị nồng độ các dung dịch hoá chất trong phòng thí nghiệm và tính toán lượng chất theo thể tích dung dịch.",
+          "disciplines": [
+            "Toán học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục III.2), tr. 22",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "III.2",
+          "printed_pages": [
+            22
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục IV), tr. 23",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "IV",
+          "printed_pages": [
+            23
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-molar-mass",
+      "term_en": "molar mass",
+      "term_vi": "Khối lượng mol",
+      "term_vi_display": "Khối lượng mol",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "The mass in grams of $N_{\\text{A}}$ atoms or molecules (i.e., $1\\text{ mol}$) of a substance, denoted by $M$ and expressed in $\\text{g/mol}$. It has the same numerical value as the atomic or molecular mass in $\\text{amu}$ and relates substance mass $m$ and amount $n$ via $M = \\frac{m}{n}$.",
+      "explanation_vi": "Khối lượng của $N_{\\text{A}}$ nguyên tử hoặc phân tử (tức $1\\text{ mol}$) của một chất tính theo đơn vị gam, kí hiệu là $M$ và có đơn vị $\\text{g/mol}$. Khối lượng mol có cùng trị số với khối lượng nguyên tử hoặc phân tử tính theo $\\text{amu}$ và liên hệ với khối lượng chất $m$, số mol $n$ qua công thức $M = \\frac{m}{n}$.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 3 (Mục I.2): Dùng để chuyển đổi qua lại giữa số mol và khối lượng chất trong các bài toán hoá học.",
+          "disciplines": [
+            "Toán học",
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B3 (Mục I.2), tr. 17",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B3",
+          "section": "I.2",
+          "printed_pages": [
+            17
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B3 (Mục I.2), tr. 17, 18",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B3",
+          "section": "I.2",
+          "printed_pages": [
+            17,
+            18
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-molar-volume-of-a-gas",
+      "term_en": "molar volume of a gas",
+      "term_vi": "Thể tích mol của chất khí",
+      "term_vi_display": "Thể tích mol của chất khí",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "The volume occupied by $N_{\\text{A}}$ molecules ($1\\text{ mol}$) of a gas under specified conditions of temperature and pressure. At the same temperature and pressure, all gases have equal molar volumes, equal to $24.79\\text{ L/mol}$ under standard ambient conditions ($25\\text{ }^\\circ\\text{C}$, $1\\text{ bar}$).",
+      "explanation_vi": "Thể tích chiếm bởi $N_{\\text{A}}$ phân tử ($1\\text{ mol}$) của một chất khí ở điều kiện nhiệt độ và áp suất xác định. Ở cùng điều kiện nhiệt độ và áp suất, mọi chất khí đều có thể tích mol bằng nhau và ở điều kiện chuẩn ($25\\text{ }^\\circ\\text{C}$, $1\\text{ bar}$) có giá trị bằng $24,79\\text{ L/mol}$.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 3 (Mục I.3): Áp dụng công thức $V = 24,79 \\cdot n$ để tính thể tích hoặc số mol chất khí ở điều kiện chuẩn.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B3 (Mục I.3), tr. 18",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B3",
+          "section": "I.3",
+          "printed_pages": [
+            18
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-mole",
+      "term_en": "mole",
+      "term_vi": "Mol",
+      "term_vi_display": "Mol",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "The unit of amount of substance in chemistry, corresponding to the quantity of a substance that contains $N_{\\text{A}}$ ($6.022 \\times 10^{23}$) atoms or molecules of that substance.",
+      "explanation_vi": "Đơn vị đo lượng chất trong hoá học, tương ứng với lượng chất có chứa $N_{\\text{A}}$ ($6,022 \\cdot 10^{23}$) nguyên tử hoặc phân tử của chất đó.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 3 (Mục I.1): Đại lượng trung tâm dùng để tính toán khối lượng chất, thể tích khí, nồng độ dung dịch và phương trình hoá học.",
+          "disciplines": [
+            "Toán học",
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B3 (Mục I.1), tr. 16",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B3",
+          "section": "I.1",
+          "printed_pages": [
+            16
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            196
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
       "id": "hoa-hoc-molecular-formula",
@@ -23463,6 +25144,102 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-neutral-oxide",
+      "term_en": "neutral oxide",
+      "term_vi": "Oxide trung tính",
+      "term_vi_display": "Oxide trung tính (oxide không tạo muối)",
+      "aliases_vi": [
+        "oxide không tạo muối"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A class of oxides that react with neither aqueous acids nor aqueous bases and thus do not form salts (such as CO or NO).",
+      "explanation_vi": "Loại oxide không tác dụng với cả dung dịch acid lẫn dung dịch base nên không tạo muối (như CO, NO).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 10 (Mục II.4): Nhóm thứ tư khi phân loại oxide theo tính chất hoá học, bên cạnh oxide acid, oxide base và oxide lưỡng tính.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 10"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "I",
+          "printed_pages": [
+            44
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục II.1), tr. 46",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "II.1",
+          "printed_pages": [
+            46
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục II.2), tr. 46",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "II.2",
+          "printed_pages": [
+            46
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-neutralization-reaction",
+      "term_en": "neutralization reaction",
+      "term_vi": "Phản ứng trung hoà",
+      "term_vi_display": "Phản ứng trung hoà",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A chemical reaction between a base and an acid that produces a salt and water, such as the reaction of Ca(OH)₂ with H₂SO₄ to form CaSO₄ and H₂O.",
+      "explanation_vi": "Phản ứng hoá học giữa base và acid tạo thành sản phẩm là muối và nước, ví dụ phản ứng giữa Ca(OH)₂ và H₂SO₄ tạo ra CaSO₄ và H₂O.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 9 (Mục II): Giải thích tính chất hoá học chung của base và các ứng dụng thực tế như khử chua đất hoặc bôi vôi vào vết ong, kiến đốt.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục II), tr. 41",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "II",
+          "printed_pages": [
+            41
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "vat-li-neutron",
       "term_en": "neutron",
       "term_vi": "Neutron",
@@ -23859,6 +25636,64 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-nitrogen-fertilizer",
+      "term_en": "nitrogen fertilizer",
+      "term_vi": "Phân đạm",
+      "term_vi_display": "Phân đạm",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A water-soluble chemical fertilizer that supplies nitrogen to crops in the form of nitrate salts (such as NaNO₃, Ca(NO₃)₂, or NH₄NO₃) or urea ((NH₂)₂CO). Nitrogen fertilizer promotes vigorous plant growth and the development of stems, roots, and leaves.",
+      "explanation_vi": "Loại phân bón hoá học dễ tan trong nước dùng để cung cấp nguyên tố nitrogen cho cây trồng dưới dạng muối nitrate (như NaNO₃, Ca(NO₃)₂, NH₄NO₃) hoặc urea ((NH₂)₂CO). Phân đạm thúc đẩy mạnh quá trình sinh trưởng, giúp cây phát triển thân, rễ và lá.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 12 (Mục II.1): Tìm hiểu thành phần hoá học, tính tan và vai trò sinh lí của nhóm phân bón đơn cung cấp nitrogen.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 12"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 54",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            54
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục II.1), tr. 54",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "II.1",
+          "printed_pages": [
+            54
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục II.2), tr. 54",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "II.2",
+          "printed_pages": [
+            54
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-nitrogen-oxides",
       "term_en": "nitrogen oxides",
       "term_vi": "Các oxide của nitrogen",
@@ -24215,6 +26050,65 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-non-metal-oxide",
+      "term_en": "non-metal oxide",
+      "term_vi": "Oxide phi kim",
+      "term_vi_display": "Oxide phi kim",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A binary compound consisting of a non-metal element and oxygen, which can be formed from the reaction of a non-metal with oxygen (such as CO₂, SO₃, or P₂O₅).",
+      "explanation_vi": "Hợp chất của hai nguyên tố gồm một nguyên tố phi kim và oxygen, có thể tạo thành từ phản ứng giữa phi kim với oxygen (như CO₂, SO₃, P₂O₅).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 10 (Mục I): Phân loại oxide theo thành phần nguyên tố, đối lập với oxide kim loại và gọi tên kèm tiền tố chỉ số nguyên tử.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 10"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10, tr. 44",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": null,
+          "printed_pages": [
+            44
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "I",
+          "printed_pages": [
+            44
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44, 45",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "I",
+          "printed_pages": [
+            44,
+            45
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-non-metallic-character",
       "term_en": "non-metallic character",
       "term_vi": "Tính phi kim",
@@ -24389,6 +26283,66 @@
           "section": "III.1",
           "printed_pages": [
             30
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-npk-fertilizer",
+      "term_en": "NPK fertilizer",
+      "term_vi": "Phân NPK",
+      "term_vi_display": "Phân NPK (phân bón hỗn hợp)",
+      "aliases_vi": [
+        "phân bón hỗn hợp"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A compound mixed fertilizer simultaneously containing all three primary macronutrients—nitrogen (N), phosphorus (P), and potassium (K)—sometimes supplemented with secondary nutrients (Ca, Mg) and micronutrients (Zn, Cu).",
+      "explanation_vi": "Loại phân bón hỗn hợp chứa đồng thời cả ba thành phần dinh dưỡng đa lượng gồm đạm (nitrogen), lân (phosphorus) và kali (potassium), đôi khi được bổ sung thêm nguyên tố trung lượng (Ca, Mg) và vi lượng (Zn, Cu).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 12 (Mục II.4): Phân biệt phân bón hỗn hợp đa dinh dưỡng với các loại phân bón đơn (chỉ chứa đạm, lân hoặc kali).",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 12"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 54",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            54
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục II.1), tr. 54",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "II.1",
+          "printed_pages": [
+            54
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục II.2), tr. 54",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "II.2",
+          "printed_pages": [
+            54
           ]
         }
       ],
@@ -25156,6 +27110,42 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-oral-rehydration-solution",
+      "term_en": "oral rehydration solution",
+      "term_vi": "Oresol",
+      "term_vi_display": "Oresol",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A medical formulation used to prepare an aqueous solution for fluid and electrolyte replacement in the body, containing key solutes such as sodium chloride, sodium bicarbonate, potassium chloride, and glucose at specified molar concentrations.",
+      "explanation_vi": "Chế phẩm tạo dung dịch y tế dùng để bù nước và điện giải cho cơ thể, chứa các chất tan chính gồm sodium chloride, sodium bicarbonate, potassium chloride và glucose pha theo nồng độ mol xác định.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 4 (Mục IV): Ví dụ thực tiễn về vai trò pha đúng nồng độ mol các chất tan trong dung dịch chăm sóc sức khoẻ.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục IV), tr. 23",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "IV",
+          "printed_pages": [
+            23
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-orbital-box",
       "term_en": "orbital box",
       "term_vi": "Ô orbital",
@@ -25496,6 +27486,45 @@
           "section": "I.2",
           "printed_pages": [
             34
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-organic-fertilizer",
+      "term_en": "organic fertilizer",
+      "term_vi": "Phân bón hữu cơ",
+      "term_vi_display": "Phân bón hữu cơ (phân hữu cơ)",
+      "aliases_vi": [
+        "phân hữu cơ"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A fertilizer produced from the decomposition of organic waste (such as plant residues composted with microbial inoculants) that is rich in nutrients, improves soil friability, facilitates plant absorption, and is safe to use.",
+      "explanation_vi": "Loại phân bón thu được từ quá trình phân huỷ các chất thải hữu cơ (như phụ phẩm thực vật ủ với chế phẩm vi sinh), giàu chất dinh dưỡng, giúp đất tơi xốp, cây dễ hấp thụ và an toàn khi sử dụng.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 12 (Mục III): Giải pháp thay thế một phần phân bón hoá học và thực hành ủ rác thải hữu cơ thực vật với chế phẩm vi sinh.",
+          "disciplines": [
+            "Hóa học",
+            "Sinh học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 12"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục III), tr. 55",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "III",
+          "printed_pages": [
+            55
           ]
         }
       ],
@@ -25947,6 +27976,54 @@
           "section": "II.2",
           "printed_pages": [
             74
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-oxide",
+      "term_en": "oxide",
+      "term_vi": "Oxide",
+      "term_vi_display": "Oxide",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A binary chemical compound composed of two elements, one of which is oxygen. Oxides can be classified by elemental composition (metal oxides and nonmetal oxides) or by chemical behavior (acidic, basic, amphoteric, and neutral oxides).",
+      "explanation_vi": "Hợp chất hoá học tạo bởi hai nguyên tố, trong đó có một nguyên tố là oxygen. Oxide có thể phân loại theo thành phần nguyên tố (oxide kim loại, oxide phi kim) hoặc theo tính chất hoá học (oxide acid, oxide base, oxide lưỡng tính, oxide trung tính).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 10 (Mục I): Nhận diện công thức hoá học và phân loại hợp chất hai nguyên tố chứa oxygen.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 10"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "I",
+          "printed_pages": [
+            44
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B10 (Mục I), tr. 44, 45",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B10",
+          "section": "I",
+          "printed_pages": [
+            44,
+            45
           ]
         }
       ],
@@ -26630,6 +28707,66 @@
         }
       ],
       "markdown_file": "Tu-dien-Sinh-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-percent-yield",
+      "term_en": "percent yield",
+      "term_vi": "Hiệu suất của phản ứng",
+      "term_vi_display": "Hiệu suất của phản ứng (hiệu suất phản ứng)",
+      "aliases_vi": [
+        "hiệu suất phản ứng"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A quantity (symbol $H$) evaluating the actual conversion efficiency of a chemical reaction, defined as the percentage ratio of the actual product amount ($m'$ or $n'$) to the theoretical product amount ($m$ or $n$) via $H = \\frac{m'}{m} \\times 100\\% = \\frac{n'}{n} \\times 100\\%$. When a reaction goes to completion without loss, the yield reaches $H = 100\\%$.",
+      "explanation_vi": "Đại lượng (kí hiệu $H$) đánh giá mức độ chuyển hoá thực tế của phản ứng hoá học, bằng tỉ số phần trăm giữa lượng sản phẩm thu được theo thực tế ($m'$ hoặc $n'$) và lượng sản phẩm tính theo lí thuyết ($m$ hoặc $n$) qua công thức $H = \\frac{m'}{m} \\cdot 100\\% = \\frac{n'}{n} \\cdot 100\\%$. Khi phản ứng xảy ra hoàn toàn và không thất thoát, hiệu suất đạt $H = 100\\%$.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 6 (Mục II): Tính hiệu suất phản ứng hoặc tính lượng nguyên liệu cần dùng và lượng sản phẩm thực tế thu được.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 6"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B6 (Mục II.1), tr. 29",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B6",
+          "section": "II.1",
+          "printed_pages": [
+            29
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B6 (Mục II.2), tr. 29",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B6",
+          "section": "II.2",
+          "printed_pages": [
+            29
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            195
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
       "id": "vat-li-period",
@@ -27535,17 +29672,74 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-ph-meter",
+      "term_en": "pH meter",
+      "term_vi": "Thiết bị đo pH",
+      "term_vi_display": "Thiết bị đo pH (máy đo pH; bút đo pH)",
+      "aliases_vi": [
+        "máy đo pH",
+        "bút đo pH"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A specialized laboratory and practical instrument (including benchtop pH meters and pH pens) used to directly determine the pH value of a solution with high accuracy. When the electrode of the device is immersed in the test solution, the pH value is displayed directly on the screen.",
+      "explanation_vi": "Dụng cụ chuyên dụng trong phòng thí nghiệm và thực tiễn (gồm máy đo pH, bút đo pH) dùng để xác định trực tiếp giá trị pH của dung dịch với độ chính xác cao. Khi nhúng điện cực của thiết bị vào dung dịch cần đo, giá trị pH sẽ hiển thị trực tiếp trên màn hình.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 1 (Mục III.1) và Bài 9 (Mục III): Sử dụng điện cực để đo độ acid – base của dung dịch khi cần độ chính xác cao hơn giấy pH.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 1"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.1), tr. 8",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B1",
+          "section": "III.1",
+          "printed_pages": [
+            8
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục III), tr. 42",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "III",
+          "printed_pages": [
+            42
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-ph-scale",
       "term_en": "pH scale",
       "term_vi": "Thang đo pH",
-      "term_vi_display": "Thang đo pH (độ pH)",
+      "term_vi_display": "Thang đo pH (độ pH; Thang pH)",
       "aliases_vi": [
-        "độ pH"
+        "độ pH",
+        "Thang pH"
       ],
       "origin_discipline": "Hóa học",
       "explanation_en": "A logarithmic scale measuring the acidity or basicity of a solution via the formula $\\text{pH} = -\\log[\\text{H}^+]$, where $[\\text{H}^+]$ is the hydrogen ion concentration in moles per liter ($\\text{M}$). A solution with $\\text{pH} = 7$ is neutral, $\\text{pH} < 7$ is acidic, and $\\text{pH} > 7$ is basic.",
       "explanation_vi": "Thang đo lôgarit đánh giá tính acid hoặc base của dung dịch theo công thức $\\text{pH} = -\\log[\\text{H}^+]$, trong đó $[\\text{H}^+]$ là nồng độ ion hydrogen tính bằng mol/lít ($\\text{M}$). Dung dịch có $\\text{pH} = 7$ mang tính trung tính, $\\text{pH} < 7$ có tính acid và $\\text{pH} > 7$ có tính base.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 8",
+          "explanation_en": "A numerical scale ranging from $1$ to $14$ used to evaluate the acidity or basicity of aqueous solutions and compare the relative strengths of equimolar acids or bases. On this scale, neutral solutions have $\\text{pH} = 7$, acidic solutions have $\\text{pH} < 7$, and alkaline solutions have $\\text{pH} > 7$.",
+          "explanation_vi": "Tập hợp các giá trị số từ $1$ đến $14$ dùng để đánh giá độ acid – base và so sánh độ mạnh của các dung dịch acid hoặc base cùng nồng độ. Trên thang này, dung dịch trung tính có $\\text{pH} = 7$, dung dịch acid có $\\text{pH} < 7$ và dung dịch kiềm có $\\text{pH} > 7$."
+        }
+      ],
       "contexts": [
         {
           "raw": "Toán học lớp 11, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 2a): Ứng dụng lôgarit thập phân để tính độ pH và nồng độ ion hydrogen trong dung dịch.",
@@ -27554,6 +29748,14 @@
           ],
           "grade": 11,
           "lesson_ref": null
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 9 (Mục III): Đánh giá môi trường dung dịch trong phòng thí nghiệm, đất trồng, nguồn nước và dịch cơ thể.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 9"
         }
       ],
       "disambiguation_notes": [],
@@ -27589,6 +29791,29 @@
           "section": null,
           "printed_pages": [
             100
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục III), tr. 42",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "III",
+          "printed_pages": [
+            42
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục III), tr. 42, 43",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "III",
+          "printed_pages": [
+            42,
+            43
           ]
         }
       ],
@@ -27781,6 +30006,125 @@
         }
       ],
       "markdown_file": "Tu-dien-Sinh-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-phosphate-fertilizer",
+      "term_en": "phosphate fertilizer",
+      "term_vi": "Phân lân",
+      "term_vi_display": "Phân lân",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A chemical fertilizer that supplies phosphorus to crops, commonly used as fused calcium magnesium phosphate (Ca₃(PO₄)₂), single superphosphate (Ca(H₂PO₄)₂ and CaSO₄), or triple superphosphate (Ca(H₂PO₄)₂). Phosphate fertilizer stimulates root development, flowering, and fruiting, and is selected according to soil acidity.",
+      "explanation_vi": "Loại phân bón hoá học cung cấp nguyên tố phosphorus cho cây trồng, thường gặp dưới dạng phân lân nung chảy (Ca₃(PO₄)₂), superphosphate đơn (Ca(H₂PO₄)₂ và CaSO₄) hoặc superphosphate kép (Ca(H₂PO₄)₂). Phân lân kích thích sự phát triển của bộ rễ, quá trình nở hoa và đậu quả, được lựa chọn tuỳ theo độ chua của đất.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 12 (Mục II.2): Phân biệt độ tan của các loại phân lân để dùng bón lót hoặc bón thúc phù hợp với từng loại đất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 12"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 54",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            54
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục II.1), tr. 54",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "II.1",
+          "printed_pages": [
+            54
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục II.2), tr. 54",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "II.2",
+          "printed_pages": [
+            54
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-physical-change",
+      "term_en": "physical change",
+      "term_vi": "Biến đổi vật lí",
+      "term_vi_display": "Biến đổi vật lí",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A transformation of matter in which a substance only changes its physical state or form (such as dissolving, melting, freezing, or condensing) without forming any new chemical substance.",
+      "explanation_vi": "Quá trình biến đổi của chất trong đó chất chỉ chuyển đổi giữa các trạng thái hoặc hình dạng (như hoà tan, nóng chảy, đông đặc, ngưng tụ) mà không có sự tạo thành chất mới.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 2 (Mục I): Phân biệt quá trình chuyển thể, hoà tan không sinh ra chất mới với biến đổi hoá học.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 2"
+        }
+      ],
+      "disambiguation_notes": [
+        "Phân biệt với biến đổi hoá học là quá trình biến đổi chất có sự tạo thành chất mới."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục I), tr. 11",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "I",
+          "printed_pages": [
+            11
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục I), tr. 11, 12",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "I",
+          "printed_pages": [
+            11,
+            12
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            195
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
       "id": "hoa-hoc-physical-properties-and-natural-occurrence-of-arenes",
@@ -29277,6 +31621,64 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-potassium-fertilizer",
+      "term_en": "potassium fertilizer",
+      "term_vi": "Phân kali",
+      "term_vi_display": "Phân kali",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A fertilizer that supplies potassium to crops, typically containing KCl or K₂SO₄ salts as its main component (also found in plant ash and bat guano). Potassium fertilizer enhances water and nutrient absorption by roots, strengthens plant tissues, and improves cold tolerance.",
+      "explanation_vi": "Loại phân bón cung cấp nguyên tố potassium (kali) cho cây trồng, thường chứa thành phần chính là muối KCl hoặc K₂SO₄ (cũng có trong tro thực vật và phân dơi). Phân kali giúp rễ tăng hấp thụ nước và dinh dưỡng, làm cây cứng cáp và tăng khả năng chịu lạnh.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 12 (Mục II.3): Tìm hiểu thành phần hoá học và tác dụng sinh lí của nhóm phân bón đơn cung cấp potassium.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 12"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục I), tr. 54",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "I",
+          "printed_pages": [
+            54
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục II.1), tr. 54",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "II.1",
+          "printed_pages": [
+            54
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B12 (Mục II.2), tr. 54",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B12",
+          "section": "II.2",
+          "printed_pages": [
+            54
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-preparation-of-alcohols",
       "term_en": "preparation of alcohols",
       "term_vi": "Điều chế alcohol",
@@ -29586,6 +31988,59 @@
           "section": "I",
           "printed_pages": [
             60
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-product-chemistry",
+      "term_en": "product (chemistry)",
+      "term_vi": "Sản phẩm",
+      "term_vi_display": "Sản phẩm (chất sản phẩm)",
+      "aliases_vi": [
+        "chất sản phẩm"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A new substance formed after the breaking and making of chemical bonds in a chemical reaction, increasing in amount as the reaction progresses.",
+      "explanation_vi": "Chất mới được tạo thành sau quá trình phá vỡ và hình thành liên kết hoá học trong một phản ứng hoá học, có lượng tăng dần theo thời gian phản ứng diễn ra.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 2 (Mục II.1): Xác định các chất mới ghi ở bên phải mũi tên của phương trình phản ứng hoá học.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 2"
+        }
+      ],
+      "disambiguation_notes": [
+        "Chỉ chất mới sinh ra từ phản ứng hoá học; phân biệt với chất phản ứng (chất tham gia) hoặc khái niệm sản phẩm trong kinh tế.",
+        "Không nhầm với 'Tích' (`product`) trong Toán học."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục II.1), tr. 12",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II.1",
+          "printed_pages": [
+            12
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục II.1), tr. 12, 13",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II.1",
+          "printed_pages": [
+            12,
+            13
           ]
         }
       ],
@@ -30525,6 +32980,57 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-reactant",
+      "term_en": "reactant",
+      "term_vi": "Chất phản ứng",
+      "term_vi_display": "Chất phản ứng (chất tham gia; chất đầu)",
+      "aliases_vi": [
+        "chất tham gia",
+        "chất đầu"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "An initial substance that undergoes transformation during a chemical reaction, decreasing in amount as the reaction proceeds. A reaction goes to completion when at least one reactant is completely consumed.",
+      "explanation_vi": "Chất ban đầu bị biến đổi trong quá trình phản ứng hoá học, có lượng giảm dần khi phản ứng diễn ra. Phản ứng xảy ra hoàn toàn khi có ít nhất một chất phản ứng đã tác dụng hết.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 2 (Mục II.1): Xác định các chất đứng trước mũi tên trong phương trình phản ứng, phân biệt với chất sản phẩm.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 2"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục II.1), tr. 12",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II.1",
+          "printed_pages": [
+            12
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục II.1), tr. 12, 13",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II.1",
+          "printed_pages": [
+            12,
+            13
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-reaction-of-polyalcohols-with-copper-ii-hydroxide",
       "term_en": "reaction of polyalcohols with copper(II) hydroxide",
       "term_vi": "Phản ứng riêng của polyalcohol với Cu(OH)₂",
@@ -30654,7 +33160,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A quantity characterizing how fast or slow a chemical reaction proceeds, defined as the change in the amount of a reactant or product per unit of time (second, minute, hour, day, etc.). The amount of substance may be expressed in moles, molar concentration, mass, or volume.",
       "explanation_vi": "Đại lượng đặc trưng cho sự nhanh chậm của một phản ứng hoá học, xác định bằng độ biến thiên lượng chất đầu hoặc chất sản phẩm trong một đơn vị thời gian (giây, phút, giờ, ngày,...). Lượng chất có thể được biểu diễn bằng số mol, nồng độ mol, khối lượng hoặc thể tích.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 8",
+          "explanation_en": "A quantity characterizing how fast or slow a chemical reaction proceeds. Reaction rate depends on factors such as reactant concentration, temperature, contact surface area, and the presence of a catalyst.",
+          "explanation_vi": "Đại lượng đặc trưng cho sự diễn ra nhanh hay chậm của một phản ứng hoá học. Tốc độ phản ứng phụ thuộc vào các yếu tố như nồng độ, nhiệt độ, diện tích bề mặt tiếp xúc của chất tham gia và sự có mặt của chất xúc tác."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 19 (Mục I.1): Đánh giá mức độ nhanh chậm của phản ứng hoá học và khảo sát sự phụ thuộc vào nồng độ, áp suất, nhiệt độ, diện tích bề mặt tiếp xúc và chất xúc tác.",
@@ -30663,6 +33175,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 19"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 7 (Mục I, II): So sánh mức độ nhanh chậm giữa các phản ứng (như đốt cháy nhiên liệu và gỉ sắt) và điều khiển tốc độ phản ứng trong đời sống.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 7"
         }
       ],
       "disambiguation_notes": [],
@@ -30699,6 +33219,91 @@
           "printed_pages": [
             92,
             93
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B7 (Mục I), tr. 31",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B7",
+          "section": "I",
+          "printed_pages": [
+            31
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B7 (Mục I), tr. 31, 32",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B7",
+          "section": "I",
+          "printed_pages": [
+            31,
+            32
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            196
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-reaction-scheme",
+      "term_en": "reaction scheme",
+      "term_vi": "Sơ đồ của phản ứng",
+      "term_vi_display": "Sơ đồ của phản ứng (sơ đồ phản ứng hoá học)",
+      "aliases_vi": [
+        "sơ đồ phản ứng hoá học"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A symbolic chemical expression obtained by replacing substance names in a word equation with their chemical formulas, connected by a dashed arrow prior to balancing atomic coefficients.",
+      "explanation_vi": "Biểu thức hoá học thu được khi thay tên các chất trong phương trình dạng chữ bằng công thức hoá học tương ứng và nối hai vế bằng mũi tên nét đứt khi chưa cân bằng hệ số nguyên tử.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 5 (Mục II.1): Bước trung gian đầu tiên trước khi đặt hệ số cân bằng để lập phương trình hoá học hoàn chỉnh.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 5"
+        }
+      ],
+      "disambiguation_notes": [
+        "Phân biệt với phương trình hoá học là biểu thức đã được cân bằng tổng số nguyên tử của mỗi nguyên tố ở hai vế và dùng mũi tên nét liền."
+      ],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B5 (Mục II.1), tr. 25",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B5",
+          "section": "II.1",
+          "printed_pages": [
+            25
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B5 (Mục II.1), tr. 26",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B5",
+          "section": "II.1",
+          "printed_pages": [
+            26
           ]
         }
       ],
@@ -31123,6 +33728,44 @@
           "printed_pages": [
             19,
             20
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-relative-density-of-gases",
+      "term_en": "relative density of gases",
+      "term_vi": "Tỉ khối của chất khí",
+      "term_vi_display": "Tỉ khối của chất khí (tỉ khối)",
+      "aliases_vi": [
+        "tỉ khối"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A dimensionless quantity indicating how many times heavier or lighter gas A is compared to gas B under identical conditions, defined by the molar mass ratio $d_{\\text{A/B}} = \\frac{M_{\\text{A}}}{M_{\\text{B}}}$. Relative to air ($M_{\\text{air}} \\approx 29\\text{ g/mol}$), it is calculated as $d_{\\text{A/air}} = \\frac{M_{\\text{A}}}{29}$.",
+      "explanation_vi": "Đại lượng không thứ nguyên cho biết khí A nặng hay nhẹ hơn khí B bao nhiêu lần ở cùng điều kiện, xác định bằng tỉ số khối lượng mol $d_{\\text{A/B}} = \\frac{M_{\\text{A}}}{M_{\\text{B}}}$. Khi so sánh với không khí ($M_{\\text{kk}} \\approx 29\\text{ g/mol}$), tỉ khối được tính theo công thức $d_{\\text{A/kk}} = \\frac{M_{\\text{A}}}{29}$.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 3 (Mục II): So sánh khối lượng mol các khí để giải thích sự tích tụ khí trong tự nhiên và chọn cách thu khí trong phòng thí nghiệm.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 3"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B3 (Mục II), tr. 18",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B3",
+          "section": "II",
+          "printed_pages": [
+            18
           ]
         }
       ],
@@ -31775,6 +34418,65 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-salt",
+      "term_en": "salt",
+      "term_vi": "Muối",
+      "term_vi_display": "Muối",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A chemical compound formed when the H⁺ ions of an acid are replaced by metal ions or ammonium ions (NH₄⁺), consisting of metal (or NH₄⁺) cations combined with acid-radical anions. Aqueous salt solutions can react with metals, acids, bases, or other salts when reaction conditions are met.",
+      "explanation_vi": "Hợp chất hoá học hình thành khi thay thế ion H⁺ của phân tử acid bằng ion kim loại hoặc ion ammonium (NH₄⁺), gồm cation kim loại (hoặc NH₄⁺) liên kết với anion gốc acid. Dung dịch muối có thể phản ứng với kim loại, acid, base hoặc muối khác khi thoả mãn điều kiện phản ứng.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 11 (Mục I, III): Gọi tên muối theo tên kim loại kèm hoá trị (nếu nhiều hoá trị) ghép với tên gốc acid và xét tính chất hoá học của muối.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 11"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B11, tr. 48",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": null,
+          "printed_pages": [
+            48
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B11 (Mục I), tr. 48",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "I",
+          "printed_pages": [
+            48
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B11 (Mục I), tr. 48, 49",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "I",
+          "printed_pages": [
+            48,
+            49
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-salt-bridge",
       "term_en": "salt bridge",
       "term_vi": "Cầu muối",
@@ -32140,6 +34842,53 @@
           "printed_pages": [
             119,
             120
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-saturated-solution",
+      "term_en": "saturated solution",
+      "term_vi": "Dung dịch bão hoà",
+      "term_vi_display": "Dung dịch bão hoà",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A solution that cannot dissolve any further amount of the given solute at a specified temperature and pressure.",
+      "explanation_vi": "Dung dịch không thể hoà tan thêm chất tan đang xét ở một điều kiện nhiệt độ và áp suất nhất định.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 4 (Mục I, II): Trạng thái giới hạn hoà tan dùng làm chuẩn để xác định độ tan của một chất trong nước.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục I), tr. 20",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "I",
+          "printed_pages": [
+            20
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục II), tr. 21",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "II",
+          "printed_pages": [
+            21
           ]
         }
       ],
@@ -32938,6 +35687,64 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "sinh-hoc-skeleton",
+      "term_en": "skeleton",
+      "term_vi": "Bộ xương",
+      "term_vi_display": "Bộ xương",
+      "aliases_vi": [],
+      "origin_discipline": "Sinh học",
+      "explanation_en": "The supporting framework of the body consisting of approximately 206 bones in an adult human, divided into skull bones, trunk bones, and limb bones. Bones are composed of minerals for rigidity and organic matter for flexibility, maintaining body shape and protecting internal structures.",
+      "explanation_vi": "Khung nâng đỡ của cơ thể gồm khoảng 206 xương ở người trưởng thành, chia thành ba phần là xương đầu, xương thân và xương chi. Xương cấu tạo từ chất khoáng tạo độ bền chắc và chất hữu cơ tạo tính mềm dẻo, giúp định hình và bảo vệ cơ thể.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 31 (Mục I.1, I.2): phân loại các phần của bộ xương và giải thích vai trò của thành phần hoá học trong xương.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 31"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31, tr. 125",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 07",
+          "lesson": "B31",
+          "section": null,
+          "printed_pages": [
+            125
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31 (Mục I.1), tr. 125",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 07",
+          "lesson": "B31",
+          "section": "I.1",
+          "printed_pages": [
+            125
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 07, B31 (Mục I.2), tr. 125",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 07",
+          "lesson": "B31",
+          "section": "I.2",
+          "printed_pages": [
+            125
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Sinh-hoc.md"
+    },
+    {
       "id": "hoa-hoc-slaked-lime",
       "term_en": "slaked lime",
       "term_vi": "Vôi",
@@ -33238,6 +36045,122 @@
       "markdown_file": "Tu-dien-Vat-li.md"
     },
     {
+      "id": "hoa-hoc-solubility",
+      "term_en": "solubility",
+      "term_vi": "Độ tan",
+      "term_vi_display": "Độ tan",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A quantity characterizing the dissolving capacity of a substance in water (symbol $S$), defined as the maximum mass in grams of solute that dissolves in $100\\text{ g}$ of water to form a saturated solution at a given temperature and pressure via $S = \\frac{m_{\\text{solute}}}{m_{\\text{water}}} \\times 100$ (in $\\text{g/100 g}$ water). The solubility of most solids increases with temperature, whereas that of gases decreases as temperature rises or pressure drops.",
+      "explanation_vi": "Đại lượng đặc trưng cho khả năng tan của một chất trong nước (kí hiệu $S$), bằng số gam chất đó hoà tan tối đa trong $100\\text{ g}$ nước để tạo thành dung dịch bão hoà ở nhiệt độ và áp suất xác định theo công thức $S = \\frac{m_{\\text{ct}}}{m_{\\text{nước}}} \\cdot 100$ (đơn vị $\\text{g/100 g}$ nước). Độ tan của phần lớn chất rắn tăng khi nhiệt độ tăng, còn độ tan của chất khí giảm khi nhiệt độ tăng hoặc áp suất giảm.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 4 (Mục II): Đánh giá mức độ tan tốt hay ít tan của các chất và giải thích sự thay đổi khả năng hoà tan theo nhiệt độ, áp suất.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục II), tr. 21",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "II",
+          "printed_pages": [
+            21
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục IV), tr. 23",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "IV",
+          "printed_pages": [
+            23
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": null,
+          "lesson": "Bảng giải thích thuật ngữ",
+          "section": null,
+          "printed_pages": [
+            195
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-solubility-table",
+      "term_en": "solubility table",
+      "term_vi": "Bảng tính tan",
+      "term_vi_display": "Bảng tính tan",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A reference chart indicating the water solubility of compounds (bases and salts) using standard symbols: soluble (t), slightly soluble (i, solubility $< 1\\text{ g/100 g}$ water), insoluble (k, solubility $< 0.01\\text{ g/100 g}$ water), and non-existent or decomposed by water (–).",
+      "explanation_vi": "Bảng tra cứu khả năng tan trong nước của các hợp chất (base, muối) thông qua các kí hiệu chuẩn: t (dễ tan), i (ít tan, độ tan $< 1\\text{ g/100 g}$ nước), k (không tan, độ tan $< 0{,}01\\text{ g/100 g}$ nước) và (–) (không tồn tại hoặc bị nước phân huỷ).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 11 (Mục II): Tra cứu tính tan của base và muối trong nước để xác định điều kiện tạo kết tủa của phản ứng trao đổi.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 11"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B11 (Mục I), tr. 49",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "I",
+          "printed_pages": [
+            49
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B11 (Mục II), tr. 49",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B11",
+          "section": "II",
+          "printed_pages": [
+            49
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục I), tr. 40",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "I",
+          "printed_pages": [
+            40
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-solute",
       "term_en": "solute",
       "term_vi": "Chất tan",
@@ -33246,7 +36169,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A solid, liquid, or gaseous substance that dissolves and distributes uniformly within a solvent to form a solution.",
       "explanation_vi": "Chất ở thể rắn, thể lỏng hoặc thể khí bị hoà tan và phân bố đồng đều trong dung môi để tạo thành dung dịch.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 8",
+          "explanation_en": "A substance dissolved in a solvent to form a homogeneous solution; prior to dissolution, a solute may exist in the solid, liquid, or gaseous state.",
+          "explanation_vi": "Chất bị hoà tan trong dung môi để tạo thành dung dịch đồng nhất; chất tan có thể tồn tại ban đầu ở thể rắn, thể lỏng hoặc thể khí."
+        }
+      ],
       "contexts": [
         {
           "raw": "Khoa học tự nhiên lớp 6, Bài 16 (Mục II, IV.1): Thành phần bị hoà tan trong dung dịch như đường, muối ăn, cồn hoặc khí carbon dioxide.",
@@ -33255,6 +36184,14 @@
           ],
           "grade": 6,
           "lesson_ref": "Bài 16"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 4 (Mục I): Xác định lượng chất bị hoà tan làm cơ sở tính độ tan, nồng độ phần trăm và nồng độ mol.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 4"
         }
       ],
       "disambiguation_notes": [],
@@ -33291,6 +36228,17 @@
           "printed_pages": [
             58
           ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục I), tr. 20",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "I",
+          "printed_pages": [
+            20
+          ]
         }
       ],
       "markdown_file": "Tu-dien-Hoa-hoc.md"
@@ -33304,7 +36252,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A homogeneous mixture of a solvent and one or more solutes, typically transparent because microscopic solute particles are uniformly dispersed throughout the solvent.",
       "explanation_vi": "Hỗn hợp đồng nhất của dung môi và chất tan, thường ở trạng thái trong suốt do các hạt chất tan vô cùng nhỏ phân bố đều trong dung môi.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 8",
+          "explanation_en": "A homogeneous mixture formed when a solute is uniformly dispersed throughout a solvent, having a total mass equal to the sum of the masses of the solute and solvent.",
+          "explanation_vi": "Hỗn hợp đồng nhất được tạo thành khi chất tan phân bố đều trong dung môi, có khối lượng bằng tổng khối lượng của chất tan và dung môi."
+        }
+      ],
       "contexts": [
         {
           "raw": "Khoa học tự nhiên lớp 6, Bài 16 (Mục II): Dạng hỗn hợp đồng nhất tiêu biểu trong thực tiễn như nước muối, giấm ăn, nước ngọt có gas.",
@@ -33313,9 +36267,19 @@
           ],
           "grade": 6,
           "lesson_ref": "Bài 16"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 4 (Mục I): Nhận biết hỗn hợp đồng nhất trong suốt để phân biệt với hỗn hợp không đồng nhất khi khuấy chất rắn vào nước.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 4"
         }
       ],
-      "disambiguation_notes": [],
+      "disambiguation_notes": [
+        "Chỉ hỗn hợp đồng nhất trong hoá học; phân biệt với huyền phù, nhũ tương (hỗn hợp không đồng nhất) hoặc nghiệm trong toán học."
+      ],
       "sources": [
         {
           "raw": "SGK Khoa học tự nhiên 6 KNTT, Chương 04, B16 (Mục II), tr. 56",
@@ -33348,6 +36312,77 @@
           "section": "III",
           "printed_pages": [
             57
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục I), tr. 20",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "I",
+          "printed_pages": [
+            20
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục IV), tr. 23",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "IV",
+          "printed_pages": [
+            23
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-solution-concentration",
+      "term_en": "solution concentration",
+      "term_vi": "Nồng độ dung dịch",
+      "term_vi_display": "Nồng độ dung dịch (nồng độ)",
+      "aliases_vi": [
+        "nồng độ"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A quantitative measure indicating how concentrated or dilute a solution is based on the amount of solute contained in a specified quantity of solution, most commonly expressed as mass percent concentration ($C\\%$) and molar concentration ($C_{\\text{M}}$).",
+      "explanation_vi": "Đại lượng định lượng cho biết mức độ đặc hay loãng của một dung dịch dựa trên lượng chất tan có trong một lượng dung dịch xác định, phổ biến nhất gồm nồng độ phần trăm ($C\\%$) và nồng độ mol ($C_{\\text{M}}$).",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 4 (Mục III): Khái niệm chung dùng trong tính toán và pha chế dung dịch theo độ đặc loãng yêu cầu.",
+          "disciplines": [
+            "Toán học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4, tr. 20",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": null,
+          "printed_pages": [
+            20
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục III), tr. 21",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "III",
+          "printed_pages": [
+            21
           ]
         }
       ],
@@ -33421,7 +36456,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "A substance that acts as the dissolving medium for solutes to form a homogeneous solution.",
       "explanation_vi": "Chất đóng vai trò môi trường hoà tan các chất tan để tạo thành hỗn hợp đồng nhất là dung dịch.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 8",
+          "explanation_en": "The component of a solution capable of dissolving another substance (the solute) to form a homogeneous mixture; in everyday life and school laboratories, the most common solvent is liquid water.",
+          "explanation_vi": "Thành phần của dung dịch có khả năng hoà tan chất khác (chất tan) để tạo thành hỗn hợp đồng nhất; trong thực tế và phòng thí nghiệm phổ thông, dung môi thường gặp nhất là nước ở thể lỏng."
+        }
+      ],
       "contexts": [
         {
           "raw": "Khoa học tự nhiên lớp 6, Bài 16 (Mục II): Thành phần hoà tan chất tan trong dung dịch, phổ biến nhất là nước trong nước muối, nước đường.",
@@ -33430,6 +36471,14 @@
           ],
           "grade": 6,
           "lesson_ref": "Bài 16"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 4 (Mục I): Xác định thành phần môi trường hoà tan khi pha chế và tính toán nồng độ dung dịch.",
+          "disciplines": [
+            "Toán học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 4"
         }
       ],
       "disambiguation_notes": [],
@@ -33465,6 +36514,17 @@
           "section": "IV.1",
           "printed_pages": [
             58
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục I), tr. 20",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "I",
+          "printed_pages": [
+            20
           ]
         }
       ],
@@ -33682,7 +36742,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "The reference set of conditions in thermochemistry consisting of a pressure of $1\\text{ bar}$ for gases, a concentration of $1\\text{ mol/L}$ for solutes in solution, and a temperature usually chosen as $25\\text{ }^\\circ\\text{C}$ ($298\\text{ K}$).",
       "explanation_vi": "Hệ điều kiện quy chiếu trong nhiệt hoá học gồm áp suất $1\\text{ bar}$ đối với chất khí, nồng độ $1\\text{ mol/L}$ đối với chất tan trong dung dịch và nhiệt độ thường được chọn là $25\\text{ }^\\circ\\text{C}$ ($298\\text{ K}$).",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 8",
+          "explanation_en": "The reference condition of $25\\text{ }^\\circ\\text{C}$ temperature and $1\\text{ bar}$ pressure used for gas measurements and calculations. Under this condition, $1\\text{ mol}$ of any gas occupies a volume of $24.79\\text{ L}$, allowing the amount of gas to be calculated as $n = \\frac{V}{24.79}$.",
+          "explanation_vi": "Điều kiện quy chiếu về nhiệt độ ở $25\\text{ }^\\circ\\text{C}$ và áp suất ở $1\\text{ bar}$ dùng trong các phép đo và tính toán chất khí. Tại điều kiện này, $1\\text{ mol}$ của bất kì chất khí nào cũng chiếm thể tích $24,79\\text{ L}$, cho phép tính số mol khí theo công thức $n = \\frac{V}{24,79}$."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 10, Bài 17 (Mục II.2): Làm mốc điều kiện thống nhất để xác định và so sánh biến thiên enthalpy chuẩn ($\\Delta_r H^0_{298}$) cũng như nhiệt tạo thành chuẩn ($\\Delta_f H^0_{298}$) của các chất.",
@@ -33691,6 +36757,14 @@
           ],
           "grade": 10,
           "lesson_ref": "Bài 17"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 3 (Mục I.3) và Bài 6 (Mục I): Hệ quy chiếu chuẩn trong chương trình GDPT 2018 để tính thể tích chất khí tham gia hoặc tạo thành sau phản ứng.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 3"
         }
       ],
       "disambiguation_notes": [
@@ -33728,6 +36802,28 @@
           "section": "II.3",
           "printed_pages": [
             83
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B3 (Mục I.3), tr. 18",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B3",
+          "section": "I.3",
+          "printed_pages": [
+            18
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B6 (Mục I.2), tr. 29",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B6",
+          "section": "I.2",
+          "printed_pages": [
+            29
           ]
         }
       ],
@@ -35546,7 +38642,13 @@
       "origin_discipline": "Hóa học",
       "explanation_en": "An inorganic compound (H₂SO₄, structural formula HO–SO₂–OH) that under standard conditions is a colorless, oily, nonvolatile, strongly hygroscopic liquid miscible with water in all proportions with intense heat release. Dilute H₂SO₄ exhibits all typical properties of a strong acid, whereas concentrated H₂SO₄ additionally acts as a powerful oxidizing agent (especially when heated) and a strong dehydrating agent that chars carbohydrates.",
       "explanation_vi": "Hợp chất vô cơ (H₂SO₄, cấu tạo HO–SO₂–OH) ở điều kiện thường là chất lỏng sánh như dầu, không màu, khó bay hơi, hút ẩm mạnh, tan vô hạn trong nước và toả rất nhiều nhiệt. Dung dịch H₂SO₄ loãng mang đầy đủ tính chất của một acid mạnh, trong khi dung dịch H₂SO₄ đặc thể hiện thêm tính oxi hoá mạnh (nhất là khi đun nóng) và tính háo nước làm than hoá các hợp chất carbohydrate.",
-      "alt_explanations": [],
+      "alt_explanations": [
+        {
+          "source_label": "SGK Khoa học tự nhiên 8",
+          "explanation_en": "A strong inorganic acid with the chemical formula H₂SO₄ that, in pure form, is a colorless, nonvolatile, oily liquid nearly twice as dense as water, infinitely miscible with water with strong heat evolution. It is a leading industrial chemical widely used to manufacture fertilizers, detergents, paints, plastics, paper, and fibers.",
+          "explanation_vi": "Hợp chất acid vô cơ mạnh có công thức hoá học H₂SO₄, ở dạng nguyên chất là chất lỏng không màu, không bay hơi, sánh như dầu ăn, nặng gần gấp hai lần nước, tan vô hạn trong nước và toả rất nhiều nhiệt. Đây là hoá chất công nghiệp quan trọng hàng đầu dùng sản xuất phân bón, chất tẩy rửa, sơn, chất dẻo, giấy và tơ sợi."
+        }
+      ],
       "contexts": [
         {
           "raw": "Hóa học lớp 11, Bài 8 (Mục I): Phân biệt tính chất hoá học của H₂SO₄ loãng với H₂SO₄ đặc, quy tắc an toàn pha loãng (rót từ từ acid vào nước) và ứng dụng công nghiệp.",
@@ -35554,6 +38656,14 @@
             "Hóa học"
           ],
           "grade": 11,
+          "lesson_ref": "Bài 8"
+        },
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 8 (Mục III.1): Tìm hiểu tính chất vật lí, ứng dụng công nghiệp và quy tắc an toàn không tự ý pha loãng sulfuric acid đặc.",
+          "disciplines": [
+            "Vật lí"
+          ],
+          "grade": 8,
           "lesson_ref": "Bài 8"
         }
       ],
@@ -35590,6 +38700,28 @@
           "section": "I.2",
           "printed_pages": [
             49
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục I), tr. 35",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B8",
+          "section": "I",
+          "printed_pages": [
+            35
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B8 (Mục III.1), tr. 37",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B8",
+          "section": "III.1",
+          "printed_pages": [
+            37
           ]
         }
       ],
@@ -37160,6 +40292,44 @@
       "markdown_file": "Tu-dien-Hoa-hoc.md"
     },
     {
+      "id": "hoa-hoc-universal-indicator",
+      "term_en": "universal indicator",
+      "term_vi": "Chất chỉ thị màu vạn năng",
+      "term_vi_display": "Chất chỉ thị màu vạn năng (giấy pH)",
+      "aliases_vi": [
+        "giấy pH"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A mixture of several dyes prepared in solution form or impregnated into paper strips (pH paper) used to estimate the pH of a solution through distinct color changes corresponding to standard pH intervals.",
+      "explanation_vi": "Hỗn hợp gồm nhiều chất màu chế tạo ở dạng dung dịch hoặc tẩm trên giấy (giấy pH) dùng để xác định gần đúng giá trị pH của dung dịch dựa trên sự biến đổi màu sắc ứng với từng khoảng pH chuẩn.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 9 (Mục III): Thực hành đo nhanh khoảng pH của các dung dịch thông dụng bằng cách đối chiếu với thang màu chuẩn.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 9"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 02, B9 (Mục III), tr. 42",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 02",
+          "lesson": "B9",
+          "section": "III",
+          "printed_pages": [
+            42
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
       "id": "hoa-hoc-unsaturated-fatty-acid",
       "term_en": "unsaturated fatty acid",
       "term_vi": "Acid béo không bão hoà",
@@ -37276,6 +40446,42 @@
           "section": "I.2.b",
           "printed_pages": [
             93
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-unsaturated-solution",
+      "term_en": "unsaturated solution",
+      "term_vi": "Dung dịch chưa bão hoà",
+      "term_vi_display": "Dung dịch chưa bão hoà",
+      "aliases_vi": [],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A solution that remains capable of dissolving additional amounts of the given solute at a specified temperature and pressure.",
+      "explanation_vi": "Dung dịch vẫn còn khả năng hoà tan thêm chất tan đang xét khi giữ nguyên điều kiện nhiệt độ và áp suất xác định.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 4 (Mục I): Phân biệt trạng thái hoà tan của dung dịch trước khi đạt giới hạn bão hoà ở nhiệt độ, áp suất nhất định.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 4"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B4 (Mục I), tr. 20",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B4",
+          "section": "I",
+          "printed_pages": [
+            20
           ]
         }
       ],
@@ -38086,6 +41292,56 @@
           "section": "III.3.a",
           "printed_pages": [
             59
+          ]
+        }
+      ],
+      "markdown_file": "Tu-dien-Hoa-hoc.md"
+    },
+    {
+      "id": "hoa-hoc-word-equation",
+      "term_en": "word equation",
+      "term_vi": "Phương trình dạng chữ",
+      "term_vi_display": "Phương trình dạng chữ (phương trình phản ứng dạng chữ; phương trình chữ)",
+      "aliases_vi": [
+        "phương trình phản ứng dạng chữ",
+        "phương trình chữ"
+      ],
+      "origin_discipline": "Hóa học",
+      "explanation_en": "A representation of a chemical reaction using the names of substances, conventionally placing the names of reactants to the left of a reaction arrow and the names of products to the right.",
+      "explanation_vi": "Cách biểu diễn một phản ứng hoá học bằng tên gọi của các chất theo quy ước viết tên các chất phản ứng ở bên trái mũi tên chỉ chiều biến đổi và tên các chất sản phẩm ở bên phải mũi tên.",
+      "alt_explanations": [],
+      "contexts": [
+        {
+          "raw": "Khoa học tự nhiên lớp 8, Bài 2 (Mục II.1) và Bài 5 (Mục II.1): Mô tả định tính phản ứng hoá học bằng tên chất trước khi chuyển sang sơ đồ phản ứng và phương trình hoá học.",
+          "disciplines": [
+            "Hóa học"
+          ],
+          "grade": 8,
+          "lesson_ref": "Bài 2"
+        }
+      ],
+      "disambiguation_notes": [],
+      "sources": [
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B2 (Mục II.1), tr. 12",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B2",
+          "section": "II.1",
+          "printed_pages": [
+            12
+          ]
+        },
+        {
+          "raw": "SGK Khoa học tự nhiên 8 KNTT, Chương 01, B5 (Mục II.1), tr. 25",
+          "book": "SGK Khoa học tự nhiên 8 KNTT",
+          "unit": "khtn_8",
+          "group": "Chương 01",
+          "lesson": "B5",
+          "section": "II.1",
+          "printed_pages": [
+            25
           ]
         }
       ],

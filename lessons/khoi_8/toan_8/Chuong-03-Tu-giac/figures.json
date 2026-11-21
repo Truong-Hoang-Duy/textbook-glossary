@@ -1,0 +1,250 @@
+{
+  "H8-toan-b10-01": {
+    "pdf_page": 49,
+    "bbox": [324, 600, 560, 755],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 3.1 nằm trên mảng nền trang trí màu vàng ở góc dưới bên phải trang mở đầu Chương III"
+  },
+  "H8-toan-b10-02": {
+    "pdf_page": 50,
+    "bbox": [68, 219, 538, 346]
+  },
+  "H8-toan-b10-03": {
+    "pdf_page": 50,
+    "bbox": [230, 599, 356, 692]
+  },
+  "H8-toan-b10-04": {
+    "pdf_page": 51,
+    "bbox": [140, 101, 292, 225]
+  },
+  "H8-toan-b10-05": {
+    "pdf_page": 51,
+    "bbox": [384, 273, 556, 370]
+  },
+  "H8-toan-b10-06": {
+    "pdf_page": 51,
+    "bbox": [460, 486, 558, 624]
+  },
+  "H8-toan-b10-07": {
+    "pdf_page": 51,
+    "bbox": [427, 630, 557, 743]
+  },
+  "H8-toan-b10-08": {
+    "pdf_page": 52,
+    "bbox": [53, 111, 363, 258]
+  },
+  "H8-toan-b10-09": {
+    "pdf_page": 52,
+    "bbox": [371, 190, 550, 298]
+  },
+  "H8-toan-b10-10": {
+    "pdf_page": 52,
+    "bbox": [103, 393, 502, 554]
+  },
+  "H8-toan-b10-11": {
+    "pdf_page": 52,
+    "bbox": [219, 584, 518, 783]
+  },
+  "H8-toan-b11-01": {
+    "pdf_page": 53,
+    "bbox": [332, 273, 560, 381]
+  },
+  "H8-toan-b11-02": {
+    "pdf_page": 53,
+    "bbox": [397, 446, 560, 550]
+  },
+  "H8-toan-b11-03": {
+    "pdf_page": 53,
+    "bbox": [403, 555, 558, 646]
+  },
+  "H8-toan-b11-04": {
+    "pdf_page": 54,
+    "bbox": [404, 69, 549, 176]
+  },
+  "H8-toan-b11-05": {
+    "pdf_page": 54,
+    "bbox": [360, 240, 550, 326]
+  },
+  "H8-toan-b11-06": {
+    "pdf_page": 54,
+    "bbox": [351, 413, 541, 527]
+  },
+  "H8-toan-b11-07": {
+    "pdf_page": 54,
+    "bbox": [385, 556, 532, 658]
+  },
+  "H8-toan-b11-08": {
+    "pdf_page": 54,
+    "bbox": [394, 674, 552, 762]
+  },
+  "H8-toan-b11-09": {
+    "pdf_page": 55,
+    "bbox": [398, 59, 558, 149]
+  },
+  "H8-toan-b11-10": {
+    "pdf_page": 55,
+    "bbox": [338, 245, 556, 346],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc trên bên trái khung chữ nhật đi qua cụm chữ cuối của Luyện tập 3 ('thẳng', 'cắt') do đường thẳng d và đỉnh B vươn rộng sang trái bên dưới dòng chữ"
+  },
+  "H8-toan-b11-11": {
+    "pdf_page": 55,
+    "bbox": [402, 639, 548, 744]
+  },
+  "H8-toan-b11-12": {
+    "pdf_page": 56,
+    "bbox": [376, 261, 538, 364]
+  },
+  "H8-toan-b11-13": {
+    "pdf_page": 56,
+    "bbox": [400, 517, 533, 618]
+  },
+  "H8-toan-ltc-c03-01-01": {
+    "pdf_page": 57,
+    "bbox": [384, 149, 559, 254]
+  },
+  "H8-toan-ltc-c03-01-02": {
+    "pdf_page": 57,
+    "bbox": [385, 481, 558, 571]
+  },
+  "H8-toan-ltc-c03-01-03": {
+    "pdf_page": 57,
+    "bbox": [346, 579, 558, 677]
+  },
+  "H8-toan-b12-01": {
+    "pdf_page": 58,
+    "bbox": [346, 225, 548, 379]
+  },
+  "H8-toan-b12-02": {
+    "pdf_page": 58,
+    "bbox": [57, 490, 546, 644]
+  },
+  "H8-toan-b12-03": {
+    "pdf_page": 58,
+    "bbox": [393, 684, 550, 783]
+  },
+  "H8-toan-b12-04": {
+    "pdf_page": 59,
+    "bbox": [423, 270, 552, 381]
+  },
+  "H8-toan-b12-05": {
+    "pdf_page": 60,
+    "bbox": [359, 540, 549, 643]
+  },
+  "H8-toan-b12-06": {
+    "pdf_page": 61,
+    "bbox": [364, 109, 558, 224]
+  },
+  "H8-toan-b12-07": {
+    "pdf_page": 61,
+    "bbox": [389, 246, 558, 345]
+  },
+  "H8-toan-b12-08": {
+    "pdf_page": 61,
+    "bbox": [101, 657, 508, 778]
+  },
+  "H8-toan-b12-09": {
+    "pdf_page": 62,
+    "bbox": [421, 391, 549, 483]
+  },
+  "H8-toan-b12-10": {
+    "pdf_page": 62,
+    "bbox": [84, 560, 524, 673]
+  },
+  "H8-toan-ltc-c03-02-01": {
+    "pdf_page": 63,
+    "bbox": [363, 225, 558, 346]
+  },
+  "H8-toan-ltc-c03-02-02": {
+    "pdf_page": 63,
+    "bbox": [385, 546, 558, 640]
+  },
+  "H8-toan-ltc-c03-02-03": {
+    "pdf_page": 64,
+    "bbox": [49, 121, 548, 223]
+  },
+  "H8-toan-b13-01": {
+    "pdf_page": 65,
+    "bbox": [430, 215, 538, 307]
+  },
+  "H8-toan-b13-02": {
+    "pdf_page": 65,
+    "bbox": [64, 402, 539, 511]
+  },
+  "H8-toan-b13-03": {
+    "pdf_page": 65,
+    "bbox": [429, 699, 558, 780]
+  },
+  "H8-toan-b13-04": {
+    "pdf_page": 66,
+    "bbox": [420, 95, 548, 173]
+  },
+  "H8-toan-b13-05": {
+    "pdf_page": 66,
+    "bbox": [405, 253, 511, 343]
+  },
+  "H8-toan-b13-06": {
+    "pdf_page": 66,
+    "bbox": [402, 627, 549, 719]
+  },
+  "H8-toan-b14-01": {
+    "pdf_page": 68,
+    "bbox": [165, 388, 444, 512]
+  },
+  "H8-toan-b14-02": {
+    "pdf_page": 68,
+    "bbox": [384, 581, 548, 692]
+  },
+  "H8-toan-b14-03": {
+    "pdf_page": 69,
+    "bbox": [386, 89, 558, 218]
+  },
+  "H8-toan-b14-04": {
+    "pdf_page": 69,
+    "bbox": [381, 333, 562, 454]
+  },
+  "H8-toan-b14-05": {
+    "pdf_page": 70,
+    "bbox": [65, 77, 540, 210]
+  },
+  "H8-toan-b14-06": {
+    "pdf_page": 70,
+    "bbox": [59, 406, 546, 547]
+  },
+  "H8-toan-b14-07": {
+    "pdf_page": 70,
+    "bbox": [431, 652, 530, 767]
+  },
+  "H8-toan-b14-08": {
+    "pdf_page": 71,
+    "bbox": [176, 503, 449, 676]
+  },
+  "H8-toan-b14-09": {
+    "pdf_page": 72,
+    "bbox": [76, 107, 531, 273]
+  },
+  "H8-toan-b14-10": {
+    "pdf_page": 72,
+    "bbox": [83, 492, 508, 781]
+  },
+  "H8-toan-b14-11": {
+    "pdf_page": 73,
+    "bbox": [208, 379, 401, 526]
+  },
+  "H8-toan-ltc-c03-03-01": {
+    "pdf_page": 74,
+    "bbox": [416, 210, 551, 343]
+  },
+  "H8-toan-ltc-c03-03-02": {
+    "pdf_page": 74,
+    "bbox": [400, 472, 554, 575]
+  },
+  "H8-toan-bt-c03-01": {
+    "pdf_page": 75,
+    "bbox": [318, 658, 558, 781]
+  },
+  "H8-toan-bt-c03-02": {
+    "pdf_page": 76,
+    "bbox": [221, 251, 409, 402]
+  }
+}

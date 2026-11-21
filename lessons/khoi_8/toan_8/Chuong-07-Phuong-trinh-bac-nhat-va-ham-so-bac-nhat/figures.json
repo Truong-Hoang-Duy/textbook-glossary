@@ -1,0 +1,88 @@
+{
+  "H8-toan-b25-01": {
+    "pdf_page": 31,
+    "bbox": [110, 594, 502, 748]
+  },
+  "H8-toan-b27-01": {
+    "pdf_page": 41,
+    "bbox": [289, 247, 565, 446]
+  },
+  "H8-toan-b27-02": {
+    "pdf_page": 43,
+    "bbox": [392, 181, 564, 334]
+  },
+  "H8-toan-b27-03": {
+    "pdf_page": 43,
+    "bbox": [400, 602, 564, 771]
+  },
+  "H8-toan-b27-04": {
+    "pdf_page": 44,
+    "bbox": [139, 88, 303, 246]
+  },
+  "H8-toan-b27-05": {
+    "pdf_page": 44,
+    "bbox": [387, 292, 551, 464]
+  },
+  "H8-toan-b27-06": {
+    "pdf_page": 44,
+    "bbox": [129, 433, 293, 602]
+  },
+  "H8-toan-b27-07": {
+    "pdf_page": 45,
+    "bbox": [405, 308, 551, 471]
+  },
+  "H8-toan-b27-08": {
+    "pdf_page": 46,
+    "bbox": [390, 71, 551, 235]
+  },
+  "H8-toan-b27-09": {
+    "pdf_page": 46,
+    "bbox": [87, 353, 504, 626]
+  },
+  "H8-toan-b27-10": {
+    "pdf_page": 47,
+    "bbox": [329, 143, 564, 445]
+  },
+  "H8-toan-b27-11": {
+    "pdf_page": 47,
+    "bbox": [436, 495, 563, 671]
+  },
+  "H8-toan-b28-01": {
+    "pdf_page": 48,
+    "bbox": [115, 322, 555, 382]
+  },
+  "H8-toan-b28-02": {
+    "pdf_page": 50,
+    "bbox": [407, 258, 554, 395]
+  },
+  "H8-toan-b28-03": {
+    "pdf_page": 50,
+    "bbox": [407, 402, 554, 547]
+  },
+  "H8-toan-b28-04": {
+    "pdf_page": 50,
+    "bbox": [386, 559, 536, 720]
+  },
+  "H8-toan-b29-01": {
+    "pdf_page": 52,
+    "bbox": [128, 509, 462, 673],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên phải khung chữ nhật bao Hình 7.14 giao với viền hộp bóng thoại gợi ý của Pi đặt sát bên dưới nhánh b"
+  },
+  "H8-toan-b29-02": {
+    "pdf_page": 53,
+    "bbox": [425, 316, 545, 487]
+  },
+  "H8-toan-b29-03": {
+    "pdf_page": 54,
+    "bbox": [396, 84, 563, 245]
+  },
+  "H8-toan-ltc-c07-02-01": {
+    "pdf_page": 56,
+    "bbox": [411, 110, 554, 299]
+  },
+  "H8-toan-ltc-c07-02-02": {
+    "pdf_page": 57,
+    "bbox": [353, 247, 555, 376]
+  }
+}

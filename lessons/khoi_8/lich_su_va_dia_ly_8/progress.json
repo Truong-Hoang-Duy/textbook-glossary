@@ -1,0 +1,795 @@
+{
+  "unit": "lich_su_va_dia_ly_8",
+  "subject": "lich_su_va_dia_ly",
+  "subject_name": "Lịch sử và Địa lí",
+  "grade": 8,
+  "files": [
+    {
+      "file": "SGK Lich su va Dia li 8 KNTT.pdf",
+      "volume": null,
+      "page_count": 179,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+      "pdf_pages": [
+        5,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+      "pdf_pages": [
+        7,
+        7
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "phan-ls",
+      "role": "group",
+      "kind": "phan",
+      "label": null,
+      "number": 1,
+      "title": "Phần Lịch sử",
+      "dir": "Phan-01-Lich-su",
+      "children": [
+        {
+          "id": "ls-c01",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 1",
+          "number": 1,
+          "title": "Châu Âu và Bắc Mỹ từ nửa sau thế kỉ XVI đến thế kỉ XVIII",
+          "dir": "Chuong-01-Chau-Au-va-Bac-My-tu-nua-sau-the-ki-XVI-den-the-ki-XVIII",
+          "children": [
+            {
+              "id": "ls-b01",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 1",
+              "number": 1,
+              "title": "Cách mạng tư sản Anh và Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ",
+              "lesson_type": "ly_thuyet",
+              "file": "B01-Cach-mang-tu-san-Anh-va-Chien-tranh-gianh-doc-lap.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                10,
+                13
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b02",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 2",
+              "number": 2,
+              "title": "Cách mạng tư sản Pháp cuối thế kỉ XVIII",
+              "lesson_type": "ly_thuyet",
+              "file": "B02-Cach-mang-tu-san-Phap-cuoi-the-ki-XVIII.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                14,
+                16
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b03",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 3",
+              "number": 3,
+              "title": "Cách mạng công nghiệp (nửa sau thế kỉ XVIII – giữa thế kỉ XIX)",
+              "lesson_type": "ly_thuyet",
+              "file": "B03-Cach-mang-cong-nghiep-nua-sau-the-ki-XVIII-giua.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                17,
+                20
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "ls-c02",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 2",
+          "number": 2,
+          "title": "Đông Nam Á từ nửa sau thế kỉ XVI đến giữa thế kỉ XIX",
+          "dir": "Chuong-02-Dong-Nam-A-tu-nua-sau-the-ki-XVI-den-giua-the-ki-XIX",
+          "children": [
+            {
+              "id": "ls-b04",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 4",
+              "number": 4,
+              "title": "Đông Nam Á từ nửa sau thế kỉ XVI đến giữa thế kỉ XIX",
+              "lesson_type": "ly_thuyet",
+              "file": "B04-Dong-Nam-A-tu-nua-sau-the-ki-XVI-den-giua-the-ki.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                21,
+                24
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "ls-c03",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 3",
+          "number": 3,
+          "title": "Việt Nam từ đầu thế kỉ XVI đến thế kỉ XVIII",
+          "dir": "Chuong-03-Viet-Nam-tu-dau-the-ki-XVI-den-the-ki-XVIII",
+          "children": [
+            {
+              "id": "ls-b05",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 5",
+              "number": 5,
+              "title": "Cuộc xung đột Nam – Bắc triều và Trịnh – Nguyễn",
+              "lesson_type": "ly_thuyet",
+              "file": "B05-Cuoc-xung-dot-Nam-Bac-trieu-va-Trinh-Nguyen.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                25,
+                28
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b06",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 6",
+              "number": 6,
+              "title": "Công cuộc khai phá vùng đất phía Nam từ thế kỉ XVI đến thế kỉ XVIII",
+              "lesson_type": "ly_thuyet",
+              "file": "B06-Cong-cuoc-khai-pha-vung-dat-phia-Nam-tu-the-ki-XVI.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                29,
+                31
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b07",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 7",
+              "number": 7,
+              "title": "Khởi nghĩa nông dân ở Đàng Ngoài thế kỉ XVIII",
+              "lesson_type": "ly_thuyet",
+              "file": "B07-Khoi-nghia-nong-dan-o-Dang-Ngoai-the-ki-XVIII.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                32,
+                35
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b08",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 8",
+              "number": 8,
+              "title": "Phong trào Tây Sơn",
+              "lesson_type": "ly_thuyet",
+              "file": "B08-Phong-trao-Tay-Son.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                36,
+                41
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b09",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 9",
+              "number": 9,
+              "title": "Tình hình kinh tế, văn hoá, tôn giáo trong các thế kỉ XVI – XVIII",
+              "lesson_type": "ly_thuyet",
+              "file": "B09-Tinh-hinh-kinh-te-van-hoa-ton-giao-trong-cac-the.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                42,
+                45
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "ls-c04",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 4",
+          "number": 4,
+          "title": "Châu Âu và nước Mỹ từ cuối thế kỉ XVIII đến đầu thế kỉ XX",
+          "dir": "Chuong-04-Chau-Au-va-nuoc-My-tu-cuoi-the-ki-XVIII-den-dau-the-ki-XX",
+          "children": [
+            {
+              "id": "ls-b10",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 10",
+              "number": 10,
+              "title": "Sự hình thành chủ nghĩa đế quốc ở các nước Âu – Mỹ (cuối thế kỉ XIX – đầu thế kỉ XX)",
+              "lesson_type": "ly_thuyet",
+              "file": "B10-Su-hinh-thanh-chu-nghia-de-quoc-o-cac-nuoc-Au-My.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                46,
+                49
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b11",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 11",
+              "number": 11,
+              "title": "Phong trào công nhân từ cuối thế kỉ XVIII đến đầu thế kỉ XX và sự ra đời của chủ nghĩa xã hội khoa học",
+              "lesson_type": "ly_thuyet",
+              "file": "B11-Phong-trao-cong-nhan-tu-cuoi-the-ki-XVIII-den-dau.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                50,
+                53
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b12",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 12",
+              "number": 12,
+              "title": "Chiến tranh thế giới thứ nhất (1914 – 1918) và Cách mạng tháng Mười Nga năm 1917",
+              "lesson_type": "ly_thuyet",
+              "file": "B12-Chien-tranh-the-gioi-thu-nhat-1914-1918-va-Cach.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                54,
+                57
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "ls-c05",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 5",
+          "number": 5,
+          "title": "Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII – XIX",
+          "dir": "Chuong-05-Su-phat-trien-cua-khoa-hoc-ki-thuat-van-hoc-nghe-thuat",
+          "children": [
+            {
+              "id": "ls-b13",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 13",
+              "number": 13,
+              "title": "Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII – XIX",
+              "lesson_type": "ly_thuyet",
+              "file": "B13-Su-phat-trien-cua-khoa-hoc-ki-thuat-van-hoc-nghe.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                58,
+                61
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "ls-c06",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 6",
+          "number": 6,
+          "title": "Châu Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+          "dir": "Chuong-06-Chau-A-tu-nua-sau-the-ki-XIX-den-dau-the-ki-XX",
+          "children": [
+            {
+              "id": "ls-b14",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 14",
+              "number": 14,
+              "title": "Trung Quốc và Nhật Bản từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+              "lesson_type": "ly_thuyet",
+              "file": "B14-Trung-Quoc-va-Nhat-Ban-tu-nua-sau-the-ki-XIX-den.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                62,
+                66
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b15",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 15",
+              "number": 15,
+              "title": "Ấn Độ và Đông Nam Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+              "lesson_type": "ly_thuyet",
+              "file": "B15-An-Do-va-Dong-Nam-A-tu-nua-sau-the-ki-XIX-den-dau.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                67,
+                70
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "ls-c07",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 7",
+          "number": 7,
+          "title": "Việt Nam từ thế kỉ XIX đến đầu thế kỉ XX",
+          "dir": "Chuong-07-Viet-Nam-tu-the-ki-XIX-den-dau-the-ki-XX",
+          "children": [
+            {
+              "id": "ls-b16",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 16",
+              "number": 16,
+              "title": "Việt Nam dưới thời Nguyễn (nửa đầu thế kỉ XIX)",
+              "lesson_type": "ly_thuyet",
+              "file": "B16-Viet-Nam-duoi-thoi-Nguyen-nua-dau-the-ki-XIX.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                71,
+                76
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b17",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 17",
+              "number": 17,
+              "title": "Cuộc kháng chiến chống thực dân Pháp xâm lược từ năm 1858 đến năm 1884",
+              "lesson_type": "ly_thuyet",
+              "file": "B17-Cuoc-khang-chien-chong-thuc-dan-Phap-xam-luoc-tu.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                77,
+                83
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b18",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 18",
+              "number": 18,
+              "title": "Phong trào chống Pháp trong những năm 1885 – 1896",
+              "lesson_type": "ly_thuyet",
+              "file": "B18-Phong-trao-chong-Phap-trong-nhung-nam-1885-1896.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                84,
+                87
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "ls-b19",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 19",
+              "number": 19,
+              "title": "Phong trào yêu nước chống Pháp ở Việt Nam từ đầu thế kỉ XX đến năm 1917",
+              "lesson_type": "ly_thuyet",
+              "file": "B19-Phong-trao-yeu-nuoc-chong-Phap-o-Viet-Nam-tu-dau.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                88,
+                92
+              ],
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phan-dl",
+      "role": "group",
+      "kind": "phan",
+      "label": null,
+      "number": 2,
+      "title": "Phần Địa lí",
+      "dir": "Phan-02-Dia-li",
+      "children": [
+        {
+          "id": "dl-c01",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 1",
+          "number": 1,
+          "title": "Vị trí địa lí và phạm vi lãnh thổ, địa hình và khoáng sản Việt Nam",
+          "dir": "Chuong-01-Vi-tri-dia-li-pham-vi-lanh-tho-dia-hinh-va-khoang-san",
+          "children": [
+            {
+              "id": "dl-b01",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 1",
+              "number": 1,
+              "title": "Vị trí địa lí và phạm vi lãnh thổ Việt Nam",
+              "lesson_type": "ly_thuyet",
+              "file": "B01-Vi-tri-dia-li-va-pham-vi-lanh-tho-Viet-Nam.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                95,
+                98
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b02",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 2",
+              "number": 2,
+              "title": "Địa hình Việt Nam",
+              "lesson_type": "ly_thuyet",
+              "file": "B02-Dia-hinh-Viet-Nam.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                99,
+                110
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b03",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 3",
+              "number": 3,
+              "title": "Khoáng sản Việt Nam",
+              "lesson_type": "ly_thuyet",
+              "file": "B03-Khoang-san-Viet-Nam.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                111,
+                114
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "dl-c02",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 2",
+          "number": 2,
+          "title": "Khí hậu và thuỷ văn Việt Nam",
+          "dir": "Chuong-02-Khi-hau-va-thuy-van-Viet-Nam",
+          "children": [
+            {
+              "id": "dl-b04",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 4",
+              "number": 4,
+              "title": "Khí hậu Việt Nam",
+              "lesson_type": "ly_thuyet",
+              "file": "B04-Khi-hau-Viet-Nam.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                115,
+                119
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b05",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 5",
+              "number": 5,
+              "title": "Thực hành: Vẽ và phân tích biểu đồ khí hậu",
+              "lesson_type": "thuc_hanh",
+              "file": "B05-Thuc-hanh-Ve-va-phan-tich-bieu-do-khi-hau.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                120,
+                120
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b06",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 6",
+              "number": 6,
+              "title": "Thuỷ văn Việt Nam",
+              "lesson_type": "ly_thuyet",
+              "file": "B06-Thuy-van-Viet-Nam.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                121,
+                127
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b07",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 7",
+              "number": 7,
+              "title": "Vai trò của tài nguyên khí hậu và tài nguyên nước đối với sự phát triển kinh tế – xã hội của nước ta",
+              "lesson_type": "ly_thuyet",
+              "file": "B07-Vai-tro-cua-tai-nguyen-khi-hau-va-tai-nguyen-nuoc.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                128,
+                131
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b08",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 8",
+              "number": 8,
+              "title": "Tác động của biến đổi khí hậu đối với khí hậu và thuỷ văn Việt Nam",
+              "lesson_type": "ly_thuyet",
+              "file": "B08-Tac-dong-cua-bien-doi-khi-hau-doi-voi-khi-hau-va.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                132,
+                135
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "dl-c03",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 3",
+          "number": 3,
+          "title": "Thổ nhưỡng và sinh vật Việt Nam",
+          "dir": "Chuong-03-Tho-nhuong-va-sinh-vat-Viet-Nam",
+          "children": [
+            {
+              "id": "dl-b09",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 9",
+              "number": 9,
+              "title": "Thổ nhưỡng Việt Nam",
+              "lesson_type": "ly_thuyet",
+              "file": "B09-Tho-nhuong-Viet-Nam.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                136,
+                142
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b10",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 10",
+              "number": 10,
+              "title": "Sinh vật Việt Nam",
+              "lesson_type": "ly_thuyet",
+              "file": "B10-Sinh-vat-Viet-Nam.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                143,
+                146
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "dl-c04",
+          "role": "group",
+          "kind": "chuong",
+          "label": "Chương 4",
+          "number": 4,
+          "title": "Biển đảo Việt Nam",
+          "dir": "Chuong-04-Bien-dao-Viet-Nam",
+          "children": [
+            {
+              "id": "dl-b11",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 11",
+              "number": 11,
+              "title": "Phạm vi Biển Đông. Vùng biển đảo và đặc điểm tự nhiên vùng biển đảo Việt Nam",
+              "lesson_type": "ly_thuyet",
+              "file": "B11-Pham-vi-Bien-Dong-Vung-bien-dao-va-dac-diem-tu.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                147,
+                155
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "dl-b12",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 12",
+              "number": 12,
+              "title": "Môi trường và tài nguyên biển đảo Việt Nam",
+              "lesson_type": "ly_thuyet",
+              "file": "B12-Moi-truong-va-tai-nguyen-bien-dao-Viet-Nam.md",
+              "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+              "pdf_pages": [
+                156,
+                158
+              ],
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cdc",
+      "role": "group",
+      "kind": "chu_de",
+      "label": null,
+      "number": null,
+      "title": "Chủ đề chung",
+      "dir": "Phan-03-Chu-de-chung",
+      "children": [
+        {
+          "id": "cdc-01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": null,
+          "number": null,
+          "title": "Chủ đề chung 1: Văn minh châu thổ sông Hồng và sông Cửu Long",
+          "lesson_type": "ly_thuyet",
+          "file": "CDC01-Van-minh-chau-tho-song-Hong-va-song-Cuu-Long.md",
+          "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+          "pdf_pages": [
+            159,
+            165
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "cdc-02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": null,
+          "number": null,
+          "title": "Chủ đề chung 2: Bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông",
+          "lesson_type": "ly_thuyet",
+          "file": "CDC02-Bao-ve-chu-quyen-cac-quyen-va-loi-ich-hop-phap.md",
+          "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+          "pdf_pages": [
+            166,
+            172
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "giai-thich-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Giải thích thuật ngữ",
+      "file": "Giai-thich-thuat-ngu.md",
+      "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+      "pdf_pages": [
+        173,
+        175
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-phien-am",
+      "role": "back_matter",
+      "kind": "bang_phien_am",
+      "label": null,
+      "number": null,
+      "title": "Bảng phiên âm",
+      "file": "Bang-phien-am.md",
+      "source_file": "SGK Lich su va Dia li 8 KNTT.pdf",
+      "pdf_pages": [
+        176,
+        177
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "Độ lệch trang in cố định printed_offset = 2 xuyên suốt toàn sách (PDF 4 = trang in 2 Lời nói đầu, PDF 5–6 = trang in 3–4 Mục lục, PDF 7 = trang in 5 Hướng dẫn sử dụng sách, PDF 10..177 = trang in 8..175; PDF 1–3 là bìa, bìa lót và trang tên sách, PDF 178–179 là trang bản quyền và bìa sau).",
+    "Thư mục gốc sgk/khoi_8/lich_su_dia_ly_8/ được nối bằng directory junction sgk/khoi_8/lich_su_va_dia_ly_8/ để khớp tên đơn vị chuẩn lich_su_va_dia_ly_8.",
+    "Sách gồm Phần Lịch sử (Chương 1–7, Bài 1–19), Phần Địa lí (Chương 1–4, Bài 1–12), 2 Chủ đề chung liên môn (Chủ đề chung 1–2, trang in 157–170), Giải thích thuật ngữ (trang in 171–173, chia 2 phần Lịch sử và Địa lí) và Bảng phiên âm (trang in 174–175).",
+    "Trang mở đầu Phần Lịch sử (trang in 6, PDF 8), trang bìa Chương 1 Lịch sử (trang in 7, PDF 9) và trang mở đầu Phần Địa lí kèm Bản đồ hành chính Việt Nam năm 2020 (trang in 91–92, PDF 93–94) là các trang bìa phần/chương riêng nên không gộp vào dải trang bài học; các Chương 2–7 Lịch sử và Chương 1–4 Địa lí có tiêu đề chương in ngay đầu trang bài học đầu tiên của chương."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-21",
+      "scope": [
+        "phan-ls",
+        "phan-dl",
+        "cdc"
+      ],
+      "terms": 240,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ Phần Lịch sử (Chương 1–7, Bài 1–19), Phần Địa lí (Chương 1–4, Bài 1–12), Chủ đề chung 1–2, Giải thích thuật ngữ và Bảng phiên âm (240 thuật ngữ: 55 in_source, 185 [mô tả], 0 Ngoài nguồn, 22 ghi chú nguồn đóng; 164 hình minh hoạ): lấy mẫu phân tầng 30 mục (10 mục in_source: Độc quyền, Quá trình feralit, Thềm lục địa Việt Nam, Ô nhiễm môi trường biển đảo, Bôn-sê-vích, Tư bản công nghiệp, Hệ sinh thái, Môi trường biển đảo, Vũng, Bậc thềm sông; 10 mục [mô tả]: Gió mùa đông ở Việt Nam, Mỏ khoáng sản nội sinh, Quý tộc và Tăng lữ, Cách mạng tư sản Anh, Sử dụng hợp lí tài nguyên khoáng sản ở Việt Nam, Mỏ khoáng sản ngoại sinh, Hiệp ước Nam Kinh, Tuyên ngôn Nhân quyền và Dân quyền, Chính sách chia để trị, Tầng lớp quý tộc mới; và 10 hình minh hoạ: H8-lich_su_va_dia_ly-cdc-01-04, ls-b08-05, ls-b15-03, dl-b02-09, ls-b05-03, dl-b06-07, ls-b06-01, ls-b18-03, ls-b10-03, ls-b07-01). Toàn bộ 30/30 mục mẫu khớp 100% với trang sách gốc (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-21: Hoàn thành 100% lich_su_va_dia_ly_8 từ Cổng 0 đến Cổng 4 (33 Bài học, Giải thích thuật ngữ, Bảng phiên âm, 164 hình minh hoạ, 12 từ điển với 240 thuật ngữ, 0 lỗi)."
+}

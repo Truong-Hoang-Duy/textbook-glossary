@@ -1,0 +1,112 @@
+{
+  "H8-khoa_hoc_tu_nhien-b26-01": {
+    "pdf_page": 107,
+    "bbox": [64, 494, 499, 684]
+  },
+  "H8-khoa_hoc_tu_nhien-b26-02": {
+    "pdf_page": 108,
+    "bbox": [62, 139, 252, 313]
+  },
+  "H8-khoa_hoc_tu_nhien-b26-03": {
+    "pdf_page": 108,
+    "bbox": [289, 139, 479, 313]
+  },
+  "H8-khoa_hoc_tu_nhien-b26-04": {
+    "pdf_page": 109,
+    "bbox": [311, 328, 487, 515]
+  },
+  "H8-khoa_hoc_tu_nhien-b26-05": {
+    "pdf_page": 109,
+    "bbox": [312, 534, 490, 730]
+  },
+  "H8-khoa_hoc_tu_nhien-b26-06": {
+    "pdf_page": 110,
+    "bbox": [340, 182, 473, 394]
+  },
+  "H8-khoa_hoc_tu_nhien-b27-01": {
+    "pdf_page": 111,
+    "bbox": [254, 312, 485, 476]
+  },
+  "H8-khoa_hoc_tu_nhien-b27-02": {
+    "pdf_page": 112,
+    "bbox": [102, 142, 439, 386]
+  },
+  "H8-khoa_hoc_tu_nhien-b27-03": {
+    "pdf_page": 113,
+    "bbox": [340, 325, 487, 487],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cuối dòng công thức '(J/kg.K).' bên trái (x=336–355, y=392–401) nhô sang phải hơn mép trái nhãn Hình 27.3 phía dưới (x=341)"
+  },
+  "H8-khoa_hoc_tu_nhien-b28-01": {
+    "pdf_page": 114,
+    "bbox": [310, 387, 487, 537]
+  },
+  "H8-khoa_hoc_tu_nhien-b28-02": {
+    "pdf_page": 115,
+    "bbox": [246, 489, 493, 658]
+  },
+  "H8-khoa_hoc_tu_nhien-b28-03": {
+    "pdf_page": 116,
+    "bbox": [380, 116, 487, 258]
+  },
+  "H8-khoa_hoc_tu_nhien-b28-04": {
+    "pdf_page": 116,
+    "bbox": [196, 438, 348, 636]
+  },
+  "H8-khoa_hoc_tu_nhien-b28-05": {
+    "pdf_page": 117,
+    "bbox": [341, 86, 487, 346]
+  },
+  "H8-khoa_hoc_tu_nhien-b28-06": {
+    "pdf_page": 117,
+    "bbox": [345, 552, 486, 726]
+  },
+  "H8-khoa_hoc_tu_nhien-b28-07": {
+    "pdf_page": 118,
+    "bbox": [336, 198, 494, 357]
+  },
+  "H8-khoa_hoc_tu_nhien-b28-08": {
+    "pdf_page": 118,
+    "bbox": [336, 367, 493, 537]
+  },
+  "H8-khoa_hoc_tu_nhien-b28-09": {
+    "pdf_page": 119,
+    "bbox": [63, 51, 497, 238]
+  },
+  "H8-khoa_hoc_tu_nhien-b29-01": {
+    "pdf_page": 120,
+    "bbox": [49, 206, 175, 325]
+  },
+  "H8-khoa_hoc_tu_nhien-b29-02": {
+    "pdf_page": 120,
+    "bbox": [321, 384, 480, 539]
+  },
+  "H8-khoa_hoc_tu_nhien-b29-03": {
+    "pdf_page": 121,
+    "bbox": [152, 138, 402, 252]
+  },
+  "H8-khoa_hoc_tu_nhien-b29-04": {
+    "pdf_page": 121,
+    "bbox": [280, 348, 490, 512]
+  },
+  "H8-khoa_hoc_tu_nhien-b29-05": {
+    "pdf_page": 121,
+    "bbox": [238, 578, 477, 698]
+  },
+  "H8-khoa_hoc_tu_nhien-b29-06": {
+    "pdf_page": 122,
+    "bbox": [281, 149, 479, 300]
+  },
+  "H8-khoa_hoc_tu_nhien-b29-07": {
+    "pdf_page": 122,
+    "bbox": [302, 399, 474, 556]
+  },
+  "H8-khoa_hoc_tu_nhien-b29-08": {
+    "pdf_page": 123,
+    "bbox": [55, 383, 475, 641]
+  },
+  "H8-khoa_hoc_tu_nhien-b29-09": {
+    "pdf_page": 124,
+    "bbox": [49, 218, 494, 409]
+  }
+}
