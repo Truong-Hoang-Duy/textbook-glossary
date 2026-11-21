@@ -1,0 +1,12 @@
+{
+  "H9-tieng_anh-u02-01": {
+    "pdf_page": 18,
+    "bbox": [52, 354, 292, 634]
+  },
+  "H9-tieng_anh-u02-02": {
+    "pdf_page": 22,
+    "bbox": [42, 146, 554, 338],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Viền dưới nghiêng của ảnh c kéo xuống tới y=341 ngang bằng đỉnh ô số 2 của bài tập kế tiếp tại y=340; giữ y1=338 (khung cắt y=342) để lấy trọn vẹn ảnh c mà không cắt vào dòng đề bài 2"
+  }
+}

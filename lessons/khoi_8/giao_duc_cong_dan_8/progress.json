@@ -1,0 +1,271 @@
+{
+  "unit": "giao_duc_cong_dan_8",
+  "subject": "giao_duc_cong_dan",
+  "subject_name": "Giáo dục công dân",
+  "grade": 8,
+  "files": [
+    {
+      "file": "SGK Giao duc cong dan 8 KNTT.pdf",
+      "volume": null,
+      "page_count": 76,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+      "pdf_pages": [
+        6,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "p01",
+      "role": "group",
+      "kind": "phan",
+      "label": null,
+      "number": null,
+      "title": "Nội dung bài học",
+      "dir": "Bai-hoc",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Tự hào về truyền thống dân tộc Việt Nam",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Tu-hao-ve-truyen-thong-dan-toc-Viet-Nam.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            7,
+            11
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Tôn trọng sự đa dạng của các dân tộc",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Ton-trong-su-da-dang-cua-cac-dan-toc.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            12,
+            17
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Lao động cần cù, sáng tạo",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Lao-dong-can-cu-sang-tao.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            18,
+            21
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Bảo vệ lẽ phải",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Bao-ve-le-phai.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            22,
+            26
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Bảo vệ môi trường và tài nguyên thiên nhiên",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Bao-ve-moi-truong-va-tai-nguyen-thien-nhien.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            27,
+            36
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Xác định mục tiêu cá nhân",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Xac-dinh-muc-tieu-ca-nhan.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            37,
+            42
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Phòng, chống bạo lực gia đình",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Phong-chong-bao-luc-gia-dinh.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            43,
+            50
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Lập kế hoạch chi tiêu",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Lap-ke-hoach-chi-tieu.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            51,
+            54
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Phòng ngừa tai nạn vũ khí, cháy, nổ và các chất độc hại",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Phong-ngua-tai-nan-vu-khi-chay-no-va-cac-chat-doc.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            55,
+            61
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Quyền và nghĩa vụ lao động của công dân",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Quyen-va-nghia-vu-lao-dong-cua-cong-dan.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            62,
+            72
+          ],
+          "status": "verified",
+          "printed_offset": 3
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Một số thuật ngữ dùng trong sách",
+      "file": "Mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+      "pdf_pages": [
+        73,
+        74
+      ],
+      "printed_offset": 3,
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Giáo dục công dân 8 KNTT gồm 10 bài học liên tiếp (Bài 1–10), gom vào nhóm 'Nội dung bài học' (thư mục Bai-hoc).",
+    "Trang in 42 (thuộc Bài 7) bị quét lặp hai lần tại PDF 44 và PDF 45: để trống mốc <!-- pdf:45 --> ở Bài 7 và đặt printed_offset = 3 cho Bài 8–10 cùng Bảng thuật ngữ cuối sách."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-21",
+      "scope": [
+        "p01",
+        "bang-tra-cuu"
+      ],
+      "terms": 80,
+      "sample": 30,
+      "errors": 1,
+      "fixed": 1,
+      "note": "Kiểm toán Cổng 4 toàn bộ 10 Bài học (Bài 1–10) và Một số thuật ngữ dùng trong sách (80 thuật ngữ: 29 in_source, 41 [mô tả], 10 Ngoài nguồn; 21 hình minh hoạ): phát hiện và khắc phục trang in 42 quét đúp (pdf:44–45) ở Bài 7 bằng printed_offset=3 cho b07..b10 + bang-tra-cuu, xuất lại đạt 30/30 mục khớp 100% ảnh gốc, sạch watermark tulieugiaoduc.com (0% lỗi tồn đọng)."
+    }
+  ],
+  "last_session_note": "2026-11-21: Hoàn thành 100% giao_duc_cong_dan_8 từ Cổng 0 đến Cổng 4 (80 thuật ngữ, 0% lỗi tồn đọng)."
+}

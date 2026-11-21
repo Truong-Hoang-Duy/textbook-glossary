@@ -1,0 +1,130 @@
+{
+  "H11-tin_hoc_thud-b10-01": {
+    "pdf_page": 52,
+    "bbox": [
+      92,
+      412,
+      530,
+      781
+    ]
+  },
+  "H11-tin_hoc_thud-b10-02": {
+    "pdf_page": 53,
+    "bbox": [
+      195,
+      686,
+      396,
+      765
+    ]
+  },
+  "H11-tin_hoc_thud-b11-01": {
+    "pdf_page": 55,
+    "bbox": [
+      86,
+      535,
+      491,
+      610
+    ]
+  },
+  "H11-tin_hoc_thud-b11-02": {
+    "pdf_page": 55,
+    "bbox": [
+      86,
+      655,
+      539,
+      739
+    ]
+  },
+  "H11-tin_hoc_thud-b11-03": {
+    "pdf_page": 57,
+    "bbox": [
+      119,
+      55,
+      502,
+      183
+    ]
+  },
+  "H11-tin_hoc_thud-b12-01": {
+    "pdf_page": 62,
+    "bbox": [
+      108,
+      384,
+      515,
+      504
+    ]
+  },
+  "H11-tin_hoc_thud-b12-02": {
+    "pdf_page": 62,
+    "bbox": [
+      106,
+      510,
+      513,
+      635
+    ]
+  },
+  "H11-tin_hoc_thud-b12-03": {
+    "pdf_page": 63,
+    "bbox": [
+      202,
+      233,
+      541,
+      403
+    ]
+  },
+  "H11-tin_hoc_thud-b12-04": {
+    "pdf_page": 63,
+    "bbox": [
+      393,
+      570,
+      545,
+      776
+    ]
+  },
+  "H11-tin_hoc_thud-b12-05": {
+    "pdf_page": 64,
+    "bbox": [
+      65,
+      393,
+      534,
+      734
+    ]
+  },
+  "H11-tin_hoc_thud-b13-01": {
+    "pdf_page": 66,
+    "bbox": [
+      50,
+      575,
+      538,
+      771
+    ]
+  },
+  "H11-tin_hoc_thud-b13-02": {
+    "pdf_page": 67,
+    "bbox": [
+      58,
+      266,
+      543,
+      445
+    ]
+  },
+  "H11-tin_hoc_thud-b13-03": {
+    "pdf_page": 68,
+    "bbox": [
+      50,
+      587,
+      538,
+      734
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh mũi tên cong màu đỏ của Hình 13.3 (y=582) nằm ngang hàng với chân chữ g, ạ của dòng văn bản 'sáng tác bản nhạc.' phía trên (y=581..583)"
+  },
+  "H11-tin_hoc_thud-b13-04": {
+    "pdf_page": 69,
+    "bbox": [
+      67,
+      51,
+      545,
+      365
+    ]
+  }
+}

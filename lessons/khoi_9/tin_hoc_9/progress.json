@@ -1,0 +1,519 @@
+{
+  "unit": "tin_hoc_9",
+  "subject": "tin_hoc",
+  "subject_name": "Tin học",
+  "grade": 9,
+  "files": [
+    {
+      "file": "SGK TIN HOC 9 - KNTT.pdf",
+      "volume": null,
+      "page_count": 95,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+      "pdf_pages": [
+        6,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "cd01",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 1",
+      "number": 1,
+      "title": "Máy tính và cộng đồng",
+      "dir": "Chu-de-01-May-tinh-va-cong-dong",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Thế giới kĩ thuật số",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-The-gioi-ki-thuat-so.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            7,
+            10
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd02",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 2",
+      "number": 2,
+      "title": "Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
+      "dir": "Chu-de-02-To-chuc-luu-tru-tim-kiem-va-trao-doi-thong-tin",
+      "children": [
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Thông tin trong giải quyết vấn đề",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Thong-tin-trong-giai-quyet-van-de.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            11,
+            13
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Thực hành: Đánh giá chất lượng thông tin",
+          "lesson_type": "thuc_hanh",
+          "file": "B03-Thuc-hanh-Danh-gia-chat-luong-thong-tin.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            14,
+            16
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd03",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 3",
+      "number": 3,
+      "title": "Đạo đức, pháp luật và văn hoá trong môi trường số",
+      "dir": "Chu-de-03-Dao-duc-phap-luat-va-van-hoa-trong-moi-truong-so",
+      "children": [
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Một số vấn đề pháp lí về sử dụng dịch vụ Internet",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Mot-so-van-de-phap-li-ve-su-dung-dich-vu-Internet.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            17,
+            21
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd04",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 4",
+      "number": 4,
+      "title": "Ứng dụng tin học",
+      "dir": "Chu-de-04-Ung-dung-tin-hoc",
+      "children": [
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Tìm hiểu phần mềm mô phỏng",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Tim-hieu-phan-mem-mo-phong.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            22,
+            24
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Thực hành: Khai thác phần mềm mô phỏng",
+          "lesson_type": "thuc_hanh",
+          "file": "B06-Thuc-hanh-Khai-thac-phan-mem-mo-phong.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            25,
+            28
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Trình bày thông tin trong trao đổi và hợp tác",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Trinh-bay-thong-tin-trong-trao-doi-va-hop-tac.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            29,
+            31
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Thực hành: Sử dụng công cụ trực quan trình bày thông tin trong trao đổi và hợp tác",
+          "lesson_type": "thuc_hanh",
+          "file": "B08-Thuc-hanh-Su-dung-cong-cu-truc-quan-trinh-bay.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            32,
+            35
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09a",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9a",
+          "number": 9,
+          "title": "Sử dụng công cụ xác thực dữ liệu",
+          "lesson_type": "ly_thuyet",
+          "file": "B09A-Su-dung-cong-cu-xac-thuc-du-lieu.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            36,
+            42
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10a",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10a",
+          "number": 10,
+          "title": "Sử dụng hàm COUNTIF",
+          "lesson_type": "ly_thuyet",
+          "file": "B10A-Su-dung-ham-COUNTIF.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            43,
+            46
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11a",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11a",
+          "number": 11,
+          "title": "Sử dụng hàm SUMIF",
+          "lesson_type": "ly_thuyet",
+          "file": "B11A-Su-dung-ham-SUMIF.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            47,
+            49
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12a",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12a",
+          "number": 12,
+          "title": "Sử dụng hàm IF",
+          "lesson_type": "ly_thuyet",
+          "file": "B12A-Su-dung-ham-IF.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            50,
+            53
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13a",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13a",
+          "number": 13,
+          "title": "Hoàn thiện bảng tính quản lí tài chính gia đình",
+          "lesson_type": "thuc_hanh",
+          "file": "B13A-Hoan-thien-bang-tinh-quan-li-tai-chinh-gia-dinh.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            54,
+            56
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09b",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9b",
+          "number": 9,
+          "title": "Các chức năng chính của phần mềm làm video",
+          "lesson_type": "ly_thuyet",
+          "file": "B09B-Cac-chuc-nang-chinh-cua-phan-mem-lam-video.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            57,
+            61
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10b",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10b",
+          "number": 10,
+          "title": "Chuẩn bị dữ liệu và dựng video",
+          "lesson_type": "ly_thuyet",
+          "file": "B10B-Chuan-bi-du-lieu-va-dung-video.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            62,
+            66
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11b",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11b",
+          "number": 11,
+          "title": "Thực hành: Dựng video theo kịch bản",
+          "lesson_type": "thuc_hanh",
+          "file": "B11B-Thuc-hanh-Dung-video-theo-kich-ban.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            67,
+            70
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12b",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12b",
+          "number": 12,
+          "title": "Hoàn thành việc dựng video",
+          "lesson_type": "ly_thuyet",
+          "file": "B12B-Hoan-thanh-viec-dung-video.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            71,
+            74
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13b",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13b",
+          "number": 13,
+          "title": "Biên tập và xuất video",
+          "lesson_type": "thuc_hanh",
+          "file": "B13B-Bien-tap-va-xuat-video.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            75,
+            77
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd05",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 5",
+      "number": 5,
+      "title": "Giải quyết vấn đề với sự trợ giúp của máy tính",
+      "dir": "Chu-de-05-Giai-quyet-van-de-voi-su-tro-giup-cua-may-tinh",
+      "children": [
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Giải quyết vấn đề",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-Giai-quyet-van-de.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            78,
+            80
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Bài toán tin học",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Bai-toan-tin-hoc.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            81,
+            84
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Thực hành: Lập chương trình máy tính",
+          "lesson_type": "thuc_hanh",
+          "file": "B16-Thuc-hanh-Lap-chuong-trinh-may-tinh.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            85,
+            88
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd06",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 6",
+      "number": 6,
+      "title": "Tin học và định hướng nghề nghiệp",
+      "dir": "Chu-de-06-Tin-hoc-va-dinh-huong-nghe-nghiep",
+      "children": [
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Tin học và thế giới nghề nghiệp",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Tin-hoc-va-the-gioi-nghe-nghiep.md",
+          "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+          "pdf_pages": [
+            89,
+            92
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ",
+      "file": "Bang-giai-thich-thuat-ngu.md",
+      "source_file": "SGK TIN HOC 9 - KNTT.pdf",
+      "pdf_pages": [
+        93,
+        93
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "Chủ đề 4 gồm phần chung (Bài 5–8) và hai chủ đề con lựa chọn: a. Sử dụng bảng tính điện tử nâng cao (Bài 9a–13a) và b. Làm quen với phần mềm làm video (Bài 9b–13b).",
+    "Mục lục trang 4 ghi 'Chủ đề 6. Hướng nghiệp với tin học', nhưng trang mở đầu bài học (trang in 87, PDF 89) in 'CHỦ ĐỀ 6. TIN HỌC VÀ ĐỊNH HƯỚNG NGHỀ NGHIỆP' — lấy theo trang mở đầu đúng quy tắc Spec 3.3.",
+    "Độ lệch trang in cố định xuyên suốt: trang PDF = trang in + 2."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-21",
+      "scope": [
+        "cd01",
+        "cd02",
+        "cd03",
+        "cd04",
+        "cd05",
+        "cd06",
+        "bang-tra-cuu"
+      ],
+      "terms": 117,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ 6 Chủ đề (22 Bài học gồm cả hai nhánh 9a–13a và 9b–13b ở Chủ đề 4) và Bảng giải thích thuật ngữ cuối sách (117 thuật ngữ: 78 in_source, 39 [mô tả], 10 ghi chú nguồn đóng; 114 hình minh hoạ): lấy mẫu phân tầng 30 mục (10 in_source, 10 [mô tả], 10 hình minh hoạ, seed 20261121) đối chiếu trực tiếp ảnh trang PDF gốc khớp 100% (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-21: Hoàn thành 100% tin_hoc_9 từ Cổng 0 đến Cổng 4 (22 Bài học, Bảng giải thích thuật ngữ, 114 hình minh hoạ, 6 từ điển với 117 thuật ngữ, 0% lỗi)."
+}

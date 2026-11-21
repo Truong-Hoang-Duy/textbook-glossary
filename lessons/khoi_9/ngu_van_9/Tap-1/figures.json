@@ -1,0 +1,76 @@
+{
+  "H9-ngu_van-b01-01": {
+    "pdf_page": 17,
+    "bbox": [
+      75,
+      144,
+      505,
+      308
+    ]
+  },
+  "H9-ngu_van-b01-02": {
+    "pdf_page": 23,
+    "bbox": [
+      257,
+      142,
+      509,
+      368
+    ]
+  },
+  "H9-ngu_van-b03-01": {
+    "pdf_page": 70,
+    "bbox": [
+      338,
+      100,
+      528,
+      282
+    ]
+  },
+  "H9-ngu_van-b03-02": {
+    "pdf_page": 72,
+    "bbox": [
+      402,
+      260,
+      517,
+      444
+    ]
+  },
+  "H9-ngu_van-b03-03": {
+    "pdf_page": 75,
+    "bbox": [
+      315,
+      442,
+      509,
+      570
+    ]
+  },
+  "H9-ngu_van-b04-01": {
+    "pdf_page": 105,
+    "bbox": [
+      331,
+      250,
+      506,
+      404
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Tranh minh hoạ lồng sát câu thơ bên trái (dấu ngoặc kép cuối dòng thơ 4 vươn tới x=326 trong khi tua võng vươn tới x=317), không có khung chữ nhật nào lấy hết đầu tua võng mà không dính chữ câu thơ"
+  },
+  "H9-ngu_van-b05-01": {
+    "pdf_page": 122,
+    "bbox": [
+      351,
+      323,
+      525,
+      550
+    ]
+  },
+  "H9-ngu_van-b05-02": {
+    "pdf_page": 129,
+    "bbox": [
+      130,
+      166,
+      430,
+      362
+    ]
+  }
+}

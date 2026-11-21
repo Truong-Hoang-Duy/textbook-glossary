@@ -1,0 +1,116 @@
+{
+  "H9-toan-b22-01": {
+    "pdf_page": 34,
+    "bbox": [368, 634, 551, 795]
+  },
+  "H9-toan-b22-02": {
+    "pdf_page": 36,
+    "bbox": [93, 401, 304, 580]
+  },
+  "H9-toan-b22-03": {
+    "pdf_page": 36,
+    "bbox": [315, 401, 528, 580]
+  },
+  "H9-toan-b22-04": {
+    "pdf_page": 37,
+    "bbox": [197, 362, 400, 508]
+  },
+  "H9-toan-b22-05": {
+    "pdf_page": 37,
+    "bbox": [92, 585, 286, 732]
+  },
+  "H9-toan-b22-06": {
+    "pdf_page": 37,
+    "bbox": [296, 585, 498, 732]
+  },
+  "H9-toan-b22-07": {
+    "pdf_page": 38,
+    "bbox": [161, 301, 434, 496]
+  },
+  "H9-toan-b22-08": {
+    "pdf_page": 39,
+    "bbox": [68, 111, 529, 186],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Dòng chú thích biểu đồ tranh nằm sát dòng câu hỏi Lập bảng tần số ngay bên dưới (khoảng hở dưới 1 pt)"
+  },
+  "H9-toan-b22-09": {
+    "pdf_page": 39,
+    "bbox": [56, 243, 301, 412]
+  },
+  "H9-toan-b22-10": {
+    "pdf_page": 39,
+    "bbox": [306, 244, 530, 414]
+  },
+  "H9-toan-b23-01": {
+    "pdf_page": 41,
+    "bbox": [75, 460, 236, 512]
+  },
+  "H9-toan-b23-02": {
+    "pdf_page": 41,
+    "bbox": [396, 392, 507, 503]
+  },
+  "H9-toan-b23-03": {
+    "pdf_page": 42,
+    "bbox": [86, 90, 306, 275]
+  },
+  "H9-toan-b23-04": {
+    "pdf_page": 42,
+    "bbox": [315, 90, 515, 275]
+  },
+  "H9-toan-b23-05": {
+    "pdf_page": 43,
+    "bbox": [83, 123, 215, 280]
+  },
+  "H9-toan-b23-06": {
+    "pdf_page": 43,
+    "bbox": [236, 102, 500, 280]
+  },
+  "H9-toan-b23-07": {
+    "pdf_page": 43,
+    "bbox": [345, 506, 531, 688]
+  },
+  "H9-toan-b23-08": {
+    "pdf_page": 44,
+    "bbox": [144, 164, 444, 260]
+  },
+  "H9-toan-ltc-c07-01-01": {
+    "pdf_page": 45,
+    "bbox": [107, 528, 474, 737]
+  },
+  "H9-toan-ltc-c07-01-02": {
+    "pdf_page": 46,
+    "bbox": [306, 389, 543, 579]
+  },
+  "H9-toan-ltc-c07-01-03": {
+    "pdf_page": 47,
+    "bbox": [133, 315, 442, 492]
+  },
+  "H9-toan-b24-01": {
+    "pdf_page": 48,
+    "bbox": [391, 228, 560, 348]
+  },
+  "H9-toan-b24-02": {
+    "pdf_page": 51,
+    "bbox": [105, 225, 515, 436]
+  },
+  "H9-toan-b24-03": {
+    "pdf_page": 52,
+    "bbox": [185, 256, 425, 417]
+  },
+  "H9-toan-b24-04": {
+    "pdf_page": 52,
+    "bbox": [166, 448, 445, 609]
+  },
+  "H9-toan-b24-05": {
+    "pdf_page": 53,
+    "bbox": [150, 593, 447, 725]
+  },
+  "H9-toan-b24-06": {
+    "pdf_page": 54,
+    "bbox": [160, 120, 460, 292]
+  },
+  "H9-toan-bt-c07-01": {
+    "pdf_page": 56,
+    "bbox": [190, 569, 420, 730]
+  }
+}

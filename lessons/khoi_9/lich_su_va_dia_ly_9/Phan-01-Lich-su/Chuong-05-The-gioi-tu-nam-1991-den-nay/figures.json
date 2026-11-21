@@ -1,0 +1,62 @@
+{
+  "H9-lich_su_va_dia_ly-ls-b18-01": {
+    "pdf_page": 95,
+    "bbox": [284, 323, 483, 487],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên phải khung chạm kí hiệu kết thúc phần Mở đầu (hai vạch cam) đặt sát chú thích Hình 18.1"
+  },
+  "H9-lich_su_va_dia_ly-ls-b18-02": {
+    "pdf_page": 96,
+    "bbox": [256, 58, 484, 193]
+  },
+  "H9-lich_su_va_dia_ly-ls-b18-03": {
+    "pdf_page": 96,
+    "bbox": [53, 558, 488, 661]
+  },
+  "H9-lich_su_va_dia_ly-ls-b18-04": {
+    "pdf_page": 97,
+    "bbox": [242, 252, 489, 405]
+  },
+  "H9-lich_su_va_dia_ly-ls-b19-01": {
+    "pdf_page": 98,
+    "bbox": [361, 285, 482, 399],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên phải khung chạm kí hiệu kết thúc phần Mở đầu (hai vạch cam) đặt sát Hình 19.1"
+  },
+  "H9-lich_su_va_dia_ly-ls-b19-02": {
+    "pdf_page": 98,
+    "bbox": [231, 479, 488, 699]
+  },
+  "H9-lich_su_va_dia_ly-ls-b19-03": {
+    "pdf_page": 99,
+    "bbox": [237, 58, 493, 238]
+  },
+  "H9-lich_su_va_dia_ly-ls-b19-04": {
+    "pdf_page": 99,
+    "bbox": [230, 504, 492, 690]
+  },
+  "H9-lich_su_va_dia_ly-ls-b19-05": {
+    "pdf_page": 100,
+    "bbox": [54, 48, 440, 187]
+  },
+  "H9-lich_su_va_dia_ly-ls-b19-06": {
+    "pdf_page": 100,
+    "bbox": [229, 248, 487, 421]
+  },
+  "H9-lich_su_va_dia_ly-ls-b19-07": {
+    "pdf_page": 100,
+    "bbox": [270, 497, 488, 648]
+  },
+  "H9-lich_su_va_dia_ly-ls-b19-08": {
+    "pdf_page": 101,
+    "bbox": [234, 145, 489, 364]
+  },
+  "H9-lich_su_va_dia_ly-ls-b19-09": {
+    "pdf_page": 102,
+    "bbox": [57, 60, 494, 272]
+  },
+  "H9-lich_su_va_dia_ly-ls-b19-10": {
+    "pdf_page": 102,
+    "bbox": [249, 280, 487, 436]
+  }
+}

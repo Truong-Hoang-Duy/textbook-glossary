@@ -1,0 +1,497 @@
+{
+  "unit": "tieng_anh_9",
+  "subject": "tieng_anh",
+  "subject_name": "Tiếng Anh",
+  "grade": 9,
+  "files": [
+    {
+      "file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+      "volume": null,
+      "page_count": 139,
+      "printed_offset": -1
+    }
+  ],
+  "toc": [
+    {
+      "id": "contents",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Contents",
+      "file": null,
+      "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+      "pdf_pages": [
+        2,
+        2
+      ],
+      "printed_offset": 0,
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "printed_offset": 0,
+      "status": "skip"
+    },
+    {
+      "id": "book-map",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Book Map",
+      "file": null,
+      "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        6
+      ],
+      "printed_offset": 0,
+      "status": "skip"
+    },
+    {
+      "id": "unit-01",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 1",
+      "number": 1,
+      "title": "Local community",
+      "dir": "Unit-01-Local-community",
+      "children": [
+        {
+          "id": "u01",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 1",
+          "number": 1,
+          "title": "Local community",
+          "lesson_type": "ly_thuyet",
+          "file": "U01-Local-community.md",
+          "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            7,
+            16
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-02",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 2",
+      "number": 2,
+      "title": "City life",
+      "dir": "Unit-02-City-life",
+      "children": [
+        {
+          "id": "u02",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 2",
+          "number": 2,
+          "title": "City life",
+          "lesson_type": "ly_thuyet",
+          "file": "U02-City-life.md",
+          "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            17,
+            26
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-03",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 3",
+      "number": 3,
+      "title": "Healthy living for teens",
+      "dir": "Unit-03-Healthy-living-for-teens",
+      "children": [
+        {
+          "id": "u03",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 3",
+          "number": 3,
+          "title": "Healthy living for teens",
+          "lesson_type": "ly_thuyet",
+          "file": "U03-Healthy-living-for-teens.md",
+          "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            27,
+            36
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r01",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 1,
+          "title": "Review 1",
+          "lesson_type": "on_tap",
+          "file": "R01-Review-1.md",
+          "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            37,
+            38
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-04",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 4",
+      "number": 4,
+      "title": "Remembering the past",
+      "dir": "Unit-04-Remembering-the-past",
+      "children": [
+        {
+          "id": "u04",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 4",
+          "number": 4,
+          "title": "Remembering the past",
+          "lesson_type": "ly_thuyet",
+          "file": "U04-Remembering-the-past.md",
+          "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            39,
+            48
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-05",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 5",
+      "number": 5,
+      "title": "Our experiences",
+      "dir": "Unit-05-Our-experiences",
+      "children": [
+        {
+          "id": "u05",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 5",
+          "number": 5,
+          "title": "Our experiences",
+          "lesson_type": "ly_thuyet",
+          "file": "U05-Our-experiences.md",
+          "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            49,
+            58
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-06",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 6",
+      "number": 6,
+      "title": "Vietnamese lifestyle: then and now",
+      "dir": "Unit-06-Vietnamese-lifestyle-then-and-now",
+      "children": [
+        {
+          "id": "u06",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 6",
+          "number": 6,
+          "title": "Vietnamese lifestyle: then and now",
+          "lesson_type": "ly_thuyet",
+          "file": "U06-Vietnamese-lifestyle-then-and-now.md",
+          "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            59,
+            68
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r02",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 2,
+          "title": "Review 2",
+          "lesson_type": "on_tap",
+          "file": "R02-Review-2.md",
+          "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            69,
+            70
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-07",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 7",
+      "number": 7,
+      "title": "Natural wonders of the world",
+      "dir": "Unit-07-Natural-wonders-of-the-world",
+      "children": [
+        {
+          "id": "u07",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 7",
+          "number": 7,
+          "title": "Natural wonders of the world",
+          "lesson_type": "ly_thuyet",
+          "file": "U07-Natural-wonders-of-the-world.md",
+          "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            71,
+            80
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-08",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 8",
+      "number": 8,
+      "title": "Tourism",
+      "dir": "Unit-08-Tourism",
+      "children": [
+        {
+          "id": "u08",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 8",
+          "number": 8,
+          "title": "Tourism",
+          "lesson_type": "ly_thuyet",
+          "file": "U08-Tourism.md",
+          "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            81,
+            90
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-09",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 9",
+      "number": 9,
+      "title": "World Englishes",
+      "dir": "Unit-09-World-Englishes",
+      "children": [
+        {
+          "id": "u09",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 9",
+          "number": 9,
+          "title": "World Englishes",
+          "lesson_type": "ly_thuyet",
+          "file": "U09-World-Englishes.md",
+          "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            91,
+            100
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r03",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 3,
+          "title": "Review 3",
+          "lesson_type": "on_tap",
+          "file": "R03-Review-3.md",
+          "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            101,
+            102
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-10",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 10",
+      "number": 10,
+      "title": "Planet Earth",
+      "dir": "Unit-10-Planet-Earth",
+      "children": [
+        {
+          "id": "u10",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 10",
+          "number": 10,
+          "title": "Planet Earth",
+          "lesson_type": "ly_thuyet",
+          "file": "U10-Planet-Earth.md",
+          "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            103,
+            112
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-11",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 11",
+      "number": 11,
+      "title": "Electronic devices",
+      "dir": "Unit-11-Electronic-devices",
+      "children": [
+        {
+          "id": "u11",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 11",
+          "number": 11,
+          "title": "Electronic devices",
+          "lesson_type": "ly_thuyet",
+          "file": "U11-Electronic-devices.md",
+          "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            113,
+            122
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-12",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 12",
+      "number": 12,
+      "title": "Career choices",
+      "dir": "Unit-12-Career-choices",
+      "children": [
+        {
+          "id": "u12",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 12",
+          "number": 12,
+          "title": "Career choices",
+          "lesson_type": "ly_thuyet",
+          "file": "U12-Career-choices.md",
+          "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            123,
+            132
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r04",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 4,
+          "title": "Review 4",
+          "lesson_type": "on_tap",
+          "file": "R04-Review-4.md",
+          "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            133,
+            134
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Glossary",
+      "file": "Glossary.md",
+      "source_file": "SGK Tieng Anh 9 Global Success - KNTT.pdf",
+      "pdf_pages": [
+        135,
+        138
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Tiếng Anh 9 – Global Success gồm 12 Unit (Unit 1–12), 4 bài Review (Review 1–4) và bảng Glossary cuối sách (trang in 136–139, PDF 135–138).",
+    "Do bản quét PDF khuyết 1 trang ở phần Book Map đầu sách nên từ Unit 1 (trang in 8 = PDF 7) đến hết Glossary (trang in 139 = PDF 138), độ lệch trang cố định là printed_offset = -1 (trang in = trang PDF + 1)."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-21",
+      "scope": [
+        "unit-01",
+        "unit-02",
+        "unit-03",
+        "unit-04",
+        "unit-05",
+        "unit-06",
+        "unit-07",
+        "unit-08",
+        "unit-09",
+        "unit-10",
+        "unit-11",
+        "unit-12",
+        "glossary"
+      ],
+      "terms": 346,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ Unit 1–12, Review 1–4 và Glossary cuối sách (346 thuật ngữ: 266 in_source, 80 [mô tả], 5 ghi chú nguồn đóng; 35 hình minh hoạ): lấy mẫu phân tầng 30 mục (10 in_source, 10 [mô tả], 10 hình minh hoạ, seed 20261121) đối chiếu trực tiếp ảnh trang PDF gốc (printed_offset = -1 xuyên suốt), sạch hoàn toàn mã QR và watermark (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-21: Hoàn thành 100% tieng_anh_9 từ Cổng 0 đến Cổng 4 (16 Bài học, Glossary cuối sách, 35 hình minh hoạ, 12 từ điển với 346 thuật ngữ, 0% lỗi)."
+}

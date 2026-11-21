@@ -1,0 +1,36 @@
+{
+  "H11-tieng_anh-u10-01": {
+    "pdf_page": 112,
+    "bbox": [40, 426, 275, 568]
+  },
+  "H11-tieng_anh-u10-02": {
+    "pdf_page": 114,
+    "bbox": [299, 293, 442, 419],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh rừng ngập mặn U Minh Thượng nằm đè lên dải sóng màu xanh nhạt trang trí của trang"
+  },
+  "H11-tieng_anh-u10-03": {
+    "pdf_page": 114,
+    "bbox": [431, 226, 554, 349],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh tê tê Sunda U Minh Thượng nằm đè lên dải sóng màu xanh nhạt trang trí của trang và góc trên trái chạm nhẹ mép khung ảnh rừng ngập mặn"
+  },
+  "H11-tieng_anh-u10-04": {
+    "pdf_page": 116,
+    "bbox": [409, 94, 571, 358],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trái (x=405) sát ngay bên phải dấu chấm câu 'A, B, or C.', cạnh phải ảnh rạn san hô tràn sát lề phải trang"
+  },
+  "H11-tieng_anh-u10-05": {
+    "pdf_page": 118,
+    "bbox": [351, 444, 537, 569]
+  },
+  "H11-tieng_anh-r04-01": {
+    "pdf_page": 121,
+    "bbox": [64, 412, 532, 764]
+  },
+  "H11-tieng_anh-r04-02": {
+    "pdf_page": 122,
+    "bbox": [56, 62, 282, 472]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "H9-toan-b04-01": {
+    "pdf_page": 28,
+    "bbox": [426, 598, 550, 749]
+  },
+  "H9-toan-b04-02": {
+    "pdf_page": 32,
+    "bbox": [255, 308, 416, 448]
+  },
+  "H9-toan-b05-01": {
+    "pdf_page": 33,
+    "bbox": [361, 289, 523, 448]
+  },
+  "H9-toan-b05-02": {
+    "pdf_page": 33,
+    "bbox": [177, 714, 424, 745]
+  },
+  "H9-toan-b05-03": {
+    "pdf_page": 34,
+    "bbox": [400, 182, 525, 268]
+  },
+  "H9-toan-b05-04": {
+    "pdf_page": 35,
+    "bbox": [191, 127, 437, 152]
+  },
+  "H9-toan-bt-c02-01": {
+    "pdf_page": 45,
+    "bbox": [88, 498, 192, 629],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Chân dung Cauchy nằm trên nền màu xanh đậm của khung Em có biết? (saturation > 50)"
+  }
+}

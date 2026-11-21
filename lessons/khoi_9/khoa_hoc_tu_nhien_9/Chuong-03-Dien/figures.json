@@ -1,0 +1,56 @@
+{
+  "H9-khoa_hoc_tu_nhien-b11-01": {
+    "pdf_page": 55,
+    "bbox": [398, 374, 518, 460]
+  },
+  "H9-khoa_hoc_tu_nhien-b11-02": {
+    "pdf_page": 55,
+    "bbox": [375, 540, 532, 674]
+  },
+  "H9-khoa_hoc_tu_nhien-b11-03": {
+    "pdf_page": 57,
+    "bbox": [306, 194, 534, 382],
+    "allow_edge_ink": true,
+    "edge_ink_note": "nhãn Hình 11.2 bên dưới nhô sang trái quá lề phải đoạn văn mục II.2 ở phía trên"
+  },
+  "H9-khoa_hoc_tu_nhien-b11-04": {
+    "pdf_page": 58,
+    "bbox": [381, 541, 528, 756]
+  },
+  "H9-khoa_hoc_tu_nhien-b11-05": {
+    "pdf_page": 60,
+    "bbox": [71, 517, 519, 768]
+  },
+  "H9-khoa_hoc_tu_nhien-b11-06": {
+    "pdf_page": 61,
+    "bbox": [81, 70, 529, 294]
+  },
+  "H9-khoa_hoc_tu_nhien-b11-07": {
+    "pdf_page": 61,
+    "bbox": [226, 458, 425, 622]
+  },
+  "H9-khoa_hoc_tu_nhien-b12-01": {
+    "pdf_page": 62,
+    "bbox": [94, 634, 496, 784]
+  },
+  "H9-khoa_hoc_tu_nhien-b12-02": {
+    "pdf_page": 63,
+    "bbox": [378, 110, 534, 249]
+  },
+  "H9-khoa_hoc_tu_nhien-b12-03": {
+    "pdf_page": 63,
+    "bbox": [268, 626, 544, 786]
+  },
+  "H9-khoa_hoc_tu_nhien-b12-04": {
+    "pdf_page": 64,
+    "bbox": [310, 276, 522, 422]
+  },
+  "H9-khoa_hoc_tu_nhien-b13-01": {
+    "pdf_page": 67,
+    "bbox": [405, 354, 541, 467]
+  },
+  "H9-khoa_hoc_tu_nhien-b13-02": {
+    "pdf_page": 68,
+    "bbox": [236, 442, 522, 664]
+  }
+}

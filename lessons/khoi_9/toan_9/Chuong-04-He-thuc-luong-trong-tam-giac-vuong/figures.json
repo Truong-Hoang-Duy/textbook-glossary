@@ -1,0 +1,170 @@
+{
+  "H9-toan-b11-01": {
+    "pdf_page": 68,
+    "bbox": [347, 633, 558, 694]
+  },
+  "H9-toan-b11-02": {
+    "pdf_page": 69,
+    "bbox": [172, 143, 260, 290]
+  },
+  "H9-toan-b11-03": {
+    "pdf_page": 69,
+    "bbox": [327, 149, 437, 289]
+  },
+  "H9-toan-b11-04": {
+    "pdf_page": 69,
+    "bbox": [237, 587, 354, 727]
+  },
+  "H9-toan-b11-05": {
+    "pdf_page": 70,
+    "bbox": [433, 97, 526, 253]
+  },
+  "H9-toan-b11-06": {
+    "pdf_page": 70,
+    "bbox": [424, 405, 527, 528],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trái khung chữ nhật chạm dấu chấm cuối cụm '(H.4.6).' của Ví dụ 1 do đỉnh B nhô sang trái ở phía dưới dòng chữ"
+  },
+  "H9-toan-b11-07": {
+    "pdf_page": 71,
+    "bbox": [359, 120, 520, 217]
+  },
+  "H9-toan-b11-08": {
+    "pdf_page": 71,
+    "bbox": [385, 244, 522, 376]
+  },
+  "H9-toan-b11-09": {
+    "pdf_page": 71,
+    "bbox": [398, 578, 520, 660]
+  },
+  "H9-toan-b11-10": {
+    "pdf_page": 72,
+    "bbox": [404, 189, 517, 263]
+  },
+  "H9-toan-b11-11": {
+    "pdf_page": 74,
+    "bbox": [391, 455, 531, 593]
+  },
+  "H9-toan-b11-12": {
+    "pdf_page": 75,
+    "bbox": [426, 530, 522, 623]
+  },
+  "H9-toan-b12-01": {
+    "pdf_page": 76,
+    "bbox": [193, 324, 516, 478]
+  },
+  "H9-toan-b12-02": {
+    "pdf_page": 76,
+    "bbox": [401, 560, 530, 644]
+  },
+  "H9-toan-b12-03": {
+    "pdf_page": 77,
+    "bbox": [349, 74, 517, 194]
+  },
+  "H9-toan-b12-04": {
+    "pdf_page": 77,
+    "bbox": [401, 338, 511, 463]
+  },
+  "H9-toan-b12-05": {
+    "pdf_page": 77,
+    "bbox": [414, 476, 506, 589]
+  },
+  "H9-toan-b12-06": {
+    "pdf_page": 77,
+    "bbox": [392, 638, 521, 723]
+  },
+  "H9-toan-b12-07": {
+    "pdf_page": 78,
+    "bbox": [364, 189, 510, 322]
+  },
+  "H9-toan-b12-08": {
+    "pdf_page": 78,
+    "bbox": [374, 398, 509, 530]
+  },
+  "H9-toan-b12-09": {
+    "pdf_page": 78,
+    "bbox": [451, 579, 530, 711]
+  },
+  "H9-toan-b12-10": {
+    "pdf_page": 79,
+    "bbox": [421, 260, 519, 380]
+  },
+  "H9-toan-b12-11": {
+    "pdf_page": 79,
+    "bbox": [416, 566, 518, 680]
+  },
+  "H9-toan-b12-12": {
+    "pdf_page": 80,
+    "bbox": [62, 187, 211, 323]
+  },
+  "H9-toan-b12-13": {
+    "pdf_page": 80,
+    "bbox": [246, 190, 519, 323]
+  },
+  "H9-toan-b12-14": {
+    "pdf_page": 80,
+    "bbox": [178, 529, 412, 713]
+  },
+  "H9-toan-ltc-c04-01-01": {
+    "pdf_page": 81,
+    "bbox": [383, 128, 525, 208]
+  },
+  "H9-toan-ltc-c04-01-02": {
+    "pdf_page": 81,
+    "bbox": [377, 395, 520, 497],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên trái khung chữ nhật chạm chữ cuối câu b Ví dụ 2 ('nhất).') do dòng chữ kéo dài sang phải bên dưới điểm I của Hình 4.26"
+  },
+  "H9-toan-ltc-c04-01-03": {
+    "pdf_page": 82,
+    "bbox": [407, 196, 535, 300]
+  },
+  "H9-toan-ltc-c04-01-04": {
+    "pdf_page": 82,
+    "bbox": [77, 312, 511, 434],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trên bên trái đi qua dòng cuối đề bài 4.17 ('thập phân thứ nhất.') do hình d cao hơn các hình a, b, c; cạnh dưới bên phải chạm ngọn cây của Hình 4.29"
+  },
+  "H9-toan-ltc-c04-01-05": {
+    "pdf_page": 82,
+    "bbox": [396, 429, 520, 514]
+  },
+  "H9-toan-ltc-c04-01-06": {
+    "pdf_page": 82,
+    "bbox": [399, 539, 535, 632]
+  },
+  "H9-toan-ltc-c04-01-07": {
+    "pdf_page": 82,
+    "bbox": [413, 645, 535, 730]
+  },
+  "H9-toan-bt-c04-01": {
+    "pdf_page": 83,
+    "bbox": [361, 154, 503, 248]
+  },
+  "H9-toan-bt-c04-02": {
+    "pdf_page": 83,
+    "bbox": [411, 286, 517, 371]
+  },
+  "H9-toan-bt-c04-03": {
+    "pdf_page": 83,
+    "bbox": [414, 378, 517, 460]
+  },
+  "H9-toan-bt-c04-04": {
+    "pdf_page": 83,
+    "bbox": [88, 639, 499, 759],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Cạnh trên bên trái đi qua chân chữ dòng cuối đề bài 4.27 ('tròn kết quả đến phút).') do đỉnh lều nhô cao ở giữa trang"
+  },
+  "H9-toan-bt-c04-05": {
+    "pdf_page": 84,
+    "bbox": [144, 155, 451, 295]
+  },
+  "H9-toan-bt-c04-06": {
+    "pdf_page": 84,
+    "bbox": [449, 286, 523, 404]
+  },
+  "H9-toan-bt-c04-07": {
+    "pdf_page": 84,
+    "bbox": [364, 434, 529, 609]
+  }
+}

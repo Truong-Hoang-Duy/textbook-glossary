@@ -1,0 +1,40 @@
+{
+  "H9-khoa_hoc_tu_nhien-b26-01": {
+    "pdf_page": 120,
+    "bbox": [144, 609, 456, 771]
+  },
+  "H9-khoa_hoc_tu_nhien-b26-02": {
+    "pdf_page": 121,
+    "bbox": [188, 105, 435, 178]
+  },
+  "H9-khoa_hoc_tu_nhien-b26-03": {
+    "pdf_page": 121,
+    "bbox": [464, 203, 535, 340]
+  },
+  "H9-khoa_hoc_tu_nhien-b26-04": {
+    "pdf_page": 122,
+    "bbox": [382, 212, 530, 421]
+  },
+  "H9-khoa_hoc_tu_nhien-b26-05": {
+    "pdf_page": 123,
+    "bbox": [54, 330, 529, 610],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đầu vòi bình xịt cồn ở giữa nhô cao ngang dòng chữ 'đời sống (Hình 26.5).' phía trên bên trái"
+  },
+  "H9-khoa_hoc_tu_nhien-b27-01": {
+    "pdf_page": 125,
+    "bbox": [148, 471, 470, 620]
+  },
+  "H9-khoa_hoc_tu_nhien-b27-02": {
+    "pdf_page": 125,
+    "bbox": [320, 630, 542, 713]
+  },
+  "H9-khoa_hoc_tu_nhien-b27-03": {
+    "pdf_page": 126,
+    "bbox": [114, 130, 454, 266]
+  },
+  "H9-khoa_hoc_tu_nhien-b27-04": {
+    "pdf_page": 128,
+    "bbox": [51, 433, 518, 718]
+  }
+}

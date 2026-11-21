@@ -1,0 +1,54 @@
+{
+  "H9-khoa_hoc_tu_nhien-b18-01": {
+    "pdf_page": 90,
+    "bbox": [95, 75, 526, 300]
+  },
+  "H9-khoa_hoc_tu_nhien-b18-02": {
+    "pdf_page": 90,
+    "bbox": [381, 499, 541, 704]
+  },
+  "H9-khoa_hoc_tu_nhien-b18-03": {
+    "pdf_page": 91,
+    "bbox": [113, 293, 493, 470]
+  },
+  "H9-khoa_hoc_tu_nhien-b18-04": {
+    "pdf_page": 91,
+    "bbox": [124, 543, 480, 726]
+  },
+  "H9-khoa_hoc_tu_nhien-b18-05": {
+    "pdf_page": 92,
+    "bbox": [83, 250, 483, 370]
+  },
+  "H9-khoa_hoc_tu_nhien-b19-01": {
+    "pdf_page": 94,
+    "bbox": [394, 544, 530, 748]
+  },
+  "H9-khoa_hoc_tu_nhien-b19-02": {
+    "pdf_page": 95,
+    "bbox": [133, 133, 436, 321]
+  },
+  "H9-khoa_hoc_tu_nhien-b20-01": {
+    "pdf_page": 98,
+    "bbox": [130, 197, 502, 369]
+  },
+  "H9-khoa_hoc_tu_nhien-b20-02": {
+    "pdf_page": 100,
+    "bbox": [380, 131, 558, 465]
+  },
+  "H9-khoa_hoc_tu_nhien-b20-03": {
+    "pdf_page": 100,
+    "bbox": [211, 626, 419, 801],
+    "allow_edge_ink": true,
+    "edge_ink_note": "đỉnh lò thổi màu cam nhô cao sát chân chữ dòng văn bản mục III.2 phía trên"
+  },
+  "H9-khoa_hoc_tu_nhien-b21-01": {
+    "pdf_page": 102,
+    "bbox": [319, 466, 479, 755]
+  },
+  "H9-khoa_hoc_tu_nhien-b21-02": {
+    "pdf_page": 103,
+    "bbox": [77, 99, 550, 353],
+    "allow_edge_ink": true,
+    "edge_ink_note": "biểu tượng ống nhòm của hộp Lưu hoá cao su phía dưới nhô cao ngang cạnh dưới nhãn Hình 21.2"
+  }
+}

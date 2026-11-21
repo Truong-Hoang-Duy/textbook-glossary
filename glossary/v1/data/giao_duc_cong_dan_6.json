@@ -1,0 +1,2225 @@
+{
+  "meta": {
+    "schema_version": "2.3",
+    "unit": "giao_duc_cong_dan_6",
+    "subject": "giao_duc_cong_dan",
+    "profile": "giao_duc_cong_dan",
+    "subject_name": "Giáo dục công dân",
+    "grade": 6,
+    "generated_at": "2026-11-21",
+    "counts": {
+      "lessons": 12,
+      "terms": 70,
+      "terms_described": 31,
+      "terms_out_of_source": 4,
+      "open_notes": 0
+    }
+  },
+  "source": {
+    "book_type": "sgk",
+    "series": "Kết nối tri thức với cuộc sống",
+    "publisher": "NXB Giáo dục Việt Nam",
+    "files": [
+      {
+        "file": "SGK Giao duc cong dan 6 KNTT.pdf",
+        "volume": null,
+        "page_count": 61,
+        "printed_offset": 1
+      }
+    ]
+  },
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "printed_pages": [
+        2,
+        2
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "printed_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "printed_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "p01",
+      "role": "group",
+      "kind": "phan",
+      "label": null,
+      "number": null,
+      "title": "Nội dung bài học",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Tự hào về truyền thống gia đình, dòng họ",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B01-Tu-hao-ve-truyen-thong-gia-dinh-dong-ho.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            6,
+            9
+          ],
+          "printed_pages": [
+            5,
+            8
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này, học sinh có thể:",
+            "items": [
+              "Nêu được một số truyền thống của gia đình, dòng họ.",
+              "Giải thích được một cách đơn giản ý nghĩa của truyền thống gia đình, dòng họ.",
+              "Biết giữ gìn, phát huy truyền thống gia đình, dòng họ bằng những việc làm cụ thể phù hợp."
+            ],
+            "pdf_page": 6
+          },
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Yêu thương con người",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B02-Yeu-thuong-con-nguoi.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            10,
+            13
+          ],
+          "printed_pages": [
+            9,
+            12
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này, học sinh có thể:",
+            "items": [
+              "Nêu được khái niệm và biểu hiện của tình yêu thương con người.",
+              "Trình bày được giá trị của tình yêu thương con người.",
+              "Thực hiện được những việc làm thể hiện tình yêu thương con người.",
+              "Đánh giá được thái độ, hành vi thể hiện tình yêu thương của người khác.",
+              "Phê phán những biểu hiện trái với tình yêu thương con người."
+            ],
+            "pdf_page": 10
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H6-giao_duc_cong_dan-b02-01",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b02-01.png",
+              "caption": "Chia sẻ cùng miền Trung",
+              "pdf_page": 10
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b02-02",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b02-02.png",
+              "caption": "Bé Nguyễn Hải An",
+              "pdf_page": 11
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b02-03",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b02-03.png",
+              "caption": "Hình 1: Con chăm sóc, nấu cháo cho mẹ bị ốm",
+              "pdf_page": 11
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b02-04",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b02-04.png",
+              "caption": "Hình 2: Thầy giáo tặng tập vở cho học sinh có hoàn cảnh khó khăn",
+              "pdf_page": 12
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b02-05",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b02-05.png",
+              "caption": "Hình 3: Quyên góp ủng hộ người có hoàn cảnh khó khăn",
+              "pdf_page": 12
+            }
+          ]
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Siêng năng, kiên trì",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B03-Sieng-nang-kien-tri.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            14,
+            17
+          ],
+          "printed_pages": [
+            13,
+            16
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này, học sinh có thể:",
+            "items": [
+              "Nêu được khái niệm, biểu hiện của siêng năng, kiên trì.",
+              "Nhận biết được ý nghĩa của siêng năng, kiên trì.",
+              "Siêng năng, kiên trì trong lao động, học tập và cuộc sống hằng ngày.",
+              "Đánh giá được sự siêng năng, kiên trì của bản thân và người khác trong học tập, lao động.",
+              "Quý trọng những người siêng năng, kiên trì; góp ý cho những bạn có biểu hiện lười biếng hay nản lòng để khắc phục hạn chế này."
+            ],
+            "pdf_page": 14
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H6-giao_duc_cong_dan-b03-01",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b03-01.png",
+              "caption": "Tranh 1–4: Biểu hiện của siêng năng, kiên trì",
+              "pdf_page": 15
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b03-02",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b03-02.png",
+              "caption": "Tranh 2: Bạn Nam tập luyện để trở thành thủ môn giỏi",
+              "pdf_page": 17
+            }
+          ]
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Tôn trọng sự thật",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B04-Ton-trong-su-that.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            18,
+            22
+          ],
+          "printed_pages": [
+            17,
+            21
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này, học sinh có thể:",
+            "items": [
+              "Nhận biết được một số biểu hiện của tôn trọng sự thật.",
+              "Hiểu vì sao phải tôn trọng sự thật.",
+              "Luôn nói thật với người thân, thầy cô, bạn bè và người có trách nhiệm.",
+              "Không đồng tình với việc nói dối hoặc che giấu sự thật."
+            ],
+            "pdf_page": 18
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H6-giao_duc_cong_dan-b04-01",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b04-01.png",
+              "caption": "Tranh 1–3: Biểu hiện của tôn trọng sự thật",
+              "pdf_page": 19
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b04-02",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b04-02.png",
+              "caption": "Tranh tình huống 1: Vũ báo chú phụ xe khi thấy kẻ móc túi trên xe buýt",
+              "pdf_page": 20
+            }
+          ]
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Tự lập",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B05-Tu-lap.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            23,
+            26
+          ],
+          "printed_pages": [
+            22,
+            25
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này, học sinh có thể:",
+            "items": [
+              "Nêu được khái niệm tự lập.",
+              "Liệt kê được các biểu hiện của người có tính tự lập.",
+              "Hiểu vì sao phải tự lập.",
+              "Đánh giá được khả năng tự lập của bản thân và người khác.",
+              "Tự thực hiện được nhiệm vụ của bản thân trong học tập, sinh hoạt hằng ngày, hoạt động tập thể ở trường và trong cuộc sống cộng đồng; không dựa dẫm, ỷ lại và phụ thuộc vào người khác."
+            ],
+            "pdf_page": 23
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H6-giao_duc_cong_dan-b05-01",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b05-01.png",
+              "caption": "Ô chữ mẫu",
+              "pdf_page": 23
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b05-02",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b05-02.png",
+              "caption": "Tranh 1: Tự khâu lại chỗ quần áo bị rách",
+              "pdf_page": 24
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b05-03",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b05-03.png",
+              "caption": "Tranh 2: Tự làm bài tập, không cho bạn chép bài",
+              "pdf_page": 24
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b05-04",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b05-04.png",
+              "caption": "Tranh 3: Tự nấu cơm và chủ động học bài",
+              "pdf_page": 25
+            }
+          ]
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Tự nhận thức bản thân",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B06-Tu-nhan-thuc-ban-than.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            27,
+            30
+          ],
+          "printed_pages": [
+            26,
+            29
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này, học sinh có thể:",
+            "items": [
+              "Nêu được thế nào là tự nhận thức bản thân; biết được ý nghĩa của tự nhận thức bản thân.",
+              "Tự nhận thức được điểm mạnh, điểm yếu, giá trị, vị trí, tình cảm, các mối quan hệ của bản thân.",
+              "Biết tôn trọng bản thân; xây dựng được kế hoạch phát huy điểm mạnh và hạn chế điểm yếu của bản thân."
+            ],
+            "pdf_page": 27
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H6-giao_duc_cong_dan-b06-01",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b06-01.png",
+              "caption": "Tranh 1: Huy chấp nhận tất cả những điều mà người khác nói về mình",
+              "pdf_page": 30
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b06-02",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b06-02.png",
+              "caption": "Tranh 2: Lan không bao giờ hỏi điều mình băn khoăn",
+              "pdf_page": 30
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b06-03",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b06-03.png",
+              "caption": "Tranh 3: Vy học đàn vì bố mẹ muốn, chứ không phải vì Vy thích học",
+              "pdf_page": 30
+            }
+          ]
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Ứng phó với tình huống nguy hiểm",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B07-Ung-pho-voi-tinh-huong-nguy-hiem.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            31,
+            35
+          ],
+          "printed_pages": [
+            30,
+            34
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này, học sinh có thể:",
+            "items": [
+              "Nhận biết được các tình huống nguy hiểm và hậu quả của những tình huống nguy hiểm đối với trẻ em.",
+              "Nêu được cách ứng phó với một số tình huống nguy hiểm.",
+              "Thực hành được cách ứng phó trước một số tình huống nguy hiểm để đảm bảo an toàn."
+            ],
+            "pdf_page": 31
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H6-giao_duc_cong_dan-b07-01",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b07-01.png",
+              "caption": "Các chỉ dẫn ứng phó khi phát hiện cháy nổ, hoả hoạn (hàng trên)",
+              "pdf_page": 32
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b07-02",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b07-02.png",
+              "caption": "Các chỉ dẫn thoát hiểm khi có đám cháy, hoả hoạn (hàng dưới)",
+              "pdf_page": 32
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b07-03",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b07-03.png",
+              "caption": "Tranh 1–2: Ứng phó khi gặp mưa dông, lốc, sét (ở trong nhà và tắt thiết bị điện)",
+              "pdf_page": 33
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b07-04",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b07-04.png",
+              "caption": "Tranh 3–4: Ứng phó khi gặp mưa dông, lốc, sét (tìm nơi trú ẩn an toàn)",
+              "pdf_page": 33
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b07-05",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b07-05.png",
+              "caption": "Tranh 1–4: Ứng phó khi gặp lũ quét, lũ ống, sạt lở đất",
+              "pdf_page": 34
+            }
+          ]
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Tiết kiệm",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B08-Tiet-kiem.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            36,
+            41
+          ],
+          "printed_pages": [
+            35,
+            40
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này, học sinh có thể:",
+            "items": [
+              "Nêu được khái niệm tiết kiệm và biểu hiện của tiết kiệm (tiền bạc, đồ dùng, thời gian, điện, nước,...).",
+              "Hiểu vì sao phải tiết kiệm.",
+              "Thực hành tiết kiệm trong cuộc sống, học tập.",
+              "Nhận xét, đánh giá được việc thực hành tiết kiệm của bản thân và những người xung quanh, phê phán những biểu hiện lãng phí."
+            ],
+            "pdf_page": 36
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H6-giao_duc_cong_dan-b08-01",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b08-01.png",
+              "caption": "Tranh 1–6: Các biểu hiện của tiết kiệm và chưa tiết kiệm",
+              "pdf_page": 37
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b08-02",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b08-02.png",
+              "caption": "Tranh minh hoạ cách thực hiện tiết kiệm tiền",
+              "pdf_page": 39
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b08-03",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b08-03.png",
+              "caption": "Tranh 1: Khoá vòi khi không sử dụng",
+              "pdf_page": 39
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b08-04",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b08-04.png",
+              "caption": "Tranh 2: Nhờ sửa ống nước bị rò rỉ để tiết kiệm nước",
+              "pdf_page": 39
+            }
+          ]
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B09-Cong-dan-nuoc-Cong-hoa-xa-hoi-chu-nghia-Viet-Nam.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            42,
+            45
+          ],
+          "printed_pages": [
+            41,
+            44
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này, học sinh có thể:",
+            "items": [
+              "Nêu được khái niệm công dân.",
+              "Nêu được căn cứ xác định công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam."
+            ],
+            "pdf_page": 42
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H6-giao_duc_cong_dan-b09-01",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b09-01.png",
+              "caption": "Hộ chiếu của Việt Nam, Liên bang Nga và Nhật Bản",
+              "pdf_page": 42
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b09-02",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b09-02.png",
+              "caption": "Mẫu thẻ Căn cước công dân và Thẻ bảo hiểm y tế",
+              "pdf_page": 44
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b09-03",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b09-03.png",
+              "caption": "Mẫu trang thông tin Hộ chiếu và Giấy khai sinh",
+              "pdf_page": 45
+            }
+          ]
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Quyền và nghĩa vụ cơ bản của công dân",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B10-Quyen-va-nghia-vu-co-ban-cua-cong-dan.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            46,
+            50
+          ],
+          "printed_pages": [
+            45,
+            49
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này, học sinh có thể:",
+            "items": [
+              "Nêu được quy định của Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam về quyền và nghĩa vụ cơ bản của công dân.",
+              "Thực hiện được quyền và nghĩa vụ cơ bản của công dân phù hợp với lứa tuổi."
+            ],
+            "pdf_page": 46
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H6-giao_duc_cong_dan-b10-01",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b10-01.png",
+              "caption": "Hình 1–3: Minh hoạ quyền và nghĩa vụ cơ bản của công dân",
+              "pdf_page": 47
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b10-02",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b10-02.png",
+              "caption": "Hình 4–9: Minh hoạ quyền và nghĩa vụ cơ bản của công dân",
+              "pdf_page": 48
+            }
+          ]
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Quyền cơ bản của trẻ em",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B11-Quyen-co-ban-cua-tre-em.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            51,
+            55
+          ],
+          "printed_pages": [
+            50,
+            54
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này, học sinh có thể:",
+            "items": [
+              "Nêu được các quyền cơ bản của trẻ em.",
+              "Nêu được ý nghĩa của quyền trẻ em và thực hiện quyền trẻ em."
+            ],
+            "pdf_page": 51
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H6-giao_duc_cong_dan-b11-01",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b11-01.png",
+              "caption": "Tranh minh hoạ quyền cơ bản của trẻ em",
+              "pdf_page": 51
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b11-02",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b11-02.png",
+              "caption": "Hình 2–3 (Nhóm quyền được bảo vệ): Bảo vệ trẻ em khỏi bóc lột lao động và bạo lực",
+              "pdf_page": 52
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b11-03",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b11-03.png",
+              "caption": "Hình 1 (Nhóm quyền được phát triển): Quyền được học tập",
+              "pdf_page": 53
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b11-04",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b11-04.png",
+              "caption": "Hình 2–3 (Nhóm quyền được phát triển): Quyền vui chơi giải trí và tham gia văn nghệ",
+              "pdf_page": 53
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b11-05",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b11-05.png",
+              "caption": "Hình 1–2 (Nhóm quyền được tham gia): Quyền bày tỏ ý kiến và kết giao bạn bè",
+              "pdf_page": 53
+            }
+          ]
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Thực hiện quyền trẻ em",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B12-Thuc-hien-quyen-tre-em.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            56,
+            59
+          ],
+          "printed_pages": [
+            55,
+            58
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Sau bài học này, học sinh có thể:",
+            "items": [
+              "Nêu được trách nhiệm của gia đình, nhà trường, xã hội trong việc thực hiện quyền trẻ em.",
+              "Phân biệt được hành vi thực hiện quyền trẻ em và hành vi vi phạm quyền trẻ em.",
+              "Thực hiện tốt quyền và bổn phận của trẻ em.",
+              "Nhận xét, đánh giá được việc thực hiện quyền trẻ em của bản thân, gia đình, nhà trường, cộng đồng; bày tỏ được nhu cầu để thực hiện tốt hơn quyền trẻ em."
+            ],
+            "pdf_page": 56
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H6-giao_duc_cong_dan-b12-01",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b12-01.png",
+              "caption": "Tranh tình huống 2: Bố giải thích cho Lan chưa đủ tuổi sử dụng xe máy điện",
+              "pdf_page": 57
+            },
+            {
+              "id": "H6-giao_duc_cong_dan-b12-02",
+              "file": "Bai-hoc/img/H6-giao_duc_cong_dan-b12-02.png",
+              "caption": "Tranh tình huống 3: Các bạn trong lớp động viên, hỗ trợ Hoàng tham gia văn nghệ",
+              "pdf_page": 57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Một số thuật ngữ dùng trong sách",
+      "file": "Mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+      "pdf_pages": [
+        60,
+        60
+      ],
+      "printed_pages": [
+        59,
+        59
+      ],
+      "status": "verified"
+    }
+  ],
+  "dictionaries": [
+    {
+      "file": "Tu-dien-GDCD-6.md",
+      "name": "tu-dien-gdcd-6",
+      "title": "TỪ ĐIỂN THUẬT NGỮ GIÁO DỤC CÔNG DÂN 6",
+      "group_id": "p01",
+      "lesson_ids": [
+        "b01",
+        "b02",
+        "b03",
+        "b04",
+        "b05",
+        "b06",
+        "b07",
+        "b08",
+        "b09",
+        "b10",
+        "b11",
+        "b12"
+      ],
+      "conventions": [
+        "**Thuật ngữ có định nghĩa trong nguồn (in_source)**: Thuật ngữ có câu định nghĩa trực tiếp được in đậm trong các bài học hoặc tại bảng tra cứu cuối sách SGK Giáo dục công dân 6 (bộ sách Kết nối tri thức với cuộc sống). Phần giải nghĩa trích dẫn nguyên văn từ SGK.",
+        "**Thuật ngữ được mô tả (described)**: Khái niệm không nêu câu định nghĩa trực tiếp nhưng được diễn giải qua biểu hiện, ý nghĩa hoặc cách thực hiện trong bài học, có gắn nhãn `<!-- term: <tên> -->` ở Tầng 1. Cột Bối cảnh sử dụng bắt đầu bằng `[mô tả] `.",
+        "**Thuật ngữ ngoài nguồn (out_of_source)**: Các văn bản quy phạm pháp luật và điều ước quốc tế xuất hiện trong bài nhưng chưa có định nghĩa riêng trong SGK, được dẫn chiếu tới văn bản pháp lí chính thức.",
+        "**Bảng giải thích thuật ngữ cuối sách**: Toàn bộ 13 thuật ngữ trong bảng \"Một số thuật ngữ dùng trong sách\" (PDF 60, trang in 59) được tích hợp đầy đủ tại mục \"Thuật ngữ dùng chung\"."
+      ],
+      "status": "verified",
+      "created": "2026-11-21",
+      "updated": "2026-11-21"
+    }
+  ],
+  "terms": [
+    {
+      "id": "giao-duc-cong-dan-6-bon-phan",
+      "term": "Bổn phận",
+      "aliases": [],
+      "english": "Moral duty",
+      "notation": null,
+      "meaning": "Bổn phận: Trách nhiệm và phần việc phải gánh vác, lo liệu, theo đạo lí thông thường.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 59).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-hau-qua",
+      "term": "Hậu quả",
+      "aliases": [],
+      "english": "Consequence",
+      "notation": null,
+      "meaning": "Hậu quả: Kết quả không hay, có ảnh hưởng về sau.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 59).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-nghia-vu",
+      "term": "Nghĩa vụ",
+      "aliases": [],
+      "english": "Duty (Obligation)",
+      "notation": null,
+      "meaning": "Nghĩa vụ: Việc bắt buộc phải làm đối với xã hội, đối với người khác mà pháp luật hay đạo đức quy định.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 59).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-quyen",
+      "term": "Quyền",
+      "aliases": [],
+      "english": "Right",
+      "notation": null,
+      "meaning": "Quyền: Điều mà pháp luật hoặc xã hội công nhận cho được hưởng, được làm, được đòi hỏi mà không ai được ngăn cản, hạn chế.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 59).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-tinh-cach",
+      "term": "Tính cách",
+      "aliases": [],
+      "english": "Character (Personality)",
+      "notation": null,
+      "meaning": "Tính cách: Tổng thể nói chung những đặc điểm tâm lí ổn định trong cách xử sự của một người, biểu hiện thái độ của người đó trong những hoàn cảnh điển hình.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 59).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-tinh-huong",
+      "term": "Tình huống",
+      "aliases": [],
+      "english": "Situation",
+      "notation": null,
+      "meaning": "Tình huống: Sự việc xảy ra tại một nơi, trong một thời gian nhất định buộc con người phải suy nghĩ, hành động, đối phó.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 59).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-ton-trong",
+      "term": "Tôn trọng",
+      "aliases": [],
+      "english": "Respect",
+      "notation": null,
+      "meaning": "Tôn trọng: Tỏ thái độ đánh giá cao và không được vi phạm hoặc xúc phạm đến.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 59).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-trach-nhiem",
+      "term": "Trách nhiệm",
+      "aliases": [],
+      "english": "Responsibility",
+      "notation": null,
+      "meaning": "Trách nhiệm: Phần việc được giao và phải đảm bảo hoàn thành, nếu kết quả không tốt thì phải gánh chịu phần hậu quả.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 59).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-tre-em",
+      "term": "Trẻ em",
+      "aliases": [],
+      "english": "Child (Children)",
+      "notation": null,
+      "meaning": "Trẻ em: Là người dưới 16 tuổi.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 59).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-truyen-thong-gia-dinh-dong-ho",
+      "term": "Truyền thống gia đình, dòng họ",
+      "aliases": [],
+      "english": "Family and clan traditions",
+      "notation": null,
+      "meaning": "Truyền thống gia đình, dòng họ: Những giá trị tốt đẹp mà gia đình, dòng họ đã tạo ra cần được giữ gìn và phát huy qua nhiều thế hệ.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 59).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-tu-hao",
+      "term": "Tự hào",
+      "aliases": [],
+      "english": "Pride",
+      "notation": null,
+      "meaning": "Tự hào: Hài lòng, hãnh diện về những điều tốt đẹp mà mình có.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 59).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-ung-pho",
+      "term": "Ứng phó",
+      "aliases": [],
+      "english": "Coping (Response)",
+      "notation": null,
+      "meaning": "Ứng phó: Chủ động, sẵn sàng đáp lại tình thế bất lợi một cách kịp thời.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 59).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-vi-pham",
+      "term": "Vi phạm",
+      "aliases": [],
+      "english": "Violation",
+      "notation": null,
+      "meaning": "Vi phạm: Không tuân theo hoặc làm trái những điều quy định.",
+      "usage_context": "Bảng tra cứu thuật ngữ cuối sách (trang 59).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 60,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-truyen-thong-hieu-hoc",
+      "term": "Truyền thống hiếu học",
+      "aliases": [],
+      "english": "Tradition of studiousness",
+      "notation": null,
+      "meaning": "Dòng họ Đặng ở Sơn La là dòng họ có truyền thống hiếu học. Qua nhiều thế hệ, các gia đình trong dòng họ luôn quan tâm, chăm lo việc học hành của con em mình. Trẻ em đến tuổi đều được tới trường, nhiều em đạt thành tích cao trong học tập. Nhiều thành viên trong dòng họ đã trưởng thành, là cán bộ có đóng góp tích cực trong việc xây dựng và bảo vệ quê hương, đất nước. Con cháu trong dòng họ luôn tự hào và không ngừng phát huy truyền thống gia đình, dòng họ hiếu học.",
+      "usage_context": "Truyền thống coi trọng sự học, chăm lo giáo dục con cháu qua nhiều thế hệ của gia đình, dòng họ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1",
+        "pdf_page": 6,
+        "printed_page": 5
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-bieu-hien-cua-truyen-thong-gia-dinh-dong-ho",
+      "term": "Biểu hiện của truyền thống gia đình, dòng họ",
+      "aliases": [],
+      "english": "Manifestations of family and clan traditions",
+      "notation": null,
+      "meaning": "– Nhiều gia đình, dòng họ Việt Nam có truyền thống tốt đẹp về: yêu nước, yêu thương con người, hiếu thảo, hiếu học, cần cù lao động, giữ nghề truyền thống,...",
+      "usage_context": "Các giá trị đạo đức, văn hoá và nghề nghiệp tiêu biểu được lưu truyền trong các gia đình, dòng họ Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "3",
+        "pdf_page": 8,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-y-nghia-cua-truyen-thong-gia-dinh-dong-ho",
+      "term": "Ý nghĩa của truyền thống gia đình, dòng họ",
+      "aliases": [],
+      "english": "Significance of family and clan traditions",
+      "notation": null,
+      "meaning": "– Hiểu biết và tự hào về truyền thống gia đình, dòng họ giúp ta có thêm kinh nghiệm và sức mạnh trong cuộc sống, góp phần làm phong phú truyền thống, bản sắc dân tộc Việt Nam.",
+      "usage_context": "Vai trò tiếp thêm kinh nghiệm, động lực cho mỗi cá nhân và bồi đắp bản sắc văn hoá dân tộc.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "3",
+        "pdf_page": 8,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-giu-gin-va-phat-huy-truyen-thong-gia-dinh-dong-ho",
+      "term": "Giữ gìn và phát huy truyền thống gia đình, dòng họ",
+      "aliases": [],
+      "english": "Preserving and promoting family and clan traditions",
+      "notation": null,
+      "meaning": "– Chúng ta cần tìm hiểu để tự hào về truyền thống gia đình, dòng họ mình; từ đó, có những việc làm phù hợp với khả năng để phát huy truyền thống.",
+      "usage_context": "Trách nhiệm tìm hiểu, trân trọng và tiếp nối các giá trị tốt đẹp của gia đình, dòng họ bằng việc làm thiết thực.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "3",
+        "pdf_page": 8,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-yeu-thuong-con-nguoi",
+      "term": "Yêu thương con người",
+      "aliases": [
+        "Tình yêu thương con người"
+      ],
+      "english": "Compassion (Love for humanity)",
+      "notation": null,
+      "meaning": "– Yêu thương con người là sự quan tâm, giúp đỡ, làm những điều tốt đẹp cho người khác, nhất là những người gặp khó khăn, hoạn nạn.",
+      "usage_context": "Phẩm chất đạo đức nhân ái, quan tâm và sẻ chia với người khác trong cuộc sống.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2",
+        "pdf_page": 12,
+        "printed_page": 11
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-bieu-hien-cua-tinh-yeu-thuong-con-nguoi",
+      "term": "Biểu hiện của tình yêu thương con người",
+      "aliases": [],
+      "english": "Manifestations of compassion",
+      "notation": null,
+      "meaning": "– Biểu hiện của tình yêu thương con người thể hiện ở sự đồng cảm, chia sẻ, sẵn sàng giúp đỡ lẫn nhau; tham gia các hoạt động nhân đạo, từ thiện; biết tha thứ cho lỗi lầm của người khác khi họ sửa chữa; khi cần thiết có thể hi sinh quyền lợi của bản thân vì người khác;...",
+      "usage_context": "Những lời nói, thái độ và việc làm đồng cảm, sẻ chia, vị tha và nhân đạo đối với mọi người.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2",
+        "pdf_page": 12,
+        "printed_page": 11
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-gia-tri-cua-tinh-yeu-thuong-con-nguoi",
+      "term": "Giá trị của tình yêu thương con người",
+      "aliases": [],
+      "english": "Value of compassion",
+      "notation": null,
+      "meaning": "– Tình yêu thương con người mang lại niềm vui, sự tin tưởng vào bản thân và cuộc sống; giúp con người có thêm sức mạnh vượt qua khó khăn, hoạn nạn; làm cho mối quan hệ giữa con người với con người thêm gần gũi, gắn bó; góp phần xây dựng cộng đồng an toàn, lành mạnh và tốt đẹp hơn. Người biết yêu thương con người sẽ được mọi người yêu quý và kính trọng. Yêu thương con người là truyền thống quý báu của dân tộc, cần được giữ gìn và phát huy.",
+      "usage_context": "Ý nghĩa tích cực của lòng yêu thương đối với cá nhân, các mối quan hệ xã hội và truyền thống dân tộc.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2",
+        "pdf_page": 13,
+        "printed_page": 12
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-sieng-nang",
+      "term": "Siêng năng",
+      "aliases": [],
+      "english": "Diligence",
+      "notation": null,
+      "meaning": "– Siêng năng là đức tính của con người biểu hiện ở sự cần cù, tự giác, miệt mài, làm việc thường xuyên, đều đặn.",
+      "usage_context": "Đức tính cần cù, tự giác, chăm chỉ trong học tập, lao động và sinh hoạt hằng ngày.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2",
+        "pdf_page": 16,
+        "printed_page": 15
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-kien-tri",
+      "term": "Kiên trì",
+      "aliases": [],
+      "english": "Perseverance",
+      "notation": null,
+      "meaning": "– Kiên trì là sự quyết tâm làm đến cùng dù gặp khó khăn, gian khổ.",
+      "usage_context": "Ý chí bền bỉ, quyết tâm theo đuổi mục tiêu đến cùng trước khó khăn, thử thách.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2",
+        "pdf_page": 16,
+        "printed_page": 15
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-y-nghia-cua-sieng-nang-kien-tri",
+      "term": "Ý nghĩa của siêng năng, kiên trì",
+      "aliases": [],
+      "english": "Significance of diligence and perseverance",
+      "notation": null,
+      "meaning": "– Siêng năng, kiên trì sẽ giúp con người thành công trong công việc và cuộc sống. Người siêng năng, kiên trì sẽ được mọi người tin tưởng và yêu quý.",
+      "usage_context": "Vai trò của đức tính siêng năng, kiên trì đối với sự thành công và uy tín của mỗi người.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2",
+        "pdf_page": 16,
+        "printed_page": 15
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-cach-ren-luyen-tinh-sieng-nang-kien-tri",
+      "term": "Cách rèn luyện tính siêng năng, kiên trì",
+      "aliases": [],
+      "english": "Practicing diligence and perseverance",
+      "notation": null,
+      "meaning": "– Mỗi khi làm việc gì, em cần có mục đích và cách thực hiện rõ ràng. Hãy chăm chỉ, kiên trì thực hiện, nếu gặp khó khăn hãy thử bằng nhiều cách để thực hiện thành công, không bỏ dở giữa chừng.",
+      "usage_context": "Phương pháp xác định mục tiêu rõ ràng và bền bỉ vượt khó, không bỏ cuộc giữa chừng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2",
+        "pdf_page": 16,
+        "printed_page": 15
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-su-that",
+      "term": "Sự thật",
+      "aliases": [],
+      "english": "Truth",
+      "notation": null,
+      "meaning": "– Sự thật là những gì có thật trong cuộc sống hiện thực và phản ánh đúng hiện thực cuộc sống.",
+      "usage_context": "Những điều có thật và phản ánh khách quan hiện thực cuộc sống.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "3",
+        "pdf_page": 21,
+        "printed_page": 20
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-bieu-hien-cua-ton-trong-su-that",
+      "term": "Biểu hiện của tôn trọng sự thật",
+      "aliases": [],
+      "english": "Manifestations of respect for truth",
+      "notation": null,
+      "meaning": "– Biểu hiện của tôn trọng sự thật là: suy nghĩ, nói và làm theo đúng sự thật.",
+      "usage_context": "Sự thống nhất giữa suy nghĩ, lời nói và hành động trung thực với hiện thực khách quan.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "3",
+        "pdf_page": 21,
+        "printed_page": 20
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-ton-trong-su-that",
+      "term": "Tôn trọng sự thật",
+      "aliases": [],
+      "english": "Respect for truth",
+      "notation": null,
+      "meaning": "– Biểu hiện của tôn trọng sự thật là: suy nghĩ, nói và làm theo đúng sự thật. – Tôn trọng sự thật sẽ góp phần bảo vệ cuộc sống, bảo vệ những giá trị đúng đắn, tránh nhầm lẫn, oan sai; giúp con người tin tưởng, gắn kết với nhau hơn; làm cho tâm hồn thanh thản và cuộc sống trở nên tốt đẹp hơn.",
+      "usage_context": "Phẩm chất đạo đức coi trọng lẽ phải, trung thực trong nhận thức, lời nói và việc làm.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "3",
+        "pdf_page": 21,
+        "printed_page": 20
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-y-nghia-cua-ton-trong-su-that",
+      "term": "Ý nghĩa của tôn trọng sự thật",
+      "aliases": [],
+      "english": "Significance of respect for truth",
+      "notation": null,
+      "meaning": "– Tôn trọng sự thật sẽ góp phần bảo vệ cuộc sống, bảo vệ những giá trị đúng đắn, tránh nhầm lẫn, oan sai; giúp con người tin tưởng, gắn kết với nhau hơn; làm cho tâm hồn thanh thản và cuộc sống trở nên tốt đẹp hơn.",
+      "usage_context": "Giá trị của việc tôn trọng sự thật đối với sự công bằng xã hội, niềm tin giữa con người và sự thanh thản nội tâm.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "3",
+        "pdf_page": 21,
+        "printed_page": 20
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-cach-ton-trong-su-that",
+      "term": "Cách tôn trọng sự thật",
+      "aliases": [],
+      "english": "Ways to show respect for truth",
+      "notation": null,
+      "meaning": "– Luôn nói thật với người thân, thầy cô, bạn bè và người có trách nhiệm bằng thái độ dũng cảm, khéo léo, tinh tế và nhân ái.",
+      "usage_context": "Cách ứng xử trung thực kết hợp với thái độ dũng cảm, khéo léo, tinh tế và nhân ái trong giao tiếp.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "3",
+        "pdf_page": 21,
+        "printed_page": 20
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-tu-lap",
+      "term": "Tự lập",
+      "aliases": [],
+      "english": "Self-reliance",
+      "notation": null,
+      "meaning": "– Tự lập là tự làm lấy các công việc của mình trong cuộc sống.",
+      "usage_context": "Phẩm chất chủ động tự giải quyết công việc và nhiệm vụ của bản thân.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "2",
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-bieu-hien-cua-tinh-tu-lap",
+      "term": "Biểu hiện của tính tự lập",
+      "aliases": [],
+      "english": "Manifestations of self-reliance",
+      "notation": null,
+      "meaning": "– Biểu hiện của tính tự lập là sự tự tin, bản lĩnh cá nhân, dám đương đầu với những khó khăn, thử thách; có ý chí nỗ lực phấn đấu vươn lên trong cuộc sống; không trông chờ, dựa dẫm, ỷ lại, phụ thuộc vào người khác.",
+      "usage_context": "Các dấu hiệu nhận biết người có bản lĩnh tự tin, tự giác vươn lên và không ỷ lại vào người khác.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "2",
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-y-nghia-cua-tinh-tu-lap",
+      "term": "Ý nghĩa của tính tự lập",
+      "aliases": [],
+      "english": "Significance of self-reliance",
+      "notation": null,
+      "meaning": "– Người có tính tự lập thường thành công trong cuộc sống và xứng đáng nhận được sự tôn trọng của mọi người.",
+      "usage_context": "Tác dụng giúp cá nhân trưởng thành, đạt thành công và được xã hội tôn trọng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "2",
+        "pdf_page": 26,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-tu-nhan-thuc-ban-than",
+      "term": "Tự nhận thức bản thân",
+      "aliases": [],
+      "english": "Self-awareness",
+      "notation": null,
+      "meaning": "– Tự nhận thức bản thân là biết nhìn nhận, đánh giá đúng về bản thân mình (khả năng, hiểu biết, tính cách, sở thích, thói quen, điểm mạnh, điểm yếu,...).",
+      "usage_context": "Kĩ năng sống cốt lõi giúp cá nhân hiểu đúng năng lực, phẩm chất, ưu điểm và hạn chế của chính mình.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "3",
+        "pdf_page": 29,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-y-nghia-cua-tu-nhan-thuc-ban-than",
+      "term": "Ý nghĩa của tự nhận thức bản thân",
+      "aliases": [],
+      "english": "Significance of self-awareness",
+      "notation": null,
+      "meaning": "– Tự nhận thức đúng về bản thân sẽ giúp em: + Nhận ra điểm mạnh của bản thân để phát huy, điểm yếu để khắc phục. + Biết rõ mong muốn, những khả năng, khó khăn, thách thức của bản thân để có thể đặt mục tiêu, ra quyết định và giải quyết vấn đề phù hợp.",
+      "usage_context": "Vai trò của tự nhận thức trong việc phát huy sở trường, khắc phục hạn chế và xác lập mục tiêu phù hợp.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "3",
+        "pdf_page": 29,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-cach-tu-nhan-thuc-ban-than",
+      "term": "Cách tự nhận thức bản thân",
+      "aliases": [],
+      "english": "Ways to practice self-awareness",
+      "notation": null,
+      "meaning": "– Để tự nhận thức đúng về bản thân, em cần: + Đánh giá bản thân qua thái độ, hành vi, kết quả trong từng hoạt động, tình huống cụ thể. + Quan sát phản ứng và lắng nghe nhận xét của người khác về mình. + So sánh những nhận xét/ đánh giá của người khác về mình với tự nhận xét, đánh giá của mình. + Thân thiện, cởi mở, tích cực tham gia các hoạt động để rèn luyện và phát triển bản thân.",
+      "usage_context": "Các biện pháp tự đánh giá kết hợp lắng nghe phản hồi và trải nghiệm thực tiễn để hiểu rõ bản thân.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "3",
+        "pdf_page": 29,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-tinh-huong-nguy-hiem",
+      "term": "Tình huống nguy hiểm",
+      "aliases": [],
+      "english": "Dangerous situation",
+      "notation": null,
+      "meaning": "– Tình huống nguy hiểm là những sự việc bất ngờ xảy ra, có nguy cơ đe doạ nghiêm trọng đến sức khoẻ, tính mạng, gây thiệt hại về tài sản, môi trường cho bản thân, gia đình và cộng đồng xã hội.",
+      "usage_context": "Sự cố bất ngờ đe doạ trực tiếp đến an toàn tính mạng, sức khoẻ, tài sản hoặc môi trường.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "2",
+        "pdf_page": 34,
+        "printed_page": 33
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-tinh-huong-nguy-hiem-tu-tu-nhien",
+      "term": "Tình huống nguy hiểm từ tự nhiên",
+      "aliases": [],
+      "english": "Natural hazard situation",
+      "notation": null,
+      "meaning": "– Tình huống nguy hiểm từ tự nhiên là những hiện tượng tự nhiên có thể gây tổn thất về người, tài sản, môi trường, điều kiện sống và làm gián đoạn các hoạt động kinh tế, xã hội.",
+      "usage_context": "Nhóm tình huống nguy hiểm do thiên tai như mưa dông, lốc, sét, lũ quét, lũ ống, sạt lở đất gây ra.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "2",
+        "pdf_page": 34,
+        "printed_page": 33
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-tinh-huong-nguy-hiem-tu-con-nguoi",
+      "term": "Tình huống nguy hiểm từ con người",
+      "aliases": [],
+      "english": "Human-caused dangerous situation",
+      "notation": null,
+      "meaning": "– Tình huống nguy hiểm từ con người là những mối nguy hiểm bất ngờ, xuất phát từ những hành vi cố ý hoặc vô tình từ con người gây tổn thất cho con người và xã hội.",
+      "usage_context": "Nhóm tình huống nguy hiểm phát sinh từ hành vi của con người như bắt cóc, trộm cướp, hoả hoạn, tai nạn.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "2",
+        "pdf_page": 34,
+        "printed_page": 33
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-ki-nang-ung-pho-voi-tinh-huong-nguy-hiem",
+      "term": "Kĩ năng ứng phó với tình huống nguy hiểm",
+      "aliases": [
+        "Ứng phó với tình huống nguy hiểm"
+      ],
+      "english": "Coping with dangerous situations",
+      "notation": null,
+      "meaning": "– Chủ động tìm hiểu, học tập các kĩ năng ứng phó trong mỗi tình huống nguy hiểm sẽ giúp chúng ta bình tĩnh, tự tin, thoát khỏi nguy hiểm trong cuộc sống.",
+      "usage_context": "Khả năng nhận diện nguy cơ và xử lí bình tĩnh, kịp thời, đúng cách để bảo vệ an toàn bản thân.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "2",
+        "pdf_page": 34,
+        "printed_page": 33
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-cac-so-dien-thoai-khan-cap",
+      "term": "Các số điện thoại khẩn cấp",
+      "aliases": [],
+      "english": "Emergency phone numbers",
+      "notation": null,
+      "meaning": "– Luôn ghi nhớ các số điện thoại của người thân, các số điện thoại khẩn cấp: 111: Tổng đài quốc gia bảo vệ trẻ em 112: Yêu cầu trợ giúp, tìm kiếm cứu nạn trên phạm vi toàn quốc 113: Gọi công an hoặc cảnh sát khi có việc liên quan tới an ninh, trật tự 114: Gọi cơ quan phòng cháy, chữa cháy, cứu hộ, cứu nạn 115: Gọi cấp cứu y tế.",
+      "usage_context": "Hệ thống đầu số khẩn cấp quốc gia (111, 112, 113, 114, 115) hỗ trợ bảo vệ trẻ em, cứu nạn, an ninh, cứu hoả và cấp cứu y tế.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "2",
+        "pdf_page": 35,
+        "printed_page": 34
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-tiet-kiem",
+      "term": "Tiết kiệm",
+      "aliases": [],
+      "english": "Thrift",
+      "notation": null,
+      "meaning": "– Tiết kiệm là biết sử dụng một cách hợp lí, đúng mức của cải vật chất, thời gian, sức lực của mình và của người khác.",
+      "usage_context": "Phẩm chất sống giản dị, sử dụng hợp lí tiền bạc, tài nguyên, thời gian và công sức lao động.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "3",
+        "pdf_page": 40,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-bieu-hien-cua-tiet-kiem",
+      "term": "Biểu hiện của tiết kiệm",
+      "aliases": [],
+      "english": "Manifestations of thrift",
+      "notation": null,
+      "meaning": "– Tiết kiệm biểu hiện ở việc: chi tiêu hợp lí; tắt các thiết bị điện và khoá vòi nước khi không sử dụng; sắp xếp thời gian làm việc khoa học; sử dụng hợp lí và khai thác hiệu quả tài nguyên (nước, khoáng sản,...); bảo quản đồ dùng học tập, lao động khi sử dụng; bảo vệ của công;...",
+      "usage_context": "Những hành vi cụ thể sử dụng hiệu quả tiền bạc, điện, nước, thời gian, đồ dùng và tài sản chung.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "3",
+        "pdf_page": 40,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-y-nghia-cua-tiet-kiem",
+      "term": "Ý nghĩa của tiết kiệm",
+      "aliases": [],
+      "english": "Significance of thrift",
+      "notation": null,
+      "meaning": "– Tiết kiệm giúp chúng ta quý trọng thành quả lao động của bản thân và của người khác; đảm bảo cho cuộc sống ổn định, ấm no, hạnh phúc và thành công.",
+      "usage_context": "Giá trị của lối sống tiết kiệm trong việc trân trọng sức lao động và bảo đảm cuộc sống ổn định, bền vững.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "3",
+        "pdf_page": 40,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-cong-dan",
+      "term": "Công dân",
+      "aliases": [],
+      "english": "Citizen",
+      "notation": null,
+      "meaning": "– Công dân là người dân của một nước, có các quyền và nghĩa vụ được pháp luật quy định.",
+      "usage_context": "Cá nhân mang quốc tịch của một quốc gia và có địa vị pháp lí gồm các quyền và nghĩa vụ theo pháp luật.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2",
+        "pdf_page": 44,
+        "printed_page": 43
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-quoc-tich",
+      "term": "Quốc tịch",
+      "aliases": [],
+      "english": "Nationality (Citizenship)",
+      "notation": null,
+      "meaning": "– Quốc tịch là căn cứ xác định công dân của một nước, thể hiện mối quan hệ giữa Nhà nước và công dân nước đó.",
+      "usage_context": "Căn cứ pháp lí xác lập tư cách công dân và mối liên hệ pháp lí bền vững giữa cá nhân với Nhà nước.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2",
+        "pdf_page": 44,
+        "printed_page": 43
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-cong-dan-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam",
+      "term": "Công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+      "aliases": [
+        "Công dân Việt Nam"
+      ],
+      "english": "Citizen of the Socialist Republic of Viet Nam",
+      "notation": null,
+      "meaning": "– Công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam là người có quốc tịch Việt Nam.",
+      "usage_context": "Người mang quốc tịch Việt Nam theo quy định của Hiến pháp và Luật Quốc tịch Việt Nam.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2",
+        "pdf_page": 44,
+        "printed_page": 43
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-luat-quoc-tich-viet-nam-nam-2008-sua-doi-bo-sung-nam-2014",
+      "term": "Luật Quốc tịch Việt Nam năm 2008, sửa đổi, bổ sung năm 2014",
+      "aliases": [],
+      "english": "Law on Vietnamese Nationality 2008 (amended 2014)",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Văn bản luật quy định căn cứ xác định, nhập, thôi, trở lại quốc tịch Việt Nam và quan hệ giữa Nhà nước với công dân.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Luật Quốc tịch Việt Nam số 24/2008/QH12 ngày 13/11/2008, được sửa đổi, bổ sung bởi Luật số 56/2014/QH13 ngày 24/6/2014 của Quốc hội.",
+      "location": null,
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-quyen-co-ban-cua-cong-dan",
+      "term": "Quyền cơ bản của công dân",
+      "aliases": [
+        "Quyền và nghĩa vụ cơ bản của công dân"
+      ],
+      "english": "Fundamental rights of citizens",
+      "notation": null,
+      "meaning": "– Quyền cơ bản của công dân là những lợi ích cơ bản mà công dân được hưởng, được Nhà nước bảo vệ và đảm bảo theo Hiến pháp và pháp luật.",
+      "usage_context": "Các quyền thiết yếu của công dân về chính trị, dân sự, kinh tế, văn hoá, xã hội được ghi nhận trong Hiến pháp.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 49,
+        "printed_page": 48
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-nghia-vu-co-ban-cua-cong-dan",
+      "term": "Nghĩa vụ cơ bản của công dân",
+      "aliases": [],
+      "english": "Fundamental duties of citizens",
+      "notation": null,
+      "meaning": "– Nghĩa vụ cơ bản của công dân là những việc mà Nhà nước bắt buộc công dân phải thực hiện theo quy định của Hiến pháp và pháp luật.",
+      "usage_context": "Các trách nhiệm pháp lí bắt buộc của công dân đối với Nhà nước và xã hội theo quy định của Hiến pháp.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 49,
+        "printed_page": 48
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-nhom-quyen-chinh-tri-cua-cong-dan",
+      "term": "Nhóm quyền chính trị của công dân",
+      "aliases": [],
+      "english": "Political rights of citizens",
+      "notation": null,
+      "meaning": "1. Nhóm quyền chính trị: quyền bầu cử, ứng cử vào các cơ quan quyền lực nhà nước (Điều 27); quyền tham gia quản lí nhà nước (Điều 28); quyền tự do ngôn luận, tự do báo chí (Điều 25); quyền tự do tín ngưỡng, tôn giáo (Điều 24);...",
+      "usage_context": "Nhóm quyền hiến định bảo đảm sự tham gia của công dân vào đời sống chính trị và quản lí nhà nước.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "1",
+        "pdf_page": 46,
+        "printed_page": 45
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-nhom-quyen-dan-su-cua-cong-dan",
+      "term": "Nhóm quyền dân sự của công dân",
+      "aliases": [],
+      "english": "Civil rights of citizens",
+      "notation": null,
+      "meaning": "2. Nhóm quyền dân sự: quyền sống (Điều 19); quyền bất khả xâm phạm về thân thể, được pháp luật bảo hộ về sức khoẻ, danh dự và nhân phẩm (Điều 20); quyền bất khả xâm phạm về đời sống riêng tư, bí mật cá nhân và bí mật gia đình (Điều 21); quyền bất khả xâm phạm về chỗ ở (Điều 22); quyền tự do đi lại và cư trú (Điều 23); quyền bình đẳng giới (Điều 26); quyền tự do kết hôn và li hôn (Điều 36);...",
+      "usage_context": "Nhóm quyền hiến định bảo vệ tính mạng, thân thể, nhân phẩm, tự do cá nhân và đời sống riêng tư của công dân.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "1",
+        "pdf_page": 47,
+        "printed_page": 46
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-nhom-quyen-ve-kinh-te-cua-cong-dan",
+      "term": "Nhóm quyền về kinh tế của công dân",
+      "aliases": [],
+      "english": "Economic rights of citizens",
+      "notation": null,
+      "meaning": "3. Nhóm quyền về kinh tế: quyền tự do kinh doanh (Điều 33); quyền có việc làm (Điều 35); quyền sở hữu về thu nhập hợp pháp, của cải để dành, nhà ở, tư liệu sinh hoạt, tư liệu sản xuất (Điều 32);...",
+      "usage_context": "Nhóm quyền hiến định về tự do kinh doanh, lao động việc làm và quyền sở hữu tài sản hợp pháp.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "1",
+        "pdf_page": 47,
+        "printed_page": 46
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-nhom-quyen-van-hoa-xa-hoi-cua-cong-dan",
+      "term": "Nhóm quyền văn hoá, xã hội của công dân",
+      "aliases": [],
+      "english": "Cultural and social rights of citizens",
+      "notation": null,
+      "meaning": "4. Nhóm quyền văn hoá, xã hội: quyền học tập (Điều 39); quyền nghiên cứu khoa học và công nghệ, sáng tạo văn học, nghệ thuật (Điều 40); quyền được đảm bảo an sinh xã hội (Điều 34); quyền được bảo vệ, chăm sóc sức khoẻ (Điều 38);...",
+      "usage_context": "Nhóm quyền hiến định về học tập, sáng tạo khoa học – nghệ thuật, an sinh xã hội và chăm sóc sức khoẻ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "1",
+        "pdf_page": 47,
+        "printed_page": 46
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-moi-quan-he-giua-quyen-va-nghia-vu-cong-dan",
+      "term": "Mối quan hệ giữa quyền và nghĩa vụ công dân",
+      "aliases": [],
+      "english": "Relationship between citizens' rights and duties",
+      "notation": null,
+      "meaning": "– Quyền công dân không tách rời nghĩa vụ công dân. Công dân được hưởng các quyền và phải thực hiện các nghĩa vụ do Nhà nước quy định. Mọi người có nghĩa vụ tôn trọng quyền của người khác.",
+      "usage_context": "Nguyên tắc hiến định về sự thống nhất không tách rời giữa việc thụ hưởng quyền và thực hiện nghĩa vụ công dân.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 49,
+        "printed_page": 48
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-binh-dang-truoc-phap-luat",
+      "term": "Bình đẳng trước pháp luật",
+      "aliases": [],
+      "english": "Equality before the law",
+      "notation": null,
+      "meaning": "– Mọi người đều bình đẳng trước pháp luật. Không ai bị phân biệt đối xử trong đời sống chính trị, dân sự, kinh tế, văn hoá, xã hội.",
+      "usage_context": "Nguyên tắc hiến định bảo đảm mọi công dân đều bình đẳng, không bị phân biệt đối xử trước pháp luật.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 49,
+        "printed_page": 48
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-hien-phap-nam-2013",
+      "term": "Hiến pháp năm 2013",
+      "aliases": [],
+      "english": "2013 Constitution of Viet Nam",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Đạo luật cơ bản có hiệu lực pháp lí cao nhất của nước Cộng hoà xã hội chủ nghĩa Việt Nam, quy định quyền con người, quyền và nghĩa vụ cơ bản của công dân tại Chương II.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam được Quốc hội khoá XIII, kì họp thứ 6 thông qua ngày 28/11/2013.",
+      "location": null,
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-quyen-co-ban-cua-tre-em",
+      "term": "Quyền cơ bản của trẻ em",
+      "aliases": [
+        "Quyền trẻ em"
+      ],
+      "english": "Fundamental rights of children (Children's rights)",
+      "notation": null,
+      "meaning": "– Quyền cơ bản của trẻ em là những lợi ích cơ bản mà trẻ em được hưởng và được Nhà nước bảo vệ.",
+      "usage_context": "Những lợi ích thiết yếu bảo đảm cho trẻ em được sống, bảo vệ, phát triển toàn diện và tham gia đời sống xã hội.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "2",
+        "pdf_page": 54,
+        "printed_page": 53
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-nhom-quyen-song-con",
+      "term": "Nhóm quyền sống còn",
+      "aliases": [
+        "Nhóm quyền được sống còn"
+      ],
+      "english": "Survival rights",
+      "notation": null,
+      "meaning": "+ Nhóm quyền sống còn: là những quyền được sống và được đáp ứng các nhu cầu cơ bản để tồn tại như được nuôi dưỡng, chăm sóc sức khoẻ,...",
+      "usage_context": "Nhóm quyền cơ bản bảo đảm sự sống và các điều kiện dinh dưỡng, y tế, nơi ở để trẻ em tồn tại.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "2",
+        "pdf_page": 54,
+        "printed_page": 53
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-nhom-quyen-bao-ve",
+      "term": "Nhóm quyền bảo vệ",
+      "aliases": [
+        "Nhóm quyền được bảo vệ"
+      ],
+      "english": "Protection rights",
+      "notation": null,
+      "meaning": "+ Nhóm quyền bảo vệ: là những quyền nhằm bảo vệ trẻ em khỏi mọi hình thức phân biệt đối xử, bị bỏ rơi, bị bóc lột và xâm hại.",
+      "usage_context": "Nhóm quyền cơ bản bảo vệ trẻ em trước nguy cơ bạo lực, bóc lột lao động, xâm hại, bỏ rơi và can thiệp đời tư.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "2",
+        "pdf_page": 54,
+        "printed_page": 53
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-nhom-quyen-phat-trien",
+      "term": "Nhóm quyền phát triển",
+      "aliases": [
+        "Nhóm quyền được phát triển"
+      ],
+      "english": "Development rights",
+      "notation": null,
+      "meaning": "+ Nhóm quyền phát triển: là những quyền được đáp ứng các nhu cầu cho sự phát triển một cách toàn diện như được học tập, được vui chơi giải trí, tham gia các hoạt động văn hoá, nghệ thuật,...",
+      "usage_context": "Nhóm quyền cơ bản tạo điều kiện cho trẻ em phát triển toàn diện về trí tuệ, thể chất, tinh thần và năng khiếu.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "2",
+        "pdf_page": 54,
+        "printed_page": 53
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-nhom-quyen-tham-gia",
+      "term": "Nhóm quyền tham gia",
+      "aliases": [
+        "Nhóm quyền được tham gia"
+      ],
+      "english": "Participation rights",
+      "notation": null,
+      "meaning": "+ Nhóm quyền tham gia: là những quyền được tham gia vào những công việc có ảnh hưởng đến cuộc sống của trẻ em như được bày tỏ ý kiến, nguyện vọng của mình.",
+      "usage_context": "Nhóm quyền cơ bản bảo đảm trẻ em được nói lên tiếng nói, được lắng nghe và tham gia các vấn đề liên quan đến trẻ em.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "2",
+        "pdf_page": 54,
+        "printed_page": 53
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-y-nghia-cua-quyen-tre-em",
+      "term": "Ý nghĩa của quyền trẻ em",
+      "aliases": [],
+      "english": "Significance of children's rights",
+      "notation": null,
+      "meaning": "– Quyền trẻ em là điều kiện cần thiết để trẻ em được phát triển đầy đủ, toàn diện về thể chất và tinh thần. Thực hiện quyền trẻ em đảm bảo cho trẻ em được sống, được phát triển trong bầu không khí hạnh phúc, yêu thương, an toàn, lành mạnh, bình đẳng.",
+      "usage_context": "Vai trò nền tảng của quyền trẻ em đối với sự phát triển toàn diện và môi trường sống an toàn, hạnh phúc của trẻ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "2",
+        "pdf_page": 54,
+        "printed_page": 53
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-bon-phan-cua-tre-em",
+      "term": "Bổn phận của trẻ em",
+      "aliases": [],
+      "english": "Duties of children",
+      "notation": null,
+      "meaning": "– Bổn phận của trẻ em: yêu quý, kính trọng, hiếu thảo với ông bà, cha mẹ; kính trọng thầy, cô giáo; lễ phép với người lớn, thương yêu em nhỏ, đoàn kết với bạn bè; giúp đỡ gia đình và những người gặp khó khăn theo khả năng của mình; chăm chỉ học tập, rèn luyện thân thể; sống khiêm tốn, trung thực và có đạo đức; tôn trọng pháp luật; tuân theo nội quy của nhà trường; tôn trọng, giữ gìn bản sắc văn hoá dân tộc; yêu quê hương, đất nước, yêu đồng bào, có ý thức xây dựng, bảo vệ Tổ quốc và đoàn kết quốc tế;...",
+      "usage_context": "Những nghĩa vụ đạo đức và pháp lí của trẻ em đối với bản thân, gia đình, nhà trường, cộng đồng và Tổ quốc.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b11",
+        "section": "2",
+        "pdf_page": 54,
+        "printed_page": 53
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-cong-uoc-lien-hop-quoc-ve-quyen-tre-em",
+      "term": "Công ước Liên hợp quốc về quyền trẻ em",
+      "aliases": [
+        "Công ước quốc tế về quyền trẻ em"
+      ],
+      "english": "United Nations Convention on the Rights of the Child (UNCRC)",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Điều ước quốc tế toàn diện nhất bảo vệ quyền con người của trẻ em trên phạm vi toàn cầu.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Công ước của Liên hợp quốc về quyền trẻ em được Đại hội đồng Liên hợp quốc thông qua ngày 20/11/1989 (Việt Nam phê chuẩn ngày 20/02/1990).",
+      "location": null,
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-luat-tre-em-nam-2016",
+      "term": "Luật Trẻ em năm 2016",
+      "aliases": [],
+      "english": "Law on Children 2016",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Văn bản luật quy định cụ thể quyền, bổn phận của trẻ em và trách nhiệm bảo vệ, chăm sóc, giáo dục trẻ em tại Việt Nam.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Luật Trẻ em số 102/2016/QH13 được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam thông qua ngày 05/4/2016.",
+      "location": null,
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-thuc-hien-quyen-tre-em",
+      "term": "Thực hiện quyền trẻ em",
+      "aliases": [],
+      "english": "Realization of children's rights",
+      "notation": null,
+      "meaning": "Thực hiện các quyền trẻ em là trách nhiệm chung của mỗi cá nhân, gia đình, nhà trường và xã hội. Cụ thể:",
+      "usage_context": "Sự phối hợp trách nhiệm của bản thân trẻ em, gia đình, nhà trường và toàn xã hội nhằm bảo đảm quyền trẻ em trên thực tế.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "2",
+        "pdf_page": 58,
+        "printed_page": 57
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-trach-nhiem-cua-hoc-sinh-trong-viec-thuc-hien-quyen-tre-em",
+      "term": "Trách nhiệm của học sinh trong việc thực hiện quyền trẻ em",
+      "aliases": [],
+      "english": "Students' responsibilities in exercising children's rights",
+      "notation": null,
+      "meaning": "– Đối với học sinh: tích cực, chủ động thực hiện các quyền trẻ em để phát triển và bảo vệ bản thân; đồng tình ủng hộ các hành vi thực hiện đúng quyền trẻ em và phê phán những hành vi vi phạm quyền trẻ em,...",
+      "usage_context": "Vai trò chủ động của học sinh trong việc tự bảo vệ, thực hiện quyền – bổn phận và lên án hành vi xâm phạm quyền trẻ em.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "2",
+        "pdf_page": 58,
+        "printed_page": 57
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-trach-nhiem-cua-gia-dinh-trong-viec-thuc-hien-quyen-tre-em",
+      "term": "Trách nhiệm của gia đình trong việc thực hiện quyền trẻ em",
+      "aliases": [],
+      "english": "Family responsibilities in realizing children's rights",
+      "notation": null,
+      "meaning": "– Đối với gia đình: tiến hành khai sinh, chăm sóc, nuôi dưỡng, giáo dục trẻ em; tạo điều kiện, khuyến khích trẻ em tham gia các hoạt động học tập, vui chơi giải trí, phát triển năng khiếu phù hợp; quản lí và bảo vệ trẻ em khỏi các nguy cơ bị xâm hại, bị lạm dụng, bị mua bán,...",
+      "usage_context": "Nghĩa vụ nuôi dưỡng, giáo dục, khuyến khích phát triển và bảo vệ an toàn cho trẻ em của cha mẹ, người thân.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "2",
+        "pdf_page": 58,
+        "printed_page": 57
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-trach-nhiem-cua-nha-truong-trong-viec-thuc-hien-quyen-tre-em",
+      "term": "Trách nhiệm của nhà trường trong việc thực hiện quyền trẻ em",
+      "aliases": [],
+      "english": "School responsibilities in realizing children's rights",
+      "notation": null,
+      "meaning": "– Đối với nhà trường: quản lí, chăm sóc sức khoẻ, giáo dục trẻ em; đảm bảo môi trường học tập an toàn cho học sinh,...",
+      "usage_context": "Nghĩa vụ giáo dục, chăm sóc sức khoẻ và xây dựng môi trường học đường an toàn, thân thiện cho học sinh.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "2",
+        "pdf_page": 58,
+        "printed_page": 57
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-6-trach-nhiem-cua-xa-hoi-trong-viec-thuc-hien-quyen-tre-em",
+      "term": "Trách nhiệm của xã hội trong việc thực hiện quyền trẻ em",
+      "aliases": [],
+      "english": "Social responsibilities in realizing children's rights",
+      "notation": null,
+      "meaning": "– Đối với xã hội: đảm bảo các quyền trẻ em được thực hiện; xử lí nghiêm minh các hành vi vi phạm quyền trẻ em; xây dựng, thực hiện các chính sách về quyền trẻ em, cung cấp các dịch vụ an toàn, bảo vệ quyền lợi của trẻ,...",
+      "usage_context": "Trách nhiệm của Nhà nước và cộng đồng trong xây dựng chính sách, cung ứng dịch vụ bảo vệ trẻ em và xử lí vi phạm.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b12",
+        "section": "2",
+        "pdf_page": 58,
+        "printed_page": 57
+      },
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "note_ids": []
+    }
+  ],
+  "source_notes": [
+    {
+      "id": "tu-dien-gdcd-6#1",
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "number": 1,
+      "status": "closed",
+      "lesson_id": "b09",
+      "section": "2",
+      "pdf_page": 43,
+      "term_ids": [
+        "giao-duc-cong-dan-6-luat-quoc-tich-viet-nam-nam-2008-sua-doi-bo-sung-nam-2014"
+      ],
+      "issue": "Trích dẫn các điều khoản tại Bài 9 nhưng SGK không nêu định nghĩa chung của văn bản luật",
+      "resolution": "Đã dẫn chiếu tới Luật Quốc tịch Việt Nam số 24/2008/QH12 và Luật sửa đổi, bổ sung số 56/2014/QH13",
+      "resolved_on": "2026-11-21"
+    },
+    {
+      "id": "tu-dien-gdcd-6#2",
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "number": 2,
+      "status": "closed",
+      "lesson_id": "b10",
+      "section": "1",
+      "pdf_page": 46,
+      "term_ids": [
+        "giao-duc-cong-dan-6-hien-phap-nam-2013"
+      ],
+      "issue": "Được giới thiệu thời điểm thông qua tại Bài 10 nhưng SGK chưa nêu định nghĩa khái niệm Hiến pháp",
+      "resolution": "Đã dẫn chiếu tới Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam ngày 28/11/2013",
+      "resolved_on": "2026-11-21"
+    },
+    {
+      "id": "tu-dien-gdcd-6#3",
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "number": 3,
+      "status": "closed",
+      "lesson_id": "b11",
+      "section": "1",
+      "pdf_page": 51,
+      "term_ids": [
+        "giao-duc-cong-dan-6-cong-uoc-lien-hop-quoc-ve-quyen-tre-em"
+      ],
+      "issue": "Được nhắc tên và mốc thông qua tại Bài 11 nhưng SGK không trích dẫn định nghĩa văn kiện",
+      "resolution": "Đã dẫn chiếu tới Công ước của Liên hợp quốc về quyền trẻ em ngày 20/11/1989",
+      "resolved_on": "2026-11-21"
+    },
+    {
+      "id": "tu-dien-gdcd-6#4",
+      "dictionary": "Tu-dien-GDCD-6.md",
+      "number": 4,
+      "status": "closed",
+      "lesson_id": "b11",
+      "section": "1",
+      "pdf_page": 51,
+      "term_ids": [
+        "giao-duc-cong-dan-6-luat-tre-em-nam-2016"
+      ],
+      "issue": "Được dẫn chiếu về 4 nhóm quyền trẻ em tại Bài 11 nhưng SGK không nêu định nghĩa văn bản luật",
+      "resolution": "Đã dẫn chiếu tới Luật Trẻ em số 102/2016/QH13 ngày 05/4/2016",
+      "resolved_on": "2026-11-21"
+    }
+  ]
+}

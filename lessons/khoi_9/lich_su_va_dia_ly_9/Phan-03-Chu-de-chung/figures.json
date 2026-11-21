@@ -1,0 +1,52 @@
+{
+  "H9-lich_su_va_dia_ly-cdc-01-01": {
+    "pdf_page": 224,
+    "bbox": [56, 523, 295, 675]
+  },
+  "H9-lich_su_va_dia_ly-cdc-01-02": {
+    "pdf_page": 224,
+    "bbox": [303, 524, 500, 675]
+  },
+  "H9-lich_su_va_dia_ly-cdc-01-03": {
+    "pdf_page": 226,
+    "bbox": [65, 56, 271, 221]
+  },
+  "H9-lich_su_va_dia_ly-cdc-01-04": {
+    "pdf_page": 226,
+    "bbox": [281, 56, 492, 221]
+  },
+  "H9-lich_su_va_dia_ly-cdc-02-01": {
+    "pdf_page": 227,
+    "bbox": [214, 466, 481, 669]
+  },
+  "H9-lich_su_va_dia_ly-cdc-02-02": {
+    "pdf_page": 228,
+    "bbox": [237, 229, 499, 426]
+  },
+  "H9-lich_su_va_dia_ly-cdc-02-03": {
+    "pdf_page": 231,
+    "bbox": [123, 156, 436, 349]
+  },
+  "H9-lich_su_va_dia_ly-cdc-03-01": {
+    "pdf_page": 232,
+    "bbox": [268, 282, 499, 474],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên phải khung chạm kí hiệu kết thúc phần Mở đầu (hai vạch cam) đặt sát chú thích Hình 1"
+  },
+  "H9-lich_su_va_dia_ly-cdc-03-02": {
+    "pdf_page": 233,
+    "bbox": [223, 328, 480, 685]
+  },
+  "H9-lich_su_va_dia_ly-cdc-03-03": {
+    "pdf_page": 235,
+    "bbox": [243, 56, 482, 234]
+  },
+  "H9-lich_su_va_dia_ly-cdc-03-04": {
+    "pdf_page": 235,
+    "bbox": [222, 369, 482, 595]
+  },
+  "H9-lich_su_va_dia_ly-cdc-03-05": {
+    "pdf_page": 237,
+    "bbox": [199, 59, 490, 269]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "status": "da_kiem_chung",
+  "verified_on": "giao_duc_cong_dan_6, giao_duc_cong_dan_7, giao_duc_cong_dan_8, giao_duc_cong_dan_9, 2026-11-21",
+  "profile": "giao_duc_cong_dan",
+  "subjects": [
+    "giao_duc_cong_dan",
+    "gdcd"
+  ],
+  "section_levels": [
+    {
+      "prefix": "## ",
+      "regex": "^(\\d+)\\. ",
+      "example": "## 1. Truyền thống gia đình, dòng họ"
+    },
+    {
+      "prefix": "### ",
+      "regex": "^([a-z]|\\d+)[.)] ",
+      "example": "### a) Biểu hiện của tự lập"
+    },
+    {
+      "prefix": "**",
+      "regex": "^([a-z])[.)] ",
+      "example": "**a) Quyền cơ bản của trẻ em**"
+    }
+  ],
+  "extra_headings": [
+    "^🚀\\s*Vận dụng.*",
+    "^Vận dụng.*",
+    "^VẬN DỤNG.*",
+    "^KHÁM PHÁ.*",
+    "^Khám phá.*",
+    "^MỘT SỐ THUẬT NGỮ DÙNG TRONG SÁCH$",
+    "^DANH SÁCH ẢNH SỬ DỤNG$"
+  ],
+  "formula": "none",
+  "audit_focus": [
+    "mo_ta",
+    "hinh"
+  ],
+  "conventions": [
+    "Mở đầu bài học bằng khối ## 🎯 Sau bài học này, học sinh có thể: (hoặc ## 🎯 Mục tiêu:) và ## 🔴 Khởi động (hoặc ## 🔴 Mở đầu); phần nội dung chính ## KHÁM PHÁ chia thành các mục đánh số ## 1. ..., ## 2. ...; kết bài bằng ## ✏️ Luyện tập và ## 🚀 Vận dụng.",
+    "Các hộp thông tin, câu chuyện, trường hợp, tình huống, câu hỏi thảo luận và hộp chốt kiến thức trọng tâm được trình bày trong khối trích dẫn `> `; thuật ngữ có định nghĩa được in đậm (`**...**`) và khái niệm mô tả được gắn nhãn `<!-- term: ... -->`.",
+    "Tên văn bản quy phạm pháp luật (Hiến pháp năm 2013, Luật Trẻ em năm 2016, Bộ luật Lao động năm 2019, Luật Hôn nhân và gia đình năm 2014,...) và các điều ước quốc tế (Công ước Liên hợp quốc về Quyền trẻ em,...) giữ nguyên chuẩn chính tả theo SGK.",
+    "Các thuật ngữ trong bảng Một số thuật ngữ dùng trong sách ở cuối SGK được tích hợp đầy đủ vào mục Thuật ngữ dùng chung của từ điển."
+  ],
+  "open_questions": []
+}

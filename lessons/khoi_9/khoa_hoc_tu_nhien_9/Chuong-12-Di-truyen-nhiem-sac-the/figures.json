@@ -1,0 +1,78 @@
+{
+  "H9-khoa_hoc_tu_nhien-b42-01": {
+    "pdf_page": 183,
+    "bbox": [283, 580, 528, 763]
+  },
+  "H9-khoa_hoc_tu_nhien-b42-02": {
+    "pdf_page": 184,
+    "bbox": [305, 67, 535, 193]
+  },
+  "H9-khoa_hoc_tu_nhien-b42-03": {
+    "pdf_page": 184,
+    "bbox": [348, 238, 530, 458]
+  },
+  "H9-khoa_hoc_tu_nhien-b42-04": {
+    "pdf_page": 184,
+    "bbox": [316, 497, 539, 722]
+  },
+  "H9-khoa_hoc_tu_nhien-b42-05": {
+    "pdf_page": 185,
+    "bbox": [346, 83, 537, 238]
+  },
+  "H9-khoa_hoc_tu_nhien-b42-06": {
+    "pdf_page": 186,
+    "bbox": [83, 629, 536, 778]
+  },
+  "H9-khoa_hoc_tu_nhien-b43-01": {
+    "pdf_page": 188,
+    "bbox": [66, 564, 530, 684],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh tế bào Kì cuối (y=560) sát chân dòng 'chia nhân.' phía trên (y=559) và biểu tượng bàn tay màu cam (x=55..74, y=684..705) chồng lấn góc dưới trái"
+  },
+  "H9-khoa_hoc_tu_nhien-b43-02": {
+    "pdf_page": 189,
+    "bbox": [64, 562, 532, 770]
+  },
+  "H9-khoa_hoc_tu_nhien-b43-03": {
+    "pdf_page": 190,
+    "bbox": [288, 527, 530, 781]
+  },
+  "H9-khoa_hoc_tu_nhien-b43-04": {
+    "pdf_page": 191,
+    "bbox": [242, 416, 541, 590]
+  },
+  "H9-khoa_hoc_tu_nhien-b43-05": {
+    "pdf_page": 192,
+    "bbox": [68, 117, 517, 292]
+  },
+  "H9-khoa_hoc_tu_nhien-b44-01": {
+    "pdf_page": 193,
+    "bbox": [138, 415, 462, 676]
+  },
+  "H9-khoa_hoc_tu_nhien-b44-02": {
+    "pdf_page": 194,
+    "bbox": [120, 269, 442, 583],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh tóc nhân vật ở Hình 44.2 (y=265) sát ngay chân dấu nặng của dòng văn bản phía trên (y=264)"
+  },
+  "H9-khoa_hoc_tu_nhien-b44-03": {
+    "pdf_page": 195,
+    "bbox": [97, 115, 502, 278]
+  },
+  "H9-khoa_hoc_tu_nhien-b45-01": {
+    "pdf_page": 197,
+    "bbox": [155, 186, 450, 633]
+  },
+  "H9-khoa_hoc_tu_nhien-b46-01": {
+    "pdf_page": 200,
+    "bbox": [53, 56, 541, 353]
+  },
+  "H9-khoa_hoc_tu_nhien-b46-02": {
+    "pdf_page": 201,
+    "bbox": [75, 196, 520, 319]
+  },
+  "H9-khoa_hoc_tu_nhien-b46-03": {
+    "pdf_page": 202,
+    "bbox": [53, 287, 535, 515]
+  }
+}

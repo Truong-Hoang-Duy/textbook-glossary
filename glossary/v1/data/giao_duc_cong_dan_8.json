@@ -1,0 +1,2318 @@
+{
+  "meta": {
+    "schema_version": "2.3",
+    "unit": "giao_duc_cong_dan_8",
+    "subject": "giao_duc_cong_dan",
+    "profile": "giao_duc_cong_dan",
+    "subject_name": "Giáo dục công dân",
+    "grade": 8,
+    "generated_at": "2026-11-21",
+    "counts": {
+      "lessons": 10,
+      "terms": 80,
+      "terms_described": 41,
+      "terms_out_of_source": 10,
+      "open_notes": 0
+    }
+  },
+  "source": {
+    "book_type": "sgk",
+    "series": "Kết nối tri thức với cuộc sống",
+    "publisher": "NXB Giáo dục Việt Nam",
+    "files": [
+      {
+        "file": "SGK Giao duc cong dan 8 KNTT.pdf",
+        "volume": null,
+        "page_count": 76,
+        "printed_offset": 2
+      }
+    ]
+  },
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "printed_pages": [
+        2,
+        2
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "printed_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+      "pdf_pages": [
+        6,
+        6
+      ],
+      "printed_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "p01",
+      "role": "group",
+      "kind": "phan",
+      "label": null,
+      "number": null,
+      "title": "Nội dung bài học",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Tự hào về truyền thống dân tộc Việt Nam",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B01-Tu-hao-ve-truyen-thong-dan-toc-Viet-Nam.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            7,
+            11
+          ],
+          "printed_pages": [
+            5,
+            9
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu:",
+            "items": [
+              "Nêu được một số truyền thống của dân tộc Việt Nam.",
+              "Nhận biết được giá trị các truyền thống của dân tộc Việt Nam.",
+              "Kể được một số biểu hiện của lòng tự hào về truyền thống dân tộc Việt Nam.",
+              "Đánh giá được hành vi, việc làm của bản thân và những người xung quanh trong việc thể hiện lòng tự hào về truyền thống dân tộc Việt Nam.",
+              "Thực hiện được những việc làm cụ thể để giữ gìn, phát huy truyền thống dân tộc."
+            ],
+            "pdf_page": 7
+          },
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Tôn trọng sự đa dạng của các dân tộc",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B02-Ton-trong-su-da-dang-cua-cac-dan-toc.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            12,
+            17
+          ],
+          "printed_pages": [
+            10,
+            15
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu:",
+            "items": [
+              "Nêu được một số biểu hiện của sự đa dạng của các dân tộc và các nền văn hoá trên thế giới.",
+              "Hiểu được ý nghĩa của việc tôn trọng sự đa dạng của các dân tộc và các nền văn hoá trên thế giới.",
+              "Thể hiện được bằng lời nói và việc làm thái độ tôn trọng sự đa dạng của các dân tộc và các nền văn hoá trên thế giới.",
+              "Phê phán những hành vi kì thị, phân biệt chủng tộc và văn hoá."
+            ],
+            "pdf_page": 12
+          },
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Lao động cần cù, sáng tạo",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B03-Lao-dong-can-cu-sang-tao.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            18,
+            21
+          ],
+          "printed_pages": [
+            16,
+            19
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu:",
+            "items": [
+              "Nêu được khái niệm cần cù, sáng tạo trong lao động và một số biểu hiện của cần cù, sáng tạo trong lao động.",
+              "Giải thích được ý nghĩa của cần cù, sáng tạo trong lao động.",
+              "Thể hiện được sự cần cù, sáng tạo trong lao động của bản thân.",
+              "Trân trọng những thành quả lao động; quý trọng và học hỏi những tấm gương cần cù, sáng tạo trong lao động; phê phán những biểu hiện chây lười, thụ động trong lao động."
+            ],
+            "pdf_page": 18
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H8-giao_duc_cong_dan-b03-01",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b03-01.png",
+              "caption": "[Tranh minh hoạ mục 1: Các bạn học sinh kiên trì, sáng tạo chế tạo rô-bốt]",
+              "pdf_page": 19
+            },
+            {
+              "id": "H8-giao_duc_cong_dan-b03-02",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b03-02.png",
+              "caption": "[Tranh minh hoạ mục 2: Máy gieo hạt do bác Khải chế tạo giúp giải phóng sức lao động]",
+              "pdf_page": 19
+            }
+          ]
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Bảo vệ lẽ phải",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B04-Bao-ve-le-phai.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            22,
+            26
+          ],
+          "printed_pages": [
+            20,
+            24
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu:",
+            "items": [
+              "Giải thích được một cách đơn giản về sự cần thiết phải bảo vệ lẽ phải.",
+              "Thực hiện được việc bảo vệ lẽ phải bằng lời nói và hành động cụ thể, phù hợp với lứa tuổi.",
+              "Khích lệ, động viên bạn bè có thái độ, hành vi bảo vệ lẽ phải, phê phán thái độ, hành vi không bảo vệ lẽ phải."
+            ],
+            "pdf_page": 22
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H8-giao_duc_cong_dan-b04-01",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b04-01.png",
+              "caption": "[Tranh 1 mục 2: Học sinh kiên quyết minh oan cho bạn bị đổ oan]",
+              "pdf_page": 23
+            },
+            {
+              "id": "H8-giao_duc_cong_dan-b04-02",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b04-02.png",
+              "caption": "[Tranh 2 mục 2: Học sinh cung cấp biển số xe gây tai nạn cho cơ quan công an]",
+              "pdf_page": 24
+            },
+            {
+              "id": "H8-giao_duc_cong_dan-b04-03",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b04-03.png",
+              "caption": "[Tranh 3 mục 2: Cha mẹ tôn trọng pháp luật khi con làm sai]",
+              "pdf_page": 24
+            }
+          ]
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Bảo vệ môi trường và tài nguyên thiên nhiên",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B05-Bao-ve-moi-truong-va-tai-nguyen-thien-nhien.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            27,
+            36
+          ],
+          "printed_pages": [
+            25,
+            34
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu:",
+            "items": [
+              "Giải thích được sự cần thiết phải bảo vệ môi trường và tài nguyên thiên nhiên.",
+              "Nêu được một số quy định cơ bản của pháp luật về bảo vệ môi trường, tài nguyên thiên nhiên; một số biện pháp cần thiết để bảo vệ môi trường và tài nguyên thiên nhiên.",
+              "Nêu được trách nhiệm của học sinh trong việc bảo vệ môi trường và tài nguyên thiên nhiên.",
+              "Thực hiện được việc bảo vệ môi trường và tài nguyên thiên nhiên bằng những việc làm phù hợp với lứa tuổi.",
+              "Phê phán, đấu tranh với những hành vi gây ô nhiễm môi trường và phá hoại tài nguyên thiên nhiên."
+            ],
+            "pdf_page": 27
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H8-giao_duc_cong_dan-b05-01",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b05-01.png",
+              "caption": "[Tranh 1, 2, 3 mục 2.a: Phân loại rác thải và các hành vi xả thải gây ô nhiễm môi trường]",
+              "pdf_page": 30
+            },
+            {
+              "id": "H8-giao_duc_cong_dan-b05-02",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b05-02.png",
+              "caption": "[Tranh 1, 2 mục 2.b: Hưởng ứng Tết trồng cây và hành vi săn bắn động vật rừng trái phép]",
+              "pdf_page": 32
+            },
+            {
+              "id": "H8-giao_duc_cong_dan-b05-03",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b05-03.png",
+              "caption": "[Tranh 1, 2, 3 mục 4: Các việc làm của học sinh bảo vệ môi trường và tài nguyên thiên nhiên]",
+              "pdf_page": 33
+            }
+          ]
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Xác định mục tiêu cá nhân",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B06-Xac-dinh-muc-tieu-ca-nhan.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            37,
+            42
+          ],
+          "printed_pages": [
+            35,
+            40
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu:",
+            "items": [
+              "Nhận biết được thế nào là mục tiêu cá nhân; các loại mục tiêu cá nhân.",
+              "Hiểu vì sao phải xác định mục tiêu cá nhân.",
+              "Nêu được cách xác định mục tiêu và lập kế hoạch thực hiện mục tiêu cá nhân.",
+              "Xây dựng được mục tiêu cá nhân của bản thân và kế hoạch hành động nhằm đạt mục tiêu đó."
+            ],
+            "pdf_page": 37
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H8-giao_duc_cong_dan-b06-01",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b06-01.png",
+              "caption": "[Tranh 1, 2 mục 1: Một số mục tiêu cá nhân của học sinh]",
+              "pdf_page": 37
+            },
+            {
+              "id": "H8-giao_duc_cong_dan-b06-02",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b06-02.png",
+              "caption": "[Tranh 3, 4, 5, 6 mục 1: Một số mục tiêu cá nhân theo thời gian và lĩnh vực]",
+              "pdf_page": 38
+            },
+            {
+              "id": "H8-giao_duc_cong_dan-b06-03",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b06-03.png",
+              "caption": "[Sơ đồ mục 3: Cách xác định mục tiêu cá nhân theo nguyên tắc S.M.A.R.T]",
+              "pdf_page": 39
+            },
+            {
+              "id": "H8-giao_duc_cong_dan-b06-04",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b06-04.png",
+              "caption": "[Sơ đồ mục 3: 6 bước lập kế hoạch thực hiện mục tiêu cá nhân]",
+              "pdf_page": 40
+            },
+            {
+              "id": "H8-giao_duc_cong_dan-b06-05",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b06-05.png",
+              "caption": "[Hình minh hoạ câu 2.b mục Luyện tập: Mục tiêu và kế hoạch hành động của bạn B]",
+              "pdf_page": 41
+            }
+          ]
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Phòng, chống bạo lực gia đình",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B07-Phong-chong-bao-luc-gia-dinh.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            43,
+            50
+          ],
+          "printed_pages": [
+            40,
+            47
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu:",
+            "items": [
+              "Kể được các hình thức bạo lực gia đình phổ biến.",
+              "Phân tích được tác hại của hành vi bạo lực gia đình đối với cá nhân, gia đình và xã hội.",
+              "Nêu được một số quy định của pháp luật về phòng, chống bạo lực gia đình.",
+              "Biết cách phòng, chống bạo lực gia đình.",
+              "Phê phán các hành vi bạo lực gia đình trong gia đình và cộng đồng."
+            ],
+            "pdf_page": 43
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H8-giao_duc_cong_dan-b07-01",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b07-01.png",
+              "caption": "[Tranh 1, 2, 3 mục 3: Cách phòng tránh trước khi xảy ra bạo lực gia đình]",
+              "pdf_page": 47
+            },
+            {
+              "id": "H8-giao_duc_cong_dan-b07-02",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b07-02.png",
+              "caption": "[Tranh 1, 2, 3 mục 3: Cách xử lí khi xảy ra bạo lực gia đình]",
+              "pdf_page": 48
+            },
+            {
+              "id": "H8-giao_duc_cong_dan-b07-03",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b07-03.png",
+              "caption": "[Tranh 1, 2, 3 mục 3: Cách xử lí sau khi xảy ra bạo lực gia đình]",
+              "pdf_page": 48
+            },
+            {
+              "id": "H8-giao_duc_cong_dan-b07-04",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b07-04.png",
+              "caption": "[Sơ đồ câu 2 mục Luyện tập: Hình thức bạo lực gia đình]",
+              "pdf_page": 50
+            }
+          ]
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Lập kế hoạch chi tiêu",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B08-Lap-ke-hoach-chi-tieu.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            51,
+            54
+          ],
+          "printed_pages": [
+            48,
+            51
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu:",
+            "items": [
+              "Nhận biết được sự cần thiết phải lập kế hoạch chi tiêu.",
+              "Nêu được cách lập kế hoạch chi tiêu.",
+              "Lập được kế hoạch chi tiêu và tạo thói quen chi tiêu hợp lí.",
+              "Giúp đỡ bạn bè, người thân lập kế hoạch chi tiêu hợp lí."
+            ],
+            "pdf_page": 51
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H8-giao_duc_cong_dan-b08-01",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b08-01.png",
+              "caption": "Biểu đồ phân chia tỉ lệ chi tiêu của bạn Phương và Biểu đồ phân chia tỉ lệ chi tiêu của bạn Thuỷ",
+              "pdf_page": 52
+            }
+          ]
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Phòng ngừa tai nạn vũ khí, cháy, nổ và các chất độc hại",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B09-Phong-ngua-tai-nan-vu-khi-chay-no-va-cac-chat-doc.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            55,
+            61
+          ],
+          "printed_pages": [
+            52,
+            58
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu:",
+            "items": [
+              "Kể được tên một số tai nạn vũ khí, cháy, nổ và chất độc hại; nhận diện được một số nguy cơ dẫn đến tai nạn vũ khí, cháy, nổ và chất độc hại.",
+              "Trình bày được hậu quả của tai nạn vũ khí, cháy, nổ và chất độc hại.",
+              "Nêu được quy định cơ bản của pháp luật về phòng ngừa tai nạn vũ khí, cháy, nổ và các chất độc hại.",
+              "Nhận biết được trách nhiệm của công dân trong việc phòng ngừa tai nạn vũ khí, cháy, nổ và các chất độc hại.",
+              "Thực hiện được việc phòng ngừa tai nạn vũ khí, cháy, nổ và các chất độc hại.",
+              "Nhắc nhở, tuyên truyền người thân, bạn bè chủ động phòng ngừa tai nạn vũ khí, cháy, nổ và các chất độc hại."
+            ],
+            "pdf_page": 55
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H8-giao_duc_cong_dan-b09-01",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b09-01.png",
+              "caption": "[Tranh 1, 2 mục 1: Một số hành vi tiềm ẩn nguy cơ tai nạn cháy, nổ và vũ khí tự chế]",
+              "pdf_page": 56
+            },
+            {
+              "id": "H8-giao_duc_cong_dan-b09-02",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b09-02.png",
+              "caption": "[Tranh 1, 2, 3, 4 mục 3: Trách nhiệm của công dân trong việc phòng ngừa tai nạn vũ khí, cháy, nổ và các chất độc hại]",
+              "pdf_page": 59
+            }
+          ]
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Quyền và nghĩa vụ lao động của công dân",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B10-Quyen-va-nghia-vu-lao-dong-cua-cong-dan.md",
+          "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+          "pdf_pages": [
+            62,
+            72
+          ],
+          "printed_pages": [
+            59,
+            69
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "Mục tiêu:",
+            "items": [
+              "Phân tích được tầm quan trọng của lao động đối với đời sống con người.",
+              "Nêu được một số quy định của pháp luật về quyền, nghĩa vụ lao động của công dân và lao động chưa thành niên.",
+              "Nêu được một số quyền và nghĩa vụ cơ bản của các bên tham gia hợp đồng lao động, lập được hợp đồng lao động có nội dung đơn giản giữa người sử dụng lao động và người lao động.",
+              "Tích cực, chủ động tham gia lao động ở gia đình, trường, lớp và cộng đồng phù hợp lứa tuổi."
+            ],
+            "pdf_page": 62
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H8-giao_duc_cong_dan-b10-01",
+              "file": "Bai-hoc/img/H8-giao_duc_cong_dan-b10-01.png",
+              "caption": "[Tranh 1, 2, 3, 4 mục 3: Thực hiện quy định của pháp luật về lao động chưa thành niên]",
+              "pdf_page": 66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Một số thuật ngữ dùng trong sách",
+      "file": "Mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK Giao duc cong dan 8 KNTT.pdf",
+      "pdf_pages": [
+        73,
+        74
+      ],
+      "printed_pages": [
+        70,
+        71
+      ],
+      "status": "verified"
+    }
+  ],
+  "dictionaries": [
+    {
+      "file": "Tu-dien-GDCD-8.md",
+      "name": "tu-dien-gdcd-8",
+      "title": "TỪ ĐIỂN THUẬT NGỮ GIÁO DỤC CÔNG DÂN 8 — NỘI DUNG BÀI HỌC (BÀI 1–10)",
+      "group_id": "p01",
+      "lesson_ids": [
+        "b01",
+        "b02",
+        "b03",
+        "b04",
+        "b05",
+        "b06",
+        "b07",
+        "b08",
+        "b09",
+        "b10"
+      ],
+      "conventions": [
+        "**Thuật ngữ có định nghĩa trong nguồn (`in_source`)**: Thuật ngữ được in đậm tại câu định nghĩa trực tiếp trong 10 bài học (Bài 1–10) hoặc trong bảng *Một số thuật ngữ dùng trong sách* ở cuối SGK Giáo dục công dân 8 (Kết nối tri thức với cuộc sống). Phần giải nghĩa trích dẫn nguyên văn từ SGK.",
+        "**Thuật ngữ được mô tả (`described`)**: Khái niệm đạo đức, kĩ năng sống, kinh tế cá nhân và pháp luật được diễn giải qua ngữ cảnh bài học, có gắn nhãn `<!-- term: <tên> -->` ở Tầng 1. Cột **Bối cảnh sử dụng** bắt đầu bằng tiền tố `[mô tả] `.",
+        "**Thuật ngữ ngoài nguồn (`out_of_source`)**: Các văn bản quy phạm pháp luật Việt Nam được trích dẫn trong bài học nhưng SGK không nêu định nghĩa khái quát về văn bản luật, được dẫn chiếu tới văn bản pháp luật chính thức và ghi nhận đầy đủ tại mục *Ghi chú nguồn cần kiểm tra*.",
+        "**Bảng giải thích thuật ngữ cuối sách**: Toàn bộ 14 mục thuật ngữ trong bảng *Một số thuật ngữ dùng trong sách* (trang in 70–71, PDF 73–74) được tích hợp đầy đủ tại mục *Thuật ngữ dùng chung*."
+      ],
+      "status": "verified",
+      "created": "2026-11-21",
+      "updated": "2026-11-21"
+    }
+  ],
+  "terms": [
+    {
+      "id": "giao-duc-cong-dan-8-chat-doc-hai",
+      "term": "Chất độc hại",
+      "aliases": [],
+      "english": "Toxic substance (Hazardous substance)",
+      "notation": null,
+      "meaning": "Chất tác động lên quá trình sống của con người hoặc động vật có thể gây tử vong, tê liệt tạm thời hoặc lâu dài, gây ngộ độc cấp tính hoặc mãn tính, gây huỷ hoại môi trường, môi sinh.",
+      "usage_context": "Bảng một số thuật ngữ dùng trong sách (trang 70, PDF 73); sử dụng trong Bài 5, Bài 9 và Bài 10 khi học về bảo vệ môi trường, phòng ngừa tai nạn chất độc hại và bảo vệ lao động chưa thành niên.",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 73,
+        "printed_page": 70
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-che-do-a-pac-thai",
+      "term": "Chế độ A-pác-thai",
+      "aliases": [],
+      "english": "Apartheid regime",
+      "notation": null,
+      "meaning": "Chế độ phân biệt chủng tộc cực đoan do một số người da trắng ở miền Nam và Tây Nam Phi áp đặt để duy trì ách thống trị của họ đối với đa số người da đen bản địa.",
+      "usage_context": "Bảng một số thuật ngữ dùng trong sách (trang 70, PDF 73) và Bài 2, mục 2 (trang 12, PDF 14) khi tìm hiểu cuộc đấu tranh chống phân biệt chủng tộc của Nen-xơn Man-đê-la ở Nam Phi.",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 73,
+        "printed_page": 70
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-dan-toc",
+      "term": "Dân tộc",
+      "aliases": [],
+      "english": "Nation / Ethnic group",
+      "notation": null,
+      "meaning": "– Nghĩa rộng: Cộng đồng người ổn định hợp thành nhân dân một nước, có lãnh thổ, quốc gia, nền kinh tế thống nhất, quốc ngữ chung và có ý thức về sự thống nhất quốc gia của mình, gắn bó với nhau bởi lợi ích chính trị, kinh tế, truyền thống văn hoá và truyền thống đấu tranh chung trong suốt quá trình lịch sử dựng nước và giữ nước. – Nghĩa hẹp: Một cộng đồng người được hình thành trong lịch sử, có mối liên hệ chặt chẽ và bền vững, có chung ý thức tự giác tộc người, ngôn ngữ và văn hoá.",
+      "usage_context": "Bảng một số thuật ngữ dùng trong sách (trang 70, PDF 73); khái niệm nền tảng xuyên suốt Bài 1 và Bài 2 về truyền thống dân tộc Việt Nam và sự đa dạng của các dân tộc trên thế giới.",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 73,
+        "printed_page": 70
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-da-dang-dan-toc",
+      "term": "Đa dạng dân tộc",
+      "aliases": [],
+      "english": "Ethnic diversity",
+      "notation": null,
+      "meaning": "Tính nhiều vẻ, nhiều dạng biểu hiện khác nhau về sắc tộc, tâm lí, tính cách, truyền thống văn hoá,... của các dân tộc.",
+      "usage_context": "Bảng một số thuật ngữ dùng trong sách (trang 70, PDF 73) và Bài 2 (trang 11, 14, PDF 13, 16) về tôn trọng sự khác biệt và bản sắc riêng của các dân tộc.",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 73,
+        "printed_page": 70
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-da-dang-van-hoa",
+      "term": "Đa dạng văn hoá",
+      "aliases": [],
+      "english": "Cultural diversity",
+      "notation": null,
+      "meaning": "Sự cùng tồn tại của nhiều nền văn hoá, dạng thức văn hoá và nhiều cách biểu đạt văn hoá khác nhau ở một vùng nói riêng hoặc trên thế giới nói chung.",
+      "usage_context": "Bảng một số thuật ngữ dùng trong sách (trang 70, PDF 73) và Bài 2, mục 2 (trang 12, PDF 14) khi trích dẫn Công ước quốc tế về đa dạng văn hoá năm 2001.",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 73,
+        "printed_page": 70
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-moi-truong",
+      "term": "Môi trường",
+      "aliases": [],
+      "english": "Environment",
+      "notation": null,
+      "meaning": "Bao gồm các yếu tố vật chất tự nhiên và nhân tạo quan hệ mật thiết với nhau, bao quanh con người, có ảnh hưởng đến đời sống kinh tế, xã hội, sự tồn tại, phát triển của con người, sinh vật và tự nhiên.",
+      "usage_context": "Bảng một số thuật ngữ dùng trong sách (trang 70, PDF 73) và Bài 5 (trang 25–34, PDF 27–36) về sự cần thiết, quy định pháp luật và biện pháp bảo vệ môi trường.",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 73,
+        "printed_page": 70
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-nguoi-lao-dong",
+      "term": "Người lao động",
+      "aliases": [],
+      "english": "Employee (Worker)",
+      "notation": null,
+      "meaning": "Người từ đủ 15 tuổi trở lên, có khả năng lao động, kí kết và làm việc theo hợp đồng lao động, được trả lương và chịu sự quản lí, điều hành của người sử dụng lao động.",
+      "usage_context": "Bảng một số thuật ngữ dùng trong sách (trang 70, PDF 73) và Bài 10 (trang 59–68, PDF 62–71) về quyền, nghĩa vụ của người lao động trong quan hệ lao động.",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 73,
+        "printed_page": 70
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-nguoi-su-dung-lao-dong",
+      "term": "Người sử dụng lao động",
+      "aliases": [],
+      "english": "Employer",
+      "notation": null,
+      "meaning": "Doanh nghiệp, cơ quan, tổ chức, hợp tác xã, hộ gia đình, cá nhân có thuê mướn, sử dụng lao động theo hợp đồng lao động.",
+      "usage_context": "Bảng một số thuật ngữ dùng trong sách (trang 70, PDF 73) và Bài 10 (trang 59–68, PDF 62–71) về quyền, nghĩa vụ của người sử dụng lao động khi giao kết và thực hiện hợp đồng lao động.",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 73,
+        "printed_page": 70
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-phan-biet-chung-toc",
+      "term": "Phân biệt chủng tộc",
+      "aliases": [],
+      "english": "Racial discrimination (Racism)",
+      "notation": null,
+      "meaning": "Những định kiến, phân biệt đối xử hoặc đối kháng nhằm vào người thuộc chủng tộc hoặc sắc tộc khác.",
+      "usage_context": "Bảng một số thuật ngữ dùng trong sách (trang 70, PDF 73) và Bài 2 (trang 10–15, PDF 12–17) về phê phán, xoá bỏ mọi hình thức kì thị, phân biệt chủng tộc.",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 73,
+        "printed_page": 70
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-tai-nguyen-thien-nhien",
+      "term": "Tài nguyên thiên nhiên",
+      "aliases": [],
+      "english": "Natural resources",
+      "notation": null,
+      "meaning": "Nguồn của cải có sẵn trong tự nhiên, chưa khai thác hoặc đang được tiến hành khai thác.",
+      "usage_context": "Bảng một số thuật ngữ dùng trong sách (trang 71, PDF 74) và Bài 5 (trang 25–34, PDF 27–36) về bảo vệ, khai thác hợp lí rừng, khoáng sản, thuỷ sản, tài nguyên nước.",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 74,
+        "printed_page": 71
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-tinh-hoa-van-hoa",
+      "term": "Tinh hoa văn hoá",
+      "aliases": [],
+      "english": "Cultural quintessence",
+      "notation": null,
+      "meaning": "Những giá trị văn hoá tinh tuý, cốt lõi, tốt đẹp nhất.",
+      "usage_context": "Bảng một số thuật ngữ dùng trong sách (trang 71, PDF 74) và Bài 2 (trang 14, PDF 16) về tiếp thu có chọn lọc tinh hoa văn hoá của các dân tộc trên thế giới.",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 74,
+        "printed_page": 71
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-truyen-thong-dan-toc",
+      "term": "Truyền thống dân tộc",
+      "aliases": [],
+      "english": "National tradition",
+      "notation": null,
+      "meaning": "Những giá trị tinh thần (tư tưởng, tính cách, lối sống, cách ứng xử tốt đẹp, ...) hình thành trong quá trình lịch sử lâu dài của dân tộc, được truyền từ thế hệ này sang thế hệ khác.",
+      "usage_context": "Bảng một số thuật ngữ dùng trong sách (trang 71, PDF 74) và Bài 1, Mở đầu (trang 5, PDF 7) về tự hào, giữ gìn và phát huy truyền thống dân tộc Việt Nam.",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": null,
+        "pdf_page": 7,
+        "printed_page": 5
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-truyen-thong-van-hoa",
+      "term": "Truyền thống văn hoá",
+      "aliases": [],
+      "english": "Cultural tradition",
+      "notation": null,
+      "meaning": "Những giá trị văn hoá tốt đẹp được trao truyền qua các thế hệ.",
+      "usage_context": "Bảng một số thuật ngữ dùng trong sách (trang 71, PDF 74) và Bài 1, mục Luyện tập (trang 9, PDF 11) khi bàn về bản sắc văn hoá Việt Nam.",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 74,
+        "printed_page": 71
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-vu-khi",
+      "term": "Vũ khí",
+      "aliases": [],
+      "english": "Weapon",
+      "notation": null,
+      "meaning": "Thiết bị, phương tiện hoặc tổ hợp những phương tiện được chế tạo, sản xuất có khả năng gây sát thương, nguy hại cho tính mạng, sức khoẻ của con người, phá huỷ kết cấu vật chất, bao gồm: vũ khí quân dụng, súng săn, vũ khí thô sơ, vũ khí thể thao và vũ khí khác có tính năng, tác dụng tương tự.",
+      "usage_context": "Bảng một số thuật ngữ dùng trong sách (trang 71, PDF 74) và Bài 9 (trang 52–58, PDF 55–61) về phòng ngừa tai nạn vũ khí, cháy, nổ và các chất độc hại.",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 74,
+        "printed_page": 71
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-truyen-thong-yeu-nuoc",
+      "term": "Truyền thống yêu nước",
+      "aliases": [],
+      "english": "Tradition of patriotism",
+      "notation": null,
+      "meaning": "Dân ta có một lòng nồng nàn yêu nước. Đó là một truyền thống quý báu của ta. Từ xưa đến nay, mỗi khi Tổ quốc bị xâm lăng, thì tinh thần ấy lại sôi nổi, nó kết thành một làn sóng vô cùng mạnh mẽ, to lớn, nó lướt qua mọi sự nguy hiểm, khó khăn, nó nhấn chìm tất cả lũ bán nước và lũ cướp nước.",
+      "usage_context": "Bài 1, mục 1 (trang 5, PDF 7) — truyền thống quý báu hàng đầu của dân tộc Việt Nam trong sự nghiệp dựng nước và giữ nước.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1",
+        "pdf_page": 7,
+        "printed_page": 5
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-truyen-thong-hieu-hoc",
+      "term": "Truyền thống hiếu học",
+      "aliases": [],
+      "english": "Tradition of studiousness",
+      "notation": null,
+      "meaning": "Tấm gương hiếu học tiêu biểu như Bùi Xương Trạch là con một gia đình nông dân nghèo, bố mẹ cho đi học nhưng ông vẫn rất chăm làm: mang sách buộc vào tay bừa để vừa bừa, vừa ôn bài; bắt đom đóm bỏ vào vỏ trứng để lấy ánh sáng đọc sách; tranh thủ về nhà ôn thi và ra đồng cấy, không bỏ phí một ngày, hai mươi bảy tuổi ông đỗ tiến sĩ.",
+      "usage_context": "Bài 1, mục 1 (trang 6, PDF 8) — minh hoạ truyền thống hiếu học, cần cù lao động và tôn sư trọng đạo của dân tộc Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1",
+        "pdf_page": 8,
+        "printed_page": 6
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-truyen-thong-tuong-than-tuong-ai",
+      "term": "Truyền thống tương thân, tương ái",
+      "aliases": [],
+      "english": "Tradition of mutual affection and support",
+      "notation": null,
+      "meaning": "Phát huy tinh thần tương thân, tương ái của dân tộc qua các hoạt động linh hoạt chuyển quà Tết nghĩa tình, túi an sinh, trao tặng nhà “Mái ấm biên cương”, thăm và chúc Tết thương binh, bệnh binh, gia đình liệt sĩ, Bà mẹ Việt Nam Anh hùng, chăm lo trẻ mồ côi và hỗ trợ người nghèo, đối tượng bảo trợ xã hội.",
+      "usage_context": "Bài 1, mục 1 (trang 6, PDF 8) — biểu hiện giá trị nhân nghĩa, đoàn kết, đùm bọc lẫn nhau của người Việt Nam khi gặp khó khăn, dịch bệnh.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "1",
+        "pdf_page": 8,
+        "printed_page": 6
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-ba-me-viet-nam-anh-hung",
+      "term": "Bà mẹ Việt Nam Anh hùng",
+      "aliases": [],
+      "english": "Heroic Vietnamese Mother",
+      "notation": null,
+      "meaning": "Thực hiện Pháp lệnh Quy định danh hiệu vinh dự Nhà nước \"Bà mẹ Việt Nam anh hùng\", Đảng, Nhà nước phong tặng và truy tặng các Bà mẹ Việt Nam Anh hùng nhằm tri ân sâu sắc công lao và những hi sinh của các Mẹ; việc chăm lo, phụng dưỡng các Mẹ Việt Nam Anh hùng của các cơ quan, tổ chức và gia đình đã trở thành một chính sách lớn của Đảng, Nhà nước.",
+      "usage_context": "Bài 1, mục 2 (trang 7, PDF 9) — biểu hiện của lòng biết ơn và tự hào về truyền thống uống nước nhớ nguồn của dân tộc Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "2",
+        "pdf_page": 9,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-bia-tien-si-van-mieu-quoc-tu-giam",
+      "term": "Bia tiến sĩ Văn Miếu – Quốc Tử Giám",
+      "aliases": [],
+      "english": "Doctoral stelae at the Temple of Literature – Imperial Academy",
+      "notation": null,
+      "meaning": "Những tấm bia tiến sĩ đầu tiên được dựng ở Văn Miếu – Quốc Tử Giám vào năm Giáp Thìn (1484); 82 tấm bia tiến sĩ được dựng là quần thể di sản văn hoá quý báu nhằm tôn vinh, lưu danh các nhà trí thức lớn, thể hiện niềm tự hào về truyền thống hiếu học, tôn sư trọng đạo, đề cao trí thức của dân tộc Việt Nam.",
+      "usage_context": "Bài 1, mục 2 (trang 7, PDF 9) — di sản văn hoá tiêu biểu truyền cảm hứng học tập và trau dồi đạo đức theo gương các bậc hiền nhân.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "2",
+        "pdf_page": 9,
+        "printed_page": 7
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-gia-tri-cua-truyen-thong-dan-toc-viet-nam",
+      "term": "Giá trị của truyền thống dân tộc Việt Nam",
+      "aliases": [],
+      "english": "Value of Vietnamese national traditions",
+      "notation": null,
+      "meaning": "Truyền thống dân tộc góp phần tích cực vào quá trình phát triển của mỗi cá nhân, là nền tảng cho lòng tự hào, tự tôn, cho sự phát triển lành mạnh và hạnh phúc của mỗi người. Giá trị các truyền thống là nền tảng để xây dựng đất nước phát triển vững mạnh, là sức mạnh và bản sắc riêng của Việt Nam trong quá trình hội nhập quốc tế.",
+      "usage_context": "Bài 1, hộp chốt kiến thức mục 2 (trang 8, PDF 10) — khẳng định vai trò nền tảng của truyền thống đối với cá nhân và quốc gia.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "2",
+        "pdf_page": 10,
+        "printed_page": 8
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-long-tu-hao-ve-truyen-thong-dan-toc",
+      "term": "Lòng tự hào về truyền thống dân tộc",
+      "aliases": [],
+      "english": "Pride in national traditions",
+      "notation": null,
+      "meaning": "Biểu hiện của lòng tự hào về truyền thống dân tộc được thể hiện thông qua thái độ, cảm xúc, lời nói, việc làm,... giữ gìn và phát huy các giá trị truyền thống dân tộc.",
+      "usage_context": "Bài 1, hộp chốt kiến thức mục 3 (trang 8, PDF 10) — nhận diện thái độ và hành vi tự hào về truyền thống dân tộc.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "2",
+        "pdf_page": 10,
+        "printed_page": 8
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-giu-gin-va-phat-huy-truyen-thong-dan-toc",
+      "term": "Giữ gìn và phát huy truyền thống dân tộc",
+      "aliases": [],
+      "english": "Preserving and promoting national traditions",
+      "notation": null,
+      "meaning": "Những việc làm cụ thể để giữ gìn và phát huy truyền thống dân tộc như: tìm hiểu về truyền thống, phong tục, tập quán dân tộc, có thái độ tôn trọng, trân quý, giữ gìn và phát huy nghệ thuật truyền thống, biết ơn những người có công với đất nước, tham gia các hoạt động đền ơn đáp nghĩa, các sinh hoạt văn hoá dân tộc, dân gian,... đồng thời đánh giá và phê phán những hành vi gây tổn hại đến truyền thống dân tộc.",
+      "usage_context": "Bài 1, hộp chốt kiến thức mục 4 (trang 8, PDF 10) — định hướng trách nhiệm rèn luyện của học sinh đối với các giá trị truyền thống.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": "2",
+        "pdf_page": 10,
+        "printed_page": 8
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-toan-cau-hoa",
+      "term": "Toàn cầu hoá",
+      "aliases": [],
+      "english": "Globalization",
+      "notation": null,
+      "meaning": "Quá trình đang xoá đi sự ngăn cách về không gian địa lí, tạo điều kiện cho việc giao lưu, học hỏi giữa các dân tộc, các nền văn hoá, đồng thời cũng tạo ra nguy cơ làm mất đi tính đa dạng bản sắc văn hoá dân tộc.",
+      "usage_context": "Bài 2, Mở đầu (trang 10, PDF 12) — bối cảnh thời đại đặt ra yêu cầu tôn trọng sự đa dạng văn hoá và giữ gìn bản sắc dân tộc.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": null,
+        "pdf_page": 12,
+        "printed_page": 10
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-cong-uoc-quoc-te-ve-da-dang-van-hoa-nam-2001",
+      "term": "Công ước quốc tế về đa dạng văn hoá năm 2001",
+      "aliases": [],
+      "english": "UNESCO Universal Declaration on Cultural Diversity (2001)",
+      "notation": null,
+      "meaning": "Văn kiện quốc tế khẳng định đa dạng văn hoá chính là tài sản chung của nhân loại cần được công nhận, khẳng định vì quyền lợi của các thế hệ hiện tại và tương lai; là một nhân tố phát triển mang đến nhiều cơ hội lựa chọn hơn và là phương tiện đạt được sự tồn tại mãn nguyện hơn về trí tuệ, tình cảm, đạo đức cũng như tinh thần.",
+      "usage_context": "Bài 2, mục 2 (trang 12, PDF 14) — cơ sở quốc tế khẳng định giá trị và ý nghĩa của đa dạng văn hoá đối với sự phát triển nhân loại.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "2",
+        "pdf_page": 14,
+        "printed_page": 12
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-cong-uoc-quoc-te-ve-xoa-bo-moi-hinh-thuc-phan-biet-chung-toc",
+      "term": "Công ước quốc tế về xoá bỏ mọi hình thức phân biệt chủng tộc",
+      "aliases": [
+        "ICERD"
+      ],
+      "english": "International Convention on the Elimination of All Forms of Racial Discrimination (ICERD)",
+      "notation": null,
+      "meaning": "Công ước quốc tế về xoá bỏ mọi hình thức phân biệt chủng tộc (ICERD) là một văn kiện cam kết các quốc gia thành viên loại bỏ phân biệt chủng tộc và thúc đẩy sự hiểu biết giữa tất cả các chủng tộc.",
+      "usage_context": "Bài 2, mục 3 (trang 13, PDF 15) — cam kết pháp lí quốc tế ngăn cấm, xoá bỏ phân biệt chủng tộc và bảo đảm bình đẳng quyền con người.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "3",
+        "pdf_page": 15,
+        "printed_page": 13
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-ton-trong-su-da-dang-cua-cac-dan-toc-va-cac-nen-van-hoa-tren-the-gioi",
+      "term": "Tôn trọng sự đa dạng của các dân tộc và các nền văn hoá trên thế giới",
+      "aliases": [],
+      "english": "Respect for ethnic and cultural diversity in the world",
+      "notation": null,
+      "meaning": "Tôn trọng sự đa dạng của các dân tộc và các nền văn hoá trên thế giới là tôn trọng tính cách, truyền thống, phong tục tập quán,... của các dân tộc; luôn tích cực tìm hiểu và tiếp thu những giá trị tốt đẹp của các dân tộc; đồng thời thể hiện lòng tự hào chính đáng về dân tộc mình; phê phán những hành vi kì thị, phân biệt chủng tộc và văn hoá.",
+      "usage_context": "Bài 2, hộp chốt kiến thức mục 2 (trang 14, PDF 16) — khái niệm trọng tâm và cách thức ứng xử văn minh trong giao lưu quốc tế.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "3",
+        "pdf_page": 16,
+        "printed_page": 14
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-y-nghia-cua-viec-ton-trong-su-da-dang-cua-cac-dan-toc-va-cac-nen-van-hoa",
+      "term": "Ý nghĩa của việc tôn trọng sự đa dạng của các dân tộc và các nền văn hoá",
+      "aliases": [],
+      "english": "Significance of respecting ethnic and cultural diversity",
+      "notation": null,
+      "meaning": "Tôn trọng sự đa dạng của các dân tộc và các nền văn hoá trên thế giới tạo cơ hội để chúng ta có thêm hiểu biết; tiếp thu những tinh hoa văn hoá của các dân tộc khác; làm phong phú thêm những giá trị của dân tộc mình; củng cố niềm tin, sự đồng cảm, hoà hợp và tăng cường tình hữu nghị, hoà bình, hợp tác giữa các quốc gia trên thế giới.",
+      "usage_context": "Bài 2, hộp chốt kiến thức mục 3 (trang 14, PDF 16) — lợi ích của thái độ tôn trọng sự đa dạng đối với cá nhân, dân tộc và hoà bình thế giới.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": "3",
+        "pdf_page": 16,
+        "printed_page": 14
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-lao-dong-can-cu",
+      "term": "Lao động cần cù",
+      "aliases": [],
+      "english": "Diligent labor (Industriousness)",
+      "notation": null,
+      "meaning": "Lao động cần cù là chăm chỉ, chịu khó làm việc một cách thường xuyên, phấn đấu hết mình vì công việc.",
+      "usage_context": "Bài 3, hộp chốt kiến thức mục 1 (trang 18, PDF 20) — phẩm chất đạo đức cốt lõi trong học tập và lao động sản xuất.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2",
+        "pdf_page": 20,
+        "printed_page": 18
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-lao-dong-sang-tao",
+      "term": "Lao động sáng tạo",
+      "aliases": [],
+      "english": "Creative labor",
+      "notation": null,
+      "meaning": "Lao động sáng tạo là luôn luôn suy nghĩ, cải tiến để tìm tòi cái mới, tìm ra cách giải quyết tối ưu nhằm không ngừng nâng cao chất lượng, hiệu quả lao động.",
+      "usage_context": "Bài 3, hộp chốt kiến thức mục 1 (trang 18, PDF 20) — yêu cầu đổi mới, cải tiến phương pháp nhằm nâng cao năng suất và hiệu quả công việc.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2",
+        "pdf_page": 20,
+        "printed_page": 18
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-bieu-hien-cua-lao-dong-can-cu-sang-tao",
+      "term": "Biểu hiện của lao động cần cù, sáng tạo",
+      "aliases": [],
+      "english": "Manifestations of diligent and creative labor",
+      "notation": null,
+      "meaning": "Biểu hiện của lao động cần cù: chăm chỉ, chịu khó làm việc một cách thường xuyên. Biểu hiện của lao động sáng tạo: luôn luôn suy nghĩ, tìm tòi, cải tiến phương pháp để lao động có hiệu quả; nghiêm khắc sửa chữa sai lầm, rút ra bài học kinh nghiệm cho bản thân.",
+      "usage_context": "Bài 3, hộp chốt kiến thức mục 2 (trang 18, PDF 20) — tiêu chí nhận biết người cần cù, sáng tạo đối lập với chây lười, thụ động.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2",
+        "pdf_page": 20,
+        "printed_page": 18
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-y-nghia-cua-can-cu-sang-tao-trong-lao-dong",
+      "term": "Ý nghĩa của cần cù, sáng tạo trong lao động",
+      "aliases": [],
+      "english": "Significance of diligence and creativity in labor",
+      "notation": null,
+      "meaning": "Cần cù, sáng tạo trong lao động giúp con người hoàn thiện và phát triển phẩm chất, năng lực của mỗi cá nhân để nâng cao hiệu quả lao động, góp phần xây dựng quê hương, đất nước; tạo ra được nhiều giá trị vật chất, tinh thần góp phần cải thiện và nâng cao đời sống; được mọi người yêu quý, tôn trọng.",
+      "usage_context": "Bài 3, hộp chốt kiến thức mục 3 (trang 18, PDF 20) — giải thích vai trò của đức tính cần cù, sáng tạo đối với cá nhân và xã hội.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": "2",
+        "pdf_page": 20,
+        "printed_page": 18
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-le-phai",
+      "term": "Lẽ phải",
+      "aliases": [],
+      "english": "Rightness (Justice / Moral truth)",
+      "notation": null,
+      "meaning": "Lẽ phải là những điều đúng đắn, phù hợp với đạo lí và lợi ích chung của xã hội.",
+      "usage_context": "Bài 4, hộp chốt kiến thức mục 1 (trang 23, PDF 25) — chuẩn mực đúng đắn làm cơ sở điều chỉnh nhận thức và hành vi ứng xử trong cộng đồng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "2",
+        "pdf_page": 25,
+        "printed_page": 23
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-bao-ve-le-phai",
+      "term": "Bảo vệ lẽ phải",
+      "aliases": [],
+      "english": "Upholding what is right (Defending justice)",
+      "notation": null,
+      "meaning": "Bảo vệ lẽ phải là công nhận, ủng hộ, tuân theo và bảo vệ những điều đúng đắn; biết điều chỉnh suy nghĩ, hành vi của mình theo lẽ phải; không chấp nhận và không làm những việc sai trái.",
+      "usage_context": "Bài 4, hộp chốt kiến thức mục 1 (trang 23, PDF 25) — phẩm chất đạo đức thể hiện sự công tâm, trung thực và dũng cảm đấu tranh với cái sai.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "2",
+        "pdf_page": 25,
+        "printed_page": 23
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-y-nghia-cua-viec-bao-ve-le-phai",
+      "term": "Ý nghĩa của việc bảo vệ lẽ phải",
+      "aliases": [],
+      "english": "Significance of defending what is right",
+      "notation": null,
+      "meaning": "Việc bảo vệ lẽ phải giúp mỗi người có cách ứng xử phù hợp; góp phần đẩy lùi cái sai, cái xấu, để làm lành mạnh mối quan hệ xã hội, thúc đẩy xã hội ổn định, phát triển; củng cố niềm tin của con người vào cộng đồng, pháp luật và lương tri.",
+      "usage_context": "Bài 4, hộp chốt kiến thức mục 2 (trang 23, PDF 25) — giải thích sự cần thiết phải bảo vệ lẽ phải đối với cá nhân và trật tự xã hội.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "2",
+        "pdf_page": 25,
+        "printed_page": 23
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-trach-nhiem-cua-hoc-sinh-trong-viec-bao-ve-le-phai",
+      "term": "Trách nhiệm của học sinh trong việc bảo vệ lẽ phải",
+      "aliases": [],
+      "english": "Students' responsibility in defending what is right",
+      "notation": null,
+      "meaning": "Học sinh cần thực hiện được việc bảo vệ lẽ phải bằng lời nói và hành động cụ thể, phù hợp với lứa tuổi; khích lệ, động viên bạn bè có thái độ, hành vi bảo vệ lẽ phải, phê phán thái độ, hành vi không bảo vệ lẽ phải.",
+      "usage_context": "Bài 4, hộp chốt kiến thức mục 3 (trang 23, PDF 25) — định hướng cách rèn luyện và thực hành bảo vệ lẽ phải trong nhà trường và đời sống.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "2",
+        "pdf_page": 25,
+        "printed_page": 23
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-o-nhiem-moi-truong",
+      "term": "Ô nhiễm môi trường",
+      "aliases": [],
+      "english": "Environmental pollution",
+      "notation": null,
+      "meaning": "Ô nhiễm không khí (đặc biệt là ô nhiễm bụi mịn, khí thải chứa nhiều thành phần độc hại như CO, NO₂...), ô nhiễm nguồn nước và ô nhiễm đất gây ảnh hưởng nghiêm trọng tới sức khoẻ con người (làm tăng nguy cơ mắc các bệnh nhiễm khuẩn cấp tính đường hô hấp dưới, đột quỵ, đau tim, ung thư phổi, các bệnh về đường tiêu hoá,...), đồng thời ảnh hưởng đến sản xuất nông nghiệp, chất lượng nông sản và động vật thông qua chuỗi thức ăn.",
+      "usage_context": "Bài 5, mục 1.a (trang 25–26, PDF 27–28) — thực trạng và hậu quả của ô nhiễm không khí, nước, đất đặt ra yêu cầu cấp bách phải bảo vệ môi trường.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "1.a",
+        "pdf_page": 27,
+        "printed_page": 25
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-luat-bao-ve-moi-truong-nam-2020",
+      "term": "Luật Bảo vệ môi trường năm 2020",
+      "aliases": [],
+      "english": "Law on Environmental Protection 2020",
+      "notation": null,
+      "meaning": "Văn bản pháp luật quy định bảo vệ môi trường là quyền, nghĩa vụ và trách nhiệm của mọi cơ quan, tổ chức, cộng đồng dân cư, hộ gia đình và cá nhân; đồng thời nghiêm cấm các hành vi đổ, thải, đốt chất thải trái quy định, xả nước thải và khí thải chưa xử lí đạt quy chuẩn, phát tán chất độc hại, che giấu hành vi gây ô nhiễm và xâm chiếm trái phép di sản thiên nhiên.",
+      "usage_context": "Bài 5, mục 2.a (trang 27–28, PDF 29–30) — căn cứ pháp lí cơ bản điều chỉnh hoạt động bảo vệ môi trường tại Việt Nam.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "2.a",
+        "pdf_page": 29,
+        "printed_page": 27
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-nong-nghiep-huu-co",
+      "term": "Nông nghiệp hữu cơ",
+      "aliases": [],
+      "english": "Organic agriculture",
+      "notation": null,
+      "meaning": "Nông nghiệp hữu cơ khai thác tổng hợp tất cả các yếu tố tự nhiên sẵn có như: độ phì của đất; sử dụng nguồn gen, giống cây trồng bản địa thích nghi, khai thác hợp lí nguồn nước, thời vụ và các nguồn phân hữu cơ, qua đó hạn chế tối đa các hoá chất gây độc hại cho cây trồng và môi trường sống như phân hoá học, thuốc trừ sâu, thuốc diệt cỏ, chất kích thích tăng trưởng, hoá chất bảo quản.",
+      "usage_context": "Bài 5, mục 3 (trang 31, PDF 33) — biện pháp sản xuất nông nghiệp bền vững góp phần bảo vệ đất đai và môi trường sinh thái.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "3",
+        "pdf_page": 33,
+        "printed_page": 31
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-vai-tro-cua-bao-ve-moi-truong-va-tai-nguyen-thien-nhien",
+      "term": "Vai trò của bảo vệ môi trường và tài nguyên thiên nhiên",
+      "aliases": [],
+      "english": "Role of protecting the environment and natural resources",
+      "notation": null,
+      "meaning": "Bảo vệ môi trường sẽ giúp cho môi trường trong lành, sạch đẹp, bảo đảm cân bằng sinh thái; ngăn chặn, khắc phục các hậu quả xấu do con người và thiên nhiên gây ra. Bảo vệ tài nguyên thiên nhiên sẽ giúp cho nguồn tài nguyên thiên nhiên không bị cạn kiệt.",
+      "usage_context": "Bài 5, hộp chốt kiến thức mục 2 (trang 32, PDF 34) — giải thích tầm quan trọng của việc bảo vệ môi trường và tài nguyên đối với phát triển bền vững.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "4",
+        "pdf_page": 34,
+        "printed_page": 32
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-quy-dinh-cua-phap-luat-ve-bao-ve-moi-truong-va-tai-nguyen-thien-nhien",
+      "term": "Quy định của pháp luật về bảo vệ môi trường và tài nguyên thiên nhiên",
+      "aliases": [],
+      "english": "Legal provisions on environmental and natural resource protection",
+      "notation": null,
+      "meaning": "Pháp luật Việt Nam nghiêm cấm chặt, phá, lấn chiếm, đốt rừng, săn bắn, buôn bán động vật rừng và khai thác tài nguyên trái quy định; chỉ được hoạt động khoáng sản khi cơ quan có thẩm quyền cho phép; nghiêm cấm huỷ hoại nguồn lợi thuỷ sản; nghiêm cấm đổ chất thải, chất độc hại làm ô nhiễm, cạn kiệt nguồn nước hoặc khai thác trái phép cát, sỏi gây sạt lở, biến dạng dòng chảy.",
+      "usage_context": "Bài 5, hộp chốt kiến thức mục 4 (trang 32, PDF 34) — hệ thống các hành vi bị nghiêm cấm nhằm bảo vệ rừng, khoáng sản, thuỷ sản và nguồn nước.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "4",
+        "pdf_page": 34,
+        "printed_page": 32
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-bien-phap-bao-ve-moi-truong-va-tai-nguyen-thien-nhien",
+      "term": "Biện pháp bảo vệ môi trường và tài nguyên thiên nhiên",
+      "aliases": [],
+      "english": "Measures to protect the environment and natural resources",
+      "notation": null,
+      "meaning": "Thực hiện đồng bộ các giải pháp giảm thiểu, kiểm soát ô nhiễm và phục hồi môi trường như: chấp hành pháp luật về bảo vệ tài nguyên, môi trường; tham gia phong trào bảo vệ môi trường tại địa phương; tuyên truyền nâng cao nhận thức, thực hiện tăng trưởng xanh, kinh tế ít chất thải, kinh tế tuần hoàn, trồng rừng; nghiêm cấm và đấu tranh với các hành vi gây ô nhiễm môi trường, phá hoại tài nguyên thiên nhiên.",
+      "usage_context": "Bài 5, hộp chốt kiến thức mục 5 (trang 32–33, PDF 34–35) — các giải pháp thiết thực của Nhà nước, cộng đồng và công dân bảo vệ môi trường.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": "4",
+        "pdf_page": 34,
+        "printed_page": 32
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-luat-lam-nghiep-nam-2017",
+      "term": "Luật Lâm nghiệp năm 2017",
+      "aliases": [],
+      "english": "Law on Forestry 2017",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 5, mục 2.b (trang 28–29, PDF 30–31) — trích dẫn Điều 9 về các hành vi bị nghiêm cấm trong hoạt động lâm nghiệp.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Luật Lâm nghiệp số 16/2017/QH14 được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam thông qua ngày 15/11/2017.",
+      "location": null,
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-luat-khoang-san-nam-2010-sua-doi-bo-sung-nam-2018",
+      "term": "Luật Khoáng sản năm 2010, sửa đổi, bổ sung năm 2018",
+      "aliases": [],
+      "english": "Law on Minerals 2010 (amended in 2018)",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 5, mục 2.b (trang 29, PDF 31) — trích dẫn Điều 4 về nguyên tắc hoạt động khoáng sản gắn với bảo vệ môi trường và cảnh quan thiên nhiên.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Luật Khoáng sản số 60/2010/QH12 ngày 17/11/2010 và Luật số 35/2018/QH14 sửa đổi, bổ sung một số điều của 37 luật có liên quan đến quy hoạch.",
+      "location": null,
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-luat-thuy-san-nam-2017",
+      "term": "Luật Thuỷ sản năm 2017",
+      "aliases": [],
+      "english": "Law on Fisheries 2017",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 5, mục 2.b (trang 29, PDF 31) — trích dẫn Điều 5 và Điều 7 về nguyên tắc và các hành vi bị nghiêm cấm trong hoạt động thuỷ sản.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Luật Thuỷ sản số 18/2017/QH14 được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam thông qua ngày 21/11/2017.",
+      "location": null,
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-luat-tai-nguyen-nuoc-nam-2012-sua-doi-bo-sung-nam-2018",
+      "term": "Luật Tài nguyên nước năm 2012, sửa đổi, bổ sung năm 2018",
+      "aliases": [],
+      "english": "Law on Water Resources 2012 (amended in 2018)",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 5, mục 2.b (trang 29–30, PDF 31–32) — trích dẫn Điều 9 về các hành vi bị nghiêm cấm nhằm bảo vệ nguồn nước và hành lang sông, suối, hồ chứa.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Luật Tài nguyên nước số 17/2012/QH13 ngày 21/6/2012 và Luật số 35/2018/QH14 của Quốc hội.",
+      "location": null,
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-muc-tieu-ca-nhan",
+      "term": "Mục tiêu cá nhân",
+      "aliases": [],
+      "english": "Personal goal",
+      "notation": null,
+      "meaning": "Mục tiêu cá nhân là những kết quả cụ thể mà mỗi người mong muốn đạt được trong một khoảng thời gian nhất định.",
+      "usage_context": "Bài 6, hộp chốt kiến thức mục 1 (trang 38, PDF 40) — khái niệm định hướng giúp mỗi người sống tự chủ, có mục đích và làm việc có kế hoạch.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "3",
+        "pdf_page": 40,
+        "printed_page": 38
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-phan-loai-muc-tieu-ca-nhan",
+      "term": "Phân loại mục tiêu cá nhân",
+      "aliases": [],
+      "english": "Classification of personal goals",
+      "notation": null,
+      "meaning": "Mục tiêu cá nhân có thể được phân loại theo lĩnh vực: phát triển bản thân, gia đình, bạn bè, sức khoẻ, học tập, tài chính, cống hiến xã hội,... và phân loại theo thời gian: mục tiêu ngắn hạn và mục tiêu dài hạn.",
+      "usage_context": "Bài 6, hộp chốt kiến thức mục 2 (trang 38, PDF 40) — cơ sở phân chia mục tiêu cá nhân theo các khía cạnh đời sống và độ dài thời gian thực hiện.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "3",
+        "pdf_page": 40,
+        "printed_page": 38
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-nguyen-tac-s-m-a-r-t",
+      "term": "Nguyên tắc S.M.A.R.T",
+      "aliases": [],
+      "english": "SMART criteria (SMART goal-setting principle)",
+      "notation": null,
+      "meaning": "Cách xác định mục tiêu cá nhân theo 5 tiêu chí: Specific (Cụ thể – có kết quả cụ thể, rõ ràng), Measurable (Đo lường được – có thể định lượng để theo dõi tiến trình), Attainable (Có thể đạt được – khả thi), Relevant (Thực tế, có liên quan – hướng tới mục đích chung), và Time-specific (Có thời hạn cụ thể – đi kèm thời hạn đạt được).",
+      "usage_context": "Bài 6, mục 3 và hộp chốt kiến thức mục 4 (trang 37–38, PDF 39–40) — công cụ chuẩn mực để thiết lập mục tiêu cá nhân rõ ràng, khả thi.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "3",
+        "pdf_page": 39,
+        "printed_page": 37
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-ke-hoach-thuc-hien-muc-tieu-ca-nhan",
+      "term": "Kế hoạch thực hiện mục tiêu cá nhân",
+      "aliases": [],
+      "english": "Action plan for achieving personal goals",
+      "notation": null,
+      "meaning": "Quy trình 6 bước lập kế hoạch thực hiện mục tiêu cá nhân: 1/ Liệt kê những việc cần làm để đạt được mục tiêu; 2/ Ưu tiên công việc cần thực hiện trước; 3/ Xác định thời gian và nguồn lực cần thiết; 4/ Thường xuyên đánh giá việc thực hiện mục tiêu của bản thân; 5/ Điều chỉnh cách thức thực hiện nếu hoàn cảnh thay đổi; 6/ Cam kết thực hiện kế hoạch.",
+      "usage_context": "Bài 6, hộp chốt kiến thức mục 5 (trang 39, PDF 41) — các bước hành động cụ thể để hiện thực hoá mục tiêu cá nhân đã đề ra.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": "3",
+        "pdf_page": 41,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-hanh-vi-bao-luc-gia-dinh",
+      "term": "Hành vi bạo lực gia đình",
+      "aliases": [],
+      "english": "Acts of domestic violence",
+      "notation": null,
+      "meaning": "Theo khoản 1 Điều 3 Luật Phòng, chống bạo lực gia đình: hành hạ, ngược đãi, đánh đập, đe doạ xâm hại sức khoẻ, tính mạng; lăng mạ, chì chiết xúc phạm danh dự, nhân phẩm; cưỡng ép chứng kiến bạo lực; bỏ mặc, không nuôi dưỡng, chăm sóc trẻ em, phụ nữ mang thai, người cao tuổi, người khuyết tật; kì thị hình thể, giới tính; cưỡng ép tảo hôn, kết hôn, li hôn, mang thai, lựa chọn giới tính thai nhi; chiếm đoạt, huỷ hoại tài sản.",
+      "usage_context": "Bài 7, mục 2 (trang 42–43, PDF 44, 46) — các hành vi bị pháp luật nghiêm cấm trong quan hệ gia đình.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "2",
+        "pdf_page": 45,
+        "printed_page": 42
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-bao-luc-ve-the-chat",
+      "term": "Bạo lực về thể chất",
+      "aliases": [],
+      "english": "Physical domestic violence",
+      "notation": null,
+      "meaning": "Bạo lực về thể chất: là hành vi ngược đãi, đánh đập làm tổn thương tới sức khoẻ, tính mạng của thành viên gia đình.",
+      "usage_context": "Bài 7, hộp chốt kiến thức mục 1 (trang 45, PDF 48) — một trong bốn hình thức bạo lực gia đình phổ biến gây thương tích thân thể cho nạn nhân.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "3",
+        "pdf_page": 48,
+        "printed_page": 45
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-bao-luc-ve-tinh-than",
+      "term": "Bạo lực về tinh thần",
+      "aliases": [],
+      "english": "Psychological domestic violence (Emotional abuse)",
+      "notation": null,
+      "meaning": "Bạo lực về tinh thần: là những lời nói, thái độ, hành vi làm tổn thương tới danh dự, nhân phẩm, tâm lí của thành viên gia đình.",
+      "usage_context": "Bài 7, hộp chốt kiến thức mục 1 (trang 45, PDF 48) — hình thức bạo lực gia đình gây áp lực tâm lí nặng nề, xúc phạm nhân phẩm thành viên gia đình.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "3",
+        "pdf_page": 48,
+        "printed_page": 45
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-bao-luc-ve-kinh-te",
+      "term": "Bạo lực về kinh tế",
+      "aliases": [],
+      "english": "Economic domestic violence (Financial abuse)",
+      "notation": null,
+      "meaning": "Bạo lực về kinh tế: là hành vi xâm phạm tới các quyền lợi về kinh tế của thành viên gia đình (quyền sở hữu tài sản, quyền tự do lao động,...).",
+      "usage_context": "Bài 7, hộp chốt kiến thức mục 1 (trang 45, PDF 48) — hình thức bạo lực xâm phạm tài sản chung, tài sản riêng hoặc quyền lao động hợp pháp trong gia đình.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "3",
+        "pdf_page": 48,
+        "printed_page": 45
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-bao-luc-ve-tinh-duc",
+      "term": "Bạo lực về tình dục",
+      "aliases": [],
+      "english": "Sexual domestic violence",
+      "notation": null,
+      "meaning": "Bạo lực về tình dục: là hành vi mang tính chất cưỡng ép trong các quan hệ tình dục giữa các thành viên gia đình, kể cả việc cưỡng ép sinh con.",
+      "usage_context": "Bài 7, hộp chốt kiến thức mục 1 (trang 45, PDF 48) — hình thức bạo lực cưỡng bức tình dục hoặc ép buộc mang thai, sinh con trái ý muốn.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "3",
+        "pdf_page": 48,
+        "printed_page": 45
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-quyen-va-trach-nhiem-cua-nguoi-bi-bao-luc-gia-dinh",
+      "term": "Quyền và trách nhiệm của người bị bạo lực gia đình",
+      "aliases": [],
+      "english": "Rights and responsibilities of domestic violence victims",
+      "notation": null,
+      "meaning": "Người bị bạo lực gia đình có quyền yêu cầu cơ quan, tổ chức, người có thẩm quyền bảo vệ sức khoẻ, tính mạng, nhân phẩm, áp dụng biện pháp ngăn chặn, cấm tiếp xúc; được bố trí và giữ bí mật nơi tạm lánh; được cung cấp dịch vụ y tế, tư vấn tâm lí, trợ giúp pháp lí, trợ giúp xã hội; đồng thời có trách nhiệm cung cấp đầy đủ, chính xác thông tin liên quan khi có yêu cầu.",
+      "usage_context": "Bài 7, mục 2 (trang 43, PDF 46) — trích dẫn Điều 9 Luật Phòng, chống bạo lực gia đình để bảo vệ nạn nhân bị bạo lực.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "2",
+        "pdf_page": 46,
+        "printed_page": 43
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-trach-nhiem-cua-nguoi-co-hanh-vi-bao-luc-gia-dinh",
+      "term": "Trách nhiệm của người có hành vi bạo lực gia đình",
+      "aliases": [],
+      "english": "Responsibilities of perpetrators of domestic violence",
+      "notation": null,
+      "meaning": "Người có hành vi bạo lực gia đình phải chấm dứt hành vi bạo lực; chấp hành yêu cầu, quyết định của cơ quan có thẩm quyền khi áp dụng biện pháp phòng ngừa, bảo vệ, hỗ trợ và xử lí vi phạm; kịp thời đưa người bị bạo lực đi cấp cứu, điều trị, chăm sóc (trừ khi nạn nhân từ chối); bồi thường thiệt hại và khắc phục hậu quả do mình gây ra.",
+      "usage_context": "Bài 7, mục 2 (trang 44, PDF 47) — trích dẫn Điều 10 Luật Phòng, chống bạo lực gia đình quy định nghĩa vụ pháp lí của người vi phạm.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "2",
+        "pdf_page": 47,
+        "printed_page": 44
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-tac-hai-cua-bao-luc-gia-dinh",
+      "term": "Tác hại của bạo lực gia đình",
+      "aliases": [],
+      "english": "Harmful effects of domestic violence",
+      "notation": null,
+      "meaning": "Bạo lực gia đình gây ảnh hưởng xấu đến hạnh phúc gia đình và trật tự xã hội, gây thương tích về thân thể, thậm chí gây tử vong; làm tổn thương về tinh thần đối với những người bị bạo lực;...",
+      "usage_context": "Bài 7, hộp chốt kiến thức mục 2 (trang 46, PDF 49) — tổng kết hậu quả nghiêm trọng của bạo lực gia đình đối với cá nhân, gia đình và xã hội.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "3",
+        "pdf_page": 49,
+        "printed_page": 46
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-cach-phong-chong-bao-luc-gia-dinh",
+      "term": "Cách phòng, chống bạo lực gia đình",
+      "aliases": [],
+      "english": "Ways to prevent and combat domestic violence",
+      "notation": null,
+      "meaning": "Để phòng tránh: tôn trọng, bình đẳng, chia sẻ, yêu thương; kiềm chế cảm xúc tiêu cực; rời khỏi nơi có nguy cơ và nhờ người tin cậy can thiệp. Khi xảy ra: bình tĩnh, kiềm chế cảm xúc, tìm đường thoát, chủ động nhờ giúp đỡ, không dùng bạo lực đáp trả. Để xử lí hậu quả: thông báo với người thân, người tin cậy, nhờ bệnh viện, cơ sở tư vấn tâm lí, tổ hoà giải hỗ trợ, không giấu giếm, bao che.",
+      "usage_context": "Bài 7, hộp chốt kiến thức mục 4 (trang 46, PDF 49) — kĩ năng ứng phó trước, trong và sau khi xảy ra bạo lực gia đình.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": "3",
+        "pdf_page": 49,
+        "printed_page": 46
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-luat-phong-chong-bao-luc-gia-dinh-nam-2007",
+      "term": "Luật Phòng, chống bạo lực gia đình năm 2007",
+      "aliases": [
+        "sửa đổi",
+        "bổ sung năm 2022"
+      ],
+      "english": "Law on Domestic Violence Prevention and Control",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 7, mục 2 (trang 42–44, PDF 44, 46–47) — văn bản pháp luật chuyên ngành quy định về các hành vi bị cấm, quyền, trách nhiệm và xử lí vi phạm về bạo lực gia đình.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Luật Phòng, chống bạo lực gia đình số 02/2007/QH12 ngày 21/11/2007 và Luật Phòng, chống bạo lực gia đình số 13/2022/QH15 ngày 14/11/2022 của Quốc hội.",
+      "location": null,
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-ke-hoach-chi-tieu",
+      "term": "Kế hoạch chi tiêu",
+      "aliases": [],
+      "english": "Spending plan (Personal budget)",
+      "notation": null,
+      "meaning": "Kế hoạch chi tiêu xác định các khoản chi tiêu dựa trên những nguồn lực hiện có để thực hiện những mục tiêu tài chính của cá nhân, gia đình.",
+      "usage_context": "Bài 8, hộp chốt kiến thức mục 1 (trang 50, PDF 53) — công cụ quản lí tài chính thiết thực của cá nhân và hộ gia đình.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2",
+        "pdf_page": 53,
+        "printed_page": 50
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-cac-khoan-can-chi",
+      "term": "Các khoản cần chi",
+      "aliases": [],
+      "english": "Expense categories",
+      "notation": null,
+      "meaning": "Các khoản cần chi cá nhân bao gồm: khoản chi cố định đáp ứng nhu cầu thiết yếu (ăn sáng, mua nước uống, sửa xe khi bị hỏng, mua vở, bút,...); khoản chi cần thiết nhưng có thể linh hoạt (mua truyện, sách tham khảo, tiết kiệm dự phòng,...); và khoản chi phát sinh (quà mừng sinh nhật, liên hoan bạn bè,...) để xác định chính xác định mức chi tiêu.",
+      "usage_context": "Bài 8, mục 2, Bước 2 (trang 49, PDF 52) — phân nhóm chi tiêu giúp lập định mức hợp lí trong bản kế hoạch chi tiêu.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2",
+        "pdf_page": 52,
+        "printed_page": 49
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-quy-tac-thu-chi",
+      "term": "Quy tắc thu, chi",
+      "aliases": [],
+      "english": "Income and expenditure rules",
+      "notation": null,
+      "meaning": "Kế hoạch chi tiêu phải tuân thủ quy tắc cân đối thu, chi, các định mức chi không được vượt số tiền đang có; tiết kiệm chủ yếu dựa trên tiết giảm những khoản chi không thiết yếu, không cắt giảm các khoản chi thiết yếu làm ảnh hưởng đến sức khoẻ, kết quả học tập, đồng thời phân chia thu nhập thành các khoản chi theo tỉ lệ nhất định.",
+      "usage_context": "Bài 8, mục 2, Bước 3 (trang 49, PDF 52) — nguyên tắc đảm bảo cân đối tài chính và thực hiện tiết kiệm lành mạnh.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2",
+        "pdf_page": 52,
+        "printed_page": 49
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-y-nghia-cua-viec-lap-ke-hoach-chi-tieu",
+      "term": "Ý nghĩa của việc lập kế hoạch chi tiêu",
+      "aliases": [],
+      "english": "Significance of making a spending plan",
+      "notation": null,
+      "meaning": "Lập kế hoạch chi tiêu giúp cân bằng được tài chính, tránh những khoản chi không cần thiết, thực hiện được tiết kiệm, góp phần tạo dựng cuộc sống ổn định, ấm no.",
+      "usage_context": "Bài 8, hộp chốt kiến thức mục 2 (trang 50, PDF 53) — giải thích sự cần thiết phải lập kế hoạch chi tiêu và rèn luyện thói quen chi tiêu hợp lí.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2",
+        "pdf_page": 53,
+        "printed_page": 50
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-cac-buoc-lap-ke-hoach-chi-tieu",
+      "term": "Các bước lập kế hoạch chi tiêu",
+      "aliases": [],
+      "english": "Steps to create a spending plan",
+      "notation": null,
+      "meaning": "Quy trình 5 bước lập kế hoạch chi tiêu: Bước 1: Xác định mục tiêu và thời hạn thực hiện dựa trên nguồn lực hiện có; Bước 2: Xác định các khoản cần chi; Bước 3: Thiết lập quy tắc thu, chi; Bước 4: Thực hiện kế hoạch chi tiêu; Bước 5: Kiểm tra và điều chỉnh kế hoạch chi tiêu.",
+      "usage_context": "Bài 8, hộp chốt kiến thức mục 3 (trang 50, PDF 53) — hướng dẫn thực hành lập và kiểm soát kế hoạch chi tiêu cá nhân, gia đình.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2",
+        "pdf_page": 53,
+        "printed_page": 50
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-nguy-co-dan-den-tai-nan-vu-khi-chay-no-va-cac-chat-doc-hai",
+      "term": "Nguy cơ dẫn đến tai nạn vũ khí, cháy, nổ và các chất độc hại",
+      "aliases": [],
+      "english": "Risks leading to weapon, fire, explosion, and toxic substance accidents",
+      "notation": null,
+      "meaning": "Có nhiều nguy cơ dẫn đến tai nạn vũ khí, cháy, nổ và các chất độc hại như: thiết bị điện quá tải; rò rỉ khí ga; thiết bị điện kém chất lượng; nắng nóng kéo dài; nguyên vật liệu xây dựng dễ cháy; trang, thiết bị phòng cháy, chữa cháy không đảm bảo; chế biến, bảo quản thực phẩm sai cách; cất giấu vũ khí trong nhà; sấm sét khi mưa giông,...",
+      "usage_context": "Bài 9, hộp chốt kiến thức mục 1 (trang 57, PDF 60) — nhận diện các nguồn nguy hiểm thường gặp trong sinh hoạt và sản xuất để chủ động phòng tránh.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "3",
+        "pdf_page": 60,
+        "printed_page": 57
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-quy-dinh-cua-phap-luat-ve-phong-ngua-tai-nan-vu-khi-chay-no-va-cac-chat-doc-hai",
+      "term": "Quy định của pháp luật về phòng ngừa tai nạn vũ khí, cháy, nổ và các chất độc hại",
+      "aliases": [],
+      "english": "Legal regulations on preventing weapon, fire, explosion, and toxic substance accidents",
+      "notation": null,
+      "meaning": "Pháp luật Việt Nam quy định: cấm tàng trữ, vận chuyển, buôn bán, sử dụng trái phép các loại vũ khí, chất nổ, chất cháy, chất phóng xạ và các chất độc hại khác; chỉ cơ quan, tổ chức, cá nhân được Nhà nước giao nhiệm vụ và cho phép mới được giữ, chuyên chở, sử dụng và phải được huấn luyện chuyên môn, có đủ phương tiện cần thiết, tuân thủ quy định an toàn.",
+      "usage_context": "Bài 9, hộp chốt kiến thức mục 2 (trang 57, PDF 60) — nguyên tắc pháp lí nghiêm ngặt nhằm bảo vệ tính mạng, sức khoẻ, tài sản và an ninh trật tự.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "3",
+        "pdf_page": 60,
+        "printed_page": 57
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-trach-nhiem-cua-cong-dan-trong-phong-ngua-tai-nan-vu-khi-chay-no-va-cac-chat-doc",
+      "term": "Trách nhiệm của công dân trong phòng ngừa tai nạn vũ khí, cháy, nổ và các chất độc hại",
+      "aliases": [],
+      "english": "Citizens' responsibilities in preventing weapon, fire, explosion, and toxic substance accidents",
+      "notation": null,
+      "meaning": "Công dân có trách nhiệm: tự giác tìm hiểu, nâng cao nhận thức và thực hiện nghiêm túc các quy định của pháp luật; tích cực tuyên truyền, vận động gia đình, bạn bè và mọi người xung quanh thực hiện tốt quy định pháp luật; tố cáo những hành vi vi phạm hoặc xúi giục người khác vi phạm pháp luật về phòng ngừa tai nạn vũ khí, cháy, nổ và các chất độc hại.",
+      "usage_context": "Bài 9, hộp chốt kiến thức mục 3 (trang 57, PDF 60) — nghĩa vụ và hành động thiết thực của mỗi công dân, học sinh để bảo đảm an toàn cộng đồng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "3",
+        "pdf_page": 60,
+        "printed_page": 57
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-luat-phong-chay-va-chua-chay-nam-2001",
+      "term": "Luật Phòng cháy và chữa cháy năm 2001",
+      "aliases": [
+        "sửa đổi",
+        "bổ sung 2013"
+      ],
+      "english": "Law on Fire Prevention and Fighting 2001 (amended in 2013)",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 9, mục 2 (trang 54, PDF 57) — trích dẫn Điều 13 về các hành vi bị nghiêm cấm trong phòng cháy và chữa cháy.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Luật Phòng cháy và chữa cháy số 27/2001/QH10 ngày 29/6/2001 và Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy số 40/2013/QH13 ngày 22/11/2013.",
+      "location": null,
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-luat-hoa-chat-nam-2007",
+      "term": "Luật Hoá chất năm 2007",
+      "aliases": [],
+      "english": "Law on Chemicals 2007",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 9, mục 2 (trang 54, PDF 57) — trích dẫn Điều 7 về các hành vi bị nghiêm cấm trong sản xuất, kinh doanh và sử dụng hoá chất độc hại.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Luật Hoá chất số 06/2007/QH12 được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam thông qua ngày 21/11/2007.",
+      "location": null,
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-luat-quan-li-su-dung-vu-khi-vat-lieu-no-va-cong-cu-ho-tro-nam-2017",
+      "term": "Luật Quản lí, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ năm 2017",
+      "aliases": [],
+      "english": "Law on Management and Use of Weapons, Explosives and Supporting Tools 2017",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 9, mục 2 (trang 54–55, PDF 57–58) — trích dẫn Điều 5 nghiêm cấm cá nhân sở hữu, chế tạo, tàng trữ, mua bán trái phép vũ khí, vật liệu nổ, công cụ hỗ trợ.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Luật Quản lí, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ số 14/2017/QH14 được Quốc hội thông qua ngày 20/6/2017.",
+      "location": null,
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-lao-dong",
+      "term": "Lao động",
+      "aliases": [],
+      "english": "Labor (Work)",
+      "notation": null,
+      "meaning": "Lao động là hoạt động có mục đích của con người nhằm tạo ra của cải vật chất và các giá trị tinh thần cho xã hội. Đó là hoạt động chủ yếu, quan trọng nhất của con người, là nhân tố quyết định sự tồn tại, phát triển của đất nước và nhân loại.",
+      "usage_context": "Bài 10, Mở đầu (trang 59, PDF 62) — hoạt động nền tảng quyết định sự tồn tại, phát triển của mỗi cá nhân, đất nước và xã hội loài người.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": null,
+        "pdf_page": 62,
+        "printed_page": 59
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-quyen-va-nghia-vu-lao-dong-cua-cong-dan",
+      "term": "Quyền và nghĩa vụ lao động của công dân",
+      "aliases": [],
+      "english": "Citizens' right and duty to work",
+      "notation": null,
+      "meaning": "Theo quy định của Hiến pháp năm 2013 và pháp luật: công dân có quyền làm việc, lựa chọn nghề nghiệp, việc làm và nơi làm việc để đáp ứng nhu cầu của bản thân, gia đình và cống hiến cho xã hội; đồng thời có nghĩa vụ lao động để nuôi sống bản thân, gia đình và góp phần phát triển đất nước; nghiêm cấm phân biệt đối xử, cưỡng bức lao động và sử dụng nhân công dưới độ tuổi lao động tối thiểu.",
+      "usage_context": "Bài 10, mục 2 và hộp chốt kiến thức mục 2 (trang 60, 67, PDF 63, 70) — quyền hiến định gắn liền với nghĩa vụ công dân trong lĩnh vực lao động.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 63,
+        "printed_page": 60
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-lao-dong-chua-thanh-nien",
+      "term": "Lao động chưa thành niên",
+      "aliases": [],
+      "english": "Minor employee (Juvenile worker)",
+      "notation": null,
+      "meaning": "Lao động chưa thành niên là người lao động chưa đủ 18 tuổi.",
+      "usage_context": "Bài 10, mục 3, khoản 1 Điều 143 Bộ luật Lao động năm 2019 (trang 61, PDF 64) — nhóm người lao động đặc thù được pháp luật bảo vệ chặt chẽ về thể lực, trí lực và nhân cách.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "3",
+        "pdf_page": 64,
+        "printed_page": 61
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-nguyen-tac-su-dung-lao-dong-chua-thanh-nien",
+      "term": "Nguyên tắc sử dụng lao động chưa thành niên",
+      "aliases": [],
+      "english": "Principles for employing minor workers",
+      "notation": null,
+      "meaning": "Lao động chưa thành niên chỉ được làm công việc phù hợp với sức khoẻ để bảo đảm phát triển thể lực, trí lực, nhân cách; phải có sự đồng ý của cha, mẹ hoặc người giám hộ, lập sổ theo dõi riêng và tạo cơ hội học văn hoá, học nghề; cấm nhận trẻ em chưa đủ 13 tuổi vào làm việc (trừ một số công việc nghệ thuật, thể dục, thể thao theo luật định) và cấm sử dụng lao động chưa thành niên vào công việc nặng nhọc, nguy hiểm, tiếp xúc hoá chất độc hại.",
+      "usage_context": "Bài 10, mục 3 và hộp chốt kiến thức mục 2 (trang 61–63, 68, PDF 64–66, 71) — các quy định của Bộ luật Lao động năm 2019 bảo vệ người lao động dưới 18 tuổi.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "3",
+        "pdf_page": 64,
+        "printed_page": 61
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-quyen-va-nghia-vu-cua-nguoi-lao-dong",
+      "term": "Quyền và nghĩa vụ của người lao động",
+      "aliases": [],
+      "english": "Rights and obligations of employees",
+      "notation": null,
+      "meaning": "Người lao động có quyền làm việc, tự do lựa chọn việc làm, nơi làm việc, nghề nghiệp, không bị phân biệt đối xử, cưỡng bức lao động, quấy rối tình dục, hưởng lương theo thoả thuận, bảo đảm an toàn vệ sinh lao động, tham gia tổ chức đại diện người lao động, từ chối làm việc khi có nguy cơ đe doạ tính mạng, đơn phương chấm dứt hợp đồng, đình công; có nghĩa vụ thực hiện hợp đồng lao động, chấp hành kỉ luật, nội quy lao động và sự điều hành của người sử dụng lao động.",
+      "usage_context": "Bài 10, mục 4.a và hộp chốt kiến thức mục 2 (trang 64, 67, PDF 67, 70) — trích dẫn Điều 5 Bộ luật Lao động năm 2019 về địa vị pháp lí của người lao động.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "4.a",
+        "pdf_page": 67,
+        "printed_page": 64
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-quyen-va-nghia-vu-cua-nguoi-su-dung-lao-dong",
+      "term": "Quyền và nghĩa vụ của người sử dụng lao động",
+      "aliases": [],
+      "english": "Rights and obligations of employers",
+      "notation": null,
+      "meaning": "Người sử dụng lao động có quyền tuyển dụng, bố trí, quản lí, điều hành, giám sát lao động, khen thưởng và xử lí vi phạm kỉ luật lao động, đóng cửa tạm thời nơi làm việc; có nghĩa vụ thực hiện hợp đồng lao động, thoả ước lao động tập thể, tôn trọng danh dự và nhân phẩm của người lao động, thực hiện đối thoại, đào tạo nâng cao kĩ năng nghề và thực hiện quy định về bảo hiểm, an toàn, vệ sinh lao động.",
+      "usage_context": "Bài 10, mục 4.b và hộp chốt kiến thức mục 2 (trang 65–66, 68, PDF 68–69, 71) — trích dẫn Điều 6 Bộ luật Lao động năm 2019 về địa vị pháp lí của người sử dụng lao động.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "4.b",
+        "pdf_page": 68,
+        "printed_page": 65
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-hop-dong-lao-dong",
+      "term": "Hợp đồng lao động",
+      "aliases": [],
+      "english": "Employment contract (Labor contract)",
+      "notation": null,
+      "meaning": "Hợp đồng lao động là sự thoả thuận giữa người lao động và người sử dụng lao động về việc làm có trả công, tiền lương, điều kiện lao động, quyền và nghĩa vụ của mỗi bên trong quan hệ lao động.",
+      "usage_context": "Bài 10, mục 4.c, khoản 1 Điều 13 Bộ luật Lao động năm 2019 (trang 66, PDF 69) — hình thức pháp lí xác lập quan hệ lao động giữa người lao động và người sử dụng lao động.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "4.c",
+        "pdf_page": 69,
+        "printed_page": 66
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-noi-dung-hop-dong-lao-dong",
+      "term": "Nội dung hợp đồng lao động",
+      "aliases": [],
+      "english": "Contents of an employment contract",
+      "notation": null,
+      "meaning": "Hợp đồng lao động phải có các nội dung chủ yếu: thông tin của người sử dụng lao động và người lao động; công việc và địa điểm làm việc; thời hạn của hợp đồng lao động; mức lương, hình thức và thời hạn trả lương, phụ cấp; chế độ nâng bậc, nâng lương; thời giờ làm việc, thời giờ nghỉ ngơi; trang bị bảo hộ lao động; bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; đào tạo, bồi dưỡng nâng cao trình độ, kĩ năng nghề.",
+      "usage_context": "Bài 10, mục 4.c, khoản 1 Điều 21 Bộ luật Lao động năm 2019 (trang 67, PDF 70) — căn cứ để lập hợp đồng lao động đúng pháp luật, bảo vệ quyền lợi các bên.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "4.c",
+        "pdf_page": 70,
+        "printed_page": 67
+      },
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-hien-phap-nam-2013",
+      "term": "Hiến pháp năm 2013",
+      "aliases": [],
+      "english": "Constitution of 2013",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 5, mục 2.a (trang 27, PDF 29) và Bài 10, mục 2 (trang 60, PDF 63) — đạo luật cơ bản quy định chính sách bảo vệ môi trường (Điều 63) và quyền, nghĩa vụ lao động của công dân (Điều 15, 35, 37).",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 2013 được Quốc hội khoá XIII thông qua ngày 28/11/2013.",
+      "location": null,
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-8-bo-luat-lao-dong-nam-2019",
+      "term": "Bộ luật Lao động năm 2019",
+      "aliases": [],
+      "english": "Labor Code 2019",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 10, mục 3 và mục 4 (trang 61–67, PDF 64–70) — văn bản pháp luật điều chỉnh tiêu chuẩn lao động, lao động chưa thành niên, hợp đồng lao động và quyền, nghĩa vụ của các bên.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "Bộ luật Lao động số 45/2019/QH14 được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam thông qua ngày 20/11/2019.",
+      "location": null,
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "note_ids": []
+    }
+  ],
+  "source_notes": [
+    {
+      "id": "tu-dien-gdcd-8#1",
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "number": 1,
+      "status": "closed",
+      "lesson_id": "b05",
+      "section": "2.b",
+      "pdf_page": 30,
+      "term_ids": [
+        "giao-duc-cong-dan-8-luat-lam-nghiep-nam-2017"
+      ],
+      "issue": "Được trích dẫn tại mục 2.b Bài 5 nhưng SGK không nêu định nghĩa khái quát về văn bản luật",
+      "resolution": "Đã dẫn chiếu tới Luật Lâm nghiệp số 16/2017/QH14",
+      "resolved_on": "2026-11-21"
+    },
+    {
+      "id": "tu-dien-gdcd-8#2",
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "number": 2,
+      "status": "closed",
+      "lesson_id": "b05",
+      "section": "2.b",
+      "pdf_page": 31,
+      "term_ids": [
+        "giao-duc-cong-dan-8-luat-khoang-san-nam-2010-sua-doi-bo-sung-nam-2018"
+      ],
+      "issue": "Được trích dẫn tại mục 2.b Bài 5 nhưng SGK không nêu định nghĩa khái quát về văn bản luật",
+      "resolution": "Đã dẫn chiếu tới Luật Khoáng sản số 60/2010/QH12 và Luật số 35/2018/QH14",
+      "resolved_on": "2026-11-21"
+    },
+    {
+      "id": "tu-dien-gdcd-8#3",
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "number": 3,
+      "status": "closed",
+      "lesson_id": "b05",
+      "section": "2.b",
+      "pdf_page": 31,
+      "term_ids": [
+        "giao-duc-cong-dan-8-luat-thuy-san-nam-2017"
+      ],
+      "issue": "Được trích dẫn tại mục 2.b Bài 5 nhưng SGK không nêu định nghĩa khái quát về văn bản luật",
+      "resolution": "Đã dẫn chiếu tới Luật Thuỷ sản số 18/2017/QH14",
+      "resolved_on": "2026-11-21"
+    },
+    {
+      "id": "tu-dien-gdcd-8#4",
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "number": 4,
+      "status": "closed",
+      "lesson_id": "b05",
+      "section": "2.b",
+      "pdf_page": 31,
+      "term_ids": [
+        "giao-duc-cong-dan-8-luat-tai-nguyen-nuoc-nam-2012-sua-doi-bo-sung-nam-2018"
+      ],
+      "issue": "Được trích dẫn tại mục 2.b Bài 5 nhưng SGK không nêu định nghĩa khái quát về văn bản luật",
+      "resolution": "Đã dẫn chiếu tới Luật Tài nguyên nước số 17/2012/QH13 và Luật số 35/2018/QH14",
+      "resolved_on": "2026-11-21"
+    },
+    {
+      "id": "tu-dien-gdcd-8#5",
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "number": 5,
+      "status": "closed",
+      "lesson_id": "b07",
+      "section": "2",
+      "pdf_page": 44,
+      "term_ids": [
+        "giao-duc-cong-dan-8-luat-phong-chong-bao-luc-gia-dinh-nam-2007"
+      ],
+      "issue": "Được trích dẫn tại mục 2 Bài 7 nhưng SGK không nêu định nghĩa khái quát về văn bản luật",
+      "resolution": "Đã dẫn chiếu tới Luật Phòng, chống bạo lực gia đình số 02/2007/QH12 và Luật số 13/2022/QH15",
+      "resolved_on": "2026-11-21"
+    },
+    {
+      "id": "tu-dien-gdcd-8#6",
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "number": 6,
+      "status": "closed",
+      "lesson_id": "b09",
+      "section": "2",
+      "pdf_page": 57,
+      "term_ids": [
+        "giao-duc-cong-dan-8-luat-phong-chay-va-chua-chay-nam-2001"
+      ],
+      "issue": "Được trích dẫn tại mục 2 Bài 9 nhưng SGK không nêu định nghĩa khái quát về văn bản luật",
+      "resolution": "Đã dẫn chiếu tới Luật Phòng cháy và chữa cháy số 27/2001/QH10 và Luật số 40/2013/QH13",
+      "resolved_on": "2026-11-21"
+    },
+    {
+      "id": "tu-dien-gdcd-8#7",
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "number": 7,
+      "status": "closed",
+      "lesson_id": "b09",
+      "section": "2",
+      "pdf_page": 57,
+      "term_ids": [
+        "giao-duc-cong-dan-8-luat-hoa-chat-nam-2007"
+      ],
+      "issue": "Được trích dẫn tại mục 2 Bài 9 nhưng SGK không nêu định nghĩa khái quát về văn bản luật",
+      "resolution": "Đã dẫn chiếu tới Luật Hoá chất số 06/2007/QH12",
+      "resolved_on": "2026-11-21"
+    },
+    {
+      "id": "tu-dien-gdcd-8#8",
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "number": 8,
+      "status": "closed",
+      "lesson_id": "b09",
+      "section": "2",
+      "pdf_page": 57,
+      "term_ids": [
+        "giao-duc-cong-dan-8-luat-quan-li-su-dung-vu-khi-vat-lieu-no-va-cong-cu-ho-tro-nam-2017"
+      ],
+      "issue": "Được trích dẫn tại mục 2 Bài 9 nhưng SGK không nêu định nghĩa khái quát về văn bản luật",
+      "resolution": "Đã dẫn chiếu tới Luật số 14/2017/QH14",
+      "resolved_on": "2026-11-21"
+    },
+    {
+      "id": "tu-dien-gdcd-8#9",
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "number": 9,
+      "status": "closed",
+      "lesson_id": "b10",
+      "section": "2",
+      "pdf_page": 63,
+      "term_ids": [
+        "giao-duc-cong-dan-8-hien-phap-nam-2013"
+      ],
+      "issue": "Được trích dẫn tại Bài 5 và Bài 10 nhưng SGK không nêu định nghĩa khái quát về đạo luật cơ bản",
+      "resolution": "Đã dẫn chiếu tới Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 2013",
+      "resolved_on": "2026-11-21"
+    },
+    {
+      "id": "tu-dien-gdcd-8#10",
+      "dictionary": "Tu-dien-GDCD-8.md",
+      "number": 10,
+      "status": "closed",
+      "lesson_id": "b10",
+      "section": "3",
+      "pdf_page": 64,
+      "term_ids": [
+        "giao-duc-cong-dan-8-bo-luat-lao-dong-nam-2019"
+      ],
+      "issue": "Được trích dẫn tại mục 3 và mục 4 Bài 10 nhưng SGK không nêu định nghĩa khái quát về bộ luật",
+      "resolution": "Đã dẫn chiếu tới Bộ luật Lao động số 45/2019/QH14",
+      "resolved_on": "2026-11-21"
+    }
+  ]
+}

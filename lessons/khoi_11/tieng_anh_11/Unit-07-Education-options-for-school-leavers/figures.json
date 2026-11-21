@@ -1,0 +1,18 @@
+{
+  "H11-tieng_anh-u07-01": {
+    "pdf_page": 80,
+    "bbox": [356, 294, 551, 443],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Khung bao trọn hai ảnh kèm nhãn 'A vocational school student' và 'A university student'; góc dưới bên trái chồng lên viền trên khung tím bài đọc và cuối dòng tiêu đề bài 2"
+  },
+  "H11-tieng_anh-u07-02": {
+    "pdf_page": 82,
+    "bbox": [400, 241, 560, 352],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Khung ảnh lớp học nấu ăn đặt nghiêng nên góc dưới phải của viền ảnh thấp hơn dòng chữ 'for this course?' bên trái"
+  },
+  "H11-tieng_anh-u07-03": {
+    "pdf_page": 83,
+    "bbox": [66, 231, 542, 404]
+  }
+}

@@ -1,0 +1,568 @@
+{
+  "unit": "gd_kt_va_pl_11",
+  "subject": "gd_kt_va_pl",
+  "subject_name": "Giáo dục Kinh tế và Pháp luật",
+  "grade": 11,
+  "files": [
+    {
+      "file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+      "volume": null,
+      "page_count": 150,
+      "printed_offset": 0
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+      "pdf_pages": [
+        2,
+        2
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "p01",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần một",
+      "number": 1,
+      "title": "Giáo dục kinh tế",
+      "dir": "Phan-01-Giao-duc-kinh-te",
+      "children": [
+        {
+          "id": "cd01",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 1",
+          "number": 1,
+          "title": "Cạnh tranh, cung – cầu trong nền kinh tế thị trường",
+          "dir": "Chu-de-01-Canh-tranh-cung-cau-trong-nen-kinh-te-thi-truong",
+          "children": [
+            {
+              "id": "b01",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 1",
+              "number": 1,
+              "title": "Cạnh tranh trong nền kinh tế thị trường",
+              "lesson_type": "ly_thuyet",
+              "file": "B01-Canh-tranh-trong-nen-kinh-te-thi-truong.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                6,
+                10
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b02",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 2",
+              "number": 2,
+              "title": "Cung – cầu trong nền kinh tế thị trường",
+              "lesson_type": "ly_thuyet",
+              "file": "B02-Cung-cau-trong-nen-kinh-te-thi-truong.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                11,
+                15
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd02",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 2",
+          "number": 2,
+          "title": "Lạm phát, thất nghiệp",
+          "dir": "Chu-de-02-Lam-phat-that-nghiep",
+          "children": [
+            {
+              "id": "b03",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 3",
+              "number": 3,
+              "title": "Lạm phát",
+              "lesson_type": "ly_thuyet",
+              "file": "B03-Lam-phat.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                16,
+                21
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b04",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 4",
+              "number": 4,
+              "title": "Thất nghiệp",
+              "lesson_type": "ly_thuyet",
+              "file": "B04-That-nghiep.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                22,
+                28
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd03",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 3",
+          "number": 3,
+          "title": "Thị trường lao động và việc làm",
+          "dir": "Chu-de-03-Thi-truong-lao-dong-va-viec-lam",
+          "children": [
+            {
+              "id": "b05",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 5",
+              "number": 5,
+              "title": "Thị trường lao động và việc làm",
+              "lesson_type": "ly_thuyet",
+              "file": "B05-Thi-truong-lao-dong-va-viec-lam.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                29,
+                35
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd04",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 4",
+          "number": 4,
+          "title": "Ý tưởng, cơ hội kinh doanh và các năng lực cần thiết của người kinh doanh",
+          "dir": "Chu-de-04-Y-tuong-co-hoi-kinh-doanh-va-cac-nang-luc-can",
+          "children": [
+            {
+              "id": "b06",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 6",
+              "number": 6,
+              "title": "Ý tưởng, cơ hội kinh doanh và các năng lực cần thiết của người kinh doanh",
+              "lesson_type": "ly_thuyet",
+              "file": "B06-Y-tuong-co-hoi-kinh-doanh-va-cac-nang-luc-can.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                36,
+                40
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd05",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 5",
+          "number": 5,
+          "title": "Đạo đức kinh doanh",
+          "dir": "Chu-de-05-Dao-duc-kinh-doanh",
+          "children": [
+            {
+              "id": "b07",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 7",
+              "number": 7,
+              "title": "Đạo đức kinh doanh",
+              "lesson_type": "ly_thuyet",
+              "file": "B07-Dao-duc-kinh-doanh.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                41,
+                44
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd06",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 6",
+          "number": 6,
+          "title": "Văn hoá tiêu dùng",
+          "dir": "Chu-de-06-Van-hoa-tieu-dung",
+          "children": [
+            {
+              "id": "b08",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 8",
+              "number": 8,
+              "title": "Văn hoá tiêu dùng",
+              "lesson_type": "ly_thuyet",
+              "file": "B08-Van-hoa-tieu-dung.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                45,
+                52
+              ],
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "role": "group",
+      "kind": "phan",
+      "label": "Phần hai",
+      "number": 2,
+      "title": "Giáo dục pháp luật",
+      "dir": "Phan-02-Giao-duc-phap-luat",
+      "children": [
+        {
+          "id": "cd07",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 7",
+          "number": 7,
+          "title": "Quyền bình đẳng của công dân trước pháp luật",
+          "dir": "Chu-de-07-Quyen-binh-dang-cua-cong-dan-truoc-phap-luat",
+          "children": [
+            {
+              "id": "b09",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 9",
+              "number": 9,
+              "title": "Quyền bình đẳng của công dân trước pháp luật",
+              "lesson_type": "ly_thuyet",
+              "file": "B09-Quyen-binh-dang-cua-cong-dan-truoc-phap-luat.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                54,
+                59
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b10",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 10",
+              "number": 10,
+              "title": "Bình đẳng giới trong các lĩnh vực",
+              "lesson_type": "ly_thuyet",
+              "file": "B10-Binh-dang-gioi-trong-cac-linh-vuc.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                60,
+                67
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b11",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 11",
+              "number": 11,
+              "title": "Quyền bình đẳng giữa các dân tộc",
+              "lesson_type": "ly_thuyet",
+              "file": "B11-Quyen-binh-dang-giua-cac-dan-toc.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                68,
+                74
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b12",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 12",
+              "number": 12,
+              "title": "Quyền bình đẳng giữa các tôn giáo",
+              "lesson_type": "ly_thuyet",
+              "file": "B12-Quyen-binh-dang-giua-cac-ton-giao.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                75,
+                80
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd08",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 8",
+          "number": 8,
+          "title": "Một số quyền dân chủ cơ bản của công dân",
+          "dir": "Chu-de-08-Mot-so-quyen-dan-chu-co-ban-cua-cong-dan",
+          "children": [
+            {
+              "id": "b13",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 13",
+              "number": 13,
+              "title": "Quyền và nghĩa vụ của công dân trong tham gia quản lí nhà nước và xã hội",
+              "lesson_type": "ly_thuyet",
+              "file": "B13-Quyen-va-nghia-vu-cua-cong-dan-trong-tham-gia-quan.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                81,
+                86
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b14",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 14",
+              "number": 14,
+              "title": "Quyền và nghĩa vụ của công dân về bầu cử và ứng cử",
+              "lesson_type": "ly_thuyet",
+              "file": "B14-Quyen-va-nghia-vu-cua-cong-dan-ve-bau-cu-va-ung-cu.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                86,
+                93
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b15",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 15",
+              "number": 15,
+              "title": "Quyền và nghĩa vụ của công dân về khiếu nại, tố cáo",
+              "lesson_type": "ly_thuyet",
+              "file": "B15-Quyen-va-nghia-vu-cua-cong-dan-ve-khieu-nai-to-cao.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                94,
+                102
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b16",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 16",
+              "number": 16,
+              "title": "Quyền và nghĩa vụ của công dân về bảo vệ Tổ quốc",
+              "lesson_type": "ly_thuyet",
+              "file": "B16-Quyen-va-nghia-vu-cua-cong-dan-ve-bao-ve-To-quoc.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                102,
+                107
+              ],
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "id": "cd09",
+          "role": "group",
+          "kind": "chu_de",
+          "label": "Chủ đề 9",
+          "number": 9,
+          "title": "Một số quyền tự do cơ bản của công dân",
+          "dir": "Chu-de-09-Mot-so-quyen-tu-do-co-ban-cua-cong-dan",
+          "children": [
+            {
+              "id": "b17",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 17",
+              "number": 17,
+              "title": "Quyền bất khả xâm phạm về thân thể và quyền được pháp luật bảo hộ về tính mạng, sức khoẻ, danh dự, nhân phẩm của công dân",
+              "lesson_type": "ly_thuyet",
+              "file": "B17-Quyen-bat-kha-xam-pham-ve-than-the-va-quyen-duoc.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                108,
+                116
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b18",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 18",
+              "number": 18,
+              "title": "Quyền bất khả xâm phạm về chỗ ở của công dân",
+              "lesson_type": "ly_thuyet",
+              "file": "B18-Quyen-bat-kha-xam-pham-ve-cho-o-cua-cong-dan.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                117,
+                122
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b19",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 19",
+              "number": 19,
+              "title": "Quyền được bảo đảm an toàn và bí mật thư tín, điện thoại, điện tín của công dân",
+              "lesson_type": "ly_thuyet",
+              "file": "B19-Quyen-duoc-bao-dam-an-toan-va-bi-mat-thu-tin-dien.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                122,
+                128
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b20",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 20",
+              "number": 20,
+              "title": "Quyền và nghĩa vụ của công dân về tự do ngôn luận, báo chí và tiếp cận thông tin",
+              "lesson_type": "ly_thuyet",
+              "file": "B20-Quyen-va-nghia-vu-cua-cong-dan-ve-tu-do-ngon-luan.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                128,
+                135
+              ],
+              "status": "verified"
+            },
+            {
+              "id": "b21",
+              "role": "lesson",
+              "kind": "bai",
+              "label": "Bài 21",
+              "number": 21,
+              "title": "Quyền và nghĩa vụ của công dân về tự do tín ngưỡng và tôn giáo",
+              "lesson_type": "ly_thuyet",
+              "file": "B21-Quyen-va-nghia-vu-cua-cong-dan-ve-tu-do-tin-nguong.md",
+              "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+              "pdf_pages": [
+                136,
+                142
+              ],
+              "status": "verified"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Một số thuật ngữ dùng trong sách",
+      "file": "Mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+      "pdf_pages": [
+        143,
+        146
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "danh-sach-anh",
+      "role": "back_matter",
+      "kind": "phu_luc",
+      "label": null,
+      "number": null,
+      "title": "Danh sách tranh ảnh sử dụng",
+      "file": null,
+      "source_file": "SGK Giao duc kinh te va phap luat 11 KNTT.pdf",
+      "pdf_pages": [
+        147,
+        148
+      ],
+      "status": "skip"
+    }
+  ],
+  "notes": [
+    "Số trang PDF trùng khớp hoàn toàn số trang in xuyên suốt cuốn sách (printed_offset = 0).",
+    "Một số bài ở Phần hai bắt đầu ở nửa dưới trang ngay sau phần Vận dụng của bài liền trước (trang 86, 102, 122, 128); dải pdf_pages của hai bài liền kề cùng bao gồm trang chuyển tiếp đó và mỗi bài chỉ chép đúng phần nội dung thuộc bài mình."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-21",
+      "scope": [
+        "p01",
+        "p02",
+        "bang-tra-cuu"
+      ],
+      "terms": 193,
+      "sample": 28,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ 21 Bài học (Chủ đề 1–9) và Một số thuật ngữ dùng trong sách (193 thuật ngữ: 89 in_source, 95 [mô tả], 9 Ngoài nguồn; 8 hình minh hoạ): lấy mẫu phân tầng 28 mục (10 in_source, 10 [mô tả], toàn bộ 8 hình minh hoạ, seed 20261121) đối chiếu trực tiếp ảnh trang PDF gốc, sạch hoàn toàn header BlogTailieu.com và chuẩn ranh giới 4 trang chung bài (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-21: Hoàn thành 100% gd_kt_va_pl_11 từ Cổng 0 đến Cổng 4 (193 thuật ngữ, 0% lỗi tồn đọng)."
+}

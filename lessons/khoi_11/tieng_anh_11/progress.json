@@ -1,0 +1,438 @@
+{
+  "unit": "tieng_anh_11",
+  "subject": "tieng_anh",
+  "subject_name": "Tiếng Anh",
+  "grade": 11,
+  "files": [
+    {
+      "file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+      "volume": null,
+      "page_count": 134,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "contents",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Contents",
+      "file": null,
+      "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "book-map",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Book Map",
+      "file": null,
+      "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        8
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "unit-01",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 1",
+      "number": 1,
+      "title": "A long and healthy life",
+      "dir": "Unit-01-A-long-and-healthy-life",
+      "children": [
+        {
+          "id": "u01",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 1",
+          "number": 1,
+          "title": "A long and healthy life",
+          "lesson_type": "ly_thuyet",
+          "file": "U01-A-long-and-healthy-life.md",
+          "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            9,
+            18
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-02",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 2",
+      "number": 2,
+      "title": "The generation gap",
+      "dir": "Unit-02-The-generation-gap",
+      "children": [
+        {
+          "id": "u02",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 2",
+          "number": 2,
+          "title": "The generation gap",
+          "lesson_type": "ly_thuyet",
+          "file": "U02-The-generation-gap.md",
+          "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            19,
+            28
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-03",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 3",
+      "number": 3,
+      "title": "Cities of the future",
+      "dir": "Unit-03-Cities-of-the-future",
+      "children": [
+        {
+          "id": "u03",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 3",
+          "number": 3,
+          "title": "Cities of the future",
+          "lesson_type": "ly_thuyet",
+          "file": "U03-Cities-of-the-future.md",
+          "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            29,
+            38
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r01",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 1,
+          "title": "Review 1",
+          "lesson_type": "on_tap",
+          "file": "R01-Review-1.md",
+          "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            39,
+            42
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-04",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 4",
+      "number": 4,
+      "title": "ASEAN and Viet Nam",
+      "dir": "Unit-04-ASEAN-and-Viet-Nam",
+      "children": [
+        {
+          "id": "u04",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 4",
+          "number": 4,
+          "title": "ASEAN and Viet Nam",
+          "lesson_type": "ly_thuyet",
+          "file": "U04-ASEAN-and-Viet-Nam.md",
+          "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            43,
+            52
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-05",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 5",
+      "number": 5,
+      "title": "Global warming",
+      "dir": "Unit-05-Global-warming",
+      "children": [
+        {
+          "id": "u05",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 5",
+          "number": 5,
+          "title": "Global warming",
+          "lesson_type": "ly_thuyet",
+          "file": "U05-Global-warming.md",
+          "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            53,
+            62
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r02",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 2,
+          "title": "Review 2",
+          "lesson_type": "on_tap",
+          "file": "R02-Review-2.md",
+          "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            63,
+            66
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-06",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 6",
+      "number": 6,
+      "title": "Preserving our heritage",
+      "dir": "Unit-06-Preserving-our-heritage",
+      "children": [
+        {
+          "id": "u06",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 6",
+          "number": 6,
+          "title": "Preserving our heritage",
+          "lesson_type": "ly_thuyet",
+          "file": "U06-Preserving-our-heritage.md",
+          "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            67,
+            76
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-07",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 7",
+      "number": 7,
+      "title": "Education options for school-leavers",
+      "dir": "Unit-07-Education-options-for-school-leavers",
+      "children": [
+        {
+          "id": "u07",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 7",
+          "number": 7,
+          "title": "Education options for school-leavers",
+          "lesson_type": "ly_thuyet",
+          "file": "U07-Education-options-for-school-leavers.md",
+          "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            77,
+            86
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-08",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 8",
+      "number": 8,
+      "title": "Becoming independent",
+      "dir": "Unit-08-Becoming-independent",
+      "children": [
+        {
+          "id": "u08",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 8",
+          "number": 8,
+          "title": "Becoming independent",
+          "lesson_type": "ly_thuyet",
+          "file": "U08-Becoming-independent.md",
+          "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            87,
+            96
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r03",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 3,
+          "title": "Review 3",
+          "lesson_type": "on_tap",
+          "file": "R03-Review-3.md",
+          "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            97,
+            100
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-09",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 9",
+      "number": 9,
+      "title": "Social issues",
+      "dir": "Unit-09-Social-issues",
+      "children": [
+        {
+          "id": "u09",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 9",
+          "number": 9,
+          "title": "Social issues",
+          "lesson_type": "ly_thuyet",
+          "file": "U09-Social-issues.md",
+          "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            101,
+            110
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "unit-10",
+      "role": "group",
+      "kind": "unit",
+      "label": "Unit 10",
+      "number": 10,
+      "title": "The ecosystem",
+      "dir": "Unit-10-The-ecosystem",
+      "children": [
+        {
+          "id": "u10",
+          "role": "lesson",
+          "kind": "unit",
+          "label": "Unit 10",
+          "number": 10,
+          "title": "The ecosystem",
+          "lesson_type": "ly_thuyet",
+          "file": "U10-The-ecosystem.md",
+          "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            111,
+            120
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "r04",
+          "role": "lesson",
+          "kind": "review",
+          "label": null,
+          "number": 4,
+          "title": "Review 4",
+          "lesson_type": "on_tap",
+          "file": "R04-Review-4.md",
+          "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+          "pdf_pages": [
+            121,
+            124
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Glossary",
+      "file": "Glossary.md",
+      "source_file": "SGK Tieng Anh 11 Global Success - KNTT.pdf",
+      "pdf_pages": [
+        125,
+        132
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Tiếng Anh 11 – Global Success gồm 10 Unit (Unit 1–10), 4 bài Review (Review 1–4) và bảng Glossary cuối sách (trang in 124–131, PDF 125–132).",
+    "Độ lệch trang in cố định xuyên suốt: trang PDF = trang in + 1."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-21",
+      "scope": [
+        "unit-01",
+        "unit-02",
+        "unit-03",
+        "unit-04",
+        "unit-05",
+        "unit-06",
+        "unit-07",
+        "unit-08",
+        "unit-09",
+        "unit-10",
+        "glossary"
+      ],
+      "terms": 318,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ Unit 1–10, Review 1–4 và Glossary (318 thuật ngữ: 251 in_source, 67 [mô tả], 3 ghi chú đóng cho lỗi in gốc SGK; 36 hình minh hoạ): lấy mẫu phân tầng 30 mục (10 in_source, 10 [mô tả], 10 hình minh hoạ, seed 20261121) đối chiếu trực tiếp ảnh trang PDF gốc, sạch hoàn toàn watermark www.minh-pham.info (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-21: Hoàn thành 100% tieng_anh_11 từ Cổng 0 đến Cổng 4 (318 thuật ngữ, 0% lỗi tồn đọng)."
+}

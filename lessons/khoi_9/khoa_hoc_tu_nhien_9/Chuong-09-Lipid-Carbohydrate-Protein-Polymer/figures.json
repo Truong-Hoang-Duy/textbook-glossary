@@ -1,0 +1,70 @@
+{
+  "H9-khoa_hoc_tu_nhien-b28-01": {
+    "pdf_page": 130,
+    "bbox": [118, 490, 461, 774]
+  },
+  "H9-khoa_hoc_tu_nhien-b29-01": {
+    "pdf_page": 133,
+    "bbox": [120, 522, 480, 764],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ngọn lá mía bên phải nhô cao sát dòng câu hỏi 2 phía trên"
+  },
+  "H9-khoa_hoc_tu_nhien-b29-02": {
+    "pdf_page": 134,
+    "bbox": [105, 183, 493, 325]
+  },
+  "H9-khoa_hoc_tu_nhien-b29-03": {
+    "pdf_page": 136,
+    "bbox": [64, 56, 530, 211]
+  },
+  "H9-khoa_hoc_tu_nhien-b30-01": {
+    "pdf_page": 138,
+    "bbox": [74, 55, 522, 172]
+  },
+  "H9-khoa_hoc_tu_nhien-b30-02": {
+    "pdf_page": 139,
+    "bbox": [60, 79, 542, 234]
+  },
+  "H9-khoa_hoc_tu_nhien-b31-01": {
+    "pdf_page": 140,
+    "bbox": [135, 470, 445, 764]
+  },
+  "H9-khoa_hoc_tu_nhien-b31-02": {
+    "pdf_page": 141,
+    "bbox": [94, 513, 522, 771]
+  },
+  "H9-khoa_hoc_tu_nhien-b32-01": {
+    "pdf_page": 144,
+    "bbox": [50, 119, 537, 230],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nhãn 'Nhóm nguyên tử cầu nối' bên phải nhô cao ngang dòng văn bản phía trên bên trái"
+  },
+  "H9-khoa_hoc_tu_nhien-b32-02": {
+    "pdf_page": 144,
+    "bbox": [380, 583, 536, 716]
+  },
+  "H9-khoa_hoc_tu_nhien-b32-03": {
+    "pdf_page": 145,
+    "bbox": [75, 154, 542, 256]
+  },
+  "H9-khoa_hoc_tu_nhien-b32-04": {
+    "pdf_page": 145,
+    "bbox": [388, 359, 541, 487]
+  },
+  "H9-khoa_hoc_tu_nhien-b32-05": {
+    "pdf_page": 145,
+    "bbox": [388, 665, 539, 788]
+  },
+  "H9-khoa_hoc_tu_nhien-b32-06": {
+    "pdf_page": 146,
+    "bbox": [386, 112, 542, 274]
+  },
+  "H9-khoa_hoc_tu_nhien-b32-07": {
+    "pdf_page": 146,
+    "bbox": [68, 458, 526, 665]
+  },
+  "H9-khoa_hoc_tu_nhien-b32-08": {
+    "pdf_page": 147,
+    "bbox": [50, 110, 544, 350]
+  }
+}

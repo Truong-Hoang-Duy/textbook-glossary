@@ -1,0 +1,36 @@
+{
+  "H9-toan-b01-01": {
+    "pdf_page": 9,
+    "bbox": [374, 511, 522, 621]
+  },
+  "H9-toan-b01-02": {
+    "pdf_page": 10,
+    "bbox": [390, 89, 531, 196]
+  },
+  "H9-toan-b01-03": {
+    "pdf_page": 10,
+    "bbox": [384, 205, 531, 318]
+  },
+  "H9-toan-b01-04": {
+    "pdf_page": 11,
+    "bbox": [356, 440, 522, 596]
+  },
+  "H9-toan-b02-01": {
+    "pdf_page": 17,
+    "bbox": [77, 461, 511, 548]
+  },
+  "H9-toan-b02-02": {
+    "pdf_page": 19,
+    "bbox": [9, 369, 504, 499],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 1.3a nằm trên nền màu xanh đậm của khung Em có biết? (saturation > 50)"
+  },
+  "H9-toan-b02-03": {
+    "pdf_page": 20,
+    "bbox": [148, 166, 382, 345]
+  },
+  "H9-toan-b02-04": {
+    "pdf_page": 20,
+    "bbox": [176, 470, 350, 640]
+  }
+}

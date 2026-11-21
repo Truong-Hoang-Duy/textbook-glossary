@@ -1,0 +1,1095 @@
+{
+  "unit": "khoa_hoc_tu_nhien_9",
+  "subject": "khoa_hoc_tu_nhien",
+  "subject_name": "Khoa học tự nhiên",
+  "grade": 9,
+  "files": [
+    {
+      "file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+      "volume": null,
+      "page_count": 231,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+      "pdf_pages": [
+        6,
+        7
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c01",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương I",
+      "number": 1,
+      "title": "Năng lượng cơ học",
+      "dir": "Chuong-01-Nang-luong-co-hoc",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Nhan-biet-mot-so-dung-cu-hoa-chat-Thuyet-trinh-mot.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            8,
+            16
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Động năng. Thế năng",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Dong-nang-The-nang.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            17,
+            19
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Cơ năng",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Co-nang.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            20,
+            22
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Công và công suất",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Cong-va-cong-suat.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            23,
+            26
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c02",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương II",
+      "number": 2,
+      "title": "Ánh sáng",
+      "dir": "Chuong-02-Anh-sang",
+      "children": [
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Khúc xạ ánh sáng",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Khuc-xa-anh-sang.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            27,
+            31
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Phản xạ toàn phần",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Phan-xa-toan-phan.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            32,
+            35
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Lăng kính",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Lang-kinh.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            36,
+            41
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Thấu kính",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Thau-kinh.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            42,
+            48
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Thực hành đo tiêu cự của thấu kính hội tụ",
+          "lesson_type": "thuc_hanh",
+          "file": "B09-Thuc-hanh-do-tieu-cu-cua-thau-kinh-hoi-tu.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            49,
+            51
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Kính lúp. Bài tập thấu kính",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Kinh-lup-Bai-tap-thau-kinh.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            52,
+            54
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c03",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương III",
+      "number": 3,
+      "title": "Điện",
+      "dir": "Chuong-03-Dien",
+      "children": [
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Điện trở. Định luật Ohm",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Dien-tro-Dinh-luat-Ohm.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            55,
+            61
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Đoạn mạch nối tiếp, song song",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Doan-mach-noi-tiep-song-song.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            62,
+            65
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Năng lượng của dòng điện và công suất điện",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Nang-luong-cua-dong-dien-va-cong-suat-dien.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            66,
+            68
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c04",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương IV",
+      "number": 4,
+      "title": "Điện từ",
+      "dir": "Chuong-04-Dien-tu",
+      "children": [
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Cảm ứng điện từ. Nguyên tắc tạo ra dòng điện xoay chiều",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-Cam-ung-dien-tu-Nguyen-tac-tao-ra-dong-dien-xoay.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            69,
+            73
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Tác dụng của dòng điện xoay chiều",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Tac-dung-cua-dong-dien-xoay-chieu.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            74,
+            76
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c05",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương V",
+      "number": 5,
+      "title": "Năng lượng với cuộc sống",
+      "dir": "Chuong-05-Nang-luong-voi-cuoc-song",
+      "children": [
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Vòng năng lượng trên Trái Đất. Năng lượng hoá thạch",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Vong-nang-luong-tren-Trai-Dat-Nang-luong-hoa-thach.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            77,
+            81
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Một số dạng năng lượng tái tạo",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Mot-so-dang-nang-luong-tai-tao.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            82,
+            88
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c06",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VI",
+      "number": 6,
+      "title": "Kim loại. Sự khác nhau cơ bản giữa phi kim và kim loại",
+      "dir": "Chuong-06-Kim-loai-Su-khac-nhau-co-ban-giua-phi-kim-va-kim",
+      "children": [
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Tính chất chung của kim loại",
+          "lesson_type": "ly_thuyet",
+          "file": "B18-Tinh-chat-chung-cua-kim-loai.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            89,
+            93
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Dãy hoạt động hoá học",
+          "lesson_type": "ly_thuyet",
+          "file": "B19-Day-hoat-dong-hoa-hoc.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            94,
+            96
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Tách kim loại và việc sử dụng hợp kim",
+          "lesson_type": "ly_thuyet",
+          "file": "B20-Tach-kim-loai-va-viec-su-dung-hop-kim.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            97,
+            101
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Sự khác nhau cơ bản giữa phi kim và kim loại",
+          "lesson_type": "ly_thuyet",
+          "file": "B21-Su-khac-nhau-co-ban-giua-phi-kim-va-kim-loai.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            102,
+            104
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c07",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VII",
+      "number": 7,
+      "title": "Giới thiệu về chất hữu cơ. Hydrocarbon và nguồn nhiên liệu",
+      "dir": "Chuong-07-Gioi-thieu-ve-chat-huu-co-Hydrocarbon-va-nguon",
+      "children": [
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Giới thiệu về hợp chất hữu cơ",
+          "lesson_type": "ly_thuyet",
+          "file": "B22-Gioi-thieu-ve-hop-chat-huu-co.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            105,
+            108
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Alkane",
+          "lesson_type": "ly_thuyet",
+          "file": "B23-Alkane.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            109,
+            112
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 24",
+          "number": 24,
+          "title": "Alkene",
+          "lesson_type": "ly_thuyet",
+          "file": "B24-Alkene.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            113,
+            115
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Nguồn nhiên liệu",
+          "lesson_type": "ly_thuyet",
+          "file": "B25-Nguon-nhien-lieu.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            116,
+            119
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c08",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VIII",
+      "number": 8,
+      "title": "Ethylic alcohol và acetic acid",
+      "dir": "Chuong-08-Ethylic-alcohol-va-acetic-acid",
+      "children": [
+        {
+          "id": "b26",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 26",
+          "number": 26,
+          "title": "Ethylic alcohol",
+          "lesson_type": "ly_thuyet",
+          "file": "B26-Ethylic-alcohol.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            120,
+            124
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b27",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 27",
+          "number": 27,
+          "title": "Acetic acid",
+          "lesson_type": "ly_thuyet",
+          "file": "B27-Acetic-acid.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            125,
+            129
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c09",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương IX",
+      "number": 9,
+      "title": "Lipid. Carbohydrate. Protein. Polymer",
+      "dir": "Chuong-09-Lipid-Carbohydrate-Protein-Polymer",
+      "children": [
+        {
+          "id": "b28",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 28",
+          "number": 28,
+          "title": "Lipid",
+          "lesson_type": "ly_thuyet",
+          "file": "B28-Lipid.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            130,
+            132
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b29",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 29",
+          "number": 29,
+          "title": "Carbohydrate. Glucose và saccharose",
+          "lesson_type": "ly_thuyet",
+          "file": "B29-Carbohydrate-Glucose-va-saccharose.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            133,
+            136
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b30",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 30",
+          "number": 30,
+          "title": "Tinh bột và cellulose",
+          "lesson_type": "ly_thuyet",
+          "file": "B30-Tinh-bot-va-cellulose.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            137,
+            139
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b31",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 31",
+          "number": 31,
+          "title": "Protein",
+          "lesson_type": "ly_thuyet",
+          "file": "B31-Protein.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            140,
+            142
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b32",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 32",
+          "number": 32,
+          "title": "Polymer",
+          "lesson_type": "ly_thuyet",
+          "file": "B32-Polymer.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            143,
+            147
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c10",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương X",
+      "number": 10,
+      "title": "Khai thác tài nguyên từ vỏ Trái Đất",
+      "dir": "Chuong-10-Khai-thac-tai-nguyen-tu-vo-Trai-Dat",
+      "children": [
+        {
+          "id": "b33",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 33",
+          "number": 33,
+          "title": "Sơ lược về hoá học vỏ Trái Đất và khai thác tài nguyên từ vỏ Trái Đất",
+          "lesson_type": "ly_thuyet",
+          "file": "B33-So-luoc-ve-hoa-hoc-vo-Trai-Dat-va-khai-thac-tai.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            148,
+            150
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b34",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 34",
+          "number": 34,
+          "title": "Khai thác đá vôi. Công nghiệp silicate",
+          "lesson_type": "ly_thuyet",
+          "file": "B34-Khai-thac-da-voi-Cong-nghiep-silicate.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            151,
+            154
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b35",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 35",
+          "number": 35,
+          "title": "Khai thác nhiên liệu hoá thạch. Nguồn carbon. Chu trình carbon và sự ấm lên toàn cầu",
+          "lesson_type": "ly_thuyet",
+          "file": "B35-Khai-thac-nhien-lieu-hoa-thach-Nguon-carbon-Chu.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            155,
+            160
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c11",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương XI",
+      "number": 11,
+      "title": "Di truyền học Mendel. Cơ sở phân tử của hiện tượng di truyền",
+      "dir": "Chuong-11-Di-truyen-hoc-Mendel-Co-so-phan-tu-cua-hien-tuong",
+      "children": [
+        {
+          "id": "b36",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 36",
+          "number": 36,
+          "title": "Khái quát về di truyền học",
+          "lesson_type": "ly_thuyet",
+          "file": "B36-Khai-quat-ve-di-truyen-hoc.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            161,
+            163
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b37",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 37",
+          "number": 37,
+          "title": "Các quy luật di truyền của Mendel",
+          "lesson_type": "ly_thuyet",
+          "file": "B37-Cac-quy-luat-di-truyen-cua-Mendel.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            164,
+            167
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b38",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 38",
+          "number": 38,
+          "title": "Nucleic acid và gene",
+          "lesson_type": "ly_thuyet",
+          "file": "B38-Nucleic-acid-va-gene.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            168,
+            171
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b39",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 39",
+          "number": 39,
+          "title": "Tái bản DNA và phiên mã tạo RNA",
+          "lesson_type": "ly_thuyet",
+          "file": "B39-Tai-ban-DNA-va-phien-ma-tao-RNA.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            172,
+            174
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b40",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 40",
+          "number": 40,
+          "title": "Dịch mã và mối quan hệ từ gene đến tính trạng",
+          "lesson_type": "ly_thuyet",
+          "file": "B40-Dich-ma-va-moi-quan-he-tu-gene-den-tinh-trang.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            175,
+            179
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b41",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 41",
+          "number": 41,
+          "title": "Đột biến gene",
+          "lesson_type": "ly_thuyet",
+          "file": "B41-Dot-bien-gene.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            180,
+            182
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c12",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương XII",
+      "number": 12,
+      "title": "Di truyền nhiễm sắc thể",
+      "dir": "Chuong-12-Di-truyen-nhiem-sac-the",
+      "children": [
+        {
+          "id": "b42",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 42",
+          "number": 42,
+          "title": "Nhiễm sắc thể và bộ nhiễm sắc thể",
+          "lesson_type": "ly_thuyet",
+          "file": "B42-Nhiem-sac-the-va-bo-nhiem-sac-the.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            183,
+            187
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b43",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 43",
+          "number": 43,
+          "title": "Nguyên phân và giảm phân",
+          "lesson_type": "ly_thuyet",
+          "file": "B43-Nguyen-phan-va-giam-phan.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            188,
+            192
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b44",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 44",
+          "number": 44,
+          "title": "Nhiễm sắc thể giới tính và cơ chế xác định giới tính",
+          "lesson_type": "ly_thuyet",
+          "file": "B44-Nhiem-sac-the-gioi-tinh-va-co-che-xac-dinh-gioi.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            193,
+            195
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b45",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 45",
+          "number": 45,
+          "title": "Di truyền liên kết",
+          "lesson_type": "ly_thuyet",
+          "file": "B45-Di-truyen-lien-ket.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            196,
+            198
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b46",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 46",
+          "number": 46,
+          "title": "Đột biến nhiễm sắc thể",
+          "lesson_type": "ly_thuyet",
+          "file": "B46-Dot-bien-nhiem-sac-the.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            199,
+            202
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c13",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương XIII",
+      "number": 13,
+      "title": "Di truyền học với con người và đời sống",
+      "dir": "Chuong-13-Di-truyen-hoc-voi-con-nguoi-va-doi-song",
+      "children": [
+        {
+          "id": "b47",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 47",
+          "number": 47,
+          "title": "Di truyền học với con người",
+          "lesson_type": "ly_thuyet",
+          "file": "B47-Di-truyen-hoc-voi-con-nguoi.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            203,
+            208
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b48",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 48",
+          "number": 48,
+          "title": "Ứng dụng công nghệ di truyền vào đời sống",
+          "lesson_type": "ly_thuyet",
+          "file": "B48-Ung-dung-cong-nghe-di-truyen-vao-doi-song.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            209,
+            212
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c14",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương XIV",
+      "number": 14,
+      "title": "Tiến hoá",
+      "dir": "Chuong-14-Tien-hoa",
+      "children": [
+        {
+          "id": "b49",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 49",
+          "number": 49,
+          "title": "Khái niệm tiến hoá và các hình thức chọn lọc",
+          "lesson_type": "ly_thuyet",
+          "file": "B49-Khai-niem-tien-hoa-va-cac-hinh-thuc-chon-loc.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            213,
+            215
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b50",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 50",
+          "number": 50,
+          "title": "Cơ chế tiến hoá",
+          "lesson_type": "ly_thuyet",
+          "file": "B50-Co-che-tien-hoa.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            216,
+            220
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b51",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 51",
+          "number": 51,
+          "title": "Sự phát sinh và phát triển sự sống trên Trái Đất",
+          "lesson_type": "ly_thuyet",
+          "file": "B51-Su-phat-sinh-va-phat-trien-su-song-tren-Trai-Dat.md",
+          "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+          "pdf_pages": [
+            221,
+            225
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-thuat-ngu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Giải thích một số thuật ngữ dùng trong sách",
+      "file": "Giai-thich-mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+      "pdf_pages": [
+        226,
+        228
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-phien-am",
+      "role": "back_matter",
+      "kind": "bang_phien_am",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu phiên âm",
+      "file": null,
+      "source_file": "SGK Khoa hoc tu nhien 9 KNTT.pdf",
+      "pdf_pages": [
+        229,
+        229
+      ],
+      "status": "skip"
+    }
+  ],
+  "notes": [
+    "Độ lệch trang in cố định printed_offset = 2 xuyên suốt toàn sách (PDF 4 = trang in 2 Hướng dẫn sử dụng sách, PDF 5 = trang in 3 Lời nói đầu, PDF 6–7 = trang in 4–5 Mục lục, PDF 8..229 = trang in 6..227; PDF 1–3 là bìa và trang tên sách, PDF 230–231 là trang bản quyền và bìa sau).",
+    "Bài 1 (Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học, trang in 6–14, PDF 8–16) là bài mở đầu đứng trước Chương I nên được xếp làm bài đầu tiên trong nhóm Chương I theo đúng chuẩn khoa_hoc_tu_nhien_7 và khoa_hoc_tu_nhien_8.",
+    "Mép lề ngoài bản quét PDF có dòng đóng dấu dọc 'Nguyễn Quang Minh - THCS Đống Đa - Bình Thạnh - 0938873663': loại bỏ hoàn toàn khỏi văn bản Tầng 1 và giữ khung cắt hình trong khoảng x = [45, 550] pt.",
+    "Mục lục sách in ghi Bài 39 ở trang 169 nhưng thực tế trang in 169 (PDF 171) là trang cuối Bài 38, Bài 39 bắt đầu ở trang in 170 (PDF 172) — lấy theo trang in thực tế."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-21",
+      "scope": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "c06",
+        "c07",
+        "c08",
+        "c09",
+        "c10",
+        "c11",
+        "c12",
+        "c13",
+        "c14",
+        "bang-thuat-ngu"
+      ],
+      "terms": 365,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ 14 Chương (Bài 1–51) và Giải thích một số thuật ngữ dùng trong sách (365 thuật ngữ: 271 in_source, 94 [mô tả], 0 Ngoài nguồn, 25 ghi chú nguồn đóng; 226 hình minh hoạ): lấy mẫu phân tầng 30 mục (10 in_source, 10 [mô tả], 10 hình minh hoạ, seed 20261121) đối chiếu trực tiếp ảnh trang PDF gốc, sạch hoàn toàn dấu dọc ở mép trang (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-21: Hoàn thành 100% khoa_hoc_tu_nhien_9 từ Cổng 0 đến Cổng 4 (14 Chương, 51 Bài học, Giải thích một số thuật ngữ dùng trong sách, 226 hình minh hoạ, 14 từ điển với 365 thuật ngữ, 0% lỗi)."
+}

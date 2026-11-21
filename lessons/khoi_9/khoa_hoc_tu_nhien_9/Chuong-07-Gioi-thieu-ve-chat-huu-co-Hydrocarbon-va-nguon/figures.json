@@ -1,0 +1,48 @@
+{
+  "H9-khoa_hoc_tu_nhien-b22-01": {
+    "pdf_page": 105,
+    "bbox": [68, 493, 536, 690]
+  },
+  "H9-khoa_hoc_tu_nhien-b22-02": {
+    "pdf_page": 107,
+    "bbox": [132, 88, 470, 314],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nguyên tử H trên đỉnh công thức (3) nhô cao ngang dòng câu hỏi 1 phía trên bên trái"
+  },
+  "H9-khoa_hoc_tu_nhien-b22-03": {
+    "pdf_page": 107,
+    "bbox": [72, 591, 490, 775]
+  },
+  "H9-khoa_hoc_tu_nhien-b23-01": {
+    "pdf_page": 109,
+    "bbox": [88, 418, 488, 651]
+  },
+  "H9-khoa_hoc_tu_nhien-b23-02": {
+    "pdf_page": 111,
+    "bbox": [395, 110, 528, 388]
+  },
+  "H9-khoa_hoc_tu_nhien-b23-03": {
+    "pdf_page": 112,
+    "bbox": [69, 79, 535, 265]
+  },
+  "H9-khoa_hoc_tu_nhien-b24-01": {
+    "pdf_page": 114,
+    "bbox": [73, 161, 535, 355],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Nhãn C2H4 và mũi tên trên ống nghiệm phải nhô cao ngang dòng chữ 'Dụng cụ thí nghiệm...' bên trái"
+  },
+  "H9-khoa_hoc_tu_nhien-b24-02": {
+    "pdf_page": 115,
+    "bbox": [78, 395, 538, 502],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ô 'Sản xuất dung môi' ở giữa nhô cao ngang dòng chữ 'polymer (Hình 24.2).' phía trên bên trái"
+  },
+  "H9-khoa_hoc_tu_nhien-b25-01": {
+    "pdf_page": 116,
+    "bbox": [97, 416, 493, 652]
+  },
+  "H9-khoa_hoc_tu_nhien-b25-02": {
+    "pdf_page": 118,
+    "bbox": [70, 203, 534, 367]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "H9-tin_hoc-b14-01": {
+    "pdf_page": 78,
+    "bbox": [399, 338, 506, 461]
+  },
+  "H9-tin_hoc-b14-02": {
+    "pdf_page": 79,
+    "bbox": [84, 77, 526, 206]
+  },
+  "H9-tin_hoc-b14-03": {
+    "pdf_page": 80,
+    "bbox": [60, 216, 525, 445],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh khối Bắt đầu của Hình 14.3b bên phải (y=213) chồng lấn theo phương dọc với nét chân chữ dòng cuối cột trái 'sẽ ưu tiên đi con đường phía tay phải,' (y<=213)"
+  },
+  "H9-tin_hoc-b15-01": {
+    "pdf_page": 81,
+    "bbox": [349, 412, 535, 586]
+  },
+  "H9-tin_hoc-b15-02": {
+    "pdf_page": 82,
+    "bbox": [94, 251, 265, 355]
+  },
+  "H9-tin_hoc-b15-03": {
+    "pdf_page": 83,
+    "bbox": [71, 308, 294, 612]
+  },
+  "H9-tin_hoc-b15-04": {
+    "pdf_page": 84,
+    "bbox": [93, 119, 520, 376],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đỉnh khối Bắt đầu của Hình 15.4b bên phải (y=120) chồng lấn theo phương dọc với dòng chữ cuối cột trái 'thì cũng không làm sai kết quả.' (y=112..122)"
+  },
+  "H9-tin_hoc-b16-01": {
+    "pdf_page": 85,
+    "bbox": [71, 573, 534, 707]
+  },
+  "H9-tin_hoc-b16-02": {
+    "pdf_page": 86,
+    "bbox": [95, 103, 503, 327]
+  },
+  "H9-tin_hoc-b16-03": {
+    "pdf_page": 87,
+    "bbox": [101, 249, 499, 631]
+  }
+}

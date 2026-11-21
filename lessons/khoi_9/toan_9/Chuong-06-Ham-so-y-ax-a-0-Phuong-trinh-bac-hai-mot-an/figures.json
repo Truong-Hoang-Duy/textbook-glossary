@@ -1,0 +1,64 @@
+{
+  "H9-toan-b18-01": {
+    "pdf_page": 6,
+    "bbox": [265, 588, 542, 737]
+  },
+  "H9-toan-b18-02": {
+    "pdf_page": 8,
+    "bbox": [393, 382, 570, 550]
+  },
+  "H9-toan-b18-03": {
+    "pdf_page": 8,
+    "bbox": [429, 601, 555, 793],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc trên cạnh trái đi sát kí hiệu (a ≠ 0) của tiểu mục bên cạnh để không cắt mất đầu trái trục hoành"
+  },
+  "H9-toan-b18-04": {
+    "pdf_page": 9,
+    "bbox": [96, 236, 410, 380]
+  },
+  "H9-toan-b18-05": {
+    "pdf_page": 9,
+    "bbox": [415, 388, 550, 594]
+  },
+  "H9-toan-b18-06": {
+    "pdf_page": 10,
+    "bbox": [218, 549, 406, 742]
+  },
+  "H9-toan-b18-07": {
+    "pdf_page": 11,
+    "bbox": [215, 118, 369, 312]
+  },
+  "H9-toan-b18-08": {
+    "pdf_page": 11,
+    "bbox": [183, 360, 402, 520]
+  },
+  "H9-toan-b19-01": {
+    "pdf_page": 12,
+    "bbox": [170, 326, 435, 510]
+  },
+  "H9-toan-b19-02": {
+    "pdf_page": 17,
+    "bbox": [72, 575, 528, 742]
+  },
+  "H9-toan-b19-03": {
+    "pdf_page": 18,
+    "bbox": [78, 66, 536, 263]
+  },
+  "H9-toan-b19-04": {
+    "pdf_page": 19,
+    "bbox": [120, 435, 486, 606]
+  },
+  "H9-toan-ltc-c06-01-01": {
+    "pdf_page": 20,
+    "bbox": [184, 363, 445, 670]
+  },
+  "H9-toan-b20-01": {
+    "pdf_page": 23,
+    "bbox": [381, 228, 531, 352]
+  },
+  "H9-toan-bt-c06-01": {
+    "pdf_page": 32,
+    "bbox": [386, 168, 531, 375]
+  }
+}

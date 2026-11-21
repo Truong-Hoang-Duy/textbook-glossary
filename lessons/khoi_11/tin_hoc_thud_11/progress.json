@@ -1,0 +1,697 @@
+{
+  "unit": "tin_hoc_thud_11",
+  "subject": "tin_hoc_thud",
+  "subject_name": "Tin học – Định hướng Tin học ứng dụng",
+  "grade": 11,
+  "files": [
+    {
+      "file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+      "volume": null,
+      "page_count": 155,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "cd01",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 1",
+      "number": 1,
+      "title": "Máy tính và xã hội tri thức",
+      "dir": "Chu-de-01-May-tinh-va-xa-hoi-tri-thuc",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Hệ điều hành",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-He-dieu-hanh.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            6,
+            10
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Thực hành sử dụng hệ điều hành",
+          "lesson_type": "thuc_hanh",
+          "file": "B02-Thuc-hanh-su-dung-he-dieu-hanh.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            11,
+            15
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Phần mềm nguồn mở và phần mềm chạy trên Internet",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Phan-mem-nguon-mo-va-phan-mem-chay-tren-Internet.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            16,
+            21
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Bên trong máy tính",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Ben-trong-may-tinh.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            22,
+            27
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Kết nối máy tính với các thiết bị số",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Ket-noi-may-tinh-voi-cac-thiet-bi-so.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            28,
+            32
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd02",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 2",
+      "number": 2,
+      "title": "Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin",
+      "dir": "Chu-de-02-To-chuc-luu-tru-tim-kiem-va-trao-doi-thong-tin",
+      "children": [
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Lưu trữ và chia sẻ tệp tin trên Internet",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Luu-tru-va-chia-se-tep-tin-tren-Internet.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            33,
+            36
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Thực hành tìm kiếm thông tin trên Internet",
+          "lesson_type": "thuc_hanh",
+          "file": "B07-Thuc-hanh-tim-kiem-thong-tin-tren-Internet.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            37,
+            39
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Thực hành nâng cao sử dụng thư điện tử và mạng xã hội",
+          "lesson_type": "thuc_hanh",
+          "file": "B08-Thuc-hanh-nang-cao-su-dung-thu-dien-tu-va-mang-xa.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            40,
+            43
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd03",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 3",
+      "number": 3,
+      "title": "Đạo đức, pháp luật và văn hoá trong môi trường số",
+      "dir": "Chu-de-03-Dao-duc-phap-luat-va-van-hoa-trong-moi-truong-so",
+      "children": [
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Giao tiếp an toàn trên Internet",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Giao-tiep-an-toan-tren-Internet.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            44,
+            50
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cd04",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 4",
+      "number": 4,
+      "title": "Giới thiệu các hệ cơ sở dữ liệu",
+      "dir": "Chu-de-04-Gioi-thieu-cac-he-co-so-du-lieu",
+      "children": [
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Lưu trữ dữ liệu và khai thác thông tin phục vụ quản lí",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Luu-tru-du-lieu-va-khai-thac-thong-tin-phuc-vu.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            51,
+            54
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Cơ sở dữ liệu",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Co-so-du-lieu.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            55,
+            59
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Hệ quản trị cơ sở dữ liệu và hệ cơ sở dữ liệu",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-He-quan-tri-co-so-du-lieu-va-he-co-so-du-lieu.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            60,
+            65
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Cơ sở dữ liệu quan hệ",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Co-so-du-lieu-quan-he.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            66,
+            70
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "SQL – Ngôn ngữ truy vấn có cấu trúc",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-SQL-Ngon-ngu-truy-van-co-cau-truc.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            71,
+            74
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Bảo mật và an toàn hệ cơ sở dữ liệu",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Bao-mat-va-an-toan-he-co-so-du-lieu.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            75,
+            78
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        }
+      ]
+    },
+    {
+      "id": "cd05",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 5",
+      "number": 5,
+      "title": "Hướng nghiệp với tin học",
+      "dir": "Chu-de-05-Huong-nghiep-voi-tin-hoc",
+      "children": [
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Công việc quản trị cơ sở dữ liệu",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Cong-viec-quan-tri-co-so-du-lieu.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            79,
+            82
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        }
+      ]
+    },
+    {
+      "id": "cd06",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 6",
+      "number": 6,
+      "title": "Thực hành tạo và khai thác cơ sở dữ liệu",
+      "dir": "Chu-de-06-Thuc-hanh-tao-va-khai-thac-co-so-du-lieu",
+      "children": [
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Quản trị cơ sở dữ liệu trên máy tính",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Quan-tri-co-so-du-lieu-tren-may-tinh.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            83,
+            87
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Thực hành xác định cấu trúc bảng và các trường khoá",
+          "lesson_type": "thuc_hanh",
+          "file": "B18-Thuc-hanh-xac-dinh-cau-truc-bang-va-cac-truong.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            88,
+            92
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Thực hành tạo lập cơ sở dữ liệu và các bảng",
+          "lesson_type": "thuc_hanh",
+          "file": "B19-Thuc-hanh-tao-lap-co-so-du-lieu-va-cac-bang.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            93,
+            96
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Thực hành tạo lập các bảng có khoá ngoài",
+          "lesson_type": "thuc_hanh",
+          "file": "B20-Thuc-hanh-tao-lap-cac-bang-co-khoa-ngoai.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            97,
+            101
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Thực hành cập nhật và truy xuất dữ liệu các bảng",
+          "lesson_type": "thuc_hanh",
+          "file": "B21-Thuc-hanh-cap-nhat-va-truy-xuat-du-lieu-cac-bang.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            102,
+            106
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Thực hành cập nhật bảng dữ liệu có tham chiếu",
+          "lesson_type": "thuc_hanh",
+          "file": "B22-Thuc-hanh-cap-nhat-bang-du-lieu-co-tham-chieu.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            107,
+            110
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Thực hành truy xuất dữ liệu qua liên kết các bảng",
+          "lesson_type": "thuc_hanh",
+          "file": "B23-Thuc-hanh-truy-xuat-du-lieu-qua-lien-ket-cac-bang.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            111,
+            114
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 24",
+          "number": 24,
+          "title": "Thực hành sao lưu dữ liệu",
+          "lesson_type": "thuc_hanh",
+          "file": "B24-Thuc-hanh-sao-luu-du-lieu.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            115,
+            117
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        }
+      ]
+    },
+    {
+      "id": "cd07",
+      "role": "group",
+      "kind": "chu_de",
+      "label": "Chủ đề 7",
+      "number": 7,
+      "title": "Phần mềm chỉnh sửa ảnh và làm video",
+      "dir": "Chu-de-07-Phan-mem-chinh-sua-anh-va-lam-video",
+      "children": [
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Phần mềm chỉnh sửa ảnh",
+          "lesson_type": "ly_thuyet",
+          "file": "B25-Phan-mem-chinh-sua-anh.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            118,
+            123
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b26",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 26",
+          "number": 26,
+          "title": "Công cụ tinh chỉnh màu sắc và công cụ chọn",
+          "lesson_type": "ly_thuyet",
+          "file": "B26-Cong-cu-tinh-chinh-mau-sac-va-cong-cu-chon.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            124,
+            129
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b27",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 27",
+          "number": 27,
+          "title": "Công cụ vẽ và một số ứng dụng",
+          "lesson_type": "ly_thuyet",
+          "file": "B27-Cong-cu-ve-va-mot-so-ung-dung.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            130,
+            134
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b28",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 28",
+          "number": 28,
+          "title": "Tạo ảnh động",
+          "lesson_type": "ly_thuyet",
+          "file": "B28-Tao-anh-dong.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            135,
+            138
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b29",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 29",
+          "number": 29,
+          "title": "Khám phá phần mềm làm phim",
+          "lesson_type": "ly_thuyet",
+          "file": "B29-Kham-pha-phan-mem-lam-phim.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            139,
+            144
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b30",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 30",
+          "number": 30,
+          "title": "Biên tập phim",
+          "lesson_type": "ly_thuyet",
+          "file": "B30-Bien-tap-phim.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            145,
+            149
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        },
+        {
+          "id": "b31",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 31",
+          "number": 31,
+          "title": "Thực hành tạo phim hoạt hình",
+          "lesson_type": "thuc_hanh",
+          "file": "B31-Thuc-hanh-tao-phim-hoat-hinh.md",
+          "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+          "pdf_pages": [
+            150,
+            152
+          ],
+          "status": "verified",
+          "printed_offset": 2
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ",
+      "file": "Bang-giai-thich-thuat-ngu.md",
+      "source_file": "SGK Tin hoc 11 Dinh huong Tin hoc ung dung KNTT.pdf",
+      "pdf_pages": [
+        153,
+        153
+      ],
+      "printed_offset": 2,
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "Bài 1–16 (Chủ đề 1–5) là mạch kiến thức cốt lõi chung với Tin học 11 Định hướng Khoa học máy tính; Bài 17–31 (Chủ đề 6–7) là phần chuyên sâu Tin học ứng dụng.",
+    "PDF trang 47 là trang ảnh chèn ngoài sách (giữa trang in 45 và 46 của Bài 9): để trống mốc <!-- pdf:47 --> ở Bài 9 và đặt printed_offset = 2 cho toàn bộ Bài 10–31 cùng Bảng giải thích thuật ngữ cuối sách."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-21",
+      "scope": [
+        "cd01",
+        "cd02",
+        "cd03",
+        "cd04",
+        "cd05",
+        "cd06",
+        "cd07",
+        "bang-tra-cuu"
+      ],
+      "terms": 361,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ 31 Bài học (Chủ đề 1–7, định hướng ICT) và Bảng giải thích thuật ngữ (361 thuật ngữ: 286 in_source, 75 [mô tả]; 179 mục hình trên khổ A4): lấy mẫu phân tầng 30 mục (10 in_source, 10 [mô tả], 10 hình minh hoạ, seed 20261121) đối chiếu trực tiếp ảnh trang PDF gốc đạt 0% lỗi cắt hình/nội dung; ghi nhận ảnh ngoài sách chèn tại pdf:47 giữa Bài 9."
+    }
+  ],
+  "last_session_note": "2026-11-21: Hoàn thành 100% tin_hoc_thud_11 từ Cổng 0 đến Cổng 4 (361 thuật ngữ, 0% lỗi tồn đọng)."
+}

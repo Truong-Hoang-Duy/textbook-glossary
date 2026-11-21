@@ -34,7 +34,7 @@ DISCIPLINE_KEYWORDS = {
     "Tin học": ("tin học", "máy tính", "lập trình", "cơ sở dữ liệu", "mạng máy tính", "thuật toán", "trí tuệ nhân tạo"),
     "Địa lí": ("địa lí", "địa lý", "khí hậu", "địa hình", "dân cư", "lãnh thổ", "kinh tế – xã hội"),
     "Lịch sử": ("lịch sử", "cách mạng", "chiến tranh", "văn minh", "triều đại"),
-    "Giáo dục Kinh tế và Pháp luật": ("kinh tế và pháp luật", "kt&pl", "pháp luật", "hiến pháp", "thị trường", "ngân sách"),
+    "Giáo dục Kinh tế và Pháp luật": ("kinh tế và pháp luật", "kt&pl", "giáo dục công dân", "gdcd", "pháp luật", "hiến pháp", "thị trường", "ngân sách", "đạo đức", "công dân"),
     "Ngữ văn": ("ngữ văn", "văn học", "thơ", "truyện", "tiểu thuyết", "nghị luận", "tu từ"),
     "Tiếng Anh": ("tiếng anh", "global success"),
 }
@@ -190,7 +190,7 @@ def parse_source_segment(seg: str) -> tuple[dict | None, str | None]:
             "lịch sử": "lich_su",
             "lịch sử và địa lí": "ls_va_dl",
             "gd kt&pl": "gd_kt_va_pl",
-            "gdcd": "gdcd",
+            "gdcd": "giao_duc_cong_dan",
             "ngữ văn": "ngu_van",
             "tiếng anh": "tieng_anh",
         }

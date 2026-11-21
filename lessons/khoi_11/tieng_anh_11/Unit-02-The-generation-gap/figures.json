@@ -1,0 +1,18 @@
+{
+  "H11-tieng_anh-u02-01": {
+    "pdf_page": 22,
+    "bbox": [248, 146, 556, 248],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Viền ảnh nghiêng Generation X đè trực tiếp lên thanh cam III READING bên trái (x=244..247) và sát mép trên ảnh Generation Z bên dưới (y=250); đặt x0=248, y1=248 để lấy trọn 2 ảnh Generation X, Y mà không dính chữ câu hỏi 1"
+  },
+  "H11-tieng_anh-u02-02": {
+    "pdf_page": 22,
+    "bbox": [410, 252, 562, 369],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh nghiêng Generation Z đè sát dưới ảnh Generation Y (y=248) và cắt qua khung chấm tím của bài đọc bên dưới (y=344); đặt x0=410 tách sạch khỏi chữ 'picture' (x=402)"
+  },
+  "H11-tieng_anh-u02-03": {
+    "pdf_page": 27,
+    "bbox": [326, 516, 556, 688]
+  }
+}

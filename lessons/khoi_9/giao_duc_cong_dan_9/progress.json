@@ -1,0 +1,266 @@
+{
+  "unit": "giao_duc_cong_dan_9",
+  "subject": "giao_duc_cong_dan",
+  "subject_name": "Giáo dục công dân",
+  "grade": 9,
+  "files": [
+    {
+      "file": "SGK Giao duc cong dan 9 KNTT.pdf",
+      "volume": null,
+      "page_count": 59,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+      "pdf_pages": [
+        6,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "p01",
+      "role": "group",
+      "kind": "phan",
+      "label": null,
+      "number": null,
+      "title": "Nội dung bài học",
+      "dir": "Bai-hoc",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Sống có lí tưởng",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Song-co-li-tuong.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            7,
+            11
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Khoan dung",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Khoan-dung.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            12,
+            15
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Tích cực tham gia các hoạt động cộng đồng",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Tich-cuc-tham-gia-cac-hoat-dong-cong-dong.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            16,
+            20
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Khách quan và công bằng",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Khach-quan-va-cong-bang.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            21,
+            25
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Bảo vệ hoà bình",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Bao-ve-hoa-binh.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            26,
+            31
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Quản lí thời gian hiệu quả",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Quan-li-thoi-gian-hieu-qua.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            32,
+            35
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Thích ứng với thay đổi",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Thich-ung-voi-thay-doi.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            36,
+            39
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Tiêu dùng thông minh",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Tieu-dung-thong-minh.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            40,
+            43
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Vi phạm pháp luật và trách nhiệm pháp lí",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Vi-pham-phap-luat-va-trach-nhiem-phap-li.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            44,
+            50
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Quyền tự do kinh doanh và nghĩa vụ nộp thuế",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Quyen-tu-do-kinh-doanh-va-nghia-vu-nop-thue.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            51,
+            55
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Một số thuật ngữ dùng trong sách",
+      "file": "Mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+      "pdf_pages": [
+        56,
+        56
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Giáo dục công dân 9 KNTT gồm 10 bài học liên tiếp (Bài 1–10), gom vào nhóm 'Nội dung bài học' (thư mục Bai-hoc).",
+    "Độ lệch trang in cố định xuyên suốt: trang PDF = trang in + 2."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-21",
+      "scope": [
+        "p01",
+        "bang-tra-cuu"
+      ],
+      "terms": 65,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ 10 Bài học (Bài 1–10) và bảng Một số thuật ngữ dùng trong sách (65 thuật ngữ: 27 in_source, 36 [mô tả], 2 Ngoài nguồn, 2 ghi chú nguồn đóng; 16 hình minh hoạ/sơ đồ): lấy mẫu phân tầng 30 mục (10 mục in_source: Cộng đồng, Thích ứng, Tiêu dùng, Sống có lí tưởng, Khoan dung, Công bằng, Tiêu dùng thông minh, Vi phạm pháp luật, Tội phạm, Thuế giá trị gia tăng; 10 mục [mô tả]: Cách quản lí thời gian hiệu quả, Biện pháp thích ứng với sự thay đổi, Tìm hiểu các thông tin sản phẩm, Dấu hiệu của vi phạm pháp luật, Vi phạm hình sự, Vi phạm hành chính, Trách nhiệm dân sự, Trách nhiệm kỉ luật, Quyền tự do kinh doanh, Nghĩa vụ nộp thuế; và 10 hình minh hoạ/sơ đồ: H9-giao_duc_cong_dan-b01-01, b02-01, b03-02, b04-01, b05-01, b05-02, b08-01, b08-03, b09-01, b09-02). Toàn bộ 30/30 mục mẫu khớp 100% với ảnh trang sách gốc, sạch hoàn toàn watermark (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-21: Hoàn thành 100% giao_duc_cong_dan_9 từ Cổng 0 đến Cổng 4 (10 Bài học, Bảng một số thuật ngữ dùng trong sách, 16 hình minh hoạ/sơ đồ sạch biên, 1 từ điển với 65 thuật ngữ, 0 lỗi)."
+}

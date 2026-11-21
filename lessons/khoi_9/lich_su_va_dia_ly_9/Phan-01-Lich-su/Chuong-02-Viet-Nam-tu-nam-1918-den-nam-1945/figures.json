@@ -1,0 +1,145 @@
+{
+  "H9-lich_su_va_dia_ly-ls-b05-01": {
+    "pdf_page": 25,
+    "bbox": [
+      56,
+      261,
+      316,
+      421
+    ]
+  },
+  "H9-lich_su_va_dia_ly-ls-b05-02": {
+    "pdf_page": 26,
+    "bbox": [
+      366,
+      407,
+      488,
+      603
+    ]
+  },
+  "H9-lich_su_va_dia_ly-ls-b05-03": {
+    "pdf_page": 27,
+    "bbox": [
+      279,
+      176,
+      488,
+      334
+    ]
+  },
+  "H9-lich_su_va_dia_ly-ls-b06-01": {
+    "pdf_page": 28,
+    "bbox": [
+      96,
+      468,
+      444,
+      702
+    ]
+  },
+  "H9-lich_su_va_dia_ly-ls-b06-02": {
+    "pdf_page": 29,
+    "bbox": [344, 113, 477, 336],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Hình 6.2 đặt trên nền hộp màu xám nâu và đè lên logo chìm của trang sách"
+  },
+  "H9-lich_su_va_dia_ly-ls-b06-03": {
+    "pdf_page": 30,
+    "bbox": [
+      53,
+      174,
+      488,
+      341
+    ]
+  },
+  "H9-lich_su_va_dia_ly-ls-b06-04": {
+    "pdf_page": 30,
+    "bbox": [
+      267,
+      435,
+      488,
+      625
+    ]
+  },
+  "H9-lich_su_va_dia_ly-ls-b07-01": {
+    "pdf_page": 32,
+    "bbox": [
+      258,
+      197,
+      465,
+      347
+    ]
+  },
+  "H9-lich_su_va_dia_ly-ls-b07-02": {
+    "pdf_page": 33,
+    "bbox": [
+      187,
+      56,
+      487,
+      318
+    ]
+  },
+  "H9-lich_su_va_dia_ly-ls-b07-03": {
+    "pdf_page": 33,
+    "bbox": [
+      53,
+      438,
+      481,
+      595
+    ]
+  },
+  "H9-lich_su_va_dia_ly-ls-b07-04": {
+    "pdf_page": 34,
+    "bbox": [
+      195,
+      465,
+      489,
+      693
+    ]
+  },
+  "H9-lich_su_va_dia_ly-ls-b08-01": {
+    "pdf_page": 37,
+    "bbox": [
+      58,
+      404,
+      288,
+      588
+    ]
+  },
+  "H9-lich_su_va_dia_ly-ls-b08-02": {
+    "pdf_page": 38,
+    "bbox": [
+      79,
+      419,
+      461,
+      646
+    ]
+  },
+  "H9-lich_su_va_dia_ly-ls-b08-03": {
+    "pdf_page": 40,
+    "bbox": [
+      235,
+      0,
+      488,
+      175
+    ],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh Hình 8.3 tràn sát mép trên trang sách"
+  },
+  "H9-lich_su_va_dia_ly-ls-b08-04": {
+    "pdf_page": 40,
+    "bbox": [
+      93,
+      529,
+      448,
+      708
+    ]
+  },
+  "H9-lich_su_va_dia_ly-ls-b08-05": {
+    "pdf_page": 41,
+    "bbox": [
+      86,
+      251,
+      454,
+      440
+    ]
+  }
+}

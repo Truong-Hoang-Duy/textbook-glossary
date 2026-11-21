@@ -1,0 +1,48 @@
+{
+  "H9-khoa_hoc_tu_nhien-b16-01": {
+    "pdf_page": 78,
+    "bbox": [73, 59, 533, 294],
+    "allow_edge_ink": true,
+    "edge_ink_note": "biểu tượng bàn tay của hộp hoạt động phía dưới nhô cao ngang cạnh dưới nhãn Hình 16.1"
+  },
+  "H9-khoa_hoc_tu_nhien-b16-02": {
+    "pdf_page": 78,
+    "bbox": [71, 556, 533, 781]
+  },
+  "H9-khoa_hoc_tu_nhien-b16-03": {
+    "pdf_page": 79,
+    "bbox": [76, 589, 527, 774]
+  },
+  "H9-khoa_hoc_tu_nhien-b16-04": {
+    "pdf_page": 80,
+    "bbox": [378, 519, 529, 691]
+  },
+  "H9-khoa_hoc_tu_nhien-b16-05": {
+    "pdf_page": 81,
+    "bbox": [329, 193, 513, 401]
+  },
+  "H9-khoa_hoc_tu_nhien-b17-01": {
+    "pdf_page": 82,
+    "bbox": [68, 493, 521, 768]
+  },
+  "H9-khoa_hoc_tu_nhien-b17-02": {
+    "pdf_page": 83,
+    "bbox": [81, 573, 528, 738]
+  },
+  "H9-khoa_hoc_tu_nhien-b17-03": {
+    "pdf_page": 84,
+    "bbox": [71, 297, 534, 499]
+  },
+  "H9-khoa_hoc_tu_nhien-b17-04": {
+    "pdf_page": 85,
+    "bbox": [327, 89, 527, 261]
+  },
+  "H9-khoa_hoc_tu_nhien-b17-05": {
+    "pdf_page": 85,
+    "bbox": [75, 300, 527, 505]
+  },
+  "H9-khoa_hoc_tu_nhien-b17-06": {
+    "pdf_page": 86,
+    "bbox": [71, 219, 534, 482]
+  }
+}

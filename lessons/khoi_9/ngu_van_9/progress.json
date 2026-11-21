@@ -1,0 +1,393 @@
+{
+  "unit": "ngu_van_9",
+  "subject": "ngu_van",
+  "subject_name": "Ngữ văn",
+  "grade": 9,
+  "files": [
+    {
+      "file": "SGK Ngu van 9 Tap 1 KNTT.pdf",
+      "volume": 1,
+      "page_count": 155,
+      "printed_offset": 2
+    },
+    {
+      "file": "SGK Ngu van 9 Tap 2 KNTT.pdf",
+      "volume": 2,
+      "page_count": 151,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Ngu van 9 Tap 1 KNTT.pdf",
+      "pdf_pages": [
+        4,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-1",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục (Tập một)",
+      "file": null,
+      "source_file": "SGK Ngu van 9 Tap 1 KNTT.pdf",
+      "pdf_pages": [
+        7,
+        8
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Ngu van 9 Tap 1 KNTT.pdf",
+      "pdf_pages": [
+        9,
+        9
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "t01",
+      "role": "group",
+      "kind": "tap",
+      "label": null,
+      "number": 1,
+      "title": "Tập một",
+      "dir": "Tap-1",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Thế giới kì ảo",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-The-gioi-ki-ao.md",
+          "source_file": "SGK Ngu van 9 Tap 1 KNTT.pdf",
+          "pdf_pages": [
+            10,
+            40
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Những cung bậc tâm trạng",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Nhung-cung-bac-tam-trang.md",
+          "source_file": "SGK Ngu van 9 Tap 1 KNTT.pdf",
+          "pdf_pages": [
+            41,
+            65
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Hồn nước nằm trong tiếng mẹ cha",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Hon-nuoc-nam-trong-tieng-me-cha.md",
+          "source_file": "SGK Ngu van 9 Tap 1 KNTT.pdf",
+          "pdf_pages": [
+            66,
+            89
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Khám phá vẻ đẹp văn chương",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Kham-pha-ve-dep-van-chuong.md",
+          "source_file": "SGK Ngu van 9 Tap 1 KNTT.pdf",
+          "pdf_pages": [
+            90,
+            118
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Đối diện với nỗi đau",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Doi-dien-voi-noi-dau.md",
+          "source_file": "SGK Ngu van 9 Tap 1 KNTT.pdf",
+          "pdf_pages": [
+            119,
+            144
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "on-tap-hk1",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Ôn tập học kì I",
+          "lesson_type": "on_tap",
+          "file": "On-tap-hoc-ki-I.md",
+          "source_file": "SGK Ngu van 9 Tap 1 KNTT.pdf",
+          "pdf_pages": [
+            145,
+            150
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 1: Bảng giải thích thuật ngữ (Tập một)",
+      "file": "Bang-giai-thich-thuat-ngu-Tap-1.md",
+      "source_file": "SGK Ngu van 9 Tap 1 KNTT.pdf",
+      "pdf_pages": [
+        151,
+        152
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-tra-cuu-ten-rieng-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 2: Bảng tra cứu tên riêng nước ngoài (Tập một)",
+      "file": null,
+      "source_file": "SGK Ngu van 9 Tap 1 KNTT.pdf",
+      "pdf_pages": [
+        153,
+        153
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-2",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục (Tập hai)",
+      "file": null,
+      "source_file": "SGK Ngu van 9 Tap 2 KNTT.pdf",
+      "pdf_pages": [
+        4,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "t02",
+      "role": "group",
+      "kind": "tap",
+      "label": null,
+      "number": 2,
+      "title": "Tập hai",
+      "dir": "Tap-2",
+      "children": [
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Giải mã những bí mật",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Giai-ma-nhung-bi-mat.md",
+          "source_file": "SGK Ngu van 9 Tap 2 KNTT.pdf",
+          "pdf_pages": [
+            6,
+            45
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Hồn thơ muôn điệu",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Hon-tho-muon-dieu.md",
+          "source_file": "SGK Ngu van 9 Tap 2 KNTT.pdf",
+          "pdf_pages": [
+            46,
+            67
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Tiếng nói của lương tri",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Tieng-noi-cua-luong-tri.md",
+          "source_file": "SGK Ngu van 9 Tap 2 KNTT.pdf",
+          "pdf_pages": [
+            68,
+            90
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Đi và suy ngẫm",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Di-va-suy-ngam.md",
+          "source_file": "SGK Ngu van 9 Tap 2 KNTT.pdf",
+          "pdf_pages": [
+            91,
+            114
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Văn học – lịch sử tâm hồn",
+          "lesson_type": "du_an",
+          "file": "B10-Van-hoc-lich-su-tam-hon.md",
+          "source_file": "SGK Ngu van 9 Tap 2 KNTT.pdf",
+          "pdf_pages": [
+            115,
+            132
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "on-tap-hk2",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Ôn tập học kì II",
+          "lesson_type": "on_tap",
+          "file": "On-tap-hoc-ki-II.md",
+          "source_file": "SGK Ngu van 9 Tap 2 KNTT.pdf",
+          "pdf_pages": [
+            133,
+            139
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 1: Bảng giải thích thuật ngữ (Tập hai)",
+      "file": "Bang-giai-thich-thuat-ngu-Tap-2.md",
+      "source_file": "SGK Ngu van 9 Tap 2 KNTT.pdf",
+      "pdf_pages": [
+        140,
+        141
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "bang-tra-cuu-han-viet-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 2: Bảng tra cứu yếu tố Hán Việt (Tập hai)",
+      "file": null,
+      "source_file": "SGK Ngu van 9 Tap 2 KNTT.pdf",
+      "pdf_pages": [
+        141,
+        147
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "bang-tra-cuu-ten-rieng-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Phụ lục 3: Bảng tra cứu tên riêng nước ngoài (Tập hai)",
+      "file": null,
+      "source_file": "SGK Ngu van 9 Tap 2 KNTT.pdf",
+      "pdf_pages": [
+        147,
+        149
+      ],
+      "status": "skip"
+    }
+  ],
+  "notes": [
+    "SGK Ngữ văn 9 – KNTT gồm 2 tập: Tập một (155 trang PDF) và Tập hai (151 trang PDF), độ lệch trang in cố định printed_offset = 2 xuyên suốt cả hai tập.",
+    "Bài 10 (Văn học – lịch sử tâm hồn) ở cuối Tập hai là bài dự án đọc sách (lesson_type: du_an) tổ chức theo 3 chặng: Thách thức đầu tiên, Thách thức thứ hai và Về đích: Ngày hội với sách.",
+    "Cuối mỗi tập có Phụ lục 1: Bảng giải thích thuật ngữ (Tập một: PDF 151–152; Tập hai: PDF 140–141)."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-21",
+      "scope": [
+        "t01",
+        "bang-giai-thich-thuat-ngu-tap-1",
+        "t02",
+        "bang-giai-thich-thuat-ngu-tap-2"
+      ],
+      "terms": 151,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ Tập một (Bài 1–5, Ôn tập HK I, Phụ lục 1) và Tập hai (Bài 6–10 gồm cả bài dự án Bài 10, Ôn tập HK II, Phụ lục 1) (151 thuật ngữ: 65 in_source, 37 [mô tả], 49 Ngoài nguồn, 5 ghi chú nguồn đóng; 14 hình minh hoạ/ảnh tư liệu/sơ đồ): lấy mẫu phân tầng 30 mục (10 in_source, 10 [mô tả], 10 hình minh hoạ, seed 20261121) đối chiếu trực tiếp ảnh trang PDF gốc khớp 100% (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-21: Hoàn thành 100% ngu_van_9 từ Cổng 0 đến Cổng 4 (12 Bài học, 2 Bảng giải thích thuật ngữ, 14 hình minh hoạ, 2 từ điển với 151 thuật ngữ, 0% lỗi)."
+}

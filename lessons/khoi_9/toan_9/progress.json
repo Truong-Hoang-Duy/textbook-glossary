@@ -1,0 +1,1305 @@
+{
+  "unit": "toan_9",
+  "subject": "toan",
+  "subject_name": "Toán",
+  "grade": 9,
+  "files": [
+    {
+      "file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+      "volume": 1,
+      "page_count": 123,
+      "printed_offset": 2
+    },
+    {
+      "file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+      "volume": 2,
+      "page_count": 135,
+      "printed_offset": 2
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan-tap-1",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách (Tập một)",
+      "file": null,
+      "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-1",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục (Tập một)",
+      "file": null,
+      "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        6,
+        6
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c01",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương I",
+      "number": 1,
+      "title": "Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+      "dir": "Chuong-01-Phuong-trinh-va-he-hai-phuong-trinh-bac-nhat-hai",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Khái niệm phương trình và hệ hai phương trình bậc nhất hai ẩn",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Khai-niem-phuong-trinh-va-he-hai-phuong-trinh-bac.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            7,
+            12
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Giải hệ hai phương trình bậc nhất hai ẩn",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Giai-he-hai-phuong-trinh-bac-nhat-hai-an.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            13,
+            20
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c01-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 19)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C01-01-Luyen-tap-chung-trang-19.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            21,
+            22
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Giải bài toán bằng cách lập hệ phương trình",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Giai-bai-toan-bang-cach-lap-he-phuong-trinh.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            23,
+            25
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương I",
+          "lesson_type": "on_tap",
+          "file": "BT-C01-Bai-tap-cuoi-chuong-I.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            26,
+            27
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c02",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương II",
+      "number": 2,
+      "title": "Phương trình và bất phương trình bậc nhất một ẩn",
+      "dir": "Chuong-02-Phuong-trinh-va-bat-phuong-trinh-bac-nhat-mot-an",
+      "children": [
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Phương trình quy về phương trình bậc nhất một ẩn",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Phuong-trinh-quy-ve-phuong-trinh-bac-nhat-mot-an.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            28,
+            32
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Bất đẳng thức và tính chất",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Bat-dang-thuc-va-tinh-chat.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            33,
+            37
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c02-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 36)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C02-01-Luyen-tap-chung-trang-36.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            38,
+            39
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Bất phương trình bậc nhất một ẩn",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Bat-phuong-trinh-bac-nhat-mot-an.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            40,
+            43
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c02",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương II",
+          "lesson_type": "on_tap",
+          "file": "BT-C02-Bai-tap-cuoi-chuong-II.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            44,
+            45
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c03",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương III",
+      "number": 3,
+      "title": "Căn bậc hai và căn bậc ba",
+      "dir": "Chuong-03-Can-bac-hai-va-can-bac-ba",
+      "children": [
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Căn bậc hai và căn thức bậc hai",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Can-bac-hai-va-can-thuc-bac-hai.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            46,
+            50
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Khai căn bậc hai với phép nhân và phép chia",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Khai-can-bac-hai-voi-phep-nhan-va-phep-chia.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            51,
+            53
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c03-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 52)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C03-01-Luyen-tap-chung-trang-52.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            54,
+            55
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Biến đổi đơn giản và rút gọn biểu thức chứa căn thức bậc hai",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Bien-doi-don-gian-va-rut-gon-bieu-thuc-chua-can.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            56,
+            61
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Căn bậc ba và căn thức bậc ba",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Can-bac-ba-va-can-thuc-bac-ba.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            62,
+            64
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c03-02",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 63)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C03-02-Luyen-tap-chung-trang-63.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            65,
+            66
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c03",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương III",
+          "lesson_type": "on_tap",
+          "file": "BT-C03-Bai-tap-cuoi-chuong-III.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            67,
+            67
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c04",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương IV",
+      "number": 4,
+      "title": "Hệ thức lượng trong tam giác vuông",
+      "dir": "Chuong-04-He-thuc-luong-trong-tam-giac-vuong",
+      "children": [
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Tỉ số lượng giác của góc nhọn",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Ti-so-luong-giac-cua-goc-nhon.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            68,
+            75
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Một số hệ thức giữa cạnh, góc trong tam giác vuông và ứng dụng",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Mot-so-he-thuc-giua-canh-goc-trong-tam-giac-vuong.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            76,
+            80
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c04-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 79)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C04-01-Luyen-tap-chung-trang-79.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            81,
+            82
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c04",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương IV",
+          "lesson_type": "on_tap",
+          "file": "BT-C04-Bai-tap-cuoi-chuong-IV.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            83,
+            84
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c05",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương V",
+      "number": 5,
+      "title": "Đường tròn",
+      "dir": "Chuong-05-Duong-tron",
+      "children": [
+        {
+          "id": "b13",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 13",
+          "number": 13,
+          "title": "Mở đầu về đường tròn",
+          "lesson_type": "ly_thuyet",
+          "file": "B13-Mo-dau-ve-duong-tron.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            85,
+            88
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b14",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 14",
+          "number": 14,
+          "title": "Cung và dây của một đường tròn",
+          "lesson_type": "ly_thuyet",
+          "file": "B14-Cung-va-day-cua-mot-duong-tron.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            89,
+            92
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b15",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 15",
+          "number": 15,
+          "title": "Độ dài của cung tròn. Diện tích hình quạt tròn và hình vành khuyên",
+          "lesson_type": "ly_thuyet",
+          "file": "B15-Do-dai-cua-cung-tron-Dien-tich-hinh-quat-tron-va.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            93,
+            97
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c05-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 96)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C05-01-Luyen-tap-chung-trang-96.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            98,
+            100
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b16",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 16",
+          "number": 16,
+          "title": "Vị trí tương đối của đường thẳng và đường tròn",
+          "lesson_type": "ly_thuyet",
+          "file": "B16-Vi-tri-tuong-doi-cua-duong-thang-va-duong-tron.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            101,
+            105
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b17",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 17",
+          "number": 17,
+          "title": "Vị trí tương đối của hai đường tròn",
+          "lesson_type": "ly_thuyet",
+          "file": "B17-Vi-tri-tuong-doi-cua-hai-duong-tron.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            106,
+            109
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c05-02",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 108)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C05-02-Luyen-tap-chung-trang-108.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            110,
+            113
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c05",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương V",
+          "lesson_type": "on_tap",
+          "file": "BT-C05-Bai-tap-cuoi-chuong-V.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            114,
+            115
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-01",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Pha chế dung dịch theo nồng độ yêu cầu",
+          "lesson_type": "thuc_hanh",
+          "file": "HD-THTN-01-Pha-che-dung-dich-theo-nong-do-yeu-cau.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            116,
+            117
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-02",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Tính chiều cao và xác định khoảng cách",
+          "lesson_type": "thuc_hanh",
+          "file": "HD-THTN-02-Tinh-chieu-cao-va-xac-dinh-khoang-cach.md",
+          "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+          "pdf_pages": [
+            118,
+            119
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-tu-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu từ ngữ (Tập một)",
+      "file": null,
+      "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        120,
+        120
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-1",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ (Tập một)",
+      "file": "Bang-giai-thich-thuat-ngu-Tap-1.md",
+      "source_file": "SGK TOAN 9 TAP 1 - KNTT.pdf",
+      "pdf_pages": [
+        121,
+        121
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "huong-dan-tap-2",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách (Tập hai)",
+      "file": null,
+      "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc-tap-2",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục (Tập hai)",
+      "file": null,
+      "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "c06",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VI",
+      "number": 6,
+      "title": "Hàm số y = ax² (a ≠ 0). Phương trình bậc hai một ẩn",
+      "dir": "Chuong-06-Ham-so-y-ax-a-0-Phuong-trinh-bac-hai-mot-an",
+      "children": [
+        {
+          "id": "b18",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 18",
+          "number": 18,
+          "title": "Hàm số y = ax² (a ≠ 0)",
+          "lesson_type": "ly_thuyet",
+          "file": "B18-Ham-so-y-ax-a-0.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            6,
+            11
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b19",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 19",
+          "number": 19,
+          "title": "Phương trình bậc hai một ẩn",
+          "lesson_type": "ly_thuyet",
+          "file": "B19-Phuong-trinh-bac-hai-mot-an.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            12,
+            19
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c06-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 18)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C06-01-Luyen-tap-chung-trang-18.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            20,
+            22
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b20",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 20",
+          "number": 20,
+          "title": "Định lí Viète và ứng dụng",
+          "lesson_type": "ly_thuyet",
+          "file": "B20-Dinh-li-Viete-va-ung-dung.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            23,
+            26
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b21",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 21",
+          "number": 21,
+          "title": "Giải bài toán bằng cách lập phương trình",
+          "lesson_type": "ly_thuyet",
+          "file": "B21-Giai-bai-toan-bang-cach-lap-phuong-trinh.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            27,
+            29
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c06-02",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 28)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C06-02-Luyen-tap-chung-trang-28.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            30,
+            31
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c06",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương VI",
+          "lesson_type": "on_tap",
+          "file": "BT-C06-Bai-tap-cuoi-chuong-VI.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            32,
+            33
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c07",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VII",
+      "number": 7,
+      "title": "Tần số và tần số tương đối",
+      "dir": "Chuong-07-Tan-so-va-tan-so-tuong-doi",
+      "children": [
+        {
+          "id": "b22",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 22",
+          "number": 22,
+          "title": "Bảng tần số và biểu đồ tần số",
+          "lesson_type": "ly_thuyet",
+          "file": "B22-Bang-tan-so-va-bieu-do-tan-so.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            34,
+            39
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b23",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 23",
+          "number": 23,
+          "title": "Bảng tần số tương đối và biểu đồ tần số tương đối",
+          "lesson_type": "ly_thuyet",
+          "file": "B23-Bang-tan-so-tuong-doi-va-bieu-do-tan-so-tuong-doi.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            40,
+            44
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c07-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 43)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C07-01-Luyen-tap-chung-trang-43.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            45,
+            47
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b24",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 24",
+          "number": 24,
+          "title": "Bảng tần số, tần số tương đối ghép nhóm và biểu đồ",
+          "lesson_type": "ly_thuyet",
+          "file": "B24-Bang-tan-so-tan-so-tuong-doi-ghep-nhom-va-bieu-do.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            48,
+            55
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c07",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương VII",
+          "lesson_type": "on_tap",
+          "file": "BT-C07-Bai-tap-cuoi-chuong-VII.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            56,
+            57
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c08",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương VIII",
+      "number": 8,
+      "title": "Xác suất của biến cố trong một số mô hình xác suất đơn giản",
+      "dir": "Chuong-08-Xac-suat-cua-bien-co-trong-mot-so-mo-hinh-xac-suat",
+      "children": [
+        {
+          "id": "b25",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 25",
+          "number": 25,
+          "title": "Phép thử ngẫu nhiên và không gian mẫu",
+          "lesson_type": "ly_thuyet",
+          "file": "B25-Phep-thu-ngau-nhien-va-khong-gian-mau.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            58,
+            61
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b26",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 26",
+          "number": 26,
+          "title": "Xác suất của biến cố liên quan tới phép thử",
+          "lesson_type": "ly_thuyet",
+          "file": "B26-Xac-suat-cua-bien-co-lien-quan-toi-phep-thu.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            62,
+            65
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c08-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 64)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C08-01-Luyen-tap-chung-trang-64.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            66,
+            67
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c08",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương VIII",
+          "lesson_type": "on_tap",
+          "file": "BT-C08-Bai-tap-cuoi-chuong-VIII.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            68,
+            68
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c09",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương IX",
+      "number": 9,
+      "title": "Đường tròn ngoại tiếp và đường tròn nội tiếp",
+      "dir": "Chuong-09-Duong-tron-ngoai-tiep-va-duong-tron-noi-tiep",
+      "children": [
+        {
+          "id": "b27",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 27",
+          "number": 27,
+          "title": "Góc nội tiếp",
+          "lesson_type": "ly_thuyet",
+          "file": "B27-Goc-noi-tiep.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            69,
+            73
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b28",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 28",
+          "number": 28,
+          "title": "Đường tròn ngoại tiếp và đường tròn nội tiếp của một tam giác",
+          "lesson_type": "ly_thuyet",
+          "file": "B28-Duong-tron-ngoai-tiep-va-duong-tron-noi-tiep-cua.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            74,
+            79
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c09-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 78)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C09-01-Luyen-tap-chung-trang-78.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            80,
+            81
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b29",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 29",
+          "number": 29,
+          "title": "Tứ giác nội tiếp",
+          "lesson_type": "ly_thuyet",
+          "file": "B29-Tu-giac-noi-tiep.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            82,
+            85
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b30",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 30",
+          "number": 30,
+          "title": "Đa giác đều",
+          "lesson_type": "ly_thuyet",
+          "file": "B30-Da-giac-deu.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            86,
+            91
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c09-02",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 90)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C09-02-Luyen-tap-chung-trang-90.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            92,
+            93
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c09",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương IX",
+          "lesson_type": "on_tap",
+          "file": "BT-C09-Bai-tap-cuoi-chuong-IX.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            94,
+            94
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "c10",
+      "role": "group",
+      "kind": "chuong",
+      "label": "Chương X",
+      "number": 10,
+      "title": "Một số hình khối trong thực tiễn",
+      "dir": "Chuong-10-Mot-so-hinh-khoi-trong-thuc-tien",
+      "children": [
+        {
+          "id": "b31",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 31",
+          "number": 31,
+          "title": "Hình trụ và hình nón",
+          "lesson_type": "ly_thuyet",
+          "file": "B31-Hinh-tru-va-hinh-non.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            95,
+            102
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b32",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 32",
+          "number": 32,
+          "title": "Hình cầu",
+          "lesson_type": "ly_thuyet",
+          "file": "B32-Hinh-cau.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            103,
+            107
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "ltc-c10-01",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Luyện tập chung (trang 106)",
+          "lesson_type": "on_tap",
+          "file": "LTC-C10-01-Luyen-tap-chung-trang-106.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            108,
+            109
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "bt-c10",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập cuối chương X",
+          "lesson_type": "on_tap",
+          "file": "BT-C10-Bai-tap-cuoi-chuong-X.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            110,
+            112
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-03",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Giải phương trình, hệ phương trình và vẽ đồ thị hàm số với phần mềm GeoGebra",
+          "lesson_type": "thuc_hanh",
+          "file": "HD-THTN-03-Giai-phuong-trinh-he-phuong-trinh-va-ve-do-thi-ham.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            113,
+            116
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-04",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Vẽ hình đơn giản với phần mềm GeoGebra",
+          "lesson_type": "thuc_hanh",
+          "file": "HD-THTN-04-Ve-hinh-don-gian-voi-phan-mem-GeoGebra.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            117,
+            121
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-05",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Xác định tần số, tần số tương đối, vẽ các biểu đồ biểu diễn bảng tần số, tần số tương đối bằng Excel",
+          "lesson_type": "thuc_hanh",
+          "file": "HD-THTN-05-Xac-dinh-tan-so-tan-so-tuong-doi-ve-cac-bieu-do.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            122,
+            126
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "hd-thtn-06",
+          "role": "lesson",
+          "kind": "thuc_hanh",
+          "label": null,
+          "number": null,
+          "title": "Gene trội trong các thế hệ lai",
+          "lesson_type": "thuc_hanh",
+          "file": "HD-THTN-06-Gene-troi-trong-cac-the-he-lai.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            127,
+            128
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "on-tap-cuoi-nam",
+          "role": "lesson",
+          "kind": "on_tap",
+          "label": null,
+          "number": null,
+          "title": "Bài tập ôn tập cuối năm",
+          "lesson_type": "on_tap",
+          "file": "ON-TAP-CUOI-NAM-Bai-tap-on-tap-cuoi-nam.md",
+          "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+          "pdf_pages": [
+            129,
+            131
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu-tu-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng tra cứu từ ngữ (Tập hai)",
+      "file": null,
+      "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+      "pdf_pages": [
+        132,
+        132
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "bang-giai-thich-thuat-ngu-tap-2",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Bảng giải thích thuật ngữ (Tập hai)",
+      "file": "Bang-giai-thich-thuat-ngu-Tap-2.md",
+      "source_file": "SGK TOAN 9 TAP 2 - KNTT.pdf",
+      "pdf_pages": [
+        133,
+        133
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Toán 9 – KNTT gồm 2 tập: Tập một (123 trang PDF, Chương I–V, Bài 1–17, 7 Luyện tập chung, 5 Bài tập cuối chương, 2 HĐTH trải nghiệm, Bảng giải thích thuật ngữ trang in 119) và Tập hai (135 trang PDF, Chương VI–X, Bài 18–32, 7 Luyện tập chung, 5 Bài tập cuối chương, 4 HĐTH trải nghiệm, Bài tập ôn tập cuối năm, Bảng giải thích thuật ngữ trang in 131), độ lệch cố định printed_offset = 2 xuyên suốt cả hai tập.",
+    "Hai file PDF gốc SGK-9-KNTT-T1/T2-BanMau.pdf đã được tạo hardlink SGK TOAN 9 TAP 1/2 - KNTT.pdf để khớp chuẩn schema.",
+    "Mục lục ghi 'Bảng tra cứu thuật ngữ', trang thực tế cuối sách in 'BẢNG TRA CỨU TỪ NGỮ' — lấy theo trang in."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-21",
+      "scope": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "c05",
+        "bang-giai-thich-thuat-ngu-tap-1",
+        "c06",
+        "c07",
+        "c08",
+        "c09",
+        "c10",
+        "bang-giai-thich-thuat-ngu-tap-2"
+      ],
+      "terms": 222,
+      "sample": 30,
+      "errors": 1,
+      "fixed": 1,
+      "note": "Kiểm toán Cổng 4 toàn bộ 10 Chương (63 Bài học/Luyện tập/Ôn tập/HĐTH trải nghiệm) và 2 Bảng giải thích thuật ngữ Tập 1–2 (222 thuật ngữ: 144 in_source, 57 [mô tả], 21 Ngoài nguồn, 22 ghi chú nguồn đóng; 299 hình minh hoạ): phát hiện và nới biên trên H9-toan-b27-01 (Hình 9.1) để giữ trọn nhãn đỉnh A, xuất lại đạt 100% khớp ảnh gốc, sạch mũi tên lật trang < / > (0% lỗi tồn đọng)."
+    }
+  ],
+  "last_session_note": "2026-11-21: Hoàn thành 100% toan_9 từ Cổng 0 đến Cổng 4 (10 Chương, 63 Bài học, 2 Bảng giải thích thuật ngữ, 299 hình minh hoạ, 10 từ điển với 222 thuật ngữ, 0% lỗi tồn đọng)."
+}

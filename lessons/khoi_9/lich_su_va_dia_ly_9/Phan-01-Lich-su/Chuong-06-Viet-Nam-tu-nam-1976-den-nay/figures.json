@@ -1,0 +1,46 @@
+{
+  "H9-lich_su_va_dia_ly-ls-b20-01": {
+    "pdf_page": 103,
+    "bbox": [247, 394, 490, 569],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Góc dưới bên phải khung chạm kí hiệu kết thúc phần Mở đầu (hai vạch cam) đặt sát chú thích Hình 20.1"
+  },
+  "H9-lich_su_va_dia_ly-ls-b20-02": {
+    "pdf_page": 104,
+    "bbox": [374, 201, 487, 344]
+  },
+  "H9-lich_su_va_dia_ly-ls-b20-03": {
+    "pdf_page": 105,
+    "bbox": [101, 237, 441, 478]
+  },
+  "H9-lich_su_va_dia_ly-ls-b20-04": {
+    "pdf_page": 106,
+    "bbox": [73, 186, 483, 366]
+  },
+  "H9-lich_su_va_dia_ly-ls-b20-05": {
+    "pdf_page": 107,
+    "bbox": [241, 193, 486, 345]
+  },
+  "H9-lich_su_va_dia_ly-ls-b20-06": {
+    "pdf_page": 108,
+    "bbox": [219, 122, 489, 328]
+  },
+  "H9-lich_su_va_dia_ly-ls-b20-07": {
+    "pdf_page": 109,
+    "bbox": [112, 132, 425, 323]
+  },
+  "H9-lich_su_va_dia_ly-ls-b20-08": {
+    "pdf_page": 109,
+    "bbox": [58, 524, 484, 715]
+  },
+  "H9-lich_su_va_dia_ly-ls-b20-09": {
+    "pdf_page": 110,
+    "bbox": [245, 0, 487, 182],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Ảnh Hình 20.9 tràn sát mép trên trang sách"
+  },
+  "H9-lich_su_va_dia_ly-ls-b20-10": {
+    "pdf_page": 111,
+    "bbox": [93, 133, 448, 313]
+  }
+}

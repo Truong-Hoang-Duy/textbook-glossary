@@ -1,0 +1,108 @@
+{
+  "H7-giao_duc_cong_dan-b01-01": {
+    "pdf_page": 6,
+    "bbox": [100, 524, 518, 744]
+  },
+  "H7-giao_duc_cong_dan-b01-02": {
+    "pdf_page": 7,
+    "bbox": [102, 52, 537, 276]
+  },
+  "H7-giao_duc_cong_dan-b02-01": {
+    "pdf_page": 12,
+    "bbox": [58, 254, 540, 476]
+  },
+  "H7-giao_duc_cong_dan-b03-01": {
+    "pdf_page": 16,
+    "bbox": [104, 149, 542, 452]
+  },
+  "H7-giao_duc_cong_dan-b04-01": {
+    "pdf_page": 20,
+    "bbox": [80, 380, 516, 772]
+  },
+  "H7-giao_duc_cong_dan-b04-02": {
+    "pdf_page": 21,
+    "bbox": [52, 62, 508, 646]
+  },
+  "H7-giao_duc_cong_dan-b04-03": {
+    "pdf_page": 23,
+    "bbox": [88, 171, 514, 350]
+  },
+  "H7-giao_duc_cong_dan-b04-04": {
+    "pdf_page": 24,
+    "bbox": [65, 113, 554, 343]
+  },
+  "H7-giao_duc_cong_dan-b04-05": {
+    "pdf_page": 24,
+    "bbox": [190, 413, 532, 618]
+  },
+  "H7-giao_duc_cong_dan-b05-01": {
+    "pdf_page": 26,
+    "bbox": [56, 69, 544, 610]
+  },
+  "H7-giao_duc_cong_dan-b05-02": {
+    "pdf_page": 29,
+    "bbox": [74, 230, 540, 738]
+  },
+  "H7-giao_duc_cong_dan-b06-01": {
+    "pdf_page": 32,
+    "bbox": [76, 564, 544, 773]
+  },
+  "H7-giao_duc_cong_dan-b06-02": {
+    "pdf_page": 33,
+    "bbox": [71, 51, 539, 263]
+  },
+  "H7-giao_duc_cong_dan-b06-03": {
+    "pdf_page": 33,
+    "bbox": [51, 470, 540, 756]
+  },
+  "H7-giao_duc_cong_dan-b08-01": {
+    "pdf_page": 46,
+    "bbox": [84, 160, 548, 340]
+  },
+  "H7-giao_duc_cong_dan-b08-02": {
+    "pdf_page": 47,
+    "bbox": [75, 446, 523, 644]
+  },
+  "H7-giao_duc_cong_dan-b08-03": {
+    "pdf_page": 48,
+    "bbox": [127, 338, 500, 461]
+  },
+  "H7-giao_duc_cong_dan-b08-04": {
+    "pdf_page": 48,
+    "bbox": [102, 609, 296, 771]
+  },
+  "H7-giao_duc_cong_dan-b08-05": {
+    "pdf_page": 48,
+    "bbox": [304, 586, 542, 771]
+  },
+  "H7-giao_duc_cong_dan-b08-06": {
+    "pdf_page": 49,
+    "bbox": [120, 159, 516, 366]
+  },
+  "H7-giao_duc_cong_dan-b09-01": {
+    "pdf_page": 51,
+    "bbox": [271, 560, 538, 773]
+  },
+  "H7-giao_duc_cong_dan-b09-02": {
+    "pdf_page": 52,
+    "bbox": [92, 50, 546, 224]
+  },
+  "H7-giao_duc_cong_dan-b09-03": {
+    "pdf_page": 54,
+    "bbox": [89, 449, 512, 770]
+  },
+  "H7-giao_duc_cong_dan-b09-04": {
+    "pdf_page": 55,
+    "bbox": [105, 52, 474, 198],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Đáy Tranh 5 (y=201) sát liền đỉnh biểu tượng câu hỏi '?' (y=202), không có hàng pixel trắng ngăn cách."
+  },
+  "H7-giao_duc_cong_dan-b10-01": {
+    "pdf_page": 60,
+    "bbox": [355, 188, 540, 366]
+  },
+  "H7-giao_duc_cong_dan-b10-02": {
+    "pdf_page": 61,
+    "bbox": [308, 118, 538, 258]
+  }
+}

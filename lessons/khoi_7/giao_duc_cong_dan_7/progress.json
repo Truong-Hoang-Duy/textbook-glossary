@@ -1,0 +1,266 @@
+{
+  "unit": "giao_duc_cong_dan_7",
+  "subject": "giao_duc_cong_dan",
+  "subject_name": "Giáo dục công dân",
+  "grade": 7,
+  "files": [
+    {
+      "file": "SGK Giao duc cong dan 7 KNTT.pdf",
+      "volume": null,
+      "page_count": 66,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 7 KNTT.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 7 KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 7 KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "p01",
+      "role": "group",
+      "kind": "phan",
+      "label": null,
+      "number": null,
+      "title": "Nội dung bài học",
+      "dir": "Bai-hoc",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Tự hào về truyền thống quê hương",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Tu-hao-ve-truyen-thong-que-huong.md",
+          "source_file": "SGK Giao duc cong dan 7 KNTT.pdf",
+          "pdf_pages": [
+            6,
+            10
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Quan tâm, cảm thông và chia sẻ",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Quan-tam-cam-thong-va-chia-se.md",
+          "source_file": "SGK Giao duc cong dan 7 KNTT.pdf",
+          "pdf_pages": [
+            11,
+            14
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Học tập tự giác, tích cực",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Hoc-tap-tu-giac-tich-cuc.md",
+          "source_file": "SGK Giao duc cong dan 7 KNTT.pdf",
+          "pdf_pages": [
+            15,
+            18
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Giữ chữ tín",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Giu-chu-tin.md",
+          "source_file": "SGK Giao duc cong dan 7 KNTT.pdf",
+          "pdf_pages": [
+            19,
+            24
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Bảo tồn di sản văn hoá",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Bao-ton-di-san-van-hoa.md",
+          "source_file": "SGK Giao duc cong dan 7 KNTT.pdf",
+          "pdf_pages": [
+            25,
+            31
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Ứng phó với tâm lí căng thẳng",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Ung-pho-voi-tam-li-cang-thang.md",
+          "source_file": "SGK Giao duc cong dan 7 KNTT.pdf",
+          "pdf_pages": [
+            32,
+            38
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Phòng, chống bạo lực học đường",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Phong-chong-bao-luc-hoc-duong.md",
+          "source_file": "SGK Giao duc cong dan 7 KNTT.pdf",
+          "pdf_pages": [
+            39,
+            44
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Quản lí tiền",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Quan-li-tien.md",
+          "source_file": "SGK Giao duc cong dan 7 KNTT.pdf",
+          "pdf_pages": [
+            45,
+            50
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Phòng, chống tệ nạn xã hội",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Phong-chong-te-nan-xa-hoi.md",
+          "source_file": "SGK Giao duc cong dan 7 KNTT.pdf",
+          "pdf_pages": [
+            51,
+            56
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Quyền và nghĩa vụ của công dân trong gia đình",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Quyen-va-nghia-vu-cua-cong-dan-trong-gia-dinh.md",
+          "source_file": "SGK Giao duc cong dan 7 KNTT.pdf",
+          "pdf_pages": [
+            57,
+            63
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Một số thuật ngữ dùng trong sách",
+      "file": "Mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK Giao duc cong dan 7 KNTT.pdf",
+      "pdf_pages": [
+        64,
+        64
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Giáo dục công dân 7 KNTT gồm 10 bài học liên tiếp (Bài 1–10), gom vào nhóm 'Nội dung bài học' (thư mục Bai-hoc).",
+    "Độ lệch trang in cố định xuyên suốt: trang PDF = trang in + 1."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-21",
+      "scope": [
+        "p01",
+        "bang-tra-cuu"
+      ],
+      "terms": 50,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ 10 Bài học (Bài 1–10) và Một số thuật ngữ dùng trong sách (50 thuật ngữ: 22 in_source, 28 [mô tả]; 26 hình minh hoạ): lấy mẫu phân tầng 30 mục (10 in_source, 10 [mô tả], 10 hình minh hoạ, seed 20261121) đối chiếu trực tiếp ảnh trang PDF gốc (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-21: Hoàn thành 100% giao_duc_cong_dan_7 từ Cổng 0 đến Cổng 4 (50 thuật ngữ, 0% lỗi tồn đọng)."
+}

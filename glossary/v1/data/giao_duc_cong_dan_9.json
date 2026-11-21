@@ -1,0 +1,1894 @@
+{
+  "meta": {
+    "schema_version": "2.3",
+    "unit": "giao_duc_cong_dan_9",
+    "subject": "giao_duc_cong_dan",
+    "profile": "giao_duc_cong_dan",
+    "subject_name": "Giáo dục công dân",
+    "grade": 9,
+    "generated_at": "2026-11-21",
+    "counts": {
+      "lessons": 10,
+      "terms": 65,
+      "terms_described": 36,
+      "terms_out_of_source": 2,
+      "open_notes": 0
+    }
+  },
+  "source": {
+    "book_type": "sgk",
+    "series": "Kết nối tri thức với cuộc sống",
+    "publisher": "NXB Giáo dục Việt Nam",
+    "files": [
+      {
+        "file": "SGK Giao duc cong dan 9 KNTT.pdf",
+        "volume": null,
+        "page_count": 59,
+        "printed_offset": 2
+      }
+    ]
+  },
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "printed_pages": [
+        2,
+        2
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "printed_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+      "pdf_pages": [
+        6,
+        6
+      ],
+      "printed_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "p01",
+      "role": "group",
+      "kind": "phan",
+      "label": null,
+      "number": null,
+      "title": "Nội dung bài học",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Sống có lí tưởng",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B01-Song-co-li-tuong.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            7,
+            11
+          ],
+          "printed_pages": [
+            5,
+            9
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "MỤC TIÊU:",
+            "items": [
+              "Nêu được khái niệm sống có lí tưởng.",
+              "Giải thích được ý nghĩa của việc sống có lí tưởng.",
+              "Nhận biết được lí tưởng sống của thanh niên Việt Nam.",
+              "Xác định được lí tưởng sống của bản thân và nỗ lực học tập, rèn luyện theo lí tưởng."
+            ],
+            "pdf_page": 7
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H9-giao_duc_cong_dan-b01-01",
+              "file": "Bai-hoc/img/H9-giao_duc_cong_dan-b01-01.png",
+              "caption": "Đặng Thuỳ Trâm (1942 – 1970)",
+              "pdf_page": 8
+            },
+            {
+              "id": "H9-giao_duc_cong_dan-b01-02",
+              "file": "Bai-hoc/img/H9-giao_duc_cong_dan-b01-02.png",
+              "caption": "Các bức ảnh (1, 2, 3, 4) về việc làm của thanh niên Việt Nam",
+              "pdf_page": 11
+            }
+          ]
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Khoan dung",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B02-Khoan-dung.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            12,
+            15
+          ],
+          "printed_pages": [
+            10,
+            13
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "MỤC TIÊU:",
+            "items": [
+              "Nêu được khái niệm khoan dung và biểu hiện của khoan dung.",
+              "Nhận biết được giá trị của khoan dung.",
+              "Thực hiện được những việc làm thể hiện sự khoan dung trong những tình huống cụ thể, phù hợp với lứa tuổi.",
+              "Phê phán các biểu hiện thiếu khoan dung."
+            ],
+            "pdf_page": 12
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H9-giao_duc_cong_dan-b02-01",
+              "file": "Bai-hoc/img/H9-giao_duc_cong_dan-b02-01.png",
+              "caption": "Các hình ảnh (1, 2) về thực hiện những việc làm thể hiện sự khoan dung trong cuộc sống",
+              "pdf_page": 13
+            }
+          ]
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Tích cực tham gia các hoạt động cộng đồng",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B03-Tich-cuc-tham-gia-cac-hoat-dong-cong-dong.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            16,
+            20
+          ],
+          "printed_pages": [
+            14,
+            18
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "MỤC TIÊU:",
+            "items": [
+              "Hiểu được thế nào là hoạt động cộng đồng; nêu được một số hoạt động cộng đồng.",
+              "Giải thích được sự cần thiết phải tham gia các hoạt động cộng đồng.",
+              "Nhận biết được trách nhiệm của học sinh trong việc tham gia vào các hoạt động cộng đồng.",
+              "Tham gia tích cực, tự giác các hoạt động chung của cộng đồng phù hợp với lứa tuổi do lớp, trường, địa phương tổ chức.",
+              "Phê phán biểu hiện thờ ơ, thiếu trách nhiệm với các hoạt động cộng đồng."
+            ],
+            "pdf_page": 16
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H9-giao_duc_cong_dan-b03-01",
+              "file": "Bai-hoc/img/H9-giao_duc_cong_dan-b03-01.png",
+              "caption": "Các hình ảnh (1, 2) về hoạt động cộng đồng (Tình nguyện mùa đông; dọn rác bảo vệ môi trường biển)",
+              "pdf_page": 16
+            },
+            {
+              "id": "H9-giao_duc_cong_dan-b03-02",
+              "file": "Bai-hoc/img/H9-giao_duc_cong_dan-b03-02.png",
+              "caption": "Các hình ảnh (1, 2, 3, 4) về tham gia các hoạt động cộng đồng",
+              "pdf_page": 18
+            }
+          ]
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Khách quan và công bằng",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B04-Khach-quan-va-cong-bang.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            21,
+            25
+          ],
+          "printed_pages": [
+            19,
+            23
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "MỤC TIÊU:",
+            "items": [
+              "Nhận biết được những biểu hiện khách quan, công bằng.",
+              "Hiểu được ý nghĩa của khách quan, công bằng; tác hại của sự thiếu khách quan, công bằng.",
+              "Thể hiện được thái độ khách quan, công bằng trong cuộc sống hằng ngày.",
+              "Phê phán những biểu hiện không khách quan, công bằng."
+            ],
+            "pdf_page": 21
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H9-giao_duc_cong_dan-b04-01",
+              "file": "Bai-hoc/img/H9-giao_duc_cong_dan-b04-01.png",
+              "caption": "Tình huống thảo luận bầu lớp trưởng về thái độ khách quan, công bằng",
+              "pdf_page": 23
+            }
+          ]
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Bảo vệ hoà bình",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B05-Bao-ve-hoa-binh.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            26,
+            31
+          ],
+          "printed_pages": [
+            24,
+            29
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "MỤC TIÊU:",
+            "items": [
+              "Nêu được thế nào là hoà bình và bảo vệ hoà bình; các biểu hiện của hoà bình.",
+              "Giải thích được vì sao cần phải bảo vệ hoà bình.",
+              "Nhận ra được những biện pháp để thúc đẩy và bảo vệ hoà bình.",
+              "Biết lựa chọn và tham gia những hoạt động phù hợp để bảo vệ hoà bình.",
+              "Phê phán xung đột sắc tộc và chiến tranh phi nghĩa."
+            ],
+            "pdf_page": 26
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H9-giao_duc_cong_dan-b05-01",
+              "file": "Bai-hoc/img/H9-giao_duc_cong_dan-b05-01.png",
+              "caption": "1. Phố Khâm Thiên, Hà Nội bị bom Mỹ tàn phá huỷ diệt năm 1972; 2. Hà Nội ngày nay",
+              "pdf_page": 27
+            },
+            {
+              "id": "H9-giao_duc_cong_dan-b05-02",
+              "file": "Bai-hoc/img/H9-giao_duc_cong_dan-b05-02.png",
+              "caption": "Thứ trưởng Bộ Quốc phòng Tạ Quang Bửu (người ngồi bên phải) thay mặt Chính phủ Việt Nam và Bộ Tổng Tư lệnh Quân đội nhân dân Việt Nam kí Hiệp định Giơ-ne-vơ năm 1954 về đình chỉ chiến tranh, khôi phục hoà bình ở Đông Dương, bãi bỏ quyền cai trị của người Pháp, công nhận nền độc lập của 3 quốc gia: Việt Nam, Lào và Cam-pu-chia.",
+              "pdf_page": 29
+            },
+            {
+              "id": "H9-giao_duc_cong_dan-b05-03",
+              "file": "Bai-hoc/img/H9-giao_duc_cong_dan-b05-03.png",
+              "caption": "Hình ảnh (1, 2) hoạt động vẽ tranh bảo vệ hoà bình và giao lưu văn hoá Việt Nam – Lào vì hoà bình và phát triển",
+              "pdf_page": 30
+            },
+            {
+              "id": "H9-giao_duc_cong_dan-b05-04",
+              "file": "Bai-hoc/img/H9-giao_duc_cong_dan-b05-04.png",
+              "caption": "Hình ảnh (3, 4) tham gia cuộc thi viết thư “Nói không với chiến tranh” và giải chạy vì hoà bình",
+              "pdf_page": 31
+            }
+          ]
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Quản lí thời gian hiệu quả",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B06-Quan-li-thoi-gian-hieu-qua.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            32,
+            35
+          ],
+          "printed_pages": [
+            30,
+            33
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "MỤC TIÊU:",
+            "items": [
+              "Hiểu được thế nào là quản lí thời gian hiệu quả.",
+              "Nhận biết được sự cần thiết phải quản lí thời gian hiệu quả.",
+              "Nêu được cách quản lí thời gian hiệu quả.",
+              "Thực hiện được kĩ năng quản lí thời gian hiệu quả."
+            ],
+            "pdf_page": 32
+          },
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Thích ứng với thay đổi",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B07-Thich-ung-voi-thay-doi.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            36,
+            39
+          ],
+          "printed_pages": [
+            34,
+            37
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "MỤC TIÊU:",
+            "items": [
+              "Nêu được một số thay đổi có khả năng xảy ra trong cuộc sống của bản thân và gia đình.",
+              "Nhận biết được ý nghĩa của việc thích ứng trước những thay đổi trong cuộc sống.",
+              "Nêu được các biện pháp để thích ứng với thay đổi trong cuộc sống.",
+              "Thích ứng được với một số thay đổi (nếu có) trong cuộc sống của bản thân."
+            ],
+            "pdf_page": 36
+          },
+          "key_terms": [],
+          "figures": []
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Tiêu dùng thông minh",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B08-Tieu-dung-thong-minh.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            40,
+            43
+          ],
+          "printed_pages": [
+            38,
+            41
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "MỤC TIÊU:",
+            "items": [
+              "Nhận biết được thế nào là tiêu dùng thông minh; lợi ích của tiêu dùng thông minh.",
+              "Đánh giá được các hành vi tiêu dùng thông minh và kém thông minh.",
+              "Nêu được các cách tiêu dùng thông minh (nắm bắt thông tin về sản phẩm, sử dụng sản phẩm an toàn, nhận biết được những hình thức quảng cáo khác nhau, xác định phương thức thanh toán,...).",
+              "Thực hiện được hành vi tiêu dùng thông minh trong một số tình huống cụ thể.",
+              "Khích lệ, giúp đỡ người thân, bạn bè trở thành người tiêu dùng thông minh."
+            ],
+            "pdf_page": 40
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H9-giao_duc_cong_dan-b08-01",
+              "file": "Bai-hoc/img/H9-giao_duc_cong_dan-b08-01.png",
+              "caption": "Hình ảnh (1, 2) về các thói quen tiêu dùng",
+              "pdf_page": 40
+            },
+            {
+              "id": "H9-giao_duc_cong_dan-b08-02",
+              "file": "Bai-hoc/img/H9-giao_duc_cong_dan-b08-02.png",
+              "caption": "Hình ảnh (3, 4) về các thói quen tiêu dùng",
+              "pdf_page": 41
+            },
+            {
+              "id": "H9-giao_duc_cong_dan-b08-03",
+              "file": "Bai-hoc/img/H9-giao_duc_cong_dan-b08-03.png",
+              "caption": "Minh hoạ xây dựng kế hoạch chi tiêu hợp lí, tìm hiểu thông tin sản phẩm và sử dụng sản phẩm an toàn",
+              "pdf_page": 41
+            },
+            {
+              "id": "H9-giao_duc_cong_dan-b08-04",
+              "file": "Bai-hoc/img/H9-giao_duc_cong_dan-b08-04.png",
+              "caption": "Minh hoạ kiểm tra hoá đơn thanh toán khi mua hàng",
+              "pdf_page": 42
+            }
+          ]
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Vi phạm pháp luật và trách nhiệm pháp lí",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B09-Vi-pham-phap-luat-va-trach-nhiem-phap-li.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            44,
+            50
+          ],
+          "printed_pages": [
+            42,
+            48
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "MỤC TIÊU:",
+            "items": [
+              "Nêu được khái niệm vi phạm pháp luật và trách nhiệm pháp lí; các loại vi phạm pháp luật và trách nhiệm pháp lí.",
+              "Nêu được ý nghĩa của trách nhiệm pháp lí.",
+              "Phân tích, đánh giá được các hành vi vi phạm pháp luật và trách nhiệm pháp lí trong một số tình huống cụ thể.",
+              "Nghiêm chỉnh chấp hành pháp luật; tích cực ngăn ngừa và đấu tranh với các hành vi vi phạm pháp luật."
+            ],
+            "pdf_page": 44
+          },
+          "key_terms": [],
+          "figures": [
+            {
+              "id": "H9-giao_duc_cong_dan-b09-01",
+              "file": "Bai-hoc/img/H9-giao_duc_cong_dan-b09-01.png",
+              "caption": "Sơ đồ Dấu hiệu vi phạm pháp luật",
+              "pdf_page": 44
+            },
+            {
+              "id": "H9-giao_duc_cong_dan-b09-02",
+              "file": "Bai-hoc/img/H9-giao_duc_cong_dan-b09-02.png",
+              "caption": "Sơ đồ Phân loại vi phạm pháp luật",
+              "pdf_page": 45
+            }
+          ]
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Quyền tự do kinh doanh và nghĩa vụ nộp thuế",
+          "lesson_type": "ly_thuyet",
+          "file": "Bai-hoc/B10-Quyen-tu-do-kinh-doanh-va-nghia-vu-nop-thue.md",
+          "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+          "pdf_pages": [
+            51,
+            55
+          ],
+          "printed_pages": [
+            49,
+            53
+          ],
+          "status": "verified",
+          "objectives": {
+            "label": "MỤC TIÊU:",
+            "items": [
+              "Nêu được quy định cơ bản của pháp luật về quyền tự do kinh doanh và nghĩa vụ nộp thuế.",
+              "Phân tích, đánh giá được hậu quả của hành vi vi phạm pháp luật về quyền tự do kinh doanh và nghĩa vụ nộp thuế.",
+              "Nhận biết được trách nhiệm công dân trong việc thực hiện quyền tự do kinh doanh và nghĩa vụ nộp thuế.",
+              "Vận động gia đình, người thân thực hiện tốt quyền tự do kinh doanh và nghĩa vụ nộp thuế."
+            ],
+            "pdf_page": 51
+          },
+          "key_terms": [],
+          "figures": []
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Một số thuật ngữ dùng trong sách",
+      "file": "Mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK Giao duc cong dan 9 KNTT.pdf",
+      "pdf_pages": [
+        56,
+        56
+      ],
+      "printed_pages": [
+        54,
+        54
+      ],
+      "status": "verified"
+    }
+  ],
+  "dictionaries": [
+    {
+      "file": "Tu-dien-GDCD-9.md",
+      "name": "tu-dien-gdcd-9",
+      "title": "TỪ ĐIỂN THUẬT NGỮ GIÁO DỤC CÔNG DÂN 9 — NỘI DUNG BÀI HỌC (BÀI 1–10)",
+      "group_id": "p01",
+      "lesson_ids": [
+        "b01",
+        "b02",
+        "b03",
+        "b04",
+        "b05",
+        "b06",
+        "b07",
+        "b08",
+        "b09",
+        "b10"
+      ],
+      "conventions": [
+        "Mở đầu bài học bằng khối `## 🎯 MỤC TIÊU:` và `## 🔴 Mở đầu`; phần nội dung chính `## KHÁM PHÁ` chia thành các mục đánh số `## 1. ...`, `## 2. ...`; chốt bài bằng `## 📌 Ghi nhớ`, `## ✏️ Luyện tập` và `## 🚀 Vận dụng`.",
+        "Các hộp thông tin, trường hợp, tình huống, câu hỏi thảo luận và hộp Ghi nhớ được trình bày trong khối trích dẫn `> `; thuật ngữ có định nghĩa trực tiếp được in đậm (`**...**`) và khái niệm mô tả được gắn nhãn `<!-- term: ... -->`.",
+        "Tên văn bản quy phạm pháp luật (Hiến pháp năm 2013, Bộ luật Hình sự năm 2015 (sửa đổi, bổ sung năm 2017), Bộ luật Dân sự, Luật Xử lí vi phạm hành chính, Bộ luật Lao động, Luật Đầu tư năm 2020,...) giữ nguyên chuẩn chính tả theo SGK.",
+        "Các thuật ngữ chỉ có định nghĩa trong bảng \"Một số thuật ngữ dùng trong sách\" ở cuối SGK (trang in 54, PDF 56) được tích hợp đầy đủ vào mục \"Thuật ngữ dùng chung\"; các thuật ngữ vừa có định nghĩa trong bài học vừa có mặt ở bảng cuối sách được đặt tại bài học tương ứng và dẫn chiếu đồng thời bảng thuật ngữ cuối sách."
+      ],
+      "status": "verified",
+      "created": "2026-11-21",
+      "updated": "2026-11-21"
+    }
+  ],
+  "terms": [
+    {
+      "id": "giao-duc-cong-dan-9-cong-dong",
+      "term": "Cộng đồng",
+      "aliases": [],
+      "english": "Community",
+      "notation": null,
+      "meaning": "Cộng đồng: Toàn thể những người cùng sống, có những điểm giống nhau, gắn bó thành một khối trong sinh hoạt xã hội.",
+      "usage_context": "Bảng Một số thuật ngữ dùng trong sách (trang in 54, PDF 56); sử dụng xuyên suốt các Bài 1, 2, 3, 6.",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 56,
+        "printed_page": 54
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-thich-ung",
+      "term": "Thích ứng",
+      "aliases": [],
+      "english": "Adaptation",
+      "notation": null,
+      "meaning": "Thích ứng: Thay đổi cho phù hợp với điều kiện mới, yêu cầu mới.",
+      "usage_context": "Bảng Một số thuật ngữ dùng trong sách (trang in 54, PDF 56); nền tảng khái niệm cho Bài 7 (Thích ứng với thay đổi).",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 56,
+        "printed_page": 54
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-tieu-dung",
+      "term": "Tiêu dùng",
+      "aliases": [],
+      "english": "Consumption",
+      "notation": null,
+      "meaning": "Tiêu dùng: Sử dụng của cải vật chất để thoả mãn các nhu cầu sinh hoạt hằng ngày.",
+      "usage_context": "Bảng Một số thuật ngữ dùng trong sách (trang in 54, PDF 56); sử dụng trong Bài 8 và Bài 10.",
+      "scope": "shared",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "bang-tra-cuu",
+        "section": null,
+        "pdf_page": 56,
+        "printed_page": 54
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-li-tuong",
+      "term": "Lí tưởng",
+      "aliases": [],
+      "english": "Ideal",
+      "notation": null,
+      "meaning": "Lí tưởng là mục đích cao đẹp nhất mà con người mong muốn đạt tới.",
+      "usage_context": "Bài 1, Mở đầu, tr. 5 (PDF 7) và Bảng Một số thuật ngữ dùng trong sách, tr. 54 (PDF 56) — khái niệm nền tảng về mục đích sống cao đẹp của con người.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": null,
+        "pdf_page": 7,
+        "printed_page": 5
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-song-co-li-tuong",
+      "term": "Sống có lí tưởng",
+      "aliases": [],
+      "english": "Living with ideals",
+      "notation": null,
+      "meaning": "Sống có lí tưởng là xác định được mục đích cao đẹp và có kế hoạch, quyết tâm phấn đấu để đạt được mục đích nhằm đóng góp cho lợi ích của cộng đồng, quốc gia, nhân loại.",
+      "usage_context": "Bài 1, Ghi nhớ mục 1, tr. 8 (PDF 10) — khái niệm trọng tâm phân biệt sống có lí tưởng cao đẹp vì cộng đồng với mong muốn cá nhân đơn thuần.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": null,
+        "pdf_page": 10,
+        "printed_page": 8
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-y-nghia-cua-viec-song-co-li-tuong",
+      "term": "Ý nghĩa của việc sống có lí tưởng",
+      "aliases": [],
+      "english": "Significance of living with ideals",
+      "notation": null,
+      "meaning": "Sống có lí tưởng giúp mỗi người có động lực phấn đấu hoàn thành mục tiêu của bản thân, góp phần xây dựng đất nước giàu mạnh, văn minh. Người sống có lí tưởng được xã hội công nhận, tôn trọng và tin tưởng.",
+      "usage_context": "Bài 1, Ghi nhớ mục 2, tr. 8 (PDF 10) — vai trò, động lực của việc sống có lí tưởng đối với cá nhân và xã hội.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": null,
+        "pdf_page": 10,
+        "printed_page": 8
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-li-tuong-song-cua-thanh-nien-viet-nam-hien-nay",
+      "term": "Lí tưởng sống của thanh niên Việt Nam hiện nay",
+      "aliases": [],
+      "english": "Life ideals of Vietnamese youth today",
+      "notation": null,
+      "meaning": "Lí tưởng sống của thanh niên Việt Nam hiện nay là phấn đấu vì độc lập dân tộc và chủ nghĩa xã hội; tích cực học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh; nỗ lực rèn luyện sức khoẻ, học tập để trở thành người có năng lực, bản lĩnh và người công dân tốt; tích cực tham gia vào sự nghiệp đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước, xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
+      "usage_context": "Bài 1, Ghi nhớ mục 3, tr. 8 (PDF 10) — định hướng lí tưởng và nhiệm vụ của thanh niên Việt Nam trong giai đoạn hiện nay.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b01",
+        "section": null,
+        "pdf_page": 10,
+        "printed_page": 8
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-khoan-dung",
+      "term": "Khoan dung",
+      "aliases": [],
+      "english": "Tolerance",
+      "notation": null,
+      "meaning": "Khoan dung là rộng lòng tha thứ.",
+      "usage_context": "Bài 2, Ghi nhớ mục 1, tr. 12 (PDF 14) — phẩm chất đạo đức truyền thống trong ứng xử giữa con người với con người.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": null,
+        "pdf_page": 14,
+        "printed_page": 12
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-bieu-hien-cua-khoan-dung",
+      "term": "Biểu hiện của khoan dung",
+      "aliases": [],
+      "english": "Manifestations of tolerance",
+      "notation": null,
+      "meaning": "Biểu hiện của khoan dung là: tha thứ cho chính mình và người khác khi đã biết hối hận và sửa chữa lỗi lầm; lắng nghe và tôn trọng sự khác biệt của người khác, không cố chấp, hẹp hòi, định kiến.",
+      "usage_context": "Bài 2, Ghi nhớ mục 1, tr. 12 (PDF 14) — dấu hiệu nhận biết thái độ và hành vi khoan dung trong đời sống.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": null,
+        "pdf_page": 14,
+        "printed_page": 12
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-gia-tri-cua-long-khoan-dung",
+      "term": "Giá trị của lòng khoan dung",
+      "aliases": [],
+      "english": "Value of tolerance",
+      "notation": null,
+      "meaning": "Người có lòng khoan dung sẽ được mọi người yêu mến, tin cậy. Người được tha thứ sẽ có cơ hội sửa chữa lỗi lầm để trở thành người tốt. Nhờ có lòng khoan dung, mối quan hệ giữa người với người sẽ tốt đẹp hơn.",
+      "usage_context": "Bài 2, Ghi nhớ mục 2, tr. 12 (PDF 14) — ý nghĩa tích cực của lòng khoan dung đối với người tha thứ, người được tha thứ và các mối quan hệ xã hội.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": null,
+        "pdf_page": 14,
+        "printed_page": 12
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-ren-luyen-long-khoan-dung",
+      "term": "Rèn luyện lòng khoan dung",
+      "aliases": [],
+      "english": "Practicing tolerance",
+      "notation": null,
+      "meaning": "Để trở thành người có lòng khoan dung, mỗi chúng ta đều cần sống chân thành, rộng lượng; tôn trọng và chấp nhận cá tính, sở thích, thói quen của người khác; phê phán sự ích kỉ, hẹp hòi, thiếu khoan dung, độ lượng.",
+      "usage_context": "Bài 2, Ghi nhớ mục 3, tr. 12 (PDF 14) — cách thức rèn luyện phẩm chất khoan dung trong cuộc sống.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b02",
+        "section": null,
+        "pdf_page": 14,
+        "printed_page": 12
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-hoat-dong-cong-dong",
+      "term": "Hoạt động cộng đồng",
+      "aliases": [],
+      "english": "Community activities",
+      "notation": null,
+      "meaning": "Hoạt động cộng đồng là những hoạt động được tổ chức bởi các cá nhân, tập thể nhằm mang lại lợi ích chung cho cộng đồng.",
+      "usage_context": "Bài 3, Ghi nhớ mục 1, tr. 17 (PDF 19) — các hoạt động thiện nguyện, nhân đạo, đền ơn đáp nghĩa, bảo vệ môi trường, phòng chống tệ nạn xã hội, giữ gìn văn hoá dân tộc.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": null,
+        "pdf_page": 19,
+        "printed_page": 17
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-y-nghia-cua-viec-tham-gia-cac-hoat-dong-cong-dong",
+      "term": "Ý nghĩa của việc tham gia các hoạt động cộng đồng",
+      "aliases": [],
+      "english": "Significance of participating in community activities",
+      "notation": null,
+      "meaning": "Ý nghĩa của việc tham gia các hoạt động cộng đồng: Đối với cá nhân: giúp mở rộng tầm hiểu biết, rèn luyện kĩ năng; có tinh thần trách nhiệm đóng góp công sức và trí tuệ của mình vào công việc chung của tập thể, xã hội; nâng cao giá trị của bản thân và được mọi người yêu mến;... Đối với cộng đồng: phát huy sức mạnh của các lực lượng xã hội; tạo ra sự kết nối các thành viên trong cộng đồng; xây dựng mối quan hệ đoàn kết, nhân ái, lan toả những giá trị tích cực; góp phần xây dựng đất nước văn minh, giàu mạnh.",
+      "usage_context": "Bài 3, Ghi nhớ mục 3, tr. 17 (PDF 19) — lợi ích kép đối với sự trưởng thành của cá nhân và sự phát triển đoàn kết của cộng đồng.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": null,
+        "pdf_page": 19,
+        "printed_page": 17
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-trach-nhiem-cua-hoc-sinh-trong-viec-tham-gia-cac-hoat-dong-cong-dong",
+      "term": "Trách nhiệm của học sinh trong việc tham gia các hoạt động cộng đồng",
+      "aliases": [],
+      "english": "Students' responsibility in participating in community activities",
+      "notation": null,
+      "meaning": "Học sinh cần chủ động, tích cực tham gia các hoạt động cộng đồng do nhà trường, địa phương tổ chức; tích cực vận động người thân, bạn bè cùng tham gia; phê phán những biểu hiện thờ ơ, thiếu trách nhiệm với các hoạt động cộng đồng.",
+      "usage_context": "Bài 3, Ghi nhớ mục 4, tr. 17 (PDF 19) — yêu cầu về thái độ và hành động của học sinh đối với các hoạt động chung.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b03",
+        "section": null,
+        "pdf_page": 19,
+        "printed_page": 17
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-khach-quan",
+      "term": "Khách quan",
+      "aliases": [],
+      "english": "Objectivity",
+      "notation": null,
+      "meaning": "Khách quan là nhìn nhận sự vật, sự việc, con người một cách thực tế, chính xác, không thiên vị hay thành kiến mà phải dựa trên chứng cứ và dữ liệu xác đáng.",
+      "usage_context": "Bài 4, mục 1, tr. 19 (PDF 21) và Bảng Một số thuật ngữ dùng trong sách, tr. 54 (PDF 56) — phẩm chất nhìn nhận, đánh giá tôn trọng sự thật, không định kiến cá nhân.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "1",
+        "pdf_page": 21,
+        "printed_page": 19
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-bieu-hien-cua-khach-quan",
+      "term": "Biểu hiện của khách quan",
+      "aliases": [],
+      "english": "Manifestations of objectivity",
+      "notation": null,
+      "meaning": "Biểu hiện của khách quan là nhìn nhận sự vật, hiện tượng chính xác, trung thực, không định kiến, thiên vị.",
+      "usage_context": "Bài 4, Ghi nhớ mục 1, tr. 22 (PDF 24) — dấu hiệu nhận diện thái độ khách quan trong nhận thức và đánh giá.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": null,
+        "pdf_page": 24,
+        "printed_page": 22
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-vai-tro-cua-khach-quan",
+      "term": "Vai trò của khách quan",
+      "aliases": [],
+      "english": "Role of objectivity",
+      "notation": null,
+      "meaning": "Khách quan có vai trò giúp chúng ta nhìn nhận, đánh giá đúng bản chất của sự vật, sự việc, con người, từ đó có các quyết định chính xác trong công việc và cách ứng xử văn hoá trong các mối quan hệ. Trái lại, thiếu khách quan sẽ dẫn tới những sai lầm trong công việc và ứng xử, ảnh hưởng tiêu cực tới các mối quan hệ.",
+      "usage_context": "Bài 4, Ghi nhớ mục 1, tr. 22 (PDF 24) — ý nghĩa của thái độ khách quan và tác hại của sự thiếu khách quan.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": null,
+        "pdf_page": 24,
+        "printed_page": 22
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-cong-bang",
+      "term": "Công bằng",
+      "aliases": [],
+      "english": "Fairness",
+      "notation": null,
+      "meaning": "Công bằng được hiểu là sự bình đẳng về quyền lợi và nghĩa vụ của con người trước pháp luật. Cốt lõi của công bằng là công bằng về cơ hội phát triển, nghĩa là tạo cơ hội như nhau cho mọi người, có tính đến yếu tố khác biệt, người yếu thế hơn sẽ được tạo điều kiện tốt hơn để có cơ hội như người mạnh hơn.",
+      "usage_context": "Bài 4, mục 2, tr. 20 (PDF 22) và Bảng Một số thuật ngữ dùng trong sách, tr. 54 (PDF 56) — khái niệm công bằng dưới góc độ pháp luật và góc độ xã hội.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": "2",
+        "pdf_page": 22,
+        "printed_page": 20
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-bieu-hien-cua-cong-bang",
+      "term": "Biểu hiện của công bằng",
+      "aliases": [],
+      "english": "Manifestations of fairness",
+      "notation": null,
+      "meaning": "Biểu hiện của công bằng là đối xử bình đẳng, không thiên vị, không phân biệt đối xử.",
+      "usage_context": "Bài 4, Ghi nhớ mục 2, tr. 22 (PDF 24) — dấu hiệu nhận diện hành vi ứng xử công bằng trong các quan hệ xã hội.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": null,
+        "pdf_page": 24,
+        "printed_page": 22
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-vai-tro-cua-cong-bang",
+      "term": "Vai trò của công bằng",
+      "aliases": [],
+      "english": "Role of fairness",
+      "notation": null,
+      "meaning": "Công bằng có vai trò quan trọng trong việc bảo vệ quyền lợi chính đáng của mỗi cá nhân, giúp con người có cơ hội phát triển bình đẳng với nhau, giúp họ cảm thấy được tôn trọng, tự tin hơn trong cuộc sống. Công bằng cũng góp phần xây dựng xã hội bình đẳng, dân chủ, văn minh. Trái lại, thiếu công bằng sẽ dẫn tới bất công, bất bình đẳng, mâu thuẫn, xung đột trong các mối quan hệ.",
+      "usage_context": "Bài 4, Ghi nhớ mục 2, tr. 22 (PDF 24) — ý nghĩa của sự công bằng và tác hại của sự thiếu công bằng trong đời sống xã hội.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b04",
+        "section": null,
+        "pdf_page": 24,
+        "printed_page": 22
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-hoa-binh",
+      "term": "Hoà bình",
+      "aliases": [],
+      "english": "Peace",
+      "notation": null,
+      "meaning": "Hoà bình là tình trạng không có chiến tranh hay xung đột vũ trang; con người được sống trong một môi trường xã hội an toàn, hạnh phúc.",
+      "usage_context": "Bài 5, Ghi nhớ mục 1, tr. 27 (PDF 29) — trạng thái xã hội đối lập với chiến tranh và xung đột vũ trang.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": null,
+        "pdf_page": 29,
+        "printed_page": 27
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-bieu-hien-cua-hoa-binh",
+      "term": "Biểu hiện của hoà bình",
+      "aliases": [],
+      "english": "Manifestations of peace",
+      "notation": null,
+      "meaning": "Biểu hiện của hoà bình là cuộc sống bình yên, con người được học tập, lao động, phát triển, chung sống hoà thuận cùng nhau; các quốc gia tôn trọng, hợp tác cùng phát triển.",
+      "usage_context": "Bài 5, Ghi nhớ mục 1, tr. 27 (PDF 29) — dấu hiệu nhận diện đời sống hoà bình của con người và quan hệ hữu nghị giữa các quốc gia.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": null,
+        "pdf_page": 29,
+        "printed_page": 27
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-bao-ve-hoa-binh",
+      "term": "Bảo vệ hoà bình",
+      "aliases": [],
+      "english": "Peacekeeping",
+      "notation": null,
+      "meaning": "Bảo vệ hoà bình là giữ gìn cuộc sống bình yên; dùng thương lượng, đàm phán giải quyết mọi mâu thuẫn, xung đột giữa các dân tộc, tôn giáo và quốc gia, không để xảy ra chiến tranh hay xung đột vũ trang.",
+      "usage_context": "Bài 5, Ghi nhớ mục 2, tr. 27 (PDF 29) — quyền, nghĩa vụ và trách nhiệm chung của mọi công dân, dân tộc và quốc gia.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": null,
+        "pdf_page": 29,
+        "printed_page": 27
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-y-nghia-cua-viec-bao-ve-hoa-binh",
+      "term": "Ý nghĩa của việc bảo vệ hoà bình",
+      "aliases": [],
+      "english": "Significance of protecting peace",
+      "notation": null,
+      "meaning": "Hoà bình mang lại cuộc sống ấm no, hạnh phúc và bình yên cho mỗi người, mỗi gia đình và xã hội; Bảo vệ hoà bình để ngăn chặn chiến tranh, nhằm phát triển kinh tế – xã hội; thúc đẩy và xây dựng các mối quan hệ bình đẳng, hữu nghị, hợp tác giữa các quốc gia, dân tộc.",
+      "usage_context": "Bài 5, Ghi nhớ mục 2, tr. 27 (PDF 29) — lí do cần thiết phải đấu tranh ngăn chặn chiến tranh và gìn giữ hoà bình.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": null,
+        "pdf_page": 29,
+        "printed_page": 27
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-bien-phap-bao-ve-hoa-binh",
+      "term": "Biện pháp bảo vệ hoà bình",
+      "aliases": [],
+      "english": "Measures to protect peace",
+      "notation": null,
+      "meaning": "Biện pháp bảo vệ hoà bình: Chủ động giải quyết mâu thuẫn bằng biện pháp hoà bình qua thương lượng, đàm phán. Giải quyết mâu thuẫn khi xảy ra xung đột, mâu thuẫn căn cứ theo pháp luật quốc tế, dựa trên công lí và chính nghĩa, không thoả hiệp vô nguyên tắc với tội ác và bất công xã hội.",
+      "usage_context": "Bài 5, Ghi nhớ mục 3, tr. 28 (PDF 30) — phương thức giải quyết tranh chấp, xung đột theo pháp luật quốc tế và công lí.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b05",
+        "section": null,
+        "pdf_page": 30,
+        "printed_page": 28
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-quan-li-thoi-gian-hieu-qua",
+      "term": "Quản lí thời gian hiệu quả",
+      "aliases": [],
+      "english": "Effective time management",
+      "notation": null,
+      "meaning": "Quản lí thời gian hiệu quả là biết cách sắp xếp, sử dụng thời gian hợp lí, không lãng phí để hoàn thành công việc theo kế hoạch đã đề ra.",
+      "usage_context": "Bài 6, Ghi nhớ mục 1, tr. 32 (PDF 34) — kĩ năng sống thiết yếu trong học tập, lao động và sinh hoạt hằng ngày.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": null,
+        "pdf_page": 34,
+        "printed_page": 32
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-y-nghia-cua-quan-li-thoi-gian-hieu-qua",
+      "term": "Ý nghĩa của quản lí thời gian hiệu quả",
+      "aliases": [],
+      "english": "Significance of effective time management",
+      "notation": null,
+      "meaning": "Quản lí thời gian hiệu quả giúp ta chủ động trong cuộc sống, công việc; nâng cao năng suất, hiệu quả công việc; giảm áp lực, tạo động lực, từng bước hoàn thiện bản thân.",
+      "usage_context": "Bài 6, Ghi nhớ mục 2, tr. 32 (PDF 34) — lợi ích của việc phân bổ và làm chủ thời gian hợp lí.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": null,
+        "pdf_page": 34,
+        "printed_page": 32
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-cach-quan-li-thoi-gian-hieu-qua",
+      "term": "Cách quản lí thời gian hiệu quả",
+      "aliases": [],
+      "english": "Ways to manage time effectively",
+      "notation": null,
+      "meaning": "Cách quản lí thời gian hiệu quả: Xác định mục tiêu các công việc cần hoàn thành: xác định danh sách các công việc theo ngày, tuần, tháng; xác định thời hạn hoàn thành và đặt mức độ ưu tiên cho mỗi công việc. Xây dựng kế hoạch thực hiện công việc: phân bổ thời gian hợp lí cho các công việc trong một khoảng thời gian nhất định; lựa chọn biện pháp hoàn thành công việc phù hợp với đặc điểm bản thân cũng như hoàn cảnh sống; điều chỉnh kế hoạch khi cần thiết. Thực hiện kế hoạch đã đề ra: kỉ luật, tuân thủ kế hoạch, tránh trì hoãn, “nước đến chân mới nhảy”; loại bỏ những yếu tố gây mất tập trung, sao nhãng.",
+      "usage_context": "Bài 6, Ghi nhớ mục 3, tr. 32 (PDF 34) — quy trình 3 bước rèn luyện kĩ năng quản lí thời gian.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b06",
+        "section": null,
+        "pdf_page": 34,
+        "printed_page": 32
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-y-nghia-cua-viec-thich-ung-voi-thay-doi",
+      "term": "Ý nghĩa của việc thích ứng với thay đổi",
+      "aliases": [],
+      "english": "Significance of adapting to change",
+      "notation": null,
+      "meaning": "Thích ứng được với những thay đổi trong cuộc sống sẽ giúp chúng ta vượt qua khó khăn và sự thay đổi của hoàn cảnh, sống phù hợp với hoàn cảnh, không ngừng tự hoàn thiện và phát triển bản thân.",
+      "usage_context": "Bài 7, Ghi nhớ mục 2, tr. 36 (PDF 38) — vai trò của kĩ năng thích ứng trước các biến cố, thay đổi về sức khoẻ, môi trường sống và hoàn cảnh gia đình.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": null,
+        "pdf_page": 38,
+        "printed_page": 36
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-bien-phap-thich-ung-voi-su-thay-doi",
+      "term": "Biện pháp thích ứng với sự thay đổi",
+      "aliases": [],
+      "english": "Measures to adapt to change",
+      "notation": null,
+      "meaning": "Những biện pháp để thích ứng với sự thay đổi trong cuộc sống: Chấp nhận sự thay đổi là tất yếu. Thay đổi xảy ra thường nằm ngoài tầm kiểm soát nên thay vì đổ lỗi, tức giận hay lo lắng thì hãy chấp nhận để đối diện và thích ứng. Giữ bình tĩnh để làm chủ cảm xúc và có thêm thời gian để suy xét vấn đề một cách sáng suốt, tránh vội vàng đưa ra những quyết định sai lầm, gây ảnh hưởng tiêu cực. Tìm cách giải quyết vấn đề theo hướng tích cực: chuyện gì cũng có cách giải quyết nên cần cân nhắc, tham khảo và tìm hiểu để có cách giải quyết tốt nhất, phù hợp với bản thân và hoàn cảnh.",
+      "usage_context": "Bài 7, Ghi nhớ mục 3, tr. 36 (PDF 38) — 3 biện pháp cốt lõi giúp vượt qua biến cố và thích nghi với hoàn cảnh mới.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b07",
+        "section": null,
+        "pdf_page": 38,
+        "printed_page": 36
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-tieu-dung-thong-minh",
+      "term": "Tiêu dùng thông minh",
+      "aliases": [],
+      "english": "Smart consumption",
+      "notation": null,
+      "meaning": "Tiêu dùng thông minh là việc biết chi tiêu có kế hoạch, tiết kiệm, hiệu quả, phù hợp với đặc điểm của bản thân.",
+      "usage_context": "Bài 8, Ghi nhớ mục 1, tr. 40 (PDF 42) — khái niệm trung tâm của giáo dục tiêu dùng và quản lí tài chính cá nhân ở lớp 9.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": null,
+        "pdf_page": 42,
+        "printed_page": 40
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-loi-ich-cua-tieu-dung-thong-minh",
+      "term": "Lợi ích của tiêu dùng thông minh",
+      "aliases": [],
+      "english": "Benefits of smart consumption",
+      "notation": null,
+      "meaning": "Tiêu dùng thông minh giúp người tiêu dùng mua được sản phẩm có chất lượng, phù hợp với mục đích tiêu dùng của cá nhân, tiết kiệm thời gian, tiền bạc, thực hiện được kế hoạch chi tiêu, bảo vệ sức khoẻ và quyền lợi của người tiêu dùng.",
+      "usage_context": "Bài 8, Ghi nhớ mục 2, tr. 40 (PDF 42) — ý nghĩa thiết thực của hành vi tiêu dùng thông minh đối với cá nhân và gia đình.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": null,
+        "pdf_page": 42,
+        "printed_page": 40
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-cach-tieu-dung-thong-minh",
+      "term": "Cách tiêu dùng thông minh",
+      "aliases": [],
+      "english": "Smart consumption practices",
+      "notation": null,
+      "meaning": "Cách tiêu dùng thông minh: Xây dựng kế hoạch chi tiêu hợp lí: Chỉ mua những vật dụng thiết yếu, phù hợp với nhu cầu, khả năng thanh toán của bản thân. Tìm hiểu các thông tin sản phẩm (chất lượng, mẫu mã, giá cả, công dụng,...) qua nhiều kênh khác nhau để chọn lọc được thông tin chính xác. Sử dụng sản phẩm an toàn: theo hướng dẫn sử dụng, đảm bảo chất lượng, an toàn cho sức khoẻ. Lựa chọn phương thức thanh toán phù hợp: thanh toán bằng tiền mặt hoặc thanh toán trực tuyến tuỳ vào tình hình thực tế và điều kiện của bản thân; kiểm tra kĩ sản phẩm, hoá đơn trước khi thanh toán và lưu giữ chứng từ giao dịch để xử lí khi cần thiết.",
+      "usage_context": "Bài 8, Ghi nhớ mục 3, tr. 40 (PDF 42) — tổng hợp 4 nguyên tắc thực hành tiêu dùng thông minh.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": null,
+        "pdf_page": 42,
+        "printed_page": 40
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-xay-dung-ke-hoach-chi-tieu-hop-li",
+      "term": "Xây dựng kế hoạch chi tiêu hợp lí",
+      "aliases": [],
+      "english": "Building a reasonable spending plan",
+      "notation": null,
+      "meaning": "Chỉ mua những vật dụng phục vụ cho nhu cầu thiết yếu của cuộc sống, phù hợp với khả năng thanh toán và nhu cầu của bản thân như: thức ăn, nước uống, đồ dùng cá nhân, đồ dùng học tập cần thiết, đi lại,...",
+      "usage_context": "Bài 8, mục 2, tr. 39 (PDF 41) — cách thức lập kế hoạch mua sắm tránh lãng phí theo nhu cầu thực tế.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2",
+        "pdf_page": 41,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-tim-hieu-cac-thong-tin-san-pham",
+      "term": "Tìm hiểu các thông tin sản phẩm",
+      "aliases": [],
+      "english": "Researching product information",
+      "notation": null,
+      "meaning": "Khi cần mua sản phẩm nên tìm hiểu các thông tin về chất lượng, giá cả, công dụng, mẫu mã,... bằng cách tham khảo nhiều nguồn thông tin về sản phẩm được in trên bao bì, qua các kênh quảng cáo, trang thông tin điện tử của nhà sản xuất, quét mã vạch truy xuất nguồn gốc,... để chọn lọc thông tin về sản phẩm chính xác.",
+      "usage_context": "Bài 8, mục 2, tr. 39 (PDF 41) — kĩ năng nắm bắt thông tin, nhận diện quảng cáo và truy xuất nguồn gốc hàng hoá trước khi mua.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2",
+        "pdf_page": 41,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-su-dung-san-pham-an-toan",
+      "term": "Sử dụng sản phẩm an toàn",
+      "aliases": [],
+      "english": "Safe product usage",
+      "notation": null,
+      "meaning": "Chỉ sử dụng những sản phẩm có nguồn gốc, đảm bảo chất lượng, đọc kĩ hướng dẫn sử dụng trước khi dùng và sử dụng đúng cách, tìm hiểu quyền lợi của người tiêu dùng để bảo vệ mình trong những trường hợp cần thiết.",
+      "usage_context": "Bài 8, mục 2, tr. 39 (PDF 41) — yêu cầu bảo đảm an toàn sức khoẻ và quyền lợi người tiêu dùng khi sử dụng hàng hoá.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2",
+        "pdf_page": 41,
+        "printed_page": 39
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-lua-chon-phuong-thuc-thanh-toan-phu-hop",
+      "term": "Lựa chọn phương thức thanh toán phù hợp",
+      "aliases": [],
+      "english": "Choosing an appropriate payment method",
+      "notation": null,
+      "meaning": "Khi mua hàng, có thể thanh toán bằng tiền mặt hoặc thanh toán trực tuyến. Trước khi thanh toán, cần kiểm tra kĩ sản phẩm, giá cả, số tiền phải thanh toán. Khi mua hàng trực tuyến, cần kiểm tra kĩ hàng hoá khi nhận, chỉ thanh toán trước đối với các thương hiệu uy tín; bảo mật thông tin, tài khoản và lưu lại hoá đơn, chứng từ giao dịch để xử lí khi cần thiết,...",
+      "usage_context": "Bài 8, mục 2, tr. 40 (PDF 42) — kĩ năng thanh toán an toàn bằng tiền mặt và thanh toán trực tuyến.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b08",
+        "section": "2",
+        "pdf_page": 42,
+        "printed_page": 40
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-phap-luat",
+      "term": "Pháp luật",
+      "aliases": [],
+      "english": "Law",
+      "notation": null,
+      "meaning": "Pháp luật là những quy định do Nhà nước ban hành và có tính bắt buộc chung, mọi người đều phải tôn trọng, chấp hành.",
+      "usage_context": "Bài 9, Mở đầu, tr. 42 (PDF 44) — khái niệm nền tảng để xác định hành vi hợp pháp và hành vi vi phạm pháp luật.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": null,
+        "pdf_page": 44,
+        "printed_page": 42
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-vi-pham-phap-luat",
+      "term": "Vi phạm pháp luật",
+      "aliases": [],
+      "english": "Violation of law",
+      "notation": null,
+      "meaning": "Vi phạm pháp luật là hành vi trái pháp luật, có lỗi do chủ thể có năng lực trách nhiệm pháp lí thực hiện, xâm hại các quan hệ xã hội được pháp luật bảo vệ.",
+      "usage_context": "Bài 9, Ghi nhớ mục 1, tr. 46 (PDF 48) — khái niệm pháp lí cốt lõi gồm 4 loại: vi phạm hình sự, vi phạm dân sự, vi phạm hành chính, vi phạm kỉ luật.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": null,
+        "pdf_page": 48,
+        "printed_page": 46
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-dau-hieu-cua-vi-pham-phap-luat",
+      "term": "Dấu hiệu của vi phạm pháp luật",
+      "aliases": [],
+      "english": "Signs of legal violation",
+      "notation": null,
+      "meaning": "Hành vi trái pháp luật: làm việc mà pháp luật cấm; không thực hiện các nghĩa vụ mà Nhà nước quy định; thực hiện không đúng các quy định của pháp luật;... Hành vi do chủ thể có năng lực trách nhiệm pháp lí thực hiện: người thực hiện hành vi đã đạt một độ tuổi nhất định theo quy định của pháp luật, có thể nhận thức và điều khiển được hành vi của mình, tự quyết định cách xử sự của mình. Hành vi có lỗi của chủ thể: Bao gồm lỗi cố ý và lỗi vô ý. Hành vi gây nguy hiểm cho xã hội: hành vi đó đe doạ gây ra thiệt hại hoặc gây ra thiệt hại cho các quan hệ xã hội được pháp luật bảo vệ.",
+      "usage_context": "Bài 9, mục 1, tr. 42 (PDF 44) — 4 dấu hiệu cấu thành để xác định một hành vi là vi phạm pháp luật.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "1",
+        "pdf_page": 44,
+        "printed_page": 42
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-vi-pham-hinh-su",
+      "term": "Vi phạm hình sự",
+      "aliases": [],
+      "english": "Criminal offense",
+      "notation": null,
+      "meaning": "Vi phạm hình sự (Tội phạm): Hành vi có lỗi. Hành vi nguy hiểm cho xã hội được quy định trong Bộ luật Hình sự. Hành vi do người có năng lực trách nhiệm hình sự thực hiện. Chủ thể thực hiện hành vi phải chịu trách nhiệm theo quy định của Bộ luật Hình sự.",
+      "usage_context": "Bài 9, mục 1, tr. 43 (PDF 45) — loại vi phạm pháp luật nguy hiểm nhất cho xã hội, còn gọi là tội phạm.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "1",
+        "pdf_page": 45,
+        "printed_page": 43
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-toi-pham",
+      "term": "Tội phạm",
+      "aliases": [],
+      "english": "Crime",
+      "notation": null,
+      "meaning": "Tội phạm là hành vi nguy hiểm cho xã hội được quy định trong Bộ luật Hình sự, do người có năng lực trách nhiệm hình sự hoặc pháp nhân thương mại thực hiện một cách cố ý hoặc vô ý, xâm phạm độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ Tổ quốc, xâm phạm chế độ chính trị, chế độ kinh tế, nền văn hoá, quốc phòng, an ninh, trật tự, an toàn xã hội, quyền, lợi ích hợp pháp của tổ chức, xâm phạm quyền con người, quyền, lợi ích hợp pháp của công dân, xâm phạm những lĩnh vực khác của trật tự pháp luật xã hội chủ nghĩa mà theo quy định của Bộ luật này phải bị xử lí hình sự.",
+      "usage_context": "Bài 9, mục 1 (Em có biết?), tr. 43 (PDF 45) — định nghĩa pháp lí theo Khoản 1 Điều 8 Bộ luật Hình sự năm 2015 (sửa đổi, bổ sung năm 2017).",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "1",
+        "pdf_page": 45,
+        "printed_page": 43
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-vi-pham-dan-su",
+      "term": "Vi phạm dân sự",
+      "aliases": [],
+      "english": "Civil violation",
+      "notation": null,
+      "meaning": "Vi phạm dân sự: Hành vi có lỗi. Hành vi xâm phạm các quan hệ tài sản và quan hệ nhân thân phi tài sản được quy định trong Bộ luật Dân sự. Hành vi do người có năng lực trách nhiệm dân sự thực hiện. Chủ thể thực hiện hành vi phải chịu trách nhiệm dân sự theo quy định của pháp luật.",
+      "usage_context": "Bài 9, mục 1, tr. 43 (PDF 45) — loại vi phạm pháp luật xâm phạm quan hệ tài sản và quan hệ nhân thân phi tài sản.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "1",
+        "pdf_page": 45,
+        "printed_page": 43
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-vi-pham-hanh-chinh",
+      "term": "Vi phạm hành chính",
+      "aliases": [],
+      "english": "Administrative violation",
+      "notation": null,
+      "meaning": "Vi phạm hành chính: Hành vi có lỗi. Hành vi vi phạm các quy định của pháp luật về quản lí nhà nước mà không phải là tội phạm. Hành vi do người có năng lực trách nhiệm hành chính thực hiện. Chủ thể thực hiện hành vi phải bị xử phạt vi phạm hành chính theo quy định của pháp luật.",
+      "usage_context": "Bài 9, mục 1, tr. 43 (PDF 45) — loại vi phạm xâm phạm quy tắc quản lí nhà nước chưa đến mức truy cứu trách nhiệm hình sự.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "1",
+        "pdf_page": 45,
+        "printed_page": 43
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-vi-pham-ki-luat",
+      "term": "Vi phạm kỉ luật",
+      "aliases": [],
+      "english": "Disciplinary violation",
+      "notation": null,
+      "meaning": "Vi phạm kỉ luật: Hành vi có lỗi. Hành vi vi phạm các quy chế, quy tắc xác lập trật tự trong nội bộ cơ quan, tổ chức, đơn vị. Hành vi do chủ thể trong nội bộ cơ quan, tổ chức, đơn vị thực hiện. Chủ thể thực hiện hành vi phải chịu trách nhiệm kỉ luật theo quy định.",
+      "usage_context": "Bài 9, mục 1, tr. 43 (PDF 45) — loại vi phạm nội quy, quy chế của cơ quan, trường học, doanh nghiệp, đơn vị.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "1",
+        "pdf_page": 45,
+        "printed_page": 43
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-trach-nhiem-phap-li",
+      "term": "Trách nhiệm pháp lí",
+      "aliases": [],
+      "english": "Legal liability",
+      "notation": null,
+      "meaning": "Trách nhiệm pháp lí là nghĩa vụ mà các chủ thể phải gánh chịu hậu quả bất lợi do Nhà nước quy định từ hành vi vi phạm pháp luật của mình.",
+      "usage_context": "Bài 9, Ghi nhớ mục 2, tr. 46 (PDF 48) — hệ quả pháp lí bắt buộc áp dụng đối với chủ thể vi phạm pháp luật, gồm 4 loại tương ứng.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": null,
+        "pdf_page": 48,
+        "printed_page": 46
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-dac-diem-cua-trach-nhiem-phap-li",
+      "term": "Đặc điểm của trách nhiệm pháp lí",
+      "aliases": [],
+      "english": "Characteristics of legal liability",
+      "notation": null,
+      "meaning": "Trách nhiệm pháp lí là loại trách nhiệm do pháp luật quy định. Trách nhiệm pháp lí chỉ phát sinh khi có chủ thể vi phạm pháp luật. Trách nhiệm pháp lí do cá nhân hoặc cơ quan nhà nước có thẩm quyền áp dụng đối với chủ thể vi phạm pháp luật. Trách nhiệm pháp lí gắn với các biện pháp cưỡng chế của Nhà nước, có giá trị pháp lí bắt buộc thực hiện đối với các chủ thể vi phạm pháp luật. Trách nhiệm pháp lí là hậu quả bất lợi đối với chủ thể vi phạm pháp luật.",
+      "usage_context": "Bài 9, mục 2, tr. 44 (PDF 46) — các dấu hiệu bản chất phân biệt trách nhiệm pháp lí với trách nhiệm đạo đức hay xã hội.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2",
+        "pdf_page": 46,
+        "printed_page": 44
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-trach-nhiem-hinh-su",
+      "term": "Trách nhiệm hình sự",
+      "aliases": [],
+      "english": "Criminal liability",
+      "notation": null,
+      "meaning": "Trách nhiệm hình sự được quy định trong Bộ luật Hình sự. Trách nhiệm hình sự phát sinh khi có chủ thể có hành vi vi phạm hình sự. Trách nhiệm hình sự do Toà án áp dụng đối với chủ thể vi phạm hình sự. Trách nhiệm hình sự tước bỏ quyền, lợi ích của chủ thể vi phạm hình sự. Trách nhiệm hình sự gắn với các biện pháp cưỡng chế như: phạt tiền, phạt tù, tử hình,...",
+      "usage_context": "Bài 9, mục 2, tr. 45 (PDF 47) — loại trách nhiệm pháp lí nghiêm khắc nhất do Toà án áp dụng đối với người hoặc pháp nhân thương mại phạm tội.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2",
+        "pdf_page": 47,
+        "printed_page": 45
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-trach-nhiem-dan-su",
+      "term": "Trách nhiệm dân sự",
+      "aliases": [],
+      "english": "Civil liability",
+      "notation": null,
+      "meaning": "Trách nhiệm dân sự được quy định trong Bộ luật Dân sự và các văn bản quy phạm pháp luật khác có liên quan. Trách nhiệm dân sự phát sinh khi chủ thể có hành vi vi phạm dân sự. Trách nhiệm dân sự do Toà án hoặc chủ thể có thẩm quyền áp dụng đối với chủ thể vi phạm dân sự. Trách nhiệm dân sự buộc chủ thể vi phạm dân sự gánh chịu thiệt hại về tài sản, nhân thân,... để khôi phục tình trạng ban đầu của các quyền dân sự bị vi phạm. Trách nhiệm dân sự gắn với các biện pháp cưỡng chế như: buộc xin lỗi, cải chính công khai; buộc bồi thường thiệt hại; buộc thực hiện nghĩa vụ dân sự;...",
+      "usage_context": "Bài 9, mục 2, tr. 45 (PDF 47) — loại trách nhiệm pháp lí nhằm khôi phục, bồi thường các quyền tài sản và nhân thân bị xâm phạm.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2",
+        "pdf_page": 47,
+        "printed_page": 45
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-trach-nhiem-hanh-chinh",
+      "term": "Trách nhiệm hành chính",
+      "aliases": [],
+      "english": "Administrative liability",
+      "notation": null,
+      "meaning": "Trách nhiệm hành chính được quy định trong Luật Xử lí vi phạm hành chính và các văn bản quy phạm pháp luật khác có liên quan. Trách nhiệm hành chính phát sinh khi chủ thể có hành vi vi phạm hành chính. Trách nhiệm hành chính do các chủ thể và cơ quan nhà nước có thẩm quyền áp dụng đối với chủ thể vi phạm hành chính. Trách nhiệm hành chính buộc chủ thể vi phạm hành chính phải gánh chịu thiệt hại về tài sản, công việc,... Trách nhiệm hành chính gắn liền với các biện pháp cưỡng chế như: phạt tiền; tước quyền sử dụng giấy phép có thời hạn; tịch thu tang vật, phương tiện vi phạm,...",
+      "usage_context": "Bài 9, mục 2, tr. 45 (PDF 47) — loại trách nhiệm pháp lí áp dụng đối với chủ thể vi phạm quy định quản lí hành chính nhà nước.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2",
+        "pdf_page": 47,
+        "printed_page": 45
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-trach-nhiem-ki-luat",
+      "term": "Trách nhiệm kỉ luật",
+      "aliases": [],
+      "english": "Disciplinary liability",
+      "notation": null,
+      "meaning": "Trách nhiệm kỉ luật được quy định trong Bộ luật Lao động; Luật Cán bộ, công chức; Luật Viên chức;... Trách nhiệm kỉ luật phát sinh khi chủ thể có hành vi vi phạm kỉ luật. Trách nhiệm kỉ luật do người đứng đầu cơ quan, tổ chức áp dụng đối với chủ thể vi phạm kỉ luật. Trách nhiệm kỉ luật buộc chủ thể vi phạm kỉ luật phải gánh chịu thiệt hại về danh dự, uy tín, công việc, thu nhập,... Trách nhiệm kỉ luật gắn liền với các biện pháp cưỡng chế như: khiển trách, cảnh cáo, hạ bậc lương, buộc thôi việc,...",
+      "usage_context": "Bài 9, mục 2, tr. 46 (PDF 48) — loại trách nhiệm pháp lí do người đứng đầu cơ quan, tổ chức áp dụng đối với thành viên vi phạm kỉ luật nội bộ.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2",
+        "pdf_page": 48,
+        "printed_page": 46
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-muc-dich-cua-hinh-phat",
+      "term": "Mục đích của hình phạt",
+      "aliases": [],
+      "english": "Purpose of punishment",
+      "notation": null,
+      "meaning": "Hình phạt không chỉ nhằm trừng trị người, pháp nhân thương mại phạm tội mà còn giáo dục họ ý thức tuân theo pháp luật và các quy tắc của cuộc sống, ngăn ngừa họ phạm tội mới; giáo dục người, pháp nhân thương mại khác tôn trọng pháp luật, phòng ngừa và đấu tranh chống tội phạm.",
+      "usage_context": "Bài 9, mục 2, tr. 46 (PDF 48) — quy định tại Điều 31 Bộ luật Hình sự năm 2015 (sửa đổi, bổ sung năm 2017).",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": "2",
+        "pdf_page": 48,
+        "printed_page": 46
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-y-nghia-cua-trach-nhiem-phap-li",
+      "term": "Ý nghĩa của trách nhiệm pháp lí",
+      "aliases": [],
+      "english": "Significance of legal liability",
+      "notation": null,
+      "meaning": "Ý nghĩa của trách nhiệm pháp lí: Thể hiện tính tôn nghiêm của pháp luật. Là sự trừng phạt nghiêm khắc của pháp luật đối với các chủ thể vi phạm pháp luật. Giáo dục mọi người có ý thức tôn trọng pháp luật, tuân theo quy định của pháp luật và các quy tắc của cuộc sống; nâng cao ý thức phòng ngừa và đấu tranh chống tội phạm. Củng cố lòng tin của người dân vào pháp luật. Góp phần duy trì trật tự an toàn xã hội.",
+      "usage_context": "Bài 9, Ghi nhớ mục 3, tr. 47 (PDF 49) — vai trò trừng trị, giáo dục, răn đe và bảo đảm trật tự xã hội của trách nhiệm pháp lí.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b09",
+        "section": null,
+        "pdf_page": 49,
+        "printed_page": 47
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-kinh-doanh",
+      "term": "Kinh doanh",
+      "aliases": [],
+      "english": "Business",
+      "notation": null,
+      "meaning": "Kinh doanh là việc thực hiện liên tục một, một số hoặc tất cả công đoạn của quá trình từ đầu tư, sản xuất đến tiêu thụ sản phẩm hoặc cung ứng dịch vụ trên thị trường nhằm mục đích tìm kiếm lợi nhuận.",
+      "usage_context": "Bài 10, mục 1, tr. 49 (PDF 51) — khái niệm pháp lí – kinh tế xác định bản chất hoạt động kinh doanh vì mục tiêu lợi nhuận.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "1",
+        "pdf_page": 51,
+        "printed_page": 49
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-quyen-tu-do-kinh-doanh",
+      "term": "Quyền tự do kinh doanh",
+      "aliases": [],
+      "english": "Freedom of business",
+      "notation": null,
+      "meaning": "Điều 33 Hiến pháp năm 2013 khẳng định: “Mọi người có quyền tự do kinh doanh trong những ngành nghề mà pháp luật không cấm”. Điều này có nghĩa là: Mọi người có quyền tự do lựa chọn những ngành nghề kinh doanh trong phạm vi những ngành nghề mà pháp luật không cấm. Mọi người có quyền tự do lựa chọn mô hình kinh doanh phù hợp với nhu cầu, điều kiện, khả năng của bản thân; tự do lựa chọn loại hình tổ chức kinh tế để thực hiện hoạt động đầu tư kinh doanh. Mọi người có quyền lựa chọn quy mô kinh doanh; chủ động điều chỉnh quy mô và ngành, nghề kinh doanh.",
+      "usage_context": "Bài 10, mục 1, tr. 49 (PDF 51) và Ghi nhớ mục 1, tr. 52 (PDF 54) — quyền hiến định của mọi người trong lĩnh vực kinh tế theo Điều 33 Hiến pháp năm 2013.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "1",
+        "pdf_page": 51,
+        "printed_page": 49
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-nganh-nghe-cam-dau-tu-kinh-doanh",
+      "term": "Ngành nghề cấm đầu tư kinh doanh",
+      "aliases": [],
+      "english": "Prohibited business lines",
+      "notation": null,
+      "meaning": "Một số ngành nghề cấm đầu tư kinh doanh tại Việt Nam: kinh doanh pháo nổ; kinh doanh mại dâm; kinh doanh dịch vụ đòi nợ; mua, bán người, mô, xác, bộ phận cơ thể người, bào thai người;... (Theo Điều 6 Luật Đầu tư năm 2020).",
+      "usage_context": "Bài 10, mục 1 (Em có biết?), tr. 50 (PDF 52) — giới hạn pháp lí đối với các hoạt động kinh doanh bị nghiêm cấm theo Điều 6 Luật Đầu tư năm 2020.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "1",
+        "pdf_page": 52,
+        "printed_page": 50
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-nganh-nghe-kinh-doanh-co-dieu-kien",
+      "term": "Ngành nghề kinh doanh có điều kiện",
+      "aliases": [],
+      "english": "Conditional business lines",
+      "notation": null,
+      "meaning": "Một số ngành nghề kinh doanh có điều kiện tại Việt Nam: kinh doanh dịch vụ cầm đồ; kinh doanh xăng dầu; kinh doanh rượu; kinh doanh dịch vụ bảo vệ; kinh doanh bảo hiểm; kinh doanh dịch vụ mạng xã hội;... (Theo Phụ lục IV Luật Đầu tư năm 2020).",
+      "usage_context": "Bài 10, mục 1 (Em có biết?), tr. 50 (PDF 52) — nhóm ngành nghề chủ thể kinh doanh phải đáp ứng điều kiện luật định theo Phụ lục IV Luật Đầu tư năm 2020.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "1",
+        "pdf_page": 52,
+        "printed_page": 50
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-thue",
+      "term": "Thuế",
+      "aliases": [],
+      "english": "Tax",
+      "notation": null,
+      "meaning": "Thuế là một khoản nộp ngân sách nhà nước bắt buộc của tổ chức, hộ gia đình, hộ kinh doanh, cá nhân theo quy định của các luật thuế.",
+      "usage_context": "Bài 10, mục 2, tr. 50 (PDF 52) — khái niệm cơ bản về khoản thu bắt buộc vào ngân sách nhà nước.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 52,
+        "printed_page": 50
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-nghia-vu-nop-thue",
+      "term": "Nghĩa vụ nộp thuế",
+      "aliases": [],
+      "english": "Tax payment obligation",
+      "notation": null,
+      "meaning": "Điều 47 Hiến pháp năm 2013 ghi nhận: “Mọi người có nghĩa vụ nộp thuế theo luật định”. Người dân có nghĩa vụ đăng kí thuế, khai thuế, nộp thuế đầy đủ, đúng thời hạn theo quy định của pháp luật.",
+      "usage_context": "Bài 10, mục 2, tr. 51 (PDF 53) và Ghi nhớ mục 2, tr. 52 (PDF 54) — nghĩa vụ hiến định của công dân và tổ chức theo Điều 47 Hiến pháp năm 2013.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 53,
+        "printed_page": 51
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-thue-thu-nhap-ca-nhan",
+      "term": "Thuế thu nhập cá nhân",
+      "aliases": [],
+      "english": "Personal income tax (PIT)",
+      "notation": null,
+      "meaning": "Thuế thu nhập cá nhân: là một khoản nộp ngân sách nhà nước bắt buộc đối với cá nhân khi có thu nhập tính thuế theo quy định của pháp luật thuế.",
+      "usage_context": "Bài 10, mục 2 (Em có biết?), tr. 51 (PDF 53) — loại thuế trực thu đánh vào thu nhập chịu thuế của cá nhân.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 53,
+        "printed_page": 51
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-thue-su-dung-dat-nong-nghiep",
+      "term": "Thuế sử dụng đất nông nghiệp",
+      "aliases": [],
+      "english": "Agricultural land use tax",
+      "notation": null,
+      "meaning": "Thuế sử dụng đất nông nghiệp: là một khoản nộp ngân sách nhà nước bắt buộc đối với tổ chức, cá nhân sử dụng đất nông nghiệp hoặc được giao quyền sử dụng đất nông nghiệp.",
+      "usage_context": "Bài 10, mục 2 (Em có biết?), tr. 51 (PDF 53) — loại thuế thu đối với tổ chức, cá nhân sử dụng hoặc được giao quyền sử dụng đất nông nghiệp.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 53,
+        "printed_page": 51
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-thue-gia-tri-gia-tang",
+      "term": "Thuế giá trị gia tăng",
+      "aliases": [],
+      "english": "Value-added tax (VAT)",
+      "notation": null,
+      "meaning": "Thuế giá trị gia tăng: là một loại thuế gián thu tính trên khoản giá trị tăng thêm của hàng hoá, dịch vụ phát sinh trong quá trình từ sản xuất, lưu thông đến tiêu dùng,...",
+      "usage_context": "Bài 10, mục 2 (Em có biết?), tr. 51 (PDF 53) — loại thuế gián thu phổ biến tính trên phần giá trị tăng thêm của hàng hoá, dịch vụ.",
+      "scope": "lesson",
+      "source_status": "in_source",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 53,
+        "printed_page": 51
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-hanh-vi-tron-thue",
+      "term": "Hành vi trốn thuế",
+      "aliases": [],
+      "english": "Tax evasion",
+      "notation": null,
+      "meaning": "Người thực hiện hành vi trốn thuế có thể bị phạt tiền từ 100.000.000 đồng đến 500.000.000 đồng hoặc phạt tù từ 03 tháng đến 07 năm. Người phạm tội còn có thể bị cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm hoặc tịch thu một phần hoặc toàn bộ tài sản. (Theo Khoản 1, 2, 3, 4 Điều 200 Bộ luật Hình sự năm 2015 (sửa đổi, bổ sung năm 2017)).",
+      "usage_context": "Bài 10, mục 2 (Em có biết?), tr. 51 (PDF 53) — chế tài hình sự đối với tội trốn thuế theo Điều 200 Bộ luật Hình sự.",
+      "scope": "lesson",
+      "source_status": "described",
+      "reference": null,
+      "location": {
+        "lesson_id": "b10",
+        "section": "2",
+        "pdf_page": 53,
+        "printed_page": 51
+      },
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-ma-so-thue",
+      "term": "Mã số thuế",
+      "aliases": [],
+      "english": "Tax identification number (TIN)",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 10, Ghi nhớ mục 2, tr. 52 (PDF 54) — xuất hiện trong quy định người nộp thuế phải đăng kí thuế và sử dụng mã số thuế theo quy định.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "SGK Giáo dục Kinh tế và Pháp luật 12, Bảng thuật ngữ, trang PDF 139",
+      "location": null,
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    },
+    {
+      "id": "giao-duc-cong-dan-9-ho-so-thue",
+      "term": "Hồ sơ thuế",
+      "aliases": [],
+      "english": "Tax dossier",
+      "notation": null,
+      "meaning": null,
+      "usage_context": "Bài 10, Ghi nhớ mục 2, tr. 52 (PDF 54) — xuất hiện trong quy định người nộp thuế chịu trách nhiệm về tính chính xác, trung thực, đầy đủ của hồ sơ thuế.",
+      "scope": "lesson",
+      "source_status": "out_of_source",
+      "reference": "SGK Giáo dục Kinh tế và Pháp luật 12, Bảng thuật ngữ, trang PDF 139",
+      "location": null,
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "note_ids": []
+    }
+  ],
+  "source_notes": [
+    {
+      "id": "tu-dien-gdcd-9#1",
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "number": 1,
+      "status": "closed",
+      "lesson_id": "b01",
+      "section": null,
+      "pdf_page": 10,
+      "term_ids": [],
+      "issue": "Cuối câu danh ngôn ở trang in 8 (PDF 10) sách in tên tác giả là `(Lev Nikolayevich Tolsoy)` (thiếu chữ `t` so với `Tolstoy`)",
+      "resolution": "Giữ nguyên văn theo đúng bản in SGK ở Tầng 1 theo quy tắc bảo toàn nguyên bản",
+      "resolved_on": "2026-11-21"
+    },
+    {
+      "id": "tu-dien-gdcd-9#2",
+      "dictionary": "Tu-dien-GDCD-9.md",
+      "number": 2,
+      "status": "closed",
+      "lesson_id": "b05",
+      "section": "2",
+      "pdf_page": 28,
+      "term_ids": [],
+      "issue": "Hộp thông tin 1 ở trang in 26 (PDF 28) sách in `Chiến tranh thế giới hai (1939 – 1945)` ở câu đầu và `Chiến tranh thế giới thứ hai` ở câu tiếp theo",
+      "resolution": "Giữ nguyên văn cách in của SGK ở Tầng 1",
+      "resolved_on": "2026-11-21"
+    }
+  ]
+}

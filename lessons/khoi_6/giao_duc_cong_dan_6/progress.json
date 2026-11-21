@@ -1,0 +1,298 @@
+{
+  "unit": "giao_duc_cong_dan_6",
+  "subject": "giao_duc_cong_dan",
+  "subject_name": "Giáo dục công dân",
+  "grade": 6,
+  "files": [
+    {
+      "file": "SGK Giao duc cong dan 6 KNTT.pdf",
+      "volume": null,
+      "page_count": 61,
+      "printed_offset": 1
+    }
+  ],
+  "toc": [
+    {
+      "id": "huong-dan",
+      "role": "front_matter",
+      "kind": "huong_dan",
+      "label": null,
+      "number": null,
+      "title": "Hướng dẫn sử dụng sách",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+      "pdf_pages": [
+        3,
+        3
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "loi-noi-dau",
+      "role": "front_matter",
+      "kind": "loi_noi_dau",
+      "label": null,
+      "number": null,
+      "title": "Lời nói đầu",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+      "pdf_pages": [
+        4,
+        4
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "muc-luc",
+      "role": "front_matter",
+      "kind": "muc_luc",
+      "label": null,
+      "number": null,
+      "title": "Mục lục",
+      "file": null,
+      "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+      "pdf_pages": [
+        5,
+        5
+      ],
+      "status": "skip"
+    },
+    {
+      "id": "p01",
+      "role": "group",
+      "kind": "phan",
+      "label": null,
+      "number": null,
+      "title": "Nội dung bài học",
+      "dir": "Bai-hoc",
+      "children": [
+        {
+          "id": "b01",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 1",
+          "number": 1,
+          "title": "Tự hào về truyền thống gia đình, dòng họ",
+          "lesson_type": "ly_thuyet",
+          "file": "B01-Tu-hao-ve-truyen-thong-gia-dinh-dong-ho.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            6,
+            9
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b02",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 2",
+          "number": 2,
+          "title": "Yêu thương con người",
+          "lesson_type": "ly_thuyet",
+          "file": "B02-Yeu-thuong-con-nguoi.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            10,
+            13
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b03",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 3",
+          "number": 3,
+          "title": "Siêng năng, kiên trì",
+          "lesson_type": "ly_thuyet",
+          "file": "B03-Sieng-nang-kien-tri.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            14,
+            17
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b04",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 4",
+          "number": 4,
+          "title": "Tôn trọng sự thật",
+          "lesson_type": "ly_thuyet",
+          "file": "B04-Ton-trong-su-that.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            18,
+            22
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b05",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 5",
+          "number": 5,
+          "title": "Tự lập",
+          "lesson_type": "ly_thuyet",
+          "file": "B05-Tu-lap.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            23,
+            26
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b06",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 6",
+          "number": 6,
+          "title": "Tự nhận thức bản thân",
+          "lesson_type": "ly_thuyet",
+          "file": "B06-Tu-nhan-thuc-ban-than.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            27,
+            30
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b07",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 7",
+          "number": 7,
+          "title": "Ứng phó với tình huống nguy hiểm",
+          "lesson_type": "ly_thuyet",
+          "file": "B07-Ung-pho-voi-tinh-huong-nguy-hiem.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            31,
+            35
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b08",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 8",
+          "number": 8,
+          "title": "Tiết kiệm",
+          "lesson_type": "ly_thuyet",
+          "file": "B08-Tiet-kiem.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            36,
+            41
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b09",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 9",
+          "number": 9,
+          "title": "Công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+          "lesson_type": "ly_thuyet",
+          "file": "B09-Cong-dan-nuoc-Cong-hoa-xa-hoi-chu-nghia-Viet-Nam.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            42,
+            45
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b10",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 10",
+          "number": 10,
+          "title": "Quyền và nghĩa vụ cơ bản của công dân",
+          "lesson_type": "ly_thuyet",
+          "file": "B10-Quyen-va-nghia-vu-co-ban-cua-cong-dan.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            46,
+            50
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b11",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 11",
+          "number": 11,
+          "title": "Quyền cơ bản của trẻ em",
+          "lesson_type": "ly_thuyet",
+          "file": "B11-Quyen-co-ban-cua-tre-em.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            51,
+            55
+          ],
+          "status": "verified"
+        },
+        {
+          "id": "b12",
+          "role": "lesson",
+          "kind": "bai",
+          "label": "Bài 12",
+          "number": 12,
+          "title": "Thực hiện quyền trẻ em",
+          "lesson_type": "ly_thuyet",
+          "file": "B12-Thuc-hien-quyen-tre-em.md",
+          "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+          "pdf_pages": [
+            56,
+            59
+          ],
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bang-tra-cuu",
+      "role": "back_matter",
+      "kind": "bang_tra_cuu",
+      "label": null,
+      "number": null,
+      "title": "Một số thuật ngữ dùng trong sách",
+      "file": "Mot-so-thuat-ngu-dung-trong-sach.md",
+      "source_file": "SGK Giao duc cong dan 6 KNTT.pdf",
+      "pdf_pages": [
+        60,
+        60
+      ],
+      "status": "verified"
+    }
+  ],
+  "notes": [
+    "SGK Giáo dục công dân 6 KNTT không chia Chương/Chủ đề trong Mục lục mà gồm 12 bài học liên tiếp (Bài 1–12), gom vào nhóm 'Nội dung bài học' (thư mục Bai-hoc).",
+    "Độ lệch trang in cố định xuyên suốt: trang PDF = trang in + 1."
+  ],
+  "audits": [
+    {
+      "date": "2026-11-21",
+      "scope": [
+        "p01",
+        "bang-tra-cuu"
+      ],
+      "terms": 70,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán Cổng 4 toàn bộ 12 Bài học (Bài 1–12) và Một số thuật ngữ dùng trong sách (70 thuật ngữ: 35 in_source, 31 [mô tả], 4 Ngoài nguồn; 37 hình minh hoạ): lấy mẫu phân tầng 30 mục (10 in_source, 10 [mô tả], 10 hình minh hoạ, seed 20261121) đối chiếu trực tiếp ảnh trang PDF gốc, sạch hoàn toàn watermark (0% lỗi)."
+    }
+  ],
+  "last_session_note": "2026-11-21: Hoàn thành 100% giao_duc_cong_dan_6 từ Cổng 0 đến Cổng 4 (70 thuật ngữ, 0% lỗi tồn đọng)."
+}

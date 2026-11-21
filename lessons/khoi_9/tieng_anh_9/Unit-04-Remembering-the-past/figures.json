@@ -1,0 +1,18 @@
+{
+  "H9-tieng_anh-u04-01": {
+    "pdf_page": 40,
+    "bbox": [489, 79, 578, 392],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Dải nền màu cam chứa 5 ảnh minh hoạ bài tập 4 nối liền trực tiếp vào dải lề màu vàng cam bên phải trang sách tại x=580; giữ x1=578 (khung cắt x=582) để lấy trọn vẹn viền phải của 5 ảnh mà không cắt hụt hình"
+  },
+  "H9-tieng_anh-u04-02": {
+    "pdf_page": 45,
+    "bbox": [302, 118, 570, 462]
+  },
+  "H9-tieng_anh-u04-03": {
+    "pdf_page": 46,
+    "bbox": [52, 167, 301, 352],
+    "allow_edge_ink": true,
+    "edge_ink_note": "Mép phải của ảnh a vươn tới x=305 sát cạnh trái ô số 4 phần Writing ở cột phải (x=305); giữ x1=301 (khung cắt x=305) để lấy trọn vẹn ảnh a mà không dính chữ cột phải"
+  }
+}

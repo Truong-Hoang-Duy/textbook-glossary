@@ -1,0 +1,64 @@
+{
+  "H9-khoa_hoc_tu_nhien-b14-01": {
+    "pdf_page": 69,
+    "bbox": [82, 516, 517, 688]
+  },
+  "H9-khoa_hoc_tu_nhien-b14-02": {
+    "pdf_page": 70,
+    "bbox": [66, 131, 524, 276]
+  },
+  "H9-khoa_hoc_tu_nhien-b14-03": {
+    "pdf_page": 70,
+    "bbox": [327, 407, 525, 609]
+  },
+  "H9-khoa_hoc_tu_nhien-b14-04": {
+    "pdf_page": 71,
+    "bbox": [317, 90, 525, 232],
+    "allow_edge_ink": true,
+    "edge_ink_note": "vòng tròn phóng đại Đèn LED ở góc phải trên sát chân chữ tiêu đề Thí nghiệm 3 phía trên"
+  },
+  "H9-khoa_hoc_tu_nhien-b14-05": {
+    "pdf_page": 71,
+    "bbox": [350, 353, 530, 445]
+  },
+  "H9-khoa_hoc_tu_nhien-b14-06": {
+    "pdf_page": 71,
+    "bbox": [374, 486, 534, 657]
+  },
+  "H9-khoa_hoc_tu_nhien-b14-07": {
+    "pdf_page": 72,
+    "bbox": [345, 175, 535, 332]
+  },
+  "H9-khoa_hoc_tu_nhien-b14-08": {
+    "pdf_page": 72,
+    "bbox": [274, 515, 531, 772]
+  },
+  "H9-khoa_hoc_tu_nhien-b14-09": {
+    "pdf_page": 73,
+    "bbox": [318, 155, 516, 310]
+  },
+  "H9-khoa_hoc_tu_nhien-b15-01": {
+    "pdf_page": 74,
+    "bbox": [311, 402, 520, 562]
+  },
+  "H9-khoa_hoc_tu_nhien-b15-02": {
+    "pdf_page": 75,
+    "bbox": [76, 70, 353, 218]
+  },
+  "H9-khoa_hoc_tu_nhien-b15-03": {
+    "pdf_page": 75,
+    "bbox": [363, 70, 527, 218]
+  },
+  "H9-khoa_hoc_tu_nhien-b15-04": {
+    "pdf_page": 75,
+    "bbox": [256, 402, 531, 556]
+  },
+  "H9-khoa_hoc_tu_nhien-b15-05": {
+    "pdf_page": 75,
+    "bbox": [370, 598, 531, 734]
+  },
+  "H9-khoa_hoc_tu_nhien-b15-06": {
+    "pdf_page": 76,
+    "bbox": [315, 207, 526, 376]
+  }
+}
