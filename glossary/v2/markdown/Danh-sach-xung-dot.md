@@ -8,6 +8,8 @@ Các trường hợp trùng tên Tiếng Việt nhưng khác bản chất khái 
 | center of gravity | Trọng tâm | Đồng âm Tiếng Việt liên môn | `centroid of a triangle` (Toán học) vs `center of gravity` (Vật lí) | Đã đóng (tách theo chuyên ngành) |
 | period | Chu kì | Đồng âm Tiếng Việt liên môn | `repetend` (Toán học) vs `period` (Vật lí) | Đã đóng (tách theo chuyên ngành) |
 | coordinate axes | Trục toạ độ | Đồng âm Tiếng Việt liên môn | `coordinate axis` (Toán học) vs `coordinate axes` (Vật lí) | Đã đóng (tách theo chuyên ngành) |
+| refracting edge of a prism | Cạnh | Đồng âm Tiếng Việt liên môn | `side` (Toán học) vs `refracting edge of a prism` (Vật lí) | Đã đóng (tách theo chuyên ngành) |
+| focal length | Tiêu cự | Đồng âm Tiếng Việt liên môn | `focal distance` (Toán học) vs `focal length` (Vật lí) | Đã đóng (tách theo chuyên ngành) |
 | modelling method | Phương pháp mô hình | Đồng âm Tiếng Việt liên môn | `modeling method` (Vật lí) vs `modelling method` (Hóa học) | Đã đóng (tách theo chuyên ngành) |
 | negative electrode | Cực âm | Đồng âm Tiếng Việt liên môn | `negative terminal` (Vật lí) vs `negative electrode` (Hóa học) | Đã đóng (tách theo chuyên ngành) |
 | positive electrode | Cực dương | Đồng âm Tiếng Việt liên môn | `positive terminal` (Vật lí) vs `positive electrode` (Hóa học) | Đã đóng (tách theo chuyên ngành) |
@@ -15,6 +17,7 @@ Các trường hợp trùng tên Tiếng Việt nhưng khác bản chất khái 
 | macronutrient | Nguyên tố đa lượng | Đồng âm Tiếng Việt liên môn | `macronutrient element` (Hóa học) vs `macronutrient` (Sinh học) | Đã đóng (tách theo chuyên ngành) |
 | trace element | Nguyên tố vi lượng | Đồng âm Tiếng Việt liên môn | `micronutrient element` (Hóa học) vs `trace element` (Sinh học) | Đã đóng (tách theo chuyên ngành) |
 | light microscope | Kính hiển vi quang học | Đồng âm Tiếng Việt liên môn | `optical microscope` (Vật lí) vs `light microscope` (Sinh học) | Đã đóng (tách theo chuyên ngành) |
+| genetic variation | Biến dị di truyền | Đồng âm Tiếng Việt nội môn (Sinh học) | Khác khái niệm giữa `heritable variation` và `genetic variation` | Đã đóng (giữ 2 mục riêng) |
 | computer virus | Virus | Đồng âm Tiếng Việt liên môn | `virus` (Sinh học) vs `computer virus` (Tin học) | Đã đóng (tách theo chuyên ngành) |
 | layer | Lớp | Đồng âm Tiếng Việt liên môn | `digit period` (Toán học) vs `layer` (Tin học) | Đã đóng (tách theo chuyên ngành) |
 | floating-point data type | Số thực | Đồng âm Tiếng Việt liên môn | `real number` (Toán học) vs `floating-point data type` (Tin học) | Đã đóng (tách theo chuyên ngành) |
@@ -27,14 +30,22 @@ Các trường hợp trùng tên Tiếng Việt nhưng khác bản chất khái 
 | endogenic force | Nội lực | Đồng âm Tiếng Việt liên môn | `internal force` (Vật lí) vs `endogenic force` (Địa lí) | Đã đóng (tách theo chuyên ngành) |
 | exogenic force | Ngoại lực | Đồng âm Tiếng Việt liên môn | `external force` (Vật lí) vs `exogenic force` (Địa lí) | Đã đóng (tách theo chuyên ngành) |
 | maritime baseline | Đường cơ sở | Đồng âm Tiếng Việt liên môn | `typographic baseline` (Tin học) vs `maritime baseline` (Địa lí) | Đã đóng (tách theo chuyên ngành) |
+| terraced field | Ruộng bậc thang | Đồng âm Tiếng Việt liên môn | `terraced fields` (Địa lí) vs `terraced field` (Lịch sử) | Đã đóng (tách theo chuyên ngành) |
+| archaic human | Người tối cổ | Đồng âm Tiếng Việt liên môn | `Australopithecus` (Sinh học) vs `archaic human` (Lịch sử) | Đã đóng (tách theo chuyên ngành) |
 | equal-field system | Chế độ quân điền | Đồng âm Tiếng Việt nội môn (Lịch sử) | Khác khái niệm giữa `equal-field land distribution system` và `equal-field system` | Đã đóng (giữ 2 mục riêng) |
 | service | Dịch vụ | Đồng âm Tiếng Việt liên môn | `services` (Địa lí) vs `service` (Giáo dục Kinh tế và Pháp luật) | Đã đóng (tách theo chuyên ngành) |
+| supply | Cung | Đồng âm Tiếng Việt liên môn | `disk sector` (Tin học) vs `supply` (Giáo dục Kinh tế và Pháp luật) | Đã đóng (tách theo chuyên ngành) |
 | right of use | Quyền sử dụng | Đồng âm Tiếng Việt liên môn | `software license` (Tin học) vs `right of use` (Giáo dục Kinh tế và Pháp luật) | Đã đóng (tách theo chuyên ngành) |
+| respect | Tôn trọng | Đồng âm Tiếng Việt liên môn | `respect in cyberspace` (Tin học) vs `respect` (Giáo dục Kinh tế và Pháp luật) | Đã đóng (tách theo chuyên ngành) |
+| thrift | Tiết kiệm | Đồng âm Tiếng Việt nội môn (Giáo dục Kinh tế và Pháp luật) | Khác khái niệm giữa `saving` và `thrift` | Đã đóng (giữ 2 mục riêng) |
+| preservation | Bảo tồn | Đồng âm Tiếng Việt liên môn | `conservation` (Lịch sử) vs `preservation` (Giáo dục Kinh tế và Pháp luật) | Đã đóng (tách theo chuyên ngành) |
 | narrative event | Sự kiện | Đồng âm Tiếng Việt liên môn | `event` (Toán học) vs `narrative event` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |
 | symbol | Biểu tượng | Đồng âm Tiếng Việt liên môn | `icon` (Tin học) vs `symbol` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |
 | main theme | Chủ đề chính | Đồng âm Tiếng Việt liên môn | `central topic` (Tin học) vs `main theme` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |
 | minutes | Biên bản | Đồng âm Tiếng Việt liên môn | `log file` (Tin học) vs `minutes` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |
+| narrative situation | Tình huống | Đồng âm Tiếng Việt liên môn | `situation` (Giáo dục Kinh tế và Pháp luật) vs `narrative situation` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |
 | artistic time | Thời gian | Đồng âm Tiếng Việt liên môn | `time` (Vật lí) vs `artistic time` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |
 | cohesion | Liên kết | Đồng âm Tiếng Việt liên môn | `join operation` (Tin học) vs `cohesion` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |
 | tonal regulation | Luật | Đồng âm Tiếng Việt liên môn | `statute` (Giáo dục Kinh tế và Pháp luật) vs `tonal regulation` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |
 | military proclamation | Hịch | Đồng âm Tiếng Việt liên môn | `call-to-arms proclamation` (Lịch sử) vs `military proclamation` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |
+| Nom script | Chữ Nôm | Đồng âm Tiếng Việt liên môn | `Chu Nom script` (Lịch sử) vs `Nom script` (Ngữ văn) | Đã đóng (tách theo chuyên ngành) |

@@ -686,7 +686,8 @@
       "terms": 483,
       "sample": 30,
       "errors": 0,
-      "fixed": 0
+      "fixed": 0,
+      "note": "Kiểm tra mẫu 30 mục đối chiếu trực tiếp ảnh trang PDF gốc trên cả 5 chương và bảng giải thích thuật ngữ cuối sách: 0 lỗi (0% sai)."
     }
   ],
   "last_session_note": "Hoàn thành 100% sinh_11: 34 file Tầng 1 verified (29 bài học + 4 sơ đồ tóm tắt chương + 1 bảng giải thích thuật ngữ), 169 hình ảnh 300 DPI sạch biên, 5 từ điển Tầng 2 với 483 thuật ngữ (288 in_source, 159 described, 36 out_of_source, 24 ghi chú nguồn đóng, 0 ghi chú mở), kiểm tra mẫu 30 mục 0% lỗi, xuất dataset/sinh_11.json đạt chuẩn."

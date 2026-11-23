@@ -27,7 +27,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A comprehensive measure of population change within a territory, calculated as the sum of natural population growth and mechanical population growth (expressed as a percentage). Between its two components, natural population growth remains the primary driving force of demographic development.
 - **Giải thích (VI):** Thước đo phản ánh đầy đủ biến động quy mô dân số của một lãnh thổ, tính bằng tổng của tỉ suất gia tăng dân số tự nhiên và gia tăng dân số cơ học (đơn vị tính là %). Giữa hai bộ phận cấu thành này, gia tăng dân số tự nhiên vẫn giữ vai trò là động lực chủ yếu của sự phát triển dân số.
 - **Bối cảnh:** Địa lí lớp 10, Bài 19 (Mục 2.c): Thước đo tổng hợp phản ánh đầy đủ mức tăng giảm dân số của một lãnh thổ.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.c), tr. 56
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.c), tr. 56; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.a), tr. 56; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.b), tr. 56
 
 ### advantages of the knowledge-based economy
 - **Tiếng Việt:** Lợi thế của nền kinh tế tri thức
@@ -43,7 +43,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The two fundamental production activities of forestry aimed at harvesting timber and forest products for economic needs while regenerating forest resources and protecting the environment. Global planted forest area has steadily expanded (from 17.8 million ha in 1980 to 293.9 million ha in 2019), concentrating alongside the largest roundwood production volumes in the United States, India, China, Brazil, and Russia.
 - **Giải thích (VI):** Hai nhóm hoạt động sản xuất cơ bản của ngành lâm nghiệp nhằm khai thác gỗ, lâm sản phục vụ kinh tế đồng thời tái tạo tài nguyên rừng và bảo vệ môi trường. Diện tích rừng trồng trên thế giới ngày càng mở rộng (từ 17,8 triệu ha năm 1980 lên 293,9 triệu ha năm 2019), tập trung cùng sản lượng gỗ khai thác lớn nhất ở Hoa Kỳ, Ấn Độ, Trung Quốc, Bra-xin và Liên bang Nga.
 - **Bối cảnh:** Địa lí lớp 10, Bài 25 (Mục 1.c): thực trạng mở rộng diện tích rừng trồng và phân bố sản lượng khai thác gỗ trên thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 1.c), tr. 74
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 1.c), tr. 74; SGK Địa lí 10 KNTT, Phần ba, B25, tr. 73; SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 1.a), tr. 73; SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 1.b), tr. 73
+
+### afforestation, forest regeneration and protection in Vietnam
+- **Tiếng Việt:** Trồng rừng, khoanh nuôi và bảo vệ rừng ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Silvicultural activities aimed at expanding and conserving forest resources in Vietnam, highlighted by approximately 304 thousand hectares of newly planted forest in 2024 (over 97% of which was production forest). Alongside afforestation, Vietnam intensifies natural forest regeneration and strictly manages its network of national parks and nature reserves.
+- **Giải thích (VI):** Nhóm hoạt động lâm sinh nhằm phát triển và bảo tồn tài nguyên rừng ở Việt Nam, nổi bật với diện tích rừng trồng mới đạt khoảng 304 nghìn ha năm 2024 (trong đó rừng sản xuất chiếm hơn 97%). Song song với trồng rừng, nước ta đẩy mạnh khoanh nuôi phục hồi rừng tự nhiên và quản lí chặt chẽ hệ thống vườn quốc gia, khu bảo tồn thiên nhiên.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 6 (Mục 1.b): Đánh giá kết quả công tác trồng rừng mới, khoanh nuôi rừng tự nhiên và bảo vệ rừng ở nước ta.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 137, 138; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 137; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 137
+
+### aged population
+- **Tiếng Việt:** Dân số già
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A demographic age structure defined when the population group aged 65 and older accounts for 14% to under 21% of the total population.
+- **Giải thích (VI):** Trạng thái cơ cấu dân số theo tuổi xác định khi tỉ lệ nhóm dân số từ 65 tuổi trở lên chiếm từ 14% đến dưới 21% tổng số dân.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 1 (Mục 2.b): Phân biệt ngưỡng nhân khẩu học của giai đoạn dân số già với giai đoạn già hoá dân số.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.b), tr. 118; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1.c), tr. 118; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.a), tr. 118
 
 ### aging population structure
 - **Tiếng Việt:** Cơ cấu dân số già
@@ -62,7 +78,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 26 (Mục 1.b): cấp độ cao nhất trong hệ thống các hình thức tổ chức lãnh thổ nông nghiệp.
   - Địa lí lớp 12, Bài 13 (Mục III): khái niệm và cơ sở phân chia 7 vùng nông nghiệp ở Việt Nam.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.b), tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.b), tr. 77; SGK Địa lí 12 KNTT, Phần 3, B13, tr. 62; SGK Địa lí 12 KNTT, Phần 3, B13 (Mục II), tr. 63; SGK Địa lí 12 KNTT, Phần 3, B13 (Mục III), tr. 63, 64
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.b), tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.b), tr. 77; SGK Địa lí 10 KNTT, Phần ba, B26, tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.a), tr. 76; SGK Địa lí 12 KNTT, Phần 3, B13, tr. 62; SGK Địa lí 12 KNTT, Phần 3, B13 (Mục II), tr. 63; SGK Địa lí 12 KNTT, Phần 3, B13 (Mục III), tr. 63, 64; SGK Địa lí 12 KNTT, Phần 3, B13 (Mục I), tr. 63
 
 ### agricultural restructuring
 - **Tiếng Việt:** Chuyển dịch cơ cấu nông nghiệp
@@ -70,7 +86,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The process of shifting agricultural production value structure towards reducing the share of crop production while increasing the shares of livestock production and agricultural services. Concurrently, farming methods shift strongly toward large-scale concentrated commodity production applying science and technology for smart, sustainable agriculture integrated into global value chains.
 - **Giải thích (VI):** Quá trình thay đổi cơ cấu giá trị sản xuất nông nghiệp theo hướng giảm tỉ trọng ngành trồng trọt, tăng tỉ trọng ngành chăn nuôi và dịch vụ nông nghiệp. Đồng thời, phương thức sản xuất chuyển mạnh sang sản xuất hàng hoá tập trung quy mô lớn, ứng dụng khoa học – công nghệ hướng tới nông nghiệp thông minh, bền vững và tham gia sâu vào chuỗi giá trị toàn cầu.
 - **Bối cảnh:** Địa lí lớp 12, Bài 11 (Mục II): xu hướng biến đổi cơ cấu giá trị sản xuất và phương thức sản xuất nông nghiệp của Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B11 (Mục I.2.a), tr. 50; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục II), tr. 51
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B11 (Mục I.2.a), tr. 50; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục II), tr. 51; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục I.1.b), tr. 50; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục I.2.b), tr. 50
 
 ### agriculture
 - **Tiếng Việt:** Nông nghiệp
@@ -112,7 +128,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The traditional tropical agricultural sector across most Southeast Asian countries, dominated by crop cultivation featuring staple rice (190.1 million tons in 2020), industrial crops (notably rubber at 10.7 million tons in 2020), and fruit trees, alongside livestock and poultry farming.
 - **Giải thích (VI):** Ngành sản xuất nông nghiệp nhiệt đới truyền thống của phần lớn các nước Đông Nam Á, trong đó trồng trọt giữ vai trò chủ đạo với các cây trồng chính là lúa gạo (190,1 triệu tấn năm 2020), cây công nghiệp (tiêu biểu là cao su đạt 10,7 triệu tấn năm 2020) và cây ăn quả, kết hợp với phát triển chăn nuôi gia súc, gia cầm.
 - **Bối cảnh:** Địa lí lớp 11, Bài 12 (Mục II.1.a): Trình bày cơ cấu và sản phẩm chủ lực của ngành nông nghiệp khu vực Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.1), tr. 54; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.1.a), tr. 56
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.1), tr. 54; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.1.a), tr. 56; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục I), tr. 54; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II), tr. 54
 
 ### agriculture of Southwest Asia
 - **Tiếng Việt:** Nông nghiệp khu vực Tây Nam Á
@@ -128,7 +144,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A primary production sector within agriculture, forestry, and fisheries (contributing 2.5% of GDP in 2020) that plays an important role in generating employment and supplying agricultural exports for the Republic of South Africa. Production encompasses both crop cultivation and livestock farming, featuring key commodities such as maize, wheat, sugarcane, tropical and subtropical fruits, cattle, and sheep.
 - **Giải thích (VI):** Ngành sản xuất vật chất thuộc khu vực nông, lâm, thuỷ sản (chiếm 2,5% GDP năm 2020) có vai trò quan trọng trong giải quyết việc làm và tạo nguồn nông sản xuất khẩu cho Cộng hoà Nam Phi. Sản xuất bao gồm cả trồng trọt và chăn nuôi với các nông sản chủ lực như ngô, lúa mì, mía, cây ăn quả nhiệt đới – cận nhiệt cùng chăn nuôi bò, cừu.
 - **Bối cảnh:** Địa lí lớp 11, Bài 31 (Mục II.1.a): Vai trò kinh tế – xã hội và các nông sản trồng trọt, chăn nuôi chính của Cộng hoà Nam Phi.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.1.a), tr. 159; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.1.a), tr. 161
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.1.a), tr. 159; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.1.a), tr. 161; SGK Địa lí 11 KNTT, Phần hai, B31, tr. 159; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục I), tr. 159
 
 ### agriculture of the Russian Federation
 - **Tiếng Việt:** Nông nghiệp Liên bang Nga
@@ -152,7 +168,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A form of territorial organization of agriculture closely integrating households, farms, and cooperatives with industrial enterprises within a defined territory. This model focuses on producing one or a group of products through synchronized linkages between raw material production zones and processing facilities.
 - **Giải thích (VI):** Hình thức tổ chức lãnh thổ nông nghiệp kết hợp chặt chẽ giữa các hộ gia đình, trang trại, hợp tác xã với các xí nghiệp công nghiệp trên một lãnh thổ nhất định. Hình thức này tập trung sản xuất một hoặc một nhóm sản phẩm trên cơ sở liên kết đồng bộ giữa vùng sản xuất nguyên liệu với các cơ sở chế biến.
 - **Bối cảnh:** Địa lí lớp 10, Bài 26 (Mục 1.b): hình thức tổ chức lãnh thổ nông nghiệp gắn kết sản xuất nguyên liệu với công nghiệp chế biến.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.b), tr. 76
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.b), tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26, tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.a), tr. 76
 
 ### air humidity
 - **Tiếng Việt:** Độ ẩm không khí
@@ -198,7 +214,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A relatively young yet rapidly growing transport mode featuring modern aircraft capable of high speeds, long-haul flights, and high safety (carrying over 4.4 billion passengers in 2019), while facing air pollution challenges. Its busiest routes span the Atlantic (linking Europe and the Americas) and connect the United States with the Asia-Pacific region, anchored by major international airports such as Atlanta, Beijing, Los Angeles, and Dubai.
 - **Giải thích (VI):** Loại hình giao thông vận tải ra đời muộn nhưng phát triển nhanh chóng với đội tàu bay hiện đại có tốc độ cao, bay quãng đường xa, độ an toàn lớn (vận chuyển hơn 4,4 tỉ lượt khách năm 2019), song cũng đặt ra yêu cầu bảo vệ môi trường không khí. Các tuyến bay nhộn nhịp nhất kết nối xuyên Đại Tây Dương (châu Âu – châu Mỹ) và nối Hoa Kỳ với châu Á – Thái Bình Dương, với các cảng hàng không lớn như Át-lan-ta, Bắc Kinh, Lốt An-giơ-lét và Đu-bai.
 - **Bối cảnh:** Địa lí lớp 10, Bài 34 (Mục 3.c): trình bày đặc điểm phát triển nhanh và các tuyến, cảng hàng không lớn trên thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.c), tr. 96
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.c), tr. 96; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.d), tr. 96, 97; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.e), tr. 97
 
 ### airspace of Vietnam
 - **Tiếng Việt:** Vùng trời Việt Nam (vùng trời)
@@ -217,6 +233,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nhóm đất chiếm khoảng 24% diện tích đất tự nhiên của Việt Nam, hình thành từ sản phẩm bồi đắp của phù sa sông và phù sa biển tại đồng bằng sông Hồng, đồng bằng sông Cửu Long và các đồng bằng duyên hải miền Trung. Đất nhìn chung có độ phì cao và rất giàu chất dinh dưỡng, thuận lợi phát triển cây lương thực, cây công nghiệp hằng năm, cây ăn quả và thuỷ sản.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 9 (Mục 2.b): Đánh giá đặc điểm và giá trị kinh tế của nhóm đất chính ở các vùng đồng bằng Việt Nam.
 - **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 1), tr. 135; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 137; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 137, 138
+
+### alluvial soil group in the Mekong River Delta
+- **Tiếng Việt:** Nhóm đất phù sa Đồng bằng sông Cửu Long
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Predominant soil group in the Mekong River Delta comprising three main types: fertile sweet alluvial soil along the Tien and Hau rivers, acid sulfate soil in Dong Thap Muoi, the Long Xuyen Quadrangle, and low-lying parts of the Ca Mau Peninsula, and saline soil along the coast. Sweet alluvial soil directly supports intensive crop farming, whereas acid sulfate and saline soils can be reclaimed for crops, aquaculture, or coastal forestry.
+- **Giải thích (VI):** Nhóm đất chủ đạo ở vùng Đồng bằng sông Cửu Long gồm ba loại chính: đất phù sa sông màu mỡ phân bố dọc sông Tiền và sông Hậu, đất phèn tập trung ở Đồng Tháp Mười, Tứ giác Long Xuyên, vùng trũng bán đảo Cà Mau và đất mặn ở ven biển. Đất phù sa sông rất thuận lợi cho canh tác nông nghiệp, trong khi đất phèn và đất mặn cần cải tạo để trồng trọt, nuôi trồng thuỷ sản hoặc phát triển rừng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 19 (Mục 2): Tài nguyên đất nền tảng quy định sự phân bố cây trồng, nuôi trồng thuỷ sản và yêu cầu thuỷ lợi cải tạo đất ở Đồng bằng sông Cửu Long.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B19, tr. 205; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B19 (Mục 1), tr. 205; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B19 (Mục 2.a), tr. 205, 206
 
 ### alluvial soils of the Mekong Delta
 - **Tiếng Việt:** Đất phù sa ở đồng bằng sông Cửu Long (đất phù sa ngọt; đất phèn; đất mặn)
@@ -251,7 +275,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The corresponding vertical succession of vegetation belts and soil zones from the foot to the summit of a mountain driven by altitudinal changes in heat and moisture. On the western slope of the Caucasus Mountains, for example, belts transition sequentially from foothill sclerophyllous forest on reddish-brown soil through mixed forest, coniferous forest, alpine meadow, and lichens with shrubs on primitive stony soil to perennial snow and ice above 2,800 m.
 - **Giải thích (VI):** Quy luật thay đổi tương ứng theo từng vành đai của thảm thực vật và lớp phủ đất từ chân núi lên đỉnh núi do sự biến đổi chế độ nhiệt ẩm theo độ cao địa hình. Chẳng hạn ở sườn tây dãy Cáp-ca, các vành đai chuyển tiếp tuần tự từ rừng lá cứng trên đất đỏ nâu ở chân núi qua rừng hỗn hợp, rừng lá kim, đồng cỏ núi, địa y và cây bụi trên đất sơ đẳng đến băng tuyết trên đỉnh cao trên 2 800 m.
 - **Bối cảnh:** Địa lí lớp 10, Bài 16 (Mục 3): Phân tích sơ đồ các vành đai thực vật và đất theo độ cao ở sườn tây dãy Cáp-ca.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B16 (Mục 2), tr. 49, 50
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B16 (Mục 2), tr. 49, 50; SGK Địa lí 10 KNTT, Phần hai, B16 (Mục 1), tr. 49; SGK Địa lí 10 KNTT, Phần hai, B16 (Mục 2), tr. 49
 
 ### altitudinal zonation in the Andes
 - **Tiếng Việt:** Sự phân hoá tự nhiên theo chiều cao trên dãy An-đét
@@ -333,6 +357,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 3 (Mục 2.b): Khai thác các tính năng định vị, dẫn đường và quản lí giao thông của GPS và bản đồ số trong đời sống.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.a), tr. 13; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.b), tr. 13; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.b), tr. 13, 14
 
+### aquaculture in Vietnam
+- **Tiếng Việt:** Nuôi trồng thuỷ sản ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A rapidly growing aquatic farming subsector in Vietnam focused primarily on shrimp and fish, with the Mekong Delta producing the largest output nationwide. Production is shifting strongly toward high-tech farm models and organic aquaculture that meet food safety, traceability, and international certification standards.
+- **Giải thích (VI):** Hoạt động nuôi thuỷ sản phát triển nhanh ở Việt Nam với hai đối tượng nuôi chủ lực là tôm và cá, tập trung sản lượng lớn nhất tại vùng Đồng bằng sông Cửu Long. Ngành đang chuyển mạnh sang mô hình trang trại công nghệ cao và nuôi hữu cơ, đáp ứng các yêu cầu về an toàn thực phẩm, truy xuất nguồn gốc và tiêu chuẩn quốc tế.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 6 (Mục 2.b): Trình bày sự phát triển vượt trội, xu hướng ứng dụng công nghệ cao và vùng trọng điểm nuôi trồng thuỷ sản ở nước ta.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 2.b), tr. 140
+
 ### aquatic natural ecosystem
 - **Tiếng Việt:** Hệ sinh thái tự nhiên dưới nước
 - **Chuyên ngành gốc:** Địa lí
@@ -347,7 +379,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A specialty coffee variety native to Africa, world-renowned for its aromatic flavor and serving as a major export cash crop for many countries in Africa's humid tropical environment.
 - **Giải thích (VI):** Giống cà phê đặc sản có nguồn gốc bản địa từ châu Phi, nổi tiếng thế giới nhờ hương vị thơm ngon và là mặt hàng cây công nghiệp xuất khẩu chủ lực của nhiều quốc gia thuộc môi trường nhiệt đới ẩm châu Phi.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 2): cây công nghiệp xuất khẩu tiêu biểu trong khai thác nông nghiệp ở môi trường nhiệt đới châu Phi.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 136
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 136; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 136; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 136, 137
 
 ### archipelago
 - **Tiếng Việt:** Quần đảo
@@ -400,7 +432,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 11, Bài 13 (Mục II.1): Tìm hiểu thiết chế hợp tác kinh tế cao nhất trong khuôn khổ Cộng đồng ASEAN.
   - Lịch sử lớp 12, Bài 5 (Mục 2.b): Trụ cột liên kết thị trường, sản xuất và hội nhập kinh tế quốc tế của Cộng đồng ASEAN.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục I), tr. 61; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.1), tr. 63; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 2), tr. 27; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 2.b), tr. 28; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 2.c), tr. 28
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục I), tr. 61; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.1), tr. 63; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.2), tr. 63; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.2), tr. 63, 64; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 2), tr. 27; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 2.b), tr. 28; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 2.c), tr. 28
 
 ### ASEAN Free Trade Area
 - **Tiếng Việt:** Khu vực thương mại tự do ASEAN (AFTA)
@@ -410,7 +442,8 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 11, Bài 13 (Mục II.1): Tìm hiểu các tổ chức và thoả thuận hợp tác kinh tế nội khối tiêu biểu của ASEAN.
   - *Lưu ý:* Không nhầm với 'Khu vực Mậu dịch tự do ASEAN' (`ASEAN Free Trade Area (history)`) trong Lịch sử.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.1), tr. 63
+  - *Lưu ý:* Không nhầm với 'Khu vực mậu dịch tự do ASEAN' (`ASEAN Free Trade Area (history)`) trong Lịch sử.
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.1), tr. 63; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.2), tr. 63; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.2), tr. 63, 64
 
 ### ASEAN Socio-Cultural Community
 - **Tiếng Việt:** Cộng đồng Văn hoá – Xã hội ASEAN (ASCC)
@@ -421,7 +454,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 11, Bài 13 (Mục II.2): Phân tích mục tiêu và các hoạt động hợp tác văn hoá, giáo dục, y tế, thể thao trong ASEAN.
   - Lịch sử lớp 12, Bài 5 (Mục 2.c): Trụ cột lấy con người làm trung tâm, gắn kết nền tảng văn hoá – xã hội cho Cộng đồng ASEAN.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.2), tr. 63, 64; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 2), tr. 27; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 2.b), tr. 28; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 2.c), tr. 28
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.2), tr. 63, 64; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.1), tr. 63; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.2), tr. 63; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 2), tr. 27; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 2.b), tr. 28; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 2.c), tr. 28
 
 ### ASEAN Trade in Goods Agreement
 - **Tiếng Việt:** Hiệp định Thương mại hàng hoá ASEAN (ATIGA)
@@ -429,7 +462,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An intra-regional trade cooperation agreement of the Association of Southeast Asian Nations signed in 2009. It strengthens commitments among member states toward building an open and deeply integrated regional trade system.
 - **Giải thích (VI):** Thoả thuận hợp tác thương mại nội khối của Hiệp hội các quốc gia Đông Nam Á được kí kết vào năm 2009. Hiệp định này nhằm tăng cường cam kết giữa các nước thành viên trong việc xây dựng một nền thương mại khu vực mở và hội nhập sâu rộng.
 - **Bối cảnh:** Địa lí lớp 11, Bài 13 (Mục II.1): Trình bày các bước tiến hợp tác thương mại nội khối hướng tới hội nhập kinh tế của ASEAN.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.1), tr. 63
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.1), tr. 63; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.2), tr. 63; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.2), tr. 63, 64
 
 ### Asia-Pacific Economic Cooperation
 - **Tiếng Việt:** Diễn đàn Hợp tác Kinh tế châu Á – Thái Bình Dương (APEC)
@@ -446,11 +479,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tổ chức hợp tác liên chính phủ ở khu vực Đông Nam Á được thành lập ngày 8/8/1967 tại Băng Cốc (Thái Lan) với 5 quốc gia sáng lập (In-đô-nê-xi-a, Ma-lai-xi-a, Phi-líp-pin, Xin-ga-po, Thái Lan) và mở rộng lên 10 quốc gia thành viên trong khu vực. Năm 2015, Cộng đồng ASEAN chính thức hình thành dựa trên ba trụ cột gồm Cộng đồng Chính trị – An ninh, Cộng đồng Kinh tế và Cộng đồng Văn hoá – Xã hội.
 - **Giải thích khác (SGK Lịch sử 11):** EN: A regional intergovernmental organization founded on August 8, 1967, in Bangkok (Thailand) by five original member states, which subsequently expanded into a comprehensive, closely integrated organization of ten Southeast Asian nations. Driven by sustained high economic growth among its members, ASEAN rose to become the world's fifth-largest economy, with a combined GDP of approximately 3,000 billion USD since 2018. / VI: Tổ chức hợp tác khu vực được thành lập ngày 8 – 8 – 1967 tại Băng Cốc (Thái Lan) với 5 quốc gia thành viên ban đầu, sau đó mở rộng và phát triển thành tổ chức hợp tác toàn diện, chặt chẽ gồm 10 quốc gia Đông Nam Á. Với tốc độ tăng trưởng kinh tế cao của các nước thành viên, ASEAN đã vươn lên trở thành nền kinh tế lớn thứ năm thế giới với quy mô GDP đạt khoảng 3 000 tỉ USD từ năm 2018.
 - **Giải thích khác (SGK Lịch sử 12):** EN: A regional integration organization in Southeast Asia formally established on August 8, 1967, in Bangkok (Thailand) when the Foreign Ministers of five countries—Indonesia, Malaysia, the Philippines, Singapore, and Thailand—adopted the Bangkok Declaration. / VI: Tổ chức liên kết khu vực ở Đông Nam Á được chính thức thành lập ngày 8 – 8 – 1967 tại Băng Cốc (Thái Lan) khi Ngoại trưởng năm nước In-đô-nê-xi-a, Ma-lai-xi-a, Phi-líp-pin, Xin-ga-po và Thái Lan thông qua Tuyên bố Băng Cốc.
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A regional intergovernmental organization founded on August 8, 1967 in Bangkok (Thailand) by five nations: Indonesia, Malaysia, the Philippines, Singapore, and Thailand. Its mission is to promote economic growth, social progress, and cultural development in the region through joint efforts in a spirit of equality and cooperation toward a peaceful and prosperous Southeast Asian community. / VI: Tổ chức liên kết khu vực được thành lập ngày 8 – 8 – 1967 tại Băng Cốc (Thái Lan) với sự tham gia của năm nước In-đô-nê-xi-a, Ma-lai-xi-a, Phi-líp-pin, Xin-ga-po và Thái Lan. Tôn chỉ của tổ chức là thúc đẩy tăng trưởng kinh tế, tiến bộ xã hội và phát triển văn hoá trong khu vực thông qua nỗ lực chung trên tinh thần bình đẳng, hợp tác nhằm xây dựng một cộng đồng Đông Nam Á hoà bình và thịnh vượng.
 - **Bối cảnh:**
   - Địa lí lớp 11, Bài 13 (Mục I): Khái quát sự ra đời, quá trình mở rộng thành viên và ba trụ cột của Cộng đồng ASEAN.
   - Lịch sử lớp 11, Bài 6 (Mục 3.b): Vai trò liên kết khu vực và nâng cao vị thế kinh tế – chính trị của Đông Nam Á trên trường quốc tế.
   - Lịch sử lớp 12, Bài 4 (Mục 1.a): Sự kiện ra đời, quá trình mở rộng thành viên và các giai đoạn phát triển của tổ chức hợp tác khu vực Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục I), tr. 61; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 3.a), tr. 41; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 3.b), tr. 41; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 3.b), tr. 41, 42; SGK Lịch sử 12 KNTT, Chủ đề 02, B4, tr. 21; SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 21; SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 22
+  - Lịch sử và Địa lí lớp 9, Bài 12 (Mục 3.c): sự thành lập và phát triển của tổ chức liên kết khu vực Đông Nam Á từ năm 1967 đến năm 1991.
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục I), tr. 61; SGK Địa lí 11 KNTT, Phần hai, B13, tr. 61; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục I.1), tr. 61; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 3.a), tr. 41; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 3.b), tr. 41; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 3.b), tr. 41, 42; SGK Lịch sử 12 KNTT, Chủ đề 02, B4, tr. 21; SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 21; SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 22; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 3.c), tr. 59; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 3.c), tr. 59, 60; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 3.b), tr. 59
 
 ### Atacama Desert
 - **Tiếng Việt:** Hoang mạc A-ta-ca-ma
@@ -507,7 +542,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An indicator within the group of transport service output metrics that reflects the mean distance over which passengers or freight are carried from one location to another. This metric is measured in kilometers (km).
 - **Giải thích (VI):** Tiêu chí thuộc nhóm chỉ tiêu đánh giá khối lượng dịch vụ của ngành giao thông vận tải, phản ánh quãng đường chuyên chở bình quân của hành khách hoặc hàng hoá từ nơi này đến nơi khác. Chỉ tiêu này được tính bằng đơn vị ki-lô-mét (km).
 - **Bối cảnh:** Địa lí lớp 10, Bài 34 (Mục 1.b): sử dụng cùng khối lượng vận chuyển và khối lượng luân chuyển để đánh giá hoạt động giao thông vận tải.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.b), tr. 93
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.b), tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34, tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.a), tr. 93
 
 ### barometer
 - **Tiếng Việt:** Khí áp kế
@@ -597,6 +632,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 7 (Mục 2.b): Phân tích tác động kép về cơ học và hoá học của sinh vật đối với đá.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 2.a), tr. 25; SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 2.b), tr. 25; SGK Địa lí 10 KNTT, Phần hai, B7 (Mục 2.b), tr. 25, 26
 
+### biosphere reserve
+- **Tiếng Việt:** Khu dự trữ sinh quyển
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Terrestrial or coastal ecosystem area designated to promote solutions that reconcile the conservation of biological diversity with the sustainable use of natural resources.
+- **Giải thích (VI):** Khu vực hệ sinh thái trên cạn hoặc ven bờ biển được thiết lập nhằm thúc đẩy các giải pháp hài hoà giữa bảo tồn đa dạng sinh học với việc khai thác, sử dụng bền vững tài nguyên thiên nhiên.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 13 (Mục 2, 5): Khu vực bảo tồn thiên nhiên kết hợp nghiên cứu khoa học và phát triển du lịch sinh thái tại các vùng kinh tế như Đồng bằng sông Hồng, Đông Nam Bộ.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2.a), tr. 168; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 5.a), tr. 172
+
 ### biota of China
 - **Tiếng Việt:** Sinh vật Trung Quốc
 - **Chuyên ngành gốc:** Địa lí
@@ -619,7 +662,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Biological resources ranking among the most biodiverse in the world, highlighted by approximately 2 million km² of tropical forests across two primary ecosystems: tropical rainforests and tropical monsoon forests. Rich in high-value timber species (such as ironwood and burretiodendron) that supply wood processing and export industries, these resources face urgent pressures from overexploitation and deforestation.
 - **Giải thích (VI):** Nguồn tài nguyên sinh vật có mức độ đa dạng sinh học vào bậc nhất thế giới, nổi bật với khoảng 2 triệu km² rừng nhiệt đới thuộc hai hệ sinh thái chính là rừng mưa nhiệt đới và rừng nhiệt đới gió mùa. Hệ rừng giàu các loài gỗ quý có trữ lượng lớn (lim, nghiến, táu) cung cấp nguyên liệu cho chế biến và xuất khẩu gỗ, nhưng đang đối mặt với tình trạng khai thác quá mức và thu hẹp diện tích do phá rừng.
 - **Bối cảnh:** Địa lí lớp 11, Bài 11 (Mục II.4): Đánh giá tiềm năng đa dạng sinh học, tài nguyên rừng và vấn đề bảo vệ sinh vật ở Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.4), tr. 48, 49
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.4), tr. 48, 49; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.2), tr. 48; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.3), tr. 48; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.4), tr. 48
 
 ### biota of Southwest Asia
 - **Tiếng Việt:** Sinh vật khu vực Tây Nam Á
@@ -627,7 +670,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Southwest Asia's generally sparse flora and fauna shaped by predominant desert and semi-desert landscapes, featuring thorny scrub vegetation and mostly reptiles and small rodents, with sclerophyllous forests along the Mediterranean coast. Several countries have established nature reserves and national parks—such as Ein Avdat (Israel) and the Dubai Desert Conservation Reserve (United Arab Emirates)—for genetic conservation and tourism.
 - **Giải thích (VI):** Giới sinh vật nhìn chung nghèo nàn của khu vực Tây Nam Á gắn với cảnh quan hoang mạc và bán hoang mạc điển hình, trong đó thực vật chủ yếu là cây bụi gai, động vật phần lớn gồm bò sát và gặm nhấm nhỏ, riêng dải ven Địa Trung Hải có rừng lá cứng. Nhiều quốc gia đã thành lập các khu bảo tồn và vườn quốc gia như E-in A-dat (I-xra-en), Khu bảo tồn sa mạc Đu-bai (Các Tiểu vương quốc A-rập Thống nhất) để lưu giữ nguồn gen và phát triển du lịch.
 - **Bối cảnh:** Địa lí lớp 11, Bài 15 (Mục II.5): Trình bày đặc điểm hệ thực – động vật thích nghi khô hạn và công tác bảo tồn thiên nhiên ở Tây Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.5), tr. 70
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.5), tr. 70; SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.4), tr. 70; SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.6), tr. 70
 
 ### biota of the Republic of South Africa
 - **Tiếng Việt:** Sinh vật Cộng hoà Nam Phi
@@ -635,7 +678,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The diverse flora and fauna resources of the Republic of South Africa, typified by savanna ecosystems covering 34.3% of the national territory and numerous endemic wildlife species such as lions, leopards, elephants, rhinoceroses, giraffes, zebras, and hippopotamuses. Preserved across major nature reserves, these rich biological resources provide valuable genetic material and raw inputs for production and livelihoods while serving as a major attraction for tourism.
 - **Giải thích (VI):** Tài nguyên động, thực vật đa dạng của Cộng hoà Nam Phi với hệ sinh thái xa van điển hình chiếm 34,3% diện tích lãnh thổ và nhiều loài động vật đặc hữu như sư tử, báo, voi, tê giác, hươu cao cổ, ngựa vằn, hà mã. Nguồn sinh vật phong phú tại các khu bảo tồn thiên nhiên vừa cung cấp nguồn gen, nguyên liệu có giá trị cho sản xuất và đời sống, vừa tạo sức hấp dẫn lớn đối với du lịch.
 - **Bối cảnh:** Địa lí lớp 11, Bài 30 (Mục II.4): Hệ sinh thái điển hình, tính đa dạng sinh học và giá trị kinh tế – bảo tồn của sinh vật Cộng hoà Nam Phi.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.4), tr. 155
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.4), tr. 155; SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.5), tr. 155; SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.6), tr. 155, 156
 
 ### biota of the United States
 - **Tiếng Việt:** Sinh vật Hoa Kỳ
@@ -645,13 +688,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 18 (Mục II.4): Đặc điểm phân bố thảm thực vật, động vật và tiềm năng lâm nghiệp của Hoa Kỳ.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B18 (Mục II.3), tr. 84; SGK Địa lí 11 KNTT, Phần hai, B18 (Mục II.4), tr. 84; SGK Địa lí 11 KNTT, Phần hai, B18 (Mục II.5), tr. 84
 
+### border-gate economy in the Northern Midlands and Mountainous Region
+- **Tiếng Việt:** Kinh tế cửa khẩu vùng Trung du và miền núi phía Bắc
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Cross-border trade and service activities in the Northern Midlands and Mountainous Region leveraging international border gates (Huu Nghi, Lao Cai, Tay Trang) linked with inter-regional transport corridors. It focuses on expanding foreign trade with Yunnan and Guangxi provinces (China) as well as provinces in Upper Laos.
+- **Giải thích (VI):** Hoạt động thương mại và dịch vụ biên giới của vùng Trung du và miền núi phía Bắc khai thác lợi thế hệ thống cửa khẩu quốc tế (Hữu Nghị, Lào Cai, Tây Trang) gắn với các hành lang giao thông kết nối liên vùng. Hoạt động này trọng tâm đẩy mạnh ngoại thương với các tỉnh Vân Nam, Quảng Tây (Trung Quốc) và các tỉnh khu vực Thượng Lào.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 12 (Mục 4): Thế mạnh nổi bật trong phát triển ngoại thương và dịch vụ của vùng Trung du và miền núi phía Bắc.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B12 (Mục 4.b), tr. 165; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B12 (Mục 4.c), tr. 165
+
 ### boundaries of the geographic envelope
 - **Tiếng Việt:** Giới hạn của vỏ địa lí
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The vertical spatial extent of the geographic envelope with a thickness of approximately 30–35 km, encompassing the atmosphere below the ozone layer, the entire hydrosphere, the biosphere, and the upper portion of the lithosphere. This extent is distinct from the Earth's crust, which refers strictly to the outermost solid rocky shell of the lithosphere.
 - **Giải thích (VI):** Phạm vi không gian theo chiều thẳng đứng của vỏ địa lí với chiều dày khoảng 30 – 35 km, bao gồm phần khí quyển bên dưới lớp ô-dôn, toàn bộ thuỷ quyển, sinh quyển và bộ phận phía trên của thạch quyển. Phạm vi này rộng hơn và khác với vỏ Trái Đất vốn chỉ là lớp vỏ đá cứng ngoài cùng của thạch quyển.
 - **Bối cảnh:** Địa lí lớp 10, Bài 17 (Mục 1.b): Xác định phạm vi giới hạn của vỏ địa lí và phân biệt với vỏ Trái Đất.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 1.a), tr. 51; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 1.b), tr. 51
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 1.a), tr. 51; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 1.b), tr. 51; SGK Địa lí 10 KNTT, Phần hai, B17, tr. 51
 
 ### broadleaf forest
 - **Tiếng Việt:** Rừng lá rộng
@@ -672,7 +723,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1.b): tôn giáo lớn ra đời tại Ấn Độ và có ảnh hưởng sâu rộng đối với đời sống văn hoá – xã hội châu Á.
   - Lịch sử lớp 10, Bài 5 (Mục II.2.b): Sự ra đời, phát triển và lan toả của Phật giáo từ Ấn Độ ra thế giới.
   - Lịch sử và Địa lí lớp 6, Bài 8 (Mục 3): tôn giáo lớn khởi phát từ Ấn Độ cổ đại gắn với các di sản kiến trúc tiêu biểu như cột đá A-sô-ca và đại bảo tháp San-chi.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 116; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 41; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37, 38; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 38
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 116; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 2), tr. 116, 117; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 41; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 40; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 41, 42; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37, 38; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 38
 
 ### buffer zone
 - **Tiếng Việt:** Vùng đệm
@@ -690,7 +741,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A major branch of the service sector encompassing finance, banking, insurance, freight transport, wholesale, and retail activities. This group provides intangible outputs that directly support production operations, commercial circulation, and social needs.
 - **Giải thích (VI):** Nhóm ngành thuộc cơ cấu khu vực dịch vụ bao gồm các hoạt động tài chính, ngân hàng, bảo hiểm, vận tải hàng hoá, bán buôn và bán lẻ. Nhóm này cung cấp các sản phẩm phi vật chất phục vụ trực tiếp nhu cầu vận hành sản xuất, lưu thông kinh doanh và đời sống xã hội.
 - **Bối cảnh:** Địa lí lớp 10, Bài 33 (Mục 1): phân biệt nhóm dịch vụ kinh doanh với dịch vụ tiêu dùng và dịch vụ công trong cơ cấu dịch vụ.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 1), tr. 91
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 1), tr. 91; SGK Địa lí 10 KNTT, Phần ba, B33, tr. 91; SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 2), tr. 91
 
 ### calculating real-world distance using map scale
 - **Tiếng Việt:** Tính khoảng cách thực tế dựa vào tỉ lệ bản đồ
@@ -714,7 +765,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A deep, narrow river valley landform with steep cliffs carved by strong fluvial incision across plateau surfaces, exemplified by the Grand Canyon in the North American Cordillera (446 km long, 6–29 km wide, and 1,600 m deep).
 - **Giải thích (VI):** Dạng địa hình thung lũng sông sâu, hẹp với vách dốc đứng hình thành do các dòng sông xói sâu và chia cắt mạnh bề mặt cao nguyên, tiêu biểu là hẻm vực Gran Ca-ny-on ở miền núi Coóc-đi-e (dài 446 km, rộng 6 – 29 km, sâu 1 600 m).
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 1): dạng địa hình chia cắt đặc trưng trên bề mặt các cao nguyên thuộc miền núi Coóc-đi-e ở Bắc Mỹ.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 1), tr. 142
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 1), tr. 142; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14, tr. 142; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 2), tr. 142
 
 ### capture fisheries
 - **Tiếng Việt:** Khai thác thuỷ sản
@@ -726,6 +777,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 10, Bài 25 (Mục 2.c): hoạt động đánh bắt thuỷ sản tự nhiên và các quốc gia có sản lượng khai thác lớn trên thế giới.
   - Địa lí lớp 12, Bài 12 (Mục II.2): hiện trạng phát triển và phân bố hoạt động đánh bắt thuỷ sản ở Việt Nam.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 2.c), tr. 75; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục II.2), tr. 61
+
+### capture fisheries in Vietnam
+- **Tiếng Việt:** Khai thác thuỷ sản ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Wild-catch fishery operations in Vietnam with steadily rising output, dominated by marine capture—particularly marine fish (accounting for 73.7% of total catch in 2024)—and led nationwide by the Mekong Delta. The subsector is modernizing fishing vessels and equipment to expand offshore fishing in strict compliance with domestic law and anti-IUU fishing regulations.
+- **Giải thích (VI):** Hoạt động đánh bắt nguồn lợi thuỷ sản ở Việt Nam có sản lượng ngày càng tăng, chủ yếu là khai thác hải sản mà trọng tâm là cá biển (chiếm 73,7% tổng sản lượng khai thác năm 2024), đứng đầu cả nước là vùng Đồng bằng sông Cửu Long. Ngành đang đẩy mạnh đầu tư tàu thuyền, trang thiết bị hiện đại để vươn khơi khai thác xa bờ gắn với tuân thủ pháp luật và quy định chống khai thác IUU.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 6 (Mục 2.b): Phân tích xu hướng phát triển khai thác hải sản xa bờ bền vững và phân bố sản lượng khai thác thuỷ sản ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 2.b), tr. 140
 
 ### cartodiagram method
 - **Tiếng Việt:** Phương pháp bản đồ – biểu đồ
@@ -749,7 +808,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The only landlocked region of Asia with no ocean coastline, covering over 4 million km² with terrain sloping westward from high eastern mountain systems (Pamir, Tian Shan, Altai) to western plateaus and plains reaching the Caspian Sea. It has an arid temperate continental climate, two major rivers (Syr Darya and Amu Darya) flowing into the Aral Sea, and rich deposits of oil, coal, and metals.
 - **Giải thích (VI):** Khu vực nội lục duy nhất của châu Á không giáp đại dương, rộng hơn 4 triệu km² với địa hình thấp dần từ hệ thống núi cao phía đông (Pa-mia, Thiên Sơn, An-tai) sang các cao nguyên, đồng bằng phía tây tới hồ Ca-xpi. Khu vực có khí hậu ôn đới lục địa khô hạn, hai sông lớn Xưa Đa-ri-a và A-mu Đa-ri-a đổ vào hồ A-ran cùng nguồn khoáng sản giàu dầu mỏ, than đá và kim loại.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 2.b): đặc điểm tự nhiên của khu vực nội lục nằm ở trung tâm lục địa Á – Âu.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.b), tr. 120
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.b), tr. 120; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.a), tr. 120
 
 ### Central coastal plains of Vietnam
 - **Tiếng Việt:** Các đồng bằng duyên hải miền Trung
@@ -809,7 +868,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The set of distinctive traits of agricultural, forestry, and fishery production: arable land and water surfaces serve as the primary means of production, the objects of labor are living organisms, and production depends on natural conditions with marked seasonality. Today, this production sector is increasingly linked with science and technology, production linkages, and a transition toward green agriculture.
 - **Giải thích (VI):** Tập hợp những tính chất đặc thù của sản xuất nông nghiệp, lâm nghiệp và thuỷ sản: đất trồng và mặt nước là tư liệu sản xuất chủ yếu, đối tượng lao động là các cơ thể sống, sản xuất phụ thuộc vào điều kiện tự nhiên và có tính mùa vụ. Hiện nay, khu vực sản xuất này ngày càng gắn với khoa học – công nghệ, liên kết sản xuất và hướng tới nền nông nghiệp xanh.
 - **Bối cảnh:** Địa lí lớp 10, Bài 23 (Mục 2): các đặc điểm cơ bản phân biệt sản xuất nông, lâm nghiệp, thuỷ sản với các ngành kinh tế khác.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 2), tr. 67
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 2), tr. 67; SGK Địa lí 10 KNTT, Phần ba, B23, tr. 67; SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 1), tr. 67
 
 ### characteristics of crop production
 - **Tiếng Việt:** Đặc điểm ngành trồng trọt
@@ -817,7 +876,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The distinctive features of crop production: its development and distribution depend closely on natural conditions, exhibit distinct seasonality, and divide crops into food crops, foodstuff crops, industrial crops, and fruit trees. Product preservation requires substantial investment, and the entire sector is increasingly tied to scientific and technological progress.
 - **Giải thích (VI):** Những nét đặc thù của sản xuất trồng trọt: sự phát triển và phân bố phụ thuộc chặt chẽ vào điều kiện tự nhiên, mang tính mùa vụ rõ rệt và cơ cấu cây trồng được chia thành cây lương thực, cây thực phẩm, cây công nghiệp, cây ăn quả. Khâu bảo quản sản phẩm đòi hỏi đầu tư lớn và toàn ngành ngày càng gắn chặt với tiến bộ khoa học – công nghệ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 24 (Mục 1.b): đặc điểm sinh thái, phân nhóm cây trồng và yêu cầu kĩ thuật của ngành trồng trọt.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.b), tr. 69
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.b), tr. 69; SGK Địa lí 10 KNTT, Phần ba, B24, tr. 69; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.a), tr. 69
 
 ### characteristics of fisheries
 - **Tiếng Việt:** Đặc điểm ngành thuỷ sản
@@ -825,7 +884,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The distinctive characteristics of fishery production: exhibiting seasonality, depending heavily on water resources and climate, and combining capture, aquaculture, and processing so as to bear both agricultural and industrial traits. Today, the sector increasingly applies modern technology and value-chain production to enhance efficiency and product traceability.
 - **Giải thích (VI):** Những tính chất đặc trưng của sản xuất thuỷ sản: mang tính mùa vụ, phụ thuộc nhiều vào nguồn nước, khí hậu và kết hợp cả khai thác, nuôi trồng lẫn chế biến nên vừa mang tính chất nông nghiệp vừa mang tính chất công nghiệp. Hiện nay, ngành ngày càng ứng dụng công nghệ hiện đại và sản xuất theo chuỗi giá trị nhằm nâng cao hiệu quả, truy xuất nguồn gốc sản phẩm.
 - **Bối cảnh:** Địa lí lớp 10, Bài 25 (Mục 2.b): đặc điểm tự nhiên, kĩ thuật và xu hướng sản xuất theo chuỗi giá trị của ngành thuỷ sản.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 2.b), tr. 74
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 2.b), tr. 74; SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 1.c), tr. 74; SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 2.a), tr. 74
 
 ### characteristics of forestry
 - **Tiếng Việt:** Đặc điểm ngành lâm nghiệp
@@ -833,7 +892,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The distinctive attributes of forestry production manifested in forest trees having long growth cycles and slow development, with operations spanning vast spaces across diverse natural conditions. The sector encompasses afforestation, logging, forest product processing, and forest ecosystem conservation within a close relationship between harvesting and forest regeneration.
 - **Giải thích (VI):** Những nét đặc thù của sản xuất lâm nghiệp thể hiện ở đối tượng cây rừng có chu kì sinh trưởng dài, phát triển chậm và hoạt động sản xuất diễn ra trên không gian rộng với điều kiện tự nhiên đa dạng. Ngành bao gồm trồng rừng, khai thác, chế biến lâm sản và bảo tồn hệ sinh thái rừng trong mối quan hệ chặt chẽ giữa khai thác với tái tạo rừng.
 - **Bối cảnh:** Địa lí lớp 10, Bài 25 (Mục 1.b): tính chất sinh học và không gian sản xuất đặc thù của ngành lâm nghiệp.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 1.b), tr. 73
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 1.b), tr. 73; SGK Địa lí 10 KNTT, Phần ba, B25, tr. 73; SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 1.a), tr. 73
 
 ### characteristics of geography in general education
 - **Tiếng Việt:** Đặc điểm của môn Địa lí ở trường phổ thông
@@ -849,7 +908,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The distinctive characteristics of livestock production: it depends closely on feed supply, follows the biological laws of domesticated animals, and yields multiple products simultaneously. Production is organized into three forms (free-range grazing, industrial farming, and ecological farming) and increasingly applies advanced technology and genetic engineering linked with processing industries.
 - **Giải thích (VI):** Những tính chất đặc trưng của sản xuất chăn nuôi: phụ thuộc chặt chẽ vào nguồn thức ăn, tuân theo các quy luật sinh học của vật nuôi và tạo ra nhiều sản phẩm cùng lúc. Ngành tổ chức sản xuất theo ba hình thức (chăn nuôi tự nhiên, chăn nuôi công nghiệp, chăn nuôi sinh thái) và ngày càng ứng dụng công nghệ tiên tiến, kĩ thuật gen gắn với công nghiệp chế biến.
 - **Bối cảnh:** Địa lí lớp 10, Bài 24 (Mục 2.b): các đặc điểm sinh học, cơ sở thức ăn và hình thức tổ chức sản xuất chăn nuôi.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 2.b), tr. 72
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 2.b), tr. 72; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 2.c), tr. 72
 
 ### characteristics of the biosphere
 - **Tiếng Việt:** Đặc điểm của sinh quyển
@@ -857,7 +916,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The set of three fundamental properties of the biosphere: a much smaller material mass than the other spheres of the Earth's envelope, the capacity to accumulate energy, and close reciprocal interactions with the atmosphere, hydrosphere, and soil formation. Through photosynthesis, green plants synthesize organic matter from inorganic substances and transfer energy to other organisms via nutritional processes.
 - **Giải thích (VI):** Tập hợp ba tính chất cơ bản của sinh quyển gồm khối lượng vật chất nhỏ hơn nhiều so với các quyển còn lại trong vỏ Trái Đất, khả năng tích luỹ năng lượng và mối quan hệ tác động qua lại mật thiết với khí quyển, thuỷ quyển cùng quá trình hình thành đất. Thông qua quang hợp, cây xanh tổng hợp vật chất hữu cơ từ vật chất vô cơ rồi truyền năng lượng cho các cơ thể khác qua quá trình dinh dưỡng.
 - **Bối cảnh:** Địa lí lớp 10, Bài 15 (Mục 2): Trình bày các đặc điểm cơ bản phân biệt sinh quyển với các quyển tự nhiên khác.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B15 (Mục 2), tr. 47
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B15 (Mục 2), tr. 47; SGK Địa lí 10 KNTT, Phần hai, B15, tr. 47; SGK Địa lí 10 KNTT, Phần hai, B15 (Mục 1), tr. 47
 
 ### characteristics of the knowledge-based economy
 - **Tiếng Việt:** Đặc trưng của nền kinh tế tri thức
@@ -873,7 +932,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The distinctive attributes of the service sector characterized by predominantly intangible outputs—making quality and scale harder to evaluate than agricultural or industrial goods—and the typically simultaneous occurrence of service provision and consumption. Furthermore, advances in science and technology strongly transform the forms, structure, and quality of services.
 - **Giải thích (VI):** Những tính chất đặc thù của khu vực dịch vụ thể hiện ở sản phẩm phần lớn là phi vật chất nên khó đánh giá chất lượng và quy mô hơn sản phẩm nông nghiệp hay công nghiệp, đồng thời quá trình cung cấp và tiêu dùng dịch vụ thường diễn ra đồng thời. Bên cạnh đó, hình thức, cơ cấu và chất lượng dịch vụ chịu sự biến đổi mạnh mẽ trước sự phát triển của khoa học – công nghệ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 33 (Mục 3): phân biệt tính chất sản xuất và tiêu dùng của khu vực dịch vụ với các ngành sản xuất vật chất.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 3), tr. 92
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 3), tr. 92; SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 4), tr. 92
 
 ### characteristics of tourism
 - **Tiếng Việt:** Đặc điểm của ngành du lịch
@@ -881,7 +940,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The distinctive attributes of tourism reflected in its dual nature as both an economic and socio-cultural sector, as well as a comprehensive industry closely linked with many other branches. Tourism activities typically exhibit seasonality, high sensitivity to natural conditions, socio-economic factors, and epidemics, while continuously evolving in form and quality through scientific and technological advances.
 - **Giải thích (VI):** Những nét đặc thù của ngành du lịch thể hiện ở tính chất kép vừa thuộc lĩnh vực kinh tế vừa thuộc lĩnh vực văn hoá – xã hội, đồng thời là ngành kinh tế tổng hợp liên kết chặt chẽ với nhiều ngành nghề khác. Hoạt động du lịch thường mang tính mùa vụ, nhạy cảm với điều kiện tự nhiên, kinh tế – xã hội, dịch bệnh, và không ngừng đổi mới về hình thức, chất lượng nhờ tiến bộ khoa học – công nghệ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 36 (Mục 1.b): nhận diện tính tổng hợp, tính mùa vụ và sự nhạy cảm với ngoại cảnh của ngành du lịch.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B36 (Mục 1.b), tr. 101
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B36 (Mục 1.b), tr. 101; SGK Địa lí 10 KNTT, Phần ba, B36, tr. 101; SGK Địa lí 10 KNTT, Phần ba, B36 (Mục 1.a), tr. 101
 
 ### chemical weathering
 - **Tiếng Việt:** Phong hoá hoá học
@@ -935,7 +994,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 6, Bài 17 (Mục 3.a): nhận diện khái niệm, nguyên nhân và các biểu hiện chủ yếu của biến đổi khí hậu.
   - Khoa học tự nhiên lớp 8, Bài 47 (Mục III.1): Sự biến đổi dài hạn của các yếu tố khí hậu toàn cầu và các biện pháp thích ứng tại địa phương.
-- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.a), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.b), tr. 151, 152; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục III.1), tr. 194; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục III.2), tr. 194
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 2), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.a), tr. 151; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B17 (Mục 3.b), tr. 151, 152; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục III.1), tr. 194; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục III.2), tr. 194; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục IV), tr. 194
 
 ### climate change adaptation
 - **Tiếng Việt:** Thích ứng với biến đổi khí hậu
@@ -944,6 +1003,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Sự điều chỉnh các hệ thống tự nhiên và hoạt động của con người để phù hợp với môi trường mới hoặc bị thay đổi, qua đó giảm tác hại hoặc tận dụng mặt có lợi trước tác động thực tại và tương lai của khí hậu. Các biện pháp tiêu biểu gồm thay đổi cơ cấu mùa vụ và giống cây trồng, vật nuôi, nâng cấp hệ thống thuỷ lợi và ứng dụng công nghệ sản xuất tiên tiến.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 8 (Mục 3): Vận dụng các giải pháp điều chỉnh sản xuất nông nghiệp, công nghiệp, dịch vụ và đời sống trước biến đổi khí hậu.
 - **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B8 (Mục 3), tr. 132; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B8 (Mục 3), tr. 132, 133; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 02, B8 (Mục 3), tr. 133
+
+### climate change adaptation measures in the Mekong Delta
+- **Tiếng Việt:** Biện pháp thích ứng với biến đổi khí hậu ở châu thổ sông Cửu Long
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Adaptation solutions to climate change in the Mekong (Cuu Long) Delta, centred on breeding salt- and drought-tolerant crops, converting saline or acid-sulfate paddy land to alternative crops or aquaculture, developing flood-resilient livelihoods, protecting mangrove forests, and building sea dykes, breakwaters, and salinity-control sluices. In addition, the region promotes riverine, orchard, mangrove, and melaleuca ecotourism alongside eco-friendly community tourism, while securing clean domestic water supplies during the dry season.
+- **Giải thích (VI):** Hệ thống giải pháp ứng phó với biến đổi khí hậu tại châu thổ sông Cửu Long, trọng tâm là tạo giống cây chịu mặn, chịu hạn, chuyển đổi đất lúa nhiễm phèn mặn sang cây trồng khác hoặc nuôi thuỷ sản, phát triển sinh kế sống chung với lũ, bảo vệ rừng ngập mặn và xây dựng đê biển, kè chắn sóng, cống ngăn mặn. Bên cạnh đó, vùng đẩy mạnh du lịch sinh thái sông nước, miệt vườn, rừng ngập mặn, rừng tràm gắn với du lịch cộng đồng bền vững và bảo đảm nguồn nước sạch sinh hoạt trong mùa khô.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 2 (Mục 2.c): Xác định các nhóm giải pháp thích ứng với hạn mặn, nước biển dâng và sống chung với lũ tại đồng bằng sông Cửu Long.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.c), tr. 229
+
+### climate change adaptation measures in the Red River Delta
+- **Tiếng Việt:** Biện pháp thích ứng với biến đổi khí hậu ở châu thổ sông Hồng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Adaptation solutions to climate change in the Red River Delta, encompassing improved farming techniques, production technologies, and adjusted cropping schedules—especially for winter crops—to mitigate extreme weather and pest damage in agriculture. Concurrently, the region upgrades industrial technologies to cut greenhouse gas emissions and strengthens community weather monitoring for effective disaster preparedness during heatwaves and severe cold spells.
+- **Giải thích (VI):** Hệ thống giải pháp ứng phó với biến đổi khí hậu tại châu thổ sông Hồng, bao gồm áp dụng kĩ thuật canh tác, công nghệ sản xuất và điều chỉnh lịch thời vụ (đặc biệt với cây vụ đông) nhằm giảm thiệt hại do thời tiết cực đoan, sâu bệnh trong nông nghiệp. Đồng thời, vùng đẩy mạnh đổi mới công nghệ công nghiệp để giảm phát thải khí nhà kính và tăng cường theo dõi dự báo thời tiết trong cộng đồng để phòng, chống thiên tai hiệu quả khi nắng nóng hoặc rét đậm, rét hại.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 2 (Mục 2.c): Xác định các nhóm giải pháp thích ứng đặc thù với biến đổi khí hậu tại đồng bằng sông Hồng.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.c), tr. 228, 229; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.b), tr. 228; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.c), tr. 228
+
+### climate change impacts in the Red River and Mekong deltas
+- **Tiếng Việt:** Tác động của biến đổi khí hậu ở châu thổ sông Hồng và sông Cửu Long
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The socio-economic consequences of climate change across Vietnam's two deltas: in the Red River Delta, prolonged heatwaves raise cooling costs and harm public health, shorter cold seasons disrupt winter crops, and more frequent storms and heavy rains cause flooding and agricultural instability. In the Mekong (Cuu Long) Delta, rising temperatures, severe droughts, sea-level rise, and saltwater intrusion intensify pests and diseases, freshwater shortages, wildfire risks, coastal erosion, and loss of farmland and mangroves, undermining livelihoods and social welfare.
+- **Giải thích (VI):** Những hệ quả kinh tế – xã hội do biến đổi khí hậu gây ra tại hai đồng bằng châu thổ: ở châu thổ sông Hồng, nắng nóng kéo dài hại sức khoẻ và tăng chi phí làm mát, mùa lạnh ngắn ảnh hưởng cây vụ đông, còn bão mưa lớn gây ngập lụt làm nông nghiệp bấp bênh. Ở châu thổ sông Cửu Long, nhiệt độ tăng cùng hạn hán, nước biển dâng và xâm nhập mặn làm gia tăng dịch hại, thiếu nước ngọt, cháy rừng, sạt lở bờ biển, thu hẹp đất nông nghiệp và rừng ngập mặn, tác động xấu đến sinh kế và an sinh xã hội.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 2 (Mục 2.b): So sánh hệ quả kinh tế – xã hội của biến đổi khí hậu đối với từng vùng châu thổ.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.b), tr. 227, 228; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.a), tr. 227
+
+### climate change manifestations in the Red River and Mekong deltas
+- **Tiếng Việt:** Biểu hiện biến đổi khí hậu ở châu thổ sông Hồng và sông Cửu Long
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Distinct hydrometeorological trends observed in Vietnam's two major deltas during 1961–2020, marked by rising mean annual temperatures, decadal rainfall fluctuations, and an average coastal sea-level rise of 2.7 mm per year. Meanwhile, extreme weather events have grown increasingly erratic, with more hot days of 35 °C or above and fewer severe cold days in the Red River Delta, alongside intensifying heatwaves and droughts in the Mekong (Cuu Long) Delta.
+- **Giải thích (VI):** Những xu thế biến đổi khí tượng – thuỷ văn rõ nét tại hai vùng châu thổ của Việt Nam giai đoạn 1961 – 2020, thể hiện qua nhiệt độ trung bình năm tăng lên, lượng mưa biến động qua các thập niên và mực nước biển ven bờ dâng trung bình 2,7 mm/năm. Đồng thời, các hiện tượng thời tiết cực đoan trở nên bất thường với số ngày nắng nóng từ 35 °C trở lên tăng và số ngày rét đậm, rét hại giảm ở châu thổ sông Hồng, còn nắng nóng và hạn hán gia tăng ở châu thổ sông Cửu Long.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 2 (Mục 2.a): Phân tích số liệu khí tượng – thuỷ văn về xu thế biến đổi khí hậu và nước biển dâng tại hai đồng bằng châu thổ.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.a), tr. 226; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.a), tr. 227; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1.a), tr. 226; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1.b), tr. 226
 
 ### climate change mitigation
 - **Tiếng Việt:** Giảm nhẹ biến đổi khí hậu
@@ -986,7 +1077,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Africa's climate regime, among the hottest and driest in the world, featuring an average annual temperature above 20°C and relatively low precipitation. Because the Equator crosses nearly the middle of the continent, its climate zones are arranged almost symmetrically north and south into equatorial, sub-equatorial, tropical, and subtropical climates.
 - **Giải thích (VI):** Chế độ khí hậu khô nóng bậc nhất thế giới của châu Phi với nhiệt độ trung bình năm trên 20°C và lượng mưa tương đối thấp. Do đường Xích đạo chạy qua gần chính giữa lục địa, các đới khí hậu phân bố gần như đối xứng về hai phía bắc – nam gồm khí hậu xích đạo, cận xích đạo, nhiệt đới và cận nhiệt.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2.b): đặc điểm nhiệt ẩm chung và quy luật phân bố đối xứng qua Xích đạo của các đới khí hậu châu Phi.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 130
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 130; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.c), tr. 130; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 130
 
 ### climate of Australia
 - **Tiếng Việt:** Khí hậu Ô-xtrây-li-a
@@ -1034,7 +1125,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A hot, humid, and rainy climatic regime resulting from the region's location largely within the equatorial and tropical zones, characterized by mean temperatures of 21°C–27°C, humidity above 80%, and average annual rainfall of 1,000–2,000 mm. Differentiated into tropical monsoon (mainland and most of the Philippines), equatorial and sub-equatorial (insular areas), and altitudinal mountain climates, it favors tropical agriculture while facing typhoons, floods, and climate change.
 - **Giải thích (VI):** Chế độ khí hậu mang tính chất nóng ẩm mưa nhiều do đại bộ phận lãnh thổ nằm trong đới xích đạo và nhiệt đới, với nhiệt độ trung bình 21°C – 27°C, độ ẩm trên 80% và lượng mưa trung bình 1 000 – 2 000 mm/năm. Khu vực phân hoá thành khí hậu nhiệt đới gió mùa (ở phần lục địa và phần lớn Phi-líp-pin), khí hậu xích đạo, cận xích đạo (ở phần hải đảo) và phân hoá theo đai cao, thuận lợi cho nông nghiệp nhiệt đới nhưng thường chịu bão, lũ lụt và biến đổi khí hậu.
 - **Bối cảnh:** Địa lí lớp 11, Bài 11 (Mục II.2): Phân tích đặc điểm nhiệt ẩm, sự phân hoá khí hậu và tác động đối với sản xuất, đời sống ở Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.2), tr. 48
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.2), tr. 48; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.3), tr. 48; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.4), tr. 48
 
 ### climate of Southwest Asia
 - **Tiếng Việt:** Khí hậu khu vực Tây Nam Á
@@ -1042,7 +1133,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A predominantly continental climatic regime within the subtropical and tropical zones, characterized by hot, dry summers and cold, dry winters that limit cultivation and settlement except along coastal strips. Climate varies from north to south—with northern Mediterranean coastal rainfall of around 500 mm/year decreasing inland and southern tropical areas experiencing large thermal ranges and only 100–300 mm/year of rain—as well as by elevation across mountains and plateaus.
 - **Giải thích (VI):** Chế độ khí hậu thuộc đới cận nhiệt và nhiệt đới mang tính chất lục địa sâu sắc, đặc trưng bởi mùa hè khô nóng và mùa đông khô lạnh, ít thuận lợi cho trồng trọt và cư trú (trừ dải ven biển). Khí hậu phân hoá theo chiều bắc – nam (phía bắc cận nhiệt có mưa ven Địa Trung Hải khoảng 500 mm/năm giảm dần vào nội địa; phía nam nhiệt đới có biên độ nhiệt lớn, mưa chỉ 100 – 300 mm/năm) và phân hoá theo đai cao ở vùng núi, sơn nguyên.
 - **Bối cảnh:** Địa lí lớp 11, Bài 15 (Mục II.2): Phân tích tính chất khô hạn, sự phân hoá khí hậu và ảnh hưởng đến sản xuất, cư trú ở Tây Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.2), tr. 69
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.2), tr. 69; SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.1), tr. 69; SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.3), tr. 69
 
 ### climate of the Republic of South Africa
 - **Tiếng Việt:** Khí hậu Cộng hoà Nam Phi
@@ -1050,7 +1141,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The tropical and subtropical climatic regime of the Republic of South Africa, exhibiting marked differentiation from north to south, west to east, and between coastal and inland areas. The interior and western coast experience an arid continental tropical climate with low rainfall, the southeastern coast has a humid tropical climate with abundant rainfall favorable for industrial and tropical fruit crops, and the southern coast features a Mediterranean subtropical climate suited to subtropical fruit cultivation.
 - **Giải thích (VI):** Chế độ khí hậu thuộc đới nhiệt đới và cận nhiệt của Cộng hoà Nam Phi, phân hoá rõ rệt theo chiều bắc – nam, tây – đông và giữa ven biển với nội địa. Vùng nội địa và duyên hải phía tây mang khí hậu nhiệt đới lục địa khô hạn ít mưa, duyên hải đông nam có khí hậu nhiệt đới ẩm mưa nhiều thuận lợi trồng cây công nghiệp và cây ăn quả nhiệt đới, còn ven biển phía nam mang khí hậu cận nhiệt địa trung hải thích hợp trồng cây ăn quả cận nhiệt.
 - **Bối cảnh:** Địa lí lớp 11, Bài 30 (Mục II.2): Sự phân hoá khí hậu theo không gian và tác động đến cơ cấu cây trồng, vật nuôi của Cộng hoà Nam Phi.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.2), tr. 154
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.2), tr. 154; SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.1), tr. 154; SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.3), tr. 154
 
 ### climate of the Russian Federation
 - **Tiếng Việt:** Khí hậu Liên bang Nga
@@ -1132,7 +1223,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 29 (Mục 1.a): vai trò, đặc điểm và phân bố của ngành khai thác than trên thế giới.
   - Địa lí lớp 12, Bài 16 (Mục I.1): đặc điểm phát triển và phân bố ngành khai thác than ở Việt Nam.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 1.a), tr. 81; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 1.c), tr. 82; SGK Địa lí 12 KNTT, Phần 3, B16, tr. 69; SGK Địa lí 12 KNTT, Phần 3, B16 (Mục I.1), tr. 69, 70
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 1.a), tr. 81; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 1.c), tr. 82; SGK Địa lí 10 KNTT, Phần ba, B29, tr. 81; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 1.b), tr. 81; SGK Địa lí 12 KNTT, Phần 3, B16, tr. 69; SGK Địa lí 12 KNTT, Phần 3, B16 (Mục I.1), tr. 69, 70; SGK Địa lí 12 KNTT, Phần 3, B16 (Mục I.1), tr. 69
 
 ### coastal region of China
 - **Tiếng Việt:** Vùng duyên hải Trung Quốc
@@ -1226,7 +1317,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An industrial branch manufacturing everyday commodities for domestic consumption and export, characterized by low capital requirements, rapid capital recovery, and simple production processes, though prone to causing air and water pollution. Strongly influenced by labor supply, raw materials, and consumer markets, it is widely distributed across China, India, the United States, the EU, Japan, and Southeast and South Asian nations.
 - **Giải thích (VI):** Ngành công nghiệp sản xuất các mặt hàng thông dụng phục vụ đời sống hằng ngày của người dân và xuất khẩu, có đặc điểm vốn đầu tư ít, hoàn vốn nhanh, quy trình sản xuất đơn giản nhưng dễ gây ô nhiễm nước và không khí. Ngành chịu ảnh hưởng lớn của nguồn lao động, nguyên liệu, thị trường tiêu thụ và phân bố rộng rãi tại Trung Quốc, Ấn Độ, Hoa Kỳ, EU, Nhật Bản cùng các nước Đông Nam Á, Nam Á.
 - **Bối cảnh:** Địa lí lớp 10, Bài 29 (Mục 4): vai trò, đặc điểm sản xuất và sự phân bố của ngành công nghiệp sản xuất hàng tiêu dùng.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 4), tr. 84; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 4), tr. 85
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 4), tr. 84; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 4), tr. 85; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 3), tr. 84; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 4), tr. 84, 85
 
 ### consumer services
 - **Tiếng Việt:** Dịch vụ tiêu dùng
@@ -1234,7 +1325,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A major branch of the service sector comprising healthcare, education, physical training, sports, tourism, and post and telecommunications. These activities generate largely intangible outputs that directly serve human daily living, cultural, spiritual, and production needs.
 - **Giải thích (VI):** Nhóm ngành thuộc cơ cấu khu vực dịch vụ bao gồm các lĩnh vực y tế, giáo dục, thể dục, thể thao, du lịch và bưu chính viễn thông. Các hoạt động này tạo ra sản phẩm phần lớn là vô hình nhằm đáp ứng trực tiếp nhu cầu sinh hoạt, văn hoá, tinh thần và sản xuất của con người.
 - **Bối cảnh:** Địa lí lớp 10, Bài 33 (Mục 1): nhận diện các lĩnh vực phục vụ đời sống dân cư thuộc nhóm dịch vụ tiêu dùng.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 1), tr. 91
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 1), tr. 91; SGK Địa lí 10 KNTT, Phần ba, B33, tr. 91; SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 2), tr. 91
 
 ### contemporary issues in modern agricultural development
 - **Tiếng Việt:** Một số vấn đề phát triển nền nông nghiệp hiện đại
@@ -1242,7 +1333,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The challenges and transformation trends of modern agriculture in response to shrinking arable land, climate change, and soil degradation and environmental pollution caused by excessive agrochemical use. To overcome these issues, agricultural production is promoting large-scale fields, applying biotechnology, information technology, and automation, and strengthening production linkages.
 - **Giải thích (VI):** Những thách thức và xu hướng chuyển đổi của nông nghiệp hiện đại trước tình trạng thu hẹp đất canh tác, biến đổi khí hậu cùng thoái hoá đất, ô nhiễm môi trường do lạm dụng phân bón và thuốc bảo vệ thực vật. Để khắc phục, sản xuất nông nghiệp đang đẩy mạnh hình thành cánh đồng lớn, ứng dụng công nghệ sinh học, công nghệ thông tin, tự động hoá và tăng cường liên kết sản xuất.
 - **Bối cảnh:** Địa lí lớp 10, Bài 26 (Mục 2.a): các thách thức và giải pháp phát triển của nền nông nghiệp hiện đại trên thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 2.a), tr. 77
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 2.a), tr. 77; SGK Địa lí 10 KNTT, Phần ba, B26, tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.a), tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.b), tr. 76
 
 ### contiguous zone
 - **Tiếng Việt:** Vùng tiếp giáp lãnh hải
@@ -1254,7 +1345,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 12, Bài 1 (Mục I.2): Xác định vị trí và chiều rộng của vùng tiếp giáp lãnh hải Việt Nam.
   - Lịch sử và Địa lí lớp 8, Bài 11 (Mục 2): Xác định vị trí và chiều rộng các vùng biển của Việt Nam trên sơ đồ mặt cắt khái quát.
   - Giáo dục Kinh tế và Pháp luật lớp 12, Bài 15 (Mục 3.b): vùng biển tiếp liền ngoài lãnh hải nơi quốc gia ven biển thực hiện quyền chủ quyền và quyền kiểm soát chuyên biệt.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7, 8; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149, 150; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 150; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.a), tr. 121; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.b), tr. 121, 122
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7, 8; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 149, 150; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 2), tr. 150; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.a), tr. 121; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.b), tr. 121, 122; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.b), tr. 121
 
 ### continent
 - **Tiếng Việt:** Châu lục
@@ -1320,7 +1411,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 12, Bài 1 (Mục I.2): Xác định phạm vi đáy biển và lòng đất dưới đáy biển thuộc thềm lục địa Việt Nam.
   - Giáo dục Kinh tế và Pháp luật lớp 12, Bài 15 (Mục 3.b): vùng đáy biển và lòng đất dưới đáy biển thuộc quyền chủ quyền của quốc gia ven biển theo Công ước Luật Biển năm 1982.
   - *Lưu ý:* Khái niệm pháp lí về vùng thềm lục địa theo Điều 76 Công ước Luật Biển năm 1982 (xác định theo khoảng cách 200–350 hải lí và mép ngoài rìa lục địa), phân biệt với thềm lục địa tự nhiên xác định theo độ sâu địa hình trong địa chất – địa lí học.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 8; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục II.1), tr. 8; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.a), tr. 121; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.b), tr. 121, 122
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 7; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.2), tr. 8; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục II.1), tr. 8; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.a), tr. 121; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.b), tr. 121, 122; SGK GD KT&PL 12 KNTT, Chủ đề 09, B15 (Mục 3.b), tr. 121
 
 ### continental shelf of Vietnam
 - **Tiếng Việt:** Thềm lục địa Việt Nam
@@ -1355,7 +1446,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A strategic cooperation framework of the European Union combining technology standardization and data governance in frontier fields (artificial intelligence, cloud computing, mobile devices, and quantum technology) with green economic development. Member states jointly pursue balanced growth, social progress, environmental protection, and decarbonization, exemplified by the European Green Deal (2020) targeting at least a 55% reduction in greenhouse gas emissions by 2030 compared to 1990 levels.
 - **Giải thích (VI):** Định hướng hợp tác chiến lược của Liên minh châu Âu kết hợp giữa thiết lập tiêu chuẩn công nghệ, kiểm soát dữ liệu trong các lĩnh vực mũi nhọn (trí tuệ nhân tạo, điện toán đám mây, thiết bị di động, công nghệ lượng tử) với phát triển kinh tế xanh. Các nước thành viên thống nhất thúc đẩy tăng trưởng cân bằng, tiến bộ xã hội, bảo vệ môi trường và giảm phát thải các-bon, tiêu biểu qua Thoả thuận Xanh (2020) hướng tới giảm ít nhất 55% khí nhà kính vào năm 2030 so với mức năm 1990.
 - **Bối cảnh:** Địa lí lớp 11, Bài 9 (Mục III.3): Trình bày các lĩnh vực hợp tác mới về công nghệ số và kinh tế xanh định hình vị thế của EU.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục III.3), tr. 43
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục III.3), tr. 43; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục III.2), tr. 43
 
 ### Cordillera mountain system
 - **Tiếng Việt:** Miền núi Coóc-đi-e
@@ -1363,7 +1454,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** One of the world's largest mountain systems located in western North America, stretching approximately 9,000 km north–south with an average elevation of 3,000–4,000 m, composed of parallel mountain ranges interspersed with plateaus and highlands.
 - **Giải thích (VI):** Một trong những hệ thống núi lớn nhất thế giới nằm ở phía tây lục địa Bắc Mỹ, trải dài khoảng 9 000 km theo hướng bắc – nam với độ cao trung bình 3 000 – 4 000 m, gồm nhiều dãy núi chạy song song xen kẽ các cao nguyên và sơn nguyên.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 1): khu vực địa hình núi cao phía tây trong ba miền địa hình chính của Bắc Mỹ.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 1), tr. 142
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 1), tr. 142; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14, tr. 142; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 2), tr. 142
 
 ### Coriolis effect
 - **Tiếng Việt:** Sự lệch hướng chuyển động của vật thể (lực Cô-ri-ô-lít)
@@ -1381,7 +1472,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 11, Bài 9 (Mục I.3): Phân biệt cơ quan lập pháp đại diện chính phủ các nước thành viên với Hội đồng châu Âu và Nghị viện châu Âu.
   - *Lưu ý:* Phân biệt với Hội đồng châu Âu (European Council) gồm nguyên thủ các nước thành viên quyết định đường lối chính trị chung.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39, 40
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39, 40; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 40; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục II.1), tr. 40
 
 ### cove
 - **Tiếng Việt:** Vũng
@@ -1397,15 +1488,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A primary branch of agriculture specializing in cultivating crops to supply food and foodstuffs for humans, raw materials for processing industries, feed for livestock, and export goods. This sector also generates rural employment and contributes to food security, social stability, and environmental protection.
 - **Giải thích (VI):** Ngành sản xuất chính trong nông nghiệp chuyên canh tác các loại cây trồng nhằm cung cấp lương thực, thực phẩm cho con người, nguyên liệu cho công nghiệp chế biến, thức ăn cho chăn nuôi và mặt hàng xuất khẩu. Ngành này còn tạo việc làm cho cư dân nông thôn, góp phần bảo đảm an ninh lương thực, ổn định xã hội và bảo vệ môi trường.
 - **Bối cảnh:** Địa lí lớp 10, Bài 24 (Mục 1.a): vai trò và vị trí của ngành trồng trọt trong cơ cấu nông nghiệp.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B24, tr. 69; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.a), tr. 69
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B24, tr. 69; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.a), tr. 69; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.b), tr. 69
 
 ### crop production in Vietnam
 - **Tiếng Việt:** Ngành trồng trọt ở Việt Nam
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The production subsector accounting for the largest share of Vietnam's agricultural output value (60.8% in 2021), featuring a diverse crop structure including food crops, industrial crops, fruit trees, vegetables, and other crops. Production increasingly adopts mechanization, automation, and modern cultivation models.
 - **Giải thích (VI):** Ngành sản xuất chiếm tỉ trọng lớn nhất trong cơ cấu giá trị sản xuất nông nghiệp của Việt Nam (60,8% năm 2021), có cơ cấu cây trồng đa dạng gồm cây lương thực, cây công nghiệp, cây ăn quả, cây thực phẩm và các cây trồng khác. Hoạt động sản xuất ngày càng đẩy mạnh ứng dụng cơ giới hoá, tự động hoá và các mô hình canh tác mới.
-- **Bối cảnh:** Địa lí lớp 12, Bài 11 (Mục III.1): vị trí, cơ cấu cây trồng và hiện trạng phát triển, phân bố ngành trồng trọt nước ta.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B11 (Mục II), tr. 51; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục III.1), tr. 51, 52
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The dominant subsector of Vietnamese agriculture (accounting for 65.3% of agricultural gross output in 2024), featuring a diverse crop structure that includes food crops, vegetables and pulses, industrial crops, and fruit crops. Production is shifting from lower-value crops toward higher-value alternatives while adopting improved varieties suited to local ecological conditions for higher yield and quality. / VI: Ngành sản xuất giữ vai trò chủ đạo trong nông nghiệp Việt Nam (chiếm 65,3% giá trị sản xuất năm 2024) với cơ cấu cây trồng đa dạng gồm cây lương thực, cây rau đậu, cây công nghiệp và cây ăn quả. Cơ cấu ngành đang chuyển dịch theo hướng thay thế các cây trồng hiệu quả thấp bằng cây trồng có giá trị kinh tế cao hơn và ứng dụng giống mới phù hợp điều kiện sinh thái, cho năng suất, chất lượng tốt.
+- **Bối cảnh:**
+  - Địa lí lớp 12, Bài 11 (Mục III.1): vị trí, cơ cấu cây trồng và hiện trạng phát triển, phân bố ngành trồng trọt nước ta.
+  - Lịch sử và Địa lí lớp 9, Bài 5 (Mục 2.a): Đánh giá vị trí, xu hướng chuyển dịch cơ cấu và phân bố của ngành trồng trọt trong nông nghiệp Việt Nam.
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B11 (Mục II), tr. 51; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục III.1), tr. 51, 52; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục III.1), tr. 51; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.a), tr. 131, 132; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2), tr. 131; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.a), tr. 131
 
 ### crude birth rate
 - **Tiếng Việt:** Tỉ suất sinh thô
@@ -1413,7 +1507,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A demographic indicator measuring the number of live births occurring during a year per 1,000 inhabitants of a given territory, typically expressed per mille (‰). Globally, the crude birth rate exhibits a downward trend across both developed and developing countries.
 - **Giải thích (VI):** Chỉ tiêu dân số biểu thị số trẻ em sinh ra còn sống trong một năm tính bình quân trên 1 000 dân của một lãnh thổ, thường tính bằng đơn vị phần nghìn (‰). Hiện nay, tỉ suất sinh thô của thế giới có xu hướng giảm ở cả nhóm nước phát triển và nhóm nước đang phát triển.
 - **Bối cảnh:** Địa lí lớp 10, Bài 19 (Mục 2.a): Chỉ tiêu đánh giá mức sinh trong gia tăng dân số tự nhiên.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.a), tr. 56
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.a), tr. 56; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.b), tr. 56; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.c), tr. 56
 
 ### crude death rate
 - **Tiếng Việt:** Tỉ suất tử thô
@@ -1421,7 +1515,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A demographic indicator measuring the number of deaths occurring during a year per 1,000 inhabitants of a given territory, typically expressed per mille (‰). Worldwide, this rate has generally trended downward alongside improvements in healthcare and living standards.
 - **Giải thích (VI):** Chỉ tiêu dân số biểu thị số người chết trong một năm tính bình quân trên 1 000 dân của một lãnh thổ, thường tính bằng đơn vị phần nghìn (‰). Trên phạm vi thế giới, chỉ tiêu này nhìn chung có xu hướng giảm nhờ sự cải thiện điều kiện y tế và đời sống.
 - **Bối cảnh:** Địa lí lớp 10, Bài 19 (Mục 2.a): Chỉ tiêu đánh giá mức tử vong trong gia tăng dân số tự nhiên.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.a), tr. 56
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.a), tr. 56; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.b), tr. 56; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.c), tr. 56
 
 ### culture and society of the Russian Federation
 - **Tiếng Việt:** Văn hoá và xã hội Liên bang Nga
@@ -1477,7 +1571,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A natural environment marked by a harsh arid climate, extremely low rainfall, and a large diurnal temperature range. Its flora and fauna are sparse, with animals consisting mainly of heat- and drought-adapted species such as venomous snakes, monitor lizards, and rodents.
 - **Giải thích (VI):** Môi trường tự nhiên có khí hậu khô hạn khắc nghiệt, lượng mưa rất ít và biên độ nhiệt độ giữa ngày và đêm lớn. Hệ sinh vật tại đây nghèo nàn, động vật chủ yếu gồm các loài thích nghi với điều kiện khô nóng như rắn độc, kì đà và một số loài gặm nhấm.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2.d): hai vùng môi trường khô hạn rộng lớn ở Bắc Phi (hoang mạc Xa-ha-ra) và Nam Phi (hoang mạc Ca-la-ha-ri, Na-míp).
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 131
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 131; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 131, 132
 
 ### desertification (geography)
 - **Tiếng Việt:** Hoang mạc hoá
@@ -1495,7 +1589,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Extensive arid landscapes distributed across Southwest Asia, notably the Syrian, Nefud, and Rub' al Khali deserts. Dominated by nutrient-poor gray desert and semi-desert soils, these areas pose severe constraints on agricultural cultivation.
 - **Giải thích (VI):** Các vùng cảnh quan khô hạn rộng lớn phân bố ở Tây Nam Á, tiêu biểu là các hoang mạc Xi-ri, Nê-phút và Rúp-en Kha-li. Khu vực này có lớp đất chủ yếu là đất xám hoang mạc và bán hoang mạc nghèo dinh dưỡng, gây nhiều hạn chế cho hoạt động canh tác nông nghiệp.
 - **Bối cảnh:** Địa lí lớp 11, Bài 15 (Mục II.1): Trình bày sự phân bố các hoang mạc lớn và hạn chế về thổ nhưỡng đối với trồng trọt ở Tây Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.1), tr. 69
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.1), tr. 69; SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.2), tr. 69; SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.3), tr. 69
 
 ### determining directions by natural flora and fauna
 - **Tiếng Việt:** Xác định phương hướng dựa vào động, thực vật tự nhiên
@@ -1527,7 +1621,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The global operational landscape of postal services marked by a continuously expanding and upgraded post office network offering high-quality modern services—such as express delivery, postal data exploitation, and mail-order retail—alongside traditional mail, parcel, money transfer, and telegraph services. Spatially, postal facilities are concentrated primarily in cities and industrial centers.
 - **Giải thích (VI):** Bức tranh hoạt động của ngành bưu chính thế giới thể hiện qua mạng lưới bưu cục không ngừng mở rộng, nâng cấp và bổ sung nhiều dịch vụ mới chất lượng cao như chuyển phát nhanh, khai thác dữ liệu qua bưu chính, bán hàng qua bưu điện bên cạnh các dịch vụ thư tín, bưu phẩm, chuyển tiền, điện báo truyền thống. Về không gian, các cơ sở bưu chính phân bố tập trung chủ yếu tại các thành phố và trung tâm công nghiệp.
 - **Bối cảnh:** Địa lí lớp 10, Bài 35 (Mục 3): khái quát xu hướng đa dạng hoá dịch vụ và đặc điểm phân bố mạng lưới bưu cục trên thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 3), tr. 99
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 3), tr. 99; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 1.b), tr. 99; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 2), tr. 99
 
 ### development and distribution of telecommunications
 - **Tiếng Việt:** Tình hình phát triển và phân bố viễn thông
@@ -1535,7 +1629,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The rapid expansion establishing telecommunications as critical economic infrastructure led by telephone services (over 8 billion mobile subscriptions in 2019, led by China, India, the United States, Brazil, and Russia) and the internet (introduced in 1989, exceeding 4.3 billion users in 2019 with high penetration in Canada, South Korea, Japan, the UK, the EU, and the Middle East). The sector increasingly integrates advanced information technologies such as the Internet of Things, digital data, and cloud computing.
 - **Giải thích (VI):** Xu hướng bùng nổ đưa viễn thông trở thành hạ tầng cơ sở trọng yếu của nền kinh tế với hai dịch vụ chủ lực là điện thoại (hơn 8 tỉ thuê bao di động năm 2019, đứng đầu là Trung Quốc, Ấn Độ, Hoa Kỳ, Bra-xin, Liên bang Nga) và internet (ra đời năm 1989, đạt hơn 4,3 tỉ người dùng năm 2019 với tỉ lệ cao ở Ca-na-đa, Hàn Quốc, Nhật Bản, Anh, EU, Trung Đông). Ngành đang đẩy mạnh tích hợp các công nghệ thông tin hiện đại như internet vạn vật, dữ liệu số và điện toán đám mây.
 - **Bối cảnh:** Địa lí lớp 10, Bài 35 (Mục 3): trình bày quy mô phát triển dịch vụ điện thoại, internet và công nghệ số trên thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 3), tr. 99
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 3), tr. 99; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 1.b), tr. 99; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 2), tr. 99
 
 ### digital map
 - **Tiếng Việt:** Bản đồ số
@@ -1544,6 +1638,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tập hợp dữ liệu bản đồ có tổ chức, lưu trữ trên các thiết bị có khả năng đọc như máy tính hoặc điện thoại thông minh và hiển thị dưới dạng hình ảnh bản đồ. Loại bản đồ này mang lại sự thuận lợi cao trong sử dụng, lưu trữ và chỉnh sửa.
 - **Bối cảnh:** Địa lí lớp 10, Bài 3 (Mục 2.a): Phân biệt khái niệm và ưu điểm của bản đồ số trong lưu trữ, chỉnh sửa và khai thác.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B3, tr. 12; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.a), tr. 13; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.b), tr. 13
+
+### directions for job creation in Vietnam
+- **Tiếng Việt:** Phương hướng giải quyết việc làm ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Core policy solutions aimed at generating employment and reducing unemployment in Vietnam, including accelerating economic sector growth to create new jobs and refining labour laws and policies to mobilize investment resources for job creation. Simultaneously, efforts focus on expanding vocational training to upgrade workforce quality, developing labour-market information and counselling systems, and strengthening international labour cooperation.
+- **Giải thích (VI):** Hệ thống giải pháp trọng tâm nhằm tạo việc làm và giảm thất nghiệp ở Việt Nam, bao gồm đẩy mạnh phát triển các ngành kinh tế để tạo việc làm mới và hoàn thiện chính sách, pháp luật nhằm huy động mọi nguồn lực đầu tư tạo việc làm. Đồng thời, Nhà nước chú trọng đào tạo, dạy nghề nâng cao chất lượng lao động, phát triển hệ thống tư vấn, thông tin thị trường lao động và mở rộng hợp tác quốc tế về lao động.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 3 (Mục 2.b): Trình bày các nhóm giải pháp cơ bản nhằm giải quyết việc làm và nâng cao hiệu quả sử dụng lao động ở nước ta.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2.b), tr. 126; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2.a), tr. 126
 
 ### directions on a map
 - **Tiếng Việt:** Phương hướng trên bản đồ
@@ -1560,6 +1662,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Dòng sông nhánh làm nhiệm vụ thoát nước cho sông chính trong một hệ thống sông.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 20 (Mục 1.a): phân biệt bộ phận thoát nước cho sông chính ở hạ lưu với phụ lưu.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20, tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158, 159
+
+### distribution of ethnic groups in Vietnam
+- **Tiếng Việt:** Phân bố các dân tộc Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The spatial settlement pattern of Vietnam's 54 ethnic groups, wherein the Kinh live nationwide—concentrated in plains, coastal zones, and midlands—while ethnic minorities inhabit mainly hills, mountains, and plateaus. Alongside socio-economic development, ethnic settlement ranges have increasingly expanded and become more geographically intermingled across regions.
+- **Giải thích (VI):** Đặc điểm cư trú theo không gian của cộng đồng 54 dân tộc Việt Nam, trong đó người Kinh sinh sống khắp cả nước nhưng tập trung ở đồng bằng, ven biển và trung du, còn các dân tộc thiểu số cư trú chủ yếu tại vùng đồi núi và cao nguyên. Cùng với sự phát triển kinh tế – xã hội, phạm vi cư trú của các dân tộc ngày càng mở rộng và chuyển biến theo hướng đan xen trên các vùng lãnh thổ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 1 (Mục 1.a, 1.b): Trình bày đặc điểm cư trú rộng khắp và xu hướng phân bố ngày càng đan xen của các dân tộc ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 117; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1.a), tr. 117; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1.b), tr. 117; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1, tr. 117
 
 ### diurnal tide
 - **Tiếng Việt:** Nhật triều
@@ -1580,7 +1690,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 12, Bài 21 (Mục I.1): sự phát triển hệ thống bán buôn, bán lẻ, thương mại điện tử và phân bố nội thương ở Việt Nam.
   - *Lưu ý:* Phân biệt với ngoại thương (hoạt động trao đổi hàng hoá, dịch vụ vượt ra ngoài biên giới giữa các quốc gia với nhau).
   - *Lưu ý:* Phân biệt với ngoại thương (hoạt động trao đổi, xuất nhập khẩu hàng hoá và dịch vụ giữa trong nước với thị trường nước ngoài).
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.1.b), tr. 103; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.3), tr. 104; SGK Địa lí 12 KNTT, Phần 3, B21, tr. 89; SGK Địa lí 12 KNTT, Phần 3, B21 (Mục I.1), tr. 89, 90
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.1.b), tr. 103; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.3), tr. 104; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.2), tr. 104; SGK Địa lí 12 KNTT, Phần 3, B21, tr. 89; SGK Địa lí 12 KNTT, Phần 3, B21 (Mục I.1), tr. 89, 90; SGK Địa lí 12 KNTT, Phần 3, B21 (Mục I.1), tr. 89
 
 ### dot distribution method
 - **Tiếng Việt:** Phương pháp chấm điểm
@@ -1623,7 +1733,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 37 (Mục I.1.b, I.3): nêu xu hướng hiện đại hoá phương thức mua bán hàng hoá nhờ ứng dụng công nghệ.
   - Lịch sử lớp 10, Bài 8 (Mục 3.a): Hình thức mua sắm trực tuyến tiêu biểu phản ánh tác động kinh tế của các cuộc cách mạng công nghiệp hiện đại.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.1.b), tr. 103; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.3), tr. 104; SGK Lịch sử 10 KNTT, Chủ đề 04, B8 (Mục 3.a), tr. 74; SGK Lịch sử 10 KNTT, Chủ đề 04, B8 (Mục 3.b), tr. 74
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.1.b), tr. 103; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.3), tr. 104; SGK Địa lí 10 KNTT, Phần ba, B37, tr. 103; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.1.a), tr. 103; SGK Lịch sử 10 KNTT, Chủ đề 04, B8 (Mục 3.a), tr. 74; SGK Lịch sử 10 KNTT, Chủ đề 04, B8 (Mục 3.b), tr. 74
 
 ### Earth science
 - **Tiếng Việt:** Khoa học Trái Đất
@@ -1655,10 +1765,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The outermost solid layer of the Earth with a thickness ranging from 5 km beneath oceans to 70 km beneath continents, accounting for about 1% of the planet's volume and 0.5% of its mass. Based on differences in composition and thickness, it is divided into two main types: continental crust and oceanic crust.
 - **Giải thích (VI):** Lớp vật chất cứng ngoài cùng của Trái Đất có độ dày dao động từ 5 km ở đại dương đến 70 km ở lục địa, chiếm khoảng 1% thể tích và 0,5% khối lượng hành tinh. Căn cứ vào sự khác nhau về thành phần cấu tạo và độ dày, lớp vỏ này chia thành hai kiểu chính là vỏ lục địa và vỏ đại dương.
 - **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The outermost of the three internal layers of the Earth, lying outside the mantle and the Earth's core. The Earth's crust is composed of adjacent tectonic plates. / VI: Lớp ngoài cùng trong ba lớp cấu tạo bên trong của Trái Đất, nằm bên ngoài lớp man-ti và nhân Trái Đất. Vỏ Trái Đất có cấu tạo gồm các địa mảng nằm kề nhau.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The outermost solid rocky layer of the Earth composed of soil and rock, averaging about $7\text{ km}$ thick beneath ocean floors and $35\text{ km}$ on continents (ranging from $5\text{ km}$ to $70\text{ km}$). It contains nearly all naturally occurring chemical elements, predominantly oxygen ($46.10\%$), silicon ($28.20\%$), aluminum ($8.23\%$), and iron ($5.63\%$) by mass. / VI: Lớp vỏ cứng gồm đất và đá nằm ở ngoài cùng của Trái Đất, có bề dày trung bình khoảng $7\text{ km}$ dưới đáy đại dương và $35\text{ km}$ trên các lục địa (dao động từ $5\text{ km}$ đến $70\text{ km}$). Lớp vỏ này chứa hầu hết các nguyên tố hoá học trong tự nhiên, chiếm tỉ lệ khối lượng lớn nhất là oxygen ($46,10\%$), silicon ($28,20\%$), nhôm ($8,23\%$) và sắt ($5,63\%$).
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 4 (Mục 2): Xác định vị trí, độ dày và sự phân chia hai kiểu vỏ chính của Trái Đất.
   - Lịch sử và Địa lí lớp 6, Bài 10 (Mục 1–2): vị trí và cấu tạo phân mảng của lớp ngoài cùng Trái Đất.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B4, tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 1), tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 16; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10, tr. 129; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 129; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 130
+  - Khoa học tự nhiên lớp 9, Bài 33 (Mục I): Tìm hiểu thành phần các nguyên tố hoá học chủ yếu và nguồn tài nguyên khoáng sản trong vỏ Trái Đất.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B4, tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 1), tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 16; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10, tr. 129; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 129; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 130; SGK Khoa học tự nhiên 9 KNTT, Chương 10, B33, tr. 146; SGK Khoa học tự nhiên 9 KNTT, Chương 10, B33 (Mục I), tr. 146; SGK Khoa học tự nhiên 9 KNTT, Chương 10, B33 (Mục II), tr. 147
 
 ### Earth's orbit
 - **Tiếng Việt:** Quỹ đạo của Trái Đất
@@ -1735,7 +1847,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The highest level of regional integration within the European Union, under which participating member states adopt a common economic policy, a common monetary policy, and a shared monetary system featuring a central bank and a single currency. This framework boosts trade, labor and goods mobility, price transparency, and fair competition, although the single currency still carries potential economic risks for certain member economies.
 - **Giải thích (VI):** Hình thức hợp tác khu vực ở mức độ cao nhất của Liên minh châu Âu, trong đó các nước thành viên thống nhất thực hiện chính sách kinh tế chung, chính sách tiền tệ chung và hệ thống tiền tệ chung gồm ngân hàng chung và đồng tiền chung. Cơ chế này thúc đẩy thương mại, lưu thông lao động và hàng hoá, minh bạch giá cả và cạnh tranh công bằng, dù đồng tiền chung vẫn tiềm ẩn rủi ro kinh tế đối với một số nước thành viên.
 - **Bối cảnh:** Địa lí lớp 11, Bài 9 (Mục III.2): Tìm hiểu mức độ liên kết kinh tế – tiền tệ và vai trò của đồng tiền chung trong Liên minh châu Âu.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục III.2), tr. 42, 43
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục III.2), tr. 42, 43; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục III.1), tr. 42; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục III.2), tr. 42
 
 ### economic centers in North America
 - **Tiếng Việt:** Trung tâm kinh tế ở Bắc Mỹ
@@ -1767,7 +1879,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The dynamic economic growth profile of Southeast Asia, marked by GDP growth rates exceeding the global average and total GDP expanding from 614.9 billion USD (in 2000) to 3,083.3 billion USD (in 2020), accounting for about 3.6% of world GDP. Regional economies are actively restructuring by leveraging geographical location, natural resources, labor, and foreign investment, despite significant development disparities among member countries.
 - **Giải thích (VI):** Bức tranh tăng trưởng kinh tế năng động của Đông Nam Á với tốc độ tăng GDP cao hơn mức trung bình thế giới và quy mô GDP tăng từ 614,9 tỉ USD (năm 2000) lên 3 083,3 tỉ USD (năm 2020), chiếm khoảng 3,6% GDP toàn cầu. Các nước trong khu vực đẩy mạnh chuyển dịch cơ cấu kinh tế nhờ phát huy lợi thế vị trí địa lí, tài nguyên, nguồn lao động và vốn đầu tư nước ngoài, song vẫn tồn tại chênh lệch lớn về trình độ phát triển giữa các quốc gia.
 - **Bối cảnh:** Địa lí lớp 11, Bài 12 (Mục I): Khái quát quy mô, tốc độ tăng trưởng và chuyển dịch cơ cấu kinh tế chung của khu vực Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục I), tr. 53, 54
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục I), tr. 53, 54; SGK Địa lí 11 KNTT, Phần hai, B12, tr. 53; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục I), tr. 53
 
 ### economic development of the Republic of South Africa
 - **Tiếng Việt:** Tình hình phát triển kinh tế Cộng hoà Nam Phi
@@ -1775,7 +1887,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The overall economic profile of the Republic of South Africa as one of the three largest economies in Africa (with a GDP of 335.4 billion USD in 2020) and the continent's sole member of the G20 (as of 2020). Its modern economic structure in 2020 is led by services at 64.6% of GDP, followed by industry and construction at 23.4%, while agriculture, forestry, and fisheries account for 2.5%.
 - **Giải thích (VI):** Bức tranh tổng quan nền kinh tế của Cộng hoà Nam Phi với vị thế là một trong ba nền kinh tế lớn nhất châu Phi (GDP đạt 335,4 tỉ USD năm 2020) và là quốc gia châu Phi duy nhất thuộc nhóm G20 (năm 2020). Cơ cấu kinh tế mang tính hiện đại khi khu vực dịch vụ chiếm 64,6% GDP, công nghiệp và xây dựng chiếm 23,4%, còn nông nghiệp, lâm nghiệp và thuỷ sản chiếm 2,5% (năm 2020).
 - **Bối cảnh:** Địa lí lớp 11, Bài 31 (Mục I): Quy mô GDP, vị thế quốc tế và cơ cấu ngành kinh tế của Cộng hoà Nam Phi.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B31 (Mục I), tr. 159
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B31 (Mục I), tr. 159; SGK Địa lí 11 KNTT, Phần hai, B31, tr. 159; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.1.a), tr. 159
 
 ### economic development resources
 - **Tiếng Việt:** Nguồn lực phát triển kinh tế
@@ -1783,7 +1895,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The aggregate capacity of a territory accumulated from its geographical location, historical and cultural heritage, natural resources, labor supply, existing assets, and potential future assets, together with external resources mobilizable for economic development.
 - **Giải thích (VI):** Sức mạnh tổng hợp của một lãnh thổ được tích luỹ từ vị trí địa lí, lịch sử – văn hoá, tài nguyên thiên nhiên, nguồn lao động, các tài sản hiện có và tiềm năng tài sản trong tương lai, cùng các nguồn lực bên ngoài có thể huy động để phục vụ phát triển kinh tế.
 - **Bối cảnh:** Địa lí lớp 10, Bài 21 (Mục 1): Định nghĩa khái niệm nguồn lực phát triển kinh tế của một quốc gia hoặc vùng lãnh thổ.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B21, tr. 63; SGK Địa lí 10 KNTT, Phần ba, B21 (Mục 1), tr. 63
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B21, tr. 63; SGK Địa lí 10 KNTT, Phần ba, B21 (Mục 1), tr. 63; SGK Địa lí 10 KNTT, Phần ba, B21 (Mục 2), tr. 63
 
 ### economic growth of Southwest Asia
 - **Tiếng Việt:** Tăng trưởng kinh tế khu vực Tây Nam Á
@@ -1831,7 +1943,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The shift in proportions among ownership sectors towards reducing the share of the state sector while increasing the shares of the non-state sector and the foreign-invested sector. This trend aligns with Vietnam's policy of developing a socialist-oriented multi-sector market economy and deepening international economic integration.
 - **Giải thích (VI):** Sự biến đổi tỉ trọng giữa các thành phần kinh tế theo hướng giảm tỉ trọng kinh tế Nhà nước, tăng tỉ trọng kinh tế ngoài Nhà nước và khu vực có vốn đầu tư nước ngoài. Xu hướng này là kết quả của đường lối phát triển nền kinh tế nhiều thành phần theo cơ chế thị trường định hướng xã hội chủ nghĩa và tăng cường mở cửa, hội nhập quốc tế của Việt Nam.
 - **Bối cảnh:** Địa lí lớp 12, Bài 10 (Mục II.2.b): xu hướng chuyển dịch cơ cấu và vai trò của các thành phần kinh tế ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.2.b), tr. 47, 48
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.2.b), tr. 47, 48; SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.2.a), tr. 47; SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.2.b), tr. 47
 
 ### economic restructuring towards industrialization and modernization
 - **Tiếng Việt:** Chuyển dịch cơ cấu kinh tế theo hướng công nghiệp hoá, hiện đại hoá
@@ -1839,7 +1951,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A comprehensive transformation of the economy and social life relying primarily on the development of industry and services on the foundation of science, technology, and innovation. This process aims not only for economic growth but also aligns with international integration and national sustainable development.
 - **Giải thích (VI):** Quá trình chuyển đổi toàn diện nền kinh tế và đời sống xã hội dựa chủ yếu vào sự phát triển của công nghiệp và dịch vụ trên nền tảng áp dụng khoa học – công nghệ, đổi mới sáng tạo. Quá trình này không chỉ hướng tới mục tiêu tăng trưởng kinh tế mà còn phù hợp với hội nhập quốc tế và phát triển bền vững của đất nước.
 - **Bối cảnh:** Địa lí lớp 12, Bài 10 (Mục II.1): định hướng chuyển dịch cơ cấu kinh tế tổng quát của Việt Nam trong thời kì Đổi mới và hội nhập.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B10, tr. 45; SGK Địa lí 12 KNTT, Phần 3, B10 (Mục I), tr. 45; SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.1), tr. 45, 46
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B10, tr. 45; SGK Địa lí 12 KNTT, Phần 3, B10 (Mục I), tr. 45; SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.1), tr. 45, 46; SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.1), tr. 45
 
 ### economic scale of Southwest Asia
 - **Tiếng Việt:** Quy mô kinh tế khu vực Tây Nam Á
@@ -1876,7 +1988,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 10, Bài 22 (Mục 1.a): Định nghĩa khái niệm cơ cấu kinh tế trong đánh giá sự phát triển của nền kinh tế.
   - Địa lí lớp 11, Bài 1 (Mục I): Khái niệm cơ cấu kinh tế và ba khu vực trong cơ cấu kinh tế theo ngành dùng để đánh giá trình độ phát triển các nhóm nước.
   - Giáo dục Kinh tế và Pháp luật lớp 12, Bài 1 (Mục 2.a) và Bảng giải thích thuật ngữ: chỉ tiêu đánh giá sự chuyển dịch cơ cấu trong phát triển kinh tế.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B22, tr. 65; SGK Địa lí 10 KNTT, Phần ba, B22 (Mục 1.a), tr. 65; SGK Địa lí 11 KNTT, Phần một, B1, tr. 5; SGK Địa lí 11 KNTT, Phần một, B1 (Mục I), tr. 5; SGK Địa lí 11 KNTT, Phần một, B1 (Mục I), tr. 5, 6; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 2.a), tr. 11; SGK GD KT&PL 12 KNTT, Bảng giải thích thuật ngữ, tr. 137; SGK GD KT&PL 12 KNTT, Bảng giải thích thuật ngữ, tr. 137, 138
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B22, tr. 65; SGK Địa lí 10 KNTT, Phần ba, B22 (Mục 1.a), tr. 65; SGK Địa lí 10 KNTT, Phần ba, B22 (Mục 1.b), tr. 65; SGK Địa lí 11 KNTT, Phần một, B1, tr. 5; SGK Địa lí 11 KNTT, Phần một, B1 (Mục I), tr. 5; SGK Địa lí 11 KNTT, Phần một, B1 (Mục I), tr. 5, 6; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 2.a), tr. 11; SGK GD KT&PL 12 KNTT, Bảng giải thích thuật ngữ, tr. 137; SGK GD KT&PL 12 KNTT, Bảng giải thích thuật ngữ, tr. 137, 138
 
 ### economic structure by ownership sector
 - **Tiếng Việt:** Cơ cấu kinh tế theo thành phần kinh tế
@@ -1884,7 +1996,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A dimension of economic structure representing the presence, relative shares, and roles of different ownership sectors participating in economic activity, comprising the domestic sector (state and non-state economies) and the foreign-invested sector. It reflects an economy's capacity to mobilize and utilize productive and business capabilities across institutional sectors over different stages of development.
 - **Giải thích (VI):** Bộ phận của cơ cấu kinh tế biểu thị sự tồn tại, tỉ trọng và vị thế của các khu vực sở hữu tham gia hoạt động kinh tế, bao gồm khu vực kinh tế trong nước (kinh tế Nhà nước, kinh tế ngoài Nhà nước) và khu vực kinh tế có vốn đầu tư nước ngoài. Cơ cấu này phản ánh khả năng huy động và khai thác năng lực tổ chức sản xuất kinh doanh của các thành phần kinh tế qua từng giai đoạn phát triển.
 - **Bối cảnh:** Địa lí lớp 10, Bài 22 (Mục 1.b): Phân loại cơ cấu kinh tế theo các thành phần sở hữu tham gia hoạt động kinh tế.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B22 (Mục 1.b), tr. 65
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B22 (Mục 1.b), tr. 65; SGK Địa lí 10 KNTT, Phần ba, B22, tr. 65; SGK Địa lí 10 KNTT, Phần ba, B22 (Mục 1.a), tr. 65
 
 ### economic structure of Latin America
 - **Tiếng Việt:** Cơ cấu kinh tế khu vực Mỹ La-tinh
@@ -1932,7 +2044,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An essential energy industry generating and supplying electric power for national socio-economic development with rapid growth. In Vietnam, the power generation mix has become increasingly diverse, comprising hydropower, thermal power (coal, gas, and oil), solar power, wind power, and other energy sources.
 - **Giải thích (VI):** Ngành công nghiệp năng lượng thiết yếu sản xuất và cung ứng điện năng phục vụ phát triển kinh tế – xã hội đất nước với tốc độ tăng trưởng nhanh chóng. Ở Việt Nam, cơ cấu nguồn điện ngày càng đa dạng, bao gồm thuỷ điện, nhiệt điện (than, khí, dầu), điện mặt trời, điện gió và các nguồn khác.
 - **Bối cảnh:** Địa lí lớp 12, Bài 16 (Mục II): cơ cấu nguồn điện và hiện trạng phát triển ngành sản xuất điện ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B16 (Mục II), tr. 71, 72
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B16 (Mục II), tr. 71, 72; SGK Địa lí 12 KNTT, Phần 3, B16 (Mục I.2), tr. 71; SGK Địa lí 12 KNTT, Phần 3, B16 (Mục II), tr. 72
 
 ### electric power industry
 - **Tiếng Việt:** Công nghiệp điện lực
@@ -1940,7 +2052,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An industry generating and transmitting electricity from thermal, hydro, nuclear, and renewable sources, forming the foundation for production mechanization and automation while measuring national development through per capita electricity output. Requiring massive capital investment with non-storable output, the sector thrives primarily in the United States, China, Japan, Russia, India, Canada, Germany, and South Korea.
 - **Giải thích (VI):** Ngành công nghiệp sản xuất và truyền tải điện năng từ nhiệt điện, thuỷ điện, điện nguyên tử và năng lượng tái tạo, tạo cơ sở tiến hành cơ khí hoá, tự động hoá sản xuất và đánh giá trình độ phát triển quốc gia qua sản lượng điện bình quân đầu người. Ngành đòi hỏi vốn đầu tư lớn, sản phẩm không lưu giữ được và phát triển mạnh ở Hoa Kỳ, Trung Quốc, Nhật Bản, Liên bang Nga, Ấn Độ, Ca-na-đa, Đức, Hàn Quốc.
 - **Bối cảnh:** Địa lí lớp 10, Bài 29 (Mục 2): vai trò nền tảng, đặc điểm kinh tế – kĩ thuật và phân bố của ngành công nghiệp điện lực.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 2), tr. 82, 83
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 2), tr. 82, 83; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 1.c), tr. 82; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 2), tr. 83
+
+### electricity generation industry in Vietnam
+- **Tiếng Việt:** Công nghiệp sản xuất điện ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Energy industry in Vietnam characterized by rapidly growing electricity output (reaching 293.1 billion kWh in 2024) and the application of modern technologies in power generation and smart grid management. Its diverse generation mix comprises hydropower, thermal power, wind power, and solar power, shifting toward a higher share of renewable energy sources.
+- **Giải thích (VI):** Ngành công nghiệp năng lượng ở Việt Nam có sản lượng điện tăng nhanh (đạt 293,1 tỉ kWh năm 2024) và đẩy mạnh ứng dụng công nghệ hiện đại trong sản xuất, vận hành hệ thống lưới điện thông minh. Cơ cấu nguồn điện đa dạng gồm thuỷ điện, nhiệt điện, điện gió và điện mặt trời, chuyển dịch theo hướng tăng tỉ trọng các nguồn điện tái tạo.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 8 (Mục 2): Ngành công nghiệp năng lượng trọng yếu cung cấp điện năng cho sản xuất và đời sống, gắn với xu hướng chuyển dịch năng lượng bền vững.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2), tr. 145; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2), tr. 145, 146
 
 ### electronics and informatics industry
 - **Tiếng Việt:** Công nghiệp điện tử, tin học
@@ -1948,7 +2068,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A young spearhead industry expanding rapidly since the late twentieth century, encompassing electronics manufacturing (computers, consumer electronics, telecommunications equipment, semiconductors) and informatics (software, applications), serving as a benchmark of national techno-economic development. Requiring highly skilled labor with minimal environmental pollution and high value added, it concentrates in the United States, Japan, South Korea, Europe, China, and India.
 - **Giải thích (VI):** Ngành công nghiệp trẻ, mũi nhọn phát triển mạnh từ cuối thế kỉ XX, bao gồm sản xuất thiết bị điện tử (máy tính, điện tử dân dụng, thiết bị viễn thông, chất bán dẫn) và tin học (phần mềm, ứng dụng), đóng vai trò thước đo trình độ kinh tế – kĩ thuật quốc gia. Ngành đòi hỏi lao động trình độ chuyên môn cao, ít gây ô nhiễm môi trường, đem lại giá trị gia tăng lớn và tập trung ở Hoa Kỳ, Nhật Bản, Hàn Quốc, châu Âu, Trung Quốc, Ấn Độ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 29 (Mục 3): vai trò mũi nhọn, đặc điểm công nghệ cao và sự phân bố của ngành điện tử, tin học.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 3), tr. 83, 84
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 3), tr. 83, 84; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 2), tr. 83; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 3), tr. 84
 
 ### emigration rate
 - **Tiếng Việt:** Tỉ suất xuất cư
@@ -1956,15 +2076,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A demographic indicator measuring the number of migrants departing from a territory during a year per 1,000 inhabitants of that territory. It is compared against the immigration rate to determine net mechanical population growth.
 - **Giải thích (VI):** Chỉ tiêu dân số biểu thị số người rời khỏi một lãnh thổ để chuyển đi nơi khác trong một năm tính bình quân trên 1 000 dân của lãnh thổ đó. Chỉ tiêu này dùng để đối chiếu với tỉ suất nhập cư nhằm xác định mức gia tăng dân số cơ học.
 - **Bối cảnh:** Địa lí lớp 10, Bài 19 (Mục 2.b): Chỉ tiêu thành phần phản ánh lượng người chuyển đi trong gia tăng dân số cơ học.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.b), tr. 56
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.b), tr. 56; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.a), tr. 56; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.c), tr. 56
 
 ### employment issues in Vietnam
 - **Tiếng Việt:** Vấn đề việc làm ở Việt Nam
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The socioeconomic challenge regarding employment status, job quality, unemployment, and underemployment in Vietnam. Although most workers are employed and unemployment and underemployment rates are relatively low (with urban unemployment typically higher than rural unemployment), employment remains a major issue due to widespread low-skilled work, low productivity, and modest incomes.
 - **Giải thích (VI):** Thực trạng kinh tế – xã hội liên quan đến việc làm, chất lượng công việc, thất nghiệp và thiếu việc làm của người lao động Việt Nam. Dù hầu hết lao động có việc làm với tỉ lệ thất nghiệp và thiếu việc làm khá thấp (khu vực thành thị thường có tỉ lệ thất nghiệp cao hơn nông thôn), việc làm vẫn là vấn đề lớn do các công việc giản đơn còn phổ biến, năng suất thấp và thu nhập không cao.
-- **Bối cảnh:** Địa lí lớp 12, Bài 7 (Mục III.1): Phân tích thực trạng vấn đề việc làm, thất nghiệp và thiếu việc làm ở Việt Nam hiện nay.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 2, B7 (Mục II.3), tr. 39; SGK Địa lí 12 KNTT, Phần 2, B7 (Mục III.1), tr. 39; SGK Địa lí 12 KNTT, Phần 2, B7 (Mục III.1), tr. 39, 40
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The socio-economic situation of employment in Vietnam, characterized by generally low overall unemployment and underemployment rates alongside expanding career opportunities in emerging fields such as artificial intelligence, logistics, and data science. Nevertheless, youth unemployment and underemployment remain relatively high, and labour productivity is still constrained by a large share of untrained workers and widespread low-skill jobs. / VI: Thực trạng kinh tế – xã hội về giải quyết việc làm ở Việt Nam, đặc trưng bởi tỉ lệ thất nghiệp và thiếu việc làm chung ở mức thấp cùng cơ hội nghề nghiệp ngày càng mở rộng sang các lĩnh vực mới như trí tuệ nhân tạo, logistics, khoa học dữ liệu. Tuy nhiên, tình trạng thất nghiệp, thiếu việc làm ở thanh niên còn cao và năng suất lao động vẫn hạn chế do tỉ lệ lao động chưa qua đào tạo lớn, công việc giản đơn còn phổ biến.
+- **Bối cảnh:**
+  - Địa lí lớp 12, Bài 7 (Mục III.1): Phân tích thực trạng vấn đề việc làm, thất nghiệp và thiếu việc làm ở Việt Nam hiện nay.
+  - Lịch sử và Địa lí lớp 9, Bài 3 (Mục 2.a): Đánh giá thực trạng việc làm, thất nghiệp và thiếu việc làm của lực lượng lao động nước ta hiện nay.
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 2, B7 (Mục II.3), tr. 39; SGK Địa lí 12 KNTT, Phần 2, B7 (Mục III.1), tr. 39; SGK Địa lí 12 KNTT, Phần 2, B7 (Mục III.1), tr. 39, 40; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2.a), tr. 125, 126; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1.b), tr. 125; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B3 (Mục 2.a), tr. 125
 
 ### endogenic force
 - **Tiếng Việt:** Nội lực
@@ -2014,10 +2137,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The totality of closely interrelated natural and artificial material elements surrounding humans and influencing human life, economy, society, and the survival and development of both humans and nature. Viewed as the human living environment, this system encompasses external conditions interacting closely with humans across three components: the natural environment, the social environment, and the artificial environment.
 - **Giải thích (VI):** Tập hợp các yếu tố vật chất tự nhiên và nhân tạo có quan hệ mật thiết với nhau, bao quanh con người và ảnh hưởng đến đời sống, kinh tế, xã hội, sự tồn tại, phát triển của con người cũng như tự nhiên. Xét theo môi trường sống của con người, hệ thống này là tổng hợp những điều kiện bên ngoài tác động qua lại mật thiết với con người và phân thành môi trường tự nhiên, môi trường xã hội, môi trường nhân tạo.
+- **Giải thích khác (SGK GDCD 8):** EN: The system of closely interrelated natural and artificial material elements surrounding humans that influences socioeconomic life as well as the survival and development of humans, living organisms, and nature. / VI: Hệ thống các yếu tố vật chất tự nhiên và nhân tạo có quan hệ mật thiết với nhau, bao quanh con người và ảnh hưởng đến đời sống kinh tế, xã hội cùng sự tồn tại, phát triển của con người, sinh vật và tự nhiên.
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 39 (Mục 1.a): Trình bày khái niệm chung, các thành phần và mối quan hệ tác động qua lại giữa môi trường với con người.
+  - Giáo dục Kinh tế và Pháp luật lớp 8, Bài 5 (Mục 1): xác định đối tượng cần bảo vệ gắn với phát triển bền vững và quy định pháp luật về môi trường.
   - *Lưu ý:* Phân biệt với môi trường sống của sinh vật trong Sinh học (tập hợp các nhân tố sinh thái vô sinh và hữu sinh tác động lên sinh vật); trong Địa lí, môi trường bao hàm các yếu tố tự nhiên, xã hội và nhân tạo lấy con người làm trung tâm.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B39, tr. 108; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.a), tr. 108; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.b), tr. 108
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B39, tr. 108; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.a), tr. 108; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.b), tr. 108; SGK GDCD 8 KNTT, Bảng giải thích thuật ngữ, tr. 70; SGK GDCD 8 KNTT, B5, tr. 25; SGK GDCD 8 KNTT, Bảng giải thích thuật ngữ, tr. 70, 71
 
 ### environmental degradation
 - **Tiếng Việt:** Suy thoái môi trường
@@ -2033,20 +2158,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Changes to the natural environment induced by industrial production activities, particularly the discharge of solid, liquid, and gaseous wastes that disrupt material balance cycles when outdated technologies are used. Emissions and fossil fuel combustion cause air pollution, the greenhouse effect, and climate change, while untreated toxic wastewater severely pollutes water and soil environments.
 - **Giải thích (VI):** Những biến đổi của môi trường tự nhiên do hoạt động sản xuất công nghiệp gây ra, đặc biệt là việc xả chất thải rắn, lỏng, khí làm phá vỡ chu trình cân bằng vật chất khi sử dụng công nghệ lạc hậu. Khí thải và việc đốt nhiên liệu hoá thạch gây ô nhiễm không khí, hiệu ứng nhà kính và biến đổi khí hậu, trong khi nước thải chứa hoá chất độc hại chưa qua xử lí làm ô nhiễm nghiêm trọng môi trường nước và đất.
 - **Bối cảnh:** Địa lí lớp 10, Bài 31 (Mục 1): phân tích hệ quả ô nhiễm không khí, nước, đất và biến đổi khí hậu từ chất thải công nghiệp.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 1), tr. 88
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 1), tr. 88; SGK Địa lí 10 KNTT, Phần ba, B31, tr. 88; SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 1), tr. 88, 89
 
-### environmental protection
-- **Tiếng Việt:** Bảo vệ môi trường
+### environmental issues in the South Central Coast and Central Highlands
+- **Tiếng Việt:** Vấn đề môi trường vùng Nam Trung Bộ
 - **Chuyên ngành gốc:** Địa lí
-- **Giải thích (EN):** A set of measures for conserving, rationally utilizing, or restoring biota (microorganisms, plants, animals) and abiotic habitats (soil, water, air, subsurface, climate), combined with applying low-waste or zero-waste technologies. Its core objective is to maintain ecological balance and establish an optimal living space for humanity.
-- **Giải thích (VI):** Tập hợp các biện pháp giữ gìn, sử dụng hợp lí hoặc phục hồi sinh giới (vi sinh vật, thực vật, động vật) và môi sinh (đất, nước, không khí, lòng đất, khí hậu), kết hợp áp dụng công nghệ ít hoặc không có phế liệu. Mục tiêu cốt lõi của hoạt động này là duy trì cân bằng sinh thái và tạo lập không gian tối ưu cho cuộc sống con người.
-- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A set of measures for preserving, rationally utilizing, and restoring living organisms and environmental components (soil, water, air, subsoil, and climate), combined with efficient resource-use equipment and low- or zero-waste technologies to create an optimal human living space. / VI: Tập hợp các biện pháp giữ gìn, sử dụng hợp lí và phục hồi giới sinh vật cùng các thành phần môi trường sống (đất, nước, không khí, lòng đất, khí hậu), kết hợp ứng dụng thiết bị khai thác hợp lí và công nghệ sạch ít phế liệu nhằm tạo lập không gian sống tối ưu cho con người.
-- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A set of measures to preserve, rationally use, or restore the biosphere (microorganisms, plants, animals) and physical environment (soil, water, air, subsoil, climate), alongside testing resource-use equipment and applying low- or zero-waste technologies to create an optimal living space for humans. / VI: Tập hợp các biện pháp giữ gìn, sử dụng hoặc phục hồi hợp lí sinh giới (vi sinh vật, thực vật, động vật) và môi sinh (đất, nước, không khí, lòng đất, khí hậu), kết hợp nghiên cứu thử nghiệm thiết bị sử dụng tài nguyên và áp dụng công nghệ ít hoặc không có phế liệu nhằm tạo không gian tối ưu cho cuộc sống con người.
-- **Bối cảnh:**
-  - Địa lí lớp 10, Bài 26 (Mục 2.b): các biện pháp gìn giữ và phục hồi môi trường trong phát triển nông nghiệp xanh, giao thông vận tải và tăng trưởng bền vững.
-  - Lịch sử và Địa lí lớp 6, Bài 29 (Mục 2): Hệ thống giải pháp tổng thể nhằm duy trì chất lượng môi trường sống của con người.
-  - Lịch sử và Địa lí lớp 7, Bài 3 (Mục 1): cơ sở khái niệm cho việc triển khai các biện pháp bảo vệ môi trường không khí và môi trường nước ở châu Âu.
-- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.a), tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 2.b), tr. 77; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 2), tr. 186; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1.b), tr. 105
+- **Giải thích (EN):** Major environmental challenges accompanying socio-economic development in the South Central Coast and Central Highlands, including natural forest degradation causing soil erosion and falling groundwater levels, alongside negative impacts of mining that shrink agricultural and forestry land. The region also faces severe drought and desertification in southern Khanh Hoa and eastern Lam Dong, as well as flash floods along short, steep rivers compounded by hydropower dam discharges.
+- **Giải thích (VI):** Tổng hợp các thách thức môi trường trong phát triển kinh tế – xã hội ở vùng Duyên hải Nam Trung Bộ và Tây Nguyên, bao gồm sự suy giảm rừng tự nhiên gây xói mòn đất và hạ mực nước ngầm cùng tác động tiêu cực từ khai thác khoáng sản làm thu hẹp đất nông, lâm nghiệp. Vùng còn chịu ảnh hưởng nặng nề của hạn hán, sa mạc hoá ở nam Khánh Hoà, đông Lâm Đồng và tình trạng mưa lũ trên địa hình sông ngắn, dốc kết hợp vận hành xả nước hồ thuỷ điện.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 16 (Mục 5): Những vấn đề môi trường cấp thiết cần giải quyết để bảo đảm phát triển bền vững vùng Duyên hải Nam Trung Bộ và Tây Nguyên.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B16 (Mục 4.c), tr. 194; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B16 (Mục 5), tr. 194
 
 ### Equator
 - **Tiếng Việt:** Vĩ tuyến gốc (Xích đạo)
@@ -2062,7 +2182,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A natural environment distributed along the equatorial belt (typified in Africa by the Congo Basin and the northern coast of the Gulf of Guinea), characterized by a uniformly hot, humid climate with abundant rainfall and evergreen dense rainforest vegetation.
 - **Giải thích (VI):** Môi trường tự nhiên phân bố dọc đới Xích đạo (điển hình tại bồn địa Công-gô và duyên hải phía bắc vịnh Ghi-nê ở châu Phi), đặc trưng bởi nền khí hậu nóng ẩm điều hoà, mưa nhiều và thảm thực vật rừng rậm xanh quanh năm.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2.d): một trong các môi trường tự nhiên phân bố đối xứng qua đường Xích đạo ở châu Phi.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 130
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 130; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 130; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.c), tr. 130
+
+### ethnic minority
+- **Tiếng Việt:** Dân tộc thiểu số
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Ethnic groups with smaller populations than the majority ethnic group (the Kinh) within the territory of the Socialist Republic of Vietnam, accounting for about 15% of the national population (in 2024) and residing mainly in hilly, mountainous, and plateau areas.
+- **Giải thích (VI):** Những dân tộc có quy mô dân số ít hơn so với dân tộc đa số (người Kinh) trên phạm vi lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam, chiếm khoảng 15% tổng số dân cả nước (năm 2024) và cư trú chủ yếu ở vùng đồi núi, cao nguyên.
+- **Giải thích khác (SGK Lịch sử 10):** EN: Ethnic groups with a smaller population than the majority ethnic group within the territory of the Socialist Republic of Vietnam (under Decree No. 05/2011/ND-CP on Ethnic Affairs). Within Vietnam's community of 54 ethnic groups, there are 53 ethnic minorities, accounting for 14.68% of the total national population. / VI: Những dân tộc có số dân ít hơn so với dân tộc đa số trên phạm vi lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam (theo Nghị định số 05/2011/NĐ-CP về Công tác dân tộc). Trong cộng đồng 54 dân tộc Việt Nam có 53 dân tộc thiểu số, chiếm 14,68% tổng dân số cả nước.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 9, Bài 1 (Mục 1): Nhận diện cơ cấu thành phần dân tộc và địa bàn cư trú đặc trưng của 53 dân tộc thiểu số ở Việt Nam.
+  - Lịch sử lớp 10, Bài 13 (Mục 1a): Tiêu chí xác định 53 dân tộc thiểu số trong cộng đồng 54 dân tộc Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 117; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1.a), tr. 117; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.a), tr. 123; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.a), tr. 124; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.a), tr. 124, 125
 
 ### euro
 - **Tiếng Việt:** Đồng Ơ-rô
@@ -2078,7 +2209,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The executive body representing the common interests of the European Union, composed of a President, Commissioners, and functional directorates. It proposes and monitors the implementation of legislation, manages the budget, mediates internal disputes, and represents the EU in foreign relations and international negotiations.
 - **Giải thích (VI):** Cơ quan điều hành đại diện cho lợi ích chung của Liên minh châu Âu, gồm Chủ tịch, các Uỷ viên và các ban chức năng. Cơ quan này có nhiệm vụ đề xuất và giám sát thực thi dự luật, quản lí ngân sách, hoà giải tranh chấp nội bộ và đại diện cho EU trong quan hệ đối ngoại, đàm phán quốc tế.
 - **Bối cảnh:** Địa lí lớp 11, Bài 9 (Mục I.3): Tìm hiểu chức năng điều hành, quản lí ngân sách và đại diện đối ngoại của Uỷ ban châu Âu.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39, 40
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39, 40; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 40; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục II.1), tr. 40
 
 ### European Council
 - **Tiếng Việt:** Hội đồng châu Âu
@@ -2088,7 +2219,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 11, Bài 9 (Mục I.3): Phân biệt vị trí, thành phần và thẩm quyền của Hội đồng châu Âu trong bốn cơ quan thể chế của EU.
   - *Lưu ý:* Phân biệt với Hội đồng Liên minh châu Âu (Council of the European Union) là cơ quan lập pháp cấp bộ trưởng đại diện cho chính phủ các nước thành viên.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39, 40
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39, 40; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.2), tr. 39; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39
 
 ### European Parliament
 - **Tiếng Việt:** Nghị viện châu Âu
@@ -2096,7 +2227,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A legislative institution of the European Union that directly represents the citizens of EU member states. It carries out three core functions: legislation, supervisory oversight, and budgetary finance.
 - **Giải thích (VI):** Cơ quan làm luật thuộc bộ máy thể chế của Liên minh châu Âu, đại diện trực tiếp cho công dân các nước thành viên EU. Cơ quan này thực hiện ba nhiệm vụ trọng tâm gồm lập pháp, giám sát và tài chính.
 - **Bối cảnh:** Địa lí lớp 11, Bài 9 (Mục I.3): Xác định vai trò đại diện công dân và chức năng lập pháp, giám sát, tài chính của Nghị viện châu Âu.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39, 40
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39, 40; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 40; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục II.1), tr. 40
 
 ### European Single Market
 - **Tiếng Việt:** Thị trường chung EU (Thị trường kinh tế duy nhất của EU)
@@ -2107,15 +2238,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 11, Bài 9 (Mục III.1): Phân tích biểu hiện hợp tác và liên kết khu vực thông qua bốn quyền tự do lưu thông trong Thị trường chung EU.
   - Lịch sử và Địa lí lớp 7, Bài 4 (Mục 2): mục tiêu trọng tâm đưa Liên minh châu Âu trở thành trung tâm trao đổi hàng hoá, dịch vụ và tài chính lớn trên thế giới.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục III.1), tr. 41, 42; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4 (Mục 1), tr. 108; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4 (Mục 2), tr. 108
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục III.1), tr. 41, 42; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục II.2), tr. 41; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục II.3), tr. 41; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4 (Mục 1), tr. 108; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4 (Mục 2), tr. 108
 
 ### European Union
 - **Tiếng Việt:** Liên minh châu Âu (EU)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A regional organization preceded by the European Economic Community (1957) and officially founded on November 1, 1993, with its headquarters in Brussels, Belgium. In 2020, it had 27 member states and a population of about 447 million, operating a single market and a common monetary system (the euro).
 - **Giải thích (VI):** Tổ chức liên kết khu vực có tiền thân là Cộng đồng Kinh tế châu Âu (năm 1957), thành lập chính thức vào ngày 1 tháng 11 năm 1993 với trụ sở đặt tại Brúc-xen (Bỉ). Năm 2020, tổ chức có 27 quốc gia thành viên với số dân khoảng 447 triệu người, đã thiết lập thị trường chung và hệ thống tiền tệ chung (đồng Ơ-rô).
-- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 4 (Mục 1): tổ chức kinh tế khu vực có tầm ảnh hưởng toàn cầu và là một trong bốn trung tâm kinh tế lớn trên thế giới.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4, tr. 107; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4 (Mục 1), tr. 107; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4 (Mục 1), tr. 108
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A regional political and economic union formed on the basis of a 1991 agreement among Western European nations, laying the foundation for Western European integration alongside the decision to establish a monetary market with a single common currency (the euro). / VI: Tổ chức liên kết chính trị – kinh tế khu vực hình thành trên cơ sở thoả thuận năm 1991 của các nước Tây Âu, đặt nền móng cho quá trình nhất thể hoá Tây Âu gắn với quyết định xây dựng thị trường tiền tệ với đồng tiền chung duy nhất (ơ-rô).
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 4 (Mục 1): tổ chức kinh tế khu vực có tầm ảnh hưởng toàn cầu và là một trong bốn trung tâm kinh tế lớn trên thế giới.
+  - Lịch sử và Địa lí lớp 9, Bài 11 (Mục 2): tổ chức liên kết toàn diện về chính trị và kinh tế của các nước Tây Âu giai đoạn 1973 – 1991.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4, tr. 107; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4 (Mục 1), tr. 107; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B4 (Mục 1), tr. 108; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B11 (Mục 2), tr. 51
 
 ### exclusive economic zone
 - **Tiếng Việt:** Vùng đặc quyền kinh tế
@@ -2170,7 +2304,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The group of economic development resources mobilized from outside a country or territory, including foreign investment capital, international science and technology, foreign human resources, and external markets. These external inputs play an important complementary role by amplifying the momentum of territorial economic growth.
 - **Giải thích (VI):** Nhóm nguồn lực phát triển kinh tế được huy động từ bên ngoài phạm vi quốc gia hoặc vùng lãnh thổ, bao gồm vốn đầu tư nước ngoài, khoa học – công nghệ, nguồn nhân lực và thị trường nước ngoài. Nhóm nguồn lực này giữ vai trò quan trọng nhằm bổ sung và tạo thêm sức mạnh thúc đẩy tăng trưởng kinh tế của lãnh thổ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 21 (Mục 2): Phân loại nguồn lực phát triển kinh tế huy động từ bên ngoài lãnh thổ.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B21 (Mục 2), tr. 63
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B21 (Mục 2), tr. 63; SGK Địa lí 10 KNTT, Phần ba, B21, tr. 63; SGK Địa lí 10 KNTT, Phần ba, B21 (Mục 1), tr. 63
 
 ### external factors affecting industry
 - **Tiếng Việt:** Các nhân tố bên ngoài ảnh hưởng tới công nghiệp
@@ -2178,7 +2312,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A group of resources mobilized from outside a territory, encompassing investment capital, high-quality human resources, scientific and technological advances, and international markets. These factors generate additional momentum and favorable conditions for developing and distributing industrial branches, especially during the initial stage of industrialization.
 - **Giải thích (VI):** Nhóm nguồn lực thu hút từ bên ngoài lãnh thổ bao gồm vốn đầu tư, nguồn nhân lực chất lượng cao, tiến bộ khoa học – công nghệ và thị trường quốc tế. Các nhân tố này tạo thêm sức mạnh và điều kiện thuận lợi để thúc đẩy phát triển, phân bố các ngành công nghiệp, đặc biệt trong giai đoạn công nghiệp hoá ban đầu.
 - **Bối cảnh:** Địa lí lớp 10, Bài 28 (Mục 2.b): tác động của nguồn lực quốc tế và bên ngoài lãnh thổ tới sự phát triển công nghiệp.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 2.b), tr. 80
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 2.b), tr. 80; SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.c), tr. 80; SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 2.a), tr. 80
 
 ### extractive industry
 - **Tiếng Việt:** Công nghiệp khai thác
@@ -2186,7 +2320,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A group of industrial branches acting directly upon nature to extract natural resources such as minerals, water, and biological resources. Output from this group supplies raw materials and fuel inputs for manufacturing and processing industries.
 - **Giải thích (VI):** Nhóm ngành công nghiệp tác động trực tiếp vào tự nhiên nhằm khai thác các nguồn tài nguyên thiên nhiên như khoáng sản, nước và sinh vật. Sản phẩm của nhóm ngành này cung cấp nguồn nguyên liệu và nhiên liệu đầu vào cho các ngành công nghiệp chế biến.
 - **Bối cảnh:** Địa lí lớp 10, Bài 28 (Mục 1.c): một trong hai bộ phận hợp thành cơ cấu ngành công nghiệp theo tính chất tác động vào đối tượng lao động.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.c), tr. 80
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.c), tr. 80; SGK Địa lí 10 KNTT, Phần ba, B28, tr. 79; SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.a), tr. 79; SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.b), tr. 79
 
 ### factors affecting organism development and distribution
 - **Tiếng Việt:** Các nhân tố ảnh hưởng đến sự phát triển và phân bố của sinh vật
@@ -2194,7 +2328,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The system of natural and human conditions governing the growth, development, and spatial range of organisms, comprising climate, water, soil, topography, biotic interactions, and human activities. Natural factors determine heat, sunlight, moisture, soil nutrients, and food relationships that generate biodiversity, whereas human actions can expand the range of crops and livestock or shrink natural forest areas.
 - **Giải thích (VI):** Hệ thống các điều kiện tự nhiên và xã hội chi phối sự sinh trưởng, phát triển và phạm vi phân bố của sinh vật, bao gồm khí hậu, nước, đất, địa hình, sinh vật và con người. Các nhân tố tự nhiên quy định nguồn nhiệt, ánh sáng, độ ẩm, dinh dưỡng và mối quan hệ thức ăn tạo nên tính đa dạng sinh học, trong khi hoạt động của con người có thể mở rộng phạm vi phân bố cây trồng, vật nuôi hoặc thu hẹp diện tích rừng tự nhiên.
 - **Bối cảnh:** Địa lí lớp 10, Bài 15 (Mục 3): Phân tích tác động của các nhân tố tự nhiên và con người tới sự phát triển và phân bố sinh vật.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B15, tr. 47
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B15, tr. 47; SGK Địa lí 10 KNTT, Phần hai, B15 (Mục 1), tr. 47; SGK Địa lí 10 KNTT, Phần hai, B15 (Mục 2), tr. 47
 
 ### factors affecting population distribution
 - **Tiếng Việt:** Các nhân tố tác động đến phân bố dân cư
@@ -2202,7 +2336,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The combination of natural and socioeconomic conditions governing human settlement patterns and population concentration across Earth's surface. Natural conditions facilitate or constrain habitation, whereas socioeconomic factors—specifically the development level of productive forces, economic structure, settlement history, and migration—play the decisive role.
 - **Giải thích (VI):** Tập hợp các điều kiện tự nhiên và kinh tế – xã hội chi phối sự cư trú và mức độ tập trung dân cư trên bề mặt Trái Đất. Trong đó, điều kiện tự nhiên tạo thuận lợi hoặc gây trở ngại cho việc định cư, còn nhân tố kinh tế – xã hội gồm trình độ phát triển của lực lượng sản xuất, tính chất nền kinh tế, lịch sử khai thác lãnh thổ và di cư giữ vai trò quyết định.
 - **Bối cảnh:** Địa lí lớp 10, Bài 20 (Mục 1.b): Phân tích vai trò của nhóm nhân tố tự nhiên và kinh tế – xã hội đối với sự phân bố dân cư.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.b), tr. 60; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.b), tr. 61
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.b), tr. 60; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.b), tr. 61; SGK Địa lí 10 KNTT, Phần ba, B20, tr. 60; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.a), tr. 60
 
 ### factors affecting population growth
 - **Tiếng Việt:** Các nhân tố tác động đến gia tăng dân số
@@ -2210,7 +2344,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The set of natural-environmental and socioeconomic conditions that directly govern fertility, mortality, and migration within a territory. Favorable environments or natural disasters and epidemics strongly influence mortality and migration flows, whereas economic development, living standards, sociocultural norms, age-sex structure, and population policies shape birth and migration rates.
 - **Giải thích (VI):** Hệ thống các điều kiện tự nhiên – môi trường sống và điều kiện kinh tế – xã hội chi phối trực tiếp ba quá trình sinh đẻ, tử vong và di cư của dân cư trên một lãnh thổ. Điều kiện tự nhiên thuận lợi hay thiên tai, dịch bệnh tác động mạnh đến mức tử vong và di cư, trong khi trình độ phát triển kinh tế, mức sống, tập quán tâm lí xã hội, cơ cấu dân số và chính sách dân số quyết định xu hướng mức sinh và chuyển cư.
 - **Bối cảnh:** Địa lí lớp 10, Bài 19 (Mục 2.d): Phân tích tác động của nhóm nhân tố tự nhiên và kinh tế – xã hội đến gia tăng dân số.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.d), tr. 57
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.d), tr. 57; SGK Địa lí 10 KNTT, Phần ba, B19, tr. 55; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 1), tr. 55
 
 ### factors affecting post and telecommunications
 - **Tiếng Việt:** Các nhân tố ảnh hưởng đến sự phát triển và phân bố bưu chính viễn thông
@@ -2218,7 +2352,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The set of factors governing post and telecommunications, including economic development level and living standards (shaping scale and growth speed) as well as the spatial distribution of economic sectors, population, and settlements (determining network density and usage). Additionally, scientific and technological progress directly drives operational quality and sectoral modernization.
 - **Giải thích (VI):** Tập hợp các nhân tố chi phối ngành bưu chính viễn thông gồm trình độ phát triển kinh tế và mức sống dân cư (quyết định quy mô, tốc độ phát triển) cùng sự phân bố các ngành kinh tế, dân cư và mạng lưới quần cư (chi phối mật độ phân bố và mức độ sử dụng). Bên cạnh đó, trình độ khoa học – công nghệ tác động trực tiếp tới chất lượng hoạt động và bước tiến hiện đại hoá của toàn ngành.
 - **Bối cảnh:** Địa lí lớp 10, Bài 35 (Mục 2): phân tích tác động của kinh tế, dân cư – quần cư và khoa học công nghệ đến bưu chính viễn thông.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 2), tr. 99
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 2), tr. 99; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 1.b), tr. 99; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 3), tr. 99
 
 ### factors affecting precipitation
 - **Tiếng Việt:** Các nhân tố ảnh hưởng đến lượng mưa
@@ -2242,7 +2376,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The combination of geographical location (attracting capital, skilled labor, markets, and global integration), natural conditions (topography and climate directly affecting transport and tourism), and socio-economic conditions governing service activities. Among these, socio-economic factors play the most vital role, led decisively by economic development level alongside population and labor, investment capital, science and technology, and markets.
 - **Giải thích (VI):** Tổng hợp các điều kiện vị trí địa lí (thu hút vốn, lao động, thị trường, hội nhập), tự nhiên (địa hình, khí hậu tác động trực tiếp đến giao thông và du lịch) và kinh tế – xã hội chi phối hoạt động dịch vụ. Trong đó, nhóm nhân tố kinh tế – xã hội giữ vai trò quan trọng nhất, với trình độ phát triển kinh tế mang tính quyết định cùng tác động của dân số – lao động, vốn đầu tư, khoa học – công nghệ và thị trường.
 - **Bối cảnh:** Địa lí lớp 10, Bài 33 (Mục 4): đánh giá mức độ tác động của vị trí địa lí, điều kiện tự nhiên và kinh tế – xã hội tới ngành dịch vụ.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 4), tr. 92
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 4), tr. 92; SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 3), tr. 92
 
 ### factors affecting the development and distribution of agriculture, forestry, and fisheries
 - **Tiếng Việt:** Nhân tố ảnh hưởng tới phát triển và phân bố nông nghiệp, lâm nghiệp, thuỷ sản
@@ -2250,7 +2384,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The system of two factor groups governing the scale, structure, and spatial distribution of agriculture, forestry, and fisheries, consisting of natural factors (soil, topography, climate, water resources, organisms) and socio-economic factors. The socio-economic group encompasses population and labor force, land ownership relations and policies, scientific and technological advances, processing industries, and consumption markets.
 - **Giải thích (VI):** Hệ thống hai nhóm nhân tố chi phối quy mô, cơ cấu và sự phân bố sản xuất nông, lâm nghiệp, thuỷ sản gồm nhóm nhân tố tự nhiên (đất, địa hình, khí hậu, nguồn nước, sinh vật) và nhóm nhân tố kinh tế – xã hội. Nhóm kinh tế – xã hội bao gồm dân cư và lao động, quan hệ sở hữu ruộng đất và chính sách, tiến bộ khoa học – công nghệ, công nghiệp chế biến cùng thị trường tiêu thụ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 23 (Mục 3): phân tích tác động của điều kiện tự nhiên và kinh tế – xã hội tới nông, lâm nghiệp, thuỷ sản.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 3), tr. 68
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 3), tr. 68; SGK Địa lí 10 KNTT, Phần ba, B23, tr. 67; SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 1), tr. 67; SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 2), tr. 67
 
 ### factors affecting the development and distribution of finance and banking
 - **Tiếng Việt:** Các nhân tố ảnh hưởng đến sự phát triển và phân bố tài chính ngân hàng
@@ -2266,7 +2400,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The set of conditions shaping tourism, comprising natural and cultural tourism resources (creating tourism products), the tourist market (driving revenue and product mix), technical facilities, infrastructure, and skilled human resources. Additionally, general economic growth, living standards, government policies, political security, social safety, and epidemic conditions strongly influence tourism operations.
 - **Giải thích (VI):** Hệ thống các điều kiện chi phối ngành du lịch gồm tài nguyên du lịch tự nhiên và nhân văn (tạo sản phẩm), thị trường khách du lịch (quyết định doanh thu và cơ cấu sản phẩm), cùng hệ thống cơ sở vật chất – kĩ thuật, cơ sở hạ tầng và nguồn nhân lực chất lượng cao. Ngoài ra, sự phát triển kinh tế, mức sống dân cư, chính sách nhà nước, an ninh chính trị, an toàn xã hội và tình hình dịch bệnh cũng tác động mạnh đến hoạt động du lịch.
 - **Bối cảnh:** Địa lí lớp 10, Bài 36 (Mục 2): phân tích vai trò của tài nguyên, thị trường, hạ tầng, nhân lực và bối cảnh xã hội đối với du lịch.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B36, tr. 101
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B36, tr. 101; SGK Địa lí 10 KNTT, Phần ba, B36 (Mục 1.a), tr. 101; SGK Địa lí 10 KNTT, Phần ba, B36 (Mục 1.b), tr. 101
 
 ### factors affecting trade development and distribution
 - **Tiếng Việt:** Các nhân tố ảnh hưởng đến sự phát triển và phân bố thương mại
@@ -2274,7 +2408,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The combination of factors governing trade, including geographical location (forming commercial hubs and attracting investment), economic development level and historical-cultural context (shaping structure and scale), and population characteristics (determining purchasing power, demand, and distribution networks). Meanwhile, science and technology transform trading methods and formats, while globalization and international integration boost cross-border investment, foreign trade, and international trade organizations.
 - **Giải thích (VI):** Tổ hợp các nhân tố chi phối ngành thương mại gồm vị trí địa lí (hình thành đầu mối, thu hút đầu tư), trình độ phát triển kinh tế cùng lịch sử – văn hoá (quyết định cơ cấu, quy mô) và đặc điểm dân cư (quy định sức mua, nhu cầu và mạng lưới phân bố). Đồng thời, khoa học – công nghệ làm thay đổi cách thức, loại hình giao dịch, còn toàn cầu hoá và hội nhập quốc tế thúc đẩy đầu tư, ngoại thương và sự ra đời của các tổ chức thương mại quốc tế.
 - **Bối cảnh:** Địa lí lớp 10, Bài 37 (Mục I.2): phân tích tác động của vị trí địa lí, kinh tế – dân cư, công nghệ và hội nhập tới ngành thương mại.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.2), tr. 104
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.2), tr. 104; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.3), tr. 104; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.3), tr. 104, 105
 
 ### factors affecting transport development and distribution
 - **Tiếng Việt:** Các nhân tố ảnh hưởng đến sự phát triển và phân bố giao thông vận tải
@@ -2282,7 +2416,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The set of conditions governing the transport sector, comprising geographical location (shaping transport modes and network connectivity) and natural conditions (influencing mode selection, network layout, and vehicle operations). Socio-economic factors play a decisive role through the development and distribution of economic sectors and population (determining traffic volume, hubs, and networks), investment capital (scale and growth rate), and science and technology (speed, safety, and comfort).
 - **Giải thích (VI):** Hệ thống các điều kiện chi phối ngành giao thông vận tải gồm vị trí địa lí (quy định sự hiện diện loại hình và kết nối mạng lưới) cùng điều kiện tự nhiên (ảnh hưởng lựa chọn loại hình, phân bố mạng lưới và hoạt động phương tiện). Nhóm nhân tố kinh tế – xã hội có vai trò quyết định thông qua sự phát triển, phân bố kinh tế và dân cư (quyết định khối lượng vận tải, đầu mối, mạng lưới), vốn đầu tư (quy mô, tốc độ) và khoa học – công nghệ (vận tốc, độ an toàn, tiện nghi).
 - **Bối cảnh:** Địa lí lớp 10, Bài 34 (Mục 2): phân tích tác động của vị trí địa lí, tự nhiên và kinh tế – xã hội đối với mạng lưới giao thông vận tải.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34, tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 2), tr. 94
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34, tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 2), tr. 94; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.a), tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.b), tr. 93
 
 ### factors affecting urbanization
 - **Tiếng Việt:** Các nhân tố tác động đến đô thị hoá
@@ -2290,7 +2424,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The set of geographical location, natural, and socioeconomic conditions determining the pace, scale, and positive or negative trajectory of urbanization. Land availability, topography, water supply, and mineral resources provide physical foundations, while economic growth, industrialization, income levels, occupational shifts, and urban planning policies drive and steer urban development.
 - **Giải thích (VI):** Tập hợp các yếu tố vị trí địa lí, điều kiện tự nhiên và điều kiện kinh tế – xã hội quyết định tốc độ, quy mô và chiều hướng tích cực hay tiêu cực của quá trình đô thị hoá. Trong đó, quỹ đất, địa hình, nguồn nước và khoáng sản tạo tiền đề tự nhiên, còn trình độ phát triển kinh tế, công nghiệp hoá, thu nhập, nghề nghiệp và chính sách quy hoạch đóng vai trò thúc đẩy và định hướng đô thị hoá.
 - **Bối cảnh:** Địa lí lớp 10, Bài 20 (Mục 2.b): Phân tích các nhân tố vị trí địa lí, tự nhiên và kinh tế – xã hội tác động đến đô thị hoá.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 2.b), tr. 61
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 2.b), tr. 61; SGK Địa lí 10 KNTT, Phần ba, B20, tr. 60; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.a), tr. 60; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.b), tr. 60
 
 ### factors driving China's economic development
 - **Tiếng Việt:** Nguyên nhân phát triển kinh tế Trung Quốc
@@ -2314,7 +2448,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A severe food shortage threatening tens of millions of people in Africa annually, particularly acute in Sub-Saharan Africa due to drought and political instability, leaving many countries reliant on international food aid.
 - **Giải thích (VI):** Tình trạng thiếu hụt lương thực trầm trọng đe doạ hàng chục triệu người dân châu Phi mỗi năm, đặc biệt nặng nề tại khu vực nam hoang mạc Xa-ha-ra do hạn hán và bất ổn chính trị, khiến nhiều quốc gia phải phụ thuộc vào viện trợ lương thực quốc tế.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 1.b): một trong những vấn đề xã hội bức thiết nhất tại các quốc gia châu Phi hiện nay.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1.b), tr. 133
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1.b), tr. 133; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10, tr. 133; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1.a), tr. 133
 
 ### farm
 - **Tiếng Việt:** Trang trại
@@ -2326,7 +2460,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 10, Bài 26 (Mục 1.b): đặc điểm và vai trò của trang trại trong các hình thức tổ chức lãnh thổ nông nghiệp.
   - Địa lí lớp 12, Bài 13 (Mục I): hình thức tổ chức lãnh thổ nông nghiệp gắn với sản xuất hàng hoá và chuỗi giá trị ở Việt Nam.
   - *Lưu ý:* Khác với sản xuất hộ nông dân nhỏ lẻ, trang trại đòi hỏi quy mô ruộng đất và các yếu tố sản xuất tập trung đủ lớn, vận hành tự chủ theo cơ chế sản xuất hàng hoá.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.b), tr. 76; SGK Địa lí 12 KNTT, Phần 3, B13, tr. 62; SGK Địa lí 12 KNTT, Phần 3, B13 (Mục I), tr. 62, 63
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.b), tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26, tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.a), tr. 76; SGK Địa lí 12 KNTT, Phần 3, B13, tr. 62; SGK Địa lí 12 KNTT, Phần 3, B13 (Mục I), tr. 62, 63; SGK Địa lí 12 KNTT, Phần 3, B13 (Mục I), tr. 62
 
 ### ferrallitic soil group
 - **Tiếng Việt:** Nhóm đất feralit (đất feralit)
@@ -2354,7 +2488,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A dynamically growing service sector of China characterized by continuously rising financial revenue that reached 1,071 billion USD in 2020 and strong participation of foreign banks establishing joint-stock or wholly foreign-owned enterprises in its capital market. Major financial centers of China are concentrated in Shanghai, Tianjin, and Shenzhen.
 - **Giải thích (VI):** Ngành dịch vụ phát triển năng động của Trung Quốc với doanh thu hoạt động tài chính tăng liên tục, đạt 1 071 tỉ USD vào năm 2020 và thu hút nhiều ngân hàng nước ngoài thành lập công ty cổ phần hoặc doanh nghiệp 100% vốn nước ngoài trên thị trường vốn. Các trung tâm tài chính lớn của Trung Quốc tập trung tại Thượng Hải, Thiên Tân và Thâm Quyến.
 - **Bối cảnh:** Địa lí lớp 11, Bài 27 (Mục II.3.d): Quy mô doanh thu, mức độ hội nhập vốn và các trung tâm tài chính lớn của Trung Quốc.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B27 (Mục II.3.d), tr. 147
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B27 (Mục II.3.d), tr. 147; SGK Địa lí 11 KNTT, Phần hai, B27 (Mục II.3.c), tr. 147; SGK Địa lí 11 KNTT, Phần hai, B27 (Mục II.3), tr. 147
 
 ### finance and banking of Southeast Asia
 - **Tiếng Việt:** Tài chính ngân hàng khu vực Đông Nam Á
@@ -2362,7 +2496,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A rapidly expanding, diversifying, and internationally integrating service sector across most Southeast Asian nations, supported by abundant labor and large markets to become a key driver of economic growth. Major regional financial hubs include Singapore, Kuala Lumpur, Bangkok, Jakarta, and Ho Chi Minh City.
 - **Giải thích (VI):** Lĩnh vực dịch vụ đang phát triển nhanh, đa dạng và hội nhập quốc tế sâu rộng ở hầu hết các nước Đông Nam Á nhờ lợi thế nguồn lao động và thị trường quy mô lớn, dần trở thành động lực thúc đẩy tăng trưởng kinh tế. Các trung tâm tài chính tiêu biểu của khu vực gồm Xin-ga-po, Cu-a-la Lăm-pơ, Băng Cốc, Gia-các-ta và Thành phố Hồ Chí Minh.
 - **Bối cảnh:** Địa lí lớp 11, Bài 12 (Mục II.3.c): Trình bày xu hướng hội nhập và sự phân bố các trung tâm tài chính ngân hàng lớn ở Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.3.c), tr. 59
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.3.c), tr. 59; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.3.a), tr. 59; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.3.b), tr. 59
 
 ### finance and banking of the Republic of South Africa
 - **Tiếng Việt:** Tài chính ngân hàng Cộng hoà Nam Phi
@@ -2386,7 +2520,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An economic sector performing the functions of capturing and farming aquatic species across freshwater bodies (ponds, lakes, rivers, streams), brackish waters, and marine waters (seas, oceans). Fishery products provide protein-rich food for consumption, raw materials for processing industries, and valuable export commodities.
 - **Giải thích (VI):** Ngành kinh tế thực hiện chức năng khai thác và nuôi trồng các loài thuỷ sản trên các thuỷ vực nước ngọt (ao hồ, sông suối), nước lợ và nước mặn (biển, đại dương). Sản phẩm thuỷ sản cung cấp thực phẩm giàu đạm cho tiêu dùng, nguyên liệu cho công nghiệp chế biến và mặt hàng xuất khẩu có giá trị.
 - **Bối cảnh:** Địa lí lớp 10, Bài 23 (Mục 1): khái niệm và phạm vi hoạt động của ngành thuỷ sản trên các thuỷ vực.
-- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 1), tr. 67
+- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 1), tr. 67; SGK Địa lí 10 KNTT, Phần ba, B23, tr. 67
 
 ### fisheries of China
 - **Tiếng Việt:** Thuỷ sản Trung Quốc
@@ -2410,7 +2544,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A traditional economic sector strongly developed across Southeast Asia thanks to its extensive water surface area, contributing approximately 25% of global fishery output in 2020. Leading regional producers include Indonesia, Vietnam, and the Philippines, with key export products such as shrimp, oceanic tuna, and catfish.
 - **Giải thích (VI):** Ngành kinh tế truyền thống phát triển mạnh ở Đông Nam Á nhờ lợi thế diện tích mặt nước lớn, đóng góp khoảng 25% tổng sản lượng thuỷ sản toàn cầu vào năm 2020. Các quốc gia sản xuất thuỷ sản hàng đầu trong khu vực là In-đô-nê-xi-a, Việt Nam và Phi-líp-pin với các mặt hàng xuất khẩu chủ lực gồm tôm, cá ngừ đại dương và cá da trơn.
 - **Bối cảnh:** Địa lí lớp 11, Bài 12 (Mục II.1.c): Đánh giá vị thế, sản lượng và các sản phẩm xuất khẩu chủ lực của ngành thuỷ sản Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.1.c), tr. 56
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.1.c), tr. 56; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.1.a), tr. 56; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.1.b), tr. 56
 
 ### fisheries of the Republic of South Africa
 - **Tiếng Việt:** Thuỷ sản Cộng hoà Nam Phi
@@ -2418,7 +2552,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The capture fisheries and aquaculture sector of the Republic of South Africa accounting for a modest share of the economy (about 0.1% of GDP in 2020), dominated by wild catch whose output rose to 602.7 thousand tons in 2020. Aquaculture production remains small (9.7 thousand tons in 2020) but is increasingly prioritized toward sustainable development.
 - **Giải thích (VI):** Ngành khai thác và nuôi trồng thuỷ sản của Cộng hoà Nam Phi hiện chiếm tỉ trọng nhỏ (khoảng 0,1% GDP năm 2020), trong đó khai thác giữ vai trò chủ yếu với sản lượng tăng lên đạt 602,7 nghìn tấn vào năm 2020. Sản lượng nuôi trồng còn thấp (đạt 9,7 nghìn tấn năm 2020) nhưng đang ngày càng được chú trọng đầu tư theo hướng phát triển bền vững.
 - **Bối cảnh:** Địa lí lớp 11, Bài 31 (Mục II.1.c): Thực trạng sản lượng khai thác, nuôi trồng và định hướng phát triển bền vững thuỷ sản Cộng hoà Nam Phi.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.1.c), tr. 161
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.1.c), tr. 161; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.1.a), tr. 161; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.1.b), tr. 161
 
 ### fisheries of the Russian Federation
 - **Tiếng Việt:** Thuỷ sản Liên bang Nga
@@ -2443,6 +2577,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Vùng biển có nguồn lợi thuỷ sản tập trung với mật độ cao, được xác định để các tàu cá đến khai thác.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 12 (Mục 3.b): Khái niệm gắn với thế mạnh khai thác hải sản tại vùng biển quần đảo Hoàng Sa và quần đảo Trường Sa.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 06, B12 (Mục 3.b), tr. 79; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92
+
+### floating market
+- **Tiếng Việt:** Chợ nổi trên sông
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Form of domestic trade involving the buying and selling of agricultural produce and goods directly on rivers and canals, serving as a distinctive riverine cultural feature of the Mekong River Delta.
+- **Giải thích (VI):** Hình thức hoạt động nội thương trao đổi, mua bán nông sản và hàng hoá trên các tuyến sông ngòi, kênh rạch, đồng thời là nét sinh hoạt văn hoá sông nước đặc trưng của vùng Đồng bằng sông Cửu Long.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 19 (Mục 4): Loại hình thương mại truyền thống gắn với giao thông đường thuỷ và phát triển du lịch ở Đồng bằng sông Cửu Long.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B19 (Mục 4.b), tr. 211; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B19 (Mục 4.c), tr. 211; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B19 (Mục 4.c), tr. 211, 212
 
 ### flood
 - **Tiếng Việt:** Lũ
@@ -2498,7 +2640,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A group of crops providing essential starch for human consumption, feed for livestock, and raw materials for the food and grain processing industry. The three major food crops widely cultivated worldwide are rice, wheat, and maize.
 - **Giải thích (VI):** Nhóm cây trồng cung cấp chất tinh bột thiết yếu cho con người, thức ăn cho gia súc và nguyên liệu cho ngành công nghiệp chế biến lương thực, thực phẩm. Ba loại cây lương thực chính được sản xuất rộng rãi trên thế giới là lúa gạo, lúa mì và ngô.
 - **Bối cảnh:** Địa lí lớp 10, Bài 24 (Mục 1.c): khái niệm và sự phân bố theo đới khí hậu của các cây lương thực chính trên thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.c), tr. 69; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.c), tr. 70
+- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.c), tr. 69; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.c), tr. 70; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.b), tr. 69
+
+### food crops in Vietnam
+- **Tiếng Việt:** Cây lương thực ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Vietnam's staple crop group comprising rice, maize, sweet potatoes, and cassava, in which rice plays the central role in safeguarding national food security and supplying exports. Rice cultivation increasingly applies mechanization and drought-, salt-, and pest-resistant varieties, concentrated in the two key granaries of the Mekong Delta and the Red River Delta.
+- **Giải thích (VI):** Nhóm cây trồng cung cấp lương thực ở Việt Nam gồm lúa, ngô, khoai, sắn, trong đó lúa giữ vai trò trụ cột bảo đảm an ninh lương thực trong nước và phục vụ xuất khẩu. Sản xuất lúa ngày càng đẩy mạnh cơ giới hoá và sử dụng giống mới chịu hạn, chịu mặn, kháng sâu bệnh, tập trung tại hai vùng trọng điểm là Đồng bằng sông Cửu Long và Đồng bằng sông Hồng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 5 (Mục 2.a): Trình bày vai trò, tình hình phát triển và hai vùng chuyên canh lúa trọng điểm của nước ta.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.a), tr. 131, 132; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2), tr. 131; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.a), tr. 131
 
 ### food processing industry
 - **Tiếng Việt:** Công nghiệp thực phẩm
@@ -2506,7 +2656,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An industry processing raw materials from crop production, livestock, and fisheries into diverse food and beverage products for consumption and export, requiring strict food safety compliance in processing and preservation. This activity enhances the quality and value of agricultural produce, stimulates agricultural growth, and exists in every country, thriving most in China, the United States, the EU, and Australia.
 - **Giải thích (VI):** Ngành công nghiệp chế biến nguyên liệu từ trồng trọt, chăn nuôi và thuỷ sản thành các sản phẩm ăn, uống phong phú đáp ứng tiêu dùng và xuất khẩu, đòi hỏi tuân thủ nghiêm ngặt về an toàn thực phẩm trong chế biến, bảo quản. Hoạt động này nâng cao chất lượng, giá trị nông sản, thúc đẩy nông nghiệp phát triển và có mặt ở mọi quốc gia, phát triển mạnh nhất tại Trung Quốc, Hoa Kỳ, EU và Ô-xtrây-li-a.
 - **Bối cảnh:** Địa lí lớp 10, Bài 29 (Mục 5): vai trò, nguồn nguyên liệu và sự phân bố của ngành công nghiệp thực phẩm trên thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 5), tr. 85
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 5), tr. 85; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 4), tr. 84; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 4), tr. 85
+
+### food processing industry in Vietnam
+- **Tiếng Việt:** Công nghiệp sản xuất, chế biến thực phẩm ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Major branch accounting for a large share of Vietnam's manufacturing sector, increasingly adopting freeze-drying, cold-drying, 3D printing, and biotechnology in preservation and production. It is widely distributed nationwide, with major centers in Ho Chi Minh City, Hanoi, Hai Phong, Dong Nai, and Da Nang.
+- **Giải thích (VI):** Ngành chiếm tỉ trọng cao trong công nghiệp chế biến, chế tạo của Việt Nam, đang đẩy mạnh ứng dụng công nghệ đông khô, sấy lạnh, in 3D và công nghệ sinh học vào bảo quản và sản xuất. Ngành phân bố rộng khắp cả nước và phát triển mạnh tại Thành phố Hồ Chí Minh, Hà Nội, Hải Phòng, Đồng Nai và Đà Nẵng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 8 (Mục 2): Ngành công nghiệp chế biến chủ lực gắn với nguồn nguyên liệu nông, lâm, thuỷ sản dồi dào và thị trường tiêu dùng lớn.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2), tr. 147; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2), tr. 147, 148
 
 ### food production and processing industry
 - **Tiếng Việt:** Công nghiệp sản xuất, chế biến thực phẩm
@@ -2514,7 +2672,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A long-established manufacturing industry relying on abundant local raw materials to serve domestic consumption and export markets. In Vietnam, it is widely distributed nationwide, with major centers in Ho Chi Minh City, Hanoi, Binh Duong, Dong Nai, Hai Phong, Da Nang, and Can Tho.
 - **Giải thích (VI):** Ngành công nghiệp chế biến phát triển lâu đời dựa trên nguồn nguyên liệu tại chỗ dồi dào nhằm đáp ứng nhu cầu tiêu dùng trong nước và xuất khẩu. Ở Việt Nam, ngành phân bố rộng khắp cả nước với các trung tâm lớn là Thành phố Hồ Chí Minh, Hà Nội, Bình Dương, Đồng Nai, Hải Phòng, Đà Nẵng và Cần Thơ.
 - **Bối cảnh:** Địa lí lớp 12, Bài 16 (Mục IV): đặc điểm phát triển và phân bố ngành công nghiệp chế biến thực phẩm ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B16 (Mục IV), tr. 73, 74
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B16 (Mục IV), tr. 73, 74; SGK Địa lí 12 KNTT, Phần 3, B16 (Mục III), tr. 73; SGK Địa lí 12 KNTT, Phần 3, B16 (Mục IV), tr. 73
 
 ### food security
 - **Tiếng Việt:** An ninh lương thực
@@ -2542,7 +2700,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 10, Bài 37 (Mục I.3): trình bày xu hướng mở rộng thương mại quốc tế và các mặt hàng xuất nhập khẩu chủ lực toàn cầu.
   - Địa lí lớp 12, Bài 21 (Mục I.2): quy mô kim ngạch, cán cân thương mại và chuyển dịch cơ cấu xuất nhập khẩu của Việt Nam.
   - *Lưu ý:* Phân biệt với nội thương (hoạt động thương mại giới hạn bên trong lãnh thổ một quốc gia).
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.1.b), tr. 103; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.3), tr. 104; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.3), tr. 104, 105; SGK Địa lí 12 KNTT, Phần 3, B21 (Mục I.2), tr. 90, 91
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.1.b), tr. 103; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.3), tr. 104; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.3), tr. 104, 105; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.2), tr. 104; SGK Địa lí 12 KNTT, Phần 3, B21 (Mục I.2), tr. 90, 91; SGK Địa lí 12 KNTT, Phần 3, B21 (Mục I.1), tr. 90; SGK Địa lí 12 KNTT, Phần 3, B21 (Mục I.2), tr. 90
 
 ### foreign trade of the Republic of South Africa
 - **Tiếng Việt:** Ngoại thương Cộng hoà Nam Phi
@@ -2550,7 +2708,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The international merchandise trade activity of the Republic of South Africa, exporting mainly minerals and metal ores (platinum, iron ore, coal, gold, diamonds) alongside agricultural products while importing machinery and equipment, chemicals, petroleum products, foodstuffs, and pharmaceuticals. Its leading trading partners include China, Germany, the United States, Japan, India, and the United Kingdom.
 - **Giải thích (VI):** Hoạt động trao đổi hàng hoá quốc tế sôi động của Cộng hoà Nam Phi với mặt hàng xuất khẩu chính là khoáng sản, quặng kim loại (bạch kim, quặng sắt, than đá, vàng, kim cương) cùng nông sản, trong khi nhập khẩu chủ yếu máy móc thiết bị, hoá chất, sản phẩm xăng dầu, thực phẩm và dược phẩm. Các đối tác thương mại hàng đầu của quốc gia này gồm Trung Quốc, Đức, Hoa Kỳ, Nhật Bản, Ấn Độ và Anh.
 - **Bối cảnh:** Địa lí lớp 11, Bài 31 (Mục II.3): Cơ cấu hàng hoá xuất nhập khẩu và các đối tác thương mại chủ chốt của Cộng hoà Nam Phi.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.3), tr. 163
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.3), tr. 163; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.2), tr. 163; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.3), tr. 163, 164
+
+### forest cover rate
+- **Tiếng Việt:** Tỉ lệ che phủ rừng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An indicator measuring the percentage ratio of forested area to total natural land area within a defined geographic territory.
+- **Giải thích (VI):** Chỉ tiêu phản ánh tỉ lệ phần trăm giữa diện tích rừng so với tổng diện tích đất tự nhiên trên một phạm vi địa lí nhất định.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 6 (Mục 1.a): Đánh giá hiện trạng bảo vệ và phát triển tài nguyên rừng ở Việt Nam thông qua chỉ tiêu độ che phủ rừng.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 136
 
 ### forest product harvesting and processing
 - **Tiếng Việt:** Khai thác, chế biến lâm sản
@@ -2558,7 +2724,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A forestry economic activity encompassing timber harvesting (expanding plantation timber harvest while strictly managing natural forests sustainably), non-timber forest product collection, and processing products such as roundwood, sawnwood, flooring, furniture, pulpwood, and plywood. In Vietnam, this activity is closely linked to raw material zones, led in timber output by the North Central and Central Coastal region, followed by the Northern Midlands and Mountains.
 - **Giải thích (VI):** Hoạt động kinh tế lâm nghiệp bao gồm khai thác gỗ (tăng khai thác rừng trồng, quản lí chặt chẽ rừng tự nhiên theo hướng bền vững), thu hái lâm sản ngoài gỗ và chế biến các sản phẩm như gỗ tròn, gỗ xẻ, ván sàn, đồ gỗ, gỗ giấy, gỗ dán. Ở Việt Nam, hoạt động này gắn kết chặt chẽ với các vùng nguyên liệu, dẫn đầu về sản lượng gỗ khai thác là Bắc Trung Bộ và Duyên hải miền Trung, tiếp đến là Trung du và miền núi Bắc Bộ.
 - **Bối cảnh:** Địa lí lớp 12, Bài 12 (Mục I.2): hiện trạng phát triển và phân bố hoạt động khai thác, chế biến gỗ và lâm sản ngoài gỗ ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B12 (Mục I.1.a), tr. 58; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục I.2), tr. 58, 59
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B12 (Mục I.1.a), tr. 58; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục I.2), tr. 58, 59; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục I.1.b), tr. 58; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục I.2), tr. 58
+
+### forest product harvesting and processing in Vietnam
+- **Tiếng Việt:** Khai thác, chế biến lâm sản ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A major economic activity group in Vietnam's forestry sector linked to production forests, supplying rapidly growing timber harvests (reaching about 24 million m³ in 2024) alongside non-timber forest products such as bamboo shoots, wood ear mushrooms, and medicinal herbs. Timber harvesting is concentrated mainly in the South Central Coast and Central Highlands and the Northern Midlands and Mountains, closely integrated with wood-processing industries near raw-material zones.
+- **Giải thích (VI):** Nhóm hoạt động kinh tế chủ yếu của ngành lâm nghiệp Việt Nam gắn với rừng sản xuất, cung cấp sản lượng gỗ khai thác tăng nhanh (đạt khoảng 24 triệu m³ năm 2024) cùng các lâm sản ngoài gỗ như măng, mộc nhĩ, dược liệu. Khai thác gỗ tập trung lớn tại Duyên hải Nam Trung Bộ và Tây Nguyên cùng Trung du và miền núi phía Bắc, gắn liền với sự phát triển công nghiệp chế biến tại các vùng nguyên liệu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 6 (Mục 1.b): Trình bày sự phát triển và phân bố hoạt động khai thác, chế biến gỗ và lâm sản ở nước ta.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 137, 138; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 137; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 137
 
 ### forestry
 - **Tiếng Việt:** Lâm nghiệp
@@ -2566,7 +2740,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An economic sector responsible for planting, protecting, and utilizing forests based on specific production methods and economic organizations. This sector aims to promote economic benefits and social welfare while simultaneously protecting the environment.
 - **Giải thích (VI):** Ngành kinh tế có nhiệm vụ trồng mới, bảo vệ và sử dụng rừng trên cơ sở những phương thức sản xuất và tổ chức kinh tế nhất định. Ngành này nhằm phát huy lợi ích kinh tế, công ích xã hội và đồng thời bảo vệ môi trường.
 - **Bối cảnh:** Địa lí lớp 10, Bài 23 (Mục 1): khái niệm và nhiệm vụ cơ bản của ngành lâm nghiệp trong khối nông, lâm nghiệp và thuỷ sản.
-- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 1), tr. 67
+- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 1), tr. 67; SGK Địa lí 10 KNTT, Phần ba, B23, tr. 67
 
 ### forestry of China
 - **Tiếng Việt:** Lâm nghiệp Trung Quốc
@@ -2582,7 +2756,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The forest resource management and timber harvesting sector playing an important economic role in several Southeast Asian nations, including Indonesia, Laos, Thailand, Myanmar, and Vietnam. Regional roundwood production has trended upward from 299.1 million m³ (in 2000) to 302.0 million m³ (in 2020), accounting for about 7.7% of global roundwood output.
 - **Giải thích (VI):** Ngành kinh tế khai thác và phát triển tài nguyên rừng có vai trò quan trọng tại nhiều quốc gia Đông Nam Á như In-đô-nê-xi-a, Lào, Thái Lan, Mi-an-ma và Việt Nam. Sản lượng gỗ tròn khai thác của khu vực có xu hướng tăng, từ 299,1 triệu m³ (năm 2000) lên 302,0 triệu m³ (năm 2020), chiếm khoảng 7,7% tổng sản lượng gỗ tròn khai thác toàn cầu.
 - **Bối cảnh:** Địa lí lớp 11, Bài 12 (Mục II.1.b): Phân tích tình hình khai thác gỗ và phân bố ngành lâm nghiệp ở khu vực Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.1.b), tr. 56
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.1.b), tr. 56; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.1.a), tr. 56; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.1.c), tr. 56
 
 ### forestry of the Republic of South Africa
 - **Tiếng Việt:** Lâm nghiệp Cộng hoà Nam Phi
@@ -2590,7 +2764,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An ecological economic sector of the Republic of South Africa that, despite contributing only 0.6% to GDP in 2020, supplies essential raw materials for processing industries such as paper and pulp manufacturing. It also plays a critical role in conserving biodiversity and ensuring the sustainable use of natural resources.
 - **Giải thích (VI):** Ngành kinh tế sinh thái của Cộng hoà Nam Phi tuy chỉ đóng góp 0,6% vào GDP (năm 2020) nhưng giữ vai trò cung cấp nguyên liệu thiết yếu cho các ngành chế biến như sản xuất giấy và bột giấy. Ngành còn mang ý nghĩa đặc biệt quan trọng trong việc bảo tồn đa dạng sinh học và đảm bảo sử dụng bền vững tài nguyên thiên nhiên.
 - **Bối cảnh:** Địa lí lớp 11, Bài 31 (Mục II.1.b): Đóng góp kinh tế và vai trò bảo tồn sinh thái của ngành lâm nghiệp Cộng hoà Nam Phi.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.1.b), tr. 161
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.1.b), tr. 161; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.1.a), tr. 161; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.1.c), tr. 161
 
 ### forestry of the Russian Federation
 - **Tiếng Việt:** Lâm nghiệp Liên bang Nga
@@ -2616,6 +2790,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 25 (Mục II.1.a): Vai trò của sự phân hoá địa hình và đất theo chiều tây – đông đối với cơ cấu kinh tế ở Bắc Trung Bộ.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B25 (Mục II.1.a), tr. 111; SGK Địa lí 12 KNTT, Phần 4, B25 (Mục II.1.b), tr. 111; SGK Địa lí 12 KNTT, Phần 4, B25 (Mục II.1.b), tr. 111, 112
 
+### fossil fuel extraction cost
+- **Tiếng Việt:** Chi phí khai thác nhiên liệu hoá thạch
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The total expenditure required to obtain and supply fossil fuels, encompassing exploration, drilling, transportation, storage, and environmental remediation costs. This cost accounts for a major share of fuel prices and continues to rise as easily accessible deposits become depleted.
+- **Giải thích (VI):** Tổng các khoản chi phí phục vụ việc thu nhận và cung ứng nhiên liệu hoá thạch, bao gồm chi phí thăm dò, khoan khai thác, vận chuyển, tích trữ lưu kho và xử lí các vấn đề môi trường liên quan. Khoản chi phí này chiếm tỉ lệ lớn trong giá nhiên liệu và ngày càng tăng do các mỏ dễ khai thác dần cạn kiệt.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 16 (Mục III): phân tích các yếu tố cấu thành giá nhiên liệu hoá thạch và tác động của việc cạn kiệt các mỏ dễ khai thác.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 05, B16 (Mục II), tr. 78; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B16 (Mục III), tr. 78; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B16 (Mục III), tr. 78, 79
+
 ### frigid zone in Asia
 - **Tiếng Việt:** Đới lạnh ở châu Á
 - **Chuyên ngành gốc:** Địa lí
@@ -2640,13 +2822,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 4): đới thiên nhiên phân bố ở vùng cực bắc lãnh thổ Bắc Mỹ với cảnh quan băng tuyết và đài nguyên.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 3), tr. 144; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B14 (Mục 4), tr. 144
 
+### fruit crops in Vietnam
+- **Tiếng Việt:** Cây ăn quả ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A diverse group of tropical, subtropical, and temperate fruit crops in Vietnam with steadily expanding acreage, developed into geographical-indication specialty zones applying organic and high-tech standards for domestic consumption and export. The country's largest fruit-growing regions are the Mekong Delta, the Northern Midlands and Mountains, and the Southeast.
+- **Giải thích (VI):** Nhóm cây trồng đa dạng nguồn gốc nhiệt đới, cận nhiệt và ôn đới ở Việt Nam có diện tích ngày càng tăng, phát triển thành nhiều vùng đặc sản có chỉ dẫn địa lí gắn với tiêu chuẩn hữu cơ, công nghệ cao phục vụ tiêu dùng trong nước và xuất khẩu. Các vùng trồng cây ăn quả lớn nhất cả nước là Đồng bằng sông Cửu Long, Trung du và miền núi phía Bắc và Đông Nam Bộ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 5 (Mục 2.a): Trình bày tiềm năng đa dạng sinh thái, xu hướng sản xuất theo tiêu chuẩn chất lượng và các vùng chuyên canh cây ăn quả lớn ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.a), tr. 133, 134; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.a), tr. 133
+
 ### future orientation of industrial development
 - **Tiếng Việt:** Định hướng phát triển công nghiệp trong tương lai
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The strategic pathway for sustainable industrial development aimed at meeting production and consumption demands while protecting the environment. Its core priorities include shifting from traditional industries to high-tech industries that optimize production, promoting green growth that conserves resources and reduces waste, and expanding renewable energy use.
 - **Giải thích (VI):** Chiến lược phát triển ngành công nghiệp theo hướng bền vững nhằm đáp ứng nhu cầu sản xuất, tiêu dùng gắn với bảo vệ môi trường. Nội dung trọng tâm gồm chuyển dịch từ công nghiệp truyền thống sang công nghiệp công nghệ cao tối ưu hoá sản xuất, thúc đẩy tăng trưởng xanh tiết kiệm tài nguyên, giảm chất thải và đẩy mạnh sử dụng năng lượng tái tạo.
 - **Bối cảnh:** Địa lí lớp 10, Bài 31 (Mục 3): xác định các hướng phát triển bền vững và tăng trưởng xanh của công nghiệp thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 2), tr. 89; SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 3), tr. 89
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 2), tr. 89; SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 3), tr. 89; SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 1), tr. 89
 
 ### future orientations of agricultural development
 - **Tiếng Việt:** Định hướng phát triển nông nghiệp trong tương lai
@@ -2654,7 +2844,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The three strategic directions of global agriculture comprising climate-adaptive agriculture (breeding new varieties, adjusting crop structures, improving irrigation), high-tech agriculture, and green (organic) agriculture. These orientations aim to maximize clean resource utilization and build a sustainable growth model coupled with environmental protection.
 - **Giải thích (VI):** Ba phương hướng chiến lược của nông nghiệp thế giới gồm: phát triển nông nghiệp thích ứng với biến đổi khí hậu (tạo giống mới, chuyển đổi cơ cấu cây trồng, thuỷ lợi), phát triển nông nghiệp công nghệ cao và phát triển nông nghiệp xanh (hữu cơ). Các định hướng này nhằm khai thác tối đa tài nguyên sạch và xây dựng mô hình tăng trưởng bền vững gắn với bảo vệ môi trường.
 - **Bối cảnh:** Địa lí lớp 10, Bài 26 (Mục 2.b): các xu hướng phát triển chủ đạo của sản xuất nông nghiệp thế giới trong tương lai.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 2.b), tr. 77
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 2.b), tr. 77; SGK Địa lí 10 KNTT, Phần ba, B26, tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.a), tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.b), tr. 76
 
 ### GDP growth rate of Latin America
 - **Tiếng Việt:** Tốc độ tăng GDP khu vực Mỹ La-tinh
@@ -2688,7 +2878,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 17 (Mục 1.a): Định nghĩa khái niệm vỏ địa lí và các quy luật tự nhiên cơ bản diễn ra trong nó.
   - *Lưu ý:* Phân biệt với vỏ Trái Đất (chỉ là lớp vỏ đá cứng ngoài cùng của thạch quyển, trong khi vỏ địa lí bao gồm cả thuỷ quyển, sinh quyển, phần khí quyển dưới lớp ô-dôn và phần trên của thạch quyển).
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B17, tr. 51; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 1.a), tr. 51
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B17, tr. 51; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 1.a), tr. 51; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 1.b), tr. 51
 
 ### geographical and historical consequences of the discovery of the Americas
 - **Tiếng Việt:** Hệ quả địa lí – lịch sử của việc phát kiến ra châu Mỹ
@@ -2722,7 +2912,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The spatial and natural prerequisites shaping service activities: Vietnam's crossroads position between mainland and insular Southeast Asia along major Asia-Pacific trade and shipping routes favors foreign trade, logistics, and international transport. Diverse topography, scenic landscapes, mild climate, and dense river networks support waterway transport and year-round tourism, although rugged terrain, natural disasters, and climate change pose challenges.
 - **Giải thích (VI):** Nhóm nhân tố tạo tiền đề không gian và tài nguyên cho hoạt động dịch vụ: vị trí cầu nối giữa Đông Nam Á lục địa và hải đảo trên các tuyến thương mại, vận tải lớn châu Á – Thái Bình Dương giúp Việt Nam thuận lợi mở rộng xuất nhập khẩu, logistics và kết nối giao thông quốc tế. Địa hình đa dạng, cảnh quan đẹp, khí hậu ôn hoà và mạng lưới sông hồ dày đặc thuận lợi cho giao thông thuỷ và du lịch quanh năm, song địa hình chia cắt mạnh cùng thiên tai, biến đổi khí hậu cũng gây nhiều khó khăn.
 - **Bối cảnh:** Địa lí lớp 12, Bài 19 (Mục II.6): thuận lợi và khó khăn của vị trí địa lí, tự nhiên đối với giao thông, thương mại và du lịch ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B19 (Mục II.6), tr. 83
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B19 (Mục II.6), tr. 83; SGK Địa lí 12 KNTT, Phần 3, B19 (Mục II.5), tr. 83
 
 ### geographical location of Japan
 - **Tiếng Việt:** Vị trí địa lí Nhật Bản
@@ -2738,7 +2928,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The geographical coordinates spanning roughly 12°N to 42°N latitude and 27°E to 73°E longitude in southwestern Asia, serving as a crossroads linking Asia, Europe, and Africa along major tectonic plate boundaries and the Mediterranean mineralogenic belt. Bordering several major seas and gulfs (the Mediterranean, Black, Red, and Arabian Seas, and the Persian Gulf), the region connects directly to both the Atlantic and Indian Oceans.
 - **Giải thích (VI):** Vị trí toạ độ trải từ khoảng vĩ độ 12°B đến 42°B và kinh độ 27°Đ đến 73°Đ ở phía tây nam châu Á, giữ vai trò cầu nối giữa ba châu lục Á, Âu, Phi và nằm trên vùng tiếp xúc các mảng kiến tạo lớn thuộc vành đai sinh khoáng Địa Trung Hải. Khu vực tiếp giáp nhiều biển và vịnh biển lớn (Địa Trung Hải, Biển Đen, Biển Đỏ, biển A-ráp, vịnh Péc-xích), thông ra Đại Tây Dương và Ấn Độ Dương.
 - **Bối cảnh:** Địa lí lớp 11, Bài 15 (Mục I): Phân tích vị trí chiến lược ngã ba ba châu lục và ý nghĩa địa – kinh tế, địa – chính trị của Tây Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục I), tr. 67
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục I), tr. 67; SGK Địa lí 11 KNTT, Phần hai, B15, tr. 67
 
 ### geographical location of the Americas
 - **Tiếng Việt:** Vị trí địa lí châu Mỹ
@@ -2746,7 +2936,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The spatial characteristics of the Americas—the world's second-largest continent at approximately 42 million km², the only one situated entirely in the Western Hemisphere, and spanning the widest latitudinal range (mainland from about 72°N to 54°S). Bounded by major oceans and largely isolated from other continents, it comprises North America and South America linked by the Isthmus of Central America.
 - **Giải thích (VI):** Đặc điểm không gian của châu Mỹ — châu lục rộng khoảng 42 triệu km² (lớn thứ hai thế giới), duy nhất nằm hoàn toàn ở bán cầu Tây và trải dài trên nhiều vĩ độ nhất (phần đất liền từ khoảng 72°B đến 54°N). Lãnh thổ tiếp giáp các đại dương lớn nên gần như tách biệt với các châu lục khác, gồm hai lục địa Bắc Mỹ và Nam Mỹ nối với nhau qua eo đất Trung Mỹ.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 1): đặc điểm nổi bật về phạm vi lãnh thổ, toạ độ vĩ độ và vị trí ở bán cầu Tây của châu Mỹ.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 1), tr. 139; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 1), tr. 139, 140
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 1), tr. 139; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 1), tr. 139, 140; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13, tr. 139
 
 ### geographical location of the Bien Dong Sea
 - **Tiếng Việt:** Vị trí địa lí của Biển Đông
@@ -2804,6 +2994,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 1 (Mục 2): Định hướng các nhóm ngành nghề ứng dụng kiến thức địa lí tự nhiên, kinh tế – xã hội và kĩ thuật chuyên ngành.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần một, B1 (Mục 1.b), tr. 6; SGK Địa lí 10 KNTT, Phần một, B1 (Mục 2), tr. 6
 
+### geological period
+- **Tiếng Việt:** Kỉ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A unit of geological time in Earth's history spanning from millions to tens of millions of years.
+- **Giải thích (VI):** Đơn vị phân chia thời gian địa chất trong lịch sử Trái Đất có độ dài kéo dài từ hàng triệu đến hàng chục triệu năm.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 9, Bài 49 (Mục I): mốc thời gian địa chất dùng để theo dõi lịch sử tiến hoá xương chi của ngựa qua các giai đoạn từ Eocen đến Pleistocen.
+  - *Lưu ý:* Thuật ngữ địa chất học dùng trong bài học tiến hoá sinh học; trong địa tầng học chuẩn quốc tế, các mốc Eocen, Oligocen, Miocen, Pliocen, Pleistocen trên Hình 49.1 tương ứng cấp thế (epoch), còn kỉ (geological period) là đơn vị thời gian địa chất bậc trên kéo dài hàng triệu đến hàng chục triệu năm.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225, 226; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B49 (Mục III), tr. 213
+
 ### glacier
 - **Tiếng Việt:** Băng hà (sông băng)
 - **Chuyên ngành gốc:** Địa lí
@@ -2826,7 +3026,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The spatial distribution of the world's six major livestock groups (cattle, buffalo, pigs, sheep, goats, and poultry) tied to regional ecological conditions, pastures, and feed supplies. Cattle, pigs, and poultry are widely distributed across China, the United States, Brazil, India, and Europe, whereas buffalo concentrate in monsoon Asia and sheep and goats are prevalent in arid and subtropical regions.
 - **Giải thích (VI):** Sự phân bố không gian của sáu nhóm vật nuôi chủ yếu trên thế giới (bò, trâu, lợn, cừu, dê và gia cầm) gắn với điều kiện sinh thái, đồng cỏ và nguồn thức ăn của từng khu vực. Bò, lợn và gia cầm phân bố rộng ở Trung Quốc, Hoa Kỳ, Bra-xin, Ấn Độ, châu Âu, trong khi trâu tập trung ở châu Á gió mùa còn cừu, dê phổ biến ở các vùng khô hạn và cận nhiệt.
 - **Bối cảnh:** Địa lí lớp 10, Bài 24 (Mục 2.c): bản đồ và quy luật phân bố các vật nuôi chính của một số quốc gia trên thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 2.c), tr. 72
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 2.c), tr. 72; SGK Địa lí 10 KNTT, Phần ba, B24, tr. 69; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.a), tr. 69; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.b), tr. 69
 
 ### global distribution of precipitation
 - **Tiếng Việt:** Phân bố mưa trên Trái Đất
@@ -2872,15 +3072,27 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Địa lí 11 KNTT, Bảng giải thích thuật ngữ, tr. 165; SGK Địa lí 11 KNTT, Phần một, B2 (Mục I.1), tr. 10; SGK Địa lí 12 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Địa lí 12 KNTT, Phần 3, B10 (Mục I), tr. 45
 
 ### globalization
-- **Tiếng Việt:** Toàn cầu hoá (Xu thế toàn cầu hoá)
+- **Tiếng Việt:** Toàn cầu hoá (Xu thế toàn cầu hoá; Xu hướng toàn cầu hoá)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The process of interconnecting countries worldwide across multiple dimensions such as economy, culture, and science, in which economic globalization exerts a powerful impact on all aspects of global socio-economic life.
 - **Giải thích (VI):** Quá trình liên kết các quốc gia trên thế giới về nhiều mặt như kinh tế, văn hoá, khoa học, trong đó toàn cầu hoá kinh tế có tác động mạnh mẽ đến mọi mặt của nền kinh tế – xã hội thế giới.
 - **Giải thích khác (SGK Lịch sử 12):** EN: The process of rapid intensification of interconnections, interdependence, and mutual influence among nations, peoples, and regions on a global scale, strongly propelled by the end of the Cold War and advances in the scientific and technological revolution. / VI: Quá trình gia tăng mạnh mẽ những mối liên hệ, sự phụ thuộc và tác động lẫn nhau giữa các quốc gia, dân tộc và khu vực trên phạm vi toàn cầu, được thúc đẩy mạnh mẽ bởi sự kết thúc Chiến tranh lạnh và sự phát triển của cách mạng khoa học – công nghệ.
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The process of strong integration among economies and societies worldwide, accelerating markedly from the 1980s onward across multiple dimensions of life. It manifests in economics (international trade linked with transnational corporations and the global financial system), culture (increased sharing and exchange among cultures), and politics (the growth and influence of regional organizations such as the EU and ASEAN and international bodies such as the UN). / VI: Quá trình hội nhập mạnh mẽ của các nền kinh tế và xã hội trên toàn thế giới, gia tăng nhanh chóng từ những năm 80 của thế kỉ XX đến nay và tác động đến nhiều khía cạnh đời sống. Quá trình này biểu hiện trên các lĩnh vực kinh tế (thương mại quốc tế gắn với các tập đoàn xuyên quốc gia, hệ thống tài chính toàn cầu), văn hoá (tăng cường chia sẻ, giao lưu giữa các nền văn hoá) và chính trị (sự phát triển, ảnh hưởng của các tổ chức khu vực như EU, ASEAN và quốc tế như Liên hợp quốc).
+- **Giải thích khác (SGK GDCD 8):** EN: The process of diminishing geographical barriers that facilitates exchange and mutual learning among nations and cultures while simultaneously posing the risk of eroding the diversity of national cultural identities. / VI: Quá trình xoá đi sự ngăn cách về không gian địa lí, tạo điều kiện cho việc giao lưu, học hỏi giữa các dân tộc và các nền văn hoá nhưng đồng thời cũng tạo ra nguy cơ làm mất đi tính đa dạng của bản sắc văn hoá dân tộc.
 - **Bối cảnh:**
   - Địa lí lớp 11, Bài 2 (Mục I): Khái niệm quá trình toàn cầu hoá và vị trí trọng tâm của toàn cầu hoá kinh tế.
   - Lịch sử lớp 12, Bài 3 (Mục 1): Xu thế khách quan định hình sự liên kết và phụ thuộc lẫn nhau trong quan hệ quốc tế sau Chiến tranh lạnh.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B2, tr. 9; SGK Địa lí 11 KNTT, Phần một, B2 (Mục I), tr. 9; SGK Địa lí 11 KNTT, Phần một, B2 (Mục I.1), tr. 9; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 1), tr. 18; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 1), tr. 19; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 2.a), tr. 19
+  - Lịch sử và Địa lí lớp 9, Bài 21 (Mục 2.a, 2.b): Xu thế khách quan chi phối sự phát triển của thế giới hiện đại và quá trình hội nhập quốc tế của Việt Nam.
+  - Giáo dục Kinh tế và Pháp luật lớp 8, Bài 2 (Mục 1): phân tích bối cảnh thời đại đặt ra yêu cầu vừa giao lưu quốc tế vừa giữ gìn bản sắc và tôn trọng sự đa dạng văn hoá.
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B2, tr. 9; SGK Địa lí 11 KNTT, Phần một, B2 (Mục I), tr. 9; SGK Địa lí 11 KNTT, Phần một, B2 (Mục I.1), tr. 9; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 1), tr. 18; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 1), tr. 19; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 2.a), tr. 19; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21, tr. 111; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 2.a, 2.b), tr. 114, 115; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.b), tr. 114; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 2.a), tr. 114; SGK GDCD 8 KNTT, B2, tr. 10; SGK GDCD 8 KNTT, B2 (Mục 1), tr. 10, 11; SGK GDCD 8 KNTT, B2 (Mục 1), tr. 10
+
+### golden population structure
+- **Tiếng Việt:** Cơ cấu dân số vàng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An age-based population structure in which, on average, there are two working-age individuals (aged 15 to 64) for every dependent person (under age 15 or aged 65 and older).
+- **Giải thích (VI):** Trạng thái cơ cấu dân số theo nhóm tuổi khi bình quân cứ 1 người phụ thuộc (dưới 15 tuổi và từ 65 tuổi trở lên) thì có 2 người trong tuổi lao động (từ 15 đến 64 tuổi).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 1 (Mục 2.b): Đánh giá lợi thế về nguồn lao động trong thời kì cơ cấu dân số vàng của Việt Nam hiện nay.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.b), tr. 118; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1.c), tr. 118; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.a), tr. 118
 
 ### graphic scale
 - **Tiếng Việt:** Tỉ lệ thước
@@ -2945,6 +3157,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 7, Bài 15 (Mục 3): phương thức khai thác bền vững tài nguyên đất tại các đồng bằng Bắc Mỹ.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 2), tr. 67; SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 3), tr. 68; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục I.2.a), tr. 50; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục III.2), tr. 56; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục IV), tr. 56; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 148
 
+### green and smart city
+- **Tiếng Việt:** Đô thị xanh, đô thị thông minh
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A modern urban development trend in the post-industrial era focusing on expanding green spaces, building paperless cities, strengthening connectivity, and advancing digital transformation.
+- **Giải thích (VI):** Xu hướng phát triển đô thị hiện đại thời kì hậu công nghiệp tập trung vào mở rộng không gian xanh, xây dựng thành phố không giấy, tăng cường kết nối và đẩy mạnh chuyển đổi số.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 1 (Mục 2.b): Xác định định hướng phát triển đô thị bền vững và ứng dụng công nghệ số trong xã hội hậu công nghiệp.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 223; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 223, 224
+
 ### green growth
 - **Tiếng Việt:** Tăng trưởng xanh
 - **Chuyên ngành gốc:** Địa lí
@@ -2952,6 +3172,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Sự thúc đẩy tăng trưởng kinh tế đồng thời bảo tồn tài nguyên thiên nhiên để có thể tiếp tục cung cấp các tài nguyên và dịch vụ môi trường cho cuộc sống con người trong tương lai. Định hướng này nhấn mạnh việc giữ cân bằng hài hoà với môi trường sinh thái, tránh gây áp lực làm phá vỡ cân bằng của môi trường với mục tiêu cao nhất là duy trì bền vững sự tăng trưởng kinh tế.
 - **Bối cảnh:** Địa lí lớp 10, Bài 40 (Mục 2.a): Định nghĩa khái niệm và mục tiêu cốt lõi của tăng trưởng xanh.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 1.b), tr. 112; SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 2.a), tr. 112; SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 2.b), tr. 112
+
+### green industry
+- **Tiếng Việt:** Công nghiệp xanh
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Environmentally friendly industrial model, as defined by the United Nations Industrial Development Organization (UNIDO), that manufactures safe, eco-friendly products and helps improve natural environmental conditions. It applies advanced technologies and circular production chains to reuse waste, conserve resources and energy, and mitigate climate change.
+- **Giải thích (VI):** Nền công nghiệp thân thiện với môi trường theo quan niệm của Tổ chức Phát triển Công nghiệp Liên hợp quốc (UNIDO), tạo ra các sản phẩm an toàn, thân thiện và góp phần cải thiện điều kiện tự nhiên của môi trường. Mô hình này ứng dụng công nghệ tiên tiến và chuỗi sản xuất tuần hoàn nhằm tái sử dụng chất thải, tiết kiệm tài nguyên, năng lượng và giảm nhẹ biến đổi khí hậu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 8 (Mục 3): Định hướng phát triển công nghiệp bền vững ở Việt Nam nhằm giảm ô nhiễm môi trường và đáp ứng các tiêu chuẩn xuất khẩu khắt khe trên thị trường quốc tế.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B8, tr. 142; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B8 (Mục 3), tr. 150
 
 ### greenhouse gas
 - **Tiếng Việt:** Khí nhà kính
@@ -2975,15 +3203,42 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 7 (Mục 2.b): mốc giờ gốc đi qua Đài thiên văn Hoàng gia Grin-uých để so sánh và quy đổi giờ giữa các địa điểm trên Trái Đất.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B5 (Mục 1.b), tr. 18; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.a), tr. 119; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.b), tr. 119; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.b), tr. 119, 120
 
+### gross domestic product
+- **Tiếng Việt:** Tổng sản phẩm trong nước (GDP; tổng sản phẩm quốc nội)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Aggregate economic indicator measuring the total value of final material goods and services produced within a national economy over a specified period (a quarter or a year), abbreviated as GDP.
+- **Giải thích (VI):** Chỉ tiêu kinh tế tổng hợp phản ánh tổng giá trị sản phẩm vật chất và dịch vụ cuối cùng tạo ra trong phạm vi nền kinh tế quốc gia trong một khoảng thời gian nhất định (quý hoặc năm).
+- **Giải thích khác (SGK Địa lí 10):** EN: The total market value of all final goods and services produced within the territorial boundaries of a country during a given period (typically one year), encompassing output generated by both domestic and foreign-owned entities operating inside that territory. It is used to analyze economic size, sectoral composition, and growth rates, and when divided by total population, indicates average living standards. / VI: Tổng giá trị tính theo giá cả thị trường của tất cả hàng hoá và dịch vụ cuối cùng được sản xuất ra trong phạm vi lãnh thổ một quốc gia trong một khoảng thời gian nhất định (thường là 1 năm), tính cả phần đóng góp của khu vực trong nước và nước ngoài hoạt động tại quốc gia đó. Chỉ tiêu này dùng để phân tích quy mô, cơ cấu, tốc độ tăng trưởng kinh tế và khi chia cho tổng số dân sẽ phản ánh mức sống bình quân đầu người.
+- **Giải thích khác (SGK GD KT&PL 11):** EN: A macroeconomic indicator measuring the total market value of all goods and services produced within a country's territory during a specified period. / VI: Chỉ tiêu kinh tế vĩ mô đo lường tổng giá trị thị trường của tất cả các loại hàng hoá và dịch vụ được sản xuất ra trên lãnh thổ một quốc gia trong một thời kì nhất định.
+- **Giải thích khác (SGK GD KT&PL 12):** EN: The total monetary value at market prices of all final goods and services produced within a country's territory during a specific period, typically one year. This indicator measures national output and reflects the level of economic activity and expansion in the scale of an economy. / VI: Tổng giá trị bằng tiền tính theo giá thị trường của tất cả hàng hoá và dịch vụ cuối cùng được sản xuất ra trên lãnh thổ một nước trong một thời gian nhất định (thường là một năm). Chỉ tiêu này đo lường sản lượng quốc gia, phản ánh mức độ hoạt động và sự tăng trưởng về quy mô của nền kinh tế.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 9, Bài 12 (Mục 4): Chỉ tiêu phản ánh quy mô nền kinh tế cả nước, dùng làm cơ sở đối chiếu tỉ trọng đóng góp GRDP của từng vùng kinh tế – xã hội.
+  - Địa lí lớp 10, Bài 22 (Mục 2): Chỉ tiêu đánh giá quy mô, cơ cấu, tốc độ tăng trưởng và sức mạnh kinh tế theo phạm vi lãnh thổ quốc gia.
+  - Giáo dục Kinh tế và Pháp luật lớp 11, Bài 4 (Mục 3; Bảng giải thích thuật ngữ): thước đo quy mô sản lượng và tốc độ tăng trưởng kinh tế khi đánh giá hệ luỵ của thất nghiệp.
+  - Giáo dục Kinh tế và Pháp luật lớp 12, Bài 1 (Mục 1.a): thước đo sản lượng quốc gia theo lãnh thổ để đánh giá tăng trưởng kinh tế.
+  - *Lưu ý:* Phân biệt với tổng thu nhập quốc gia (GNI): GDP tính theo nguyên tắc lãnh thổ (mọi giá trị sản xuất trong nước bất kể quốc tịch chủ thể), còn GNI tính theo nguyên tắc quốc tịch công dân (gồm giá trị tạo ra ở cả trong và ngoài lãnh thổ).
+  - *Lưu ý:* Tính theo phạm vi lãnh thổ quốc gia, phân biệt với tổng thu nhập quốc dân (GNI) tính theo quyền sở hữu của công dân và doanh nghiệp nước đó.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B12 (Mục 4), tr. 161; SGK Địa lí 10 KNTT, Phần ba, B22 (Mục 2), tr. 66; SGK GD KT&PL 11 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK GD KT&PL 11 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK GD KT&PL 11 KNTT, Chủ đề 02, B4 (Mục 3), tr. 25; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 7; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 7, 8; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 8
+
+### gross output
+- **Tiếng Việt:** Giá trị sản xuất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An aggregate economic indicator measuring the total value of material products (including finished goods, semi-finished goods, and work-in-progress) and services produced within a given period.
+- **Giải thích (VI):** Chỉ tiêu kinh tế tổng hợp phản ánh toàn bộ giá trị của sản phẩm vật chất (gồm thành phẩm, bán thành phẩm, sản phẩm dở dang) và dịch vụ tạo ra trong một thời kì nhất định.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 5 (Mục 2): Sử dụng chỉ tiêu giá trị sản xuất để phân tích quy mô, cơ cấu và tốc độ tăng trưởng của các ngành nông nghiệp, lâm nghiệp, thuỷ sản và công nghiệp.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2), tr. 130; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.a), tr. 131
+
 ### Gross Regional Domestic Product
 - **Tiếng Việt:** GRDP (Tổng sản phẩm trên địa bàn)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** An economic indicator representing the gross regional domestic product of a province or region, measuring the value newly added of goods and services produced within that territory over a specified period.
 - **Giải thích (VI):** Tổng sản phẩm trên địa bàn tỉnh hoặc vùng, phản ánh giá trị mới tăng thêm của hàng hoá và dịch vụ được tạo ra trên địa bàn tỉnh hoặc vùng trong một thời gian nhất định.
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: Aggregate economic indicator measuring the newly added value of goods and services produced within a province, municipality, or economic region over a specified period (six months or one year), abbreviated as GRDP. / VI: Chỉ tiêu kinh tế tổng hợp phản ánh giá trị mới tăng thêm của hàng hoá và dịch vụ tạo ra trên địa bàn một tỉnh, thành phố hoặc vùng kinh tế trong một khoảng thời gian nhất định (6 tháng hoặc một năm).
 - **Bối cảnh:**
   - Địa lí lớp 12, Bài 24 (Mục II): chỉ tiêu đánh giá quy mô, cơ cấu và tốc độ tăng trưởng kinh tế trên địa bàn tỉnh, thành phố hoặc vùng kinh tế.
+  - Lịch sử và Địa lí lớp 9, Bài 12 (Mục 4): Chỉ tiêu đo lường quy mô, tốc độ tăng trưởng và cơ cấu kinh tế cấp tỉnh, thành phố hoặc vùng kinh tế – xã hội, phân biệt với GDP tính cho phạm vi cả nước.
   - *Lưu ý:* Phân biệt với GDP (Tổng sản phẩm trong nước tính trên phạm vi toàn quốc); GRDP tính riêng trên phạm vi địa bàn một tỉnh, thành phố hoặc một vùng kinh tế.
-- **Nguồn:** SGK Địa lí 12 KNTT, Bảng giải thích thuật ngữ, tr. 175
+- **Nguồn:** SGK Địa lí 12 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B12 (Mục 4), tr. 161; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B12 (Mục 4), tr. 162
 
 ### groundwater
 - **Tiếng Việt:** Nước ngầm (nước dưới đất)
@@ -3050,7 +3305,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A form of territorial industrial organization concentrating and linking research and development, high-tech application, technology and enterprise incubation, and high-tech workforce training. It directly manufactures and commercializes high-tech products and services to serve as an engine for national economic growth.
 - **Giải thích (VI):** Nơi tập trung và liên kết các hoạt động nghiên cứu và phát triển, ứng dụng công nghệ cao, ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao và đào tạo nhân lực công nghệ cao. Khu công nghệ cao trực tiếp sản xuất, kinh doanh sản phẩm và cung ứng dịch vụ công nghệ cao nhằm tạo động lực thúc đẩy phát triển kinh tế đất nước.
 - **Bối cảnh:** Địa lí lớp 12, Bài 17 (Mục II): hình thức tổ chức lãnh thổ gắn kết nghiên cứu khoa học với sản xuất công nghệ cao ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B17 (Mục II), tr. 78, 79
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B17 (Mục II), tr. 78, 79; SGK Địa lí 12 KNTT, Phần 3, B17 (Mục I), tr. 78; SGK Địa lí 12 KNTT, Phần 3, B17 (Mục II), tr. 78
 
 ### hill
 - **Tiếng Việt:** Đồi
@@ -3072,7 +3327,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 8 (Mở đầu, Mục 3): một trong những tôn giáo lớn của thế giới có cội nguồn từ văn minh Ấn Độ cổ đại.
   - Lịch sử và Địa lí lớp 7, Bài 5 (Mục 1.b và 2.a, 2.c): Tôn giáo bản địa chủ đạo của Ấn Độ gắn với nhiều công trình kiến trúc đền tháp tiêu biểu thời phong kiến.
   - *Lưu ý:* Không nhầm với 'Hin-đu giáo' (`Hinduism (history)`) trong Lịch sử.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 116; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8, tr. 34; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37, 38; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.b), tr. 30
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 116; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8, tr. 34; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 37, 38; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.b), tr. 30
 
 ### Hoang Sa Archipelago
 - **Tiếng Việt:** Quần đảo Hoàng Sa
@@ -3095,11 +3350,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A composite measure reflecting human development across three dimensions: health, education, and income. Based on this indicator, the United Nations classifies countries into four levels: very high (0.800 and above), high (0.700 to below 0.800), medium (0.550 to below 0.700), and low (below 0.550).
 - **Giải thích (VI):** Thước đo tổng hợp phản ánh sự phát triển của con người trên ba phương diện: sức khoẻ, học vấn và thu nhập. Dựa vào chỉ tiêu này, Liên hợp quốc phân chia các quốc gia thành bốn mức: rất cao (từ 0,800 trở lên), cao (từ 0,700 đến dưới 0,800), trung bình (từ 0,550 đến dưới 0,700) và thấp (dưới 0,550).
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A composite statistical measure reflecting human development across three dimensions: health (measured by life expectancy at birth), knowledge (measured by the education index), and income (measured by gross national income per capita). / VI: Thước đo tổng hợp phản ánh sự phát triển của con người trên ba phương diện: sức khoẻ (thể hiện qua tuổi thọ trung bình tính từ lúc sinh), tri thức (thể hiện qua chỉ số giáo dục) và thu nhập (thể hiện qua tổng thu nhập quốc gia bình quân đầu người).
 - **Giải thích khác (SGK GD KT&PL 12):** EN: A composite index reflecting human development in a country across three core dimensions: health, education (measured by mean years of schooling and expected years of schooling), and income (measured by GDP per capita or GNI per capita). It serves as a key indicator of social progress in evaluating economic development. / VI: Thước đo tổng hợp phản ánh mức độ phát triển của con người dựa trên ba tiêu chí cơ bản: sức khoẻ, giáo dục (tính bằng số năm đi học bình quân và số năm đi học kì vọng) và thu nhập (tính bằng GDP/người hoặc GNI/người). Chỉ tiêu này thuộc nhóm tiêu chí đánh giá tiến bộ xã hội trong phát triển kinh tế.
 - **Bối cảnh:**
   - Địa lí lớp 11, Bài 1 (Mục I): Nội dung phản ánh và các ngưỡng phân loại trình độ phát triển con người của Liên hợp quốc.
+  - Lịch sử và Địa lí lớp 9, Bài 19 (Mục 1.a, 1.c): Thước đo đánh giá chất lượng cuộc sống và trình độ phát triển xã hội ở mức cao của Nhật Bản và Trung Quốc từ sau năm 1991.
   - Giáo dục Kinh tế và Pháp luật lớp 12, Bài 1 (Mục 2.a): chỉ tiêu đánh giá tiến bộ xã hội và chất lượng phát triển con người của quốc gia.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B1, tr. 5; SGK Địa lí 11 KNTT, Phần một, B1 (Mục I), tr. 5; SGK Địa lí 11 KNTT, Phần một, B1 (Mục I), tr. 5, 6; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 2.a), tr. 11; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 2.a), tr. 11, 12; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 2.a), tr. 12
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B1, tr. 5; SGK Địa lí 11 KNTT, Phần một, B1 (Mục I), tr. 5; SGK Địa lí 11 KNTT, Phần một, B1 (Mục I), tr. 5, 6; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 1.a, 1.c), tr. 97, 98; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 1.a), tr. 97; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 2.a), tr. 11; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 2.a), tr. 11, 12; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 2.a), tr. 12
 
 ### humic mountain soil group
 - **Tiếng Việt:** Nhóm đất mùn trên núi (đất mùn trên núi)
@@ -3139,7 +3396,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A spearhead energy industry tapping Vietnam's largest hydropower potential in the Northern Midlands and Mountains, where the Red River system accounts for over 30% of national hydropower reserves (11 million kW), including nearly 6 million kW on the Da River. Along the Da River stand the country's three largest hydropower plants: Son La (2,400 MW), Hoa Binh (1,920 MW), and Lai Chau (1,200 MW).
 - **Giải thích (VI):** Ngành năng lượng thế mạnh khai thác tiềm năng thuỷ điện lớn nhất cả nước của vùng Trung du và miền núi Bắc Bộ, riêng hệ thống sông Hồng chiếm trên 30% trữ lượng thuỷ năng toàn quốc (11 triệu kW), trong đó sông Đà gần 6 triệu kW. Trên sông Đà đã xây dựng ba nhà máy thuỷ điện lớn nhất cả nước gồm Sơn La (2 400 MW), Hoà Bình (1 920 MW) và Lai Châu (1 200 MW).
 - **Bối cảnh:** Địa lí lớp 12, Bài 23 (Mục II.2): tiềm năng thuỷ năng và các công trình thuỷ điện trọng điểm của vùng Trung du và miền núi Bắc Bộ.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B23 (Mục II.2.a), tr. 99; SGK Địa lí 12 KNTT, Phần 4, B23 (Mục II.2.b), tr. 99
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B23 (Mục II.2.a), tr. 99; SGK Địa lí 12 KNTT, Phần 4, B23 (Mục II.2.b), tr. 99; SGK Địa lí 12 KNTT, Phần 4, B23 (Mục II.1.b), tr. 99
 
 ### hydrosphere
 - **Tiếng Việt:** Thuỷ quyển
@@ -3176,6 +3433,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 4 (Mục 3): Giải thích nguồn gốc hình thành và nhận diện các đại diện điển hình của nhóm đá macma.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 16; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 3), tr. 16
 
+### illegal, unreported and unregulated fishing
+- **Tiếng Việt:** Khai thác IUU (IUU; Khai thác hải sản IUU; khai thác hải sản bất hợp pháp)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Marine fishing activities conducted in breach of laws, without reporting, or outside management rules (abbreviated as IUU). Anti-IUU regulations enacted by the European Commission (EC), effective from 1 October 2010, establish an EU-wide system to prevent and eliminate the import of IUU-caught seafood into the European Union market.
+- **Giải thích (VI):** Hoạt động khai thác hải sản bất hợp pháp, không khai báo và không theo quy định (viết tắt từ cụm tiếng Anh Illegal, Unreported and Unregulated Fishing). Quy định chống khai thác IUU do Uỷ ban châu Âu (EC) ban hành và có hiệu lực từ ngày 01 – 10 – 2010 nhằm ngăn chặn, loại bỏ sản phẩm hải sản vi phạm nhập khẩu vào thị trường Liên minh châu Âu (EU).
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: Marine fishing activities conducted in violation of laws, without proper reporting, or contrary to fisheries management regulations, abbreviated as IUU fishing. In expanding Vietnam's offshore fisheries, strict compliance with anti-IUU regulations is mandatory to modernize fisheries governance and sustainably conserve marine resources. / VI: Hoạt động đánh bắt hải sản vi phạm quy định pháp luật, không thực hiện khai báo hoặc không tuân thủ các quy chế quản lí nghề cá trên biển (viết tắt tiếng Anh là IUU). Trong phát triển khai thác hải sản xa bờ ở Việt Nam, việc tuân thủ các quy định chống khai thác IUU là yêu cầu bắt buộc nhằm hiện đại hoá quản lí nghề cá và bảo vệ bền vững nguồn lợi thuỷ sản.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 9, Bài 6 (Mục 2.b): Giải thích yêu cầu pháp lí quốc tế về chống khai thác IUU đối với hoạt động đánh bắt và xuất khẩu hải sản của Việt Nam.
+  - Lịch sử và Địa lí lớp 9, Bài 21 (Mục 2): Tiêu chuẩn pháp lí trọng tâm trong quản lí hoạt động đánh bắt hải sản xa bờ gắn với hội nhập xuất khẩu thuỷ sản.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 2.b), tr. 140; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B21 (Mục 2), tr. 219; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B21 (Mục 3), tr. 219, 220
+
 ### immigration (geography)
 - **Tiếng Việt:** Nhập cư
 - **Chuyên ngành gốc:** Địa lí
@@ -3202,7 +3470,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 19 (Mục 2.b): Chỉ tiêu thành phần phản ánh lượng người chuyển đến trong gia tăng dân số cơ học.
   - *Lưu ý:* Không nhầm với 'Hệ số nhập cư' (`immigration rate`) trong Sinh học.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.b), tr. 56
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.b), tr. 56; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.a), tr. 56; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.c), tr. 56
 
 ### impact of climate change on Vietnam's climate
 - **Tiếng Việt:** Tác động của biến đổi khí hậu đối với khí hậu Việt Nam
@@ -3266,7 +3534,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The dual positive and negative effects on economic, social, and environmental systems generated by urban growth and expansion. Well-planned urbanization accelerates economic restructuring, boosts labor productivity, creates jobs, and modernizes living spaces, whereas spontaneous urbanization widens urban–rural disparities and causes infrastructure overload, unemployment, traffic congestion, and environmental pollution.
 - **Giải thích (VI):** Những tác động hai mặt về kinh tế, xã hội và môi trường do quá trình phát triển và mở rộng đô thị mang lại. Đô thị hoá hợp lí thúc đẩy chuyển dịch cơ cấu kinh tế, tăng năng suất lao động, tạo việc làm và hiện đại hoá không gian sống, song đô thị hoá tự phát lại làm gia tăng chênh lệch thành thị – nông thôn, quá tải hạ tầng, thiếu việc làm, tắc nghẽn giao thông và ô nhiễm môi trường.
 - **Bối cảnh:** Địa lí lớp 10, Bài 20 (Mục 2.c): Đánh giá tác động tích cực và tiêu cực của đô thị hoá đến kinh tế – xã hội và môi trường.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20, tr. 60
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20, tr. 60; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.a), tr. 60; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.b), tr. 60
+
+### impacts of urbanization in Vietnam
+- **Tiếng Việt:** Tác động của đô thị hoá ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The multifaceted socio-economic effects of urbanization linked with industrialization and modernization in Vietnam, driving economic growth, shifting economic and labour structures, advancing national digital transformation, attracting capital and science-technology, improving living standards, and diffusing development to rural areas. Alongside these positive contributions, some urban areas face infrastructure overload, environmental pollution, and underemployment.
+- **Giải thích (VI):** Hệ quả đa chiều của quá trình đô thị hoá gắn với công nghiệp hoá, hiện đại hoá đối với kinh tế – xã hội Việt Nam, tạo động lực tăng trưởng, chuyển dịch cơ cấu kinh tế – lao động, thúc đẩy chuyển đổi số, thu hút vốn cùng khoa học – công nghệ, nâng cao chất lượng sống và lan toả phát triển nông thôn. Bên cạnh các tác động tích cực, một số đô thị vẫn đối mặt với tình trạng quá tải cơ sở hạ tầng, ô nhiễm môi trường và thiếu việc làm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 1 (Mục 3): Đánh giá mặt tích cực và hạn chế của quá trình đô thị hoá đối với sự phát triển kinh tế – xã hội Việt Nam hiện nay.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 3), tr. 224; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 224
 
 ### Indochinese Peninsula
 - **Tiếng Việt:** Bán đảo Trung Ấn
@@ -3274,7 +3550,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The mainland portion of Southeast Asia, characterized by a tropical monsoon climate and terrain of medium-elevation mountain ranges running north–south or northwest–southeast interspersed with deeply incised river valleys, alongside coastal and lower-river alluvial plains.
 - **Giải thích (VI):** Bộ phận đất liền của khu vực Đông Nam Á, đặc trưng bởi khí hậu nhiệt đới gió mùa và địa hình các dải núi cao trung bình chạy hướng bắc – nam hoặc tây bắc – đông nam xen kẽ thung lũng sông cắt xẻ sâu, cùng các đồng bằng phù sa ven biển và hạ lưu sông.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 2.g): bộ phận lục địa của khu vực Đông Nam Á phân biệt với phần hải đảo là quần đảo Mã Lai.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124, 125
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124, 125; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.e), tr. 124
 
 ### industrial center
 - **Tiếng Việt:** Trung tâm công nghiệp
@@ -3286,7 +3562,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 10, Bài 30 (Mục 2): đặc điểm cấu trúc và vai trò hạt nhân tạo vùng của trung tâm công nghiệp.
   - Địa lí lớp 12, Bài 17 (Mục III): khái niệm và sự phân bố các trung tâm công nghiệp lớn ở Đồng bằng sông Hồng, Đông Nam Bộ và cả nước.
   - *Lưu ý:* Gắn với đô thị vừa và lớn có dân cư sinh sống và xí nghiệp hạt nhân, cấp độ cao hơn điểm công nghiệp và khu công nghiệp.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B30 (Mục 2), tr. 86; SGK Địa lí 12 KNTT, Phần 3, B17 (Mục III), tr. 79
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B30 (Mục 2), tr. 86; SGK Địa lí 10 KNTT, Phần ba, B30, tr. 86; SGK Địa lí 10 KNTT, Phần ba, B30 (Mục 1), tr. 86; SGK Địa lí 12 KNTT, Phần 3, B17 (Mục III), tr. 79; SGK Địa lí 12 KNTT, Phần 3, B17 (Mục II), tr. 79
 
 ### industrial crop specialization in the Southeast Region
 - **Tiếng Việt:** Chuyên canh cây công nghiệp ở Đông Nam Bộ
@@ -3302,7 +3578,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A group of crops grown as raw materials for processing industries, particularly light industry and food processing, including sugar, fiber, oil-bearing, stimulant, and latex crops. Most industrial crops favor warm and humid conditions and require suitable soils within a narrow ecological amplitude.
 - **Giải thích (VI):** Nhóm cây trồng dùng làm nguyên liệu cho các ngành công nghiệp chế biến, đặc biệt là công nghiệp nhẹ và công nghiệp thực phẩm, gồm cây lấy đường, lấy sợi, lấy dầu, cho chất kích thích và lấy nhựa. Phần lớn cây công nghiệp ưa nhiệt, ưa ẩm và đòi hỏi loại đất thích hợp với biên độ sinh thái hẹp.
 - **Bối cảnh:** Địa lí lớp 10, Bài 24 (Mục 1.c): khái niệm, đặc điểm sinh thái, phân nhóm và phân bố các cây công nghiệp chính.
-- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.c), tr. 70; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.c), tr. 71
+- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.c), tr. 70; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.c), tr. 71; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.b), tr. 69
+
+### industrial crops in Vietnam
+- **Tiếng Việt:** Cây công nghiệp ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A commercial crop group accounting for 17.9% of Vietnam's total cultivated area (in 2024), comprising annual industrial crops (peanut, soybean, sugarcane, cotton) and perennial industrial crops (coffee, rubber, tea, cashew, black pepper). Key perennial industrial crops are concentrated in major specialized farming regions across the South Central Coast and Central Highlands, the Southeast, and the Northern Midlands and Mountains.
+- **Giải thích (VI):** Nhóm cây trồng sản xuất hàng hoá chiếm 17,9% tổng diện tích gieo trồng của Việt Nam (năm 2024), bao gồm cây công nghiệp hàng năm (lạc, đậu tương, mía, bông) và cây công nghiệp lâu năm (cà phê, cao su, chè, điều, hồ tiêu). Các cây công nghiệp lâu năm chủ lực tập trung thành vùng chuyên canh lớn tại Duyên hải Nam Trung Bộ và Tây Nguyên, Đông Nam Bộ cùng Trung du và miền núi phía Bắc.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 5 (Mục 2.a): Phân biệt cơ cấu và vùng phân bố chủ yếu của cây công nghiệp hàng năm với cây công nghiệp lâu năm ở nước ta.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.a), tr. 133, 134; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.a), tr. 133
 
 ### industrial data collection and processing
 - **Tiếng Việt:** Thu thập và xử lí tài liệu về công nghiệp
@@ -3310,7 +3594,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The data preparation process for a practical industrial report, starting with drafting an outline and gathering statistics and reports from reliable domestic and international sources (such as the World Bank, OECD, Ministry of Industry and Trade, and Ministry of Planning and Investment). The collected information is subsequently analyzed, synthesized, and compared to support the research topic.
 - **Giải thích (VI):** Quy trình chuẩn bị dữ liệu cho báo cáo thực hành công nghiệp bắt đầu từ việc phác thảo đề cương và tập hợp số liệu, báo cáo từ các nguồn tin cậy trong nước và quốc tế (như Ngân hàng Thế giới, OECD, Bộ Công thương, Bộ Kế hoạch và Đầu tư). Các thông tin thu thập được sau đó được phân tích, tổng hợp và đối chiếu so sánh để phục vụ nội dung nghiên cứu.
 - **Bối cảnh:** Địa lí lớp 10, Bài 32 (Mục 2.b): hướng dẫn quy trình tìm kiếm nguồn tư liệu tin cậy và xử lí số liệu báo cáo công nghiệp.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B32 (Mục 2.b), tr. 90
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B32 (Mục 2.b), tr. 90; SGK Địa lí 10 KNTT, Phần ba, B32 (Mục 1), tr. 90; SGK Địa lí 10 KNTT, Phần ba, B32 (Mục 2.c), tr. 90
 
 ### industrial point
 - **Tiếng Việt:** Điểm công nghiệp
@@ -3320,7 +3604,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 30 (Mục 2): đặc điểm và vai trò của hình thức tổ chức lãnh thổ công nghiệp đơn giản nhất.
   - *Lưu ý:* Cấp độ thấp nhất, phân biệt với khu công nghiệp (tập trung nhiều xí nghiệp, có ranh giới riêng, không có dân cư sinh sống) và trung tâm công nghiệp (gắn với đô thị vừa và lớn).
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B30 (Mục 2), tr. 86
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B30 (Mục 2), tr. 86; SGK Địa lí 10 KNTT, Phần ba, B30, tr. 86; SGK Địa lí 10 KNTT, Phần ba, B30 (Mục 1), tr. 86
 
 ### industrial report topic
 - **Tiếng Việt:** Nội dung báo cáo tìm hiểu một vấn đề về công nghiệp
@@ -3328,7 +3612,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A set of practical research themes in industrial geography selected for writing an investigative report. These themes encompass notable achievements of an industrial branch, a successful industrial center or park, environmental impacts of an industrial activity and treatment solutions, or a future industrial field.
 - **Giải thích (VI):** Hệ thống các chủ đề nghiên cứu thực hành về địa lí công nghiệp được lựa chọn để viết báo cáo tìm hiểu. Các chủ đề bao gồm thành tựu nổi bật của một ngành công nghiệp, một trung tâm hoặc khu công nghiệp hoạt động thành công, tác động môi trường của hoạt động công nghiệp kèm hướng xử lí, hoặc một lĩnh vực công nghiệp trong tương lai.
 - **Bối cảnh:** Địa lí lớp 10, Bài 32 (Mục 1): gợi ý lựa chọn chủ đề thực hành viết báo cáo tìm hiểu về ngành công nghiệp.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B32 (Mục 1), tr. 90
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B32 (Mục 1), tr. 90; SGK Địa lí 10 KNTT, Phần ba, B32 (Mục 2.b), tr. 90; SGK Địa lí 10 KNTT, Phần ba, B32 (Mục 2.c), tr. 90
 
 ### industrial report writing and presentation
 - **Tiếng Việt:** Viết và trình bày báo cáo về công nghiệp
@@ -3336,7 +3620,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The final stage of compiling and delivering findings on an industrial issue based on a detailed outline in a concise structure covering three main parts: significance of the topic, current status and causes, and proposed solutions. The presentation integrates visual aids including images, sketch maps, diagrams, data tables, and charts for illustration.
 - **Giải thích (VI):** Bước hoàn thiện và thể hiện kết quả tìm hiểu một vấn đề công nghiệp dựa trên đề cương chi tiết với văn phong ngắn gọn, súc tích gồm ba phần chính: ý nghĩa vấn đề, hiện trạng cùng nguyên nhân, và giải pháp. Quá trình trình bày kết hợp trực quan hoá thông tin bằng hình ảnh, lược đồ, sơ đồ, bảng số liệu và biểu đồ minh hoạ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 32 (Mục 2.c): hướng dẫn cấu trúc nội dung và hình thức minh hoạ khi báo cáo thực hành công nghiệp.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B32 (Mục 2.c), tr. 90
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B32 (Mục 2.c), tr. 90; SGK Địa lí 10 KNTT, Phần ba, B32 (Mục 1), tr. 90; SGK Địa lí 10 KNTT, Phần ba, B32 (Mục 2.b), tr. 90
 
 ### industrial restructuring by ownership sector
 - **Tiếng Việt:** Chuyển dịch cơ cấu công nghiệp theo thành phần kinh tế
@@ -3344,7 +3628,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The shift in industrial production value structure across ownership sectors towards reducing the share of the state sector while expanding the non-state sector and especially the foreign-invested sector. This trend aligns with Vietnam's open-door economic policy and socialist-oriented market economy.
 - **Giải thích (VI):** Sự thay đổi cơ cấu giá trị sản xuất công nghiệp giữa các thành phần kinh tế theo hướng giảm tỉ trọng khu vực kinh tế Nhà nước, tăng tỉ trọng khu vực kinh tế ngoài Nhà nước và đặc biệt là khu vực có vốn đầu tư nước ngoài. Xu hướng này phù hợp với chính sách phát triển kinh tế mở và nền kinh tế thị trường theo định hướng xã hội chủ nghĩa.
 - **Bối cảnh:** Địa lí lớp 12, Bài 15 (Mục II): xu hướng biến đổi cơ cấu công nghiệp theo thành phần kinh tế ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B15 (Mục II), tr. 67
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B15 (Mục II), tr. 67; SGK Địa lí 12 KNTT, Phần 3, B15 (Mục I), tr. 67; SGK Địa lí 12 KNTT, Phần 3, B15 (Mục III), tr. 67, 68
 
 ### industrial sector structure
 - **Tiếng Việt:** Cơ cấu ngành công nghiệp
@@ -3352,7 +3636,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The entirety of branches and sub-sectors constituting the industrial sector along with the interrelationships among them. Based on the nature of their impact on objects of labor, the industrial sector structure comprises two main groups: extractive industry and manufacturing and processing industry.
 - **Giải thích (VI):** Tổng thể các ngành, nhóm ngành tạo nên nền công nghiệp cùng mối quan hệ tác động qua lại giữa chúng. Dựa vào tính chất tác động đến đối tượng lao động, cơ cấu ngành công nghiệp gồm hai nhóm chính là công nghiệp khai thác và công nghiệp chế biến.
 - **Bối cảnh:** Địa lí lớp 10, Bài 28 (Mục 1.c): khái niệm và tiêu chí phân chia các nhóm ngành trong sản xuất công nghiệp.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.c), tr. 80
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.c), tr. 80; SGK Địa lí 10 KNTT, Phần ba, B28, tr. 79; SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.a), tr. 79; SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.b), tr. 79
 
 ### industrial waste
 - **Tiếng Việt:** Chất thải công nghiệp
@@ -3373,7 +3657,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 12, Bài 17 (Mục I): hình thức tổ chức lãnh thổ công nghiệp phổ biến gắn với công cuộc Đổi mới và mở cửa kinh tế ở Việt Nam.
   - *Lưu ý:* Không có dân cư sinh sống và có ranh giới xác định hưởng quy chế ưu đãi riêng, phân biệt với điểm công nghiệp và trung tâm công nghiệp.
   - *Lưu ý:* Phân biệt với khu công nghệ cao (tập trung nghiên cứu, ươm tạo và sản xuất sản phẩm công nghệ cao) và trung tâm công nghiệp (khu vực tập trung công nghiệp gắn liền với đô thị lớn hoặc vừa, có thể gồm nhiều khu công nghiệp).
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B30 (Mục 2), tr. 86; SGK Địa lí 12 KNTT, Phần 3, B17, tr. 77; SGK Địa lí 12 KNTT, Phần 3, B17 (Mục I), tr. 77, 78
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B30 (Mục 2), tr. 86; SGK Địa lí 10 KNTT, Phần ba, B30, tr. 86; SGK Địa lí 10 KNTT, Phần ba, B30 (Mục 1), tr. 86; SGK Địa lí 12 KNTT, Phần 3, B17, tr. 77; SGK Địa lí 12 KNTT, Phần 3, B17 (Mục I), tr. 77, 78; SGK Địa lí 12 KNTT, Phần 3, B17 (Mục I), tr. 77
 
 ### industry
 - **Tiếng Việt:** Công nghiệp
@@ -3381,7 +3665,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A set of material production activities employing machinery and technological processes to extract natural resources or transform raw materials into finished products. Industrial production exhibits high concentration, specialization, and cooperation, consumes large quantities of raw inputs, demonstrates flexible spatial distribution, and is increasingly tied to automation and high technology.
 - **Giải thích (VI):** Tập hợp các hoạt động sản xuất vật chất sử dụng máy móc và thông qua các quá trình công nghệ để khai thác tài nguyên hoặc chế biến nguyên liệu thành sản phẩm. Sản xuất công nghiệp có mức độ tập trung hoá, chuyên môn hoá và hợp tác hoá cao, tiêu thụ lượng nguyên liệu lớn, phân bố không gian linh hoạt và ngày càng gắn với tự động hoá, công nghệ cao.
 - **Bối cảnh:** Địa lí lớp 10, Bài 28 (Mục 1.b): khái niệm và các đặc điểm cơ bản của sản xuất công nghiệp.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.b), tr. 79
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.b), tr. 79; SGK Địa lí 10 KNTT, Phần ba, B28, tr. 79; SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.a), tr. 79
 
 ### industry in the Red River Delta
 - **Tiếng Việt:** Công nghiệp ở Đồng bằng sông Hồng
@@ -3421,7 +3705,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An economic sector driving industrialization, modernization, job creation, and export earnings across Southeast Asian nations, concentrated in major industrial hubs such as Bangkok, Jakarta, and Ho Chi Minh City. Key industries include mechanical engineering, electronics and informatics (integrated into global value chains), food processing, consumer goods manufacturing, and mining (tin, petroleum, and natural gas).
 - **Giải thích (VI):** Khu vực kinh tế giữ vai trò thúc đẩy công nghiệp hoá, hiện đại hoá, tạo việc làm và tăng nguồn thu ngoại tệ cho các nước Đông Nam Á, tập trung tại các trung tâm lớn như Băng Cốc, Gia-các-ta, Thành phố Hồ Chí Minh. Cơ cấu ngành nổi bật gồm cơ khí chế tạo, điện tử – tin học (tham gia sâu vào chuỗi giá trị toàn cầu), chế biến thực phẩm, sản xuất hàng tiêu dùng và khai thác khoáng sản (thiếc, dầu mỏ, khí tự nhiên).
 - **Bối cảnh:** Địa lí lớp 11, Bài 12 (Mục II.2): Trình bày vai trò, các ngành trọng điểm và sự phân bố công nghiệp ở khu vực Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.2), tr. 57, 58
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.2), tr. 57, 58; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.2), tr. 57
 
 ### industry of Southwest Asia
 - **Tiếng Việt:** Công nghiệp khu vực Tây Nam Á
@@ -3445,7 +3729,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** One of Africa's most developed industrial sectors in the Republic of South Africa, accounting for 23.4% of GDP, employing approximately 25% of the labor force in 2020, and generating key export commodities despite a declining share in GDP. A prominent strength of the sector lies in large-scale mineral extraction, including coal, iron ore, chromium, platinum, gold, and diamonds.
 - **Giải thích (VI):** Khu vực sản xuất công nghiệp thuộc nhóm phát triển nhất châu Phi của Cộng hoà Nam Phi, đóng góp 23,4% GDP, thu hút khoảng 25% lực lượng lao động (năm 2020) và tạo ra nhiều mặt hàng xuất khẩu chủ lực dù tỉ trọng trong GDP có xu hướng giảm. Thế mạnh nổi bật của ngành gắn với khai thác khoáng sản quy mô lớn như than đá, sắt, crôm, bạch kim, vàng và kim cương.
 - **Bối cảnh:** Địa lí lớp 11, Bài 31 (Mục II.2): Vị thế, tỉ trọng đóng góp và thế mạnh khai khoáng của ngành công nghiệp Cộng hoà Nam Phi.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.2), tr. 161; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.2), tr. 163
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.2), tr. 161; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.2), tr. 163; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.1.a), tr. 161; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.1.b), tr. 161; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.1.c), tr. 161
 
 ### industry of the Russian Federation
 - **Tiếng Việt:** Công nghiệp Liên bang Nga
@@ -3477,7 +3761,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A long-established domestic waterborne transport mode operating on natural river and lake networks, increasingly modernized through waterway infrastructure upgrades, high technology, and container links to seaports. It is heavily developed in the United States, Russia, and Canada along major river and lake systems such as the Danube, Rhine, Volga, Mekong, Yangtze, Mississippi, and the Great Lakes.
 - **Giải thích (VI):** Loại hình giao thông đường thuỷ nội địa ra đời từ rất sớm dựa trên mạng lưới sông, hồ tự nhiên và ngày càng hiện đại nhờ cải tạo hạ tầng luồng tuyến, ứng dụng công nghệ cao và kết nối với cảng biển bằng công-te-nơ. Ngành này phát triển mạnh ở Hoa Kỳ, Liên bang Nga và Ca-na-đa gắn với các hệ thống sông, hồ lớn như Đa-nuýp, Rai-nơ, Von-ga, Mê Công, Dương Tử, Mi-xi-xi-pi và Ngũ Hồ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 34 (Mục 3.e): trình bày xu hướng hiện đại hoá và phân bố các mạng lưới giao thông đường thuỷ nội địa lớn.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.e), tr. 97
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.e), tr. 97; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.d), tr. 97
 
 ### institutional framework of the European Union
 - **Tiếng Việt:** Thể chế hoạt động của Liên minh châu Âu
@@ -3485,7 +3769,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The organizational system and operating mechanism of the European Union centered on four main institutional bodies established under the Maastricht Treaty: the European Council, the European Parliament, the European Commission, and the Council of the European Union. This framework operates democratically, transparently, and cohesively, requiring member states' national constitutions to align with the EU constitution and enabling the EU to act internationally as a single state.
 - **Giải thích (VI):** Hệ thống tổ chức và cơ chế vận hành của Liên minh châu Âu dựa trên bốn cơ quan thể chế chính theo Hiệp ước Ma-xtrích gồm Hội đồng châu Âu, Nghị viện châu Âu, Uỷ ban châu Âu và Hội đồng Liên minh châu Âu. Thể chế này hoạt động theo hướng dân chủ, minh bạch và gắn kết chặt chẽ, trong đó hiến pháp riêng của các nước thành viên phải phù hợp với hiến pháp chung và EU có thể giao dịch quốc tế với tư cách một quốc gia.
 - **Bối cảnh:** Địa lí lớp 11, Bài 9 (Mục I.3): Trình bày cơ cấu tổ chức và nguyên tắc vận hành của bộ máy thể chế Liên minh châu Âu.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39, 40
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39, 40; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.2), tr. 39; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 39
+
+### integrated development of marine and island economy
+- **Tiếng Việt:** Phát triển tổng hợp kinh tế biển, đảo
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Coordinated development of multiple marine economic sectors—including coastal and island tourism, maritime transport, marine mineral extraction, and marine fisheries and aquaculture—to achieve high economic efficiency. This approach promotes rational resource use, environmental protection for sustainable development, and the safeguarding of Vietnam's sovereignty, rights, and legitimate interests in the East Sea.
+- **Giải thích (VI):** Phương thức phát triển đồng bộ nhiều ngành kinh tế biển như du lịch biển đảo, giao thông vận tải biển, khai thác khoáng sản biển và khai thác, nuôi trồng hải sản nhằm đạt hiệu quả kinh tế cao. Phương thức này góp phần khai thác hợp lí tài nguyên, bảo vệ môi trường hướng tới phát triển bền vững và giữ vững chủ quyền, các quyền, lợi ích hợp pháp của Việt Nam ở Biển Đông.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 21 (Mục 2, 3): Chiến lược khai thác đa ngành không gian biển, đảo gắn kết kinh tế với sinh thái và quốc phòng, an ninh.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B21 (Mục 1), tr. 216; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B21 (Mục 2), tr. 216; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B21 (Mục 2), tr. 216, 217
 
 ### integrated marine economic development
 - **Tiếng Việt:** Phát triển tổng hợp các ngành kinh tế biển
@@ -3519,13 +3811,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 3): phương thức quản lí, bảo vệ và sử dụng đa mục đích nguồn nước sông, hồ ở Bắc Mỹ.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 148
 
+### inter-regional connectivity
+- **Tiếng Việt:** Kết nối liên vùng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Process of strengthening linkages among socio-economic regions with distinct strengths and constraints so they mutually support comprehensive economic, political, cultural, and social development. It enables market expansion, access to resources and raw materials, attraction of labor and science-technology, and shared growth across regions.
+- **Giải thích (VI):** Quá trình tăng cường mối liên hệ giữa các vùng kinh tế – xã hội có thế mạnh và hạn chế riêng nhằm hỗ trợ lẫn nhau phát triển toàn diện về kinh tế, chính trị, văn hoá và xã hội. Hoạt động này giúp mở rộng thị trường, tiếp cận nguồn tài nguyên – nguyên liệu, thu hút lao động cùng khoa học – công nghệ và thúc đẩy các vùng cùng phát triển.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 18 (Mục 3, 4): Cơ sở phân tích ý nghĩa của liên kết không gian kinh tế giữa vùng Đông Nam Bộ với các vùng lân cận và cả nước.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B18 (Mục 1), tr. 204; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B18 (Mục 2), tr. 204; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B18 (Mục 3), tr. 204
+
 ### internal development resources
 - **Tiếng Việt:** Nguồn lực bên trong lãnh thổ (nguồn lực trong nước)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The group of economic development resources originating within a country or territory, encompassing its geographical location, natural resources (land, water, climate, biota, minerals, seas), and domestic socioeconomic resources (labor, domestic capital, markets, historical-cultural heritage, and policies). These internal resources play the decisive role in the economic development of a territory.
 - **Giải thích (VI):** Nhóm nguồn lực phát triển kinh tế sẵn có trong phạm vi một quốc gia hoặc vùng lãnh thổ, bao gồm vị trí địa lí, các nguồn lực tự nhiên (đất, nước, khí hậu, sinh vật, khoáng sản, biển) và nguồn lực kinh tế – xã hội nội tại (lao động, vốn trong nước, thị trường, lịch sử – văn hoá, chính sách). Nhóm nguồn lực này giữ vai trò quyết định đối với sự phát triển kinh tế của lãnh thổ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 21 (Mục 2): Phân loại nguồn lực phát triển kinh tế theo phạm vi bên trong lãnh thổ.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B21 (Mục 2), tr. 63
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B21 (Mục 2), tr. 63; SGK Địa lí 10 KNTT, Phần ba, B21, tr. 63; SGK Địa lí 10 KNTT, Phần ba, B21 (Mục 1), tr. 63
 
 ### internal factors affecting industry
 - **Tiếng Việt:** Các nhân tố bên trong ảnh hưởng tới công nghiệp
@@ -3533,7 +3833,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The set of domestic territorial conditions influencing industry, including geographical location (shaping spatial distribution and external accessibility), natural conditions and resources (directly affecting industrial structure and location), and socio-economic conditions. Among these, socio-economic factors (population and labor, science and technology, capital, markets, and policies) play the decisive role.
 - **Giải thích (VI):** Tập hợp các điều kiện nội tại của lãnh thổ tác động tới công nghiệp, gồm vị trí địa lí (quy định sự phân bố và khả năng tiếp cận bên ngoài), điều kiện tự nhiên – tài nguyên thiên nhiên (ảnh hưởng trực tiếp tới cơ cấu, phân bố ngành) và điều kiện kinh tế – xã hội. Trong đó, nhóm nhân tố kinh tế – xã hội (dân cư và lao động, khoa học – công nghệ, vốn, thị trường, chính sách) giữ vai trò quyết định.
 - **Bối cảnh:** Địa lí lớp 10, Bài 28 (Mục 2.a): vai trò của vị trí địa lí, tự nhiên và kinh tế – xã hội bên trong lãnh thổ đối với công nghiệp.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 2.a), tr. 80
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 2.a), tr. 80; SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.c), tr. 80; SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 2.b), tr. 80
 
 ### internal structure of the Earth
 - **Tiếng Việt:** Cấu tạo bên trong của Trái Đất
@@ -3583,7 +3883,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1.b): tôn giáo lớn khởi nguồn tại Tây Á và phổ biến rộng rãi ở nhiều khu vực trên thế giới.
   - Lịch sử lớp 10, Bài 5 (Mục II.2.b): Ảnh hưởng của tôn giáo đối với các công trình kiến trúc thánh đường, cung điện ở Ấn Độ thời trung đại.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 116; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 42; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 116; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 2), tr. 116, 117; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 42; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143
 
 ### island
 - **Tiếng Việt:** Đảo
@@ -3609,6 +3909,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 1): bốn khu vực quần đảo trên Thái Bình Dương hợp cùng lục địa Ô-xtrây-li-a tạo nên châu Đại Dương.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 1), tr. 157; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.a), tr. 157; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B18 (Mục 2.a), tr. 157, 158
 
+### island special administrative unit
+- **Tiếng Việt:** Đặc khu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Commune-level administrative unit established on strategically important islands and archipelagos of Vietnam in accordance with geographical, natural, and demographic conditions as well as socio-economic development and national defense-security requirements. Since 2025, Vietnam has organized 13 island special units, including Co To, Van Don, Bach Long Vi, Hoang Sa, Truong Sa, Con Dao, and Phu Quoc.
+- **Giải thích (VI):** Đơn vị hành chính cấp xã tại một số đảo và quần đảo có vị trí quan trọng của Việt Nam, thiết lập phù hợp với điều kiện địa lí, tự nhiên, dân cư cùng yêu cầu phát triển kinh tế – xã hội và bảo đảm quốc phòng, an ninh. Từ năm 2025, Việt Nam tổ chức 13 đặc khu hải đảo như Cô Tô, Vân Đồn, Bạch Long Vĩ, Hoàng Sa, Trường Sa, Côn Đảo và Phú Quốc.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 9, Bài 21 (Mục 1): Mô hình tổ chức hành chính cấp xã tại các đảo và quần đảo của Việt Nam sau sắp xếp đơn vị hành chính năm 2025.
+  - *Lưu ý:* Trong hệ thống hành chính Việt Nam từ năm 2025, đặc khu là đơn vị hành chính cấp xã tại các hải đảo, quần đảo có vị trí quan trọng, phân biệt với đặc khu hành chính lãnh thổ hoặc đặc khu kinh tế trên thế giới.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B21 (Mục 1), tr. 216
+
 ### island, archipelago, and island-district system of Vietnam
 - **Tiếng Việt:** Hệ thống đảo, quần đảo và huyện đảo của Việt Nam
 - **Chuyên ngành gốc:** Địa lí
@@ -3623,7 +3933,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A narrow strip of land separating two seas or oceans while connecting two larger landmasses or continents.
 - **Giải thích (VI):** Dạng địa hình dải đất hẹp nằm phân cách hai vùng biển hoặc đại dương, đồng thời nối liền hai vùng đất rộng lớn hay hai lục địa với nhau.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 1): khái niệm địa hình áp dụng cho eo đất hẹp Trung Mỹ nối lục địa Bắc Mỹ với lục địa Nam Mỹ.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 1), tr. 139; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 1), tr. 139; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178
 
 ### Japan's foreign direct investment
 - **Tiếng Việt:** Đầu tư trực tiếp nước ngoài của Nhật Bản
@@ -3681,7 +3991,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Four marine zones with abundant marine biological resources designated as focal areas for marine capture fisheries in Vietnam: Hai Phong – Quang Ninh, Hoang Sa Archipelago – Truong Sa Archipelago, Ninh Thuan – Binh Thuan – Ba Ria – Vung Tau, and Ca Mau – Kien Giang. These fishing grounds lie within national waters holding an estimated total marine stock of 4 million tonnes, allowing a sustainable annual yield of about 1.5 million tonnes.
 - **Giải thích (VI):** Bốn vùng biển tập trung nguồn lợi hải sản phong phú được xác định làm trọng tâm khai thác hải sản của Việt Nam, bao gồm: Hải Phòng – Quảng Ninh, quần đảo Hoàng Sa – quần đảo Trường Sa, Ninh Thuận – Bình Thuận – Bà Rịa – Vũng Tàu và Cà Mau – Kiên Giang. Các ngư trường này nằm trong vùng biển có tổng trữ lượng hải sản khoảng 4 triệu tấn, cho phép khai thác bền vững khoảng 1,5 triệu tấn mỗi năm.
 - **Bối cảnh:** Địa lí lớp 12, Bài 12 (Mục II.1.a): thế mạnh tự nhiên về nguồn lợi hải sản phục vụ phát triển ngành thuỷ sản Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B12 (Mục II.1.a), tr. 60; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục II.2), tr. 60, 61
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B12 (Mục II.1.a), tr. 60; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục II.2), tr. 60, 61; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục II.1.b), tr. 60
 
 ### knowledge-based economy
 - **Tiếng Việt:** Kinh tế tri thức
@@ -3738,6 +4048,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tỉ trọng lực lượng lao động đang làm việc phân theo các khu vực ngành kinh tế. Ở Việt Nam, cơ cấu này chuyển dịch theo hướng công nghiệp hoá, hiện đại hoá: giảm tỉ lệ lao động trong khu vực nông nghiệp, lâm nghiệp và thuỷ sản; tăng tỉ lệ lao động trong khu vực công nghiệp và xây dựng, dịch vụ.
 - **Bối cảnh:** Địa lí lớp 12, Bài 7 (Mục II.1): Phân tích xu hướng chuyển dịch cơ cấu lao động theo ngành kinh tế ở Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 2, B7 (Mục I.3), tr. 38; SGK Địa lí 12 KNTT, Phần 2, B7 (Mục II.1), tr. 38; SGK Địa lí 12 KNTT, Phần 2, B7 (Mục II.2), tr. 38
+
+### labour force of Vietnam
+- **Tiếng Việt:** Nguồn lao động Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Vietnam's abundant labour supply (accounting for 52.2% of the total population in 2024), noted for diligence, creativity, production and service experience, and steadily improving technical qualifications and science-technology application (with trained workers reaching 28.4%). Nevertheless, the workforce is experiencing a shrinking youth cohort alongside a rising share aged 50 and older, and still faces limitations in physical stamina and specialized skills.
+- **Giải thích (VI):** Lực lượng lao động dồi dào của Việt Nam (chiếm 52,2% tổng số dân năm 2024), nổi bật với phẩm chất chăm chỉ, sáng tạo, giàu kinh nghiệm sản xuất – dịch vụ cùng trình độ chuyên môn kĩ thuật và khả năng ứng dụng khoa học – công nghệ ngày càng tăng (tỉ lệ qua đào tạo đạt 28,4%). Tuy nhiên, nguồn lao động nước ta đang có xu hướng giảm nhóm tuổi trẻ, tăng nhóm từ 50 tuổi trở lên và còn hạn chế về thể lực, kĩ năng chuyên sâu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 3 (Mục 1.a): Đánh giá thế mạnh và hạn chế về số lượng, chất lượng của nguồn lao động nước ta hiện nay.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1.a), tr. 123, 124; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B3, tr. 123; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1.a), tr. 123
+
+### labour structure by economic ownership in Vietnam
+- **Tiếng Việt:** Cơ cấu lao động theo thành phần kinh tế ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The distribution of employed workers across Vietnam's state, non-state, and foreign-invested sectors, evolving in line with an open, multi-sector economy. The non-state sector consistently accounts for the largest share (81.9% in 2024) while the foreign-invested sector has grown rapidly (to 10.4%), reflecting strong job creation by private enterprises and international investment integration.
+- **Giải thích (VI):** Sự phân bố lực lượng lao động có việc làm giữa khu vực kinh tế Nhà nước, kinh tế ngoài Nhà nước và khu vực có vốn đầu tư nước ngoài ở Việt Nam, chuyển dịch phù hợp với đường lối phát triển nền kinh tế mở, nhiều thành phần. Trong đó, kinh tế ngoài Nhà nước luôn chiếm tỉ trọng lớn nhất (81,9% năm 2024) và khu vực có vốn đầu tư nước ngoài tăng nhanh (lên 10,4%), phản ánh năng lực tạo việc làm của doanh nghiệp tư nhân và hội nhập đầu tư quốc tế.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 3 (Mục 1.b): Nhận xét sự chuyển dịch sử dụng lao động theo thành phần kinh tế ở nước ta giai đoạn 2010 – 2024.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1.b), tr. 124, 125; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1.a), tr. 124; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1.b), tr. 124
+
+### labour structure by economic sector in Vietnam
+- **Tiếng Việt:** Cơ cấu lao động theo ngành kinh tế ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The distribution of employed workers across Vietnam's economic sectors, rapidly shifting toward industrialization, modernization, and higher labour productivity. This transition is marked by a declining share of labour in agriculture, forestry, and fisheries alongside an expanding share in higher-skill, higher-value industry-construction and service sectors.
+- **Giải thích (VI):** Sự phân bố lực lượng lao động có việc làm giữa các nhóm ngành kinh tế của Việt Nam, đang chuyển dịch nhanh theo hướng công nghiệp hoá, hiện đại hoá và nâng cao năng suất lao động. Quá trình này thể hiện qua xu hướng giảm tỉ trọng lao động nông nghiệp, lâm nghiệp, thuỷ sản và tăng tỉ trọng lao động trong các ngành công nghiệp – xây dựng, dịch vụ có trình độ và giá trị kinh tế cao.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 3 (Mục 1.b): Phân tích xu hướng chuyển dịch sử dụng lao động theo ngành kinh tế ở Việt Nam giai đoạn 2010 – 2024.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1.b), tr. 124, 125; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1.a), tr. 124; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1.b), tr. 124
 
 ### lake
 - **Tiếng Việt:** Hồ
@@ -3858,7 +4192,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The systematic vertical variation of natural components and geographical landscapes according to topographic elevation in mountainous regions. Driven by decreasing temperature with altitude alongside changes in precipitation and humidity, it is characteristically expressed through distinct vertical belts of climate, soil, and vegetation from mountain base to summit.
 - **Giải thích (VI):** Sự thay đổi có quy luật của các thành phần tự nhiên và các cảnh quan địa lí theo độ cao của địa hình miền núi. Nguyên nhân là sự giảm nhiệt độ theo độ cao đi kèm biến đổi về lượng mưa và độ ẩm, biểu hiện điển hình qua sự phân tầng các vành đai khí hậu, đất và thảm thực vật từ chân núi lên đỉnh núi.
 - **Bối cảnh:** Địa lí lớp 10, Bài 18 (Mục 2.b): Giải thích khái niệm, nguyên nhân và biểu hiện của quy luật đai cao ở vùng núi.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 2.b), tr. 54
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 2.b), tr. 54; SGK Địa lí 10 KNTT, Phần hai, B18, tr. 53; SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 1.a), tr. 53; SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 1.b), tr. 53
 
 ### law of azonality
 - **Tiếng Việt:** Quy luật phi địa đới
@@ -3866,7 +4200,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The geographical law governing the distribution of natural components and landscapes independently of the latitudinal distribution of solar radiation. Driven by the division of Earth's surface into continents and oceans as well as topographic elevation causing uneven heat and moisture patterns, it is most clearly expressed through longitudinal sectorality and altitudinal zonality.
 - **Giải thích (VI):** Quy luật phân bố của các thành phần địa lí và các cảnh quan tự nhiên không phụ thuộc vào tính chất phân bố theo đới của bức xạ mặt trời. Quy luật này bắt nguồn từ sự phân chia bề mặt Trái Đất thành lục địa, đại dương và độ cao địa hình làm phân bố nhiệt ẩm không đồng đều, thể hiện rõ nhất qua sự phân hoá địa ô và sự hình thành các đai cao.
 - **Bối cảnh:** Địa lí lớp 10, Bài 18 (Mục 2.a, 2.b): Định nghĩa, giải thích nguyên nhân và nêu biểu hiện khái quát của quy luật phi địa đới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 2.a), tr. 54; SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 2.b), tr. 54
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 2.a), tr. 54; SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 2.b), tr. 54; SGK Địa lí 10 KNTT, Phần hai, B18, tr. 53; SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 1.a), tr. 53; SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 1.b), tr. 53
 
 ### law of latitudinal zonality
 - **Tiếng Việt:** Quy luật địa đới
@@ -3874,7 +4208,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The systematic variation of all geographical components and natural landscapes by latitude from the Equator toward the two poles. Its primary cause is the Earth's spherical shape, which reduces the angle of solar incidence and incoming solar radiation with increasing latitude, driving zonal differentiation across natural systems.
 - **Giải thích (VI):** Sự thay đổi có quy luật của tất cả các thành phần địa lí và các cảnh quan tự nhiên theo vĩ độ từ Xích đạo về hai cực. Nguyên nhân cơ bản là dạng khối cầu của Trái Đất làm góc nhập xạ và lượng bức xạ mặt trời giảm dần từ Xích đạo về cực, kéo theo sự phân hoá theo đới của các thành phần tự nhiên.
 - **Bối cảnh:** Địa lí lớp 10, Bài 18 (Mục 1.a): Định nghĩa và giải thích nguyên nhân hình thành quy luật địa đới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B18, tr. 53; SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 1.a), tr. 53
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B18, tr. 53; SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 1.a), tr. 53; SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 1.b), tr. 53
 
 ### law of longitudinal sectorality
 - **Tiếng Việt:** Quy luật địa ô
@@ -3882,7 +4216,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The longitudinal differentiation of natural components extending from oceanic coasts toward continental interiors. Caused by diminishing maritime influence and decreasing moisture inland alongside meridian-trending mountain ranges, it is most clearly manifested in the longitudinal transition of vegetation types.
 - **Giải thích (VI):** Sự phân hoá theo kinh độ của các thành phần tự nhiên từ vùng ven đại dương vào sâu trong trung tâm lục địa. Nguyên nhân là ảnh hưởng của biển giảm dần vào sâu trong đất liền làm độ ẩm giảm kết hợp với tác động chắn gió của các dãy núi chạy theo hướng kinh tuyến, biểu hiện rõ nhất qua sự thay đổi các kiểu thảm thực vật theo kinh độ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 18 (Mục 2.b): Giải thích khái niệm, nguyên nhân và biểu hiện của quy luật địa ô.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 2.b), tr. 54
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 2.b), tr. 54; SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 2.a), tr. 54; SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 2.c), tr. 54
 
 ### law of unity and integrity of the geographic envelope
 - **Tiếng Việt:** Quy luật thống nhất và hoàn chỉnh của vỏ địa lí
@@ -3890,7 +4224,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A physical geographical law describing the mutual interdependence among natural components and territorial units within the geographic envelope. It arises because none of the envelope's components exist or develop in isolation, instead continuously interacting and exchanging matter and energy with one another.
 - **Giải thích (VI):** Quy luật tự nhiên phản ánh mối quan hệ quy định và phụ thuộc lẫn nhau giữa các thành phần tự nhiên cũng như giữa các bộ phận lãnh thổ trong vỏ địa lí. Quy luật này bắt nguồn từ việc mọi thành phần của vỏ địa lí không tồn tại độc lập mà luôn tác động qua lại, thường xuyên trao đổi vật chất và năng lượng với nhau.
 - **Bối cảnh:** Địa lí lớp 10, Bài 17 (Mục 2.a): Định nghĩa và giải thích nguyên nhân của quy luật thống nhất và hoàn chỉnh của vỏ địa lí.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 2.a), tr. 52
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 2.a), tr. 52; SGK Địa lí 10 KNTT, Phần hai, B17, tr. 51; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 1.a), tr. 51; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 1.b), tr. 51
 
 ### leap year
 - **Tiếng Việt:** Năm nhuận
@@ -3914,15 +4248,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A major branch of agriculture specializing in raising domesticated animals to supply highly nutritious food for humans, raw materials for food and consumer goods industries, and valuable export commodities. This sector stimulates crop production, contributes to GDP, and serves as a vital link in sustainable agriculture.
 - **Giải thích (VI):** Ngành sản xuất chính trong nông nghiệp chuyên nuôi dưỡng các loài vật nuôi nhằm cung cấp thực phẩm dinh dưỡng cao cho con người, nguyên liệu cho công nghiệp thực phẩm và hàng tiêu dùng, cùng các mặt hàng xuất khẩu có giá trị. Ngành này thúc đẩy trồng trọt phát triển, đóng góp vào GDP và là mắt xích quan trọng của nền nông nghiệp bền vững.
 - **Bối cảnh:** Địa lí lớp 10, Bài 24 (Mục 2.a): vai trò kinh tế và mối liên kết của ngành chăn nuôi trong sản xuất nông nghiệp.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 2.a), tr. 71
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 2.a), tr. 71; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.c), tr. 71; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 2.b), tr. 72
 
 ### livestock production in Vietnam
 - **Tiếng Việt:** Ngành chăn nuôi ở Việt Nam
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** An agricultural subsector in Vietnam with steadily rising output value and share (34.7% of agricultural production value in 2021), raising key livestock including pigs, poultry, cattle, and buffaloes. It is developing through advanced-technology farm models, organic husbandry, disease-free zones, and deep processing linked to industrial markets.
 - **Giải thích (VI):** Ngành sản xuất nông nghiệp có giá trị sản xuất và tỉ trọng ngày càng tăng ở Việt Nam (chiếm 34,7% giá trị sản xuất nông nghiệp năm 2021), với các vật nuôi chính là lợn, gia cầm, bò và trâu. Ngành đang phát triển theo mô hình trang trại ứng dụng công nghệ tiên tiến, chăn nuôi hữu cơ, xây dựng vùng nuôi an toàn dịch bệnh và chế biến sâu gắn với thị trường công nghiệp.
-- **Bối cảnh:** Địa lí lớp 12, Bài 11 (Mục III.2): hiện trạng phát triển và phân bố chăn nuôi gia súc, gia cầm ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B11 (Mục III.2), tr. 55, 56
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: An agricultural subsector accounting for 30.6% of Vietnam's agricultural gross output (in 2024) with an upward share trend, focusing on key livestock including buffaloes, cattle, pigs, and poultry. Production is increasingly organized at concentrated industrial scales using high technology, prioritizing sustainable organic farming, food safety standards, processing, and market linkage. / VI: Ngành sản xuất chiếm 30,6% giá trị sản xuất nông nghiệp Việt Nam (năm 2024) và đang có xu hướng tăng tỉ trọng, tập trung vào các vật nuôi chính gồm trâu, bò, lợn và gia cầm. Ngành phát triển mạnh theo quy mô công nghiệp tập trung ứng dụng công nghệ cao, ưu tiên hướng hữu cơ bền vững, đảm bảo an toàn thực phẩm gắn với chế biến và tiêu thụ sản phẩm.
+- **Bối cảnh:**
+  - Địa lí lớp 12, Bài 11 (Mục III.2): hiện trạng phát triển và phân bố chăn nuôi gia súc, gia cầm ở Việt Nam.
+  - Lịch sử và Địa lí lớp 9, Bài 5 (Mục 2.b): Phân tích xu hướng hiện đại hoá và phát triển bền vững của ngành chăn nuôi trong cơ cấu nông nghiệp nước ta.
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B11 (Mục III.2), tr. 55, 56; SGK Địa lí 12 KNTT, Phần 3, B11 (Mục III.2), tr. 55; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.b), tr. 134, 135; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.a), tr. 134; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.b), tr. 134
 
 ### local geographic coordinate system
 - **Tiếng Việt:** Hệ toạ độ địa lí
@@ -3959,8 +4296,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A service activity that provides and transports goods in the most optimal way from places of production to consumers.
 - **Giải thích (VI):** Hoạt động dịch vụ cung cấp và vận chuyển hàng hoá tối ưu nhất từ nơi sản xuất đến tay người tiêu dùng.
-- **Bối cảnh:** Địa lí lớp 12, Bài 10 (Mục II.2.a): ngành dịch vụ hiện đại gắn với chuyển đổi số, kết nối giao thông vận tải và lưu thông hàng hoá ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.2.a), tr. 47
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: Commercial activity in which a trader organizes and performs one or more stages—such as receiving goods, transport, warehousing, customs clearance, packaging, labeling, and delivery—under agreement with clients for remuneration. / VI: Hoạt động thương mại trong đó thương nhân tổ chức thực hiện một hoặc nhiều công đoạn như nhận hàng, vận chuyển, lưu kho bãi, làm thủ tục hải quan, đóng gói, ghi kí mã hiệu và giao hàng theo thoả thuận với khách hàng để hưởng thù lao.
+- **Bối cảnh:**
+  - Địa lí lớp 12, Bài 10 (Mục II.2.a): ngành dịch vụ hiện đại gắn với chuyển đổi số, kết nối giao thông vận tải và lưu thông hàng hoá ở Việt Nam.
+  - Lịch sử và Địa lí lớp 9, Bài 10 (Mục 2): Dịch vụ chuỗi cung ứng hiện đại liên kết chặt chẽ giữa giao thông vận tải, bưu chính và thương mại.
+- **Nguồn:** SGK Địa lí 12 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.2.a), tr. 47; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B10 (Mục 2.b), tr. 156
 
 ### longitude
 - **Tiếng Việt:** Kinh độ
@@ -3988,7 +4328,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The largest island in Africa and fourth largest in the world (after Greenland, New Guinea, and Kalimantan), covering nearly 590,000 km² in the Indian Ocean off southeastern Africa, formed from an ancient cratonic fragment that separated from the African mainland around 250 million years ago.
 - **Giải thích (VI):** Hòn đảo lớn nhất châu Phi và đứng thứ tư thế giới (sau các đảo Grơn-len, Niu Ghi-nê, Ca-li-man-tan) với diện tích gần 590 000 km² nằm ở Ấn Độ Dương phía đông nam châu Phi, hình thành từ một mảnh nền cổ tách khỏi lục địa Phi khoảng 250 triệu năm trước.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 1): đảo lớn tiêu biểu ven lục địa trong bối cảnh đường bờ biển châu Phi ít bị chia cắt.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 1), tr. 127; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 1), tr. 127, 128
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 1), tr. 127; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 1), tr. 127, 128; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9, tr. 127
 
 ### magma
 - **Tiếng Việt:** Macma (Mac-ma)
@@ -4026,7 +4366,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A group of Asian countries distinguished by large gross domestic product scale or dynamic economic growth rates, represented by typical examples such as China, Japan, South Korea, and Singapore.
 - **Giải thích (VI):** Nhóm các quốc gia tiêu biểu về quy mô tổng sản phẩm trong nước lớn hoặc tốc độ phát triển kinh tế năng động hàng đầu ở châu Á, bao gồm các đại diện điển hình như Trung Quốc, Nhật Bản, Hàn Quốc và Xin-ga-po.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 8 (Mục 1.a): các quốc gia tiêu biểu được lựa chọn để sưu tầm tư liệu và viết báo cáo thực hành về kinh tế châu Á.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B8 (Mục 1.a), tr. 126
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B8 (Mục 1.a), tr. 126; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B8 (Mục 1.b), tr. 126; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B8 (Mục 1.c), tr. 126
 
 ### major soil groups on Earth
 - **Tiếng Việt:** Các nhóm đất chính trên Trái Đất
@@ -4034,7 +4374,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The spatial classification of major soil zones and groups distributed across Earth's landmasses from the poles to the Equator and along alluvial plains. On world soil maps, these units comprise perennial ice-covered areas, tundra soils, podzols, brown and grey temperate broadleaf forest soils, temperate steppe black earths, reddish-brown sclerophyllous forest and shrub soils, humid subtropical red-yellow soils, grey desert and semi-desert soils, red and reddish-brown savanna soils, tropical red-yellow soils, and alluvial soils.
 - **Giải thích (VI):** Hệ thống phân loại không gian các đới và nhóm đất tiêu biểu phân bố trên bề mặt lục địa Trái Đất từ cực về Xích đạo và dọc các châu thổ. Trên bản đồ thế giới, các đơn vị chính gồm vùng đất băng tuyết phủ quanh năm, đất đài nguyên, đất pốt dôn, đất nâu và xám rừng lá rộng ôn đới, đất đen thảo nguyên ôn đới, đất đỏ nâu rừng và cây bụi lá cứng, đất đỏ vàng cận nhiệt ẩm, đất xám hoang mạc và bán hoang mạc, đất đỏ và nâu đỏ xa van, đất đỏ vàng nhiệt đới cùng đất phù sa.
 - **Bối cảnh:** Địa lí lớp 10, Bài 16 (Mục 1): Thực hành đọc bản đồ thế giới để nhận diện và xác định phạm vi phân bố các nhóm đất chính.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B16 (Mục 1), tr. 49
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B16 (Mục 1), tr. 49; SGK Địa lí 10 KNTT, Phần hai, B16 (Mục 2), tr. 49; SGK Địa lí 10 KNTT, Phần hai, B16 (Mục 2), tr. 49, 50
 
 ### major vegetation types on Earth
 - **Tiếng Việt:** Các kiểu thảm thực vật chính trên Trái Đất
@@ -4042,7 +4382,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The set of major vegetation zones and plant community types distributed across Earth by latitude from the poles to the Equator and by mountain elevation. The primary types include polar desert, tundra, coniferous forest, broadleaf and mixed forest, humid subtropical forest, sclerophyllous forest and shrubland, temperate steppe, desert and semi-desert, savanna and open woodland, tropical forest, and alpine vegetation.
 - **Giải thích (VI):** Tập hợp các đới và kiểu quần xã thực vật tiêu biểu phân bố trên Trái Đất theo vĩ độ từ cực về Xích đạo và theo đai cao vùng núi. Các kiểu chính gồm hoang mạc cực, đài nguyên, rừng lá kim, rừng lá rộng và hỗn hợp, rừng cận nhiệt ẩm, rừng và cây bụi lá cứng, thảo nguyên ôn đới, hoang mạc và bán hoang mạc, xa van và rừng thưa, rừng nhiệt đới cùng thực vật núi cao.
 - **Bối cảnh:** Địa lí lớp 10, Bài 16 (Mục 2): Thực hành đọc bản đồ để xác định tên gọi và phạm vi phân bố các kiểu thảm thực vật chính.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B16 (Mục 2), tr. 49; SGK Địa lí 10 KNTT, Phần hai, B16 (Mục 2), tr. 49, 50
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B16 (Mục 2), tr. 49; SGK Địa lí 10 KNTT, Phần hai, B16 (Mục 2), tr. 49, 50; SGK Địa lí 10 KNTT, Phần hai, B16 (Mục 1), tr. 49
 
 ### major water cycle
 - **Tiếng Việt:** Vòng tuần hoàn lớn của nước
@@ -4058,7 +4398,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The insular portion of Southeast Asia, featuring predominantly hilly and mountainous terrain, scarce plains, and a hot, humid equatorial climate year-round. It is heavily affected by earthquakes, tsunamis, and active volcanism (with Indonesia alone having around 150 active volcanoes).
 - **Giải thích (VI):** Bộ phận hải đảo của khu vực Đông Nam Á, có địa hình chủ yếu là đồi núi, ít đồng bằng và mang khí hậu xích đạo nóng ẩm quanh năm. Khu vực này chịu tác động mạnh của động đất, sóng thần và núi lửa hoạt động (riêng In-đô-nê-xi-a có khoảng 150 núi lửa đang hoạt động).
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 2.g): bộ phận hải đảo của khu vực Đông Nam Á nằm trong vành đai lửa và đới khí hậu xích đạo.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124, 125
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124, 125; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.e), tr. 124
 
 ### manifestations of economic globalization
 - **Tiếng Việt:** Biểu hiện của toàn cầu hoá kinh tế
@@ -4090,7 +4430,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The latitudinal arrangement of natural components across the Earth's surface from the Equator to the poles. Its main manifestations include the formation of thermal belts (torrid, temperate, and frigid), alternating high- and low-pressure belts symmetrical across the equatorial low alongside major planetary wind belts, seven climate zones, and corresponding soil and vegetation zones.
 - **Giải thích (VI):** Hệ thống phân bố theo vĩ độ từ Xích đạo về hai cực của các thành phần tự nhiên trên bề mặt Trái Đất. Các biểu hiện chủ yếu gồm sự hình thành ba loại vòng đai nhiệt (nóng, ôn hoà, lạnh), các đai khí áp cao – thấp xen kẽ đối xứng qua áp thấp xích đạo cùng các đới gió chính, bảy đới khí hậu và các đới đất, đới thực vật tương ứng.
 - **Bối cảnh:** Địa lí lớp 10, Bài 18 (Mục 1.b): Trình bày các biểu hiện chủ yếu của quy luật địa đới qua nhiệt, khí áp, gió, khí hậu, đất và sinh vật.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 1.b), tr. 53
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 1.b), tr. 53; SGK Địa lí 10 KNTT, Phần hai, B18, tr. 53; SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 1.a), tr. 53
 
 ### manifestations of the law of unity and integrity
 - **Tiếng Việt:** Biểu hiện của quy luật thống nhất và hoàn chỉnh của vỏ địa lí
@@ -4098,7 +4438,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The chain-reaction dynamics observed across any territory within the geographic envelope, whereby a change in a single natural component inevitably triggers alterations in all remaining components and the entire landscape. For instance, when the cold Peru Current weakens and warm equatorial waters advance southward, the hyper-arid Atacama Desert experiences heavy rainfalls, flowing streams, and blooming vegetation before reverting to aridity.
 - **Giải thích (VI):** Trạng thái tác động dây chuyền trong bất kì lãnh thổ nào của vỏ địa lí, khi sự biến đổi của một thành phần tự nhiên tất yếu kéo theo sự thay đổi của các thành phần còn lại và toàn bộ cảnh quan lãnh thổ. Chẳng hạn khi dòng biển lạnh Pê-ru suy yếu và dòng biển nóng tiến xuống phía nam, hoang mạc khô cằn A-ta-ca-ma xuất hiện mưa rào, dòng chảy và thảm thực vật phát triển mạnh trước khi khô hạn trở lại.
 - **Bối cảnh:** Địa lí lớp 10, Bài 17 (Mục 2.b): Phân tích các biểu hiện thực tế của quy luật thống nhất và hoàn chỉnh trong tự nhiên.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 2), tr. 52; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 2.b), tr. 52
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 2), tr. 52; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 2.b), tr. 52; SGK Địa lí 10 KNTT, Phần hai, B17, tr. 51; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 1.a), tr. 51; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 1.b), tr. 51
 
 ### mantle
 - **Tiếng Việt:** Man-ti (lớp man-ti; manti)
@@ -4116,7 +4456,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A high-tech manufacturing industry emerging later than traditional industries yet growing rapidly with a diverse product structure including electronic components, computers, mobile phones, and household electrical appliances. In Vietnam, it is concentrated in localities with advantages in skilled labor, infrastructure, and foreign investment attraction such as Hanoi, Bac Ninh, Thai Nguyen, Bac Giang, Hai Phong, Ho Chi Minh City, Binh Duong, and Dong Nai.
 - **Giải thích (VI):** Ngành công nghiệp chế biến, chế tạo công nghệ cao xuất hiện muộn hơn các ngành truyền thống nhưng phát triển nhanh với cơ cấu đa dạng gồm sản xuất linh kiện điện tử, máy vi tính, điện thoại di động và thiết bị điện dân dụng. Ở Việt Nam, ngành phân bố tập trung tại các địa phương có lợi thế về nguồn lao động, hạ tầng và thu hút đầu tư nước ngoài như Hà Nội, Bắc Ninh, Hải Phòng, Thái Nguyên, Bắc Giang, Thành phố Hồ Chí Minh, Đồng Nai và Bình Dương.
 - **Bối cảnh:** Địa lí lớp 12, Bài 16 (Mục III): đặc điểm phát triển và sự phân bố ngành công nghiệp điện tử, máy vi tính ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B16 (Mục III), tr. 73
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B16 (Mục III), tr. 73; SGK Địa lí 12 KNTT, Phần 3, B16 (Mục IV), tr. 73; SGK Địa lí 12 KNTT, Phần 3, B16 (Mục IV), tr. 73, 74
+
+### manufacture of electronic products and computers in Vietnam
+- **Tiếng Việt:** Công nghiệp sản xuất sản phẩm điện tử, máy vi tính ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** High-technology manufacturing industry in Vietnam that integrates artificial intelligence, big data, and automation into production to generate high economic value. Its diverse subsectors include electronic components, computers, communication equipment, and consumer electronics, concentrated in Hanoi, Bac Ninh, Thai Nguyen, and Ho Chi Minh City.
+- **Giải thích (VI):** Ngành công nghiệp có hàm lượng công nghệ cao ở Việt Nam, ứng dụng trí tuệ nhân tạo, dữ liệu lớn và tự động hoá vào sản xuất để tạo ra giá trị kinh tế lớn. Cơ cấu ngành đa dạng gồm sản xuất linh kiện điện tử, máy vi tính, thiết bị truyền thông và điện dân dụng, tập trung mạnh tại Hà Nội, Bắc Ninh, Thái Nguyên và Thành phố Hồ Chí Minh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 8 (Mục 2): Ngành công nghiệp mũi nhọn có tốc độ tăng trưởng nhanh về sản lượng lắp ráp và giá trị xuất khẩu giai đoạn 2010 – 2024.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2), tr. 147; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2), tr. 147, 148
 
 ### manufacturing and processing industry
 - **Tiếng Việt:** Công nghiệp chế biến
@@ -4124,7 +4472,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A group of industrial branches that process natural and synthetic materials into finished products serving production and consumption needs. Within the industrial sector structure classified by impact on objects of labor, this group receives and transforms raw materials and fuels from extractive industries as well as agriculture, forestry, and fisheries.
 - **Giải thích (VI):** Nhóm ngành công nghiệp thực hiện chế biến các nguồn vật chất tự nhiên và nhân tạo thành sản phẩm hoàn chỉnh phục vụ nhu cầu sản xuất và tiêu dùng. Trong cơ cấu ngành công nghiệp theo tính chất tác động đến đối tượng lao động, nhóm ngành này tiếp nhận và gia công nguyên, nhiên liệu từ công nghiệp khai thác cũng như nông, lâm, thuỷ sản.
 - **Bối cảnh:** Địa lí lớp 10, Bài 28 (Mục 1.c): nhóm ngành chế biến nguyên, nhiên liệu thành tư liệu sản xuất và hàng tiêu dùng.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.c), tr. 80
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.c), tr. 80; SGK Địa lí 10 KNTT, Phần ba, B28, tr. 79; SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.a), tr. 79; SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.b), tr. 79
 
 ### map
 - **Tiếng Việt:** Bản đồ
@@ -4192,13 +4540,29 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 12 (Mục 2): tiềm năng dầu khí ở thềm lục địa và khoáng sản ven biển Việt Nam.
 - **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 2), tr. 156
 
+### marine and island economy of the North Central Region
+- **Tiếng Việt:** Kinh tế biển, đảo vùng Bắc Trung Bộ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Integrated marine economic system of the North Central Region encompassing marine fishing and aquaculture, maritime transport, coastal and island tourism, wind power, and coastal economic zones such as Nghi Son, Vung Ang, and Chan May–Lang Co. Its development requires combining national defense and security with marine environmental protection, fishery resource conservation, and proactive disaster and climate-change adaptation.
+- **Giải thích (VI):** Hệ thống các hoạt động kinh tế biển tổng hợp của vùng Bắc Trung Bộ gồm khai thác và nuôi trồng hải sản, giao thông vận tải biển, du lịch biển đảo, điện gió cùng các khu kinh tế ven biển như Nghi Sơn, Vũng Áng và Chân Mây – Lăng Cô. Quá trình phát triển của vùng đòi hỏi kết hợp bảo đảm quốc phòng, an ninh với bảo vệ môi trường biển, phục hồi nguồn lợi hải sản và chủ động ứng phó thiên tai, biến đổi khí hậu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 14 (Mục 5): Định hướng khai thác tổng hợp và bền vững tiềm năng biển, đảo gắn với các khu kinh tế ven biển ở Bắc Trung Bộ.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B14 (Mục 4.c), tr. 184; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B14 (Mục 5), tr. 184
+
+### marine and island economy of the Southeast Region
+- **Tiếng Việt:** Kinh tế biển, đảo vùng Đông Nam Bộ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Complex of four leading marine economic sectors in the Southeast Region: Vietnam's largest crude oil and natural gas extraction coupled with petrochemical processing and oilfield services, maritime transport through major modern port complexes, offshore fishing combined with high-value mariculture, and year-round coastal and island tourism in Can Gio, Vung Tau, and Con Dao.
+- **Giải thích (VI):** Tổ hợp bốn lĩnh vực kinh tế biển chủ lực của vùng Đông Nam Bộ gồm khai thác dầu thô và khí tự nhiên đứng đầu cả nước gắn với chế biến và dịch vụ dầu khí, giao thông vận tải biển với các cụm cảng hiện đại bậc nhất, khai thác xa bờ kết hợp nuôi trồng hải sản giá trị cao và du lịch biển đảo hoạt động quanh năm tại Cần Giờ, Vũng Tàu, Côn Đảo.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 17 (Mục 4): Ngành kinh tế thế mạnh đóng góp lớn vào quy mô GRDP và năng lực hội nhập quốc tế của vùng Đông Nam Bộ.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B17 (Mục 4.c), tr. 202; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B17 (Mục 4.d), tr. 202; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B17 (Mục 4.d), tr. 202, 203
+
 ### marine and island environment
 - **Tiếng Việt:** Môi trường biển đảo
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A component of the human living environment encompassing natural elements (coastlines, seabeds, seawater, and marine biodiversity) and artificial elements (construction works and production facilities along coasts, at sea, and on islands). This space is characterized by the indivisible continuity of marine waters and the isolated, small-scale, sensitive nature of islands that makes them highly vulnerable to degradation from human impacts.
 - **Giải thích (VI):** Một bộ phận của môi trường sống con người bao gồm các yếu tố tự nhiên (bờ biển, đáy biển, nước biển, đa dạng sinh học biển) và các yếu tố nhân tạo (công trình xây dựng, cơ sở sản xuất ven biển, trên biển và hải đảo). Không gian này mang tính thống nhất không thể chia cắt của vùng biển và tính biệt lập, diện tích nhỏ, nhạy cảm, dễ suy thoái của hệ thống đảo trước tác động con người.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 12 (Mục 1.a): khái niệm và đặc điểm đặc thù của môi trường biển đảo so với đất liền.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 1.a), tr. 154
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 1.a), tr. 154; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12, tr. 154; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 1.b), tr. 154
 
 ### marine and island environmental degradation
 - **Tiếng Việt:** Suy thoái môi trường biển đảo
@@ -4208,7 +4572,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 12 (Mục 1.b): nhận diện sự suy giảm chất lượng, số lượng thành phần môi trường biển đảo và phân biệt với ô nhiễm môi trường.
   - *Lưu ý:* Phân biệt với ô nhiễm môi trường biển đảo (sự biến đổi thành phần môi trường vượt tiêu chuẩn cho phép).
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 1.b), tr. 154
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 1.b), tr. 154; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12, tr. 154; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 1.a), tr. 154
 
 ### marine and island environmental pollution
 - **Tiếng Việt:** Ô nhiễm môi trường biển đảo
@@ -4218,7 +4582,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 12 (Mục 1.b): nhận diện hiện tượng ô nhiễm và phân biệt với suy thoái môi trường biển đảo.
   - *Lưu ý:* Phân biệt với suy thoái môi trường biển đảo (sự suy giảm đồng thời về chất lượng và số lượng của thành phần môi trường).
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 1.b), tr. 154
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 1.b), tr. 154; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12, tr. 154; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 1.a), tr. 154
+
+### marine and island environmental protection
+- **Tiếng Việt:** Bảo vệ môi trường biển, đảo
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** System of management measures aimed at rationally using marine resources, controlling and reducing pollution (especially plastic waste), and adapting to climate change and sea-level rise. It emphasizes conserving marine ecosystems, expanding marine and island protected areas, restoring coastal mangrove forests, strengthening international cooperation, and raising public awareness.
+- **Giải thích (VI):** Hệ thống các biện pháp quản lí nhằm khai thác hợp lí tài nguyên biển, kiểm soát và giảm thiểu ô nhiễm (nhất là rác thải nhựa) đồng thời ứng phó với biến đổi khí hậu, nước biển dâng. Công tác này chú trọng bảo tồn các hệ sinh thái biển, mở rộng khu bảo tồn biển đảo, phục hồi rừng ngập mặn ven biển, tăng cường hợp tác quốc tế và nâng cao ý thức cộng đồng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 21 (Mục 4): Nhiệm vụ cấp bách trước tình trạng khai thác quá mức tài nguyên, ô nhiễm rác thải nhựa và suy giảm đa dạng sinh học biển.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B21 (Mục 3), tr. 220; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B21 (Mục 4), tr. 220
 
 ### marine and island topography of Vietnam
 - **Tiếng Việt:** Địa hình vùng biển đảo Việt Nam
@@ -4242,7 +4614,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The rich and highly biodiverse living resources in Vietnam's waters, comprising over 2,000 fish species (about 110 of high economic value), nutritious crustaceans and mollusks (shrimp, squid, sea cucumbers), and coastal intertidal seaweeds. In 2019, Vietnam's marine fishery reserves reached 3.87 million tonnes with an exploitable potential of nearly 1.55 million tonnes.
 - **Giải thích (VI):** Nguồn lợi sinh vật phong phú và có tính đa dạng sinh học cao trong vùng biển Việt Nam, gồm hơn 2 000 loài cá (khoảng 110 loài có giá trị kinh tế cao), nhiều loài giáp xác, thân mềm giàu dinh dưỡng (tôm, mực, hải sâm) và các loài rong biển vùng triều ven bờ. Năm 2019, trữ lượng thuỷ sản biển của nước ta đạt 3,87 triệu tấn với khả năng khai thác gần 1,55 triệu tấn.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 12 (Mục 2): tiềm năng đa dạng sinh học và nguồn lợi thuỷ sản của vùng biển Việt Nam.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 2), tr. 155
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 2), tr. 155; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 1.b), tr. 155; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 2), tr. 155, 156
 
 ### marine economy in the South Central Coast
 - **Tiếng Việt:** Kinh tế biển ở Duyên hải Nam Trung Bộ
@@ -4251,6 +4623,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tổ hợp các ngành kinh tế dựa trên nguồn lực tài nguyên biển phong phú của Duyên hải Nam Trung Bộ, phát triển mạnh theo hướng tổng hợp gắn với bảo đảm quốc phòng an ninh trên biển. Các lĩnh vực trọng tâm bao gồm khai thác và nuôi trồng hải sản, giao thông vận tải và kinh tế hàng hải, du lịch và dịch vụ biển, khai thác dầu khí, khoáng sản biển, làm muối, công nghiệp ven biển và năng lượng tái tạo.
 - **Bối cảnh:** Địa lí lớp 12, Bài 26 (Mục II.1 và Mục III): Thế mạnh, hiện trạng và hướng phát triển tổng hợp các ngành kinh tế biển ở Duyên hải Nam Trung Bộ.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B26 (Mục I.2), tr. 120; SGK Địa lí 12 KNTT, Phần 4, B26 (Mục II.1.a), tr. 120; SGK Địa lí 12 KNTT, Phần 4, B26 (Mục II.1.b), tr. 120
+
+### marine economy of the Red River Delta Region
+- **Tiếng Việt:** Kinh tế biển vùng Đồng bằng sông Hồng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Complex of economic activities leveraging the coast and sea stretching from Quang Ninh to Ninh Binh, notably seaports and maritime transport (Hai Phong, Quang Ninh), coastal and island tourism (Ha Long Bay, Cat Ba Archipelago), marine fisheries and aquaculture, and extraction of salt, silica sand, and natural gas. Its development is oriented toward green growth coupled with conserving marine biodiversity and ecosystems.
+- **Giải thích (VI):** Tổ hợp các ngành kinh tế khai thác lợi thế vùng biển và bờ biển từ Quảng Ninh đến Ninh Bình, nổi bật là cảng biển và vận tải biển (Hải Phòng, Quảng Ninh), du lịch biển đảo (vịnh Hạ Long, Cát Bà), khai thác – nuôi trồng hải sản cùng khai thác muối, cát thuỷ tinh, khí tự nhiên. Hoạt động kinh tế biển của vùng được định hướng phát triển theo hướng tăng trưởng xanh gắn với bảo tồn đa dạng sinh học và hệ sinh thái biển.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 13 (Mục 2): Thế mạnh tự nhiên trọng điểm giúp hình thành các khu kinh tế ven biển, cảng biển hiện đại và trung tâm du lịch biển phía bắc.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2.a), tr. 168; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2.b), tr. 168; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 3.a), tr. 168
 
 ### marine regression
 - **Tiếng Việt:** Biển thoái
@@ -4290,7 +4670,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The overall natural marine potential of the Republic of South Africa featuring rich marine biota driven by converging ocean currents, particularly in the southwestern waters where fishery stocks are largest with many high-value species. These waters also offer favorable conditions for maritime transport through deep-water ports (Cape Town, Port Elizabeth) and coastal tourism.
 - **Giải thích (VI):** Tổng thể tiềm năng tự nhiên vùng biển của Cộng hoà Nam Phi với nguồn sinh vật biển phong phú nhờ có nhiều dòng biển chảy qua, đặc biệt vùng biển phía tây nam có trữ lượng thuỷ sản lớn nhất và nhiều loài giá trị cao. Vùng biển này còn thuận lợi cho phát triển giao thông vận tải biển với các cảng nước sâu (Kếp-tao, Po Ê-li-da-bét) và hoạt động du lịch biển.
 - **Bối cảnh:** Địa lí lớp 11, Bài 30 (Mục II.6): Tiềm năng sinh vật biển, cảng nước sâu và du lịch biển của Cộng hoà Nam Phi.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.6), tr. 155, 156
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.6), tr. 155, 156; SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.4), tr. 155; SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.5), tr. 155
 
 ### marine resources of the Russian Federation
 - **Tiếng Việt:** Tài nguyên biển Liên bang Nga
@@ -4338,7 +4718,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The two primary transport modes driving Vietnam's international trade and global connectivity: maritime transport handles import–export cargo through a seaport system anchored by two special-class ports in Hai Phong and Ba Ria – Vung Tau. Air transport is modernizing rapidly across 22 airports (as of 2021), led by three major international gateway hubs—Noi Bai, Da Nang, and Tan Son Nhat.
 - **Giải thích (VI):** Hai loại hình vận tải giữ vai trò cửa ngõ giao thương và kết nối quốc tế của Việt Nam: đường biển phục vụ xuất nhập khẩu hàng hoá với hai cảng biển loại đặc biệt là Hải Phòng và Bà Rịa – Vũng Tàu. Đường hàng không phát triển và hiện đại hoá nhanh với 22 cảng hàng không (năm 2021), trong đó Nội Bài, Đà Nẵng và Tân Sơn Nhất là các cửa ngõ quốc tế và đầu mối vận tải hàng không lớn.
 - **Bối cảnh:** Địa lí lớp 12, Bài 20 (Mục I.4, I.5): sự phát triển và phân bố hệ thống cảng biển, cảng hàng không và các tuyến vận tải quốc tế của Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I.4), tr. 85, 86; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I.5), tr. 87
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I.4), tr. 85, 86; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I.5), tr. 87; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I.1), tr. 85; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I.2), tr. 85; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I.3), tr. 85
 
 ### maritime baseline
 - **Tiếng Việt:** Đường cơ sở
@@ -4377,6 +4757,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại hình giao thông đường thuỷ quốc tế đảm nhiệm tới 3/5 tổng khối lượng luân chuyển hàng hoá toàn cầu (chủ yếu là dầu mỏ và sản phẩm dầu mỏ), với đội tàu công-te-nơ ngày càng phát triển. Các tuyến hàng hải sôi động nhất kết nối châu Âu với châu Á – Thái Bình Dương và hai bờ Đại Tây Dương, tập trung những cảng biển lớn nhất thế giới tại châu Á như Thượng Hải, Xin-ga-po, Ninh Ba – Chu Sơn, Thâm Quyến và Bu-san.
 - **Bối cảnh:** Địa lí lớp 10, Bài 34 (Mục 3.d): phân tích vai trò chủ lực trong luân chuyển hàng hoá quốc tế và sự phân bố cảng biển lớn.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.c), tr. 96; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.d), tr. 96, 97; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.d), tr. 97
+
+### maritime zones of Vietnam
+- **Tiếng Việt:** Các vùng biển Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** National maritime space of Vietnam covering approximately 1 million km² along a 3,260 km coastline shared by 21 coastal provinces and municipalities. Under the 2012 Law of the Sea of Vietnam, it comprises five maritime zones: internal waters, territorial sea, contiguous zone, exclusive economic zone, and continental shelf.
+- **Giải thích (VI):** Không gian biển quốc gia của Việt Nam rộng khoảng 1 triệu km² dọc theo đường bờ biển dài 3 260 km với 21 tỉnh, thành phố giáp biển. Theo Luật Biển Việt Nam năm 2012, vùng biển nước ta gồm năm bộ phận là nội thuỷ, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 21 (Mục 1): Cơ sở pháp lí và phạm vi không gian để phát triển tổng hợp kinh tế biển và bảo vệ chủ quyền biển, đảo Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B21, tr. 214; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B21 (Mục 1), tr. 214; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B21 (Mục 1), tr. 214, 215
 
 ### maritime zones of Vietnam under the 2012 Law of the Sea of Vietnam
 - **Tiếng Việt:** Vùng biển Việt Nam theo Luật Biển Việt Nam năm 2012
@@ -4434,7 +4822,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Population change resulting from migration, defined as the difference between the immigration rate and the emigration rate of a territory. While it does not alter total world population size, it significantly shapes demographic change within individual regions and countries.
 - **Giải thích (VI):** Biến động dân số do di cư tạo nên, xác định bằng mức chênh lệch giữa tỉ suất nhập cư và tỉ suất xuất cư của một lãnh thổ. Đại lượng này không làm thay đổi quy mô dân số toàn thế giới nhưng có ý nghĩa quan trọng đối với sự biến động dân số của từng khu vực và quốc gia.
 - **Bối cảnh:** Địa lí lớp 10, Bài 19 (Mục 2.b): Trình bày khái niệm và vai trò của biến động dân số do di cư.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.b), tr. 56
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.b), tr. 56; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.a), tr. 56; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.c), tr. 56
 
 ### Mediterranean subtropical climate
 - **Tiếng Việt:** Khí hậu cận nhiệt địa trung hải
@@ -4461,12 +4849,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 3), tr. 182; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 3), tr. 182, 183; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 3), tr. 183
 
 ### megalopolis
-- **Tiếng Việt:** Dải đô thị
+- **Tiếng Việt:** Dải đô thị (Dải siêu đô thị)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** An extensive urban belt formed in long-established industrial regions when multiple cities expand and connect continuously, including across national borders (such as the belt stretching from Liverpool in the United Kingdom to Cologne in Germany).
 - **Giải thích (VI):** Không gian đô thị rộng lớn hình thành ở các vùng công nghiệp lâu đời khi nhiều đô thị mở rộng và nối liền với nhau, kể cả xuyên biên giới (như dải đô thị kéo dài từ Li-vơ-pun của Anh đến Côn của Đức).
-- **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2): sự mở rộng và liên kết các đô thị lớn xuyên biên giới ở những vùng công nghiệp lâu đời của châu Âu.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2), tr. 103; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3), tr. 103
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A vast interconnected urban spatial form created when cities and suburbs expand to the point of merging with other cities and suburbs into a nearly continuous urban region. / VI: Hình thái liên kết không gian đô thị rộng lớn hình thành khi các thành phố và vùng ngoại ô phát triển lớn đến mức hợp nhất với các thành phố và vùng ngoại ô khác, tạo thành một khu vực đô thị gần như liên tục.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2): sự mở rộng và liên kết các đô thị lớn xuyên biên giới ở những vùng công nghiệp lâu đời của châu Âu.
+  - Lịch sử và Địa lí lớp 9, Chủ đề chung 1 (Mục 2.b): Nhận diện cấp độ liên kết không gian đô thị quy mô lớn tiêu biểu thời kì hậu công nghiệp.
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2), tr. 103; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3), tr. 103; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 223; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 223, 224
 
 ### Mekong Delta Key Economic Region
 - **Tiếng Việt:** Vùng kinh tế trọng điểm vùng Đồng bằng sông Cửu Long
@@ -4494,6 +4885,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 12, Bài 30 (Mục I.1): Vị trí địa lí, phạm vi lãnh thổ và đặc điểm khái quát của vùng Đồng bằng sông Cửu Long.
   - Lịch sử và Địa lí lớp 8, Bài 2 (Mục 2.b) và Chủ đề chung 1 (Mục 2.a): quy mô, phạm vi bồi đắp và đặc điểm địa hình đồng bằng châu thổ sông Cửu Long.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B30, tr. 145; SGK Địa lí 12 KNTT, Phần 4, B30 (Mục I.1), tr. 145; SGK Địa lí 12 KNTT, Phần 4, B30 (Mục I.2), tr. 145; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1, tr. 157; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1.b), tr. 159; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.a), tr. 159; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.b), tr. 103; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.b), tr. 103, 104; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.b), tr. 104
+
+### Mekong River Delta Region
+- **Tiếng Việt:** Vùng Đồng bằng sông Cửu Long
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Socio-economic region in southwestern Vietnam covering approximately 36.4 thousand km² (11.0% of the national area in 2024), comprising Can Tho City and the provinces of Vinh Long, Dong Thap, An Giang, and Ca Mau. Bordering the Southeast Region, Cambodia, and expansive western and southeastern seas dotted with islands and archipelagos (Phu Quoc, Tho Chu, Nam Du), it enjoys favorable conditions for mainland and marine economic development as well as Mekong Basin cooperation.
+- **Giải thích (VI):** Vùng kinh tế – xã hội nằm ở phía tây nam Việt Nam với diện tích khoảng 36,4 nghìn km² (chiếm 11,0% diện tích cả nước năm 2024), gồm thành phố Cần Thơ và các tỉnh Vĩnh Long, Đồng Tháp, An Giang, Cà Mau. Vùng giáp Đông Nam Bộ, Cam-pu-chia và được bao bọc phía tây, đông nam bởi vùng biển rộng có nhiều đảo, quần đảo (Phú Quốc, Thổ Chu, Nam Du), thuận lợi phát triển kinh tế đất liền, kinh tế biển và hợp tác tiểu vùng sông Mê Công.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 19 (Mục 1): Vùng châu thổ trọng điểm sản xuất lương thực, thuỷ sản và cây ăn quả nhiệt đới lớn nhất Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B19, tr. 205; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B19 (Mục 1), tr. 205; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B19 (Mục 2.a), tr. 205, 206
 
 ### Mekong River system
 - **Tiếng Việt:** Hệ thống sông Mê Công
@@ -4527,7 +4926,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An extractive industry mining ferrous, non-ferrous, precious, and rare metal ores for machinery manufacturing, construction, and transportation alongside industrialization. Operations concentrate in ore-rich nations producing iron, bauxite, and copper—such as Russia, Australia, China, Brazil, and Chile—and require sound planning and metal recycling to prevent resource depletion and reduce pollution.
 - **Giải thích (VI):** Ngành công nghiệp khai thác các nhóm quặng kim loại đen, kim loại màu, kim loại quý và kim loại hiếm phục vụ chế tạo máy móc, thiết bị, xây dựng và giao thông vận tải gắn liền với quá trình công nghiệp hoá. Ngành phân bố tại các quốc gia giàu trữ lượng quặng sắt, bô-xít, đồng như Liên bang Nga, Ô-xtrây-li-a, Trung Quốc, Bra-xin, Chi-lê và đòi hỏi quy hoạch hợp lí kèm tái chế kim loại để tránh cạn kiệt tài nguyên, giảm ô nhiễm.
 - **Bối cảnh:** Địa lí lớp 10, Bài 29 (Mục 1.c): vai trò, phân nhóm quặng và sự phân bố ngành khai thác quặng kim loại trên thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 1.c), tr. 81, 82
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 1.c), tr. 81, 82; SGK Địa lí 10 KNTT, Phần ba, B29, tr. 81; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 1.a), tr. 81; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 1.b), tr. 81
 
 ### metallic minerals
 - **Tiếng Việt:** Khoáng sản kim loại
@@ -4566,6 +4965,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong SGK Địa lí 6, thuật ngữ chỉ trạng thái và diễn biến các hiện tượng tự nhiên trong khí quyển (phân biệt với nghĩa ngành khoa học khí tượng học).
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B16 (Mục 1.a), tr. 146
 
+### metropolitan area
+- **Tiếng Việt:** Vùng đô thị
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An urban spatial region comprising interconnected cities, towns, and suburbs structured like smaller cities within a single large city.
+- **Giải thích (VI):** Khu vực không gian đô thị bao gồm các thành phố, thị trấn và vùng ngoại ô liên kết chặt chẽ với nhau, có cấu trúc tương tự như các thành phố nhỏ nằm trong một thành phố lớn.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 1 (Mục 2.b): Phân biệt hình thái mở rộng không gian vùng đô thị với dải siêu đô thị trong thời kì hậu công nghiệp.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 223; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 223, 224
+
 ### migration (geography)
 - **Tiếng Việt:** Di dân (chuyển cư)
 - **Chuyên ngành gốc:** Địa lí
@@ -4574,7 +4981,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 7, Bài 10 (Mục 1.c): hệ quả nhân khẩu – xã hội phát sinh từ xung đột quân sự, đói nghèo và biến động kinh tế.
   - *Lưu ý:* Không nhầm với 'Di cư' (`migration`) trong Sinh học.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1.c), tr. 134; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1.c), tr. 134; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178
 
 ### military conflict
 - **Tiếng Việt:** Xung đột quân sự (xung đột vũ trang)
@@ -4582,9 +4989,9 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Violent armed confrontation between forces or communities, which in Africa frequently arises from tribal tensions and competition over natural resources (especially water). It causes casualties, worsens famine, disease, displacement, and political instability, and creates openings for foreign intervention.
 - **Giải thích (VI):** Tình trạng đối đầu bằng bạo lực vũ trang giữa các lực lượng hoặc cộng đồng, tại châu Phi thường bùng phát từ mâu thuẫn bộ tộc và sự cạnh tranh tài nguyên thiên nhiên (đặc biệt là nguồn nước). Hiện tượng này gây thương vong, gia tăng nạn đói, dịch bệnh, làn sóng di dân, bất ổn chính trị và tạo điều kiện cho sự can thiệp từ bên ngoài.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 1.c): vấn đề xã hội – chính trị nghiêm trọng kìm hãm sự ổn định và phát triển ở nhiều khu vực châu Phi.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1.c), tr. 134
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1.c), tr. 134; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 134
 
-### mineral
+### mineral (geography)
 - **Tiếng Việt:** Khoáng vật
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Naturally occurring native elements or chemical compounds formed as a result of geological processes, serving as the constituent building blocks of rocks in the Earth's crust.
@@ -4593,6 +5000,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 4 (Mục 3): Định nghĩa đơn vị vật chất cơ bản cấu tạo nên đá trong vỏ Trái Đất.
   - Lịch sử và Địa lí lớp 6, Bài 13 (Mục 2): phân biệt hợp chất tự nhiên tạo nên đá và quặng với khái niệm khoáng sản.
+  - *Lưu ý:* Không nhầm với 'Khoáng chất' (`mineral`) trong Hóa học.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 16; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 3), tr. 16; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2), tr. 137; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192
 
 ### mineral deposit
@@ -4633,7 +5041,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Diverse mineral resources featuring large reserves of tin, coal, iron ore, bauxite, copper, nickel, chromium, petroleum, and natural gas owing to the region's location along mineralogenic belts. These deposits supply essential raw materials and fuels for thermal power, metallurgy, and petrochemical industries while generating valuable export revenues across the region.
 - **Giải thích (VI):** Nguồn tài nguyên khoáng sản đa dạng với nhiều loại có trữ lượng lớn như thiếc, than đá, sắt, bô-xít, đồng, ni-ken, crôm, dầu mỏ và khí tự nhiên nhờ vị trí nằm trong các vành đai sinh khoáng. Đây là cơ sở cung cấp nguyên, nhiên liệu thiết yếu cho các ngành công nghiệp nhiệt điện, luyện kim, hoá dầu và tạo nguồn hàng xuất khẩu có giá trị cho nhiều quốc gia trong khu vực.
 - **Bối cảnh:** Địa lí lớp 11, Bài 11 (Mục II.5): Trình bày sự đa dạng, phân bố và vai trò kinh tế của tài nguyên khoáng sản ở Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.5), tr. 49
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.5), tr. 49; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.4), tr. 49; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.6), tr. 49
 
 ### mineral resources of Southwest Asia
 - **Tiếng Việt:** Khoáng sản khu vực Tây Nam Á
@@ -4641,7 +5049,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Southwest Asia's exceptionally energy-rich mineral endowment, holding over 50% of global oil reserves and roughly 40% of world natural gas reserves (in 2020) concentrated around the Persian Gulf, alongside coal, iron ore, chromium, copper, and phosphate. Petroleum and gas serve as the primary engine of regional economic growth while also fueling prolonged geopolitical tensions and disputes.
 - **Giải thích (VI):** Nguồn tài nguyên khoáng sản đặc biệt giàu có về năng lượng của Tây Nam Á, chiếm trên 50% trữ lượng dầu mỏ và khoảng 40% trữ lượng khí tự nhiên toàn cầu (năm 2020), tập trung tại các nước ven vịnh Péc-xích, bên cạnh than đá, sắt, crôm, đồng và phốt phát. Dầu khí đóng vai trò động lực phát triển kinh tế chủ chốt của khu vực song cũng là một nguyên nhân dẫn đến những mâu thuẫn, tranh chấp kéo dài.
 - **Bối cảnh:** Địa lí lớp 11, Bài 15 (Mục II.4): Đánh giá vị thế trữ lượng dầu mỏ, khí tự nhiên và tác động hai mặt của tài nguyên dầu khí ở Tây Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.4), tr. 69, 70
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.4), tr. 69, 70; SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.1), tr. 69; SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.2), tr. 69; SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.3), tr. 69
 
 ### mineral resources of the Russian Federation
 - **Tiếng Việt:** Tài nguyên khoáng sản Liên bang Nga
@@ -4689,7 +5097,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The abundant, large-reserve subsurface resources of the Republic of South Africa, notably metallic minerals (especially precious metals such as platinum and gold, along with iron ore and chromium), diamonds, and energy minerals (coal). Concentrated mainly in the interior plateaus, these mineral deposits form a vital foundation for industrial development and exports.
 - **Giải thích (VI):** Nguồn tài nguyên lòng đất phong phú và có trữ lượng lớn của Cộng hoà Nam Phi, nổi bật là các khoáng sản kim loại (đặc biệt kim loại quý như bạch kim, vàng; quặng sắt, crôm), kim cương và khoáng sản năng lượng (than đá). Các mỏ khoáng sản này phân bố tập trung chủ yếu ở vùng cao nguyên trong nội địa, tạo cơ sở quan trọng cho phát triển công nghiệp và xuất khẩu.
 - **Bối cảnh:** Địa lí lớp 11, Bài 30 (Mục II.5): Trữ lượng, cơ cấu và sự phân bố tài nguyên khoáng sản ở Cộng hoà Nam Phi.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.5), tr. 155
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.5), tr. 155; SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.4), tr. 155; SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.6), tr. 155, 156
+
+### mining industry in Vietnam
+- **Tiếng Việt:** Công nghiệp khai khoáng ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Long-established mineral extraction industry in Vietnam whose extraction output and share in total industrial production value are gradually declining. Extraction activities are distributed near major mineral deposits, including coal in Quang Ninh, crude oil and natural gas on the southern continental shelf, titanium and bauxite in the South Central Coast and Central Highlands, and iron and apatite in the Northern Midlands and Mountainous Region.
+- **Giải thích (VI):** Ngành công nghiệp khai thác khoáng sản có lịch sử lâu đời ở Việt Nam, hiện có xu hướng giảm dần sản lượng khai thác và tỉ trọng đóng góp vào giá trị sản xuất công nghiệp. Hoạt động khai thác phân bố gắn với các mỏ khoáng sản chính như than ở Quảng Ninh, dầu thô và khí tự nhiên ở thềm lục địa phía nam, ti-tan và bô-xít ở Duyên hải Nam Trung Bộ và Tây Nguyên, sắt và a-pa-tít ở Trung du và miền núi phía Bắc.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 8 (Mục 2): Ngành công nghiệp khai thác tài nguyên khoáng sản đang đẩy mạnh ứng dụng công nghệ mới nhằm giảm thất thoát tài nguyên và hạn chế ô nhiễm môi trường.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2), tr. 145; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2), tr. 145, 146
 
 ### Missouri–Mississippi River system
 - **Tiếng Việt:** Hệ thống sông Mít-xu-ri – Mi-xi-xi-pi
@@ -4758,7 +5174,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A dormant stratovolcano in eastern Africa standing at 5,895 m, holding the record as Africa's highest peak and capped with snow and ice year-round.
 - **Giải thích (VI):** Ngọn núi lửa từng hoạt động nằm ở phía đông châu Phi với độ cao 5 895 m, giữ kỉ lục là đỉnh núi cao nhất châu Phi và có băng tuyết bao phủ quanh năm trên đỉnh.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2.a): đỉnh núi cao nổi bật trên phần địa hình sơn nguyên Đông Phi được nâng cao mạnh.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.a), tr. 129
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.a), tr. 129; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 129, 130
 
 ### mountain
 - **Tiếng Việt:** Núi
@@ -4774,7 +5190,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A major topographic unit of Southwest Asia encompassing high mountain ranges (the Caucasus and Hindu Kush), extensive plateaus (Iranian, Anatolian, and Arabian), and intermontane valleys. Its rugged, dissected terrain hinders transportation, crop cultivation, and settlement, while its predominantly reddish-brown savanna soils support livestock grazing.
 - **Giải thích (VI):** Bộ phận địa hình chiếm diện tích lớn ở Tây Nam Á gồm các dãy núi cao (Cáp-ca, Hin-đu Cúc), các sơn nguyên rộng (I-ran, A-na-tô-li, A-ráp) và các thung lũng xen giữa. Địa hình bị chia cắt, hiểm trở gây trở ngại cho giao thông, trồng trọt và cư trú, song có lớp đất nâu đỏ xa van chủ yếu thuận lợi để phát triển chăn nuôi gia súc.
 - **Bối cảnh:** Địa lí lớp 11, Bài 15 (Mục II.1): Phân tích đặc điểm địa hình, đất đai miền núi, sơn nguyên và ảnh hưởng đến kinh tế – cư trú ở Tây Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.1), tr. 68
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.1), tr. 68; SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.1), tr. 68, 69
 
 ### mountain building
 - **Tiếng Việt:** Hiện tượng tạo núi
@@ -4808,12 +5224,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A relatively stable socio-political community formed through historical development out of pre-modern nationalities. It is bound together by shared territory of residence, language, economic life, national psychology, and distinctive cultural traits.
 - **Giải thích (VI):** Cộng đồng chính trị – xã hội tương đối ổn định được hình thành trong quá trình lịch sử trên cơ sở phát triển của bộ tộc. Cộng đồng này gắn kết bởi các mối quan hệ chung về lãnh thổ cư trú, ngôn ngữ, đời sống kinh tế, tâm lí dân tộc và những đặc trưng văn hoá.
 - **Giải thích khác (SGK Lịch sử 10):** EN: A socio-historical concept used in Vietnamese in two distinct senses: a nation-state community encompassing the entire populace of a country (such as the Vietnamese nation), and an ethnic group comprising people who share a common language, culture, and ethnic self-awareness (such as the Kinh, Muong, or Thai peoples). / VI: Khái niệm xã hội – lịch sử sử dụng trong tiếng Việt theo hai nghĩa: dân tộc – quốc gia bao gồm toàn thể cư dân của một đất nước (như dân tộc Việt Nam), và dân tộc – tộc người chỉ những cộng đồng người có chung ngôn ngữ, văn hoá cùng ý thức tự giác dân tộc (như dân tộc Kinh, Mường, Thái).
+- **Giải thích khác (SGK GDCD 8):** EN: In the broad sense, a stable community of people constituting the citizens of a country with a shared territory, unified economy, common national language, and national consciousness, bound together by political, economic, and cultural interests as well as shared historical struggles in nation-building and defense. In the narrow sense, a historically formed community with close, enduring ties that shares ethnic self-awareness, language, and culture. / VI: Theo nghĩa rộng, cộng đồng người ổn định hợp thành nhân dân một nước, có lãnh thổ, quốc gia, nền kinh tế thống nhất, quốc ngữ chung và ý thức về sự thống nhất quốc gia, gắn bó bởi lợi ích chính trị, kinh tế, truyền thống văn hoá và truyền thống đấu tranh dựng nước, giữ nước. Theo nghĩa hẹp, cộng đồng người hình thành trong lịch sử có mối liên hệ chặt chẽ, bền vững cùng chung ý thức tự giác tộc người, ngôn ngữ và văn hoá.
 - **Bối cảnh:**
   - Địa lí lớp 11, Bài 11 (Mục III): Giải thích khái niệm dân tộc khi tìm hiểu đặc điểm dân cư và xã hội đa dân tộc ở Đông Nam Á.
   - Lịch sử lớp 10, Bài 13 (Mục 1.a): Phân biệt hai nghĩa dân tộc – quốc gia và dân tộc – tộc người khi tìm hiểu cộng đồng các dân tộc Việt Nam.
+  - Giáo dục Kinh tế và Pháp luật lớp 8, Bài 1 (Mục 1) và Bài 2 (Mục 1): phân biệt nghĩa quốc gia – dân tộc và nghĩa tộc người khi tìm hiểu truyền thống dân tộc Việt Nam và sự đa dạng các dân tộc trên thế giới.
   - *Lưu ý:* Định nghĩa trong Bảng giải thích thuật ngữ SGK tương ứng với khái niệm cộng đồng quốc gia – dân tộc (nation); trong ngữ cảnh thành phần dân cư đa dân tộc ở Đông Nam Á, từ "dân tộc" còn chỉ tộc người (ethnic group).
   - *Lưu ý:* Trong tiếng Việt, thuật ngữ 'dân tộc' mang hai nghĩa cần phân biệt theo ngữ cảnh: dân tộc – quốc gia (nation) chỉ toàn thể cư dân một nước và dân tộc – tộc người (ethnic group) chỉ từng cộng đồng có chung ngôn ngữ, văn hoá, ý thức tự giác tộc người.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục III.1), tr. 50; SGK Địa lí 11 KNTT, Bảng giải thích thuật ngữ, tr. 165; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.a), tr. 123; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.a), tr. 123, 124
+  - *Lưu ý:* Trong tiếng Việt, thuật ngữ này vừa chỉ cộng đồng quốc gia – dân tộc theo nghĩa rộng (nation), vừa chỉ cộng đồng tộc người theo nghĩa hẹp (ethnic group).
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục III.1), tr. 50; SGK Địa lí 11 KNTT, Bảng giải thích thuật ngữ, tr. 165; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.a), tr. 123; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.a), tr. 123, 124; SGK Lịch sử 10 KNTT, Chủ đề 07, B13, tr. 123; SGK GDCD 8 KNTT, Bảng giải thích thuật ngữ, tr. 70; SGK GDCD 8 KNTT, Bảng giải thích thuật ngữ, tr. 70, 71; SGK GDCD 8 KNTT, Bảng giải thích thuật ngữ, tr. 71
 
 ### native biota of Australia
 - **Tiếng Việt:** Sinh vật bản địa Ô-xtrây-li-a
@@ -4830,6 +5249,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Khả năng của toàn bộ các thành phần trong môi trường tự nhiên như vị trí địa lí, địa hình, đất đai, khí hậu, nguồn nước và sinh vật trên một lãnh thổ. Tổng thể các yếu tố này có ảnh hưởng trực tiếp đến đời sống và các hoạt động sản xuất của con người.
 - **Bối cảnh:** Địa lí lớp 10, Bài 23 (Mục 2, 3): nhóm nhân tố môi trường tự nhiên ảnh hưởng tới sản xuất nông, lâm nghiệp, thuỷ sản và công nghiệp.
 - **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 2), tr. 67; SGK Địa lí 10 KNTT, Phần ba, B23 (Mục 3), tr. 68
+
+### natural differentiation of the North Central Region
+- **Tiếng Việt:** Phân hoá tự nhiên vùng Bắc Trung Bộ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Marked west-to-east variation in natural conditions across the North Central Region, transitioning from western ferralitic hills and mountains through alluvial plains and sand dunes to eastern seas, continental shelf, and islands. Combined with a tropical humid monsoon climate featuring cold winters differentiated by elevation and longitude, it underpins a diverse economic structure spanning agriculture, forestry, fisheries, and tourism.
+- **Giải thích (VI):** Sự thay đổi điều kiện tự nhiên rõ rệt theo chiều tây – đông ở Bắc Trung Bộ, chuyển tiếp từ đồi núi đất feralit phía tây qua dải đồng bằng đất phù sa và cồn cát đến vùng biển, thềm lục địa và đảo phía đông. Kết hợp với khí hậu nhiệt đới ẩm gió mùa có mùa đông lạnh phân hoá theo độ cao và chiều đông – tây, đặc điểm này tạo cơ sở hình thành cơ cấu kinh tế nông nghiệp, lâm nghiệp, thuỷ sản và du lịch đa dạng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 14 (Mục 2): Đặc điểm phân hoá lãnh thổ theo lát cắt tây – đông chi phối sự phân bố sản xuất nông – lâm – ngư nghiệp liên hoàn của vùng.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B14, tr. 176; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B14 (Mục 1), tr. 176; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B14 (Mục 2), tr. 176, 177
 
 ### natural disaster
 - **Tiếng Việt:** Thiên tai
@@ -4861,7 +5288,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A demographic measure evaluating the natural population increase of a territory, defined as the difference between the crude birth rate and the crude death rate (commonly expressed as a percentage). It serves as the primary driver of global population change and is currently trending downward.
 - **Giải thích (VI):** Thước đo đánh giá mức gia tăng dân số tự nhiên của một lãnh thổ, xác định bằng hiệu số chênh lệch giữa tỉ suất sinh thô và tỉ suất tử thô (thường đổi sang đơn vị %). Đây là động lực chủ yếu quyết định sự biến đổi quy mô dân số toàn thế giới và hiện đang có xu hướng giảm.
 - **Bối cảnh:** Địa lí lớp 10, Bài 19 (Mục 2.a): Thước đo đánh giá mức độ gia tăng dân số tự nhiên của thế giới và từng quốc gia.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.a), tr. 56
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.a), tr. 56; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.b), tr. 56; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.c), tr. 56
 
 ### natural population growth rate in Africa
 - **Tiếng Việt:** Tỉ lệ tăng dân số tự nhiên ở châu Phi
@@ -4869,7 +5296,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Africa's natural population growth rate, the highest in the world (2.54% in the 2015–2020 period), resulting from a rapid decline in mortality due to medical advances since the 1950s while birth rates remained high. Rapid population growth hinders economic development and intensifies poverty, resource depletion, and environmental degradation.
 - **Giải thích (VI):** Mức gia tăng dân số tự nhiên cao nhất thế giới của châu Phi (đạt 2,54% giai đoạn 2015 – 2020) do tỉ suất tử vong giảm nhanh nhờ tiến bộ y tế từ sau những năm 1950 trong khi tỉ suất sinh vẫn duy trì ở mức cao. Tốc độ tăng dân số nhanh tạo sức ép kìm hãm phát triển kinh tế, làm gia tăng đói nghèo, cạn kiệt tài nguyên và suy thoái môi trường.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 1.a): vấn đề dân cư nổi cộm gây áp lực lớn lên kinh tế – xã hội và môi trường của châu Phi.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1.a), tr. 133
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1.a), tr. 133; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10, tr. 133; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1.b), tr. 133
 
 ### natural resource utilization and conservation in Australia
 - **Tiếng Việt:** Phương thức khai thác, sử dụng và bảo vệ thiên nhiên ở Ô-xtrây-li-a
@@ -4885,10 +5312,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** All material values existing in nature that humans can extract, process, and utilize to serve life. Natural resources are highly diverse, unevenly distributed across space, typically formed over long development processes for those of high economic value, and most commonly classified by their regenerative capacity relative to human consumption rates.
 - **Giải thích (VI):** Toàn bộ giá trị vật chất có trong tự nhiên mà con người có thể khai thác, chế biến và sử dụng để phục vụ cuộc sống. Tài nguyên thiên nhiên rất đa dạng, phân bố không đồng đều trong không gian, thường hình thành qua quá trình phát triển lâu dài đối với các loại có giá trị kinh tế cao và thông dụng nhất là phân loại dựa vào khả năng tái sinh so với tốc độ tiêu thụ của con người.
 - **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: All material values existing in nature that humans can extract and utilize for production and daily life. / VI: Toàn bộ các giá trị vật chất sẵn có trong tự nhiên mà con người có thể khai thác và sử dụng để phục vụ cho sản xuất và đời sống.
+- **Giải thích khác (SGK GDCD 8):** EN: Naturally occurring sources of wealth that remain untapped or are currently undergoing extraction. / VI: Nguồn của cải có sẵn trong tự nhiên, chưa khai thác hoặc đang được tiến hành khai thác.
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 39 (Mục 2.a): Trình bày khái niệm, đặc điểm phân bố và tiêu chí phân loại tài nguyên thiên nhiên.
   - Lịch sử và Địa lí lớp 6, Bài 28 (Mục 1.b, 2): Nhận diện các thành phần tự nhiên được con người khai thác và đặt ra yêu cầu sử dụng tiết kiệm, hợp lí.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B39, tr. 108; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.b), tr. 109; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 2.a), tr. 109; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 1.b), tr. 185
+  - Giáo dục Kinh tế và Pháp luật lớp 8, Bài 5 (Mục 1.b): tìm hiểu vai trò và quy định pháp luật về khai thác hợp lí, bảo vệ rừng, khoáng sản, thuỷ sản và nguồn nước.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B39, tr. 108; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.b), tr. 109; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 2.a), tr. 109; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 1.b), tr. 185; SGK GDCD 8 KNTT, Bảng giải thích thuật ngữ, tr. 71; SGK GDCD 8 KNTT, B5, tr. 25; SGK GDCD 8 KNTT, B5 (Mục 1.b), tr. 27
 
 ### natural resources of Antarctica
 - **Tiếng Việt:** Tài nguyên thiên nhiên châu Nam Cực
@@ -4906,6 +5335,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 11, Bài 12 (Mục 2.c): Đánh giá tiềm năng sinh vật và khoáng sản biển làm gia tăng giá trị kinh tế – chiến lược của Biển Đông.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 06, B12 (Mục 2.b), tr. 76; SGK Lịch sử 11 KNTT, Chủ đề 06, B12 (Mục 2.c), tr. 76; SGK Lịch sử 11 KNTT, Chủ đề 06, B12 (Mục 2.c), tr. 76, 77
 
+### natural strengths of the Northern Midlands and Mountainous Region
+- **Tiếng Việt:** Thế mạnh tự nhiên vùng Trung du và miền núi phía Bắc
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Combined natural advantages of the Northern Midlands and Mountainous Region, featuring hilly-mountainous terrain, ferralitic plateaus, and an altitude-differentiated climate with cold winters favorable for forestry, large-livestock farming, and subtropical or temperate crops (tea, medicinal plants, fruit trees). The region also possesses the largest hydropower potential in Vietnam along steep river systems, diverse mineral resources (apatite, iron, coal, rare earths), and karst landscapes for tourism.
+- **Giải thích (VI):** Tổng hợp các lợi thế tự nhiên của vùng Trung du và miền núi phía Bắc gồm địa hình đồi núi, cao nguyên đất feralit cùng khí hậu có mùa đông lạnh phân hoá theo độ cao, thuận lợi cho lâm nghiệp, chăn nuôi gia súc lớn và chuyên canh cây cận nhiệt, ôn đới (chè, dược liệu, cây ăn quả). Vùng đồng thời có trữ năng thuỷ điện lớn nhất cả nước trên hệ thống sông dốc, tài nguyên khoáng sản phong phú (a-pa-tít, sắt, than, đất hiếm) và nhiều thắng cảnh các-xtơ cho du lịch.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 12 (Mục 2): Cơ sở tự nhiên định hình cơ cấu kinh tế nông – lâm nghiệp, công nghiệp năng lượng – khai khoáng và du lịch của vùng.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B12 (Mục 2.a), tr. 159; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B12 (Mục 2.b), tr. 159; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B12 (Mục 2.b), tr. 159, 160
+
 ### natural zone
 - **Tiếng Việt:** Đới thiên nhiên
 - **Chuyên ngành gốc:** Địa lí
@@ -4922,13 +5359,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 29 (Mục 2): Giải thích ý nghĩa thiết thực của việc gìn giữ thiên nhiên đối với đời sống và phát triển bền vững.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29, tr. 187; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29 (Mục 1), tr. 187; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29 (Mục 2), tr. 187
 
+### nature reserve
+- **Tiếng Việt:** Khu bảo tồn thiên nhiên
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A geographically delineated area within the special-use forest system organized into strictly managed functional zones to conserve biodiversity and natural ecosystems.
+- **Giải thích (VI):** Khu vực địa lí thuộc hệ thống rừng đặc dụng có xác lập ranh giới và phân khu chức năng chặt chẽ nhằm bảo tồn đa dạng sinh học và các hệ sinh thái tự nhiên.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 6 (Mục 1.a, 1.b): Xác định vai trò của khu bảo tồn thiên nhiên trong quản lí rừng đặc dụng và bảo vệ đa dạng sinh học ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 136; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 137
+
 ### nature reserves in Africa
 - **Tiếng Việt:** Khu bảo tồn thiên nhiên ở châu Phi
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Protected natural areas established and managed by various African nations (such as Kenya and Tanzania) to conserve savanna ecosystems and rare wild flora and fauna while developing ecotourism.
 - **Giải thích (VI):** Các khu vực tự nhiên được nhiều quốc gia châu Phi (như Kê-ni-a, Tan-da-ni-a) thành lập và quản lí nhằm bảo vệ hệ sinh thái xa van cùng các loài động, thực vật hoang dã quý hiếm, đồng thời khai thác phát triển du lịch sinh thái.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 2): giải pháp bảo vệ đa dạng sinh học gắn với phát triển kinh tế bền vững ở môi trường nhiệt đới châu Phi.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 136
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 136; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 136; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 136, 137
 
 ### neap tide
 - **Tiếng Việt:** Triều kém
@@ -4968,7 +5413,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The longest river in the world at 6,695 km and the only river flowing across the Sahara Desert in Africa. Alluvial deposits along its lower course form the fertile Nile Delta covering approximately 24,000 km².
 - **Giải thích (VI):** Dòng sông dài nhất thế giới với chiều dài 6 695 km và là con sông duy nhất chảy xuyên qua hoang mạc Xa-ha-ra ở châu Phi. Phù sa hạ lưu sông bồi đắp nên đồng bằng châu thổ sông Nin màu mỡ rộng khoảng 24 000 km².
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2.c): hệ thống sông quan trọng bậc nhất cung cấp nguồn nước và phù sa cho vùng Đông Bắc Phi.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.c), tr. 130
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.c), tr. 130; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.b), tr. 130; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 130
 
 ### Nile River civilization
 - **Tiếng Việt:** Nền văn minh sông Nin
@@ -4976,7 +5421,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A brilliant ancient civilization built by the Egyptians around 3000 BCE along the Nile River basin. It left valuable human heritage including hieroglyphic writing, geometric area calculations, papyrus paper, and architectural monuments such as the pyramids and the Sphinx.
 - **Giải thích (VI):** Nền văn minh cổ đại rực rỡ do cư dân Ai Cập kiến tạo vào khoảng 3 000 năm trước Công nguyên dọc lưu vực sông Nin. Nền văn minh này để lại nhiều di sản nhân loại giá trị như chữ viết tượng hình, phép tính diện tích các hình học, giấy pa-pi-rút cùng hệ thống kim tự tháp và tượng nhân sư.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 2): di sản lịch sử cổ đại tiêu biểu bậc nhất của châu Phi tại vùng Đông Bắc Phi.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 134
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 134; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1.c), tr. 134
 
 ### nomadic pastoralism
 - **Tiếng Việt:** Chăn nuôi du mục
@@ -4984,7 +5429,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A form of livestock raising adapted to scarce water and pasture in arid regions, in which herders regularly move their flocks and herds (such as goats and camels) from place to place in search of forage and water.
 - **Giải thích (VI):** Hình thức chăn nuôi thích nghi với điều kiện khan hiếm nước và đồng cỏ ở vùng khô hạn, trong đó người dân thường xuyên di chuyển đàn gia súc (như dê, lạc đà) từ nơi này đến nơi khác để tìm kiếm nguồn thức ăn và nước uống.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 3): phương thức kinh tế cổ truyền thích ứng với môi trường hoang mạc khắc nghiệt ở châu Phi.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 136; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 136, 137
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 136; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 136, 137; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 136
 
 ### non-metallic minerals
 - **Tiếng Việt:** Khoáng sản phi kim loại
@@ -5030,6 +5475,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 12, Bài 25 (Mục I.1): Vị trí địa lí và phạm vi lãnh thổ của Bắc Trung Bộ.
   - *Lưu ý:* Theo Nghị quyết số 81/2023/QH15 về Quy hoạch tổng thể quốc gia thời kì 2021 – 2030, Bắc Trung Bộ là một bộ phận lãnh thổ hợp thành vùng kinh tế Bắc Trung Bộ và Duyên hải miền Trung.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B25, tr. 110; SGK Địa lí 12 KNTT, Phần 4, B25 (Mục I.1), tr. 110; SGK Địa lí 12 KNTT, Phần 4, B25 (Mục I.2), tr. 110
+
+### North Central Region
+- **Tiếng Việt:** Vùng Bắc Trung Bộ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Socio-economic region covering approximately 51.2 thousand km² (15.5% of Vietnam's total area in 2024), comprising Hue City and the provinces of Thanh Hoa, Nghe An, Ha Tinh, and Quang Tri. Bordering the Northern Midlands and Mountainous Region, Red River Delta, South Central Coast and Central Highlands, Laos, and an extensive sea with nearshore islands (Hon Me, Hon Ngu, Con Co), it serves as an economic-cultural bridge favorable for integrated marine economic development.
+- **Giải thích (VI):** Vùng kinh tế – xã hội có diện tích khoảng 51,2 nghìn km² (chiếm 15,5% diện tích cả nước năm 2024), gồm thành phố Huế và các tỉnh Thanh Hoá, Nghệ An, Hà Tĩnh, Quảng Trị. Vùng giáp Trung du và miền núi phía Bắc, Đồng bằng sông Hồng, Duyên hải Nam Trung Bộ và Tây Nguyên, nước Lào và mở ra vùng biển rộng có nhiều đảo ven bờ (hòn Mê, hòn Ngư, Cồn Cỏ), giữ vai trò cầu nối giao lưu kinh tế – văn hoá và thuận lợi phát triển tổng hợp kinh tế biển.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 14 (Mục 1): Lãnh thổ chuyển tiếp hẹp ngang giữ vai trò cầu nối Bắc – Nam và cửa ngõ thông ra biển trên trục Đông – Tây.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B14, tr. 176; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B14 (Mục 1), tr. 176; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B14 (Mục 2), tr. 176, 177
 
 ### Northeast monsoon
 - **Tiếng Việt:** Gió mùa Đông Bắc
@@ -5095,13 +5548,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 12, Bài 32 (Mục II.1): Quá trình hình thành, nguồn lực và thực trạng phát triển của Vùng kinh tế trọng điểm Bắc Bộ.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B32, tr. 155; SGK Địa lí 12 KNTT, Phần 4, B32 (Mục I), tr. 155; SGK Địa lí 12 KNTT, Phần 4, B32 (Mục II.1.a), tr. 155
 
+### Northern Midlands and Mountainous Region
+- **Tiếng Việt:** Vùng Trung du và miền núi phía Bắc
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Socio-economic region in northern Vietnam covering approximately 92.5 thousand km² (27.9% of the national area in 2024), comprising nine provinces: Cao Bang, Tuyen Quang, Lao Cai, Thai Nguyen, Lang Son, Phu Tho, Dien Bien, Lai Chau, and Son La. Bordering the Red River Delta, North Central Region, China, and Laos with major international border gates, the region holds strategic significance for cross-border trade, national defense, and security.
+- **Giải thích (VI):** Vùng kinh tế – xã hội ở phía bắc Việt Nam có diện tích khoảng 92,5 nghìn km² (chiếm 27,9% diện tích cả nước năm 2024), gồm 9 tỉnh: Cao Bằng, Tuyên Quang, Lào Cai, Thái Nguyên, Lạng Sơn, Phú Thọ, Điện Biên, Lai Châu và Sơn La. Vùng tiếp giáp Đồng bằng sông Hồng, Bắc Trung Bộ cùng hai nước Trung Quốc và Lào, có nhiều cửa khẩu quốc tế và vị trí chiến lược về giao thương, quốc phòng, an ninh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 12 (Mục 1): Một trong sáu vùng kinh tế – xã hội của Việt Nam theo Nghị quyết số 252/2025/QH15 của Quốc hội.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B12, tr. 158; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B12 (Mục 1), tr. 158; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B12 (Mục 2.a), tr. 159
+
 ### Northern Midlands and Mountains
 - **Tiếng Việt:** Trung du và miền núi Bắc Bộ (Trung du và miền núi phía Bắc)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A socio-economic region in northern Vietnam comprising 14 provinces covering 95.2 thousand km² (in 2021), bordering China, Laos, the Red River Delta, and the North Central and Central Coastal region. Holding strategic significance for national defense and cross-border trade through numerous international border gates, the region is rich in natural resources and cultural identity.
 - **Giải thích (VI):** Vùng kinh tế – xã hội nằm ở phía bắc Việt Nam bao gồm 14 tỉnh với diện tích 95,2 nghìn km² (năm 2021), tiếp giáp Trung Quốc, Lào, Đồng bằng sông Hồng và vùng Bắc Trung Bộ và Duyên hải miền Trung. Vùng có vị trí đặc biệt quan trọng về quốc phòng an ninh, có nhiều cửa khẩu quốc tế thông thương với các nước láng giềng và giàu tài nguyên thiên nhiên, bản sắc văn hoá.
 - **Bối cảnh:** Địa lí lớp 12, Bài 23 (Mục I.1): vị trí địa lí, phạm vi lãnh thổ và thế mạnh kinh tế đặc trưng của vùng Trung du và miền núi Bắc Bộ.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B23, tr. 96; SGK Địa lí 12 KNTT, Phần 4, B23 (Mục I.1), tr. 96
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B23, tr. 96; SGK Địa lí 12 KNTT, Phần 4, B23 (Mục I.1), tr. 96; SGK Địa lí 12 KNTT, Phần 4, B23 (Mục I.2), tr. 96
 
 ### northern territorial part of Vietnam
 - **Tiếng Việt:** Phần lãnh thổ phía Bắc
@@ -5161,7 +5622,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A fertile spot in an arid desert where water emerges at the surface, enabling human settlement and small-scale cultivation of fruit trees (date palms, oranges, lemons) and food crops (barley).
 - **Giải thích (VI):** Khu vực có nguồn nước lộ ra giữa vùng hoang mạc khô hạn, tạo điều kiện hình thành điểm cư trú và canh tác các loại cây ăn quả (chà là, cam, chanh) cùng cây lương thực (lúa mạch) trên những diện tích nhỏ.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 3): không gian sinh sống và sản xuất nông nghiệp tập trung của cư dân trong môi trường hoang mạc châu Phi.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 136; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 136, 137
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 136; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 3), tr. 136, 137; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 2), tr. 136
 
 ### objectives of ASEAN
 - **Tiếng Việt:** Mục tiêu của ASEAN
@@ -5169,7 +5630,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The cooperative goals of the Association of Southeast Asian Nations originally set forth in the Bangkok Declaration (1967) and reaffirmed and expanded in the ASEAN Charter (effective in 2008). Core objectives include promoting economic growth, social progress, and cultural development while narrowing the development gap among members, alongside maintaining regional peace, stability, and a zone free of nuclear and mass-destruction weapons.
 - **Giải thích (VI):** Định hướng hợp tác của Hiệp hội các quốc gia Đông Nam Á được xác lập trong Tuyên bố Băng Cốc (1967) và hoàn thiện, bổ sung trong Hiến chương ASEAN (có hiệu lực năm 2008). Các mục tiêu trọng tâm bao gồm thúc đẩy tăng trưởng kinh tế, tiến bộ xã hội, phát triển văn hoá gắn với thu hẹp khoảng cách phát triển giữa các thành viên, đồng thời bảo đảm hoà bình, ổn định và duy trì khu vực không có vũ khí hạt nhân hay vũ khí huỷ diệt hàng loạt.
 - **Bối cảnh:** Địa lí lớp 11, Bài 13 (Mục I.1): Nêu các mục tiêu cốt lõi của ASEAN theo Hiến chương ASEAN và đối sánh với mục tiêu của EU.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục I.1), tr. 61, 62
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục I.1), tr. 61, 62; SGK Địa lí 11 KNTT, Phần hai, B13, tr. 61; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục I), tr. 61; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục I.1), tr. 61
 
 ### objectives of the European Union
 - **Tiếng Việt:** Mục tiêu của Liên minh châu Âu
@@ -5177,7 +5638,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The integration goals of the European Union established under the Maastricht Treaty (1993) across three pillars—economic, political, and judicial—to build an economic and monetary union with a single currency, a common foreign and security policy, and cooperation in justice and home affairs. Under the Treaty of Lisbon (2009), these objectives were updated toward building a free, democratic, and sustainably developed region that actively contributes to global peace and security.
 - **Giải thích (VI):** Định hướng liên kết của Liên minh châu Âu được xác lập qua Hiệp ước Ma-xtrích (1993) dựa trên ba trụ cột kinh tế, chính trị và tư pháp nhằm xây dựng liên minh kinh tế – tiền tệ có đồng tiền chung, chính sách đối ngoại – an ninh chung và hợp tác tư pháp, nội vụ. Theo Hiệp ước Li-xbon (2009), các mục tiêu được điều chỉnh hướng tới xây dựng một khu vực tự do, dân chủ, phát triển bền vững và đóng góp tích cực cho hoà bình, an ninh toàn cầu.
 - **Bối cảnh:** Địa lí lớp 11, Bài 9 (Mục I.2): Xác định mục tiêu thành lập và phát triển của Liên minh châu Âu theo Hiệp ước Ma-xtrích và Hiệp ước Li-xbon.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.2), tr. 38, 39
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.2), tr. 38, 39; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.1), tr. 38; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.2), tr. 38
 
 ### ocean current
 - **Tiếng Việt:** Dòng biển
@@ -5228,7 +5689,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An extractive industry tapping deep underground crude oil and natural gas deposits through deep-drilling technology to supply primary energy, chemical and pharmaceutical feedstocks, and major foreign-exchange exports. Extraction concentrates in the United States, Russia, and Southwest Asia (Saudi Arabia, Iraq, Iran, Qatar), exerting strong impacts on both the global economy and climate change.
 - **Giải thích (VI):** Ngành công nghiệp khai thác dầu mỏ và khí tự nhiên nằm sâu trong lòng đất bằng kĩ thuật khoan sâu nhằm cung cấp nguồn năng lượng cơ bản, nguyên liệu sản xuất hoá phẩm, dược phẩm và nguồn hàng xuất khẩu thu ngoại tệ lớn. Hoạt động khai thác tập trung tại Hoa Kỳ, Liên bang Nga, khu vực Tây Nam Á (A-rập Xê-út, I-rắc, I-ran, Ca-ta) và có ảnh hưởng mạnh tới kinh tế toàn cầu cũng như biến đổi khí hậu.
 - **Bối cảnh:** Địa lí lớp 10, Bài 29 (Mục 1.b): vai trò, đặc điểm kĩ thuật và sự phân bố ngành khai thác dầu mỏ, khí tự nhiên.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 1.b), tr. 81; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 1.c), tr. 82
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 1.b), tr. 81; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 1.c), tr. 82; SGK Địa lí 10 KNTT, Phần ba, B29, tr. 81; SGK Địa lí 10 KNTT, Phần ba, B29 (Mục 1.a), tr. 81
 
 ### oil and natural gas extraction industry
 - **Tiếng Việt:** Công nghiệp khai thác dầu mỏ, khí tự nhiên (Công nghiệp dầu khí)
@@ -5236,7 +5697,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An energy extractive industry applying advanced technologies (basement-rock oil extraction, deep cryogenic gas processing, and natural gas compression) alongside deep-processing orientations to safeguard national energy security. In Vietnam, crude oil is extracted mainly on the southern continental shelf (Bach Ho, Rong, Rang Dong, and Hong Ngoc fields) while natural gas comes primarily from the Cuu Long, Nam Con Son, and Malay – Tho Chu basins.
 - **Giải thích (VI):** Ngành công nghiệp khai khoáng năng lượng ứng dụng nhiều công nghệ tiên tiến (khai thác dầu trong đá móng, làm lạnh sâu dòng khí nguyên liệu, nén khí thiên nhiên) gắn với định hướng chế biến sâu nhằm bảo đảm nguồn năng lượng quốc gia. Ở Việt Nam, dầu thô được khai thác chủ yếu ở thềm lục địa phía nam (các mỏ Rồng, Bạch Hổ, Rạng Đông, Hồng Ngọc) và khí tự nhiên tập trung tại các bể Cửu Long, Nam Côn Sơn, Thổ Chu – Malay – Thổ Chu.
 - **Bối cảnh:** Địa lí lớp 12, Bài 16 (Mục I.2): đặc điểm công nghệ, tình hình phát triển và phân bố ngành dầu khí ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B16 (Mục I.2), tr. 71
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B16 (Mục I.2), tr. 71; SGK Địa lí 12 KNTT, Phần 3, B16 (Mục II), tr. 71, 72
+
+### oil reservoir
+- **Tiếng Việt:** Mỏ dầu
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A subsurface geological formation where petroleum naturally accumulates, typically stratified from top to bottom into three layers: an upper associated gas cap, a middle layer of liquid oil containing dissolved gas, and a bottom layer of brine.
+- **Giải thích (VI):** Khu vực địa chất trong lòng đất nơi dầu mỏ tập trung tự nhiên, thường phân tách thành ba lớp từ trên xuống dưới gồm: lớp khí mỏ dầu ở trên cùng, lớp dầu lỏng có hoà tan khí ở giữa và lớp nước mặn ở dưới đáy.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 9, Bài 25 (Mục I.1): mô tả cấu trúc phân tầng tự nhiên phục vụ việc khoan khai thác dầu thô và khí đồng hành.
+  - *Lưu ý:* Phân biệt với dầu mỏ (chất lỏng nhiên liệu hoá thạch chứa các hydrocarbon).
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 07, B25, tr. 114; SGK Khoa học tự nhiên 9 KNTT, Chương 07, B25 (Mục I.1), tr. 114; SGK Khoa học tự nhiên 9 KNTT, Chương 07, B25 (Mục I.1), tr. 115
 
 ### old alluvial terrace
 - **Tiếng Việt:** Thềm phù sa cổ
@@ -5286,15 +5757,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The organizational and operational framework of ASEAN governed by the core principles of non-interference in internal affairs, consultation, and consensus-based decision-making. Coordination is carried out through key institutional bodies including the ASEAN Summit (the supreme policy-making body), the ASEAN Coordinating Council, the ASEAN Community Councils, and ASEAN Sectoral Ministerial Bodies.
 - **Giải thích (VI):** Phương thức tổ chức và vận hành của ASEAN dựa trên nguyên tắc chủ đạo là không can thiệp vào công việc nội bộ, tham vấn và ra quyết định bằng đồng thuận. Bộ máy phối hợp hoạt động thông qua hệ thống cơ quan gồm Hội nghị Cấp cao ASEAN (cơ quan hoạch định chính sách cao nhất), Hội đồng Điều phối ASEAN, các Hội đồng Cộng đồng ASEAN và các cơ quan chuyên ngành cấp Bộ trưởng.
 - **Bối cảnh:** Địa lí lớp 11, Bài 13 (Mục I.2): Trình bày nguyên tắc đồng thuận, không can thiệp và chức năng các cơ quan trong bộ máy ASEAN.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục I.2), tr. 62
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục I.2), tr. 62; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục I.1), tr. 62
+
+### organic agriculture
+- **Tiếng Việt:** Nông nghiệp hữu cơ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** An agricultural production method that comprehensively utilizes naturally available factors—such as soil fertility, adapted indigenous genetic resources and crop varieties, rational water and seasonal management, and organic fertilizers—to minimize toxic chemicals harmful to crops and living environments, including synthetic fertilizers, pesticides, herbicides, growth stimulants, and chemical preservatives.
+- **Giải thích (VI):** Phương thức sản xuất nông nghiệp khai thác tổng hợp các yếu tố tự nhiên sẵn có như độ phì của đất, nguồn gen và giống cây trồng bản địa thích nghi, nguồn nước, thời vụ và phân hữu cơ nhằm hạn chế tối đa các hoá chất gây độc hại cho cây trồng và môi trường sống như phân hoá học, thuốc trừ sâu, thuốc diệt cỏ, chất kích thích tăng trưởng và hoá chất bảo quản.
+- **Bối cảnh:** Giáo dục Kinh tế và Pháp luật lớp 8, Bài 5 (Mục 3): giải pháp canh tác bền vững góp phần bảo vệ tài nguyên đất, nguồn nước và môi trường sinh thái.
+- **Nguồn:** SGK GDCD 8 KNTT, B5 (Mục 3), tr. 31; SGK GDCD 8 KNTT, B5 (Mục 4), tr. 31, 32; SGK GDCD 8 KNTT, B5 (Mục 4), tr. 31
 
 ### Organization of the Petroleum Exporting Countries
-- **Tiếng Việt:** Tổ chức các nước xuất khẩu dầu mỏ (OPEC)
+- **Tiếng Việt:** Tổ chức các nước xuất khẩu dầu mỏ (OPEC; Các nước OPEC; nước OPEC)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** An international organization of oil-producing nations founded in 1960 with founding participation from Southwest Asian states including Iran, Iraq, Saudi Arabia, and Kuwait to coordinate petroleum sales policies. It wields major influence in global trade by adjusting production quotas and regulating world oil prices.
 - **Giải thích (VI):** Tổ chức quốc tế của các quốc gia sản xuất dầu mỏ thành lập năm 1960 với sự tham gia sáng lập của các nước Tây Nam Á như I-ran, I-rắc, A-rập Xê-út, Cô-oét nhằm điều phối chính sách bán các sản phẩm xăng dầu. Tổ chức này có vai trò lớn trong thương mại quốc tế thông qua việc điều chỉnh hạn ngạch sản xuất và kiểm soát giá dầu trên thế giới.
-- **Bối cảnh:** Địa lí lớp 11, Bài 17 (Mục 4): Vai trò của các tổ chức xuất khẩu dầu mỏ đối với thị trường năng lượng Tây Nam Á và thế giới.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B17 (Mục 4), tr. 80
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: An intergovernmental group of nations with large crude oil reserves that coordinate with one another to regulate the global supply of petroleum. / VI: Nhóm các quốc gia có trữ lượng dầu mỏ lớn liên kết và phối hợp với nhau nhằm điều tiết lượng cung dầu mỏ ra thị trường toàn cầu.
+- **Bối cảnh:**
+  - Địa lí lớp 11, Bài 17 (Mục 4): Vai trò của các tổ chức xuất khẩu dầu mỏ đối với thị trường năng lượng Tây Nam Á và thế giới.
+  - Khoa học tự nhiên lớp 9, Bài 16 (Mục III): tìm hiểu vai trò của trữ lượng dầu mỏ và sự điều tiết nguồn cung năng lượng hoá thạch trên thế giới.
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B17 (Mục 4), tr. 80; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B16 (Mục III), tr. 79
 
 ### origin of the Earth
 - **Tiếng Việt:** Nguồn gốc hình thành Trái Đất
@@ -5303,6 +5785,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quá trình ra đời của Trái Đất cách đây khoảng 4,5 tỉ năm gắn liền với sự hình thành hệ Mặt Trời, khi khí và bụi chuyển động quanh Mặt Trời theo quỹ đạo hình elip dưới tác dụng của lực hấp dẫn rồi ngưng tụ dần thành các hành tinh. Vào cuối thời kì vật chất ngưng tụ, quá trình tăng nhiệt làm nóng chảy vật chất bên trong Trái Đất và sắp xếp thành các lớp.
 - **Bối cảnh:** Địa lí lớp 10, Bài 4 (Mục 1): Trình bày giả thuyết khoa học về quá trình ngưng tụ vật chất và phân lớp tạo nên Trái Đất.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B4, tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 1), tr. 15; SGK Địa lí 10 KNTT, Phần hai, B4 (Mục 2), tr. 15
+
+### overseas Vietnamese
+- **Tiếng Việt:** Người Việt Nam ở nước ngoài
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The community of Vietnamese people living, working, and studying outside Vietnam (exceeding 5 million in 2024), constituting an integral part of the Vietnamese national community that actively contributes to homeland construction and development.
+- **Giải thích (VI):** Cộng đồng người Việt sinh sống, làm việc và học tập bên ngoài lãnh thổ Việt Nam (hơn 5 triệu người năm 2024), cấu thành một bộ phận quan trọng của cộng đồng dân tộc Việt Nam và luôn hướng về xây dựng, phát triển quê hương, đất nước.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 1 (Mục 1.c): Khẳng định vị trí và vai trò đóng góp của cộng đồng người Việt ở nước ngoài đối với sự phát triển đất nước.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1.c), tr. 118; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.a), tr. 118; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.b), tr. 118
 
 ### ozone layer
 - **Tiếng Việt:** Lớp ô-dôn (Tầng ozone)
@@ -5313,7 +5803,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 6, Bài 15 (Mục 2): vai trò bảo vệ sự sống trên Trái Đất của tầng bình lưu.
   - Khoa học tự nhiên lớp 8, Bài 47 (Mục IV): Lớp khí quyển bảo vệ sinh vật khỏi bức xạ cực tím cần được bảo tồn trước các chất gây suy giảm tầng ozone (ODS).
-- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 143; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục IV), tr. 194
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 143; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục IV), tr. 194; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục III.1), tr. 194; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục III.2), tr. 194
 
 ### Pacific Ocean
 - **Tiếng Việt:** Thái Bình Dương
@@ -5329,7 +5819,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An artificial maritime waterway cut across the narrow Isthmus of Central America at the junction of North America and South America, providing a direct shipping link between the Atlantic and Pacific oceans.
 - **Giải thích (VI):** Tuyến giao thông đường biển nhân tạo được đào cắt ngang qua eo đất hẹp Trung Mỹ ở nơi tiếp giáp giữa lục địa Bắc Mỹ và lục địa Nam Mỹ, giúp kết nối hàng hải trực tiếp giữa Đại Tây Dương và Thái Bình Dương.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 1): ranh giới nhân tạo cắt ngang eo đất Trung Mỹ giữa Bắc Mỹ và Nam Mỹ.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 1), tr. 139; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 1), tr. 139, 140
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 1), tr. 139; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13 (Mục 1), tr. 139, 140; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B13, tr. 139
 
 ### papyrus paper
 - **Tiếng Việt:** Giấy pa-pi-rút
@@ -5337,7 +5827,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A writing material invented by the ancient Egyptians, crafted from the tough stalks of the papyrus reed growing along the Nile River basin.
 - **Giải thích (VI):** Vật liệu dùng để ghi chép do người Ai Cập cổ đại phát minh, chế tác từ loài cây lau sậy pa-pi-rút có độ dai cao mọc ven lưu vực sông Nin.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 10 (Mục 2): thành tựu văn hoá tiêu biểu của nền văn minh sông Nin ở Ai Cập cổ đại.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 134; SGK Lịch sử và Địa lí 7 KNTT, Bảng phiên âm, tr. 183
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 134; SGK Lịch sử và Địa lí 7 KNTT, Bảng phiên âm, tr. 183; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1.c), tr. 134
 
 ### parallel
 - **Tiếng Việt:** Vĩ tuyến
@@ -5365,8 +5855,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A state of tranquility, freedom, and happiness among people and among nations worldwide. At present, world peace remains threatened by numerous challenges including war, armed conflict, civil war, border and territorial disputes, poverty, and climate change.
 - **Giải thích (VI):** Sự bình yên, tự do và hạnh phúc trong quan hệ giữa con người và các quốc gia với nhau. Hiện nay, hoà bình thế giới vẫn đối mặt với nhiều mối đe doạ như chiến tranh, xung đột vũ trang, nội chiến, tranh chấp biên giới lãnh thổ, đói nghèo và biến đổi khí hậu.
-- **Bối cảnh:** Địa lí lớp 11, Bài 4 (Mục II.2): Khái niệm hoà bình và sự cần thiết phải chung tay bảo vệ hoà bình trên thế giới.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B4, tr. 14; SGK Địa lí 11 KNTT, Phần một, B4 (Mục I.1), tr. 14; SGK Địa lí 11 KNTT, Phần một, B4 (Mục II.1), tr. 16
+- **Giải thích khác (SGK GDCD 9):** EN: A social state free from war or armed conflict, in which people live in a safe and happy environment. / VI: Tình trạng xã hội không có chiến tranh hay xung đột vũ trang, trong đó con người được chung sống trong môi trường an toàn và hạnh phúc.
+- **Bối cảnh:**
+  - Địa lí lớp 11, Bài 4 (Mục II.2): Khái niệm hoà bình và sự cần thiết phải chung tay bảo vệ hoà bình trên thế giới.
+  - Giáo dục Kinh tế và Pháp luật lớp 9, Bài 5 (Mục 1): Khái niệm nền tảng đối lập với chiến tranh phi nghĩa và xung đột vũ trang trong đời sống quốc gia, quốc tế.
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B4, tr. 14; SGK Địa lí 11 KNTT, Phần một, B4 (Mục I.1), tr. 14; SGK Địa lí 11 KNTT, Phần một, B4 (Mục II.1), tr. 16; SGK GDCD 9 KNTT, B5, tr. 24; SGK GDCD 9 KNTT, B5 (Mục 1), tr. 25; SGK GDCD 9 KNTT, B5 (Mục 2), tr. 26; SGK GDCD 9 KNTT, B5 (Mục 2), tr. 27
 
 ### peneplain
 - **Tiếng Việt:** Bán bình nguyên
@@ -5422,7 +5915,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The low-lying, relatively flat terrain of Southwest Asia, represented primarily by the vast Mesopotamian Plain formed by alluvial deposits of the Tigris and Euphrates rivers alongside smaller coastal plains along the Persian Gulf and the Mediterranean Sea. Enriched with fertile alluvial soils, these plains provide favorable conditions for agriculture and human settlement in the region.
 - **Giải thích (VI):** Dạng địa hình thấp và tương đối bằng phẳng ở Tây Nam Á, tiêu biểu nhất là đồng bằng Lưỡng Hà rộng lớn do hai sông Ti-grơ và Ơ-phrát bồi đắp cùng các dải đồng bằng nhỏ ven vịnh Péc-xích và Địa Trung Hải. Nhờ lớp đất phù sa màu mỡ, các đồng bằng này là địa bàn thuận lợi cho sản xuất nông nghiệp và tập trung dân cư trong khu vực.
 - **Bối cảnh:** Địa lí lớp 11, Bài 15 (Mục II.1): Đối sánh điều kiện tự nhiên thuận lợi của vùng đồng bằng với vùng núi, sơn nguyên và hoang mạc ở Tây Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.1), tr. 68, 69
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.1), tr. 68, 69; SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.1), tr. 68
 
 ### planet in the Solar System
 - **Tiếng Việt:** Hành tinh trong hệ Mặt Trời
@@ -5495,7 +5988,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A map depicting the territorial division of Asia into 49 countries and territories across six geographical regions (Northern, Central, Western, Southern, Eastern, and Southeast Asia). These states have diverse political systems and uneven levels of development, with the majority being developing countries.
 - **Giải thích (VI):** Bản đồ thể hiện sự phân chia lãnh thổ châu Á gồm 49 quốc gia và vùng lãnh thổ thuộc sáu khu vực địa lí (Bắc Á, Trung Á, Tây Á, Nam Á, Đông Á và Đông Nam Á). Các quốc gia trên bản đồ có thể chế chính trị đa dạng và trình độ phát triển không đồng đều, trong đó phần lớn là các nước đang phát triển.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 7 (Mục 1): sự phân chia các quốc gia, vùng lãnh thổ và sáu khu vực địa lí – chính trị của châu Á.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 1), tr. 118; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 1), tr. 118, 119
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 1), tr. 118; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 1), tr. 118, 119; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7, tr. 118
 
 ### population (geography)
 - **Tiếng Việt:** Dân cư
@@ -5506,6 +5999,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 7, Bài 2 (Mục 1): tìm hiểu quy mô và đặc điểm dân cư châu Âu (khoảng 747 triệu người năm 2020, trình độ học vấn cao).
   - *Lưu ý:* Không nhầm với 'Quần thể' (`population`) trong Sinh học.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2, tr. 101
+
+### population ageing
+- **Tiếng Việt:** Già hoá dân số
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A stage of demographic age-structure transition defined when the population group aged 65 and older accounts for 7% to under 14% of the total population.
+- **Giải thích (VI):** Giai đoạn biến đổi cơ cấu dân số theo tuổi xác định khi tỉ lệ nhóm dân số từ 65 tuổi trở lên chiếm từ 7% đến dưới 14% tổng số dân.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 1 (Mục 2.b): Nhận diện xu hướng già hoá dân số ở Việt Nam và phân biệt với ngưỡng dân số già.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.b), tr. 118; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1.c), tr. 118; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.a), tr. 118
 
 ### population characteristics of Australia
 - **Tiếng Việt:** Đặc điểm dân cư Ô-xtrây-li-a
@@ -5527,7 +6028,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 27 (Mục 2): Công cụ định lượng để nhận xét và so sánh mức độ đông đúc hay thưa thớt dân cư trên bản đồ.
   - Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1.a, 2): chỉ tiêu đánh giá mức độ tập trung dân cư của châu Á (đạt 150 người/km² năm 2020, không tính phần lãnh thổ Liên bang Nga).
   - *Lưu ý:* Không nhầm với 'Mật độ cá thể' (`population density`) trong Sinh học.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.a), tr. 60; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27, tr. 180; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 1), tr. 180; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 2), tr. 180; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 115; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 2), tr. 116; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.a), tr. 60; SGK Địa lí 10 KNTT, Phần ba, B20, tr. 60; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.b), tr. 60; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27, tr. 180; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 1), tr. 180; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 2), tr. 180; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 115; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 2), tr. 116; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178
 
 ### population distribution
 - **Tiếng Việt:** Phân bố dân cư
@@ -5538,7 +6039,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 20 (Mục 1.a): Trình bày thực trạng phân bố dân cư không đồng đều giữa các khu vực trên thế giới.
   - Lịch sử và Địa lí lớp 6, Bài 27 (Mục 2): Giải thích tình trạng dân cư thế giới tập trung đông hoặc thưa thớt khác nhau giữa các khu vực.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20, tr. 60; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.a), tr. 60; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27, tr. 180; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 2), tr. 180
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20, tr. 60; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.a), tr. 60; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.b), tr. 60; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27, tr. 180; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 2), tr. 180
 
 ### population distribution and urbanization in Southwest Asia
 - **Tiếng Việt:** Phân bố dân cư và đô thị hoá khu vực Tây Nam Á
@@ -5570,7 +6071,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The spatial settlement pattern of the Republic of South Africa characterized by a low average population density (49 people/km² in 2020) and highly uneven distribution across regions. Population and urban centers are heavily concentrated in the northeast and along the eastern and southern coasts where mineral resources are abundant and natural conditions are favorable, whereas the interior desert and semi-desert areas remain sparsely inhabited.
 - **Giải thích (VI):** Đặc điểm không gian cư trú của Cộng hoà Nam Phi với mật độ dân số trung bình thấp (49 người/km² năm 2020) và sự phân bố rất không đồng đều giữa các vùng lãnh thổ. Dân cư và các đô thị tập trung đông ở vùng đông bắc cùng dải duyên hải phía đông, phía nam nơi giàu khoáng sản và có điều kiện tự nhiên thuận lợi, trong khi vùng hoang mạc và bán hoang mạc nội địa rất thưa thớt.
 - **Bối cảnh:** Địa lí lớp 11, Bài 30 (Mục III.1): Mật độ dân số và sự phân hoá không gian cư trú, đô thị ở Cộng hoà Nam Phi.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B30 (Mục III.1), tr. 156, 157
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B30 (Mục III.1), tr. 156, 157; SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.6), tr. 156; SGK Địa lí 11 KNTT, Phần hai, B30 (Mục III.1), tr. 156
 
 ### population distribution in Asia
 - **Tiếng Việt:** Phân bố dân cư châu Á
@@ -5580,13 +6081,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 6 (Mục 2): sự chênh lệch lớn về mật độ dân số và sự hình thành các đô thị trên 10 triệu dân giữa các khu vực của châu Á.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 2), tr. 116, 117; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 2), tr. 117
 
+### population distribution in the North Central Region
+- **Tiếng Việt:** Phân bố dân cư vùng Bắc Trung Bộ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Uneven settlement pattern of approximately 11.3 million residents in the North Central Region (density of 221 persons/km² and over 74% rural population in 2024), densely concentrated in the eastern coastal plains (mainly Kinh people) and sparser in the western hills and mountains (mainly ethnic minorities). Driven by migration, industrialization, and urbanization, population density in the western area is gradually increasing.
+- **Giải thích (VI):** Đặc điểm cư trú không đồng đều của khoảng 11,3 triệu dân vùng Bắc Trung Bộ (mật độ 221 người/km², dân nông thôn chiếm hơn 74% năm 2024), tập trung đông ở đồng bằng ven biển phía đông (chủ yếu người Kinh) và thưa thớt ở đồi núi phía tây (chủ yếu các dân tộc thiểu số). Dưới tác động của chuyển cư, công nghiệp hoá và đô thị hoá, mật độ dân số khu vực phía tây hiện có xu hướng tăng lên.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 14 (Mục 3): Sự phân hoá cư trú theo không gian đông – tây và nông thôn – thành thị gắn với điều kiện tự nhiên và trình độ phát triển kinh tế ở Bắc Trung Bộ.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B14 (Mục 2), tr. 178; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B14 (Mục 3), tr. 178; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B14 (Mục 3), tr. 178, 179
+
 ### population distribution in Vietnam
 - **Tiếng Việt:** Phân bố dân cư Việt Nam
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The spatial arrangement of Vietnam's population across its territory, marked by a high population density (297 persons/km² in 2021, five times the world average) and regional disparities. The population resides predominantly in rural areas at 62.9%, while urban areas account for 37.1% of the total population (in 2021).
 - **Giải thích (VI):** Sự sắp xếp dân số trên không gian lãnh thổ Việt Nam, đặc trưng bởi mật độ dân số cao (năm 2021 đạt 297 người/km², gấp 5 lần mức trung bình thế giới) và có sự chênh lệch giữa các vùng. Dân cư chủ yếu sinh sống ở nông thôn với tỉ lệ 62,9%, trong khi dân thành thị chiếm 37,1% tổng số dân (năm 2021).
-- **Bối cảnh:** Địa lí lớp 12, Bài 6 (Mục I.3): Trình bày mật độ dân số và đặc điểm phân bố dân cư giữa các vùng, giữa nông thôn và thành thị.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.2), tr. 33; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.3), tr. 33, 34; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.3), tr. 34
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The spatial arrangement of Vietnam's population, characterized by a high average density (306 people/km² in 2024) alongside sharp disparities between densely populated plains and coastal zones and sparsely settled midlands and mountains, as well as between rural and urban areas. Over recent decades, population distribution has shifted toward a more balanced pattern driven by urbanization and economic restructuring. / VI: Đặc điểm sắp xếp dân số theo không gian lãnh thổ của Việt Nam với mật độ trung bình cao (306 người/km² năm 2024) nhưng chênh lệch lớn giữa vùng đồng bằng, ven biển đông đúc với vùng trung du, miền núi thưa thớt, cũng như giữa nông thôn và thành thị. Trong những thập kỉ gần đây, phân bố dân cư nước ta đang biến chuyển theo hướng ngày càng hợp lí hơn gắn với đô thị hoá và chuyển dịch cơ cấu kinh tế.
+- **Bối cảnh:**
+  - Địa lí lớp 12, Bài 6 (Mục I.3): Trình bày mật độ dân số và đặc điểm phân bố dân cư giữa các vùng, giữa nông thôn và thành thị.
+  - Lịch sử và Địa lí lớp 9, Bài 2 (Mục 1): Phân tích sự chênh lệch mật độ dân số giữa các vùng lãnh thổ và xu hướng phân bố lại dân cư ở nước ta.
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.2), tr. 33; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.3), tr. 33, 34; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.3), tr. 34; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1), tr. 120, 121; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B2, tr. 120; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1), tr. 120
 
 ### population explosion
 - **Tiếng Việt:** Bùng nổ dân số
@@ -5628,7 +6140,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Southeast Asia's large population of 668.4 million people (about 8% of the world total in 2020), having an average density of 148 persons/km² with uneven distribution between coastal plains and uplands, and a rapidly rising urban population share of 49% (in 2020). While providing a large consumer market and attracting investment for economic growth, this demographic scale places considerable pressure on employment, urban infrastructure, environmental protection, and living standards.
 - **Giải thích (VI):** Cộng đồng dân cư đông đúc của Đông Nam Á đạt 668,4 triệu người (chiếm khoảng 8% dân số thế giới năm 2020), có mật độ trung bình 148 người/km² nhưng phân bố không đều giữa đồng bằng, ven biển với miền núi và có tỉ lệ dân thành thị đạt 49% (năm 2020) đang tăng nhanh. Quy mô dân số lớn tạo thị trường tiêu thụ rộng và thu hút đầu tư phát triển kinh tế, song đặt ra sức ép lớn về giải quyết việc làm, quá tải hạ tầng đô thị, bảo vệ môi trường và nâng cao chất lượng cuộc sống.
 - **Bối cảnh:** Địa lí lớp 11, Bài 11 (Mục III.1): Phân tích quy mô, phân bố dân cư, đô thị hoá và tác động đến phát triển kinh tế – xã hội Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11, tr. 46; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục III.1), tr. 49, 51
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11, tr. 46; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục III.1), tr. 49, 51; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.4), tr. 49; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.5), tr. 49; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.6), tr. 49
 
 ### population of Southwest Asia
 - **Tiếng Việt:** Dân cư khu vực Tây Nam Á
@@ -5644,7 +6156,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The demographic profile of Vietnam's Northern Midlands and Mountains, recording a population of 12.9 million, a natural increase rate of 1.05% above the national average (0.93%), and a low average density of 136 persons/km² (in 2021). Residents live predominantly in rural areas and comprise diverse ethnic groups such as the Kinh, Thai, Muong, H'Mong, Tay, Nung, and Dao.
 - **Giải thích (VI):** Đặc điểm dân cư vùng Trung du và miền núi Bắc Bộ với quy mô 12,9 triệu người, tỉ lệ tăng dân số tự nhiên là 1,05% cao hơn trung bình cả nước (0,93%) và mật độ dân số thấp, đạt 136 người/km² (năm 2021). Dân cư chủ yếu sinh sống ở nông thôn và có thành phần dân tộc đa dạng như Kinh, Thái, Mường, HMông, Tày, Nùng, Dao.
 - **Bối cảnh:** Địa lí lớp 12, Bài 23 (Mục I.2): đặc điểm quy mô, mật độ phân bố và cơ cấu dân tộc của vùng Trung du và miền núi Bắc Bộ.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B23 (Mục I.2), tr. 96
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B23 (Mục I.2), tr. 96; SGK Địa lí 12 KNTT, Phần 4, B23, tr. 96; SGK Địa lí 12 KNTT, Phần 4, B23 (Mục I.1), tr. 96
 
 ### population of the Republic of South Africa
 - **Tiếng Việt:** Dân cư Cộng hoà Nam Phi
@@ -5652,7 +6164,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The demographic scale and age structure of the Republic of South Africa, numbering 59.3 million people in 2020 (among the six most populous countries in Africa) with a relatively high but declining natural growth rate (from 1.6% in 2010 to 1.2% in 2020). A youthful population structure in which the 15–64 age group accounts for 65.0% (in 2020) provides an abundant labor force and a large consumer market.
 - **Giải thích (VI):** Quy mô và cơ cấu dân số của Cộng hoà Nam Phi với 59,3 triệu người năm 2020 (thuộc nhóm sáu quốc gia đông dân nhất châu Phi) và tỉ lệ tăng tự nhiên còn khá cao nhưng đang giảm dần (từ 1,6% năm 2010 xuống 1,2% năm 2020). Cơ cấu dân số trẻ với nhóm từ 15 đến 64 tuổi chiếm 65,0% (năm 2020) tạo nên nguồn lao động dồi dào và thị trường tiêu thụ rộng lớn.
 - **Bối cảnh:** Địa lí lớp 11, Bài 30 (Mục III.1): Quy mô, gia tăng tự nhiên và cơ cấu dân số theo tuổi của Cộng hoà Nam Phi.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B30 (Mục III.1), tr. 156
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B30 (Mục III.1), tr. 156; SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.6), tr. 156; SGK Địa lí 11 KNTT, Phần hai, B30 (Mục III.1), tr. 156, 157
 
 ### population of the Russian Federation
 - **Tiếng Việt:** Dân cư Liên bang Nga
@@ -5668,7 +6180,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A graphical chart illustrating the biological structure of a population distributed by age groups and sex. Globally, three characteristic shapes are recognized: triangular pyramids indicating a young population, bell-shaped pyramids indicating a transition from young to aging, and urn-shaped pyramids indicating an old population.
 - **Giải thích (VI):** Loại biểu đồ trực quan biểu hiện cơ cấu dân số sinh học của một lãnh thổ theo các nhóm tuổi và giới tính. Trên thế giới có ba dạng tháp đặc trưng gồm tháp hình tam giác phản ánh cơ cấu dân số trẻ, tháp hình quả chuông phản ánh dân số đang chuyển từ trẻ sang già và tháp hình chum phản ánh cơ cấu dân số già.
 - **Bối cảnh:** Địa lí lớp 10, Bài 19 (Mục 3.a): Nhận diện các dạng biểu đồ thể hiện cơ cấu dân số theo tuổi và giới tính.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 3.a), tr. 58
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 3.a), tr. 58; SGK Địa lí 10 KNTT, Phần ba, B19, tr. 55; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 1), tr. 55
+
+### population sex ratio
+- **Tiếng Việt:** Tỉ số giới tính của dân số
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A demographic indicator measuring the number of males per 100 females in a population, calculated by the formula $\text{Population sex ratio} = \frac{\text{Total males}}{\text{Total females}} \times 100$.
+- **Giải thích (VI):** Chỉ tiêu nhân khẩu học phản ánh số lượng nam giới tính trên 100 nữ giới trong một cộng đồng dân cư, xác định theo công thức $\text{Tỉ số giới tính của dân số} = \frac{\text{Tổng số nam}}{\text{Tổng số nữ}} \times 100$.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 1 (Mục 2.b): Đánh giá cơ cấu dân số theo giới tính của Việt Nam và phân biệt với tỉ số giới tính khi sinh.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.b), tr. 119
 
 ### population size (geography)
 - **Tiếng Việt:** Quy mô dân số
@@ -5680,7 +6200,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 10, Bài 19 (Mục 1): Trình bày khái niệm và biến động quy mô dân số thế giới giai đoạn 1950 – 2050.
   - Lịch sử và Địa lí lớp 6, Bài 27 (Mục 1, 3): Chỉ tiêu nhân khẩu học cơ bản để so sánh độ lớn dân số giữa các quốc gia, vùng lãnh thổ và đô thị.
   - *Lưu ý:* Không nhầm với 'Kích thước quần thể' (`population size`) trong Sinh học.
-- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 1), tr. 55; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 3), tr. 182
+- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 1), tr. 55; SGK Địa lí 10 KNTT, Phần ba, B19, tr. 55; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B27 (Mục 3), tr. 182
 
 ### population size and growth of China
 - **Tiếng Việt:** Quy mô và gia tăng dân số Trung Quốc
@@ -5695,8 +6215,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The demographic characteristic reflecting Vietnam's large total population and its growth trend over time. In 2021, Vietnam's population reached 98.5 million (ranking 3rd in Southeast Asia, 8th in Asia, and 15th worldwide), continuing to increase in total size while exhibiting a slowing growth rate.
 - **Giải thích (VI):** Đặc điểm nhân khẩu học phản ánh tổng số dân lớn và xu hướng biến động dân số của Việt Nam qua các thời kì. Năm 2021, Việt Nam có 98,5 triệu người (đứng thứ 3 Đông Nam Á, thứ 8 châu Á và thứ 15 thế giới), quy mô dân số tiếp tục tăng lên nhưng có xu hướng tăng chậm lại với tỉ lệ tăng dân số giảm dần.
-- **Bối cảnh:** Địa lí lớp 12, Bài 6 (Mục I.1): Trình bày quy mô dân số và xu hướng gia tăng dân số của Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 2, B6, tr. 32; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.1), tr. 32; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.2), tr. 32
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: Demographic characteristics showing Vietnam as a populous country with 101.3 million inhabitants in 2024, ranking sixteenth globally and third in Southeast Asia. Although the population growth rate has trended downward (to 1.03% in 2024), the large population base still adds roughly 1 million people annually. / VI: Đặc điểm nhân khẩu học phản ánh Việt Nam là quốc gia đông dân với 101,3 triệu người năm 2024, đứng thứ 16 trên thế giới và thứ ba ở Đông Nam Á. Mặc dù tỉ lệ tăng dân số có xu hướng giảm (đạt 1,03% năm 2024), quy mô dân số lớn khiến số dân nước ta vẫn tăng thêm khoảng 1 triệu người mỗi năm.
+- **Bối cảnh:**
+  - Địa lí lớp 12, Bài 6 (Mục I.1): Trình bày quy mô dân số và xu hướng gia tăng dân số của Việt Nam.
+  - Lịch sử và Địa lí lớp 9, Bài 1 (Mục 2.a): Phân tích quy mô dân số và xu hướng biến động tỉ lệ gia tăng dân số Việt Nam giai đoạn 1999 – 2024.
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 2, B6, tr. 32; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.1), tr. 32; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.2), tr. 32; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.a), tr. 118; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1.c), tr. 118; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2.b), tr. 118
 
 ### population size and structure of the United States
 - **Tiếng Việt:** Quy mô và cơ cấu dân số Hoa Kỳ
@@ -5723,7 +6246,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 19 (Mục 3): Khái niệm chung mở đầu nội dung phân tích các loại cơ cấu dân số.
   - Lịch sử và Địa lí lớp 7, Bài 2 (Mục 1): phân tích cơ cấu dân số theo nhóm tuổi và cơ cấu dân số theo giới tính ở châu Âu.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 3), tr. 57; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1), tr. 101
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 3), tr. 57; SGK Địa lí 10 KNTT, Phần ba, B19, tr. 55; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 2.d), tr. 57; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 1), tr. 101
 
 ### population structure by age
 - **Tiếng Việt:** Cơ cấu dân số theo tuổi
@@ -5773,7 +6296,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 10, Bài 19 (Mục 3.a): Phân tích cơ cấu sinh học của dân số theo tỉ lệ và tỉ số giới tính.
   - Địa lí lớp 12, Bài 6 (Mục I.2): Trình bày đặc điểm cơ cấu dân số theo giới tính ở Việt Nam.
   - *Lưu ý:* Phản ánh tỉ lệ giới tính của toàn bộ dân số, phân biệt với tỉ số giới tính khi sinh chỉ tính trên số trẻ sơ sinh được sinh ra trong năm.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 3.a), tr. 57; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 3.a), tr. 58; SGK Địa lí 12 KNTT, Phần 2, B6, tr. 32; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.1), tr. 32; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.2), tr. 32
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 3.a), tr. 57; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 3.a), tr. 58; SGK Địa lí 10 KNTT, Phần ba, B19, tr. 55; SGK Địa lí 10 KNTT, Phần ba, B19 (Mục 1), tr. 55; SGK Địa lí 12 KNTT, Phần 2, B6, tr. 32; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.1), tr. 32; SGK Địa lí 12 KNTT, Phần 2, B6 (Mục I.2), tr. 32
 
 ### population structure of China
 - **Tiếng Việt:** Cơ cấu dân số Trung Quốc
@@ -5783,13 +6306,29 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 26 (Mục III.1): phân tích cơ cấu dân số vàng và thách thức già hoá dân số của Trung Quốc.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B26 (Mục III.1), tr. 136; SGK Địa lí 11 KNTT, Phần hai, B26 (Mục III.1), tr. 136, 137
 
+### position and role of Hanoi Capital
+- **Tiếng Việt:** Vị thế của Thủ đô Hà Nội
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Status of Hanoi Capital as Vietnam's national political-administrative nerve center and a major hub for economy, culture, science, education, and international transactions. In 2024, Hanoi accounted for roughly 41% of the Red River Delta's GRDP and 12.4% of national GDP, ranking among the top localities in foreign direct investment and exports while driving regional and national growth.
+- **Giải thích (VI):** Vai trò trung tâm đầu não chính trị – hành chính quốc gia đồng thời là trung tâm lớn về kinh tế, văn hoá, khoa học, giáo dục và giao dịch quốc tế của Thủ đô Hà Nội. Năm 2024, Hà Nội đóng góp khoảng 41% GRDP vùng Đồng bằng sông Hồng và 12,4% GDP cả nước, đứng đầu về thu hút đầu tư nước ngoài và xuất khẩu, tạo sức lan toả thúc đẩy vùng và cả nước cùng phát triển.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 13 (Mục 4): Vai trò hạt nhân và động lực tăng trưởng của Thủ đô Hà Nội đối với vùng Đồng bằng sông Hồng và cả nước.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 3.c), tr. 170; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 4), tr. 170; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 5), tr. 170, 171
+
+### position and role of Ho Chi Minh City
+- **Tiếng Việt:** Vị thế của Thành phố Hồ Chí Minh
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Status of Ho Chi Minh City as a special municipality and Vietnam's largest megacity in area, population, and economic scale, serving as a premier national hub for economy, finance, trade, culture, science and technology, innovation, and education. In 2024, it generated approximately 74.4% of the Southeast Region's GRDP and 23.6% of national GDP, leading the country in foreign direct investment and driving regional and national growth.
+- **Giải thích (VI):** Vai trò đô thị đặc biệt và siêu đô thị có diện tích, dân số, quy mô kinh tế lớn nhất Việt Nam, đồng thời là trung tâm hàng đầu về kinh tế, tài chính, thương mại, văn hoá, khoa học – công nghệ, đổi mới sáng tạo và giáo dục – đào tạo. Năm 2024, Thành phố Hồ Chí Minh chiếm khoảng 74,4% GRDP vùng Đông Nam Bộ và 23,6% GDP cả nước, dẫn đầu về thu hút đầu tư nước ngoài và tạo sức lan toả thúc đẩy vùng cùng cả nước phát triển.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 17 (Mục 5): Vai trò hạt nhân kinh tế, tài chính, dịch vụ của Thành phố Hồ Chí Minh hướng tới tầm vóc đô thị lớn của châu Á.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B17 (Mục 4.d), tr. 203; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B17 (Mục 5), tr. 203
+
 ### position of the European Union in the world economy
 - **Tiếng Việt:** Vị thế của EU trong nền kinh tế thế giới
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The status of the European Union as a leading global economic center, reflected in its 2021 GDP of 17,177.4 billion USD (17.8% of the world total, ranking third after the United States and China) and high GDP per capita of 38,234 USD (3.1 times the global average). The EU also holds a premier position in global trade, international investment (8,651.9 billion USD in goods and services exports and the world's highest ODA at 19.0 billion USD in 2021), and finance and banking with major hubs such as Frankfurt, Paris, and Amsterdam.
 - **Giải thích (VI):** Vai trò trung tâm kinh tế hàng đầu thế giới của Liên minh châu Âu, thể hiện qua quy mô GDP năm 2021 đạt 17 177,4 tỉ USD (chiếm 17,8% toàn cầu, đứng thứ ba sau Hoa Kỳ và Trung Quốc) và GDP bình quân đầu người đạt 38 234 USD (gấp 3,1 lần mức trung bình thế giới). EU còn giữ vị thế hàng đầu về thương mại, đầu tư quốc tế (xuất khẩu hàng hoá và dịch vụ đạt 8 651,9 tỉ USD, viện trợ ODA cao nhất thế giới với 19,0 tỉ USD năm 2021) và tài chính ngân hàng với các trung tâm lớn như Phrăng-phuốc, Pa-ri, Am-xtéc-đam.
 - **Bối cảnh:** Địa lí lớp 11, Bài 9 (Mục II): Đánh giá sức mạnh kinh tế, thương mại, đầu tư và tài chính của EU so với các trung tâm kinh tế lớn trên thế giới.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục II.1), tr. 40; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục II.2), tr. 41
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục II.1), tr. 40; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục II.2), tr. 41; SGK Địa lí 11 KNTT, Phần hai, B9, tr. 37; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.3), tr. 40
 
 ### positive impacts of urbanization
 - **Tiếng Việt:** Ảnh hưởng tích cực của đô thị hoá
@@ -5805,7 +6344,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A fundamental service industry comprising two main branches: postal services (delivering letters, postal items, parcels, and goods) and telecommunications (sending, transmitting, receiving, and processing information among users). Its output is the conveyance of messages, parcels, and electronic data from sender to recipient, measured by service volume performed (such as kilograms of mail delivered or call minutes) and heavily dependent on scientific and technological progress.
 - **Giải thích (VI):** Ngành dịch vụ cơ bản bao gồm hai nhóm hoạt động chính là bưu chính (vận chuyển thư, bưu phẩm, bưu kiện, hàng hoá) và viễn thông (gửi, truyền, nhận, xử lí thông tin giữa các đối tượng sử dụng). Sản phẩm của ngành là sự vận chuyển tin tức, vật phẩm và truyền dẫn thông tin điện tử từ nơi gửi đến nơi nhận, được đo lường qua khối lượng dịch vụ thực hiện (như số ki-lô-gam thư chuyển, số phút đàm thoại) và phụ thuộc lớn vào trình độ khoa học – công nghệ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 35 (Mục 1.b): xác định cấu trúc hai phân ngành, sản phẩm và tiêu chí đánh giá ngành bưu chính viễn thông.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B35, tr. 98; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 1.b), tr. 98, 99
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B35, tr. 98; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 1.b), tr. 98, 99; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 1.a), tr. 98
+
+### postal and telecommunications services in Vietnam
+- **Tiếng Việt:** Bưu chính viễn thông ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Information and delivery service sector in Vietnam that promotes economic growth, improves living standards, and supports international integration, generating 397.3 trillion VND in revenue in 2024. Its network covers the entire country, with modern services concentrated in major urban hubs such as Hanoi, Da Nang, and Ho Chi Minh City.
+- **Giải thích (VI):** Ngành dịch vụ thông tin và chuyển phát ở Việt Nam giữ vai trò thúc đẩy tăng trưởng kinh tế, nâng cao đời sống người dân và hội nhập quốc tế, đạt doanh thu 397,3 nghìn tỉ đồng năm 2024. Mạng lưới của ngành phủ khắp cả nước, tập trung các dịch vụ hiện đại tại các đô thị lớn như Hà Nội, Đà Nẵng và Thành phố Hồ Chí Minh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 10 (Mục 2): Ngành dịch vụ hạ tầng thông tin gắn liền với quá trình chuyển đổi số quốc gia và kết nối mạng lưới quốc tế.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B10 (Mục 2.b), tr. 156
 
 ### postal service
 - **Tiếng Việt:** Bưu chính
@@ -5813,11 +6360,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A sub-sector of post and telecommunications responsible for accepting and delivering mail, postal items, parcels, goods, money transfers, and telegrams from sender to recipient through a network of post offices.
 - **Giải thích (VI):** Phân ngành thuộc lĩnh vực bưu chính viễn thông thực hiện chức năng nhận và vận chuyển thư tín, bưu phẩm, bưu kiện, hàng hoá, chuyển tiền và điện báo từ nơi gửi đến nơi nhận thông qua mạng lưới bưu cục.
 - **Giải thích khác (SGK Địa lí 12):** EN: A service industry handling the acceptance, transport, and delivery of mail and parcels through a nationwide network, shifting steadily from traditional operations to digital postal services built on modern information infrastructure. Postal operations increasingly integrate with banking, transport, and logistics, supporting the development of a digital economy and digital society. / VI: Ngành dịch vụ chuyển, nhận thư tín và bưu kiện có mạng lưới phân bố rộng khắp, đang từng bước chuyển từ dịch vụ truyền thống sang dịch vụ bưu chính số dựa trên hiện đại hoá hạ tầng thông tin và truyền thông. Hoạt động bưu chính hợp tác chặt chẽ với ngân hàng, logistics, vận tải và tạo cơ sở xây dựng kinh tế số, xã hội số.
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: Service of transporting and delivering letters, parcels, and packages through a postal network, excluding electronic transmission methods. Modern postal operations increasingly integrate digital technologies and coordinate closely with banking, logistics, and transport sectors. / VI: Dịch vụ vận chuyển và chuyển phát thư, gói, kiện hàng hoá thông qua mạng bưu chính, không bao gồm phương thức điện tử. Hoạt động bưu chính hiện nay từng bước tích hợp công nghệ số và liên kết chặt chẽ với các ngành tài chính ngân hàng, logistics và vận tải.
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 35 (Mục 1.b): phân biệt hoạt động vận chuyển bưu phẩm vật chất của bưu chính với truyền dẫn tín hiệu của viễn thông.
   - Địa lí lớp 12, Bài 20 (Mục II.1): xu hướng hiện đại hoá và phân bố mạng lưới dịch vụ bưu chính ở Việt Nam.
+  - Lịch sử và Địa lí lớp 9, Bài 10 (Mục 2): Phân ngành thuộc lĩnh vực bưu chính viễn thông, phân biệt với viễn thông truyền tải thông tin bằng phương tiện điện tử.
   - *Lưu ý:* Phân biệt với viễn thông (truyền dẫn tín hiệu âm thanh, hình ảnh, số liệu qua cáp hoặc sóng điện từ mà không vận chuyển vật phẩm hữu hình).
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 1.b), tr. 98, 99; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục II.1), tr. 87, 88
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 1.b), tr. 98, 99; SGK Địa lí 10 KNTT, Phần ba, B35, tr. 98; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 1.a), tr. 98; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục II.1), tr. 87, 88; SGK Địa lí 12 KNTT, Phần 3, B20, tr. 84; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I.5), tr. 87; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I.6), tr. 87; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B10 (Mục 2.b), tr. 156
 
 ### practical significance of azonality
 - **Tiếng Việt:** Ý nghĩa thực tiễn của quy luật phi địa đới
@@ -5825,7 +6374,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The role of azonal factors in differentiating heat and moisture regimes, determining the mineral and organic composition of soil and water, and enriching natural diversity within latitudinal zones. Such differentiation creates comparative advantages for socioeconomic and agricultural diversification, enabling the cultivation of subtropical and temperate crops in highlands or cold-winter areas within tropical latitudes.
 - **Giải thích (VI):** Vai trò của các nhân tố phi địa đới trong việc phân hoá chế độ nhiệt ẩm, quyết định thành phần khoáng chất của đất, nước, chất hữu cơ và làm tăng tính đa dạng của các đới thiên nhiên. Sự phân hoá này tạo lợi thế đa dạng hoá cơ cấu kinh tế – xã hội, đặc biệt là nông nghiệp khi cho phép phát triển cả cây trồng cận nhiệt và ôn đới ở các vùng núi cao hoặc vùng có mùa đông lạnh thuộc đới nhiệt đới.
 - **Bối cảnh:** Địa lí lớp 10, Bài 18 (Mục 2.c): Phân tích ý nghĩa thực tiễn của quy luật phi địa đới đối với sản xuất nông nghiệp và phát triển kinh tế – xã hội.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 2.c), tr. 54
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 2.c), tr. 54; SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 2.a), tr. 54; SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 2.b), tr. 54
 
 ### practical significance of latitudinal zonality
 - **Tiếng Việt:** Ý nghĩa thực tiễn của quy luật địa đới
@@ -5833,7 +6382,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The guiding role of latitudinal zonality in human production and daily life through the design of adaptation measures tailored to the specific natural conditions of each geographical zone. For example, in hot and humid tropical monsoon regions, machinery manufacturing applies tropicalization standards to prevent corrosion while healthcare prioritizes the prevention of tropical diseases.
 - **Giải thích (VI):** Vai trò định hướng đối với sản xuất và đời sống con người thông qua việc xây dựng các biện pháp thích ứng phù hợp với điều kiện tự nhiên đặc thù của từng đới thiên nhiên. Chẳng hạn ở miền khí hậu nhiệt đới gió mùa nóng ẩm, công nghiệp chế tạo máy móc cần áp dụng nguyên tắc nhiệt đới hoá để chống hoen rỉ và y tế cần chú trọng phòng chống các bệnh nhiệt đới.
 - **Bối cảnh:** Địa lí lớp 10, Bài 18 (Mục 1.c): Nêu ý nghĩa thực tiễn của quy luật địa đới đối với sản xuất và đời sống.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B18, tr. 53
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B18, tr. 53; SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 1.a), tr. 53; SGK Địa lí 10 KNTT, Phần hai, B18 (Mục 1.b), tr. 53
 
 ### practical significance of the law of unity and integrity
 - **Tiếng Việt:** Ý nghĩa thực tiễn của quy luật thống nhất và hoàn chỉnh của vỏ địa lí
@@ -5841,7 +6390,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The scientific basis enabling humans to forecast cascading changes across natural components when utilizing resources or modifying the environment. This law requires thorough, comprehensive research into all geographical characteristics of a territory prior to resource exploitation and rational environmental management.
 - **Giải thích (VI):** Cơ sở khoa học giúp con người dự báo trước những biến đổi dây chuyền của các thành phần tự nhiên khi tác động và khai thác tài nguyên. Quy luật này đòi hỏi phải nghiên cứu tỉ mỉ, toàn diện mọi đặc điểm địa lí của lãnh thổ trước khi sử dụng và cải tạo tự nhiên một cách hợp lí.
 - **Bối cảnh:** Địa lí lớp 10, Bài 17 (Mục 2.c): Vận dụng quy luật thống nhất và hoàn chỉnh vào khai thác, sử dụng và cải tạo tự nhiên.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 2), tr. 52
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 2), tr. 52; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 2.a), tr. 52; SGK Địa lí 10 KNTT, Phần hai, B17 (Mục 2.b), tr. 52
 
 ### precipitation
 - **Tiếng Việt:** Lượng mưa
@@ -5867,13 +6416,29 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 1 (Mục 1): mốc quy ước 0° để đánh số các kinh tuyến đông, kinh tuyến tây và tính kinh độ.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1, tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 1), tr. 102; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B1 (Mục 2), tr. 103
 
+### production forest
+- **Tiếng Việt:** Rừng sản xuất
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A forest category classified by land-use purpose whose primary function is supplying timber and other forest products for production and processing, accounting for over 53% of Vietnam's total forest area (in 2024).
+- **Giải thích (VI):** Loại rừng phân theo mục đích sử dụng có chức năng chủ yếu là cung cấp gỗ và các lâm sản phục vụ sản xuất, chế biến, chiếm hơn 53% tổng diện tích rừng của Việt Nam (năm 2024).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 6 (Mục 1.a): Phân biệt chức năng kinh tế của rừng sản xuất với rừng phòng hộ và rừng đặc dụng theo Luật Lâm nghiệp.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 136; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.b), tr. 137; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6, tr. 136; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 136, 137
+
+### protection forest
+- **Tiếng Việt:** Rừng phòng hộ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A forest category classified by land-use purpose whose primary functions are regulating water resources, breaking waves, stabilizing sand, and protecting the environment.
+- **Giải thích (VI):** Loại rừng phân theo mục đích sử dụng có chức năng chủ yếu là điều tiết nước, chắn sóng, chắn cát và bảo vệ môi trường.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 6 (Mục 1.a): Phân biệt vai trò bảo vệ môi trường của rừng phòng hộ với rừng sản xuất và rừng đặc dụng.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 136; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6, tr. 136; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 136, 137
+
 ### protection of Vietnam's marine and island environment
 - **Tiếng Việt:** Bảo vệ môi trường biển đảo Việt Nam
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** An integrated system of measures aimed at preventing and mitigating pollution and degradation in Vietnam's marine and island areas through environmental policies and legislation, technological monitoring and treatment, public awareness campaigns, and practical coastal ecosystem conservation activities.
 - **Giải thích (VI):** Hệ thống giải pháp tổng hợp nhằm ngăn ngừa, giảm thiểu ô nhiễm và suy thoái môi trường vùng biển đảo Việt Nam thông qua hoàn thiện cơ chế chính sách, pháp luật, ứng dụng khoa học công nghệ kiểm soát và xử lí môi trường, kết hợp tuyên truyền nâng cao nhận thức cộng đồng cùng các hoạt động thiết thực giữ gìn hệ sinh thái biển.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 12 (Mục 1.b): các nhóm giải pháp quản lí, khoa học công nghệ và hành động thiết thực giữ gìn môi trường biển đảo.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 1.b), tr. 155
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 1.b), tr. 155; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 2), tr. 155; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B12 (Mục 2), tr. 155, 156
 
 ### public services
 - **Tiếng Việt:** Dịch vụ công
@@ -5881,7 +6446,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A major branch of the service sector encompassing public administration, administrative procedures, and related social management activities. This service group provides essential intangible outputs that ensure smooth operations in production and community life.
 - **Giải thích (VI):** Nhóm ngành thuộc cơ cấu khu vực dịch vụ bao gồm các hoạt động hành chính công, giải quyết thủ tục hành chính và các hoạt động quản lí xã hội liên quan. Nhóm dịch vụ này tạo ra các sản phẩm phi vật chất thiết yếu nhằm bảo đảm sự vận hành thuận lợi của sản xuất và đời sống cộng đồng.
 - **Bối cảnh:** Địa lí lớp 10, Bài 33 (Mục 1): xác định các hoạt động hành chính công thuộc nhóm dịch vụ công trong cơ cấu dịch vụ.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 1), tr. 91
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 1), tr. 91; SGK Địa lí 10 KNTT, Phần ba, B33, tr. 91; SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 2), tr. 91
 
 ### race
 - **Tiếng Việt:** Chủng tộc
@@ -5889,7 +6454,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A human population or group historically formed within a specific territory, sharing inherited physical traits such as skin color, hair, and nose shape associated with their origin, living environment, and customs.
 - **Giải thích (VI):** Quần thể hoặc nhóm người hình thành trong lịch sử trên một lãnh thổ xác định, có chung một số đặc điểm ngoại hình mang tính di truyền như màu da, tóc, mũi gắn với nguồn gốc, môi trường sống và tập quán sinh hoạt.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1.a): phân chia các nhóm cư dân châu Á thuộc các chủng tộc Môn-gô-lô-it, Ơ-rô-pê-ô-it và Ô-xtra-lô-it.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 115; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 115; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 178
 
 ### racial composition and immigration in the United States
 - **Tiếng Việt:** Chủng tộc và nhập cư Hoa Kỳ
@@ -5905,7 +6470,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A transport mode originating in the early 19th century from the combination of steam locomotives and iron rails, now extensively modernized with elevated railways, subways, and high-speed trains. Its global network reached 1,321.9 thousand km in 2019, with the highest railway densities located in Europe and the Northeastern United States.
 - **Giải thích (VI):** Loại hình giao thông vận tải ra đời từ đầu thế kỉ XIX với sự kết hợp giữa đầu máy hơi nước và đường ray bằng sắt, nay hiện đại hoá mạnh mẽ với đường sắt trên cao, tàu điện ngầm và tàu siêu tốc. Tổng chiều dài mạng lưới thế giới đạt 1 321,9 nghìn km (năm 2019), phân bố với mật độ cao nhất tại châu Âu và vùng Đông Bắc Hoa Kỳ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 34 (Mục 3.b): trình bày lịch sử ra đời, xu hướng hiện đại hoá và phân bố mạng lưới đường sắt thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.b), tr. 95
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.b), tr. 95; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.a), tr. 94; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.a), tr. 95
 
 ### rain
 - **Tiếng Việt:** Mưa
@@ -5944,7 +6509,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 12, Bài 24 (Mục I): vị trí địa lí, phạm vi lãnh thổ và đặc điểm dân cư vùng Đồng bằng sông Hồng.
   - Lịch sử và Địa lí lớp 8, Bài 2 (Mục 2.b) và Chủ đề chung 1 (Mục 1.a): quy mô, nguồn gốc hình thành và đặc điểm địa hình đồng bằng châu thổ sông Hồng.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B24, tr. 103; SGK Địa lí 12 KNTT, Phần 4, B24 (Mục I.1), tr. 103; SGK Địa lí 12 KNTT, Phần 4, B24 (Mục I.2), tr. 103, 104; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1, tr. 157; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1.a), tr. 157; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1.a), tr. 157, 158; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.b), tr. 103; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.b), tr. 103, 104; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3.b), tr. 107
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B24, tr. 103; SGK Địa lí 12 KNTT, Phần 4, B24 (Mục I.1), tr. 103; SGK Địa lí 12 KNTT, Phần 4, B24 (Mục I.2), tr. 103, 104; SGK Địa lí 12 KNTT, Phần 4, B24 (Mục I.2), tr. 103; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1, tr. 157; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1.a), tr. 157; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1.a), tr. 157, 158; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.b), tr. 103; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2.b), tr. 103, 104; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 01, B2 (Mục 3.b), tr. 107
+
+### Red River Delta Region
+- **Tiếng Việt:** Vùng Đồng bằng sông Hồng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Socio-economic region covering approximately 23.94 thousand km² (7.2% of Vietnam's total area in 2024), comprising Hanoi Capital, Hai Phong City, and the provinces of Bac Ninh, Quang Ninh, Hung Yen, and Ninh Binh. Bordering the Northern Midlands and Mountainous Region, North Central Region, China, and the Gulf of Tonkin with numerous islands, it enjoys favorable conditions for domestic and international connectivity and trade.
+- **Giải thích (VI):** Vùng kinh tế – xã hội có diện tích khoảng 23,94 nghìn km² (chiếm 7,2% diện tích cả nước năm 2024), bao gồm Thủ đô Hà Nội, thành phố Hải Phòng và các tỉnh Bắc Ninh, Quảng Ninh, Hưng Yên, Ninh Bình. Vùng giáp Trung du và miền núi phía Bắc, Bắc Trung Bộ, Trung Quốc và mở ra vịnh Bắc Bộ với nhiều đảo lớn, thuận lợi cho kết nối, giao thương trong nước và quốc tế.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 13 (Mục 1): Địa bàn chiến lược có lịch sử khai thác lãnh thổ lâu đời, giữ vai trò đặc biệt quan trọng về chính trị, kinh tế, văn hoá và đối ngoại của Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13, tr. 166; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 1), tr. 166; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 2.a), tr. 167
 
 ### Red River flow regime
 - **Tiếng Việt:** Chế độ nước của sông Hồng
@@ -6019,7 +6592,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A three-part outline for writing a practical report on a notable historical event in the Republic of South Africa (such as its founding, the struggle against apartheid, or the election of its first Black president): an Introduction identifying the event and timeframe; a Main Body presenting the course of events, key figures, and supporting materials; and a Conclusion assessing the event's significance.
 - **Giải thích (VI):** Đề cương bố cục ba phần dùng để viết báo cáo thực hành về một sự kiện lịch sử tiêu biểu của Cộng hoà Nam Phi (như quá trình thành lập quốc gia, cuộc đấu tranh xoá bỏ chế độ A-pác-thai hay sự kiện bầu Tổng thống da màu đầu tiên): Mở đầu giới thiệu tên và thời gian sự kiện; Nội dung chính trình bày tiến trình, nhân vật và tư liệu liên quan; Kết luận đánh giá ý nghĩa của sự kiện.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 12 (Mục 2): hướng dẫn cấu trúc bài viết thực hành tìm hiểu khái quát về Cộng hoà Nam Phi.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B12 (Mục 1.a), tr. 138; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B12 (Mục 2), tr. 138
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B12 (Mục 1.a), tr. 138; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B12 (Mục 2), tr. 138; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B12 (Mục 1.b), tr. 138; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B12 (Mục 1.c), tr. 138
 
 ### report structure on Asian economies
 - **Tiếng Việt:** Cấu trúc báo cáo tìm hiểu kinh tế châu Á
@@ -6027,7 +6600,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A three-part outline for presenting a practical report on a representative Asian economy: an Introduction providing a general overview; a Main Body analyzing its development process, current status (total GDP, GDP per capita, export value, etc.), and causes using data and charts; and a Conclusion offering overall remarks and development lessons.
 - **Giải thích (VI):** Đề cương bố cục gồm ba phần dùng để trình bày báo cáo thực hành về một nền kinh tế tiêu biểu ở châu Á: Mở đầu giới thiệu khái quát nền kinh tế; Nội dung chính phân tích quá trình phát triển, hiện trạng (tổng GDP, GDP/người, giá trị xuất khẩu,...) và nguyên nhân qua tư liệu, số liệu, biểu đồ; Kết luận nêu nhận xét tổng quan cùng bài học kinh nghiệm.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 8 (Mục 2): hướng dẫn sắp xếp tư liệu và viết báo cáo thực hành về các nền kinh tế lớn, mới nổi ở châu Á.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B8 (Mục 1.c), tr. 126; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2), tr. 126
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B8 (Mục 1.c), tr. 126; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2), tr. 126; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B8 (Mục 1.a), tr. 126; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B8 (Mục 1.b), tr. 126
 
 ### report topics on a service industry
 - **Tiếng Việt:** Nội dung báo cáo tìm hiểu về một ngành dịch vụ
@@ -6053,10 +6626,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A relatively large, permanent natural watercourse flowing across the surface of continents and islands, fed by rainwater, groundwater, and meltwater from snow and ice.
 - **Giải thích (VI):** Dòng chảy thường xuyên và tương đối lớn trên bề mặt lục địa và đảo, nhận nguồn nước nuôi dưỡng từ nước mưa, nước ngầm và nước băng tuyết tan.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A natural watercourse flowing continuously across the Earth's surface, regularly replenished by rainwater, groundwater, and melting snow and ice. / VI: Dòng nước chảy thường xuyên trên bề mặt Trái Đất, được bổ sung nước liên tục từ các nguồn nước mưa, nước ngầm và nước băng tuyết tan.
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 11 (Mục 2.a): Định nghĩa khái niệm sông khi tìm hiểu các dạng nước trên lục địa.
   - Lịch sử và Địa lí lớp 6, Bài 20 (Mục 1.a): tìm hiểu khái niệm sông và các nguồn cung cấp nước cho sông ngòi.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B11, tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 1), tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.a), tr. 37; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20, tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158, 159
+  - Khoa học tự nhiên lớp 9, Bài 17 (Mục II.4): giới thiệu nguồn thuỷ văn tự nhiên cung cấp năng lượng từ dòng chảy cho các nhà máy thuỷ điện.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B11, tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 1), tr. 37; SGK Địa lí 10 KNTT, Phần hai, B11 (Mục 2.a), tr. 37; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20, tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 05, B20 (Mục 1.a), tr. 158, 159; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17, tr. 80; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục II), tr. 81; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục II.4), tr. 84
 
 ### river discharge
 - **Tiếng Việt:** Lưu lượng nước sông
@@ -6112,7 +6687,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An abundant hydrological system comprising a dense network of large rivers with seasonal flow regimes on the mainland (Mekong, Irrawaddy, Red, and Chao Phraya rivers), short water-rich rivers on the islands, and major natural lakes such as Tonle Sap, Toba, and Inle. These water bodies regulate runoff, supply freshwater for domestic use and production, and support fisheries, inland waterway transport, hydropower, and tourism.
 - **Giải thích (VI):** Hệ thống thuỷ văn phong phú gồm mạng lưới sông ngòi dày đặc, nhiều sông lớn có chế độ nước theo mùa ở phần lục địa (Mê Công, I-ra-oa-đi, sông Hồng, Mê Nam), các sông ngắn nhiều nước ở phần hải đảo và nhiều hồ tự nhiên lớn như Tôn-lê Sáp, Tô-ba, In-lê. Hệ thống này đóng vai trò điều tiết dòng chảy, cung cấp nước cho sinh hoạt và sản xuất, đồng thời tạo thuận lợi cho khai thác, nuôi trồng thuỷ sản, giao thông đường thuỷ, thuỷ điện và du lịch.
 - **Bối cảnh:** Địa lí lớp 11, Bài 11 (Mục II.3): Trình bày đặc điểm mạng lưới sông, hồ và giá trị kinh tế của tài nguyên nước ở Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.3), tr. 48
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.3), tr. 48; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.2), tr. 48; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.4), tr. 48
 
 ### rivers and lakes of Southwest Asia
 - **Tiếng Việt:** Sông, hồ khu vực Tây Nam Á
@@ -6120,7 +6695,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Southwest Asia's sparse and water-scarce hydrological network, largely originating in northern mountains and plateaus, with many rivers flowing only during the rainy season and causing chronic water shortages for production and daily life. Its two major rivers, the Tigris (1,900 km) and Euphrates (2,800 km), form fertile alluvial plains vital for agriculture and served as the cradle of ancient Mesopotamian civilization.
 - **Giải thích (VI):** Mạng lưới thuỷ văn thưa thớt và ít nước của Tây Nam Á, phần lớn bắt nguồn từ vùng núi và sơn nguyên phía bắc, trong đó nhiều sông chỉ có nước vào mùa mưa gây tình trạng thiếu nước cho sản xuất và sinh hoạt. Nổi bật nhất là hai con sông lớn Ti-grơ (dài 1 900 km) và Ơ-phrát (dài 2 800 km) bồi đắp nên đồng bằng màu mỡ cho nông nghiệp và gắn liền với nền văn minh Lưỡng Hà cổ đại.
 - **Bối cảnh:** Địa lí lớp 11, Bài 15 (Mục II.3): Trình bày đặc điểm mạng lưới sông ngòi, vai trò của hệ thống sông Ti-grơ – Ơ-phrát và thách thức an ninh nguồn nước ở Tây Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.3), tr. 69
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.3), tr. 69; SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.1), tr. 69; SGK Địa lí 11 KNTT, Phần hai, B15 (Mục II.2), tr. 69
 
 ### rivers and lakes of the Republic of South Africa
 - **Tiếng Việt:** Sông, hồ Cộng hoà Nam Phi
@@ -6128,7 +6703,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The hydrographic network of the Republic of South Africa consisting of numerous rivers that are predominantly short and steep. These rivers mainly originate in the interior plateaus and the Drakensberg mountains before flowing into the Indian and Atlantic Oceans.
 - **Giải thích (VI):** Mạng lưới thuỷ văn của Cộng hoà Nam Phi gồm nhiều sông nhưng phần lớn đều ngắn và dốc. Các sông chủ yếu bắt nguồn từ vùng cao nguyên nội địa và dãy núi Đrê-ken-béc rồi đổ ra Ấn Độ Dương và Đại Tây Dương.
 - **Bối cảnh:** Địa lí lớp 11, Bài 30 (Mục II.3): Đặc điểm hình thái và hướng chảy của mạng lưới sông ngòi ở Cộng hoà Nam Phi.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.3), tr. 154
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.3), tr. 154; SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.1), tr. 154; SGK Địa lí 11 KNTT, Phần hai, B30 (Mục II.2), tr. 154
 
 ### rivers and lakes of the United States
 - **Tiếng Việt:** Sông, hồ Hoa Kỳ
@@ -6152,7 +6727,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The two principal land transport modes in Vietnam, with road transport leading freight volume along backbone north–south arteries including National Highway 1, the Ho Chi Minh Road, and the North–South Expressway. Railway transport centers on the North–South (Reunification) line running nearly parallel to National Highway 1, complemented by northern regional lines and urban railways in Hanoi and Ho Chi Minh City.
 - **Giải thích (VI):** Hai loại hình vận tải đường bộ chủ chốt của Việt Nam, trong đó đường ô tô dẫn đầu về khối lượng hàng hoá vận chuyển với các trục xương sống bắc – nam gồm quốc lộ 1, đường Hồ Chí Minh và cao tốc Bắc – Nam. Vận tải đường sắt có tuyến dài và quan trọng nhất là đường sắt Bắc – Nam (Thống Nhất) chạy gần như song song với quốc lộ 1, cùng các tuyến phía bắc và đường sắt đô thị ở Hà Nội, Thành phố Hồ Chí Minh.
 - **Bối cảnh:** Địa lí lớp 12, Bài 20 (Mục I.1, I.2): đặc điểm phát triển và các tuyến trục giao thông đường bộ, đường sắt chính của Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I.1), tr. 84, 85; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I.2), tr. 85
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I.1), tr. 84, 85; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I.2), tr. 85; SGK Địa lí 12 KNTT, Phần 3, B20, tr. 84; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I), tr. 84
 
 ### road transport
 - **Tiếng Việt:** Đường ô tô
@@ -6160,7 +6735,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A land transport mode distinguished by high convenience, mobility, and flexible connectivity with other forms of transport. Globally, the road network has expanded steadily (reaching 38,016.5 thousand km in 2019, concentrated most heavily in the United States, China, India, Brazil, and Russia) while transitioning toward eco-friendly vehicles and smart mobility.
 - **Giải thích (VI):** Loại hình giao thông vận tải đường bộ có ưu thế nổi bật về sự tiện lợi, tính cơ động cao và khả năng kết nối linh hoạt với các loại hình vận tải khác. Trên thế giới, mạng lưới đường ô tô không ngừng mở rộng (đạt 38 016,5 nghìn km năm 2019, tập trung lớn nhất ở Hoa Kỳ, Trung Quốc, Ấn Độ, Bra-xin, Liên bang Nga) và đang chuyển hướng sang phương tiện thân thiện với môi trường cùng giao thông thông minh.
 - **Bối cảnh:** Địa lí lớp 10, Bài 34 (Mục 3.a): trình bày ưu thế, xu hướng phát triển và sự phân bố mạng lưới đường ô tô trên thế giới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.a), tr. 94; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.a), tr. 94, 95
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.a), tr. 94; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.a), tr. 94, 95; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 2), tr. 94
 
 ### rock
 - **Tiếng Việt:** Đá
@@ -6178,13 +6753,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 24 (Mục 2): Đánh giá giá trị sinh thái – kinh tế của rừng nhiệt đới và đề xuất hành động bảo vệ trước nguy cơ mất rừng.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 1), tr. 174; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 06, B24 (Mục 2), tr. 174
 
+### role of cities
+- **Tiếng Việt:** Vai trò của đô thị
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The central position of power and economic nucleus held by cities within a region, country, or wider area, driving production, job creation, and structural shifts in the economy and labour force. Cities also foster innovation, strengthen domestic and international connectivity and integration, diffuse socio-cultural values, and spearhead green growth and climate change response.
+- **Giải thích (VI):** Vị thế trung tâm quyền lực và hạt nhân kinh tế của đô thị đối với vùng, đất nước và khu vực, tạo động lực thúc đẩy sản xuất, việc làm và chuyển dịch cơ cấu kinh tế, lao động. Đô thị đồng thời thúc đẩy đổi mới sáng tạo, tăng cường liên kết hội nhập trong nước và quốc tế, lan toả văn hoá – xã hội và đi đầu trong tăng trưởng xanh, ứng phó biến đổi khí hậu.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 1 (Mục 1): Phân tích vị thế trung tâm quyền lực, kinh tế, đổi mới sáng tạo và tăng trưởng xanh của đô thị hiện đại.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1), tr. 221; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1, tr. 221; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.a), tr. 221, 222
+
 ### role of economic development resources
 - **Tiếng Việt:** Vai trò của nguồn lực phát triển kinh tế
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The distinct functions and influence exerted by different resource groups on economic development, varying across industries and developmental stages. Overall, internal resources play the decisive role in a territory's development, whereas external resources provide additional leverage to accelerate economic growth.
 - **Giải thích (VI):** Tác động và vị trí của từng nhóm nguồn lực đối với quá trình phát triển kinh tế, biến đổi tuỳ theo đặc thù từng ngành và từng giai đoạn lịch sử. Trong mối quan hệ chung, các nguồn lực bên trong giữ vai trò quyết định, còn các nguồn lực huy động từ bên ngoài tạo thêm sức mạnh thúc đẩy sự phát triển kinh tế của lãnh thổ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 21 (Mục 3): Đánh giá vai trò của nguồn lực bên trong và nguồn lực bên ngoài đối với phát triển kinh tế.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B21, tr. 63
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B21, tr. 63; SGK Địa lí 10 KNTT, Phần ba, B21 (Mục 1), tr. 63; SGK Địa lí 10 KNTT, Phần ba, B21 (Mục 2), tr. 63
 
 ### role of finance and banking
 - **Tiếng Việt:** Vai trò của tài chính ngân hàng
@@ -6192,7 +6775,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The lifeblood and growth-driving function of the finance and banking sector in providing financial services that sustain continuous investment and production, regulate output, and stabilize the economy. Concurrently, it establishes social financial relations, generates employment, boosts labor productivity, and accelerates global economic integration.
 - **Giải thích (VI):** Chức năng huyết mạch và động lực tăng trưởng của ngành tài chính ngân hàng trong việc cung ứng dịch vụ tài chính bảo đảm đầu tư, sản xuất diễn ra liên tục, điều tiết sản xuất và giữ ổn định nền kinh tế. Đồng thời, ngành giúp xác lập các quan hệ tài chính xã hội, tạo việc làm, nâng cao năng suất lao động và thúc đẩy quá trình toàn cầu hoá kinh tế thế giới.
 - **Bối cảnh:** Địa lí lớp 10, Bài 37 (Mục II.1.a): phân tích vị trí huyết mạch của tài chính ngân hàng đối với sản xuất, xã hội và toàn cầu hoá.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B37 (Mục II.1.a), tr. 105
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B37 (Mục II.1.a), tr. 105; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.3), tr. 105
 
 ### role of fisheries
 - **Tiếng Việt:** Vai trò của ngành thuỷ sản
@@ -6200,7 +6783,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The socio-economic and security significance of fisheries: making an increasingly large contribution to GDP while supplying easily digestible protein and trace elements for humans, raw materials for food, pharmaceutical, and animal feed industries, and export goods. Marine fishery operations also create employment and help safeguard national sovereignty and security.
 - **Giải thích (VI):** Tầm quan trọng của ngành thuỷ sản đối với kinh tế – xã hội và an ninh: đóng góp ngày càng lớn vào GDP, cung cấp nguồn đạm và nguyên tố vi lượng dễ hấp thụ cho con người, nguyên liệu cho công nghiệp thực phẩm, dược phẩm, thức ăn chăn nuôi và hàng xuất khẩu. Hoạt động thuỷ sản trên biển còn giải quyết việc làm và góp phần bảo vệ chủ quyền, an ninh quốc gia.
 - **Bối cảnh:** Địa lí lớp 10, Bài 25 (Mục 2.a): vai trò kinh tế, dinh dưỡng và bảo vệ chủ quyền biển đảo của ngành thuỷ sản.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 2.a), tr. 74
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 2.a), tr. 74; SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 1.c), tr. 74; SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 2.b), tr. 74
 
 ### role of forestry
 - **Tiếng Việt:** Vai trò của ngành lâm nghiệp
@@ -6208,7 +6791,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The comprehensive economic, social, and environmental significance of forestry: supplying timber, pulpwood, food, and medicinal materials while generating jobs and income for midland and mountainous communities. Simultaneously, this sector conserves biodiversity, prevents soil erosion, regulates soil moisture, mitigates climate change and natural disasters, and ensures sustainable development.
 - **Giải thích (VI):** Tầm quan trọng toàn diện của lâm nghiệp về kinh tế, xã hội và môi trường: cung cấp gỗ, nguyên liệu giấy, thực phẩm, dược liệu và tạo việc làm, thu nhập cho cư dân vùng trung du, miền núi. Ngành này đồng thời bảo tồn đa dạng sinh học, chống xói mòn, điều tiết nước trong đất, giảm nhẹ biến đổi khí hậu, thiên tai và bảo đảm phát triển bền vững.
 - **Bối cảnh:** Địa lí lớp 10, Bài 25 (Mục 1.a): ý nghĩa kinh tế – xã hội và chức năng phòng hộ môi trường của ngành lâm nghiệp.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 1.a), tr. 73
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 1.a), tr. 73; SGK Địa lí 10 KNTT, Phần ba, B25, tr. 73; SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 1.b), tr. 73
 
 ### role of geography in daily life
 - **Tiếng Việt:** Vai trò của Địa lí trong cuộc sống
@@ -6232,7 +6815,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The leading position of industry in the national economy: supplying means of production to drive economic growth and structural transformation while generating consumer goods, export commodities, employment, and income for the population. The sector also enables efficient natural resource utilization, reshapes economic space, and serves as a nucleus for regional development.
 - **Giải thích (VI):** Vị trí chủ đạo của ngành công nghiệp trong nền kinh tế quốc dân: cung cấp tư liệu sản xuất để thúc đẩy tăng trưởng và chuyển dịch cơ cấu kinh tế, đồng thời tạo ra hàng tiêu dùng, hàng xuất khẩu, việc làm và thu nhập cho dân cư. Ngành còn giúp khai thác hiệu quả tài nguyên thiên nhiên, làm biến đổi không gian kinh tế và đóng vai trò hạt nhân phát triển vùng.
 - **Bối cảnh:** Địa lí lớp 10, Bài 28 (Mục 1.a): vai trò chủ đạo của sản xuất công nghiệp đối với nền kinh tế và đời sống xã hội.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.a), tr. 79
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.a), tr. 79; SGK Địa lí 10 KNTT, Phần ba, B28, tr. 79; SGK Địa lí 10 KNTT, Phần ba, B28 (Mục 1.b), tr. 79
 
 ### role of natural resources
 - **Tiếng Việt:** Vai trò của tài nguyên thiên nhiên
@@ -6248,7 +6831,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The vital contribution of the post and telecommunications sector in supplying and transmitting information and delivering postal items, thereby raising labor productivity, modernizing economic organization, and generating high economic value. Furthermore, it facilitates interregional exchange, accelerates globalization and integration, streamlines public administration, and enriches cultural and spiritual life.
 - **Giải thích (VI):** Tầm quan trọng của ngành bưu chính viễn thông trong việc cung ứng, truyền tải thông tin và vận chuyển bưu phẩm giúp tăng năng suất lao động, đổi mới cách thức tổ chức nền kinh tế và tạo ra giá trị kinh tế cao. Bên cạnh đó, ngành còn bảo đảm giao lưu liên vùng, thúc đẩy hội nhập và toàn cầu hoá, hỗ trợ quản lí hành chính và nâng cao đời sống văn hoá, tinh thần của xã hội.
 - **Bối cảnh:** Địa lí lớp 10, Bài 35 (Mục 1.a): phân tích ý nghĩa kinh tế, quản lí hành chính và xã hội của ngành bưu chính viễn thông.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B35, tr. 98; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 1.a), tr. 98
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B35, tr. 98; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 1.a), tr. 98; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 1.b), tr. 98, 99
 
 ### role of seas and oceans
 - **Tiếng Việt:** Vai trò của biển và đại dương
@@ -6264,7 +6847,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The comprehensive contribution of the service sector in ensuring smooth and low-risk production and distribution, promoting the division of labor, industrialization, modernization, and raising both national and personal income. Additionally, services improve social living standards, support efficient natural resource use and environmental protection, and strengthen international integration.
 - **Giải thích (VI):** Tác động toàn diện của khu vực dịch vụ giúp hoạt động sản xuất và phân phối diễn ra thông suốt, giảm rủi ro, thúc đẩy phân công lao động, công nghiệp hoá, hiện đại hoá và tăng thu nhập quốc dân cũng như thu nhập cá nhân. Đồng thời, dịch vụ nâng cao chất lượng đời sống xã hội, hỗ trợ khai thác hiệu quả tài nguyên, bảo vệ môi trường và tăng cường hội nhập quốc tế.
 - **Bối cảnh:** Địa lí lớp 10, Bài 33 (Mục 2): phân tích ý nghĩa của ngành dịch vụ đối với phát triển kinh tế, xã hội, môi trường và hội nhập.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 2), tr. 91
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 2), tr. 91; SGK Địa lí 10 KNTT, Phần ba, B33, tr. 91; SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 1), tr. 91
 
 ### role of territorial organization of industry
 - **Tiếng Việt:** Vai trò của tổ chức lãnh thổ công nghiệp
@@ -6272,7 +6855,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The significance of rationally arranging industrial production space to effectively utilize natural conditions, natural resources, and socio-economic factors for optimal economic, social, and environmental outcomes. Simultaneously, this process mobilizes comprehensive national strengths and attracts external investment resources.
 - **Giải thích (VI):** Ý nghĩa của việc bố trí hợp lí không gian sản xuất công nghiệp nhằm sử dụng hiệu quả điều kiện tự nhiên, tài nguyên thiên nhiên và điều kiện kinh tế – xã hội để đạt hiệu quả tối ưu về kinh tế, xã hội và môi trường. Hoạt động này đồng thời giúp phát huy sức mạnh tổng hợp của đất nước và thu hút các nguồn lực đầu tư từ bên ngoài.
 - **Bối cảnh:** Địa lí lớp 10, Bài 30 (Mục 1): tác dụng của tổ chức lãnh thổ công nghiệp đối với khai thác nguồn lực và phát triển bền vững.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B30 (Mục 1), tr. 86
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B30 (Mục 1), tr. 86; SGK Địa lí 10 KNTT, Phần ba, B30, tr. 86; SGK Địa lí 10 KNTT, Phần ba, B30 (Mục 2), tr. 86
 
 ### role of the environment
 - **Tiếng Việt:** Vai trò của môi trường
@@ -6288,7 +6871,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The comprehensive impact of the service sector on the economy, society, and environment by contributing a major share of GDP (41.2% in 2021), enhancing commodity production efficiency, and strengthening intersectoral, interregional, and international connectivity. Services also spearhead national digital transformation, foster the digital and sharing economies, and improve living standards.
 - **Giải thích (VI):** Tác động toàn diện của khu vực dịch vụ đối với kinh tế, xã hội và môi trường thông qua việc chiếm tỉ trọng cao trong GDP (41,2% năm 2021), nâng cao hiệu quả các ngành sản xuất hàng hoá và tăng cường kết nối giữa các ngành, các vùng cũng như hội nhập quốc tế. Các ngành dịch vụ còn đi tiên phong trong chuyển đổi số quốc gia, hỗ trợ kinh tế chia sẻ, kinh tế số và góp phần nâng cao chất lượng cuộc sống.
 - **Bối cảnh:** Địa lí lớp 12, Bài 19 (Mục I): ý nghĩa kinh tế – xã hội và môi trường của khu vực dịch vụ đối với sự phát triển đất nước.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B19, tr. 81; SGK Địa lí 12 KNTT, Phần 3, B19 (Mục I), tr. 81
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B19, tr. 81; SGK Địa lí 12 KNTT, Phần 3, B19 (Mục I), tr. 81; SGK Địa lí 12 KNTT, Phần 3, B19 (Mục II.1), tr. 81
 
 ### role of tourism
 - **Tiếng Việt:** Vai trò của du lịch
@@ -6296,7 +6879,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The contribution of tourism to economic growth through efficiently utilizing national resources, generating substantial revenue (including foreign exchange), stimulating related industries, creating jobs, and raising local incomes. Culturally, socially, and diplomatically, tourism fulfills spiritual needs, restores human health, preserves cultural heritage and the environment, and fosters mutual understanding among nations and peoples.
 - **Giải thích (VI):** Đóng góp của ngành du lịch đối với kinh tế thể hiện qua việc khai thác hiệu quả nguồn lực quốc gia, tạo nguồn thu lớn (bao gồm ngoại tệ), thúc đẩy các ngành liên quan phát triển, tạo việc làm và tăng thu nhập cho người dân. Về văn hoá – xã hội và đối ngoại, du lịch đáp ứng nhu cầu tinh thần, bồi dưỡng sức khoẻ, góp phần bảo tồn giá trị văn hoá, bảo vệ môi trường và tăng cường hiểu biết, hữu nghị giữa các dân tộc, quốc gia.
 - **Bối cảnh:** Địa lí lớp 10, Bài 36 (Mục 1.a): phân tích lợi ích kinh tế, văn hoá – xã hội, môi trường và đối ngoại của hoạt động du lịch.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B36, tr. 101; SGK Địa lí 10 KNTT, Phần ba, B36 (Mục 1.a), tr. 101
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B36, tr. 101; SGK Địa lí 10 KNTT, Phần ba, B36 (Mục 1.a), tr. 101; SGK Địa lí 10 KNTT, Phần ba, B36 (Mục 1.b), tr. 101
 
 ### role of trade
 - **Tiếng Việt:** Vai trò của thương mại
@@ -6304,7 +6887,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The essential socio-economic function of trade in bridging production and consumption, regulating output, expanding commodity exchange, and stimulating production growth. At the same time, trade guides consumer behavior, shapes new consumption habits, and promotes the territorial division of labor both domestically and internationally.
 - **Giải thích (VI):** Chức năng kinh tế – xã hội thiết yếu của ngành thương mại với tư cách là cầu nối giữa sản xuất và tiêu dùng, giúp điều tiết sản xuất, mở rộng trao đổi hàng hoá và thúc đẩy sản xuất phát triển. Đồng thời, thương mại còn định hướng tiêu dùng, hình thành tập quán tiêu dùng mới và thúc đẩy phân công lao động theo lãnh thổ ở cả phạm vi quốc gia lẫn quốc tế.
 - **Bối cảnh:** Địa lí lớp 10, Bài 37 (Mục I.1.a): phân tích tác động điều tiết sản xuất, định hướng tiêu dùng và phân công lao động của thương mại.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B37, tr. 103; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.1.a), tr. 103
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B37, tr. 103; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.1.a), tr. 103; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.1.b), tr. 103
 
 ### role of transport
 - **Tiếng Việt:** Vai trò của giao thông vận tải
@@ -6312,7 +6895,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The circulatory function of the transport sector in moving raw materials and technical supplies to production sites and delivering finished goods to markets, thereby stimulating production and linking economic branches. Socially, transport serves passenger mobility, connects localities, strengthens national defense and security, fosters international integration, and bridges economic and social development.
 - **Giải thích (VI):** Chức năng mạch máu lưu thông của ngành giao thông vận tải trong việc vận chuyển nguyên liệu, vật tư đến nơi sản xuất và đưa sản phẩm tới nơi tiêu thụ nhằm thúc đẩy sản xuất và kết nối các ngành kinh tế. Đối với xã hội, ngành này phục vụ nhu cầu đi lại của dân cư, liên kết các địa phương, củng cố an ninh quốc phòng, thúc đẩy hội nhập quốc tế và gắn kết phát triển kinh tế với xã hội.
 - **Bối cảnh:** Địa lí lớp 10, Bài 34 (Mục 1.a): phân tích tầm quan trọng của giao thông vận tải đối với sản xuất kinh tế và đời sống xã hội.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34, tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.a), tr. 93
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34, tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.a), tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.b), tr. 93
 
 ### route mental map
 - **Tiếng Việt:** Lược đồ trí nhớ đường đi (lược đồ trí nhớ về đường đi)
@@ -6323,6 +6906,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 5 (Mục 2.a): cách vẽ lược đồ trí nhớ mô tả lộ trình di chuyển từ điểm xuất phát đến điểm đích.
   - *Lưu ý:* Phân biệt với lược đồ trí nhớ một khu vực (area mental map) tái hiện bố cục tổng thể của một không gian xác định.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5, tr. 113; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5 (Mục 1), tr. 113; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5 (Mục 2), tr. 113; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 01, B5 (Mục 2.a), tr. 113
+
+### rural settlement
+- **Tiếng Việt:** Quần cư nông thôn
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A settlement form in rural areas characterized by low population density, spatial organization into communes, villages, hamlets, and mountain villages, and agriculture as the primary economic activity. Under the influence of urbanization and new-style rural development, rural settlements are shifting economically toward handicrafts and services while diversifying their administrative, cultural, and social functions.
+- **Giải thích (VI):** Loại hình tổ chức cư trú ở khu vực nông thôn có mật độ dân số thấp, cấu trúc thành xã, thôn, xóm, bản với nông nghiệp là hoạt động kinh tế chủ yếu. Dưới tác động của đô thị hoá và xây dựng nông thôn mới, quần cư nông thôn đang chuyển dịch mạnh cơ cấu kinh tế sang thủ công nghiệp, dịch vụ và đa dạng hoá các chức năng hành chính, văn hoá, xã hội.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 2 (Mục 2): So sánh đặc điểm mật độ dân số, cấu trúc, kinh tế và chức năng của quần cư nông thôn với quần cư thành thị.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2), tr. 122
 
 ### rural urbanization
 - **Tiếng Việt:** Đô thị hoá nông thôn
@@ -6354,7 +6945,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The developmental and territorial extent of the European Union (EU) in membership, area, population, and economic output, expanding from its six-member predecessor (in 1957) to its official establishment under the Maastricht Treaty (November 1, 1993). In 2021, the EU comprised 27 member states, accounting for about 5.8% of the global population and 17.8% of world GDP.
 - **Giải thích (VI):** Tầm vóc phát triển và mở rộng của Liên minh châu Âu (EU) về số lượng thành viên, diện tích, dân số và kinh tế từ tổ chức tiền thân gồm 6 nước (năm 1957) đến khi chính thức thành lập theo Hiệp ước Ma-xtrích (1/11/1993). Năm 2021, EU gồm 27 quốc gia thành viên, chiếm khoảng 5,8% dân số và đóng góp 17,8% GDP toàn thế giới.
 - **Bối cảnh:** Địa lí lớp 11, Bài 9 (Mục I.1): Khái quát quá trình hình thành, mở rộng thành viên và quy mô dân số, kinh tế của Liên minh châu Âu.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.1), tr. 37, 38
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.1), tr. 37, 38; SGK Địa lí 11 KNTT, Phần hai, B9, tr. 37; SGK Địa lí 11 KNTT, Phần hai, B9 (Mục I.1), tr. 37
 
 ### sclerophyllous forest
 - **Tiếng Việt:** Rừng lá cứng
@@ -6397,7 +6988,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The vast marine waters of the Pacific and Indian Oceans bordering nearly all Southeast Asian nations, rich in marine fisheries and seabed minerals. Featuring numerous scenic beaches and deep bays suitable for deep-water port construction, these seas provide favorable conditions for developing diverse maritime economic sectors.
 - **Giải thích (VI):** Không gian biển rộng lớn thuộc Thái Bình Dương và Ấn Độ Dương bao quanh hầu hết các quốc gia Đông Nam Á, giàu trữ lượng hải sản và khoáng sản biển. Với nhiều bãi biển đẹp và vịnh biển thuận lợi cho xây dựng cảng nước sâu, vùng biển tạo điều kiện quan trọng để các nước trong khu vực phát triển đa dạng các ngành kinh tế biển.
 - **Bối cảnh:** Địa lí lớp 11, Bài 11 (Mục II.6): Đánh giá tiềm năng tài nguyên vùng biển đối với phát triển kinh tế biển của các nước Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.6), tr. 49
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.6), tr. 49; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.4), tr. 49; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục II.5), tr. 49
 
 ### season
 - **Tiếng Việt:** Mùa
@@ -6448,7 +7039,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A group of supplementary food crops alongside rice, wheat, and maize, typically including barley, rye, and potatoes in temperate zones, and millet, sweet potatoes, and cassava in tropical and subtropical zones. These crops adapt easily, require minimal fertilizer or labor care, and possess strong drought tolerance.
 - **Giải thích (VI):** Nhóm cây lương thực phụ ngoài lúa gạo, lúa mì và ngô, tiêu biểu là đại mạch, mạch đen, khoai tây ở vùng ôn đới và kê, khoai lang, sắn ở vùng nhiệt đới, cận nhiệt đới. Nhóm cây này dễ thích nghi, không đòi hỏi nhiều phân bón hay công chăm sóc và có khả năng chịu hạn tốt.
 - **Bối cảnh:** Địa lí lớp 10, Bài 24 (Mục 1.c): nhóm cây lương thực khác có khả năng thích nghi cao ở vùng ôn đới và nhiệt đới.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.c), tr. 70
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.c), tr. 70; SGK Địa lí 10 KNTT, Phần ba, B24 (Mục 1.c), tr. 70, 71
 
 ### sectoral economic restructuring
 - **Tiếng Việt:** Chuyển dịch cơ cấu kinh tế theo ngành
@@ -6456,7 +7047,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The process of changing sectoral economic structure towards reducing the share of agriculture, forestry, and fishery while increasing the share of industry, construction, and services. Within each sector group, the share of industries with high economic efficiency and scientific-technological content increases, whereas resource- and labor-intensive industries with low efficiency decline.
 - **Giải thích (VI):** Quá trình thay đổi cơ cấu ngành kinh tế theo hướng giảm tỉ trọng nhóm ngành nông nghiệp, lâm nghiệp và thuỷ sản, đồng thời tăng tỉ trọng nhóm ngành công nghiệp, xây dựng và dịch vụ. Trong nội bộ từng nhóm ngành, tỉ trọng các ngành có hiệu quả kinh tế và hàm lượng khoa học – công nghệ cao tăng lên, còn tỉ trọng các ngành hiệu quả thấp, sử dụng nhiều tài nguyên và lao động giảm xuống.
 - **Bối cảnh:** Địa lí lớp 12, Bài 10 (Mục II.2.a): xu hướng biến đổi cơ cấu GDP và nội bộ các nhóm ngành kinh tế ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.1), tr. 46; SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.2.a), tr. 46, 47
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.1), tr. 46; SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.2.a), tr. 46, 47; SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.2.a), tr. 46
 
 ### sectoral economic structure
 - **Tiếng Việt:** Cơ cấu kinh tế theo ngành (cơ cấu theo ngành)
@@ -6464,7 +7055,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The most fundamental dimension of economic structure, expressing the relative shares, positions, and interrelationships among the three major sector groups: agriculture–forestry–fisheries, industry–construction, and services. It directly reflects the level of scientific-technological advancement and productive forces within an economy.
 - **Giải thích (VI):** Bộ phận cơ bản nhất của cơ cấu kinh tế, biểu thị tỉ trọng, vị trí và mối quan hệ giữa ba nhóm ngành gồm nông nghiệp – lâm nghiệp – thuỷ sản, công nghiệp – xây dựng và dịch vụ. Cơ cấu này phản ánh trực tiếp trình độ phát triển khoa học – công nghệ và lực lượng sản xuất của nền sản xuất xã hội.
 - **Bối cảnh:** Địa lí lớp 10, Bài 22 (Mục 1.b): Phân loại cơ cấu kinh tế theo nhóm ngành sản xuất và dịch vụ.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B22 (Mục 1.b), tr. 65
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B22 (Mục 1.b), tr. 65; SGK Địa lí 10 KNTT, Phần ba, B22, tr. 65; SGK Địa lí 10 KNTT, Phần ba, B22 (Mục 1.a), tr. 65
 
 ### sectoral industrial restructuring
 - **Tiếng Việt:** Chuyển dịch cơ cấu công nghiệp theo ngành
@@ -6472,7 +7063,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The process of transforming industrial sector structure towards reducing the share of mining and quarrying while increasing the share of manufacturing. Within individual subsectors, production shifts from labor-intensive industries toward high-tech industries and from low-value-added stages to high-value-added stages in global value chains.
 - **Giải thích (VI):** Quá trình biến đổi cơ cấu ngành công nghiệp theo hướng giảm tỉ trọng nhóm ngành khai khoáng và tăng tỉ trọng nhóm ngành chế biến, chế tạo. Trong nội bộ từng nhóm ngành, sản xuất chuyển dịch từ các ngành sử dụng nhiều lao động sang các ngành công nghệ cao và từ công đoạn giá trị gia tăng thấp sang công đoạn có giá trị gia tăng cao trong chuỗi giá trị toàn cầu.
 - **Bối cảnh:** Địa lí lớp 12, Bài 15 (Mục I): xu hướng và nguyên nhân chuyển dịch cơ cấu giá trị sản xuất công nghiệp theo nhóm ngành ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B15, tr. 66; SGK Địa lí 12 KNTT, Phần 3, B15 (Mục I), tr. 66, 67
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B15, tr. 66; SGK Địa lí 12 KNTT, Phần 3, B15 (Mục I), tr. 66, 67; SGK Địa lí 12 KNTT, Phần 3, B15 (Mục I), tr. 66
 
 ### sediment transport
 - **Tiếng Việt:** Quá trình vận chuyển
@@ -6536,15 +7127,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The classification of the service sector into diverse, complex sub-sectors that continuously expand with new industries as the economy develops and society advances. Based on functional purpose, the sector is commonly divided into three main groups: business services, consumer services, and public services.
 - **Giải thích (VI):** Sự phân chia khu vực dịch vụ thành các nhóm ngành thành phần đa dạng, phức tạp và không ngừng mở rộng thêm nhiều ngành mới khi kinh tế phát triển, xã hội văn minh. Theo chức năng phục vụ, khu vực này thường gồm ba nhóm chính: dịch vụ kinh doanh, dịch vụ tiêu dùng và dịch vụ công.
 - **Bối cảnh:** Địa lí lớp 10, Bài 33 (Mục 1): phân loại khu vực dịch vụ thành ba nhóm ngành chính theo chức năng kinh tế – xã hội.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 1), tr. 91
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 1), tr. 91; SGK Địa lí 10 KNTT, Phần ba, B33, tr. 91; SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 2), tr. 91
 
 ### services
 - **Tiếng Việt:** Dịch vụ
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** Socially oriented activities that produce predominantly intangible (non-material) outputs to satisfy diverse needs in human production and daily life. Although emerging relatively late, this economic sector grows rapidly and accounts for an increasingly large share of the global economic structure.
 - **Giải thích (VI):** Các hoạt động mang tính xã hội tạo ra sản phẩm phần lớn ở dạng vô hình (phi vật chất) nhằm thoả mãn các nhu cầu đa dạng trong sản xuất và đời sống con người. Đây là khu vực kinh tế ra đời muộn nhưng có xu hướng phát triển nhanh và chiếm tỉ trọng ngày càng cao trong cơ cấu kinh tế thế giới.
-- **Bối cảnh:** Địa lí lớp 10, Bài 33 (Mục 1): xác định khái niệm dịch vụ và tính chất phi vật chất của sản phẩm dịch vụ.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33, tr. 91; SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 1), tr. 91
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: Economic sector that produces intangible outputs to satisfy the needs of production and human life. It comprises three main groups: business services (banking and finance, transport, trade), public services (public administration), and consumer services (healthcare, education, tourism). / VI: Ngành kinh tế tạo ra các sản phẩm phi vật chất nhằm đáp ứng nhu cầu của sản xuất và đời sống con người. Cơ cấu ngành gồm ba nhóm chính là dịch vụ kinh doanh (tài chính ngân hàng, giao thông vận tải, thương mại), dịch vụ công (hành chính công) và dịch vụ tiêu dùng (y tế, giáo dục, du lịch).
+- **Bối cảnh:**
+  - Địa lí lớp 10, Bài 33 (Mục 1): xác định khái niệm dịch vụ và tính chất phi vật chất của sản phẩm dịch vụ.
+  - Lịch sử và Địa lí lớp 9, Bài 10 (Mục 1): Khu vực kinh tế chiếm tỉ trọng cao trong cơ cấu kinh tế Việt Nam và phát triển đa dạng gắn với chuyển đổi số.
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B33, tr. 91; SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 1), tr. 91; SGK Địa lí 10 KNTT, Phần ba, B33 (Mục 2), tr. 91; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B10, tr. 152; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B10 (Mục 1.a), tr. 152; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B10 (Mục 1.b), tr. 152
 
 ### services in the Red River Delta
 - **Tiếng Việt:** Dịch vụ ở Đồng bằng sông Hồng
@@ -6584,7 +7178,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The most important economic sector of the Republic of South Africa, accounting for 64.6% of GDP and employing 72.4% of the national labor force in 2020. It features a diverse structure led by prominent subsectors including foreign trade, transportation, finance and banking, and tourism.
 - **Giải thích (VI):** Khu vực kinh tế quan trọng nhất của Cộng hoà Nam Phi, chiếm 64,6% GDP và thu hút 72,4% lực lượng lao động của cả nước (năm 2020). Cơ cấu ngành đa dạng với các lĩnh vực mũi nhọn nổi bật gồm ngoại thương, giao thông vận tải, tài chính ngân hàng và du lịch.
 - **Bối cảnh:** Địa lí lớp 11, Bài 31 (Mục II.3): Tỉ trọng đóng góp trong GDP, cơ cấu lao động và các lĩnh vực dịch vụ tiêu biểu của Cộng hoà Nam Phi.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.3), tr. 163; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.3), tr. 163, 164
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.3), tr. 163; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.3), tr. 163, 164; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.2), tr. 163
 
 ### services of the Russian Federation
 - **Tiếng Việt:** Dịch vụ Liên bang Nga
@@ -6627,7 +7221,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 34 (Mục 3.b): minh hoạ thành tựu ứng dụng công nghệ hiện đại trong ngành giao thông vận tải đường sắt.
   - Địa lí lớp 11, Bài 24 (Mục II.3.b): minh hoạ trình độ hiện đại của kết cấu hạ tầng giao thông vận tải đường sắt Nhật Bản.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.b), tr. 95; SGK Địa lí 11 KNTT, Phần hai, B24 (Mục II.3), tr. 126; SGK Địa lí 11 KNTT, Phần hai, B24 (Mục II.3.a), tr. 126; SGK Địa lí 11 KNTT, Phần hai, B24 (Mục II.3.b), tr. 126
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.b), tr. 95; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 3.a), tr. 95; SGK Địa lí 11 KNTT, Phần hai, B24 (Mục II.3), tr. 126; SGK Địa lí 11 KNTT, Phần hai, B24 (Mục II.3.a), tr. 126; SGK Địa lí 11 KNTT, Phần hai, B24 (Mục II.3.b), tr. 126
 
 ### Shintoism and Japanese culture
 - **Tiếng Việt:** Đạo Shin-tô và văn hoá Nhật Bản
@@ -6659,7 +7253,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A group of silvicultural activities aimed at regenerating, developing, and sustainably utilizing forest resources through concentrated afforestation (pulpwood, pit-prop timber, resin pine, and protection forests) combined with natural regeneration and protection of existing forests. These activities help supply raw materials, mitigate natural disasters, protect the ecological environment, and respond to climate change.
 - **Giải thích (VI):** Nhóm hoạt động lâm sinh nhằm tái tạo, phát triển và sử dụng hiệu quả, bền vững tài nguyên rừng thông qua trồng mới rừng tập trung (rừng nguyên liệu giấy, gỗ trụ mỏ, thông nhựa, phòng hộ) kết hợp khoanh nuôi và bảo vệ diện tích rừng hiện có. Hoạt động này góp phần cung cấp nguyên liệu sản xuất, giảm nhẹ thiên tai, bảo vệ môi trường sinh thái và ứng phó với biến đổi khí hậu.
 - **Bối cảnh:** Địa lí lớp 12, Bài 12 (Mục I.2): hoạt động lâm sinh trong phát triển lâm nghiệp bền vững ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B12 (Mục I.2), tr. 58, 59; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục I.3), tr. 59
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B12 (Mục I.2), tr. 58, 59; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục I.3), tr. 59; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục I.2), tr. 58; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục I.2), tr. 59
 
 ### smart exploitation of natural resources
 - **Tiếng Việt:** Khai thác thông minh tài nguyên thiên nhiên
@@ -6731,7 +7325,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The socio-cultural characteristics of multi-ethnic Southeast Asia, marked by strong similarities in customs, traditions, and cultural practices among the peoples of its nations. These shared cultural foundations facilitate regional exchange and cooperative development across countries.
 - **Giải thích (VI):** Đặc trưng văn hoá – xã hội của khu vực đa dân tộc Đông Nam Á, nổi bật với nhiều nét tương đồng về phong tục, tập quán và sinh hoạt văn hoá của người dân giữa các quốc gia. Sự giao thoa và tương đồng văn hoá này tạo nền tảng thuận lợi để các nước trong khu vực tăng cường giao lưu và hợp tác cùng phát triển.
 - **Bối cảnh:** Địa lí lớp 11, Bài 11 (Mục III.2): Tìm hiểu bức tranh văn hoá – xã hội và vai trò của sự tương đồng văn hoá trong hợp tác khu vực Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục III.2), tr. 51, 52
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục III.2), tr. 51, 52; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục III.1), tr. 51; SGK Địa lí 11 KNTT, Phần hai, B11 (Mục III.2), tr. 51
 
 ### society of Southwest Asia
 - **Tiếng Việt:** Xã hội khu vực Tây Nam Á
@@ -6747,7 +7341,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The group of decisive determinants shaping the scale, growth rate, and spatial distribution of services, anchored by overall economic development and material production sectors (agriculture and industry). Population and labor, market demand, infrastructure, science and technology, and state policies drive service quality upgrading and international integration.
 - **Giải thích (VI):** Nhóm nhân tố giữ vai trò quyết định đối với tốc độ tăng trưởng, trình độ và quy mô ngành dịch vụ, trong đó sự phát triển và phân bố các ngành sản xuất vật chất (nông nghiệp, công nghiệp) có ảnh hưởng then chốt. Các nhân tố dân cư và nguồn lao động, thị trường, cơ sở vật chất – kĩ thuật, khoa học – công nghệ và chính sách là động lực nâng cao chất lượng và hội nhập quốc tế của dịch vụ.
 - **Bối cảnh:** Địa lí lớp 12, Bài 19 (Mục II.1–5): tác động của trình độ kinh tế, dân cư, khoa học – công nghệ, hạ tầng và chính sách tới ngành dịch vụ Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B19, tr. 81; SGK Địa lí 12 KNTT, Phần 3, B19 (Mục II.1), tr. 81; SGK Địa lí 12 KNTT, Phần 3, B19 (Mục II.5), tr. 83
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B19, tr. 81; SGK Địa lí 12 KNTT, Phần 3, B19 (Mục II.1), tr. 81; SGK Địa lí 12 KNTT, Phần 3, B19 (Mục II.5), tr. 83; SGK Địa lí 12 KNTT, Phần 3, B19 (Mục I), tr. 81
 
 ### soil
 - **Tiếng Việt:** Đất
@@ -6851,6 +7445,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Theo Nghị quyết số 81/2023/QH15 về Quy hoạch tổng thể quốc gia thời kì 2021 – 2030, Duyên hải Nam Trung Bộ là một bộ phận lãnh thổ hợp thành vùng kinh tế Bắc Trung Bộ và Duyên hải miền Trung.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B26, tr. 118; SGK Địa lí 12 KNTT, Phần 4, B26 (Mục I.1), tr. 118; SGK Địa lí 12 KNTT, Phần 4, B26 (Mục I.2), tr. 118
 
+### South Central Coast and Central Highlands Region
+- **Tiếng Việt:** Vùng Duyên hải Nam Trung Bộ và Tây Nguyên (Nam Trung Bộ)
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Vietnam's largest socio-economic region by natural area at approximately 99.2 thousand km² (29.9% of the national area in 2024), comprising Da Nang City and the provinces of Quang Ngai, Gia Lai, Dak Lak, Khanh Hoa, and Lam Dong. Bordering the North Central Region, Southeast Region, Laos, Cambodia, and an expansive sea containing strategic islands and archipelagos (Hoang Sa, Truong Sa, Ly Son, Phu Quy), it serves as a North–South bridge and maritime gateway for Laos and Cambodia.
+- **Giải thích (VI):** Vùng kinh tế – xã hội có diện tích tự nhiên lớn nhất Việt Nam với khoảng 99,2 nghìn km² (chiếm 29,9% diện tích cả nước năm 2024), gồm thành phố Đà Nẵng và các tỉnh Quảng Ngãi, Gia Lai, Đắk Lắk, Khánh Hoà, Lâm Đồng. Vùng giáp Bắc Trung Bộ, Đông Nam Bộ, Lào, Cam-pu-chia và mở ra vùng biển rộng có các đảo, quần đảo chiến lược (Hoàng Sa, Trường Sa, Lý Sơn, Phú Quý), giữ vai trò cầu nối Bắc – Nam và cửa ngõ ra biển của Lào, Cam-pu-chia.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 16 (Mục 1): Vùng kinh tế – xã hội hợp nhất không gian duyên hải và cao nguyên theo Nghị quyết số 252/2025/QH15, giữ vị trí trọng yếu về kinh tế mở và quốc phòng, an ninh biển đảo.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B16, tr. 186; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B16 (Mục 1), tr. 186; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B16 (Mục 2.a), tr. 186, 187
+
 ### Southeast Asia
 - **Tiếng Việt:** Đông Nam Á (Khu vực Đông Nam Á)
 - **Chuyên ngành gốc:** Địa lí
@@ -6860,17 +7462,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 9 (Mục 1.a): Vị trí địa lí và phạm vi phân nhóm các quốc gia tạo cơ sở hình thành văn minh Đông Nam Á.
   - Lịch sử và Địa lí lớp 7, Bài 7 (Mục 2.g): đặc điểm tự nhiên hai bộ phận lục địa và hải đảo của khu vực Đông Nam Á.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B9, tr. 76; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 1.a), tr. 76; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 1.a), tr. 76, 77; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124, 125
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B9, tr. 76; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 1.a), tr. 76; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 1.a), tr. 76, 77; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.g), tr. 124, 125; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B7 (Mục 2.e), tr. 124
 
 ### Southeast Region
-- **Tiếng Việt:** Đông Nam Bộ
+- **Tiếng Việt:** Đông Nam Bộ (Vùng Đông Nam Bộ)
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** A leading socio-economic region of Vietnam comprising Ho Chi Minh City and five provinces (Binh Duong, Binh Phuoc, Tay Ninh, Dong Nai, and Ba Ria–Vung Tau) covering 23.6 thousand km² (in 2021). Bordering Cambodia, the Mekong River Delta, the Central Highlands, and the North Central and Central Coastal Region with a broad southeastern sea area, it lies within the Southern Key Economic Region and features Ho Chi Minh City as one of Vietnam's foremost growth poles, economic centers, and transport hubs.
 - **Giải thích (VI):** Vùng kinh tế – xã hội phát triển hàng đầu của Việt Nam gồm Thành phố Hồ Chí Minh và 5 tỉnh (Bình Dương, Bình Phước, Tây Ninh, Đồng Nai, Bà Rịa – Vũng Tàu) với diện tích 23,6 nghìn km² (năm 2021). Vùng giáp Cam-pu-chia, Đồng bằng sông Cửu Long, Tây Nguyên, Bắc Trung Bộ và Duyên hải miền Trung, có vùng biển rộng ở phía đông nam, nằm trong Vùng kinh tế trọng điểm phía Nam với Thành phố Hồ Chí Minh là cực tăng trưởng và trung tâm kinh tế, giao thông lớn bậc nhất cả nước.
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: Socio-economic region covering over 28.0 thousand km² (8.5% of Vietnam's total area in 2024), comprising Ho Chi Minh City and the provinces of Dong Nai and Tay Ninh. Bordering the Mekong River Delta, South Central Coast and Central Highlands, Cambodia, and a southeastern sea area containing the Con Son Archipelago, it serves as a vital transport bridge and Vietnam's leading economic growth engine. / VI: Vùng kinh tế – xã hội có diện tích hơn 28,0 nghìn km² (chiếm 8,5% diện tích cả nước năm 2024), bao gồm Thành phố Hồ Chí Minh và hai tỉnh Đồng Nai, Tây Ninh. Vùng tiếp giáp Đồng bằng sông Cửu Long, Duyên hải Nam Trung Bộ và Tây Nguyên, nước Cam-pu-chia cùng vùng biển phía đông nam có quần đảo Côn Sơn, giữ vai trò cầu nối giao thông và động lực kinh tế hàng đầu cả nước.
 - **Bối cảnh:**
   - Địa lí lớp 12, Bài 29 (Mục I.1): Vị trí địa lí, phạm vi lãnh thổ và vai trò kinh tế của vùng Đông Nam Bộ.
+  - Lịch sử và Địa lí lớp 9, Bài 17 (Mục 1): Vùng kinh tế phát triển năng động nhất Việt Nam, đóng góp tỉ trọng GRDP lớn nhất vào GDP cả nước.
   - *Lưu ý:* Thuật ngữ tiếng Anh Southeast Region (hoặc South East trong niên giám thống kê) trong ngữ cảnh Địa lí Việt Nam dùng để chỉ vùng kinh tế – xã hội Đông Nam Bộ.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B29, tr. 135; SGK Địa lí 12 KNTT, Phần 4, B29 (Mục I.1), tr. 135; SGK Địa lí 12 KNTT, Phần 4, B29 (Mục I.2), tr. 135
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B29, tr. 135; SGK Địa lí 12 KNTT, Phần 4, B29 (Mục I.1), tr. 135; SGK Địa lí 12 KNTT, Phần 4, B29 (Mục I.2), tr. 135; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B17, tr. 195; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B17 (Mục 1), tr. 195; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B17 (Mục 2.a), tr. 195, 196
 
 ### Southern Asia
 - **Tiếng Việt:** Khu vực Nam Á
@@ -6915,6 +7519,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 7, Bài 19 (Mục 2): vùng đại dương bao bọc xung quanh châu Nam Cực.
 - **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần hai, B8, tr. 27; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 4.b), tr. 34; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 05, B19 (Mục 2), tr. 163
 
+### Southern riverine culture
+- **Tiếng Việt:** Văn hoá sông nước Nam Bộ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Distinctive cultural identity of communities in the Mekong River Delta shaped by a dense network of rivers and canals combined with cultural exchange among multiple ethnic groups. It is vividly expressed through river-based livelihoods and trade, traditional festivals (Ngo boat racing, ox racing), and folk performing arts (Don ca tai tu and Southern folk songs).
+- **Giải thích (VI):** Bản sắc văn hoá đặc trưng của cư dân vùng Đồng bằng sông Cửu Long hình thành từ điều kiện mạng lưới sông ngòi, kênh rạch dày đặc kết hợp với sự giao thoa của nhiều cộng đồng dân tộc. Nét văn hoá này biểu hiện sinh động qua đời sống giao thương trên sông, các lễ hội truyền thống (đua ghe Ngo, đua bò) và nghệ thuật dân gian (Đờn ca tài tử, dân ca Nam Bộ).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 19 (Mục 3): Giá trị văn hoá xã hội đặc sắc tạo sức hấp dẫn cho du lịch sinh thái và du lịch văn hoá vùng Đồng bằng sông Cửu Long.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B19 (Mục 2.a), tr. 207; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B19 (Mục 2.b), tr. 207; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B19 (Mục 3), tr. 207
+
 ### southern territorial part of Vietnam
 - **Tiếng Việt:** Phần lãnh thổ phía Nam
 - **Chuyên ngành gốc:** Địa lí
@@ -6941,6 +7553,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Cần phân biệt hai nguồn gốc của luồng gió hướng tây nam trong mùa hạ: đầu mùa từ Bắc Ấn Độ Dương qua vịnh Ben-gan và giữa – cuối mùa từ áp cao cận chí tuyến bán cầu Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I.1), tr. 12; SGK Địa lí 12 KNTT, Phần 1, B2 (Mục I.1), tr. 12, 13
 
+### Space of Gong Culture in the Central Highlands
+- **Tiếng Việt:** Không gian văn hoá Cồng chiêng Tây Nguyên
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Vietnam's second intangible cultural heritage inscribed by UNESCO in 2005 as a Masterpiece of the Oral and Intangible Heritage of Humanity. This distinctive cultural tradition is rooted in the community life of indigenous Central Highlands ethnic groups such as the Bahnar, Mnong, Koho, Ede, and Jarai.
+- **Giải thích (VI):** Di sản văn hoá phi vật thể thứ hai của Việt Nam được UNESCO ghi danh năm 2005 là kiệt tác văn hoá phi vật thể và truyền khẩu của nhân loại. Loại hình văn hoá đặc sắc này gắn liền với đời sống cộng đồng của cư dân các dân tộc khu vực Tây Nguyên như Ba-na, Mnông, Cơ-ho, Ê-đê và Gia-rai.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 16 (Mục 3): Giá trị văn hoá truyền thống đặc sắc của cộng đồng các dân tộc khu vực cao nguyên phía tây, góp phần phát triển du lịch văn hoá.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B16 (Mục 3.a), tr. 189; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B16 (Mục 3.b), tr. 189
+
+### special-use forest
+- **Tiếng Việt:** Rừng đặc dụng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A forest category classified by land-use purpose encompassing national parks and nature reserves that harbour important natural ecosystems and endemic species requiring protection.
+- **Giải thích (VI):** Loại rừng phân theo mục đích sử dụng bao gồm các vườn quốc gia, khu bảo tồn thiên nhiên chứa đựng những hệ sinh thái tự nhiên quan trọng và các loài sinh vật đặc hữu cần bảo vệ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 6 (Mục 1.a): Nhận diện chức năng bảo tồn hệ sinh thái và đa dạng sinh học của rừng đặc dụng so với rừng sản xuất, rừng phòng hộ.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 136; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6, tr. 136; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 136, 137
+
 ### specialized farming region
 - **Tiếng Việt:** Vùng chuyên canh (Vùng sản xuất nông nghiệp trọng điểm)
 - **Chuyên ngành gốc:** Địa lí
@@ -6949,7 +7577,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 12, Bài 13 (Mục II): hình thức tổ chức lãnh thổ nông nghiệp sản xuất hàng hoá quy mô lớn ở Việt Nam.
   - *Lưu ý:* Phân biệt với vùng nông nghiệp (hình thức tổ chức lãnh thổ nông nghiệp cao nhất dựa trên sự tương đồng sinh thái – kinh tế tổng hợp toàn vùng); vùng chuyên canh tập trung chuyên sâu vào một hoặc vài nông sản chủ lực.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B13, tr. 62; SGK Địa lí 12 KNTT, Phần 3, B13 (Mục II), tr. 63
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B13, tr. 62; SGK Địa lí 12 KNTT, Phần 3, B13 (Mục II), tr. 63; SGK Địa lí 12 KNTT, Phần 3, B13 (Mục I), tr. 63
 
 ### specialized industrial crop farming in the equatorial environment
 - **Tiếng Việt:** Chuyên canh cây công nghiệp ở môi trường xích đạo
@@ -6957,7 +7585,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A large-scale agricultural production method in Africa's equatorial environment that utilizes year-round high temperatures and humidity to cultivate concentrated industrial crops such as oil palm and cacao for export and processing. This practice must be paired with forest protection and reforestation to prevent erosion and leaching of the thin humus layer.
 - **Giải thích (VI):** Phương thức tổ chức sản xuất nông nghiệp quy mô lớn tại môi trường xích đạo châu Phi, tận dụng nền nhiệt ẩm cao quanh năm để trồng tập trung các cây công nghiệp như cọ dầu, ca cao phục vụ xuất khẩu và chế biến. Hoạt động này đòi hỏi đi đôi với trồng và bảo vệ rừng nhằm hạn chế xói mòn, rửa trôi tầng mùn mỏng của đất.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 1): phương thức con người khai thác và bảo vệ thiên nhiên ở môi trường xích đạo châu Phi.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 1), tr. 135
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11 (Mục 1), tr. 135; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B11, tr. 135
 
 ### spontaneous urbanization
 - **Tiếng Việt:** Đô thị hoá tự phát
@@ -7023,6 +7651,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 11, Bài 12 (Mục 2.a): Yết hầu hàng hải gắn liền với vai trò tuyến giao thông biển huyết mạch của Biển Đông.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 06, B12 (Mục 1), tr. 75; SGK Lịch sử 11 KNTT, Chủ đề 06, B12 (Mục 2.a), tr. 75; SGK Lịch sử 11 KNTT, Chủ đề 06, B12 (Mục 2.b), tr. 75
 
+### strategic role of Vietnam's seas and islands
+- **Tiếng Việt:** Vai trò chiến lược của biển đảo Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The vital significance of Vietnam's maritime zones, islands, and archipelagos for both national defence-security and economic development, serving as an eastern defensive line protecting the mainland, monitoring sea and air spaces, and hosting communication, transit, and international rescue stations. Simultaneously, Vietnam's seas and islands provide abundant natural resources and straddle strategic shipping lanes, supporting sustainable marine economic sectors, strengthening national capacity, and consolidating all-people national defence.
+- **Giải thích (VI):** Vị trí trọng yếu của vùng biển và hệ thống đảo, quần đảo Việt Nam trên cả hai phương diện quốc phòng – an ninh và phát triển kinh tế, đóng vai trò tuyến phòng thủ hướng đông bảo vệ đất liền, kiểm soát vùng biển, vùng trời, đặt trạm thông tin, trung chuyển và cứu hộ quốc tế. Đồng thời, biển đảo cung cấp tài nguyên phong phú và án ngữ các trục hàng hải huyết mạch, tạo cơ sở phát triển bền vững các ngành kinh tế biển, nâng cao tiềm lực quốc gia và củng cố thế trận quốc phòng toàn dân.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 3 (Mục 2): Đánh giá tầm quan trọng chiến lược của biển đảo đối với phát triển kinh tế biển bền vững và bảo vệ Tổ quốc.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 3 (Mục 2.a), tr. 234; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 3 (Mục 2.b), tr. 234; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 3 (Mục 1.b), tr. 234
+
 ### stratosphere
 - **Tiếng Việt:** Tầng bình lưu
 - **Chuyên ngành gốc:** Địa lí
@@ -7048,7 +7684,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A distinctive agricultural strength of the Northern Midlands and Mountains leveraging extensive ferralitic soils across hills and plateaus alongside a tropical monsoon climate featuring a cold winter and altitudinal differentiation. The region ranks as Vietnam's third-largest specialized industrial crop zone—with tea as its foremost crop—while thriving in subtropical and temperate fruits and vegetables.
 - **Giải thích (VI):** Thế mạnh nông nghiệp đặc trưng của vùng Trung du và miền núi Bắc Bộ dựa trên diện tích lớn đất feralit ở địa hình cao nguyên, đồi núi thấp kết hợp khí hậu nhiệt đới ẩm gió mùa có mùa đông lạnh và phân hoá theo độ cao. Đây là vùng chuyên canh cây công nghiệp lớn thứ ba cả nước với chè là cây công nghiệp quan trọng số một, đồng thời thuận lợi phát triển cây ăn quả và rau cận nhiệt, ôn đới.
 - **Bối cảnh:** Địa lí lớp 12, Bài 23 (Mục II.3): khai thác thế mạnh đất đai và khí hậu phân hoá để phát triển nông sản đặc sản ở Trung du và miền núi Bắc Bộ.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B23 (Mục II.3), tr. 99, 100
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 4, B23 (Mục II.3), tr. 99, 100; SGK Địa lí 12 KNTT, Phần 4, B23 (Mục II.1.b), tr. 99; SGK Địa lí 12 KNTT, Phần 4, B23 (Mục II.2.a), tr. 99; SGK Địa lí 12 KNTT, Phần 4, B23 (Mục II.2.b), tr. 99
 
 ### subtropical environment
 - **Tiếng Việt:** Môi trường cận nhiệt
@@ -7056,7 +7692,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A transitional natural environment between the tropical and temperate zones (located at the northernmost and southernmost tips of Africa), featuring mild, humid, rainy winters and hot, dry summers. Its characteristic vegetation consists of sclerophyllous forests and shrublands.
 - **Giải thích (VI):** Môi trường tự nhiên chuyển tiếp giữa đới nóng và đới ôn hoà (phân bố ở phần cực bắc và cực nam châu Phi), có chế độ khí hậu mùa đông ấm, ẩm, mưa nhiều và mùa hạ nóng, khô. Thảm thực vật đặc trưng là rừng và cây bụi lá cứng.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2.d): hai dải môi trường tự nhiên nằm ở dải ven Địa Trung Hải (cực bắc) và vùng cực nam châu Phi.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 131
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 131; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 131, 132
 
 ### subtropical monsoon montane belt
 - **Tiếng Việt:** Đai cận nhiệt đới gió mùa trên núi
@@ -7080,7 +7716,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A vital maritime canal connecting the Mediterranean Sea with the Indian Ocean at the crossroads of Southwest Asia. It holds major significance for international shipping by substantially shortening sea routes between regions bordering the Atlantic Ocean and those bordering the Indian Ocean.
 - **Giải thích (VI):** Tuyến kênh đào hàng hải huyết mạch nối liền Địa Trung Hải với Ấn Độ Dương tại khu vực tiếp giáp của Tây Nam Á. Tuyến kênh giữ vai trò đặc biệt quan trọng đối với giao thông hàng hải quốc tế nhờ rút ngắn đáng kể quãng đường di chuyển giữa các khu vực ven Đại Tây Dương và các khu vực ven Ấn Độ Dương.
 - **Bối cảnh:** Địa lí lớp 11, Bài 15 (Mục I): Làm rõ lợi thế giao thông hàng hải quốc tế trong vị trí địa lí khu vực Tây Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục I), tr. 67
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục I), tr. 67; SGK Địa lí 11 KNTT, Phần hai, B15, tr. 67
 
 ### summer monsoon in Vietnam
 - **Tiếng Việt:** Gió mùa hạ ở Việt Nam
@@ -7104,7 +7740,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A group of industrial subsectors specializing in manufacturing raw materials, intermediate materials, components, and spare parts supplied for the production and assembly of finished goods. Developing supporting industries raises localization rates and enables industry to move into higher-value-added stages within global value chains.
 - **Giải thích (VI):** Nhóm ngành công nghiệp chuyên sản xuất nguyên liệu, vật liệu, linh kiện và phụ tùng cung ứng cho quá trình sản xuất, lắp ráp sản phẩm hoàn chỉnh. Sự phát triển của công nghiệp hỗ trợ góp phần nâng cao tỉ lệ nội địa hoá và thúc đẩy công nghiệp chuyển dịch sang các công đoạn có giá trị gia tăng cao trong chuỗi giá trị toàn cầu.
 - **Bối cảnh:** Địa lí lớp 12, Bài 15 (Mục I): vai trò nâng cao tỉ lệ nội địa hoá trong chuyển dịch cơ cấu ngành công nghiệp Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B15, tr. 66; SGK Địa lí 12 KNTT, Phần 3, B15 (Mục I), tr. 66, 67
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B15, tr. 66; SGK Địa lí 12 KNTT, Phần 3, B15 (Mục I), tr. 66, 67; SGK Địa lí 12 KNTT, Phần 3, B15 (Mục I), tr. 66
 
 ### sustainable forest management
 - **Tiếng Việt:** Khai thác bền vững tài nguyên rừng
@@ -7123,7 +7759,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 36 (Mục 3): nêu định hướng khắc phục sức ép môi trường do sự bùng nổ hoạt động du lịch gây ra.
   - Địa lí lớp 12, Bài 21 (Mục II.3): định hướng phát triển ngành du lịch gắn với bảo tồn di sản và môi trường ở Việt Nam.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B36 (Mục 3), tr. 102; SGK Địa lí 12 KNTT, Phần 3, B21 (Mục II.3), tr. 94
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B36 (Mục 3), tr. 102; SGK Địa lí 12 KNTT, Phần 3, B21 (Mục II.3), tr. 94; SGK Địa lí 12 KNTT, Phần 3, B21 (Mục II.1), tr. 91; SGK Địa lí 12 KNTT, Phần 3, B21 (Mục II.2), tr. 94
 
 ### symbol method
 - **Tiếng Việt:** Phương pháp kí hiệu
@@ -7169,11 +7805,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A form of communication using equipment and transmission lines over cables or electromagnetic waves between distant points to send, transmit, receive, and process audio, video, or data signals. Telecommunications services are delivered remotely without requiring direct physical contact between providers and users.
 - **Giải thích (VI):** Hình thức liên lạc sử dụng các phương tiện, thiết bị truyền tín hiệu qua cáp liên lạc hoặc sóng điện từ giữa các điểm cách xa nhau để gửi, truyền, nhận và xử lí tín hiệu âm thanh, hình ảnh hoặc số liệu. Hoạt động cung ứng dịch vụ viễn thông diễn ra từ khoảng cách xa mà không cần sự tiếp xúc trực tiếp giữa bên cung cấp và người sử dụng.
 - **Giải thích khác (SGK Địa lí 12):** EN: A long-distance information transmission service sector providing telephony, internet, network services, and digital technology applications with infrastructure deployed across all regions. In Vietnam, the telecommunications network has expanded rapidly, connecting globally via international bandwidth systems, telecommunications satellites, and submarine fiber-optic cables, anchored by modern hubs such as Hanoi and Ho Chi Minh City. / VI: Ngành dịch vụ truyền dẫn thông tin cung cấp các dịch vụ điện thoại, internet, dịch vụ mạng và khai thác công nghệ với hạ tầng triển khai đến mọi vùng miền. Ở Việt Nam, mạng lưới viễn thông mở rộng nhanh và kết nối toàn cầu qua hệ thống băng thông quốc tế, vệ tinh viễn thông và các tuyến cáp quang biển quốc tế, nổi bật với các trung tâm hiện đại như Hà Nội và Thành phố Hồ Chí Minh.
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: Transmission, emission, reception, and processing of signs, signals, data, text, images, sounds, or other forms of information via wire, radio waves, optical media, and other electronic systems. / VI: Hoạt động gửi, truyền, nhận và xử lí kí hiệu, tín hiệu, số liệu, chữ viết, hình ảnh, âm thanh hoặc các dạng thông tin khác bằng đường cáp, sóng vô tuyến điện, phương tiện quang học và phương tiện điện tử khác.
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 35 (Mục 1.b): định nghĩa khái niệm viễn thông và đặc điểm cung ứng dịch vụ thông tin từ khoảng cách xa.
   - Địa lí lớp 12, Bài 20 (Mục II.2): tình hình phát triển hạ tầng và dịch vụ viễn thông ở Việt Nam.
+  - Lịch sử và Địa lí lớp 9, Bài 10 (Mục 2): Phân ngành hạ tầng số phát triển dựa trên công nghệ 5G, Internet vạn vật (IoT), dữ liệu lớn, trí tuệ nhân tạo, cáp quang biển và vệ tinh.
   - *Lưu ý:* Phân biệt với bưu chính (vận chuyển thư tín, bưu phẩm, bưu kiện hữu hình qua mạng lưới bưu cục).
-- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B35, tr. 98; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 1.b), tr. 98, 99; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục II.2), tr. 88
+- **Nguồn:** SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B35, tr. 98; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 1.b), tr. 98, 99; SGK Địa lí 10 KNTT, Phần ba, B35 (Mục 1.a), tr. 98; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục II.2), tr. 88; SGK Địa lí 12 KNTT, Phần 3, B20, tr. 84; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục II), tr. 87; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục II.1), tr. 88; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B10 (Mục 1.a), tr. 152; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B10 (Mục 2.b), tr. 156
 
 ### temperate continental climate
 - **Tiếng Việt:** Khí hậu ôn đới lục địa
@@ -7271,6 +7909,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 10, Bài 9 (Mục 2.c): Giải thích quy luật giảm nhiệt độ theo độ cao và sự thay đổi nhiệt độ theo độ dốc, hướng phơi sườn núi.
 - **Nguồn:** SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 2.b), tr. 30; SGK Địa lí 10 KNTT, Phần hai, B9 (Mục 2.c), tr. 30
 
+### terraced fields
+- **Tiếng Việt:** Ruộng bậc thang
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Distinctive sloping-land farming system practiced by ethnic minority communities to produce food crops for livelihood. In Vietnam, prominent terraced-field landscapes such as Sa Pa and Mu Cang Chai (Lao Cai) and Hoang Su Phi (Tuyen Quang) are also recognized as national scenic cultural heritage sites that attract tourists.
+- **Giải thích (VI):** Loại hình canh tác nông nghiệp độc đáo trên đất dốc của đồng bào các dân tộc thiểu số nhằm cung cấp lương thực, thực phẩm phục vụ đời sống. Tại Việt Nam, nhiều khu vực ruộng bậc thang tiêu biểu như Sa Pa, Mù Cang Chải (Lào Cai) và Hoàng Su Phì (Tuyên Quang) còn là di sản văn hoá, danh thắng quốc gia có giá trị thu hút khách du lịch.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 12 (Mục 3): Phương thức canh tác truyền thống thích ứng với địa hình đồi núi dốc của cư dân vùng Trung du và miền núi phía Bắc.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B12 (Mục 3.a), tr. 161; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B12 (Mục 3.b), tr. 161; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B12 (Mục 3.c), tr. 161
+
 ### terrestrial animal diversity
 - **Tiếng Việt:** Sự đa dạng của động vật trên lục địa
 - **Chuyên ngành gốc:** Địa lí
@@ -7311,7 +7957,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The spatial organization of Vietnam's tourism activities based on regional differences in tourism resources and conditions, comprising seven tourism regions, national tourist areas, national tourist attractions, and tourism cities. Nationwide, four major tourism centers serve as core hubs: Hanoi, Hue, Da Nang, and Ho Chi Minh City.
 - **Giải thích (VI):** Sự tổ chức không gian hoạt động du lịch của Việt Nam dựa trên sự khác biệt về tài nguyên và điều kiện phát triển giữa các lãnh thổ, bao gồm 7 vùng du lịch, các khu du lịch quốc gia, điểm du lịch quốc gia và đô thị du lịch. Trên phạm vi cả nước có bốn trung tâm du lịch lớn giữ vai trò hạt nhân là Hà Nội, Huế, Đà Nẵng và Thành phố Hồ Chí Minh.
 - **Bối cảnh:** Địa lí lớp 12, Bài 21 (Mục II.2): cấu trúc không gian du lịch và các trung tâm, vùng du lịch đặc trưng của Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B21 (Mục II.2), tr. 91, 92, 94
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B21 (Mục II.2), tr. 91, 92, 94; SGK Địa lí 12 KNTT, Phần 3, B21 (Mục I.2), tr. 91; SGK Địa lí 12 KNTT, Phần 3, B21 (Mục II.1), tr. 91; SGK Địa lí 12 KNTT, Phần 3, B21 (Mục II.2), tr. 91, 92
 
 ### territorial economic restructuring
 - **Tiếng Việt:** Chuyển dịch cơ cấu kinh tế theo lãnh thổ
@@ -7319,7 +7965,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The change in spatial distribution and organization of economic activities occurring alongside sectoral and ownership restructuring to effectively leverage territorial advantages. In Vietnam, this process is manifested through the formation of six socio-economic regions alongside coastal economic zones, border-gate economic zones, and economic corridors.
 - **Giải thích (VI):** Sự thay đổi trong phân bố và tổ chức không gian kinh tế diễn ra đồng thời với chuyển dịch cơ cấu ngành và cơ cấu thành phần kinh tế nhằm khai thác tốt hơn lợi thế của các lãnh thổ khác nhau. Ở Việt Nam, quá trình này thể hiện qua sự hình thành 6 vùng kinh tế – xã hội cùng hệ thống khu kinh tế ven biển, khu kinh tế cửa khẩu và hành lang kinh tế.
 - **Bối cảnh:** Địa lí lớp 12, Bài 10 (Mục II.2.c): sự hình thành các vùng kinh tế – xã hội và các hình thức tổ chức lãnh thổ kinh tế ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.2.c), tr. 48
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.2.c), tr. 48; SGK Địa lí 12 KNTT, Phần 3, B10 (Mục II.2.b), tr. 48
 
 ### territorial economic structure
 - **Tiếng Việt:** Cơ cấu kinh tế theo lãnh thổ
@@ -7327,7 +7973,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A dimension of economic structure depicting the spatial organization and interrelationships among geographical units—such as economic regions and economic zones—that constitute a national economy. It reflects regional development levels and the specialization built upon each territory's comparative advantages.
 - **Giải thích (VI):** Bộ phận của cơ cấu kinh tế biểu thị sự phân công và mối quan hệ không gian giữa các đơn vị lãnh thổ hợp thành nền kinh tế như vùng kinh tế, khu kinh tế. Cơ cấu này phản ánh trình độ phát triển không gian cũng như việc khai thác các thế mạnh đặc thù của mỗi vùng lãnh thổ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 22 (Mục 1.b): Phân loại cơ cấu kinh tế theo không gian vùng và khu kinh tế.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B22 (Mục 1.b), tr. 65
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B22 (Mục 1.b), tr. 65; SGK Địa lí 10 KNTT, Phần ba, B22, tr. 65; SGK Địa lí 10 KNTT, Phần ba, B22 (Mục 1.a), tr. 65
 
 ### territorial extent and geographical location of China
 - **Tiếng Việt:** Phạm vi lãnh thổ và vị trí địa lí Trung Quốc
@@ -7351,7 +7997,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A territorial expanse of approximately 4.5 million km² comprising 11 countries across mainland and insular Southeast Asia, stretching from roughly 28°N to 10°S latitude and 92°E to 152°E longitude in southeastern Asia. Serving as a bridge between Eurasia and Australia along vital international maritime routes through the Strait of Malacca and at the intersection of biotic realms and mineralogenic belts, the region is rich in resources but frequently exposed to typhoons, earthquakes, volcanoes, and tsunamis.
 - **Giải thích (VI):** Không gian lãnh thổ rộng khoảng 4,5 triệu km² gồm 11 quốc gia thuộc hai bộ phận Đông Nam Á lục địa và Đông Nam Á hải đảo, trải dài từ khoảng vĩ độ 28°B đến 10°N và kinh độ 92°Đ đến 152°Đ ở phía đông nam châu Á. Khu vực giữ vị trí cầu nối giữa lục địa Á – Âu với lục địa Ô-xtrây-li-a, nằm trên tuyến hàng hải quốc tế huyết mạch qua eo biển Ma-lắc-ca và nơi giao thoa các luồng sinh vật, vành đai sinh khoáng, song thường xuyên chịu tác động của bão, động đất, núi lửa và sóng thần.
 - **Bối cảnh:** Địa lí lớp 11, Bài 11 (Mục I): Xác định đặc điểm lãnh thổ, toạ độ địa lí và ý nghĩa vị trí chiến lược của khu vực Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục I), tr. 46
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B11 (Mục I), tr. 46; SGK Địa lí 11 KNTT, Phần hai, B11, tr. 46
 
 ### territorial extent of Southwest Asia
 - **Tiếng Việt:** Phạm vi lãnh thổ khu vực Tây Nam Á
@@ -7359,7 +8005,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The territorial expanse located in southwestern Asia comprising 20 countries with a total land area of approximately 7 million km².
 - **Giải thích (VI):** Không gian lãnh thổ nằm ở phía tây nam châu Á bao gồm 20 quốc gia với tổng diện tích đất khoảng 7 triệu km².
 - **Bối cảnh:** Địa lí lớp 11, Bài 15 (Mục I): Xác định quy mô diện tích và số lượng quốc gia cấu thành khu vực Tây Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục I), tr. 67
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B15 (Mục I), tr. 67; SGK Địa lí 11 KNTT, Phần hai, B15, tr. 67
 
 ### territorial extent of the Russian Federation
 - **Tiếng Việt:** Phạm vi lãnh thổ Liên bang Nga
@@ -7383,7 +8029,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The transformation in the spatial distribution of industrial production, reflected in changing shares of industrial output value among regions nationwide. This process is closely tied to the establishment and growth of modern, high-efficiency territorial industrial forms such as industrial parks, export processing zones, and high-tech parks.
 - **Giải thích (VI):** Sự biến đổi trong phân bố không gian sản xuất công nghiệp, thể hiện rõ qua sự thay đổi tỉ trọng giá trị sản xuất công nghiệp giữa các vùng lãnh thổ. Quá trình này gắn liền với sự hình thành và phát triển các hình thức tổ chức lãnh thổ công nghiệp mới, hiệu quả hơn như khu công nghiệp, khu chế xuất và khu công nghệ cao.
 - **Bối cảnh:** Địa lí lớp 12, Bài 15 (Mục III): biểu hiện và xu hướng phân bố lại không gian công nghiệp giữa các vùng ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B15 (Mục III), tr. 67, 68
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B15 (Mục III), tr. 67, 68; SGK Địa lí 12 KNTT, Phần 3, B15 (Mục I), tr. 67; SGK Địa lí 12 KNTT, Phần 3, B15 (Mục II), tr. 67
 
 ### territorial organization of agriculture
 - **Tiếng Việt:** Tổ chức lãnh thổ nông nghiệp
@@ -7391,7 +8037,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The spatial arrangement and coordination of agricultural entities within intersectoral and interregional relationships linked to market demand in a specific territory to rationally utilize natural, economic, and labor potentials. This process promotes production specialization, limits adverse natural impacts, and achieves high economic, social, and environmental efficiency.
 - **Giải thích (VI):** Sự sắp xếp và phối hợp các đối tượng nông nghiệp trong mối quan hệ liên ngành, liên vùng gắn với nhu cầu thị trường trên một lãnh thổ cụ thể nhằm sử dụng hợp lí tiềm năng tự nhiên, kinh tế, lao động. Hoạt động này thúc đẩy chuyên môn hoá sản xuất, hạn chế tác động bất lợi của tự nhiên và mang lại hiệu quả cao về kinh tế, xã hội, môi trường.
 - **Bối cảnh:** Địa lí lớp 10, Bài 26 (Mục 1.a): quan niệm và vai trò của việc bố trí không gian sản xuất nông nghiệp.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.a), tr. 76
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.a), tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26, tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.b), tr. 76
 
 ### territorial organization of industry
 - **Tiếng Việt:** Tổ chức lãnh thổ công nghiệp
@@ -7399,7 +8045,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The spatial arrangement and layout of enterprises and production facilities into appropriate organizational forms to establish industrial spaces at various scales. Common forms around the world include industrial points, industrial zones, and industrial centers.
 - **Giải thích (VI):** Việc bố trí và sắp xếp không gian các xí nghiệp, cơ sở sản xuất theo những hình thức tổ chức lãnh thổ công nghiệp phù hợp để tạo nên các không gian công nghiệp ở những cấp độ khác nhau. Các hình thức tổ chức phổ biến trên thế giới gồm điểm công nghiệp, khu công nghiệp và trung tâm công nghiệp.
 - **Bối cảnh:** Địa lí lớp 10, Bài 30 (Mục 1): quan niệm và các hình thức tổ chức không gian sản xuất công nghiệp.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B30 (Mục 1), tr. 86; SGK Địa lí 10 KNTT, Phần ba, B30 (Mục 2), tr. 86
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B30 (Mục 1), tr. 86; SGK Địa lí 10 KNTT, Phần ba, B30 (Mục 2), tr. 86; SGK Địa lí 10 KNTT, Phần ba, B30, tr. 86
 
 ### territorial sea
 - **Tiếng Việt:** Lãnh hải
@@ -7420,6 +8066,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Khối không gian quốc gia thống nhất và toàn vẹn của Việt Nam, bao gồm ba bộ phận cấu thành là vùng đất, vùng biển và vùng trời.
 - **Bối cảnh:** Địa lí lớp 12, Bài 1 (Mục I.2): Khái quát cấu trúc toàn vẹn của phạm vi lãnh thổ quốc gia Việt Nam.
 - **Nguồn:** SGK Địa lí 12 KNTT, Phần 1, B1, tr. 5; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 5; SGK Địa lí 12 KNTT, Phần 1, B1 (Mục I.1), tr. 7
+
+### textile, apparel and footwear industry in Vietnam
+- **Tiếng Việt:** Công nghiệp dệt và sản xuất trang phục; sản xuất giày, dép ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Key consumer-goods manufacturing industries that produce major export commodities of Vietnam and increasingly apply automation, 3D printing, and artificial intelligence in production. These industries are strongly developed in Ho Chi Minh City, Hanoi, Da Nang, and Ninh Binh.
+- **Giải thích (VI):** Nhóm ngành sản xuất hàng tiêu dùng quan trọng và tạo ra các mặt hàng xuất khẩu chủ lực của Việt Nam, ngày càng ứng dụng phổ biến công nghệ tự động hoá, in 3D và trí tuệ nhân tạo. Hoạt động sản xuất của nhóm ngành này phát triển mạnh tại Thành phố Hồ Chí Minh, Hà Nội, Đà Nẵng và Ninh Bình.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 8 (Mục 2): Nhóm ngành công nghiệp sản xuất hàng tiêu dùng sử dụng nhiều lao động và đóng góp lớn vào kim ngạch xuất khẩu của Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B8 (Mục 2), tr. 149
 
 ### textile, apparel, and footwear manufacturing
 - **Tiếng Việt:** Công nghiệp dệt, sản xuất trang phục và sản xuất giày, dép
@@ -7475,7 +8129,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The diverse pattern of tidal fluctuations along Vietnam's coastline comprising regular diurnal, irregular diurnal, semidiurnal, and irregular semidiurnal tides, most typically characterized by the regular diurnal tide (one high water and one low water per lunar day, especially in the Gulf of Tonkin). Tidal amplitude varies by coastal stretch, reaching its highest level from Quang Ninh to Thanh Hoa and its lowest along the Mekong Delta coast.
 - **Giải thích (VI):** Đặc trưng dao động thuỷ triều đa dạng ven bờ biển Việt Nam gồm nhật triều đều, nhật triều không đều, bán nhật triều và bán nhật triều không đều, trong đó điển hình nhất là nhật triều đều (một lần nước lên và một lần nước xuống mỗi ngày đêm, đặc biệt ở vịnh Bắc Bộ). Độ cao triều thay đổi theo từng đoạn bờ biển, đạt mức cao nhất từ Quảng Ninh đến Thanh Hoá và thấp nhất ở vùng biển ven bờ đồng bằng sông Cửu Long.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 3.c): đặc điểm hải văn nổi bật dọc bờ biển Việt Nam.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 3.c), tr. 152
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 3.c), tr. 152; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 3.a), tr. 152; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 04, B11 (Mục 3.b), tr. 152
 
 ### tide
 - **Tiếng Việt:** Thuỷ triều
@@ -7598,7 +8252,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A rapidly growing service sector of China built upon an ancient civilization, numerous scenic landscapes, famous architectural landmarks (the Great Wall, the Forbidden City, the Mausoleum of the First Qin Emperor, the Bund in Shanghai), and highly developed tourism infrastructure. In 2019, China ranked fourth globally in international tourist arrivals, eleventh in international tourism receipts, and generated approximately 1,000 billion USD in total industry revenue.
 - **Giải thích (VI):** Ngành dịch vụ phát triển mạnh của Trung Quốc dựa trên lợi thế nền văn minh lâu đời, nhiều danh lam thắng cảnh, công trình kiến trúc nổi tiếng (Vạn Lý Trường Thành, Tử Cấm Thành, Lăng mộ Tần Thuỷ Hoàng, bến Thượng Hải) và cơ sở hạ tầng du lịch phát triển vượt bậc. Năm 2019, Trung Quốc đứng thứ 4 thế giới về lượt khách quốc tế đến, thứ 11 về doanh thu du lịch quốc tế và đạt tổng doanh thu ngành khoảng 1 000 tỉ USD.
 - **Bối cảnh:** Địa lí lớp 11, Bài 27 (Mục II.3.c): Đặc điểm phát triển và các điểm đến tiêu biểu của ngành du lịch Trung Quốc.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B27 (Mục II.3.c), tr. 146; SGK Địa lí 11 KNTT, Phần hai, B27 (Mục II.3.c), tr. 147
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B27 (Mục II.3.c), tr. 146; SGK Địa lí 11 KNTT, Phần hai, B27 (Mục II.3.c), tr. 147; SGK Địa lí 11 KNTT, Phần hai, B27 (Mục II.3.a), tr. 146; SGK Địa lí 11 KNTT, Phần hai, B27 (Mục II.3.b), tr. 146
 
 ### tourism of Southeast Asia
 - **Tiếng Việt:** Du lịch khu vực Đông Nam Á
@@ -7606,7 +8260,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An increasingly vital service industry in Southeast Asia, attracting roughly 10% of global international tourist arrivals and contributing over 393 billion USD to regional GDP (in 2019). Tourism thrives particularly in Thailand, Vietnam, Indonesia, and Singapore, featuring renowned destinations such as Angkor Wat, Ha Long Bay, Bali, Bagan, Kuala Lumpur, and Bangkok.
 - **Giải thích (VI):** Ngành dịch vụ giữ vai trò ngày càng quan trọng ở Đông Nam Á, thu hút khoảng 10% tổng lượng khách quốc tế toàn cầu và đóng góp hơn 393 tỉ USD vào GDP khu vực (năm 2019). Hoạt động du lịch phát triển mạnh tại Thái Lan, Việt Nam, In-đô-nê-xi-a, Xin-ga-po với nhiều điểm đến nổi tiếng như đền Ăng-co Vát, vịnh Hạ Long, Ba-li, Ba-gan, Cu-a-la Lăm-pơ và Băng Cốc.
 - **Bối cảnh:** Địa lí lớp 11, Bài 12 (Mục II.3.d): Đánh giá sức hút, doanh thu và các điểm du lịch tiêu biểu của khu vực Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.3.d), tr. 60
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.3.d), tr. 60; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.3), tr. 60
 
 ### tourism of the Republic of South Africa
 - **Tiếng Việt:** Du lịch Cộng hoà Nam Phi
@@ -7624,13 +8278,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Địa lí lớp 11, Bài 19 (Mục II.3.d): Tiềm năng, lượng khách và doanh thu ngành du lịch của Hoa Kỳ.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B19 (Mục II.3.b), tr. 94; SGK Địa lí 11 KNTT, Phần hai, B19 (Mục II.3.c), tr. 94; SGK Địa lí 11 KNTT, Phần hai, B19 (Mục II.3.d), tr. 94
 
+### tourism product
+- **Tiếng Việt:** Sản phẩm du lịch
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Integrated set of services developed on the basis of exploiting tourism resource values to satisfy the needs of tourists.
+- **Giải thích (VI):** Tập hợp các dịch vụ hình thành trên cơ sở khai thác giá trị tài nguyên du lịch nhằm thoả mãn nhu cầu của khách du lịch.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 11 (Mục 3): Đa dạng hoá và nâng cao chất lượng sản phẩm du lịch là định hướng trọng tâm của ngành du lịch Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B11 (Mục 3.b), tr. 157
+
 ### tourism resources
 - **Tiếng Việt:** Tài nguyên du lịch
 - **Chuyên ngành gốc:** Địa lí
 - **Giải thích (EN):** The entirety of natural tourism resources, cultural-humanistic tourism resources, and the combination of both within a territory. These assets serve as the core foundation for creating tourism products that attract visitors.
 - **Giải thích (VI):** Tổng thể các giá trị gồm tài nguyên du lịch tự nhiên, tài nguyên du lịch nhân văn và sự kết hợp giữa hai nhóm tài nguyên này tại một lãnh thổ. Đây là nền tảng cốt lõi trực tiếp tạo ra các sản phẩm du lịch thu hút du khách.
 - **Bối cảnh:** Địa lí lớp 10, Bài 36 (Mục 2): xác định vai trò nền tảng của tài nguyên tự nhiên và nhân văn trong việc hình thành sản phẩm du lịch.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B36, tr. 101
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B36, tr. 101; SGK Địa lí 10 KNTT, Phần ba, B36 (Mục 1.a), tr. 101; SGK Địa lí 10 KNTT, Phần ba, B36 (Mục 1.b), tr. 101
 
 ### trade
 - **Tiếng Việt:** Thương mại
@@ -7638,7 +8300,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The process of exchanging goods and services between sellers and buyers governed by the law of supply and demand, thereby directly forming markets. Operating across both national territories (domestic trade) and international borders (foreign trade), the sector is undergoing rapid transformation with the technology-driven boom of e-commerce.
 - **Giải thích (VI):** Quá trình trao đổi hàng hoá và dịch vụ giữa bên bán và bên mua chịu sự chi phối của quy luật cung – cầu, qua đó trực tiếp hình thành nên thị trường. Không gian hoạt động của ngành bao gồm cả phạm vi trong nước (nội thương) và giữa các quốc gia (ngoại thương), hiện đang chuyển đổi mạnh mẽ với sự bùng nổ của thương mại điện tử nhờ ứng dụng công nghệ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 37 (Mục I.1.b): định nghĩa bản chất trao đổi hàng hoá – dịch vụ và không gian hoạt động của ngành thương mại.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B37, tr. 103; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.1.b), tr. 103
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B37, tr. 103; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.1.b), tr. 103; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.1.a), tr. 103
 
 ### trade of China
 - **Tiếng Việt:** Thương mại Trung Quốc
@@ -7654,7 +8316,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A service sector that regulates and stimulates production industries across Southeast Asia, with goods and services exports reaching 1,676.3 billion USD and imports totaling 1,526.6 billion USD in 2020. Intra-regional trade accounts for approximately 25% of total regional trade value, with foreign trade most developed in Singapore, Vietnam, Malaysia, Indonesia, and Thailand.
 - **Giải thích (VI):** Lĩnh vực dịch vụ có vai trò điều tiết và thúc đẩy các ngành sản xuất ở Đông Nam Á phát triển, với tổng trị giá xuất khẩu hàng hoá và dịch vụ năm 2020 đạt 1 676,3 tỉ USD và nhập khẩu đạt 1 526,6 tỉ USD. Thương mại nội khối chiếm khoảng 25% tổng trị giá xuất nhập khẩu toàn khu vực, hoạt động ngoại thương phát triển mạnh nhất tại Xin-ga-po, Việt Nam, Ma-lai-xi-a, In-đô-nê-xi-a và Thái Lan.
 - **Bối cảnh:** Địa lí lớp 11, Bài 12 (Mục II.3.a): Phân tích quy mô xuất nhập khẩu và sự phát triển thương mại của các nước Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.3.a), tr. 58, 59
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.3.a), tr. 58, 59; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.2), tr. 58; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.3), tr. 58; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.3.a), tr. 58
 
 ### trade of the United States
 - **Tiếng Việt:** Thương mại Hoa Kỳ
@@ -7697,7 +8359,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A specialized service industry serving people and material goods whose output is the movement of passengers and freight from one place to another. Service quality is evaluated by transport speed, comfort, and safety, while its spatial organization follows a distinctive network of routes and hubs strongly shaped by science and technology.
 - **Giải thích (VI):** Ngành dịch vụ đặc biệt phục vụ con người và các sản phẩm vật chất với sản phẩm tạo ra là sự chuyên chở hành khách và hàng hoá từ nơi này đến nơi khác. Chất lượng dịch vụ được đánh giá qua tốc độ, sự tiện nghi, độ an toàn, còn không gian hoạt động phân bố đặc thù theo mạng lưới gồm các tuyến và đầu mối giao thông dưới tác động mạnh của khoa học – công nghệ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 34 (Mục 1.b): xác định đối tượng phục vụ, sản phẩm, tiêu chí chất lượng và đặc điểm phân bố của ngành giao thông vận tải.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34, tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.b), tr. 93
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34, tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.b), tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.a), tr. 93
+
+### transport in Vietnam
+- **Tiếng Việt:** Giao thông vận tải ở Việt Nam
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Transport service industry in Vietnam encompassing five modes—road, rail, maritime, inland waterway, and air transport—forming a nationwide network undergoing modernization. Major transport hubs driving regional and national economic growth include Hanoi, Da Nang, and Ho Chi Minh City.
+- **Giải thích (VI):** Ngành dịch vụ vận chuyển ở Việt Nam có đầy đủ năm loại hình gồm đường bộ, đường sắt, đường biển, đường thuỷ nội địa và đường hàng không, tạo thành mạng lưới phủ khắp các địa phương và đang được hiện đại hoá. Các đầu mối giao thông vận tải lớn giữ vai trò thúc đẩy kinh tế vùng và cả nước là Hà Nội, Đà Nẵng và Thành phố Hồ Chí Minh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 10 (Mục 2): Ngành dịch vụ huyết mạch kết nối các vùng, trung tâm kinh tế trong nước và cửa ngõ giao thương quốc tế.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B10 (Mục 1.c), tr. 153; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B10 (Mục 1.d), tr. 153; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 02, B10 (Mục 1.e), tr. 153
 
 ### transport network
 - **Tiếng Việt:** Mạng lưới giao thông vận tải
@@ -7705,7 +8375,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The distinctive spatial organization and distribution pattern of the transport sector, consisting of interconnected transport routes and transport hubs. This network structure enables the continuous movement of passengers and freight across regions and territories.
 - **Giải thích (VI):** Hình thức tổ chức và phân bố không gian mang tính đặc thù của ngành giao thông vận tải, bao gồm hệ thống các tuyến giao thông gắn kết với các đầu mối giao thông. Cấu trúc mạng lưới này bảo đảm hoạt động chuyên chở hành khách và hàng hoá diễn ra liên tục giữa các vùng, lãnh thổ.
 - **Bối cảnh:** Địa lí lớp 10, Bài 34 (Mục 1.b): mô tả đặc điểm phân bố không gian theo tuyến và đầu mối của ngành giao thông vận tải.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.b), tr. 93
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.b), tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34, tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.a), tr. 93
 
 ### transport network of Vietnam
 - **Tiếng Việt:** Mạng lưới giao thông vận tải Việt Nam
@@ -7713,7 +8383,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An integrated transport infrastructure system comprising all six modes (road, railway, inland waterway, maritime, air, and pipeline) distributed nationwide and linked to international corridors such as the Trans-Asian Highway and Railway. Major transport hubs in Hanoi, Da Nang, and Ho Chi Minh City serve as Vietnam's international gateways.
 - **Giải thích (VI):** Hệ thống hạ tầng vận tải gồm đầy đủ 6 loại hình (đường ô tô, đường sắt, đường sông, đường biển, đường hàng không và đường ống) phân bố rộng khắp cả nước và kết nối với một số tuyến quốc tế như đường bộ, đường sắt xuyên Á. Các đầu mối giao thông lớn là Hà Nội, Đà Nẵng và Thành phố Hồ Chí Minh đóng vai trò cửa ngõ quốc tế của đất nước.
 - **Bối cảnh:** Địa lí lớp 12, Bài 20 (Mục I): cấu trúc tổng thể và sự phân bố các loại hình giao thông vận tải ở Việt Nam.
-- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B20, tr. 84; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I), tr. 84
+- **Nguồn:** SGK Địa lí 12 KNTT, Phần 3, B20, tr. 84; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I), tr. 84; SGK Địa lí 12 KNTT, Phần 3, B20 (Mục I.1), tr. 84, 85
 
 ### transport turnover
 - **Tiếng Việt:** Khối lượng luân chuyển
@@ -7723,7 +8393,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 34 (Mục 1.b): đánh giá hiệu quả hoạt động vận tải theo cả khối lượng và quãng đường chuyên chở.
   - *Lưu ý:* Phân biệt với khối lượng vận chuyển (chỉ tính số lượt khách hoặc số tấn hàng hoá mà chưa nhân với quãng đường vận chuyển).
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.b), tr. 93
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.b), tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34, tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.a), tr. 93
 
 ### transport volume
 - **Tiếng Việt:** Khối lượng vận chuyển
@@ -7733,7 +8403,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 34 (Mục 1.b): đo lường quy mô chuyên chở của ngành giao thông vận tải, phân biệt với khối lượng luân chuyển.
   - *Lưu ý:* Phân biệt với khối lượng luân chuyển (có tính thêm cự li chuyên chở theo đơn vị lượt khách.km và tấn.km).
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.b), tr. 93
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.b), tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34, tr. 93; SGK Địa lí 10 KNTT, Phần ba, B34 (Mục 1.a), tr. 93
 
 ### transportation of China
 - **Tiếng Việt:** Giao thông vận tải Trung Quốc
@@ -7749,7 +8419,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An infrastructure service sector in Southeast Asia increasingly prioritized for expansion and modernization to serve domestic production and daily life in each country. Developing transport networks also enhances the region's attractiveness to foreign investors.
 - **Giải thích (VI):** Ngành dịch vụ hạ tầng tại Đông Nam Á đang được chú trọng mở rộng và hiện đại hoá nhằm đáp ứng nhu cầu sản xuất và đời sống dân cư của mỗi quốc gia. Sự phát triển đồng bộ của mạng lưới giao thông vận tải đồng thời nâng cao sức hấp dẫn của khu vực đối với các nhà đầu tư nước ngoài.
 - **Bối cảnh:** Địa lí lớp 11, Bài 12 (Mục II.3.b): Nêu định hướng phát triển và vai trò thu hút đầu tư của ngành giao thông vận tải ở Đông Nam Á.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.3.b), tr. 59
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.3.b), tr. 59; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.3.a), tr. 59; SGK Địa lí 11 KNTT, Phần hai, B12 (Mục II.3.c), tr. 59
 
 ### transportation of the Republic of South Africa
 - **Tiếng Việt:** Giao thông vận tải Cộng hoà Nam Phi
@@ -7757,7 +8427,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A well-developed, multimodal transport infrastructure system in the Republic of South Africa (though still limited in high mountains and deserts), where roadways serve as the primary mode for passenger and freight traffic and the railway network—the tenth longest in the world—connects extensively across sub-Saharan Africa. Maritime and air transport also play vital roles through major seaports (Cape Town, Port Elizabeth, Durban) and key airports (Pretoria, Johannesburg, Cape Town).
 - **Giải thích (VI):** Hệ thống hạ tầng dịch vụ vận chuyển khá phát triển với đầy đủ các loại hình của Cộng hoà Nam Phi (dù còn hạn chế ở vùng núi cao và hoang mạc), trong đó đường bộ giữ vai trò vận tải hành khách, hàng hoá chính và mạng lưới đường sắt dài thứ 10 thế giới kết nối rộng khắp khu vực cận Xa-ha-ra. Đường biển và đường hàng không đóng vai trò quan trọng thông qua các cảng biển lớn (Kếp-tao, Po Ê-li-da-bét, Đuốc-ban) và các sân bay trọng điểm (Prê-tô-ri-a, Giô-han-ne-xbua, Kếp-tao).
 - **Bối cảnh:** Địa lí lớp 11, Bài 31 (Mục II.3): Sự phát triển các loại hình vận tải và đầu mối cảng biển, sân bay lớn của Cộng hoà Nam Phi.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.3), tr. 163, 164; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.3), tr. 164
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.3), tr. 163, 164; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.3), tr. 164; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.2), tr. 163; SGK Địa lí 11 KNTT, Phần hai, B31 (Mục II.3), tr. 163
 
 ### transportation of the United States
 - **Tiếng Việt:** Giao thông vận tải Hoa Kỳ
@@ -7789,7 +8459,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A natural environment distinctly divided into wet and dry seasons (in Africa comprising two symmetrical belts roughly coinciding with the sub-equatorial climate zone). Its characteristic landscape consists of open woodlands and shrub savannas supporting abundant wildlife, including herbivores (zebras, antelopes, giraffes) and carnivores (lions, leopards).
 - **Giải thích (VI):** Môi trường tự nhiên phân hoá rõ rệt thành mùa mưa và mùa khô (tại châu Phi gồm hai dải đối xứng gần trùng với đới khí hậu cận xích đạo). Cảnh quan đặc trưng là rừng thưa và xa van cây bụi với hệ động vật hoang dã phong phú gồm các loài ăn cỏ (ngựa vằn, sơn dương, hươu cao cổ) và ăn thịt (sư tử, báo gấm).
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 9 (Mục 2.d): hai dải môi trường tự nhiên đối xứng ở bắc và nam Xích đạo với cảnh quan xa van đặc trưng của châu Phi.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 131
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 131; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 03, B9 (Mục 2.d), tr. 131, 132
 
 ### tropical forest
 - **Tiếng Việt:** Rừng nhiệt đới
@@ -7891,7 +8561,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A natural zone distributed mainly in Southern Asia and Southeast Asia, characterized by tropical monsoon and equatorial climates. Its typical vegetation consists of tropical rainforests and tropical monsoon forests with diverse species composition, valuable timber trees, and rare animals.
 - **Giải thích (VI):** Đới thiên nhiên phân bố chủ yếu ở Nam Á và Đông Nam Á, đặc trưng bởi khí hậu nhiệt đới gió mùa và khí hậu xích đạo. Thảm thực vật điển hình là rừng mưa nhiệt đới và rừng nhiệt đới gió mùa có thành phần loài đa dạng, nhiều cây gỗ tốt và động vật quý hiếm.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 5 (Mục 2.e): đới thiên nhiên phân bố ở khu vực Nam Á và Đông Nam Á.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.e), tr. 113; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.e), tr. 113, 114
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.e), tr. 113; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.e), tr. 113, 114; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B5 (Mục 2.d), tr. 113
 
 ### troposphere
 - **Tiếng Việt:** Tầng đối lưu
@@ -7993,7 +8663,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An indicator expressing the proportion of inhabitants residing in urban areas relative to the total population of a territory. It serves as a primary measure of urbanization development and a basis for comparing urbanization levels across countries.
 - **Giải thích (VI):** Chỉ tiêu biểu thị tỉ trọng dân cư sinh sống tại các khu vực đô thị trong tổng số dân của một lãnh thổ. Đây là thước đo quan trọng phản ánh trình độ phát triển của quá trình đô thị hoá và là cơ sở so sánh mức độ đô thị hoá giữa các quốc gia.
 - **Bối cảnh:** Địa lí lớp 10, Bài 20 (Mục 2.a): Thước đo đánh giá trình độ và mức độ đô thị hoá giữa các quốc gia.
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 2.a), tr. 61
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 2.a), tr. 61; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.b), tr. 61; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 2.b), tr. 61
+
+### urban settlement
+- **Tiếng Việt:** Quần cư thành thị
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** A settlement form in urban areas characterized by high population density, spatial organization into wards and residential groups, and industry and services as the main economic activities. Urban settlements are multifunctional, serving as centres of economics, politics, culture, and innovation.
+- **Giải thích (VI):** Loại hình tổ chức cư trú ở các đô thị có mật độ dân số cao, cấu trúc thành phường, tổ dân phố với công nghiệp và dịch vụ là hoạt động kinh tế chủ yếu. Quần cư thành thị mang tính đa chức năng, đóng vai trò là trung tâm kinh tế, chính trị, văn hoá và đổi mới sáng tạo.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 2 (Mục 2): Phân biệt đặc trưng mật độ, cấu trúc cư trú, hoạt động kinh tế và chức năng của quần cư thành thị với quần cư nông thôn.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2), tr. 122
 
 ### urban-rural labor structure
 - **Tiếng Việt:** Cơ cấu lao động theo thành thị và nông thôn
@@ -8012,7 +8690,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Địa lí lớp 10, Bài 20 (Mục 2.a): Trình bày khái niệm và các biểu hiện đặc trưng của quá trình đô thị hoá trên thế giới.
   - Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2): đánh giá mức độ đô thị hoá cao của châu Âu khi khoảng 75% số dân sống ở khu vực đô thị (năm 2020).
-- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 2.a), tr. 61; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2), tr. 103
+- **Nguồn:** SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 2.a), tr. 61; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 1.b), tr. 61; SGK Địa lí 10 KNTT, Phần ba, B20 (Mục 2.b), tr. 61; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B2 (Mục 2), tr. 103
 
 ### urbanization in Latin America
 - **Tiếng Việt:** Đô thị hoá ở khu vực Mỹ La-tinh
@@ -8021,6 +8699,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quá trình hình thành và phát triển đô thị tại khu vực Mỹ La-tinh gắn liền với quá trình nhập cư và lịch sử khai thác lãnh thổ. Các đô thị trong khu vực phát triển từ thế kỉ XVI sau khi thực dân Tây Ban Nha và Bồ Đào Nha xâm chiếm Mỹ La-tinh.
 - **Bối cảnh:** Địa lí lớp 11, Bài 6 (Mục III.2): Lịch sử hình thành, đặc điểm và ảnh hưởng của quá trình đô thị hoá ở khu vực Mỹ La-tinh.
 - **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B6 (Mục III.1), tr. 28; SGK Địa lí 11 KNTT, Phần hai, B6 (Mục III.2), tr. 28; SGK Địa lí 11 KNTT, Phần hai, B6 (Mục III.2), tr. 28, 29
+
+### urbanization in the industrial society era
+- **Tiếng Việt:** Đô thị hoá thời kì xã hội công nghiệp
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The process of urban growth and expansion beginning in the late eighteenth century alongside the First Industrial Revolution and late-nineteenth-century electrified production, transforming labour structures and rapidly increasing populations in industrial centres. During this period, urban scale as well as urban population size and share rose continuously alongside industry and services—albeit unevenly between developed and developing countries—while spontaneous urbanization in some cities caused environmental pollution and social ills.
+- **Giải thích (VI):** Quá trình phát triển và mở rộng đô thị khởi đầu từ nửa cuối thế kỉ XVIII gắn với cách mạng công nghiệp lần thứ nhất và nền sản xuất điện khí hoá từ cuối thế kỉ XIX, làm thay đổi cơ cấu lao động và tăng nhanh dân số tại các trung tâm công nghiệp. Trong giai đoạn này, quy mô đô thị cùng số dân và tỉ lệ dân thành thị tăng liên tục gắn với công nghiệp và dịch vụ nhưng có sự khác biệt giữa nhóm nước phát triển với đang phát triển, đồng thời nảy sinh ô nhiễm môi trường và tệ nạn xã hội do đô thị hoá tự phát.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 1 (Mục 2.a): Nhận diện đặc trưng quá trình đô thị hoá gắn với công nghiệp hoá từ nửa cuối thế kỉ XVIII đến thập niên 1970.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.a), tr. 221, 222; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1, tr. 221; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 1), tr. 221
+
+### urbanization in the post-industrial society era
+- **Tiếng Việt:** Đô thị hoá thời kì xã hội hậu công nghiệp
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** The transformation of production structures and urban organization since the late twentieth century driven by the internet and the knowledge economy, focusing on modern industry, information technology, automation, and digital services. Urbanization in this era has stabilized at high levels with slow growth in developed countries, while proceeding rapidly with a sharp rise in megacities across developing countries.
+- **Giải thích (VI):** Quá trình biến đổi cơ cấu sản xuất và phương thức tổ chức đô thị từ cuối thế kỉ XX dưới tác động của internet và nền kinh tế tri thức, tập trung vào công nghiệp hiện đại, công nghệ thông tin, tự động hoá và dịch vụ số. Đô thị hoá giai đoạn này đã ổn định ở mức cao và tăng chậm tại các nước phát triển, trong khi diễn ra nhanh với sự gia tăng mạnh số lượng siêu đô thị tại các nước đang phát triển.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 1 (Mục 2.b): Phân tích xu hướng biến đổi quy mô, chức năng kinh tế tri thức và phân bố siêu đô thị từ cuối thế kỉ XX đến nay.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 223, 224; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 223; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 2.b), tr. 224
+
+### urbanization in the Red River Delta Region
+- **Tiếng Việt:** Đô thị hoá vùng Đồng bằng sông Hồng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Urban development process in the Red River Delta with ancient origins (dating back to Co Loa Citadel in the 3rd century BCE) that has accelerated since Doi Moi through industrialization and modernization, expanding urban scale around the special municipality of Hanoi. While driving economic and labor restructuring toward smart, green, and satellite cities, it also places pressure on transport, housing, and the environment.
+- **Giải thích (VI):** Quá trình phát triển đô thị có lịch sử hình thành rất sớm ở Đồng bằng sông Hồng (từ Thành Cổ Loa thế kỉ III TCN) và tăng nhanh từ thời kì Đổi mới dưới tác động của công nghiệp hoá, hiện đại hoá, mở rộng quy mô đô thị với hạt nhân là đô thị đặc biệt Hà Nội. Quá trình này thúc đẩy chuyển dịch cơ cấu kinh tế – lao động, hướng tới hệ thống đô thị thông minh, đô thị xanh và đô thị vệ tinh nhưng cũng tạo sức ép lên giao thông, nhà ở và môi trường.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 13 (Mục 3): Đặc điểm lịch sử, thực trạng, tác động kinh tế – xã hội và xu hướng phát triển mạng lưới đô thị ở vùng Đồng bằng sông Hồng.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 3.a), tr. 169; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 3.b), tr. 169; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 3.c), tr. 169
+
+### urbanization in the Southeast Region
+- **Tiếng Việt:** Đô thị hoá vùng Đông Nam Bộ
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Urban development process rooted in over 300 years of territorial settlement in the Southeast Region that has accelerated rapidly since Doi Moi, giving the region Vietnam's highest urban population share (62.8% in 2024) centered on Ho Chi Minh City. While driving economic growth toward smart, modern, and green cities, it also exerts heavy pressure on housing, transport, and the environment.
+- **Giải thích (VI):** Quá trình phát triển đô thị gắn với hơn 300 năm khai thác lãnh thổ ở Đông Nam Bộ và tăng tốc mạnh từ thời kì Đổi mới, đưa tỉ lệ dân thành thị của vùng đạt mức cao nhất cả nước (62,8% năm 2024) với hạt nhân là Thành phố Hồ Chí Minh. Quá trình này thúc đẩy tăng trưởng kinh tế theo hướng đô thị thông minh, hiện đại và đô thị xanh nhưng cũng tạo áp lực lớn đối với nhà ở, giao thông và môi trường.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 17 (Mục 3): Đặc trưng đô thị hoá có trình độ và tỉ lệ dân thành thị cao nhất cả nước gắn với công nghiệp hoá, hiện đại hoá ở Đông Nam Bộ.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B17 (Mục 2.a), tr. 197; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B17 (Mục 2.b), tr. 197; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B17 (Mục 3.a), tr. 197
 
 ### urbanization in Vietnam
 - **Tiếng Việt:** Đô thị hoá ở Việt Nam
@@ -8060,7 +8770,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Vietnam's comprehensive integration and collaborative engagement across economic, cultural, environmental, and regional security spheres since joining ASEAN on July 28, 1995. Cooperation is conducted through ministerial conferences, major treaties and agreements (such as ATIGA, RCEP, and DOC), regional forums, development projects (including the ASEAN Power Grid), and cultural and sporting exchanges.
 - **Giải thích (VI):** Quá trình hội nhập và phối hợp toàn diện của Việt Nam kể từ khi gia nhập ASEAN ngày 28/7/1995 trên các lĩnh vực kinh tế, văn hoá, môi trường và an ninh khu vực. Hoạt động hợp tác được triển khai đa dạng thông qua các hội nghị cấp bộ trưởng, kí kết các hiệp ước và hiệp định quan trọng (như ATIGA, RCEP, DOC), tham gia các diễn đàn, dự án phát triển (Mạng lưới Điện ASEAN) và giao lưu văn hoá – thể thao khu vực.
 - **Bối cảnh:** Địa lí lớp 11, Bài 13 (Mục IV.1): Trình bày các hình thức và lĩnh vực hợp tác cụ thể của Việt Nam từ khi gia nhập ASEAN.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục IV.1), tr. 64, 65
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục IV.1), tr. 64, 65; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục II.2), tr. 64; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục III), tr. 64
 
 ### Vietnam's role in ASEAN
 - **Tiếng Việt:** Vai trò của Việt Nam trong ASEAN
@@ -8068,7 +8778,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Vietnam's proactive and leading member standing in the institution-building and development of the Association of Southeast Asian Nations. Vietnam has put forward numerous initiatives to strengthen both intra-bloc integration and external partnerships, contributing actively to the overall advancement of the ASEAN Community.
 - **Giải thích (VI):** Vị thế thành viên chủ động, tích cực hàng đầu của Việt Nam trong quá trình xây dựng và phát triển Hiệp hội các quốc gia Đông Nam Á. Việt Nam đề xuất nhiều sáng kiến thiết thực nhằm tăng cường liên kết nội khối cũng như mở rộng quan hệ ngoại khối, đóng góp quan trọng vào sự phát triển chung của Cộng đồng ASEAN.
 - **Bối cảnh:** Địa lí lớp 11, Bài 13 (Mục IV.2): Đánh giá những đóng góp và sáng kiến của Việt Nam đối với sự phát triển của Cộng đồng ASEAN.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục IV.2), tr. 65
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần hai, B13 (Mục IV.2), tr. 65; SGK Địa lí 11 KNTT, Phần hai, B13 (Mục IV.1), tr. 65
 
 ### vital maritime shipping route in the Bien Dong Sea
 - **Tiếng Việt:** Tuyến đường giao thông biển huyết mạch qua Biển Đông
@@ -8257,6 +8967,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 5): nguyên nhân hình thành gió và cách xác định tốc độ, hướng gió.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15, tr. 142; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 04, B15 (Mục 5), tr. 145; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192
 
+### winter crops in the Red River Delta Region
+- **Tiếng Việt:** Cây vụ đông vùng Đồng bằng sông Hồng
+- **Chuyên ngành gốc:** Địa lí
+- **Giải thích (EN):** Cold-tolerant vegetable and legume crops—such as potatoes, kohlrabi, cabbage, tomatoes, and carrots—cultivated during the cold winter season in the Red River Delta Region with high economic returns.
+- **Giải thích (VI):** Nhóm cây rau đậu ưa lạnh như khoai tây, su hào, cải bắp, cà chua, cà rốt được trồng trong mùa đông lạnh ở vùng Đồng bằng sông Hồng và mang lại hiệu quả kinh tế cao.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 13 (Mục 5): Thế mạnh đặc trưng trong ngành trồng trọt khai thác điều kiện khí hậu có một mùa đông lạnh của vùng Đồng bằng sông Hồng.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 5), tr. 171; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 5.a), tr. 171; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 5.a), tr. 171, 172
+
 ### winter monsoon in Vietnam
 - **Tiếng Việt:** Gió mùa đông ở Việt Nam
 - **Chuyên ngành gốc:** Địa lí
@@ -8292,7 +9010,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 11, Bài 4 (Mục I.2): Quá trình hình thành, quy mô thành viên, tôn chỉ và mục tiêu điều tiết thương mại toàn cầu của WTO.
   - Địa lí lớp 10, Bài 37 (Mục I.3): giới thiệu định chế thương mại toàn cầu bên cạnh các tổ chức kinh tế khu vực như EU, ASEAN, APEC.
   - Giáo dục Kinh tế và Pháp luật lớp 12, Bài 16 và Bảng giải thích thuật ngữ: thiết chế thương mại đa phương toàn cầu thiết lập và giám sát các nguyên tắc pháp lí của thương mại quốc tế hiện đại.
-- **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B4, tr. 14; SGK Địa lí 11 KNTT, Phần một, B4 (Mục I.1), tr. 14; SGK Địa lí 11 KNTT, Phần một, B4 (Mục I.2), tr. 14; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.3), tr. 104; SGK GD KT&PL 12 KNTT, Bảng giải thích thuật ngữ, tr. 139
+- **Nguồn:** SGK Địa lí 11 KNTT, Phần một, B4, tr. 14; SGK Địa lí 11 KNTT, Phần một, B4 (Mục I.1), tr. 14; SGK Địa lí 11 KNTT, Phần một, B4 (Mục I.2), tr. 14; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.3), tr. 104; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.2), tr. 104; SGK Địa lí 10 KNTT, Phần ba, B37 (Mục I.3), tr. 104, 105; SGK GD KT&PL 12 KNTT, Bảng giải thích thuật ngữ, tr. 139
 
 ### writing and presenting a service industry report
 - **Tiếng Việt:** Viết và trình bày báo cáo về ngành dịch vụ
@@ -8326,7 +9044,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An age-structure characteristic of Asia's population featuring a high proportion of working-age people (67.7% in 2020) while gradually transitioning toward aging. This structure provides an abundant labor force for economic development while creating significant pressure on employment, education, and healthcare.
 - **Giải thích (VI):** Đặc điểm cơ cấu dân số theo tuổi của châu Á với tỉ lệ người trong độ tuổi lao động chiếm ưu thế (đạt 67,7% năm 2020) và đang chuyển dịch dần theo hướng già hoá. Cơ cấu này cung cấp nguồn lao động dồi dào cho phát triển kinh tế nhưng đồng thời tạo sức ép lớn về việc làm, giáo dục và chăm sóc y tế.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1.a): đặc điểm cơ cấu dân số theo tuổi của châu Á và tác động hai mặt đối với kinh tế – xã hội.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 115
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1.a), tr. 115; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 02, B6, tr. 115
 
 ### zone time
 - **Tiếng Việt:** Giờ múi (Giờ khu vực; khu vực giờ)

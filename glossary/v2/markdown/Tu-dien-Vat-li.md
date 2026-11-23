@@ -30,7 +30,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A physical quantity measuring the radiation energy absorbed per kilogram of mass of an irradiated object, denoted by $D$. Its SI unit is $\text{J/kg}$, or gray ($\text{Gy}$), where $1\text{ Gy} = 1\text{ J/kg}$.
 - **Giải thích (VI):** Đại lượng vật lí đo năng lượng hấp thụ từ tia phóng xạ trên mỗi kilôgam khối lượng của vật bị chiếu xạ, kí hiệu là $D$. Trong hệ SI, liều hấp thụ phóng xạ có đơn vị là $\text{J/kg}$, hay gray ($\text{Gy}$), với $1\text{ Gy} = 1\text{ J/kg}$.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục IV): đại lượng cơ sở để tính liều hấp thụ phóng xạ hiệu dụng trong đánh giá an toàn bức xạ.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 112; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 113
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 112; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 113; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 112, 113
 
 ### AC-DC power supply
 - **Tiếng Việt:** Biến áp nguồn
@@ -38,7 +38,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A laboratory electrical device that converts $220\text{ V}$ alternating voltage into low-voltage alternating current (AC) or direct current (DC) outputs ($3\text{ V}$ to $24\text{ V}$) to ensure safety during experiments.
 - **Giải thích (VI):** Thiết bị điện trong phòng thí nghiệm có chức năng chuyển đổi điện áp xoay chiều $220\text{ V}$ thành điện áp xoay chiều (AC) hoặc điện áp một chiều (DC) có giá trị nhỏ ($3\text{ V}$ đến $24\text{ V}$), đảm bảo an toàn khi làm thí nghiệm.
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 1 (Mục III.3.b): Sử dụng đầu ra một chiều (DC) với chốt đỏ là cực dương và chốt đen là cực âm khi lắp mạch điện thí nghiệm.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.b), tr. 9
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.b), tr. 9; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục II.2.b), tr. 8; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.1), tr. 8; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.2), tr. 8
 
 ### accelerated motion
 - **Tiếng Việt:** Chuyển động nhanh dần
@@ -73,6 +73,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đường biểu diễn sự biến thiên của gia tốc tức thời $a$ theo thời gian $t$ của vật dao động điều hoà, cũng là một đường hình sin tương tự đồ thị của li độ và vận tốc.
 - **Bối cảnh:** Vật lí lớp 11, Bài 3 (Mục II.2): Biểu diễn trực quan sự biến thiên gia tốc theo thời gian của vật dao động điều hoà.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 01, B3 (Mục I.2), tr. 15; SGK Vật lí 11 KNTT, Chương 01, B3 (Mục II), tr. 15; SGK Vật lí 11 KNTT, Chương 01, B3 (Mục II.1), tr. 15
+
+### accommodation of the eye
+- **Tiếng Việt:** Sự điều tiết (sự điều tiết của mắt)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The natural process in which the ciliary muscles supporting the crystalline lens contract or relax to change its focal length so that sharp images of objects at varying distances are formed on the retina.
+- **Giải thích (VI):** Quá trình tự nhiên trong đó cơ vòng đỡ thể thuỷ tinh co dãn làm thay đổi tiêu cự của thể thuỷ tinh sao cho ảnh của vật ở các khoảng cách khác nhau luôn hiện rõ nét trên màng lưới (võng mạc).
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 10 (Mục III): giải thích hoạt động quang học tự nhiên của mắt khi quan sát vật trực tiếp hoặc qua kính lúp.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục III), tr. 52
 
 ### action force
 - **Tiếng Việt:** Lực tác dụng
@@ -131,7 +139,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A mode of radioactive decay common in heavy nuclei ($A > 190$) governed by $^{A}_{Z}\text{X} \rightarrow ^{A-4}_{Z-2}\text{Y} + ^{4}_{2}\text{He}$, emitting $\alpha$ rays consisting of $^{4}_{2}\text{He}$ nuclei moving at speeds of about $2 \times 10^7\text{ m/s}$. Alpha rays strongly ionize matter but have low penetrating power, traveling only a few $\text{cm}$ in air and being stopped by a $1\text{ mm}$ sheet of paper.
 - **Giải thích (VI):** Dạng phân rã phóng xạ thường gặp ở các hạt nhân nặng ($A > 190$) theo phương trình $^{A}_{Z}\text{X} \rightarrow ^{A-4}_{Z-2}\text{Y} + ^{4}_{2}\text{He}$, phát ra tia $\alpha$ là dòng hạt nhân $^{4}_{2}\text{He}$ chuyển động với tốc độ khoảng $2 \cdot 10^7\text{ m/s}$. Tia $\alpha$ có khả năng ion hoá môi trường rất mạnh nhưng đâm xuyên kém, chỉ đi được vài $\text{cm}$ trong không khí và bị chặn lại bởi tờ giấy dày $1\text{ mm}$.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục I.3.a): một trong ba dạng phóng xạ phổ biến, phân biệt với phóng xạ beta và phóng xạ gamma.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.a), tr. 106
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.a), tr. 106; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3), tr. 105; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.b), tr. 106
 
 ### alpha particle
 - **Tiếng Việt:** Hạt alpha (tia $\alpha$)
@@ -158,12 +166,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B21, tr. 91; SGK Vật lí 12 KNTT, Chương 04, B21 (Mục I), tr. 91; SGK Vật lí 12 KNTT, Chương 04, B21 (Mục I), tr. 91, 92
 
 ### alternating current
-- **Tiếng Việt:** Dòng điện xoay chiều
+- **Tiếng Việt:** Dòng điện xoay chiều (AC)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** An electric current whose intensity varies harmonically with time according to a cosine (or sine) function of the form $i = I_0\cos(\omega t + \varphi_i)$, where $I_0$ is the peak current, $\omega$ is the angular frequency, and $\varphi_i$ is the initial phase of the current.
 - **Giải thích (VI):** Dòng điện có cường độ biến thiên điều hoà theo thời gian dưới dạng hàm cosin (hoặc sin) theo biểu thức $i = I_0\cos(\omega t + \varphi_i)$, trong đó $I_0$ là cường độ dòng điện cực đại, $\omega$ là tần số góc và $\varphi_i$ là pha ban đầu của dòng điện.
-- **Bối cảnh:** Vật lí lớp 12, Bài 17 (Mục II.1): dòng điện biến thiên tuần hoàn chạy trong mạch tiêu thụ điện xoay chiều.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B17, tr. 72; SGK Vật lí 12 KNTT, Chương 03, B17 (Mục I), tr. 72; SGK Vật lí 12 KNTT, Chương 03, B17 (Mục I), tr. 73
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: An electric current that periodically reverses its direction and whose magnitude varies cyclically with time (following a sine or cosine function). In Vietnam's national power grid and household supply, alternating current operates at a standard frequency of $50\text{ Hz}$. / VI: Dòng điện có chiều luân phiên thay đổi và có cường độ biến thiên tuần hoàn theo thời gian (theo quy luật hàm số sin hoặc cos). Trong hệ thống điện lưới quốc gia và sinh hoạt gia đình tại Việt Nam, dòng điện xoay chiều có tần số tiêu chuẩn $50\text{ Hz}$.
+- **Bối cảnh:**
+  - Vật lí lớp 12, Bài 17 (Mục II.1): dòng điện biến thiên tuần hoàn chạy trong mạch tiêu thụ điện xoay chiều.
+  - Khoa học tự nhiên lớp 9, Bài 14 (Mục III): phân biệt với dòng điện một chiều không đổi về đồ thị cường độ và chiều dòng điện theo thời gian.
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B17, tr. 72; SGK Vật lí 12 KNTT, Chương 03, B17 (Mục I), tr. 72; SGK Vật lí 12 KNTT, Chương 03, B17 (Mục I), tr. 73; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục II), tr. 70; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục III), tr. 70; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục III), tr. 70, 71
 
 ### alternating current generator
 - **Tiếng Việt:** Máy phát điện xoay chiều
@@ -195,7 +206,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An electrical measuring instrument used to measure the electric current flowing in a circuit. In use, the current must be estimated to select an appropriate measurement range without exceeding the maximum limit, with proper connection of positive and negative terminals.
 - **Giải thích (VI):** Dụng cụ đo điện dùng để đo cường độ dòng điện chạy trong mạch điện. Khi sử dụng, cần ước lượng cường độ dòng điện để chọn thang đo phù hợp không vượt quá giới hạn đo và mắc đúng chốt dương, chốt âm.
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 1 (Mục III.3.c) và Bài 24 (Mục I): Dụng cụ đo cường độ dòng điện mắc trong mạch điện thí nghiệm một chiều.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.c), tr. 9; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.c), tr. 9; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.b), tr. 9; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.d), tr. 9
 
 ### amorphous solid
 - **Tiếng Việt:** Chất rắn vô định hình
@@ -251,13 +262,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 10, Bài 6 (Mục 1): Bản chất vật lí của tín hiệu sóng âm liên tục trước khi số hoá.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 01, B6, tr. 28; SGK Tin học 10 KNTT, Chủ đề 01, B6 (Mục 1), tr. 28; SGK Tin học 10 KNTT, Chủ đề 01, B6 (Mục 1.a), tr. 28
 
+### angle of deviation
+- **Tiếng Việt:** Góc lệch (D)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The angle $D$ formed between the direction of the incident ray $SI$ and the direction of the emergent ray $JR$ when a light ray passes through an optical prism.
+- **Giải thích (VI):** Góc $D$ hợp bởi phương của tia sáng tới $SI$ và phương của tia sáng ló $JR$ khi tia sáng truyền qua lăng kính.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 7 (Mục III): Đại lượng đo mức độ đổi phương của tia sáng sau hai lần khúc xạ tại hai mặt bên của lăng kính.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục II), tr. 36; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục III), tr. 36; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục III), tr. 36, 37
+
 ### angle of incidence
-- **Tiếng Việt:** Góc tới
+- **Tiếng Việt:** Góc tới (i)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The angle formed between the incident light ray and the normal line at the point of incidence, denoted as $i$ (with $\widehat{SIN} = i$ in plane-mirror reflection diagrams).
 - **Giải thích (VI):** Góc tạo bởi tia sáng tới và pháp tuyến tại điểm tới, kí hiệu là $i$ (với $\widehat{SIN} = i$ trên hình biểu diễn phản xạ qua gương phẳng).
-- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 16 (Mục I, II): đo độ lớn góc tới để kiểm chứng định luật phản xạ ánh sáng, lưu ý phân biệt với góc hợp bởi tia sáng tới và mặt gương.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 79; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục II.1), tr. 79; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục II.2), tr. 79
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The angle formed between the incident ray $SI$ and the normal line $NN'$ at the point of incidence ($\widehat{SIN}$), denoted $i$. / VI: Góc hợp bởi tia tới $SI$ và pháp tuyến $NN'$ tại điểm tới ($\widehat{SIN}$), kí hiệu là $i$.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 7, Bài 16 (Mục I, II): đo độ lớn góc tới để kiểm chứng định luật phản xạ ánh sáng, lưu ý phân biệt với góc hợp bởi tia sáng tới và mặt gương.
+  - Khoa học tự nhiên lớp 9, Bài 5 (Mục I): Đại lượng góc dùng trong định luật khúc xạ ánh sáng và điều kiện phản xạ toàn phần.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 79; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục II.1), tr. 79; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục II.2), tr. 79; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục I), tr. 26; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục II), tr. 26, 27; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục II), tr. 27
 
 ### angle of reflection
 - **Tiếng Việt:** Góc phản xạ
@@ -266,6 +288,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Góc tạo bởi tia sáng phản xạ và pháp tuyến tại điểm tới, kí hiệu là $i'$ (với $\widehat{RIN} = i'$). Theo định luật phản xạ ánh sáng, góc phản xạ luôn có độ lớn bằng góc tới ($i' = i$).
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 16 (Mục I, II): xác định hướng của tia sáng phản xạ dựa trên độ lớn của góc tới.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 79; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục II.1), tr. 79; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục II.2), tr. 79
+
+### angle of refraction
+- **Tiếng Việt:** Góc khúc xạ (r)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The angle formed between the refracted ray $IK$ and the normal line $NN'$ at the point of incidence ($\widehat{KIN'}$), denoted $r$.
+- **Giải thích (VI):** Góc hợp bởi tia khúc xạ $IK$ và pháp tuyến $NN'$ tại điểm tới ($\widehat{KIN'}$), kí hiệu là $r$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 5 (Mục I): Đại lượng góc xác định phương của tia khúc xạ theo định luật khúc xạ ánh sáng.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục I), tr. 26; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục II), tr. 26, 27; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục II), tr. 27
 
 ### angular displacement
 - **Tiếng Việt:** Độ dịch chuyển góc (Li độ góc)
@@ -293,6 +323,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tần số góc trong dao động điều hoà của con lắc đơn (khi góc lệch nhỏ và bỏ qua ma sát), xác định bởi công thức $\omega = \sqrt{\frac{g}{l}}$, với $g$ là gia tốc trọng trường và $l$ là chiều dài dây treo.
 - **Bối cảnh:** Vật lí lớp 11, Bài 5 (Mục IV.2): Tính tần số góc và chu kì dao động điều hoà của con lắc đơn.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.1), tr. 22; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.2), tr. 22; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.2), tr. 22, 23
+
+### angular magnification
+- **Tiếng Việt:** Số bội giác (G)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A dimensionless quantity characterizing a magnifying glass's ability to enlarge the visual angle of an image relative to that of the object, defined by the ratio $G = \frac{\beta}{\alpha}$ of the image visual angle $\beta$ to the object visual angle $\alpha$. The rating marked on a magnifying glass frame ($2\times$, $5\times$, $10\times$,...) follows the convention for viewing at infinity, $G = \frac{25}{f}$, where the focal length $f$ is measured in $\text{cm}$.
+- **Giải thích (VI):** Đại lượng đặc trưng cho tác dụng làm tăng góc trông ảnh so với góc trông vật của kính lúp, xác định bằng tỉ số $G = \frac{\beta}{\alpha}$ giữa góc trông ảnh $\beta$ và góc trông vật $\alpha$. Số bội giác ghi trên khung kính lúp ($2\times$, $5\times$, $10\times$,...) được tính theo quy ước ngắm chừng ở vô cực $G = \frac{25}{f}$, với tiêu cự $f$ tính bằng $\text{cm}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 10 (Mục I, II): đánh giá khả năng phóng đại góc quan sát của các loại kính lúp.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục I), tr. 50; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục I), tr. 51; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục II), tr. 51
 
 ### angular speed
 - **Tiếng Việt:** Tốc độ góc
@@ -510,13 +548,31 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 13 (Mục II.1): xét điều kiện cân bằng của vật chịu tác dụng đồng thời của nhiều lực.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B13 (Mục II.1), tr. 58; SGK Vật lí 10 KNTT, Chương 03, B13 (Mục II.2), tr. 58
 
+### base of an optical prism
+- **Tiếng Việt:** Đáy (đáy của lăng kính)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The face opposite the refracting edge of an optical prism; when a light ray passes from air through the prism, the emergent ray always deviates toward this face relative to the incident ray.
+- **Giải thích (VI):** Mặt nằm đối diện với cạnh của lăng kính; khi tia sáng truyền từ không khí qua lăng kính, tia ló luôn bị lệch về phía mặt này so với tia tới.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 9, Bài 7 (Mục I): Mặt đối diện cạnh lăng kính dùng để xác định chiều lệch của tia sáng ló ra khỏi lăng kính.
+  - *Lưu ý:* Trong quang học, đáy của lăng kính là mặt bên hình chữ nhật đối diện với cạnh khúc xạ, khác với hai mặt đáy tam giác song song của hình lăng trụ đứng trong hình học.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7, tr. 34; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục I), tr. 34; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục I), tr. 34, 35
+
 ### becquerel
 - **Tiếng Việt:** Becơren (Bq)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The SI unit of radioactive activity (named after the scientist Becquerel), symbolized as $\text{Bq}$, corresponding to $1$ nuclear decay in $1$ second ($1\text{ Bq} = 1\text{ s}^{-1}$).
 - **Giải thích (VI):** Đơn vị đo độ phóng xạ trong hệ SI (đặt theo tên nhà bác học Becquerel), kí hiệu là $\text{Bq}$, tương ứng với $1$ phân rã hạt nhân trong $1$ giây ($1\text{ Bq} = 1\text{ s}^{-1}$).
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục II.2): đơn vị chuẩn hệ SI dùng để đo độ phóng xạ, phân biệt với đơn vị thực tế curi.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 108
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 108; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.1), tr. 108; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 108, 109
+
+### Bessel's displacement method
+- **Tiếng Việt:** Phương pháp hoán vị (phương pháp Bessel)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An experimental method for measuring the focal length of a converging lens by fixing the distance $L$ between a coaxial object and screen, then shifting the lens to find two positions separated by a distance $l$ that both produce a sharp image on the screen. The focal length of the lens is calculated using the formula $f = \frac{L^2 - l^2}{4L}$.
+- **Giải thích (VI):** Phương pháp thực nghiệm đo tiêu cự của thấu kính hội tụ bằng cách cố định khoảng cách $L$ giữa vật và màn chắn đồng trục, sau đó dịch chuyển thấu kính để tìm hai vị trí cho ảnh rõ nét trên màn cách nhau một khoảng $l$. Tiêu cự của thấu kính được tính theo công thức $f = \frac{L^2 - l^2}{4L}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 9 (Mục III): phương pháp mở rộng xác định tiêu cự của thấu kính hội tụ trong thí nghiệm quang học.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B9 (Mục III), tr. 49
 
 ### beta decay
 - **Tiếng Việt:** Phóng xạ beta (phóng xạ β⁻; phóng xạ β⁺)
@@ -524,7 +580,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A mode of radioactive decay comprising two types, $\beta^-$ decay ($^{A}_{Z}\text{X} \rightarrow ^{A}_{Z+1}\text{Y} + ^{0}_{-1}\text{e} + \tilde{\nu}$) and $\beta^+$ decay ($^{A}_{Z}\text{X} \rightarrow ^{A}_{Z-1}\text{Y} + ^{0}_{1}\text{e} + \nu$), in which the parent nucleus emits an electron ($^{0}_{-1}\text{e}$) or a positron ($^{0}_{1}\text{e}$) at nearly the speed of light in vacuum alongside an antineutrino ($\tilde{\nu}$) or a neutrino ($\nu$). Beta rays have moderate ionizing and penetrating capabilities.
 - **Giải thích (VI):** Dạng phân rã phóng xạ gồm hai loại là phóng xạ $\beta^-$ ($^{A}_{Z}\text{X} \rightarrow ^{A}_{Z+1}\text{Y} + ^{0}_{-1}\text{e} + \tilde{\nu}$) và phóng xạ $\beta^+$ ($^{A}_{Z}\text{X} \rightarrow ^{A}_{Z-1}\text{Y} + ^{0}_{1}\text{e} + \nu$), trong đó hạt nhân mẹ phát ra electron ($^{0}_{-1}\text{e}$) hoặc positron ($^{0}_{1}\text{e}$) với tốc độ xấp xỉ tốc độ ánh sáng trong chân không kèm theo phản hạt neutrino ($\tilde{\nu}$) hoặc hạt neutrino ($\nu$). Tia $\beta$ có khả năng ion hoá và khả năng đâm xuyên ở mức trung bình.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục I.3.b): dạng phân rã giữ nguyên số khối của hạt nhân nhưng thay đổi điện tích hạt nhân một đơn vị.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.b), tr. 106; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục III.1), tr. 110
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.b), tr. 106; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục III.1), tr. 110; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3), tr. 105; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.a), tr. 106
 
 ### bimetallic strip
 - **Tiếng Việt:** Băng kép
@@ -937,6 +993,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 12 (Mục I.3): Điều kiện đối với hai sóng gặp nhau để xảy ra hiện tượng giao thoa.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 02, B12 (Mục I.2), tr. 49; SGK Vật lí 11 KNTT, Chương 02, B12 (Mục I.3), tr. 49; SGK Vật lí 11 KNTT, Chương 02, B12 (Mục II.1), tr. 49
 
+### coil with two LEDs
+- **Tiếng Việt:** Cuộn dây dẫn có hai đèn LED
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An electromagnetic laboratory apparatus consisting of a conducting wire coil connected across two LEDs wired in parallel with opposite polarities, used to detect induced currents and their direction.
+- **Giải thích (VI):** Dụng cụ thí nghiệm điện từ gồm một cuộn dây dẫn có hai đầu nối với hai đèn LED mắc song song và ngược cực nhau, dùng để phát hiện dòng điện cảm ứng và chiều dòng điện.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 1 (Mục I.2.c): Sử dụng trong các thí nghiệm khảo sát hiện tượng cảm ứng điện từ và dòng điện xoay chiều.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.1.c), tr. 7; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.2.a), tr. 7; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.2.b), tr. 7
+
 ### cold reservoir
 - **Tiếng Việt:** Nguồn lạnh
 - **Chuyên ngành gốc:** Vật lí
@@ -944,6 +1008,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bộ phận chính của động cơ nhiệt có nhiệt độ $T_2$ thấp hơn nhiệt độ nguồn nóng ($T_2 < T_1$), đóng vai trò nhận phần nhiệt lượng do tác nhân của động cơ toả ra sau khi sinh công.
 - **Bối cảnh:** Vật lí lớp 12, Bài 2 (Mục II.2): bộ phận thu nhiệt thải trong sơ đồ nguyên tắc hoạt động của động cơ nhiệt.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B2 (Mục II.2), tr. 13, 14
+
+### color filter
+- **Tiếng Việt:** Tấm lọc màu (kính lọc sắc)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A colored transparent sheet (such as colored glass or cellophane) that weakly absorbs light matching its own color while strongly absorbing light of other colors, commonly used to produce monochromatic light from white light.
+- **Giải thích (VI):** Tấm vật liệu trong suốt có màu (như tấm kính màu hoặc mảnh giấy bóng màu) hấp thụ ít ánh sáng có cùng màu với nó nhưng hấp thụ mạnh các ánh sáng màu khác, thường dùng để tạo ra chùm sáng đơn sắc từ ánh sáng trắng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 7 (Mục II, IV): Dụng cụ lọc ánh sáng màu trong thí nghiệm quang học và đời sống.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục II), tr. 35; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục II), tr. 36; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục IV), tr. 38
+
+### color of objects
+- **Tiếng Việt:** Màu sắc của vật
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The perceived visual property of an object determined by the colors of light absorbed and reflected by the object toward the eye. Under white light, a colored object reflects light of its own color while absorbing the remaining colors, whereas a black object absorbs all colored light without reflection.
+- **Giải thích (VI):** Đặc tính thị giác nhận biết được của một vật phụ thuộc vào màu sắc của ánh sáng bị vật đó hấp thụ và phản xạ tới mắt. Dưới ánh sáng trắng, vật có màu nào là do phản xạ ánh sáng màu đó và hấp thụ các màu còn lại; vật màu đen hấp thụ tất cả các ánh sáng màu và không phản xạ ánh sáng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 7 (Mục IV): Giải thích màu sắc quan sát được của các vật dưới ánh sáng trắng hoặc ánh sáng màu.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục III), tr. 37; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục IV), tr. 37; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục IV), tr. 37, 38
 
 ### color-changing thermometer
 - **Tiếng Việt:** Nhiệt kế đổi màu
@@ -1046,6 +1126,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 17 (Mục I, II.2): Dự đoán và giải thích hiện tượng vật nổi hay chìm dựa trên so sánh lực hoặc trọng lượng riêng.
 - **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B17 (Mục I), tr. 73; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B17 (Mục II.2), tr. 75
 
+### conditions for total internal reflection
+- **Tiếng Việt:** Điều kiện để có phản xạ toàn phần
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The pair of necessary and sufficient conditions for total internal reflection to occur: light must travel from a medium of refractive index $n_1$ toward a medium of refractive index $n_2$ with $n_1 > n_2$, and the angle of incidence must be greater than or equal to the critical angle ($i \ge i_{\text{th}}$, where $\sin i_{\text{th}} = \dfrac{n_2}{n_1}$).
+- **Giải thích (VI):** Hệ hai điều kiện cần và đủ để xảy ra hiện tượng phản xạ toàn phần: ánh sáng truyền từ môi trường có chiết suất $n_1$ tới môi trường có chiết suất $n_2$ thoả mãn $n_1 > n_2$, và góc tới lớn hơn hoặc bằng góc tới hạn ($i \ge i_{\text{th}}$, với $\sin i_{\text{th}} = \dfrac{n_2}{n_1}$).
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 6 (Mục II.3): Tiêu chuẩn xét sự xảy ra phản xạ toàn phần tại mặt phân cách hai môi trường trong suốt.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B6 (Mục I), tr. 31; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B6 (Mục II.1), tr. 31; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B6 (Mục II.2), tr. 31
+
 ### connecting skill
 - **Tiếng Việt:** Kĩ năng liên kết
 - **Chuyên ngành gốc:** Vật lí
@@ -1053,6 +1141,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Kĩ năng tiến trình sử dụng các số liệu quan sát, kết quả phân tích số liệu hoặc tri thức đã biết nhằm xác định các mối quan hệ mới giữa các sự vật và hiện tượng trong tự nhiên.
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 1 (Mục II.2): Vận dụng để kết nối thông tin khoa học giữa cấu tạo, tính chất của sự vật với các quá trình tự nhiên liên quan.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 01, B1 (Mục II), tr. 8; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B1 (Mục II.1), tr. 8; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B1 (Mục II.2), tr. 8
+
+### conservation of mechanical energy
+- **Tiếng Việt:** Bảo toàn cơ năng
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The principle stating that the sum of an object's kinetic and potential energies remains constant provided no mechanical energy is converted into other forms of energy. When friction or drag converts part of the mechanical energy into thermal energy, mechanical energy is no longer conserved even though total energy remains conserved.
+- **Giải thích (VI):** Tính chất tổng động năng và thế năng của một vật luôn giữ không đổi khi cơ năng không chuyển hoá thành bất kì dạng năng lượng nào khác. Khi chịu tác dụng của ma sát hoặc lực cản làm một phần cơ năng chuyển thành nhiệt năng, cơ năng không còn bảo toàn nhưng năng lượng toàn phần vẫn bảo toàn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 3 (Mục II): Vận dụng giải bài toán chuyển hoá động năng – thế năng khi bỏ qua lực cản và giải thích sự hao hụt cơ năng trong thực tế.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 01, B3 (Mục I), tr. 19; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B3 (Mục II), tr. 19; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B3 (Mục II), tr. 19, 20
 
 ### conservative force
 - **Tiếng Việt:** Lực thế (lực bảo toàn)
@@ -1101,6 +1197,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Các dòng chất lỏng hoặc chất khí nóng và lạnh di chuyển ngược chiều nhau khi có sự chênh lệch nhiệt độ, trong đó dòng chất lưu nhận nhiệt nóng lên đi lên trên còn dòng chất lưu lạnh hơn đi xuống dưới.
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 28 (Mục II.2): giải thích cơ chế làm nóng toàn bộ lượng nước khi đun từ đáy bình và sự lưu thông không khí.
 - **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục II.1), tr. 114; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục II.2), tr. 114; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III), tr. 114
+
+### converging lens
+- **Tiếng Việt:** Thấu kính hội tụ
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A lens that transforms a parallel incident light beam into a converging emergent beam (corresponding to a thin-edged lens in air). An object placed beyond the focal length ($d > f$) forms an inverted real image, whereas an object placed within the focal length ($d < f$) forms an upright, magnified virtual image.
+- **Giải thích (VI):** Thấu kính biến đổi chùm tia sáng tới song song thành chùm tia ló hội tụ (trong không khí là thấu kính rìa mỏng). Vật sáng đặt ngoài khoảng tiêu cự ($d > f$) cho ảnh thật ngược chiều với vật, còn đặt trong khoảng tiêu cự ($d < f$) cho ảnh ảo cùng chiều và lớn hơn vật.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 8 (Mục I, III.2.a, IV): Phân biệt với thấu kính phân kì theo tác dụng quang học và tính chất ảnh tạo bởi thấu kính.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8, tr. 40; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục I), tr. 40; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục I), tr. 40, 41
 
 ### coordinate axes
 - **Tiếng Việt:** Trục toạ độ (hai trục toạ độ)
@@ -1156,13 +1260,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong thiên văn học tiếng Anh, các vị trí ngày thứ 4 và 27 tương ứng với trăng lưỡi liềm (crescent moon), còn ngày thứ 12 và 19 tương ứng với trăng khuyết lồi (gibbous moon); SGK KHTN 6 gọi chung cả bốn vị trí này là Trăng khuyết.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B53 (Mục I.2), tr. 184
 
+### critical angle
+- **Tiếng Việt:** Góc tới hạn (góc tới hạn phản xạ toàn phần)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The angle of incidence $i_{\text{th}}$ corresponding to an angle of refraction $r = 90^\circ$ when light travels from a medium of refractive index $n_1$ to a medium of refractive index $n_2$ ($n_1 > n_2$), given by $\sin i_{\text{th}} = \dfrac{n_2}{n_1}$.
+- **Giải thích (VI):** Giá trị góc tới $i_{\text{th}}$ ứng với góc khúc xạ $r = 90^\circ$ khi ánh sáng truyền từ môi trường có chiết suất $n_1$ sang môi trường có chiết suất $n_2$ ($n_1 > n_2$), xác định bởi công thức $\sin i_{\text{th}} = \dfrac{n_2}{n_1}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 6 (Mục II.2): Ngưỡng góc tới bắt đầu xảy ra hiện tượng phản xạ toàn phần.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B6 (Mục I), tr. 31; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B6 (Mục II.1), tr. 31; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B6 (Mục II.2), tr. 31
+
 ### critical mass
 - **Tiếng Việt:** Khối lượng tới hạn
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The minimum mass of fissile material, denoted by $m_{th}$, that must be exceeded to minimize neutron leakage and sustain a self-sustaining fission chain reaction. For uncompressed fissile material enriched to about $90\%$ without a neutron reflector, this value is approximately $47\text{ kg}$ for $^{235}_{92}\text{U}$ and $10\text{ kg}$ for $^{239}_{94}\text{Pu}$.
 - **Giải thích (VI):** Khối lượng tối thiểu của chất phân hạch, kí hiệu là $m_{th}$, mà khối chất phải vượt qua để giảm thiểu số neutron thất thoát ra ngoài và duy trì phản ứng phân hạch dây chuyền tự duy trì. Với chất phân hạch làm giàu khoảng $90\%$ không bị nén và không có thiết bị phản xạ neutron, giá trị này cỡ $47\text{ kg}$ đối với $^{235}_{92}\text{U}$ và $10\text{ kg}$ đối với $^{239}_{94}\text{Pu}$.
 - **Bối cảnh:** Vật lí lớp 12, Bài 22 (Mục III.2): điều kiện khối lượng tối thiểu của nhiên liệu để xảy ra phản ứng phân hạch dây chuyền tự duy trì.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B22 (Mục III.2), tr. 102
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B22 (Mục III.2), tr. 102; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục IV), tr. 102; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục IV), tr. 102, 103
 
 ### crumple zone
 - **Tiếng Việt:** Vùng hấp thụ xung lượng của lực
@@ -1194,7 +1306,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A practical non-SI unit of radioactive activity (named after the scientists Marie Curie and Pierre Curie), symbolized as $\text{Ci}$, equal to $1\text{ Ci} = 3.7 \times 10^{10}\text{ Bq}$ and approximately equal to the activity of $1\text{ g}$ of $^{226}_{88}\text{Ra}$.
 - **Giải thích (VI):** Đơn vị đo độ phóng xạ thường dùng trong thực tế (đặt theo tên hai nhà bác học Marie Curie và Pierre Curie), kí hiệu là $\text{Ci}$, có giá trị $1\text{ Ci} = 3,7 \cdot 10^{10}\text{ Bq}$ và xấp xỉ bằng độ phóng xạ của $1\text{ g}$ đồng vị $^{226}_{88}\text{Ra}$.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục II.2): đơn vị đo độ phóng xạ có giá trị lớn dùng trong thực hành hạt nhân và y học.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 108
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 108; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.1), tr. 108; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 108, 109
 
 ### current-voltage characteristic
 - **Tiếng Việt:** Đường đặc trưng vôn – ampe
@@ -1226,7 +1338,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The more stable product nucleus (commonly denoted by $\text{Y}$) formed from the spontaneous decay of a parent nucleus in radioactivity.
 - **Giải thích (VI):** Hạt nhân sản phẩm bền vững hơn (thường kí hiệu là $\text{Y}$) hình thành từ sự phân rã tự phát của hạt nhân mẹ trong hiện tượng phóng xạ.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục I.1): hạt nhân sản phẩm sau phân rã phóng xạ, phân biệt với hạt nhân mẹ.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.1), tr. 104; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.a), tr. 106
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.1), tr. 104; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.a), tr. 106; SGK Vật lí 12 KNTT, Chương 04, B23, tr. 104
 
 ### decay constant
 - **Tiếng Việt:** Hằng số phóng xạ
@@ -1234,7 +1346,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A quantity specific to each radioactive substance, denoted by $\lambda$, defined by $\lambda = \frac{\ln 2}{T}$ (where $T$ is the half-life) and measured in $\text{s}^{-1}$. It serves as the proportionality constant relating radioactive activity to the number of existing nuclei via $H_t = \lambda N_t$.
 - **Giải thích (VI):** Đại lượng đặc trưng cho từng chất phóng xạ, kí hiệu là $\lambda$, xác định bởi công thức $\lambda = \frac{\ln 2}{T}$ (với $T$ là chu kì bán rã) và có đơn vị là $\text{s}^{-1}$. Hằng số này là hệ số tỉ lệ giữa độ phóng xạ và số hạt nhân hiện có theo hệ thức $H_t = \lambda N_t$.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục II.2): tham số đặc trưng cho bản chất đồng vị trong các phương trình phân rã và độ phóng xạ.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 109
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 109; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 109, 110; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 113
 
 ### decelerated motion
 - **Tiếng Việt:** Chuyển động chậm dần
@@ -1243,6 +1355,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chuyển động biến đổi có độ lớn vận tốc giảm dần theo thời gian. Trong chuyển động thẳng, chuyển động chậm dần xảy ra khi vectơ gia tốc $\vec{a}$ ngược chiều với vectơ vận tốc $\vec{v}$ ($a \cdot v < 0$).
 - **Bối cảnh:** Vật lí lớp 10, Bài 8 (Mục I): phân loại chuyển động biến đổi khi vật giảm tốc, với gia tốc và vận tốc ngược chiều nhau.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 02, B8, tr. 37; SGK Vật lí 10 KNTT, Chương 02, B8 (Mục I), tr. 37; SGK Vật lí 10 KNTT, Chương 02, B8 (Mục II.1), tr. 37
+
+### defibrillator
+- **Tiếng Việt:** Máy khử rung tim
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A medical device applying the physiological effect of electric current, placed near a patient's heart to monitor cardiac rhythm and promptly deliver electrical pulses to restore a normal heartbeat upon detecting arrhythmia (slowing an abnormally rapid rate or stimulating an overly slow rate).
+- **Giải thích (VI):** Thiết bị y tế ứng dụng tác dụng sinh lí của dòng điện, được đặt ở gần vị trí tim bệnh nhân để theo dõi và kịp thời phát ra xung điện khôi phục nhịp đập bình thường khi phát hiện rối loạn nhịp tim (khử bớt nhịp khi tim đập quá nhanh hoặc kích thích tăng nhịp khi tim đập quá chậm).
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 15 (Mục IV): ví dụ ứng dụng tác dụng sinh lí của dòng điện và xung điện trong cấp cứu, điều trị tim mạch.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 04, B15 (Mục IV), tr. 74
 
 ### deformation
 - **Tiếng Việt:** Biến dạng
@@ -1344,7 +1464,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An electronic component exhibiting unidirectional conductivity, allowing electric current to pass through it in only one direction while blocking it in the reverse direction.
 - **Giải thích (VI):** Linh kiện điện tử có tính dẫn điện một chiều, chỉ cho phép dòng điện đi qua nó theo một chiều xác định mà không cho đi qua theo chiều ngược lại.
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 1 (Mục III.3.e): Khái niệm cơ sở giải thích nguyên lí phân cực âm – dương của các linh kiện bán dẫn trong mạch điện một chiều.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.e), tr. 10; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.e), tr. 10; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195, 196
 
 ### direct current
 - **Tiếng Việt:** Dòng điện một chiều
@@ -1391,6 +1511,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Khác với hai lực cân bằng (cùng đặt vào một vật), hai lực trực đối đặt vào hai vật khác nhau nên không khử nhau.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B16, tr. 67; SGK Vật lí 10 KNTT, Chương 03, B16 (Mục I.1), tr. 67; SGK Vật lí 10 KNTT, Chương 03, B16 (Mục I.2), tr. 67
 
+### dispersion of light
+- **Tiếng Việt:** Tán sắc ánh sáng (hiện tượng tán sắc ánh sáng)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phenomenon in which a non-monochromatic light beam (such as white light) passing through an optical prism separates into differently colored monochromatic beams because the refractive index of the prism material varies with light color (smallest for red rays and largest for violet rays).
+- **Giải thích (VI):** Hiện tượng phân tách một chùm ánh sáng không đơn sắc (như ánh sáng trắng) khi truyền qua lăng kính thành những chùm ánh sáng đơn sắc có màu khác nhau do chiết suất của chất làm lăng kính thay đổi theo màu sắc ánh sáng (nhỏ nhất đối với tia đỏ và lớn nhất đối với tia tím).
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 7 (Mục II, III): Giải thích sự tạo thành quang phổ ánh sáng trắng và cầu vồng trong tự nhiên.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục I), tr. 35; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục II), tr. 35; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục II), tr. 35, 36
+
 ### displacement
 - **Tiếng Việt:** Độ dịch chuyển
 - **Chuyên ngành gốc:** Vật lí
@@ -1431,6 +1559,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 10 (Mục I.2, II): Vẽ và khai thác thông tin chuyển động từ đồ thị mà không cần tính trực tiếp từ bảng số liệu.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 03, B10, tr. 53; SGK Khoa học tự nhiên 7 KNTT, Chương 03, B10 (Mục I.1), tr. 53; SGK Khoa học tự nhiên 7 KNTT, Chương 03, B10 (Mục I.2), tr. 53, 54
 
+### diverging lens
+- **Tiếng Việt:** Thấu kính phân kì
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A lens that transforms a parallel incident light beam into a diverging emergent beam (corresponding to a thick-edged lens in air). An object placed at any position in front of a diverging lens always forms an upright, diminished virtual image.
+- **Giải thích (VI):** Thấu kính biến đổi chùm tia sáng tới song song thành chùm tia ló phân kì (trong không khí là thấu kính rìa dày). Vật sáng đặt ở mọi vị trí trước thấu kính phân kì luôn cho ảnh ảo, cùng chiều và nhỏ hơn vật.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 8 (Mục I, III.2.b, IV): Phân biệt với thấu kính hội tụ theo tác dụng quang học và tính chất ảnh tạo bởi thấu kính.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8, tr. 40; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục I), tr. 40; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục I), tr. 40, 41
+
 ### doing mechanical work
 - **Tiếng Việt:** Thực hiện công cơ học (thực hiện công)
 - **Chuyên ngành gốc:** Vật lí
@@ -1466,6 +1602,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phân ngành của cơ học nghiên cứu chuyển động của các vật dưới sự tác dụng của lực.
 - **Bối cảnh:** Vật lí lớp 10, Chương III (Bảng giải thích thuật ngữ): lĩnh vực nghiên cứu mối liên hệ giữa lực tác dụng và sự biến đổi chuyển động của vật.
 - **Nguồn:** SGK Vật lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 136; SGK Vật lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 136, 137
+
+### Earth's energy cycle
+- **Tiếng Việt:** Vòng năng lượng trên Trái Đất
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The interconnected system of continuous transformations of solar energy on Earth into other energy forms—such as wind energy, water-flow energy, and biomass energy—through the water cycle and energy exchange among living organisms, demonstrating that the Sun is Earth's primary energy source.
+- **Giải thích (VI):** Hệ thống các chu trình chuyển hoá liên tiếp của năng lượng mặt trời trên Trái Đất thành các dạng năng lượng khác như năng lượng gió, năng lượng dòng chảy, năng lượng sinh khối thông qua vòng tuần hoàn của nước và sự trao đổi năng lượng giữa các vật sống, chứng tỏ Mặt Trời là nguồn cung cấp năng lượng chủ yếu cho Trái Đất.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 16 (Mục I): khái quát bức tranh chuyển hoá năng lượng tự nhiên từ bức xạ mặt trời trên Trái Đất.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 05, B16, tr. 75; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B16 (Mục I), tr. 75; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B16 (Mục I.1), tr. 75
 
 ### Earth's gravitational pull
 - **Tiếng Việt:** Lực hút của Trái Đất
@@ -1521,7 +1665,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A quantity evaluating the biological impact of radioactive radiation on the human body, denoted by $D_{hd}$ and given by $D_{hd} = D \cdot W$, where $D$ is the absorbed dose and $W$ is the radiation weighting factor. Its SI unit is the sievert (symbolized as $\text{Sv}$).
 - **Giải thích (VI):** Đại lượng đánh giá mức độ ảnh hưởng sinh học của bức xạ phóng xạ đối với cơ thể người, kí hiệu là $D_{hd}$ và xác định bởi công thức $D_{hd} = D \cdot W$, trong đó $D$ là liều hấp thụ phóng xạ và $W$ là trọng số bức xạ. Đơn vị của $D_{hd}$ trong hệ SI là sievert (kí hiệu $\text{Sv}$).
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục IV): tiêu chuẩn giới hạn an toàn phơi nhiễm phóng xạ đối với nhân viên bức xạ và cộng đồng.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 112; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 113
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 112; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 113; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 112, 113
 
 ### effects of force
 - **Tiếng Việt:** Tác dụng của lực
@@ -1579,10 +1723,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The form of stored energy possessed by an object undergoing elastic deformation, enabling it to perform mechanical work as it restores its original shape (such as a drawn bow propelling an arrow).
 - **Giải thích (VI):** Dạng năng lượng dự trữ của một vật khi bị biến dạng đàn hồi, cho phép vật có khả năng thực hiện công khi khôi phục hình dạng ban đầu (như cánh cung đang giương đẩy mũi tên bay đi).
 - **Giải thích khác (SGK Vật lí 11):** EN: The form of potential energy stored in an elastic body (such as a spring) when deformed. For a spring pendulum with the potential energy reference at the equilibrium position, the elastic potential energy at displacement $x$ is $W_\text{t} = \frac{1}{2}kx^2$. / VI: Dạng thế năng dự trữ của vật đàn hồi (như lò xo) khi bị biến dạng. Đối với con lắc lò xo chọn mốc thế năng tại vị trí cân bằng, thế năng đàn hồi khi vật ở li độ $x$ là $W_\text{t} = \frac{1}{2}kx^2$.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A form of potential energy stored in an object when it undergoes elastic deformation, such as the energy stored in a drawn bow. / VI: Dạng thế năng dự trữ trong một vật khi vật đó chịu biến dạng đàn hồi, chẳng hạn như năng lượng của cánh cung đang bị kéo căng.
 - **Bối cảnh:**
   - Vật lí lớp 10, Bài 25 (Mục II.1): Nhận biết dạng thế năng gắn với biến dạng đàn hồi của lò xo, dây cao su hoặc cánh cung bên cạnh thế năng trọng trường.
   - Vật lí lớp 11, Bài 5 (Mục IV.1): Xác định thế năng và cơ năng của con lắc lò xo dao động điều hoà.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B25 (Mục I.2), tr. 100; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 100; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 100, 101; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục III), tr. 21; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.1), tr. 21; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.1), tr. 21, 22
+  - Khoa học tự nhiên lớp 9, Bài 2 (Mục II): Mở rộng nhận biết các dạng thế năng khác ngoài thế năng trọng trường.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B25 (Mục I.2), tr. 100; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 100; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 100, 101; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục III), tr. 21; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.1), tr. 21; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.1), tr. 21, 22; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B2 (Mục II), tr. 17
 
 ### elasticity
 - **Tiếng Việt:** Tính đàn hồi
@@ -1591,8 +1737,9 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tính chất vật lí của vật liệu bị biến dạng khi chịu lực tác dụng bên ngoài và trở lại hình dạng ban đầu khi lực đó thôi tác dụng.
 - **Bối cảnh:**
   - Hóa học lớp 12, Bài 13 (Mục IV.1): Đặc tính cơ học đặc trưng của cao su, đối lập với tính dẻo của chất dẻo.
+  - Khoa học tự nhiên lớp 9, Bài 32 (Mục III.3): Tính chất cơ học đặc trưng của cao su, phân biệt với tính dẻo của chất dẻo.
   - *Lưu ý:* Trong Vật lí và Hóa học vật liệu, elasticity là tính đàn hồi cơ học của vật rắn, phân biệt với độ co giãn cung cầu (price elasticity) trong Kinh tế học.
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 04, B13 (Mục IV.1), tr. 61
+- **Nguồn:** SGK Hóa học 12 KNTT, Chương 04, B13 (Mục IV.1), tr. 61; SGK Hóa học 12 KNTT, Chương 04, B13 (Mục III.3.c), tr. 61; SGK Hóa học 12 KNTT, Chương 04, B13 (Mục IV.2), tr. 61; SGK Khoa học tự nhiên 9 KNTT, Chương 09, B32 (Mục III.1), tr. 143; SGK Khoa học tự nhiên 9 KNTT, Chương 09, B32 (Mục III.2), tr. 143; SGK Khoa học tự nhiên 9 KNTT, Chương 09, B32 (Mục III.3), tr. 143
 
 ### electric bell
 - **Tiếng Việt:** Chuông điện
@@ -1754,8 +1901,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A physical quantity denoted by $\mathscr{P}$, representing the electrical energy consumed by a circuit segment per unit time and given by $\mathscr{P} = \frac{A}{t} = UI$ (and for a purely resistive segment of resistance $R$, $\mathscr{P} = I^2R = \frac{U^2}{R}$).
 - **Giải thích (VI):** Đại lượng vật lí kí hiệu $\mathscr{P}$, biểu thị năng lượng điện mà một đoạn mạch tiêu thụ trong một đơn vị thời gian và xác định bằng công thức $\mathscr{P} = \frac{A}{t} = UI$ (đối với đoạn mạch thuần điện trở $R$ còn tính theo $\mathscr{P} = I^2R = \frac{U^2}{R}$).
-- **Bối cảnh:** Vật lí lớp 11, Bài 25 (Mục II): Đại lượng đặc trưng cho tốc độ tiêu thụ năng lượng điện của đoạn mạch và thiết bị điện.
-- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B25 (Mục I), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107, 108
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A physical quantity equal to the electrical energy transferred by an electric current across a circuit segment per unit time, denoted by $\mathcal{P}$ and measured in watts ($\text{W}$). It is calculated as the product of the voltage across the segment and the current flowing through it: $\mathcal{P} = UI$. / VI: Đại lượng vật lí đo bằng năng lượng của dòng điện chạy qua một đoạn mạch trong một đơn vị thời gian, kí hiệu là $\mathcal{P}$ và có đơn vị đo là oát ($\text{W}$). Công suất điện của đoạn mạch được tính bằng tích của hiệu điện thế giữa hai đầu đoạn mạch với cường độ dòng điện chạy qua nó: $\mathcal{P} = UI$.
+- **Bối cảnh:**
+  - Vật lí lớp 11, Bài 25 (Mục II): Đại lượng đặc trưng cho tốc độ tiêu thụ năng lượng điện của đoạn mạch và thiết bị điện.
+  - Khoa học tự nhiên lớp 9, Bài 13 (Mục II): đặc trưng cho tốc độ tiêu thụ năng lượng điện của đoạn mạch hoặc dụng cụ điện.
+- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B25 (Mục I), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107, 108; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13 (Mục II), tr. 65; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13 (Mục III), tr. 65; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13 (Mục III), tr. 65, 66
 
 ### electric power source
 - **Tiếng Việt:** Nguồn điện
@@ -1775,6 +1925,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tai nạn xảy ra khi có dòng điện chạy qua cơ thể người, có khả năng gây tổn thương các bộ phận cơ thể hoặc dẫn đến tử vong. Khi phát hiện người bị nạn, cần nhanh chóng ngắt nguồn điện hoặc dùng vật cách điện để tách người đó ra khỏi nguồn điện.
 - **Bối cảnh:** Vật lí lớp 10, Bài 2 (Mục III): Cảnh báo nguy cơ mất an toàn điện và cách sơ cứu ban đầu trong phòng thực hành.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B2 (Mục III), tr. 16
+
+### electrical brush
+- **Tiếng Việt:** Chổi quét
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A stationary conductive contact element (often a copper strip in laboratory models) pressed against rotating slip rings to collect and conduct alternating current from the spinning coil to the external load circuit.
+- **Giải thích (VI):** Bộ phận tiếp điện đứng yên (trong mô hình thí nghiệm thường là lá đồng) tì sát vào bề mặt các vành khuyên đang quay để thu và dẫn dòng điện xoay chiều từ khung dây quay ra mạch tiêu thụ bên ngoài.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 14 (Mục III): phối hợp với hai vành khuyên để khép kín mạch điện ngoài khi khung dây quay trong từ trường.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục III), tr. 70; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục III), tr. 71
 
 ### electrical conductance
 - **Tiếng Việt:** Độ dẫn điện
@@ -1803,15 +1961,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục II), tr. 89; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục II), tr. 89, 90; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục II), tr. 90
 
 ### electrical energy
-- **Tiếng Việt:** Điện năng (Năng lượng điện)
+- **Tiếng Việt:** Điện năng (Năng lượng điện; năng lượng của dòng điện)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A form of energy associated with the directed motion of electric charges under the action of an electric field.
 - **Giải thích (VI):** Dạng năng lượng của dòng chuyển động có hướng của các điện tích dưới tác dụng của điện trường.
 - **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The form of energy produced by an electric current (supplied by generators, batteries, etc.) and used to operate electrical machines and appliances. / VI: Dạng năng lượng tạo ra bởi dòng điện (do máy phát điện, pin,... cung cấp), dùng để vận hành các máy móc và thiết bị điện.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The energy carried by an electric current flowing through a circuit, which can be converted into other forms of energy such as thermal, light, mechanical, or chemical energy in electrical appliances. The electrical energy $W$ ($\text{J}$) transformed across a circuit segment over time $t$ ($\text{s}$) is given by $W = UIt$, where $U$ ($\text{V}$) is the voltage and $I$ ($\text{A}$) is the current. / VI: Năng lượng của dòng điện chạy qua mạch điện, có khả năng chuyển hoá thành các dạng năng lượng khác như nhiệt năng, quang năng, cơ năng hoặc hoá năng trong các thiết bị tiêu thụ điện. Lượng năng lượng điện $W$ ($\text{J}$) chuyển hoá trên một đoạn mạch trong thời gian $t$ ($\text{s}$) được xác định bởi biểu thức $W = UIt$, với $U$ ($\text{V}$) là hiệu điện thế và $I$ ($\text{A}$) là cường độ dòng điện.
 - **Bối cảnh:**
   - Vật lí lớp 10, Bài 23 (Mục I): Phân loại các dạng năng lượng phổ biến và quá trình chuyển hóa giữa điện năng với nhiệt năng, cơ năng, quang năng.
   - Khoa học tự nhiên lớp 6, Bài 47 (Mục I, II): nhận biết dạng năng lượng cung cấp cho các máy móc và thiết bị điện hoạt động.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B23, tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91, 92; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục I), tr. 165; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166
+  - Khoa học tự nhiên lớp 9, Bài 13 (Mục I): tính toán năng lượng điện tiêu thụ và phân tích sự chuyển hoá năng lượng trong các thiết bị điện.
+  - *Lưu ý:* Gộp hai mục từ đồng nghĩa hoàn toàn trong V1 ('Điện năng' và 'Năng lượng điện') theo chuẩn thuật ngữ SGK GDPT 2018.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B23, tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91, 92; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục I), tr. 165; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13, tr. 64; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13 (Mục I), tr. 64; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13 (Mục II), tr. 65
 
 ### electrical energy consumption
 - **Tiếng Việt:** Năng lượng điện tiêu thụ
@@ -1829,34 +1990,50 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 21 (Mục II): lựa chọn vật liệu cách điện đảm bảo an toàn trong chế tạo và sử dụng thiết bị điện.
 - **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục II), tr. 89; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục II), tr. 89, 90; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B21 (Mục II), tr. 90
 
+### electrical pulse
+- **Tiếng Việt:** Xung điện
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A discontinuous electric current that occurs only in brief bursts separated by rest intervals with zero current. In medicine, electrical pulses are used to restore cardiac rhythm, relieve pain and musculoskeletal fatigue, aid post-injury recovery, and enhance blood circulation.
+- **Giải thích (VI):** Dòng điện không liên tục chỉ xuất hiện trong khoảng thời gian ngắn, xen kẽ giữa các lần phát dòng điện là khoảng nghỉ không có dòng điện. Trong y học, xung điện được sử dụng để khôi phục nhịp tim, giảm đau, giảm mỏi cơ khớp, hỗ trợ phục hồi sau chấn thương và tăng cường tuần hoàn máu.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 15 (Mục IV): giải thích dạng tín hiệu điện an toàn dùng trong máy khử rung tim và vật lí trị liệu.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 04, B15 (Mục IV), tr. 74
+
 ### electrical resistance
-- **Tiếng Việt:** Điện trở
+- **Tiếng Việt:** Điện trở (điện trở của đoạn dây dẫn)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A physical quantity denoted by $R$, characterizing the degree to which a conductor opposes electric current (opposes the directed motion of electric charges) and defined by the ratio $R = \frac{U}{I}$, where $U$ is the voltage across the conductor and $I$ is the current flowing through it.
 - **Giải thích (VI):** Đại lượng vật lí kí hiệu $R$, đặc trưng cho mức độ cản trở dòng điện (cản trở sự dịch chuyển của các điện tích) của vật dẫn và xác định bằng thương số $R = \frac{U}{I}$, trong đó $U$ là hiệu điện thế giữa hai đầu vật dẫn và $I$ là cường độ dòng điện chạy qua nó.
 - **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: A physical quantity characterizing the opposition of a conductor to the flow of electric current. In electric circuits, the term also refers to a circuit component (symbol $R$, resistor) used to limit current and protect devices such as LEDs. / VI: Đại lượng vật lí đặc trưng cho tính chất cản trở dòng điện của một vật dẫn. Trong mạch điện, thuật ngữ này còn chỉ linh kiện (kí hiệu $R$) dùng để hạn chế dòng điện và bảo vệ các thiết bị điện như đèn LED.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A physical quantity characterizing the opposition of a conductor (or wire segment) to the flow of electric current, denoted by $R$. For a given conductor, its electrical resistance equals the constant ratio of the voltage applied across its ends to the current flowing through it: $R = \frac{U}{I}$. / VI: Đại lượng vật lí đặc trưng cho tính chất cản trở dòng điện của một đoạn dây dẫn (hoặc vật dẫn) khi có dòng điện chạy qua, kí hiệu là $R$. Đối với mỗi đoạn dây dẫn xác định, điện trở có giá trị bằng thương số không đổi giữa hiệu điện thế đặt vào hai đầu dây và cường độ dòng điện chạy qua nó: $R = \frac{U}{I}$.
 - **Bối cảnh:**
   - Vật lí lớp 11, Bài 23 (Mục I.2): Đại lượng đặc trưng cho tính cản trở dòng điện của vật dẫn trong mạch điện.
   - Khoa học tự nhiên lớp 8, Bài 22 (Mục I) và Bài 23 (Mục I, II): kí hiệu trong sơ đồ mạch điện và vai trò bảo vệ linh kiện trong thí nghiệm.
+  - Khoa học tự nhiên lớp 9, Bài 11 (Mục I, III.1): xác định mức độ cản trở dòng điện của vật dẫn từ thí nghiệm khảo sát quan hệ giữa hiệu điện thế và cường độ dòng điện.
   - *Lưu ý:* Chỉ đại lượng vật lí $R = \frac{U}{I}$ đặc trưng cho mức độ cản trở dòng điện, phân biệt với linh kiện điện trở (resistor) mắc trong mạch.
   - *Lưu ý:* Trong SGK Khoa học tự nhiên 8, "điện trở" vừa chỉ đại lượng đặc trưng cho sự cản trở dòng điện (electrical resistance) vừa chỉ linh kiện điện trở trong sơ đồ mạch điện (resistor).
-- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B23, tr. 95; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.2), tr. 96; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.3), tr. 96; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195, 196; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục I), tr. 92
+- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B23, tr. 95; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.2), tr. 96; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.3), tr. 96; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195, 196; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B22 (Mục I), tr. 92; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11, tr. 53; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11 (Mục I), tr. 53; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11 (Mục I), tr. 54
 
 ### electrical resistivity
-- **Tiếng Việt:** Điện trở suất
+- **Tiếng Việt:** Điện trở suất (ρ)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A material-specific physical quantity denoted by $\rho$ (in units of $\Omega\cdot\text{m}$), characterizing the intrinsic opposition to electric current of a conductor material and relating to the conductor's resistance $R$, length $l$, and cross-sectional area $S$ via $R = \frac{\rho l}{S}$.
 - **Giải thích (VI):** Đại lượng vật lí đặc trưng cho bản chất dẫn điện của vật liệu, kí hiệu $\rho$ (đơn vị $\Omega\cdot\text{m}$), liên hệ với điện trở $R$, chiều dài $l$ và tiết diện thẳng $S$ của dây dẫn kim loại theo công thức $R = \frac{\rho l}{S}$.
-- **Bối cảnh:** Vật lí lớp 11, Bài 23 (Mục I.3, III.1): Giải thích sự phụ thuộc của điện trở dây dẫn vào bản chất vật liệu và kích thước hình học.
-- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.3), tr. 97; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục III.1), tr. 98; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục III.2.a), tr. 98
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A physical quantity characterizing the intrinsic ability of a material to conduct or oppose electric current, denoted by $\rho$ and measured in ohm-meters ($\Omega\text{m}$) in the formula $R = \rho \frac{l}{S}$. Materials with lower electrical resistivity are better electrical conductors. / VI: Đại lượng vật lí đặc trưng cho bản chất dẫn điện hay cản trở dòng điện của vật liệu làm dây dẫn, kí hiệu là $\rho$ và có đơn vị đo là ôm mét ($\Omega\text{m}$) trong công thức $R = \rho \frac{l}{S}$. Vật liệu có điện trở suất càng nhỏ thì dẫn điện càng tốt.
+- **Bối cảnh:**
+  - Vật lí lớp 11, Bài 23 (Mục I.3, III.1): Giải thích sự phụ thuộc của điện trở dây dẫn vào bản chất vật liệu và kích thước hình học.
+  - Khoa học tự nhiên lớp 9, Bài 11 (Mục IV): tra bảng điện trở suất ở nhiệt độ phòng để so sánh khả năng dẫn điện của các kim loại, hợp kim và chất cách điện.
+- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.3), tr. 97; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục III.1), tr. 98; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục III.2.a), tr. 98; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11 (Mục IV), tr. 57; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11 (Mục IV), tr. 57, 58; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11 (Mục IV), tr. 58
 
 ### electricity meter
-- **Tiếng Việt:** Công tơ điện
+- **Tiếng Việt:** Công tơ điện (đồng hồ đo điện năng)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A measuring device used to record the electrical energy consumed by one or more electrical appliances in units of $\text{kW}\cdot\text{h}$; when connected loads operate, the meter's disc rotates and its numerical reading increases progressively.
 - **Giải thích (VI):** Thiết bị đo lường dùng để đo lượng điện năng tiêu thụ của một hoặc nhiều thiết bị điện theo đơn vị $\text{kW}\cdot\text{h}$; khi các thiết bị điện hoạt động, đĩa của công tơ quay làm số chỉ trên mặt đồng hồ tăng dần.
-- **Bối cảnh:** Vật lí lớp 11, Bài 25 (Mục I): Đo lượng điện năng tiêu thụ trong gia đình và sản xuất.
-- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B25 (Mục I), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107, 108
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A measuring instrument that records the electrical energy consumed by a household or facility, commonly available as electromechanical or electronic meters. The difference between the current reading and the previous reading gives the meter count in kilowatt-hours ($\text{kWh}$). / VI: Thiết bị đo lượng năng lượng điện tiêu thụ của hộ gia đình hoặc cơ sở sản xuất, gồm hai loại phổ biến là công tơ điện cơ và công tơ điện điện tử. Hiệu giữa chỉ số hiện tại và chỉ số cũ cho biết số đếm của công tơ điện tính theo đơn vị kilôoát giờ ($\text{kWh}$).
+- **Bối cảnh:**
+  - Vật lí lớp 11, Bài 25 (Mục I): Đo lượng điện năng tiêu thụ trong gia đình và sản xuất.
+  - Khoa học tự nhiên lớp 9, Bài 13 (Mục III): đo lường điện năng tiêu thụ thực tế và tính tiền điện sinh hoạt.
+- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B25 (Mục I), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107, 108; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13 (Mục III), tr. 66
 
 ### electromagnet
 - **Tiếng Việt:** Nam châm điện
@@ -1875,12 +2052,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B19 (Mục I.2), tr. 83; SGK Vật lí 12 KNTT, Chương 03, B19 (Mục I.3), tr. 83; SGK Vật lí 12 KNTT, Chương 03, B19 (Mục II.1), tr. 84
 
 ### electromagnetic induction
-- **Tiếng Việt:** Hiện tượng cảm ứng điện từ
+- **Tiếng Việt:** Hiện tượng cảm ứng điện từ (Cảm ứng điện từ)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The phenomenon in which an induced current arises in a closed conducting coil when the magnetic flux through the coil varies. This phenomenon persists only during the time interval over which the magnetic flux through the closed circuit is changing.
 - **Giải thích (VI):** Hiện tượng xuất hiện dòng điện cảm ứng trong cuộn dây dẫn kín khi từ thông qua cuộn dây đó biến thiên. Hiện tượng này chỉ tồn tại trong khoảng thời gian từ thông qua mạch kín đang thay đổi.
-- **Bối cảnh:** Vật lí lớp 12, Bài 16 (Mục II): cơ chế chuyển hoá cơ năng thành điện năng và nguyên lí hoạt động của máy phát điện.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B16 (Mục II), tr. 67; SGK Vật lí 12 KNTT, Chương 03, B16 (Mục II), tr. 68; SGK Vật lí 12 KNTT, Chương 03, B16 (Mục III), tr. 68
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The phenomenon in which an induced current is produced in a closed conducting coil whenever the number of magnetic field lines passing through the coil's cross-section varies. It serves as the fundamental physical basis for generating alternating current in electrical generators. / VI: Hiện tượng xuất hiện dòng điện cảm ứng trong một cuộn dây dẫn kín khi số đường sức từ xuyên qua tiết diện của cuộn dây dẫn đó biến thiên. Đây là cơ sở vật lí trực tiếp của nguyên tắc tạo ra dòng điện xoay chiều trong các máy phát điện.
+- **Bối cảnh:**
+  - Vật lí lớp 12, Bài 16 (Mục II): cơ chế chuyển hoá cơ năng thành điện năng và nguyên lí hoạt động của máy phát điện.
+  - Khoa học tự nhiên lớp 9, Bài 14 (Mục II, III): rút ra điều kiện xuất hiện dòng điện cảm ứng và giải thích hoạt động tạo dòng điện xoay chiều.
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B16 (Mục II), tr. 67; SGK Vật lí 12 KNTT, Chương 03, B16 (Mục II), tr. 68; SGK Vật lí 12 KNTT, Chương 03, B16 (Mục III), tr. 68; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục II), tr. 70; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục III), tr. 70; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục III), tr. 70, 71
 
 ### electromagnetic relay
 - **Tiếng Việt:** Rơ le (relay)
@@ -1888,7 +2068,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An electromagnetic switching component with an induction coil used to close or open an electrical circuit by actuating contacts when energized. Relays include normally open relays (which close the circuit only when energized) and normally closed relays (which keep the circuit closed and separate the contacts to break the circuit when energized).
 - **Giải thích (VI):** Phần tử điện từ có cuộn cảm ứng dùng để đóng hoặc ngắt một mạch điện thông qua việc điều khiển các tiếp điểm khi cấp điện. Rơ le gồm hai loại là rơ le thường mở (chỉ đóng mạch khi có điện) và rơ le thường đóng (luôn đóng mạch và tách tiếp điểm để ngắt mạch khi có điện).
 - **Bối cảnh:** Tin học lớp 11, Bài 4 (Mục 2.a): linh kiện điện từ dùng để minh hoạ trực quan nguyên lí đóng ngắt của các mạch lôgic cơ bản.
-- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 24; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 24, 25; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 25
+- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 24; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 24, 25; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 25; SGK Tin học ICT 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 24
 
 ### electromagnetic spectrum
 - **Tiếng Việt:** Thang sóng điện từ
@@ -1973,13 +2153,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 16 (Mục III.2): Ứng dụng thực tế của lực hút giữa các điện tích trái dấu trong công nghiệp.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 03, B16 (Mục III.2), tr. 64
 
+### electrostatic potential energy
+- **Tiếng Việt:** Thế năng tĩnh điện
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A form of potential energy possessed by a system of electric charges arising from the electrostatic interaction forces between charges placed near one another.
+- **Giải thích (VI):** Dạng thế năng của một hệ điện tích xuất hiện do lực tương tác điện khi các điện tích được đặt gần nhau.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 2 (Mục II): Mở rộng phân biệt thế năng tương tác giữa các điện tích với thế năng trọng trường và thế năng đàn hồi.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 01, B2 (Mục II), tr. 17
+
 ### emission computed tomography
 - **Tiếng Việt:** Chụp ảnh phóng xạ cắt lớp (SPECT; PET)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A nuclear medicine diagnostic imaging technique—notably SPECT and PET—that detects radiation emitted by radiopharmaceuticals to reconstruct multi-angle cross-sectional images of internal organs and monitor physiological transport. It is frequently combined with CT or MRI to enhance image detail and diagnostic accuracy.
 - **Giải thích (VI):** Kĩ thuật chẩn đoán hình ảnh y học hạt nhân — tiêu biểu là SPECT và PET — thu nhận tia phóng xạ phát ra từ dược chất phóng xạ để tái tạo hình ảnh chi tiết các bộ phận bên trong cơ thể theo nhiều góc quan sát và theo dõi sự luân chuyển vật chất. Phương pháp này thường phối hợp với CT hoặc MRI nhằm nâng cao độ chi tiết và độ chính xác khi chẩn đoán bệnh.
 - **Bối cảnh:** Vật lí lớp 12, Bài 24 (Mục II.1): công nghệ tạo ảnh cắt lớp chức năng hiện đại trong y học hạt nhân.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B24 (Mục II.1), tr. 116
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B24 (Mục II.1), tr. 116; SGK Vật lí 12 KNTT, Chương 04, B24 (Mục I), tr. 116; SGK Vật lí 12 KNTT, Chương 04, B24 (Mục II), tr. 116
 
 ### energy
 - **Tiếng Việt:** Năng lượng
@@ -1993,6 +2181,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Vật lí lớp 10, Bài 23 (Mục I): Khái quát các dạng năng lượng trong tự nhiên và quá trình truyền, chuyển hóa năng lượng.
   - Khoa học tự nhiên lớp 6, Bài 46 (Mục I, II): khái niệm nền tảng mở đầu chương Năng lượng và mối liên hệ giữa năng lượng với tác dụng lực.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 04, B13 (Mục I.1), tr. 78, 79; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục II.4), tr. 84; SGK Vật lí 10 KNTT, Chương 04, B23, tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục I), tr. 91, 92; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B46, tr. 162; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B46 (Mục I), tr. 162; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B46 (Mục II), tr. 163
+
+### energy cycle in the water cycle
+- **Tiếng Việt:** Vòng năng lượng theo vòng tuần hoàn của nước
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The natural transformation of solar energy coupled with evaporation, condensation into clouds and precipitation, and closed runoff within Earth's hydrological cycle. Solar radiation heats land, oceans, and the atmosphere to create regional temperature differences, converting into the kinetic and potential energy of winds, ocean waves, ocean currents, and river flows.
+- **Giải thích (VI):** Quá trình chuyển hoá tự nhiên của năng lượng mặt trời gắn liền với sự bốc hơi, ngưng tụ tạo mây mưa và dòng chảy khép kín của nước trên Trái Đất. Bức xạ mặt trời làm nóng mặt đất, đại dương và khí quyển tạo ra sự chênh lệch nhiệt độ giữa các vùng, chuyển hoá thành năng lượng của gió, sóng biển, dòng biển và dòng chảy sông suối.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 16 (Mục I.2): chứng minh năng lượng gió, sóng biển và thuỷ năng đều bắt nguồn từ Mặt Trời.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 05, B16 (Mục I.1), tr. 76; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B16 (Mục I.2), tr. 76; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B16 (Mục I.2), tr. 76, 77
+
+### energy efficiency
+- **Tiếng Việt:** Sử dụng hiệu quả năng lượng
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The practice of consuming less energy to perform the same task or maintain the same function of equipment and machinery, thereby reducing energy waste, lowering costs, and curbing emissions from fossil fuels.
+- **Giải thích (VI):** Việc tiêu thụ ít năng lượng hơn để thực hiện cùng một công việc hoặc duy trì cùng một chức năng của thiết bị, máy móc, nhằm giảm năng lượng hao phí, tiết kiệm chi phí và hạn chế phát thải từ nhiên liệu hoá thạch.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 17 (Mục III): giải pháp tiết kiệm năng lượng gắn liền với mục tiêu bảo vệ môi trường trong sản xuất và đời sống.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục II.4), tr. 85; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục III), tr. 85; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục III), tr. 85, 86
 
 ### energy flow diagram
 - **Tiếng Việt:** Sơ đồ dòng năng lượng
@@ -2083,7 +2287,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 11, Bài 31 (Mục 1a): Mô hình hoá chuyển động thẳng để xây dựng bài toán vận tốc tức thời dẫn đến khái niệm đạo hàm.
   - *Lưu ý:* Refers to the kinematic distance-time function $s = s(t)$ of rectilinear motion rather than Newtonian dynamical differential equations.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 09, B31 (Mục 1.a), tr. 81
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 09, B31 (Mục 1.a), tr. 81; SGK Toán 11 KNTT Tập 2, Chương 09, B31, tr. 81
 
 ### equilibrium conditions of a rigid body
 - **Tiếng Việt:** Điều kiện cân bằng của một vật rắn
@@ -2121,8 +2325,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A physical quantity representing the combined resistance of a circuit of positive resistors (measured in Ohms), equal to the sum of resistances for a series circuit and the reciprocal of the sum of reciprocals of component resistances for a parallel circuit. In the `cong_thuc_ly.py` library, the functions `machNoiTiep(dsDienTro)` and `machSongSong(dsDienTro)` compute this value and return `-1` if any resistance is less than or equal to $0$.
 - **Giải thích (VI):** Đại lượng vật lí biểu thị điện trở chung của mạch gồm các điện trở thành phần dương (tính theo Ohm), bằng tổng các điện trở đối với mạch mắc nối tiếp và bằng nghịch đảo của tổng các nghịch đảo giá trị điện trở thành phần đối với mạch mắc song song. Trong thư viện `cong_thuc_ly.py`, hai hàm `machNoiTiep(dsDienTro)` và `machSongSong(dsDienTro)` tính giá trị này và trả về `-1` nếu tồn tại điện trở nhỏ hơn hoặc bằng $0$.
-- **Bối cảnh:** Tin học lớp 11, Bài 31 (Nhiệm vụ 2): Thiết lập thư viện cong_thuc_ly.py tính điện trở tương đương của mạch điện nối tiếp và song song.
-- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B31, tr. 144; SGK Tin học CS 11 KNTT, Chủ đề 06, B31, tr. 144, 145
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A single resistance $R_{\text{eq}}$ that can replace a combination of resistors in a circuit segment such that, under the same applied voltage across its terminals, the total current in the main circuit remains unchanged. In a series circuit $R_{\text{eq}}$ exceeds every individual resistance, whereas in a parallel circuit $R_{\text{eq}}$ is smaller than every individual resistance. / VI: Điện trở duy nhất $R_{\text{tđ}}$ có thể thay thế cho toàn bộ hệ các điện trở của một đoạn mạch sao cho khi đặt cùng một hiệu điện thế vào hai đầu đoạn mạch thì cường độ dòng điện chạy qua mạch chính vẫn giữ nguyên giá trị như trước. Đoạn mạch nối tiếp có $R_{\text{tđ}}$ lớn hơn mỗi điện trở thành phần, còn đoạn mạch song song có $R_{\text{tđ}}$ nhỏ hơn mỗi điện trở thành phần.
+- **Bối cảnh:**
+  - Tin học lớp 11, Bài 31 (Nhiệm vụ 2): Thiết lập thư viện cong_thuc_ly.py tính điện trở tương đương của mạch điện nối tiếp và song song.
+  - Khoa học tự nhiên lớp 9, Bài 12 (Mục I.1, II.1): rút gọn sơ đồ mạch điện nối tiếp, song song hoặc hỗn hợp để tính cường độ dòng điện và hiệu điện thế.
+- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 06, B31, tr. 144; SGK Tin học CS 11 KNTT, Chủ đề 06, B31, tr. 144, 145; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B12, tr. 60; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B12 (Mục I.1), tr. 60; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B12 (Mục I.2), tr. 61
 
 ### error box
 - **Tiếng Việt:** Ô bao sai số
@@ -2212,6 +2419,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 8 (Mục I): đọc nhiệt kế hai thang đo và quy đổi giá trị nhiệt độ giữa độ C và độ F.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục I), tr. 25; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B8 (Mục II.1), tr. 25
 
+### far point
+- **Tiếng Việt:** Điểm cực viễn (Cv)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The farthest point from the eye at which an object can be seen clearly; for a normal eye without refractive errors, this point is located at infinity.
+- **Giải thích (VI):** Điểm xa mắt nhất mà đặt vật tại đó mắt còn có thể nhìn rõ được; đối với mắt không có tật khúc xạ, vị trí này nằm ở xa vô cực.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 10 (Mục II): xác định giới hạn xa của khoảng nhìn rõ của mắt khi ngắm chừng qua kính lúp.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục I), tr. 51; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục II), tr. 51; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục III), tr. 51
+
 ### farad
 - **Tiếng Việt:** Fara
 - **Chuyên ngành gốc:** Vật lí
@@ -2227,6 +2442,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Định luật cơ bản về cảm ứng điện từ khẳng định rằng độ lớn của suất điện động cảm ứng trong mạch kín tỉ lệ với tốc độ biến thiên của từ thông qua mạch, biểu diễn bởi $|e_{\text{c}}| = k\left|\frac{\Delta\Phi}{\Delta t}\right|$ (hoặc $e_{\text{c}} = -N\frac{\Delta\Phi}{\Delta t}$ trong hệ SI với cuộn dây gồm $N$ vòng khi kết hợp định luật Lenz).
 - **Bối cảnh:** Vật lí lớp 12, Bài 16 (Mục IV): tính độ lớn suất điện động cảm ứng trong mạch kín.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B16 (Mục III), tr. 69; SGK Vật lí 12 KNTT, Chương 03, B16 (Mục IV), tr. 69; SGK Vật lí 12 KNTT, Chương 03, B16 (Mục IV), tr. 69, 70
+
+### fiber-optic cable
+- **Tiếng Việt:** Cáp quang
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A light-guiding cable consisting of a bundle of optical fibers, used to transmit light and data in information technology or for endoscopy in medicine.
+- **Giải thích (VI):** Dây dẫn sáng gồm một bó các sợi quang ghép lại với nhau, dùng để truyền ánh sáng và dữ liệu trong công nghệ thông tin hoặc nội soi trong y học.
+- **Giải thích khác (SGK Tin học CS 12):** EN: An optical signal transmission medium composed of ultra-thin glass or plastic fiber tubes with totally internally reflective inner surfaces, enabling light rays to propagate smoothly through the core even when bent. Fiber-optic cables provide high bandwidth and long-distance transmission, requiring optical-to-electrical media converters when interfacing with electronic network devices. / VI: Phương tiện truyền dẫn tín hiệu ánh sáng cấu tạo từ các ống sợi thuỷ tinh hoặc nhựa có đường kính rất nhỏ với mặt trong phản xạ toàn phần, giữ tia sáng truyền thông suốt trong lòng ống ngay cả khi cáp bị uốn cong. Cáp quang cho băng thông lớn và khoảng cách truyền xa, nhưng khi kết nối với thiết bị mạng dùng tín hiệu điện cần có bộ chuyển đổi tín hiệu quang – điện.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 9, Bài 6 (Mục III.2): Thiết bị truyền dẫn quang ứng dụng hiện tượng phản xạ toàn phần.
+  - Tin học lớp 12, Bài 23 (Mục 1.b): Cấu tạo, nguyên lí truyền tín hiệu ánh sáng và phạm vi ứng dụng đường trục xa của cáp quang.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B6 (Mục III.2), tr. 33; SGK Tin học CS 12 KNTT, Chủ đề 06, B23 (Mục 1), tr. 123; SGK Tin học CS 12 KNTT, Chủ đề 06, B23 (Mục 1.b), tr. 124; SGK Tin học CS 12 KNTT, Chủ đề 06, B23 (Mục 1.b), tr. 125; SGK Tin học CS 12 KNTT, Chủ đề 06, B23 (Mục 1.a), tr. 124
 
 ### field system
 - **Tiếng Việt:** Phần cảm
@@ -2288,6 +2514,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Lực do môi trường chất lưu (như không khí, nước) tác dụng lên mọi vật chuyển động bên trong nó, có hướng ngược với hướng chuyển động và làm chậm chuyển động của vật. Độ lớn của lực cản phụ thuộc vào hình dạng và tốc độ của vật.
 - **Bối cảnh:** Vật lí lớp 10, Bài 19 (Mục I): Phân tích tác dụng cản trở chuyển động của không khí và nước đối với các vật thể và phương tiện giao thông.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B19, tr. 77; SGK Vật lí 10 KNTT, Chương 03, B19 (Mục I.1), tr. 77; SGK Vật lí 10 KNTT, Chương 03, B19 (Mục I.2), tr. 77
+
+### focal length
+- **Tiếng Việt:** Tiêu cự (f)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The distance from the optical center $O$ to the principal focus $F$ of a lens, denoted as $OF = f$.
+- **Giải thích (VI):** Khoảng cách từ quang tâm $O$ đến tiêu điểm chính $F$ của thấu kính, kí hiệu $OF = f$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 8 (Mục II): đặc trưng cho khả năng hội tụ hoặc phân kì chùm sáng của thấu kính và đo thực hành ở Bài 9.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục I), tr. 41; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục II), tr. 41; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục IV.2), tr. 45
 
 ### food irradiation
 - **Tiếng Việt:** Chiếu xạ thực phẩm (bảo quản thực phẩm bằng chiếu xạ)
@@ -2363,6 +2597,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 6 (Mục II.1): Khảo sát dao động duy trì dưới tác dụng của ngoại lực tuần hoàn.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 01, B6 (Mục I.1), tr. 25; SGK Vật lí 11 KNTT, Chương 01, B6 (Mục I.2), tr. 25; SGK Vật lí 11 KNTT, Chương 01, B6 (Mục II.1), tr. 25
 
+### fossil energy
+- **Tiếng Việt:** Năng lượng hoá thạch
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** Energy derived from fossil fuels—including coal, petroleum, associated petroleum gas, and natural gas—formed over millions of years from the decomposition of buried organisms and ultimately originating from solar energy. Fossil energy is readily available and easy to extract, transport, and store, but is non-renewable and depleting while emitting pollutants and greenhouse gases upon combustion.
+- **Giải thích (VI):** Nguồn năng lượng thu được từ các nhiên liệu hoá thạch như than mỏ, dầu mỏ, khí mỏ dầu và khí thiên nhiên, hình thành qua hàng triệu năm phân huỷ xác sinh vật bị vùi lấp và có nguồn gốc sâu xa từ năng lượng mặt trời. Năng lượng hoá thạch sẵn có, dễ khai thác, vận chuyển và tích trữ nhưng không tái tạo kịp nên dần cạn kiệt và khi đốt cháy phát thải khí gây ô nhiễm môi trường, hiệu ứng nhà kính.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 16 (Mục II): đánh giá nguồn gốc, ưu điểm và tác động môi trường của việc khai thác, sử dụng nhiên liệu hoá thạch.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 05, B16 (Mục I.1), tr. 75; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B16 (Mục I.2), tr. 77; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B16 (Mục II), tr. 77
+
 ### frame of reference
 - **Tiếng Việt:** Hệ quy chiếu
 - **Chuyên ngành gốc:** Vật lí
@@ -2411,19 +2653,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 10 (Mục II.1): xác định mốc nhiệt độ chuyển thể lỏng sang rắn của chất, chẳng hạn nước đông đặc và nóng chảy cùng ở 0 °C.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.1), tr. 32; SGK Khoa học tự nhiên 6 KNTT, Chương 02, B10 (Mục II.2), tr. 34
 
-### frequency
-- **Tiếng Việt:** Tần số
+### frequency of alternating current
+- **Tiếng Việt:** Tần số của dòng điện xoay chiều
 - **Chuyên ngành gốc:** Vật lí
-- **Giải thích (EN):** A quantity (symbol $f$) representing the number of revolutions completed per second by an object in uniform circular motion, related to the period $T$ and angular speed $\omega$ by $f = \frac{1}{T} = \frac{\omega}{2\pi}$.
-- **Giải thích (VI):** Đại lượng (kí hiệu $f$) biểu thị số vòng mà vật chuyển động tròn đều đi được trong một giây, liên hệ với chu kì $T$ và tốc độ góc $\omega$ theo hệ thức $f = \frac{1}{T} = \frac{\omega}{2\pi}$.
-- **Giải thích khác (SGK Vật lí 11):** EN: The number of oscillations completed by an object in one second, denoted by $f$, given by the relation $f = \frac{1}{T}$ (where $T$ is the period) and measured in hertz ($\text{Hz}$). / VI: Số dao động mà vật thực hiện được trong một giây, kí hiệu là $f$, xác định bởi hệ thức $f = \frac{1}{T}$ (với $T$ là chu kì) và có đơn vị đo là héc ($\text{Hz}$).
-- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: A physical quantity measured by the number of oscillations an object completes in one second, expressed in hertz ($\text{Hz}$). A normal human ear can hear sounds with frequencies ranging from about $20\text{ Hz}$ to $20\,000\text{ Hz}$. / VI: Đại lượng vật lí đo bằng số dao động mà vật thực hiện được trong một giây, có đơn vị đo là héc ($\text{Hz}$). Tai người bình thường nghe được các âm có tần số trong khoảng từ $20\text{ Hz}$ đến $20\,000\text{ Hz}$.
+- **Giải thích (EN):** A quantity characterizing the rate of periodic oscillation of an alternating current, measured in hertz ($\text{Hz}$); because the current reverses direction twice per cycle, a $50\text{ Hz}$ alternating current reverses direction $100$ times in one second.
+- **Giải thích (VI):** Đại lượng đặc trưng cho tốc độ biến thiên tuần hoàn của dòng điện xoay chiều, đo bằng đơn vị héc ($\text{Hz}$); trong mỗi chu kì dòng điện đổi chiều hai lần nên dòng điện xoay chiều tần số $50\text{ Hz}$ đổi chiều $100$ lần trong một giây.
 - **Bối cảnh:**
-  - Vật lí lớp 10, Bài 31 (Mục II.2): Xác định số vòng quay trong một đơn vị thời gian của chuyển động tròn đều.
-  - Vật lí lớp 11, Bài 2 (Mục I): Đại lượng đặc trưng cho mức độ nhanh hay chậm của sự lặp lại dao động.
-  - Khoa học tự nhiên lớp 7, Bài 13 (Mục II.1): xác định độ nhanh chậm của dao động nguồn âm và mối liên hệ với độ cao của âm.
-  - *Lưu ý:* Trong Vật lí (dao động và sóng âm), tần số là số dao động thực hiện trong một giây; phân biệt với tần số xuất hiện của một giá trị dữ liệu trong thống kê Toán học.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 06, B31 (Mục II.1), tr. 121; SGK Vật lí 10 KNTT, Chương 06, B31 (Mục II.2), tr. 121; SGK Vật lí 10 KNTT, Chương 06, B31 (Mục III), tr. 121; SGK Vật lí 11 KNTT, Chương 01, B2, tr. 10; SGK Vật lí 11 KNTT, Chương 01, B2 (Mục I), tr. 10; SGK Vật lí 11 KNTT, Chương 01, B2 (Mục III), tr. 12; SGK Khoa học tự nhiên 7 KNTT, Chương 04, B13 (Mục I.1), tr. 65; SGK Khoa học tự nhiên 7 KNTT, Chương 04, B13 (Mục I.2), tr. 65; SGK Khoa học tự nhiên 7 KNTT, Chương 04, B13 (Mục II.1), tr. 65; SGK Khoa học tự nhiên 7 KNTT, Chương 04, B13 (Mục II.2), tr. 67; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 179
+  - Khoa học tự nhiên lớp 9, Bài 14 (Mục III): đọc thông số tần số dòng điện lưới $50\text{ Hz}$ và xác định số lần dòng điện đổi chiều trong một giây.
+  - *Lưu ý:* SGK KHTN 9 tr. 70 diễn đạt giản lược kèm ví dụ 50 Hz đổi chiều 100 lần/giây; phần giải nghĩa giữ đúng số liệu ví dụ SGK và chuẩn hóa chính xác quan hệ chu kì - số lần đổi chiều.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục II), tr. 70; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục III), tr. 70; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục III), tr. 70, 71
 
 ### frictional force
 - **Tiếng Việt:** Lực ma sát
@@ -2505,8 +2743,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** An instrument used to detect the presence of and measure electric currents (even very small ones) through the deflection of its pointer needle from the $0$ mark.
 - **Giải thích (VI):** Thiết bị dùng để nhận biết sự xuất hiện và đo dòng điện (dù rất nhỏ) dựa vào sự lệch của kim chỉ thị khỏi vạch số $0$.
-- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 15 (Mục I): mắc nối tiếp với pin quang điện để phát hiện dòng điện sinh ra khi chiếu ánh sáng vào pin.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176, 177; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B15 (Mục I), tr. 72
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A center-zero electrical instrument used to detect the presence and direction of an induced electric current. Its pointer deflects to the right when current enters terminal $\text{G}_0$ (or $\text{G}_1$) and exits the negative ($-$) terminal, and deflects to the left when the current reverses direction. / VI: Dụng cụ đo điện có vạch $0$ nằm giữa thang đo dùng để phát hiện sự xuất hiện và chiều của dòng điện cảm ứng. Kim điện kế lệch sang phải khi dòng điện đi vào chốt $\text{G}_0$ (hoặc $\text{G}_1$) và đi ra ở chốt âm ($-$), và lệch sang trái khi dòng điện đổi chiều ngược lại.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 7, Bài 15 (Mục I): mắc nối tiếp với pin quang điện để phát hiện dòng điện sinh ra khi chiếu ánh sáng vào pin.
+  - Khoa học tự nhiên lớp 9, Bài 1 (Mục I.2.a): Nhận biết dụng cụ phát hiện dòng điện cảm ứng và chiều dòng điện trong các thí nghiệm điện từ.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176, 177; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B15 (Mục I), tr. 72; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.1.c), tr. 7; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.2.a), tr. 7; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.2.b), tr. 7
 
 ### gamma decay
 - **Tiếng Việt:** Phóng xạ gamma (tia phóng xạ γ; tia γ)
@@ -2514,7 +2755,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The process in which an excited daughter nucleus $^{A}_{Z}\text{Y}^*$ (often formed after $\alpha$ or $\beta$ decay) transitions to a lower-energy state $^{A}_{Z}\text{Y}$ according to $^{A}_{Z}\text{Y}^* \rightarrow ^{A}_{Z}\text{Y} + \gamma$, emitting electromagnetic $\gamma$ radiation of very short wavelength (less than $10^{-11}\text{ m}$). Gamma rays carry no electric charge, have weaker ionizing power than $\alpha$ and $\beta$ rays, but possess very high penetrating power.
 - **Giải thích (VI):** Quá trình hạt nhân con ở trạng thái kích thích $^{A}_{Z}\text{Y}^*$ (thường hình thành sau phóng xạ $\alpha$ hoặc $\beta$) chuyển về trạng thái có mức năng lượng thấp hơn $^{A}_{Z}\text{Y}$ theo phương trình $^{A}_{Z}\text{Y}^* \rightarrow ^{A}_{Z}\text{Y} + \gamma$, phát ra bức xạ điện từ $\gamma$ có bước sóng rất ngắn (nhỏ hơn $10^{-11}\text{ m}$). Tia $\gamma$ không mang điện, có khả năng ion hoá kém hơn tia $\alpha$ và $\beta$ nhưng có khả năng đâm xuyên rất mạnh.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục I.3.c): sự phát bức xạ điện từ năng lượng cao đi kèm phân rã hạt nhân mà không làm biến đổi số khối hay điện tích hạt nhân.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.c), tr. 106; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.c), tr. 107; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục III.1), tr. 110
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.c), tr. 106; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.c), tr. 107; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục III.1), tr. 110; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3), tr. 105; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.a), tr. 106; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.b), tr. 106
 
 ### gamma ray
 - **Tiếng Việt:** Tia gamma
@@ -2586,7 +2827,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Khoa học tự nhiên lớp 7, Bài 9 (Mục III): Ứng dụng công nghệ vệ tinh trên điện thoại di động và đồng hồ thông minh để đo tốc độ chuyển động.
   - Tin học lớp 12, Bài 23 (Mục 2.a): Ứng dụng mạng vệ tinh trong xác định toạ độ và dẫn đường tự động.
   - Địa lí lớp 10, Bài 3 (Mục 2.a): Tìm hiểu khái niệm và nguyên lí định vị vệ tinh của hệ thống GPS.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 03, B9 (Mục III), tr. 52; SGK Tin học CS 12 KNTT, Chủ đề 06, B23 (Mục 2.a), tr. 126; SGK Địa lí 10 KNTT, Phần hai, B3, tr. 12; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 1), tr. 12; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.a), tr. 12; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.a), tr. 13
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 03, B9 (Mục III), tr. 52; SGK Tin học CS 12 KNTT, Chủ đề 06, B23 (Mục 2.a), tr. 126; SGK Tin học CS 12 KNTT, Chủ đề 06, B23 (Mục 2.b), tr. 126; SGK Tin học CS 12 KNTT, Chủ đề 06, B23 (Mục 2.c), tr. 126; SGK Địa lí 10 KNTT, Phần hai, B3, tr. 12; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 1), tr. 12; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.a), tr. 12; SGK Địa lí 10 KNTT, Phần hai, B3 (Mục 2.a), tr. 13
 
 ### good sound reflector
 - **Tiếng Việt:** Vật phản xạ âm tốt
@@ -2595,6 +2836,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Vật làm bằng vật liệu cứng và có bề mặt nhẵn, có khả năng dội lại phần lớn sóng âm chiếu tới. Các ví dụ phổ biến gồm mặt gương, mặt đá hoa, tấm kim loại, mặt tường gạch, tấm gỗ nhẵn và mặt nước.
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 14 (Mục II): thực hiện thí nghiệm phân loại khả năng phản xạ âm của các vật liệu khác nhau.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 04, B14 (Mục II), tr. 69; SGK Khoa học tự nhiên 7 KNTT, Chương 04, B14 (Mục III.1), tr. 69; SGK Khoa học tự nhiên 7 KNTT, Chương 04, B14 (Mục III.1), tr. 69, 70; SGK Khoa học tự nhiên 7 KNTT, Chương 04, B14 (Mục III.2), tr. 71
+
+### graduated disc
+- **Tiếng Việt:** Bảng chia độ
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An angle-marked optical laboratory plate used to read the angles of incidence, refraction, and reflection when investigating light refraction and total internal reflection.
+- **Giải thích (VI):** Dụng cụ thí nghiệm quang học có vạch chia góc dùng để đọc giá trị góc tới, góc khúc xạ và góc phản xạ khi khảo sát hiện tượng khúc xạ ánh sáng và phản xạ toàn phần.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 1 (Mục I.1.b): Kết hợp với bản bán trụ để đo góc của các tia sáng trong thí nghiệm quang học.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1, tr. 6; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I), tr. 6; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.1.a), tr. 6
 
 ### graphical method
 - **Tiếng Việt:** Phương pháp đồ thị
@@ -2619,11 +2868,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Dạng năng lượng lưu trữ của một vật đặt ở độ cao $h$ so với gốc thế năng trong trường trọng lực, xác định bởi công thức $W_{\text{t}} = P \cdot h = m \cdot g \cdot h$ (với $m$ là khối lượng vật và $g$ là gia tốc trọng trường). Trong hệ SI, thế năng trọng trường có đơn vị là jun ($\text{J}$) và phụ thuộc vào vị trí chọn làm gốc thế năng.
 - **Giải thích khác (SGK Vật lí 11):** EN: The form of potential energy of an object in a gravitational field depending on its height relative to a reference level. For a simple pendulum referenced at its equilibrium position, $W_\text{t} = mgl(1 - \cos\alpha)$, and for small angles, $W_\text{t} \approx \frac{1}{2}m\frac{g}{l}s^2$. / VI: Dạng thế năng của vật trong trọng trường phụ thuộc vào độ cao so với mốc thế năng. Đối với con lắc đơn chọn mốc thế năng tại vị trí cân bằng, $W_\text{t} = mgl(1 - \cos\alpha)$, và khi góc lệch nhỏ thì $W_\text{t} \approx \frac{1}{2}m\frac{g}{l}s^2$.
 - **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The form of energy stored in an object when it is positioned at a height above the ground. / VI: Dạng năng lượng lưu trữ trong vật khi vật ở một độ cao so với mặt đất.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The form of energy possessed by an object due to its height above the ground or a chosen reference level. Its magnitude is given by $W_{\text{t}} = Ph$, where $P$ is the object's weight ($\text{N}$), $h$ is its height relative to the reference level ($\text{m}$), and $W_{\text{t}}$ is measured in joules ($\text{J}$). / VI: Dạng năng lượng mà vật có được khi nằm ở một độ cao xác định so với mặt đất hoặc vị trí chọn làm gốc thế năng. Độ lớn thế năng trọng trường xác định bởi biểu thức $W_{\text{t}} = Ph$, trong đó $P$ là trọng lượng của vật ($\text{N}$), $h$ là độ cao so với gốc thế năng ($\text{m}$) và $W_{\text{t}}$ đo bằng jun ($\text{J}$).
 - **Bối cảnh:**
   - Vật lí lớp 10, Bài 25 (Mục II.1): Xác định năng lượng dự trữ của vật ở độ cao xác định trong trọng trường như búa máy đóng cọc hoặc nước trên đập cao.
   - Vật lí lớp 11, Bài 5 (Mục IV.2): Xác định thế năng và cơ năng của con lắc đơn trong quá trình dao động.
   - Khoa học tự nhiên lớp 6, Bài 47 (Mục II): nhận diện năng lượng dự trữ theo độ cao như nước trong hồ chứa thuỷ điện, cánh diều trên trời hoặc búa máy nâng cao.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B25 (Mục I.2), tr. 100; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 100; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 100, 101; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.1), tr. 22; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.2), tr. 22; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.2), tr. 22, 23; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 167
+  - Khoa học tự nhiên lớp 9, Bài 2 (Mục II): Tính thế năng của vật ở độ cao $h$ và giải thích nguyên lí tích trữ năng lượng của hồ chứa thuỷ điện.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B25 (Mục I.2), tr. 100; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 100; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 100, 101; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.1), tr. 22; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.2), tr. 22; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.2), tr. 22, 23; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 167; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B2 (Mục I), tr. 16; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B2 (Mục II), tr. 16; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B2 (Mục II), tr. 16, 17
 
 ### greenhouse effect
 - **Tiếng Việt:** Hiệu ứng nhà kính (hiệu ứng nhà kính khí quyển)
@@ -2632,13 +2883,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hiện tượng lớp kính của nhà trồng cây hoặc bầu khí quyển cho bức xạ nhiệt mạnh của Mặt Trời truyền qua nhưng giữ lại bức xạ nhiệt yếu phát ra từ mặt đất, làm không gian bên trong hoặc bề mặt Trái Đất và không khí bao quanh nóng lên. Trong khí quyển, khí carbon dioxide (CO₂) đóng vai trò quan trọng nhất gây ra hiệu ứng này.
 - **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The atmospheric warming phenomenon on Earth intensified by gas emissions from industrial and domestic activities (such as CO, SO₂, CO₂, and NO₂), causing environmental changes and adverse impacts on living organisms. / VI: Hiện tượng làm ấm bầu khí quyển Trái Đất gia tăng do các chất khí thải từ hoạt động công nghiệp và sinh hoạt (như CO, SO₂, CO₂, NO₂), gây biến đổi môi trường và ảnh hưởng không tốt tới cơ thể sinh vật.
 - **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The warming of Earth's atmosphere occurring when sunlight heats the Earth's surface and the heat radiated back into the atmosphere is absorbed and trapped by carbon dioxide and certain other gases rather than escaping into space. / VI: Hiện tượng gia tăng nhiệt độ khí quyển Trái Đất khi ánh sáng mặt trời làm mặt đất nóng lên và lượng hơi nóng phát tán trở lại khí quyển bị khí carbon dioxide cùng một số khí khác hấp thụ, giữ lại mà không thoát ra ngoài vũ trụ được.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The atmospheric heat-trapping phenomenon on Earth driven primarily by greenhouse gases such as carbon dioxide ($\text{CO}_2$) and methane ($\text{CH}_4$). Rising atmospheric concentrations of these gases during the industrial era have intensified this effect, progressively raising Earth's surface temperature. / VI: Hiện tượng giữ nhiệt của khí quyển Trái Đất có nguyên nhân chính từ các khí nhà kính như carbon dioxide ($\text{CO}_2$) và methane ($\text{CH}_4$). Sự gia tăng nồng độ các khí này trong thời đại công nghiệp làm hiệu ứng nhà kính mạnh lên và khiến nhiệt độ bề mặt Trái Đất tăng dần.
 - **Bối cảnh:**
   - Khoa học tự nhiên lớp 8, Bài 28 (Mục III.3): phân tích sự truyền bức xạ nhiệt qua khí quyển và các biện pháp giảm phát thải CO₂ bảo vệ môi trường.
   - Khoa học tự nhiên lớp 8, Bài 47 (Mục II.2a): Hệ quả môi trường từ sự gia tăng khí thải công nghiệp và sinh hoạt trong bầu khí quyển.
   - Khoa học tự nhiên lớp 6, Bài 34 (Mục III.1): Giải thích vai trò của thực vật trong việc hấp thụ khí carbon dioxide và thoát hơi nước giúp điều hoà khí hậu, giảm hiệu ứng nhà kính.
+  - Khoa học tự nhiên lớp 9, Bài 35 (Mục III.3): Giải thích cơ chế làm Trái Đất nóng lên do phát thải quá mức $\text{CO}_2$ và $\text{CH}_4$.
   - *Lưu ý:* Thuật ngữ dùng cho cả tác dụng giữ nhiệt của nhà lợp kính trong nông nghiệp và hiệu ứng giữ bức xạ nhiệt của bầu khí quyển Trái Đất.
   - *Lưu ý:* Xét dưới góc độ hệ quả ô nhiễm không khí do khí thải công nghiệp và sinh hoạt ở Bài 47, bổ sung cho cơ chế bức xạ nhiệt ở Bài 28.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.2), tr. 116; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.3.a), tr. 116; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.3.b), tr. 116; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục II.2.a), tr. 192; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 119; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục III.1), tr. 119; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục III.1), tr. 119, 120
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.2), tr. 116; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.3.a), tr. 116; SGK Khoa học tự nhiên 8 KNTT, Chương 06, B28 (Mục III.3.b), tr. 116; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục II.2.a), tr. 192; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục I.3), tr. 192; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục II.1), tr. 192; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 119; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục III.1), tr. 119; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục III.1), tr. 119, 120; SGK Khoa học tự nhiên 9 KNTT, Chương 10, B35 (Mục III.2), tr. 157; SGK Khoa học tự nhiên 9 KNTT, Chương 10, B35 (Mục III.3), tr. 157; SGK Khoa học tự nhiên 9 KNTT, Chương 10, B35 (Mục III.3), tr. 157, 158
 
 ### half moon
 - **Tiếng Việt:** Bán nguyệt
@@ -2657,7 +2910,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 11, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 1): Tham số vật lí dùng để xác định hằng số suy thoái trong mô hình hàm số mũ của chất phóng xạ.
   - Vật lí lớp 12, Bài 23 (Mục II.1): đại lượng thời gian đặc trưng cho tốc độ phân rã nhanh hay chậm của từng đồng vị phóng xạ.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit, tr. 99; SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 1), tr. 99; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.1), tr. 107; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.1), tr. 108
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit, tr. 99; SGK Toán 11 KNTT Tập 2, Chương 09, Một vài mô hình toán học sử dụng hàm số mũ và hàm số lôgarit (Mục 1), tr. 99; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.1), tr. 107; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.1), tr. 108; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.c), tr. 107; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.1), tr. 107, 108
 
 ### harmonic oscillation
 - **Tiếng Việt:** Dao động điều hoà
@@ -2703,6 +2956,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 2 (Mục II.1): phân biệt quá trình truyền năng lượng nhiệt với quá trình thực hiện công.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 01, B2 (Mục I.1), tr. 10; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục I.2), tr. 11; SGK Vật lí 12 KNTT, Chương 01, B2 (Mục II.1), tr. 11
 
+### heating effect of alternating current
+- **Tiếng Việt:** Tác dụng nhiệt của dòng điện xoay chiều
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phenomenon in which an alternating current flowing through a conductor causes it to heat up as electrical energy converts into thermal energy, applied in household appliances such as hair dryers, water heaters, electric kettles, and irons.
+- **Giải thích (VI):** Hiện tượng dòng điện xoay chiều chạy qua vật dẫn làm vật dẫn nóng lên do năng lượng điện chuyển hoá thành nhiệt năng, được ứng dụng trong các thiết bị điện gia dụng như máy sấy tóc, bình nước nóng, ấm đun nước và bàn là.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 15 (Mục I): nhận biết và nêu ứng dụng thực tế của tác dụng nhiệt khi sử dụng điện xoay chiều.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 04, B15, tr. 72; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B15 (Mục I), tr. 72; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B15 (Mục II), tr. 72
+
 ### heating effect of electric current
 - **Tiếng Việt:** Tác dụng nhiệt của dòng điện (tác dụng nhiệt)
 - **Chuyên ngành gốc:** Vật lí
@@ -2717,7 +2978,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A landmark astronomical theory of the Renaissance proposed by Nicolaus Copernicus, identifying the Sun as the center of the Solar System and helping push back the dominance of medieval theology.
 - **Giải thích (VI):** Học thuyết thiên văn học tiêu biểu thời kì Phục hưng do Ni-cô-lai Cô-péc-ních đề xướng, xác định Mặt Trời là trung tâm của Thái dương hệ và góp phần đẩy lùi ảnh hưởng của thần học trung cổ.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 2.b): Thành tựu Thiên văn học mở đường cho sự phát triển của khoa học tự nhiên thời Phục hưng.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 2.b), tr. 56, 57
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 2.b), tr. 56, 57; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 2.b), tr. 56
 
 ### hertz
 - **Tiếng Việt:** Héc (Hz; Hertz)
@@ -2780,6 +3041,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 12 (Mục I.3.b): tính khoảng cách bay xa nhất theo phương ngang của vật trong chuyển động ném ngang và ném xiên.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 02, B12 (Mục I.3), tr. 50; SGK Vật lí 10 KNTT, Chương 02, B12 (Mục I.3.a), tr. 50; SGK Vật lí 10 KNTT, Chương 02, B12 (Mục I.3.b), tr. 50
 
+### horsepower
+- **Tiếng Việt:** Mã lực (HP)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A common non-SI unit of power widely used for engines and machinery, symbolized as $\text{HP}$ and equal to $1\text{ HP} = 746\text{ W}$ (alongside $\text{BTU/h}$ used for heating and cooling equipment, where $1\text{ BTU/h} = 0.293\text{ W}$).
+- **Giải thích (VI):** Đơn vị đo công suất thông dụng ngoài hệ SI thường dùng cho động cơ và máy móc kĩ thuật, kí hiệu là $\text{HP}$ với quy đổi $1\text{ HP} = 746\text{ W}$ (bên cạnh đơn vị $\text{BTU/h}$ dùng cho thiết bị sưởi ấm, làm lạnh với $1\text{ BTU/h} = 0,293\text{ W}$).
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 4 (Mục II): Quy đổi các đơn vị công suất kĩ thuật (HP, BTU/h) của động cơ và máy điều hoà nhiệt độ sang đơn vị oát.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4 (Mục II), tr. 23; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4 (Mục II), tr. 23, 24
+
 ### hot reservoir
 - **Tiếng Việt:** Nguồn nóng
 - **Chuyên ngành gốc:** Vật lí
@@ -2795,6 +3064,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phương tiện giao thông sử dụng hệ thống quạt công suất lớn bơm không khí tạo vùng khí nén áp suất cao giữa đáy tàu và mặt đất hoặc mặt nước. Lớp đệm khí áp suất cao nâng thân tàu tách khỏi bề mặt tiếp xúc, giúp giảm thiểu lực ma sát khi tàu di chuyển.
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 16 (Mục II.2.b): Ứng dụng áp suất không khí nén trong kĩ thuật giao thông thuỷ bộ.
 - **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2.a), tr. 71; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2.b), tr. 71; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B16 (Mục II.2.b), tr. 71, 72
+
+### Hubble Space Telescope
+- **Tiếng Việt:** Kính viễn vọng không gian Hubble
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A space-based telescope system integrating advanced information-processing technology in orbit for universe research, ranking among the most expensive information-processing machines ever built.
+- **Giải thích (VI):** Hệ thống kính viễn vọng tích hợp công nghệ xử lí thông tin hiện đại trên quỹ đạo không gian để phục vụ nghiên cứu vũ trụ, thuộc nhóm những cỗ máy xử lí thông tin đắt tiền nhất từng được chế tạo.
+- **Bối cảnh:** Tin học lớp 9, Bài 1 (Mục 2b): Ví dụ tiêu biểu minh hoạ ứng dụng của công nghệ thông tin trên thiết bị không gian để nghiên cứu vũ trụ.
+- **Nguồn:** SGK Tin học 9 KNTT, Chủ đề 01, B1 (Mục 2.a), tr. 7; SGK Tin học 9 KNTT, Chủ đề 01, B1 (Mục 2.b), tr. 7; SGK Tin học 9 KNTT, Chủ đề 01, B1 (Mục 3), tr. 7, 8
 
 ### hydraulic press
 - **Tiếng Việt:** Máy nén thuỷ lực
@@ -2885,12 +3162,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Toán 7 KNTT Tập 2, Chương 10, Đại lượng tỉ lệ trong đời sống (Mục 1), tr. 104
 
 ### incident ray
-- **Tiếng Việt:** Tia sáng tới
+- **Tiếng Việt:** Tia sáng tới (Tia tới; SI)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A light ray traveling from a light source or illuminated object directly onto a mirror or reflecting surface (conventionally denoted as $SI$, where $I$ is the point of incidence).
 - **Giải thích (VI):** Tia sáng truyền từ nguồn sáng hoặc vật sáng chiếu trực tiếp vào mặt gương hay bề mặt phản xạ (thường quy ước kí hiệu là $SI$ với $I$ là điểm tới).
-- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 16 (Mục I): biểu diễn tia chiếu tới mặt gương để xác định điểm tới, mặt phẳng tới và góc tới.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16, tr. 78; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 78; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 78, 79
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A light ray traveling from a light source to the point of incidence $I$ on the boundary between two media, commonly denoted $SI$. / VI: Tia sáng truyền từ nguồn sáng đến điểm tới $I$ trên mặt phân cách giữa hai môi trường, thường kí hiệu là $SI$.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 7, Bài 16 (Mục I): biểu diễn tia chiếu tới mặt gương để xác định điểm tới, mặt phẳng tới và góc tới.
+  - Khoa học tự nhiên lớp 9, Bài 5 (Mục I): Quy ước biểu diễn tia sáng chiếu tới mặt phân cách hai môi trường trong suốt.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16, tr. 78; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 78; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 78, 79; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục I), tr. 25; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục I), tr. 26; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục II), tr. 26, 27
 
 ### increasing and decreasing pressure
 - **Tiếng Việt:** Tăng, giảm áp suất
@@ -2921,8 +3201,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** An electric current generated in a closed conducting coil (or closed circuit) during the time interval in which the magnetic flux through it is changing.
 - **Giải thích (VI):** Dòng điện xuất hiện trong cuộn dây dẫn kín (hoặc mạch điện kín) trong khoảng thời gian từ thông xuyên qua nó biến thiên.
-- **Bối cảnh:** Vật lí lớp 12, Bài 16 (Mục II): dòng điện sinh ra do sự biến thiên từ thông qua mạch kín.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B16, tr. 66; SGK Vật lí 12 KNTT, Chương 03, B16 (Mục II), tr. 67; SGK Vật lí 12 KNTT, Chương 03, B16 (Mục II), tr. 68
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: An electric current generated in a closed conducting coil when the number of magnetic field lines passing through the cross-sectional area of the coil changes over time (for instance, when moving a magnet toward or away from the coil, or switching an electromagnet on or off). / VI: Dòng điện xuất hiện trong một cuộn dây dẫn kín khi số đường sức từ xuyên qua tiết diện của cuộn dây dẫn đó biến thiên theo thời gian (chẳng hạn khi dịch chuyển nam châm lại gần hay ra xa cuộn dây, hoặc khi đóng ngắt mạch nam châm điện).
+- **Bối cảnh:**
+  - Vật lí lớp 12, Bài 16 (Mục II): dòng điện sinh ra do sự biến thiên từ thông qua mạch kín.
+  - Khoa học tự nhiên lớp 9, Bài 14 (Mục I, II): khảo sát thực nghiệm bằng điện kế để phát hiện dòng điện sinh ra từ từ trường biến thiên.
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B16, tr. 66; SGK Vật lí 12 KNTT, Chương 03, B16 (Mục II), tr. 67; SGK Vật lí 12 KNTT, Chương 03, B16 (Mục II), tr. 68; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14, tr. 67; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục I), tr. 67; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục I), tr. 67, 68
 
 ### induced electromotive force
 - **Tiếng Việt:** Suất điện động cảm ứng
@@ -2972,7 +3255,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Hóa học lớp 11, Bài 10 (Mục III.3): Kĩ thuật phổ dùng để nhận biết sự có mặt của các nhóm chức trong phân tử hợp chất hữu cơ.
   - *Lưu ý:* Phân biệt 'phương pháp phổ hồng ngoại' (kĩ thuật phân tích dựa trên sự hấp thụ bức xạ hồng ngoại) với 'phổ hồng ngoại' (đồ thị kết quả biểu diễn độ truyền qua theo số sóng).
-- **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B10 (Mục III.3), tr. 60; SGK Hóa học 11 KNTT, Chương 03, B10 (Mục III.3), tr. 60, 61
+- **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B10 (Mục III.3), tr. 60; SGK Hóa học 11 KNTT, Chương 03, B10 (Mục III.3), tr. 60, 61; SGK Hóa học 11 KNTT, Chương 03, B10 (Mục III.2), tr. 60
 
 ### infrared spectrum
 - **Tiếng Việt:** Phổ hồng ngoại (phổ IR)
@@ -2980,7 +3263,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A graph automatically recorded by a spectrometer when infrared radiation passes through a sample, typically plotting percent transmittance (%) against wavenumber ($\text{cm}^{-1}$). On the spectrum, transmittance minima (absorption maxima) appear as signals (peaks) at characteristic wavenumbers corresponding to bond vibrations, enabling prediction of functional groups in the molecule.
 - **Giải thích (VI):** Đồ thị do máy phổ ghi lại tự động khi cho nguồn bức xạ hồng ngoại đi qua chất nghiên cứu, thường biểu thị sự phụ thuộc của độ truyền qua (%) vào số sóng ($\text{cm}^{-1}$). Trên phổ, các cực tiểu truyền qua (cực đại hấp thụ) tạo thành các tín hiệu (peak) ở những số sóng đặc trưng ứng với dao động liên kết, giúp dự đoán nhóm chức trong phân tử.
 - **Bối cảnh:** Hóa học lớp 11, Bài 10 (Mục III.3): Đọc số sóng hấp thụ đặc trưng trên phổ IR (Bảng 10.2) để dự đoán nhóm chức alcohol, amine, aldehyde, ketone, carboxylic acid và ester.
-- **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B10 (Mục III.3), tr. 60; SGK Hóa học 11 KNTT, Chương 03, B10 (Mục III.3), tr. 60, 61
+- **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B10 (Mục III.3), tr. 60; SGK Hóa học 11 KNTT, Chương 03, B10 (Mục III.3), tr. 60, 61; SGK Hóa học 11 KNTT, Chương 03, B10 (Mục III.2), tr. 60
 
 ### initial phase
 - **Tiếng Việt:** Pha ban đầu
@@ -3137,7 +3420,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 10, Bài 7 (Mục 2.b): Phát minh động lực quan trọng thúc đẩy ngành chế tạo phương tiện giao thông và khai thác dầu mỏ trong Cách mạng công nghiệp lần thứ hai.
   - Lịch sử và Địa lí lớp 8, Bài 13 (Mục 1.b): Thành tựu kĩ thuật trọng yếu thế kỉ XIX mở đường cho giao thông vận tải hiện đại.
   - *Lưu ý:* Trong phân môn Lịch sử lớp 8, động cơ đốt trong được xét theo vai trò cách mạng hoá giao thông vận tải và công nghiệp dầu mỏ thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 64; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 64, 65; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 58
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 64; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 64, 65; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 58; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 58; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 58, 59
 
 ### internal energy
 - **Tiếng Việt:** Nội năng
@@ -3203,7 +3486,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Vật lí lớp 10, Bài 29 (Mục I.1): Xác định điều kiện áp dụng định luật bảo toàn động lượng cho hệ nhiều vật tương tác.
   - *Lưu ý:* Trong cơ học, 'hệ kín' (hệ cô lập) tương ứng với 'isolated system' (tổng ngoại lực bằng không), phân biệt với 'closed system' trong nhiệt động lực học (hệ trao đổi năng lượng nhưng không trao đổi vật chất với môi trường).
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 05, B29 (Mục I.1), tr. 113; SGK Vật lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 137, 138
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 05, B29 (Mục I.1), tr. 113; SGK Vật lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 137, 138; SGK Vật lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 137
 
 ### isoprocess
 - **Tiếng Việt:** Đẳng quá trình
@@ -3249,12 +3532,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 05, B29 (Mục I.2), tr. 114; SGK Vật lí 10 KNTT, Chương 05, B29 (Mục II), tr. 114; SGK Vật lí 10 KNTT, Chương 05, B29 (Mục II.1), tr. 114
 
 ### joule
-- **Tiếng Việt:** Jun
+- **Tiếng Việt:** Jun (J)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The SI unit of mechanical work and energy, denoted by $\text{J}$. One joule equals the work done by a constant force of $1\text{ N}$ displacing an object a distance of $1\text{ m}$ in the direction of the force ($1\text{ J} = 1\text{ N}\cdot 1\text{ m}$).
 - **Giải thích (VI):** Đơn vị đo công cơ học và năng lượng trong hệ SI, kí hiệu là $\text{J}$. Một jun bằng công thực hiện bởi lực không đổi có độ lớn $1\text{ N}$ làm vật dịch chuyển quãng đường $1\text{ m}$ theo hướng của lực ($1\text{ J} = 1\text{ N}\cdot 1\text{ m}$).
-- **Bối cảnh:** Vật lí lớp 10, Bài 23 (Mục II.2.a): Đơn vị chuẩn dùng chung cho công cơ học và các dạng năng lượng trong hệ SI.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B23 (Mục II.1), tr. 93; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục II.2.a), tr. 93; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục II.2.b), tr. 93
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The SI unit of mechanical work and energy (including kinetic, potential, and mechanical energy), symbolized as $\text{J}$ and defined as $1\text{ J} = 1\text{ Nm}$. Common decimal multiples include the kilojoule ($1\text{ kJ} = 10^3\text{ J}$) and megajoule ($1\text{ MJ} = 10^6\text{ J}$). / VI: Đơn vị đo công và năng lượng (động năng, thế năng, cơ năng) trong hệ SI, kí hiệu là $\text{J}$, xác định bởi $1\text{ J} = 1\text{ Nm}$. Các ước bội thông dụng của jun gồm kilôjun ($1\text{ kJ} = 10^3\text{ J}$) và mêgajun ($1\text{ MJ} = 10^6\text{ J}$).
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 23 (Mục II.2.a): Đơn vị chuẩn dùng chung cho công cơ học và các dạng năng lượng trong hệ SI.
+  - Khoa học tự nhiên lớp 9, Bài 4 (Mục I): Đơn vị chuẩn dùng trong các phép tính công cơ học, động năng, thế năng và cơ năng.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B23 (Mục II.1), tr. 93; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục II.2.a), tr. 93; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục II.2.b), tr. 93; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4, tr. 21; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4 (Mục I), tr. 21; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4 (Mục I), tr. 21, 22
 
 ### Joule heat
 - **Tiếng Việt:** Nhiệt lượng đoạn mạch toả ra
@@ -3270,7 +3556,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A multifunction digital electrical measuring instrument with an LED display used to measure current, voltage, power, and electrical energy supplied to a circuit via mode-selection, Start, and Reset buttons.
 - **Giải thích (VI):** Thiết bị đo điện đa năng có màn hình hiển thị số (LED), dùng để đo dòng điện, điện áp, công suất và năng lượng điện cung cấp cho mạch điện thông qua các nút cài đặt đại lượng đo, bắt đầu (Start) và đặt lại (Reset).
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 1 (Mục III.3.d): Thiết bị đo năng lượng điện và các đại lượng điện cơ bản trong phòng thí nghiệm.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.d), tr. 9; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.d), tr. 9; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.b), tr. 9; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.c), tr. 9
 
 ### Kelvin scale
 - **Tiếng Việt:** Thang nhiệt độ Kelvin (thang nhiệt độ tuyệt đối)
@@ -3289,17 +3575,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B6, tr. 20; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B6 (Mục I), tr. 20; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B6 (Mục II), tr. 20
 
 ### kilowatt-hour
-- **Tiếng Việt:** Kilôoát giờ (số điện)
+- **Tiếng Việt:** Kilôoát giờ (số điện; kWh)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A practical unit of work and energy widely used in daily life and engineering, denoted by $\text{kW}\cdot\text{h}$. One kilowatt-hour equals the work performed by a device operating continuously at a power of $1\text{ kW}$ for $1\text{ hour}$.
 - **Giải thích (VI):** Đơn vị đo công và năng lượng thông dụng trong đời sống và kĩ thuật, kí hiệu là $\text{kW}\cdot\text{h}$. Một kilôoát giờ bằng công thực hiện bởi một thiết bị có công suất $1\text{ kW}$ hoạt động liên tục trong thời gian $1\text{ giờ}$.
 - **Giải thích khác (SGK Vật lí 11):** EN: A practical unit of electrical energy consumption denoted by $\text{kW}\cdot\text{h}$ (corresponding to one electricity unit in everyday usage), equal to $1\text{ kW}\cdot\text{h} = 3.6 \times 10^3\text{ kJ}$. / VI: Đơn vị thực hành dùng để đo năng lượng điện tiêu thụ bên cạnh đơn vị jun, kí hiệu là $\text{kW}\cdot\text{h}$ (tương ứng với $1$ số điện trong đời sống), có giá trị bằng $1\text{ kW}\cdot\text{h} = 3{,}6 \cdot 10^3\text{ kJ}$.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A practical unit of electrical energy widely used in daily life and engineering, corresponding to one unit count on an electricity meter and equal to $1\text{ kWh} = 3.6 \times 10^6\text{ J}$. / VI: Đơn vị đo năng lượng điện thông dụng trong đời sống và kĩ thuật, tương ứng với một số đếm trên công tơ điện và có giá trị bằng $1\text{ kWh} = 3,6 \cdot 10^6\text{ J}$.
 - **Bối cảnh:**
   - Vật lí lớp 10, Bài 24 (Mục II): Đo công cơ học và lượng điện năng tiêu thụ thực tế trên công tơ điện.
   - Vật lí lớp 11, Bài 25 (Mục I): Đơn vị của chỉ số điện năng tiêu thụ trên công tơ điện và hoá đơn tiền điện.
+  - Khoa học tự nhiên lớp 9, Bài 13 (Mục III): quy đổi giữa số đếm công tơ điện và đơn vị năng lượng jun ($\text{J}$).
   - *Lưu ý:* Kilôoát giờ là đơn vị đo công hoặc điện năng tiêu thụ, không phải là đơn vị đo công suất.
   - *Lưu ý:* Là đơn vị đo năng lượng điện tiêu thụ, phân biệt với đơn vị đo công suất điện là kilôoát (kW).
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B24, tr. 96; SGK Vật lí 10 KNTT, Chương 04, B24 (Mục I), tr. 96; SGK Vật lí 10 KNTT, Chương 04, B24 (Mục II), tr. 96; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục I), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107, 108
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B24, tr. 96; SGK Vật lí 10 KNTT, Chương 04, B24 (Mục I), tr. 96; SGK Vật lí 10 KNTT, Chương 04, B24 (Mục II), tr. 96; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục I), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107, 108; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13 (Mục III), tr. 66
 
 ### kinematics
 - **Tiếng Việt:** Động học
@@ -3317,12 +3605,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích khác (SGK Vật lí 10):** EN: The form of energy possessed by an object due to its motion, given by $W_{\text{đ}} = \frac{1}{2}m \cdot v^2$ (where $m$ is the mass and $v$ is the speed of the object), measured in joules ($\text{J}$) in the SI system. If the object starts from rest, the kinetic energy it acquires equals the work done by the force acting on it. / VI: Dạng năng lượng mà một vật có được do đang chuyển động, xác định bởi công thức $W_{\text{đ}} = \frac{1}{2}m \cdot v^2$ (với $m$ là khối lượng và $v$ là tốc độ của vật), có đơn vị trong hệ SI là jun ($\text{J}$). Nếu ban đầu vật đứng yên thì động năng vật thu được có giá trị bằng công của lực tác dụng lên vật.
 - **Giải thích khác (SGK Vật lí 11):** EN: The form of energy an object possesses due to its motion, given by $W_\text{đ} = \frac{1}{2}mv^2$. In harmonic oscillation, kinetic energy varies according to $W_\text{đ} = \frac{1}{2}m\omega^2 A^2\sin^2(\omega t + \varphi) = \frac{1}{2}m\omega^2(A^2 - x^2)$. / VI: Dạng năng lượng vật có được do chuyển động, xác định bởi biểu thức $W_\text{đ} = \frac{1}{2}mv^2$. Trong dao động điều hoà, động năng biến thiên theo biểu thức $W_\text{đ} = \frac{1}{2}m\omega^2 A^2\sin^2(\omega t + \varphi) = \frac{1}{2}m\omega^2(A^2 - x^2)$.
 - **Giải thích khác (SGK Khoa học tự nhiên 6):** EN: The form of energy possessed by an object due to its motion. / VI: Dạng năng lượng mà vật có được do đang chuyển động.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The form of energy possessed by an object due to its motion, depending on both its mass and speed. For an object of mass $m$ ($\text{kg}$) moving at speed $v$ ($\text{m/s}$), kinetic energy is given by $W_{\text{đ}} = \dfrac{1}{2}mv^2$ and measured in joules ($\text{J}$). / VI: Dạng năng lượng mà vật có được do đang chuyển động, phụ thuộc vào khối lượng và tốc độ của vật. Với vật có khối lượng $m$ ($\text{kg}$) chuyển động với tốc độ $v$ ($\text{m/s}$), động năng tính theo công thức $W_{\text{đ}} = \dfrac{1}{2}mv^2$ và có đơn vị đo là jun ($\text{J}$).
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 13 (Mục I.1, Bảng 13): Phân biệt với thế năng khi xét các dạng năng lượng tồn tại trong tế bào.
   - Vật lí lớp 10, Bài 25 (Mục I): Tính năng lượng chuyển động của vật và liên hệ giữa động năng với công của lực.
   - Vật lí lớp 11, Bài 5 (Mục I): Khảo sát sự biến thiên năng lượng chuyển động của vật dao động điều hoà theo thời gian và li độ.
   - Khoa học tự nhiên lớp 6, Bài 47 (Mục II): nhận diện dạng năng lượng gắn với chuyển động như ô tô đang di chuyển, quả bóng đang lăn hoặc cánh quạt đang quay.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 04, B13 (Mục I.1), tr. 78, 79; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục I.1), tr. 79; SGK Vật lí 10 KNTT, Chương 04, B25, tr. 99; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục I.1), tr. 99; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục I.2), tr. 100; SGK Vật lí 11 KNTT, Chương 01, B5, tr. 20; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục I), tr. 20; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục II), tr. 20; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193, 194; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166
+  - Khoa học tự nhiên lớp 9, Bài 2 (Mục I): Xác định và tính toán năng lượng chuyển động của vật trong chương Năng lượng cơ học.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 04, B13 (Mục I.1), tr. 78, 79; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục I.1), tr. 79; SGK Vật lí 10 KNTT, Chương 04, B25, tr. 99; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục I.1), tr. 99; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục I.2), tr. 100; SGK Vật lí 11 KNTT, Chương 01, B5, tr. 20; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục I), tr. 20; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục II), tr. 20; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193, 194; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B47 (Mục II), tr. 166; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B2, tr. 15; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B2 (Mục I), tr. 15; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B2 (Mục I), tr. 15, 16
 
 ### kinetic theory of gases
 - **Tiếng Việt:** Mô hình động học phân tử chất khí
@@ -3410,6 +3700,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 16 (Mục II.2): vận dụng để vẽ tia sáng phản xạ, giải thích phản xạ gương, phản xạ khuếch tán và dựng ảnh qua gương phẳng.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 79; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục II.1), tr. 79; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục II.2), tr. 79
 
+### law of refraction
+- **Tiếng Việt:** Định luật khúc xạ ánh sáng
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A law of geometrical optics stating that the refracted ray lies in the plane of incidence on the opposite side of the normal from the incident ray, and that for two given transparent media, the ratio of the sine of the angle of incidence ($\sin i$) to the sine of the angle of refraction ($\sin r$) is constant: $\dfrac{\sin i}{\sin r} = n_{21}$.
+- **Giải thích (VI):** Định luật quang hình học khẳng định tia khúc xạ nằm trong mặt phẳng tới và ở phía bên kia pháp tuyến so với tia tới; đồng thời với hai môi trường trong suốt nhất định, tỉ số giữa $\sin$ của góc tới ($\sin i$) và $\sin$ của góc khúc xạ ($\sin r$) luôn không đổi: $\dfrac{\sin i}{\sin r} = n_{21}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 5 (Mục II): Định luật định lượng xác định phương và góc lệch của tia khúc xạ.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục II), tr. 27; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục III.2), tr. 29
+
 ### Lawson criterion
 - **Tiếng Việt:** Điều kiện phản ứng tổng hợp hạt nhân (điều kiện Lawson)
 - **Chuyên ngành gốc:** Vật lí
@@ -3426,7 +3724,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Vật lí lớp 12, Bài 23 (Mục IV): vật liệu che chắn bức xạ trong suốt ứng dụng nguyên tắc tấm chắn an toàn phóng xạ.
   - *Lưu ý:* Trong an toàn bức xạ, thuật ngữ này chỉ kính chì che chắn tia phóng xạ (lead glass), phân biệt với pha lê trang trí thông thường trong đời sống.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 112
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 112; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 112, 113
 
 ### learning objectives of physics
 - **Tiếng Việt:** Mục tiêu của môn Vật lí
@@ -3451,6 +3749,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Khái niệm cơ bản chỉ trình tự của các điểm dọc theo một đường nằm trong không gian, có đơn vị đo cơ bản trong Hệ đơn vị đo lường hợp pháp của Việt Nam là mét ($\text{m}$).
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 5 (Mục I, III): thực hiện quy trình 5 bước ước lượng, chọn thước, đặt thước, đặt mắt và đọc kết quả đo chiều dài của vật.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5 (Mục III), tr. 18; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193, 194
+
+### lens
+- **Tiếng Việt:** Thấu kính
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A homogeneous transparent body (made of glass, plastic, etc.) bounded by two curved surfaces or by one curved surface and one plane surface.
+- **Giải thích (VI):** Khối chất đồng chất, trong suốt (bằng thuỷ tinh, nhựa,...) được giới hạn bởi hai mặt cong hoặc bởi một mặt cong và một mặt phẳng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 8 (Mục I): Bộ phận quang học cơ bản trong mắt và các dụng cụ quang học như kính lúp, máy ảnh, kính hiển vi.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8, tr. 40; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục I), tr. 40; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục I), tr. 40, 41
+
+### lens image experiment kit
+- **Tiếng Việt:** Bộ dụng cụ tìm hiểu tính chất ảnh qua thấu kính
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An optical experiment assembly comprising a converging lens, a diverging lens, a screen, an F-shaped illuminated object slit with a lamp, and a coaxial optical bench for smoothly adjusting component positions when studying lens image properties.
+- **Giải thích (VI):** Tổ hợp thiết bị thí nghiệm quang học gồm thấu kính hội tụ, thấu kính phân kì, màn chắn, nguồn đèn chiếu qua khe chữ F tạo vật sáng và giá quang học đồng trục giúp dịch chuyển đồng bộ các bộ phận khi khảo sát ảnh tạo bởi thấu kính.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 1 (Mục I.1.c): Nhận biết cấu tạo bộ thí nghiệm quang học dùng để khảo sát tính chất ảnh qua thấu kính hội tụ và thấu kính phân kì.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.1.c), tr. 7; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.2.a), tr. 7; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.2.b), tr. 7
 
 ### Lenz's law
 - **Tiếng Việt:** Định luật Lenz
@@ -3516,6 +3830,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 15 (Mục II.2, II.3): vẽ sơ đồ đường truyền ánh sáng để giải thích sự tạo thành vùng tối và sự phản xạ ánh sáng.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B15 (Mục II.1), tr. 74; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B15 (Mục II.2), tr. 74; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B15 (Mục II.3), tr. 74; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B15 (Mục III.2), tr. 77
 
+### light source
+- **Tiếng Việt:** Nguồn sáng
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An optical laboratory apparatus used to produce narrow light beams represented as light rays. In laboratory experiments, it typically consists of a filament lamp connected to a $12\text{ V}$ power supply with slotted aperture plates, or a laser unit with switches controlling individual rays.
+- **Giải thích (VI):** Dụng cụ thí nghiệm quang học dùng để tạo ra chùm sáng hẹp biểu diễn bằng tia sáng. Trong phòng thí nghiệm, dụng cụ này thường là đèn dây tóc nối với nguồn điện $12\text{ V}$ đi kèm tấm chắn có khe sáng, hoặc nguồn laser có công tắc điều khiển từng tia sáng.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 9, Bài 1 (Mục I.1.a): Nhận biết dụng cụ tạo tia sáng và chùm sáng hẹp trong thí nghiệm quang học, lưu ý an toàn không chiếu tia laser vào mắt.
+  - *Lưu ý:* Trong Bài 1, thuật ngữ chỉ dụng cụ phát chùm sáng hẹp dùng trong thí nghiệm quang học (đèn dây tóc $12\text{ V}$ kèm khe chắn hoặc đèn laser), phân biệt với khái niệm vật tự phát sáng nói chung.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1, tr. 6; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I), tr. 6; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.1.a), tr. 6
+
 ### light-emitting diode
 - **Tiếng Việt:** Đèn điôt phát quang (LED; Đèn LED; điốt phát quang)
 - **Chuyên ngành gốc:** Vật lí
@@ -3525,7 +3849,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Khoa học tự nhiên lớp 8, Bài 1 (Mục III.3.e): Thiết bị tiêu thụ và chỉ thị dòng điện một chiều trong các thí nghiệm điện.
   - Khoa học tự nhiên lớp 8, Bài 23 (Mục II): khảo sát tính dẫn điện một chiều của đèn LED và ứng dụng chiếu sáng tiết kiệm điện, y học.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.e), tr. 10; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục II), tr. 96; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục III), tr. 96, 97; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục IV), tr. 98
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.e), tr. 10; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.d), tr. 9; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.g), tr. 10; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục II), tr. 96; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục III), tr. 96, 97; SGK Khoa học tự nhiên 8 KNTT, Chương 05, B23 (Mục IV), tr. 98
 
 ### light-year
 - **Tiếng Việt:** Năm ánh sáng (ly)
@@ -3534,6 +3858,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đơn vị đo khoảng cách trong thiên văn học, bằng quãng đường mà ánh sáng truyền đi với vận tốc gần bằng 300 000 km/s trong thời gian một năm (xấp xỉ 9,5 nghìn tỉ kilômét).
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 55 (Mục I, II): dùng để biểu diễn kích thước của Ngân Hà và khoảng cách từ hệ Mặt Trời đến tâm Ngân Hà, lưu ý đây là đơn vị đo khoảng cách chứ không phải đơn vị thời gian.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 10, B55, tr. 190; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B55 (Mục I), tr. 190; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B55 (Mục I), tr. 190, 191
+
+### lighting effect of alternating current
+- **Tiếng Việt:** Tác dụng phát sáng của dòng điện xoay chiều
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phenomenon in which an alternating current passing through lighting devices such as incandescent bulbs, fluorescent lamps, or LEDs causes them to emit light as electrical energy converts into luminous energy.
+- **Giải thích (VI):** Hiện tượng dòng điện xoay chiều chạy qua các thiết bị chiếu sáng như đèn sợi đốt, đèn huỳnh quang hoặc đèn LED làm chúng phát ra ánh sáng do năng lượng điện chuyển hoá thành quang năng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 15 (Mục II): khảo sát sự phát sáng của các loại bóng đèn dùng nguồn điện xoay chiều.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 04, B15, tr. 72; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B15 (Mục I), tr. 72; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B15 (Mục II), tr. 72
 
 ### lighting effect of electric current
 - **Tiếng Việt:** Tác dụng phát sáng của dòng điện (tác dụng phát sáng)
@@ -3652,6 +3984,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Vật có từ tính, hút được các vật bằng sắt và một số hợp kim của sắt, đồng thời khi được treo tự do hoặc đặt cân bằng thì luôn chỉ hướng Bắc – Nam. Trong thực tế và phòng thí nghiệm, nam châm được chế tạo với nhiều hình dạng như nam châm thẳng, nam châm hình chữ U, nam châm viên và kim nam châm.
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 18 (Mục I, II): nhận biết các loại nam châm vĩnh cửu, khảo sát tính chất từ và tìm hiểu ứng dụng lọc tách sắt trong đời sống.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 06, B18, tr. 86; SGK Khoa học tự nhiên 7 KNTT, Chương 06, B18 (Mục I), tr. 86; SGK Khoa học tự nhiên 7 KNTT, Chương 06, B18 (Mục II), tr. 86; SGK Khoa học tự nhiên 7 KNTT, Chương 06, B18 (Mục IV), tr. 89
+
+### magnetic effect of alternating current
+- **Tiếng Việt:** Tác dụng từ của dòng điện xoay chiều
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phenomenon in which an alternating current flowing through a straight wire or coil produces a surrounding magnetic field capable of exerting magnetic forces on magnets or ferromagnetic objects. This effect is applied in alternating-current electromagnets, electromagnetic relays, electric motors, MRI scanners, and maglev trains.
+- **Giải thích (VI):** Hiện tượng dòng điện xoay chiều chạy qua dây dẫn thẳng hoặc cuộn dây dẫn sinh ra từ trường xung quanh nó và có khả năng tác dụng lực từ lên nam châm hoặc vật bằng sắt, thép. Tác dụng này được ứng dụng để chế tạo nam châm điện xoay chiều, rơ le điện từ, động cơ điện, máy chụp cộng hưởng từ và tàu đệm từ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 15 (Mục III): kiểm chứng bằng thí nghiệm cuộn dây hút đinh sắt và tìm hiểu các ứng dụng kĩ thuật của từ trường xoay chiều.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 04, B15 (Mục II), tr. 73; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B15 (Mục III), tr. 73
 
 ### magnetic field
 - **Tiếng Việt:** Từ trường
@@ -3786,8 +4126,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** An optical instrument capable of magnifying the image of an observed object by about 3 to 20 times, used to examine small objects. A simple handheld magnifying glass consists of a lens thinner at the edge than at the center, mounted in a protective frame with a handle.
 - **Giải thích (VI):** Dụng cụ quang học có khả năng phóng to ảnh của vật quan sát khoảng từ 3 đến 20 lần, dùng để quan sát các vật có kích thước nhỏ. Kính lúp cầm tay đơn giản gồm một tấm kính có phần rìa mỏng hơn phần giữa, lắp trong khung bảo vệ và có tay cầm.
-- **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 3 (Mục I, II): lựa chọn và sử dụng kính lúp cầm tay, kính lúp để bàn hoặc kính lúp đeo mắt để quan sát các vật nhỏ như gân lá, côn trùng.
-- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B3, tr. 13; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B3 (Mục I), tr. 13; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B3 (Mục II.1), tr. 14
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: An optical instrument aiding the eye in observing small objects, consisting of a converging lens with a short focal length (a few $\text{cm}$, $f < 25\text{ cm}$) typically mounted in a protective frame with a handle or worn directly at the eye. When an object is placed within the focal length ($d < f$), it produces an upright, magnified virtual image located within the eye's range of distinct vision. / VI: Dụng cụ quang học bổ trợ cho mắt để quan sát các vật nhỏ, có cấu tạo là một thấu kính hội tụ có tiêu cự ngắn (cỡ vài $\text{cm}$, $f < 25\text{ cm}$) thường gắn trong khung bảo vệ có tay cầm hoặc đeo trực tiếp vào mắt. Khi đặt vật trong khoảng tiêu cự ($d < f$), kính lúp tạo ảnh ảo cùng chiều, lớn hơn vật và nằm trong khoảng nhìn rõ của mắt.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 6, Bài 3 (Mục I, II): lựa chọn và sử dụng kính lúp cầm tay, kính lúp để bàn hoặc kính lúp đeo mắt để quan sát các vật nhỏ như gân lá, côn trùng.
+  - Khoa học tự nhiên lớp 9, Bài 10 (Mục I, II): cấu tạo, số bội giác và cách sử dụng kính lúp để quan sát vật nhỏ.
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B3, tr. 13; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B3 (Mục I), tr. 13; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B3 (Mục II.1), tr. 14; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10, tr. 50; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục I), tr. 50; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục I), tr. 50, 51
 
 ### magnitude of force
 - **Tiếng Việt:** Độ lớn của lực (độ lớn)
@@ -3847,7 +4190,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Hóa học lớp 11, Bài 12 (Mục II.1): Sử dụng kết hợp với dữ liệu phân tích định lượng nguyên tố để lập công thức phân tử hợp chất hữu cơ.
   - *Lưu ý:* Phân biệt 'phương pháp phổ khối lượng' (kĩ thuật phân tích bằng máy khối phổ) với 'phổ khối lượng' (đồ thị biểu diễn hàm lượng các mảnh ion theo giá trị m/z).
   - *Lưu ý:* Không nhầm với 'Phổ khối lượng' (`mass spectrometry (chemistry)`) trong Hóa học.
-- **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B12 (Mục II.1), tr. 71; SGK Hóa học 11 KNTT, Chương 03, B12 (Mục II.1), tr. 72
+- **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B12 (Mục II.1), tr. 71; SGK Hóa học 11 KNTT, Chương 03, B12 (Mục II.1), tr. 72; SGK Hóa học 11 KNTT, Chương 03, B12 (Mục I.2), tr. 71; SGK Hóa học 11 KNTT, Chương 03, B12 (Mục II.1), tr. 71, 72
 
 ### mass spectrum
 - **Tiếng Việt:** Phổ khối lượng
@@ -3855,7 +4198,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A plot showing the $m/z$ values of fragment ions and their relative abundances produced in a mass spectrometer, on which the molecular ion fragment $[\text{M}^+]$ typically has the largest $m/z$ value corresponding to the molecular mass of the compound.
 - **Giải thích (VI):** Đồ thị thể hiện giá trị $m/z$ và hàm lượng tương đối của mỗi mảnh ion tạo thành trong máy khối phổ, trên đó mảnh ion phân tử $[\text{M}^+]$ thường ứng với giá trị $m/z$ lớn nhất cho biết phân tử khối của hợp chất.
 - **Bối cảnh:** Hóa học lớp 11, Bài 12 (Mục II.1): Đọc peak mảnh ion phân tử (như [C₂H₆O⁺] có m/z = 46 ở ethanol) để xác định phân tử khối.
-- **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B12 (Mục II.1), tr. 71; SGK Hóa học 11 KNTT, Chương 03, B12 (Mục II.1), tr. 71, 72
+- **Nguồn:** SGK Hóa học 11 KNTT, Chương 03, B12 (Mục II.1), tr. 71; SGK Hóa học 11 KNTT, Chương 03, B12 (Mục II.1), tr. 71, 72; SGK Hóa học 11 KNTT, Chương 03, B12 (Mục I.2), tr. 71
 
 ### maximum height
 - **Tiếng Việt:** Tầm cao
@@ -3929,10 +4272,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The sum of the kinetic energy and potential energy of a moving object, measured in joules ($\text{J}$) in the SI system. For an object moving in a gravitational field, mechanical energy is given by $W_{\text{c}} = W_{\text{đ}} + W_{\text{t}} = \frac{1}{2}m \cdot v^2 + m \cdot g \cdot h$, where kinetic and potential energy can transform back and forth into each other.
 - **Giải thích (VI):** Tổng động năng và thế năng của một vật trong quá trình chuyển động, có đơn vị trong hệ SI là jun ($\text{J}$). Khi vật chuyển động trong trường trọng lực, cơ năng xác định bởi biểu thức $W_{\text{c}} = W_{\text{đ}} + W_{\text{t}} = \frac{1}{2}m \cdot v^2 + m \cdot g \cdot h$, trong đó động năng và thế năng có thể chuyển hóa qua lại lẫn nhau.
 - **Giải thích khác (SGK Vật lí 11):** EN: The sum of the kinetic energy and potential energy of an object ($W = W_\text{đ} + W_\text{t}$). In harmonic oscillation (neglecting friction), kinetic and potential energies interconvert while mechanical energy is conserved as $W = \frac{1}{2}m\omega^2 A^2$. / VI: Tổng động năng và thế năng của vật ($W = W_\text{đ} + W_\text{t}$). Trong dao động điều hoà (bỏ qua ma sát), động năng và thế năng chuyển hoá qua lại còn cơ năng được bảo toàn theo biểu thức $W = \frac{1}{2}m\omega^2 A^2$.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The total mechanical energy of an object equal to the sum of its kinetic and potential energies, expressed as $W_{\text{C}} = W_{\text{đ}} + W_{\text{t}} = \dfrac{1}{2}mv^2 + Ph$ and measured in joules ($\text{J}$). During motion, its kinetic and potential energy components can convert back and forth into each other. / VI: Đại lượng năng lượng bằng tổng động năng và thế năng của vật, xác định theo biểu thức $W_{\text{C}} = W_{\text{đ}} + W_{\text{t}} = \dfrac{1}{2}mv^2 + Ph$ và có đơn vị đo là jun ($\text{J}$). Trong quá trình vật chuyển động, động năng và thế năng thành phần có thể chuyển hoá qua lại lẫn nhau.
 - **Bối cảnh:**
   - Vật lí lớp 10, Bài 26 (Mục I): Biểu diễn năng lượng cơ học toàn phần và sự chuyển hóa qua lại giữa động năng và thế năng.
   - Vật lí lớp 11, Bài 5 (Mục III): Đại lượng bảo toàn đặc trưng cho năng lượng toàn phần trong dao động điều hoà.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B26, tr. 102; SGK Vật lí 10 KNTT, Chương 04, B26 (Mục I), tr. 102; SGK Vật lí 10 KNTT, Chương 04, B26 (Mục I), tr. 102, 103; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục III), tr. 21; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.1), tr. 21; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.1), tr. 21, 22
+  - Khoa học tự nhiên lớp 9, Bài 3 (Mục I): Tính cơ năng toàn phần và phân tích sự chuyển hoá qua lại giữa động năng và thế năng của vật chuyển động.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B26, tr. 102; SGK Vật lí 10 KNTT, Chương 04, B26 (Mục I), tr. 102; SGK Vật lí 10 KNTT, Chương 04, B26 (Mục I), tr. 102, 103; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục III), tr. 21; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.1), tr. 21; SGK Vật lí 11 KNTT, Chương 01, B5 (Mục IV.1), tr. 21, 22; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B3, tr. 18; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B3 (Mục I), tr. 18; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B3 (Mục I), tr. 18, 19
 
 ### mechanical oscillation
 - **Tiếng Việt:** Dao động cơ
@@ -3955,8 +4300,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A scalar quantity measuring the amount of energy transferred or transformed when work is done, given by $A = F \cdot s \cdot \cos\alpha$ (where $F$ is the constant force magnitude, $s$ is the distance traveled, and $\alpha$ is the angle between the force vector and the direction of motion). In the SI system, its unit is the joule ($\text{J}$), where $1\text{ J} = 1\text{ N}\cdot 1\text{ m}$.
 - **Giải thích (VI):** Đại lượng vô hướng đo phần năng lượng truyền hoặc chuyển hóa trong quá trình thực hiện công, xác định bởi công thức $A = F \cdot s \cdot \cos\alpha$ (với $F$ là độ lớn lực không đổi, $s$ là quãng đường đi được và $\alpha$ là góc hợp bởi vectơ lực với hướng chuyển động). Trong hệ SI, công có đơn vị là jun ($\text{J}$), với $1\text{ J} = 1\text{ N}\cdot 1\text{ m}$.
-- **Bối cảnh:** Vật lí lớp 10, Bài 23 (Mục II.2): Tính công của một lực không đổi tác dụng lên vật chuyển động thẳng.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B23, tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục II.1), tr. 92; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục II.1), tr. 93
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A physical quantity measuring the amount of energy transferred from one object to another when an applied force causes displacement. For a constant force $F$ displacing an object a distance $s$ in the direction of the force, $A = Fs$ (or $A = Fs\cos\alpha$ when the displacement makes an angle $\alpha$ with the force). / VI: Đại lượng vật lí biểu thị số đo phần năng lượng truyền từ vật này sang vật khác thông qua tác dụng lực làm vật dịch chuyển. Khi lực không đổi $F$ làm vật dịch chuyển quãng đường $s$ theo đúng hướng của lực thì $A = Fs$ (trường hợp hướng dịch chuyển hợp góc $\alpha$ với hướng của lực thì $A = Fs\cos\alpha$).
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 23 (Mục II.2): Tính công của một lực không đổi tác dụng lên vật chuyển động thẳng.
+  - Khoa học tự nhiên lớp 9, Bài 4 (Mục I): Định lượng năng lượng truyền bằng thực hiện công cơ học; phân biệt với từ "tốn công" trong sinh hoạt đời thường.
+  - *Lưu ý:* Trong vật lí, công cơ học chỉ xuất hiện khi có lực tác dụng làm vật dịch chuyển ($s \neq 0$ và lực không vuông góc với hướng dịch chuyển), phân biệt với khái niệm "công sức" trong đời sống.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B23, tr. 91; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục II.1), tr. 92; SGK Vật lí 10 KNTT, Chương 04, B23 (Mục II.1), tr. 93; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4, tr. 21; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4 (Mục I), tr. 21; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4 (Mục I), tr. 21, 22
 
 ### mechanics
 - **Tiếng Việt:** Cơ học
@@ -4053,6 +4402,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 6 (Mục 1): xác định vị trí của hệ Mặt Trời trong Vũ Trụ.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B55, tr. 190; SGK Khoa học tự nhiên 6 KNTT, Chương 10, B55 (Mục II), tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B6, tr. 116; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 02, B6 (Mục 1), tr. 116
 
+### milliohm
+- **Tiếng Việt:** Miliôm (mΩ)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A unit of electrical resistance that is a decimal submultiple of the ohm, equal to one-thousandth of an ohm ($1\text{ m}\Omega = 0.001\ \Omega$). In practical resistance measurements, the milliohm is used alongside decimal multiples of the ohm, including the kiloohm ($1\text{ k}\Omega = 1,000\ \Omega$) and megaohm ($1\text{ M}\Omega = 1,000,000\ \Omega$).
+- **Giải thích (VI):** Đơn vị đo điện trở là ước số thập phân của ôm, có giá trị bằng một phần nghìn ôm ($1\text{ m}\Omega = 0,001\ \Omega$). Trong thực tế đo lường điện trở, miliôm thường được sử dụng cùng các bội số của ôm gồm kilôôm ($1\text{ k}\Omega = 1\,000\ \Omega$) và mêgaôm ($1\text{ M}\Omega = 1\,000\,000\ \Omega$).
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 9, Bài 11 (Mục III.2): quy đổi giữa ước số và các bội số thông dụng của đơn vị điện trở ôm.
+  - *Lưu ý:* Mục gốc V1 gộp ước số miliôm với hai bội số kilôôm và mêgaôm; chuẩn hóa khóa chính theo đơn vị miliôm và trình bày đầy đủ hệ ước số, bội số của ôm.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11 (Mục III.2), tr. 56; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11 (Mục III.3), tr. 56
+
 ### minimum safe following distance
 - **Tiếng Việt:** Khoảng cách an toàn tối thiểu (khoảng cách an toàn)
 - **Chuyên ngành gốc:** Vật lí
@@ -4060,6 +4419,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cự li ngắn nhất quy định giữa xe chạy sau với xe chạy liền trước ứng với từng dải tốc độ và mật độ giao thông, nhằm đảm bảo người điều khiển phương tiện có đủ thời gian xử lí và phanh xe tránh va chạm.
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 11 (Mục II.1, II.2): Tra cứu quy định khoảng cách an toàn theo dải tốc độ khi tham gia giao thông đường bộ.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 03, B11, tr. 56; SGK Khoa học tự nhiên 7 KNTT, Chương 03, B11 (Mục I), tr. 56; SGK Khoa học tự nhiên 7 KNTT, Chương 03, B11 (Mục II.1), tr. 56
+
+### mirage
+- **Tiếng Việt:** Hiện tượng ảo ảnh
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A natural optical phenomenon creating the visual impression of a light-reflecting water layer on a dry, hot road on sunny days, caused when downward-slanting light rays pass through air layers of decreasing refractive index near the heated ground, undergoing successive refractions followed by total internal reflection upward to the eye.
+- **Giải thích (VI):** Hiện tượng quang học tự nhiên tạo cảm giác như có lớp nước phản xạ ánh sáng trên mặt đường khô nóng vào ngày nắng, do tia sáng đi xiên từ trên xuống qua các lớp không khí có chiết suất giảm dần khi gần mặt đường nóng nên bị khúc xạ liên tiếp rồi phản xạ toàn phần hắt lên mắt.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 6 (Mục III.1): Ứng dụng khúc xạ ánh sáng và phản xạ toàn phần để giải thích hiện tượng quang học trong khí quyển.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B6 (Mục III.1), tr. 32
 
 ### modeling method
 - **Tiếng Việt:** Phương pháp mô hình
@@ -4142,6 +4509,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 10, Bài 28 (Mục I): Đặc trưng cho mức độ truyền chuyển động trong các bài toán va chạm và tương tác cơ học.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 05, B28, tr. 110; SGK Vật lí 10 KNTT, Chương 05, B28 (Mục I), tr. 110; SGK Vật lí 10 KNTT, Chương 05, B28 (Mục I), tr. 110, 111
 
+### monochromatic light
+- **Tiếng Việt:** Ánh sáng đơn sắc
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** Light that has a single definite color and does not undergo dispersion when passing through an optical prism.
+- **Giải thích (VI):** Ánh sáng có một màu nhất định và không bị tán sắc khi truyền qua lăng kính.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 7 (Mục II, III): Thành phần cơ bản cấu tạo nên ánh sáng trắng, chỉ bị lệch phương chứ không đổi màu khi qua lăng kính.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục II), tr. 36; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục III), tr. 36; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục III), tr. 36, 37
+
 ### Moon
 - **Tiếng Việt:** Mặt Trăng (Luna)
 - **Chuyên ngành gốc:** Vật lí
@@ -4163,8 +4538,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** An electrical measuring instrument integrating primary functions for measuring resistance, voltage, and alternating (AC) or direct (DC) current. Proper operation requires selecting the appropriate function and measurement range and inserting the test leads into the terminals corresponding to the selected function.
 - **Giải thích (VI):** Thiết bị đo điện tích hợp các chức năng chính gồm đo điện trở, đo hiệu điện thế và đo cường độ dòng điện xoay chiều (AC) hoặc một chiều (DC). Khi sử dụng, người đo phải chọn đúng chức năng, thang đo phù hợp và cắm dây đo vào chốt cắm tương ứng với đại lượng cần đo.
-- **Bối cảnh:** Vật lí lớp 10, Bài 2 (Mục II.2): Thiết bị đo điện thông dụng cần tuân thủ quy tắc chọn thang đo và chốt cắm trong phòng thực hành.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B2 (Mục II.1), tr. 14; SGK Vật lí 10 KNTT, Chương 01, B2 (Mục II.2), tr. 14; SGK Vật lí 10 KNTT, Chương 01, B2 (Mục II.2), tr. 14, 15
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: An integrated electrical measuring instrument capable of measuring multiple electrical quantities—such as electric current, voltage, and resistance—in both direct-current and alternating-current circuits. / VI: Dụng cụ đo điện tích hợp cho phép đo nhiều đại lượng điện khác nhau như cường độ dòng điện, hiệu điện thế và điện trở trong cả mạch điện một chiều lẫn mạch điện xoay chiều.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 2 (Mục II.2): Thiết bị đo điện thông dụng cần tuân thủ quy tắc chọn thang đo và chốt cắm trong phòng thực hành.
+  - Khoa học tự nhiên lớp 9, Bài 1 (Mục I.2.b): Nhận biết thiết bị đo các đại lượng điện cơ bản trong thí nghiệm điện học và điện từ.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B2 (Mục II.1), tr. 14; SGK Vật lí 10 KNTT, Chương 01, B2 (Mục II.2), tr. 14; SGK Vật lí 10 KNTT, Chương 01, B2 (Mục II.2), tr. 14, 15; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.1.c), tr. 7; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.2.a), tr. 7; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.2.b), tr. 7
 
 ### musculoskeletal lever
 - **Tiếng Việt:** Đòn bẩy trong cơ thể người
@@ -4226,6 +4604,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 7, Hoạt động thực hành trải nghiệm – Đại lượng tỉ lệ trong đời sống (Mục 1): Chuyển đổi quãng đường hàng hải, hàng không từ hải lí sang mét hoặc kilômét.
 - **Nguồn:** SGK Toán 7 KNTT Tập 2, Chương 10, Đại lượng tỉ lệ trong đời sống (Mục 1), tr. 104
 
+### near point
+- **Tiếng Việt:** Điểm cực cận (Cc)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The closest point to the eye at which an object can be placed and still be seen clearly; for a normal eye without refractive errors, it lies at a distance of about $25\text{ cm}$.
+- **Giải thích (VI):** Điểm gần mắt nhất mà đặt vật tại đó mắt còn có thể nhìn rõ được; đối với mắt không có tật khúc xạ, vị trí này cách mắt khoảng $25\text{ cm}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 10 (Mục II): xác định giới hạn gần của khoảng nhìn rõ khi quan sát ảnh ảo qua kính lúp.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục I), tr. 51; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục II), tr. 51; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục III), tr. 51
+
 ### negative charge
 - **Tiếng Việt:** Điện tích âm
 - **Chuyên ngành gốc:** Vật lí
@@ -4275,7 +4661,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An electrically neutral elementary particle with an extremely small rest mass, denoted by $\nu$ (with its corresponding antiparticle being the antineutrino $\tilde{\nu}$). In $\beta$ decay, a neutrino ($\nu$) is emitted alongside a positron in $\beta^+$ decay, whereas an antineutrino ($\tilde{\nu}$) is emitted alongside an electron in $\beta^-$ decay.
 - **Giải thích (VI):** Hạt cơ bản không mang điện và có khối lượng nghỉ vô cùng nhỏ, kí hiệu là $\nu$ (phản hạt tương ứng là phản hạt neutrino $\tilde{\nu}$). Trong phân rã phóng xạ $\beta$, hạt neutrino ($\nu$) phát ra kèm positron ở phóng xạ $\beta^+$, còn phản hạt neutrino ($\tilde{\nu}$) phát ra kèm electron ở phóng xạ $\beta^-$.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục I.3.b): hạt cơ bản xuất hiện trong phương trình bảo toàn của phân rã phóng xạ beta.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.b), tr. 106
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.b), tr. 106; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.a), tr. 106; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.c), tr. 106
 
 ### neutron
 - **Tiếng Việt:** Neutron (hạt neutron; n)
@@ -4296,7 +4682,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The average number of neutrons released per fission event that go on to induce new fission reactions in other fissile nuclei (such as $^{235}_{92}\text{U}$), denoted by $k$. When $k < 1$, the fission chain reaction dies out; when $k \ge 1$, the fission chain reaction is self-sustaining.
 - **Giải thích (VI):** Số neutron trung bình giải phóng sau mỗi phân hạch tiếp tục đến kích thích các hạt nhân khác (như $^{235}_{92}\text{U}$) để tạo nên những phản ứng phân hạch mới, kí hiệu là $k$. Khi $k < 1$, phản ứng phân hạch dây chuyền tắt dần; khi $k \ge 1$, phản ứng phân hạch dây chuyền tự duy trì.
 - **Bối cảnh:** Vật lí lớp 12, Bài 22 (Mục III.2): điều kiện duy trì và điều khiển phản ứng phân hạch dây chuyền.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B22 (Mục III.2), tr. 102
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B22 (Mục III.2), tr. 102; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục IV), tr. 102; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục IV), tr. 102, 103
 
 ### new moon
 - **Tiếng Việt:** Không Trăng (Trăng non)
@@ -4390,14 +4776,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 02, B8, tr. 37; SGK Vật lí 10 KNTT, Chương 02, B8 (Mục I), tr. 37; SGK Vật lí 10 KNTT, Chương 02, B8 (Mục II.1), tr. 37
 
 ### normal line
-- **Tiếng Việt:** Pháp tuyến
+- **Tiếng Việt:** Pháp tuyến (NN')
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The straight line perpendicular to a mirror (or reflecting surface) at the point of incidence $I$, conventionally denoted as $IN$ and drawn as a dashed reference line for measuring the angles of incidence and reflection.
 - **Giải thích (VI):** Đường thẳng vuông góc với mặt gương (hoặc mặt phản xạ) tại điểm tới $I$, thường kí hiệu là $IN$ và vẽ bằng đường nét đứt làm mốc xác định góc tới và góc phản xạ.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The line $NN'$ perpendicular to the boundary surface between two media at the point of incidence $I$, serving as the reference line for measuring the angles of incidence and refraction. / VI: Đường thẳng $NN'$ vuông góc với mặt phân cách giữa hai môi trường tại điểm tới $I$, dùng làm mốc để xác định góc tới và góc khúc xạ.
 - **Bối cảnh:**
   - Khoa học tự nhiên lớp 7, Bài 16 (Mục I): dựng đường chuẩn vuông góc với gương tại điểm tới trước khi đo hoặc vẽ góc tới và góc phản xạ.
+  - Khoa học tự nhiên lớp 9, Bài 5 (Mục I): Đường chuẩn vuông góc với mặt phân cách tại điểm tới trong quang hình học.
   - *Lưu ý:* Trong quang hình học Vật lí lớp 7, pháp tuyến là đường thẳng vuông góc với bề mặt phản xạ tại điểm tới.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 79; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục II.1), tr. 79; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục II.2), tr. 79
+  - *Lưu ý:* Trong quang hình học, pháp tuyến xét tại điểm tới trên mặt phân cách giữa hai môi trường quang học.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 79; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục II.1), tr. 79; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục II.2), tr. 79; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục I), tr. 26; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục II), tr. 26, 27; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục II), tr. 27
 
 ### NTC thermistor
 - **Tiếng Việt:** Nhiệt điện trở NTC (điện trở NTC; Negative Temperature Coefficient)
@@ -4455,7 +4844,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Vật lí lớp 12, Bài 22 (Mục IV): quá trình tổng hợp các hạt nhân nhẹ thành hạt nhân nặng hơn, phân biệt với phản ứng phân hạch.
   - *Lưu ý:* Là khái niệm tổng quát chỉ sự kết hợp các hạt nhân nhẹ (có thể thực hiện bằng máy gia tốc hoặc nhiệt độ cao); khi xảy ra nhờ nhiệt độ cực cao thì mang tên phản ứng nhiệt hạch (thermonuclear reaction).
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B22 (Mục IV), tr. 102; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục IV), tr. 103
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B22 (Mục IV), tr. 102; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục IV), tr. 103; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục I.2), tr. 97; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục III.2), tr. 102
 
 ### nuclear industry
 - **Tiếng Việt:** Công nghiệp hạt nhân
@@ -4546,22 +4935,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 01, B1 (Mục II), tr. 8; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B1 (Mục II.1), tr. 8; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B1 (Mục II.2), tr. 8
 
 ### ohm
-- **Tiếng Việt:** Ohm (ôm)
+- **Tiếng Việt:** Ohm (ôm; Ω)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The SI unit of electrical resistance, denoted by $\Omega$, equal to the resistance of a conductor through which a current of $1\text{ A}$ flows when a potential difference of $1\text{ V}$ is applied across its ends ($1\text{ }\Omega = \frac{1\text{ V}}{1\text{ A}}$).
 - **Giải thích (VI):** Đơn vị đo điện trở trong hệ SI, kí hiệu là $\Omega$, bằng điện trở của một vật dẫn khi đặt hiệu điện thế $1\text{ V}$ vào hai đầu vật dẫn thì có dòng điện cường độ $1\text{ A}$ chạy qua ($1\text{ }\Omega = \frac{1\text{ V}}{1\text{ A}}$).
-- **Bối cảnh:** Vật lí lớp 11, Bài 23 (Mục I.2): Đơn vị đo điện trở của vật dẫn và các linh kiện điện tử trong hệ SI.
-- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.2), tr. 96; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.3), tr. 96; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.3), tr. 96, 97
+- **Bối cảnh:**
+  - Vật lí lớp 11, Bài 23 (Mục I.2): Đơn vị đo điện trở của vật dẫn và các linh kiện điện tử trong hệ SI.
+  - Khoa học tự nhiên lớp 9, Bài 11 (Mục III.2): đơn vị chuẩn dùng để biểu thị giá trị điện trở trong định luật Ohm và tính toán mạch điện.
+- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.2), tr. 96; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.3), tr. 96; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.3), tr. 96, 97; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11 (Mục III.2), tr. 56; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11 (Mục III.3), tr. 56; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11 (Mục IV), tr. 57
 
 ### Ohm's law
 - **Tiếng Việt:** Định luật Ohm (Định luật Ôm)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A fundamental law of electric current stating that the current $I$ flowing through a metallic conductor is directly proportional to the potential difference $U$ across its ends and inversely proportional to its resistance $R$, expressed as $I = \frac{U}{R}$.
 - **Giải thích (VI):** Định luật cơ bản về dòng điện phát biểu rằng cường độ dòng điện $I$ chạy qua vật dẫn kim loại tỉ lệ thuận với hiệu điện thế $U$ ở hai đầu vật dẫn và tỉ lệ nghịch với điện trở $R$ của vật dẫn theo công thức $I = \frac{U}{R}$.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A physical law stating that the electric current flowing through a conductor is directly proportional to the voltage across its ends and inversely proportional to its resistance. It is expressed mathematically as $I = \frac{U}{R}$, where $I$ is measured in amperes ($\text{A}$), $U$ in volts ($\text{V}$), and $R$ in ohms ($\Omega$). / VI: Định luật vật lí khẳng định cường độ dòng điện chạy qua một đoạn dây dẫn tỉ lệ thuận với hiệu điện thế giữa hai đầu đoạn dây và tỉ lệ nghịch với điện trở của nó. Biểu thức của định luật có dạng $I = \frac{U}{R}$, trong đó $I$ tính bằng ampe ($\text{A}$), $U$ tính bằng vôn ($\text{V}$) và $R$ tính bằng ôm ($\Omega$).
 - **Bối cảnh:**
   - Vật lí lớp 11, Bài 23 (Mục II): Định luật cơ bản tính cường độ dòng điện chạy qua đoạn mạch chứa vật dẫn kim loại.
+  - Khoa học tự nhiên lớp 9, Bài 11 (Mục III.3): định luật cơ bản giải các bài toán mạch điện một chiều.
   - *Lưu ý:* Áp dụng cho đoạn mạch chứa vật dẫn kim loại ($I = \frac{U}{R}$), phân biệt với định luật Ôm đối với toàn mạch kín chứa nguồn điện ($I = \frac{\mathcal{E}}{R + r}$).
-- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.3), tr. 97; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục II), tr. 97; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục III.1), tr. 97, 98
+- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B23 (Mục I.3), tr. 97; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục II), tr. 97; SGK Vật lí 11 KNTT, Chương 04, B23 (Mục III.1), tr. 97, 98; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11 (Mục III.2), tr. 56; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11 (Mục III.3), tr. 56; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11 (Mục IV), tr. 57
 
 ### Ohm's law for a complete circuit
 - **Tiếng Việt:** Định luật Ôm đối với toàn mạch
@@ -4571,6 +4964,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 24 (Mục II.2): Tính cường độ dòng điện chạy trong mạch điện kín có nguồn điện.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B24 (Mục II.2), tr. 104; SGK Vật lí 11 KNTT, Chương 04, B24 (Mục II.2), tr. 104, 105
 
+### optical center
+- **Tiếng Việt:** Quang tâm (O)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The point $O$ of a lens through which every incident light ray passes straight without changing direction.
+- **Giải thích (VI):** Điểm $O$ của thấu kính mà mọi tia sáng chiếu tới đó đều truyền thẳng qua thấu kính không bị đổi hướng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 8 (Mục II): Điểm đặc biệt của thấu kính dùng để xác định trục chính, tiêu cự và dựng ảnh của vật.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục I), tr. 41; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục II), tr. 41; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục III.1), tr. 42
+
+### optical fiber
+- **Tiếng Việt:** Sợi quang
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A transparent strand that guides light via successive total internal reflections, consisting of a core made of transparent glass or plastic with refractive index $n_1$ surrounded by a cladding of refractive index $n_2 < n_1$.
+- **Giải thích (VI):** Dây trong suốt có tính dẫn sáng nhờ hiện tượng phản xạ toàn phần liên tiếp, cấu tạo gồm phần lõi bằng thuỷ tinh hoặc chất dẻo trong suốt có chiết suất $n_1$ bao quanh bởi lớp vỏ có chiết suất $n_2 < n_1$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 6 (Mục III.2): Phần tử dẫn sáng cơ bản cấu tạo nên cáp quang trong viễn thông và y học.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B6 (Mục III.2), tr. 33
+
 ### optical microscope
 - **Tiếng Việt:** Kính hiển vi quang học
 - **Chuyên ngành gốc:** Vật lí
@@ -4578,6 +4987,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Dụng cụ quang học có khả năng phóng to ảnh của vật quan sát khoảng từ 40 lần đến 3 000 lần để quan sát những vật rất nhỏ mà mắt thường hay kính lúp không nhìn rõ. Cấu tạo chính gồm hệ thống ống kính (thị kính, đĩa quay, vật kính), ốc điều chỉnh (ốc to, ốc nhỏ), bàn kính, đèn chiếu sáng, thân kính và chân kính.
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 4 (Mục I, II, III): nhận biết cấu tạo, thao tác sử dụng và bảo quản kính hiển vi khi quan sát tiêu bản tế bào thực vật, động vật.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B4, tr. 15; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B4 (Mục I), tr. 15; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B4 (Mục II), tr. 16
+
+### optical prism
+- **Tiếng Việt:** Lăng kính
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A homogeneous transparent body (made of glass, plastic, etc.) bounded by two non-parallel plane surfaces, typically shaped as a triangular prism and optically characterized by its refracting angle $A$ and refractive index $n$.
+- **Giải thích (VI):** Khối chất trong suốt, đồng chất (thuỷ tinh, nhựa,...) được giới hạn bởi hai mặt phẳng không song song, thường có dạng lăng trụ tam giác và đặc trưng về phương diện quang học bởi góc chiết quang $A$ cùng chiết suất $n$.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 9, Bài 7 (Mục I): Dụng cụ quang học dùng để làm lệch đường truyền tia sáng và tạo quang phổ tán sắc.
+  - *Lưu ý:* Chỉ dụng cụ quang học trong suốt làm khúc xạ và tán sắc ánh sáng, phân biệt với khối hình học lăng trụ (prism) trong Toán học.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7, tr. 34; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục I), tr. 34; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục I), tr. 34, 35
 
 ### origin of electrical resistance in metals
 - **Tiếng Việt:** Nguyên nhân gây ra điện trở trong vật dẫn kim loại
@@ -4646,6 +5065,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Cần phân biệt với hai lực trực đối (cặp lực và phản lực): hai lực cân bằng cùng đặt lên một vật nên triệt tiêu tác dụng của nhau, còn hai lực trực đối đặt lên hai vật khác nhau nên không cân bằng nhau.
 - **Nguồn:** SGK Vật lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 137; SGK Vật lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 137, 138
 
+### parallel circuit
+- **Tiếng Việt:** Đoạn mạch song song
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An electrical circuit segment in which components share both a common starting node and a common ending node, forming multiple independent branches. For $n$ resistors in parallel, the main-branch current equals the sum of the branch currents ($I = I_1 + I_2 + \dots + I_n$) and the reciprocal of the equivalent resistance satisfies $\frac{1}{R_{\text{eq}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}$.
+- **Giải thích (VI):** Đoạn mạch điện gồm các linh kiện được mắc sao cho chúng có chung một điểm đầu và chung một điểm cuối, tạo thành nhiều nhánh rẽ độc lập. Trong đoạn mạch gồm $n$ điện trở mắc song song, cường độ dòng điện mạch chính bằng tổng cường độ dòng điện qua các nhánh ($I = I_1 + I_2 + \dots + I_n$) và nghịch đảo điện trở tương đương thỏa mãn $\frac{1}{R_{\text{tđ}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots + \frac{1}{R_n}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 12 (Mục II.1, II.2): giải thích cách mắc các thiết bị điện gia dụng hoạt động độc lập dưới cùng hiệu điện thế.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 03, B12 (Mục I.2), tr. 61; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B12 (Mục II.1), tr. 61; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B12 (Mục II.1), tr. 61, 62
+
 ### parallel connection
 - **Tiếng Việt:** Mắc song song (cách mắc song song)
 - **Chuyên ngành gốc:** Vật lí
@@ -4678,7 +5105,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The initial unstable nucleus (commonly denoted by $\text{X}$) that spontaneously decays to transform into another nucleus while emitting radioactive rays.
 - **Giải thích (VI):** Hạt nhân ban đầu không bền vững (thường kí hiệu là $\text{X}$), tự phát phân rã để biến đổi thành hạt nhân khác kèm theo sự phát ra tia phóng xạ.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục I.1): hạt nhân trước phân rã trong phương trình phóng xạ, phân biệt với hạt nhân con.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.1), tr. 104; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.a), tr. 106
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.1), tr. 104; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.a), tr. 106; SGK Vật lí 12 KNTT, Chương 04, B23, tr. 104
 
 ### pascal
 - **Tiếng Việt:** Paxcan (Pa)
@@ -4846,6 +5273,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Khoa học tự nhiên lớp 6, Bài 1 (Mục III): phân loại các hiện tượng về tương tác nam châm và truyền ánh sáng trong Bảng 1.1.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B1, tr. 7; SGK Vật lí 10 KNTT, Chương 01, B1 (Mục I), tr. 7; SGK Vật lí 10 KNTT, Chương 01, B1 (Mục II), tr. 7; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục III), tr. 8; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B1 (Mục IV), tr. 10
 
+### physiological effect of alternating current
+- **Tiếng Việt:** Tác dụng sinh lí của dòng điện xoay chiều
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phenomenon in which an alternating current passing through a living body causes muscle spasms and may induce asphyxiation, nerve paralysis, or cardiac arrest, posing a fatal hazard. When properly controlled in medicine, this effect is harnessed therapeutically in devices such as defibrillators and electrical pulse therapy.
+- **Giải thích (VI):** Hiện tượng dòng điện xoay chiều truyền qua cơ thể sống gây co giật cơ, có thể làm ngạt thở, tê liệt thần kinh hoặc tim ngừng đập dẫn đến nguy hiểm tính mạng. Khi được kiểm soát với thông số thích hợp trong y học, tác dụng này được ứng dụng để điều trị bệnh như trong máy khử rung tim hoặc trị liệu bằng xung điện.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 15 (Mục IV): cảnh báo an toàn điện trong sinh hoạt và giới thiệu ứng dụng y tế của dòng điện xoay chiều.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 04, B15 (Mục IV), tr. 74
+
 ### physiological effect of electric current
 - **Tiếng Việt:** Tác dụng sinh lí của dòng điện (tác dụng sinh lí)
 - **Chuyên ngành gốc:** Vật lí
@@ -4870,8 +5305,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The geometric plane containing both the incident light ray and the normal line to the reflecting surface at the point of incidence. By the law of reflection, the reflected ray also lies within this plane.
 - **Giải thích (VI):** Mặt phẳng hình học chứa tia sáng tới và pháp tuyến của mặt phản xạ dựng tại điểm tới. Theo định luật phản xạ ánh sáng, tia sáng phản xạ cũng nằm trong mặt phẳng này.
-- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 16 (Mục I, II): xác định mặt phẳng chứa đường đi của tia sáng tới và tia sáng phản xạ trên bảng chia độ thí nghiệm.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 79; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục II.1), tr. 79; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục II.2), tr. 79
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The plane containing both the incident ray $SI$ and the normal line $NN'$ at the point of incidence on the boundary between two media. / VI: Mặt phẳng chứa tia tới $SI$ và pháp tuyến $NN'$ tại điểm tới trên mặt phân cách giữa hai môi trường.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 7, Bài 16 (Mục I, II): xác định mặt phẳng chứa đường đi của tia sáng tới và tia sáng phản xạ trên bảng chia độ thí nghiệm.
+  - Khoa học tự nhiên lớp 9, Bài 5 (Mục I, II): Mặt phẳng chứa đồng thời tia tới, pháp tuyến và tia khúc xạ.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 79; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục II.1), tr. 79; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục II.2), tr. 79; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục I), tr. 26; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục II), tr. 26, 27; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục II), tr. 27
 
 ### planet
 - **Tiếng Việt:** Hành tinh
@@ -4909,8 +5347,10 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The physical property of a material to undergo deformation when subjected to external heat or pressure and to retain that deformed shape after the external force or heat is removed.
 - **Giải thích (VI):** Tính chất vật lí của vật liệu bị biến dạng khi chịu tác dụng của nhiệt hoặc áp lực bên ngoài và vẫn giữ nguyên sự biến dạng đó khi thôi tác dụng.
-- **Bối cảnh:** Hóa học lớp 12, Bài 13 (Mục I.1): Đặc tính cơ học cốt lõi tạo nên khả năng gia công tạo hình của chất dẻo, phân biệt với tính đàn hồi của cao su.
-- **Nguồn:** SGK Hóa học 12 KNTT, Chương 04, B13 (Mục I.1), tr. 56
+- **Bối cảnh:**
+  - Hóa học lớp 12, Bài 13 (Mục I.1): Đặc tính cơ học cốt lõi tạo nên khả năng gia công tạo hình của chất dẻo, phân biệt với tính đàn hồi của cao su.
+  - Khoa học tự nhiên lớp 9, Bài 32 (Mục III.1): Tính chất đặc trưng của vật liệu chất dẻo, phân biệt với tính đàn hồi của cao su.
+- **Nguồn:** SGK Hóa học 12 KNTT, Chương 04, B13 (Mục I.1), tr. 56; SGK Hóa học 12 KNTT, Chương 04, B13, tr. 56; SGK Hóa học 12 KNTT, Chương 04, B13 (Mục I.2), tr. 56, 57; SGK Khoa học tự nhiên 9 KNTT, Chương 09, B32 (Mục I.2), tr. 142; SGK Khoa học tự nhiên 9 KNTT, Chương 09, B32 (Mục I.3), tr. 142; SGK Khoa học tự nhiên 9 KNTT, Chương 09, B32 (Mục II), tr. 142
 
 ### point charge
 - **Tiếng Việt:** Điện tích điểm
@@ -4929,12 +5369,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 02, B4, tr. 21; SGK Vật lí 10 KNTT, Chương 02, B4 (Mục I), tr. 21; SGK Vật lí 10 KNTT, Chương 02, B4 (Mục I), tr. 21, 22
 
 ### point of incidence
-- **Tiếng Việt:** Điểm tới
+- **Tiếng Việt:** Điểm tới (I)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The point of intersection between an incident light ray and a mirror or reflecting surface (conventionally denoted as $I$). At this point, a normal line perpendicular to the mirror surface is drawn to measure the angles of incidence and reflection.
 - **Giải thích (VI):** Giao điểm giữa tia sáng tới và mặt gương hoặc bề mặt phản xạ (thường quy ước kí hiệu là $I$). Tại điểm này, người ta dựng pháp tuyến vuông góc với mặt gương để xác định góc tới và góc phản xạ.
-- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 16 (Mục I): xác định vị trí tia sáng gặp mặt gương khi biểu diễn hình học hiện tượng phản xạ ánh sáng.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16, tr. 78; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 78; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 78, 79
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The point of intersection $I$ between an incident light ray and the boundary surface separating two media. / VI: Giao điểm $I$ của tia sáng tới với mặt phân cách giữa hai môi trường.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 7, Bài 16 (Mục I): xác định vị trí tia sáng gặp mặt gương khi biểu diễn hình học hiện tượng phản xạ ánh sáng.
+  - Khoa học tự nhiên lớp 9, Bài 5 (Mục I): Quy ước hình học khi biểu diễn đường truyền tia sáng trong hiện tượng khúc xạ ánh sáng.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16, tr. 78; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 78; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 78, 79; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục I), tr. 25; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục I), tr. 26; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục II), tr. 26, 27
 
 ### poor sound reflector
 - **Tiếng Việt:** Vật phản xạ âm kém
@@ -4985,7 +5428,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The antiparticle of the electron, denoted by $^{0}_{1}\text{e}$, having the same mass as an electron but carrying a positive electric charge $+e$, emitted from a parent nucleus during $\beta^+$ decay.
 - **Giải thích (VI):** Phản hạt của electron, kí hiệu là $^{0}_{1}\text{e}$, có cùng khối lượng với electron nhưng mang điện tích dương $+e$, phát ra từ hạt nhân mẹ trong quá trình phóng xạ $\beta^+$.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục I.3.b): hạt tạo nên tia phóng xạ β⁺ và ứng dụng trong chụp ảnh cắt lớp PET.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.b), tr. 106
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.b), tr. 106; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.a), tr. 106; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.c), tr. 106
 
 ### potential energy
 - **Tiếng Việt:** Thế năng
@@ -5003,8 +5446,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The chosen reference position where height $h = 0$ and gravitational potential energy equals $0$ (commonly taken at ground level), used as a datum for measuring an object's height and potential energy. While the potential energy at a single point depends on the chosen reference level, the potential energy difference between two points is independent of it.
 - **Giải thích (VI):** Vị trí quy ước có độ cao $h = 0$ và thế năng trọng trường bằng $0$ (thường chọn tại mặt đất) dùng làm mốc để tính độ cao và thế năng của vật. Giá trị thế năng tại một điểm phụ thuộc vào việc chọn gốc thế năng, nhưng hiệu thế năng giữa hai điểm thì không phụ thuộc vào gốc đã chọn.
-- **Bối cảnh:** Vật lí lớp 10, Bài 25 (Mục II.1): Chọn mốc quy chiếu độ cao ($h = 0$) trước khi thiết lập biểu thức thế năng trọng trường và cơ năng.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 101; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.2), tr. 101
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The chosen datum position from which height $h$ is measured when calculating an object's gravitational potential energy, commonly taken at ground level. The numerical value of an object's gravitational potential energy depends on the selected reference level. / VI: Vị trí mốc được chọn để xác định độ cao $h$ khi tính thế năng trọng trường của một vật, thông thường chọn tại mặt đất. Giá trị thế năng trọng trường của cùng một vật phụ thuộc vào vị trí gốc thế năng đã chọn.
+- **Bối cảnh:**
+  - Vật lí lớp 10, Bài 25 (Mục II.1): Chọn mốc quy chiếu độ cao ($h = 0$) trước khi thiết lập biểu thức thế năng trọng trường và cơ năng.
+  - Khoa học tự nhiên lớp 9, Bài 2 (Mục II): Lựa chọn mốc tính độ cao trước khi áp dụng công thức tính thế năng trọng trường $W_{\text{t}} = Ph$.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.1), tr. 101; SGK Vật lí 10 KNTT, Chương 04, B25 (Mục II.2), tr. 101; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B2 (Mục I), tr. 16; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B2 (Mục II), tr. 16; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B2 (Mục II), tr. 16, 17
 
 ### pound
 - **Tiếng Việt:** Pound (cân Anh; lb)
@@ -5021,10 +5467,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** A physical quantity characterizing the rate at which work is performed by a person or machine, defined as the work done per unit time according to $\mathscr{P} = \frac{A}{t}$. In the SI system, the unit of power is the watt ($\text{W}$).
 - **Giải thích (VI):** Đại lượng vật lí đặc trưng cho khả năng thực hiện công nhanh hay chậm của người hoặc thiết bị sinh công, xác định bằng công thực hiện trong một đơn vị thời gian theo công thức $\mathscr{P} = \frac{A}{t}$. Trong hệ SI, đơn vị của công suất là oát ($\text{W}$).
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A physical quantity characterizing the rate at which work is performed (or energy is converted) by a person or machine. When work $A$ ($\text{J}$) is done over time $t$ ($\text{s}$), power is given by $\mathcal{P} = \dfrac{A}{t}$ and measured in watts ($\text{W}$). / VI: Đại lượng vật lí đặc trưng cho tốc độ thực hiện công (hoặc tốc độ chuyển hoá năng lượng) nhanh hay chậm của người hay thiết bị. Nếu công $A$ ($\text{J}$) được thực hiện trong thời gian $t$ ($\text{s}$) thì công suất tính theo công thức $\mathcal{P} = \dfrac{A}{t}$ và có đơn vị chuẩn là oát ($\text{W}$).
 - **Bối cảnh:**
   - Vật lí lớp 10, Bài 24 (Mục I, II): Đánh giá và so sánh tốc độ thực hiện công của con người hoặc các thiết bị, máy móc.
+  - Khoa học tự nhiên lớp 9, Bài 4 (Mục II): Đánh giá tốc độ sinh công của máy móc và thiết bị thông qua biểu thức $\mathcal{P} = \dfrac{A}{t}$.
   - *Lưu ý:* Không nhầm với 'Luỹ thừa' (`power`) trong Toán học.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B24, tr. 96; SGK Vật lí 10 KNTT, Chương 04, B24 (Mục I), tr. 96; SGK Vật lí 10 KNTT, Chương 04, B24 (Mục II), tr. 96
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B24, tr. 96; SGK Vật lí 10 KNTT, Chương 04, B24 (Mục I), tr. 96; SGK Vật lí 10 KNTT, Chương 04, B24 (Mục II), tr. 96; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4 (Mục II), tr. 23; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4 (Mục II), tr. 23, 24; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4 (Mục II), tr. 24
 
 ### prediction skill
 - **Tiếng Việt:** Kĩ năng dự báo
@@ -5074,13 +5522,40 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 18 (Mục I): cuộn dây đầu vào nhận điện năng từ nguồn xoay chiều trong máy biến áp và sạc điện không dây.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B18, tr. 78; SGK Vật lí 12 KNTT, Chương 03, B18 (Mục I), tr. 78; SGK Vật lí 12 KNTT, Chương 03, B18 (Mục I), tr. 78, 79
 
+### principal axis
+- **Tiếng Việt:** Trục chính
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The straight line passing through the optical center $O$ and perpendicular to the cross-section of a lens.
+- **Giải thích (VI):** Đường thẳng đi qua quang tâm $O$ và vuông góc với tiết diện thẳng của thấu kính.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 8 (Mục II): xác định các yếu tố hình học cơ bản của thấu kính hội tụ và thấu kính phân kì.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục I), tr. 41; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục II), tr. 41; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục III.1), tr. 42
+
+### principal focus
+- **Tiếng Việt:** Tiêu điểm chính (F)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The point $F$ on the principal axis where the emergent rays converge (for a converging lens) or where the extensions of the emergent rays intersect (for a diverging lens) when an incident beam parallel to the principal axis passes through the lens.
+- **Giải thích (VI):** Điểm $F$ nằm trên trục chính nơi chùm tia ló hội tụ (đối với thấu kính hội tụ) hoặc nơi các đường kéo dài của chùm tia ló giao nhau (đối với thấu kính phân kì) khi chiếu chùm tia tới song song với trục chính của thấu kính.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 8 (Mục II): biểu diễn đường truyền của chùm sáng song song với trục chính qua thấu kính.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục I), tr. 41; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục II), tr. 41; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục IV.1), tr. 44
+
+### principal section of a prism
+- **Tiếng Việt:** Mặt phẳng tiết diện chính
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** Any plane perpendicular to the edges of an optical prism, used to analyze and represent the path of light rays passing through the prism.
+- **Giải thích (VI):** Mặt phẳng bất kì vuông góc với các cạnh của lăng kính, dùng để khảo sát và biểu diễn đường truyền của tia sáng đi qua lăng kính.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 7 (Mục I, III): Mặt phẳng chuẩn để vẽ và khảo sát đường truyền của tia sáng qua lăng kính.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7, tr. 34; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục I), tr. 34; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục I), tr. 34, 35
+
 ### principle of alternating current generation
 - **Tiếng Việt:** Nguyên tắc tạo ra dòng điện xoay chiều
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The operating principle based on electromagnetic induction whereby the magnetic flux through a closed conducting coil is made to vary harmonically with time (such as by rotating a coil uniformly in a uniform magnetic field or rotating a magnet uniformly near a coil), thereby generating an alternating electromotive force and alternating current.
 - **Giải thích (VI):** Nguyên lí vận dụng hiện tượng cảm ứng điện từ bằng cách làm cho từ thông xuyên qua khung dây dẫn kín biến thiên điều hoà theo thời gian (chẳng hạn cho khung dây quay đều trong từ trường đều hoặc cho nam châm quay đều trước cuộn dây), qua đó tạo ra suất điện động và dòng điện xoay chiều.
-- **Bối cảnh:** Vật lí lớp 12, Bài 17 (Mục I): cơ sở vật lí để chế tạo các máy phát điện xoay chiều.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B17, tr. 72; SGK Vật lí 12 KNTT, Chương 03, B17 (Mục I), tr. 72; SGK Vật lí 12 KNTT, Chương 03, B17 (Mục I), tr. 72, 73
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: An operating principle based on electromagnetic induction: causing the number of magnetic field lines passing through the cross-section of a closed coil to vary (alternately increasing and decreasing) over time by rotating the coil in a magnetic field or rotating a magnet near a stationary coil, thereby inducing an alternating current in the coil. / VI: Nguyên tắc hoạt động dựa trên hiện tượng cảm ứng điện từ: làm cho số đường sức từ xuyên qua tiết diện của một cuộn dây dẫn kín biến thiên (tăng, giảm luân phiên) theo thời gian bằng cách cho cuộn dây quay trong từ trường hoặc cho nam châm quay trước cuộn dây đứng yên, khi đó trong cuộn dây xuất hiện dòng điện xoay chiều.
+- **Bối cảnh:**
+  - Vật lí lớp 12, Bài 17 (Mục I): cơ sở vật lí để chế tạo các máy phát điện xoay chiều.
+  - Khoa học tự nhiên lớp 9, Bài 14 (Mục III): giải thích cấu tạo và nguyên lí làm việc cơ bản của các máy phát điện xoay chiều.
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B17, tr. 72; SGK Vật lí 12 KNTT, Chương 03, B17 (Mục I), tr. 72; SGK Vật lí 12 KNTT, Chương 03, B17 (Mục I), tr. 72, 73; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục III), tr. 70; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục III), tr. 71
 
 ### principle of moments
 - **Tiếng Việt:** Quy tắc moment lực
@@ -5165,7 +5640,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An acute injury manifested as an immediate burning sensation on the body upon exposure to an intense radioactive source, even for a brief duration.
 - **Giải thích (VI):** Tổn thương cấp tính biểu hiện bằng cảm giác bỏng rát xuất hiện ngay trên cơ thể khi tiếp xúc với nguồn phóng xạ mạnh, dù chỉ trong thời gian ngắn.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục III.1): tác hại tức thời của nguồn phóng xạ cường độ lớn lên mô cơ thể người.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục III.1), tr. 110
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục III.1), tr. 110; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 110
 
 ### radiation dose
 - **Tiếng Việt:** Liều phóng xạ
@@ -5183,7 +5658,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The set of three fundamental rules for protecting people against radiation exposure: maintaining a sufficient distance from the radioactive source (doubling the distance reduces the absorbed dose fourfold), using sufficiently thick and high-density shielding to attenuate radioactive rays, and minimizing exposure time.
 - **Giải thích (VI):** Tập hợp ba quy tắc cơ bản nhằm bảo vệ con người trước nguy cơ phơi nhiễm bức xạ: giữ khoảng cách đủ xa nguồn phóng xạ (tăng gấp đôi khoảng cách giúp giảm $4$ lần liều hấp thụ), sử dụng tấm chắn đủ dày và có khối lượng riêng lớn để cản tia phóng xạ, và giảm thiểu thời gian phơi nhiễm phóng xạ.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục IV): quy tắc phòng hộ bắt buộc khi làm việc, vận chuyển và lưu trữ nguồn phóng xạ.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 112
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 112; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 112, 113
 
 ### radiation sickness
 - **Tiếng Việt:** Nhiễm độc phóng xạ
@@ -5191,7 +5666,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A pathological condition resulting from high-dose exposure to radioactive rays, characterized by symptoms such as nausea, vomiting, and nervous exhaustion, as well as long-term effects including genetic mutations and cancer.
 - **Giải thích (VI):** Tình trạng bệnh lí xảy ra khi cơ thể phơi nhiễm tia phóng xạ liều lớn, biểu hiện qua các triệu chứng như buồn nôn, nôn mửa, suy nhược thần kinh và để lại hậu quả lâu dài như đột biến di truyền hoặc ung thư.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục III.1): hội chứng tổn thương toàn thân và di truyền khi bị phơi nhiễm bức xạ phóng xạ.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục III.1), tr. 110
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục III.1), tr. 110; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 110
 
 ### radiation warning sign
 - **Tiếng Việt:** Biển cảnh báo phóng xạ
@@ -5199,7 +5674,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A hazard sign placed at areas housing radiation-emitting equipment or radioactive sources, or affixed directly onto such devices and source containers, warning people not to approach or damage them.
 - **Giải thích (VI):** Biển báo nguy hiểm đặt tại khu vực lắp đặt nguồn hoặc thiết bị phát tia phóng xạ, hoặc gắn trực tiếp trên thiết bị và vật chứa nguồn phóng xạ, nhằm cảnh báo con người không tiếp cận hay làm hư hại chúng.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục III.2): nhận diện khu vực và thiết bị có nguy cơ phơi nhiễm phóng xạ trong y tế, công nghiệp và nghiên cứu.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục III.2), tr. 111
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục III.2), tr. 111; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục IV), tr. 111, 112
 
 ### radiation weighting factor
 - **Tiếng Việt:** Trọng số bức xạ
@@ -5223,7 +5698,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A physical quantity characterizing the strength of radioactivity of a radioactive sample, denoted by $H$, equal to the number of nuclear decays per second and measured in becquerels ($\text{Bq}$). At time $t$, it decreases exponentially according to $H_t = \lambda N_t = H_0 e^{-\lambda t}$, where $H_0$ is the initial activity, $\lambda$ is the decay constant, and $N_t$ is the number of remaining nuclei.
 - **Giải thích (VI):** Đại lượng vật lí đặc trưng cho tính phóng xạ mạnh hay yếu của một lượng chất phóng xạ, kí hiệu là $H$, có giá trị bằng số hạt nhân phân rã trong một giây và đo bằng đơn vị becơren ($\text{Bq}$). Tại thời điểm $t$, độ phóng xạ giảm theo hàm số mũ theo hệ thức $H_t = \lambda N_t = H_0 e^{-\lambda t}$, với $H_0$ là độ phóng xạ ban đầu, $\lambda$ là hằng số phóng xạ và $N_t$ là số hạt nhân còn lại.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục II.2): định lượng tốc độ phân rã của mẫu phóng xạ tại một thời điểm xác định.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 108; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 109
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 108; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 109; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.1), tr. 108; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 108, 109
 
 ### radioactive decay law
 - **Tiếng Việt:** Định luật phóng xạ
@@ -5231,7 +5706,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The law describing the exponential decrease over time in the number of remaining radioactive nuclei during decay, expressed as $N_t = N_0 2^{-\frac{t}{T}} = N_0 e^{-\lambda t}$, where $N_0$ is the initial number of nuclei (at $t = 0$), $N_t$ is the number of remaining nuclei at time $t$, $T$ is the half-life, and $\lambda$ is the decay constant.
 - **Giải thích (VI):** Định luật mô tả sự suy giảm theo quy luật hàm số mũ của số hạt nhân chất phóng xạ còn lại theo thời gian phân rã, biểu diễn bằng công thức $N_t = N_0 2^{-\frac{t}{T}} = N_0 e^{-\lambda t}$, trong đó $N_0$ là số hạt nhân ban đầu (tại $t = 0$), $N_t$ là số hạt nhân còn lại ở thời điểm $t$, $T$ là chu kì bán rã và $\lambda$ là hằng số phóng xạ.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục II.1): tính toán lượng chất phóng xạ còn lại hoặc đã phân rã và ứng dụng định tuổi đồng vị phóng xạ.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.1), tr. 107; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 109
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.1), tr. 107; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.2), tr. 109; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3.c), tr. 107; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.1), tr. 107, 108
 
 ### radioactive labeling
 - **Tiếng Việt:** Phương pháp đánh dấu phóng xạ
@@ -5241,7 +5716,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Vật lí lớp 12, Bài 24 (Mục III): ứng dụng đồng vị phóng xạ trong nghiên cứu công nghệ sinh học, nông nghiệp và lâm nghiệp.
   - *Lưu ý:* Áp dụng cho nghiên cứu sinh học và nông – lâm nghiệp, phân biệt với phương pháp theo dõi vết phóng xạ (radioactive tracer method) dùng dược chất phóng xạ để chẩn đoán y khoa.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B24 (Mục III), tr. 117
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B24 (Mục III), tr. 117; SGK Vật lí 12 KNTT, Chương 04, B24 (Mục II.1), tr. 117; SGK Vật lí 12 KNTT, Chương 04, B24 (Mục II.2), tr. 117
 
 ### radioactive ray
 - **Tiếng Việt:** Tia phóng xạ
@@ -5249,7 +5724,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A stream of particles or electromagnetic radiation (such as $\alpha$, $\beta^-$, $\beta^+$, and $\gamma$ rays) emitted by radioactive substances during nuclear decay and invisible to the naked eye. These rays can ionize air, blacken photographic plates, induce photoelectric effects, penetrate matter, trigger chemical reactions, and destroy living cells.
 - **Giải thích (VI):** Chùm hạt hoặc bức xạ điện từ (như các tia $\alpha$, $\beta^-$, $\beta^+$, $\gamma$) phát ra từ chất phóng xạ trong quá trình phân rã hạt nhân và không nhìn thấy được bằng mắt thường. Các tia này có khả năng ion hoá không khí, làm đen kính ảnh, gây hiệu ứng quang điện, xuyên thấu vật chất, kích thích phản ứng hoá học và phá huỷ tế bào.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục I.1): các bức xạ phát ra từ mẫu chất phóng xạ trong thí nghiệm buồng sương và kính ảnh.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.1), tr. 104; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.2), tr. 105
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.1), tr. 104; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.2), tr. 105; SGK Vật lí 12 KNTT, Chương 04, B23, tr. 104
 
 ### radioactive tracer method
 - **Tiếng Việt:** Phương pháp theo dõi vết phóng xạ
@@ -5259,7 +5734,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Vật lí lớp 12, Bài 24 (Mục II.1): kĩ thuật chẩn đoán chức năng cơ quan bên trong cơ thể bằng dược chất phóng xạ.
   - *Lưu ý:* Trong SGK Vật lí 12, thuật ngữ này gắn với chẩn đoán y học hạt nhân trên cơ thể người, phân biệt với phương pháp đánh dấu phóng xạ (radioactive labeling) ứng dụng trong nghiên cứu sinh học, nông nghiệp và lâm nghiệp.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B24 (Mục II.1), tr. 116
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B24 (Mục II.1), tr. 116; SGK Vật lí 12 KNTT, Chương 04, B24 (Mục I), tr. 116; SGK Vật lí 12 KNTT, Chương 04, B24 (Mục II), tr. 116
 
 ### radioactivity
 - **Tiếng Việt:** Hiện tượng phóng xạ (phân rã phóng xạ)
@@ -5283,7 +5758,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A medicinal compound containing a radioactive isotope administered to a patient (by injection or ingestion) for functional diagnostic imaging of internal organs or targeted destruction of cancer cells via the bloodstream.
 - **Giải thích (VI):** Chế phẩm y học có thành phần chứa đồng vị phóng xạ được đưa vào cơ thể bệnh nhân (qua đường tiêm hoặc uống) nhằm phục vụ chẩn đoán hình ảnh chức năng các cơ quan hoặc vận chuyển theo mạch máu đến tiêu diệt tế bào ung thư.
 - **Bối cảnh:** Vật lí lớp 12, Bài 24 (Mục II.1–II.2): tác nhân mang đồng vị phóng xạ dùng trong phương pháp theo dõi vết phóng xạ, chụp cắt lớp PET/SPECT và điều trị ung thư.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B24 (Mục II.1), tr. 116; SGK Vật lí 12 KNTT, Chương 04, B24 (Mục II.2), tr. 117
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B24 (Mục II.1), tr. 116; SGK Vật lí 12 KNTT, Chương 04, B24 (Mục II.2), tr. 117; SGK Vật lí 12 KNTT, Chương 04, B24 (Mục I), tr. 116; SGK Vật lí 12 KNTT, Chương 04, B24 (Mục II), tr. 116
 
 ### radiotherapy
 - **Tiếng Việt:** Xạ trị
@@ -5291,7 +5766,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A cancer treatment method that utilizes the cell-destroying capability of radioactive rays, either by directing radiation beams from an external radiotherapy machine onto tumors or by administering internal radiopharmaceuticals to destroy cancer cells.
 - **Giải thích (VI):** Phương pháp điều trị bệnh ung thư khai thác khả năng huỷ diệt tế bào của tia phóng xạ thông qua việc chiếu chùm tia phóng xạ từ máy xạ trị bên ngoài cơ thể vào khối u hoặc đưa dược chất phóng xạ vào bên trong cơ thể để tiêu diệt tế bào ung thư.
 - **Bối cảnh:** Vật lí lớp 12, Bài 24 (Mục II.2): ứng dụng tác dụng sinh học của tia phóng xạ trong điều trị ung bướu.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B24 (Mục II.2), tr. 117
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B24 (Mục II.2), tr. 117; SGK Vật lí 12 KNTT, Chương 04, B24 (Mục II.1), tr. 117; SGK Vật lí 12 KNTT, Chương 04, B24 (Mục III), tr. 117
+
+### rainbow
+- **Tiếng Việt:** Cầu vồng
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A multicolored circular-arc band of light appearing in the sky after rain, formed when sunlight undergoes refraction, total internal reflection, and dispersion within tiny raindrops at a viewing angle of about $40^\circ$ to $42^\circ$ relative to the incoming solar rays.
+- **Giải thích (VI):** Dải sáng nhiều màu hình cung tròn xuất hiện trên bầu trời sau cơn mưa, hình thành do ánh sáng mặt trời bị khúc xạ, phản xạ toàn phần và tán sắc qua các giọt nước mưa li ti với hướng nhìn hợp góc khoảng $40^\circ$ đến $42^\circ$ so với phương tia sáng Mặt Trời chiếu tới.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 7 (Mục IV): Hiện tượng quang học khí quyển minh hoạ tổng hợp khúc xạ, phản xạ toàn phần và tán sắc ánh sáng.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục II), tr. 36; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục IV), tr. 38
 
 ### random error
 - **Tiếng Việt:** Sai số ngẫu nhiên
@@ -5307,7 +5790,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A fundamental property of radioactive decay whereby the exact moment of decay of any given radioactive nucleus is completely indeterminate, causing the number of decays recorded over equal short consecutive time intervals to fluctuate randomly. Only for a sample containing a vast number of radioactive nuclei does the decrease in nuclei follow a definite law.
 - **Giải thích (VI):** Đặc tính bản chất của quá trình phóng xạ thể hiện ở việc thời điểm phân rã của một hạt nhân phóng xạ cho trước là hoàn toàn không xác định, khiến số phân rã ghi nhận trong những khoảng thời gian ngắn bằng nhau liên tiếp biến thiên ngẫu nhiên. Chỉ khi xét mẫu gồm số lượng rất lớn hạt nhân phóng xạ, sự giảm số hạt nhân mới tuân theo quy luật xác định.
 - **Bối cảnh:** Vật lí lớp 12, Bài 23 (Mục I.2): đặc điểm thống kê ngẫu nhiên của hiện tượng phóng xạ qua thí nghiệm đếm xung Geiger–Müller.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.2), tr. 105; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.1), tr. 107
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.2), tr. 105; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục II.1), tr. 107; SGK Vật lí 12 KNTT, Chương 04, B23 (Mục I.3), tr. 105
 
 ### rate of change of magnetic flux
 - **Tiếng Việt:** Tốc độ biến thiên của từ thông
@@ -5316,6 +5799,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đại lượng đặc trưng cho mức độ thay đổi nhanh hay chậm của từ thông qua mạch kín theo thời gian, xác định bằng thương số $\left|\frac{\Delta\Phi}{\Delta t}\right|$ với $\Delta\Phi$ là độ biến thiên từ thông trong khoảng thời gian $\Delta t$ đủ nhỏ.
 - **Bối cảnh:** Vật lí lớp 12, Bài 16 (Mục IV): đại lượng quyết định độ lớn của suất điện động cảm ứng theo định luật Faraday.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B16 (Mục III), tr. 69; SGK Vật lí 12 KNTT, Chương 03, B16 (Mục IV), tr. 69; SGK Vật lí 12 KNTT, Chương 03, B16 (Mục IV), tr. 69, 70
+
+### rated electric power
+- **Tiếng Việt:** Công suất điện định mức
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The electric power value marked on an electrical appliance's label, indicating the power consumed by the device when connected to its rated voltage and operating normally.
+- **Giải thích (VI):** Giá trị công suất điện ghi trên nhãn thiết bị tiêu thụ điện, cho biết công suất mà thiết bị đó tiêu thụ khi được mắc đúng vào hiệu điện thế định mức và hoạt động bình thường.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 13 (Mục III): đọc và giải thích thông số kĩ thuật trên bóng đèn và đồ điện gia dụng (ví dụ $220\text{ V} - 60\text{ W}$).
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13 (Mục II), tr. 65; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13 (Mục III), tr. 65; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13 (Mục III), tr. 65, 66
 
 ### rated power
 - **Tiếng Việt:** Công suất định mức
@@ -5330,8 +5821,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The specified operating voltage marked on an electrical device or appliance, at which the device operates normally and achieves its exact rated power.
 - **Giải thích (VI):** Giá trị hiệu điện thế tiêu chuẩn ghi trên nhãn dụng cụ hoặc thiết bị dùng điện, mà chỉ khi sử dụng ở đúng hiệu điện thế này thì thiết bị mới hoạt động bình thường và đạt công suất bằng công suất định mức.
-- **Bối cảnh:** Vật lí lớp 11, Bài 25 (Mục II, III.2): Đọc thông số kĩ thuật trên nhãn thiết bị điện và lựa chọn cách mắc phù hợp vào mạng điện.
-- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 108; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục III.2), tr. 109
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The voltage value marked on an electrical appliance's label, specifying the potential difference that must be applied across its terminals for normal operation at its rated electric power. / VI: Giá trị hiệu điện thế ghi trên nhãn thiết bị tiêu thụ điện, cho biết mức hiệu điện thế cần đặt vào hai đầu thiết bị để nó hoạt động bình thường đúng với công suất điện định mức.
+- **Bối cảnh:**
+  - Vật lí lớp 11, Bài 25 (Mục II, III.2): Đọc thông số kĩ thuật trên nhãn thiết bị điện và lựa chọn cách mắc phù hợp vào mạng điện.
+  - Khoa học tự nhiên lớp 9, Bài 13 (Mục III): lựa chọn nguồn điện phù hợp để đảm bảo an toàn và tuổi thọ cho thiết bị điện.
+- **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 108; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục III.2), tr. 109; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13 (Mục II), tr. 65; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13 (Mục III), tr. 65; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13 (Mục III), tr. 65, 66
+
+### ray-tracing rules for lenses
+- **Tiếng Việt:** Cách vẽ ảnh tạo bởi thấu kính
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The geometric rules for constructing the image of an off-axis point source $S$ through a lens using two principal rays: a ray through the optical center $O$ continues undeviated, and a ray parallel to the principal axis emerges along (or appears to diverge from) a line passing through the principal focus $F$. The intersection $S'$ of the emergent rays (or their extensions) locates the image of $S$; for a small planar object $AB$ perpendicular to the principal axis ($A$ on the axis), dropping a perpendicular from $B'$ to the axis at $A'$ yields the image $A'B'$.
+- **Giải thích (VI):** Quy tắc dựng ảnh của một điểm sáng $S$ ngoài trục chính qua thấu kính bằng cách sử dụng hai tia sáng đặc biệt: tia tới quang tâm $O$ truyền thẳng và tia tới song song với trục chính cho tia ló (hoặc đường kéo dài của tia ló) đi qua tiêu điểm chính $F$. Giao điểm $S'$ của hai tia ló (hoặc đường kéo dài của chúng) xác định ảnh của $S$; với vật phẳng nhỏ $AB$ vuông góc trục chính ($A$ thuộc trục chính), từ ảnh $B'$ hạ đường vuông góc xuống trục chính tại $A'$ để thu được ảnh $A'B'$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 8 (Mục IV.1, IV.2): dựng sơ đồ tạo ảnh của điểm sáng và vật phẳng nhỏ qua thấu kính hội tụ hoặc phân kì.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục IV.1), tr. 44; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục IV.2), tr. 44; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục IV.2), tr. 44, 45
 
 ### reaction force
 - **Tiếng Việt:** Phản lực
@@ -5350,6 +5852,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chất khí tồn tại trong thực tế mà các phân tử có kích thước đáng kể và có lực tương tác phân tử ngay cả khi chưa va chạm, chỉ tuân theo gần đúng các định luật khí lí tưởng ở điều kiện nhiệt độ và áp suất thông thường.
 - **Bối cảnh:** Vật lí lớp 12, Bài 8 (Mục III) và Bài 10 (Mục IV): đối chiếu giới hạn áp dụng của mô hình khí lí tưởng đối với các chất khí trong thực tế.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 02, B8 (Mục III), tr. 36; SGK Vật lí 12 KNTT, Chương 02, B10 (Mục IV), tr. 44
+
+### real image
+- **Tiếng Việt:** Ảnh thật
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An image that can be projected onto a screen, formed by the direct intersection of converging emergent rays after passing through a converging lens. In ray diagrams, a real image is represented by a solid arrow.
+- **Giải thích (VI):** Ảnh hứng được trên màn chắn, tạo bởi giao điểm trực tiếp của chùm tia ló hội tụ sau khi đi qua thấu kính hội tụ. Trên sơ đồ tạo ảnh, ảnh thật được biểu diễn bằng mũi tên nét liền.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 8 (Mục IV): nhận biết và vẽ ảnh của vật đặt ngoài khoảng tiêu cự trước thấu kính hội tụ.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục III.2.b), tr. 43; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục IV), tr. 43; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục IV.2), tr. 44
 
 ### real motion
 - **Tiếng Việt:** Chuyển động thực
@@ -5401,6 +5911,58 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 16 (Mục I): quan sát đường đi của chùm tia sáng chiếu vào gương phẳng và khảo sát định luật phản xạ ánh sáng.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16, tr. 78; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 78; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B16 (Mục I), tr. 78, 79; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 178
 
+### refracted ray
+- **Tiếng Việt:** Tia khúc xạ (IK)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A light ray propagating from the point of incidence $I$ into the second transparent medium along a direction deflected from that of the incident ray, commonly denoted $IK$.
+- **Giải thích (VI):** Tia sáng đi từ điểm tới $I$ truyền sang môi trường trong suốt thứ hai và bị lệch khỏi phương truyền ban đầu của tia tới, thường kí hiệu là $IK$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 5 (Mục I): Phân biệt với tia tới và tia phản xạ tại mặt phân cách giữa hai môi trường trong suốt.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục I), tr. 26; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục II), tr. 26, 27; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục II), tr. 27
+
+### refracting angle
+- **Tiếng Việt:** Góc chiết quang (góc ở đỉnh; A)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The angle $A$ formed between the two refracting faces of an optical prism, serving alongside the refractive index $n$ as one of the two optical parameters characterizing the prism.
+- **Giải thích (VI):** Góc $A$ hợp bởi hai mặt bên của lăng kính, là một trong hai đại lượng đặc trưng cho lăng kính về phương diện quang học bên cạnh chiết suất $n$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 7 (Mục I): Thông số cấu tạo đặc trưng quyết định độ lệch tia sáng qua lăng kính.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7, tr. 34; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục I), tr. 34; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục I), tr. 34, 35
+
+### refracting edge of a prism
+- **Tiếng Việt:** Cạnh (cạnh của lăng kính)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The line of intersection between the two non-parallel refracting faces of an optical prism.
+- **Giải thích (VI):** Đường giao tuyến của hai mặt bên không song song của lăng kính.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 9, Bài 7 (Mục I): Yếu tố hình học xác định đỉnh góc chiết quang và phương của mặt phẳng tiết diện chính của lăng kính.
+  - *Lưu ý:* Chỉ riêng giao tuyến của hai mặt bên khúc xạ của lăng kính quang học, phân biệt với cạnh của đa diện trong Toán học.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7, tr. 34; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục I), tr. 34; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục I), tr. 34, 35
+
+### refracting faces of a prism
+- **Tiếng Việt:** Các mặt bên (mặt bên của lăng kính)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The two non-parallel bounding plane surfaces of an optical prism through which light rays enter and refract.
+- **Giải thích (VI):** Hai mặt phẳng giới hạn không song song của lăng kính, nơi tia sáng chiếu tới và khúc xạ đi qua.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 9, Bài 7 (Mục I): Thành phần hình học giới hạn khối lăng kính trong quang hình học.
+  - *Lưu ý:* Chỉ hai mặt phẳng khúc xạ không song song của lăng kính quang học, phân biệt với các mặt bên của hình lăng trụ trong hình học.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7, tr. 34; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục I), tr. 34; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục I), tr. 34, 35
+
+### refraction of light
+- **Tiếng Việt:** Khúc xạ ánh sáng (hiện tượng khúc xạ ánh sáng)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phenomenon in which a light ray bends (deviates from its original direction of propagation) at the boundary when passing from one transparent medium into another due to a change in the speed of light.
+- **Giải thích (VI):** Hiện tượng tia sáng bị gãy khúc (lệch khỏi phương truyền ban đầu) tại mặt phân cách khi truyền từ môi trường trong suốt này sang môi trường trong suốt khác do sự thay đổi tốc độ truyền ánh sáng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 5 (Mục I): Hiện tượng quang học cơ sở giải thích đường truyền tia sáng qua mặt phân cách hai môi trường trong suốt.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục I), tr. 25; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục I), tr. 26; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục II), tr. 26, 27
+
+### refractive index
+- **Tiếng Việt:** Chiết suất (chiết suất tuyệt đối; n)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The relative refractive index of a transparent medium with respect to vacuum, equal to the ratio of the speed of light in vacuum ($c = 3 \cdot 10^8\text{ m/s}$) to the speed of light in that medium ($v$): $n = \dfrac{c}{v}$.
+- **Giải thích (VI):** Chiết suất tỉ đối của một môi trường trong suốt đối với chân không, có giá trị bằng tỉ số giữa tốc độ ánh sáng trong chân không ($c = 3 \cdot 10^8\text{ m/s}$) và tốc độ ánh sáng trong môi trường đó ($v$): $n = \dfrac{c}{v}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 5 (Mục III.2): Đại lượng đặc trưng cho tốc độ truyền sáng trong một môi trường trong suốt.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục II), tr. 28; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục III.1), tr. 28; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục III.2), tr. 28
+
 ### relationship between electric potential and electric field strength
 - **Tiếng Việt:** Liên hệ điện thế và cường độ điện trường
 - **Chuyên ngành gốc:** Vật lí
@@ -5426,6 +5988,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Vật lí lớp 10, Bài 3 (Mục II.2, II.3): Đánh giá mức độ chính xác của phép đo và làm cơ sở tính sai số cho phép đo gián tiếp.
   - *Lưu ý:* Không nhầm với 'Sai số tương đối' (`relative error`) trong Toán học.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B3 (Mục II.2), tr. 18; SGK Vật lí 10 KNTT, Chương 01, B3 (Mục II.3), tr. 18; SGK Vật lí 10 KNTT, Chương 01, B3 (Mục II.4), tr. 18
+
+### relative refractive index
+- **Tiếng Việt:** Chiết suất tỉ đối (n₂₁)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A constant quantity characterizing light refraction from transparent medium 1 into transparent medium 2, defined by the ratio $n_{21} = \dfrac{\sin i}{\sin r} = \dfrac{n_2}{n_1}$. If $n_{21} > 1$, then $r < i$ (the refracted ray bends closer to the normal); if $n_{21} < 1$, then $r > i$ (the refracted ray bends farther from the normal).
+- **Giải thích (VI):** Đại lượng không đổi đặc trưng cho sự khúc xạ ánh sáng truyền từ môi trường trong suốt 1 sang môi trường trong suốt 2, xác định bởi tỉ số $n_{21} = \dfrac{\sin i}{\sin r} = \dfrac{n_2}{n_1}$. Nếu $n_{21} > 1$ thì $r < i$ (tia khúc xạ lệch gần pháp tuyến hơn); nếu $n_{21} < 1$ thì $r > i$ (tia khúc xạ lệch xa pháp tuyến hơn).
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 5 (Mục III.1): So sánh mức độ khúc xạ ánh sáng giữa hai môi trường trong suốt bất kì.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục II), tr. 28; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục III.1), tr. 28; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B5 (Mục III.2), tr. 28
 
 ### relativistic total energy
 - **Tiếng Việt:** Năng lượng toàn phần
@@ -5455,8 +6025,9 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Khoa học tự nhiên lớp 6, Bài 14 (Mục III): Giải pháp năng lượng thay thế cho các nguồn nhiên liệu hoá thạch đang dần cạn kiệt.
   - Khoa học tự nhiên lớp 6, Bài 14 (Mục III) và Bài 50 (Mục I, II): phân biệt các nguồn năng lượng sạch thay thế nhiên liệu hoá thạch đang dần cạn kiệt.
+  - Khoa học tự nhiên lớp 9, Bài 17 (Mục I): khái niệm trung tâm để phân biệt các nguồn năng lượng tự bổ sung với năng lượng hoá thạch có nguy cơ cạn kiệt.
   - Địa lí lớp 10, Bài 31 (Mục 2): trình bày các nguồn năng lượng tái tạo và vai trò thay thế nhiên liệu hoá thạch.
-- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục II), tr. 51; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục III), tr. 51; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B50, tr. 173; SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 1), tr. 88; SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 2), tr. 89
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục II), tr. 51; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B14 (Mục III), tr. 51; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Chương 09, B50, tr. 173; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17, tr. 80; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục I), tr. 80; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục I), tr. 80, 81; SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 1), tr. 88; SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 2), tr. 89; SGK Địa lí 10 KNTT, Phần ba, B31 (Mục 1), tr. 89
 
 ### research subject of physics
 - **Tiếng Việt:** Đối tượng nghiên cứu của Vật lí
@@ -5473,6 +6044,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phép thay thế một lực bằng hai lực thành phần có tác dụng giống hệt như lực ấy (ngược với phép tổng hợp lực). Trong thực hành, lực thường được phân tích theo hai phương vuông góc đã xác định rõ tác dụng của lực để hai thành phần độc lập nhau.
 - **Bối cảnh:** Vật lí lớp 10, Bài 13 (Mục III): phân tích trọng lực trên mặt phẳng nghiêng hoặc lực kéo xiên góc theo hai trục vuông góc.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B13 (Mục III), tr. 59; SGK Vật lí 10 KNTT, Chương 03, B13 (Mục III.1), tr. 59; SGK Vật lí 10 KNTT, Chương 03, B13 (Mục III.2), tr. 59
+
+### resolving power of the eye
+- **Tiếng Việt:** Năng suất phân li (ε)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The minimum visual angle $\varepsilon$ required for the eye to distinguish two separate points $A$ and $B$ on an object, corresponding to their images falling on two adjacent photoreceptor cells on the retina. While varying among individuals, its average value is approximately $\varepsilon = \alpha_{\min} \approx 1'$.
+- **Giải thích (VI):** Giá trị tối thiểu $\varepsilon$ của góc trông vật để mắt còn có thể phân biệt được hai điểm $A$, $B$ riêng biệt trên vật, ứng với ảnh của hai điểm đó rơi trên hai tế bào thần kinh thị giác kề nhau trên võng mạc. Giá trị này thay đổi tuỳ theo từng người nhưng trung bình xấp xỉ $\varepsilon = \alpha_{\min} \approx 1'$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 10 (Mục I): giải thích giới hạn phân biệt chi tiết nhỏ của mắt thường khi chưa dùng dụng cụ quang học.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục I), tr. 51; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục II), tr. 51; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục III), tr. 51
 
 ### resonance
 - **Tiếng Việt:** Hiện tượng cộng hưởng
@@ -5549,6 +6128,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 12, Bài 14 (Mục III.2): xác định chiều đường sức từ của dòng điện thẳng, dòng điện tròn và ống dây.
 - **Nguồn:** SGK Vật lí 12 KNTT, Chương 03, B14 (Mục III.2), tr. 59; SGK Vật lí 12 KNTT, Chương 03, B14 (Mục III.2), tr. 59, 60; SGK Vật lí 12 KNTT, Chương 03, B14 (Mục III.2), tr. 60
 
+### river hydropower
+- **Tiếng Việt:** Năng lượng từ dòng sông
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A form of renewable energy harnessed from the flowing force of river water, typically converted into electricity at hydroelectric power plants using dams and reservoirs to drive generator turbines.
+- **Giải thích (VI):** Dạng năng lượng tái tạo thu nhận từ sức chảy của dòng nước sông, thường được chuyển hoá thành điện năng tại các nhà máy thuỷ điện thông qua hệ thống hồ đập tích nước làm quay tuabin máy phát điện.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 17 (Mục II.4): đánh giá vai trò phát điện và những hệ luỵ của hồ đập thuỷ điện đối với địa chất, hệ sinh thái rừng, thuỷ sinh và dân cư.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17, tr. 80; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục II), tr. 81; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục II.4), tr. 84
+
 ### rolling friction
 - **Tiếng Việt:** Lực ma sát lăn
 - **Chuyên ngành gốc:** Vật lí
@@ -5599,6 +6186,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 1 (Mục I): Vận dụng quy trình 5 bước để khảo sát các vấn đề thực nghiệm như lực ma sát trượt hoặc tính tan của các chất trong nước.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 01, B1, tr. 6; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B1 (Mục I), tr. 6; SGK Khoa học tự nhiên 7 KNTT, Chương 01, B1 (Mục I), tr. 6, 7
 
+### scientific poster
+- **Tiếng Việt:** Báo cáo treo tường
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A large-format visual display of research findings on a standard A0 or A1 sheet divided into clear sections for introduction, methods, results, discussion, conclusion, and references. Its design minimizes text, ensures clear visual contrast, and emphasizes images, charts, and graphs.
+- **Giải thích (VI):** Hình thức trưng bày kết quả nghiên cứu khoa học trên bản in khổ lớn tiêu chuẩn A0 hoặc A1, chia thành các khu vực rõ ràng gồm giới thiệu, phương pháp, kết quả, thảo luận, kết luận và tài liệu tham khảo. Thiết kế ưu tiên dùng ít chữ, độ tương phản tốt và tập trung truyền tải thông tin qua hình ảnh, biểu đồ, đồ thị.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 1 (Mục IV.2): Hình thức trình bày trực quan báo cáo nghiên cứu khoa học tại lớp học hoặc buổi trưng bày học thuật.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục IV.1), tr. 13; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục IV.2), tr. 13; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục IV.2), tr. 13, 14
+
+### scientific presentation
+- **Tiếng Việt:** Bài thuyết trình một vấn đề khoa học
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A concise, visual presentation communicating the core content of a scientific report to an audience. It is commonly delivered using presentation software structured into eight standard slides (from title to Q&A) or via a scientific poster.
+- **Giải thích (VI):** Hình thức truyền đạt cô đọng và trực quan nội dung trọng tâm của bài báo cáo một vấn đề khoa học trước người nghe. Bài thuyết trình thường được thiết kế trên phần mềm trình chiếu theo cấu trúc tám trang chuẩn (từ trang tiêu đề đến trang câu hỏi trao đổi) hoặc trình bày qua báo cáo treo tường.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 1 (Mục IV.1): Thiết kế bản trình chiếu và trình bày trực quan kết quả nghiên cứu khoa học trước tập thể.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục III), tr. 11; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục IV), tr. 11; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục IV.1), tr. 11
+
+### scientific report
+- **Tiếng Việt:** Báo cáo một vấn đề khoa học (bài báo cáo một vấn đề khoa học)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A standardized written document presenting scientific research findings so readers can readily look up, understand, and use the information. Its standard structure typically comprises eight sections: title, abstract, introduction, methods, results, discussion, conclusion, and references.
+- **Giải thích (VI):** Văn bản trình bày kết quả nghiên cứu khoa học theo quy chuẩn chung nhằm giúp người đọc dễ dàng tra cứu, tìm hiểu và sử dụng. Cấu trúc thông thường gồm tám phần: tiêu đề, tóm tắt, giới thiệu, phương pháp, kết quả, thảo luận, kết luận và tài liệu tham khảo.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 1 (Mục III): Quy chuẩn viết báo cáo kết quả nghiên cứu, điều tra hoặc thực hành khoa học tự nhiên.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục II), tr. 9; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục III), tr. 9; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục III), tr. 9, 10
+
 ### second
 - **Tiếng Việt:** Giây (s)
 - **Chuyên ngành gốc:** Vật lí
@@ -5633,6 +6244,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 7 (Mục II): Ứng dụng dao động cơ trong việc ghi nhận và khảo sát địa chấn.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 01, B7 (Mục I), tr. 29; SGK Vật lí 11 KNTT, Chương 01, B7 (Mục II), tr. 29; SGK Vật lí 11 KNTT, Chương 01, B7 (Mục II), tr. 29, 30
 
+### semicircular glass block
+- **Tiếng Việt:** Bản bán trụ
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A transparent semicircular glass optical component used together with a graduated disc to investigate the path of light rays in refraction and total internal reflection experiments.
+- **Giải thích (VI):** Dụng cụ quang học dạng khối thuỷ tinh trong suốt hình bán trụ, dùng kết hợp với bảng chia độ để khảo sát đường truyền của tia sáng trong thí nghiệm khúc xạ ánh sáng và phản xạ toàn phần.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 1 (Mục I.1.b): Dụng cụ thí nghiệm quang học dùng để nghiên cứu hiện tượng khúc xạ ánh sáng và phản xạ toàn phần.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1, tr. 6; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I), tr. 6; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.1.a), tr. 6
+
+### semiconductor
+- **Tiếng Việt:** Chất bán dẫn
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A material whose electrical conductivity lies between that of a conductor and an insulator, exemplified by pure silicon used in electronic components and solar cells.
+- **Giải thích (VI):** Vật liệu có khả năng dẫn điện ở mức độ trung gian giữa chất dẫn điện và chất cách điện, tiêu biểu như silicon tinh khiết dùng trong chế tạo linh kiện điện tử và pin mặt trời.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 21 (Mục II.1.a): nêu đặc điểm dẫn điện riêng của silicon khi đối chiếu tính chất vật lí giữa kim loại và phi kim.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224, 225; SGK Khoa học tự nhiên 9 KNTT, Chương 06, B21 (Mục II.1.a), tr. 101
+
 ### sensor
 - **Tiếng Việt:** Cảm biến
 - **Chuyên ngành gốc:** Vật lí
@@ -5640,6 +6267,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Thiết bị có khả năng phát hiện và thu nhận các tín hiệu, biến đổi từ môi trường xung quanh thành dữ liệu để các hệ thống thông minh như nhà thông minh hay mạng IoT tự động theo dõi và điều khiển thiết bị.
 - **Bối cảnh:** Tin học lớp 10, Bài 8 (Mục 4): Vai trò thu thập dữ liệu và kích hoạt tự động của cảm biến trong nhà thông minh và hệ thống IoT.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 02, B8 (Mục 4), tr. 43
+
+### series circuit
+- **Tiếng Việt:** Đoạn mạch nối tiếp
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An electrical circuit segment in which components are connected end-to-end so that the terminal of one component joins the starting terminal of the next, forming a single path for current flow. For $n$ resistors in series, the current is identical at every point ($I = I_1 = I_2 = \dots = I_n$) and the equivalent resistance equals the sum of the individual resistances ($R_{\text{eq}} = R_1 + R_2 + \dots + R_n$).
+- **Giải thích (VI):** Đoạn mạch điện trong đó các linh kiện được mắc liên tiếp sao cho cực cuối của linh kiện này nối với cực đầu của linh kiện tiếp theo tạo thành một đường dẫn duy nhất cho dòng điện. Trong đoạn mạch gồm $n$ điện trở mắc nối tiếp, cường độ dòng điện bằng nhau tại mọi điểm ($I = I_1 = I_2 = \dots = I_n$) và điện trở tương đương bằng tổng các điện trở thành phần ($R_{\text{tđ}} = R_1 + R_2 + \dots + R_n$).
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 12 (Mục I.1, I.2): phân tích cường độ dòng điện và tính điện trở tương đương của đoạn mạch mắc nối tiếp.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 03, B12, tr. 60; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B12 (Mục I.1), tr. 60; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B12 (Mục I.2), tr. 61
 
 ### series connection
 - **Tiếng Việt:** Mắc nối tiếp (cách mắc nối tiếp)
@@ -5664,6 +6299,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Các chữ số thể hiện độ chính xác của số liệu khi ghi kết quả đo $A = \overline{A} \pm \Delta A$, trong đó sai số tuyệt đối $\Delta A$ thường được viết đến số chữ số có nghĩa tới đơn vị của độ chia nhỏ nhất trên dụng cụ đo và giá trị trung bình $\overline{A}$ được viết đến bậc thập phân tương ứng với $\Delta A$.
 - **Bối cảnh:** Vật lí lớp 10, Bài 3 (Mục II.4): Quy định độ chính xác của các chữ số khi biểu diễn sai số tuyệt đối và giá trị trung bình.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 01, B3 (Mục II.2), tr. 18; SGK Vật lí 10 KNTT, Chương 01, B3 (Mục II.3), tr. 18; SGK Vật lí 10 KNTT, Chương 01, B3 (Mục II.4), tr. 18
+
+### Silbermann's symmetric method
+- **Tiếng Việt:** Phương pháp đối xứng (phương pháp Silbermann)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** An experimental method for measuring the focal length of a converging lens by simultaneously moving the object and the screen equal distances away from the lens until a sharp real image equal in size to the object appears on the screen (corresponding to $d = d' = 2f$). The focal length of the lens is then calculated using the formula $f = \frac{d + d'}{4}$.
+- **Giải thích (VI):** Phương pháp thực nghiệm đo tiêu cự của thấu kính hội tụ bằng cách dịch chuyển đồng thời vật và màn chắn ra xa dần thấu kính những khoảng bằng nhau cho đến khi thu được ảnh rõ nét cao bằng vật trên màn (ứng với $d = d' = 2f$). Tiêu cự của thấu kính khi đó được xác định theo công thức $f = \frac{d + d'}{4}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 9 (Mục I.2, II, III): thực hành đo tiêu cự của thấu kính hội tụ trên giá quang học đồng trục.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B9, tr. 47; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B9 (Mục I.1), tr. 47; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B9 (Mục I.2), tr. 47
 
 ### simple pendulum
 - **Tiếng Việt:** Con lắc đơn
@@ -5703,6 +6346,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Khoa học tự nhiên lớp 6, Bài 44 (Mục II): nhận biết lực ma sát khi má phanh ép vào vành bánh xe hoặc khi đẩy thùng hàng trượt trên sàn.
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B18 (Mục I), tr. 73; SGK Vật lí 10 KNTT, Chương 03, B18 (Mục II), tr. 73; SGK Vật lí 10 KNTT, Chương 03, B18 (Mục II.1), tr. 73, 74; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B44 (Mục II), tr. 158
 
+### slip ring
+- **Tiếng Việt:** Vành khuyên
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A conductive circular ring (typically made of copper) mounted coaxially and connected to an end of a rotating coil in a magnetic field, maintaining sliding contact with a stationary brush to transfer alternating current to an external circuit without twisting the wires.
+- **Giải thích (VI):** Bộ phận gồm các vòng tròn dẫn điện (thường làm bằng đồng) gắn đồng trục với hai đầu khung dây quay trong từ trường, luôn trượt tiếp xúc với hai chổi quét để dẫn dòng điện xoay chiều từ khung dây đang quay ra mạch điện bên ngoài mà không làm xoắn dây dẫn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 14 (Mục III): bộ phận tiếp điện trong mô hình máy phát điện xoay chiều có khung dây quay.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục III), tr. 70; SGK Khoa học tự nhiên 9 KNTT, Chương 04, B14 (Mục III), tr. 71
+
 ### smallest scale division
 - **Tiếng Việt:** Độ chia nhỏ nhất (ĐCNN)
 - **Chuyên ngành gốc:** Vật lí
@@ -5729,6 +6380,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hiện tượng Mặt Trời, Mặt Trăng và Trái Đất nằm thẳng hàng, trong đó Mặt Trăng ở giữa cản ánh sáng Mặt Trời chiếu xuống Trái Đất, tạo ra vùng tối và vùng tối không hoàn toàn phía sau Mặt Trăng. Trên Trái Đất, nơi nằm trong vùng tối không nhìn thấy Mặt Trời xảy ra nhật thực toàn phần, còn nơi nằm trong vùng tối không hoàn toàn nhìn thấy một phần Mặt Trời xảy ra nhật thực một phần.
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 15 (Mục III.2): vận dụng sự tạo thành vùng tối và vùng tối không hoàn toàn để giải thích hiện tượng tự nhiên.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B15 (Mục III.2), tr. 77
+
+### solar energy
+- **Tiếng Việt:** Năng lượng mặt trời
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A form of renewable energy from solar radiation that is naturally abundant and operates without generating noise, air pollutants, or greenhouse gases. It can be harnessed directly for lighting, drying, and photovoltaic power generation, or indirectly through solar thermal collectors.
+- **Giải thích (VI):** Dạng năng lượng tái tạo từ bức xạ của Mặt Trời luôn có sẵn trong thiên nhiên, khi sử dụng không gây tiếng ồn và không phát thải khí gây ô nhiễm không khí hay hiệu ứng nhà kính. Năng lượng này có thể khai thác trực tiếp để chiếu sáng, làm khô, sản xuất điện qua pin mặt trời hoặc khai thác gián tiếp qua thiết bị thu nhiệt.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 17 (Mục II.1): đánh giá ưu điểm sạch của năng lượng mặt trời cùng các hạn chế về chi phí tấm pin, hiệu suất thấp và rác thải điện tử.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17, tr. 80; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục I), tr. 81; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục II), tr. 81
 
 ### solar energy and wind energy
 - **Tiếng Việt:** Năng lượng mặt trời và năng lượng gió (năng lượng từ Mặt Trời; năng lượng mặt trời; năng lượng gió)
@@ -5881,6 +6540,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đại lượng vật lí biểu thị trọng lượng của một mét khối một chất, xác định bằng công thức $d = \dfrac{P}{V}$, trong đó $P$ là trọng lượng ($\text{N}$), $V$ là thể tích ($\text{m}^3$) và $d$ có đơn vị là $\text{N/m}^3$.
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 13 (Mục II) và Bài 17 (Mục II.2): Phân biệt với khối lượng riêng và dùng trong công thức tính độ lớn lực đẩy Archimedes.
 - **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 03, B13 (Mục II), tr. 58; SGK Khoa học tự nhiên 8 KNTT, Chương 03, B17 (Mục II.2), tr. 75
+
+### spectrum of white light
+- **Tiếng Việt:** Quang phổ của ánh sáng trắng
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The colored band ranging from red to violet obtained when a narrow beam of white light passes through an optical prism, comprising seven main adjacent color regions like a rainbow: red, orange, yellow, green, blue, indigo, and violet.
+- **Giải thích (VI):** Dải màu biến thiên từ đỏ đến tím thu được khi chiếu một chùm ánh sáng trắng hẹp đi qua lăng kính, gồm bảy vùng màu chính nằm sát cạnh nhau như cầu vồng: đỏ, da cam, vàng, lục, lam, chàm, tím.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 7 (Mục II): Kết quả thu được trên màn chắn trong thí nghiệm tán sắc ánh sáng qua lăng kính.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục I), tr. 35; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục II), tr. 35; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục II), tr. 35, 36
 
 ### specular reflection
 - **Tiếng Việt:** Phản xạ gương (phản xạ; hiện tượng phản xạ)
@@ -6453,7 +7120,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Vật lí lớp 12, Bài 22 (Mục IV): phản ứng tổng hợp hạt nhân xét theo điều kiện kích hoạt ở nhiệt độ cực cao.
   - *Lưu ý:* Nhấn mạnh cơ chế kích hoạt phản ứng tổng hợp hạt nhân bằng nhiệt độ cực cao ($10^7$ đến $10^8\text{ K}$), phân biệt với phản ứng tổng hợp hạt nhân thực hiện bằng máy gia tốc hạt.
-- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B22 (Mục IV), tr. 102; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục IV), tr. 102, 103
+- **Nguồn:** SGK Vật lí 12 KNTT, Chương 04, B22 (Mục IV), tr. 102; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục IV), tr. 102, 103; SGK Vật lí 12 KNTT, Chương 04, B22 (Mục III.2), tr. 102
+
+### thick-edged lens
+- **Tiếng Việt:** Thấu kính rìa dày
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A geometric class of lens whose peripheral edge is thicker than its central portion; when placed in air, a thick-edged lens acts as a diverging lens.
+- **Giải thích (VI):** Loại thấu kính được phân loại theo hình dạng hình học có phần rìa dày hơn phần giữa; khi đặt trong không khí, thấu kính rìa dày đóng vai trò là thấu kính phân kì.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 8 (Mục I): Phân loại thấu kính dựa theo hình dạng tiết diện để nhận biết thấu kính phân kì trong không khí.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8, tr. 40; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục I), tr. 40; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục I), tr. 40, 41
+
+### thin-edged lens
+- **Tiếng Việt:** Thấu kính rìa mỏng
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A geometric class of lens whose peripheral edge is thinner than its central portion; when placed in air, a thin-edged lens acts as a converging lens.
+- **Giải thích (VI):** Loại thấu kính được phân loại theo hình dạng hình học có phần rìa mỏng hơn phần giữa; khi đặt trong không khí, thấu kính rìa mỏng đóng vai trò là thấu kính hội tụ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 8 (Mục I): Phân loại thấu kính dựa theo hình dạng tiết diện để nhận biết thấu kính hội tụ trong không khí.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8, tr. 40; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục I), tr. 40; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục I), tr. 40, 41
 
 ### third-class lever
 - **Tiếng Việt:** Đòn bẩy loại 2 không cho lợi về lực (đòn bẩy loại 3)
@@ -6520,6 +7203,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tổng điện trở $(R + r)$ gồm điện trở tương đương của mạch ngoài $R$ và điện trở trong $r$ của nguồn điện trong một mạch điện kín.
 - **Bối cảnh:** Vật lí lớp 11, Bài 24 (Mục II.2): Đại lượng tổng điện trở trong biểu thức định luật Ôm đối với toàn mạch.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 04, B24 (Mục II.2), tr. 104; SGK Vật lí 11 KNTT, Chương 04, B24 (Mục II.2), tr. 104, 105
+
+### total internal reflection
+- **Tiếng Việt:** Phản xạ toàn phần (hiện tượng phản xạ toàn phần)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The phenomenon in which the entire incident light ray is reflected with no refracted ray, occurring at the boundary when light travels from a medium of higher refractive index to a transparent medium of lower refractive index ($n_1 > n_2$) at an angle of incidence $i \ge i_{\text{th}}$.
+- **Giải thích (VI):** Hiện tượng phản xạ toàn bộ tia sáng tới mà không còn tia khúc xạ, xảy ra tại mặt phân cách khi ánh sáng truyền từ môi trường có chiết suất lớn hơn sang môi trường trong suốt có chiết suất nhỏ hơn ($n_1 > n_2$) dưới góc tới $i \ge i_{\text{th}}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 6 (Mục II.1): Hiện tượng quang học ứng dụng trong truyền dẫn ánh sáng qua sợi quang và giải thích ảo ảnh.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B6 (Mục I), tr. 30; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B6 (Mục I), tr. 31; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B6 (Mục II.1), tr. 31
 
 ### total momentum of a system
 - **Tiếng Việt:** Động lượng toàn phần của hệ
@@ -6750,6 +7441,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 5 (Mục IV): vận dụng đo thể tích chất lỏng và vật rắn không thấm nước bằng bình chia độ và bình tràn.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5 (Mục III), tr. 19; SGK Khoa học tự nhiên 6 KNTT, Chương 01, B5 (Mục IV), tr. 19
 
+### unit of work
+- **Tiếng Việt:** Đơn vị đo công (calo; kilôcalo; BTU)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The measurement units used to quantify work and energy transfer; besides the standard SI joule ($\text{J}$), practical applications commonly use the calorie ($1\text{ cal} = 4.186\text{ J}$), kilocalorie ($1\text{ kcal} = 1,000\text{ cal} = 4,186\text{ J}$), and British thermal unit ($1\text{ BTU} = 1,055\text{ J}$).
+- **Giải thích (VI):** Hệ thống các đơn vị dùng để định lượng công và năng lượng truyền tải; ngoài đơn vị chuẩn jun ($\text{J}$), trong thực tế còn sử dụng calo ($1\text{ cal} = 4,186\text{ J}$), kilôcalo ($1\text{ kcal} = 1\,000\text{ cal} = 4\,186\text{ J}$) và đơn vị nhiệt Anh BTU ($1\text{ BTU} = 1\,055\text{ J}$).
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 9, Bài 4 (Mục I): Quy đổi các đơn vị công và năng lượng thực tế (cal, kcal, BTU) sang đơn vị chuẩn jun.
+  - *Lưu ý:* Mục từ này tổng hợp các đơn vị đo công và năng lượng thông dụng ngoài hệ SI ($\text{cal}$, $\text{kcal}$, $\text{BTU}$) cùng hệ số quy đổi sang đơn vị chuẩn jun ($\text{J}$).
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4, tr. 21; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4 (Mục I), tr. 21; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4 (Mục I), tr. 21, 22
+
 ### useful energy
 - **Tiếng Việt:** Năng lượng có ích (Năng lượng hữu ích)
 - **Chuyên ngành gốc:** Vật lí
@@ -6809,7 +7510,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An electrical component consisting of a resistor whose resistance value can be varied (for instance by moving a sliding contact), used to adjust the electric current in an experimental circuit.
 - **Giải thích (VI):** Thiết bị điện thuộc loại điện trở có giá trị điện trở thay đổi được (chẳng hạn bằng cách dịch chuyển con chạy), dùng để điều chỉnh cường độ dòng điện trong mạch điện thí nghiệm.
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 1 (Mục III.3.e) và Bài 24 (Mục I.1): Thiết bị sử dụng điện trong phòng thí nghiệm giúp thay đổi mức độ mạnh yếu của dòng điện trong mạch.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.e), tr. 10; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.e), tr. 10; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195, 196
 
 ### vector quantity
 - **Tiếng Việt:** Đại lượng vectơ
@@ -6883,13 +7584,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Vật lí lớp 11, Bài 11 (Mục II.4): Phân loại dải sóng vô tuyến truyền thẳng ứng dụng trong phát thanh và truyền hình địa phương.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 02, B11 (Mục II.3), tr. 46; SGK Vật lí 11 KNTT, Chương 02, B11 (Mục II.4), tr. 46; SGK Vật lí 11 KNTT, Chương 02, B11 (Mục II.5), tr. 46
 
+### viewing at infinity
+- **Tiếng Việt:** Ngắm chừng ở vô cực
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A mode of observing a small object through a magnifying glass by placing the object right at the principal focus ($d = f$) so that parallel emergent rays form a virtual image at infinity, corresponding to the rated angular magnification $G = \frac{25}{f}$ marked on the lens frame.
+- **Giải thích (VI):** Cách quan sát vật nhỏ qua kính lúp khi đặt vật đúng tại tiêu điểm chính ($d = f$) để chùm tia ló song song cho ảnh ảo ở xa vô cực, ứng với giá trị số bội giác $G = \frac{25}{f}$ ghi trên vành kính.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 10 (Mục II): cách ngắm chừng giúp mắt không phải điều tiết khi quan sát lâu qua kính lúp.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục I), tr. 51; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục II), tr. 51; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục III), tr. 51
+
+### viewing at the near point
+- **Tiếng Việt:** Ngắm chừng ở cực cận
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A mode of observing a small object through a magnifying glass by adjusting the position of the object or lens so that the virtual image is formed directly at the eye's near point.
+- **Giải thích (VI):** Cách quan sát vật nhỏ qua kính lúp bằng việc điều chỉnh vị trí vật hoặc kính sao cho ảnh ảo của vật hiện ra đúng tại điểm cực cận của mắt.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 10 (Mục II): phân biệt với ngắm chừng ở vô cực khi sử dụng kính lúp.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục I), tr. 51; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục II), tr. 51; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục III), tr. 51
+
 ### virtual image
 - **Tiếng Việt:** Ảnh ảo
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** An optical image that cannot be projected onto a screen, formed at the intersection of the backward dashed extensions of diverging reflected light rays. When an observer's eye intercepts the reflected beam, the virtual image is seen as if light were originating directly from that image point.
 - **Giải thích (VI):** Ảnh quang học không hứng được trên màn chắn, xác định tại giao điểm của các đường kéo dài (vẽ bằng nét đứt) của chùm tia sáng phản xạ. Khi đặt mắt hứng chùm tia phản xạ, người quan sát nhìn thấy ảnh ảo và có cảm giác như ánh sáng xuất phát từ chính điểm ảnh đó truyền tới mắt.
-- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 17 (Mục II, III.1): giải thích bản chất ảnh của điểm sáng $S$ tạo bởi gương phẳng tại giao điểm $S'$ phía sau gương.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B17 (Mục III.1), tr. 84; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B17 (Mục III.2), tr. 84, 85; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B17 (Mục III.2), tr. 85
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: An image that cannot be projected onto a screen, formed by the intersection of the extensions of emergent rays passing through a lens. A diverging lens, or a converging lens when the object distance is less than the focal length ($d < f$), produces a virtual image represented by a dashed arrow in ray diagrams. / VI: Ảnh không hứng được trên màn chắn, tạo bởi giao điểm các đường kéo dài của chùm tia ló qua thấu kính. Qua thấu kính phân kì hoặc thấu kính hội tụ khi khoảng cách từ vật đến thấu kính nhỏ hơn tiêu cự ($d < f$), vật luôn cho ảnh ảo và được biểu diễn bằng mũi tên nét đứt trên sơ đồ.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 7, Bài 17 (Mục II, III.1): giải thích bản chất ảnh của điểm sáng $S$ tạo bởi gương phẳng tại giao điểm $S'$ phía sau gương.
+  - Khoa học tự nhiên lớp 9, Bài 8 (Mục IV): phân biệt đặc điểm ảnh tạo bởi thấu kính phân kì và thấu kính hội tụ với ảnh thật.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 05, B17 (Mục III.1), tr. 84; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B17 (Mục III.2), tr. 84, 85; SGK Khoa học tự nhiên 7 KNTT, Chương 05, B17 (Mục III.2), tr. 85; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục III.2.b), tr. 43; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục IV), tr. 43; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B8 (Mục IV.2), tr. 44
 
 ### visible light
 - **Tiếng Việt:** Ánh sáng nhìn thấy
@@ -6898,6 +7618,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Một phần của thang sóng điện từ mà mắt người cảm nhận được, có quang phổ là dải màu biến thiên liên tục từ tím đến đỏ. Trong chân không, ánh sáng nhìn thấy có bước sóng nằm trong khoảng từ $0,38\ \mu\text{m}$ (ánh sáng tím) đến $0,76\ \mu\text{m}$ (ánh sáng đỏ).
 - **Bối cảnh:** Vật lí lớp 11, Bài 11 (Mục II.1): Vùng bức xạ điện từ mà mắt người nhìn thấy được trong thang sóng điện từ.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 02, B11 (Mục II), tr. 45; SGK Vật lí 11 KNTT, Chương 02, B11 (Mục II.1), tr. 45; SGK Vật lí 11 KNTT, Chương 02, B11 (Mục II.2), tr. 45
+
+### visual angle
+- **Tiếng Việt:** Góc trông vật (α)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The angle $\alpha$ subtended at the eye by light rays originating from the two extreme ends of an object, which determines the size of the object's image formed on the retina.
+- **Giải thích (VI):** Góc $\alpha$ tạo bởi hai tia sáng xuất phát từ hai điểm đầu và cuối của vật truyền tới mắt, quyết định kích thước ảnh của vật hiện trên võng mạc (màng lưới).
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 10 (Mục I): cơ sở giải thích khả năng nhìn rõ vật nhỏ và tác dụng tăng góc trông của kính lúp.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10, tr. 50; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục I), tr. 50; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B10 (Mục I), tr. 50, 51
 
 ### volt
 - **Tiếng Việt:** Vôn (V)
@@ -6931,7 +7659,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An electrical measuring instrument used to measure the electric potential difference (voltage) across two ends of a circuit segment or between the terminals of a power source. In use, the voltage must be estimated to select a suitable range and the positive and negative terminals must be connected properly.
 - **Giải thích (VI):** Dụng cụ đo điện dùng để đo hiệu điện thế giữa hai đầu đoạn mạch hoặc hai cực của nguồn điện. Khi sử dụng, cần ước lượng hiệu điện thế cần đo để chọn thang đo hợp lí và chú ý đấu đúng chốt dương, chốt âm.
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 1 (Mục III.3.c): Phân biệt chức năng và cách chọn thang đo của vôn kế với ampe kế trong thí nghiệm điện.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.c), tr. 9; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.c), tr. 9; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 196; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.b), tr. 9; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.3.d), tr. 9
 
 ### vortex electric field
 - **Tiếng Việt:** Điện trường xoáy
@@ -6969,15 +7697,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 194, 195; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B45 (Mục II), tr. 161
 
 ### watt
-- **Tiếng Việt:** Oát
+- **Tiếng Việt:** Oát (W)
 - **Chuyên ngành gốc:** Vật lí
 - **Giải thích (EN):** The SI unit of power, denoted by $\text{W}$, equal to the power of a device performing $1\text{ J}$ of work in $1\text{ s}$ ($1\text{ W} = \frac{1\text{ J}}{1\text{ s}}$). Common multiples used in engineering include the kilowatt ($1\text{ kW} = 10^3\text{ W}$) and megawatt ($1\text{ MW} = 10^6\text{ W}$).
 - **Giải thích (VI):** Đơn vị đo công suất trong hệ SI, kí hiệu là $\text{W}$, bằng công suất của một thiết bị thực hiện công $1\text{ J}$ trong thời gian $1\text{ s}$ ($1\text{ W} = \frac{1\text{ J}}{1\text{ s}}$). Trong kĩ thuật, các bội số thường dùng của oát là kilôoát ($1\text{ kW} = 10^3\text{ W}$) và mêgaoát ($1\text{ MW} = 10^6\text{ W}$).
 - **Giải thích khác (SGK Vật lí 11):** EN: The SI unit of electric power, denoted by $\text{W}$, equal to an energy consumption rate of $1\text{ J/s}$ or the power of a circuit segment carrying $1\text{ A}$ under a voltage of $1\text{ V}$ ($1\text{ W} = 1\text{ V}\cdot\text{A}$). / VI: Đơn vị đo công suất điện trong hệ SI, kí hiệu là $\text{W}$, ứng với tốc độ tiêu thụ điện năng $1\text{ J/s}$ hoặc công suất của đoạn mạch có dòng điện $1\text{ A}$ chạy qua dưới hiệu điện thế $1\text{ V}$ ($1\text{ W} = 1\text{ V}\cdot\text{A}$).
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The standard SI unit of power, symbolized as $\text{W}$, corresponding to doing $1\text{ J}$ of work in $1\text{ s}$ ($1\text{ W} = \dfrac{1\text{ J}}{1\text{ s}}$). Common decimal multiples include the kilowatt ($1\text{ kW} = 10^3\text{ W}$), megawatt ($1\text{ MW} = 10^6\text{ W}$), and gigawatt ($1\text{ GW} = 10^9\text{ W}$). / VI: Đơn vị đo công suất chuẩn trong hệ SI, kí hiệu là $\text{W}$, tương ứng với tốc độ thực hiện công $1\text{ J}$ trong thời gian $1\text{ s}$ ($1\text{ W} = \dfrac{1\text{ J}}{1\text{ s}}$). Các bội thông dụng của oát gồm kilôoát ($1\text{ kW} = 10^3\text{ W}$), mêgaoát ($1\text{ MW} = 10^6\text{ W}$) và gigaoát ($1\text{ GW} = 10^9\text{ W}$).
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The SI unit of electric power, symbolized by $\text{W}$, equal to the power of a $1\text{ A}$ current flowing across a circuit segment under a potential difference of $1\text{ V}$ ($1\text{ W} = 1\text{ V} \cdot 1\text{ A}$). / VI: Đơn vị đo công suất điện trong Hệ đơn vị quốc tế, kí hiệu là $\text{W}$, ứng với công suất của dòng điện có cường độ $1\text{ A}$ chạy qua đoạn mạch có hiệu điện thế $1\text{ V}$ giữa hai đầu ($1\text{ W} = 1\text{ V} \cdot 1\text{ A}$).
 - **Bối cảnh:**
   - Vật lí lớp 10, Bài 24 (Mục II): Đơn vị chuẩn đo công suất của các thiết bị cơ học và thiết bị điện.
   - Vật lí lớp 11, Bài 25 (Mục II): Đơn vị đo công suất của các thiết bị dùng điện trong hệ SI.
-- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B24, tr. 96; SGK Vật lí 10 KNTT, Chương 04, B24 (Mục I), tr. 96; SGK Vật lí 10 KNTT, Chương 04, B24 (Mục II), tr. 96; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục I), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107, 108
+  - Khoa học tự nhiên lớp 9, Bài 4 (Mục II): Đơn vị chuẩn dùng khi tính toán và ghi thông số công suất của các thiết bị cơ, nhiệt, điện.
+  - Khoa học tự nhiên lớp 9, Bài 13 (Mục II, III): đơn vị ghi chỉ số công suất trên nhãn các thiết bị tiêu thụ điện.
+- **Nguồn:** SGK Vật lí 10 KNTT, Chương 04, B24, tr. 96; SGK Vật lí 10 KNTT, Chương 04, B24 (Mục I), tr. 96; SGK Vật lí 10 KNTT, Chương 04, B24 (Mục II), tr. 96; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục I), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107; SGK Vật lí 11 KNTT, Chương 04, B25 (Mục II), tr. 107, 108; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4 (Mục II), tr. 23; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4 (Mục II), tr. 23, 24; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B4 (Mục II), tr. 24; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13 (Mục II), tr. 65; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13 (Mục III), tr. 65; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B13 (Mục III), tr. 65, 66
 
 ### wave
 - **Tiếng Việt:** Sóng
@@ -7010,6 +7742,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Điểm có độ cao hoặc độ sâu cực đại so với mức cân bằng trên đồ thị sóng. Khoảng cách giữa hai ngọn sóng liên tiếp bằng một bước sóng $\lambda$, và khoảng thời gian để hai ngọn sóng liên tiếp truyền qua một điểm đang xét bằng một chu kì sóng $T$.
 - **Bối cảnh:** Vật lí lớp 11, Bài 8 (Mục III): Xác định biên độ, chu kì, tần số và bước sóng trên đồ thị sóng hình sin.
 - **Nguồn:** SGK Vật lí 11 KNTT, Chương 02, B8 (Mục III), tr. 35; SGK Vật lí 11 KNTT, Chương 02, B8 (Mục III), tr. 36
+
+### wave energy
+- **Tiếng Việt:** Năng lượng từ sóng biển
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A form of renewable energy derived from the motion of sea and ocean waves, which produces no polluting waste when harnessed but requires high capital investment and depends heavily on seasons and weather conditions.
+- **Giải thích (VI):** Dạng năng lượng tái tạo có nguồn gốc từ sự chuyển động của các con sóng trên biển và đại dương, khi khai thác không tạo ra chất thải gây ô nhiễm môi trường nhưng đòi hỏi vốn đầu tư cao và phụ thuộc nhiều vào mùa, thời tiết.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 17 (Mục II.3): khảo sát ưu điểm không chất thải và những khó khăn kĩ thuật khi khai thác nguồn năng lượng tái tạo từ biển.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17, tr. 80; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục II), tr. 81; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục II.1), tr. 82
 
 ### wave frequency
 - **Tiếng Việt:** Tần số sóng
@@ -7111,6 +7851,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Vật lí lớp 10, Bài 17 (Mục I.2): tính độ lớn lực hút của Trái Đất lên vật và phân biệt với khối lượng không đổi của vật.
   - Khoa học tự nhiên lớp 6, Bài 43 (Mục II, III): phân biệt trọng lượng (độ lớn lực hút, đơn vị $\text{N}$) với khối lượng (lượng chất, đơn vị $\text{kg}$).
 - **Nguồn:** SGK Vật lí 10 KNTT, Chương 03, B17, tr. 69; SGK Vật lí 10 KNTT, Chương 03, B17 (Mục I), tr. 69; SGK Vật lí 10 KNTT, Chương 03, B17 (Mục I.1), tr. 69; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43 (Mục II), tr. 155; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43 (Mục III), tr. 155; SGK Khoa học tự nhiên 6 KNTT, Chương 08, B43 (Mục IV), tr. 155; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 195
+
+### white light
+- **Tiếng Việt:** Ánh sáng trắng (chùm sáng trắng)
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A mixture of many monochromatic lights with colors varying continuously from red to violet; when passed through an optical prism, this beam separates into a colored spectrum.
+- **Giải thích (VI):** Hỗn hợp của nhiều ánh sáng đơn sắc có màu biến thiên liên tục từ đỏ đến tím; khi truyền qua lăng kính, chùm sáng này bị phân tách thành dải màu quang phổ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 7 (Mục II, IV): Phân biệt ánh sáng hỗn hợp như ánh sáng mặt trời với ánh sáng đơn sắc.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục I), tr. 35; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục II), tr. 35; SGK Khoa học tự nhiên 9 KNTT, Chương 02, B7 (Mục II), tr. 35, 36
+
+### wind energy
+- **Tiếng Việt:** Năng lượng từ gió
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** A form of renewable energy obtained from the movement of natural air currents, commonly converted into electricity by onshore or offshore wind turbines without emitting air pollutants or greenhouse gases.
+- **Giải thích (VI):** Dạng năng lượng tái tạo thu được từ sự chuyển động của luồng không khí trong thiên nhiên, thường được chuyển hoá thành điện năng nhờ các tuabin gió trên đất liền hoặc ngoài khơi mà không phát thải chất gây ô nhiễm không khí hay khí nhà kính.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 17 (Mục II.2): phân tích tiềm năng giảm biến đổi khí hậu và các hạn chế về vốn đầu tư, tiếng ồn, nhiễu sóng và ảnh hưởng tới chim, dơi.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17, tr. 80; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục II), tr. 81; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục II.1), tr. 82
+
+### wire resistance formula
+- **Tiếng Việt:** Công thức tính điện trở của một đoạn dây dẫn
+- **Chuyên ngành gốc:** Vật lí
+- **Giải thích (EN):** The mathematical expression $R = \rho \frac{l}{S}$ relating the electrical resistance of a uniform wire segment to its geometry and material, where resistance $R$ ($\Omega$) is directly proportional to length $l$ ($\text{m}$), inversely proportional to cross-sectional area $S$ ($\text{m}^2$), and dependent on the electrical resistivity $\rho$ ($\Omega\text{m}$) of the material.
+- **Giải thích (VI):** Biểu thức toán học $R = \rho \frac{l}{S}$ xác định sự phụ thuộc của điện trở đoạn dây dẫn vào kích thước hình học và vật liệu làm dây, trong đó điện trở $R$ ($\Omega$) tỉ lệ thuận với chiều dài $l$ ($\text{m}$), tỉ lệ nghịch với tiết diện $S$ ($\text{m}^2$) và phụ thuộc vào điện trở suất $\rho$ ($\Omega\text{m}$) của chất làm dây dẫn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 11 (Mục IV): tính điện trở của dây dẫn đồng chất tiết diện đều theo chiều dài, tiết diện và bản chất vật liệu.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11 (Mục IV), tr. 57; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11 (Mục IV), tr. 57, 58; SGK Khoa học tự nhiên 9 KNTT, Chương 03, B11 (Mục IV), tr. 58
 
 ### work done by an electric force
 - **Tiếng Việt:** Công của lực điện (công của lực điện trường)

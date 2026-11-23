@@ -281,10 +281,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A heritable trait that increases an individual organism's survival and reproductive capability in a specific environment. Under natural selection, the frequencies of alleles and genotypes governing this trait gradually increase across generations, giving rise to an adapted population.
 - **Giải thích (VI):** Đặc điểm di truyền làm tăng khả năng sống sót và khả năng sinh sản của cá thể sinh vật trong một môi trường sống nhất định. Dưới tác động của chọn lọc tự nhiên, tần số allele và kiểu gene quy định đặc điểm này tăng dần qua các thế hệ, hình thành nên quần thể thích nghi.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A heritable characteristic of an organism that enhances its survival and reproductive success within a specific environment. / VI: Đặc điểm di truyền của cơ thể sinh vật giúp tăng khả năng sống sót và sinh sản của cá thể đó trong một môi trường sống đặc thù.
 - **Bối cảnh:**
   - Sinh học lớp 12, Bài 20 (Mục I.1, III) và Bài 21 (Mục II.4, III.1): Kết quả của quá trình chọn lọc tự nhiên trên các biến dị di truyền trong điều kiện môi trường xác định (Hình 20.1).
+  - Khoa học tự nhiên lớp 9, Bài 49 (Mục III): kết quả tích luỹ biến dị có lợi qua chọn lọc tự nhiên trong quần thể sinh vật.
+  - *Lưu ý:* Không nhầm với 'Thích ứng' (`adaptation (economics)`) trong Giáo dục Kinh tế và Pháp luật.
   - *Lưu ý:* Không nhầm với 'Chuyển thể' (`adaptation (literature)`) trong Ngữ văn.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B20 (Mục I.1), tr. 102; SGK Sinh học 12 KNTT, Chương 05, B20 (Mục III), tr. 105; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II.4), tr. 107; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục III.1), tr. 108
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B20 (Mục I.1), tr. 102; SGK Sinh học 12 KNTT, Chương 05, B20 (Mục III), tr. 105; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II.4), tr. 107; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục III.1), tr. 108; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225, 226; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B49 (Mục III), tr. 213
+
+### adaptive evolution
+- **Tiếng Việt:** Tiến hoá thích nghi
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The evolutionary change of a population driven by natural selection that increases the frequency of adaptive alleles and the proportion of individuals possessing traits suited to their environment across generations.
+- **Giải thích (VI):** Quá trình biến đổi của quần thể dưới tác động của chọn lọc tự nhiên làm gia tăng tần số các allele và tỉ lệ cá thể mang đặc điểm thích nghi với môi trường sống qua các thế hệ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 49 (Mục III): minh hoạ bằng sự thay đổi tỉ lệ màu sắc thân của quần thể bướm Biston betularia trên thân cây bạch dương khi môi trường bị ô nhiễm khói công nghiệp.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 14, B49 (Mục III), tr. 213
 
 ### adaptive immunity
 - **Tiếng Việt:** Miễn dịch đặc hiệu (miễn dịch thích ứng; miễn dịch thu được)
@@ -431,6 +442,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Khoa học tự nhiên lớp 8, Bài 34 (Mục I.1, I.2): Cấu tạo và chức năng của bộ phận dẫn khí trong hệ hô hấp ở người, phân biệt với cơ quan trao đổi khí là phổi.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.1), tr. 120; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.2), tr. 120; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B28 (Mục III.2), tr. 120, 121; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34, tr. 142; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.1), tr. 142; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B34 (Mục I.2), tr. 143
 
+### albinism
+- **Tiếng Việt:** Bệnh bạch tạng
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A human genetic disorder caused by an autosomal recessive gene mutation that disrupts the synthesis of UV-protective melanin pigment, resulting in pale skin, eyes, and hair.
+- **Giải thích (VI):** Bệnh di truyền ở người do đột biến gene lặn trên nhiễm sắc thể thường làm rối loạn tổng hợp sắc tố melanin bảo vệ cơ thể khỏi tia cực tím (UV), khiến người bệnh có da, mắt và tóc màu nhạt.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 47 (Mục II.3): ví dụ điển hình về bệnh di truyền do đột biến gene lặn trên nhiễm sắc thể thường ở người.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.1), tr. 202; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.2), tr. 202; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.3), tr. 202
+
 ### algae
 - **Tiếng Việt:** Tảo (rong biển)
 - **Chuyên ngành gốc:** Sinh học
@@ -456,7 +475,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Sinh học lớp 12, Bài 26 (Mục IV.1): Yếu tố tác động đến quần xã sinh vật; gồm cả loài nhập nội có giá trị kinh tế (ca cao, mắc ca) và loài xâm hại gây tiêu cực cho loài bản địa (ốc bươu vàng, trinh nữ móc).
   - Khoa học tự nhiên lớp 8, Bài 46 (Mục II): Tác nhân sinh học gây mất cân bằng tự nhiên và suy giảm đa dạng sinh học bản địa.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục IV.1), tr. 147; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục II), tr. 190
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục IV.1), tr. 147; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục II), tr. 190; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.3), tr. 190
 
 ### alimentary canal
 - **Tiếng Việt:** Ống tiêu hoá
@@ -471,16 +490,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Alternative forms of the same gene occupying a specific locus on homologous chromosomes, typically differing by one or a few nucleotide pairs. A gene may have two or more alleles that interact to determine an organism's traits.
 - **Giải thích (VI):** Các trạng thái biểu hiện khác nhau của cùng một gene nằm tại một locus xác định trên cặp nhiễm sắc thể tương đồng, thường khác nhau ở một hoặc một số cặp nucleotide. Một gene có thể có hai hay nhiều allele tương tác với nhau để quy định tính trạng của sinh vật.
-- **Bối cảnh:** Sinh học lớp 12, Bài 7 (Mục II.1), Bài 8 (Mục II.1) và Bài 9 (Mục I): Các phiên bản của một gene tại cùng locus và sự tương tác giữa các allele.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B7 (Mục II.1), tr. 38; SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.1), tr. 42; SGK Sinh học 12 KNTT, Chương 02, B9 (Mục Mở đầu), tr. 46; SGK Sinh học 12 KNTT, Bảng giải thích thuật ngữ, tr. 194
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: One of the alternative states of the same gene, where a single gene may have two, three, or multiple distinct alleles. / VI: Một trong các trạng thái biểu hiện khác nhau của cùng một gene, trong đó một gene có thể có hai, ba hoặc nhiều allele khác nhau.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 7 (Mục II.1), Bài 8 (Mục II.1) và Bài 9 (Mục I): Các phiên bản của một gene tại cùng locus và sự tương tác giữa các allele.
+  - Khoa học tự nhiên lớp 9, Bài 36 (Mục II.1, III.1): kí hiệu bằng chữ cái in hoa cho allele trội và chữ cái in thường cho allele lặn trong các sơ đồ lai.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B7 (Mục II.1), tr. 38; SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.1), tr. 42; SGK Sinh học 12 KNTT, Chương 02, B9 (Mục Mở đầu), tr. 46; SGK Sinh học 12 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục II.1), tr. 160; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục II.2), tr. 160; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.1), tr. 161
 
 ### allele frequency
 - **Tiếng Việt:** Tần số allele
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The ratio of the number of copies of a specific allele to the total number of all alleles of that gene in a population, serving as one of the two fundamental genetic characteristics of a population. For a biallelic gene, the letter p typically denotes the dominant allele frequency and q denotes the recessive allele frequency (where p + q = 1).
 - **Giải thích (VI):** Tỉ số giữa số lượng một loại allele trên tổng số tất cả các allele của gene đó trong quần thể, là một trong hai đặc trưng di truyền cơ bản của quần thể. Khi xét một gene gồm hai loại allele, chữ cái p thường dùng để chỉ tần số allele trội và q chỉ tần số allele lặn (với p + q = 1).
-- **Bối cảnh:** Sinh học lớp 12, Bài 18 (Mục I.2, II.2): Đặc trưng di truyền cơ bản dùng để xác định cấu trúc di truyền và trạng thái cân bằng của quần thể.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 04, B18 (Mục I.2), tr. 92; SGK Sinh học 12 KNTT, Chương 04, B18 (Mục II.2), tr. 93
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The ratio of the number of copies of a specific allele to the total number of all alleles of the same gene within a population. / VI: Tỉ lệ giữa số lượng bản sao của một allele xác định trên tổng số các loại allele khác nhau của cùng một gene trong quần thể.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 18 (Mục I.2, II.2): Đặc trưng di truyền cơ bản dùng để xác định cấu trúc di truyền và trạng thái cân bằng của quần thể.
+  - Khoa học tự nhiên lớp 9, Bài 50 (Mục III.1, III.3): đại lượng đặc trưng cho vốn gene của quần thể dùng để đánh giá quá trình tiến hoá nhỏ dưới tác động của các nhân tố tiến hoá.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 04, B18 (Mục I.2), tr. 92; SGK Sinh học 12 KNTT, Chương 04, B18 (Mục II.2), tr. 93; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 226; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.1), tr. 216; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3), tr. 216
 
 ### allergen
 - **Tiếng Việt:** Dị nguyên
@@ -618,8 +643,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A type of numerical chromosomal mutation involving an increase or decrease in chromosome number in one or a few chromosome pairs due to chromosomal nondisjunction during cell division, producing mutants such as trisomy (2n + 1), monosomy (2n – 1), or nullisomy (2n – 2).
 - **Giải thích (VI):** Dạng đột biến số lượng nhiễm sắc thể làm tăng hoặc giảm số lượng nhiễm sắc thể ở một hoặc một vài cặp nhiễm sắc thể do rối loạn phân li trong phân bào, tạo ra các thể đột biến như thể ba (2n + 1), thể một (2n – 1) hoặc thể không (2n – 2).
-- **Bối cảnh:** Sinh học lớp 12, Bài 12 (Mục I, III.1, IV.2, VI): Phân loại đột biến số lượng nhiễm sắc thể, các dạng lệch bội và hậu quả gây mất cân bằng gene (trong bài còn gọi là đột biến dị bội).
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B12 (Mục I), tr. 60; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục III.1.b), tr. 63; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục IV.2), tr. 64; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục VI), tr. 66
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A numerical chromosomal mutation that increases or decreases the number of chromosomes in one or several homologous pairs. It typically disrupts genomic balance, reducing viability, causing infertility, or leading to lethality in humans and animals. / VI: Dạng đột biến số lượng nhiễm sắc thể làm tăng hoặc giảm số lượng nhiễm sắc thể ở một hay một số cặp nhiễm sắc thể tương đồng. Dạng đột biến này thường gây mất cân bằng hệ gene, làm giảm sức sống, mất khả năng sinh sản hoặc gây chết ở người và động vật.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 12 (Mục I, III.1, IV.2, VI): Phân loại đột biến số lượng nhiễm sắc thể, các dạng lệch bội và hậu quả gây mất cân bằng gene (trong bài còn gọi là đột biến dị bội).
+  - Khoa học tự nhiên lớp 9, Bài 46 (Mục III.1, III.2): phân biệt với đột biến đa bội và giải thích cơ chế phát sinh hội chứng Edward ($2n + 1 = 47$), hội chứng Down ở người.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B12 (Mục I), tr. 60; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục III.1.b), tr. 63; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục IV.2), tr. 64; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục VI), tr. 66; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục III.1), tr. 199; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục III.2), tr. 199; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục III.2), tr. 199, 200
 
 ### angiosperm
 - **Tiếng Việt:** Thực vật hạt kín (Hạt kín; ngành Hạt kín)
@@ -757,8 +785,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A triplet of nucleotides located on one functional lobe of a tRNA molecule that pairs complementarily with the corresponding codon on mRNA during translation.
 - **Giải thích (VI):** Bộ ba nucleotide nằm trên một thuỳ chức năng của phân tử tRNA, liên kết theo nguyên tắc bổ sung với bộ ba mã hoá (codon) tương ứng trên mRNA trong quá trình dịch mã.
-- **Bối cảnh:** Sinh học lớp 12, Bài 2 (Mục III.2.b): Trình tự nhận diện đặc hiệu codon trên mRNA giúp đặt đúng amino acid vào chuỗi polypeptide.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.b), tr. 12; SGK Sinh học 12 KNTT, Bảng giải thích thuật ngữ, tr. 194
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A specific triplet of ribonucleotides on a tRNA molecule that pairs complementarily with a corresponding codon on mRNA during translation. / VI: Bộ ba ribonucleotide đặc hiệu nằm trên phân tử tRNA có khả năng bắt cặp bổ sung với codon tương ứng trên mRNA trong quá trình dịch mã.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 2 (Mục III.2.b): Trình tự nhận diện đặc hiệu codon trên mRNA giúp đặt đúng amino acid vào chuỗi polypeptide.
+  - Khoa học tự nhiên lớp 9, Bài 40 (Mục III): giúp tRNA nhận diện đúng codon trên mRNA tại ribosome để đặt chính xác amino acid vào chuỗi polypeptide.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.b), tr. 12; SGK Sinh học 12 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục III), tr. 175; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục III), tr. 175, 176; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục II), tr. 175
 
 ### antigen
 - **Tiếng Việt:** Kháng nguyên
@@ -806,7 +837,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Sinh học lớp 11, Bài 20 (Mục II.1, II.2.a): Phân biệt vị trí và vai trò của mô phân sinh đỉnh với mô phân sinh bên và mô phân sinh lóng.
   - Khoa học tự nhiên lớp 7, Bài 36 (Mục II): Phân biệt vị trí và vai trò làm dài thân, rễ của mô phân sinh đỉnh so với mô phân sinh bên và mô phân sinh lóng.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B20 (Mục II.1), tr. 131; SGK Sinh học 11 KNTT, Chương 03, B20 (Mục II.2.a), tr. 132; SGK Sinh học 11 KNTT, Chương 03, Sơ đồ tóm tắt kiến thức chương 3, tr. 155; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục II), tr. 149; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục II), tr. 150
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B20 (Mục II.1), tr. 131; SGK Sinh học 11 KNTT, Chương 03, B20 (Mục II.2.a), tr. 132; SGK Sinh học 11 KNTT, Chương 03, Sơ đồ tóm tắt kiến thức chương 3, tr. 155; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục II), tr. 149; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục II), tr. 150; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.1), tr. 149; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.2), tr. 149
 
 ### apoplast pathway
 - **Tiếng Việt:** Con đường gian bào
@@ -835,7 +866,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 11, Bài 29 (Mục II): Ngành nghề ứng dụng sinh học cơ thể trong sản xuất thuỷ sản ở nước ngọt, nước mặn và nước lợ.
   - Địa lí lớp 10, Bài 25 (Mục 2.c): xu hướng phát triển và phân bố hoạt động nuôi trồng thuỷ sản trên thế giới.
   - Địa lí lớp 12, Bài 12 (Mục II.2): hiện trạng phát triển và chuyển dịch phương thức nuôi trồng thuỷ sản ở Việt Nam.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 05, B29 (Mục II), tr. 185; SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 2.c), tr. 75; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục II.1.a), tr. 60; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục II.2), tr. 60, 61
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 05, B29 (Mục II), tr. 185; SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 2.c), tr. 75; SGK Địa lí 10 KNTT, Phần ba, B25, tr. 73; SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 1.a), tr. 73; SGK Địa lí 10 KNTT, Phần ba, B25 (Mục 1.b), tr. 73; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục II.1.a), tr. 60; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục II.2), tr. 60, 61; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục II.2), tr. 60; SGK Địa lí 12 KNTT, Phần 3, B12 (Mục II.2), tr. 61
 
 ### aquaporin
 - **Tiếng Việt:** Aquaporin (kênh aquaporin)
@@ -859,10 +890,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A group of unicellular prokaryotic organisms resembling bacteria while sharing certain characteristics with eukaryotes, many species of which are extremophiles.
 - **Giải thích (VI):** Nhóm sinh vật nhân sơ đơn bào giống vi khuẩn nhưng mang một số đặc điểm giống sinh vật nhân thực, trong đó nhiều loài là những sinh vật cực đoan.
 - **Giải thích khác (SGK Sinh học 10):** EN: A group of unicellular prokaryotic microorganisms that share morphological traits with bacteria while being more closely related phylogenetically to eukaryotes. Many members are extremophiles adapted to harsh environments (such as crushing deep-sea pressure or hypersalinity) or exhibit specialized nutritional modes including chemoautotrophy, photoheterotrophy, and methanogenesis. / VI: Nhóm vi sinh vật nhân sơ đơn bào mang những đặc điểm giống vi khuẩn nhưng có quan hệ họ hàng gần với sinh vật nhân thực. Nhiều đại diện thuộc nhóm này là vi sinh vật cực đoan thích nghi với điều kiện môi trường khắc nghiệt (áp suất cao dưới đáy biển, nồng độ muối cao) hoặc có kiểu dinh dưỡng đặc thù như hoá tự dưỡng, quang dị dưỡng và sinh methane.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A group of unicellular prokaryotic organisms constituting one of the two prokaryotic domains alongside Bacteria. / VI: Nhóm sinh vật đơn bào nhân sơ hợp thành một trong hai lãnh giới của sinh vật nhân sơ bên cạnh lãnh giới Vi khuẩn.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 7 (Mục II): Phân nhóm chính của sinh vật nhân sơ cùng với vi khuẩn.
   - Sinh học lớp 10, Bài 20 (Mục I, II): Một trong hai nhóm vi sinh vật nhân sơ chính bên cạnh vi khuẩn.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II), tr. 45; SGK Sinh học 10 KNTT, Bảng giải thích thuật ngữ, tr. 158; SGK Sinh học 10 KNTT, Chương 06, B20 (Mục I), tr. 117; SGK Sinh học 10 KNTT, Chương 06, B20 (Mục II), tr. 118; SGK Sinh học 10 KNTT, Chương 06, B22 (Mục II.2.d), tr. 134
+  - Khoa học tự nhiên lớp 9, Bài 51 (Mục I.2.a): Sự phân nhánh sớm của sinh vật nhân sơ trong tiến hoá sinh học.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II), tr. 45; SGK Sinh học 10 KNTT, Bảng giải thích thuật ngữ, tr. 158; SGK Sinh học 10 KNTT, Chương 06, B20 (Mục I), tr. 117; SGK Sinh học 10 KNTT, Chương 06, B20 (Mục II), tr. 118; SGK Sinh học 10 KNTT, Chương 06, B22 (Mục II.2.d), tr. 134; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224, 225; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục I.2.a), tr. 221
 
 ### arterial blood pressure
 - **Tiếng Việt:** Huyết áp động mạch
@@ -899,7 +932,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 12, Bài 28 (Mục II.2): Phân loại hệ sinh thái gắn với hoạt động sản xuất nông – lâm – ngư nghiệp và đô thị hoá của con người.
   - Khoa học tự nhiên lớp 8, Bài 44 (Mục I.3): Phân loại các hệ sinh thái do con người tạo dựng đối sánh với hệ sinh thái tự nhiên.
   - Lịch sử và Địa lí lớp 8, Bài 10 (Mục 1): Nhận diện vai trò và phạm vi mở rộng của các hệ sinh thái gắn với sản xuất ở Việt Nam.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 153; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 153, 154; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 154; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.3), tr. 181; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.3), tr. 181, 182; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 141; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 143; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 143
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 153; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 153, 154; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 154; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.3), tr. 181; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.3), tr. 181, 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.2), tr. 181; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 141; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 1), tr. 143; SGK Lịch sử và Địa lí 8 KNTT, Phần Địa lí, Chương 03, B10 (Mục 2), tr. 143
 
 ### artificial fertilization
 - **Tiếng Việt:** Thụ tinh nhân tạo
@@ -934,8 +967,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A form of selective breeding in which humans retain and propagate individuals bearing desirable variations while eliminating undesirable ones across generations. This process produces diverse varieties of domesticated animals and cultivated plants from a single ancestral form.
 - **Giải thích (VI):** Hình thức chọn lọc và nhân giống trong đó con người giữ lại các cá thể mang biến dị mong muốn và loại bỏ các biến dị không mong muốn qua các thế hệ. Quá trình này tạo nên nhiều giống vật nuôi và cây trồng khác nhau từ một dạng ban đầu.
-- **Bối cảnh:** Sinh học lớp 12, Bài 20 (Mục I.2): Thực tiễn chọn giống vật nuôi và cây trồng được Darwin quan sát làm cơ sở đề xuất học thuyết chọn lọc tự nhiên (Hình 20.2).
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B20 (Mục I.2), tr. 102, 103; SGK Sinh học 12 KNTT, Bảng giải thích thuật ngữ, tr. 194
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The process by which humans intentionally identify, retain, and breed individuals possessing desirable heritable traits from ancestral forms while culling individuals lacking those traits in order to improve crop and livestock yield and quality. / VI: Quá trình con người chủ động phát hiện, giữ lại và nhân giống những cá thể mang đặc tính di truyền tốt theo yêu cầu đề ra từ dạng ban đầu, đồng thời loại thải các cá thể thiếu đặc tính đó nhằm nâng cao năng suất và chất lượng vật nuôi, cây trồng.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 20 (Mục I.2): Thực tiễn chọn giống vật nuôi và cây trồng được Darwin quan sát làm cơ sở đề xuất học thuyết chọn lọc tự nhiên (Hình 20.2).
+  - Khoa học tự nhiên lớp 9, Bài 49 (Mục II): phân biệt với chọn lọc tự nhiên và giải thích sự đa dạng của các giống cây họ Cải từ mù tạc hoang dại hay các giống gà siêu thịt.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B20 (Mục I.2), tr. 102, 103; SGK Sinh học 12 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B49 (Mục I), tr. 212; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B49 (Mục II), tr. 212; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B49 (Mục III), tr. 213
 
 ### asexual propagation method
 - **Tiếng Việt:** Phương pháp nhân giống vô tính
@@ -1043,6 +1079,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với hiện tượng hấp phụ (adsorption) của các phân tử chất khí hoặc chất tan trên bề mặt chất rắn trong Hóa học và Vật lí.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 07, B24 (Mục II), tr. 143; SGK Sinh học 10 KNTT, Chương 07, B24 (Mục II), tr. 144
 
+### Australopithecus
+- **Tiếng Việt:** Người tối cổ (Australopithecus; người vượn phương nam)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A fossil hominin group that lived approximately 2 to 8 million years ago, walked bipedally with a slightly forward-leaning posture, and used natural tree branches, stones, and animal bone fragments for defense and attack.
+- **Giải thích (VI):** Dạng vượn người hoá thạch sống cách đây khoảng 2 đến 8 triệu năm, đi bằng hai chân với thân hơi khom về phía trước và biết sử dụng cành cây, hòn đá, mảnh xương thú có sẵn để tự vệ và tấn công.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 51 (Mục II): Giai đoạn mở đầu trong quá trình phát sinh loài người.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục II), tr. 222; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục II), tr. 222, 223; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục II), tr. 223
+
 ### autoimmune disease
 - **Tiếng Việt:** Bệnh tự miễn
 - **Chuyên ngành gốc:** Sinh học
@@ -1058,6 +1102,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Dạng đột biến đa bội làm tăng số lượng bộ nhiễm sắc thể đơn bội (n) của cùng một loài lên 3, 4, 5 lần hoặc hơn, tạo nên các thể đột biến như tam bội (3n), tứ bội (4n) hoặc ngũ bội (5n).
 - **Bối cảnh:** Sinh học lớp 12, Bài 12 (Mục III.2.b): Phân loại các dạng đột biến đa bội (ví dụ chuối trồng không hạt là thể tam bội 3n).
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B12 (Mục III.2.b), tr. 64
+
+### autosome
+- **Tiếng Việt:** NST thường (nhiễm sắc thể thường)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A type of chromosome consisting of multiple homologous pairs that are identical between males and females and contain genes governing autosomal traits.
+- **Giải thích (VI):** Loại nhiễm sắc thể gồm nhiều cặp tương đồng, giống nhau giữa giới đực và giới cái, chứa các gene quy định tính trạng thường.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 44 (Mục I): phân biệt với nhiễm sắc thể giới tính trong bộ nhiễm sắc thể lưỡng bội, ví dụ ở người có 22 cặp kí hiệu là $44\text{A}$.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B44 (Mục I), tr. 191; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B44 (Mục III), tr. 193
 
 ### autotrophic microorganism
 - **Tiếng Việt:** Vi sinh vật tự dưỡng
@@ -1223,8 +1275,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The system of ethical issues and societal standards arising from biological research and the application of biological advances to human life, including genetic privacy, human gene editing, human reproductive cloning, and the safety of genetically modified organisms.
 - **Giải thích (VI):** Hệ thống các vấn đề và chuẩn mực đạo đức xã hội nảy sinh trong nghiên cứu và ứng dụng sinh học vào đời sống con người, chẳng hạn như quyền bảo mật thông tin hệ gene, chỉnh sửa gene người, nhân bản vô tính người và tính an toàn của sinh vật biến đổi gene.
-- **Bối cảnh:** Sinh học lớp 10, Bài 1 (Mục III.3.a): Các chuẩn mực đạo đức xã hội cần tuân thủ khi nghiên cứu và ứng dụng tiến bộ sinh học.
-- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục III.3.a), tr. 10; SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục III.3), tr. 11
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A framework of principles for evaluating the benefits and risks of biotechnology so that individuals regulate their conduct, apply technologies legitimately, comply with regulations, and uphold social moral standards. / VI: Hệ thống các nguyên tắc đánh giá lợi ích và rủi ro của công nghệ sinh học giúp con người kiểm soát hành vi, ứng dụng công nghệ một cách chính đáng, tuân thủ quy định pháp luật và phù hợp với chuẩn mực đạo đức xã hội.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 1 (Mục III.3.a): Các chuẩn mực đạo đức xã hội cần tuân thủ khi nghiên cứu và ứng dụng tiến bộ sinh học.
+  - Khoa học tự nhiên lớp 9, Bài 48 (Mục IV): định hướng thái độ và hành vi đúng đắn trước các lợi ích và rủi ro tiềm ẩn của công nghệ di truyền.
+- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục III.3.a), tr. 10; SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục III.3), tr. 11; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B48 (Mục II), tr. 209; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B48 (Mục III), tr. 209; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B48 (Mục IV), tr. 209, 210
 
 ### biofilm
 - **Tiếng Việt:** Màng sinh học (Biofilm)
@@ -1274,15 +1329,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A phenomenon in a biological community in which the population size of one species is restrained within a certain level by another population and vice versa. This phenomenon provides the basis for using natural enemies to control pests and diseases in agriculture.
 - **Giải thích (VI):** Hiện tượng số lượng cá thể của một quần thể trong quần xã bị kìm hãm ở mức nhất định bởi quần thể khác và ngược lại. Hiện tượng này là cơ sở ứng dụng thiên địch để phòng trừ sinh vật gây hại hoặc dịch bệnh trong nông nghiệp.
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 46 (Mục I.2): Cơ chế điều hoà số lượng cá thể giữa các loài trong quần xã và cơ sở ứng dụng thiên địch trong nông nghiệp.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I), tr. 188; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.2), tr. 189
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I), tr. 188; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.2), tr. 189; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.3), tr. 189
 
 ### biological evolution
-- **Tiếng Việt:** Tiến hoá sinh học
+- **Tiếng Việt:** Tiến hoá sinh học (tiến hoá)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The evolutionary stage beginning once the first cells were formed, progressing from prokaryotic cells (oldest fossils about 3.5 billion years old) to unicellular eukaryotes (about 1.8 billion years ago) and subsequently to diverse multicellular organisms and humans. This process operates under the evolutionary factors and principles explained by the modern synthesis.
 - **Giải thích (VI):** Giai đoạn tiến hoá bắt đầu từ khi tế bào đầu tiên được hình thành, phát triển từ tế bào nhân sơ (cổ nhất khoảng 3,5 tỉ năm trước) sang tế bào nhân thực đơn bào (khoảng 1,8 tỉ năm trước) rồi thành các sinh vật đa bào đa dạng và loài người. Quá trình này tuân theo các nhân tố và quy luật tiến hoá được giải thích trong học thuyết tiến hoá tổng hợp hiện đại.
-- **Bối cảnh:** Sinh học lớp 12, Bài 22 (Mục II, II.3): Giai đoạn tiến hoá nối tiếp tiến hoá tiền sinh học, kéo dài từ những tế bào đầu tiên đến toàn bộ sinh giới hiện nay.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B22 (Mục II), tr. 113; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục II.3), tr. 115; SGK Sinh học 12 KNTT, Chương 05, Sơ đồ tóm tắt kiến thức chương 5, tr. 121
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The change in heritable characteristics of biological populations across successive generations over time. / VI: Sự thay đổi các đặc tính di truyền của quần thể sinh vật qua các thế hệ nối tiếp nhau theo thời gian.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 22 (Mục II, II.3): Giai đoạn tiến hoá nối tiếp tiến hoá tiền sinh học, kéo dài từ những tế bào đầu tiên đến toàn bộ sinh giới hiện nay.
+  - Khoa học tự nhiên lớp 9, Bài 49 (Mục I): khái niệm nền tảng giải thích nguồn gốc sự đa dạng của sinh giới, minh hoạ qua quá trình biến đổi xương chi ở ngựa.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B22 (Mục II), tr. 113; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục II.3), tr. 115; SGK Sinh học 12 KNTT, Chương 05, Sơ đồ tóm tắt kiến thức chương 5, tr. 121; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B49, tr. 211; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B49 (Mục I), tr. 211; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B49 (Mục I), tr. 211, 212
 
 ### biological rhythm
 - **Tiếng Việt:** Nhịp sinh học
@@ -1316,8 +1374,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Organic matter derived from living or recently living organisms (such as plants, agricultural and forestry residues, and biological organic waste).
 - **Giải thích (VI):** Tổng hợp các vật chất hữu cơ có nguồn gốc từ sinh vật sống (như thực vật, phụ phẩm nông lâm nghiệp, chất thải hữu cơ sinh học).
-- **Bối cảnh:** Hóa học lớp 11, Bài 6 (Mục I.2): Xác định nguồn vật chất hữu cơ chứa nguyên tố nitrogen sinh ra NOₓ nhiên liệu khi đốt cháy.
-- **Nguồn:** SGK Hóa học 11 KNTT, Chương 02, B6, tr. 38; SGK Hóa học 11 KNTT, Chương 02, B6 (Mục I.1), tr. 38; SGK Hóa học 11 KNTT, Chương 02, B6 (Mục I.2), tr. 38
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: Organic material derived from living organisms that can be converted into usable energy through thermal, chemical, or biochemical conversion processes as an environmentally friendly fuel source. / VI: Dạng vật liệu hữu cơ có nguồn gốc từ sinh vật sống, có thể chuyển hoá thành năng lượng thông qua ba phương thức gồm chuyển đổi nhiệt, chuyển đổi hoá học và chuyển đổi sinh hoá để làm nguồn nhiên liệu thân thiện với môi trường.
+- **Bối cảnh:**
+  - Hóa học lớp 11, Bài 6 (Mục I.2): Xác định nguồn vật chất hữu cơ chứa nguyên tố nitrogen sinh ra NOₓ nhiên liệu khi đốt cháy.
+  - Khoa học tự nhiên lớp 9, Bài 35 (Mục II.3): Nguồn nhiên liệu tái tạo giúp hạn chế khai thác và đốt cháy nhiên liệu hoá thạch.
+  - *Lưu ý:* Trong Bài 35, sinh khối chỉ nguồn vật liệu hữu cơ từ sinh vật dùng để sản xuất năng lượng, phân biệt với khái niệm tổng khối lượng sinh vật trên một đơn vị diện tích hoặc thể tích trong sinh thái học.
+- **Nguồn:** SGK Hóa học 11 KNTT, Chương 02, B6, tr. 38; SGK Hóa học 11 KNTT, Chương 02, B6 (Mục I.1), tr. 38; SGK Hóa học 11 KNTT, Chương 02, B6 (Mục I.2), tr. 38; SGK Khoa học tự nhiên 9 KNTT, Chương 10, B35 (Mục II.2), tr. 155; SGK Khoa học tự nhiên 9 KNTT, Chương 10, B35 (Mục II.3), tr. 155; SGK Khoa học tự nhiên 9 KNTT, Chương 10, B35 (Mục II.3), tr. 155, 156
 
 ### biome
 - **Tiếng Việt:** Khu sinh học (biome)
@@ -1328,7 +1390,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Sinh học lớp 12, Bài 31 (Mục I.2): Đơn vị cấu thành sinh quyển phản ánh sự phân bố của đa dạng sinh vật theo vĩ độ và điều kiện khí hậu trên Trái Đất.
   - Khoa học tự nhiên lớp 8, Bài 45 (Mục II): Phân chia các hệ sinh thái đặc trưng theo vùng địa lí và điều kiện khí hậu trong sinh quyển.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B31 (Mục I.2.a), tr. 166; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục I.2.b), tr. 167; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục II.2), tr. 171; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II), tr. 186
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B31 (Mục I.2.a), tr. 166; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục I.2.b), tr. 167; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục II.2), tr. 171; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II), tr. 186; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.1), tr. 186; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.2), tr. 186
 
 ### biomimetics
 - **Tiếng Việt:** Phỏng sinh học (bắt chước sinh học; công nghệ phỏng sinh học)
@@ -1350,6 +1412,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 5 (Mục I, II.4): Khái niệm chung về các hợp chất hữu cơ chính cấu tạo nên tế bào sống.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục I), tr. 28; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 39, 40
 
+### biosafety
+- **Tiếng Việt:** An toàn sinh học
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A system of management and control measures aimed at safeguarding the environment, biodiversity, and human and animal health during biological research and applications.
+- **Giải thích (VI):** Hệ thống các biện pháp quản lí và kiểm soát nhằm bảo đảm an toàn đối với môi trường, đa dạng sinh học cũng như sức khoẻ của con người và vật nuôi khi nghiên cứu, ứng dụng sinh học.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 48 (Mục III, IV): phát hiện tác nhân nguy hại bằng dấu vết DNA và kiểm soát rủi ro từ sinh vật biến đổi gene đối với môi trường.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224, 225; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B48 (Mục III), tr. 209
+
 ### biosphere
 - **Tiếng Việt:** Sinh quyển
 - **Chuyên ngành gốc:** Sinh học
@@ -1361,7 +1431,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 12, Bài 28 (Mục I.1) và Bài 31 (Mục I.1): Cấp độ tổ chức sống cao nhất của hành tinh, nơi biến đổi môi trường ở một khu vực đều có thể tác động đến môi trường toàn cầu.
   - Khoa học tự nhiên lớp 8, Bài 45 (Mục I): Hệ thống tự nhiên toàn cầu gắn kết sinh vật với môi trường qua trao đổi chất và chuyển hoá năng lượng.
   - Địa lí lớp 10, Bài 15 (Mục 1): Định nghĩa khái niệm, phạm vi và giới hạn của sinh quyển.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B28 (Mục I.1), tr. 152; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục I.1), tr. 165; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục I.2.a), tr. 166; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục II.2), tr. 171; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45, tr. 185; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục I), tr. 185; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.3), tr. 187; SGK Địa lí 10 KNTT, Phần hai, B15, tr. 47; SGK Địa lí 10 KNTT, Phần hai, B15 (Mục 1), tr. 47
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B28 (Mục I.1), tr. 152; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục I.1), tr. 165; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục I.2.a), tr. 166; SGK Sinh học 12 KNTT, Chương 07, B31 (Mục II.2), tr. 171; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45, tr. 185; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục I), tr. 185; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.3), tr. 187; SGK Địa lí 10 KNTT, Phần hai, B15, tr. 47; SGK Địa lí 10 KNTT, Phần hai, B15 (Mục 1), tr. 47; SGK Địa lí 10 KNTT, Phần hai, B15 (Mục 2), tr. 47
 
 ### biosynthesis
 - **Tiếng Việt:** Sinh tổng hợp (Quá trình đồng hoá; Giai đoạn tổng hợp; tổng hợp)
@@ -1951,10 +2021,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The region on a chromosome where the two sister chromatids of a duplicated chromosome are held together. It also serves as the attachment site for spindle microtubules (on one side during metaphase I of meiosis, or on both sides during mitotic metaphase and metaphase II of meiosis) to guide chromosome movement toward the cell poles.
 - **Giải thích (VI):** Vùng trên nhiễm sắc thể nơi hai chromatid chị em của nhiễm sắc thể kép đính chặt với nhau. Đây cũng là vị trí gắn kết với các vi ống của thoi phân bào (ở một phía trong kì giữa I giảm phân, hoặc cả hai phía trong kì giữa nguyên phân và kì giữa II giảm phân) giúp nhiễm sắc thể di chuyển về các cực của tế bào.
 - **Giải thích khác (SGK Sinh học 12):** EN: A specialized heterochromatic, gene-free nucleotide sequence region on a chromosome that attaches to the spindle apparatus to enable chromosome movement during cell division; its position determines telocentric, subtelocentric, or metacentric chromosome morphology. / VI: Vùng trình tự nucleotide đặc hiệu (thuộc vùng dị nhiễm sắc không chứa gene) trên nhiễm sắc thể làm vị trí gắn với thoi phân bào giúp nhiễm sắc thể di chuyển khi phân chia tế bào; vị trí tâm động quyết định hình thái nhiễm sắc thể dạng tâm mút, tâm lệch hay tâm giữa.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A constricted region on a chromosome that holds two sister chromatids together and attaches the chromosome to the spindle apparatus during cell division. Depending on whether it lies at the center, tip, or off-center position, it defines chromosome morphology and separates the short arm from the long arm. / VI: Vùng kết đặc trên nhiễm sắc thể nơi hai chromatid chị em gắn kết với nhau, đồng thời giúp nhiễm sắc thể gắn vào thoi phân bào khi tế bào phân chia. Tuỳ vị trí nằm ở giữa, đầu mút hay lệch tâm, tâm động xác định hình thái nhiễm sắc thể và giới hạn giữa cánh ngắn với cánh dài.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 16 (Mục II): Cấu trúc liên kết hai chromatid chị em và gắn với vi ống thoi phân bào trong nguyên phân và giảm phân.
   - Sinh học lớp 12, Bài 7 (Mục I, II.1): Phân loại hình thái nhiễm sắc thể ở kì giữa và cơ chế vận động của nhiễm sắc thể khi phân bào.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B16 (Mục II), tr. 99; SGK Sinh học 10 KNTT, Chương 05, B16 (Mục II.1), tr. 99; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục I.1), tr. 104; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục I.2), tr. 105; SGK Sinh học 12 KNTT, Chương 02, B7 (Mục I), tr. 36; SGK Sinh học 12 KNTT, Chương 02, B7 (Mục II.1), tr. 38
+  - Khoa học tự nhiên lớp 9, Bài 42 (Mục I.2.a): điểm mốc hình thái phân biệt nhiễm sắc thể tâm cân, tâm mút, tâm lệch và vị trí liên kết với thoi phân bào.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B16 (Mục II), tr. 99; SGK Sinh học 10 KNTT, Chương 05, B16 (Mục II.1), tr. 99; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục I.1), tr. 104; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục I.2), tr. 105; SGK Sinh học 12 KNTT, Chương 02, B7 (Mục I), tr. 36; SGK Sinh học 12 KNTT, Chương 02, B7 (Mục II.1), tr. 38; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42 (Mục I.2.a), tr. 182; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42 (Mục I.2.b), tr. 182; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224
 
 ### centrosome
 - **Tiếng Việt:** Trung thể
@@ -2019,12 +2091,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.2.c), tr. 48; SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.2.c), tr. 49; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.1), tr. 129; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.2.a), tr. 129; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục II.2.b), tr. 129
 
 ### chemical evolution
-- **Tiếng Việt:** Tiến hoá hoá học
+- **Tiếng Việt:** Tiến hoá hoá học (giai đoạn tiến hoá hoá học; tổng hợp vô sinh)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The evolutionary process by which organic compounds were formed from inorganic substances on Earth more than four billion years ago (or supplemented by organic compounds from space), initiating the origin of life.
 - **Giải thích (VI):** Quá trình tiến hoá hình thành các hợp chất hữu cơ từ các chất vô cơ trên Trái Đất cách đây hơn bốn tỉ năm (hoặc có thêm nguồn hợp chất hữu cơ đến từ vũ trụ), mở đầu cho sự phát sinh sự sống.
-- **Bối cảnh:** Sinh học lớp 12, Bài 22 (Mục II, II.1): Giai đoạn mở đầu trong ba giai đoạn phát sinh và phát triển sự sống trên Trái Đất, diễn ra trước tiến hoá tiền sinh học.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B22 (Mục II), tr. 113; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục II.1), tr. 114; SGK Sinh học 12 KNTT, Chương 05, Sơ đồ tóm tắt kiến thức chương 5, tr. 121
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The initial stage in the origin of life in which the elements C, H, O, and N in the primitive Earth's atmosphere combined into simple organic molecules (amino acids, nucleotides, carbohydrates, lipids) and subsequently formed complex organic compounds such as RNA, DNA, proteins, and phospholipids. / VI: Giai đoạn đầu của quá trình phát sinh sự sống, trong đó từ các nguyên tố C, H, O, N trong bầu khí quyển Trái Đất nguyên thuỷ tổng hợp nên các phân tử hữu cơ đơn giản (amino acid, nucleotide, carbohydrate, lipid) rồi hình thành các hợp chất hữu cơ phức tạp như RNA, DNA, protein và phospholipid.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 22 (Mục II, II.1): Giai đoạn mở đầu trong ba giai đoạn phát sinh và phát triển sự sống trên Trái Đất, diễn ra trước tiến hoá tiền sinh học.
+  - Khoa học tự nhiên lớp 9, Bài 51 (Mục I.1.a): Giai đoạn mở đầu hình thành các đại phân tử hữu cơ từ chất vô cơ trên Trái Đất nguyên thuỷ.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B22 (Mục II), tr. 113; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục II.1), tr. 114; SGK Sinh học 12 KNTT, Chương 05, Sơ đồ tóm tắt kiến thức chương 5, tr. 121; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51, tr. 219; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục I), tr. 219; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục I.1), tr. 219
 
 ### chemical synapse
 - **Tiếng Việt:** Synapse hoá học
@@ -2139,12 +2214,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.2.c), tr. 33; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 8 KNTT, Bảng giải thích thuật ngữ, tr. 195, 196; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục III.3), tr. 139
 
 ### chromatid
-- **Tiếng Việt:** Chromatid (nhiễm sắc tử chị em; chromatid chị em)
+- **Tiếng Việt:** Chromatid (nhiễm sắc tử chị em; chromatid chị em; nhiễm sắc tử)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** One of the two replicated copies making up a duplicated chromosome after S-phase replication, each containing one DNA molecule and joined to its sister copy at the centromere. Sister chromatids separate into two unduplicated chromosomes during mitotic anaphase or anaphase II of meiosis, while chromatids of homologous chromosomes may exchange segments during prophase I.
 - **Giải thích (VI):** Một trong hai bản sao cấu thành nên một nhiễm sắc thể kép sau khi nhân đôi ở pha S, mỗi bản sao chứa một phân tử DNA và đính với bản sao chị em tại tâm động. Hai chromatid chị em tách rời nhau thành hai nhiễm sắc thể đơn ở kì sau nguyên phân hoặc kì sau II giảm phân; ở kì đầu I giảm phân, các chromatid thuộc cặp nhiễm sắc thể tương đồng có thể trao đổi đoạn cho nhau.
-- **Bối cảnh:** Sinh học lớp 10, Bài 16 (Mục II): Đơn vị cấu tạo của nhiễm sắc thể kép tham gia phân li và trao đổi chéo trong nguyên phân và giảm phân.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B16 (Mục II), tr. 99; SGK Sinh học 10 KNTT, Chương 05, B16 (Mục II.1), tr. 99; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục I.1), tr. 104; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục I.2), tr. 105
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: One of the two identical copies of a replicated chromosome joined together at the centromere to form a duplicated chromosome prior to cell division. / VI: Một trong hai bản sao có cùng nguồn gốc của một nhiễm sắc thể sau khi nhân đôi, gắn kết với nhau tại tâm động tạo thành nhiễm sắc thể kép chuẩn bị cho tế bào phân chia.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 16 (Mục II): Đơn vị cấu tạo của nhiễm sắc thể kép tham gia phân li và trao đổi chéo trong nguyên phân và giảm phân.
+  - Khoa học tự nhiên lớp 9, Bài 42 (Mục I.2.a, I.2.b, Bảng giải thích thuật ngữ): tạo nên nhiễm sắc thể kép gồm hai chromatid chị em trước khi phân tách về các tế bào con.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B16 (Mục II), tr. 99; SGK Sinh học 10 KNTT, Chương 05, B16 (Mục II.1), tr. 99; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục I.1), tr. 104; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục I.2), tr. 105; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42 (Mục I.2.a), tr. 182; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224, 225
 
 ### chromatin
 - **Tiếng Việt:** Chất nhiễm sắc
@@ -2154,21 +2232,51 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 8 (Mục II.1): Thành phần chứa DNA trong nhân tế bào nhân thực.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.1), tr. 49
 
+### chromatin fiber
+- **Tiếng Việt:** Sợi nhiễm sắc
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A nucleoprotein structure formed by a single DNA molecule associated with multiple histone protein molecules, coiling through successive levels to construct a chromosome.
+- **Giải thích (VI):** Cấu trúc hình thành từ một phân tử DNA liên kết với nhiều phân tử protein histone, cuộn xoắn qua nhiều mức độ khác nhau tạo nên nhiễm sắc thể.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 42 (Mục I.2.b): giải thích cách phân tử DNA có chiều dài lớn đóng gói gọn trong nhân tế bào.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42 (Mục I.2.a), tr. 182; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42 (Mục I.2.b), tr. 182
+
 ### chromosomal mutation
 - **Tiếng Việt:** Đột biến nhiễm sắc thể (đột biến NST)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Alterations involving either the structure or the number of chromosomes of a species. Most chromosomal mutations are deleterious because they disrupt gene balance (causing various genetic syndromes in humans), although certain forms provide important raw material for selective breeding and speciation.
 - **Giải thích (VI):** Những biến đổi liên quan đến cấu trúc hoặc số lượng nhiễm sắc thể của một loài. Phần lớn đột biến nhiễm sắc thể gây hại do làm mất cân bằng gene (gây nhiều hội chứng di truyền ở người), nhưng một số dạng cung cấp nguồn nguyên liệu quan trọng cho chọn giống và quá trình hình thành loài mới.
-- **Bối cảnh:** Sinh học lớp 12, Bài 12 (Mục I, VI) và Bài 13 (Mục II.2.c, III.2): Phân loại, tác hại, vai trò tiến hóa và chẩn đoán trước sinh các đột biến nhiễm sắc thể.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B12 (Mục I), tr. 60; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục VI), tr. 66; SGK Sinh học 12 KNTT, Chương 02, B13 (Mục III.2), tr. 71
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: Alterations in the structure or number of one or more chromosomes in a cell caused by internal or external agents affecting replication, mitosis, meiosis, or fertilization. Chromosomal mutations comprise two main categories: structural mutations and numerical mutations. / VI: Những biến đổi về cấu trúc hoặc số lượng của một hay nhiều nhiễm sắc thể trong tế bào do tác nhân môi trường trong và ngoài cơ thể tác động vào quá trình nhân đôi, nguyên phân, giảm phân hoặc thụ tinh. Đột biến nhiễm sắc thể gồm hai nhóm chính là đột biến cấu trúc và đột biến số lượng nhiễm sắc thể.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 12 (Mục I, VI) và Bài 13 (Mục II.2.c, III.2): Phân loại, tác hại, vai trò tiến hóa và chẩn đoán trước sinh các đột biến nhiễm sắc thể.
+  - Khoa học tự nhiên lớp 9, Bài 46 (Mục I): khái niệm chung mở đầu trước khi phân tích các dạng đột biến cấu trúc và đột biến số lượng nhiễm sắc thể.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B12 (Mục I), tr. 60; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục VI), tr. 66; SGK Sinh học 12 KNTT, Chương 02, B13 (Mục III.2), tr. 71; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46, tr. 197; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục I), tr. 197; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục II.1), tr. 197, 198
+
+### chromosomal numerical mutation
+- **Tiếng Việt:** Đột biến số lượng NST (đột biến số lượng nhiễm sắc thể)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** Alterations that change the number of chromosomes in one, several, or all homologous chromosome pairs within a cell, comprising aneuploidy and polyploidy.
+- **Giải thích (VI):** Những biến đổi làm thay đổi số lượng nhiễm sắc thể ở một, một số hoặc tất cả các cặp nhiễm sắc thể tương đồng trong tế bào, gồm đột biến lệch bội và đột biến đa bội.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 46 (Mục III.1, III.2): phân biệt hai dạng lệch bội và đa bội cùng ứng dụng tạo giống cây trồng, vật nuôi năng suất cao.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục III.1), tr. 199; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục III.2), tr. 199; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục III.2), tr. 200
+
+### chromosomal structural mutation
+- **Tiếng Việt:** Đột biến cấu trúc NST (đột biến cấu trúc nhiễm sắc thể)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** Alterations that modify chromosome structure and rearrange genes within the genome, comprising four types: deletion, duplication, inversion, and translocation.
+- **Giải thích (VI):** Những biến đổi làm thay đổi cấu trúc của nhiễm sắc thể và sắp xếp lại các gene trong hệ gene, gồm bốn dạng là mất đoạn, lặp đoạn, đảo đoạn và chuyển đoạn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 46 (Mục II.1, II.2): phân loại các dạng biến đổi cấu trúc nhiễm sắc thể và đánh giá ý nghĩa, tác hại đối với sinh vật.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục II.1), tr. 197; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục II.1), tr. 198; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục II.2), tr. 198
 
 ### chromosome
 - **Tiếng Việt:** Nhiễm sắc thể (NST)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A genetic structure in the eukaryotic cell nucleus composed of DNA associated with histone proteins and readily stained by DNA-specific dyes. Chromosomes condense maximally at metaphase, displaying distinct morphologies (telocentric, subtelocentric, or metacentric), and function to store, preserve, and transmit genetic information across cellular and organismal generations.
 - **Giải thích (VI):** Cấu trúc mang vật chất di truyền nằm trong nhân tế bào nhân thực, cấu tạo từ phân tử DNA liên kết với protein histone và dễ bắt màu với thuốc nhuộm đặc hiệu DNA. Nhiễm sắc thể co xoắn cực đại vào kì giữa giúp quan sát rõ hình thái (tâm mút, tâm lệch, tâm giữa), có chức năng lưu giữ, bảo quản và truyền đạt thông tin di truyền qua các thế hệ tế bào và cơ thể.
-- **Bối cảnh:** Sinh học lớp 12, Bài 7 (Mục I, II): Cấu trúc siêu hiển vi qua các kì phân bào và chức năng di truyền của nhiễm sắc thể.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B7 (Mục I), tr. 36; SGK Sinh học 12 KNTT, Chương 02, B7 (Mục I), tr. 37; SGK Sinh học 12 KNTT, Chương 02, B7 (Mục II.1), tr. 38
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A gene-carrying structure within the cell nucleus composed of DNA and histone proteins that stains darkly with basic dyes and changes shape during cell division. / VI: Cấu trúc mang gene nằm trong nhân tế bào, cấu tạo từ DNA và protein histone, bắt màu đậm với thuốc nhuộm kiềm tính và biến đổi hình dạng trong quá trình tế bào phân chia.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 7 (Mục I, II): Cấu trúc siêu hiển vi qua các kì phân bào và chức năng di truyền của nhiễm sắc thể.
+  - Khoa học tự nhiên lớp 9, Bài 42 (Mục I.1, I.2): quan sát rõ hình dạng đặc trưng ở kì giữa phân bào khi đóng xoắn cực đại, là cấu trúc lưu giữ và truyền đạt thông tin di truyền.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B7 (Mục I), tr. 36; SGK Sinh học 12 KNTT, Chương 02, B7 (Mục I), tr. 37; SGK Sinh học 12 KNTT, Chương 02, B7 (Mục II.1), tr. 38; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42, tr. 181; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42 (Mục I.1), tr. 181; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42 (Mục I.2.a), tr. 182
 
 ### chyle
 - **Tiếng Việt:** Nhũ chấp
@@ -2224,6 +2332,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Thực phẩm tươi ngon, đảm bảo vệ sinh an toàn cho người sử dụng và tránh được các tác nhân sinh học, hoá học, vật lí gây hại trong thức ăn, giúp cơ thể khoẻ mạnh và phòng ngừa bệnh tật.
 - **Bối cảnh:** Sinh học lớp 11, Bài 8 (Mục II.1.b, II.3): Yêu cầu về vệ sinh an toàn thực phẩm để phòng tránh các bệnh đường tiêu hoá.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B8 (Mục II.1.b), tr. 51; SGK Sinh học 11 KNTT, Chương 01, B8 (Mục II.3), tr. 52
+
+### cleft lip and palate
+- **Tiếng Việt:** Tật hở khe môi, hàm
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A morphological hereditary defect of the lip and palate in children caused predominantly by gene mutations, impairing feeding, speech articulation, and dental health.
+- **Giải thích (VI):** Tật di truyền về hình thái vùng môi và vòm hàm ở trẻ em phần lớn do đột biến gene gây ra, làm ảnh hưởng đến khả năng ăn uống, phát âm và sức khoẻ răng miệng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 47 (Mục II.4): ví dụ về tật di truyền ở người có thể được khắc phục và tạo hình thẩm mĩ bằng phẫu thuật.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.4), tr. 203; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục III), tr. 203; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục III), tr. 203, 204
 
 ### closed circulatory system
 - **Tiếng Việt:** Hệ tuần hoàn kín
@@ -2290,12 +2406,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B9 (Mục I.2), tr. 47; SGK Sinh học 12 KNTT, Chương 02, B9 (Mục II.2), tr. 49
 
 ### codon
-- **Tiếng Việt:** Codon (đơn vị mã di truyền)
+- **Tiếng Việt:** Codon (đơn vị mã di truyền; mã bộ ba)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A triplet of consecutive nucleotides on an mRNA molecule read in the 5'→3' direction, functioning as a single unit of the genetic code that specifies an amino acid or signals translation termination.
 - **Giải thích (VI):** Một bộ ba nucleotide liền kề trên phân tử mRNA đọc theo chiều 5'→3', đóng vai trò là một đơn vị mã di truyền quy định một amino acid xác định hoặc mang tín hiệu kết thúc dịch mã.
-- **Bối cảnh:** Sinh học lớp 12, Bài 2 (Mục III.2.b, III.4.a): Đơn vị cấu thành bảng mã di truyền trên mRNA, bắt đôi bổ sung với anticodon trên tRNA khi dịch mã.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.b), tr. 12; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.a), tr. 14
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A sequence of three adjacent ribonucleotides on an mRNA molecule that encodes a specific amino acid in a polypeptide chain or signals termination of protein synthesis. Out of 64 codons formed from A, U, G, and C, 61 specify the 20 types of amino acids and 3 serve as stop codons. / VI: Một bộ ba ribonucleotide liền kề trên phân tử mRNA quy định một amino acid xác định trên chuỗi polypeptide hoặc mang tín hiệu kết thúc tổng hợp protein. Trong tổng số 64 codon hình thành từ bốn loại ribonucleotide (A, U, G, C), có 61 codon quy định 20 loại amino acid và 3 codon kết thúc.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 2 (Mục III.2.b, III.4.a): Đơn vị cấu thành bảng mã di truyền trên mRNA, bắt đôi bổ sung với anticodon trên tRNA khi dịch mã.
+  - Khoa học tự nhiên lớp 9, Bài 40 (Mục I): đơn vị mã sao trên mRNA được đọc tại ribosome, phân biệt với bộ ba đối mã trên phân tử tRNA.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.b), tr. 12; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.a), tr. 14; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40, tr. 173; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục I), tr. 173; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục I), tr. 173, 174
 
 ### cofactor
 - **Tiếng Việt:** Cofactor
@@ -2347,6 +2466,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 26 (Mục II.2b): ứng dụng ảnh hưởng của nhiệt độ đến hô hấp tế bào trong bảo quản thực phẩm, rau, củ, quả.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 07, B26 (Mục II.b), tr. 115; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B26 (Mục II.c), tr. 115
 
+### combinational variation
+- **Tiếng Việt:** Biến dị tổ hợp
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** Heritable variations of chromosome combinations in zygotes and offspring resulting from the production of genetically diverse gametes in meiosis combined with the random fusion of male and female gametes during fertilization.
+- **Giải thích (VI):** Các kiểu tổ hợp nhiễm sắc thể mới xuất hiện ở hợp tử và đời con do giảm phân tạo ra các giao tử mang tổ hợp nhiễm sắc thể khác nhau kết hợp với sự thụ tinh ngẫu nhiên giữa giao tử đực và giao tử cái.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 43 (Mục II.2, IV): giải thích sự xuất hiện đa dạng kiểu gene, kiểu hình ở các loài sinh sản hữu tính và ứng dụng trong lai tạo giống.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B43 (Mục II.2), tr. 188; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B43 (Mục IV), tr. 190; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B43 (Mục II.1), tr. 188
+
 ### commercial cross
 - **Tiếng Việt:** Phép lai kinh tế
 - **Chuyên ngành gốc:** Sinh học
@@ -2376,7 +2503,9 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A fundamental level of biological organization formed by populations of multiple different species coexisting within a defined geographic area at the same time.
 - **Giải thích (VI):** Cấp độ tổ chức sống cơ bản gồm các quần thể của nhiều loài khác nhau cùng tồn tại trong một khu vực địa lí nhất định ở cùng một thời điểm.
-- **Bối cảnh:** Sinh học lớp 10, Bài 3 (Mục I.1, I.2): Cấp độ tổ chức sống cơ bản trên cấp quần thể và dưới cấp hệ sinh thái.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 3 (Mục I.1, I.2): Cấp độ tổ chức sống cơ bản trên cấp quần thể và dưới cấp hệ sinh thái.
+  - *Lưu ý:* Không nhầm với 'Cộng đồng' (`community (economics)`) trong Giáo dục Kinh tế và Pháp luật.
 - **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.1), tr. 18; SGK Sinh học 10 KNTT, Phần Mở đầu, B3 (Mục I.2), tr. 18, 19
 
 ### community diversity
@@ -2422,10 +2551,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The specific hydrogen-bonding rule between nitrogenous bases across two polynucleotide strands or between folded regions of a single RNA strand, whereby A pairs with T (in DNA) or U (in RNA) via two hydrogen bonds and G pairs with C via three hydrogen bonds. This mechanism stabilizes nucleic acid structure and ensures accurate DNA replication and genetic information transfer.
 - **Giải thích (VI):** Quy tắc bắt đôi đặc hiệu bằng liên kết hydrogen giữa các nitrogenous base trên hai mạch polynucleotide hoặc giữa các vùng trên cùng một mạch RNA, trong đó A liên kết với T (ở DNA) hoặc U (ở RNA) bằng 2 liên kết hydrogen và G liên kết với C bằng 3 liên kết hydrogen. Cơ chế này giúp duy trì cấu trúc bền vững của nucleic acid và bảo đảm việc nhân đôi, truyền đạt thông tin di truyền chính xác.
 - **Giải thích khác (SGK Sinh học 12):** EN: The specific pairing rule between nucleotides on two nucleic acid strands (A pairing with T or U, and G pairing with C). This principle ensures accurate copying of genetic information during DNA replication and faithful transmission from DNA through mRNA to protein during transcription and translation. / VI: Quy tắc bắt đôi đặc hiệu giữa các nucleotide trên hai mạch nucleic acid (A liên kết với T hoặc U, G liên kết với C). Nguyên tắc này bảo đảm thông tin di truyền được sao chép chính xác khi tái bản DNA và truyền đạt trung thực từ DNA qua mRNA tới protein trong phiên mã, dịch mã.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The specific pairing rule via hydrogen bonds between nucleotides, in which adenine (A) pairs with thymine (T) in DNA or uracil (U) in RNA, and guanine (G) pairs with cytosine (C). / VI: Quy tắc bắt cặp đặc hiệu bằng liên kết hydrogen giữa các nucleotide, trong đó A liên kết với T (ở DNA) hoặc với U (ở RNA), còn G liên kết với C và ngược lại.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 5 (Mục II.4.a, II.4.b): Cơ chế liên kết giữa các base trong cấu trúc xoắn kép DNA, nhân đôi DNA và cấu trúc không gian của tRNA.
   - Sinh học lớp 12, Bài 1 (Mục I, II.2) và Bài 2 (Mục III): Cơ sở phân tử của tái bản DNA (A–T, G–C), phiên mã và dịch mã (A–U, T–A, G–C).
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.a), tr. 36, 37; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.a), tr. 37; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 38; SGK Sinh học 12 KNTT, Chương 01, B1 (Mục I), tr. 5; SGK Sinh học 12 KNTT, Chương 01, B1 (Mục II.2), tr. 7; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.1), tr. 11; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4), tr. 16
+  - Khoa học tự nhiên lớp 9, Bài 38 (Mục II.1, III.2) và Bài 39 (Mục I, II): cơ sở duy trì cấu trúc không gian của DNA, tRNA, rRNA và đảm bảo độ chính xác khi tái bản DNA, phiên mã, dịch mã.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.a), tr. 36, 37; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.a), tr. 37; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 38; SGK Sinh học 12 KNTT, Chương 01, B1 (Mục I), tr. 5; SGK Sinh học 12 KNTT, Chương 01, B1 (Mục II.2), tr. 7; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.1), tr. 11; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4), tr. 16; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục II.1), tr. 167; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục III.2), tr. 169; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục II.2), tr. 167; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục II.3), tr. 167
 
 ### complete metamorphosis
 - **Tiếng Việt:** Phát triển qua biến thái hoàn toàn (biến thái hoàn toàn)
@@ -2461,6 +2592,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Thuật ngữ thực vật học chỉ cơ quan sinh sản của thực vật hạt trần (strobilus/cone), phân biệt với khối hình nón trong hình học.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 118; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 118, 119; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B34 (Mục II.2), tr. 119
 
+### congenital deaf-mutism
+- **Tiếng Việt:** Bệnh câm điếc bẩm sinh
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A genetic disorder in which infants are born deaf and consequently unable to hear or speak. Over 75% of cases result from recessive gene mutations located predominantly on autosomes or on the X sex chromosome.
+- **Giải thích (VI):** Bệnh di truyền khiến trẻ bị điếc từ khi mới sinh nên mất khả năng nghe và nói. Trên 75% trường hợp mắc bệnh phát sinh do đột biến gene lặn nằm trên nhiễm sắc thể thường (chiếm phần lớn) hoặc trên nhiễm sắc thể giới tính X.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 47 (Mục II.3): ví dụ điển hình về bệnh di truyền ở người do đột biến gene lặn gây rối loạn chức năng thính giác và ngôn ngữ.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.1), tr. 202; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.2), tr. 202; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.3), tr. 202
+
 ### conjunctivitis
 - **Tiếng Việt:** Bệnh đau mắt đỏ
 - **Chuyên ngành gốc:** Sinh học
@@ -2468,6 +2607,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bệnh nhiễm trùng mắt do virus Adeno, vi khuẩn Staphylococcus,... gây nên, biểu hiện qua các triệu chứng đỏ mắt, chảy nước mắt, có nhiều ghèn (dử) mắt và cộm mắt.
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 37 (Mục II.1c): Bệnh viêm nhiễm phổ biến ở mắt có khả năng lây lan và cách giữ vệ sinh phòng tránh.
 - **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.a), tr. 154; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.b), tr. 154; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B37 (Mục II.1.c), tr. 154
+
+### consanguineous marriage
+- **Tiếng Việt:** Kết hôn gần huyết thống (kết hôn gần; kết hôn cận huyết; hôn nhân cận huyết)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** Marriage between closely related individuals (such as within three generations of kinship), which markedly increases the frequency of homozygous deleterious recessive mutations in offspring compared with natural populations (roughly 20–30% infant mortality or congenital genetic disorders versus 3–4% naturally).
+- **Giải thích (VI):** Việc kết hôn giữa những người có quan hệ họ hàng thân thuộc (như trong phạm vi ba đời), làm tăng đáng kể tần số tổ hợp đồng hợp tử về các đột biến lặn có hại ở đời con so với quần thể tự nhiên (khoảng 20–30% con cháu bị chết non hoặc mắc bệnh, tật di truyền bẩm sinh so với mức 3–4% tự nhiên).
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 47 (Mục IV.1, IV.2): cơ sở di truyền học giải thích quy định của Luật Hôn nhân và Gia đình cấm kết hôn giữa những người có họ trong phạm vi ba đời.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục III), tr. 204; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục IV.1), tr. 204; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục IV.2), tr. 204
 
 ### consumer
 - **Tiếng Việt:** Sinh vật tiêu thụ
@@ -2520,6 +2667,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại không bào chuyên hoá ở một số loài động vật nguyên sinh (như trùng giày), hoạt động như chiếc bơm đẩy lượng nước dư thừa ra khỏi tế bào khi tế bào hấp thụ quá nhiều nước.
 - **Bối cảnh:** Sinh học lớp 10, Bài 8 (Mục II.6): Không bào điều hoà lượng nước ở động vật nguyên sinh.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.6), tr. 51; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.6), tr. 51, 52
+
+### contrasting traits
+- **Tiếng Việt:** Tính trạng tương phản
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** Two opposing phenotypic states of the same kind of trait in an organism.
+- **Giải thích (VI):** Hai trạng thái biểu hiện trái ngược nhau của cùng một loại tính trạng ở cơ thể sinh vật.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 36 (Mục II.1, III.1): mô tả các cặp trạng thái biểu hiện đối lập ở đậu hà lan trong thí nghiệm lai của Mendel như hoa tím – hoa trắng, hạt vàng – hạt xanh, thân cao – thân thấp.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục II.1), tr. 159; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục II.1), tr. 160; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.1), tr. 161; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục II.2), tr. 160
 
 ### control center
 - **Tiếng Việt:** Bộ phận điều khiển
@@ -2616,6 +2771,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Mức nồng độ CO₂ mà tại đó cường độ quang hợp đạt cực đại và không tiếp tục tăng lên nếu nồng độ CO₂ tăng thêm (ở cây trồng thường dao động khoảng 0,06–0,1%).
 - **Bối cảnh:** Sinh học lớp 11, Bài 4 (Mục III.2): Ngưỡng nồng độ CO₂ cho cường độ quang hợp cực đại ở cây trồng.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B4 (Mục III.2), tr. 31
+
+### cri-du-chat syndrome
+- **Tiếng Việt:** Hội chứng cri-du-chat (hội chứng mèo kêu)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A human genetic syndrome caused by a deletion on the short arm of chromosome 5, characterized by a cat-like cry in affected infants and frequent mortality within the first year after birth.
+- **Giải thích (VI):** Hội chứng di truyền ở người phát sinh do đột biến mất một đoạn trên cánh ngắn của nhiễm sắc thể số 5, khiến trẻ mắc bệnh có tiếng khóc giống tiếng mèo kêu và thường tử vong trong năm đầu đời sau sinh.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 46 (Mục II.2): ví dụ minh hoạ tác hại gây mất cân bằng hệ gene của đột biến mất đoạn nhiễm sắc thể ở người.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục II.1), tr. 198; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục II.2), tr. 198
+
+### CRISPR-Cas9 gene editing
+- **Tiếng Việt:** Công nghệ CRISPR/Cas9 (CRISPR/Cas9)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A genome-editing technology acting as molecular scissors that enables precise modification of gene sequences at specific locations on DNA directly within living cells without requiring traditional bacterial or viral gene-transfer vectors.
+- **Giải thích (VI):** Công nghệ chỉnh sửa hệ gene đóng vai trò như chiếc kéo phân tử cho phép thay đổi trình tự gene ở vị trí rất chính xác trên DNA trực tiếp trong tế bào sinh vật mà không cần dùng thể truyền chuyển gene truyền thống có nguồn gốc từ vi khuẩn hoặc virus.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 48 (Mục mở rộng): giới thiệu công nghệ chỉnh sửa gene hiện đại có triển vọng lớn trong chọn giống và điều trị bệnh di truyền, ung thư.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 13, B48 (Mục IV), tr. 210
 
 ### cristae
 - **Tiếng Việt:** Mào (cristae)
@@ -2812,6 +2983,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong sinh học và dinh dưỡng học, khẩu phần ăn chỉ định mức thức ăn hằng ngày của một cá thể, phân biệt với khẩu phần cấp phát hậu cần trong ngữ cảnh quân sự hoặc cứu trợ.
 - **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục IV), tr. 131; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục IV), tr. 131, 132; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B32 (Mục IV), tr. 132
 
+### Darwinism
+- **Tiếng Việt:** Quan điểm tiến hoá của Darwin
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An evolutionary theory identifying the mechanism of evolution as the transgenerational accumulation of advantageous individual variations and elimination of deleterious ones through natural selection, leading to adaptive traits and new species from a common ancestor.
+- **Giải thích (VI):** Học thuyết tiến hoá xác định cơ chế tiến hoá là quá trình tích luỹ các biến dị cá thể có lợi và đào thải các biến dị bất lợi dưới tác động của chọn lọc tự nhiên qua nhiều thế hệ, dẫn đến hình thành các đặc điểm thích nghi và các loài mới từ một loài tổ tiên chung.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 50 (Mục II, III.4): nền tảng khoa học giải thích sự hình thành đặc điểm thích nghi (như cổ dài ở hươu cao cổ) và nguồn gốc chung của các loài.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục II), tr. 215, 216; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.4), tr. 218
+
 ### day-neutral plant
 - **Tiếng Việt:** Thực vật trung tính
 - **Chuyên ngành gốc:** Sinh học
@@ -2837,7 +3016,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Sinh học lớp 12, Bài 26 (Mục II.4) và Bài 27 (Mục II.2, III): Một trong ba nhóm chức năng cấu thành cấu trúc dinh dưỡng của quần xã sinh vật.
   - Khoa học tự nhiên lớp 8, Bài 44 (Mục I.2): Nhóm sinh vật hữu sinh khép kín vòng tuần hoàn vật chất trong hệ sinh thái.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.4), tr. 144; SGK Sinh học 12 KNTT, Chương 07, B27 (Mục II.2), tr. 150; SGK Sinh học 12 KNTT, Chương 07, B27 (Mục III), tr. 151; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.2), tr. 180; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.2), tr. 181
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.4), tr. 144; SGK Sinh học 12 KNTT, Chương 07, B27 (Mục II.2), tr. 150; SGK Sinh học 12 KNTT, Chương 07, B27 (Mục III), tr. 151; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.2), tr. 180; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.2), tr. 181; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44, tr. 180; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.1), tr. 180
 
 ### deductive reasoning
 - **Tiếng Việt:** Diễn giải (suy luận diễn giải)
@@ -2917,7 +3096,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 11, Bài 19 (Mục I.1, II): Khái niệm tổng quát về sự phát triển cá thể và ba quá trình cấu thành ở thực vật, động vật.
   - Khoa học tự nhiên lớp 7, Bài 36 (Mục I.1, I.2): Nhận diện các dấu hiệu biến đổi hình thái, phân hoá cơ quan trong vòng đời thực vật, động vật và phân biệt với sinh trưởng.
   - *Lưu ý:* Chỉ quá trình biến đổi tổng hợp trong vòng đời cơ thể sinh vật, phân biệt với phát triển kinh tế - xã hội hoặc phát triển phần mềm.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B19 (Mục I.1), tr. 125; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục II), tr. 126; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục III.2), tr. 128; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.1), tr. 148, 149; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.2), tr. 149
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B19 (Mục I.1), tr. 125; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục II), tr. 126; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục III.2), tr. 128; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.1), tr. 148, 149; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.2), tr. 149; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36, tr. 148; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.1), tr. 148
 
 ### diabetes mellitus
 - **Tiếng Việt:** Đái tháo đường (tiểu đường; đái đường)
@@ -3012,6 +3191,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 11 (Mục II.1, III.2): Dụng cụ thực hành đo huyết áp và nhịp tim ở người.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B11 (Mục II.1), tr. 69; SGK Sinh học 11 KNTT, Chương 01, B11 (Mục III.2), tr. 69; SGK Sinh học 11 KNTT, Chương 01, B11 (Mục III.2), tr. 70
 
+### diploid chromosome set
+- **Tiếng Việt:** Bộ NST lưỡng bội (bộ nhiễm sắc thể lưỡng bội)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A chromosome set consisting of homologous chromosome pairs in somatic cells, denoted as $2n$ and characteristic of each species in chromosome number, shape, and structure.
+- **Giải thích (VI):** Bộ nhiễm sắc thể gồm các cặp nhiễm sắc thể tương đồng trong tế bào sinh dưỡng, kí hiệu là $2n$ và đặc trưng cho mỗi loài về số lượng, hình dạng, cấu trúc.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 42 (Mục II.1, II.2): phân biệt với bộ nhiễm sắc thể đơn bội ($n$) ở giao tử, ví dụ ở người $2n = 46$, ruồi giấm $2n = 8$, đậu hà lan $2n = 14$.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42 (Mục II.1), tr. 183; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42 (Mục II.2), tr. 183; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42 (Mục III.3), tr. 185
+
 ### direct development
 - **Tiếng Việt:** Phát triển không qua biến thái
 - **Chuyên ngành gốc:** Sinh học
@@ -3067,8 +3254,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Deoxyribonucleic acid, a nucleic acid typically composed of two antiparallel polynucleotide chains (3'–5' and 5'–3') coiled into a double helix and held together by complementary hydrogen bonds among four types of deoxyribose-containing nucleotides with bases A, T, G, and C (though some viral DNAs are single-stranded). It functions to carry, preserve, and transmit genetic information within cells and across cell generations.
 - **Giải thích (VI):** Loại nucleic acid (deoxyribonucleic acid) thường gồm hai chuỗi polynucleotide xoắn kép song song, ngược chiều (3'–5' và 5'–3'), liên kết với nhau bằng các liên kết hydrogen theo nguyên tắc bổ sung giữa bốn loại nucleotide chứa đường deoxyribose và các base A, T, G, C (một số virus có DNA mạch đơn). Phân tử này đảm nhận chức năng mang, bảo quản và truyền đạt thông tin di truyền trong tế bào và qua các thế hệ tế bào.
-- **Bối cảnh:** Sinh học lớp 10, Bài 5 (Mục II.4.a): Cấu trúc xoắn kép và chức năng di truyền của phân tử DNA.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.a), tr. 36; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.a), tr. 36, 37; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.a), tr. 37
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A double-stranded helical nucleic acid built from four types of nucleotide monomers (A, T, G, and C), in which two antiparallel polynucleotide strands are held together by hydrogen bonds through complementary base pairing. It stores, preserves, and transmits genetic information across generations of cells and organisms. / VI: Đại phân tử nucleic acid có cấu trúc xoắn kép cấu tạo từ bốn loại đơn phân nucleotide (A, T, G, C), gồm hai mạch polynucleotide song song, ngược chiều liên kết với nhau bằng liên kết hydrogen theo nguyên tắc bổ sung. Phân tử này thực hiện chức năng lưu giữ, bảo quản và truyền đạt thông tin di truyền qua các thế hệ tế bào và cơ thể.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 5 (Mục II.4.a): Cấu trúc xoắn kép và chức năng di truyền của phân tử DNA.
+  - Khoa học tự nhiên lớp 9, Bài 38 (Mục I, II.1, II.2): khảo sát mô hình xoắn kép Watson – Crick (đường kính 20 Å, mỗi chu kì xoắn dài 34 Å gồm 10 cặp nucleotide) và chức năng của vật chất di truyền.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.a), tr. 36; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.a), tr. 36, 37; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.a), tr. 37; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục I), tr. 166; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục II.1), tr. 167; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục II.2), tr. 167; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục III.2), tr. 169; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38, tr. 166; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục II.1), tr. 166
+
+### DNA analysis
+- **Tiếng Việt:** Phân tích DNA
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A method of examining and comparing DNA data from biological samples such as hair roots, blood, oral mucosa cells, or bones based on individual-specific nucleotide sequences. It is applied in kinship testing, forensics, genetic disease prediction, medical treatment, and phylogenetic research.
+- **Giải thích (VI):** Phương pháp thu thập, so sánh và đối chiếu dữ liệu DNA từ các mẫu sinh phẩm như chân tóc, máu, tế bào niêm mạc miệng hoặc xương dựa trên tính đặc trưng cá thể của trình tự nucleotide. Phương pháp này ứng dụng trong xác định quan hệ huyết thống, truy tìm tội phạm, dự đoán bệnh di truyền, điều trị y tế và nghiên cứu phát sinh chủng loại.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 38 (Mục II.4): ứng dụng thực tiễn dựa trên tính đa dạng và đặc trưng cá thể của trình tự nucleotide trên DNA.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục II.4), tr. 168; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục II.3), tr. 168; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục III.1), tr. 168
 
 ### DNA fingerprinting
 - **Tiếng Việt:** Dấu vân tay DNA
@@ -3098,12 +3296,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B6 (Mục II.2), tr. 32; SGK Sinh học 12 KNTT, Chương 01, B6 (Mục III.1), tr. 33
 
 ### DNA replication
-- **Tiếng Việt:** Tái bản DNA
+- **Tiếng Việt:** Tái bản DNA (Quá trình tái bản DNA; tự nhân đôi DNA)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The process of duplicating a DNA molecule based on complementary base pairing (A–T, G–C) and semi-conservative replication, proceeding through initiation at the origin of replication (Ori) and synthesis of new strands in the 5'→3' direction. It produces two identical daughter DNA molecules from one parental DNA molecule, ensuring the faithful transmission of genetic information across generations of cells and organisms.
 - **Giải thích (VI):** Quá trình nhân đôi phân tử DNA dựa trên nguyên tắc bổ sung (A–T, G–C) và nguyên tắc bán bảo toàn, diễn ra qua giai đoạn khởi đầu sao chép tại Ori và giai đoạn tổng hợp mạch mới theo chiều 5'→3'. Quá trình này tạo ra hai phân tử DNA con giống hệt phân tử DNA mẹ, đảm bảo thông tin di truyền được truyền đạt nguyên vẹn qua các thế hệ tế bào và cơ thể.
-- **Bối cảnh:** Sinh học lớp 12, Bài 1 (Mục II): Cơ chế nhân đôi vật chất di truyền ở cấp độ phân tử trong tế bào và ứng dụng nhân bản DNA trong ống nghiệm.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B1 (Mục I), tr. 5; SGK Sinh học 12 KNTT, Chương 01, B1 (Mục II), tr. 6; SGK Sinh học 12 KNTT, Chương 01, B1 (Mục II.2), tr. 7; SGK Sinh học 12 KNTT, Chương 01, B1 (Mục II.2), tr. 8
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The biological process occurring before cell division across three stages in which a DNA molecule unwinds and uses each single strand as a template to assemble free nucleotides by complementary base pairing, producing two identical daughter DNA molecules that match the parent DNA. / VI: Quá trình sinh học diễn ra trước khi tế bào phân chia gồm ba giai đoạn, trong đó phân tử DNA tháo xoắn tách mạch và dùng mỗi mạch đơn làm khuôn liên kết các nucleotide tự do theo nguyên tắc bổ sung, tạo ra hai phân tử DNA mới giống nhau và giống phân tử DNA ban đầu.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 1 (Mục II): Cơ chế nhân đôi vật chất di truyền ở cấp độ phân tử trong tế bào và ứng dụng nhân bản DNA trong ống nghiệm.
+  - Khoa học tự nhiên lớp 9, Bài 39 (Mục I): diễn ra trong nhân tế bào nhân thực hoặc vùng nhân tế bào nhân sơ, đảm bảo truyền đạt ổn định thông tin di truyền qua các thế hệ tế bào.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B1 (Mục I), tr. 5; SGK Sinh học 12 KNTT, Chương 01, B1 (Mục II), tr. 6; SGK Sinh học 12 KNTT, Chương 01, B1 (Mục II.2), tr. 7; SGK Sinh học 12 KNTT, Chương 01, B1 (Mục II.2), tr. 8; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B39, tr. 170; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B39 (Mục I), tr. 170; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B39 (Mục I), tr. 170, 171; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B39 (Mục II), tr. 172
 
 ### DNA virus
 - **Tiếng Việt:** Virus DNA
@@ -3142,6 +3343,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Khoa học tự nhiên lớp 8, Bài 43 (Mục II): Đặc trưng thành phần loài của quần xã sinh vật; phân biệt với loài đặc trưng.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.1), tr. 142; SGK Sinh học 12 KNTT, Chương 07, B26 (Mục II.1), tr. 143; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B43 (Mục II), tr. 178; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B43 (Mục II), tr. 178, 179; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B43 (Mục II), tr. 179
 
+### dominant trait
+- **Tiếng Việt:** Tính trạng trội
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A trait expressed in the phenotype when an organism has either a homozygous dominant or a heterozygous genotype.
+- **Giải thích (VI):** Tính trạng biểu hiện ra kiểu hình khi cơ thể có kiểu gene đồng hợp trội hoặc dị hợp.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 36 (Mục II.1, III.1): phân biệt với tính trạng lặn trong các phép lai của Mendel, chẳng hạn tính trạng hoa tím trội so với hoa trắng ở đậu hà lan.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục II.1), tr. 160; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.1), tr. 161; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.2), tr. 161
+
 ### double circulatory system
 - **Tiếng Việt:** Hệ tuần hoàn kép
 - **Chuyên ngành gốc:** Sinh học
@@ -3157,6 +3366,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hình thức thụ tinh đặc trưng chỉ có ở thực vật hạt kín (thực vật có hoa), trong đó cả hai tinh tử do ống phấn giải phóng vào túi phôi đều đồng thời tham gia thụ tinh. Cụ thể, một tinh tử kết hợp với tế bào trứng tạo thành hợp tử lưỡng bội (2n) phát triển thành phôi, còn tinh tử kia hợp nhất với hai nhân cực ở trung tâm túi phôi tạo thành nhân tam bội (3n) phát triển thành nội nhũ cung cấp dinh dưỡng nuôi phôi.
 - **Bối cảnh:** Sinh học lớp 11, Bài 25 (Mục II.2.b): Cơ chế thụ tinh tiến hoá đặc thù chỉ gặp ở ngành Thực vật hạt kín.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B25 (Mục II.2.b), tr. 164; SGK Sinh học 11 KNTT, Chương 04, B25 (Mục II.2), tr. 166; SGK Sinh học 11 KNTT, Bảng giải thích thuật ngữ, tr. 187
+
+### Down syndrome
+- **Tiếng Việt:** Hội chứng Down
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A human genetic syndrome caused primarily by trisomy of chromosome 21 (over 90% of cases), or by translocation of chromosome 21 or mutations across multiple genes. Affected individuals typically exhibit intellectual disability, a short neck, a thick tongue, physical malformations, and infertility.
+- **Giải thích (VI):** Hội chứng di truyền ở người chủ yếu do đột biến lệch bội thừa một nhiễm sắc thể số 21 (chiếm trên 90% số ca), hoặc do đột biến chuyển đoạn nhiễm sắc thể số 21 hay đột biến ở nhiều gene. Người mắc hội chứng này thường chậm phát triển trí tuệ, cổ ngắn, lưỡi dày, cơ thể có nhiều dị dạng và vô sinh.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 46 (Mục III.2) và Bài 47 (Mục II.2): ví dụ điển hình về tác hại của đột biến lệch bội và hội chứng di truyền phổ biến ở người.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục III.2), tr. 200; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.1), tr. 202; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.2), tr. 202; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.3), tr. 202
 
 ### dry preservation
 - **Tiếng Việt:** Bảo quản khô
@@ -3216,6 +3433,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong sinh đẻ có kế hoạch, đẻ sớm chỉ việc phụ nữ sinh con trước 18 tuổi; cần phân biệt với sinh non (đẻ non) là chuyển dạ sinh con trước khi thai đủ tháng.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B27 (Mục III.4.a), tr. 179
 
+### early Homo
+- **Tiếng Việt:** Người cổ đại (Homo habilis; người khéo léo; Homo erectus)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An evolutionary stage following Australopithecus within the genus Homo, encompassing Homo habilis (approximately 1.6 to 2.5 million years ago, living in groups, walking upright, and making stone tools) and Homo erectus (approximately 35,000 to 1.7 million years ago, walking upright agilely and living in social groups without religious rituals).
+- **Giải thích (VI):** Giai đoạn tiến hoá tiếp nối người tối cổ trong chi Homo, bao gồm người khéo léo (Homo habilis, cách đây khoảng 1,6 đến 2,5 triệu năm, sống thành đàn, đi thẳng, biết chế tạo công cụ đá) và người đứng thẳng (Homo erectus, cách đây khoảng 35 000 đến 1,7 triệu năm, đi thẳng nhanh nhẹn, sống theo tổ chức xã hội nhưng chưa có nghi thức tôn giáo).
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 9, Bài 51 (Mục II): Giai đoạn hình thành dáng đi thẳng hoàn thiện và biết chế tạo công cụ lao động trong chi Homo.
+  - *Lưu ý:* Trong SGK Khoa học tự nhiên 9, "người cổ đại" dùng để chỉ nhóm loài sớm thuộc chi Homo gồm Homo habilis và Homo erectus.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục II), tr. 222; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục II), tr. 222, 223; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục II), tr. 223
+
 ### ecdysone
 - **Tiếng Việt:** Ecdysone
 - **Chuyên ngành gốc:** Sinh học
@@ -3232,7 +3459,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Khoa học tự nhiên lớp 8, Bài 46 (Mục I): Khái niệm chung về trạng thái ổn định động ở các cấp độ quần thể, quần xã và hệ sinh thái.
   - *Lưu ý:* Khái niệm bao quát trạng thái ổn định tự nhiên ở mọi cấp độ tổ chức sống trên cơ thể, phân biệt với biểu hiện cụ thể ở cấp hệ sinh thái (ecosystem balance).
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46, tr. 188; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I), tr. 188
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46, tr. 188; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I), tr. 188; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.1), tr. 188
 
 ### ecological community
 - **Tiếng Việt:** Quần xã sinh vật
@@ -3281,7 +3508,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Sinh học lớp 12, Bài 29 (Mục III.3.b): Công cụ mô tả định lượng mối quan hệ dinh dưỡng và hiệu quả truyền vật chất, năng lượng giữa các bậc dinh dưỡng trong hệ sinh thái.
   - Khoa học tự nhiên lớp 8, Bài 44 (Mục II.1c): Đánh giá mức độ dinh dưỡng giữa các bậc mắt xích trong chuỗi và lưới thức ăn.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3.b), tr. 159; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3), tr. 160; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1), tr. 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1.c), tr. 182
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3.b), tr. 159; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3), tr. 160; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1), tr. 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1.c), tr. 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.3), tr. 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II), tr. 182
 
 ### ecological succession
 - **Tiếng Việt:** Diễn thế sinh thái
@@ -3326,7 +3553,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Khoa học tự nhiên lớp 8, Bài 46 (Mục I.3): Biểu hiện của cân bằng tự nhiên ở cấp hệ sinh thái qua sự phân tầng và quan hệ dinh dưỡng.
   - *Lưu ý:* Biểu hiện cụ thể của cân bằng tự nhiên (ecological balance) xét riêng ở cấp độ hệ sinh thái.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.3), tr. 189; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.3), tr. 189, 190
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.3), tr. 189; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.3), tr. 189, 190; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.2), tr. 189
 
 ### ectopic pregnancy
 - **Tiếng Việt:** Chửa ngoài dạ con (mang thai ngoài tử cung)
@@ -3530,19 +3757,44 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 7 (Mục II.2): Đặc điểm gây độc của màng ngoài ở vi khuẩn Gram âm.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B7 (Mục II.2), tr. 46
 
+### energy cycle among living organisms
+- **Tiếng Việt:** Vòng năng lượng giữa các vật sống
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The biological process of energy conversion and transfer initiated when plants absorb solar energy via photosynthesis to synthesize organic compounds (storing chemical energy in chloroplasts) from CO₂ and water, which then pass to animals through food chains. Through aerobic cellular respiration using oxygen, organic molecules (primarily glucose) are broken down to generate ATP for life activities while releasing CO₂ and water back into the environment for plants.
+- **Giải thích (VI):** Quá trình chuyển đổi và trao đổi năng lượng bắt đầu từ việc thực vật hấp thụ năng lượng mặt trời qua quang hợp để tổng hợp chất hữu cơ (lưu trữ hoá năng trong lục lạp) từ CO₂ và nước, sau đó truyền sang động vật qua chuỗi thức ăn. Thông qua hô hấp tế bào có sự tham gia của khí oxygen, các phân tử hữu cơ (chủ yếu là glucose) bị phân giải tạo năng lượng ATP cho hoạt động sống đồng thời giải phóng CO₂ và nước trở lại môi trường cho thực vật.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 16 (Mục I.1): phân tích vai trò của quang hợp và hô hấp trong việc chuyển hoá năng lượng mặt trời qua sinh quyển.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 05, B16, tr. 75; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B16 (Mục I), tr. 75; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B16 (Mục I.1), tr. 75
+
 ### environmental pollution
 - **Tiếng Việt:** Ô nhiễm môi trường
 - **Chuyên ngành gốc:** Sinh học
-- **Giải thích (EN):** The alteration of the physical, chemical, or biological properties of environmental components in violation of technical environmental regulations and standards, causing adverse effects on human health, living organisms, and nature.
-- **Giải thích (VI):** Sự biến đổi tính chất vật lí, hoá học, sinh học của thành phần môi trường không phù hợp với quy chuẩn kĩ thuật môi trường và tiêu chuẩn môi trường, gây ảnh hưởng xấu đến sức khoẻ con người, sinh vật và tự nhiên.
+- **Giải thích (EN):** A condition in which air, water sources, and soil are contaminated with fine particulate matter or toxic wastes and emissions such as CO and NO₂, severely harming human health—increasing risks of acute lower respiratory infections, stroke, heart disease, lung cancer, and digestive illnesses—while degrading agricultural production, produce quality, and animal life through the food chain.
+- **Giải thích (VI):** Tình trạng không khí, nguồn nước và đất bị nhiễm bụi mịn hoặc các chất thải, khí thải chứa thành phần độc hại như CO, NO₂, gây ảnh hưởng nghiêm trọng tới sức khoẻ con người (tăng nguy cơ nhiễm khuẩn đường hô hấp dưới, đột quỵ, đau tim, ung thư phổi, bệnh đường tiêu hoá) đồng thời tác động xấu đến sản xuất nông nghiệp, chất lượng nông sản và động vật qua chuỗi thức ăn.
+- **Giải thích khác (SGK Khoa học tự nhiên 8):** EN: The alteration of the physical, chemical, or biological properties of environmental components in violation of technical environmental regulations and standards, causing adverse effects on human health, living organisms, and nature. / VI: Sự biến đổi tính chất vật lí, hoá học, sinh học của thành phần môi trường không phù hợp với quy chuẩn kĩ thuật môi trường và tiêu chuẩn môi trường, gây ảnh hưởng xấu đến sức khoẻ con người, sinh vật và tự nhiên.
 - **Giải thích khác (SGK Địa lí 12):** EN: The adverse alteration of living-environment quality caused by waste accumulation across air, water, and soil media. In Vietnam, pollution is increasingly acute in the air (particularly fine particulate matter in major cities and industrial zones) and in water bodies (across certain river sections, groundwater, and marine waters). / VI: Tình trạng biến đổi bất lợi chất lượng không gian sống do tác động của các chất thải đối với môi trường không khí, nước và đất. Tại Việt Nam, mức độ ô nhiễm ngày càng gia tăng ở một số khu vực, đáng chú ý nhất là ô nhiễm không khí (đặc biệt là bụi mịn tại các thành phố lớn, khu công nghiệp) và ô nhiễm nước (ở một số đoạn sông, nước ngầm, nước biển).
 - **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: An adverse alteration in the properties of the natural environment (air, water, and soil) that violates environmental standards, typically resulting from the release of dust, emissions, liquid effluents, and solid waste. / VI: Sự biến đổi tính chất của môi trường tự nhiên (khí quyển, nước, đất) theo hướng xấu đi và vi phạm các tiêu chuẩn môi trường, thường phát sinh khi bụi, khí thải, chất thải lỏng và chất thải rắn bị xả vào tự nhiên.
 - **Bối cảnh:**
+  - Giáo dục Kinh tế và Pháp luật lớp 8, Bài 5 (Mục 1.a): phân tích thực trạng và hệ luỵ nghiêm trọng của ô nhiễm không khí, nước, đất để thấy tính cấp bách của việc bảo vệ môi trường.
   - Khoa học tự nhiên lớp 8, Bài 47 (Mục II.1): Sự suy giảm chất lượng môi trường sống do chất thải, hoá chất bảo vệ thực vật, chất phóng xạ và vi sinh vật gây bệnh.
   - Địa lí lớp 10, Bài 39 (Mục 1.b, Em có biết?): Giải thích khái niệm ô nhiễm môi trường dựa trên sự biến đổi tính chất thành phần môi trường không phù hợp quy chuẩn.
   - Địa lí lớp 12, Bài 5 (Mục II.1): Phân tích hiện trạng và nguyên nhân ô nhiễm không khí, nước và đất ở Việt Nam.
   - Lịch sử và Địa lí lớp 6, Bài 28 (Mục 2): Phân tích tác động tiêu cực của sản xuất và sinh hoạt con người làm suy giảm chất lượng môi trường sống.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục II.1), tr. 192; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục II.2.a), tr. 192; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.b), tr. 109; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 2.a), tr. 109; SGK Địa lí 12 KNTT, Phần 1, B5, tr. 28; SGK Địa lí 12 KNTT, Phần 1, B5 (Mục I.2), tr. 30; SGK Địa lí 12 KNTT, Phần 1, B5 (Mục I.3), tr. 30; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 2), tr. 186
+- **Nguồn:** SGK GDCD 8 KNTT, B5, tr. 25; SGK GDCD 8 KNTT, B5 (Mục 1.a), tr. 25, 26; SGK GDCD 8 KNTT, B5 (Mục 1.a), tr. 25; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục II.1), tr. 192; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục II.2.a), tr. 192; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B47 (Mục I.3), tr. 192; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 1.b), tr. 109; SGK Địa lí 10 KNTT, Phần ba, B39 (Mục 2.a), tr. 109; SGK Địa lí 12 KNTT, Phần 1, B5, tr. 28; SGK Địa lí 12 KNTT, Phần 1, B5 (Mục I.2), tr. 30; SGK Địa lí 12 KNTT, Phần 1, B5 (Mục I.3), tr. 30; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 2), tr. 186
+
+### environmental protection
+- **Tiếng Việt:** Bảo vệ môi trường
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The comprehensive set of activities aimed at preventing and limiting adverse environmental impacts, responding to incidents, remediating pollution and degradation, improving environmental quality, sustainably utilizing natural resources, conserving biodiversity, and addressing climate change.
+- **Giải thích (VI):** Tổng thể các hoạt động phòng ngừa, hạn chế tác động xấu đến môi trường, ứng phó sự cố, khắc phục ô nhiễm và suy thoái, cải thiện chất lượng môi trường, đồng thời sử dụng hợp lí tài nguyên thiên nhiên, bảo tồn đa dạng sinh học và ứng phó với biến đổi khí hậu.
+- **Giải thích khác (SGK Địa lí 10):** EN: A set of measures for conserving, rationally utilizing, or restoring biota (microorganisms, plants, animals) and abiotic habitats (soil, water, air, subsurface, climate), combined with applying low-waste or zero-waste technologies. Its core objective is to maintain ecological balance and establish an optimal living space for humanity. / VI: Tập hợp các biện pháp giữ gìn, sử dụng hợp lí hoặc phục hồi sinh giới (vi sinh vật, thực vật, động vật) và môi sinh (đất, nước, không khí, lòng đất, khí hậu), kết hợp áp dụng công nghệ ít hoặc không có phế liệu. Mục tiêu cốt lõi của hoạt động này là duy trì cân bằng sinh thái và tạo lập không gian tối ưu cho cuộc sống con người.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: A set of measures for preserving, rationally utilizing, and restoring living organisms and environmental components (soil, water, air, subsoil, and climate), combined with efficient resource-use equipment and low- or zero-waste technologies to create an optimal human living space. / VI: Tập hợp các biện pháp giữ gìn, sử dụng hợp lí và phục hồi giới sinh vật cùng các thành phần môi trường sống (đất, nước, không khí, lòng đất, khí hậu), kết hợp ứng dụng thiết bị khai thác hợp lí và công nghệ sạch ít phế liệu nhằm tạo lập không gian sống tối ưu cho con người.
+- **Giải thích khác (SGK Lịch sử và Địa lí 7):** EN: A set of measures to preserve, rationally use, or restore the biosphere (microorganisms, plants, animals) and physical environment (soil, water, air, subsoil, climate), alongside testing resource-use equipment and applying low- or zero-waste technologies to create an optimal living space for humans. / VI: Tập hợp các biện pháp giữ gìn, sử dụng hoặc phục hồi hợp lí sinh giới (vi sinh vật, thực vật, động vật) và môi sinh (đất, nước, không khí, lòng đất, khí hậu), kết hợp nghiên cứu thử nghiệm thiết bị sử dụng tài nguyên và áp dụng công nghệ ít hoặc không có phế liệu nhằm tạo không gian tối ưu cho cuộc sống con người.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 9, Bài 17 (Mục III): làm rõ mối liên hệ mật thiết giữa tiết kiệm, sử dụng hiệu quả năng lượng với phát triển bền vững môi trường sống.
+  - Địa lí lớp 10, Bài 26 (Mục 2.b): các biện pháp gìn giữ và phục hồi môi trường trong phát triển nông nghiệp xanh, giao thông vận tải và tăng trưởng bền vững.
+  - Lịch sử và Địa lí lớp 6, Bài 29 (Mục 2): Hệ thống giải pháp tổng thể nhằm duy trì chất lượng môi trường sống của con người.
+  - Lịch sử và Địa lí lớp 7, Bài 3 (Mục 1): cơ sở khái niệm cho việc triển khai các biện pháp bảo vệ môi trường không khí và môi trường nước ở châu Âu.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục II.4), tr. 85; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục III), tr. 85; SGK Khoa học tự nhiên 9 KNTT, Chương 05, B17 (Mục III), tr. 85, 86; SGK Địa lí 10 KNTT, Bảng giải thích thuật ngữ, tr. 113; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.a), tr. 76; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 2.b), tr. 77; SGK Địa lí 10 KNTT, Phần ba, B26 (Mục 1.b), tr. 77; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 192, 193; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B28 (Mục 2), tr. 186; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 177, 178; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 01, B3 (Mục 1.b), tr. 105
 
 ### enzyme
 - **Tiếng Việt:** Enzyme
@@ -3557,7 +3809,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 10, Bài 13 (Mục II.1, II.2): Thành phần xúc tác cốt lõi điều khiển và điều hoà các phản ứng chuyển hoá vật chất và năng lượng trong tế bào.
   - Hóa học lớp 12, Bài 10 (Mục II.1, II.2): Đặc điểm xúc tác của enzyme và ứng dụng trong công nghiệp thực phẩm, dược phẩm, kĩ thuật di truyền.
   - Khoa học tự nhiên lớp 7, Bài 29 (Mục III.2): mối liên hệ giữa vitamin, chất khoáng và protein trong cấu tạo chất xúc tác cho quá trình trao đổi chất.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.a), tr. 34; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 39; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục II.1), tr. 80; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục II.2), tr. 81; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục II.4), tr. 84; SGK Hóa học 12 KNTT, Chương 03, B10 (Mục II.1), tr. 48; SGK Hóa học 12 KNTT, Chương 03, B10 (Mục II.2), tr. 48; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125, 126; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.a), tr. 34; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 39; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục II.1), tr. 80; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục II.2), tr. 81; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục II.4), tr. 84; SGK Hóa học 12 KNTT, Chương 03, B10 (Mục II.1), tr. 48; SGK Hóa học 12 KNTT, Chương 03, B10 (Mục II.2), tr. 48; SGK Hóa học 12 KNTT, Chương 03, B10 (Mục I.3.a), tr. 47; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B29 (Mục III.2), tr. 125, 126; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 176
 
 ### enzyme activator
 - **Tiếng Việt:** Chất hoạt hoá (chất hoạt hoá enzyme)
@@ -3669,16 +3921,6 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 14 (Mục I.3, Hình 14.4b): Con đường lên men phổ biến ở tế bào thực vật và một số vi sinh vật, phân biệt với lên men lactate.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 04, B14 (Mục I.3), tr. 87, 88; SGK Sinh học 10 KNTT, Chương 04, B14 (Mục I.3), tr. 88
 
-### ethylene
-- **Tiếng Việt:** Ethylene
-- **Chuyên ngành gốc:** Sinh học
-- **Giải thích (EN):** Growth-inhibiting plant hormone with the molecular formula C₂H₄, unique among plant hormones for existing as a gas and moving via short-range diffusion. Synthesized abundantly during fruit ripening, tissue senescence, mechanical injury, or drought, ethylene promotes fruit ripening, organ senescence, and the abscission of leaves, flowers, and fruits.
-- **Giải thích (VI):** Hormone thực vật thuộc nhóm ức chế sinh trưởng có công thức phân tử C₂H₄, là hormone thực vật duy nhất tồn tại ở thể khí và được vận chuyển qua con đường khuếch tán trong phạm vi hẹp. Ethylene được tổng hợp mạnh khi quả chín, mô già hoá hoặc khi cây bị tổn thương cơ học, hạn hán, có vai trò thúc đẩy quả chín, sự già hoá và sự rụng của lá, hoa, quả.
-- **Bối cảnh:**
-  - Sinh học lớp 11, Bài 20 (Mục III.2.b, III.3.b): Hormone thể khí điều tiết quá trình chín của quả và sự rụng cơ quan ở thực vật.
-  - *Lưu ý:* Trong Hoá học hữu cơ, ethylene (danh pháp IUPAC: ethene, C₂H₄) được xét với tư cách hydrocarbon không no đầu dãy alkene; trong Sinh học, chất này đóng vai trò là hormone thực vật thể khí.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B20 (Mục III.2.b), tr. 135; SGK Sinh học 11 KNTT, Chương 03, B20 (Mục III.3.b), tr. 136
-
 ### euchromatin
 - **Tiếng Việt:** Nguyên nhiễm sắc
 - **Chuyên ngành gốc:** Sinh học
@@ -3738,8 +3980,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Factors that alter the allele and genotype frequencies of a population (or alter genotype frequencies alone without changing allele frequencies). The five primary factors are mutation, genetic drift, gene flow, natural selection, and non-random mating.
 - **Giải thích (VI):** Những tác nhân làm thay đổi tần số allele và tần số kiểu gene của quần thể (hoặc chỉ làm thay đổi tần số kiểu gene mà không làm đổi tần số allele). Năm nhân tố chủ yếu gồm đột biến, phiêu bạt di truyền, dòng gene, chọn lọc tự nhiên và giao phối không ngẫu nhiên.
-- **Bối cảnh:** Sinh học lớp 12, Bài 21 (Mục II, IV.2): Các tác nhân chi phối tiến hoá nhỏ làm phân hoá vốn gene của quần thể, trong đó chỉ chọn lọc tự nhiên tác động theo một hướng xác định.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II), tr. 106; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục IV.2), tr. 112
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: Agents acting on a population that alter its allele frequencies and genotype frequencies across generations, encompassing mutation, gene flow, natural selection, genetic drift, and non-random mating. / VI: Các tác nhân tác động vào quần thể làm biến đổi tần số allele và tần số kiểu gene của quần thể qua các thế hệ, bao gồm đột biến, di – nhập gene, chọn lọc tự nhiên, yếu tố ngẫu nhiên và giao phối không ngẫu nhiên.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 21 (Mục II, IV.2): Các tác nhân chi phối tiến hoá nhỏ làm phân hoá vốn gene của quần thể, trong đó chỉ chọn lọc tự nhiên tác động theo một hướng xác định.
+  - Khoa học tự nhiên lớp 9, Bài 50 (Mục III.3): phân tích vai trò làm biến đổi vốn gene quần thể của từng nhân tố trong tiến hoá nhỏ.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II), tr. 106; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục IV.2), tr. 112; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục II), tr. 216; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.1), tr. 216; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.2), tr. 216
 
 ### excretion
 - **Tiếng Việt:** Bài tiết
@@ -4057,7 +4302,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 12, Bài 29 (Mục II.1): Biểu diễn đường truyền vật chất và năng lượng giữa các loài trong quần xã sinh vật.
   - Khoa học tự nhiên lớp 6, Bài 36 (Mục III.1): giải thích vai trò của động vật như mắt xích dinh dưỡng duy trì trạng thái cân bằng sinh thái trong tự nhiên.
   - Khoa học tự nhiên lớp 8, Bài 44 (Mục II.1a): Con đường trao đổi chất qua mối quan hệ thức ăn nối tiếp giữa các loài trong quần xã sinh vật.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.1), tr. 156; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3), tr. 160; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129, 130; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1), tr. 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1.a), tr. 182
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.1), tr. 156; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3), tr. 160; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục II.2), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B36 (Mục III.1), tr. 129, 130; SGK Khoa học tự nhiên 6 KNTT, Bảng giải thích thuật ngữ, tr. 193; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1), tr. 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1.a), tr. 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.3), tr. 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II), tr. 182
 
 ### food safety and hygiene
 - **Tiếng Việt:** An toàn vệ sinh thực phẩm (vệ sinh an toàn thực phẩm)
@@ -4076,7 +4321,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Sinh học lớp 12, Bài 29 (Mục II.2): Phản ánh mối quan hệ dinh dưỡng đan xen thực tế và mức độ ổn định của quần xã, hệ sinh thái.
   - Khoa học tự nhiên lớp 8, Bài 44 (Mục II.1b): Biểu diễn mối quan hệ dinh dưỡng đan xen giữa các chuỗi thức ăn trong quần xã sinh vật.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.2), tr. 156; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.2), tr. 156, 157; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3), tr. 160; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1), tr. 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1.b), tr. 182
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.2), tr. 156; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục II.2), tr. 156, 157; SGK Sinh học 12 KNTT, Chương 07, B29 (Mục III.3), tr. 160; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1), tr. 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II.1.b), tr. 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.3), tr. 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục II), tr. 182
 
 ### foodstuff
 - **Tiếng Việt:** Thực phẩm
@@ -4130,7 +4375,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A group of biomes in freshwater environments, divided into two main zones: standing-water habitats (ponds, lakes, marshes) and flowing-water habitats (rivers, streams).
 - **Giải thích (VI):** Nhóm khu sinh học ở môi trường nước ngọt, chia thành hai khu vực chính là khu vực nước đứng (ao, hồ, đầm) và khu vực nước chảy (sông, suối).
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 45 (Mục II.2): Phân loại các khu sinh học dưới nước ngọt theo trạng thái đứng hoặc chảy của dòng nước.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II), tr. 186; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.2), tr. 186
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II), tr. 186; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.2), tr. 186; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.1), tr. 186
 
 ### fruit formation
 - **Tiếng Việt:** Quá trình hình thành quả (quả)
@@ -4263,18 +4508,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A functional unit of nucleotide sequence on a DNA molecule that serves as a template for cellular enzymes to transcribe into an mRNA nucleotide sequence, from which proteins are synthesized.
 - **Giải thích (VI):** Đơn vị trình tự nucleotide trên phân tử DNA dùng làm khuôn để enzyme của tế bào phiên mã thành trình tự nucleotide trên phân tử mRNA, từ đó tổng hợp nên các phân tử protein.
 - **Giải thích khác (SGK Sinh học 12):** EN: A segment of a DNA molecule carrying genetic information that specifies a particular product, either a polypeptide chain or an RNA molecule. The general structure of a gene comprises three regions: a regulatory region, a coding region, and a termination region. / VI: Một đoạn của phân tử DNA mang thông tin di truyền quy định một loại sản phẩm xác định là chuỗi polypeptide hoặc phân tử RNA. Cấu trúc chung của một gene gồm ba vùng: vùng điều hoà, vùng mã hoá và vùng kết thúc.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A segment of a DNA molecule that performs a specific hereditary function, encoding a defined RNA molecule or polypeptide chain. / VI: Một đoạn của phân tử DNA có chức năng di truyền xác định, quy định sản phẩm là phân tử RNA hoặc chuỗi polypeptide tương ứng.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 5 (Mục II.4.a): Đơn vị thông tin di truyền trên phân tử DNA.
   - Sinh học lớp 12, Bài 2 (Mục I.1, I.2): Đơn vị thông tin di truyền trên phân tử DNA, phân loại theo chức năng hoặc theo cấu trúc vùng mã hoá.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.a), tr. 37; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục I.1), tr. 9; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục I.2), tr. 9; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4), tr. 17
+  - Khoa học tự nhiên lớp 9, Bài 38 (Mục II.3): đơn vị trung tâm của di truyền học, thường gồm từ 600 đến 1 500 cặp nucleotide.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.a), tr. 37; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục I.1), tr. 9; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục I.2), tr. 9; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4), tr. 17; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục II.3), tr. 167; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục II.3), tr. 168; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục III.2), tr. 169; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục II.4), tr. 168
 
 ### gene flow
-- **Tiếng Việt:** Dòng gene (di – nhập gene)
+- **Tiếng Việt:** Dòng gene (di – nhập gene; di nhập gene)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The movement of alleles into or out of a population through the movement of fertile individuals or their gametes. This factor alters allele frequencies without a definite direction (depending on allele frequency differences between donor and recipient populations as well as the immigration rate) and can increase genetic diversity by introducing new alleles into a population.
 - **Giải thích (VI):** Sự di chuyển các allele vào hoặc ra khỏi quần thể thông qua sự di chuyển của các cá thể hữu thụ hoặc các giao tử của chúng. Nhân tố này làm biến đổi tần số allele không theo một hướng xác định (phụ thuộc vào độ chênh lệch tần số allele giữa quần thể cho và nhận cùng hệ số nhập cư) và có thể làm tăng sự đa dạng di truyền khi đưa thêm allele mới vào quần thể.
-- **Bối cảnh:** Sinh học lớp 12, Bài 21 (Mục II.3, IV.2): Nhân tố tiến hoá trao đổi vốn gene giữa các quần thể; sự ngăn cản dòng gene là điều kiện tiên quyết để phân hoá vốn gene hình thành loài mới.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II.3), tr. 107; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục IV.2.a), tr. 110
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: An evolutionary factor occurring when individuals migrate between populations with different gene pools and interbreed, thereby altering both allele frequencies and genotype frequencies in the population. / VI: Nhân tố tiến hoá diễn ra khi các cá thể di cư giữa các quần thể có vốn gene khác nhau và tham gia giao phối, làm thay đổi cả tần số allele lẫn tần số kiểu gene của quần thể.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 21 (Mục II.3, IV.2): Nhân tố tiến hoá trao đổi vốn gene giữa các quần thể; sự ngăn cản dòng gene là điều kiện tiên quyết để phân hoá vốn gene hình thành loài mới.
+  - Khoa học tự nhiên lớp 9, Bài 50 (Mục III.3.b): Cơ chế tác động của các nhân tố tiến hoá làm biến đổi cấu trúc di truyền quần thể.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II.3), tr. 107; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục IV.2.a), tr. 110; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3), tr. 216; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3.b), tr. 217; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3.c), tr. 217
 
 ### gene gun
 - **Tiếng Việt:** Súng bắn gene
@@ -4297,8 +4547,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** An alteration in the nucleotide sequence of a gene (involving one or more nucleotide pairs), arising spontaneously or induced by mutagens. Gene mutations may or may not alter the phenotype and serve as raw material for evolution and selective breeding.
 - **Giải thích (VI):** Sự thay đổi trình tự nucleotide trong gene (liên quan đến một hoặc nhiều cặp nucleotide), phát sinh một cách tự phát hoặc do tác động của các tác nhân đột biến. Đột biến gene có thể làm thay đổi kiểu hình hoặc không và là nguồn nguyên liệu cho tiến hoá, chọn giống.
-- **Bối cảnh:** Sinh học lớp 12, Bài 4 (Mục I, III): Khái niệm chung, phân loại và vai trò của đột biến gene trong tiến hoá, chọn giống và nghiên cứu di truyền.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B4 (Mục I.1), tr. 23; SGK Sinh học 12 KNTT, Chương 01, B4 (Mục III.3), tr. 26
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: Alterations in the nucleotide structure of a gene that generate new alleles, commonly classified into deletion, insertion, or substitution of a nucleotide pair. / VI: Những biến đổi trong cấu trúc nucleotide của gene làm xuất hiện các allele mới, thường gồm ba dạng là mất một cặp nucleotide, thêm một cặp nucleotide và thay thế một cặp nucleotide.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 4 (Mục I, III): Khái niệm chung, phân loại và vai trò của đột biến gene trong tiến hoá, chọn giống và nghiên cứu di truyền.
+  - Khoa học tự nhiên lớp 9, Bài 41 (Mục I, II): khảo sát các dạng biến đổi cấu trúc gene, tính lợi – hại tuỳ thuộc tổ hợp gene và môi trường, cùng vai trò đối với đa dạng sinh học và chọn giống.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B4 (Mục I.1), tr. 23; SGK Sinh học 12 KNTT, Chương 01, B4 (Mục III.3), tr. 26; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B41, tr. 178; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B41 (Mục I), tr. 178; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B41 (Mục II.2), tr. 180; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B41 (Mục II.1.b), tr. 179
 
 ### gene pool
 - **Tiếng Việt:** Vốn gene
@@ -4341,11 +4594,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phương pháp chữa bệnh di truyền bằng cách chỉnh sửa hoặc thay thế gene bệnh bằng gene lành trong tế bào nuôi cấy ở ống nghiệm, sau đó sàng lọc, nhân bản và truyền lại vào cơ thể bệnh nhân. Phương pháp này áp dụng cho bệnh di truyền do hỏng một gene xác định và tế bào bị bệnh thuộc loại phân chia liên tục suốt đời.
 - **Giải thích khác (SGK Sinh học 10):** EN: A therapeutic approach for treating human genetic disorders by replacing defective genes with functional ones, often employing viruses (such as certain RNA viruses) as vectors to integrate functional genes into the chromosomes of patient cells (for example, cultured bone marrow stem cells subsequently reintroduced into the body). / VI: Phương pháp điều trị bệnh di truyền ở người bằng cách thay thế các gene bệnh bằng gene lành, thường sử dụng các loại virus (như một số virus RNA) làm thể truyền để cài gene lành vào nhiễm sắc thể của tế bào người bệnh (chẳng hạn tế bào gốc tuỷ xương nuôi cấy rồi đưa trở lại cơ thể).
 - **Giải thích khác (SGK Sinh học 12):** EN: A therapeutic approach to treating genetic disorders by replacing a defective gene in a patient's cells with a normal gene or by editing the defective gene. Currently, this method is mainly tested on somatic cells (such as bone marrow stem cells) to treat certain monogenic disorders. / VI: Biện pháp chữa trị bệnh di truyền bằng cách thay thế gene bệnh trong tế bào của người bệnh bằng gene bình thường hoặc chỉnh sửa gene bị bệnh. Hiện nay, phương pháp này chủ yếu được thử nghiệm trên tế bào soma (như tế bào gốc tuỷ xương) để điều trị một số bệnh di truyền do một gene quy định.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A genetic engineering technique that introduces functional healthy genes into a patient's body to treat pathological disorders caused by defective genes. / VI: Kĩ thuật ứng dụng công nghệ di truyền đưa gene lành vào cơ thể người bệnh nhằm chữa trị các rối loạn bệnh lí do gene bị sai hỏng gây ra.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 19 (Mục I.3.c): Thành tựu kết hợp công nghệ tế bào động vật với chỉnh sửa di truyền trong điều trị bệnh.
   - Sinh học lớp 10, Bài 25 (Mục III.3): Ứng dụng virus làm thể truyền trong y học hiện đại để chữa trị các bệnh di truyền ở người như một số bệnh về tế bào máu.
   - Sinh học lớp 12, Bài 13 (Mục IV.1, IV.2): Nguyên lí, quy trình thử nghiệm thay thế hoặc chỉnh sửa gene (như CRISPR–Cas9) và các triển vọng, rào cản kĩ thuật – đạo đức trong điều trị bệnh di truyền.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B19 (Mục I.3), tr. 111; SGK Sinh học 10 KNTT, Chương 05, B19 (Mục I.3.c), tr. 112; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục III.3), tr. 153; SGK Sinh học 12 KNTT, Chương 02, B13 (Mục IV.1), tr. 73; SGK Sinh học 12 KNTT, Chương 02, B13 (Mục IV.2), tr. 73; SGK Sinh học 12 KNTT, Chương 02, B13 (Mục IV.2), tr. 74
+  - Khoa học tự nhiên lớp 9, Bài 48 (Mục II): ứng dụng công nghệ di truyền trong y học, ví dụ dùng virus làm thể truyền đưa gene lành vào tế bào phổi của người mắc bệnh u xơ nang.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B19 (Mục I.3), tr. 111; SGK Sinh học 10 KNTT, Chương 05, B19 (Mục I.3.c), tr. 112; SGK Sinh học 10 KNTT, Chương 07, B25 (Mục III.3), tr. 153; SGK Sinh học 12 KNTT, Chương 02, B13 (Mục IV.1), tr. 73; SGK Sinh học 12 KNTT, Chương 02, B13 (Mục IV.2), tr. 73; SGK Sinh học 12 KNTT, Chương 02, B13 (Mục IV.2), tr. 74; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225, 226; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B48 (Mục II), tr. 208
+
+### gene-to-trait relationship
+- **Tiếng Việt:** Mối quan hệ giữa gene và tính trạng
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The hereditary mechanism by which the nucleotide sequence of a gene specifies the mRNA nucleotide sequence and consequently the amino acid sequence of a protein that forms an organism's trait, expressed along the information flow $\text{gene (DNA)} \rightarrow \text{mRNA} \rightarrow \text{protein} \rightarrow \text{trait}$.
+- **Giải thích (VI):** Cơ chế di truyền trong đó trình tự nucleotide trên gene quy định trình tự nucleotide trên phân tử mRNA, qua đó quy định trình tự amino acid của protein tham gia hình thành tính trạng cơ thể theo dòng thông tin $\text{gene (DNA)} \rightarrow \text{mRNA} \rightarrow \text{protein} \rightarrow \text{tính trạng}$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 40 (Mục IV.1, IV.2): tổng kết cơ chế phân tử từ vật chất di truyền trong tế bào đến kiểu hình cơ thể dưới tác động phối hợp của môi trường.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục IV.1), tr. 176; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục IV.2), tr. 176; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục IV.2), tr. 177; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục III), tr. 176
 
 ### general hormonal balance
 - **Tiếng Việt:** Tương quan chung
@@ -4368,8 +4631,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The complete set of nucleotide triplets (codons) on mRNA that specifies the amino acids in proteins, comprising 61 amino-acid-coding codons and 3 stop codons. The genetic code is a non-overlapping triplet code read continuously in the 5'→3' direction, characterized by specificity, degeneracy, and near-universality.
 - **Giải thích (VI):** Bộ các bộ ba nucleotide (codon) trên mRNA quy định các amino acid trong phân tử protein, gồm 61 bộ ba mã hoá amino acid và 3 bộ ba kết thúc. Mã di truyền là mã bộ ba được đọc liên tục không chồng gối theo chiều 5'→3', mang tính đặc hiệu, tính thoái hoá và tính vạn năng.
-- **Bối cảnh:** Sinh học lớp 12, Bài 2 (Mục III.4.a): Quy tắc giải mã thông tin di truyền từ trình tự nucleotide trên mRNA sang trình tự amino acid của protein.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.a), tr. 14
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The triplet biological code in which the nucleotide sequence of a gene (DNA), via an mRNA intermediate, specifies the composition and sequence of amino acids in a polypeptide chain. / VI: Mật mã sinh học dạng mã bộ ba, trong đó trình tự các nucleotide trên gene (DNA) quy định thành phần và trình tự các amino acid trên chuỗi polypeptide thông qua phân tử trung gian mRNA.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 2 (Mục III.4.a): Quy tắc giải mã thông tin di truyền từ trình tự nucleotide trên mRNA sang trình tự amino acid của protein.
+  - Khoa học tự nhiên lớp 9, Bài 40 (Mục I, II): hệ thống 64 bộ ba tạo từ bốn loại nucleotide quy định thành phần hoá học và cấu trúc của protein.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.a), tr. 14; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40, tr. 173; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục I), tr. 173; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục I), tr. 173, 174; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục IV.2), tr. 177
 
 ### genetic code degeneracy
 - **Tiếng Việt:** Tính thoái hoá của mã di truyền
@@ -4397,21 +4663,51 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 13 (Mục III.1): Khái niệm và nội dung tư vấn di truyền giúp phòng tránh, hạn chế các bệnh và tật di truyền ở người.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B13 (Mục III.1), tr. 71
 
+### genetic disease agent
+- **Tiếng Việt:** Tác nhân gây bệnh di truyền
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** Physical and chemical environmental pollutants (such as radioactive substances, UV radiation, industrial chemicals, and synthetic pesticides or herbicides) that increase the frequency of gene and chromosomal mutations leading to human genetic disorders and defects.
+- **Giải thích (VI):** Các tác nhân vật lí và hoá học gây ô nhiễm môi trường sống (như chất phóng xạ, tia UV, hoá chất công nghiệp, thuốc trừ sâu và thuốc diệt cỏ hoá học) làm tăng tần số đột biến gene và đột biến nhiễm sắc thể dẫn đến các bệnh, tật di truyền ở người.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 47 (Mục III): nhận diện nguyên nhân ngoại cảnh gây đột biến để đề xuất biện pháp bảo vệ môi trường và phòng tránh bệnh, tật di truyền.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.4), tr. 203; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục III), tr. 203; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục III), tr. 203, 204
+
+### genetic disorder
+- **Tiếng Việt:** Bệnh di truyền
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** Functional disorders of bodily organs arising from gene mutations or chromosomal mutations.
+- **Giải thích (VI):** Những rối loạn chức năng của các cơ quan trên cơ thể phát sinh do đột biến gene hoặc đột biến nhiễm sắc thể.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 47 (Mục II.1, II.3): phân biệt với tật di truyền là những biến đổi bất thường về hình thái cơ thể.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.1), tr. 202; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.2), tr. 202; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.3), tr. 202
+
 ### genetic drift
-- **Tiếng Việt:** Phiêu bạt di truyền
+- **Tiếng Việt:** Phiêu bạt di truyền (Biến động di truyền)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The process of change in a population's allele frequencies caused by chance events (such as storms, floods, wildfires, or the dispersal of a small group of individuals to establish a new population), acting more strongly as population size decreases. This factor can completely eliminate an allele regardless of whether it is beneficial, harmful, or neutral, thereby reducing the population's genetic diversity.
 - **Giải thích (VI):** Quá trình thay đổi tần số allele của quần thể gây nên bởi các yếu tố ngẫu nhiên (như bão tố, lũ lụt, hoả hoạn hoặc sự phát tán một nhóm nhỏ cá thể đi lập quần thể mới), tác động càng mạnh khi kích thước quần thể càng nhỏ. Nhân tố này có thể làm biến mất hoàn toàn một loại allele bất kể có lợi, có hại hay trung tính, dẫn đến làm giảm sự đa dạng di truyền của quần thể.
-- **Bối cảnh:** Sinh học lớp 12, Bài 21 (Mục II.2): Nhân tố tiến hoá vô hướng làm biến đổi ngẫu nhiên cấu trúc di truyền của quần thể, đặc biệt rõ ở quần thể kích thước nhỏ (Hình 21.1).
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II), tr. 106; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II.2), tr. 107
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A phenomenon in which the allele frequencies and genotype frequencies of a population change abruptly due to random factors such as natural disasters or forest fires. / VI: Hiện tượng tần số các allele và tần số các kiểu gene của quần thể bị thay đổi đột ngột dưới tác động của các yếu tố ngẫu nhiên như thiên tai hoặc cháy rừng.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 21 (Mục II.2): Nhân tố tiến hoá vô hướng làm biến đổi ngẫu nhiên cấu trúc di truyền của quần thể, đặc biệt rõ ở quần thể kích thước nhỏ (Hình 21.1).
+  - Khoa học tự nhiên lớp 9, Bài 50 (Mục III.3.d): Hệ quả tác động của các yếu tố ngẫu nhiên lên vốn gene quần thể.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II), tr. 106; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II.2), tr. 107; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3.b), tr. 217; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3.c), tr. 217; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3.d), tr. 217
 
 ### genetic engineering
 - **Tiếng Việt:** Công nghệ gene (công nghệ di truyền)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A technical process that uses recombinant DNA technology to alter the genotype and phenotype of organisms to produce proteins for practical applications; it comprises recombinant DNA technology and technology for creating genetically modified organisms.
 - **Giải thích (VI):** Quy trình kĩ thuật sử dụng công nghệ DNA tái tổ hợp để thay đổi kiểu gene và kiểu hình của sinh vật nhằm tạo ra các sản phẩm protein ứng dụng trong thực tiễn; bao gồm công nghệ DNA tái tổ hợp và công nghệ tạo sinh vật biến đổi gene.
-- **Bối cảnh:** Sinh học lớp 12, Bài 5 (Mục Mở đầu): Khái niệm tổng quát bao trùm công nghệ DNA tái tổ hợp và công nghệ tạo sinh vật biến đổi gene.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B5 (Mục Mở đầu), tr. 27
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A technological process using recombinant DNA techniques to modify the genotype and phenotype of organisms in order to produce desired traits or biological products. / VI: Quy trình công nghệ sử dụng các kĩ thuật DNA tái tổ hợp để biến đổi kiểu gene và kiểu hình của sinh vật nhằm tạo ra các đặc tính hoặc sản phẩm sinh học phục vụ đời sống.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 5 (Mục Mở đầu): Khái niệm tổng quát bao trùm công nghệ DNA tái tổ hợp và công nghệ tạo sinh vật biến đổi gene.
+  - Khoa học tự nhiên lớp 9, Bài 48 (Mục I–IV): ứng dụng trong tạo giống cây trồng biến đổi gene, vật nuôi chuyển gene, y tế, pháp y, xử lí ô nhiễm môi trường và an toàn sinh học.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B5 (Mục Mở đầu), tr. 27; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224, 225; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 226; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B48, tr. 207
+
+### genetic linkage
+- **Tiếng Việt:** Di truyền liên kết (quy luật liên kết gene; liên kết gene)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The phenomenon in which genes governing traits located on the same chromosome tend to segregate and be inherited together during meiosis. This restricts recombinant variation and ensures the stable inheritance of linked trait groups.
+- **Giải thích (VI):** Hiện tượng các gene quy định các tính trạng cùng nằm trên một nhiễm sắc thể có xu hướng phân li và di truyền cùng nhau trong quá trình giảm phân. Hiện tượng này hạn chế xuất hiện biến dị tổ hợp và đảm bảo sự di truyền bền vững của từng nhóm tính trạng.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 45 (Mục I, II): phân biệt với quy luật phân li độc lập thông qua thí nghiệm của Morgan trên ruồi giấm và ứng dụng trong chọn giống.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B45 (Mục I.1), tr. 194; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B45 (Mục I.2), tr. 195; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B45 (Mục I.2), tr. 196
 
 ### genetic map
 - **Tiếng Việt:** Bản đồ di truyền
@@ -4429,6 +4725,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 6, Bài 19 (Mục I, II): Thành phần cốt lõi nằm trong nhân tế bào nhân thực hoặc vùng nhân của tế bào nhân sơ.
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19, tr. 67; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục I), tr. 67; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục II), tr. 67
 
+### genetic syndrome
+- **Tiếng Việt:** Hội chứng (hội chứng di truyền)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A type of mutation-induced genetic disorder characterized by complex clinical manifestations with multiple symptoms occurring simultaneously in the body.
+- **Giải thích (VI):** Dạng bệnh di truyền do đột biến gây ra có biểu hiện lâm sàng phức tạp với nhiều triệu chứng xuất hiện đồng thời trên cơ thể.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 47 (Mục II.1, II.2): khái quát nhóm bệnh di truyền đa triệu chứng ở người như hội chứng Down, Turner, Klinefelter.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.1), tr. 202; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.2), tr. 202; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.3), tr. 202
+
+### genetic variation
+- **Tiếng Việt:** Biến dị di truyền
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** Differences among individual organisms resulting from their gene or DNA composition.
+- **Giải thích (VI):** Sự khác biệt giữa các cá thể sinh vật do thành phần gene hoặc DNA của chúng quy định.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 43 (Mục II.2, Bảng giải thích thuật ngữ): nguồn biến dị làm phong phú kiểu gene và kiểu hình trong quần thể sinh vật.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B43 (Mục II.2), tr. 188; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224, 225
+
 ### genetically diverse population
 - **Tiếng Việt:** Quần thể đa dạng di truyền (đa hình di truyền)
 - **Chuyên ngành gốc:** Sinh học
@@ -4436,6 +4748,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quần thể có nhiều loại allele và tần số các kiểu gene dị hợp tử cao. Độ đa dạng di truyền của quần thể càng cao thì khả năng thích nghi trước sự biến động của môi trường càng lớn.
 - **Bối cảnh:** Sinh học lớp 12, Bài 18 (Mục I.2): Đánh giá tiềm năng thích nghi của quần thể trước sự thay đổi của điều kiện môi trường dựa trên cấu trúc vốn gene.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 04, B18 (Mục I.2), tr. 92
+
+### genetically modified crop
+- **Tiếng Việt:** Cây trồng biến đổi gene (cây biến đổi gene)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A crop variety produced through genetic engineering by using a vector (such as a plasmid) to insert a target gene into the plant genome so that it expresses desired new traits (such as pest resistance or enhanced nutritional value).
+- **Giải thích (VI):** Giống cây trồng tạo ra bằng công nghệ di truyền thông qua việc dùng thể truyền (như plasmid) cài gene đích vào hệ gene của cây để biểu hiện tính trạng mới mong muốn (như kháng sâu bệnh hoặc tăng giá trị dinh dưỡng).
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 48 (Mục I.1, IV): ứng dụng công nghệ di truyền trong nông nghiệp (ngô Bt, lúa vàng, đu đủ kháng virus) và đánh giá lợi ích, rủi ro sinh học.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 13, B48, tr. 207; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B48 (Mục I.1), tr. 207; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B48 (Mục IV), tr. 210
 
 ### genetically modified organism
 - **Tiếng Việt:** Sinh vật biến đổi gene (GMO; sinh vật chuyển gene)
@@ -4456,29 +4776,46 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 19 (Mục II.3.a): Ứng dụng kết hợp công nghệ tế bào thực vật với công nghệ di truyền (phân biệt với cây chuyển gene nhận thêm gene từ loài khác).
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B19 (Mục II.3.a), tr. 113; SGK Sinh học 10 KNTT, Chương 05, B19 (Mục II.3), tr. 114
 
+### genetics
+- **Tiếng Việt:** Di truyền học
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The branch of biology that studies heredity and variation in living organisms, centered on genes (the intracellular hereditary factors governing traits).
+- **Giải thích (VI):** Ngành khoa học sinh học nghiên cứu về hiện tượng di truyền và biến dị ở các sinh vật, lấy gene (nhân tố di truyền nằm trong tế bào quy định các tính trạng) làm đối tượng trung tâm.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 36 (Mục I): Mở đầu chương Di truyền học Mendel và xác định đối tượng nghiên cứu trung tâm là gene.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36, tr. 159; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục I), tr. 159; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục II.1), tr. 159, 160
+
 ### genome
 - **Tiếng Việt:** Hệ gene
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The complete set of genetic material (all DNA molecules) within a cell of an organism, encompassing coding regions, regulatory regions, and non-coding sequences. Genome sequencing reveals the number, structure, distribution, and function of genes.
 - **Giải thích (VI):** Tập hợp tất cả vật chất di truyền (các phân tử DNA) trong tế bào của một sinh vật, bao gồm các vùng mã hoá, vùng điều hoà và các trình tự không mã hoá. Giải trình tự hệ gene cho biết số lượng, cấu trúc, sự phân bố và chức năng của các gene.
-- **Bối cảnh:** Sinh học lớp 12, Bài 2 (Mục II): Khái niệm trọng tâm trong nghiên cứu giải trình tự hệ gene sinh vật và hệ gene người.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục II.1), tr. 10; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục II.2.a), tr. 10; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4), tr. 17
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The entirety of the genetic material belonging to an individual organism or a virus. / VI: Toàn bộ vật chất di truyền của một cá thể sinh vật hoặc của một virus.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 2 (Mục II): Khái niệm trọng tâm trong nghiên cứu giải trình tự hệ gene sinh vật và hệ gene người.
+  - Khoa học tự nhiên lớp 9, Bài 38 (Mục II.4) và Bài 40 (Mục IV.2): giải thích tính đặc trưng của vật chất di truyền và sự đa dạng tính trạng ở mỗi loài sinh vật.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục II.1), tr. 10; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục II.2.a), tr. 10; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4), tr. 17; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục II.4), tr. 168; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục IV.2), tr. 177; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225, 226
 
 ### genotype
 - **Tiếng Việt:** Kiểu gene
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The genetic constitution of an individual (the specific combination of alleles in its cells, such as homozygous AA, aa or heterozygous Aa) that determines phenotypic expression.
 - **Giải thích (VI):** Tổ hợp các gene (cấu trúc di truyền gồm các cặp allele, như đồng hợp AA, aa hoặc dị hợp Aa) trong tế bào của một cá thể quy định sự biểu hiện kiểu hình của sinh vật.
-- **Bối cảnh:** Sinh học lớp 12, Bài 8 (Mục II.1) và Bài 9 (Mục I, II): Cấu trúc di truyền quy định tính trạng, phân biệt với kiểu hình biểu hiện ra bên ngoài.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.1), tr. 42; SGK Sinh học 12 KNTT, Chương 02, B9 (Mục I.1), tr. 46; SGK Sinh học 12 KNTT, Chương 02, B9 (Mục I.2), tr. 47
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The complete combination of all genes within the cells of an organism. In practice, a genotype usually refers only to one or several gene pairs associated with the traits of interest. / VI: Tổ hợp toàn bộ các gene trong tế bào của cơ thể sinh vật. Trên thực tế, kiểu gene thường chỉ xét một vài cặp gene liên quan đến các tính trạng đang quan tâm.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 8 (Mục II.1) và Bài 9 (Mục I, II): Cấu trúc di truyền quy định tính trạng, phân biệt với kiểu hình biểu hiện ra bên ngoài.
+  - Khoa học tự nhiên lớp 9, Bài 36 (Mục III.1): biểu diễn tổ hợp allele quy định tính trạng như đồng hợp ($AA$, $aa$) hoặc dị hợp ($Aa$), phân biệt với kiểu hình.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.1), tr. 42; SGK Sinh học 12 KNTT, Chương 02, B9 (Mục I.1), tr. 46; SGK Sinh học 12 KNTT, Chương 02, B9 (Mục I.2), tr. 47; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.1), tr. 161; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.2), tr. 161; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224
 
 ### genotype frequency
 - **Tiếng Việt:** Tần số kiểu gene
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The ratio of the number of individuals sharing a specific genotype to the total number of individuals in a population. This measure reflects the genotypic composition of the population, remaining constant at genetic equilibrium but shifting toward increased homozygosity and decreased heterozygosity under inbreeding.
 - **Giải thích (VI):** Tỉ số giữa số lượng cá thể mang cùng một kiểu gene xác định trên tổng số cá thể có trong quần thể. Đại lượng này phản ánh thành phần kiểu gene của quần thể, duy trì ổn định ở quần thể đạt cân bằng di truyền nhưng biến đổi theo hướng tăng đồng hợp tử và giảm dị hợp tử khi xảy ra giao phối cận huyết.
-- **Bối cảnh:** Sinh học lớp 12, Bài 18 (Mục I.2, II.2, III.2): Đặc trưng mô tả thành phần kiểu gene của quần thể và sự phân bố lại kiểu gene dưới các hình thức giao phối khác nhau.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 04, B18 (Mục I.2), tr. 92; SGK Sinh học 12 KNTT, Chương 04, B18 (Mục II.2), tr. 93; SGK Sinh học 12 KNTT, Chương 04, B18 (Mục III.2), tr. 94
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The ratio of the number of individuals carrying a specific genotype to the total number of individuals in a population. / VI: Tỉ lệ giữa số lượng cá thể mang một kiểu gene xác định trên tổng số các cá thể trong quần thể.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 18 (Mục I.2, II.2, III.2): Đặc trưng mô tả thành phần kiểu gene của quần thể và sự phân bố lại kiểu gene dưới các hình thức giao phối khác nhau.
+  - Khoa học tự nhiên lớp 9, Bài 50 (Mục III.1, III.3): thông số cấu trúc di truyền của quần thể dùng cùng tần số allele để nhận biết sự tác động của các nhân tố tiến hoá.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 04, B18 (Mục I.2), tr. 92; SGK Sinh học 12 KNTT, Chương 04, B18 (Mục II.2), tr. 93; SGK Sinh học 12 KNTT, Chương 04, B18 (Mục III.2), tr. 94; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 226; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.1), tr. 216; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3), tr. 216
 
 ### genotype–environment interaction
 - **Tiếng Việt:** Tương tác giữa kiểu gene và môi trường
@@ -4525,8 +4862,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The long-term rise in Earth's average temperature, driven primarily by human activities such as deforestation and excessive greenhouse gas emissions that intensify the greenhouse effect. It leads to climate change, sea-level rise, and more frequent extreme weather events, disrupting ecological balance on a global scale.
 - **Giải thích (VI):** Hiện tượng tăng nhiệt độ trung bình của Trái Đất trong thời gian dài, chủ yếu do các hoạt động của con người như chặt phá rừng và phát thải quá nhiều khí nhà kính làm gia tăng hiệu ứng nhà kính. Hiện tượng này dẫn đến biến đổi khí hậu, nước biển dâng và gia tăng các hiện tượng thời tiết cực đoan, gây mất cân bằng sinh thái trên quy mô toàn cầu.
-- **Bối cảnh:** Sinh học lớp 12, Bài 30 (Mục III): Vấn đề môi trường toàn cầu tác động sâu sắc đến diễn thế sinh thái, đa dạng sinh vật và đời sống con người.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B30 (Mục III), tr. 163; SGK Sinh học 12 KNTT, Chương 07, B30 (Mục III), tr. 163, 164
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The continuous rise in Earth's surface temperature caused by increasing atmospheric concentrations of greenhouse gases such as $\text{CO}_2$ and $\text{CH}_4$. It leads to severe environmental consequences including extreme weather events, melting ice caps, sea-level rise, ocean acidification, and expanding desertification. / VI: Hiện tượng nhiệt độ trung bình trên bề mặt Trái Đất tăng lên liên tục do sự gia tăng nồng độ các khí nhà kính như $\text{CO}_2$ và $\text{CH}_4$ trong khí quyển. Quá trình này gây ra nhiều hệ quả nghiêm trọng gồm thời tiết cực đoan, băng tan, nước biển dâng, acid hoá đại dương và gia tăng sa mạc hoá.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 30 (Mục III): Vấn đề môi trường toàn cầu tác động sâu sắc đến diễn thế sinh thái, đa dạng sinh vật và đời sống con người.
+  - Khoa học tự nhiên lớp 9, Bài 35 (Mục III.3): Đánh giá hệ quả môi trường toàn cầu của việc phát thải khí nhà kính và đề xuất biện pháp giảm thiểu.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B30 (Mục III), tr. 163; SGK Sinh học 12 KNTT, Chương 07, B30 (Mục III), tr. 163, 164; SGK Khoa học tự nhiên 9 KNTT, Chương 10, B35 (Mục III.2), tr. 157; SGK Khoa học tự nhiên 9 KNTT, Chương 10, B35 (Mục III.3), tr. 157; SGK Khoa học tự nhiên 9 KNTT, Chương 10, B35 (Mục III.3), tr. 157, 158
 
 ### glomerular capsule
 - **Tiếng Việt:** Nang cầu thận
@@ -4736,7 +5076,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 11, Bài 19 (Mục I.1, I.2): Khái niệm mở đầu về sinh trưởng và mối quan hệ mật thiết với quá trình phát triển ở sinh vật.
   - Khoa học tự nhiên lớp 7, Bài 36 (Mục I.1, I.2): Khái niệm sinh trưởng và mối quan hệ gắn bó, đan xen giữa sinh trưởng với phát triển trong vòng đời sinh vật.
   - *Lưu ý:* Chỉ sự lớn lên về kích thước và khối lượng của cơ thể sinh vật, phân biệt với tăng trưởng kinh tế hay gia tăng dân số.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B19 (Mục I.1), tr. 125; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục I.2), tr. 125; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục III.2), tr. 128; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.1), tr. 148, 149; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.2), tr. 149
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B19 (Mục I.1), tr. 125; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục I.2), tr. 125; SGK Sinh học 11 KNTT, Chương 03, B19 (Mục III.2), tr. 128; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.1), tr. 148, 149; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.2), tr. 149; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36, tr. 148; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.1), tr. 148
 
 ### growth factor (microbiology)
 - **Tiếng Việt:** Nhân tố sinh trưởng
@@ -4812,7 +5152,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Khoa học tự nhiên lớp 7, Bài 34 (Mục III): Vận dụng cơ chế hình thành tập tính học được để rèn luyện thói quen tốt và từ bỏ thói quen xấu trong học tập, đời sống.
   - *Lưu ý:* Xét dưới góc độ sinh học tập tính ở người (một dạng tập tính học được), phân biệt với nghĩa phong tục hay tập quán xã hội.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 08, B34 (Mục III), tr. 143, 144
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 08, B34 (Mục III), tr. 143, 144; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B34 (Mục II), tr. 143; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B34 (Mục III), tr. 143
 
 ### habituation
 - **Tiếng Việt:** Quen nhờn
@@ -4821,6 +5161,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hình thức học tập đơn giản nhất ở động vật, trong đó cá thể phớt lờ, không đáp ứng lại những kích thích lặp đi lặp lại nhiều lần nếu kích thích đó không kèm theo sự nguy hiểm.
 - **Bối cảnh:** Sinh học lớp 11, Bài 18 (Mục V.1): Một trong các hình thức học tập chủ yếu của động vật, minh hoạ qua phản ứng của rùa ngừng rụt đầu vào mai khi thả đá lặp lại nhiều lần bên cạnh.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B18 (Mục V.1), tr. 119; SGK Sinh học 11 KNTT, Chương 02, B18 (Mục VIII.2), tr. 123
+
+### haploid chromosome set
+- **Tiếng Việt:** Bộ NST đơn bội (bộ nhiễm sắc thể đơn bội)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A chromosome set in gametes whose chromosome number is half that of somatic cells, denoted as $n$.
+- **Giải thích (VI):** Bộ nhiễm sắc thể trong các giao tử có số lượng nhiễm sắc thể giảm đi một nửa so với tế bào sinh dưỡng, kí hiệu là $n$.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 42 (Mục II.1): tạo thành qua giảm phân ở giao tử và khôi phục lại bộ lưỡng bội ($2n$) thông qua thụ tinh.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42 (Mục II.1), tr. 183; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42 (Mục II.2), tr. 183; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42 (Mục III.3), tr. 185
 
 ### Hardy-Weinberg principle
 - **Tiếng Việt:** Nguyên lí Hardy – Weinberg
@@ -4932,21 +5280,35 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục III.1, IV.3): phân biệt với thiếu máu dinh dưỡng và liên hệ kĩ năng sơ cứu cầm máu kịp thời.
 - **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục II.1), tr. 138; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục II.2), tr. 138; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục III.1), tr. 138
 
+### hereditary defect
+- **Tiếng Việt:** Tật di truyền
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** Abnormal morphological changes of the body caused by gene or chromosomal mutations, which can often be corrected and cosmetically reconstructed through surgery.
+- **Giải thích (VI):** Những biến đổi bất thường về hình thái trên cơ thể do đột biến gene hoặc đột biến nhiễm sắc thể gây ra, có thể được khắc phục và tạo hình thẩm mĩ bằng phẫu thuật.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 47 (Mục II.1, II.4): phân biệt với bệnh di truyền là những rối loạn chức năng của các cơ quan trong cơ thể.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.1), tr. 202; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.2), tr. 202; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.3), tr. 202; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.4), tr. 203
+
 ### hereditary factor
 - **Tiếng Việt:** Nhân tố di truyền
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A discrete particulate unit of inheritance proposed by Mendel that exists in non-blending pairs in somatic cells to determine traits and passes intact from parents to offspring via gametes (each gamete carrying only one factor); modern genetics identifies hereditary factors as genes (alleles).
 - **Giải thích (VI):** Đơn vị vật chất di truyền dạng hạt do Mendel đề xuất, tồn tại thành từng cặp riêng rẽ không hòa trộn trong tế bào cơ thể để quy định tính trạng và truyền nguyên vẹn từ bố mẹ sang con qua giao tử (mỗi giao tử chỉ chứa một nhân tố); di truyền học hiện đại xác định bản chất của nhân tố di truyền chính là gene (allele).
-- **Bối cảnh:** Sinh học lớp 12, Bài 8 (Mục II.1, II.2): Thuật ngữ lịch sử trong giả thuyết và các quy luật di truyền của Mendel, tương ứng với khái niệm gene/allele hiện nay.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.1), tr. 42; SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.2), tr. 44
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A discrete hereditary unit existing in pairs within the cell nucleus without blending, governing the traits of an organism. In modern genetics, a hereditary factor corresponds to a gene or an allele. / VI: Đơn vị vật chất di truyền tồn tại thành từng cặp riêng rẽ trong nhân tế bào, không hoà trộn vào nhau và quy định tính trạng của cơ thể sinh vật. Trong di truyền học hiện đại, nhân tố di truyền chính là gene hay allele.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 8 (Mục II.1, II.2): Thuật ngữ lịch sử trong giả thuyết và các quy luật di truyền của Mendel, tương ứng với khái niệm gene/allele hiện nay.
+  - Khoa học tự nhiên lớp 9, Bài 36 (Mục I, II.1, III.1): khái niệm nền tảng của Mendel bác bỏ quan niệm di truyền hoà trộn và đặt cơ sở cho nghiên cứu về gene.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.1), tr. 42; SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.2), tr. 44; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục I), tr. 159; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục II.1), tr. 160; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.1), tr. 161; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục II.2), tr. 160
 
 ### heredity
-- **Tiếng Việt:** Di truyền
+- **Tiếng Việt:** Di truyền (hiện tượng di truyền)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The process of transmitting information governing traits from one generation to the next. Through chromosome replication and segregation during cell division, this process both passes genes intact from parents to offspring and transmits newly arising mutations.
 - **Giải thích (VI):** Quá trình truyền đạt thông tin quy định các tính trạng từ thế hệ này sang thế hệ khác. Nhờ sự nhân đôi và phân li nhiễm sắc thể trong phân bào, quá trình này vừa truyền đạt nguyên vẹn các gene từ bố mẹ sang đời con, vừa truyền lại những đột biến mới phát sinh.
-- **Bối cảnh:** Sinh học lớp 12, Bài 7 (Mục II.2) và Bài 12 (Mục VI): Chức năng truyền đạt thông tin di truyền của nhiễm sắc thể và mối quan hệ giữa di truyền với biến dị.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B7 (Mục II.2), tr. 38; SGK Sinh học 12 KNTT, Chương 02, B7 (Mục II.2), tr. 39; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục VI), tr. 65, 66
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The biological phenomenon in which traits of parents and ancestors are transmitted to offspring generations through hereditary factors (genes) located within cells. / VI: Hiện tượng truyền đạt các tính trạng của bố mẹ, tổ tiên cho các thế hệ con cháu thông qua các nhân tố di truyền (gene) nằm trong tế bào.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 7 (Mục II.2) và Bài 12 (Mục VI): Chức năng truyền đạt thông tin di truyền của nhiễm sắc thể và mối quan hệ giữa di truyền với biến dị.
+  - Khoa học tự nhiên lớp 9, Bài 36 (Mục I): Nhận diện hiện tượng con cái mang đặc điểm giống bố mẹ và phân biệt với hiện tượng biến dị.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B7 (Mục II.2), tr. 38; SGK Sinh học 12 KNTT, Chương 02, B7 (Mục II.2), tr. 39; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục VI), tr. 65, 66; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục I), tr. 159; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục II.1), tr. 159; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục II.1), tr. 160
 
 ### heritable variation
 - **Tiếng Việt:** Biến dị di truyền
@@ -5043,6 +5405,34 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nhóm sinh vật (điển hình là chim và thú) duy trì được nhiệt độ cơ thể ổn định, không biến đổi phụ thuộc vào nhiệt độ môi trường. Chúng điều hoà thân nhiệt thông qua các đặc điểm thích nghi về hình thái, cấu tạo, sinh lí và tập tính, chẳng hạn tích luỹ lớp mỡ dưới da, phát triển lông dày hoặc điều chỉnh tỉ lệ diện tích bề mặt trên thể tích cơ thể.
 - **Bối cảnh:** Sinh học lớp 12, Bài 23 (Mục II.2.b): Phân nhóm sinh vật theo khả năng điều hoà thân nhiệt trước tác động của nhân tố nhiệt độ, đối lập với sinh vật biến nhiệt.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B23 (Mục II.2.b), tr. 124
+
+### Homo neanderthalensis
+- **Tiếng Việt:** Người cận đại (Homo neanderthalensis; người Neanderthal)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An extinct species of the genus Homo that coexisted with early Homo sapiens before going extinct around 40,000 years ago. They walked upright nearly like modern humans, mastered the use of fire, lived by hunting and gathering with diverse flint tools, and developed early cultural life.
+- **Giải thích (VI):** Loài người hoá thạch thuộc chi Homo từng cùng tồn tại với người Homo sapiens cổ và tuyệt chủng cách đây khoảng 40 000 năm. Họ đi thẳng gần như người hiện đại, dùng lửa thông thạo, sống săn bắt và hái lượm với công cụ đá silic phong phú và bước đầu có đời sống văn hoá.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 51 (Mục II): Nhánh tiến hoá người cận đại song hành trước khi tuyệt chủng trong quá trình phát sinh loài người.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục II), tr. 222; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục II), tr. 222, 223; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục II), tr. 223
+
+### Homo sapiens
+- **Tiếng Việt:** Người hiện đại (Homo sapiens; người tinh khôn)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The human species that emerged in Africa approximately 100,000 to 150,000 years ago with morphology and skeletal structure matching present-day humans and spread across all continents. They crafted sophisticated tools from stone, bone, and horn, lived in tribes, and developed complex cultures with early art and religion.
+- **Giải thích (VI):** Loài người xuất hiện ở châu Phi khoảng 100 000 – 150 000 năm trước, có hình thái và bộ xương giống người ngày nay, phân bố khắp các châu lục. Họ biết chế tạo và sử dụng công cụ tinh xảo bằng đá, xương, sừng, sống thành bộ lạc với nền văn hoá phức tạp cùng mầm mống mĩ thuật và tôn giáo.
+- **Giải thích khác (SGK Lịch sử và Địa lí 6):** EN: The human species that evolved from archaic humans approximately 150,000 years ago, associated with clan communes and the formation of the three major racial groups: yellow, white, and black. / VI: Dạng người tiến hoá từ Người tối cổ vào khoảng 15 vạn năm trước, gắn với tổ chức công xã thị tộc và sự hình thành ba chủng tộc lớn trên thế giới gồm da vàng, da trắng và da đen.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 9, Bài 51 (Mục II): Giai đoạn tiến hoá hình thành loài người hiện nay.
+  - Lịch sử và Địa lí lớp 6, Bài 4 (Mục 1) và Bài 5 (Mục 1): mốc hoàn thiện quá trình tiến hoá sinh học của loài người và chủ nhân của xã hội công xã thị tộc.
+  - *Lưu ý:* Trong tiếng Anh học thuật còn gọi là anatomically modern human (AMH) hoặc modern human.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục II), tr. 222; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục II), tr. 222, 223; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục II), tr. 223; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B4, tr. 17; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 1), tr. 17; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 18
+
+### homologous chromosome pair
+- **Tiếng Việt:** Cặp NST tương đồng (cặp nhiễm sắc thể tương đồng)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A pair of chromosomes in a somatic cell nucleus consisting of two chromosomes identical in shape, size, and structure.
+- **Giải thích (VI):** Cặp nhiễm sắc thể tồn tại trong nhân tế bào sinh dưỡng gồm hai chiếc giống nhau về hình dạng, kích thước và cấu trúc.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 42 (Mục II.1): đơn vị cấu trúc nên bộ nhiễm sắc thể lưỡng bội ($2n$) trong tế bào sinh dưỡng.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42 (Mục II.1), tr. 183; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42 (Mục II.2), tr. 183; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B42 (Mục III.3), tr. 185
 
 ### homologous structure
 - **Tiếng Việt:** Cấu trúc tương đồng (cơ quan tương đồng)
@@ -5149,6 +5539,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 30 (Mục II): phân biệt thành phần và vai trò chính của các hệ cơ quan trong cơ thể.
 - **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B30, tr. 123; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B30 (Mục I), tr. 123; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B30 (Mục II), tr. 123, 124
 
+### human trait
+- **Tiếng Việt:** Tính trạng ở người
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** Observable bodily characteristics that distinguish one individual from another and are inherited across generations, such as height, skin color, hair form, hair color, eye color, eyelid type, or dimples.
+- **Giải thích (VI):** Các đặc điểm biểu hiện trên cơ thể dùng để phân biệt người này với người khác và di truyền qua các thế hệ, chẳng hạn chiều cao, màu da, dạng tóc, màu tóc, màu mắt, kiểu mí mắt hoặc má lúm đồng tiền.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 47 (Mục I): nhận diện kiểu hình của các tính trạng thường gặp trong nghiên cứu di truyền học người.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47, tr. 201; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục I), tr. 201; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục IV.3), tr. 205
+
 ### humoral immunity
 - **Tiếng Việt:** Miễn dịch dịch thể
 - **Chuyên ngành gốc:** Sinh học
@@ -5222,6 +5620,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Môi trường hoặc dung dịch bao quanh tế bào có tổng nồng độ chất tan thấp hơn tổng nồng độ chất tan bên trong tế bào, khiến nước thẩm thấu từ ngoài vào trong tế bào và tạo áp lực lên màng tế bào. Đối với tế bào thực vật, nấm và vi khuẩn, thành tế bào tạo lực cản chống lại sự khuếch tán thêm của nước nên nước chỉ đi vào một mức độ nhất định làm tế bào trương lên.
 - **Bối cảnh:** Sinh học lớp 10, Bài 10 (Mục II.1.c): Phân loại môi trường có nồng độ chất tan thấp hơn nội bào, đối lập với ưu trương và đẳng trương.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 03, B10 (Mục II.1.c), tr. 67; SGK Sinh học 10 KNTT, Bảng giải thích thuật ngữ, tr. 159
+
+### immersion oil
+- **Tiếng Việt:** Dầu soi kính hiển vi
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A transparent liquid with a high refractive index applied when viewing microscope slides at high magnification ($100\times$) to resolve minute specimens such as fixed chromosomes clearly.
+- **Giải thích (VI):** Chất lỏng chuyên dụng có đặc tính trong suốt và chỉ số khúc xạ cao, dùng khi quan sát tiêu bản dưới vật kính hiển vi ở độ phóng đại lớn ($100\times$) để nhìn rõ các mẫu vật có kích thước rất nhỏ như nhiễm sắc thể.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 1 (Mục I.4): Sử dụng kết hợp với kính hiển vi quang học khi quan sát tiêu bản cố định nhiễm sắc thể ở vật kính $100\times$.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.3), tr. 8; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục I.4), tr. 8; SGK Khoa học tự nhiên 9 KNTT, Chương 01, B1 (Mục II), tr. 8, 9
 
 ### immigration
 - **Tiếng Việt:** Mức nhập cư
@@ -5346,8 +5752,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Differences in traits observed among offspring produced by the same parents as well as between offspring and their parents, as described by Darwin. Such variations serve as essential raw material for both artificial selection and natural selection.
 - **Giải thích (VI):** Những đặc điểm khác biệt xuất hiện giữa các cá thể sinh ra từ cùng một cặp bố mẹ và khác với bố mẹ theo quan sát của Darwin. Đây là nguồn nguyên liệu cần thiết cho quá trình chọn lọc nhân tạo và chọn lọc tự nhiên.
-- **Bối cảnh:** Sinh học lớp 12, Bài 20 (Mục I.1, I.2): Thuật ngữ Darwin dùng để chỉ sự sai khác giữa các cá thể trong cùng một giống hoặc loài, làm cơ sở cho chọn lọc nhân tạo và chọn lọc tự nhiên.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B20 (Mục I.1), tr. 101; SGK Sinh học 12 KNTT, Chương 05, B20 (Mục I.1), tr. 102; SGK Sinh học 12 KNTT, Chương 05, B20 (Mục I.2), tr. 102, 103
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: Non-directional differences arising among individuals of the same species during reproduction in Darwin's theory, serving as raw material upon which natural selection acts to preserve advantageous variations and eliminate disadvantageous ones. / VI: Những đặc điểm sai khác vô hướng xuất hiện giữa các cá thể cùng loài trong quá trình sinh sản theo học thuyết Darwin, đóng vai trò là nguồn nguyên liệu cho chọn lọc tự nhiên giữ lại các biến dị có lợi và đào thải các biến dị bất lợi.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 20 (Mục I.1, I.2): Thuật ngữ Darwin dùng để chỉ sự sai khác giữa các cá thể trong cùng một giống hoặc loài, làm cơ sở cho chọn lọc nhân tạo và chọn lọc tự nhiên.
+  - Khoa học tự nhiên lớp 9, Bài 50 (Mục II): khái niệm trung tâm trong học thuyết tiến hoá của Darwin dùng để giải thích nguyên liệu của chọn lọc tự nhiên.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B20 (Mục I.1), tr. 101; SGK Sinh học 12 KNTT, Chương 05, B20 (Mục I.1), tr. 102; SGK Sinh học 12 KNTT, Chương 05, B20 (Mục I.2), tr. 102, 103; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục II), tr. 216; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.1), tr. 216; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.2), tr. 216
 
 ### inert substrate
 - **Tiếng Việt:** Giá thể trơ
@@ -5695,6 +6104,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 1 (Mục II.2): Mạch DNA mới được tổng hợp từng đoạn tại chạc sao chép, đối lập với mạch liên tục.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B1 (Mục II.2), tr. 7
 
+### Lamarckism
+- **Tiếng Việt:** Quan điểm tiến hoá của Lamarck
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An evolutionary doctrine proposing that organisms continually strive toward greater organizational complexity and actively modify their bodies to match slow environmental changes without any species becoming extinct. According to this view, evolution proceeds through the modification and transgenerational accumulation of traits acquired under environmental influence to form new species.
+- **Giải thích (VI):** Học thuyết tiến hoá cho rằng sinh vật không ngừng vươn tới tổ chức phức tạp hơn và luôn chủ động biến đổi cơ thể để thích ứng với sự thay đổi chậm chạp của ngoại cảnh nên không có loài nào bị đào thải. Theo quan điểm này, cơ chế tiến hoá là sự biến đổi và tích luỹ qua nhiều thế hệ các đặc tính thu được trong đời cá thể dưới tác động của môi trường để hình thành loài mới.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 50 (Mục I): đối chiếu với quan điểm của Darwin về sự hình thành loài hươu cao cổ và nhận diện hạn chế lịch sử khi chưa phân biệt biến dị di truyền với biến dị không di truyền.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục I), tr. 215; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục II), tr. 215; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục II), tr. 215, 216; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.4), tr. 218
+
 ### larva
 - **Tiếng Việt:** Ấu trùng
 - **Chuyên ngành gốc:** Sinh học
@@ -5720,7 +6137,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Sinh học lớp 11, Bài 20 (Mục II.1, II.2.b): Loại mô phân sinh đặc trưng ở cây hai lá mầm đảm nhiệm sinh trưởng thứ cấp.
   - Khoa học tự nhiên lớp 7, Bài 36 (Mục II): So sánh vị trí, chức năng với mô phân sinh đỉnh và giải thích sự khác biệt về độ lớn đường kính thân giữa cây hai lá mầm và cây một lá mầm.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B20 (Mục II.1), tr. 131; SGK Sinh học 11 KNTT, Chương 03, B20 (Mục II.2.b), tr. 132; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục II), tr. 149; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục II), tr. 150
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B20 (Mục II.1), tr. 131; SGK Sinh học 11 KNTT, Chương 03, B20 (Mục II.2.b), tr. 132; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục II), tr. 149; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục II), tr. 150; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.1), tr. 149; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.2), tr. 149
 
 ### law of combined ecological effects
 - **Tiếng Việt:** Quy luật tác động tổng hợp của các nhân tố sinh thái
@@ -5735,16 +6152,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Mendel's law of inheritance stating that pairs of hereditary factors (allele pairs) governing different traits segregate independently of one another during gamete formation. Its cytological basis is the independent assortment of different homologous chromosome pairs during meiosis combined with random fertilization of gametes.
 - **Giải thích (VI):** Quy luật di truyền của Mendel khẳng định các cặp nhân tố di truyền (các cặp allele) quy định các cặp tính trạng khác nhau phân li độc lập với nhau trong quá trình hình thành giao tử. Cơ sở tế bào học của quy luật là sự phân li độc lập của các cặp nhiễm sắc thể tương đồng khác nhau trong giảm phân kết hợp với sự thụ tinh ngẫu nhiên của các giao tử.
-- **Bối cảnh:** Sinh học lớp 12, Bài 8 (Mục II.2): Quy luật rút ra từ thí nghiệm lai hai tính trạng ở đậu hà lan, phân biệt với di truyền liên kết gene.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.2), tr. 43; SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.2), tr. 44
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: Mendel's principle stating that allele pairs governing different traits segregate independently of one another during gamete formation. / VI: Quy luật di truyền của Mendel khẳng định các cặp allele quy định các tính trạng khác nhau phân li độc lập với nhau trong quá trình hình thành giao tử.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 8 (Mục II.2): Quy luật rút ra từ thí nghiệm lai hai tính trạng ở đậu hà lan, phân biệt với di truyền liên kết gene.
+  - Khoa học tự nhiên lớp 9, Bài 37 (Mục II.2): giải thích sự hình thành 16 kiểu tổ hợp giao tử và tỉ lệ kiểu hình $9 : 3 : 3 : 1$ ở $F_2$ khi lai hai tính trạng.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.2), tr. 43; SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.2), tr. 44; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B37 (Mục II.2), tr. 165
 
 ### law of segregation
 - **Tiếng Việt:** Quy luật phân li
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Mendel's fundamental law of inheritance stating that each trait is governed by a pair of discrete hereditary factors (alleles), one from each parent, which segregate equally during gamete formation so that each gamete receives only one factor. Its cytological basis is the segregation of homologous chromosomes carrying the allele pair into gametes during meiosis.
 - **Giải thích (VI):** Quy luật di truyền cơ bản của Mendel khẳng định mỗi tính trạng do một cặp nhân tố di truyền (cặp allele) có nguồn gốc từ bố và mẹ quy định, tồn tại riêng rẽ trong tế bào và phân li đồng đều khi hình thành giao tử sao cho mỗi giao tử chỉ chứa một nhân tố. Cơ sở tế bào học của quy luật là sự phân li của cặp nhiễm sắc thể tương đồng mang cặp allele về các giao tử trong giảm phân.
-- **Bối cảnh:** Sinh học lớp 12, Bài 8 (Mục II.1): Quy luật rút ra từ thí nghiệm lai một tính trạng ở đậu hà lan.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.1), tr. 42
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: Mendel's principle stating that each trait is governed by a pair of alleles that separate equally during gamete formation via meiosis, so that each gamete receives only one allele of the pair. / VI: Quy luật di truyền của Mendel khẳng định mỗi tính trạng do một cặp allele quy định và khi giảm phân hình thành giao tử, các allele trong cặp phân li đồng đều về các giao tử nên mỗi giao tử chỉ chứa một allele của cặp.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 8 (Mục II.1): Quy luật rút ra từ thí nghiệm lai một tính trạng ở đậu hà lan.
+  - Khoa học tự nhiên lớp 9, Bài 37 (Mục I.2): giải thích cơ chế hình thành hai loại giao tử tỉ lệ ngang nhau ở $F_1$ và tỉ lệ kiểu hình 3 trội : 1 lặn ở $F_2$ trong phép lai một tính trạng.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.1), tr. 42; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B37 (Mục I.2), tr. 163; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B37 (Mục II.2), tr. 165
 
 ### law of unequal ecological effects
 - **Tiếng Việt:** Quy luật tác động không đồng đều của các nhân tố sinh thái
@@ -5779,7 +6202,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Sinh học lớp 11, Bài 18 (Mục II.2, V): Phân loại tập tính động vật theo nguồn gốc hình thành và giải thích cơ sở thần kinh của sự thay đổi tập tính.
   - Khoa học tự nhiên lớp 7, Bài 33 (Mục II.1) và Bài 34 (Mục II, III): Phân biệt với tập tính bẩm sinh và vận dụng trong huấn luyện vật nuôi, hình thành thói quen tốt ở người.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B18 (Mục II), tr. 116; SGK Sinh học 11 KNTT, Chương 02, B18 (Mục II.2), tr. 116; SGK Sinh học 11 KNTT, Chương 02, B18 (Mục II.2), tr. 116, 117; SGK Sinh học 11 KNTT, Chương 02, B18 (Mục V), tr. 119; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B33 (Mục II.1), tr. 139
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B18 (Mục II), tr. 116; SGK Sinh học 11 KNTT, Chương 02, B18 (Mục II.2), tr. 116; SGK Sinh học 11 KNTT, Chương 02, B18 (Mục II.2), tr. 116, 117; SGK Sinh học 11 KNTT, Chương 02, B18 (Mục V), tr. 119; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B33 (Mục II.1), tr. 139; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B33 (Mục I.1), tr. 139; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B33 (Mục I.2), tr. 139
 
 ### learning
 - **Tiếng Việt:** Học tập
@@ -5905,6 +6328,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại bản đồ di truyền được xây dựng dựa trên cơ chế trao đổi chéo giữa các nhiễm sắc thể tương đồng, trong đó trật tự và khoảng cách tương đối giữa các gene trên nhiễm sắc thể được xác định thông qua tần số hoán vị gene.
 - **Bối cảnh:** Sinh học lớp 12, Bài 11 (Mục III.1): Phân biệt bản đồ dựa trên tần số hoán vị gene với bản đồ vật lí dựa trên số cặp nucleotide.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B11 (Mục III.1), tr. 58
+
+### linked trait group
+- **Tiếng Việt:** Nhóm tính trạng di truyền liên kết
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A set of traits governed by genes located on the same chromosome that are consistently inherited together across generations.
+- **Giải thích (VI):** Tập hợp các tính trạng do các gene cùng nằm trên một nhiễm sắc thể quy định và luôn di truyền cùng nhau qua các thế hệ.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 45 (Mục II): ứng dụng trong chọn giống và chuyển gene để tuyển chọn các nhóm tính trạng tốt luôn đi kèm nhau.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B45 (Mục I.2), tr. 196; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B45 (Mục II), tr. 196
 
 ### lipase
 - **Tiếng Việt:** Lipase
@@ -6034,8 +6465,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Large-scale evolutionary processes occurring over vast spans of hundreds of millions to billions of years, giving rise to species, higher taxonomic ranks above the species level (genera, families, orders, etc.), and the entire living world. This process is closely tied to major geological changes on Earth that cause mass extinctions followed by the emergence of new species with markedly distinct traits.
 - **Giải thích (VI):** Quá trình tiến hoá diễn ra ở quy mô lớn qua khoảng thời gian dài hàng trăm triệu năm đến cả tỉ năm, hình thành nên loài, các đơn vị phân loại trên loài (chi, họ, bộ,…) và toàn bộ sinh giới. Quá trình này gắn liền với những biến đổi địa chất lớn của Trái Đất khiến nhiều loài tuyệt chủng hàng loạt và phát sinh các loài mới có đặc điểm khác biệt sâu sắc.
-- **Bối cảnh:** Sinh học lớp 12, Bài 22 (Mục I, III–V): Cấp độ tiến hoá trên loài qua các đại địa chất, đối chiếu với tiến hoá nhỏ ở quy mô quần thể.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B22 (Mục I), tr. 113; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục III), tr. 116; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục IV), tr. 117; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục V), tr. 120
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: An evolutionary process occurring across vast geographical areas and long geological timescales that gives rise to markedly distinct species classified into supraspecific taxa such as genera, families, orders, classes, phyla, and kingdoms. / VI: Quá trình tiến hoá diễn ra trong không gian địa lí rộng lớn và thời gian lịch sử lâu dài, hình thành các loài có nhiều đặc điểm khác biệt thuộc các đơn vị phân loại trên loài như chi (giống), họ, bộ, lớp, ngành và giới.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 22 (Mục I, III–V): Cấp độ tiến hoá trên loài qua các đại địa chất, đối chiếu với tiến hoá nhỏ ở quy mô quần thể.
+  - Khoa học tự nhiên lớp 9, Bài 50 (Mục III.4): Phân biệt với tiến hoá nhỏ về quy mô không gian, thời gian và kết quả hình thành các bậc phân loại trên loài.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B22 (Mục I), tr. 113; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục III), tr. 116; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục IV), tr. 117; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục V), tr. 120; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3.b), tr. 217; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3.c), tr. 217; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3.d), tr. 217
 
 ### macromolecule
 - **Tiếng Việt:** Đại phân tử (polymer)
@@ -6094,7 +6528,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A group of biomes in marine environments where organisms are distributed differently by depth (surface layer with plankton, middle layer with nekton, bottom layer with benthic animals) and horizontally (coastal zone and pelagic zone).
 - **Giải thích (VI):** Nhóm khu sinh học ở môi trường nước biển có sự phân bố sinh vật khác nhau theo chiều sâu (tầng nước mặt với sinh vật nổi, tầng giữa với sinh vật tự bơi, tầng dưới cùng với động vật đáy) và theo chiều ngang (vùng ven bờ và vùng khơi).
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 45 (Mục II.3): Sự phân bố sinh vật theo tầng sâu và vùng ngang trong các biển và đại dương.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II), tr. 186; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.3), tr. 187
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II), tr. 186; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.3), tr. 187; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.1), tr. 186; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.2), tr. 186
 
 ### mark and recapture
 - **Tiếng Việt:** Đánh dấu và bắt lại (phương pháp Petersen; ước lượng Petersen)
@@ -6152,16 +6586,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A diploid reproductive cell (2n) situated within the megasporangium of the ovule in flowering plants. It undergoes meiosis to produce four haploid megaspores (n), three of which degenerate while the single surviving megaspore divides mitotically to form the embryo sac.
 - **Giải thích (VI):** Tế bào sinh sản lưỡng bội (2n) nằm trong túi đại bào tử của noãn ở thực vật có hoa. Tế bào này tiến hành giảm phân tạo ra 4 đại bào tử đơn bội (n), trong đó ba đại bào tử tiêu biến và chỉ một đại bào tử sống sót tiếp tục nguyên phân để hình thành túi phôi.
-- **Bối cảnh:** Sinh học lớp 11, Bài 25 (Mục II.2.a): Tế bào khởi đầu cho quá trình hình thành túi phôi bên trong noãn.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B25 (Mục II.2.a), tr. 163
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A diploid cell ($2n$) located within the ovule of an angiosperm that undergoes meiosis to produce four haploid megaspores ($n$). / VI: Tế bào lưỡng bội ($2n$) nằm trong lá noãn ở thực vật hạt kín, tiến hành giảm phân sinh ra bốn đại bào tử đơn bội ($n$).
+- **Bối cảnh:**
+  - Sinh học lớp 11, Bài 25 (Mục II.2.a): Tế bào khởi đầu cho quá trình hình thành túi phôi bên trong noãn.
+  - Khoa học tự nhiên lớp 9, Bài 43 (Mục II.1, Bảng giải thích thuật ngữ): minh hoạ quá trình giảm phân hình thành giao tử cái (tế bào trứng) ở thực vật hạt kín như cây ngô.
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B25 (Mục II.2.a), tr. 163; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B43 (Mục II.1), tr. 188; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 226; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225
 
 ### meiosis
 - **Tiếng Việt:** Giảm phân (phân bào giảm nhiễm)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A form of cell division occurring in germ cells within reproductive organs to produce gametes, in which chromosomes replicate once during interphase followed by two consecutive divisions, meiosis I and meiosis II. From one diploid cell (2n), it yields four haploid daughter cells (n) with half the chromosome number and diverse gene combinations.
 - **Giải thích (VI):** Hình thức phân bào của các tế bào mầm sinh dục ở cơ quan sinh sản nhằm tạo giao tử, trong đó nhiễm sắc thể chỉ nhân đôi một lần ở kì trung gian nhưng trải qua hai lần phân chia liên tiếp là giảm phân I và giảm phân II. Từ một tế bào lưỡng bội (2n) tạo ra bốn tế bào con đơn bội (n) có số lượng nhiễm sắc thể giảm đi một nửa và mang các tổ hợp gene đa dạng.
-- **Bối cảnh:** Sinh học lớp 10, Bài 17 (Mục I): Cơ chế phân bào hình thành giao tử và tạo biến dị tổ hợp ở loài sinh sản hữu tính.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B17 (Mục I), tr. 104; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục I.3), tr. 105; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục III), tr. 106; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục III), tr. 107
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A form of cell division occurring in mature reproductive cells that involves one round of chromosome replication followed by two consecutive divisions (meiosis I and meiosis II), producing four daughter cells with half the chromosome number and distinct chromosome combinations. / VI: Hình thức phân bào diễn ra ở các tế bào sinh dục giai đoạn chín gồm một lần nhân đôi nhiễm sắc thể và hai lần phân chia kế tiếp (giảm phân I và giảm phân II), từ một tế bào mẹ tạo ra bốn tế bào con có số lượng nhiễm sắc thể giảm đi một nửa và chứa tổ hợp nhiễm sắc thể khác nhau.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 17 (Mục I): Cơ chế phân bào hình thành giao tử và tạo biến dị tổ hợp ở loài sinh sản hữu tính.
+  - Khoa học tự nhiên lớp 9, Bài 43 (Mục II.1, II.2, III, IV): tạo các giao tử đơn bội ($n$) và kết hợp với thụ tinh, nguyên phân để duy trì bộ nhiễm sắc thể đặc trưng ($2n$) của loài.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B17 (Mục I), tr. 104; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục I.3), tr. 105; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục III), tr. 106; SGK Sinh học 10 KNTT, Chương 05, B17 (Mục III), tr. 107; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B43 (Mục II.1), tr. 187; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B43 (Mục II.1), tr. 188; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B43 (Mục II.2), tr. 188; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B43 (Mục IV), tr. 190
 
 ### meiosis I
 - **Tiếng Việt:** Giảm phân I
@@ -6212,7 +6652,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Sinh học lớp 11, Bài 20 (Mục II.1): Cơ sở tế bào học tạo nên sự sinh trưởng sơ cấp và thứ cấp không giới hạn ở thực vật.
   - Khoa học tự nhiên lớp 7, Bài 36 (Mục II): Giải thích cơ sở tế bào giúp nhiều loài thực vật không ngừng dài ra và to lên.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B20 (Mục II.1), tr. 131; SGK Sinh học 11 KNTT, Chương 03, B20 (Mục V), tr. 140; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục II), tr. 149; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục II), tr. 150
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B20 (Mục II.1), tr. 131; SGK Sinh học 11 KNTT, Chương 03, B20 (Mục V), tr. 140; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục II), tr. 149; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục II), tr. 150; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.1), tr. 149; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B36 (Mục I.2), tr. 149
 
 ### mesophile
 - **Tiếng Việt:** Vi sinh vật ưa ấm
@@ -6344,8 +6784,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The evolutionary process occurring at the population scale (with each population serving as a unit of evolution), characterized by changes in a population's allele and genotype frequencies from one generation to the next. When gene pool divergence leads to the emergence of reproductive isolation between populations, this process results in the formation of new species.
 - **Giải thích (VI):** Quá trình tiến hoá diễn ra ở quy mô quần thể (với mỗi quần thể là một đơn vị tiến hoá), làm thay đổi tần số allele và tần số các kiểu gene của quần thể từ thế hệ này sang thế hệ khác. Khi sự phân hoá vốn gene dẫn đến xuất hiện cách li sinh sản giữa các quần thể, kết quả của quá trình này là sự hình thành loài mới.
-- **Bối cảnh:** Sinh học lớp 12, Bài 21 (Mục I, IV.2) và Bài 22 (Mục I, IV): Cấp độ tiến hoá ở quy mô quần thể, đối chiếu với tiến hoá lớn hình thành các đơn vị phân loại trên loài.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B21 (Mục I), tr. 106; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục IV.2), tr. 112; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục I), tr. 113; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục IV), tr. 117
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The process of change in allele frequencies and genotype frequencies of a population across successive generations. Operating with the population as the unit of evolution over a relatively narrow geographic range and short historical timescale, it can be investigated experimentally. / VI: Quá trình biến đổi tần số allele và tần số kiểu gene của quần thể qua các thế hệ nối tiếp nhau. Quá trình này diễn ra với quần thể là đơn vị tiến hoá trong phạm vi phân bố tương đối hẹp, thời gian lịch sử tương đối ngắn và có thể nghiên cứu bằng thực nghiệm.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 21 (Mục I, IV.2) và Bài 22 (Mục I, IV): Cấp độ tiến hoá ở quy mô quần thể, đối chiếu với tiến hoá lớn hình thành các đơn vị phân loại trên loài.
+  - Khoa học tự nhiên lớp 9, Bài 50 (Mục III.1, III.4): phân biệt với tiến hoá lớn là quá trình hình thành các đơn vị phân loại trên loài.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B21 (Mục I), tr. 106; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục IV.2), tr. 112; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục I), tr. 113; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục IV), tr. 117; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục II), tr. 216; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.1), tr. 216; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.2), tr. 216
 
 ### microfilament
 - **Tiếng Việt:** Vi sợi
@@ -6433,10 +6876,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A form of eukaryotic cell division occurring in somatic cells and primordial germ cells, comprising nuclear division (prophase, metaphase, anaphase, telophase) and cytokinesis. It produces two genetically identical daughter cells with the same chromosome set as the parent cell, maintaining genetic stability, replacing aged or damaged cells, and supporting organismal growth and development.
 - **Giải thích (VI):** Hình thức phân bào ở sinh vật nhân thực xảy ra tại tế bào sinh dưỡng và tế bào sinh dục sơ khai, gồm phân chia nhân (kì đầu, kì giữa, kì sau, kì cuối) và phân chia tế bào chất. Từ một tế bào mẹ tạo ra hai tế bào con có bộ nhiễm sắc thể giống hệt nhau và giống tế bào mẹ, giúp duy trì ổn định vật chất di truyền, thay thế tế bào già hoặc tổn thương và giúp cơ thể sinh trưởng, phát triển.
 - **Giải thích khác (SGK Sinh học 12):** EN: A form of eukaryotic cell division in which replicated chromosomes segregate equally into two daughter cells. This process transmits genetic information intact across cell generations (and organismal generations in asexually reproducing species) while maintaining an identical diploid chromosome set across somatic cells of multicellular organisms. / VI: Hình thức phân chia tế bào nhân thực trong đó nhiễm sắc thể nhân đôi rồi phân chia đồng đều về hai tế bào con. Quá trình này giúp truyền đạt nguyên vẹn thông tin di truyền qua các thế hệ tế bào (và thế hệ cơ thể ở loài sinh sản vô tính), đồng thời duy trì bộ nhiễm sắc thể lưỡng bội ổn định ở các tế bào cơ thể đa bào.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A form of eukaryotic cell division in somatic and growing reproductive cells in which the resulting daughter cells possess chromosome sets identical to one another and to the original parent cell. / VI: Hình thức phân chia tế bào ở tế bào sinh dưỡng và tế bào sinh sản đang sinh trưởng, trong đó các tế bào con tạo ra có bộ nhiễm sắc thể giống nhau và giống tế bào mẹ ban đầu.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 16 (Mục II): Hình thức phân bào bảo toàn bộ nhiễm sắc thể ở tế bào nhân thực.
   - Sinh học lớp 12, Bài 7 (Mục II.2): Cơ chế truyền đạt nguyên vẹn thông tin di truyền qua các thế hệ tế bào.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B16 (Mục II), tr. 99; SGK Sinh học 10 KNTT, Chương 05, B16 (Mục II.3), tr. 100; SGK Sinh học 10 KNTT, Chương 05, B16 (Mục III.2), tr. 103; SGK Sinh học 12 KNTT, Chương 02, B7 (Mục II.2), tr. 38; SGK Sinh học 12 KNTT, Chương 02, B7 (Mục II.2), tr. 39
+  - Khoa học tự nhiên lớp 9, Bài 43 (Mục I.1, I.2, III, IV): cơ sở tế bào học của sự sinh trưởng, tái sinh mô và nhân giống vô tính ở sinh vật nhân thực, phân biệt với giảm phân.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B16 (Mục II), tr. 99; SGK Sinh học 10 KNTT, Chương 05, B16 (Mục II.3), tr. 100; SGK Sinh học 10 KNTT, Chương 05, B16 (Mục III.2), tr. 103; SGK Sinh học 12 KNTT, Chương 02, B7 (Mục II.2), tr. 38; SGK Sinh học 12 KNTT, Chương 02, B7 (Mục II.2), tr. 39; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B43 (Mục I.1), tr. 186; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B43 (Mục I.1), tr. 187; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B43 (Mục I.2), tr. 187; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B43 (Mục IV), tr. 190
 
 ### mixed nerve
 - **Tiếng Việt:** Dây thần kinh hỗn hợp
@@ -6455,6 +6900,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hệ thống luận điểm nền tảng của sinh học khẳng định mọi sinh vật đều được cấu tạo từ một hoặc nhiều tế bào, tế bào là đơn vị cơ bản nhỏ nhất cấu tạo nên mọi sinh vật và chỉ được sinh ra từ sự phân chia của tế bào có trước. Theo học thuyết này, sự sống được tiếp diễn nhờ các quá trình chuyển hoá vật chất và di truyền diễn ra bên trong tế bào.
 - **Bối cảnh:** Sinh học lớp 10, Bài 4 (Mục I, III.2): Ba nội dung cốt lõi mở đầu phần Sinh học tế bào.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B4 (Mục I), tr. 23; SGK Sinh học 10 KNTT, Chương 01, B4 (Mục III.2), tr. 27
+
+### modern evolutionary synthesis
+- **Tiếng Việt:** Thuyết tiến hoá tổng hợp hiện đại
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An evolutionary theory integrating Darwinian natural selection with genetics, identifying the population as the unit of evolution and mutations plus recombinant variations as the primary sources of heritable variation. Under this theory, evolutionary factors (mutation, gene flow, natural selection, genetic drift, and non-random mating) alter a population's gene pool and drive species divergence primarily through natural selection.
+- **Giải thích (VI):** Học thuyết tiến hoá kết hợp chọn lọc tự nhiên của Darwin với di truyền học, xác định quần thể là đơn vị tiến hoá cùng nguồn biến dị di truyền chủ yếu là đột biến và biến dị tổ hợp. Theo học thuyết này, các nhân tố tiến hoá (đột biến, di – nhập gene, chọn lọc tự nhiên, yếu tố ngẫu nhiên, giao phối không ngẫu nhiên) làm biến đổi vốn gene của quần thể và dẫn tới sự phân li loài ban đầu dưới tác động chủ yếu của chọn lọc tự nhiên.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 50 (Mục III): hoàn thiện cơ chế tiến hoá ở cấp độ quần thể (tiến hoá nhỏ) và sự hình thành các đơn vị phân loại trên loài (tiến hoá lớn).
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.4), tr. 218
 
 ### modern synthesis
 - **Tiếng Việt:** Học thuyết tiến hoá tổng hợp (học thuyết tiến hoá tổng hợp hiện đại)
@@ -6538,10 +6991,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Messenger RNA, a linear single-stranded polynucleotide molecule synthesized from a gene template via transcription that serves as the direct template for protein synthesis at ribosomes.
 - **Giải thích (VI):** Loại phân tử RNA chỉ gồm một chuỗi polynucleotide dạng mạch thẳng được tổng hợp từ khuôn mẫu của gene qua quá trình phiên mã, có chức năng làm khuôn để tổng hợp protein tại ribosome.
 - **Giải thích khác (SGK Sinh học 12):** EN: A linear, single-stranded messenger RNA molecule that transmits genetic information from DNA (genes) to ribosomes and serves directly as the template for translation into polypeptide chains. / VI: Phân tử RNA thông tin có cấu tạo một mạch đơn dạng thẳng, giữ chức năng truyền thông tin di truyền từ DNA (gene) tới ribosome và làm khuôn trực tiếp cho quá trình dịch mã tổng hợp chuỗi polypeptide.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A linear single-stranded polyribonucleotide molecule that transmits genetic information by serving directly as the template for polypeptide chain synthesis. / VI: Phân tử RNA dạng chuỗi polyribonucleotide mạch thẳng có chức năng truyền đạt thông tin di truyền do trực tiếp làm khuôn cho quá trình tổng hợp chuỗi polypeptide.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 5 (Mục II.4.a, II.4.b): Phân tử trung gian truyền đạt thông tin di truyền từ DNA tới ribosome để dịch mã.
   - Sinh học lớp 12, Bài 2 (Mục III.1, III.2.a): Một trong ba loại RNA chính tham gia biểu hiện gene; ở sinh vật nhân sơ một mRNA thường mang trình tự mã hoá của vài gene, còn ở sinh vật nhân thực mỗi gene tạo mRNA riêng.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.a), tr. 37; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 38; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 39; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.1), tr. 11; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.a), tr. 12
+  - Khoa học tự nhiên lớp 9, Bài 38 (Mục III.2) và Bài 40 (Mục I, III): phân tử trung gian mang các bộ ba mã sao (codon) từ gene đến ribosome khi dịch mã.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.a), tr. 37; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 38; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 39; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.1), tr. 11; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.a), tr. 12; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục III.2), tr. 168; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục III.2), tr. 169; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B39 (Mục II), tr. 172
 
 ### mRNA vaccine
 - **Tiếng Việt:** Vaccine mRNA
@@ -6599,8 +7054,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** An organism carrying a mutated gene that expresses an abnormal phenotype; it serves as an important subject in genetic research and selective breeding of crops and livestock.
 - **Giải thích (VI):** Cơ thể sinh vật mang gene đột biến đã biểu hiện ra kiểu hình khác thường; là đối tượng quan trọng trong nghiên cứu di truyền cũng như trong chọn giống cây trồng và vật nuôi.
-- **Bối cảnh:** Sinh học lớp 12, Bài 4 (Mục I.1, III): Phân biệt cá thể đã biểu hiện kiểu hình đột biến với cá thể chỉ mang allele đột biến lặn ở trạng thái dị hợp.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B4 (Mục I.1), tr. 23; SGK Sinh học 12 KNTT, Chương 01, B4 (Mục III.1), tr. 25; SGK Sinh học 12 KNTT, Chương 01, B4 (Mục III.2), tr. 25
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: An individual organism carrying a mutant allele that has been expressed in its phenotype. / VI: Cơ thể sinh vật mang allele đột biến đã biểu hiện ra kiểu hình.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 4 (Mục I.1, III): Phân biệt cá thể đã biểu hiện kiểu hình đột biến với cá thể chỉ mang allele đột biến lặn ở trạng thái dị hợp.
+  - Khoa học tự nhiên lớp 9, Bài 41 (Mục II.1.b, II.2, Bảng giải thích thuật ngữ): phân biệt với các cá thể mang allele đột biến lặn ở trạng thái dị hợp nhưng chưa biểu hiện thành kiểu hình.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B4 (Mục I.1), tr. 23; SGK Sinh học 12 KNTT, Chương 01, B4 (Mục III.1), tr. 25; SGK Sinh học 12 KNTT, Chương 01, B4 (Mục III.2), tr. 25; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B41 (Mục II.1.b), tr. 179; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B41 (Mục II.2), tr. 180; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 226; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B41 (Mục II.2), tr. 179
 
 ### mycorrhiza
 - **Tiếng Việt:** Nấm rễ
@@ -6680,7 +7138,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Sinh học lớp 12, Bài 28 (Mục II.1): Phân loại hệ sinh thái đối lập với hệ sinh thái nhân tạo; ví dụ rừng mưa nhiệt đới, rừng ngập mặn, rạn san hô, sông, hồ tự nhiên.
   - Khoa học tự nhiên lớp 8, Bài 44 (Mục I.3): Phân loại các kiểu hệ sinh thái hình thành sẵn trong tự nhiên đối sánh với hệ sinh thái nhân tạo.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.1), tr. 153; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 154; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.3), tr. 181; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.3), tr. 181, 182
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.1), tr. 153; SGK Sinh học 12 KNTT, Chương 07, B28 (Mục II.2), tr. 154; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.3), tr. 181; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.3), tr. 181, 182; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B44 (Mục I.2), tr. 181
 
 ### natural enemy
 - **Tiếng Việt:** Thiên địch
@@ -6688,7 +7146,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Naturally occurring organisms capable of suppressing pests or pathogens through biological control, used in agriculture as an alternative to chemical pesticides to protect crops and maintain ecological balance.
 - **Giải thích (VI):** Các loài sinh vật tự nhiên có khả năng kìm hãm sinh vật gây hại hoặc tác nhân gây bệnh dựa trên hiện tượng khống chế sinh học, được sử dụng trong nông nghiệp thay cho thuốc hoá học để bảo vệ mùa màng và duy trì cân bằng tự nhiên.
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 46 (Mục I.2): Biện pháp sinh học ứng dụng hiện tượng khống chế sinh học để bảo vệ mùa màng.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.2), tr. 189
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.2), tr. 189; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.3), tr. 189; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.3), tr. 189, 190
 
 ### natural killer cell
 - **Tiếng Việt:** Tế bào giết tự nhiên
@@ -6703,8 +7161,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The process in which environmental factors act directly on phenotypes, thereby gradually increasing the frequencies of individuals, alleles, and genotypes conferring adaptive traits while decreasing those governing non-adaptive traits in a population across generations. It is the only evolutionary factor that alters allele frequencies in a definite direction, driving the formation of adapted populations and new species from a common ancestor.
 - **Giải thích (VI):** Quá trình các yếu tố môi trường tác động trực tiếp lên kiểu hình, qua đó làm tăng dần tần số các cá thể, allele và kiểu gene quy định đặc điểm thích nghi đồng thời làm giảm tần số các allele và kiểu gene không thích nghi trong quần thể qua các thế hệ. Đây là nhân tố tiến hoá duy nhất làm biến đổi tần số allele theo một hướng xác định, hình thành nên quần thể thích nghi và các loài mới từ tổ tiên chung.
-- **Bối cảnh:** Sinh học lớp 12, Bài 20 (Mục II) và Bài 21 (Mục II.4): Cơ chế tiến hoá trọng tâm trong học thuyết Darwin và là nhân tố tiến hoá có hướng trong học thuyết tiến hoá tổng hợp hiện đại.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B20 (Mục II), tr. 103, 104; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II.4), tr. 107; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II.4), tr. 108
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The process whereby individuals carrying heritable variations better suited to their environment achieve higher survival and reproductive success, increasing the frequency of adaptive alleles and making adapted individuals predominant in the population across generations. / VI: Quá trình các cá thể mang biến dị di truyền thích nghi hơn với môi trường sống có khả năng sống sót và sinh sản cao hơn, làm tăng tần số allele quy định đặc điểm thích nghi và khiến nhóm cá thể này ngày càng phổ biến trong quần thể qua các thế hệ.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 20 (Mục II) và Bài 21 (Mục II.4): Cơ chế tiến hoá trọng tâm trong học thuyết Darwin và là nhân tố tiến hoá có hướng trong học thuyết tiến hoá tổng hợp hiện đại.
+  - Khoa học tự nhiên lớp 9, Bài 49 (Mục III) và Bài 50 (Mục II, III.3): phân biệt với chọn lọc nhân tạo và giải thích sự hoá sẫm màu thân ở bướm Biston betularia hay hiện tượng vi khuẩn kháng kháng sinh.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B20 (Mục II), tr. 103, 104; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II.4), tr. 107; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II.4), tr. 108; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B49 (Mục III), tr. 213; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục II), tr. 216; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3), tr. 216
 
 ### negative pressure breathing
 - **Tiếng Việt:** Thông khí nhờ áp suất âm
@@ -6856,8 +7317,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Mating patterns comprising inbreeding and selective mating among individuals within a population. This evolutionary factor does not change allele frequencies, but shifts genotype frequencies toward increasing homozygotes and decreasing heterozygotes, thereby consistently reducing the population's genetic diversity.
 - **Giải thích (VI):** Hình thức giao phối bao gồm giao phối cận huyết và giao phối có lựa chọn giữa các cá thể trong quần thể. Nhân tố tiến hoá này không làm thay đổi tần số allele nhưng làm thay đổi tần số các kiểu gene theo hướng tăng dần kiểu gene đồng hợp, giảm dần kiểu gene dị hợp, qua đó luôn làm giảm sự đa dạng di truyền của quần thể.
-- **Bối cảnh:** Sinh học lớp 12, Bài 21 (Mục II.5): Nhân tố tiến hoá duy nhất chỉ làm biến đổi tần số kiểu gene mà không làm thay đổi tần số allele của quần thể.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II), tr. 106; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II.5), tr. 108
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: An evolutionary factor encompassing self-pollination in plants as well as inbreeding and assortative mating in animals, which does not alter allele frequencies but changes genotype frequencies within a population. / VI: Nhân tố tiến hoá bao gồm các hình thức như tự thụ phấn ở thực vật, giao phối cận huyết và giao phối có chọn lọc ở động vật, không làm thay đổi tần số các allele nhưng làm thay đổi tần số các kiểu gene trong quần thể.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 21 (Mục II.5): Nhân tố tiến hoá duy nhất chỉ làm biến đổi tần số kiểu gene mà không làm thay đổi tần số allele của quần thể.
+  - Khoa học tự nhiên lớp 9, Bài 50 (Mục III.3.e): Phân biệt với các nhân tố tiến hoá làm thay đổi tần số allele của quần thể.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II), tr. 106; SGK Sinh học 12 KNTT, Chương 05, B21 (Mục II.5), tr. 108; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3), tr. 216; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3.b), tr. 217; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3.c), tr. 217
 
 ### non-split gene
 - **Tiếng Việt:** Gene không phân mảnh
@@ -6888,8 +7352,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A class of biological macromolecules built as polymers of nucleotide monomers (originally discovered mainly in the cell nucleus), comprising two types—DNA and RNA—that store, preserve, transmit, and express genetic information.
 - **Giải thích (VI):** Nhóm đại phân tử sinh học được cấu tạo theo nguyên tắc đa phân từ các đơn phân là nucleotide (ban đầu được phát hiện chủ yếu trong nhân tế bào), gồm hai loại là DNA và RNA thực hiện chức năng lưu giữ, bảo quản, truyền đạt và biểu hiện thông tin di truyền.
-- **Bối cảnh:** Sinh học lớp 10, Bài 5 (Mục I, II.4): Nhóm đại phân tử thông tin di truyền của tế bào.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục I), tr. 28; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 36; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.a), tr. 36
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A biological macromolecule composed of the elements C, H, O, N, and P with a polymeric structure built from nucleotide monomers, found in living cells and viruses. Nucleic acids consist of two types: deoxyribonucleic acid (DNA) and ribonucleic acid (RNA). / VI: Đại phân tử sinh học cấu tạo từ các nguyên tố C, H, O, N, P theo cấu trúc đa phân với đơn phân là nucleotide, tìm thấy trong tế bào sinh vật và trong virus. Nucleic acid gồm hai loại là deoxyribonucleic acid (DNA) và ribonucleic acid (RNA).
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 5 (Mục I, II.4): Nhóm đại phân tử thông tin di truyền của tế bào.
+  - Khoa học tự nhiên lớp 9, Bài 38 (Mục I): khái niệm mở đầu về cơ sở phân tử của hiện tượng di truyền, phân loại thành hai nhóm DNA và RNA.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục I), tr. 28; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 36; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.a), tr. 36; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38, tr. 166; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục I), tr. 166; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục III.2), tr. 169; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục II.1), tr. 166
 
 ### nucleoid
 - **Tiếng Việt:** Vùng nhân
@@ -6979,8 +7446,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A pathological condition primarily caused by excessive energy intake from food and beverages, leading to metabolic disorders at both the cellular and organismal levels.
 - **Giải thích (VI):** Bệnh lí phát sinh chủ yếu khi cơ thể thu nhận quá nhiều năng lượng từ thức ăn và đồ uống, gây rối loạn quá trình trao đổi chất ở cả cấp độ tế bào và cơ thể.
-- **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 42 (Mục II): Ví dụ thực tiễn minh hoạ rối loạn trao đổi chất ảnh hưởng đến sự thống nhất hoạt động sống của toàn bộ cơ thể.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 10, B42 (Mục II), tr. 174
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A physiological condition characterized by excessive accumulation of fat in the body, increasing the risk of cardiovascular disease, stroke, diabetes, osteoarthritis, fatty liver, dyslipidemia, and cancer. / VI: Tình trạng tích tụ mỡ quá mức trong cơ thể, làm tăng nguy cơ mắc các bệnh tim mạch, đột quỵ, đái tháo đường, thoái hoá khớp, gan nhiễm mỡ, máu nhiễm mỡ và ung thư.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 7, Bài 42 (Mục II): Ví dụ thực tiễn minh hoạ rối loạn trao đổi chất ảnh hưởng đến sự thống nhất hoạt động sống của toàn bộ cơ thể.
+  - Khoa học tự nhiên lớp 9, Bài 28 (Mục II.5): Hệ quả sức khoẻ khi lạm dụng chất béo và mất cân đối dinh dưỡng, vận động.
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 10, B42 (Mục II), tr. 174; SGK Khoa học tự nhiên 9 KNTT, Chương 09, B28 (Mục II.3), tr. 130; SGK Khoa học tự nhiên 9 KNTT, Chương 09, B28 (Mục II.4), tr. 130; SGK Khoa học tự nhiên 9 KNTT, Chương 09, B28 (Mục II.5), tr. 130
 
 ### observation method
 - **Tiếng Việt:** Phương pháp quan sát
@@ -7038,6 +7508,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quá trình hình thành giao tử cái (tế bào trứng) diễn ra trong các nang trứng của hai buồng trứng từ các noãn bào bậc 1 (2n). Ở người, từ tuổi dậy thì đến khi mãn kinh, noãn bào bậc 1 tiến hành giảm phân I rồi dừng ở kì giữa giảm phân II khi trứng rụng (theo chu kì khoảng 28 ngày) và chỉ hoàn tất giảm phân II khi được tinh trùng thụ tinh.
 - **Bối cảnh:** Sinh học lớp 11, Bài 27 (Mục II.2.a): Quá trình phát triển noãn bào bậc 1 thành tế bào trứng trong buồng trứng ở nữ giới và động vật cái.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 04, B27 (Mục II.2.a), tr. 173
+
+### oogonium
+- **Tiếng Việt:** Noãn nguyên bào
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A diploid germ cell ($2n$) in the ovary that enters meiosis to give rise to a primary oocyte.
+- **Giải thích (VI):** Tế bào mầm lưỡng bội ($2n$) nằm trong buồng trứng, sinh ra noãn bào bậc 1 thông qua quá trình giảm phân.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 43 (Mục IV, Bảng giải thích thuật ngữ): minh hoạ quá trình phát sinh giao tử cái và kỉ lục kéo dài thời gian giảm phân ở người.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B43 (Mục IV), tr. 190; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225, 226
 
 ### open circulatory system
 - **Tiếng Việt:** Hệ tuần hoàn hở
@@ -7451,6 +7929,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 11, Bài 8 (Mục I.2) và Bài 12 (Mục III.2, IV.3): Cơ chế tiêu hoá nội bào ở động vật bậc thấp và đáp ứng tiêu diệt mầm bệnh của bạch cầu.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 03, B10 (Mục II.3), tr. 69; SGK Sinh học 10 KNTT, Chương 03, B10 (Mục II.3.a), tr. 69; SGK Sinh học 10 KNTT, Chương 03, B10 (Mục II.3), tr. 70; SGK Sinh học 11 KNTT, Chương 01, B8 (Mục I.2), tr. 47; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục III.2), tr. 74; SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.3), tr. 76
 
+### phenotype
+- **Tiếng Việt:** Kiểu hình
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The complete combination of all traits of an organism. In practice, a phenotype usually refers only to one or several specific traits under consideration.
+- **Giải thích (VI):** Tổ hợp toàn bộ tính trạng của cơ thể sinh vật. Trên thực tế, kiểu hình thường chỉ xét đến một hoặc một vài tính trạng đang quan tâm.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 36 (Mục III.1): mô tả sự biểu hiện tính trạng của cơ thể và phân biệt với kiểu gene.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.1), tr. 161; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.2), tr. 161; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224
+
+### phenotypic uniformity
+- **Tiếng Việt:** Đồng tính
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The phenomenon in which hybrid offspring exhibit a single uniform phenotype for the trait under study.
+- **Giải thích (VI):** Hiện tượng các con lai ở đời con đồng nhất về một loại kiểu hình đối với tính trạng đang xét.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 9, Bài 37 (Mục I.2, I.3): mô tả kết quả đời con $F_1$ khi lai bố mẹ thuần chủng tương phản hoặc kết quả phép lai phân tích của cơ thể đồng hợp trội, phân biệt với phân tính.
+  - *Lưu ý:* Trong di truyền học, thuật ngữ này chỉ sự đồng nhất về kiểu hình ở đời con lai, phân biệt với nghĩa giới tính xã hội hay tính đồng chất vật lí.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 11, B37 (Mục I.2), tr. 163; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B37 (Mục I.3), tr. 163, 164
+
 ### phenylketonuria
 - **Tiếng Việt:** Phenylketonuria (phenyl keton niệu)
 - **Chuyên ngành gốc:** Sinh học
@@ -7805,8 +8301,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The number of haploid chromosome sets (n) present in the cells of an organism (such as haploid n, diploid 2n, or polyploid levels like 3n, 4n, and 6n).
 - **Giải thích (VI):** Số lượng bộ nhiễm sắc thể đơn bội (n) có trong tế bào của cơ thể sinh vật (như đơn bội n, lưỡng bội 2n hoặc các mức đa bội 3n, 4n, 6n).
-- **Bối cảnh:** Sinh học lớp 12, Bài 10 (Mục I.2) và Bài 12 (Mục III.2.b): Cơ chế xác định giới tính theo mức bội thể ở ong, kiến và phân loại các thể đột biến đa bội.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B10 (Mục I.2), tr. 51; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục III.2.b), tr. 64
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A quantity measuring the number of haploid chromosome sets ($n$) present in the cells of an organism. / VI: Đại lượng đo lường số lượng bộ nhiễm sắc thể đơn bội ($n$) trong tế bào của cơ thể sinh vật.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 10 (Mục I.2) và Bài 12 (Mục III.2.b): Cơ chế xác định giới tính theo mức bội thể ở ong, kiến và phân loại các thể đột biến đa bội.
+  - Khoa học tự nhiên lớp 9, Bài 44 (Mục II): giải thích kiểu xác định giới tính ở ong và kiến với con đực đơn bội ($n$) và con cái lưỡng bội ($2n$).
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B10 (Mục I.2), tr. 51; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục III.2.b), tr. 64; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225, 226; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B44 (Mục II), tr. 192
 
 ### pneumonia
 - **Tiếng Việt:** Viêm phổi
@@ -7825,15 +8324,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Sinh học lớp 12, Bài 23 (Mục II.2.b): Phân nhóm sinh vật theo sự phụ thuộc thân nhiệt vào nhiệt độ môi trường, đối lập với sinh vật đẳng nhiệt.
   - Khoa học tự nhiên lớp 7, Bài 37 (Mục I.1): Phân tích ảnh hưởng của nhân tố nhiệt độ môi trường đến mức độ sinh trưởng và phát triển của sinh vật (như cá rô phi).
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B23 (Mục II.2.b), tr. 124; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B37 (Mục I.1), tr. 151
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 06, B23 (Mục II.2.b), tr. 124; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B37 (Mục I.1), tr. 151; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B37, tr. 151; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B37 (Mục I), tr. 151
 
 ### point mutation
 - **Tiếng Việt:** Đột biến điểm
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A type of gene mutation that alters gene structure at only a single nucleotide pair, encompassing substitution, insertion, or deletion of one nucleotide pair.
 - **Giải thích (VI):** Dạng đột biến gene làm thay đổi cấu trúc của gene nhưng chỉ liên quan đến một cặp nucleotide, gồm các dạng thay thế, thêm hoặc mất một cặp nucleotide.
-- **Bối cảnh:** Sinh học lớp 12, Bài 4 (Mục I.1, I.2): Nhóm đột biến gene được xét trọng tâm trong chương trình Sinh học 12.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B4 (Mục I.1), tr. 23; SGK Sinh học 12 KNTT, Chương 01, B4 (Mục III.3), tr. 26
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A type of gene mutation that involves an alteration in only a single nucleotide pair on a gene. / VI: Dạng đột biến gene chỉ liên quan đến sự biến đổi của một cặp nucleotide trên gene.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 4 (Mục I.1, I.2): Nhóm đột biến gene được xét trọng tâm trong chương trình Sinh học 12.
+  - Khoa học tự nhiên lớp 9, Bài 41 (Mục I): minh hoạ qua đột biến thay thế một cặp nucleotide T – A bằng cặp A – T gây bệnh thiếu máu hồng cầu hình liềm ở người.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B4 (Mục I.1), tr. 23; SGK Sinh học 12 KNTT, Chương 01, B4 (Mục III.3), tr. 26; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B41 (Mục I), tr. 179; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B41 (Mục II.1.a), tr. 179; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B41 (Mục II.1.b), tr. 179
 
 ### polar body
 - **Tiếng Việt:** Thể cực
@@ -7897,6 +8399,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Không nhầm với 'Polymer' (`polymer`) trong Hóa học.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B1 (Mục I), tr. 5; SGK Sinh học 12 KNTT, Chương 01, B1 (Mục II.2), tr. 8
 
+### polymerase chain reaction
+- **Tiếng Việt:** Kĩ thuật PCR (PCR; Polymerase Chain Reaction)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A molecular biology technique that simulates DNA replication under artificial conditions to produce a large number of copies of a specific DNA segment.
+- **Giải thích (VI):** Kĩ thuật sinh học phân tử mô phỏng quá trình tái bản DNA trong điều kiện nhân tạo, cho phép tạo ra số lượng lớn bản sao của một đoạn DNA xác định.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 39 (Mục II): kiến thức mở rộng về ứng dụng cơ chế tái bản DNA trong nông nghiệp, y tế và pháp y.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 11, B39 (Mục II), tr. 172
+
 ### polypeptide chain
 - **Tiếng Việt:** Chuỗi polypeptide
 - **Chuyên ngành gốc:** Sinh học
@@ -7905,13 +8415,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 5 (Mục II.3.b): Cấu trúc mạch đơn phân tạo nên phân tử protein.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.b), tr. 34, 35; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.3.b), tr. 35
 
+### polyploid
+- **Tiếng Việt:** Thể đa bội
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An organism composed of polyploid cells in which DNA content increases as a multiple of the haploid set ($n$) and organic synthesis occurs vigorously. Such mutants typically exhibit enlarged vegetative organs, rapid growth, and strong tolerance to adverse environmental conditions.
+- **Giải thích (VI):** Cơ thể mang các tế bào đa bội có hàm lượng DNA tăng theo bội số của bộ đơn bội ($n$) và quá trình tổng hợp chất hữu cơ diễn ra mạnh mẽ. Thể đột biến này thường có cơ quan sinh dưỡng lớn, sinh trưởng nhanh và chống chịu tốt với điều kiện môi trường bất lợi.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 46 (Mục III.2): cơ sở chọn tạo các giống cây đa bội lấy quả không hạt hoặc thu hoạch thân, lá năng suất cao.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục III.1), tr. 199; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục III.2), tr. 199; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục III.2), tr. 199, 200
+
 ### polyploidy
 - **Tiếng Việt:** Đột biến đa bội
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A type of numerical chromosomal mutation that increases the haploid chromosome set (n) of a species to an integer multiple greater than 2. It comprises autopolyploidy and allopolyploidy, arising from disrupted chromosome segregation during cell division or from distant hybridization followed by polyploidization.
 - **Giải thích (VI):** Dạng đột biến số lượng nhiễm sắc thể làm tăng số lượng bộ nhiễm sắc thể đơn bội (n) của loài lên một số nguyên lần lớn hơn 2. Đột biến này gồm hai dạng là đa bội cùng nguồn và đa bội khác nguồn, phát sinh do rối loạn sự phân li của các nhiễm sắc thể trong phân bào hoặc do lai xa kèm theo đa bội hoá.
-- **Bối cảnh:** Sinh học lớp 12, Bài 12 (Mục I, III.2, IV.2, VI): Phân loại, cơ chế phát sinh và hậu quả của đột biến đa bội đối với sinh vật.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B12 (Mục I), tr. 60; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục III.2.a), tr. 63; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục III.2.b), tr. 64; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục IV.2), tr. 64; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục VI), tr. 66
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A numerical chromosomal mutation that uniformly increases the number of chromosomes across all homologous pairs, resulting in a chromosome set greater than $2n$ (such as $3n$, $4n$, or $6n$). / VI: Dạng đột biến số lượng nhiễm sắc thể làm tăng đều số lượng nhiễm sắc thể ở tất cả các cặp tương đồng, tạo nên bộ nhiễm sắc thể lớn hơn $2n$ (như $3n$, $4n$, $6n$).
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 12 (Mục I, III.2, IV.2, VI): Phân loại, cơ chế phát sinh và hậu quả của đột biến đa bội đối với sinh vật.
+  - Khoa học tự nhiên lớp 9, Bài 46 (Mục III.1, III.2): phân biệt với đột biến lệch bội và ứng dụng tạo giống cây trồng, thuỷ sản đa bội có năng suất cao.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B12 (Mục I), tr. 60; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục III.2.a), tr. 63; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục III.2.b), tr. 64; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục IV.2), tr. 64; SGK Sinh học 12 KNTT, Chương 02, B12 (Mục VI), tr. 66; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục III.1), tr. 199; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục III.2), tr. 199; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B46 (Mục III.2), tr. 199, 200
 
 ### polyribosome
 - **Tiếng Việt:** Polyribosome
@@ -7978,7 +8499,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A state in which a population maintains a stable number of individuals suited to the environment's capacity to supply resources through self-regulation when individual numbers fall too low or rise too high.
 - **Giải thích (VI):** Trạng thái quần thể có số lượng cá thể ổn định và phù hợp với khả năng cung cấp nguồn sống của môi trường nhờ cơ chế tự điều chỉnh khi số cá thể giảm xuống quá thấp hoặc tăng lên quá cao.
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 46 (Mục I.1): Biểu hiện của cân bằng tự nhiên thông qua khả năng tự điều chỉnh số lượng cá thể của quần thể.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I), tr. 188; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.1), tr. 188
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I), tr. 188; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46 (Mục I.1), tr. 188; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B46, tr. 188
+
+### population genetic variation source
+- **Tiếng Việt:** Nguồn biến dị di truyền của quần thể
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The pool of heritable variations supplying raw material for selection within a population, comprising two intrinsic sources—mutations and recombinant variations—supplemented by the immigration of individuals or gametes from other populations.
+- **Giải thích (VI):** Tập hợp các biến dị di truyền cung cấp nguyên liệu cho chọn lọc trong quần thể, gồm hai nguồn phát sinh nội tại là đột biến và biến dị tổ hợp cùng nguồn bổ sung từ sự di chuyển của các cá thể hoặc giao tử từ quần thể khác vào.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 50 (Mục III.2): giải thích cơ sở di truyền của các biến dị làm nguyên liệu cho chọn lọc theo thuyết tiến hoá tổng hợp hiện đại.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục II), tr. 216; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.1), tr. 216; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.2), tr. 216
 
 ### population genetics
 - **Tiếng Việt:** Di truyền học quần thể
@@ -8037,12 +8566,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.1), tr. 11; SGK Sinh học 12 KNTT, Bảng giải thích thuật ngữ, tr. 195
 
 ### prebiotic evolution
-- **Tiếng Việt:** Tiến hoá tiền sinh học
+- **Tiếng Việt:** Tiến hoá tiền sinh học (giai đoạn tiến hoá tiền sinh học)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The evolutionary stage that formed primitive cells on Earth from organic compounds via intermediate protobiont structures, occurring approximately 4.2 to 3.8 billion years ago. This process resulted in the emergence of the first prokaryotic cells on Earth.
 - **Giải thích (VI):** Giai đoạn tiến hoá hình thành nên các tế bào sơ khai trên Trái Đất từ các hợp chất hữu cơ thông qua cấu trúc trung gian protobiont, xuất hiện cách đây khoảng 4,2 – 3,8 tỉ năm. Kết quả của quá trình này là sự ra đời của tế bào nhân sơ đầu tiên trên Trái Đất.
-- **Bối cảnh:** Sinh học lớp 12, Bài 22 (Mục II, II.2): Giai đoạn chuyển tiếp từ các hợp chất hữu cơ không sống sang các tế bào sơ khai đầu tiên trên Trái Đất.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B22 (Mục II), tr. 113; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục II.2), tr. 114; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục II.2), tr. 114, 115
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The transitional stage from complex organic compounds to the first protocells, marked by three key events: formation of phospholipid bilayers, formation of protocells, and emergence of self-replicating catalytic RNA molecules acting as templates to synthesize double-stranded DNA. / VI: Giai đoạn chuyển tiếp từ các hợp chất hữu cơ phức tạp sang các tế bào sơ khai đầu tiên, bao gồm ba sự kiện chính: hình thành lớp màng phospholipid kép, hình thành tế bào sơ khai và xuất hiện các phân tử RNA có khả năng tự sao chép, xúc tác làm khuôn tổng hợp DNA mạch kép.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 22 (Mục II, II.2): Giai đoạn chuyển tiếp từ các hợp chất hữu cơ không sống sang các tế bào sơ khai đầu tiên trên Trái Đất.
+  - Khoa học tự nhiên lớp 9, Bài 51 (Mục I.1.b): Giai đoạn nối tiếp tiến hoá hoá học và dẫn tới sự hình thành các tế bào sơ khai.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B22 (Mục II), tr. 113; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục II.2), tr. 114; SGK Sinh học 12 KNTT, Chương 05, B22 (Mục II.2), tr. 114, 115; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục I.1.a), tr. 220; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục I.1.b), tr. 220; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục I.2.a), tr. 220
 
 ### prediction
 - **Tiếng Việt:** Dự đoán
@@ -8075,6 +8607,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đáp ứng miễn dịch đặc hiệu (gồm cả miễn dịch dịch thể và miễn dịch tế bào) xảy ra khi hệ miễn dịch tiếp xúc lần đầu tiên với một loại kháng nguyên, thường cần khoảng 7 – 10 ngày để hình thành. Quá trình này đồng thời tạo ra các dòng tế bào nhớ giúp cơ thể phản ứng nhanh và mạnh hơn ở những lần tiếp xúc sau.
 - **Bối cảnh:** Sinh học lớp 11, Bài 12 (Mục IV.4): Phản ứng miễn dịch lần đầu với kháng nguyên hoặc khi tiêm vaccine, đặt nền tảng trí nhớ miễn dịch.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.4), tr. 77
+
+### primary oocyte
+- **Tiếng Việt:** Noãn bào bậc 1
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A diploid female germ cell ($2n$) formed when an oogonium ($2n$) enters meiosis and arrests at prophase I.
+- **Giải thích (VI):** Tế bào sinh dục cái lưỡng bội ($2n$) hình thành do noãn nguyên bào ($2n$) bước vào giảm phân và dừng lại ở kì đầu của giảm phân I.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 43 (Mục IV, Bảng giải thích thuật ngữ): giai đoạn tế bào sinh dục cái tạm dừng phân bào trong buồng trứng trước khi tiếp tục giảm phân tạo noãn bào bậc 2.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B43 (Mục IV), tr. 190; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 226; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225, 226
 
 ### primary succession
 - **Tiếng Việt:** Diễn thế nguyên sinh
@@ -8232,6 +8772,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 22 (Mục II.2): Cấu trúc trung gian quan trọng trong giai đoạn tiến hoá tiền sinh học hình thành tế bào sơ khai.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 05, B22 (Mục II.2), tr. 115
 
+### protocell
+- **Tiếng Việt:** Tế bào sơ khai
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A cell precursor formed in an aqueous environment from macromolecule-containing droplets enclosed by a phospholipid bilayer under natural selection. Protocells exhibit basic life-like properties including simple reproduction, metabolism, and structural stability.
+- **Giải thích (VI):** Cấu trúc tiền thân của tế bào hình thành trong môi trường nước từ các giọt nhỏ chứa đại phân tử hữu cơ được bao bọc bởi lớp màng phospholipid kép dưới tác động của chọn lọc tự nhiên. Tế bào sơ khai biểu hiện một số đặc tính cơ bản của sự sống gồm sinh sản đơn giản, chuyển hoá và duy trì ổn định cấu trúc.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 51 (Mục I.1.b): Tổ tiên sơ khai tiến hoá thành các sinh vật nhân sơ đơn bào đầu tiên.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục I.1.a), tr. 220; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục I.1.b), tr. 220; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục I.2.a), tr. 220
+
 ### prototroph
 - **Tiếng Việt:** Vi sinh vật nguyên dưỡng
 - **Chuyên ngành gốc:** Sinh học
@@ -8305,12 +8853,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 03, B22 (Mục II.2.a), tr. 147; SGK Sinh học 11 KNTT, Chương 03, B23 (Mục I), tr. 153
 
 ### pure line
-- **Tiếng Việt:** Dòng thuần chủng
+- **Tiếng Việt:** Dòng thuần chủng (Dòng thuần; giống thuần chủng)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A group of individuals sharing the same true-breeding (homozygous) genotype for the studied trait, yielding uniform offspring identical to the parental type (typically established in plants through self-pollination over multiple generations).
 - **Giải thích (VI):** Tập hợp các cá thể có cùng kiểu gene thuần chủng (đồng hợp) về tính trạng nghiên cứu, cho đời con đồng nhất mang đặc tính giống thế hệ bố mẹ (ở thực vật thường được tạo ra bằng cách cho tự thụ phấn qua nhiều thế hệ).
-- **Bối cảnh:** Sinh học lớp 12, Bài 8 (Mục II.1): Bước chuẩn bị vật liệu khởi đầu thế hệ P trong quy trình thí nghiệm lai của Mendel.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.1), tr. 41; SGK Sinh học 12 KNTT, Bảng giải thích thuật ngữ, tr. 194
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A group of organisms homozygous for all gene pairs, exhibiting uniform and stable hereditary characteristics across generations. In practice, a pure line refers to homozygosity in one or several studied traits. / VI: Nhóm các cơ thể đồng hợp về tất cả các cặp gene, có đặc tính di truyền đồng nhất và ổn định qua các thế hệ. Trên thực tế, dòng thuần thường chỉ xét sự thuần chủng ở một hoặc một số tính trạng nghiên cứu.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 8 (Mục II.1): Bước chuẩn bị vật liệu khởi đầu thế hệ P trong quy trình thí nghiệm lai của Mendel.
+  - Khoa học tự nhiên lớp 9, Bài 36 (Mục III.1): sử dụng trong nghiên cứu di truyền và chọn giống để duy trì tính trạng ổn định qua các thế hệ.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.1), tr. 41; SGK Sinh học 12 KNTT, Bảng giải thích thuật ngữ, tr. 194; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.1), tr. 161; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.2), tr. 161
+
+### purebred organism
+- **Tiếng Việt:** Cơ thể thuần chủng (thuần chủng)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An organism that possesses a homozygous genotype consisting of identical alleles for a given trait.
+- **Giải thích (VI):** Cơ thể có kiểu gene đồng hợp gồm các allele giống nhau quy định một tính trạng xác định.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 36 (Mục II.1, III.1): dùng làm thế hệ bố mẹ xuất phát ($P$) trong các thí nghiệm lai của Mendel, thu nhận qua nhiều thế hệ tự thụ phấn.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục II.1), tr. 160; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.1), tr. 161; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.2), tr. 161
 
 ### pylorus
 - **Tiếng Việt:** Môn vị
@@ -8343,6 +8902,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Kiểu phân bố trong đó vị trí của mỗi cá thể trong quần thể không theo quy luật cố định, xuất hiện khi điều kiện sống phân bố tương đối đồng đều và giữa các cá thể không có sự cạnh tranh gay gắt.
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 42 (Mục II.5): Phân biệt với phân bố đều và phân bố theo nhóm trong quần thể.
 - **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục II.5), tr. 176; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B42 (Mục III), tr. 176
+
+### random evolutionary factor
+- **Tiếng Việt:** Yếu tố ngẫu nhiên
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** An evolutionary factor consisting of unpredictable events such as natural disasters or forest fires that abruptly alter allele frequencies and genotype frequencies in a population, causing genetic drift.
+- **Giải thích (VI):** Nhân tố tiến hoá gồm các tác nhân bất ngờ như thiên tai, cháy rừng làm thay đổi đột ngột tần số các allele và tần số các kiểu gene của quần thể, gây nên hiện tượng biến động di truyền.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 9, Bài 50 (Mục III.3.d): Nhân tố tiến hoá gây biến đổi đột ngột, vô hướng cấu trúc di truyền của quần thể.
+  - *Lưu ý:* Chỉ tác nhân ngẫu nhiên gây ra biến động di truyền (genetic drift) trong tiến hoá quần thể, phân biệt với biến ngẫu nhiên trong xác suất thống kê.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3), tr. 216; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3.b), tr. 217; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B50 (Mục III.3.c), tr. 217
 
 ### random mating population
 - **Tiếng Việt:** Quần thể ngẫu phối
@@ -8398,6 +8967,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 10 (Mục II.3.a): Cơ chế lấy có chọn lọc các phân tử cần thiết từ môi trường ngoài nhờ thụ thể màng (Hình 10.4c).
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 03, B10 (Mục II.3), tr. 69; SGK Sinh học 10 KNTT, Chương 03, B10 (Mục II.3.a), tr. 69
 
+### recessive trait
+- **Tiếng Việt:** Tính trạng lặn
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A trait expressed in the phenotype only when an organism has a homozygous recessive genotype, remaining masked in the heterozygous state.
+- **Giải thích (VI):** Tính trạng chỉ biểu hiện ra kiểu hình khi cơ thể có kiểu gene đồng hợp lặn và bị che khuất ở trạng thái dị hợp.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 36 (Mục II.1, III.1): phân biệt với tính trạng trội; không xuất hiện ở kiểu hình $F_1$ dị hợp nhưng tái xuất hiện ở $F_2$ trong thí nghiệm của Mendel.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục II.1), tr. 160; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.1), tr. 161; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.2), tr. 161
+
 ### reciprocal translocation
 - **Tiếng Việt:** Chuyển đoạn tương đồng
 - **Chuyên ngành gốc:** Sinh học
@@ -8431,6 +9008,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tổ hợp kiểu hình mới ở đời con khác với kiểu hình của thế hệ bố mẹ, xuất hiện do sự thụ tinh của các giao tử mang gene hoán vị và chiếm tỉ lệ nhỏ hơn so với kiểu bố mẹ (ví dụ: ruồi thân xám, cánh cụt và thân đen, cánh dài trong phép lai phân tích của Morgan).
 - **Bối cảnh:** Sinh học lớp 12, Bài 11 (Mục II.1.a): Phân biệt nhóm kiểu hình mới do hoán vị gene với kiểu bố mẹ trong phép lai phân tích.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B11 (Mục II.1.a), tr. 56; SGK Sinh học 12 KNTT, Chương 02, B11 (Mục II.1.b), tr. 57
+
+### recombinant vector
+- **Tiếng Việt:** Thể truyền tái tổ hợp
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A vector molecule into which a foreign DNA segment—typically carrying a target gene sequence encoding a desired trait—has been inserted.
+- **Giải thích (VI):** Phân tử thể truyền sau khi đã được gắn cài một đoạn DNA ngoại lai, thường là đoạn DNA mang trình tự gene đích quy định tính trạng mong muốn.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 48 (Mục I.1, I.2): cấu trúc trung gian dùng để đưa gene đích vào hệ gene của cây trồng hoặc trứng đã thụ tinh của động vật.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 226
 
 ### recombination frequency
 - **Tiếng Việt:** Tần số hoán vị gene
@@ -8743,10 +9328,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** RNA molecules capable of catalyzing specific biochemical reactions in cells in a manner analogous to protein enzymes.
 - **Giải thích (VI):** Các phân tử RNA có khả năng xúc tác cho những phản ứng hoá học trong tế bào tương tự như hoạt động của các enzyme protein.
 - **Giải thích khác (SGK Sinh học 10):** EN: An RNA molecule capable of acting as a biological catalyst for certain chemical reactions inside the cell. / VI: Phân tử RNA có khả năng xúc tác sinh học cho một số phản ứng hoá học diễn ra bên trong tế bào.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A catalytically active RNA molecule formed through the polymerization of nucleotide monomers during prebiotic evolution. / VI: Phân tử RNA có hoạt tính xúc tác hình thành từ quá trình trùng hợp các đơn phân nucleotide trong giai đoạn tiến hoá tiền sinh học.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 5 (Mục II.4.b): Chức năng xúc tác sinh học đặc biệt của một số phân tử RNA.
   - Sinh học lớp 10, Bài 13 (Mục II.1): Trường hợp chất xúc tác sinh học có bản chất hoá học là RNA thay vì protein.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 39; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục II.1), tr. 80
+  - Khoa học tự nhiên lớp 9, Bài 51 (Mục I.1.b): Vai trò xúc tác và tự sao chép của RNA trước khi xuất hiện DNA mạch kép.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 39; SGK Sinh học 10 KNTT, Chương 04, B13 (Mục II.1), tr. 80; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục I.1.a), tr. 220; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục I.1.b), tr. 220; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục I.2.a), tr. 220
 
 ### ribulose 1,5-bisphosphate
 - **Tiếng Việt:** RuBP (ribulose 1; 5-bisphosphate)
@@ -8771,8 +9358,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** Ribonucleic acid, a nucleic acid composed predominantly of a single polynucleotide chain (with some small RNAs being double-stranded) built from nucleotide monomers containing a phosphate group, a five-carbon ribose sugar, and one of four bases (A, U, G, or C). RNA molecules perform diverse functions including serving as templates for protein synthesis (mRNA), transporting amino acids (tRNA), forming ribosomes (rRNA), regulating gene activity, and catalyzing chemical reactions.
 - **Giải thích (VI):** Loại nucleic acid (ribonucleic acid) có cấu trúc chủ yếu từ một chuỗi polynucleotide (một số ít RNA nhỏ có cấu trúc mạch kép), được cấu tạo từ các đơn phân nucleotide chứa gốc phosphate, đường 5 carbon ribose và một trong bốn loại base A, U, G, C. Các phân tử RNA thực hiện nhiều chức năng đa dạng như làm khuôn tổng hợp protein (mRNA), vận chuyển amino acid (tRNA), cấu tạo ribosome (rRNA), điều hoà hoạt động gene và xúc tác phản ứng hoá học.
-- **Bối cảnh:** Sinh học lớp 10, Bài 5 (Mục II.4.b): Cấu trúc đơn phân, các dạng phân tử và chức năng đa dạng của RNA trong tế bào.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 38; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 39; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 39, 40
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A single-stranded polymeric nucleic acid composed of four types of ribonucleotide monomers (A, U, G, and C) joined by covalent bonds into a polyribonucleotide chain. Major types include mRNA, tRNA, and rRNA, each differing in structure and function during protein synthesis. / VI: Đại phân tử nucleic acid có cấu trúc một mạch, cấu tạo đa phân từ bốn loại đơn phân ribonucleotide (A, U, G, C) liên kết với nhau bằng liên kết cộng hoá trị tạo thành chuỗi polyribonucleotide. Ba loại phổ biến gồm mRNA, tRNA và rRNA có cấu trúc và chức năng khác nhau trong tổng hợp protein.
+- **Bối cảnh:**
+  - Sinh học lớp 10, Bài 5 (Mục II.4.b): Cấu trúc đơn phân, các dạng phân tử và chức năng đa dạng của RNA trong tế bào.
+  - Khoa học tự nhiên lớp 9, Bài 38 (Mục I, III.1, III.2): phân biệt với DNA về cấu trúc một mạch (có đơn phân U thay cho T) và chức năng biểu hiện thông tin di truyền.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 38; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 39; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4), tr. 39, 40; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục I), tr. 166; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục III.1), tr. 168; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục III.2), tr. 169; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục II.3), tr. 167; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục II.3), tr. 168
 
 ### RNA polymerase
 - **Tiếng Việt:** Enzyme RNA polymerase (RNA polymerase)
@@ -8841,10 +9431,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Ribosomal RNA, a class of RNA molecules that forms a structural component of ribosomes, the cellular sites where protein synthesis takes place.
 - **Giải thích (VI):** Loại phân tử RNA tham gia trực tiếp cấu tạo nên ribosome là nơi thực hiện quá trình tổng hợp protein trong tế bào.
 - **Giải thích khác (SGK Sinh học 12):** EN: A single-stranded ribosomal RNA molecule that serves a structural role in building ribosomes and assists in recognizing mRNA to initiate translation. / VI: Phân tử RNA ribosome có cấu trúc mạch đơn, giữ chức năng cấu trúc tham gia cấu tạo nên ribosome và hỗ trợ nhận biết mRNA để tiến hành dịch mã.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A polyribonucleotide molecule with regions of internal complementary base pairing that form a characteristic three-dimensional structure, serving as the main structural component of ribosomes where protein synthesis takes place. / VI: Phân tử RNA gồm chuỗi polyribonucleotide có một số vùng tự bắt cặp theo nguyên tắc bổ sung tạo cấu trúc không gian ba chiều đặc trưng, là thành phần chủ yếu cấu tạo nên ribosome – nơi tổng hợp protein.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 5 (Mục II.4.b): Chức năng cấu trúc nên bộ máy tổng hợp protein của rRNA.
   - Sinh học lớp 12, Bài 2 (Mục III.2.c): Một trong ba loại RNA chính trong tế bào; sinh vật nhân sơ thường có 3 loại rRNA còn sinh vật nhân thực có 4 loại rRNA.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 39; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.1), tr. 11; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.c), tr. 13
+  - Khoa học tự nhiên lớp 9, Bài 38 (Mục III.2): một trong ba loại RNA chính trong tế bào, phân biệt về vai trò cấu tạo ribosome với mRNA và tRNA.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 39; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.1), tr. 11; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.c), tr. 13; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục III.2), tr. 168; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục III.2), tr. 169
 
 ### sac fungi
 - **Tiếng Việt:** Nấm túi
@@ -8929,6 +9521,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 11, Bài 12 (Mục IV.4): Cơ sở sinh học của trí nhớ miễn dịch giúp cơ thể không mắc bệnh hoặc chỉ mắc rất nhẹ khi tái nhiễm mầm bệnh.
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B12 (Mục IV.4), tr. 77
 
+### secondary oocyte
+- **Tiếng Việt:** Noãn bào bậc 2 (n kép)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A cell carrying a duplicated haploid chromosome set ($n$ duplicated) formed when a primary oocyte undergoes meiosis and arrests at metaphase II.
+- **Giải thích (VI):** Tế bào mang bộ nhiễm sắc thể đơn bội kép ($n$ kép) hình thành do noãn bào bậc 1 giảm phân và dừng lại ở kì giữa của giảm phân II.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 43 (Mục mở rộng): giải thích quá trình giảm phân hình thành giao tử cái và kỉ lục về thời gian phân bào.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 226
+
 ### secondary succession
 - **Tiếng Việt:** Diễn thế thứ sinh
 - **Chuyên ngành gốc:** Sinh học
@@ -8960,6 +9560,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại quả hình thành từ sự sinh trưởng và phát triển của bầu nhuỵ mà không trải qua quá trình thụ tinh tạo hạt. Trong trồng trọt, con người chủ động tạo quả không hạt bằng cách ngăn hoa thụ phấn và kích thích bầu nhuỵ phát triển.
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 40 (Mục II.2) và Bài 41 (Mục III.1): Giải thích sự hình thành quả không hạt trong tự nhiên và ứng dụng tạo chanh, nho, dưa hấu không hạt.
 - **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 10, B40 (Mục II.2), tr. 166; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B40 (Mục III), tr. 166; SGK Khoa học tự nhiên 7 KNTT, Chương 10, B40 (Mục III), tr. 166, 167
+
+### segregation of traits
+- **Tiếng Việt:** Phân tính
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The phenomenon in which offspring of a cross express multiple contrasting phenotypes, including both dominant and recessive traits, in definite ratios.
+- **Giải thích (VI):** Hiện tượng đời con của phép lai xuất hiện đồng thời các kiểu hình tương phản, gồm cả tính trạng trội và tính trạng lặn theo tỉ lệ xác định.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 37 (Mục I.2, I.3): mô tả sự xuất hiện tỉ lệ kiểu hình 3 trội : 1 lặn ở $F_2$ hoặc tỉ lệ $1 : 1$ trong phép lai phân tích, phân biệt với đồng tính.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 11, B37 (Mục I.2), tr. 163; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B37 (Mục I.3), tr. 163, 164; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B37 (Mục I.3), tr. 164
 
 ### selection pressure
 - **Tiếng Việt:** Áp lực chọn lọc
@@ -9044,8 +9652,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A type of chromosome carrying genes that determine an organism's sex as well as genes governing non-sexual traits. Depending on the species, sex chromosomes occur as homologous pairs or partially non-homologous pairs differing in size and gene sequence (such as XX and XY in humans).
 - **Giải thích (VI):** Loại nhiễm sắc thể mang các gene quy định giới tính đồng thời mang cả một số gene quy định tính trạng thường không liên quan đến giới tính. Tùy loài, nhiễm sắc thể giới tính tồn tại thành cặp tương đồng hoặc không hoàn toàn tương đồng về kích thước và trình tự gene (như cặp XX và XY ở người).
-- **Bối cảnh:** Sinh học lớp 12, Bài 10 (Mục I.1, II, III): Cấu trúc cặp nhiễm sắc thể giới tính (đoạn tương đồng, đoạn không tương đồng) và cơ sở của di truyền giới tính, di truyền liên kết với giới tính.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B10 (Mục I.1), tr. 50; SGK Sinh học 12 KNTT, Chương 02, B10 (Mục II), tr. 51; SGK Sinh học 12 KNTT, Chương 02, B10 (Mục III), tr. 53
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A type of chromosome typically present as a single homologous or non-homologous pair that differs between males and females and may carry sex-determining genes along with other genes. / VI: Loại nhiễm sắc thể thường chỉ có một cặp tương đồng hoặc không tương đồng, khác nhau giữa giới đực và giới cái, có thể chứa gene quy định giới tính cùng các gene khác.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 10 (Mục I.1, II, III): Cấu trúc cặp nhiễm sắc thể giới tính (đoạn tương đồng, đoạn không tương đồng) và cơ sở của di truyền giới tính, di truyền liên kết với giới tính.
+  - Khoa học tự nhiên lớp 9, Bài 44 (Mục I, II): phân biệt với nhiễm sắc thể thường và khảo sát các kiểu cặp XY, XX, ZW, ZZ ở động vật.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B10 (Mục I.1), tr. 50; SGK Sinh học 12 KNTT, Chương 02, B10 (Mục II), tr. 51; SGK Sinh học 12 KNTT, Chương 02, B10 (Mục III), tr. 53; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B44 (Mục I), tr. 191; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B44 (Mục II), tr. 192; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B44 (Mục III), tr. 193; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B44 (Mục III), tr. 192
 
 ### sex control in animals
 - **Tiếng Việt:** Điều khiển giới tính ở động vật
@@ -9062,6 +9673,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Kiểu di truyền các nhiễm sắc thể giới tính quy định đặc điểm giới tính của sinh vật, phổ biến ở động vật gồm các kiểu XX – XY, ZZ – ZW và XX – XO; ngoài ra ở một số loài, giới tính còn phụ thuộc vào mức bội thể của cơ thể (ong, kiến) hoặc nhiệt độ môi trường khi phát triển phôi (rùa, cá sấu).
 - **Bối cảnh:** Sinh học lớp 12, Bài 10 (Mục I.2): Các cơ chế nhiễm sắc thể và môi trường xác định giới tính ở sinh vật, phân biệt với di truyền liên kết với giới tính.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B10 (Mục I.2), tr. 51; SGK Sinh học 12 KNTT, Chương 02, B10 (Mục III), tr. 53
+
+### sex determination mechanism
+- **Tiếng Việt:** Cơ chế xác định giới tính
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The segregation of the sex chromosome pair during gametogenesis by meiosis and their recombination during fertilization in most sexually reproducing species. Theoretically, this mechanism yields a sex ratio of 1 male : 1 female.
+- **Giải thích (VI):** Quá trình phân li của cặp nhiễm sắc thể giới tính trong giảm phân phát sinh giao tử và tổ hợp lại trong thụ tinh ở đa số các loài giao phối. Tính theo lí thuyết, cơ chế này cho tỉ lệ phân li giới tính là 1 đực : 1 cái.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 44 (Mục II): giải thích sự hình thành giới tính ở người ($44\text{A} + \text{XX}$ và $44\text{A} + \text{XY}$) và các loài giao phối.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B44 (Mục II), tr. 192; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B44 (Mục III), tr. 193
+
+### sex differentiation
+- **Tiếng Việt:** Sự phân hoá giới tính
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The process of sex expression and development based on the sex chromosome pair while being influenced by internal factors (such as hormones) and external environmental factors (such as temperature and light).
+- **Giải thích (VI):** Quá trình biểu hiện và phát triển giới tính của cơ thể trên cơ sở cặp nhiễm sắc thể giới tính, đồng thời chịu ảnh hưởng của các yếu tố môi trường bên trong (như hormone) và bên ngoài cơ thể (như nhiệt độ, ánh sáng).
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 44 (Mục III): vận dụng điều chỉnh tỉ lệ đực, cái ở vật nuôi và cây trồng phù hợp với mục tiêu sản xuất.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 12, B44 (Mục II), tr. 192; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B44 (Mục III), tr. 192; SGK Khoa học tự nhiên 9 KNTT, Chương 12, B44 (Mục III), tr. 192, 193
 
 ### sex ratio
 - **Tiếng Việt:** Tỉ lệ giới tính
@@ -9353,7 +9980,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A medical instrument used to measure arterial blood pressure, commonly including aneroid and mercury sphygmomanometers. An aneroid sphygmomanometer consists of an inflatable rubber bladder inside a cloth cuff wrapped around the arm, connected via rubber tubing to a dial manometer and a rubber bulb with a release valve.
 - **Giải thích (VI):** Thiết bị y tế dùng để đo huyết áp của cơ thể, phổ biến gồm huyết áp kế đồng hồ và huyết áp kế thuỷ ngân. Huyết áp kế đồng hồ gồm bao cao su bọc trong băng vải quấn quanh cánh tay, nối qua ống cao su với áp kế đồng hồ và quả bóp cao su có van điều chỉnh.
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 1 (Mục III.2): Giới thiệu cấu tạo và thao tác sử dụng huyết áp kế đồng hồ phục vụ thực hành đo huyết áp ở người.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.2), tr. 8
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.2), tr. 8; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục II.2.b), tr. 8; SGK Khoa học tự nhiên 8 KNTT, Chương 01, B1 (Mục III.1), tr. 8
 
 ### spinal curvature disorder
 - **Tiếng Việt:** Tật cong vẹo cột sống
@@ -9474,12 +10101,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15, tr. 52; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục I), tr. 52; SGK Khoa học tự nhiên 6 KNTT, Chương 03, B15 (Mục I), tr. 52, 53
 
 ### start codon
-- **Tiếng Việt:** Bộ ba mở đầu (bộ ba khởi đầu)
+- **Tiếng Việt:** Bộ ba mở đầu (bộ ba khởi đầu; Codon mở đầu)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The nucleotide triplet AUG on an mRNA molecule that serves as the signal initiating translation and establishing the 5'→3' reading frame, while encoding methionine in eukaryotes or formylmethionine in prokaryotes.
 - **Giải thích (VI):** Bộ ba nucleotide AUG trên phân tử mRNA đóng vai trò là tín hiệu khởi đầu quá trình dịch mã và xác định chiều đọc từng bộ ba theo hướng 5'→3', đồng thời mã hoá cho amino acid methionine ở sinh vật nhân thực hoặc formylmethionine ở sinh vật nhân sơ.
-- **Bối cảnh:** Sinh học lớp 12, Bài 2 (Mục III.4): Bảng mã di truyền và cơ chế khởi đầu quá trình dịch mã trên phân tử mRNA.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.a), tr. 14
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The AUG triplet on an mRNA molecule that initiates protein synthesis while also encoding the amino acid methionine. / VI: Bộ ba AUG trên phân tử mRNA vừa mang tín hiệu mở đầu quá trình tổng hợp protein, vừa mã hoá cho amino acid methionine.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 2 (Mục III.4): Bảng mã di truyền và cơ chế khởi đầu quá trình dịch mã trên phân tử mRNA.
+  - Khoa học tự nhiên lớp 9, Bài 40 (Mục I, III): xác định điểm khởi đầu dịch mã trên phân tử mRNA, đối lập vai trò với các codon kết thúc.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.a), tr. 14; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục I), tr. 173, 174; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục I), tr. 174
 
 ### stationary phase (microbiology)
 - **Tiếng Việt:** Pha cân bằng
@@ -9535,12 +10165,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 01, B2 (Mục II.3.b), tr. 14; SGK Sinh học 11 KNTT, Chương 01, B2 (Mục II.3.b), tr. 15; SGK Sinh học 11 KNTT, Chương 01, B2 (Mục II.3.c), tr. 15; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B22 (Mục I.3), tr. 102; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B22 (Mục II), tr. 102; SGK Khoa học tự nhiên 7 KNTT, Chương 07, B22 (Mục II), tr. 102, 103
 
 ### stop codon
-- **Tiếng Việt:** Bộ ba kết thúc
+- **Tiếng Việt:** Bộ ba kết thúc (Codon kết thúc; mã kết thúc)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** One of the three nucleotide triplets on mRNA (typically UAA, UAG, and UGA) that does not encode an amino acid but signals the termination of translation. When a ribosome reaches a stop codon, no tRNA binds; instead, a release factor protein binds to detach the polypeptide chain and dissociate the two ribosomal subunits.
 - **Giải thích (VI):** Một trong ba bộ ba nucleotide trên mRNA (thường là UAA, UAG và UGA) không quy định amino acid mà cho biết tín hiệu kết thúc dịch mã. Khi ribosome đi tới bộ ba kết thúc, không có tRNA nào liên kết vào mà protein yếu tố giải phóng sẽ gắn vào để tách chuỗi polypeptide khỏi ribosome và tách hai tiểu phần ribosome.
-- **Bối cảnh:** Sinh học lớp 12, Bài 2 (Mục III.4.a, III.4.b) và Bài 4 (Mục III.2): Tín hiệu dừng dịch mã trên mRNA; đột biến làm xuất hiện bộ ba kết thúc sớm có thể làm thay đổi kiểu hình sinh vật.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.a), tr. 14; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.b), tr. 15, 16; SGK Sinh học 12 KNTT, Chương 01, B4 (Mục III.2), tr. 25
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: Any of the three mRNA codons (UAA, UAG, or UGA) that do not encode an amino acid but signal the termination of protein synthesis. / VI: Một trong ba bộ ba trên mRNA (UAA, UAG hoặc UGA) không mã hoá amino acid mà có vai trò báo hiệu kết thúc quá trình tổng hợp protein.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 2 (Mục III.4.a, III.4.b) và Bài 4 (Mục III.2): Tín hiệu dừng dịch mã trên mRNA; đột biến làm xuất hiện bộ ba kết thúc sớm có thể làm thay đổi kiểu hình sinh vật.
+  - Khoa học tự nhiên lớp 9, Bài 40 (Mục I, III): phân biệt với 61 codon mã hoá amino acid và đánh dấu giai đoạn kết thúc dịch mã trên ribosome.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.a), tr. 14; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.b), tr. 15, 16; SGK Sinh học 12 KNTT, Chương 01, B4 (Mục III.2), tr. 25; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục I), tr. 173, 174; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục I), tr. 174
 
 ### stroke
 - **Tiếng Việt:** Đột quỵ
@@ -9634,19 +10267,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Địa lí lớp 10, Bài 40 (Mục 1.a): Định nghĩa khái niệm và ba trụ cột cấu thành của phát triển bền vững.
   - Lịch sử và Địa lí lớp 6, Bài 29 (Mục 1): Mục tiêu định hướng xuyên suốt trong việc bảo vệ tự nhiên và khai thác hợp lí tài nguyên thiên nhiên.
   - Lịch sử và Địa lí lớp 7, Bài 15 (Mục 3): định hướng khai thác hiệu quả đi đôi với bảo vệ và phục hồi tài nguyên thiên nhiên ở Bắc Mỹ.
+  - Lịch sử và Địa lí lớp 9, Bài 13 (Mục 5): Định hướng kết hợp hài hoà giữa tăng trưởng kinh tế với bảo vệ tài nguyên, môi trường trong phát triển các vùng kinh tế và biển, đảo.
   - Giáo dục Kinh tế và Pháp luật lớp 12, Bài 1 (Mục 3): mục tiêu phát triển tổng thể gắn kết tăng trưởng kinh tế với công bằng xã hội và bảo vệ môi trường.
   - *Lưu ý:* Trong phạm vi Bài 15, thuật ngữ tập trung vào phương thức khai thác hợp lí và bảo vệ các nguồn tài nguyên thiên nhiên (đất, nước, rừng, khoáng sản) ở Bắc Mỹ.
-- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục III.1), tr. 9; SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục III.2), tr. 9; SGK Địa lí 10 KNTT, Phần ba, B40, tr. 111; SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 1.a), tr. 111; SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 1.b), tr. 111; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29, tr. 187; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29 (Mục 1), tr. 187; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29 (Mục 2), tr. 187; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 147; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 147, 148; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 148; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1, tr. 6; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 3), tr. 15; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 3), tr. 16
+- **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục III.1), tr. 9; SGK Sinh học 10 KNTT, Phần Mở đầu, B1 (Mục III.2), tr. 9; SGK Địa lí 10 KNTT, Phần ba, B40, tr. 111; SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 1.a), tr. 111; SGK Địa lí 10 KNTT, Phần ba, B40 (Mục 1.b), tr. 111; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29, tr. 187; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29 (Mục 1), tr. 187; SGK Lịch sử và Địa lí 6 KNTT, Phần Địa lí, Chương 07, B29 (Mục 2), tr. 187; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 2), tr. 147; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 147, 148; SGK Lịch sử và Địa lí 7 KNTT, Phần Địa lí, Chương 04, B15 (Mục 3), tr. 148; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Địa lí, Chương 03, B13 (Mục 5.b), tr. 174; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1, tr. 6; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 3), tr. 15; SGK GD KT&PL 12 KNTT, Chủ đề 01, B1 (Mục 3), tr. 16
 
 ### symbiosis
 - **Tiếng Việt:** Cộng sinh
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A close, long-term living association between two or more different biological species in which all participating species benefit (for example, the association between fungi and algae that forms lichens).
 - **Giải thích (VI):** Mối quan hệ sống chung chặt chẽ giữa hai hay nhiều loài sinh vật khác nhau, trong đó tất cả các loài tham gia đều có lợi (ví dụ: sự sống chung giữa nấm và tảo tạo thành địa y).
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A close cooperative relationship between two or more species that benefits the participating organisms throughout their growth and development. / VI: Mối quan hệ hỗ trợ chặt chẽ giữa hai hay nhiều loài sinh vật, mang lại lợi ích cho các loài tham gia trong suốt quá trình sinh trưởng và phát triển.
 - **Bối cảnh:**
   - Khoa học tự nhiên lớp 6, Bài 30 (Mục II.1): Giải thích vai trò của nguyên sinh vật và mối quan hệ tạo thành địa y trong tự nhiên.
+  - Khoa học tự nhiên lớp 9, Bài 51 (Mục I.2.b): Cơ chế liên kết giữa các sinh vật nhân thực đơn bào dẫn tới sự xuất hiện sinh vật đa bào.
   - *Lưu ý:* Trong chương trình phổ thông Việt Nam, thuật ngữ cộng sinh dùng theo nghĩa hẹp tương ứng với quan hệ hợp tác chặt chẽ đôi bên cùng có lợi (mutualism).
-- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục I), tr. 103; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục II.1), tr. 103; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục II.2), tr. 103
+- **Nguồn:** SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục I), tr. 103; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục II.1), tr. 103; SGK Khoa học tự nhiên 6 KNTT, Chương 07, B30 (Mục II.2), tr. 103; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 225, 226; SGK Khoa học tự nhiên 9 KNTT, Chương 14, B51 (Mục I.2.b), tr. 221
 
 ### symplast pathway
 - **Tiếng Việt:** Con đường tế bào chất
@@ -9691,6 +10327,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 10, Bài 12 (Mục I): Một trong bốn phương thức truyền tin chủ yếu giữa các tế bào trong cơ thể đa bào (Hình 12.1d).
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 03, B12 (Mục I), tr. 73; SGK Sinh học 10 KNTT, Chương 03, B12 (Mục I), tr. 74
 
+### syndactyly and polydactyly
+- **Tiếng Việt:** Tật dính hoặc thừa ngón tay, ngón chân (tật dính ngón tay)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A group of morphological hereditary defects of the hands and feet associated with mutations across approximately 20 known genes, impairing grasping ability or walking and running locomotion.
+- **Giải thích (VI):** Nhóm tật di truyền về hình thái bàn tay, bàn chân liên quan đến đột biến ở khoảng 20 gene đã biết, làm ảnh hưởng đến khả năng cầm nắm hoặc vận động đi, chạy của người mắc.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 47 (Mục II.4): ví dụ về tật di truyền hình thái chi ở người có thể can thiệp chỉnh hình bằng phẫu thuật.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.4), tr. 203; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục III), tr. 203; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục III), tr. 203, 204
+
 ### synthesis and breakdown of organic compounds
 - **Tiếng Việt:** Tổng hợp và phân giải chất hữu cơ
 - **Chuyên ngành gốc:** Sinh học
@@ -9705,7 +10349,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A human-synthesized preparation that suppresses the rate of growth and development of specific plant organs for agricultural or horticultural purposes. These substances are commonly used to inhibit the sprouting of seeds, bulbs, and tubers (such as onions, garlic, and potatoes) during storage or to restrict stem and leaf elongation to maintain ornamental plant shape.
 - **Giải thích (VI):** Chế phẩm do con người tổng hợp có tác dụng kìm hãm tốc độ sinh trưởng và phát triển của một số cơ quan ở thực vật theo mục đích sản xuất. Nhóm chất này thường dùng để ức chế sự nảy mầm của hạt, củ (như hành, tỏi, khoai tây) trong bảo quản nông sản hoặc hạn chế sự vươn dài của thân, lá nhằm duy trì dáng cây cảnh.
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 37 (Mục II): Phân biệt mục đích sử dụng với chất kích thích sinh trưởng trong bảo quản nông sản và tạo dáng cây cảnh.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 09, B37 (Mục II.b), tr. 153, 154
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 09, B37 (Mục II.b), tr. 153, 154; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B37 (Mục I.4), tr. 153; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B37 (Mục II.a), tr. 153
 
 ### synthetic growth promoter
 - **Tiếng Việt:** Chất kích thích sinh trưởng nhân tạo (chất kích thích nhân tạo; chế phẩm kích thích sinh trưởng)
@@ -9713,7 +10357,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A human-synthesized preparation used to promote growth and developmental processes such as stimulating seed and tuber germination, rooting, stem elongation, leaf growth, flowering, and fruit set. Using it on the right target organism, at the proper timing and dosage within permitted lists, while observing withdrawal periods increases crop and livestock yields while ensuring food safety.
 - **Giải thích (VI):** Chế phẩm do con người tổng hợp dùng để thúc đẩy các quá trình sinh trưởng và phát triển như kích thích hạt, củ nảy mầm, ra rễ, tăng chiều cao cây, phát triển lá, ra hoa và tạo quả. Việc sử dụng đúng đối tượng, đúng thời điểm, đúng liều lượng trong danh mục cho phép và tuân thủ thời gian cách li giúp tăng năng suất cây trồng, vật nuôi mà vẫn đảm bảo an toàn thực phẩm.
 - **Bối cảnh:** Khoa học tự nhiên lớp 7, Bài 37 (Mục II): Vận dụng các chất điều hoà sinh trưởng nhân tạo nhằm tăng năng suất nông nghiệp đi đôi với bảo đảm an toàn thực phẩm.
-- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 09, B37 (Mục II.b), tr. 153, 154
+- **Nguồn:** SGK Khoa học tự nhiên 7 KNTT, Chương 09, B37 (Mục II.b), tr. 153, 154; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B37 (Mục I.4), tr. 153; SGK Khoa học tự nhiên 7 KNTT, Chương 09, B37 (Mục II.a), tr. 153
 
 ### syphilis
 - **Tiếng Việt:** Bệnh giang mai
@@ -9868,7 +10512,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A group of land-based biomes determined by the climatic characteristics (temperature and moisture) of each geographic region with specifically adapted organisms, ranging from polar to tropical zones such as tundra, boreal coniferous forest, temperate forest, temperate grassland, savanna, desert, and tropical rainforest.
 - **Giải thích (VI):** Nhóm khu sinh học phân bố trên đất liền theo đặc tính khí hậu (nhiệt độ, độ ẩm) của mỗi vùng địa lí với các sinh vật thích nghi đặc trưng, trải dài từ vùng cực đến vùng nhiệt đới như đồng rêu hàn đới, rừng lá kim phương bắc, rừng ôn đới, đồng cỏ ôn đới, savan, sa mạc và rừng mưa nhiệt đới.
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 45 (Mục II.1): Các khu sinh học chính phân bố trên đất liền theo vĩ độ và điều kiện nhiệt ẩm.
-- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II), tr. 186; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.1), tr. 186
+- **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II), tr. 186; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.1), tr. 186; SGK Khoa học tự nhiên 8 KNTT, Chương 08, B45 (Mục II.2), tr. 186
 
 ### terrestrial environment
 - **Tiếng Việt:** Môi trường trên cạn (môi trường cạn)
@@ -9887,12 +10531,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B18 (Mục III.2), tr. 117; SGK Sinh học 11 KNTT, Chương 02, B18 (Mục VIII.1), tr. 122; SGK Sinh học 11 KNTT, Chương 02, B18 (Mục VIII.2), tr. 123
 
 ### test cross
-- **Tiếng Việt:** Phép lai kiểm nghiệm (lai phân tích)
+- **Tiếng Việt:** Phép lai kiểm nghiệm (lai phân tích; Phép lai phân tích)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A cross between an individual showing a dominant phenotype (such as an F₁ hybrid) and a homozygous recessive individual to determine the types and proportions of gametes produced by the dominant individual, thereby testing its genotype or verifying laws of inheritance (segregation, independent assortment, linkage, and recombination).
 - **Giải thích (VI):** Phép lai giữa cá thể mang kiểu hình trội (như con lai F₁) với cá thể lặn thuần chủng nhằm xác định các loại giao tử và tỉ lệ giao tử do cá thể mang kiểu hình trội tạo ra, qua đó kiểm tra kiểu gene hoặc kiểm chứng quy luật di truyền (phân li, phân li độc lập, liên kết và hoán vị gene).
-- **Bối cảnh:** Sinh học lớp 12, Bài 8 (Mục II.1, II.2) và Bài 11 (Mục I.1.a): Phương pháp kiểm chứng giả thuyết của Mendel và phát hiện liên kết, hoán vị gene của Morgan.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.1), tr. 42; SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.2), tr. 44; SGK Sinh học 12 KNTT, Chương 02, B11 (Mục I.1.a), tr. 54
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A genetic cross between an organism expressing a dominant trait of unknown genotype and an organism expressing the recessive trait to determine the genotype of the dominant parent. / VI: Phép lai giữa cơ thể mang tính trạng trội chưa biết kiểu gene với cơ thể mang tính trạng lặn nhằm xác định kiểu gene của cơ thể mang tính trạng trội.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 8 (Mục II.1, II.2) và Bài 11 (Mục I.1.a): Phương pháp kiểm chứng giả thuyết của Mendel và phát hiện liên kết, hoán vị gene của Morgan.
+  - Khoa học tự nhiên lớp 9, Bài 37 (Mục I.3): kiểm tra cơ thể mang tính trạng trội có kiểu gene đồng hợp ($AA$, đời con đồng tính) hay dị hợp ($Aa$, đời con phân tính tỉ lệ $1 : 1$).
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.1), tr. 42; SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.2), tr. 44; SGK Sinh học 12 KNTT, Chương 02, B11 (Mục I.1.a), tr. 54; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B37 (Mục I.3), tr. 163, 164; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B37 (Mục I.3), tr. 164; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B37 (Mục II.2), tr. 165; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B37 (Mục I.2), tr. 163
 
 ### testosterone
 - **Tiếng Việt:** Testosterone
@@ -9935,7 +10582,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Sinh học lớp 11, Bài 15 (Mục II.1.a): Kiểu hướng động đối với tác nhân tiếp xúc cơ học một phía, cơ sở cho biện pháp làm giàn leo trong trồng trọt.
   - Khoa học tự nhiên lớp 7, Bài 34 (Mục I) và Bài 35 (Mục II.3): Quan sát tính hướng tiếp xúc và ứng dụng làm giàn, trụ bám cho cây thân leo.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B15 (Mục II.1.a), tr. 92; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B34, tr. 141; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B34 (Mục I), tr. 141, 142; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B35 (Mục II.3), tr. 146
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B15 (Mục II.1.a), tr. 92; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B34, tr. 141; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B34 (Mục I), tr. 141, 142; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B35 (Mục II.3), tr. 146; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B34 (Mục I), tr. 141
 
 ### thylakoid
 - **Tiếng Việt:** Thylakoid
@@ -10078,8 +10725,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** A morphological, structural, physiological, or behavioral characteristic of an organism (for example, flower color, stem height, or seed shape in garden peas).
 - **Giải thích (VI):** Đặc điểm về hình thái, cấu tạo, sinh lí hoặc tập tính của một cơ thể sinh vật (ví dụ: màu hoa, chiều cao cây, hình dạng hạt ở đậu hà lan).
-- **Bối cảnh:** Sinh học lớp 12, Bài 8 (Mục II.1): Khái niệm cơ bản khi phân tích sự di truyền các đặc điểm của sinh vật qua các thế hệ.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.1), tr. 41; SGK Sinh học 12 KNTT, Bảng giải thích thuật ngữ, tr. 195
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A specific morphological, structural, or physiological characteristic of an organism (such as flower color, seed color, seed shape, or stem height in pea plants) governed by hereditary factors within cells. / VI: Đặc điểm cụ thể về hình thái, cấu tạo hoặc sinh lí của một cơ thể sinh vật (chẳng hạn màu hoa, màu hạt, hình dạng hạt hay chiều cao thân ở cây đậu hà lan), do nhân tố di truyền trong tế bào quy định.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 8 (Mục II.1): Khái niệm cơ bản khi phân tích sự di truyền các đặc điểm của sinh vật qua các thế hệ.
+  - Khoa học tự nhiên lớp 9, Bài 36 (Mục II.1): Khái niệm cơ sở để phân tích các phép lai của Mendel và phân biệt với tính trạng tương phản hay kiểu hình.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 02, B8 (Mục II.1), tr. 41; SGK Sinh học 12 KNTT, Bảng giải thích thuật ngữ, tr. 195; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục II.1), tr. 159; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục II.1), tr. 160; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục II.2), tr. 160
 
 ### trans fat
 - **Tiếng Việt:** Chất béo trans
@@ -10098,12 +10748,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B3 (Mục I.1), tr. 18; SGK Sinh học 12 KNTT, Chương 01, B3 (Mục I.2.a), tr. 19
 
 ### transcription
-- **Tiếng Việt:** Phiên mã
+- **Tiếng Việt:** Phiên mã (quá trình phiên mã)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The process of synthesizing an RNA molecule in the 5'→3' direction from a gene's template strand via complementary base pairing (A–U, T–A, G–C, C–G) catalyzed by RNA polymerase, proceeding through initiation, elongation, and termination.
 - **Giải thích (VI):** Quá trình tổng hợp phân tử RNA theo chiều 5'→3' dựa trên mạch khuôn của gene theo nguyên tắc bổ sung (A–U, T–A, G–C, C–G) nhờ xúc tác của enzyme RNA polymerase, diễn ra qua ba giai đoạn: khởi đầu, kéo dài và kết thúc.
-- **Bối cảnh:** Sinh học lớp 12, Bài 2 (Mục III.1): Bước truyền đạt thông tin di truyền từ DNA sang RNA ở sinh vật nhân sơ và sinh vật nhân thực.
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.1), tr. 11
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The process of synthesizing RNA molecules based on the polynucleotide sequence of a gene (DNA) according to complementary base pairing. / VI: Quá trình tổng hợp các phân tử RNA dựa trên trình tự polynucleotide của gene (DNA) theo nguyên tắc bổ sung.
+- **Bối cảnh:**
+  - Sinh học lớp 12, Bài 2 (Mục III.1): Bước truyền đạt thông tin di truyền từ DNA sang RNA ở sinh vật nhân sơ và sinh vật nhân thực.
+  - Khoa học tự nhiên lớp 9, Bài 39 (Mục II): bước truyền thông tin di truyền từ mạch khuôn DNA sang phân tử RNA trước giai đoạn dịch mã.
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.1), tr. 11; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B39 (Mục II), tr. 171; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B39 (Mục II), tr. 172
 
 ### transgene
 - **Tiếng Việt:** Gene chuyển
@@ -10121,6 +10774,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Sinh học lớp 12, Bài 5 (Mục II.1, II.3): Các giống cây trồng và vật nuôi nhận thêm gene từ loài khác như lúa vàng, bông kháng sâu, cừu tiết antithrombin.
 - **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B5 (Mục II.1), tr. 28; SGK Sinh học 12 KNTT, Chương 01, B5 (Mục II.3), tr. 30
 
+### transgenic livestock
+- **Tiếng Việt:** Vật nuôi chuyển gene (động vật chuyển gene)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** Livestock breeds produced through genetic engineering that carry introduced foreign genes encoding desired characteristics, such as rapid growth or milk containing therapeutic proteins.
+- **Giải thích (VI):** Các giống vật nuôi tạo ra bằng công nghệ di truyền có mang thêm gene ngoại lai quy định những đặc tính mong muốn như sinh trưởng nhanh hoặc tiết sữa chứa protein làm thuốc sinh học.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 48 (Mục I.2, IV): ứng dụng công nghệ di truyền trong chăn nuôi và sản xuất dược phẩm sinh học (như bò, dê chuyển gene).
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 13, B48 (Mục I.2), tr. 208; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B48 (Mục II), tr. 208; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B48 (Mục II), tr. 208, 209
+
 ### transgenic plant
 - **Tiếng Việt:** Cây chuyển gene
 - **Chuyên ngành gốc:** Sinh học
@@ -10130,14 +10791,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B19 (Mục II.3.a), tr. 113; SGK Sinh học 10 KNTT, Chương 05, B19 (Mục II.3), tr. 114
 
 ### translation
-- **Tiếng Việt:** Dịch mã
+- **Tiếng Việt:** Dịch mã (quá trình dịch mã)
 - **Chuyên ngành gốc:** Sinh học
 - **Giải thích (EN):** The process of synthesizing protein (polypeptide chains) at the ribosome based on the nucleotide codon sequence of an mRNA molecule in the 5'→3' direction. It proceeds through initiation at the AUG start codon, polypeptide elongation via complementary codon–anticodon pairing, and termination at a stop codon.
 - **Giải thích (VI):** Quá trình tổng hợp protein (chuỗi polypeptide) diễn ra tại ribosome dựa trên trình tự các bộ ba nucleotide trong phân tử mRNA theo chiều 5'→3'. Quá trình này gồm ba giai đoạn: khởi đầu tại bộ ba mở đầu AUG, kéo dài chuỗi polypeptide nhờ bắt đôi bổ sung codon–anticodon và kết thúc tại bộ ba kết thúc.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: The biological process of synthesizing a polypeptide chain (protein) based on the nucleotide sequence of a gene's mRNA transcript across initiation, elongation, and termination stages. / VI: Quá trình tổng hợp chuỗi polypeptide (protein) dựa trên trình tự nucleotide trên bản phiên mã của gene (mRNA), diễn ra qua ba giai đoạn khởi đầu, kéo dài và kết thúc.
 - **Bối cảnh:**
   - Sinh học lớp 12, Bài 2 (Mục III.4.b): Chặng cuối trong dòng truyền thông tin di truyền từ gene qua mRNA tới protein quy định tính trạng.
+  - Khoa học tự nhiên lớp 9, Bài 40 (Mục III): chuyển thông tin di truyền từ trình tự codon trên mRNA sang trình tự amino acid của protein.
   - *Lưu ý:* Cần phân biệt với thuật ngữ tiếng Anh đồng âm translation trong Toán học (phép tịnh tiến) và Vật lí (chuyển động tịnh tiến).
-- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.a), tr. 12; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.b), tr. 15; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.b), tr. 15, 16
+- **Nguồn:** SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.a), tr. 12; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.b), tr. 15; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.b), tr. 15, 16; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục III), tr. 175; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục III), tr. 176; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục IV.2), tr. 177; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục IV.2), tr. 176
 
 ### translocation
 - **Tiếng Việt:** Chuyển đoạn
@@ -10219,10 +10882,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Transfer RNA, a single-stranded polynucleotide molecule whose internal regions fold via complementary hydrogen bonding (A–U, G–C) into a characteristic three-dimensional structure, functioning to transport amino acids to ribosomes during translation.
 - **Giải thích (VI):** Loại phân tử RNA gồm một chuỗi polynucleotide có các vùng tự bắt đôi bổ sung bằng liên kết hydrogen (A–U, G–C) tạo thành cấu trúc không gian ba chiều đặc trưng, đảm nhận chức năng vận chuyển amino acid tới ribosome để thực hiện quá trình dịch mã.
 - **Giải thích khác (SGK Sinh học 12):** EN: A single-stranded transfer RNA molecule folded by internal base pairing into three functional lobes (one carrying an anticodon) with a specific 3' end for amino acid attachment. It transports its corresponding amino acid to the ribosome to carry out translation. / VI: Phân tử RNA vận chuyển có cấu trúc mạch đơn nhưng tự bắt đôi ở một số vùng tạo nên ba thuỳ chức năng (một thuỳ mang anticodon) và có đầu 3' gắn amino acid đặc hiệu. Phân tử này làm nhiệm vụ vận chuyển amino acid tương ứng tới ribosome để thực hiện dịch mã.
+- **Giải thích khác (SGK Khoa học tự nhiên 9):** EN: A polyribonucleotide molecule folded into a characteristic three-dimensional structure via internal complementary base pairing (A with U, G with C) that carries an anticodon and transports the corresponding amino acid to the site of protein synthesis. / VI: Phân tử RNA gồm chuỗi polyribonucleotide có một số vùng tự bắt cặp theo nguyên tắc bổ sung (A liên kết với U, G liên kết với C) tạo cấu trúc không gian ba chiều đặc trưng, mang bộ ba đối mã và vận chuyển amino acid tương ứng đến nơi tổng hợp protein.
 - **Bối cảnh:**
   - Sinh học lớp 10, Bài 5 (Mục II.4.b): Cấu trúc không gian ba chiều và vai trò dịch mã của tRNA.
   - Sinh học lớp 12, Bài 2 (Mục III.2.b, III.4.b): Phân tử phiên dịch trung gian gắn kết đặc hiệu amino acid với codon tương ứng trên mRNA tại ribosome.
-- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 38; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 39; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.b), tr. 12; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.b), tr. 15
+  - Khoa học tự nhiên lớp 9, Bài 38 (Mục III.2) và Bài 40 (Mục III): phân biệt với mRNA và rRNA nhờ vai trò dịch trình tự codon trên mRNA thành trình tự amino acid.
+- **Nguồn:** SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 38; SGK Sinh học 10 KNTT, Chương 01, B5 (Mục II.4.b), tr. 39; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.2.b), tr. 12; SGK Sinh học 12 KNTT, Chương 01, B2 (Mục III.4.b), tr. 15; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục III.2), tr. 168; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B38 (Mục III.2), tr. 169; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B40 (Mục III), tr. 175
 
 ### trophic level
 - **Tiếng Việt:** Bậc dinh dưỡng
@@ -10250,7 +10915,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Sinh học lớp 11, Bài 15 (Mục II.1.a, II.2.a): Phân biệt với ứng động (phản ứng trước tác nhân kích thích không định hướng).
   - Khoa học tự nhiên lớp 7, Bài 34 (Mục I) và Bài 35 (Mục II.1, II.2): Thí nghiệm chứng minh tính hướng sáng, hướng nước và vận dụng vào chăm sóc cây trồng.
   - *Lưu ý:* Chỉ phản ứng định hướng của các bộ phận thực vật trước tác nhân kích thích từ môi trường như ánh sáng, nước hoặc chất dinh dưỡng.
-- **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B15 (Mục II.1.a), tr. 91; SGK Sinh học 11 KNTT, Chương 02, B15 (Mục II.2.a), tr. 93; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B34 (Mục I), tr. 141, 142; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B35 (Mục II.1), tr. 145
+- **Nguồn:** SGK Sinh học 11 KNTT, Chương 02, B15 (Mục II.1.a), tr. 91; SGK Sinh học 11 KNTT, Chương 02, B15 (Mục II.2.a), tr. 93; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B34 (Mục I), tr. 141, 142; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B35 (Mục II.1), tr. 145; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B34, tr. 141; SGK Khoa học tự nhiên 7 KNTT, Chương 08, B34 (Mục I), tr. 141
 
 ### tubular nervous system
 - **Tiếng Việt:** Hệ thần kinh ống
@@ -10267,6 +10932,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Khối tế bào bất thường hình thành do tế bào phân chia quá mức khi cơ chế điều hoà phân bào bị rối loạn (như tín hiệu kích thích phân bào sản sinh quá nhiều trong khi tín hiệu kìm hãm sản sinh quá ít). Tuỳ theo khả năng phát tán tế bào sang các vị trí khác trong cơ thể, khối u gồm hai loại là u lành tính và u ác tính.
 - **Bối cảnh:** Sinh học lớp 10, Bài 16 (Mục III.1): Hậu quả của sự rối loạn kiểm soát chu kì tế bào, bao gồm u lành tính và u ác tính.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 05, B16 (Mục III.1), tr. 100; SGK Sinh học 10 KNTT, Chương 05, B16 (Mục III.2), tr. 101; SGK Sinh học 10 KNTT, Chương 05, B16 (Mục III.2), tr. 102
+
+### Turner syndrome
+- **Tiếng Việt:** Hội chứng Turner
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A genetic syndrome in females caused primarily by the absence of one X sex chromosome or by a partial deletion on the X chromosome. Affected individuals have a female phenotype with slow growth, a broad neck and chest, and undeveloped mammary glands.
+- **Giải thích (VI):** Hội chứng di truyền ở nữ giới chủ yếu do thiếu một nhiễm sắc thể giới tính X hoặc do đột biến mất đoạn trên nhiễm sắc thể X. Người bệnh có kiểu hình nữ nhưng chậm lớn, cổ và ngực to ngang, tuyến vú không phát triển.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 47 (Mục II.2): ví dụ điển hình về hội chứng di truyền liên quan đến đột biến nhiễm sắc thể giới tính X ở người.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.1), tr. 202; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.2), tr. 202; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B47 (Mục II.3), tr. 202
 
 ### unconditioned reflex
 - **Tiếng Việt:** Phản xạ không điều kiện
@@ -10355,6 +11028,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Khoa học tự nhiên lớp 6, Bài 19 (Mục III): Bào quan dự trữ có kích thước lớn đặc trưng ở tế bào thực vật trưởng thành.
 - **Nguồn:** SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.6), tr. 51; SGK Sinh học 10 KNTT, Chương 02, B8 (Mục II.14), tr. 59; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục II), tr. 68; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 68; SGK Khoa học tự nhiên 6 KNTT, Chương 05, B19 (Mục III), tr. 68, 69
 
+### variation
+- **Tiếng Việt:** Biến dị (hiện tượng biến dị)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The biological phenomenon in which offspring exhibit characteristics differing from one another and from their parents, governed by hereditary factors (genes) within cells.
+- **Giải thích (VI):** Hiện tượng các cá thể con sinh ra mang những đặc điểm khác nhau và khác với bố mẹ, gắn liền với sự hoạt động của các nhân tố di truyền (gene) trong tế bào.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 36 (Mục I): Nhận diện sự xuất hiện đặc điểm khác biệt giữa con cái với bố mẹ và phân biệt với hiện tượng di truyền.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục I), tr. 159; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.1), tr. 161; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B36 (Mục III.2), tr. 161
+
 ### variegated leaf
 - **Tiếng Việt:** Lá khảm
 - **Chuyên ngành gốc:** Sinh học
@@ -10396,6 +11077,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Khoa học tự nhiên lớp 8, Bài 33 (Mục II.1, IV.3): phân biệt chức năng của ba loại mạch máu và vận dụng trong sơ cứu cầm máu.
   - *Lưu ý:* Trong giải phẫu người, hệ mạch chỉ hệ thống mạch máu (blood vascular system), phân biệt với hệ mạch dẫn (xylem và phloem) ở thực vật có mạch.
 - **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.3.a), tr. 137; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.3.b), tr. 137; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục II.1), tr. 137, 138
+
+### vector (biology)
+- **Tiếng Việt:** Thể truyền (vector)
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** A DNA molecule (derived from a plasmid or virus) used in genetic engineering to carry and deliver a target DNA segment into a host cell for replication (cloning) and recombination with host DNA.
+- **Giải thích (VI):** Phân tử DNA (có nguồn gốc từ plasmid hoặc virus) dùng trong công nghệ di truyền để mang và vận chuyển một phân đoạn DNA đích vào tế bào chủ nhằm nhân dòng và tái tổ hợp với DNA của tế bào chủ.
+- **Bối cảnh:**
+  - Khoa học tự nhiên lớp 9, Bài 48 (Mục I.1, II): công cụ chuyển gene đích vào tế bào thực vật, động vật hoặc chuyển gene lành trong liệu pháp gene.
+  - *Lưu ý:* Trong công nghệ di truyền, thể truyền (vector) là phân tử DNA vận chuyển gene đích vào tế bào chủ, phân biệt với đại lượng có hướng (vectơ) trong Toán học, Vật lí và vật trung gian truyền bệnh trong dịch tễ học.
+  - *Lưu ý:* Không nhầm với 'Vectơ' (`vector`) trong Toán học.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 226; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B48 (Mục I.1), tr. 207; SGK Khoa học tự nhiên 9 KNTT, Chương 13, B48 (Mục II), tr. 208
 
 ### vector (molecular biology)
 - **Tiếng Việt:** Vector (thể truyền)
@@ -10611,6 +11303,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Loại tế bào máu thực hiện chức năng bảo vệ cơ thể thông qua việc nhận diện, tiêu diệt mầm bệnh xâm nhập và tạo đáp ứng miễn dịch.
 - **Bối cảnh:** Khoa học tự nhiên lớp 8, Bài 33 (Mục I.1, I.2): tìm hiểu vai trò của tế bào lympho B trong sản xuất kháng thể bảo vệ cơ thể.
 - **Nguồn:** SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33, tr. 135; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.1), tr. 135; SGK Khoa học tự nhiên 8 KNTT, Chương 07, B33 (Mục I.2.a), tr. 136
+
+### wild-type allele
+- **Tiếng Việt:** Allele kiểu dại
+- **Chuyên ngành gốc:** Sinh học
+- **Giải thích (EN):** The allele of a gene that occurs commonly within a natural population.
+- **Giải thích (VI):** Trạng thái allele của một gene gặp phổ biến trong quần thể tự nhiên.
+- **Bối cảnh:** Khoa học tự nhiên lớp 9, Bài 41 (Mục I, Bảng giải thích thuật ngữ): dùng làm chuẩn đối chiếu với các allele đột biến mới phát sinh từ gene ban đầu.
+- **Nguồn:** SGK Khoa học tự nhiên 9 KNTT, Chương 11, B41 (Mục I), tr. 178; SGK Khoa học tự nhiên 9 KNTT, Chương 11, B41 (Mục I), tr. 179; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224; SGK Khoa học tự nhiên 9 KNTT, Bảng giải thích thuật ngữ, tr. 224, 225
 
 ### X-chromosome inactivation
 - **Tiếng Việt:** Bất hoạt nhiễm sắc thể X (bất hoạt NST X)

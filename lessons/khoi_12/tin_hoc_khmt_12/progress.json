@@ -80,7 +80,7 @@
             7,
             10
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b02",
@@ -96,7 +96,7 @@
             11,
             15
           ],
-          "status": "layer2"
+          "status": "verified"
         }
       ]
     },
@@ -123,7 +123,7 @@
             16,
             22
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b04",
@@ -139,7 +139,7 @@
             23,
             27
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b05",
@@ -155,7 +155,7 @@
             28,
             35
           ],
-          "status": "layer2"
+          "status": "verified"
         }
       ]
     },
@@ -182,7 +182,7 @@
             36,
             40
           ],
-          "status": "layer2"
+          "status": "verified"
         }
       ]
     },
@@ -209,7 +209,7 @@
             41,
             47
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b08",
@@ -225,7 +225,7 @@
             48,
             53
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b09",
@@ -241,7 +241,7 @@
             54,
             58
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b10",
@@ -257,7 +257,7 @@
             59,
             63
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b11",
@@ -273,7 +273,7 @@
             64,
             68
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b12",
@@ -289,7 +289,7 @@
             69,
             72
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b13",
@@ -305,7 +305,7 @@
             73,
             77
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b14",
@@ -321,7 +321,7 @@
             78,
             84
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b15",
@@ -337,7 +337,7 @@
             85,
             90
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b16",
@@ -353,7 +353,7 @@
             91,
             97
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b17",
@@ -369,7 +369,7 @@
             98,
             103
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b18",
@@ -385,7 +385,7 @@
             104,
             107
           ],
-          "status": "layer2"
+          "status": "verified"
         }
       ]
     },
@@ -412,7 +412,7 @@
             108,
             111
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b20",
@@ -428,7 +428,7 @@
             112,
             114
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b21",
@@ -444,7 +444,7 @@
             115,
             119
           ],
-          "status": "layer2"
+          "status": "verified"
         }
       ]
     },
@@ -471,7 +471,7 @@
             120,
             124
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b23",
@@ -487,7 +487,7 @@
             125,
             129
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b24",
@@ -503,7 +503,7 @@
             130,
             135
           ],
-          "status": "layer2"
+          "status": "verified"
         }
       ]
     },
@@ -530,7 +530,7 @@
             136,
             141
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b26",
@@ -546,7 +546,7 @@
             142,
             146
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b27",
@@ -562,7 +562,7 @@
             147,
             150
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b28",
@@ -578,7 +578,7 @@
             151,
             156
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b29",
@@ -594,7 +594,7 @@
             157,
             160
           ],
-          "status": "layer2"
+          "status": "verified"
         },
         {
           "id": "b30",
@@ -610,7 +610,7 @@
             161,
             165
           ],
-          "status": "layer2"
+          "status": "verified"
         }
       ]
     },

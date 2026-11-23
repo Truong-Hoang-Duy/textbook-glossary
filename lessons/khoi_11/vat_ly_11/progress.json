@@ -541,15 +541,18 @@
   "audits": [
     {
       "date": "2026-11-06",
-      "sample_size": 30,
-      "errors": 0,
-      "error_rate": 0.0,
-      "focus": [
-        "cong_thuc",
-        "hinh",
-        "mo_ta"
+      "scope": [
+        "c01",
+        "c02",
+        "c03",
+        "c04",
+        "bang-thuat-ngu"
       ],
-      "details": "Kiểm toán mẫu phân tầng 30 mục (14 thuật ngữ chứa công thức vật lí LaTeX in_source, 6 thuật ngữ mô tả described và 10 hình cắt trên cả 4 Chương I–IV) đối chiếu trực tiếp với ảnh trang PDF gốc: 0 lỗi (0,0% < 5%). Đạt Cổng 0, 1, 2, 2b, 3, 4 (211 thuật ngữ: 172 in_source, 27 described, 12 out_of_source; 15 ghi chú nguồn đóng, 0 mở; 23/23 mục bảng giải thích thuật ngữ cuối sách; 133 hình cắt)."
+      "terms": 211,
+      "sample": 30,
+      "errors": 0,
+      "fixed": 0,
+      "note": "Kiểm toán mẫu phân tầng 30 mục (14 thuật ngữ chứa công thức vật lí LaTeX in_source, 6 thuật ngữ mô tả described và 10 hình cắt trên cả 4 Chương I–IV) đối chiếu trực tiếp với ảnh trang PDF gốc: 0 lỗi (0,0% < 5%). Đạt Cổng 0, 1, 2, 2b, 3, 4 (211 thuật ngữ: 172 in_source, 27 described, 12 out_of_source; 15 ghi chú nguồn đóng, 0 mở; 23/23 mục bảng giải thích thuật ngữ cuối sách; 133 hình cắt)."
     }
   ],
   "last_session_note": "2026-11-06: Hoàn thành toàn bộ 4 giai đoạn (Tầng 1 gồm 26 bài + bảng giải thích thuật ngữ, 133 hình cắt, Tầng 2 với 4 từ điển 211 thuật ngữ, xuất dataset/vat_ly_11.json và kiểm toán mẫu 30 mục đạt 0 lỗi)."

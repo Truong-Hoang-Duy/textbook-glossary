@@ -11,7 +11,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The second resistance war waged by the Tran Dynasty army and people from January to May 1285 against over 500,000 Yuan troops commanded by Toghon and Sogetu. Employing the 'empty gardens and vacant houses' strategy to wear down enemy forces and foil their link-up plan, Tran forces launched victorious counteroffensives at Tay Ket, Ham Tu, and Chuong Duong, liberating the capital Thang Long.
 - **Giải thích (VI):** Cuộc kháng chiến chống ngoại xâm lần thứ hai của quân dân nhà Trần từ tháng 1 đến tháng 5 năm 1285 nhằm đánh trả hơn 50 vạn quân Nguyên do Thoát Hoan và Toa Đô chỉ huy. Bằng kế sách 'vườn không nhà trống' làm tiêu hao sinh lực địch và phá vỡ mưu đồ hội quân của chúng, quân Trần đã phản công thắng lợi tại Tây Kết, Hàm Tử, Chương Dương, giải phóng kinh thành Thăng Long.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 2): Cuộc kháng chiến lần thứ hai đánh bại đạo quân xâm lược quy mô lớn nhất của nhà Nguyên.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 70, 71
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 70, 71; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 70; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 71
 
 ### 1288 Battle of Bach Dang
 - **Tiếng Việt:** Chiến thắng Bạch Đằng năm 1288 (trận Bạch Đằng; Chiến thắng Bạch Đằng)
@@ -31,7 +31,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 17 (Mục 1.a): Hiệp ước đầu tiên triều Nguyễn nhượng một phần chủ quyền lãnh thổ Nam Kì cho thực dân Pháp xâm lược.
   - *Lưu ý:* Trong tài liệu quốc tế, Hiệp ước Nhâm Tuất (1862) còn có tên tiếng Anh là First Treaty of Saigon, phân biệt với Hiệp ước Giáp Tuất năm 1874.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 1.a), tr. 76
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 1.a), tr. 76; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 1.b), tr. 77
 
 ### 1874 Treaty of Saigon
 - **Tiếng Việt:** Hiệp ước Giáp Tuất
@@ -41,7 +41,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 17 (Mục 2.a): Hiệp ước đánh dấu bước lùi tiếp theo của triều đình Huế sau cuộc kháng chiến chống Pháp ở Bắc Kì lần thứ nhất (1873 – 1874).
   - *Lưu ý:* Trong tài liệu quốc tế, Hiệp ước Giáp Tuất (1874) còn có tên tiếng Anh là Second Treaty of Saigon, phân biệt với Hiệp ước Nhâm Tuất năm 1862.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 2.a), tr. 78, 79
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 2.a), tr. 78, 79; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 1.b), tr. 78; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 2.a), tr. 78
+
+### 1930–1931 Revolutionary Movement
+- **Tiếng Việt:** Phong trào cách mạng 1930 – 1931
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The first broad revolutionary upsurge of workers and peasants led by the Communist Party immediately after its founding, reaching its zenith in the Nghe-Tinh Soviets. It affirmed the Party's revolutionary leadership in practice, forged the worker-peasant alliance, and left valuable lessons for subsequent revolutionary movements.
+- **Giải thích (VI):** Cao trào đấu tranh cách mạng rộng lớn đầu tiên của quần chúng công – nông đặt dưới sự lãnh đạo của Đảng ngay sau khi thành lập, đạt đỉnh cao ở Xô viết Nghệ – Tĩnh. Phong trào đã khẳng định trên thực tế vai trò lãnh đạo cách mạng của Đảng, hình thành khối liên minh công – nông và để lại nhiều bài học quý báu cho phong trào cách mạng về sau.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 7 (Mục 1): Cao trào cách mạng đầu tiên do Đảng Cộng sản Việt Nam lãnh đạo ngay sau khi thành lập.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B7 (Mục 1), tr. 31; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B7 (Mục 1), tr. 31, 32; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B7 (Mục 1), tr. 32
+
+### 1936–1939 Democratic Movement
+- **Tiếng Việt:** Phong trào dân chủ 1936 – 1939
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A broad, organized mass movement under the leadership of the Indochinese Communist Party that compelled colonial authorities to concede several concrete demands regarding livelihood and democracy. Serving as a rehearsal for the August Revolution of 1945, the movement allowed the Party to accumulate extensive experience in leading and organizing struggles.
+- **Giải thích (VI):** Phong trào quần chúng rộng lớn, có tổ chức đặt dưới sự lãnh đạo của Đảng Cộng sản Đông Dương, buộc chính quyền thực dân phải nhượng bộ một số yêu sách cụ thể về dân sinh, dân chủ. Cao trào này đóng vai trò là cuộc diễn tập cho Cách mạng tháng Tám năm 1945 và giúp Đảng tích luỹ nhiều bài học kinh nghiệm trong lãnh đạo, tổ chức đấu tranh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 7 (Mục 2): Cao trào vận động dân chủ của quần chúng dưới sự lãnh đạo của Đảng trước thềm Chiến tranh thế giới thứ hai.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B7 (Mục 2), tr. 33
 
 ### 1945 Southward March
 - **Tiếng Việt:** Nam tiến
@@ -54,20 +70,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 1), tr. 38; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 38; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 38, 39
 
 ### 1946 Constitution of Vietnam
-- **Tiếng Việt:** Hiến pháp năm 1946
+- **Tiếng Việt:** Hiến pháp năm 1946 (bản Hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hoà)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The first constitution of the Democratic Republic of Vietnam, a foundational constitutional document establishing the legal basis for national solidarity by affirming the unity of the entire people regardless of ethnicity, gender, class, or religion.
 - **Giải thích (VI):** Bản hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hoà, văn kiện hiến định đặt nền móng pháp lí cho khối đại đoàn kết dân tộc với lời khẳng định đoàn kết toàn dân không phân biệt giống nòi, gái, trai, giai cấp và tôn giáo.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 14 (Mục 2a): Văn kiện hiến định đầu tiên khẳng định nguyên tắc đoàn kết toàn dân tộc của nước Việt Nam Dân chủ Cộng hoà.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 2.a), tr. 140; SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 2.b), tr. 140; SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 2.b), tr. 140, 141
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The first constitution of the Democratic Republic of Vietnam, adopted by the First National Assembly on November 9, 1946. This supreme legal document emphasized the principles of national unity regardless of ethnicity, gender, class, or religion, guaranteed democratic freedoms, and established a strong and enlightened people's government. / VI: Bản Hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hoà được Quốc hội khoá I thông qua ngày 9 – 11 – 1946. Văn kiện pháp lí tối cao này nhấn mạnh nguyên tắc đoàn kết toàn dân không phân biệt giống nòi, gái trai, giai cấp, tôn giáo, bảo đảm các quyền tự do dân chủ và thực hiện chính quyền mạnh mẽ, sáng suốt của nhân dân.
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 14 (Mục 2a): Văn kiện hiến định đầu tiên khẳng định nguyên tắc đoàn kết toàn dân tộc của nước Việt Nam Dân chủ Cộng hoà.
+  - Lịch sử và Địa lí lớp 9, Bài 13 (Mục 1): đạo luật cơ bản đầu tiên khẳng định quyền tự do dân chủ và khối đại đoàn kết toàn dân của Nhà nước Việt Nam Dân chủ Cộng hoà.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 2.a), tr. 140; SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 2.b), tr. 140; SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 2.b), tr. 140, 141; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B13 (Mục 1), tr. 62
 
 ### 1946 Franco-Vietnamese Preliminary Agreement
-- **Tiếng Việt:** Hiệp định Sơ bộ
+- **Tiếng Việt:** Hiệp định Sơ bộ (Hiệp định Sơ bộ 6 – 3 – 1946)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A diplomatic agreement signed by President Ho Chi Minh on behalf of the Government of the Democratic Republic of Vietnam with France on March 6, 1946, following the Sino-French Agreement, initiating peace negotiations between Vietnam and France in 1946.
 - **Giải thích (VI):** Văn kiện ngoại giao do Chủ tịch Hồ Chí Minh thay mặt Chính phủ Việt Nam Dân chủ Cộng hoà kí với Pháp ngày 6 – 3 – 1946 sau Hiệp ước Hoa – Pháp, mở đầu quá trình đàm phán hoà bình giữa Việt Nam và Pháp năm 1946.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.b): Văn kiện ngoại giao mở đầu quá trình đàm phán hoà bình giữa Việt Nam và Pháp năm 1946.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39, 40
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A diplomatic accord signed on March 6, 1946 between the Government of the Democratic Republic of Vietnam and the French Government under the "peace to advance" tactic following the Franco-Chinese Treaty (February 28, 1946). Under its terms, France recognized the Democratic Republic of Vietnam as a free state with its own government, parliament, army, and finances within the French Union, while Vietnam agreed to allow 15,000 French troops into the North to replace Republic of China forces in disarming the Japanese army and withdraw gradually over five years. / VI: Văn bản ngoại giao kí kết ngày 6 – 3 – 1946 giữa Chính phủ Việt Nam Dân chủ Cộng hoà và Chính phủ Pháp theo sách lược “hoà để tiến” sau khi Hiệp ước Hoa – Pháp (28 – 2 – 1946) được kí kết. Theo đó, Pháp công nhận Việt Nam Dân chủ Cộng hoà là một quốc gia tự do nằm trong khối Liên hiệp Pháp (có chính phủ, nghị viện, quân đội và tài chính riêng), còn Việt Nam thoả thuận cho 15 000 quân Pháp ra Bắc thay quân Trung Hoa Dân quốc giải giáp quân Nhật và rút dần trong thời hạn 5 năm.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 7 (Mục 2.b): Văn kiện ngoại giao mở đầu quá trình đàm phán hoà bình giữa Việt Nam và Pháp năm 1946.
+  - Lịch sử và Địa lí lớp 9, Bài 13 (Mục 3): sách lược ngoại giao “hoà để tiến” nhằm đẩy quân Trung Hoa Dân quốc về nước và tranh thủ thời gian chuẩn bị kháng chiến.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39, 40; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B13 (Mục 3), tr. 66
 
 ### 1946 Sino-French Agreement
 - **Tiếng Việt:** Hiệp ước Hoa – Pháp
@@ -85,7 +107,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A landmark diplomatic milestone in 1950 when the Democratic Republic of Vietnam established official diplomatic relations with the People's Republic of China, the Soviet Union, and other socialist states, achieving a major political victory that laid the foundation for subsequent military triumphs.
 - **Giải thích (VI):** Sự kiện đối ngoại trọng đại năm 1950 khi Nhà nước Việt Nam Dân chủ Cộng hoà thiết lập quan hệ ngoại giao chính thức với Cộng hoà Nhân dân Trung Hoa, Liên Xô và các nước xã hội chủ nghĩa khác, tạo nên thắng lợi chính trị to lớn và tiền đề cho những thắng lợi quân sự sau đó.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 13 (Mục 1): Nêu bước đột phá đối ngoại của Nhà nước Việt Nam Dân chủ Cộng hoà từ năm 1950.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 1), tr. 78, 79
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 1), tr. 78, 79; SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 1), tr. 78
 
 ### 1953 Land Reform Law
 - **Tiếng Việt:** Luật Cải cách ruộng đất
@@ -96,14 +118,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.c), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41, 42
 
 ### 1954 Geneva Accords
-- **Tiếng Việt:** Hiệp định Giơ-ne-vơ
+- **Tiếng Việt:** Hiệp định Giơ-ne-vơ (Hiệp định Giơ-ne-vơ về lập lại hoà bình ở Đông Dương)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** An international legal agreement signed on July 21, 1954, on the basis of the Dien Bien Phu victory, providing for the cessation of the war and the restoration of peace in Indochina.
 - **Giải thích (VI):** Văn kiện pháp lí quốc tế kí kết ngày 21 – 7 – 1954 trên cơ sở thắng lợi của chiến dịch Điện Biên Phủ, quy định việc chấm dứt chiến tranh và lập lại hoà bình ở Đông Dương.
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The international accords signed at the Geneva Conference in Switzerland (May 8–July 21, 1954) to end hostilities and restore peace in Indochina on the basis of commitments to respect the sovereignty, independence, unity, and territorial integrity of Vietnam, Laos, and Cambodia. In Vietnam, the accords designated the 17th parallel as a provisional military demarcation line, compelled French forces to withdraw, and scheduled general elections for national reunification in July 1956. / VI: Văn kiện pháp lí quốc tế đạt được tại Hội nghị Giơ-ne-vơ ở Thuỵ Sĩ (từ ngày 8 – 5 đến ngày 21 – 7 – 1954) nhằm đình chỉ chiến sự, lập lại hoà bình ở Đông Dương trên cơ sở cam kết tôn trọng chủ quyền, độc lập, thống nhất và toàn vẹn lãnh thổ của Việt Nam, Lào, Cam-pu-chia. Tại Việt Nam, hiệp định lấy vĩ tuyến 17 làm ranh giới quân sự tạm thời, buộc thực dân Pháp rút quân về nước và quy định tổ chức tổng tuyển cử thống nhất đất nước vào tháng 7 – 1956.
 - **Bối cảnh:**
   - Lịch sử lớp 12, Bài 7 (Mục 2.d): Văn kiện quốc tế chấm dứt chiến tranh xâm lược của thực dân Pháp và lập lại hoà bình ở Đông Dương.
+  - Lịch sử và Địa lí lớp 9, Bài 15 (Mục 3): thắng lợi ngoại giao lớn nhất kết thúc cuộc kháng chiến chống thực dân Pháp (1945 – 1954).
   - *Lưu ý:* Chỉ Hiệp định Giơ-ne-vơ năm 1954 về Đông Dương, phân biệt với các Công ước Giơ-ne-vơ về luật nhân đạo quốc tế.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 42; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 42, 43
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 42; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 42, 43; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15 (Mục 3), tr. 78; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15 (Mục 4.a), tr. 78, 79; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15 (Mục 4.a), tr. 78
 
 ### 1954 Geneva Accords on Indochina
 - **Tiếng Việt:** Hiệp định Giơ-ne-vơ về Đông Dương
@@ -111,15 +135,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An international legal instrument signed on July 21, 1954 at the International Conference on Indochina in Geneva (Switzerland), formally recognizing the fundamental national rights of the peoples of the three Indochinese countries.
 - **Giải thích (VI):** Văn bản pháp lí quốc tế được kí kết ngày 21 – 7 – 1954 tại Hội nghị quốc tế về Đông Dương ở Giơ-ne-vơ (Thuỵ Sĩ), ghi nhận các quyền dân tộc cơ bản của nhân dân ba nước Đông Dương.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 13 (Mục 1): Trình bày kết quả đấu tranh ngoại giao tại Hội nghị Giơ-ne-vơ kết thúc cuộc kháng chiến chống thực dân Pháp.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 1), tr. 79
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 1), tr. 79; SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 2), tr. 79; SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 2), tr. 79, 80
 
 ### 1968 Tet Offensive and Uprising
-- **Tiếng Việt:** Cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân năm 1968
+- **Tiếng Việt:** Cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân năm 1968 (Cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân 1968; Tổng tiến công và nổi dậy Xuân Mậu Thân)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A simultaneous military offensive and popular uprising launched across South Vietnam in early 1968 with urban centers as the main focus, opening a decisive turning point in the resistance war against the United States. Its impact shook US aggressive resolve, forcing Washington to "de-Americanize" the war, unconditionally halt the bombing of North Vietnam, and accept peace negotiations in Paris.
 - **Giải thích (VI):** Đợt tiến công quân sự kết hợp nổi dậy đồng loạt của quân dân Việt Nam trên toàn miền Nam vào đầu năm 1968 với trọng tâm ở các đô thị, mở ra bước ngoặt của cuộc kháng chiến chống Mỹ, cứu nước. Thắng lợi này làm lung lay ý chí xâm lược của Mỹ, buộc Mỹ phải “phi Mỹ hoá” chiến tranh, chấm dứt không điều kiện chiến tranh phá hoại miền Bắc và chấp nhận đàm phán ở Pa-ri.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.c): Diễn biến chính và ý nghĩa bước ngoặt của cuộc Tổng tiến công và nổi dậy đầu năm 1968.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.c), tr. 49; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 49; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 49, 50
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A strategic offensive launched on the night of January 30–31, 1968, in which Southern Vietnamese forces and people simultaneously attacked and rose up across most urban centers and key command targets in Saigon, including the US Embassy, Independence Palace, and the airport. The offensive forced the United States to declare the “de-Americanization” of the war, acknowledging the failure of the “Local War” strategy, and agree to peace talks in Paris. / VI: Đòn tiến công chiến lược bắt đầu từ đêm 30 rạng sáng 31 – 1 – 1968, khi quân dân miền Nam đồng loạt tiến công và nổi dậy ở hầu khắp các đô thị cùng các vị trí đầu não của địch tại Sài Gòn như toà Đại sứ Mỹ, Dinh Độc Lập, sân bay. Cuộc tiến công buộc Mỹ phải tuyên bố “phi Mỹ hoá” chiến tranh, thừa nhận thất bại của chiến lược “Chiến tranh cục bộ” và chấp nhận đàm phán tại Pa-ri để bàn về chấm dứt chiến tranh.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.c): Diễn biến chính và ý nghĩa bước ngoặt của cuộc Tổng tiến công và nổi dậy đầu năm 1968.
+  - Lịch sử và Địa lí lớp 9, Bài 17 (Mục 1.a): Thắng lợi quân sự – chính trị quyết định làm phá sản chiến lược “Chiến tranh cục bộ” của Mỹ năm 1968.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.c), tr. 49; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 49; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 49, 50; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.a), tr. 86; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.b), tr. 86; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.b), tr. 86, 87
 
 ### 1972 Dien Bien Phu in the Air battle
 - **Tiếng Việt:** Trận Điện Biên Phủ trên không năm 1972
@@ -134,8 +161,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A large-scale military offensive launched by Vietnamese forces beginning in March 1972 in Quang Tri and expanding across South Vietnam, breaching three enemy defensive lines in Quang Tri, the Central Highlands, and Southeastern Vietnam, and compelling the United States to acknowledge the failure of its "Vietnamization" strategy.
 - **Giải thích (VI):** Hoạt động tiến công quân sự quy mô lớn của quân đội Việt Nam mở đầu từ tháng 3 – 1972 vào Quảng Trị rồi phát triển rộng khắp chiến trường miền Nam, chọc thủng ba phòng tuyến của địch ở Quảng Trị, Tây Nguyên và Đông Nam Bộ, buộc Mỹ phải thừa nhận thất bại của chiến lược “Việt Nam hoá chiến tranh”.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.d): Diễn biến và kết quả của cuộc Tiến công chiến lược năm 1972 trên chiến trường miền Nam.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 50; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 50; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 50, 51
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A large-scale military offensive conducted by Vietnamese forces and people from March 30 to late June 1972, beginning on the main front in Quang Tri before expanding across the entire Southern battlefield. The offensive breached three major defense lines in Quang Tri, the Central Highlands, and Southeastern Vietnam, put over 200,000 enemy troops out of action, and defeated the US “Vietnamization” strategy. / VI: Đợt tiến công quân sự quy mô lớn của quân dân Việt Nam từ ngày 30 – 3 đến cuối tháng 6 – 1972, mở đầu tại hướng chủ yếu Quảng Trị rồi phát triển ra toàn chiến trường miền Nam. Thắng lợi này đã chọc thủng ba phòng tuyến Quảng Trị, Tây Nguyên, Đông Nam Bộ, loại khỏi vòng chiến đấu hơn 20 vạn quân địch và làm thất bại chiến lược “Việt Nam hoá chiến tranh” của Mỹ.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.d): Diễn biến và kết quả của cuộc Tiến công chiến lược năm 1972 trên chiến trường miền Nam.
+  - Lịch sử và Địa lí lớp 9, Bài 17 (Mục 1.b): Thắng lợi quân sự quyết định năm 1972 đánh dấu sự thất bại của chiến lược “Việt Nam hoá chiến tranh”.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 50; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 50; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 50, 51; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.b), tr. 87; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.c), tr. 87; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.c), tr. 87, 88
 
 ### 1973 Paris Peace Accords
 - **Tiếng Việt:** Hiệp định Pa-ri năm 1973
@@ -153,7 +183,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 12, Bài 13 (Mục 2): Trình bày thắng lợi ngoại giao quyết định tại Hội nghị Pa-ri trong kháng chiến chống Mỹ, cứu nước.
   - *Lưu ý:* Phân biệt với Hiệp định Pa-ri về Cam-pu-chia (kí tháng 10 – 1991 nhằm giải quyết vấn đề Cam-pu-chia).
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 2), tr. 80
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 2), tr. 80; SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 2), tr. 80, 81
 
 ### 1982 United Nations Convention on the Law of the Sea
 - **Tiếng Việt:** Công ước của Liên hợp quốc về Luật Biển (UNCLOS) năm 1982 (Công ước của Liên hợp quốc về Luật Biển 1982; UNCLOS 1982)
@@ -164,7 +194,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 12, Bài 9 (Mục 2.c): Nêu cơ sở pháp lí quốc tế quan trọng trong cuộc đấu tranh bảo vệ chủ quyền biển đảo của Việt Nam trên Biển Đông.
   - Lịch sử và Địa lí lớp 8, Chủ đề chung 2 (Mục 3.b): cơ sở pháp lí quốc tế quan trọng nhất để bảo vệ chủ quyền, các quyền và lợi ích hợp pháp trên Biển Đông.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.c), tr. 57; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 3.b), tr. 167; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 4), tr. 167; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 4), tr. 167, 168
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.c), tr. 57; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.b), tr. 57; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.c), tr. 57, 58; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 3.b), tr. 167; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 4), tr. 167; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 4), tr. 167, 168
 
 ### 1991 Paris Peace Agreements on Cambodia
 - **Tiếng Việt:** Hiệp định Pa-ri về Cam-pu-chia
@@ -174,7 +204,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 12, Bài 14 (Mục 2): Trình bày bước ngoặt giải quyết vấn đề Cam-pu-chia và phá thế bao vây, cấm vận đầu những năm 1990.
   - *Lưu ý:* Phân biệt với Hiệp định Pa-ri về Việt Nam (kí ngày 27 – 1 – 1973 về chấm dứt chiến tranh, lập lại hoà bình ở Việt Nam).
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 84, 85
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 84, 85; SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 1), tr. 84; SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 84
 
 ### 2030 Agenda for Sustainable Development
 - **Tiếng Việt:** Chương trình nghị sự 2030 vì sự phát triển bền vững
@@ -183,6 +213,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chương trình hành động toàn cầu được Liên hợp quốc thông qua năm 2015, đặt ra 17 mục tiêu và hành động mang tính toàn cầu vì sự phát triển bền vững đến năm 2030.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 1 (Mục 2.b): Khuôn khổ hợp tác phát triển bền vững toàn cầu do Liên hợp quốc khởi xướng từ năm 2015.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 01, B1 (Mục 2.b), tr. 11; SGK Lịch sử 12 KNTT, Chủ đề 01, B1 (Mục 2.c), tr. 11; SGK Lịch sử 12 KNTT, Chủ đề 01, B1 (Mục 2.c), tr. 11, 12
+
+### 26th of July Movement
+- **Tiếng Việt:** Phong trào 26 – 7
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A Cuban revolutionary organization founded by Fidel Castro in Mexico in 1955 (named after the July 26, 1953 attack on the Moncada Barracks) to build forces, conduct military training, and lead the Cuban people in overthrowing the Batista dictatorship on January 1, 1959.
+- **Giải thích (VI):** Tổ chức cách mạng do Phi-đen Cát-xtơ-rô thành lập năm 1955 tại Mê-hi-cô (mang tên ngày tiến công pháo đài Môn-ca-đa 26 – 7 – 1953) nhằm xây dựng lực lượng, huấn luyện quân sự và lãnh đạo nhân dân Cu-ba lật đổ chế độ độc tài Ba-ti-xta ngày 1 – 1 – 1959.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 12 (Mục 1.b): tổ chức cách mạng nòng cốt lãnh đạo thắng lợi cuộc đấu tranh chống chế độ độc tài thân Mỹ ở Cu-ba.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 1.b), tr. 53; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 1.b), tr. 53, 54; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 1.a), tr. 53
 
 ### 3D printing technology
 - **Tiếng Việt:** Công nghệ in 3D
@@ -202,7 +240,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 7 (Mục 2): thể chế chính trị đặc trưng của các nhà nước cổ đại phương Đông như Ai Cập và Lưỡng Hà.
   - Lịch sử và Địa lí lớp 8, Bài 1 (Mục 1.a, 1.b) và Bài 2 (Mục 1, 2): thể chế phong kiến ở Anh và Pháp bị các cuộc cách mạng tư sản lật đổ.
   - *Lưu ý:* Phân biệt với quân chủ lập hiến (quyền lực của vua bị giới hạn bởi hiến pháp do Quốc hội định ra).
-- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 1), tr. 31; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 31; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1.a), tr. 9; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
+- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 1), tr. 31; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 31; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1.a), tr. 9; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172, 173
 
 ### Administration and Exercise of Hoang Sa and Truong Sa Sovereignty since 1975
 - **Tiếng Việt:** Quản lí và thực thi chủ quyền quần đảo Hoàng Sa, Trường Sa từ sau năm 1975 đến nay
@@ -264,6 +302,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 5 (Mục 2.c): Kiệt tác kiến trúc và điêu khắc Phật giáo tiêu biểu của Ấn Độ thời phong kiến.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 2.c), tr. 33
 
+### allies
+- **Tiếng Việt:** Đồng minh
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Forces or nations standing on the same side to coordinate actions in pursuit of a common goal, notably the anti-fascist coalition in World War II.
+- **Giải thích (VI):** Các lực lượng hoặc quốc gia cùng đứng về một phía để phối hợp hành động vì mục đích chung, tiêu biểu là các lực lượng liên kết chống chủ nghĩa phát xít trong Chiến tranh thế giới thứ hai.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 9, Bài 3 (Mục 1.b, Mục 2.c) và Bài 4 (Mục 2, Mục 3): Chỉ các nước và lực lượng liên kết chống chủ nghĩa phát xít trong Chiến tranh thế giới thứ hai.
+  - *Lưu ý:* Khái niệm chung chỉ các lực lượng phối hợp cùng chiến tuyến; phân biệt với liên minh cụ thể "Mặt trận Đồng minh chống phát xít" thành lập tháng 1 – 1942.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 1.b), tr. 15
+
 ### Altar of Soil and Grain
 - **Tiếng Việt:** Đàn Xã Tắc
 - **Chuyên ngành gốc:** Lịch sử
@@ -278,7 +326,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A war of liberation launched in 1775 in North America under the leadership of slaveholding planters and the bourgeoisie that overthrew British colonial rule and established the United States of America as a presidential republic. Having the character of a bourgeois revolution, it opened the way for capitalist economic development and inspired independence struggles across many countries in the late 18th and early 19th centuries.
 - **Giải thích (VI):** Cuộc chiến tranh giải phóng bùng nổ năm 1775 ở Bắc Mỹ do tầng lớp chủ nô và giai cấp tư sản lãnh đạo, lật đổ ách thống trị của thực dân Anh và thành lập Hợp chúng quốc Mỹ theo chế độ cộng hoà tổng thống. Sự kiện này mang tính chất một cuộc cách mạng tư sản, mở đường cho kinh tế tư bản chủ nghĩa phát triển và ảnh hưởng sâu rộng đến phong trào giành độc lập ở nhiều nước cuối thế kỉ XVIII – đầu thế kỉ XIX.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 1 (Mục 2.a, 2.b): nguyên nhân, kết quả, tính chất cách mạng tư sản và đặc điểm chính của cuộc chiến tranh giành độc lập ở Bắc Mỹ.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 2.a), tr. 10; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 2.b), tr. 10, 11
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 2.a), tr. 10; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 2.b), tr. 10, 11; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 2.b), tr. 11
 
 ### An Duong Vuong
 - **Tiếng Việt:** An Dương Vương (Thục Phán)
@@ -318,7 +366,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An Eastern civilization that arose and developed in East Asia along the Yellow and Yangtze river basins (from around the 21st century BCE to 1911), governed under centralized autocratic monarchies. It produced major achievements in philosophy, writing, literature, architecture, historiography, and technology with far-reaching regional and global influence.
 - **Giải thích (VI):** Nền văn minh phương Đông hình thành và phát triển ở phía Đông châu Á gắn với lưu vực Hoàng Hà và Trường Giang (từ khoảng thế kỉ XXI TCN đến năm 1911), có nhà nước tổ chức theo thể chế quân chủ chuyên chế trung ương tập quyền. Nền văn minh này để lại nhiều thành tựu lớn về tư tưởng, chữ viết, văn học, kiến trúc, sử học và kĩ thuật có ảnh hưởng sâu rộng tới khu vực và thế giới.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.3): Cơ sở hình thành và những thành tựu tiêu biểu của văn minh Trung Hoa thời kì cổ – trung đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.a), tr. 43, 44
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.a), tr. 43, 44; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 43; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.a), tr. 43
 
 ### ancient and medieval Indian civilization
 - **Tiếng Việt:** Văn minh Ấn Độ thời kì cổ – trung đại
@@ -326,7 +374,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An Eastern civilization that emerged and developed in South Asia (across the Indus and Ganges river basins and a peninsula bordered by sea on three sides) from around the third millennium BCE to 1857. It was characterized by the Varna caste system and major achievements in religion, writing, literature, architecture, and mathematics that deeply influenced Southeast Asia and the world.
 - **Giải thích (VI):** Nền văn minh phương Đông hình thành và phát triển ở khu vực Nam Á (châu thổ sông Ấn, sông Hằng và vùng bán đảo ba mặt giáp biển) từ khoảng thiên niên kỉ III TCN đến năm 1857. Nền văn minh này mang dấu ấn của chế độ đẳng cấp Vác-na cùng những thành tựu rực rỡ về tôn giáo, chữ viết, văn học, kiến trúc và toán học có sức lan toả lớn đối với Đông Nam Á và thế giới.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.2): Cơ sở hình thành, thành tựu tiêu biểu và ý nghĩa của văn minh Ấn Độ thời kì cổ – trung đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.a), tr. 39, 40
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.a), tr. 39, 40; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 39; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.a), tr. 39
 
 ### ancient Cham script
 - **Tiếng Việt:** Chữ Chăm cổ
@@ -397,7 +445,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An ancient Western civilization formed on the peninsulas of Southern Europe on the basis of handicraft production, maritime trade, and the selective adoption of Eastern civilizational achievements. It made foundational contributions to alphabets, literature, art, science, philosophy, and sports that shaped subsequent Western culture.
 - **Giải thích (VI):** Nền văn minh cổ đại phương Tây hình thành trên các bán đảo Nam Âu trên cơ sở phát triển kinh tế thủ công nghiệp, thương mại biển và tiếp thu các thành tựu của văn minh phương Đông. Nền văn minh này để lại những cống hiến vĩ đại về chữ cái, văn học, nghệ thuật, khoa học, triết học và thể thao, đặt nền tảng cho văn hoá phương Tây sau này.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 1): Cơ sở hình thành và những thành tựu nền tảng của văn minh phương Tây thời cổ đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 48, 50
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 48, 50; SGK Lịch sử 10 KNTT, Chủ đề 03, B6, tr. 48; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 48; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 48, 49
 
 ### Angkor period
 - **Tiếng Việt:** Thời kì Ăng-co (Ăng-co)
@@ -442,7 +490,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 4.c): Công trình quốc sử chính thống đầu tiên của dân tộc biên soạn dưới thời Trần.
   - *Lưu ý:* Bộ quốc sử thời Trần do Lê Văn Hưu biên soạn, phân biệt với bộ Đại Việt sử ký toàn thư biên soạn dưới thời Lê sơ.
   - *Lưu ý:* Bộ quốc sử đầu tiên do Lê Văn Hưu biên soạn thời Trần; phân biệt với Đại Việt sử ký toàn thư do Ngô Sĩ Liên biên soạn thời Lê sơ.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120, 121; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.a), tr. 66; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.b), tr. 66; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.c), tr. 66
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120, 121; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.g), tr. 120; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.a), tr. 66; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.b), tr. 66; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.c), tr. 66
 
 ### anti-colonial movement in mainland Southeast Asia
 - **Tiếng Việt:** Phong trào chống thực dân ở lục địa
@@ -450,7 +498,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Nineteenth-century anti-colonial struggles across mainland Southeast Asia: in Burma, widespread guerrilla warfare forced Britain through three wars spanning over sixty years (until 1885) to occupy the country, followed by more than ten years of guerrilla resistance. In Vietnam, resistance from 1858 defeated France's "quick strike, quick victory" plan across Cochinchina and Tonkin so France needed twenty-six years (1858–1884) to impose rule, while Cambodia saw vigorous anti-French uprisings led by Prince Si Votha (1861–1892), Achar Sva (1863–1866), and Poukombo (1866–1867).
 - **Giải thích (VI):** Phong trào đấu tranh chống thực dân xâm lược tại Đông Nam Á lục địa thế kỉ XIX: ở Miến Điện, chiến tranh du kích lan rộng khiến thực dân Anh phải trải qua ba cuộc chiến tranh kéo dài hơn 60 năm (đến năm 1885) mới chiếm được nước này và tiếp tục đối phó với chiến tranh du kích hơn 10 năm sau. Ở Việt Nam, cuộc kháng chiến từ năm 1858 làm thất bại kế hoạch “đánh nhanh, thắng nhanh” ở Nam Kì và Bắc Kì khiến Pháp mất 26 năm (1858 – 1884) mới đặt được ách đô hộ, còn ở Cam-pu-chia diễn ra sôi nổi các cuộc khởi nghĩa của Hoàng thân Si-vô-tha (1861 – 1892), A-cha Xoa (1863 – 1866) và Pu-côm-bô (1866 – 1867).
 - **Bối cảnh:** Lịch sử lớp 11, Bài 6 (Mục 1.b): Cuộc chiến đấu kiên cường làm chậm bước tiến xâm lược và gây tổn thất nặng nề cho thực dân Anh, Pháp trên bán đảo Đông Dương và Miến Điện.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 38, 39
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 38, 39; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 38; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 38
 
 ### anti-colonial movement in maritime Southeast Asia
 - **Tiếng Việt:** Phong trào chống thực dân ở hải đảo
@@ -458,7 +506,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Early anti-colonial struggles in maritime Southeast Asia, notably in Indonesia and the Philippines. In Indonesia, struggles against Dutch rule erupted from the sixteenth to the nineteenth century—highlighted by Prince Diponegoro's uprising (1825–1830)—and continued across the archipelago into the early twentieth century; in the Philippines, resistance against Spanish rule began in 1521 and lasted over three centuries across the islands, with Dagohoy's revolt in Bohol being the longest (1744–1829).
 - **Giải thích (VI):** Các cuộc đấu tranh chống thực dân xâm lược bùng nổ từ rất sớm tại Đông Nam Á hải đảo, tiêu biểu ở In-đô-nê-xi-a và Phi-líp-pin. Ở In-đô-nê-xi-a, phong trào chống thực dân Hà Lan diễn ra mạnh mẽ từ thế kỉ XVI đến thế kỉ XIX với đỉnh cao là khởi nghĩa của Hoàng tử Đi-pô-nê-gô-rô (1825 – 1830) rồi tiếp tục lan rộng đến đầu thế kỉ XX; ở Phi-líp-pin, cuộc đấu tranh chống thực dân Tây Ban Nha bùng nổ từ năm 1521 kéo dài hơn ba thế kỉ, trong đó khởi nghĩa Đa-ga-hô ở Bô-hô là cuộc khởi nghĩa dài nhất (1744 – 1829).
 - **Bối cảnh:** Lịch sử lớp 11, Bài 6 (Mục 1.a): Phản ánh tinh thần đấu tranh kiên cường, bền bỉ của nhân dân Đông Nam Á hải đảo ngay từ khi thực dân phương Tây xâm nhập.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 38
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 38; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 38; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 38, 39
+
+### Anti-Fascist Allied Front
+- **Tiếng Việt:** Mặt trận Đồng minh chống phát xít
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A military and political coalition against fascism established in January 1942 with the Soviet Union, the United States, and Great Britain as its three pillars, playing the decisive role in defeating the Axis powers in World War II.
+- **Giải thích (VI):** Liên minh quân sự – chính trị chống chủ nghĩa phát xít thành lập vào tháng 1 – 1942 với ba trụ cột là Liên Xô, Mỹ và Anh, giữ vai trò quyết định trong việc đánh bại phe phát xít trong Chiến tranh thế giới thứ hai.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 4 (Mục 2.a): Liên minh quân sự – chính trị chống phát xít ra đời đầu năm 1942 giữ vai trò quyết định đánh bại phe phát xít Đức, I-ta-li-a, Nhật Bản.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B4 (Mục 2.a), tr. 19; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B4 (Mục 2.a), tr. 19, 20
 
 ### Anti-Imperialist Alliance
 - **Tiếng Việt:** Hội Phản đế Đồng minh
@@ -468,13 +524,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 14 (Mục 1a): Tên gọi đầu tiên của Mặt trận dân tộc thống nhất Việt Nam khi thành lập ngày 18 – 11 – 1930.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 1.a), tr. 137; SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 1.b), tr. 137; SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 1.b), tr. 137, 138
 
+### Anti-Japanese National Salvation Movement
+- **Tiếng Việt:** Cao trào “Kháng Nhật cứu nước” (cao trào kháng Nhật cứu nước)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A vigorous nationwide revolutionary movement launched by the Standing Committee of the Indochinese Communist Party Central Committee in its March 12, 1945 directive "Franco-Japanese Conflict and Our Actions" following Japan's March 9 coup against the French, serving as the direct premise for the General Uprising.
+- **Giải thích (VI):** Phong trào cách mạng phát triển mạnh mẽ và rộng khắp cả nước do Ban Thường vụ Trung ương Đảng Cộng sản Đông Dương phát động trong chỉ thị “Nhật – Pháp bắn nhau và hành động của chúng ta” (12 – 3 – 1945) ngay sau cuộc đảo chính Pháp của Nhật đêm 9 – 3 – 1945, làm tiền đề trực tiếp cho Tổng khởi nghĩa.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 8 (Mục 2.d): Cao trào khởi nghĩa từng phần từ tháng 3 đến giữa tháng 8 – 1945 chuẩn bị trực tiếp cho Tổng khởi nghĩa tháng Tám.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 2.c), tr. 37; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 2.d), tr. 37; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 3.a), tr. 37
+
+### Apartheid regime
+- **Tiếng Việt:** Chế độ A-pác-thai
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An extreme regime of racial discrimination imposed by a group of white rulers in Southern and South West Africa to maintain their domination over the indigenous Black majority.
+- **Giải thích (VI):** Chế độ phân biệt chủng tộc cực đoan do một số người da trắng ở miền Nam và Tây Nam Phi áp đặt nhằm duy trì ách thống trị của họ đối với đa số người da đen bản địa.
+- **Bối cảnh:** Giáo dục Kinh tế và Pháp luật lớp 8, Bài 2 (Mục 2): tìm hiểu cuộc đấu tranh chống phân biệt chủng tộc của Nen-xơn Man-đê-la tại Nam Phi.
+- **Nguồn:** SGK GDCD 8 KNTT, Bảng giải thích thuật ngữ, tr. 70; SGK GDCD 8 KNTT, B2 (Mục 2), tr. 12; SGK GDCD 8 KNTT, Bảng giải thích thuật ngữ, tr. 70, 71
+
 ### Appeal for National Resistance
 - **Tiếng Việt:** Lời kêu gọi toàn quốc kháng chiến
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A historical proclamation issued by President Ho Chi Minh on December 19, 1946, in response to French treaty violations and escalating aggression, calling upon all Vietnamese people regardless of age, gender, religion, political party, or ethnicity to rise up in resistance to save the Fatherland.
 - **Giải thích (VI):** Văn kiện lịch sử do Chủ tịch Hồ Chí Minh ban hành ngày 19 – 12 – 1946 trước việc thực dân Pháp phá hoại các thoả thuận đã kí kết và đẩy mạnh xâm lược, hiệu triệu toàn thể nhân dân Việt Nam không phân biệt già trẻ, gái trai, tôn giáo, đảng phái, dân tộc đứng lên đánh thực dân Pháp cứu Tổ quốc.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.b): Văn kiện lịch sử phát động cuộc kháng chiến toàn quốc chống thực dân Pháp ngày 19 – 12 – 1946.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39, 40
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A historic proclamation issued by President Ho Chi Minh on the evening of December 19, 1946 calling upon all Vietnamese citizens to rise up with every available weapon—guns, swords, pickaxes, shovels, or sticks—to fight the French colonialists and save the Fatherland. This document officially launched the nationwide resistance war and formed a vital part of the Party's resistance line against French colonialism. / VI: Văn kiện lịch sử do Chủ tịch Hồ Chí Minh ban hành tối 19 – 12 – 1946 hiệu triệu toàn thể đồng bào Việt Nam dùng mọi vũ khí sẵn có (súng, gươm, cuốc, thuổng, gậy gộc) đứng lên đánh thực dân Pháp cứu Tổ quốc. Văn kiện này chính thức phát động cuộc kháng chiến trên toàn quốc và là bộ phận quan trọng hợp thành đường lối kháng chiến chống thực dân Pháp.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 7 (Mục 2.b): Văn kiện lịch sử phát động cuộc kháng chiến toàn quốc chống thực dân Pháp ngày 19 – 12 – 1946.
+  - Lịch sử và Địa lí lớp 9, Bài 14 (Mục 1.a, 1.b): văn kiện lịch sử phát động cuộc kháng chiến toàn quốc và hợp thành đường lối kháng chiến chống thực dân Pháp.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39, 40; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 1.a), tr. 68; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 1.b), tr. 68; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 1.b), tr. 68, 69
 
 ### Apsara dance
 - **Tiếng Việt:** Vũ điệu Áp-sa-ra
@@ -482,7 +557,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The most iconic court and religious dance performed by Cham female dancers, traditionally staged alongside silk and fan dances to the accompaniment of ensembles featuring drums and Saranai oboes.
 - **Giải thích (VI):** Điệu múa cung đình và tôn giáo đặc sắc nhất của các vũ nữ Chăm-pa, thường biểu diễn cùng múa lụa, múa quạt trên nền hoà tấu các nhạc cụ truyền thống như trống và kèn Sa-ra-na.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 1.b): Nghệ thuật trình diễn ca múa nhạc truyền thống đặc sắc của cư dân Chăm-pa.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 93
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 93; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.a), tr. 93; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.a), tr. 93, 94
 
 ### archaeological site
 - **Tiếng Việt:** Di chỉ
@@ -507,16 +582,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The foundational legal document promulgated by ASEAN in 2007 to refine its institutional structure, strengthen intra-regional integration and external cooperation across fields, and establish a binding legal basis for building the ASEAN Community.
 - **Giải thích (VI):** Văn kiện pháp lí nền tảng được ASEAN công bố năm 2007 nhằm hoàn thiện cơ cấu tổ chức, tăng cường liên kết nội khối và hợp tác ngoại khối trên các lĩnh vực, đồng thời tạo cơ sở pháp lí ràng buộc cho việc xây dựng Cộng đồng ASEAN.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 4 (Mục 2.b): Cơ sở pháp lí cao nhất hoàn thiện bộ máy tổ chức của ASEAN trong giai đoạn 1999 – 2015.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 2.b), tr. 24
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The foundational legal document of the Association of Southeast Asian Nations adopted in 2007, establishing the legal basis to strengthen regional integration and ASEAN cooperation. / VI: Văn kiện pháp lí nền tảng của Hiệp hội các quốc gia Đông Nam Á ra đời năm 2007, tạo cơ sở pháp lí để tăng cường liên kết và hợp tác ASEAN.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 4 (Mục 2.b): Cơ sở pháp lí cao nhất hoàn thiện bộ máy tổ chức của ASEAN trong giai đoạn 1999 – 2015.
+  - Lịch sử và Địa lí lớp 9, Bài 19 (Mục 2.a): Cơ sở pháp lí quan trọng chuẩn bị cho sự ra đời của Cộng đồng ASEAN.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 2.b), tr. 24; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 2.a), tr. 99; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 2.b), tr. 99; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 2.b), tr. 99, 100
 
 ### ASEAN Community
-- **Tiếng Việt:** Cộng đồng ASEAN
+- **Tiếng Việt:** Cộng đồng ASEAN (AC)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** An advanced regional integration framework of Southeast Asian nations formally launched on December 31, 2015, pursuant to the Kuala Lumpur Declaration (November 22, 2015) on the legal basis of the ASEAN Charter. The Community operates across three closely linked pillars: the ASEAN Political-Security Community (APSC), the ASEAN Economic Community (AEC), and the ASEAN Socio-Cultural Community (ASCC).
 - **Giải thích (VI):** Thể chế liên kết khu vực cấp cao của các quốc gia Đông Nam Á chính thức đi vào hoạt động từ ngày 31 – 12 – 2015 theo Tuyên bố Cu-a-la Lăm-pơ (22 – 11 – 2015) trên cơ sở pháp lí là Hiến chương ASEAN. Cộng đồng vận hành dựa trên ba trụ cột gắn kết chặt chẽ gồm Cộng đồng Chính trị – An ninh ASEAN (APSC), Cộng đồng Kinh tế ASEAN (AEC) và Cộng đồng Văn hoá – Xã hội ASEAN (ASCC).
-- **Bối cảnh:** Lịch sử lớp 12, Bài 5 (Mục 1.c, 2): Hình thức liên kết sâu rộng hiện thực hoá mục tiêu 'Một Tầm nhìn, một Bản sắc, một Cộng đồng' của ASEAN.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 02, B5, tr. 25; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 1.a), tr. 25; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 1.a), tr. 26
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A higher-level regional integration framework of the Association of Southeast Asian Nations established on December 31, 2015, under the motto “unity in diversity,” operating as a rules-based and people-oriented community. It comprises three main pillars—the ASEAN Political-Security Community (APSC), the ASEAN Economic Community (AEC), and the ASEAN Socio-Cultural Community (ASCC)—aimed at building a politically cohesive, economically integrated, socially responsible, and outwardly cooperative ASEAN. / VI: Hình thức liên kết khu vực cấp độ cao của Hiệp hội các quốc gia Đông Nam Á thành lập ngày 31 – 12 – 2015 theo phương châm “thống nhất trong đa dạng”, hoạt động theo luật lệ và hướng tới người dân. Cộng đồng gồm ba trụ cột chính là Cộng đồng Chính trị – An ninh (APSC), Cộng đồng Kinh tế (AEC) và Cộng đồng Văn hoá – Xã hội (ASCC) nhằm xây dựng ASEAN gắn kết về chính trị, liên kết về kinh tế, chia sẻ trách nhiệm xã hội và hợp tác rộng mở với bên ngoài.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 5 (Mục 1.c, 2): Hình thức liên kết sâu rộng hiện thực hoá mục tiêu 'Một Tầm nhìn, một Bản sắc, một Cộng đồng' của ASEAN.
+  - Lịch sử và Địa lí lớp 9, Bài 19 (Mục 2.b): Dấu mốc liên kết chặt chẽ mới của ASEAN sau gần 50 năm hợp tác và phát triển.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 02, B5, tr. 25; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 1.a), tr. 25; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 1.a), tr. 26; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 2.b), tr. 99, 100; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19, tr. 96; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 2.a), tr. 99; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 2.b), tr. 99
 
 ### ASEAN Community Vision 2025
 - **Tiếng Việt:** Tầm nhìn Cộng đồng ASEAN 2025
@@ -541,10 +622,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** An economic and trade cooperation mechanism agreed upon by ASEAN in 1992 alongside the Framework Agreement on Enhancing ASEAN Economic Cooperation, aimed at advancing trade liberalization and strengthening intra-regional and external economic ties.
 - **Giải thích (VI):** Cơ chế hợp tác kinh tế – thương mại được ASEAN thoả thuận thành lập năm 1992 cùng với Hiệp định Khung về tăng cường hợp tác kinh tế ASEAN, nhằm đẩy mạnh tự do hoá thương mại và hợp tác kinh tế nội khối cũng như ngoại khối.
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A regional trade cooperation mechanism agreed upon by ASEAN in 1992 alongside the Framework Agreements on Enhancing ASEAN Economic Cooperation, establishing a foundational framework for intra-bloc economic and trade cooperation and laying the groundwork for the ASEAN Economic Community. / VI: Cơ chế hợp tác thương mại khu vực được ASEAN thoả thuận thiết lập năm 1992 cùng Hiệp định khung về tăng cường hợp tác kinh tế ASEAN, tạo khuôn khổ căn bản cho sự hợp tác kinh tế – thương mại nội khối và đặt nền móng cho việc xây dựng Cộng đồng Kinh tế ASEAN.
 - **Bối cảnh:**
   - Lịch sử lớp 12, Bài 4 (Mục 2.b): Bước tiến quan trọng trong liên kết kinh tế – thương mại của ASEAN từ thập niên 1990.
+  - Lịch sử và Địa lí lớp 9, Bài 19 (Mục 2.a): Bước tiến quan trọng trong hợp tác kinh tế – thương mại của ASEAN sau năm 1991.
   - *Lưu ý:* Không nhầm với 'Khu vực thương mại tự do ASEAN' (`ASEAN Free Trade Area`) trong Địa lí.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 2.b), tr. 24
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 2.b), tr. 24; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 2.a), tr. 99; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 2.b), tr. 99; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 2.b), tr. 99, 100
 
 ### ASEAN Political-Security Community
 - **Tiếng Việt:** Cộng đồng Chính trị – An ninh ASEAN (APSC)
@@ -603,8 +686,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The nationwide general uprising in August 1945 led by the Indochinese Communist Party that overthrew more than 80 years of French colonial rule and nearly 5 years of Japanese militarist domination, ended over 1,000 years of monarchy, and established the Democratic Republic of Vietnam. This victory transformed the Indochinese Communist Party into a ruling party and elevated the Vietnamese people from enslavement to masters of their country.
 - **Giải thích (VI):** Cuộc tổng khởi nghĩa giành chính quyền trên toàn quốc tháng 8 – 1945 do Đảng Cộng sản Đông Dương lãnh đạo, lật đổ ách cai trị hơn 80 năm của thực dân Pháp và gần 5 năm của quân phiệt Nhật Bản, chấm dứt chế độ quân chủ hơn 1000 năm và lập nên nước Việt Nam Dân chủ Cộng hoà. Thắng lợi này đưa Đảng Cộng sản Đông Dương trở thành đảng cầm quyền và đưa nhân dân Việt Nam từ thân phận nô lệ trở thành người làm chủ đất nước.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 6 (Mục 3.b): Tổng kết tầm vóc và ý nghĩa lịch sử của Cách mạng tháng Tám năm 1945 đối với dân tộc Việt Nam.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B6, tr. 31; SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 1), tr. 32; SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 2), tr. 34; SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 3.b), tr. 35
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A great historical event of the Vietnamese nation in August 1945 led by the Indochinese Communist Party and the Viet Minh Front that shattered French colonial bondage and Japanese militarist rule, abolished the monarchy in Vietnam, and inaugurated an era of national independence and freedom under a democratic republic. Its victory also strongly inspired the liberation struggles of colonial and dependent peoples worldwide, especially in Cambodia and Laos. / VI: Sự kiện lịch sử vĩ đại của dân tộc Việt Nam diễn ra vào tháng 8 – 1945 dưới sự lãnh đạo của Đảng Cộng sản Đông Dương và Mặt trận Việt Minh, phá tan xiềng xích nô lệ của thực dân Pháp và ách thống trị của quân phiệt Nhật Bản, chấm dứt chế độ quân chủ và mở ra kỉ nguyên đất nước độc lập, tự do dưới chế độ dân chủ cộng hoà. Thắng lợi này đồng thời cổ vũ mạnh mẽ tinh thần đấu tranh của các dân tộc thuộc địa và phụ thuộc trên thế giới, đặc biệt là nhân dân Cam-pu-chia và Lào.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 6 (Mục 3.b): Tổng kết tầm vóc và ý nghĩa lịch sử của Cách mạng tháng Tám năm 1945 đối với dân tộc Việt Nam.
+  - Lịch sử và Địa lí lớp 9, Bài 8 (Mục 3, Mục 4): Sự kiện vĩ đại mở ra kỉ nguyên độc lập, tự do của dân tộc Việt Nam trong thế kỉ XX.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B6, tr. 31; SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 1), tr. 32; SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 2), tr. 34; SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 3.b), tr. 35; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 2.c), tr. 37; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 4.a), tr. 40; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 4.b), tr. 40
 
 ### Austroasiatic language family
 - **Tiếng Việt:** Ngữ hệ Nam Á
@@ -630,7 +716,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A historical memorial site in An Giang Province dedicated to commemorating and preserving the remains of more than 3,000 innocent civilians massacred by Pol Pot forces over 12 days and nights (April 18–30, 1978). The monument affirms the humanitarian and just nature of Vietnam's national defense struggle as well as the noble internationalist spirit of the Vietnamese people.
 - **Giải thích (VI):** Công trình di tích lịch sử tại tỉnh An Giang dùng để tưởng niệm và lưu giữ hài cốt của hơn 3 000 người dân vô tội ở Ba Chúc bị quân Pôn Pốt sát hại trong 12 ngày đêm (từ 18 – 4 đến 30 – 4 – 1978). Di tích khẳng định tính nhân văn, chính nghĩa của cuộc chiến đấu bảo vệ Tổ quốc và tinh thần quốc tế cao cả của nhân dân Việt Nam.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 9 (Mục 2.a): Giới thiệu di tích lịch sử minh chứng tội ác của tập đoàn Pôn Pốt và tính chính nghĩa của cuộc chiến đấu bảo vệ biên giới Tây Nam.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.a), tr. 56
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.a), tr. 56; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.b), tr. 56; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.b), tr. 56, 57
 
 ### Ba Dinh Uprising
 - **Tiếng Việt:** Khởi nghĩa Ba Đình
@@ -638,7 +724,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A notable uprising of the Can Vuong Movement fought from 1886 to 1887 under Pham Banh and Dinh Cong Trang, uniting Kinh, Muong, and Thai insurgents in a fortified stronghold across the three villages of Mau Thinh, Thuong Tho, and Mi Khe in Nga Son District (Thanh Hoa). Following a large-scale French assault in January 1887, the insurgents retreated to Ma Cao in western Thanh Hoa to continue fighting briefly before dispersing.
 - **Giải thích (VI):** Cuộc khởi nghĩa tiêu biểu trong phong trào Cần vương diễn ra những năm 1886 – 1887 do Phạm Bành và Đinh Công Tráng lãnh đạo, quy tụ nghĩa quân người Kinh, Mường, Thái xây dựng căn cứ pháo đài trên ba làng Mậu Thịnh, Thượng Thọ, Mĩ Khê tại huyện Nga Sơn (Thanh Hoá). Sau cuộc tấn công quy mô lớn của quân Pháp vào tháng 1 – 1887, nghĩa quân rút lên Mã Cao (miền Tây Thanh Hoá) tiếp tục chiến đấu một thời gian rồi tan rã.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 18 (Mục 1.b): Cuộc khởi nghĩa nổi tiếng với hệ thống công sự phòng thủ kiên cố tại Thanh Hoá trong phong trào Cần vương.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 84
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 84; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2), tr. 84; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2), tr. 84, 85
+
+### Ba Son Strike
+- **Tiếng Việt:** Bãi công Ba Son (cuộc bãi công của công nhân Ba Son)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A strike by more than 1,000 workers at the Ba Son shipyard (Saigon) in August 1925 led by Ton Duc Thang and the Labor Union, winning victory and helping obstruct French warships carrying troops to suppress the Chinese revolutionary movement. It marked the transition of the Vietnamese workers' movement from spontaneous struggle to conscious, organized struggle with clear political goals.
+- **Giải thích (VI):** Cuộc đấu tranh của hơn 1 000 công nhân xưởng Ba Son (Sài Gòn) vào tháng 8 – 1925 dưới sự lãnh đạo của Tôn Đức Thắng và tổ chức Công hội, giành thắng lợi và góp phần ngăn cản tàu chiến Pháp chở binh lính sang đàn áp phong trào cách mạng Trung Quốc. Sự kiện này đánh dấu bước chuyển của phong trào công nhân Việt Nam từ giai đoạn đấu tranh tự phát sang tự giác, có tổ chức và mục đích chính trị rõ ràng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 5 (Mục 3): Cột mốc mở đầu giai đoạn đấu tranh tự giác của giai cấp công nhân Việt Nam trong phong trào dân tộc dân chủ 1918 – 1930.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 2), tr. 23; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 3), tr. 23; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 3), tr. 23, 24
 
 ### Bac Thanh and Gia Dinh Thanh
 - **Tiếng Việt:** Bắc Thành và Gia Định Thành
@@ -662,7 +756,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The historical Vietnamese name (literally 'Golden Sandbank') for the Hoang Sa Archipelago recorded in 17th-century annals and Do Ba's maps, describing an offshore sandbank about 400 leagues long and 20 leagues wide where the Nguyen Lords annually dispatched 18 vessels in late winter to collect goods and exercise sovereignty.
 - **Giải thích (VI):** Tên gọi cổ của quần đảo Hoàng Sa ghi chép trong sử liệu và thể hiện trên bản đồ thế kỉ XVII của Đỗ Bá, mô tả dải cát ngoài biển dài khoảng 400 dặm, rộng 20 dặm nơi hằng năm vào cuối mùa đông họ Nguyễn cử 18 chiếc thuyền ra thu lượm hàng hoá và thực thi chủ quyền.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 6 (Mục 2): địa danh cổ trong sử liệu và bản đồ thế kỉ XVII minh chứng chủ quyền của Việt Nam đối với quần đảo Hoàng Sa.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 2), tr. 28, 29
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 2), tr. 28, 29; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 28; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 2), tr. 28
 
 ### Bai Say Uprising
 - **Tiếng Việt:** Khởi nghĩa Bãi Sậy
@@ -670,7 +764,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A major armed uprising within the Can Vuong Movement fought from 1883 to 1892 in the reed marshes of Bai Say under the command of Nguyen Thien Thuat. The insurgents thoroughly employed guerrilla tactics against French forces but gradually weakened under continuous enemy encirclement and sweeps, ending in defeat in late 1892.
 - **Giải thích (VI):** Cuộc khởi nghĩa vũ trang tiêu biểu trong phong trào Cần vương diễn ra từ năm 1883 đến năm 1892 tại vùng đầm lầy lau sậy Bãi Sậy do Nguyễn Thiện Thuật chỉ huy. Nghĩa quân triệt để vận dụng chiến thuật du kích chống Pháp nhưng suy yếu dần trước sự bao vây, càn quét liên tiếp của địch và thất bại vào cuối năm 1892.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 18 (Mục 1.b): Cuộc khởi nghĩa tiêu biểu với lối đánh du kích ở vùng đồng bằng Bắc Kì trong phong trào Cần vương.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 83
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 83; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 83, 84
 
 ### Bali Concord II
 - **Tiếng Việt:** Thoả ước Ba-li II (Tuyên bố Ba-li II)
@@ -696,7 +790,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The segment of the bourgeoisie owning major banks and specializing in monetary and credit operations. During the transition to imperialism, it merged with industrial capital to give rise to finance capital.
 - **Giải thích (VI):** Bộ phận giai cấp tư sản làm chủ các hệ thống ngân hàng lớn và chuyên hoạt động kinh doanh tiền tệ. Trong quá trình chuyển sang giai đoạn đế quốc chủ nghĩa, bộ phận này dung hợp với tư bản công nghiệp để hình thành tư bản tài chính.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 10 (Mục 1, Mục 2.b): Bộ phận tư bản kinh doanh tiền tệ phát triển mạnh ở các nước đế quốc, đặc biệt tại Pháp.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172, 173
 
 ### Baray reservoirs
 - **Tiếng Việt:** Hồ Ba-ray (Ba-ray Tây; Ba-ray Đông)
@@ -714,6 +808,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 1 (Mục 2.b): Các chuẩn mực nghề nghiệp bắt buộc đối với nhà sử học khi khôi phục và đánh giá quá khứ.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 01, B1 (Mục 2.a), tr. 10; SGK Lịch sử 10 KNTT, Chủ đề 01, B1 (Mục 2.b), tr. 10; SGK Lịch sử 10 KNTT, Chủ đề 01, B1 (Mục 2.b), tr. 10, 11
 
+### Battle of Ap Bac
+- **Tiếng Việt:** Chiến thắng Ấp Bắc
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A military victory on January 2, 1963, in which Southern Vietnamese forces and people defeated a sweep operation of over 2,000 Saigon troops commanded by US advisers at Ap Bac (now in Dong Thap province). This victory demonstrated the feasibility of defeating the US “Special War” strategy and sparked the “Emulate Ap Bac, fight the enemy and win merit” movement across South Vietnam.
+- **Giải thích (VI):** Thắng lợi quân sự ngày 2 – 1 – 1963 của quân dân miền Nam đánh bại cuộc hành quân càn quét gồm hơn 2 000 quân Sài Gòn do cố vấn Mỹ chỉ huy tại Ấp Bắc (nay thuộc tỉnh Đồng Tháp). Trận thắng mở ra khả năng đánh bại chiến lược “Chiến tranh đặc biệt” của Mỹ và làm dấy lên phong trào “Thi đua Ấp Bắc, giết giặc lập công” khắp miền Nam.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 16 (Mục 2.b): Thắng lợi quân sự tiêu biểu mở đầu quá trình đánh bại chiến lược “Chiến tranh đặc biệt” của Mỹ ở miền Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 2.b), tr. 84
+
 ### Battle of Bach Dang in 938
 - **Tiếng Việt:** Chiến thắng Bạch Đằng năm 938
 - **Chuyên ngành gốc:** Lịch sử
@@ -730,7 +832,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A decisive strategic campaign waged by the Lam Son insurgents beginning in October 1427, opening with an ambush at Chi Lang Pass (Lang Son) that killed commander Liu Sheng and continuing with victories at Can Tram, Pho Cat, and Xuong Giang (Bac Giang). This triumph shattered the Ming relief column from Guangxi and terrified Mu Sheng's Yunnan column into hastily retreating home.
 - **Giải thích (VI):** Chuỗi trận quyết chiến chiến lược từ tháng 10 năm 1427 của nghĩa quân Lam Sơn, mở đầu bằng trận phục kích tiêu diệt chủ tướng Liễu Thăng tại ải Chi Lăng (Lạng Sơn) và tiếp nối bằng các thắng lợi ở Cần Trạm, Phố Cát, Xương Giang (Bắc Giang). Chiến thắng này đánh tan đạo viện binh từ Quảng Tây và buộc cánh quân tiếp viện của Mộc Thạnh từ Vân Nam phải khiếp sợ tháo chạy về nước.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.d): Chiến dịch quyết định đập tan 15 vạn viện binh nhà Minh cuối năm 1427.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 81, 82
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 81, 82; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 81
 
 ### Battle of Mactan
 - **Tiếng Việt:** Cuộc chống trả của thổ dân đảo Mác-tan (La-pu-la-pu)
@@ -738,7 +840,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The fierce armed resistance waged in 1521 by the indigenous inhabitants of Mactan Island in the Philippines under chieftain Lapulapu against Spanish colonial forces upon their initial incursion.
 - **Giải thích (VI):** Cuộc chiến đấu quyết liệt năm 1521 của cư dân bản địa đảo Mác-tan (Phi-líp-pin) dưới sự chỉ huy của thủ lĩnh La-pu-la-pu ngay khi thực dân Tây Ban Nha vừa xâm nhập.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 4 (Mục 3): cuộc đấu tranh chống thực dân phương Tây xâm lược từ rất sớm của nhân dân Phi-líp-pin đầu thế kỉ XVI.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 3), tr. 22; SGK Lịch sử và Địa lí 8 KNTT, Bảng phiên âm, tr. 174
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 3), tr. 22; SGK Lịch sử và Địa lí 8 KNTT, Bảng phiên âm, tr. 174; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 22
 
 ### Battle of Ngoc Hoi – Dong Da
 - **Tiếng Việt:** Trận Ngọc Hồi – Đống Đa (đại phá quân Thanh)
@@ -746,7 +848,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A lightning five-day campaign during the Ky Dau Lunar New Year (January 25–30, 1789) commanded by Emperor Quang Trung, culminating at dawn on the fifth day of Tet in simultaneous assaults on the Ngoc Hoi and Dong Da forts that drove Qing general Sam Nghi Dong to suicide and Ton Si Nghi into flight. By noon, Tay Son forces liberated Thang Long and swept away 290,000 invading Qing troops, safeguarding national independence.
 - **Giải thích (VI):** Chiến dịch tiến công thần tốc trong 5 ngày Tết Kỉ Dậu (25 – 1 đến 30 – 1 – 1789) dưới sự chỉ huy của vua Quang Trung, đỉnh cao là cuộc tấn công đồng loạt sáng mồng 5 Tết hạ đồn Ngọc Hồi và đồn Đống Đa khiến tướng giặc Sầm Nghi Đống tự tử, Tôn Sĩ Nghị bỏ trốn. Đến trưa cùng ngày, quân Tây Sơn giải phóng thành Thăng Long, quét sạch 29 vạn quân Thanh xâm lược và bảo vệ vững chắc nền độc lập đất nước.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 8 (Mục 2.d): chiến công hiển hách mùa xuân năm Kỉ Dậu (1789) đánh tan quân Thanh xâm lược.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2), tr. 35; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2.d), tr. 38
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2), tr. 35; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2.d), tr. 38; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 38
 
 ### Battle of Rach Gam – Xoai Mut
 - **Tiếng Việt:** Trận Rạch Gầm – Xoài Mút
@@ -754,7 +856,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A decisive riverine battle fought on January 19, 1785, along the Tien River stretch from Rach Gam to Xoai Mut (Tien Giang), where Tay Son forces under Nguyen Hue lured about 50,000 invading Siamese troops into a combined naval-land ambush with fire rafts and annihilated nearly the entire enemy force in a single day. This major naval victory defeated the Siamese invasion and elevated the Tay Son Uprising into a national movement.
 - **Giải thích (VI):** Trận quyết chiến trên khúc sông Tiền đoạn từ Rạch Gầm đến Xoài Mút (Tiền Giang) ngày 19 – 1 – 1785, trong đó nghĩa quân Tây Sơn do Nguyễn Huệ chỉ huy đã nhử khoảng 5 vạn quân Xiêm xâm lược vào trận địa mai phục thuỷ – bộ kết hợp thuyền, bè lửa tiêu diệt gần hết quân giặc chỉ trong một ngày. Chiến thắng thuỷ chiến vang dội này đập tan cuộc xâm lược của quân Xiêm và đưa khởi nghĩa Tây Sơn trở thành phong trào dân tộc.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 8 (Mục 2.b): chiến thắng thuỷ chiến tiêu biểu đánh tan quân Xiêm xâm lược đầu năm 1785.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2.b), tr. 36
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2.b), tr. 36; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2.a), tr. 36
+
+### Battle of Stalingrad
+- **Tiếng Việt:** Trận Xta-lin-grát (chiến thắng Xta-lin-grát)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A victorious counteroffensive by the Soviet Red Army against fascist forces at the city of Stalingrad from November 1942 to February 1943, marking the turning point of World War II from defense to counteroffensive.
+- **Giải thích (VI):** Cuộc phản công thắng lợi của Hồng quân Liên Xô trước quân phát xít tại thành phố Xta-lin-grát từ tháng 11 – 1942 đến tháng 2 – 1943, tạo nên bước ngoặt của Chiến tranh thế giới thứ hai từ phòng ngự chuyển sang phản công.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 4 (Mục 2.a): Chiến thắng lịch sử của Hồng quân Liên Xô mở đầu Giai đoạn II của Chiến tranh thế giới thứ hai.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B4 (Mục 2.a), tr. 19; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B4 (Mục 2.a), tr. 19, 20
 
 ### Battle of Tot Dong-Chuc Dong
 - **Tiếng Việt:** Chiến thắng Tốt Động – Chúc Động
@@ -762,7 +872,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A resounding ambush counteroffensive won by the Lam Son insurgents on November 7, 1426, at Tot Dong–Chuc Dong (present-day Chuong My, Hanoi), crushing the sortie launched from Dong Quan Citadel by Ming forces under Wang Tong. This victory inflicted heavy casualties on the enemy, enabling the insurgents to expand liberated territory and tighten the siege of Dong Quan.
 - **Giải thích (VI):** Trận phản công mai phục thắng lợi vang dội của nghĩa quân Lam Sơn ngày 7 tháng 11 năm 1426 tại khu vực Tốt Động – Chúc Động (Chương Mỹ, Hà Nội ngày nay), đập tan cuộc tiến công của đạo quân Minh do Vương Thông chỉ huy từ thành Đông Quan. Thắng lợi này làm suy sụp nặng nề sinh lực địch, giúp nghĩa quân mở rộng vùng giải phóng và siết chặt vòng vây thành Đông Quan.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.d): Trận phản công lớn làm thay đổi tương quan thế trận quanh thành Đông Quan cuối năm 1426.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 80, 81
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 80, 81; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 80; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 81; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 81, 82
 
 ### Before Common Era
 - **Tiếng Việt:** Trước Công nguyên (TCN)
@@ -774,6 +884,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong tiếng Anh học thuật quốc tế dùng Before Common Era (BCE), tương đương với cách ghi truyền thống Before Christ (BC).
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2), tr. 15; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191
 
+### Belt and Road Initiative
+- **Tiếng Việt:** Sáng kiến “Vành đai, Con đường” (“Vành đai; Con đường”)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A strategic initiative launched by China in 2013 designed both to advance domestic economic reform and to expand its external role and diplomatic influence.
+- **Giải thích (VI):** Giải pháp chiến lược do Trung Quốc triển khai từ năm 2013 nhằm vừa thúc đẩy cải cách kinh tế trong nước, vừa phát huy vai trò đối ngoại.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 19 (Mục 1.c): Giải pháp chiến lược kinh tế – đối ngoại tiêu biểu của Trung Quốc từ năm 2013 đến nay.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 1.c), tr. 98; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 1.b), tr. 98
+
 ### Bessemer process
 - **Tiếng Việt:** Phương pháp sử dụng lò cao
 - **Chuyên ngành gốc:** Lịch sử
@@ -782,7 +900,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 7 (Mục 2.b): Thành tựu đột phá của ngành luyện thép trong Cách mạng công nghiệp lần thứ hai.
   - *Lưu ý:* Trong SGK Lịch sử 10, thuật ngữ "phương pháp sử dụng lò cao" dùng để chỉ quy trình luyện thép từ gang lỏng của Hen-ri Bê-sê-mơ năm 1856 (tương ứng với thuật ngữ quốc tế Bessemer process).
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 62, 63
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 62, 63; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.a), tr. 62; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 62
 
 ### Binh Than Conference
 - **Tiếng Việt:** Hội nghị Bình Than
@@ -790,7 +908,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A military conference convened by the Tran king at Binh Than (Bac Ninh) to discuss defense strategies and affirm the resolve to resist the second Yuan invasion plan against Dai Viet. This event is associated with the young nobleman Tran Quoc Toan crushing an orange in frustration at being too young to attend before raising his own force under the six-word banner 'Crush the strong enemy, repay the royal grace'.
 - **Giải thích (VI):** Hội nghị quân sự do vua Trần triệu tập tại Bình Than (Bắc Ninh) nhằm bàn kế sách và khẳng định quyết tâm kháng chiến trước âm mưu xâm lược Đại Việt lần thứ hai của nhà Nguyên. Sự kiện này gắn liền với câu chuyện người thiếu niên Trần Quốc Toản bóp nát quả cam vì không được dự bàn rồi tự huy động lực lượng mang cờ thêu sáu chữ 'Phá cường địch, báo hoàng ân'.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 2): Hội nghị bàn kế hoạch kháng chiến chống quân Nguyên lần thứ hai của triều đình nhà Trần.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 1), tr. 69; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69, 70
+
+### biotechnology
+- **Tiếng Việt:** Công nghệ sinh học
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A scientific and technological field achieving major advances in genetic engineering, cell technology, and microbial technology, thereby driving the “Green Revolution” in agriculture alongside progress in medicine, pharmaceuticals, and food technology.
+- **Giải thích (VI):** Lĩnh vực khoa học – công nghệ đạt những bước tiến dài về công nghệ di truyền, công nghệ tế bào và công nghệ vi sinh, qua đó thúc đẩy cuộc “Cách mạng xanh” trong nông nghiệp cùng các tiến bộ về y dược và công nghệ thực phẩm.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 21 (Mục 1.a): Một trong những lĩnh vực thành tựu tiêu biểu của cuộc cách mạng khoa học – kĩ thuật hiện đại.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 112; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 112, 113
 
 ### bishop
 - **Tiếng Việt:** Giám mục
@@ -806,7 +932,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An industrial metallurgical technique employing blast furnaces to smelt and refine metals, invented and improved during the 19th century. This breakthrough enabled the production of new industrial materials such as steel and aluminum, fueling rapid industrialization.
 - **Giải thích (VI):** Phương pháp kĩ thuật công nghiệp ứng dụng lò cao vào quá trình nấu luyện kim loại được phát minh và cải tiến trong thế kỉ XIX. Thành tựu này đưa đến sự ra đời của nhiều nguồn nguyên liệu mới như thép, nhôm phục vụ đắc lực cho quá trình công nghiệp hoá.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 13 (Mục 1.b): Thành tựu kĩ thuật luyện kim thế kỉ XIX cung cấp vật liệu nền tảng cho sản xuất máy móc và giao thông.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 57
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 57; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 57; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 57, 58
 
 ### Bo administrative unit
 - **Tiếng Việt:** Bộ
@@ -831,16 +957,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The majority faction in the leadership of the Russian Social Democratic Labour Party formed in 1903 and headed by V. I. Lenin. Operating as a revolutionary vanguard party, it directly led Russian workers, peasants, and soldiers in overthrowing the Provisional Government during the October Revolution of 1917.
 - **Giải thích (VI):** Lực lượng chiếm đa số trong cơ quan lãnh đạo của Đảng Công nhân xã hội dân chủ Nga từ năm 1903, đứng đầu là V. I. Lê-nin. Đây là chính đảng cách mạng trực tiếp lãnh đạo công nhân, nông dân và binh lính Nga lật đổ Chính phủ tư sản lâm thời trong Cách mạng tháng Mười năm 1917.
-- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 12 (Mục 2.a): Chính đảng vô sản do V. I. Lê-nin lãnh đạo giữ vai trò quyết định thắng lợi của Cách mạng tháng Mười Nga.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: Revolutionary proletarian party in Russia originating from the Marxist majority faction led by V. I. Lenin at the Second Congress of the Russian Social Democratic Labour Party in 1903, in opposition to the Menshevik minority faction. Named the Russian Social Democratic Labour Party (Bolsheviks) in 1917, it subsequently became the Communist Party of the Soviet Union. / VI: Chính đảng cách mạng vô sản ở Nga hình thành từ phái đa số theo V.I. Lê-nin (tán đồng chủ nghĩa Mác) tại Đại hội II Đảng Công nhân xã hội dân chủ Nga năm 1903, đối lập với phái thiểu số Men-sê-vích. Từ năm 1917, tổ chức này mang tên Đảng Công nhân xã hội dân chủ Bôn-sê-vích Nga và về sau phát triển thành Đảng Cộng sản Liên Xô.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 8, Bài 12 (Mục 2.a): Chính đảng vô sản do V. I. Lê-nin lãnh đạo giữ vai trò quyết định thắng lợi của Cách mạng tháng Mười Nga.
+  - Lịch sử và Địa lí lớp 9, Bài 1 (Mục 1, 2): Lực lượng chính trị lãnh đạo nhân dân Nga tiến hành Cách mạng tháng Mười, bảo vệ chính quyền Xô viết và xây dựng chủ nghĩa xã hội ở Liên Xô.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171, 172; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1), tr. 8
 
 ### Border Autumn-Winter Campaign of 1950
-- **Tiếng Việt:** Chiến dịch Biên giới thu – đông năm 1950
+- **Tiếng Việt:** Chiến dịch Biên giới thu – đông năm 1950 (Chiến dịch Biên giới thu – đông 1950)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The first major offensive campaign of the Vietnamese main-force army, conducted from September to October 1950 along the Sino-Vietnamese border by attacking the Dong Khe stronghold and ambushing French troops along Route 4. Its victory liberated a vast border region, opened international communication lines, breached the East–West Corridor, thwarted the French Revers Plan, and secured strategic initiative on the main Northern battlefield.
 - **Giải thích (VI):** Chiến dịch tiến công lớn đầu tiên của bộ đội chủ lực Việt Nam diễn ra từ tháng 9 đến tháng 10 – 1950 ở khu vực biên giới Việt – Trung, tấn công cứ điểm Đông Khê và mai phục, chặn đánh quân Pháp trên Đường số 4. Thắng lợi này giải phóng vùng biên giới rộng lớn, mở đường liên lạc quốc tế, chọc thủng Hành lang Đông – Tây, làm phá sản Kế hoạch Rơ-ve của Pháp và giúp quân đội Việt Nam giành thế chủ động trên chiến trường chính Bắc Bộ.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.b): Chiến dịch tiến công lớn đầu tiên giành quyền chủ động trên chiến trường chính Bắc Bộ.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39, 40
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The first major proactive offensive campaign launched by Vietnam's main-force army (September–October 1950) to destroy enemy forces, expand and consolidate the Viet Bac base area, and open international communication links with socialist countries. The victory liberated a vast border region, breached the East-West corridor, wrecked the French Revers Plan, and gained strategic initiative for Vietnamese forces on the main Northern battlefield. / VI: Chiến dịch chủ động tiến công lớn đầu tiên của bộ đội chủ lực Việt Nam (từ tháng 9 đến tháng 10 – 1950) nhằm tiêu diệt một bộ phận sinh lực địch, mở rộng, củng cố căn cứ địa Việt Bắc và khai thông đường liên lạc quốc tế với các nước xã hội chủ nghĩa. Chiến thắng đã giải phóng vùng biên giới rộng lớn, chọc thủng hành lang Đông – Tây, làm phá sản Kế hoạch Rơ-ve của Pháp và đưa quân đội Việt Nam giành thế chủ động trên chiến trường chính Bắc Bộ.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 7 (Mục 2.b): Chiến dịch tiến công lớn đầu tiên giành quyền chủ động trên chiến trường chính Bắc Bộ.
+  - Lịch sử và Địa lí lớp 9, Bài 14 (Mục 2.d): bước ngoặt quân sự đưa quân đội Việt Nam giành quyền chủ động chiến lược trên chiến trường chính Bắc Bộ.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39, 40; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.d), tr. 71, 72; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.d), tr. 72; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.d), tr. 71
 
 ### Borobudur Temple
 - **Tiếng Việt:** Đền Bô-rô-bu-đua
@@ -859,7 +991,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A branch of social science investigating the economic laws of capitalist society that emerged and flourished in Britain during the 18th and 19th centuries. This school of thought is epitomized by the celebrated works of economists Adam Smith and David Ricardo.
 - **Giải thích (VI):** Trào lưu khoa học xã hội nghiên cứu các quy luật hoạt động kinh tế của xã hội tư bản, ra đời và phát triển mạnh tại Anh trong các thế kỉ XVIII – XIX. Trường phái này gắn liền với những công trình nổi tiếng của hai nhà kinh tế học A. Xmít và D. Ri-các-đô.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 13 (Mục 1.a): Thành tựu tiêu biểu của các ngành khoa học xã hội ở Anh trong các thế kỉ XVIII – XIX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 57
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 57; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 57; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 57, 58
 
 ### bourgeois revolution
 - **Tiếng Việt:** Cách mạng tư sản
@@ -867,7 +999,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A social revolution led by the bourgeoisie (or bourgeoisified strata) to overthrow the feudal regime, establish bourgeois rule, and pave the way for the development of capitalism.
 - **Giải thích (VI):** Cuộc cách mạng xã hội do giai cấp tư sản (hoặc tầng lớp tư sản hoá) lãnh đạo nhằm lật đổ chế độ phong kiến, thiết lập nền thống trị của giai cấp tư sản và mở đường cho chủ nghĩa tư bản phát triển.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 1 (Mục 1, 2): Khái niệm trung tâm phân tích các cuộc cách mạng cận đại tiêu biểu ở Nê-đéc-lan, Anh, 13 thuộc địa Anh ở Bắc Mỹ và Pháp.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91
+- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91, 92
 
 ### bourgeoisie
 - **Tiếng Việt:** Giai cấp tư sản
@@ -879,7 +1011,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2.b) và Bài 3 (Mục 1): Giai cấp đại diện cho phương thức sản xuất tư bản chủ nghĩa mới ra đời ở Tây Âu cuối thời trung đại.
   - Lịch sử và Địa lí lớp 8, Bài 3 (Mục 3): giai cấp thống trị hình thành và lớn mạnh từ cuộc cách mạng công nghiệp.
   - *Lưu ý:* Phân biệt với giai cấp tư sản dân tộc ở các nước thuộc địa (bị tư bản thực dân chèn ép nên có khuynh hướng tham gia giải phóng dân tộc).
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.a), tr. 17; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.b), tr. 17; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3), tr. 17
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.a), tr. 17; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.b), tr. 17; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3), tr. 17; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2), tr. 17; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3), tr. 17, 18
 
 ### Boxer Protocol
 - **Tiếng Việt:** Hiệp ước Tân Sửu
@@ -887,7 +1019,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An unequal agreement signed by the Qing court with the imperialist powers in 1901 following the partitioning of China by Western powers and Japan. Its signing marked China's formal transformation into a feudal, semi-colonial country.
 - **Giải thích (VI):** Hiệp ước bất bình đẳng do triều đình Mãn Thanh kí với các nước đế quốc vào năm 1901 sau quá trình Trung Quốc bị các cường quốc phương Tây và Nhật Bản xâu xé. Việc kí kết văn kiện này đánh dấu mốc Trung Quốc chính thức trở thành một quốc gia phong kiến, nửa thuộc địa.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 14 (Mục 1.a): Dấu mốc kết thúc quá trình các nước đế quốc xâm lược và biến Trung Quốc thành nước phong kiến, nửa thuộc địa đầu thế kỉ XX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 1.a), tr. 61
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 1.a), tr. 61; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 1.b), tr. 61; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 1.b), tr. 61, 62
 
 ### Brahmanism
 - **Tiếng Việt:** Đạo Bà La Môn
@@ -911,7 +1043,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Ancient Chinese script cast or inscribed on bronze vessels beginning in the Shang dynasty, which alongside oracle bone script underwent successive standardizations to evolve into modern Chinese characters.
 - **Giải thích (VI):** Loại chữ viết cổ khắc trên các hiện vật bằng đồng xuất hiện từ thời nhà Thương ở Trung Hoa, cùng với chữ giáp cốt trải qua nhiều lần chỉnh lí để phát triển thành chữ Hán ngày nay.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.3.b): Quá trình hình thành và phát triển hệ thống chữ viết của văn minh Trung Hoa.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 44, 45
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 44, 45; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.a), tr. 44; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 44
 
 ### Buddhism in Southeast Asia
 - **Tiếng Việt:** Phật giáo ở Đông Nam Á
@@ -935,7 +1067,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The armed resistance mounted by the Burmese army under General Bandula against the first British invasion (1824–1826), which ended in defeat after Bandula fell in battle in 1825.
 - **Giải thích (VI):** Cuộc chiến đấu kháng cự của quân đội Miến Điện do tướng Ban-đu-la chỉ huy chống lại cuộc xâm lược đầu tiên của thực dân Anh (1824 – 1826), kết thúc thất bại sau khi Ban-đu-la hi sinh năm 1825.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 4 (Mục 3): cuộc kháng chiến tiêu biểu chống thực dân Anh xâm lược ở Miến Điện đầu thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 3), tr. 22; SGK Lịch sử và Địa lí 8 KNTT, Bảng phiên âm, tr. 174
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 3), tr. 22; SGK Lịch sử và Địa lí 8 KNTT, Bảng phiên âm, tr. 174; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 22
 
 ### Ca tru singing
 - **Tiếng Việt:** Hát ca trù (Hát ả đào; Hát cô đầu; Hát cửa đình)
@@ -943,7 +1075,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A traditional vocal performance art of Dai Viet that originated around the 15th century in the royal court and subsequently spread widely into popular cultural life.
 - **Giải thích (VI):** Loại hình nghệ thuật diễn xướng âm nhạc truyền thống của Đại Việt xuất hiện từ khoảng thế kỉ XV trong cung đình, sau đó từng bước lan toả và trở nên phổ biến rộng rãi trong đời sống văn hoá dân gian.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 12 (Mục 3.g): Nêu thành tựu tiêu biểu về nghệ thuật âm nhạc truyền thống của văn minh Đại Việt.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.g), tr. 120
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.g), tr. 120; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120, 121
 
 ### call-to-arms proclamation
 - **Tiếng Việt:** Hịch
@@ -953,7 +1085,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 4.d), Bài 14 (Mục 2), Bài 16 (Mục 1.a): Thể văn cổ vũ lòng yêu nước và ý chí quyết chiến chống ngoại xâm thời Trần và khởi nghĩa Lam Sơn.
   - *Lưu ý:* Thuật ngữ chỉ chung thể văn kêu gọi việc nghĩa; cần phân biệt với tác phẩm cụ thể 'Hịch tướng sĩ' của Trần Quốc Tuấn và thể 'cáo' tuyên bố đại sự quốc gia như 'Bình Ngô đại cáo'.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.d), tr. 67; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 79; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.d), tr. 67; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 79; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176
 
 ### Can Vuong Edict
 - **Tiếng Việt:** Dụ Cần vương
@@ -961,7 +1093,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An imperial edict issued in the name of Emperor Ham Nghi by Ton That Thuyet at Tan So (Quang Tri) following the unsuccessful counterattack against French forces in the Hue imperial capital on July 5, 1885. It called upon scholars, gentry, and people nationwide to rally to the monarch to save the country, initiating the anti-French Can Vuong Movement.
 - **Giải thích (VI):** Chiếu dụ do Tôn Thất Thuyết lấy danh nghĩa vua Hàm Nghi ban bố tại Tân Sở (Quảng Trị) sau cuộc phản công quân Pháp ở kinh thành Huế bất thành ngày 5 – 7 – 1885. Văn kiện này kêu gọi văn thân, sĩ phu và nhân dân cả nước đứng lên giúp vua cứu nước, mở đầu phong trào Cần vương chống thực dân Pháp.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 18 (Mục 1.a): Văn kiện lịch sử phát động phong trào Cần vương chống thực dân Pháp cuối thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.a), tr. 82
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.a), tr. 82; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18, tr. 82
 
 ### Can Vuong Movement
 - **Tiếng Việt:** Phong trào Cần vương
@@ -969,7 +1101,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An armed anti-French resistance movement for national independence waged by Vietnamese scholars, gentry, and people in response to the Can Vuong Edict under the banner of "aiding the monarch to save the country" from 1885 to 1896. Its most prominent uprisings included the Bai Say, Ba Dinh, and Huong Khe uprisings.
 - **Giải thích (VI):** Phong trào đấu tranh vũ trang chống thực dân Pháp giành độc lập dân tộc của văn thân, sĩ phu và nhân dân Việt Nam hưởng ứng Dụ Cần vương dưới ngọn cờ “giúp vua cứu nước”, diễn ra từ năm 1885 đến năm 1896. Các cuộc khởi nghĩa tiêu biểu nhất trong phong trào gồm khởi nghĩa Bãi Sậy, khởi nghĩa Ba Đình và khởi nghĩa Hương Khê.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 18 (Mục 1): Phong trào kháng chiến vũ trang chống Pháp rộng lớn theo khuynh hướng phong kiến ở Việt Nam cuối thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.a), tr. 82; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 83, 84
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.a), tr. 82; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 83, 84; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18, tr. 82; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 83
 
 ### capitalist relations of production
 - **Tiếng Việt:** Quan hệ sản xuất tư bản chủ nghĩa
@@ -993,7 +1125,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A form of capitalist monopoly association in which member enterprises abide by unified regulations on production management, product distribution, and labor hiring. Although it maintains its own governing board, each participating enterprise continues to produce and trade independently.
 - **Giải thích (VI):** Hình thức tổ chức công ti tư bản độc quyền trong đó các thành viên tuân thủ quy định thống nhất về điều hành sản xuất, tiêu thụ sản phẩm và thuê mướn nhân công. Tổ chức này có ban lãnh đạo riêng, song mỗi xí nghiệp thành viên vẫn duy trì hoạt động sản xuất và buôn bán độc lập.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 10 (Mục 1): Hình thức tổ chức độc quyền phổ biến ở các nước tư bản châu Âu như Anh, Pháp, Đức cuối thế kỉ XIX – đầu thế kỉ XX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171, 172
 
 ### Catholicism
 - **Tiếng Việt:** Công giáo
@@ -1025,7 +1157,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The four primary causes behind the collapse of socialism in Eastern Europe and the USSR: subjective, voluntarist Communist Party leadership mechanically maintaining a centralized bureaucratic-subsidy economy while delaying management reform; and failure to promptly apply modern scientific-technological achievements, causing declining labor productivity, prolonged economic stagnation, and a crisis of public confidence. Furthermore, reform and restructuring made grave errors in line and execution by abolishing Communist Party leadership, compounded by subversion from domestic and external hostile forces.
 - **Giải thích (VI):** Bốn nguyên nhân cơ bản dẫn đến sự sụp đổ của chủ nghĩa xã hội ở Đông Âu và Liên Xô: đường lối lãnh đạo chủ quan, duy ý chí, áp dụng máy móc mô hình kinh tế tập trung, quan liêu, bao cấp và chậm đổi mới quản lí; không áp dụng kịp thời thành tựu cách mạng khoa học – công nghệ khiến năng suất lao động giảm, kinh tế trì trệ kéo dài và khủng hoảng lòng tin xã hội. Đồng thời, quá trình cải cách, cải tổ phạm sai lầm nghiêm trọng về đường lối khi xoá bỏ vai trò lãnh đạo của Đảng Cộng sản, kết hợp với sự chống phá của các lực lượng thù địch trong và ngoài nước.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 4 (Mục 2): Bốn nguyên nhân cơ bản giải thích sự sụp đổ mô hình chủ nghĩa xã hội ở Đông Âu và Liên Xô.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 2), tr. 25
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 2), tr. 25; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 3.a), tr. 25; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 3.a), tr. 25, 26
 
 ### causes of victory in Vietnamese resistance wars against foreign invaders
 - **Tiếng Việt:** Nguyên nhân thắng lợi của các cuộc kháng chiến chống ngoại xâm
@@ -1049,7 +1181,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A state political model headed by an emperor wielding supreme decision-making authority at the central court, governing through administrative agencies and unified tiers of local government. In Dai Viet, this institution took shape under the Dinh and Former Le dynasties, matured with a populist character under the Ly and Tran, and reached its autocratic zenith during the Early Later Le period.
 - **Giải thích (VI):** Mô hình thiết chế chính trị nhà nước do hoàng đế đứng đầu nắm quyền quyết định tối cao ở trung ương, điều hành đất nước thông qua hệ thống cơ quan giúp việc và các cấp hành chính địa phương thống nhất. Tại Đại Việt, thiết chế này hình thành từ thời Đinh – Tiền Lê, hoàn thiện theo hướng thân dân thời Lý – Trần và đạt đỉnh cao chuyên chế dưới triều Lê sơ.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 12 (Mục 3.a): Phân tích thiết chế chính trị xuyên suốt của các vương triều Đại Việt từ thế kỉ X đến thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12, tr. 108; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.a), tr. 110
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12, tr. 108; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.a), tr. 110; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 2), tr. 110
 
 ### century
 - **Tiếng Việt:** Thế kỉ
@@ -1073,7 +1205,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An ancient civilization that formed, endured, and flourished from the 2nd to the 15th century across the provinces of Central Vietnam and part of the Truong Son highlands. Rooted in the indigenous Sa Huynh culture combined with Indian cultural influences, it excelled in maritime trade, the ancient Cham script, and temple-tower architecture and sculpture.
 - **Giải thích (VI):** Nền văn minh cổ hình thành, tồn tại và phát triển từ thế kỉ II đến thế kỉ XV trên địa bàn các tỉnh miền Trung và một phần cao nguyên Trường Sơn Việt Nam ngày nay. Nền văn minh này bắt nguồn từ cơ sở văn hoá Sa Huỳnh bản địa kết hợp tiếp thu văn hoá Ấn Độ, nổi bật với thương mại đường biển, chữ Chăm cổ và nghệ thuật kiến trúc, điêu khắc đền tháp.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 11 (Mục 2.a): Khái quát không gian địa lí, niên đại và cơ sở hình thành nền văn minh Chăm-pa.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.a), tr. 99; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.a), tr. 99, 100
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.a), tr. 99; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.a), tr. 99, 100; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.b), tr. 99
 
 ### Champa temple-towers
 - **Tiếng Việt:** Đền tháp Chăm-pa
@@ -1081,7 +1213,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Distinctive religious architectural and sculptural complexes built by the Cham people from fired bricks bonded seamlessly without visible mortar to endure for centuries, adorned with intricate bas-reliefs. Representative monuments from the 10th to early 16th centuries include the temple-tower groups of Duong Long (Binh Dinh), Po Nagar (Khanh Hoa), and Po Klong Garai (Ninh Thuan).
 - **Giải thích (VI):** Quần thể các công trình kiến trúc và điêu khắc tôn giáo đặc sắc của người Chăm được xây dựng bằng gạch nung gắn kết bền vững hàng nghìn năm mà không lộ mạch vữa, kết hợp trang trí phù điêu tinh xảo. Tiêu biểu cho di sản này từ thế kỉ X đến đầu thế kỉ XVI là các cụm đền tháp Dương Long (Bình Định), Pô-na-ga (Khánh Hoà) và Pô-klong Ga-rai (Ninh Thuận).
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 1.b): Thành tựu kiến trúc và điêu khắc tôn giáo tiêu biểu nhất của văn hoá Chăm-pa.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 92, 93
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 92, 93; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.a), tr. 92; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 92
 
 ### Charter of the United Nations
 - **Tiếng Việt:** Hiến chương Liên hợp quốc
@@ -1097,7 +1229,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A traditional Vietnamese folk music, song, and dance performance art intrinsically linked to ritual practices in the Mother Goddess worship tradition.
 - **Giải thích (VI):** Loại hình nghệ thuật ca múa nhạc dân gian truyền thống của người Việt, gắn liền trực tiếp với các hoạt động thực hành nghi lễ trong tín ngưỡng thờ Mẫu.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 12 (Mục 3.g): Giới thiệu loại hình diễn xướng âm nhạc dân gian gắn với tín ngưỡng thờ Mẫu thời Đại Việt.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.g), tr. 120
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.g), tr. 120; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120, 121
 
 ### Cheng Hoon Teng Temple
 - **Tiếng Việt:** Đền Cheng Hun Teng
@@ -1123,6 +1255,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 14 (Mục 1): đơn vị hành chính – xã hội cơ sở trong sơ đồ tổ chức Nhà nước Văn Lang.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 1), tr. 61; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 61; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 61, 62; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190
 
+### Chinese Reform and Opening-up
+- **Tiếng Việt:** Công cuộc cải cách, mở cửa ở Trung Quốc (cải cách; mở cửa)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A modernization policy line initiated by the Chinese Communist Party in December 1978, placing economic development at the center through domestic reform and external opening-up to transform China into a prosperous and civilized nation. By 1991, this policy had pushed back the country's economic, political, and social crisis and achieved significant initial economic gains.
+- **Giải thích (VI):** Đường lối đổi mới do Đảng Cộng sản Trung Quốc đề ra từ tháng 12 – 1978, lấy phát triển kinh tế làm trung tâm, thực hiện cải cách và mở cửa nhằm hiện đại hoá, đưa Trung Quốc trở thành quốc gia giàu mạnh, văn minh. Đến năm 1991, đường lối này giúp Trung Quốc đẩy lùi cuộc khủng hoảng kinh tế, chính trị, xã hội và đạt được nhiều thành tựu bước đầu quan trọng về kinh tế.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 12 (Mục 2.b): bước ngoặt đổi mới đưa Trung Quốc thoát khỏi khủng hoảng và tăng trưởng kinh tế nhanh từ tháng 12 – 1978.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 2.b), tr. 56; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 1.a), tr. 52; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 1.a), tr. 53; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 2.a), tr. 54
+
 ### Christianity (history)
 - **Tiếng Việt:** Cơ Đốc giáo (Thiên Chúa giáo)
 - **Chuyên ngành gốc:** Lịch sử
@@ -1133,7 +1273,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 10, Bài 6 (Mục 1.b): Sự ra đời và quá trình xác lập vị thế của Cơ Đốc giáo trong văn minh La Mã cổ đại.
   - Lịch sử và Địa lí lớp 7, Bài 1 (Mục 3) và Bài 3 (Mục 3): Sự ra đời của Thiên Chúa giáo và vai trò chi phối xã hội Tây Âu thời trung đại.
   - *Lưu ý:* Không nhầm với 'Ki-tô giáo' (`Christianity`) trong Địa lí.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 53, 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 2), tr. 11; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 3), tr. 11; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 3), tr. 11, 12
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 53, 54; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 53; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 2), tr. 11; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 3), tr. 11; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 3), tr. 11, 12
 
 ### Christopher Columbus's expeditions to the Americas
 - **Tiếng Việt:** C. Cô-lôm-bô và cuộc thám hiểm tìm ra châu Mỹ (1492 – 1502)
@@ -1157,7 +1297,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An ancient writing system created by the Vietnamese people on the basis of Chinese characters to record the spoken vernacular Vietnamese language, which came into widespread use from the 13th century in cultural life and national literature.
 - **Giải thích (VI):** Hệ thống chữ viết cổ do người Việt sáng tạo dựa trên cơ sở chữ Hán nhằm ghi lại ngôn ngữ tiếng Việt bản địa, phát triển và sử dụng rộng rãi từ thế kỉ XIII trong đời sống văn hoá và sáng tác văn học dân tộc.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 12 (Mục 3.e): Trình bày thành tựu sáng tạo văn tự riêng khẳng định ý thức tự chủ văn hoá của cư dân Đại Việt.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.e), tr. 117; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.e), tr. 117, 118
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.e), tr. 117; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.e), tr. 117, 118; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.d), tr. 117
 
 ### city-state
 - **Tiếng Việt:** Nhà nước thành bang (thành bang; thị quốc)
@@ -1209,7 +1349,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 16 (Mục 1.b, 2.b): Chính sách hạn chế ngoại thương của triều Nguyễn và hệ quả đối với kinh tế đô thị Việt Nam nửa đầu thế kỉ XIX.
   - *Lưu ý:* Trong Bài 16 SGK Lịch sử và Địa lí 8, thuật ngữ này gắn với chính sách hạn chế giao thương với phương Tây của nhà Nguyễn nửa đầu thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 1.b), tr. 71; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 2.b), tr. 71
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 1.b), tr. 71; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 2.b), tr. 71; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 2.a), tr. 71
 
 ### Co Loa Citadel
 - **Tiếng Việt:** Thành Cổ Loa
@@ -1240,8 +1380,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A state of tense international confrontation between the two poles led by the United States (heading the capitalist camp) and the Soviet Union (heading the socialist camp) after World War II. This confrontation manifested through an escalating arms race, the formation of military alliances, and backing for local wars and military conflicts across multiple regions worldwide.
 - **Giải thích (VI):** Tình trạng đối đầu căng thẳng trong quan hệ quốc tế giữa hai cực do Mỹ (đứng đầu hệ thống tư bản chủ nghĩa) và Liên Xô (đứng đầu hệ thống xã hội chủ nghĩa) chi phối sau Chiến tranh thế giới thứ hai. Cuộc đối đầu này biểu hiện qua việc tăng cường chạy đua vũ trang, thiết lập các liên minh quân sự và hậu thuẫn cho các cuộc chiến tranh cục bộ, xung đột quân sự ở nhiều khu vực trên thế giới.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 2 (Mục 1.b): Đặc trưng bao trùm của quan hệ quốc tế trong giai đoạn tồn tại Trật tự thế giới hai cực I-an-ta.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 15; SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 15, 16; SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 16
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A state of war without direct gunfire that nonetheless generated constant global tension following World War II (1947–1989), implementing the policy of confrontation by the United States and imperialist powers against the Soviet Union and socialist countries across economic, politico-military, and regional spheres. / VI: Cuộc chiến tranh không nổ súng trực tiếp nhưng luôn gây ra tình trạng căng thẳng trên thế giới từ sau Chiến tranh thế giới thứ hai (1947 – 1989), nhằm thực hiện chính sách “đối đầu” của Mỹ và các nước đế quốc chống Liên Xô cùng các nước xã hội chủ nghĩa trên các lĩnh vực kinh tế, chính trị – quân sự và mở rộng ảnh hưởng khu vực.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 2 (Mục 1.b): Đặc trưng bao trùm của quan hệ quốc tế trong giai đoạn tồn tại Trật tự thế giới hai cực I-an-ta.
+  - Lịch sử và Địa lí lớp 9, Bài 9 (Mục 1, Mục 2, Mục 3): Tình trạng đối đầu toàn diện giữa hai cực Mỹ và Liên Xô chi phối quan hệ quốc tế từ năm 1947 đến năm 1989.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 15; SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 15, 16; SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 16; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B9, tr. 41
 
 ### colonial conquest of mainland Southeast Asia
 - **Tiếng Việt:** Xâm lược Đông Nam Á lục địa
@@ -1249,7 +1392,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The nineteenth-century Western colonial conquest of mainland Southeast Asia, starting later than in the maritime region: Britain waged three wars over more than sixty years (1824–1885) to annex Burma, while France fought nearly half a century of wars (1858–1893) to occupy the three Indochinese countries. By the early twentieth century, nearly all regional states had become Western colonies except the Kingdom of Siam (Thailand), which retained independence while becoming a dependent buffer zone between British and French colonial spheres.
 - **Giải thích (VI):** Quá trình thực dân phương Tây đánh chiếm Đông Nam Á lục địa bắt đầu từ thế kỉ XIX (muộn hơn khu vực hải đảo): thực dân Anh trải qua hơn 60 năm với ba cuộc chiến tranh (1824 – 1885) mới chiếm được Miến Điện (Mi-an-ma), còn thực dân Pháp mất gần nửa thế kỉ chiến tranh (1858 – 1893) để hoàn thành xâm chiếm ba nước Đông Dương. Đến đầu thế kỉ XX, hầu hết các nước trong khu vực đều thành thuộc địa trừ Vương quốc Xiêm (Thái Lan) giữ được nền độc lập nhưng lệ thuộc nước ngoài và trở thành vùng đệm giữa thuộc địa của Anh và Pháp.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 5 (Mục 1.a): Khép lại quá trình thực dân phương Tây thôn tính khu vực Đông Nam Á vào đầu thế kỉ XX.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.a), tr. 31, 32
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.a), tr. 31, 32; SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.a), tr. 31
 
 ### colonial conquest of maritime Southeast Asia
 - **Tiếng Việt:** Xâm lược Đông Nam Á hải đảo
@@ -1257,7 +1400,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The Western colonial conquest of maritime Southeast Asia—the first regional target due to its rich resources, abundant spices and goods, and strategic position on the vital East–West sea route. Portugal captured Malacca in 1511; Spain colonized the Philippines in the mid-sixteenth century before ceding it to the United States after the Spanish-American War (1898); the Netherlands penetrated Indonesia from the late sixteenth century and completed control by the mid-nineteenth century; and Britain seized present-day Malaysia, Singapore, and Brunei by the early twentieth century.
 - **Giải thích (VI):** Quá trình thực dân phương Tây thôn tính các nước Đông Nam Á hải đảo – đối tượng đầu tiên bị nhòm ngó do giàu tài nguyên, hương liệu, hàng hoá và nằm trên tuyến đường biển huyết mạch nối phương Đông với phương Tây. Năm 1511 Bồ Đào Nha chiếm Ma-lắc-ca; giữa thế kỉ XVI Tây Ban Nha xâm lược Phi-líp-pin trước khi vùng này chuyển sang tay Mỹ sau chiến tranh Mỹ – Tây Ban Nha (1898); Hà Lan xâm nhập In-đô-nê-xi-a từ cuối thế kỉ XVI và hoàn tất kiểm soát giữa thế kỉ XIX; đầu thế kỉ XX Anh chiếm trọn vùng lãnh thổ Ma-lai-xi-a, Xin-ga-po và Bru-nây ngày nay.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 5 (Mục 1.a): Quá trình gần bốn thế kỉ thực dân phương Tây xâm nhập và hoàn thành thôn tính các quốc gia Đông Nam Á hải đảo.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.a), tr. 30, 31
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.a), tr. 30, 31; SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.a), tr. 30
 
 ### colonial cultural subjugation policy
 - **Tiếng Việt:** Chính sách nô dịch văn hoá
@@ -1265,7 +1408,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A colonial cultural policy aimed at assimilating indigenous populations and keeping them uneducated to facilitate domination, eroding traditional cultural values and provoking cultural and religious conflicts in countries such as the Philippines and Indonesia.
 - **Giải thích (VI):** Chính sách thống trị văn hoá của thực dân phương Tây nhằm đồng hoá và ngu dân để dễ bề cai trị, làm xói mòn các giá trị văn hoá truyền thống và gây ra xung đột văn hoá, tôn giáo ở nhiều nước Đông Nam Á như Phi-líp-pin, In-đô-nê-xi-a.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 4 (Mục 2): chính sách thống trị và đồng hoá văn hoá của thực dân phương Tây ở Đông Nam Á.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 21
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 21; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 21, 22
 
 ### colonial economic rule in Southeast Asia
 - **Tiếng Việt:** Chính sách cai trị về kinh tế
@@ -1273,7 +1416,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Western colonial policies of economic exploitation in Southeast Asia that turned colonized countries into raw-material suppliers and consumer markets serving the metropole. Colonial regimes extracted wealth through heavy taxation on native populations, land seizures to establish plantations, labor exploitation, and intensive extraction of natural resources and crops such as rubber, coffee, tea, and rice.
 - **Giải thích (VI):** Hệ thống chính sách khai thác, bóc lột thuộc địa của thực dân phương Tây ở Đông Nam Á nhằm biến các nước trong khu vực thành nơi cung cấp nguyên liệu và thị trường tiêu thụ hàng hoá phục vụ chính quốc. Chính quyền thực dân vơ vét thông qua thuế khoá đánh vào nhân dân bản địa, cướp ruộng đất lập đồn điền, bóc lột sức người và khai thác tài nguyên cùng sản vật đặc trưng như cao su, cà phê, chè, lúa gạo.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 5 (Mục 1.b): Chính sách khai thác bóc lột khiến nền kinh tế các thuộc địa Đông Nam Á phát triển què quặt, lạc hậu và phụ thuộc vào chính quốc.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 33
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 33; SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 33, 34
 
 ### colonial political rule in Southeast Asia
 - **Tiếng Việt:** Chính sách cai trị về chính trị
@@ -1281,7 +1424,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Western colonial political governance in Southeast Asia under direct or indirect rule, preserving local feudal forces as administrative tools while concentrating executive, legislative, judicial, diplomatic, and military powers in colonial representatives. Colonial authorities widely practiced "divide and rule" policies to weaken national strength and built native military forces to protect the colonial apparatus and suppress indigenous resistance.
 - **Giải thích (VI):** Hệ thống thống trị chính trị của thực dân phương Tây ở Đông Nam Á dưới hình thức trực tiếp hoặc gián tiếp, vừa duy trì thế lực phong kiến địa phương làm công cụ cai trị vừa tập trung mọi quyền hành chính, lập pháp, tư pháp, ngoại giao, quân sự vào tay đại diện chính quyền thực dân. Thực dân phương Tây sử dụng phổ biến chính sách “chia để trị” nhằm làm suy yếu sức mạnh dân tộc và xây dựng quân đội người bản địa để bảo vệ bộ máy cai trị, đàn áp sự phản kháng của người dân thuộc địa.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 5 (Mục 1.b): Phương thức thâu tóm toàn bộ quyền lực chính trị vào tay chính quyền thực dân và chia rẽ khối đoàn kết dân tộc ở Đông Nam Á.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 33
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 33; SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 33, 34
 
 ### colonial sociocultural rule in Southeast Asia
 - **Tiếng Việt:** Chính sách cai trị văn hoá xã hội
@@ -1289,7 +1432,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Western colonial sociocultural policies keeping colonized Southeast Asian populations in backwardness and poverty while eroding traditional national values. Alongside obscurantist policies leaving most subjects illiterate (only 8.5% literacy in Malaya in 1931 and over 90% illiteracy in Vietnam in 1926), colonial rulers poisoned native peoples with alcohol and opium for easier control and maintained backward healthcare that drove up mortality rates.
 - **Giải thích (VI):** Hệ thống chính sách của thực dân phương Tây nhằm kìm hãm người dân thuộc địa Đông Nam Á trong tình trạng lạc hậu, nghèo đói và làm xói mòn giá trị truyền thống dân tộc. Cùng với chính sách ngu dân khiến hầu hết người dân mù chữ (ở Mã Lai năm 1931 chỉ có 8,5% dân số biết chữ; ở Việt Nam năm 1926 hơn 90% dân số không biết chữ), thực dân còn đầu độc người bản địa bằng rượu, thuốc phiện để dễ cai trị và duy trì y tế lạc hậu khiến tỉ lệ tử vong tăng cao.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 5 (Mục 1.b): Các biện pháp văn hoá – xã hội đẩy nhân dân thuộc địa Đông Nam Á vào tình cảnh dốt nát, nghèo đói và suy kiệt.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 33, 34
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 33, 34; SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 33
 
 ### colony
 - **Tiếng Việt:** Thuộc địa
@@ -1301,7 +1444,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 11, Bài 1 (Mục 1): Gắn với 13 thuộc địa Anh ở Bắc Mỹ và hệ thống thuộc địa của các nước đế quốc ở châu Á, châu Phi, Mỹ La-tinh (Bài 2, Bài 5).
   - Lịch sử và Địa lí lớp 8, Bài 1 (Mục 2.a) và Bài 3 (Mục 3): chỉ 13 thuộc địa Anh ở Bắc Mỹ và các vùng lãnh thổ bị các nước tư bản phương Tây xâm chiếm.
   - *Lưu ý:* Phân biệt với nước phụ thuộc (quốc gia không bị xâm chiếm trực tiếp hoàn toàn nhưng vẫn lệ thuộc vào đế quốc).
-- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 93; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 2.a), tr. 10; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
+- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 93; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 2.a), tr. 10; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172, 173
 
 ### Colosseum
 - **Tiếng Việt:** Đấu trường Cô-li-dê
@@ -1309,7 +1452,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The most iconic monumental amphitheater of ancient Roman civilization, demonstrating the advanced construction skills and architectural artistry of the Romans.
 - **Giải thích (VI):** Công trình kiến trúc đấu trường đồ sộ và tiêu biểu bậc nhất của nền văn minh La Mã cổ đại, thể hiện trình độ xây dựng và nghệ thuật kiến trúc vượt trội của người La Mã.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 1.b): Di sản kiến trúc tiêu biểu của văn minh La Mã cổ đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 51, 52
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 51, 52; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 51
 
 ### commandery administrator
 - **Tiếng Việt:** Thái thú
@@ -1318,6 +1461,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chức quan cai quản một quận (như Giao Chỉ, Cửu Chân, Nhật Nam) trong bộ máy chính quyền đô hộ phương Bắc ở nước ta thời Bắc thuộc.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 1.a): chức quan cai quản cấp quận nằm dưới Thứ sử trong bộ máy đô hộ thời Bắc thuộc.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1.a), tr. 66
+
+### commodity economy
+- **Tiếng Việt:** Kinh tế hàng hoá
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An economy in which goods are produced for consumption in the market, emerging early in history when handicrafts separated from agriculture.
+- **Giải thích (VI):** Nền kinh tế sản xuất ra các sản phẩm để tiêu thụ ở thị trường, xuất hiện từ rất sớm trong lịch sử khi thủ công nghiệp tách khỏi nông nghiệp.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 20 (Mục 4.b, 4.c): Khái niệm kinh tế cốt lõi trong chủ trương xây dựng nền kinh tế hàng hoá nhiều thành phần thời kì Đổi mới.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 4.b, 4.c), tr. 106, 107; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 4.b), tr. 106; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 4.c), tr. 107
 
 ### Common Era
 - **Tiếng Việt:** Công nguyên
@@ -1329,24 +1480,52 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong tiếng Anh học thuật quốc tế dùng Common Era (CE), tương đương với cách ghi truyền thống Anno Domini (AD).
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2), tr. 15
 
+### Communist International
+- **Tiếng Việt:** Quốc tế Cộng sản (Quốc tế thứ ba)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An international revolutionary organization of the working class and oppressed peoples worldwide, founded in March 1919 in Moscow through the active efforts of V. I. Lenin and the Russian Bolshevik Party. During its existence (1919–1943), it held seven congresses to formulate guidelines for each stage of the world revolutionary movement.
+- **Giải thích (VI):** Tổ chức cách mạng quốc tế của giai cấp công nhân và các dân tộc bị áp bức trên toàn thế giới, thành lập tháng 3 – 1919 tại Mát-xcơ-va với vai trò tích cực của V. I. Lê-nin và Đảng Bôn-sê-vích Nga. Trong thời gian hoạt động (1919 – 1943), tổ chức này đã tiến hành 7 kì đại hội nhằm đề ra đường lối cho từng thời kì phát triển của cách mạng thế giới.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 2 (Mục 1.b): Tổ chức cách mạng quốc tế thành lập tại Mát-xcơ-va lãnh đạo phong trào công nhân và giải phóng dân tộc giai đoạn 1919 – 1943.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2, tr. 10; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1.a), tr. 11; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1.b), tr. 11
+
 ### Communist League
 - **Tiếng Việt:** Đồng minh những người cộng sản
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The first independent political party of the international proletariat, founded by Karl Marx and Friedrich Engels in the 1840s. The organization adopted the Manifesto of the Communist Party, published in early 1848, as its political program.
 - **Giải thích (VI):** Chính đảng độc lập đầu tiên của giai cấp vô sản quốc tế do C. Mác và Ph. Ăng-ghen sáng lập vào thập niên 40 của thế kỉ XIX. Tổ chức này lấy Tuyên ngôn của Đảng Cộng sản công bố đầu năm 1848 làm Cương lĩnh hoạt động.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 2): Tổ chức chính trị mở đầu cho sự kết hợp giữa chủ nghĩa xã hội khoa học với phong trào công nhân quốc tế.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 2), tr. 49
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 2), tr. 49; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 1), tr. 49; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 3), tr. 49, 50
+
+### Communist Party of Annam
+- **Tiếng Việt:** An Nam Cộng sản đảng
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The second communist organization formed in Vietnam, established in August 1929 by progressive cadres of the Vietnam Revolutionary Youth League at its General Headquarters and Southern Regional Committee, and subsequently unified into the Communist Party of Vietnam in early 1930.
+- **Giải thích (VI):** Tổ chức cộng sản thứ hai ra đời ở Việt Nam, do các cán bộ tiên tiến của Hội Việt Nam Cách mạng Thanh niên tại Tổng bộ và Kì bộ Nam Kì quyết định thành lập vào tháng 8 – 1929, sau đó tham gia hợp nhất thành Đảng Cộng sản Việt Nam đầu năm 1930.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 6 (Mục 2.a, Mục 2.b): Tổ chức cộng sản thứ hai ra đời ở Việt Nam năm 1929 tham dự Hội nghị thành lập Đảng Cộng sản Việt Nam đầu năm 1930.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 2.a), tr. 28; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 2.b), tr. 28; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 2.b), tr. 28, 29
+
+### Communist Party of Indochina
+- **Tiếng Việt:** Đông Dương Cộng sản đảng
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The first communist organization in Vietnam, proclaimed in Hanoi in June 1929 by Northern delegates of the Vietnam Revolutionary Youth League and later merged into the Communist Party of Vietnam in early 1930.
+- **Giải thích (VI):** Tổ chức cộng sản đầu tiên ở Việt Nam, do các đại biểu của Hội Việt Nam Cách mạng Thanh niên ở Bắc Kì họp tại Hà Nội tuyên bố thành lập vào tháng 6 – 1929 và hợp nhất vào Đảng Cộng sản Việt Nam đầu năm 1930.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 9, Bài 6 (Mục 2.a, Mục 2.b): Tổ chức cộng sản đầu tiên ra đời ở Việt Nam năm 1929 tham dự Hội nghị thành lập Đảng Cộng sản Việt Nam đầu năm 1930.
+  - *Lưu ý:* Phân biệt với "Đảng Cộng sản Đông Dương" (Indochinese Communist Party – tên gọi của Đảng Cộng sản Việt Nam từ tháng 10 – 1930).
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 2.a), tr. 28; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 2.b), tr. 28; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 2.b), tr. 28, 29
 
 ### Communist Party of Vietnam
 - **Tiếng Việt:** Đảng Cộng sản Việt Nam
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The revolutionary political party founded in early 1930 in Kowloon (Hong Kong, China) through the unification conference of communist organizations presided over by Nguyen Ai Quoc, resulting from the synthesis of Marxism–Leninism and Nguyen Ai Quoc's thought with the Vietnamese workers' and patriotic movements. Its establishment marked a momentous turning point, establishing sole leadership with a scientific, creative line and becoming the foremost factor determining the victories of the Vietnamese revolution.
 - **Giải thích (VI):** Chính đảng cách mạng ra đời đầu năm 1930 tại Cửu Long (Hồng Công, Trung Quốc) thông qua hội nghị hợp nhất các tổ chức cộng sản do Nguyễn Ái Quốc chủ trì, là sản phẩm của sự kết hợp chủ nghĩa Mác – Lê-nin và tư tưởng Nguyễn Ái Quốc với phong trào công nhân và phong trào yêu nước Việt Nam. Sự thành lập Đảng mở ra bước ngoặt trọng đại, xác lập quyền lãnh đạo duy nhất với đường lối khoa học, sáng tạo và trở thành nhân tố hàng đầu quyết định mọi thắng lợi của cách mạng Việt Nam.
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The vanguard political party of the Vietnamese proletariat founded in early 1930 in Hong Kong (China) under the chairmanship of Nguyen Ai Quoc as the result of combining Marxism-Leninism with the Vietnamese workers' and patriotic movements. Its birth ended the crisis over the path to national salvation and leadership class, integrating the Vietnamese revolution into the world revolution and preparing for subsequent historic victories. / VI: Chính đảng tiên phong của giai cấp vô sản Việt Nam thành lập đầu năm 1930 tại Hương Cảng (Trung Quốc) dưới sự chủ trì của Nguyễn Ái Quốc, là kết quả của sự kết hợp giữa chủ nghĩa Mác – Lê-nin với phong trào công nhân và phong trào yêu nước Việt Nam. Đảng ra đời đã chấm dứt khủng hoảng về đường lối cứu nước và giai cấp lãnh đạo, đưa cách mạng Việt Nam thành bộ phận khăng khít của cách mạng thế giới và là bước chuẩn bị tất yếu đầu tiên cho những thắng lợi về sau.
 - **Giải thích khác (SGK GD KT&PL 10):** EN: The sole political party and ruling party in Vietnam, serving both as a constituent member of the political system and as the force leading the State, the entire political system, and society. Its organizations and members operate within the framework of the Constitution and laws in accordance with Article 4 of the 2013 Constitution. / VI: Đảng chính trị duy nhất và là Đảng cầm quyền ở Việt Nam, vừa là một thành viên của hệ thống chính trị vừa giữ vai trò lãnh đạo Nhà nước, toàn bộ hệ thống chính trị và xã hội. Các tổ chức của Đảng và đảng viên hoạt động trong khuôn khổ Hiến pháp và pháp luật theo quy định tại Điều 4 Hiến pháp năm 2013.
 - **Bối cảnh:**
   - Lịch sử lớp 12, Bài 16 (Mục 2.c): Sự ra đời và ý nghĩa lịch sử của chính đảng lãnh đạo cách mạng Việt Nam từ năm 1930.
+  - Lịch sử và Địa lí lớp 9, Bài 6 (Mục 2.b): Chính đảng của giai cấp vô sản Việt Nam thành lập đầu năm 1930 mở ra bước ngoặt lịch sử cho cách mạng dân tộc.
   - Giáo dục Kinh tế và Pháp luật lớp 10, Bài 19 (Mục 1): Vị trí, vai trò lãnh đạo của Đảng Cộng sản Việt Nam trong cấu trúc hệ thống chính trị.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 2.a), tr. 96; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 2.a), tr. 97; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 2.b), tr. 97; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 2.c), tr. 98; SGK GD KT&PL 10 KNTT, Chủ đề 09, B19 (Mục 1), tr. 116; SGK GD KT&PL 10 KNTT, Chủ đề 09, B19 (Mục 2.a), tr. 117; SGK GD KT&PL 10 KNTT, Chủ đề 09, B19 (Mục 2.d), tr. 119
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 2.a), tr. 96; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 2.a), tr. 97; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 2.b), tr. 97; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 2.c), tr. 98; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6, tr. 26; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 2.a), tr. 28; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 2.b), tr. 28; SGK GD KT&PL 10 KNTT, Chủ đề 09, B19 (Mục 1), tr. 116; SGK GD KT&PL 10 KNTT, Chủ đề 09, B19 (Mục 2.a), tr. 117; SGK GD KT&PL 10 KNTT, Chủ đề 09, B19 (Mục 2.d), tr. 119; SGK GD KT&PL 10 KNTT, Chủ đề 09, B19 (Mục 2.a), tr. 116; SGK GD KT&PL 10 KNTT, Chủ đề 09, B19 (Mục 2.a), tr. 116, 117
 
 ### Communist Party of Vietnam's viewpoint on Doi Moi
 - **Tiếng Việt:** Quan điểm về Đổi mới của Đảng
@@ -1354,7 +1533,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The guiding principle of the Communist Party of Vietnam stating that Doi Moi does not mean changing the socialist goal, but rather realizing that goal effectively through sound conceptions of socialism and appropriate forms, steps, and measures.
 - **Giải thích (VI):** Nguyên tắc chỉ đạo của Đảng Cộng sản Việt Nam khẳng định Đổi mới không phải là thay đổi mục tiêu xã hội chủ nghĩa mà là làm cho mục tiêu ấy được thực hiện có hiệu quả bằng những quan niệm đúng đắn về chủ nghĩa xã hội cùng những hình thức, bước đi và biện pháp thích hợp.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 10 (Mục 1): Khẳng định bản chất và phương châm thực hiện mục tiêu xã hội chủ nghĩa trong công cuộc Đổi mới tại Văn kiện Đại hội VI.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 1), tr. 62
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 1), tr. 62; SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 2), tr. 62, 63
 
 ### Complete Annals of Dai Viet
 - **Tiếng Việt:** Đại Việt sử ký toàn thư
@@ -1364,7 +1543,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 12 (Mục 3.h): Giới thiệu bộ quốc sử tiêu biểu của nền khoa học lịch sử Đại Việt thời Lê sơ.
   - *Lưu ý:* Bộ quốc sử lớn biên soạn dưới thời Lê sơ, phân biệt với bộ Đại Việt sử ký của Lê Văn Hưu thời Trần.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120, 121
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120, 121; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.g), tr. 120
 
 ### Complete Map of the Unified Dai Nam
 - **Tiếng Việt:** Đại Nam nhất thống toàn đồ
@@ -1372,7 +1551,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The national map commissioned by the National History Institute of the Nguyen Dynasty around 1838, clearly depicting the Hoang Sa (Paracel) and Truong Sa (Spratly) archipelagos as part of Vietnamese territory.
 - **Giải thích (VI):** Bản đồ quốc gia do Quốc sử quán triều Nguyễn tổ chức vẽ vào khoảng năm 1838, thể hiện rõ quần đảo Hoàng Sa và quần đảo Trường Sa thuộc lãnh thổ Việt Nam.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 16 (Mục 4): Tư liệu bản đồ cổ khẳng định chủ quyền của Việt Nam đối với hai quần đảo Hoàng Sa và Trường Sa dưới triều Nguyễn.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 4), tr. 73
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 4), tr. 73; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 3.c), tr. 73; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 3.d), tr. 73
 
 ### comprehensive strategic partnership
 - **Tiếng Việt:** Đối tác chiến lược toàn diện
@@ -1380,7 +1559,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The highest-level bilateral cooperation framework to which Vietnam has elevated its relations with major partner nations such as China, the United States, the Russian Federation, India, and South Korea during the Doi Moi era.
 - **Giải thích (VI):** Khuôn khổ quan hệ hợp tác song phương ở tầm mức cao và toàn diện được Việt Nam thiết lập, nâng tầm với các quốc gia đối tác quan trọng như Trung Quốc, Mỹ, Liên bang Nga, Ấn Độ, Hàn Quốc trong thời kì Đổi mới.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 14 (Mục 2): Trình bày kết quả mở rộng và nâng tầm quan hệ đối ngoại của Việt Nam từ năm 1986 đến nay.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 85
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 85; SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 85, 86
 
 ### Confucianism
 - **Tiếng Việt:** Nho giáo
@@ -1401,7 +1580,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Major philosophical doctrines and religions formed in ancient China to explain the world and propose principles of statecraft, forming the ideological foundation of Chinese society and deeply influencing Japan, Korea, and Vietnam.
 - **Giải thích (VI):** Các học thuyết tư tưởng và tôn giáo lớn hình thành từ thời cổ đại ở Trung Hoa nhằm giải thích thế giới và đề xướng đường lối cai trị đất nước, tạo nền tảng thế giới quan cho xã hội Trung Hoa và ảnh hưởng sâu rộng đến Nhật Bản, Triều Tiên, Việt Nam.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.3.b): Các trường phái tư tưởng, tôn giáo nền tảng của văn minh Trung Hoa thời kì cổ – trung đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 44
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 44; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.a), tr. 44; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 44, 45
 
 ### conservation
 - **Tiếng Việt:** Bảo tồn
@@ -1419,7 +1598,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 1 (Mục 1.a, 1.b): thể chế chính trị được xác lập ở Anh sau cuộc chính biến năm 1688 – 1689.
   - *Lưu ý:* Phân biệt với quân chủ chuyên chế (vua nắm quyền lực tối cao, không bị giới hạn bởi hiến pháp).
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1.a), tr. 9; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1.a), tr. 9; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172, 173
 
 ### copper and bronze
 - **Tiếng Việt:** Đồng đỏ và đồng thau
@@ -1442,8 +1621,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** An economic cooperation organization of socialist countries that Vietnam joined in 1978 to promote comprehensive cooperation with the Soviet Union and other socialist states across political, economic, cultural, and scientific-technical fields.
 - **Giải thích (VI):** Tổ chức hợp tác kinh tế của các nước xã hội chủ nghĩa mà Việt Nam gia nhập năm 1978 nhằm đẩy mạnh hợp tác toàn diện với Liên Xô và các nước xã hội chủ nghĩa trên các lĩnh vực chính trị, kinh tế, văn hoá và khoa học – kĩ thuật.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 14 (Mục 1): Trình bày hoạt động hợp tác toàn diện của Việt Nam với các nước xã hội chủ nghĩa giai đoạn 1975 – 1985.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 1), tr. 83
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: An economic organization founded in 1949 by the Soviet Union and Eastern European countries to promote cooperation and mutual assistance among socialist states. / VI: Tổ chức liên kết kinh tế do Liên Xô và các nước Đông Âu sáng lập năm 1949 nhằm thúc đẩy sự hợp tác, giúp đỡ lẫn nhau giữa các nước xã hội chủ nghĩa.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 14 (Mục 1): Trình bày hoạt động hợp tác toàn diện của Việt Nam với các nước xã hội chủ nghĩa giai đoạn 1975 – 1985.
+  - Lịch sử và Địa lí lớp 9, Bài 9 (Mục 2) và Bài 10 (Mục 2.b): Tổ chức hợp tác kinh tế của Liên Xô và các nước xã hội chủ nghĩa thành lập năm 1949 trong bối cảnh Chiến tranh lạnh.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 1), tr. 83; SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 1), tr. 83, 84; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 2), tr. 42; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 2), tr. 42, 43; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B10, tr. 44
 
 ### craft guild
 - **Tiếng Việt:** Phường hội
@@ -1459,15 +1641,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The historical trajectory in which Eastern European socialist economies slowed from the late 1970s, fell into severe socioeconomic crisis in the 1980s, and collapsed by the late 1980s. In the USSR, failed restructuring plunged the country into crisis, culminating in the dissolution of the Soviet federal state in December 1991 and ending 74 years of socialism there.
 - **Giải thích (VI):** Quá trình suy giảm tốc độ tăng trưởng kinh tế ở các nước xã hội chủ nghĩa Đông Âu từ nửa sau những năm 70, lâm vào khủng hoảng kinh tế – xã hội trầm trọng trong những năm 80 và dẫn tới sự tan rã chế độ xã hội chủ nghĩa vào cuối thập niên 1980. Ở Liên Xô, thất bại của công cuộc cải tổ đẩy đất nước vào khủng hoảng và đến tháng 12 – 1991, Nhà nước Liên bang Xô viết tan rã, chấm dứt chế độ xã hội chủ nghĩa sau 74 năm tồn tại.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 4 (Mục 2): Diễn biến quá trình suy thoái, khủng hoảng và tan rã của chế độ xã hội chủ nghĩa tại Đông Âu và Liên Xô cuối thế kỉ XX.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 2), tr. 24, 25
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 2), tr. 24, 25; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 24; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 2), tr. 24
 
 ### cultural heritage
 - **Tiếng Việt:** Di sản văn hoá
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A system of material and spiritual values created and accumulated by a human community over a long historical process and transmitted from one generation to the next.
 - **Giải thích (VI):** Hệ thống các giá trị vật chất và tinh thần do một cộng đồng người sáng tạo, tích luỹ trong quá trình lịch sử lâu dài và lưu truyền từ thế hệ trước cho thế hệ sau.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 4 (Mục 1): Khái niệm trung tâm khi tìm hiểu mối quan hệ giữa Sử học với công tác bảo tồn và phát huy giá trị di sản.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử 10 KNTT, Chủ đề 02, B3, tr. 19
+- **Giải thích khác (SGK GDCD 7):** EN: Material and spiritual products possessing historical, cultural, and scientific value that are handed down from generation to generation. This system comprises two main categories: tangible cultural heritage and intangible cultural heritage. / VI: Những sản phẩm vật chất và tinh thần có giá trị lịch sử, văn hoá, khoa học được lưu truyền từ thế hệ này qua thế hệ khác. Hệ thống này bao gồm hai loại hình chính là di sản văn hoá vật thể và di sản văn hoá phi vật thể.
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 4 (Mục 1): Khái niệm trung tâm khi tìm hiểu mối quan hệ giữa Sử học với công tác bảo tồn và phát huy giá trị di sản.
+  - Giáo dục Kinh tế và Pháp luật lớp 7, Bài 5 (Mục 1, 4): định nghĩa khái niệm trọng tâm và phân loại di sản văn hoá trong pháp luật và đời sống văn hoá Việt Nam.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử 10 KNTT, Chủ đề 02, B3, tr. 19; SGK GDCD 7 KNTT, B5, tr. 24; SGK GDCD 7 KNTT, B5 (Mục 1), tr. 24; SGK GDCD 7 KNTT, B5 (Mục 1), tr. 25; SGK GDCD 7 KNTT, B5 (Mục 4), tr. 29
+
+### cultural heritage of the Red River Delta
+- **Tiếng Việt:** Di sản văn hoá ở châu thổ sông Hồng
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The system of tangible and intangible cultural values preserving the imprint of ancient wet-rice civilization in the Red River Delta. It encompasses historical monuments tied to nation-building and national defence—such as Co Loa Citadel, Hoa Lu Ancient Capital, the Imperial Citadel of Thang Long, and the Temple of Literature—alongside rice-farming cuisine, traditional handicrafts, festivals, Quan ho folk songs, Ca tru singing, communal lifestyles, and folk literature.
+- **Giải thích (VI):** Hệ thống giá trị văn hoá vật thể và phi vật thể lưu giữ dấu ấn nền văn minh lúa nước lâu đời tại châu thổ sông Hồng. Hệ thống này bao gồm các di tích gắn với công cuộc dựng nước và giữ nước (Thành Cổ Loa, Cố đô Hoa Lư, Hoàng thành Thăng Long, Văn Miếu – Quốc Tử Giám) cùng kho tàng ẩm thực lúa gạo, nghề thủ công truyền thống, lễ hội, dân ca Quan họ, Ca trù, nếp sống cộng đồng và văn học dân gian.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 2 (Mục 1.a): Nhận diện những nét đặc sắc về di sản văn hoá vật thể và phi vật thể của nền văn minh châu thổ sông Hồng.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1.a), tr. 225, 226; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2, tr. 225; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1.a), tr. 225
 
 ### cultural industries of Vietnam
 - **Tiếng Việt:** Các ngành công nghiệp văn hoá Việt Nam
@@ -1514,8 +1707,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The entirety of material and spiritual values created by human beings since the emergence of humankind. Culture shapes the distinctive character and identity of a society or social group.
 - **Giải thích (VI):** Tổng thể những giá trị vật chất và tinh thần do con người sáng tạo nên từ khi xuất hiện trong lịch sử. Văn hoá định hình đặc tính và bản sắc riêng của một xã hội hoặc một nhóm người trong xã hội.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục I.1): Khái niệm nền tảng dùng để đối sánh về thời điểm ra đời và tầm vóc phát triển với khái niệm văn minh.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 1), tr. 33; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 1), tr. 34; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2), tr. 34
+- **Giải thích khác (SGK GDCD 7):** EN: The entirety of material and spiritual values created by humankind throughout history. / VI: Toàn bộ những giá trị vật chất và tinh thần do con người sáng tạo ra trong tiến trình lịch sử.
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 5 (Mục I.1): Khái niệm nền tảng dùng để đối sánh về thời điểm ra đời và tầm vóc phát triển với khái niệm văn minh.
+  - Giáo dục Kinh tế và Pháp luật lớp 7, Bài 5 (Mục 1): giải thích khái niệm văn hoá làm nền tảng cho nội dung truyền thống quê hương và di sản văn hoá.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 1), tr. 33; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 1), tr. 34; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2), tr. 34; SGK GDCD 7 KNTT, Bảng giải thích thuật ngữ, tr. 63; SGK GDCD 7 KNTT, B5, tr. 24; SGK GDCD 7 KNTT, B5 (Mục 1), tr. 24
 
 ### cuneiform
 - **Tiếng Việt:** Chữ hình nêm
@@ -1582,14 +1778,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 7; SGK Lịch sử 12 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 7, 8
 
 ### Declaration of ASEAN Concord
-- **Tiếng Việt:** Tuyên bố về sự Hoà hợp ASEAN (Tuyên bố Ba-li I)
+- **Tiếng Việt:** Tuyên bố về sự Hoà hợp ASEAN (Tuyên bố Ba-li I; Tuyên bố Ba-li)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A major document adopted by ASEAN in 1976 inaugurating the 1976–1999 development phase, aimed at building stable political relations and creating favorable conditions for economic growth and cooperation among member states.
 - **Giải thích (VI):** Văn kiện quan trọng được ASEAN thông qua năm 1976 mở đầu giai đoạn phát triển 1976 – 1999, nhằm xây dựng quan hệ chính trị ổn định và tạo điều kiện thúc đẩy phát triển, hợp tác kinh tế giữa các quốc gia thành viên.
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The February 1976 document on ASEAN concord establishing foundational principles for interstate relations: respect for sovereignty and territorial integrity, non-interference in internal affairs, non-use or threat of force, peaceful settlement of disputes, and effective economic, cultural, and social cooperation. It marked a new stage of development for ASEAN and paved the way for improved relations with Indochinese countries. / VI: Văn kiện về sự hoà hợp ASEAN được kí kết vào tháng 2 – 1976, xác định nguyên tắc cơ bản trong quan hệ giữa các nước là tôn trọng chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ, không sử dụng hoặc đe doạ bằng vũ lực, giải quyết tranh chấp bằng biện pháp hoà bình và hợp tác hiệu quả về kinh tế, văn hoá, xã hội. Văn kiện này đánh dấu bước khởi sắc của ASEAN và tạo điều kiện cải thiện quan hệ với các nước Đông Dương.
 - **Bối cảnh:**
   - Lịch sử lớp 12, Bài 4 (Mục 2.b): Văn kiện đánh dấu bước ngoặt phát triển và củng cố hợp tác nội khối của ASEAN năm 1976.
+  - Lịch sử và Địa lí lớp 9, Bài 12 (Mục 3.c): dấu mốc khởi sắc của ASEAN năm 1976 và nền tảng nguyên tắc quan hệ giữa các quốc gia Đông Nam Á.
   - *Lưu ý:* Phân biệt 'Tuyên bố Ba-li I' (1976) với 'Hiệp ước Ba-li / TAC' (hiệp ước thân thiện và hợp tác kí cùng năm 1976) và 'Thoả ước Ba-li II' (2003, xác lập ba trụ cột Cộng đồng ASEAN).
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 2.b), tr. 24
+  - *Lưu ý:* Refers to the Bali Concord I adopted at the First ASEAN Summit in Bali, Indonesia in February 1976.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 2.b), tr. 24; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 3.c), tr. 60
 
 ### Declaration of the Rights of Man and of the Citizen
 - **Tiếng Việt:** Tuyên ngôn Nhân quyền và Dân quyền
@@ -1597,7 +1796,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A historic document adopted by the French National Assembly on August 26, 1789, publicly proclaiming human and civil rights, famously affirming that people are born free and equal in rights and must always remain free and equal in rights.
 - **Giải thích (VI):** Văn kiện lịch sử được Quốc hội Pháp thông qua ngày 26 – 8 – 1789 công bố công khai về quyền con người và quyền công dân, khẳng định người ta sinh ra tự do và bình đẳng về quyền lợi và phải luôn luôn được tự do, bình đẳng về quyền lợi.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 1, 2): văn kiện tiêu biểu giai đoạn đầu Cách mạng tư sản Pháp và được Chủ tịch Hồ Chí Minh trích dẫn trong Tuyên ngôn Độc lập năm 1945.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 13; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2), tr. 14
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 13; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2), tr. 14; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 14
 
 ### Declaration on the Conduct of Parties in the South China Sea
 - **Tiếng Việt:** Tuyên bố về ứng xử của các bên ở Biển Đông (DOC; Tuyên bố về Cách ứng xử của các bên ở Biển Đông; Tuyên bố ứng xử của các bên ở Biển Đông)
@@ -1608,7 +1807,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 11, Bài 13 (Mục 3): Văn kiện hợp tác khu vực mà Việt Nam thúc đẩy và thực hiện đầy đủ nhằm giải quyết hoà bình các tranh chấp ở Biển Đông.
   - Lịch sử lớp 12, Bài 9 (Mục 2.c): Nêu văn kiện hợp tác giữa ASEAN và Trung Quốc nhằm duy trì hoà bình, ổn định và giải quyết hoà bình các tranh chấp trên Biển Đông.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 3), tr. 89; SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 3), tr. 89, 90; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.c), tr. 58
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 3), tr. 89; SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 3), tr. 89, 90; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.c), tr. 58; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 3), tr. 58
 
 ### decline
 - **Tiếng Việt:** Suy tàn
@@ -1617,6 +1816,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quá trình một chế độ xã hội, thể chế hoặc vương triều suy yếu, tàn lụi dần và đi đến chỗ sụp đổ.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 3 (Mục 3.c): Dùng để chỉ tình trạng khủng hoảng, lỗi thời của chế độ phong kiến Tây Âu trước các cuộc đấu tranh văn hoá – tư tưởng của giai cấp tư sản.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3.c), tr. 22
+
+### Defense of the Northern Border of Vietnam
+- **Tiếng Việt:** Cuộc chiến đấu bảo vệ biên giới phía Bắc
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Vietnam's national defense struggle to repel the February 17, 1979 attack by approximately 600,000 Chinese troops along the northern border from Mong Cai (Quang Ninh) to Phong Tho (Lai Chau). Fierce resistance by Vietnamese forces and civilians alongside strong public condemnation compelled China to announce a troop withdrawal on March 5, 1979, though northern border tensions persisted until the late 1980s, especially on the Vi Xuyen front (now in Tuyen Quang province).
+- **Giải thích (VI):** Cuộc chiến đấu bảo vệ Tổ quốc của quân dân Việt Nam đánh trả cuộc tấn công của khoảng 60 vạn quân Trung Quốc dọc tuyến biên giới phía Bắc từ huyện Móng Cái (tỉnh Quảng Ninh) đến huyện Phong Thổ (tỉnh Lai Châu) ngày 17 – 2 – 1979. Sự chiến đấu kiên cường của quân dân Việt Nam và sự phản đối mạnh mẽ của dư luận buộc Trung Quốc phải tuyên bố rút quân ngày 5 – 3 – 1979, song tình hình biên giới phía Bắc vẫn căng thẳng kéo dài tới cuối những năm 80 của thế kỉ XX, đặc biệt tại mặt trận Vị Xuyên (nay thuộc tỉnh Tuyên Quang).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 20 (Mục 2): Cuộc chiến đấu bảo vệ độc lập, chủ quyền và toàn vẹn lãnh thổ dọc biên giới phía Bắc từ năm 1979 đến cuối những năm 1980.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 2), tr. 103; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 2), tr. 103, 104
+
+### Defense of the Southwestern Border of Vietnam
+- **Tiếng Việt:** Cuộc đấu tranh bảo vệ biên giới Tây Nam
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Vietnam's legitimate self-defense struggle after 1975 against provocations, island seizures, civilian massacres in An Giang and Tay Ninh, and a 19-division invasion of Tay Ninh in December 1978 by the Pol Pot regime in Cambodia. Launching a general counteroffensive on December 23, 1978, Vietnamese forces swiftly defeated the invaders, safeguarded national sovereignty and territorial integrity, and created a major opportunity for the Cambodian revolution to triumph.
+- **Giải thích (VI):** Cuộc chiến đấu tự vệ chính đáng của quân dân Việt Nam sau năm 1975 chống lại các hoạt động khiêu khích, đánh chiếm đảo, tàn sát dân thường tại An Giang, Tây Ninh và cuộc tấn công quy mô 19 sư đoàn vào Tây Ninh tháng 12 – 1978 của chính quyền Pôn Pốt ở Cam-pu-chia. Mở màn tổng phản công từ ngày 23 – 12 – 1978, quân đội Việt Nam đã nhanh chóng đánh bại quân xâm lược, giữ vững chủ quyền, toàn vẹn lãnh thổ Tổ quốc và tạo thời cơ lớn cho cách mạng Cam-pu-chia giành thắng lợi.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 20 (Mục 2): Cuộc đấu tranh bảo vệ chủ quyền và toàn vẹn lãnh thổ Tổ quốc ở biên giới Tây Nam giai đoạn 1975 – 1979.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 2), tr. 102, 103; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 1), tr. 102; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 2), tr. 102
 
 ### Delhi Sultanate
 - **Tiếng Việt:** Vương triều Hồi giáo Đê-li (Vương triều Đê-li)
@@ -1631,8 +1846,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A political petition submitted to the Versailles Conference in 1919 by Nguyen Tat Thanh on behalf of patriotic Vietnamese in France after resuming his activities there in 1917. This document marked his signing under the name Nguyen Ai Quoc in the diplomatic struggle to demand rights for the Vietnamese nation in the international arena.
 - **Giải thích (VI):** Văn kiện chính trị do Nguyễn Tất Thành thay mặt những người Việt Nam yêu nước tại Pháp gửi tới Hội nghị Véc-xai năm 1919 sau khi trở lại hoạt động ở Pháp từ năm 1917. Bản yêu sách này ghi dấu sự kiện Người kí tên là Nguyễn Ái Quốc trong hoạt động đấu tranh đòi quyền lợi cho dân tộc Việt Nam trên trường quốc tế.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 15 (Mục 2): Hoạt động đấu tranh chính trị nổi bật của Nguyễn Ái Quốc tại Pháp trong giai đoạn 1911 – 1920.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B15 (Mục 2), tr. 92; SGK Lịch sử 12 KNTT, Chủ đề 06, B15 (Mục 2), tr. 92, 93
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A political petition submitted to the Versailles Conference in June 1919 by Nguyen Tat Thanh, signed under the name Nguyen Ai Quoc, on behalf of patriotic Vietnamese living in France. / VI: Văn kiện đấu tranh chính trị do Nguyễn Tất Thành (kí tên là Nguyễn Ái Quốc) thay mặt những người Việt Nam yêu nước tại Pháp gửi tới Hội nghị Véc-xai vào tháng 6 – 1919.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 15 (Mục 2): Hoạt động đấu tranh chính trị nổi bật của Nguyễn Ái Quốc tại Pháp trong giai đoạn 1911 – 1920.
+  - Lịch sử và Địa lí lớp 9, Bài 6 (Mục 1): Văn kiện đấu tranh chính trị tại Pháp năm 1919 gắn với lần đầu xuất hiện tên gọi Nguyễn Ái Quốc.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B15 (Mục 2), tr. 92; SGK Lịch sử 12 KNTT, Chủ đề 06, B15 (Mục 2), tr. 92, 93; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 1), tr. 27
 
 ### dependent country
 - **Tiếng Việt:** Phụ thuộc (nước phụ thuộc)
@@ -1642,7 +1860,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 4 (Mục 2): phản ánh tình trạng chính quyền phong kiến ở một số nước Đông Nam Á đầu hàng và lệ thuộc vào thực dân phương Tây.
   - *Lưu ý:* Phân biệt với thuộc địa (lãnh thổ bị thực dân xâm chiếm và trực tiếp thống trị hoàn toàn).
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 21; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 21; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172, 173
 
 ### derivative historical source
 - **Tiếng Việt:** Sử liệu phái sinh
@@ -1666,7 +1884,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The historical process in which Eastern European peoples rose up to establish people's democratic states under favorable conditions created by the Soviet Red Army's defeat of fascism and built socialism across two main stages. From 1945 to 1949, they completed people's democratic tasks (land reform, nationalizing capitalist enterprises, and democratic freedoms); from 1949 to the mid-1970s, with Soviet aid, they carried out industrialization, nationwide electrification, and agricultural development to become developed industrial-agricultural nations.
 - **Giải thích (VI):** Quá trình nhân dân các nước Đông Âu nổi dậy thành lập nhà nước dân chủ nhân dân nhờ điều kiện thuận lợi từ thắng lợi tiêu diệt phát xít của Hồng quân Liên Xô và phát triển chủ nghĩa xã hội qua hai giai đoạn. Giai đoạn 1945 – 1949 hoàn thành nhiệm vụ cách mạng dân chủ nhân dân (cải cách ruộng đất, quốc hữu hoá xí nghiệp tư bản, thực hiện quyền dân chủ); giai đoạn từ năm 1949 đến giữa những năm 70, với sự giúp đỡ của Liên Xô, các nước thực hiện công nghiệp hoá, điện khí hoá toàn quốc và phát triển nông nghiệp, trở thành những quốc gia công – nông nghiệp phát triển.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 4 (Mục 1.a): Sự ra đời các nhà nước dân chủ nhân dân và hai giai đoạn xây dựng chủ nghĩa xã hội ở Đông Âu sau Chiến tranh thế giới thứ hai.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 22, 23
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 22, 23; SGK Lịch sử 11 KNTT, Chủ đề 02, B4, tr. 22; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 22
 
 ### diachronic and synchronic methods
 - **Tiếng Việt:** Phương pháp lịch đại và đồng đại
@@ -1690,15 +1908,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A form of state power held completely by a single social class to ensure the thorough implementation of its political line and suppress opposition from hostile classes, exemplified by the Jacobin revolutionary-democratic dictatorship (1793–1794) during the French Revolution.
 - **Giải thích (VI):** Chính quyền do một giai cấp nắm giữ hoàn toàn nhằm bảo đảm thực hiện triệt để đường lối chính trị của giai cấp đó và trấn áp sự chống đối của giai cấp thù địch, tiêu biểu là nền chuyên chính dân chủ cách mạng Gia-cô-banh (1793 – 1794) trong Cách mạng tư sản Pháp.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 1): đỉnh cao của Cách mạng tư sản Pháp gắn với nền chuyên chính dân chủ cách mạng Gia-cô-banh (1793 – 1794).
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 13; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 13; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171, 172
 
 ### Dien Bien Phu Campaign
 - **Tiếng Việt:** Chiến dịch Điện Biên Phủ
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The decisive strategic offensive campaign fought by the Vietnamese armed forces and people over 56 days and nights (from March 13 to May 7, 1954) across three phases, crushing the Dien Bien Phu fortified entrenched camp and forcing General De Castries and his entire French command staff to surrender. This victory laid the decisive foundation for negotiating and signing the 1954 Geneva Accords to end the war and restore peace in Indochina.
 - **Giải thích (VI):** Chiến dịch tiến công quyết chiến chiến lược của quân dân Việt Nam diễn ra trong 56 ngày đêm (từ ngày 13 – 3 đến ngày 7 – 5 – 1954) qua ba đợt tác chiến, đập tan tập đoàn cứ điểm Điện Biên Phủ và buộc tướng Đờ Ca-xtơ-ri cùng toàn bộ Bộ Tham mưu Pháp đầu hàng. Thắng lợi này tạo cơ sở quyết định cho việc đàm phán và kí kết Hiệp định Giơ-ne-vơ năm 1954 về chấm dứt chiến tranh, lập lại hoà bình ở Đông Dương.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.d): Chiến dịch quyết chiến chiến lược kết thúc thắng lợi cuộc kháng chiến chống thực dân Pháp.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 42; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 42, 43
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The decisive strategic offensive campaign waged by the Vietnamese military and people against the Dien Bien Phu entrenched stronghold from March 13 to May 7, 1954 under Commander-in-Chief General Vo Nguyen Giap following the motto "strike surely, advance surely." Conducted across three phases of attacks culminating in the surrender of General De Castries and the entire French command staff on the afternoon of May 7, 1954, the campaign shattered the Navarre Plan, turned the tide of the Indochina War, and created decisive conditions for diplomatic victory. / VI: Chiến dịch tiến công chiến lược quyết định của quân dân Việt Nam đánh vào tập đoàn cứ điểm Điện Biên Phủ từ ngày 13 – 3 đến ngày 7 – 5 – 1954 dưới sự chỉ huy của Đại tướng Võ Nguyên Giáp theo phương châm “đánh chắc, tiến chắc”. Trải qua ba đợt tiến công buộc tướng Đờ Ca-xtơ-ri cùng toàn bộ Bộ Tham mưu Pháp đầu hàng chiều 7 – 5 – 1954, chiến dịch đã đập tan Kế hoạch Na-va, xoay chuyển cục diện chiến tranh Đông Dương và tạo điều kiện quyết định cho đấu tranh ngoại giao giành thắng lợi.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 7 (Mục 2.d): Chiến dịch quyết chiến chiến lược kết thúc thắng lợi cuộc kháng chiến chống thực dân Pháp.
+  - Lịch sử và Địa lí lớp 9, Bài 15 (Mục 2): đỉnh cao của cuộc Tiến công chiến lược Đông – Xuân 1953 – 1954, quyết định thắng lợi của cuộc kháng chiến chống Pháp.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 42; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 42, 43; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15, tr. 73; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15 (Mục 2), tr. 76; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15 (Mục 2), tr. 76, 77
+
+### Dien Bien Phu in the Air
+- **Tiếng Việt:** Trận “Điện Biên Phủ trên không” (“Điện Biên Phủ trên không”)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The decisive 12-day-and-night victory (December 18–29, 1972) in which Northern Vietnamese forces and people completely defeated the US strategic B-52 air blitz against Hanoi, Hai Phong, and other Northern cities. This triumph compelled the United States to return to the negotiating table and sign the 1973 Paris Peace Accords to end the war and restore peace in Vietnam.
+- **Giải thích (VI):** Chiến thắng oanh liệt của quân dân miền Bắc trong 12 ngày đêm (từ ngày 18 đến ngày 29 – 12 – 1972), đánh bại hoàn toàn cuộc tập kích chiến lược đường không bằng máy bay B52 của Mỹ vào Hà Nội, Hải Phòng và nhiều thành phố khác. Thắng lợi quyết định này buộc Mỹ phải trở lại bàn hội nghị và kí Hiệp định Pa-ri về chấm dứt chiến tranh, lập lại hoà bình ở Việt Nam năm 1973.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 17 (Mục 1.c): Chiến thắng chống chiến tranh phá hoại miền Bắc lần thứ hai cuối năm 1972, tạo bước ngoặt quyết định dẫn tới Hiệp định Pa-ri.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.c), tr. 88
 
 ### Dien Hong Conference
 - **Tiếng Việt:** Hội nghị Diên Hồng
@@ -1706,7 +1935,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A conference convened by the Tran king at Dien Hong Palace (Thang Long) to consult village elders from across the country on strategies against the second Yuan invasion. At the assembly, all elders unanimously shouted 'Fight!', symbolizing the national unity and determination of Dai Viet's people to resist foreign aggression.
 - **Giải thích (VI):** Hội nghị do vua Trần mở tại điện Diên Hồng (Thăng Long) để hỏi ý kiến các bô lão trong cả nước về kế sách đối phó với cuộc xâm lược lần thứ hai của quân Nguyên. Tại hội nghị, các bô lão đều đồng thanh hô vang 'Đánh!', biểu thị ý chí đoàn kết và quyết tâm chống giặc ngoại xâm của toàn dân Đại Việt.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 2): Biểu tượng cho tinh thần đoàn kết toàn dân quyết chiến bảo vệ Tổ quốc thời Trần.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 1), tr. 69; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69, 70
 
 ### Dien trang noble estate
 - **Tiếng Việt:** Điền trang
@@ -1717,6 +1946,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 3.a, 3.b): Hình thức sở hữu ruộng đất tư lớn do khai hoang của quý tộc họ Trần.
   - *Lưu ý:* Phân biệt với thái ấp là ruộng đất do nhà vua trực tiếp ban cấp làm bổng lộc cho quý tộc, vương hầu.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176
+
+### digital technology
+- **Tiếng Việt:** Công nghệ kĩ thuật số
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A modern technological domain achieving major breakthroughs in big data, cloud computing, artificial intelligence, and the Internet of Things, laying the foundation for smart robots, the digital economy, smart cities, and e-government. It also encompasses 3D printing technology applied in manufacturing for rapid, precise, diverse prototyping that reduces costs and minimizes waste.
+- **Giải thích (VI):** Lĩnh vực công nghệ đạt được các thành tựu quan trọng về dữ liệu lớn, điện toán đám mây, trí tuệ nhân tạo và kết nối vạn vật, đặt nền móng cho sự ra đời, phát triển của rô bốt thông minh, nền kinh tế số, thành phố thông minh và chính phủ điện tử. Lĩnh vực này còn bao gồm công nghệ in 3D được ứng dụng vào sản xuất nhờ ưu thế tạo mẫu nhanh chóng, chính xác, đa dạng, tiết kiệm chi phí và hạn chế rác thải.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 21 (Mục 1.a): Lĩnh vực thành tựu mũi nhọn của cuộc cách mạng khoa học – kĩ thuật trong kỉ nguyên số.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 112, 113; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 112
 
 ### Dinh Bo Linh's national reunification
 - **Tiếng Việt:** Đinh Bộ Lĩnh thống nhất đất nước (Vạn Thắng Vương)
@@ -1743,7 +1980,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 11, Bài 6 (Mục 1.a): Đỉnh cao của phong trào đấu tranh vũ trang chống thực dân Hà Lan tại In-đô-nê-xi-a trong nửa đầu thế kỉ XIX.
   - Lịch sử và Địa lí lớp 8, Bài 4 (Mục 3): cuộc khởi nghĩa tiêu biểu trong phong trào đấu tranh chống thực dân Hà Lan ở In-đô-nê-xi-a nửa đầu thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 38; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 3), tr. 22
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 38; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 38; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 38, 39; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 3), tr. 22; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 22
 
 ### district magistrate
 - **Tiếng Việt:** Huyện lệnh
@@ -1759,7 +1996,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A common governing policy of colonialism aimed at fomenting division among ethnic groups, localities, or social strata so as to facilitate domination.
 - **Giải thích (VI):** Chính sách cai trị thường dùng của chủ nghĩa thực dân nhằm gây chia rẽ giữa các dân tộc, địa phương hoặc tầng lớp xã hội để dễ bề thống trị.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 5 (Mục 1.b): Phương thức cai trị phổ biến của thực dân phương Tây nhằm làm suy yếu khối đoàn kết dân tộc của các nước Đông Nam Á (cũng nêu tại Bài 6, Mục 3.a).
-- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91; SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 33
+- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91; SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 33; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91, 92
 
 ### divide and rule policy
 - **Tiếng Việt:** Chính sách chia để trị
@@ -1767,7 +2004,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A colonial administrative strategy of partitioning a country or colony into separate regions governed under different regimes in order to create mutual divisions among indigenous inhabitants and facilitate colonial rule.
 - **Giải thích (VI):** Thủ đoạn cai trị của chính quyền thực dân bằng cách chia cắt một nước hoặc vùng thuộc địa thành các khu vực áp dụng nhiều hình thức cai trị khác nhau nhằm tạo mâu thuẫn, chia rẽ cư dân bản xứ để dễ bề thống trị.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 4 (Mục 2): thủ đoạn cai trị chính trị của thực dân phương Tây ở các nước Đông Nam Á.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 21
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 21; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 21, 22
 
 ### Doctoral Laureate Stelae
 - **Tiếng Việt:** Bia Tiến sĩ
@@ -1775,15 +2012,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Stone stelae erected by the Early Le Dynasty at the Temple of Literature–Imperial Academy (Thang Long) starting in 1484 to inscribe the names and honor the laureates of royal doctoral examinations. On the first stele commemorating the 1442 examination, scholar-official Than Nhan Trung composed the celebrated maxim: 'Virtuous and talented individuals are the vital essence of the nation'.
 - **Giải thích (VI):** Hệ thống bia đá do vương triều Lê sơ cho dựng tại Văn Miếu – Quốc Tử Giám (Thăng Long) từ năm 1484 nhằm khắc tên và tôn vinh những người thi đỗ Tiến sĩ trong các khoa thi tuyển chọn quan lại. Trên tấm bia đầu tiên ghi danh khoa Nhâm Tuất (1442), danh thần Thân Nhân Trung đã khắc câu nói bất hủ: 'Hiền tài là nguyên khí của quốc gia'.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 3): Di sản văn hoá – giáo dục thể hiện chính sách trọng dụng nhân tài của nhà Lê sơ.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 3), tr. 87
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 3), tr. 87; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.a), tr. 87
 
 ### Doctoral Stelae at the Temple of Literature
-- **Tiếng Việt:** Bia Tiến sĩ Văn Miếu
+- **Tiếng Việt:** Bia Tiến sĩ Văn Miếu (Bia tiến sĩ Văn Miếu – Quốc Tử Giám)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A collection of stone stelae inscribed with the names of doctoral laureates from Confucian civil service examinations at the Temple of Literature–Imperial Academy (Hanoi), initiated by Emperor Le Thanh Tong in 1484 with 82 stelae preserved today. They stand as both a monument honoring scholarly talent and a representative stone-carving achievement of Dai Viet civilization.
 - **Giải thích (VI):** Hệ thống bia đá ghi danh những người đỗ tiến sĩ trong các khoa thi Nho học tại Văn Miếu – Quốc Tử Giám (Hà Nội), bắt đầu được vua Lê Thánh Tông cho dựng từ năm 1484 và hiện còn bảo tồn 82 tấm bia. Đây vừa là di sản biểu dương hiền tài, khuyến khích giáo dục khoa cử vừa là thành tựu chạm khắc đá tiêu biểu của văn minh Đại Việt.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 12 (Mục 3.b và Mục 3.d): Nêu chính sách tôn vinh người đỗ đạt và di sản điêu khắc đá tiêu biểu của nền khoa cử Đại Việt.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.b), tr. 113; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.d), tr. 116; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.d), tr. 116, 117
+- **Giải thích khác (SGK GDCD 8):** EN: A precious cultural heritage ensemble of 82 stone stelae at the Temple of Literature – Imperial Academy, first erected in 1484 to honor and record the names of great scholars, symbolizing Vietnam's traditions of studiousness, respect for teachers, and high regard for intellectuals. / VI: Quần thể di sản văn hoá quý báu gồm 82 tấm bia đá tại Văn Miếu – Quốc Tử Giám bắt đầu dựng từ năm Giáp Thìn (1484) nhằm tôn vinh, lưu danh các nhà trí thức lớn, biểu trưng cho truyền thống hiếu học, tôn sư trọng đạo và đề cao trí thức của dân tộc Việt Nam.
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 12 (Mục 3.b và Mục 3.d): Nêu chính sách tôn vinh người đỗ đạt và di sản điêu khắc đá tiêu biểu của nền khoa cử Đại Việt.
+  - Giáo dục Kinh tế và Pháp luật lớp 8, Bài 1 (Mục 2): di sản văn hoá tiêu biểu khơi dậy niềm tự hào về truyền thống hiếu học và nỗ lực trau dồi đạo đức, tri thức.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.b), tr. 113; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.d), tr. 116; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.d), tr. 116, 117; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 116; SGK GDCD 8 KNTT, B1 (Mục 2), tr. 7, 8; SGK GDCD 8 KNTT, B1 (Mục 2), tr. 7
 
 ### Doi Moi guidelines from 2006 to the present
 - **Tiếng Việt:** Đường lối đổi mới giai đoạn từ năm 2006 đến nay
@@ -1799,7 +2039,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The initial comprehensive reform platform of the Communist Party of Vietnam taking economic renewal as its focus: abolishing the centralized bureaucratic subsidy mechanism, establishing a state-managed market mechanism, developing a socialist commodity economy, implementing the Three Major Economic Programs, and curbing inflation to bring Vietnam out of crisis. It linked economic reform with steady political and socio-cultural renewal, prioritized science, technology, and education as top national policies, and pursued the multilateralization and diversification of foreign relations.
 - **Giải thích (VI):** Chủ trương đổi mới toàn diện và đồng bộ giai đoạn khởi đầu của Đảng Cộng sản Việt Nam lấy đổi mới kinh tế làm trọng tâm: xoá bỏ cơ chế tập trung quan liêu, bao cấp, hình thành cơ chế thị trường có sự quản lí của Nhà nước, phát triển kinh tế hàng hoá xã hội chủ nghĩa, thực hiện Ba chương trình kinh tế lớn và kiềm chế lạm phát để đưa đất nước ra khỏi khủng hoảng. Đường lối này gắn đổi mới kinh tế với đổi mới chính trị tích cực, vững chắc và văn hoá – xã hội, coi khoa học – công nghệ cùng giáo dục – đào tạo là quốc sách hàng đầu, đồng thời thực hiện đa phương hoá, đa dạng hoá quan hệ đối ngoại.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 10 (Mục 1): Hệ thống hoá nội dung cơ bản của đường lối Đổi mới trong giai đoạn khởi đầu 1986 – 1995.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 1), tr. 62
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 1), tr. 62; SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 2), tr. 62, 63
 
 ### Doi Moi guidelines in the 1996–2006 period
 - **Tiếng Việt:** Đường lối đổi mới giai đoạn 1996 – 2006
@@ -1807,7 +2047,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The reform platform inaugurated at the Eighth National Congress (1996) ushering Vietnam into the period of accelerating industrialization and modernization, developing a socialist-oriented market economy, investing in major infrastructure, and building an open economy. It simultaneously reformed the socialist rule-of-law state, prioritized education, training, and science and technology, built an advanced culture imbued with national identity, expanded job creation and poverty reduction, strengthened defense and security, and centered foreign policy on regional and international economic integration.
 - **Giải thích (VI):** Chủ trương phát triển từ Đại hội VIII (1996) đưa Việt Nam chuyển sang thời kì đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước, tiếp tục phát triển kinh tế thị trường định hướng xã hội chủ nghĩa, tăng cường đầu tư kết cấu hạ tầng và xây dựng nền kinh tế mở. Đường lối này đồng thời đẩy mạnh cải cách Nhà nước pháp quyền xã hội chủ nghĩa, coi giáo dục – đào tạo và khoa học – công nghệ là quốc sách hàng đầu, xây dựng nền văn hoá tiên tiến đậm đà bản sắc dân tộc, tạo việc làm, xoá đói giảm nghèo, củng cố an ninh – quốc phòng và đặt trọng tâm đối ngoại vào hội nhập kinh tế quốc tế và khu vực.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 10 (Mục 2): Trình bày nội dung đường lối Đổi mới giai đoạn đẩy mạnh công nghiệp hoá, hiện đại hoá và hội nhập kinh tế quốc tế (1996 – 2006).
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 2), tr. 63
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 2), tr. 63; SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 1), tr. 62; SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 2), tr. 62, 63
 
 ### Doi Moi Renovation in Vietnam
 - **Tiếng Việt:** Công cuộc Đổi mới ở Việt Nam
@@ -1817,6 +2057,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 10 (Mục 1): Nêu nguyên nhân khách quan, chủ quan và dấu mốc khởi đầu đường lối Đổi mới toàn diện đất nước từ năm 1986.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B10, tr. 61; SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 1), tr. 61, 62
 
+### Doi Moi Renovation policy
+- **Tiếng Việt:** Đường lối Đổi mới
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The comprehensive reform policy initiated by the Communist Party of Vietnam in 1986: economically, abolishing centralized bureaucratic state subsidies to build a multi-sector commodity economy operating under a state-managed market mechanism while promoting industrialization, modernization, foreign investment, and international economic integration. Politically, it focuses on building a socialist rule-of-law state of the people, by the people, and for the people under Party leadership, expanding foreign relations, and pursuing comprehensive, deep international integration.
+- **Giải thích (VI):** Chủ trương cải cách toàn diện do Đảng Cộng sản Việt Nam đề ra từ năm 1986: về kinh tế, xoá bỏ mô hình quản lí tập trung quan liêu bao cấp để xây dựng nền kinh tế hàng hoá nhiều thành phần vận động theo cơ chế thị trường có sự quản lí của Nhà nước, đẩy mạnh công nghiệp hoá – hiện đại hoá, thu hút đầu tư nước ngoài và hội nhập kinh tế quốc tế. Về chính trị, đường lối tập trung xây dựng Nhà nước pháp quyền xã hội chủ nghĩa của dân, do dân và vì dân do Đảng lãnh đạo, mở rộng quan hệ đối ngoại và hội nhập quốc tế toàn diện, sâu rộng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 20 (Mục 4.b): Nội dung cốt lõi về kinh tế và chính trị của công cuộc Đổi mới ở Việt Nam từ năm 1986 đến nay.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 4.b), tr. 106; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 4.a), tr. 106; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 4.c), tr. 106
+
 ### domination policies of Northern feudal dynasties
 - **Tiếng Việt:** Chính sách cai trị của các triều đại phong kiến phương Bắc
 - **Chuyên ngành gốc:** Lịch sử
@@ -1824,6 +2072,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hệ thống biện pháp thống trị do các triều đại phong kiến phương Bắc áp đặt từ năm 179 TCN thông qua việc sáp nhập Âu Lạc vào lãnh thổ Trung Quốc, chia đặt châu – quận, huyện do người Hán nắm giữ từ cấp huyện trở lên, xây thành luỹ và dùng luật pháp hà khắc để đàn áp đấu tranh. Về kinh tế, chính quyền đô hộ chiếm ruộng đất lập ấp, trại, đánh tô thuế nặng nề, độc quyền sắt và muối, đồng thời bắt người Việt cống nạp vải vóc, hương liệu cùng nhiều sản vật quý.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 15 (Mục 1.a, 1.b): Khái quát bộ máy hành chính cai trị và chính sách bóc lột kinh tế thời Bắc thuộc.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B15, tr. 65; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1.a), tr. 65; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1.a), tr. 65, 66
+
+### Don ca tai tu music and song of Southern Vietnam
+- **Tiếng Việt:** Đờn ca tài tử Nam Bộ
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A distinctive folk art of instrumental music and singing practiced by inhabitants of the Mekong (Cuu Long) Delta in Southern Vietnam, inscribed by UNESCO as Intangible Cultural Heritage of Humanity.
+- **Giải thích (VI):** Loại hình nghệ thuật trình diễn âm nhạc và ca hát dân gian đặc sắc của cư dân vùng châu thổ sông Cửu Long, đã được tổ chức UNESCO ghi danh là Di sản văn hoá phi vật thể của thế giới.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 2 (Mục 1.b): Nhận diện di sản văn hoá phi vật thể tiêu biểu của vùng đất Nam Bộ được UNESCO vinh danh.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1.b), tr. 226; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1.a), tr. 226; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.a), tr. 226
 
 ### Dong Da Mound Monument
 - **Tiếng Việt:** Di tích Gò Đống Đa
@@ -1842,7 +2098,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 12, Bài 12 (Mở đầu): Giới thiệu hoạt động đối ngoại tiêu biểu của các nhân sĩ yêu nước Việt Nam đầu thế kỉ XX.
   - Lịch sử và Địa lí lớp 8, Bài 19 (Mục 2.a): Hoạt động tiêu biểu của Hội Duy tân trong những năm 1905 – 1909 theo chủ trương xuất dương cầu ngoại viện và đào tạo nhân tài.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B12, tr. 73; SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 1), tr. 74; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 2.a), tr. 88
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B12, tr. 73; SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 1), tr. 74; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 2.a), tr. 88; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 1), tr. 88; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 2), tr. 88
 
 ### Dong Duong Buddha statue
 - **Tiếng Việt:** Tượng Phật Đồng Dương
@@ -1850,7 +2106,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A bronze statue of the Buddha standing 119 cm tall and weighing 120 kg, discovered at the Dong Duong site (Thang Binh District, Quang Nam Province). It is the largest bronze Buddha statue found to date and a unique, representative masterpiece of Champa Buddhist sculpture.
 - **Giải thích (VI):** Pho tượng Phật bằng đồng cao 119 cm, nặng 120 kg phát hiện tại di tích Đồng Dương (huyện Thăng Bình, tỉnh Quảng Nam). Đây là pho tượng Phật bằng đồng lớn nhất từng tìm thấy và là kiệt tác độc đáo, tiêu biểu của nghệ thuật điêu khắc Phật giáo Chăm-pa.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 11 (Mục 2.b): Giới thiệu kiệt tác điêu khắc Phật giáo bằng đồng tiêu biểu của văn minh Chăm-pa.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.b), tr. 103
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.b), tr. 103; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 3.a), tr. 103; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 3.a), tr. 103, 104
 
 ### Dong Ho folk painting
 - **Tiếng Việt:** Tranh Đông Hồ
@@ -1865,8 +2121,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A wave of simultaneous popular uprisings across South Vietnam (1959–1960) sparked by the 15th Party Central Committee Resolution, beginning in Vinh Thanh, Bac Ai, and Tra Bong before spreading across the South and culminating in Ben Tre (January 1960). Its victory shook the Ngo Dinh Diem regime and marked a decisive leap that shifted the southern revolution from preserving forces to an offensive posture.
 - **Giải thích (VI):** Cao trào nổi dậy đồng loạt của nhân dân miền Nam Việt Nam (1959 – 1960) bùng nổ từ chủ trương của Hội nghị Trung ương lần thứ 15 của Đảng, bắt đầu ở Vĩnh Thạnh, Bác Ái, Trà Bồng rồi lan khắp miền Nam, tiêu biểu là ở Bến Tre (tháng 1 – 1960). Thắng lợi này làm lung lay chính quyền Ngô Đình Diệm và đánh dấu bước phát triển nhảy vọt đưa cách mạng miền Nam chuyển từ thế giữ gìn lực lượng sang thế tiến công.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.a): Bối cảnh, diễn biến và ý nghĩa bước ngoặt của phong trào Đồng khởi ở miền Nam Việt Nam.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 1), tr. 46; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 46; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 46, 47
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A widespread wave of popular uprisings across Southern Vietnam in 1959–1960 guided by Central Committee Resolution 15 (early 1959), epitomized by the simultaneous uprising beginning on January 17, 1960 in Mo Cay District, Ben Tre Province before spreading across Nam Bo, the Central Highlands, and South Central Vietnam. It dealt a heavy blow to US neocolonialism, shook the Ngo Dinh Diem regime to its roots, and marked a leap forward shifting the Southern revolution from preserving forces to an offensive posture. / VI: Cao trào nổi dậy của quần chúng nhân dân miền Nam năm 1959 – 1960 dưới ánh sáng Nghị quyết Trung ương 15 (đầu năm 1959), tiêu biểu là cuộc nổi dậy đồng loạt ngày 17 – 1 – 1960 tại huyện Mỏ Cày (tỉnh Bến Tre) rồi lan rộng khắp Nam Bộ, Tây Nguyên và một số nơi ở miền Trung Trung Bộ. Phong trào giáng đòn mạnh mẽ vào chính sách thực dân mới của Mỹ, làm lung lay tận gốc chính quyền Ngô Đình Diệm và đánh dấu bước nhảy vọt của cách mạng miền Nam từ thế giữ gìn lực lượng sang thế tiến công.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.a): Bối cảnh, diễn biến và ý nghĩa bước ngoặt của phong trào Đồng khởi ở miền Nam Việt Nam.
+  - Lịch sử và Địa lí lớp 9, Bài 16 (Mục 2.a): cao trào nổi dậy tạo bước ngoặt của cách mạng miền Nam từ thế giữ gìn lực lượng sang thế tiến công (1959 – 1960).
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 1), tr. 46; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 46; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 46, 47; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 2.a), tr. 83; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 2.b), tr. 83, 84
 
 ### Dong Quan Oath
 - **Tiếng Việt:** Hội thề Đông Quan
@@ -1912,7 +2171,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A representative geographical treatise of Dai Viet civilization compiled by Nguyen Trai, reflecting scholarly achievements in surveying and recording national territory and administrative geography during the monarchical era.
 - **Giải thích (VI):** Công trình địa lí học tiêu biểu của văn minh Đại Việt do Nguyễn Trãi biên soạn, phản ánh thành tựu khảo cứu và ghi chép về cương vực, lãnh thổ đất nước thời quân chủ.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 12 (Mục 3.h): Nêu thành tựu tiêu biểu về lĩnh vực địa lí học của văn minh Đại Việt.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120, 121
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 120, 121; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.g), tr. 120
 
 ### dual power
 - **Tiếng Việt:** Hai chính quyền song song tồn tại (tình trạng hai chính quyền song song tồn tại)
@@ -1920,7 +2179,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The distinctive political situation in Russia following the February Revolution of 1917, in which the bourgeois Provisional Government and the Soviets of Workers' and Soldiers' Deputies coexisted simultaneously. Representing classes with opposing interests, these two authorities could not coexist indefinitely.
 - **Giải thích (VI):** Cục diện chính trị đặc thù tại nước Nga sau thắng lợi của Cách mạng tháng Hai năm 1917, khi Chính phủ tư sản lâm thời và các Xô viết đại biểu công nhân, binh lính cùng nắm giữ quyền lực. Vì đại diện cho những giai cấp có lợi ích đối lập nhau nên hai chính quyền này không thể cùng tồn tại lâu dài.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 12 (Mục 2.a): Bối cảnh chính trị nước Nga từ sau Cách mạng tháng Hai đến tháng 7/1917 trước Cách mạng tháng Mười.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171, 172
 
 ### Duc Thanh School
 - **Tiếng Việt:** Trường Dục Thanh
@@ -1952,7 +2211,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An anti-French patriotic organization founded in 1904 by Phan Boi Chau and like-minded scholars with the goal of struggling to establish an independent Vietnam. Following its formation, the organization launched the Dong Du Movement to send patriotic Vietnamese youth to study in Japan.
 - **Giải thích (VI):** Tổ chức yêu nước chống Pháp do Phan Bội Châu cùng các sĩ phu cùng chí hướng thành lập năm 1904 với mục đích đấu tranh giành độc lập để thiết lập một nước Việt Nam độc lập. Sau khi ra đời, tổ chức này đã phát động phong trào Đông du đưa thanh niên yêu nước Việt Nam sang Nhật Bản học tập.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 19 (Mục 2.a): Tổ chức yêu nước theo khuynh hướng mới đầu tiên ở Việt Nam đầu thế kỉ XX gắn với hoạt động của Phan Bội Châu.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 2.a), tr. 88
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 2.a), tr. 88; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 1), tr. 88; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 2), tr. 88
 
 ### Duy Tan Reform Movement
 - **Tiếng Việt:** Phong trào Duy tân (cuộc vận động Duy tân)
@@ -1960,7 +2219,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A bourgeois-democratic socio-economic and cultural reform campaign initiated in Annam in 1906 by Phan Chau Trinh and progressive scholars, advocating "enlightening the people's intellect, uplifting their spirit, and improving their livelihood" by promoting commerce and industry, opening modern schools, and abolishing outdated customs. The campaign sparked the 1908 anti-tax movement in Annam and dissolved following harsh French suppression and arrests of patriotic leaders.
 - **Giải thích (VI):** Cuộc vận động cải cách kinh tế, văn hoá, xã hội theo khuynh hướng dân chủ tư sản do Phan Châu Trinh cùng các sĩ phu tiến bộ khởi xướng ở Trung Kì từ năm 1906, chủ trương “khai dân trí, chấn dân khí, hậu dân sinh” thông qua mở mang công thương nghiệp, lập trường học kiểu mới và xoá bỏ hủ tục. Cuộc vận động đã châm ngòi cho phong trào chống sưu thuế Trung Kì năm 1908 và tan rã khi bị thực dân Pháp đàn áp, bắt bớ các nhà yêu nước.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 19 (Mục 2.b): Cuộc vận động cứu nước theo xu hướng cải cách ở Trung Kì những năm 1906 – 1908, phân biệt với xu hướng bạo động của Phan Bội Châu.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 2.b), tr. 89
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 2.b), tr. 89; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 3), tr. 89; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 3), tr. 89, 90
 
 ### Dyke Commissioner
 - **Tiếng Việt:** Hà đê sứ
@@ -2008,7 +2267,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A Vietnamese monarchical dynasty reigning from 1428 to 1527, founded by Le Loi after the victory of the Lam Son Uprising upon restoring the national name Dai Viet and establishing the capital at Thang Long. The dynasty perfected a centralized monarchical state under Emperor Le Thanh Tong, resolutely defended border sovereignty, and expanded national territory southward to present-day Phu Yen in 1471.
 - **Giải thích (VI):** Triều đại quân chủ Việt Nam tồn tại từ năm 1428 đến năm 1527, do Lê Lợi sáng lập sau thắng lợi của khởi nghĩa Lam Sơn với việc khôi phục quốc hiệu Đại Việt và đóng đô ở Thăng Long. Vương triều này xây dựng nhà nước quân chủ tập quyền hoàn chỉnh dưới thời vua Lê Thánh Tông, kiên quyết bảo vệ chủ quyền biên cương và mở rộng lãnh thổ về phía nam đến vùng Phú Yên ngày nay vào năm 1471.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 1): Sự thành lập, hoàn thiện nhà nước tập quyền và bảo vệ lãnh thổ của Đại Việt thế kỉ XV – đầu thế kỉ XVI.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17, tr. 83; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 83, 84
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17, tr. 83; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 83, 84; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 83
 
 ### Early Le Dynasty government
 - **Tiếng Việt:** Chính quyền thời Tiền Lê (nhà Tiền Lê)
@@ -2032,7 +2291,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An international solidarity organization co-founded by Phan Boi Chau in 1908 uniting activists from Japan, China, Korea, India, Vietnam, and other Asian lands to join forces against imperialism.
 - **Giải thích (VI):** Tổ chức có mục tiêu đoàn kết quốc tế do Phan Bội Châu tham gia thành lập năm 1908, quy tụ một số nhà hoạt động của Nhật Bản, Trung Quốc, Triều Tiên, Ấn Độ, Việt Nam,... để hợp sức chống đế quốc.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 12 (Mục 1): Trình bày hoạt động liên kết các dân tộc châu Á của Phan Bội Châu năm 1908.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 1), tr. 74
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 1), tr. 74; SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.a), tr. 74; SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.a), tr. 74, 75
 
 ### East-West détente
 - **Tiếng Việt:** Xu hướng hoà hoãn Đông – Tây (Xu hướng hoà hoãn)
@@ -2048,7 +2307,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The body of economic outcomes achieved by Vietnam since 1986 that brought the country out of socio-economic crisis and transformed its centralized subsidy system into a socialist market economy with relatively high and sustainable GDP growth (over 6% annually, reaching 8.02% in 2022). Sectoral structure has shifted strongly toward industrialization and modernization with higher shares of industry and services, economic ownership forms have diversified, infrastructure has modernized, and import-export markets and foreign investment inflows have expanded rapidly.
 - **Giải thích (VI):** Hệ thống kết quả phát triển kinh tế từ năm 1986 đến nay đưa Việt Nam thoát khỏi khủng hoảng kinh tế – xã hội và chuyển đổi từ cơ chế tập trung, bao cấp sang mô hình kinh tế thị trường xã hội chủ nghĩa với tốc độ tăng trưởng GDP khá cao, bền vững (trên 6%/năm, năm 2022 tăng 8,02%). Cơ cấu kinh tế theo ngành chuyển dịch mạnh theo hướng công nghiệp hoá, hiện đại hoá với tỉ trọng công nghiệp và dịch vụ ngày càng cao, thành phần kinh tế đa dạng hoá, cơ sở hạ tầng ngày càng hiện đại, đồng thời thị trường xuất nhập khẩu và vốn đầu tư nước ngoài mở rộng nhanh chóng.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 11 (Mục 1.a): Tổng hợp các thành tựu cơ bản trên lĩnh vực kinh tế của Việt Nam từ năm 1986 đến nay.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.a), tr. 65, 66; SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.a), tr. 67
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.a), tr. 65, 66; SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.a), tr. 67; SGK Lịch sử 12 KNTT, Chủ đề 04, B11, tr. 65; SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.a), tr. 65
 
 ### economy-centered development trend
 - **Tiếng Việt:** Xu thế phát triển lấy kinh tế là trọng tâm
@@ -2073,6 +2332,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quỹ tài trợ quốc tế về giáo dục do Liên hợp quốc xây dựng nhằm hỗ trợ trẻ em tại các khu vực chiến sự và khó khăn trên thế giới được tiếp cận giáo dục, tiêu biểu đã hỗ trợ khoảng 222 triệu trẻ em trong năm 2021.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 1 (Mục 2.c): Minh hoạ vai trò xây dựng các quỹ tài trợ quốc tế nhằm phát triển văn hoá, giáo dục, xã hội của Liên hợp quốc.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 01, B1 (Mục 2.c), tr. 12
+
+### Eighth Plenum of the Central Committee of the Indochinese Communist Party
+- **Tiếng Việt:** Hội nghị Ban Chấp hành Trung ương Đảng Cộng sản Đông Dương lần thứ tám
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A historic plenum convened in May 1941 at Pac Bo (Cao Bang) under the direct chairmanship of leader Nguyen Ai Quoc, completing the Party's strategic reorientation initiated in November 1939 by placing national liberation first. It resolved to settle the national question within each Indochinese country, designated preparations for armed insurrection as the central task—progressing from partial uprisings to a general uprising—and forecast the opportune moment to seize power.
+- **Giải thích (VI):** Hội nghị triệu tập vào tháng 5 – 1941 tại Pác Bó (Cao Bằng) do lãnh tụ Nguyễn Ái Quốc trực tiếp chủ trì, hoàn chỉnh chuyển hướng chiến lược cách mạng đề ra từ tháng 11 – 1939 và đưa nhiệm vụ giải phóng dân tộc lên hàng đầu. Hội nghị quyết định giải quyết vấn đề dân tộc trong phạm vi từng nước Đông Dương, xác định chuẩn bị khởi nghĩa vũ trang là nhiệm vụ trung tâm đi từ khởi nghĩa từng phần tiến lên tổng khởi nghĩa và dự báo thời cơ giành chính quyền.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 8 (Mục 2.a): Hội nghị lịch sử tại Pác Bó (Cao Bằng) hoàn chỉnh chủ trương chuyển hướng chiến lược giải phóng dân tộc tiến tới Cách mạng tháng Tám năm 1945.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 1), tr. 35; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 2.a), tr. 35
 
 ### Eighth Plenum of the Indochinese Communist Party Central Committee
 - **Tiếng Việt:** Hội nghị Trung ương Đảng lần thứ 8 (Hội nghị lần thứ 8 Ban Chấp hành Trung ương Đảng Cộng sản Đông Dương)
@@ -2107,7 +2374,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An enlightened Early Le emperor and major cultural figure who brought Dai Viet's centralized monarchical state to institutional maturity with 13 circuit-provinces and a resolute territorial defense policy. During his reign, civil service education flourished with nearly 500 doctoral laureates trained, while he personally founded the Tao Dan Literary Society and left over 300 Chinese poems alongside the Nom collection 'Hong Duc Collected Poems in the National Language'.
 - **Giải thích (VI):** Vị hoàng đế anh minh thời Lê sơ và nhà văn hoá lớn của dân tộc, người đưa bộ máy nhà nước quân chủ tập quyền Đại Việt đạt tới mức hoàn chỉnh với 13 đạo thừa tuyên và chính sách bảo vệ lãnh thổ kiên quyết. Dưới triều đại của ông, khoa cử nở rộ với khoảng 500 tiến sĩ được đào tạo, đồng thời ông sáng lập Hội Tao đàn và để lại hơn 300 bài thơ chữ Hán cùng tập 'Hồng Đức quốc âm thi tập' bằng chữ Nôm.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 1, 4.b): Vị hoàng đế đưa quốc gia Đại Việt thời Lê sơ phát triển cực thịnh về chính trị, kinh tế và văn hoá.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 83, 84, 85; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.b), tr. 88
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 83, 84, 85; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.b), tr. 88; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 83; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 84; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 85
 
 ### empire
 - **Tiếng Việt:** Đế chế
@@ -2123,7 +2390,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A military strategy implemented by the Tran Dynasty during all three resistance wars against the Mongol-Yuan invasions (1258, 1285, 1288), proactively withdrawing forces from the capital Thang Long to preserve the main army. This tactic left the invaders holding an empty citadel, gradually exhausting their provisions and weakening their forces.
 - **Giải thích (VI):** Kế sách quân sự được nhà Trần thi hành trong cả ba lần kháng chiến chống quân xâm lược Mông – Nguyên (1258, 1285, 1288), chủ động rút lực lượng khỏi kinh thành Thăng Long để bảo toàn quân chủ lực. Kế sách này khiến quân giặc dù chiếm được Thăng Long nhưng chỉ tiếp quản một toà thành trống rỗng, dần lâm vào cảnh thiếu lương thực và suy yếu.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 1, 2, 3): Kế sách nghệ thuật quân sự làm suy yếu quân xâm lược Mông – Nguyên của vương triều Trần.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 1), tr. 69; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69, 70; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 3), tr. 72
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 1), tr. 69; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69, 70; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 3), tr. 72; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69
 
 ### enclosure movement
 - **Tiếng Việt:** Rào đất cướp ruộng (Cừu ăn thịt người; phong trào “rào đất cướp ruộng”)
@@ -2136,6 +2403,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2.a): Cách gọi hình ảnh của Tô-mát Mo-rơ phản ánh quá trình tích luỹ vốn và tập trung nhân công làm thuê của chủ nghĩa tư bản ở Tây Âu.
   - *Lưu ý:* Thuật ngữ tiếng Việt bắt nguồn từ câu nói nổi tiếng của Thomas More ('sheep eat men') nhằm phê phán phong trào rào đất cướp ruộng (enclosure movement) ở nước Anh.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.a), tr. 59; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.a), tr. 16
+
+### energy technology
+- **Tiếng Việt:** Công nghệ năng lượng
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A scientific and engineering field focused on discovering and applying diverse new energy sources such as nuclear, wind, solar, bioenergy, and thermonuclear fusion energy.
+- **Giải thích (VI):** Lĩnh vực khoa học – kĩ thuật khám phá và đưa vào ứng dụng các nguồn năng lượng mới, đa dạng như năng lượng nguyên tử, gió, mặt trời, sinh học và nhiệt hạch.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 21 (Mục 1.a): Lĩnh vực thành tựu tiêu biểu đáp ứng nhu cầu năng lượng mới trong cuộc cách mạng khoa học – kĩ thuật hiện đại.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 112; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 112, 113
+
+### Engagement and Enlargement strategy
+- **Tiếng Việt:** Chiến lược “Cam kết và mở rộng”
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A US foreign policy strategy under President Bill Clinton during the 1990s aimed at leveraging America's sole-superpower status after the Cold War to promote a unipolar world order. It focused on ensuring US security through strong military forces, revitalizing and expanding economic power, and advancing the slogan of “democracy” to intervene in the internal affairs of other countries.
+- **Giải thích (VI):** Chiến lược đối ngoại của Mỹ dưới thời Tổng thống B. Clin-tơn trong thập niên 1990 nhằm tận dụng vị thế siêu cường duy nhất sau Chiến tranh lạnh để thúc đẩy thiết lập trật tự thế giới đơn cực. Chiến lược tập trung đảm bảo an ninh của Mỹ bằng lực lượng quân sự mạnh, khôi phục và phát triển sức mạnh kinh tế, đồng thời thúc đẩy khẩu hiệu “dân chủ” để can thiệp vào công việc nội bộ của các nước khác.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 18 (Mục 3): Chiến lược toàn cầu của Mỹ trong thập niên 1990 sau khi Liên Xô tan rã.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 3), tr. 95; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 2), tr. 95
 
 ### English Revolution
 - **Tiếng Việt:** Cách mạng tư sản Anh
@@ -2154,7 +2437,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 11, Bài 1 (Mục 1.d): Tiền đề tư tưởng trực tiếp tập hợp quần chúng và chuẩn bị cho Cách mạng tư sản Pháp cuối thế kỉ XVIII.
   - Lịch sử và Địa lí lớp 8, Bài 2 (Mục 1): tiền đề tư tưởng mở đường cho sự bùng nổ của Cách mạng tư sản Pháp cuối thế kỉ XVIII.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 01, B1 (Mục 1.d), tr. 9; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 13; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 01, B1 (Mục 1.d), tr. 9; SGK Lịch sử 11 KNTT, Chủ đề 01, B1 (Mục 2.a), tr. 9; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 13; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172, 173
 
 ### ensi
 - **Tiếng Việt:** En-xi
@@ -2170,7 +2453,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A core agrarian policy of the Early Le Dynasty mandating the periodic equitable allocation of communal village land among local residents for cultivation and tax payment to the state. This policy helped secure means of production for peasants and spurred rapid agricultural recovery and growth.
 - **Giải thích (VI):** Chính sách ruộng đất trọng tâm của nhà Lê sơ quy định việc định kì đem ruộng đất công của làng xã chia đều cho các thành viên trong xã cày cấy và nộp thuế cho nhà nước. Chính sách này góp phần bảo đảm tư liệu sản xuất cho nông dân, thúc đẩy nông nghiệp phục hồi và phát triển nhanh chóng.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 2.a): Chính sách phân chia ruộng đất công làng xã nhằm khuyến khích nông nghiệp thời Lê sơ.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 2.a), tr. 85, 86
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 2.a), tr. 85, 86; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 85; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 2.a), tr. 85
 
 ### equal-field land distribution system
 - **Tiếng Việt:** Chế độ quân điền
@@ -2197,7 +2480,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 12 (Mục 3.h): Giới thiệu thành tựu tiêu biểu về lí luận quân sự của văn minh Đại Việt thời Trần.
   - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 4.c): Bộ sách lí luận quân sự tiêu biểu của Trần Quốc Tuấn thời Trần.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 121; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.a), tr. 66; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.b), tr. 66; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.c), tr. 66
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.h), tr. 121; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 4.a), tr. 121; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 4.b), tr. 121; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.a), tr. 66; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.b), tr. 66; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 4.c), tr. 66
 
 ### establishment of Soviet power
 - **Tiếng Việt:** Thành lập Chính quyền Xô viết
@@ -2205,7 +2488,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The historical event in which the Second All-Russian Congress of Soviets, opening on the night of October 25, 1917 (November 7, 1917, New Style) at the Smolny Institute, proclaimed the establishment of Soviet power headed by Lenin to dismantle the old state apparatus and build a new state of working people.
 - **Giải thích (VI):** Sự kiện Đại hội Xô viết toàn Nga lần thứ hai khai mạc đêm 25 – 10 – 1917 (ngày 7 – 11 – 1917 theo lịch mới) tại Điện Xmô-nưi tuyên bố thiết lập Chính quyền Xô viết do Lê-nin đứng đầu, thực hiện nhiệm vụ hàng đầu là đập tan bộ máy nhà nước cũ và xây dựng nhà nước mới của những người lao động.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 3 (Mục 1): Sự kiện mở đầu quá trình xây dựng nhà nước vô sản xã hội chủ nghĩa ngay sau thắng lợi của Cách mạng tháng Mười Nga.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B3 (Mục 1), tr. 19
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B3 (Mục 1), tr. 19; SGK Lịch sử 11 KNTT, Chủ đề 02, B3, tr. 19; SGK Lịch sử 11 KNTT, Chủ đề 02, B3 (Mục 1), tr. 19, 20
 
 ### establishment of the Tran Dynasty
 - **Tiếng Việt:** Sự thành lập nhà Trần (nhà Trần)
@@ -2231,14 +2514,6 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 11, Bài 13 (Mục 2.a): Quá trình Việt Nam xác lập và thực thi chủ quyền biển đảo thời kì quân chủ trước năm 1884.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 2.a), tr. 83; SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 2.a), tr. 83, 84; SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 2.a), tr. 85
 
-### ethnic minority
-- **Tiếng Việt:** Dân tộc thiểu số
-- **Chuyên ngành gốc:** Lịch sử
-- **Giải thích (EN):** Ethnic groups with a smaller population than the majority ethnic group within the territory of the Socialist Republic of Vietnam (under Decree No. 05/2011/ND-CP on Ethnic Affairs). Within Vietnam's community of 54 ethnic groups, there are 53 ethnic minorities, accounting for 14.68% of the total national population.
-- **Giải thích (VI):** Những dân tộc có số dân ít hơn so với dân tộc đa số trên phạm vi lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam (theo Nghị định số 05/2011/NĐ-CP về Công tác dân tộc). Trong cộng đồng 54 dân tộc Việt Nam có 53 dân tộc thiểu số, chiếm 14,68% tổng dân số cả nước.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 13 (Mục 1a): Tiêu chí xác định 53 dân tộc thiểu số trong cộng đồng 54 dân tộc Việt Nam.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.a), tr. 123; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.a), tr. 124; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 1.a), tr. 124, 125
-
 ### ethnic policy of the Party and State of Vietnam
 - **Tiếng Việt:** Chính sách dân tộc của Đảng và Nhà nước
 - **Chuyên ngành gốc:** Lịch sử
@@ -2247,13 +2522,37 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 14 (Mục 2a): Quan điểm và ba nguyên tắc xuyên suốt của Đảng và Nhà nước Việt Nam về vấn đề dân tộc.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 2.a), tr. 140; SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 2.b), tr. 140; SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 2.b), tr. 140, 141
 
+### Eurasian balance foreign policy
+- **Tiếng Việt:** Chính sách cân bằng Âu – Á
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A foreign policy orientation actively pursued by the Russian Federation since the early twenty-first century as domestic politics stabilized and its international standing rose, strengthening cooperation with the Commonwealth of Independent States (CIS), China, India, and the Association of Southeast Asian Nations (ASEAN).
+- **Giải thích (VI):** Định hướng đối ngoại được Liên bang Nga chú trọng thực hiện từ đầu thế kỉ XXI khi tình hình chính trị dần ổn định và địa vị quốc tế được nâng cao, qua đó đẩy mạnh quan hệ hợp tác với Cộng đồng các quốc gia độc lập (SNG), Trung Quốc, Ấn Độ và Hiệp hội các quốc gia Đông Nam Á (ASEAN).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 18 (Mục 2): Định hướng đối ngoại tiêu biểu của Liên bang Nga từ đầu thế kỉ XXI.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 2), tr. 94; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 1), tr. 94; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 2), tr. 94, 95
+
+### European Coal and Steel Community
+- **Tiếng Việt:** Cộng đồng Than – Thép châu Âu
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A regional economic integration organization founded in Western Europe in 1951, initiating the trend of economic cooperation and integration among Western European countries during their period of rapid growth (1950–1973).
+- **Giải thích (VI):** Tổ chức liên kết kinh tế khu vực được thành lập năm 1951 ở Tây Âu, mở đầu cho xu hướng hợp tác và liên kết kinh tế giữa các nước Tây Âu trong giai đoạn tăng trưởng cao (1950 – 1973).
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 11 (Mục 2): bước khởi đầu của xu hướng liên kết kinh tế khu vực ở Tây Âu sau Chiến tranh thế giới thứ hai.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B11 (Mục 2), tr. 51
+
+### European Economic Community
+- **Tiếng Việt:** Cộng đồng Kinh tế châu Âu
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A regional economic integration organization in Western Europe established in 1957 following the European Coal and Steel Community (1951), advancing economic cooperation among member states and helping Western Europe rise as one of the world's three major economic and financial centers during 1950–1973.
+- **Giải thích (VI):** Tổ chức liên kết kinh tế khu vực ở Tây Âu được thành lập năm 1957 tiếp nối Cộng đồng Than – Thép châu Âu (1951), thúc đẩy hợp tác kinh tế giữa các nước thành viên và góp phần đưa Tây Âu vươn lên thành một trong ba trung tâm kinh tế – tài chính của thế giới giai đoạn 1950 – 1973.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 11 (Mục 2): bước phát triển mở rộng liên kết kinh tế khu vực ở Tây Âu tiếp nối Cộng đồng Than – Thép châu Âu (1951).
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B11 (Mục 2), tr. 51
+
 ### European Union–Vietnam Free Trade Agreement
 - **Tiếng Việt:** Hiệp định Thương mại tự do Việt Nam – EU (EVFTA)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A bilateral free trade agreement signed between Vietnam and the European Union (EU) as a major milestone in Vietnam's regional and global economic integration during Doi Moi.
 - **Giải thích (VI):** Hiệp định thương mại tự do song phương được kí kết giữa Việt Nam và Liên minh châu Âu (EU), đánh dấu bước phát triển quan trọng trong tiến trình hội nhập kinh tế khu vực và thế giới của Việt Nam thời kì Đổi mới.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 14 (Mục 2): Trình bày các hiệp định thương mại tự do quan trọng mà Việt Nam kí kết trong thời kì Đổi mới.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 85, 86
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 85, 86; SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 85
 
 ### exercise of Vietnam's maritime sovereignty from 1802 to the present
 - **Tiếng Việt:** Thực thi chủ quyền biển đảo Việt Nam từ năm 1802 đến nay
@@ -2269,7 +2568,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The post-World War II expansion of socialism across Asia driven by resurgent national liberation movements: the founding of the People's Republic of China choosing the socialist path (1949), the liberation of North Vietnam (1954) followed by nationwide socialist construction after reunification (1976), and the establishment of the Lao People's Democratic Republic embarking on socialism (December 1975).
 - **Giải thích (VI):** Quá trình lan rộng của chủ nghĩa xã hội tại châu Á gắn với cao trào giải phóng dân tộc sau Chiến tranh thế giới thứ hai: nước Cộng hoà Nhân dân Trung Hoa thành lập và đi lên chủ nghĩa xã hội (1949), miền Bắc Việt Nam giải phóng (1954) và cả nước tiến lên chủ nghĩa xã hội sau khi thống nhất (1976), cùng sự thành lập nước Cộng hoà Dân chủ Nhân dân Lào đi theo con đường xã hội chủ nghĩa (tháng 12 – 1975).
 - **Bối cảnh:** Lịch sử lớp 11, Bài 4 (Mục 1.b): Các mốc lịch sử đánh dấu sự mở rộng và tăng cường sức mạnh của chủ nghĩa xã hội tại Trung Quốc, Việt Nam và Lào.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 23, 24
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 23, 24; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 23; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 23
 
 ### expansion of socialism in Latin America
 - **Tiếng Việt:** Sự mở rộng chủ nghĩa xã hội ở khu vực Mỹ La-tinh
@@ -2277,7 +2576,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The spread of socialism to the Caribbean region of Latin America following the victory of the Cuban Revolution in 1959 and the Republic of Cuba's entry into socialist construction from 1961. Despite severe challenges, especially the US embargo, Cuba built an industry with a rational sectoral structure, diversified agriculture, and highly developed education, healthcare, and culture.
 - **Giải thích (VI):** Quá trình chủ nghĩa xã hội lan tới vùng biển Ca-ri-bê thuộc Mỹ La-tinh sau thắng lợi của cách mạng Cu-ba năm 1959 và việc nước Cộng hoà Cu-ba bước vào thời kì xây dựng chủ nghĩa xã hội từ năm 1961. Bất chấp nhiều khó khăn, đặc biệt là chính sách cấm vận của Mỹ, Cu-ba đã xây dựng được nền công nghiệp có cơ cấu ngành hợp lí, nông nghiệp đa dạng và giáo dục, y tế, văn hoá đạt trình độ cao.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 4 (Mục 1.b): Quá trình xác lập và thành tựu xây dựng chủ nghĩa xã hội ở Cu-ba đưa hệ thống xã hội chủ nghĩa lan sang Tây bán cầu.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 24
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 24; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 2), tr. 24; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 2), tr. 24, 25
 
 ### export of capital
 - **Tiếng Việt:** Xuất khẩu tư bản
@@ -2286,6 +2585,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hoạt động đầu tư tư bản ra nước ngoài nhằm thu lợi nhuận trong giai đoạn đế quốc chủ nghĩa. Hoạt động này diễn ra dưới hai hình thức chủ yếu là xuất khẩu tư bản sản xuất (xây dựng mới hoặc mua lại xí nghiệp ở nước ngoài) và xuất khẩu tư bản cho vay (cho chính phủ hoặc tư nhân nước ngoài vay vốn lấy lãi).
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 10 (Mục 2.a, Mục 2.b): Hoạt động kinh tế đối ngoại nổi bật của các nước đế quốc cuối thế kỉ XIX – đầu thế kỉ XX, dẫn đầu là Anh và Pháp.
 - **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 2.a), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 2.b), tr. 46; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 173
+
+### export-oriented industrialization
+- **Tiếng Việt:** Công nghiệp hoá hướng ngoại
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An economic development strategy centered on expanding industrial production for export markets, adopted by Thailand, Indonesia, Malaysia, the Philippines, and Singapore in the 1970s and 1980s. It drove high economic growth and a rapid increase in the shares of industry and foreign trade, most notably transforming Singapore into an Asian economic "dragon."
+- **Giải thích (VI):** Chiến lược phát triển kinh tế đẩy mạnh sản xuất công nghiệp hướng vào xuất khẩu, được nhóm nước Thái Lan, In-đô-nê-xi-a, Ma-lai-xi-a, Phi-líp-pin và Xin-ga-po thực hiện trong những năm 70, 80 của thế kỉ XX. Chiến lược này tạo ra biến đổi kinh tế – xã hội to lớn với tốc độ tăng trưởng khá cao, gia tăng nhanh tỉ trọng công nghiệp và ngoại thương, nổi bật là đưa Xin-ga-po trở thành “con rồng” kinh tế châu Á.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 12 (Mục 3.b): bước chuyển chiến lược phát triển kinh tế hướng vào xuất khẩu của 5 nước Đông Nam Á trong thập niên 1970 – 1980.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 3.b), tr. 58; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 3.b), tr. 58, 59; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 3.a), tr. 58
 
 ### fanzhen
 - **Tiếng Việt:** Phiên trấn
@@ -2296,6 +2603,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 18 (Mục 1.a): Đơn vị hành chính vùng biên viễn thời Đường gắn liền với chức danh Tiết độ sứ.
   - *Lưu ý:* Trong sử học quốc tế, phiên trấn (fanzhen) chỉ các khu vực hành chính – quân sự vùng biên giới thời Đường do tiết độ sứ nắm quyền.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191
+
+### fascism
+- **Tiếng Việt:** Chủ nghĩa phát xít
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A belligerent dictatorial regime established in capitalist countries with few or no colonies and lacking capital, raw materials, and markets, such as Germany and Italy, to cope with the Great Depression and rising revolutionary movements. Countries following this path became hotbeds of war, aggressively expanding and launching wars to redivide the world.
+- **Giải thích (VI):** Chế độ độc tài hiếu chiến thiết lập ở những nước tư bản không có hoặc có ít thuộc địa, thiếu vốn, nguyên liệu và thị trường như Đức, I-ta-li-a nhằm đối phó với đại suy thoái kinh tế và phong trào cách mạng. Các nước đi theo con đường này đã trở thành những “lò lửa chiến tranh”, ráo riết bành trướng và phát động chiến tranh để phân chia lại thế giới.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 2 (Mục 2): Khuynh hướng độc tài hiếu chiến hình thành ở Đức và I-ta-li-a trong thập niên 1930 dẫn tới Chiến tranh thế giới thứ hai.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2, tr. 10; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2), tr. 12; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 3.a), tr. 12
 
 ### Ferdinand Magellan's circumnavigation of the Earth
 - **Tiếng Việt:** Cuộc thám hiểm vòng quanh Trái Đất của Ph. Ma-gien-lăng (1519 – 1522)
@@ -2380,7 +2695,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A strategic approach combining military victories with diplomatic struggle proactively pursued by the Government of the Democratic Republic of Vietnam to expose the unjust war waged by the United States in South Vietnam, rally support from progressive people worldwide, and demand an end to the war.
 - **Giải thích (VI):** Phương châm kết hợp chặt chẽ thắng lợi quân sự với đấu tranh ngoại giao được Chính phủ Việt Nam Dân chủ Cộng hoà chủ động thực hiện nhằm cung cấp tư liệu về cuộc chiến tranh phi nghĩa của Mỹ ở miền Nam Việt Nam, tranh thủ sự ủng hộ của nhân dân tiến bộ thế giới và đòi Mỹ chấm dứt chiến tranh.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 13 (Mục 2): Trình bày nghệ thuật kết hợp đấu tranh quân sự và ngoại giao trong kháng chiến chống Mỹ, cứu nước.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 2), tr. 80
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 2), tr. 80; SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 2), tr. 80, 81
 
 ### finance capital
 - **Tiếng Việt:** Tư bản tài chính
@@ -2388,7 +2703,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The stratum of major monopoly capitalists formed through the merger of industrial capital and banking capital. Its emergence constituted a fundamental economic feature of capitalism in the imperialist stage.
 - **Giải thích (VI):** Tầng lớp các nhà tư bản độc quyền lớn ra đời từ sự dung hợp giữa tư bản công nghiệp và tư bản ngân hàng. Sự hình thành tầng lớp này là một đặc trưng kinh tế cơ bản của chủ nghĩa tư bản trong giai đoạn đế quốc chủ nghĩa.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 10 (Mục 1, Mục 2.d): Tầng lớp tài phiệt chi phối nền kinh tế và chính trị ở các nước đế quốc Âu – Mỹ cuối thế kỉ XIX – đầu thế kỉ XX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172, 173
 
 ### First Constitution of the USSR
 - **Tiếng Việt:** Hiến pháp đầu tiên của Liên Xô
@@ -2398,6 +2713,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 11, Bài 3 (Mục 1): Mốc pháp lí hoàn thành quá trình thành lập Nhà nước Liên bang Cộng hoà xã hội chủ nghĩa đầu tiên trên thế giới.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B3 (Mục 1), tr. 20
 
+### First Five-Year Plan of North Vietnam
+- **Tiếng Việt:** Kế hoạch 5 năm lần thứ nhất (kế hoạch 5 năm 1961 – 1965)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The 1961–1965 socio-economic plan implemented in Northern Vietnam under the Resolution of the Third National Congress of the Vietnam Workers' Party (September 1960) to build the material and technical foundations of socialism. Prioritizing state farms, heavy and light industries, state commerce, and agricultural cooperatives (with over 90% of peasant households joining cooperatives and state industry accounting for 93.1% of industrial output value), it stabilized livelihoods and strengthened aid to the South.
+- **Giải thích (VI):** Kế hoạch phát triển kinh tế – xã hội giai đoạn 1961 – 1965 được miền Bắc thực hiện theo Nghị quyết Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam (9 – 1960) nhằm xây dựng cơ sở vật chất – kĩ thuật của chủ nghĩa xã hội. Kế hoạch ưu tiên xây dựng nông – lâm trường quốc doanh, phát triển công nghiệp nặng và nhẹ, thương nghiệp quốc doanh và hợp tác xã nông nghiệp (hơn 90% hộ nông dân vào hợp tác xã, công nghiệp quốc doanh chiếm 93,1% giá trị sản lượng), góp phần ổn định đời sống và chi viện đắc lực cho miền Nam.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 9, Bài 16 (Mục 1.c): kế hoạch dài hạn đầu tiên bước đầu xây dựng cơ sở vật chất – kĩ thuật của chủ nghĩa xã hội ở miền Bắc.
+  - *Lưu ý:* Refers specifically to North Vietnam's 1961–1965 socio-economic development plan adopted at the Third National Congress of the Vietnam Workers' Party (September 1960), distinct from Soviet or Chinese five-year plans.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 1.c), tr. 82; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 1.b), tr. 82; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 2.a), tr. 82, 83
+
 ### first French colonial exploitation
 - **Tiếng Việt:** Cuộc khai thác thuộc địa lần thứ nhất
 - **Chuyên ngành gốc:** Lịch sử
@@ -2406,7 +2731,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 19 (Mục 1): Chính sách cai trị và khai thác kinh tế – xã hội của thực dân Pháp làm biến đổi sâu sắc xã hội Việt Nam đầu thế kỉ XX.
   - *Lưu ý:* Chỉ chương trình khai thác thuộc địa giai đoạn 1897 – 1914 của thực dân Pháp ở Việt Nam, phân biệt với cuộc khai thác thuộc địa lần thứ hai sau Chiến tranh thế giới thứ nhất.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 1), tr. 86, 87
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 1), tr. 86, 87; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19, tr. 86; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 1), tr. 86
+
+### First General Education Reform of Vietnam
+- **Tiếng Việt:** Cải cách giáo dục phổ thông lần thứ nhất
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A systemic reform of general education implemented by the Government of the Democratic Republic of Vietnam in 1950 with the aim of orienting education toward actively serving the resistance war and building a national, democratic educational system.
+- **Giải thích (VI):** Cuộc cải tổ hệ thống giáo dục phổ thông được Chính phủ Việt Nam Dân chủ Cộng hoà triển khai năm 1950 với mục tiêu đưa giáo dục phục vụ tích cực kháng chiến và xây dựng nền giáo dục dân tộc, dân chủ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 14 (Mục 2.c) và Bài 15 (Mục 1.c): thành tựu tiêu biểu trên mặt trận văn hoá, giáo dục trong cuộc kháng chiến chống thực dân Pháp.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.c), tr. 70; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.d), tr. 70; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.d), tr. 70, 71
+
+### First General Election of Vietnam
+- **Tiếng Việt:** Cuộc Tổng tuyển cử đầu tiên (Tổng tuyển cử đầu tiên)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The nationwide democratic election held on January 6, 1946, which elected over 300 deputies to the First National Assembly of the Democratic Republic of Vietnam, with President Ho Chi Minh winning the highest share of votes. Through its first session (March 1946), the National Assembly decided domestic and foreign policies, established the Constitutional Drafting Committee, and formed the Resistance Coalition Government.
+- **Giải thích (VI):** Cuộc bầu cử dân chủ trên phạm vi cả nước diễn ra ngày 6 – 1 – 1946, bầu ra hơn 300 đại biểu vào Quốc hội khoá I của nước Việt Nam Dân chủ Cộng hoà, trong đó Chủ tịch Hồ Chí Minh trúng cử với số phiếu cao nhất. Tại phiên họp đầu tiên (3 – 1946), Quốc hội khoá I đã quyết định chính sách đối nội, đối ngoại, thành lập Ban Dự thảo Hiến pháp và Chính phủ liên hiệp kháng chiến.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 9, Bài 13 (Mục 1): biện pháp trọng tâm xây dựng cơ sở pháp lí và củng cố chính quyền dân chủ nhân dân sau Cách mạng tháng Tám năm 1945.
+  - *Lưu ý:* Refers specifically to the first nationwide general election of the Democratic Republic of Vietnam held on January 6, 1946.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B13 (Mục 1), tr. 61; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B13 (Mục 1), tr. 61, 62; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B13, tr. 61
 
 ### First Industrial Revolution
 - **Tiếng Việt:** Cách mạng công nghiệp lần thứ nhất
@@ -2414,7 +2757,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The industrial revolution that began in Great Britain in the mid-eighteenth century before spreading across Europe and North America, centered on textile mechanization, advances in metallurgy and transportation, and the invention of the steam engine that initiated industrialization.
 - **Giải thích (VI):** Cuộc cách mạng công nghiệp khởi đầu tại nước Anh vào giữa thế kỉ XVIII rồi lan sang châu Âu và Bắc Mỹ, trọng tâm là việc cơ khí hoá ngành dệt, cải tiến luyện kim, giao thông vận tải và phát minh ra máy hơi nước mở đầu quá trình công nghiệp hoá.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 7 (Mục 1): Bối cảnh lịch sử và những thành tựu tiêu biểu của cuộc Cách mạng công nghiệp lần thứ nhất.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.a), tr. 59; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.b), tr. 61
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.a), tr. 59; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.b), tr. 61; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.a), tr. 62
 
 ### First International
 - **Tiếng Việt:** Quốc tế thứ nhất (Hội Liên hiệp lao động quốc tế)
@@ -2422,7 +2765,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An international revolutionary organization of the proletariat founded by Karl Marx and Friedrich Engels in September 1864 to unite and guide labor movements across countries. Across five congresses, it disseminated scientific socialism, combated ideological deviations, and adopted key resolutions on strikes, trade unions, and the eight-hour workday.
 - **Giải thích (VI):** Tổ chức cách mạng quốc tế của giai cấp vô sản do C. Mác và Ph. Ăng-ghen sáng lập vào tháng 9/1864 nhằm đoàn kết và dẫn dắt phong trào công nhân các nước. Trải qua 5 kì đại hội, tổ chức này tích cực truyền bá chủ nghĩa xã hội khoa học, đấu tranh chống các tư tưởng lệch lạc và thông qua nhiều nghị quyết quan trọng về bãi công, thành lập công đoàn, đòi ngày làm việc 8 giờ.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 4.a): Tổ chức quốc tế đầu tiên đoàn kết phong trào công nhân thế giới trong nửa sau thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 4.a), tr. 50
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 4.a), tr. 50; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 2), tr. 49; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 3), tr. 50
 
 ### First National Congress of Emulation Fighters and Exemplary Cadres
 - **Tiếng Việt:** Đại hội Chiến sĩ thi đua và Cán bộ gương mẫu toàn quốc lần thứ nhất
@@ -2447,8 +2790,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The foundational programmatic documents comprising the Brief Political Platform and Brief Strategy drafted by Nguyen Ai Quoc and adopted at the founding conference of the Communist Party of Vietnam in early 1930 to define revolutionary strategy and tactics. It constituted a creative national liberation platform that properly combined national and class questions.
 - **Giải thích (VI):** Hệ thống văn kiện nền tảng gồm Chính cương vắn tắt và Sách lược vắn tắt do Nguyễn Ái Quốc soạn thảo, được thông qua tại Hội nghị thành lập Đảng Cộng sản Việt Nam đầu năm 1930 nhằm xác định các vấn đề chiến lược và sách lược của cách mạng. Đây là cương lĩnh giải phóng dân tộc sáng tạo, kết hợp đúng đắn giữa vấn đề dân tộc và vấn đề giai cấp.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 16 (Mục 2.b): Văn kiện xác lập đường lối chiến lược và sách lược đầu tiên của Đảng Cộng sản Việt Nam đầu năm 1930.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 2.a), tr. 97; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 2.b), tr. 97
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The foundational documents (including the Brief Political Platform and Brief Tactics) drafted by Nguyen Ai Quoc and adopted at the founding conference of the Communist Party of Vietnam in early 1930. It set forth the strategic line of carrying out a bourgeois-democratic revolution and agrarian revolution to advance toward communist society, overthrowing French imperialism and feudalism to achieve complete national independence, establish a worker-peasant-soldier government, and distribute imperialist land to poor peasants. / VI: Tổng thể các văn kiện (gồm Chính cương vắn tắt, Sách lược vắn tắt,...) do Nguyễn Ái Quốc soạn thảo và được thông qua tại Hội nghị thành lập Đảng Cộng sản Việt Nam đầu năm 1930. Cương lĩnh đề ra đường lối chiến lược là làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản, đánh đổ đế quốc Pháp và phong kiến nhằm giành độc lập hoàn toàn cho Việt Nam, lập Chính phủ công – nông – binh và chia ruộng đất của đế quốc cho dân cày nghèo.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 16 (Mục 2.b): Văn kiện xác lập đường lối chiến lược và sách lược đầu tiên của Đảng Cộng sản Việt Nam đầu năm 1930.
+  - Lịch sử và Địa lí lớp 9, Bài 6 (Mục 2.b): Hệ thống văn kiện nền tảng xác lập đường lối cứu nước đúng đắn cho cách mạng Việt Nam đầu năm 1930.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 2.a), tr. 97; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 2.b), tr. 97; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 2.b), tr. 29
 
 ### First World War
 - **Tiếng Việt:** Chiến tranh thế giới thứ nhất
@@ -2456,7 +2802,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An unjust global imperialist war fought from 1914 to November 1918 between the Central Powers and the Allied Entente, triggered directly by the assassination of the Austro-Hungarian heir in Serbia on June 28, 1914. The war ended in victory for the Entente powers while inflicting catastrophic devastation and losses on humanity.
 - **Giải thích (VI):** Cuộc chiến tranh đế quốc phi nghĩa quy mô toàn cầu diễn ra từ năm 1914 đến tháng 11/1918 giữa hai khối Liên minh và Hiệp ước, bùng nổ sau sự kiện Thái tử Áo – Hung bị ám sát tại Xéc-bi ngày 28/6/1914. Cuộc chiến khép lại với thắng lợi thuộc về khối Hiệp ước nhưng gây ra những thảm hoạ và tổn thất hết sức nặng nề đối với nhân loại.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 12 (Mục 1): Nguyên nhân, hai giai đoạn diễn biến (1914 – 1916; 1916 – 1918), tính chất và hậu quả của cuộc đại chiến thế giới đầu thế kỉ XX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 1.a), tr. 53; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 1.b), tr. 53
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 1.a), tr. 53; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 1.b), tr. 53; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171
 
 ### flourishing stage of Southeast Asian civilization
 - **Tiếng Việt:** Giai đoạn phát triển rực rỡ
@@ -2474,7 +2820,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A loom improvement invented by John Kay in 1733 in Britain, eliminating the need for weavers to manually pass the weft bobbin shuttle across the warp threads and doubling weaving productivity.
 - **Giải thích (VI):** Cải tiến khung dệt do Giôn Cay phát minh năm 1733 tại Anh, giúp thợ dệt không còn phải đẩy thoi suốt chỉ ngang bằng tay từ bên này sang bên kia sợi dọc và làm năng suất dệt tăng gấp đôi.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 7 (Mục 1.b): Phát minh mở đầu quá trình cải tiến kĩ thuật ngành dệt trong Cách mạng công nghiệp lần thứ nhất.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.b), tr. 60, 61; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.b), tr. 60, 61; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.b), tr. 60
 
 ### folk belief
 - **Tiếng Việt:** Tín ngưỡng
@@ -2483,8 +2829,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Niềm tin của con người thể hiện thông qua những lễ nghi gắn liền với phong tục, tập quán truyền thống nhằm mang lại sự bình an về tinh thần cho cá nhân và cộng đồng.
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 13 (Mục 3a): Khái niệm nền tảng để tìm hiểu đời sống tín ngưỡng dân gian của cộng đồng các dân tộc Việt Nam.
+  - Giáo dục Kinh tế và Pháp luật lớp 11, Bài 12 (Mục 1.a): Khái niệm pháp lí gắn với quyền tự do tín ngưỡng, tôn giáo của mọi người.
+  - Giáo dục Kinh tế và Pháp luật lớp 11, Bài 12 (Mục 1.a) và Bài 21 (Mục 1): phân biệt hoạt động tín ngưỡng truyền thống với tôn giáo trong thực hiện quyền tự do tín ngưỡng, tôn giáo.
   - *Lưu ý:* Phân biệt với tôn giáo (religion) – hình thái niềm tin có hệ thống giáo lí, giáo luật, lễ nghi và tổ chức chặt chẽ.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 144; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 3.a), tr. 132; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 3.a), tr. 133
+  - *Lưu ý:* Phân biệt với tôn giáo (có hệ thống đối tượng tôn thờ, giáo lí, giáo luật, lễ nghi và tổ chức riêng biệt).
+  - *Lưu ý:* Khác với tôn giáo, tín ngưỡng gắn liền với phong tục, tập quán truyền thống (như thờ cúng tổ tiên, lễ hội làng) và không nhất thiết có hệ thống giáo lí, giáo luật hay tổ chức chặt chẽ.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 144; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 3.a), tr. 132; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 3.a), tr. 133; SGK GD KT&PL 11 KNTT, Chủ đề 07, B12, tr. 75; SGK GD KT&PL 11 KNTT, Chủ đề 07, B12 (Mục 1.a), tr. 75; SGK GD KT&PL 11 KNTT, Chủ đề 07, B12 (Mục 1.a), tr. 75, 76; SGK GD KT&PL 11 KNTT, Bảng giải thích thuật ngữ, tr. 145
 
 ### Forbidden City
 - **Tiếng Việt:** Tử Cấm Thành
@@ -2500,7 +2850,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The general foreign policy guideline set forth by the Communist Party of Vietnam at its Seventh National Congress (1991): equal and mutually beneficial cooperation with all countries regardless of differing socio-political systems on the basis of peaceful coexistence, serving economic development and enhancing Vietnam's international standing.
 - **Giải thích (VI):** Phương châm chung cho hoạt động đối ngoại được Đảng Cộng sản Việt Nam đề ra tại Đại hội đại biểu toàn quốc lần thứ VII (1991): hợp tác, bình đẳng và cùng có lợi với tất cả các nước, không phân biệt chế độ chính trị – xã hội khác nhau trên cơ sở nguyên tắc cùng tồn tại hoà bình nhằm phục vụ phát triển kinh tế và nâng cao vị thế đất nước.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 14 (Mục 2): Nêu phương châm chỉ đạo hoạt động đối ngoại của Việt Nam trong thời kì Đổi mới.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 84
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 84; SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 1), tr. 84; SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 84, 85
 
 ### formation of the Union of Soviet Socialist Republics
 - **Tiếng Việt:** Thành lập Liên bang Cộng hoà xã hội chủ nghĩa Xô viết (Liên Xô)
@@ -2508,7 +2858,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The event on December 30, 1922, in Moscow, under Lenin's direct guidance, in which the First All-Union Congress of Soviets adopted the Declaration and Treaty on the Creation of the Union of Soviet Socialist Republics. Initially comprising four Soviet republics (Russia, Ukraine, Byelorussia, and Transcaucasia), the Union expanded to fifteen republics by 1940.
 - **Giải thích (VI):** Sự kiện ngày 30 – 12 – 1922 tại Mát-xcơ-va, dưới sự chỉ đạo trực tiếp của Lê-nin, Đại hội lần thứ nhất các Xô viết toàn Liên bang thông qua bản Tuyên ngôn thành lập Liên bang Cộng hoà xã hội chủ nghĩa Xô viết và bản Hiệp ước Liên bang. Khi mới thành lập, Liên Xô gồm 4 nước Cộng hoà Xô viết (Nga, U-crai-na, Bê-lô-rút-xi-a, Ngoại Cáp-ca-dơ) và đến năm 1940 gồm 15 nước cộng hoà.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 3 (Mục 1): Mốc ra đời Nhà nước Liên bang Cộng hoà xã hội chủ nghĩa Xô viết nhằm đáp ứng nhiệm vụ khôi phục kinh tế, xây dựng chủ nghĩa xã hội và bảo vệ đất nước.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B3 (Mục 1), tr. 20
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B3 (Mục 1), tr. 20; SGK Lịch sử 11 KNTT, Chủ đề 02, B3 (Mục 2), tr. 21
 
 ### formative stage of Southeast Asian civilization
 - **Tiếng Việt:** Giai đoạn đầu văn minh Đông Nam Á (Giai đoạn hình thành và bước đầu phát triển)
@@ -2544,6 +2894,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 4 (Mục 2): bằng chứng khảo cổ học giúp xác định dấu tích quá trình tiến hoá thành người ở Đông Nam Á và Việt Nam.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190, 191; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 18
 
+### Four Asian Tigers
+- **Tiếng Việt:** Bốn “con rồng” châu Á
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An economic and historical term referring to the economies of four Asian countries and territories that achieved rapid growth rates from the 1960s and 1970s onward, comprising South Korea, Hong Kong, Taiwan, and Singapore.
+- **Giải thích (VI):** Thuật ngữ kinh tế – lịch sử chỉ nền kinh tế của bốn quốc gia và vùng lãnh thổ ở châu Á có tốc độ tăng trưởng cao từ những năm 60, 70 của thế kỉ XX đến nay, bao gồm Hàn Quốc, Hồng Công, Đài Loan và Xin-ga-po.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 19 (Mục 1.b): Nhóm bốn nền kinh tế công nghiệp hoá năng động ở châu Á khi tìm hiểu sự phát triển của Hàn Quốc.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 1.b), tr. 97; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 1.a), tr. 97; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 1.b), tr. 97, 98
+
 ### Four Great Classical Novels
 - **Tiếng Việt:** Tứ đại danh tác
 - **Chuyên ngành gốc:** Lịch sử
@@ -2566,7 +2924,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The four most representative technological achievements of ancient and medieval China, comprising papermaking, printing, gunpowder, and the compass.
 - **Giải thích (VI):** Tập hợp bốn thành tựu kĩ thuật tiêu biểu nhất của người Trung Hoa thời kì cổ – trung đại, bao gồm kĩ thuật làm giấy, kĩ thuật in, thuốc súng và la bàn.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.3.b): Những cống hiến kĩ thuật quan trọng của văn minh Trung Hoa đối với nhân loại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 46, 47
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 46, 47; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 46
 
 ### four-party negotiations at the Paris Conference
 - **Tiếng Việt:** Đàm phán bốn bên tại Hội nghị Pa-ri
@@ -2574,7 +2932,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The negotiation mechanism at the Paris Conference on Vietnam using a large round table to represent the participation of four parties: the Democratic Republic of Vietnam, the Provisional Revolutionary Government of the Republic of South Vietnam, the United States, and the Republic of Vietnam.
 - **Giải thích (VI):** Cơ chế thương lượng ngoại giao tại Hội nghị Pa-ri về Việt Nam sử dụng chiếc bàn tròn lớn thể hiện sự tham gia của bốn bên gồm Việt Nam Dân chủ Cộng hoà, Chính phủ Cách mạng lâm thời Cộng hoà miền Nam Việt Nam, Mỹ và Việt Nam Cộng hoà.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 13 (Mục 2): Giải thích cuộc đấu tranh ngoại giao về hình thức bàn đàm phán và tư cách các bên tại Hội nghị Pa-ri.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 2), tr. 80, 81
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 2), tr. 80, 81; SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 2), tr. 80
 
 ### Fourth Industrial Revolution
 - **Tiếng Việt:** Cách mạng công nghiệp lần thứ tư (Cách mạng 4.0; Cuộc cách mạng công nghiệp lần thứ tư; cách mạng công nghiệp 4.0)
@@ -2605,7 +2963,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A diplomatic agreement signed by President Ho Chi Minh with a representative of the French Government on September 14, 1946 following the Preliminary Accord to prolong peaceful time and prepare for resistance.
 - **Giải thích (VI):** Văn bản ngoại giao do Chủ tịch Hồ Chí Minh kí với đại diện Chính phủ Pháp ngày 14 – 9 – 1946 tiếp sau Hiệp định Sơ bộ nhằm kéo dài thời gian hoà bình, chuẩn bị lực lượng cho cuộc kháng chiến.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 13 (Mục 1): Trình bày nỗ lực ngoại giao của Chủ tịch Hồ Chí Minh nhằm kéo dài thời gian hoà bình trước kháng chiến toàn quốc.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 1), tr. 78
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 1), tr. 78; SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 1), tr. 78, 79
 
 ### Franco-Vietnamese Preliminary Accord of March 6, 1946
 - **Tiếng Việt:** Hiệp định Sơ bộ Việt – Pháp (Hiệp định Sơ bộ 6 – 3 – 1946)
@@ -2613,7 +2971,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A diplomatic accord signed between Vietnam and France on March 6, 1946 agreeing to allow French troops to replace Republic of China forces in disarming the Japanese army in northern Vietnam so as to avoid confronting multiple enemies simultaneously.
 - **Giải thích (VI):** Văn bản ngoại giao do Việt Nam kí với Pháp ngày 6 – 3 – 1946, đồng ý để quân đội Pháp thay quân đội Trung Hoa Dân quốc làm nhiệm vụ giải giáp quân đội Nhật Bản ở miền Bắc nhằm tránh đối đầu cùng một lúc với nhiều kẻ thù.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 13 (Mục 1): Trình bày hoạt động ngoại giao hoà hoãn với Pháp của Nhà nước Việt Nam Dân chủ Cộng hoà năm 1946.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 1), tr. 78
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 1), tr. 78; SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 1), tr. 78, 79
 
 ### French Revolution
 - **Tiếng Việt:** Cách mạng tư sản Pháp (Cách mạng tư sản Pháp cuối thế kỉ XVIII)
@@ -2621,7 +2979,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A classic bourgeois-democratic revolution that erupted in France on July 14, 1789, waged through fierce class struggle under bourgeois leadership to overthrow absolute monarchy and defend the homeland. It abolished feudal estates and relations of production, established a republic with democratic liberties, resolved the peasant land question, and spread the ideals of Liberty, Equality, and Fraternity.
 - **Giải thích (VI):** Cuộc cách mạng dân chủ tư sản điển hình bùng nổ ngày 14 – 7 – 1789 ở Pháp dưới hình thức đấu tranh giai cấp quyết liệt do giai cấp tư sản lãnh đạo nhằm lật đổ chế độ quân chủ chuyên chế và bảo vệ Tổ quốc. Cách mạng đã xoá bỏ chế độ đẳng cấp và quan hệ sản xuất phong kiến, thiết lập chế độ cộng hoà cùng các quyền tự do dân chủ, giải quyết ruộng đất cho nông dân và truyền bá tư tưởng Tự do, Bình đẳng, Bác ái.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 2): kết quả, ý nghĩa lịch sử, tính chất dân chủ tư sản điển hình và đặc điểm chính của cuộc cách mạng ở Pháp cuối thế kỉ XVIII.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2, tr. 12; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 13, 14; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2), tr. 14
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2, tr. 12; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 13, 14; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2), tr. 14; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 13; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 14
 
 ### French Third Republic
 - **Tiếng Việt:** Nền Cộng hoà thứ ba
@@ -2629,7 +2987,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The republican political regime established in France in 1870 following the overthrow of Napoleon III, lasting until 1940. During the late 19th and early 20th centuries, it experienced frequent cabinet crises domestically and suppressed the labor movement.
 - **Giải thích (VI):** Thể chế chính trị cộng hoà được thiết lập tại Pháp vào năm 1870 sau khi chế độ của Na-pô-lê-ông III sụp đổ và tồn tại đến năm 1940. Cuối thế kỉ XIX – đầu thế kỉ XX, chính quyền này thường xuyên xảy ra khủng hoảng nội các ở trong nước và tiến hành đàn áp phong trào công nhân.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 10 (Mục 2.b): Thể chế chính trị đối nội của nước Pháp trong giai đoạn chuyển sang chủ nghĩa đế quốc.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 2.b), tr. 46; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 2.b), tr. 46; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172, 173
 
 ### front
 - **Tiếng Việt:** Mặt trận
@@ -2655,7 +3013,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An ancient civilization that formed and flourished primarily in present-day Southern Vietnam in the lower Mekong basin, characterized by fertile alluvial plains and a dense canal network. Arising from the convergence of indigenous Pre-Oc Eo inhabitants and Austronesian peoples alongside Indian cultural influences, it excelled in agrarian and maritime commercial economy under the Kingdom of Funan.
 - **Giải thích (VI):** Nền văn minh cổ hình thành và phát triển chủ yếu ở khu vực Nam Bộ Việt Nam ngày nay thuộc hạ lưu sông Mê Công, nơi có đồng bằng phù sa màu mỡ và mạng lưới kênh rạch chằng chịt. Nền văn minh này ra đời từ sự kết hợp giữa cư dân bản địa văn hoá tiền Óc Eo với cư dân Nam Đảo cùng ảnh hưởng của văn minh Ấn Độ, nổi bật với kinh tế nông – thương nghiệp đường biển và sự phát triển của Vương quốc Phù Nam.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 11 (Mục 3.a): Khái quát điều kiện tự nhiên, dân cư và cơ sở hình thành nền văn minh cổ ở Nam Bộ.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 3.a), tr. 103; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 3.a), tr. 103, 104
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 3.a), tr. 103; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 3.a), tr. 103, 104; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.b), tr. 103
 
 ### functions of historiography
 - **Tiếng Việt:** Chức năng của Sử học
@@ -2670,16 +3028,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A form of military operation involving simultaneous attacks across all fronts to achieve a decisive victory in war.
 - **Giải thích (VI):** Hình thức tác chiến tiến công đồng loạt khắp các mặt trận để giành thắng lợi quyết định trong chiến tranh.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.c, 2.e): Khái niệm gắn với cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân năm 1968 và Xuân 1975.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.c), tr. 49; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 51
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A large-scale military operation that proactively launches forceful attacks against enemy forces simultaneously across all fronts. / VI: Hoạt động quân sự quy mô lớn chủ động tiến đánh mạnh mẽ quân địch trong cùng một khoảng thời gian trên tất cả các mặt trận.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.c, 2.e): Khái niệm gắn với cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân năm 1968 và Xuân 1975.
+  - Lịch sử và Địa lí lớp 9, Bài 17 (Mục 1.a, 2): Khái niệm quân sự gắn với cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân 1968 và cuộc Tổng tiến công và nổi dậy Xuân 1975.
+  - *Lưu ý:* Phân biệt với tổng khởi nghĩa (quần chúng nhân dân đồng loạt nổi dậy ở các địa phương nhằm lật đổ chính quyền thống trị, giành chính quyền về tay nhân dân).
+- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.c), tr. 49; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 51; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.a), tr. 86; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 2), tr. 89; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237
 
 ### general uprising
 - **Tiếng Việt:** Tổng khởi nghĩa
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A form of uprising breaking out simultaneously across localities nationwide to overthrow the ruling-class regime and seize state power for the people.
 - **Giải thích (VI):** Hình thức khởi nghĩa nổ ra đồng loạt ở các địa phương trong cả nước nhằm lật đổ chính quyền của giai cấp thống trị và giành chính quyền về tay nhân dân.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 6 (Mục 1): Khái niệm chỉ hình thức nổi dậy đồng loạt giành chính quyền trên phạm vi toàn quốc trong tháng 8 – 1945.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 1), tr. 32
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 6 (Mục 1): Khái niệm chỉ hình thức nổi dậy đồng loạt giành chính quyền trên phạm vi toàn quốc trong tháng 8 – 1945.
+  - Lịch sử và Địa lí lớp 9, Bài 8 (Mục 2, Mục 3): Hình thái đỉnh cao của cuộc vận động giải phóng dân tộc tiến tới Tổng khởi nghĩa tháng Tám năm 1945.
+  - *Lưu ý:* Phân biệt với "khởi nghĩa từng phần" (giành chính quyền ở từng địa phương) và "tổng tiến công" (chủ động tiến đánh địch đồng loạt trên các mặt trận quân sự).
+- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 1), tr. 32; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 2.a), tr. 35; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 2.b), tr. 36
 
 ### geographical location of Southeast Asia
 - **Tiếng Việt:** Vị trí địa lí của Đông Nam Á
@@ -2719,7 +3084,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The written legal code promulgated by the Nguyen Dynasty in 1815 to establish the legal foundation for the centralized monarchical state. It comprised provisions safeguarding the absolute authority of the monarch, consolidating feudal order, and suppressing any plot against the regime.
 - **Giải thích (VI):** Bộ luật thành văn do nhà Nguyễn ban hành năm 1815 nhằm đặt cơ sở pháp lí cho nhà nước quân chủ trung ương tập quyền. Bộ luật gồm các điều khoản bảo vệ quyền uy tuyệt đối của nhà vua, củng cố trật tự phong kiến và trấn áp mọi âm mưu chống lại chính quyền.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 16 (Mục 1.b): Cơ sở pháp lí của nhà nước quân chủ tập quyền dưới triều Nguyễn nửa đầu thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 1.b), tr. 70
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 1.b), tr. 70; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 1.b), tr. 70, 71
 
 ### Giao Chi
 - **Tiếng Việt:** Giao Chỉ
@@ -2745,6 +3110,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 10 (Mục 2): Xác định mục tiêu tổng quát của thời kì đẩy mạnh công nghiệp hoá, hiện đại hoá theo Văn kiện Đại hội VIII (1996).
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 2), tr. 63
 
+### Gold Week
+- **Tiếng Việt:** Tuần lễ vàng (Quỹ độc lập)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A voluntary public fundraising campaign for money and gold launched alongside the "Independence Fund" by the Government of the Democratic Republic of Vietnam from September 17 to 24, 1945 to overcome a depleted national treasury. Within one week, the movement mobilized approximately 60 million Indochinese piastres and 370 kilograms of gold.
+- **Giải thích (VI):** Phong trào vận động nhân dân tự nguyện quyên góp tiền, vàng do Chính phủ Việt Nam Dân chủ Cộng hoà phát động gắn với “Quỹ độc lập” từ ngày 17 đến ngày 24 – 9 – 1945 nhằm khắc phục tình trạng ngân khố quốc gia trống rỗng. Chỉ sau một tuần, phong trào đã huy động được khoảng 60 triệu đồng Đông Dương và 370 ki-lô-gam vàng.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 9, Bài 13 (Mục 2.a): phong trào vận động nhân dân đóng góp tài chính giải quyết khó khăn ngân khố trong năm đầu sau Cách mạng tháng Tám năm 1945.
+  - *Lưu ý:* Refers to the September 1945 public financial and gold donation campaign launched alongside the Independence Fund by the Government of the Democratic Republic of Vietnam.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B13 (Mục 2.a), tr. 63, 64; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B13 (Mục 2.a), tr. 64; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B13 (Mục 2.a), tr. 63
+
+### Good Neighbor Policy
+- **Tiếng Việt:** Chính sách láng giềng thân thiện
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A foreign policy toward Latin American countries implemented starting in 1933 by the administration of U.S. President Franklin D. Roosevelt, coinciding with U.S. recognition and establishment of diplomatic relations with the Soviet Union.
+- **Giải thích (VI):** Đường lối đối ngoại đối với các nước khu vực Mỹ La-tinh do Chính phủ của Tổng thống Mỹ Ph. Ru-dơ-ven thực hiện từ năm 1933, cùng thời kì Mỹ công nhận và đặt quan hệ ngoại giao với Liên Xô.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 2 (Mục 3.a): Chính sách đối ngoại của Mỹ đối với khu vực Mỹ La-tinh dưới thời Tổng thống Ph. Ru-dơ-ven từ năm 1933.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 3.a), tr. 13; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 3.b), tr. 13
+
 ### Grand Preceptor
 - **Tiếng Việt:** Thái sư
 - **Chuyên ngành gốc:** Lịch sử
@@ -2760,6 +3143,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cơ quan hành chính trung ương trọng yếu được vua Minh Mạng thành lập năm 1829 để thay thế Văn thư phòng, đảm nhiệm việc tiếp nhận và chuyển giao công văn giữa triều đình với các địa phương, khởi thảo chế cáo và lưu giữ văn thư. Cùng với Cơ mật viện, Nội các giữ vai trò một trong hai cơ quan tham mưu, tư vấn tối cao cho hoàng đế về hành chính, chính trị và an ninh, quân sự.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 11 (Mục 2): Cơ quan đầu mối hành chính – văn thư trung ương trong cải cách bộ máy nhà nước của vua Minh Mạng.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 05, B11 (Mục 2), tr. 71
+
+### Great Depression
+- **Tiếng Việt:** Đại suy thoái kinh tế (cuộc đại suy thoái kinh tế 1929 – 1933)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A severe economic crisis that broke out in the United States in October 1929 as rapid overproduction outpaced market purchasing power, subsequently spreading across the capitalist world in finance, industry, agriculture, and commerce. Lasting nearly four years and peaking in 1932, the depression devastated economies and caused grave social consequences across capitalist countries.
+- **Giải thích (VI):** Cuộc khủng hoảng kinh tế trầm trọng bùng nổ ở Mỹ vào tháng 10 – 1929 do sản xuất ồ ạt vượt quá sức mua của thị trường, sau đó lan rộng ra toàn thế giới tư bản chủ nghĩa trên các lĩnh vực tài chính, công nghiệp, nông nghiệp và thương nghiệp. Kéo dài gần 4 năm và nghiêm trọng nhất vào năm 1932, cuộc suy thoái đã tàn phá nặng nề kinh tế và gây hậu quả sâu sắc về xã hội ở các nước tư bản.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 2 (Mục 2, Mục 3.b): Cuộc khủng hoảng kinh tế trầm trọng giai đoạn 1929 – 1933 làm phân hoá con đường ứng phó giữa các nước cải cách (Anh, Pháp, Mỹ) và các nước phát xít hoá (Đức, I-ta-li-a, Nhật Bản).
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2, tr. 10; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1.a), tr. 11; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1.b), tr. 11
 
 ### great national unity bloc
 - **Tiếng Việt:** Khối đại đoàn kết dân tộc
@@ -2786,7 +3177,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.d): Văn kiện tổng kết thắng lợi của khởi nghĩa Lam Sơn và tuyên bố khôi phục nền độc lập Đại Việt.
   - Lịch sử lớp 10, Bài 12 (Mục 3.e): Giới thiệu thành tựu tiêu biểu của dòng văn học chữ Hán yêu nước thời Lê sơ.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16, tr. 78; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 82; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.e), tr. 118
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16, tr. 78; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 82; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 2), tr. 82; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.e), tr. 118; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.g), tr. 118; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.g), tr. 118, 119
 
 ### Great Sphinx of Giza
 - **Tiếng Việt:** Tượng Nhân sư ở Ghi-da
@@ -2794,7 +3185,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** One of ancient Egypt's most renowned sculptures, associated with the Giza pyramid complex and standing as a representative heritage of the labor, intellect, and creativity of ancient Egyptians.
 - **Giải thích (VI):** Tác phẩm điêu khắc cổ đại nổi tiếng bậc nhất của Ai Cập, gắn liền với quần thể kim tự tháp ở Ghi-da và là di sản tiêu biểu thể hiện sức lao động, trí tuệ cùng sự sáng tạo của cư dân Ai Cập cổ đại.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.1.b): Thành tựu điêu khắc tiêu biểu gắn với quần thể kiến trúc ở Ghi-da của văn minh Ai Cập cổ đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 38, 39
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 38, 39; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 38
 
 ### Great Wall of China
 - **Tiếng Việt:** Vạn Lý Trường Thành
@@ -2802,7 +3193,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The most renowned monumental military and defensive architectural structure of ancient and medieval Chinese civilization, closely integrating construction engineering with sculptural art.
 - **Giải thích (VI):** Công trình kiến trúc phòng thủ, quân sự đồ sộ và nổi tiếng bậc nhất của nền văn minh Trung Hoa thời kì cổ – trung đại, kết hợp chặt chẽ giữa kĩ thuật xây dựng kiến trúc và nghệ thuật điêu khắc.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.3.b): Thành tựu kiến trúc quân sự tiêu biểu của văn minh Trung Hoa.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 45, 46
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 45, 46; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 45
 
 ### Greek alphabet
 - **Tiếng Việt:** Bảng chữ cái Hy Lạp
@@ -2810,7 +3201,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A phonetic alphabetic writing system developed by the ancient Greeks between the ninth and eighth centuries BCE, standardized by the late fourth century BCE with 24 letters and serving as the basis for the Latin alphabet.
 - **Giải thích (VI):** Hệ thống chữ cái ghi âm do người Hy Lạp cổ đại xây dựng từ khoảng thế kỉ IX – VIII TCN, được hoàn thiện vào cuối thế kỉ IV TCN với 24 chữ cái và trở thành cơ sở để người La Mã xây dựng chữ La-tinh.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 1.b): Thành tựu chữ viết của văn minh Hy Lạp cổ đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 50
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 50; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 50; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 50, 51
+
+### Green Revolution
+- **Tiếng Việt:** Cuộc “Cách mạng xanh” (Cách mạng xanh)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A major agricultural transformation carried out in India during its post-1950 nation-building period, enabling the country not only to achieve food self-sufficiency but also to export food grains.
+- **Giải thích (VI):** Cuộc cải biến lớn trong nông nghiệp được Ấn Độ tiến hành thời kì xây dựng đất nước sau năm 1950, giúp quốc gia này không chỉ tự túc được lương thực mà còn tiến tới xuất khẩu.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 9, Bài 12 (Mục 2.c): thành tựu nông nghiệp tiêu biểu giúp Ấn Độ giải quyết vấn đề lương thực thời kì xây dựng đất nước sau năm 1950.
+  - *Lưu ý:* In Grade 9 History, examined specifically in the context of India's post-1950 agricultural development enabling food self-sufficiency and export.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 2.c), tr. 57; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 3.a), tr. 57; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 3.a), tr. 57, 58
 
 ### Gregorian calendar
 - **Tiếng Việt:** Công lịch
@@ -2842,7 +3243,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A French-drafted treaty imposed on the Hue court in 1883 immediately following the French naval assault on the Thuan An estuary near the imperial capital of Hue. The treaty marked the capitulation of the Nguyen feudal court, accepting a French protectorate over Tonkin and Annam while narrowing the territory under imperial administration.
 - **Giải thích (VI):** Bản hiệp ước do thực dân Pháp thảo sẵn buộc triều đình Huế kí năm 1883 ngay sau cuộc tấn công của quân Pháp vào cửa biển Thuận An sát kinh thành Huế. Hiệp ước đánh dấu bước đầu hàng của triều đình phong kiến nhà Nguyễn, chấp nhận quyền bảo hộ của Pháp ở Bắc Kì và Trung Kì với địa bàn quản lí của triều đình bị thu hẹp.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 17 (Mục 2.b): Hiệp ước đầu hàng của triều đình Huế sau khi thực dân Pháp tấn công cửa biển Thuận An năm 1883.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 2.b), tr. 79, 80
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 2.b), tr. 79, 80; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 2.a), tr. 79; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 2.b), tr. 79
 
 ### Harmony of the Three Teachings
 - **Tiếng Việt:** Tam giáo đồng nguyên
@@ -2850,7 +3251,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A prominent ideological and religious characteristic of Dai Viet civilization under the Ly and Tran dynasties, reflecting the harmonious coexistence and synthesis of Confucianism, Buddhism, and Daoism across governance, education (such as the Three Teachings examinations), and popular worship.
 - **Giải thích (VI):** Đặc trưng tư tưởng – tôn giáo nổi bật của văn minh Đại Việt thời Lý – Trần, thể hiện sự dung hợp và kết hợp hài hoà giữa Nho giáo, Phật giáo và Đạo giáo trong đời sống chính trị, giáo dục (như khoa thi Tam giáo) và tín ngưỡng dân gian.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 12 (Mục 2 và Mục 3.c): Nêu đặc điểm dung hợp tôn giáo nổi bật của văn minh Đại Việt thời Lý – Trần.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 2), tr. 109; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 2), tr. 109, 110; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 116
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 2), tr. 109; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 2), tr. 109, 110; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 116; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 1.b), tr. 109
+
+### heliborne tactics
+- **Tiếng Việt:** Trực thăng vận
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A US military tactic used during the Vietnam War that employed helicopters to rapidly transport combat units for surprise attacks against opposing forces. This tactic was widely deployed alongside armored personnel carrier tactics under the “Special War” strategy.
+- **Giải thích (VI):** Chiến thuật quân sự của Mỹ trong chiến tranh xâm lược Việt Nam, sử dụng máy bay lên thẳng để vận chuyển nhanh chóng các đơn vị chiến đấu nhằm đánh bất ngờ đối phương. Chiến thuật này được áp dụng phổ biến cùng “thiết xa vận” trong chiến lược “Chiến tranh đặc biệt”.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 16 (Mục 2.b): Chiến thuật cơ động quân sự mới được Mỹ sử dụng phổ biến trong chiến lược “Chiến tranh đặc biệt” (1961 – 1965).
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 2.b), tr. 84; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237
 
 ### Hellenistic period
 - **Tiếng Việt:** Thời kì Hy Lạp hoá
@@ -2890,7 +3299,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A person of exceptional talent and lofty aspiration far surpassing ordinary individuals, possessing wide renown and prestige among the populace.
 - **Giải thích (VI):** Người có tài năng xuất chúng và chí hướng lớn lao hơn hẳn người thường, đồng thời có danh tiếng và uy tín cao trong nhân dân.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.a): Chỉ những người tài cao, chí lớn từ khắp nơi tụ nghĩa cùng Lê Lợi chuẩn bị khởi nghĩa Lam Sơn.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 79; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 79; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176
 
 ### Hinduism (history)
 - **Tiếng Việt:** Hin-đu giáo
@@ -2900,7 +3309,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 5 (Mục II.2.b): Tôn giáo bản địa tiêu biểu trong thành tựu văn minh Ấn Độ thời kì cổ – trung đại.
   - *Lưu ý:* Không nhầm với 'Ấn Độ giáo' (`Hinduism`) trong Địa lí.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 40, 41
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 40, 41; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.a), tr. 40; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 40
 
 ### historical cognition
 - **Tiếng Việt:** Nhận thức lịch sử
@@ -2932,7 +3341,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The historical setting of Western colonization in Southeast Asia: from the early sixteenth century, European powers expanded penetration into the region via trade, trading posts, and missionary activities to prepare for conquest. This occurred while most Southeast Asian countries were experiencing political, economic, and social decline and crisis of the feudal system marked by numerous anti-feudal uprisings.
 - **Giải thích (VI):** Hoàn cảnh lịch sử diễn ra quá trình thực dân xâm lược Đông Nam Á: từ đầu thế kỉ XVI, các nước phương Tây mở rộng xâm nhập khu vực thông qua buôn bán, hệ thống thương điếm và truyền giáo để từng bước chuẩn bị xâm lược. Quá trình này diễn ra khi phần lớn các nước Đông Nam Á lâm vào thời kì suy thoái, khủng hoảng của chế độ phong kiến về chính trị, kinh tế, xã hội với nhiều cuộc nổi dậy chống phong kiến.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 5 (Mục 1.a): Làm rõ điều kiện khách quan và chủ quan khiến các quốc gia phong kiến Đông Nam Á lần lượt rơi vào ách thực dân phương Tây.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.a), tr. 30
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.a), tr. 30; SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.a), tr. 30, 31
+
+### historical evidence of Vietnam's maritime sovereignty before 1884
+- **Tiếng Việt:** Chứng cứ lịch sử về chủ quyền biển đảo Việt Nam trước năm 1884
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Domestic and foreign historical sources demonstrating the continuous establishment and exercise of sovereignty over the East Sea by the Vietnamese nation and monarchical states prior to 1884, including coastal archaeological sites (Ha Long, Bau Tro, Hoa Loc) and maritime trade artifacts in Hoi An, Cu Lao Cham, and Oc Eo. This body of evidence is further corroborated by Vietnamese dynastic histories, gazetteers, ancient maps depicting Bai Cat Vang, Hoang Sa, and Truong Sa within national territory, imperial administrative records, and Western maps and accounts dating from the sixteenth century.
+- **Giải thích (VI):** Hệ thống tư liệu trong và ngoài nước chứng minh quá trình dân tộc và Nhà nước quân chủ Việt Nam xác lập, thực thi chủ quyền liên tục trên Biển Đông trước năm 1884, bao gồm các di chỉ khảo cổ văn hoá biển (Hạ Long, Bàu Tró, Hoa Lộc) và di vật thương mại biển tại Hội An, Cù Lao Chàm, Óc Eo. Nguồn chứng cứ này còn được khẳng định qua các bộ chính sử, địa chí, bản đồ cổ Việt Nam thể hiện Bãi Cát Vàng, Hoàng Sa, Trường Sa thuộc lãnh thổ nước ta, văn bản hành chính triều đình cùng bản đồ và ghi chép của người phương Tây từ thế kỉ XVI.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 3 (Mục 1.a): Hệ thống hoá tư liệu khảo cổ, thư tịch, bản đồ và văn bản hành chính khẳng định chủ quyền biển đảo Việt Nam thời kì trước năm 1884.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 3 (Mục 1.a), tr. 230, 231; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 3 (Mục 1.a), tr. 232; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 3, tr. 230; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 3 (Mục 1.a), tr. 230
+
+### historical evidence of Vietnam's maritime sovereignty since 1884
+- **Tiếng Việt:** Chứng cứ lịch sử về chủ quyền biển đảo Việt Nam từ sau năm 1884
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The continuous body of administrative and legal evidence from the 1884 Treaty of Patenôtre to the present, beginning with French colonial authorities acting on Vietnam's behalf to establish administrative units, erect sovereignty markers, lighthouses, and meteorological stations, station troops on Hoang Sa and Truong Sa, and affirm sovereignty unopposed at the September 1951 San Francisco Peace Conference. Following the 1954 Geneva Accords and national reunification, Vietnamese authorities and the Socialist Republic of Vietnam have continuously issued administrative decrees, developed and defended maritime territories, and reaffirmed sovereignty at international forums.
+- **Giải thích (VI):** Hệ thống bằng chứng pháp lí – hành chính liên tục từ sau Hiệp ước Pa-tơ-nốt (1884) đến nay, mở đầu bằng việc chính quyền Pháp đại diện Việt Nam lập đơn vị hành chính, xây dựng bia chủ quyền, hải đăng, trạm khí tượng, cử quân đồn trú trên Hoàng Sa, Trường Sa và tuyên bố chủ quyền tại Hội nghị Hoà bình Xan Phran-xi-xcô (9 – 1951) không gặp sự phản đối. Từ sau Hiệp định Giơ-ne-vơ năm 1954 và sau ngày đất nước thống nhất, các chính quyền tại Việt Nam cùng Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam tiếp tục ban hành văn bản quản lí hành chính, khai thác, bảo vệ biển đảo và khẳng định chủ quyền tại các diễn đàn quốc tế.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 3 (Mục 1.a): Chứng minh tính liên tục trong quản lí nhà nước và khẳng định chủ quyền biển đảo của Việt Nam từ năm 1884 đến nay.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 3 (Mục 1.a), tr. 232, 233; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 3 (Mục 1.a), tr. 232
 
 ### historical lessons from uprisings and wars of national liberation in Vietnam
 - **Tiếng Việt:** Bài học lịch sử của các cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam
@@ -3052,8 +3477,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The campaign to liberate Saigon–Gia Dinh at the climax of the Spring 1975 General Offensive and Uprising, launched at 5:00 p.m. on April 26, 1975, after the destruction of the Xuan Loc and Phan Rang defense bases, as five army columns converged on the city center to seize the central headquarters of the Saigon regime and achieved total victory when the revolutionary flag flew atop the Independence Palace.
 - **Giải thích (VI):** Chiến dịch giải phóng Sài Gòn – Gia Định giữ vai trò đỉnh cao của cuộc Tổng tiến công và nổi dậy Xuân 1975, mở màn lúc 17 giờ ngày 26 – 4 – 1975 sau khi tiêu diệt các căn cứ phòng thủ Xuân Lộc và Phan Rang với năm cánh quân cùng tiến vào trung tâm thành phố đánh chiếm các cơ quan đầu não của chính quyền Sài Gòn và toàn thắng khi lá cờ cách mạng tung bay trên nóc Dinh Độc Lập.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.e): Chiến dịch giải phóng Sài Gòn – Gia Định, đỉnh cao của cuộc Tổng tiến công và nổi dậy Xuân 1975.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 51; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 51, 52
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The final decisive strategic campaign of the Spring 1975 General Offensive and Uprising (April 26–30, 1975), conducted under the motto “Lightning speed, audacity, surprise, certain victory” as five army columns converged on key command centers in Saigon. Around noon on April 30, 1975, Liberation Army tanks entered Independence Palace, compelling the unconditional surrender of the Saigon cabinet under President Duong Van Minh and raising the revolutionary flag atop the palace at 11:30 a.m. to mark total victory. / VI: Chiến dịch quyết chiến chiến lược cuối cùng của cuộc Tổng tiến công và nổi dậy Xuân 1975 (từ ngày 26 – 4 đến ngày 30 – 4 – 1975), tiến hành với phương châm “Thần tốc, táo bạo, bất ngờ, chắc thắng” cùng năm cánh quân đánh chiếm các cơ quan đầu não tại Sài Gòn. Trưa ngày 30 – 4 – 1975, xe tăng Quân Giải phóng tiến vào Dinh Độc Lập buộc nội các chính quyền Sài Gòn do Tổng thống Dương Văn Minh đứng đầu tuyên bố đầu hàng vô điều kiện và cắm lá cờ cách mạng trên nóc dinh lúc 11 giờ 30 phút, báo hiệu chiến dịch toàn thắng.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.e): Chiến dịch giải phóng Sài Gòn – Gia Định, đỉnh cao của cuộc Tổng tiến công và nổi dậy Xuân 1975.
+  - Lịch sử và Địa lí lớp 9, Bài 17 (Mục 2): Chiến dịch đỉnh cao giải phóng Sài Gòn – Gia Định trong cuộc Tổng tiến công và nổi dậy Xuân 1975.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 51; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 51, 52; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 2), tr. 89, 90; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 2), tr. 89; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 2), tr. 90; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 2), tr. 90, 91
 
 ### Ho Chi Minh City
 - **Tiếng Việt:** Thành phố Hồ Chí Minh
@@ -3072,12 +3500,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B17 (Mục 2), tr. 108; SGK Lịch sử 12 KNTT, Chủ đề 06, B17 (Mục 2), tr. 108, 109
 
 ### Ho Chi Minh Trail
-- **Tiếng Việt:** Đường Hồ Chí Minh
+- **Tiếng Việt:** Đường Hồ Chí Minh (Đường Trường Sơn – Đường Hồ Chí Minh; Đường Trường Sơn)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The strategic supply and reinforcement network connecting the Northern rear to the Southern frontline during the resistance war against the United States, comprising the overland Ho Chi Minh Trail (Truong Son Road) and the maritime Ho Chi Minh Trail alongside fuel pipelines, air routes, and legal financial transfer channels.
 - **Giải thích (VI):** Hệ thống tuyến tiếp tế và chi viện chiến lược từ hậu phương miền Bắc cho tiền tuyến miền Nam trong thời kì chống Mỹ, cứu nước, bao gồm đường Hồ Chí Minh trên bộ (đường Trường Sơn), đường Hồ Chí Minh trên biển cùng các tuyến đường ống xăng dầu, đường hàng không và đường chuyển ngân hợp pháp.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.d): Hệ thống tuyến đường chi viện chiến lược từ hậu phương miền Bắc vào tiền tuyến miền Nam.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 50; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 50; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 50, 51
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A strategic overland and maritime military supply network formed starting in 1959 (commemorated on the May 19, 1959 founding date of Group 559), playing a vital role in transporting troops, weapons, food, and materiel from the Northern rear to the Southern battlefield during the resistance war against the United States. / VI: Tuyến chi viện quân sự chiến lược trên bộ và trên biển được hình thành từ năm 1959 (gắn với ngày truyền thống 19 – 5 – 1959 của Đoàn 559 và Bộ đội Trường Sơn), giữ vai trò trọng yếu trong việc vận chuyển sức người, vũ khí, lương thực từ hậu phương miền Bắc vào chiến trường miền Nam trong cuộc kháng chiến chống Mỹ, cứu nước.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.d): Hệ thống tuyến đường chi viện chiến lược từ hậu phương miền Bắc vào tiền tuyến miền Nam.
+  - Lịch sử và Địa lí lớp 9, Bài 16 (Mục 1.b, 1.c): tuyến giao liên, vận tải quân sự chiến lược chi viện từ hậu phương miền Bắc cho tiền tuyến miền Nam.
+  - *Lưu ý:* Known in Vietnam as Đường Trường Sơn – Đường Hồ Chí Minh, encompassing both the overland Truong Son route and the maritime supply route established in 1959.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 50; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 50; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 50, 51; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 1.b), tr. 81, 82; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 1.b), tr. 82; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 1.a), tr. 81; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 1.b), tr. 81
 
 ### Ho Chi Minh Trail at Sea
 - **Tiếng Việt:** Đường Hồ Chí Minh trên biển
@@ -3135,7 +3567,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A major peasant uprising in Dang Ngoai lasting from 1739 to 1769 initiated by Hoang Cong Chat in Son Nam before building a stronghold in Dien Bien (Ban Phu Citadel). Supported wholeheartedly by the people of the Northwest for defending the borderlands and stabilizing livelihoods, the movement continued under his son until its suppression in 1769.
 - **Giải thích (VI):** Cuộc khởi nghĩa nông dân tiêu biểu ở Đàng Ngoài diễn ra từ năm 1739 đến năm 1769 do Hoàng Công Chất khởi xướng tại Sơn Nam rồi xây dựng căn cứ ở Điện Biên (thành Bản Phủ). Nghĩa quân được nhân dân Tây Bắc hết lòng ủng hộ nhờ công bảo vệ biên giới và giúp dân ổn định cuộc sống, tiếp tục duy trì dưới quyền con trai ông cho đến khi bị dập tắt năm 1769.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 7 (Mục 2): cuộc khởi nghĩa kéo dài 30 năm gắn với công cuộc bảo vệ biên giới Tây Bắc trong phong trào nông dân Đàng Ngoài thế kỉ XVIII.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 32
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 32; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7, tr. 30; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 32, 33
 
 ### Hoang Sa Flotilla and Bac Hai Flotilla
 - **Tiếng Việt:** Đội Hoàng Sa và đội Bắc Hải (Đội Hoàng Sa kiêm quản Bắc Hải; đội Hoàng Sa; đội Bắc Hải)
@@ -3150,7 +3582,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 8, Chủ đề chung 2 (Mục 4): lực lượng do Nhà nước phong kiến Việt Nam thành lập thực thi chủ quyền liên tục tại hai quần đảo Hoàng Sa và Trường Sa.
   - Lịch sử và Địa lí lớp 8, Bài 6 (Mục 2): hai lực lượng dân binh nhà nước thực thi chủ quyền liên tục tại Hoàng Sa và Trường Sa thế kỉ XVII – XVIII.
   - Lịch sử và Địa lí lớp 8, Bài 16 (Mục 4): Lực lượng quân đội triều Nguyễn thực thi chủ quyền nhà nước trên hai quần đảo Hoàng Sa và Trường Sa nửa đầu thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 2.a), tr. 84; SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 2.a), tr. 84, 85; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 4), tr. 169; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 4), tr. 169, 170; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 2), tr. 29; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 4), tr. 73
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 2.a), tr. 84; SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 2.a), tr. 84, 85; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 4), tr. 169; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 4), tr. 169, 170; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 2), tr. 29; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 4), tr. 73; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 3.c), tr. 73; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 3.d), tr. 73
 
 ### Hoi An
 - **Tiếng Việt:** Hội An
@@ -3160,7 +3592,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 9 (Mục 1.c): Trung tâm ngoại thương lớn nhất Đàng Trong thế kỉ XVII – XVIII gắn với sự giao thương quốc tế và di tích Chùa Cầu.
   - *Lưu ý:* Trong mạch bài Lịch sử lớp 8, Hội An được xét với tư cách cảng thị ngoại thương lớn nhất Đàng Trong thế kỉ XVII – XVIII, phân biệt với thành phố du lịch và di sản văn hoá thế giới hiện đại.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 1.c), tr. 42
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 1.c), tr. 42; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 2), tr. 42; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 2), tr. 42, 43
 
 ### hominoid
 - **Tiếng Việt:** Vượn người
@@ -3168,16 +3600,6 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An ancient primate living approximately 5 to 6 million years ago at the earliest stage of human evolution, from which one branch evolved into archaic humans.
 - **Giải thích (VI):** Dạng linh trưởng cổ sinh sống cách ngày nay khoảng 5 – 6 triệu năm ở chặng mở đầu quá trình tiến hoá thành người, từ đó một nhánh đã phát triển thành Người tối cổ.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 4 (Mục 1): chặng mở đầu trong quá trình tiến hoá từ Vượn người thành người trên Trái Đất.
-- **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B4, tr. 17; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 1), tr. 17; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 18
-
-### Homo sapiens
-- **Tiếng Việt:** Người tinh khôn
-- **Chuyên ngành gốc:** Lịch sử
-- **Giải thích (EN):** The human species that evolved from archaic humans approximately 150,000 years ago, associated with clan communes and the formation of the three major racial groups: yellow, white, and black.
-- **Giải thích (VI):** Dạng người tiến hoá từ Người tối cổ vào khoảng 15 vạn năm trước, gắn với tổ chức công xã thị tộc và sự hình thành ba chủng tộc lớn trên thế giới gồm da vàng, da trắng và da đen.
-- **Bối cảnh:**
-  - Lịch sử và Địa lí lớp 6, Bài 4 (Mục 1) và Bài 5 (Mục 1): mốc hoàn thiện quá trình tiến hoá sinh học của loài người và chủ nhân của xã hội công xã thị tộc.
-  - *Lưu ý:* Trong tiếng Anh học thuật còn gọi là anatomically modern human (AMH) hoặc modern human.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B4, tr. 17; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 1), tr. 17; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 18
 
 ### household bondservant
@@ -3229,7 +3651,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The most representative uprising of the Can Vuong Movement, waged from 1885 to 1896 under the leadership of Phan Dinh Phung and Cao Thang, centered in Huong Khe (Ha Tinh) and operating across the western districts of Thanh Hoa, Nghe An, Ha Tinh, and Quang Binh provinces. Well-organized insurgents successfully manufactured French-style rifles and fought fiercely through two stages before weakening and dissolving after Phan Dinh Phung's death in late 1895.
 - **Giải thích (VI):** Cuộc khởi nghĩa tiêu biểu nhất trong phong trào Cần vương diễn ra từ năm 1885 đến năm 1896 do Phan Đình Phùng và Cao Thắng lãnh đạo, với căn cứ chính ở Hương Khê (Hà Tĩnh) và địa bàn rộng khắp miền Tây bốn tỉnh Thanh Hoá, Nghệ An, Hà Tĩnh, Quảng Bình. Nghĩa quân được tổ chức quy củ, chế tạo thành công súng trường theo mẫu Pháp và chiến đấu quyết liệt qua hai giai đoạn trước khi suy yếu, tan rã sau khi Phan Đình Phùng qua đời cuối năm 1895.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 18 (Mục 1.b): Cuộc khởi nghĩa có quy mô lớn, trình độ tổ chức cao và thời gian duy trì lâu nhất trong phong trào Cần vương.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 83, 84
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 83, 84; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 83
 
 ### idealism
 - **Tiếng Việt:** Chủ nghĩa duy tâm
@@ -3237,7 +3659,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A philosophical school and system of thought opposed to materialism, asserting that thought determines existence and spirit determines matter. Idealism comprises two main trends: objective idealism and subjective idealism.
 - **Giải thích (VI):** Trường phái và hệ thống quan điểm triết học đối lập với chủ nghĩa duy vật, khẳng định tư tưởng quyết định tồn tại và tinh thần quyết định vật chất. Chủ nghĩa duy tâm gồm hai khuynh hướng chính là duy tâm khách quan và duy tâm chủ quan.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 1.b): Một trong hai trường phái triết học lớn hình thành ở Hy Lạp – La Mã cổ đại (với Xô-crát, Pla-tôn, Pi-ta-go).
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 53; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 53; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143
 
 ### impact of colonial rule in Southeast Asia
 - **Tiếng Việt:** Ảnh hưởng của chế độ thực dân
@@ -3261,7 +3683,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The first higher Confucian educational institution of the Dai Viet monarchy, founded by Emperor Ly Nhan Tong in 1076 in the imperial capital of Thang Long (Hanoi) adjacent to the Temple of Literature to train scholars and support civil service examinations.
 - **Giải thích (VI):** Trường học Nho giáo cao cấp đầu tiên của nhà nước quân chủ Đại Việt, do vua Lý Nhân Tông cho thành lập năm 1076 tại kinh thành Thăng Long (Hà Nội) bên cạnh Văn Miếu nhằm đào tạo nhân tài và phục vụ chế độ khoa cử tuyển chọn quan lại.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 12 (Mục 3.c và Mục 3.d): Đánh dấu sự hình thành trung tâm giáo dục Nho học cao cấp của nhà nước Đại Việt thời Lý.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 115; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 115, 116
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 115; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 115, 116; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.b), tr. 113
 
 ### Imperial Guard
 - **Tiếng Việt:** Cấm quân
@@ -3288,7 +3710,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 11, Bài 2 (Mục 2.a): Hệ quả gắn liền với quá trình các nước tư bản phương Tây đẩy mạnh xâm lược thuộc địa nhằm tìm kiếm thị trường, thu lợi nhuận và đầu tư tư bản cuối thế kỉ XIX – đầu thế kỉ XX.
   - Lịch sử và Địa lí lớp 8, Bài 10 (Mục 1): Quá trình chuyển biến của chủ nghĩa tư bản ở các nước Âu – Mỹ từ tự do cạnh tranh sang giai đoạn đế quốc chủ nghĩa.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45
+- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91, 92; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10, tr. 44; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 2.a), tr. 45
+
+### import-substitution industrialization
+- **Tiếng Việt:** Công nghiệp hoá hướng nội
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An economic development strategy focused on expanding domestic consumer goods manufacturing to replace imports, pursued by Thailand, Indonesia, Malaysia, the Philippines, and Singapore during the 1950s and 1960s. While meeting basic domestic needs, reducing unemployment, and raising national output, it faced limitations due to shortages of capital, raw materials, and technology.
+- **Giải thích (VI):** Chiến lược phát triển kinh tế đẩy mạnh sản xuất công nghiệp tiêu dùng trong nước để thay thế hàng nhập khẩu, được nhóm nước Thái Lan, In-đô-nê-xi-a, Ma-lai-xi-a, Phi-líp-pin và Xin-ga-po thực hiện trong những năm 50, 60 của thế kỉ XX. Chiến lược này giúp đáp ứng nhu cầu cơ bản của đất nước, giải quyết thất nghiệp và tăng sản phẩm quốc dân nhưng còn bất cập về thiếu vốn, nguyên liệu và kĩ thuật.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 12 (Mục 3.b): chiến lược kinh tế thập niên 1950 – 1960 của 5 nước sáng lập ASEAN, phân biệt với công nghiệp hoá hướng ngoại giai đoạn sau.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 3.b), tr. 58; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 3.b), tr. 58, 59; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 3.a), tr. 58
 
 ### importance of the Bien Dong Sea to Vietnam's economic development
 - **Tiếng Việt:** Tầm quan trọng của Biển Đông đối với Việt Nam về phát triển kinh tế
@@ -3306,6 +3736,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 11, Bài 13 (Mục 1.a): Khẳng định giá trị lá chắn phòng thủ phía đông của Biển Đông và hệ thống biển đảo đối với an ninh Tổ quốc.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 1), tr. 81; SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 1.a), tr. 81; SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 1.b), tr. 81
 
+### Indian National Congress
+- **Tiếng Việt:** Đảng Quốc đại
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A bourgeois-democratic political party in India led by M. Gandhi, which spearheaded the Indian people's struggle for independence, the boycott of British goods, and the development of the national economy.
+- **Giải thích (VI):** Chính đảng theo khuynh hướng dân chủ tư sản ở Ấn Độ do M. Gan-đi đứng đầu, lãnh đạo nhân dân Ấn Độ đấu tranh đòi quyền độc lập, tẩy chay hàng hoá của Anh và phát triển nền kinh tế dân tộc.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 3 (Mục 2.a): Tổ chức lãnh đạo tiêu biểu của phong trào đấu tranh giành độc lập theo khuynh hướng dân chủ tư sản ở châu Á giai đoạn 1918 – 1945.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2.a), tr. 16; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2.b), tr. 16; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2.c), tr. 16, 17
+
 ### indigenous Viet culture under Northern domination
 - **Tiếng Việt:** Văn hoá bản địa của người Việt thời Bắc thuộc
 - **Chuyên ngành gốc:** Lịch sử
@@ -3314,13 +3752,37 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 17 (Mục 1): Sức sống bền bỉ của văn hoá truyền thống người Việt trước chính sách đồng hoá của phong kiến phương Bắc.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B17, tr. 78; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B17 (Mục 1), tr. 78
 
+### Indochina Congress Movement
+- **Tiếng Việt:** Phong trào Đông Dương đại hội
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A broad, open mass campaign launched by the Indochinese Communist Party upon news that the French Parliament was sending a fact-finding delegation to Indochina, aimed at gathering popular aspirations toward convening an Indochina Congress. It marked the first large-scale open struggle of the masses, inaugurating a new democratic revolutionary upsurge in Vietnam.
+- **Giải thích (VI):** Phong trào đấu tranh công khai, rộng lớn do Đảng Cộng sản Đông Dương phát động nhân dịp Quốc hội Pháp cử phái đoàn sang điều tra tình hình Đông Dương, nhằm thu thập nguyện vọng của quần chúng tiến tới triệu tập Đông Dương đại hội. Đây là phong trào đấu tranh công khai rộng lớn đầu tiên của quần chúng, mở đầu cao trào vận động cách mạng mới giai đoạn 1936 – 1939 ở Việt Nam.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 7 (Mục 2): Phong trào đấu tranh công khai mở đầu cho cao trào dân chủ 1936 – 1939 ở Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B7 (Mục 1), tr. 32; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B7 (Mục 2), tr. 32; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B7 (Mục 2), tr. 32, 33
+
+### Indochinese Communist League
+- **Tiếng Việt:** Đông Dương Cộng sản liên đoàn
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The third communist organization in Vietnam, founded in Saigon in September 1929 by progressive members of the Tan Viet Revolutionary Party and officially admitted into the Communist Party of Vietnam on February 24, 1930.
+- **Giải thích (VI):** Tổ chức cộng sản thứ ba ở Việt Nam, do những đảng viên cấp tiến trong Tân Việt Cách mạng đảng họp tại Sài Gòn thành lập vào tháng 9 – 1929 và chính thức gia nhập Đảng Cộng sản Việt Nam ngày 24 – 2 – 1930.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 6 (Mục 2.a, Mục 2.b): Tổ chức cộng sản thứ ba ra đời ở Việt Nam năm 1929, chính thức gia nhập Đảng Cộng sản Việt Nam tháng 2 – 1930.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 2.a), tr. 28; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 2.b), tr. 28; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 2.b), tr. 28, 29
+
+### Indochinese Democratic Front
+- **Tiếng Việt:** Mặt trận Dân chủ Đông Dương (Mặt trận Nhân dân phản đế Đông Dương)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A united front organization initiated by the Central Committee of the Indochinese Communist Party in July 1936 (originally named the Indochinese Anti-Imperialist People's Front) to rally broad democratic forces. It aimed to struggle against reactionary colonial rule, fascism, and the threat of war while demanding freedom, livelihood, democracy, food, clothing, and peace.
+- **Giải thích (VI):** Tổ chức mặt trận thống nhất do Hội nghị Ban Chấp hành Trung ương Đảng Cộng sản Đông Dương chủ trương thành lập vào tháng 7 – 1936 (ban đầu mang tên Mặt trận Nhân dân phản đế Đông Dương) nhằm tập hợp rộng rãi các lực lượng dân chủ. Mặt trận hướng tới mục tiêu đấu tranh chống chế độ phản động thuộc địa, chống phát xít và nguy cơ chiến tranh, đòi tự do, dân sinh, dân chủ, cơm áo và hoà bình.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 7 (Mục 2): Hình thức mặt trận thống nhất tập hợp rộng rãi các lực lượng dân chủ ở Đông Dương trong những năm 1936 – 1939.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B7 (Mục 1), tr. 32; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B7 (Mục 2), tr. 32; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B7 (Mục 2), tr. 32, 33
+
 ### Indochinese Union
 - **Tiếng Việt:** Liên bang Đông Dương
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The inter-colonial administrative union established by France after militarily pacifying Vietnam and Cambodia, headed by a French Governor-General. Initially comprising Tonkin, Annam, Cochinchina, and Cambodia, the union subsequently incorporated Laos in 1899 and Guangzhouwan in 1900.
 - **Giải thích (VI):** Tổ chức hành chính liên thuộc địa do thực dân Pháp thiết lập sau khi bình định quân sự Việt Nam và Cam-pu-chia, đặt dưới quyền cai trị của một viên Toàn quyền người Pháp. Ban đầu tổ chức này gồm Bắc Kì, Trung Kì, Nam Kì và Cam-pu-chia, sau đó sáp nhập thêm Lào vào năm 1899 và Quảng Châu Loan vào năm 1900.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 19 (Mục 1): Bộ máy thống trị hành chính tối cao của thực dân Pháp tại Đông Dương trong cuộc khai thác thuộc địa lần thứ nhất.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 1), tr. 86; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 1), tr. 86; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172, 173
 
 ### Indus Valley civilization
 - **Tiếng Việt:** Văn minh sông Ấn (văn minh Ha-ráp-pa và Mô-hen-giô Đa-rô)
@@ -3331,7 +3793,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 5 (Mục II.2.a, II.2.b): Giai đoạn mở đầu của lịch sử văn minh Ấn Độ và cội nguồn chữ viết cổ ở lưu vực sông Ấn.
   - Lịch sử và Địa lí lớp 7, Chủ đề chung 2 (Mục 1.a): minh chứng điển hình cho mối quan hệ gắn bó giữa đô thị cổ với sự hưng thịnh và suy tàn của văn minh cổ đại phương Đông.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.a), tr. 40; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 41; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1.a), tr. 171
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.a), tr. 40; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 41; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 40; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 40, 41; SGK Lịch sử và Địa lí 7 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1.a), tr. 171
 
 ### industrial bourgeoisie and proletariat
 - **Tiếng Việt:** Giai cấp tư sản công nghiệp và giai cấp vô sản
@@ -3347,7 +3809,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The segment of the bourgeoisie directly engaged in business investment and industrial production. In the late 19th and early 20th centuries, it merged with banking capital to form finance capital.
 - **Giải thích (VI):** Bộ phận giai cấp tư sản trực tiếp đầu tư kinh doanh và nắm giữ lĩnh vực sản xuất công nghiệp. Cuối thế kỉ XIX – đầu thế kỉ XX, bộ phận này dung hợp với tư bản ngân hàng tạo thành tư bản tài chính.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 10 (Mục 1): Một trong hai bộ phận tư bản dung hợp với nhau trong quá trình hình thành chủ nghĩa đế quốc.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172, 173
 
 ### industrial revolution
 - **Tiếng Việt:** Cách mạng công nghiệp
@@ -3358,7 +3820,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 7 (Mục 1.b): Khái niệm trung tâm xuyên suốt các cuộc cách mạng công nghiệp thời kì cận – hiện đại.
   - Lịch sử và Địa lí lớp 8, Bài 3 (Mục 1, 2, 3): quá trình cơ giới hoá sản xuất và tác động kinh tế – xã hội toàn diện từ nửa sau thế kỉ XVIII đến giữa thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7, tr. 58; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.b), tr. 60; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3, tr. 15; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 1), tr. 15, 16; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3), tr. 17
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7, tr. 58; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.b), tr. 60; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3, tr. 15; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 1), tr. 15, 16; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3), tr. 17; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 1), tr. 15; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 1), tr. 16
+
+### Industry 4.0
+- **Tiếng Việt:** Cách mạng 4.0 (Cuộc Cách mạng công nghiệp lần thứ tư)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The modern phase of industrial transformation whose term was first used in Germany in the early second decade of the twenty-first century before spreading worldwide, associated with major achievements including the Internet of Things (IoT), Big Data, Artificial Intelligence (AI), and cloud computing. Also known as the Fourth Industrial Revolution, it brings both opportunities to enhance labor productivity, economic competitiveness, and social governance and challenges for national development.
+- **Giải thích (VI):** Giai đoạn phát triển hiện đại của cách mạng công nghiệp với thuật ngữ xuất hiện đầu tiên ở Đức vào đầu thập kỉ thứ hai của thế kỉ XXI rồi lan rộng ra thế giới, gắn với các thành tựu nổi bật gồm vạn vật kết nối (IoT), dữ liệu lớn (Big Data), trí tuệ nhân tạo (AI) và điện toán đám mây (Cloud). Cuộc Cách mạng công nghiệp lần thứ tư vừa mang lại cơ hội nâng cao năng suất lao động, sức cạnh tranh của nền kinh tế và hiệu quả quản lí xã hội, vừa đặt ra nhiều thách thức đối với sự phát triển đất nước.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 21 (Mục 1.a, 1.b): Giai đoạn phát triển mới nhất của cách mạng khoa học – kĩ thuật thế kỉ XXI và tác động đối với Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a, 1.b), tr. 112, 114; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 112; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 112, 113; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.b), tr. 114
 
 ### influence of Chinese civilization
 - **Tiếng Việt:** Ảnh hưởng của văn minh Trung Hoa
@@ -3376,13 +3846,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 10, Bài 9 (Mục 3.a): Con đường tiếp xúc và các lĩnh vực tiếp biến văn minh Ấn Độ trong quá trình hình thành văn minh Đông Nam Á.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 3.a), tr. 83; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 3.b), tr. 83; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 3.b), tr. 83, 84
 
+### information technology
+- **Tiếng Việt:** Công nghệ thông tin
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A core technological pillar of the modern scientific and technological revolution, advancing through generations of electronic computers with superior data storage, processing, and computing capabilities alongside the widespread application of the internet.
+- **Giải thích (VI):** Lĩnh vực công nghệ trụ cột của cuộc cách mạng khoa học – kĩ thuật hiện đại, tiến dài với các thế hệ máy tính điện tử có khả năng lưu trữ, xử lí thông tin, tính toán vượt trội và mạng internet được ứng dụng rộng rãi.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 21 (Mục 1.a): Nền tảng cốt lõi thúc đẩy cuộc cách mạng khoa học – kĩ thuật hiện đại.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 112, 113; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 112; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 113
+
 ### intangible cultural heritage
 - **Tiếng Việt:** Di sản văn hoá phi vật thể
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** Spiritual creations associated with communities or individuals that carry historical, cultural, or scientific value and are recreated and transmitted across generations through oral tradition, craft apprenticeship, performance, and other practices.
 - **Giải thích (VI):** Sản phẩm tinh thần gắn với cộng đồng hoặc cá nhân, mang giá trị lịch sử, văn hoá, khoa học, được tái tạo và lưu truyền từ thế hệ này sang thế hệ khác thông qua truyền miệng, truyền nghề, trình diễn và các hình thức thực hành xã hội khác.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 4 (Mục 1.b): Phân loại nhóm di sản tinh thần dễ mai một, cần được bảo tồn qua sưu tầm, lưu giữ, truyền dạy và trình diễn.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử 10 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 28
+- **Giải thích khác (SGK GDCD 7):** EN: A category of cultural heritage manifested in spiritual products of historical, cultural, and scientific value that are continuously recreated and transmitted across generations, such as folk beliefs, festivals, and traditional performing arts. / VI: Bộ phận của di sản văn hoá thể hiện qua những sản phẩm tinh thần có giá trị lịch sử, văn hoá, khoa học, không ngừng được tái tạo và lưu truyền qua các thế hệ như các tín ngưỡng, lễ hội và loại hình nghệ thuật dân tộc.
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 4 (Mục 1.b): Phân loại nhóm di sản tinh thần dễ mai một, cần được bảo tồn qua sưu tầm, lưu giữ, truyền dạy và trình diễn.
+  - Giáo dục Kinh tế và Pháp luật lớp 7, Bài 5 (Mục 1): phân biệt nhóm di sản văn hoá tồn tại dưới dạng giá trị tinh thần với di sản văn hoá vật thể.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử 10 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 28; SGK GDCD 7 KNTT, B5, tr. 24; SGK GDCD 7 KNTT, B5 (Mục 1), tr. 24; SGK GDCD 7 KNTT, B5 (Mục 1), tr. 24, 25
 
 ### Intercolonial Union
 - **Tiếng Việt:** Hội Liên hiệp thuộc địa
@@ -3392,7 +3873,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 12, Bài 12 (Mục 2.a): Trình bày hoạt động đối ngoại nổi bật của Nguyễn Ái Quốc tại Pháp trong những năm 1911 – 1922.
   - *Lưu ý:* Phân biệt với Hội Liên hiệp các dân tộc bị áp bức ở Á Đông (thành lập tháng 7 – 1925 tại Quảng Châu, Trung Quốc).
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.a), tr. 74, 75
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.a), tr. 74, 75; SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 1), tr. 74; SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.a), tr. 74
 
 ### interdisciplinarity
 - **Tiếng Việt:** Liên ngành
@@ -3423,8 +3904,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A formal written agreement concluded and signed between two or more states to define specific issues in political, economic, military, cultural, and other relations among the participating parties.
 - **Giải thích (VI):** Văn bản thoả thuận, kí kết chính thức giữa hai hoặc nhiều quốc gia nhằm xác định các vấn đề cụ thể trong quan hệ chính trị, kinh tế, quân sự, văn hoá và các lĩnh vực khác giữa các bên tham gia.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 4 (Mục 2.b): Khái niệm công cụ pháp lí ngoại giao dùng khi tìm hiểu các văn kiện hợp tác song phương và đa phương như các hiệp định của ASEAN.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 2.b), tr. 24
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: An official written document signed between two or more states to define specific issues concerning political, economic, military, or cultural relations among the contracting parties. / VI: Văn bản thoả thuận được kí kết giữa hai hoặc nhiều nước nhằm xác định một số vấn đề về mối quan hệ chính trị, kinh tế, quân sự, văn hoá giữa các quốc gia tham gia.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 4 (Mục 2.b): Khái niệm công cụ pháp lí ngoại giao dùng khi tìm hiểu các văn kiện hợp tác song phương và đa phương như các hiệp định của ASEAN.
+  - Lịch sử và Địa lí lớp 9, Bài 13 (Mục 3) và Bài 15 (Mục 3): khái niệm ngoại giao gắn với việc kí kết Hiệp định Sơ bộ (1946), Hiệp định Giơ-ne-vơ (1954), Hiệp định Pa-ri (1973).
+  - *Lưu ý:* Corresponds to the Vietnamese diplomatic term 'hiệp định', denoting formal bilateral or multilateral agreements between states.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 2.b), tr. 24; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B13 (Mục 3), tr. 66; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237
 
 ### international integration achievements of Vietnam during Doi Moi
 - **Tiếng Việt:** Thành tựu hội nhập quốc tế của Việt Nam thời kì Đổi mới
@@ -3432,7 +3917,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Comprehensive outcomes that transformed Vietnam from an encircled, embargoed country into a nation holding diplomatic ties with 189 out of 193 countries and territories, strategic and comprehensive partnerships, relations with 247 political parties in 111 countries, and parliamentary ties with over 140 countries. Integration has also deepened across multi-level economic links driving growth, investment, and exports, bilateral and multilateral defense cooperation and peacekeeping, and international cooperation in culture, education, science and technology, healthcare, and environmental protection.
 - **Giải thích (VI):** Hệ thống kết quả đối ngoại đưa Việt Nam từ một quốc gia bị bao vây, cấm vận tiến tới thiết lập quan hệ ngoại giao với 189/193 quốc gia và vùng lãnh thổ, xây dựng các quan hệ đối tác chiến lược, đối tác toàn diện, có quan hệ với 247 chính đảng ở 111 quốc gia và Quốc hội, Nghị viện của hơn 140 nước. Quá trình hội nhập đồng thời phát triển sâu rộng về kinh tế thúc đẩy tăng trưởng, đầu tư nước ngoài và xuất khẩu, mở rộng hợp tác quốc phòng và tham gia gìn giữ hoà bình, cũng như đẩy mạnh giao lưu văn hoá, giáo dục, khoa học – công nghệ, y tế và bảo vệ môi trường.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 11 (Mục 1.d): Hệ thống hoá các thành tựu hội nhập quốc tế toàn diện của Việt Nam từ năm 1986 đến nay.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.d), tr. 69, 70; SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.d), tr. 71
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.d), tr. 69, 70; SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.d), tr. 71; SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.c), tr. 69; SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.d), tr. 69
 
 ### International Workers' Day
 - **Tiếng Việt:** Ngày Quốc tế Lao động
@@ -3440,7 +3925,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The annual international day of solidarity and struggle for the working class and laborers observed on May 1 since 1889. It originated from the massive strikes for an eight-hour workday by hundreds of thousands of American workers on May 1, 1886, centered on the general strike of nearly 400,000 workers in Chicago.
 - **Giải thích (VI):** Ngày kỉ niệm đoàn kết đấu tranh của giai cấp công nhân và người lao động trên toàn thế giới diễn ra vào ngày 1/5 hằng năm, chính thức xác lập từ năm 1889. Sự kiện này bắt nguồn từ phong trào đình công đòi ngày làm việc 8 giờ của hàng chục vạn công nhân Mỹ vào ngày 1/5/1886, tiêu biểu là cuộc tổng bãi công của gần 40 vạn công nhân tại Chi-ca-gô.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 4.b): Dấu mốc tiêu biểu trong phong trào đấu tranh đòi quyền lợi của giai cấp công nhân thế giới cuối thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 4.b), tr. 51
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 4.b), tr. 51; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 4.c), tr. 51
 
 ### Islam in Southeast Asia
 - **Tiếng Việt:** Hồi giáo ở Đông Nam Á
@@ -3520,7 +4005,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 11 (Mục 3.b): Trình bày sự ra đời, thể chế quân chủ và thời kì phát triển thịnh đạt của nhà nước Phù Nam.
   - Lịch sử và Địa lí lớp 6, Bài 20 (Mục 1): Quá trình hình thành, phát triển hưng thịnh và suy vong của vương quốc cổ ở Nam Bộ từ thế kỉ I đến thế kỉ VII.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 3.a), tr. 104; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 3.b), tr. 104; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 3.b), tr. 105; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B20, tr. 91; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B20 (Mục 1), tr. 92; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B20 (Mục 2.a), tr. 92
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 3.a), tr. 104; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 3.b), tr. 104; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 3.b), tr. 105; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 3.a), tr. 103; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B20, tr. 91; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B20 (Mục 1), tr. 92; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B20 (Mục 2.a), tr. 92
 
 ### Kingdom of Linyi
 - **Tiếng Việt:** Nước Lâm Ấp (Chăm-pa)
@@ -3528,7 +4013,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An ancient kingdom founded in 192 CE following an uprising by the people of Tuong Lam District (Nhat Nam Commandery) under the leadership of Khu Lien that overthrew Han dynasty rule. Its capital was established at Sinhapura (Tra Kieu, Quang Nam), and the polity later took the name Champa.
 - **Giải thích (VI):** Quốc gia cổ ra đời năm 192 sau cuộc nổi dậy của nhân dân huyện Tượng Lâm (quận Nhật Nam) dưới sự lãnh đạo của Khu Liên nhằm lật đổ ách cai trị của nhà Hán. Nhà nước này đóng đô tại Sin-ha-pu-ra (Trà Kiệu, Quảng Nam) và về sau mang quốc hiệu Chăm-pa.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 11 (Mục 2.b): Nêu mốc ra đời năm 192 của nhà nước cổ mở đầu vương quốc Chăm-pa.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.a), tr. 100; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.b), tr. 100
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.a), tr. 100; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.b), tr. 100; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.a), tr. 99
 
 ### Kra-Dai language family
 - **Tiếng Việt:** Ngữ hệ Thái – Ka-đai
@@ -3546,6 +4031,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 5 (Mục 1.c): Văn kiện đánh dấu sự ra đời chính thức của Cộng đồng ASEAN vào cuối năm 2015.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 1.c), tr. 27; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 2), tr. 27; SGK Lịch sử 12 KNTT, Chủ đề 02, B5 (Mục 2.a), tr. 27
 
+### Kuomintang-Communist Cooperation
+- **Tiếng Việt:** Quốc – Cộng hợp tác
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A truce and alliance between the Kuomintang and the Chinese Communist Party, initiated at the proposal of the Chinese Communist Party when Japan expanded its war of aggression across China in July 1937, to jointly wage resistance against Japan.
+- **Giải thích (VI):** Sự đình chiến và liên minh giữa Quốc dân đảng với Đảng Cộng sản Trung Quốc theo đề nghị chủ động của Đảng Cộng sản Trung Quốc khi Nhật Bản mở rộng chiến tranh xâm lược toàn bộ Trung Quốc vào tháng 7 – 1937, nhằm cùng kháng chiến chống Nhật Bản.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 3 (Mục 2.b): Sự phối hợp hành động giữa Đảng Cộng sản Trung Quốc và Quốc dân đảng trong cuộc kháng chiến chống quân phiệt Nhật Bản từ năm 1937.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2.a), tr. 16; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2.b), tr. 16; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2.c), tr. 16, 17
+
 ### ky nam agarwood
 - **Tiếng Việt:** Kì nam
 - **Chuyên ngành gốc:** Lịch sử
@@ -3560,7 +4053,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An international climate change treaty signed by Vietnam with commitments to reduce greenhouse gas emissions as part of global environmental cooperation.
 - **Giải thích (VI):** Điều ước quốc tế về biến đổi khí hậu mà Việt Nam tham gia kí kết với cam kết giảm lượng phát thải khí nhà kính trong hợp tác bảo vệ môi trường toàn cầu.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 14 (Mục 2): Trình bày hoạt động đối ngoại của Việt Nam trong hợp tác bảo vệ môi trường và ứng phó biến đổi khí hậu.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 86, 87
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 86, 87; SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 86
 
 ### Lac Hau
 - **Tiếng Việt:** Lạc hầu
@@ -3592,7 +4085,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A broad popular war of national liberation (1418–1427) led by a high command headed by Le Loi and Nguyen Trai through sound and creative military and diplomatic strategies. Its victory ended more than twenty years of Ming domination, fully restored national independence, and ushered in a new era of development for Dai Viet.
 - **Giải thích (VI):** Cuộc chiến tranh giải phóng dân tộc mang tính chất nhân dân rộng rãi (1418 – 1427) do bộ chỉ huy đứng đầu là Lê Lợi và Nguyễn Trãi lãnh đạo với đường lối quân sự, ngoại giao đúng đắn, sáng tạo. Thắng lợi của cuộc khởi nghĩa đã chấm dứt hơn hai mươi năm đô hộ của nhà Minh, khôi phục hoàn toàn nền độc lập và mở ra thời kì phát triển mới của Đại Việt.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1, 2): Cuộc đấu tranh giải phóng dân tộc lật đổ ách thống trị của nhà Minh đầu thế kỉ XV.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 79; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 82; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 2), tr. 82
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 79; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 82; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 2), tr. 82; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.b), tr. 79
 
 ### Lan Xang Kingdom
 - **Tiếng Việt:** Vương quốc Lan Xang (Lan Xang; Triệu Voi)
@@ -3608,7 +4101,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A historical designation in certain chronicles denoting the elevated core homeland of the Khmer people (in present-day Cambodia) under the direct rule of the Chenla royal court after the 7th century, distinguished from Water Chenla to the south.
 - **Giải thích (VI):** Tên gọi trong một số sử sách dùng để chỉ vùng đất gốc có địa hình cao của người Khơ-me (nay thuộc Cam-pu-chia) nằm dưới quyền kiểm soát trực tiếp của triều đình Chân Lạp từ sau thế kỉ VII, phân biệt với vùng Thuỷ Chân Lạp ở phía nam.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 2.a): Thuật ngữ lịch sử dùng để phân biệt địa bàn kiểm soát trực tiếp của Chân Lạp với khu vực Nam Bộ.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.a), tr. 93, 94
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.a), tr. 93, 94; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 93; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.a), tr. 93
+
+### Land Reform in Northern Vietnam
+- **Tiếng Việt:** Cải cách ruộng đất ở miền Bắc
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A socio-economic transformation conducted across five waves in Northern Vietnam from late 1953 to 1956, confiscating, requisitioning, and compulsorily purchasing over 810,000 hectares of land from imperialists and landlords for distribution to roughly 2.2 million peasant and rural poor households. It turned the slogan "Land to the Tiller" into reality, abolished the feudal landlord class, and liberated peasants to become masters of the countryside.
+- **Giải thích (VI):** Cuộc cải cách kinh tế – xã hội tiến hành qua 5 đợt tại nông thôn miền Bắc (từ cuối năm 1953 đến năm 1956), thực hiện tịch thu, trưng thu, trưng mua trên 81 vạn héc-ta ruộng đất của đế quốc và địa chủ chia cho khoảng 2,2 triệu hộ nông dân và dân nghèo. Cuộc cải cách đã hiện thực hoá khẩu hiệu “Người cày có ruộng”, xoá bỏ giai cấp địa chủ phong kiến và giải phóng giai cấp nông dân trở thành người làm chủ nông thôn.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 16 (Mục 1.a): cuộc cải cách xoá bỏ chế độ chiếm hữu ruộng đất phong kiến ở miền Bắc sau ngày giải phóng.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 1.a), tr. 80; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 1.a), tr. 80, 81; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16, tr. 80
 
 ### landholding limitation policy
 - **Tiếng Việt:** Chính sách hạn điền (Hạn điền)
@@ -3619,7 +4120,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 11, Bài 9 (Mục 2, 3): Biện pháp cải cách ruộng đất trọng tâm của Hồ Quý Ly nhằm xoá bỏ thế lực điền trang quý tộc thời Trần.
   - Lịch sử và Địa lí lớp 7, Bài 15 (Mục 2.a): Chính sách cải cách ruộng đất của Hồ Quý Ly cuối thế kỉ XIV – đầu thế kỉ XV.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 05, B9 (Mục 2), tr. 62; SGK Lịch sử 11 KNTT, Chủ đề 05, B9 (Mục 2), tr. 62, 63; SGK Lịch sử 11 KNTT, Chủ đề 05, B9 (Mục 3), tr. 63; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.a), tr. 75; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 05, B9 (Mục 2), tr. 62; SGK Lịch sử 11 KNTT, Chủ đề 05, B9 (Mục 2), tr. 62, 63; SGK Lịch sử 11 KNTT, Chủ đề 05, B9 (Mục 3), tr. 63; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.a), tr. 75; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176
 
 ### landlord
 - **Tiếng Việt:** Địa chủ
@@ -3651,7 +4152,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A national hero of the Philippines and indigenous chieftain on Mactan Island who led his forces to defeat Spanish colonizers in 1521. His image has been chosen as a symbol of fighting spirit and bravery for the Philippine National Police and Bureau of Fire Protection today.
 - **Giải thích (VI):** Người anh hùng dân tộc của Phi-líp-pin, thủ lĩnh thổ dân ở đảo Mác-tan đã lãnh đạo đội quân đánh thắng thực dân Tây Ban Nha năm 1521. Hình ảnh của ông là biểu tượng cho ý chí chiến đấu và sự dũng cảm của lực lượng Cảnh sát cùng Cục Phòng cháy chữa cháy Phi-líp-pin ngày nay.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 5 (Mục 1.a): Tấm gương mở đầu cho tinh thần kháng chiến chống thực dân phương Tây xâm lược của cư dân Đông Nam Á hải đảo.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.a), tr. 31
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.a), tr. 31; SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.a), tr. 31, 32
 
 ### late 19th-century Vietnamese reform movement
 - **Tiếng Việt:** Trào lưu cải cách nửa sau thế kỉ XIX
@@ -3659,7 +4160,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A movement advocating national modernization by Vietnamese scholars and mandarins in the second half of the 19th century (notably Nguyen Truong To, Tran Dinh Tuc, and Nguyen Lo Trach) through reform memorials submitted to the Hue court amid feudal crisis and French invasion. It reflected progressive awareness among Vietnamese intellectuals and helped lay the ideological groundwork for the early 20th-century Duy Tan reform movement.
 - **Giải thích (VI):** Xu hướng đề xuất canh tân đất nước của các văn thân, sĩ phu Việt Nam nửa sau thế kỉ XIX (tiêu biểu là Nguyễn Trường Tộ, Trần Đình Túc, Nguyễn Lộ Trạch) thông qua các bản điều trần gửi triều đình Huế giữa lúc chế độ phong kiến khủng hoảng và phải chống Pháp xâm lược. Trào lưu này phản ánh nhận thức tiến bộ của người Việt Nam và góp phần chuẩn bị tiền đề tư tưởng cho phong trào Duy tân đầu thế kỉ XX.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 17 (Mục 3): Các đề nghị canh tân đất nước ở Việt Nam nửa cuối thế kỉ XIX và ý nghĩa mở đường cho phong trào Duy tân.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 3), tr. 80, 81
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 3), tr. 80, 81; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 2.b), tr. 80; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 3), tr. 80
 
 ### Latin alphabet
 - **Tiếng Việt:** Chữ La-tinh (hệ chữ cái La-tinh)
@@ -3670,7 +4171,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 6 (Mục 1.b): Thành tựu chữ viết có sức sống trường tồn của văn minh La Mã cổ đại.
   - Lịch sử và Địa lí lớp 6, Bài 10 (Mục 4): thành tựu chữ viết tiêu biểu của văn minh Hy Lạp – La Mã cổ đại còn giá trị đến ngày nay.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 50, 51; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 4), tr. 48; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 4), tr. 48, 49; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 50, 51; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 50; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 50; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 4), tr. 48; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 4), tr. 48, 49; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190
 
 ### law of conservation and transformation of energy
 - **Tiếng Việt:** Định luật bảo toàn và chuyển hoá năng lượng
@@ -3680,7 +4181,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 13 (Mục 1.a): Một trong những phát minh khoa học tự nhiên trọng đại thế kỉ XVIII thúc đẩy cách mạng công nghiệp.
   - *Lưu ý:* Trong phân môn Lịch sử lớp 8, định luật được xét dưới góc độ thành tựu lịch sử khoa học tự nhiên thế kỉ XVIII của M. Lô-mô-nô-xốp.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 56, 57
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 56, 57; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13, tr. 56; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 56
 
 ### Law of the Sea of Vietnam
 - **Tiếng Việt:** Luật biển Việt Nam
@@ -3688,7 +4189,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A national statute passed by the National Assembly of Vietnam in 2012 establishing the domestic legal foundation for firmly safeguarding maritime and island sovereignty and developing the marine economy.
 - **Giải thích (VI):** Đạo luật do Quốc hội Việt Nam thông qua năm 2012 nhằm xác lập cơ sở pháp lí quốc gia vững chắc để bảo vệ chủ quyền biển đảo và phát triển kinh tế biển.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 9 (Mục 2.c): Nêu đạo luật khẳng định cơ sở pháp lí quốc gia bảo vệ chủ quyền biển đảo và phát triển kinh tế biển của Việt Nam.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.c), tr. 58
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.c), tr. 58; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 3), tr. 58
 
 ### law of universal gravitation
 - **Tiếng Việt:** Thuyết vạn vật hấp dẫn
@@ -3698,7 +4199,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 13 (Mục 1.a): Thành tựu mở đầu tiêu biểu của khoa học tự nhiên thế kỉ XVIII gắn với tên tuổi I. Niu-tơn.
   - *Lưu ý:* Trong phân môn Lịch sử lớp 8, khái niệm được tiếp cận như một thành tựu tiêu biểu của khoa học tự nhiên đầu thế kỉ XVIII thay vì đi sâu vào biểu thức định lượng Vật lí.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 56, 57
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 56, 57; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13, tr. 56; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 56
 
 ### Le Hoan
 - **Tiếng Việt:** Lê Hoàn (Thập đạo tướng quân)
@@ -3722,7 +4223,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A prestigious local chieftain from Lam Son (Thanh Hoa) who devoted his family fortune to recruiting talented patriots, organized the Lung Nhai Oath (1416), and proclaimed himself King Binh Dinh to launch the Lam Son Uprising in early 1418. As supreme commander, he led the uprising to complete victory over the Ming occupiers and ascended the throne in 1428, founding the Early Le Dynasty.
 - **Giải thích (VI):** Vị hào trưởng uy tín ở vùng Lam Sơn (Thanh Hoá), người đã dốc gia sản chiêu tập hào kiệt, tổ chức Hội thề Lũng Nhai (1416) và xưng Bình Định Vương dựng cờ khởi nghĩa Lam Sơn đầu năm 1418. Ông là chủ tướng lãnh đạo cuộc khởi nghĩa giành thắng lợi hoàn toàn trước quân Minh và lên ngôi hoàng đế năm 1428, sáng lập vương triều Lê sơ.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.a), Bài 17 (Mục 1): Vị lãnh tụ tối cao của khởi nghĩa Lam Sơn và hoàng đế sáng lập nhà Lê sơ.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16, tr. 78; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 78, 79; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 83
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16, tr. 78; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 78, 79; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 83; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 78
+
+### Le Paria
+- **Tiếng Việt:** Báo Người cùng khổ (Le Paria)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A revolutionary newspaper of the Intercolonial Union in Paris (France), for which Nguyen Ai Quoc served as managing director and editor-in-chief beginning in 1922.
+- **Giải thích (VI):** Tờ báo cách mạng của Hội Liên hiệp thuộc địa tại Pa-ri (Pháp), do Nguyễn Ái Quốc làm Chủ nhiệm kiêm chủ bút từ năm 1922.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 6 (Mục 1): Tờ báo cách mạng tiêu biểu gắn với hoạt động báo chí của Nguyễn Ái Quốc và Hội Liên hiệp thuộc địa tại Pháp.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 1), tr. 27
 
 ### leader
 - **Tiếng Việt:** Lãnh tụ
@@ -3730,7 +4239,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A highly respected figure trusted to head and guide an organization, a political party, or a nation. In the history of the 19th- and early 20th-century international labor movement, the term is closely associated with the theoretical and practical leadership of Karl Marx, Friedrich Engels, and V. I. Lenin.
 - **Giải thích (VI):** Người có uy tín lớn, được tín nhiệm đứng đầu và dẫn dắt một tổ chức, một chính đảng hoặc một quốc gia. Trong lịch sử phong trào công nhân quốc tế thế kỉ XIX – đầu thế kỉ XX, khái niệm này gắn liền với vai trò dẫn đường về lí luận và thực tiễn của C. Mác, Ph. Ăng-ghen và V. I. Lê-nin.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 2, Mục 4.c): Khẳng định vai trò của C. Mác, Ph. Ăng-ghen và V. I. Lê-nin đối với phong trào cộng sản và công nhân quốc tế.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 2), tr. 49; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 2), tr. 49; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172, 173
+
+### League for the Independence of Vietnam
+- **Tiếng Việt:** Mặt trận Việt Nam độc lập đồng minh (Mặt trận Việt Minh)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A united national front founded on May 19, 1941 pursuant to the Eighth Central Committee Plenum to unite all patriotic compatriots regardless of wealth, age, gender, religion, or political tendency for national liberation. Comprising mass organizations named National Salvation Associations, it rallied broad popular participation to prepare all conditions for the victorious General Uprising.
+- **Giải thích (VI):** Mặt trận dân tộc thống nhất thành lập ngày 19 – 5 – 1941 theo chủ trương của Hội nghị Ban Chấp hành Trung ương Đảng lần thứ tám nhằm liên hiệp hết thảy các giới đồng bào yêu nước không phân biệt giàu nghèo, lứa tuổi, giới tính, tôn giáo và xu hướng chính trị để cùng mưu cuộc giải phóng dân tộc. Bao gồm các tổ chức quần chúng mang tên Hội Cứu quốc, Mặt trận đã thu hút đông đảo nhân dân chuẩn bị mọi mặt cho cuộc Tổng khởi nghĩa giành chính quyền.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 8 (Mục 2.b, Mục 4.a): Mặt trận dân tộc thống nhất tập hợp toàn dân chuẩn bị và tiến hành thắng lợi Cách mạng tháng Tám năm 1945.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 2.b), tr. 36; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 4.a), tr. 40
 
 ### League of Nations
 - **Tiếng Việt:** Hội Quốc liên
@@ -3748,7 +4265,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 12, Bài 12 (Mục 2.a): Làm rõ hoạt động đoàn kết quốc tế của Nguyễn Ái Quốc ở Quảng Châu (Trung Quốc) năm 1925.
   - *Lưu ý:* Phân biệt với Hội Liên hiệp thuộc địa (thành lập năm 1921 tại Pháp).
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.a), tr. 75
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.a), tr. 75; SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.b), tr. 75; SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.b), tr. 75, 76
 
 ### legal basis for protecting Vietnam's maritime sovereignty
 - **Tiếng Việt:** Cơ sở pháp lí bảo vệ chủ quyền biển đảo của Việt Nam
@@ -3757,6 +4274,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hệ thống văn bản pháp luật quốc gia do Việt Nam xây dựng trên nền tảng Công ước của Liên hợp quốc về Luật Biển 1982 nhằm khẳng định và bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của đất nước trên Biển Đông, tiêu biểu là Luật Biên giới quốc gia năm 2003 và Luật Biển Việt Nam năm 2012.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Chủ đề chung 2 (Mục 3.b): hệ thống pháp luật quốc gia khẳng định chủ quyền, quyền chủ quyền và quyền tài phán trên biển của Việt Nam.
 - **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 3.b), tr. 167; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 4), tr. 167; SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 4), tr. 167, 168
+
+### legal basis for protecting Vietnam's maritime sovereignty in the East Sea
+- **Tiếng Việt:** Cơ sở pháp lí bảo vệ chủ quyền biển đảo của Việt Nam ở Biển Đông
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The framework of international and domestic legal instruments affirming Vietnam's sovereignty, sovereign rights, and jurisdiction in the East Sea, anchored internationally by the 1982 United Nations Convention on the Law of the Sea (UNCLOS) and maritime agreements signed with Cambodia (1982), Malaysia (1992), Thailand (1997), China (2000), and Indonesia (2003). Building on these norms, Vietnam has enacted comprehensive domestic legislation—most notably the 2012 Law of the Sea of Vietnam, alongside the Law on National Borders, the Petroleum Law, and the Law on the Vietnam Coast Guard.
+- **Giải thích (VI):** Hệ thống văn bản pháp luật quốc tế và quốc gia khẳng định chủ quyền, quyền chủ quyền và quyền tài phán của Việt Nam ở Biển Đông, lấy Công ước Liên hợp quốc về Luật Biển năm 1982 (UNCLOS) cùng các hiệp định, thoả thuận phân định và hợp tác biển kí với Cam-pu-chia (1982), Ma-lai-xi-a (1992), Thái Lan (1997), Trung Quốc (2000), In-đô-nê-xi-a (2003) làm nền tảng quốc tế. Trên cơ sở đó, Việt Nam ban hành hệ thống pháp luật trong nước đồng bộ, tiêu biểu là Luật Biển Việt Nam năm 2012 cùng Luật Biên giới quốc gia, Luật Dầu khí và Luật Cảnh sát biển Việt Nam.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 3 (Mục 1.b): Trình bày nền tảng pháp luật quốc tế và pháp luật trong nước bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 3 (Mục 1.b), tr. 234; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 3 (Mục 2.a), tr. 234; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 3 (Mục 2.b), tr. 234
 
 ### Lenin's guiding ideology on the formation of the USSR
 - **Tiếng Việt:** Tư tưởng chỉ đạo của Lê-nin về thành lập Liên Xô
@@ -3772,7 +4297,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Four major historical lessons drawn from Vietnam's Doi Moi practice: steadfastly upholding national independence and socialism on the foundation of Marxism-Leninism and Ho Chi Minh Thought; and conducting comprehensive, synchronized renewal with appropriate steps, respecting objective laws, and closely summarizing practical experience. Furthermore, renewal must serve the people's interests under the principle of "taking the people as the root" ("people know, discuss, do, inspect, supervise, and benefit") and combine internal and external strengths as well as national strength with the strength of the era for rapid, sustainable development.
 - **Giải thích (VI):** Hệ thống bốn bài học lớn đúc kết từ thực tiễn Đổi mới ở Việt Nam: kiên trì mục tiêu độc lập dân tộc và chủ nghĩa xã hội trên nền tảng chủ nghĩa Mác – Lê-nin, tư tưởng Hồ Chí Minh; đổi mới toàn diện, đồng bộ với bước đi, cách làm phù hợp, tôn trọng quy luật khách quan và coi trọng tổng kết thực tiễn. Đồng thời, đổi mới phải vì lợi ích của nhân dân theo quan điểm “dân là gốc” cùng nguyên tắc “dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng”, kết hợp sức mạnh nội lực với ngoại lực và sức mạnh dân tộc với thời đại để phát triển đất nước nhanh, bền vững.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 11 (Mục 2): Đúc kết bốn bài học kinh nghiệm lớn từ thực tiễn công cuộc Đổi mới ở Việt Nam từ năm 1986 đến nay.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 2), tr. 71, 72
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 2), tr. 71, 72; SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.d), tr. 71; SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 2), tr. 71
 
 ### Liberation Army of South Vietnam
 - **Tiếng Việt:** Quân Giải phóng miền Nam
@@ -3787,8 +4312,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A national united front organization, formally named the Vietnamese National Popular United Front, established on March 3, 1951, through the merger of the Viet Minh Front and the Lien Viet Association to strengthen national solidarity during the resistance war.
 - **Giải thích (VI):** Tổ chức mặt trận dân tộc thống nhất mang tên đầy đủ là Mặt trận Liên hiệp quốc dân Việt Nam, ra đời ngày 3 – 3 – 1951 trên cơ sở hợp nhất Mặt trận Việt Minh và Hội Liên Việt nhằm củng cố khối đại đoàn kết toàn dân kháng chiến.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.c): Sự kiện củng cố và mở rộng khối đại đoàn kết toàn dân trong kháng chiến chống thực dân Pháp.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.c), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41, 42
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A united national front organization established in March 1951 through the merger of the Viet Minh Front and the Lien Viet Association to strengthen national unity during the anti-French resistance war. / VI: Tổ chức mặt trận dân tộc thống nhất được thành lập vào tháng 3 – 1951 trên cơ sở hợp nhất Mặt trận Việt Minh và Hội Liên Việt nhằm tăng cường khối đại đoàn kết toàn dân trong kháng chiến chống thực dân Pháp.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 7 (Mục 2.c): Sự kiện củng cố và mở rộng khối đại đoàn kết toàn dân trong kháng chiến chống thực dân Pháp.
+  - Lịch sử và Địa lí lớp 9, Bài 15 (Mục 1.a): tổ chức mặt trận dân tộc thống nhất củng cố khối đại đoàn kết toàn dân giai đoạn 1951 – 1954.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.c), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41, 42; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15 (Mục 1.a), tr. 74; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15 (Mục 1.b), tr. 74
 
 ### linga
 - **Tiếng Việt:** Lin-ga
@@ -3833,12 +4361,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 15; SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 15, 16
 
 ### Local War strategy
-- **Tiếng Việt:** Chiến lược Chiến tranh cục bộ
+- **Tiếng Việt:** Chiến lược Chiến tranh cục bộ (Chiến lược “Chiến tranh cục bộ”; “Chiến tranh cục bộ”)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A form of neocolonial war of aggression initiated by the United States in South Vietnam from mid-1965 to 1968, fought directly by US troops, US-allied forces, and the Saigon army.
 - **Giải thích (VI):** Loại hình chiến tranh xâm lược thực dân mới do Mỹ triển khai ở miền Nam Việt Nam từ giữa năm 1965 đến năm 1968, tiến hành bằng lực lượng quân đội Mỹ, quân đồng minh của Mỹ và quân đội Sài Gòn.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.c): Bản chất và lực lượng tham chiến của chiến lược chiến tranh do Mỹ tiến hành giai đoạn 1965 – 1968.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 48; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.c), tr. 48; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.c), tr. 48, 49
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A US neocolonial war strategy from 1965 to 1968 conducted by US troops, allied forces, and the Saigon army, in which US forces played the primary combat role. Relying on modern weapons and war materiel, the United States launched “search and destroy” and “pacification” operations in South Vietnam while waging a war of destruction against North Vietnam. / VI: Chiến lược chiến tranh xâm lược thực dân mới của Mỹ giai đoạn 1965 – 1968, được tiến hành bằng lực lượng quân đội Mỹ, quân một số nước đồng minh và quân đội tay sai Sài Gòn, trong đó quân Mỹ giữ vai trò chủ yếu. Dựa vào vũ khí và phương tiện chiến tranh hiện đại, Mỹ mở các cuộc hành quân “tìm diệt”, “bình định” ở miền Nam đồng thời gây chiến tranh phá hoại miền Bắc.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.c): Bản chất và lực lượng tham chiến của chiến lược chiến tranh do Mỹ tiến hành giai đoạn 1965 – 1968.
+  - Lịch sử và Địa lí lớp 9, Bài 17 (Mục 1.a): Chiến lược chiến tranh của Mỹ ở Việt Nam giai đoạn 1965 – 1968 với sự tham chiến trực tiếp của quân viễn chinh Mỹ.
+  - *Lưu ý:* Phân biệt với chiến lược “Chiến tranh đặc biệt” (1961 – 1965) và chiến lược “Việt Nam hoá chiến tranh” (1969 – 1973), trong đó quân đội Sài Gòn giữ vai trò lực lượng chiến đấu chủ yếu trên chiến trường.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 48; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.c), tr. 48; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.c), tr. 48, 49; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.a), tr. 85, 86; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17, tr. 85; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.a), tr. 85
 
 ### logical method
 - **Tiếng Việt:** Phương pháp lô-gích
@@ -3853,8 +4385,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A revolutionary force of women who combined farming with active struggle, emerging from the Dong Khoi Movement in Ben Tre under the leadership of Nguyen Thi Dinh and expanding across South Vietnam as a distinctive phenomenon of the resistance war against the United States.
 - **Giải thích (VI):** Lực lượng đấu tranh gồm những phụ nữ vừa làm ruộng vừa chiến đấu ra đời từ phong trào Đồng khởi ở Bến Tre do đồng chí Nguyễn Thị Định lãnh đạo, sau đó nhân rộng khắp miền Nam như một hiện tượng độc đáo của cuộc kháng chiến chống Mỹ, cứu nước.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.a): Lực lượng đấu tranh tiêu biểu của phụ nữ miền Nam từ phong trào Đồng khởi Bến Tre.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 1), tr. 46; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 46; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 46, 47
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The name of the mass political struggle movement and force of Southern Vietnamese women fighting against the United States for national salvation, prominently associated with the Ben Tre Dong Khoi uprising led by Nguyen Thi Dinh. / VI: Tên gọi phong trào và lực lượng đấu tranh chính trị của phụ nữ miền Nam trong cuộc kháng chiến chống Mỹ, cứu nước, tiêu biểu từ cuộc Đồng khởi ở Bến Tre dưới sự chỉ huy của bà Nguyễn Thị Định.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.a): Lực lượng đấu tranh tiêu biểu của phụ nữ miền Nam từ phong trào Đồng khởi Bến Tre.
+  - Lịch sử và Địa lí lớp 9, Bài 16 (Mục 2.a): lực lượng đấu tranh chính trị tiêu biểu của phụ nữ Bến Tre và miền Nam trong phong trào Đồng khởi và kháng chiến chống Mỹ.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 1), tr. 46; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 46; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 46, 47; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 2.a), tr. 83; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237
 
 ### lunar calendar
 - **Tiếng Việt:** Âm lịch
@@ -3870,7 +4405,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A solemn oath ceremony held by Le Loi and 18 heroic notables at Lung Nhai (Thanh Hoa) in 1416 to pledge brotherhood and affirm their determination to expel the Ming invaders. This event laid the foundation for a united leadership core prior to the formal outbreak of the Lam Son Uprising in early 1418.
 - **Giải thích (VI):** Hội thề được Lê Lợi cùng 18 hào kiệt tổ chức tại Lũng Nhai (Thanh Hoá) vào năm 1416 nhằm kết nghĩa đồng tâm và khẳng định quyết tâm đánh đuổi quân xâm lược nhà Minh. Sự kiện này đặt nền móng cho khối đoàn kết hạt nhân lãnh đạo trước khi cuộc khởi nghĩa Lam Sơn chính thức bùng nổ đầu năm 1418.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.a): Sự kiện chuẩn bị hạt nhân lãnh đạo cho cuộc khởi nghĩa Lam Sơn.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 79
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 79; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.b), tr. 79
 
 ### Luong The Vinh
 - **Tiếng Việt:** Lương Thế Vinh
@@ -3878,7 +4413,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A distinguished scholar and scientist of the Early Le Dynasty who placed as First Doctoral Laureate (Trang nguyen) in 1463 and achieved renown in mathematics through works such as 'Compendium of Mathematical Methods' ('Dai thanh toan phap') and 'Buddhist Liturgical Textbook' ('Thien mon giao khoa'). Admired for his broad erudition, versatility, and unassuming character, he was deeply respected by both the royal court and the common people.
 - **Giải thích (VI):** Danh nhân khoa học và văn hoá thời Lê sơ, đỗ Trạng nguyên năm 1463, nổi tiếng là nhà toán học uyên bác với các công trình 'Đại thành toán pháp' và 'Thiền môn giáo khoa'. Nhờ học rộng, tài cao cùng cốt cách khoáng đạt, bình dị, ông được cả nhà vua lẫn nhân dân đương thời hết mực quý trọng.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 4.d): Danh nhân toán học và văn hoá xuất sắc của Đại Việt thế kỉ XV.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.d), tr. 88
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.d), tr. 88; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.b), tr. 88; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.c), tr. 88
 
 ### Luy Lau Ancient Citadel
 - **Tiếng Việt:** Thành cổ Luy Lâu
@@ -4006,7 +4541,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The programmatic document of the Communist League drafted by Karl Marx and Friedrich Engels and published in early 1848, setting forth fundamental theses on human social development and the historical mission of the working class. Its publication marked the birth of scientific socialism.
 - **Giải thích (VI):** Văn kiện cương lĩnh của Đồng minh những người cộng sản do C. Mác và Ph. Ăng-ghen soạn thảo, công bố vào đầu năm 1848 nhằm trình bày những luận điểm cơ bản về quy luật phát triển của xã hội loài người và sứ mệnh của giai cấp công nhân. Sự ra đời của văn kiện này đánh dấu mốc hình thành chủ nghĩa xã hội khoa học.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mở đầu, Mục 2): Văn kiện lí luận nền tảng của giai cấp vô sản và phong trào cộng sản quốc tế thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11, tr. 48; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 2), tr. 49
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11, tr. 48; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 2), tr. 49; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 1), tr. 49
 
 ### manipulation
 - **Tiếng Việt:** Thao túng
@@ -4014,7 +4549,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The act of holding power or resources to control and compel other actors or sectors to operate according to one's own will. In early 20th-century economic history, it describes how industrial and financial monopolies came to control an entire national economy.
 - **Giải thích (VI):** Hành vi nắm giữ quyền lực hoặc nguồn lực để chi phối, buộc các chủ thể hay lĩnh vực khác phải vận hành theo chủ ý riêng. Trong lịch sử kinh tế đầu thế kỉ XX, khái niệm này phản ánh việc các công ti độc quyền công nghiệp và tài chính chi phối toàn bộ nền kinh tế quốc gia.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 10 (Mục 2.a): Phản ánh vai trò chi phối nền kinh tế của các công ti độc quyền ở đế quốc Anh đầu thế kỉ XX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 2.a), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 2.a), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172, 173
 
 ### Maphilindo
 - **Tiếng Việt:** Tổ chức MAPHILINDO (MAPHILINDO)
@@ -4023,6 +4558,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tổ chức hợp tác khu vực ở Đông Nam Á được thành lập năm 1963 gồm ba nước Ma-lai-xi-a, Phi-líp-pin và In-đô-nê-xi-a, chỉ tồn tại trong thời gian ngắn do những bất đồng trong quan hệ song phương giữa các nước thành viên.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 4 (Mục 1.a): Tổ chức liên kết khu vực đầu những năm 60 của thế kỉ XX phản ánh nhu cầu hợp tác trước khi thành lập ASEAN.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 1.a), tr. 22; SGK Lịch sử 12 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 22
+
+### Marshall Plan
+- **Tiếng Việt:** Kế hoạch Mác-san
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An economic aid program proposed by the United States in 1947 that invested approximately 13 billion USD to help 16 Western European countries recover economically after World War II within the context of Cold War confrontation.
+- **Giải thích (VI):** Chương trình viện trợ kinh tế do Mỹ đề ra năm 1947 với khoản đầu tư khoảng 13 tỉ USD nhằm giúp 16 nước Tây Âu phục hồi kinh tế sau Chiến tranh thế giới thứ hai trong bối cảnh đối đầu Chiến tranh lạnh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 9 (Mục 2) và Bài 11 (Mục 2): Chương trình viện trợ kinh tế của Mỹ giúp Tây Âu phục hồi kinh tế và lôi kéo Tây Âu vào liên minh chống Liên Xô trong Chiến tranh lạnh.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 2), tr. 42; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 2), tr. 42, 43; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B11, tr. 49
 
 ### material life of Van Lang-Au Lac inhabitants
 - **Tiếng Việt:** Đời sống vật chất của cư dân Văn Lang – Âu Lạc
@@ -4046,7 +4589,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A philosophical school and system of thought opposed to idealism, asserting that the world is material, exists objectively and eternally without a creator, and is independent of consciousness. According to this view, consciousness and thought are properties of matter, and the world and its laws are knowable.
 - **Giải thích (VI):** Trường phái và hệ thống quan điểm triết học đối lập với chủ nghĩa duy tâm, khẳng định thế giới là vật chất tồn tại khách quan, vĩnh viễn, không do ai sáng tạo ra và độc lập với ý thức. Theo quan điểm này, ý thức và tư duy là đặc tính của vật chất, còn thế giới và các quy luật của nó đều có thể nhận thức được.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 1.b, 2.b): Trường phái triết học lớn phát triển ở Hy Lạp – La Mã cổ đại (Ta-lét, Hê-ra-clít, Đê-mô-crít) và thời kì Phục hưng.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 53; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 53; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143
 
 ### materialism and dialectics
 - **Tiếng Việt:** Chủ nghĩa duy vật và phép biện chứng
@@ -4054,7 +4597,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A prominent philosophical achievement of 18th- and 19th-century European social thought that was developed into a relatively comprehensive system in Germany. This intellectual current is closely associated with the major contributions of philosophers Ludwig Feuerbach and Georg Wilhelm Friedrich Hegel.
 - **Giải thích (VI):** Hệ thống tư tưởng triết học tiêu biểu của khoa học xã hội châu Âu trong các thế kỉ XVIII – XIX, được xây dựng tương đối hoàn thiện tại Đức. Trào lưu này gắn liền với những đóng góp xuất sắc của hai nhà triết học L. Phoi-ơ-bách và G. Hê-ghen.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 13 (Mục 1.a): Thành tựu nổi bật của triết học và khoa học xã hội ở Đức trong các thế kỉ XVIII – XIX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 57
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 57; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 57; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 57, 58
+
+### materials technology
+- **Tiếng Việt:** Công nghệ vật liệu
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A scientific and engineering field that creates specialized new materials with superior properties, such as ultra-flexible polymers, ultra-durable composites, and nanoscale materials.
+- **Giải thích (VI):** Lĩnh vực khoa học – kĩ thuật tạo ra những vật liệu mới chuyên dụng có tính năng vượt trội như pô-li-me siêu dẻo, com-pô-dít siêu bền và vật liệu na-nô siêu nhỏ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 21 (Mục 1.a): Lĩnh vực thành tựu tiêu biểu tạo ra các vật liệu chuyên dụng mới trong cuộc cách mạng khoa học – kĩ thuật hiện đại.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 112; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 112, 113
+
+### May Fourth Movement
+- **Tiếng Việt:** Phong trào Ngũ tứ
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An anti-imperialist patriotic movement in China that erupted on May 4, 1919, beginning with a demonstration by 3,000 patriotic students in Beijing against imperialist schemes to partition China. The movement quickly spread nationwide, drawing broad participation from patriotic workers, peasants, and intellectuals.
+- **Giải thích (VI):** Phong trào yêu nước chống đế quốc ở Trung Quốc bùng nổ ngày 4 – 5 – 1919, mở đầu bằng cuộc biểu tình của 3 000 sinh viên yêu nước tại Bắc Kinh chống lại âm mưu xâu xé Trung Quốc của các nước đế quốc. Phong trào nhanh chóng lan rộng ra cả nước, lôi cuốn đông đảo công nhân, nông dân và trí thức yêu nước tham gia.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 3 (Mục 2.b): Sự kiện mở đầu cao trào đấu tranh yêu nước chống đế quốc rộng lớn ở Trung Quốc sau Chiến tranh thế giới thứ nhất.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2.a), tr. 16; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2.b), tr. 16; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2.c), tr. 16, 17
 
 ### means of production
 - **Tiếng Việt:** Tư liệu sản xuất
@@ -4074,7 +4633,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The process of introducing machinery and mechanical equipment into production to replace manual human labor.
 - **Giải thích (VI):** Quá trình đưa các phương tiện, thiết bị máy móc vào hoạt động sản xuất nhằm thay thế lao động thủ công của con người.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 7 (Mục 1.a): Nhu cầu cải tiến kĩ thuật trong ngành dệt ở Anh mở đầu Cách mạng công nghiệp lần thứ nhất.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.a), tr. 59; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.a), tr. 59; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143
 
 ### medieval city
 - **Tiếng Việt:** Đô thị trung đại (đô thị châu Âu thời trung đại)
@@ -4109,7 +4668,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 11, Bài 2 (Mục 2.b): Cuộc cải cách mang tính chất cách mạng tư sản đưa Nhật Bản từ nước phong kiến thành nước tư bản chủ nghĩa.
   - Lịch sử và Địa lí lớp 8, Bài 14 (Mục 2.a): Bước ngoặt cải cách năm 1868 đưa Nhật Bản thoát khỏi nguy cơ trở thành thuộc địa và vươn lên thành cường quốc tư bản.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 2.b), tr. 15; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 2.a), tr. 62, 63
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 2.b), tr. 15; SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 2.b), tr. 15, 16; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 2.a), tr. 62, 63; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 1.b), tr. 62; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 2.a), tr. 62
 
 ### merchant guild
 - **Tiếng Việt:** Thương hội (hội buôn)
@@ -4144,7 +4703,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 11, Bài 1 (Mục 1): Phân tích quan hệ thương mại và chính sách bóc lột giữa Chính phủ Anh với 13 thuộc địa Bắc Mỹ cũng như giữa các nước thực dân phương Tây với thuộc địa (Bài 5).
   - Lịch sử lớp 12, Bài 12 (Mục 2.a): Nêu luận điểm của Nguyễn Ái Quốc tại Quốc tế Cộng sản về quan hệ giữa cách mạng ở chính quốc với cách mạng thuộc địa.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91; SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.a), tr. 75
+- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91, 92; SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.a), tr. 75
 
 ### military bloc
 - **Tiếng Việt:** Khối quân sự
@@ -4152,15 +4711,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An organization linking multiple states politically and militarily through binding treaties. During the First World War (1914–1918), inter-imperialist rivalry manifested in the confrontation between two opposing coalitions: the Central Powers (Triple Alliance) and the Triple Entente.
 - **Giải thích (VI):** Tổ chức liên kết giữa nhiều quốc gia về mặt chính trị và quân sự thông qua hệ thống các hiệp ước cam kết chung. Trong Chiến tranh thế giới thứ nhất (1914 – 1918), mâu thuẫn đế quốc thể hiện qua sự đối đầu trực diện giữa hai khối đối địch là khối Liên minh và khối Hiệp ước.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 12 (Mục 1.a, Mục 1.b): Sự hình thành khối Liên minh và khối Hiệp ước dẫn tới bùng nổ Chiến tranh thế giới thứ nhất.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 1.a), tr. 52; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 1.a), tr. 52; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171, 172
 
 ### military campaign
 - **Tiếng Việt:** Chiến dịch
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** An integrated series of battles and combat operations featuring decisive engagements, conducted according to a predetermined plan by units of multiple armed services in coordination with local armed forces.
 - **Giải thích (VI):** Tổng thể các trận chiến đấu và đợt tác chiến có trận then chốt, do các đơn vị thuộc nhiều quân chủng phối hợp cùng lực lượng vũ trang địa phương tiến hành theo kế hoạch định sẵn.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.b, 2.c, 2.d): Khái niệm quân sự dùng để trình bày các hoạt động tác chiến lớn trong kháng chiến chống thực dân Pháp.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.c), tr. 41
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A series of battles conducted within a specific theater of operations and timeframe according to a unified plan and intent in order to achieve a definite strategic objective. / VI: Hệ thống các trận chiến đấu diễn ra trên một chiến trường và trong một thời gian xác định, được tiến hành theo kế hoạch và ý định thống nhất nhằm thực hiện mục đích chiến lược nhất định.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 7 (Mục 2.b, 2.c, 2.d): Khái niệm quân sự dùng để trình bày các hoạt động tác chiến lớn trong kháng chiến chống thực dân Pháp.
+  - Lịch sử và Địa lí lớp 9, Bài 14 (Mục 2.d) và Bài 15 (Mục 2): khái niệm quân sự gắn với các chiến dịch lớn như Việt Bắc thu – đông 1947, Biên giới thu – đông 1950, Điện Biên Phủ 1954.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.c), tr. 41; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.d), tr. 70; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237
 
 ### Military Order No. 1
 - **Tiếng Việt:** Quân lệnh số 1
@@ -4203,7 +4765,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A major administrative reform carried out by Emperor Minh Mang from 1831 to 1832 to perfect the state governance apparatus from the central court down to local levels. Through this reform, the entire country was uniformly divided into 30 provinces and the prefecture of Thua Thien.
 - **Giải thích (VI):** Cuộc cải cách hành chính lớn do vua Minh Mạng tiến hành trong những năm 1831 – 1832 nhằm hoàn thiện bộ máy quản lí nhà nước từ Trung ương xuống địa phương. Qua cuộc cải cách này, cả nước được chia thống nhất thành 30 tỉnh và 1 phủ Thừa Thiên.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 16 (Mục 1.b): Cuộc cải cách thống nhất hệ thống đơn vị hành chính cấp tỉnh trên cả nước dưới triều Nguyễn.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 1.b), tr. 70
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 1.b), tr. 70; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 1.b), tr. 70, 71
 
 ### modern capitalism
 - **Tiếng Việt:** Chủ nghĩa tư bản hiện đại
@@ -4211,7 +4773,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The stage of capitalist development from after the Second World War to the present, typified by the combination of the economic power of private monopoly organizations with the political power of the bourgeois state. It features highly developed productive forces based on scientific-technological achievements, a workforce matching rapid production leaps, and continuous self-adjustment to survive and develop in new contexts.
 - **Giải thích (VI):** Giai đoạn phát triển của chủ nghĩa tư bản từ sau Chiến tranh thế giới thứ hai đến nay với biểu hiện tiêu biểu là sự kết hợp giữa sức mạnh kinh tế của các tổ chức độc quyền tư nhân và sức mạnh chính trị của nhà nước tư sản. Giai đoạn này có sức sản xuất phát triển cao dựa trên thành tựu cách mạng khoa học – công nghệ, lực lượng lao động đáp ứng bước nhảy vọt của sản xuất và khả năng tự điều chỉnh để tồn tại, phát triển trong bối cảnh mới.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 2 (Mục 3.a, 3.b): Khái niệm nhận diện đặc trưng, tiềm năng phát triển gắn với Cách mạng công nghiệp lần thứ tư và thách thức của chủ nghĩa tư bản từ sau năm 1945.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 3.a), tr. 17; SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 3.b), tr. 17, 18
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 3.a), tr. 17; SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 3.b), tr. 17, 18; SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 3.b), tr. 17
+
+### modern scientific and technological revolution
+- **Tiếng Việt:** Cuộc cách mạng khoa học – kĩ thuật hiện đại (Cách mạng khoa học – kĩ thuật)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The rapid, far-reaching transformation in science and technology unfolding across fields since World War II, grounded today in the emergence and development of electronics and information technology. It shortens the time from scientific discovery to industrial application while closely linking science, engineering, and technology.
+- **Giải thích (VI):** Quá trình phát triển nhanh chóng với nhiều thành tựu vượt bậc trên các lĩnh vực từ sau Chiến tranh thế giới thứ hai, ngày nay dựa trên sự ra đời và phát triển của điện tử và công nghệ thông tin. Cuộc cách mạng này rút ngắn thời gian từ phát minh khoa học đến ứng dụng vào sản xuất, đồng thời gắn kết chặt chẽ giữa khoa học, kĩ thuật và công nghệ.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 21 (Mục 1.a): Khái quát đặc trưng và động lực cốt lõi của sự phát triển khoa học – công nghệ thế giới từ sau năm 1945 đến nay.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 111, 112; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21, tr. 111; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 112
 
 ### modernization movement
 - **Tiếng Việt:** Duy tân
@@ -4223,7 +4793,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 11, Bài 2 (Mục 2.b): Chỉ các phong trào cải cách đưa đất nước phát triển theo con đường tư bản chủ nghĩa ở châu Á cuối thế kỉ XIX, tiêu biểu là Duy tân Minh Trị ở Nhật Bản.
   - Lịch sử và Địa lí lớp 8, Bài 14 (Mở đầu, Mục 2.a): Tư tưởng và phong trào cải cách đổi mới đất nước ở các quốc gia Đông Á cuối thế kỉ XIX – đầu thế kỉ XX.
   - *Lưu ý:* Khái niệm chung chỉ trào lưu đổi mới theo hướng tiến bộ; phân biệt với sự kiện cụ thể 'Duy tân Minh Trị' tiến hành tại Nhật Bản từ năm 1868.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91, 92; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14, tr. 60; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171
+- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91, 92; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14, tr. 60; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171, 172
 
 ### monarchy
 - **Tiếng Việt:** Chế độ quân chủ
@@ -4231,7 +4801,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A form of government in which the supreme head of state is a king or emperor. In Vietnamese feudal history, this political system was closely tied to the consolidation of centralized authority in the hands of the monarch and the royal court.
 - **Giải thích (VI):** Thể chế chính quyền nhà nước mà trong đó người đứng đầu tối cao là một vị vua (hoặc hoàng đế). Trong lịch sử phong kiến Việt Nam, thể chế này gắn liền với xu hướng củng cố quyền lực tập trung về tay nhà vua và triều đình trung ương.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 2.a): Thể chế chính quyền tập quyền được Hồ Quý Ly tiến hành cải tổ và củng cố.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.a), tr. 75; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.a), tr. 75; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176
 
 ### money-changing counter
 - **Tiếng Việt:** Quầy đổi tiền
@@ -4249,7 +4819,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 10 (Mục 1): Mô tả việc các công ti độc quyền khống chế thị trường, nền kinh tế và đời sống chính trị ở các nước đế quốc.
   - *Lưu ý:* Nhấn mạnh hành vi tập trung đặc quyền để khống chế ngành và chi phối vì lợi ích riêng, gắn với sự trỗi dậy của các công ti độc quyền.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172, 173
 
 ### monopoly
 - **Tiếng Việt:** Độc quyền
@@ -4262,7 +4832,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 11, Bài 2 (Mục 2.c): Chỉ sự chi phối kinh tế của các công ti tư bản độc quyền cuối thế kỉ XIX – đầu thế kỉ XX, đồng thời dùng cho độc quyền thương mại của Nhà nước phong kiến Anh hay độc quyền lãnh đạo của tư sản Pháp (Bài 1).
   - *Lưu ý:* Phân biệt với 'lũng đoạn' (tập trung đặc quyền để khống chế ngành và chi phối vì lợi ích riêng) và 'thao túng' (nắm giữ, chi phối buộc chủ thể khác hành động theo chủ ý).
   - *Lưu ý:* Bao hàm cả độc quyền kinh tế (nhà nước hoặc công ti tư bản độc quyền) và độc quyền chính trị (nắm trọn quyền lãnh đạo cách mạng).
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171, 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 173; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92, 93
 
 ### monopoly capitalism
 - **Tiếng Việt:** Chủ nghĩa tư bản độc quyền
@@ -4270,7 +4840,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The stage of capitalist development from the late nineteenth to the early twentieth century succeeding free-competition capitalism, in which rapid economic growth driven by new energy sources and scientific-technical advances alongside fierce competition gave rise to giant enterprises and monopoly organizations dominating the economy.
 - **Giải thích (VI):** Giai đoạn phát triển của chủ nghĩa tư bản từ cuối thế kỉ XIX – đầu thế kỉ XX kế tiếp thời kì tự do cạnh tranh, khi sự phát triển kinh tế nhờ nguồn năng lượng mới và thành tựu khoa học – kĩ thuật cùng cạnh tranh gay gắt dẫn đến sự xuất hiện các xí nghiệp khổng lồ và tổ chức độc quyền chi phối nền kinh tế.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 2 (Mục 2.c): Bước chuyển giai đoạn phát triển của chủ nghĩa tư bản từ tự do cạnh tranh sang sự chi phối của các tổ chức tư bản độc quyền.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 2.c), tr. 16
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 2.c), tr. 16; SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 2.b), tr. 16
 
 ### monopoly organization
 - **Tiếng Việt:** Tổ chức độc quyền
@@ -4278,7 +4848,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An alliance among major capitalists aimed at concentrating most of the production or distribution of certain commodities in their own hands to secure high profits. Typical forms in the late nineteenth and early twentieth centuries included cartels and syndicates in Germany and France, and trusts in the United States.
 - **Giải thích (VI):** Sự liên minh giữa các nhà tư bản lớn nhằm tập trung vào tay mình phần lớn việc sản xuất hoặc tiêu thụ một số hàng hoá để thu lợi nhuận cao. Các hình thức tiêu biểu cuối thế kỉ XIX – đầu thế kỉ XX là các-ten, xanh-đi-ca ở Đức và Pháp, tơ-rớt ở Mỹ.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 2 (Mục 2.c, 3.a): Thiết chế kinh tế đánh dấu bước chuyển sang chủ nghĩa tư bản độc quyền và tiếp tục kết hợp với nhà nước tư sản trong chủ nghĩa tư bản hiện đại.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 2.c), tr. 16; SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 3.a), tr. 17
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 2.c), tr. 16; SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 3.a), tr. 17; SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 2.b), tr. 16
+
+### Monroe Doctrine
+- **Tiếng Việt:** Học thuyết Mơn-rô
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A United States foreign policy associated with the slogan "America for the Americans," which American leaders continued to pursue during the 1920s to expand influence and intervene militarily when necessary in Latin America.
+- **Giải thích (VI):** Đường lối đối ngoại của Mỹ gắn với phương châm “châu Mỹ của người châu Mỹ”, tiếp tục được giới cầm quyền Mỹ thực hiện trong những năm 20 của thế kỉ XX nhằm bành trướng thế lực và can thiệp quân sự khi cần thiết đối với khu vực Mỹ La-tinh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 2 (Mục 3.a): Đường lối đối ngoại can thiệp của giới cầm quyền Mỹ đối với khu vực Mỹ La-tinh trong thập niên 1920 trước khi chuyển sang Chính sách láng giềng thân thiện.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2), tr. 12; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 3.a), tr. 12; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 3.a), tr. 12, 13
 
 ### Mountains and Rivers of the Southern Country
 - **Tiếng Việt:** Nam quốc sơn hà
@@ -4287,6 +4865,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bài thơ chữ Hán tiêu biểu thời Lý khẳng định chủ quyền lãnh thổ của quốc gia Đại Việt, tương truyền do Lý Thường Kiệt sai người vào đền bên bờ sông Như Nguyệt ngâm vang hằng đêm năm 1077 nhằm làm nhụt ý chí quân xâm lược Tống và khích lệ tinh thần chiến đấu của quân sĩ.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 12 (Mục 2.b): Tác phẩm thơ chữ Hán khẳng định chủ quyền lãnh thổ và cổ vũ quân sĩ tại phòng tuyến sông Như Nguyệt.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B12 (Mục 2.a), tr. 60; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B12 (Mục 2.b), tr. 60; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B12 (Mục 2.b), tr. 60, 61
+
+### Mountbatten Plan
+- **Tiếng Việt:** Kế hoạch Mao-bát-tơn
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A 1947 British colonial political plan conceding to the Indian independence movement led by the Indian National Congress, granting self-governing status and partitioning India along religious lines into Hindu-majority India and Muslim-majority Pakistan.
+- **Giải thích (VI):** Phương án chính trị năm 1947 của thực dân Anh nhượng bộ trước phong trào đấu tranh của nhân dân Ấn Độ dưới sự lãnh đạo của Đảng Quốc đại, theo đó Anh trao quyền tự trị và chia Ấn Độ thành hai quốc gia trên cơ sở tôn giáo là Ấn Độ của người theo Hin-đu giáo và Pa-ki-xtan của người theo Hồi giáo.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 12 (Mục 2.c): phương án trao quyền tự trị và chia cắt Ấn Độ năm 1947 trước khi Ấn Độ tuyên bố thành lập nước cộng hoà năm 1950.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 2.c), tr. 57; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 3.a), tr. 57; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 3.a), tr. 57, 58
 
 ### muang
 - **Tiếng Việt:** Mường (mường cổ)
@@ -4309,14 +4895,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.b), tr. 31; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.c), tr. 31; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.c), tr. 31, 32
 
 ### multipolar trend
-- **Tiếng Việt:** Xu thế đa cực
+- **Tiếng Việt:** Xu thế đa cực (Xu hướng đa cực; trật tự thế giới đa cực; nhiều trung tâm)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The post-Cold War evolution of international relations toward a world order with multiple centers of power. This trend is manifested through the rising strength and standing of major powers (China, Russia, India, Japan, and EU countries), the relative decline of United States power, and the growing role of international and regional economic and financial centers and organizations.
 - **Giải thích (VI):** Quá trình vận động của quan hệ quốc tế sau Chiến tranh lạnh hướng tới trật tự nhiều trung tâm quyền lực. Xu thế này thể hiện qua sự gia tăng sức mạnh và vị thế của các nước lớn (Trung Quốc, Nga, Ấn Độ, Nhật Bản, các nước EU), sự suy giảm sức mạnh tương đối của Mỹ và vai trò ngày càng lớn của các trung tâm, tổ chức kinh tế, tài chính quốc tế và khu vực.
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The post-Cold War trend in international relations toward a new multipolar, multi-center world order shaped by competition among major powers and power centers including the United States, the European Union (EU), Japan, China, and the Russian Federation. The rise of these competing centers since the early twenty-first century has prevented the United States from establishing a unipolar world order. / VI: Xu hướng vận động của quan hệ quốc tế sau Chiến tranh lạnh hướng tới hình thành một trật tự thế giới mới nhiều cực, nhiều trung tâm với sự cạnh tranh của các cường quốc và trung tâm lớn như Mỹ, Liên minh châu Âu (EU), Nhật Bản, Trung Quốc và Liên bang Nga. Sự vươn lên của các quốc gia, khu vực này từ đầu thế kỉ XXI đã ngăn cản tham vọng thiết lập trật tự đơn cực của Mỹ.
 - **Bối cảnh:**
   - Lịch sử lớp 12, Bài 3 (Mục 2.b): Ba biểu hiện chủ yếu chứng minh sự hình thành trật tự thế giới đa cực trong quan hệ quốc tế hiện đại.
+  - Lịch sử và Địa lí lớp 9, Bài 18 (Mục 1): Xu hướng chủ đạo của quan hệ quốc tế từ sau năm 1991 đến nay.
   - *Lưu ý:* Phân biệt 'Xu thế đa cực' (quá trình vận động và ba biểu hiện thực tiễn sau năm 1991) với khái niệm 'Đa cực' (bản chất của cấu trúc trật tự nhiều cực).
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 01, B3, tr. 18; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 1), tr. 19; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 2.a), tr. 19
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 01, B3, tr. 18; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 1), tr. 19; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 2.a), tr. 19; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 1), tr. 93, 94; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18, tr. 93; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 1), tr. 93
 
 ### multipolarity
 - **Tiếng Việt:** Đa cực (Trật tự thế giới đa cực)
@@ -4327,6 +4915,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 12, Bài 3 (Mục 2.a): Khái niệm lí luận về cấu trúc trật tự thế giới đang hình thành sau sự sụp đổ của Trật tự hai cực I-an-ta.
   - *Lưu ý:* Phân biệt khái niệm 'Đa cực' (cấu trúc trật tự thế giới nhiều trung tâm quyền lực) với 'Xu thế đa cực' (quá trình vận động và các biểu hiện chuyển dịch sang trật tự đó sau Chiến tranh lạnh).
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 01, B3, tr. 18; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 1), tr. 18; SGK Lịch sử 12 KNTT, Chủ đề 01, B3 (Mục 1), tr. 19
+
+### mutiny
+- **Tiếng Việt:** Binh biến
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An act of defiance against superior orders by a force of officers and soldiers or military units, whose highest form is an armed revolt against the government that may alter the domestic political situation.
+- **Giải thích (VI):** Cuộc phản kháng lại mệnh lệnh cấp trên của một lực lượng sĩ quan và binh sĩ hoặc một số đơn vị quân đội, mà hình thức cao nhất là nổi dậy chống chính quyền và có thể dẫn tới thay đổi tình hình chính trị trong nước.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 8 (Mục 1): Thuật ngữ gắn với cuộc binh biến Đô Lương (Nghệ An, tháng 1 – 1941) chống thực dân Pháp.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 1), tr. 35
 
 ### My Son Sanctuary
 - **Tiếng Việt:** Thánh địa Mỹ Sơn (Khu đền tháp Mỹ Sơn)
@@ -4353,7 +4949,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The two fundamental tasks of modern bourgeois revolutions. The national task aims to abolish feudal fragmentation or colonial rule, unify the market, and form a nation-state sharing territory, language, culture, and economy; the democratic task aims to abolish feudal absolutism and establish bourgeois democracy with political freedom, freedom of enterprise, and private property rights.
 - **Giải thích (VI):** Hai nhiệm vụ cơ bản của các cuộc cách mạng tư sản cận đại. Nhiệm vụ dân tộc nhằm xoá bỏ tình trạng phong kiến cát cứ hoặc đánh đuổi thực dân, thống nhất thị trường để hình thành quốc gia dân tộc (chung lãnh thổ, ngôn ngữ, văn hoá, kinh tế); nhiệm vụ dân chủ nhằm xoá bỏ chế độ phong kiến chuyên chế, xác lập nền dân chủ tư sản với quyền tự do chính trị, tự do kinh doanh và quyền tư hữu.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 1 (Mục 2.a): Hai nhiệm vụ cơ bản xuyên suốt dùng để phân tích mục tiêu và kết quả của các cuộc cách mạng tư sản thời cận đại.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 01, B1 (Mục 2.a), tr. 9
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 01, B1 (Mục 2.a), tr. 9; SGK Lịch sử 11 KNTT, Chủ đề 01, B1 (Mục 1.d), tr. 9
 
 ### national bourgeoisie
 - **Tiếng Việt:** Giai cấp tư sản dân tộc
@@ -4361,7 +4957,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The indigenous capitalist class that emerged and developed amid deep social differentiation in Southeast Asian countries under Western colonial rule, joining workers and petty-bourgeois intellectuals in national liberation struggles.
 - **Giải thích (VI):** Giai cấp tư sản bản xứ hình thành và phát triển trong quá trình phân hoá xã hội sâu sắc ở các nước Đông Nam Á dưới ách đô hộ của thực dân phương Tây, cùng giai cấp công nhân và tầng lớp tiểu tư sản trí thức tham gia đấu tranh giải phóng dân tộc.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 4 (Mục 2): lực lượng xã hội mới ra đời ở Đông Nam Á thời thuộc địa tham gia đấu tranh giải phóng dân tộc.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 21, 22
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 21, 22; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 21
 
 ### National Conference of the Party at Tan Trao
 - **Tiếng Việt:** Hội nghị toàn quốc của Đảng ở Tân Trào
@@ -4393,15 +4989,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 7, Bài 13 (Mục 2): Bộ luật thành văn tiêu biểu được ban hành năm 1341 dưới vương triều Trần.
   - Lịch sử và Địa lí lớp 7, Bài 17 (Mục 1): Thành tựu lập pháp tiêu biểu thể hiện tính hoàn chỉnh và tiến bộ của nhà nước thời Lê sơ.
   - *Lưu ý:* Bộ luật ban hành năm 1341 thời Trần; phân biệt với bộ Quốc triều hình luật (Luật Hồng Đức) thời Lê sơ.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.a), tr. 110; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.a), tr. 110, 111; SGK Lịch sử 11 KNTT, Chủ đề 05, B10 (Mục 2), tr. 66; SGK Lịch sử 11 KNTT, Chủ đề 05, B10 (Mục 2), tr. 66, 67; SGK Lịch sử 11 KNTT, Chủ đề 05, B10 (Mục 2), tr. 67; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 63; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 84, 85
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.a), tr. 110; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.a), tr. 110, 111; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 2), tr. 110; SGK Lịch sử 11 KNTT, Chủ đề 05, B10 (Mục 2), tr. 66; SGK Lịch sử 11 KNTT, Chủ đề 05, B10 (Mục 2), tr. 66, 67; SGK Lịch sử 11 KNTT, Chủ đề 05, B10 (Mục 2), tr. 67; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 63; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 84, 85; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 84
 
 ### National Front for the Liberation of South Vietnam
 - **Tiếng Việt:** Mặt trận Dân tộc giải phóng miền Nam Việt Nam
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A united front organization rallying patriotic forces in South Vietnam, established on December 20, 1960, out of the victory of the Dong Khoi Movement to unite the people against US intervention and foster the development of revolutionary armed forces.
 - **Giải thích (VI):** Tổ chức mặt trận đoàn kết các lực lượng yêu nước ở miền Nam Việt Nam được thành lập ngày 20 – 12 – 1960 từ thắng lợi của phong trào Đồng khởi nhằm tập hợp nhân dân chống Mỹ, cứu nước và thúc đẩy lực lượng vũ trang cách mạng phát triển.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.a): Tổ chức mặt trận đoàn kết toàn dân miền Nam chống Mỹ, cứu nước.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47, 48
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A revolutionary united front organization founded on December 20, 1960 amid the victorious momentum of the Dong Khoi Movement, rallying all strata of the Southern Vietnamese people under the Party's leadership to fight US imperialism and the Saigon regime, defeat the "Special War" strategy, liberate the South, and reunify the Fatherland. / VI: Tổ chức mặt trận cách mạng ra đời ngày 20 – 12 – 1960 trong khí thế thắng lợi của phong trào Đồng khởi, giữ vai trò tập hợp, đoàn kết các tầng lớp nhân dân miền Nam dưới sự lãnh đạo của Đảng để đấu tranh chống Mỹ – Diệm, đánh bại chiến lược “Chiến tranh đặc biệt”, hướng tới giải phóng miền Nam và thống nhất Tổ quốc.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.a): Tổ chức mặt trận đoàn kết toàn dân miền Nam chống Mỹ, cứu nước.
+  - Lịch sử và Địa lí lớp 9, Bài 16 (Mục 2.a, 2.b): tổ chức tập hợp, đoàn kết nhân dân miền Nam đấu tranh chống Mỹ – Diệm, giải phóng miền Nam, thống nhất Tổ quốc.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47, 48; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 2.a), tr. 83; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 2.b), tr. 83, 84; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 2.b), tr. 84
 
 ### National History Institute
 - **Tiếng Việt:** Quốc sử viện
@@ -4418,6 +5017,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cơ quan do Trung ương Đảng và Tổng bộ Việt Minh thành lập ngày 13 – 8 – 1945 để trực tiếp chỉ đạo cuộc Tổng khởi nghĩa trong cả nước thông qua việc ban bố Quân lệnh số 1.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 6 (Mục 1): Cơ quan chỉ đạo trực tiếp cuộc Tổng khởi nghĩa tháng Tám năm 1945.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 1), tr. 32; SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 2), tr. 32, 33
+
+### Nationalist Party of Vietnam
+- **Tiếng Việt:** Việt Nam Quốc dân đảng
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A bourgeois-democratic revolutionary party founded in December 1927 around core members of the Nam Dong Publishing Society such as Nguyen Thai Hoc and Pho Duc Chinh, aiming to expel French colonialists and establish civil rights through armed revolt and individual assassination. Following the assassination of labor recruiter Bazin (February 1929), it launched the Yen Bai uprising on the night of February 9, 1930, which was rapidly crushed by the French.
+- **Giải thích (VI):** Chính đảng theo khuynh hướng cách mạng dân chủ tư sản thành lập vào tháng 12 – 1927 trên cơ sở hạt nhân Nam Đồng thư xã (Nguyễn Thái Học, Phó Đức Chính,...) với mục tiêu đánh đuổi giặc Pháp, thiết lập dân quyền bằng phương pháp bạo động, ám sát cá nhân. Sau vụ ám sát tên trùm mộ phu Ba-danh (2 – 1929), đảng phát động cuộc khởi nghĩa đêm 9 – 2 – 1930 ở Yên Bái và một số địa phương nhưng nhanh chóng bị thực dân Pháp đàn áp.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 5 (Mục 4): Chính đảng tiêu biểu của khuynh hướng cách mạng dân chủ tư sản ở Việt Nam gắn với khởi nghĩa Yên Bái (tháng 2 – 1930).
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 4), tr. 25
 
 ### natural heritage
 - **Tiếng Việt:** Di sản thiên nhiên
@@ -4448,8 +5055,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A military plan formulated by French colonialists in July 1953 with US agreement, hoping to achieve a decisive military victory within 18 months so as to end the war in Indochina with honor.
 - **Giải thích (VI):** Kế hoạch quân sự do thực dân Pháp đề ra vào tháng 7 – 1953 với sự thoả thuận của Mỹ, nhằm giành một thắng lợi quân sự quyết định trong vòng 18 tháng để kết thúc chiến tranh trong danh dự.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.d): Kế hoạch quân sự cuối cùng của thực dân Pháp có sự can thiệp của Mỹ ở Đông Dương.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.c), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41, 42
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A strategic military plan deployed from mid-1953 by French colonialists and US interventionists hoping to achieve a decisive military victory within 18 months to "end the war with honor." Its central measure was concentrating a powerful strategic mobile force in the Northern Delta (peaking at 44 battalions) to regain strategic initiative and turn the tide on the Indochinese battlefield. / VI: Kế hoạch quân sự do thực dân Pháp và can thiệp Mỹ triển khai từ giữa năm 1953 với hi vọng giành thắng lợi quân sự quyết định trong vòng 18 tháng để “kết thúc chiến tranh trong danh dự”. Điểm mấu chốt của kế hoạch là tập trung lực lượng cơ động chiến lược mạnh ở đồng bằng Bắc Bộ (lúc cao điểm lên đến 44 tiểu đoàn) nhằm giành lại thế chủ động chiến lược trên chiến trường Đông Dương.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 7 (Mục 2.d): Kế hoạch quân sự cuối cùng của thực dân Pháp có sự can thiệp của Mỹ ở Đông Dương.
+  - Lịch sử và Địa lí lớp 9, Bài 15 (Mục 2): kế hoạch quân sự cao nhất của Pháp – Mỹ bị phá sản bước đầu trong Đông – Xuân 1953 – 1954 và bị đập tan hoàn toàn ở Điện Biên Phủ.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.c), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41, 42; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15 (Mục 2), tr. 75; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15 (Mục 2), tr. 75, 76; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15 (Mục 1.c), tr. 75
 
 ### necessity of lifelong history learning and exploration
 - **Tiếng Việt:** Sự cần thiết của việc học tập, khám phá lịch sử suốt đời
@@ -4458,6 +5068,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Yêu cầu thường xuyên tìm hiểu, làm giàu và vận dụng tri thức, kinh nghiệm quá khứ để giải quyết vấn đề hiện tại, định hướng tương lai và giải mã những khoảng trống, bí ẩn còn tồn tại trong lịch sử. Hoạt động này đồng thời giúp con người tiếp thu thành tựu văn minh nhân loại, rút ra bài học kinh nghiệm để hội nhập quốc tế hiệu quả, phát triển công nghiệp văn hoá, du lịch và mở rộng cơ hội nghề nghiệp.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 2 (Mục 2.a): Giải thích lí do phải gắn việc học tập lịch sử ở nhà trường với quá trình tự tìm tòi, khám phá suốt đời.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 01, B2 (Mục 1), tr. 17; SGK Lịch sử 10 KNTT, Chủ đề 01, B2 (Mục 2.a), tr. 17
+
+### New Deal
+- **Tiếng Việt:** Chính sách mới
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A system of economic and social reform measures implemented by President Franklin D. Roosevelt to lift the United States out of the Great Depression, focusing on addressing unemployment, reviving economic and financial sectors, reorganizing banking, and creating new jobs. This policy rescued American capitalism, enabling the United States to maintain bourgeois democracy and gradually stabilize political and social life.
+- **Giải thích (VI):** Hệ thống các biện pháp cải cách kinh tế – xã hội do Tổng thống Ph. Ru-dơ-ven thực hiện nhằm đưa nước Mỹ thoát khỏi cuộc đại suy thoái, tập trung giải quyết nạn thất nghiệp, phục hồi các ngành kinh tế – tài chính, cải tổ hệ thống ngân hàng và tạo thêm việc làm mới. Chính sách này đã cứu nguy cho chủ nghĩa tư bản Mỹ, giúp nước Mỹ duy trì chế độ dân chủ tư sản và dần ổn định tình hình chính trị, xã hội.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 9, Bài 2 (Mục 3.b): Hệ thống cải cách kinh tế – xã hội có sự điều tiết của Nhà nước ở Mỹ những năm 1930, phân biệt với Chính sách kinh tế mới (NEP) ở nước Nga Xô viết.
+  - *Lưu ý:* Phân biệt với "Chính sách kinh tế mới" (New Economic Policy – NEP) thực hiện ở nước Nga Xô viết từ năm 1921.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 3.a), tr. 13; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 3.b), tr. 13
+
+### New Economic Policy
+- **Tiếng Việt:** Chính sách kinh tế mới (NEP)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Economic policy proposed by V. I. Lenin and adopted by the Bolshevik Party in March 1921 (abbreviated as NEP) to replace War Communism, enabling Soviet Russia to overcome crisis and restore its economy. Its core measures replaced surplus-grain requisitioning with a food tax, permitted free trade and small private enterprises, and encouraged foreign capital investment.
+- **Giải thích (VI):** Chính sách kinh tế do V.I. Lê-nin đề xướng và được Đảng Bôn-sê-vích Nga thông qua tháng 3 – 1921 nhằm thay thế Chính sách cộng sản thời chiến, giúp nước Nga Xô viết vượt qua khủng hoảng và phục hồi kinh tế. Nội dung cơ bản gồm thay chế độ trưng thu lương thực thừa bằng thu thuế lương thực, cho phép tự do buôn bán, mở xí nghiệp tư nhân nhỏ và khuyến khích tư bản nước ngoài đầu tư kinh doanh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 1 (Mục 1): Bước chuyển hướng chiến lược kinh tế từ thời chiến sang thời bình ở nước Nga Xô viết năm 1921.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1), tr. 8
 
 ### new nobility
 - **Tiếng Việt:** Quý tộc mới (Tầng lớp quý tộc mới)
@@ -4468,7 +5096,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 11, Bài 1 (Mục 1, 2.b): Tầng lớp đồng minh của giai cấp tư sản và giữ vai trò quan trọng trong lãnh đạo Cách mạng tư sản Anh thế kỉ XVII.
   - Lịch sử và Địa lí lớp 8, Bài 1 (Mục 1.a): lực lượng xã hội liên minh với giai cấp tư sản lãnh đạo Cách mạng tư sản Anh, chi phối tính chất không triệt để của cuộc cách mạng.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92, 93; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1.a), tr. 8, 9
+- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92, 93; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1.a), tr. 8, 9; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B1, tr. 8; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1.a), tr. 8
 
 ### new-type state
 - **Tiếng Việt:** Nhà nước kiểu mới
@@ -4476,7 +5104,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A model of the state established following a victorious proletarian revolution, fundamentally distinct from states ruled by exploiting classes such as slaveholders, feudal lords, or the bourgeoisie. It serves and protects the interests of the working class and laboring people, first exemplified by the Paris Commune of 1871.
 - **Giải thích (VI):** Mô hình nhà nước ra đời sau thắng lợi của cuộc cách mạng vô sản, đối lập về bản chất với các nhà nước của giai cấp bóc lột thống trị như chủ nô, phong kiến hay tư sản. Nhà nước này phục vụ và bảo vệ quyền lợi của giai cấp công nhân cùng đông đảo nhân dân lao động, mở đầu bằng hình mẫu Công xã Pa-ri năm 1871.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 3): Khái niệm khái quát bản chất giai cấp và ý nghĩa lịch sử của chính quyền Công xã Pa-ri năm 1871.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 3), tr. 50; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 3), tr. 50; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172, 173
+
+### Nghe-Tinh Soviets
+- **Tiếng Việt:** Xô viết Nghệ – Tĩnh (cao trào Xô viết Nghệ – Tĩnh)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** People's administrations formed along the soviet model in several villages and communes of Nghe An and Ha Tinh provinces at the peak of the 1930–1931 revolutionary movement. These authorities implemented progressive policies granting democratic freedoms, redistributing communal land, abolishing unjust taxes, reducing rent and canceling debts for the poor, teaching Quoc ngu script, and eliminating social vices.
+- **Giải thích (VI):** Hình thức chính quyền nhân dân theo kiểu xô viết thành lập ở một số thôn, xã thuộc hai tỉnh Nghệ An và Hà Tĩnh tại đỉnh cao của phong trào cách mạng 1930 – 1931. Chính quyền này đã thực hiện nhiều chính sách tiến bộ như ban bố quyền tự do dân chủ, chia ruộng đất công, bãi bỏ thuế vô lí, giảm tô và xoá nợ cho dân nghèo, mở lớp dạy chữ Quốc ngữ và xoá bỏ các tệ nạn xã hội.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 7 (Mục 1): Đỉnh cao của phong trào cách mạng 1930 – 1931 tại hai tỉnh Nghệ An và Hà Tĩnh từ tháng 9 – 1930.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B7, tr. 30; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B7 (Mục 1), tr. 31; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B7 (Mục 1), tr. 31, 32
 
 ### Ngo Quyen's establishment of independence
 - **Tiếng Việt:** Ngô Quyền dựng nền độc lập (nhà Ngô)
@@ -4492,7 +5128,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A prominent historian of Dai Viet during the Early Le Dynasty who earned his doctoral degree in the royal examination of 1442. He is renowned for compiling the national chronicle 'Complete Annals of Dai Viet' ('Dai Viet su ky toan thu'), a work of enduring historical value preserved to the present day.
 - **Giải thích (VI):** Nhà sử học tiêu biểu của Đại Việt thời Lê sơ, đỗ Tiến sĩ trong khoa thi năm 1442. Ông nổi tiếng với công trình biên soạn bộ quốc sử 'Đại Việt sử ký toàn thư' có giá trị lịch sử to lớn còn lưu truyền đến ngày nay.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 4.c): Danh nhân sử học tiêu biểu thời Lê sơ gắn liền với bộ quốc sử Đại Việt sử ký toàn thư.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.c), tr. 88
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.c), tr. 88; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 85; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 3), tr. 86; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.b), tr. 88
 
 ### Ngu binh u nong policy
 - **Tiếng Việt:** Ngụ binh ư nông
@@ -4516,7 +5152,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A prominent general of the Lam Son Uprising (1382–1448) from Dong Son (Thanh Hoa), who proposed the 1424 strategic shift southward to capture Nghe An as a base for liberating Tay Do and Dong Quan. His plan exemplified the Vietnamese military principle of 'avoiding enemy strengths and striking weak points', creating a decisive turning point in the war against the Ming.
 - **Giải thích (VI):** Danh tướng khởi nghĩa Lam Sơn (1382 – 1448), quê ở Đông Sơn (Thanh Hoá), người đã hiến kế chuyển hướng tiến công vào Nghệ An năm 1424 để xây dựng bàn đạp chiến lược giải phóng Tây Đô và Đông Quan. Kế sách của ông thể hiện sinh động phương châm 'tránh chỗ mạnh, đánh chỗ yếu' trong nghệ thuật quân sự Việt Nam, tạo bước ngoặt thay đổi cục diện cuộc kháng chiến chống quân Minh.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.c): Vị tướng hiến kế chuyển hướng địa bàn hoạt động vào Nghệ An năm 1424.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.c), tr. 80
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.c), tr. 80; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 80; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.d), tr. 80, 81
 
 ### Nguyen Danh Phuong Uprising
 - **Tiếng Việt:** Khởi nghĩa Nguyễn Danh Phương (Nguyễn Danh Phương)
@@ -4524,7 +5160,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A prominent peasant uprising in Dang Ngoai from 1740 to 1751 led by Nguyen Danh Phuong, who built a stronghold at Tam Dao (Vinh Phuc) and expanded operations across Son Tay and Tuyen Quang before being captured and defeated by Trinh forces in 1751.
 - **Giải thích (VI):** Cuộc khởi nghĩa nông dân tiêu biểu ở Đàng Ngoài diễn ra từ năm 1740 đến năm 1751 do Nguyễn Danh Phương lãnh đạo, xây dựng căn cứ tại Tam Đảo (Vĩnh Phúc) rồi mở rộng hoạt động ra các trấn Sơn Tây, Tuyên Quang trước khi bị quân Trịnh tấn công dập tắt năm 1751.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 7 (Mục 2): cuộc khởi nghĩa nông dân lớn ở vùng trung du Bắc Bộ giữa thế kỉ XVIII.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 32
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 32; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7, tr. 30; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 32, 33
 
 ### Nguyen Dynasty
 - **Tiếng Việt:** Vương triều Nguyễn (triều Nguyễn; nhà Nguyễn)
@@ -4532,7 +5168,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A monarchical dynasty in Vietnamese history founded in 1802 by Nguyen Anh (reign title Gia Long) after defeating the Tay Son Dynasty with the support of Gia Dinh landlords, establishing its capital at Phu Xuan (Hue). Under this dynasty, national territory was unified and centralized monarchical rule was progressively consolidated.
 - **Giải thích (VI):** Vương triều quân chủ trong lịch sử Việt Nam do Nguyễn Ánh (niên hiệu Gia Long) thành lập năm 1802 sau khi đánh bại triều Tây Sơn với sự ủng hộ của địa chủ Gia Định, đặt kinh đô ở Phú Xuân (Huế). Dưới vương triều này, lãnh thổ đất nước thống nhất và chế độ quân chủ trung ương tập quyền từng bước được củng cố.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 16 (Mục 1.a, 1.b): Sự thành lập và quá trình củng cố nhà nước quân chủ trung ương tập quyền ở Việt Nam nửa đầu thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 1.a), tr. 69; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 1.b), tr. 69, 70
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 1.a), tr. 69; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 1.b), tr. 69, 70; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16, tr. 69
+
+### Nguyen Dynasty Imperial Archives on maritime sovereignty
+- **Tiếng Việt:** Châu bản Triều Nguyễn về chủ quyền biển đảo
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The official administrative records of the Nguyen imperial court documenting and affirming the Vietnamese feudal state's direct exercise of sovereignty over islands and archipelagos in the East Sea, particularly Hoang Sa and Truong Sa. These archives record continuous state operations including dispatching naval forces to survey sea routes, draw maps, plant sovereignty markers, and rescue distressed vessels.
+- **Giải thích (VI):** Hệ thống văn bản hành chính chính thức của Triều đình nhà Nguyễn ghi chép và khẳng định việc Nhà nước phong kiến Việt Nam trực tiếp thực thi chủ quyền đối với các đảo, quần đảo trên Biển Đông, đặc biệt là Hoàng Sa và Trường Sa. Các văn bản này phản ánh hoạt động nhà nước liên tục như cử thuỷ quân đo đạc thuỷ trình, vẽ bản đồ, cắm mốc chủ quyền và cứu hộ, cứu nạn tàu thuyền gặp nạn trên biển.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 3 (Mục 1.a): Phân tích giá trị sử liệu nhà nước của văn bản hành chính Triều Nguyễn đối với hai quần đảo Hoàng Sa và Trường Sa.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 3 (Mục 1.a), tr. 232; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 3 (Mục 1.a), tr. 232, 233
 
 ### Nguyen Huu Cau Uprising
 - **Tiếng Việt:** Khởi nghĩa Nguyễn Hữu Cầu (Nguyễn Hữu Cầu; Quận He)
@@ -4540,7 +5184,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A widespread peasant uprising in Dang Ngoai from 1741 to 1751 led by Nguyen Huu Cau (also known as Quan He), operating mainly from Do Son and Van Don before advancing into Kinh Bac to threaten Thang Long and expanding across Son Nam, Thanh Hoa, and Nghe An until its defeat by Trinh forces in 1751.
 - **Giải thích (VI):** Cuộc khởi nghĩa nông dân quy mô rộng lớn ở Đàng Ngoài từ năm 1741 đến năm 1751 do Nguyễn Hữu Cầu (tức Quận He) lãnh đạo, có địa bàn chính ở Đồ Sơn, Vân Đồn rồi đánh lên Kinh Bắc uy hiếp Thăng Long và mở rộng xuống Sơn Nam, Thanh Hoá, Nghệ An trước khi bị quân Trịnh đánh bại năm 1751.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 7 (Mục 2): cuộc khởi nghĩa nông dân hoạt động rộng khắp vùng duyên hải và đồng bằng Bắc Bộ giữa thế kỉ XVIII.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 32
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 32; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7, tr. 30; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 32, 33
 
 ### Nguyen Lords
 - **Tiếng Việt:** Chúa Nguyễn
@@ -4548,7 +5192,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The hereditary ruling lineage of the Nguyen clan that governed Dang Trong from the 16th to the late 18th century, spearheading southward land reclamation to Ca Mau Cape, establishing administrative governance, and exercising sovereignty over the Hoang Sa and Truong Sa archipelagos.
 - **Giải thích (VI):** Chính quyền dòng họ Nguyễn nối đời cầm quyền ở Đàng Trong từ thế kỉ XVI đến cuối thế kỉ XVIII, có công tổ chức khai phá vùng đất phía Nam đến mũi Cà Mau, thiết lập bộ máy cai trị và xác lập, thực thi chủ quyền đối với hai quần đảo Hoàng Sa, Trường Sa.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 5 (Mục 3.b) và Bài 6 (Mục 1, 2): chính quyền cai quản Đàng Trong, mở mang vùng đất phía Nam và xác lập chủ quyền biển đảo.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B5 (Mục 3.b), tr. 26; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 27, 28
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B5 (Mục 3.b), tr. 26; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 27, 28; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B6, tr. 27; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 27
 
 ### Nguyen Sinh Sac
 - **Tiếng Việt:** Nguyễn Sinh Sắc
@@ -4564,7 +5208,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A national hero and world cultural celebrity (1380–1442), styled Uc Trai and native to Thuong Tin (Hanoi), who served as Le Loi's chief strategist and led diplomatic negotiations during the Lam Son Uprising. Embodying the ideals of benevolence, patriotism, and compassion for the people, he left behind major works including 'Military Correspondence', 'Great Proclamation upon the Pacification of the Wu', 'Collected Poems in the National Language', and 'Treatise on Geography'.
 - **Giải thích (VI):** Anh hùng dân tộc và danh nhân văn hoá thế giới (1380 – 1442), hiệu Ức Trai, quê ở Thường Tín (Hà Nội), người giữ vai trò quân sư trọng yếu của Lê Lợi và phụ trách đấu tranh ngoại giao trong khởi nghĩa Lam Sơn. Ông kết tinh tư tưởng nhân nghĩa, yêu nước, thương dân qua nhiều trước tác kiệt xuất như 'Quân trung từ mệnh tập', 'Bình Ngô đại cáo', 'Quốc âm thi tập' và 'Dư địa chí'.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 16 (Mục 1.b), Bài 17 (Mục 4.a): Quân sư kiệt xuất của khởi nghĩa Lam Sơn và danh nhân văn hoá lớn thời Lê sơ.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 79; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.b), tr. 79; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.a), tr. 87
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.a), tr. 79; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16 (Mục 1.b), tr. 79; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.a), tr. 87; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B16, tr. 78
 
 ### Nhu Nguyet River defensive line
 - **Tiếng Việt:** Phòng tuyến sông Như Nguyệt
@@ -4580,7 +5224,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The two ruling estates in pre-1789 feudal France that held all highest positions in the state apparatus, the military, and the Church, enjoying full privileges and exemption from all taxes.
 - **Giải thích (VI):** Hai đẳng cấp thống trị trong xã hội phong kiến Pháp trước năm 1789 nắm giữ mọi chức vụ cao nhất trong bộ máy nhà nước, quân đội và Giáo hội, hưởng mọi đặc quyền và được miễn các loại thuế.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 1): hai đẳng cấp có đặc quyền trong xã hội phong kiến Pháp trước cách mạng, đối lập với Đẳng cấp thứ ba.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 13
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 13; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 13, 14
 
 ### nome
 - **Tiếng Việt:** Nôm (công xã ở Ai Cập cổ đại)
@@ -4601,7 +5245,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An international movement striving to safeguard world peace in whose activities Vietnam actively participated after 1975 (including the 6th Summit in Havana in 1979) to promote its positive role in defending peace.
 - **Giải thích (VI):** Phong trào tập hợp các quốc gia đấu tranh vì hoà bình quốc tế, nơi Việt Nam tích cực tham gia các hoạt động sau năm 1975 (tiêu biểu tại Hội nghị cấp cao lần thứ 6 ở La Ha-ba-na năm 1979) nhằm phát huy vai trò bảo vệ hoà bình của phong trào.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 14 (Mục 1): Trình bày hoạt động đối ngoại của Việt Nam tại các tổ chức, phong trào quốc tế giai đoạn 1975 – 1985.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 1), tr. 84
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 1), tr. 84; SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 1), tr. 83; SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 1), tr. 83, 84
 
 ### non-permanent member of the United Nations Security Council
 - **Tiếng Việt:** Uỷ viên không thường trực Hội đồng Bảo an Liên hợp quốc
@@ -4609,15 +5253,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An elected term-limited membership position on the United Nations Security Council to which Vietnam was twice elected with high vote counts for the 2008–2009 and 2020–2021 terms.
 - **Giải thích (VI):** Vị trí thành viên theo nhiệm kì trong Hội đồng Bảo an Liên hợp quốc mà Việt Nam hai lần được bầu giữ với số phiếu cao vào các nhiệm kì 2008 – 2009 và 2020 – 2021.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 14 (Mục 2): Nêu dẫn chứng về uy tín và đóng góp đa phương của Việt Nam tại Liên hợp quốc.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 85, 86
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 85, 86; SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 85
 
 ### North Atlantic Treaty Organization
 - **Tiếng Việt:** Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A military alliance established by the United States and Western countries in 1949, standing in opposition to the Warsaw Treaty Organization within the framework of the Yalta bipolar world order and the Cold War.
 - **Giải thích (VI):** Liên minh quân sự do Mỹ và các nước phương Tây thành lập năm 1949, đối đầu với Tổ chức Hiệp ước Vác-sa-va trong khuôn khổ Trật tự thế giới hai cực I-an-ta và Chiến tranh lạnh.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 2 (Mục 1.b): Khối quân sự tiêu biểu của các nước phương Tây do Mỹ đứng đầu trong thời kì Chiến tranh lạnh.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 15; SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 15, 16
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A politico-military alliance founded in 1949 by the United States and Western capitalist countries as part of U.S. global strategy against the Soviet Union and socialist states during the Cold War. / VI: Liên minh chính trị – quân sự do Mỹ và các nước tư bản chủ nghĩa phương Tây thành lập năm 1949 trong khuôn khổ Chiến lược toàn cầu của Mỹ nhằm đối đầu với Liên Xô và các nước xã hội chủ nghĩa trong Chiến tranh lạnh.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 2 (Mục 1.b): Khối quân sự tiêu biểu của các nước phương Tây do Mỹ đứng đầu trong thời kì Chiến tranh lạnh.
+  - Lịch sử và Địa lí lớp 9, Bài 9 (Mục 2) và Bài 11 (Mục 1, Mục 2): Liên minh quân sự lớn nhất của Mỹ và phương Tây đối trọng với Tổ chức Hiệp ước Vác-sa-va trong Chiến tranh lạnh.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 15; SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 15, 16; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 2), tr. 42; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 2), tr. 42, 43; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B11 (Mục 1), tr. 50
 
 ### Northern border defense struggle of Vietnam
 - **Tiếng Việt:** Cuộc chiến đấu bảo vệ Tổ quốc ở vùng biên giới phía Bắc
@@ -4625,7 +5272,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A self-defense struggle fought by the Vietnamese armed forces and people, directly in six northern border provinces, against a large-scale Chinese military offensive along the more than 1,000-kilometer border from Mong Cai (Quang Ninh) to Phong Tho (Lai Chau) beginning on February 17, 1979. Fierce resistance defeated the attacker's "quick strike, quick victory" objective and forced China to declare a troop withdrawal starting March 5, 1979, although border tensions persisted until late 1989, especially in Vi Xuyen (Ha Giang).
 - **Giải thích (VI):** Cuộc chiến đấu tự vệ của quân dân Việt Nam, trực tiếp là quân dân sáu tỉnh biên giới phía Bắc, chống lại cuộc tấn công quy mô lớn của quân đội Trung Quốc dọc tuyến biên giới dài hơn 1 000 km từ Móng Cái (Quảng Ninh) đến Phong Thổ (Lai Châu) từ ngày 17 – 2 – 1979. Sự chiến đấu quyết liệt đã làm thất bại mục tiêu “đánh nhanh, thắng nhanh”, buộc Trung Quốc tuyên bố rút quân từ ngày 5 – 3 – 1979, dù tình hình biên giới phía Bắc còn tiếp tục căng thẳng đến cuối năm 1989, đặc biệt ở Vị Xuyên (Hà Giang).
 - **Bối cảnh:** Lịch sử lớp 12, Bài 9 (Mục 2.b): Trình bày diễn biến chính và kết quả của cuộc chiến đấu bảo vệ Tổ quốc ở vùng biên giới phía Bắc.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.b), tr. 56, 57
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.b), tr. 56, 57; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.a), tr. 56; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.b), tr. 56
 
 ### Northern domination
 - **Tiếng Việt:** Bắc thuộc
@@ -4643,7 +5290,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A 1,487-kilometer high-voltage power transmission project (circuit 1) designed, constructed, and successfully energized within two years (1992–1993), marking the first time in history that Vietnam's power system had a 500 kV backbone running continuously from North to South.
 - **Giải thích (VI):** Công trình truyền tải điện cao áp (mạch 1) có tổng chiều dài 1 487 km được khởi công thiết kế, xây dựng và đóng điện thành công trong hai năm (1992 – 1993), đánh dấu lần đầu tiên trong lịch sử hệ thống điện Việt Nam có trục xương sống 500 kV chạy suốt từ Bắc vào Nam.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 11 (Mục 1.a): Dẫn chứng công trình kết cấu hạ tầng năng lượng tiêu biểu thời kì Đổi mới.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.a), tr. 67
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.a), tr. 67; SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.b), tr. 67, 68
 
 ### object of historical study
 - **Tiếng Việt:** Đối tượng nghiên cứu của Sử học
@@ -4662,7 +5309,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 11, Bài 5 (Mục 1.b): Chính sách văn hoá – giáo dục thâm độc của thực dân phương Tây khiến hơn 90% dân số nhiều nước thuộc địa mù chữ (cũng nêu tại Bài 6, Mục 3.a).
   - Lịch sử và Địa lí lớp 8, Bài 15 (Mục 1): Thủ đoạn cai trị về xã hội của thực dân Anh nhằm củng cố nền thống trị tại Ấn Độ nửa sau thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92; SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 33; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B15 (Mục 1), tr. 66
+- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92; SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 33; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92, 93; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B15 (Mục 1), tr. 66; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B15 (Mục 2), tr. 66
 
 ### Oc Eo
 - **Tiếng Việt:** Óc Eo (di chỉ Óc Eo; văn hoá Óc Eo)
@@ -4728,7 +5375,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An athletic festival originating in ancient Greece, held quadrennially beginning in 776 BCE at the Temple of Zeus in Olympia, which laid the foundation for the modern Olympic Games revived in 1896 as a symbol of equality, peace, and international solidarity.
 - **Giải thích (VI):** Đại hội thể thao ra đời từ thời Hy Lạp cổ đại, tổ chức định kì bốn năm một lần từ năm 776 TCN tại đền thờ thần Dớt ở Ô-lim-pi-a, đặt nền tảng cho Thế vận hội hiện đại từ năm 1896 nhằm tôn vinh tinh thần bình đẳng, hoà bình và đoàn kết quốc tế.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 1.b): Thành tựu thể thao tiêu biểu và giá trị trường tồn của văn minh Hy Lạp cổ đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6, tr. 48; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 54
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6, tr. 48; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 54; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 2.a), tr. 54; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 2.a), tr. 54, 55
 
 ### One Pillar Pagoda
 - **Tiếng Việt:** Chùa Một Cột (chùa Diên Hựu)
@@ -4744,7 +5391,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A war of aggression waged by British colonialists against China from 1840 to 1842 on the pretext that the Qing government had confiscated and destroyed British merchants' opium. The Qing defeat resulted in the signing of the Treaty of Nanking and initiated the imperialist partitioning of China.
 - **Giải thích (VI):** Cuộc chiến tranh xâm lược do thực dân Anh phát động chống Trung Quốc từ năm 1840 đến năm 1842, lấy cớ chính quyền Mãn Thanh tịch thu và thiêu huỷ thuốc phiện của thương nhân Anh. Thất bại của triều đình Mãn Thanh dẫn tới việc kí Hiệp ước Nam Kinh đầu hàng và mở đầu quá trình các nước đế quốc xâu xé Trung Quốc.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 14 (Mục 1.a): Sự kiện mở đầu quá trình Trung Quốc suy yếu và từng bước bị biến thành nước nửa thuộc địa giữa thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 1.a), tr. 60
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 1.a), tr. 60; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14, tr. 60; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 1.a), tr. 60, 61
 
 ### oracle bone script
 - **Tiếng Việt:** Chữ giáp cốt (văn tự bói toán; giáp cốt văn)
@@ -4755,7 +5402,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 5 (Mục II.3.b): Một trong những loại hình chữ viết cổ nhất của văn minh Trung Hoa.
   - Lịch sử và Địa lí lớp 6, Bài 9 (Mục 4): thành tựu chữ viết tiêu biểu của văn minh Trung Quốc thời cổ đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 44; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 4), tr. 42; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 4), tr. 42, 43; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 44; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 4), tr. 42; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 4), tr. 42, 43; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 190
 
 ### oral source
 - **Tiếng Việt:** Tư liệu truyền miệng
@@ -4778,10 +5425,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A policy of repression carried out by colonialist and imperialist powers to crush all popular opposition and enforce their rule and exploitation.
 - **Giải thích (VI):** Chính sách đàn áp do thực dân và đế quốc tiến hành nhằm dập tắt mọi sự chống đối của nhân dân để thực hiện ách thống trị, bóc lột.
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A policy of violent suppression carried out by colonialist and imperialist forces to extinguish all opposition and impose domination and exploitation over subject populations. / VI: Chính sách đàn áp nhằm dập tắt mọi sự chống đối của nhân dân, qua đó thiết lập và duy trì ách thống trị, bóc lột của thực dân và đế quốc.
 - **Bối cảnh:**
   - Lịch sử lớp 12, Bài 8 (Mục 2.b): Mục tiêu kế hoạch Xta-lây Tay-lo và các cuộc hành quân kìm kẹp nhân dân miền Nam của Mỹ và chính quyền Sài Gòn.
+  - Lịch sử và Địa lí lớp 9, Bài 16 (Mục 2.b): âm mưu trọng tâm gắn với “dồn dân, lập ấp chiến lược” của Mỹ và chính quyền Sài Gòn nhằm kiểm soát nông thôn miền Nam.
   - *Lưu ý:* Chỉ khái niệm chính trị – quân sự về chính sách đàn áp của thực dân, đế quốc, không phải địa danh tỉnh Bình Định.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 46; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47
+  - *Lưu ý:* In colonial and neocolonial warfare history, refers to coercive military-administrative suppression aimed at extinguishing resistance and imposing rule over contested areas.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 46; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 2.b), tr. 84; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237
 
 ### Pagan Kingdom
 - **Tiếng Việt:** Vương quốc Pa-gan (Pa-gan)
@@ -4797,7 +5447,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A landmark architectural complex in France completed in the early 18th century and further refined in subsequent periods. It stands as an extraordinarily monumental and magnificent work of early modern European architecture.
 - **Giải thích (VI):** Công trình kiến trúc tiêu biểu của nước Pháp được hoàn thành vào đầu thế kỉ XVIII và tiếp tục được hoàn chỉnh trong các giai đoạn sau đó. Đây là một quần thể kiến trúc nghệ thuật cực kì đồ sộ và lộng lẫy của châu Âu thời cận đại.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 13 (Mục 2): Thành tựu tiêu biểu của nghệ thuật kiến trúc phương Tây trong các thế kỉ XVIII – XIX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 58, 59
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 58, 59; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 58; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 58
 
 ### paper currency of the Ho Dynasty
 - **Tiếng Việt:** Tiền giấy thời Hồ
@@ -4829,7 +5479,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The world's first proletarian revolutionary government, established in Paris, France, following the uprising of March 18, 1871, through universal suffrage with the Commune Council as its supreme organ of power. Although lasting only 72 days (from March 18 to May 28, 1871), it represented a new-type state dedicated to safeguarding the interests of the working class and laboring people.
 - **Giải thích (VI):** Chính quyền cách mạng đầu tiên của giai cấp vô sản trên thế giới được thiết lập tại Pa-ri (Pháp) sau cuộc khởi nghĩa ngày 18/3/1871 theo nguyên tắc phổ thông đầu phiếu, với cơ quan quyền lực cao nhất là Hội đồng công xã. Tuy chỉ tồn tại 72 ngày (từ ngày 18/3/1871 đến ngày 28/5/1871), chính quyền này là hình mẫu của một nhà nước kiểu mới chăm lo và bảo vệ quyền lợi cho giai cấp công nhân cùng nhân dân lao động.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 3): Cuộc cách mạng vô sản đầu tiên trên thế giới năm 1871 và bài học kinh nghiệm đối với phong trào công nhân quốc tế.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 3), tr. 50
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 3), tr. 50; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 4.a), tr. 50; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 4.b), tr. 50, 51
+
+### Paris Peace Accords
+- **Tiếng Việt:** Hiệp định Pa-ri (Hiệp định Pa-ri năm 1973; Hiệp định Pa-ri về chấm dứt chiến tranh; lập lại hoà bình ở Việt Nam)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A diplomatic agreement signed on January 27, 1973, to end the war and restore peace in Vietnam, whose core provision required the United States and other countries to respect Vietnam's independence, sovereignty, unity, and territorial integrity. The accords compelled the withdrawal of US expeditionary troops from South Vietnam by late March 1973, creating a turning point toward the complete liberation of the South.
+- **Giải thích (VI):** Văn kiện ngoại giao kí ngày 27 – 1 – 1973 nhằm chấm dứt chiến tranh, lập lại hoà bình ở Việt Nam, với điều khoản quan trọng nhất là Hoa Kỳ và các nước khác cam kết tôn trọng độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam. Hiệp định buộc Mỹ phải rút quân khỏi miền Nam vào cuối tháng 3 – 1973, tạo bước ngoặt tiến tới giải phóng hoàn toàn miền Nam.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 17 (Mục 2): Thắng lợi ngoại giao trọng đại năm 1973 buộc Mỹ rút quân khỏi miền Nam, tạo thời cơ giải phóng hoàn toàn miền Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.c), tr. 88; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 2), tr. 89; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 2), tr. 89, 90
 
 ### Parthenon
 - **Tiếng Việt:** Đền Pác-tê-nông
@@ -4837,7 +5495,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The most iconic temple structure of ancient Greek civilization, built in the fifth century BCE on the Acropolis of Athens.
 - **Giải thích (VI):** Công trình kiến trúc đền thờ tiêu biểu bậc nhất của văn minh Hy Lạp cổ đại, được xây dựng vào thế kỉ V TCN trên đồi Ác-cô-pô-lít ở thành bang A-ten.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 1.b): Thành tựu kiến trúc tiêu biểu của Hy Lạp cổ đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 51, 52
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 51, 52; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 51
 
 ### Patenotre Treaty
 - **Tiếng Việt:** Hiệp ước Pa-tơ-nốt
@@ -4845,7 +5503,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A treaty signed on June 6, 1884 between France and the Nguyen Dynasty, retaining the core provisions of the Harmand Treaty while adjusting the boundaries of Annam by reincorporating Binh Thuan and the Thanh–Nghe–Tinh provinces. It formally established the French protectorate over Tonkin and Annam, marking the complete surrender of the Hue court to French colonial rule.
 - **Giải thích (VI):** Bản hiệp ước kí ngày 6 – 6 – 1884 giữa thực dân Pháp với triều Nguyễn, có nội dung cơ bản giống Hiệp ước Hác-măng nhưng điều chỉnh lại địa bàn Trung Kì bằng việc sáp nhập trở lại các tỉnh Bình Thuận và Thanh – Nghệ – Tĩnh. Hiệp ước chính thức xác lập quyền bảo hộ của Pháp ở Bắc Kì và Trung Kì, đánh dấu sự đầu hàng hoàn toàn của triều đình Huế trước thực dân Pháp.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 17 (Mục 2.b): Hiệp ước khép lại quá trình thực dân Pháp xâm lược Việt Nam về mặt pháp lí đối với triều đình nhà Nguyễn.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 2.b), tr. 79, 80
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 2.b), tr. 79, 80; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 2.a), tr. 79; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 2.b), tr. 79
 
 ### patriarchal family
 - **Tiếng Việt:** Gia đình phụ hệ
@@ -4854,6 +5512,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hình thức tổ chức gia đình xuất hiện vào cuối thời nguyên thuỷ khi người đàn ông có vai trò ngày càng lớn và trở thành chủ gia đình, con cái lấy theo họ cha.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 6 (Mục 1.b): biểu hiện biến đổi quan hệ xã hội trong thị tộc khi xuất hiện công cụ kim loại và của cải dư thừa.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 1.a), tr. 25; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 1.b), tr. 25
+
+### pauperization
+- **Tiếng Việt:** Bần cùng hoá
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A colonial and imperialist policy of rule over colonies that reduces workers, peasants, and working people to extreme poverty.
+- **Giải thích (VI):** Chính sách cai trị của đế quốc thực dân đối với các nước thuộc địa làm cho công nhân, nông dân và nhân dân lao động rơi vào tình cảnh nghèo khổ đến cùng cực.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 3 (Mục 1.a): Tình cảnh suy kiệt đời sống của nhân dân lao động thuộc địa dưới ách thống trị đế quốc, thực dân và tác động của khủng hoảng kinh tế.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 1.a), tr. 15
 
 ### peasant
 - **Tiếng Việt:** Nông dân
@@ -4877,7 +5543,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A decades-long wave of peasant uprisings across 18th-century Dang Ngoai that, although ultimately defeated, demonstrated the popular will to resist oppression and compelled the Trinh Lords to implement land-reclamation and resettlement policies. It dealt a heavy blow that plunged the Le–Trinh regime into comprehensive crisis, preparing favorable ground for the Tay Son Movement's expansion into Dang Ngoai.
 - **Giải thích (VI):** Cao trào khởi nghĩa nông dân kéo dài hàng chục năm ở Đàng Ngoài thế kỉ XVIII tuy cuối cùng đều thất bại nhưng thể hiện ý chí chống áp bức bất công và buộc chúa Trịnh phải thực hiện một số chính sách khuyến khích khai hoang, đưa nông dân lưu tán về quê. Phong trào đã giáng đòn mạnh mẽ đẩy chính quyền Lê – Trịnh lún sâu vào khủng hoảng toàn diện, chuẩn bị tiền đề thuận lợi cho phong trào Tây Sơn phát triển ra Đàng Ngoài.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 7 (Mục 3): kết quả, ý nghĩa lịch sử và tác động của phong trào nông dân Đàng Ngoài đối với xã hội Đại Việt thế kỉ XVIII.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 1), tr. 31; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 31, 33; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 3), tr. 33
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 1), tr. 31; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 31, 33; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 3), tr. 33; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 31; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 2), tr. 33
 
 ### Penal Code of the Ly Dynasty
 - **Tiếng Việt:** Hình thư
@@ -4886,6 +5552,34 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bộ luật thành văn đầu tiên của Việt Nam, do triều đình nhà Lý biên soạn và ban hành vào năm 1042 nhằm quản lí xã hội bằng pháp luật.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 11 (Mục 2.b): Dấu mốc quan trọng về xây dựng nhà nước pháp quyền dưới triều Lý.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.b), tr. 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.c), tr. 54
+
+### people's democratic state
+- **Tiếng Việt:** Nhà nước dân chủ nhân dân (các nhà nước dân chủ nhân dân Đông Âu)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A form of revolutionary state established by the peoples of Eastern Europe under communist leadership between 1944 and 1946 with the assistance of the Soviet Red Army (with the German Democratic Republic founded in 1949). These states carried out land reforms, nationalized major capitalist enterprises, and promoted industrialization to build the material foundations for socialism.
+- **Giải thích (VI):** Hình thức chính quyền cách mạng do nhân dân các nước Đông Âu dưới sự lãnh đạo của những người cộng sản thành lập từ năm 1944 đến năm 1946 với sự giúp đỡ của Hồng quân Liên Xô (riêng Cộng hoà Dân chủ Đức ra đời năm 1949). Các nhà nước này tiến hành cải cách ruộng đất, quốc hữu hoá xí nghiệp lớn của tư bản và đẩy mạnh công nghiệp hoá để xây dựng cơ sở vật chất cho chủ nghĩa xã hội.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 9, Bài 10 (Mục 2.a, 2.b): sự ra đời và quá trình xây dựng chủ nghĩa xã hội của các nước Đông Âu sau Chiến tranh thế giới thứ hai.
+  - *Lưu ý:* In Grade 9 History, primarily examined through the people's democratic states founded in Eastern Europe after World War II (1944–1949).
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 2.a), tr. 46, 47; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 2.b), tr. 47; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 1.c), tr. 46
+
+### People's Republic of China
+- **Tiếng Việt:** Nước Cộng hoà Nhân dân Trung Hoa
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The state proclaimed on October 1, 1949 following the victory of the Chinese Communist Party over the Kuomintang in the Chinese Civil War (1946–1949). Its founding marked the triumph of the national democratic revolution, ushered China into a new era of independence, freedom, and transition to socialism, and contributed to the formation of the world socialist system.
+- **Giải thích (VI):** Nhà nước được tuyên bố thành lập ngày 1 – 10 – 1949 sau thắng lợi của Đảng Cộng sản Trung Quốc trước Quốc dân đảng trong cuộc nội chiến (1946 – 1949). Sự ra đời của nhà nước này đánh dấu thắng lợi của cách mạng dân tộc dân chủ, mở ra kỉ nguyên độc lập, tự do và tiến lên chủ nghĩa xã hội ở Trung Quốc, đồng thời góp phần hình thành hệ thống xã hội chủ nghĩa trên thế giới.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 12 (Mục 2.b): sự kiện lịch sử mở ra kỉ nguyên độc lập, tự do và đi lên chủ nghĩa xã hội của Trung Quốc.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 2.b), tr. 55; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 2.b), tr. 55, 56; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 2.a), tr. 55
+
+### Perestroika
+- **Tiếng Việt:** Công cuộc cải tổ ở Liên Xô (cải tổ ở Liên Xô)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A comprehensive reform policy implemented across multiple sectors in the Soviet Union starting in March 1985 under General Secretary Mikhail Gorbachev to overcome national crisis. The introduction of political pluralism and a multi-party system, uncoordinated and ineffective economic reforms, and lax cultural management plunged the country into a severe systemic crisis, culminating in the dissolution of the Soviet Union on December 25, 1991.
+- **Giải thích (VI):** Đường lối cải cách trên các lĩnh vực ở Liên Xô được tiến hành từ tháng 3 – 1985 dưới thời Tổng Bí thư M. Goóc-ba-chốp nhằm đưa đất nước thoát khỏi khủng hoảng. Việc thực hiện đa nguyên, đa đảng về chính trị, cải tổ kinh tế thiếu đồng bộ, kém hiệu quả và buông lỏng quản lí văn hoá đã đẩy Liên Xô lún sâu vào khủng hoảng toàn diện, dẫn tới sự tan rã của Liên bang Xô viết ngày 25 – 12 – 1991.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 9, Bài 10 (Mục 1): đường lối cải tổ từ năm 1985 gắn với nguyên nhân khủng hoảng toàn diện và tan rã của Liên bang Xô viết.
+  - *Lưu ý:* Refers specifically to the comprehensive restructuring policy initiated in the Soviet Union under Mikhail Gorbachev in March 1985.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 1.a), tr. 45; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 1.b), tr. 45; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 1.c), tr. 46
 
 ### Pha That Luang
 - **Tiếng Việt:** Tháp Thạt Luổng (Thạt Luổng)
@@ -4896,7 +5590,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 10 (Mục 2.c): Giới thiệu công trình kiến trúc Phật giáo tiêu biểu của Lào trong văn minh Đông Nam Á.
   - Lịch sử và Địa lí lớp 7, Bài 7 (Mở đầu và Mục 3): Thành tựu kiến trúc Phật giáo tiêu biểu thể hiện bản sắc văn hoá riêng của Vương quốc Lào thời phong kiến.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.c), tr. 89; SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.c), tr. 89, 90; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B7, tr. 39; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 3), tr. 41
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.c), tr. 89; SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.c), tr. 89, 90; SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.b), tr. 89; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B7, tr. 39; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B7 (Mục 3), tr. 41
 
 ### pharaoh
 - **Tiếng Việt:** Pha-ra-ông
@@ -4915,7 +5609,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A major commercial center in Dang Ngoai located in Hung Yen that flourished alongside Thang Long (Ke Cho) during the 17th–18th centuries. Together with its surrounding area, it comprised over 20 craft and trading wards, attracting many foreigners to reside and trade.
 - **Giải thích (VI):** Trung tâm buôn bán lớn của Đàng Ngoài thuộc Hưng Yên, phát triển sầm uất bên cạnh Thăng Long (Kẻ Chợ) trong các thế kỉ XVII – XVIII. Khu vực này cùng vùng ngoại vi có trên 20 phường thủ công và buôn bán, thu hút nhiều người nước ngoài đến sinh sống và giao thương.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 9 (Mở đầu, Mục 1.c): Đô thị thương mại tiêu biểu bậc nhất Đàng Ngoài sau Kinh Kì trong các thế kỉ XVII – XVIII.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9, tr. 40; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 1.c), tr. 41
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9, tr. 40; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 1.c), tr. 41; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 1.b), tr. 41
 
 ### Phoenician alphabet
 - **Tiếng Việt:** Bảng chữ cái Phê-ni-xi
@@ -4923,7 +5617,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An ancient alphabetic writing system created by the Phoenicians on the basis of ancient Egyptian hieroglyphs, regarded as the origin of modern alphabets.
 - **Giải thích (VI):** Hệ thống chữ cái cổ đại do người Phê-ni-xi sáng tạo trên cơ sở chữ tượng hình của người Ai Cập cổ đại, được xem là nguồn gốc của các bảng chữ cái ngày nay.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.1.b): Sự ra đời và tầm ảnh hưởng của thành tựu chữ viết thời cổ đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 37, 38
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 37, 38; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 37
 
 ### Phung Hung's Uprising
 - **Tiếng Việt:** Khởi nghĩa Phùng Hưng
@@ -4939,7 +5633,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An archaeological culture dating back approximately 4,000 years that served as the foundational origin of the Van Lang-Au Lac civilization. Over more than two millennia from this starting point, advances in labor tools and production led to the dissolution of primitive society, social stratification, and state formation.
 - **Giải thích (VI):** Nền văn hoá khảo cổ xuất hiện cách ngày nay khoảng 4 000 năm, đóng vai trò là cội nguồn mở đầu quá trình hình thành văn minh Văn Lang – Âu Lạc. Qua hơn hai thiên niên kỉ phát triển từ nền tảng này, sự tiến bộ của công cụ lao động và hoạt động sản xuất đã thúc đẩy xã hội nguyên thuỷ tan rã, phân hoá xã hội và dẫn tới sự ra đời của nhà nước.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 11 (Mục 1.a): Trình bày cội nguồn bản địa mở đầu cơ sở xã hội của văn minh Văn Lang – Âu Lạc.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.a), tr. 94; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.a), tr. 94, 95
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.a), tr. 94; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.a), tr. 94, 95; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1), tr. 94
 
 ### pictographic script
 - **Tiếng Việt:** Chữ tượng hình
@@ -4966,21 +5660,49 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong lịch sử trung đại Việt Nam (thời Lê sơ), 'đồn điền' chỉ khu ruộng đất do nhà nước tổ chức khai hoang, khác với đồn điền tư bản thời cận – hiện đại.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175, 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.a), tr. 16; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 2.a), tr. 85
 
+### Political Consultative Conference on National Reunification
+- **Tiếng Việt:** Hội nghị Hiệp thương chính trị thống nhất đất nước
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A conference between Northern and Southern delegations held in Saigon from November 15 to 21, 1975, which reached consensus on policies and measures for state-level national reunification, paving the way for the 1976 general election of a unified National Assembly.
+- **Giải thích (VI):** Hội nghị giữa hai đoàn đại biểu miền Nam và miền Bắc diễn ra tại Sài Gòn từ ngày 15 đến ngày 21 – 11 – 1975, đạt sự nhất trí về chủ trương và biện pháp thống nhất đất nước về mặt Nhà nước, tạo tiền đề cho cuộc Tổng tuyển cử bầu Quốc hội chung năm 1976.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 20 (Mục 1): Bước chuẩn bị chính trị trực tiếp hoàn thành thống nhất đất nước về mặt Nhà nước sau đại thắng Xuân 1975.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 1), tr. 102; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 2), tr. 102; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 2), tr. 102, 103
+
+### political platform
+- **Tiếng Việt:** Chính cương
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A document setting forth the principal political line of a party organization, clearly specifying its objectives, tasks, organizational forms, and methods of operation.
+- **Giải thích (VI):** Đường lối chính trị chủ yếu của một tổ chức đảng, trong đó nêu rõ mục tiêu, nhiệm vụ, hình thức tổ chức và phương pháp hoạt động.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 6 (Mục 2.b): Thuật ngữ gắn với văn kiện Chính cương vắn tắt của Đảng do Nguyễn Ái Quốc soạn thảo được thông qua tại Hội nghị thành lập Đảng năm 1930.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 2.b), tr. 29
+
+### political pluralism
+- **Tiếng Việt:** Chế độ đa nguyên chính trị (đa nguyên; đa đảng)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A political system recognizing the coexistence of multiple political orientations and parties competing for state leadership through elections. In the Soviet Union (during reforms from 1985) and Eastern Europe (from 1989), the adoption of political pluralism and free general elections enabled anti-socialist opposition forces to win power, leading to the abolition of socialist regimes across the region.
+- **Giải thích (VI):** Cơ chế chính trị thừa nhận sự tồn tại của nhiều khuynh hướng chính trị và nhiều đảng phái cùng tham gia tranh cử giành quyền lãnh đạo nhà nước. Tại Liên Xô (trong cải tổ từ năm 1985) và Đông Âu (từ năm 1989), việc chấp nhận đa nguyên chính trị và tổ chức tổng tuyển cử tự do đã tạo cơ hội cho các lực lượng chống chủ nghĩa xã hội thắng cử, dẫn tới sự xoá bỏ chế độ xã hội chủ nghĩa ở khu vực này.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 10 (Mục 1.a, 2.a): biến đổi chính trị dẫn tới sự sụp đổ của chế độ xã hội chủ nghĩa ở Liên Xô và Đông Âu cuối thập niên 1980 – đầu thập niên 1990.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 1.a), tr. 45; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 1.c), tr. 46; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 2.a), tr. 47
+
 ### political, defense, and security achievements of Doi Moi
 - **Tiếng Việt:** Thành tựu đổi mới về chính trị, an ninh – quốc phòng
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** Major outcomes of Vietnam's Doi Moi process encompassing the building of a strong socialist rule-of-law state, a streamlined and effective political apparatus, and the consolidation of the all-people national defense posture linked with the people's security posture. These achievements firmly protect national independence, sovereignty, unity, and territorial integrity while maintaining political stability and a peaceful environment for national construction and renewal.
 - **Giải thích (VI):** Những kết quả trọng tâm của công cuộc Đổi mới ở Việt Nam gồm xây dựng Nhà nước pháp quyền xã hội chủ nghĩa vững mạnh, tổ chức bộ máy hệ thống chính trị tinh gọn, hiệu quả và củng cố thế trận quốc phòng toàn dân gắn với thế trận an ninh nhân dân. Các thành tựu này bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc, góp phần giữ vững ổn định chính trị và môi trường hoà bình cho sự nghiệp xây dựng, Đổi mới đất nước.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 11 (Mục 1.b): Trình bày các thành tựu trọng tâm về chính trị và quốc phòng – an ninh thời kì Đổi mới.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.b), tr. 68
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.b), tr. 68; SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.c), tr. 68; SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.c), tr. 68, 69
 
 ### Popular Education Movement
 - **Tiếng Việt:** Bình dân học vụ
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A nationwide literacy campaign launched by the Government of the Democratic Republic of Vietnam under the Decree of September 8, 1945, alongside President Ho Chi Minh's decree establishing the Office of Popular Education. It served as a key domestic measure to eradicate illiteracy alongside efforts to overcome famine and financial difficulties immediately following the August Revolution of 1945.
 - **Giải thích (VI):** Phong trào xoá nạn mù chữ trong toàn dân do Chính phủ Việt Nam Dân chủ Cộng hoà phát động theo Sắc lệnh ngày 8 – 9 – 1945 gắn liền với việc Chủ tịch Hồ Chí Minh kí sắc lệnh thành lập Nha Bình dân học vụ. Đây là biện pháp đối nội trọng tâm nhằm giải quyết nạn dốt bên cạnh nhiệm vụ khắc phục nạn đói và khó khăn về tài chính ngay sau Cách mạng tháng Tám năm 1945.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 16 (Mục 4.a): Chính sách đối nội giải quyết nạn dốt của Chính phủ Việt Nam Dân chủ Cộng hoà trong năm đầu sau Cách mạng tháng Tám năm 1945.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 4.a), tr. 101
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A nationwide mass literacy campaign launched by the Government of the Democratic Republic of Vietnam under the Decree of September 8, 1945 to eradicate illiteracy across the population. / VI: Phong trào xoá nạn mù chữ rộng khắp trong toàn dân do Chính phủ Việt Nam Dân chủ Cộng hoà phát động theo Sắc lệnh ngày 8 – 9 – 1945.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 16 (Mục 4.a): Chính sách đối nội giải quyết nạn dốt của Chính phủ Việt Nam Dân chủ Cộng hoà trong năm đầu sau Cách mạng tháng Tám năm 1945.
+  - Lịch sử và Địa lí lớp 9, Bài 13 (Mục 2.b) và Bài 14 (Mục 2.c): phong trào diệt “giặc dốt” xây dựng nền văn hoá, giáo dục mới từ năm 1945.
+  - *Lưu ý:* Refers specifically to the mass literacy campaign Bình dân học vụ initiated by the Democratic Republic of Vietnam on September 8, 1945.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 4.a), tr. 101; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B13 (Mục 2.b), tr. 64; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237
 
 ### post-independence reconstruction and development in Southeast Asia
 - **Tiếng Việt:** Quá trình tái thiết và phát triển
@@ -5029,6 +5751,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nền văn hoá khảo cổ bản địa ở khu vực Nam Bộ ra đời trước và tạo tiền đề trực tiếp cho văn hoá Óc Eo. Vào khoảng cuối thiên niên kỉ I TCN, sự hình thành cấu trúc làng nông – chài – thương nghiệp và quá trình giao thoa dân cư tại đây đã mở đường cho các đô thị sơ khai cùng sự thành lập Vương quốc Phù Nam.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 11 (Mục 3.a): Trình bày cội nguồn văn hoá bản địa của văn hoá Óc Eo và văn minh Phù Nam.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 3.a), tr. 103; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 3.a), tr. 104; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 144
+
+### Presidential Republic of the Russian Federation
+- **Tiếng Việt:** Chính thể Cộng hoà Tổng thống của Liên bang Nga
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The political system of the Russian Federation established under the December 1993 Constitution, following early-1990s political instability caused by partisan conflicts over establishing a new political regime.
+- **Giải thích (VI):** Thể chế chính trị của Liên bang Nga được xác lập theo bản Hiến pháp ban hành tháng 12 – 1993, sau giai đoạn bất ổn đầu thập niên 1990 do mâu thuẫn giữa các đảng phái về việc xác lập thể chế chính trị mới.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 18 (Mục 2): Sự xác lập thể chế chính trị của Liên bang Nga từ sau năm 1991.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 2), tr. 94; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 1), tr. 94; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 2), tr. 94, 95
 
 ### primary historical source
 - **Tiếng Việt:** Sử liệu gốc (sử liệu sơ cấp)
@@ -5080,6 +5810,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 12, Bài 16 (Mục 1): Đường lối cứu nước do Nguyễn Ái Quốc tìm ra năm 1920, bước đầu giải quyết cuộc khủng hoảng về đường lối của phong trào giải phóng dân tộc Việt Nam.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 1), tr. 95; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 1), tr. 95, 96; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 1), tr. 96
 
+### Proletarianization Movement
+- **Tiếng Việt:** Phong trào “vô sản hoá” (vô sản hoá)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A practical campaign launched by the Vietnam Revolutionary Youth League in 1928 that sent cadres into domestic plantations and mines to train themselves, propagate revolution, raise the political consciousness of the working class, and organize mass struggles.
+- **Giải thích (VI):** Chủ trương hoạt động thực tiễn do Hội Việt Nam Cách mạng Thanh niên phát động năm 1928 nhằm đưa cán bộ thâm nhập vào các đồn điền, hầm mỏ ở trong nước để rèn luyện, tuyên truyền cách mạng, nâng cao ý thức chính trị cho giai cấp công nhân và tổ chức quần chúng đấu tranh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 5 (Mục 4) và Bài 6 (Mục 2.a): Chủ trương hoạt động thực tiễn năm 1928 – 1929 thúc đẩy sự kết hợp chủ nghĩa Mác – Lê-nin với phong trào công nhân và phong trào yêu nước Việt Nam.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 3), tr. 24; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 4), tr. 24; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 4), tr. 24, 25
+
 ### proletariat
 - **Tiếng Việt:** Giai cấp vô sản
 - **Chuyên ngành gốc:** Lịch sử
@@ -5089,7 +5827,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 7, Bài 2 (Mục 2.b): Giai cấp lao động làm thuê hình thành song hành với giai cấp tư sản khi chủ nghĩa tư bản nảy sinh ở Tây Âu.
   - Lịch sử và Địa lí lớp 8, Bài 3 (Mục 3): đội ngũ công nhân làm thuê hình thành từ cách mạng công nghiệp và đấu tranh chống áp bức tư bản.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.a), tr. 17; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.b), tr. 17; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3), tr. 17
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.a), tr. 17; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2.b), tr. 17; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3), tr. 17; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2), tr. 17; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 3), tr. 17, 18
 
 ### property ownership
 - **Tiếng Việt:** Sở hữu (quyền sở hữu)
@@ -5097,7 +5835,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The right to directly use, sell, gift, or transfer a specific asset or means of production to another party, most notably land ownership in feudal society.
 - **Giải thích (VI):** Quyền được trực tiếp sử dụng, mua bán hoặc trao tặng, chuyển nhượng một tài sản hay tư liệu sản xuất nhất định cho người khác, tiêu biểu là quyền sở hữu ruộng đất trong xã hội phong kiến.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 3.b), Bài 15 (Mục 2.a): Khái niệm gắn với chế độ chiếm hữu ruộng đất và gia nô thời Trần – Hồ.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1), tr. 62; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1), tr. 62; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 175
+
+### Protection of Maritime and Island Sovereignty of Vietnam after 1975
+- **Tiếng Việt:** Đấu tranh bảo vệ chủ quyền biển đảo sau năm 1975
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Vietnam's ongoing administration, enforcement, and defense of its sovereignty and legitimate rights and interests in the East Sea—including the Hoang Sa and Truong Sa archipelagos—since national reunification, notably marked by the heroic sacrifice of 64 Vietnamese naval soldiers defending Gac Ma Reef in March 1988. Vietnam implements comprehensive political, economic, diplomatic, and military measures while steadfastly pursuing peaceful dispute resolution on the basis of international law.
+- **Giải thích (VI):** Quá trình Việt Nam quản lí, thực thi và bảo vệ chủ quyền, các quyền và lợi ích hợp pháp ở Biển Đông (trong đó có quần đảo Hoàng Sa và quần đảo Trường Sa) từ sau khi thống nhất đất nước, tiêu biểu là sự hi sinh anh dũng của 64 chiến sĩ Hải quân Việt Nam bảo vệ đảo Gạc Ma tháng 3 – 1988. Việt Nam triển khai các biện pháp toàn diện kết hợp chính trị, kinh tế, ngoại giao, quân sự và kiên định giải quyết tranh chấp bằng giải pháp hoà bình trên cơ sở luật pháp quốc tế.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 20 (Mục 2): Công cuộc thực thi và bảo vệ chủ quyền biển đảo của Việt Nam ở Biển Đông từ sau năm 1975 đến nay.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 2), tr. 103, 104; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 2), tr. 103
 
 ### protectorate
 - **Tiếng Việt:** Bảo hộ (chế độ bảo hộ)
@@ -5109,7 +5855,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 11, Bài 13 (Mục 2.a): Tư cách pháp lí của Pháp khi nhân danh triều Nguyễn khẳng định chủ quyền Việt Nam đối với Hoàng Sa và Trường Sa.
   - Lịch sử và Địa lí lớp 8, Bài 17 (Mục 2.b): Hình thức cai trị thực dân mà Pháp áp đặt lên Bắc Kì và Trung Kì sau các hiệp ước năm 1883 và 1884.
   - *Lưu ý:* Thuật ngữ lịch sử – chính trị chỉ chế độ thống trị thực dân thông qua sự phụ thuộc của chính quyền bản xứ; phân biệt với bảo hộ quyền sở hữu trí tuệ hoặc bảo hộ công dân trong pháp luật hiện đại.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 2.a), tr. 86; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 2.b), tr. 79, 80; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 06, B13 (Mục 2.a), tr. 86; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B17 (Mục 2.b), tr. 79, 80; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171, 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
 
 ### Protectorate General to Pacify the South
 - **Tiếng Việt:** An Nam đô hộ phủ
@@ -5132,8 +5878,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The legitimate revolutionary government representing the people of South Vietnam, established on June 6, 1969, during the resistance war against the United States.
 - **Giải thích (VI):** Chính quyền cách mạng hợp pháp đại diện cho nhân dân miền Nam Việt Nam, ra đời ngày 6 – 6 – 1969 trong cuộc kháng chiến chống Mỹ, cứu nước.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.d): Sự ra đời của chính quyền cách mạng hợp pháp đại diện cho nhân dân miền Nam Việt Nam.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.c), tr. 49; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 49; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 49, 50
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The revolutionary government established on June 6, 1969, in South Vietnam, marking a major political victory at the outset of the struggle against the US “Vietnamization” strategy. / VI: Chính quyền cách mạng thành lập ngày 6 – 6 – 1969 tại miền Nam Việt Nam, đánh dấu thắng lợi chính trị quan trọng mở đầu giai đoạn đấu tranh chống chiến lược “Việt Nam hoá chiến tranh” của Mỹ.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.d): Sự ra đời của chính quyền cách mạng hợp pháp đại diện cho nhân dân miền Nam Việt Nam.
+  - Lịch sử và Địa lí lớp 9, Bài 17 (Mục 1.b): Thắng lợi chính trị tiêu biểu của cách mạng miền Nam năm 1969 trong giai đoạn chống chiến lược “Việt Nam hoá chiến tranh”.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.c), tr. 49; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 49; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 49, 50; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.b), tr. 86; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.a), tr. 86; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.b), tr. 86, 87
 
 ### puddling process
 - **Tiếng Việt:** Phương pháp luyện kim pút-đinh
@@ -5177,10 +5926,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The alphabet-based writing system using Latin letters to transcribe spoken Vietnamese, which emerged in the early 17th century alongside the introduction of Catholicism into Vietnam and was progressively refined over time.
 - **Giải thích (VI):** Hệ thống chữ viết sử dụng bộ chữ cái La-tinh để ghi âm tiếng Việt, xuất hiện từ đầu thế kỉ XVII gắn liền với quá trình du nhập Công giáo vào Việt Nam và từng bước hoàn thiện qua thời gian.
 - **Giải thích khác (SGK Lịch sử và Địa lí 8):** EN: The Romanized alphabetic writing system used to transcribe the Vietnamese language, created during the 17th–18th centuries as Western missionaries learned Vietnamese to propagate Catholicism. Owing to its convenience and scientific structure, this script was gradually refined and widely adopted. / VI: Hệ thống chữ viết dùng bộ chữ cái La-tinh để ghi âm tiếng Việt, ra đời gắn với quá trình các giáo sĩ phương Tây học tiếng Việt và truyền bá Công giáo trong các thế kỉ XVII – XVIII. Nhờ tính tiện lợi và khoa học, hệ thống chữ viết này dần được hoàn thiện và sử dụng phổ biến.
+- **Giải thích khác (SGK Ngữ văn 9 Tập 1):** EN: A phonemic writing system employing the Latin alphabet to transcribe Vietnamese with systematic correspondence between sounds and letters, pronunciation and spelling. Developed from the early 17th century through the efforts of Western Jesuit missionaries and Vietnamese scholars, this script underwent successive refinements to replace Han and Nom scripts and become Vietnam's official national orthography in the early 20th century. / VI: Hệ thống chữ viết ghi âm sử dụng bộ chữ cái Latinh để ghi tiếng Việt, có sự tương ứng chặt chẽ giữa âm và chữ, giữa cách đọc và cách viết. Hình thành từ đầu thế kỉ XVII với sự tham gia của các giáo sĩ phương Tây cùng nhiều trí thức người Việt, hệ thống văn tự này trải qua nhiều lần hoàn thiện, từng bước thay thế chữ Hán, chữ Nôm và trở thành chữ viết chính thức của quốc gia từ đầu thế kỉ XX.
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 12 (Mục 3.e): Nêu sự xuất hiện chữ viết hệ La-tinh của tiếng Việt từ đầu thế kỉ XVII.
   - Lịch sử và Địa lí lớp 8, Bài 9 (Mục 2): Thành tựu văn hoá về chữ viết xuất hiện ở Đại Việt trong các thế kỉ XVII – XVIII bên cạnh chữ Hán và chữ Nôm.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.e), tr. 117; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.e), tr. 117, 118; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 2), tr. 42
+  - Ngữ văn lớp 9, Bài 3 (Mục Tri thức ngữ văn; Thực hành tiếng Việt): tìm hiểu quá trình hình thành, ưu điểm ghi âm và vai trò văn hoá – xã hội của chữ quốc ngữ.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.e), tr. 117; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.e), tr. 117, 118; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.d), tr. 117; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 2), tr. 42; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 1.c), tr. 42; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 2), tr. 42, 43; SGK Ngữ văn 9 KNTT Tập 1, Tập một, B3, tr. 66; SGK Ngữ văn 9 KNTT Tập 1, Tập một, B3, tr. 66, 67; SGK Ngữ văn 9 KNTT Tập 1, Tập một, B3, tr. 71
 
 ### Quynh Van culture
 - **Tiếng Việt:** Văn hoá Quỳnh Văn
@@ -5204,7 +5955,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A state-administered rationing mechanism characteristic of Vietnam's subsidy era in which citizens used government-issued coupons to purchase essential daily goods; it was completely abolished on April 1, 1989.
 - **Giải thích (VI):** Phương thức phân phối hàng hoá đặc trưng của thời kì bao cấp ở Việt Nam, trong đó Nhà nước phát hành tem phiếu để người dân mua các mặt hàng thiết yếu của đời sống; chế độ này hoàn toàn được bãi bỏ vào ngày 1 – 4 – 1989.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 11 (Mục 1.a): Nêu dấu mốc xoá bỏ cơ chế phân phối hiện vật thời bao cấp để chuyển sang cơ chế thị trường.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.a), tr. 65
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.a), tr. 65; SGK Lịch sử 12 KNTT, Chủ đề 04, B11, tr. 65; SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.a), tr. 65, 66
+
+### rear area
+- **Tiếng Việt:** Hậu phương
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The area situated behind the front line during wartime, tasked with meeting wartime needs and supplying manpower and materiel to support combat forces at the front.
+- **Giải thích (VI):** Vùng lãnh thổ ở phía sau tiền tuyến trong chiến tranh, có nhiệm vụ đáp ứng nhu cầu và chi viện sức người, sức của cho tiền tuyến.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 9, Bài 14 (Mục 2.d) và Bài 16 (Mục 1): vai trò xây dựng vùng tự do và hậu phương lớn chi viện cho tiền tuyến trong kháng chiến chống Pháp và chống Mỹ.
+  - *Lưu ý:* Corresponds to the Vietnamese military-historical term 'hậu phương' (contrasted with 'tiền tuyến' / front line), denoting safe base territories behind the front that supply manpower and materiel.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.d), tr. 70; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237
 
 ### Records of the Grand Historian
 - **Tiếng Việt:** Sử kí
@@ -5215,7 +5976,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 5 (Mục II.3.b): Thành tựu tiêu biểu trên lĩnh vực Sử học của văn minh Trung Hoa.
   - Lịch sử và Địa lí lớp 6, Bài 9 (Mục 4): thành tựu sử học và văn học tiêu biểu của Trung Quốc thời cổ đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 46, 47; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 4), tr. 42; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 4), tr. 42, 43
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 46, 47; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.b), tr. 46; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 4), tr. 42; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 4), tr. 42, 43
 
 ### reform
 - **Tiếng Việt:** Cải cách
@@ -5233,7 +5994,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** China's reform and opening-up launched in December 1978, successfully transitioning to a socialist market economy and raising GDP at an average annual rate of 9.5% from 367.9 billion yuan (1978) to over 114 trillion yuan (2021), ranking second globally since 2010. Concurrently, China achieved major breakthroughs in science and technology (Shenzhou spacecraft, BeiDou satellite navigation, high-speed rail, next-generation ICT, artificial intelligence, and biotechnology) alongside comprehensive educational reform, poverty reduction, and social security policies.
 - **Giải thích (VI):** Quá trình đổi mới tại Trung Quốc thực hiện từ tháng 12 – 1978, chuyển đổi thành công sang nền kinh tế thị trường xã hội chủ nghĩa, đưa GDP tăng trưởng bình quân 9,5%/năm từ 367,9 tỉ nhân dân tệ (1978) lên hơn 114 nghìn tỉ nhân dân tệ (2021) và đứng thứ hai thế giới từ năm 2010. Bên cạnh đó, Trung Quốc đạt tiến bộ vượt bậc về khoa học – công nghệ (tàu Thần Châu, định vị vệ tinh Bắc Đẩu, đường sắt cao tốc, viễn thông thế hệ mới, trí tuệ nhân tạo, công nghệ sinh học) cùng cải cách giáo dục toàn diện, xoá đói giảm nghèo và an sinh xã hội.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 4 (Mục 3.b): Thành tựu tiêu biểu về kinh tế, khoa học – công nghệ, văn hoá – giáo dục và xã hội của Trung Quốc từ năm 1978 đến nay.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 3.b), tr. 27, 28
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 3.b), tr. 27, 28; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 3.a), tr. 27; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 3.b), tr. 27
 
 ### reforms in Siam
 - **Tiếng Việt:** Công cuộc cải cách ở Xiêm
@@ -5241,7 +6002,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Modernizing reforms in the Kingdom of Siam initiated under King Rama IV from 1851 through commercial opening and expanded comprehensively under King Rama V from 1868 in face of Western colonial threats. The reforms encouraged industrial and railway investment making Bangkok a regional trade hub, reduced agricultural taxes (1874) with modern land regulations, reorganized administration along Western lines (1892), introduced the first national education program (1898), and pursued diplomacy via Rama V's 1897 European tour and treaties ceding peripheral spheres in Laos and Cambodia to France (1907) and in Malaya to Britain (1909) to safeguard independence.
 - **Giải thích (VI):** Chuỗi cải cách tại Vương quốc Xiêm mở đầu từ thời vua Ra-ma IV (1851) với chủ trương mở cửa buôn bán và đẩy mạnh toàn diện dưới thời vua Ra-ma V (từ năm 1868) trước nguy cơ xâm lược của thực dân phương Tây. Các biện pháp gồm khuyến khích đầu tư công nghiệp, đường sắt đưa Băng Cốc thành trung tâm buôn bán khu vực, giảm thuế nông nghiệp (1874) và quản lí ruộng đất hiện đại; cải cách hành chính theo mô hình phương Tây (1892), công bố Chương trình giáo dục đầu tiên (1898), kết hợp công du châu Âu (1897) nhằm xoá bỏ hiệp ước bất bình đẳng và kí hiệp ước cắt một số vùng ảnh hưởng ở Lào, Cam-pu-chia cho Pháp (1907) và ở Mã Lai cho Anh (1909) để bảo vệ độc lập.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 5 (Mục 2): Cuộc cải cách toàn diện, tiến bộ giúp Vương quốc Xiêm hiện đại hoá đất nước trước nguy cơ xâm lược của thực dân phương Tây.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 2), tr. 34, 35
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 2), tr. 34, 35; SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 34; SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 2), tr. 34
 
 ### reforms of Ho Quy Ly and the Ho Dynasty
 - **Tiếng Việt:** Cuộc cải cách của Hồ Quý Ly và triều Hồ
@@ -5272,8 +6033,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A multilateral regional free trade and economic cooperation agreement signed with Vietnam's participation in the process of regional and global economic integration during Doi Moi.
 - **Giải thích (VI):** Hiệp định hợp tác kinh tế – thương mại đa phương quy mô khu vực có sự tham gia kí kết của Việt Nam trong tiến trình hội nhập khu vực và thế giới thời kì Đổi mới.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 14 (Mục 2): Trình bày sự tham gia của Việt Nam trong các khuôn khổ hợp tác kinh tế đa phương.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 85, 86
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A free trade agreement signed in 2020 between ASEAN member states and five partner countries—China, Japan, South Korea, Australia, and New Zealand. Entering into force in January 2022, the agreement contributed to forming the world's largest free trade area. / VI: Hiệp định thương mại tự do kí kết năm 2020 giữa ASEAN và năm đối tác gồm Trung Quốc, Nhật Bản, Hàn Quốc, Ô-xtrây-li-a và Niu Di-lân. Có hiệu lực từ tháng 1 – 2022, hiệp định góp phần tạo ra khu vực thương mại tự do lớn nhất thế giới.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 14 (Mục 2): Trình bày sự tham gia của Việt Nam trong các khuôn khổ hợp tác kinh tế đa phương.
+  - Lịch sử và Địa lí lớp 9, Bài 19 (Mục 2.a): Thành tựu mở rộng liên kết kinh tế đối ngoại tiêu biểu của ASEAN đầu thập niên 2020.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 85, 86; SGK Lịch sử 12 KNTT, Chủ đề 05, B14 (Mục 2), tr. 85; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 2.a), tr. 99; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 2.b), tr. 99; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 2.b), tr. 99, 100
 
 ### regional inspector
 - **Tiếng Việt:** Thứ sử
@@ -5301,7 +6065,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An adult male aged 18 or older who, under feudal Vietnamese law, was entered into state registers and obligated to pay taxes and perform public duties.
 - **Giải thích (VI):** Người đàn ông từ 18 tuổi trở lên trong xã hội phong kiến, theo luật pháp nhà nước phải ghi tên vào sổ sách quản lí để nộp thuế và thực hiện các nghĩa vụ khác.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 6 (Mục 1): đối tượng được chính quyền chúa Nguyễn lập sổ sách quản lí cùng ruộng đất trên vùng đất mới khai phá ở phía Nam.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 28; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 28; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171, 172
 
 ### relationship of historiography with social sciences and humanities
 - **Tiếng Việt:** Mối liên hệ của Sử học với các ngành khoa học xã hội và nhân văn
@@ -5326,8 +6090,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Niềm tin của con người tồn tại dưới dạng một hệ thống quan niệm và hoạt động chặt chẽ, bao gồm đối tượng tôn thờ, giáo lí, giáo luật, lễ nghi và tổ chức.
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 13 (Mục 3a): Khái niệm nền tảng để tìm hiểu sự tiếp thu và thực hành các tôn giáo trong đời sống tinh thần của các dân tộc Việt Nam.
+  - Giáo dục Kinh tế và Pháp luật lớp 11, Bài 12 (Mở đầu): Khái niệm pháp lí theo Luật Tín ngưỡng, tôn giáo, phân biệt với tín ngưỡng.
+  - Giáo dục Kinh tế và Pháp luật lớp 11, Bài 12 (Mục 1.a) và Bài 21 (Mục 1): xác định các yếu tố cấu thành tôn giáo khi thực hiện quyền bình đẳng giữa các tôn giáo và quyền tự do tôn giáo.
   - *Lưu ý:* Phân biệt với tín ngưỡng (folk belief) – niềm tin gắn với phong tục, tập quán truyền thống nhưng không có hệ thống giáo lí, giáo luật và tổ chức giáo hội.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 144; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 3.a), tr. 132
+  - *Lưu ý:* Phân biệt với tín ngưỡng (niềm tin thể hiện qua lễ nghi gắn với phong tục, tập quán truyền thống, không có hệ thống giáo lí, giáo luật và tổ chức chặt chẽ như tôn giáo).
+  - *Lưu ý:* Phân biệt với tín ngưỡng ở việc tôn giáo có đầy đủ hệ thống đối tượng tôn thờ, giáo lí, giáo luật, lễ nghi và tổ chức tôn giáo.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 144; SGK Lịch sử 10 KNTT, Chủ đề 07, B13 (Mục 3.a), tr. 132; SGK GD KT&PL 11 KNTT, Chủ đề 07, B12, tr. 75; SGK GD KT&PL 11 KNTT, Chủ đề 07, B12 (Mục 1.a), tr. 75; SGK GD KT&PL 11 KNTT, Chủ đề 07, B12 (Mục 1.a), tr. 75, 76; SGK GD KT&PL 11 KNTT, Bảng giải thích thuật ngữ, tr. 145
 
 ### religious doctrine
 - **Tiếng Việt:** Giáo lí
@@ -5346,7 +6114,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 6 (Mục 2.a): Bối cảnh lịch sử và bản chất của văn minh Tây Âu thời kì Phục hưng.
   - Lịch sử và Địa lí lớp 7, Bài 3 (Mục 2): Trào lưu văn học, nghệ thuật và khoa học gắn với Đan-tê, M. Xéc-van-tét, W. Sếch-xpia, Lê-ô-na đơ Vanh-xi, Mi-ken-lăng-giơ, N. Cô-péc-ních, G. Bru-nô, G. Ga-li-lê.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 2.a), tr. 54, 55; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 1), tr. 19; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2), tr. 19; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2.a), tr. 19
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 2.a), tr. 54, 55; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 54; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 1), tr. 19; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2), tr. 19; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2.a), tr. 19
 
 ### Renaissance art
 - **Tiếng Việt:** Nghệ thuật Phục hưng
@@ -5354,7 +6122,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The body of European achievements in painting, sculpture, and architecture originating in Italy and reaching its peak in the fifteenth and sixteenth centuries, emphasizing geometry, symmetry, and proportion through masters such as Leonardo da Vinci, Michelangelo, and Raphael.
 - **Giải thích (VI):** Hệ thống thành tựu hội hoạ, điêu khắc và kiến trúc châu Âu khởi nguồn từ I-ta-li-a và đạt đỉnh cao vào thế kỉ XV – XVI, chú trọng yếu tố hình học, tính đối xứng, tỉ lệ với các đại diện kiệt xuất như Lê-ô-na đờ Vanh-xi, Mi-ken-lăng-giơ và Ra-pha-en.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 2.b): Thành tựu đỉnh cao trên lĩnh vực nghệ thuật của văn minh Tây Âu thời kì Phục hưng.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 2.b), tr. 55, 56
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 2.b), tr. 55, 56; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 2.a), tr. 55; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 2.b), tr. 55
 
 ### renovation
 - **Tiếng Việt:** Đổi mới
@@ -5362,15 +6130,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The process of changing or transforming social, economic, and political conditions to make them better and more progressive than before.
 - **Giải thích (VI):** Quá trình thay đổi hoặc làm cho các lĩnh vực đời sống kinh tế, xã hội biến chuyển tốt hơn, tiến bộ hơn so với trước.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 4 (Mục 3.a): Chỉ quá trình cải cách, thay đổi đường lối xây dựng chủ nghĩa xã hội phù hợp thực tiễn tại các nước như Việt Nam, Lào từ cuối thế kỉ XX.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92
+- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 91; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92, 93
 
 ### resistance line against French colonialism
 - **Tiếng Việt:** Đường lối kháng chiến chống thực dân Pháp
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The strategic leadership line of people's war formulated by the Party and President Ho Chi Minh, centered on waging an all-people, comprehensive, protracted, and self-reliant resistance while garnering international support.
 - **Giải thích (VI):** Hệ thống phương châm lãnh đạo chiến tranh nhân dân của Đảng và Chủ tịch Hồ Chí Minh với nội dung cốt lõi là kháng chiến toàn dân, toàn diện, trường kì, tự lực cánh sinh và tranh thủ sự ủng hộ của quốc tế.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.b): Nội dung khái quát đường lối kháng chiến chống thực dân Pháp của Đảng và Chủ tịch Hồ Chí Minh.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39, 40
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The strategic guiding doctrine for Vietnam's resistance war from 1946 to 1954, articulated in the Directive on All-People Resistance (December 12, 1946), the Appeal for National Resistance (December 19, 1946), and the work The Resistance Will Certainly Win (September 1947). Its core principles were conducting an all-people, comprehensive, protracted, and self-reliant resistance while garnering international support. / VI: Phương châm chiến lược chỉ đạo cuộc kháng chiến giai đoạn 1946 – 1954, thể hiện trong Chỉ thị Toàn dân kháng chiến (12 – 12 – 1946), Lời kêu gọi toàn quốc kháng chiến (19 – 12 – 1946) và tác phẩm Kháng chiến nhất định thắng lợi (9 – 1947). Nội dung cơ bản gồm kháng chiến toàn dân, toàn diện, trường kì, tự lực cánh sinh và tranh thủ sự giúp đỡ của quốc tế.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 7 (Mục 2.b): Nội dung khái quát đường lối kháng chiến chống thực dân Pháp của Đảng và Chủ tịch Hồ Chí Minh.
+  - Lịch sử và Địa lí lớp 9, Bài 14 (Mục 1.b): phương châm chiến lược chỉ đạo xuyên suốt cuộc kháng chiến chống thực dân Pháp xâm lược (1946 – 1954).
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39, 40; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 1.b), tr. 68; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 1.b), tr. 68, 69; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 1.a), tr. 68
 
 ### resistance war
 - **Tiếng Việt:** Kháng chiến
@@ -5378,7 +6149,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An armed struggle against foreign invaders organized by a government or state to defend national independence.
 - **Giải thích (VI):** Cuộc chiến đấu chống quân xâm lược do chính quyền hoặc nhà nước tổ chức nhằm bảo vệ nền độc lập dân tộc.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 4 (Mục 1.b): Gắn với cuộc kháng chiến chống thực dân Pháp thắng lợi năm 1954 đưa miền Bắc Việt Nam đi lên chủ nghĩa xã hội; phân biệt với khởi nghĩa giành chính quyền.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 23
+- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 23; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92, 93
 
 ### Resistance war against the Mongol army in 1258
 - **Tiếng Việt:** Cuộc kháng chiến chống quân Mông Cổ năm 1258
@@ -5414,13 +6185,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 13 (Mục 2): Nét đặc trưng trong tổ chức vương quyền của triều đại nhà Trần.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 2), tr. 63
 
+### Revers Plan
+- **Tiếng Việt:** Kế hoạch Rơ-ve
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A French military plan implemented with US aid in 1949–1950 to reinforce the defensive system along Route 4, establish an East-West corridor, and prepare for a second offensive against the Viet Bac base area.
+- **Giải thích (VI):** Kế hoạch quân sự do thực dân Pháp thực hiện với viện trợ của Mỹ năm 1949 – 1950 nhằm tăng cường hệ thống phòng thủ trên Đường số 4, lập hành lang Đông – Tây và chuẩn bị tiến công Việt Bắc lần thứ hai.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 14 (Mục 2.d): kế hoạch quân sự của Pháp – Mỹ năm 1949 – 1950 bị phá sản trong chiến dịch Biên giới thu – đông 1950.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.d), tr. 71; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.d), tr. 71, 72; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.d), tr. 72
+
 ### revisionism
 - **Tiếng Việt:** Chủ nghĩa xét lại
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** An opportunist and renegade ideological trend within the labor movement influenced by bourgeois thought, emerging in Germany in the late 19th century. It advocated compromise with the bourgeoisie and restricted political action to parliamentary struggle.
 - **Giải thích (VI):** Xu hướng cơ hội mang tính chất phản bội trong phong trào công nhân do chịu ảnh hưởng tư tưởng của giai cấp tư sản, nảy sinh ở Đức vào cuối thế kỉ XIX. Trào lưu này chủ trương thoả hiệp với giai cấp tư sản và thu hẹp hoạt động vào khuôn khổ đấu tranh nghị trường.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 4.c): Trào lưu cơ hội chủ nghĩa trong Quốc tế thứ hai bị V. I. Lê-nin đấu tranh vạch trần để bảo vệ và phát triển chủ nghĩa Mác.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 4.c), tr. 51; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 4.c), tr. 51; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171, 172
 
 ### Revitalize China and Revive Asia Society
 - **Tiếng Việt:** Chấn Hoa Hưng Á
@@ -5428,15 +6207,25 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An international solidarity organization in China co-founded by Phan Boi Chau in early 1912 to foster Asian cooperation aimed at expelling French colonial rule and winning national independence.
 - **Giải thích (VI):** Tổ chức đoàn kết quốc tế tại Trung Quốc do Phan Bội Châu tham gia thành lập vào đầu năm 1912 nhằm phối hợp lực lượng đánh đuổi thực dân Pháp, giành độc lập dân tộc.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 12 (Mục 1): Trình bày hoạt động đối ngoại của Phan Bội Châu tại Trung Quốc năm 1912.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 1), tr. 74
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 1), tr. 74; SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.a), tr. 74; SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.a), tr. 74, 75
 
 ### revolutionary base area
-- **Tiếng Việt:** Căn cứ địa cách mạng
+- **Tiếng Việt:** Căn cứ địa cách mạng (Căn cứ địa)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A territorial area with solid economic and military foundations and favorable conditions for both offensive advance and defensive retention, serving as a center for building political and armed forces and expanding the movement to other regions. It also provides material and military strength as well as spiritual and political encouragement during insurrections and people's wars.
 - **Giải thích (VI):** Khu vực lãnh thổ có cơ sở vững chắc về kinh tế, quân sự và hội tụ đủ các yếu tố thuận lợi để “tiến có thể đánh, lui có thể giữ”, dùng làm nơi xây dựng lực lượng chính trị, vũ trang và phát triển phong trào ra các vùng khác. Đây đồng thời là nơi cung cấp sức mạnh vật chất, quân sự và nguồn cổ vũ tinh thần, chính trị trong khởi nghĩa và chiến tranh nhân dân.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 6 (Mục 3.a): Quá trình chuẩn bị lực lượng lâu dài, chu đáo dẫn tới thắng lợi của Cách mạng tháng Tám năm 1945.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 3.a), tr. 34
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 6 (Mục 3.a): Quá trình chuẩn bị lực lượng lâu dài, chu đáo dẫn tới thắng lợi của Cách mạng tháng Tám năm 1945.
+  - Lịch sử và Địa lí lớp 9, Bài 8 (Mục 2.b, Mục 2.c): Sự hình thành và mở rộng căn cứ địa Bắc Sơn – Võ Nhai, Cao Bằng và Khu giải phóng Việt Bắc giai đoạn 1941 – 1945.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 3.a), tr. 34; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 2.b), tr. 36
+
+### revolutionary tactics
+- **Tiếng Việt:** Sách lược
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A set of issues concerning organizational methods, measures, forms, slogans, and operational approaches applied over a short period to carry out a revolutionary or military strategy.
+- **Giải thích (VI):** Những vấn đề về cách thức tổ chức, biện pháp, hình thức, khẩu hiệu và cách đánh trong một thời gian ngắn nhằm thực hiện chiến lược cách mạng hoặc quân sự.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 6 (Mục 2.b): Thuật ngữ gắn với văn kiện Sách lược vắn tắt của Đảng do Nguyễn Ái Quốc soạn thảo tại Hội nghị thành lập Đảng năm 1930.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B6 (Mục 2.b), tr. 29
 
 ### Rice Goddess worship
 - **Tiếng Việt:** Tín ngưỡng thờ thần Lúa (Đê-uy Sri; Nang Kho-sốp; Mae Pho-sốp)
@@ -5453,6 +6242,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nền văn hoá đặc trưng hình thành từ đời sống gắn bó mật thiết và sự thích ứng thường xuyên với môi trường sông ngòi, kênh rạch của cư dân Nam Bộ trong quá trình khai hoang, đào kênh phát triển vùng đất này từ khoảng thế kỉ XVII. Những biểu hiện tiêu biểu của phương thức thích ứng này là chợ nổi, nhà nổi cùng sinh hoạt giao thương trên sông nước.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Chủ đề chung 1 (Mục 3.b): nét văn hoá đặc trưng thể hiện sự thích ứng với tự nhiên sông nước của cư dân đồng bằng sông Cửu Long.
 - **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Chủ đề chung, Chủ đề chung 1 (Mục 3.b), tr. 163
+
+### riverine culture of the Mekong Delta
+- **Tiếng Việt:** Văn hoá sông nước ở châu thổ sông Cửu Long
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A distinctive cultural tradition formed as inhabitants of the Mekong (Cuu Long) Delta reclaimed land and adapted to the riverine natural environment. It is characterized by floating houses, floating river markets, boat and sampan transport, cuisine based on aquatic products and rice, and traditional crafts such as boatbuilding, rice-flour making, and palmyra palm sugar production.
+- **Giải thích (VI):** Nền văn hoá đặc sắc hình thành trong quá trình cư dân châu thổ sông Cửu Long khai khẩn vùng đất mới và thích ứng với môi trường tự nhiên sông nước. Đặc trưng của nền văn hoá này thể hiện qua kiến trúc nhà nổi, sinh hoạt chợ nổi trên sông, giao thông bằng ghe xuồng, ẩm thực từ thuỷ sản và lúa gạo cùng các nghề thủ công truyền thống như đóng ghe xuồng, làm bột gạo, làm đường thốt nốt.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 2 (Mục 1.b): Tìm hiểu đặc trưng đời sống vật chất, sinh kế và văn hoá thích ứng môi trường sông nước của cư dân châu thổ sông Cửu Long.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1.b), tr. 226; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 1.a), tr. 226; SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 2 (Mục 2.a), tr. 226
 
 ### Roadmap for an ASEAN Community
 - **Tiếng Việt:** Lộ trình xây dựng Cộng đồng ASEAN (Lộ trình xây dựng Cộng đồng ASEAN 2009 – 2015)
@@ -5566,7 +6363,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An ancient stone stele dating to 196 BCE discovered in Memphis (currently housed in the British Museum), bearing inscriptions whose comparison enabled French linguist Jean-François Champollion to decipher ancient Egyptian script in 1822.
 - **Giải thích (VI):** Tấm bia đá cổ có niên đại năm 196 TCN được phát hiện ở Mem-phít (hiện lưu giữ tại Bảo tàng quốc gia Anh), khắc các văn tự giúp nhà ngôn ngữ học người Pháp Giăng Phơ-răng-xoa Săm-pô-li-ông đối chiếu và giải mã thành công chữ viết của Ai Cập cổ đại vào năm 1822.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.1.b): Tư liệu khảo cổ học giúp giải mã chữ tượng hình của văn minh Ai Cập cổ đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 38
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 38; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 1.b), tr. 38, 39
 
 ### Route 14-Phuoc Long Campaign
 - **Tiếng Việt:** Chiến dịch Đường 14 – Phước Long
@@ -5600,7 +6397,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A state-run handicraft workshop maintained by the authorities in both Dang Trong and Dang Ngoai during the 16th–18th centuries. These workshops specialized in manufacturing weapons for the army, tailoring garments, crafting jewelry for mandarins, and minting coins.
 - **Giải thích (VI):** Xưởng thủ công nghiệp thuộc quyền quản lí của chính quyền nhà nước ở cả Đàng Trong và Đàng Ngoài trong các thế kỉ XVI – XVIII. Các cơ sở này chuyên sản xuất vũ khí cho quân đội, may trang phục, chế tác đồ trang sức cho quan lại và đúc tiền.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 9 (Mục 1.b): Hệ thống xưởng thủ công nhà nước tồn tại song song với các làng nghề thủ công nhân dân ở Đại Việt thế kỉ XVI – XVIII.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 1.b), tr. 41
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 1.b), tr. 41; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 1.c), tr. 41; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 1.c), tr. 41, 42
 
 ### Royal Ploughing Ceremony
 - **Tiếng Việt:** Lễ Tịch điền (Lễ cày tịch điền; cày ruộng tịch điền)
@@ -5611,7 +6408,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 12 (Mục 3.b): Minh chứng chính sách trọng nông của các vương triều quân chủ Đại Việt.
   - Lịch sử và Địa lí lớp 7, Bài 11 (Mục 3.a): Nghi lễ nhà vua đích thân cày ruộng đầu xuân nhằm khuyến khích nghề nông dưới thời Lý.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.b), tr. 111; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.b), tr. 111, 112; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.b), tr. 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.c), tr. 54
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.b), tr. 111; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.b), tr. 111, 112; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.a), tr. 111; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.b), tr. 54; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B11 (Mục 2.c), tr. 54
 
 ### rule of avoidance
 - **Tiếng Việt:** Chế độ hồi tỵ
@@ -5627,7 +6424,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The socialist revolution led by V. I. Lenin and the Bolshevik Party that overthrew the bourgeois Provisional Government in Petrograd on the night of October 25, 1917 (November 7 in the Gregorian calendar) and achieved complete victory across Russia in early 1918. It dismantled the state apparatus of the bourgeoisie and landlords, established a state of workers and peasants, and opened a path of liberation for the international labor movement and oppressed peoples.
 - **Giải thích (VI):** Cuộc cách mạng xã hội chủ nghĩa do V. I. Lê-nin và Đảng Bôn-sê-vích lãnh đạo, lật đổ Chính phủ tư sản lâm thời tại Pê-trô-grát đêm 25/10/1917 (tức ngày 7/11/1917 theo lịch dương) và giành thắng lợi hoàn toàn trên toàn nước Nga vào đầu năm 1918. Thắng lợi này đập tan bộ máy nhà nước của giai cấp tư sản và địa chủ, lập nên nhà nước của công nhân và nông dân, đồng thời mở ra con đường giải phóng cho phong trào công nhân và các dân tộc bị áp bức trên thế giới.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 12 (Mục 2): Sự kiện lịch sử vĩ đại năm 1917 làm thay đổi cục diện nước Nga và thế giới đầu thế kỉ XX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 2.b), tr. 55
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 2.b), tr. 55; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 1.b), tr. 53
 
 ### Sa Huynh culture
 - **Tiếng Việt:** Văn hoá Sa Huỳnh
@@ -5638,7 +6435,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 11 (Mục 2.a): Trình bày cội nguồn văn hoá và cơ sở xã hội bản địa của nền văn minh Chăm-pa.
   - Lịch sử và Địa lí lớp 6, Bài 19 (Mục 1.a): Nền tảng cư dân và văn hoá thời đại đồ sắt tiền thân của Vương quốc Chăm-pa ở miền Trung.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.a), tr. 100; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 1.a), tr. 87; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 1.b), tr. 87; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 1.b), tr. 87, 88
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.a), tr. 100; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.b), tr. 100; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 2.b), tr. 100, 101; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 1.a), tr. 87; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 1.b), tr. 87; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B19 (Mục 1.b), tr. 87, 88
 
 ### Sanskrit
 - **Tiếng Việt:** Tiếng San-xcrít (tiếng Phạn; Chữ Phạn; San-xkrít)
@@ -5651,7 +6448,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử lớp 10, Bài 5 (Mục II.2.b): Thành tựu ngôn ngữ, chữ viết của văn minh Ấn Độ và sự truyền bá văn hoá sang Đông Nam Á.
   - Lịch sử và Địa lí lớp 6, Bài 8 (Mục 3): thành tựu chữ viết tiêu biểu của văn minh Ấn Độ cổ đại có ảnh hưởng sâu rộng sang khu vực Đông Nam Á.
   - Lịch sử và Địa lí lớp 7, Bài 5 (Mục 2.b): Thành tựu chữ viết tiêu biểu của văn hoá Ấn Độ gắn với nền văn học cổ điển thời phong kiến.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 41; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2), tr. 36; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 36; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 36, 37; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.c), tr. 32; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 2.a), tr. 32; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 2.b), tr. 32
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 41; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 41, 42; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2), tr. 36; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 36; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 36, 37; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1.c), tr. 32; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 2.a), tr. 32; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 2.b), tr. 32
 
 ### Sat That motto
 - **Tiếng Việt:** Sát Thát
@@ -5667,7 +6464,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The revolutionary doctrine of the working class founded by Karl Marx and Friedrich Engels in the mid-19th century, marked by the publication of the Manifesto of the Communist Party in 1848. It brought about a profound revolution in the history of human thought and guided the proletarian struggle against capitalism.
 - **Giải thích (VI):** Học thuyết cách mạng của giai cấp công nhân do C. Mác và Ph. Ăng-ghen sáng lập vào giữa thế kỉ XIX, đánh dấu bằng sự ra đời của Tuyên ngôn của Đảng Cộng sản năm 1848. Học thuyết này tạo nên cuộc cách mạng sâu sắc trong lịch sử tư tưởng nhân loại và định hướng cuộc đấu tranh của giai cấp vô sản chống chủ nghĩa tư bản.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 13 (Mục 1.a): Đỉnh cao của các trào lưu tư tưởng tiến bộ thế kỉ XIX (cũng được trình bày trọng tâm ở Bài 11, Mục 2).
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 57
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 57; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 57; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 57, 58
 
 ### sea-reclamation dike building
 - **Tiếng Việt:** Quai đê lấn biển
@@ -5683,7 +6480,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The industrial revolution spanning from the mid-nineteenth century to the outbreak of World War I (1914) across Europe and North America, driven by large-scale financial capital investment and the direct application of breakthroughs in physics, chemistry, and biology to industrial production.
 - **Giải thích (VI):** Cuộc cách mạng công nghiệp diễn ra từ giữa thế kỉ XIX đến trước Chiến tranh thế giới thứ nhất (1914) ở châu Âu và Bắc Mỹ, phát triển trên nền tảng đầu tư tư bản tài chính lớn và sự ứng dụng trực tiếp các thành tựu khoa học tự nhiên về Vật lí, Hoá học, Sinh học vào sản xuất.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 7 (Mục 2): Bối cảnh lịch sử và các thành tựu trọng tâm của cuộc Cách mạng công nghiệp lần thứ hai.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.a), tr. 62; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 62, 63
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.a), tr. 62; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 62, 63; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 2.b), tr. 62
 
 ### Second International
 - **Tiếng Việt:** Quốc tế thứ hai
@@ -5691,15 +6488,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An international organization of the labor movement founded in Paris, France, on July 14, 1889, to succeed the First International. Guided actively by Friedrich Engels, it contributed significantly to the global labor movement in the late 19th century, though anti-Marxist opportunist elements gradually gained dominance after his death.
 - **Giải thích (VI):** Tổ chức quốc tế của phong trào công nhân thành lập ngày 14/7/1889 tại Pa-ri (Pháp) để kế tục Quốc tế thứ nhất. Với sự dẫn dắt tích cực của Ph. Ăng-ghen, tổ chức này thúc đẩy mạnh mẽ phong trào công nhân cuối thế kỉ XIX, song sau khi ông qua đời, các phần tử cơ hội chủ nghĩa chống lại chủ nghĩa Mác dần chiếm ưu thế.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 4.c): Tổ chức quốc tế của phong trào công nhân hoạt động từ cuối thế kỉ XIX đến đầu thế kỉ XX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 4.c), tr. 51
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 4.c), tr. 51; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 2), tr. 49; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 4.b), tr. 51
 
 ### Second National Congress of the Indochinese Communist Party
 - **Tiếng Việt:** Đại hội đại biểu lần thứ II của Đảng Cộng sản Đông Dương
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A congress of the Indochinese Communist Party convened in Chiem Hoa (Tuyen Quang) in February 1951, which decided to rename the Party the Vietnam Workers' Party and reaffirmed, supplemented, and perfected the resistance line against French colonialism.
 - **Giải thích (VI):** Đại hội của Đảng Cộng sản Đông Dương họp tại Chiêm Hoá (Tuyên Quang) vào tháng 2 – 1951, quyết định đổi tên Đảng thành Đảng Lao động Việt Nam và khẳng định, bổ sung, hoàn chỉnh đường lối kháng chiến chống thực dân Pháp.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.c): Sự kiện chính trị trọng đại đánh dấu bước phát triển mới trong lãnh đạo cuộc kháng chiến chống thực dân Pháp.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 40; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.c), tr. 40; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.c), tr. 40, 41
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The congress of the Indochinese Communist Party convened in February 1951 in Tuyen Quang Province, reaffirming the anti-French resistance line and deciding strategic issues of the Vietnamese revolution. It marked a new milestone in the Party's maturity and revolutionary leadership, going down in history as the Congress of Victorious Resistance. / VI: Kì đại hội của Đảng Cộng sản Đông Dương họp vào tháng 2 – 1951 tại tỉnh Tuyên Quang nhằm khẳng định đường lối kháng chiến chống Pháp và quyết định nhiều vấn đề chiến lược của cách mạng Việt Nam. Sự kiện này đánh dấu bước phát triển mới trong quá trình trưởng thành và lãnh đạo cách mạng của Đảng, đi vào lịch sử với ý nghĩa là Đại hội kháng chiến thắng lợi.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 7 (Mục 2.c): Sự kiện chính trị trọng đại đánh dấu bước phát triển mới trong lãnh đạo cuộc kháng chiến chống thực dân Pháp.
+  - Lịch sử và Địa lí lớp 9, Bài 15 (Mục 1.a): sự kiện chính trị trọng đại mở đầu giai đoạn phát triển mới của cuộc kháng chiến chống thực dân Pháp (1951 – 1954).
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 40; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.c), tr. 40; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.c), tr. 40, 41; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15 (Mục 1.a), tr. 74; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15 (Mục 1.b), tr. 74
 
 ### secondary historical source
 - **Tiếng Việt:** Sử liệu thứ cấp
@@ -5732,8 +6532,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A revolutionary guideline that relies primarily on the strength of the people to wage struggle without depending passively on external assistance.
 - **Giải thích (VI):** Đường lối cách mạng lấy sức mạnh của nhân dân làm chỗ dựa chính để tiến hành đấu tranh, không ỷ lại vào sự giúp đỡ từ bên ngoài.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.b): Phương châm cốt lõi trong đường lối kháng chiến chống thực dân Pháp của Đảng.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 7 (Mục 2.b): Phương châm cốt lõi trong đường lối kháng chiến chống thực dân Pháp của Đảng.
+  - Lịch sử và Địa lí lớp 9, Bài 14 (Mục 1.b): một trong bốn nội dung cốt lõi của đường lối kháng chiến chống thực dân Pháp xâm lược.
+  - *Lưu ý:* In Vietnamese revolutionary history, denotes a core strategic principle of relying primarily on the people's own strength rather than external aid.
+  - *Lưu ý:* Không nhầm với 'Tự lập' (`self-reliance (economics)`) trong Giáo dục Kinh tế và Pháp luật.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 1.b), tr. 68
 
 ### semi-feudal colonial society
 - **Tiếng Việt:** Xã hội thuộc địa nửa phong kiến (nước thuộc địa nửa phong kiến)
@@ -5741,7 +6545,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The social formation that emerged in Vietnam under French colonial rule and exploitation in the early 20th century, in which supreme power rested with the French colonialists while a segment of native feudal landlords served as subordinate instruments of rule and exploitation. This society was characterized by two fundamental contradictions: between the entire Vietnamese nation and French colonialism, and between the peasantry and feudal landlords.
 - **Giải thích (VI):** Hình thái xã hội hình thành ở Việt Nam dưới ách cai trị và khai thác của thực dân Pháp đầu thế kỉ XX, trong đó quyền lực tối cao nằm trong tay thực dân Pháp còn một bộ phận địa chủ phong kiến bản xứ trở thành công cụ tay sai thống trị, bóc lột. Trong xã hội này tồn tại hai mâu thuẫn cơ bản là mâu thuẫn giữa toàn thể dân tộc Việt Nam với thực dân Pháp và mâu thuẫn giữa nông dân với địa chủ phong kiến.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 19 (Mục 1): Tính chất xã hội và hai mâu thuẫn cơ bản của Việt Nam đầu thế kỉ XX sau cuộc khai thác thuộc địa lần thứ nhất.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 1), tr. 87
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 1), tr. 87; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 1), tr. 87, 88
 
 ### Sepoy Mutiny
 - **Tiếng Việt:** Khởi nghĩa Xi-pay (cuộc khởi nghĩa Xi-pay)
@@ -5751,7 +6555,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 15 (Mục 1): Cuộc đấu tranh vũ trang giành độc lập dân tộc tiêu biểu của nhân dân Ấn Độ giữa thế kỉ XIX.
   - *Lưu ý:* Trong sử học quốc tế, sự kiện này còn có tên tiếng Anh phổ biến là Indian Rebellion of 1857.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B15 (Mục 1), tr. 66
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B15 (Mục 1), tr. 66; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B15 (Mục 2), tr. 66
 
 ### serf
 - **Tiếng Việt:** Nông nô
@@ -5770,7 +6574,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A social reform policy enacted by Ho Quy Ly alongside landholding limitations, stipulating a fixed quota of household serfs that aristocrats and officials could own according to rank. This measure aimed to weaken the private power base of the Tran nobility, although its implementation remained incomplete in practice.
 - **Giải thích (VI):** Chính sách cải cách xã hội do Hồ Quý Ly thực hiện song hành với phép hạn điền, quy định mỗi quý tộc, quan lại chỉ được sở hữu một số lượng gia nô nhất định theo phẩm cấp. Biện pháp này nhằm làm suy yếu thế lực riêng của quý tộc nhà Trần, dù trên thực tế việc thực thi vẫn chưa triệt để.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 2.a, 2.b): Biện pháp hạn chế số lượng gia nô của tầng lớp quý tộc trong cải cách Hồ Quý Ly.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.a), tr. 75; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.b), tr. 75
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.a), tr. 75; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.b), tr. 75; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1), tr. 75
 
 ### significance of learning history
 - **Tiếng Việt:** Ý nghĩa của việc học lịch sử
@@ -5794,7 +6598,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The historical impact of Siam's reforms: promoting production and commodity exports, steering the Kingdom of Siam along a capitalist path, and integrating it progressively into the world. Built upon these reform achievements, the Siamese government gained the strength to conduct flexible diplomacy, preserving national independence and sovereignty without falling into colonial status and demonstrating an effective response to Western colonial aggression in Southeast Asia.
 - **Giải thích (VI):** Tác dụng lịch sử của công cuộc cải cách ở Xiêm: thúc đẩy sản xuất phát triển, mở cửa xuất khẩu hàng hoá, đưa Vương quốc Xiêm phát triển theo con đường tư bản chủ nghĩa và từng bước hội nhập thế giới. Trên cơ sở thành tựu cải cách, Chính phủ Xiêm có thực lực thực hiện đường lối ngoại giao mềm dẻo để giữ vững độc lập, chủ quyền mà không rơi vào tình trạng thuộc địa, trở thành con đường ứng phó hiệu quả với làn sóng xâm lược của thực dân phương Tây ở Đông Nam Á.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 5 (Mục 2): Giải thích vì sao Xiêm là quốc gia duy nhất ở Đông Nam Á giữ được nền độc lập trước làn sóng thực dân phương Tây.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 2), tr. 35, 36
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 2), tr. 35, 36; SGK Lịch sử 11 KNTT, Chủ đề 03, B5 (Mục 2), tr. 35
 
 ### Silk Road
 - **Tiếng Việt:** Con đường tơ lụa (“con đường tơ lụa”)
@@ -5805,7 +6609,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 5 (Mục II.3.a): Hoạt động giao thương kinh tế và giao lưu văn hoá Đông – Tây khởi nguồn từ Trung Hoa cổ – trung đại.
   - Lịch sử và Địa lí lớp 7, Bài 4 (Mục 2): Mạng lưới ngoại thương và giao lưu văn hoá quốc tế sầm uất của Trung Quốc từ thời Đường.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.a), tr. 43; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 1), tr. 25; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 25
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 3.a), tr. 43; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 1), tr. 25; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 02, B4 (Mục 2), tr. 25
 
 ### Sino-Tibetan language family
 - **Tiếng Việt:** Ngữ hệ Hán – Tạng
@@ -5831,6 +6635,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử lớp 11, Bài 10 (Mục 2): Cơ chế phân công và giám sát, kiềm chế quyền lực lẫn nhau trong chính quyền trung ương thời Lê Thánh Tông.
 - **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 05, B10 (Mục 1), tr. 65; SGK Lịch sử 11 KNTT, Chủ đề 05, B10 (Mục 2), tr. 65; SGK Lịch sử 11 KNTT, Chủ đề 05, B10 (Mục 2), tr. 65, 66
 
+### Sixth National Assembly of Vietnam
+- **Tiếng Việt:** Quốc hội Khoá VI (Tổng tuyển cử bầu Quốc hội chung)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The unified National Assembly of reunified Vietnam elected through the nationwide general election on April 25, 1976. At its first session (June 24 – July 3, 1976), the Assembly adopted domestic and foreign policies, decided on the country's name as the Socialist Republic of Vietnam, determined the National Emblem, the red flag with a golden star as the National Flag, “Tien Quan Ca” as the National Anthem, and Hanoi as the Capital, and renamed Saigon–Gia Dinh as Ho Chi Minh City.
+- **Giải thích (VI):** Quốc hội chung của nước Việt Nam thống nhất được bầu qua cuộc Tổng tuyển cử trong cả nước ngày 25 – 4 – 1976. Tại kì họp thứ nhất (từ ngày 24 – 6 đến ngày 3 – 7 – 1976), Quốc hội đã thông qua chính sách đối nội, đối ngoại, quyết định tên nước là Cộng hoà xã hội chủ nghĩa Việt Nam, quy định Quốc huy, Quốc kì cờ đỏ sao vàng, Quốc ca là bài Tiến quân ca, Thủ đô là Hà Nội và đổi tên thành phố Sài Gòn – Gia Định thành Thành phố Hồ Chí Minh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 20 (Mục 1): Dấu mốc hoàn thành sự nghiệp thống nhất đất nước về mặt Nhà nước năm 1976.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 1), tr. 102; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 2), tr. 102; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 2), tr. 102, 103
+
+### Sixth National Congress of the Communist Party of Vietnam
+- **Tiếng Việt:** Đại hội đại biểu toàn quốc lần thứ VI của Đảng Cộng sản Việt Nam (Đại hội VI)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The landmark congress of the Communist Party of Vietnam convened in December 1986 that adopted the policy of comprehensive national renewal. The reform line with specific objectives and tasks for each historical stage has been continually supplemented and developed through subsequent Party congresses since 1991.
+- **Giải thích (VI):** Kì đại hội lịch sử của Đảng Cộng sản Việt Nam họp vào tháng 12 – 1986, đề ra chủ trương đổi mới toàn diện đất nước. Nội dung đường lối đổi mới với những mục tiêu, nhiệm vụ cụ thể trong từng giai đoạn lịch sử tiếp tục được bổ sung và phát triển qua các kì đại hội Đảng từ năm 1991 đến nay.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 20 (Mục 4.b): Dấu mốc lịch sử mở đầu công cuộc Đổi mới toàn diện đất nước từ tháng 12 – 1986.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 4.b), tr. 106; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 4.a), tr. 106; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 4.c), tr. 106
+
 ### slave
 - **Tiếng Việt:** Nô lệ
 - **Chuyên ngành gốc:** Lịch sử
@@ -5841,6 +6661,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 10 (Mục 1.a): lực lượng lao động bị mua bán phổ biến tại các trung tâm thương mại lớn như cảng Pi-rê thời Hy Lạp – La Mã cổ đại.
   - Lịch sử và Địa lí lớp 7, Bài 1 (Mục 1): tầng lớp đấu tranh làm khủng hoảng đế quốc La Mã, sau khi giải phóng đã hợp với nông dân tự do mất ruộng trở thành nông nô.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B10 (Mục 1.a), tr. 45; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1), tr. 9; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1), tr. 10; SGK Lịch sử và Địa lí 7 KNTT, Bảng giải thích thuật ngữ, tr. 176
+
+### smart city
+- **Tiếng Việt:** Thành phố thông minh
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A modern urban model based on applying information and communications technology across all activities, comprising six pillars: smart economy, smart governance, smart mobility, smart environment, smart living, and smart people.
+- **Giải thích (VI):** Mô hình đô thị hiện đại dựa vào việc ứng dụng công nghệ thông tin và truyền thông vào tất cả các hoạt động, gồm sáu trụ cột: nền kinh tế thông minh, chính quyền thông minh, giao thông thông minh, môi trường thông minh, cuộc sống thông minh và cư dân thông minh.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 21 (Mục 1.a): Mô hình đô thị ứng dụng thành tựu công nghệ thông tin và kĩ thuật số của cuộc cách mạng khoa học – kĩ thuật hiện đại.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 112, 113; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 112; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.a), tr. 113; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 07, B21 (Mục 1.b), tr. 113, 114
 
 ### social differentiation of primitive society in the East
 - **Tiếng Việt:** Sự phân hoá xã hội nguyên thuỷ ở phương Đông
@@ -5864,7 +6692,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The development of socialism since 1991, marked by China, Vietnam, and Laos in Asia progressively implementing reform, opening-up, and renovation while steadfastly building socialism, alongside Cuba in Latin America pursuing selective economic reforms while prioritizing free education and healthcare. Achievements in these countries demonstrate that socialism possesses real vitality and prospects aligned with practical realities and contemporary global trends.
 - **Giải thích (VI):** Quá trình vận động của chủ nghĩa xã hội từ năm 1991 đến nay, trong đó Trung Quốc, Việt Nam, Lào ở châu Á từng bước cải cách, mở cửa, đổi mới và kiên định xây dựng chủ nghĩa xã hội, còn Cu-ba ở Mỹ La-tinh cải cách kinh tế từng bước, có chọn lọc gắn với ưu tiên giáo dục, y tế miễn phí. Những thành tựu đổi mới, cải cách đó chứng minh chủ nghĩa xã hội có sức sống, triển vọng thực sự và phù hợp với thực tiễn cùng xu thế phát triển của thời đại.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 4 (Mục 3.a): Khái quát tình hình đổi mới, cải cách và triển vọng phát triển của các nước xã hội chủ nghĩa sau năm 1991.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 3.a), tr. 25, 26; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 3.a), tr. 27
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 3.a), tr. 25, 26; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 3.a), tr. 27; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 2), tr. 25; SGK Lịch sử 11 KNTT, Chủ đề 02, B4 (Mục 3.a), tr. 25
+
+### socialist industrialization
+- **Tiếng Việt:** Công nghiệp hoá xã hội chủ nghĩa
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An economic construction policy established by the Bolshevik Party in December 1925 in the Soviet Union, focusing primarily on the development of heavy industry. Through two Five-Year Plans (1928–1932 and 1933–1937), this policy transformed the Soviet Union into a global industrial power.
+- **Giải thích (VI):** Đường lối xây dựng kinh tế do Đảng Bôn-sê-vích xác định từ tháng 12 – 1925 ở Liên Xô, đặt trọng tâm vào việc ưu tiên phát triển công nghiệp nặng. Trải qua hai kế hoạch 5 năm (1928 – 1932 và 1933 – 1937), chủ trương này đã đưa Liên Xô trở thành một cường quốc công nghiệp trên thế giới.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 1 (Mục 2): Nhiệm vụ trọng tâm xây dựng chủ nghĩa xã hội ở Liên Xô, đưa sản lượng công nghiệp Liên Xô đứng đầu châu Âu và thứ hai thế giới.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1), tr. 8; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 2), tr. 8; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 2), tr. 8, 9
+
+### Socialist Rule-of-Law State of Vietnam
+- **Tiếng Việt:** Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam (Nhà nước pháp quyền xã hội chủ nghĩa)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The model of state power organization of the people, by the people, and for the people under the leadership of the Communist Party of Vietnam, institutionalized in the 1992 and 2013 Constitutions to provide a vital political and legal foundation for the Doi Moi process.
+- **Giải thích (VI):** Mô hình tổ chức quyền lực nhà nước của nhân dân, do nhân dân và vì nhân dân dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, được thể hiện rõ nét trong các bản Hiến pháp năm 1992 và năm 2013 nhằm tạo cơ sở chính trị – pháp lí quan trọng cho công cuộc Đổi mới.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 20 (Mục 4.b, 4.c): Mục tiêu và thành tựu xây dựng bộ máy nhà nước, hệ thống pháp luật của Việt Nam trong thời kì Đổi mới.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 4.b, 4.c), tr. 106, 108; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 4.b), tr. 106; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 4.c), tr. 108; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 4.c), tr. 108, 109
 
 ### socio-cultural achievements of Doi Moi
 - **Tiếng Việt:** Thành tựu đổi mới về văn hoá – xã hội
@@ -5872,7 +6716,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Comprehensive advances achieved during Doi Moi reflected in successful poverty reduction, Vietnam's exit from underdevelopment, rising household incomes, a higher Human Development Index (HDI), increased life expectancy, and improved universal healthcare. Education has expanded in scale and institutional diversity, science and technology have mastered and applied modern technologies, and tangible and intangible cultural values have been preserved and evaluated in accordance with international standards.
 - **Giải thích (VI):** Những bước tiến toàn diện của Việt Nam thời kì Đổi mới thể hiện ở việc thực hiện thành công xoá đói, giảm nghèo, đưa đất nước ra khỏi tình trạng kém phát triển, nâng cao thu nhập, Chỉ số phát triển con người (HDI), tuổi thọ trung bình và chăm sóc sức khoẻ toàn dân. Bên cạnh đó, giáo dục phát triển mới về quy mô và đa dạng hoá loại hình trường lớp, khoa học – công nghệ làm chủ và ứng dụng hiệu quả công nghệ tiên tiến, còn các giá trị văn hoá vật thể và phi vật thể được bảo tồn, phát huy theo chuẩn quốc tế.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 11 (Mục 1.c): Trình bày các thành tựu cơ bản trên lĩnh vực văn hoá, xã hội, y tế, giáo dục và khoa học – công nghệ thời kì Đổi mới.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.c), tr. 68, 69
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.c), tr. 68, 69; SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.b), tr. 68; SGK Lịch sử 12 KNTT, Chủ đề 04, B11 (Mục 1.c), tr. 68
 
 ### socio-economic transformations under Northern domination
 - **Tiếng Việt:** Chuyển biến kinh tế – xã hội thời Bắc thuộc
@@ -5899,7 +6743,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 6 (Mục 1.b): Thành tựu thiên văn học và phép làm lịch của cư dân Hy Lạp – La Mã cổ đại.
   - Lịch sử và Địa lí lớp 6, Bài 3 (Mục 2): phân biệt hệ lịch tính theo chu kì Mặt Trời với âm lịch và làm cơ sở tìm hiểu sự ra đời của Công lịch.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 52, 53; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2), tr. 15
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 52, 53; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 52; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2), tr. 15
 
 ### Southeast Asian architecture
 - **Tiếng Việt:** Kiến trúc Đông Nam Á
@@ -5907,7 +6751,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A system of religious and spiritual architectural monuments (temples, pagodas, and stupas) built by Southeast Asian peoples during the ancient and medieval periods in Buddhist and Hindu styles influenced by Indian culture. Grounded in indigenous traditions, regional states selectively adapted external elements to create distinctive forms expressing each nation's cultural identity.
 - **Giải thích (VI):** Hệ thống công trình kiến trúc tôn giáo và tín ngưỡng (đền, chùa, tháp) do cư dân Đông Nam Á tạo dựng thời kì cổ – trung đại, mang phong cách Phật giáo và Hin-đu giáo chịu ảnh hưởng của văn hoá Ấn Độ. Trên nền tảng văn hoá bản địa, các quốc gia tiếp thu có chọn lọc yếu tố bên ngoài để tạo nên nét độc đáo và bản sắc văn hoá riêng của từng dân tộc.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 10 (Mục 2.c): Trình bày đặc điểm và bản sắc của nghệ thuật kiến trúc Đông Nam Á thời kì cổ – trung đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.c), tr. 89; SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.c), tr. 89, 90
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.c), tr. 89; SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.c), tr. 89, 90; SGK Lịch sử 10 KNTT, Chủ đề 05, B10 (Mục 2.b), tr. 89
 
 ### Southeast Asian folk literature
 - **Tiếng Việt:** Văn học dân gian Đông Nam Á
@@ -5963,7 +6807,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Two rival feudal governments coexisting in 16th-century Dai Viet, comprising the Northern Court of the Mac Dynasty in the north (based at Dong Kinh) and the Southern Court established in 1533 in Thanh Hoa by Nguyen Kim under the banner of 'supporting the Le and overthrowing the Mac'.
 - **Giải thích (VI):** Hai chính quyền phong kiến đối lập cùng tồn tại ở Đại Việt thế kỉ XVI, gồm Bắc triều của nhà Mạc ở phía bắc (đóng đô tại Đông Kinh) và Nam triều do Nguyễn Kim thiết lập năm 1533 tại Thanh Hoá dưới danh nghĩa “phù Lê diệt Mạc” nhằm khôi phục vương triều Lê.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 5 (Mục 2.a): cục diện hai chính quyền phong kiến đối lập ở Đại Việt thế kỉ XVI.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B5 (Mục 2.a), tr. 24
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B5 (Mục 2.a), tr. 24; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B5 (Mục 1), tr. 24; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B5 (Mục 2.a), tr. 24, 25
 
 ### Southern and Northern Courts Conflict
 - **Tiếng Việt:** Xung đột Nam – Bắc triều
@@ -5971,7 +6815,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A nearly 60-year civil war (1533–1592) in Dai Viet between the Southern Court and the Northern Court, ending when the Southern Court captured Thang Long (Dong Kinh) and the Mac Dynasty retreated to Cao Bang. The prolonged conflict divided the country, turned Thanh–Nghe and the Red River Delta into battlefields, devastated villages, stalled production, and plunged the populace into extreme hardship.
 - **Giải thích (VI):** Cuộc nội chiến kéo dài gần 60 năm (1533 – 1592) giữa Nam triều và Bắc triều ở Đại Việt, chấm dứt khi Nam triều chiếm được Thăng Long (Đông Kinh) và nhà Mạc phải rút lên Cao Bằng. Xung đột làm đất nước bị chia cắt, biến vùng Thanh – Nghệ và đồng bằng Bắc Bộ thành chiến trường, tàn phá làng mạc, đình trệ sản xuất và đẩy đời sống nhân dân vào cảnh khốn cùng.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 5 (Mục 2.a, 2.b): diễn biến và hệ quả kinh tế – xã hội của cuộc nội chiến phong kiến thế kỉ XVI.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B5 (Mục 2.a), tr. 24, 25; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B5 (Mục 2.b), tr. 25
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B5 (Mục 2.a), tr. 24, 25; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B5 (Mục 2.b), tr. 25; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B5 (Mục 2.a), tr. 25; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B5 (Mục 3.a), tr. 25
 
 ### Southern Resistance Committee
 - **Tiếng Việt:** Uỷ ban kháng chiến Nam Bộ
@@ -5987,7 +6831,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The historical period of Southern Vietnam (Nam Bo) following the collapse of Funan, during which the region nominally belonged to Chenla while the Angkor court exercised virtually no direct administration over its sparsely populated land. Local inhabitants settled in villages on western elevated terrain to practice wet-rice farming, animal husbandry, fishing, handicrafts, and petty trade, alongside the arrival of early Viet migrant groups reclaiming land at Mo Xoai (Ba Ria–Vung Tau) and Dong Nai.
 - **Giải thích (VI):** Giai đoạn lịch sử vùng đất Nam Bộ sau khi Vương quốc Phù Nam sụp đổ, tuy trên danh nghĩa thuộc Chân Lạp nhưng thực tế triều đình Ăng-co hầu như không quản lí trực tiếp và dân cư còn rất thưa vắng. Cư dân bản địa tụ cư thành xóm làng ở vùng đất cao phía tây để trồng lúa nước, chăn nuôi, đánh bắt thuỷ hải sản, làm nghề thủ công và buôn bán nhỏ, đồng thời bắt đầu xuất hiện các nhóm lưu dân người Việt vào khẩn hoang lập làng tại Mô Xoài (Bà Rịa – Vũng Tàu), Đồng Nai.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 2.a, 2.b): Tình hình chính trị, kinh tế và cư dân vùng đất Nam Bộ trước khi sáp nhập vào lãnh thổ Đại Việt.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.a), tr. 93, 94; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.b), tr. 94
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.a), tr. 93, 94; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.b), tr. 94; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 93; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.a), tr. 93
+
+### Southern Vietnam Resistance
+- **Tiếng Việt:** Nam Bộ kháng chiến (Cuộc kháng chiến chống thực dân Pháp trở lại xâm lược của nhân dân Nam Bộ)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The armed resistance launched by the military and people of Southern Vietnam beginning on September 23, 1945 after British-backed French forces seized the Southern Administrative Committee headquarters in Saigon to initiate their second war of aggression against Vietnam. This struggle pinned down French troops in the South for many months, buying crucial time for the nation to prepare its resistance.
+- **Giải thích (VI):** Cuộc chiến đấu vũ trang mở đầu của quân dân Nam Bộ nổ ra từ sáng 23 – 9 – 1945 ngay sau khi thực dân Pháp được quân Anh giúp sức đánh úp trụ sở Uỷ ban hành chính Nam Bộ tại Sài Gòn, mở đầu cuộc chiến tranh xâm lược Việt Nam lần thứ hai. Cuộc chiến đấu kiên cường này đã giam chân quân Pháp tại Nam Bộ trong nhiều tháng, tạo điều kiện cho cả nước chuẩn bị lực lượng kháng chiến.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 13 (Mục 3): cuộc chiến đấu mở đầu kiên cường chống thực dân Pháp quay trở lại xâm lược Việt Nam lần thứ hai.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B13 (Mục 3), tr. 64; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B13 (Mục 2.a), tr. 64; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B13 (Mục 2.b), tr. 64
 
 ### Southwestern border defense struggle of Vietnam
 - **Tiếng Việt:** Cuộc chiến đấu bảo vệ Tổ quốc ở vùng biên giới Tây Nam
@@ -5995,7 +6847,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A legitimate self-defense struggle waged by the Vietnamese armed forces and people against the war of aggression along the Southwestern border launched by the Pol Pot regime after April 1975. Across two phases (April 30, 1977 to January 7, 1979), Vietnamese forces repelled and shattered the bulk of the enemy's main forces and, at the request of the Kampuchean United Front for National Salvation, joined Cambodian forces and people in overthrowing the Pol Pot regime and liberating Phnom Penh on January 7, 1979.
 - **Giải thích (VI):** Cuộc đấu tranh tự vệ chính đáng của quân dân Việt Nam chống lại cuộc chiến tranh xâm lược biên giới Tây Nam do chính quyền Pôn Pốt phát động từ sau tháng 4 – 1975. Trải qua hai giai đoạn (từ ngày 30 – 4 – 1977 đến ngày 7 – 1 – 1979), quân dân Việt Nam đã đánh lui, làm tan rã đại bộ phận quân chủ lực đối phương và theo yêu cầu của Mặt trận Đoàn kết dân tộc cứu nước Cam-pu-chia phối hợp cùng quân dân Cam-pu-chia đánh đổ chính quyền Pôn Pốt, giải phóng Thủ đô Phnôm Pênh ngày 7 – 1 – 1979.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 9 (Mục 2.a): Trình bày nguyên nhân, hai giai đoạn diễn biến và kết quả của cuộc đấu tranh bảo vệ biên giới Tây Nam Tổ quốc.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.a), tr. 55, 56
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.a), tr. 55, 56; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 1), tr. 55; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.a), tr. 55
 
 ### sovereignty
 - **Tiếng Việt:** Chủ quyền
@@ -6003,15 +6855,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The supreme authority of an independent nation or state to exercise control over its territory and property and to determine its own destiny. This authority is affirmed in domestic law as well as international legal instruments and serves as a fundamental principle to be upheld.
 - **Giải thích (VI):** Quyền tối cao của một dân tộc hoặc một quốc gia độc lập trong việc tự làm chủ đất đai, tài sản và tự quyết định vận mệnh của mình. Quyền này được khẳng định trong pháp luật quốc gia cũng như các văn bản pháp lí quốc tế và là nguyên tắc cơ bản cần tuân theo.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 16 (Mục 4): Khái niệm pháp lí gắn với quá trình xác lập và thực thi chủ quyền của nhà Nguyễn đối với hai quần đảo Hoàng Sa và Trường Sa.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 4), tr. 73; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 4), tr. 73; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171, 172
 
 ### Soviet
 - **Tiếng Việt:** Xô viết (Xô viết đại biểu công nhân; đại biểu công nhân)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A self-governing revolutionary council originating in the Russian Revolution of 1905–1907 that brought together deputies of workers, peasants, and soldiers. It functioned as an organ of revolutionary state power in Russia in 1917 and served as the precursor to the Soviet state.
 - **Giải thích (VI):** Tổ chức tự quản của quần chúng cách mạng khởi nguồn từ phong trào cách mạng 1905 – 1907 ở Nga, quy tụ các đại biểu công nhân, nông dân và binh lính. Đây là hình thức tổ chức chính quyền cách mạng ở Nga năm 1917 và là tiền thân của Nhà nước Liên Xô sau này.
-- **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 12 (Mục 1.b, Mục 2.a): Tổ chức chính quyền cách mạng của quần chúng lao động Nga trong năm 1917.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: Revolutionary self-governing council that emerged during the 1905–1907 revolution in Russia (meaning "committee" or "council" in Russian), serving as the organ of revolutionary state power and the precursor to the Soviet state. / VI: Tổ chức tự quản cách mạng ra đời trong phong trào cách mạng 1905 – 1907 ở Nga (trong tiếng Nga có nghĩa là "Uỷ ban"), giữ vai trò là tổ chức chính quyền cách mạng và tiền thân của Nhà nước Liên Xô.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 8, Bài 12 (Mục 1.b, Mục 2.a): Tổ chức chính quyền cách mạng của quần chúng lao động Nga trong năm 1917.
+  - Lịch sử và Địa lí lớp 9, Bài 1 (Mục 1, 2): Hình thức chính quyền cách mạng gắn với sự ra đời của nước Nga Xô viết và Liên bang Cộng hoà xã hội chủ nghĩa Xô viết.
+  - *Lưu ý:* Chỉ tổ chức uỷ ban tự quản cách mạng ra đời ở Nga từ phong trào cách mạng 1905 – 1907 và trở thành hình thức chính quyền nhà nước sau Cách mạng tháng Mười năm 1917.
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B12 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172, 173; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1), tr. 7
 
 ### space exploration
 - **Tiếng Việt:** Công cuộc chinh phục vũ trụ
@@ -6022,12 +6878,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B8 (Mục 1.b), tr. 71
 
 ### Special War strategy
-- **Tiếng Việt:** Chiến lược Chiến tranh đặc biệt
+- **Tiếng Việt:** Chiến lược Chiến tranh đặc biệt (Chiến lược “Chiến tranh đặc biệt”; “Chiến tranh đặc biệt”)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A form of neocolonial war of aggression waged by the United States in South Vietnam (1961–1965) using the Saigon army under US military advisers and backed by US weaponry and war matériel, based on the core scheme of "using Vietnamese to fight Vietnamese." This strategy implemented the Staley-Taylor pacification plan, forcibly relocated civilians into "strategic hamlets," and widely employed "heliborne" and "armored-personnel-carrier" tactics.
 - **Giải thích (VI):** Loại hình chiến tranh xâm lược thực dân mới do Mỹ triển khai ở miền Nam Việt Nam (1961 – 1965), tiến hành bằng lực lượng quân đội Sài Gòn dưới sự chỉ huy của cố vấn Mỹ, dựa vào vũ khí và phương tiện chiến tranh của Mỹ với âm mưu cơ bản là “dùng người Việt đánh người Việt”. Chiến lược này thực hiện kế hoạch bình định Xta-lây Tay-lo, dồn dân lập “ấp chiến lược” và sử dụng phổ biến các chiến thuật “trực thăng vận”, “thiết xa vận”.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.b): Bản chất, âm mưu và thủ đoạn của chiến lược chiến tranh do Mỹ tiến hành ở miền Nam giai đoạn 1961 – 1965.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47, 48
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A neocolonial war of aggression strategy waged by the United States in South Vietnam (1961–1965) using the Saigon client army commanded by US advisers and backed by US weapons, equipment, and war materiel under the scheme of "using Vietnamese to fight Vietnamese." Aiming to pacify South Vietnam within 18 months, the US increased military aid to the Ngo Dinh Diem regime, carried out forced relocation into "strategic hamlets," and widely employed "heliborne" and "armored personnel carrier" tactics. / VI: Chiến lược chiến tranh xâm lược thực dân mới của Mỹ ở miền Nam Việt Nam (1961 – 1965), được tiến hành bằng quân đội tay sai do cố vấn Mỹ chỉ huy, dựa vào vũ khí, trang bị kĩ thuật và phương tiện chiến tranh của Mỹ nhằm thực hiện âm mưu “dùng người Việt đánh người Việt”. Với âm mưu bình định miền Nam trong vòng 18 tháng, Mỹ tăng cường viện trợ cho chính quyền Ngô Đình Diệm, tiến hành “dồn dân, lập ấp chiến lược” và sử dụng phổ biến các chiến thuật “trực thăng vận”, “thiết xa vận”.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.b): Bản chất, âm mưu và thủ đoạn của chiến lược chiến tranh do Mỹ tiến hành ở miền Nam giai đoạn 1961 – 1965.
+  - Lịch sử và Địa lí lớp 9, Bài 16 (Mục 2.b): chiến lược chiến tranh thực dân mới của Mỹ ở miền Nam giai đoạn 1961 – 1965, phân biệt với “Chiến tranh cục bộ” và “Việt Nam hoá chiến tranh”.
+  - *Lưu ý:* Refers specifically to the US neocolonial warfare strategy conducted in South Vietnam from 1961 to 1965.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.a), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47, 48; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 2.b), tr. 83, 84; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 2.b), tr. 84; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 2.a), tr. 83
 
 ### Spice Route
 - **Tiếng Việt:** Con đường Gia vị
@@ -6043,7 +6903,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A mechanical spinning machine invented by James Hargreaves in Britain, representing one of the key technical innovations in the textile industry during the First Industrial Revolution.
 - **Giải thích (VI):** Loại máy kéo sợi do Giêm Ha-gri-vơ phát minh ở Anh, là một trong những thành tựu cải tiến kĩ thuật tiêu biểu của ngành dệt trong cuộc Cách mạng công nghiệp lần thứ nhất.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 7 (Mục 1.b): Thành tựu máy móc ngành dệt trong cuộc Cách mạng công nghiệp lần thứ nhất.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.b), tr. 60
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.b), tr. 60; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.b), tr. 60, 61
 
 ### spiritual life of Van Lang-Au Lac inhabitants
 - **Tiếng Việt:** Đời sống tinh thần của cư dân Văn Lang – Âu Lạc
@@ -6054,12 +6914,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 3.a), tr. 64; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 3.b), tr. 64
 
 ### Spring 1975 General Offensive and Uprising
-- **Tiếng Việt:** Cuộc Tổng tiến công và nổi dậy Xuân 1975
+- **Tiếng Việt:** Cuộc Tổng tiến công và nổi dậy Xuân 1975 (Tổng tiến công và nổi dậy Xuân 1975)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The final strategic offensive and uprising launched by the armed forces and people of South Vietnam beginning in March 1975 across three major campaigns—the Central Highlands Campaign, the Hue–Da Nang Campaign, and the Saigon–Gia Dinh Liberation Campaign (Ho Chi Minh Campaign)—bringing the resistance war against the United States to complete victory.
 - **Giải thích (VI):** Đợt quyết chiến chiến lược cuối cùng của quân dân miền Nam mở đầu từ tháng 3 – 1975 qua ba chiến dịch lớn gồm chiến dịch Tây Nguyên, chiến dịch Huế – Đà Nẵng và chiến dịch giải phóng Sài Gòn – Gia Định (Chiến dịch Hồ Chí Minh), kết thúc thắng lợi cuộc kháng chiến chống Mỹ, cứu nước.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.e): Khái quát ba chiến dịch lớn kết thúc thắng lợi cuộc kháng chiến chống Mỹ, cứu nước.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 51; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 51, 52
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The decisive strategic offensive waged by Vietnamese forces and people from March to early May 1975 across three major campaigns: the Central Highlands Campaign, the Hue–Da Nang Campaign, and the Ho Chi Minh Campaign. Its complete victory on May 2, 1975, with the liberation of Chau Doc (now in An Giang province), brought the resistance war against the United States for national salvation to a triumphant close. / VI: Cuộc tiến công chiến lược quyết định của quân dân Việt Nam diễn ra từ tháng 3 đến đầu tháng 5 – 1975 qua ba chiến dịch lớn: chiến dịch Tây Nguyên, chiến dịch Huế – Đà Nẵng và Chiến dịch Hồ Chí Minh. Thắng lợi hoàn toàn vào ngày 2 – 5 – 1975 khi Châu Đốc (nay thuộc tỉnh An Giang) được giải phóng đã kết thúc toàn thắng cuộc kháng chiến chống Mỹ, cứu nước.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.e): Khái quát ba chiến dịch lớn kết thúc thắng lợi cuộc kháng chiến chống Mỹ, cứu nước.
+  - Lịch sử và Địa lí lớp 9, Bài 17 (Mục 2): Đỉnh cao thắng lợi quân sự giải phóng hoàn toàn miền Nam, kết thúc cuộc kháng chiến chống Mỹ, cứu nước (1954 – 1975).
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 51; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.e), tr. 51, 52; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 2), tr. 89, 90, 91; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 2), tr. 89; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 2), tr. 89, 90; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 2), tr. 90
 
 ### Srivijaya
 - **Tiếng Việt:** Sri Vi-giay-a (Vương quốc Sri Vi-giay-a)
@@ -6115,7 +6978,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 11 (Mục 1.b): Nêu sự phát triển tiếp nối về tổ chức nhà nước của người Việt cổ sau thời Văn Lang.
   - Lịch sử và Địa lí lớp 6, Bài 14 (Mục 2): bước phát triển tiếp nối Nhà nước Văn Lang trong thời kì dựng nước đầu tiên.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.b), tr. 95; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.b), tr. 95, 96; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 1), tr. 61; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 61; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 61, 62
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.b), tr. 95; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.b), tr. 95, 96; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.a), tr. 95; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 1), tr. 61; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 61; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 61, 62
 
 ### State of Dai Ngu
 - **Tiếng Việt:** Nước Đại Ngu (nhà Hồ)
@@ -6123,7 +6986,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The official national name of Vietnam under the Ho Dynasty (1400–1407), meaning 'Great Peace and Joy', proclaimed in 1400 after Ho Quy Ly forced the last Tran king to abdicate and established the capital in Thanh Hoa. This state lasted for seven years through the reigns of two monarchs, Ho Quy Ly (1400) and Ho Han Thuong (1400–1407).
 - **Giải thích (VI):** Quốc hiệu của Việt Nam dưới triều đại nhà Hồ (1400 – 1407), mang ý nghĩa là 'niềm vui lớn', được đặt năm 1400 sau khi Hồ Quý Ly buộc vua Trần nhường ngôi và đóng đô ở Thanh Hoá. Nhà nước này tồn tại trong 7 năm trải qua hai đời vua là Hồ Quý Ly (1400) và Hồ Hán Thương (1400 – 1407).
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 1): Sự thành lập vương triều Hồ và quốc hiệu nước ta đầu thế kỉ XV.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15, tr. 74; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1), tr. 74, 75
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15, tr. 74; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1), tr. 74, 75; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1), tr. 74
 
 ### State of Van Lang
 - **Tiếng Việt:** Nhà nước Văn Lang
@@ -6134,7 +6997,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 11 (Mục 1.b): Trình bày sự ra đời và sơ đồ tổ chức bộ máy nhà nước đầu tiên của người Việt cổ.
   - Lịch sử và Địa lí lớp 6, Bài 14 (Mục 1): sự ra đời, tổ chức bộ máy và ý nghĩa lịch sử của nhà nước đầu tiên ở Việt Nam.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.b), tr. 95; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.b), tr. 95, 96; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 1), tr. 61; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 61; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 61, 62
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.b), tr. 95; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.b), tr. 95, 96; SGK Lịch sử 10 KNTT, Chủ đề 06, B11 (Mục 1.a), tr. 95; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 1), tr. 61; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 61; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 61, 62
 
 ### Statement on the Territorial Sea, the Contiguous Zone, the Exclusive Economic Zone and the Continental Shelf of Vietnam
 - **Tiếng Việt:** Tuyên bố về lãnh hải, vùng tiếp giáp, vùng đặc quyền kinh tế và thềm lục địa của Việt Nam
@@ -6142,7 +7005,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A legal instrument issued by the Government of the Socialist Republic of Vietnam on May 12, 1977 defining the legal regime of Vietnam's territorial sea, contiguous zone, exclusive economic zone, and continental shelf. This statement affirmed Vietnam's maritime sovereignty, sovereign rights, and jurisdiction following national reunification.
 - **Giải thích (VI):** Văn kiện pháp lí do Chính phủ nước Cộng hoà xã hội chủ nghĩa Việt Nam ban hành ngày 12 – 5 – 1977 nhằm xác định chế độ pháp lí đối với lãnh hải, vùng tiếp giáp, vùng đặc quyền kinh tế và thềm lục địa của Việt Nam. Văn kiện khẳng định chủ quyền, quyền chủ quyền và quyền tài phán trên biển của Việt Nam sau khi thống nhất đất nước.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 9 (Mục 2.c): Nêu văn kiện pháp lí quan trọng của Chính phủ Việt Nam khẳng định chủ quyền, quyền chủ quyền và quyền tài phán trên biển sau khi thống nhất đất nước.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.c), tr. 57
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.c), tr. 57; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.b), tr. 57; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.c), tr. 57, 58
 
 ### steam engine
 - **Tiếng Việt:** Máy hơi nước
@@ -6153,7 +7016,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 7 (Mục 1.b): Phát minh nền tảng tạo bước ngoặt trong cuộc Cách mạng công nghiệp lần thứ nhất.
   - Lịch sử và Địa lí lớp 8, Bài 3 (Mục 1): thành tựu kĩ thuật trọng tâm ở Anh cuối thế kỉ XVIII mở đầu cuộc cách mạng công nghiệp.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.b), tr. 60, 61; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 1), tr. 15, 16
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.b), tr. 60, 61; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.b), tr. 60; SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.b), tr. 61; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 1), tr. 15, 16; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3, tr. 15; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 1), tr. 15
 
 ### steamboat
 - **Tiếng Việt:** Tàu thuỷ chạy bằng hơi nước (Tàu thuỷ chạy bằng động cơ hơi nước)
@@ -6164,7 +7027,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 7 (Mục 1.b): Thành tựu tiêu biểu của ngành giao thông vận tải trong Cách mạng công nghiệp lần thứ nhất.
   - Lịch sử và Địa lí lớp 8, Bài 13 (Mục 1.b): Thành tựu kĩ thuật tiêu biểu trong lĩnh vực giao thông vận tải đầu thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.b), tr. 61; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 57
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 04, B7 (Mục 1.b), tr. 61; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 57; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 57; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 57, 58
 
 ### stilt house
 - **Tiếng Việt:** Nhà sàn
@@ -6187,8 +7050,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A type of concentration camp constructed and strictly guarded by the United States and the Saigon administration in areas under their control in South Vietnam to forcibly relocate civilians and isolate the population from the revolution.
 - **Giải thích (VI):** Kiểu trại tập trung do Mỹ và chính quyền Sài Gòn xây dựng, canh phòng nghiêm ngặt tại những vùng chúng kiểm soát ở miền Nam Việt Nam nhằm dồn dân sống tập trung và tách nhân dân khỏi cách mạng.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.b, 2.c): Biện pháp dồn dân lập trại tập trung được Mỹ và chính quyền Sài Gòn coi là “quốc sách” ở miền Nam Việt Nam.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 48
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A form of concentrating the rural population for control implemented by the Saigon administration prior to 1975. The policy of herding residents into strategic hamlets was intensively pursued by the United States and the Ngo Dinh Diem regime to pacify South Vietnam under the “Special War” strategy. / VI: Hình thức tập trung dân nông thôn để kiểm soát của chính quyền Sài Gòn trước năm 1975. Chủ trương “dồn dân, lập ấp chiến lược” được Mỹ và chính quyền Ngô Đình Diệm đẩy mạnh nhằm thực hiện âm mưu bình định miền Nam trong chiến lược “Chiến tranh đặc biệt”.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.b, 2.c): Biện pháp dồn dân lập trại tập trung được Mỹ và chính quyền Sài Gòn coi là “quốc sách” ở miền Nam Việt Nam.
+  - Lịch sử và Địa lí lớp 9, Bài 16 (Mục 2.b): Chủ trương “dồn dân, lập ấp chiến lược” của Mỹ và chính quyền Ngô Đình Diệm trong chiến lược “Chiến tranh đặc biệt”.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 48; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 2.b), tr. 84; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237
 
 ### strategic importance of the Hoang Sa and Truong Sa Archipelagos
 - **Tiếng Việt:** Tầm quan trọng chiến lược của quần đảo Hoàng Sa và quần đảo Trường Sa
@@ -6211,8 +7077,12 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** An overarching guideline, plan, and grand design formulated for an entire period of struggle and social construction.
 - **Giải thích (VI):** Phương châm, kế hoạch và mưu lược mang tính toàn cục cho cả một thời kì đấu tranh và xây dựng xã hội.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.b, 2.e): Khái niệm chỉ phương châm, kế hoạch toàn cục của Đảng đối với cách mạng hai miền Nam – Bắc.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 48
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: An overarching guiding principle and comprehensive plan that determines primary objectives and the arrangement of forces in a socio-political struggle. / VI: Phương châm và kế hoạch có tính chất toàn cục, xác định mục tiêu chủ yếu và sự sắp xếp lực lượng trong cuộc đấu tranh xã hội – chính trị.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.b, 2.e): Khái niệm chỉ phương châm, kế hoạch toàn cục của Đảng đối với cách mạng hai miền Nam – Bắc.
+  - Lịch sử và Địa lí lớp 9, Bài 14 (Mục 2.d) và Bài 16 (Mục 2.b): phân tích chiến lược quân sự của Pháp, Mỹ và phương hướng chiến lược của cách mạng Việt Nam, phân biệt với sách lược.
+  - *Lưu ý:* Defined in socio-political and military history as overarching global direction and force arrangement, contrasted with short-term tactics ('sách lược').
+- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 48; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.d), tr. 71; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237
 
 ### Su quan warlord
 - **Tiếng Việt:** Sứ quân
@@ -6230,13 +7100,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 6 (Mục 1 và 2.a): Sự ra đời các quốc gia phong kiến mới của người Thái ở Đông Nam Á từ thế kỉ XIII gắn với trung tâm Phật giáo tiểu thừa Su-khô-thay.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 36; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 36, 37; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 2.a), tr. 37
 
+### Supreme Commander for the Allied Powers
+- **Tiếng Việt:** Bộ chỉ huy tối cao lực lượng Đồng minh (SCAP)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The US-led military administration representing the Allied Powers during the occupation of Japan from 1945 to 1952, responsible for implementing reforms to eliminate militarism and establish a parliamentary bourgeois democracy in Japan.
+- **Giải thích (VI):** Cơ quan quân quản do Mỹ đứng đầu dưới danh nghĩa lực lượng Đồng minh chiếm đóng Nhật Bản từ năm 1945 đến năm 1952, trực tiếp tiến hành cải cách nhằm loại bỏ chủ nghĩa quân phiệt và thiết lập nền dân chủ tư sản đại nghị ở Nhật Bản.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 12 (Mục 2.a): cơ quan điều hành các cuộc cải cách dân chủ ở Nhật Bản thời kì bị Đồng minh chiếm đóng (1945 – 1952).
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 2.a), tr. 54, 55; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 1.b), tr. 54
+
 ### surprise attack
 - **Tiếng Việt:** Tập kích
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A combat action consisting of a sudden, unexpected strike against an adversary while they are off guard.
 - **Giải thích (VI):** Hình thức tác chiến đánh úp, đánh bất ngờ nhân lúc đối phương sơ hở.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.d): Khái niệm trong bối cảnh đánh bại cuộc tập kích chiến lược bằng máy bay B52 của Mỹ cuối năm 1972.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 50
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A combat method involving a sudden, fierce strike launched when enemy forces are vulnerable in order to attack and overwhelm them by surprise. / VI: Phương pháp chiến đấu bằng cách đánh bất ngờ, đột kích mãnh liệt vào lúc quân địch có sơ hở rồi tiến công, đánh úp.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.d): Khái niệm trong bối cảnh đánh bại cuộc tập kích chiến lược bằng máy bay B52 của Mỹ cuối năm 1972.
+  - Lịch sử và Địa lí lớp 9, Bài 17 (Mục 1.c): Khái niệm quân sự xuất hiện khi đề cập cuộc tập kích chiến lược đường không bằng máy bay B52 của Mỹ cuối tháng 12 – 1972.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 50; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.c), tr. 88; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237
 
 ### swidden cultivation
 - **Tiếng Việt:** Canh tác nương rẫy
@@ -6252,15 +7133,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A form of federated capitalist monopoly organization widespread in European countries such as Britain, France, and Germany in the late 19th and early 20th centuries. Participating enterprises entered into agreements on production spheres to coordinate their actions in market competition.
 - **Giải thích (VI):** Hình thức tổ chức liên hợp công ti tư bản độc quyền xuất hiện phổ biến ở các nước châu Âu như Anh, Pháp, Đức vào cuối thế kỉ XIX – đầu thế kỉ XX. Các xí nghiệp tham gia tổ chức này thoả thuận với nhau về lĩnh vực sản xuất nhằm phối hợp hành động trong cạnh tranh.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 10 (Mục 1): Hình thức liên hợp công ti độc quyền tiêu biểu bên cạnh các-ten và tơ-rớt trong quá trình hình thành chủ nghĩa đế quốc.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 173
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 173; SGK Lịch sử và Địa lí 8 KNTT, Bảng phiên âm, tr. 175
 
 ### tactics
 - **Tiếng Việt:** Chiến thuật
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** Specific operational methods employed to achieve a particular objective.
 - **Giải thích (VI):** Phương pháp hành động hoặc tác chiến được sử dụng nhằm đạt được mục đích cụ thể.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.b): Khái niệm gắn với các thủ đoạn tác chiến như “trực thăng vận”, “thiết xa vận” của Mỹ ở miền Nam Việt Nam.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 48
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A military concept referring to specific combat methods employed in individual battles, such as ambush tactics or fighting larger forces with smaller units. / VI: Khái niệm quân sự chỉ cách đánh cụ thể trong từng trận chiến đấu, chẳng hạn như chiến thuật phục kích hay chiến thuật lấy ít đánh nhiều.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.b): Khái niệm gắn với các thủ đoạn tác chiến như “trực thăng vận”, “thiết xa vận” của Mỹ ở miền Nam Việt Nam.
+  - Lịch sử và Địa lí lớp 9, Bài 16 (Mục 2.b): Khái niệm quân sự chỉ cách đánh trong từng trận chiến đấu, phân biệt với cấp độ chiến dịch và chiến lược.
+  - *Lưu ý:* Phân biệt với chiến dịch (tổng hợp nhiều trận đánh có liên kết nhằm đạt mục tiêu nhất định) và chiến lược (định hướng quân sự toàn cục của cả giai đoạn hoặc cuộc chiến tranh).
+- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 47; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.b), tr. 48; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B16 (Mục 2.b), tr. 84; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 236, 237; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237
 
 ### Taj Mahal
 - **Tiếng Việt:** Lăng Ta-giơ Ma-han
@@ -6268,15 +7153,42 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A monumental mausoleum complex in the city of Agra, exemplifying the religiously influenced architectural and sculptural achievements of medieval Indian civilization.
 - **Giải thích (VI):** Công trình kiến trúc lăng mộ đồ sộ tại thành phố A-gra, tiêu biểu cho thành tựu kiến trúc và điêu khắc mang đậm dấu ấn tôn giáo của văn minh Ấn Độ thời trung đại.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.2.b): Di sản kiến trúc tiêu biểu của nền văn minh Ấn Độ thời kì cổ – trung đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 42
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 42; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 42, 43
+
+### Tam Tam Xa
+- **Tiếng Việt:** Tâm tâm xã
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** An organization of patriotic Vietnamese youth founded in 1923 in Guangzhou (China) advocating the restoration of the human rights of the Vietnamese people. It gained renown through the assassination attempt on Governor-General of Indochina Martial Merlin in Shamian (1924) and provided core members for the founding of the Vietnam Revolutionary Youth League.
+- **Giải thích (VI):** Tổ chức của một nhóm thanh niên Việt Nam yêu nước lập ra năm 1923 ở Quảng Châu (Trung Quốc) với chủ trương “khôi phục quyền làm người của người Việt Nam”. Tổ chức này gây tiếng vang qua vụ mưu sát Toàn quyền Đông Dương Méc-lanh tại Sa Diện (1924) và là nơi cung cấp hạt nhân thanh niên ưu tú cho sự ra đời của Hội Việt Nam Cách mạng Thanh niên.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 5 (Mục 1, Mục 4): Tổ chức thanh niên yêu nước tại Quảng Châu (Trung Quốc), là nguồn hạt nhân để Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B5, tr. 22; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 1), tr. 22; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 2), tr. 22
+
+### Tan Trao National Congress
+- **Tiếng Việt:** Đại hội Quốc dân (Đại hội Quốc dân ở Tân Trào)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A national congress of delegates convened at Tan Trao (Tuyen Quang) on August 16 and 17, 1945, which endorsed the Party's policy for a General Uprising, adopted the Ten Policies of the Viet Minh, and elected the Vietnam National Liberation Committee (forerunner of the Provisional Government) chaired by Ho Chi Minh.
+- **Giải thích (VI):** Đại hội đại biểu họp tại Tân Trào (Tuyên Quang) ngày 16 và 17 – 8 – 1945, tán thành chủ trương Tổng khởi nghĩa của Đảng, thông qua 10 chính sách của Việt Minh và cử ra Uỷ ban Dân tộc giải phóng Việt Nam (sau này là Chính phủ lâm thời) do Hồ Chí Minh làm Chủ tịch.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 8 (Mục 3.a): Đại hội đại biểu toàn quốc họp tại Đình Tân Trào (Tuyên Quang) ngay trước khi Tổng khởi nghĩa giành thắng lợi trên cả nước.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 3.a), tr. 38; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 3.a), tr. 38, 39
+
+### Tan Viet Revolutionary Party
+- **Tiếng Việt:** Tân Việt Cách mạng đảng
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A revolutionary party originating from the Phuc Viet Association, adopting this name in July 1928 and operating mainly in Central Vietnam among young intellectuals, youth, and patriotic bourgeoisie. Initially bourgeois-democratic in orientation, it gradually shifted toward the proletarian line under the influence of the Vietnam Revolutionary Youth League, helping disseminate Marxism-Leninism and organize struggles of students, small traders, and workers.
+- **Giải thích (VI):** Tổ chức cách mạng có tiền thân là Hội Phục Việt, đổi tên vào tháng 7 – 1928 và hoạt động chủ yếu ở Trung Kì với lực lượng chính gồm trí thức trẻ, thanh niên và tư sản yêu nước. Từ khuynh hướng dân chủ tư sản ban đầu, đảng chuyển dần sang khuynh hướng vô sản dưới ảnh hưởng của Hội Việt Nam Cách mạng Thanh niên, góp phần truyền bá chủ nghĩa Mác – Lê-nin và tổ chức đấu tranh của học sinh, tiểu thương, công nhân.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 5 (Mục 4) và Bài 6 (Mục 2.a): Một trong ba tổ chức yêu nước cách mạng ở Việt Nam cuối thập niên 1920, phân hoá thành Đông Dương Cộng sản liên đoàn vào tháng 9 – 1929.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 3), tr. 24; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 4), tr. 24; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 4), tr. 24, 25
 
 ### tangible cultural heritage
 - **Tiếng Việt:** Di sản văn hoá vật thể
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** Material products possessing historical, cultural, or scientific value created by humans and preserved over time, including typical forms such as citadels, royal tombs, communal houses, temples, towers, palaces, and ancient houses.
 - **Giải thích (VI):** Những sản phẩm vật chất có giá trị lịch sử, văn hoá, khoa học do con người tạo dựng và lưu truyền qua thời gian, bao gồm các loại hình tiêu biểu như thành quách, lăng tẩm, đình, đền, tháp, cung điện và nhà cổ.
-- **Bối cảnh:** Lịch sử lớp 10, Bài 4 (Mục 1.b): Phân loại nhóm di sản hữu hình cần được bảo vệ, tu bổ trước tác động của tự nhiên và con người.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử 10 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 28
+- **Giải thích khác (SGK GDCD 7):** EN: A category of cultural heritage manifested in material products of historical, cultural, and scientific value, such as historical-cultural relics, scenic landscapes, artifacts, antiquities, and national treasures. / VI: Bộ phận của di sản văn hoá thể hiện qua những sản phẩm vật chất có giá trị lịch sử, văn hoá, khoa học như di tích lịch sử – văn hoá, danh lam thắng cảnh, di vật, cổ vật và bảo vật quốc gia.
+- **Bối cảnh:**
+  - Lịch sử lớp 10, Bài 4 (Mục 1.b): Phân loại nhóm di sản hữu hình cần được bảo vệ, tu bổ trước tác động của tự nhiên và con người.
+  - Giáo dục Kinh tế và Pháp luật lớp 7, Bài 5 (Mục 1): phân biệt nhóm di sản văn hoá tồn tại dưới dạng vật chất hữu hình với di sản văn hoá phi vật thể.
+- **Nguồn:** SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử 10 KNTT, Chủ đề 02, B4 (Mục 1.b), tr. 28; SGK GDCD 7 KNTT, B5, tr. 24; SGK GDCD 7 KNTT, B5 (Mục 1), tr. 24; SGK GDCD 7 KNTT, B5 (Mục 1), tr. 24, 25
 
 ### Tao Dan Literary Society
 - **Tiếng Việt:** Hội Tao đàn (Nhị thập bát tú)
@@ -6284,7 +7196,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A court literary society of 28 eminent scholars ('Twenty-Eight Mansions') founded and headed by Emperor Le Thanh Tong, with Than Nhan Trung and Do Nhuan serving as deputy leaders. Its establishment and representative works such as 'Nine Songs of the Jasper Garden' marked a high pinnacle of Dai Viet literature during the Early Le era.
 - **Giải thích (VI):** Hội thơ văn cung đình gồm 28 danh sĩ ('Nhị thập bát tú') do vua Lê Thánh Tông sáng lập và làm chủ soái, cùng hai phó soái là Thân Nhân Trung và Đỗ Nhuận. Sự ra đời của hội với các tác phẩm tiêu biểu như 'Quỳnh Uyển cửu ca' đánh dấu bước phát triển rực rỡ của nền văn chương Đại Việt thời Lê sơ.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 3, 4.b): Tổ chức sáng tác văn học cung đình tiêu biểu dưới triều vua Lê Thánh Tông.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 3), tr. 86; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.b), tr. 88
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 3), tr. 86; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 4.b), tr. 88; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 2.a), tr. 86; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 2.b), tr. 86
 
 ### tasks of historiography
 - **Tiếng Việt:** Nhiệm vụ của Sử học
@@ -6308,7 +7220,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A stone capital citadel constructed in three months by Ho Quy Ly in Thanh Hoa in 1397 for relocating the royal court from Thang Long, later serving as the political center of Dai Ngu under the Ho Dynasty. It stands as the largest stone citadel in Vietnam and Southeast Asia and was inscribed by UNESCO as a World Cultural Heritage site in 2011.
 - **Giải thích (VI):** Kinh đô bằng đá do Hồ Quý Ly cho xây dựng trong ba tháng tại Thanh Hoá vào năm 1397 để dời đô từ Thăng Long về đây và trở thành trung tâm chính trị của nước Đại Ngu thời Hồ. Đây là toà thành đá lớn nhất ở Việt Nam và Đông Nam Á, được UNESCO công nhận là Di sản Văn hoá thế giới năm 2011.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 1, 2.a): Kinh đô và công trình kiến trúc quân sự bằng đá tiêu biểu dưới triều Hồ.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15, tr. 74; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1), tr. 74, 75
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15, tr. 74; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1), tr. 74, 75; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1), tr. 74
 
 ### Tay Son Movement
 - **Tiếng Việt:** Phong trào Tây Sơn
@@ -6326,7 +7238,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 8 (Mục 1, 2.a): sự bùng nổ năm 1771, căn cứ ban đầu và giai đoạn đầu của phong trào nông dân Tây Sơn ở Đàng Trong.
   - *Lưu ý:* Chỉ giai đoạn bùng nổ khởi nghĩa nông dân từ căn cứ Tây Sơn năm 1771; phân biệt với Phong trào Tây Sơn (khái quát toàn bộ tiến trình thống nhất đất nước và chống ngoại xâm Xiêm, Thanh).
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 1), tr. 35; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2.a), tr. 35, 36
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 1), tr. 35; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2.a), tr. 35, 36; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2), tr. 35
 
 ### Temple of Literature – Imperial Academy
 - **Tiếng Việt:** Văn Miếu – Quốc Tử Giám (Quốc Tử Giám)
@@ -6374,7 +7286,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A new type of firearm invented by Ho Nguyen Trung under the Ho Dynasty to strengthen the combat power of Dai Ngu's military. Produced in multiple calibers, its heavy variant required horse-drawn carriages and a crew to fire, while its light variant could be held and fired by a single soldier.
 - **Giải thích (VI):** Loại vũ khí hoả lực mới do Hồ Nguyên Trừng sáng chế dưới triều Hồ nhằm tăng cường sức mạnh chiến đấu cho quân đội Đại Ngu. Vũ khí này gồm nhiều cỡ khác nhau, trong đó loại lớn phải kéo bằng xe ngựa với nhiều người vận hành và loại nhỏ gọn cho phép một người cầm bắn.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 2.a): Thành tựu chế tạo vũ khí hoả lực nổi bật trong cải cách quân sự của nhà Hồ.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.a), tr. 75
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.a), tr. 75; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1), tr. 75; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.b), tr. 75
 
 ### Thang Long Imperial Citadel
 - **Tiếng Việt:** Kinh thành Thăng Long
@@ -6408,7 +7320,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 13 (Mục 1.a): Thành tựu đột phá của ngành Sinh học giữa thế kỉ XIX làm thay đổi nhận thức về giới tự nhiên.
   - *Lưu ý:* Trong phân môn Lịch sử lớp 8, học thuyết được trình bày như một mốc son của khoa học tự nhiên thế kỉ XIX gắn với S. Đác-uyn.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 56, 57
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 56, 57; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13, tr. 56; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 56
 
 ### Theravada Buddhism
 - **Tiếng Việt:** Phật giáo tiểu thừa
@@ -6417,6 +7329,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Nhánh Phật giáo được truyền bá và phổ biến rộng rãi tại khu vực Đông Nam Á lục địa từ thế kỉ XIII như ở Lan Xang, Cam-pu-chia cùng các vương quốc của người Thái và người Miến Điện. Sự hưng thịnh của dòng Phật giáo này gắn liền với hệ thống chùa chiền vừa là nơi thờ phụng vừa đóng vai trò trung tâm văn hoá cộng đồng.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 6 (Mục 2.a): Biến chuyển nổi bật về tôn giáo – tín ngưỡng của các vương quốc Đông Nam Á từ thế kỉ XIII đến nửa đầu thế kỉ XVI.
 - **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 1), tr. 37; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 2.a), tr. 37; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 03, B6 (Mục 2.b), tr. 37, 38
+
+### Theses on the National and Colonial Questions
+- **Tiếng Việt:** Luận cương về vấn đề dân tộc và vấn đề thuộc địa
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A theoretical document drafted by V. I. Lenin and adopted by the Communist International at its Second Congress (1920) with the slogan "Workers of the world and oppressed peoples, unite!". This document enabled Nguyen Ai Quoc to find the path to national salvation and liberation along the proletarian revolutionary line for the Vietnamese people.
+- **Giải thích (VI):** Văn kiện lí luận do V. I. Lê-nin dự thảo và được Quốc tế Cộng sản thông qua tại Đại hội lần thứ II (1920) với khẩu hiệu “Vô sản toàn thế giới và các dân tộc bị áp bức đoàn kết lại”. Văn kiện này đã giúp Nguyễn Ái Quốc tìm thấy con đường cứu nước, giải phóng dân tộc theo khuynh hướng cách mạng vô sản cho nhân dân Việt Nam.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 2 (Mục 1.b) và Bài 6 (Mục 1): Văn kiện lí luận của V. I. Lê-nin có tác động trực tiếp giúp Nguyễn Ái Quốc xác định con đường cứu nước năm 1920.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1.a), tr. 11; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1.b), tr. 11; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 2), tr. 11
 
 ### Thien Nam Ngu Luc
 - **Tiếng Việt:** Thiên Nam ngữ lục
@@ -6432,7 +7352,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The lowest social estate in feudal France prior to 1789, headed by the bourgeoisie alongside peasants, workers, and urban plebeians who together exceeded 90% of the population. Deprived of political rights, subjected to feudal rule, and burdened with all taxes, this estate served as the decisive driving force of the French Revolution.
 - **Giải thích (VI):** Đẳng cấp thấp nhất trong xã hội phong kiến Pháp trước năm 1789, đứng đầu là giai cấp tư sản cùng đông đảo nông dân, công nhân và bình dân thành thị chiếm hơn 90% dân số. Không có quyền lợi chính trị, chịu sự thống trị phong kiến và phải đóng mọi thứ thuế, lực lượng này là động lực quyết định thắng lợi của Cách mạng tư sản Pháp.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 2 (Mục 1): lực lượng xã hội bị áp bức trong xã hội Pháp trước năm 1789 và là động lực của cách mạng.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 12, 13; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 12, 13; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 171, 172; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B2 (Mục 1), tr. 12
 
 ### Third Industrial Revolution
 - **Tiếng Việt:** Cách mạng công nghiệp lần thứ ba (Cách mạng kĩ thuật số)
@@ -6464,7 +7384,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A paper currency issued by Ho Quy Ly as part of his economic and fiscal reforms in the late 14th and early 15th centuries, accompanied by tax system revisions and the nationwide standardization of weights and measures.
 - **Giải thích (VI):** Loại tiền giấy do Hồ Quý Ly cho phát hành trong cuộc cải cách kinh tế – tài chính cuối thế kỉ XIV – đầu thế kỉ XV, gắn liền với các biện pháp sửa đổi chế độ thuế khoá và thống nhất đơn vị đo lường trên cả nước.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 15 (Mục 2.a): Chính sách phát hành tiền giấy trong cải cách kinh tế của Hồ Quý Ly.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.a), tr. 75; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.b), tr. 75
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.a), tr. 75; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 2.b), tr. 75; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B15 (Mục 1), tr. 75
 
 ### Three Kingdoms
 - **Tiếng Việt:** Tam quốc
@@ -6475,12 +7395,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 2), tr. 41; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 3), tr. 41; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191
 
 ### Three Major Economic Programs
-- **Tiếng Việt:** Ba chương trình kinh tế lớn
+- **Tiếng Việt:** Ba chương trình kinh tế lớn (Ba chương trình kinh tế)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** Three priority production programs—Food and Foodstuffs, Consumer Goods, and Export Goods—formulated and implemented during the initial phase of Doi Moi (1986–1995) to stabilize socio-economic life and lift Vietnam out of crisis.
 - **Giải thích (VI):** Hệ thống ba chương trình sản xuất trọng điểm gồm Lương thực – Thực phẩm, Hàng tiêu dùng và Hàng xuất khẩu được xây dựng và tổ chức thực hiện trong giai đoạn khởi đầu Đổi mới (1986 – 1995) nhằm ổn định đời sống kinh tế – xã hội và đưa đất nước thoát khỏi khủng hoảng.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 10 (Mục 1): Xác định trọng tâm sản xuất kinh tế giai đoạn 1986 – 1995 nhằm giải quyết nhu cầu cấp thiết và đưa đất nước ra khỏi khủng hoảng.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 1), tr. 62
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The core economic priorities of Vietnam's five-year plan (1986–1991) at the outset of Doi Moi, comprising Food and Foodstuffs, Consumer Goods, and Export Goods, whose implementation helped restore production and foster economic growth. / VI: Trọng tâm phát triển kinh tế trong kế hoạch 5 năm (1986 – 1991) bước đầu thực hiện đường lối Đổi mới ở Việt Nam, gồm Lương thực – Thực phẩm, Hàng tiêu dùng và Hàng xuất khẩu, giúp phục hồi sản xuất và tăng trưởng kinh tế.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 10 (Mục 1): Xác định trọng tâm sản xuất kinh tế giai đoạn 1986 – 1995 nhằm giải quyết nhu cầu cấp thiết và đưa đất nước ra khỏi khủng hoảng.
+  - Lịch sử và Địa lí lớp 9, Bài 20 (Mục 4.c): Giải pháp kinh tế trọng điểm bước đầu đưa Việt Nam phục hồi sản xuất giai đoạn 1986 – 1991.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 1), tr. 62; SGK Lịch sử 12 KNTT, Chủ đề 04, B10 (Mục 2), tr. 62, 63; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 4.c), tr. 106; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 4.a), tr. 106; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 06, B20 (Mục 4.b), tr. 106
+
+### Three Red Banners
+- **Tiếng Việt:** Đường lối “Ba ngọn cờ hồng” (Ba ngọn cờ hồng)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A socio-economic policy line launched in China in 1958 comprising the "General Line," the "Great Leap Forward" (mobilizing the entire population to produce iron and steel under the motto "faster, more, better, cheaper"), and the "People's Commune" (merging cooperatives into militarized, fully subsidized units). Due to its impracticality, this policy caused production declines, widespread crop failures, and famine.
+- **Giải thích (VI):** Đường lối phát triển kinh tế – xã hội được Trung Quốc triển khai từ năm 1958 gồm “Đường lối chung”, “Đại nhảy vọt” (phát động toàn dân làm gang thép với phương châm “nhanh, nhiều, tốt, rẻ”) và “Công xã nhân dân” (sáp nhập các hợp tác xã theo hướng quân sự hoá, bao cấp mọi hoạt động). Do không phù hợp với thực tiễn, đường lối này làm sản xuất giảm sút, nhiều nơi bị mất mùa và đói kém.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 12 (Mục 2.b): đường lối kinh tế – xã hội không phù hợp gây khủng hoảng ở Trung Quốc giai đoạn bắt đầu từ năm 1958.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 2.b), tr. 56
 
 ### Thua Tuyen circuit-province
 - **Tiếng Việt:** Đạo (Thừa tuyên)
@@ -6488,7 +7419,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The highest-level local administrative unit in the Early Le state apparatus, ranking above prefectures, districts (or mountain districts), and communes (or upland hamlets), jointly governed by the Military, Civil, and Judicial Commissions. Under Emperor Le Thanh Tong, Dai Viet was divided into 13 circuit-provinces (dao thua tuyen).
 - **Giải thích (VI):** Đơn vị hành chính địa phương cấp cao nhất trong bộ máy nhà nước thời Lê sơ, đứng trên phủ, huyện (hoặc châu) và xã (hoặc sách, động), do ba cơ quan Đô ti, Thừa ti và Hiến ti cùng quản lí. Dưới thời vua Lê Thánh Tông, cả nước Đại Việt được chia thành 13 đạo thừa tuyên.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 17 (Mục 1): Tổ chức hành chính cấp địa phương trong bộ máy nhà nước quân chủ tập quyền thời Lê sơ.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 83, 84
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 83, 84; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17, tr. 83; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 06, B17 (Mục 1), tr. 83
 
 ### Thua Tuyen provincial circuit
 - **Tiếng Việt:** Đạo thừa tuyên
@@ -6528,7 +7459,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A preeminent general of the Tran Dynasty appointed as Grand Commander-in-Chief of Dai Viet's armed forces during the two resistance wars against the Yuan Empire (1285 and 1287–1288). He authored the 'Proclamation to the Officers' to rally fighting morale and directly commanded the decisive ambush victory on the Bach Dang River in 1288.
 - **Giải thích (VI):** Danh tướng kiệt xuất thời Trần được cử làm Quốc công tiết chế, giữ trọng trách tổng chỉ huy các lực lượng vũ trang Đại Việt trong hai cuộc kháng chiến chống quân Nguyên (1285 và 1287 – 1288). Ông là tác giả bài 'Hịch tướng sĩ' khích lệ tinh thần quân dân và người trực tiếp chỉ huy trận mai phục đại thắng trên sông Bạch Đằng năm 1288.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 14 (Mục 2, 3, 4): Vị tổng chỉ huy quân sự lãnh đạo quân dân Đại Việt đánh bại các cuộc xâm lược của quân Nguyên.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69, 70; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 3), tr. 72
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69, 70; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 3), tr. 72; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 1), tr. 69; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 05, B14 (Mục 2), tr. 69
 
 ### Treaty of Amity and Cooperation in Southeast Asia
 - **Tiếng Việt:** Hiệp ước Ba-li (Hiệp ước Thân thiện và Hợp tác ở Đông Nam Á; TAC)
@@ -6546,7 +7477,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An unequal treaty that the Qing government was forced to sign with Britain in 1842 following its defeat in the Opium War (1840–1842). Under its terms, China had to open five ports to British merchants, pay war indemnities, and cede the territory of Hong Kong to Britain.
 - **Giải thích (VI):** Hiệp ước bất bình đẳng mà chính quyền Mãn Thanh buộc phải kí với thực dân Anh năm 1842 sau thất bại trong Chiến tranh thuốc phiện (1840 – 1842). Theo các điều khoản của hiệp ước, Trung Quốc phải mở năm cửa biển cho thương nhân Anh buôn bán, bồi thường chiến phí và nhượng vùng đất Hồng Công cho Anh.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 14 (Mục 1.a): Hiệp ước bất bình đẳng đầu tiên đánh dấu sự suy sụp chủ quyền của triều đình Mãn Thanh trước thực dân phương Tây.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 1.a), tr. 60
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 1.a), tr. 60; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14, tr. 60; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 1.a), tr. 60, 61
 
 ### trend of dialogue and cooperation in international relations
 - **Tiếng Việt:** Xu thế đối thoại, hợp tác trong quan hệ quốc tế
@@ -6578,7 +7509,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A monumental arched gateway originating in ancient Rome, typically erected in public squares to celebrate victorious returning armies. The structure usually features one or three vaulted arches supported by columns and massive entablatures, decorated with reliefs, statues, or a quadriga.
 - **Giải thích (VI):** Loại hình cổng kiến trúc đồ sộ ra đời từ thời La Mã cổ đại, thường dựng tại các quảng trường để chào đón đoàn quân chiến thắng trở về. Công trình thường gồm một hoặc ba vòm nâng bởi hàng cột và xà lớn, trang trí bằng phù điêu, tượng tròn hoặc tượng xe tứ mã.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 6 (Mục 1.b): Loại hình kiến trúc biểu trưng của văn minh La Mã cổ đại (như Khải hoàn môn Công-xtan-ti-nút).
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 51; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 51; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143, 144; SGK Lịch sử 10 KNTT, Bảng giải thích thuật ngữ, tr. 143
 
 ### Truc Lam Yen Tu Zen sect
 - **Tiếng Việt:** Thiền phái Trúc Lâm Yên Tử (Trúc Lâm Tam Tổ)
@@ -6594,7 +7525,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A distinctly Vietnamese Zen Buddhist sect established during the Tran dynasty by Retired Emperor Tran Nhan Tong at Yen Tu Mountain (Quang Ninh), reflecting the flourishing of Buddhism intertwined with the spirit of the Harmony of the Three Teachings in the Ly–Tran era.
 - **Giải thích (VI):** Dòng thiền Phật giáo mang bản sắc riêng của Đại Việt ra đời dưới thời Trần, do Phật hoàng Trần Nhân Tông sáng lập tại núi Yên Tử (Quảng Ninh), phản ánh sự phát triển hưng thịnh của Phật giáo gắn liền với tinh thần tam giáo đồng nguyên thời Lý – Trần.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 12 (Mục 3.c): Minh chứng bản sắc dân tộc và tinh thần dung hợp tôn giáo trong Phật giáo Đại Việt thời Trần.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 116
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 116; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.d), tr. 116; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.d), tr. 116, 117
 
 ### Trung Sisters' Uprising
 - **Tiếng Việt:** Khởi nghĩa Hai Bà Trưng
@@ -6612,7 +7543,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 10 (Mục 1, Mục 2.d): Hình thức tổ chức độc quyền khổng lồ đặc trưng ở Mỹ gắn với các trùm tài phiệt công nghiệp – tài chính.
   - *Lưu ý:* Phân biệt với 'các-ten' (nơi các xí nghiệp thành viên vẫn sản xuất và buôn bán độc lập); trong tơ-rớt, các xí nghiệp thành viên không còn độc lập kinh doanh.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B10 (Mục 1), tr. 45; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172; SGK Lịch sử và Địa lí 8 KNTT, Bảng giải thích thuật ngữ, tr. 172, 173
 
 ### types of historical sources
 - **Tiếng Việt:** Các loại hình sử liệu
@@ -6629,6 +7560,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Văn kiện của Tổ chức Giáo dục, Khoa học và Văn hoá của Liên hợp quốc (UNESCO) thông qua tại khoá họp lần thứ 24 ở Pa-ri năm 1987 nhân dịp hướng tới kỉ niệm 100 năm Ngày sinh Chủ tịch Hồ Chí Minh vào năm 1990. Nghị quyết tôn vinh Người là biểu tượng xuất sắc về sự tự khẳng định dân tộc, cống hiến trọn đời cho sự nghiệp giải phóng dân tộc và cuộc đấu tranh chung vì hoà bình, độc lập dân tộc, dân chủ, tiến bộ xã hội, đồng thời ghi nhận những đóng góp nhiều mặt của Người về văn hoá, giáo dục và nghệ thuật.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 17 (Mục 1): Sự kiện quốc tế vinh danh những cống hiến về giải phóng dân tộc và văn hoá của Chủ tịch Hồ Chí Minh.
 - **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B17, tr. 105; SGK Lịch sử 12 KNTT, Chủ đề 06, B17 (Mục 1), tr. 105, 106
+
+### Union of Soviet Socialist Republics
+- **Tiếng Việt:** Liên bang Cộng hoà xã hội chủ nghĩa Xô viết (Liên Xô)
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Federal socialist state founded in December 1922 (abbreviated as USSR) through the union of four initial Soviet republics—Russia, Ukraine, Belorussia, and Transcaucasia—which expanded to 15 constituent republics by 1940.
+- **Giải thích (VI):** Nhà nước liên bang xã hội chủ nghĩa thành lập vào tháng 12 – 1922 trên cơ sở hợp nhất bốn nước Cộng hoà Xô viết đầu tiên là Nga, U-crai-na, Bê-lô-rút-xi-a và Ngoại Cáp-ca-dơ, mở rộng lên 15 nước cộng hoà vào năm 1940.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 1 (Mục 2): Nhà nước liên bang xã hội chủ nghĩa đầu tiên trên thế giới ra đời sau thắng lợi của cuộc đấu tranh bảo vệ chính quyền Xô viết.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B1, tr. 7; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1), tr. 8; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 2), tr. 8
 
 ### United Nations Conference on Trade and Development
 - **Tiếng Việt:** Hội nghị Liên hợp quốc về Thương mại và Phát triển (UNCTAD)
@@ -6684,15 +7623,36 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A form of armed struggle in which forces are mobilized to rise up and overthrow an existing regime or ruling government.
 - **Giải thích (VI):** Hình thức đấu tranh tập hợp lực lượng nổi dậy nhằm lật đổ chế độ hoặc chính quyền cai trị.
 - **Bối cảnh:** Lịch sử lớp 11, Bài 6 (Mục 1.a): Hình thức đấu tranh vũ trang tiêu biểu của nhân dân Đông Nam Á chống thực dân xâm lược và đô hộ; phân biệt với kháng chiến do nhà nước tổ chức.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 38
+- **Nguồn:** SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92; SGK Lịch sử 11 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 38; SGK Lịch sử 11 KNTT, Bảng giải thích thuật ngữ, tr. 92, 93
 
 ### urban battles north of the 16th parallel
 - **Tiếng Việt:** Cuộc chiến đấu ở các đô thị phía Bắc vĩ tuyến 16
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The opening combat operations of the nationwide resistance fought from December 19, 1946, to February 17, 1947, in Hanoi, Nam Dinh, Vinh, and other cities north of the 16th parallel to pin down French troops before main-force units withdrew safely to resistance bases. These battles dealt an initial blow to the French "quick strike, quick victory" plan and bought time to relocate resistance agencies and material resources to war zones.
 - **Giải thích (VI):** Đợt tác chiến mở đầu toàn quốc kháng chiến diễn ra từ ngày 19 – 12 – 1946 đến ngày 17 – 2 – 1947 tại Hà Nội, Nam Định, Vinh và các đô thị phía Bắc vĩ tuyến 16 nhằm giam chân quân Pháp trước khi lực lượng chủ lực chủ động rút lui an toàn ra căn cứ kháng chiến. Thắng lợi này làm thất bại một bước kế hoạch “đánh nhanh, thắng nhanh” của thực dân Pháp và tạo thêm thời gian di chuyển cơ quan kháng chiến, cơ sở vật chất lên chiến khu.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.b): Diễn biến, kết quả và ý nghĩa mở đầu toàn quốc kháng chiến tại các đô thị phía Bắc vĩ tuyến 16.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39, 40
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The opening combat operations of the nationwide resistance war (late 1946–early 1947) waged by the military and people of Hanoi and other cities and towns north of the 16th parallel to frustrate the French "quick strike, quick victory" plan. After nearly three months of fierce fighting that wore down and pinned down enemy forces in urban centers, Vietnam's main-force troops withdrew safely to the rear area to prepare for protracted resistance. / VI: Hoạt động tác chiến mở đầu cuộc kháng chiến toàn quốc (cuối năm 1946 – đầu năm 1947) của quân dân Hà Nội và các đô thị phía Bắc vĩ tuyến 16 nhằm làm thất bại kế hoạch “đánh nhanh, thắng nhanh” của thực dân Pháp. Sau gần ba tháng chiến đấu quyết liệt làm tiêu hao và giam chân địch ở các đô thị, lực lượng quân chủ lực của Việt Nam đã rút lui an toàn ra vùng hậu phương để chuẩn bị cho cuộc kháng chiến trường kì.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 7 (Mục 2.b): Diễn biến, kết quả và ý nghĩa mở đầu toàn quốc kháng chiến tại các đô thị phía Bắc vĩ tuyến 16.
+  - Lịch sử và Địa lí lớp 9, Bài 14 (Mục 2.d): thắng lợi quân sự mở đầu cuộc kháng chiến toàn quốc chống thực dân Pháp từ cuối năm 1946 đến đầu năm 1947.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39, 40; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.d), tr. 70; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.d), tr. 70, 71; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.c), tr. 70
+
+### US Global Strategy
+- **Tiếng Việt:** Chiến lược toàn cầu
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The overarching foreign policy doctrine pursued by the United States during the Cold War aimed at undermining socialist countries, suppressing national liberation movements, and achieving global hegemony. To execute this strategy, the United States drew nations in through economic and military aid, formed military blocs such as NATO (1949) and SEATO (1954), and installed pro-US client regimes worldwide.
+- **Giải thích (VI):** Đường lối đối ngoại xuyên suốt của Mỹ trong thời kì Chiến tranh lạnh nhằm chống phá các nước xã hội chủ nghĩa, đàn áp phong trào giải phóng dân tộc và thực hiện tham vọng làm bá chủ thế giới. Để triển khai chiến lược này, Mỹ lôi kéo các nước nhận viện trợ, thành lập các khối quân sự như NATO (1949), SEATO (1954) và thiết lập chính quyền tay sai thân Mỹ ở nhiều quốc gia.
+- **Bối cảnh:**
+  - Lịch sử và Địa lí lớp 9, Bài 11 (Mục 1) và Bài 9 (Mục 1): đường lối đối ngoại xuyên suốt của Mỹ từ năm 1945 đến năm 1991 trong cục diện Chiến tranh lạnh.
+  - *Lưu ý:* Refers specifically to the overarching Cold War foreign policy strategy of the United States after World War II.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B11 (Mục 1), tr. 50; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 1), tr. 41
+
+### US-Japan Security Treaty
+- **Tiếng Việt:** Hiệp ước an ninh Mỹ – Nhật
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A bilateral military and security treaty signed on September 8, 1951 between Japan and the United States, under which Japan accepted protection under the US "nuclear umbrella" and permitted the United States to station troops and build military bases on Japanese territory.
+- **Giải thích (VI):** Văn kiện quân sự – an ninh kí kết ngày 8 – 9 – 1951 giữa Nhật Bản và Mỹ, theo đó Nhật Bản chấp nhận đặt dưới “ô bảo hộ hạt nhân” của Mỹ và cho phép Mỹ đóng quân, xây dựng căn cứ quân sự trên lãnh thổ Nhật Bản.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 12 (Mục 2.a): nền tảng xác lập liên minh quân sự – an ninh chặt chẽ giữa Nhật Bản và Mỹ sau Chiến tranh thế giới thứ hai.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 2.a), tr. 54; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 2.a), tr. 54, 55; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B12 (Mục 1.b), tr. 54
 
 ### utopian socialism
 - **Tiếng Việt:** Chủ nghĩa xã hội không tưởng
@@ -6702,7 +7662,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 13 (Mục 1.a): Trào lưu tư tưởng tiến bộ phản ánh ước vọng xã hội công bằng trước khi chủ nghĩa xã hội khoa học ra đời.
   - *Lưu ý:* Phân biệt với 'chủ nghĩa xã hội khoa học' do C. Mác và Ph. Ăng-ghen sáng lập vào giữa thế kỉ XIX trên cơ sở phát hiện sứ mệnh lịch sử của giai cấp công nhân.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 57
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.a), tr. 57; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 57; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 05, B13 (Mục 1.b), tr. 57, 58
 
 ### Van Don seaport
 - **Tiếng Việt:** Cảng biển Vân Đồn (thương cảng Vân Đồn)
@@ -6718,7 +7678,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A major maritime trading port in the island region of Quang Ninh established by the Ly dynasty in 1149, facilitating commercial exchange between Dai Viet and merchant vessels from China, India, and Southeast Asian countries.
 - **Giải thích (VI):** Thương cảng biển quan trọng tại vùng đảo Quảng Ninh do nhà Lý thành lập năm 1149, tạo điều kiện cho thuyền buôn từ Trung Quốc, Ấn Độ và các nước Đông Nam Á đến giao thương, trao đổi hàng hoá với Đại Việt.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 12 (Mục 3.b): Nêu mốc hình thành thương cảng ngoại thương quan trọng đầu tiên của Đại Việt dưới thời Lý.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.b), tr. 114
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.b), tr. 114; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 114; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 114, 115
 
 ### Van Lang-Au Lac civilization
 - **Tiếng Việt:** Văn minh Văn Lang – Âu Lạc (Văn minh sông Hồng; Văn minh Việt cổ; Văn minh Đông Sơn)
@@ -6745,7 +7705,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 5 (Mục II.2.a): Đặc trưng tổ chức dân cư và xã hội của văn minh Ấn Độ thời kì cổ – trung đại.
   - Lịch sử và Địa lí lớp 6, Bài 8 (Mục 2): đặc trưng tổ chức phân biệt đẳng cấp khắc nghiệt trong xã hội Ấn Độ cổ đại.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.a), tr. 40; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2), tr. 36; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 36; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 36, 37
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.a), tr. 40; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 40; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 40, 41; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 2), tr. 36; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 36; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 03, B8 (Mục 3), tr. 36, 37
 
 ### Vedas
 - **Tiếng Việt:** Kinh Vê-đa
@@ -6753,7 +7713,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A foundational collection of ancient sacred texts in the literary and religious heritage of ancient and medieval Indian civilization, embodying profound artistic and humanistic values.
 - **Giải thích (VI):** Bộ kinh cổ tiêu biểu trong kho tàng văn học và tư tưởng tôn giáo của văn minh Ấn Độ thời kì cổ – trung đại, chứa đựng những giá trị nghệ thuật và nhân văn sâu sắc.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 5 (Mục II.2.b): Tác phẩm tiêu biểu trong thành tựu văn học của nền văn minh Ấn Độ.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 42
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 42; SGK Lịch sử 10 KNTT, Chủ đề 03, B5 (Mục 2.b), tr. 42, 43
 
 ### Vi Xuyen Front
 - **Tiếng Việt:** Mặt trận Vị Xuyên
@@ -6761,7 +7721,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The key combat sector in Vi Xuyen (Ha Giang Province) subjected to the fiercest Chinese encroachment and destruction along the entire northern border during the war to defend the Fatherland. During its most intense five-year period from 1984 to 1989, nearly 5,000 Vietnamese soldiers sacrificed their lives on this front.
 - **Giải thích (VI):** Địa bàn chiến đấu trọng điểm tại Vị Xuyên (thuộc tỉnh Hà Giang) bị quân Trung Quốc tiến hành lấn chiếm và phá hoại gay gắt nhất trên toàn tuyến biên giới phía Bắc trong cuộc chiến tranh bảo vệ Tổ quốc. Chỉ riêng trong 5 năm ác liệt nhất (1984 – 1989), gần 5 000 chiến sĩ Việt Nam đã hi sinh tại mặt trận này.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 9 (Mục 2.b): Nêu địa bàn chiến đấu ác liệt nhất trong cuộc đấu tranh bảo vệ biên giới phía Bắc giai đoạn 1984 – 1989.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.b), tr. 57
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.b), tr. 57; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.c), tr. 57; SGK Lịch sử 12 KNTT, Chủ đề 03, B9 (Mục 2.c), tr. 57, 58
 
 ### viceroy
 - **Tiếng Việt:** Phó vương
@@ -6771,23 +7731,29 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 8, Bài 15 (Mục 1): Thiết chế cai trị trực tiếp tối cao của thực dân Anh tại Ấn Độ nửa sau thế kỉ XIX.
   - *Lưu ý:* Trong Bài 15 SGK Lịch sử và Địa lí 8, thuật ngữ này chỉ cụ thể chức Phó vương đại diện Chính phủ Anh cai trị trực tiếp Ấn Độ.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B15 (Mục 1), tr. 65
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B15 (Mục 1), tr. 65; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B15, tr. 65; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B15 (Mục 1), tr. 65, 66
 
 ### Viet Bac Autumn-Winter Campaign of 1947
-- **Tiếng Việt:** Chiến dịch Việt Bắc thu – đông năm 1947
+- **Tiếng Việt:** Chiến dịch Việt Bắc thu – đông năm 1947 (Chiến dịch Việt Bắc thu – đông 1947)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The first major counter-offensive campaign of the Vietnamese military, fought from October to December 1947 to encircle and repel the French offensive against the Viet Bac base area at key positions such as Cho Don, Cho Ra, and Doan Hung. This victory safeguarded the central resistance headquarters, forced the bulk of French troops to withdraw from Viet Bac, and completely defeated the French "quick strike, quick victory" strategy.
 - **Giải thích (VI):** Chiến dịch phản công lớn đầu tiên của quân đội Việt Nam diễn ra từ tháng 10 đến tháng 12 – 1947, chủ động bao vây và đẩy lùi cuộc tấn công của thực dân Pháp lên Việt Bắc khỏi các vị trí quan trọng như Chợ Đồn, Chợ Rã, Đoan Hùng. Chiến thắng này bảo vệ an toàn cơ quan đầu não kháng chiến, buộc đại bộ phận quân Pháp rút chạy khỏi Việt Bắc và làm thất bại hoàn toàn chiến lược “đánh nhanh, thắng nhanh” của Pháp.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.b): Chiến dịch phản công lớn đầu tiên trong cuộc kháng chiến chống thực dân Pháp.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39, 40
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The first major counter-offensive campaign waged by the Vietnamese military and people during the anti-French resistance war (October–December 1947), defeating an offensive of roughly 12,000 French troops aimed at destroying the resistance headquarters and main forces in Viet Bac. This victory safeguarded the resistance leadership, matured Vietnam's main-force army, and completely defeated the French "quick strike, quick victory" strategy. / VI: Chiến dịch phản công lớn đầu tiên trong cuộc kháng chiến chống thực dân Pháp (từ tháng 10 đến tháng 12 – 1947), đánh bại cuộc tiến công khoảng 12 000 quân của Pháp nhằm tiêu diệt cơ quan đầu não kháng chiến và quân chủ lực tại Việt Bắc. Thắng lợi này đã bảo vệ an toàn cơ quan đầu não kháng chiến, giúp bộ đội chủ lực trưởng thành và làm thất bại hoàn toàn chiến lược “đánh nhanh, thắng nhanh” của thực dân Pháp.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 7 (Mục 2.b): Chiến dịch phản công lớn đầu tiên trong cuộc kháng chiến chống thực dân Pháp.
+  - Lịch sử và Địa lí lớp 9, Bài 14 (Mục 2.d): chiến dịch phản công lớn đầu tiên buộc thực dân Pháp phải chuyển sang đánh lâu dài với Việt Nam.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.a), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.b), tr. 39, 40; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.d), tr. 70, 71; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.d), tr. 71; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.c), tr. 70; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B14 (Mục 2.d), tr. 70
 
 ### Viet Bac Liberated Zone
 - **Tiếng Việt:** Khu Giải phóng Việt Bắc
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A key revolutionary base area established in June 1945 by decision of leader Ho Chi Minh, following the development of the Cao Bang base area from early 1941 and the relocation of the revolutionary leadership headquarters from Pac Bo (Cao Bang) to Tan Trao (Tuyen Quang). It served as a strategic territory for building forces and directing immediate preparations for the August Revolution of 1945.
 - **Giải thích (VI):** Căn cứ địa cách mạng trọng yếu thành lập vào tháng 6 – 1945 theo quyết định của lãnh tụ Hồ Chí Minh, tiếp nối quá trình xây dựng căn cứ địa ở Cao Bằng từ đầu năm 1941 và việc chuyển cơ quan chỉ đạo cách mạng từ Pác Bó (Cao Bằng) về Tân Trào (Tuyên Quang). Đây là địa bàn chiến lược tập trung xây dựng lực lượng và chỉ đạo công cuộc chuẩn bị trực tiếp cho Cách mạng tháng Tám năm 1945.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 16 (Mục 3): Quá trình xây dựng và mở rộng căn cứ địa cách mạng chuẩn bị cho Cách mạng tháng Tám năm 1945.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 3), tr. 99; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 3), tr. 99, 100
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: The principal revolutionary base area of the entire country established in May 1945 under Ho Chi Minh's directive after his move from Pac Bo to Tan Trao (Tuyen Quang), serving as a microcosm of the new Vietnam. / VI: Căn cứ địa chính của cách mạng cả nước thành lập vào tháng 5 – 1945 theo chỉ thị của lãnh tụ Hồ Chí Minh sau khi Người rời Pác Bó về Tân Trào (Tuyên Quang), mang vai trò là hình ảnh thu nhỏ của nước Việt Nam mới.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 16 (Mục 3): Quá trình xây dựng và mở rộng căn cứ địa cách mạng chuẩn bị cho Cách mạng tháng Tám năm 1945.
+  - Lịch sử và Địa lí lớp 9, Bài 8 (Mục 2.c): Căn cứ địa chính của cách mạng cả nước từ tháng 5 – 1945 và là trung tâm chỉ đạo Tổng khởi nghĩa tháng Tám.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 3), tr. 99; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 3), tr. 99, 100; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 2.c), tr. 37; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 2.d), tr. 37; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 3.a), tr. 37
 
 ### Viet Minh Front
 - **Tiếng Việt:** Mặt trận Việt Minh (Mặt trận Việt Nam Độc lập Đồng minh)
@@ -6804,6 +7770,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tổ chức kế thừa lịch sử của Mặt trận dân tộc thống nhất Việt Nam (khởi đầu từ Hội Phản đế Đồng minh ngày 18 – 11 – 1930), giữ vai trò tập hợp và đại diện tiêu biểu cho khối đại đoàn kết các dân tộc Việt Nam hiện nay.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 14 (Mục 1a): Tổ chức đại diện tiêu biểu cho khối đại đoàn kết các dân tộc Việt Nam trong giai đoạn hiện nay.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 1.a), tr. 137; SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 1.b), tr. 137; SGK Lịch sử 10 KNTT, Chủ đề 07, B14 (Mục 1.b), tr. 137, 138
+
+### Vietnam Liberation Army
+- **Tiếng Việt:** Việt Nam Giải phóng quân
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The unified revolutionary armed force established by decision of the Tonkin Revolutionary Military Conference on April 15, 1945 through the merger of the National Salvation Army and the Vietnam Propaganda Liberation Army, tasked with expanding armed forces and building anti-Japanese base areas.
+- **Giải thích (VI):** Lực lượng vũ trang cách mạng thống nhất ra đời theo quyết định của Hội nghị Quân sự cách mạng Bắc Kì ngày 15 – 4 – 1945 trên cơ sở hợp nhất Cứu quốc quân và Đội Việt Nam Tuyên truyền Giải phóng quân, nhằm phát triển lực lượng vũ trang và xây dựng căn cứ địa kháng Nhật.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 8 (Mục 2.b, Mục 3.a): Lực lượng vũ trang thống nhất của cách mạng Việt Nam trước thềm Tổng khởi nghĩa tháng Tám năm 1945.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 2.b), tr. 36
 
 ### Vietnam National Liberation Committee
 - **Tiếng Việt:** Uỷ ban Dân tộc giải phóng Việt Nam
@@ -6828,8 +7802,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A revolutionary armed unit established on December 22, 1944, under the directive of leader Ho Chi Minh, building upon guerrilla force organization and military training manuals developed in Cao Bang since late 1941. Its formation represented a crucial preparation of armed forces leading up to the August Revolution of 1945.
 - **Giải thích (VI):** Đơn vị lực lượng vũ trang cách mạng thành lập ngày 22 – 12 – 1944 theo chỉ thị của lãnh tụ Hồ Chí Minh, trên cơ sở quá trình xây dựng lực lượng du kích và biên soạn tài liệu huấn luyện quân sự từ cuối năm 1941 tại Cao Bằng. Sự ra đời của đội ngũ này là bước chuẩn bị quan trọng về lực lượng vũ trang tiến tới Cách mạng tháng Tám năm 1945.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 16 (Mục 3): Bước chuẩn bị về lực lượng vũ trang dưới sự chỉ đạo của Hồ Chí Minh trước Cách mạng tháng Tám năm 1945.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 3), tr. 99; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 3), tr. 99, 100
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A revolutionary armed unit founded on December 22, 1944 in Cao Bang under the directive of Ho Chi Minh, which immediately achieved two consecutive victories at Phay Khat and Na Ngan (Cao Bang). / VI: Đội vũ trang cách mạng thành lập ngày 22 – 12 – 1944 tại Cao Bằng theo chỉ thị của Hồ Chí Minh, ngay sau khi ra đời đã đánh thắng hai trận liên tiếp tại Phay Khắt và Nà Ngần (tỉnh Cao Bằng).
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 16 (Mục 3): Bước chuẩn bị về lực lượng vũ trang dưới sự chỉ đạo của Hồ Chí Minh trước Cách mạng tháng Tám năm 1945.
+  - Lịch sử và Địa lí lớp 9, Bài 8 (Mục 2.b): Đội quân chủ lực đầu tiên của cách mạng Việt Nam, tiền thân của Quân đội nhân dân Việt Nam.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 3), tr. 99; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 3), tr. 99, 100; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 2.b), tr. 36
 
 ### Vietnam Restoration League
 - **Tiếng Việt:** Việt Nam Quang phục hội (Quang phục hội)
@@ -6840,7 +7817,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 12, Bài 12 (Mục 1): Trình bày hoạt động tổ chức và đối ngoại của Phan Bội Châu ở Trung Quốc đầu năm 1912.
   - Lịch sử và Địa lí lớp 8, Bài 19 (Mục 2.a): Tổ chức yêu nước đánh dấu bước chuyển của Phan Bội Châu sang chủ trương thiết lập thể chế Cộng hoà Dân quốc.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 1), tr. 74; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 2.a), tr. 88
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 1), tr. 74; SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.a), tr. 74; SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.a), tr. 74, 75; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 2.a), tr. 88; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 1), tr. 88; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B19 (Mục 2), tr. 88
 
 ### Vietnam Revolutionary League
 - **Tiếng Việt:** Việt Nam Cách mạng Đồng minh hội
@@ -6855,8 +7832,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A revolutionary organization founded by Nguyen Ai Quoc in June 1925 in Guangzhou (China) that conducted political training courses and published the newspaper Thanh Nien to train cadres in disseminating Marxism–Leninism and national liberation theory among the workers' and patriotic movements. Its activities catalyzed the emergence of three communist organizations in 1929, serving as the direct organizational preparation for the founding of the Communist Party of Vietnam.
 - **Giải thích (VI):** Tổ chức cách mạng do Nguyễn Ái Quốc thành lập tháng 6 – 1925 tại Quảng Châu (Trung Quốc), trực tiếp mở các lớp huấn luyện chính trị và ra báo Thanh niên nhằm đào tạo cán bộ truyền bá chủ nghĩa Mác – Lê-nin cùng lí luận giải phóng dân tộc vào phong trào công nhân và phong trào yêu nước. Hoạt động của Hội thúc đẩy sự ra đời của ba tổ chức cộng sản năm 1929, đóng vai trò là bước chuẩn bị trực tiếp về tổ chức cho sự thành lập Đảng Cộng sản Việt Nam.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 16 (Mục 2.a): Sự chuẩn bị về tổ chức của Nguyễn Ái Quốc cho sự ra đời của Đảng Cộng sản Việt Nam.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 2.a), tr. 97; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 2.b), tr. 97
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A revolutionary organization founded by Nguyen Ai Quoc in June 1925 in Guangzhou (China) from outstanding patriotic youth, stating the aim of carrying out a national revolution for independence and then a world revolution toward communist society. Building networks across all three regions of Vietnam and abroad prior to May 1929, the League played a pivotal role in disseminating Marxism-Leninism in Vietnam. / VI: Tổ chức cách mạng do Nguyễn Ái Quốc thành lập vào tháng 6 – 1925 tại Quảng Châu (Trung Quốc) từ những thanh niên yêu nước ưu tú, khẳng định mục đích làm cách mạng dân tộc giành độc lập rồi làm cách mạng thế giới tiến tới xã hội cộng sản. Đến trước tháng 5 – 1929, Hội đã xây dựng cơ sở khắp ba kì trong nước và ở nước ngoài, góp phần quan trọng truyền bá chủ nghĩa Mác – Lê-nin vào Việt Nam.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 16 (Mục 2.a): Sự chuẩn bị về tổ chức của Nguyễn Ái Quốc cho sự ra đời của Đảng Cộng sản Việt Nam.
+  - Lịch sử và Địa lí lớp 9, Bài 5 (Mục 4) và Bài 6 (Mục 1, Mục 2): Tổ chức tiền thân chuẩn bị về chính trị, tư tưởng và cán bộ cho sự thành lập Đảng Cộng sản Việt Nam.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 2.a), tr. 97; SGK Lịch sử 12 KNTT, Chủ đề 06, B16 (Mục 2.b), tr. 97; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 3), tr. 24; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 4), tr. 24; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B5 (Mục 4), tr. 24, 25
 
 ### Vietnam's admission to ASEAN
 - **Tiếng Việt:** Việt Nam gia nhập ASEAN
@@ -6891,14 +7871,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 3.a), tr. 72; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B16 (Mục 3.b), tr. 72
 
 ### Vietnamese Declaration of Independence
-- **Tiếng Việt:** Tuyên ngôn Độc lập
+- **Tiếng Việt:** Tuyên ngôn Độc lập (Tuyên ngôn Độc lập năm 1945)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The historical document read by President Ho Chi Minh on behalf of the Provisional Government on September 2, 1945, officially proclaiming to the nation and the world the birth of the Democratic Republic of Vietnam.
 - **Giải thích (VI):** Văn kiện lịch sử do Chủ tịch Hồ Chí Minh thay mặt Chính phủ lâm thời đọc ngày 2 – 9 – 1945, chính thức tuyên bố trước toàn thể nhân dân và thế giới sự ra đời của Nhà nước Việt Nam Dân chủ Cộng hoà.
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A historic document drafted by President Ho Chi Minh and read on behalf of the Provisional Government at Ba Dinh Square (Hanoi) on September 2, 1945, founding the Democratic Republic of Vietnam. It solemnly proclaimed that Vietnam has the right to enjoy freedom and independence, has in fact become a free and independent country, and that the entire Vietnamese nation is determined to devote all its spirit, strength, lives, and property to safeguard that right. / VI: Văn kiện lịch sử do Chủ tịch Hồ Chí Minh soạn thảo và thay mặt Chính phủ lâm thời đọc tại Quảng trường Ba Đình (Hà Nội) ngày 2 – 9 – 1945, khai sinh ra nước Việt Nam Dân chủ Cộng hoà. Bản tuyên ngôn khẳng định nước Việt Nam có quyền hưởng tự do và độc lập, sự thực đã thành một nước tự do, độc lập và toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần, lực lượng, tính mệnh và của cải để giữ vững quyền tự do, độc lập ấy.
 - **Bối cảnh:**
   - Lịch sử lớp 12, Bài 6 (Mục 2): Văn kiện lịch sử khai sinh nước Việt Nam Dân chủ Cộng hoà ngày 2 – 9 – 1945.
+  - Lịch sử và Địa lí lớp 9, Bài 8 (Mục 3.b): Văn kiện lịch sử trọng đại khai sinh nước Việt Nam Dân chủ Cộng hoà ngày 2 – 9 – 1945.
   - *Lưu ý:* Chỉ bản Tuyên ngôn Độc lập ngày 2 – 9 – 1945 của nước Việt Nam Dân chủ Cộng hoà, phân biệt với Tuyên ngôn Độc lập năm 1776 của Hợp chúng quốc Hoa Kỳ.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B6, tr. 31; SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 2), tr. 33; SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 2), tr. 33, 34
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B6, tr. 31; SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 2), tr. 33; SGK Lịch sử 12 KNTT, Chủ đề 03, B6 (Mục 2), tr. 33, 34; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 3.a), tr. 39; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 3.b), tr. 39; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 02, B8 (Mục 4.a), tr. 39, 40
 
 ### Vietnamese Mother Goddess religion
 - **Tiếng Việt:** Đạo Mẫu
@@ -6906,15 +7888,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An indigenous Vietnamese folk belief system that spread widely from the 16th century, venerating female deities governing realms of nature, including Mau Thuong Thien (Mother of Heaven), Mau Dia (Mother of Earth), Mau Thoai (Mother of Water), Mau Thuong Ngan (Mother of Forests), and Mau Lieu Hanh.
 - **Giải thích (VI):** Tín ngưỡng dân gian bản địa của người Việt phát triển rộng rãi từ thế kỉ XVI, tôn thờ các vị nữ thần cai quản các miền tự nhiên gồm Mẫu Thượng Thiên (mẹ Trời), Mẫu Địa (mẹ Đất), Mẫu Thoải (mẹ Nước), Mẫu Thượng Ngàn (mẹ Rừng) và Mẫu Liễu Hạnh.
 - **Bối cảnh:** Lịch sử lớp 10, Bài 12 (Mục 3.c): Trình bày tín ngưỡng dân gian bản địa tiêu biểu trong đời sống tinh thần của cư dân Đại Việt.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 114; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 114, 115
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 114; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.c), tr. 114, 115; SGK Lịch sử 10 KNTT, Chủ đề 06, B12 (Mục 3.b), tr. 114
 
 ### Vietnamization strategy
-- **Tiếng Việt:** Chiến lược Việt Nam hoá chiến tranh
+- **Tiếng Việt:** Chiến lược Việt Nam hoá chiến tranh (Chiến lược “Việt Nam hoá chiến tranh”; “Việt Nam hoá chiến tranh”)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A form of neocolonial war of aggression implemented by the United States (1969–1973), relying primarily on the Saigon army under US advisers with coordinated US firepower, air, and logistical support. Through this strategy, Washington gradually withdrew US and allied troops to reduce American casualties on the battlefield while strengthening the Saigon military and expanding the war across Indochina.
 - **Giải thích (VI):** Loại hình chiến tranh xâm lược thực dân mới do Mỹ triển khai (1969 – 1973), tiến hành bằng lực lượng quân đội Sài Gòn là chủ yếu dưới sự chỉ huy của cố vấn Mỹ và có sự phối hợp về hoả lực, không quân, hậu cần của Mỹ. Triển khai chiến lược này, Mỹ rút dần quân Mỹ và quân đồng minh để giảm xương máu trên chiến trường, đồng thời tăng cường lực lượng cho quân đội Sài Gòn và mở rộng chiến tranh ra toàn Đông Dương.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 8 (Mục 2.d): Đặc điểm, lực lượng và thủ đoạn của chiến lược chiến tranh do Mỹ tiến hành giai đoạn 1969 – 1973.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.c), tr. 49; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 49; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 49, 50
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A US neocolonial war strategy implemented after the failure of the “Local War” strategy, relying primarily on the Saigon army as US and allied troops gradually withdrew from combat. Commanded by US advisers and supported by US firepower and air power, this strategy also expanded the war across all of Indochina. / VI: Chiến lược chiến tranh xâm lược thực dân mới của Mỹ triển khai sau thất bại của chiến lược “Chiến tranh cục bộ”, sử dụng lực lượng quân đội Sài Gòn làm chủ yếu khi quân Mỹ và quân đồng minh rút dần khỏi chiến tranh. Chiến lược này vẫn do cố vấn Mỹ chỉ huy, phối hợp với hoả lực, không quân Mỹ và gắn liền với việc mở rộng chiến tranh ra toàn Đông Dương.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 8 (Mục 2.d): Đặc điểm, lực lượng và thủ đoạn của chiến lược chiến tranh do Mỹ tiến hành giai đoạn 1969 – 1973.
+  - Lịch sử và Địa lí lớp 9, Bài 17 (Mục 1.b): Chiến lược chiến tranh của Mỹ ở miền Nam Việt Nam và Đông Dương giai đoạn 1969 – 1973.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.c), tr. 49; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 49; SGK Lịch sử 12 KNTT, Chủ đề 03, B8 (Mục 2.d), tr. 49, 50; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.b), tr. 86, 87; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.a), tr. 86; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B17 (Mục 1.b), tr. 86
 
 ### Vietnam–Cambodia–Laos Peoples' Alliance
 - **Tiếng Việt:** Liên minh nhân dân Việt – Miên – Lào
@@ -6922,7 +7907,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A solidarity alliance of the peoples of Vietnam, Cambodia, and Laos founded in 1951 on the basis of voluntariness, equality, and mutual respect for national sovereignty.
 - **Giải thích (VI):** Khối liên minh đoàn kết giữa nhân dân ba nước Việt Nam, Cam-pu-chia và Lào được thành lập năm 1951 trên cơ sở tự nguyện, bình đẳng và tôn trọng chủ quyền của nhau.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 13 (Mục 1): Trình bày sự hình thành khối đoàn kết liên minh ba nước Đông Dương trong kháng chiến chống Pháp.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 1), tr. 78, 79
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 1), tr. 78, 79; SGK Lịch sử 12 KNTT, Chủ đề 05, B13 (Mục 1), tr. 78
 
 ### Vijaya Capital
 - **Tiếng Việt:** Kinh đô Vi-giay-a (Đồ Bàn; Chà Bàn)
@@ -6932,7 +7917,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 7, Bài 18 (Mục 1.a): Kinh đô của Vương quốc Chăm-pa từ cuối thế kỉ X đến năm 1471.
   - *Lưu ý:* Chỉ toà thành kinh đô ở An Nhơn (Bình Định), phân biệt với Vương triều Vi-giay-a.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.a), tr. 90, 91
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.a), tr. 90, 91; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18, tr. 90; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.a), tr. 90
 
 ### Vijaya Dynasty
 - **Tiếng Việt:** Vương triều Vi-giay-a
@@ -6942,7 +7927,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử và Địa lí lớp 7, Bài 18 (Mục 1.a): Vương triều cai trị gắn liền với hơn bốn thế kỉ phát triển của Vương quốc Chăm-pa (988 – 1471).
   - *Lưu ý:* Chỉ vương triều cai trị Chăm-pa từ năm 988 đến năm 1471, phân biệt với địa danh Kinh đô Vi-giay-a (thành Đồ Bàn).
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.a), tr. 90, 91
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.a), tr. 90, 91; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18, tr. 90; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.a), tr. 90
 
 ### Vinh Te Canal
 - **Tiếng Việt:** Kênh Vĩnh Tế
@@ -6963,13 +7948,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Lịch sử và Địa lí lớp 6, Bài 13 (Mục 2): hiện vật tiêu biểu phản ánh việc tiếp thu chữ viết cổ Ấn Độ của cư dân Đông Nam Á.
 - **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 3.a), tr. 82; SGK Lịch sử 10 KNTT, Chủ đề 05, B9 (Mục 3.a), tr. 82, 83; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 04, B13 (Mục 2), tr. 57
 
+### War Communism
+- **Tiếng Việt:** Chính sách cộng sản thời chiến
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Emergency economic policy implemented by Soviet Russia starting in 1919 during the civil war and foreign armed intervention (1918–1920), featuring the complete nationalization of enterprises, requisitioning of peasant grain surpluses, and compulsory labor. It enabled the Soviet state to control key economic sectors—such as banking, railways, foreign trade, and mining—to defend the revolutionary government.
+- **Giải thích (VI):** Chính sách kinh tế đặc biệt do Nhà nước Nga Xô viết thực hiện từ năm 1919 trong bối cảnh chống thù trong, giặc ngoài (1918 – 1920), bao gồm quốc hữu hoá toàn bộ xí nghiệp, trưng thu lương thực thừa của nông dân và thi hành chế độ lao động bắt buộc. Chính sách này giúp Nhà nước Xô viết nắm giữ các ngành kinh tế then chốt như ngân hàng, đường sắt, ngoại thương và hầm mỏ để phục vụ chiến tranh bảo vệ chính quyền cách mạng.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 1 (Mục 1): Chính sách thời chiến áp dụng ở nước Nga Xô viết trước khi chuyển sang Chính sách kinh tế mới (NEP) vào tháng 3 – 1921.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B1, tr. 7; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1), tr. 7; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B1 (Mục 1), tr. 7, 8
+
 ### Warsaw Treaty Organization
 - **Tiếng Việt:** Tổ chức Hiệp ước Vác-sa-va
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A military alliance established by the Soviet Union and Eastern European countries in 1955 as a counterweight to the North Atlantic Treaty Organization (NATO) within the framework of the Yalta bipolar world order and the Cold War.
 - **Giải thích (VI):** Liên minh quân sự do Liên Xô và các nước Đông Âu thành lập năm 1955, đối trọng với Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) trong khuôn khổ Trật tự thế giới hai cực I-an-ta và Chiến tranh lạnh.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 2 (Mục 1.b): Khối liên minh quân sự của Liên Xô và các nước xã hội chủ nghĩa Đông Âu trong thời kì Chiến tranh lạnh.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 15; SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 15, 16
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A political and military alliance established in 1955 by the Soviet Union and socialist countries for collective defense as a counterweight to the North Atlantic Treaty Organization (NATO) led by the United States and capitalist countries during the Cold War. / VI: Liên minh chính trị – quân sự do Liên Xô và các nước xã hội chủ nghĩa thành lập năm 1955 nhằm hợp tác phòng thủ và đối trọng với Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) của Mỹ và các nước tư bản chủ nghĩa trong Chiến tranh lạnh.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 2 (Mục 1.b): Khối liên minh quân sự của Liên Xô và các nước xã hội chủ nghĩa Đông Âu trong thời kì Chiến tranh lạnh.
+  - Lịch sử và Địa lí lớp 9, Bài 9 (Mục 2): biểu hiện đối đầu về chính trị – quân sự giữa hai hệ thống xã hội chủ nghĩa và tư bản chủ nghĩa trong Chiến tranh lạnh.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 15; SGK Lịch sử 12 KNTT, Chủ đề 01, B2 (Mục 1.b), tr. 15, 16; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 2), tr. 42; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 03, B9 (Mục 2), tr. 42, 43
 
 ### Water Chenla
 - **Tiếng Việt:** Thuỷ Chân Lạp
@@ -6977,7 +7973,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A historical designation in certain chronicles used after the 7th century to distinguish the low-lying southern riverine region from Land Chenla, geographically corresponding mainly to present-day Southern Vietnam (Nam Bo).
 - **Giải thích (VI):** Tên gọi trong một số sử sách dùng để phân biệt vùng đất thấp trũng ở phía nam với Lục Chân Lạp từ sau thế kỉ VII, có phạm vi địa lí chủ yếu tương ứng với khu vực Nam Bộ Việt Nam ngày nay.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 7, Bài 18 (Mục 2.a): Tên gọi lịch sử gắn với vùng đất Nam Bộ Việt Nam sau khi Vương quốc Phù Nam sụp đổ.
-- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.a), tr. 93, 94
+- **Nguồn:** SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.a), tr. 93, 94; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 93; SGK Lịch sử và Địa lí 7 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2.a), tr. 93
 
 ### wet-rice agricultural civilization
 - **Tiếng Việt:** Văn minh nông nghiệp lúa nước
@@ -6995,13 +7991,24 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Lịch sử và Địa lí lớp 6, Bài 11 (Mục 1): đặc trưng kinh tế – văn hoá cốt lõi của cư dân Đông Nam Á thời cổ đại.
 - **Nguồn:** SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 04, B11, tr. 51; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 1), tr. 51; SGK Lịch sử và Địa lí 6 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 2), tr. 51, 52; SGK Lịch sử và Địa lí 6 KNTT, Bảng giải thích thuật ngữ, tr. 191
 
+### White Papers on Vietnam's sovereignty over the Hoang Sa and Truong Sa archipelagos
+- **Tiếng Việt:** “Sách Trắng” về chủ quyền đối với quần đảo Hoàng Sa và Trường Sa
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** Official state documents published by Vietnam in 1979, 1981, and 1988 affirming that the Hoang Sa and Truong Sa archipelagos are inseparable parts of Vietnamese territory in accordance with international law and practice.
+- **Giải thích (VI):** Các văn kiện chính thức do Nhà nước Việt Nam công bố vào các năm 1979, 1981 và 1988 nhằm khẳng định quần đảo Hoàng Sa và quần đảo Trường Sa là bộ phận không thể tách rời của lãnh thổ Việt Nam, phù hợp với luật pháp và thực tiễn quốc tế.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Chủ đề chung 3 (Mục 1.a): Nêu dẫn chứng văn kiện ngoại giao – pháp lí chính thức của Nhà nước Việt Nam công bố trước quốc tế về chủ quyền hai quần đảo Hoàng Sa và Trường Sa.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Chủ đề chung, Chủ đề chung 3 (Mục 1.a), tr. 233
+
 ### Winter-Spring 1953-1954 Strategic Offensive
-- **Tiếng Việt:** Cuộc Tiến công chiến lược Đông – Xuân 1953 – 1954
+- **Tiếng Việt:** Cuộc Tiến công chiến lược Đông – Xuân 1953 – 1954 (Chiến cuộc Đông – Xuân 1953 – 1954; Kế hoạch tác chiến Đông – Xuân 1953 – 1954)
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** A series of strategic military operations conducted by the Vietnamese armed forces and people during the 1953–1954 winter-spring season that initially thwarted the French Navarre Plan and prepared material and moral conditions for opening the Dien Bien Phu Campaign.
 - **Giải thích (VI):** Hoạt động tác chiến chiến lược của quân dân Việt Nam trong đông – xuân 1953 – 1954 làm phá sản bước đầu Kế hoạch Na-va của thực dân Pháp, đồng thời chuẩn bị về vật chất và tinh thần để mở chiến dịch Điện Biên Phủ.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 7 (Mục 2.d): Hoạt động tác chiến chiến lược làm phá sản bước đầu Kế hoạch Na-va của Pháp.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.c), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41, 42
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: A coordinated series of strategic offensives conducted according to the Politburo's operational plan from late 1953 to early 1954, concentrating forces against strategically vital yet relatively weak French sectors to destroy enemy manpower and liberate territory. Under successive attacks, French forces were forced to disperse across five troop concentration points (the Northern Delta, Dien Bien Phu, Seno, Luang Prabang, and Pleiku), resulting in the initial failure of the Franco-American Navarre Plan. / VI: Hệ thống các đòn tiến công chiến lược triển khai theo kế hoạch của Bộ Chính trị từ cuối năm 1953 đến đầu năm 1954, tập trung lực lượng đánh vào những địa bàn quan trọng về chiến lược mà quân Pháp tương đối yếu nhằm tiêu diệt sinh lực địch và giải phóng đất đai. Trước các đòn tiến công liên tiếp, quân Pháp buộc phải phân tán lực lượng thành năm nơi tập trung quân (đồng bằng Bắc Bộ, Điện Biên Phủ, Xê-nô, Luông Pha-bang, Plây-ku), làm phá sản bước đầu Kế hoạch Na-va của Pháp – Mỹ.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 7 (Mục 2.d): Hoạt động tác chiến chiến lược làm phá sản bước đầu Kế hoạch Na-va của Pháp.
+  - Lịch sử và Địa lí lớp 9, Bài 15 (Mục 2): các đòn tiến công chiến lược phối hợp trên chiến trường Đông Dương làm phá sản bước đầu Kế hoạch Na-va.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.c), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41; SGK Lịch sử 12 KNTT, Chủ đề 03, B7 (Mục 2.d), tr. 41, 42; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15 (Mục 2), tr. 75, 76; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15 (Mục 2), tr. 76; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15 (Mục 1.c), tr. 75; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 04, B15 (Mục 2), tr. 75
 
 ### working class
 - **Tiếng Việt:** Giai cấp công nhân
@@ -7009,7 +8016,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A social class formed during the Industrial Revolution from large numbers of dispossessed rural laborers who migrated to cities for wage work in factories and mines. Alongside the bourgeoisie, it constituted one of the two fundamental classes of capitalist society, growing steadily in size and political consciousness from the first half of the 19th century.
 - **Giải thích (VI):** Giai cấp xã hội hình thành gắn liền với cuộc cách mạng công nghiệp từ bộ phận đông đảo người lao động mất tư liệu sản xuất phải ra thành thị làm thuê trong các nhà máy, hầm mỏ. Cùng với giai cấp tư sản, đây là một trong hai giai cấp cơ bản của xã hội tư bản chủ nghĩa, không ngừng lớn mạnh về số lượng và trưởng thành về ý thức đấu tranh từ nửa đầu thế kỉ XIX.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 11 (Mục 1): Nguồn gốc ra đời và sự trưởng thành của lực lượng xã hội trung tâm trong phong trào công nhân thế giới thế kỉ XIX.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 1), tr. 48, 49
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 1), tr. 48, 49; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11, tr. 48; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 04, B11 (Mục 1), tr. 48
 
 ### workshop of the world
 - **Tiếng Việt:** Công xưởng của thế giới
@@ -7017,15 +8024,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A historical epithet denoting Britain's preeminent global economic standing after pioneering the Industrial Revolution, which transformed it from an agrarian country into the most advanced industrial nation of that era.
 - **Giải thích (VI):** Danh hiệu lịch sử phản ánh vị thế kinh tế đứng đầu thế giới của nước Anh sau khi hoàn thành cuộc cách mạng công nghiệp đầu tiên, đưa quốc gia này từ một nước nông nghiệp trở thành nước công nghiệp phát triển nhất đương thời.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 3 (Mục 1): danh hiệu phản ánh vị thế công nghiệp đứng đầu thế giới của nước Anh sau cách mạng công nghiệp.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 1), tr. 16
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 1), tr. 16; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2), tr. 16; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 01, B3 (Mục 2), tr. 16, 17
 
 ### world order
 - **Tiếng Việt:** Trật tự thế giới
 - **Chuyên ngành gốc:** Lịch sử
 - **Giải thích (EN):** The state of relations and balance of forces, strength, and power among states ("poles") or groups of states in a given historical period aimed at maintaining international relations according to common standards and rules.
 - **Giải thích (VI):** Tình trạng quan hệ và tương quan so sánh lực lượng, sức mạnh, quyền lực giữa các quốc gia (“cực”) hoặc nhóm quốc gia trong một giai đoạn lịch sử nhất định nhằm duy trì quan hệ quốc tế theo những tiêu chuẩn, luật lệ chung.
-- **Bối cảnh:** Lịch sử lớp 12, Bài 1 (Mục 1.a): Khái niệm nền tảng để tìm hiểu việc thiết lập trật tự thế giới mới sau Chiến tranh thế giới thứ hai và trong Chiến tranh lạnh.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 7
+- **Giải thích khác (SGK Lịch sử và Địa lí 9):** EN: An international structure formed through the arrangement of power among major powers to maintain stability within the system of international relations, which may be established in connection with world wars. / VI: Cấu trúc quan hệ quốc tế hình thành từ sự sắp xếp quyền lực giữa các cường quốc nhằm duy trì sự ổn định của hệ thống các quan hệ quốc tế, có thể được xác lập gắn liền với chiến tranh thế giới.
+- **Bối cảnh:**
+  - Lịch sử lớp 12, Bài 1 (Mục 1.a): Khái niệm nền tảng để tìm hiểu việc thiết lập trật tự thế giới mới sau Chiến tranh thế giới thứ hai và trong Chiến tranh lạnh.
+  - Lịch sử và Địa lí lớp 9, Bài 18 (Mục 1): Khái niệm nền tảng để phân tích sự sụp đổ của Trật tự hai cực I-an-ta và xu hướng hình thành trật tự thế giới mới sau năm 1991.
+- **Nguồn:** SGK Lịch sử 12 KNTT, Bảng giải thích thuật ngữ, tr. 110; SGK Lịch sử 12 KNTT, Chủ đề 01, B1 (Mục 1.a), tr. 7; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 1), tr. 93, 94; SGK Lịch sử và Địa lí 9 KNTT, Bảng giải thích thuật ngữ, tr. 237; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 1), tr. 93; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 1), tr. 94
+
+### World War II
+- **Tiếng Việt:** Chiến tranh thế giới thứ hai
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** A global conflict lasting from September 1939 to August 1945, unjust on the part of the aggressor Axis powers and just on the part of the Soviet Union, the Allies, occupied nations, and progressive forces worldwide. Ending with the complete collapse of fascism, it caused immense human and material devastation while bringing about fundamental changes in the postwar world situation, including the rise of the socialist system and national liberation movements.
+- **Giải thích (VI):** Cuộc chiến tranh quy mô toàn cầu diễn ra từ tháng 9 – 1939 đến tháng 8 – 1945, mang tính chất phi nghĩa đối với phe phát xít gây chiến và tính chất chính nghĩa đối với Liên Xô, phe Đồng minh, các dân tộc bị chiếm đóng cùng lực lượng tiến bộ thế giới. Kết thúc với sự sụp đổ hoàn toàn của chủ nghĩa phát xít, cuộc chiến gây hậu quả nặng nề về người và vật chất nhưng tạo chuyển biến căn bản cho tình hình thế giới sau chiến tranh, thúc đẩy hệ thống xã hội chủ nghĩa và phong trào giải phóng dân tộc phát triển.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 4 (Mục 1, Mục 2, Mục 3): Cuộc chiến tranh thế giới diễn ra từ tháng 9 – 1939 đến tháng 8 – 1945 làm biến đổi căn bản tình hình thế giới sau chiến tranh.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B4 (Mục 1), tr. 18; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B4 (Mục 2.a), tr. 20; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 01, B4 (Mục 2.b), tr. 20
 
 ### writing systems in Southeast Asia
 - **Tiếng Việt:** Chữ viết ở Đông Nam Á
@@ -7052,7 +8070,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 11, Bài 2 (Mục 2.b): Sự kiện tiêu biểu mở đường cho chủ nghĩa tư bản phát triển tại quốc gia lớn nhất châu Á đầu thế kỉ XX.
   - Lịch sử và Địa lí lớp 8, Bài 14 (Mục 1.b): Cuộc cách mạng năm 1911 lật đổ triều đại Mãn Thanh ở Trung Quốc và tác động đến phong trào yêu nước ở Đông Nam Á.
-- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 2.b), tr. 15; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14, tr. 60; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 1.b), tr. 61, 62
+- **Nguồn:** SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 2.b), tr. 15; SGK Lịch sử 11 KNTT, Chủ đề 01, B2 (Mục 2.b), tr. 15, 16; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14, tr. 60; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 1.b), tr. 61, 62; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 1.a), tr. 61; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 06, B14 (Mục 1.b), tr. 61
+
+### Yalta bipolar order
+- **Tiếng Việt:** Trật tự hai cực I-an-ta
+- **Chuyên ngành gốc:** Lịch sử
+- **Giải thích (EN):** The world order existing from 1945 to 1991 dominated by two superpowers, the United States and the Soviet Union, dividing the world into two opposing camps: the capitalist system led by the United States and the socialist system led by the Soviet Union. The dissolution of the Soviet Union in 1991 marked the end of this order.
+- **Giải thích (VI):** Trật tự thế giới tồn tại giai đoạn 1945 – 1991 do hai siêu cường Mỹ và Liên Xô chi phối, phân chia thế giới thành hai hệ thống đối lập và luôn đối đầu nhau là hệ thống tư bản chủ nghĩa do Mỹ đứng đầu và hệ thống xã hội chủ nghĩa do Liên Xô đứng đầu. Sự kiện Liên Xô sụp đổ năm 1991 là dấu mốc chấm dứt sự tồn tại của trật tự này.
+- **Bối cảnh:** Lịch sử và Địa lí lớp 9, Bài 18 (Mục 1): Trật tự thế giới hai cực thời kì Chiến tranh lạnh sụp đổ năm 1991, mở ra thời kì hình thành trật tự thế giới mới.
+- **Nguồn:** SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 1), tr. 93; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18, tr. 93; SGK Lịch sử và Địa lí 9 KNTT, Phần Lịch sử, Chương 05, B18 (Mục 1), tr. 93, 94
 
 ### Yalta bipolar world order
 - **Tiếng Việt:** Trật tự thế giới hai cực I-an-ta (Trật tự hai cực I-an-ta)
@@ -7076,7 +8102,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An armed self-defense peasant uprising in Yen The (Bac Giang) lasting from 1884 to 1913 under the leadership of De Nam and subsequently De Tham (Hoang Hoa Tham), aimed primarily at defending land, villages, and a free way of life. It was the largest peasant uprising against French colonial aggression in modern Vietnamese history.
 - **Giải thích (VI):** Cuộc khởi nghĩa vũ trang tự vệ của nông dân diễn ra tại vùng Yên Thế (Bắc Giang) từ năm 1884 đến năm 1913 dưới sự lãnh đạo của Đề Nắm và sau đó là Đề Thám (Hoàng Hoa Thám), nhằm mục tiêu giữ đất, giữ làng và bảo vệ cuộc sống tự do. Đây là cuộc khởi nghĩa nông dân chống thực dân Pháp xâm lược lớn nhất ở Việt Nam thời kì cận đại.
 - **Bối cảnh:** Lịch sử và Địa lí lớp 8, Bài 18 (Mục 2): Phong trào đấu tranh tự vệ của nông dân Yên Thế cuối thế kỉ XIX – đầu thế kỉ XX, phân biệt với các cuộc khởi nghĩa thuộc phong trào Cần vương.
-- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2), tr. 84, 85
+- **Nguồn:** SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2), tr. 84, 85; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 1.b), tr. 84; SGK Lịch sử và Địa lí 8 KNTT, Phần Lịch sử, Chương 07, B18 (Mục 2), tr. 84
 
 ### Yunnan–Guangxi–Vietnam Alliance
 - **Tiếng Việt:** Điền – Quế – Việt liên minh
@@ -7084,7 +8110,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An international solidarity organization co-founded by Phan Boi Chau in 1908 forming an alliance among patriotic forces from Yunnan, Guangxi, and Vietnam to join efforts against imperialism.
 - **Giải thích (VI):** Tổ chức có mục tiêu đoàn kết quốc tế do Phan Bội Châu tham gia thành lập năm 1908, thiết lập liên minh giữa Vân Nam, Quảng Tây (Trung Quốc) với Việt Nam để hợp sức chống đế quốc.
 - **Bối cảnh:** Lịch sử lớp 12, Bài 12 (Mục 1): Trình bày hoạt động đoàn kết quốc tế của Phan Bội Châu tại Nhật Bản năm 1908.
-- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 1), tr. 74
+- **Nguồn:** SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 1), tr. 74; SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.a), tr. 74; SGK Lịch sử 12 KNTT, Chủ đề 05, B12 (Mục 2.a), tr. 74, 75
 
 ### Zone of Peace, Freedom and Neutrality Declaration
 - **Tiếng Việt:** Tuyên bố về Khu vực Hoà bình, Tự do và Trung lập (ZOPFAN)

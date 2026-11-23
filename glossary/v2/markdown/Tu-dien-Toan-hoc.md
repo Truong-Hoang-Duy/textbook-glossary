@@ -123,13 +123,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 8, Bài 23 (Mục 2): Quy về phép cộng hai phân thức cùng mẫu thông qua bước quy đồng mẫu thức.
 - **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 06, B23 (Mục 1), tr. 16; SGK Toán 8 KNTT Tập 2, Chương 06, B23 (Mục 2), tr. 16; SGK Toán 8 KNTT Tập 2, Chương 06, B23 (Mục 3), tr. 16
 
+### addition property of inequalities
+- **Tiếng Việt:** Tính chất của bất đẳng thức liên quan đến phép cộng
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The property stating that adding the same number $c$ to both sides of an inequality yields a new inequality of the same sense: for any three numbers $a, b, c$, if $a < b$ then $a + c < b + c$ (and similarly for $\le, >, \ge$).
+- **Giải thích (VI):** Tính chất khẳng định khi cộng cùng một số $c$ vào hai vế của một bất đẳng thức thì thu được bất đẳng thức mới cùng chiều với bất đẳng thức đã cho: với ba số $a, b, c$, nếu $a < b$ thì $a + c < b + c$ (tương tự với $\le, >, \ge$).
+- **Bối cảnh:** Toán học lớp 9, Bài 5 (Mục 2): So sánh các tổng mà không cần tính giá trị cụ thể và biến đổi bất đẳng thức, bất phương trình.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 1), tr. 33; SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 2), tr. 33; SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 2), tr. 33, 34
+
 ### addition rule for mutually exclusive events
 - **Tiếng Việt:** Công thức cộng xác suất cho hai biến cố xung khắc
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** A formula for calculating the probability of the union of two mutually exclusive events $A$ and $B$, expressed as $P(A \cup B) = P(A) + P(B)$.
 - **Giải thích (VI):** Công thức tính xác suất của biến cố hợp đối với hai biến cố xung khắc $A$ và $B$, xác định bởi $P(A \cup B) = P(A) + P(B)$.
 - **Bối cảnh:** Toán học lớp 11, Bài 29 (Mục 1b): Tính xác suất của biến cố hợp khi hai biến cố thành phần xung khắc với nhau.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B29 (Mục 1.b), tr. 73
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B29 (Mục 1.b), tr. 73; SGK Toán 11 KNTT Tập 2, Chương 08, B29, tr. 72; SGK Toán 11 KNTT Tập 2, Chương 08, B29 (Mục 1.a), tr. 73
 
 ### addition rule of probability
 - **Tiếng Việt:** Công thức cộng xác suất
@@ -137,7 +145,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The general formula for computing the probability of the union of any two events $A$ and $B$, given by $P(A \cup B) = P(A) + P(B) - P(AB)$.
 - **Giải thích (VI):** Công thức tổng quát tính xác suất của biến cố hợp cho hai biến cố $A$ và $B$ bất kì, xác định bởi $P(A \cup B) = P(A) + P(B) - P(AB)$.
 - **Bối cảnh:** Toán học lớp 11, Bài 29 (Mục 2): Tính xác suất của biến cố hợp cho hai biến cố bất kì kể cả khi chúng có thể đồng thời xảy ra.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B29 (Mục 2), tr. 74
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B29 (Mục 2), tr. 74; SGK Toán 11 KNTT Tập 2, Chương 08, B29, tr. 72; SGK Toán 11 KNTT Tập 2, Chương 08, B29 (Mục 1.b), tr. 73; SGK Toán 11 KNTT Tập 2, Chương 08, B29 (Mục 1.b), tr. 74
 
 ### addition, subtraction, and multiplication of monomials
 - **Tiếng Việt:** Cộng, trừ và nhân các đơn thức một biến
@@ -175,6 +183,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hai góc có một cạnh chung và hai cạnh còn lại nằm về hai phía khác nhau đối với đường thẳng chứa cạnh chung đó.
 - **Bối cảnh:** Toán học lớp 7, Bài 8 (Mục 1): Xác định quan hệ vị trí giữa hai góc chung cạnh trên mặt phẳng.
 - **Nguồn:** SGK Toán 7 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 41; SGK Toán 7 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 41, 42
+
+### adjacent side of an acute angle
+- **Tiếng Việt:** Cạnh kề của góc nhọn (cạnh kề)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The leg that forms one side of a considered acute angle alongside the hypotenuse in a right triangle; for instance, in right triangle $ABC$ with right angle at $A$, side $AB$ is the adjacent side of acute angle $B$.
+- **Giải thích (VI):** Cạnh góc vuông tạo nên một cạnh của góc nhọn đang xét cùng với cạnh huyền trong một tam giác vuông; chẳng hạn, trong tam giác $ABC$ vuông tại $A$, cạnh $AB$ là cạnh kề của góc nhọn $B$.
+- **Bối cảnh:** Toán học lớp 9, Bài 11 (Mục 1): xác định cạnh góc vuông kề với góc nhọn đang xét và phân biệt với cạnh đối, cạnh huyền.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 67; SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 67, 68; SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 68
 
 ### adjacent supplementary angles
 - **Tiếng Việt:** Hai góc kề bù
@@ -228,6 +244,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 7, Bài 9 (Mục 1): Xác định cặp góc đặc biệt để nhận biết hoặc suy ra tính chất của hai đường thẳng song song.
 - **Nguồn:** SGK Toán 7 KNTT Tập 1, Chương 03, B9, tr. 46; SGK Toán 7 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 46; SGK Toán 7 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 46, 47
 
+### altitude of a cone
+- **Tiếng Việt:** Đường cao của hình nón (đường cao)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The line segment $SO$ joining the apex $S$ to the center $O$ of the circular base perpendicularly when revolving the right triangle $SOA$ (right-angled at $O$) around its fixed leg $SO$.
+- **Giải thích (VI):** Đoạn thẳng $SO$ nối từ đỉnh $S$ đến tâm $O$ của hình tròn đáy và vuông góc với đáy khi quay tam giác vuông $SOA$ (vuông tại $O$) quanh cạnh $SO$ cố định.
+- **Bối cảnh:**
+  - Toán học lớp 9, Bài 31 (Mục 2): Phân biệt yếu tố đoạn thẳng $SO$ nối đỉnh với tâm đáy (đường cao) và độ dài của đoạn thẳng đó (chiều cao).
+  - *Lưu ý:* Phân biệt "đường cao của hình nón" (đoạn thẳng $SO$) với "chiều cao của hình nón" (độ dài $h = SO$).
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 97; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 97, 98
+
 ### altitude of a regular triangular pyramid
 - **Tiếng Việt:** Đường cao của hình chóp tam giác đều (đường cao)
 - **Chuyên ngành gốc:** Toán học
@@ -277,7 +303,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 11, Bài 24 (Mục 2): Tính góc tạo bởi đường thẳng xiên hoặc cạnh bên với mặt phẳng đáy thông qua hình chiếu vuông góc.
   - Toán học lớp 12, Bài 16 (Mục 2): Tính góc nghiêng của đường thẳng so với mặt phẳng trong không gian $Oxyz$, cần lưu ý vế trái là $\sin(\Delta, (P))$ thay vì $\cos$ như công thức góc giữa hai đường thẳng hay hai mặt phẳng.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B24 (Mục 2), tr. 40, 41; SGK Toán 12 KNTT Tập 2, Chương 05, B16, tr. 50; SGK Toán 12 KNTT Tập 2, Chương 05, B16 (Mục 1), tr. 51; SGK Toán 12 KNTT Tập 2, Chương 05, B16 (Mục 2), tr. 51
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B24 (Mục 2), tr. 40, 41; SGK Toán 11 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 40; SGK Toán 11 KNTT Tập 2, Chương 07, B24 (Mục 2), tr. 40; SGK Toán 12 KNTT Tập 2, Chương 05, B16, tr. 50; SGK Toán 12 KNTT Tập 2, Chương 05, B16 (Mục 1), tr. 51; SGK Toán 12 KNTT Tập 2, Chương 05, B16 (Mục 2), tr. 51
 
 ### angle between two lines
 - **Tiếng Việt:** Góc giữa hai đường thẳng (số đo góc; góc)
@@ -292,7 +318,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Toán học lớp 12, Bài 16 (Mục 1): Tính số đo góc giữa hai đường thẳng bất kì (cắt nhau, song song hoặc chéo nhau) trong không gian $Oxyz$, luôn lấy giá trị tuyệt đối của côsin góc giữa hai vectơ chỉ phương.
   - *Lưu ý:* Defined for any two lines in three-dimensional space, including skew lines, with values in $[0^\circ, 90^\circ]$.
   - *Lưu ý:* Góc giữa hai đường thẳng luôn thuộc đoạn $[0^\circ; 90^\circ]$, phân biệt với góc giữa hai vectơ có thể nhận giá trị tù đến $180^\circ$.
-- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 07, B20, tr. 36; SGK Toán 10 KNTT Tập 2, Chương 07, B20 (Mục 2), tr. 37; SGK Toán 10 KNTT Tập 2, Chương 07, B20 (Mục 2), tr. 38; SGK Toán 11 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 28, 29; SGK Toán 12 KNTT Tập 2, Chương 05, B16, tr. 50; SGK Toán 12 KNTT Tập 2, Chương 05, B16 (Mục 1), tr. 50; SGK Toán 12 KNTT Tập 2, Chương 05, B16 (Mục 1), tr. 50, 51
+- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 07, B20, tr. 36; SGK Toán 10 KNTT Tập 2, Chương 07, B20 (Mục 2), tr. 37; SGK Toán 10 KNTT Tập 2, Chương 07, B20 (Mục 2), tr. 38; SGK Toán 11 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 28, 29; SGK Toán 11 KNTT Tập 2, Chương 07, B22, tr. 27; SGK Toán 11 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 28; SGK Toán 12 KNTT Tập 2, Chương 05, B16, tr. 50; SGK Toán 12 KNTT Tập 2, Chương 05, B16 (Mục 1), tr. 50; SGK Toán 12 KNTT Tập 2, Chương 05, B16 (Mục 1), tr. 50, 51
 
 ### angle between two planes
 - **Tiếng Việt:** Góc giữa hai mặt phẳng
@@ -304,7 +330,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Toán học lớp 11, Bài 25 (Mục 1): Xác định góc không tù giữa hai mặt phẳng bất kì, phân biệt với số đo góc nhị diện nhận giá trị đến $180^\circ$.
   - Toán học lớp 12, Bài 14 (Mục 4): Quy góc giữa hai mặt phẳng về góc giữa hai đường thẳng vuông góc với chúng để thiết lập điều kiện vuông góc và công thức tính côsin theo hai vectơ pháp tuyến.
   - *Lưu ý:* Takes values in $[0^\circ, 90^\circ]$, distinct from the measure of a dihedral angle which lies in $[0^\circ, 180^\circ]$.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 1), tr. 44, 45; SGK Toán 11 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 111; SGK Toán 12 KNTT Tập 2, Chương 05, B14 (Mục 3), tr. 35; SGK Toán 12 KNTT Tập 2, Chương 05, B14 (Mục 4), tr. 35; SGK Toán 12 KNTT Tập 2, Chương 05, B14 (Mục 4), tr. 35, 36
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 1), tr. 44, 45; SGK Toán 11 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 111; SGK Toán 11 KNTT Tập 2, Chương 07, B25, tr. 44; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 1), tr. 44; SGK Toán 12 KNTT Tập 2, Chương 05, B14 (Mục 3), tr. 35; SGK Toán 12 KNTT Tập 2, Chương 05, B14 (Mục 4), tr. 35; SGK Toán 12 KNTT Tập 2, Chương 05, B14 (Mục 4), tr. 35, 36
 
 ### angle between two vectors
 - **Tiếng Việt:** Góc giữa hai vectơ (số đo góc giữa hai vectơ)
@@ -442,6 +468,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 8, Hoạt động thực hành trải nghiệm (Công thức lãi kép): Áp dụng khi ngân hàng công bố lãi suất theo năm nhưng ghép lãi nhiều lần trong năm.
 - **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 05, Công thức lãi kép, tr. 112
 
+### annulus
+- **Tiếng Việt:** Hình vành khuyên (hình vành khăn)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The plane region bounded between two concentric circles of different radii.
+- **Giải thích (VI):** Phần mặt phẳng nằm giới hạn giữa hai đường tròn đồng tâm có bán kính khác nhau.
+- **Bối cảnh:** Toán học lớp 9, Bài 15 (Mục 2): Nhận diện miền phẳng tạo bởi hai đường tròn đồng tâm và tính diện tích các vật thể dạng vòng.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B15, tr. 91; SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 1), tr. 92; SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 2), tr. 92
+
 ### antiderivative
 - **Tiếng Việt:** Nguyên hàm
 - **Chuyên ngành gốc:** Toán học
@@ -449,6 +483,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hàm số $F(x)$ gắn với hàm số $f(x)$ xác định trên khoảng $K$ (hoặc đoạn, nửa khoảng) thoả mãn $F'(x) = f(x)$ với mọi $x \in K$. Khi $K = [a; b]$, các đẳng thức $F'(a) = f(a)$ và $F'(b) = f(b)$ lần lượt biểu thị đạo hàm bên phải tại $x = a$ và đạo hàm bên trái tại $x = b$ của $F(x)$.
 - **Bối cảnh:** Toán học lớp 12, Bài 11 (Mục 1): Khái niệm nền tảng của phép tính tích phân, khôi phục hàm số gốc khi biết đạo hàm hoặc tốc độ biến thiên.
 - **Nguồn:** SGK Toán 12 KNTT Tập 2, Chương 04, B11, tr. 4; SGK Toán 12 KNTT Tập 2, Chương 04, B11 (Mục 1), tr. 4; SGK Toán 12 KNTT Tập 2, Chương 04, B11 (Mục 1), tr. 5
+
+### apex of a cone
+- **Tiếng Việt:** Đỉnh của hình nón (đỉnh)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The fixed point $S$ outside the base of a cone when revolving a right triangle $SOA$ (right-angled at $O$) one full turn around its fixed leg $SO$, serving as the common endpoint of all generatrices.
+- **Giải thích (VI):** Điểm cố định $S$ không thuộc mặt đáy của hình nón khi quay tam giác vuông $SOA$ (vuông tại $O$) một vòng quanh cạnh góc vuông $SO$ cố định, là đầu mút chung của mọi đường sinh.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 2): Xác định yếu tố điểm cố định đặc trưng đối diện mặt đáy của hình nón.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 97; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 97, 98; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 98
 
 ### apex of a regular triangular pyramid
 - **Tiếng Việt:** Đỉnh của hình chóp tam giác đều (đỉnh)
@@ -484,6 +526,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 6, Bài 2 (Mục 1): Nhận biết bộ mười chữ số thông dụng dùng trong hệ thập phân, phân biệt với chữ số La Mã.
 - **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 01, B2, tr. 9; SGK Toán 6 KNTT Tập 1, Chương 01, B2 (Mục 1), tr. 9; SGK Toán 6 KNTT Tập 1, Chương 01, B2 (Mục 1), tr. 10
 
+### arc length
+- **Tiếng Việt:** Độ dài cung tròn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The length $l$ of an arc with degree measure $n^\circ$ on a circle of radius $R$, given by the formula $l = \frac{n}{180}\pi R$.
+- **Giải thích (VI):** Độ dài $l$ của một cung có số đo $n^\circ$ trên đường tròn bán kính $R$, xác định bởi công thức $l = \frac{n}{180}\pi R$.
+- **Bối cảnh:**
+  - Toán học lớp 9, Bài 15 (Mục 1): Tính độ dài phần đường cong của cung tròn khi biết bán kính và số đo cung.
+  - *Lưu ý:* Refers to circular arc length computed from degree measure in Grade 9 geometry, distinct from general curve arc length via integration in calculus.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B15, tr. 91; SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 1), tr. 91; SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 1), tr. 91, 92
+
 ### area
 - **Tiếng Việt:** Diện tích
 - **Chuyên ngành gốc:** Toán học
@@ -499,6 +551,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Diện tích $S$ của hình phẳng giới hạn bởi đồ thị của hai hàm số $f(x), g(x)$ liên tục trên đoạn $[a; b]$ và hai đường thẳng $x = a, x = b$, tính bằng công thức $S = \int_a^b \lvert f(x) - g(x) \rvert\,\text{d}x$. Khi hiệu $f(x) - g(x)$ không đổi dấu trên đoạn $[a; b]$ thì $S = \left\lvert \int_a^b [f(x) - g(x)]\,\text{d}x \right\rvert$.
 - **Bối cảnh:** Toán học lớp 12, Bài 13 (Mục 1.b): Tính diện tích miền phẳng kẹp giữa hai đường cong bất kì trên đoạn $[a; b]$.
 - **Nguồn:** SGK Toán 12 KNTT Tập 2, Chương 04, B13 (Mục 1.b), tr. 21; SGK Toán 12 KNTT Tập 2, Chương 04, B13 (Mục 1.b), tr. 21, 22
+
+### area of a circular sector
+- **Tiếng Việt:** Diện tích hình quạt tròn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The surface measure $S_q$ of a circular sector of radius $R$ corresponding to an arc of $n^\circ$ (with arc length $l$), given by the formula $S_q = \frac{n}{360}\pi R^2 = \frac{lR}{2}$.
+- **Giải thích (VI):** Số đo bề mặt $S_q$ của hình quạt tròn bán kính $R$ ứng với cung $n^\circ$ (có độ dài cung $l$), tính theo công thức $S_q = \frac{n}{360}\pi R^2 = \frac{lR}{2}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 15 (Mục 2): Tính diện tích hình quạt tròn theo số đo cung hoặc theo độ dài cung và bán kính.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 2), tr. 93; SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 2), tr. 93, 94
 
 ### area of a parallelogram
 - **Tiếng Việt:** Diện tích hình bình hành
@@ -523,6 +583,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Độ lớn bề mặt của hình thoi bằng nửa tích độ dài hai đường chéo $a$ và $b$, xác định bởi công thức $S = \frac{1}{2}ab$.
 - **Bối cảnh:** Toán học lớp 6, Bài 20 (Mục 2): Tính diện tích hình thoi thông qua độ dài hai đường chéo trong các bài toán đo đạc và thiết kế.
 - **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 04, B20 (Mục 2), tr. 99; SGK Toán 6 KNTT Tập 1, Chương 04, B20 (Mục 2), tr. 99, 100; SGK Toán 6 KNTT Tập 1, Chương 04, B20 (Mục 2), tr. 100
+
+### area of an annulus
+- **Tiếng Việt:** Diện tích hình vành khuyên
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The surface measure $S_v$ of an annulus bounded by two concentric circles of radii $R$ and $r$ ($R > r$), equal to the difference of the two disk areas according to the formula $S_v = \pi(R^2 - r^2)$.
+- **Giải thích (VI):** Số đo bề mặt $S_v$ của hình vành khuyên giới hạn bởi hai đường tròn đồng tâm có bán kính $R$ và $r$ ($R > r$), bằng hiệu diện tích hai hình tròn theo công thức $S_v = \pi(R^2 - r^2)$.
+- **Bối cảnh:** Toán học lớp 9, Bài 15 (Mục 2): Tính diện tích miền phẳng nằm giữa hai đường tròn đồng tâm trong các bài toán hình học và thực tiễn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 2), tr. 93; SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 2), tr. 93, 94; SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 2), tr. 95
 
 ### area of an isosceles trapezoid
 - **Tiếng Việt:** Diện tích của hình thang cân
@@ -605,26 +673,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 05, B21, tr. 106; SGK Toán 6 KNTT Tập 1, Chương 05, B21 (Mục 1), tr. 107; SGK Toán 6 KNTT Tập 1, Chương 05, B21 (Mục 2), tr. 107
 
 ### axis of symmetry of a circle
-- **Tiếng Việt:** Trục đối xứng của hình tròn
+- **Tiếng Việt:** Trục đối xứng của hình tròn (Trục đối xứng của đường tròn; trục đối xứng)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** Any line passing through the center of a circle, dividing the circle into two parts that coincide completely when folded along that line.
 - **Giải thích (VI):** Đường thẳng bất kì đi qua tâm của hình tròn, chia hình tròn thành hai phần chồng khít lên nhau khi gấp theo đường thẳng đó.
-- **Bối cảnh:** Toán học lớp 6, Bài 21 (Mục 2): Nhận biết mọi đường thẳng đi qua tâm đều là trục đối xứng của hình tròn thông qua thao tác gấp giấy.
-- **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 05, B21 (Mục 2), tr. 107; SGK Toán 6 KNTT Tập 1, Chương 05, B21 (Mục 2), tr. 108; SGK Toán 6 KNTT Tập 1, Chương 05, B21 (Mục 2), tr. 108, 109
+- **Giải thích khác (SGK Toán 9 Tập 1):** EN: Any straight line passing through the center of a circle, with respect to which the circle is axially symmetric. / VI: Mỗi đường thẳng đi qua tâm của đường tròn, tạo thành trục đối xứng của đường tròn đó.
+- **Bối cảnh:**
+  - Toán học lớp 6, Bài 21 (Mục 2): Nhận biết mọi đường thẳng đi qua tâm đều là trục đối xứng của hình tròn thông qua thao tác gấp giấy.
+  - Toán học lớp 9, Bài 13 (Mục 2): sử dụng tính chất mỗi đường thẳng qua tâm là một trục đối xứng để tìm lại tâm hình tròn bằng cách gấp giấy.
+- **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 05, B21 (Mục 2), tr. 107; SGK Toán 6 KNTT Tập 1, Chương 05, B21 (Mục 2), tr. 108; SGK Toán 6 KNTT Tập 1, Chương 05, B21 (Mục 2), tr. 108, 109; SGK Toán 9 KNTT Tập 1, Chương 05, B13, tr. 83; SGK Toán 9 KNTT Tập 1, Chương 05, B13 (Mục 2), tr. 85; SGK Toán 9 KNTT Tập 1, Chương 05, B13 (Mục 2), tr. 85, 86
 
 ### axis of symmetry of a parabola
-- **Tiếng Việt:** Trục đối xứng (trục đối xứng của parabol)
+- **Tiếng Việt:** Trục đối xứng (trục đối xứng của parabol; Trục đối xứng của parabol $y = ax^2$)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** The vertical line $x = -\frac{b}{2a}$ passing through the vertex $I\left(-\frac{b}{2a}, -\frac{\Delta}{4a}\right)$ that divides the parabola $y = ax^2 + bx + c$ ($a \ne 0$) into two symmetric branches across the line.
 - **Giải thích (VI):** Đường thẳng $x = -\frac{b}{2a}$ đi qua đỉnh $I\left(-\frac{b}{2a}; -\frac{\Delta}{4a}\right)$ và chia đường parabol $y = ax^2 + bx + c$ ($a \ne 0$) thành hai nhánh đối xứng nhau qua đường thẳng đó.
 - **Giải thích khác (SGK Toán 12 Tập 1):** EN: A line with respect to which the graph of a function exhibits reflection symmetry in the coordinate plane. For the graph of a rational function $y = \frac{ax + b}{cx + d}$ or $y = \frac{ax^2 + bx + c}{px + q}$ possessing two asymptotes, the two angle bisectors of the angles formed by those asymptotes serve as axes of symmetry. / VI: Đường thẳng mà đồ thị hàm số đối xứng gương qua đó trên mặt phẳng toạ độ. Đối với đồ thị hàm số phân thức $y = \frac{ax + b}{cx + d}$ hoặc $y = \frac{ax^2 + bx + c}{px + q}$ có hai đường tiệm cận, hai đường phân giác của các góc tạo bởi hai đường tiệm cận đó là các trục đối xứng của đồ thị.
 - **Giải thích khác (SGK Toán 6 Tập 1):** EN: Line $d$ dividing a plane figure into two parts that coincide completely when the figure is folded along $d$. A figure may have multiple axes of symmetry. / VI: Đường thẳng $d$ chia một hình phẳng thành hai phần sao cho khi gấp hình theo đường thẳng $d$ thì hai phần đó chồng khít lên nhau. Mỗi hình có thể có nhiều trục đối xứng.
+- **Giải thích khác (SGK Toán 9 Tập 2):** EN: The vertical axis $Oy$ in the coordinate plane $Oxy$, across which every pair of points $(x, ax^2)$ and $(-x, ax^2)$ on the parabola $y = ax^2$ ($a \ne 0$) is symmetric. / VI: Trục tung $Oy$ trên mặt phẳng toạ độ $Oxy$, là đường thẳng mà mọi cặp điểm $(x; ax^2)$ và $(-x; ax^2)$ thuộc parabol $y = ax^2$ ($a \ne 0$) đều đối xứng với nhau qua đó.
 - **Bối cảnh:**
   - Toán học lớp 10, Bài 16 (Mục 2): xác định mốc chia hai khoảng đơn điệu ngược chiều và lấy các cặp điểm đối xứng khi vẽ parabol.
   - Toán học lớp 12, Bài 4 (Mục 3a, 3b): Tính chất đối xứng trục của đồ thị hàm phân thức bậc nhất trên bậc nhất và bậc hai trên bậc nhất.
   - Toán học lớp 6, Bài 21 (Mục 1, 2): Xác định và vẽ trục đối xứng của đoạn thẳng, hình tròn, tam giác đều, hình vuông, hình thoi, hình chữ nhật, lục giác đều.
+  - Toán học lớp 9, Bài 18 (Mục 2): Sử dụng tính đối xứng qua trục tung $Oy$ để lấy các cặp điểm đối xứng khi vẽ parabol $y = ax^2$ ($a \ne 0$).
   - *Lưu ý:* Xét riêng cho parabol là đồ thị hàm số bậc hai; phân biệt với khái niệm trục đối xứng tổng quát của một hình phẳng bất kì trong hình học.
-- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 06, B16, tr. 11; SGK Toán 10 KNTT Tập 2, Chương 06, B16 (Mục 2), tr. 13; SGK Toán 10 KNTT Tập 2, Chương 06, B16 (Mục 2), tr. 14; SGK Toán 12 KNTT Tập 1, Chương 01, B4, tr. 26; SGK Toán 12 KNTT Tập 1, Chương 01, B4 (Mục 3.a), tr. 29; SGK Toán 12 KNTT Tập 1, Chương 01, B4 (Mục 3.a), tr. 29, 30; SGK Toán 6 KNTT Tập 1, Chương 05, B21, tr. 106; SGK Toán 6 KNTT Tập 1, Chương 05, B21 (Mục 1), tr. 107; SGK Toán 6 KNTT Tập 1, Chương 05, B21 (Mục 2), tr. 107
+  - *Lưu ý:* Scoped in Grade 9 to the parabola y = ax^2 (a ≠ 0) whose axis of symmetry is Oy (x = 0), prior to the general axis x = -b/(2a) in Grade 10.
+- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 06, B16, tr. 11; SGK Toán 10 KNTT Tập 2, Chương 06, B16 (Mục 2), tr. 13; SGK Toán 10 KNTT Tập 2, Chương 06, B16 (Mục 2), tr. 14; SGK Toán 12 KNTT Tập 1, Chương 01, B4, tr. 26; SGK Toán 12 KNTT Tập 1, Chương 01, B4 (Mục 3.a), tr. 29; SGK Toán 12 KNTT Tập 1, Chương 01, B4 (Mục 3.a), tr. 29, 30; SGK Toán 6 KNTT Tập 1, Chương 05, B21, tr. 106; SGK Toán 6 KNTT Tập 1, Chương 05, B21 (Mục 1), tr. 107; SGK Toán 6 KNTT Tập 1, Chương 05, B21 (Mục 2), tr. 107; SGK Toán 9 KNTT Tập 2, Chương 06, B18, tr. 4; SGK Toán 9 KNTT Tập 2, Chương 06, B18 (Mục 2), tr. 7; SGK Toán 9 KNTT Tập 2, Chương 06, B18 (Mục 2), tr. 7, 8
 
 ### axis of symmetry of a rectangle
 - **Tiếng Việt:** Trục đối xứng của hình chữ nhật
@@ -671,6 +745,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quy tắc đọc hiểu số liệu thống kê khẳng định rằng trong biểu đồ cột có gốc của trục đứng khác $0$, tỉ lệ chiều cao giữa các cột không bằng tỉ lệ giữa các số liệu mà chúng biểu diễn.
 - **Bối cảnh:** Toán học lớp 8, Bài 20 (Mục 1): Tránh sai lầm trực quan khi so sánh gấp bội các số liệu trên biểu đồ cột bị cắt gốc trục đứng.
 - **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 05, B20 (Mục 1), tr. 100; SGK Toán 8 KNTT Tập 1, Chương 05, B20 (Mục 1), tr. 100, 101
+
+### base of a cone
+- **Tiếng Việt:** Đáy của hình nón
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The circular disk $(O; OA)$ swept out by the leg $OA$ when revolving a right triangle $SOA$ (right-angled at $O$) one full turn around its fixed leg $SO$.
+- **Giải thích (VI):** Hình tròn $(O; OA)$ được tạo thành bởi cạnh góc vuông $OA$ khi quay tam giác vuông $SOA$ (vuông tại $O$) một vòng quanh cạnh góc vuông $SO$ cố định.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 2): Xác định mặt phẳng hình tròn giới hạn hình nón khi tính diện tích toàn phần và thể tích.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 97; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 97, 98; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 98
 
 ### base of a logarithm
 - **Tiếng Việt:** Cơ số của lôgarit
@@ -720,6 +802,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 8, Bài 11 (Mục 1): phân biệt với hai cạnh bên khi xác định góc kề một đáy, đường cao và tính diện tích hình thang.
 - **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 03, B11, tr. 52; SGK Toán 8 KNTT Tập 1, Chương 03, B11 (Mục 1), tr. 52; SGK Toán 8 KNTT Tập 1, Chương 03, B11 (Mục 1), tr. 52, 53
 
+### base radius of a cone
+- **Tiếng Việt:** Bán kính đáy của hình nón
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The radius $R = OA$ (also denoted by $r$) of the circular base $(O; OA)$ formed when revolving a right triangle $SOA$ (right-angled at $O$) around its fixed leg $SO$.
+- **Giải thích (VI):** Bán kính $R = OA$ (hoặc kí hiệu $r$) của hình tròn đáy $(O; OA)$ tạo thành khi quay tam giác vuông $SOA$ (vuông tại $O$) quanh cạnh góc vuông $SO$ cố định.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 2): Đại lượng cơ bản dùng trong các công thức tính diện tích xung quanh, diện tích toàn phần và thể tích hình nón.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 97; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 97, 98
+
+### base radius of a cylinder
+- **Tiếng Việt:** Bán kính đáy của hình trụ (bán kính đáy)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The radius $R = O'A = OB$ of the two circular bases $(O'; O'A)$ and $(O; OB)$ formed when revolving the rectangle $O'ABO$ around its fixed side $OO'$.
+- **Giải thích (VI):** Bán kính $R = O'A = OB$ của hai hình tròn đáy $(O'; O'A)$ và $(O; OB)$ tạo thành khi quay hình chữ nhật $O'ABO$ quanh cạnh $OO'$ cố định.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 1): Đại lượng cơ bản dùng trong công thức tính diện tích xung quanh, diện tích toàn phần và thể tích hình trụ.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 1), tr. 94; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 1), tr. 94, 95; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 1), tr. 95
+
 ### bases and base angles of a trapezoid
 - **Tiếng Việt:** Đáy lớn, đáy nhỏ, góc kề đáy (hai đáy; góc kề một đáy)
 - **Chuyên ngành gốc:** Toán học
@@ -727,6 +825,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Các yếu tố hình học gắn với cặp cạnh đối song song (hai đáy) của hình thang, trong đó cạnh song song dài hơn là đáy lớn, cạnh song song ngắn hơn là đáy nhỏ, còn hai góc cùng có một cạnh nằm trên một đáy là hai góc kề đáy đó. Trong hình thang cân, hai đáy song song với nhau và hai góc kề một đáy bằng nhau.
 - **Bối cảnh:** Toán học lớp 6, Bài 19 (Mục 4): Xác định đáy lớn, đáy nhỏ và các cặp góc kề đáy của hình thang cân để nhận dạng hình và tính diện tích.
 - **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 04, B19 (Mục 4), tr. 94; SGK Toán 6 KNTT Tập 1, Chương 04, B19 (Mục 4), tr. 94, 95
+
+### bases of a cylinder
+- **Tiếng Việt:** Hai đáy của hình trụ
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The two congruent circular disks $(O'; O'A)$ and $(O; OB)$ formed by the sides $O'A$ and $OB$ when revolving the rectangle $O'ABO$ one full turn around its fixed side $OO'$.
+- **Giải thích (VI):** Hai hình tròn bằng nhau $(O'; O'A)$ và $(O; OB)$ được tạo thành bởi hai cạnh $O'A$ và $OB$ khi quay hình chữ nhật $O'ABO$ một vòng quanh cạnh $OO'$ cố định.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 1): Xác định hai mặt phẳng hình tròn giới hạn hai đầu của hình trụ khi tính diện tích và thể tích.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 1), tr. 94; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 1), tr. 94, 95
 
 ### basic elementary function
 - **Tiếng Việt:** Hàm số sơ cấp cơ bản
@@ -766,7 +872,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A logarithmic inequality of the form $\log_a x > b$ (or $\log_a x \ge b$, $\log_a x < b$, $\log_a x \le b$) with base $a > 0, a \ne 1$. For the form $\log_a x > b$, the solution is $x > a^b$ when $a > 1$ and $0 < x < a^b$ when $0 < a < 1$.
 - **Giải thích (VI):** Bất phương trình lôgarit có dạng $\log_a x > b$ (hoặc $\log_a x \ge b$, $\log_a x < b$, $\log_a x \le b$) với cơ số $a > 0, a \ne 1$. Đối với dạng $\log_a x > b$, nghiệm của bất phương trình là $x > a^b$ khi $a > 1$ và là $0 < x < a^b$ khi $0 < a < 1$.
 - **Bối cảnh:** Toán học lớp 11, Bài 21 (Mục 4): Giải trực tiếp các bất phương trình lôgarit dạng cơ bản theo chiều biến thiên phụ thuộc cơ số $a$.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 06, B21 (Mục 4), tr. 23, 24
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 06, B21 (Mục 4), tr. 23, 24; SGK Toán 11 KNTT Tập 2, Chương 06, B21 (Mục 3), tr. 23; SGK Toán 11 KNTT Tập 2, Chương 06, B21 (Mục 4), tr. 23
 
 ### basic zero limits of sequences
 - **Tiếng Việt:** Một số giới hạn cơ bản bằng 0
@@ -798,7 +904,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A compound proposition of the form "$P$ if and only if $Q$", denoted by $P \Leftrightarrow Q$. The proposition $P \Leftrightarrow Q$ is true when both conditional propositions $P \Rightarrow Q$ and $Q \Rightarrow P$ are true, in which case $P$ is a necessary and sufficient condition for $Q$.
 - **Giải thích (VI):** Mệnh đề ghép có dạng "$P$ nếu và chỉ nếu $Q$" (hoặc "$P$ khi và chỉ khi $Q$"), kí hiệu là $P \Leftrightarrow Q$. Mệnh đề $P \Leftrightarrow Q$ đúng khi cả hai mệnh đề kéo theo $P \Rightarrow Q$ và $Q \Rightarrow P$ đều đúng; khi đó $P$ là điều kiện cần và đủ để có $Q$.
 - **Bối cảnh:** Toán học lớp 10, Bài 1 (Mục 4): Thiết lập sự tương đương lôgic hai chiều giữa hai khẳng định toán học.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 4), tr. 9
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 4), tr. 9; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 3.b), tr. 9
 
 ### big-O order
 - **Tiếng Việt:** Bậc O-lớn
@@ -835,7 +941,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tin học lớp 10, Bài 4 (Mục 1.a, 1.b): Hệ đếm cơ sở dùng để biểu diễn dữ liệu số và thực hiện tính toán trong máy tính.
   - Tin học lớp 11, Bài 4 (Mục 2.b): hệ đếm cơ sở dùng để biểu diễn dữ liệu và thực hiện phép tính số học trong máy tính.
   - Toán học lớp 6, Bài 2 (Mục 2): Mở rộng kiến thức về cách ghi số tự nhiên bằng hai chữ số $0$ và $1$ ứng dụng trong máy tính điện tử.
-- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 01, B4, tr. 20; SGK Tin học 10 KNTT, Chủ đề 01, B4 (Mục 1), tr. 20; SGK Tin học 10 KNTT, Chủ đề 01, B4 (Mục 1.a), tr. 20; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 25; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.b), tr. 25; SGK Toán 6 KNTT Tập 1, Chương 01, B2 (Mục 2), tr. 12
+- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 01, B4, tr. 20; SGK Tin học 10 KNTT, Chủ đề 01, B4 (Mục 1), tr. 20; SGK Tin học 10 KNTT, Chủ đề 01, B4 (Mục 1.a), tr. 20; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 25; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.b), tr. 25; SGK Tin học ICT 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 25; SGK Toán 6 KNTT Tập 1, Chương 01, B2 (Mục 2), tr. 12
 
 ### binomial
 - **Tiếng Việt:** Nhị thức
@@ -879,6 +985,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 10, Bài 14 (Mục 3): biểu diễn các tứ phân vị và phát hiện giá trị bất thường trong phân tích dữ liệu.
 - **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 05, B14 (Mục 2), tr. 87; SGK Toán 10 KNTT Tập 1, Chương 05, B14 (Mục 3), tr. 87
 
+### bringing a factor under the radical sign
+- **Tiếng Việt:** Phép đưa thừa số vào trong dấu căn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The transformation for $b \ge 0$ given by $a\sqrt{b} = \sqrt{a^2b}$ when $a \ge 0$ and $a\sqrt{b} = -\sqrt{a^2b}$ when $a < 0$, placing an external factor under the square root sign.
+- **Giải thích (VI):** Phép biến đổi đối với $b \ge 0$ theo công thức $a\sqrt{b} = \sqrt{a^2b}$ khi $a \ge 0$ và $a\sqrt{b} = -\sqrt{a^2b}$ khi $a < 0$, đưa thừa số bên ngoài vào dưới dấu căn bậc hai.
+- **Bối cảnh:** Toán học lớp 9, Bài 9 (Mục 2): so sánh hai số có dạng tích với căn bậc hai hoặc gom thừa số vào dưới dấu căn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 55; SGK Toán 9 KNTT Tập 1, Chương 03, B9 (Mục 2), tr. 55; SGK Toán 9 KNTT Tập 1, Chương 03, B9 (Mục 2), tr. 55, 56
+
+### calculating the probability of an event
+- **Tiếng Việt:** Các bước tính xác suất của một biến cố
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A four-step procedure for finding the probability of an event $E$: describe the sample space $\Omega$ and determine its size; verify that all possible outcomes of the experiment are equally likely; describe and count the favorable outcomes for $E$; form the ratio of the number of favorable outcomes for $E$ to the number of elements in $\Omega$.
+- **Giải thích (VI):** Quy trình bốn bước xác định xác suất của biến cố $E$: mô tả không gian mẫu $\Omega$ để tìm số phần tử của $\Omega$; chứng tỏ các kết quả có thể của phép thử là đồng khả năng; mô tả và xác định số kết quả thuận lợi cho biến cố $E$; lập tỉ số giữa số kết quả thuận lợi cho $E$ với số phần tử của không gian mẫu $\Omega$.
+- **Bối cảnh:** Toán học lớp 9, Bài 26 (Mục 2): phương pháp trình bày lời giải bài toán tính xác suất của biến cố đồng khả năng.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 08, B26 (Mục 2), tr. 62; SGK Toán 9 KNTT Tập 2, Chương 08, B26 (Mục 2), tr. 62, 63
+
 ### canonical equation of a conic
 - **Tiếng Việt:** Phương trình chính tắc (phương trình chính tắc của elip; phương trình chính tắc của hypebol; phương trình chính tắc của parabol)
 - **Chuyên ngành gốc:** Toán học
@@ -903,7 +1025,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The number of distinct elements contained in a finite set $S$, denoted by $n(S)$.
 - **Giải thích (VI):** Số lượng các phần tử phân biệt có trong một tập hợp hữu hạn $S$, kí hiệu là $n(S)$.
 - **Bối cảnh:** Toán học lớp 10, Bài 2 (Mục 1a): Đếm số lượng phần tử của tập hợp hữu hạn và áp dụng vào các bài toán hợp, giao.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.a), tr. 13
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.a), tr. 13; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.b), tr. 13; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.b), tr. 13, 14
 
 ### cardinality rule for the union of two finite sets
 - **Tiếng Việt:** Quy tắc đếm số phần tử của hợp hai tập hợp hữu hạn
@@ -943,6 +1065,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Chỉ tâm $I(a; b)$ của đường tròn trong mặt phẳng toạ độ $Oxy$, phân biệt với tâm đối xứng của hình phẳng hay tâm mặt cầu trong không gian.
 - **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 07, B21, tr. 43; SGK Toán 10 KNTT Tập 2, Chương 07, B21 (Mục 1), tr. 43; SGK Toán 10 KNTT Tập 2, Chương 07, B21 (Mục 1), tr. 43, 44
 
+### center of a regular polygon
+- **Tiếng Việt:** Tâm của đa giác đều (tâm của đa giác)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The common center of the circumcircle and the incircle of a regular polygon.
+- **Giải thích (VI):** Tâm trùng nhau của đường tròn ngoại tiếp và đường tròn nội tiếp một đa giác đều.
+- **Bối cảnh:** Toán học lớp 9, Bài 30 (Mục 1): xác định tâm đường tròn ngoại tiếp và tâm của các phép quay giữ nguyên đa giác đều.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 1), tr. 84; SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 1), tr. 85; SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 1), tr. 85, 86
+
+### center of a sphere
+- **Tiếng Việt:** Tâm của hình cầu
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The fixed point $O$ that is the center of the semicircular disk (or semicircle) revolved one full turn around its fixed diameter $AB$ to form a solid sphere (or sphere).
+- **Giải thích (VI):** Điểm cố định $O$ là tâm của nửa hình tròn (hoặc nửa đường tròn) khi quay một vòng quanh đường kính $AB$ cố định để tạo thành hình cầu (hoặc mặt cầu).
+- **Bối cảnh:** Toán học lớp 9, Bài 32 (Mục 1): Xác định điểm tâm cố định của hình cầu và mặt phẳng đi qua tâm tạo ra đường tròn lớn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B32, tr. 101; SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 1), tr. 101; SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 1), tr. 101, 102
+
 ### center of homothety
 - **Tiếng Việt:** Tâm phối cảnh
 - **Chuyên ngành gốc:** Toán học
@@ -963,12 +1101,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Toán 12 KNTT Tập 1, Chương 01, B4, tr. 26; SGK Toán 12 KNTT Tập 1, Chương 01, B4 (Mục 1), tr. 27; SGK Toán 12 KNTT Tập 1, Chương 01, B4 (Mục 2), tr. 27; SGK Toán 12 KNTT Tập 1, Chương 01, B4 (Mục 3.a), tr. 29; SGK Toán 6 KNTT Tập 1, Chương 05, B22, tr. 111; SGK Toán 6 KNTT Tập 1, Chương 05, B22 (Mục 1), tr. 112; SGK Toán 6 KNTT Tập 1, Chương 05, B22 (Mục 1), tr. 112, 113
 
 ### center of symmetry of a circle
-- **Tiếng Việt:** Tâm đối xứng của hình tròn
+- **Tiếng Việt:** Tâm đối xứng của hình tròn (Tâm đối xứng của đường tròn; tâm đối xứng)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** The center point $O$ of a circle around which rotating the circle by half a turn leaves the resulting figure coinciding with its original position.
 - **Giải thích (VI):** Điểm tâm $O$ của hình tròn mà khi quay hình tròn xung quanh $O$ đúng một nửa vòng thì hình thu được chồng khít với chính nó ở vị trí trước khi quay.
-- **Bối cảnh:** Toán học lớp 6, Bài 22 (Mục 1): Minh họa khái niệm tâm đối xứng thông qua tâm của hình tròn.
-- **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 05, B22 (Mục 1), tr. 112; SGK Toán 6 KNTT Tập 1, Chương 05, B22 (Mục 1), tr. 112, 113
+- **Giải thích khác (SGK Toán 9 Tập 1):** EN: The unique center of point symmetry of a circle, which is the center of the circle itself. / VI: Tâm đối xứng duy nhất của đường tròn, trùng với chính tâm của đường tròn đó.
+- **Bối cảnh:**
+  - Toán học lớp 6, Bài 22 (Mục 1): Minh họa khái niệm tâm đối xứng thông qua tâm của hình tròn.
+  - Toán học lớp 9, Bài 13 (Mục 2): vận dụng tính đối xứng tâm của đường tròn trong suy luận hình học.
+- **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 05, B22 (Mục 1), tr. 112; SGK Toán 6 KNTT Tập 1, Chương 05, B22 (Mục 1), tr. 112, 113; SGK Toán 9 KNTT Tập 1, Chương 05, B13, tr. 83; SGK Toán 9 KNTT Tập 1, Chương 05, B13 (Mục 2), tr. 85; SGK Toán 9 KNTT Tập 1, Chương 05, B13 (Mục 2), tr. 85, 86
 
 ### center of symmetry of a parallelogram
 - **Tiếng Việt:** Tâm đối xứng của hình bình hành
@@ -1009,6 +1150,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Giao điểm của hai đường chéo trong hình vuông, tại đó khi quay hình vuông một nửa vòng thì hình thu được chồng khít với vị trí ban đầu.
 - **Bối cảnh:** Toán học lớp 6, Bài 22 (Mục 2): Xác định tâm đối xứng của hình vuông thông qua giao điểm hai đường chéo.
 - **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 05, B22 (Mục 2), tr. 114; SGK Toán 6 KNTT Tập 1, Chương 05, B22 (Mục 2), tr. 114, 115
+
+### central angle
+- **Tiếng Việt:** Góc ở tâm
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** An angle whose vertex coincides with the center of a circle (such as $\widehat{AOB}$ with center $O$).
+- **Giải thích (VI):** Góc có đỉnh trùng với tâm của đường tròn (chẳng hạn góc $\widehat{AOB}$ đối với đường tròn tâm $O$).
+- **Bối cảnh:** Toán học lớp 9, Bài 14 (Mục 2): xác định góc ở tâm chắn cung và tính số đo của cung tròn theo số đo góc ở tâm.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B14, tr. 87; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 1), tr. 88; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 2), tr. 88
 
 ### central projection
 - **Tiếng Việt:** Phép chiếu xuyên tâm (phép chiếu phối cảnh)
@@ -1113,13 +1262,40 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Refers to Chasles's relation for trigonometric angles modulo $360^\circ$, distinct from Chasles's relation for vectors or directed line segments.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 1.a), tr. 7; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 1.b), tr. 7; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 1.b), tr. 7, 8
 
+### chord of a circle
+- **Tiếng Việt:** Dây cung (dây)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A line segment connecting any two points of a circle.
+- **Giải thích (VI):** Đoạn thẳng nối hai điểm tùy ý của một đường tròn.
+- **Bối cảnh:** Toán học lớp 9, Bài 14 (Mục 1): nhận biết dây của đường tròn và xét mối liên hệ giữa dây với đường kính, cung tròn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B14, tr. 87; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 1), tr. 87; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 1), tr. 87, 88
+
 ### circle
-- **Tiếng Việt:** Đường tròn
+- **Tiếng Việt:** Đường tròn (đường tròn tâm $O$ bán kính $R$)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** Set of all points $M$ in a plane satisfying $IM = R$ for a fixed center $I$ and positive radius $R > 0$; in the coordinate plane $Oxy$ with center $I(a; b)$, a point $M(x; y)$ belongs to the circle $(C)$ if and only if $(x - a)^2 + (y - b)^2 = R^2$.
 - **Giải thích (VI):** Tập hợp tất cả những điểm $M$ trong mặt phẳng cách điểm cố định $I$ một khoảng không đổi $IM = R$ ($R > 0$); trên mặt phẳng toạ độ $Oxy$ với tâm $I(a; b)$, điểm $M(x; y)$ thuộc đường tròn $(C)$ khi và chỉ khi $(x - a)^2 + (y - b)^2 = R^2$.
-- **Bối cảnh:** Toán học lớp 10, Bài 21 (Mục 1): Đại số hoá đường tròn trong mặt phẳng toạ độ $Oxy$.
-- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 07, B21, tr. 43; SGK Toán 10 KNTT Tập 2, Chương 07, B21 (Mục 1), tr. 43; SGK Toán 10 KNTT Tập 2, Chương 07, B21 (Mục 1), tr. 43, 44
+- **Giải thích khác (SGK Toán 9 Tập 1):** EN: The figure consisting of all points in a plane at a distance equal to $R$ ($R > 0$) from a given point $O$, denoted by $(O; R)$ or simply $(O)$. / VI: Hình gồm tất cả các điểm cách điểm cho trước $O$ một khoảng bằng $R$ ($R > 0$), kí hiệu là $(O; R)$ hoặc $(O)$.
+- **Bối cảnh:**
+  - Toán học lớp 10, Bài 21 (Mục 1): Đại số hoá đường tròn trong mặt phẳng toạ độ $Oxy$.
+  - Toán học lớp 9, Bài 13 (Mục 1): xác định đường tròn qua tâm và bán kính, chứng minh nhiều điểm cùng thuộc một đường tròn.
+- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 07, B21, tr. 43; SGK Toán 10 KNTT Tập 2, Chương 07, B21 (Mục 1), tr. 43; SGK Toán 10 KNTT Tập 2, Chương 07, B21 (Mục 1), tr. 43, 44; SGK Toán 9 KNTT Tập 1, Chương 05, B13, tr. 83; SGK Toán 9 KNTT Tập 1, Chương 05, B13 (Mục 1), tr. 83; SGK Toán 9 KNTT Tập 1, Chương 05, B13 (Mục 1), tr. 83, 84
+
+### circle with given diameter
+- **Tiếng Việt:** Đường tròn đường kính $AB$
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The circle $(O)$ through which the line segment $AB$ passes at its center $O$, having the midpoint $O$ of $AB$ as center and $\dfrac{AB}{2}$ as radius.
+- **Giải thích (VI):** Đường tròn $(O)$ có đoạn thẳng $AB$ đi qua tâm $O$ là một đường kính, nhận trung điểm $O$ của đoạn $AB$ làm tâm và có bán kính bằng $\dfrac{AB}{2}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 13 (Mục 1): gọi tên đường tròn đi qua hai đầu đoạn thẳng nhận trung điểm đoạn đó làm tâm, ứng dụng cho tam giác vuông.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B13 (Mục 1), tr. 84
+
+### circular arc
+- **Tiếng Việt:** Cung tròn (cung)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** Each of the two parts into which a circle is divided by two points $A$ and $B$ lying on that circle, denoted by $\overset{\frown}{AB}$ or $\overset{\frown}{AmB}$.
+- **Giải thích (VI):** Mỗi phần của đường tròn được chia bởi hai điểm $A$ và $B$ cùng thuộc đường tròn đó, kí hiệu là $\overset{\frown}{AB}$ hoặc $\overset{\frown}{AmB}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 14 (Mục 2): nhận biết cung nhỏ, cung lớn và nửa đường tròn xác định bởi hai điểm thuộc đường tròn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B14, tr. 87; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 1), tr. 87; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 1), tr. 88
 
 ### circular arc length
 - **Tiếng Việt:** Độ dài của cung tròn
@@ -1129,6 +1305,78 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 11, Bài 1 (Mục 2b): Tính độ dài cung tròn và quãng đường chuyển động tròn khi biết bán kính và góc quay theo rađian.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 2.a), tr. 9; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 2.b), tr. 9; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 2.b), tr. 9, 10
 
+### circular sector
+- **Tiếng Việt:** Hình quạt tròn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A region of a disk bounded by a circular arc and the two radii passing through the endpoints of that arc.
+- **Giải thích (VI):** Phần hình tròn giới hạn bởi một cung tròn và hai bán kính đi qua hai đầu mút của cung đó.
+- **Bối cảnh:** Toán học lớp 9, Bài 15 (Mục 2): Nhận diện miền hình học phẳng để tính diện tích và biểu diễn tỉ lệ trên biểu đồ hình quạt tròn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B15, tr. 91; SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 1), tr. 92; SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 2), tr. 92
+
+### circular segment
+- **Tiếng Việt:** Hình viên phân
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A plane figure bounded by a minor arc of a circle and the chord subtending that arc.
+- **Giải thích (VI):** Hình phẳng giới hạn bởi một cung nhỏ của một đường tròn và dây căng cung đó.
+- **Bối cảnh:** Toán học lớp 9, Luyện tập chung (trang 96): tính diện tích miền phẳng giới hạn bởi cung nhỏ và dây cung tương ứng.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, Luyện tập chung (trang 96), tr. 96; SGK Toán 9 KNTT Tập 1, Chương 05, Luyện tập chung (trang 96), tr. 96, 97; SGK Toán 9 KNTT Tập 1, Chương 05, Luyện tập chung (trang 96), tr. 97
+
+### circumcenter and circumradius of a rectangle and a square
+- **Tiếng Việt:** Tâm và bán kính đường tròn ngoại tiếp hình chữ nhật, hình vuông
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The geometric property stating that rectangles and squares are cyclic quadrilaterals whose circumcircles have their center at the intersection of the two diagonals and a radius equal to half the length of a diagonal.
+- **Giải thích (VI):** Tính chất hình học khẳng định hình chữ nhật và hình vuông là các tứ giác nội tiếp, với đường tròn ngoại tiếp có tâm là giao điểm của hai đường chéo và bán kính bằng một nửa độ dài đường chéo.
+- **Bối cảnh:** Toán học lớp 9, Bài 29 (Mục 2): xác định tâm và tính bán kính đường tròn ngoại tiếp các tứ giác đặc biệt gồm hình chữ nhật và hình vuông.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B29 (Mục 1), tr. 82; SGK Toán 9 KNTT Tập 2, Chương 09, B29 (Mục 2), tr. 82; SGK Toán 9 KNTT Tập 2, Chương 09, B29 (Mục 2), tr. 82, 83
+
+### circumcenter and circumradius of a right triangle
+- **Tiếng Việt:** Tâm và bán kính đường tròn ngoại tiếp tam giác vuông
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The geometric property stating that the circumcircle of a right triangle has its center at the midpoint of the hypotenuse and its radius equal to half the length of the hypotenuse ($R = \dfrac{BC}{2}$ for hypotenuse $BC$).
+- **Giải thích (VI):** Tính chất hình học khẳng định đường tròn ngoại tiếp tam giác vuông có tâm là trung điểm của cạnh huyền và bán kính bằng một nửa độ dài cạnh huyền ($R = \dfrac{BC}{2}$ với $BC$ là cạnh huyền).
+- **Bối cảnh:** Toán học lớp 9, Bài 28 (Mục 1): tính nhanh bán kính đường tròn ngoại tiếp tam giác vuông và chứng minh các điểm cùng thuộc đường tròn đường kính là cạnh huyền.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B28 (Mục 1), tr. 73; SGK Toán 9 KNTT Tập 2, Chương 09, B28 (Mục 1), tr. 73, 74
+
+### circumcenter and circumradius of an equilateral triangle
+- **Tiếng Việt:** Tâm và bán kính đường tròn ngoại tiếp tam giác đều
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The geometric property stating that the circumcircle of an equilateral triangle of side length $a$ has its center at the centroid of the triangle and a radius of $R = \dfrac{\sqrt{3}}{3}a$.
+- **Giải thích (VI):** Tính chất hình học khẳng định đường tròn ngoại tiếp tam giác đều cạnh $a$ có tâm trùng với trọng tâm của tam giác đó và bán kính bằng $R = \dfrac{\sqrt{3}}{3}a$.
+- **Bối cảnh:** Toán học lớp 9, Bài 28 (Mục 1): xác định tâm và tính bán kính đường tròn ngoại tiếp tam giác đều theo độ dài cạnh.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B28 (Mục 1), tr. 74; SGK Toán 9 KNTT Tập 2, Chương 09, B28 (Mục 2), tr. 74; SGK Toán 9 KNTT Tập 2, Chương 09, B28 (Mục 2), tr. 74, 75
+
+### circumcircle of a polygon
+- **Tiếng Việt:** Đường tròn ngoại tiếp đa giác
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The circle passing through all vertices of a polygon (in which case the polygon is inscribed in that circle); every regular polygon has all of its vertices lying on a single circumcircle.
+- **Giải thích (VI):** Đường tròn đi qua tất cả các đỉnh của một đa giác (khi đó đa giác nội tiếp đường tròn đó); đặc biệt, các đỉnh của mỗi đa giác đều luôn cùng nằm trên một đường tròn ngoại tiếp.
+- **Bối cảnh:** Toán học lớp 9, Bài 30 (Mục 1): tính chất mọi đa giác đều luôn nội tiếp một đường tròn và ứng dụng chia đều đường tròn để vẽ đa giác đều.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 1), tr. 85; SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 1), tr. 85, 86
+
+### circumcircle of a quadrilateral
+- **Tiếng Việt:** Đường tròn ngoại tiếp tứ giác
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The circle passing through all four vertices of a cyclic quadrilateral.
+- **Giải thích (VI):** Đường tròn đi qua cả bốn đỉnh của một tứ giác nội tiếp.
+- **Bối cảnh:** Toán học lớp 9, Bài 29 (Mục 1): xác định đường tròn đi qua bốn đỉnh của một tứ giác nội tiếp.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B29, tr. 80; SGK Toán 9 KNTT Tập 2, Chương 09, B29 (Mục 1), tr. 80; SGK Toán 9 KNTT Tập 2, Chương 09, B29 (Mục 1), tr. 80, 81
+
+### circumcircle of a triangle
+- **Tiếng Việt:** Đường tròn ngoại tiếp tam giác (đường tròn ngoại tiếp)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The circle passing through all three vertices of a triangle, whose center is the concurrency point of the triangle's three perpendicular bisectors.
+- **Giải thích (VI):** Đường tròn đi qua cả ba đỉnh của một tam giác, có tâm là giao điểm của ba đường trung trực của tam giác đó.
+- **Bối cảnh:** Toán học lớp 9, Bài 28 (Mục 1): xác định tâm và vẽ đường tròn ngoại tiếp một tam giác bất kì bằng giao điểm ba đường trung trực.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B28, tr. 72; SGK Toán 9 KNTT Tập 2, Chương 09, B28 (Mục 1), tr. 72; SGK Toán 9 KNTT Tập 2, Chương 09, B28 (Mục 1), tr. 72, 73
+
+### circumference of a circle
+- **Tiếng Việt:** Độ dài đường tròn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The perimeter $C$ of a circle with center $O$ and radius $R$ (diameter $d = 2R$), equal to the product of $\pi$ and the diameter according to the formula $C = \pi d = 2\pi R$.
+- **Giải thích (VI):** Chu vi $C$ của đường tròn tâm $O$ bán kính $R$ (đường kính $d = 2R$), tính bằng tích của số $\pi$ với đường kính theo công thức $C = \pi d = 2\pi R$.
+- **Bối cảnh:** Toán học lớp 9, Bài 15 (Mục 1): Tính chu vi đường tròn và làm cơ sở thiết lập công thức tính độ dài cung tròn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B15, tr. 91; SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 1), tr. 91; SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 1), tr. 91, 92
+
 ### class boundary adjustment for discrete data
 - **Tiếng Việt:** Hiệu chỉnh nhóm đối với số liệu rời rạc
 - **Chuyên ngành gốc:** Toán học
@@ -1137,32 +1385,56 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 11, Bài 9 (Mục 1): chuẩn hóa các nhóm số liệu rời rạc về dạng nửa khoảng nối tiếp nhau trước khi tính trung vị, tứ phân vị và mốt.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 63; SGK Toán 11 KNTT Tập 1, Chương 03, B9 (Mục 2), tr. 63; SGK Toán 11 KNTT Tập 1, Chương 03, B9 (Mục 2), tr. 63, 64
 
+### class frequency
+- **Tiếng Việt:** Tần số ghép nhóm (tần số của nhóm)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The count $m_i$ of data values in a sample belonging to the class interval $[a_i, a_{i+1})$, meaning the number of values greater than or equal to $a_i$ and strictly less than $a_{i+1}$.
+- **Giải thích (VI):** Số lượng giá trị $m_i$ của mẫu số liệu thuộc nhóm $[a_i; a_{i+1})$, tức là số giá trị trong mẫu lớn hơn hoặc bằng $a_i$ và nhỏ hơn $a_{i+1}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 24 (Mục 1): đếm số phần tử của mẫu số liệu rơi vào mỗi nhóm $[a_i; a_{i+1})$ khi lập bảng tần số ghép nhóm.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B24, tr. 46; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 46; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 47
+
 ### class interval
 - **Tiếng Việt:** Nhóm số liệu
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** A subset of data values grouped together according to a specified criterion, typically represented as a half-open interval $[a, b)$ with left endpoint $a$ and right endpoint $b$.
 - **Giải thích (VI):** Tập hợp các giá trị của mẫu số liệu gộp chung theo một tiêu chí xác định, thường biểu diễn dưới dạng nửa khoảng $[a; b)$ với đầu mút trái $a$ và đầu mút phải $b$.
-- **Bối cảnh:** Toán học lớp 11, Bài 8 (Mục 1): đơn vị phân chia miền giá trị trong bảng tần số ghép nhóm.
-- **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 59
+- **Giải thích khác (SGK Toán 9 Tập 2):** EN: A grouping interval used to classify quantitative data values, commonly taking the half-open form $[a, b)$ consisting of all data values greater than or equal to $a$ and strictly less than $b$. / VI: Khoảng phân lớp dùng để gom các số liệu định lượng, thường gặp ở dạng nửa khoảng $[a; b)$ gồm tất cả các số liệu lớn hơn hoặc bằng $a$ và nhỏ hơn $b$.
+- **Bối cảnh:**
+  - Toán học lớp 11, Bài 8 (Mục 1): đơn vị phân chia miền giá trị trong bảng tần số ghép nhóm.
+  - Toán học lớp 9, Bài 24 (Mục 1): phân lớp mẫu số liệu định lượng lớn hoặc liên tục thành các nửa khoảng $[a; b)$ để lập bảng ghép nhóm.
+- **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 59; SGK Toán 9 KNTT Tập 2, Chương 07, B24, tr. 46; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 46; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 46, 47
 
 ### class interval endpoints
 - **Tiếng Việt:** Đầu mút trái (đầu mút phải)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** The two boundary values defining the range of a class interval $[a, b)$, where $a$ is the left endpoint and $b$ is the right endpoint of the class.
 - **Giải thích (VI):** Hai giá trị biên xác định phạm vi của một nhóm số liệu dạng $[a; b)$, trong đó $a$ là đầu mút trái và $b$ là đầu mút phải của nhóm.
-- **Bối cảnh:** Toán học lớp 11, Bài 8 (Mục 1): xác định ranh giới dưới và ranh giới trên của mỗi nhóm số liệu.
-- **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 59; SGK Toán 11 KNTT Tập 1, Chương 03, B8 (Mục 2), tr. 60
+- **Giải thích khác (SGK Toán 9 Tập 2):** EN: The lower boundary value $a$ of a class interval $[a, b)$, representing the inclusive minimum threshold such that every data value in the class is greater than or equal to $a$. / VI: Giá trị biên dưới $a$ của nhóm số liệu $[a; b)$, biểu thị mốc cận dưới có bao gồm trong nhóm sao cho mọi số liệu thuộc nhóm đều lớn hơn hoặc bằng $a$.
+- **Bối cảnh:**
+  - Toán học lớp 11, Bài 8 (Mục 1): xác định ranh giới dưới và ranh giới trên của mỗi nhóm số liệu.
+  - Toán học lớp 9, Bài 24 (Mục 1): xác định cận dưới có tính cả giá trị biên của mỗi nhóm số liệu nửa khoảng $[a; b)$.
+- **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 59; SGK Toán 11 KNTT Tập 1, Chương 03, B8 (Mục 2), tr. 60; SGK Toán 9 KNTT Tập 2, Chương 07, B24, tr. 46; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 46; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 46, 47
 
 ### class midpoint
-- **Tiếng Việt:** Giá trị đại diện
+- **Tiếng Việt:** Giá trị đại diện (giá trị đại diện của nhóm số liệu)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** The arithmetic mean of the two endpoints of a class interval $[a_i, a_{i+1})$, computed by $x_i = \frac{a_i + a_{i+1}}{2}$ ($i = 1, \dots, k$) to represent observations within that class in statistical calculations.
 - **Giải thích (VI):** Trung bình cộng của hai đầu mút thuộc nhóm số liệu $[a_i; a_{i+1})$, tính theo công thức $x_i = \frac{a_i + a_{i+1}}{2}$ ($i = 1, \dots, k$) để thay thế cho các giá trị trong nhóm khi tính toán thống kê.
 - **Giải thích khác (SGK Toán 12 Tập 1):** EN: The average $x_i = \frac{a_i + a_{i+1}}{2}$ of the two endpoints of the $i$-th class interval $[a_i; a_{i+1})$ ($i = 1, 2, \dots, k$), representing observations within that class when computing the mean and variance of grouped data. / VI: Trung bình cộng $x_i = \frac{a_i + a_{i+1}}{2}$ của hai đầu mút thuộc nhóm thứ $i$ là $[a_i; a_{i+1})$ ($i = 1, 2, \dots, k$), dùng để đại diện cho các giá trị trong nhóm khi tính số trung bình và phương sai của mẫu số liệu ghép nhóm.
+- **Giải thích khác (SGK Toán 9 Tập 2):** EN: The arithmetic mean $x_i = \dfrac{a_i + a_{i+1}}{2}$ of the two endpoints of a class interval $[a_i, a_{i+1})$ ($i = 1, 2, \dots, k$), chosen to represent that class on the horizontal axis when constructing a grouped frequency polygon. / VI: Trung bình cộng $x_i = \dfrac{a_i + a_{i+1}}{2}$ của hai đầu mút thuộc nhóm số liệu $[a_i; a_{i+1})$ ($i = 1, 2, \dots, k$), dùng để đại diện cho nhóm số liệu đó trên trục ngang khi vẽ biểu đồ ghép nhóm dạng đoạn thẳng.
 - **Bối cảnh:**
   - Toán học lớp 11, Bài 9 (Mục 1): đại lượng đại diện cho mỗi nhóm khi ước lượng số trung bình của mẫu số liệu ghép nhóm.
   - Toán học lớp 12, Bài 10 (Mục 1): Đại lượng trung gian thay thế cho từng nửa khoảng ghép nhóm trong công thức tính số trung bình và phương sai.
-- **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 03, B9, tr. 62; SGK Toán 11 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 62; SGK Toán 11 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 62, 63; SGK Toán 12 KNTT Tập 1, Chương 03, B10, tr. 80; SGK Toán 12 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 80; SGK Toán 12 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 80, 81
+  - Toán học lớp 9, Bài 24 (Mục 3): xác định hoành độ đại diện cho từng nhóm số liệu khi dựng biểu đồ ghép nhóm dạng đoạn thẳng.
+- **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 03, B9, tr. 62; SGK Toán 11 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 62; SGK Toán 11 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 62, 63; SGK Toán 12 KNTT Tập 1, Chương 03, B10, tr. 80; SGK Toán 12 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 80; SGK Toán 12 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 80, 81; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 3), tr. 51; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 3), tr. 51, 52; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 3), tr. 52
+
+### class relative frequency
+- **Tiếng Việt:** Tần số tương đối ghép nhóm (tần số tương đối của nhóm)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The ratio of the class frequency $m_i$ of a class interval $[a_i, a_{i+1})$ to the total sample size $n = m_1 + \dots + m_k$, commonly expressed as a percentage $f_i = \dfrac{m_i}{n} \cdot 100\%$.
+- **Giải thích (VI):** Tỉ số giữa tần số $m_i$ của nhóm số liệu $[a_i; a_{i+1})$ và cỡ mẫu $n = m_1 + \dots + m_k$, thường biểu diễn dưới dạng phần trăm theo công thức $f_i = \dfrac{m_i}{n} \cdot 100\%$.
+- **Bối cảnh:** Toán học lớp 9, Bài 24 (Mục 1): đánh giá tỉ trọng dữ liệu nằm trong từng khoảng ghép nhóm so với toàn bộ mẫu.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B24, tr. 46; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 46; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 47
 
 ### class width
 - **Tiếng Việt:** Độ dài của nhóm
@@ -1194,7 +1466,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A bounded subset of the real numbers $\mathbb{R}$ that includes both endpoints $a$ and $b$ (with $a < b$), denoted and defined by $[a; b] = \{x \in \mathbb{R} \mid a \le x \le b\}$.
 - **Giải thích (VI):** Tập con giới hạn của tập số thực $\mathbb{R}$ chứa cả hai đầu mút $a$ và $b$ (với $a < b$), kí hiệu và xác định bởi $[a; b] = \{x \in \mathbb{R} \mid a \le x \le b\}$.
 - **Bối cảnh:** Toán học lớp 10, Bài 2 (Mục 2b): Biểu diễn tập hợp các số thực nằm giữa và tính cả hai giá trị biên $a, b$.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.b), tr. 16
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.b), tr. 16; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 3.a), tr. 16; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 3.a), tr. 16, 17
 
 ### closed interval method
 - **Tiếng Việt:** Tìm giá trị lớn nhất, nhỏ nhất trên đoạn
@@ -1241,6 +1513,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đại lượng đo độ phân tán tương đối xác định theo công thức $CV = \frac{s}{\bar{x}}$ (với $s$ là độ lệch chuẩn và $\bar{x}$ là số trung bình của mẫu số liệu), dùng để so sánh mức độ phân tán của hai mẫu số liệu khác đơn vị đo hoặc có giá trị trung bình khác nhau rất nhiều.
 - **Bối cảnh:** Toán học lớp 12, Bài 10 (Mục 2): So sánh mức độ phân tán và độ rủi ro giữa hai mẫu số liệu có quy mô trung bình hoặc đơn vị đo khác nhau.
 - **Nguồn:** SGK Toán 12 KNTT Tập 1, Chương 03, B10 (Mục 2), tr. 83
+
+### coefficients of a quadratic equation
+- **Tiếng Việt:** Hệ số của phương trình bậc hai (hệ số)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The three given numbers $a, b, c$ (with $a \ne 0$) in the quadratic equation $ax^2 + bx + c = 0$, corresponding respectively to the quadratic term $x^2$, the linear term $x$, and the constant term.
+- **Giải thích (VI):** Bộ ba số cho trước $a, b, c$ (với $a \ne 0$) trong phương trình bậc hai $ax^2 + bx + c = 0$, lần lượt đi với hạng tử bậc hai $x^2$, hạng tử bậc nhất $x$ và hạng tử tự do.
+- **Bối cảnh:** Toán học lớp 9, Bài 19 (Mục 1): Xác định đúng dấu và giá trị của $a, b, c$ để tính biệt thức $\Delta$, áp dụng công thức nghiệm và định lí Viète.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 06, B19, tr. 10; SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 1), tr. 10; SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 1), tr. 10, 11
 
 ### coincident lines
 - **Tiếng Việt:** Hai đường thẳng trùng nhau
@@ -1366,7 +1646,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A line $\Delta$ that intersects two skew lines $a$ and $b$ and is perpendicular to both of them ($\Delta \perp a, \Delta \perp b$).
 - **Giải thích (VI):** Đường thẳng $\Delta$ cắt hai đường thẳng chéo nhau $a, b$ và đồng thời vuông góc với cả hai đường thẳng đó ($\Delta \perp a, \Delta \perp b$).
 - **Bối cảnh:** Toán học lớp 11, Bài 26 (Mục 3): Xác định đường thẳng cắt và vuông góc với hai đường thẳng chéo nhau để tính khoảng cách giữa chúng.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 3), tr. 57
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 3), tr. 57; SGK Toán 11 KNTT Tập 2, Chương 07, B26, tr. 54; SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 2), tr. 57
 
 ### common ratio
 - **Tiếng Việt:** Công bội
@@ -1375,6 +1655,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hằng số $q$ trong cấp số nhân $(u_n)$ thỏa mãn $u_n = u_{n-1} \cdot q$ với mọi $n \ge 2$; khi các số hạng của dãy khác $0$ thì $q = \frac{u_n}{u_{n-1}}$.
 - **Bối cảnh:** Toán học lớp 11, Bài 7 (Mục 1): thừa số không đổi liên kết hai số hạng liên tiếp trong cấp số nhân.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 02, B7, tr. 52; SGK Toán 11 KNTT Tập 1, Chương 02, B7 (Mục 1), tr. 52; SGK Toán 11 KNTT Tập 1, Chương 02, B7 (Mục 1), tr. 52, 53
+
+### common solution
+- **Tiếng Việt:** Nghiệm chung
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A value or ordered pair $(x_0; y_0)$ that simultaneously satisfies two or more given equations, serving as a solution to the system formed by those equations.
+- **Giải thích (VI):** Giá trị hoặc cặp số $(x_0; y_0)$ đồng thời thoả mãn hai hay nhiều phương trình đã cho, đóng vai trò là nghiệm của hệ gồm các phương trình đó.
+- **Bối cảnh:** Toán học lớp 9, Bài 1 (Mục 2): Giải thích bản chất nghiệm của hệ hai phương trình bậc nhất hai ẩn là nghiệm thoả mãn đồng thời cả hai phương trình.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 8; SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 8; SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 8, 9
 
 ### common-base exponential inequality
 - **Tiếng Việt:** Bất phương trình mũ đưa về cùng cơ số
@@ -1479,12 +1767,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cặp góc có tổng số đo bằng $90^\circ$, biểu diễn dưới dạng $\alpha$ và $90^\circ - \alpha$ ($0^\circ \le \alpha \le 90^\circ$), tương ứng với hai điểm $M, N$ trên nửa đường tròn đơn vị sao cho $\widehat{xOM} = \alpha$ và $\widehat{xON} = 90^\circ - \alpha$.
 - **Giải thích khác (SGK Toán 11 Tập 1):** EN: A pair of trigonometric angles whose measures sum to $\frac{\pi}{2}$ ($\alpha$ and $\frac{\pi}{2} - \alpha$), satisfying the identities $\sin\left(\frac{\pi}{2} - \alpha\right) = \cos\alpha$, $\cos\left(\frac{\pi}{2} - \alpha\right) = \sin\alpha$, $\tan\left(\frac{\pi}{2} - \alpha\right) = \cot\alpha$, and $\cot\left(\frac{\pi}{2} - \alpha\right) = \tan\alpha$ (where defined). / VI: Cặp góc lượng giác có tổng số đo bằng $\frac{\pi}{2}$ ($\alpha$ và $\frac{\pi}{2} - \alpha$), thoả mãn các hệ thức $\sin\left(\frac{\pi}{2} - \alpha\right) = \cos\alpha$, $\cos\left(\frac{\pi}{2} - \alpha\right) = \sin\alpha$, $\tan\left(\frac{\pi}{2} - \alpha\right) = \cot\alpha$ và $\cot\left(\frac{\pi}{2} - \alpha\right) = \tan\alpha$ (khi các biểu thức xác định).
 - **Giải thích khác (SGK Toán 7 Tập 1):** EN: Two angles whose measures sum to $90^\circ$; in particular, the two acute angles of a right triangle are always complementary. / VI: Hai góc có tổng số đo bằng $90^\circ$; đặc biệt, trong một tam giác vuông thì hai góc nhọn luôn phụ nhau.
+- **Giải thích khác (SGK Toán 9 Tập 1):** EN: Two acute angles whose measures add up to $90^\circ$ ($\alpha + \beta = 90^\circ$), which in measure correspond to the two acute angles of a right triangle. / VI: Hai góc nhọn có tổng số đo bằng $90^\circ$ ($\alpha + \beta = 90^\circ$), về số đo có thể coi là hai góc nhọn của một tam giác vuông.
 - **Bối cảnh:**
   - Toán học lớp 10, Bài 5 (Mục 2): Liên hệ toạ độ hai điểm biểu diễn trên góc phần tư thứ nhất của nửa đường tròn đơn vị.
   - Toán học lớp 11, Bài 1 (Mục 4b): Chuyển đổi chéo giữa sin và côsin, giữa tang và côtang của hai góc có tổng bằng $\frac{\pi}{2}$ (hoặc $90^\circ$).
   - Toán học lớp 7, Bài 12 (Mục Nhận xét): Tính nhanh số đo góc nhọn trong tam giác vuông khi biết góc nhọn còn lại.
+  - Toán học lớp 9, Bài 11 (Mục 2): xét mối quan hệ giữa các tỉ số lượng giác của cặp góc nhọn có tổng bằng $90^\circ$.
   - *Lưu ý:* Phân biệt với hai góc bù nhau (hai góc có tổng số đo bằng $180^\circ$).
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 2), tr. 36; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 2), tr. 36, 37; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 4.b), tr. 15; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 4.b), tr. 15, 16; SGK Toán 7 KNTT Tập 1, Chương 04, B12, tr. 62
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 2), tr. 36; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 2), tr. 36, 37; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 4.b), tr. 15; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 4.b), tr. 15, 16; SGK Toán 7 KNTT Tập 1, Chương 04, B12, tr. 62; SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 2), tr. 70; SGK Toán 9 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 119
 
 ### complementary event
 - **Tiếng Việt:** Biến cố đối
@@ -1545,6 +1835,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 12, Bài 10 (Mục 1): Rút gọn phép tính phương sai mẫu số liệu ghép nhóm mà không cần tính từng hiệu $(x_i - \bar{x})^2$.
 - **Nguồn:** SGK Toán 12 KNTT Tập 1, Chương 03, B10, tr. 80; SGK Toán 12 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 80; SGK Toán 12 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 80, 81
 
+### concentric circles
+- **Tiếng Việt:** Hai đường tròn đồng tâm
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** Two distinct circles that share the same center but have different radii ($R \ne R'$).
+- **Giải thích (VI):** Hai đường tròn phân biệt có cùng tâm nhưng có bán kính khác nhau ($R \ne R'$).
+- **Bối cảnh:** Toán học lớp 9, Bài 15 (Mục 2): Xác định biên của hình vành khuyên và xét trường hợp đặc biệt khi đường tròn lớn đựng đường tròn nhỏ ở Bài 17.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 1), tr. 92; SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 2), tr. 92; SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 2), tr. 92, 93
+
 ### concurrency of the altitudes of a triangle
 - **Tiếng Việt:** Sự đồng quy của ba đường cao
 - **Chuyên ngành gốc:** Toán học
@@ -1599,7 +1897,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A compound proposition of the form "If $P$ then $Q$", denoted by $P \Rightarrow Q$, linking two propositions $P$ and $Q$. The proposition $P \Rightarrow Q$ is false only when $P$ is true and $Q$ is false, and true in all other cases.
 - **Giải thích (VI):** Mệnh đề ghép có dạng "Nếu $P$ thì $Q$", kí hiệu là $P \Rightarrow Q$, liên kết hai mệnh đề $P$ và $Q$. Mệnh đề $P \Rightarrow Q$ chỉ sai khi $P$ đúng và $Q$ sai, còn đúng trong mọi trường hợp khác.
 - **Bối cảnh:** Toán học lớp 10, Bài 1 (Mục 3a): Biểu diễn quan hệ suy luận lôgic một chiều từ mệnh đề $P$ sang mệnh đề $Q$.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 3.a), tr. 8
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 3.a), tr. 8; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 3.b), tr. 8
 
 ### conditions determining a unique plane
 - **Tiếng Việt:** Ba cách xác định một mặt phẳng
@@ -1608,6 +1906,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Ba điều kiện cơ bản xác định duy nhất một mặt phẳng trong không gian: đi qua ba điểm không thẳng hàng, đi qua một điểm và chứa một đường thẳng không đi qua điểm đó, hoặc chứa hai đường thẳng cắt nhau.
 - **Bối cảnh:** Toán học lớp 11, Bài 10 (Mục 3): các phương pháp thiết lập và nhận diện một mặt phẳng duy nhất trong không gian.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 04, B10 (Mục 2), tr. 74; SGK Toán 11 KNTT Tập 1, Chương 04, B10 (Mục 3), tr. 74; SGK Toán 11 KNTT Tập 1, Chương 04, B10 (Mục 3), tr. 74, 75
+
+### congruent arcs
+- **Tiếng Việt:** Hai cung bằng nhau
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** Two circular arcs lying on the same circle that have the same degree measure, denoted $\overset{\frown}{AB} = \overset{\frown}{CD}$.
+- **Giải thích (VI):** Hai cung tròn nằm trên cùng một đường tròn và có cùng số đo, kí hiệu $\overset{\frown}{AB} = \overset{\frown}{CD}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 14 (Mục 2): So sánh hai cung trên cùng một đường tròn thông qua số đo của chúng.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 2), tr. 89; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 2), tr. 89, 90
 
 ### congruent line segments
 - **Tiếng Việt:** Hai đoạn thẳng bằng nhau
@@ -1632,6 +1938,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tên chung chỉ bộ ba đường cong phẳng gồm đường elip, đường hypebol và đường parabol, xác định qua các điều kiện khoảng cách hình học và biểu diễn bằng phương trình đại số trong mặt phẳng toạ độ.
 - **Bối cảnh:** Toán học lớp 10, Bài 22 (Mục 1, 2, 3): Khái quát ba đường cong conic và các ứng dụng trong thiên văn học, quang học, thiết kế kĩ thuật.
 - **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 07, B22, tr. 48; SGK Toán 10 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 48; SGK Toán 10 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 48, 49
+
+### conjugate expressions
+- **Tiếng Việt:** Biểu thức liên hợp (cặp biểu thức liên hợp)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A pair of radical expressions of the form $A + \sqrt{B}$ and $A - \sqrt{B}$ (with $B \ge 0$), or $\sqrt{A} + \sqrt{B}$ and $\sqrt{A} - \sqrt{B}$ (with $A \ge 0, B \ge 0$), whose products satisfy $\left(A + \sqrt{B}\right)\left(A - \sqrt{B}\right) = A^2 - B$ and $\left(\sqrt{A} + \sqrt{B}\right)\left(\sqrt{A} - \sqrt{B}\right) = A - B$.
+- **Giải thích (VI):** Cặp biểu thức chứa căn có dạng $A + \sqrt{B}$ và $A - \sqrt{B}$ (với $B \ge 0$), hoặc $\sqrt{A} + \sqrt{B}$ và $\sqrt{A} - \sqrt{B}$ (với $A \ge 0, B \ge 0$), có tích thỏa mãn $\left(A + \sqrt{B}\right)\left(A - \sqrt{B}\right) = A^2 - B$ và $\left(\sqrt{A} + \sqrt{B}\right)\left(\sqrt{A} - \sqrt{B}\right) = A - B$.
+- **Bối cảnh:** Toán học lớp 9, Luyện tập chung (trang 52) và Bài 9 (Mục 3): nhân tử và mẫu với biểu thức liên hợp của mẫu để khử căn bậc hai ở mẫu.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, Luyện tập chung (trang 52), tr. 52; SGK Toán 9 KNTT Tập 1, Chương 03, B9 (Mục 3), tr. 56; SGK Toán 9 KNTT Tập 1, Chương 03, B9 (Mục 3), tr. 57
 
 ### consecutive interior angles
 - **Tiếng Việt:** Hai góc trong cùng phía (góc trong cùng phía; cặp góc trong cùng phía)
@@ -1776,7 +2090,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 10, Bài 1 (Mục 3b): Đảo chiều suy luận của mệnh đề kéo theo và kiểm tra tính đúng sai độc lập.
   - *Lưu ý:* Phân biệt mệnh đề đảo ($Q \Rightarrow P$) với mệnh đề phủ định ($\overline{P}$): mệnh đề đảo hoán đổi giả thiết và kết luận chứ không phủ định nội dung mệnh đề.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 3.b), tr. 8; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 3.b), tr. 9
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 3.b), tr. 8; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 3.b), tr. 9; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 3.a), tr. 8
 
 ### converse theorem
 - **Tiếng Việt:** Định lí đảo
@@ -1809,6 +2123,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phép biến đổi các phân số khác mẫu (như $\frac{a}{b}$ và $\frac{c}{d}$) thành các phân số bằng chúng và có cùng một mẫu chung. Thông thường, mẫu chung được chọn là bội chung nhỏ nhất của các mẫu số.
 - **Bối cảnh:** Toán học lớp 6, Bài 12 (Mục 3): Ứng dụng BCNN làm mẫu chung nhỏ nhất để cộng, trừ hoặc so sánh các phân số khác mẫu.
 - **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 02, B12 (Mục 2), tr. 56; SGK Toán 6 KNTT Tập 1, Chương 02, B12 (Mục 3), tr. 56; SGK Toán 6 KNTT Tập 1, Chương 02, B12 (Mục 3), tr. 56, 57
+
+### convex polygon
+- **Tiếng Việt:** Đa giác lồi
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A polygon with the property that for any chosen side, all vertices not belonging to that side lie on the same side of the straight line containing that side.
+- **Giải thích (VI):** Đa giác thỏa mãn tính chất với một cạnh bất kì, tất cả các đỉnh không thuộc cạnh đó đều nằm về cùng một phía đối với đường thẳng chứa cạnh đó.
+- **Bối cảnh:** Toán học lớp 9, Bài 30 (Mục 1): điều kiện hình học tiên quyết để định nghĩa đa giác đều.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B30, tr. 84; SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 1), tr. 84; SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 1), tr. 84, 85
 
 ### convex quadrilateral
 - **Tiếng Việt:** Tứ giác lồi
@@ -1987,13 +2309,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 11, Bài 3 (Mục 1): Định nghĩa hàm số lượng giác cơ bản xác định trên toàn trục số thực.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 01, B3 (Mục 1), tr. 23; SGK Toán 11 KNTT Tập 1, Chương 01, B3 (Mục 2.a), tr. 23; SGK Toán 11 KNTT Tập 1, Chương 01, B3 (Mục 2.a), tr. 23, 24
 
+### cosine of an acute angle
+- **Tiếng Việt:** Côsin của góc nhọn (côsin; côsin của góc $\alpha$)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The trigonometric ratio of an acute angle $\alpha$ in a right triangle equal to the ratio of the adjacent side to the hypotenuse, denoted by $\cos \alpha = \dfrac{\text{adjacent}}{\text{hypotenuse}}$.
+- **Giải thích (VI):** Tỉ số lượng giác của góc nhọn $\alpha$ trong tam giác vuông bằng tỉ số giữa độ dài cạnh kề và độ dài cạnh huyền, kí hiệu là $\cos \alpha = \dfrac{\text{cạnh kề}}{\text{cạnh huyền}}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 11 (Mục 1): tính tỉ số côsin của góc nhọn trong tam giác vuông từ độ dài cạnh kề và cạnh huyền.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 04, B11, tr. 66; SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 67; SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 68
+
 ### cosine of an angle
 - **Tiếng Việt:** Côsin của một góc (côsin)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** The abscissa $x_0$ of the point $M(x_0; y_0)$ on the unit semicircle corresponding to the angle $\widehat{xOM} = \alpha$ ($0^\circ \le \alpha \le 180^\circ$), denoted by $\cos\alpha = x_0$.
 - **Giải thích (VI):** Hoành độ $x_0$ của điểm $M(x_0; y_0)$ trên nửa đường tròn đơn vị ứng với góc $\widehat{xOM} = \alpha$ ($0^\circ \le \alpha \le 180^\circ$), kí hiệu là $\cos\alpha = x_0$.
 - **Bối cảnh:** Toán học lớp 10, Bài 5 (Mục 1): Tính giá trị côsin của góc từ $0^\circ$ đến $180^\circ$ (nhận giá trị âm đối với góc tù $90^\circ < \alpha \le 180^\circ$).
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34, 35
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34, 35; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 2), tr. 36
 
 ### cotangent function
 - **Tiếng Việt:** Hàm số côtang
@@ -2003,13 +2333,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 11, Bài 3 (Mục 1): Định nghĩa hàm số lượng giác xác định tại mọi điểm mà $\sin x \ne 0$.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 01, B3 (Mục 1), tr. 23; SGK Toán 11 KNTT Tập 1, Chương 01, B3 (Mục 2.a), tr. 23; SGK Toán 11 KNTT Tập 1, Chương 01, B3 (Mục 2.a), tr. 23, 24
 
+### cotangent of an acute angle
+- **Tiếng Việt:** Côtang của góc nhọn (côtang; côtang của góc $\alpha$)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The trigonometric ratio of an acute angle $\alpha$ in a right triangle equal to the ratio of the adjacent side to the opposite side, denoted by $\cot \alpha = \dfrac{\text{adjacent}}{\text{opposite}} = \dfrac{1}{\tan \alpha}$.
+- **Giải thích (VI):** Tỉ số lượng giác của góc nhọn $\alpha$ trong tam giác vuông bằng tỉ số giữa độ dài cạnh kề và độ dài cạnh đối của góc $\alpha$, kí hiệu là $\cot \alpha = \dfrac{\text{cạnh kề}}{\text{cạnh đối}} = \dfrac{1}{\tan \alpha}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 11 (Mục 1): tính tỉ số côtang của góc nhọn trong tam giác vuông và sử dụng liên hệ nghịch đảo với tang.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 04, B11, tr. 66; SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 67; SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 68
+
 ### cotangent of an angle
 - **Tiếng Việt:** Côtang của một góc (côtang)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** The ratio $\frac{x_0}{y_0}$ of the abscissa to the ordinate of the point $M(x_0; y_0)$ on the unit semicircle corresponding to $\widehat{xOM} = \alpha$ ($0^\circ \le \alpha \le 180^\circ$), defined when $\alpha \ne 0^\circ$ and $\alpha \ne 180^\circ$ ($y_0 \ne 0$) and denoted by $\cot\alpha = \frac{x_0}{y_0} = \frac{\cos\alpha}{\sin\alpha}$.
 - **Giải thích (VI):** Tỉ số $\frac{x_0}{y_0}$ giữa hoành độ và tung độ của điểm $M(x_0; y_0)$ trên nửa đường tròn đơn vị ứng với góc $\widehat{xOM} = \alpha$ ($0^\circ \le \alpha \le 180^\circ$), xác định khi $\alpha \ne 0^\circ$ và $\alpha \ne 180^\circ$ ($y_0 \ne 0$), kí hiệu là $\cot\alpha = \frac{x_0}{y_0} = \frac{\cos\alpha}{\sin\alpha}$.
 - **Bối cảnh:** Toán học lớp 10, Bài 5 (Mục 1): Tính giá trị côtang của góc thoả mãn $0^\circ < \alpha < 180^\circ$.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34, 35
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34, 35; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 2), tr. 36
 
 ### criterion for a line parallel to a plane
 - **Tiếng Việt:** Điều kiện để đường thẳng song song với mặt phẳng
@@ -2019,13 +2357,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 11, Bài 12 (Mục 2): Dấu hiệu nhận biết và chứng minh một đường thẳng song song với một mặt phẳng trong không gian.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 04, B12 (Mục 1), tr. 85; SGK Toán 11 KNTT Tập 1, Chương 04, B12 (Mục 2), tr. 85; SGK Toán 11 KNTT Tập 1, Chương 04, B12 (Mục 2), tr. 85, 86
 
+### criterion for a tangent to a circle
+- **Tiếng Việt:** Dấu hiệu nhận biết tiếp tuyến của đường tròn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The theorem stating that a straight line passing through a point on a circle and perpendicular to the radius through that point is a tangent line to the circle.
+- **Giải thích (VI):** Định lí khẳng định một đường thẳng đi qua một điểm nằm trên đường tròn và vuông góc với bán kính đi qua điểm đó là một tiếp tuyến của đường tròn.
+- **Bối cảnh:** Toán học lớp 9, Bài 16 (Mục 2): Chứng minh một đường thẳng là tiếp tuyến của đường tròn và dựng tiếp tuyến đi qua một điểm trên đường tròn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 1), tr. 100; SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 2), tr. 100; SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 2), tr. 100, 101
+
 ### criterion for dependent events
 - **Tiếng Việt:** Dấu hiệu nhận biết hai biến cố không độc lập
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** A criterion for identifying dependence between two events $A$ and $B$, stating that if $P(AB) \ne P(A)P(B)$, then $A$ and $B$ are not independent.
 - **Giải thích (VI):** Dấu hiệu kiểm tra tính phụ thuộc giữa hai biến cố $A$ và $B$, khẳng định rằng nếu $P(AB) \ne P(A)P(B)$ thì $A$ và $B$ không độc lập.
 - **Bối cảnh:** Toán học lớp 11, Bài 30 (Mục 1, 2): Phát hiện sự phụ thuộc giữa hai biến cố thông qua kiểm định xác suất trong thống kê thực tế.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B30 (Mục 1), tr. 76, 77
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B30 (Mục 1), tr. 76, 77; SGK Toán 11 KNTT Tập 2, Chương 08, B30, tr. 76; SGK Toán 11 KNTT Tập 2, Chương 08, B30 (Mục 1), tr. 76
 
 ### criterion for parallel planes
 - **Tiếng Việt:** Điều kiện để hai mặt phẳng song song
@@ -2041,7 +2387,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A theorem stating that two planes $(P)$ and $(Q)$ are perpendicular if one plane contains a line perpendicular to the other plane ($b \subset (P), b \perp (Q) \Rightarrow (P) \perp (Q)$).
 - **Giải thích (VI):** Định lí khẳng định hai mặt phẳng $(P)$ và $(Q)$ vuông góc với nhau nếu mặt phẳng này chứa một đường thẳng vuông góc với mặt phẳng kia ($b \subset (P), b \perp (Q) \Rightarrow (P) \perp (Q)$).
 - **Bối cảnh:** Toán học lớp 11, Bài 25 (Mục 2): Chứng minh hai mặt phẳng vuông góc bằng cách chỉ ra mặt phẳng này chứa một đường thẳng vuông góc với mặt phẳng kia.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 2), tr. 45, 46
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 2), tr. 45, 46; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 1), tr. 45; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 2), tr. 45
 
 ### cross product
 - **Tiếng Việt:** Tích có hướng
@@ -2063,6 +2409,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Chỉ tích nhân chéo tử và mẫu giữa hai tỉ số trong đại số sơ cấp, không nhầm với tích có hướng (vector cross product) của hai vectơ trong hình học không gian.
 - **Nguồn:** SGK Toán 7 KNTT Tập 2, Chương 06, B20 (Mục 1), tr. 6; SGK Toán 7 KNTT Tập 2, Chương 06, B20 (Mục 2), tr. 6; SGK Toán 7 KNTT Tập 2, Chương 06, B20 (Mục 2), tr. 6, 7
 
+### cross section
+- **Tiếng Việt:** Mặt cắt
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The common plane region formed when cutting a solid figure by a plane; when a solid sphere is cut by a plane, its cross section is always a circular disk.
+- **Giải thích (VI):** Phần chung tạo bởi giao của một mặt phẳng cắt với một hình khối; khi cắt một hình cầu bởi một mặt phẳng, mặt cắt thu được luôn là một hình tròn.
+- **Bối cảnh:** Toán học lớp 9, Bài 32 (Mục 1): Xác định hình dạng phần chung của một mặt phẳng cắt với hình cầu.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 1), tr. 102; SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 1), tr. 103; SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 2), tr. 103
+
 ### cube
 - **Tiếng Việt:** Hình lập phương
 - **Chuyên ngành gốc:** Toán học
@@ -2072,7 +2426,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 11, Bài 25 (Mục 5e): Định nghĩa chính xác hình lập phương từ lớp hình hộp chữ nhật có các cạnh bằng nhau.
   - Toán học lớp 7, Bài 36 (Mục 1): Nhận diện hình lập phương và các yếu tố cơ bản của nó trong không gian.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5.e), tr. 50; SGK Toán 7 KNTT Tập 2, Chương 10, B36, tr. 85; SGK Toán 7 KNTT Tập 2, Chương 10, B36 (Mục 1), tr. 86; SGK Toán 7 KNTT Tập 2, Chương 10, B36 (Mục 1), tr. 86, 87
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5.e), tr. 50; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5.d), tr. 50; SGK Toán 7 KNTT Tập 2, Chương 10, B36, tr. 85; SGK Toán 7 KNTT Tập 2, Chương 10, B36 (Mục 1), tr. 86; SGK Toán 7 KNTT Tập 2, Chương 10, B36 (Mục 1), tr. 86, 87
 
 ### cube of a difference
 - **Tiếng Việt:** Lập phương của một hiệu
@@ -2099,6 +2453,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hằng đẳng thức đáng nhớ biểu diễn lập phương của tổng hai biểu thức $A, B$ tuỳ ý theo công thức $(A + B)^3 = A^3 + 3A^2B + 3AB^2 + B^3$.
 - **Bối cảnh:** Toán học lớp 8, Bài 7 (Mục 1): Khai triển luỹ thừa bậc ba của một tổng hoặc thu gọn biểu thức bốn hạng tử về dạng $(A + B)^3$.
 - **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 02, B7, tr. 34; SGK Toán 8 KNTT Tập 1, Chương 02, B7 (Mục 1), tr. 34; SGK Toán 8 KNTT Tập 1, Chương 02, B7 (Mục 1), tr. 34, 35
+
+### cube root
+- **Tiếng Việt:** Căn bậc ba
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The unique real number $x$ satisfying $x^3 = a$ for a given real number $a$, denoted by $\sqrt[3]{a}$. Every real number $a$ has a unique cube root satisfying $\left(\sqrt[3]{a}\right)^3 = \sqrt[3]{a^3} = a$.
+- **Giải thích (VI):** Số thực $x$ duy nhất thỏa mãn $x^3 = a$ đối với một số thực $a$ cho trước, kí hiệu là $\sqrt[3]{a}$. Mỗi số thực $a$ đều có duy nhất một căn bậc ba và thỏa mãn $\left(\sqrt[3]{a}\right)^3 = \sqrt[3]{a^3} = a$.
+- **Bối cảnh:** Toán học lớp 9, Bài 10 (Mục 1): tính căn bậc ba của mọi số thực (dương, âm hoặc $0$) và phân biệt với điều kiện không âm của căn bậc hai.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B10, tr. 60; SGK Toán 9 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 60; SGK Toán 9 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 60, 61
+
+### cube root expression
+- **Tiếng Việt:** Căn thức bậc ba
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** An expression of the form $\sqrt[3]{A}$, where $A$ is an algebraic expression satisfying $\left(\sqrt[3]{A}\right)^3 = \sqrt[3]{A^3} = A$ for all values at which $A$ is defined.
+- **Giải thích (VI):** Biểu thức có dạng $\sqrt[3]{A}$, trong đó $A$ là một biểu thức đại số và thỏa mãn $\left(\sqrt[3]{A}\right)^3 = \sqrt[3]{A^3} = A$ với mọi biểu thức $A$ xác định.
+- **Bối cảnh:** Toán học lớp 9, Bài 10 (Mục 2): tìm điều kiện xác định, tính giá trị và rút gọn biểu thức chứa căn thức bậc ba.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B10, tr. 60; SGK Toán 9 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 61; SGK Toán 9 KNTT Tập 1, Chương 03, B10 (Mục 2), tr. 61
+
+### cube root extraction
+- **Tiếng Việt:** Phép khai căn bậc ba
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The mathematical operation of finding the cube root $\sqrt[3]{a}$ of a given real number $a$.
+- **Giải thích (VI):** Phép toán tìm căn bậc ba $\sqrt[3]{a}$ của một số thực $a$ cho trước.
+- **Bối cảnh:** Toán học lớp 9, Bài 10 (Mục 1): tìm căn bậc ba của một số thực bằng định nghĩa lũy thừa bậc ba hoặc bằng máy tính cầm tay.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B10, tr. 60; SGK Toán 9 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 60; SGK Toán 9 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 60, 61
 
 ### cumulative frequency graph
 - **Tiếng Việt:** Đồ thị tần số tích luỹ
@@ -2131,6 +2509,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$ liên tục và không âm trên đoạn $[a; b]$, trục hoành ($y = 0$) và hai đường thẳng $x = a, x = b$ ($a < b$).
 - **Bối cảnh:** Toán học lớp 12, Bài 12 (Mục 1.a): Mô hình hình học dẫn dắt trực tiếp đến bài toán diện tích và định nghĩa tích phân.
 - **Nguồn:** SGK Toán 12 KNTT Tập 2, Chương 04, B12, tr. 12; SGK Toán 12 KNTT Tập 2, Chương 04, B12 (Mục 1.a), tr. 12; SGK Toán 12 KNTT Tập 2, Chương 04, B12 (Mục 1.a), tr. 12, 13
+
+### cyclic quadrilateral
+- **Tiếng Việt:** Tứ giác nội tiếp (tứ giác nội tiếp đường tròn)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A quadrilateral whose four vertices all lie on a single circle.
+- **Giải thích (VI):** Tứ giác có cả bốn đỉnh cùng nằm trên một đường tròn.
+- **Bối cảnh:** Toán học lớp 9, Bài 29 (Mục 1): nhận biết và chứng minh bốn điểm cùng thuộc một đường tròn thông qua tứ giác nội tiếp.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B29, tr. 80; SGK Toán 9 KNTT Tập 2, Chương 09, B29 (Mục 1), tr. 80; SGK Toán 9 KNTT Tập 2, Chương 09, B29 (Mục 1), tr. 80, 81
 
 ### data
 - **Tiếng Việt:** Dữ liệu
@@ -2173,6 +2559,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quy trình hai bước chuyển mẫu số liệu không ghép nhóm sang mẫu số liệu ghép nhóm: chia miền giá trị thành các nhóm không giao nhau theo tiêu chí cho trước, sau đó đếm tần số của từng nhóm để lập bảng thống kê ghép nhóm.
 - **Bối cảnh:** Toán học lớp 11, Bài 8 (Mục 2): quy tắc lập bảng tần số ghép nhóm từ mẫu số liệu thô.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 03, B8 (Mục 2), tr. 60; SGK Toán 11 KNTT Tập 1, Chương 03, B8 (Mục 2), tr. 60, 61
+
+### data sample
+- **Tiếng Việt:** Mẫu dữ liệu
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A sequence of data collected from an empirical survey or observation, representing a subset of data from the entire target population under study.
+- **Giải thích (VI):** Dãy dữ liệu thu thập được từ một cuộc khảo sát hoặc quan sát thực tế, đại diện cho một phần dữ liệu của toàn bộ đối tượng cần tìm hiểu.
+- **Bối cảnh:** Toán học lớp 9, Bài 22 (Mục 1): Tập hợp dữ liệu đầu vào thu được từ khảo sát để lập bảng tần số và phân tích thống kê.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 33; SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 33, 34; SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 34
 
 ### decimal addition rule
 - **Tiếng Việt:** Quy tắc cộng hai số thập phân (cộng hai số thập phân âm; cộng hai số thập phân khác dấu)
@@ -2246,6 +2640,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Đơn vị đo góc trong hình học ($1^\circ$), phân biệt với độ C ($^\circ\text{C}$) đo nhiệt độ trong vật lí và đời sống.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 1.b), tr. 8; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 2.a), tr. 8; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 2.a), tr. 8, 9; SGK Toán 6 KNTT Tập 2, Chương 08, B37, tr. 66; SGK Toán 6 KNTT Tập 2, Chương 08, B37 (Mục 1), tr. 66; SGK Toán 6 KNTT Tập 2, Chương 08, B37 (Mục 1), tr. 67
 
+### degree measure of an arc
+- **Tiếng Việt:** Số đo của một cung (cung $n^\circ$)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The degree measure of a circular arc (denoted $m\overset{\frown}{AB}$): equal to $180^\circ$ for a semicircle, equal to the measure of its central angle for a minor arc, and equal to $360^\circ$ minus the measure of the minor arc sharing its endpoints for a major arc.
+- **Giải thích (VI):** Đại lượng đo bằng độ của cung tròn (kí hiệu $\text{sđ}\overset{\frown}{AB}$): bằng $180^\circ$ đối với nửa đường tròn, bằng số đo góc ở tâm chắn cung đối với cung nhỏ, và bằng hiệu giữa $360^\circ$ với số đo cung nhỏ chung hai mút đối với cung lớn.
+- **Bối cảnh:** Toán học lớp 9, Bài 14 (Mục 2): Xác định số đo góc của cung tròn làm cơ sở tính độ dài cung và diện tích hình quạt tròn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 2), tr. 89; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 2), tr. 89, 90
+
 ### degree of a monomial
 - **Tiếng Việt:** Bậc của đơn thức (bậc)
 - **Chuyên ngành gốc:** Toán học
@@ -2297,6 +2699,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đa thức $B$ khác đa thức $0$ viết ở dưới dấu gạch ngang trong phân thức đại số $\frac{A}{B}$ (với $A, B$ là hai đa thức).
 - **Bối cảnh:** Toán học lớp 8, Bài 21 (Mục 1): Xác định thành phần đa thức chia và xét điều kiện xác định của phân thức đại số.
 - **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 06, B21, tr. 4; SGK Toán 8 KNTT Tập 2, Chương 06, B21 (Mục 1), tr. 5; SGK Toán 8 KNTT Tập 2, Chương 06, B21 (Mục 1), tr. 5, 6
+
+### denominator rationalization formulas
+- **Tiếng Việt:** Các công thức trục căn thức ở mẫu
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The set of identities used to eliminate square roots from denominators: $\dfrac{A}{\sqrt{B}} = \dfrac{A\sqrt{B}}{B}$ ($B > 0$); $\dfrac{C}{\sqrt{A} \pm B} = \dfrac{C\left(\sqrt{A} \mp B\right)}{A - B^2}$ ($A \ge 0, A \ne B^2$); and $\dfrac{C}{\sqrt{A} \pm \sqrt{B}} = \dfrac{C\left(\sqrt{A} \mp \sqrt{B}\right)}{A - B}$ ($A \ge 0, B \ge 0, A \ne B$).
+- **Giải thích (VI):** Hệ thống các đẳng thức dùng để khử căn bậc hai ở mẫu: $\dfrac{A}{\sqrt{B}} = \dfrac{A\sqrt{B}}{B}$ ($B > 0$); $\dfrac{C}{\sqrt{A} \pm B} = \dfrac{C\left(\sqrt{A} \mp B\right)}{A - B^2}$ ($A \ge 0, A \ne B^2$); và $\dfrac{C}{\sqrt{A} \pm \sqrt{B}} = \dfrac{C\left(\sqrt{A} \mp \sqrt{B}\right)}{A - B}$ ($A \ge 0, B \ge 0, A \ne B$).
+- **Bối cảnh:** Toán học lớp 9, Bài 9 (Mục 3): lựa chọn nhân tử phụ hoặc biểu thức liên hợp phù hợp để khử căn bậc hai ở mẫu của phân thức.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B9 (Mục 3), tr. 57; SGK Toán 9 KNTT Tập 1, Chương 03, B9 (Mục 4), tr. 57, 58
 
 ### dependent variable
 - **Tiếng Việt:** Biến phụ thuộc
@@ -2384,7 +2794,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A method for finding the angle between two skew lines $a$ and $b$ by choosing a point $O$ on line $a$ and drawing a line $b'$ through $O$ parallel to $b$, yielding $(a, b) = (a, b')$.
 - **Giải thích (VI):** Phương pháp xác định góc giữa hai đường thẳng chéo nhau $a$ và $b$ bằng cách lấy một điểm $O$ thuộc đường thẳng $a$ và qua đó kẻ đường thẳng $b'$ song song với $b$, thu được $(a, b) = (a, b')$.
 - **Bối cảnh:** Toán học lớp 11, Bài 22 (Mục 1): Quy bài toán tính góc giữa hai đường thẳng chéo nhau về góc giữa hai đường thẳng cắt nhau.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 28, 29
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 28, 29; SGK Toán 11 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 28
 
 ### deviation from the mean
 - **Tiếng Việt:** Độ lệch
@@ -2411,6 +2821,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đoạn thẳng nối hai đỉnh đối nhau của một tứ giác, chẳng hạn $AC$ và $BD$ trong tứ giác $ABCD$. Trong tứ giác lồi, hai đường chéo cắt nhau tại một điểm nằm giữa mỗi đường.
 - **Bối cảnh:** Toán học lớp 8, Bài 10 (Mục 1): chia tứ giác thành các tam giác để tính tổng góc và xét tính chất, dấu hiệu nhận biết các tứ giác đặc biệt.
 - **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 03, B10, tr. 48; SGK Toán 8 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 49; SGK Toán 8 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 49, 50
+
+### diameter of a circle
+- **Tiếng Việt:** Đường kính của đường tròn (đường kính)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A chord passing through the center of a circle; in a circle of radius $R$, every diameter has length equal to $2R$.
+- **Giải thích (VI):** Dây cung đi qua tâm của đường tròn; đường kính của đường tròn bán kính $R$ có độ dài bằng $2R$.
+- **Bối cảnh:** Toán học lớp 9, Bài 14 (Mục 1): xác định đường kính như dây đi qua tâm và tính độ dài đường kính theo bán kính.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B14, tr. 87; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 1), tr. 87; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 1), tr. 87, 88
 
 ### diameter of a sphere
 - **Tiếng Việt:** Đường kính của mặt cầu (đường kính)
@@ -2527,7 +2945,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A spatial figure consisting of two half-planes $(P)$ and $(Q)$ sharing a common boundary line $a$, denoted by $[P, a, Q]$. The line $a$ is the edge and the two half-planes $(P)$ and $(Q)$ are the faces of the dihedral angle.
 - **Giải thích (VI):** Hình không gian gồm hai nửa mặt phẳng $(P)$ và $(Q)$ có chung bờ là đường thẳng $a$, kí hiệu $[P, a, Q]$. Đường thẳng $a$ là cạnh và hai nửa mặt phẳng $(P), (Q)$ là các mặt của góc nhị diện đó.
 - **Bối cảnh:** Toán học lớp 11, Bài 25 (Mục 4): Mô tả hình tạo bởi hai nửa mặt phẳng chung bờ trong không gian và ứng dụng xác định kinh độ địa lí.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 4), tr. 47; SGK Toán 11 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 111
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 4), tr. 47; SGK Toán 11 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 111; SGK Toán 11 KNTT Tập 2, Chương 07, B25, tr. 44; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 3), tr. 47
 
 ### direct data collection
 - **Tiếng Việt:** Thu thập dữ liệu trực tiếp
@@ -2591,12 +3009,26 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 63; SGK Toán 11 KNTT Tập 1, Chương 03, B9 (Mục 2), tr. 63; SGK Toán 11 KNTT Tập 1, Chương 03, B9 (Mục 2), tr. 63, 64; SGK Toán 8 KNTT Tập 1, Chương 05, B18, tr. 90; SGK Toán 8 KNTT Tập 1, Chương 05, B18 (Mục 1), tr. 91; SGK Toán 8 KNTT Tập 1, Chương 05, B18 (Mục 2), tr. 91
 
 ### discriminant
-- **Tiếng Việt:** Biệt thức (biệt thức thu gọn)
+- **Tiếng Việt:** Biệt thức (biệt thức thu gọn; biệt thức $\Delta$)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** Algebraic quantity $\Delta = b^2 - 4ac$ associated with a quadratic trinomial $ax^2 + bx + c$ ($a \ne 0$), used to determine the number of real roots and the sign of the trinomial. When $b = 2b'$, the corresponding expression $\Delta' = b'^2 - ac$ serves as the reduced discriminant.
 - **Giải thích (VI):** Đại lượng đại số $\Delta = b^2 - 4ac$ gắn với tam thức bậc hai $ax^2 + bx + c$ ($a \ne 0$), dùng để xác định số nghiệm thực và xét dấu của tam thức. Khi $b = 2b'$, biểu thức tương ứng $\Delta' = b'^2 - ac$ đóng vai trò là biệt thức thu gọn của tam thức bậc hai.
-- **Bối cảnh:** Toán học lớp 10, Bài 17 (Mục 1): Tính toán để tìm nghiệm và xét dấu của tam thức bậc hai trên $\mathbb{R}$.
-- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 06, B17, tr. 19; SGK Toán 10 KNTT Tập 2, Chương 06, B17 (Mục 1), tr. 19; SGK Toán 10 KNTT Tập 2, Chương 06, B17 (Mục 1), tr. 19, 20
+- **Giải thích khác (SGK Toán 9 Tập 2):** EN: The algebraic quantity denoted by $\Delta = b^2 - 4ac$ for a quadratic equation $ax^2 + bx + c = 0$ ($a \ne 0$), used to determine the number of real roots and formulate the quadratic formula. / VI: Đại lượng đại số kí hiệu bởi $\Delta = b^2 - 4ac$ của phương trình bậc hai $ax^2 + bx + c = 0$ ($a \ne 0$), dùng để biện luận số nghiệm thực và thiết lập công thức nghiệm của phương trình.
+- **Bối cảnh:**
+  - Toán học lớp 10, Bài 17 (Mục 1): Tính toán để tìm nghiệm và xét dấu của tam thức bậc hai trên $\mathbb{R}$.
+  - Toán học lớp 9, Bài 19 (Mục 3): Xét dấu của $\Delta$ để xác định phương trình bậc hai có hai nghiệm phân biệt, nghiệm kép hay vô nghiệm.
+  - *Lưu ý:* Scoped in Grade 9 to the discriminant Δ = b^2 - 4ac of a quadratic equation, distinct from higher-degree polynomial discriminants.
+- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 06, B17, tr. 19; SGK Toán 10 KNTT Tập 2, Chương 06, B17 (Mục 1), tr. 19; SGK Toán 10 KNTT Tập 2, Chương 06, B17 (Mục 1), tr. 19, 20; SGK Toán 9 KNTT Tập 2, Chương 06, B19, tr. 10; SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 2), tr. 13; SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 3), tr. 13
+
+### disk
+- **Tiếng Việt:** Hình tròn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The figure consisting of all points lying on and inside the circle $(O; R)$ ($R > 0$), that is, all points at a distance less than or equal to $R$ from the center $O$.
+- **Giải thích (VI):** Hình gồm tất cả các điểm nằm trên và nằm trong đường tròn $(O; R)$ ($R > 0$), tức là các điểm cách tâm $O$ một khoảng nhỏ hơn hoặc bằng $R$.
+- **Bối cảnh:**
+  - Toán học lớp 9, Bài 13 (Mục 1): phân biệt hình tròn với đường tròn khi tính toán diện tích và xác định miền điểm.
+  - *Lưu ý:* Trong đời sống đôi khi dùng lẫn lộn hai từ "đường tròn" và "hình tròn"; trong hình học, đường tròn chỉ gồm các điểm cách tâm đúng bằng $R$, còn hình tròn gồm cả các điểm nằm trên và nằm trong đường tròn đó.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B13, tr. 83; SGK Toán 9 KNTT Tập 1, Chương 05, B13 (Mục 1), tr. 84; SGK Toán 9 KNTT Tập 1, Chương 05, B13 (Mục 2), tr. 86
 
 ### distance between a line and a parallel plane
 - **Tiếng Việt:** Khoảng cách giữa đường thẳng và mặt phẳng song song
@@ -2604,7 +3036,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The perpendicular distance from any point on a line $a$ to a plane $(P)$ parallel to $a$, denoted by $\text{d}(a, (P))$.
 - **Giải thích (VI):** Khoảng cách từ một điểm bất kì trên đường thẳng $a$ đến mặt phẳng $(P)$ song song với $a$, kí hiệu là $\text{d}(a, (P))$.
 - **Bối cảnh:** Toán học lớp 11, Bài 26 (Mục 2): Quy bài toán khoảng cách giữa đường thẳng và mặt phẳng song song về khoảng cách từ một điểm thuộc đường thẳng đến mặt phẳng.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 2), tr. 55, 56
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 2), tr. 55, 56; SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 1), tr. 55; SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 2), tr. 55
 
 ### distance between two parallel lines
 - **Tiếng Việt:** Khoảng cách giữa hai đường thẳng song song
@@ -2612,7 +3044,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The perpendicular distance from a point on one line to the other line for two parallel lines $m$ and $n$, denoted by $\text{d}(m, n)$.
 - **Giải thích (VI):** Khoảng cách từ một điểm thuộc đường thẳng này đến đường thẳng kia đối với hai đường thẳng song song $m$ và $n$, kí hiệu là $\text{d}(m, n)$.
 - **Bối cảnh:** Toán học lớp 11, Bài 26 (Mục 2): Tính khoảng cách không đổi giữa hai đường thẳng song song thông qua một điểm thuộc đường thẳng này đến đường thẳng kia.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 2), tr. 56, 57
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 2), tr. 56, 57; SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 2), tr. 56
 
 ### distance between two parallel planes
 - **Tiếng Việt:** Khoảng cách giữa hai mặt phẳng song song
@@ -2620,7 +3052,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The perpendicular distance from any point belonging to one plane to the other plane for two parallel planes $(P)$ and $(Q)$, denoted by $\text{d}((P), (Q))$.
 - **Giải thích (VI):** Khoảng cách từ một điểm bất kì thuộc mặt phẳng này đến mặt phẳng kia đối với hai mặt phẳng song song $(P)$ và $(Q)$, kí hiệu là $\text{d}((P), (Q))$.
 - **Bối cảnh:** Toán học lớp 11, Bài 26 (Mục 2): Tính khoảng cách giữa hai mặt phẳng song song và xác định chiều cao hình lăng trụ, hình hộp.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 2), tr. 56, 57
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 2), tr. 56, 57; SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 2), tr. 56; SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 3), tr. 58
 
 ### distance between two points
 - **Tiếng Việt:** Khoảng cách giữa hai điểm (khoảng cách)
@@ -2644,7 +3076,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The length of the segment $MN$ cut off on the common perpendicular $\Delta$ by two skew lines $a$ and $b$ at their respective intersection points $M$ and $N$, denoted by $\text{d}(a, b) = MN$.
 - **Giải thích (VI):** Độ dài đoạn thẳng $MN$ khi đường vuông góc chung $\Delta$ cắt hai đường thẳng chéo nhau $a$ và $b$ tương ứng tại hai điểm $M$ và $N$, kí hiệu là $\text{d}(a, b) = MN$.
 - **Bối cảnh:** Toán học lớp 11, Bài 26 (Mục 3): Tính khoảng cách giữa hai đường thẳng chéo nhau thông qua đoạn vuông góc chung hoặc mặt phẳng song song.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 3), tr. 57, 58
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 3), tr. 57, 58; SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 2), tr. 57; SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 3), tr. 57
 
 ### distance from a point to a line
 - **Tiếng Việt:** Khoảng cách từ một điểm đến một đường thẳng (khoảng cách)
@@ -2848,6 +3280,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 7, Bài 28 (Mục 1): xác định thành phần đứng sau dấu chia (với điều kiện khác đa thức không) trong phép chia đa thức.
 - **Nguồn:** SGK Toán 7 KNTT Tập 2, Chương 07, B28, tr. 39; SGK Toán 7 KNTT Tập 2, Chương 07, B28 (Mục 1), tr. 39; SGK Toán 7 KNTT Tập 2, Chương 07, B28 (Mục 1), tr. 39, 40
 
+### domain condition of a square root expression
+- **Tiếng Việt:** Điều kiện xác định của căn thức bậc hai (điều kiện xác định; điều kiện có nghĩa)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The inequality condition $A \ge 0$ requiring the radicand $A$ to take non-negative values so that the square root expression $\sqrt{A}$ is defined.
+- **Giải thích (VI):** Hệ thức $A \ge 0$ buộc biểu thức lấy căn $A$ nhận giá trị không âm để căn thức bậc hai $\sqrt{A}$ xác định (có nghĩa).
+- **Bối cảnh:** Toán học lớp 9, Bài 7 (Mục 2): thiết lập và giải bất phương trình $A \ge 0$ để tìm các giá trị của biến làm cho $\sqrt{A}$ có nghĩa.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B7, tr. 44; SGK Toán 9 KNTT Tập 1, Chương 03, B7 (Mục 1), tr. 46; SGK Toán 9 KNTT Tập 1, Chương 03, B7 (Mục 2), tr. 46
+
 ### domain condition of an algebraic fraction
 - **Tiếng Việt:** Điều kiện xác định của phân thức (điều kiện xác định)
 - **Chuyên ngành gốc:** Toán học
@@ -2855,6 +3295,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Điều kiện của các biến để giá trị của mẫu thức $B$ trong phân thức đại số $\frac{A}{B}$ khác $0$ ($B \ne 0$), giúp phép chia thực hiện được khi tính giá trị của phân thức.
 - **Bối cảnh:** Toán học lớp 8, Bài 21 (Mục 3): Xét điều kiện của biến trước khi tính giá trị của phân thức hoặc giải toán liên quan.
 - **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 06, B21, tr. 4; SGK Toán 8 KNTT Tập 2, Chương 06, B21 (Mục 3), tr. 7; SGK Toán 8 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 139
+
+### domain condition of an equation
+- **Tiếng Việt:** Điều kiện xác định của phương trình (điều kiện xác định; ĐKXĐ)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The condition imposed on the unknown of an equation with the unknown in the denominator so that all denominators in the equation are nonzero.
+- **Giải thích (VI):** Điều kiện đặt cho ẩn của phương trình chứa ẩn ở mẫu để tất cả các mẫu thức trong phương trình đều khác $0$.
+- **Bối cảnh:** Toán học lớp 9, Bài 4 (Mục 2): Đặt điều kiện cho ẩn trước khi quy đồng khử mẫu và đối chiếu để chọn nghiệm hợp lệ.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 02, B4 (Mục 1), tr. 28; SGK Toán 9 KNTT Tập 1, Chương 02, B4 (Mục 2), tr. 28; SGK Toán 9 KNTT Tập 1, Chương 02, B4 (Mục 2), tr. 28, 29
 
 ### domain of a function
 - **Tiếng Việt:** Tập xác định
@@ -2910,6 +3358,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 6, Bài 41 (Mục 1): Dạng biểu diễn tương đương với biểu đồ cột kép dùng các cặp thanh nằm ngang để so sánh hai nhóm đối tượng.
 - **Nguồn:** SGK Toán 6 KNTT Tập 2, Chương 09, B41 (Mục 1), tr. 90
 
+### double root
+- **Tiếng Việt:** Nghiệm kép
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The single real value counted as two coinciding roots $x_1 = x_2 = -\frac{b}{2a}$ of a quadratic equation $ax^2 + bx + c = 0$ ($a \ne 0$) when its discriminant satisfies $\Delta = b^2 - 4ac = 0$.
+- **Giải thích (VI):** Nghiệm duy nhất tính như hai nghiệm trùng nhau $x_1 = x_2 = -\frac{b}{2a}$ của phương trình bậc hai $ax^2 + bx + c = 0$ ($a \ne 0$) khi biệt thức $\Delta = b^2 - 4ac = 0$.
+- **Bối cảnh:** Toán học lớp 9, Bài 19 (Mục 3): Xác định trường hợp hai nghiệm trùng nhau khi $\Delta = 0$ trong giải phương trình bậc hai và áp dụng định lí Viète.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 2), tr. 13; SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 3), tr. 13; SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 3), tr. 13, 14
+
 ### double-angle identities
 - **Tiếng Việt:** Công thức nhân đôi
 - **Chuyên ngành gốc:** Toán học
@@ -2917,6 +3373,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hệ thống các đồng nhất thức biểu diễn giá trị lượng giác của góc $2a$ theo góc $a$ (khi các biểu thức có nghĩa), gồm $\sin 2a = 2\sin a \cos a$, $\cos 2a = \cos^2 a - \sin^2 a = 2\cos^2 a - 1 = 1 - 2\sin^2 a$ và $\tan 2a = \frac{2\tan a}{1 - \tan^2 a}$.
 - **Bối cảnh:** Toán học lớp 11, Bài 2 (Mục 2): Hệ quả trực tiếp của công thức cộng khi cho hai góc bằng nhau, dùng để biến đổi biểu thức lượng giác.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 01, B2, tr. 17; SGK Toán 11 KNTT Tập 1, Chương 01, B2 (Mục 1), tr. 18; SGK Toán 11 KNTT Tập 1, Chương 01, B2 (Mục 2), tr. 18
+
+### drawing a frequency polygon
+- **Tiếng Việt:** Cách vẽ biểu đồ tần số dạng đoạn thẳng
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A three-step procedure for representing a data sequence as a line-segment frequency chart: draw a horizontal axis for data values and a vertical axis for frequencies; plot the points corresponding to each value-frequency pair and connect consecutive points with line segments; label the axes, plotted points, and chart title.
+- **Giải thích (VI):** Quy trình ba bước biểu diễn dãy dữ liệu bằng biểu đồ đoạn thẳng: vẽ trục ngang biểu diễn các giá trị trong dãy dữ liệu và trục đứng thể hiện tần số; xác định một điểm ứng với mỗi giá trị trên trục ngang cùng tần số tương ứng rồi nối các điểm liên tiếp với nhau; ghi chú giải cho các trục, các điểm và tiêu đề của biểu đồ.
+- **Bối cảnh:** Toán học lớp 9, Bài 22 (Mục 2): quy trình dựng biểu đồ tần số dạng đoạn thẳng để biểu diễn trực quan sự thay đổi tần số của dãy dữ liệu.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 2), tr. 35; SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 2), tr. 35, 36
+
+### drawing a grouped relative frequency polygon
+- **Tiếng Việt:** Các bước vẽ biểu đồ tần số tương đối ghép nhóm dạng đoạn thẳng
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A four-step procedure for plotting a grouped relative frequency polygon: compute the class midpoint $x_i = \dfrac{a_i + a_{i+1}}{2}$ for each class $[a_i, a_{i+1})$ ($i = 1, 2, \dots, k$); draw a horizontal axis for class midpoints and a vertical axis for relative frequencies; plot the points $M_i(x_i, f_i)$ and connect consecutive points with line segments; label the axes, points, and chart title.
+- **Giải thích (VI):** Quy trình bốn bước vẽ biểu đồ đoạn thẳng cho mẫu số liệu ghép nhóm: chọn giá trị đại diện $x_i = \dfrac{a_i + a_{i+1}}{2}$ cho từng nhóm $[a_i; a_{i+1})$ ($i = 1, 2, \dots, k$); vẽ trục ngang biểu diễn các giá trị đại diện và trục đứng thể hiện tần số tương đối; xác định các điểm $M_i(x_i; f_i)$ rồi nối các điểm liên tiếp với nhau; ghi chú giải cho các trục, các điểm và tiêu đề biểu đồ.
+- **Bối cảnh:** Toán học lớp 9, Bài 24 (Mục 3): quy trình thực hành vẽ biểu đồ đoạn thẳng từ bảng tần số tương đối ghép nhóm.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 3), tr. 51; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 3), tr. 51, 52
+
+### drawing a pie chart
+- **Tiếng Việt:** Cách vẽ biểu đồ hình quạt tròn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A three-step procedure for constructing a pie chart of relative frequencies: determine the arc measure of each sector using the formula $360^\circ \cdot f_i$ ($i = 1, \dots, k$); draw a circle and partition it into sectors with the calculated arc measures; format (typically by coloring) the sectors and add the relative frequencies, legend, and chart title.
+- **Giải thích (VI):** Quy trình ba bước biểu diễn tần số tương đối bằng biểu đồ hình quạt tròn: xác định số đo cung tương ứng của từng hình quạt theo công thức $360^\circ \cdot f_i$ ($i = 1, \dots, k$); vẽ hình tròn và chia thành các hình quạt có số đo cung vừa xác định; định dạng (thường bằng cách tô màu) các hình quạt tròn, ghi tần số tương đối, chú giải và tiêu đề.
+- **Bối cảnh:** Toán học lớp 9, Bài 23 (Mục 2): dựng biểu đồ hình quạt tròn từ bảng tần số tương đối để biểu diễn tỉ phần của từng giá trị.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B23 (Mục 2), tr. 40; SGK Toán 9 KNTT Tập 2, Chương 07, B23 (Mục 2), tr. 40, 41
+
+### drawing a relative frequency histogram
+- **Tiếng Việt:** Cách vẽ biểu đồ tần số tương đối ghép nhóm dạng cột
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A three-step procedure for constructing a relative frequency histogram when all class intervals have equal width: draw a vertical axis scaled for relative frequencies and a horizontal axis marked with the class intervals; construct adjacent bars whose heights equal the relative frequencies of the respective classes; label the axes, bars, and chart title.
+- **Giải thích (VI):** Quy trình ba bước dựng biểu đồ cột cho bảng tần số tương đối ghép nhóm có các nhóm cùng độ dài: vẽ trục đứng có đơn vị phù hợp với tần số tương đối và trục ngang biểu diễn các nhóm số liệu; dựng các hình cột kề nhau có chiều cao bằng tần số tương đối của từng nhóm; ghi chú giải cho các trục, các cột và tiêu đề biểu đồ.
+- **Bối cảnh:** Toán học lớp 9, Bài 24 (Mục 2): quy trình dựng tổ chức đồ tần số tương đối khi các nhóm số liệu có độ dài bằng nhau.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 49; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 2), tr. 49; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 2), tr. 49, 50
 
 ### element of a set
 - **Tiếng Việt:** Phần tử của tập hợp (phần tử; thuộc; không thuộc)
@@ -2933,6 +3421,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hàm số tạo thành từ các hàm số sơ cấp cơ bản thông qua một số hữu hạn các phép toán cộng, trừ, nhân, chia, phép lấy căn và phép lấy hàm hợp.
 - **Bối cảnh:** Toán học lớp 11, Bảng giải thích thuật ngữ: Khái niệm tổng quát bao hàm các hàm số có thể tính đạo hàm bằng quy tắc đại số và đạo hàm hàm hợp.
 - **Nguồn:** SGK Toán 11 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 111
+
+### eliminating the denominator of a radicand
+- **Tiếng Việt:** Khử mẫu của biểu thức lấy căn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The transformation of a square root expression whose radicand contains a denominator into an equivalent expression in which no denominator remains under the radical sign.
+- **Giải thích (VI):** Phép biến đổi một căn thức bậc hai có biểu thức dưới dấu căn chứa mẫu thành một biểu thức tương đương mà trong căn thức không còn mẫu.
+- **Bối cảnh:** Toán học lớp 9, Bài 9 (Mục 1): biến đổi căn bậc hai của phân số hoặc phân thức để trong dấu căn không còn mẫu.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 55; SGK Toán 9 KNTT Tập 1, Chương 03, B9 (Mục 2), tr. 55; SGK Toán 9 KNTT Tập 1, Chương 03, B9 (Mục 2), tr. 55, 56
+
+### elimination method
+- **Tiếng Việt:** Phương pháp cộng đại số
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A method for solving a system of two linear equations in two unknowns by multiplying both sides of each equation by suitable nonzero numbers (if needed) so that the coefficients of one unknown are equal or opposite, then adding or subtracting the equations side by side to obtain an equation in one unknown. Solving this single-unknown equation yields the solution of the given system.
+- **Giải thích (VI):** Phương pháp giải hệ hai phương trình bậc nhất hai ẩn bằng cách nhân hai vế của mỗi phương trình với số thích hợp khác $0$ (nếu cần) để hệ số của cùng một ẩn bằng nhau hoặc đối nhau, rồi cộng hay trừ từng vế để được phương trình chỉ còn chứa một ẩn. Giải phương trình một ẩn vừa nhận được sẽ suy ra nghiệm của hệ đã cho.
+- **Bối cảnh:** Toán học lớp 9, Bài 2 (Mục 2): Giải hệ hai phương trình bậc nhất hai ẩn bằng cách khử trực tiếp một ẩn qua phép cộng hoặc trừ từng vế.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 01, B2, tr. 11; SGK Toán 9 KNTT Tập 1, Chương 01, B2 (Mục 2), tr. 13; SGK Toán 9 KNTT Tập 1, Chương 01, B2 (Mục 2), tr. 13, 14
 
 ### ellipse
 - **Tiếng Việt:** Elip (đường elip)
@@ -2983,7 +3487,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 10, Bài 2 (Mục 1a): Biểu diễn tập nghiệm của phương trình vô nghiệm hoặc giao của hai tập hợp rời nhau.
   - Toán học lớp 6, Bài 1 (Mục 2): Nhận biết tập hợp không có phần tử nào khi xét các điều kiện xác định phần tử.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2, tr. 12; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.a), tr. 13; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.b), tr. 14; SGK Toán 6 KNTT Tập 1, Chương 01, B1, tr. 6; SGK Toán 6 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 7; SGK Toán 6 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 7
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2, tr. 12; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.a), tr. 13; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.b), tr. 14; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.b), tr. 13; SGK Toán 6 KNTT Tập 1, Chương 01, B1, tr. 6; SGK Toán 6 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 7; SGK Toán 6 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 7
 
 ### endpoint of a line segment
 - **Tiếng Việt:** Đầu mút của đoạn thẳng (đầu mút; mút)
@@ -2992,6 +3496,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hai điểm giới hạn $A$ và $B$ ở hai đầu của đoạn thẳng $AB$, dùng để xác định và đặt tên cho đoạn thẳng đó.
 - **Bối cảnh:** Toán học lớp 6, Bài 34 (Mục 1): xác định hai điểm giới hạn của đoạn thẳng và đếm số đoạn thẳng tạo bởi các điểm cho trước.
 - **Nguồn:** SGK Toán 6 KNTT Tập 2, Chương 08, B34, tr. 55; SGK Toán 6 KNTT Tập 2, Chương 08, B34 (Mục 1), tr. 55; SGK Toán 6 KNTT Tập 2, Chương 08, B34 (Mục 1), tr. 55, 56
+
+### endpoints of an arc
+- **Tiếng Việt:** Đầu mút của cung (hai mút; đầu mút)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The two points $A$ and $B$ lying on a circle that divide the circle into two circular arcs, forming the boundary endpoints of each arc.
+- **Giải thích (VI):** Hai điểm $A$ và $B$ cùng thuộc một đường tròn chia đường tròn đó thành hai cung tròn, đóng vai trò là hai điểm giới hạn của mỗi cung.
+- **Bối cảnh:** Toán học lớp 9, Bài 14 (Mục 2): xác định hai mút chung của cung nhỏ, cung lớn và dây căng cung trên đường tròn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 1), tr. 88; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 2), tr. 88; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 2), tr. 88, 89
 
 ### enlarged and reduced figures
 - **Tiếng Việt:** Cặp hình phóng to – thu nhỏ (hình phóng to; hình thu nhỏ)
@@ -3015,7 +3527,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Two sets $S$ and $T$ having the exact same elements, meaning every element of $T$ belongs to $S$ and vice versa, denoted by $S = T$. The equality $S = T$ holds if and only if both $S \subset T$ and $T \subset S$.
 - **Giải thích (VI):** Hai tập hợp $S$ và $T$ có cùng các phần tử, tức là mỗi phần tử của $T$ cũng là phần tử của $S$ và ngược lại, kí hiệu là $S = T$. Điều kiện $S = T$ tương đương với việc đồng thời có $S \subset T$ và $T \subset S$.
 - **Bối cảnh:** Toán học lớp 10, Bài 2 (Mục 1c): Chứng minh hai tập hợp bằng nhau thông qua quan hệ bao hàm hai chiều.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2, tr. 12; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.c), tr. 14; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.c), tr. 15
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2, tr. 12; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.c), tr. 14; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.c), tr. 15; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.b), tr. 14
 
 ### equal vectors
 - **Tiếng Việt:** Hai vectơ bằng nhau (bằng nhau)
@@ -3095,6 +3607,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Lớp các phương trình một ẩn $x$ có thể biến đổi về dạng $ax + b = 0$ bằng cách rút gọn, chuyển vế và nhân cả hai vế của phương trình với một số khác $0$ để giải tìm nghiệm.
 - **Bối cảnh:** Toán học lớp 8, Bài 25 (Mục 3): Giải các phương trình ẩn $x$ có biểu thức ở hai vế bằng cách biến đổi về dạng $ax + b = 0$.
 - **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 07, B25 (Mục 3), tr. 31; SGK Toán 8 KNTT Tập 2, Chương 07, B25 (Mục 3), tr. 31, 32
+
+### equation with the unknown in the denominator
+- **Tiếng Việt:** Phương trình chứa ẩn ở mẫu
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** An equation containing an expression of the unknown in at least one denominator, requiring attention to its domain condition so that all denominators are nonzero when solving.
+- **Giải thích (VI):** Phương trình có chứa biểu thức của ẩn số ở ít nhất một mẫu thức, đòi hỏi phải chú ý đến điều kiện xác định để mọi mẫu thức đều khác $0$ khi giải.
+- **Bối cảnh:** Toán học lớp 9, Bài 4 (Mục 2): Nhận diện lớp phương trình phân thức cần đặt điều kiện xác định để loại giá trị làm mẫu bằng $0$.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 02, B4, tr. 26; SGK Toán 9 KNTT Tập 1, Chương 02, B4 (Mục 1), tr. 28; SGK Toán 9 KNTT Tập 1, Chương 02, B4 (Mục 2), tr. 28
 
 ### equilateral triangle
 - **Tiếng Việt:** Hình tam giác đều (tam giác đều)
@@ -3265,6 +3785,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 10, Bài 12 (Mục 1): đối chiếu với số gần đúng để đánh giá sai số trong phép đo và tính toán.
 - **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 05, B12 (Mục 1), tr. 74; SGK Toán 10 KNTT Tập 1, Chương 05, B12 (Mục 2.a), tr. 74; SGK Toán 10 KNTT Tập 1, Chương 05, B12 (Mục 2.a), tr. 74, 75
 
+### excircle of a triangle
+- **Tiếng Việt:** Đường tròn bàng tiếp (đường tròn bàng tiếp của tam giác)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A circle lying outside a triangle that is tangent to one side and the extensions of the other two sides; specifically, the excircle of triangle $ABC$ in angle $A$ is tangent to side $BC$ and the opposite rays of $BA$ and $CA$.
+- **Giải thích (VI):** Đường tròn nằm ngoài tam giác và tiếp xúc với một cạnh cùng phần kéo dài của hai cạnh còn lại; cụ thể, đường tròn bàng tiếp của tam giác $ABC$ trong góc $A$ tiếp xúc với cạnh $BC$ và các tia đối của tia $BA$ và tia $CA$.
+- **Bối cảnh:** Toán học lớp 9, Bài 28 (Mục 2): nội dung đọc thêm mở rộng về ba đường tròn nằm ngoài tam giác và tiếp xúc với ba đường thẳng chứa các cạnh của tam giác.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B28 (Mục 2), tr. 77
+
 ### expanded form of a natural number
 - **Tiếng Việt:** Tổng giá trị các chữ số của một số tự nhiên
 - **Chuyên ngành gốc:** Toán học
@@ -3376,6 +3904,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 7, Bài 12 (Mục Vận dụng): Tính số đo góc ngoài hoặc góc trong của tam giác mà không cần tính qua góc kề bù trung gian.
 - **Nguồn:** SGK Toán 7 KNTT Tập 1, Chương 04, B12, tr. 62
 
+### externally and internally tangent circles
+- **Tiếng Việt:** Hai đường tròn tiếp xúc ngoài, tiếp xúc trong
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The two cases of tangent circles $(O; R)$ and $(O'; R')$: externally tangent when the center distance equals the sum of the radii ($OO' = R + R'$), and internally tangent when the center distance equals the difference of the radii ($OO' = R - R'$ with $R > R'$).
+- **Giải thích (VI):** Hai dạng của hai đường tròn tiếp xúc nhau $(O; R)$ và $(O'; R')$: tiếp xúc ngoài khi khoảng cách nối tâm bằng tổng hai bán kính ($OO' = R + R'$) và tiếp xúc trong khi khoảng cách nối tâm bằng hiệu hai bán kính ($OO' = R - R'$ với $R > R'$).
+- **Bối cảnh:** Toán học lớp 9, Bài 17 (Mục 2): Phân loại hai trường hợp tiếp xúc của hai đường tròn dựa vào hệ thức giữa độ dài đoạn nối tâm và hai bán kính.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B17 (Mục 1), tr. 105; SGK Toán 9 KNTT Tập 1, Chương 05, B17 (Mục 2), tr. 105
+
 ### extrema of a bivariate linear expression on a polygonal region
 - **Tiếng Việt:** Giá trị lớn nhất, nhỏ nhất của biểu thức $F(x; y) = ax + by$ trên miền đa giác
 - **Chuyên ngành gốc:** Toán học
@@ -3435,15 +3971,17 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 02, B9 (Mục 3), tr. 44
 
 ### favorable outcome
-- **Tiếng Việt:** Kết quả thuận lợi (kết quả thuận lợi cho một biến cố)
+- **Tiếng Việt:** Kết quả thuận lợi (kết quả thuận lợi cho một biến cố; kết quả thuận lợi cho biến cố)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** A possible outcome of a random experiment $T$ whose occurrence causes an associated event $E$ to happen. The collection of all favorable outcomes for $E$ forms the subset representing $E$ within the sample space $\Omega$.
 - **Giải thích (VI):** Kết quả có thể của phép thử ngẫu nhiên $T$ làm cho biến cố $E$ liên quan tới phép thử đó xảy ra. Tập hợp tất cả các kết quả thuận lợi cho biến cố $E$ tạo thành tập con biểu diễn $E$ trong không gian mẫu $\Omega$.
 - **Giải thích khác (SGK Toán 8 Tập 2):** EN: A possible outcome of an action or experiment $T$ for which an event $E$ occurs, where whether $E$ occurs depends on the result of $T$. / VI: Một kết quả có thể của hành động, thực nghiệm $T$ làm cho biến cố $E$ xảy ra, trong đó việc biến cố $E$ xảy ra hay không tuỳ thuộc vào kết quả của $T$.
+- **Giải thích khác (SGK Toán 9 Tập 2):** EN: An outcome of a random experiment $T$ whose occurrence causes a given event $E$ associated with $T$ to happen. / VI: Kết quả của phép thử ngẫu nhiên $T$ làm cho biến cố $E$ liên quan tới phép thử đó xảy ra.
 - **Bối cảnh:**
   - Toán học lớp 10, Bài 26 (Mục 1): Xác định các phần tử thuộc biến cố để đếm số phần tử $n(E)$ khi tính xác suất cổ điển.
   - Toán học lớp 8, Bài 30 (Mục 2): Xác định và đếm các kết quả làm cho biến cố quan tâm xảy ra để tính xác suất.
-- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 1), tr. 78; SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 1), tr. 78, 79; SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 2), tr. 80; SGK Toán 8 KNTT Tập 2, Chương 08, B30, tr. 59; SGK Toán 8 KNTT Tập 2, Chương 08, B30 (Mục 2), tr. 61; SGK Toán 8 KNTT Tập 2, Chương 08, B30 (Mục 2), tr. 61, 62
+  - Toán học lớp 9, Bài 26 (Mục 1): liệt kê và đếm số kết quả thuận lợi của biến cố $E$ trong phép thử ngẫu nhiên.
+- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 1), tr. 78; SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 1), tr. 78, 79; SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 2), tr. 80; SGK Toán 8 KNTT Tập 2, Chương 08, B30, tr. 59; SGK Toán 8 KNTT Tập 2, Chương 08, B30 (Mục 2), tr. 61; SGK Toán 8 KNTT Tập 2, Chương 08, B30 (Mục 2), tr. 61, 62; SGK Toán 9 KNTT Tập 2, Chương 08, B26, tr. 60; SGK Toán 9 KNTT Tập 2, Chương 08, B26 (Mục 1), tr. 60; SGK Toán 9 KNTT Tập 2, Chương 08, B26 (Mục 1), tr. 60, 61
 
 ### Fibonacci sequence
 - **Tiếng Việt:** Dãy số Fibonacci (số Fibonacci)
@@ -3511,6 +4049,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quy tắc hai bước để tìm các bội chung của những số đã cho: trước hết tìm bội chung nhỏ nhất (BCNN) của các số đó, sau đó tìm các bội của BCNN vừa tìm được.
 - **Bối cảnh:** Toán học lớp 6, Bài 12 (Mục 2): Liệt kê tập hợp bội chung hoặc tìm bội chung thoả mãn điều kiện giới hạn cho trước.
 - **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 02, B12 (Mục 2), tr. 55; SGK Toán 6 KNTT Tập 1, Chương 02, B12 (Mục 2), tr. 55, 56
+
+### finding two numbers given their sum and product
+- **Tiếng Việt:** Tìm hai số khi biết tổng và tích của chúng
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The method for determining two real numbers having sum $S$ and product $P$ (under the existence condition $S^2 - 4P \ge 0$) by solving the quadratic equation $x^2 - Sx + P = 0$.
+- **Giải thích (VI):** Phương pháp xác định hai số thực có tổng bằng $S$ và tích bằng $P$ (với điều kiện tồn tại $S^2 - 4P \ge 0$) bằng cách giải phương trình bậc hai $x^2 - Sx + P = 0$.
+- **Bối cảnh:** Toán học lớp 9, Bài 20 (Mục 3): Vận dụng đảo định lí Viète để tìm hai số hoặc hai kích thước hình học khi biết tổng và tích của chúng.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 06, B20 (Mục 2), tr. 23; SGK Toán 9 KNTT Tập 2, Chương 06, B20 (Mục 3), tr. 23; SGK Toán 9 KNTT Tập 2, Chương 06, B20 (Mục 3), tr. 23, 24
 
 ### finite limit of a function at a point
 - **Tiếng Việt:** Giới hạn hữu hạn của hàm số tại một điểm
@@ -3703,13 +4249,70 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Thành phần phân số dương nhỏ hơn 1 trong cấu tạo hỗn số dương.
 - **Nguồn:** SGK Toán 6 KNTT Tập 2, Chương 06, B24 (Mục 3), tr. 12
 
+### frequency
+- **Tiếng Việt:** Tần số (tần số của một giá trị)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The number of times a specific value appears (commonly denoted by $m_i$ for value $x_i$) in a statistical data sample.
+- **Giải thích (VI):** Số lần xuất hiện của một giá trị cụ thể (thường kí hiệu là $m_i$ ứng với giá trị $x_i$) trong mẫu dữ liệu thống kê.
+- **Giải thích khác (SGK Vật lí 10):** EN: A quantity (symbol $f$) representing the number of revolutions completed per second by an object in uniform circular motion, related to the period $T$ and angular speed $\omega$ by $f = \frac{1}{T} = \frac{\omega}{2\pi}$. / VI: Đại lượng (kí hiệu $f$) biểu thị số vòng mà vật chuyển động tròn đều đi được trong một giây, liên hệ với chu kì $T$ và tốc độ góc $\omega$ theo hệ thức $f = \frac{1}{T} = \frac{\omega}{2\pi}$.
+- **Giải thích khác (SGK Vật lí 11):** EN: The number of oscillations completed by an object in one second, denoted by $f$, given by the relation $f = \frac{1}{T}$ (where $T$ is the period) and measured in hertz ($\text{Hz}$). / VI: Số dao động mà vật thực hiện được trong một giây, kí hiệu là $f$, xác định bởi hệ thức $f = \frac{1}{T}$ (với $T$ là chu kì) và có đơn vị đo là héc ($\text{Hz}$).
+- **Giải thích khác (SGK Khoa học tự nhiên 7):** EN: A physical quantity measured by the number of oscillations an object completes in one second, expressed in hertz ($\text{Hz}$). A normal human ear can hear sounds with frequencies ranging from about $20\text{ Hz}$ to $20\,000\text{ Hz}$. / VI: Đại lượng vật lí đo bằng số dao động mà vật thực hiện được trong một giây, có đơn vị đo là héc ($\text{Hz}$). Tai người bình thường nghe được các âm có tần số trong khoảng từ $20\text{ Hz}$ đến $20\,000\text{ Hz}$.
+- **Bối cảnh:**
+  - Toán học lớp 9, Bài 22 (Mục 1): Đếm số lần lặp lại của mỗi giá trị khác nhau trong mẫu dữ liệu để lập bảng tần số.
+  - Vật lí lớp 10, Bài 31 (Mục II.2): Xác định số vòng quay trong một đơn vị thời gian của chuyển động tròn đều.
+  - Vật lí lớp 11, Bài 2 (Mục I): Đại lượng đặc trưng cho mức độ nhanh hay chậm của sự lặp lại dao động.
+  - Khoa học tự nhiên lớp 7, Bài 13 (Mục II.1): xác định độ nhanh chậm của dao động nguồn âm và mối liên hệ với độ cao của âm.
+  - *Lưu ý:* Refers to statistical count (absolute frequency) of a value in a data sample, distinct from relative frequency and from oscillation or wave frequency in physics.
+  - *Lưu ý:* Trong Vật lí (dao động và sóng âm), tần số là số dao động thực hiện trong một giây; phân biệt với tần số xuất hiện của một giá trị dữ liệu trong thống kê Toán học.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B22, tr. 32; SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 32; SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 33; SGK Vật lí 10 KNTT, Chương 06, B31 (Mục II.1), tr. 121; SGK Vật lí 10 KNTT, Chương 06, B31 (Mục II.2), tr. 121; SGK Vật lí 10 KNTT, Chương 06, B31 (Mục III), tr. 121; SGK Vật lí 11 KNTT, Chương 01, B2, tr. 10; SGK Vật lí 11 KNTT, Chương 01, B2 (Mục I), tr. 10; SGK Vật lí 11 KNTT, Chương 01, B2 (Mục III), tr. 12; SGK Khoa học tự nhiên 7 KNTT, Chương 04, B13 (Mục I.1), tr. 65; SGK Khoa học tự nhiên 7 KNTT, Chương 04, B13 (Mục I.2), tr. 65; SGK Khoa học tự nhiên 7 KNTT, Chương 04, B13 (Mục II.1), tr. 65; SGK Khoa học tự nhiên 7 KNTT, Chương 04, B13 (Mục II.2), tr. 67; SGK Khoa học tự nhiên 7 KNTT, Bảng giải thích thuật ngữ, tr. 179
+
+### frequency bar chart
+- **Tiếng Việt:** Biểu đồ tần số dạng cột
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A type of frequency chart that uses rectangular bars whose heights represent the corresponding frequencies of the distinct values in a frequency table.
+- **Giải thích (VI):** Dạng biểu đồ tần số sử dụng các cột hình chữ nhật có chiều cao biểu thị tần số tương ứng của từng giá trị khác nhau trong bảng tần số.
+- **Bối cảnh:** Toán học lớp 9, Bài 22 (Mục 2): Biểu diễn trực quan bảng tần số của dữ liệu rời rạc hoặc dữ liệu định tính để so sánh độ lớn các tần số.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 34; SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 2), tr. 34; SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 2), tr. 34, 35
+
+### frequency chart
+- **Tiếng Việt:** Biểu đồ tần số
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A statistical chart visually representing the data of a frequency table, most commonly taking the form of a frequency bar chart or a frequency polygon.
+- **Giải thích (VI):** Biểu đồ thống kê biểu diễn trực quan dữ liệu của bảng tần số, thường gặp nhất ở hai dạng là biểu đồ tần số dạng cột và biểu đồ tần số dạng đoạn thẳng.
+- **Bối cảnh:** Toán học lớp 9, Bài 22 (Mục 2): Trực quan hoá bảng tần số để dễ dàng so sánh tần số giữa các giá trị trong mẫu dữ liệu.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B22, tr. 32; SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 34; SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 2), tr. 34
+
+### frequency histogram
+- **Tiếng Việt:** Biểu đồ tần số ghép nhóm dạng cột
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A statistical chart composed of adjacent bars corresponding to class intervals, in which the height of each bar represents the frequency of the respective class interval.
+- **Giải thích (VI):** Biểu đồ thống kê gồm các cột liền kề nhau ứng với các nhóm số liệu, trong đó chiều cao mỗi cột biểu diễn tần số của nhóm số liệu tương ứng.
+- **Bối cảnh:** Toán học lớp 9, Bài 24 (Mục 2): phân biệt với biểu đồ tần số tương đối ghép nhóm dạng cột khi trục đứng thể hiện tần số thay vì tần số tương đối.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 49; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 2), tr. 49; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 2), tr. 49, 50
+
+### frequency polygon
+- **Tiếng Việt:** Biểu đồ tần số dạng đoạn thẳng (đa giác tần số)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A type of frequency chart formed by a polygonal chain of line segments connecting consecutive points that represent each value and its corresponding frequency in a frequency table.
+- **Giải thích (VI):** Dạng biểu đồ tần số tạo bởi đường gấp khúc nối liên tiếp các điểm biểu diễn cặp giá trị và tần số tương ứng trong bảng tần số bằng các đoạn thẳng.
+- **Bối cảnh:** Toán học lớp 9, Bài 22 (Mục 2): Biểu diễn bảng tần số của dữ liệu số nhằm quan sát xu thế thay đổi tần số giữa các giá trị liên tiếp.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 34; SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 2), tr. 34; SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 2), tr. 34, 35
+
+### frequency table
+- **Tiếng Việt:** Bảng tần số
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A statistical table listing the distinct values $x_1, x_2, \dots, x_k$ (numerical or non-numerical) of a data sample alongside their corresponding frequencies $m_1, m_2, \dots, m_k$.
+- **Giải thích (VI):** Bảng thống kê liệt kê các giá trị khác nhau $x_1, x_2, \dots, x_k$ (có thể là số hoặc không là số) của mẫu dữ liệu cùng với tần số tương ứng $m_1, m_2, \dots, m_k$ của mỗi giá trị.
+- **Bối cảnh:** Toán học lớp 9, Bài 22 (Mục 1): Thu gọn và hệ thống hoá mẫu dữ liệu thô để nhận xét phân bố dữ liệu và vẽ biểu đồ tần số.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B22, tr. 32; SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 32; SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 33
+
 ### frustum of a regular pyramid
 - **Tiếng Việt:** Hình chóp cụt đều
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** A spatial figure denoted $A_1A_2\dots A_n.B_1B_2\dots B_n$ formed from a regular pyramid $S.A_1A_2\dots A_n$ by cutting off a smaller regular pyramid $S.B_1B_2\dots B_n$ with a plane parallel to the base and not passing through $S$. It comprises two regular polygonal bases $A_1A_2\dots A_n$ and $B_1B_2\dots B_n$ (whose edges are the base edges), isosceles trapezoidal lateral faces with lateral edges $A_1B_1, \dots, A_nB_n$, and an altitude segment $HK$ joining the centers of the two bases (whose length is the height).
 - **Giải thích (VI):** Hình không gian kí hiệu $A_1A_2\dots A_n.B_1B_2\dots B_n$ tạo thành từ hình chóp đều $S.A_1A_2\dots A_n$ sau khi cắt bỏ hình chóp đều $S.B_1B_2\dots B_n$ bởi một mặt phẳng song song với đáy và không đi qua đỉnh $S$. Hình gồm hai mặt đáy là các đa giác đều $A_1A_2\dots A_n, B_1B_2\dots B_n$ (có các cạnh là cạnh đáy), các mặt bên là hình thang cân với các cạnh bên $A_1B_1, \dots, A_nB_n$, và đường cao là đoạn thẳng $HK$ nối tâm hai đáy (độ dài đường cao là chiều cao).
 - **Bối cảnh:** Toán học lớp 11, Bài 25 (Mục 6): Xác định các yếu tố mặt đáy, mặt bên, cạnh bên và đường cao của hình chóp cụt đều phục vụ tính khoảng cách và thể tích.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 6), tr. 52
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 6), tr. 52; SGK Toán 11 KNTT Tập 2, Chương 07, B25, tr. 44; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5.a), tr. 49; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5.b), tr. 49
 
 ### function
 - **Tiếng Việt:** Hàm số (biến số)
@@ -3840,6 +4443,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phương trình bậc nhất ba ẩn $Ax + By + Cz + D = 0$ trong không gian $Oxyz$ xác định một mặt phẳng, không phải một đường thẳng như phương trình $ax + by + c = 0$ trong mặt phẳng $Oxy$.
 - **Nguồn:** SGK Toán 12 KNTT Tập 2, Chương 05, B14, tr. 29; SGK Toán 12 KNTT Tập 2, Chương 05, B14 (Mục 2), tr. 32; SGK Toán 12 KNTT Tập 2, Chương 05, B14 (Mục 2), tr. 32, 33
 
+### general solution
+- **Tiếng Việt:** Nghiệm tổng quát (nghiệm)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A representation of all solution pairs $(x; y)$ of a linear equation in two unknowns by expressing one unknown in terms of the other taking arbitrary real values in $\mathbb{R}$.
+- **Giải thích (VI):** Dạng biểu diễn tất cả các cặp số nghiệm $(x; y)$ của phương trình bậc nhất hai ẩn bằng cách biểu thị một ẩn theo ẩn còn lại lấy giá trị thực tuỳ ý thuộc $\mathbb{R}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 1 (Mục 1): Biểu diễn tất cả các nghiệm của một phương trình bậc nhất hai ẩn theo một ẩn tuỳ ý thuộc $\mathbb{R}$.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 7; SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 7, 8; SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 10
+
 ### general solution of basic cosine equation
 - **Tiếng Việt:** Công thức nghiệm của phương trình $\cos x = m$
 - **Chuyên ngành gốc:** Toán học
@@ -3896,6 +4507,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 11, Bài 6 (Mục 2): tính trực tiếp số hạng thứ n của cấp số cộng theo số hạng đầu và công sai.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 02, B6 (Mục 1), tr. 49; SGK Toán 11 KNTT Tập 1, Chương 02, B6 (Mục 2), tr. 49
 
+### generatrix of a cone
+- **Tiếng Việt:** Đường sinh của hình nón
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A line segment corresponding to any position of the hypotenuse $SA$ when revolving the right triangle $SOA$ (right-angled at $O$) one full turn around its fixed leg $SO$. A cone has infinitely many generatrices of equal length $l$.
+- **Giải thích (VI):** Đoạn thẳng ứng với mỗi vị trí của cạnh huyền $SA$ khi quay tam giác vuông $SOA$ (vuông tại $O$) một vòng quanh cạnh $SO$ cố định. Hình nón có vô số đường sinh có độ dài $l$ bằng nhau.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 2): Xác định yếu tố tạo nên mặt xung quanh của hình nón và tính diện tích xung quanh $S_{\text{xq}} = \pi rl$.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 97; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 97, 98
+
+### generatrix of a cylinder
+- **Tiếng Việt:** Đường sinh của hình trụ (đường sinh)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A line segment corresponding to any position of the side $AB$ as the rectangle $O'ABO$ revolves one full turn around its fixed side $OO'$. A cylinder has infinitely many generatrices, all equal in length to $OO'$.
+- **Giải thích (VI):** Đoạn thẳng ứng với mỗi vị trí của cạnh $AB$ khi quay hình chữ nhật $O'ABO$ một vòng quanh cạnh $OO'$ cố định. Hình trụ có vô số đường sinh có độ dài bằng nhau và bằng $OO'$.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 1): Xác định yếu tố tạo nên mặt xung quanh của hình trụ và đường cắt khi khai triển hình trụ.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31, tr. 93; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 1), tr. 94; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 1), tr. 94, 95
+
 ### GeoGebra
 - **Tiếng Việt:** Phần mềm GeoGebra
 - **Chuyên ngành gốc:** Toán học
@@ -3951,8 +4578,19 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** The irrational constant $r = \dfrac{1 + \sqrt{5}}{2}$ equal to the limit as $n \to +\infty$ of the ratio sequence $v_n = \dfrac{u_n}{u_{n-1}}$ of consecutive terms in the Fibonacci sequence ($u_1 = u_2 = 1$, $u_n = u_{n-1} + u_{n-2}$ for $n > 2$). This ratio appears widely in nature and is applied in architecture and art.
 - **Giải thích (VI):** Hằng số $r = \dfrac{1 + \sqrt{5}}{2}$ bằng giới hạn khi $n \to +\infty$ của dãy tỉ số $v_n = \dfrac{u_n}{u_{n-1}}$ giữa hai số hạng liên tiếp trong dãy Fibonacci ($u_1 = u_2 = 1$, $u_n = u_{n-1} + u_{n-2}$ với $n > 2$). Tỉ số này xuất hiện phổ biến trong tự nhiên và ứng dụng rộng rãi trong kiến trúc, hội hoạ.
-- **Bối cảnh:** Toán học lớp 11, Bài 15 (Mục 4): Liên hệ giữa giới hạn dãy tỉ số Fibonacci với tỉ lệ vàng trong mục Em có biết.
-- **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 05, B15 (Mục 4), tr. 110
+- **Giải thích khác (SGK Tin học 9):** EN: A special constant geometric ratio approximately equal to 1.618034 (or 1.62 rounded to two decimal places), satisfying the property that removing a square whose side equals the shorter side of a rectangle with this side ratio leaves a smaller rectangle with the exact same side ratio. / VI: Tỉ số hình học không đổi đặc biệt có giá trị xấp xỉ 1,618034 (làm tròn đến hai chữ số thập phân là 1,62), thoả mãn tính chất: nếu một hình chữ nhật có tỉ lệ hai cạnh bằng tỉ số này thì sau khi cắt bỏ một hình vuông cạnh bằng chiều rộng, phần còn lại vẫn là hình chữ nhật có tỉ lệ hai cạnh giữ nguyên.
+- **Bối cảnh:**
+  - Toán học lớp 11, Bài 15 (Mục 4): Liên hệ giữa giới hạn dãy tỉ số Fibonacci với tỉ lệ vàng trong mục Em có biết.
+  - Tin học lớp 9, Bài 6 (Nhiệm vụ 3): Đo độ dài và tính tỉ số giữa các đoạn thẳng của ngôi sao năm cánh đều bằng phần mềm hình học động Geometer's Sketchpad.
+- **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 05, B15 (Mục 4), tr. 110; SGK Tin học 9 KNTT, Chủ đề 04, B6, tr. 26
+
+### golden rectangle
+- **Tiếng Việt:** Hình chữ nhật tỉ lệ vàng
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A rectangle whose length-to-width ratio equals the golden ratio (approximately 1.618034), characterized by the self-similar property that removing the largest inscribed square leaves a smaller rectangle with the same golden side ratio.
+- **Giải thích (VI):** Hình chữ nhật có tỉ số giữa chiều dài và chiều rộng bằng tỉ lệ vàng (xấp xỉ 1,618034), mang tính chất bất biến là sau khi cắt bỏ một hình vuông lớn nhất bên trong thì phần hình chữ nhật còn lại vẫn giữ nguyên tỉ lệ hai cạnh bằng tỉ lệ vàng.
+- **Bối cảnh:** Tin học lớp 9, Bài 6 (Nhiệm vụ 3): Minh hoạ trực quan tính chất hình học của tỉ lệ vàng khi khai thác phần mềm mô phỏng toán học.
+- **Nguồn:** SGK Tin học 9 KNTT, Chủ đề 04, B6, tr. 26
 
 ### graph and properties of the cosine function
 - **Tiếng Việt:** Đồ thị và tính chất của hàm số $y = \cos x$
@@ -3999,6 +4637,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Chỉ tập hợp điểm trên mặt phẳng toạ độ biểu diễn hàm số giải tích $y = f(x)$, phân biệt với đồ thị gồm đỉnh và cạnh trong toán rời rạc hoặc biểu đồ thống kê.
 - **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 06, B15, tr. 4; SGK Toán 10 KNTT Tập 2, Chương 06, B15 (Mục 2), tr. 7; SGK Toán 10 KNTT Tập 2, Chương 06, B15 (Mục 3), tr. 8; SGK Toán 8 KNTT Tập 2, Chương 07, B27, tr. 40; SGK Toán 8 KNTT Tập 2, Chương 07, B27 (Mục 3), tr. 44; SGK Toán 8 KNTT Tập 2, Chương 07, B27 (Mục 3), tr. 44, 45
 
+### graph of a linear equation in two unknowns
+- **Tiếng Việt:** Đường thẳng $ax + by = c$
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The straight line in the coordinate plane consisting of all points whose coordinates $(x; y)$ satisfy the linear equation in two unknowns $ax + by = c$ ($a \ne 0$ or $b \ne 0$).
+- **Giải thích (VI):** Đường thẳng trong mặt phẳng toạ độ tập hợp tất cả các điểm có toạ độ $(x; y)$ thoả mãn phương trình bậc nhất hai ẩn $ax + by = c$ ($a \ne 0$ hoặc $b \ne 0$).
+- **Bối cảnh:**
+  - Toán học lớp 9, Bài 1 (Mục 1): Biểu diễn hình học tập nghiệm của phương trình bậc nhất hai ẩn trên mặt phẳng toạ độ.
+  - *Lưu ý:* SGK Toán 9 gọi trực tiếp đường thẳng biểu diễn tập nghiệm của phương trình bậc nhất hai ẩn theo phương trình của nó là đường thẳng $ax + by = c$.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 8; SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 8; SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 8, 9
+
 ### graph of a linear function
 - **Tiếng Việt:** Đồ thị của hàm số bậc nhất (đường thẳng $y = ax + b$)
 - **Chuyên ngành gốc:** Toán học
@@ -4006,6 +4654,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đường thẳng trên mặt phẳng toạ độ $Oxy$ biểu diễn tập hợp tất cả các điểm có toạ độ $(x; y)$ thoả mãn công thức của hàm số bậc nhất $y = ax + b$ ($a \ne 0$).
 - **Bối cảnh:** Toán học lớp 8, Bài 28 (Mục 2): Nhận biết dạng hình học của hàm số bậc nhất $y = ax + b$ ($a \ne 0$) trên mặt phẳng toạ độ.
 - **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 07, B28, tr. 47; SGK Toán 8 KNTT Tập 2, Chương 07, B28 (Mục 2), tr. 48; SGK Toán 8 KNTT Tập 2, Chương 07, B28 (Mục 2), tr. 49; SGK Toán 8 KNTT Tập 2, Chương 07, B28 (Mục 2), tr. 49, 50; SGK Toán 8 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 139
+
+### graph of a monomial quadratic function
+- **Tiếng Việt:** Đồ thị của hàm số $y = ax^2$ (parabol $y = ax^2$)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The set of all points $(x, ax^2)$ in the coordinate plane $Oxy$ with $a \ne 0$, forming a parabola with vertex at the origin $O$ and axis of symmetry $Oy$ that lies above the horizontal axis when $a > 0$ and below it when $a < 0$.
+- **Giải thích (VI):** Tập hợp các điểm $(x; ax^2)$ trên mặt phẳng toạ độ $Oxy$ với $a \ne 0$, tạo thành một đường parabol có đỉnh tại gốc toạ độ $O$, nhận trục tung $Oy$ làm trục đối xứng, nằm phía trên trục hoành khi $a > 0$ và nằm phía dưới trục hoành khi $a < 0$.
+- **Bối cảnh:** Toán học lớp 9, Bài 18 (Mục 2): Khảo sát hình dạng và vị trí của đồ thị hàm số $y = ax^2$ ($a \ne 0$) theo dấu của hệ số $a$.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 06, B18, tr. 4; SGK Toán 9 KNTT Tập 2, Chương 06, B18 (Mục 2), tr. 6; SGK Toán 9 KNTT Tập 2, Chương 06, B18 (Mục 2), tr. 7
 
 ### graphing a linear function
 - **Tiếng Việt:** Cách vẽ đồ thị của hàm số bậc nhất
@@ -4015,13 +4671,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 8, Bài 28 (Mục 2): Thực hành vẽ đường thẳng biểu diễn hàm số bậc nhất trên mặt phẳng toạ độ $Oxy$.
 - **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 07, B28 (Mục 2), tr. 49; SGK Toán 8 KNTT Tập 2, Chương 07, B28 (Mục 2), tr. 49, 50
 
+### graphing a monomial quadratic function
+- **Tiếng Việt:** Cách vẽ đồ thị hàm số $y = ax^2$
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The procedure for constructing the graph of $y = ax^2$ ($a \ne 0$) on the coordinate plane $Oxy$ by tabulating several corresponding value pairs $(x, y)$, plotting those points, and connecting them into a smooth curve through the origin.
+- **Giải thích (VI):** Quy trình dựng đồ thị hàm số $y = ax^2$ ($a \ne 0$) trên mặt phẳng toạ độ $Oxy$ bằng cách lập bảng một số cặp giá trị tương ứng $(x; y)$, biểu diễn các điểm đó trên mặt phẳng toạ độ rồi nối chúng thành một đường cong trơn đi qua gốc toạ độ.
+- **Bối cảnh:** Toán học lớp 9, Bài 18 (Mục 2): Thực hành vẽ đường parabol biểu diễn hàm số $y = ax^2$ ($a \ne 0$) nhờ bảng giá trị và tính đối xứng qua trục tung.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 06, B18 (Mục 2), tr. 6; SGK Toán 9 KNTT Tập 2, Chương 06, B18 (Mục 2), tr. 6, 7
+
 ### graphing the solution region of a linear inequality in two variables
 - **Tiếng Việt:** Biểu diễn miền nghiệm của bất phương trình bậc nhất hai ẩn (cách biểu diễn miền nghiệm của bất phương trình bậc nhất hai ẩn)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** The procedure for graphing the solution region of an inequality such as $ax + by \le c$ on the coordinate plane $Oxy$: draw the boundary line $d: ax + by = c$, choose a test point $M_0(x_0; y_0)$ not on $d$, and compare $ax_0 + by_0$ with $c$. If $ax_0 + by_0 < c$, the solution region is the half-plane bounded by $d$ containing $M_0$; if $ax_0 + by_0 > c$, it is the opposite half-plane not containing $M_0$ (excluding the boundary $d$ for strict inequalities).
 - **Giải thích (VI):** Quy tắc biểu diễn trên mặt phẳng toạ độ $Oxy$ miền nghiệm của bất phương trình dạng $ax + by \le c$: vẽ đường thẳng bờ $d: ax + by = c$, lấy một điểm thử $M_0(x_0; y_0)$ không thuộc $d$ rồi tính $ax_0 + by_0$ và so sánh với $c$. Nếu $ax_0 + by_0 < c$ thì nửa mặt phẳng bờ $d$ chứa $M_0$ là miền nghiệm; nếu $ax_0 + by_0 > c$ thì nửa mặt phẳng bờ $d$ không chứa $M_0$ là miền nghiệm (không kể bờ $d$ nếu bất phương trình ngặt).
 - **Bối cảnh:** Toán học lớp 10, Bài 3 (Mục 2): Thực hành vẽ đường thẳng bờ và chọn điểm thử để gạch bỏ nửa mặt phẳng không phải miền nghiệm.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 2), tr. 24; SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 2), tr. 25; SGK Toán 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 103
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 2), tr. 24; SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 2), tr. 25; SGK Toán 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 103; SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 2), tr. 24, 25
 
 ### graphing the solution region of a system of linear inequalities in two variables
 - **Tiếng Việt:** Biểu diễn miền nghiệm của hệ bất phương trình bậc nhất hai ẩn (cách xác định miền nghiệm của một hệ bất phương trình bậc nhất hai ẩn)
@@ -4029,7 +4693,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The graphical method for finding the intersection of solution regions on a single coordinate plane $Oxy$ by determining the solution region of each linear inequality in the system and shading out the remaining half-plane. The unshaded region left at the end is the solution region of the given system.
 - **Giải thích (VI):** Cách xác định giao các miền nghiệm của hệ trên cùng một mặt phẳng toạ độ $Oxy$ bằng cách xác định miền nghiệm của mỗi bất phương trình bậc nhất hai ẩn trong hệ và gạch bỏ miền còn lại. Miền mặt phẳng không bị gạch sau cùng là miền nghiệm của hệ bất phương trình đã cho.
 - **Bối cảnh:** Toán học lớp 10, Bài 4 (Mục 2): Vẽ và xác định các đỉnh của miền nghiệm phục vụ bài toán tối ưu bậc nhất hai biến.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 02, B4 (Mục 2), tr. 28; SGK Toán 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 103
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 02, B4 (Mục 2), tr. 28; SGK Toán 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 103; SGK Toán 10 KNTT Tập 1, Chương 02, B4 (Mục 3), tr. 28; SGK Toán 10 KNTT Tập 1, Chương 02, B4 (Mục 3), tr. 28, 29
+
+### great circle
+- **Tiếng Việt:** Đường tròn lớn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The circular intersection whose radius equals the radius $R$ of a sphere, obtained when the sphere is cut by a plane passing through its center.
+- **Giải thích (VI):** Đường tròn phần chung có bán kính bằng bán kính $R$ của mặt cầu, thu được khi cắt mặt cầu bởi một mặt phẳng đi qua tâm của nó.
+- **Bối cảnh:** Toán học lớp 9, Bài 32 (Mục 1): Xác định đường tròn có bán kính lớn nhất trên mặt cầu, chẳng hạn đường Xích đạo trên bề mặt Trái Đất.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 1), tr. 103; SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 2), tr. 103; SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 2), tr. 103, 104
 
 ### greatest common divisor
 - **Tiếng Việt:** Ước chung lớn nhất (ƯCLN)
@@ -4047,13 +4719,61 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 11, Bài 8 (Mục 1): tổ chức và tóm tắt các mẫu số liệu có kích thước lớn hoặc miền giá trị rộng.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 03, B8, tr. 58; SGK Toán 11 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 59; SGK Toán 11 KNTT Tập 1, Chương 03, B8 (Mục 2), tr. 60
 
+### grouped frequency polygon
+- **Tiếng Việt:** Biểu đồ tần số ghép nhóm dạng đoạn thẳng
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A line-segment chart representing grouped data obtained by connecting consecutive points whose horizontal coordinates are the class midpoints $x_i = \dfrac{a_i + a_{i+1}}{2}$ of $[a_i, a_{i+1})$ and whose vertical coordinates are the corresponding class frequencies.
+- **Giải thích (VI):** Biểu đồ đoạn thẳng biểu diễn mẫu số liệu ghép nhóm thu được bằng cách nối liên tiếp các điểm có hoành độ là giá trị đại diện $x_i = \dfrac{a_i + a_{i+1}}{2}$ của nhóm $[a_i; a_{i+1})$ và tung độ là tần số tương ứng của nhóm đó.
+- **Bối cảnh:** Toán học lớp 9, Bài 24 (Mục 3): phân biệt với biểu đồ tần số tương đối ghép nhóm dạng đoạn thẳng khi trục đứng biểu thị tần số của nhóm.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 3), tr. 51; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 3), tr. 51, 52
+
+### grouped frequency table
+- **Tiếng Việt:** Bảng tần số ghép nhóm
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A statistical table displaying the frequency distribution of a data sample across $k$ class intervals $[a_1, a_2), [a_2, a_3), \dots, [a_k, a_{k+1})$ with their corresponding class frequencies $m_1, m_2, \dots, m_k$.
+- **Giải thích (VI):** Bảng thống kê ghi các nhóm số liệu $[a_1; a_2), [a_2; a_3), \dots, [a_k; a_{k+1})$ cùng các tần số tương ứng $m_1, m_2, \dots, m_k$ của từng nhóm trong mẫu số liệu.
+- **Bối cảnh:** Toán học lớp 9, Bài 24 (Mục 1): thu gọn và trình bày tần số xuất hiện của các số liệu theo từng khoảng ghép nhóm.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B24, tr. 46; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 46; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 47
+
+### grouped relative frequency polygon
+- **Tiếng Việt:** Biểu đồ tần số tương đối ghép nhóm dạng đoạn thẳng
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A statistical chart representing a grouped relative frequency table as a polygonal line connecting consecutive points $M_i(x_i, f_i)$, where $x_i = \dfrac{a_i + a_{i+1}}{2}$ is the class midpoint of $[a_i, a_{i+1})$ on the horizontal axis and $f_i$ is its relative frequency on the vertical axis.
+- **Giải thích (VI):** Biểu đồ biểu diễn bảng tần số tương đối ghép nhóm bằng đường gấp khúc nối liên tiếp các điểm $M_i(x_i; f_i)$, với $x_i = \dfrac{a_i + a_{i+1}}{2}$ là giá trị đại diện của nhóm $[a_i; a_{i+1})$ trên trục ngang và $f_i$ là tần số tương đối tương ứng trên trục đứng.
+- **Bối cảnh:** Toán học lớp 9, Bài 24 (Mục 3): biểu diễn xu hướng phân bố tần số tương đối của mẫu số liệu ghép nhóm thông qua các giá trị đại diện.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 3), tr. 51; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 3), tr. 51, 52; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 3), tr. 52
+
+### grouped relative frequency table
+- **Tiếng Việt:** Bảng tần số tương đối ghép nhóm
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A statistical table listing the class intervals $[a_1, a_2), [a_2, a_3), \dots, [a_k, a_{k+1})$ alongside their corresponding class relative frequencies $f_1, f_2, \dots, f_k$ for a grouped data sample.
+- **Giải thích (VI):** Bảng thống kê ghi các nhóm số liệu $[a_1; a_2), [a_2; a_3), \dots, [a_k; a_{k+1})$ cùng các tần số tương đối tương ứng $f_1, f_2, \dots, f_k$ của từng nhóm số liệu.
+- **Bối cảnh:** Toán học lớp 9, Bài 24 (Mục 1): tổng hợp tỉ lệ phần trăm số liệu thuộc mỗi nhóm trong mẫu dữ liệu ghép nhóm.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B24, tr. 46; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 46; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 47
+
 ### half-open interval
 - **Tiếng Việt:** Nửa khoảng
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** A subset of the real numbers $\mathbb{R}$ containing exactly one finite endpoint, taking the forms $[a; b) = \{x \in \mathbb{R} \mid a \le x < b\}$, $(a; b] = \{x \in \mathbb{R} \mid a < x \le b\}$, $[a; +\infty) = \{x \in \mathbb{R} \mid x \ge a\}$, and $(-\infty; b] = \{x \in \mathbb{R} \mid x \le b\}$.
 - **Giải thích (VI):** Tập con thường dùng của tập số thực $\mathbb{R}$ chứa đúng một đầu mút hữu hạn, có dạng $[a; b) = \{x \in \mathbb{R} \mid a \le x < b\}$, $(a; b] = \{x \in \mathbb{R} \mid a < x \le b\}$, $[a; +\infty) = \{x \in \mathbb{R} \mid x \ge a\}$ hoặc $(-\infty; b] = \{x \in \mathbb{R} \mid x \le b\}$.
 - **Bối cảnh:** Toán học lớp 10, Bài 2 (Mục 2b): Biểu diễn tập nghiệm thực lấy dấu bằng tại đúng một đầu mút hữu hạn.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.b), tr. 16
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.b), tr. 16; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 3.a), tr. 16; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 3.a), tr. 16, 17
+
+### height of a cone
+- **Tiếng Việt:** Chiều cao của hình nón
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The length $h = SO$ of the altitude segment connecting the apex $S$ to the center $O$ of the base of a cone.
+- **Giải thích (VI):** Độ dài $h = SO$ của đoạn thẳng đường cao nối đỉnh $S$ với tâm $O$ của đáy hình nón.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 2): Đại lượng kích thước dùng trong công thức tính thể tích của hình nón.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 97; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 97, 98
+
+### height of a cylinder
+- **Tiếng Việt:** Chiều cao của hình trụ (chiều cao)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The length $h = OO'$ of the segment joining the centers of the two bases when revolving the rectangle $O'ABO$ around its fixed side $OO'$, equal to the length of each generatrix of the cylinder.
+- **Giải thích (VI):** Độ dài $h = OO'$ của đoạn thẳng nối tâm hai đáy khi quay hình chữ nhật $O'ABO$ quanh cạnh $OO'$ cố định, đồng thời bằng độ dài của mỗi đường sinh của hình trụ.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 1): Đại lượng kích thước dùng để tính diện tích xung quanh và thể tích của hình trụ.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 1), tr. 94; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 1), tr. 94, 95; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 1), tr. 95
 
 ### height of a pyramid
 - **Tiếng Việt:** Chiều cao của hình chóp (chiều cao của hình lăng trụ)
@@ -4063,7 +4783,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 11, Bài 26 (Mục 1, 2): Xác định chiều cao của hình chóp và hình lăng trụ để phục vụ tính thể tích khối đa diện.
   - *Lưu ý:* Also encompasses the height of a prism, defined as the perpendicular distance between its two parallel bases.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 1), tr. 55; SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 2), tr. 56
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 1), tr. 55; SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 2), tr. 56; SGK Toán 11 KNTT Tập 2, Chương 07, B26, tr. 54; SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 2), tr. 55
 
 ### height of a right prism
 - **Tiếng Việt:** Chiều cao của lăng trụ đứng (chiều cao)
@@ -4252,6 +4972,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Phân biệt với không xảy ra (sự kiện không diễn ra trong một lần thử cụ thể tùy thuộc kết quả thu được, nhưng chưa chắc có khả năng bằng 0).
 - **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 1), tr. 78; SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 1), tr. 78, 79; SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 2), tr. 80; SGK Toán 6 KNTT Tập 2, Chương 09, B43, tr. 101; SGK Toán 6 KNTT Tập 2, Chương 09, B43, tr. 101, 102; SGK Toán 7 KNTT Tập 2, Chương 08, B29, tr. 47; SGK Toán 7 KNTT Tập 2, Chương 08, B29, tr. 48; SGK Toán 7 KNTT Tập 2, Chương 08, B29, tr. 48, 49
 
+### incenter and inradius of an equilateral triangle
+- **Tiếng Việt:** Tâm và bán kính đường tròn nội tiếp tam giác đều
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The geometric property stating that the incircle of an equilateral triangle of side length $a$ has its center at the centroid of the triangle and a radius equal to half the circumradius, $r = \dfrac{\sqrt{3}}{6}a$.
+- **Giải thích (VI):** Tính chất hình học khẳng định đường tròn nội tiếp tam giác đều cạnh $a$ có tâm là trọng tâm của tam giác đó và bán kính bằng một nửa bán kính đường tròn ngoại tiếp, tức là $r = \dfrac{\sqrt{3}}{6}a$.
+- **Bối cảnh:** Toán học lớp 9, Bài 28 (Mục 2): tính bán kính đường tròn nội tiếp tam giác đều theo độ dài cạnh và liên hệ với bán kính đường tròn ngoại tiếp.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B28 (Mục 2), tr. 75; SGK Toán 9 KNTT Tập 2, Chương 09, B28 (Mục 2), tr. 75, 76
+
+### incircle of a triangle
+- **Tiếng Việt:** Đường tròn nội tiếp tam giác (đường tròn nội tiếp)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The circle tangent to all three sides of a triangle (with the triangle circumscribing the circle), whose center is the concurrency point of the triangle's three internal angle bisectors.
+- **Giải thích (VI):** Đường tròn tiếp xúc với cả ba cạnh của một tam giác (khi đó tam giác ngoại tiếp đường tròn), có tâm là giao điểm ba đường phân giác trong của tam giác đó.
+- **Bối cảnh:** Toán học lớp 9, Bài 28 (Mục 2): xác định tâm đường tròn nội tiếp tam giác bằng giao điểm ba đường phân giác trong.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B28, tr. 72; SGK Toán 9 KNTT Tập 2, Chương 09, B28 (Mục 1), tr. 74; SGK Toán 9 KNTT Tập 2, Chương 09, B28 (Mục 2), tr. 74
+
 ### included angle
 - **Tiếng Việt:** Góc xen giữa hai cạnh (góc xen giữa)
 - **Chuyên ngành gốc:** Toán học
@@ -4282,7 +5018,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A probability property stating that if two events $A$ and $B$ are independent, then the pairs of events $A$ and $\overline{B}$, $\overline{A}$ and $B$, and $\overline{A}$ and $\overline{B}$ are also independent.
 - **Giải thích (VI):** Tính chất xác suất khẳng định rằng nếu cặp biến cố $A$ và $B$ độc lập thì các cặp biến cố $A$ và $\overline{B}$, $\overline{A}$ và $B$, cùng với $\overline{A}$ và $\overline{B}$ cũng độc lập.
 - **Bối cảnh:** Toán học lớp 11, Bài 28 (Mục 3): Suy ra tính độc lập của các cặp biến cố đối khi giải toán xác suất có biến cố phủ định.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B28 (Mục 3), tr. 69, 70
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B28 (Mục 3), tr. 69, 70; SGK Toán 11 KNTT Tập 2, Chương 08, B28 (Mục 2), tr. 69; SGK Toán 11 KNTT Tập 2, Chương 08, B28 (Mục 3), tr. 69
 
 ### independent events
 - **Tiếng Việt:** Hai biến cố độc lập (biến cố độc lập)
@@ -4290,7 +5026,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A pair of events $A$ and $B$ in which the occurrence or non-occurrence of one event does not affect the probability of occurrence of the other event.
 - **Giải thích (VI):** Cặp biến cố $A$ và $B$ mà việc xảy ra hay không xảy ra của biến cố này không ảnh hưởng tới xác suất xảy ra của biến cố kia.
 - **Bối cảnh:** Toán học lớp 11, Bài 28 (Mục 3): Nhận biết tính độc lập giữa hai biến cố để áp dụng công thức nhân xác suất, phân biệt với hai biến cố xung khắc.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B28 (Mục 3), tr. 69; SGK Toán 11 KNTT Tập 2, Chương 08, B30, tr. 76
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B28 (Mục 3), tr. 69; SGK Toán 11 KNTT Tập 2, Chương 08, B30, tr. 76; SGK Toán 11 KNTT Tập 2, Chương 08, B28, tr. 66; SGK Toán 11 KNTT Tập 2, Chương 08, B28 (Mục 2), tr. 69
 
 ### independent variable
 - **Tiếng Việt:** Biến độc lập (Biến số)
@@ -4304,6 +5040,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Biến độc lập trong quan hệ hàm số y = f(x), phân biệt với khái niệm biến nói chung trong biểu thức đại số.
 - **Nguồn:** SGK Sinh học 10 KNTT, Phần Mở đầu, B2 (Mục III.5), tr. 15, 16; SGK Sinh học 10 KNTT, Phần Mở đầu, B2 (Mục III.5), tr. 16; SGK Toán 8 KNTT Tập 2, Chương 07, B27, tr. 40; SGK Toán 8 KNTT Tập 2, Chương 07, B27 (Mục 1), tr. 40; SGK Toán 8 KNTT Tập 2, Chương 07, B27 (Mục 1), tr. 40, 41
 
+### index of a radical
+- **Tiếng Việt:** Chỉ số của căn (chỉ số)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The number indicating the degree of a root written at the upper-left corner of the radical sign; specifically, in the cube root notation $\sqrt[3]{a}$, the number $3$ is the index of the radical.
+- **Giải thích (VI):** Số ghi ở góc trên bên trái của dấu căn để chỉ bậc của căn; cụ thể trong kí hiệu căn bậc ba $\sqrt[3]{a}$, số $3$ là chỉ số của căn.
+- **Bối cảnh:** Toán học lớp 9, Bài 10 (Mục 1): đọc và viết đúng kí hiệu căn bậc ba $\sqrt[3]{a}$, phân biệt với kí hiệu căn bậc hai $\sqrt{a}$.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B10, tr. 60; SGK Toán 9 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 60; SGK Toán 9 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 60, 61
+
 ### indirect data collection
 - **Tiếng Việt:** Thu thập dữ liệu gián tiếp
 - **Chuyên ngành gốc:** Toán học
@@ -4311,6 +5055,40 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phương pháp thu thập dữ liệu bằng cách khai thác thông tin từ những nguồn có sẵn như sách, báo hoặc mạng Internet.
 - **Bối cảnh:** Toán học lớp 8, Bài 18 (Mục 1): tra cứu số liệu thống kê đã công bố mà không cần tự tổ chức khảo sát trực tiếp.
 - **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 05, B18, tr. 90; SGK Toán 8 KNTT Tập 1, Chương 05, B18 (Mục 1), tr. 90; SGK Toán 8 KNTT Tập 1, Chương 05, B18 (Mục 1), tr. 90, 91
+
+### inequalities of opposite sense
+- **Tiếng Việt:** Hai bất đẳng thức ngược chiều
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A pair of inequalities whose inequality signs point in opposite directions (for instance, $1 < 2$ and $-2 > -3$, or $6 > 3$ and $5 < 8$).
+- **Giải thích (VI):** Cặp bất đẳng thức có dấu thứ tự quay theo hai hướng đối lập nhau (chẳng hạn $1 < 2$ và $-2 > -3$, hoặc $6 > 3$ và $5 < 8$).
+- **Bối cảnh:** Toán học lớp 9, Bài 5 (Mục 1): Mô tả sự đổi chiều của bất đẳng thức khi nhân cả hai vế với cùng một số âm.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 1), tr. 32; SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 1), tr. 32, 33
+
+### inequalities of the same sense
+- **Tiếng Việt:** Hai bất đẳng thức cùng chiều
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A pair of inequalities whose inequality signs point in the same direction (for instance, $1 < 2$ and $-3 < -2$, or $6 > 3$ and $8 > 5$).
+- **Giải thích (VI):** Cặp bất đẳng thức có dấu thứ tự quay cùng một hướng (chẳng hạn $1 < 2$ và $-3 < -2$, hoặc $6 > 3$ và $8 > 5$).
+- **Bối cảnh:** Toán học lớp 9, Bài 5 (Mục 1): Mô tả chiều của bất đẳng thức mới khi cộng cùng một số hoặc nhân cùng một số dương vào hai vế.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 02, B5, tr. 31; SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 1), tr. 32; SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 1), tr. 32, 33
+
+### inequality
+- **Tiếng Việt:** Bất đẳng thức
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A mathematical relation of the form $a > b$ (or $a < b$, $a \ge b$, $a \le b$), where $a$ is the left-hand side and $b$ is the right-hand side of the inequality.
+- **Giải thích (VI):** Hệ thức toán học có dạng $a > b$ (hay $a < b$, $a \ge b$, $a \le b$), trong đó $a$ là vế trái và $b$ là vế phải của bất đẳng thức.
+- **Bối cảnh:** Toán học lớp 9, Bài 5 (Mục 1): Biểu diễn mối quan hệ so sánh lớn hơn, nhỏ hơn, lớn hơn hoặc bằng, nhỏ hơn hoặc bằng giữa các số và biểu thức.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 02, B5, tr. 31; SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 1), tr. 32; SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 1), tr. 32, 33
+
+### inequality in an unknown
+- **Tiếng Việt:** Bất phương trình
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** An inequality relation containing an unknown $x$ (such as $7x + 18 \le 100$), expressing an order condition between its left-hand side and right-hand side that the unknown must satisfy.
+- **Giải thích (VI):** Hệ thức bất đẳng thức có chứa ẩn số $x$ (chẳng hạn $7x + 18 \le 100$), biểu thị điều kiện so sánh giữa vế trái và vế phải mà ẩn số phải thoả mãn.
+- **Bối cảnh:**
+  - Toán học lớp 9, Bài 6 (Mục 1): Mở đầu khái niệm hệ thức so sánh chứa ẩn trước khi định nghĩa bất phương trình bậc nhất một ẩn.
+  - *Lưu ý:* Tiếng Việt phân biệt "bất đẳng thức" (hệ thức so sánh nói chung) với "bất phương trình" (hệ thức bất đẳng thức chứa ẩn số $x$), trong khi tiếng Anh thường dùng chung "inequality" và làm rõ qua ngữ cảnh chứa ẩn ("inequality in an unknown").
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 02, B6, tr. 38; SGK Toán 9 KNTT Tập 1, Chương 02, B6 (Mục 1), tr. 38; SGK Toán 9 KNTT Tập 1, Chương 02, B6 (Mục 1), tr. 38, 39
 
 ### infinite left-hand limit
 - **Tiếng Việt:** Giới hạn vô cực một bên trái
@@ -4343,6 +5121,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tập hợp có vô số phần tử, chẳng hạn tập hợp các số tự nhiên $\mathbb{N}$.
 - **Bối cảnh:** Toán học lớp 6, Bài 1 (Mục 2): Phân loại tập hợp có vô số phần tử như tập $\mathbb{N}$, đối lập với tập hữu hạn.
 - **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 8
+
+### inscribed angle
+- **Tiếng Việt:** Góc nội tiếp
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** An angle whose vertex lies on a circle and whose two sides contain two chords of that circle.
+- **Giải thích (VI):** Góc có đỉnh nằm trên một đường tròn và hai cạnh chứa hai dây cung của đường tròn đó.
+- **Bối cảnh:** Toán học lớp 9, Bài 27: nhận diện góc nội tiếp của đường tròn và phân biệt với góc ở tâm.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B27, tr. 67; SGK Toán 9 KNTT Tập 2, Chương 09, B27, tr. 68; SGK Toán 9 KNTT Tập 2, Chương 09, B27, tr. 68, 69
 
 ### instantaneous rate of change
 - **Tiếng Việt:** Tốc độ thay đổi tức thời (tốc độ biến đổi tức thời)
@@ -4407,6 +5193,18 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong truyền thống Toán học Pháp và Việt Nam, định lí này mang tên Định lí Thalès (Thales's theorem); trong tài liệu tiếng Anh quốc tế, thuật ngữ intercept theorem (hoặc basic proportionality theorem) là tên chuẩn dùng để phân biệt với Thales's theorem chỉ góc nội tiếp chắn nửa đường tròn là góc vuông.
 - **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 04, B15 (Mục 1), tr. 78; SGK Toán 8 KNTT Tập 1, Chương 04, B15 (Mục 2), tr. 78; SGK Toán 8 KNTT Tập 1, Chương 04, B15 (Mục 2), tr. 78, 79
 
+### intercepted arc
+- **Tiếng Việt:** Cung bị chắn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A circular arc lying in the interior of an angle (such as a minor arc or semicircle $AB$ corresponding to a central angle $\widehat{AOB}$) whose two endpoints lie on the two sides of that angle.
+- **Giải thích (VI):** Cung tròn nằm bên trong một góc (như cung nhỏ hoặc nửa đường tròn $AB$ ứng với góc ở tâm $\widehat{AOB}$) có hai mút thuộc hai cạnh của góc đó.
+- **Giải thích khác (SGK Toán 9 Tập 2):** EN: The arc of a circle lying in the interior of an inscribed angle, bounded by the endpoints of the two chords forming the sides of that angle. / VI: Phần cung tròn nằm bên trong một góc nội tiếp, giới hạn bởi hai đầu mút khác đỉnh của hai dây cung nằm trên hai cạnh góc đó.
+- **Bối cảnh:**
+  - Toán học lớp 9, Bài 14 (Mục 2): Xác định mối liên hệ hình học giữa góc ở tâm và cung tròn tương ứng để tính số đo cung.
+  - Toán học lớp 9, Bài 27: xác định cung nằm bên trong góc nội tiếp để thiết lập mối liên hệ số đo với góc nội tiếp và góc ở tâm.
+  - *Lưu ý:* Xét trong ngữ cảnh góc nội tiếp ở Bài 27 (Tập 2), tiếp nối khái niệm cung bị chắn bởi góc ở tâm ở Tập 1.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B14, tr. 87; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 1), tr. 88; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 2), tr. 88; SGK Toán 9 KNTT Tập 2, Chương 09, B27, tr. 67; SGK Toán 9 KNTT Tập 2, Chương 09, B27, tr. 68; SGK Toán 9 KNTT Tập 2, Chương 09, B27, tr. 68, 69
+
 ### interior angle
 - **Tiếng Việt:** Góc
 - **Chuyên ngành gốc:** Toán học
@@ -4470,6 +5268,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Xét điều kiện hệ số góc $a \ne a'$ của hai đường thẳng $y = ax + b$ và $y = a'x + b'$ trên mặt phẳng $Oxy$, phân biệt với khái niệm hai đường thẳng có một điểm chung trong hình học phẳng lớp 6.
 - **Nguồn:** SGK Toán 12 KNTT Tập 2, Chương 05, B15, tr. 41; SGK Toán 12 KNTT Tập 2, Chương 05, B15 (Mục 3), tr. 46; SGK Toán 12 KNTT Tập 2, Chương 05, B15 (Mục 3), tr. 46, 47; SGK Toán 6 KNTT Tập 2, Chương 08, B32, tr. 47; SGK Toán 6 KNTT Tập 2, Chương 08, B32 (Mục 3), tr. 50; SGK Toán 6 KNTT Tập 2, Chương 08, B32 (Mục 3), tr. 50, 51; SGK Toán 8 KNTT Tập 2, Chương 07, B29 (Mục 2), tr. 53; SGK Toán 8 KNTT Tập 2, Chương 07, B29 (Mục 2), tr. 53, 54; SGK Toán 8 KNTT Tập 2, Chương 07, B29 (Mục 2), tr. 54
 
+### intersecting tangents theorem
+- **Tiếng Việt:** Định lí về tính chất của hai tiếp tuyến cắt nhau
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The theorem stating that when two tangents to a circle $(O)$ at points of tangency $A, B$ intersect at $P$, point $P$ is equidistant from the two points of tangency ($PA = PB$), ray $PO$ bisects the angle formed by the two tangents ($\widehat{APB}$), and ray $OP$ bisects the angle formed by the two radii to the points of tangency ($\widehat{AOB}$).
+- **Giải thích (VI):** Định lí khẳng định khi hai tiếp tuyến của đường tròn $(O)$ tại hai tiếp điểm $A, B$ cắt nhau tại $P$ thì $P$ cách đều hai tiếp điểm ($PA = PB$), tia $PO$ là tia phân giác của góc tạo bởi hai tiếp tuyến ($\widehat{APB}$) và tia $OP$ là tia phân giác của góc tạo bởi hai bán kính qua hai tiếp điểm ($\widehat{AOB}$).
+- **Bối cảnh:** Toán học lớp 9, Bài 16 (Mục 3): Chứng minh hai đoạn tiếp tuyến bằng nhau, tia phân giác của góc và tính chất tâm đường tròn nội tiếp tam giác.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 3), tr. 102; SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 3), tr. 102, 103
+
 ### intersection line of two planes containing parallel lines
 - **Tiếng Việt:** Giao tuyến của hai mặt phẳng chứa hai đường thẳng song song
 - **Chuyên ngành gốc:** Toán học
@@ -4484,7 +5290,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The event 'both $A$ and $B$ occur' formed from two events $A$ and $B$, denoted by $AB$ (or $A \cap B$). It corresponds to the subset $A \cap B$ of the sample space $\Omega$.
 - **Giải thích (VI):** Biến cố “cả $A$ và $B$ đều xảy ra” tạo thành từ hai biến cố $A$ và $B$, kí hiệu là $AB$ (hoặc $A \cap B$). Biến cố giao của $A$ và $B$ là tập con $A \cap B$ của không gian mẫu $\Omega$.
 - **Bối cảnh:** Toán học lớp 11, Bài 28 (Mục 2): Mô tả biến cố cả hai biến cố thành phần cùng đồng thời xảy ra trong một phép thử ngẫu nhiên.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B28 (Mục 2), tr. 68, 69
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B28 (Mục 2), tr. 68, 69; SGK Toán 11 KNTT Tập 2, Chương 08, B28, tr. 66; SGK Toán 11 KNTT Tập 2, Chương 08, B28 (Mục 1), tr. 68; SGK Toán 11 KNTT Tập 2, Chương 08, B28 (Mục 2), tr. 68
 
 ### intersection of two sets
 - **Tiếng Việt:** Giao của hai tập hợp (giao)
@@ -4495,7 +5301,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 10, Bài 2 (Mục 3a): Tìm tập hợp các phần tử chung hoặc tập nghiệm chung của hệ điều kiện.
   - Toán học lớp 6, Bài 1 (Mục 2): Xác định tập hợp các phần tử thuộc đồng thời hai tập hợp cho trước.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2, tr. 12; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 3.a), tr. 16; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 3.a), tr. 17; SGK Toán 6 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 8
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2, tr. 12; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 3.a), tr. 16; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 3.a), tr. 17; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.b), tr. 16; SGK Toán 6 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 8
 
 ### intersection point of a line and a plane
 - **Tiếng Việt:** Giao điểm của đường thẳng và mặt phẳng
@@ -4504,6 +5310,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Điểm chung duy nhất giữa một đường thẳng và một mặt phẳng không chứa đường thẳng đó, thường được xác định thông qua giao điểm của đường thẳng đang xét với một đường thẳng nằm trong mặt phẳng đã cho.
 - **Bối cảnh:** Toán học lớp 11, Bài 10 (Mục 4): Phương pháp xác định điểm chung giữa đường thẳng và mặt phẳng trong các bài toán hình học không gian.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 04, B10 (Mục 4), tr. 76
+
+### intersection points of two circles
+- **Tiếng Việt:** Giao điểm của hai đường tròn (giao điểm)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** Each of the two distinct common points lying simultaneously on two intersecting circles.
+- **Giải thích (VI):** Mỗi điểm trong hai điểm chung phân biệt cùng thuộc cả hai đường tròn cắt nhau.
+- **Bối cảnh:** Toán học lớp 9, Bài 17 (Mục 1): Xác định hai đầu mút của dây chung khi hai đường tròn cắt nhau, phân biệt với tiếp điểm khi hai đường tròn tiếp xúc.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B17, tr. 104; SGK Toán 9 KNTT Tập 1, Chương 05, B17 (Mục 1), tr. 104; SGK Toán 9 KNTT Tập 1, Chương 05, B17 (Mục 1), tr. 104, 105
 
 ### invalid data
 - **Tiếng Việt:** Dữ liệu không hợp lí
@@ -4632,6 +5446,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 7, Bài 36 (Mục 2): Tính toán diện tích xung quanh và dung tích các vật thể dạng hình hộp chữ nhật hoặc hình lập phương.
 - **Nguồn:** SGK Toán 7 KNTT Tập 2, Chương 10, B36 (Mục 2), tr. 88; SGK Toán 7 KNTT Tập 2, Chương 10, B36 (Mục 2), tr. 88, 89
 
+### lateral surface area of a cone
+- **Tiếng Việt:** Diện tích xung quanh của hình nón
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The area of the lateral surface enclosing a cone (excluding its base), denoted by $S_{\text{xq}}$ and given by the formula $S_{\text{xq}} = \pi rl$, where $r$ is the base radius and $l$ is the length of a generatrix.
+- **Giải thích (VI):** Diện tích phần mặt xung quanh của hình nón (không tính mặt đáy), kí hiệu là $S_{\text{xq}}$ và tính theo công thức $S_{\text{xq}} = \pi rl$, trong đó $r$ là bán kính đáy và $l$ là độ dài đường sinh.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 2): Tính diện tích bề mặt cong bao quanh các vật thể có dạng hình nón.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 98; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 98, 99; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 99
+
 ### lateral surface area of a cube
 - **Tiếng Việt:** Diện tích xung quanh của hình lập phương
 - **Chuyên ngành gốc:** Toán học
@@ -4639,6 +5461,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Tổng diện tích bốn mặt bên của hình lập phương có độ dài cạnh $a$, xác định bởi công thức $S_{\text{xq}} = 4a^2$.
 - **Bối cảnh:** Toán học lớp 7, Bài 36 (Mục 2): Tính tổng diện tích bốn mặt bên của khối vật thể dạng hình lập phương.
 - **Nguồn:** SGK Toán 7 KNTT Tập 2, Chương 10, B36 (Mục 2), tr. 88; SGK Toán 7 KNTT Tập 2, Chương 10, B36 (Mục 2), tr. 88, 89
+
+### lateral surface area of a cylinder
+- **Tiếng Việt:** Diện tích xung quanh của hình trụ
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The area of the lateral surface enclosing a cylinder (excluding its two bases), denoted by $S_{\text{xq}}$ and given by the formula $S_{\text{xq}} = 2\pi Rh$, where $R$ is the base radius and $h$ is the height.
+- **Giải thích (VI):** Diện tích phần mặt xung quanh của hình trụ (không tính hai đáy), kí hiệu là $S_{\text{xq}}$ và tính theo công thức $S_{\text{xq}} = 2\pi Rh$, trong đó $R$ là bán kính đáy và $h$ là chiều cao.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 1): Tính diện tích bề mặt cong bao quanh các vật thể hình trụ trong hình học và thực tiễn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 1), tr. 95; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 1), tr. 95, 96
 
 ### lateral surface area of a rectangular prism
 - **Tiếng Việt:** Diện tích xung quanh của hình hộp chữ nhật
@@ -4729,6 +5559,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Số thực $L$ mà hàm số $y = f(x)$ xác định trên khoảng $(a; x_0)$ tiến tới khi $x \to x_0$ từ bên trái, thoả mãn với mọi dãy số $(x_n)$ sao cho $a < x_n < x_0$ và $x_n \to x_0$ đều có $f(x_n) \to L$, kí hiệu $\lim_{x \to x_0^-} f(x) = L$.
 - **Bối cảnh:** Toán học lớp 11, Bài 16 (Mục 1): Tính giới hạn của hàm số khi biến số dần tới điểm đang xét từ phía bên trái trên trục số.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 05, B16 (Mục 1), tr. 113; SGK Toán 11 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 131
+
+### left-hand side of an inequality
+- **Tiếng Việt:** Vế trái của bất đẳng thức (vế trái)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The number or expression $a$ positioned to the left of the inequality sign in an inequality of the form $a > b$, $a < b$, $a \ge b$, or $a \le b$.
+- **Giải thích (VI):** Số hoặc biểu thức $a$ nằm ở bên trái dấu thứ tự trong một bất đẳng thức (hoặc bất phương trình) dạng $a > b$, $a < b$, $a \ge b$ hoặc $a \le b$.
+- **Bối cảnh:** Toán học lớp 9, Bài 5 (Mục 1): Xác định thành phần bên trái dấu so sánh khi biến đổi bất đẳng thức và bất phương trình.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 1), tr. 32; SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 1), tr. 32, 33; SGK Toán 9 KNTT Tập 1, Chương 02, B6 (Mục 1), tr. 38
 
 ### leg of a right triangle
 - **Tiếng Việt:** Cạnh góc vuông (cạnh góc vuông của một tam giác vuông)
@@ -4883,7 +5721,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A line $\Delta$ that is perpendicular to every line lying in a plane $(P)$, denoted by $\Delta \perp (P)$. When $\Delta$ is perpendicular to $(P)$, the plane $(P)$ is also perpendicular to $\Delta$.
 - **Giải thích (VI):** Đường thẳng $\Delta$ có tính chất vuông góc với mọi đường thẳng nằm trong mặt phẳng $(P)$, kí hiệu là $\Delta \perp (P)$. Khi $\Delta$ vuông góc với $(P)$, mặt phẳng $(P)$ cũng vuông góc với đường thẳng $\Delta$.
 - **Bối cảnh:** Toán học lớp 11, Bài 23 (Mục 1): Định nghĩa quan hệ vuông góc giữa một đường thẳng và một mặt phẳng trong hình học không gian.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B23 (Mục 1), tr. 31, 32
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B23 (Mục 1), tr. 31, 32; SGK Toán 11 KNTT Tập 2, Chương 07, B23, tr. 31; SGK Toán 11 KNTT Tập 2, Chương 07, B23 (Mục 1), tr. 31
 
 ### line segment
 - **Tiếng Việt:** Đoạn thẳng
@@ -4907,7 +5745,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A theorem stating that if a line $d$ is perpendicular to two intersecting lines $a$ and $b$ belonging to the same plane $(P)$, then line $d$ is perpendicular to plane $(P)$ ($d \perp a, d \perp b, a \cap b = \{I\}, a, b \subset (P) \Rightarrow d \perp (P)$).
 - **Giải thích (VI):** Định lí khẳng định rằng nếu một đường thẳng $d$ vuông góc với hai đường thẳng cắt nhau $a$ và $b$ thuộc cùng một mặt phẳng $(P)$ thì đường thẳng $d$ vuông góc với mặt phẳng $(P)$ ($d \perp a, d \perp b, a \cap b = \{I\}, a, b \subset (P) \Rightarrow d \perp (P)$).
 - **Bối cảnh:** Toán học lớp 11, Bài 23 (Mục 1): Chứng minh một đường thẳng vuông góc với mặt phẳng thông qua hai đường thẳng cắt nhau thuộc mặt phẳng đó.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B23 (Mục 1), tr. 32, 33
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B23 (Mục 1), tr. 32, 33; SGK Toán 11 KNTT Tập 2, Chương 07, B23 (Mục 1), tr. 32
 
 ### linear binomial
 - **Tiếng Việt:** Nhị thức bậc nhất (đa thức bậc nhất; nhị thức)
@@ -4927,6 +5765,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 8, Bài 25 (Mục 2): Dạng phương trình một ẩn cơ bản nhất luôn có nghiệm duy nhất.
 - **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 07, B25, tr. 27; SGK Toán 8 KNTT Tập 2, Chương 07, B25 (Mục 2), tr. 29; SGK Toán 8 KNTT Tập 2, Chương 07, B25 (Mục 2), tr. 29, 30
 
+### linear equation in two unknowns
+- **Tiếng Việt:** Phương trình bậc nhất hai ẩn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** An algebraic relation of the form $ax + by = c$ in two unknowns $x$ and $y$, where $a, b, c$ are given numbers ($a \ne 0$ or $b \ne 0$). Every linear equation in two unknowns has infinitely many solutions.
+- **Giải thích (VI):** Hệ thức có dạng $ax + by = c$ với hai ẩn $x, y$, trong đó $a, b, c$ là các số đã biết ($a \ne 0$ hoặc $b \ne 0$). Mỗi phương trình bậc nhất hai ẩn đều có vô số nghiệm.
+- **Bối cảnh:** Toán học lớp 9, Bài 1 (Mục 1): Biểu diễn mối quan hệ bậc nhất giữa hai đại lượng chưa biết.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 6; SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 6, 7
+
 ### linear function
 - **Tiếng Việt:** Hàm số bậc nhất
 - **Chuyên ngành gốc:** Toán học
@@ -4937,13 +5783,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Trong chương trình phổ thông Việt Nam, hàm số bậc nhất yêu cầu điều kiện $a \ne 0$ (loại trừ hàm hằng $y = b$).
 - **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 07, B28, tr. 47; SGK Toán 8 KNTT Tập 2, Chương 07, B28 (Mục 1), tr. 47; SGK Toán 8 KNTT Tập 2, Chương 07, B28 (Mục 1), tr. 47, 48
 
+### linear inequality in one unknown
+- **Tiếng Việt:** Bất phương trình bậc nhất một ẩn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** An inequality of the form $ax + b < 0$ (or $ax + b > 0$, $ax + b \le 0$, $ax + b \ge 0$), where $x$ is the unknown and $a, b$ are given numbers with $a \ne 0$.
+- **Giải thích (VI):** Bất phương trình có dạng $ax + b < 0$ (hoặc $ax + b > 0$, $ax + b \le 0$, $ax + b \ge 0$), trong đó $x$ là ẩn và $a, b$ là hai số đã cho với điều kiện $a \ne 0$.
+- **Bối cảnh:** Toán học lớp 9, Bài 6 (Mục 1): nhận diện dạng tổng quát và điều kiện hệ số khác không của bất phương trình bậc nhất một ẩn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 02, B6, tr. 38; SGK Toán 9 KNTT Tập 1, Chương 02, B6 (Mục 1), tr. 38; SGK Toán 9 KNTT Tập 1, Chương 02, B6 (Mục 1), tr. 38, 39
+
 ### linear inequality in two variables
 - **Tiếng Việt:** Bất phương trình bậc nhất hai ẩn
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** An inequality in two unknowns $x, y$ of the general form $ax + by \le c$ (or $ax + by \ge c$, $ax + by < c$, $ax + by > c$), where $a, b, c$ are given real numbers with $a$ and $b$ not both equal to $0$.
 - **Giải thích (VI):** Bất phương trình đối với hai ẩn số $x, y$ có dạng tổng quát $ax + by \le c$ (hoặc $ax + by \ge c$, $ax + by < c$, $ax + by > c$), trong đó $a, b, c$ là những số thực đã cho với $a$ và $b$ không đồng thời bằng $0$.
 - **Bối cảnh:** Toán học lớp 10, Bài 3 (Mục 1): Mô hình hoá ràng buộc bậc nhất giữa hai đại lượng thực tế.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 02, B3, tr. 22; SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 1), tr. 23
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 02, B3, tr. 22; SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 1), tr. 23; SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 2), tr. 23
 
 ### little Bézout's theorem
 - **Tiếng Việt:** Định lí Bézout
@@ -5043,7 +5897,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A logarithmic inequality reducible to comparing two logarithms of the same base, $\log_a u > \log_a v$ (or with $\ge, <, \le$), where $a > 0, a \ne 1$. When $a > 1$, $\log_a u > \log_a v \Leftrightarrow u > v > 0$; when $0 < a < 1$, $\log_a u > \log_a v \Leftrightarrow 0 < u < v$.
 - **Giải thích (VI):** Dạng bất phương trình lôgarit biến đổi được về so sánh hai lôgarit cùng cơ số $\log_a u > \log_a v$ (hoặc với dấu $\ge, <, \le$) trong điều kiện $a > 0, a \ne 1$. Khi $a > 1$ thì $\log_a u > \log_a v \Leftrightarrow u > v > 0$; khi $0 < a < 1$ thì $\log_a u > \log_a v \Leftrightarrow 0 < u < v$.
 - **Bối cảnh:** Toán học lớp 11, Bài 21 (Mục 4): Giải bất phương trình lôgarit bằng phương pháp biến đổi hai vế về cùng một cơ số kết hợp điều kiện xác định.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 06, B21 (Mục 4), tr. 23, 24
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 06, B21 (Mục 4), tr. 23, 24; SGK Toán 11 KNTT Tập 2, Chương 06, B21 (Mục 3), tr. 23; SGK Toán 11 KNTT Tập 2, Chương 06, B21 (Mục 4), tr. 23
 
 ### logarithmic scale
 - **Tiếng Việt:** Thang đo lôgarit
@@ -5062,7 +5916,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Tin học lớp 11, Bài 4 (Mục 2.a): các phép biến đổi lôgic cơ bản làm nền tảng xây dựng mạch số của máy tính.
   - Tin học lớp 8, Bài 13 (Mục 1): Kết hợp hoặc phủ định các biểu thức điều kiện trong ngôn ngữ lập trình trực quan Scratch.
-- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 1.a), tr. 22; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 1.b), tr. 22; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 24; SGK Tin học 8 KNTT, Chủ đề 05, B13 (Mục 1), tr. 77
+- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 1.a), tr. 22; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 1.b), tr. 22; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 24; SGK Tin học ICT 11 KNTT, Chủ đề 01, B4 (Mục 1.a), tr. 22; SGK Tin học 8 KNTT, Chủ đề 05, B13 (Mục 1), tr. 77
 
 ### logical value
 - **Tiếng Việt:** Đại lượng lôgic (giá trị lôgic)
@@ -5073,7 +5927,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Tin học lớp 11, Bài 4 (Mục 2.a): cơ sở biểu diễn trạng thái lôgic bằng bit nhị phân trong máy tính.
   - Tin học lớp 10, Bài 5 (Mục 1.a): Khái niệm đại lượng mang giá trị Đúng/Sai dùng để tạo thành các biểu thức lôgic.
-- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 24; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 24, 25; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 25; SGK Tin học 10 KNTT, Chủ đề 01, B5, tr. 24; SGK Tin học 10 KNTT, Chủ đề 01, B5 (Mục 1), tr. 24; SGK Tin học 10 KNTT, Chủ đề 01, B5 (Mục 1.a), tr. 24
+- **Nguồn:** SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 24; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 24, 25; SGK Tin học CS 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 25; SGK Tin học ICT 11 KNTT, Chủ đề 01, B4 (Mục 2.a), tr. 24; SGK Tin học 10 KNTT, Chủ đề 01, B5, tr. 24; SGK Tin học 10 KNTT, Chủ đề 01, B5 (Mục 1), tr. 24; SGK Tin học 10 KNTT, Chủ đề 01, B5 (Mục 1.a), tr. 24
 
 ### logistic map
 - **Tiếng Việt:** Dãy logistic
@@ -5114,6 +5968,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Đường chéo chính của hình lục giác đều trong hình học phẳng lớp 6, phân biệt với đường chéo chính của ma trận vuông.
 - **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 04, B18 (Mục 3), tr. 87; SGK Toán 6 KNTT Tập 1, Chương 04, B18 (Mục 3), tr. 87, 88
 
+### major arc
+- **Tiếng Việt:** Cung lớn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The portion of a circle sharing endpoints $A, B$ with the minor arc but lying outside the non-straight central angle $\widehat{AOB}$, commonly denoted using an intermediate point on the arc such as $\overset{\frown}{AnB}$.
+- **Giải thích (VI):** Phần đường tròn có chung hai mút $A, B$ với cung nhỏ nhưng nằm bên ngoài góc ở tâm $\widehat{AOB}$ không bẹt, thường kí hiệu kèm thêm một điểm trên cung như $\overset{\frown}{AnB}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 14 (Mục 2): Phân biệt với cung nhỏ có cùng hai mút trên đường tròn và tính số đo cung lớn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 1), tr. 87; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 1), tr. 88; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 2), tr. 88
+
 ### mathematical expression
 - **Tiếng Việt:** Biểu thức
 - **Chuyên ngành gốc:** Toán học
@@ -5152,7 +6014,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A true mathematical proposition, commonly expressed in the conditional form $P \Rightarrow Q$ where $P$ is true. Here, $P$ is the hypothesis and $Q$ is the conclusion of the theorem.
 - **Giải thích (VI):** Mệnh đề toán học đúng, thường có dạng kéo theo $P \Rightarrow Q$ trong đó $P$ là mệnh đề đúng. Khi đó, $P$ là giả thiết và $Q$ là kết luận của định lí.
 - **Bối cảnh:** Toán học lớp 10, Bài 1 (Mục 3a): Phát biểu các tính chất toán học đúng dưới dạng giả thiết và kết luận.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 3.a), tr. 8; SGK Toán 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 103
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 3.a), tr. 8; SGK Toán 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 103; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 3.b), tr. 8; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 3.b), tr. 8, 9
 
 ### mean formula from a frequency table
 - **Tiếng Việt:** Công thức tính số trung bình từ bảng tần số
@@ -5181,6 +6043,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đại lượng biểu thị góc quay $\alpha^\circ$ mà tia $Om$ quét nên khi quay từ tia đầu $Ou$ đến tia cuối $Ov$, kí hiệu là $\text{sđ}(Ou, Ov)$. Các góc lượng giác có cùng tia đầu $Ou$ và tia cuối $Ov$ có số đo sai khác nhau một bội nguyên $k360^\circ$ ($k \in \mathbb{Z}$).
 - **Bối cảnh:** Toán học lớp 11, Bài 1 (Mục 1a): Biểu diễn định lượng chuyển động quay của tia từ tia đầu đến tia cuối.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 1.a), tr. 6; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 1.a), tr. 6, 7
+
+### measure of an inscribed angle
+- **Tiếng Việt:** Số đo của góc nội tiếp
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** In a circle, the measure of an inscribed angle equals half the measure of its intercepted arc: for $A, B, C \in (O)$, $\widehat{ACB} = \dfrac{1}{2}\text{m}\overset{\frown}{AB}$ (where arc $AB$ does not contain $C$).
+- **Giải thích (VI):** Trong một đường tròn, số đo của góc nội tiếp bằng một nửa số đo của cung bị chắn: với $A, B, C \in (O)$, ta có $\widehat{ACB} = \dfrac{1}{2}\text{sđ}\overset{\frown}{AB}$ (trong đó cung $AB$ không chứa $C$).
+- **Bối cảnh:** Toán học lớp 9, Bài 27: định lí liên hệ giữa số đo góc nội tiếp và số đo cung bị chắn trong một đường tròn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B27, tr. 69; SGK Toán 9 KNTT Tập 2, Chương 09, B27, tr. 69, 70
 
 ### measure of central tendency
 - **Tiếng Việt:** Số đặc trưng đo xu thế trung tâm
@@ -5217,6 +6087,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đoạn thẳng nối đỉnh góc vuông với trung điểm cạnh huyền của tam giác vuông, luôn có độ dài bằng một nửa cạnh huyền. Ngược lại, nếu một tam giác có đường trung tuyến ứng với một cạnh bằng nửa cạnh đó thì tam giác ấy là tam giác vuông.
 - **Bối cảnh:** Toán học lớp 8, Bài 13 (Mục 1 và Mục 2): hệ quả trực tiếp từ tính chất và dấu hiệu nhận biết hình chữ nhật, dùng để tính độ dài đoạn thẳng và chứng minh tam giác vuông.
 - **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 03, B13, tr. 64; SGK Toán 8 KNTT Tập 1, Chương 03, B13 (Mục 1), tr. 64; SGK Toán 8 KNTT Tập 1, Chương 03, B13 (Mục 1), tr. 64, 65
+
+### mental root calculation for quadratic equations
+- **Tiếng Việt:** Tính nhẩm nghiệm của phương trình bậc hai
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A rule applying Vieta's formulas to quickly find the roots of a quadratic equation $ax^2 + bx + c = 0$ ($a \ne 0$) in two special cases: if $a + b + c = 0$, the roots are $x_1 = 1, x_2 = \frac{c}{a}$; if $a - b + c = 0$, the roots are $x_1 = -1, x_2 = -\frac{c}{a}$.
+- **Giải thích (VI):** Quy tắc ứng dụng định lí Viète để tìm nhanh nghiệm của phương trình bậc hai $ax^2 + bx + c = 0$ ($a \ne 0$) trong hai trường hợp đặc biệt: khi $a + b + c = 0$ thì $x_1 = 1, x_2 = \frac{c}{a}$; khi $a - b + c = 0$ thì $x_1 = -1, x_2 = -\frac{c}{a}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 20 (Mục 2): Giải nhanh phương trình bậc hai khi tổng các hệ số $a + b + c = 0$ hoặc $a - b + c = 0$.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 06, B20 (Mục 1), tr. 22; SGK Toán 9 KNTT Tập 2, Chương 06, B20 (Mục 2), tr. 22; SGK Toán 9 KNTT Tập 2, Chương 06, B20 (Mục 2), tr. 22, 23
 
 ### method for finding divisors of an integer
 - **Tiếng Việt:** Cách tìm các ước của một số nguyên
@@ -5334,6 +6212,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 8, Bài 16 (Mục 1): nhận diện đường trung bình của tam giác và ứng dụng đo gián tiếp khoảng cách trên thực tế.
 - **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 04, B16, tr. 81; SGK Toán 8 KNTT Tập 1, Chương 04, B16 (Mục 1), tr. 81; SGK Toán 8 KNTT Tập 1, Chương 04, B16 (Mục 2), tr. 82
 
+### minor arc
+- **Tiếng Việt:** Cung nhỏ
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The portion of a circle bounded by two endpoints $A, B$ that lies inside a non-straight central angle $\widehat{AOB}$, commonly denoted by $\overset{\frown}{AB}$.
+- **Giải thích (VI):** Phần đường tròn giới hạn bởi hai điểm mút $A, B$ và nằm bên trong góc ở tâm $\widehat{AOB}$ không bẹt, thường kí hiệu là $\overset{\frown}{AB}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 14 (Mục 2): Phân biệt với cung lớn và nửa đường tròn khi xác định cung chắn bởi góc ở tâm.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 1), tr. 88; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 2), tr. 88; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 2), tr. 88, 89
+
 ### minuend
 - **Tiếng Việt:** Số bị trừ
 - **Chuyên ngành gốc:** Toán học
@@ -5370,6 +6256,16 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Biểu thức đại số có dạng tích $ax^n$ của một số thực $a$ với một luỹ thừa số mũ nguyên không âm $x^n$ của biến $x$, trong đó $a$ là hệ số và $n$ (khi $a \ne 0$) là bậc của đơn thức. Mỗi số thực cũng là một đơn thức một biến.
 - **Bối cảnh:** Toán học lớp 7, Bài 25 (Mục 1): nhận biết đơn thức một biến và xác định hệ số, bậc của đơn thức.
 - **Nguồn:** SGK Toán 7 KNTT Tập 2, Chương 07, B25, tr. 25; SGK Toán 7 KNTT Tập 2, Chương 07, B25 (Mục 1), tr. 25; SGK Toán 7 KNTT Tập 2, Chương 07, B25 (Mục 1), tr. 25, 26
+
+### monomial quadratic function
+- **Tiếng Việt:** Hàm số $y = ax^2$ (hàm số dạng $y = ax^2$)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A function defined for all real values of the variable $x$, given by the formula $y = ax^2$ where $a$ is a nonzero real coefficient ($a \ne 0$).
+- **Giải thích (VI):** Hàm số xác định với mọi giá trị thực của biến số $x$, cho bởi công thức $y = ax^2$ với $a$ là hệ số thực khác $0$ ($a \ne 0$).
+- **Bối cảnh:**
+  - Toán học lớp 9, Bài 18 (Mục 1): Mô hình hoá các đại lượng tỉ lệ thuận với bình phương biến số như quãng đường rơi tự do hay diện tích hình tròn.
+  - *Lưu ý:* Scoped in Grade 9 to the homogeneous quadratic form y = ax^2 (a ≠ 0), prior to the general quadratic function y = ax^2 + bx + c introduced in Grade 10.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 06, B18, tr. 4; SGK Toán 9 KNTT Tập 2, Chương 06, B18 (Mục 1), tr. 5; SGK Toán 9 KNTT Tập 2, Chương 06, B18 (Mục 2), tr. 6
 
 ### monotonicity analysis of a function
 - **Tiếng Việt:** Xét chiều biến thiên của hàm số
@@ -5439,13 +6335,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 8, Bài 4 (Mục 1): Thao tác cơ sở để thực hiện phép nhân đơn thức với đa thức và nhân hai đa thức nhiều biến.
 - **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 01, B4, tr. 19; SGK Toán 8 KNTT Tập 1, Chương 01, B4 (Mục 1), tr. 19; SGK Toán 8 KNTT Tập 1, Chương 01, B4 (Mục 1), tr. 19, 20
 
+### multiplication property of inequalities
+- **Tiếng Việt:** Tính chất của bất đẳng thức liên quan đến phép nhân
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The property stating that multiplying both sides of an inequality by the same positive number yields a new inequality of the same sense, whereas multiplying both sides by the same negative number yields a new inequality of opposite sense.
+- **Giải thích (VI):** Tính chất khẳng định khi nhân cả hai vế của một bất đẳng thức với cùng một số dương thì thu được bất đẳng thức mới cùng chiều, còn khi nhân cả hai vế với cùng một số âm thì thu được bất đẳng thức mới ngược chiều với bất đẳng thức đã cho.
+- **Bối cảnh:** Toán học lớp 9, Bài 5 (Mục 3): Biến đổi chứng minh bất đẳng thức và giải bất phương trình bậc nhất một ẩn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 2), tr. 34; SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 3), tr. 34; SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 3), tr. 34, 35
+
 ### multiplication rule for independent events
 - **Tiếng Việt:** Công thức nhân xác suất cho hai biến cố độc lập
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** A formula for computing the probability of the intersection of two independent events $A$ and $B$, given by $P(AB) = P(A) \cdot P(B)$.
 - **Giải thích (VI):** Công thức tính xác suất của biến cố giao đối với hai biến cố $A$ và $B$ độc lập với nhau, xác định bởi $P(AB) = P(A) \cdot P(B)$.
 - **Bối cảnh:** Toán học lớp 11, Bài 30 (Mục 1): Tính xác suất để cả hai biến cố độc lập đồng thời xảy ra dựa vào xác suất của từng biến cố.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B30 (Mục 1), tr. 76, 77
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B30 (Mục 1), tr. 76, 77; SGK Toán 11 KNTT Tập 2, Chương 08, B30, tr. 76; SGK Toán 11 KNTT Tập 2, Chương 08, B30 (Mục 1), tr. 76
 
 ### multiplication rule of probability
 - **Tiếng Việt:** Công thức nhân xác suất
@@ -5482,7 +6386,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Two events $A$ and $B$ that cannot occur simultaneously, meaning that if one occurs, the other does not. Events $A$ and $B$ are mutually exclusive if and only if $A \cap B = \varnothing$.
 - **Giải thích (VI):** Hai biến cố $A$ và $B$ không đồng thời xảy ra, nghĩa là nếu biến cố này xảy ra thì biến cố kia không xảy ra. Hai biến cố $A$ và $B$ xung khắc khi và chỉ khi $A \cap B = \varnothing$.
 - **Bối cảnh:** Toán học lớp 11, Bài 29 (Mục 1a): Kiểm tra điều kiện hai biến cố không đồng thời xảy ra trước khi dùng công thức cộng xác suất rút gọn.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B29 (Mục 1.a), tr. 72, 73
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B29 (Mục 1.a), tr. 72, 73; SGK Toán 11 KNTT Tập 2, Chương 08, B29, tr. 72; SGK Toán 11 KNTT Tập 2, Chương 08, B29 (Mục 1.a), tr. 72
+
+### mutually external circles and one circle containing another
+- **Tiếng Việt:** Hai đường tròn ngoài nhau, đường tròn đựng đường tròn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The two cases of non-intersecting circles $(O; R)$ and $(O'; R')$: mutually external when $OO' > R + R'$, and $(O; R)$ containing $(O'; R')$ when $R > R'$ and $OO' < R - R'$ (with the special case $O \equiv O'$ and $R \ne R'$ forming concentric circles).
+- **Giải thích (VI):** Hai dạng của hai đường tròn không giao nhau $(O; R)$ và $(O'; R')$: ngoài nhau khi $OO' > R + R'$, và $(O; R)$ đựng $(O'; R')$ khi $R > R'$ và $OO' < R - R'$ (đặc biệt khi $O \equiv O'$ và $R \ne R'$ là hai đường tròn đồng tâm).
+- **Bối cảnh:** Toán học lớp 9, Bài 17 (Mục 3): Phân biệt hai trường hợp không giao nhau của hai đường tròn dựa trên khoảng cách nối tâm so với tổng và hiệu hai bán kính.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B17 (Mục 3), tr. 106; SGK Toán 9 KNTT Tập 1, Chương 05, B17 (Mục 3), tr. 106, 107
 
 ### mutually opposite vectors
 - **Tiếng Việt:** Hai vectơ đối nhau
@@ -5514,7 +6426,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A proposition stating the opposite of a given proposition $P$, denoted by $\overline{P}$ and typically formed by inserting or removing "not" in the predicate of $P$. If $P$ is true then $\overline{P}$ is false, and if $P$ is false then $\overline{P}$ is true.
 - **Giải thích (VI):** Mệnh đề phát biểu trái ngược với mệnh đề $P$, kí hiệu là $\overline{P}$, thường lập bằng cách thêm hoặc bớt từ "không" hay "không phải" vào trước vị ngữ của $P$. Nếu $P$ đúng thì $\overline{P}$ sai, còn nếu $P$ sai thì $\overline{P}$ đúng.
 - **Bối cảnh:** Toán học lớp 10, Bài 1 (Mục 2): Lập phát biểu đối lập và xét tính đúng sai ngược nhau giữa hai mệnh đề $P$ và $\overline{P}$.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 7
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 7; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 1.b), tr. 7
 
 ### negation of quantified propositions
 - **Tiếng Việt:** Phủ định của mệnh đề chứa kí hiệu với mọi, tồn tại
@@ -5587,6 +6499,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Vectơ kí hiệu $k\vec{a}$, xác định từ một vectơ $\vec{a} \neq \vec{0}$ và một số thực âm $k < 0$, ngược hướng với vectơ $\vec{a}$ và có độ dài bằng $(-k)\lvert\vec{a}\rvert$.
 - **Bối cảnh:** Toán học lớp 10, Bài 9 (Mục 1): Xác định hướng và độ dài của vectơ $k\vec{a}$ khi nhân với số thực âm $k < 0$.
 - **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 04, B9 (Mục 1), tr. 56
+
+### net of a cone
+- **Tiếng Việt:** Hình khai triển của hình nón
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A plane figure consisting of one circular disk and one circular sector obtained by detaching the base of a cone, cutting its lateral surface along a generatrix $SA$, and laying it flat.
+- **Giải thích (VI):** Hình phẳng gồm một hình tròn và một hình quạt tròn thu được khi cắt rời đáy của hình nón và cắt mặt xung quanh dọc theo một đường sinh $SA$ rồi trải phẳng ra.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 2): Trực quan hoá mặt xung quanh của hình nón dưới dạng hình quạt tròn để xây dựng công thức diện tích xung quanh.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 98; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 98, 99
+
+### net of a cylinder
+- **Tiếng Việt:** Hình khai triển của hình trụ
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A plane figure consisting of two circular disks and a rectangle obtained by detaching the two bases of a cylinder, cutting along a generatrix, and laying it flat.
+- **Giải thích (VI):** Hình phẳng gồm hai hình tròn và một hình chữ nhật thu được khi cắt rời hai đáy của hình trụ và cắt theo một đường sinh rồi trải phẳng ra.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 1): Trực quan hoá cấu tạo mặt xung quanh và xây dựng công thức diện tích của hình trụ.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 1), tr. 95; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 1), tr. 95, 96
 
 ### non-collinear points
 - **Tiếng Việt:** Ba điểm không thẳng hàng
@@ -5699,6 +6627,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 11, Bài 5 (Mục 2): minh họa trực quan vị trí và xu hướng biến thiên của các số hạng trong dãy số.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 02, B5 (Mục 2), tr. 45; SGK Toán 11 KNTT Tập 1, Chương 02, B5 (Mục 3), tr. 45; SGK Toán 11 KNTT Tập 1, Chương 02, B5 (Mục 3), tr. 45, 46
 
+### number pi
+- **Tiếng Việt:** Số $\pi$
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The constant irrational number representing the ratio of a circle's circumference to its diameter, commonly approximated in practical calculations as $\pi \approx 3.14$.
+- **Giải thích (VI):** Hằng số vô tỉ không đổi biểu thị tỉ số giữa chu vi và đường kính của mọi đường tròn, trong tính toán thực tế thường lấy giá trị gần đúng $\pi \approx 3,14$.
+- **Bối cảnh:** Toán học lớp 9, Bài 15 (Mục 1): Hằng số cơ sở trong các công thức tính chu vi đường tròn, độ dài cung tròn và diện tích hình tròn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B15, tr. 91; SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 1), tr. 91; SGK Toán 9 KNTT Tập 1, Chương 05, B15 (Mục 1), tr. 91, 92
+
 ### number ray
 - **Tiếng Việt:** Tia số
 - **Chuyên ngành gốc:** Toán học
@@ -5784,7 +6720,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 10, Bài 2 (Mục 2b): Biểu diễn tập con liên tục của $\mathbb{R}$ xác định bởi các bất đẳng thức ngặt.
   - *Lưu ý:* Phân biệt khoảng $(a; b)$ (không chứa hai đầu mút $a, b$) với đoạn $[a; b]$ (chứa cả hai đầu mút) và nửa khoảng (chỉ chứa một đầu mút).
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.b), tr. 16
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.b), tr. 16; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 3.a), tr. 16; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 3.a), tr. 16, 17
 
 ### opposite algebraic fraction
 - **Tiếng Việt:** Phân thức đối
@@ -5861,6 +6797,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Cạnh không có đỉnh chung với một cạnh cho trước trong hình tứ giác (chẳng hạn cặp cạnh $AB$ và $CD$, hoặc $BC$ và $AD$ trong tứ giác $ABCD$). Trong hình chữ nhật và hình bình hành, các cạnh đối bằng nhau; trong hình thoi và hình bình hành, các cạnh đối song song với nhau.
 - **Bối cảnh:** Toán học lớp 6, Bài 19 (Mục 1, 2, 3): So sánh độ dài và kiểm tra tính song song của các cặp cạnh đối trong hình chữ nhật, hình thoi, hình bình hành.
 - **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 04, B19, tr. 89; SGK Toán 6 KNTT Tập 1, Chương 04, B19 (Mục 1), tr. 89; SGK Toán 6 KNTT Tập 1, Chương 04, B19 (Mục 1), tr. 89, 90
+
+### opposite side of an acute angle
+- **Tiếng Việt:** Cạnh đối của góc nhọn (cạnh đối)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The leg lying opposite a considered acute angle in a right triangle; for instance, in right triangle $ABC$ with right angle at $A$, side $AC$ is the opposite side of acute angle $B$.
+- **Giải thích (VI):** Cạnh góc vuông nằm đối diện với góc nhọn đang xét trong một tam giác vuông; chẳng hạn, trong tam giác $ABC$ vuông tại $A$, cạnh $AC$ là cạnh đối của góc nhọn $B$.
+- **Bối cảnh:** Toán học lớp 9, Bài 11 (Mục 1): xác định cạnh góc vuông đối diện với góc nhọn đang xét để lập tỉ số lượng giác trong tam giác vuông.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 67; SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 67, 68; SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 68
 
 ### opposite sides of a quadrilateral
 - **Tiếng Việt:** Hai cạnh đối nhau của tứ giác (cặp cạnh đối)
@@ -5986,7 +6930,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 11, Bài 24 (Mục 1): Xác định phép biến hình chiếu điểm, đường thẳng và hình không gian lên mặt phẳng theo phương vuông góc.
   - *Lưu ý:* Refers to the projection mapping onto a plane $(P)$ along a perpendicular direction $\Delta \perp (P)$, distinct from the projected image itself.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 38, 39
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 38, 39; SGK Toán 11 KNTT Tập 2, Chương 07, B24, tr. 38; SGK Toán 11 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 38
 
 ### orthogonal projection of a figure
 - **Tiếng Việt:** Hình chiếu vuông góc (hình chiếu)
@@ -5996,7 +6940,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 11, Bài 24 (Mục 1): Xác định hình ảnh thu được của điểm, đoạn thẳng hoặc hình không gian trên mặt phẳng chiếu.
   - *Lưu ý:* Refers to the resulting image $\mathcal{H}'$ of a figure $\mathcal{H}$ on a plane $(P)$ under an orthogonal projection.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 38, 39
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 38, 39; SGK Toán 11 KNTT Tập 2, Chương 07, B24, tr. 38; SGK Toán 11 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 38; SGK Toán 11 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 39
 
 ### outlier
 - **Tiếng Việt:** Giá trị bất thường
@@ -6028,12 +6972,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The curve representing the graph of a quadratic function $y = ax^2 + bx + c$ ($a \ne 0$, $\Delta = b^2 - 4ac$) in the coordinate plane, having vertex $I\left(-\frac{b}{2a}, -\frac{\Delta}{4a}\right)$ and axis of symmetry $x = -\frac{b}{2a}$. The curve opens upward if $a > 0$ and opens downward if $a < 0$.
 - **Giải thích (VI):** Đường cong biểu diễn đồ thị của hàm số bậc hai $y = ax^2 + bx + c$ ($a \ne 0$, $\Delta = b^2 - 4ac$) trên mặt phẳng toạ độ, có đỉnh $I\left(-\frac{b}{2a}; -\frac{\Delta}{4a}\right)$ và trục đối xứng là đường thẳng $x = -\frac{b}{2a}$. Đường cong này quay bề lõm lên trên nếu $a > 0$ và quay bề lõm xuống dưới nếu $a < 0$.
 - **Giải thích khác (SGK Toán 10 Tập 2):** EN: Set of all points $M$ in a plane equidistant from a fixed focus $F$ and a fixed directrix $\Delta$ not passing through $F$, satisfying $MF = d(M, \Delta)$. / VI: Tập hợp các điểm $M$ trong mặt phẳng cách đều một điểm cố định $F$ và một đường thẳng cố định $\Delta$ không đi qua $F$, tức là thoả mãn $MF = d(M, \Delta)$.
+- **Giải thích khác (SGK Toán 9 Tập 2):** EN: The symmetric plane curve representing the graph of the function $y = ax^2$ ($a \ne 0$), having its vertex at the origin $O$, taking the vertical axis $Oy$ as its axis of symmetry, and lying above the horizontal axis when $a > 0$ or below it when $a < 0$. / VI: Đường cong phẳng đối xứng biểu diễn đồ thị của hàm số $y = ax^2$ ($a \ne 0$), có đỉnh tại gốc toạ độ $O$, nhận trục tung $Oy$ làm trục đối xứng, nằm phía trên trục hoành khi $a > 0$ và nằm phía dưới trục hoành khi $a < 0$.
 - **Bối cảnh:**
   - Toán học lớp 10, Bài 16 (Mục 2): nhận dạng hình học đồ thị hàm số bậc hai và mô tả quỹ đạo chuyển động ném xiên.
   - Toán học lớp 10, Bài 22 (Mục 3): Định nghĩa đường parabol dưới góc nhìn hình học các đường conic và lập phương trình chính tắc $y^2 = 2px$.
+  - Toán học lớp 9, Bài 18 (Mục 2): Nhận diện dạng đường cong đặc trưng của đồ thị hàm số $y = ax^2$ ($a \ne 0$) và các hình ảnh parabol trong thực tế.
   - *Lưu ý:* Ở Chương VI (Đại số), parabol xét dưới dạng đồ thị hàm số bậc hai có trục đối xứng song song hoặc trùng với trục tung Oy; trong hình học toạ độ các đường conic, parabol còn được định nghĩa tổng quát qua tiêu điểm và đường chuẩn.
   - *Lưu ý:* Định nghĩa hình học tổng quát của parabol như một đường conic theo tiêu điểm $F$ và đường chuẩn $\Delta$ ($y^2 = 2px$), phân biệt với parabol là đồ thị hàm số bậc hai $y = ax^2 + bx + c$ ở Bài 16.
-- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 06, B16, tr. 11; SGK Toán 10 KNTT Tập 2, Chương 06, B16 (Mục 2), tr. 14; SGK Toán 10 KNTT Tập 2, Chương 06, B16 (Mục 2), tr. 14, 15; SGK Toán 10 KNTT Tập 2, Chương 07, B22, tr. 48; SGK Toán 10 KNTT Tập 2, Chương 07, B22 (Mục 2), tr. 52; SGK Toán 10 KNTT Tập 2, Chương 07, B22 (Mục 3), tr. 52
+  - *Lưu ý:* Defined in Grade 9 as the graph of y = ax^2 (a ≠ 0), prior to the general quadratic parabola and focus-directrix conic definition in Grade 10.
+- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 06, B16, tr. 11; SGK Toán 10 KNTT Tập 2, Chương 06, B16 (Mục 2), tr. 14; SGK Toán 10 KNTT Tập 2, Chương 06, B16 (Mục 2), tr. 14, 15; SGK Toán 10 KNTT Tập 2, Chương 07, B22, tr. 48; SGK Toán 10 KNTT Tập 2, Chương 07, B22 (Mục 2), tr. 52; SGK Toán 10 KNTT Tập 2, Chương 07, B22 (Mục 3), tr. 52; SGK Toán 9 KNTT Tập 2, Chương 06, B18 (Mục 2), tr. 7; SGK Toán 9 KNTT Tập 2, Chương 06, B18 (Mục 2), tr. 7, 8; SGK Toán 9 KNTT Tập 2, Chương 06, B18 (Mục 2), tr. 8
 
 ### parallel and coincident lines
 - **Tiếng Việt:** Hai đường thẳng song song, trùng nhau (hai đường thẳng song song; hai đường thẳng trùng nhau)
@@ -6254,7 +7201,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The plane passing through the midpoint of a line segment $AB$ and perpendicular to the line $AB$. The perpendicular bisector plane of segment $AB$ is the set of all points in space equidistant from the two points $A$ and $B$.
 - **Giải thích (VI):** Mặt phẳng đi qua trung điểm của đoạn thẳng $AB$ và vuông góc với đường thẳng $AB$. Mặt phẳng trung trực của đoạn thẳng $AB$ là tập hợp các điểm trong không gian cách đều hai điểm $A$ và $B$.
 - **Bối cảnh:** Toán học lớp 11, Bài 23 (Mục 2): Xác định tập hợp các điểm cách đều hai điểm phân biệt cho trước trong không gian.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B23 (Mục 2), tr. 33
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B23 (Mục 2), tr. 33; SGK Toán 11 KNTT Tập 2, Chương 07, B23, tr. 31; SGK Toán 11 KNTT Tập 2, Chương 07, B23 (Mục 1), tr. 33
 
 ### perpendicular bisector theorem
 - **Tiếng Việt:** Tính chất của đường trung trực
@@ -6272,7 +7219,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 11, Bài 26 (Mục 1): Tính khoảng cách từ một điểm đến một đường thẳng hoặc một mặt phẳng thông qua hình chiếu vuông góc.
   - *Lưu ý:* Defines the perpendicular distance in 3D space from a point to a line, $\text{d}(M, a)$, and from a point to a plane, $\text{d}(M, (P))$.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 1), tr. 54, 55
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 1), tr. 54, 55; SGK Toán 11 KNTT Tập 2, Chương 07, B26, tr. 54; SGK Toán 11 KNTT Tập 2, Chương 07, B26 (Mục 1), tr. 54
 
 ### perpendicular lines
 - **Tiếng Việt:** Hai đường thẳng vuông góc
@@ -6287,7 +7234,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Toán học lớp 7, Bài 8 (Mục 1): Trường hợp đặc biệt của hai đường thẳng cắt nhau, làm cơ sở cho quan hệ vuông góc và song song.
   - *Lưu ý:* Defined in three-dimensional Euclidean space via $(a, b) = 90^\circ$, without requiring the two lines to intersect.
   - *Lưu ý:* Khác với hình học phẳng nơi hai đường thẳng vuông góc luôn cắt nhau, trong không gian $Oxyz$ hai đường thẳng vuông góc có thể chéo nhau.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B22 (Mục 2), tr. 29; SGK Toán 12 KNTT Tập 2, Chương 05, B15, tr. 41; SGK Toán 12 KNTT Tập 2, Chương 05, B15 (Mục 1.d), tr. 45; SGK Toán 12 KNTT Tập 2, Chương 05, B15 (Mục 2), tr. 45; SGK Toán 7 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 43; SGK Toán 7 KNTT Tập 1, Chương 03, B8 (Mục 2), tr. 43; SGK Toán 7 KNTT Tập 1, Chương 03, B8 (Mục 2), tr. 43, 44
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B22 (Mục 2), tr. 29; SGK Toán 11 KNTT Tập 2, Chương 07, B22, tr. 27; SGK Toán 11 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 29; SGK Toán 12 KNTT Tập 2, Chương 05, B15, tr. 41; SGK Toán 12 KNTT Tập 2, Chương 05, B15 (Mục 1.d), tr. 45; SGK Toán 12 KNTT Tập 2, Chương 05, B15 (Mục 2), tr. 45; SGK Toán 7 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 43; SGK Toán 7 KNTT Tập 1, Chương 03, B8 (Mục 2), tr. 43; SGK Toán 7 KNTT Tập 1, Chương 03, B8 (Mục 2), tr. 43, 44
 
 ### perpendicular planes
 - **Tiếng Việt:** Hai mặt phẳng vuông góc
@@ -6298,7 +7245,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 11, Bài 25 (Mục 1): Xác định quan hệ vuông góc giữa hai mặt phẳng trong không gian dựa trên góc giữa chúng.
   - Toán học lớp 12, Bài 14 (Mục 4): Kiểm tra tính vuông góc giữa hai mặt phẳng bằng toạ độ và lập phương trình mặt phẳng vuông góc với một hoặc hai mặt phẳng cho trước.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 1), tr. 44; SGK Toán 12 KNTT Tập 2, Chương 05, B14 (Mục 4), tr. 35; SGK Toán 12 KNTT Tập 2, Chương 05, B14 (Mục 4), tr. 36
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 1), tr. 44; SGK Toán 11 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 29; SGK Toán 11 KNTT Tập 2, Chương 07, B22 (Mục 2), tr. 29; SGK Toán 11 KNTT Tập 2, Chương 07, B22 (Mục 2), tr. 29, 30; SGK Toán 12 KNTT Tập 2, Chương 05, B14 (Mục 4), tr. 35; SGK Toán 12 KNTT Tập 2, Chương 05, B14 (Mục 4), tr. 36
 
 ### perpendicular segment
 - **Tiếng Việt:** Đường vuông góc (đoạn vuông góc)
@@ -6392,7 +7339,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An angle $\widehat{xOy}$ formed by choosing a point $O$ on the edge $a$ of a dihedral angle $[P, a, Q]$ and drawing rays $Ox \subset (P)$ and $Oy \subset (Q)$ both perpendicular to $a$. Its measure is independent of the position of $O$ on $a$, defines the measure of the dihedral angle $[P, a, Q]$, and satisfies $0^\circ \le \widehat{xOy} \le 180^\circ$.
 - **Giải thích (VI):** Góc $\widehat{xOy}$ tạo bởi hai tia $Ox, Oy$ xuất phát từ một điểm $O$ thuộc cạnh $a$ của góc nhị diện $[P, a, Q]$, lần lượt nằm trên hai mặt $(P), (Q)$ và cùng vuông góc với $a$. Số đo của góc $\widehat{xOy}$ không phụ thuộc vào vị trí của $O$ trên $a$, biểu thị số đo của góc nhị diện $[P, a, Q]$ và thoả mãn $0^\circ \le \widehat{xOy} \le 180^\circ$.
 - **Bối cảnh:** Toán học lớp 11, Bài 25 (Mục 4): Đo độ mở của góc nhị diện trong đoạn $[0^\circ, 180^\circ]$ bằng góc phẳng vuông góc với cạnh nhị diện.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 4), tr. 47
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 4), tr. 47; SGK Toán 11 KNTT Tập 2, Chương 07, B25, tr. 44; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 3), tr. 47
 
 ### plane notation by generating elements
 - **Tiếng Việt:** Kí hiệu mặt phẳng xác định bởi điểm và đường thẳng hoặc hai đường thẳng cắt nhau
@@ -6449,8 +7396,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** The point $P(x_0; f(x_0))$ on the graph of a function $y = f(x)$ through which the tangent line passes and touches the graph with slope $k = f'(x_0)$.
 - **Giải thích (VI):** Điểm $P(x_0; f(x_0))$ thuộc đồ thị hàm số $y = f(x)$ nơi tiếp tuyến đi qua và tiếp xúc với đồ thị với hệ số góc $k = f'(x_0)$.
-- **Bối cảnh:** Toán học lớp 11, Bài 31 (Mục 4a): Xác định toạ độ điểm tiếp xúc giữa tiếp tuyến và đồ thị hàm số.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 09, B31 (Mục 3), tr. 84; SGK Toán 11 KNTT Tập 2, Chương 09, B31 (Mục 4.a), tr. 84; SGK Toán 11 KNTT Tập 2, Chương 09, B31 (Mục 4.a), tr. 84, 85
+- **Giải thích khác (SGK Toán 9 Tập 1):** EN: The unique common point shared by a line tangent to a circle, or by two mutually tangent circles. / VI: Điểm chung duy nhất của một đường thẳng tiếp xúc với một đường tròn, hoặc của hai đường tròn tiếp xúc với nhau.
+- **Bối cảnh:**
+  - Toán học lớp 11, Bài 31 (Mục 4a): Xác định toạ độ điểm tiếp xúc giữa tiếp tuyến và đồ thị hàm số.
+  - Toán học lớp 9, Bài 16 (Mục 1): Xác định chân đường vuông góc hạ từ tâm xuống tiếp tuyến và điểm chung duy nhất của hai đường tròn tiếp xúc ở Bài 17.
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 09, B31 (Mục 3), tr. 84; SGK Toán 11 KNTT Tập 2, Chương 09, B31 (Mục 4.a), tr. 84; SGK Toán 11 KNTT Tập 2, Chương 09, B31 (Mục 4.a), tr. 84, 85; SGK Toán 9 KNTT Tập 1, Chương 05, B16, tr. 99; SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 1), tr. 100; SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 2), tr. 100
 
 ### point on a line
 - **Tiếng Việt:** Điểm thuộc đường thẳng
@@ -6499,6 +7449,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Quan hệ tương ứng khẳng định điểm $M$ trên mặt phẳng toạ độ $Oxy$ có toạ độ $(x; y)$ khi và chỉ khi vectơ $\overrightarrow{OM}$ có toạ độ $(x; y)$, kéo theo độ dài $\lvert\overrightarrow{OM}\rvert = \sqrt{x^2 + y^2}$.
 - **Bối cảnh:** Toán học lớp 10, Bài 10 (Mục 2): Chuyển đổi qua lại giữa toạ độ điểm $M$ và toạ độ vectơ gốc $O$ đi tới $M$.
 - **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 04, B10 (Mục 2), tr. 62; SGK Toán 10 KNTT Tập 1, Chương 04, B10 (Mục 2), tr. 62, 63
+
+### points symmetric about a line
+- **Tiếng Việt:** Hai điểm đối xứng nhau qua một đường thẳng (đối xứng với nhau qua đường thẳng $d$; đối xứng trục)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A pair of points $M$ and $M'$ satisfying the condition that a given line $d$ is the perpendicular bisector of the line segment $MM'$.
+- **Giải thích (VI):** Cặp điểm $M$ và $M'$ thỏa mãn điều kiện đường thẳng $d$ cho trước là đường trung trực của đoạn thẳng $MM'$.
+- **Bối cảnh:** Toán học lớp 9, Bài 13 (Mục 2): xác định cặp điểm đối xứng qua đường thẳng để khảo sát tính đối xứng trục của đường tròn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B13 (Mục 2), tr. 85; SGK Toán 9 KNTT Tập 1, Chương 05, B13 (Mục 2), tr. 85, 86
+
+### points symmetric about a point
+- **Tiếng Việt:** Hai điểm đối xứng nhau qua một điểm (đối xứng với nhau qua điểm $I$; đối xứng tâm)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A pair of points $M$ and $M'$ satisfying the condition that a given point $I$ is the midpoint of the line segment $MM'$.
+- **Giải thích (VI):** Cặp điểm $M$ và $M'$ thỏa mãn điều kiện điểm $I$ cho trước là trung điểm của đoạn thẳng $MM'$.
+- **Bối cảnh:** Toán học lớp 9, Bài 13 (Mục 2): xác định điểm đối xứng qua một tâm cho trước để khảo sát tính đối xứng tâm của đường tròn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B13 (Mục 2), tr. 85; SGK Toán 9 KNTT Tập 1, Chương 05, B13 (Mục 2), tr. 85, 86
+
+### polygon
+- **Tiếng Việt:** Đa giác
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A closed plane figure formed by a finite sequence of connected line segments (such as $ABCDE$ formed by segments $AB, BC, CD, DE, EA$), in which no two segments sharing a common point lie on the same straight line.
+- **Giải thích (VI):** Hình phẳng khép kín gồm một dãy hữu hạn các đoạn thẳng nối tiếp nhau (chẳng hạn hình $ABCDE$ gồm các đoạn thẳng $AB, BC, CD, DE, EA$), trong đó bất kì hai đoạn thẳng nào có một điểm chung cũng không cùng nằm trên một đường thẳng.
+- **Bối cảnh:** Toán học lớp 9, Bài 30 (Mục 1): khái niệm mở rộng tam giác và tứ giác cho các hình phẳng tạo bởi nhiều đoạn thẳng khép kín.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B30, tr. 84; SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 1), tr. 84; SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 1), tr. 84, 85
 
 ### polynomial
 - **Tiếng Việt:** Đa thức
@@ -6577,7 +7551,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The symbol $+\infty$ (read positive infinity) indicating unbounded extension in the positive direction of the real line, paired with $-\infty$ (negative infinity) in the negative direction. In interval notation, the finite real numbers $a$ and $b$ are the endpoints of a closed, open, or half-open interval.
 - **Giải thích (VI):** Kí hiệu $+\infty$ (đọc là dương vô cực hoặc dương vô cùng) chỉ sự mở rộng không giới hạn về phía dương của trục số thực, đối lập với kí hiệu $-\infty$ (âm vô cực hoặc âm vô cùng) về phía âm. Trong kí hiệu đoạn, khoảng hay nửa khoảng, các số thực hữu hạn $a, b$ là các đầu mút của tập hợp.
 - **Bối cảnh:** Toán học lớp 10, Bài 2 (Mục 2b): Đọc và sử dụng kí hiệu $+\infty, -\infty$ cùng các đầu mút $a, b$ khi viết khoảng và nửa khoảng.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.b), tr. 16
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.b), tr. 16; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 3.a), tr. 16; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 3.a), tr. 16, 17
 
 ### positive integer
 - **Tiếng Việt:** Số nguyên dương
@@ -6658,6 +7632,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 6, Bài 6 (Mục 1): Viết gọn tích của nhiều thừa số bằng nhau và tính giá trị các luỹ thừa với số mũ tự nhiên.
   - *Lưu ý:* Chỉ biểu thức toán học $a^n$ biểu diễn tích của $n$ thừa số bằng nhau $a$, phân biệt với công suất (power) trong Vật lí.
+  - *Lưu ý:* Không nhầm với 'Công suất' (`power (physics)`) trong Vật lí.
   - *Lưu ý:* Không nhầm với 'Công suất' (`power (physics)`) trong Vật lí.
 - **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 01, B6, tr. 23; SGK Toán 6 KNTT Tập 1, Chương 01, B6 (Mục 1), tr. 23; SGK Toán 6 KNTT Tập 1, Chương 01, B6 (Mục 1), tr. 23, 24
 
@@ -6855,11 +7830,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A number taking values from $0$ to $1$ that measures the likelihood of an event occurring. This value can be written as a fraction, a decimal, or a percentage.
 - **Giải thích (VI):** Con số nhận giá trị từ $0$ đến $1$ dùng để đo lường khả năng xảy ra của một biến cố. Giá trị này có thể được viết dưới dạng phân số, số thập phân hoặc phần trăm.
 - **Giải thích khác (SGK Toán 8 Tập 2):** EN: A measure of the likelihood that an event $E$ occurs, denoted $P(E)$. When all possible outcomes of the action or experiment are equally likely, $P(E)$ equals the ratio of the number of favorable outcomes for $E$ to the total number of possible outcomes. / VI: Đại lượng đo khả năng xảy ra của biến cố $E$, kí hiệu là $P(E)$. Khi các kết quả có thể của hành động hay thực nghiệm là đồng khả năng, $P(E)$ bằng tỉ số giữa số kết quả thuận lợi cho biến cố $E$ và tổng số kết quả có thể.
+- **Giải thích khác (SGK Toán 9 Tập 2):** EN: A measure of the likelihood of an event $E$ in a random experiment $T$ with equally likely outcomes, defined as the ratio of the number of favorable outcomes $n(E)$ for $E$ to the number of elements $n(\Omega)$ in the sample space $\Omega$: $P(E) = \dfrac{n(E)}{n(\Omega)}$. / VI: Đại lượng đặc trưng cho khả năng xảy ra của biến cố $E$ trong phép thử $T$ có các kết quả có thể đồng khả năng, bằng tỉ số giữa số kết quả thuận lợi $n(E)$ cho biến cố $E$ và số phần tử $n(\Omega)$ của không gian mẫu $\Omega$: $P(E) = \dfrac{n(E)}{n(\Omega)}$.
 - **Bối cảnh:**
   - Toán học lớp 7, Bài 30 (Mục 1): Định lượng khả năng xảy ra của một biến cố bằng con số trong đoạn từ $0$ đến $1$.
   - Toán học lớp 8, Bài 31 (Mục Cách tính xác suất bằng tỉ số): Tính xác suất cổ điển của biến cố trong thực nghiệm đồng khả năng.
+  - Toán học lớp 9, Bài 26 (Mục 2): tính xác suất cổ điển của biến cố khi các kết quả có thể của phép thử là đồng khả năng.
   - *Lưu ý:* Định nghĩa xác suất cổ điển tính bằng tỉ số trong trường hợp các kết quả có thể đồng khả năng, phân biệt với xác suất thực nghiệm tính từ dữ liệu quan sát.
-- **Nguồn:** SGK Toán 7 KNTT Tập 2, Chương 08, B30, tr. 51; SGK Toán 7 KNTT Tập 2, Chương 08, B30 (Mục 1), tr. 51; SGK Toán 7 KNTT Tập 2, Chương 08, B30 (Mục 1), tr. 51, 52; SGK Toán 8 KNTT Tập 2, Chương 08, B31, tr. 63; SGK Toán 8 KNTT Tập 2, Chương 08, B31, tr. 63, 64; SGK Toán 8 KNTT Tập 2, Chương 08, B31, tr. 64
+- **Nguồn:** SGK Toán 7 KNTT Tập 2, Chương 08, B30, tr. 51; SGK Toán 7 KNTT Tập 2, Chương 08, B30 (Mục 1), tr. 51; SGK Toán 7 KNTT Tập 2, Chương 08, B30 (Mục 1), tr. 51, 52; SGK Toán 8 KNTT Tập 2, Chương 08, B31, tr. 63; SGK Toán 8 KNTT Tập 2, Chương 08, B31, tr. 63, 64; SGK Toán 8 KNTT Tập 2, Chương 08, B31, tr. 64; SGK Toán 9 KNTT Tập 2, Chương 08, B26, tr. 60; SGK Toán 9 KNTT Tập 2, Chương 08, B26 (Mục 1), tr. 61; SGK Toán 9 KNTT Tập 2, Chương 08, B26 (Mục 2), tr. 61, 62
 
 ### probability of an impossible event
 - **Tiếng Việt:** Xác suất của biến cố không thể (xác suất bằng 0)
@@ -7172,7 +8149,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Two theorems characterizing perpendicular planes: if $(P) \perp (Q)$ with intersection line $\Delta$, any line $a \subset (P)$ perpendicular to $\Delta$ is also perpendicular to $(Q)$. Moreover, if two intersecting planes are both perpendicular to a third plane, their line of intersection is perpendicular to that third plane.
 - **Giải thích (VI):** Hai định lí đặc trưng của các mặt phẳng vuông góc: nếu $(P) \perp (Q)$ theo giao tuyến $\Delta$ thì mọi đường thẳng $a \subset (P)$ vuông góc với $\Delta$ đều vuông góc với $(Q)$. Đồng thời, nếu hai mặt phẳng cắt nhau và cùng vuông góc với một mặt phẳng thứ ba thì giao tuyến của chúng vuông góc với mặt phẳng thứ ba đó.
 - **Bối cảnh:** Toán học lớp 11, Bài 25 (Mục 3): Suy ra đường thẳng vuông góc với mặt phẳng từ giả thiết các mặt phẳng vuông góc.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 3), tr. 46, 47
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 3), tr. 46, 47; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 2), tr. 46; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 3), tr. 46
 
 ### properties of planar representations of plane figures
 - **Tiếng Việt:** Tính chất hình biểu diễn của hình phẳng
@@ -7250,6 +8227,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 11, Bài 12 (Mục 2): Xác định giao tuyến của hai mặt phẳng khi biết một mặt phẳng chứa đường thẳng song song với mặt phẳng còn lại.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 04, B12 (Mục 2), tr. 86; SGK Toán 11 KNTT Tập 1, Chương 04, B12 (Mục 2), tr. 86, 87
 
+### property of a tangent to a circle
+- **Tiếng Việt:** Tính chất của tiếp tuyến
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The geometric property stating that if a line $a$ is tangent to a circle $(O)$ at the point of tangency $H$, then it is perpendicular to the radius $OH$ passing through that point ($OH \perp a$).
+- **Giải thích (VI):** Tính chất hình học khẳng định đường thẳng $a$ tiếp xúc với đường tròn $(O)$ tại tiếp điểm $H$ thì luôn vuông góc với bán kính $OH$ đi qua tiếp điểm đó ($OH \perp a$).
+- **Bối cảnh:** Toán học lớp 9, Bài 16 (Mục 1): Suy ra quan hệ vuông góc giữa tiếp tuyến và bán kính tại tiếp điểm khi giải toán hình học.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 1), tr. 100; SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 2), tr. 100; SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 2), tr. 100, 101
+
 ### property of adjacent supplementary angles
 - **Tiếng Việt:** Tính chất của hai góc kề bù
 - **Chuyên ngành gốc:** Toán học
@@ -7302,7 +8287,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Tin học lớp 10, Bài 5 (Mục 1.a): Khái niệm cơ sở để xác định giá trị lôgic và xây dựng biểu thức điều kiện trong lập trình.
   - Toán học lớp 10, Bài 1 (Mục 1a): Nhận diện phát biểu lôgic có tính đúng sai xác định và phân biệt với câu hỏi, câu cảm thán hoặc câu cầu khiến.
   - *Lưu ý:* Trong toán học, mệnh đề là câu khẳng định có tính đúng hoặc sai xác định, phân biệt với mệnh đề ngữ pháp (cụm chủ - vị) trong Ngữ văn.
-- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 01, B5, tr. 24; SGK Tin học 10 KNTT, Chủ đề 01, B5 (Mục 1), tr. 24; SGK Tin học 10 KNTT, Chủ đề 01, B5 (Mục 1.a), tr. 24; SGK Toán 10 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 1.a), tr. 6; SGK Toán 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 103
+- **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 01, B5, tr. 24; SGK Tin học 10 KNTT, Chủ đề 01, B5 (Mục 1), tr. 24; SGK Tin học 10 KNTT, Chủ đề 01, B5 (Mục 1.a), tr. 24; SGK Toán 10 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 1.a), tr. 6; SGK Toán 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 103; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 1.b), tr. 7
 
 ### propositional function
 - **Tiếng Việt:** Mệnh đề chứa biến
@@ -7310,7 +8295,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A declarative statement containing one or more variables whose truth value is not yet determined, commonly denoted as $P(n)$ or $P(x)$. Substituting a specific value from the domain for the variable turns the statement into a proposition that is either true or false.
 - **Giải thích (VI):** Câu khẳng định chứa một hoặc nhiều biến chưa xác định được ngay tính đúng sai, thường kí hiệu dạng $P(n)$ hoặc $P(x)$. Khi thay biến bằng một giá trị cụ thể thuộc tập xác định, câu đó trở thành một mệnh đề có tính đúng hoặc sai.
 - **Bối cảnh:** Toán học lớp 10, Bài 1 (Mục 1b): Xét tính đúng sai của câu khẳng định toán học phụ thuộc vào giá trị cụ thể của biến.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 1.b), tr. 7
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 1.b), tr. 7; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 7; SGK Toán 10 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 99
 
 ### pyramid
 - **Tiếng Việt:** Hình chóp (đỉnh; mặt đáy; mặt bên)
@@ -7331,7 +8316,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 11, Bài 27 (Mở đầu): Phân biệt phần không gian giới hạn bên trong (khối hình) với bề mặt bao quanh (hình không gian) khi tính thể tích.
   - *Lưu ý:* Covers the three-dimensional solid bounded by a pyramid, together with the regular frustum solid, prismatic solid, and parallelepiped solid.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61, 62
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61, 62; SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61; SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 62
 
 ### Pythagorean theorem
 - **Tiếng Việt:** Định lí Pythagore
@@ -7348,6 +8333,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Mỗi miền trong bốn miền của mặt phẳng toạ độ do hai trục toạ độ vuông góc $Ox$ và $Oy$ chia ra, đánh số lần lượt là góc phần tư thứ I, II, III và IV.
 - **Bối cảnh:** Toán học lớp 8, Bài 27 (Mục 2): Phân vùng mặt phẳng toạ độ $Oxy$ theo vị trí tương đối với hai trục $Ox, Oy$.
 - **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 07, B27 (Mục 2), tr. 43
+
+### quadratic equation in one unknown
+- **Tiếng Việt:** Phương trình bậc hai một ẩn (phương trình bậc hai)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** An algebraic equation of the form $ax^2 + bx + c = 0$, where $x$ is the unknown and $a, b, c$ are given real coefficients satisfying $a \ne 0$.
+- **Giải thích (VI):** Phương trình đại số có dạng $ax^2 + bx + c = 0$, trong đó $x$ là ẩn số và $a, b, c$ là các hệ số thực cho trước với điều kiện $a \ne 0$.
+- **Bối cảnh:** Toán học lớp 9, Bài 19 (Mục 1): Nhận diện phương trình bậc hai và xác định các hệ số trước khi giải hoặc áp dụng định lí Viète.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 06, B19, tr. 10; SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 1), tr. 10; SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 1), tr. 10, 11
+
+### quadratic formula
+- **Tiếng Việt:** Công thức nghiệm của phương trình bậc hai (công thức nghiệm)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The set of rules determining the real roots of the quadratic equation $ax^2 + bx + c = 0$ ($a \ne 0$) via the discriminant $\Delta = b^2 - 4ac$: two distinct roots $x_1 = \frac{-b + \sqrt{\Delta}}{2a}, x_2 = \frac{-b - \sqrt{\Delta}}{2a}$ when $\Delta > 0$, a double root $x_1 = x_2 = -\frac{b}{2a}$ when $\Delta = 0$, and no real roots when $\Delta < 0$.
+- **Giải thích (VI):** Hệ thống quy tắc xác định nghiệm của phương trình bậc hai $ax^2 + bx + c = 0$ ($a \ne 0$) theo biệt thức $\Delta = b^2 - 4ac$: có hai nghiệm phân biệt $x_1 = \frac{-b + \sqrt{\Delta}}{2a}, x_2 = \frac{-b - \sqrt{\Delta}}{2a}$ khi $\Delta > 0$, có nghiệm kép $x_1 = x_2 = -\frac{b}{2a}$ khi $\Delta = 0$, và vô nghiệm khi $\Delta < 0$.
+- **Bối cảnh:** Toán học lớp 9, Bài 19 (Mục 3): Giải phương trình bậc hai một ẩn tổng quát trên tập số thực.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 06, B19, tr. 10; SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 2), tr. 13; SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 3), tr. 13
 
 ### quadratic function
 - **Tiếng Việt:** Hàm số bậc hai (hàm số bậc hai của biến số x)
@@ -7477,6 +8478,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 10, Bài 18 (Mục 1, 2): Nhận dạng và giải các phương trình vô tỉ quy về phương trình bậc hai.
 - **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 06, B18, tr. 25; SGK Toán 10 KNTT Tập 2, Chương 06, B18 (Mục 1), tr. 25; SGK Toán 10 KNTT Tập 2, Chương 06, B18 (Mục 2), tr. 25
 
+### radicand
+- **Tiếng Việt:** Biểu thức lấy căn (biểu thức dưới dấu căn)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The algebraic expression $A$ placed under the radical sign in the square root expression $\sqrt{A}$.
+- **Giải thích (VI):** Biểu thức đại số $A$ nằm dưới dấu căn trong căn thức bậc hai $\sqrt{A}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 7 (Mục 2): xác định biểu thức nằm dưới dấu căn để tìm điều kiện xác định và thực hiện biến đổi căn thức.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B7 (Mục 1), tr. 46; SGK Toán 9 KNTT Tập 1, Chương 03, B7 (Mục 2), tr. 46; SGK Toán 9 KNTT Tập 1, Chương 03, B7 (Mục 2), tr. 46, 47
+
 ### radius of a circle
 - **Tiếng Việt:** Bán kính
 - **Chuyên ngành gốc:** Toán học
@@ -7486,6 +8495,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Toán học lớp 10, Bài 21 (Mục 1): Xác định kích thước đường tròn từ phương trình toạ độ trong mặt phẳng $Oxy$.
   - *Lưu ý:* Chỉ bán kính hình học $R > 0$ của đường tròn trong mặt phẳng $Oxy$, phân biệt với bán kính mặt cầu ở lớp 12 hoặc bán kính nguyên tử trong Hoá học.
 - **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 07, B21, tr. 43; SGK Toán 10 KNTT Tập 2, Chương 07, B21 (Mục 1), tr. 43; SGK Toán 10 KNTT Tập 2, Chương 07, B21 (Mục 1), tr. 43, 44
+
+### radius of a sphere
+- **Tiếng Việt:** Bán kính mặt cầu
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The distance $R = OB$ from the center $O$ to a point $B$ on the sphere, equal to the radius of the generating semicircle (and of the corresponding solid sphere).
+- **Giải thích (VI):** Độ dài đoạn thẳng $R = OB$ nối tâm $O$ với một điểm $B$ trên mặt cầu, bằng bán kính của nửa đường tròn sinh ra mặt cầu đó (và cũng là bán kính của hình cầu tương ứng).
+- **Bối cảnh:** Toán học lớp 9, Bài 32 (Mục 1): Đại lượng cơ bản duy nhất quyết định diện tích mặt cầu và thể tích hình cầu.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B32, tr. 101; SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 1), tr. 101; SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 1), tr. 101, 102
 
 ### random event
 - **Tiếng Việt:** Biến cố ngẫu nhiên
@@ -7500,8 +8517,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** An experiment or action (commonly denoted $T$) whose exact outcome cannot be predicted prior to execution, although the set of all possible outcomes is known. In classical school-level probability, only random experiments with finitely many possible outcomes are considered.
 - **Giải thích (VI):** Thí nghiệm hoặc hành động (thường kí hiệu là $T$) mà kết quả cụ thể không thể đoán biết trước khi thực hiện, dù tập hợp mọi kết quả có thể xảy ra đã xác định. Trong xác suất cổ điển ở bậc phổ thông, các phép thử chỉ xét trong trường hợp có hữu hạn kết quả có thể.
-- **Bối cảnh:** Toán học lớp 10, Bài 26 (Mục 1): Khái niệm mở đầu mô tả hành động ngẫu nhiên làm cơ sở xác định không gian mẫu và biến cố.
-- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 1), tr. 78; SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 1), tr. 78, 79; SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 2), tr. 80
+- **Giải thích khác (SGK Toán 9 Tập 2):** EN: One or more actions or trials conducted sequentially or simultaneously whose exact outcome cannot be known before execution, although all possible outcomes can be listed in advance. / VI: Một hoặc một số hành động, thực nghiệm tiến hành liên tiếp hay đồng thời mà kết quả của chúng không thể biết trước khi thực hiện nhưng có thể liệt kê đầy đủ tất cả các kết quả có thể xảy ra.
+- **Bối cảnh:**
+  - Toán học lớp 10, Bài 26 (Mục 1): Khái niệm mở đầu mô tả hành động ngẫu nhiên làm cơ sở xác định không gian mẫu và biến cố.
+  - Toán học lớp 9, Bài 25: khái niệm nền tảng mở đầu lý thuyết xác suất cổ điển cho các hiện tượng ngẫu nhiên.
+- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 1), tr. 78; SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 1), tr. 78, 79; SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 2), tr. 80; SGK Toán 9 KNTT Tập 2, Chương 08, B25, tr. 56; SGK Toán 9 KNTT Tập 2, Chương 08, B25, tr. 57; SGK Toán 9 KNTT Tập 2, Chương 08, B25, tr. 57, 58
 
 ### random selection
 - **Tiếng Việt:** Chọn ngẫu nhiên
@@ -7560,6 +8580,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Số viết được dưới dạng phân số $\frac{a}{b}$ với $a, b \in \mathbb{Z}$ và $b \ne 0$. Tập hợp tất cả các số hữu tỉ kí hiệu là $\mathbb{Q}$.
 - **Bối cảnh:** Toán học lớp 7, Bài 1 (Mục 1): Nhận diện các số nguyên, phân số và số thập phân hữu hạn hoặc vô hạn tuần hoàn dưới dạng phân số.
 - **Nguồn:** SGK Toán 7 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 7 KNTT Tập 1, Chương 01, B1, tr. 6; SGK Toán 7 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 6
+
+### rationalizing the denominator
+- **Tiếng Việt:** Trục căn thức ở mẫu (trục các căn thức ở mẫu)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The transformation of an expression containing radicals in its denominator into an equivalent expression whose denominator contains no radicals.
+- **Giải thích (VI):** Phép biến đổi một biểu thức có chứa căn thức ở mẫu thành một biểu thức mới tương đương không còn chứa căn thức ở mẫu.
+- **Bối cảnh:** Toán học lớp 9, Bài 9 (Mục 3): biến đổi phân thức chứa căn ở mẫu để thuận tiện cho việc quy đồng, tính toán và rút gọn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B9, tr. 54; SGK Toán 9 KNTT Tập 1, Chương 03, B9 (Mục 2), tr. 56; SGK Toán 9 KNTT Tập 1, Chương 03, B9 (Mục 3), tr. 56
 
 ### ray
 - **Tiếng Việt:** Tia
@@ -7645,7 +8673,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 11, Bài 25 (Mục 5d): Khảo sát tính chất các mặt chữ nhật và độ dài đường chéo của hình hộp chữ nhật.
   - Toán học lớp 7, Bài 36 (Mục 1): Nhận biết các yếu tố đỉnh, cạnh, mặt, đường chéo của hình hộp chữ nhật trong hình học trực quan.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5), tr. 49; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5.d), tr. 50; SGK Toán 7 KNTT Tập 2, Chương 10, B36, tr. 85; SGK Toán 7 KNTT Tập 2, Chương 10, B36 (Mục 1), tr. 86; SGK Toán 7 KNTT Tập 2, Chương 10, B36 (Mục 1), tr. 86, 87
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5), tr. 49; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5.d), tr. 50; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 4), tr. 49; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5.a), tr. 49; SGK Toán 7 KNTT Tập 2, Chương 10, B36, tr. 85; SGK Toán 7 KNTT Tập 2, Chương 10, B36 (Mục 1), tr. 86; SGK Toán 7 KNTT Tập 2, Chương 10, B36 (Mục 1), tr. 86, 87
 
 ### recurrence relation
 - **Tiếng Việt:** Hệ thức truy hồi
@@ -7662,6 +8690,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Đơn thức chỉ gồm một số hoặc có dạng tích của một số với những biến, trong đó mỗi biến chỉ xuất hiện một lần dưới dạng luỹ thừa với số mũ nguyên dương.
 - **Bối cảnh:** Toán học lớp 8, Bài 1 (Mục 1): Biểu diễn chuẩn của đơn thức sau khi áp dụng tính chất phép nhân và nâng lên luỹ thừa để xác định hệ số, phần biến và bậc.
 - **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 7; SGK Toán 8 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 7, 8; SGK Toán 8 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 9
+
+### reduced quadratic formula
+- **Tiếng Việt:** Công thức nghiệm thu gọn (biệt thức $\Delta'$)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A simplified form of the quadratic formula for $ax^2 + bx + c = 0$ ($a \ne 0$) with $b = 2b'$ and reduced discriminant $\Delta' = b'^2 - ac$: two distinct roots $x_1 = \frac{-b' + \sqrt{\Delta'}}{a}, x_2 = \frac{-b' - \sqrt{\Delta'}}{a}$ when $\Delta' > 0$, a double root $x_1 = x_2 = -\frac{b'}{a}$ when $\Delta' = 0$, and no real roots when $\Delta' < 0$.
+- **Giải thích (VI):** Dạng rút gọn của công thức nghiệm cho phương trình bậc hai $ax^2 + bx + c = 0$ ($a \ne 0$) với $b = 2b'$ và biệt thức thu gọn $\Delta' = b'^2 - ac$: có hai nghiệm phân biệt $x_1 = \frac{-b' + \sqrt{\Delta'}}{a}, x_2 = \frac{-b' - \sqrt{\Delta'}}{a}$ khi $\Delta' > 0$, có nghiệm kép $x_1 = x_2 = -\frac{b'}{a}$ khi $\Delta' = 0$, và vô nghiệm khi $\Delta' < 0$.
+- **Bối cảnh:** Toán học lớp 9, Bài 19 (Mục 3): Đơn giản hoá phép tính nghiệm phương trình bậc hai khi hệ số $b$ chẵn hoặc chia hết cho $2$.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 3), tr. 14; SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 3), tr. 14, 15; SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 3), tr. 15
 
 ### reducing algebraic fractions to a common denominator
 - **Tiếng Việt:** Quy đồng mẫu thức nhiều phân thức (quy đồng mẫu thức)
@@ -7687,13 +8723,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 6, Bài 18 (Mục 3): Nhận dạng hình lục giác đều trong tự nhiên, kiến trúc (như tổ ong, gạch lát nền) và ghép từ sáu tam giác đều.
 - **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 04, B18, tr. 84; SGK Toán 6 KNTT Tập 1, Chương 04, B18 (Mục 3), tr. 86; SGK Toán 6 KNTT Tập 1, Chương 04, B18 (Mục 3), tr. 87
 
+### regular polygon
+- **Tiếng Việt:** Đa giác đều
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A convex polygon in which all sides are equal in length and all angles are equal in measure.
+- **Giải thích (VI):** Đa giác lồi có tất cả các cạnh bằng nhau và tất cả các góc bằng nhau.
+- **Bối cảnh:** Toán học lớp 9, Bài 30 (Mục 1): nghiên cứu các hình phẳng có tính cân đối cao như tam giác đều, hình vuông, ngũ giác đều, bát giác đều.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B30, tr. 84; SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 1), tr. 84; SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 1), tr. 84, 85
+
 ### regular prism
 - **Tiếng Việt:** Hình lăng trụ đều
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** A right prism whose bases are regular polygons. Its lateral faces are rectangles of identical dimensions.
 - **Giải thích (VI):** Hình lăng trụ đứng có mặt đáy là đa giác đều. Các mặt bên của hình lăng trụ đều là những hình chữ nhật có cùng kích thước.
 - **Bối cảnh:** Toán học lớp 11, Bài 25 (Mục 5b): Phân biệt hình lăng trụ đứng có đáy là đa giác đều với hình lăng trụ đứng tổng quát.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5), tr. 49
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5), tr. 49; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 4), tr. 49; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5.a), tr. 49
 
 ### regular pyramid
 - **Tiếng Việt:** Hình chóp đều
@@ -7701,7 +8745,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A pyramid $S.A_1A_2\dots A_n$ whose base is a regular polygon and whose lateral edges all have equal length.
 - **Giải thích (VI):** Hình chóp $S.A_1A_2\dots A_n$ có mặt đáy là đa giác đều và các cạnh bên bằng nhau.
 - **Bối cảnh:** Toán học lớp 11, Bài 25 (Mục 6): Khảo sát lớp hình chóp có đáy là đa giác đều và các cạnh bên bằng nhau.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 6), tr. 51, 52
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 6), tr. 51, 52; SGK Toán 11 KNTT Tập 2, Chương 07, B25, tr. 44; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 6), tr. 51
 
 ### regular quadrangular pyramid
 - **Tiếng Việt:** Hình chóp tứ giác đều
@@ -7730,6 +8774,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Toán học lớp 8, Bài 38 (Mục 1): Nhận dạng các yếu tố hình học và tính diện tích xung quanh, thể tích của khối chóp có đáy là tam giác đều.
   - *Lưu ý:* Phân biệt với tứ diện đều: hình chóp tam giác đều chỉ cần đáy là tam giác đều và các mặt bên là tam giác cân bằng nhau, không nhất thiết các mặt bên phải là tam giác đều.
 - **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 10, B38, tr. 112; SGK Toán 8 KNTT Tập 2, Chương 10, B38 (Mục 1), tr. 113; SGK Toán 8 KNTT Tập 2, Chương 10, B38 (Mục 2), tr. 114
+
+### relation between hypotenuse and leg
+- **Tiếng Việt:** Hệ thức giữa cạnh huyền và cạnh góc vuông
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The relation in a right triangle stating that each leg equals the hypotenuse multiplied by the sine of the opposite angle or the cosine of the adjacent angle; for right triangle $ABC$ with right angle at $A$, hypotenuse $a$, and legs $b, c$, $b = a \cdot \sin B = a \cdot \cos C$ and $c = a \cdot \sin C = a \cdot \cos B$.
+- **Giải thích (VI):** Hệ thức trong tam giác vuông khẳng định mỗi cạnh góc vuông bằng cạnh huyền nhân với sin góc đối hoặc nhân với côsin góc kề; với tam giác $ABC$ vuông tại $A$ có cạnh huyền $a$ và hai cạnh góc vuông $b, c$, ta có $b = a \cdot \sin B = a \cdot \cos C$ và $c = a \cdot \sin C = a \cdot \cos B$.
+- **Bối cảnh:** Toán học lớp 9, Bài 12 (Mục 1): tính cạnh góc vuông hoặc cạnh huyền khi biết một cạnh và một góc nhọn trong tam giác vuông.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 04, B12, tr. 74; SGK Toán 9 KNTT Tập 1, Chương 04, B12 (Mục 1), tr. 74; SGK Toán 9 KNTT Tập 1, Chương 04, B12 (Mục 1), tr. 74, 75
+
+### relation between the two legs of a right triangle
+- **Tiếng Việt:** Hệ thức giữa hai cạnh góc vuông
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The relation in a right triangle stating that each leg equals the other leg multiplied by the tangent of the opposite angle or the cotangent of the adjacent angle; for right triangle $ABC$ with right angle at $A$ and legs $b, c$, $b = c \cdot \tan B = c \cdot \cot C$ and $c = b \cdot \tan C = b \cdot \cot B$.
+- **Giải thích (VI):** Hệ thức trong tam giác vuông khẳng định mỗi cạnh góc vuông bằng cạnh góc vuông kia nhân với tang góc đối hoặc nhân với côtang góc kề; với tam giác $ABC$ vuông tại $A$ có hai cạnh góc vuông $b, c$, ta có $b = c \cdot \tan B = c \cdot \cot C$ và $c = b \cdot \tan C = b \cdot \cot B$.
+- **Bối cảnh:** Toán học lớp 9, Bài 12 (Mục 2): tính cạnh góc vuông còn lại hoặc giải bài toán đo chiều cao thực tế qua tang và côtang.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 04, B12 (Mục 2), tr. 76; SGK Toán 9 KNTT Tập 1, Chương 04, B12 (Mục 3), tr. 76; SGK Toán 9 KNTT Tập 1, Chương 04, B12 (Mục 3), tr. 76, 77
 
 ### relationship among the three sides of a triangle
 - **Tiếng Việt:** Quan hệ giữa ba cạnh của một tam giác
@@ -7772,6 +8832,54 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Toán học lớp 10, Bài 12 (Mục 2b): đánh giá và so sánh chất lượng của các phép đo hoặc phép tính gần đúng.
   - *Lưu ý:* Không nhầm với 'Sai số tỉ đối' (`relative error (physics)`) trong Vật lí.
 - **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 05, B12, tr. 73; SGK Toán 10 KNTT Tập 1, Chương 05, B12 (Mục 2.a), tr. 75; SGK Toán 10 KNTT Tập 1, Chương 05, B12 (Mục 2.b), tr. 75
+
+### relative frequency
+- **Tiếng Việt:** Tần số tương đối (tần suất)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The ratio of the frequency $m_i$ of a value $x_i$ to the total number of data points $n$ in a dataset $x_1, x_2, \dots, x_n$, denoted by $f_i = \dfrac{m_i}{n}$ and commonly expressed as a percentage $f_i = \dfrac{m_i}{n} \cdot 100\%$.
+- **Giải thích (VI):** Tỉ số giữa tần số $m_i$ của giá trị $x_i$ với tổng số dữ liệu $n$ trong dãy dữ liệu $x_1, x_2, \dots, x_n$, kí hiệu là $f_i = \dfrac{m_i}{n}$ và thường viết dưới dạng phần trăm $f_i = \dfrac{m_i}{n} \cdot 100\%$.
+- **Bối cảnh:** Toán học lớp 9, Bài 23 (Mục 1): xác định tỉ lệ xuất hiện của mỗi giá trị trong dãy dữ liệu thống kê không ghép nhóm.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B23, tr. 38; SGK Toán 9 KNTT Tập 2, Chương 07, B23 (Mục 1), tr. 38; SGK Toán 9 KNTT Tập 2, Chương 07, B23 (Mục 1), tr. 38, 39
+
+### relative frequency chart
+- **Tiếng Việt:** Biểu đồ tần số tương đối
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A statistical chart used to visually represent a relative frequency table, most commonly encountered in the form of a bar chart or a pie chart.
+- **Giải thích (VI):** Biểu đồ thống kê dùng để biểu diễn trực quan bảng tần số tương đối của một dãy dữ liệu, thường gặp dưới dạng biểu đồ cột và biểu đồ hình quạt tròn.
+- **Bối cảnh:** Toán học lớp 9, Bài 23 (Mục 2): trực quan hóa cơ cấu và tỉ lệ phần trăm của các giá trị trong dãy dữ liệu.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B23 (Mục 2), tr. 39; SGK Toán 9 KNTT Tập 2, Chương 07, B23 (Mục 2), tr. 40; SGK Toán 9 KNTT Tập 2, Chương 07, B23 (Mục 2), tr. 40, 41
+
+### relative frequency histogram
+- **Tiếng Việt:** Biểu đồ tần số tương đối ghép nhóm dạng cột (tổ chức đồ; biểu đồ tần số tương đối ghép nhóm)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A statistical chart consisting of adjacent rectangular bars used to represent a grouped relative frequency table, in which the height of each bar represents the relative frequency of the corresponding class interval.
+- **Giải thích (VI):** Biểu đồ thống kê gồm các hình cột liền kề nhau dùng để biểu diễn bảng tần số tương đối ghép nhóm, trong đó chiều cao mỗi cột thể hiện tần số tương đối của nhóm số liệu tương ứng.
+- **Bối cảnh:** Toán học lớp 9, Bài 24 (Mục 2): biểu diễn trực quan phân bố tần số tương đối của mẫu số liệu ghép nhóm bằng các cột liền kề.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B24, tr. 46; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 49; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 2), tr. 49
+
+### relative frequency table
+- **Tiếng Việt:** Bảng tần số tương đối
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A statistical table listing the distinct values $x_1, \dots, x_k$ of a dataset $x_1, x_2, \dots, x_n$ alongside their corresponding relative frequencies $f_1, \dots, f_k$, where $f_i = \dfrac{m_i}{n}$ is the ratio of the frequency $m_i$ of $x_i$ to $n$.
+- **Giải thích (VI):** Bảng thống kê ghi các giá trị khác nhau $x_1, \dots, x_k$ của dãy dữ liệu $x_1, x_2, \dots, x_n$ cùng các tần số tương đối tương ứng $f_1, \dots, f_k$, trong đó $f_i = \dfrac{m_i}{n}$ là tỉ số giữa tần số $m_i$ của $x_i$ và $n$.
+- **Bối cảnh:** Toán học lớp 9, Bài 23 (Mục 1): tóm tắt và so sánh tỉ lệ xuất hiện của các giá trị khác nhau trong mẫu dữ liệu.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B23, tr. 38; SGK Toán 9 KNTT Tập 2, Chương 07, B23 (Mục 1), tr. 38; SGK Toán 9 KNTT Tập 2, Chương 07, B23 (Mục 1), tr. 38, 39
+
+### relative position of a line and a circle
+- **Tiếng Việt:** Vị trí tương đối của đường thẳng và đường tròn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The geometric relationship between a line $a$ and a circle $(O; R)$ (where $d$ is the distance from center $O$ to $a$), comprising three cases: intersecting with two common points ($d < R$), tangent with a single common point ($d = R$), and non-intersecting with no common points ($d > R$).
+- **Giải thích (VI):** Quan hệ hình học giữa đường thẳng $a$ và đường tròn $(O; R)$ (với $d$ là khoảng cách từ tâm $O$ đến $a$), gồm ba trường hợp: cắt nhau khi có hai điểm chung ($d < R$), tiếp xúc nhau khi có duy nhất một điểm chung ($d = R$) và không giao nhau khi không có điểm chung ($d > R$).
+- **Bối cảnh:** Toán học lớp 9, Bài 16 (Mục 1): Phân loại số giao điểm của đường thẳng và đường tròn thông qua so sánh khoảng cách từ tâm đến đường thẳng với bán kính.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 1), tr. 100; SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 2), tr. 100; SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 2), tr. 100, 101
+
+### relative position of a point and a circle
+- **Tiếng Việt:** Vị trí tương đối của điểm và đường tròn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The positional relationship between a point $M$ and a circle $(O; R)$ ($R > 0$) determined by the distance $OM$: point $M$ lies on the circle if $OM = R$, inside the circle if $OM < R$, and outside the circle if $OM > R$.
+- **Giải thích (VI):** Mối quan hệ vị trí giữa điểm $M$ và đường tròn $(O; R)$ ($R > 0$) được xác định theo khoảng cách $OM$: điểm $M$ nằm trên đường tròn nếu $OM = R$, nằm trong đường tròn nếu $OM < R$ và nằm ngoài đường tròn nếu $OM > R$.
+- **Bối cảnh:** Toán học lớp 9, Bài 13 (Mục 1): so sánh khoảng cách từ điểm đến tâm với bán kính để xác định điểm nằm trong, nằm trên hay nằm ngoài đường tròn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B13 (Mục 1), tr. 84
 
 ### relative position of two lines
 - **Tiếng Việt:** Vị trí tương đối giữa hai đường thẳng
@@ -7855,13 +8963,29 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 6, Bài 37 (Mục 2): kiểm tra bằng thước đo góc hoặc ê ke và dùng làm mốc chuẩn để phân biệt góc nhọn với góc tù.
 - **Nguồn:** SGK Toán 6 KNTT Tập 2, Chương 08, B37, tr. 66; SGK Toán 6 KNTT Tập 2, Chương 08, B37 (Mục 2), tr. 68; SGK Toán 6 KNTT Tập 2, Chương 08, B37 (Mục 2), tr. 68, 69
 
+### right circular cone
+- **Tiếng Việt:** Hình nón
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A three-dimensional geometric figure with apex $S$ generated by revolving a right triangle $SOA$ (right-angled at $O$) one full turn around its fixed leg $SO$.
+- **Giải thích (VI):** Hình không gian có đỉnh $S$ được tạo thành khi quay tam giác vuông $SOA$ (vuông tại $O$) một vòng quanh cạnh góc vuông $SO$ cố định.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 2): Nhận biết hình khối tròn xoay có một đáy hình tròn và một đỉnh trong hình học trực quan.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31, tr. 93; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 96; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 97
+
+### right circular cylinder
+- **Tiếng Việt:** Hình trụ
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A three-dimensional geometric figure generated by revolving a rectangle $O'ABO$ one full turn around its fixed side $OO'$.
+- **Giải thích (VI):** Hình không gian sinh ra khi quay một hình chữ nhật $O'ABO$ một vòng quanh cạnh $OO'$ cố định của nó.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 1): Nhận biết hình khối tròn xoay có hai đáy là hai hình tròn bằng nhau trong hình học trực quan.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31, tr. 93; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 1), tr. 94; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 1), tr. 94, 95
+
 ### right parallelepiped
 - **Tiếng Việt:** Hình hộp đứng
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** A right prism whose bases are parallelograms. All lateral faces of a right parallelepiped are rectangles.
 - **Giải thích (VI):** Hình lăng trụ đứng có mặt đáy là hình bình hành. Tất cả các mặt bên của hình hộp đứng đều là các hình chữ nhật.
 - **Bối cảnh:** Toán học lớp 11, Bài 25 (Mục 5c): Xác định trường hợp đặc biệt của hình hộp khi các cạnh bên vuông góc với mặt đáy.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5), tr. 49
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5), tr. 49; SGK Toán 11 KNTT Tập 2, Chương 07, B25, tr. 44; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 4), tr. 49
 
 ### right prism
 - **Tiếng Việt:** Hình lăng trụ đứng
@@ -7869,7 +8993,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A prism whose lateral edges are perpendicular to its bases. The lateral faces of a right prism are rectangles that are perpendicular to the bases.
 - **Giải thích (VI):** Hình lăng trụ có các cạnh bên vuông góc với mặt đáy. Hình lăng trụ đứng có các mặt bên là những hình chữ nhật và vuông góc với mặt đáy.
 - **Bối cảnh:** Toán học lớp 11, Bài 25 (Mục 5a): Nhận diện và khảo sát tính chất vuông góc của hình lăng trụ có cạnh bên vuông góc với đáy.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5.a), tr. 49
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5.a), tr. 49; SGK Toán 11 KNTT Tập 2, Chương 07, B25, tr. 44; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 4), tr. 49; SGK Toán 11 KNTT Tập 2, Chương 07, B25 (Mục 5), tr. 49
 
 ### right quadrangular prism
 - **Tiếng Việt:** Hình lăng trụ đứng tứ giác
@@ -7919,6 +9043,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 11, Bài 16 (Mục 1): Tính giới hạn của hàm số khi biến số dần tới điểm đang xét từ phía bên phải trên trục số.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 05, B16 (Mục 1), tr. 113; SGK Toán 11 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 131
 
+### right-hand side of an inequality
+- **Tiếng Việt:** Vế phải của bất đẳng thức (vế phải)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The number or expression $b$ positioned to the right of the inequality sign in an inequality of the form $a > b$, $a < b$, $a \ge b$, or $a \le b$.
+- **Giải thích (VI):** Số hoặc biểu thức $b$ nằm ở bên phải dấu thứ tự trong một bất đẳng thức (hoặc bất phương trình) dạng $a > b$, $a < b$, $a \ge b$ hoặc $a \le b$.
+- **Bối cảnh:** Toán học lớp 9, Bài 5 (Mục 1): Xác định thành phần bên phải dấu so sánh khi biến đổi bất đẳng thức và bất phương trình.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 1), tr. 32; SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 1), tr. 32, 33; SGK Toán 9 KNTT Tập 1, Chương 02, B6 (Mục 1), tr. 38
+
 ### Roman numeral
 - **Tiếng Việt:** Số La Mã (thành phần)
 - **Chuyên ngành gốc:** Toán học
@@ -7943,7 +9075,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Lịch sử lớp 10, Bài 6 (Mục 1.b): Cống hiến của cư dân La Mã cổ đại về hệ thống chữ viết và chữ số.
   - *Lưu ý:* Không nhầm với 'Chữ số La Mã' (`Roman numerals (history)`) trong Lịch sử.
-- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 50, 51
+- **Nguồn:** SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 50, 51; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.a), tr. 50; SGK Lịch sử 10 KNTT, Chủ đề 03, B6 (Mục 1.b), tr. 50
 
 ### root of a polynomial
 - **Tiếng Việt:** Nghiệm của đa thức một biến (nghiệm của đa thức; nghiệm)
@@ -7960,6 +9092,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Giá trị của biến $x$ làm cho tam thức bậc hai $f(x) = ax^2 + bx + c$ ($a \ne 0$) nhận giá trị bằng $0$, tức là nghiệm của phương trình bậc hai $ax^2 + bx + c = 0$.
 - **Bối cảnh:** Toán học lớp 10, Bài 17 (Mục 1): tìm các mốc chia khoảng trên trục số khi xét dấu tam thức bậc hai.
 - **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 06, B17, tr. 19; SGK Toán 10 KNTT Tập 2, Chương 06, B17 (Mục 1), tr. 19; SGK Toán 10 KNTT Tập 2, Chương 06, B17 (Mục 1), tr. 19, 20
+
+### rotation
+- **Tiếng Việt:** Phép quay (phép quay thuận chiều; phép quay ngược chiều)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A plane transformation with center $O$ and angle $\alpha^\circ$ ($0^\circ < \alpha^\circ < 360^\circ$) that fixes $O$ and maps any point $A \ne O$ to a point $B$ on the circle $(O; OA)$ such that rotating ray $OA$ clockwise or counterclockwise to ray $OB$ traces an arc $AB$ of measure $\alpha^\circ$; rotations of $0^\circ$ and $360^\circ$ fix every point.
+- **Giải thích (VI):** Phép biến hình phẳng tâm $O$ góc quay $\alpha^\circ$ ($0^\circ < \alpha^\circ < 360^\circ$) giữ nguyên điểm $O$ và biến điểm $A$ khác $O$ thành điểm $B$ thuộc đường tròn $(O; OA)$ sao cho tia $OA$ quay thuận chiều hoặc ngược chiều kim đồng hồ đến tia $OB$ tạo nên cung $AB$ có số đo $\alpha^\circ$; phép quay $0^\circ$ và phép quay $360^\circ$ giữ nguyên mọi điểm.
+- **Bối cảnh:** Toán học lớp 9, Bài 30 (Mục 2): xác định ảnh của điểm và hình phẳng qua phép quay thuận chiều hoặc ngược chiều kim đồng hồ quanh một tâm cố định.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B30, tr. 84; SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 1), tr. 87; SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 2), tr. 87
+
+### rotation preserving a regular polygon
+- **Tiếng Việt:** Phép quay giữ nguyên một đa giác đều
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A rotation that maps every point of a regular polygon $\mathcal{H}$ to a point of $\mathcal{H}$. Any rotation that maps the vertices of a regular polygon $\mathcal{H}$ onto the vertices of $\mathcal{H}$ preserves $\mathcal{H}$.
+- **Giải thích (VI):** Phép quay biến mỗi điểm của đa giác đều $\mathcal{H}$ thành một điểm thuộc chính $\mathcal{H}$. Nếu một phép quay biến các đỉnh của đa giác đều $\mathcal{H}$ thành các đỉnh của $\mathcal{H}$ thì phép quay đó giữ nguyên $\mathcal{H}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 30 (Mục 2): tìm các phép quay quanh tâm biến một đa giác đều thành chính nó.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 2), tr. 88; SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 2), tr. 88, 89
 
 ### rounded number
 - **Tiếng Việt:** Số quy tròn (quy tròn)
@@ -8166,18 +9314,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The total number of observations in a data sample, determined for grouped data with $k$ classes as the sum of all class frequencies $n = m_1 + m_2 + \dots + m_k$.
 - **Giải thích (VI):** Tổng số giá trị quan sát trong mẫu số liệu, xác định đối với mẫu số liệu ghép nhóm gồm $k$ nhóm bởi tổng các tần số $n = m_1 + m_2 + \dots + m_k$.
 - **Giải thích khác (SGK Toán 12 Tập 1):** EN: The total number of observations $n = m_1 + \dots + m_k$ in a grouped data sample partitioned into $k$ classes with respective frequencies $m_1, \dots, m_k$ (where $m_1 > 0$ and $m_k > 0$). / VI: Tổng số giá trị quan sát $n = m_1 + \dots + m_k$ của mẫu số liệu ghép nhóm gồm $k$ nhóm với các tần số tương ứng $m_1, \dots, m_k$ (trong đó $m_1 > 0, m_k > 0$).
+- **Giải thích khác (SGK Toán 9 Tập 2):** EN: The total number of data values (counting repeated values) contained in a statistical data sample. / VI: Tổng số các giá trị (kể cả các giá trị lặp lại) có trong một mẫu dữ liệu thống kê.
 - **Bối cảnh:**
   - Toán học lớp 11, Bài 9 (Mục 1): xác định tổng số phần tử của mẫu số liệu ghép nhóm để tính các số đặc trưng thống kê.
   - Toán học lớp 12, Bài 9 (Mục 1): Đại lượng cơ sở trong bảng tần số ghép nhóm dùng để tính tứ phân vị, số trung bình, phương sai và độ lệch chuẩn.
-- **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 03, B9, tr. 62; SGK Toán 11 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 62; SGK Toán 11 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 62, 63; SGK Toán 12 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 76; SGK Toán 12 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 76, 77; SGK Toán 12 KNTT Tập 1, Chương 03, B9 (Mục 2), tr. 78
+  - Toán học lớp 9, Bài 22 (Mục 1): Xác định quy mô mẫu khảo sát và đối chiếu với tổng các tần số trong bảng tần số.
+- **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 03, B9, tr. 62; SGK Toán 11 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 62; SGK Toán 11 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 62, 63; SGK Toán 12 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 76; SGK Toán 12 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 76, 77; SGK Toán 12 KNTT Tập 1, Chương 03, B9 (Mục 2), tr. 78; SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 33; SGK Toán 9 KNTT Tập 2, Chương 07, B22 (Mục 1), tr. 33, 34
 
 ### sample space
-- **Tiếng Việt:** Không gian mẫu
+- **Tiếng Việt:** Không gian mẫu (Không gian mẫu của phép thử)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** The set of all possible outcomes that can occur when performing a random experiment, denoted by $\Omega$. In the classical probability model, the sample space $\Omega$ is restricted to a finite number of elements.
 - **Giải thích (VI):** Tập hợp tất cả các kết quả có thể xảy ra khi thực hiện một phép thử ngẫu nhiên, kí hiệu là $\Omega$. Trong mô hình xác suất cổ điển, không gian mẫu $\Omega$ chỉ xét gồm hữu hạn phần tử.
-- **Bối cảnh:** Toán học lớp 10, Bài 26 (Mục 1): Xác định tập hợp các kết quả có thể của phép thử để biểu diễn biến cố và tính xác suất.
-- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 1), tr. 78; SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 1), tr. 78, 79; SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 1), tr. 79
+- **Giải thích khác (SGK Toán 9 Tập 2):** EN: The set of all possible outcomes of a random experiment, denoted by $\Omega$. / VI: Tập hợp tất cả các kết quả có thể xảy ra của một phép thử ngẫu nhiên, kí hiệu là $\Omega$.
+- **Bối cảnh:**
+  - Toán học lớp 10, Bài 26 (Mục 1): Xác định tập hợp các kết quả có thể của phép thử để biểu diễn biến cố và tính xác suất.
+  - Toán học lớp 9, Bài 25: xác định tập hợp $\Omega$ và số phần tử của nó làm cơ sở tính xác suất của biến cố.
+- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 1), tr. 78; SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 1), tr. 78, 79; SGK Toán 10 KNTT Tập 2, Chương 09, B26 (Mục 1), tr. 79; SGK Toán 9 KNTT Tập 2, Chương 08, B25, tr. 56; SGK Toán 9 KNTT Tập 2, Chương 08, B25, tr. 57; SGK Toán 9 KNTT Tập 2, Chương 08, B25, tr. 57, 58
 
 ### scalar multiple of a vector
 - **Tiếng Việt:** Tích của một số với một vectơ
@@ -8273,6 +9426,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - *Lưu ý:* Đường chéo phụ của hình lục giác đều trong hình học phẳng lớp 6, phân biệt với đường chéo phụ của ma trận vuông.
 - **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 04, B18 (Mục 3), tr. 87; SGK Toán 6 KNTT Tập 1, Chương 04, B18 (Mục 3), tr. 87, 88
 
+### semicircle
+- **Tiếng Việt:** Nửa đường tròn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** Each circular arc $AB$ formed when the central angle $\widehat{AOB}$ is a straight angle, meaning endpoints $A, B$ are the endpoints of a diameter and the arc has a degree measure of $180^\circ$.
+- **Giải thích (VI):** Mỗi cung tròn $AB$ tạo thành khi góc ở tâm $\widehat{AOB}$ là góc bẹt, tức hai mút $A, B$ là hai đầu của một đường kính và cung có số đo bằng $180^\circ$.
+- **Bối cảnh:** Toán học lớp 9, Bài 14 (Mục 2): Xác định trường hợp ranh giới giữa cung nhỏ và cung lớn khi góc ở tâm là góc bẹt.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B14, tr. 87; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 1), tr. 88; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 2), tr. 88
+
 ### sequence
 - **Tiếng Việt:** Dãy số (dãy số vô hạn)
 - **Chuyên ngành gốc:** Toán học
@@ -8329,7 +9490,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The relation between an object $a$ and a set $S$: written $a \in S$ when element $a$ belongs to set $S$, and $a \notin S$ when element $a$ does not belong to set $S$.
 - **Giải thích (VI):** Quan hệ giữa một phần tử $a$ và một tập hợp $S$: viết $a \in S$ khi phần tử $a$ thuộc tập hợp $S$, và viết $a \notin S$ khi phần tử $a$ không thuộc tập hợp $S$.
 - **Bối cảnh:** Toán học lớp 10, Bài 2 (Mục 1a): Kí hiệu quan hệ thuộc hay không thuộc của một phần tử đối với tập hợp và phân biệt với quan hệ bao hàm $\subset$.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.a), tr. 13
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.a), tr. 13; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.b), tr. 13; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.b), tr. 13, 14
 
 ### set of integers
 - **Tiếng Việt:** Tập hợp các số nguyên (Tập hợp số nguyên; tập số nguyên; số nguyên)
@@ -8339,7 +9500,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 10, Bài 2 (Mục 2a): Xác định miền giá trị nguyên của biến trong mệnh đề và tập hợp số.
   - Toán học lớp 6, Bài 13 (Mục 1): Khái niệm trung tâm của Chương III mở rộng tập hợp số tự nhiên thành tập hợp $\mathbb{Z}$.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.a), tr. 15; SGK Toán 6 KNTT Tập 1, Chương 03, B13, tr. 63; SGK Toán 6 KNTT Tập 1, Chương 03, B13 (Mục 1), tr. 63; SGK Toán 6 KNTT Tập 1, Chương 03, B13 (Mục 1), tr. 63, 64
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.a), tr. 15; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.c), tr. 15; SGK Toán 6 KNTT Tập 1, Chương 03, B13, tr. 63; SGK Toán 6 KNTT Tập 1, Chương 03, B13 (Mục 1), tr. 63; SGK Toán 6 KNTT Tập 1, Chương 03, B13 (Mục 1), tr. 63, 64
 
 ### set of irrational numbers
 - **Tiếng Việt:** Tập hợp các số vô tỉ
@@ -8358,7 +9519,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 10, Bài 2 (Mục 2a): Hệ thống hoá các tập hợp số cơ bản và quan hệ bao hàm $\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$.
   - Toán học lớp 6, Bài 1 (Mục 2): Biểu diễn tập hợp số tự nhiên bằng kí hiệu chuẩn $\mathbb{N}$, phân biệt với tập $\mathbb{N}^*$ không chứa số $0$.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.a), tr. 15; SGK Toán 6 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 7; SGK Toán 6 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 7; SGK Toán 6 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 7, 8
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.a), tr. 15; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.c), tr. 15; SGK Toán 6 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 7; SGK Toán 6 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 7; SGK Toán 6 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 7, 8
 
 ### set of nonzero natural numbers
 - **Tiếng Việt:** Tập hợp các số tự nhiên khác 0
@@ -8377,7 +9538,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 10, Bài 2 (Mục 2a): Phân biệt số hữu tỉ với số vô tỉ trong hệ thống tập hợp số thực.
   - Toán học lớp 7, Bài 1 (Mục 1): Sử dụng kí hiệu $\mathbb{Q}$ để xác định quan hệ thuộc của một số đối với tập hợp các số hữu tỉ.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.a), tr. 15; SGK Toán 7 KNTT Tập 1, Chương 01, B1, tr. 6; SGK Toán 7 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 6; SGK Toán 7 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 6, 7
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.a), tr. 15; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.c), tr. 15; SGK Toán 7 KNTT Tập 1, Chương 01, B1, tr. 6; SGK Toán 7 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 6; SGK Toán 7 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 6, 7
 
 ### set of real numbers
 - **Tiếng Việt:** Tập hợp các số thực (số vô tỉ)
@@ -8388,7 +9549,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 10, Bài 2 (Mục 2a): Làm tập nền để xác định khoảng, đoạn, nửa khoảng và tập xác định của biểu thức đại số.
   - Toán học lớp 7, Bài 7 (Mục 1): Mở rộng hệ thống số từ số hữu tỉ và số vô tỉ sang tập hợp các số thực.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.a), tr. 15; SGK Toán 7 KNTT Tập 1, Chương 02, B7, tr. 33; SGK Toán 7 KNTT Tập 1, Chương 02, B7 (Mục 1), tr. 33; SGK Toán 7 KNTT Tập 1, Chương 02, B7 (Mục 1), tr. 33, 34
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 2.a), tr. 15; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.c), tr. 15; SGK Toán 7 KNTT Tập 1, Chương 02, B7, tr. 33; SGK Toán 7 KNTT Tập 1, Chương 02, B7 (Mục 1), tr. 33; SGK Toán 7 KNTT Tập 1, Chương 02, B7 (Mục 1), tr. 33, 34
 
 ### set representation methods
 - **Tiếng Việt:** Cách mô tả tập hợp
@@ -8396,7 +9557,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Two standard methods for specifying a set: listing its elements explicitly, or stating a characteristic property satisfied by its elements.
 - **Giải thích (VI):** Hai phương pháp xác định một tập hợp gồm: liệt kê các phần tử của tập hợp, hoặc chỉ ra tính chất đặc trưng cho các phần tử của tập hợp đó.
 - **Bối cảnh:** Toán học lớp 10, Bài 2 (Mục 1a): Xác định và chuyển đổi biểu diễn tập hợp giữa dạng liệt kê phần tử và dạng nêu tính chất đặc trưng.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.a), tr. 13
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.a), tr. 13; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.b), tr. 13; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.b), tr. 13, 14
 
 ### side
 - **Tiếng Việt:** Cạnh
@@ -8579,6 +9740,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 8, Bài 22 (Mục 2a): Thu gọn biểu thức phân thức đại số trước hoặc sau khi thực hiện các phép tính.
 - **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 06, B22 (Mục 1), tr. 9; SGK Toán 8 KNTT Tập 2, Chương 06, B22 (Mục 2.a), tr. 9; SGK Toán 8 KNTT Tập 2, Chương 06, B22 (Mục 2.a), tr. 9, 10
 
+### simplifying square root expressions
+- **Tiếng Việt:** Rút gọn biểu thức chứa căn thức bậc hai
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The process of transforming expressions containing square roots into simpler forms by combining addition, subtraction, multiplication, and division with taking factors out of or under the radical sign, eliminating denominators of radicands, and rationalizing denominators.
+- **Giải thích (VI):** Quy trình biến đổi biểu thức chứa căn thức bậc hai về dạng gọn hơn bằng cách phối hợp các phép tính cộng, trừ, nhân, chia với các phép đưa thừa số ra ngoài hoặc vào trong dấu căn, khử mẫu của biểu thức lấy căn và trục căn thức ở mẫu.
+- **Bối cảnh:** Toán học lớp 9, Bài 9 (Mục 4): tổng hợp các phép tính và phép biến đổi căn thức để thu gọn biểu thức số và biểu thức chứa biến.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B9 (Mục 3), tr. 57; SGK Toán 9 KNTT Tập 1, Chương 03, B9 (Mục 4), tr. 57, 58
+
 ### sine axis and cosine axis
 - **Tiếng Việt:** Trục sin, trục côsin
 - **Chuyên ngành gốc:** Toán học
@@ -8595,13 +9764,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 11, Bài 3 (Mục 1): Định nghĩa hàm số lượng giác cơ bản xác định trên toàn trục số thực.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 01, B3 (Mục 1), tr. 23; SGK Toán 11 KNTT Tập 1, Chương 01, B3 (Mục 2.a), tr. 23; SGK Toán 11 KNTT Tập 1, Chương 01, B3 (Mục 2.a), tr. 23, 24
 
+### sine of an acute angle
+- **Tiếng Việt:** Sin của góc nhọn (sin; sin của góc $\alpha$)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The trigonometric ratio of an acute angle $\alpha$ in a right triangle equal to the ratio of the opposite side to the hypotenuse, denoted by $\sin \alpha = \dfrac{\text{opposite}}{\text{hypotenuse}}$.
+- **Giải thích (VI):** Tỉ số lượng giác của góc nhọn $\alpha$ trong tam giác vuông bằng tỉ số giữa độ dài cạnh đối và độ dài cạnh huyền, kí hiệu là $\sin \alpha = \dfrac{\text{cạnh đối}}{\text{cạnh huyền}}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 11 (Mục 1): tính tỉ số sin của góc nhọn trong tam giác vuông từ độ dài cạnh đối và cạnh huyền.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 04, B11, tr. 66; SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 67; SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 68
+
 ### sine of an angle
 - **Tiếng Việt:** Sin của một góc (sin)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** The ordinate $y_0$ of the point $M(x_0; y_0)$ on the unit semicircle corresponding to the angle $\widehat{xOM} = \alpha$ ($0^\circ \le \alpha \le 180^\circ$), denoted by $\sin\alpha = y_0$.
 - **Giải thích (VI):** Tung độ $y_0$ của điểm $M(x_0; y_0)$ trên nửa đường tròn đơn vị ứng với góc $\widehat{xOM} = \alpha$ ($0^\circ \le \alpha \le 180^\circ$), kí hiệu là $\sin\alpha = y_0$.
 - **Bối cảnh:** Toán học lớp 10, Bài 5 (Mục 1): Tính giá trị sin của góc nhọn, góc vuông hoặc góc tù thông qua tung độ trên nửa đường tròn đơn vị.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 03, B5, tr. 33; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 03, B5, tr. 33; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34, 35
 
 ### sinusoid
 - **Tiếng Việt:** Đường hình sin
@@ -8694,13 +9871,29 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 12, Bài 13 (Mục 2.b): Mô hình hoá các vật thể đối xứng trục như khối nón, khối trụ, khối cầu thông qua phép quay hình phẳng quanh trục hoành.
 - **Nguồn:** SGK Toán 12 KNTT Tập 2, Chương 04, B13, tr. 19; SGK Toán 12 KNTT Tập 2, Chương 04, B13 (Mục 2.b), tr. 24; SGK Toán 12 KNTT Tập 2, Chương 04, B13 (Mục 2.b), tr. 24, 25
 
+### solid sphere
+- **Tiếng Việt:** Hình cầu
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A three-dimensional solid figure generated by revolving a semicircular disk with center $O$ and radius $R$ one full turn around its fixed diameter $AB$.
+- **Giải thích (VI):** Hình khối không gian sinh ra khi quay một nửa hình tròn tâm $O$, bán kính $R$ một vòng quanh đường kính $AB$ cố định của nó.
+- **Bối cảnh:** Toán học lớp 9, Bài 32 (Mục 1): Nhận biết hình khối đặc tạo bởi nửa hình tròn quay quanh đường kính và tính thể tích của nó.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B32, tr. 101; SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 1), tr. 101; SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 1), tr. 101, 102
+
+### solution of a linear equation in two unknowns
+- **Tiếng Việt:** Nghiệm của phương trình bậc nhất hai ẩn (nghiệm)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** An ordered pair of numbers $(x_0; y_0)$ such that substituting $x = x_0$ and $y = y_0$ into the equation $ax + by = c$ makes $ax_0 + by_0 = c$ a true statement.
+- **Giải thích (VI):** Cặp số có thứ tự $(x_0; y_0)$ sao cho khi thay $x = x_0$ và $y = y_0$ vào phương trình $ax + by = c$ thì đẳng thức $ax_0 + by_0 = c$ là một khẳng định đúng.
+- **Bối cảnh:** Toán học lớp 9, Bài 1 (Mục 1): Xác định cặp giá trị đúng thứ tự $(x_0; y_0)$ thoả mãn phương trình bậc nhất hai ẩn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 6; SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 6, 7
+
 ### solution of a linear inequality in two variables
 - **Tiếng Việt:** Nghiệm của bất phương trình bậc nhất hai ẩn (nghiệm)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** An ordered pair of real numbers $(x_0; y_0)$ that yields a true numerical inequality upon substituting $x = x_0$ and $y = y_0$ into the linear inequality in two variables (for instance, $ax_0 + by_0 \le c$). Every linear inequality in two variables has infinitely many solutions.
 - **Giải thích (VI):** Cặp số thực $(x_0; y_0)$ làm cho bất phương trình bậc nhất hai ẩn trở thành bất đẳng thức đúng khi thay $x = x_0, y = y_0$ (chẳng hạn $ax_0 + by_0 \le c$). Bất phương trình bậc nhất hai ẩn luôn có vô số nghiệm.
 - **Bối cảnh:** Toán học lớp 10, Bài 3 (Mục 1): Kiểm tra một cặp số thực có thoả mãn điều kiện ràng buộc bậc nhất hai ẩn hay không.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 02, B3, tr. 22; SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 1), tr. 23
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 02, B3, tr. 22; SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 1), tr. 23; SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 2), tr. 23
 
 ### solution of a quadratic inequality
 - **Tiếng Việt:** Nghiệm của bất phương trình bậc hai (tập nghiệm)
@@ -8716,7 +9909,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** An ordered pair of real numbers $(x_0; y_0)$ that is simultaneously a solution of every linear inequality in two variables in the system.
 - **Giải thích (VI):** Cặp số thực $(x_0; y_0)$ đồng thời là nghiệm của tất cả các bất phương trình bậc nhất hai ẩn có trong hệ đó.
 - **Bối cảnh:** Toán học lớp 10, Bài 4 (Mục 1): Kiểm tra một phương án $(x_0; y_0)$ có thoả mãn toàn bộ các ràng buộc của hệ bất phương trình hay không.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 02, B4 (Mục 1), tr. 26
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 02, B4 (Mục 1), tr. 26; SGK Toán 10 KNTT Tập 1, Chương 02, B3, tr. 22; SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 1), tr. 23; SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 2), tr. 23
+
+### solution of a system of two linear equations in two unknowns
+- **Tiếng Việt:** Nghiệm của hệ hai phương trình bậc nhất hai ẩn (nghiệm của hệ)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** An ordered pair $(x_0; y_0)$ that simultaneously satisfies both equations in a system of two linear equations in two unknowns. In the coordinate plane, the point $M(x_0; y_0)$ is a common point of the two lines representing the equations of the system.
+- **Giải thích (VI):** Cặp số $(x_0; y_0)$ đồng thời là nghiệm của cả hai phương trình trong hệ hai phương trình bậc nhất hai ẩn. Trên mặt phẳng toạ độ, điểm $M(x_0; y_0)$ là điểm chung của hai đường thẳng biểu diễn hai phương trình của hệ.
+- **Bối cảnh:** Toán học lớp 9, Bài 1 (Mục 2): Xác định cặp số thoả mãn đồng thời hai phương trình hoặc toạ độ điểm chung của hai đường thẳng tương ứng.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 8; SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 8; SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 8, 9
 
 ### solution of an equation
 - **Tiếng Việt:** Nghiệm của phương trình (nghiệm)
@@ -8726,13 +9927,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 8, Bài 25 (Mục 1): Kiểm tra một giá trị cụ thể có thoả mãn phương trình đã cho hay không.
 - **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 07, B25, tr. 27; SGK Toán 8 KNTT Tập 2, Chương 07, B25 (Mục 1), tr. 28; SGK Toán 8 KNTT Tập 2, Chương 07, B25 (Mục 2), tr. 29
 
+### solution of an inequality
+- **Tiếng Việt:** Nghiệm của bất phương trình
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A value $x_0$ of the unknown $x$ that makes an inequality a true statement upon substituting $x = x_0$ into both sides; for instance, $x_0$ is a solution of $A(x) < B(x)$ if $A(x_0) < B(x_0)$ holds true.
+- **Giải thích (VI):** Giá trị $x_0$ của ẩn $x$ làm cho bất phương trình trở thành một khẳng định đúng khi thay $x = x_0$ vào hai vế; chẳng hạn, $x_0$ là một nghiệm của bất phương trình $A(x) < B(x)$ nếu $A(x_0) < B(x_0)$ là khẳng định đúng.
+- **Bối cảnh:** Toán học lớp 9, Bài 6 (Mục 1): kiểm tra một giá trị cụ thể của ẩn có phải là nghiệm của bất phương trình hay không.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 02, B6, tr. 38; SGK Toán 9 KNTT Tập 1, Chương 02, B6 (Mục 1), tr. 39; SGK Toán 9 KNTT Tập 1, Chương 02, B6 (Mục 2), tr. 39
+
 ### solution region of a linear inequality in two variables
 - **Tiếng Việt:** Miền nghiệm của bất phương trình bậc nhất hai ẩn (miền nghiệm)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** The set of all points in the coordinate plane $Oxy$ whose coordinates $(x; y)$ are solutions of the given linear inequality in two variables. Geometrically, it is a half-plane bounded by the line $d: ax + by = c$ (including the boundary $d$ for $\le, \ge$ and excluding $d$ for $<, >$).
 - **Giải thích (VI):** Tập hợp tất cả các điểm trong mặt phẳng toạ độ $Oxy$ có toạ độ $(x; y)$ là nghiệm của bất phương trình bậc nhất hai ẩn đó. Về mặt hình học, miền nghiệm là một nửa mặt phẳng có bờ là đường thẳng $d: ax + by = c$ (kể cả bờ $d$ đối với dấu $\le, \ge$ và không kể bờ $d$ đối với dấu $<, >$).
 - **Bối cảnh:** Toán học lớp 10, Bài 3 (Mục 2): Minh hoạ hình học tập hợp vô số nghiệm của bất phương trình bậc nhất hai ẩn trên mặt phẳng $Oxy$.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 02, B3, tr. 22; SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 2), tr. 24; SGK Toán 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 103
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 02, B3, tr. 22; SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 2), tr. 24; SGK Toán 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 103; SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 2), tr. 24, 25
 
 ### solution region of a system of linear inequalities in two variables
 - **Tiếng Việt:** Miền nghiệm của hệ bất phương trình bậc nhất hai ẩn (miền nghiệm)
@@ -8740,7 +9949,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The set of points in the coordinate plane $Oxy$ whose coordinates are solutions of the system of linear inequalities in two variables. This region equals the intersection of the solution regions of all individual inequalities in the system.
 - **Giải thích (VI):** Tập hợp các điểm trong mặt phẳng toạ độ $Oxy$ có toạ độ là nghiệm của hệ bất phương trình bậc nhất hai ẩn đó. Miền nghiệm của hệ là giao các miền nghiệm của tất cả các bất phương trình bậc nhất hai ẩn trong hệ.
 - **Bối cảnh:** Toán học lớp 10, Bài 4 (Mục 2): Xác định tập phương án chấp nhận được dưới dạng miền phẳng trên hệ trục toạ độ $Oxy$.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 02, B4, tr. 26; SGK Toán 10 KNTT Tập 1, Chương 02, B4 (Mục 2), tr. 27; SGK Toán 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 103
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 02, B4, tr. 26; SGK Toán 10 KNTT Tập 1, Chương 02, B4 (Mục 2), tr. 27; SGK Toán 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 103; SGK Toán 10 KNTT Tập 1, Chương 02, B3, tr. 22; SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 2), tr. 24; SGK Toán 10 KNTT Tập 1, Chương 02, B3 (Mục 2), tr. 24, 25
 
 ### solution set of an equation
 - **Tiếng Việt:** Tập nghiệm của phương trình (tập nghiệm)
@@ -8758,6 +9967,30 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 8, Bài 25 (Mục 2): Tìm nghiệm duy nhất của phương trình bậc nhất một ẩn bằng quy tắc chuyển vế và quy tắc nhân.
 - **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 07, B25, tr. 27; SGK Toán 8 KNTT Tập 2, Chương 07, B25 (Mục 2), tr. 29; SGK Toán 8 KNTT Tập 2, Chương 07, B25 (Mục 2), tr. 29, 30
 
+### solving a linear inequality in one unknown
+- **Tiếng Việt:** Giải bất phương trình bậc nhất một ẩn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The rule for finding the solutions of a linear inequality in one unknown of the form $ax + b < 0$ ($a \ne 0$) by transforming it into $ax < -b$, yielding $x < -\dfrac{b}{a}$ if $a > 0$ or $x > -\dfrac{b}{a}$ if $a < 0$. The forms $ax + b > 0$, $ax + b \le 0$, and $ax + b \ge 0$ ($a \ne 0$) are solved analogously according to the sign of $a$.
+- **Giải thích (VI):** Quy tắc tìm nghiệm của bất phương trình bậc nhất một ẩn dạng $ax + b < 0$ ($a \ne 0$) bằng cách biến đổi về $ax < -b$, suy ra $x < -\dfrac{b}{a}$ nếu $a > 0$ hoặc $x > -\dfrac{b}{a}$ nếu $a < 0$. Các dạng $ax + b > 0$, $ax + b \le 0$, $ax + b \ge 0$ ($a \ne 0$) được biến đổi tương tự theo dấu của hệ số $a$.
+- **Bối cảnh:** Toán học lớp 9, Bài 6 (Mục 2): vận dụng quy tắc chuyển vế và chia hai vế cho hệ số $a \ne 0$ để tìm nghiệm của bất phương trình bậc nhất một ẩn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 02, B6 (Mục 1), tr. 39; SGK Toán 9 KNTT Tập 1, Chương 02, B6 (Mục 2), tr. 39; SGK Toán 9 KNTT Tập 1, Chương 02, B6 (Mục 2), tr. 39, 40
+
+### solving a linear system using a handheld calculator
+- **Tiếng Việt:** Tìm nghiệm của hệ hai phương trình bậc nhất hai ẩn bằng máy tính cầm tay
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A procedure for using the system-solver function on a handheld calculator by rewriting the system in the form $\begin{cases} a_1x + b_1y = c_1 \\ a_2x + b_2y = c_2 \end{cases}$, entering the coefficients $a_1, b_1, c_1, a_2, b_2, c_2$, and reading the unique solution, infinitely many solutions, or no-solution result.
+- **Giải thích (VI):** Quy trình sử dụng chức năng giải hệ trên máy tính cầm tay bằng cách đưa hệ phương trình về dạng $\begin{cases} a_1x + b_1y = c_1 \\ a_2x + b_2y = c_2 \end{cases}$, nhập các hệ số $a_1, b_1, c_1, a_2, b_2, c_2$ và đọc kết quả nghiệm duy nhất, vô số nghiệm hoặc vô nghiệm.
+- **Bối cảnh:** Toán học lớp 9, Bài 2 (Mục 3): Tính nhanh hoặc kiểm tra lại nghiệm của hệ hai phương trình bậc nhất hai ẩn bằng máy tính cầm tay.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 01, B2 (Mục 3), tr. 15; SGK Toán 9 KNTT Tập 1, Chương 01, B2 (Mục 3), tr. 15, 16
+
+### solving a product equation
+- **Tiếng Việt:** Cách giải phương trình tích
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A rule for solving a product equation $(ax + b)(cx + d) = 0$ by solving the two equations $ax + b = 0$ and $cx + d = 0$ separately and taking all of their solutions. Equations not yet in factored form can be rearranged and factored to reduce them to a product equation.
+- **Giải thích (VI):** Quy tắc giải phương trình tích $(ax + b)(cx + d) = 0$ bằng cách giải hai phương trình $ax + b = 0$ và $cx + d = 0$, sau đó lấy tất cả các nghiệm của chúng. Phương trình chưa ở dạng tích có thể đưa về phương trình tích nhờ chuyển vế và phân tích đa thức thành nhân tử.
+- **Bối cảnh:** Toán học lớp 9, Bài 4 (Mục 1): Giải các phương trình đa thức quy được về tích của các nhân tử bậc nhất bằng $0$.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 02, B4 (Mục 1), tr. 27; SGK Toán 9 KNTT Tập 1, Chương 02, B4 (Mục 1), tr. 27, 28
+
 ### solving a quadratic inequality
 - **Tiếng Việt:** Giải một bất phương trình bậc hai
 - **Chuyên ngành gốc:** Toán học
@@ -8765,6 +9998,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bài toán tìm đầy đủ tập nghiệm của một bất phương trình bậc hai một ẩn đã cho trên tập số thực.
 - **Bối cảnh:** Toán học lớp 10, Bài 17 (Mục 2): Xác định yêu cầu đầu ra khi giải các bất phương trình bậc hai một ẩn.
 - **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 06, B17 (Mục 1), tr. 22; SGK Toán 10 KNTT Tập 2, Chương 06, B17 (Mục 2), tr. 22; SGK Toán 10 KNTT Tập 2, Chương 06, B17 (Mục 2), tr. 22, 23
+
+### solving a right triangle
+- **Tiếng Việt:** Giải tam giác vuông
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The problem of finding all remaining sides and acute angles of a right triangle when given two sides or one acute angle and one side.
+- **Giải thích (VI):** Bài toán tìm tất cả các cạnh và các góc còn lại của một tam giác vuông khi biết trước hai cạnh hoặc một góc nhọn và một cạnh.
+- **Bối cảnh:** Toán học lớp 9, Bài 12 (Mục 3): vận dụng các hệ thức giữa cạnh và góc để xác định đầy đủ các yếu tố chưa biết của tam giác vuông.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 04, B12 (Mục 3), tr. 77; SGK Toán 9 KNTT Tập 1, Chương 04, B12 (Mục 3), tr. 77, 78; SGK Toán 9 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 119
 
 ### solving a triangle
 - **Tiếng Việt:** Giải tam giác
@@ -8784,6 +10025,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Toán học lớp 8, Bài 25 (Mục 1): Yêu cầu cốt lõi khi biến đổi phương trình để xác định đầy đủ các giá trị của ẩn.
 - **Nguồn:** SGK Toán 10 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 99; SGK Toán 8 KNTT Tập 2, Chương 07, B25, tr. 27; SGK Toán 8 KNTT Tập 2, Chương 07, B25 (Mục 1), tr. 28; SGK Toán 8 KNTT Tập 2, Chương 07, B25 (Mục 2), tr. 29
 
+### solving an inequality
+- **Tiếng Việt:** Giải bất phương trình (giải một bất phương trình)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The process of finding all solutions of a given inequality.
+- **Giải thích (VI):** Quá trình tìm tất cả các nghiệm của một bất phương trình đã cho.
+- **Bối cảnh:** Toán học lớp 9, Bài 6 (Mục 1): xác định yêu cầu tìm toàn bộ các nghiệm của một bất phương trình cho trước.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 02, B6 (Mục 1), tr. 39; SGK Toán 9 KNTT Tập 1, Chương 02, B6 (Mục 2), tr. 39; SGK Toán 9 KNTT Tập 1, Chương 02, B6 (Mục 2), tr. 39, 40
+
 ### solving direct proportion problems
 - **Tiếng Việt:** Giải toán về đại lượng tỉ lệ thuận
 - **Chuyên ngành gốc:** Toán học
@@ -8791,6 +10040,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Phương pháp giải bài toán thực tế dựa trên việc nhận diện hai đại lượng tỉ lệ thuận, thiết lập tỉ lệ thức hoặc dãy tỉ số bằng nhau giữa các giá trị tương ứng, rồi vận dụng tính chất của dãy tỉ số bằng nhau để tìm các giá trị chưa biết.
 - **Bối cảnh:** Toán học lớp 7, Bài 22 (Mục 2): vận dụng tính chất đại lượng tỉ lệ thuận vào bài toán năng suất, khối lượng, quãng đường.
 - **Nguồn:** SGK Toán 7 KNTT Tập 2, Chương 06, B22 (Mục 2), tr. 13; SGK Toán 7 KNTT Tập 2, Chương 06, B22 (Mục 2), tr. 13, 14
+
+### solving incomplete quadratic equations
+- **Tiếng Việt:** Giải phương trình bậc hai một ẩn dạng khuyết
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The method for finding all roots of a quadratic equation $ax^2 + bx + c = 0$ ($a \ne 0$) lacking the constant term ($c = 0$, form $ax^2 + bx = 0$) or the linear term ($b = 0$, form $ax^2 + c = 0$) by factoring out a common factor into a product equation or rewriting using a square.
+- **Giải thích (VI):** Phương pháp tìm tất cả các nghiệm của phương trình bậc hai $ax^2 + bx + c = 0$ ($a \ne 0$) khi khuyết hạng tử tự do ($c = 0$, dạng $ax^2 + bx = 0$) hoặc khuyết hạng tử bậc nhất ($b = 0$, dạng $ax^2 + c = 0$) bằng cách đặt nhân tử chung đưa về phương trình tích hoặc biến đổi đưa về dạng bình phương.
+- **Bối cảnh:** Toán học lớp 9, Bài 19 (Mục 2): Giải nhanh các phương trình bậc hai có $b = 0$ hoặc $c = 0$ không cần tính biệt thức $\Delta$.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 1), tr. 11; SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 2), tr. 11; SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 2), tr. 11, 12
 
 ### solving inverse proportion problems
 - **Tiếng Việt:** Giải toán về đại lượng tỉ lệ nghịch
@@ -8805,8 +10062,11 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** A three-step method for solving word or applied problems: set up an equation (choose an unknown with appropriate conditions, express unknown quantities in terms of the unknown and known quantities, and form an equation relating the quantities); solve the equation; and check which solutions satisfy the conditions on the unknown before stating the conclusion.
 - **Giải thích (VI):** Phương pháp giải toán có lời văn gồm ba bước: lập phương trình (chọn ẩn và đặt điều kiện cho ẩn, biểu diễn các đại lượng chưa biết theo ẩn và các đại lượng đã biết, lập phương trình biểu thị quan hệ giữa các đại lượng); giải phương trình vừa lập; kiểm tra các nghiệm với điều kiện của ẩn rồi kết luận.
-- **Bối cảnh:** Toán học lớp 8, Bài 26: Mô hình hoá các bài toán chuyển động, năng suất và thực tiễn về phương trình một ẩn để tìm lời giải.
-- **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 07, B26, tr. 33; SGK Toán 8 KNTT Tập 2, Chương 07, B26, tr. 33, 34
+- **Giải thích khác (SGK Toán 9 Tập 2):** EN: The three-step procedure for solving practical problems using equations: (1) choose an unknown with appropriate domain conditions, express unknown quantities in terms of the unknown, and set up the relating equation; (2) solve the equation; (3) check the solutions against the domain conditions and state the conclusion. / VI: Quy trình ba bước giải bài toán thực tiễn bằng phương trình: (1) chọn ẩn, đặt điều kiện thích hợp, biểu diễn các đại lượng chưa biết theo ẩn và lập phương trình liên hệ; (2) giải phương trình vừa lập; (3) đối chiếu các nghiệm với điều kiện của ẩn và kết luận.
+- **Bối cảnh:**
+  - Toán học lớp 8, Bài 26: Mô hình hoá các bài toán chuyển động, năng suất và thực tiễn về phương trình một ẩn để tìm lời giải.
+  - Toán học lớp 9, Bài 21 (Mục Giải toán bằng cách lập phương trình): Mô hình hoá và giải các bài toán thực tế dẫn đến phương trình bậc hai một ẩn.
+- **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 07, B26, tr. 33; SGK Toán 8 KNTT Tập 2, Chương 07, B26, tr. 33, 34; SGK Toán 9 KNTT Tập 2, Chương 06, B21, tr. 25; SGK Toán 9 KNTT Tập 2, Chương 06, B21, tr. 25, 26
 
 ### special cases of greatest common divisor
 - **Tiếng Việt:** Ước chung lớn nhất trong trường hợp đặc biệt
@@ -8829,10 +10089,13 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** The set of all points $M$ in three-dimensional space at a constant distance $R$ ($R > 0$) from a fixed point $I$, where $I$ is the center and $R$ is the radius. A point $M$ lies inside the sphere when $IM < R$, on the sphere when $IM = R$, and outside the sphere when $IM > R$.
 - **Giải thích (VI):** Tập hợp tất cả các điểm $M$ trong không gian cách điểm cố định $I$ một khoảng không đổi bằng $R$ ($R > 0$), với $I$ là tâm và $R$ là bán kính. Một điểm $M$ nằm trong mặt cầu khi $IM < R$, thuộc mặt cầu khi $IM = R$ và nằm ngoài mặt cầu khi $IM > R$.
+- **Giải thích khác (SGK Toán 9 Tập 2):** EN: A curved surface in three-dimensional space generated by revolving a semicircle one full turn around its fixed diameter $AB$. / VI: Mặt cong trong không gian được tạo thành khi quay một nửa đường tròn một vòng quanh đường kính $AB$ cố định của nó.
 - **Bối cảnh:**
   - Toán học lớp 12, Bài 17 (Mục 1): Xác định tập hợp điểm của mặt cầu và xét vị trí tương đối của một điểm đối với mặt cầu trong không gian $Oxyz$, phân biệt với khối cầu (gồm cả mặt cầu và phần bên trong).
+  - Toán học lớp 9, Bài 32 (Mục 1): Phân biệt mặt cong bao ngoài (mặt cầu) với khối đặc bên trong (hình cầu).
   - *Lưu ý:* Chỉ phần bề mặt gồm các điểm thoả mãn $IM = R$, phân biệt với khối cầu bao gồm cả các điểm nằm trong mặt cầu ($IM \le R$).
-- **Nguồn:** SGK Toán 12 KNTT Tập 2, Chương 05, B17, tr. 54; SGK Toán 12 KNTT Tập 2, Chương 05, B17 (Mục 1), tr. 54; SGK Toán 12 KNTT Tập 2, Chương 05, B17 (Mục 1), tr. 54, 55
+  - *Lưu ý:* Trong SGK Toán Việt Nam, "mặt cầu" (sphere) chỉ bề mặt cong tạo bởi nửa đường tròn quay quanh đường kính, còn "hình cầu" (solid sphere) tạo bởi nửa hình tròn quay quanh đường kính gồm cả mặt cầu và phần không gian bên trong.
+- **Nguồn:** SGK Toán 12 KNTT Tập 2, Chương 05, B17, tr. 54; SGK Toán 12 KNTT Tập 2, Chương 05, B17 (Mục 1), tr. 54; SGK Toán 12 KNTT Tập 2, Chương 05, B17 (Mục 1), tr. 54, 55; SGK Toán 9 KNTT Tập 2, Chương 10, B32, tr. 101; SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 1), tr. 101; SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 1), tr. 101, 102
 
 ### square
 - **Tiếng Việt:** Hình vuông
@@ -8871,6 +10134,62 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Hằng đẳng thức đáng nhớ biểu diễn bình phương của tổng hai biểu thức $A, B$ tuỳ ý theo công thức $(A + B)^2 = A^2 + 2AB + B^2$.
 - **Bối cảnh:** Toán học lớp 8, Bài 6 (Mục 3): Khai triển bình phương của một tổng hoặc viết một tam thức có dạng $A^2 + 2AB + B^2$ thành bình phương của một tổng.
 - **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 02, B6, tr. 29; SGK Toán 8 KNTT Tập 1, Chương 02, B6 (Mục 2), tr. 31; SGK Toán 8 KNTT Tập 1, Chương 02, B6 (Mục 3), tr. 31
+
+### square root
+- **Tiếng Việt:** Căn bậc hai
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A real number $x$ satisfying $x^2 = a$ for a given non-negative real number $a$. Every positive number $a$ has exactly two opposite square roots $\sqrt{a}$ and $-\sqrt{a}$, the number $0$ has the unique square root $0$, and negative numbers have no real square roots.
+- **Giải thích (VI):** Số thực $x$ thỏa mãn $x^2 = a$ đối với một số thực không âm $a$ cho trước. Mọi số dương $a$ có đúng hai căn bậc hai đối nhau là $\sqrt{a}$ và $-\sqrt{a}$, số $0$ có duy nhất một căn bậc hai là $0$, còn số âm không có căn bậc hai.
+- **Bối cảnh:** Toán học lớp 9, Bài 7 (Mục 1): tìm các căn bậc hai của số thực không âm và phân biệt với căn bậc hai số học $\sqrt{a}$.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B7, tr. 44; SGK Toán 9 KNTT Tập 1, Chương 03, B7 (Mục 1), tr. 45; SGK Toán 9 KNTT Tập 1, Chương 03, B7 (Mục 1), tr. 45, 46
+
+### square root expression
+- **Tiếng Việt:** Căn thức bậc hai
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** An expression of the form $\sqrt{A}$, where $A$ is an algebraic expression and the radical is defined when $A$ takes non-negative values ($A \ge 0$).
+- **Giải thích (VI):** Biểu thức có dạng $\sqrt{A}$, trong đó $A$ là một biểu thức đại số và căn thức xác định khi $A$ nhận giá trị không âm ($A \ge 0$).
+- **Bối cảnh:** Toán học lớp 9, Bài 7 (Mục 2): nhận biết biểu thức đại số dưới dấu căn bậc hai và tính giá trị căn thức tại các giá trị của biến.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B7, tr. 44; SGK Toán 9 KNTT Tập 1, Chương 03, B7 (Mục 1), tr. 46; SGK Toán 9 KNTT Tập 1, Chương 03, B7 (Mục 2), tr. 46
+
+### square root extraction
+- **Tiếng Việt:** Phép khai căn bậc hai
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The mathematical operation of finding the principal square root of a non-negative real number or a non-negative algebraic expression.
+- **Giải thích (VI):** Phép toán tìm căn bậc hai số học của một số thực không âm hoặc một biểu thức đại số không âm.
+- **Bối cảnh:** Toán học lớp 9, Bài 8 (Mục 1): khảo sát mối liên hệ giữa phép lấy căn bậc hai số học với phép nhân và phép chia.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B8, tr. 49; SGK Toán 9 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 49; SGK Toán 9 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 49, 50
+
+### square root of a product
+- **Tiếng Việt:** Khai căn bậc hai của một tích
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The rule relating square root extraction and multiplication for non-negative expressions $A \ge 0, B \ge 0$, given by $\sqrt{A} \cdot \sqrt{B} = \sqrt{AB}$ (and extendable to the product of multiple non-negative expressions such as $\sqrt{A} \cdot \sqrt{B} \cdot \sqrt{C} = \sqrt{A \cdot B \cdot C}$ for $A \ge 0, B \ge 0, C \ge 0$).
+- **Giải thích (VI):** Quy tắc liên hệ giữa phép khai căn bậc hai và phép nhân đối với các biểu thức không âm $A \ge 0, B \ge 0$, được biểu diễn bởi $\sqrt{A} \cdot \sqrt{B} = \sqrt{AB}$ (và mở rộng cho nhiều biểu thức không âm như $\sqrt{A} \cdot \sqrt{B} \cdot \sqrt{C} = \sqrt{A \cdot B \cdot C}$ với $A \ge 0, B \ge 0, C \ge 0$).
+- **Bối cảnh:** Toán học lớp 9, Bài 8 (Mục 1): tách căn bậc hai của một tích để khai căn từng thừa số hoặc nhân các căn bậc hai với nhau.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B8, tr. 49; SGK Toán 9 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 49; SGK Toán 9 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 49, 50
+
+### square root of a quotient
+- **Tiếng Việt:** Khai căn bậc hai của một thương
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The rule relating square root extraction and division for two expressions satisfying $A \ge 0$ and $B > 0$, given by $\dfrac{\sqrt{A}}{\sqrt{B}} = \sqrt{\dfrac{A}{B}}$.
+- **Giải thích (VI):** Quy tắc liên hệ giữa phép khai căn bậc hai và phép chia đối với hai biểu thức thỏa mãn $A \ge 0$ và $B > 0$, được biểu diễn bởi $\dfrac{\sqrt{A}}{\sqrt{B}} = \sqrt{\dfrac{A}{B}}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 8 (Mục 2): khai căn bậc hai của phân số, phân thức hoặc thực hiện phép chia hai căn thức bậc hai.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 50; SGK Toán 9 KNTT Tập 1, Chương 03, B8 (Mục 2), tr. 50; SGK Toán 9 KNTT Tập 1, Chương 03, B8 (Mục 2), tr. 50, 51
+
+### square root of a square identity
+- **Tiếng Việt:** Hằng đẳng thức căn bậc hai của một bình phương
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The algebraic identity $\sqrt{A^2} = |A|$ valid for every algebraic expression $A$, accompanied by the properties $\sqrt{A} \ge 0$ and $\left(\sqrt{A}\right)^2 = A$ when $A \ge 0$.
+- **Giải thích (VI):** Hằng đẳng thức đại số $\sqrt{A^2} = |A|$ đúng với mọi biểu thức đại số $A$, đi kèm tính chất $\sqrt{A} \ge 0$ và $\left(\sqrt{A}\right)^2 = A$ khi $A \ge 0$.
+- **Bối cảnh:** Toán học lớp 9, Bài 7 (Mục 2): rút gọn căn bậc hai của biểu thức bình phương thông qua giá trị tuyệt đối và xét dấu biểu thức.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B7 (Mục 2), tr. 47; SGK Toán 9 KNTT Tập 1, Chương 03, B7 (Mục 2), tr. 47, 48
+
+### square root of a square property
+- **Tiếng Việt:** Tính chất căn bậc hai của một bình phương
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The property stating that the principal square root of the square of any real number $a$ equals its absolute value, expressed by $\sqrt{a^2} = |a|$ for all $a \in \mathbb{R}$.
+- **Giải thích (VI):** Tính chất khẳng định căn bậc hai số học của bình phương mọi số thực $a$ bằng giá trị tuyệt đối của số đó, biểu diễn bởi đẳng thức $\sqrt{a^2} = |a|$ với mọi số thực $a$.
+- **Bối cảnh:** Toán học lớp 9, Bài 7 (Mục 1): tính giá trị biểu thức số chứa căn bậc hai của một bình phương mà không sử dụng máy tính cầm tay.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B7 (Mục 1), tr. 46; SGK Toán 9 KNTT Tập 1, Chương 03, B7 (Mục 2), tr. 46; SGK Toán 9 KNTT Tập 1, Chương 03, B7 (Mục 2), tr. 46, 47
 
 ### standard deviation
 - **Tiếng Việt:** Độ lệch chuẩn
@@ -8923,6 +10242,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Bảng trình bày dữ liệu thu thập được theo các hàng và cột kèm đơn vị đo tương ứng (nếu có) nhằm cung cấp thông tin thống kê về các đối tượng khảo sát.
 - **Bối cảnh:** Toán học lớp 6, Bài 39 (Mục 1): Tổng hợp, trình bày và đọc thông tin dữ liệu thu thập được dưới dạng bảng hàng cột.
 - **Nguồn:** SGK Toán 6 KNTT Tập 2, Chương 09, B39, tr. 80; SGK Toán 6 KNTT Tập 2, Chương 09, B39 (Mục 1), tr. 80; SGK Toán 6 KNTT Tập 2, Chương 09, B39 (Mục 1), tr. 81
+
+### steps for solving an equation with the unknown in the denominator
+- **Tiếng Việt:** Các bước giải phương trình chứa ẩn ở mẫu
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A four-step procedure for solving an equation with the unknown in the denominator: (1) find the domain condition of the equation; (2) bring both sides to a common denominator and clear denominators; (3) solve the resulting equation; and (4) select the values obtained in step 3 that satisfy the domain condition as the solutions.
+- **Giải thích (VI):** Quy trình bốn bước giải phương trình chứa ẩn ở mẫu: (1) tìm điều kiện xác định của phương trình; (2) quy đồng mẫu hai vế rồi khử mẫu; (3) giải phương trình vừa tìm được; (4) chọn các giá trị ở bước 3 thoả mãn điều kiện xác định làm nghiệm của phương trình đã cho.
+- **Bối cảnh:** Toán học lớp 9, Bài 4 (Mục 2): Quy trình chuẩn giải phương trình chứa ẩn ở mẫu nhằm quy về phương trình không chứa ẩn ở mẫu.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 02, B4 (Mục 2), tr. 29; SGK Toán 9 KNTT Tập 1, Chương 02, B4 (Mục 2), tr. 29, 30
+
+### steps for solving word problems using a system of equations
+- **Tiếng Việt:** Các bước giải bài toán bằng cách lập hệ phương trình
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A three-step procedure for solving word problems using a system of equations: (1) choose unknowns with appropriate conditions, express unknown quantities, and set up a system of equations representing their relationships; (2) solve the system; and (3) check the solutions against the conditions on the unknowns before concluding.
+- **Giải thích (VI):** Quy trình ba bước giải bài toán bằng cách lập hệ phương trình: (1) chọn ẩn số kèm điều kiện thích hợp, biểu diễn các đại lượng chưa biết và lập hệ phương trình biểu thị quan hệ giữa chúng; (2) giải hệ phương trình; (3) kiểm tra các nghiệm tìm được với điều kiện của ẩn rồi kết luận.
+- **Bối cảnh:** Toán học lớp 9, Bài 3: Mô hình hoá và giải các bài toán thực tiễn có hai đại lượng chưa biết liên hệ với nhau.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 01, B3, tr. 21; SGK Toán 9 KNTT Tập 1, Chương 01, B3, tr. 21, 22
 
 ### steps to calculate classical probability
 - **Tiếng Việt:** Các bước tính xác suất của biến cố bằng tỉ số
@@ -9006,7 +10341,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A set $T$ every element of which belongs to a set $S$, denoted by $T \subset S$ or $S \supset T$ (meaning $\forall x, x \in T \Rightarrow x \in S$ is true); if $T$ is not a subset of $S$, it is written $T \not\subset S$. By convention, the empty set $\varnothing$ is a subset of every set.
 - **Giải thích (VI):** Tập hợp $T$ có mọi phần tử đều là phần tử của tập hợp $S$, kí hiệu là $T \subset S$ hoặc $S \supset T$ (tương đương mệnh đề $\forall x, x \in T \Rightarrow x \in S$ đúng); nếu $T$ không là tập con của $S$ thì kí hiệu $T \not\subset S$. Theo quy ước, tập rỗng $\varnothing$ là tập con của mọi tập hợp.
 - **Bối cảnh:** Toán học lớp 10, Bài 2 (Mục 1b): Xét quan hệ bao hàm giữa hai tập hợp và phân biệt kí hiệu $\subset$ với kí hiệu $\in$.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2, tr. 12; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.b), tr. 14
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2, tr. 12; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.b), tr. 14; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.a), tr. 13; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.b), tr. 13
+
+### substitution method
+- **Tiếng Việt:** Phương pháp thế
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A method for solving a system of two linear equations in two unknowns by expressing one unknown in terms of the other from one equation and substituting it into the remaining equation to obtain an equation in a single unknown. Solving this single-unknown equation yields the solution of the given system.
+- **Giải thích (VI):** Phương pháp giải hệ hai phương trình bậc nhất hai ẩn bằng cách từ một phương trình biểu diễn một ẩn theo ẩn kia rồi thế vào phương trình còn lại để đưa về phương trình chỉ còn chứa một ẩn. Giải phương trình một ẩn vừa nhận được sẽ suy ra nghiệm của hệ đã cho.
+- **Bối cảnh:** Toán học lớp 9, Bài 2 (Mục 1): Giải hệ hai phương trình bậc nhất hai ẩn bằng cách biểu diễn một ẩn theo ẩn còn lại.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 01, B2, tr. 11; SGK Toán 9 KNTT Tập 1, Chương 01, B2 (Mục 1), tr. 11; SGK Toán 9 KNTT Tập 1, Chương 01, B2 (Mục 1), tr. 11, 12
 
 ### subtraction
 - **Tiếng Việt:** Phép trừ
@@ -9046,7 +10389,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** Terminology describing the logical relationship between the hypothesis $P$ and the conclusion $Q$ in a true mathematical theorem of the form $P \Rightarrow Q$. In such a theorem, $P$ is a sufficient condition for $Q$, whereas $Q$ is a necessary condition for $P$.
 - **Giải thích (VI):** Thuật ngữ diễn đạt quan hệ lôgic giữa giả thiết $P$ và kết luận $Q$ trong định lí toán học đúng dạng $P \Rightarrow Q$. Trong định lí đó, $P$ là điều kiện đủ để có $Q$, còn $Q$ là điều kiện cần để có $P$.
 - **Bối cảnh:** Toán học lớp 10, Bài 1 (Mục 3a): Phát biểu lại định lí toán học dạng $P \Rightarrow Q$ bằng thuật ngữ điều kiện cần và điều kiện đủ.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 3.a), tr. 8
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 3.a), tr. 8; SGK Toán 10 KNTT Tập 1, Chương 01, B1 (Mục 3.b), tr. 8
 
 ### sum
 - **Tiếng Việt:** Tổng
@@ -9071,6 +10414,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Định lí hình học khẳng định tổng số đo bốn góc trong của một tứ giác lồi luôn bằng $360^\circ$, tức là $\widehat{A} + \widehat{B} + \widehat{C} + \widehat{D} = 360^\circ$ đối với tứ giác $ABCD$.
 - **Bối cảnh:** Toán học lớp 8, Bài 10 (Mục 2): tính số đo góc chưa biết trong tứ giác khi biết số đo hoặc quan hệ giữa các góc còn lại.
 - **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 50; SGK Toán 8 KNTT Tập 1, Chương 03, B10 (Mục 2), tr. 50; SGK Toán 8 KNTT Tập 1, Chương 03, B10 (Mục 2), tr. 50, 51
+
+### sum of opposite angles of a cyclic quadrilateral
+- **Tiếng Việt:** Tổng số đo hai góc đối nhau của tứ giác nội tiếp
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The theorem stating that in a cyclic quadrilateral, the sum of the measures of any two opposite angles equals $180^\circ$ (e.g., $\widehat{A} + \widehat{C} = 180^\circ$ in cyclic quadrilateral $ABCD$).
+- **Giải thích (VI):** Định lí khẳng định trong một tứ giác nội tiếp đường tròn, tổng số đo hai góc đối nhau bằng $180^\circ$ (chẳng hạn $\widehat{A} + \widehat{C} = 180^\circ$ đối với tứ giác nội tiếp $ABCD$).
+- **Bối cảnh:** Toán học lớp 9, Bài 29 (Mục 1): tính số đo góc chưa biết trong tứ giác nội tiếp hoặc xét điều kiện của các góc đối nhau.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B29 (Mục 1), tr. 81; SGK Toán 9 KNTT Tập 2, Chương 09, B29 (Mục 1), tr. 81, 82
 
 ### sum of the first n terms of a geometric progression
 - **Tiếng Việt:** Tổng của n số hạng đầu của cấp số nhân
@@ -9148,7 +10499,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Toán học lớp 7, Bài 8 (Mục 1): Phân biệt quan hệ về tổng số đo góc (bù nhau) với quan hệ vừa chung cạnh vừa bù nhau (kề bù).
   - *Lưu ý:* Phân biệt hai góc bù nhau (tổng bằng $180^\circ$) với hai góc phụ nhau (tổng bằng $90^\circ$).
   - *Lưu ý:* Phân biệt với hai góc phụ nhau (tổng số đo bằng $90^\circ$) và hai góc kề bù (hai góc vừa kề nhau vừa bù nhau).
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 03, B5, tr. 33; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 2), tr. 36; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 4.b), tr. 15; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 4.b), tr. 15, 16; SGK Toán 7 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 41; SGK Toán 7 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 41, 42; SGK Toán 7 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 119
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 03, B5, tr. 33; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 2), tr. 36; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 2), tr. 36, 37; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 4.b), tr. 15; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 4.b), tr. 15, 16; SGK Toán 7 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 41; SGK Toán 7 KNTT Tập 1, Chương 03, B8 (Mục 1), tr. 41, 42; SGK Toán 7 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 119
 
 ### supporting line of a vector
 - **Tiếng Việt:** Giá của vectơ (giá)
@@ -9160,6 +10511,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
   - Toán học lớp 10, Bài 7 (Mục 2): Cơ sở hình học để xét mối quan hệ cùng phương giữa hai vectơ.
   - Toán học lớp 12, Bài 6 (Mục 1): Xác định phương của vectơ để xét hai vectơ cùng phương trong không gian.
 - **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 04, B7, tr. 46; SGK Toán 10 KNTT Tập 1, Chương 04, B7 (Mục 1), tr. 47; SGK Toán 10 KNTT Tập 1, Chương 04, B7 (Mục 2), tr. 48; SGK Toán 12 KNTT Tập 1, Chương 02, B6 (Mục 1), tr. 46; SGK Toán 12 KNTT Tập 1, Chương 02, B6 (Mục 1), tr. 46, 47; SGK Toán 12 KNTT Tập 1, Chương 02, B6 (Mục 1), tr. 47
+
+### surface area of a sphere
+- **Tiếng Việt:** Diện tích mặt cầu
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The total area of the curved surface of a sphere with radius $R$, given by the formula $S = 4\pi R^2$.
+- **Giải thích (VI):** Diện tích bề mặt của mặt cầu có bán kính $R$, tính theo công thức $S = 4\pi R^2$.
+- **Bối cảnh:** Toán học lớp 9, Bài 32 (Mục 2): Tính diện tích bề mặt của các vật thể có dạng mặt cầu hoặc hình cầu.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 2), tr. 103; SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 2), tr. 104; SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 2), tr. 104, 105
 
 ### symmetric equations of a line
 - **Tiếng Việt:** Phương trình chính tắc của đường thẳng (phương trình chính tắc)
@@ -9175,7 +10534,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A system consisting of two or more linear inequalities in the same two variables $x, y$ considered simultaneously.
 - **Giải thích (VI):** Hệ gồm hai hay nhiều bất phương trình bậc nhất đối với cùng hai ẩn số $x, y$ được xét đồng thời.
 - **Bối cảnh:** Toán học lớp 10, Bài 4 (Mục 1): Biểu diễn đồng thời nhiều điều kiện ràng buộc bậc nhất trong các bài toán thực tiễn và kinh tế.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 02, B4, tr. 26; SGK Toán 10 KNTT Tập 1, Chương 02, B4 (Mục 1), tr. 26; SGK Toán 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 103
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 02, B4, tr. 26; SGK Toán 10 KNTT Tập 1, Chương 02, B4 (Mục 1), tr. 26; SGK Toán 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 103; SGK Toán 10 KNTT Tập 1, Chương 02, B4 (Mục 1), tr. 26, 27
+
+### system of two linear equations in two unknowns
+- **Tiếng Việt:** Hệ hai phương trình bậc nhất hai ẩn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A pair of linear equations in two unknowns $ax + by = c$ ($a \ne 0$ or $b \ne 0$) and $a'x + b'y = c'$ ($a' \ne 0$ or $b' \ne 0$), commonly written in the form $\begin{cases} ax + by = c \\ a'x + b'y = c' \end{cases}$.
+- **Giải thích (VI):** Một cặp gồm hai phương trình bậc nhất hai ẩn $ax + by = c$ ($a \ne 0$ hoặc $b \ne 0$) và $a'x + b'y = c'$ ($a' \ne 0$ hoặc $b' \ne 0$), thường viết dưới dạng $\begin{cases} ax + by = c \\ a'x + b'y = c' \end{cases}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 1 (Mục 2): Mô hình hoá hai điều kiện bậc nhất đồng thời ràng buộc hai ẩn số $x$ và $y$.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 1), tr. 8; SGK Toán 9 KNTT Tập 1, Chương 01, B1 (Mục 2), tr. 8
 
 ### T-test
 - **Tiếng Việt:** T-test
@@ -9217,6 +10584,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 10, Bài 16 (Mục 1): xác định toạ độ các điểm đặc biệt thuộc parabol trước khi vẽ đồ thị hàm số bậc hai.
 - **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 06, B16, tr. 11; SGK Toán 10 KNTT Tập 2, Chương 06, B16 (Mục 1), tr. 12; SGK Toán 10 KNTT Tập 2, Chương 06, B16 (Mục 2), tr. 12
 
+### taking a factor out of the radical sign
+- **Tiếng Việt:** Phép đưa thừa số ra ngoài dấu căn
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The transformation of a square root according to the formula $\sqrt{a^2 \cdot b} = |a|\sqrt{b}$ (for any real number $a$ and $b \ge 0$), extracting a squared factor from under the radical sign.
+- **Giải thích (VI):** Phép biến đổi căn thức bậc hai theo công thức $\sqrt{a^2 \cdot b} = |a|\sqrt{b}$ (với $a$ là số thực tùy ý và $b \ge 0$), giúp tách thừa số bình phương ra khỏi dấu căn.
+- **Bối cảnh:** Toán học lớp 9, Bài 9 (Mục 1): biến đổi căn bậc hai để đưa các thừa số bình phương ra khỏi dấu căn khi rút gọn biểu thức.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 03, B9, tr. 54; SGK Toán 9 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 54; SGK Toán 9 KNTT Tập 1, Chương 03, B9 (Mục 1), tr. 54, 55
+
 ### tangent function
 - **Tiếng Việt:** Hàm số tang
 - **Chuyên ngành gốc:** Toán học
@@ -9233,6 +10608,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 11, Bài 31 (Mục 4a): Ý nghĩa hình học của đạo hàm tại một điểm trên đồ thị hàm số.
 - **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 09, B31 (Mục 3), tr. 84; SGK Toán 11 KNTT Tập 2, Chương 09, B31 (Mục 4.a), tr. 84; SGK Toán 11 KNTT Tập 2, Chương 09, B31 (Mục 4.a), tr. 84, 85
 
+### tangent line to a circle
+- **Tiếng Việt:** Tiếp tuyến của đường tròn (tiếp tuyến)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A straight line that shares exactly one common point with a circle, whose distance from the circle's center equals the radius.
+- **Giải thích (VI):** Đường thẳng chỉ có duy nhất một điểm chung với đường tròn, có khoảng cách từ tâm đường tròn đến đường thẳng đúng bằng bán kính.
+- **Bối cảnh:** Toán học lớp 9, Bài 16 (Mục 1): Nhận diện đường thẳng tiếp xúc với đường tròn và vận dụng trong các bài toán chứng minh vuông góc.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B16, tr. 99; SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 1), tr. 100; SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 2), tr. 100
+
+### tangent of an acute angle
+- **Tiếng Việt:** Tang của góc nhọn (tang; tang của góc $\alpha$)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The trigonometric ratio of an acute angle $\alpha$ in a right triangle equal to the ratio of the opposite side to the adjacent side, denoted by $\tan \alpha = \dfrac{\text{opposite}}{\text{adjacent}}$.
+- **Giải thích (VI):** Tỉ số lượng giác của góc nhọn $\alpha$ trong tam giác vuông bằng tỉ số giữa độ dài cạnh đối và độ dài cạnh kề của góc $\alpha$, kí hiệu là $\tan \alpha = \dfrac{\text{cạnh đối}}{\text{cạnh kề}}$.
+- **Bối cảnh:** Toán học lớp 9, Bài 11 (Mục 1): tính tỉ số tang của góc nhọn trong tam giác vuông từ độ dài hai cạnh góc vuông.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 04, B11, tr. 66; SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 67; SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 68
+
 ### tangent of an angle
 - **Tiếng Việt:** Tang của một góc (tang)
 - **Chuyên ngành gốc:** Toán học
@@ -9241,7 +10632,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 10, Bài 5 (Mục 1): Tính giá trị tang của góc khác $90^\circ$ trong đoạn từ $0^\circ$ đến $180^\circ$.
   - *Lưu ý:* Phân biệt giá trị lượng giác tang ($\tan\alpha$) của một góc với đường thẳng tiếp tuyến (tangent line) của đường tròn trong hình học phẳng.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34, 35
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34, 35; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 2), tr. 36
 
 ### term of a polynomial
 - **Tiếng Việt:** Hạng tử của đa thức (hạng tử)
@@ -9300,7 +10691,15 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A solid geometry theorem stating that for a line $a$ and a plane $(P)$ not perpendicular to each other, a line $b$ lying in $(P)$ is perpendicular to $a$ if and only if $b$ is perpendicular to the orthogonal projection $a'$ of $a$ onto $(P)$ ($b \subset (P), b \perp a \Leftrightarrow b \perp a'$).
 - **Giải thích (VI):** Định lí hình học không gian khẳng định rằng với đường thẳng $a$ và mặt phẳng $(P)$ không vuông góc với nhau, một đường thẳng $b$ nằm trong mặt phẳng $(P)$ vuông góc với $a$ khi và chỉ khi $b$ vuông góc với hình chiếu vuông góc $a'$ của $a$ trên $(P)$ ($b \subset (P), b \perp a \Leftrightarrow b \perp a'$).
 - **Bối cảnh:** Toán học lớp 11, Bài 24 (Mục 1): Chứng minh quan hệ vuông góc giữa đường thẳng xiên và đường thẳng nằm trong mặt phẳng thông qua hình chiếu vuông góc.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 39, 40
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 39, 40; SGK Toán 11 KNTT Tập 2, Chương 07, B24, tr. 38; SGK Toán 11 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 39
+
+### theorem on the relation between chord and diameter
+- **Tiếng Việt:** Định lí về quan hệ giữa dây và đường kính
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The theorem stating that in a circle, a diameter is the longest chord ($AB \le 2R$ for any chord $AB$ of a circle of radius $R$, with $AB < 2R$ when the chord does not pass through the center).
+- **Giải thích (VI):** Định lí khẳng định trong một đường tròn, đường kính là dây cung lớn nhất ($AB \le 2R$ với mọi dây $AB$ của đường tròn bán kính $R$, và $AB < 2R$ nếu dây không đi qua tâm).
+- **Bối cảnh:** Toán học lớp 9, Bài 14 (Mục 1): so sánh độ dài dây bất kì với đường kính của cùng một đường tròn trong bài toán bất đẳng thức hình học.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B14, tr. 87; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 1), tr. 87; SGK Toán 9 KNTT Tập 1, Chương 05, B14 (Mục 1), tr. 87, 88
 
 ### theorem on three lines of intersection
 - **Tiếng Việt:** Định lí về ba đường giao tuyến
@@ -9309,6 +10708,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Định lí hình học không gian khẳng định nếu ba mặt phẳng đôi một cắt nhau theo ba giao tuyến phân biệt thì ba giao tuyến đó đồng quy tại một điểm hoặc đôi một song song với nhau.
 - **Bối cảnh:** Toán học lớp 11, Bài 11 (Mục 2): Chứng minh sự đồng quy hoặc tính song song của các giao tuyến giữa ba mặt phẳng đôi một cắt nhau.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 04, B11 (Mục 2), tr. 81; SGK Toán 11 KNTT Tập 1, Chương 04, B11 (Mục 2), tr. 81, 82
+
+### theorem on trigonometric ratios of complementary angles
+- **Tiếng Việt:** Định lí về tỉ số lượng giác của hai góc phụ nhau
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The theorem stating that if two acute angles $\alpha$ and $\beta$ are complementary ($\alpha + \beta = 90^\circ$), then the sine of one equals the cosine of the other and the tangent of one equals the cotangent of the other ($\sin \alpha = \cos \beta$, $\cos \alpha = \sin \beta$, $\tan \alpha = \cot \beta$, $\cot \alpha = \tan \beta$).
+- **Giải thích (VI):** Định lí khẳng định nếu hai góc nhọn $\alpha$ và $\beta$ phụ nhau ($\alpha + \beta = 90^\circ$) thì sin góc này bằng côsin góc kia và tang góc này bằng côtang góc kia ($\sin \alpha = \cos \beta$, $\cos \alpha = \sin \beta$, $\tan \alpha = \cot \beta$, $\cot \alpha = \tan \beta$).
+- **Bối cảnh:** Toán học lớp 9, Bài 11 (Mục 2): chuyển đổi tỉ số lượng giác giữa hai góc nhọn phụ nhau để tính toán và rút gọn biểu thức.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 70; SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 2), tr. 70
 
 ### third quartile
 - **Tiếng Việt:** Tứ phân vị thứ ba (tứ phân vị trên)
@@ -9337,13 +10744,32 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 10, Bài 8 (Mục 1): Biến đổi tổng hai vectơ có điểm cuối của vectơ thứ nhất trùng điểm đầu của vectơ thứ hai, hoặc chèn một điểm trung gian vào vectơ.
 - **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 04, B8 (Mục 1), tr. 52; SGK Toán 10 KNTT Tập 1, Chương 04, B8 (Mục 2), tr. 52; SGK Toán 10 KNTT Tập 1, Chương 04, B8 (Mục 2), tr. 52, 53
 
+### total surface area of a cone
+- **Tiếng Việt:** Diện tích toàn phần của hình nón
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The sum of the lateral surface area and the area of the circular base of a cone, given by $S_{\text{tp}} = \pi rl + \pi r^2$ for base radius $r$ and generatrix length $l$.
+- **Giải thích (VI):** Tổng diện tích mặt xung quanh và diện tích đáy của hình nón, tính theo công thức $S_{\text{tp}} = \pi rl + \pi r^2$ với bán kính đáy $r$ và độ dài đường sinh $l$.
+- **Bối cảnh:** Toán học lớp 9, Chương 10 (Bài tập cuối chương X): Tính tổng diện tích toàn bộ bề mặt của khối hình nón kể cả mặt đáy.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 131
+
+### total surface area of a cylinder
+- **Tiếng Việt:** Diện tích toàn phần của hình trụ
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The sum of the lateral surface area and the areas of the two circular bases of a cylinder, given by $S_{\text{tp}} = 2\pi Rh + 2\pi R^2$ for base radius $R$ and height $h$.
+- **Giải thích (VI):** Tổng diện tích xung quanh và diện tích hai hình tròn đáy của hình trụ, tính theo công thức $S_{\text{tp}} = 2\pi Rh + 2\pi R^2$ với bán kính đáy $R$ và chiều cao $h$.
+- **Bối cảnh:** Toán học lớp 9, Chương 10 (Luyện tập chung): Tính tổng diện tích toàn bộ bề mặt bao ngoài của vật thể hình trụ kín hai đầu.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, Luyện tập chung (trang 106), tr. 106; SGK Toán 9 KNTT Tập 2, Chương 10, Luyện tập chung (trang 106), tr. 106, 107; SGK Toán 9 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 131
+
 ### transitive property
-- **Tiếng Việt:** Tính chất bắc cầu
+- **Tiếng Việt:** Tính chất bắc cầu (tính chất bắc cầu của bất đẳng thức)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** A property of order relations stating that for any three numbers $a, b, c$, if $a < b$ and $b < c$ then $a < c$ (and similarly, if $a \le b$ and $b \le c$ then $a \le c$).
 - **Giải thích (VI):** Tính chất của quan hệ thứ tự khẳng định rằng với ba số $a, b, c$, nếu $a < b$ và $b < c$ thì $a < c$ (tương tự, nếu $a \le b$ và $b \le c$ thì $a \le c$).
-- **Bối cảnh:** Toán học lớp 6, Bài 3 (Mục Thứ tự của các số tự nhiên): So sánh gián tiếp hai số tự nhiên thông qua một số trung gian thứ ba.
-- **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 01, B3, tr. 13; SGK Toán 6 KNTT Tập 1, Chương 01, B3, tr. 13, 14; SGK Toán 6 KNTT Tập 1, Chương 01, B3, tr. 14
+- **Giải thích khác (SGK Toán 9 Tập 1):** EN: A fundamental property of inequalities stating that if $a < b$ and $b < c$ then $a < c$; the same transitive property holds analogously for the order relations $>$, $\ge$, and $\le$. / VI: Tính chất cơ bản của bất đẳng thức khẳng định nếu $a < b$ và $b < c$ thì $a < c$; các thứ tự $>$, $\ge$ và $\le$ cũng có tính chất bắc cầu tương tự.
+- **Bối cảnh:**
+  - Toán học lớp 6, Bài 3 (Mục Thứ tự của các số tự nhiên): So sánh gián tiếp hai số tự nhiên thông qua một số trung gian thứ ba.
+  - Toán học lớp 9, Bài 5 (Mục 1): So sánh hai số hoặc chứng minh bất đẳng thức thông qua một số hoặc biểu thức trung gian.
+- **Nguồn:** SGK Toán 6 KNTT Tập 1, Chương 01, B3, tr. 13; SGK Toán 6 KNTT Tập 1, Chương 01, B3, tr. 13, 14; SGK Toán 6 KNTT Tập 1, Chương 01, B3, tr. 14; SGK Toán 9 KNTT Tập 1, Chương 02, B5, tr. 31; SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 1), tr. 33; SGK Toán 9 KNTT Tập 1, Chương 02, B5 (Mục 2), tr. 33
 
 ### transitivity of parallel lines
 - **Tiếng Việt:** Tính chất bắc cầu của hai đường thẳng song song
@@ -9455,6 +10881,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 11, Bài 4 (Bảng giải thích thuật ngữ): Khái niệm chung cho các phương trình chứa biểu thức sin, côsin, tang hoặc côtang của ẩn số.
 - **Nguồn:** SGK Toán 11 KNTT Tập 1, Chương 01, B4, tr. 31; SGK Toán 11 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 131
 
+### trigonometric ratios of an acute angle
+- **Tiếng Việt:** Tỉ số lượng giác của góc nhọn (tỉ số lượng giác)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The collective name for the four side ratios in a right triangle associated with an acute angle $\alpha$, comprising the sine ($\sin \alpha$), cosine ($\cos \alpha$), tangent ($\tan \alpha$), and cotangent ($\cot \alpha$).
+- **Giải thích (VI):** Tên gọi chung của bốn tỉ số giữa các cạnh trong tam giác vuông ứng với một góc nhọn $\alpha$, bao gồm sin ($\sin \alpha$), côsin ($\cos \alpha$), tang ($\tan \alpha$) và côtang ($\cot \alpha$).
+- **Bối cảnh:** Toán học lớp 9, Bài 11 (Mục 1): xác định bộ bốn tỉ số lượng giác của góc nhọn bất kì và của các góc đặc biệt $30^\circ, 45^\circ, 60^\circ$.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 04, B11, tr. 66; SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 68; SGK Toán 9 KNTT Tập 1, Chương 04, B11 (Mục 1), tr. 68, 69
+
 ### trigonometric values of an angle
 - **Tiếng Việt:** Giá trị lượng giác của một góc (Giá trị lượng giác của một góc lượng giác; giá trị lượng giác; côsin)
 - **Chuyên ngành gốc:** Toán học
@@ -9464,7 +10898,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:**
   - Toán học lớp 10, Bài 5 (Mục 1): Xác định bốn giá trị lượng giác của góc từ $0^\circ$ đến $180^\circ$ phục vụ hệ thức lượng trong tam giác.
   - Toán học lớp 11, Bài 1 (Mục 3b): Mở rộng các tỉ số lượng giác ở lớp 10 cho góc lượng giác có số đo tuỳ ý.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 03, B5, tr. 33; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34; SGK Toán 11 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 3.a), tr. 11; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 3.b), tr. 11; SGK Toán 11 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 131
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 03, B5, tr. 33; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34, 35; SGK Toán 11 KNTT Tập 1, Chương 01, B1, tr. 5; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 3.a), tr. 11; SGK Toán 11 KNTT Tập 1, Chương 01, B1 (Mục 3.b), tr. 11; SGK Toán 11 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 131
 
 ### trigonometric values of complementary angles
 - **Tiếng Việt:** Giá trị lượng giác của hai góc phụ nhau
@@ -9498,6 +10932,38 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Tin học lớp 10, Bài 5 (Mục 1.a): Hai giá trị cơ sở của mệnh đề và dữ liệu kiểu lôgic trong máy tính.
 - **Nguồn:** SGK Tin học 10 KNTT, Chủ đề 01, B5, tr. 24; SGK Tin học 10 KNTT, Chủ đề 01, B5 (Mục 1), tr. 24; SGK Tin học 10 KNTT, Chủ đề 01, B5 (Mục 1.a), tr. 24
 
+### two intersecting circles
+- **Tiếng Việt:** Hai đường tròn cắt nhau
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** Two circles $(O; R)$ and $(O'; R')$ (with $R \ge R'$) that share exactly two distinct common points, occurring if and only if the distance between their centers satisfies $R - R' < OO' < R + R'$.
+- **Giải thích (VI):** Hai đường tròn $(O; R)$ và $(O'; R')$ (với $R \ge R'$) có đúng hai điểm chung phân biệt, xảy ra khi và chỉ khi khoảng cách nối tâm thoả mãn hệ thức $R - R' < OO' < R + R'$.
+- **Bối cảnh:** Toán học lớp 9, Bài 17 (Mục 1): Xác định vị trí tương đối có hai điểm chung của hai đường tròn thông qua hệ thức giữa đoạn nối tâm và hai bán kính.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B17, tr. 104; SGK Toán 9 KNTT Tập 1, Chương 05, B17 (Mục 1), tr. 104; SGK Toán 9 KNTT Tập 1, Chương 05, B17 (Mục 1), tr. 104, 105
+
+### two intersecting tangents to a circle
+- **Tiếng Việt:** Hai tiếp tuyến cắt nhau
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** A pair of tangent lines $PA$ and $PB$ to the same circle $(O)$ (with distinct points of tangency $A, B$) that intersect at an external point $P$.
+- **Giải thích (VI):** Cặp tiếp tuyến $PA$ và $PB$ của cùng một đường tròn $(O)$ (với $A, B$ là hai tiếp điểm phân biệt) cùng đi qua một điểm $P$ nằm bên ngoài đường tròn đó.
+- **Bối cảnh:** Toán học lớp 9, Bài 16 (Mục 3): Cấu hình hình học cơ bản xuất phát từ một điểm nằm ngoài đường tròn để khảo sát tính đối xứng và đẳng thức đoạn thẳng.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B16, tr. 99; SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 2), tr. 101; SGK Toán 9 KNTT Tập 1, Chương 05, B16 (Mục 3), tr. 101
+
+### two non-intersecting circles
+- **Tiếng Việt:** Hai đường tròn không giao nhau
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** Two distinct circles that have no points in common, encompassing mutually external circles and one circle containing the other.
+- **Giải thích (VI):** Hai đường tròn phân biệt không có điểm chung nào, bao gồm trường hợp hai đường tròn ở ngoài nhau và trường hợp đường tròn lớn đựng đường tròn nhỏ.
+- **Bối cảnh:** Toán học lớp 9, Bài 17 (Mục 3): Xác định vị trí tương đối không có điểm chung của hai đường tròn trong mặt phẳng.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B17, tr. 104; SGK Toán 9 KNTT Tập 1, Chương 05, B17 (Mục 3), tr. 106; SGK Toán 9 KNTT Tập 1, Chương 05, B17 (Mục 3), tr. 106, 107
+
+### two tangent circles
+- **Tiếng Việt:** Hai đường tròn tiếp xúc nhau
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** Two circles that share exactly one common point (the point of tangency), which always lies on the line passing through their centers.
+- **Giải thích (VI):** Hai đường tròn chỉ có duy nhất một điểm chung (tiếp điểm), trong đó tiếp điểm luôn nằm trên đường thẳng nối tâm của hai đường tròn.
+- **Bối cảnh:** Toán học lớp 9, Bài 17 (Mục 2): Nhận biết vị trí tương đối có một điểm chung duy nhất của hai đường tròn trước khi chia thành tiếp xúc ngoài và tiếp xúc trong.
+- **Nguồn:** SGK Toán 9 KNTT Tập 1, Chương 05, B17, tr. 104; SGK Toán 9 KNTT Tập 1, Chương 05, B17 (Mục 1), tr. 105; SGK Toán 9 KNTT Tập 1, Chương 05, B17 (Mục 2), tr. 105
+
 ### two-by-two contingency table
 - **Tiếng Việt:** Bảng dữ liệu thống kê $2 \times 2$
 - **Chuyên ngành gốc:** Toán học
@@ -9520,7 +10986,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The event '$A$ or $B$ occurs' formed from two events $A$ and $B$, denoted by $A \cup B$. It corresponds to the subset $A \cup B$ of the sample space $\Omega$.
 - **Giải thích (VI):** Biến cố “$A$ hoặc $B$ xảy ra” tạo thành từ hai biến cố $A$ và $B$, kí hiệu là $A \cup B$. Biến cố hợp của $A$ và $B$ là tập con $A \cup B$ của không gian mẫu $\Omega$.
 - **Bối cảnh:** Toán học lớp 11, Bài 28 (Mục 1): Biểu diễn biến cố có ít nhất một trong hai biến cố thành phần xảy ra để xây dựng công thức cộng xác suất.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B28 (Mục 1), tr. 67, 68
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 08, B28 (Mục 1), tr. 67, 68; SGK Toán 11 KNTT Tập 2, Chương 08, B28, tr. 66; SGK Toán 11 KNTT Tập 2, Chương 08, B28 (Mục 1), tr. 67
 
 ### union of two sets
 - **Tiếng Việt:** Hợp của hai tập hợp (hợp)
@@ -9528,7 +10994,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The set consisting of all elements that belong to set $S$ or to set $T$, denoted by $S \cup T$. It is defined by $S \cup T = \{x \mid x \in S \text{ or } x \in T\}$.
 - **Giải thích (VI):** Tập hợp gồm tất cả các phần tử thuộc tập hợp $S$ hoặc thuộc tập hợp $T$, kí hiệu là $S \cup T$. Công thức xác định là $S \cup T = \{x \mid x \in S \text{ hoặc } x \in T\}$.
 - **Bối cảnh:** Toán học lớp 10, Bài 2 (Mục 3b): Gộp các phần tử thoả mãn ít nhất một trong hai điều kiện cho trước.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2, tr. 12; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 3.b), tr. 17
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2, tr. 12; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 3.b), tr. 17; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.a), tr. 12; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.a), tr. 13
 
 ### uniqueness of terminal point for a given vector
 - **Tiếng Việt:** Sự xác định duy nhất điểm cuối của vectơ bằng vectơ cho trước
@@ -9560,7 +11026,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The semicircle centered at the origin $O$ with radius $R = 1$ lying above the horizontal axis ($y \ge 0$) in the coordinate plane $Oxy$. For each angle $\alpha$ satisfying $0^\circ \le \alpha \le 180^\circ$, there is a unique point $M(x_0; y_0)$ on the unit semicircle such that $\widehat{xOM} = \alpha$.
 - **Giải thích (VI):** Nửa đường tròn có tâm tại gốc toạ độ $O$, bán kính $R = 1$ nằm phía trên trục hoành ($y \ge 0$) trong mặt phẳng toạ độ $Oxy$. Với mỗi góc $\alpha$ thoả mãn $0^\circ \le \alpha \le 180^\circ$, có duy nhất điểm $M(x_0; y_0)$ trên nửa đường tròn đơn vị sao cho $\widehat{xOM} = \alpha$.
 - **Bối cảnh:** Toán học lớp 10, Bài 5 (Mục 1): Mở rộng định nghĩa tỉ số lượng giác từ góc nhọn sang góc bất kì từ $0^\circ$ đến $180^\circ$.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 03, B5, tr. 33; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 03, B5, tr. 33; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34; SGK Toán 10 KNTT Tập 1, Chương 03, B5 (Mục 1), tr. 34, 35
 
 ### unit vector
 - **Tiếng Việt:** Vectơ đơn vị (vectơ đơn vị của trục)
@@ -9588,6 +11054,22 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Chữ đại diện cho đại lượng chưa biết cần tìm giá trị trong phương trình, chẳng hạn $x$ trong phương trình $A(x) = B(x)$ hoặc phương trình bậc nhất $ax + b = 0$.
 - **Bối cảnh:** Toán học lớp 8, Bài 25 (Mục 2): Phân biệt đại lượng chưa biết cần tìm với các hệ số đã cho trong phương trình.
 - **Nguồn:** SGK Toán 8 KNTT Tập 2, Chương 07, B25, tr. 27; SGK Toán 8 KNTT Tập 2, Chương 07, B25 (Mục 1), tr. 27; SGK Toán 8 KNTT Tập 2, Chương 07, B25 (Mục 1), tr. 28; SGK Toán 8 KNTT Tập 2, Chương 07, B25 (Mục 2), tr. 29
+
+### unknown of a quadratic equation
+- **Tiếng Việt:** Ẩn của phương trình bậc hai (ẩn)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The unknown quantity (commonly denoted by $x$) appearing with highest exponent $2$ in the quadratic equation $ax^2 + bx + c = 0$ ($a \ne 0$), whose values satisfying the equality are to be found.
+- **Giải thích (VI):** Đại lượng chưa biết (thường kí hiệu là $x$) xuất hiện với số mũ cao nhất bằng $2$ trong phương trình bậc hai một ẩn $ax^2 + bx + c = 0$ ($a \ne 0$), cần tìm giá trị để đẳng thức đúng.
+- **Bối cảnh:** Toán học lớp 9, Bài 19 (Mục 1): Phân biệt biến cần tìm nghiệm với các hệ số đã cho trong phương trình bậc hai một ẩn.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 06, B19, tr. 10; SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 1), tr. 10; SGK Toán 9 KNTT Tập 2, Chương 06, B19 (Mục 1), tr. 10, 11
+
+### upper class limit
+- **Tiếng Việt:** Đầu mút phải
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The upper boundary value $b$ of a class interval $[a, b)$, representing the exclusive upper bound such that every data value in the class is strictly less than $b$.
+- **Giải thích (VI):** Giá trị biên trên $b$ của nhóm số liệu $[a; b)$, biểu thị mốc cận trên không bao gồm trong nhóm sao cho mọi số liệu thuộc nhóm đều nhỏ hơn $b$.
+- **Bối cảnh:** Toán học lớp 9, Bài 24 (Mục 1): xác định cận trên không bao gồm giá trị biên của mỗi nhóm số liệu nửa khoảng $[a; b)$.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 07, B24, tr. 46; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 46; SGK Toán 9 KNTT Tập 2, Chương 07, B24 (Mục 1), tr. 46, 47
 
 ### upper limit of integration
 - **Tiếng Việt:** Cận trên
@@ -9692,7 +11174,9 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** A directed line segment in which one endpoint is specified as the initial point and the other as the terminal point, denoted by its endpoints (such as $\overrightarrow{AB}$ with initial point $A$ and terminal point $B$) or by a lowercase letter with an arrow above it (such as $\vec{a}, \vec{b}, \vec{x}, \vec{y}$).
 - **Giải thích (VI):** Đoạn thẳng có hướng mà trong hai điểm mút đã chỉ rõ điểm đầu và điểm cuối, kí hiệu theo hai mút (như $\overrightarrow{AB}$ với điểm đầu $A$, điểm cuối $B$) hoặc bằng chữ cái in thường có mũi tên trên đầu (như $\vec{a}, \vec{b}, \vec{x}, \vec{y}$).
-- **Bối cảnh:** Toán học lớp 10, Bài 7 (Mục 1): Khái niệm mở đầu của hình học vectơ, dùng để biểu diễn các đại lượng có cả độ lớn và hướng.
+- **Bối cảnh:**
+  - Toán học lớp 10, Bài 7 (Mục 1): Khái niệm mở đầu của hình học vectơ, dùng để biểu diễn các đại lượng có cả độ lớn và hướng.
+  - *Lưu ý:* Không nhầm với 'Thể truyền' (`vector (biology)`) trong Sinh học.
 - **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 04, B7, tr. 46; SGK Toán 10 KNTT Tập 1, Chương 04, B7 (Mục 1), tr. 47; SGK Toán 10 KNTT Tập 1, Chương 04, B7 (Mục 2), tr. 47
 
 ### vector addition
@@ -9753,20 +11237,23 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** A plane figure bounded by a simple closed curve used to visually illustrate a set as well as inclusion relations and operations among sets.
 - **Giải thích (VI):** Hình phẳng giới hạn bởi một đường cong khép kín dùng để minh hoạ trực quan một tập hợp cũng như quan hệ bao hàm và các phép toán giữa các tập hợp.
 - **Bối cảnh:** Toán học lớp 10, Bài 2 (Mục 1b): Minh hoạ trực quan tập hợp con và các phép toán giao, hợp, hiệu, phần bù.
-- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2, tr. 12; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.b), tr. 14; SGK Toán 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 103
+- **Nguồn:** SGK Toán 10 KNTT Tập 1, Chương 01, B2, tr. 12; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.b), tr. 14; SGK Toán 10 KNTT Tập 1, Bảng giải thích thuật ngữ, tr. 103; SGK Toán 10 KNTT Tập 1, Chương 01, B2 (Mục 1.c), tr. 14
 
 ### vertex of a parabola
-- **Tiếng Việt:** Đỉnh (đỉnh của parabol)
+- **Tiếng Việt:** Đỉnh (đỉnh của parabol; Đỉnh của parabol $y = ax^2$)
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** The distinguished point $I\left(-\frac{b}{2a}, -\frac{\Delta}{4a}\right)$ (where $\Delta = b^2 - 4ac$) on the parabola $y = ax^2 + bx + c$ ($a \ne 0$), serving as the lowest point on the graph when $a > 0$ and the highest point on the graph when $a < 0$.
 - **Giải thích (VI):** Điểm đặc biệt $I\left(-\frac{b}{2a}; -\frac{\Delta}{4a}\right)$ (với $\Delta = b^2 - 4ac$) thuộc parabol $y = ax^2 + bx + c$ ($a \ne 0$), là điểm thấp nhất trên đồ thị khi $a > 0$ và là điểm cao nhất trên đồ thị khi $a < 0$.
 - **Giải thích khác (SGK Toán 6 Tập 1):** EN: Point where two adjacent sides of a plane polygon (such as a triangle, quadrilateral, or hexagon) meet, typically denoted by an uppercase letter ($A, B, C, D, \dots$). / VI: Điểm gặp nhau của hai cạnh kề nhau trên một hình đa giác phẳng (như tam giác, tứ giác, lục giác), thường kí hiệu bằng chữ cái in hoa ($A, B, C, D, \dots$).
+- **Giải thích khác (SGK Toán 9 Tập 2):** EN: The coordinate origin $O(0, 0)$ on the graph of $y = ax^2$ ($a \ne 0$), where the parabola intersects its axis of symmetry $Oy$ (all other points of the parabola lie above the horizontal axis if $a > 0$ and below it if $a < 0$). / VI: Điểm gốc toạ độ $O(0; 0)$ thuộc đồ thị hàm số $y = ax^2$ ($a \ne 0$), nơi đường parabol cắt trục đối xứng $Oy$ (các điểm còn lại của parabol đều nằm phía trên trục hoành nếu $a > 0$ và nằm phía dưới trục hoành nếu $a < 0$).
 - **Bối cảnh:**
   - Toán học lớp 10, Bài 16 (Mục 2): xác định điểm cực trị hình học để vẽ đồ thị và tìm giá trị lớn nhất, nhỏ nhất của hàm số bậc hai.
   - Toán học lớp 6, Bài 18 (Mục 1, 2): Xác định và gọi tên các đỉnh của tam giác đều, hình vuông, lục giác đều và các tứ giác.
+  - Toán học lớp 9, Bài 18 (Mục 2): Xác định điểm đặc biệt tại gốc toạ độ $O(0; 0)$ khi vẽ và khảo sát parabol $y = ax^2$ ($a \ne 0$).
   - *Lưu ý:* Chỉ đỉnh của đường parabol trên mặt phẳng toạ độ; phân biệt với đỉnh của góc, đa giác, khối đa diện hoặc đỉnh của đồ thị trong lí thuyết đồ thị.
   - *Lưu ý:* Đỉnh của hình đa giác phẳng trong Chương IV Toán 6, phân biệt với đỉnh của một góc hoặc đỉnh của hình khối không gian.
-- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 06, B16, tr. 11; SGK Toán 10 KNTT Tập 2, Chương 06, B16 (Mục 2), tr. 14; SGK Toán 10 KNTT Tập 2, Chương 06, B16 (Mục 2), tr. 14, 15; SGK Toán 6 KNTT Tập 1, Chương 04, B18, tr. 84; SGK Toán 6 KNTT Tập 1, Chương 04, B18 (Mục 1), tr. 84; SGK Toán 6 KNTT Tập 1, Chương 04, B18 (Mục 1), tr. 85
+  - *Lưu ý:* Scoped in Grade 9 to the parabola y = ax^2 (a ≠ 0) whose vertex is fixed at O(0, 0), prior to the general vertex (-b/(2a), -Δ/(4a)) in Grade 10.
+- **Nguồn:** SGK Toán 10 KNTT Tập 2, Chương 06, B16, tr. 11; SGK Toán 10 KNTT Tập 2, Chương 06, B16 (Mục 2), tr. 14; SGK Toán 10 KNTT Tập 2, Chương 06, B16 (Mục 2), tr. 14, 15; SGK Toán 6 KNTT Tập 1, Chương 04, B18, tr. 84; SGK Toán 6 KNTT Tập 1, Chương 04, B18 (Mục 1), tr. 84; SGK Toán 6 KNTT Tập 1, Chương 04, B18 (Mục 1), tr. 85; SGK Toán 9 KNTT Tập 2, Chương 06, B18, tr. 4; SGK Toán 9 KNTT Tập 2, Chương 06, B18 (Mục 2), tr. 7; SGK Toán 9 KNTT Tập 2, Chương 06, B18 (Mục 2), tr. 7, 8
 
 ### vertex of an angle
 - **Tiếng Việt:** Đỉnh của góc (đỉnh)
@@ -9800,6 +11287,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 12, Bài 3 (Mục 2): Xác định đường tiệm cận đứng của đồ thị hàm số thông qua giới hạn một bên bằng vô cực tại điểm $x_0$.
 - **Nguồn:** SGK Toán 12 KNTT Tập 1, Chương 01, B3, tr. 20; SGK Toán 12 KNTT Tập 1, Chương 01, B3 (Mục 1), tr. 21; SGK Toán 12 KNTT Tập 1, Chương 01, B3 (Mục 2), tr. 21
 
+### vertices, sides, and angles of a polygon
+- **Tiếng Việt:** Đỉnh, cạnh, góc của đa giác
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The constituent elements of a polygon (such as $ABCDE$), comprising its vertices ($A, B, C, D, E$), its sides as the bounding line segments ($AB, BC, CD, DE, EA$), and its angles formed by pairs of adjacent sides ($EAB, ABC, BCD, CDE, DEA$).
+- **Giải thích (VI):** Các yếu tố cấu thành một đa giác (chẳng hạn đa giác $ABCDE$), bao gồm các đỉnh là đầu mút của các đoạn thẳng ($A, B, C, D, E$), các cạnh là những đoạn thẳng tạo nên đa giác ($AB, BC, CD, DE, EA$), và các góc tạo bởi hai cạnh chung đỉnh ($EAB, ABC, BCD, CDE, DEA$).
+- **Bối cảnh:** Toán học lớp 9, Bài 30 (Mục 1): xác định các yếu tố cấu tạo cơ bản của đa giác trước khi khảo sát đa giác đều.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 09, B30, tr. 84; SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 1), tr. 84; SGK Toán 9 KNTT Tập 2, Chương 09, B30 (Mục 1), tr. 84, 85
+
 ### vertices, sides, and angles of a quadrilateral
 - **Tiếng Việt:** Đỉnh, cạnh, góc của tứ giác
 - **Chuyên ngành gốc:** Toán học
@@ -9808,13 +11303,31 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 8, Bài 10 (Mục 1): xác định và kí hiệu các yếu tố cơ bản khi đọc tên và chứng minh tính chất hình học của tứ giác.
 - **Nguồn:** SGK Toán 8 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 49; SGK Toán 8 KNTT Tập 1, Chương 03, B10 (Mục 1), tr. 49, 50
 
+### Vieta's formulas
+- **Tiếng Việt:** Định lí Viète
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The theorem expressing the relationship between the two roots $x_1, x_2$ and the coefficients of a quadratic equation $ax^2 + bx + c = 0$ ($a \ne 0$, with $\Delta \ge 0$) through the identities $x_1 + x_2 = -\frac{b}{a}$ and $x_1 x_2 = \frac{c}{a}$.
+- **Giải thích (VI):** Định lí biểu thị mối liên hệ giữa hai nghiệm $x_1, x_2$ và các hệ số của phương trình bậc hai $ax^2 + bx + c = 0$ ($a \ne 0$, với $\Delta \ge 0$) qua hai hệ thức $x_1 + x_2 = -\frac{b}{a}$ và $x_1 x_2 = \frac{c}{a}$.
+- **Bối cảnh:**
+  - Toán học lớp 9, Bài 20 (Mục 1): Tính tổng, tích các biểu thức đối xứng của hai nghiệm mà không cần giải trực tiếp phương trình bậc hai.
+  - *Lưu ý:* Scoped in Grade 9 to quadratic equations ax^2 + bx + c = 0, prior to higher-degree polynomial Vieta's formulas.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 06, B20, tr. 21; SGK Toán 9 KNTT Tập 2, Chương 06, B20 (Mục 1), tr. 21; SGK Toán 9 KNTT Tập 2, Chương 06, B20 (Mục 1), tr. 21, 22
+
 ### volume
 - **Tiếng Việt:** Thể tích
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** A mathematical quantity, denoted by $V$, that measures the amount of space occupied by an object.
 - **Giải thích (VI):** Đại lượng toán học đo mức độ chiếm chỗ của vật thể trong không gian, thường kí hiệu là $V$.
 - **Bối cảnh:** Toán học lớp 11, Bài 27 (Mở đầu): Khái niệm nền tảng để xây dựng các công thức thể tích của khối chóp, khối chóp cụt đều, khối lăng trụ và khối hộp.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61; SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61, 62; SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 62
+
+### volume of a cone
+- **Tiếng Việt:** Thể tích hình nón (thể tích của hình nón)
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The measure of the three-dimensional space bounded by a cone with base area $S_{\text{đáy}}$, base radius $r$, and height $h$, given by the formula $V = \dfrac{1}{3}S_{\text{đáy}} \cdot h = \dfrac{1}{3}\pi r^2 h$.
+- **Giải thích (VI):** Đại lượng đo phần không gian giới hạn bởi hình nón có diện tích đáy $S_{\text{đáy}}$, bán kính đáy $r$ và chiều cao $h$, tính theo công thức $V = \dfrac{1}{3}S_{\text{đáy}} \cdot h = \dfrac{1}{3}\pi r^2 h$.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 2): Tính thể tích hoặc dung tích các vật thể có dạng hình nón.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 98; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 99; SGK Toán 9 KNTT Tập 2, Chương 10, B31 (Mục 2), tr. 99, 100
 
 ### volume of a cube
 - **Tiếng Việt:** Thể tích hình lập phương
@@ -9824,13 +11337,21 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Bối cảnh:** Toán học lớp 7, Bài 36 (Mục 2): Tính thể tích các khối hộp và bể chứa có dạng hình lập phương.
 - **Nguồn:** SGK Toán 7 KNTT Tập 2, Chương 10, B36 (Mục 2), tr. 89; SGK Toán 7 KNTT Tập 2, Chương 10, B36 (Mục 2), tr. 89, 90
 
+### volume of a cylinder
+- **Tiếng Việt:** Thể tích hình trụ
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The measure of the three-dimensional space bounded by a cylinder with base area $S_{\text{đáy}}$, base radius $R$, and height $h$, given by the formula $V = S_{\text{đáy}} \cdot h = \pi R^2 h$.
+- **Giải thích (VI):** Đại lượng đo phần không gian giới hạn bởi hình trụ có diện tích đáy $S_{\text{đáy}}$, bán kính đáy $R$ và chiều cao $h$, tính theo công thức $V = S_{\text{đáy}} \cdot h = \pi R^2 h$.
+- **Bối cảnh:** Toán học lớp 9, Bài 31 (Mục 1): Tính dung tích hoặc thể tích các vật thể có dạng hình trụ.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Bảng giải thích thuật ngữ, tr. 131
+
 ### volume of a parallelepiped
 - **Tiếng Việt:** Thể tích khối hộp
 - **Chuyên ngành gốc:** Toán học
 - **Giải thích (EN):** The volume of a parallelepiped solid, equal to the product of the area $S$ of one face and the corresponding height $h$ associated with that face ($V = h \cdot S$).
 - **Giải thích (VI):** Đại lượng đo thể tích của khối hộp, bằng tích của diện tích $S$ của một mặt và chiều cao $h$ của khối hộp ứng với mặt đó ($V = h \cdot S$).
 - **Bối cảnh:** Toán học lớp 11, Bài 27 (Nhận xét): Vận dụng công thức thể tích khối lăng trụ cho khối hộp bằng cách chọn một mặt bất kì làm đáy.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61, 62, 63
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61, 62, 63; SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61; SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 62; SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 62, 63
 
 ### volume of a prism
 - **Tiếng Việt:** Thể tích khối lăng trụ
@@ -9838,7 +11359,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The volume of a prismatic solid with base area $S$ and height $h$, given by the formula $V = h \cdot S$.
 - **Giải thích (VI):** Đại lượng đo thể tích của khối lăng trụ có diện tích đáy $S$ và chiều cao $h$, xác định bởi công thức $V = h \cdot S$.
 - **Bối cảnh:** Toán học lớp 11, Bài 27 (Mở đầu): Tính thể tích của khối lăng trụ đứng và khối lăng trụ xiên theo diện tích đáy và chiều cao.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61, 62
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61, 62; SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61; SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 62
 
 ### volume of a pyramid
 - **Tiếng Việt:** Thể tích khối chóp (thể tích khối tứ diện)
@@ -9846,7 +11367,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The volume of a pyramidal solid with base area $S$ and height $h$, given by the formula $V = \dfrac{1}{3} \cdot h \cdot S$. In particular, the volume of a tetrahedron equals one-third the product of the height from a vertex and the area of the opposite face.
 - **Giải thích (VI):** Đại lượng đo thể tích của khối chóp có diện tích đáy $S$ và chiều cao $h$, xác định bởi công thức $V = \dfrac{1}{3} \cdot h \cdot S$. Đặc biệt, thể tích khối tứ diện bằng một phần ba tích của chiều cao hạ từ một đỉnh và diện tích mặt đối diện với đỉnh đó.
 - **Bối cảnh:** Toán học lớp 11, Bài 27 (Mở đầu): Tính thể tích khối chóp và khối tứ diện khi biết diện tích mặt đáy và chiều cao tương ứng.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61, 62
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61, 62; SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61; SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 62
 
 ### volume of a pyramidal frustum
 - **Tiếng Việt:** Thể tích khối chóp cụt (thể tích khối chóp cụt đều)
@@ -9854,7 +11375,7 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (EN):** The volume of a regular pyramidal frustum solid with larger base area $S$, smaller base area $S'$, and height $h$, given by the formula $V = \dfrac{1}{3} \cdot h \cdot \left(S + S' + \sqrt{S \cdot S'}\right)$.
 - **Giải thích (VI):** Đại lượng đo thể tích của khối chóp cụt đều có diện tích đáy lớn $S$, diện tích đáy bé $S'$ và chiều cao $h$, xác định bởi công thức $V = \dfrac{1}{3} \cdot h \cdot \left(S + S' + \sqrt{S \cdot S'}\right)$.
 - **Bối cảnh:** Toán học lớp 11, Bài 27 (Mở đầu): Tính thể tích khối chóp cụt đều dựa trên diện tích hai mặt đáy song song và chiều cao.
-- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61, 62
+- **Nguồn:** SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61, 62; SGK Toán 11 KNTT Tập 2, Chương 07, B27, tr. 61
 
 ### volume of a rectangular prism
 - **Tiếng Việt:** Thể tích hình hộp chữ nhật
@@ -9905,6 +11426,14 @@ Tài liệu tuân thủ quy chuẩn `SPEC-GLOSSARY-V2` (`glossary/v2/rules/2026-
 - **Giải thích (VI):** Thể tích của hình khối sinh ra khi quay hình phẳng giới hạn bởi đồ thị hàm số $y = f(x)$ liên tục, không âm trên đoạn $[a; b]$, trục hoành và hai đường thẳng $x = a, x = b$ xung quanh trục $Ox$, xác định bởi công thức $V = \pi \int_a^b f^2(x)\text{d}x$. Công thức này thu được từ diện tích mặt cắt hình tròn $S(x) = \pi f^2(x)$ bán kính $f(x)$ tại mỗi điểm $x \in [a; b]$.
 - **Bối cảnh:** Toán học lớp 12, Bài 13 (Mục 2.b): Dùng để tính thể tích các khối tròn xoay tạo bởi đồ thị hàm số quay quanh trục $Ox$, chẳng hạn chứng minh công thức thể tích khối cầu bán kính $R$.
 - **Nguồn:** SGK Toán 12 KNTT Tập 2, Chương 04, B13 (Mục 2.b), tr. 24; SGK Toán 12 KNTT Tập 2, Chương 04, B13 (Mục 2.b), tr. 24, 25; SGK Toán 12 KNTT Tập 2, Chương 04, B13 (Mục 2.b), tr. 25
+
+### volume of a sphere
+- **Tiếng Việt:** Thể tích hình cầu
+- **Chuyên ngành gốc:** Toán học
+- **Giải thích (EN):** The measure of the three-dimensional space bounded by a solid sphere of radius $R$, given by the formula $V = \dfrac{4}{3}\pi R^3$.
+- **Giải thích (VI):** Đại lượng đo phần không gian giới hạn bởi hình cầu có bán kính $R$, tính theo công thức $V = \dfrac{4}{3}\pi R^3$.
+- **Bối cảnh:** Toán học lớp 9, Bài 32 (Mục 2): Tính thể tích hoặc dung tích các vật thể có dạng hình cầu.
+- **Nguồn:** SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 2), tr. 103; SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 2), tr. 104; SGK Toán 9 KNTT Tập 2, Chương 10, B32 (Mục 2), tr. 104, 105
 
 ### whole-number part
 - **Tiếng Việt:** Phần nguyên
